@@ -1,0 +1,256 @@
+                                Introduction
+
+   Here is a list of all the new additions to the FAQ. An list of older
+   changes can found [1]here.
+
+   The version number of the FAQ changes as follows. A major change
+   results in then the version number is increased by one (from version
+   10.2 to version 11, for example). If a minor change is being made then
+   the current version is increased by 0.1 (for example, from version 10.2
+   to 10.3).
+
+   As far as new anarchist and libertarian links are concerned, we will
+   add them when we get enough to make an update worthwhile. These updates
+   have no effect on the FAQ version number as we don't want to inflate it
+   higher than the content deserves.
+
+   We hope that this makes it clear to visitors!
+
+                           What's New in the FAQ?
+
+   Version Date What's New
+
+                                    13.4
+
+                                 21-JAN-2010
+
+                                [2]Section J
+      Revision of introduction to section J on "What do Anarchists do?"
+
+                               [3]Section J.1
+        Revision of section on "J.1 Are anarchists involved in social
+                                struggles?".
+
+                               [4]Section J.2
+              Revision of section on "What is direct action?".
+
+                               [5]Section J.3
+    Revision of section on "J.3 What kinds of organisation do anarchists
+                                  build?".
+
+   This revision was made as part of getting the second volume of the FAQ
+                           ready for publication.
+
+                                    13.3
+
+                                 30-SEP-2009
+
+                               [6]Section I.6
+      Revision of section on "What about the "Tragedy of the Commons"?"
+
+                               [7]section I.7
+         Revision of section on "Won't Libertarian Socialism destroy
+                              individuality?".
+
+                               [8]section I.8
+   Revision of section on "Does revolutionary Spain show that libertarian
+                      socialism can work in practice?".
+
+   This revision was made as part of getting the second volume of the FAQ
+                           ready for publication.
+
+                                    13.2
+
+                                 18-AUG-2009
+
+                               [9]Section I.4
+    Signification revision of section on "How would an anarchist society
+                                 function?"
+
+                               [10]section I.5
+    Signification revision of section on "What would the social structure
+     of anarchy look like?". Some sub-sections have been merged (the old
+    I.5.10 and I.5.11) and some have been substantially changed (the old
+   I.5.13 and I.5.14 have been merged into the new I.5.11). Section I.5.3
+    has been renamed and its previous material included in I.5.2. The new
+    [11]section I.5.3 discusses the means by which delegates remain under
+                             control from below.
+
+   This revision was made as part of getting the second volume of the FAQ
+                           ready for publication.
+
+                                    13.1
+
+                                 18-JUN-2009
+
+                                [12]Section I
+       Signification revision of the [13]introduction and first three
+   sub-sections ( [14]I.1, [15]I.2 and [16]I.3) of section I on What would
+                       an anarchist society look like?
+
+                              [17]Section I.3.3
+         Complete revision of section I.3.3, which is now on What is
+                               socialisation?.
+
+                              [18]Section I.1.5
+       New section on Does capitalism efficiently allocate resources?,
+    discussing why attempts to portray socialism as "impossible" downplay
+            the allocative inefficiencies of the current system.
+
+                              [19]Appendix 3.1
+   Slight change to the appendix Reply to errors and distortions in David
+    McNally's pamphlet "Socialism from Below". This is to include [20]an
+    introduction which notes that McNally has now distanced himself from
+        this pamphlet as well as the addition of more quotes on party
+    dictatorship by Trotsky to the section 15 ([21]Did Trotsky keep alive
+                     Leninism's "democratic essence"?).
+
+                          [22]An Anarchist FAQ blog
+   An Anarchist FAQ now has an official blog. This is used to post news as
+   well as extra material which cannot be included in the main body of the
+                                    FAQ.
+
+   This revision was made as part of getting the second volume of the FAQ
+                           ready for publication.
+
+                                    13.0
+
+                                 11-NOV-2008
+
+                        [23]An Anachist FAQ: Volume 1
+     An Anarchist FAQ, at long last, has now been published by AK Press.
+     Volume 1 (introductions, sections A to F, plus the appendix on the
+         symbols of Anarchy) is now available (ISBN: 978-1902593906)
+
+                                [24]Section H
+      Significant revision of the section on the anarchist critique of
+     Marxism. Removing of section H.2.15 as this is covered elsewhere in
+   section H as well as section H.2.16 (on the Spanish Revolution) as this
+                      is covered in [25]section I.8.11.
+
+                               [26]Section H.6
+    New section on the Russian Revolution, including an expansion of what
+   were sections H.3.15 and H.3.16 plus a new subsection on labour protest
+                      under Lenin ([27]Section H.6.3).
+
+   This revision was made as part of getting the second volume of the FAQ
+                           ready for publication.
+
+                                    12.2
+
+                                 08-FEB-2008
+
+                         [28]The Symbols of Anarchy
+       Significant revision and re-organisation of the appendix on the
+      appendix on the Symbols of Anarchy. Adding some new information,
+    clarifying the roots of the black and red-and-black flags in working
+                      class and generally improving it.
+
+    This revision was made as part of getting the first volume of the FAQ
+         ready for publication and so is really part of release 12.0
+
+                                    12.1
+
+                                 27-OCT-2007
+
+                                [29]Section G
+    Significant revision, re-organisation and expansion of the section on
+         individualist anarchism. Expands in more depth why it is as
+       anti-capitalist as other kinds of anarchism. Special thanks to
+    individualist anarchist Shawn Wilbur for his comments and feedback on
+                               this revision.
+
+    The following revisions were made as part of getting the first volume
+   of the FAQ ready for publication and so are really part of release 12.0
+
+                              [30]Section A.3.9
+       Revision of the section on primitivism to clarify a few issues.
+
+                              [31]Section F.2.2
+     The addition of a few quotes by leading "anarcho"-capitalist Walter
+   Block on slave contracts. Which, in itself, shows how far that ideology
+                         is from genuine anarchism.
+
+       This is part of the process of getting the FAQ ready for being
+        published by AK Press. Volume one (sections A to F, plus the
+    introductions and appendix on the symbols of anarchy) is nearly ready
+      for publication. We will announce the exact date later this year.
+
+                                    12.0
+
+                                 19-JUL-2007
+
+                               [32]Section C.7
+    Revision of section C.7 on what causes the capitalist business cycle.
+
+                               [33]Section C.8
+    Revision of section C.8 on why state control of credit does not cause
+                 slumps and the limitations of Keynesianism.
+
+                               [34]Section C.9
+   Revision of section C.9 on what causes unemployment (and it is not high
+      wages or unions) and why the NAIRU is class warfare by the rich.
+                                [35]Section F
+      Revision of section F. Why "anarcho"-capitalism is not a form of
+                                 anarchism.
+
+                              [36]Section F.3.2
+    New section on why there cannot be harmony of interests in an unequal
+                                  society.
+
+                              [37]Introduction
+                Slight changes to the original introduction.
+
+                 [38]Tenth Anniversary of An Anarchist FAQ!
+             Slight changes to the 10th Anniversay introduction.
+
+                              [39]Bibliography
+    Slight reorganisation of the bibliography to include a new section on
+    works about anarchism and anarchists but written by non-libertarians.
+
+       This is part of the process of getting the FAQ ready for being
+        published by AK Press. Volume one (sections A to F, plus the
+   introductions and appendix on the symbols of anarchy) is now ready for
+             publication. We will announce the exact date soon.
+
+References
+
+   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/oldnew.html
+   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJint.html
+   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ1.html
+   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
+   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html
+   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI6.html
+   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html
+   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html
+   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI4.html
+  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI5.html
+  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI5.html#seci533
+  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secIcon.html
+  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secIint.html
+  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI1.html
+  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html
+  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html
+  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html#seci33
+  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI1.html#seci15
+  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html
+  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html
+  21. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html#app15
+  22. http://anarchism.pageabode.com/blogs/afaq
+  23. file://localhost/home/mauro/baku/debianize/maint/anarchy/book.html
+  24. file://localhost/home/mauro/baku/debianize/maint/anarchy/secHcon.html
+  25. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci811
+  26. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html
+  27. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html#sech63
+  28. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
+  29. file://localhost/home/mauro/baku/debianize/maint/anarchy/secGcon.html
+  30. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca39
+  31. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF2.html#secf22
+  32. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
+  33. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC8.html
+  34. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
+  35. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
+  36. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html#secf32
+  37. file://localhost/home/mauro/baku/debianize/maint/anarchy/intro.html
+  38. file://localhost/home/mauro/baku/debianize/maint/anarchy/10years.html
+  39. file://localhost/home/mauro/baku/debianize/maint/anarchy/biblio.html

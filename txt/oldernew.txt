@@ -1,0 +1,1093 @@
+                                Introduction
+
+   Here is a list of all the new additions to the FAQ from (approximately)
+   the beginning of February 1997. This should make it far easier for the
+   return visitor to find out what has changed since the last visit.
+
+   Also it is worthwhile to explain how the version number of the FAQ
+   changes. If we are including a new section (filling an incomplete
+   section, for example) or including a new sub-section in an existing
+   section (for example, adding A.2.20 to section A.2) then the version
+   number is increased by one (from version 2.2 to version 3, for
+   example). If we are updating an old section with new information or an
+   improved argument, then the current version is increased by 0.1 (for
+   example, from version 2.2 to 2.3).
+
+   As far as new anarchist and libertarian links are concerned, we will
+   add them when we get enough to make an update worthwhile. These updates
+   have no effect on the FAQ version number as we don't want to inflate it
+   higher than the content deserves.
+
+   We hope that this makes it clear to visitors!
+
+                           What's New in the FAQ?
+
+                           Version Date What's New
+                         10.0 18-MAR-04 [1]Section H
+   Reorganisation of section H. Some sections have been moved around (for
+   example, section H.5 on the Makhnovist movement is now [2]section H.11
+     and section H.8 on vanguardism is now [3]section H.5). In addition,
+    sections from [4]section H.6 (what was section H.4) have been added.
+   Some changes have been made to other sections. For example the section
+     on Kronstadt (now [5]section H.7), the section on various Bolshevik
+     Oppositions ([6]section H.10) and the critique of Engels' essay on
+    Authority is now a new section ([7]section H.4) instead of being part
+                             of [8]section H.1.
+
+   The following subsections of section H.6 are now available:
+
+   [9]Section H.6
+   Introduction to section H.6
+   [10]Section H.6.3
+   Surely the Russian Revolution proves that vanguard parties work?
+   [11]Section H.6.4
+   Was Lenin's "State and Revolution" applied after October?
+   [12]Section H.6.5
+   Did the Bolsheviks really aim for Soviet power?
+   [13]Section H.6.6
+   What happened to the soviets after October?
+                       9.10 09-JAN-04 [14]Section H.9
+      New section on how Marxist and Leninist ideology helped cause the
+       degeneration of the Russian Revolution. Why only rejecting the
+       centralised, state capitalist Bolshevik vision can lead to real
+                                 socialism.
+
+   [15]Section H.10
+   New section on the better know oppositions within Bolshevism: The "Left
+   Communists" of 1918, the "Workers' Opposition" of 1920/1 and the "Left
+   Opposition" of 1923-7. Explains why they were not real oppositions and
+   what that says about the essence of Leninism. Talks about the little
+   know "Workers' Group" (a real opposition as it argued for workers
+   political and economic freedom) and what its repression by Lenin and
+   Trotsky says about the essence of Bolshevism.
+                        9.9 26-AUG-03 [16]Section H.7
+    New section on why the Russian Revolution failed. Covers most of the
+   common Leninist explanations of why Bolshevism became authoritarian and
+     shows why they are flawed. Includes replies to such classics as the
+              "declassing" of the working class and lots more.
+                        9.8 27-JAN-03 [17]Section H.5
+                              [18]Section H.5.4
+                              [19]Section H.5.5
+                              [20]Section H.5.6
+                              [21]Section H.5.8
+                             [22]Section H.5.10
+       Additions to various sub-sections to section H.5 ("What was the
+     Kronstadt Rebellion?"). These additions are from recently published
+                          Soviet Archive documents.
+
+   [23]Section B.4
+   A slight addition on company towns to the section on How does
+   capitalism affect liberty?
+
+   [24]Section H.2.2
+   Addition of an Emma Goldman quote to the section on "Do anarchists
+   reject "class conflict" as "the motor of change" and "collective
+   struggle" as the "means"?". This quote reiterates that Goldman, like
+   all social anarchists, placed collective class struggle at the core of
+   her politics.
+
+   [25]Section A.5.5
+   Slight change to the section on "Anarchists in the Italian Factory
+   Occupations" to include a quote by Gramsci on the Communist's
+   disgraceful position on the anti-fascist Arditi del Popolo
+   organisation.
+
+   [26]Section G
+   [27]Section G.2
+   [28]Section G.2.1
+   [29]Section G.2.2
+   A few additions to clarify a few points on the ideas of individualist
+   anarchism, its support of "free markets" and why it is anti-capitalist.
+
+                       9.7 27-JUNE-02 [30]Section H.3
+   New section on the "myths of Marxism." Covers the contradictions in the
+   Marxist and Leninist theories of the state, whether the state is simply
+    an instrument of class rule and whether anarchists and Marxists want
+     the same thing. In addition, covers whether Marxists seek to place
+      power in the hands of workers' organisation and their position on
+                     "workers' control." Plus lots more.
+
+   [31]Section H.8
+   New section on why anarchists oppose Leninist vanguard parties.
+   Discusses their anti-socialist and elitist tendencies and explains why
+   they are "bureaucratic centralist" rather than "democratic centralist."
+   Plus lots more.
+                        9.6 29-MAY-02 [32]Section H.5
+    A few additions to the section on the Kronstadt Rebellion, to include
+              Fedotoff-White's book The Growth of the Red Army
+
+   [33]Appendix - The Symbols of Anarchy
+   A few minor changes to the appendix on anarchist symbols.
+                        9.5 5-FEB-02 [34]Section H.6
+   New section on the Makhnovist movement. The Makhnovist movement was an
+   anarchist influenced peasant partisan army which fought in the Ukraine
+     for working class freedom and autonomy against the tyrannts of the
+        right and left. The Makhnovists show that there was a viable
+       alternative to the authoritarianism of the Bolsheviks and that
+       Bolshevik ideology played a key role in the degeneration of the
+       revolution. This section summarises the military history of the
+   movement, its constructive social ideas and its attempts to apply them.
+   In addition it refutes common allegations against the Makhnovists (such
+    as they were anti-Semitic, worked with the Whites, were Nationalists,
+                            anti-town and so on).
+
+                        9.4 7-DEC-01 [35]Section H.2
+         New section on how Marxists have distorted anarchist ideas.
+
+   [36]Section I.3
+   [37]Section I.4
+   [38]Section I.5
+   [39]Section I.8
+   [40]Marxists and Spanish Anarchism
+   [41]Reply to errors and distortions in the SWP's "Marxism and
+   Anarchism"
+   [42]Reply to errors and distortions in John Fisher's "Why we must
+   further Marxism and not Anarchism"
+   Minor updates of these sections and appendices to make the quotes
+   Peirats' CNT in the Spanish Revolution and Christies' We, the
+   Anarchists! consistent with the newly published book versions.
+                        9.3 27-OCT-01 [43]Section H.1
+    New section on how anarchists have opposed state socialism (including
+   Marxism) from the start. Indicates Stirner's and Proudhon's opposition
+    to state socialism and gives a short summary of Bakunin's critique of
+    Marxism. Discusses the key differences between anarchism and Marxism.
+      Also indicates why Engels' infamous essay "On Authority" does not
+                              refute anarchism.
+                       9.2 01-SEP-01 [44]Section A.5.4
+    Extensive revision and expansion of the section on "Anarchists in the
+   Russian Revolution." More details on the Makhnovist movement as well as
+     the degeneration of the revolution under the Bolshevik government.
+
+   [45]Section A.5.5
+   Expansion of the section on "Anarchists in the Italian Factory
+   Occupations."
+   Indicates the key role anarchists played in this movement.
+
+   [46]Section A.5.7
+   Slight revision to include a reference to the Situationists and their
+   influence in the May, 1968 events in Paris.
+
+   [47]Section D.5
+   Extensive revision of "What causes imperialism?". Provides an anarchist
+   analysis of what causes imperialism, how it has changed over time and
+   how "globalisation" is just another, more modern, form of it.
+
+   [48]Did Trotsky keep alive Leninism's "democratic essence"?
+   A new section to [49]Reply to errors and distortions in David McNally's
+   pamphlet "Socialism from Below". This section discusses Trotsky's
+   support for party dictatorship during the 1920s and 1930s, so showing
+   the inaccuracy of McNally's account of his ideas and putting in
+   question his assertions about Leninism's democratic essence."
+
+   [50]Marxists and Spainish Anarchism
+   Slight addition to [51]section 6 on the Asturias uprising and the
+   addition of Trotsky's suggestion that the CNT leaders take
+   "dictatorship for themselves" to [52]section 20.
+
+                   9.1 27-JUN-01 [53]Anarchism and Marxism
+        New reply to another (highly inaccurate) Trotskyist attack on
+   anarchism. We show how the "New Youth" article [54]"Why we must further
+    Marxism and not Anarchism" is little more than a series of inventions
+     and does not present an honest account of anarchist ideas. We also
+          indicate the authoritarian nature of Trotskyist politics.
+                         9.0 01-MAY-01 [55]Section I
+    Massive revision and extension to section I ("What would an anarchist
+     society look like?"). New sub-sections, new and improved arguments,
+   ideas, facts and quotes. Find out about the kind of society anarchists
+                             want and fight for.
+                        8.7 17-MAR-01 [56]Section H.5
+    New section on the Kronstadt Uprising against the Communists in 1921.
+   It presents an indepth discussion and analysis of the rising and places
+   it in the context of the revolution. It refutes Leninist claims that it
+       was a White conspiracy, counter-revolutionary or expressed the
+      exasperation of the peasants. It shows the continuity of the the
+     revolutionary sailors and their politics in 1917 with the revolt of
+    1921 and discusses what the suppression of the revolt tells us about
+                          the politics of Leninism.
+
+   [57]Section H -- Introduction
+   Slight change to include a quote by Lenin noting that the
+   Council/Anti-Parliamentarian Communists were close to anarchism.
+
+                  8.6 14-DEC-00 [58]The Symbols of Anarchy
+   Slight revision on the histories of the Black and Red-and-Black Flags.
+    Includes Louise Michels comments on both the Black and Red flags and
+   why the Black Flag ("the flag of strikes") may have become an anarchist
+      symbol. Also shows that anarchists used the red-and-black flag in
+                            Mexico in the 1870s.
+
+   [59]Anarchism and Marxism
+   Slight revisions to two parts of this appendix. Now quotes from the
+   Paris Commune's "Declaration to the French People" in our discussion of
+   [60]Why is Marxist "class analysis" of anarchism contradictory? This
+   makes clearer the anarchistic nature of the Commune. In addition, the
+   comment by Marx that revolution "from below" was "nonsense" has been
+   added to the section on [61]why SWP/ISO use of the expression
+   "Socialism from below" is dishonest. Also a discussion of the Bolshevik
+   hostility towards workers' councils in the 1905 Russian Revolution as
+   another example of the [62]ineffectiveness of the "vanguard" parties
+   like the SWP.
+
+                   8.5 27-OCT-00 [63]Anarchism and Marxism
+   Slight revisions of each of the existing appendices to fix minor typing
+   errors. Plus a reply to the recent British SWP article on [64]"Marxism
+      and Anarchism" in which we discuss the errors in the article and
+      indicate that the disgraceful behaviour of the SWP in the recent
+     "Battle of Prague" shows that the SWP are hypocrites as well as why
+      such behaviour flows naturally from their authoritarian politics.
+                       8.4 19-JUL-00 [65]Section B.4.5
+       Expansion on why capitalism cannot "leave you alone". Includes
+     information on self-management schemes and why they management stop
+      them and what this implies for capitalism. Plus it discusses the
+     ambiguity of the slogan "leave me alone" in a hierarchical society.
+
+   [66]Section J.5.12
+   Expansion on why capitalism selects against workers' self-management
+   even though it is usually more productive and efficient than wage
+   labour. The hierarchical nature of the company ensures that such
+   experiments do not grow and expand.
+
+   [67]Section F.1
+   Slight expansion of "Are 'anarcho'-capitalists really anarchists?"
+   Adds the point we make elsewhere that they cannot be considered as
+   anarchists because capitalist property, like the state, is
+   hierarchical.
+
+   [68]Anarchism and Marxism
+   Two new additions to this appendix. The first one is on [69]Marxists
+   and Spanish Anarchism
+   in which we discuss various claims made by Marxists (particularly
+   Trotskyists) about the history and politics of the Spanish anarchist
+   movement. The second is a [70]reply to a Marxist diatribe against the
+   various "direct action" and anti-globalisation events and
+   organisations, particularly Reclaim the Streets in London. In addition,
+   [71]section 12 of the appendix on the pamphlet "Socialism from Below"
+   has been expanded to include more details about anarchist involvement
+   during the Russian Revolution and their links with the masses as well
+   as details of the politics of Parisian workers of the 1860s.
+                        8.3 13-APR-00 [72]Section B.2
+    Expansion and revision on the section "Why are anarchists against the
+   state?". Indicates that the state bureaucracy has its own interests and
+    so the state is not only the tool of the economically dominant class.
+    Also indicates the role of the state as protector of the system as a
+                         whole and how it does this.
+
+   [73]Section J.1
+   Revision of the section on "Are Anarchists involved in social
+   struggles?"
+   .
+
+   [74]Section D.1
+   [75]Section D.2
+   [76]Section D.11
+   Slight expanision of each of these sections.
+
+   [77]Anarchism and Marxism
+   Revision to fix various minor typos.
+
+                   8.2 18-MAR-00 [78]Anarchism and Marxism
+   New appendix for replies to on-line anti-anarchist webpages and works.
+   Currently contains an indepth reply to the SWP/ISO pamphlet "Socialism
+   from Below." We expose their "The Myth of Anarchist Libertarianism" to
+      be a mish-mash of lies, half-truths and nonsense and indicate why
+          Marxism is not Socialism from Below and why anarchism is.
+
+   [79]Section C.1
+   Revision and expansion of our critique of marginalism and general
+   equilibrium theory.
+
+   [80]Section J.2.10
+   Slight expansion on why the claim that anarchism is apolitical because
+   it rejects electioneering is false.
+
+   [81]Section J.3.7
+   Slight expansion on Bakunin's ideas on the tactics of anarchist groups
+   and why Marxist accounts of them are false.
+
+   [82]Section J.7.2
+   Slight change to the end of the section on Is social revolution
+   possible?
+   Stresses that people change themselves when they change the world and
+   that libertarian characteristics are generated by struggle and so
+   co-operative/libertarian tendencies are a product of struggle, not
+   idealised notions with little basis in reality.
+
+   [83]Section E.7
+   Slight expansion on why Green Consumerism cannot stop ecological
+   destruction. Expands on the use of PR firms, "greenwashing" and how
+   apparently "green" firms may not be.
+
+   [84]Section F.1.3
+   [85]Section F.2.2
+   Slight revision of these sections.
+
+                       8.1 19-JAN-00 [86]Section A.2.9
+   Expansion on the section on "What sort of society do anarchists want?"
+          Clarifies the important difference between delegates and
+    representatives. The former is the basis for eliminating government,
+                     the latter is a form of government.
+
+   [87]Section A.5
+   Slight expansion to introduction of this sub-section to hight that
+   anarchists aim for a revolution from below
+   and that our examples of Anarchy in Action are expressions of this.
+
+   [88]Section A.5.1
+   Expansion of the section on "The Paris Commune"
+   to include more information on its anarchistic elements and to provide
+   more anarchist analysis of it.
+
+   [89]Section A.5.2
+   Expansion of the section on the "Haymarket Martyrs"
+   to include more of the history of the event, details of the "Chicago
+   Idea" which inspired them as well as why anarchists still consider it
+   important.
+
+   [90]Section J.5
+   Slight modification to "What alternative social organisations do
+   anarchists create?"
+
+   [91]Appendix 1
+   Slight changes to the appendix on "Anarchism and 'Anarcho'-capitalism"
+
+                         8.0 14-DEC-99 [92]Section G
+      Revision and expansion of section G which is on the Individualist
+    Anarchists. In addition to new arguments in existing sections on why
+          they were libertarian socialists and not fore-fathers of
+           "anarcho"-capitalism, there are three new sub-sections:
+         [93]G.1.1 Why is the social context important in evaluating
+                          Individualist Anarchism?
+           [94]G.2.1 What about their support of the free market?;
+         [95]G.2.2 What about their support of "private property"?;
+
+   [96]Section C.2.6
+   [97]Section C.2.7
+   Addition of a couple of Proudhon quotes on why interest is exploitative
+   and unjustifiable.
+
+   [98]Section H -- Introduction
+   New section. Introduction to the section on why Anarchists are opposed
+   to Marxism and other forms of state socialism. Also refutes some of the
+   silly anti-anarchist assertions by Marxists.
+
+   [99]Section J.7
+   New section on What do anarchists mean by social revolution?
+   . Find out what anarchists mean when they talk about social revolution,
+   what it would involve and why most anarchists think it is required (and
+   also why some anarchists reject it).
+
+                      7.8 11-NOV-99 [100]Section A.1.4
+         Slight change to the section on Are anarchists socialists?
+
+   [101]Section A.1.5
+   Expansion of the section on Where does anarchism come from?
+   . While still stressing that anarchism is a product of working class
+   struggle against the modern state and capitalism (and for freedom and
+   equality), it also notes that anarchistic tendencies have existed in
+   society before anarchism existed as a specific political theory.
+
+   [102]Section A.2.7
+   Expansion to the section on Why do anarchists argue for
+   self-liberation?
+   in order to stress that it is the process of rebellion, of
+   self-liberation, that holds the key to a free society.
+
+   [103]Section A.2.9
+   Addition of Kropotkin quote to the section on What sort of society do
+   anarchists want?
+
+   [104]Section A.2.14
+   Revision to the section on Why is voluntarism not enough?
+   to include a few quotes and to clarify a few things.
+
+   [105]Section A.2.19
+   Very slight addition to the section on What ethical views do anarchists
+   hold?
+   to include how inequality erodes ethical behaviour.
+
+   [106]Section B.7.1
+   Inclusion of more information on classes to the section on But do
+   classes actually exist?
+   . International comparisions show that the US has more poverty and the
+   smallest middle class compared to social democratic states in Europe.
+   Not surprisingly, as its more free market based.
+
+   [107]Section B.7.3
+   Slight expansion of the section on What do anarchists mean by "class
+   consciousness"?
+
+   [108]Section C.2
+   Slight expansion of the section on Where do profits come from?
+
+   [109]Section D.10
+   Expansion of the section on How does capitalism affect technology?
+   . In a hierarchical society, technology cannot be truly neutral -- as
+   anarchists have been aware of since Proudhon -- and will be used to
+   enchance the power and profit of the bosses.
+
+   [110]Section F.5
+   Expansion of the section on why privatising everything will not
+   increase freedom. Discover why a right-libertarian society implies the
+   end of freedom of travel and the end of other civil liberties such as
+   freedom of speach.
+
+   [111]Section J.2
+   Expansion of the section on What is Direct Action?. Find out why
+   anarchists support direct action, why we are against voting and what
+   our alternative is to electioneering.
+
+   [112]An Anarchist FAQ Bibilography
+   The bibliography for the books we reference in the FAQ has been
+   considerably added to.
+
+                       7.7 14-JUL-99 [113]Section J.4
+     New section on What trends in society aid anarchist activity? This
+    section includes discussion of the importance of social struggle and
+       the myth that its counter-production. In addition, it discusses
+    anarchist use of the Internet, popular discontent with the state and
+                  big business as well as economic crisis.
+
+   [114]Appendix - Anarchism and "anarcho"-capitalism
+   Revision and expansion on our reply and critique to Bryan Caplan's
+   "Anarchist Theory FAQ." Explains why "anarcho"-capitalism is not
+   anarchist and not part of the anarchist tradition.
+
+   [115]An Anarchist FAQ Bibilography
+   Incomplete bibliography for the books we reference in the FAQ. It will
+   be added to as time permits.
+
+   [116]Section A.1.1
+   Slight revision to the section on What does "anarchy" mean?
+   to stress that anarchy means far more than just "no government."
+
+   [117]Section A.3.1
+   [118]Section A.3.2
+   Expansion to the discussion on the differences between social and
+   individualist anarchists, as well as between different kinds of social
+   anarchist.
+
+   [119]Section A.5.5
+   Expansion of the section on Anarchists in the Italian Factory
+   Occupations
+   . Includes more details of the Anarchist struggle against fascism and
+   refutes claims that Italian Fascism was somehow related to
+   anarcho-syndicalism.
+
+   [120]Section A.2.18
+   Expansion and revision of the infamous "propaganda by the deed"
+   period of anarchist history.
+
+   [121]Section F.8
+   Slight changes to the section on the role of the state in creating
+   capitalism in the first place.
+
+   [122]Section A
+   Minor changes in section A.
+
+   [123]Section B
+   Minor changes in section B.
+
+                       7.6 23-APR-99 [124]Section J.3
+    New section on What kinds of organisation do anarchists build?. This
+      section discusses the different kinds of organisations anarchists
+   create and what role they play in anarchist theory, as part of society
+   and in the class struggle. Anarcho-syndicalism is also discussed, as is
+      why many anarchists are not anarcho-syndicalists. Also covered is
+         Bakunin's ideas on the role of revolutionary organisations.
+
+   [125]Appendix - The Symbols of Anarchy
+   New appendix on the history of the common anarchist symbols: the black
+   flag, the red-and-black flag and the circled-A
+                                7.5 15-MAR-99
+
+   [126]Section C.8
+   Expansion of section on the role of credit and state control of money
+   in the business cycle. Discusses Monetarism and free banking and why
+   they fail to stop the business cycle.
+
+   [127]Section C.11
+   Slight revision and expansion on the section which discusses why Chile
+   shows that free-market capitalism does not benefit everyone and that it
+   was no "economic miracle".
+
+   [128]Section A.2.2
+   Slight modification to the section on "Why do anarchists emphasise
+   liberty?".
+
+   [129]Section A.2.5
+   Extension on "why anarchists are in favour of equality?"
+   to clarify a few points.
+
+   [130]Section A.2.8
+   More arguments explaining why it is impossible to be an anarchist
+   without opposing hierarchy, including the hierarchy associated with
+   private property.
+
+   [131]Introduction
+   Slight up-date of the introduction.
+
+                                7.4 17/12/98
+
+   [132]Section C.7
+   Expansion, revision and reorganisation of section on "What causes the
+   capitalist business cycle?"
+   . Includes new facts and figures and expands on original arguments. Why
+   boom and bust is inherent in capitalism and the role of class struggle,
+   investment and the price mechanism in it.
+
+   [133]Section C.9
+   Expansion, revision and reorganisation of section on Would
+   laissez-faire policies reduce unemployment, as "free market"
+   capitalists claim?
+   . Reorganisation includes new subsections on empirical evidence that
+   suggests high wages are associated with low unemployment and why
+   "flexible" labour markets do not seem to be the solution to
+   unemployment.
+
+   [134]Section C.3
+   Revision on What determines the distribution between profits and wages
+   within companies?
+   , stressing the importance of organisation and collective struggle in
+   increasing wages by increasing bargaining power and indicating that
+   rising productivity can be associated with lower wages, in
+   contradiction to the claims of capitalist economics.
+
+                                7.3 08/12/98
+
+   [135]Section A.3.3
+   Revision and expansion of "What types of Green anarchism are there?"
+   , indicating the links between ecological and anarchist thought, the
+   different types of green anarchism there are and where they agree and
+   disagree.
+
+   [136]Section A.3.4
+   Revision and expansion of "Is anarchism pacifistic?" in which we
+   discuss why many anarchists are pacifists and why anarchism has close
+   links with pacifist ideas. It also indicates why most anarchists are
+   not pacifists.
+
+   [137]Section A.1.4
+   Revision of the section on "Are Anarchists Socialists?
+   to clarify a couple of points and provide a few more quotes from
+   Individualist anarchists.
+
+   [138]Section B.4.3
+   Revision of the section on "No one forces you to work for them"
+   which indicates that this refrain of supporters of capitalism misses
+   the point.
+
+   [139]Section G.6
+   Slight expansion on "What are the ideas of Max Stirner? in relation to
+   his Union of Egoists
+   and why it implies self-management, not hierarchy.
+
+   [140]Section C.5.1
+   Inclusion of a few quotes by Peter Kropotkin on how Big Business gets
+   more profits. Big isn't beautiful, but it helps you make more profits!
+                        7.2 22/05/98 [141]Section C.1
+                              [142]Section C.2
+       Revision and expansion of the anarchist critique of capitalist
+    economics and why exploitation (unpaid labour) is the root source of
+                         profits, interest and rent.
+
+   [143]Section C.10
+   Expansion of the section on why "free market" capitalism will not
+   benefit all, especially the poor.
+
+   [144]Section C Introduction
+   [145]Section C.9
+   Slight changes to these two sub-sections of section C.
+                       7.1 27/03/98 [146]Section A.3.5
+    Revision and expansion of "What is Anarcha-Feminism?". Includes a few
+   more quotes and a discussion on why anarchists and anarcha-feminism are
+                      critical of mainstream feminism.
+
+   [147]Section A.2.11
+   Expansion of the section explaining why most anarchists support direct
+   democracy and consider it as the complement to free association and
+   individual freedom.
+
+   [148]Section A.2.13
+   Slight expansion on the section explaining why anarchists reject
+   "individualism" and "collectivism" as two sides of the same
+   (capitalist) coin.
+
+   [149]Section A.1
+   [150]Section A.2.2
+   [151]Section A.2.12
+   [152]Section A.5.2
+   Slight revisions to all the above sections.
+
+   [153]Section J.5
+   Slight revisions for grammar.
+                       7.0 10/03/98 [154]Section A.3.7
+   New sub-section on Are there religious anarchists? Includes information
+    on various forms of religious anarchism with particular reference to
+                                  Tolstoy.
+
+   [155]Section A.3.8
+   New sub-section on What is "anarchism without adjectives"?
+   . Gives the history of this form of anarchism, what it is and why it
+   came about.
+
+   [156]Section A.4
+   Slight revision of this section on Who are the major anarchist thinkers
+   to include information on religious anarchism.
+
+   [157]Section C.11
+   Slight arrangement of sections C.11 and C.12 on the "free market"
+   capitalist experiment in Pinochet's Chile. C.12 is now included as a
+   subsection of C.11.
+
+   [158]Section C.12
+   New section C.12 on Hong Kong and why it does not show the benefits of
+   laissez-faire capitalism as is often claimed.
+
+   [159]Section F
+   Extensive revision of section F on why "anarcho"-capitalism is not a
+   form of anarchism. Expanded, revised and spell checked.
+
+   [160]Replies to the FAQ
+   New appendix which will list webpages that reply to the FAQ. Currently
+   it includes a reply to reply on section F.1 done by an
+   "anarcho"-capitalist.
+
+                        6.8 07/01/98 [161]Section J.5
+   New sub-section on "What alternative social organisations do anarchists
+    create?. Includes information about community organising, industrial
+    unionism and networking, mutual/co-operative credit systems, producer
+       co-operatives (and why capitalism is inefficient), libertarian
+     education and schools, a discussion on Libertarian Municipalism and
+        anarchist views on state and private welfare and self-managed
+      alternatives to both. Essential reading if you are interested in
+                              anarchy in action
+
+   [162]Section A.1
+   Slightly revised sub-section on "What is Anarchism?".
+
+   [163]Section B.1.4
+   Slight revision on the section on racism, sexism and homophobia and why
+   they exist to include a summary of a study into the effects of racism
+   in the USA. The study indicates that racism makes all working people
+   worse off, including the "white" workers who are often said to benefit
+   from it.
+
+                        6.7 18/12/97 [164]Section G.6
+        Slight revision to the section on Max Stirner and his ideas.
+
+   Sections [165]J introduction, [166]J.1, [167]J.2 and [168]J.6
+   Minor revision on these sections of J for spelling and grammar
+
+                        6.6 15/12/97 [169]Section B.7
+   Slight revision to include more details on the concentration of wealth
+                          within the ruling class.
+
+   Sections [170]C.4, [171]C.5 and [172]C.6
+   Major revision on the sections on Big Business and oligopoly. Why it
+   develops, its impact on society and why and how it enriches the few at
+   the expense of the many.
+
+   [173]Section D
+   Revised, expanded and spell checked section D on How does capitalism
+   and statism effect society
+   . Even more arguments and facts against capitalism and statism.
+
+    6.5 28/10/97 Slight corrections to sections [174]A, [175]B and [176]C
+
+                        6.4 03/09/97 [177]Section J.6
+          Anarchist ideas on and methods for bringing up children.
+
+   [178]Section B
+   Revised, expanded and spell checked section B on Why do anarchists
+   oppose the current system
+   . Even more arguments and facts against capitalism and statism.
+
+   Section C [179]Introduction, [180]C.2, [181]C.6, [182]C.7.2 and
+   [183]C.9
+   Slightly revised and expended sections on capitalist economics.
+
+   Sections [184]F and [185]G have been moved to another geocities address
+   for space reasons.
+
+                         6.3 17/07/97 [186]Section C
+        Revised, expanded and spell checked section C on The Myths of
+    Capitalist Economics. Even more quotes from your favourite anarchists
+    and libertarians!. Even more arguments and facts against capitalism!
+
+   [187]Section E
+   Revised and spell checked section e on What do anarchists think causes
+   ecological problems?.
+
+   [188]Section G
+   Renamed, improved, expanded, revised and spell checked section G on Is
+   individualist anarchism capitalistic? - the short answer being "no"!
+   Indicates how and why individualist anarchism was opposed to capitalism
+   plus why social anarchists are critical of the theory.
+
+                        6.2 23/05/97 [189]Section J.1
+   Newly completed sub-section. Find out why social struggle is important
+      to anarchists and how anarchists take part in it. For anarchists,
+     social struggle is the key from getting from capitalism to anarchy.
+
+   [190]Section A
+   Revised section A on What is Anarchism?. Improved and updated arguments
+   and evidence, plus spell checked, and so on!
+
+   Section J - [191]introduction and [192]J.2
+   Spell checked and slightly revised.
+                        6.1 01/05/97 [193]Section J.2
+     Newly completed sub-section. Find out all about direct action, why
+      anarchists support it, why we reject electioneering as a means of
+                       change and why we do not vote.
+
+   Minor update of section [194]B.3 to include a couple of nice Proudhon
+   quotes on how "property is despotism."
+
+   Minor updates of sections [195]C.2 and [196]F.2.1 to make the quotes
+   from Proudhon's What is Property consistent in terms of edition. All
+   quotes now from B.R. Tucker's translation, Bellamy Library edition,
+   London.
+
+   Minor updates to sections [197]I.3, [198]I.3.1, [199]I.3.4 ,
+   [200]I.3.5, [201]I.4.4 and [202]I.4.13 in order to make the possible
+   nature and workings of an anarchist "economy" clearer.
+
+   Minor update to section [203]I.8.7 on the Aragon rural collectives and
+   how they were the product of the radicalisation of the population
+   during the 1930s.
+                       6.0 26/03/97 [204]Section B.3.4
+       New sub-section. Analysis of the claims that private property,
+   particularly in land, can be justified in terms of self-ownership. Also
+     indicates the authoritarian nature of private property and the way
+    Robert Nozick ignores the liberty of the dispossessed in his attempts
+        to justify appropriation of land. If land ownership cannot be
+           justified, then capitalism is based upon stolen goods.
+
+   [205]Section B.7.1
+   This section on classes is slightly expanded to give details of income
+   mobility within capitalism. Argues that even high income mobility
+   cannot justify a class system and presents evidence that income
+   mobility is moderate at best.
+
+   [206]Section F.2.2
+   New sub-section. Short discussion on why we should reject the
+   right-Libertarian "entitlement theory of justice." The means do not
+   justify the ends, and if the ends involve authoritarian social
+   relationships, inequalities in liberty, wealth and power, even
+   "civilised" slavery, then the theory stinks.
+
+   [207]Appendix
+   New appendix on Anarchism and "anarcho"-capitalism. As well as
+   including the old section F.10, this appendix contains new work - a
+   reply to the claim that [208]the Individualist Anarchists were not part
+   of the socialist movement, a discussion on [209]What socialism actually
+   stands for, analysis on whether [210]Proudhon and [211]Tucker were
+   socialists or capitalists, a reply to claims that
+   [212]"anarcho"capitalism is a form of anarchism and a discussion on why
+   [213]anarchism cannot be defined using dictionaries.
+
+    5.1 10/03/97 Minor updates to sections [214]C.11 and [215]C.12 on the
+         Chilean "economic miracle." Why did it require mass murder,
+     dictatorship and state terror to create "free market" capitalism in
+                   Chile and what was its actual results?
+                        5.0 28/02/97 [216]Section D.5
+    A slight update expanding upon the anarchist analysis of imperialism
+                     and how it has developed over time.
+
+   [217]Section C.7
+   An updated analysis of the capitalist business cycle. Argues that the
+   class struggle both outside and inside the workplace has an impact in
+   creating the business cycle. Old version ignored social struggle
+   outside the workplace and put too much emphasis on technological
+   innovation by big business. This has been corrected.
+
+   Sections [218]C.8.1,[219]C.8.2 and [220]C.8.3
+   Anarchist analysis of the rise of social Keynesianism and its fall into
+   a combination of free markets and Pentagon-style Keynesianism. Even
+   reformed capitalist is not immune to the struggle for freedom against
+   hierarchy and the objective limits of capitalism.
+
+   [221]Section F.1
+   Expanded arguments on why "anarcho"-capitalism is not anarchist.
+   Contains an excellent quote by Noam Chomsky on what he considers would
+   happen if it was tried in practice. Also contains the new sub-sections
+   [222]F.1.2 and [223]F.1.3 on how libertarian right-libertarian theory
+   is (not very!) and how most right-Libertarians reject the scientific
+   method in favour of dogma, respectively.
+
+   [224]Section G.5
+   An updated analysis of the ideas of Individualist Anarchist Benjamin
+   Tucker. More quotes from Tucker on the socialistic nature of his ideas
+   and his support for labour struggle.
+
+   [225]Section I.7.4
+   Expanded analysis on why capitalism does not protect individuality and
+   why competition puts out the flame of individuality and rebellion.
+
+   [226]Section J - Introduction
+   Introduction to the section on "What do Anarchists do?"
+   . Gives a short overview of the anarchist approach to social struggles
+   and why its so important for creating an anarchist future. Plus updated
+   [227]contents page - what to look forward to in the near future!
+
+       4.1 14/02/97 Minor updates to sections [228]A.1.5, [229]A.2.9,
+                         [230]I.5.8 and [231]I.6.1.
+                       4.0 10/02/97 [232]Introduction
+   At long last an introduction to the FAQ and its history. Also names the
+                               guilty parties.
+
+   What's New?
+   This "What's New" page will be a welcome addition to regular visitors
+   to the FAQ.
+
+   [233]Section F.2.1
+   Do Libertarian-capitalists support slavery? Yes is the answer and find
+   out why this indicates that right-libertarians are not libertarians at
+   all.
+
+   [234]Section F.9
+   Update with new evidence of the nature of Medieval Iceland and why it
+   indicates that private property produces statism. More reasons why
+   Medieval Iceland demonstrates how "anarcho-"capitalism will not work in
+   practice.
+                        3.3 06/02/97 [235]Section F.6
+    New analysis on how the "anarcho"-capitalist system of private states
+    will become a public state. Builds on and extends original argument.
+
+References
+
+   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secHcon.html
+   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH11.html
+   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
+   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html
+   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH7.html
+   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH10.html
+   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH4.html
+   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html
+   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html
+  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html#sech63
+  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html#sech64
+  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html#sech65
+  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html#sech61
+  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH9.html
+  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH10.html
+  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH7.html
+  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
+  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech54
+  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech55
+  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech56
+  21. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech58
+  22. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech510
+  23. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html
+  24. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech22
+  25. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca55
+  26. file://localhost/home/mauro/baku/debianize/maint/anarchy/secGint.html
+  27. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG2.html
+  28. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG2.html#secg21
+  29. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG2.html#secg22
+  30. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html
+  31. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH8.html
+  32. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
+  33. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
+  34. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html
+  35. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html
+  36. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html
+  37. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI4.html
+  38. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI5.html
+  39. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html
+  40. file://localhost/home/mauro/baku/debianize/maint/anarchy/append32.html
+  41. file://localhost/home/mauro/baku/debianize/maint/anarchy/append34.html
+  42. file://localhost/home/mauro/baku/debianize/maint/anarchy/append35.html
+  43. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html
+  44. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca54
+  45. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca55
+  46. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca57
+  47. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html
+  48. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html#app15
+  49. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html
+  50. file://localhost/home/mauro/baku/debianize/maint/anarchy/append32.html
+  51. file://localhost/home/mauro/baku/debianize/maint/anarchy/append32.html#app6
+  52. file://localhost/home/mauro/baku/debianize/maint/anarchy/append32.html#app20
+  53. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
+  54. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html#app35
+  55. file://localhost/home/mauro/baku/debianize/maint/anarchy/secIcon.html
+  56. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
+  57. file://localhost/home/mauro/baku/debianize/maint/anarchy/secHint.html
+  58. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
+  59. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
+  60. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html#app12
+  61. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html#app14
+  62. file://localhost/home/mauro/baku/debianize/maint/anarchy/append34.html#app1
+  63. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
+  64. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html#app34
+  65. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html#secb45
+  66. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj512
+  67. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF1.html
+  68. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
+  69. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html#app32
+  70. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html#app33
+  71. file://localhost/home/mauro/baku/debianize/maint/anarchy/append31.html#app12
+  72. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
+  73. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ1.html
+  74. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
+  75. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD2.html
+  76. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD11.html
+  77. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
+  78. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
+  79. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html
+  80. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj210
+  81. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj37
+  82. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ7.html#secj72
+  83. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE7.html
+  84. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF1.html#secF13
+  85. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF2.html#secF22
+  86. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca29
+  87. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html
+  88. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca51
+  89. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca52
+  90. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html
+  91. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html
+  92. file://localhost/home/mauro/baku/debianize/maint/anarchy/secGcon.html
+  93. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG1.html#secg11
+  94. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG2.html#secg21
+  95. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG2.html#secg22
+  96. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html#secc26
+  97. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html#secc27
+  98. file://localhost/home/mauro/baku/debianize/maint/anarchy/secHint.html
+  99. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ7.html
+ 100. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html#seca14
+ 101. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html#seca15
+ 102. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca27
+ 103. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca29
+ 104. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca214
+ 105. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca219
+ 106. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html#secb71
+ 107. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html#secb73
+ 108. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
+ 109. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD10.html
+ 110. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF5.html
+ 111. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
+ 112. file://localhost/home/mauro/baku/debianize/maint/anarchy/biblio.html
+ 113. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ4.html
+ 114. file://localhost/home/mauro/baku/debianize/maint/anarchy/append1.html
+ 115. file://localhost/home/mauro/baku/debianize/maint/anarchy/biblio.html
+ 116. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html#seca11
+ 117. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca31
+ 118. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca32
+ 119. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca55
+ 120. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca218
+ 121. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
+ 122. file://localhost/home/mauro/baku/debianize/maint/anarchy/secAcon.html
+ 123. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
+ 124. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html
+ 125. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
+ 126. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC8.html
+ 127. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
+ 128. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca22
+ 129. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca25
+ 130. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca28
+ 131. file://localhost/home/mauro/baku/debianize/maint/anarchy/intro.html
+ 132. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
+ 133. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
+ 134. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC3.html
+ 135. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca33
+ 136. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca34
+ 137. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html#seca14
+ 138. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html#secb43
+ 139. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG6.html
+ 140. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC5.html#secc51
+ 141. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html
+ 142. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
+ 143. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html
+ 144. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCint.html
+ 145. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
+ 146. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca35
+ 147. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca211
+ 148. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca213
+ 149. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html
+ 150. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca22
+ 151. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca212
+ 152. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca52
+ 153. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html
+ 154. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca37
+ 155. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca38
+ 156. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA4.html
+ 157. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
+ 158. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC12.html
+ 159. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
+ 160. file://localhost/home/mauro/baku/debianize/maint/anarchy/replies.html
+ 161. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html
+ 162. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html
+ 163. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB1.html#secb14
+ 164. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG6.html
+ 165. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJintro.html
+ 166. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ1.html
+ 167. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
+ 168. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ6.html
+ 169. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html
+ 170. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC4.html
+ 171. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC5.html
+ 172. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC6.html
+ 173. file://localhost/home/mauro/baku/debianize/maint/anarchy/secDcon.html
+ 174. file://localhost/home/mauro/baku/debianize/maint/anarchy/secAcon.html
+ 175. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
+ 176. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCcon.html
+ 177. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ6.html
+ 178. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
+ 179. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCintro.html
+ 180. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
+ 181. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC6.html
+ 182. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html#secc72
+ 183. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
+ 184. http://www.geocities.com/CapitolHill/Lobby/3998/secFcon.html
+ 185. http://www.geocities.com/CapitolHill/Lobby/3998/secGcon.html
+ 186. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCcon.html
+ 187. file://localhost/home/mauro/baku/debianize/maint/anarchy/secEcon.html
+ 188. http://www.geocities.com/CapitolHill/Lobby/3998/secGcon.html
+ 189. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ1.html
+ 190. file://localhost/home/mauro/baku/debianize/maint/anarchy/secAcon.html
+ 191. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJintro.html
+ 192. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
+ 193. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
+ 194. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB3.html
+ 195. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
+ 196. http://www.geocities.com/CapitolHill/Lobby/3998/secF2.html#secf26
+ 197. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html
+ 198. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html#seci31
+ 199. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html#seci34
+ 200. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html#seci35
+ 201. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI4.html#seci44
+ 202. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI4.html#seci413
+ 203. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci87
+ 204. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB3.html#secb34
+ 205. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html#secb71
+ 206. http://www.geocities.com/CapitolHill/Lobby/3998/secF2.html#secf28
+ 207. file://localhost/home/mauro/baku/debianize/maint/anarchy/append1.html
+ 208. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app1
+ 209. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app2
+ 210. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app3
+ 211. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app4
+ 212. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app5
+ 213. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app6
+ 214. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
+ 215. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html#secc111
+ 216. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html
+ 217. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
+ 218. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC8.html#secc81
+ 219. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC8.html#secc82
+ 220. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC8.html#secc83
+ 221. http://www.geocities.com/CapitolHill/Lobby/3998/secF1.html
+ 222. http://www.geocities.com/CapitolHill/Lobby/3998/secF1.html#secf12
+ 223. http://www.geocities.com/CapitolHill/Lobby/3998/secF1.html#secf13
+ 224. http://www.geocities.com/CapitolHill/Lobby/3998/secG5.html
+ 225. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html#seci74
+ 226. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJintro.html
+ 227. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJcon.html
+ 228. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html#seca15
+ 229. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca29
+ 230. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI5.html#seci58
+ 231. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI6.html#seci61
+ 232. file://localhost/home/mauro/baku/debianize/maint/anarchy/intro.html
+ 233. http://www.geocities.com/CapitolHill/Lobby/3998/secF2.html#secf26
+ 234. http://www.geocities.com/CapitolHill/Lobby/3998/secF9.html
+ 235. http://www.geocities.com/CapitolHill/Lobby/3998/secF6.html
