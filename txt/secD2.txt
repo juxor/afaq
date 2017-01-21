@@ -493,9 +493,9 @@ D.2.2 How extensive is business propaganda?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb23
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD3.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj22
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD2.html#secd21
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
+   1. //usr/share/doc/anarchism/txt/secB2.txt#secb23
+   2. //usr/share/doc/anarchism/txt/secD3.txt
+   3. //usr/share/doc/anarchism/txt/secJ2.txt#secj22
+   4. //usr/share/doc/anarchism/txt/secD2.txt#secd21
+   5. //usr/share/doc/anarchism/txt/secD5.txt
+   6. //usr/share/doc/anarchism/txt/secJ2.txt

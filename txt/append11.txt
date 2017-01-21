@@ -1615,5 +1615,5 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app2
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app6
+   1. //usr/share/doc/anarchism/txt/append11.txt#app2
+   2. //usr/share/doc/anarchism/txt/append11.txt#app6

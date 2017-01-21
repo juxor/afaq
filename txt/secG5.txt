@@ -513,13 +513,13 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG6.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG1.html#secg13
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG4.html#secg41
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG4.html#secg42
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG1.html#secg14
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf85
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG1.html#secg11
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG4.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG1.html#secg11
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG1.html#secg12
+   1. //usr/share/doc/anarchism/txt/secG6.txt
+   2. //usr/share/doc/anarchism/txt/secG1.txt#secg13
+   3. //usr/share/doc/anarchism/txt/secG4.txt#secg41
+   4. //usr/share/doc/anarchism/txt/secG4.txt#secg42
+   5. //usr/share/doc/anarchism/txt/secG1.txt#secg14
+   6. //usr/share/doc/anarchism/txt/secF8.txt#secf85
+   7. //usr/share/doc/anarchism/txt/secG1.txt#secg11
+   8. //usr/share/doc/anarchism/txt/secG4.txt
+   9. //usr/share/doc/anarchism/txt/secG1.txt#secg11
+  10. //usr/share/doc/anarchism/txt/secG1.txt#secg12

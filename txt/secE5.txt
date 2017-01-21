@@ -382,4 +382,4 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI1.html#seci12
+   1. //usr/share/doc/anarchism/txt/secI1.txt#seci12

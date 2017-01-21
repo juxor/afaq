@@ -279,5 +279,5 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html
+   1. //usr/share/doc/anarchism/txt/secA5.txt
    2. http://www.anarchistfaq.org/

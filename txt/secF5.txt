@@ -241,5 +241,5 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE4.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF1.html
+   1. //usr/share/doc/anarchism/txt/secE4.txt
+   2. //usr/share/doc/anarchism/txt/secF1.txt

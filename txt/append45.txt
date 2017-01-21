@@ -1416,16 +1416,16 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/append45.html#app4
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/append41.html#app9
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/append41.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech12
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/append43.html#app3
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/append43.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech53
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/append42.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech38
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech38
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/append41.html#app10
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/append41.html
+   1. //usr/share/doc/anarchism/txt/append45.txt#app4
+   2. //usr/share/doc/anarchism/txt/append41.txt#app9
+   3. //usr/share/doc/anarchism/txt/append41.txt
+   4. //usr/share/doc/anarchism/txt/secH5.txt
+   5. //usr/share/doc/anarchism/txt/secH1.txt#sech12
+   6. //usr/share/doc/anarchism/txt/append43.txt#app3
+   7. //usr/share/doc/anarchism/txt/append43.txt
+   8. //usr/share/doc/anarchism/txt/secH5.txt#sech53
+   9. //usr/share/doc/anarchism/txt/append42.txt
+  10. //usr/share/doc/anarchism/txt/secH3.txt#sech38
+  11. //usr/share/doc/anarchism/txt/secH3.txt#sech38
+  12. //usr/share/doc/anarchism/txt/append41.txt#app10
+  13. //usr/share/doc/anarchism/txt/append41.txt

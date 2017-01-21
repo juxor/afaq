@@ -134,5 +134,5 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCcon.html
+   1. //usr/share/doc/anarchism/txt/secBcon.txt
+   2. //usr/share/doc/anarchism/txt/secCcon.txt

@@ -1269,8 +1269,8 @@ H.4.7 Is revolution "the most authoritarian thing there is"?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB1.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH4.html#sech42
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH4.html#sech45
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD10.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech21
+   1. //usr/share/doc/anarchism/txt/secB1.txt
+   2. //usr/share/doc/anarchism/txt/secH4.txt#sech42
+   3. //usr/share/doc/anarchism/txt/secH4.txt#sech45
+   4. //usr/share/doc/anarchism/txt/secD10.txt
+   5. //usr/share/doc/anarchism/txt/secH2.txt#sech21

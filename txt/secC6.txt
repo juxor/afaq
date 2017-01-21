@@ -179,6 +179,6 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC4.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC4.html#secc42
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/seD5.html#secd53
+   1. //usr/share/doc/anarchism/txt/secC4.txt
+   2. //usr/share/doc/anarchism/txt/secC4.txt#secc42
+   3. //usr/share/doc/anarchism/txt/seD5.txt#secd53

@@ -929,15 +929,15 @@ I.7.4 Does capitalism protect individuality?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html#seci74
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html#seci71
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB1.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html#seci73
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html#seci38
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf86
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca219
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI5.html#seci56
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI4.html#seci411
+   1. //usr/share/doc/anarchism/txt/secI7.txt#seci74
+   2. //usr/share/doc/anarchism/txt/secI7.txt#seci71
+   3. //usr/share/doc/anarchism/txt/secB1.txt
+   4. //usr/share/doc/anarchism/txt/secJ2.txt
+   5. //usr/share/doc/anarchism/txt/secI7.txt#seci73
+   6. //usr/share/doc/anarchism/txt/secI3.txt#seci38
+   7. //usr/share/doc/anarchism/txt/secF8.txt#secf86
+   8. //usr/share/doc/anarchism/txt/secA2.txt#seca219
+   9. //usr/share/doc/anarchism/txt/secI5.txt#seci56
+  10. //usr/share/doc/anarchism/txt/secB4.txt
+  11. //usr/share/doc/anarchism/txt/secI7.txt
+  12. //usr/share/doc/anarchism/txt/secI4.txt#seci411

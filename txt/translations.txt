@@ -27,4 +27,4 @@ References
    4. http://faqanar.free.fr/
    5. http://www.geocities.com/projetoperiferia2/indice.htm
    6. http://www.ne.jp/asahi/anarchy/anarchy/faq/
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/index.html
+   7. //usr/share/doc/anarchism/txt/index.txt

@@ -1187,7 +1187,8 @@ J.3.6 What role do these groups play in anarchist theory?
    extensive literature; it must be capable of duelling with the
    authoritarian movements that try to denature the intuitive libertarian
    impulses of our time and channel social unrest into hierarchical forms
-   of organisation." [Looking Back at Spain", p. 90]
+   of organisation." ["Looking Back at Spain," pp. 53-96, Dimitrios I.
+   Roussopoulos (ed.), The Radical Papers, p. 90]
 
    These groups and federations play a key role in anarchist theory. This
    is because anarchists are well aware that there are different levels of
@@ -2707,51 +2708,51 @@ J.3.9 Why are many anarchists not anarcho-syndicalists?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech16
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj31
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj32
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj33
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj34
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj35
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj37
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj38
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj39
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj32
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj33
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj34
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj35
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca38
-  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  21. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj33
-  22. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj34
-  23. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj33
-  24. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj35
-  25. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj34
-  26. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj32
-  27. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html
-  28. file://localhost/home/mauro/baku/debianize/maint/anarchy/append46.html
-  29. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  30. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj34
-  31. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj34
-  32. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  33. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj33
-  34. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj35
-  35. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
-  36. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj37
-  37. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca27
-  38. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ7.html
-  39. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  40. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca32
-  41. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj52
-  42. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj210
-  43. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj51
-  44. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj53
-  45. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj54
-  46. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech28
-  47. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj39
-  48. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
+   1. //usr/share/doc/anarchism/txt/secJ5.txt
+   2. //usr/share/doc/anarchism/txt/secH5.txt
+   3. //usr/share/doc/anarchism/txt/secH6.txt
+   4. //usr/share/doc/anarchism/txt/secH1.txt#sech16
+   5. //usr/share/doc/anarchism/txt/secJ3.txt#secj31
+   6. //usr/share/doc/anarchism/txt/secJ3.txt#secj32
+   7. //usr/share/doc/anarchism/txt/secJ3.txt#secj33
+   8. //usr/share/doc/anarchism/txt/secJ3.txt#secj34
+   9. //usr/share/doc/anarchism/txt/secJ3.txt#secj35
+  10. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  11. //usr/share/doc/anarchism/txt/secJ3.txt#secj37
+  12. //usr/share/doc/anarchism/txt/secJ3.txt#secj38
+  13. //usr/share/doc/anarchism/txt/secJ3.txt#secj39
+  14. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  15. //usr/share/doc/anarchism/txt/secJ3.txt#secj32
+  16. //usr/share/doc/anarchism/txt/secJ3.txt#secj33
+  17. //usr/share/doc/anarchism/txt/secJ3.txt#secj34
+  18. //usr/share/doc/anarchism/txt/secJ3.txt#secj35
+  19. //usr/share/doc/anarchism/txt/secA3.txt#seca38
+  20. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  21. //usr/share/doc/anarchism/txt/secJ3.txt#secj33
+  22. //usr/share/doc/anarchism/txt/secJ3.txt#secj34
+  23. //usr/share/doc/anarchism/txt/secJ3.txt#secj33
+  24. //usr/share/doc/anarchism/txt/secJ3.txt#secj35
+  25. //usr/share/doc/anarchism/txt/secJ3.txt#secj34
+  26. //usr/share/doc/anarchism/txt/secJ3.txt#secj32
+  27. //usr/share/doc/anarchism/txt/secH6.txt
+  28. //usr/share/doc/anarchism/txt/append46.txt
+  29. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  30. //usr/share/doc/anarchism/txt/secJ3.txt#secj34
+  31. //usr/share/doc/anarchism/txt/secJ3.txt#secj34
+  32. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  33. //usr/share/doc/anarchism/txt/secJ3.txt#secj33
+  34. //usr/share/doc/anarchism/txt/secJ3.txt#secj35
+  35. //usr/share/doc/anarchism/txt/secH5.txt
+  36. //usr/share/doc/anarchism/txt/secJ3.txt#secj37
+  37. //usr/share/doc/anarchism/txt/secA2.txt#seca27
+  38. //usr/share/doc/anarchism/txt/secJ7.txt
+  39. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  40. //usr/share/doc/anarchism/txt/secA3.txt#seca32
+  41. //usr/share/doc/anarchism/txt/secJ5.txt#secj52
+  42. //usr/share/doc/anarchism/txt/secJ2.txt#secj210
+  43. //usr/share/doc/anarchism/txt/secJ5.txt#secj51
+  44. //usr/share/doc/anarchism/txt/secJ5.txt#secj53
+  45. //usr/share/doc/anarchism/txt/secJ5.txt#secj54
+  46. //usr/share/doc/anarchism/txt/secH2.txt#sech28
+  47. //usr/share/doc/anarchism/txt/secJ3.txt#secj39
+  48. //usr/share/doc/anarchism/txt/secJ3.txt#secj36

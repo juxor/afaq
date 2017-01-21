@@ -2026,25 +2026,25 @@ C.10.4 Does growth automatically mean people are better off?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD4.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html#secc101
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html#secc102
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html#secc103
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html#secc104
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html#secc103
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html#secb44
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html#secc104
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html#secc101
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html#secc12
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC3.html
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html#secb71
-  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC8.html
-  21. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB1.html
-  22. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
+   1. //usr/share/doc/anarchism/txt/secD4.txt
+   2. //usr/share/doc/anarchism/txt/secC10.txt#secc101
+   3. //usr/share/doc/anarchism/txt/secC10.txt#secc102
+   4. //usr/share/doc/anarchism/txt/secC10.txt#secc103
+   5. //usr/share/doc/anarchism/txt/secC10.txt#secc104
+   6. //usr/share/doc/anarchism/txt/secC10.txt#secc103
+   7. //usr/share/doc/anarchism/txt/secB4.txt#secb44
+   8. //usr/share/doc/anarchism/txt/secC10.txt#secc104
+   9. //usr/share/doc/anarchism/txt/secC11.txt
+  10. //usr/share/doc/anarchism/txt/secC11.txt
+  11. //usr/share/doc/anarchism/txt/secC10.txt#secc101
+  12. //usr/share/doc/anarchism/txt/secC1.txt#secc12
+  13. //usr/share/doc/anarchism/txt/secD5.txt
+  14. //usr/share/doc/anarchism/txt/secD1.txt
+  15. //usr/share/doc/anarchism/txt/secF8.txt
+  16. //usr/share/doc/anarchism/txt/secB7.txt
+  17. //usr/share/doc/anarchism/txt/secC3.txt
+  18. //usr/share/doc/anarchism/txt/secC11.txt
+  19. //usr/share/doc/anarchism/txt/secB7.txt#secb71
+  20. //usr/share/doc/anarchism/txt/secC8.txt
+  21. //usr/share/doc/anarchism/txt/secB1.txt
+  22. //usr/share/doc/anarchism/txt/secF8.txt

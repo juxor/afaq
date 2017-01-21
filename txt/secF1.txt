@@ -579,13 +579,13 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFint.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF4.html#secf41
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF2.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca214
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG4.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF6.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA1.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF2.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html
+   1. //usr/share/doc/anarchism/txt/secFint.txt
+   2. //usr/share/doc/anarchism/txt/secF4.txt#secf41
+   3. //usr/share/doc/anarchism/txt/secF2.txt
+   4. //usr/share/doc/anarchism/txt/secA2.txt#seca214
+   5. //usr/share/doc/anarchism/txt/secG4.txt
+   6. //usr/share/doc/anarchism/txt/secF3.txt
+   7. //usr/share/doc/anarchism/txt/secF6.txt
+   8. //usr/share/doc/anarchism/txt/secA1.txt
+   9. //usr/share/doc/anarchism/txt/secF2.txt
+  10. //usr/share/doc/anarchism/txt/secF3.txt

@@ -455,9 +455,9 @@ C.5.1 Aren't the super-profits of Big Business due to its higher efficiency?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC4.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC8.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC5.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech23
+   1. //usr/share/doc/anarchism/txt/secC4.txt
+   2. //usr/share/doc/anarchism/txt/secC2.txt
+   3. //usr/share/doc/anarchism/txt/secC8.txt
+   4. //usr/share/doc/anarchism/txt/secC7.txt
+   5. //usr/share/doc/anarchism/txt/secC5.txt
+   6. //usr/share/doc/anarchism/txt/secH2.txt#sech23

@@ -2534,22 +2534,22 @@ A.5.7 The May-June Revolt in France, 1968
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ7.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca55
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca56
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca218
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca52
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech28
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj39
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secHcon.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/append42.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/append46.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/append4.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci83
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci84
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci85
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci86
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci810
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI8.html#seci811
+   1. //usr/share/doc/anarchism/txt/secJ7.txt
+   2. //usr/share/doc/anarchism/txt/secA5.txt#seca55
+   3. //usr/share/doc/anarchism/txt/secA5.txt#seca56
+   4. //usr/share/doc/anarchism/txt/secA2.txt#seca218
+   5. //usr/share/doc/anarchism/txt/secA5.txt#seca52
+   6. //usr/share/doc/anarchism/txt/secH2.txt#sech28
+   7. //usr/share/doc/anarchism/txt/secJ3.txt#secj39
+   8. //usr/share/doc/anarchism/txt/secHcon.txt
+   9. //usr/share/doc/anarchism/txt/append42.txt
+  10. //usr/share/doc/anarchism/txt/append46.txt
+  11. //usr/share/doc/anarchism/txt/append4.txt
+  12. //usr/share/doc/anarchism/txt/secI8.txt
+  13. //usr/share/doc/anarchism/txt/secI8.txt
+  14. //usr/share/doc/anarchism/txt/secI8.txt#seci83
+  15. //usr/share/doc/anarchism/txt/secI8.txt#seci84
+  16. //usr/share/doc/anarchism/txt/secI8.txt#seci85
+  17. //usr/share/doc/anarchism/txt/secI8.txt#seci86
+  18. //usr/share/doc/anarchism/txt/secI8.txt#seci810
+  19. //usr/share/doc/anarchism/txt/secI8.txt#seci811

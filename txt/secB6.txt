@@ -114,4 +114,4 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI5.html#seci56
+   1. //usr/share/doc/anarchism/txt/secI5.txt#seci56

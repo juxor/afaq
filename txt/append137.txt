@@ -811,13 +811,13 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/append136.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/append136.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/append131.html#secf14
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/append131.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/append137.html#secf72
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/append131.html#secf14
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj512
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/append131.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/append136.html
+   1. //usr/share/doc/anarchism/txt/append136.txt
+   2. //usr/share/doc/anarchism/txt/append136.txt
+   3. //usr/share/doc/anarchism/txt/secB4.txt
+   4. //usr/share/doc/anarchism/txt/append131.txt#secf14
+   5. //usr/share/doc/anarchism/txt/append131.txt
+   6. //usr/share/doc/anarchism/txt/append137.txt#secf72
+   7. //usr/share/doc/anarchism/txt/append131.txt#secf14
+   8. //usr/share/doc/anarchism/txt/secJ5.txt#secj512
+   9. //usr/share/doc/anarchism/txt/append131.txt
+  10. //usr/share/doc/anarchism/txt/append136.txt

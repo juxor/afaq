@@ -18,5 +18,5 @@ References
 
    1. http://flag.blackened.net/intanark/faq/mirror.html
    2. http://flag.blackened.net/intanark/faq/text/
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/pdf.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/index.html
+   3. //usr/share/doc/anarchism/txt/pdf.txt
+   4. //usr/share/doc/anarchism/txt/index.txt

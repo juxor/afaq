@@ -1627,21 +1627,21 @@ D.1.5 Do anarchists support state intervention?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html#secd14
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD8.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html#secd15
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD2.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ4.html#secj42
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech313
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC6.html
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secIcon.html
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html#secd13
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj515
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj516
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
+   1. //usr/share/doc/anarchism/txt/secB2.txt
+   2. //usr/share/doc/anarchism/txt/secD1.txt#secd14
+   3. //usr/share/doc/anarchism/txt/secC7.txt
+   4. //usr/share/doc/anarchism/txt/secD8.txt
+   5. //usr/share/doc/anarchism/txt/secF8.txt
+   6. //usr/share/doc/anarchism/txt/secD1.txt#secd15
+   7. //usr/share/doc/anarchism/txt/secD2.txt
+   8. //usr/share/doc/anarchism/txt/secJ4.txt#secj42
+   9. //usr/share/doc/anarchism/txt/secH3.txt#sech313
+  10. //usr/share/doc/anarchism/txt/secB2.txt
+  11. //usr/share/doc/anarchism/txt/secC7.txt
+  12. //usr/share/doc/anarchism/txt/secC9.txt
+  13. //usr/share/doc/anarchism/txt/secC6.txt
+  14. //usr/share/doc/anarchism/txt/secIcon.txt
+  15. //usr/share/doc/anarchism/txt/secD1.txt#secd13
+  16. //usr/share/doc/anarchism/txt/secJ5.txt#secj515
+  17. //usr/share/doc/anarchism/txt/secJ5.txt#secj516
+  18. //usr/share/doc/anarchism/txt/secJ2.txt

@@ -1159,9 +1159,9 @@ C.11.3 Did neo-liberal Chile confirm capitalist economics?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD11.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html#secc112
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD11.html
+   1. //usr/share/doc/anarchism/txt/secD11.txt
+   2. //usr/share/doc/anarchism/txt/secC9.txt
+   3. //usr/share/doc/anarchism/txt/secC10.txt
+   4. //usr/share/doc/anarchism/txt/secC11.txt#secc112
+   5. //usr/share/doc/anarchism/txt/secC9.txt
+   6. //usr/share/doc/anarchism/txt/secD11.txt

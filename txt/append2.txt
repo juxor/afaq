@@ -655,9 +655,9 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html#black
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html#redblack
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html#circledA
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html#redblack
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html#redblack
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html#black
+   1. //usr/share/doc/anarchism/txt/append2.txt#black
+   2. //usr/share/doc/anarchism/txt/append2.txt#redblack
+   3. //usr/share/doc/anarchism/txt/append2.txt#circledA
+   4. //usr/share/doc/anarchism/txt/append2.txt#redblack
+   5. //usr/share/doc/anarchism/txt/append2.txt#redblack
+   6. //usr/share/doc/anarchism/txt/append2.txt#black

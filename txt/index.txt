@@ -1,6 +1,6 @@
                           An Anarchist FAQ Webpage
 
-                                Version 13.4
+                                Version 14.0
 
                                  [flag2.gif]
           ________________________________________________________
@@ -18,11 +18,11 @@
 
      An Anarchist FAQ can be accessed using these easy to remember urls:
 
-             [4]www.anarchistfaq.org              [5]www.anarchismfaq.org
+   [4]www.anarchistfaq.org [5]www.anarchismfaq.org
 
                             [6]www.anarchyfaq.org
 
-                                                 [7]www.anarchistfaq.org.uk
+                         [7]www.anarchistfaq.org.uk
           ________________________________________________________
 
                           [8]What's New in the FAQ?
@@ -30,7 +30,7 @@
 
                               An Anarchist FAQ
 
-                         Version 13.4 -- 21-JAN-2010
+                         Version 14.0 -- 08-MAR-2010
 
    [9]Introduction
        Section A - [10]What is anarchism?
@@ -64,31 +64,31 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/book.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/quotes.html
+   1. //usr/share/doc/anarchism/txt/book.txt
+   2. //usr/share/doc/anarchism/txt/quotes.txt
    3. http://anarchism.pageabode.com/blogs/afaq
    4. http://www.anarchistfaq.org/
    5. http://www.anarchismfaq.org/
    6. http://www.anarchyfaq.org/
    7. http://www.anarchistfaq.org.uk/
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/new.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/intro.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secAcon.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCcon.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secDcon.html
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secEcon.html
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secGcon.html
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secHcon.html
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secIcon.html
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJcon.html
-  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/append1.html
-  21. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
-  22. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
-  23. file://localhost/home/mauro/baku/debianize/maint/anarchy/append4.html
-  24. file://localhost/home/mauro/baku/debianize/maint/anarchy/biblio.html
-  25. file://localhost/home/mauro/baku/debianize/maint/anarchy/contact.html
-  26. file://localhost/home/mauro/baku/debianize/maint/anarchy/translations.html
-  27. file://localhost/home/mauro/baku/debianize/maint/anarchy/pdf.html
-  28. file://localhost/home/mauro/baku/debianize/maint/anarchy/links.html
+   8. //usr/share/doc/anarchism/txt/new.txt
+   9. //usr/share/doc/anarchism/txt/intro.txt
+  10. //usr/share/doc/anarchism/txt/secAcon.txt
+  11. //usr/share/doc/anarchism/txt/secBcon.txt
+  12. //usr/share/doc/anarchism/txt/secCcon.txt
+  13. //usr/share/doc/anarchism/txt/secDcon.txt
+  14. //usr/share/doc/anarchism/txt/secEcon.txt
+  15. //usr/share/doc/anarchism/txt/secFcon.txt
+  16. //usr/share/doc/anarchism/txt/secGcon.txt
+  17. //usr/share/doc/anarchism/txt/secHcon.txt
+  18. //usr/share/doc/anarchism/txt/secIcon.txt
+  19. //usr/share/doc/anarchism/txt/secJcon.txt
+  20. //usr/share/doc/anarchism/txt/append1.txt
+  21. //usr/share/doc/anarchism/txt/append2.txt
+  22. //usr/share/doc/anarchism/txt/append3.txt
+  23. //usr/share/doc/anarchism/txt/append4.txt
+  24. //usr/share/doc/anarchism/txt/biblio.txt
+  25. //usr/share/doc/anarchism/txt/contact.txt
+  26. //usr/share/doc/anarchism/txt/translations.txt
+  27. //usr/share/doc/anarchism/txt/pdf.txt
+  28. //usr/share/doc/anarchism/txt/links.txt

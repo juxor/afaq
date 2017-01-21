@@ -183,7 +183,7 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJcon.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCcon.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secDcon.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secEcon.html
+   1. //usr/share/doc/anarchism/txt/secJcon.txt
+   2. //usr/share/doc/anarchism/txt/secCcon.txt
+   3. //usr/share/doc/anarchism/txt/secDcon.txt
+   4. //usr/share/doc/anarchism/txt/secEcon.txt

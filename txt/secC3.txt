@@ -319,6 +319,6 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html#secc22
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC5.html
+   1. //usr/share/doc/anarchism/txt/secC2.txt#secc22
+   2. //usr/share/doc/anarchism/txt/secC7.txt
+   3. //usr/share/doc/anarchism/txt/secC5.txt

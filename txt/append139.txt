@@ -467,6 +467,6 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb25
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/append136.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/append136.html#secf63
+   1. //usr/share/doc/anarchism/txt/secB2.txt#secb25
+   2. //usr/share/doc/anarchism/txt/append136.txt
+   3. //usr/share/doc/anarchism/txt/append136.txt#secf63

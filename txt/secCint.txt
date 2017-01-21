@@ -363,7 +363,7 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
+   1. //usr/share/doc/anarchism/txt/secBcon.txt
+   2. //usr/share/doc/anarchism/txt/secC1.txt
+   3. //usr/share/doc/anarchism/txt/secC2.txt
+   4. //usr/share/doc/anarchism/txt/secC11.txt

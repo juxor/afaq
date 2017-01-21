@@ -895,21 +895,21 @@ E.4.2 Can wilderness survive under laissez-faire capitalism?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE3.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE4.html#sece41
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE4.html#sece42
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE3.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE3.html#sece32
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE3.html#sece32
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE4.html#sece41
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE4.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF4.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE4.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE4.html#sece42
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB5.html
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF4.html#secf41
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB3.html#secb34
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html#secb42
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
+   1. //usr/share/doc/anarchism/txt/secE3.txt
+   2. //usr/share/doc/anarchism/txt/secE4.txt#sece41
+   3. //usr/share/doc/anarchism/txt/secE4.txt#sece42
+   4. //usr/share/doc/anarchism/txt/secE3.txt
+   5. //usr/share/doc/anarchism/txt/secE3.txt#sece32
+   6. //usr/share/doc/anarchism/txt/secF8.txt
+   7. //usr/share/doc/anarchism/txt/secE3.txt#sece32
+   8. //usr/share/doc/anarchism/txt/secE4.txt#sece41
+   9. //usr/share/doc/anarchism/txt/secE4.txt
+  10. //usr/share/doc/anarchism/txt/secF4.txt
+  11. //usr/share/doc/anarchism/txt/secE4.txt
+  12. //usr/share/doc/anarchism/txt/secC2.txt
+  13. //usr/share/doc/anarchism/txt/secE4.txt#sece42
+  14. //usr/share/doc/anarchism/txt/secB5.txt
+  15. //usr/share/doc/anarchism/txt/secF4.txt#secf41
+  16. //usr/share/doc/anarchism/txt/secB3.txt#secb34
+  17. //usr/share/doc/anarchism/txt/secB4.txt#secb42
+  18. //usr/share/doc/anarchism/txt/secFcon.txt

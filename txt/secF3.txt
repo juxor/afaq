@@ -1095,22 +1095,22 @@ F.3.2 Can there be harmony of interests in an unequal society?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca25
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD10.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html#secc25
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html#secf31
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB1.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI5.html#seci512
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH4.html#sech44
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html#secf32
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF4.html#secf41
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF1.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF6.html#secf63
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html#secc16
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
+   1. //usr/share/doc/anarchism/txt/secA2.txt#seca25
+   2. //usr/share/doc/anarchism/txt/secF8.txt
+   3. //usr/share/doc/anarchism/txt/secD10.txt
+   4. //usr/share/doc/anarchism/txt/secC2.txt#secc25
+   5. //usr/share/doc/anarchism/txt/secF3.txt#secf31
+   6. //usr/share/doc/anarchism/txt/secB1.txt
+   7. //usr/share/doc/anarchism/txt/secI5.txt#seci512
+   8. //usr/share/doc/anarchism/txt/secH4.txt#sech44
+   9. //usr/share/doc/anarchism/txt/secF3.txt#secf32
+  10. //usr/share/doc/anarchism/txt/secF4.txt#secf41
+  11. //usr/share/doc/anarchism/txt/secF1.txt
+  12. //usr/share/doc/anarchism/txt/secF6.txt#secf63
+  13. //usr/share/doc/anarchism/txt/secC7.txt
+  14. //usr/share/doc/anarchism/txt/secC9.txt
+  15. //usr/share/doc/anarchism/txt/secC2.txt
+  16. //usr/share/doc/anarchism/txt/secC1.txt#secc16
+  17. //usr/share/doc/anarchism/txt/secF8.txt
+  18. //usr/share/doc/anarchism/txt/secC7.txt
+  19. //usr/share/doc/anarchism/txt/secD1.txt

@@ -1006,16 +1006,16 @@ F.6.4 Why are these "defence associations" states?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF6.html#secf64
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html#secf32
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF6.html#secf63
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC4.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF7.html#secf72
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html#secf31
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF3.html#secf31
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB4.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF1.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF6.html#secf63
+   1. //usr/share/doc/anarchism/txt/secB2.txt
+   2. //usr/share/doc/anarchism/txt/secF6.txt#secf64
+   3. //usr/share/doc/anarchism/txt/secF8.txt
+   4. //usr/share/doc/anarchism/txt/secF3.txt#secf32
+   5. //usr/share/doc/anarchism/txt/secF6.txt#secf63
+   6. //usr/share/doc/anarchism/txt/secC4.txt
+   7. //usr/share/doc/anarchism/txt/secF7.txt#secf72
+   8. //usr/share/doc/anarchism/txt/secF3.txt#secf31
+   9. //usr/share/doc/anarchism/txt/secB2.txt
+  10. //usr/share/doc/anarchism/txt/secF3.txt#secf31
+  11. //usr/share/doc/anarchism/txt/secB4.txt
+  12. //usr/share/doc/anarchism/txt/secF1.txt
+  13. //usr/share/doc/anarchism/txt/secF6.txt#secf63

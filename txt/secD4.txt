@@ -160,4 +160,4 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secEcon.html
+   1. //usr/share/doc/anarchism/txt/secEcon.txt

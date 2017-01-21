@@ -79,4 +79,4 @@ References
   27. http://anarchy.silesianet.pl/faq
   28. http://www.anarchism.ca/faq/
   29. http://www.etext.org/Politics/Spunk/library/intro/faq/sp001547/index.html
-  30. file://localhost/home/mauro/baku/debianize/maint/anarchy/index.html
+  30. //usr/share/doc/anarchism/txt/index.txt

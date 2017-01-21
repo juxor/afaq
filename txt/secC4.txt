@@ -817,18 +817,18 @@ labour?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html#secc14
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC4.html#secc41
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC3.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC5.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD2.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD3.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secDcon.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC1.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC4.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj511
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj512
+   1. //usr/share/doc/anarchism/txt/secC1.txt#secc14
+   2. //usr/share/doc/anarchism/txt/secC4.txt#secc41
+   3. //usr/share/doc/anarchism/txt/secC2.txt
+   4. //usr/share/doc/anarchism/txt/secC3.txt
+   5. //usr/share/doc/anarchism/txt/secC5.txt
+   6. //usr/share/doc/anarchism/txt/secD2.txt
+   7. //usr/share/doc/anarchism/txt/secD3.txt
+   8. //usr/share/doc/anarchism/txt/secC7.txt
+   9. //usr/share/doc/anarchism/txt/secDcon.txt
+  10. //usr/share/doc/anarchism/txt/secC1.txt
+  11. //usr/share/doc/anarchism/txt/secC1.txt
+  12. //usr/share/doc/anarchism/txt/secC4.txt
+  13. //usr/share/doc/anarchism/txt/secF8.txt
+  14. //usr/share/doc/anarchism/txt/secJ5.txt#secj511
+  15. //usr/share/doc/anarchism/txt/secJ5.txt#secj512

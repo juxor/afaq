@@ -19,6 +19,6 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/intro.html
+   1. //usr/share/doc/anarchism/txt/intro.txt
    2. mailto:anarchistfaq@yahoo.co.uk
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/index.html
+   3. //usr/share/doc/anarchism/txt/index.txt

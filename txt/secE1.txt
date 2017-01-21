@@ -630,16 +630,16 @@ E.1.2 What is the difference between environmentalism and ecology?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca33
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD4.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE3.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb21
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJcon.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj51
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj52
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca39
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB3.html#secb35
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD10.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html#seca33
+   1. //usr/share/doc/anarchism/txt/secA3.txt#seca33
+   2. //usr/share/doc/anarchism/txt/secD4.txt
+   3. //usr/share/doc/anarchism/txt/secE3.txt
+   4. //usr/share/doc/anarchism/txt/secD1.txt
+   5. //usr/share/doc/anarchism/txt/secB2.txt
+   6. //usr/share/doc/anarchism/txt/secB2.txt#secb21
+   7. //usr/share/doc/anarchism/txt/secJcon.txt
+   8. //usr/share/doc/anarchism/txt/secJ5.txt#secj51
+   9. //usr/share/doc/anarchism/txt/secJ5.txt#secj52
+  10. //usr/share/doc/anarchism/txt/secA3.txt#seca39
+  11. //usr/share/doc/anarchism/txt/secB3.txt#secb35
+  12. //usr/share/doc/anarchism/txt/secD10.txt
+  13. //usr/share/doc/anarchism/txt/secA3.txt#seca33

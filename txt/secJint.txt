@@ -158,5 +158,5 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html#seci23
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE5.html
+   1. //usr/share/doc/anarchism/txt/secI2.txt#seci23
+   2. //usr/share/doc/anarchism/txt/secE5.txt

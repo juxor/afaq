@@ -570,5 +570,5 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj512
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI4.html#seci49
+   1. //usr/share/doc/anarchism/txt/secJ5.txt#secj512
+   2. //usr/share/doc/anarchism/txt/secI4.txt#seci49

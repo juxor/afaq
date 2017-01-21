@@ -67,21 +67,21 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
+   1. //usr/share/doc/anarchism/txt/secFcon.txt
    2. http://www.gmu.edu/departments/economics/bcaplan/anarfaq.htm
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app1
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app2
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app3
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app4
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app5
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/append11.html#app6
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html#app1
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html#app2
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html#app3
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html#app4
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/append12.html#app5
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/append13.html
+   3. //usr/share/doc/anarchism/txt/secFcon.txt
+   4. //usr/share/doc/anarchism/txt/append12.txt
+   5. //usr/share/doc/anarchism/txt/append11.txt
+   6. //usr/share/doc/anarchism/txt/append11.txt#app1
+   7. //usr/share/doc/anarchism/txt/append11.txt#app2
+   8. //usr/share/doc/anarchism/txt/append11.txt#app3
+   9. //usr/share/doc/anarchism/txt/append11.txt#app4
+  10. //usr/share/doc/anarchism/txt/append11.txt#app5
+  11. //usr/share/doc/anarchism/txt/append11.txt#app6
+  12. //usr/share/doc/anarchism/txt/append12.txt
+  13. //usr/share/doc/anarchism/txt/append12.txt#app1
+  14. //usr/share/doc/anarchism/txt/append12.txt#app2
+  15. //usr/share/doc/anarchism/txt/append12.txt#app3
+  16. //usr/share/doc/anarchism/txt/append12.txt#app4
+  17. //usr/share/doc/anarchism/txt/append12.txt#app5
+  18. //usr/share/doc/anarchism/txt/append13.txt

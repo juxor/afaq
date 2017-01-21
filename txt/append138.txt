@@ -1286,15 +1286,15 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb25
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/append138.html#secf83
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/append138.html#secf85
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb25
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/append13con.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb25
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/append138.html#secf85
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/append138.html#secf85
+   1. //usr/share/doc/anarchism/txt/secD1.txt
+   2. //usr/share/doc/anarchism/txt/secB2.txt#secb25
+   3. //usr/share/doc/anarchism/txt/append138.txt#secf83
+   4. //usr/share/doc/anarchism/txt/append138.txt#secf85
+   5. //usr/share/doc/anarchism/txt/secB2.txt#secb25
+   6. //usr/share/doc/anarchism/txt/secBcon.txt
+   7. //usr/share/doc/anarchism/txt/append13con.txt
+   8. //usr/share/doc/anarchism/txt/secB2.txt#secb25
+   9. //usr/share/doc/anarchism/txt/secI7.txt
+  10. //usr/share/doc/anarchism/txt/append138.txt#secf85
+  11. //usr/share/doc/anarchism/txt/secC11.txt
+  12. //usr/share/doc/anarchism/txt/append138.txt#secf85

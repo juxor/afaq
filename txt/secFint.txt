@@ -339,7 +339,7 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secGcon.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF1.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF7.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/append1.html
+   1. //usr/share/doc/anarchism/txt/secGcon.txt
+   2. //usr/share/doc/anarchism/txt/secF1.txt
+   3. //usr/share/doc/anarchism/txt/secF7.txt
+   4. //usr/share/doc/anarchism/txt/append1.txt

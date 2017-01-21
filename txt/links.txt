@@ -51,23 +51,23 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#news
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#webpages
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#nonwebpages
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#anarchafem
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#blogs
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#anarchorg
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#synpages
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#syndicates
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#rings
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#papers
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#books
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#people
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#shops
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#music
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#history
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#resources
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#anarchonews
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#othernews
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/alinks.html#mail
-  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/arlinks.html#other
+   1. //usr/share/doc/anarchism/txt/alinks.txt#news
+   2. //usr/share/doc/anarchism/txt/alinks.txt#webpages
+   3. //usr/share/doc/anarchism/txt/alinks.txt#nonwebpages
+   4. //usr/share/doc/anarchism/txt/alinks.txt#anarchafem
+   5. //usr/share/doc/anarchism/txt/alinks.txt#blogs
+   6. //usr/share/doc/anarchism/txt/alinks.txt#anarchorg
+   7. //usr/share/doc/anarchism/txt/alinks.txt#synpages
+   8. //usr/share/doc/anarchism/txt/alinks.txt#syndicates
+   9. //usr/share/doc/anarchism/txt/alinks.txt#rings
+  10. //usr/share/doc/anarchism/txt/alinks.txt#papers
+  11. //usr/share/doc/anarchism/txt/alinks.txt#books
+  12. //usr/share/doc/anarchism/txt/alinks.txt#people
+  13. //usr/share/doc/anarchism/txt/alinks.txt#shops
+  14. //usr/share/doc/anarchism/txt/alinks.txt#music
+  15. //usr/share/doc/anarchism/txt/alinks.txt#history
+  16. //usr/share/doc/anarchism/txt/alinks.txt#resources
+  17. //usr/share/doc/anarchism/txt/alinks.txt#anarchonews
+  18. //usr/share/doc/anarchism/txt/alinks.txt#othernews
+  19. //usr/share/doc/anarchism/txt/alinks.txt#mail
+  20. //usr/share/doc/anarchism/txt/arlinks.txt#other

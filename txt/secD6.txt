@@ -262,5 +262,5 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD7.html
+   1. //usr/share/doc/anarchism/txt/secD5.txt
+   2. //usr/share/doc/anarchism/txt/secD7.txt

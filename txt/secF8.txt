@@ -2142,23 +2142,23 @@ F.8.6 How did working people view the rise of capitalism?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb25
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf83
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC10.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf85
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb25
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI7.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf85
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC9.html
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf85
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf85
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html#secb25
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf83
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf85
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html#secf85
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
-  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
+   1. //usr/share/doc/anarchism/txt/secD1.txt
+   2. //usr/share/doc/anarchism/txt/secB2.txt#secb25
+   3. //usr/share/doc/anarchism/txt/secC2.txt
+   4. //usr/share/doc/anarchism/txt/secF8.txt#secf83
+   5. //usr/share/doc/anarchism/txt/secC10.txt
+   6. //usr/share/doc/anarchism/txt/secF8.txt#secf85
+   7. //usr/share/doc/anarchism/txt/secBcon.txt
+   8. //usr/share/doc/anarchism/txt/secFcon.txt
+   9. //usr/share/doc/anarchism/txt/secB2.txt#secb25
+  10. //usr/share/doc/anarchism/txt/secI7.txt
+  11. //usr/share/doc/anarchism/txt/secF8.txt#secf85
+  12. //usr/share/doc/anarchism/txt/secC9.txt
+  13. //usr/share/doc/anarchism/txt/secF8.txt#secf85
+  14. //usr/share/doc/anarchism/txt/secF8.txt#secf85
+  15. //usr/share/doc/anarchism/txt/secB2.txt#secb25
+  16. //usr/share/doc/anarchism/txt/secF8.txt#secf83
+  17. //usr/share/doc/anarchism/txt/secF8.txt#secf85
+  18. //usr/share/doc/anarchism/txt/secF8.txt#secf85
+  19. //usr/share/doc/anarchism/txt/secD1.txt
+  20. //usr/share/doc/anarchism/txt/append2.txt

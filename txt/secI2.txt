@@ -1077,13 +1077,13 @@ I.2.3 How is the framework of an anarchist society created?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html#seci23
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca55
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech25
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html#seci23
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech24
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ7.html#secj76
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech14
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech26
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJcon.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html
+   1. //usr/share/doc/anarchism/txt/secI2.txt#seci23
+   2. //usr/share/doc/anarchism/txt/secA5.txt#seca55
+   3. //usr/share/doc/anarchism/txt/secH2.txt#sech25
+   4. //usr/share/doc/anarchism/txt/secI2.txt#seci23
+   5. //usr/share/doc/anarchism/txt/secH2.txt#sech24
+   6. //usr/share/doc/anarchism/txt/secJ7.txt#secj76
+   7. //usr/share/doc/anarchism/txt/secH1.txt#sech14
+   8. //usr/share/doc/anarchism/txt/secH2.txt#sech26
+   9. //usr/share/doc/anarchism/txt/secJcon.txt
+  10. //usr/share/doc/anarchism/txt/secJ3.txt

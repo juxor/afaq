@@ -336,9 +336,9 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG3.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG4.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG2.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA3.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG4.html#secg41
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG1.html#secg14
+   1. //usr/share/doc/anarchism/txt/secG3.txt
+   2. //usr/share/doc/anarchism/txt/secG4.txt
+   3. //usr/share/doc/anarchism/txt/secG2.txt
+   4. //usr/share/doc/anarchism/txt/secA3.txt
+   5. //usr/share/doc/anarchism/txt/secG4.txt#secg41
+   6. //usr/share/doc/anarchism/txt/secG1.txt#secg14

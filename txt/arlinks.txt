@@ -596,12 +596,12 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/index.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/arlinks.html#otherpapers
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/arlinks.html#othergroups
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/arlinks.html#otherlabour
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/arlinks.html#otherlibmarx
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/arlinks.html#othergeneral
+   1. //usr/share/doc/anarchism/txt/index.txt
+   2. //usr/share/doc/anarchism/txt/arlinks.txt#otherpapers
+   3. //usr/share/doc/anarchism/txt/arlinks.txt#othergroups
+   4. //usr/share/doc/anarchism/txt/arlinks.txt#otherlabour
+   5. //usr/share/doc/anarchism/txt/arlinks.txt#otherlibmarx
+   6. //usr/share/doc/anarchism/txt/arlinks.txt#othergeneral
    7. http://www.lobster-magazine.co.uk/
    8. http://zmagsite.zmag.org/curTOC.htm
    9. http://www.panix.com/~dhenwood/LBO_home.html

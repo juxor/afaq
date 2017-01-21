@@ -1747,20 +1747,20 @@ capitalism?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd53
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd51
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd51
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd53
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secF8.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC7.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC2.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD7.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD2.html#secd21
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd54
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd53
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd52
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd51
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD8.html
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html#secd53
+   1. //usr/share/doc/anarchism/txt/secD5.txt#secd53
+   2. //usr/share/doc/anarchism/txt/secD5.txt#secd51
+   3. //usr/share/doc/anarchism/txt/secD5.txt#secd51
+   4. //usr/share/doc/anarchism/txt/secD5.txt#secd53
+   5. //usr/share/doc/anarchism/txt/secF8.txt
+   6. //usr/share/doc/anarchism/txt/secC7.txt
+   7. //usr/share/doc/anarchism/txt/secC2.txt
+   8. //usr/share/doc/anarchism/txt/secD7.txt
+   9. //usr/share/doc/anarchism/txt/secD2.txt#secd21
+  10. //usr/share/doc/anarchism/txt/secD5.txt#secd54
+  11. //usr/share/doc/anarchism/txt/secD5.txt#secd53
+  12. //usr/share/doc/anarchism/txt/secD5.txt#secd52
+  13. //usr/share/doc/anarchism/txt/secD5.txt#secd51
+  14. //usr/share/doc/anarchism/txt/secB7.txt
+  15. //usr/share/doc/anarchism/txt/secD5.txt
+  16. //usr/share/doc/anarchism/txt/secD8.txt
+  17. //usr/share/doc/anarchism/txt/secD5.txt#secd53

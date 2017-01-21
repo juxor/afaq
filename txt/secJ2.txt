@@ -1358,7 +1358,24 @@ J.2.8 Will abstentionism lead to the right winning elections?
    stop the attacks upon us by whoever gets into office. A government
    (left or right) which faces a mass movement based upon direct action
    and solidarity will always think twice before proposing cuts or
-   introducing authoritarian laws.
+   introducing authoritarian laws. Howard Zinn expressed it well:
+
+     "I think a way to behave is to think not in terms of representative
+     government, not in terms of voting, not in terms of electoral
+     politics, but thinking in terms of organising social movements,
+     organising in the workplace, organising in the neighborhood,
+     organising collectives that can become strong enough to eventually
+     take over -- first to become strong enough to resist what has been
+     done to them by authority, and second, later, to become strong
+     enough to actually take over the institutions . . . the crucial
+     question is not who is in office, but what kind of social movement
+     do you have. Because we have seen historically that if you have a
+     powerful social movement, it doesnt matter who is in office. Whoever
+     is in office, they could be Republican or Democrat, if you have a
+     powerful social movement, the person in office will have to yield,
+     will have to in some ways respect the power of social movements . .
+     . voting is not crucial, and organising is the important thing." [An
+     Interview with Howard Zinn on Anarchism: Rebels Against Tyranny]
 
    Of course, all the parties claim that they are better than the others
    and this is the logic of this question -- namely, we must vote for the
@@ -1901,21 +1918,21 @@ J.2.10 Does rejecting electioneering mean that anarchists are apolitical?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html#seci23
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj26
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD2.html#secd21
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secC11.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj514
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech15
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech39
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj26
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secEcon.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj23
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj25
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj29
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj22
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj29
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj26
+   1. //usr/share/doc/anarchism/txt/secI2.txt#seci23
+   2. //usr/share/doc/anarchism/txt/secB2.txt
+   3. //usr/share/doc/anarchism/txt/secJ2.txt#secj26
+   4. //usr/share/doc/anarchism/txt/secD2.txt#secd21
+   5. //usr/share/doc/anarchism/txt/secC11.txt
+   6. //usr/share/doc/anarchism/txt/secJ5.txt#secj514
+   7. //usr/share/doc/anarchism/txt/secH1.txt#sech15
+   8. //usr/share/doc/anarchism/txt/secH3.txt#sech39
+   9. //usr/share/doc/anarchism/txt/secJ2.txt#secj26
+  10. //usr/share/doc/anarchism/txt/secB2.txt
+  11. //usr/share/doc/anarchism/txt/secEcon.txt
+  12. //usr/share/doc/anarchism/txt/secJ2.txt#secj23
+  13. //usr/share/doc/anarchism/txt/secJ2.txt#secj25
+  14. //usr/share/doc/anarchism/txt/secJ2.txt#secj29
+  15. //usr/share/doc/anarchism/txt/secJ2.txt#secj22
+  16. //usr/share/doc/anarchism/txt/secJ2.txt#secj29
+  17. //usr/share/doc/anarchism/txt/secJ5.txt
+  18. //usr/share/doc/anarchism/txt/secJ2.txt#secj26

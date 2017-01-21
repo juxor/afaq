@@ -944,7 +944,7 @@ J.1.5 Why do anarchists try to generalise social struggles?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech16
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj515
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca27
+   1. //usr/share/doc/anarchism/txt/secJ2.txt
+   2. //usr/share/doc/anarchism/txt/secH1.txt#sech16
+   3. //usr/share/doc/anarchism/txt/secJ5.txt#secj515
+   4. //usr/share/doc/anarchism/txt/secA2.txt#seca27

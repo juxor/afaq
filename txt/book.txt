@@ -61,13 +61,13 @@ References
 
    1. http://www.akuk.com/
    2. http://www.akpress.org/
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/10years.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/intro.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/vol1intro.html
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secAcon.html
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secBcon.html
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secCcon.html
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secDcon.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secEcon.html
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secFcon.html
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
+   3. //usr/share/doc/anarchism/txt/10years.txt
+   4. //usr/share/doc/anarchism/txt/intro.txt
+   5. //usr/share/doc/anarchism/txt/vol1intro.txt
+   6. //usr/share/doc/anarchism/txt/secAcon.txt
+   7. //usr/share/doc/anarchism/txt/secBcon.txt
+   8. //usr/share/doc/anarchism/txt/secCcon.txt
+   9. //usr/share/doc/anarchism/txt/secDcon.txt
+  10. //usr/share/doc/anarchism/txt/secEcon.txt
+  11. //usr/share/doc/anarchism/txt/secFcon.txt
+  12. //usr/share/doc/anarchism/txt/append2.txt

@@ -688,5 +688,5 @@ business failures?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD3.html#secd34
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD2.html
+   1. //usr/share/doc/anarchism/txt/secD3.txt#secd34
+   2. //usr/share/doc/anarchism/txt/secD2.txt

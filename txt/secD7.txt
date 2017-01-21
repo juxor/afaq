@@ -331,6 +331,6 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD5.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD6.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html#seci38
+   1. //usr/share/doc/anarchism/txt/secD5.txt
+   2. //usr/share/doc/anarchism/txt/secD6.txt
+   3. //usr/share/doc/anarchism/txt/secI3.txt#seci38

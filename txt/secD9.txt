@@ -895,7 +895,7 @@ D.9.3 What causes justifications for racism to appear?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secD1.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB7.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB2.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secB1.html#secb14
+   1. //usr/share/doc/anarchism/txt/secD1.txt
+   2. //usr/share/doc/anarchism/txt/secB7.txt
+   3. //usr/share/doc/anarchism/txt/secB2.txt
+   4. //usr/share/doc/anarchism/txt/secB1.txt#secb14

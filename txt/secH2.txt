@@ -3093,7 +3093,7 @@ H.2.9 Do anarchists have "liberal" politics?
    so the people must be protected against the
    "petty-bourgeois"/"reactionary" narrowness of the people (to requote
    Bakunin, "every state, even the pseudo-People's State concocted by Mr.
-   Marx, is in essence only a machine ruling the masses from below,
+   Marx, is in essence only a machine ruling the masses from above,
    through a privileged minority of conceited intellectuals who imagine
    that they know what the people need and want better than do the people
    themselves." [Bakunin on Anarchism, p. 338]). Rather than seeing free
@@ -4972,55 +4972,55 @@ bizarre"?
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/append3.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech310
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html#seci23
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH4.html#sech47
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech37
-   6. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech38
-   7. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech39
-   8. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech12
-   9. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html
-  10. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech14
-  11. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech28
-  12. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html#seci23
-  13. file://localhost/home/mauro/baku/debianize/maint/anarchy/append2.html
-  14. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech28
-  15. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech22
-  16. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ5.html#secj511
-  17. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI3.html#seci38
-  18. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech312
-  19. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html#sech61
-  20. file://localhost/home/mauro/baku/debianize/maint/anarchy/secI2.html#seci22
-  21. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech22
-  22. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech22
-  23. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech22
-  24. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj39
-  25. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH4.html
-  26. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech211
-  27. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech56
-  28. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech58
-  29. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  30. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
-  31. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html
-  32. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj36
-  33. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ7.html#secj75
-  34. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH4.html
-  35. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH6.html#sech61
-  36. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech314
-  37. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH3.html#sech38
-  38. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca211
-  39. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech12
-  40. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA5.html#seca55
-  41. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech51
-  42. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj210
-  43. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html
-  44. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj26
-  45. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ2.html#secj25
-  46. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech14
-  47. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH1.html#sech15
-  48. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html
-  49. file://localhost/home/mauro/baku/debianize/maint/anarchy/secJ3.html#secj37
-  50. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH2.html#sech28
-  51. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html#sech512
-  52. file://localhost/home/mauro/baku/debianize/maint/anarchy/secH5.html
+   1. //usr/share/doc/anarchism/txt/append3.txt
+   2. //usr/share/doc/anarchism/txt/secH3.txt#sech310
+   3. //usr/share/doc/anarchism/txt/secI2.txt#seci23
+   4. //usr/share/doc/anarchism/txt/secH4.txt#sech47
+   5. //usr/share/doc/anarchism/txt/secH3.txt#sech37
+   6. //usr/share/doc/anarchism/txt/secH3.txt#sech38
+   7. //usr/share/doc/anarchism/txt/secH3.txt#sech39
+   8. //usr/share/doc/anarchism/txt/secH1.txt#sech12
+   9. //usr/share/doc/anarchism/txt/secH6.txt
+  10. //usr/share/doc/anarchism/txt/secH1.txt#sech14
+  11. //usr/share/doc/anarchism/txt/secH2.txt#sech28
+  12. //usr/share/doc/anarchism/txt/secI2.txt#seci23
+  13. //usr/share/doc/anarchism/txt/append2.txt
+  14. //usr/share/doc/anarchism/txt/secH2.txt#sech28
+  15. //usr/share/doc/anarchism/txt/secH2.txt#sech22
+  16. //usr/share/doc/anarchism/txt/secJ5.txt#secj511
+  17. //usr/share/doc/anarchism/txt/secI3.txt#seci38
+  18. //usr/share/doc/anarchism/txt/secH3.txt#sech312
+  19. //usr/share/doc/anarchism/txt/secH6.txt#sech61
+  20. //usr/share/doc/anarchism/txt/secI2.txt#seci22
+  21. //usr/share/doc/anarchism/txt/secH2.txt#sech22
+  22. //usr/share/doc/anarchism/txt/secH2.txt#sech22
+  23. //usr/share/doc/anarchism/txt/secH2.txt#sech22
+  24. //usr/share/doc/anarchism/txt/secJ3.txt#secj39
+  25. //usr/share/doc/anarchism/txt/secH4.txt
+  26. //usr/share/doc/anarchism/txt/secH2.txt#sech211
+  27. //usr/share/doc/anarchism/txt/secH5.txt#sech56
+  28. //usr/share/doc/anarchism/txt/secH5.txt#sech58
+  29. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  30. //usr/share/doc/anarchism/txt/secH5.txt
+  31. //usr/share/doc/anarchism/txt/secJ3.txt
+  32. //usr/share/doc/anarchism/txt/secJ3.txt#secj36
+  33. //usr/share/doc/anarchism/txt/secJ7.txt#secj75
+  34. //usr/share/doc/anarchism/txt/secH4.txt
+  35. //usr/share/doc/anarchism/txt/secH6.txt#sech61
+  36. //usr/share/doc/anarchism/txt/secH3.txt#sech314
+  37. //usr/share/doc/anarchism/txt/secH3.txt#sech38
+  38. //usr/share/doc/anarchism/txt/secA2.txt#seca211
+  39. //usr/share/doc/anarchism/txt/secH1.txt#sech12
+  40. //usr/share/doc/anarchism/txt/secA5.txt#seca55
+  41. //usr/share/doc/anarchism/txt/secH5.txt#sech51
+  42. //usr/share/doc/anarchism/txt/secJ2.txt#secj210
+  43. //usr/share/doc/anarchism/txt/secJ2.txt
+  44. //usr/share/doc/anarchism/txt/secJ2.txt#secj26
+  45. //usr/share/doc/anarchism/txt/secJ2.txt#secj25
+  46. //usr/share/doc/anarchism/txt/secH1.txt#sech14
+  47. //usr/share/doc/anarchism/txt/secH1.txt#sech15
+  48. //usr/share/doc/anarchism/txt/secJ3.txt
+  49. //usr/share/doc/anarchism/txt/secJ3.txt#secj37
+  50. //usr/share/doc/anarchism/txt/secH2.txt#sech28
+  51. //usr/share/doc/anarchism/txt/secH5.txt#sech512
+  52. //usr/share/doc/anarchism/txt/secH5.txt

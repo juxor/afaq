@@ -216,7 +216,7 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE2.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE2.html
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/secE3.html
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/append132.html#secf23
+   1. //usr/share/doc/anarchism/txt/secE2.txt
+   2. //usr/share/doc/anarchism/txt/secE2.txt
+   3. //usr/share/doc/anarchism/txt/secE3.txt
+   4. //usr/share/doc/anarchism/txt/append132.txt#secf23

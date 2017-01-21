@@ -591,8 +591,8 @@ by the State. Those who are against Natural Law desire total rule by the state.
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/secG7.html
-   2. file://localhost/home/mauro/baku/debianize/maint/anarchy/append134.html#secf42
-   3. file://localhost/home/mauro/baku/debianize/maint/anarchy/append132.html#secf22
-   4. file://localhost/home/mauro/baku/debianize/maint/anarchy/append138.html
-   5. file://localhost/home/mauro/baku/debianize/maint/anarchy/secA2.html#seca219
+   1. //usr/share/doc/anarchism/txt/secG7.txt
+   2. //usr/share/doc/anarchism/txt/append134.txt#secf42
+   3. //usr/share/doc/anarchism/txt/append132.txt#secf22
+   4. //usr/share/doc/anarchism/txt/append138.txt
+   5. //usr/share/doc/anarchism/txt/secA2.txt#seca219

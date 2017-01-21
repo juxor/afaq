@@ -313,7 +313,7 @@
 
 References
 
-   1. file://localhost/home/mauro/baku/debianize/maint/anarchy/index.html
+   1. //usr/share/doc/anarchism/txt/index.txt
    2. http://www.infoshop.org/
    3. http://www.anarkismo.net/
    4. http://anarchism.ws/writers/anarcho.html
