@@ -11,7 +11,7 @@
                 Makes slaves of men, and, of the human frame,
                            A mechanised automaton.
 
-   As Shelley's lines suggest, anarchists place a high priority on
+    As Shelley's lines suggest, anarchists place a high priority on
    liberty, desiring it both for themselves and others. They also consider
    individuality -- that which makes one a unique person -- to be a most
    important aspect of humanity. They recognise, however, that
@@ -370,7 +370,8 @@ A.2.3 Are anarchists in favour of organisation?
      "To get the full meaning out of life we must co-operate, and to
      co-operate we must make agreements with our fellow-men. But to
      suppose that such agreements mean a limitation of freedom is surely
-     an absurdity; on the contrary, they are the exercise of our freedom.
+     an absurdity; on the contrary, they are the exercise of our
+     freedom.
 
      "If we are going to invent a dogma that to make agreements is to
      damage freedom, then at once freedom becomes tyrannical, for it
@@ -387,8 +388,8 @@ A.2.3 Are anarchists in favour of organisation?
      "If, on the other hand, I decide from my superior knowledge that it
      is good for my friend to take exercise, and therefore I attempt to
      compel him to go for a walk, then I begin to limit freedom. This is
-     the difference between free agreement and government."
-     [Objections to Anarchism, pp. 348-9]
+     the difference between free agreement and government." [Objections
+     to Anarchism, pp. 348-9]
 
    As far as organisation goes, anarchists think that "far from creating
    authority, [it] is the only cure for it and the only means whereby each
@@ -494,7 +495,7 @@ A.2.3 Are anarchists in favour of organisation?
      her] industry, each municipal, district or provincial council within
      its own territory . . . should act directly and by itself in
      administering the interests which it includes, and should exercise
-     full sovereignty in relation to them." [The General Idea of the
+     full sovereignty in relation to them." [General Idea of the
      Revolution, p. 276]
 
    It also implies a need for federalism to co-ordinate joint interests.
@@ -634,8 +635,7 @@ A.2.5 Why are anarchists in favour of equality?
      possible variety of activity and development. For human character is
      diverse . . . Free opportunity of expressing and acting out your
      individuality means development of natural dissimilarities and
-     variations."
-     [Op. Cit., pp. 164-5]
+     variations." [Op. Cit., pp. 164-5]
 
    For anarchists, the "concepts" of "equality" as "equality of outcome"
    or "equality of endowment" are meaningless. However, in a hierarchical
@@ -705,8 +705,7 @@ A.2.5 Why are anarchists in favour of equality?
      reducing the aristocratic formula of capital-labour-talent into the
      simpler formula of labour!. . . in order to make every citizen
      simultaneously, equally and to the same extent capitalist, labourer
-     and expert or artist."
-     [No Gods, No Masters, vol. 1, pp. 57-8]
+     and expert or artist." [No Gods, No Masters, vol. 1, pp. 57-8]
 
    Like all anarchists, Proudhon saw this integration of functions as the
    key to equality and freedom and proposed self-management as the means
@@ -1161,8 +1160,8 @@ A.2.8 Is it possible to be an anarchist without opposing hierarchy?
      floor, typing messages, and so on. There's no flow of power or
      planning from the bottom up. People can disrupt and make
      suggestions, but the same is true of a slave society. The structure
-     of power is linear, from the top down."
-     [Keeping the Rabble in Line, p. 237]
+     of power is linear, from the top down." [Keeping the Rabble in Line,
+     p. 237]
 
    David Deleon indicates these similarities between the company and the
    state well when he writes:
@@ -2241,8 +2240,7 @@ A.2.15 What about "human nature"?
      in such a way that human feelings and emotions of other sorts, say,
      solidarity, support, sympathy become dominant. Then you'll have
      different aspects of human nature and personality revealing
-     themselves."
-     [Chronicles of Dissent, pp. 158]
+     themselves." [Chronicles of Dissent, pp. 158]
 
    Therefore, environment plays an important part in defining what "human
    nature" is, how it develops and what aspects of it are expressed.
@@ -3466,8 +3464,7 @@ A.2.20 Why are most anarchists atheists?
      matter, but bravely renounce his liberty and humanity.
 
      "If God is, man is a slave; now, man can and must be free; then, God
-     does not exist."
-     [God and the State, p. 25]
+     does not exist." [God and the State, p. 25]
 
    For most anarchists, then, atheism is required due to the nature of
    religion. "To proclaim as divine all that is grand, just, noble, and

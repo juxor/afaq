@@ -268,9 +268,9 @@ C.4.1 How extensive is Big Business?
    largest companies control of the market rise from 73% in 1978 to 85% in
    1987 (and increasing fares across the board). ["Unexpected Result of
    Airline Decontrol is Return to Monopolies," Wall Street Journal,
-   20/07/1987] By 1998, the top sixs share had increased by 1% but control
-   was effectively higher with three code-sharing alliances now linking
-   all six in pairs.[Amy Taub, "Oligopoly!" Multinational Monitor,
+   20/07/1987] By 1998, the top six's share had increased by 1% but
+   control was effectively higher with three code-sharing alliances now
+   linking all six in pairs.[Amy Taub, "Oligopoly!" Multinational Monitor,
    November 1998, p. 9]
 
    This process of concentration is happening in industries historically
@@ -292,14 +292,14 @@ C.4.1 How extensive is Big Business?
 
      "The latest data available show that in the manufacturing sector the
      four largest companies in a given industry controlled an average of
-     40 percent of the industrys output in 1992, and the top eight had 52
-     percent. These shares were practically unchanged from 1972, but they
-     are two percentage points higher than in 1982. Retail trade
+     40 percent of the industry's output in 1992, and the top eight had
+     52 percent. These shares were practically unchanged from 1972, but
+     they are two percentage points higher than in 1982. Retail trade
      (department stores, food stores, apparel, furniture, building
      materials and home supplies, eating and drinking places, and other
      retail industries) also showed a jump in market concentration since
      the early 1980s. The top four firms accounted for an average of 16
-     percent of the retail industrys sales in 1982 and 20 percent in
+     percent of the retail industry's sales in 1982 and 20 percent in
      1992; for the eight largest, the average industry share rose from 22
      to 28 percent. Some figures now available for 1997 suggest that
      concentration continued to increase during the 1990s; of total sales

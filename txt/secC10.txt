@@ -318,10 +318,10 @@
      60:1 in 1990 and 74:1 in 1997 . . . Income distribution within
      countries also worsened . . . Between 1975 and 2000, the share of
      the richest 1% in gross income rose from 8% to 17% in the US, from
-     8.8% to 13.3% in Canada and from 6.1% to 13% in the UK."
-     [Deepak Nayyar, "Globalisation, history and development: a tale of
-     two centuries," pp. 137-159, Cambridge Journal of Economics, Vol.
-     30, No. 1, pp. 153-4 and p. 154]
+     8.8% to 13.3% in Canada and from 6.1% to 13% in the UK." [Deepak
+     Nayyar, "Globalisation, history and development: a tale of two
+     centuries," pp. 137-159, Cambridge Journal of Economics, Vol. 30,
+     No. 1, pp. 153-4 and p. 154]
 
    In fact, between 1950 and 1973 there was a vastly superior economic
    performance compared to what came before and what came after. If
@@ -975,8 +975,7 @@ C.10.2 Does "free trade" benefit everyone?
      competing countries, led by the US and Germany, emerged and overtook
      and passed Britain in output and income per head. Every one of them
      had protective tariffs, and a bigger (relative) public sector than
-     the British."
-     [Op. Cit., p. 180]
+     the British." [Op. Cit., p. 180]
 
    Significantly, and highly embarrassingly for neo-classical economists,
    the one nation which embraced free trade ideology most, namely the UK
@@ -1564,8 +1563,8 @@ C.10.4 Does growth automatically mean people are better off?
      exploitation, greater insecurity, and increasing human misery . . .
      most people [can be] 'better off' than their forerunners had been
      fifty years before, but they had suffered and continued to suffer
-     this . . . improvement as a catastrophic experience."
-     [The Making of the English Working Class, p. 231]
+     this . . . improvement as a catastrophic experience." [The Making of
+     the English Working Class, p. 231]
 
    Thompson was specifically referring to the experience of the British
    industrial revolution on the working class but his analysis is of
@@ -1718,27 +1717,19 @@ C.10.4 Does growth automatically mean people are better off?
    or close to it, in the following areas [Richard Du Boff, Accumulation
    and Power, pp. 183-4]:
 
-     lowest level of job security for workers, with greatest chance of
-   being dismissed without notice or reason.
-
-     greatest chance for a worker to become unemployed without adequate
-   unemployment and medical insurance.
-
-     less leisure time for workers, such as holiday time.
-
-     one of the most lopsided income distribution profiles.
-
-     lowest ratio of female to male earnings, in 1987 64% of the male
-   wage.
-
-     highest incidence of poverty in the industrial world.
-
-     among the worse rankings of all advanced industrial nations for
-   pollutant emissions into the air.
-
-     highest murder rates.
-
-     worse ranking for life expectancy and infant morality.
+     * lowest level of job security for workers, with greatest chance of
+       being dismissed without notice or reason.
+     * greatest chance for a worker to become unemployed without adequate
+       unemployment and medical insurance.
+     * less leisure time for workers, such as holiday time.
+     * one of the most lopsided income distribution profiles.
+     * lowest ratio of female to male earnings, in 1987 64% of the male
+       wage.
+     * highest incidence of poverty in the industrial world.
+     * among the worse rankings of all advanced industrial nations for
+       pollutant emissions into the air.
+     * highest murder rates.
+     * worse ranking for life expectancy and infant morality.
 
    It seems strange that the more laissez-faire system has the worse job
    security, least leisure time, highest poverty and inequality if

@@ -68,8 +68,8 @@
    oppression. It can, sometimes, involve putting pressure on politicians
    or companies, for example, to ensure a change in an oppressive law or
    destructive practices. However, such appeals are direct action simply
-   because they do not assume that the parties in question we will act for
-   us -- indeed the assumption is that change only occurs when we act to
+   because they do not assume that the parties in question will act for us
+   -- indeed the assumption is that change only occurs when we act to
    create it. Regardless of what it is, "if such actions are to have the
    desired empowerment effect, they must be largely self-generated, rather
    than being devised and directed from above" and be "ways in which
@@ -122,14 +122,14 @@ J.2.1 Why do anarchists favour using direct action to change things?
    it shatters the dependency and marginalisation created by hierarchy.
    This is key:
 
-   "What is even more important about direct action is that it forms a
-   decisive step toward recovering the personal power over social life
-   that the centralised, over-bearing bureaucracies have usurped from the
-   people . . . we not only gain a sense that we can control the course of
-   social events again; we recover a new sense of selfhood and personality
-   without which a truly free society, based in self-activity and
-   self-management, is utterly impossible." [Murray Bookchin, Toward an
-   Ecological Society, p. 47]
+     "What is even more important about direct action is that it forms a
+     decisive step toward recovering the personal power over social life
+     that the centralised, over-bearing bureaucracies have usurped from
+     the people . . . we not only gain a sense that we can control the
+     course of social events again; we recover a new sense of selfhood
+     and personality without which a truly free society, based in
+     self-activity and self-management, is utterly impossible." [Murray
+     Bookchin, Toward an Ecological Society, p. 47]
 
    By acting for themselves, people gain a sense of their own power and
    abilities. This is essential if people are to run their own lives. As
@@ -248,8 +248,8 @@ J.2.2 Why do anarchists reject voting as a means for change?
    society is to ensure "the preservation of the economic 'status quo,'
    the protection of the economic privileges of the ruling class, whose
    agent and gendarme it is". [Luigi Galleani, The End of Anarchism?, p.
-   28] As such, the state and capital restricts and controls the outcome
-   of political action of the so-called sovereign people as expressed by
+   28] As such, the state and capital restrict and control the outcome of
+   political action of the so-called sovereign people as expressed by
    voting.
 
    Taking capital to begin with, if we assume that a relatively reformist
@@ -259,14 +259,14 @@ J.2.2 Why do anarchists reject voting as a means for change?
    government in question would control capital leaving the country and so
    would soon be isolated from new investment and its currency would
    become worthless. Either is an effective weapon to control
-   democratically elected governments as before ensure that the economy
+   democratically elected governments as both ensure that the economy
    would be severely damaged and the promised "reforms" would be dead
    letters. Far fetched? No, not really. As discussed in [4]section D.2.1
    such pressures were inflicted on the 1974 Labour Government in Britain
    and we see the threat reported everyday when the media reports on what
    "the markets" think of government policies or when loans are given only
-   guarantee that the country is structurally adjusted in-line with
-   corporate interests and bourgeous economic dogma.
+   with the guarantee that the country is structurally adjusted in-line
+   with corporate interests and bourgeois economic dogma.
 
    As far as political pressures go, we must remember that there is a
    difference between the state and government. The state is the permanent
@@ -385,18 +385,18 @@ J.2.2 Why do anarchists reject voting as a means for change?
    different ways to the same economic and institutional influences and
    interests. Its no coincidence that left-wing, reformist parties have
    introduced right-wing, pro-capitalist ("Thatcherite/Reaganite")
-   policies similiar to those right-wing, explicitly pro-capitalist
-   parties have. This is to be expected as the basic function of any
-   political system is to manage the existing state and economic
-   structures and a society's power relationships. It is not to alter them
-   radically, The great illusion of politics is the notion that
-   politicians have the power to make whatever changes they like. Looking
-   at the international picture, the question obviously arises as to what
-   real control do the politicians have over the international economy and
-   its institutions or the pattern of world trade and investment. These
-   institutions have great power and, moreover, have a driving force (the
-   profit motive) which is essentially out of control (as can be seen by
-   the regular financial crises during the neo-liberal era).
+   policies similar to those right-wing, explicitly pro-capitalist parties
+   have. This is to be expected as the basic function of any political
+   system is to manage the existing state and economic structures and a
+   society's power relationships. It is not to alter them radically, The
+   great illusion of politics is the notion that politicians have the
+   power to make whatever changes they like. Looking at the international
+   picture, the question obviously arises as to what real control do the
+   politicians have over the international economy and its institutions or
+   the pattern of world trade and investment. These institutions have
+   great power and, moreover, have a driving force (the profit motive)
+   which is essentially out of control (as can be seen by the regular
+   financial crises during the neo-liberal era).
 
    This can be seen most dramatically in the military coup in Chile
    against the democratically re-elected (left-wing) Allende government by
@@ -456,12 +456,12 @@ J.2.2 Why do anarchists reject voting as a means for change?
    invited, provoked or compelled by some power outside of itself that
    seizes the initiative and sets things rolling," namely by "a body
    representative of the proletariat be formed in Paris . . . in
-   opposition to the bourgeoisies representation." [Le Représentant du
-   Peuple, 5th May 1848] So, if extensive reforms have implemented by the
-   state, just remember what they were in response to militant pressure
-   from below and that we could have got so much more. In general, things
-   have little changed since this anarchist argument against
-   electioneering was put forward in the 1880s:
+   opposition to the bourgeoisie's representation." [Property is Theft!,
+   p. 325] So, if extensive reforms have implemented by the state, just
+   remember that they were in response to militant pressure from below and
+   that we could have got so much more. In general, things have little
+   changed since this anarchist argument against electioneering was put
+   forward in the 1880s:
 
      "in the electoral process, the working class will always be cheated
      and deceived . . . if they did manage to send, one, or ten, or fifty
@@ -484,7 +484,7 @@ J.2.2 Why do anarchists reject voting as a means for change?
    people for joining a union is illegal in America, it does not stop
    bosses doing so. Similarly, many would be surprised to discover that
    the 8 hour working day was legally created in many US states by the
-   1870s but workers had to strike for it in 1886 as it as not enforced.
+   1870s but workers had to strike for it in 1886 as it was not enforced.
    Ultimately, political action is dependent on direct action to be
    enforced where it counts (in the workplace and streets). And if only
    direct action can enforce a political decision once it is made, then it
@@ -645,7 +645,7 @@ J.2.3 What are the political implications of voting?
    important matters to the "experts" and "authorities." Kropotkin
    described well the net effect:
 
-     "Vote! Greater men that you will tell you the moment when the
+     "Vote! Greater men than you will tell you the moment when the
      self-annihilation of capital has been accomplished. They will then
      expropriate the few usurpers left . . . and you will be freed
      without having taken any more trouble than that of writing on a bit
@@ -656,7 +656,7 @@ J.2.3 What are the political implications of voting?
 
    Anarchists also criticise elections for giving citizens the false
    impression that the government serves, or can serve, the people. As
-   Martin remains us "the founding of the modern state a few centuries ago
+   Martin reminds us "the founding of the modern state a few centuries ago
    was met with great resistance: people would refuse to pay taxes, to be
    conscripted or to obey laws passed by national governments. The
    introduction of voting and the expanded suffrage have greatly aided the
@@ -737,7 +737,7 @@ J.2.4 Surely voting for radical parties will be effective?
    the simple organ of the economically dominant class pictured by
    Marxists. There are continual struggles both inside and outside the
    state bureaucracies, struggles that influence policies and empower
-   different groups of people. This can produce clashes with the ruling
+   different groups of people. This can produce clashes within the ruling
    elite, while the need of the state to defend the system as a whole
    causes conflict with the interests of sections of the capitalist class.
    Due to this, many radical parties believe that the state is neutral and
@@ -801,9 +801,9 @@ J.2.4 Surely voting for radical parties will be effective?
    democracy is to urge people not to vote. Such anti-election campaigns
    can be a valuable way of making others aware of the limitations of the
    current system, which is a necessary condition for their seriously
-   considering the anarchist alternative of using direct action and build
-   alternative social and economic organisations. The implications of
-   abstentionism are discussed in the [13]next section.
+   considering the anarchist alternative of using direct action and
+   building alternative social and economic organisations. The
+   implications of abstentionism are discussed in the [13]next section.
 
 J.2.5 Why do anarchists support abstentionism and what are its implications?
 
@@ -839,7 +839,7 @@ J.2.5 Why do anarchists support abstentionism and what are its implications?
    "democracy", the disempowering nature of elections and the real role of
    the state.
 
-   For anarchists, then, when you vote, you are choosing between rulers.
+   For anarchists then, when you vote, you are choosing between rulers.
    Instead of urging people to vote we raise the option of choosing to
    rule yourself, to organise freely with others -- in your workplace, in
    your community, everywhere -- as equals. The option of something you
@@ -866,8 +866,8 @@ J.2.5 Why do anarchists support abstentionism and what are its implications?
    being fed up with the political system, failing to see any major
    differences between the parties, or recognition that the candidates
    were not interested in people like them. These non-voters are often
-   disproportionately left-leaning, compared with those who did vote. So,
-   anarchist abstentionism is a means of turning this negative reaction to
+   disproportionately left-leaning, compared with those who did vote.
+   Anarchist abstentionism is a means of turning this negative reaction to
    an unjust system into positive activity.
 
    So, anarchist opposition to electioneering has deep political
@@ -895,7 +895,7 @@ J.2.5 Why do anarchists support abstentionism and what are its implications?
      administrative interests." [Op. Cit., pp. 13-14]
 
    Therefore abstentionism stresses the importance of self-activity and
-   self-libertarian as well as having an important educational effect in
+   self-liberation as well as having an important educational effect in
    highlighting that the state is not neutral but serves to protect class
    rule and that meaningful change only comes from below, by direct
    action. For the dominant ideas within any class society reflect the
@@ -971,7 +971,7 @@ J.2.6 What are the effects of radicals using electioneering?
    country are almost always those who represent it." There was "ignorance
    of daily facts" and "fear of the people" ("the sickness of all those
    who belong to authority") for "the people, for those in power, are the
-   enemy." [The Anarchist Reader, p. 111] Ultimately, as syndicalist Emile
+   enemy." [Property is Theft!, p. 19] Ultimately, as syndicalist Emile
    Pouget argued, this fate was inevitable as any socialist politician
    "could not break the mould; he is only a cog in the machine of
    oppression and whether he wishes it or not he must, as minister,
@@ -1203,7 +1203,7 @@ J.2.7 Surely we should vote for reformist parties in order to expose them?
    are petty-bourgeois and treacherous by nature, and that their
    bankruptcy is inevitable." If we "want the masses to follow us", we
    need to "support" such parties "in the same way as the rope supports a
-   hanged man." In this way, by experiencing the reformists in official,
+   hanged man." In this way, by experiencing the reformists in office,
    "the majority will soon become disappointed in their leaders and will
    begin to support communism." [The Lenin Anthology, p. 603, p. 605 and
    p. 602]
@@ -1363,19 +1363,20 @@ J.2.8 Will abstentionism lead to the right winning elections?
      "I think a way to behave is to think not in terms of representative
      government, not in terms of voting, not in terms of electoral
      politics, but thinking in terms of organising social movements,
-     organising in the workplace, organising in the neighborhood,
+     organising in the workplace, organising in the neighbourhood,
      organising collectives that can become strong enough to eventually
      take over -- first to become strong enough to resist what has been
      done to them by authority, and second, later, to become strong
      enough to actually take over the institutions . . . the crucial
      question is not who is in office, but what kind of social movement
      do you have. Because we have seen historically that if you have a
-     powerful social movement, it doesnt matter who is in office. Whoever
-     is in office, they could be Republican or Democrat, if you have a
-     powerful social movement, the person in office will have to yield,
-     will have to in some ways respect the power of social movements . .
-     . voting is not crucial, and organising is the important thing." [An
-     Interview with Howard Zinn on Anarchism: Rebels Against Tyranny]
+     powerful social movement, it doesn't matter who is in office.
+     Whoever is in office, they could be Republican or Democrat, if you
+     have a powerful social movement, the person in office will have to
+     yield, will have to in some ways respect the power of social
+     movements . . . voting is not crucial, and organising is the
+     important thing." [An Interview with Howard Zinn on Anarchism:
+     Rebels Against Tyranny]
 
    Of course, all the parties claim that they are better than the others
    and this is the logic of this question -- namely, we must vote for the
@@ -1575,7 +1576,7 @@ J.2.9 What do anarchists do instead of voting?
    The second strategy of building alternatives flows naturally from the
    first. Any form of campaign requires organisation and by organising in
    an anarchist manner we build organisations that "bear in them the
-   living seed of the new society which is replace the old world."
+   living seeds of the new society which is to replace the old world."
    [Bakunin, Op. Cit., p. 255] In organising strikes in the workplace and
    community we can create a network of activists and union members who
    can encourage a spirit of revolt against authority. By creating
@@ -1887,7 +1888,7 @@ J.2.10 Does rejecting electioneering mean that anarchists are apolitical?
 
    In addition, so-called "economic" struggles do not occur in a vacuum.
    They take place in a social and political context and so, necessarily,
-   there can exist an separation of political and economic struggles only
+   there can exist a separation of political and economic struggles only
    in the mind. Strikers or eco-warriors, for example, face the power of
    the state enforcing laws which protect the power of employers and
    polluters. This necessarily has a "political" impact on those involved
@@ -1907,7 +1908,7 @@ J.2.10 Does rejecting electioneering mean that anarchists are apolitical?
    predictions have been confirmed time and time again. Anarchists reject
    electioneering not because they are "apolitical" but because they do
    not desire to see politics remain a thing purely for politicians and
-   bureucrats. Political issues are far too important to leave to such
+   bureaucrats. Political issues are far too important to leave to such
    people. Anarchists desire to see political discussion and change
    develop from the bottom up, this is hardly "apolitical" -- in fact with
    our desire to see ordinary people directly discuss the issues that

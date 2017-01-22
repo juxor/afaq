@@ -9,10 +9,10 @@
    supporters of capitalism simply had to describe the "socialist
    paradises" as they really are in order to put people off socialism. The
    Stalinist regimes and their various apologists (and even "opponents",
-   like the Trotskyists, who defended them as "degenerated workers'
-   states") let the bourgeoisie have an easy time in dismissing all
-   working-class demands and struggles as so many attempts to set up
-   similar party dictatorships.
+   like the Trotskyists, who defend them as "degenerated workers' states")
+   let the bourgeoisie have an easy time in dismissing all working-class
+   demands and struggles as so many attempts to set up similar party
+   dictatorships.
 
    The association of "socialism" or "communism" with these dictatorships
    has often made anarchists wary of calling themselves socialists or
@@ -140,7 +140,7 @@
    that the lesson that was drawn from Marx and Lenin for the later period
    was the authoritarian lesson. That is, it's the authoritarian power of
    the vanguard party and destruction of all popular forums in the
-   interests of the masses. That's the Lenin who became know to later
+   interests of the masses. That's the Lenin who became known to later
    generations. Again, not very surprisingly, because that's what Leninism
    really was in practice." [Language and Politics, p. 152]
 
@@ -160,9 +160,9 @@
    Anarchism, p. 108 and p. 109] In Marx's words, the "tradition of all
    the dead generations weighs down like a nightmare on the brain of the
    living." Yet his own work, and the movements it inspired, now add to
-   this dead-weight. In order to ensure, as Marx put it, the social
-   revolution draws is poetry from the future rather than the past,
-   Marxism itself must be transcended.
+   this dead-weight. In order to ensure, as Marx (echoing Proudhon) put
+   it, the social revolution draws its poetry from the future rather than
+   the past, Marxism itself must be transcended.
 
    Which, of course, means evaluating both the theory and practice of
    Marxism. For anarchists, it seems strange that for a body of work whose
@@ -177,8 +177,8 @@
    allegedly false, interpretations exist at all simply suggests that
    there are limitations within Marxism as such rather than the readings
    it has been subjected to. When something repeatedly fails and produces
-   such terrible results in the progress then there has to be a
-   fundamental flaw somewhere. Thus Cornelius Castoriadis:
+   such terrible results in the process then there has to be a fundamental
+   flaw somewhere. Thus Cornelius Castoriadis:
 
      "Marx was, in fact, the first to stress that the significance of a
      theory cannot be grasped independently of the historical and social
@@ -202,8 +202,8 @@
      the central ideas of that doctrine - that real history doesn't count
      and that the truth of a theory is always and exclusively to be found
      'further on.' It finally comes to replacing revolution by revelation
-     and the understanding of events by the exegesis of texts."
-     ["The Fate of Marxism," pp. 75-84 The Anarchist Papers, Dimitrios
+     and the understanding of events by the exegesis of texts." ["The
+     Fate of Marxism," pp. 75-84 The Anarchist Papers, Dimitrios
      Roussopoulos (ed.), p. 77]
 
    This does not mean forsaking the work of Marx and Engels. It means
@@ -270,12 +270,11 @@ H.3.1 Do Anarchists and Marxists want the same thing?
    differences in means. As is obvious from Bakunin's argument, anarchists
    stress the unity of means and goals, that the means which are used
    affect the goal reached. This unity between means and ends is expressed
-   well by Martin Buber's observation that "[o]ne cannot in the nature of
-   things expect a little tree that has been turned into a club to put
-   forth leaves." [Paths in Utopia, p. 127] In summary, we cannot expect
-   to reach our end destination if we take a path going in the opposite
-   direction. As such, the agreement on ends may not be as close as often
-   imagined.
+   well by Martin Buber: "One cannot in the nature of things expect a
+   little tree that has been turned into a club to put forth leaves."
+   [Paths in Utopia, p. 127] In summary, we cannot expect to reach our end
+   destination if we take a path going in the opposite direction. As such,
+   the agreement on ends may not be as close as often imagined.
 
    So when it is stated that anarchists and state socialists want the same
    thing, the following should be borne in mind. Firstly, there are key
@@ -360,7 +359,7 @@ H.3.1 Do Anarchists and Marxists want the same thing?
    government (see [9]section H.3.10).
 
    While Marxists like to portray this new government as "the dictatorship
-   of the proletariat," anarchist argue that, in fact, it will be the
+   of the proletariat," anarchists argue that, in fact, it will be the
    dictatorship over the proletariat. This is because if the working class
    is the ruling class (as Marxists claim) then, anarchists argue, how can
    they delegate their power to a government and remain so? Either the
@@ -536,7 +535,7 @@ H.3.1 Do Anarchists and Marxists want the same thing?
    organisation and control of trade, and lastly the injection of capital
    into production by a single banker, the State." Such a system would be,
    in reality, "the reign of the scientific mind, the most aristocratic,
-   despotic, arrogant and contemptuous of all regimes" base on "a new
+   despotic, arrogant and contemptuous of all regimes" based on "a new
    class, a new hierarchy of real or bogus learning, and the world will be
    divided into a dominant, science-based minority and a vast, ignorant
    majority." [Michael Bakunin: Selected Writings, p. 266]
@@ -609,7 +608,7 @@ H.3.1 Do Anarchists and Marxists want the same thing?
      "When F. Engels, perhaps to counter anarchist criticisms, said that
      once classes disappear the State as such has no raison d'être and
      transforms itself from a government of men into an administration of
-     thing, he was merely playing with words. Whoever has power over
+     things, he was merely playing with words. Whoever has power over
      things has power over men; whoever governs production also governs
      the producers; who determines consumption is master over the
      consumer.
@@ -651,11 +650,11 @@ H.3.1 Do Anarchists and Marxists want the same thing?
 
    For these reasons anarchists reject the simplistic Marxist analysis of
    inequality being rooted simply in economic class. Such an analysis, as
-   the comments of Lenin and Engels prove, show that social inequality can
-   be smuggled in by the backdoor of a proposed classless and stateless
-   society. Thus Bookchin:
+   the comments of Lenin and Engels prove, shows that social inequality
+   can be smuggled in by the backdoor of a proposed classless and
+   stateless society. Thus Bookchin:
 
-     "Basic to anti-authoritarian Socialism --specifically, to Anarchist
+     "Basic to anti-authoritarian Socialism - specifically, to Anarchist
      Communism - is the notion that hierarchy and domination cannot be
      subsumed by class rule and economic exploitation, indeed, that they
      are more fundamental to an understanding of the modern revolutionary
@@ -740,7 +739,7 @@ H.3.2 Is Marxism "socialism from below"?
    working class) and Stalinism (bureaucratic dictatorship over the
    working class). Anarchism, it is argued, should be placed in the latter
    camp, with Proudhon and Bakunin showing that anarchist libertarianism
-   simply a "myth".
+   is a "myth".
 
    For those who uphold this idea, "Socialism from below" is simply the
    self-emancipation of the working class by its own efforts. To anarchist
@@ -751,33 +750,34 @@ H.3.2 Is Marxism "socialism from below"?
    far longer than Marxists have. As such, "socialism from below" simply
    sums up the anarchist ideal!
 
-   Thus we find Proudhon in 1848 talking about being a "revolutionary from
-   below" and that every "serious and lasting Revolution" was "made from
-   below, by the people." A "Revolution from above" was "pure
-   governmentalism," "the negation of collective activity, of popular
-   spontaneity" and is "the oppression of the wills of those below."
-   [quoted by George Woodcock, Pierre-Joseph Proudhon, p. 143] For
-   Proudhon, the means of this revolution "from below" would be
+   Thus we find Proudhon in 1846 arguing that socialism "springs up and
+   grows from below" and a few years later how "from below signifies the
+   people . . . the initiative of the masses." Every "serious and lasting
+   Revolution" was "made from below, by the people." A "Revolution from
+   above" was "pure governmentalism," "the negation of collective
+   activity, of popular spontaneity" and is "the oppression of the wills
+   of those below." The means of this revolution "from below" would be
    federations of working class associations for both credit (mutual
    banks) and production (workers' associations or co-operatives) as well
-   as federations of communes (democratically organised communities). The
-   workers, "organised among themselves, without the assistance of the
-   capitalist" would march by "[w]ork to the conquest of the world" by the
-   "force of principle." Thus capitalism would be reformed away by the
-   actions of the workers themselves. The "problem of association,"
-   Proudhon argued, "consists in organising . . . the producers, and by
-   this subjecting capital and subordinating power. Such is the war of
-   liberty against authority, a war of the producer against the
+   as federations of communes (democratically organised communities). He
+   "had always thought that the proletariat must emancipate itself without
+   the help of the government" and so the "revolutionary power . . . is in
+   you. The people alone, acting upon themselves without intermediary, can
+   achieve the economic Revolution . . . The people alone can save
+   civilisation and advance humanity!" Thus capitalism would be reformed
+   away by the actions of the workers themselves. The "problem of
+   association," he argued, "consists in organising . . . the producers,
+   and by this subjecting capital and subordinating power. Such is the war
+   of liberty against authority, a war of the producer against the
    non-producer; a war of equality against privilege . . . An agricultural
    and industrial combination must be found by means of which power, today
-   the ruler of society, shall become its slave." [quoted by K. Steven
-   Vincent, Pierre-Joseph Proudhon and the Rise of French Republican
-   Socialism, p. 148 and p. 157] Ultimately, "any revolution, to be
-   effective, must be spontaneous and emanate, not from the heads of
-   authorities, but from the bowels of the people . . . the only
-   connection between government and labour is that labour, in organising
-   itself, has the abrogation of governments as its mission." [Proudhon,
-   No Gods, No Masters, vol. 1, p. 52]
+   the ruler of society, shall become its slave." Ultimately, "any
+   revolution, to be effective, must be spontaneous and emanate, not from
+   the heads of authorities, but from the bowels of the people . . . the
+   only connection between government and labour is that labour, in
+   organising itself, has the abrogation of governments as its mission."
+   [Property is Theft!, p. 205, p. 398, pp. 26-7, p. 306, p. 336, p. 225
+   and p. 26]
 
    Similarly, Bakunin saw an anarchist revolution as coming "from below."
    As he put it, "liberty can be created only by liberty, by an
@@ -820,10 +820,10 @@ H.3.2 Is Marxism "socialism from below"?
    notion, one found in the works of Proudhon and Bakunin and repeated by
    anarchists ever since. As such, to hear Marxists appropriate this
    obviously anarchist terminology and imagery appears to many anarchists
-   as opportunistic and attempt to cover the authoritarian reality of
+   as opportunistic and an attempt to cover the authoritarian reality of
    mainstream Marxism with anarchist rhetoric. Moreover, the attempt to
    suggest that anarchism is part of the elitist "socialism from above"
-   school rests on little more that selective quoting of Proudhon and
+   school rests on little more than selective quoting of Proudhon and
    Bakunin (including from Bakunin's pre-anarchist days) to present a
    picture of their ideas distinctly at odds with reality. However, there
    are "libertarian" strains of Marxism which are close to anarchism. Does
@@ -889,11 +889,11 @@ H.3.2 Is Marxism "socialism from below"?
    means of subsistence" or "whether it will redeem property therein by
    instalments spread over a long period." To attempt to predict this "for
    all cases would be utopia-making." [Collected Works, vol. 23, p. 386]
-   However, Engels is assuming that the social revolution (the proletariat
-   "com[ing] to power") comes before the social revolution (the seizure of
-   the means of production). In this, we can assume that it is the
-   "revolutionary" government which does the seizing (or redeeming) rather
-   than rebel workers.
+   However, Engels is assuming that the political revolution (the
+   proletariat "com[ing] to power") comes before the social revolution
+   (the seizure of the means of production). In this, we can assume that
+   it is the "revolutionary" government which does the seizing (or
+   redeeming) rather than rebel workers.
 
    This vision of revolution as the party coming to power can be seen from
    Engels' warning that the "worse thing that can befall the leader of an
@@ -1019,7 +1019,7 @@ H.3.2 Is Marxism "socialism from below"?
 
    By the 1890s, the top-down and essentially reformist nature of these
    tactics had made their mark in both Engels' politics and the practical
-   activities of the Social-Democratic parties. Engels "introduction" to
+   activities of the Social-Democratic parties. Engels introduction to
    Marx's The Class Struggles in France indicated how far Marxism had
    progressed and undoubtedly influenced by the rise of Social-Democracy
    as an electoral power, it stressed the use of the ballot box as the
@@ -1212,12 +1212,12 @@ H.3.3 Is Leninism "socialism from below"?
    workers and soldiers." The "class-conscious workers must lead, but for
    the work of administration they can enlist the vast mass of the working
    and oppressed people." Thus democratic sounding rhetoric, in reality,
-   hide the fact that the party would govern (i.e., have power) and
-   working people would simply administer the means by which its decisions
-   would be implemented. Lenin also indicated that once in power, the
-   Bolsheviks "shall be fully and unreservedly in favour of a strong state
-   power and of centralism." [Op. Cit., vol. 26, p. 111, p. 179, p. 113,
-   p. 114 and p. 116]
+   hid the fact that the party would govern (i.e., have power) and working
+   people would simply administer the means by which its decisions would
+   be implemented. Lenin also indicated that once in power, the Bolsheviks
+   "shall be fully and unreservedly in favour of a strong state power and
+   of centralism." [Op. Cit., vol. 26, p. 111, p. 179, p. 113, p. 114 and
+   p. 116]
 
    Clearly, Lenin's position had not changed. The goal of the revolution
    was simply a Bolshevik government, which, if it were to be effective,
@@ -1241,13 +1241,13 @@ H.3.3 Is Leninism "socialism from below"?
    state] administration, the Bolsheviks claimed also that they were
    providing a greater degree of democracy than the parliamentary state."
    [Frederick I. Kaplan, Bolshevik Ideology and the Ethics of Soviet
-   Labor, p. 212] The difference is important. Ante Ciliga, once a
-   political prisoner under Stalin, once noted how the secret police
-   "liked to boast of the working class origin of its henchmen." He quoted
-   a fellow prisoner, and ex-Tsarist convict, who retorted: "You are wrong
-   if you believe that in the days of the Tsar the gaolers were recruited
-   from among dukes and the executioners from among the princes!" [The
-   Russian Enigma, pp. 255-6]
+   Labor, p. 212] The difference is important. Ante Ciliga, a political
+   prisoner under Stalin, once noted how the secret police "liked to boast
+   of the working class origin of its henchmen." He quoted a fellow
+   prisoner, and ex-Tsarist convict, who retorted: "You are wrong if you
+   believe that in the days of the Tsar the gaolers were recruited from
+   among dukes and the executioners from among the princes!" [The Russian
+   Enigma, pp. 255-6]
 
    All of which explains the famous leaflet addressed to the workers of
    Petrograd immediately after the October Revolution, informing them that
@@ -1290,7 +1290,7 @@ H.3.3 Is Leninism "socialism from below"?
    Marxist theory of the state in line with this). Rather than the result
    of the problems facing Russia at the time, Lenin's comments simply
    reflect the unfolding of certain aspects of his ideology when his party
-   held power (as we make clear in [32]section H.6" the ideology of the
+   held power (as we make clear in [32]section H.6.2 the ideology of the
    ruling party and the ideas held by the masses are also factors in
    history).
 
@@ -1327,8 +1327,7 @@ H.3.3 Is Leninism "socialism from below"?
      non-communist . . . very powerful proletarian apparatus, by means of
      which the Party is closely linked up with the class and the masses,
      and by means of which, under the leadership of the Party, the class
-     dictatorship of the class is exercised."
-     [Op. Cit., pp. 571-2]
+     dictatorship of the class is exercised." [Op. Cit., pp. 571-2]
 
    This was "the general mechanism of the proletarian state power viewed
    'from above,' from the standpoint of the practical realisation of the
@@ -1412,13 +1411,13 @@ H.3.3 Is Leninism "socialism from below"?
    socialism from below" and state that this means the direct and
    democratic control of society by the working class then, clearly, they
    are being less than honest. Looking at the tradition they place
-   themselves, the obvious conclusion which must be reached is that
+   themselves in, the obvious conclusion which must be reached is that
    Leninism is not based on "socialism from below" in the sense of working
    class self-management of society (i.e. the only condition when the
    majority can "rule" and decisions truly flow from below upwards). At
    best, they subscribe to the distinctly bourgeois vision of "democracy"
    as being simply the majority designating (and trying to control) its
-   rulers. At worse, they defend politics which have eliminated even this
+   rulers. At worst, they defend politics which have eliminated even this
    form of democracy in favour of party dictatorship and "one-man
    management" armed with "dictatorial" powers in industry (most members
    of such parties do not know how the Bolsheviks gerrymandered and
@@ -1468,7 +1467,7 @@ H.3.4 Don't anarchists just quote Marxists selectively?
    self-proclaimed Marxists (like Trotsky) may quote these comments, fewer
    apply them to their own ideology or actions (again, like Trotsky).
 
-   This can be seen from the almost ritualistic way many Marxists response
+   This can be seen from the almost ritualistic way many Marxists respond
    to anarchist (or other) criticisms of their ideas. When they complain
    that anarchists "selectively" quote from the leading proponents of
    Marxism, they are usually at pains to point people to some document
@@ -1476,7 +1475,7 @@ H.3.4 Don't anarchists just quote Marxists selectively?
    tradition. Leninists usually point to Lenin's State and Revolution, for
    example, for a vision of what Lenin "really" wanted. To this anarchists
    reply by, as we discussed in [36]section H.1.7, pointing out that much
-   of that passes for 'Marxism' in State and Revolution is anarchist and,
+   of what passes for 'Marxism' in State and Revolution is anarchist and,
    equally important, it was not applied in practice. This explains an
    apparent contradiction. Leninists point to the Russian Revolution as
    evidence for the democratic nature of their politics. Anarchists point
@@ -1672,21 +1671,21 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
    this, anarchists and syndicalists meant groups of workers who gave an
    example by their direct action which their fellow workers could imitate
    (for example by leading wildcat strikes which would use flying pickets
-   to get other workers to join in). This "militant minority"
-   would be at the forefront of social struggle and would show, by
-   example, practice and discussion, that their ideas and tactics were the
-   correct ones. After the Russian Revolution of 1917, Bolsheviks argued
-   that this idea was similar to their idea of a vanguard party. This
-   ignored two key differences. Firstly that the libertarian "militant
-   minority" did not aim to take power on behalf of the working class but
-   rather to encourage it, by example, to manage its own struggles and
-   affairs (and, ultimately, society). Secondly, that "vanguard parties"
-   are organised in hierarchical ways alien to the spirit of anarchism.
-   While both the "militant minority" and "vanguard party" approaches are
-   based on an appreciation of the uneven development of ideas within the
-   working class, vanguardism transforms this into a justification for
-   party rule over the working class by a so-called "advanced" minority
-   (see [45]section H.5 for a full discussion). Other concepts, such as
+   to get other workers to join in). This "militant minority" would be at
+   the forefront of social struggle and would show, by example, practice
+   and discussion, that their ideas and tactics were the correct ones.
+   After the Russian Revolution of 1917, Bolsheviks argued that this idea
+   was similar to their idea of a vanguard party. This ignored two key
+   differences. Firstly that the libertarian "militant minority" did not
+   aim to take power on behalf of the working class but rather to
+   encourage it, by example, to manage its own struggles and affairs (and,
+   ultimately, society). Secondly, that "vanguard parties" are organised
+   in hierarchical ways alien to the spirit of anarchism. While both the
+   "militant minority" and "vanguard party" approaches are based on an
+   appreciation of the uneven development of ideas within the working
+   class, vanguardism transforms this into a justification for party rule
+   over the working class by a so-called "advanced" minority (see
+   [45]section H.5 for a full discussion). Other concepts, such as
    "workers' control," direct action, and so on have suffered a similar
    fate.
 
@@ -1804,7 +1803,7 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
    we see that the 1905 revolution and "historical dialectics" did not, as
    Luxemburg claim, validate Engels and disprove anarchism. Quite the
    reverse as the general strikes in Russia followed the anarchist ideas
-   of a what a general strike would be like quite closely. Little wonder,
+   of what a general strike would be like quite closely. Little wonder,
    then, that Kropotkin argued that the 1905 general strike "demonstrated"
    that the Latin workers who had been advocating the general strike "as a
    weapon which would irresistible in the hands of labour for imposing its
@@ -1839,7 +1838,7 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
    their dogma to remain relevant. Luxemburg, as Bookchin noted, "grossly
    misrepresented the anarchist emphasis on the general strike after the
    1905 revolution in Russia in order to make it acceptable to Social
-   Democracy." (he added that Lenin "was to engage in the same
+   Democracy." (He added that Lenin "was to engage in the same
    misrepresentation on the issue of popular control in State and
    Revolution"). [Towards an Ecological Society, p. 227fn]
 
@@ -1923,9 +1922,8 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
    first "dictatorship of the proletariat" when it implements federalism,
    delegates being subjected to mandates and recall and raises the vision
    of a socialism of associations while anarchism is labelled
-   "petit-bourgeois"
-   in spite of the fact that these ideas can be found in works of Proudhon
-   and Bakunin which predate the 1871 revolt!
+   "petit-bourgeois" in spite of the fact that these ideas can be found in
+   works of Proudhon and Bakunin which predate the 1871 revolt!
 
    From this, we can draw two facts. Firstly, anarchism has successfully
    predicted certain aspects of working class revolution. Anarchist K.J.
@@ -1944,7 +1942,7 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
    itself on the class struggle. This means that it should come as no
    surprise when the ideas of anarchism are developed and applied by those
    in struggle, for those ideas are just generalisations derived from past
-   working class struggles! If anarchism ideas are applied spontaneously
+   working class struggles! If anarchist ideas are applied spontaneously
    by those in struggle, it is because those involved are themselves
    drawing similar conclusions from their own experiences.
 
@@ -2027,14 +2025,13 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
      law of wages obtains.
 
      "But things take a different turn the moment that a glimmer of
-     consciousness stirs this worker-potato into life. When, instead off
+     consciousness stirs this worker-potato into life. When, instead of
      dooming himself to inertia, spinelessness, resignation and
      passivity, the worker wakes up to his worth as a human being and the
      spirit of revolt washes over him: when he bestirs himself,
      energetic, wilful and active . . . [and] once the labour bloc comes
      to life and bestirs itself . . . then, the laughable equilibrium of
-     the law of wages is undone."
-     [Emile Pouget, Direct Action, pp. 9-10]
+     the law of wages is undone." [Emile Pouget, Direct Action, pp. 9-10]
 
    And Marx, indeed, had compared the worker to a commodity, stating that
    labour power "is a commodity, neither more nor less than sugar. The
@@ -2065,8 +2062,7 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
      these partial struggles: however, even when defeated, the struggle
      workers still reap some benefit: resistance from them has obstructed
      pressure from the employers and often forced the employer to grant
-     some of the demands put."
-     [Op. Cit., p. 10]
+     some of the demands put." [Op. Cit., p. 10]
 
    The best currents of Autonomist Marxism share this anarchist stress on
    the power of working people to transform society and to impact on how
@@ -2121,7 +2117,7 @@ H.3.5 Has Marxist appropriation of anarchist ideas changed it?
      socialist." [Op. Cit., pp. 223-4]
 
    Unless we know exactly what we aim for, how to get there and who our
-   real allies are we will get a nasty surprise once our self-proclaimed
+   real allies are, we will get a nasty surprise once our self-proclaimed
    "allies" take power. As such, any attempt to appropriate anarchist
    rhetoric into an authoritarian ideology will simply fail and become
    little more than a mask obscuring the real aims of the party in
@@ -2139,8 +2135,8 @@ H.3.6 Is Marxism the only revolutionary politics which have worked?
    but in reality.
 
    For Anarchists, such arguments simply show the ideological nature of
-   most forms of Marxism. The fact is, of course, that there has been many
-   anarchistic revolutions which, while ultimately defeated, show the
+   most forms of Marxism. The fact is, of course, that there have been
+   many anarchistic revolutions which, while ultimately defeated, show the
    validity of anarchist theory (the ones in Spain and in the Ukraine
    being the most significant). Moreover, there have been serious
    revolutionary anarchist movements across the world, the majority of
@@ -2180,14 +2176,14 @@ H.3.6 Is Marxism the only revolutionary politics which have worked?
 
    As regards Bolshevism itself, the one "revolutionary" party in the
    world, it avoided the fate of its sister parties simply because there
-   no question of applying social democratic tactics within bourgeois
+   was no question of applying social democratic tactics within bourgeois
    institutions as these did not exist in Tsarist Russia. Moreover, the
    net result of its seizure of power was, first, a party dictatorship and
    state capitalism under Lenin, then their intensification under Stalin
    and the creation of a host of Trotskyist sects who spend a considerable
    amount of time justifying and rationalising the ideology and actions of
    the Bolsheviks which helped create the Stalinism. Given the fate of
-   Bolshevism in power, Bookchin simply stated the obviously:
+   Bolshevism in power, Bookchin simply stated the obvious:
 
      "None of the authoritarian technics of change has provided
      successful 'paradigms', unless we are prepared to ignore the harsh
@@ -2298,7 +2294,7 @@ H.3.7 What is wrong with the Marxist theory of the state?
    marked by delegated power and centralisation it is a state and cannot
    be, therefore, a instrument of social liberation. Rather it will
    become, slowly but surely, "whatever title it adopts and whatever its
-   origin and organisation may be" what the state has always been, a
+   origin and organisation may be" what the state has always been, an
    instrument for "oppressing and exploiting the masses, of defending the
    oppressors and the exploiters." [Malatesta, Anarchy, p. 23] Which, for
    obvious reasons, is why anarchists argue for the destruction of the
@@ -2329,7 +2325,7 @@ H.3.7 What is wrong with the Marxist theory of the state?
    anarchist one, this is not an empirically based theory of the state.
    Rather, we find such a theory mixed up with a metaphysical,
    non-empirical, a-historic definition which is based not on what the
-   state is but rather what it could be. Thus the argument that the state
+   state is but rather what is could be. Thus the argument that the state
    "is nothing but a machine for the oppression of one class by another"
    is trying to draw out an abstract essence of the state rather than
    ground what the state is on empirical evidence and analysis. This
@@ -2446,11 +2442,11 @@ H.3.7 What is wrong with the Marxist theory of the state?
    for he still talked of "the state" as "only a transitional institution
    which is used in the struggle, in the revolution, to hold down's one's
    adversaries by force . . . so long as the proletariat still uses the
-   state, it does not use it the interests of freedom but in order to hold
-   down its adversaries, and as soon as it becomes possible to speak of
-   freedom the state as such ceases to exist." [Op. Cit., p. 335] Thus the
-   state would still exist and, furthermore, is not identified with the
-   working class as a whole ("a self-acting armed organisation of the
+   state, it does not use it in the interests of freedom but in order to
+   hold down its adversaries, and as soon as it becomes possible to speak
+   of freedom the state as such ceases to exist." [Op. Cit., p. 335] Thus
+   the state would still exist and, furthermore, is not identified with
+   the working class as a whole ("a self-acting armed organisation of the
    population"), rather it is an institution standing apart from the
    "people armed" which is used, by the proletariat, to crush its enemies.
 
@@ -2727,7 +2723,7 @@ H.3.7 What is wrong with the Marxist theory of the state?
    fundamental flaws. These flaws can be best seen from their repeated
    assertion that the capitalist democratic state could be captured via
    universal suffrage and used to introduce socialism (see [58]section
-   H.3.10) but it equally applies to notions of creating new states based
+   H.3.10 but it equally applies to notions of creating new states based
    on the centralisation of power favoured by ruling elites since class
    society began.
 
@@ -2747,7 +2743,7 @@ H.3.7 What is wrong with the Marxist theory of the state?
      shopkeeper. It is not as has sometimes been said by those indulging
      in metaphysical wooliness just a question of giving the worker 'the
      total product of his labour'; it is a question of completely
-     reshaping all relationships . . . In ever street, in every hamlet,
+     reshaping all relationships . . . In every street, in every hamlet,
      in every group of men gathered around a factory or along a section
      of the railway line, the creative, constructive and organisational
      spirit must be awakened in order to rebuild life - in the factory,
@@ -2763,8 +2759,7 @@ H.3.7 What is wrong with the Marxist theory of the state?
      They expect the State . . . to become the lever for the
      accomplishment of this immense transformation. They want to direct
      the renewal of a society by means of decrees and electoral
-     majorities... How ridiculous!"
-     [Kropotkin, Op. Cit., pp. 58-9]
+     majorities... How ridiculous!" [Kropotkin, Op. Cit., pp. 58-9]
 
    Ultimately, the question, of course, is one of power. Does the
    "executive committee" have the fundamental decision making power in
@@ -2829,8 +2824,8 @@ H.3.7 What is wrong with the Marxist theory of the state?
      that the only security against replacing one repressive structure
      with another was the deliberate retaining of control of the
      revolution by the whole of the working classes, and not naively
-     trusting it to some vanguard."
-     [Alan Carter, Marx: A Radical Critique pp. 218-9]
+     trusting it to some vanguard." [Alan Carter, Marx: A Radical
+     Critique pp. 218-9]
 
    It is for this reason why anarchists are extremely critical of Marxist
    ideas of social revolution. As Alan Carter argues:
@@ -2874,7 +2869,7 @@ H.3.7 What is wrong with the Marxist theory of the state?
    the state to allow for rule over the working class by the
    "revolutionary" party. The minority has become increasingly and
    explicitly anti-state, recognising that the Marxist legacy is
-   contradictory and that for the proletarian to directly manage society
+   contradictory and that for the proletariat to directly manage society
    then there can be no power above them. To this camp belongs the
    libertarian Marxists of the council communist, Situationist and other
    schools of thought which are close to anarchism.
@@ -3026,7 +3021,7 @@ H.3.8 What is wrong with the Leninist theory of the state?
    Thus the possibility of party dictatorship exists if popular support
    fades. Which is, significantly, precisely what had happened when Lenin
    and Trotsky were in power. In fact, these arguments built upon other,
-   equally elitist statement which had been expressed by Trotsky when he
+   equally elitist statements which had been expressed by Trotsky when he
    held the reins of power. In 1920, for example, he argued that while the
    Bolsheviks have "more than once been accused of having substituted for
    the dictatorship of the Soviets the dictatorship of the party," in fact
@@ -3146,10 +3141,10 @@ H.3.8 What is wrong with the Leninist theory of the state?
    sense." [Op. Cit., vol. 24, p. 85] While this state "in the proper
    sense" had existed from the start of Bolshevik rule, it was only from
    early 1919 onwards (at the latest) that the leaders of Bolshevism had
-   openly brought what they said into line with what they did. It was only
-   by being a "state in the proper sense" could the Bolshevik party rule
-   and exercise "the dictatorship of the party" over the "wavering"
-   working class.
+   openly brought what they said into line with what they did. Only by
+   being a "state in the proper sense" could the Bolshevik party rule and
+   exercise "the dictatorship of the party" over the "wavering" working
+   class.
 
    So when Lenin stated that "Marxism differs from anarchism in that it
    recognises the need for a state for the purpose of the transition to
@@ -3202,7 +3197,7 @@ H.3.8 What is wrong with the Leninist theory of the state?
    rhetoric.
 
    This vision of "socialism" being rooted in party power over the working
-   class was the basis of the Communist International's resolution of the
+   class was the basis of the Communist International's resolution on the
    role of the party. This resolution is, therefore, important and worth
    discussing. It argues that the Communist Party "is part of the working
    class," namely its "most advanced, most class-conscious, and therefore
@@ -3231,12 +3226,12 @@ H.3.8 What is wrong with the Leninist theory of the state?
    The resolution stresses that before the revolution, the party "will
    encompass . . . only a minority of the workers." Even after the
    "seizure of power," it will still "not be able to unite them all into
-   its ranks organisationally." It is only after the "final defeat of the
+   its ranks organisationally." Only after the "final defeat of the
    bourgeois order" will "all or almost all workers begin to join" it.
-   Thus the party is a minority of the working class. The resolution then
-   goes on to state that "[e]very class struggle is a political struggle.
-   This struggle, which inevitably becomes transformed into civil war, has
-   as its goal the conquest of political power. Political power cannot be
+   Thus the party is a minority of the working class. It then goes on to
+   state that "[e]very class struggle is a political struggle. This
+   struggle, which inevitably becomes transformed into civil war, has as
+   its goal the conquest of political power. Political power cannot be
    seized, organised, and directed other than by some kind of political
    party." [Op. Cit., p. 192, p. 193] And as the party is a "part" of the
    working class which cannot "unite" all workers "into its ranks," this
@@ -3267,7 +3262,7 @@ H.3.8 What is wrong with the Leninist theory of the state?
      constituencies are partly occupational, not geographical. They think
      that 'proletariat' means 'proletariat,' but 'dictatorship' does not
      quite mean 'dictatorship.' This is the opposite of the truth. When a
-     Russian Communist speak of a dictatorship, he means the word
+     Russian Communist speaks of a dictatorship, he means the word
      literally, but when he speaks of the proletariat, he means the word
      in a Pickwickian sense. He means the 'class-conscious' part of the
      proletariat, i.e. the Communist Party. He includes people by no
@@ -3406,7 +3401,7 @@ H.3.9 Is the state simply an agent of economic power?
    machine for the oppression of one class by another." "At a certain
    stage of economic development", Engels stressed, "which was necessarily
    bound up with the split in society into classes, the state became a
-   necessity owning to this split." [Selected Works, pp. 577-8, p. 579 and
+   necessity owing to this split." [Selected Works, pp. 577-8, p. 579 and
    p. 258] For Lenin, this was "the basic idea of Marxism on the question
    of the historical role and meaning of the state," namely that "the
    state is an organ of class rule, the organ for the oppression of one
@@ -3430,7 +3425,7 @@ H.3.9 Is the state simply an agent of economic power?
    the nature of the state and the needs of social revolution. However, we
    must stress that anarchists would agree that the state generally does
    serve the interests of the economically dominant classes. Bakunin, for
-   example, argued that the State "is authority, domination, and forced,
+   example, argued that the State "is authority, domination, and force,
    organised by the property-owning and so-called enlightened classes
    against the masses." He saw the social revolution as destroying
    capitalism and the state at the same time, that is "to overturn the
@@ -3444,10 +3439,10 @@ H.3.9 Is the state simply an agent of economic power?
    power into the hands of a few. This creates, by its very nature, a
    privileged position for those at the top of the hierarchy:
 
-     "A government [or state], that is a group of people entrusted with
-     making the laws and empowered to use the collective force to oblige
-     each individual to obey them, is already a privileged class and cut
-     off from the people. As any constituted body would do, it will
+     "A government, that is a group of people entrusted with making the
+     laws and empowered to use the collective force to oblige each
+     individual to obey them, is already a privileged class and cut off
+     from the people. As any constituted body would do, it will
      instinctively seek to extend its powers, to be beyond public
      control, to impose its own policies and to give priority to its
      special interests. Having been put in a privileged position, the
@@ -3467,15 +3462,16 @@ H.3.9 Is the state simply an agent of economic power?
    privilege and oppression independent of property and economic class.
    Those in charge of the state's institutions would aim to protect (and
    expand) their area of operation, ensuring that they select individuals
-   who share their perspectives and who they can pass on their positions.
-   By controlling the flow of information, of personnel and resources, the
-   members of the state's higher circles can ensure its, and their own,
-   survival and prosperity. As such, politicians who are elected are at a
-   disadvantage. The state is the permanent collection of institutions
-   that have entrenched power structures and interests. The politicians
-   come and go while the power in the state lies in its institutions due
-   to their permanence. It is to be expected that such institutions would
-   have their own interests and would pursue them whenever they can.
+   who share their perspectives and to whom they can pass on their
+   positions. By controlling the flow of information, of personnel and
+   resources, the members of the state's higher circles can ensure its,
+   and their own, survival and prosperity. As such, politicians who are
+   elected are at a disadvantage. The state is the permanent collection of
+   institutions that have entrenched power structures and interests. The
+   politicians come and go while the power in the state lies in its
+   institutions due to their permanence. It is to be expected that such
+   institutions would have their own interests and would pursue them
+   whenever they can.
 
    This would not fundamentally change in a new "workers' state" as it is,
    like all states, based on the delegation and centralisation of power
@@ -3638,7 +3634,7 @@ H.3.9 Is the state simply an agent of economic power?
      superseding the interests of even the landed aristocracy which held
      such primacy in Mediterranean society. . .
 
-     "Near-Eastern State, like the Egyptian, Babylonian, and Persian,
+     "Near-Eastern States, like the Egyptian, Babylonian, and Persian,
      were virtually extended households of individual monarchs . . .
      Pharaohs, kings, and emperors nominally held the land (often
      co-jointly with the priesthood) in the trust of the deities, who
@@ -3649,8 +3645,7 @@ H.3.9 Is the state simply an agent of economic power?
      "These 'states,' in effect, were not simply engines of exploitation
      or control in the interests of a privileged 'class.' . . . The
      Egyptian State was very real but it 'represented' nothing other than
-     itself."
-     [Remaking Society, pp. 67-8]
+     itself." [Remaking Society, pp. 67-8]
 
    Bakunin pointed to Turkish Serbia, where economically dominant classes
    "do not even exist - there is only a bureaucratic class. Thus, the
@@ -3682,29 +3677,25 @@ H.3.9 Is the state simply an agent of economic power?
 
      "By focusing too much attention on the economic structure of society
      and insufficient attention on the problems of political power, Marx
-     has left a legacy we would done better not to inherit. The perceived
-     need for authoritarian and centralised revolutionary organisation is
-     sanctioned by Marx's theory because his theoretical subordination of
-     political power to economic classes apparently renders
-     post-revolutionary political power unproblematic." [Op. Cit., p.
-     231]
+     has left a legacy we would have done better not to inherit. The
+     perceived need for authoritarian and centralised revolutionary
+     organisation is sanctioned by Marx's theory because his theoretical
+     subordination of political power to economic classes apparently
+     renders post-revolutionary political power unproblematic." [Op.
+     Cit., p. 231]
 
    Many factors contributed to Stalinism, including Marxism's defective
    theory of the state. In stressing that socialism meant nationalising
    property, it lead to state management which, in turn, expropriated the
    working class as a vast managerial bureaucracy was required to run it.
    Moreover, Marxism disguised this new ruling class as it argues that the
-   state 'represents' a class and had no interests of itself. Thus we have
-   Trotsky's utter inability to understand Stalinism and his insane
+   state 'represents' an economic class and had no interests of itself.
+   Hence Trotsky's utter inability to understand Stalinism and his insane
    formula that the proletariat remained the ruling class under Stalin
-   (or, for that matter, under himself and Lenin)! Simply put, by arguing
-   that the state was an instrument of class rule, Marxism ensured it
-   presented a false theory of social change and could not analysis its
-   resulting class rule when the inevitable consequences of this approach
-   was implemented.
+   (or, for that matter, under himself and Lenin)!
 
    However, there is more to Marxism than its dominant theory of the
-   state. Given this blindness of orthodox Marxism to this issue, it seems
+   state. Given the blindness of orthodox Marxism to this issue, it seems
    ironic that one of the people responsible for it also provides
    anarchists with evidence to back up our argument that the state is not
    simply an instrument of class rule but rather has interests of its own.
@@ -3734,14 +3725,13 @@ H.3.9 Is the state simply an agent of economic power?
    republic, it was able to continue its social existence only by
    abdicating its political power to Louis Bonaparte and the army." [Op.
    Cit., pp. 577-8 and p. 238] So, in terms of French history, Engels
-   argued that "by way of exception" accounted for over 250 hundred years,
-   the 17th and 18th centuries and most of the 19th, bar a two year
-   period! Even if we are generous and argue that the 1830 revolution
-   placed one section of the bourgeoisie (finance capital) into political
-   power, we are still left with over 200 hundred years of state
-   "independence" from classes! Given this, it would be fair to suggest
-   that the "exception" should be when it is an instrument of class rule,
-   not when it is not!
+   argued that "by way of exception" accounted for over 250 years, the
+   17th and 18th centuries and most of the 19th, bar a two year period!
+   Even if we are generous and argue that the 1830 revolution placed one
+   section of the bourgeoisie (finance capital) into political power, we
+   are still left with over 200 hundred years of state "independence" from
+   classes! Given this, it would be fair to suggest that the "exception"
+   should be when it is an instrument of class rule, not when it is not!
 
    This was no isolated case. In Prussia "members of the bourgeoisie have
    a majority in the Chamber . . . But where is their power over the
@@ -3826,7 +3816,7 @@ H.3.9 Is the state simply an agent of economic power?
    Somewhat ironically, then, a key example used by Marxists for the
    "independence" of the state is no such thing. Bonapartism did not
    represent a "balance" between the proletariat and bourgeoisie but
-   rather the most naked form of state rule required in the fact of
+   rather the most naked form of state rule required in the face of
    working class revolt. It was a counter-revolutionary regime which
    reflected a defeat for the working class, not a "balance" between it
    and the capitalist class.
@@ -3834,23 +3824,22 @@ H.3.9 Is the state simply an agent of economic power?
    Marx's confusions arose from his belief that, for the bourgeoisie, the
    parliamentary republic "was the unavoidable condition of their common
    rule, the sole form of state in which their general class interest
-   subjected itself at the same time both the claims of their particular
-   factions and all the remaining classes of society." [Selected Works,
-   pp. 152-3] The abolition of the republic, the replacement of the
-   government, was, for him, the end of the political rule of the
-   bourgeoisie as he argued that "the industrial bourgeoisie applauds with
-   servile bravos the coup détat of December 2, the annihilation of
-   parliament, the downfall of its own rule, the dictatorship of
-   Bonaparte." He repeated this identification: "Passing of the
-   parliamentary regime and of bourgeois rule. Victory of Bonaparte."
-   [Selected Writings, pp. 164-5 and p. 166] Political rule was equated to
-   which party held power and so, logically, universal suffrage was "the
-   equivalent of political power for the working class . . . where the
-   proletariat forms the large majority of the population." Its
-   "inevitable result would be "the political supremacy of the working
-   class." [Collected Works, vol. 11, pp. 335-6] This was, of course,
-   simply wrong (on both counts) as he, himself, seemed to became aware of
-   two decades later.
+   subjected to itself at the same time both the claims of their
+   particular factions and all the remaining classes of society." The
+   abolition of the republic, the replacement of the government, was, for
+   him, the end of the political rule of the bourgeoisie as he argued that
+   "the industrial bourgeoisie applauds with servile bravos the coup
+   d'état of December 2, the annihilation of parliament, the downfall of
+   its own rule, the dictatorship of Bonaparte." He repeated this
+   identification: "Passing of the parliamentary regime and of bourgeois
+   rule. Victory of Bonaparte." [Selected Works, pp. 151-2, pp. 164-5 and
+   p. 166] Political rule was equated to which party held power and so,
+   logically, universal suffrage was "the equivalent of political power
+   for the working class . . . where the proletariat forms the large
+   majority of the population." Its "inevitable result" would be "the
+   political supremacy of the working class." [Collected Works, vol. 11,
+   pp. 335-6] This was, of course, simply wrong (on both counts) as he,
+   himself, seemed to became aware of two decades later.
 
    In 1871 he argued that "the State power assumed more and more the
    character of the national power of capital over labour, of a public
@@ -3924,7 +3913,7 @@ H.3.9 Is the state simply an agent of economic power?
    that the "means of production belong to the State. But the State, so to
    speak, 'belongs' to the bureaucracy." [The Revolution Betrayed, p. 93,
    p. 136, p. 228, p. 235 and p. 236] If that is so, only ideology can
-   stop the obvious confusion being drawn, namely that the state
+   stop the obvious conclusion being drawn, namely that the state
    bureaucracy was the ruling class. But that is precisely what happened
    with Trotsky's confusion expressing itself thusly:
 
@@ -3964,7 +3953,7 @@ H.3.9 Is the state simply an agent of economic power?
 
    Significantly, Trotsky combated those of his followers who drew the
    same conclusions as had anarchists and libertarian Marxists while he
-   and Lenin held the reigns of power. Perhaps this ideological blindness
+   and Lenin held the reins of power. Perhaps this ideological blindness
    is understandable, given Trotsky's key role in creating the bureaucracy
    in the first place. So Trotsky did criticise, if in a confused manner,
    the Stalinist regime for its "injustice, oppression, differential
@@ -4055,18 +4044,17 @@ H.3.9 Is the state simply an agent of economic power?
    not a direct, simple reflex of a given economic system." [Bakunin: The
    Constructive Passion, p. 275] The reason why the more sophisticated
    Marxist analysis of the state is forgotten when it comes to attacking
-   anarchism should be obvious - it undermines the both the Marxist
-   critique of anarchism and its own theory of the state. Ironically,
-   arguments and warnings about the "independence" of the state by
-   Marxists imply that the state has interests of its own and cannot be
-   considered simply as an instrument of class rule. They suggest that the
-   anarchist analysis of the state is correct, namely that any structure
-   based on delegated power, centralisation and hierarchy must,
-   inevitably, have a privileged class in charge of it, a class whose
-   position enables it to not only exploit and oppress the rest of society
-   but also to effectively escape from popular control and accountability.
-   This is no accident. The state is structured to enforce minority rule
-   and exclude the majority.
+   anarchism should be obvious - it undermines both the Marxist critique
+   of anarchism and its own theory of the state. Ironically, arguments and
+   warnings about the "independence" of the state by Marxists imply that
+   the state has interests of its own and cannot be considered simply as
+   an instrument of class rule. They suggest that the anarchist analysis
+   of the state is correct, namely that any structure based on delegated
+   power, centralisation and hierarchy must, inevitably, have a privileged
+   class in charge of it, a class whose position enables it to not only
+   exploit and oppress the rest of society but also to effectively escape
+   from popular control and accountability. This is no accident. The state
+   is structured to enforce minority rule and exclude the majority.
 
 H.3.10 Has Marxism always supported the idea of workers' councils?
 
@@ -4080,7 +4068,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    Party) it has been a "cornerstone of revolutionary theory" that "the
    soviet is a superior form of democracy because it unifies political and
    economic power." This "cornerstone" has, apparently, existed "since
-   Marx's writings on the Paris Commune." ["In Defence of October,", pp.
+   Marx's writings on the Paris Commune." ["In Defence of October", pp.
    3-82, International Socialism, no. 52, p. 25] In fact, nothing could be
    further from the truth, as Marx's writings on the Paris Commune prove
    beyond doubt.
@@ -4102,7 +4090,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    from below by workers councils, many Marxists called Lenin an
    anarchist! Therefore, the idea that Marxists have always supported
    workers councils' is untrue and any attempt to push this support back
-   to 1871 simply a farcical.
+   to 1871 simply farcical.
 
    Not all Marxists are as ignorant of their political tradition as Rees.
    As his fellow party member Chris Harman recognised, "[e]ven the 1905
@@ -4189,7 +4177,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    need to smash the state and replace it with workers' councils. In this,
    they express the best in Marx. When faced with the Paris Commune and
    its libertarian influences he embraced it, distancing himself (for a
-   while at least) with many of his previous ideas.
+   while at least) from many of his previous ideas.
 
    So what was the original (orthodox) Marxist position? It can be seen
    from Lenin who, as late December 1916 argued that "Socialists are in
@@ -4225,7 +4213,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
 
    Obviously the only institution which the working class "finds
    ready-made for use" is the democratic (i.e., bourgeois) state,
-   although, as Engels stressed, it "may require adaptation." In Engels'
+   although, as Engels stressed, it "may require adaptation." In Engels
    1871 introduction to Marx's "The Civil War in France", this analysis is
    repeated when Engels asserted that the state "is nothing but a machine
    for the oppression of one class by another" and that it is "at best an
@@ -4442,7 +4430,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
      [Collected Works, vol. 47, p. 74]
 
    Interestingly, in the second outline of the Civil War in France, Marx
-   used words almost identical to Engels latter explanation:
+   used words almost identical to Engels later explanation:
 
      "But the proletariat cannot, as the ruling classes and their
      different rival fractions have done in the successive hours of their
@@ -4456,7 +4444,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    Commune the opinion that new "Communal Constitution" was to become a
    "reality by the destruction of the State power" yet he immediately
    argues that "the merely repressive organs of the old government power
-   were to be amputated" and "its legitimate functions were to be wrestles
+   were to be amputated" and "its legitimate functions were to be wrestled
    from" it and "restored to the responsible agents of society." [Selected
    Works, pp. 288-9] This corresponds to Engels arguments about removing
    aspects from the state inherited by the proletariat and signifies the
@@ -4559,7 +4547,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    agitation would more swiftly and surely do the work." [Collected Works,
    vol. 22, p. 602] The following year, saw him suggest that America could
    join it as "the workers can achieve their aims by peaceful means" there
-   as well [Op. Cit., vol. 23, p. 255] How if Marx had concluded that the
+   as well [Op. Cit., vol. 23, p. 255] If Marx had concluded that the
    capitalist state had to be destroyed rather than captured and
    refashioned then he quickly changed his mind! In fact, during the
    Commune itself, in April 1871, Marx had written to his friend Ludwig
@@ -4567,7 +4555,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    you will find that I say that the next attempt of the French revolution
    will be no longer, as before, to transfer the bureaucratic military
    machine from one hand to another, but to break it, and that is
-   essential for every real peoples revolution on the Continent. And this
+   essential for every real people's revolution on the Continent. And this
    is what our heroic Party [sic!] comrades in Paris are attempting." [Op.
    Cit., vol. 44, p. 131] As noted above, Marx explicitly noted that the
    bureaucratic military machine predated the republic and was, in effect,
@@ -4598,12 +4586,12 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
 
      "The theoretic possibility [of peaceful reform] has not revealed
      itself in reality. But the sole fact that he admitted such a
-     possibility shows us clearly Marxs opinion, leaving no room for
+     possibility shows us clearly Marx's opinion, leaving no room for
      arbitrary interpretation. What Marx designated as the 'destruction
      of the State machine' . . . was the destruction of the military and
      bureaucratic apparatus that the bourgeois democracy had inherited
      from the monarchy and perfected in the process of consolidating the
-     rule of the bourgeois class. There is nothing in Marxs reasoning
+     rule of the bourgeois class. There is nothing in Marx's reasoning
      that even suggests the destruction of the State organisation as such
      and the replacement of the State during the revolutionary period,
      that is during the dictatorship of the proletariat, with a social
@@ -4632,9 +4620,9 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
      different countries must be taken into account; and we do not deny
      the existence of countries like America, England, and if I knew your
      institutions better I might add Holland, where the workers may
-     achieve their aims by peaceful means. That being the true, we must
-     admit that in most countries on the continent it is force which must
-     be the lever of our revolution; it is force which will have to be
+     achieve their aims by peaceful means. That being true, we must admit
+     that in most countries on the continent it is force which must be
+     the lever of our revolution; it is force which will have to be
      resorted to for a time in order to establish the rule of the
      workers." [Op. Cit., vol. 23, p. 255]
 
@@ -4669,7 +4657,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    argued that its "general effect was so striking that the Marxists
    themselves, who saw their ideas upset by the uprising, found themselves
    compelled to take their hats off to it. They went further, and
-   proclaimed that its programme and purpose where their own, in face of
+   proclaimed that its programme and purpose were their own, in face of
    the simplest logic . . . This was a truly farcical change of costume,
    but they were bound to make it, for fear of being overtaken and left
    behind in the wave of feeling which the rising produced throughout the
@@ -4681,7 +4669,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    primarily a propaganda piece in defence of it and is, fundamentally,
    reporting on what the Commune actually did and advocated. Thus, as well
    as reporting the Communal Constitution's vision of a federation of
-   communes, we find Marx noting, also without comment, that Commune
+   communes, we find Marx noting, also without comment, that the Commune
    decreed "the surrender to associations of workmen, under reserve of
    compensation, of all closed workshops and factories." [Op. Cit., p.
    294] While Engels, at times, suggested that this could be a possible
@@ -4691,8 +4679,8 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    facts of the Commune it could hardly not reflect the libertarian ideas
    which were so strong in both it and the French sections of the
    International - ideas he had spent much time and energy opposing.
-   Moreover, given the frenzy of abuse the Communards were subject to it
-   by the bourgeoisie, it was unlikely that Marx would have aided the
+   Moreover, given the frenzy of abuse the Communards were subject to by
+   the bourgeoisie, it was unlikely that Marx would have aided the
    reaction by being overly critical. Equally, given how positively the
    Commune had been received in working class and radical circles Marx
    would have been keen to gain maximum benefit from it for both the
@@ -4717,7 +4705,7 @@ H.3.10 Has Marxism always supported the idea of workers' councils?
    People's Charter." [Op. Cit., vol. 23, p. 614] The Commune was not
    mentioned and, significantly, Marx had previously defined this
    programme in 1855 as being "to increase and extend the omnipotence of
-   Parliament by elevating it to peoples power. They [the Chartists] are
+   Parliament by elevating it to people's power. They [the Chartists] are
    not breaking up parliamentarism but are raising it to a higher power."
    [Op. Cit., vol. 14, p. 243]
 
@@ -4973,10 +4961,10 @@ H.3.11 Does Marxism aim to give power to workers organisations?
    based on working class self-management and, indeed, criticised (and
    broke with) Bolshevism precisely on this question. Some Marxists, like
    the Socialist Party of Great Britain, stay true to Marx and Engels and
-   argue for using the ballot box (see [82]last section) although this not
-   exclude utilising such organs once political power is seized by those
-   means. However, if we look at the mainstream Marxist tradition (namely
-   Leninism), the answer has to be an empathic "no."
+   argue for using the ballot box (see [82]last section) although this
+   does not exclude utilising such organs once political power is seized
+   by those means. However, if we look at the mainstream Marxist tradition
+   (namely Leninism), the answer has to be an empathic "no."
 
    As we noted in [83]section H.1.4, anarchists have long argued that the
    organisations created by the working class in struggle would be the
@@ -5050,7 +5038,7 @@ H.3.11 Does Marxism aim to give power to workers organisations?
      soviets during the revolution allows a correct understanding of
      their relationship." [Oscar Anweiler, Op. Cit., pp. 160-1]
 
-   Simply out, Leninism confuses the party power and workers' power. An
+   Simply put, Leninism confuses party power and workers' power. An
    example of this "confusion" can be found in most Leninist works. For
    example, John Rees argues that "the essence of the Bolsheviks' strategy
    . . . was to take power from the Provisional government and put it in
@@ -5109,7 +5097,7 @@ H.3.11 Does Marxism aim to give power to workers organisations?
    working class power." Yes, there is some discussion on whether soviets
    or "some of form of organisation" like factory committees could become
    "organs of state power" but this is always within the context of party
-   power. This is stated quite clearly by Trotsky in his essay when he
+   power. This was stated quite clearly by Trotsky in his essay when he
    argued that the "essential aspect" of Bolshevism was the "training,
    tempering, and organisation of the proletarian vanguard as enables the
    latter to seize power, arms in hand." [Lessons of October, p. 167 and
@@ -5161,7 +5149,7 @@ H.3.11 Does Marxism aim to give power to workers organisations?
    entirely or take real power into their hands." However, he immediately
    added that "they could take power . . . only as the dictatorship of the
    proletariat directed by a single party." [Op. Cit., p. 126] Clearly,
-   the "single party" has the real power, not the soviets an
+   the "single party" has the real power, not the soviets and
    unsurprisingly the rule of "a single party" also amounted to the
    soviets effectively disappearing as they quickly became mere ciphers
    it. Soon the "direction" by "a single party" became the dictatorship of
@@ -5310,8 +5298,7 @@ H.3.12 Is big business the precondition for socialism?
 
      "This contradiction, which gives to the new mode of production its
      capitalistic character, contains the germ of the whole of the social
-     antagonisms of today."
-     [Engels, Marx-Engels Reader, pp. 703-4]
+     antagonisms of today." [Engels, Marx-Engels Reader, pp. 703-4]
 
    It is the business cycle of capitalism which show this contradiction
    between socialised production and capitalist appropriation the best.
@@ -5469,7 +5456,7 @@ H.3.12 Is big business the precondition for socialism?
    not predetermined by the technological base of society. As is obvious,
    a steam-mill can be operated by a co-operative, so making the
    industrial capitalist redundant. That a given technological basis (or
-   productive forces) can produces many different social and political
+   productive forces) can produce many different social and political
    systems can easily be seen from history. Murray Bookchin gives one
    example:
 
@@ -5494,8 +5481,8 @@ H.3.12 Is big business the precondition for socialism?
      redistribution from central and local storehouses. The Iroquois
      worked together freely . . . the Inca peasantry provided corvee
      labour to a patently exploitative priesthood and state apparatus
-     under a nearly industrial system of management."
-     [The Ecology of Freedom, pp. 331-2]
+     under a nearly industrial system of management." [The Ecology of
+     Freedom, pp. 331-2]
 
    Marx's claim that a given technological level implies a specific social
    structure is wrong. However, it does suggest that our comments that,
@@ -5661,9 +5648,9 @@ H.3.12 Is big business the precondition for socialism?
    develop production and that was by adopting capitalist methods of
    "rationalisation" and management. Thus, for Lenin in early 1918 "our
    task is to study the state capitalism of the Germans, to spare no
-   effort in copying it and not to shrink from adopting dictorial methods
-   to hasten the copying of it." [Op. Cit., vol. 27, p. 340] In the words
-   of Luigi Fabbri:
+   effort in copying it and not to shrink from adopting dictatorial
+   methods to hasten the copying of it." [Op. Cit., vol. 27, p. 340] In
+   the words of Luigi Fabbri:
 
      "Marxist communists, especially Russian ones, are beguiled by the
      distant mirage of big industry in the West or America and mistake
@@ -5682,9 +5669,9 @@ H.3.12 Is big business the precondition for socialism?
      capitalists' necessity to make more profit even should it mean
      producing less to do so. If capitalism tends to centralise its
      operations, it does so not for the sake of production, but only for
-     the sake of making and accumulating more money."
-     ["Anarchy and 'Scientific' Communism", pp. 13-49, The Poverty of
-     Statism, Albert Meltzer (ed.), pp. 21-22]
+     the sake of making and accumulating more money." ["Anarchy and
+     'Scientific' Communism", pp. 13-49, The Poverty of Statism, Albert
+     Meltzer (ed.), pp. 21-22]
 
    Efficiency, in other words, does not exist independently of a given
    society or economy. What is considered "efficient" under capitalism may
@@ -5722,7 +5709,7 @@ H.3.12 Is big business the precondition for socialism?
    socialist society could factor in all the important inputs which
    capitalism ignores within an even more centralised planning structure
    is an important question. It is extremely doubtful that there could be
-   a positive answer to it. This does not mean, we just stress, that
+   a positive answer to it. This does not mean, we must stress, that
    anarchists argue exclusively for "small-scale" production as many
    Marxists, like Lenin, assert (as we prove in [90]section I.3.8,
    anarchists have always argued for appropriate levels of production and
@@ -5736,7 +5723,7 @@ H.3.12 Is big business the precondition for socialism?
    inhumanities of the status quo. Just because something is rewarded by
    capitalism it does not mean that it makes sense from a human or
    ecological perspective. This informs our vision of a free society and
-   the current struggle. We have long argued that that capitalist methods
+   the current struggle. We have long argued that capitalist methods
    cannot be used for socialist ends. In our battle to democratise and
    socialise the workplace, in our awareness of the importance of
    collective initiatives by the direct producers in transforming their
@@ -5750,14 +5737,14 @@ H.3.12 Is big business the precondition for socialism?
    revolution will have to start with the industry and technology which is
    left to it by capitalism and that this will have to be expropriated by
    the working class (this expropriation will, of course, involve
-   transforming it and, in all likelihood, rejecting of numerous
+   transforming it and, in all likelihood, rejecting numerous
    technologies, techniques and practices considered as "efficient" under
    capitalism). This is not the issue. The issue is who expropriates it
    and what happens to it next. For anarchists, the means of life are
    expropriated directly by society, for most Marxists they are
    expropriated by the state. For anarchists, such expropriation is based
-   workers' self-management and so the fundamental capitalist "relation of
-   production" (wage labour) is abolished. For most Marxists, state
+   on workers' self-management and so the fundamental capitalist "relation
+   of production" (wage labour) is abolished. For most Marxists, state
    ownership of production is considered sufficient to ensure the end of
    capitalism (with, if we are lucky, some form of "workers' control" over
    those state officials who do management production - see [91]section
@@ -5787,26 +5774,27 @@ H.3.12 Is big business the precondition for socialism?
    This means that anarchists also root our arguments for socialism in a
    scientific analysis of tendencies within capitalism. However, in
    opposition to the analysis of mainstream Marxism which focuses on the
-   objective tendencies within capitalist development, anarchists emphasis
-   the oppositional nature of socialism to capitalism. Both the "law of
-   value" and the "law of planning" are tendencies within capitalism, that
-   is aspects of capitalism. Anarchists encourage class struggle, the
-   direct conflict of working class people against the workings of all
-   capitalism's "laws". This struggle produces mutual aid and the
-   awareness that we can care best for our own welfare if we unite with
-   others - what we can loosely term the "law of co-operation" or "law of
-   mutual aid". This law, in contrast to the Marxian "law of planning" is
-   based on working class subjectively and develops within society only in
-   opposition to capitalism. As such, it provides the necessary
-   understanding of where socialism will come from, from below, in the
-   spontaneous self-activity of the oppressed fighting for their freedom.
-   This means that the basic structures of socialism will be the organs
-   created by working class people in their struggles against exploitation
-   and oppress (see [92]section I.2.3 for more details). Gustav Landauer's
-   basic insight is correct (if his means were not totally so) when he
-   wrote that "Socialism will not grow out of capitalism but away from it"
-   [Op. Cit., p. 140] In other words, tendencies opposed to capitalism
-   rather than ones which are part and parcel of it.
+   objective tendencies within capitalist development, anarchists
+   emphasise the oppositional nature of socialism to capitalism. Both the
+   "law of value" and the "law of planning" are tendencies within
+   capitalism, that is aspects of capitalism. Anarchists encourage class
+   struggle, the direct conflict of working class people against the
+   workings of all capitalism's "laws". This struggle produces mutual aid
+   and the awareness that we can care best for our own welfare if we unite
+   with others - what we can loosely term the "law of co-operation" or
+   "law of mutual aid". This law, in contrast to the Marxian "law of
+   planning" is based on working class subjectivity and develops within
+   society only in opposition to capitalism. As such, it provides the
+   necessary understanding of where socialism will come from, from below,
+   in the spontaneous self-activity of the oppressed fighting for their
+   freedom. This means that the basic structures of socialism will be the
+   organs created by working class people in their struggles against
+   exploitation and oppression (see [92]section I.2.3 for more details).
+   Gustav Landauer's basic insight is correct (if his means were not
+   totally so) when he wrote that "Socialism will not grow out of
+   capitalism but away from it" [Op. Cit., p. 140] In other words,
+   tendencies opposed to capitalism rather than ones which are part and
+   parcel of it.
 
    Anarchism's recognition of the importance of these tendencies towards
    mutual aid within capitalism is a key to understanding what anarchists
@@ -5814,8 +5802,8 @@ H.3.12 Is big business the precondition for socialism?
    addition, it also laid the foundation of understanding the nature of an
    anarchist society and what creates the framework of such a society in
    the here and now. Anarchists do not abstractly place a better society
-   (anarchy) against the current, oppressive one. Instead, we analysis
-   what tendencies exist within current society and encourage those which
+   (anarchy) against the current, oppressive one. Instead, we analyse what
+   tendencies exist within current society and encourage those which
    empower and liberate people. Based on these tendencies, anarchists
    propose a society which develops them to their logical conclusion.
    Therefore an anarchist society is created not through the developments
@@ -5863,14 +5851,14 @@ H.3.13 Why is state socialism just state capitalism?
    is easy to find in the works of Marxism. The Communist Manifesto, for
    example, states that the "proletariat will use its political supremacy
    to wrest, by degrees, all capital from the bourgeoisie, to centralise
-   all instruments of production into the hands of the State." This meant
-   the "[c]entralisation of credit in the hands of the State, by means of
-   a national bank with State capital and an exclusive monopoly," the
-   "[c]entralisation of the means of communication and transport in the
-   hands of the State," "[e]xtension of factories and instruments of
-   production owned by the State" and the "[e]stablishment of industrial
-   armies, especially for agriculture." [Marx and Engels, Selected Works,
-   pp. 52-3] Thus "feudal estates . . . mines, pits, and so forth, would
+   all instruments of production into the hands of the State." This meant:
+   "Centralisation of credit in the hands of the State, by means of a
+   national bank with State capital and an exclusive monopoly";
+   "Centralisation of the means of communication and transport in the
+   hands of the State"; "Extension of factories and instruments of
+   production owned by the State"; "Establishment of industrial armies,
+   especially for agriculture." [Marx and Engels, Selected Works, pp.
+   52-3] Thus "feudal estates . . . mines, pits, and so forth, would
    become property of the state" as well as "[a]ll means of transport,"
    with "the running of large-scale industry and the railways by the
    state." [Collected Works, vol. 7, p. 3, p. 4 and p. 299]
@@ -5927,7 +5915,7 @@ H.3.13 Why is state socialism just state capitalism?
    This vision of society in which the lives of the population are
    controlled by "authorities" in a "social central organ" which tells the
    workers what to do, while in line with the Communist Manifesto, seems
-   less that appealing. It also shows why state socialism is not socialism
+   less than appealing. It also shows why state socialism is not socialism
    at all. Thus George Barrett:
 
      "If instead of the present capitalist class there were a set of
@@ -5952,18 +5940,18 @@ H.3.13 Why is state socialism just state capitalism?
    The key to seeing why state socialism is simply state capitalism can be
    found in the lack of change in the social relationships at the point of
    production. The workers are still wage slaves, employed by the state
-   and subject to its orders. As Lenin stressed in State and Revolution,
-   under Marxist Socialism "[a]ll citizens are transformed into hired
-   employees of the state . . . All citizens become employees and workers
-   of a single country-wide state 'syndicate' . . . The whole of society
-   will have become a single office and a single factory, with equality of
-   labour and pay." [Collected Works, vol. 25, pp. 473-4] Given that
-   Engels had argued, against anarchism, that a factory required
-   subordination, authority, lack of freedom and "a veritable despotism
-   independent of all social organisation," Lenin's idea of turning the
-   world into one big factory takes on an extremely frightening nature.
-   [Marx-Engels Reader, p. 731] A reality which one anarchist described in
-   1923 as being the case in Lenin's Russia:
+   and subject to its orders. As Lenin stressed in State and
+   Revolution:"All citizens are transformed into hired employees of the
+   state . . . All citizens become employees and workers of a single
+   country-wide state 'syndicate' . . . The whole of society will have
+   become a single office and a single factory, with equality of labour
+   and pay." [Collected Works, vol. 25, pp. 473-4] Given that Engels had
+   argued, against anarchism, that a factory required subordination,
+   authority, lack of freedom and "a veritable despotism independent of
+   all social organisation," Lenin's idea of turning the world into one
+   big factory takes on an extremely frightening nature. [Marx-Engels
+   Reader, p. 731] A reality which one anarchist described in 1923 as
+   being the case in Lenin's Russia:
 
      "The nationalisation of industry, removing the workers from the
      hands of individual capitalists, delivered them to the yet more
@@ -6094,19 +6082,19 @@ H.3.13 Why is state socialism just state capitalism?
    ensured that it was marginalised within a centralised system of state
    control based on nationalisation.
 
-   As such, anarchists think that a utterly false dichotomy has been built
-   up in discussions of socialism, one which has served the interests of
-   both capitalists and state bureaucrats. This dichotomy is simply that
-   the economic choices available to humanity are "private" ownership of
-   productive means (capitalism), or state ownership of productive means
-   (usually defined as "socialism"). In this manner, capitalist nations
-   used the Soviet Union, and continue to use autocracies like North
-   Korea, China, and Cuba as examples of the evils of "public" ownership
-   of productive assets. While the hostility of the capitalist class to
-   such regimes is often used by Leninists as a rationale to defend them
-   (as "degenerated workers' states", to use the Trotskyist term) this is
-   a radically false conclusion. As one anarchist argued in 1940 against
-   Trotsky (who first raised this notion):
+   As such, anarchists think that an utterly false dichotomy has been
+   built up in discussions of socialism, one which has served the
+   interests of both capitalists and state bureaucrats. This dichotomy is
+   simply that the economic choices available to humanity are "private"
+   ownership of productive means (capitalism), or state ownership of
+   productive means (usually defined as "socialism"). In this manner,
+   capitalist nations used the Soviet Union, and continue to use
+   autocracies like North Korea, China, and Cuba as examples of the evils
+   of "public" ownership of productive assets. While the hostility of the
+   capitalist class to such regimes is often used by Leninists as a
+   rationale to defend them (as "degenerated workers' states", to use the
+   Trotskyist term) this is a radically false conclusion. As one anarchist
+   argued in 1940 against Trotsky (who first raised this notion):
 
      "Expropriation of the capitalist class is naturally terrifying to
      'the bourgeoisie of the whole world,' but that does not prove
@@ -6184,7 +6172,7 @@ H.3.13 Why is state socialism just state capitalism?
    unsurprising, that state ownership is just a form of property rather
    than the negation of it. If you have a highly centralised structure (as
    the state is) which plans and decides about all things within
-   production, then this central administrative would be the real owner
+   production, then this central administration would be the real owner
    because it has the exclusive right to decide how things are used, not
    those using them. The existence of this central administrative strata
    excludes the abolition of property, replacing socialism or communism
@@ -6285,7 +6273,7 @@ H.3.13 Why is state socialism just state capitalism?
    p. 225] As Fernandez correctly summarises:
 
      "Cliff's position appears untenable when it is remembered that
-     whatever capitalism may or may not entail, what it is a mode of
+     whatever capitalism may or may not entail, what it is is a mode of
      production, defined by a certain type of social production
      relations. If the USSR is capitalist simply because it produces
      weaponry to compete with those countries that themselves would have
@@ -6294,7 +6282,7 @@ H.3.13 Why is state socialism just state capitalism?
      provision of tomahawks in the fight against colonialism." [Op. Cit.,
      p. 65]
 
-   Strangely, as Marxist, Cliff seemed unaware that, for Marx,
+   Strangely, as a Marxist, Cliff seemed unaware that, for Marx,
    "competition" did not define capitalism. As far as trade goes, the
    "character of the production process from which [goods] derive is
    immaterial" and so on the market commodities come "from all modes of
@@ -6399,8 +6387,8 @@ H.3.14 Don't Marxists believe in workers' control?
    for "direct workers' management" is not explained, but the fact remains
    Trotsky clearly differentiated between management and control. For him,
    "workers' control" meant "workers supervision" over the capitalist who
-   retained power. Thus the "slogan of workers control of production" was
-   not equated to actual workers control over production. Rather, it was
+   retained power. Thus the "slogan of workers' control of production" was
+   not equated to actual workers' control over production. Rather, it was
    "a sort of economic dual power" which meant that "ownership and right
    of disposition remain in the hands of the capitalists." This was
    because it was "obvious that the power is not yet in the hands of the
@@ -6634,7 +6622,7 @@ H.3.14 Don't Marxists believe in workers' control?
    workers' control is presented as a sort of sugar coating to the pill of
    nationalisation of every Trotskyist or Leninist micro-bureaucrat on the
    make. Those who strangled the viable infant are now hawking the corpse
-   around " [For Workers' Power, p. 165] Little has changes since Brinton
+   around." [For Workers' Power, p. 165] Little has changes since Brinton
    wrote those words in the 1960s, with Leninists today proclaiming with a
    straight face that they stand for "self-management"!
 
@@ -6692,16 +6680,18 @@ H.3.14 Don't Marxists believe in workers' control?
    Moreover, the aims of the Paris workers were at odds with the vision of
    the Communist Manifesto and in line with anarchism - most obviously
    Proudhon's demands for workers associations to replace wage labour and
-   what he called, in his Principle of Federation, an "agro-industrial
-   federation." Thus the Commune's idea of co-operative production was a
-   clear expression of what Proudhon explicitly called "industrial
-   democracy," a "reorganisation of industry, under the jurisdiction of
-   all those who compose it." [quoted by K. Steven Vincent, Pierre-Joseph
-   Proudhon and the Rise of French Republican Socialism, p. 225] Thus,
-   while Engels (in part) echoes Proudhon's ideas, he does not go fully
-   towards a self-managed system of co-operation and co-ordination based
-   on the workers' own organisations. Significantly, Bakunin and later
-   anarchists simply developed these ideas to their logical conclusion.
+   what he called, in 1863, an "agricultural-industrial federation." Thus
+   the Commune's idea of co-operative production was a clear expression of
+   what Proudhon called "industrial democracy" based on "democratically
+   organised workers' associations" forming a "vast federation of
+   companies and societies woven into the common cloth of the democratic
+   and social Republic" (for "under universal association, ownership of
+   the land and of the instruments of labour is social ownership").
+   [Property is Theft!, p. 711, p. 611, pp. 377-8] Thus, while Engels (in
+   part) echoes Proudhon's ideas, he does not go fully towards a
+   self-managed system of co-operation and co-ordination based on the
+   workers' own organisations. Significantly, Bakunin and later anarchists
+   simply developed these ideas to their logical conclusion.
 
    Marx, to his credit, supported these libertarian visions when applied
    in practice by the Paris workers during the Commune and promptly
@@ -6739,9 +6729,9 @@ H.3.14 Don't Marxists believe in workers' control?
    councils of the trade bodies, and by a committee of their respective
    delegates." In addition, "a local grouping which allows the workers in
    the same area to liase on a day to day basis" and "a linking up of the
-   various localities, fields, regions, etc." (i.e. international trade or
-   industrial union federations) would ensure that "labour organises for
-   present and future by doing away with wage slavery." This "mode of
+   various localities, fields, regions, etc." (i.e., international trade
+   or industrial union federations) would ensure that "labour organises
+   for present and future by doing away with wage slavery." This "mode of
    organisation leads to the labour representation of the future." [No
    Gods, No Masters, vol. 1, p. 184]
 
@@ -6809,7 +6799,7 @@ References
   29. //usr/share/doc/anarchism/txt/secH5.txt#sech55
   30. //usr/share/doc/anarchism/txt/secH1.txt#sech12
   31. //usr/share/doc/anarchism/txt/secH3.txt#sech38
-  32. //usr/share/doc/anarchism/txt/secH6.txt
+  32. //usr/share/doc/anarchism/txt/secH6.txt#sech62
   33. //usr/share/doc/anarchism/txt/secH1.txt#sech12
   34. //usr/share/doc/anarchism/txt/secH1.txt#sech12
   35. //usr/share/doc/anarchism/txt/secH5.txt

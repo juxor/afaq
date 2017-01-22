@@ -2,9 +2,7 @@
 
 [1]Introduction
 
-   [2]
-
-1 Are "anarcho"-capitalists really anarchists?
+[2]1 Are "anarcho"-capitalists really anarchists?
 
     [3]1.1 Why is the failure to renounce hierarchy the Achilles Heel of
        right-wing libertarianism?
@@ -13,32 +11,29 @@
        [6]1.4 Is "anarcho"-capitalism a new form of individualist
        anarchism?
 
-   [7]
 
-2 What do "anarcho"-capitalists mean by "freedom?"
 
-   [8]2.1 What are the implications of defining liberty in terms of
-       (property) rights?
-       [9]2.2 How does private property affect freedom?
-       [10]2.3 Can "anarcho"-capitalist theory justify the state?
-       [11]2.4 But surely transactions on the market are voluntary?
-       [12]2.5 But surely circumstances are the result of liberty and so
-       cannot be objected to?
-       [13]2.6 Do Libertarian-capitalists support slavery?
-       [14]2.7 But surely abolishing capitalism would restrict liberty?
-       [15]2.8 Why should we reject the "anarcho"-capitalist definitions
-       of freedom and justice?
+[7]2 What do "anarcho"-capitalists mean by "freedom?"
 
-   [16]
+  [8]2.1 What are the implications of defining liberty in terms of (property)
+  rights?
+  [9]2.2 How does private property affect freedom?
+  [10]2.3 Can "anarcho"-capitalist theory justify the state?
+  [11]2.4 But surely transactions on the market are voluntary?
+  [12]2.5 But surely circumstances are the result of liberty and so cannot be
+  objected to?
+  [13]2.6 Do Libertarian-capitalists support slavery?
+  [14]2.7 But surely abolishing capitalism would restrict liberty?
+  [15]2.8 Why should we reject the "anarcho"-capitalist definitions of freedom
+  and justice?
 
-3 Why do "anarcho"-capitalists generally place little or no value on "equality"?
+[16]3 Why do "anarcho"-capitalists generally place little or no value on
+"equality"?
 
     [17]3.1 Why is this disregard for equality important?
        [18]3.2 But what about "anarcho"-capitalist support for charity?
 
-   [19]
-
-4 What is the right-libertarian position on private property?
+[19]4 What is the right-libertarian position on private property?
 
     [20]4.1 What is wrong with a "homesteading" theory of property?
        [21]4.2 Why is the "Lockean Proviso" important?
@@ -46,13 +41,9 @@
        [23]4.4 How does private property affect relationships?
        [24]4.5 Does private property co-ordinate without hierarchy?
 
-   [25]
+[25]5 Will privatising "the commons" increase liberty?
 
-5 Will privatising "the commons" increase liberty?
-
-   [26]
-
-6 Is "anarcho" capitalism against the state?
+[26]6 Is "anarcho" capitalism against the state?
 
     [27]6.1 What's wrong with this "free market" justice?
        [28]6.2 What are the social consequences of such a system?
@@ -60,17 +51,14 @@
        [30]6.4 Why are these "defence associations" states?
        [31]6.5 What other effects would "free market" justice have?
 
-   [32]
-
-7 How does the history of "anarcho"-capitalism show that it is not anarchist?
+[32]7 How does the history of "anarcho"-capitalism show that it is not
+anarchist?
 
     [33]7.1 Are competing governments anarchism?
        [34]7.2 Is government compatible with anarchism?
        [35]7.3 Can there be a "right-wing" anarchism?
 
-   [36]
-
-8 What role did the state take in the creation of capitalism?
+[36]8 What role did the state take in the creation of capitalism?
 
     [37]8.1 What social forces lay behind the rise of capitalism?
        [38]8.2 What was the social context of the statement
@@ -82,21 +70,16 @@
        [42]8.6 How did working people view the rise of capitalism?
        [43]8.7 Why is the history of capitalism important?
 
-   [44]
+[44]9 Is Medieval Iceland an example of "anarcho"-capitalism working in
+practice?
 
-9 Is Medieval Iceland an example of "anarcho"-capitalism working in practice?
+[45]10 Would laissez-faire capitalism be stable?
 
-   [45]
-
-10 Would laissez-faire capitalism be stable?
-
-   [46]10.1 Would privatising banking make capitalism stable?
+    [46]10.1 Would privatising banking make capitalism stable?
        [47]10.2 How does the labour market effect capitalism?
        [48]10.3 Was laissez-faire capitalism stable?
 
-   [49]
-
-11 What is the myth of "Natural Law"?
+[49]11 What is the myth of "Natural Law"?
 
     [50]11.1 Why "Natural Law" in the first place?
        [51]11.2 But "Natural Law" provides protection for individual

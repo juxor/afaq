@@ -1,5 +1,4 @@
-                            Bibliography for FAQ
-                     ___________________________________
+                              Bibliography for FAQ
 
    This bibliography lists all the books quoted in the FAQ. However,
    details for some of these books is missing. This information will also
@@ -12,9 +11,8 @@
    authors; books by anarchists and other libertarians; books about
    anarchism, anarchists and anarchist history by non-libertarians; and
    books by non-anarchists/libertarians.
-                     ___________________________________
 
-                            Anarchist Anthologies
+Anarchist Anthologies
 
    Avrich, Paul (ed.), The Anarchists in the Russian Revolution, Thames
    and Hudson Ltd, London, 1973.
@@ -28,8 +26,9 @@
 
    Dark Star (ed.), Quiet Rumours: An Anarcha-Feminist Reader, AK
    Press/Dark Star, Edinburgh/San Francisco, 2002.
+
    Beneath the Paving Stones: Situationists and the beach, May 1968, AK
-       Press/Dark Star, Edinburgh/San Francisco, 2001.
+   Press/Dark Star, Edinburgh/San Francisco, 2001.
 
    Dolgoff, Sam (ed.), The Anarchist Collectives: self-management in the
    Spanish revolution, 1936-1939, Black Rose Books, Montreal, 1974.
@@ -60,14 +59,15 @@
 
    Woodcock, George (ed.), The Anarchist Reader, Fontana, Glasgow, 1987.
 
-                       Anarchist and Libertarian Works
+Anarchist and Libertarian Works
 
    ACF, Marxism and Its Failures, ACE Editions, London, 1990.
 
    Ackelsberg, Martha A., Free Women of Spain: anarchism and the struggle
    for the emancipation of women, AK Press, Oakland/Edinburgh, 2005.
+
    Free Women of Spain: anarchism and the struggle for the emancipation of
-       women, Indiana University Press, Bloomington, 1991.
+   women, Indiana University Press, Bloomington, 1991.
 
    Anarchist Federation, The Role of the Revolutionary Organisation,
    Anarchist Communist Editions, London, 2008.
@@ -93,45 +93,58 @@
    London, 1987.
 
    The Two Octobers available at:
-       http://flag.blackened.net/revolt/russia/arshinov_2_oct.html
+   [1]http://flag.blackened.net/revolt/russia/arshinov_2_oct.html
 
    Avrich, Paul, An American Anarchist: The Life of Voltairine de Cleyre,
    Princeton University Press, Princeton, 1978.
 
    Anarchist Voices: An Oral History of Anarchism in America, AK Press,
-       Edinburgh/Oakland, 2005
-       Kronstadt 1921, W.W. Norton and Company Inc., New York, 1970.
-       The Russian Anarchists, W.W. Norton & Company, New York, 1978.
-       Anarchist Portraits, Princeton University Press, Princeton, 1988.
-       The Haymarket Tragedy, Princeton University Press, Princeton, 1984.
-       "Bolshevik Opposition To Lenin: G. Miasnikov and the Workers
-       Group", pp. 1-29, Russian Review, vol. 43, no. 1
-       Bolshevik Opposition To Lenin: G. Miasnikov and the Workers Group,
-       available at:
-       http://www.geocities.com/CapitolHill/Lobby/2379/mias.htm
+   Edinburgh/Oakland, 2005
+
+   Kronstadt 1921, W.W. Norton and Company Inc., New York, 1970.
+
+   The Russian Anarchists, W.W. Norton & Company, New York, 1978.
+
+   Anarchist Portraits, Princeton University Press, Princeton, 1988.
+
+   The Haymarket Tragedy, Princeton University Press, Princeton, 1984.
+
+   "Bolshevik Opposition To Lenin: G. Miasnikov and the Workers Group",
+   pp. 1-29, Russian Review, vol. 43, no. 1
+
+   Bolshevik Opposition To Lenin: G. Miasnikov and the Workers Group,
+   available at:
+   [2]http://www.geocities.com/CapitolHill/Lobby/2379/mias.htm
 
    Bakunin, Micheal, The Basic Bakunin, Robert M. Cutler (trans. and ed.),
    Promethus Books, Buffalo, N.Y., 1994.
 
    Bakunin on Anarchism, 2nd Edition, Sam Dolgoff (ed.), Black Rose Books,
-       Montreal, 1980.
-       The Political Philosophy of Bakunin, G.P. Maximov (ed.), The Free
-       Press, New York, 1953.
-       Michael Bakunin: Selected Writings, Arthur Lehning (ed.), Jonathan
-       Cape, London, 1973.
-       Statism and Anarchy, Cambridge University Press, Cambridge, 1990.
-       God and the State, Dover, New York, 1970.
-       Marxism, Freedom and the State, K.J. Kenafick (ed.), Freedom Press,
-       London, 1984.
+   Montreal, 1980.
+
+   The Political Philosophy of Bakunin, G.P. Maximov (ed.), The Free
+   Press, New York, 1953.
+
+   Michael Bakunin: Selected Writings, Arthur Lehning (ed.), Jonathan
+   Cape, London, 1973.
+
+   Statism and Anarchy, Cambridge University Press, Cambridge, 1990.
+
+   God and the State, Dover, New York, 1970.
+
+   Marxism, Freedom and the State, K.J. Kenafick (ed.), Freedom Press,
+   London, 1984.
 
    Barclay, Harold, The State, Freedom Press, London, 2003.
 
    Barrett, George, "The Anarchist Revolution" contained in The Last War,
    Pirate Press, Sheffield, 1990.
+
    "Objections to Anarchism", The Raven: Anarchist Quarterly, no. 12 (Vol.
-       3, No. 4), Oct-Dec 1990, Freedom Press, pp. 339-364.
-       Objections to Anarchism available at
-       http://www.spunk.org/library/intro/sp000146.txt
+   3, No. 4), Oct-Dec 1990, Freedom Press, pp. 339-364.
+
+   Objections to Anarchism available at
+   [3]http://www.spunk.org/library/intro/sp000146.txt
 
    Bennello, George, "The Challenge of Mondragon" in Reinventing Anarchy,
    Again, Howard Ehrlich (ed.), AK Press, Edinburgh/San Francisco, 1996.
@@ -141,12 +154,17 @@
 
    Berkman, Alexander, What is Anarchism?, AK Press,
    Edinburgh/London/Oakland, 2003.
+
    The ABC of Anarchism, Freedom Press, London, 1977.
-       What is Communist Anarchism?, Phoenix Press, London, 1989.
-       The Russian Tragedy, Phoenix Press, London, 1986.
-       The Bolshevik Myth, Pluto Press, London, 1989.
-       Life of an Anarchist: The Alexander Berkman reader, Gene Fellner
-       (ed.), Four Walls Eight Windows, New York, 1992.
+
+   What is Communist Anarchism?, Phoenix Press, London, 1989.
+
+   The Russian Tragedy, Phoenix Press, London, 1986.
+
+   The Bolshevik Myth, Pluto Press, London, 1989.
+
+   Life of an Anarchist: The Alexander Berkman reader, Gene Fellner (ed.),
+   Four Walls Eight Windows, New York, 1992.
 
    Berkman, Alexander (ed.), The Blast, AK Press, Edinburgh/Oakland, 2005.
 
@@ -156,6 +174,7 @@
 
    Berneri, Marie-Louise, Neither East Nor West: Selected Writings
    1939-48, Freedom Press, London, 1988.
+
    Journey Through Utopia, Freedom Press, London, 1982.
 
    Berry, David, A History of the French Anarchist Movement, 1917-1945,
@@ -163,57 +182,81 @@
 
    Black, Bob, The Abolition of Work and other essays, Loompanics
    Unlimited, Port Townsend, 1986.
+
    Friendly Fire, Autonomedia, New York, 1992.
-       Anarchy After Leftism, CAL Press, Columbia, 1997.
-       The Abolition of Work, available at
-       http://www.spunk.org/library/writers/black/sp000156.txt
-       The Libertarian as Conservative, available at
-       http://www.applicom.com/pnews/libertarian.html
-       Smokestack Lighting, available at
-       http://www.geocities.com/CapitolHill/Lobby/3998/smokestack.html
+
+   Anarchy After Leftism, CAL Press, Columbia, 1997.
+
+   The Abolition of Work, available at
+   [4]http://www.spunk.org/library/writers/black/sp000156.txt
+
+   The Libertarian as Conservative, available at
+   [5]http://www.applicom.com/pnews/libertarian.html
+
+   Smokestack Lighting, available at
+   [6]http://www.geocities.com/CapitolHill/Lobby/3998/smokestack.html
 
    Bonanno, Alfredo M., Anarchism and the National Liberation Struggle,
    Bratach Dubh Editions, Catania, 1981.
 
    Bookchin, Murray, Post Scarcity Anarchism, 3rd Edition, AK Press,
    Edinburgh/Oakland, 2004.
+
    Post Scarcity Anarchism, Wildwood House, London, 1971.
-       The Spanish Anarchists: The Heroic Years 1868-1936, AK Press,
-       Edinburgh/San Francisco, 1998.
-       The Third Revolution: Popular Movements in the Revolutionary Era,
-       Volume 1, Cassel, London, 1996.
-       The Third Revolution: Popular Movements in the Revolutionary Era,
-       Volume 2, Cassel, London, 1998.
-       Toward an Ecological Society, Black Rose, Montreal, 1980.
-       Remaking Society: Pathways to a Green Future, South End Press,
-       Boston, MA., 1990.
-       Social Anarchism and Lifestyle Anarchism, AK Press, Edinburgh/San
-       Francisco, 1995.
-       The Modern Crisis, New Society Publishers, Philadelphia, 1986.
-       The Ecology of Freedom: The Emergence and Dissolution of Hierarchy,
-       AK Press, Edinburgh/Oakland, 2005
-       The Ecology of Freedom: The Emergence and Dissolution of Hierarchy,
-       Cheshire Books, Palo Alto, California, 1982.
-       "Communalism: The Democratic Dimension of Anarchism", Democracy and
-       Nature, No. 8 (vol. 3, no. 2), pp. 1-12.
-       Which Way for the Ecology Movement?, AK Press, Edinburgh/San
-       Francisco, 1994.
-       The Philosophy of Social Ecology, Black Rose Books, Montreal/New
-       York, 1990.
-       From Urbanisation to Cities: Toward a New Politics of Citizenship,
-       Cassell, London, 1995.
-       "Nationality and the 'National Question'", Society and Nature, no.
-       5, vol. 2, no. 2, pp. 8-36.
-       The Communist Manifesto: Insights and Problems, available at:
-       http://dwardmac.pitzer.edu/anarchist_archives/bookchin/comman.html
-       "Looking Back at Spain," The Radical Papers, pp. 53-96, Dimitrios
-       I. Roussopoulos (ed.), Black Rose Books, Montreal/New York, 1987
-       The Murray Bookchin Reader, Janet Biehl (ed.), Cassell, London,
-       1997.
-       Anarchism, Marxism, and the Future of the Left: Interviews and
-       Essays, 1993-1998, AK Press, Edinburgh/San Francisco, 1999.
-       To Remember Spain: The Anarchist and Syndicalist Revolution of
-       1936, AK Press, Edinburgh/San Francisco, 1994.
+
+   The Spanish Anarchists: The Heroic Years 1868-1936, AK Press,
+   Edinburgh/San Francisco, 1998.
+
+   The Third Revolution: Popular Movements in the Revolutionary Era,
+   Volume 1, Cassel, London, 1996.
+
+   The Third Revolution: Popular Movements in the Revolutionary Era,
+   Volume 2, Cassel, London, 1998.
+
+   Toward an Ecological Society, Black Rose, Montreal, 1980.
+
+   Remaking Society: Pathways to a Green Future, South End Press, Boston,
+   MA., 1990.
+
+   Social Anarchism and Lifestyle Anarchism, AK Press, Edinburgh/San
+   Francisco, 1995.
+
+   The Modern Crisis, New Society Publishers, Philadelphia, 1986.
+
+   The Ecology of Freedom: The Emergence and Dissolution of Hierarchy, AK
+   Press, Edinburgh/Oakland, 2005
+
+   The Ecology of Freedom: The Emergence and Dissolution of Hierarchy,
+   Cheshire Books, Palo Alto, California, 1982.
+
+   "Communalism: The Democratic Dimension of Anarchism", Democracy and
+   Nature, No. 8 (vol. 3, no. 2), pp. 1-12.
+
+   Which Way for the Ecology Movement?, AK Press, Edinburgh/San Francisco,
+   1994.
+
+   The Philosophy of Social Ecology, Black Rose Books, Montreal/New York,
+   1990.
+
+   From Urbanisation to Cities: Toward a New Politics of Citizenship,
+   Cassell, London, 1995.
+
+   "Nationality and the 'National Question'", Society and Nature, no. 5,
+   vol. 2, no. 2, pp. 8-36.
+
+   The Communist Manifesto: Insights and Problems, available at:
+   [7]http://dwardmac.pitzer.edu/anarchist_archives/bookchin/comman.html
+
+   "Looking Back at Spain," The Radical Papers, pp. 53-96, Dimitrios I.
+   Roussopoulos (ed.), Black Rose Books, Montreal/New York, 1987
+
+   The Murray Bookchin Reader, Janet Biehl (ed.), Cassell, London, 1997.
+
+   Anarchism, Marxism, and the Future of the Left: Interviews and Essays,
+   1993-1998, AK Press, Edinburgh/San Francisco, 1999.
+
+   To Remember Spain: The Anarchist and Syndicalist Revolution of 1936, AK
+   Press, Edinburgh/San Francisco, 1994.
 
    Bookchin, Murray and Dave Foreman, Defending the Earth: A Dialogue
    between Murray Bookchin and Dave Foreman, Black Rose Books,
@@ -223,7 +266,7 @@
    California, 1989.
 
    "Woman's Freedom: Key to the Population Question", pp. 65-84, How Deep
-       is Deep Ecology?, Times Change Press, California, 1989.
+   is Deep Ecology?, Times Change Press, California, 1989.
 
    Bricianer, Serge Pannekoek and the Workers' Councils, Telos Press,
    Saint Louis, 1978.
@@ -232,9 +275,10 @@
    Brinton, David Goodway (ed.), AK Press, Edinburgh/Oakland, 2004.
 
    The Bolsheviks and Workers' Control 1917 to 1921: the State and
-       Counter-Revolution, Solidarity and Black and Red, London and
-       Detroit, 1975.
-       The Irrational in Politics, Soldarity (London), London, 1975.
+   Counter-Revolution, Solidarity and Black and Red, London and Detroit,
+   1975.
+
+   The Irrational in Politics, Soldarity (London), London, 1975.
 
    Brown, L. Susan, The Politics of Individualism: Liberalism, Liberal
    Feminism and Anarchism, Black Rose, Montreal/New York, 1993.
@@ -247,10 +291,10 @@
    Solidarity, London, 1974.
 
    Carson, Kevin A., The Iron Fist Behind the Invisible Hand, available
-   at: http://www.mutualist.org/id4.html
+   at: [8]http://www.mutualist.org/id4.html
 
    Studies in Mutualist Political Economy, available at:
-       http://www.mutualist.org/id47.html
+   [9]http://www.mutualist.org/id47.html
 
    Carter, Alan, Marx: A Radical Critique, Wheatsheaf Books, Brighton,
    1988.
@@ -262,87 +306,123 @@
    Self-Managed Society, Wooden Shoe Pamphlet, Philadelphia, 1984.
 
    Political and Social Writings, vol. 1, translated and edited by David
-       Ames Curtis, University of Minnesota Press, Minneapolis, 1988.
-       Political and Social Writings, vol. 2, translated and edited by
-       David Ames Curtis, University of Minnesota Press, Minneapolis,
-       1988.
-       Political and Social Writings, vol. 3, translated and edited by
-       David Ames Curtis, University of Minnesota Press, Minneapolis,
-       1993.
-       The Meaning of Socialism, Philadelphia Solidarity, Philadelphia,
-       1994.
-       "The Role of Bolshevik Ideology in the Birth of the Bureaucracy",
-       contained in Political and Social Writings, vol. 3, pp. 89-105
+   Ames Curtis, University of Minnesota Press, Minneapolis, 1988.
+
+   Political and Social Writings, vol. 2, translated and edited by David
+   Ames Curtis, University of Minnesota Press, Minneapolis, 1988.
+
+   Political and Social Writings, vol. 3, translated and edited by David
+   Ames Curtis, University of Minnesota Press, Minneapolis, 1993.
+
+   The Meaning of Socialism, Philadelphia Solidarity, Philadelphia, 1994.
+
+   "The Role of Bolshevik Ideology in the Birth of the Bureaucracy",
+   contained in Political and Social Writings, vol. 3, pp. 89-105
 
    Chomsky, Noam, Chronicles of Dissent: Interviews with David Barsamian,
    Common Courage and AK Press, Monroe, 1992.
+
    Deterring Democracy, Vintage, London, 1992.
-       Keeping the Rabble in Line: Interviews with David Barsamian, AK
-       Press, Edinburgh, 1994.
-       Noam Chomsky on Anarchism, available at:
-       http://www.zmag.org/chomsky/interviews/9612-anarchism.html
-       Language and Politics, Expanded Second Edition, C.P. Otero (ed.),
-       AK Press, Edinburgh/London/Oakland, 2004.
-       "Marxism, Anarchism, and Alternative Futures", pp. 775-785,
-       Language and Politics, Expanded Second Edition.
-       Preface to Rudolf Rocker's Anarcho-Syndicalism, Pluto Press,
-       London, 1989.
-       World Orders, Old and New, Pluto Press, London, 1994.
-       Radical Priorities, Black Rose Books, Montreal, 1981.
-       Year 501: The Conquest Continues, Verso, London, 1993.
-       Necessary Illusions: Thought Control in Democratic Societies, Pluto
-       Press, London, 1991.
-       Expanding the Floor of the Cage, available at:
-       http://www.chomsky.info/interviews/199704--.htm
-       Rollback Parts I to IV, Z Magazine, January to May 1995 available
-       at: http://www.chomsky.info/articles/199505--.htm
-       Interview on Pozner/Donahue in 1992, available at
-       http://flag.blackened.net/liberty/chomskydon.html
-       For Reasons of State, Fontana/Collins, Suffolk, 1973.
-       The Umbrella of US Power: The Universal Declaration of Human Rights
-       and the Contradictions of US Policy, Open Media Pamphlet, Seven
-       Stories Press, New York, 1999.
-       The Chomsky Reader, James Peck (ed.), Pantheon Books, New York,
-       1987.
-       Turning the Tide: US Intervention in Central America and the
-       Struggle for Peace, Pluto Press, 1985.
-       Language and Politics, Black Rose Books, Montreal, 1999.
-       Rogue States: The Rule of Force in World Affairs, Pluto Press,
-       London, 2000.
-       Understanding Power: The Indispensable Chomsky, Peter R. Mitchell
-       and John Schoeffel (eds.), The New Press, New York, 2002.
-       Problems of Knowledge and Freedom: The Russell Lectures, The New
-       Press, New York/London, 2003.
-       Hegemony or Survival: America's Quest for Global Dominance, Hamish
-       Hamilton, London, 2003.
-       Powers and Prospects: Reflections on Human Nature and the Social
-       Order, Pluto Press, London, 1996.
-       Class Warfare: Interviews with David Barsamian, Pluto Press,
-       London, 1996.
-       American Power and the New Mandarins, Penguin Books, London, 1969.
-       Anarchism Interview: Noam Chomsky interviewed by Ziga Vodovnik,
-       available at: http://www.chomsky.info/interviews/20040714.htm
-       Letters from Lexington: Reflections on Propaganda, Common Courage
-       Press/AK Press, Monroe/Edinburgh, 1993.
-       Chomsky on Anarchism, AK Press, Edinburgh/Oakland, 2005.
-       Government in the Future, Seven Stories Press, New York, 2005.
-       Propaganda and the Public Mind: Conversations with Noam Chomsky,
-       Pluto Press, London, 2001.
-       Failed States: The Abuse of Power and the Assault on Democracy,
-       Hamish Hamilton, London, 2006.
-       The Culture of Terrorism, Pluto Press, London, 1989.
-       Imperial Ambitions: Conversations with Noam Chomsky on the
-       post-9/11 World, Penguin Books, London, 2005.
-       Manufacturing Consent: Noam Chomsky and the Media, Mark Achbar
-       (ed.), Black Rose Books, Quebec/New York, 1994.
-       Reluctant Icon: Noam Chomsky interviewed by Tim Halle available at
-       http://www.chomsky.info/interviews/1999----.htm
+
+   Keeping the Rabble in Line: Interviews with David Barsamian, AK Press,
+   Edinburgh, 1994.
+
+   Noam Chomsky on Anarchism, available at:
+   [10]http://www.zmag.org/chomsky/interviews/9612-anarchism.html
+
+   Language and Politics, Expanded Second Edition, C.P. Otero (ed.), AK
+   Press, Edinburgh/London/Oakland, 2004.
+
+   "Marxism, Anarchism, and Alternative Futures", pp. 775-785, Language
+   and Politics, Expanded Second Edition.
+
+   Preface to Rudolf Rocker's Anarcho-Syndicalism, Pluto Press, London,
+   1989.
+
+   World Orders, Old and New, Pluto Press, London, 1994.
+
+   Radical Priorities, Black Rose Books, Montreal, 1981.
+
+   Year 501: The Conquest Continues, Verso, London, 1993.
+
+   Necessary Illusions: Thought Control in Democratic Societies, Pluto
+   Press, London, 1991.
+
+   Expanding the Floor of the Cage, available at:
+   [11]http://www.chomsky.info/interviews/199704--.htm
+
+   Rollback Parts I to IV, Z Magazine, January to May 1995 available at:
+   [12]http://www.chomsky.info/articles/199505--.htm
+
+   Interview on Pozner/Donahue in 1992, available at
+   [13]http://flag.blackened.net/liberty/chomskydon.html
+
+   For Reasons of State, Fontana/Collins, Suffolk, 1973.
+
+   The Umbrella of US Power: The Universal Declaration of Human Rights and
+   the Contradictions of US Policy, Open Media Pamphlet, Seven Stories
+   Press, New York, 1999.
+
+   The Chomsky Reader, James Peck (ed.), Pantheon Books, New York, 1987.
+
+   Turning the Tide: US Intervention in Central America and the Struggle
+   for Peace, Pluto Press, 1985.
+
+   Language and Politics, Black Rose Books, Montreal, 1999.
+
+   Rogue States: The Rule of Force in World Affairs, Pluto Press, London,
+   2000.
+
+   Understanding Power: The Indispensable Chomsky, Peter R. Mitchell and
+   John Schoeffel (eds.), The New Press, New York, 2002.
+
+   Problems of Knowledge and Freedom: The Russell Lectures, The New Press,
+   New York/London, 2003.
+
+   Hegemony or Survival: America's Quest for Global Dominance, Hamish
+   Hamilton, London, 2003.
+
+   Powers and Prospects: Reflections on Human Nature and the Social Order,
+   Pluto Press, London, 1996.
+
+   Class Warfare: Interviews with David Barsamian, Pluto Press, London,
+   1996.
+
+   American Power and the New Mandarins, Penguin Books, London, 1969.
+
+   Anarchism Interview: Noam Chomsky interviewed by Ziga Vodovnik,
+   available at: [14]http://www.chomsky.info/interviews/20040714.htm
+
+   Letters from Lexington: Reflections on Propaganda, Common Courage
+   Press/AK Press, Monroe/Edinburgh, 1993.
+
+   Chomsky on Anarchism, AK Press, Edinburgh/Oakland, 2005.
+
+   Government in the Future, Seven Stories Press, New York, 2005.
+
+   Propaganda and the Public Mind: Conversations with Noam Chomsky, Pluto
+   Press, London, 2001.
+
+   Failed States: The Abuse of Power and the Assault on Democracy, Hamish
+   Hamilton, London, 2006.
+
+   The Culture of Terrorism, Pluto Press, London, 1989.
+
+   Imperial Ambitions: Conversations with Noam Chomsky on the post-9/11
+   World, Penguin Books, London, 2005.
+
+   Manufacturing Consent: Noam Chomsky and the Media, Mark Achbar (ed.),
+   Black Rose Books, Quebec/New York, 1994.
+
+   Reluctant Icon: Noam Chomsky interviewed by Tim Halle available at
+   [15]http://www.chomsky.info/interviews/1999----.htm
 
    Christie, Stuart, We, the Anarchists! A Study of the Iberian Anarchist
    Federation (FAI) 1927-1927, The Meltzer Press and Jura Media,
    Hastings/Petersham, 2000.
+
    My Granny made me an Anarchist (The Christie File part 1, 1946-1964),
-       Christie Books, Hastings, 2002.
+   Christie Books, Hastings, 2002.
 
    Christie, Stuart and Meltzer, Albert, The Floodgates of Anarchy, Kahn &
    Averill, Southampton, 1984.
@@ -366,6 +446,7 @@
 
    Cole, G.D.H., Guild Socialism Restated, Transaction Books, New
    Brunswick, 1980.
+
    Self-Government in Industry, Hutchinson Educational, London, 1972.
 
    Comfort, Alex, Authority and Delinquency in the Modern State: A
@@ -373,7 +454,7 @@
    Paul, 1950.
 
    Writings against Power and Death: The Anarchist articles and Pamphlets
-       of Alex Comfort, David Goodway (ed.), Freedom Press, London, 1994.
+   of Alex Comfort, David Goodway (ed.), Freedom Press, London, 1994.
 
    Crump, John, Hatta Shuzo and Pure Anarchism in Interwar Japan, St.
    Martin's Press, Inc., New York, 1993.
@@ -383,21 +464,26 @@
 
    de Cleyre, Voltairine, The Voltairine de Cleyre Reader, A.J. Brigati
    (ed.), AK Press, Oakland/Edinburgh, 2004.
+
    Exquisite Rebel: The Essays of Voltairine de Cleyre -- Anarchist,
-       Feminist, Genius, Sharon Presley and Crispin Sartwell (eds.), State
-       University of New York Press, New York, 2005.
-       "Anarchism", pp. 30-34, Man!, M. Graham (ed.), Cienfuegos Press,
-       London, 1974.
-       Direct Action, available at
-       http://www.etext.org/Politics/Spunk/library/writers/decleyre/sp0013
-       34.html
-       The Economic Tendency of Freethought, available at
-       http://alumni.umbc.edu/~akoont1/tmh/voltair.html
-       Anarchism and American Traditions, available at
-       http://alumni.umbc.edu/~akoont1/tmh/vdc.html
-       The First Mayday: The Haymarket Speeches 1895-1910, Cienfuegos
-       Press, Libertarian Book Club and Soil of liberty, Orkney/
-       Minneapolis, 1980
+   Feminist, Genius, Sharon Presley and Crispin Sartwell (eds.), State
+   University of New York Press, New York, 2005.
+
+   "Anarchism", pp. 30-34, Man!, M. Graham (ed.), Cienfuegos Press,
+   London, 1974.
+
+   Direct Action, available at
+   [16]http://www.etext.org/Politics/Spunk/library/writers/decleyre/sp0013
+   34.html
+
+   The Economic Tendency of Freethought, available at
+   [17]http://alumni.umbc.edu/~akoont1/tmh/voltair.html
+
+   Anarchism and American Traditions, available at
+   [18]http://alumni.umbc.edu/~akoont1/tmh/vdc.html
+
+   The First Mayday: The Haymarket Speeches 1895-1910, Cienfuegos Press,
+   Libertarian Book Club and Soil of liberty, Orkney/ Minneapolis, 1980
 
    de Ligt, Bart, The Conquest of Violence, Pluto Press, London, 1989.
 
@@ -418,19 +504,22 @@
    Strategy, Direct Action Movement-IWA, Manchester/Glasgow, 1991.
 
    Direct Action in Industry, available at:
-       http://www.spunk.org/texts/intro/practice/sp001703.html
+   [19]http://www.spunk.org/texts/intro/practice/sp001703.html
 
    Dobson, V.G., Bringing the Economy Home from the Market, Black Rose
    Books, Montreal, 1993.
 
    Dolgoff, Sam, The Cuban Revolution: A Critical Perspective, Black Rose
    Books, Montreal, 1976.
+
    The American Labour Movement: A New Beginning, Resurgence, Champaign,
-       Il., 1980.
-       A Critique of Marxism, Soil of Liberty, Minneapolis, unknown.
+   Il., 1980.
+
+   A Critique of Marxism, Soil of Liberty, Minneapolis, unknown.
 
    Draughn, Jeff, Between Anarchism and Libertarianism: Defining a New
-   Movement, available at http://flag.blackened.net/liberty/between.html
+   Movement, available at
+   [20]http://flag.blackened.net/liberty/between.html
 
    Ervin, Lorenzo Kom'boa, Anarchism and the Black Revolution,
    Monkeywrench Press and the Workers Self-Education Foundation,
@@ -438,8 +527,9 @@
 
    Fabbri, Luigi, Bourgeois Influences on Anarchism, Acrata Press, San
    Francisco, 1987.
+
    "Anarchy and 'Scientific' Communism", in The Poverty of Statism, pp.
-       13-49, Albert Meltzer (ed.), Cienfuegos Press, Sanday, 1981
+   13-49, Albert Meltzer (ed.), Cienfuegos Press, Sanday, 1981
 
    Fernandez, Frank, Cuban Anarchism: The History of a Movement, See Sharp
    Press, Tucson, 2001.
@@ -459,11 +549,12 @@
 
    Fotopoulos, Takis, "The Economic Foundations of an Ecological Society",
    Society and Nature, No. 3 (vol. 1 no. 3), pp. 1-40.
+
    "The Nation-state and the Market," Society and Nature, No. 5 (vol. 2,
-       no. 2), pp. 37-80.
-       Towards an Inclusive Democracy: The crisis of the growth economy
-       and the need for a new liberatory Project, Cassell, London/New
-       York, 1997.
+   no. 2), pp. 37-80.
+
+   Towards an Inclusive Democracy: The crisis of the growth economy and
+   the need for a new liberatory Project, Cassell, London/New York, 1997.
 
    Ford, Earl C. and Foster, William Z., Syndicalism, Charles H. Keer
    Publishing Co., Chicago, 1990.
@@ -475,40 +566,52 @@
    Marxist Theory, Ashgate, Aldershot, 1997.
 
    Friends of Durruti, Towards a Fresh Revolution, available at:
-   http://flag.blackened.net/revolt/fod/towardsintro.html
+   [21]http://flag.blackened.net/revolt/fod/towardsintro.html
 
    The Friends of Durruti Accuse, available at:
-       http://www.geocities.com/Athens/Acropolis/8195/Durruti.html
+   [22]http://www.geocities.com/Athens/Acropolis/8195/Durruti.html
 
    Fromm, Erich, To Have Or To Be?, Abacus, London, 1993.
+
    Man for Himself: An Enquiry into the Psychology of Ethics, Ark
-       Paperbacks, London, 1986.
-       The Sane Society, Kegan Paul, 1959.
-       The Fear of Freedom, Ark Paperbacks, London, 1989.
+   Paperbacks, London, 1986.
+
+   The Sane Society, Kegan Paul, 1959.
+
+   The Fear of Freedom, Ark Paperbacks, London, 1989.
 
    Galleani, Luigi, The End of Anarchism?, Cienfuegos Press, Orkney, 1982.
 
    Godwin, William, The Anarchist Writings of William Godwin, Peter
-   Marshall (ed.), Freedom Press, London, 1986.
-   An Enquiry concerning Political Justice, Penguin, Harmondsworth, 1976
+   Marshall (ed.), Freedom Press, London, 1986. An Enquiry concerning
+   Political Justice, Penguin, Harmondsworth, 1976
 
    Goldman, Emma, Red Emma Speaks: An Emma Goldman Reader, 3rd Edition,
    Alix Kates Shulman (ed.), Humanity Books, New York, 1998.
+
    Red Emma Speaks, Alix Kates Shulman (ed.), Wildwood House, London,
-       1979.
-       Anarchism and Other Essays, Dover Publications Ltd., New York,
-       1969.
-       Vision on Fire: Emma Goldman on the Spanish Revolution,
-       Commonground Press, New Paltz New York, 1985.
-       My Disillusionment in Russia, Thomas Y. Crowell Company, New York,
-       1970.
-       Living My Life (in 2 volumes), Dover Publications, New York, 1970.
-       Emma Goldman: A Documentary History of the American Years volume 1:
-       Made for America, 1890-1901, Candace Falk (ed.), University of
-       California Press, Berkeley/Los Angeles/London, 2003.
-       Emma Goldman: A Documentary History of the American Years volume 2:
-       Making Speech Free, 1902-1909, Candace Falk (ed.), University of
-       California Press, Berkeley/Los Angeles/London, 2005.
+   1979.
+
+   Anarchism and Other Essays, Dover Publications Ltd., New York, 1969.
+
+   Vision on Fire: Emma Goldman on the Spanish Revolution, Commonground
+   Press, New Paltz New York, 1985.
+
+   My Disillusionment in Russia, Thomas Y. Crowell Company, New York,
+   1970.
+
+   Living My Life (in 2 volumes), Dover Publications, New York, 1970.
+
+   Emma Goldman: A Documentary History of the American Years volume 1:
+   Made for America, 1890-1901, Candace Falk (ed.), University of
+   California Press, Berkeley/Los Angeles/London, 2003.
+
+   Emma Goldman: A Documentary History of the American Years volume 2:
+   Making Speech Free, 1902-1909, Candace Falk (ed.), University of
+   California Press, Berkeley/Los Angeles/London, 2005.
+
+   Writings of Emma Goldman: Essays on Anarchism, Feminism, Socialism, and
+   Communism, Red and Black Publishers, St. Petersburg, Florida, 2013
 
    Goodway, David, Anarchist Seeds Beneath the Snow: Left-Libertarian
    Thought and British Writers from William Morris to Colin Ward,
@@ -523,10 +626,10 @@
    Paradigm Press, Chicago, 2004.
 
    Possibilities: Essays on Hierarchy, Rebellion, and Desire, AK Press,
-       Edinburgh/Oakland, 2007.
+   Edinburgh/Oakland, 2007.
 
    Green Anarchy, Against Mass Society, available at:
-   http://www.primitivism.com/mass-society.htm
+   [23]http://www.primitivism.com/mass-society.htm
 
    Greene, William B., Mutual Banking, West Brookfield, 1850.
 
@@ -534,15 +637,18 @@
    Press, New York/London, 1970.
 
    Class Struggle in the First French Republic: Bourgeois and Bras Nus
-       1793-1795, Pluto Press, London, 1977.
+   1793-1795, Pluto Press, London, 1977.
 
    Harper, Clifford, Anarchy: A Graphic Guide, Camden Press, London, 1987.
+
+   Hoffman, Robert L., Revolutionary Justice: The Social and Political
+   Theory of P.J. Proudhon, University of Illinois Press, Urbana, 1972.
 
    International Workers Association, Principles, Aims and Statutes of the
    International Workers Association, Monty Millar Press, Broadway, 1983.
 
    Industrial Workers of the World, How to fire your boss, available at:
-   http://fletcher.iww.org/direct_action/title.html
+   [24]http://fletcher.iww.org/direct_action/title.html
 
    Kelman, James, Some Recent Attacks: Essays Cultural and Political, AK
    Press, Stirling, 1992.
@@ -550,8 +656,9 @@
    Kelsey, Graham A., Anarchosyndicalism, libertarian communism and the
    state: the CNT in Zaragoza and Aragon 1930-1937, International
    Institute of Social History, Dordrecht, London, 1991.
+
    "Anarchism in Aragon," in Spain in Conflict 1931-1939: democracy and
-       its enemies, Martin Blinkhorn (ed.), pp. 60-82, Sage, London, 1986.
+   its enemies, Martin Blinkhorn (ed.), pp. 60-82, Sage, London, 1986.
 
    Kenafick, K.J., Michael Bakunin and Karl Marx, Melbourne, 1948.
 
@@ -559,51 +666,73 @@
    Anarchy: A Journal of Desire Armed, no. 34, pp. 59-62.
 
    Knabb, Ken, Public Secrets, Bureau of Public Secrets, Berkeley, 1997.
+
    The Poverty of Primitivism, available at
-       http://www.slip.net/~knabb/CF/primitivism.htm
+   [25]http://www.slip.net/~knabb/CF/primitivism.htm
 
    Knabb, Ken (ed.), Situationist International Anthology, Bureau of
    Public Secrets, Berkeley, 1981.
 
    Kropotkin, Peter, Anarchism: A Collection of Revolutionary Writings,
    Roger N. Baldwin (ed.), Dover Press, New York, 2002.
+
+   Act for Yourselves: articles from Freedom 1886-1907, N. Walter and H.
+   Becker (eds), Freedom Press, London, 1988.
+
+   Ethics: Origin and Development, Blom, 1968.
+
+   Mutual Aid, Freedom Press, London, 1987.
+
+   The Conquest of Bread, Elephant Editions, Catania, 1985.
+
+   The State: Its Historic Role, Freedom Press, London, 1987.
+
+   Anarchism and Anarchist Communism: Its Basis and Principles, Freedom
+   Press, London, 1987.
+
+   The Great French Revolution (in two volumes), Elephant Editions,
+   Catania, 1986.
+
+   Words of a Rebel, Black Rose Books, Montreal, 1992.
+
+   Evolution and Environment, Black Rose Books, Montreal, 1995.
+
+   Fields, Factories and Workshops Tomorrow, Colin Ward (ed.), Freedom
+   Press, London, 1985.
+
+   Direct Struggle Against Capital: A Peter Kropotkin Anthology, Iain
+   McKay (ed.), AK Press, Edinburgh, Oakland, Baltimore, 2014.
+
+   Small Communal Experiments and Why They Fail, Jura Media, Sydney, 1997.
+
+   The Place of Anarchism in Socialistic Evolution, Practical Parasite
+   Publications, Cymru, 1990.
+
+   Selected Writings on Anarchism and Revolution, Martin A. Miller (ed.),
+   MIT Press, Cambridge, 1970.
+
+   Memiors of a Revolutionist, Black Rose Books, Montreal/New York, 1989.
+
+   The Conquest of Bread and Other Writings, Unversity Press, Cambridge,
+   1995.
+
    Kropotkin's Revolutionary Pamphlets, R.N. Baldwin (ed.), Dover Press,
-       New York, 1970.
-       Act for Yourselves: articles from Freedom 1886-1907, N. Walter and
-       H. Becker (eds), Freedom Press, London, 1988.
-       Ethics: Origin and Development, Blom, 1968.
-       Mutual Aid, Freedom Press, London, 1987.
-       The Conquest of Bread, Elephant Editions, Catania, 1985.
-       The State: Its Historic Role, Freedom Press, London, 1987.
-       Anarchism and Anarchist Communism: Its Basis and Principles,
-       Freedom Press, London, 1987.
-       The Great French Revolution (in two volumes), Elephant Editions,
-       Catania, 1986.
-       Words of a Rebel, Black Rose Books, Montreal, 1992.
-       Evolution and Environment, Black Rose Books, Montreal, 1995.
-       Fields, Factories and Workshops Tomorrow, Colin Ward (ed.), Freedom
-       Press, London, 1985.
-       Small Communal Experiments and Why They Fail, Jura Media, Sydney,
-       1997.
-       The Place of Anarchism in Socialistic Evolution, Practical Parasite
-       Publications, Cymru, 1990.
-       Selected Writings on Anarchism and Revolution, Martin A. Miller
-       (ed.), MIT Press, Cambridge, 1970.
-       Memiors of a Revolutionist, Black Rose Books, Montreal/New York,
-       1989.
-       The Conquest of Bread and Other Writings, Unversity Press,
-       Cambridge, 1995.
-       "Syndicalism and Anarchism", Black Flag, no. 211, pp. 16-19.
-       The Commune of Paris, available at:
-       http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/pcommune.ht
-       ml
+   New York, 1970.
+
+   "Syndicalism and Anarchism", Black Flag, no. 211, pp. 16-19.
+
+   The Commune of Paris, available at:
+   [26]http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/pcommune.ht
+   ml
 
    Labadie, Joseph A., Anarchism: What It Is and What It Is Not, available
-   at: http://alumni.umbc.edu/~akoont1/tmh/anar_jal.html
+   at: [27]http://alumni.umbc.edu/~akoont1/tmh/anar_jal.html
+
    Different Phases of the Labour Question, available at:
-       http://members.aol.com/labadiejo/page11.html
-       What is Socialism?, available at:
-       http://members.aol.com/labadiejo/page7.html
+   [28]http://members.aol.com/labadiejo/page11.html
+
+   What is Socialism?, available at:
+   [29]http://members.aol.com/labadiejo/page7.html
 
    Landauer, Gustav, For Socialism, Telos Press, St. Louis, 1978.
 
@@ -624,13 +753,14 @@
    Reader, AK Press, Edinburgh/Oakland, 2005.
 
    Land and Liberty: Anarchist influences in the Mexican Revolution, David
-       Poole (ed.), Cienfuegos Press, Sanday, 1977.
+   Poole (ed.), Cienfuegos Press, Sanday, 1977.
 
    Mailer, Phil, Portugal: The Impossible Revolution, Solidarity, London,
    1977.
 
    Makhno, Nestor, The Struggle Against the State and other Essays, AK
    Press, Edinburgh/San Francisco, 1996.
+
    My Visit to the Kremlin, Kate Sharpley Library, London, 1993.
 
    Makhno, Nestor, Ida Mett, Piotr Archinov, Valevsky, Linsky, The
@@ -638,21 +768,29 @@
    Solidarity Movement, Dublin, 1989.
 
    Malatesta, Errico, Anarchy, Freedom Press, London, 2001.
+
    Anarchy, Freedom Press, London, 1974.
-       Errico Malatesta: His Life and Ideas, 3rd Edition, Vernon Richards
-       (ed.), Freedom Press, London, 1993.
-       Life and Ideas, Vernon Richards (ed.), Freedom Press, London, 1965.
-       The Anarchist Revolution, Vernon Richards (ed.), Freedom Press,
-       London, 1995.
-       Fra Contadini: A Dialogue on Anarchy, Bratach Dudh Editions,
-       Catena, 1981.
-       At the Cafe: Conversations on Anarchism, Freedom Press, London,
-       2005.
-       A Talk about Anarchist Communism, Freedom Press, London, 1894.
-       "Towards Anarchism", pp. 73-78, Man!, M. Graham (ed.), Cienfuegos
-       Press, London, 1974.
-       "Anarchism and Syndicalism", pp. 146-52, Geoffrey Ostergaard, The
-       Tradition of Workers' Control, Freedom Press, London, 1997.
+
+   Errico Malatesta: His Life and Ideas, 3rd Edition, Vernon Richards
+   (ed.), Freedom Press, London, 1993.
+
+   Life and Ideas, Vernon Richards (ed.), Freedom Press, London, 1965.
+
+   The Anarchist Revolution, Vernon Richards (ed.), Freedom Press, London,
+   1995.
+
+   Fra Contadini: A Dialogue on Anarchy, Bratach Dudh Editions, Catena,
+   1981.
+
+   At the Cafe: Conversations on Anarchism, Freedom Press, London, 2005.
+
+   A Talk about Anarchist Communism, Freedom Press, London, 1894.
+
+   "Towards Anarchism", pp. 73-78, Man!, M. Graham (ed.), Cienfuegos
+   Press, London, 1974.
+
+   "Anarchism and Syndicalism", pp. 146-52, Geoffrey Ostergaard, The
+   Tradition of Workers' Control, Freedom Press, London, 1997.
 
    Malet, Michael, Nestor Makhno in the Russian Civil War, MacMillan
    Press, London, 1982.
@@ -662,29 +800,32 @@
    Inc., Colorado Springs, 1970.
 
    Marshall, Peter, Demanding the Impossible: A History of Anarchism,
-   Fontana, London, 1993.
-   Nature's Web: An Exploration of Ecological Thinking, Simon & Schuster,
-       London, 1992.
+   Fontana, London, 1993. Nature's Web: An Exploration of Ecological
+   Thinking, Simon & Schuster, London, 1992.
 
    Marzocchi, Umberto, Remembering Spain: Italian Anarchist Volunteers the
    Spanish Civil War, Kate Sharpley Library, London, 1991.
 
    Mattick, Paul, Economic Crisis and Crisis Theory, M.E. Sharpe, White
    Plains, New York, 1981.
+
    Economics, Politics, and the Age of Inflation, Merlin Press, London,
-       1978.
-       Anti-Bolshevik Communism, Merlin Press, London, 1978.
-       Marx and Keynes: The Limits of the Mixed Economy, Merlin Press,
-       London, 1971.
-       Marxism: The Last Refuge of the Bourgeoisie?, M. E. Sharpe,
-       Inc./Merlin Press, Armonk/London, 1983.
+   1978.
+
+   Anti-Bolshevik Communism, Merlin Press, London, 1978.
+
+   Marx and Keynes: The Limits of the Mixed Economy, Merlin Press, London,
+   1971.
+
+   Marxism: The Last Refuge of the Bourgeoisie?, M. E. Sharpe, Inc./Merlin
+   Press, Armonk/London, 1983.
 
    Maximoff, G. P., Program of Anarcho-Syndicalism, Monty Miller Press,
    Sydney, 1985.
 
    The Guillotine at Work: twenty years of terror in Russia (data and
-       documents), Chicago Section of the Alexander Berkman Fund, Chicago,
-       1940.
+   documents), Chicago Section of the Alexander Berkman Fund, Chicago,
+   1940.
 
    Maximoff, G. P (ed.), Constructive Anarchism, Monty Miller Press,
    Sidney, 1988.
@@ -694,11 +835,14 @@
 
    Meltzer, Albert, I Couldn't Paint Golden Angels, AK Press, Edinburgh,
    1996.
+
    Anarchism: Arguments for and against, 7th Revised Edition, AK Press,
-       Edinbrugh/San Francisco, 2000.
-       Anarchism: Arguments for and against, 3rd Edition, Black Flag,
-       London, 1986.
-       The Anarcho-Quiz Book, Simian Publications, Orkney, 1976.
+   Edinbrugh/San Francisco, 2000.
+
+   Anarchism: Arguments for and against, 3rd Edition, Black Flag, London,
+   1986.
+
+   The Anarcho-Quiz Book, Simian Publications, Orkney, 1976.
 
    Meltzer, Albert (ed.), The Poverty of Statism, Cienfuegos Press,
    Orkney, 1981.
@@ -709,17 +853,18 @@
    University of Alabama Press, Alabama, 1981
 
    Moorcock, Michael, Starship Stormtroopers, available at:
-   http://www.geocities.com/CapitolHill/Lobby/3998/Moorcock.html
+   [30]http://www.geocities.com/CapitolHill/Lobby/3998/Moorcock.html
 
    Moore, John, Primitivist Primer, available at:
-   http://lemming.mahost.org/johnmoore/primer.htm
+   [31]http://lemming.mahost.org/johnmoore/primer.htm
 
    Morris, Brian, Bakunin: The Philosophy of Freedom, Black Rose Books,
    Montreal, 1993.
+
    Ecology and Anarchism: Essays and Reviews on Contemporary Thought,
-       Images Publishing (Malvern) Ltd, Malvern Wells, 1996.
-       Kropotkin: The Politics of Community, Humanity Books, New York,
-       2004.
+   Images Publishing (Malvern) Ltd, Malvern Wells, 1996.
+
+   Kropotkin: The Politics of Community, Humanity Books, New York, 2004.
 
    Morris, William, Political Writings: Contributions to Justice and
    Commonweal 1883-1890, Thoemmes Press, Bristol, 1994.
@@ -728,9 +873,10 @@
 
    Nettlau, Max, A Short History of Anarchism, Freedom Press, London,
    1996.
+
    Errico Malatesta: The Biography of an Anarchist, available at:
-       http://dwardmac.pitzer.edu/anarchist_archives/malatesta/nettlau/net
-       tlauonmalatesta.html
+   [32]http://dwardmac.pitzer.edu/anarchist_archives/malatesta/nettlau/net
+   tlauo...
 
    Nursey-Bray, Paul, Anarchist Thinkers and Thought: an annotated
    bibliography, Greenwood Press, New York, 1992.
@@ -741,7 +887,7 @@
    Pannekeok, Anton, Workers' Councils, AK Press, Oakland/Edinburgh, 2003.
 
    Lenin as Philosopher: A Critical Examination of the Philosophical Basis
-       of Leninism, Merlin Press, London, 1975.
+   of Leninism, Merlin Press, London, 1975.
 
    Parsons, Albert R., Anarchism: Its Philosophy and Scientific Basis,
    University Press of the Pacific, Honolulu, 2003.
@@ -755,31 +901,35 @@
 
    Pateman, Carole, The Problem of Political Obligation: A Critique of
    Liberal Theory, Polity Press, Cambridge, 1985.
+
    The Sexual Contract, Polity, Cambridge, 1988.
-       Participation and Democratic Theory, Cambridge University Press,
-       Cambridge, 1970.
-       The Disorder of Women: Democracy, Feminism and Political theory,
-       Polity, Cambridge, 1989.
+
+   Participation and Democratic Theory, Cambridge University Press,
+   Cambridge, 1970.
+
+   The Disorder of Women: Democracy, Feminism and Political theory,
+   Polity, Cambridge, 1989.
 
    Paz, Abel, Durruti: The People Armed, Black Rose Books, Montreal, 1976.
 
    The Spanish Civil War, Pocket Archives, Hazan, Paris, 1997.
-       Durruti in the Spanish Revolution, AK Press, Edinburgh/Oakland,
-       2007.
+
+   Durruti in the Spanish Revolution, AK Press, Edinburgh/Oakland, 2007.
 
    Peacott, Joe, Individualism and Inequality, available at:
-   http://world.std.com/~bbrigade/TL anarchy and inequality.htm
+   [33]http://world.std.com/~bbrigade/TL anarchy and inequality.htm
 
    Individualism Reconsidered, available at:
-       http://world.std.com/~bbrigade/badpp3.htm
+   [34]http://world.std.com/~bbrigade/badpp3.htm
 
    Peirats, Jose, Anarchists in the Spanish Revolution, Freedom Press,
    London, 1990.
 
    The CNT in the Spanish Revolution, vol. 1, The Meltzer Press, Hastings,
-       2001.
-       The CNT in the Spanish Revolution, vol. 2, ChristieBooks.com,
-       Hastings, 2005.
+   2001.
+
+   The CNT in the Spanish Revolution, vol. 2, ChristieBooks.com, Hastings,
+   2005.
 
    Piercy, Marge, Woman on the Edge of Time, The Woman's Press, London,
    1995.
@@ -787,29 +937,40 @@
    Pouget, Emile , Direct Action, Kate Sharpley Library, London, 2003.
 
    The Party Of Labour, available at:
-       http://www.anarchosyndicalism.net/archive/display/190/index.php
+   [35]http://www.anarchosyndicalism.net/archive/display/190/index.php
 
    Proudhon, P-J, What is Property: an inquiry into the principle of right
    and of government, William Reeves Bookseller Ltd., London, 1969.
+
    System of Economical Contradictions: or, the Philosophy of Misery,
-       Benjamin Tucker, Boston, 1888.
-       The General Idea of the Revolution, Pluto Press, London, 1989.
-       Interest and Principal: A Loan is a Service available at:
-       http://www.pitzer.edu/~dward/Anarchist_Archives/proudhon/interestle
-       tter1.html
-       Interest and Principal: The Circulation of Capital, Not Capital
-       Itself, Gives Birth to Progress available at:
-       http://www.pitzer.edu/~dward/Anarchist_Archives/proudhon/interestle
-       tter2.html
-       Selected Writings of Pierre-Joseph Proudhon, Stewart Edwards (ed.),
-       MacMillan, London, 1969.
-       The Principle of Federation, University of Toronto Press, Canada,
-       1979.
-       Proudhon's Solution of the Social Problem, Henry Cohen (ed.),
-       Vanguard Press, New York, 1927.
-       Du Principe Fédératif et de la Nécessité De Reconstituer le Parti
-       de la Révolution, E. Dentu, Paris, 1863.
-       Carnets, vol. 3, Marcel Riviere, Paris, 1968
+   Benjamin Tucker, Boston, 1888.
+
+   The General Idea of the Revolution, Pluto Press, London, 1989.
+
+   Interest and Principal: A Loan is a Service available at:
+   [36]http://www.pitzer.edu/~dward/Anarchist_Archives/proudhon/interestle
+   tter1...
+
+   Interest and Principal: The Circulation of Capital, Not Capital Itself,
+   Gives Birth to Progress available at:
+   [37]http://www.pitzer.edu/~dward/Anarchist_Archives/proudhon/interestle
+   tter2...
+
+   Selected Writings of Pierre-Joseph Proudhon, Stewart Edwards (ed.),
+   MacMillan, London, 1969.
+
+   The Principle of Federation, University of Toronto Press, Canada, 1979.
+
+   Proudhon's Solution of the Social Problem, Henry Cohen (ed.), Vanguard
+   Press, New York, 1927.
+
+   Property is Theft! A Pierre-Joseph Proudhon Anthology, Iain McKay
+   (ed.), AK Press, Edinburgh, Oakland, Baltimore, 2011.
+
+   Du Principe Fédératif et de la Nécessité De Reconstituer le Parti de la
+   Révolution, E. Dentu, Paris, 1863.
+
+   Carnets, vol. 3, Marcel Riviere, Paris, 1968
 
    Puente, Isaac, Libertarian Communism, Monty Miller Press, Sydney, 1985.
 
@@ -821,40 +982,54 @@
 
    Read, Herbert, Anarchy and Order: essays in politics, Faber and Faber
    Ltd, London, 1954.
+
    A One-Man Manifesto and other writings from Freedom Press, Freedom
-       Press, London, 1994.
+   Press, London, 1994.
 
    Richards, Vernon, Lessons of the Spanish Revolution, 3rd Edition,
    Freedom Press, London, 1983.
+
    The Impossibilities of Social Democracy, Freedom Press, London, 1978.
 
    Richards, Vernon (ed.), Neither Nationalisation nor Privatisation:
    Selections from the Anarchist Journal Freedom 1945-1950, Freedom Press,
    London, 1989.
+
    Spain 1936-39 Social revolution and Counter Revolution: Selections from
-       the Anarchist fortnightly Spain and the World, Freedom Press,
-       London, 1990.
-       Why Work? Arguments for the Leisure Society, Freedom Press, London,
-       1997.
-       The May Days in Barcelona, Freedom Press, London, 1987.
-       World War - Cold War: Selections from the Anarchist Journals War
-       Commentary and Freedom, 1939-1950, Freedom Press, London, 1989.
-       The Left and World War II: Selections from the Anarchist Journal
-       War Commentary 1939-1943, Freedom Press, London, 1989.
+   the Anarchist fortnightly Spain and the World, Freedom Press, London,
+   1990.
+
+   Why Work? Arguments for the Leisure Society, Freedom Press, London,
+   1997.
+
+   The May Days in Barcelona, Freedom Press, London, 1987.
+
+   World War - Cold War: Selections from the Anarchist Journals War
+   Commentary and Freedom, 1939-1950, Freedom Press, London, 1989.
+
+   The Left and World War II: Selections from the Anarchist Journal War
+   Commentary 1939-1943, Freedom Press, London, 1989.
 
    Rocker, Rudolf, Anarcho-Syndicalism: Theory and Practice, AK Press,
    Edinburgh/Oakland, 2004.
+
    Anarcho-Syndicalism, Phoenix Press, London, 1988.
-       Nationalism and Culture, Michael E. Coughlin, Minnesota, 1978.
-       The London Years, Five Leaves Publications/AK Press,
-       Nottingham/Oakland, 2005.
-       The Tragedy of Spain, ASP, London & Doncaster, 1986.
-       Anarchism and Sovietism, available at:
-       http://flag.blackened.net/rocker/soviet.htm
-       Marx and Anarchism, available at:
-       http://flag.blackened.net/rocker/marx.htm
-       Pioneers of American Freedom: Origin of Liberal and Radical Thought
-       in America, Rocker Publications Committee, Los Angeles, 1949.
+
+   Nationalism and Culture, Michael E. Coughlin, Minnesota, 1978.
+
+   The London Years, Five Leaves Publications/AK Press,
+   Nottingham/Oakland, 2005.
+
+   The Tragedy of Spain, ASP, London & Doncaster, 1986.
+
+   Anarchism and Sovietism, available at:
+   [38]http://flag.blackened.net/rocker/soviet.htm
+
+   Marx and Anarchism, available at:
+   [39]http://flag.blackened.net/rocker/marx.htm
+
+   Pioneers of American Freedom: Origin of Liberal and Radical Thought in
+   America, Rocker Publications Committee, Los Angeles, 1949.
 
    Root & Branch (ed.), Root & Branch: The Rise of the Workers Movements,
    Fawcett Publications, Greenwich, Conn., 1975.
@@ -869,8 +1044,9 @@
 
    Russell, Bertrand, The Practice and Theory of Bolshevism, George Allen
    and Unwin Ltd., London, 1949.
+
    Roads to Freedom: Socialism, Anarchism and Syndicalism, George Allen
-       and Unwin Ltd., London, 1973.
+   and Unwin Ltd., London, 1973.
 
    Sabatini, Peter, "Libertarianism: Bogus Anarchy", Anarchy: A Journal of
    Desire Armed, no. 41, Fall/Winter 1994-5
@@ -899,29 +1075,34 @@
    Skirda, Alexandre, Nestor Makhno Anarchy's Cossack: The struggle for
    free soviets in the Ukraine 1917-1921, AK Press, Edinburgh/Oakland,
    2004
+
    Facing the Enemy: A History of Anarchist Organisation from Proudhon to
-       May 1968, AK Press, Edinburgh/Oakland, 2002.
-       "The Rehabilitation of Makhno", The Raven: Anarchist Quarterly, no.
-       8 (Vol. 2, No. 4), Oct. 1989, Freedom Press, pp. 338-352
+   May 1968, AK Press, Edinburgh/Oakland, 2002.
+
+   "The Rehabilitation of Makhno", The Raven: Anarchist Quarterly, no. 8
+   (Vol. 2, No. 4), Oct. 1989, Freedom Press, pp. 338-352
 
    Smart, D.A. (ed.), Pannekoek and Gorter's Marxism, Pluto Press, London,
    1978.
 
    Spooner, Lysander, Natural Law, available at
-   http://flag.blackened.net/liberty/spoonnat.html
+   [40]http://flag.blackened.net/liberty/spoonnat.html
+
    No Treason: The Constitution of No Authority, Ralph Myles Publisher,
-       Inc., Colorado Springs, 1973.
-       An essay on the Trial by Jury, John P. Jewett and Co., Boston,
-       1852.
-       A Letter to Grover Cleveland, Benjamin R. Tucker, Boston, 1886.
-       Revolution: The Only Remedy For The Oppressed Classes Of Ireland,
-       England, And Other Parts Of The British Empire, available at:
-       http://www.lysanderspooner.org/Revolution.htm
-       Poverty: Its Illegal Causes and Legal Cure, Bela Marsh, Boston,
-       1846.
-       The Law of Intellectual Property, or, An Essay on the Right of
-       Authors and Inventors to a Perpetual Property in Their Ideas,
-       Boston, 1885.
+   Inc., Colorado Springs, 1973.
+
+   An essay on the Trial by Jury, John P. Jewett and Co., Boston, 1852.
+
+   A Letter to Grover Cleveland, Benjamin R. Tucker, Boston, 1886.
+
+   Revolution: The Only Remedy For The Oppressed Classes Of Ireland,
+   England, And Other Parts Of The British Empire, available at:
+   [41]http://www.lysanderspooner.org/Revolution.htm
+
+   Poverty: Its Illegal Causes and Legal Cure, Bela Marsh, Boston, 1846.
+
+   The Law of Intellectual Property, or, An Essay on the Right of Authors
+   and Inventors to a Perpetual Property in Their Ideas, Boston, 1885.
 
    Starhawk, "Staying on the Streets," contained in On Fire: The Battle of
    Genoa and the anti-capitalist movement, One Off Press, unknown, 2001.
@@ -931,6 +1112,7 @@
    Tolstoy, Leo, The Kingdom of God is Within You: Christianity Not as a
    Mystic Religion but as a New Theory of Life, University of Nebraska
    Press, London, 1984.
+
    The Slavery of Our Times, John Lawrence, London, 1972.
 
    Trotwatch, Carry on Recruiting! Why the Socialist Workers Party dumped
@@ -942,9 +1124,10 @@
    writings of Benj. R. Tucker, Haskell House Publishers, New York, 1969.
 
    Occupancy and Use verses the Single Tax available at:
-       http://flag.blackened.net/daver/anarchism/tucker/tucker32.html
-       "Why I am an Anarchist", pp. 132-136, Man!, M. Graham (ed.),
-       Cienfuegos Press, London, 1974.
+   [42]http://flag.blackened.net/daver/anarchism/tucker/tucker32.html
+
+   "Why I am an Anarchist", pp. 132-136, Man!, M. Graham (ed.), Cienfuegos
+   Press, London, 1974.
 
    Unofficial Reform Committee, The Miner's Next Step: Being a suggested
    scheme for the reorganisation of the Federation, Germinal and Phoenix
@@ -957,21 +1140,29 @@
    Detroit/Chicago, 1974.
 
    Walter, Nicolas, About Anarchism, Freedom Press, London, 2002.
+
    The Anarchist Past and other essays, Five Leaves Publications,
-       Nottingham, 2007.
+   Nottingham, 2007.
 
    Ward, Colin, Anarchy in Action (2nd Edition), Freedom Press, London,
    1982.
+
    Social Policy: an anarchist response, Freedom Press, London, 2000.
-       Talking Houses, Freedom Press, London, 1990.
-       Housing: An Anarchist Approach, Freedom Press, London, 1983
-       Reflected in Water: A Crisis of Social Responsibility, Cassel,
-       London, 1997.
-       Freedom to go: after the motor age, Freedom Press, London, 1991.
-       Anarchism: A Very Short Introduction, Oxford University Press,
-       Oxford, 2004.
-       Cotters and Squatters: Housing's Hidden History, Five Leaves,
-       Nottingham, 2005.
+
+   Talking Houses, Freedom Press, London, 1990.
+
+   Housing: An Anarchist Approach, Freedom Press, London, 1983
+
+   Reflected in Water: A Crisis of Social Responsibility, Cassel, London,
+   1997.
+
+   Freedom to go: after the motor age, Freedom Press, London, 1991.
+
+   Anarchism: A Very Short Introduction, Oxford University Press, Oxford,
+   2004.
+
+   Cotters and Squatters: Housing's Hidden History, Five Leaves,
+   Nottingham, 2005.
 
    Ward, Colin (ed.), A Decade of Anarchy: Selections from the Monthly
    Journal Anarchy, Freedom , London, 1987.
@@ -981,8 +1172,9 @@
 
    Watson, David, Beyond Bookchin: Preface for a Future Social Ecology,
    Autonomedia/Black and Red/Fifth Estate, USA, 1996.
+
    Against the Megamachine: Essays on Empire and Its Enemies,
-       Autonomedia/Fifth Estate, USA, 1997.
+   Autonomedia/Fifth Estate, USA, 1997.
 
    Weick, David, "Anarchist Justice", pp. 215-36, Anarchism: Nomos XIX, J.
    Roland Pennock and John W. Chapman (eds.), New York University Press,
@@ -991,9 +1183,10 @@
    Weil, Simone, Oppression and Liberty, Routledge, London, 2001.
 
    Wetzel, Tom, The Origins of the Union Shop, available at:
-   http://www.uncanny.net/~wsa/union3.html
+   [43]http://www.uncanny.net/~wsa/union3.html
+
    Workers' Power and the Spanish Revolution, available at:
-       http://www.uncanny.net/~wsa/spain.html
+   [44]http://www.uncanny.net/~wsa/spain.html
 
    Wildcat Group (ed.), Class War on the Home Front: Revolutionary
    Opposition to the Second World War, Wildcat Group, Manchester, 1986.
@@ -1003,6 +1196,7 @@
 
    Wilson, Charlotte, Three Essays on Anarchism, Drowned Rat Publications,
    Cambridge, 1985.
+
    Anarchist Essays , Freedom Press, London, 2000.
 
    Wilson, Robert Anton, Natural Law: or don't put a rubber on your willy,
@@ -1010,8 +1204,11 @@
 
    Woodcock, George, Anarchism: A History of libertarian ideas and
    movements (2nd Edition), Penguin Books, England, 1986.
+
    Pierre-Joseph Proudhon: A Biography, Black Rose Books, Montreal/New
-       York, 1987.
+   York, 1987.
+
+   Anarchy or Chaos, Freedom Press, London, 1944.
 
    Woodcock, G. and Avakumovic, I., The Anarchist Prince, Boardman,
    London, 1950.
@@ -1019,23 +1216,25 @@
    Zerzan, John, Elements of Refusal, Left Bank Books, Seattle, 1988.
 
    On the Transition: Postscript to Future Primitive, available at:
-       http://www.insurgentdesire.org.uk/fp.htm
+   [45]http://www.insurgentdesire.org.uk/fp.htm
 
    Zinn, Howard, A People's History of the United States, 2nd Edition,
    Longman, Essex, 1996.
 
    Failure to Quit: Reflections of an Optimistic Historian, Common Courage
-       Press, Monroe Main, 1993.
-       The Colorado Coal Strike, 1913-14, contained in Three Strikes:
-       Miners, Musicians, Salesgirls, and the Fighting Spirit of Labor's
-       Last Century, Howard Zinn, Dana Frank, Robin D. G. Kelly, Beacon
-       Press, Boston, 2001.
-       The Zinn Reader: Writings on Disobedience and Democracy, Seven
-       Stories Press, New York, 1997.
-       An Interview with Howard Zinn on Anarchism: Rebels Against Tyranny,
-       available at:
-       http://www.revolutionbythebook.akpress.org/an-interview-with-howard
-       -zinn-on-anarchism-rebels-against-tyranny/
+   Press, Monroe Main, 1993.
+
+   The Colorado Coal Strike, 1913-14, contained in Three Strikes: Miners,
+   Musicians, Salesgirls, and the Fighting Spirit of Labor's Last Century,
+   Howard Zinn, Dana Frank, Robin D. G. Kelly, Beacon Press, Boston, 2001.
+
+   The Zinn Reader: Writings on Disobedience and Democracy, Seven Stories
+   Press, New York, 1997.
+
+   An Interview with Howard Zinn on Anarchism: Rebels Against Tyranny,
+   available at:
+   [46]http://www.revolutionbythebook.akpress.org/an-interview-with-howard
+   -zinn...
 
    Zinn, Howard and Arnove, Anthony (eds.), Voices of a People's History
    of the United States, Seven Stories Press, New York, 2004.
@@ -1244,6 +1443,9 @@
    Baran, Paul A. and Sweezy, Paul M., Monopoly Capital, Monthly Press
    Review, New York, 1966.
 
+   Baron, Samuel H., Plekhanov: the Father of Russian Marxism, Routledge &
+   K. Paul, London, 1963
+
    Barry, Brian, "The Continuing Relevance of Socialism", in Thatcherism,
    Robert Skidelsky (ed.), Chatto & Windus, London, 1988.
 
@@ -1253,7 +1455,7 @@
    Beevor, Antony, The Spanish Civil War, Cassell, London, 1999.
 
    The Battle for Spain: The Spanish Civil War 1936-1939, Phoenix, London,
-       2006.
+   2006.
 
    Berghahn, V. R., Modern Germany: society, economy and politics in the
    twentieth century, 2nd ed., Cambridge University Press, Cambridge,
@@ -1278,7 +1480,7 @@
    World War II, 2nd edition, Zed Books, London, 2003.
 
    Rogue State: A Guide to the World's Only Superpower, 3rd edition, Zed
-       Books, London, 2006.
+   Books, London, 2006.
 
    Böhm-Bawerk, Eugen, Capital and Interest, Libertarian Press, South
    Holland, Ill., 1959.
@@ -1290,8 +1492,9 @@
    Evolution, Croom Helm , London, 1985.
 
    Bourne, Randolph, Untimely Papers, B.W. Huebsch, New York, 1919.
+
    War and the Intellectuals: Essays by Randolph S. Bourne 1915-1919,
-       Harper Torchbooks, New York, 1964.
+   Harper Torchbooks, New York, 1964.
 
    Bowles, Samuel and Edwards, Richard (Eds.), Radical Political Economy,
    (two volumes), Edward Elgar Publishing Ltd., Aldershot, 1990.
@@ -1320,9 +1523,10 @@
    University Press, Princeton, N.J, 1994.
 
    The Mensheviks After October: Socialist Opposition and the Rise of the
-       Bolshevik Dictatorship, Cornell University Press, Ithaca, 1987.
-       Russia after Lenin : politics, culture and society, 1921-1929,
-       Routledge, London/New York, 1998
+   Bolshevik Dictatorship, Cornell University Press, Ithaca, 1987.
+
+   Russia after Lenin : politics, culture and society, 1921-1929,
+   Routledge, London/New York, 1998
 
    Brovkin, Vladimir N. (ed.), The Bolsheviks in Russian Society: The
    Revolution and Civil Wars, Yale University Press, New Haven and London,
@@ -1349,28 +1553,34 @@
 
    Chang, Ha-Joon, Kicking Away the Ladder: Development Strategy in
    Historic Perspective, Anthem Press, London, 2002.
+
    Bad samaritans: rich nations, poor policies and the threat to the
-       developing world, Random House Business, London, 2007
+   developing world, Random House Business, London, 2007
 
    Clark, J.B., The Distribution of Wealth: A theory of wages, interest
    and profits, Macmillan, New York, 1927
 
    Cliff, Tony, Lenin: The Revolution Besieged, vol. 3, Pluto Press,
-   London, 1978.
-   Lenin: All Power to the Soviets, vol. 2, Pluto Press, London, 1976.
-       State Capitalism in Russia, Bookmarks, London, 1988.
-       "Trotsky on Substitutionism", contained in Tony Cliff, Duncan
-       Hallas, Chris Harman and Leon Trotsky, Party and Class, Bookmarks,
-       London, 1996.
-       Trotsky, vol. 3, Bookmarks, London, 1991.
-       Revolution Besieged: Lenin 1917-1923, Bookmarks, London, 1987.
+   London, 1978. Lenin: All Power to the Soviets, vol. 2, Pluto Press,
+   London, 1976.
+
+   State Capitalism in Russia, Bookmarks, London, 1988.
+
+   "Trotsky on Substitutionism", contained in Tony Cliff, Duncan Hallas,
+   Chris Harman and Leon Trotsky, Party and Class, Bookmarks, London,
+   1996.
+
+   Trotsky, vol. 3, Bookmarks, London, 1991.
+
+   Revolution Besieged: Lenin 1917-1923, Bookmarks, London, 1987.
 
    Cohen, Stephan F., Bukharin and the Bolshevik Revolution, Oxford
    University Press, London, 1980.
+
    "In Praise of War Communism: Bukharin's The Economics of the Transition
-       Period", pp. 192-203, Revolution and politics in Russia: essays in
-       memory of B.I. Nicolaevsky, Alexander and Janet Rabinowitch with
-       Ladis K.D. Kristof (eds.).
+   Period", pp. 192-203, Revolution and politics in Russia: essays in
+   memory of B.I. Nicolaevsky, Alexander and Janet Rabinowitch with Ladis
+   K.D. Kristof (eds.).
 
    Collins, Joseph and Lear, John, Chile's Free-Market Miracle: A Second
    Look, Institute for Food and Development Policy, Oakland, 1995.
@@ -1383,15 +1593,17 @@
 
    Cowen, Tyler, "Law as a Public Good: The Economics of Anarchy",
    Economics and Philosophy, no. 8 (1992), pp. 249-267.
+
    "Rejoinder to David Friedman on the Economics of Anarchy", Economics
-       and Philosophy, no. 10 (1994), pp. 329-332.
+   and Philosophy, no. 10 (1994), pp. 329-332.
 
    Cowling, Keith, Monopoly Capitalism, MacMillian, London, 1982.
 
    Cowling, Keith and Sugden, Roger, Transnational Monopoly Capitalism,
    Wheatshelf Books, Sussez, 1987.
+
    Beyond Capitalism: Towards a New World Economic Order, Pinter, London,
-       1994.
+   1994.
 
    Curry, Richard O. (ed.), Freedom at Risk: Secrecy, Censorship, and
    Repression in the 1980s, Temple University Press, 1988.
@@ -1447,7 +1659,7 @@
    Monthly Review Press, New York, 1987.
 
    The Myth of Lenin's "Concept of The Party", available at:
-       http://www.marxists.org/archive/draper/works/1990/myth/myth.htm
+   [47]http://www.marxists.org/archive/draper/works/1990/myth/myth.htm
 
    Du Boff, Richard B., Accumulation and Power: an economic history of the
    United States, M.E. Sharpe, London, 1989.
@@ -1469,18 +1681,21 @@
 
    Ellerman, David P., Property and Contract in Economics: The Case for
    Economic Democracy, Blackwell, Oxford, 1992.
+
    The Democratic Worker-Owned Firm: A New Model for East and West, Unwin
-       Hyman, Boston, 1990.
-       as "J. Philmore", The Libertarian Case for Slavery, available at:
-       http://cog.kent.edu/lib/Philmore1/Philmore1.htm
+   Hyman, Boston, 1990.
+
+   as "J. Philmore", The Libertarian Case for Slavery, available at:
+   [48]http://cog.kent.edu/lib/Philmore1/Philmore1.htm
 
    Elliot, Larry and Atkinson, Dan, The Age of Insecurity, Verso, London,
    1998.
 
    Fantasy Island: Waking Up to the Incredible Economic, Political and
-       Social Illusions of the Blair Legacy, Constable, London, 2007.
-       The Gods That Failed: Now the Financial Elite have Gambled Away our
-       Futures, Vintage Books, London, 2009.
+   Social Illusions of the Blair Legacy, Constable, London, 2007.
+
+   The Gods That Failed: Now the Financial Elite have Gambled Away our
+   Futures, Vintage Books, London, 2009.
 
    Engler, Allan, Apostles of Greed: Capitalism and the myth of the
    individual in the market, Pluto Press, London, 1995.
@@ -1504,7 +1719,7 @@
    Jonathan Cape, London, 1996.
 
    Peasant Russia, Civil War: the Volga countryside in revolution
-       1917-1921, Phoenix Press, London, 2001.
+   1917-1921, Phoenix Press, London, 2001.
 
    Flamm, Kenneth, Creating the Computer: Government, Industry, and High
    Technology, The Brookings Institution, Washington D.C., 1988.
@@ -1527,9 +1742,10 @@
    Chicago, 2002.
 
    Economic Freedom, Human Freedom, Political Freedom, available at:
-       http://www.cbe.csueastbay.edu/~sbesc/frlect.html
-       The Hong Kong Experiment, available at:
-       http://www.hoover.org/publications/digest/3532186.html
+   [49]http://www.cbe.csueastbay.edu/~sbesc/frlect.html
+
+   The Hong Kong Experiment, available at:
+   [50]http://www.hoover.org/publications/digest/3532186.html
 
    Funnell, Warrick, Jupe, Robert and Andrew, Jane, In Government we
    Trust: Market Failure and the delusions of privatisation, Pluto Press,
@@ -1545,7 +1761,7 @@
    Company, New York, 2001.
 
    The New Industrial State, 4th edition, Princeton University Press,
-       Princeton and Oxford, 2007.
+   Princeton and Oxford, 2007.
 
    Gemie, Sharif, French Revolutions, 1815-1914, Edinburgh University
    Press, Edinburgh, 1999.
@@ -1554,14 +1770,15 @@
    Cambridge University Press, Cambridge, 1983.
 
    Martov: A Political Biography of a Russian Social Democrat, Melbourne
-       University Press, Carlton, 1967.
-       "Soviets as Agents of Democratisation", in Revolution in Russia:
-       reassessments of 1917, Edith Rogovin Frankel, Jonathan Frankel,
-       Baruch Knei-Paz (eds.), Cambridge University Press, Cambridge/New
-       York, 1991.
-       "Marxist Revolutionaries and the Dilemma of Power", pp. 88-112,
-       Revolution and Politics in Russia, Alexander and Janet Rabinowitch
-       with Ladis K.D. Kristof (eds.)
+   University Press, Carlton, 1967.
+
+   "Soviets as Agents of Democratisation", in Revolution in Russia:
+   reassessments of 1917, Edith Rogovin Frankel, Jonathan Frankel, Baruch
+   Knei-Paz (eds.), Cambridge University Press, Cambridge/New York, 1991.
+
+   "Marxist Revolutionaries and the Dilemma of Power", pp. 88-112,
+   Revolution and Politics in Russia, Alexander and Janet Rabinowitch with
+   Ladis K.D. Kristof (eds.)
 
    Gilmour, Ian, Dancing with Dogma, Britain Under Thatcherism, Simon and
    Schuster, London, 1992.
@@ -1588,7 +1805,7 @@
    Penguin Books, London, 1991.
 
    Bully for Brontosaurus: Reflections in Natural History, Hutchinson
-       Radius, London, 1991.
+   Radius, London, 1991.
 
    Gramsci, Antonio, Selections from Political Writings (1921-1926),
    Lawrence and Wishart, London, 1978.
@@ -1612,16 +1829,18 @@
 
    Hahnel, Robin and Albert, Michael, The Quiet Revolution in Welfare
    Economics, Princeton University Press, Princeton, 1990.
+
    The Political Economu of Participatory Economics, Princeton University
-       Press, Princeton, 1991.
-       Looking Forward: Participatory Economics for the Twenty First
-       Century, South End Press, Boston, 1991.
+   Press, Princeton, 1991.
+
+   Looking Forward: Participatory Economics for the Twenty First Century,
+   South End Press, Boston, 1991.
 
    Hallas, Duncan, The Comintern, Bookmarks, London, 1985.
 
    "Towards a revolutionary socialist party", contained in Tony Cliff,
-       Duncan Hallas, Chris Harman and Leon Trotsky, Party and Class,
-       Bookmarks, London, 1996.
+   Duncan Hallas, Chris Harman and Leon Trotsky, Party and Class,
+   Bookmarks, London, 1996.
 
    Harding, Neil, Leninism, MacMillan Press, London, 1996.
 
@@ -1631,9 +1850,10 @@
    Press, London, 1974.
 
    "Party and Class", contained in Tony Cliff, Duncan Hallas, Chris Harman
-       and Leon Trotsky, Party and Class, Bookmarks, London, 1996,
-       How the revolution was lost available at:
-       http://www.marxists.de/statecap/harman/revlost.htm
+   and Leon Trotsky, Party and Class, Bookmarks, London, 1996,
+
+   How the revolution was lost available at:
+   [51]http://www.marxists.de/statecap/harman/revlost.htm
 
    Hastrup, Kirsten, Culture and History in Medieval Iceland, Clarendon
    Press, Oxford, 1985.
@@ -1652,14 +1872,17 @@
 
    Hayek, F. A. von, The Essence of Hayek, Chiaki Nishiyama and Kurt Leube
    (Eds.), Hoover Institution Press, Stanford, 1984
+
    Individualism and Economic Order, Henry Regnery Company, Chicago, 1948
-       "1980s Unemployment and the Unions" contained in Coates, David and
-       Hillard, John (Eds.), The Economic Decline of Modern Britain: The
-       Debate between Left and Right, Wheatsheaf Books Ltd., 1986.
-       New Studies in Philosophy, Politics, Economics and the History of
-       Ideas, Routledge & Kegan Paul. London/Henley, 1978.
-       Law, Legislation and Liberty, Routledge and Kegan Paul, London,
-       1982.
+
+   "1980s Unemployment and the Unions" contained in Coates, David and
+   Hillard, John (Eds.), The Economic Decline of Modern Britain: The
+   Debate between Left and Right, Wheatsheaf Books Ltd., 1986.
+
+   New Studies in Philosophy, Politics, Economics and the History of
+   Ideas, Routledge & Kegan Paul. London/Henley, 1978.
+
+   Law, Legislation and Liberty, Routledge and Kegan Paul, London, 1982.
 
    Hayek, F. A. von (ed.), Collectivist Economic Planning, Routledge and
    Kegan Paul, London, 1935.
@@ -1677,28 +1900,34 @@
 
    Henwood, Doug, Wall Street: How it works and for whom, Verso, London,
    1998.
+
    "Booming, Borrowing, and Consuming: The US Economy in 1999", Monthly
-       Review, vol. 51, no. 3, July-August 1999, pp.120-33.
-       After the New Economy, The New Press, New York, 2003.
-       Wall Street: Class Racket, available at
-       http://www.panix.com/~dhenwood/WS_Brecht.html
+   Review, vol. 51, no. 3, July-August 1999, pp.120-33.
+
+   After the New Economy, The New Press, New York, 2003.
+
+   Wall Street: Class Racket, available at
+   [52]http://www.panix.com/~dhenwood/WS_Brecht.html
 
    Herbert, Auberon, "Essay X: The Principles Of Voluntaryism And Free
    Life", The Right And Wrong Of Compulsion By The State, And Other
    Essays, available at:
-   http://oll.libertyfund.org/Texts/LFBooks/Herbert0120/CompulsionByState/
-   HTMLs/0146_Pt11_Principles.html
+   [53]http://oll.libertyfund.org/Texts/LFBooks/Herbert0120/CompulsionBySt
+   ate/H...
 
    "Essay III: A Politician In Sight Of Haven", The Right And Wrong Of
-       Compulsion By The State, And Other Essays, available at:
-       http://oll.libertyfund.org/Texts/LFBooks/Herbert0120/CompulsionBySt
-       ate/HTMLs/0146_Pt04_Politician.html
+   Compulsion By The State, And Other Essays, available at:
+   [54]http://oll.libertyfund.org/Texts/LFBooks/Herbert0120/CompulsionBySt
+   ate/H...
 
    Herman, Edward S., Beyond Hypocrisy, South End Press, Boston, 1992.
+
    Corporate Control, Corporate Power, Cambridge University Press,
-       Cambridge, 1981.
-       "Immiserating Growth: The First World", Z Magazine, January, 1994.
-       "The Economics of the Rich", Z Magazine, July, 1997
+   Cambridge, 1981.
+
+   "Immiserating Growth: The First World", Z Magazine, January, 1994.
+
+   "The Economics of the Rich", Z Magazine, July, 1997
 
    Herman, Edward S. and Chomsky, Noam, Manufacturing Consent: the
    political economy of the mass media, Pantheon Books, New York, 1988.
@@ -1721,7 +1950,8 @@
 
    Hodgskin, Thomas, Labour Defended against the Claims of Capital,
    available at:
-   http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/hodgskin/labdef.txt
+   [55]http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/hodgskin/labdef.
+   txt
 
    Hollis, Martin and Edward Nell, Rational Economic Man: A Philosophical
    Critique of Neo-classic Economics, Cambridge University Press, London,
@@ -1732,8 +1962,9 @@
 
    Hoppe, Hans-Hermann, Democracy: The God That Failed: The Economics and
    Politics of Monarchy, Democracy, and Natural Order, Transaction, 2001.
+
    Anarcho-Capitalism: An Annotated Bibliography, available at:
-       http://www.lewrockwell.com/hoppe/hoppe5.html
+   [56]http://www.lewrockwell.com/hoppe/hoppe5.html
 
    Holt, Richard P. F. and Pressman, Steven (eds.), A New Guide to Post
    Keynesian Economics, Routledge, London, 2001.
@@ -1749,24 +1980,27 @@
    global capitalism, Jonathan Cape, London, 2000.
 
    ISG, Discussion Document of Ex-SWP Comrades, available at:
-   http://www.angelfire.com/journal/iso/isg.html
+   [57]http://www.angelfire.com/journal/iso/isg.html
 
    Lenin vs. the SWP: Bureaucratic Centralism Or Democratic Centralism?,
-       available at: http://www.angelfire.com/journal/iso/swp.html
+   available at: [58]http://www.angelfire.com/journal/iso/swp.html
 
    Jackson, Gabriel, The Spanish Republic and the Civil War, 1931-1939,
    Princeton University Press, Princeton, 1965.
+
+   Jackson, J. Hampden, Marx, Proudhon and European Socialism, English
+   Universities Press, London, 1957.
 
    Johnson, Martin Phillip, The Paradise of Association: Political Culture
    and Popular Organisation in the Paris Commune of 1871, University of
    Michigan Press, Ann Arbor, 1996
 
    Kaldor, Nicholas, Further Essays on Applied Economics, Duckworth,
-   London, 1978.
-   The Essential Kaldor, F. Targetti and A.P. Thirlwall (eds.), Holmes &
-       Meier, New York, 1989.
-       The Economic Consequences of Mrs Thatcher, Gerald Duckworth and Co.
-       Ltd, London, 1983.
+   London, 1978. The Essential Kaldor, F. Targetti and A.P. Thirlwall
+   (eds.), Holmes & Meier, New York, 1989.
+
+   The Economic Consequences of Mrs Thatcher, Gerald Duckworth and Co.
+   Ltd, London, 1983.
 
    Kaplan, Frederick I., Bolshevik Ideology and the Ethics of Soviet
    Labour, 1917-1920: The Formative Years, Peter Owen, London, 1969.
@@ -1798,14 +2032,13 @@
 
    Kirzner, Israel M., "Entrepreneurship, Entitlement, and Economic
    Justice", pp. 385-413, in Reading Nozick: Essays on Anarchy, State and
-   Utopia, Jeffrey Paul (ed.), Basil Blackwell, Oxford, 1982.
-   Perception, Opportunity, and Profit, University of Chicago Press,
-       Chicago, 1979.
+   Utopia, Jeffrey Paul (ed.), Basil Blackwell, Oxford, 1982. Perception,
+   Opportunity, and Profit, University of Chicago Press, Chicago, 1979.
 
    Klein, Naomi, No Logo, Flamingo, London, 2001.
 
    Fences and Windows: Dispatches from the front lines of the
-       Globalisation Debate, Flamingo, London, 2002.
+   Globalisation Debate, Flamingo, London, 2002.
 
    Koenker, Diane P., "Labour Relations in Socialist Russia: Class Values
    and Production Values in the Printers' Union, 1917-1921," pp. 159-193,
@@ -1819,14 +2052,15 @@
 
    Kohn, Alfie, No Contest: The Case Against Competition, Houghton Mufflin
    Co., New York, 1992.
+
    Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's,
-       Praise and Other Bribes, Houghton Mifflin Company, Boston, 1993.
+   Praise and Other Bribes, Houghton Mifflin Company, Boston, 1993.
 
    Kollontai, Alexandra, The Workers Opposition, Solidarity, London, date
    unknown.
 
    Selected Writings of Alexandra Kollontai, Allison and Busby, London,
-       1977.
+   1977.
 
    Kowalski, Ronald I., The Bolshevik Party in Conflict: the left
    communist opposition of 1918, Macmillan, Basingstoke, 1990.
@@ -1849,7 +2083,7 @@
    Heineman Educational Books, London, 1966.
 
    Capital in the American Economy, Princeton University Press, New York,
-       1961.
+   1961.
 
    Lange, Oskar and Taylor, Fred M., On the Economic Theory of Socialism,
    Benjamin Lippincott (ed.), University of Minnesota Press, New York,
@@ -1860,10 +2094,15 @@
 
    Lazonick, William, Business Organisation and the Myth of the Market
    Economy, Cambridge University Press, Cambridge, 1991.
+
    Competitive Advantage on the Shop Floor, Havard University Press,
-       Cambridge, Mass., 1990.
-       Organisation and Technology in Capitalist Development, Edward
-       Elgar, Brookfield, Vt, 1992.
+   Cambridge, Mass., 1990.
+
+   Organisation and Technology in Capitalist Development, Edward Elgar,
+   Brookfield, Vt, 1992.
+
+   Lea, John and Pilling, Geoff (eds.), The condition of Britain: Essays
+   on Frederick Engels, Pluto Press, London, 1996.
 
    Lear, John, Workers, Neighbors, and Citizens: The Revolution in Mexico
    City, University of Nebraska Press, Lincoln, 2001.
@@ -1876,21 +2115,27 @@
 
    Lenin, V. I., Essential Works of Lenin, Henry M. Christman (ed.),
    Bantam Books, New York, 1966.
+
    The Lenin Anthology, Robert C. Tucker (ed.), W.W. Norton & Company, New
-       York, 1975.
-       Will the Bolsheviks Maintain Power?, Sutton Publishing Ltd, Stroud,
-       1997.
-       Left-wing Communism: An Infantile Disorder, Lawrence & Wishart,
-       London, 1947.
-       The Immediate Tasks of the Soviet Government, Progress Publishers,
-       Moscow, 1970.
-       Six Thesis on the Immediate Tasks of the Soviet Government,
-       contained in The Immediate Tasks of the Soviet Government, Progress
-       Publishers, Moscow, 1970, pp. 42-45.
-       The Threatening Catastrophe and How to Avoid It, Martin Lawrence
-       Ltd., undated.
-       Selected Works: In Three Volumes, Progress Publishers, Moscow,
-       1975.
+   York, 1975.
+
+   Will the Bolsheviks Maintain Power?, Sutton Publishing Ltd, Stroud,
+   1997.
+
+   Left-wing Communism: An Infantile Disorder, Lawrence & Wishart, London,
+   1947.
+
+   The Immediate Tasks of the Soviet Government, Progress Publishers,
+   Moscow, 1970.
+
+   Six Thesis on the Immediate Tasks of the Soviet Government, contained
+   in The Immediate Tasks of the Soviet Government, Progress Publishers,
+   Moscow, 1970, pp. 42-45.
+
+   The Threatening Catastrophe and How to Avoid It, Martin Lawrence Ltd.,
+   undated.
+
+   Selected Works: In Three Volumes, Progress Publishers, Moscow, 1975.
 
    Lenin, V. I., and Trotsky, Leon, Kronstadt, Monad Press, New York,
    1986.
@@ -1901,6 +2146,10 @@
    Lichtenstein, Nelson and Howell, John Harris (eds.), Industrial
    Democracy in America: The Ambiguous Promise, Cambridge University
    Press, Cambridge, 1992
+
+   Lichtheim, George, The origins of socialism, Weidenfeld & Nicolson,
+   London, 1969 A short history of socialism, Weidenfeld & Nicolson,
+   London, 1970
 
    List, Friedrich, The Natural System of Political Economy, Frank Cass,
    London, 1983.
@@ -1937,23 +2186,29 @@
    Books, London, 1976.
 
    Capital: A Critique of Political Economy, vol. 3, Penguin Books,
-       London, 1981.
-       Theories of Surplus Value, vol. 3, Progress Publishers, Moscow,
-       1971.
-       A Contribution to the Critique of Political Economy, Progress
-       Publishers, Moscow, 1970.
+   London, 1981.
+
+   Theories of Surplus Value, vol. 3, Progress Publishers, Moscow, 1971.
+
+   A Contribution to the Critique of Political Economy, Progress
+   Publishers, Moscow, 1970.
 
    Marx, Karl and Engels, Frederick, Selected Works, Progress Publishers,
    Moscow, 1975.
+
    The Marx-Engels Reader, Second Edition, Robert C. Tucker (ed.), W.W.
-       Norton & Co, London & New York, 1978.
-       The socialist revolution, F. Teplov and V. Davydov (eds.) Progess,
-       Moscow, 1978.
-       Basic Writings on Politics and Philosophy, Lewis S. Feuer (ed.),
-       Fontana/Collins, Aylesbury, 1984.
-       "Manifesto of the Communist Party", Selected Works, pp. 31-63.
-       Fictitious Splits In The International, available at:
-       http://www.marxists.org/archive/marx/works/1864iwma/1872-e.htm
+   Norton & Co, London & New York, 1978.
+
+   The socialist revolution, F. Teplov and V. Davydov (eds.) Progess,
+   Moscow, 1978.
+
+   Basic Writings on Politics and Philosophy, Lewis S. Feuer (ed.),
+   Fontana/Collins, Aylesbury, 1984.
+
+   "Manifesto of the Communist Party", Selected Works, pp. 31-63.
+
+   Fictitious Splits In The International, available at:
+   [59]http://www.marxists.org/archive/marx/works/1864iwma/1872-e.htm
 
    Marx, Karl, Engels, Federick and Lenin, V.I., Anarchism and
    Anarcho-Syndicalism, Progress Publishers, Moscow, 1974.
@@ -1965,7 +2220,7 @@
    1917-1922, Clarendon Press, Oxford, 1991.
 
    McElroy, Wendy, Anarchism: Two Kinds, available at:
-   http://www.wendymcelroy.com/mises/twoanarchism.html
+   [60]http://www.wendymcelroy.com/mises/twoanarchism.html
 
    McLay, Farguhar (ed.), Workers City: The Real Glasgow Stands Up,
    Clydeside Press, Glasgow, 1988.
@@ -1974,7 +2229,7 @@
    and the Marxist Critique, Verso, London, 1993.
 
    Another World Is Possible: Globalization & Anti-Capitalism, Revised
-       Expanded Edition, Merlin, 2006.
+   Expanded Edition, Merlin, 2006.
 
    Mehring, Franz, Karl Marx: The Story of his life, John Lane, London,
    1936.
@@ -1984,11 +2239,12 @@
 
    Mill, John Stuart, Principles of Political Economy, Oxford University
    Press, Oxford, 1994.
+
    On Liberty and Other Essays, Oxford University Press, Oxford, 1991.
 
-   Miller, David, Social Justice, Clarendon Press, Oxford, 1976.
-   Market, State, and community: theoretical foundations of market
-       socialism, Clarendon, Oxford, 1989.
+   Miller, David, Social Justice, Clarendon Press, Oxford, 1976. Market,
+   State, and community: theoretical foundations of market socialism,
+   Clarendon, Oxford, 1989.
 
    Miller, William Ian, Bloodtaking and Peacemaking: Feud, Law and Society
    in Saga Iceland, University of Chicago Press, Chicago, 1990.
@@ -2000,16 +2256,18 @@
 
    Minsky, Hyman, Inflation, Recession and Economic Policy, Wheatsheaf
    Books, Sussex, 1982.
+
    "The Financial Instability Hypothesis" in Post-Keynesian Economic
-       Theory, pp. 24-55, Arestis, Philip and Skouras, Thanos (eds.),
-       Wheatsheaf Books, Sussex, 1985.
+   Theory, pp. 24-55, Arestis, Philip and Skouras, Thanos (eds.),
+   Wheatsheaf Books, Sussex, 1985.
 
    Mises, Ludwig von, Liberalism: A Socio-Economic Exposition, Sheed
    Andres and McMeek Inc., Kansas City, 1978.
+
    Human Action: A Treatise on Economics, William Hodge and Company Ltd.,
-       London, 1949.
-       Socialism: an economic and sociological analysis, Cape, London,
-       1951.
+   London, 1949.
+
+   Socialism: an economic and sociological analysis, Cape, London, 1951.
 
    Montagu, Ashley, The Nature of Human Aggression, Oxford University
    Press, Oxford, 1978.
@@ -2018,8 +2276,8 @@
    1862-1872, Vintage Books, New York, 1967.
 
    The Fall of the House of Labour: The Workplace, the state, and American
-       labour activism, 1865-1925, Cambridge University Press, Cambridge,
-       1987.
+   labour activism, 1865-1925, Cambridge University Press, Cambridge,
+   1987.
 
    Moore, Michael, Downsize This! Random Threats from an Unarmed America,
    Boxtree, London, 1997.
@@ -2040,10 +2298,12 @@
 
    Noble, David, America by Design: Science, technology, and the rise of
    corporate capitalism, Oxford University Press, Oxford, 1979.
+
    Progress without People: In defense of Luddism, Charles H. Kerr
-       Publishing Ltd., Chicago, 1993.
-       Forces of Production: A Social History of Industrial Automation,
-       Oxford University Press, New York, 1984.
+   Publishing Ltd., Chicago, 1993.
+
+   Forces of Production: A Social History of Industrial Automation, Oxford
+   University Press, New York, 1984.
 
    Nove, Alec, An economic history of the USSR: 1917-1991, 3rd ed.,
    Penguin, Harmondsworth, 1992.
@@ -2061,8 +2321,9 @@
    2007.
 
    The market: ethics, knowledge, and politics, Routledge, London, 1998.
-       Ecology, policy, and politics: human well-being and the natural
-       world, Routledge, London/New York, 1993.
+
+   Ecology, policy, and politics: human well-being and the natural world,
+   Routledge, London/New York, 1993.
 
    Oppenheimer, Franz, The State, Free Life Editions, New York, 1975.
 
@@ -2070,11 +2331,14 @@
    1994.
 
    Orwell, George, Homage to Catalonia, Penguin, London, 1989.
+
    The Road to Wigan Pier, Penguin, London, 1954.
-       Nineteen Eighty-Four, Penguin, Middlesex, 1982.
-       Orwell in Spain, Penguin Books, London, 2001.
-       Inside the Whale and Other Essays, Penguin Books, Harmondsworth,
-       1986.
+
+   Nineteen Eighty-Four, Penguin, Middlesex, 1982.
+
+   Orwell in Spain, Penguin Books, London, 2001.
+
+   Inside the Whale and Other Essays, Penguin Books, Harmondsworth, 1986.
 
    Pagano, U. and Rowthorn, R. E. (eds.), Democracy and Efficiency in
    Economic Enterprises, Routledge, London, 1996.
@@ -2123,13 +2387,15 @@
    1991.
 
    The Bolsheviks Come to Power: The Revolution of 1917 in Petrograd, W.W.
-       Norton & Co., New York, 1976.
-       The Bolsheviks in Power: The first year of Soviet rule in
-       Petrograd, Indiana University Press, Bloomington, 2007.
-       "Early Disenchantment with Bolshevik Rule: New Data form the
-       Archives of the Extraordinary Assembly of Delegates from Petrograd
-       Factories", Politics and Society under the Bolsheviks, Dermott,
-       Kevin and Morison, John (eds.), Macmillan, Basingstoke, 1999.
+   Norton & Co., New York, 1976.
+
+   The Bolsheviks in Power: The first year of Soviet rule in Petrograd,
+   Indiana University Press, Bloomington, 2007.
+
+   "Early Disenchantment with Bolshevik Rule: New Data form the Archives
+   of the Extraordinary Assembly of Delegates from Petrograd Factories",
+   Politics and Society under the Bolsheviks, Dermott, Kevin and Morison,
+   John (eds.), Macmillan, Basingstoke, 1999.
 
    Rabinowitch, Alexander and Janet with Kristof, Ladis K.D. (eds.),
    Revolution and politics in Russia: essays in memory of B.I.
@@ -2148,9 +2414,11 @@
 
    Rand, Ayn, Capitalism: The Unknown Ideal, New American Library, New
    York, 1966.
+
    The Ayn Rand Lexicon: Objectivism from A to Z, Harry Binswanger (ed.),
-       Meridian, New York, 1986.
-       The Virtue of Selfishness, New American Library, New York, 1964.
+   Meridian, New York, 1986.
+
+   The Virtue of Selfishness, New American Library, New York, 1964.
 
    Ransome, Arthur, The Crisis in Russia 1920, Redwords, London, 1992.
 
@@ -2163,7 +2431,7 @@
    Reed, John, Ten Days that shook the World, Penguin Books, 1982.
 
    Shaking the World: John Reed's revolutionary journalism, Bookmarks,
-       London, 1998.
+   London, 1998.
 
    Reekie, W. Duncan, Markets, Entrepreneurs and Liberty: An Austrian View
    of Capitalism, Wheatsheaf Books Ltd., Sussex, 1984.
@@ -2198,13 +2466,16 @@
 
    Robinson, Joan, The Accumulation of Capital (2nd Edition), MacMillan,
    St. Martin's Press, 1965.
+
    Contributions to Modern Economics, Basil Blackwell, Oxford, 1978.
-       Collected Economic Papers, vol. 4, Basil Blackwell, Oxford, 1973.
-       Collected Economic Papers, vol. 5, Basil Blackwell, Oxford, 1979.
+
+   Collected Economic Papers, vol. 4, Basil Blackwell, Oxford, 1973.
+
+   Collected Economic Papers, vol. 5, Basil Blackwell, Oxford, 1979.
 
    Rodrik, Dani, Comments on 'Trade, Growth, and Poverty by D. Dollar and
    A. Kraay, available at:
-   http://ksghome.harvard.edu/~drodrik/Rodrik%20on%20Dollar-Kraay.PDF
+   [61]http://ksghome.harvard.edu/~drodrik/Rodrik%20on%20Dollar-Kraay.PDF
 
    Rollins, L.A., The Myth of Natural Rights, Loompanics Unlimited, Port
    Townsend, 1983.
@@ -2217,52 +2488,68 @@
    Cambridge University Press, Cambridge, 1987.
 
    "Workers' Control on the Railroads and Some Suggestions Concerning
-       Social Aspects of Labour Politics in the Russian Revolution", pp.
-       D1181-D1219, The Journal of Modern History, vol. 49, no. 2.
+   Social Aspects of Labour Politics in the Russian Revolution", pp.
+   D1181-D1219, The Journal of Modern History, vol. 49, no. 2.
+
+   Rosmer, Alfred, Lenin's Moscow, Bookmarks, London, 1987.
 
    Rosnick, David and Weisbrot, Mark, Are Shorter Work Hours Good for the
    Environment? A Comparison of U.S. and European Energy Consumption,
    available at:
-   http://www.cepr.net/documents/publications/energy_2006_12.pdf
+   [62]http://www.cepr.net/documents/publications/energy_2006_12.pdf
 
    Rothbard, Murray N., The Ethics of Liberty, Humanities Press, Atlantic
    Highlands, N.J., 1982.
+
    For a New Liberty, MacMillan, New York, 1973.
-       "Praxeology: The Methodology of Austrian Economics" in The
-       Foundation of Modern Austrian Economics, pp. 19-39, Dolan, Edwin G.
-       (ed.), Sheed & Ward, Inc., Kansas, 1976.
-       Egalitarianism as a Revolt against Nature and Other Essays,
-       Libertarian Press Review, 1974.
-       "Nations by Consent: Decomposing the Nation-State," in Secession,
-       State and Liberty, David Gordon (ed.), Transaction Publishers, New
-       Brunswick, 1998.
-       Power and Market, Institute for Humane Studies, Menlo Park, 1970.
-       Man, Economy, and State, with Power and Market, Ludwig von Mises
-       Institute, Auburn, 2004.
-       "Society Without A State", pp. 191-207, Anarchism: Nomos XIX, J.
-       Roland Pennock and John W. Chapman (eds.), New York University
-       Press, New York, 1978.
-       America's great depression, Van Nostrand, Princeton/London, 1963.
-       Conceived in Liberty (in four volumes), Arlington House Publishers,
-       New Rochell, 1975.
-       The Logic of Action II: Applications and Criticism from the
-       Austrian School, Edward Elgar, Cheltenham/Lyme, 1997.
-       Classical Economics: An Austrian Perspective on the History of
-       Economic Thought, Edward Elgar, Brookfield, 1995.
-       Konkin on Libertarian Strategy, available at:
-       http://www.anthonyflood.com/rothbardkonkin.htm
-       Are Libertarians Anarchists?, available at:
-       http://www.lewrockwell.com/rothbard/rothbard167.html
+
+   "Praxeology: The Methodology of Austrian Economics" in The Foundation
+   of Modern Austrian Economics, pp. 19-39, Dolan, Edwin G. (ed.), Sheed &
+   Ward, Inc., Kansas, 1976.
+
+   Egalitarianism as a Revolt against Nature and Other Essays, Libertarian
+   Press Review, 1974.
+
+   "Nations by Consent: Decomposing the Nation-State," in Secession, State
+   and Liberty, David Gordon (ed.), Transaction Publishers, New Brunswick,
+   1998.
+
+   Power and Market, Institute for Humane Studies, Menlo Park, 1970.
+
+   Man, Economy, and State, with Power and Market, Ludwig von Mises
+   Institute, Auburn, 2004.
+
+   "Society Without A State", pp. 191-207, Anarchism: Nomos XIX, J. Roland
+   Pennock and John W. Chapman (eds.), New York University Press, New
+   York, 1978.
+
+   America's great depression, Van Nostrand, Princeton/London, 1963.
+
+   Conceived in Liberty (in four volumes), Arlington House Publishers, New
+   Rochell, 1975.
+
+   The Logic of Action II: Applications and Criticism from the Austrian
+   School, Edward Elgar, Cheltenham/Lyme, 1997.
+
+   Classical Economics: An Austrian Perspective on the History of Economic
+   Thought, Edward Elgar, Brookfield, 1995.
+
+   Konkin on Libertarian Strategy, available at:
+   [63]http://www.anthonyflood.com/rothbardkonkin.htm
+
+   Are Libertarian's `Anarchists'?, available at:
+   [64]http://www.lewrockwell.com/rothbard/rothbard167.html
 
    Rousseau, J-J, The Social Contract and Discourses, Everyman, London,
    1996.
 
    Rowbotham, Sheila, Hidden from History: 300 Years of Women's Oppression
    and the fight against it, Pluto Press, London, 1977.
+
    "Edward Carpenter: Prophet of the New Life", Rowbotham, Sheila and
-       Weeks, Jeffrey, Socialism and the New Life: The Personal and Sexual
-       Politics of Edward Carpenter and Havelock Ellis, Pluto Press,
-       London 1977.
+   Weeks, Jeffrey, Socialism and the New Life: The Personal and Sexual
+   Politics of Edward Carpenter and Havelock Ellis, Pluto Press, London
+   1977.
 
    RSDLP, Minutes of the Second Congress of the RSDLP, New Park
    Publications, London, 1978.
@@ -2275,8 +2562,9 @@
 
    Sawyer, Malcolm C., The Economics of Michal Kalecki, MacMillan,
    Basingstoke, 1985.
+
    The Economics of Industries and Firms: theories, evidence and policy
-       (2nd ed.), Croom Helm, London, 1985.
+   (2nd ed.), Croom Helm, London, 1985.
 
    Schapiro, Leonard, The Origin of the Communist Autocracy: Political
    Opposition in the Soviet State: The First Phase, 1917-1922, Frederick
@@ -2302,10 +2590,12 @@
 
    Schweickart, David Against Capitalism, Cambridge, Cambridge University
    Press, 1993.
+
    After Capitalism, Rowman & Littlefield Publishers, inc., Lanham, 2002.
 
    Sen, Amartya, Resources, Values and Development, Basil Blackwell,
    Oxford, 1984.
+
    Development as Freedom, Oxford University Press, Oxford, 1999.
 
    Senior, Nassau, An Outline of the Science of Political Economy, Alan &
@@ -2315,11 +2605,13 @@
    Press, Oxford, 1963.
 
    Revolution in Danger: Writings from Russia, 1919-1921, Redwords,
-       London, 1997.
-       Year One of the Russian Revolution, Bookmarks, Pluto Press and
-       Writers and Readers, London/New York, 1992.
-       The Serge-Trotsky Papers, D. J. Cotterill (ed.), Pluto Press,
-       London, 1994
+   London, 1997.
+
+   Year One of the Russian Revolution, Bookmarks, Pluto Press and Writers
+   and Readers, London/New York, 1992.
+
+   The Serge-Trotsky Papers, D. J. Cotterill (ed.), Pluto Press, London,
+   1994
 
    Service, Robert, The Bolshevik Party in Revolution: A Study of
    Organisational change, Macmillan, London, 1979.
@@ -2340,16 +2632,17 @@
    Edition, Oxford University Press, 1989.
 
    Smith, Adam, The Wealth of Nations, Everyman's Library, London, 1991.
+
    The Wealth of Nations, book 5, contained in An Inquiry into the Nature
-       and Causes of the Wealth of Nations: A Selected Edition, Oxford
-       University Press, Oxford/New York, 1998.
+   and Causes of the Wealth of Nations: A Selected Edition, Oxford
+   University Press, Oxford/New York, 1998.
 
    Smith, S.A., Red Petrograd: Revolution in the Factories 1917-1918,
    Cambridge University Press, Cambridge, 1983.
 
    Solvason, Birgir T. Runolfsson, Ordered Anarchy, State and
    Rent-seeking: The Iceland Commonwealth, 930-1262, available at
-   http://www.hag.hi.is/~bthru/ritgerd.htm
+   [65]http://www.hag.hi.is/~bthru/ritgerd.htm
 
    Sorel, Georges, Reflections on Violence, Cambridge University Press,
    Cambridge, 1999.
@@ -2374,6 +2667,7 @@
 
    Stewart, Michael, Keynes in the 1990s: A Return to Economic Sanity,
    Penguin Books, London, 1993.
+
    Keynes and After, 3rd edition, Penguin Books, London, 1987.
 
    Stiglitz, Joseph, Globalisation and its Discontents, Penguin Books,
@@ -2381,6 +2675,9 @@
 
    Stretton, Hugh, Economics: A New Introduction, Pluto Press, London,
    2000.
+
+   Suny, Ronald Grigor (ed.), The Structure of Soviet History: Essays and
+   Documents, Oxford University Press, Oxford, 2003
 
    Swain, Geoffrey, The Origins of the Russian Civil War, Longman,
    London/New York, 1996.
@@ -2408,6 +2705,7 @@
 
    Thompson, E.P., The Making of the English Working Class, Penguin Books,
    London, 1991.
+
    Customs in Common, Penguin Books, London, 1993.
 
    Thompson, Noel, The Real Rights of Man: Political Economies for the
@@ -2420,60 +2718,95 @@
    Gollancz and Sphere Books, London, 1967.
 
    Writings of Leon Trotsky: Supplement (1934-40), Pathfinder Press, New
-       York, 1979.
-       Writings 1936-37, Pathfinder Press, New York, 1978.
-       Terrorism and Communism, Ann Arbor, 1961.
-       The Revolution Betrayed: What is the Soviet Union and where is it
-       going?, Faber and Faber Ltd, London, 1937.
-       Leon Trotsky Speaks, Pathfinder, New York, 1972.
-       How the Revolution Armed: the military writings and speeches of
-       Leon Trotsky, vol. 1, New Park Publications, London, 1979.
-       How the Revolution Armed: the military writings and speeches of
-       Leon Trotsky, vol. II, New Park Publications, London, 1979.
-       How the Revolution Armed: the military writings and speeches of
-       Leon Trotsky, vol. IV, New Park Publications, London, 1979.
-       Stalin: An Appraisal of the man and his influence, in two volumes,
-       Panther History, London, 1969.
-       The Death Agony of Capitalism and the Tasks of the Fourth
-       International, contained in How Solidarity can change the world,
-       Alliance for Workers' Liberty, London, 1998.
-       First Year Years of the Communist International, (in 2 volumes),
-       New Park Publications, London, 1974.
-       The Third International After Lenin, Pioneer Publishers, New York,
-       1957.
-       The Challenge of the Left Opposition (1923-25), Pathfinder Press,
-       New York, 1975.
-       The Challenge of the Left Opposition (1926-27), Pathfinder, New
-       York, 1980.
-       On Lenin: Notes towards a Biography, George G. Harrap & Co. Ltd.,
-       London, 1971.
-       "Lessons of October", pp. 113-177, The Essential Trotsky, Unwin
-       Books, London, 1963.
-       Leon Trotsky on China, Monad Press, New York, 2002
-       In Defense of Marxism, Pathfinder, New York, 1995.
-       Writings 1936-37, Pathfinder Press, New York, 2002.
-       Platform of the Opposition, available at:
-       http://www.marxists.org/archive/trotsky/works/1927-plo/ch01.htm
-       The Lessons of October, available at:
-       http://www.marxists.org/archive/trotsky/works/1924-les.htm
-       How Did Stalin Defeat the Opposition?, available at:
-       http://www.marxists.org/archive/trotsky/works/1935-sta.htm
-       Work, Discipline, Order, available at:
-       http://www.marxists.org/archive/trotsky/works/1918-mil/ch05.htm
-       More Equality! available at:
-       http://www.marxists.org/archive/trotsky/works/1919-mil/ch12.htm
-       The Revolution Betrayed, available at:
-       http://www.marxists.org/archive/trotsky/works/1936-rev/index.htm
-       The Class Nature of the Soviet State, available at:
-       http://www.marxists.org/archive/trotsky/works/sovstate.htm
-       The Path of the Red Army, available at:
-       http://www.marxists.org/archive/trotsky/works/1918-mil/ch02.htm
-       The Moralists and Sycophants against Marxism, contained in Their
-       Morals and Ours, pp. 53-66, Pathfinder, New York, 1973.
-       The Makhno Movement, available at:
-       http://www.marxists.org/archive/trotsky/works/1919-mil/ch49.htm
-       Stalinism and Bolshevism, available at:
-       http://www.marxists.org/archive/trotsky/works/1937/1937-sta.htm
+   York, 1979.
+
+   Writings 1936-37, Pathfinder Press, New York, 1978.
+
+   Writings 1933-34, Pathfinder Press, New York, 2003.
+
+   Writings 1932, Pathfinder Press, New York, 1999.
+
+   Writings 1930-31, Pathfinder Press, New York, 2002.
+
+   Writings 1930, Pathfinder Press, New York, 2003.
+
+   Terrorism and Communism, Ann Arbor, 1961.
+
+   The Revolution Betrayed: What is the Soviet Union and where is it
+   going?, Faber and Faber Ltd, London, 1937.
+
+   Leon Trotsky Speaks, Pathfinder, New York, 1972.
+
+   How the Revolution Armed: the military writings and speeches of Leon
+   Trotsky, vol. 1, New Park Publications, London, 1979.
+
+   How the Revolution Armed: the military writings and speeches of Leon
+   Trotsky, vol. II, New Park Publications, London, 1979.
+
+   How the Revolution Armed: the military writings and speeches of Leon
+   Trotsky, vol. IV, New Park Publications, London, 1979.
+
+   Stalin: An Appraisal of the man and his influence, in two volumes,
+   Panther History, London, 1969.
+
+   The Death Agony of Capitalism and the Tasks of the Fourth
+   International, contained in How Solidarity can change the world,
+   Alliance for Workers' Liberty, London, 1998.
+
+   First Year Years of the Communist International, (in 2 volumes), New
+   Park Publications, London, 1974.
+
+   The Third International After Lenin, Pioneer Publishers, New York,
+   1957.
+
+   The Challenge of the Left Opposition (1923-25), Pathfinder Press, New
+   York, 1975.
+
+   The Challenge of the Left Opposition (1926-27), Pathfinder, New York,
+   1980.
+
+   On Lenin: Notes towards a Biography, George G. Harrap & Co. Ltd.,
+   London, 1971.
+
+   "Lessons of October", pp. 113-177, The Essential Trotsky, Unwin Books,
+   London, 1963.
+
+   Leon Trotsky on China, Monad Press, New York, 2002
+
+   In Defense of Marxism, Pathfinder, New York, 1995.
+
+   Platform of the Opposition, available at:
+   [66]http://www.marxists.org/archive/trotsky/works/1927-plo/ch01.htm
+
+   The Lessons of October, available at:
+   [67]http://www.marxists.org/archive/trotsky/works/1924-les.htm
+
+   How Did Stalin Defeat the Opposition?, available at:
+   [68]http://www.marxists.org/archive/trotsky/works/1935-sta.htm
+
+   Work, Discipline, Order, available at:
+   [69]http://www.marxists.org/archive/trotsky/works/1918-mil/ch05.htm
+
+   More Equality! available at:
+   [70]http://www.marxists.org/archive/trotsky/works/1919-mil/ch12.htm
+
+   The Revolution Betrayed, available at:
+   [71]http://www.marxists.org/archive/trotsky/works/1936-rev/index.htm
+
+   The Class Nature of the Soviet State, available at:
+   [72]http://www.marxists.org/archive/trotsky/works/sovstate.htm
+
+   The Path of the Red Army, available at:
+   [73]http://www.marxists.org/archive/trotsky/works/1918-mil/ch02.htm
+
+   The Moralists and Sycophants against Marxism, contained in Their Morals
+   and Ours, pp. 53-66, Pathfinder, New York, 1973.
+
+   The Makhno Movement, available at:
+   [74]http://www.marxists.org/archive/trotsky/works/1919-mil/ch49.htm
+
+   Stalinism and Bolshevism, available at:
+   [75]http://www.marxists.org/archive/trotsky/works/1937/1937-sta.htm
 
    Turner, Adai, Just Capital: The Liberal Economy, Pan Books, London,
    2002.
@@ -2486,10 +2819,11 @@
    Princeton, 1990.
 
    Walford, George, George Walford on Anarcho-Capitalism, available at
-   http://flag.blackened.net/liberty/walford-on-anarcap.html
+   [76]http://flag.blackened.net/liberty/walford-on-anarcap.html
 
    Wallerstein, Immanuel, Geopolitics and Geoculture, Cambridge University
    Press, Cambridge, 1991.
+
    The Capitalist World System (vol. 1),
 
    Walras, L, Elements of Pure Political Economy, Allen and Unwin, London,
@@ -2507,21 +2841,21 @@
    Published, 1990.
 
    Weisbrot, Mark, Globalisation for Whom?, available at:
-   http://www.cepr.net/Globalization.html
+   [77]http://www.cepr.net/Globalization.html
 
    Weisbrot, Mark, Baker, Dean, Kraev, Egor and Chen, Judy, The Scorecard
    on Globalization 1980-2000: Twenty Years of Diminished Progress,
    available at:
-   http://www.cepr.net/publications/globalization_2001_07_11.htm
+   [78]http://www.cepr.net/publications/globalization_2001_07_11.htm
 
    Weisbrot, Mark, Baker, Dean, Naiman, Robert and Neta, Gila, Growth May
    Be Good for the Poor -- But are IMF and World Bank Policies Good for
    Growth? available at:
-   http://www.cepr.net/publications/econ_growth_2001_05.htm
+   [79]http://www.cepr.net/publications/econ_growth_2001_05.htm
 
    Weisbrot, Mark and Rosnick, David, Another Lost Decade?: Latin
    America's Growth Failure Continues into the 21st Century, available at:
-   http://www.cepr.net/publications/latin_america_2003_11.htm
+   [80]http://www.cepr.net/publications/latin_america_2003_11.htm
 
    Wilkinson, Richard and Pickett, Kate, The Spirit Level: Why More Equal
    Societies Almost Always Do Better, Allen Lane, London, 2009.
@@ -2531,7 +2865,7 @@
    1975.
 
    Artisans and Sans-Culottes: Popular Movements in France and Britain
-       during the French Revolution, Edward Arnold, London, 1981.
+   during the French Revolution, Edward Arnold, London, 1981.
 
    Wilson, H., The Labour Government 1964-1970, London, 1971.
 
@@ -2553,3 +2887,86 @@
 
    Zinoviev, Grigorii, History of the Bolshevik Party: A Popular Outline,
    New Park Publications, London, 1973.
+
+References
+
+   1. http://flag.blackened.net/revolt/russia/arshinov_2_oct.html
+   2. http://www.geocities.com/CapitolHill/Lobby/2379/mias.htm
+   3. http://www.spunk.org/library/intro/sp000146.txt
+   4. http://www.spunk.org/library/writers/black/sp000156.txt
+   5. http://www.applicom.com/pnews/libertarian.html
+   6. http://www.geocities.com/CapitolHill/Lobby/3998/smokestack.html
+   7. http://dwardmac.pitzer.edu/anarchist_archives/bookchin/comman.html
+   8. http://www.mutualist.org/id4.html
+   9. http://www.mutualist.org/id47.html
+  10. http://www.zmag.org/chomsky/interviews/9612-anarchism.html
+  11. http://www.chomsky.info/interviews/199704--.htm
+  12. http://www.chomsky.info/articles/199505--.htm
+  13. http://flag.blackened.net/liberty/chomskydon.html
+  14. http://www.chomsky.info/interviews/20040714.htm
+  15. http://www.chomsky.info/interviews/1999----.htm
+  16. http://www.etext.org/Politics/Spunk/library/writers/decleyre/sp001334.html
+  17. http://alumni.umbc.edu/~akoont1/tmh/voltair.html
+  18. http://alumni.umbc.edu/~akoont1/tmh/vdc.html
+  19. http://www.spunk.org/texts/intro/practice/sp001703.html
+  20. http://flag.blackened.net/liberty/between.html
+  21. http://flag.blackened.net/revolt/fod/towardsintro.html
+  22. http://www.geocities.com/Athens/Acropolis/8195/Durruti.html
+  23. http://www.primitivism.com/mass-society.htm
+  24. http://fletcher.iww.org/direct_action/title.html
+  25. http://www.slip.net/~knabb/CF/primitivism.htm
+  26. http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/pcommune.html
+  27. http://alumni.umbc.edu/~akoont1/tmh/anar_jal.html
+  28. http://members.aol.com/labadiejo/page11.html
+  29. http://members.aol.com/labadiejo/page7.html
+  30. http://www.geocities.com/CapitolHill/Lobby/3998/Moorcock.html
+  31. http://lemming.mahost.org/johnmoore/primer.htm
+  32. http://dwardmac.pitzer.edu/anarchist_archives/malatesta/nettlau/nettlauonmalatesta.html
+  33. http://world.std.com/~bbrigade/TL
+  34. http://world.std.com/~bbrigade/badpp3.htm
+  35. http://www.anarchosyndicalism.net/archive/display/190/index.php
+  36. http://www.pitzer.edu/~dward/Anarchist_Archives/proudhon/interestletter1.html
+  37. http://www.pitzer.edu/~dward/Anarchist_Archives/proudhon/interestletter2.html
+  38. http://flag.blackened.net/rocker/soviet.htm
+  39. http://flag.blackened.net/rocker/marx.htm
+  40. http://flag.blackened.net/liberty/spoonnat.html
+  41. http://www.lysanderspooner.org/Revolution.htm
+  42. http://flag.blackened.net/daver/anarchism/tucker/tucker32.html
+  43. http://www.uncanny.net/~wsa/union3.html
+  44. http://www.uncanny.net/~wsa/spain.html
+  45. http://www.insurgentdesire.org.uk/fp.htm
+  46. http://www.revolutionbythebook.akpress.org/an-interview-with-howard-zinn-on-anarchism-rebels-against-tyranny/
+  47. http://www.marxists.org/archive/draper/works/1990/myth/myth.htm
+  48. http://cog.kent.edu/lib/Philmore1/Philmore1.htm
+  49. http://www.cbe.csueastbay.edu/~sbesc/frlect.html
+  50. http://www.hoover.org/publications/digest/3532186.html
+  51. http://www.marxists.de/statecap/harman/revlost.htm
+  52. http://www.panix.com/~dhenwood/WS_Brecht.html
+  53. http://oll.libertyfund.org/Texts/LFBooks/Herbert0120/CompulsionByState/HTMLs/0146_Pt11_Principles.html
+  54. http://oll.libertyfund.org/Texts/LFBooks/Herbert0120/CompulsionByState/HTMLs/0146_Pt04_Politician.html
+  55. http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/hodgskin/labdef.txt
+  56. http://www.lewrockwell.com/hoppe/hoppe5.html
+  57. http://www.angelfire.com/journal/iso/isg.html
+  58. http://www.angelfire.com/journal/iso/swp.html
+  59. http://www.marxists.org/archive/marx/works/1864iwma/1872-e.htm
+  60. http://www.wendymcelroy.com/mises/twoanarchism.html
+  61. http://ksghome.harvard.edu/~drodrik/Rodrik%20on%20Dollar-Kraay.PDF
+  62. http://www.cepr.net/documents/publications/energy_2006_12.pdf
+  63. http://www.anthonyflood.com/rothbardkonkin.htm
+  64. http://www.lewrockwell.com/rothbard/rothbard167.html
+  65. http://www.hag.hi.is/~bthru/ritgerd.htm
+  66. http://www.marxists.org/archive/trotsky/works/1927-plo/ch01.htm
+  67. http://www.marxists.org/archive/trotsky/works/1924-les.htm
+  68. http://www.marxists.org/archive/trotsky/works/1935-sta.htm
+  69. http://www.marxists.org/archive/trotsky/works/1918-mil/ch05.htm
+  70. http://www.marxists.org/archive/trotsky/works/1919-mil/ch12.htm
+  71. http://www.marxists.org/archive/trotsky/works/1936-rev/index.htm
+  72. http://www.marxists.org/archive/trotsky/works/sovstate.htm
+  73. http://www.marxists.org/archive/trotsky/works/1918-mil/ch02.htm
+  74. http://www.marxists.org/archive/trotsky/works/1919-mil/ch49.htm
+  75. http://www.marxists.org/archive/trotsky/works/1937/1937-sta.htm
+  76. http://flag.blackened.net/liberty/walford-on-anarcap.html
+  77. http://www.cepr.net/Globalization.html
+  78. http://www.cepr.net/publications/globalization_2001_07_11.htm
+  79. http://www.cepr.net/publications/econ_growth_2001_05.htm
+  80. http://www.cepr.net/publications/latin_america_2003_11.htm

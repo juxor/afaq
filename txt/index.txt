@@ -1,15 +1,15 @@
                           An Anarchist FAQ Webpage
 
-                                Version 14.0
+                                Version 15.0
 
-                                 [flag2.gif]
+                                 [flag2.svg]
           ________________________________________________________
 
       This web page holds an anarchist FAQ. Its aim is to present what
       anarchism really stands for and indicate why you should become an
                                  anarchist.
 
-             [1]Volume 1 of An Anarchist FAQ has been published!
+         [1]Volumes 1 and 2 of An Anarchist FAQ have been published!
 
                 [2]What Anarchists Say about An Anarchist FAQ
 
@@ -18,7 +18,9 @@
 
      An Anarchist FAQ can be accessed using these easy to remember urls:
 
-   [4]www.anarchistfaq.org [5]www.anarchismfaq.org
+                           [4]www.anarchistfaq.org
+
+                           [5]www.anarchismfaq.org
 
                             [6]www.anarchyfaq.org
 
@@ -30,7 +32,7 @@
 
                               An Anarchist FAQ
 
-                         Version 14.0 -- 08-MAR-2010
+                         Version 15.0 -- 18-MAR-2014
 
    [9]Introduction
        Section A - [10]What is anarchism?
@@ -57,9 +59,8 @@
                   available for [27]download in pdf format.
           ________________________________________________________
 
-                               [28][flag.gif]
+                               [28][flag.svg]
           Click on the flag for links to other anarchist web-pages
-                      Links last updated on 11-NOV-2006
                      ___________________________________
 
 References

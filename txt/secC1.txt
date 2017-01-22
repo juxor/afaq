@@ -72,9 +72,9 @@
      homogeneous production functions; no technical progress requiring
      embodied capital investment, and so on, and so on -- all these are
      not just unrealistic but also unrobust assumptions. And yet they
-     figure critically in leading economic theories."
-     ["Disturbing Currents in Modern Economics", Challenge!, Vol. 41, No.
-     3, May-June, 1998]
+     figure critically in leading economic theories." ["Disturbing
+     Currents in Modern Economics", Challenge!, Vol. 41, No. 3, May-June,
+     1998]
 
    So neoclassical ideology is based upon special, virtually ad hoc,
    assumptions. Many of the assumptions are impossible, such as the
@@ -515,8 +515,8 @@
    their predicted fears become true when it was applied -- see [5]section
    C.8). Hopefully by analysing the myths of capitalist economics we will
    aid those fighting for a better world by giving them the means of
-   counteracting those who claim the mantle of "science"
-   to foster the "economics of the rich" onto society.
+   counteracting those who claim the mantle of "science" to foster the
+   "economics of the rich" onto society.
 
    To conclude, neo-classical economics shows the viability of an unreal
    system and this is translated into assertions about the world that we
@@ -599,8 +599,8 @@ C.1.1 Is economics really value free?
      what happens under these conditions -- without distinctly stating
      the conditions themselves. And then, having described the facts
      which arise in our society under these conditions, they represent to
-     us these facts as rigid, inevitable economic laws."
-     [Anarchism, p. 179]
+     us these facts as rigid, inevitable economic laws." [Anarchism, p.
+     179]
 
    In other words, economists usually take the political and economic
    aspects of capitalist society (such as property rights, inequality and
@@ -852,8 +852,8 @@ C.1.1 Is economics really value free?
    "Political economy -- that is, proprietary despotism -- can never be in
    the wrong: it must be the proletariat." [System of Economical
    Contradictions, p. 187] And little has changed since 1846 (or 1776!)
-   when it comes to economics "explaining"
-   capitalism's problems (such as the business cycle or unemployment).
+   when it comes to economics "explaining" capitalism's problems (such as
+   the business cycle or unemployment).
 
    As such, it is hard to consider economics as "value free" when
    economists regularly attack unions while being silent or supportive of
@@ -1113,8 +1113,7 @@ C.1.1 Is economics really value free?
      Whether this is an accurate picture of the average human is open to
      question, but there's no question that capitalism as a system and
      economics as a discipline both reward people who conform to the
-     model."
-     [Doug Henwood, Wall Street, p, 143]
+     model." [Doug Henwood, Wall Street, p, 143]
 
    So is economics "value free"? Far from it. Given its social role, it
    would be surprising that it were. That it tends to produce policy
@@ -1195,9 +1194,8 @@ C.1.2 Is economics a science?
    then large firms would have cost advantages against small ones and
    would drive them out of business in competition. This would destroy the
    concept of perfect competition. However, the invention of the average
-   cost curve allowed the theory to work as "proved"
-   that a competitive market could not become dominated by a few large
-   firms, as feared.
+   cost curve allowed the theory to work as "proved" that a competitive
+   market could not become dominated by a few large firms, as feared.
 
    The model, in other words, was adjusted to ensure that it produced the
    desired result rather than reflect reality. The theory was required to
@@ -1726,8 +1724,8 @@ C.1.3 Can you have an economics based on individualism?
    "idea that we should start at the level of the isolated individual is
    one which we may well have to abandon . . . If we aggregate over
    several individuals, such a model is unjustified." [Alan Kirman, "The
-   Intrinsic Limits of Modern Economy Theory", pp. 126-139,
-   The Economic Journal, Vol. 99, No. 395, p. 138, p. 136 and p. 138]
+   Intrinsic Limits of Modern Economy Theory", pp. 126-139, The Economic
+   Journal, Vol. 99, No. 395, p. 138, p. 136 and p. 138]
 
    So why all the bother? Why spend over 100 years driving economics into
    a dead-end? Simply because of political reasons. The advantage of the
@@ -2020,8 +2018,8 @@ C.1.4 What is wrong with equilibrium analysis?
      "Two essential characteristics of industrial capitalism are absent
      in these economic systems -- the distinction between income from
      work and income from property and the nature of investments made in
-     the light of uncertain expectations about a long future."
-     [Collected Economic Papers, vol. 5, p. 34]
+     the light of uncertain expectations about a long future." [Collected
+     Economic Papers, vol. 5, p. 34]
 
    Even such basic things as profits and money have a hard time fitting
    into general equilibrium theory. In a perfectly competitive
@@ -2722,9 +2720,9 @@ C.1.6 Is it possible to a non-equilibrium based capitalist economics?
    key markets being in such a state: the labour market and the market for
    credit. The reason for these strange exceptions to their general
    assumption is, fundamentally, political. The former is required to
-   deflect claims that "pure"
-   capitalism would result in the exploitation of the working class, the
-   latter is required to show that such a system would be stable.
+   deflect claims that "pure" capitalism would result in the exploitation
+   of the working class, the latter is required to show that such a system
+   would be stable.
 
    Looking at the labour market, the Austrians argue that free market
    capitalism would experience full employment. That this condition is one
@@ -2741,17 +2739,16 @@ C.1.6 Is it possible to a non-equilibrium based capitalist economics?
    to know better.
 
    Of course, the need to argue that there would be full employment under
-   "pure"
-   capitalism is required to maintain the fiction that everyone will be
-   better off under it. It is hard to say that working class people will
-   benefit if they are subject to high levels of unemployment and the
-   resulting fear and insecurity that produces. As would be expected, the
-   Austrian school shares the same perspective on unemployment as the
-   neoclassical school, arguing that it is "voluntary" and the result of
-   the price of labour being too high (who knew that depressions were so
-   beneficial to workers, what with some having more leisure to enjoy and
-   the others having higher than normal wages?). The reality of capitalism
-   is very different than this abstract model.
+   "pure" capitalism is required to maintain the fiction that everyone
+   will be better off under it. It is hard to say that working class
+   people will benefit if they are subject to high levels of unemployment
+   and the resulting fear and insecurity that produces. As would be
+   expected, the Austrian school shares the same perspective on
+   unemployment as the neoclassical school, arguing that it is "voluntary"
+   and the result of the price of labour being too high (who knew that
+   depressions were so beneficial to workers, what with some having more
+   leisure to enjoy and the others having higher than normal wages?). The
+   reality of capitalism is very different than this abstract model.
 
    Anarchists have long realised that the capitalist market is based upon
    inequalities and changes in power. Proudhon argued that "[t]he

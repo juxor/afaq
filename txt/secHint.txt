@@ -7,7 +7,7 @@
    and others). The conflict and disagreement between anarchists and
    Marxists is legendary. As Benjamin Tucker noted:
 
-     "[I]t is a curious fact that the two extremes of the [socialist
+     "it is a curious fact that the two extremes of the [socialist
      movement] . . . though united . . . by the common claim that labour
      should be put in possession of its own, are more diametrically
      opposed to each other in their fundamental principles of social
@@ -19,12 +19,12 @@
      "The two principles referred to are AUTHORITY and LIBERTY, and the
      names of the two schools of Socialistic thought which fully and
      unreservedly represent one or the other are, respectively, State
-     Socialism and Anarchism. Whoso knows that these two schools want and
+     Socialism and Anarchism. Whoso knows what these two schools want and
      how they propose to get it understands the Socialistic movement.
      For, just as it has been said that there is no half-way house
      between Rome and Reason, so it may be said that there is no half-way
-     house between State Socialism and Anarchism."
-     [The Individualist Anarchists, pp. 78-9]
+     house between State Socialism and Anarchism." [The Individualist
+     Anarchists, pp. 78-9]
 
    In addition to this divide between libertarian and authoritarian forms
    of socialism, there is another divide between reformist and
@@ -112,20 +112,20 @@
    in his note books until well after his ideas and, as Robert Graham
    points out, "a reading of General Idea of the Revolution will show,
    anti-Semitism forms no part of Proudhon's revolutionary programme."
-   ["Introduction", The General Idea of the Revolution, p. xxxvi]
-   Similarly, Bakunin's racism is an unfortunate aspect of his life, an
-   aspect which is ultimately irrelevant to the core principles and ideas
-   he argued for. As for Proudhon's sexism it should be noted that Bakunin
-   and subsequent anarchists totally rejected it and argued for complete
+   ["Introduction", General Idea of the Revolution, p. xxxvi] Similarly,
+   Bakunin's racism is an unfortunate aspect of his life, an aspect which
+   is ultimately irrelevant to the core principles and ideas he argued
+   for. As for Proudhon's sexism it should be noted that Bakunin and
+   subsequent anarchists totally rejected it and argued for complete
    equality between the sexes. Likewise, anarchists from Kropotkin onwards
    have opposed racism in all its forms (and the large Jewish anarchist
    movement saw that Bakunin's anti-Semitic comments were not a defining
    aspect to his ideas). Why mention these aspects of their ideas at all?
 
-   Nor were Marx and Engels free from racist, sexism or homophobic
+   Nor were Marx and Engels free from racist, sexist or homophobic
    comments yet no anarchist would dream these were worthy of mention when
    critiquing their ideology (for those interested in such matters, Peter
-   Fryer's essay "Engels: A Man of his Time" should be consulted. This is
+   Fryer's essay "Engels: A Man of his Time" should be consulted). This is
    because the anarchist critique of Marxism is robust and confirmed by
    substantial empirical evidence (namely, the failures of social
    democracy and the Russian Revolution).
@@ -142,8 +142,8 @@
      centralisation of the German working class. Moreover, German
      ascendancy will transfer the centre of gravity of the European
      worker's movement from France to Germany . . . On a world scale, the
-     ascendancy of the German proletariat the French proletariat will at
-     the same time constitute the ascendancy of our theory over
+     ascendancy of the German proletariat over the French proletariat
+     will at the same time constitute the ascendancy of our theory over
      Proudhon's." [quoted by Arthur Lehning, Michael Bakunin: Selected
      Writings, p. 284]
 
@@ -161,10 +161,10 @@
    Party (the jewel in the crown of the Second International) supported
    its nation-state in the war. There was just one man in the German
    Reichstag in August 1914 who did not vote for war credits (and he did
-   not even vote against them, he abstained). While there was a small
-   minority of the German Social-Democrats did not support the war,
-   initially many of this anti-war minority went along with the majority
-   of party in the name of "discipline" and "democratic" principles.
+   not even vote against them, he abstained). While a small minority of
+   the German Social-Democrats did not support the war, initially many of
+   this anti-war minority went along with the majority of the party in the
+   name of "discipline" and "democratic" principles.
 
    In contrast, only a very small minority of anarchists supported any
    side during the conflict. The bulk of the anarchist movement (including
@@ -187,7 +187,7 @@
    was the official Marxist movement which betrayed the cause of
    internationalism, not anarchism. Indeed, the betrayal of the Second
    International was the natural result of the "ascendancy" of Marxism
-   over anarchism that Marx had hoped. The rise of Marxism, in the form of
+   over anarchism that Marx had hoped. The rise of Marxism in the form of
    social-democracy, ended as Bakunin predicted, with the corruption of
    socialism in the quagmire of electioneering and statism. As Rudolf
    Rocker correctly argued, "the Great War of 1914 was the exposure of the
@@ -213,7 +213,7 @@
    Stalin, not socialism. That is nothing to be proud of.
 
    From an anarchist perspective, this makes perfect sense as "[n]o
-   revolution can ever succeed as factor of liberation unless the MEANS
+   revolution can ever succeed as a factor of liberation unless the MEANS
    used to further it be identical in spirit and tendency with the PURPOSE
    to be achieved." [Emma Goldman, My Disillusionment in Russia, p. 261]
    In other words, statist and authoritarian means will result in statist
@@ -264,7 +264,7 @@
    If we look at the "workers' states" created by Marxists, we discover,
    yet again, anarchist predictions proved right. Bakunin argued that
    "[b]y popular government they [the Marxists] mean government of the
-   people by a small under of representatives elected by the people. . .
+   people by a small number of representatives elected by the people. . .
    [That is,] government of the vast majority of the people by a
    privileged minority. But this minority, the Marxists say, will consist
    of workers. Yes, perhaps, of former workers, who, as soon as they
@@ -291,8 +291,8 @@
 
    This does not mean that anarchists reject everything Marx wrote. Far
    from it. Much of his analysis of capitalism is acceptable to
-   anarchists, for example (both Bakunin and Tucker considered Marx's
-   economic analysis as important). Indeed, there are some schools of
+   anarchists, for example both Bakunin and Tucker considered Marx's
+   economic analysis as important. Indeed, there are some schools of
    Marxism which are very libertarian and are close cousins to anarchism
    (for example, council communism and Autonomist Marxism are close to
    revolutionary anarchism). Unfortunately, these forms of Libertarian

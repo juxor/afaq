@@ -150,7 +150,7 @@
    theodicy is a specific branch of theology and philosophy that attempts
    to reconcile the existence of evil in the world with the assumption of
    a benevolent God). And, as with all gods, sacrifices are required and
-   Phelps theory is the means by which this is achieved. As the magazine
+   Phelps' theory is the means by which this is achieved. As the magazine
    noted: "in much of his work he contends that unemployment is necessary
    to cow workers, ensuring their loyalty to the company and their
    diligence on the job, at a wage the company can afford to pay" (i.e.,
@@ -176,28 +176,29 @@
    economics highest prize for restating, in neo-classical jargon, the
    model of the labour market expounded by, say, Marx:
 
-     "If [capitals] accumulation on the one hand increases the demand for
-     labour, it increases on the other the supply of workers by 'setting
-     them free', while at the same time the pressure of the unemployed
-     compels those that are employed to furnish more labour, and
-     therefore makes the supply of labour to a certain extent independent
-     of the supply of labourers. The movement of the law of supply and
-     demand of labour on this basis completes the despotism of capital.
-     Thus as soon as the workers learn the secret of why it happens that
-     the more they work, the more alien wealth they produce . . . as soon
-     as, by setting up trade unions, etc., they try to organise a planned
-     co-operation between employed and unemployed in order to obviate or
-     to weaken the ruinous effects of this natural law of capitalistic
-     production on their class, so soon capital and its sycophant,
-     political economy, cry out at the infringement of the 'eternal' and
-     so to speak 'sacred' law of supply and demand. Every combination of
-     employed and unemployed disturbs the 'pure' action of this law. But
-     on the other hand, as soon as . . . adverse circumstances prevent
-     the creation of an industrial reserve army and, with it, the
-     absolute dependence of the working-class upon the capitalist class,
-     capital, along with its platitudinous Sancho Panza, rebels against
-     the 'sacred' law of supply and demand, and tries to check its
-     inadequacies by forcible means." [Capital, Vol. 1, pp. 793-4]
+     "If [capital's] accumulation on the one hand increases the demand
+     for labour, it increases on the other the supply of workers by
+     'setting them free', while at the same time the pressure of the
+     unemployed compels those that are employed to furnish more labour,
+     and therefore makes the supply of labour to a certain extent
+     independent of the supply of labourers. The movement of the law of
+     supply and demand of labour on this basis completes the despotism of
+     capital. Thus as soon as the workers learn the secret of why it
+     happens that the more they work, the more alien wealth they produce
+     . . . as soon as, by setting up trade unions, etc., they try to
+     organise a planned co-operation between employed and unemployed in
+     order to obviate or to weaken the ruinous effects of this natural
+     law of capitalistic production on their class, so soon capital and
+     its sycophant, political economy, cry out at the infringement of the
+     'eternal' and so to speak 'sacred' law of supply and demand. Every
+     combination of employed and unemployed disturbs the 'pure' action of
+     this law. But on the other hand, as soon as . . . adverse
+     circumstances prevent the creation of an industrial reserve army
+     and, with it, the absolute dependence of the working-class upon the
+     capitalist class, capital, along with its platitudinous Sancho
+     Panza, rebels against the 'sacred' law of supply and demand, and
+     tries to check its inadequacies by forcible means." [Capital, Vol.
+     1, pp. 793-4]
 
    That the Economist and Phelps are simply echoing, and confirming, Marx
    is obvious. Modern economics, while disparaging Marx, has integrated
@@ -250,7 +251,7 @@
    brakes to slow job growth, it is not doctors, lawyers, and CEOs who end
    up without jobs. The people who lose are those in the middle and the
    bottom -- sales clerks, factory workers, custodians, and dishwashers.
-   These are the workers who dont get hired or get laid off when the
+   These are the workers who don't get hired or get laid off when the
    economy slows or goes into a recession." [The Conservative Nanny State,
    p. 31] Thus the state pushes up unemployment rates to slow wage growth,
    and thereby relieve inflationary pressure. The reason should be
@@ -388,7 +389,7 @@
 
    Since natural rate theory cannot be tested, a sensible thing would be
    to examine its assumptions for plausibility and reasonableness.
-   However, Milton Friedmans early work on economic methodology blocks
+   However, Milton Friedman's early work on economic methodology blocks
    this route as he asserted that realism and plausibility of assumptions
    have no place in economics. With most economists blindly accepting this
    position, the result is a church in which entry is conditional on
@@ -912,8 +913,7 @@ C.9.1 Would cutting wages reduce unemployment?
      and both together mean lower profits and reduced consumption with
      that immense class of middlemen which has grown up in manufacturing
      countries, and that, again, means a further reduction of profits for
-     the employers."
-     [Fields, Factories and Workshops Tomorrow, p. 33]
+     the employers." [Fields, Factories and Workshops Tomorrow, p. 33]
 
    So, as is often the case, Keynes was simply including into mainstream
    economics perspectives which had long been held by critics of
@@ -1355,8 +1355,7 @@ C.9.2 Is unemployment caused by wages being too high?
      get them to do that, and these conditions rarely coincide with
      falling employment and wages. The causes tend to work the other way:
      unemployment lowers wages, and the lower wages do not restore the
-     lost employment."
-     [Economics: A New Introduction, pp. 401-2]
+     lost employment." [Economics: A New Introduction, pp. 401-2]
 
    Will Hutton, the British neo-Keynesian economist, summarises research
    by two other economists that suggests high wages do not cause
@@ -1375,8 +1374,7 @@ C.9.2 Is unemployment caused by wages being too high?
      -- and the lower the wages, the higher the local unemployment. As
      they say, this is not a conclusion that can be squared with free
      market text-book theories of how a competitive labour market should
-     work."
-     [The State We're In, p. 102]
+     work." [The State We're In, p. 102]
 
    Unemployment was highest where real wages were lowest and nowhere had
    falling wages being followed by rising employment or falling
@@ -2185,8 +2183,7 @@ C.9.3 Are "flexible" labour markets the answer to unemployment?
      access to massive pools of capital and can organise in a fashion
      that renders every individual dispensible . . . Unions help rectify
      the imbalance of power in labour markets, and they therefore correct
-     market failure rather than causing it."
-     {Op. Cit., pp. 36-7]
+     market failure rather than causing it." [Op. Cit., pp. 36-7]
 
    The welfare state also increases the bargaining power of workers
    against their firms and limits the ability of firms to replace striking

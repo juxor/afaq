@@ -1,7 +1,7 @@
-     Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist
-   Theory FAQ" version 5.2
+     * Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist
+       Theory FAQ" version 5.2
 
-1 - Individualist Anarchists and the socialist movement.
+1 - Individualist Anarchists and the socialist movement
 
    Caplan, in his FAQ, attempts to rewrite anarchist history by trying to
    claim that the individualist anarchists were forerunners of the
@@ -84,14 +84,13 @@
    into the "anarcho"-capitalist school as well as Tucker, his citing of
    Landauer seems particularly dishonest. Landauer presents Proudhon's
    ideas in some depth in his work within a chapter headed "The three
-   Anticapitalistic Movements."
-   Indeed, he starts his discussion of Proudhon's ideas with the words "In
-   France, post-Utopian socialism begins with Peter Joseph Proudhon." [p.
-   59] Given that both Kropotkin and Tucker indicated that Individualist
-   Anarchism followed Proudhon's economic and political ideas the fact
-   that Landauer states that Proudhon was a socialist implies that
-   Individualist Anarchism is also socialist (or "Leftist" to use Caplan's
-   term).
+   Anticapitalistic Movements." Indeed, he starts his discussion of
+   Proudhon's ideas with the words "In France, post-Utopian socialism
+   begins with Peter Joseph Proudhon." [p. 59] Given that both Kropotkin
+   and Tucker indicated that Individualist Anarchism followed Proudhon's
+   economic and political ideas the fact that Landauer states that
+   Proudhon was a socialist implies that Individualist Anarchism is also
+   socialist (or "Leftist" to use Caplan's term).
 
    Tucker and the other individualist anarchists considered themselves as
    followers of Proudhon's ideas (as did Bakunin and Kropotkin). For
@@ -636,8 +635,8 @@
      capitalist property. . . which therefore depends on the existence of
      a class of the disinherited and dispossessed, forced to sell their
      labour to the property owners for a wage below its real value. . .
-     This means that workers are subjected to a kind of slavery."
-     [The Anarchist Revolution, p. 113]
+     This means that workers are subjected to a kind of slavery." [The
+     Anarchist Revolution, p. 113]
 
    As does Kropotkin:
 
@@ -669,11 +668,10 @@
 
    Moreover, Proudhon argues that "spread[ing] it more equally and
    establish[ing] it more firmly in society" is the means by which
-   "property"
-   "becomes a guarantee of liberty and keeps the State on an even keel."
-   [p. 133, p. 140] In other words, rather than "property" as such
-   limiting the state, it is "property" divided equally through society
-   which is the key, without concentrations of economic power and
+   "property" "becomes a guarantee of liberty and keeps the State on an
+   even keel." [p. 133, p. 140] In other words, rather than "property" as
+   such limiting the state, it is "property" divided equally through
+   society which is the key, without concentrations of economic power and
    inequality which would result in exploitation and oppression.
    Therefore, "[s]imple justice. . . requires that equal division of land
    shall not only operate at the outset. If there is to be no abuse, it
@@ -1205,19 +1203,16 @@
    their ideas on property and instead Caplan just concentrates on the
    fact they use the word. Caplan also ignores:
 
-     their many statements on being socialists and part of the wider
-   socialist movement.
-
-     their opposition to capitalist property-rights in land and other
-   scarce resources.
-
-     their recognition that capitalism was based on usury and that it was
-   exploitation.
-
-     their attacks on government and capital, rather than just government.
-
-     their support for strikes and other forms of direct action by workers
-   to secure the full product of their labour.
+     * their many statements on being socialists and part of the wider
+       socialist movement.
+     * their opposition to capitalist property-rights in land and other
+       scarce resources.
+     * their recognition that capitalism was based on usury and that it
+       was exploitation.
+     * their attacks on government and capital, rather than just
+       government.
+     * their support for strikes and other forms of direct action by
+       workers to secure the full product of their labour.
 
    In fact, the only things considered useful seems to be the
    individualist anarchist's support for free agreement (something

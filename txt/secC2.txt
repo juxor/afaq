@@ -189,14 +189,13 @@ C.2.1 What is "surplus value"?
 
    Before discussing how surplus-value exists and the flaws in capitalist
    defences of it, we need to be specific about what we mean by the term
-   "surplus value."
-   To do this we must revisit the difference between possession and
-   private property we discussed in [4]section B.3. For anarchists,
-   private property (or capital) is "the power to produce without labour."
-   [Proudhon, What is Property?, p. 161] As such, surplus value is created
-   when the owners of property let others use them and receive an income
-   from so doing. Therefore something only becomes capital, producing
-   surplus value, under specific social relationships.
+   "surplus value." To do this we must revisit the difference between
+   possession and private property we discussed in [4]section B.3. For
+   anarchists, private property (or capital) is "the power to produce
+   without labour." [Proudhon, What is Property?, p. 161] As such, surplus
+   value is created when the owners of property let others use them and
+   receive an income from so doing. Therefore something only becomes
+   capital, producing surplus value, under specific social relationships.
 
    Surplus value is "the difference between the value produced by the
    workers and the wages they receive" and is "appropriated by the
@@ -681,8 +680,8 @@ C.2.2 How does exploitation happen?
      "The measure of surplus-value is the difference between the
      value-added by and the value paid to the worker. As owner of the
      means of production, the industrial capitalist has a legal right to
-     keep the surplus-value for himself."
-     [Competitive Advantage on the Shop Floor, p. 54]
+     keep the surplus-value for himself." [Competitive Advantage on the
+     Shop Floor, p. 54]
 
    Such surplus indicates that labour, like any other commodity, has a use
    value and an exchange value. Labour's exchange value is a worker's
@@ -930,10 +929,9 @@ C.2.3 Is owning capital sufficient reason to justify profits?
    "aided" production. Which shows the fallacy of the idea that profits,
    interest and rent represent a form of "contribution" to the productive
    process by land and capital which needs rewarded. They only get a
-   "reward"
-   when they hire labour to work them, i.e. they give permission for
-   others to use the property in question in return for telling them what
-   to do and keeping the product of their labour.
+   "reward" when they hire labour to work them, i.e. they give permission
+   for others to use the property in question in return for telling them
+   what to do and keeping the product of their labour.
 
    As Proudhon put it, "[w]ho is entitled to the rent of the land? The
    producer of the land, without doubt. Who made the land? God. Then,
@@ -1145,8 +1143,7 @@ C.2.4 Is profit the reward for the productivity of capital?
      by Labour to produce the output. When capital is increased, Labour
      produces extra output by using up the extra capital . . . In short,
      Labour produced the marginal product of capital (and used up the
-     extra capital services)."
-     [Op. Cit., pp. 207-9]
+     extra capital services)." [Op. Cit., pp. 207-9]
 
    Therefore, the idea that profits equals the marginal productivity of
    capital is hard to believe. Capital, in this perspective, is not only a
@@ -1207,8 +1204,8 @@ C.2.4 Is profit the reward for the productivity of capital?
      'efficiency wages' that factor prices and factor productivities may
      be linked, particularly for labour inputs . . . the productivity of
      a technology depends on the amount of effort that workers choose to
-     supply."
-     [Competitive Advantage on the Shop Floor, p. 130 and pp. 133-4]
+     supply." [Competitive Advantage on the Shop Floor, p. 130 and pp.
+     133-4]
 
    In other words, neo-classical economics forgets that technology has to
    be used by workers and so its "productivity" depends on how it is
@@ -1292,8 +1289,8 @@ C.2.4 Is profit the reward for the productivity of capital?
      the farmer.
 
      "The proprietor, on the contrary, does not yield his implement;
-     eternally he is paid for it, eternally he keeps it."
-     [Op. Cit., pp. 169-170]
+     eternally he is paid for it, eternally he keeps it." [Op. Cit., pp.
+     169-170]
 
    While the capitalist, in general, gets their investment back plus
    something extra, the workers can never get their time back. That time
@@ -1565,8 +1562,8 @@ C.2.5 Do profits represent the contribution of capital to production?
 
      "The value of a stock of capital equipment, therefore, involves the
      rate of profit. There is no meaning in a 'quantity of capital' apart
-     from the rate of profit."
-     [Collected Economic Papers, vol. 4, p. 125]
+     from the rate of profit." [Collected Economic Papers, vol. 4, p.
+     125]
 
    Looking at it another way, neo-classical economics seeks to
    simultaneously solve the problems of production and income
@@ -1836,8 +1833,8 @@ C.2.6 Does interest represent the "time value" of money?
      Interest is positive because profits are positive (though at the
      same time the cost and difficulty of obtaining finance play a part
      in keeping productive equipment scarce, and so contribute to
-     maintaining the level of profits)."
-     [Contributions to Modern Economics, p. 83]
+     maintaining the level of profits)." [Contributions to Modern
+     Economics, p. 83]
 
    It is only because money provides the authority to allocate resources
    and exploit wage labour that money now is more valuable ("we know that
@@ -2117,9 +2114,8 @@ C.2.6 Does interest represent the "time value" of money?
      more than he contributes to the exchange; he receives in addition to
      his capital an interest which represents no positive product on his
      part. Now, a service which costs no labour to him who renders it is
-     a service which may become gratuitous."
-     [Interest and Principal: The Circulation of Capital, Not Capital
-     Itself, Gives Birth to Progress]
+     a service which may become gratuitous." [Interest and Principal: The
+     Circulation of Capital, Not Capital Itself, Gives Birth to Progress]
 
    The reason why interest rates do not fall to zero is due to the class
    nature of capitalism, not "time preference." That it is ultimately
@@ -2149,8 +2145,8 @@ C.2.6 Does interest represent the "time value" of money?
      in particular cases, it reaches an excess, that is open to
      criticism, and, of course, the very unequal conditions of wealth in
      our modern communities bring us unpleasantly near the danger of
-     exploitation and of usurious rates of interest."
-     [The Positive Theory of Capital, p. 361]
+     exploitation and of usurious rates of interest." [The Positive
+     Theory of Capital, p. 361]
 
    Little wonder, then, that Proudhon continually stressed the need for
    working people to organise themselves and credit (which, of course,
@@ -2277,13 +2273,13 @@ C.2.7 Are interest and profit not the reward for waiting?
    make sense. However, once you look wider you start to see this argument
    start to fall apart. Why is it that the wealthy are willing to save and
    provide funds while it is the working class who do not save and get
-   into debt? Surely a person's "time preference"
-   is dependent on their socio-economic position? As we argued in the
-   [27]last section, this means that any subjective evaluation of the
-   present and future is dependent on, not independent of, the structure
-   of market prices and income distribution. It varies with the income of
-   individual and their class position, since the latter will condition
-   the degree or urgency of present wants and needs.
+   into debt? Surely a person's "time preference" is dependent on their
+   socio-economic position? As we argued in the [27]last section, this
+   means that any subjective evaluation of the present and future is
+   dependent on, not independent of, the structure of market prices and
+   income distribution. It varies with the income of individual and their
+   class position, since the latter will condition the degree or urgency
+   of present wants and needs.
 
    So this theory appears ludicrous to a critic of capitalism -- simply
    put, does the mine owner really sacrifice more than a miner, a rich
@@ -2438,19 +2434,19 @@ C.2.7 Are interest and profit not the reward for waiting?
 
    The problems of "waiting" and "abstinence" as the source of interest
    becomes even clearer when we look at inherited wealth. Talking about
-   "abstinence"
-   or "waiting" when discussing a capitalist inheriting a company worth
-   millions is silly. Senior recognised this, arguing that income in this
-   case is not profit, but rather "has all the attributes of rent." [Op.
-   Cit., p. 129] That such a huge portion of capitalist revenue would not
-   be considered profit shows the bankruptcy of any theory which see
-   profit as the reward for "waiting." However, Senior's argument does
-   show that interest payments need not reflect any positive contribution
-   to production by those who receive it. Like the landlord receiving
-   payment for owning a gift of nature, the capitalist receives income for
-   simply monopolising the work of previous generations and, as Smith put
-   it, the "rent of land, considered as the price paid for the use of
-   land, is naturally a monopoly price." [The Wealth of Nations, p. 131]
+   "abstinence" or "waiting" when discussing a capitalist inheriting a
+   company worth millions is silly. Senior recognised this, arguing that
+   income in this case is not profit, but rather "has all the attributes
+   of rent." [Op. Cit., p. 129] That such a huge portion of capitalist
+   revenue would not be considered profit shows the bankruptcy of any
+   theory which see profit as the reward for "waiting." However, Senior's
+   argument does show that interest payments need not reflect any positive
+   contribution to production by those who receive it. Like the landlord
+   receiving payment for owning a gift of nature, the capitalist receives
+   income for simply monopolising the work of previous generations and, as
+   Smith put it, the "rent of land, considered as the price paid for the
+   use of land, is naturally a monopoly price." [The Wealth of Nations, p.
+   131]
 
    Even capitalist economists, while seeking to justify interest, admit
    that it "arises independently of any personal act of the capitalist. It
@@ -2487,8 +2483,8 @@ C.2.7 Are interest and profit not the reward for waiting?
      the possibility of getting interest on it.
 
      "But why is it possible to get interest? Because businesses make
-     profits and are willing to borrow."
-     [Collected Economic Papers, vol. 5, p. 36]
+     profits and are willing to borrow." [Collected Economic Papers, vol.
+     5, p. 36]
 
    This is the key. If ones ability and willingness to "wait" is dependent
    on social facts (such as available resources, ones class, etc.), then
@@ -2523,8 +2519,7 @@ C.2.7 Are interest and profit not the reward for waiting?
      so] the present value of purchasing power exceeds its future value
      to the corresponding extent. . . This is nothing whatever to do with
      the subjective rate of discount of the future of the individual
-     concerned. . ."
-     [The Accumulation of Capital, p. 395]
+     concerned. . ." [The Accumulation of Capital, p. 395]
 
    So, interest has little to do with "waiting" and a lot more to do with
    the inequalities associated with the capitalist system. In effect, the
@@ -2797,8 +2792,8 @@ C.2.8 Are profits the result of entrepreneurial activity and innovation?
    whose higher wages are, in fact, entrepreneurial profit. Selling your
    shares in one company and buying others? Any higher dividends are
    entrepreneurial profit. Not selling your shares? Likewise. What income
-   flow could not be explained by "entrepreneurial"
-   activity if we try hard enough?
+   flow could not be explained by "entrepreneurial" activity if we try
+   hard enough?
 
    In other words, the term becomes meaningless unless it is linked to
    owning capital and so any non-trivial notion of entrepreneurial
@@ -3007,14 +3002,13 @@ C.2.8 Are profits the result of entrepreneurial activity and innovation?
 
    If, as Chomsky stresses, the capitalist firm is organised in a fascist
    way, the "entrepreneurial" defence of profits is its ideology, its
-   "Führerprinzip"
-   (the German for "leader principle"). This ideology sees each
-   organisation as a hierarchy of leaders, where every leader (Führer, in
-   German) has absolute responsibility in his own area, demands absolute
-   obedience from those below him and answers only to his superiors. This
-   ideology was most infamously applied by fascism but its roots lie in
-   military organisations which continue to use a similar authority
-   structure today.
+   "Führerprinzip" (the German for "leader principle"). This ideology sees
+   each organisation as a hierarchy of leaders, where every leader
+   (Führer, in German) has absolute responsibility in his own area,
+   demands absolute obedience from those below him and answers only to his
+   superiors. This ideology was most infamously applied by fascism but its
+   roots lie in military organisations which continue to use a similar
+   authority structure today.
 
    Usually defenders of capitalism contrast the joys of "individualism"
    with the evils of "collectivism" in which the individual is sub-merged
@@ -3230,12 +3224,11 @@ C.2.8 Are profits the result of entrepreneurial activity and innovation?
    argued that if Lucas was to look away from military production it could
    expand into markets for socially useful goods (such as medical
    equipment) where it already had some expertise and sales. The
-   management were not interested, it was their to "manage"
-   Lucas and to decide where its resources would be used, including the
-   18,000 people working there. Management were more than happy to exclude
-   the workforce from any say in such fundamental matter as implementing
-   the workers' ideas would have shown how unnecessary they, the bosses,
-   actually were.
+   management were not interested, it was their to "manage" Lucas and to
+   decide where its resources would be used, including the 18,000 people
+   working there. Management were more than happy to exclude the workforce
+   from any say in such fundamental matter as implementing the workers'
+   ideas would have shown how unnecessary they, the bosses, actually were.
 
    Another example of wasted worker innovation is provided by the US car
    industry. In the 1960s, Walter Reuther, president of the United Auto
@@ -3400,8 +3393,8 @@ C.2.9 Do profits reflect a reward for risk?
    and right" as the "work to be accomplished" is "the common and
    undivided property of all those who take part therein." If not,
    shareholders would "plunder the bodies and souls of the wage-workers"
-   and it would be "an outrage upon human dignity and personality." [The
-   General Idea of the Revolution, p. 219] In other words, as production
+   and it would be "an outrage upon human dignity and personality."
+   [General Idea of the Revolution, p. 219] In other words, as production
    is collective, so is the risk faced and, consequently, risk cannot be
    used to justify excluding people from controlling their own working
    lives or the fruit of their labour.
@@ -3423,31 +3416,29 @@ C.2.9 Do profits reflect a reward for risk?
    However, there is another sense in which risk does not, in general,
    contribute to production within capitalism, namely finance markets.
    This bring us to our fourth objection, namely that most kinds of
-   "risks"
-   within capitalism do not contribute to production and, thanks to state
-   aid, not that risky.
+   "risks" within capitalism do not contribute to production and, thanks
+   to state aid, not that risky.
 
    Looking at the typical "risk" associated with capitalism, namely
    putting money into the stock market and buying shares, the idea that
-   "risk"
-   contributes to production is seriously flawed. As David Schweickart
-   points out, "[i]n the vast majority of cases, when you buy stock, you
-   give your money not to the company but to another private individual.
-   You buy your share of stock from someone who is cashing in his share.
-   Not a nickel of your money goes to the company itself. The company's
-   profits would have been exactly the same, with or without your stock
-   purchase." [After Capitalism, p. 37] In fact between 1952 and 1997,
-   about 92% of investment was paid for by firms' own internal funds and
-   so "the stock market contributes virtually nothing to the financing of
-   outside investment." Even new stock offerings only accounted for 4% of
-   non-financial corporations capital expenditures. [Doug Henwood, Wall
-   Street, p. 72] "In spite of the stock market's large symbolic value, it
-   is notorious that it has relatively little to do with the production of
-   goods and services," notes David Ellerman, "The overwhelming bulk of
-   stock transactions are in second-hand shares so the capital paid for
-   shares usually goes to other stock traders, not to productive
-   enterprises issuing new shares." [The Democratic worker-owned firm, p.
-   199]
+   "risk" contributes to production is seriously flawed. As David
+   Schweickart points out, "[i]n the vast majority of cases, when you buy
+   stock, you give your money not to the company but to another private
+   individual. You buy your share of stock from someone who is cashing in
+   his share. Not a nickel of your money goes to the company itself. The
+   company's profits would have been exactly the same, with or without
+   your stock purchase." [After Capitalism, p. 37] In fact between 1952
+   and 1997, about 92% of investment was paid for by firms' own internal
+   funds and so "the stock market contributes virtually nothing to the
+   financing of outside investment." Even new stock offerings only
+   accounted for 4% of non-financial corporations capital expenditures.
+   [Doug Henwood, Wall Street, p. 72] "In spite of the stock market's
+   large symbolic value, it is notorious that it has relatively little to
+   do with the production of goods and services," notes David Ellerman,
+   "The overwhelming bulk of stock transactions are in second-hand shares
+   so the capital paid for shares usually goes to other stock traders, not
+   to productive enterprises issuing new shares." [The Democratic
+   worker-owned firm, p. 199]
 
    In other words, most investment is simply the "risk" associated with
    buying a potential income stream in an uncertain world. The buyer's

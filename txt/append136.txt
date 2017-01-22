@@ -11,10 +11,9 @@
    According to Murray Rothbard ["Society Without A State", in Nomos XIX,
    Pennock and Chapman, eds., p. 192.], a state must have one or both of
    the following characteristics:
-
-   1) The ability to tax those who live within it.
-       2) It asserts and usually obtains a coerced monopoly of the
-       provision of defence over a given area.
+              1) The ability to tax those who live within it.
+                 2) It asserts and usually obtains a coerced monopoly of
+       the provision of defence over a given area.
 
    He makes the same point in The Ethics of Liberty [p. 171].
 
@@ -248,7 +247,9 @@
    Thus a system of "defence" on the market will continue to reflect the
    influence and power of property owners and wealth and not be subject to
    popular control beyond choosing between companies to enforce the
-   capitalist laws.
+   capitalist laws
+
+   .
 
 6.2 What are the social consequences of such a system?
 

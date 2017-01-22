@@ -1,30 +1,36 @@
-                       Non-English versions of the FAQ
+   In French:
 
-                                 In Hebrew:
-                [1]http://www.shalif.com/anarchy/faqdama.html
-          [2]http://members.tripod.com/~alternativ_psy/faqdama.html
+   [1]Les FAQ anarchiste
 
-                                 In French:
-                            [3]Les FAQ anarchiste
-                     [4]Une FAQ Anarchiste (francophone)
+   [2]Une FAQ Anarchiste (francophone)
 
-                               In Portuguese:
-          [5]http://www.geocities.com/projetoperiferia2/indice.htm
+   In Kurdish:
 
-                                In Japanese:
-               [6]http://www.ne.jp/asahi/anarchy/anarchy/faq/
-          ________________________________________________________
+   [3]http:/kurdish.wordpress.com/
 
-                                [7][flag.gif]
-        Click on the flag to return to "An Anarchist FAQ" index page
-          ________________________________________________________
+   In Japanese:
+
+   [4]http://www.ne.jp/asahi/anarchy/anarchy/faq/
+
+   In Hebrew:
+
+   [5]http://www.shalif.com/anarchy/faqdama.html
+
+   [6]http://members.tripod.com/~alternativ_psy/faqdama.html
+
+   In Portuguese:
+
+   [7]http://www.reocities.com/projetoperiferia2/indice.htm
+
+   Click [8]here to return to An Anarchist FAQ front-page
 
 References
 
-   1. http://www.shalif.com/anarchy/faqdama.html
-   2. http://members.tripod.com/~alternativ_psy/faqdama.html
-   3. http://anarfaq.free.fr/
-   4. http://faqanar.free.fr/
-   5. http://www.geocities.com/projetoperiferia2/indice.htm
-   6. http://www.ne.jp/asahi/anarchy/anarchy/faq/
-   7. //usr/share/doc/anarchism/txt/index.txt
+   1. http://anarfaq.free.fr/
+   2. http://faqanar.free.fr/
+   3. http:/kurdish.wordpress.com/
+   4. http://www.ne.jp/asahi/anarchy/anarchy/faq/
+   5. http://www.shalif.com/anarchy/faqdama.html
+   6. http://members.tripod.com/%7Ealternativ_psy/faqdama.html
+   7. http://www.reocities.com/projetoperiferia2/indice.htm
+   8. http://www.anarchistfaq.org.uk/

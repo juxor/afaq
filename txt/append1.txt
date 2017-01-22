@@ -44,8 +44,8 @@
    audience and for indicating that anarchism, in all its forms, has
    always opposed capitalism and always will.
 
-     [5]Replies to Some Errors and Distortions in Bryan Caplan's
-   "Anarchist Theory FAQ" version 5.2
+     * [5]Replies to Some Errors and Distortions in Bryan Caplan's
+       "Anarchist Theory FAQ" version 5.2
 
    [6]1 Individualist Anarchists and the socialist movement.
        [7]2 Why is Caplan's definition of socialism wrong?
@@ -54,8 +54,8 @@
        [10]5 Anarchism and "anarcho"-capitalism.
        [11]6 Appendix: Defining Anarchism
 
-     [12]Replies to Some Errors and Distortions in Bryan Caplan's
-   "Anarchist Theory FAQ" version 4.1.1
+     * [12]Replies to Some Errors and Distortions in Bryan Caplan's
+       "Anarchist Theory FAQ" version 4.1.1
 
    [13]1 Is anarchism purely negative?
        [14]2 Anarchism and Equality
@@ -63,7 +63,7 @@
        [16]4 Anarchism and dissidents
        [17]5 How would anarcho-capitalism work?
 
-     [18]Is "anarcho"-capitalism a type of anarchism?
+     * [18]Is "anarcho"-capitalism a type of anarchism?
 
 References
 

@@ -15,7 +15,7 @@
    understanding an evolving world and to change it in libertarian
    directions. As such, AFAQ seeks to place specific aspects of anarchism
    into their historical context. For example, certain aspects of
-   Proudhons ideas can only be understood by remembering that he lived at
+   Proudhon's ideas can only be understood by remembering that he lived at
    a time when the vast majority of working people were peasants and
    artisans. Many commentators (particularly Marxist ones) seem to forget
    this (and that he supported co-operatives for large-scale industry).
@@ -65,7 +65,7 @@
    themselves on most issues and that can take space. Some of the evidence
    we use is from books and articles the general reader may not have easy
    access so we have tried to present full quotes to show that our use is
-   correct (the number of times Ive tracked down references only to
+   correct (the number of times I've tracked down references only to
    discover they did not say what was suggested is, sadly, quite
    numerous).
 
@@ -163,7 +163,7 @@
    social relationships marked by authority (hier-archy) produces a
    self-contradictory mess (such as supporting forms of domination, such
    as wage labour, which are essentially identical to those produced by
-   the state and, sometimes, admitted as such!). Anarchism is,
+   the state - and, sometimes, admitted as such!). Anarchism is,
    fundamentally, a theory of organisation based on individuals
    associating together without restricting, and so denying and limiting,
    their freedom and individuality. This means that a consistent anarchism
@@ -249,7 +249,7 @@
    for the boss and the premier. I think most of us realise and understand
    that, in our guts, but schools, culture, the police, all the
    authoritarian apparatuses, tell us we need bosses, we need to be
-   controlled 'for our own good.' It's not for our own good it's for the
+   controlled 'for our own good.' It's not for our own good - it's for the
    good of the boss, plain and simple."
 
    "Anarchism is a demand for real freedom and real autonomy"
@@ -280,4 +280,4 @@
 References
 
    1. //usr/share/doc/anarchism/txt/secA5.txt
-   2. http://www.anarchistfaq.org/
+   2. //usr/share/doc/anarchism/txt/index.txt

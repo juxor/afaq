@@ -1,22 +1,23 @@
-     Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist
-   Theory FAQ" version 4.1.1. There have been a few "anarchist" FAQ's
-   produced before. Bryan Caplan's anarchism FAQ is one of the more
-   recent. While appearing to be a "neutral" statement of anarchist ideas,
-   it is actually in large part an "anarcho"-capitalist FAQ. This can be
-   seen by the fact that anarchist ideas (which he calls "left-anarchist")
-   are given less than half the available space while "anarcho"-capitalist
-   dogma makes up the majority of it. Considering that anarchism has been
-   around far longer than "anarcho"-capitalism and is the bigger and
-   better established movement, this is surprising. Even his use of the
-   term "left anarchist" is strange as it is never used by anarchists and
-   ignores the fact that Individualist Anarchists like Tucker called
-   themselves "socialists" and considered themselves part of the wider
-   socialist movement. For anarchists, the expression "left anarchist" is
-   meaningless as all anarchists are anti-capitalist. Thus the terms used
-   to describe each "school" in his FAQ are biased (those whom Caplan
-   calls "Left anarchists" do not use that term, usually preferring
-   "social anarchist" to distinguish themselves from individualist
-   anarchists like Tucker).
+     * Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist
+       Theory FAQ" version 4.1.1.
+
+   There have been a few "anarchist" FAQ's produced before. Bryan Caplan's
+   anarchism FAQ is one of the more recent. While appearing to be a
+   "neutral" statement of anarchist ideas, it is actually in large part an
+   "anarcho"-capitalist FAQ. This can be seen by the fact that anarchist
+   ideas (which he calls "left-anarchist") are given less than half the
+   available space while "anarcho"-capitalist dogma makes up the majority
+   of it. Considering that anarchism has been around far longer than
+   "anarcho"-capitalism and is the bigger and better established movement,
+   this is surprising. Even his use of the term "left anarchist" is
+   strange as it is never used by anarchists and ignores the fact that
+   Individualist Anarchists like Tucker called themselves "socialists" and
+   considered themselves part of the wider socialist movement. For
+   anarchists, the expression "left anarchist" is meaningless as all
+   anarchists are anti-capitalist. Thus the terms used to describe each
+   "school" in his FAQ are biased (those whom Caplan calls "Left
+   anarchists" do not use that term, usually preferring "social anarchist"
+   to distinguish themselves from individualist anarchists like Tucker).
 
    Caplan also frames the debate only around issues which he is
    comfortable with. For example, when discussing "left anarchist" ideas
@@ -532,10 +533,10 @@
    experiment if they could afford it and accepted the legal system based
    on capitalist property rights (and, of course, survive the competition
    of capitalist companies within the capitalist framework). As we have
-   argued in sections [3]B.4 and [4]F.3why
-   should we have to pay the stealers of the earth for the privilege to
-   life our own lives? Caplan, in effect, ignores the barriers to
-   experimentation in his system while distorting the anarchist position.
+   argued in sections [3]B.4 and [4]F.3 why should we have to pay the
+   stealers of the earth for the privilege to life our own lives? Caplan,
+   in effect, ignores the barriers to experimentation in his system while
+   distorting the anarchist position.
 
 5 How would anarcho-capitalism work?
 

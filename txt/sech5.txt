@@ -2839,6 +2839,9 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    expected, given the nature of vanguardism and the Bolshevik vision of
    socialism.
 
+   [41]< H.4 Didn't Engels refute anarchism in "On Authority"? [42]up
+   [43]H.6 Why did the Russian Revolution fail? >
+
 References
 
    1. //usr/share/doc/anarchism/txt/secH5.txt#sech54
@@ -2881,3 +2884,6 @@ References
   38. //usr/share/doc/anarchism/txt/secH6.txt
   39. //usr/share/doc/anarchism/txt/secH6.txt#sech62
   40. //usr/share/doc/anarchism/txt/secH6.txt#sech61
+  41. //usr/share/doc/anarchism/txt/secH4.txt
+  42. //usr/share/doc/anarchism/txt/secHcon.txt
+  43. //usr/share/doc/anarchism/txt/secH6.txt

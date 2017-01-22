@@ -613,7 +613,7 @@ rebellion"?
      of the workers and peasants, it is impossible to break down the
      resistance of these exploiters. On the other hand, revolutionary
      coercion is bound to be employed towards the wavering and unstable
-     elements among the masses themselves." [Collected Works, vol. 42, p.
+     elements among the masses themselves." [Collected Works, vol. 24, p.
      170]
 
    And who exercises this "revolutionary coercion"? The majority? No, the
@@ -739,8 +739,8 @@ counterrevolution"?
 
      "Commune will be organised by the standing federation of the
      Barricades. . . [T]he federation of insurgent associations, communes
-     and provinces . . . [would] organise a revolutionary force capable
-     of defeating reaction . . . it is the very fact of the expansion and
+     and provinces . . . [would] organise a revolutionary force capableof
+     defeating reaction . . . it is the very fact of the expansion and
      organisation of the revolution for the purpose of self-defence among
      the insurgent areas that will bring about the triumph of the
      revolution." [Michael Bakunin: Selected Writings, pp. 170-1]
@@ -812,7 +812,7 @@ counterrevolution"?
 
    Fisher distorts the real issue and instead invents a straw man which
    has no bearing at all on the real anarchist position (for further
-   discussion, see sections [16]H.2.1 and [17]J.7.6).
+   discussion, see sections [16]I.5.14 and [17]J.7.6).
 
 7. Are Anarchists simply "potential Marxists"?
 
@@ -1458,7 +1458,7 @@ References
   13. //usr/share/doc/anarchism/txt/append35.txt#app4
   14. //usr/share/doc/anarchism/txt/append35.txt#app4
   15. //usr/share/doc/anarchism/txt/append35.txt#app4
-  16. //usr/share/doc/anarchism/txt/secH2.txt#sech21
+  16. //usr/share/doc/anarchism/txt/secI5.txt#seci514
   17. //usr/share/doc/anarchism/txt/secJ7.txt#secj76
   18. //usr/share/doc/anarchism/txt/append35.txt#app6
   19. //usr/share/doc/anarchism/txt/append35.txt#app5

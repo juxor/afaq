@@ -12,8 +12,7 @@
 
      "They are connected with each other -- not as mere accidental
      co-incidences. They are linked together by the links of cause and
-     effect."
-     [Kropotkin, Evolution and Environment, p. 94]
+     effect." [Kropotkin, Evolution and Environment, p. 94]
 
    In this section, in consequence, as well as explaining why anarchists
    oppose the state, we will necessarily have to analyse the relationship
@@ -125,10 +124,12 @@
    characteristics which identify a social institution as a state. As
    such, we can say that, for anarchists, the state is marked by three
    things:
+          1) A "monopoly of violence" in a given territorial area;
 
-   1) A "monopoly of violence" in a given territorial area;
-       2) This violence having a "professional," institutional nature; and
-       3) A hierarchical nature, centralisation of power and initiative
+          2) This violence having a "professional," institutional nature;
+       and
+
+          3) A hierarchical nature, centralisation of power and initiative
        into the hands of a few.
 
    Of these three aspects, the last one (its centralised, hierarchical
@@ -257,8 +258,8 @@
      robbery, no bold plunder or shabby betrayal that has not been or is
      not daily being perpetrated by the representatives of the states,
      under no other pretext than those elastic words, so convenient and
-     yet so terrible: 'for reasons of state.'"
-     [Bakunin on Anarchism, pp. 133-4]
+     yet so terrible: 'for reasons of state.'" [Bakunin on Anarchism, pp.
+     133-4]
 
    Governments habitually lie to the people they claim to represent in
    order to justify wars, reductions (if not the destruction) of civil
@@ -430,20 +431,20 @@ B.2.1 What is main function of the state?
    Simply put, if the state "presented nothing but a collection of
    prescriptions serviceable to rulers, it would find some difficulty in
    insuring acceptance and obedience" and so the law reflects customs
-   "essential to the very being of society"
-   but these are "cleverly intermingled with usages imposed by the ruling
-   caste and both claim equal respect from the crowd." Thus the state's
-   laws have a "two-fold character." While its "origin is the desire of
-   the ruling class to give permanence to customs imposed by themselves
-   for their own advantage" it also passes into law "customs useful to
-   society, customs which have no need of law to insure respect" -- unlike
-   those "other customs useful only to rulers, injurious to the mass of
-   the people, and maintained only by the fear of punishment." [Kropotkin,
-   Op. Cit., pp. 205-6] To use an obvious example, we find the state using
-   the defence of an individual's possessions as the rationale for
-   imposing capitalist private property rights upon the general public
-   and, consequently, defending the elite and the source of its wealth and
-   power against those subject to it.
+   "essential to the very being of society" but these are "cleverly
+   intermingled with usages imposed by the ruling caste and both claim
+   equal respect from the crowd." Thus the state's laws have a "two-fold
+   character." While its "origin is the desire of the ruling class to give
+   permanence to customs imposed by themselves for their own advantage" it
+   also passes into law "customs useful to society, customs which have no
+   need of law to insure respect" -- unlike those "other customs useful
+   only to rulers, injurious to the mass of the people, and maintained
+   only by the fear of punishment." [Kropotkin, Op. Cit., pp. 205-6] To
+   use an obvious example, we find the state using the defence of an
+   individual's possessions as the rationale for imposing capitalist
+   private property rights upon the general public and, consequently,
+   defending the elite and the source of its wealth and power against
+   those subject to it.
 
    Moreover, even though the state does take a secondary interest in
    protecting the security of persons (particularly elite persons), the
@@ -1067,12 +1068,12 @@ B.2.3 How does the ruling class maintain control of the state?
    Then there is the sad process by which politicians, once they leave
    politics, get jobs in the corporate hierarchy (particularly with the
    very companies they had previously claimed to regulate on behalf of the
-   public). This was termed "the revolving door."
-   Incredibly, this has changed for the worse. Now the highest of
-   government officials arrive directly from the executive offices of
-   powerful corporations. Lobbyists are appointed to the jobs whose
-   occupants they once vied to influence. Those who regulate and those
-   supposed to be regulated have become almost indistinguishable.
+   public). This was termed "the revolving door." Incredibly, this has
+   changed for the worse. Now the highest of government officials arrive
+   directly from the executive offices of powerful corporations. Lobbyists
+   are appointed to the jobs whose occupants they once vied to influence.
+   Those who regulate and those supposed to be regulated have become
+   almost indistinguishable.
 
    Thus politicians and capitalists go hand in hand. Wealth selects them,
    funds them and gives them jobs and income when in office. Finally, once
@@ -1271,7 +1272,7 @@ B.2.3 How does the ruling class maintain control of the state?
    State in Capitalist Society [Basic Books, 1969] and Divided Societies
    [Oxford, 1989]; G. William Domhoff, Who Rules America? [Prentice Hall,
    1967]; and Who Rules America Now? A View for the '80s [Touchstone,
-   1983]).<.p>
+   1983]).
 
 B.2.4 How does state centralisation affect freedom?
 
@@ -1610,8 +1611,8 @@ B.2.5 Who benefits from centralisation?
 
      "[Thus] the middle classes surrounded themselves with every
      precaution in order to keep the municipal power in the hands of the
-     well-to-do members of the community."
-     [The Great French Revolution, vol. 1, pp. 179-186]
+     well-to-do members of the community." [The Great French Revolution,
+     vol. 1, pp. 179-186]
 
    Thus centralisation aimed to take power away from the mass of the
    people and give it to the wealthy. The power of the people rested in
@@ -1837,8 +1838,8 @@ B.2.5 Who benefits from centralisation?
    political ambitions are forced to court . . . The Sovereign People."
    But on the "day after the elections every one goes back to their daily
    business" and the politicians are given carte blanche to rule in the
-   name of the people they claim to represent."
-   [Bakunin, The Political Philosophy of Bakunin, p. 218 and p. 219]
+   name of the people they claim to represent." [Bakunin, The Political
+   Philosophy of Bakunin, p. 218 and p. 219]
 
 B.2.6 Can the state be an independent power within society?
 
