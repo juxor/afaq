@@ -1209,7 +1209,8 @@ is effectively articulate and spread this new sensibility; it must have a
 coherent theory and extensive literature; it must be capable of duelling with
 the authoritarian movements that try to denature the intuitive libertarian
 impulses of our time and channel social unrest into hierarchical forms of
-organisation."_ [**Looking Back at Spain"**, p. 90]
+organisation."_ [_"Looking Back at Spain,"_ pp. 53-96, Dimitrios I.
+Roussopoulos (ed.), **The Radical Papers**, p. 90]
 
 
 

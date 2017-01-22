@@ -59,9 +59,6 @@ struggle?](secJ4.html#secj45)
 [J.4.6 What are implications of anti-government and anti-big business
 feelings? ](secJ4.html#secj46)  
 [J.4.7 What about the communications revolution? ](secJ4.html#secj47)  
-[J.4.8 What is the significance of the accelerating rate of change and the
-information explosion? ](secJ4.html#secj48)  
-[J.4.9 What are Netwars?](secJ4.html#secj49)  
 
 ## [J.5 What alternative social organisations do anarchists
 create?](secJ5.html)
@@ -73,17 +70,17 @@ unions?](secJ5.html#secj53)
 [J.5.4 What are industrial networks?](secJ5.html#secj54)  
 [J.5.5 What forms of co-operative credit do anarchists
 support?](secJ5.html#secj55)  
-[J.5.6 What are the key features of mutual credit schemes?](secJ5.html#secj56)  
+[J.5.6 Why are mutual credit schemes important?](secJ5.html#secj56)  
 [J.5.7 Do most anarchists think mutual credit is sufficient to abolish
 capitalism?](secJ5.html#secj57)  
 [J.5.8 What would a modern system of mutual banking look like?
 ](secJ5.html#secj58)  
 [J.5.9 How does mutual credit work?](secJ5.html#secj59)  
 [J.5.10 Why do anarchists support co-operatives?](secJ5.html#secj510)  
-[J.5.11 If workers really want self-management, why aren't there more producer
-co-operatives?](secJ5.html#secj511)  
-[J.5.12 If self-management is more efficient, surely capitalist firms will be
-forced to introduce it by the market?](secJ5.html#secj512)  
+[J.5.11 If workers really want self-management then why are there so few co-
+operatives?](secJ5.html#secj511)  
+[J.5.12 If self-management were more efficient then surely the market would
+force capitalists to introduce it?](secJ5.html#secj512)  
 [J.5.13 What are Modern Schools?](secJ5.html#secj513)  
 [J.5.14 What is Libertarian Municipalism?](secJ5.html#secj514)  
 [J.5.15 What attitude do anarchists take to the welfare
@@ -93,28 +90,22 @@ help?](secJ5.html#secj516)
 
 ## [J.6 What methods of child rearing do anarchists advocate?](secJ6.html)
 
-###  [J.6.1 What are the main principles of raising free children and the main
-obstacles to implementing those principles?](secJ6.html#secj61)  
-[J.6.2 What are some examples of libertarian child-rearing methods applied to
-the care of newborn infants](secJ6.html#secj62)  
-[J.6.3 What are some examples of libertarian child-rearing methods applied to
-the care of young children?  
-[J.6.4 If children have nothing to fear, how can they be
-good?](secJ6.html#secj64)  
-[J.6.5 But how can children learn _ethics_ if they are not given punishments,
-prohibitions, and religious instruction? ](secJ6.html#secj65)  
-[J.6.6 But how will a free child ever learn unselfishness?](secJ6.html#secj66)  
-[J.6.7 Isn't what you call "libertarian child-rearing" just another name for
-spoiling the child?](secJ6.html#secj67)  
-[J.6.8 What is the anarchist position on teenage sexual
-liberation?](secJ6.html#secj68)  
-[J.6.9 But isn't this concern with teenage sexual liberation just a
-distraction from issues that should be of more concern to anarchists, like
-restructuring the economy?](secJ6.html#secj69)  
+###  [J.6.1 What are the main obstacles to raising free
+children?](secJ6.html#secj61)  
+[J.6.2 What are some examples of libertarian child-rearing
+methods?](secJ6.html#secj62)  
+[J.6.3 If children have nothing to fear, how can they be
+good?](secJ6.html#secj63)  
+[J.6.4 Isn't "libertarian child-rearing" just another name for spoiling the
+child?](secJ6.html#secj64)  
+[J.6.5 What is the anarchist position on teenage sexual
+liberation?](secJ6.html#secj65)  
+[J.6.6 But isn't this concern with sexual liberation just a distraction from
+revolution?](secJ6.html#secj66)  
 
 ## [J.7 What do anarchists mean by social revolution?](secJ7.html)
 
-###  [J.7.1 Are all anarchists revolutionaries?](secJ7.html#secj71)  
+###  [J.7.1 Why are most anarchists revolutionaries?](secJ7.html#secj71)  
 [J.7.2 Is social revolution possible?](secJ7.html#secj72)  
 [J.7.3 Doesn't revolution mean violence?](secJ7.html#secj73)  
 [J.7.4 What would a social revolution involve?](secJ7.html#secj74)  

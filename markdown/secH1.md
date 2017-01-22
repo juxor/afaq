@@ -833,7 +833,7 @@ new [ruling] class, a new hierarchy of real and counterfeit scientists and
 scholars, and the world will be divided into a minority ruling in the name of
 knowledge, and an immense ignorant majority. And then, woe unto the mass of
 ignorant ones!"_ Thus _"every state, even the pseudo-People's State concocted
-by Mr. Marx, is in essence only a machine ruling the masses from below,
+by Mr. Marx, is in essence only a machine ruling the masses from above,
 through a privileged minority of conceited intellectuals who imagine that they
 know what the people need and want better than do the people themselves."_ The
 Russian anarchist predicted that _"the organisation and the rule of the new

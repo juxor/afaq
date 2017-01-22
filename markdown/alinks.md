@@ -8,7 +8,10 @@ Click on the flag to go back to _**"An Anarchist FAQ"_** main page
 
 ## Anarchist News
 
-**_Webpages for breaking news of anarchist and radical actions and ideas._**
+**_Webpages for breaking news of anarchist and radical actions and ideas._**  
+All the links marked like this are not available anymore, they're still here
+for _historic_ purposes, also some of them are availabe through [Archive.org
+WayBack Machine](http://www.archive.org/web/web.php)
 
 [A-infos: Anarchist News Service](http://www.ainfos.ca/)  
 [A-Infos: Anarchist News Service ](http://212.204.198.111/)  
@@ -32,7 +35,7 @@ for individual countries and North American regions and cities. Some Indymedia
 sites are better than others, so be warned!
 
 [anarchoMEDIA - Anarchist/Anti-Authoritarian News and Resources for
-Ireland](http://www.anarchomedia.cjb.net/)  
+Ireland](http://web.archive.org/web/*/http://www.anarchomedia.cjb.net/)  
 Name says it all!
 
 [Anarchist news dot org | News for anarchists and their
@@ -90,7 +93,8 @@ history. Excellent resource.
 Page](http://www.eskimo.com/~galt/revolt.html)  
 The nice anarchist webpage based in Seattle, USA.
 
-[ Anarchism](http://www.lincoln.ac.uk/spp/charlie/grand/anarchy/who.html)  
+[
+Anarchism](http://web.archive.org/web/*/http://www.lincoln.ac.uk/spp/charlie/grand/anarchy/who.html)  
 Good academic introduction and description of anarchism and anarchist ideas.
 
 [The Seed home page](http://Web.cs.city.ac.uk/homes/louise/seed2.html)  
@@ -99,7 +103,8 @@ Uk Alternative Information page. Links to many UK based anarchist resources.
 [An Anarchy Home Page](http://www.andrew.cmu.edu/~ctb/anarchy)  
 Links to anarchist and anarchist (and non-anarchist) related sites.
 
-[ANOTHER GODLESS ANARCHIST](http://www.xchange.anarki.net/~subvert/)  
+[ANOTHER GODLESS
+ANARCHIST](http://web.archive.org/web/*/http://www.xchange.anarki.net/~subvert/)  
 Excellent webpage containing an extensive series of links on anarchism,
 anarcho-syndicalism and much more!
 
@@ -108,20 +113,22 @@ Individualist Anarchist web-page. Useful resource on the minority trend within
 the anarchist movement.
 
 [Anarchy Punk !!!REVOLUTION NOW!!! Ska Anti-
-Facism](http://www.geocities.com/CapitolHill/1543/)  
+Facism](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/1543/)  
 Anarcho-punk web-site.
 
-[Andrew's Course in Anarchy](http://www.geocities.com/Athens/5362/index.html)  
+[Andrew's Course in
+Anarchy](http://web.archive.org/web/*/http://www.geocities.com/Athens/5362/index.html)  
 Introduction to anarchism. Basic, but generally good.
 
 [BURN! Nothing ever burns down by itself.](http://tierra.ucsd.edu/)  
 Excellent site on anarchist art. Has anarchist posters from the Spanish
 Revolution and Paris '68 among other things. Recommended.
 
-[ Anarchist Sampler](http://www.geocities.com/CapitolHill/5065/index.html)  
+[ Anarchist
+Sampler](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/5065/index.html)  
 Excellent collection of anarchist quotes on a wide range of subjects. Includes
 the excellent essay [Between Anarchism and
-Libertarianism](http://www.geocities.com/CapitolHill/5065/between.html).
+Libertarianism](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/5065/between.html).
 
 [Mark/Space: Anachron City: Library: Keywords: anarchy](http://www.euro.net
 /mark-space/Anarchy.html)  
@@ -133,14 +140,15 @@ Introduction to the ideas of **The Platform**, the Platformist tradition and
 the anarchist groups which apply it today.
 
 [Anarchist Information -
-Australia](http://www.geocities.com/Athens/Acropolis/3345/andex.html)  
+Australia](http://web.archive.org/web/*/http://www.geocities.com/Athens/Acropolis/3345/andex.html)  
 Australian anarchist web-page.
 
 [cat@lyst Main Menu](http://reflect.cat.org.au/)  
 A Temporary Autonomous Zone based in Sydney, Australia. Low tech grass roots
 net access for real people. Also to be found [here](http://www.cat.org.au)
 
-[The Resistance Page]( http://members.xoom.com/red_page)  
+[The Resistance
+Page](http://web.archive.org/web/*/http://members.xoom.com/red_page)  
 Has extensive and well organised links to various anarchist topics.
 
 [@net](http://www.anarki.net/index.html)  
@@ -150,7 +158,8 @@ Anarchist computer network based in Australia.
 New York based anarchist information bulletin for networking East and West
 alternatice oppositions.
 
-[AERO Home Page](http://www.geocities.com/SoHo/3351/)  
+[AERO Home
+Page](http://web.archive.org/web/*/http://www.geocities.com/SoHo/3351/)  
 Anarchist Education Resource Organisation Home page. has links to introductory
 texts on anarchism.
 
@@ -158,7 +167,7 @@ texts on anarchism.
 Good resource for anarchist links and articles.
 
 [ Collectivist
-Libertarianism](http://dmoz.org/Society/Politics/Libertarian/Collectivist_Libertarianism/)  
+Libertarianism](http://web.archive.org/web/*/http://dmoz.org/Society/Politics/Libertarian/Collectivist_Libertarianism/)  
 List of anarchist webpages (shame about the name).
 
 [Emma's Place - Another fun anarchist site](http://flag.blackened.net/chuck0/)  
@@ -168,39 +177,46 @@ anarchists are not serious revolutionaries all the time. Has the infamous
 herbal tea joke... Plus the **Anarchist Encyclopedia Project** and other
 useful pages.
 
-[ECOMMUNARD](http://www.geocities.com/RainForest/4544/)  
+[ECOMMUNARD](http://web.archive.org/web/*/http://www.geocities.com/RainForest/4544/)  
 Eco-anarchist web-page.
 
-[Freedom now](http://www.geocities.com/HotSprings/3150/Anarchy.html)  
+[Freedom
+now](http://web.archive.org/web/*/http://www.geocities.com/HotSprings/3150/Anarchy.html)  
 Increase your liberty by visiting this site.
 
-[Dave X. Pooh's Area](http://www.geocities.com/SoHo/6532/)  
+[Dave X. Pooh's
+Area](http://web.archive.org/web/*/http://www.geocities.com/SoHo/6532/)  
 Nice introduction to anarchism, plus links on other subjects.
 
-[BUNYIP WEBSITE a mutual aid site](http://www.geocities.com/SoHo/Lofts/3066/)  
+[BUNYIP WEBSITE a mutual aid
+site](http://web.archive.org/web/*/http://www.geocities.com/SoHo/Lofts/3066/)  
 Name says it all. Worth checking out and has links to many important issues
 (such as Australian Aboriginal issues).
 
 [Anarchism Study Group]( http://concordia.pirg.ca/anarchism/)  
 Excellent webpage about finding out about anarchism, based in Quebec, Canada.
 
-[Anarchist Study Resources](http://www.geocities.com/CapitolHill/8827/)  
+[Anarchist Study
+Resources](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/8827/)  
 Contains links to many anarchist articles (plus one by Lenin!). Also contains
-the e-zine [Slavery!](http://www.geocities.com/CapitolHill/8827/slavery.html)
+the e-zine
+[Slavery!](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/8827/slavery.html)
 
-[Struggle in Ireland](http://www.geocities.com/CapitolHill/4716/)  
+[Struggle in
+Ireland](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/4716/)  
 An anarchist analysis of struggles for freedom going on in Ireland.
 
-[anarchy](http://www.geocities.com/CapitolHill/5224/)  
+[anarchy](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/5224/)  
 Short and to the point introduction to anarchy and anarchist ideas.
 
 [Information about
-Anarchism](http://www.geocities.com/CapitolHill/Lobby/3998/)  
+Anarchism](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/3998/)  
 Anarchist articles and links. Contains a chapter of Bob Black's new book
 **Anarchy after Leftism** plus other articles on anarchist theory and history.
 Plus really cool anarcho-Simpsons graphic!.
 
-[fnord forever!](http://www.geocities.com/CapitolHill/Lobby/1313/)  
+[fnord
+forever!](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/1313/)  
 Sennaca's Anarcho-Communist Page.
 
 [Feenicks' Anarchist PAGE](http://www.ozemail.com.au/~feen/politics.html)  
@@ -210,35 +226,38 @@ Information and links on a range of subjects, such as Bolivian miners!
 Links to various anarchist pages and articles.
 
 [the Worldwide Cooperative Anarchy
-Movement](http://www.geocities.com/CapitolHill/Lobby/5956/)  
+Movement](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/5956/)  
 Name says it all!
 
-[Anarchist Propaganda](http://black.cat.org.au/aprop/)  
+[Anarchist
+Propaganda](http://web.archive.org/web/*/http://black.cat.org.au/aprop/)  
 Archive of anarchist articles and information on many subjects useful for
 anarchist activists.
 
 [The Libertarian Socialist
-Navigator](http://www.geocities.com/CapitolHill/Lobby/5326/)  
+Navigator](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/5326/)  
 Good introduction to anarchism and anarchist ideas. Has a section on anarcha-
 feminism.
 
-[World Wide Anarchism](http://www.geocities.com/CapitolHill/Lobby/4243/)  
+[World Wide
+Anarchism](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/4243/)  
 Extensive links to anarchist sites.
 
 [ Entrance to Anarchy: the only
-solution](http://www.freespeech.org/anarchytos/)  
+solution](http://web.archive.org/web/*/http://www.freespeech.org/anarchytos/)  
 Information about anarchy and anarchism. Nice (but graphic intensive!)
 
-[What's anarchy?](http://www.geocities.com/CapitolHill/9857/index.html)  
+[What's
+anarchy?](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/9857/index.html)  
 Find out what anarchy is and why you should be an anarchist (its shorter than
 the FAQ!). Plus links to **Calvin and Hobbes**!
 
 [Above Suspicion; Stealing from the Store of Pre-Packaged
-Culture](http://www.geocities.com/SoHo/7086/)  
+Culture](http://web.archive.org/web/*/http://www.geocities.com/SoHo/7086/)  
 Anarchist articles, rants and links.
 
 [Anarchist Web Directory
--Home](http://www.geocities.com/CapitolHill/Lobby/7094/index.html)  
+-Home](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/7094/index.html)  
 Articles and images about anarchism, plus an extensive links page
 
 [Home page for Proudhon](http://flag.blackened.net/)  
@@ -253,13 +272,15 @@ Excellent collection of anarchist webpages (individuals and groups).
 Religious anarchist webpage. Jesus as anarchist-socialist!
 
 [ An Eco-Anarchists Page (Environmental
-Anarchism)](http://www.angelfire.com/ca/ecoanarchist/index.html)  
+Anarchism)](http://web.archive.org/web/*/http://www.angelfire.com/ca/ecoanarchist/index.html)  
 Name says it all. Find out about eco-anarchism.
 
-[Home of the Watermelon Poet](http://www.geocities.com/RainForest/Vines/1196/)  
+[Home of the Watermelon
+Poet](http://web.archive.org/web/*/http://www.geocities.com/RainForest/Vines/1196/)  
 Eco-anarchist look at poetry, politics, our environments and more.
 
-[Song of the March Hare](http://www.geocities.com/Athens/Olympus/5309/)  
+[Song of the March
+Hare](http://web.archive.org/web/*/http://www.geocities.com/Athens/Olympus/5309/)  
 Good anarchist webpage with a slight **Alice in Wonderland** feel about it.
 Excellent link pages.
 
@@ -271,7 +292,7 @@ perspective.
 Mutual Aid website!
 
 [Bellatria and Pucks Home
-Page](http://www.geocities.com/CapitolHill/Lobby/8728/)  
+Page](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/8728/)  
 Yet another anarchist webpage at geocities! Good links.
 
 [Anarchist Action Network](http://www.zpub.com/notes/aadl.html)  
@@ -279,17 +300,19 @@ Sick and tired of anarchists and anarchism being misrepresented in the media?
 Then visit this webpage -- time to secure justice and fair treatment for
 anarchy! Excellent site.
 
-[The Sieve: Steve K's Home Pages](http://www.duke.edu/~sdk2/)  
+[The Sieve: Steve K's Home
+Pages](http://web.archive.org/web/*/http://www.duke.edu/~sdk2/)  
 Anarchist texts and links to anarchist and other sites
 
-[Anarchocommie's Home Page](http://www.geocities.com/CapitolHill/Lobby/3962/)  
+[Anarchocommie's Home
+Page](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/3962/)  
 A Communist-Anarchist's home page, strangely enough! Links and essays.
 
 [Rebels Home Page](http://www.theft.demon.co.uk/)  
 Sheffield (England) based anarchist webpage.
 
 [So many porcupines, so little
-time...](http://www.geocities.com/CapitolHill/Lobby/7579/)  
+time...](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/7579/)  
 A webpage with more than a dash of anarchism about it.
 
 [Social Anarchists International](http://flag.blackened.net/intanark/)  
@@ -298,7 +321,7 @@ Webpage about social anarchism. Includes a mirror of the FAQ.
 [Spiritual Anarchy](http://cavern.uark.edu/~dksander/anarchy.html)  
 Interesting selection of links to anarchist and non-anarchist webpages.
 
-[mobtown.org](http://www.mobtown.org/)  
+[mobtown.org](http://web.archive.org/web/*/http://www.mobtown.org/)  
 This is a resource of activists, anarchists and anti-authoritarians (among
 others) in the Baltimore metropolitan area in the USA.
 
@@ -313,11 +336,12 @@ FAQ.
 Find out about anarchism in Australia. The Melbourne node of the Australian
 @Net anarchist computer network. Excellent site!
 
-[New Tolpuddle Anarchist](http://www.geocities.com/CapitolHill/Senate/8908/)  
+[New Tolpuddle
+Anarchist](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/8908/)  
 Australian based anarchist page. Has information on anarchism, law, religion
 and other strange Associations.
 
-[Anarchos](http://www.web.net/~anarchos/)  
+[Anarchos](http://web.archive.org/web/*/http://www.web.net/~anarchos/)  
 Nice looking webpage on anarchism. Seems to be mainly Social Ecologist in
 nature.
 
@@ -325,20 +349,23 @@ nature.
 perspectives](http://salzman.physics.umb.edu/AnarchismEtc/AnarchismEtc)  
 Collection of interesting articles and essays on anarchism and other subjects.
 
-[ Libertarian Communist Scrapbook](http://www.geocities.com/Athens/Troy/6874/)  
+[ Libertarian Communist
+Scrapbook](http://web.archive.org/web/*/http://www.geocities.com/Athens/Troy/6874/)  
 Contains interesting articles on Libertarian Communism.
 
-[That Funky Poetic Anarchist]( http://members.xoom.com/AnarchoPoet/)  
+[That Funky Poetic
+Anarchist](http://web.archive.org/web/*/http://members.xoom.com/AnarchoPoet/)  
 Anarchism, poetry and other stuff.
 
-[lazosubverto's Home Page](http://www.geocities.com/SoHo/3374/index.html)  
+[lazosubverto's Home
+Page](http://web.archive.org/web/*/http://www.geocities.com/SoHo/3374/index.html)  
 Situationist-anarchist webpage. Looks impressive!
 
 [ nothingness.org ](http://www.nothingness.org/)  
 Very impressive anarchist webpage. Contains a Situationist International
 Archive, "Mr. Block" cartoons and much much more.
 
-[Anarchism](http://www.syntac.net/hoax/anarchism.html)  
+[Anarchism](http://web.archive.org/web/*/http://www.syntac.net/hoax/anarchism.html)  
 Excellent selection of links to various anarchist authors. Very well laid out.
 
 [ Real Anarchy](http://pages.whowhere.com/lifestyle/a--person/index.html)  
@@ -347,7 +374,8 @@ Anarchist webpage with a short definition of anarchism.
 [Action through Anarchy](http://jessejack.freehosting.net/anarchy/)  
 Very nice looking social anarchist webpage.
 
-[Anarchism and nationalism](http://www.users.globalnet.co.uk/~jenne/)  
+[Anarchism and
+nationalism](http://web.archive.org/web/*/http://www.users.globalnet.co.uk/~jenne/)  
 Anarchist perspectives on nationalism and ethnic conflict. Includes the work
 of such people as Rudolf Rocker.
 
@@ -355,10 +383,11 @@ of such people as Rudolf Rocker.
 Webpage dedicated to flag burning. Contains flag burning posters.
 
 [ Libertarian Socialism
-(Anarchism)](http://www.geocities.com/CapitolHill/Lobby/7769/main.html)  
+(Anarchism)](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/7769/main.html)  
 US based anarchist webpage.
 
-[A Queer/Homopage at equi.iww.org](http://www.iww.org/queer/)  
+[A Queer/Homopage at
+equi.iww.org](http://web.archive.org/web/*/http://www.iww.org/queer/)  
 A Radical Queer Labor Page from the IWW.
 
 [ANARCHY.ORG](http://www.anarchy.org/)  
@@ -367,40 +396,43 @@ Collection of articles and links about anarchism
 [(An) Anarchy Home Page](http://www.andrew.cmu.edu/~ctb/anarchy/)  
 Webpage with a useful series of links and articles.
 
-[Anarchism and Freedom](http://www.fl.net.au/~nellybet/index.htm)  
+[Anarchism and
+Freedom](http://web.archive.org/web/*/http://www.fl.net.au/~nellybet/index.htm)  
 Nice looking webpage with links to other anarchist sites.
 
 [Welcome to Rebel's home](http://www.theft.demon.co.uk/)  
 Excellent looking webpage with links and articles on anarchist subjects.
 
-[Anarchism: What is it?](http://www.angelfire.com/va/jsorenK/anrky.html)  
+[Anarchism: What is
+it?](http://web.archive.org/web/*/http://www.angelfire.com/va/jsorenK/anrky.html)  
 An anarcho-pacifist webpage with an impressive selection of quotes and
 articles.
 
 [ The Libertarian Communist Home
-Page](http://www.geocities.com/CapitolHill/Embassy/8970/)  
+Page](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Embassy/8970/)  
 Excellent libertarian communist (i.e. anarchist) webpage. Extensive links to
 articles, pamphlets, posters, etc.
 
-[The Resistance Page](http://members.xoom.com/red_page/)  
+[The Resistance
+Page](http://web.archive.org/web/*/http://members.xoom.com/red_page/)  
 Nice page with links to other sites and articles.
 
 [Center for Anarchist Propaganda "Errico
-Malatesta"](http://members.dencity.com/situationniste/)  
+Malatesta"](http://web.archive.org/web/*/http://members.dencity.com/situationniste/)  
 Impressive anarcho-situationist webpage.
 
 [ Anarchism and
-Punk](http://www.geocities.com/CapitolHill/Parliament/4750/index.html)  
+Punk](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Parliament/4750/index.html)  
 An Anarcho-Punk webpage.
 
-[Anarchism](http://www.angelfire.com/sk/anarchism/index.html)  
+[Anarchism](http://web.archive.org/web/*/http://www.angelfire.com/sk/anarchism/index.html)  
 Links and articles on anarchism and punk.
 
 [ (I)An-ok's Homepage of devious subversion and ultimate
 rebellion](http://medusa.twinoaks.org/members/\(I\)An-ok/)  
 Impressive webpage with links and articles.
 
-[Ozanarchy](http://www.xchange.anarki.net/~huelga/ozanarchy/)  
+[Ozanarchy](http://web.archive.org/web/*/http://www.xchange.anarki.net/~huelga/ozanarchy/)  
 Great site listing whats happening on-line in the Australian anarchist scene.
 
 [Poetry in Revolt](http://www.angelfire.com/mn2/anarchistpoetry/)  
@@ -411,7 +443,7 @@ An open-ended site for gathering, archiving, organizing and interpreting
 historical material related to anarchism in its various forms.
 
 [ Anarchist-Communist Theory and
-Practice](http://www.geocities.com/CapitolHill/Lobby/3962/)  
+Practice](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/3962/)  
 An excellent anarcho-communist page with many essays and links.
 
 [Professing: Dennis Fox's Home Page](http://www.uis.edu:1967/~fox/)  
@@ -419,10 +451,11 @@ Webpage of a Critical/Humanistic Psychologist which includes articles about
 anarchism and psychology.
 
 [ Paolo Chiocchetti's
-Homepage](http://www.geocities.com/CapitolHill/Senate/3671/)  
+Homepage](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/3671/)  
 Excellent webpage. Many anarchist links and articles.
 
-[Anarchism from HK](http://www.angelfire.com/punk/anarchynow/)  
+[Anarchism from
+HK](http://web.archive.org/web/*/http://www.angelfire.com/punk/anarchynow/)  
 Anarchist webpage from Hong Kong. Many articles and links.
 
 [Ken's Temporary Autonomous Zone](http://taz.tc/daelix/)  
@@ -443,29 +476,33 @@ An anarchist anti-election webpage from the North of England.
 Anarchist webpage with many articles, news and links.
 
 [ Anarchist Resistance
-Network](http://www.angelfire.com/zine/anarchistresistance/)  
+Network](http://web.archive.org/web/*/http://www.angelfire.com/zine/anarchistresistance/)  
 Name says it all.
 
 [ Queensland Anarchism creates Happy
-Anarchy](http://www.crosswinds.net/~happyanarchy/)  
+Anarchy](http://web.archive.org/web/*/http://www.crosswinds.net/~happyanarchy/)  
 Excellent webpage. Includes many articles and essays.
 
-[ commie zero zero](http://www.geocities.com/commie00/commie00.html)  
+[ commie zero
+zero](http://web.archive.org/web/*/http://www.geocities.com/commie00/commie00.html)  
 Webpage for the exploration of the connecting points between anarchism and
 libertarian marxism, the exploration of class struggle and from these the
 creation of a theoretical behaviour capable of helping us move toward
 libertarian communism (aka real communism, anarchy).
 
-[Killing King Abacus](http://www.geocities.com/kk_abacus/)  
+[Killing King
+Abacus](http://web.archive.org/web/*/http://www.geocities.com/kk_abacus/)  
 Excellent Anarchist webpage. Lots of links and articles.
 
-[ No Control](http://www.crosswinds.net/~zapata/newindex.html)  
+[ No
+Control](http://web.archive.org/web/*/http://www.crosswinds.net/~zapata/newindex.html)  
 Links to anarchist sites of interests.
 
-[Peace](http://i.am/antiwar)  
+[Peace](http://web.archive.org/web/*/http://i.am/antiwar)  
 Anarchist anti-war page.
 
-[Third Eye](http://www.geocities.com/the_third_eye_website/)  
+[Third
+Eye](http://web.archive.org/web/*/http://www.geocities.com/the_third_eye_website/)  
 News and analysis from a group of anarcho-marxists in New Zealand
 
 [ Alaskanarchy - Your guide to anarchy in
@@ -480,16 +517,17 @@ Excellent collection of anarchist, ecological, etc. links useful for
 activists.
 
 [
-Situationism](http://www.freespeech.org/ledland/Anarchism/A_Situationism.html)  
+Situationism](http://web.archive.org/web/*/http://www.freespeech.org/ledland/Anarchism/A_Situationism.html)  
 Excellent webpage introduction to Situationist ideas.
 
-[ Anarchist Archives Project](http://members.aol.com/wellslake/AAP.htm)  
+[ Anarchist Archives
+Project](http://web.archive.org/web/*/http://members.aol.com/wellslake/AAP.htm)  
 The Anarchist Archives Project was set up in 1982 for the purpose of
 collecting and preserving materials documenting the history of anarchism and,
 in turn, making them available to historians and interested individuals.
 
 [Anarchist Hompage - Don't beg for the right to live, take it.
-](http://anarchisthomepage.cjb.net/)  
+](http://web.archive.org/web/*/http://anarchisthomepage.cjb.net/)  
 Very good anarchist webpage.
 
 [Anarchism and Revolution in The Big
@@ -501,7 +539,8 @@ Network](http://www.anarchistcommunitarian.net/)
 Webpage for anarchists interested in "intentional communities" (i.e. forming
 anarchist communes in capitalist society).
 
-[The Resistance Page](http://members.xoom.com/red_page/)  
+[The Resistance
+Page](http://web.archive.org/web/*/http://members.xoom.com/red_page/)  
 Web page which provides information about anarchism and other groups opposed
 to exploitation.
 
@@ -512,7 +551,8 @@ Name says it all!
 [Stan Iverson Memorial Library](http://recollectionbooks.com/siml/)  
 Name says it all!
 
-[Generation Terrorists](http://free.freespeech.org/genterror/)  
+[Generation
+Terrorists](http://web.archive.org/web/*/http://free.freespeech.org/genterror/)  
 Good webpage from the USA.
 
 [ Baseman's site for Education and
@@ -527,7 +567,7 @@ Excellent collection of anarchist essays.
 UK based anarchist/libertarian communist anti-war group.
 
 [Nestor McNab's Anarcho-Communist
-Page](http://www.geocities.com/nestor_mcnab/)  
+Page](http://web.archive.org/web/*/http://www.geocities.com/nestor_mcnab/)  
 Name says it all!
 
 [Anarchist writings from
@@ -581,29 +621,30 @@ Brasilian anarchist webpage.
 Anarchism in Greece.
 
 [ Boletim No.18 - Publicao Peridica do Projeto
-Periferia](http://www.geocities.com/projetoperiferia/18.htm)  
+Periferia](http://web.archive.org/web/*/http://www.geocities.com/projetoperiferia/18.htm)  
 Excellent looking Portuguese webpage. Includes a Portuguese translation of our
 appendix on the [symbols of
-anarchy](http://www.geocities.com/projetoperiferia/18b.htm)!
+anarchy](http://web.archive.org/web/*/http://www.geocities.com/projetoperiferia/18b.htm)!
 
-[Anarquismo:Abertura](http://www.geocities.com/Athens/Acropolis/3471/)  
+[Anarquismo:Abertura](http://web.archive.org/web/*/http://www.geocities.com/Athens/Acropolis/3471/)  
 Excellent looking anarchist web-site.
 
 [ latinos libres - anarquismo en los
-EEUU](http://www.geocities.com/CapitolHill/2374/)  
+EEUU](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/2374/)  
 Topics in English and Spanish about the theory, history and current issues of
 the international anarchist movement.
 
-[El Kiosko Libertario](http://www.geocities.com/CapitolHill/3162/)  
+[El Kiosko
+Libertario](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/3162/)  
 Valencia based anarchist web-site (in Spanish)
 
 [Yelah.net](http://www.yelah.net) Weekly libertarian socialist web-magazine
 with daily news. 1825 articles and 1610 links...and counting.
 
 [ !!! P@RaToDoS o e-zine da Revoluo
-!!!](http://www.geocities.com/SunsetStrip/Alley/1290/)  
+!!!](http://web.archive.org/web/*/http://www.geocities.com/SunsetStrip/Alley/1290/)  
 Excellent looking web-site. Plus a short FAQ on anarchism called [P@RaToDoS -
-Anarquismo](http://www.geocities.com/SunsetStrip/Alley/1290/anarco2.htm).
+Anarquismo](http://web.archive.org/web/*/http://www.geocities.com/SunsetStrip/Alley/1290/anarco2.htm).
 
 [DADA](http://anarch.free.de/dada/)  
 Datenbank des deutschsprachigen Anarchismus. German anarchist webpage.
@@ -635,10 +676,11 @@ Excellent German anarchist site. Extensive number of links and articles.
 [Anarchismus](http://www.totentanz.de/kmedeke/anarchis.htm)  
 German anarchist webpage. Mostly links to other sites.
 
-[Zebulon's Page](http://www.geocities.com/CapitolHill/4372/)  
+[Zebulon's
+Page](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/4372/)  
 French anarchist page. Not much there - has links to a few other sites.
 
-[Potatodos](http://www.geocities.com/~bloodstorm/)  
+[Potatodos](http://web.archive.org/web/*/http://www.geocities.com/~bloodstorm/)  
 A Brazilian anarchist webpage in Portuguese
 
 [Anarquismo Hoje](http://www.terravista.pt/enseada/1112/)  
@@ -649,11 +691,11 @@ opinion:Anarkism](http://www.yahoo.se/Politik_och_foervaltning/Politik/Politisk_
 Yahoo's listing for Swedish anarchist sites.
 
 [Vilg anarchisti
-egyesljetek!](http://www.geocities.com/RainForest/Vines/8671/)  
+egyesljetek!](http://web.archive.org/web/*/http://www.geocities.com/RainForest/Vines/8671/)  
 Anarchist webpage from Hungary.
 
 [Salud Y Anarquia
-Companero](http://www.geocities.com/CapitolHill/Senate/1264/)  
+Companero](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/1264/)  
 Excellent anarchist webpage.
 
 [Info Usurpa](http://personal.redestb.es/gurmanyach/usurpa.htm)  
@@ -662,21 +704,22 @@ Spanish anarchist webpage.
 [DE NAR - HOMEPAGE](http://www.xs4all.be/~ance/denar/)  
 Dutch anarchist webpage.
 
-[Exceso](http://www.geocities.com/CapitolHill/Senate/5689/)  
+[Exceso](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/5689/)  
 Spanish anarchist website.
 
-[Loepa Berlin](http://www.geocities.com/CapitolHill/Lobby/8522/)  
+[Loepa
+Berlin](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/8522/)  
 German anarchist webpage.
 
 [Revolutionsbruhof/ Anarchistische Buchhandlung](http://www.inode.at/rbh/)  
 German Anarchist webpage.
 
 [Hemsida fr den hypnotiserade
-majoriteten](http://www.geocities.com/CapitolHill/Lobby/1063/)  
+majoriteten](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/1063/)  
 Very impressive Swedish anarchist webpage.
 
 [TOPRAK'S WEB PAGE / ANARCHISM IN
-TURKEY](http://members.xoom.com/toprak_grubu/index.htm)  
+TURKEY](http://web.archive.org/web/*/http://members.xoom.com/toprak_grubu/index.htm)  
 Anarchist webpage based in Turkey.
 
 [Kifla - Svucen's Page](http://public.srce.hr/~svucen/)  
@@ -686,7 +729,7 @@ Anarchism in Eastern Europe
 Brazilian webpage which owes alot to the Mid-Atlantic Info Shop!
 
 [ Ao Direta - Um Site
-Anarquista](http://www.geocities.com/CapitolHill/Lobby/5470/)  
+Anarquista](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/5470/)  
 Anarchist webpage from Brazil.
 
 [ | WWW.ANARCHIE.DE | ANARCHIE | FREIHEIT | SELBSTBESTIMMUNG | EVOLUTION
@@ -697,11 +740,12 @@ German anarchist webpage.
 Anarchist texts in Indonesian. Plus links to many anarchist and radical
 webpages.
 
-[ classwar now! homepage](http://www.geocities.com/CapitolHill/Lobby/4772/)  
+[ classwar now!
+homepage](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/4772/)  
 The homepage of CLASSWAR NOW! CLASSWAR NOW! is an anarchist-communist project
 by various leftwing radicals in Austria/Europe.
 
-[ambi](http://www.geocities.com/xs_ambi/)  
+[ambi](http://web.archive.org/web/*/http://www.geocities.com/xs_ambi/)  
 The Ambi web site includes articles for the zines Spawn of Croatan and il
 frenetico, as well as insurrectionary anarchist articles and links
 
@@ -711,13 +755,14 @@ Russian anarchist webpage. One of the few anarchist web-pages in Russian. And
 it is a (potentially big) library/archive
 
 [ ACCION DIRECTA KONTRA EL FASCISMO, EL KAPITALISMO Y OTRAS FORMAS DE
-OPRESION](http://www.geocities.com/CapitolHill/Lobby/9700/Accion.htm)  
+OPRESION](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/9700/Accion.htm)  
 Spanish Anarchist webpage.
 
 [Anarchy in BG](http://people.bulgaria.com/anarchy/)  
 Bulgarian Anarchist Webpage.
 
-[ Anarquia](http://www.geocities.com/CapitolHill/Congress/1672/)  
+[
+Anarquia](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Congress/1672/)  
 Anarchist webpage from Puerto Rico.
 
 [ANARCHISME(S) - index](http://www.multimania.com/anarchismes/)  
@@ -748,7 +793,7 @@ Very impressive Spanish language webpage.
 **_Anarchist homepages with a high anarchafeminist content._**
 
 [AnarchaFeminism (Anarchist
-Feminism)](http://www.geocities.com/Paris/2159/anrfem.html)  
+Feminism)](http://web.archive.org/web/*/http://www.geocities.com/Paris/2159/anrfem.html)  
 Good web-site on anarcha-Feminism. Contains an excellent introductory essay on
 the **Free Women** movement in 1930's Spain.
 
@@ -765,7 +810,8 @@ Anarcha-Feminist links from the Mid-Atlantic Info-Shop.
 HomePage](http://members.aol.com/ThryWoman/Index.html)  
 Essays and links on anarchism, anarcha-feminism and a whole lot more!
 
-[cassandra speaks](http://www.geocities.com/Athens/Troy/2777/)  
+[cassandra
+speaks](http://web.archive.org/web/*/http://www.geocities.com/Athens/Troy/2777/)  
 A feminist-anarchist visionary site
 
 [anarchobabe's fempages](http://www.j12.org/fempages/)  
@@ -839,26 +885,30 @@ A directory of autonomous, non-hierarchical groups, centres, bookshops and
 other organisations lists contacts throughout the known world, as well as all
 the original contacts and more from Britain and Ireland.
 
-[ Anarchists](http://www.geocities.com/CapitolHill/Lobby/4192/anarchis.html)  
+[
+Anarchists](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/4192/anarchis.html)  
 Links for many anarchist and anarcho-syndicalist organisations across the
 world. Part of the [Leftist Parties of the
-World](http://www.geocities.com/CapitolHill/Lobby/4192/) Webpage.
+World](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/4192/)
+Webpage.
 
 **Britain and Ireland**
 
 [ The Workers Solidarity Movement : Ireland - Anarchist
 organisation](http://struggle.ws/wsm.html)  
 Official Homepage of the Irish anarchist group. Another webpage is [All about
-Anarchism](http://www.geocities.com/CapitolHill/2419/) which has extensive
-articles on various aspects of anarchist ideas and history as well as
-anarchist analysis of current events. Has a large section on Irish politics.
-Yet another WSM site can be found
-[here](http://www.geocities.com/SunsetStrip/3145/) and
+Anarchism](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/2419/)
+which has extensive articles on various aspects of anarchist ideas and history
+as well as anarchist analysis of current events. Has a large section on Irish
+politics. Yet another WSM site can be found
+[here](http://web.archive.org/web/*/http://www.geocities.com/SunsetStrip/3145/)
+and
 
 [Anarchist Federation](http://www.afed.org.uk/)  
 Web site for the British revoluntionary Anarchist organisation.
 
-[Manchester AF](http://www.geocities.com/anarchist_federation/)  
+[Manchester
+AF](http://web.archive.org/web/*/http://www.geocities.com/anarchist_federation/)  
 Manchester branch of the UK's Anarchist Federation.
 
 [Anarchist Federation](http://www.afireland.org)  
@@ -866,7 +916,8 @@ Manchester branch of the UK's Anarchist Federation.
 Name says it all!
 
 [Class War](http://www.classwaruk.org/)  
-[CLASS WAR](http://www.geocities.com/CapitolHill/9482/)  
+[CLASS
+WAR](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/9482/)  
 [Class War](http://www.tao.ca/~lemming/classwar/)  
 Webpages for the UK based anarchist group **Class War**. Also see [This Is
 Class War - What we
@@ -881,14 +932,15 @@ communist hroups in London, England.
 Homepage for the SAN. Name says it all.
 
 [ Movement against the
-Monarchy](http://www.geocities.com/CapitolHill/Lobby/1793/Index.html)  
+Monarchy](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/1793/Index.html)  
 Anarchist group aiming to get rid of the British Monarchy and other parasites.
 
-[ SHEFFIELD ANARCHIST GROUP](http://www.geocities.com/CapitolHill/Lobby/6247/)  
+[ SHEFFIELD ANARCHIST
+GROUP](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/6247/)  
 Anarchist group based in the North East of England
 
 [ ANARCHIST TRADE UNION
-NETWORK](http://www.geocities.com/CapitolHill/Parliament/2522/)  
+NETWORK](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Parliament/2522/)  
 A network which aims to co-ordinate the activity of anarchists in Trade Unions
 in the UK. Join their mailing list at [ListBot - @TU Home
 Page](http://atu.listbot.com/).
@@ -923,7 +975,8 @@ includes current discussion around class and culture issues.
 A group of anti-authoritarian, anti-capitalist, anti-hierarchy direct action
 activists in Surrey, England.
 
-[Aberdeen Anarchist Resistance](http://geocities.com/resistanceab/)  
+[Aberdeen Anarchist
+Resistance](http://web.archive.org/web/*/http://geocities.com/resistanceab/)  
 Scottish Anarchist group.
 
 [Anarchist Youth Network](http://flag.blackened.net/ayn/)  
@@ -935,7 +988,7 @@ Name says it all. For UK based anarchist youths.
 Homepage of the Anarchist Federation in Scotland.
 
 [No War but the Class War (NWBTCW) |
-Homepage](http://www.geocities.com/nowar_buttheclasswar/)  
+Homepage](http://web.archive.org/web/*/http://www.geocities.com/nowar_buttheclasswar/)  
 Webpage of anarchists and libertarian Marxists who want to present a
 revolutionary opposition to capitalist war.
 
@@ -981,19 +1034,19 @@ Anarchist group based in Hungary (texts in Hungarian and English).
 Homepage of the Polish Anarchists.
 
 [Nie Oficjalna Strona Anarcho-Komunistycznej Organizacji
-Platform](http://www.geocities.com/CapitolHill/Lobby/5158/)  
+Platform](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/5158/)  
 Unofficial Site of the Anarchist-Communist Organizational Platform of Poland.
 A site by a group of Polish anarchists interested in the Organisational
 Platform of the Libertarian Communists. Includes a new Polish translation of
 the Platform.
 
 [ Loepa Berlin - Homepage
-english](http://www.geocities.com/CapitolHill/Lobby/8522/)  
+english](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/8522/)  
 German autonomous group. English language pages can be found
-[here](http://www.geocities.com/CapitolHill/Lobby/8522/index_e.html).
+[here](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/8522/index_e.html).
 
 [Zagrebacki anarhisticki
-pokret](http://www.geocities.com/CapitolHill/Senate/3707/)  
+pokret](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/3707/)  
 Anarchist group based on Zagreb, Croatia.
 
 [AFD: Anarchistische Fderation in Deutschland](http://www.tao.ca/~i-afd/)  
@@ -1032,7 +1085,8 @@ Anarchist Federation.
 Webpage for Italian Anarchic Movement (MAI). Has hundreds of texts about
 anarchism, mostly available in English and Italian.
 
-[ UNIONE ANARCHICA](http://www.geocities.com/CapitolHill/8485/index.html)  
+[ UNIONE
+ANARCHICA](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/8485/index.html)  
 Webpage for Italian Anarchist Group.
 
 [Coordinadora Libertaria de Madrid](http://www.sindominio.net/clm/)  
@@ -1054,7 +1108,8 @@ Prce](http://www.volny.cz/priamaakcia/)
 Homepage of **Direct Action - Anarcho-communist Organisation of Labour** from
 Slovakia.
 
-[Back to the Streets](http://www.geocities.com/dromous)  
+[Back to the
+Streets](http://web.archive.org/web/*/http://www.geocities.com/dromous)  
 Webpage of the Greek group "Back to the Streets." For more anarchist groups in
 Greece, visit [ www.anarchy.gr](http://www.anarchy.gr/)
 
@@ -1080,7 +1135,8 @@ Notes towrds an alternative history. Summary of anarchist and left-wing
 influences in the Middle East. Has links to webpages and articles on this
 subject.
 
-[Anarcho-Communism Web Page](http://members.xoom.com/anarcho/anarchism.htm)  
+[Anarcho-Communism Web
+Page](http://web.archive.org/web/*/http://members.xoom.com/anarcho/anarchism.htm)  
 Homepage of the Istanbul Social Ecology Group. Good short introduction to
 anarchism.
 
@@ -1108,7 +1164,7 @@ A quick guide to anarchy and anarchists in North America.
 Anarchist Groups around the New York area of the United States.
 
 [ FEDERACIN ANARQUISTA AMOR Y
-RABIA](http://www.geocities.com/CapitolHill/Lobby/8911/)  
+RABIA](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/8911/)  
 Website for the (now no more?) revolutionary anarchist group based in Mexico
 and the USA.
 
@@ -1120,15 +1176,16 @@ Northampton, MA, USA.
 Homepage of the Chicago-area Radical Anarchist Youth Organizing Network
 (CRAYON).
 
-[Homes Not Jails Boston](http://www.geocities.com/CapitolHill/7996/)  
+[Homes Not Jails
+Boston](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/7996/)  
 Free the land, squat the world. Home page of the Boston direct action group
 which aims to end homelessness by squatting.
 
 [British Columbia Anarchist
-Association](http://www.geocities.com/CapitolHill/6322/)  
+Association](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/6322/)  
 Very strange Canadian anarchist webpage.
 
-[MichigAnarchists](http://www.geocities.com/CapitolHill/Senate/2577/)  
+[MichigAnarchists](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/2577/)  
 An anarchist collective based in Michigan, USA.
 
 [Heatwave CAF](http://flag.blackened.net/heatwave/)  
@@ -1141,11 +1198,12 @@ get a degree in anarchism!). Find out about the home of social ecology, one of
 the current threads in anarchist thought which has provoked quite a few
 discussions.
 
-[Los Angeles Anarchists](http://members.xoom.com/pfafs/laanarchists/)  
+[Los Angeles
+Anarchists](http://web.archive.org/web/*/http://members.xoom.com/pfafs/laanarchists/)  
 Name says it all. Home page for anarchists in LA, USA.
 
 [Chicano Anarchists and Left
-Libertarians](http://members.xoom.com/pfafs/mexanarchs.htm)  
+Libertarians](http://web.archive.org/web/*/http://members.xoom.com/pfafs/mexanarchs.htm)  
 Name says it all. Based in LA, USA.
 
 [WE DARE BE FREE](http://www.tao.ca/~wdbf/)  
@@ -1158,7 +1216,7 @@ articles from their paper, as well as news and analysis of all sorts of other
 issues.
 
 [ Organizacin Anarquista
-Libertad](http://www.geocities.com/Athens/Rhodes/8285/)  
+Libertad](http://web.archive.org/web/*/http://www.geocities.com/Athens/Rhodes/8285/)  
 Anarchist Organisation from Argentina.
 
 [Congreso de Unificacin Anarco-
@@ -1176,7 +1234,7 @@ French Speaking Anarchist group from Montreal, Canada.
 US based eco-anarchist group.
 
 [ Anarchist Black Cross - Los
-Angeles](http://members.xoom.com/pfafs/laanarchists/abc.htm)  
+Angeles](http://web.archive.org/web/*/http://members.xoom.com/pfafs/laanarchists/abc.htm)  
 Los Angeles based **Anarchist Black Cross** Group.
 
 [Anarchist Liberty Union](http://www.airlifted.com/alu/)  
@@ -1199,7 +1257,7 @@ the reformist/nationalistic agendas that dominate campaigns against global
 capitalism.
 
 [ Hope Liberty
-Association](http://www.geocities.com/hope_liberty_association/)  
+Association](http://web.archive.org/web/*/http://www.geocities.com/hope_liberty_association/)  
 An activist and anarchist collective working in Port Hope, Ontario and
 surrounding area.
 
@@ -1210,23 +1268,26 @@ Name says it all!
 Excellent looking webpage from the PAC.
 
 [The Connecticut Anti-Nationalist
-Party](http://www.geocities.com/connanp/index.html)  
+Party](http://web.archive.org/web/*/http://www.geocities.com/connanp/index.html)  
 Anarchist group in Connecticut, USA.
 
 [The Baltimore Anarchist Resource](http://www.crosswinds.net/~baltanarchist/)  
 Name says it all!
 
-[ Red & Black Notes Homepage](http://ca.geocities.com/red_black_ca/)  
+[ Red & Black Notes
+Homepage](http://web.archive.org/web/*/http://ca.geocities.com/red_black_ca/)  
 Libertarian socialist project based in Toronto, Canada.
 
-[Brousse Collective](http://www.geocities.com/broussecollective/)  
+[Brousse
+Collective](http://web.archive.org/web/*/http://www.geocities.com/broussecollective/)  
 Libertarian Communist group.
 
 [ Minnesota Anarchists and Anti-
 authoritarians](http://free.freespeech.org/mn/index.html)  
 Name says it all!
 
-[ Mile High Resistance](http://www.geocities.com/omniocracy/index.html)  
+[ Mile High
+Resistance](http://web.archive.org/web/*/http://www.geocities.com/omniocracy/index.html)  
 Anarchist group from Colorado (USA).
 
 [Northwest Anarchist Prisoner Support Network](http://www.breakthechains.net/)  
@@ -1266,14 +1327,16 @@ Southern Africa based class struggle anarchist federation.
 For a strong, united working class. Australian based revolutionary, class
 struggle anarchist group.
 
-[The Wildcat Collective](http://www.geocities.com/CapitolHill/Senate/5728/)  
+[The Wildcat
+Collective](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/5728/)  
 Anarchist group based in Adelaide, South Australia.
 
 [ Committee for the Establishment of Civilisation
 homepage](http://www.tao.ca/~cec/)  
 The Wellington branch of the Anarchist Alliance of Aotearoa.
 
-[3rdEye homepage](http://www.geocities.com/the_third_eye_website/)  
+[3rdEye
+homepage](http://web.archive.org/web/*/http://www.geocities.com/the_third_eye_website/)  
 A project offering news, views and abuse from Aotearoa, Land of the Long White
 Cloud.
 
@@ -1381,7 +1444,8 @@ Spanish Section of the Anarcho-Syndicalist International Workers Association.
 For an "unofficial" page check out
 [here](http://flag.blackened.net/liberty/cnt.html).
 
-[Unione Sindacale Italiana (USI)](http://www.geocities.com/CapitolHill/4737/)  
+[Unione Sindacale Italiana
+(USI)](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/4737/)  
 [Home U.S.I. ecn](http://www.ecn.org/usi-ait/)  
 Italian Section of the Anarcho-Syndicalist International Workers Association
 
@@ -1397,7 +1461,7 @@ Manchester section of the British Solidarity Federation
 South West England section of the British Solidarity Federation
 
 [ Federace socilnch anarchistu (Federation of social
-anarchists)](http://www.geocities.com/CapitolHill/Lobby/1211/)  
+anarchists)](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/1211/)  
 Home page of the Czech IWA Section.
 
 [Direct!](http://www.tao.ca/~direct_ait/)  
@@ -1434,17 +1498,18 @@ Name says it all!
 [Industrial Workers of the World](http://www.iww.org.uk/)  
 Homepage of the British section of the IWW.
 
-[IWW SCOTLAND](http://www.geocities.com/scottishwobblies/)  
+[IWW
+SCOTLAND](http://web.archive.org/web/*/http://www.geocities.com/scottishwobblies/)  
 Homepage of the IWW in Scotland.
 
 [Workers Solidarity (South Africa)](http://www.struggle.ws/wsf.html)  
 Home page for the South African anarchist-syndicalist group, the **Workers'
 Solidarity Federation**. Old site can be found
-[here](http://www.geocities.com/CapitolHill/7017/). Contains articles from
-their magazine, **Workers' Solidarity**.
+[here](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/7017/).
+Contains articles from their magazine, **Workers' Solidarity**.
 
 [ The Awareness League
-(Nigeria)](http://www.geocities.com/CapitolHill/7017/aware.html)  
+(Nigeria)](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/7017/aware.html)  
 Introduction to the Nigerian anarcho-syndicalist group.
 
 [ Anarcho-Syndicalist Group of
@@ -1456,7 +1521,7 @@ Home Page of the Spanish anarcho-syndicalist union the CGT.
 
 [Sac Syndikalisterna](http://www.sac.se/)  
 [ SAC - Syndikalisterna (Ume
-LS)](http://www.geocities.com/CapitolHill/Lobby/1690/)  
+LS)](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/1690/)  
 [ Central Organisation of Swedish Workers (SAC)
 ](http://flag.blackened.net/liberty/sac.html)  
 Home Pages of the Swedish syndicalist union the SAC.
@@ -1465,17 +1530,19 @@ Home Pages of the Swedish syndicalist union the SAC.
 [Syndikalistiska Ungdomsfrbundet - LUND](http://www.motkraft.net/suf_lund/)  
 [SUF - Gavle](http://redrival.com/suf_gavle/)  
 [Syndikalistiska Ungdomsfrbundet -
-GISLAVED](http://www.geocities.com/CapitolHill/8865/)  
+GISLAVED](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/8865/)  
 Swedish based anarchosyndicalist group. Part of the syndicalist SAC.
 
-[Syndikalist Ungdoms Frbund](http://www.geocities.com/CapitolHill/4811)  
-Swedish syndicalist youth organisation.
+[Syndikalist Ungdoms
+Frbund](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/4811)  
+Swedish syndicalist youth organisation. [
 
-[ Anarcho-Syndicalist Coalition Against
-Imperialism](http://members.xoom.com/ASCAI/home.htm)  
+Anarcho-Syndicalist Coalition Against
+Imperialism](http://web.archive.org/web/*/http://members.xoom.com/ASCAI/home.htm)  
 Information about ASCAI and anarcho-syndicalism.
 
-[People for a Free Society](http://members.xoom.com/pfafs/)  
+[People for a Free
+Society](http://web.archive.org/web/*/http://members.xoom.com/pfafs/)  
 People For A Free Society (PFAFS) is a Non-profit Anarcho-syndicalist
 collective based in East Los Angeles, CA.
 
@@ -1490,7 +1557,7 @@ Australian Anarcho-Syndicalist Group.
 
 [Organise! Anarcho-Syndicalist Federation](http://www.oasf.org.uk)  
 [ Organise! Anarcho-Syndicalist
-Federation](http://www.geocities.com/asf_ireland/)  
+Federation](http://web.archive.org/web/*/http://www.geocities.com/asf_ireland/)  
 Home page of the Northern Ireland based anarcho-syndicalist group.
 
 [KC Industrial Workers of the World](http://www.kcdirectaction.net/IWW/)  
@@ -1507,18 +1574,20 @@ Web-page ring for anarchist sites.
 [ Anarcho-Syndicalist Ring](http://flag.blackened.net/huelga/asring/)  
 Web-page ring for anarcho-syndicalist sites and organisations.
 
-[Self-Management Ring](http://members.xoom.com/autogestion/)  
+[Self-Management
+Ring](http://web.archive.org/web/*/http://members.xoom.com/autogestion/)  
 Extensive list of webpages on the topic of self-management, a key idea of
 anarchism.
 
-[Anarchy Ring!](http://www.geocities.com/CapitolHill/4372/anaring.htm)  
+[Anarchy
+Ring!](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/4372/anaring.htm)  
 An attempt to get all the anarchist web-pages into a common link rink.
 
 [Anarcho-Punk Web Ring](http://members.tripod.com/~xjwalkx/anarchopunk.html)  
 Place to go to find anarcho-punk related web-pages.
 
 [ The Pansexual Sex-Positive Libertarian Socialist
-Webring](http://www.geocities.com/CapitolHill/Lobby/5326/pansxlsxposlswr.html)  
+Webring](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/5326/pansxlsxposlswr.html)  
 This Webring consists of websites which are pansexual, sex-positive, and are
 Libertarian Socialist (anarchist) in nature, or derivative fellow travellers.
 
@@ -1582,7 +1651,8 @@ Free newsheet of the Irish anarchist group, the WSM.
 [Practical Anarchy Online](http://www.practicalanarchy.org/)  
 Name says it all really. Excellent home page for a great magazine!
 
-[Anarchist Age - W.W.W.](http://www.geocities.com/CapitolHill/3879/)  
+[Anarchist Age -
+W.W.W.](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/3879/)  
 [Anarchist Age](http://www.freespeech.org/anarchistAge/)  
 Australian based anarchist paper.
 
@@ -1610,7 +1680,7 @@ Iberia).
 [Kaspahraster Homepage](http://www.teleport.com/~jaheriot/kr.htm)  
 An anarcho-situationist fanzine. For the revolution of everyday life.
 
-[Utopia](http://www.geocities.com/Athens/8336/)  
+[Utopia](http://web.archive.org/web/*/http://www.geocities.com/Athens/8336/)  
 Anarchist magazine of culture and intervention from Portugal.
 
 [The Raven](http://www.tao.ca/~freedom/Raven/raven.html)  
@@ -1623,7 +1693,7 @@ FAU.
 [ Democracy & Nature: The International Journal of Inclusive
 Democracy](http://www.democracynature.org/dn/index.htm)  
 [ Democracy & Nature: The International Journal of Inclusive
-Democracy](http://www.geocities.com/democracy_nature/)  
+Democracy](http://web.archive.org/web/*/http://www.geocities.com/democracy_nature/)  
 [ Democracy & Nature: The International Journal of Inclusive
 Democracy](http://www.aigis.com/dn/)  
 International journal of libertarian socialist, anarchist, social ecologist
@@ -1650,20 +1720,22 @@ Anarchist newsletter produced in Baltimore, USA. Very good it is too.
 [Eat the State!](http://eatthestate.org/)  
 A forum for anti-authoritarian political opinion, research and humour.
 
-[ALPHA](http://www.geocities.com/CapitolHill/Lobby/4002/)  
+[ALPHA](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/4002/)  
 Greek Anarchist Newspaper. Nice looking site!
 
 [la mistoufle](http://www.mygale.org/06/santacru/)  
 Webpage of the anarchist newspaper of the same name. Produced by an anarchist
 group based on Dijon, France.
 
-[Communist Anarchy](http://www.geocities.com/SoHo/7086/)  
+[Communist
+Anarchy](http://web.archive.org/web/*/http://www.geocities.com/SoHo/7086/)  
 Irregularly produced anarchist zine.
 
 [Alternative Libertaire](http://users.skynet.be/AL/)  
 Belgium anarchist paper.
 
-[The Answer](http://www.geocities.com/Athens/Oracle/1009/)  
+[The
+Answer](http://web.archive.org/web/*/http://www.geocities.com/Athens/Oracle/1009/)  
 Webpage of Ahimsa, an anarcho-pacifist zine based in North America. Large
 number of articles.
 
@@ -1672,10 +1744,12 @@ number of articles.
 Useful American based anarchist magazine.
 
 [Venomous Butterfly](http://www.angelfire.com/or/vbuterfly/index.html)  
-[Venomous Butterfly](http://www.geocities.com/kk_abacus/vbutterfly.html)  
+[Venomous
+Butterfly](http://web.archive.org/web/*/http://www.geocities.com/kk_abacus/vbutterfly.html)  
 Magazine based in San Francisco, California, USA.
 
-[Revista Polemica](http://www.geocities.com/Athens/Forum/2846/)  
+[Revista
+Polemica](http://web.archive.org/web/*/http://www.geocities.com/Athens/Forum/2846/)  
 Barcelona, Spain/Catalonia, based anarchist paper.
 
 [The Northeastern Anarchist](http://flag.blackened.net/nefac/magazine.html)  
@@ -1700,7 +1774,7 @@ Always interesting US based anarchist magazine.
 [The Match!](http://ri.xu.org/arbalest/matchindex.html)  
 Selections from an Anarchist magazine from the USA.
 
-[Exceso](http://www.geocities.com/excesso.geo/)  
+[Exceso](http://web.archive.org/web/*/http://www.geocities.com/excesso.geo/)  
 Spanish language anarchist zine from San Francisco, USA.
 
 [ Sin Bandera](http://www.sindominio.net/clm/sinbandera.htm)  
@@ -1781,11 +1855,11 @@ Syndicalism](http://www.spunk.org/library/writers/rocker/sp001495/rocker_as1.htm
 Classic introduction to both anarchism and anarcho-syndicalism.
 
 [Anarchism: From Theory to
-Practice](http://www.geocities.com/CapitolHill/1931/guerin/contents.html) \--
-by Daniel Guerin.  
+Practice](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/1931/guerin/contents.html)
+\-- by Daniel Guerin.  
 [Anarchism: From Theory to
-Practice](http://www.geocities.com/nestor_mcnab/guerin/contents.html) \-- by
-Daniel Guerin.  
+Practice](http://web.archive.org/web/*/http://www.geocities.com/nestor_mcnab/guerin/contents.html)
+\-- by Daniel Guerin.  
 The complete text of Daniel Guerins excellent history of and introduction to
 anarchism. A classic.
 
@@ -1947,7 +2021,7 @@ Bookchin's sometimes over the top analysis and attack on Lifestyle anarchism.
 Important for its commitment to social action and its restatement of the
 socialist nature of anarchism. Part's of Bob Black's reply **Anarchy after
 Leftism** can be found [here](http://www.teleport.com/~jaheriot/ch11.htm) and
-[here](http://www.geocities.com/CapitolHill/Lobby/3998/mbms.html).
+[here](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/3998/mbms.html).
 
 [The Ego and His Own](http://www.leikestova.org/solan/stirner/the_ego/) \-- by
 Max Stirner  
@@ -2027,8 +2101,8 @@ Johann Most
 Most's famous essay. A classic.
 
 [The Soul of Man Under
-Socialism](http://www.geocities.com/CapitolHill/Lobby/3998/oscar.html) \-- by
-Oscar Wilde  
+Socialism](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/3998/oscar.html)
+\-- by Oscar Wilde  
 Oscar Wilde's classic essay on libertarian socialism and how it will produce a
 true individualism to replace capitalism's false one. Recommended.
 
@@ -2124,7 +2198,7 @@ Extensive information on many anarchists, from Bookchin to Malatesta.
 Recommended!
 
 [An Anarchist
-Reader](http://www.geocities.com/CapitolHill/Embassy/8559/anread.htm)  
+Reader](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Embassy/8559/anread.htm)  
 Excellent webpage containing essays and links on all the famous anarchists (as
 well as other texts and links).
 
@@ -2150,7 +2224,8 @@ Another Noam Chomsky Archive.
 A web-site about the arch-egoist Max Stirner. Contains e-texts of his less
 famous works along with his classic **The Ego and Its Own**.
 
-[Emma Goldman](http://www.geocities.com/CapitolHill/Lobby/8522/emma_eng.html)  
+[Emma
+Goldman](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Lobby/8522/emma_eng.html)  
 Excellent webpage on Emma Goldman, one of America's greatest anarchists.
 Includes many of her essays.
 
@@ -2200,7 +2275,8 @@ Analysis of Kropotkin's ideas and methodology by an Autonomist Marxist. The
 author correctly points out Kropotkin's method of analysing social struggle
 and using this information to inform his anarchist ideas and actions.
 
-[Noam Chomsky](http://www.geocities.com/Athens/Acropolis/3345/chomsky.html)  
+[Noam
+Chomsky](http://web.archive.org/web/*/http://www.geocities.com/Athens/Acropolis/3345/chomsky.html)  
 Good introductary site on Noam Chomsky. Extensive links to other Chomsky
 sites.
 
@@ -2221,7 +2297,7 @@ Useful introductory essay on Durruti.
 
 [The Nestor Makhno Archive](http://www.nestormakhno.info/)  
 [Nestor Makhno
-Archive](http://www.geocities.com/CapitolHill/Embassy/8559/makhno.htm)  
+Archive](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Embassy/8559/makhno.htm)  
 Excellent collection of articles by and on Nestor Makhno, famous for fighting
 both White and Red tyranny for anarchism and working class freedom in the
 Ukraine during the Russian Civil War
@@ -2244,7 +2320,8 @@ Introductionary essays on Voltairine de Cleyre and her ideas.
 Biography of the leading anarchist militant Camillo Berneri, who was murdered
 by the Stalinists during the May Days in Barcelona, 1937.
 
-[Francisco Ferrer](http://www.geocities.com/Athens/Acropolis/5422/)  
+[Francisco
+Ferrer](http://web.archive.org/web/*/http://www.geocities.com/Athens/Acropolis/5422/)  
 Excellent introduction to the life and ideas of Modern School activist,
 Francisco Ferrer.
 
@@ -2353,7 +2430,8 @@ Publishers of anarchist books and papers since 1886. Based in London, Britain.
 UK based anarchist publishers. Producers of the excellent anarcho-Tin Tin
 classic _"Breaking Free"_.
 
-[Lucy Parsons Center](http://www.geocities.com/Athens/Acropolis/7251/lpc.html)  
+[Lucy Parsons
+Center](http://web.archive.org/web/*/http://www.geocities.com/Athens/Acropolis/7251/lpc.html)  
 A radical left education project in Cambridge, Massachusetts, USA.
 
 [Lucy Parsons Center](http://tao.ca/~lucyparsons/)  
@@ -2397,7 +2475,8 @@ start it.
 Anarchist printers, based in Tucson, USA. For books, pamphlets and bumper
 stickers.
 
-[Elephant Editions](http://www.geocities.com/elephant_editions)  
+[Elephant
+Editions](http://web.archive.org/web/*/http://www.geocities.com/elephant_editions)  
 Elephant Editions are an anarchist publishers who produce cheap versions of
 anarchist classics by the likes of Kropotkin and Malatesta, plus more recent
 works.
@@ -2414,7 +2493,8 @@ short reviews of various books, plus links to other anarchist sites.
 [Kasa de la Muntanya](http://personal.redestb.es/gurmanyach/okupa.htm)  
 Excellent looking webpage for anarchist social centre in Barcelona, Spain.
 
-[Catalyst Distribution](http://members.xoom.com/pfafs/catalyst/)  
+[Catalyst
+Distribution](http://web.archive.org/web/*/http://members.xoom.com/pfafs/catalyst/)  
 Catalyst Distribution is a non-profit anarchist book distribution service
 based in L.A. in the USA.
 
@@ -2446,7 +2526,7 @@ Berlin/Kln](http://www.azul.net/confronto/html/f_editorial.htm)
 German Language Anarchist Publisher.
 
 [Ncleo de Sociabilidade
-Libertria](http://www.geocities.com/Athens/Academy/5606/)  
+Libertria](http://web.archive.org/web/*/http://www.geocities.com/Athens/Academy/5606/)  
 Brazilian anarchist publishers
 
 [Anarchist Bookfair](http://www.anarchistbookfair.org/)  
@@ -2555,8 +2635,8 @@ their achievements in trying to create a new society free from oppression and
 exploitation. Links to over 60 articles and webpages.
 
 [The Bolsheviks and Workers
-Control](http://www.geocities.com/WestHollywood/2163/bolintro.html) \-- by
-Maurice Brinton  
+Control](http://web.archive.org/web/*/http://www.geocities.com/WestHollywood/2163/bolintro.html)
+\-- by Maurice Brinton  
 A remarkable pamphlet exposing the struggle that took place over the running
 of workplaces in the immediate aftermath of the Russian Revolution. It exposes
 the myth that Leninism has anything to do with socialism.
@@ -2566,7 +2646,7 @@ Paris](http://www.library.nwu.edu/spec/siege/)
 Collection of documents and pictures about the Paris Commune of 1871.
 
 [ The German
-Revolution](http://www.geocities.com/Athens/Acropolis/8195/ger_int.htm)  
+Revolution](http://web.archive.org/web/*/http://www.geocities.com/Athens/Acropolis/8195/ger_int.htm)  
 Documents about the German Revolution of 1918 to 1923. Concentrates on Council
 Communists involved in it.
 
@@ -2594,31 +2674,31 @@ Useful introductory essays on the anarchist inspired social revolution in
 Spain, 1936.
 
 [Another Spain - Forgotten
-Heroes](http://www.geocities.com/CapitolHill/Senate/5602/scwar5.html)  
+Heroes](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/5602/scwar5.html)  
 Article on Spanish Resistance to Fascism in France during the second world war
 from the anti-fascist magazine **Fighting Talk**. Find out about the anarchist
 militia's involvement against German occupation.
 
 [Another Spain - The People
-Armed](http://www.geocities.com/CapitolHill/Senate/5602/scwar4.html)  
+Armed](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/5602/scwar4.html)  
 Article on the role of anarchist women in the Spanish Revolution, their part
 in the street fighting in the first days, on the front line and creating the
 revolution in the "home front."
 
 [The Spanish Revolution & Civil War
-1936-1939](http://www.geocities.com/CapitolHill/9820/)  
+1936-1939](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/9820/)  
 Introductory essay on the Spanish Civil War in which anarchists played a major
 role. Has links to anarchist related sites and various viewpoints on the civil
 war (from fascist and right-libertarian perspectives to anarchist and marxist
 ones).
 
 [ The Rattle of the Thompson Gun: Resistance to Franco
-1939-52](http://www.geocities.com/CapitolHill/Senate/5602/scwar6.html)  
+1939-52](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/5602/scwar6.html)  
 Anarchist resistance to the Franco dictatorship after the end of the civil
 war.
 
 [ The First Anti-
-Fascists](http://www.geocities.com/CapitolHill/Senate/5602/italfasc.html)  
+Fascists](http://web.archive.org/web/*/http://www.geocities.com/CapitolHill/Senate/5602/italfasc.html)  
 Short, but excellent, introduction to resistance against the rise of Fascism
 in Italy, in the early 1920s. Anarchists played a key role in the struggle.
 
@@ -2659,7 +2739,7 @@ Name says it all. Information about anarchist and other revolutionary women
 and their history.
 
 [Origins and Ideals of the Modern
-School](http://www.geocities.com/Athens/Acropolis/5422/origins.html)  
+School](http://web.archive.org/web/*/http://www.geocities.com/Athens/Acropolis/5422/origins.html)  
 Excellent introduction to the Modern School movement and its ideas. See also
 [Finding Aid : Intro & History : Stelton Modern School
 Collection](http://www.libraries.rutgers.edu/rulib/spcol/modern.htm).
@@ -2911,12 +2991,13 @@ anarchism and its role in the wider political community. To join the list send
 a message to the above address with the message _subscribe fpi-d_
 
 [Mujeres Libres](mailto:majordomo@tao.ca)  
-[Mujeres Libres](http://www.geocities.com/Paris/2159/mujeres_mail.html) is a
-new anarcha-feminist mailing list. It is a list for anarchist women. It is a
-space for to meet, exchange information, and learn about each other and each
-other's struggles. It is not just concerned with "women's issues", but with
-all issues that affect us. We are not content to sit on the sidelines, we are
-all actively engaged in opposing capitalism. To join send a message to the
+[Mujeres
+Libres](http://web.archive.org/web/*/http://www.geocities.com/Paris/2159/mujeres_mail.html)
+is a new anarcha-feminist mailing list. It is a list for anarchist women. It
+is a space for to meet, exchange information, and learn about each other and
+each other's struggles. It is not just concerned with "women's issues", but
+with all issues that affect us. We are not content to sit on the sidelines, we
+are all actively engaged in opposing capitalism. To join send a message to the
 above address and with first line of your message should read _subscribe
 MujeresLibres_. There is no need to include a subject line.
 

@@ -168,8 +168,8 @@ Shawn Wilber
 
 and our comrades on the anarchy, oneunion and organise! mailing lists.
 
-**_"An Anarchist FAQ"_**, **Version 13.3**   
-Copyright (C) 1995-2009 The Anarchist FAQ Editorial Collective:  
+**_"An Anarchist FAQ"_**, **Version 14.0**   
+Copyright (C) 1995-2010 The Anarchist FAQ Editorial Collective:  
 Iain McKay, Gary Elkin, Dave Neal, Ed Boraas
 
 Permission is granted to copy, distribute and/or modify this document under

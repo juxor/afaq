@@ -1244,7 +1244,22 @@ that which politicians can never give us from Parliament. Only such a movement
 can stop the attacks upon us by whoever gets into office. A government (left
 or right) which faces a mass movement based upon direct action and solidarity
 will always think twice before proposing cuts or introducing authoritarian
-laws.
+laws. Howard Zinn expressed it well:
+
+> _"I think a way to behave is to think not in terms of representative
+government, not in terms of voting, not in terms of electoral politics, but
+thinking in terms of organising social movements, organising in the workplace,
+organising in the neighborhood, organising collectives that can become strong
+enough to eventually take over -- first to become strong enough to resist what
+has been done to them by authority, and second, later, to become strong enough
+to actually take over the institutions . . . the crucial question is not who
+is in office, but what kind of social movement do you have. Because we have
+seen historically that if you have a powerful social movement, it doesnt
+matter who is in office. Whoever is in office, they could be Republican or
+Democrat, if you have a powerful social movement, the person in office will
+have to yield, will have to in some ways respect the power of social movements
+. . . voting is not crucial, and organising is the important thing."_ [**An
+Interview with Howard Zinn on Anarchism: Rebels Against Tyranny**]
 
 Of course, all the parties claim that they are better than the others and this
 is the logic of this question -- namely, we must vote for the lesser evil as

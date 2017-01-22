@@ -2896,7 +2896,7 @@ as _"liberalism"_ means to support rule from above by the "enlightened" elite
 the revolution and so the people must be protected against the "petty-
 bourgeois"/"reactionary" narrowness of the people (to requote Bakunin, _"every
 state, even the pseudo-People's State concocted by Mr. Marx, is in essence
-only a machine ruling the masses from below, through a privileged minority of
+only a machine ruling the masses from above, through a privileged minority of
 conceited intellectuals who imagine that they know what the people need and
 want better than do the people themselves."_ [**Bakunin on Anarchism**, p.
 338]). Rather than seeing free debate of ideas and mass participation as a

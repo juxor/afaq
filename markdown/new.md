@@ -19,6 +19,46 @@ We hope that this makes it clear to visitors!
 
 Version| Date| What's New |
 
+14.0
+
+|
+
+08-MAR-2010
+
+|
+
+[Section J.4](secJ4.html)  
+Revision of section on _"What trends in society aid anarchist activity?"_
+Various sub-sections have been merged and renamed, along with significant
+changes to content.
+
+[Section J.5](secJ1.html)  
+Substantial revision of section on _"What alternative social organisations do
+anarchists create?"_. Lots of new material on anarchist community organising
+and industrial struggles as well as on co-operatives. There is some re-
+arranging of the material on mutual banking between sections, but no
+significant changes.
+
+[Section J.6](secJ2.html)  
+Revision of section on _"What methods of child rearing do anarchists
+advocate?"_. Various sub-sections have been merged and renamed, along with
+significant changes to content.
+
+[Section J.7](secJ7.html)  
+Revision of section on _"What do anarchists mean by social revolution?"_. One
+sub-section has been renamed, but no significant changes in content have been
+made.
+
+[Section J.2.8](secJ2.html)  
+Slight change to the sub-section on _"J.2.8 Will abstentionism lead to the
+right winning elections?"_ to include a quote from the late, great, Howard
+Zinn.
+
+This revision was made as part of getting the second volume of the FAQ ready
+for publication. That is now complete.  
+  
+---|---|---  
+  
 13.4
 
 |
@@ -42,8 +82,6 @@ build?"_.
 
 This revision was made as part of getting the second volume of the FAQ ready
 for publication.  
-  
----|---|---  
   
 13.3
 

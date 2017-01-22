@@ -1,6 +1,6 @@
 # _An Anarchist FAQ Webpage_
 
-### Version 13.4
+### Version 14.0
 
 ![](flag2.gif)
 
@@ -38,7 +38,7 @@ really stands for and indicate why you should become an anarchist.
 
 # An Anarchist FAQ
 
-**Version 13.4** \-- 21-JAN-2010 
+**Version 14.0** \-- 08-MAR-2010 
 
 ###
 
