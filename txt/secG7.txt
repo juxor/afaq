@@ -1,4 +1,4 @@
-      G.7 Lysander Spooner: right-"libertarian" or libertarian socialist?
+G.7 Lysander Spooner: right-"libertarian" or libertarian socialist?
 
    Murray Rothbard and others on the "libertarian" right have argued that
    Lysander Spooner is another individualist anarchist whose ideas support
@@ -17,7 +17,7 @@
    liberalism, Spooner's vision of a free society was fundamentally
    anti-capitalist. It is clear that Spooner was a left-libertarian who
    was firmly opposed to capitalism. The ignoring (at best) or outright
-   dismissal (at worse) of Spooner's economic ideas and vision of a free
+   dismissal (at worst) of Spooner's economic ideas and vision of a free
    society by right-"libertarians" should be more than enough to show that
    Spooner cannot be easily appropriated by the right regardless of his
    (from an anarchist position) unique, even idiosyncratic, perspective on
@@ -83,7 +83,7 @@
      labour . . . It is also an obvious fact, that the property produced
      by society, is now distributed in very unequal proportions among
      those whose labour produced it, and with very little regard to the
-     actual value of each ones labour in producing it." [Poverty: Its
+     actual value of each oneâs labour in producing it." [Poverty: Its
      Illegal Causes and Legal Cure, p. 7]
 
    For Spooner, as with other left-libertarians, equality was seen as the
@@ -131,7 +131,7 @@
    about tariffs, for example, seeing them as a means of accumulating
    capital as they "enable[d] the home producers . . . to make fortunes by
    robbing everybody else in the prices of their goods." Such
-   protectionism "originated with the employers" as the workers "could not
+   protectionism "originated with the employers" as the workers "could
    have had no hope of carrying through such a scheme, if they alone were
    to profit; because they could have had no such influence with
    governments." [A Letter to Grover Cleveland p. 20 and p. 44] He had no
@@ -511,7 +511,7 @@
    with other individualist anarchists. This analysis is, needless to say,
    a left-libertarian one rather than right-"libertarian."
 
-   Of course, it may be objected that Spooner was a right-Libertarian"
+   Of course, it may be objected that Spooner was a right-"libertarian"
    because he supported the market and private property. However, as we
    argued in [5]section G.1.1 support for the market does not equate to
    support for capitalism (no matter how often the ideologues of
@@ -614,11 +614,11 @@
    that capitalists deny workers "all the fruits" of their labour is
    identical to the general socialist position that capitalism is
    exploitative. All of which undoubtedly explains why Rothbard only
-   selectively quoted from Spooner's critique of the state rather and
-   ignored the socio-economic principles which underlay his political
-   analysis and hopes for a free society. Yet without those aspects of his
-   ideas, Spooner's political analysis is pressed into service of an
-   ideology it is doubtful he would have agreed with.
+   selectively quoted from Spooner's critique of the state and ignored the
+   socio-economic principles that underlay his political analysis and
+   hopes for a free society. Yet without those aspects of his ideas,
+   Spooner's political analysis is pressed into service of an ideology it
+   is doubtful he would have agreed with.
 
    As such, we must agree with Peter Marshall, who notes that Spooner
    "recommends that every man should be his own employer, and he depicts
@@ -641,7 +641,7 @@
    harmony by recreating [a] rough equality of condition" and so joins the
    "critics of modern capitalism and champions of the Jeffersonian idea of
    the autonomous individual -- independent yeoman and the self-employed
-   mechanic." Liberalism at Wit's End, p. 76, p. 74 and p. 91]
+   mechanic." [Liberalism at Wit's End, p. 76, p. 74 and p. 91]
 
    In summary, as can be seen, as with other individualist anarchists,
    there is a great deal of commonality between Spooner's ideas and those
@@ -653,6 +653,8 @@
    anarchism is just as anti-capitalist as the ideas of, say, Bakunin,
    Kropotkin or Chomsky. Spooner, in spite of his closeness to classical
    liberalism, was no more a capitalist than Rothbard was an anarchist.
+   [7]â¹ G.6 What are the ideas of Max Stirner? [8]up [9]Section H - Why
+   do anarchists oppose state socialism? âº
 
 References
 
@@ -662,3 +664,6 @@ References
    4. //usr/share/doc/anarchism/txt/secC2.txt
    5. //usr/share/doc/anarchism/txt/secG1.txt#secg11
    6. //usr/share/doc/anarchism/txt/secA3.txt#seca31
+   7. //afaq/secG6.html
+   8. //afaq/secGcon.html
+   9. //afaq/secHcon.html

@@ -1,4 +1,4 @@
-        C.3 What determines the distribution between labour and capital?
+C.3 What determines the distribution between labour and capital?
 
    In short, class struggle determines the distribution of income between
    classes (As Proudhon put it, the expression "the relations of profits
@@ -316,9 +316,14 @@
    In the next section, we discuss why capitalism is marked by big
    business and what this concentrated market power means to the
    capitalist economy.
+   [4]â¹ C.2 Why is capitalism exploitative? [5]up [6]C.4 Why does the
+   market become dominated by Big Business? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secC2.txt#secc22
    2. //usr/share/doc/anarchism/txt/secC7.txt
    3. //usr/share/doc/anarchism/txt/secC5.txt
+   4. //afaq/secC2.html
+   5. //afaq/secCcon.html
+   6. //afaq/secC4.html

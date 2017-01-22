@@ -452,8 +452,8 @@ F.3.1 Why is this disregard for equality important?
      where anybody actually suffered from it. While proclaiming their
      system to be a competitive one, in which private interest rules
      unchecked, they show it operating as a co-operative one, in which no
-     person or group profits at the cost of another."
-     [On the Capitalist Anarchists]
+     person or group profits at the cost of another." [On the Capitalist
+     Anarchists]
 
    This assumption of (relative) equality comes to the fore in Murray
    Rothbard's "Homesteading" concept of property (discussed in [10]section
@@ -651,8 +651,8 @@ F.3.2 Can there be harmony of interests in an unequal society?
 
    Like the right-liberalism it is derived from, "anarcho"-capitalism is
    based on the concept of "harmony of interests" which was advanced by
-   the likes of Frédéric Bastiat in the 19th century and Rothbard's mentor
-   Ludwig von Mises in the 20th. For Rothbard, "all classes live in
+   the likes of FrÃ©dÃ©ric Bastiat in the 19th century and Rothbard's
+   mentor Ludwig von Mises in the 20th. For Rothbard, "all classes live in
    harmony through the voluntary exchange of goods and services that
    mutually benefits them all." This meant that capitalists and workers
    have no antagonistic class interests [Classical Economics: An Austrian
@@ -722,8 +722,7 @@ F.3.2 Can there be harmony of interests in an unequal society?
      "But . . . the interests of capital and labour are not the same. No
      greater lie was ever invented than the so-called 'identity of
      interests' . . . It is clear that . . . they are entirely opposite,
-     in fact antagonistic to each other."
-     [What is Anarchism?, pp. 74-5]
+     in fact antagonistic to each other." [What is Anarchism?, pp. 74-5]
 
    That Rothbard denies this says a lot about the power of ideology.
 
@@ -991,13 +990,12 @@ F.3.2 Can there be harmony of interests in an unequal society?
      subjects must do, in short, was to surrender their natural born gift
      of freedom and independence, to subject themselves completely to the
      whims and commands of others, who could then be blindly trusted to
-     'take care' of them permanently . . .
+     'take care' of them permanently . . .Â
 
      "Despite the myths of ideology and the threats of the whip, servants
      and slaves found many ways of protest and rebellion. Masters were
      continually denouncing servants for being disobedient, sullen, and
-     lazy."
-     [Conceived in Liberty, vol. 2, pp. 18-19]
+     lazy." [Conceived in Liberty, vol. 2, pp. 18-19]
 
    Change Reverend Samuel Willard to the emphatically non-worker Professor
    Murray Rothbard and we have a very succinct definition of the role his
@@ -1093,6 +1091,10 @@ F.3.2 Can there be harmony of interests in an unequal society?
    shows that there can be no harmony of interests in an unequal society.
    Anyone who claims otherwise has not been paying attention.
 
+   [20]â¹ F.2 What do "anarcho"-capitalists mean by freedom? [21]up
+   [22]F.4 What is the right-"libertarian" position on private property?
+   âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/secA2.txt#seca25
@@ -1114,3 +1116,6 @@ References
   17. //usr/share/doc/anarchism/txt/secF8.txt
   18. //usr/share/doc/anarchism/txt/secC7.txt
   19. //usr/share/doc/anarchism/txt/secD1.txt
+  20. //afaq/secF2.html
+  21. //afaq/secFcon.html
+  22. //afaq/secF4.html

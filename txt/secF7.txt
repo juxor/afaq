@@ -968,6 +968,9 @@ F.7.3 Can there be a "right-wing" anarchism?
    property over those who own nothing." [quoted by Peter Marshall,
    Demanding the Impossible, p. 259]
 
+   [10]â¹ F.6 Is "anarcho"-capitalism against the state? [11]up [12]F.8
+   What role did the state take in the creation of capitalism? âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/secF6.txt
@@ -979,3 +982,6 @@ References
    7. //usr/share/doc/anarchism/txt/secF6.txt#secf61
    8. //usr/share/doc/anarchism/txt/secJ5.txt#secj512
    9. //usr/share/doc/anarchism/txt/secF1.txt
+  10. //afaq/secF6.html
+  11. //afaq/secFcon.html
+  12. //afaq/secF8.html

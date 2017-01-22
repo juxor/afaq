@@ -310,6 +310,8 @@
    AFAQ has presented the majority position on anarchism (social
    anarchism), particularly as this is the position of the people
    involved.
+   [5]â¹ An Anarchist FAQ Introduction [6]up [7]An Anarchist FAQ:
+   Introduction to Volume 1 âº
 
 References
 
@@ -317,3 +319,6 @@ References
    2. http://www.infoshop.org/
    3. http://www.anarkismo.net/
    4. http://anarchism.ws/writers/anarcho.html
+   5. //afaq/intro.html
+   6. //afaq/intro.html
+   7. //afaq/vol1intro.html

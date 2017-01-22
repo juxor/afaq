@@ -1,4 +1,4 @@
-               D.2 What influence does wealth have over politics?
+D.2 What influence does wealth have over politics?
 
    The short answer is: a great deal of influence, directly and
    indirectly. We have already touched on this in [1]section B.2.3. Here
@@ -490,6 +490,8 @@ D.2.2 How extensive is business propaganda?
    people feel about the direction their country is taking. The task of
    anarchists is to help the struggle, in America and across the globe, by
    which they can take their country and lives back from the elite.
+   [7]â¹ D.1 Why does state intervention occur? [8]up [9]D.3 How does
+   wealth influence the mass media? âº
 
 References
 
@@ -499,3 +501,6 @@ References
    4. //usr/share/doc/anarchism/txt/secD2.txt#secd21
    5. //usr/share/doc/anarchism/txt/secD5.txt
    6. //usr/share/doc/anarchism/txt/secJ2.txt
+   7. //afaq/secD1.html
+   8. //afaq/secDcon.html
+   9. //afaq/secD3.html

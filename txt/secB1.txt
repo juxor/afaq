@@ -1,4 +1,4 @@
-            B.1 Why are anarchists against authority and hierarchy?
+B.1 Why are anarchists against authority and hierarchy?
 
    First, it is necessary to indicate what kind of authority anarchism
    challenges. While it is customary for some opponents of anarchism to
@@ -1257,7 +1257,6 @@ B.1.4 Why do racism, sexism and homophobia exist?
    1976, pp. 403-414]. He compared the situation of "white" and
    "non-white" (i.e. black, Native American, Asian and Hispanic) workers
    in United States and found several key things:
-
    (1) the narrower the gap between white and black wages in an American
        state, the higher white earnings were relative to white earnings
        elsewhere. This means that "whites do not benefit economically by
@@ -1446,8 +1445,8 @@ created?
      permanent monogamous marriage became the basic institution of
      patriarchal society -- which it still is today. To safeguard these
      marriages, however, it was necessary to impose greater and greater
-     restrictions upon and to depreciate natural genital strivings."
-     [The Mass Psychology of Fascism, p. 90]
+     restrictions upon and to depreciate natural genital strivings." [The
+     Mass Psychology of Fascism, p. 90]
 
    The suppression of natural sexuality involved in this transformation
    from matricentric to patriarchal society created various anti-social
@@ -1955,6 +1954,8 @@ B.1.6 Can hierarchy be ended?
    Only in this way can the hold of these social diseases be weakened and
    a better, non-hierarchical system be created. An injury to one is an
    injury to all.
+   [42]â¹ B.0 Section B Introduction [43]up [44]B.2 Why are anarchists
+   against the state? âº
 
 References
 
@@ -1999,3 +2000,6 @@ References
   39. //usr/share/doc/anarchism/txt/secI3.txt
   40. //usr/share/doc/anarchism/txt/secJ5.txt#secj51
   41. //usr/share/doc/anarchism/txt/secI5.txt
+  42. //afaq/secBint.html
+  43. //afaq/secBcon.html
+  44. //afaq/secB2.html

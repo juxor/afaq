@@ -1,4 +1,4 @@
-             Section I - What would an anarchist society look like?
+Section I - What would an anarchist society look like?
 
    So far this FAQ has been largely critical, focusing on hierarchy,
    capitalism, the state and so on, and the problems to which they have
@@ -7,8 +7,7 @@
    examine the constructive side of anarchism -- the libertarian-socialist
    society that anarchists envision. This is important because anarchism
    is essentially a constructive theory, in stark contradiction to the
-   picture of usually painted of anarchism as chaos or mindless
-   destruction.
+   picture usually painted of anarchism as chaos or mindless destruction.
 
    In this section of the FAQ we will give an outline of what an anarchist
    society might look like. Such a society has basic features -- such as
@@ -102,7 +101,7 @@
    [Kropotkin, Words of a Rebel, p. 208]
 
    Thus the aim of anarchism is to create a society in which every person
-   "should have the material and moral means to develop his humanity" and
+   should have the material and moral means to develop his humanity" and
    so to "organise society in such a way that every individual . . .
    should find . . . approximately equal means for the development of
    [their] various faculties and for their utilisation in [their] work; to
@@ -183,36 +182,37 @@
    free society would look like is contrary to the anarchist principles of
    free growth and thought, and is far from our intention. Here we simply
    try to indicate some of the structures that an anarchist society may
-   contain, based on the what ideals and ideas anarchists hold, informed
-   by the few examples of anarchy in action that have existed and our
-   critical evaluation of their limitations and successes. As Herbert Read
-   once put it, "it is always a mistake to build a priori constitutions.
-   The main thing is to establish your principles -- the principles of
-   equity, of individual freedom, of workers' control. The community then
-   aims at the establishment of these principles from the starting-point
-   of local needs and local conditions." [Op. Cit., p. 51]
+   contain, based on the ideals and ideas anarchists hold, informed by the
+   few examples of anarchy in action that have existed and our critical
+   evaluation of their limitations and successes. As Herbert Read once put
+   it, "it is always a mistake to build a priori constitutions. The main
+   thing is to establish your principles -- the principles of equity, of
+   individual freedom, of workers' control. The community then aims at the
+   establishment of these principles from the starting-point of local
+   needs and local conditions." [Op. Cit., p. 51]
 
-   Moreover, we must remember that, the state has changed over time and,
-   indeed, has not always existed. Thus it is possible to have a social
-   organisation which is not a state and to confuse the two would be a
-   "confusion" made by those "who cannot visualise Society without a
-   concentration of the State." Yet this "is to overlook the fact that Man
-   lived in Societies for thousands of years before the State had been
-   heard of" and that "large numbers of people [have] lived in communes
-   and free federations." These were not states as the state "is only one
-   of the forms assumed by society in the course of history. Why then make
-   no distinction between what is permanent and what is accidental?"
+   Moreover, we must remember that the state has changed over time and has
+   not always existed. Thus it is possible to have a social organisation
+   which is not a state and to confuse the two would be a "confusion" made
+   by those "who cannot visualise Society without a concentration of the
+   State." Yet this "is to overlook the fact that Man lived in Societies
+   for thousands of years before the State had been heard of" and that
+   "large numbers of people [have] lived in communes and free
+   federations." These were not states as the state "is only one of the
+   forms assumed by society in the course of history. Why then make no
+   distinction between what is permanent and what is accidental?"
    [Kropotkin, The State: Its Historic Role, pp. 9-10] Similarly, the
    axioms of capitalist economics not withstanding, capitalism is but
    latest of a series of economies. Just as serfdom replaced slavery and
    capitalism replaced serfdom, so free (associated) labour can replace
    hired labour. As Proudhon noted, the "period through which we are now
-   passing . . . is distinguished by a special characteristic, - WAGES."
-   Capitalism, this system of wage-labour, has not always existed nor need
-   it continue. Thus "the radical vice of political economy", namely
-   "affirming as a definitive state a transitory condition - namely, the
-   division of society into patricians and proletares." [System of
-   Economic Contradictions, p. 198 and p. 67] Anarchists seek to make that
+   passing" is "distinguished by a special characteristic: WAGE-LABOUR."
+   Capitalism has not always existed nor need it continue. So while "the
+   radical vice of political economy" is "affirming as a definitive state
+   a transitory condition - namely, the division of society into
+   patricians and proletarians" in reality, "in its present form, the
+   organisation [of labour] is inadequate and transitory. " [Property Is
+   Theft!, p. 190, p. 174 and p. 170] Anarchists seek to make that
    transitory condition shorter rather than longer.
 
    Ultimately, a free society based on self-managed communities and
@@ -240,7 +240,7 @@
    liberty and humanity in the insane world of hierarchical society. As
    such, an anarchist society will be the generalisation of the various
    types of "anarchy in action" created in the various struggles against
-   all forms of oppression and exploitation (see [1]section I.2.3).
+   all forms of oppression and exploitation (see [1]section I.2.3 ).
 
    This means that how an anarchist society would look like and work is
    not independent of the specific societies it is created from nor the
@@ -318,8 +318,8 @@
    analysis of what is wrong with society today and a means of changing
    the world for the better. And even if some people call us utopians, we
    shrug off the accusation with a smile. After all, dreams are important,
-   not only because they often the source of change in reality but because
-   of the hope they express:
+   not only because they are often the source of change in reality but
+   because of the hope they express:
 
      "People may . . . call us dreamers . . . They fail to see that
      dreams are also a part of the reality of life, that life without
@@ -411,7 +411,12 @@
    inspire more debate and discussion of how a free society would work. In
    addition, and equally as important, we hope it will help inspire the
    struggle that will create that society.
+   [2]â¹ Section I - What would an anarchist society look like? [3]up
+   [4]I.1 Isn't libertarian socialism an oxymoron? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secI2.txt#seci23
+   2. //afaq/secIcon.html
+   3. //afaq/secIcon.html
+   4. //afaq/secI1.html

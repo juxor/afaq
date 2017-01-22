@@ -1,4 +1,4 @@
-            E.3 Can private property rights protect the environment?
+E.3 Can private property rights protect the environment?
 
    Environmental issues have become increasingly important over the
    decades. When Murray Bookchin wrote his first works on our ecological
@@ -572,9 +572,9 @@ E.3.1 Will privatising nature save it?
      imputed value is only possible). In either case, not only the arrest
      of the ecological damage is -- at least -- doubtful, but the control
      over Nature by elites who aim to dominate it -- using 'green'
-     prescriptions this time -- is perpetuated."
-     [Takis Fotopoulous, "Development or Democracy?", pp. 57-92, Society
-     and Nature, No. 7, pp. 79-80]
+     prescriptions this time -- is perpetuated." [Takis Fotopoulous,
+     "Development or Democracy?", pp. 57-92, Society and Nature, No. 7,
+     pp. 79-80]
 
    Another key problem with using private property in regard to
    environmental issues is that they are almost always reactive, almost
@@ -944,7 +944,7 @@ E.3.2 How does economic power contribute to the ecological crisis?
    spies to its meetings to identify people to sue. Two of the anarchists
    refused to be intimidated and called McDonald's bluff. Representing
    themselves in court, the two unemployed activists started the longest
-   trial in UK history. After three years and a cost of around £10
+   trial in UK history. After three years and a cost of around Â£10
    million, the trial judge found that some of the claims were untrue
    (significantly, McDonald's had successfully petitioned the judge not to
    have a jury for the case, arguing that the issues were too complex for
@@ -1213,8 +1213,8 @@ E.3.2 How does economic power contribute to the ecological crisis?
    Having substantial resources available means that the media can be used
    to further an anti-green agenda and dominate the debate (at least for a
    while). Take, as an example, The Skeptical Environmentalist, a book by
-   Bjørn Lomborg (a political scientist and professor of statistics at the
-   University of Aarhus in Denmark). When it was published in 2001, it
+   BjÃ¸rn Lomborg (a political scientist and professor of statistics at
+   the University of Aarhus in Denmark). When it was published in 2001, it
    caused a sensation with its claims that scientists and environmental
    organisations were making, at best, exaggerated and, at worse, false
    claims about the world's environmental problems. His conclusion was
@@ -1479,6 +1479,8 @@ ecological crisis?
    when all the major players have already retired from the game. Of
    course when the last of these hustlers cash in their chips, there won't
    be any place left to retire to." [David Watson, Op. Cit., p. 57]
+   [12]â¹ E.2 What do eco-anarchists propose instead of capitalism? [13]up
+   [14]E.4 Can laissez-faire capitalism protect the environment? âº
 
 References
 
@@ -1493,3 +1495,6 @@ References
    9. //usr/share/doc/anarchism/txt/secC4.txt
   10. //usr/share/doc/anarchism/txt/secD8.txt
   11. //usr/share/doc/anarchism/txt/secE5.txt
+  12. //afaq/secE2.html
+  13. //afaq/secEcon.html
+  14. //afaq/secE4.html

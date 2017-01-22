@@ -14,10 +14,10 @@
 
    According to Murray Rothbard [Society Without A State, p. 192], a state
    must have one or both of the following characteristics:
-
-   1) The ability to tax those who live within it.
+   Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  1) The ability to tax those who
+       live within it.
        2) It asserts and usually obtains a coerced monopoly of the
-       provision of defence over a given area.
+       provision of defence over a given area.Â Â
 
    He makes the same point elsewhere. [The Ethics of Liberty, p. 171]
    Significantly, he stresses that "our definition of anarchism" is a
@@ -421,8 +421,7 @@ F.6.2 What are the social consequences of such a system?
      unto themselves, powerful enough to ignore, when they did not
      purchase, the governments of various jurisdictions of the American
      federal system. This industrial system was, at the time, often
-     characterised as feudalism."
-     [Anarchist Justice, pp. 223-224]
+     characterised as feudalism." [Anarchist Justice, pp. 223-224]
 
    For a description of the weaponry and activities of these private
    armies, the Marxist economic historian Maurice Dobb presents an
@@ -1004,6 +1003,10 @@ F.6.4 Why are these "defence associations" states?
    who's doing it." ["The Libertarian As Conservative", The Abolition of
    Work and Other Essays, p. 144]
 
+   [14]â¹ F.5 Will privatising "the commons" increase liberty? [15]up
+   [16]F.7 How does the history of "anarcho"-capitalism show that it is
+   not anarchist? âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/secB2.txt
@@ -1019,3 +1022,6 @@ References
   11. //usr/share/doc/anarchism/txt/secB4.txt
   12. //usr/share/doc/anarchism/txt/secF1.txt
   13. //usr/share/doc/anarchism/txt/secF6.txt#secf63
+  14. //afaq/secF5.html
+  15. //afaq/secFcon.html
+  16. //afaq/secF7.html

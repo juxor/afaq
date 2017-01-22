@@ -1,4 +1,4 @@
-            B.5 Is capitalism empowering and based on human action?
+B.5 Is capitalism empowering and based on human action?
 
    A key element of the social vision propounded by capitalism,
    particularly "libertarian" capitalism, is that of "voting" by the
@@ -202,9 +202,14 @@
    one that allows each individual to take an active part in improving the
    quality of life for us all by removing "Hobson choices" as far as
    possible.
+   [4]â¹ B.4 How does capitalism affect liberty? [5]up [6]B.6 But won't
+   decisions made by individuals with their own money be the best? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secHcon.txt
    2. //usr/share/doc/anarchism/txt/secE3.txt
    3. //usr/share/doc/anarchism/txt/secE5.txt
+   4. //afaq/secB4.html
+   5. //afaq/secBcon.html
+   6. //afaq/secB6.html

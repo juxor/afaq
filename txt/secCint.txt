@@ -1,4 +1,4 @@
-            Section C - What are the myths of capitalist economics?
+Section C - What are the myths of capitalist economics?
 
    Within capitalism, economics plays an important ideological role.
    Economics has been used to construct a theory from which exploitation
@@ -361,9 +361,16 @@
      being deceived by economists." [Contributions to Modern Economics,
      p. 75]
 
+   Â
+   [5]â¹ Section C - What are the myths of capitalist economics? [6]up
+   [7]C.1 What is wrong with economics? âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/secBcon.txt
    2. //usr/share/doc/anarchism/txt/secC1.txt
    3. //usr/share/doc/anarchism/txt/secC2.txt
    4. //usr/share/doc/anarchism/txt/secC11.txt
+   5. //afaq/secCcon.html
+   6. //afaq/secCcon.html
+   7. //afaq/secC1.html

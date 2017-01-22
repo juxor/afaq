@@ -1,4 +1,4 @@
-           E.4 Can laissez-faire capitalism protect the environment?
+E.4 Can laissez-faire capitalism protect the environment?
 
    In a word, no. Here we explain why using as our example the arguments
    of a leading right-"libertarian."
@@ -422,15 +422,15 @@ E.4.1 Will laissez-faire capitalism actually end pollution?
    This ignores the fact that externalities are imposed on others in order
    to maximise the profits of the corporation. The stockholders directly
    benefit from the "tortious behaviour" of their wage slaves. For
-   example, if a manager decides to save £1,000,000 by letting toxic waste
-   damage to occur to then the owners benefit by a higher return on their
-   investment. To state that is the manager who must pay for any damage
-   means that the owners of a corporation or business are absolved for any
-   responsibility for the actions of those hired to make money for them.
-   In other words, they accumulate the benefits in the form of more income
-   but not the risks or costs associated with, say, imposing externalities
-   onto others. That the "wealthier class" would be happy to see such a
-   legal system should go without saying.
+   example, if a manager decides to save Â£1,000,000 by letting toxic
+   waste damage to occur to then the owners benefit by a higher return on
+   their investment. To state that is the manager who must pay for any
+   damage means that the owners of a corporation or business are absolved
+   for any responsibility for the actions of those hired to make money for
+   them. In other words, they accumulate the benefits in the form of more
+   income but not the risks or costs associated with, say, imposing
+   externalities onto others. That the "wealthier class" would be happy to
+   see such a legal system should go without saying.
 
    The notion that as long as "the tort is committed by the employee in
    the course of furthering, even only in part, his employer's business,
@@ -878,8 +878,7 @@ E.4.2 Can wilderness survive under laissez-faire capitalism?
      equality of rights, in the case of a commodity which is limited in
      amount, can be realised only by equality of possession . . . From
      whatever point we view this question of property -- provided we go
-     to the bottom of it -- we reach equality."
-     [Op. Cit., p. 107]
+     to the bottom of it -- we reach equality." [Op. Cit., p. 107]
 
    To conclude, it would be unfair to simply quote Keynes evaluation of
    one work by von Hayek, another leading "Austrian Economist," namely
@@ -892,6 +891,8 @@ E.4.2 Can wilderness survive under laissez-faire capitalism?
    not come as a surprise any more than its incoherence. As we discuss in
    [18]section F, Rothbard's claims to being an "anarchist" are as
    baseless as his claim that capitalism will protect the environment.
+   [19]â¹ E.3 Can private property rights protect the environment? [20]up
+   [21]E.5 Can ethical consumerism stop the ecological crisis? âº
 
 References
 
@@ -913,3 +914,6 @@ References
   16. //usr/share/doc/anarchism/txt/secB3.txt#secb34
   17. //usr/share/doc/anarchism/txt/secB4.txt#secb42
   18. //usr/share/doc/anarchism/txt/secFcon.txt
+  19. //afaq/secE3.html
+  20. //afaq/secEcon.html
+  21. //afaq/secE5.html

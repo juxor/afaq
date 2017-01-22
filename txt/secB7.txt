@@ -1,4 +1,4 @@
-                 B.7 What classes exist within modern society?
+B.7 What classes exist within modern society?
 
    For anarchists, class analysis is an important means of understanding
    the world and what is going on in it. While recognition of the fact
@@ -46,7 +46,6 @@
    them any say in how a company is run).
 
    For most anarchists, there are two main classes:
-
    (1) Working class -- those who have to work for a living but have no
        real control over that work or other major decisions that affect
        them, i.e. order-takers. This class also includes the unemployed,
@@ -59,17 +58,16 @@
        applicable). In a nutshell, the producing classes and those who
        either were producers or will be producers. This group makes up the
        vast majority of the population.
-       (2) Ruling class
-       -- those who control investment decisions, determine high level
-       policy, set the agenda for capital and state. This is the elite at
-       the top, owners or top managers of large companies, multinationals
-       and banks (i.e., the capitalists), owners of large amounts of land
-       (i.e. landlords or the aristocracy, if applicable), top-level state
-       officials, politicians, and so forth. They have real power within
-       the economy and/or state, and so control society. In a nutshell,
-       the owners of power (whether political, social or economic) or the
-       master class. This group consists of around the top 5-15% of the
-       population.
+       (2) Ruling class -- those who control investment decisions,
+       determine high level policy, set the agenda for capital and state.
+       This is the elite at the top, owners or top managers of large
+       companies, multinationals and banks (i.e., the capitalists), owners
+       of large amounts of land (i.e. landlords or the aristocracy, if
+       applicable), top-level state officials, politicians, and so forth.
+       They have real power within the economy and/or state, and so
+       control society. In a nutshell, the owners of power (whether
+       political, social or economic) or the master class. This group
+       consists of around the top 5-15% of the population.
 
    Obviously there are "grey" areas in any society, individuals and groups
    who do not fit exactly into either the working or ruling class. Such
@@ -223,15 +221,15 @@ B.7.1 But do classes actually exist?
 
                         Changes in income, 1977-1999
 
-                             real income growth
-           1977-99       Share of total income
-                                      1977       1999 Change
-                   poorest 20%        -9%        5.7%  4.2% -1.5%
-                   second 20%          +1        11.5  9.7  -1.8
-                   middle 20%          +8        16.4  14.7 -1.7
-                   fourth 20%         +14        22.8  21.3 -1.5
-                     top 20%          +43        44.2  50.4 +6.2
-                     top 1%           +115       7.3   12.9 +5.6
+                            Â  real income growth
+                        1977-99 Share of total income
+   Â  1977 1999 Change
+                       poorest 20% -9% 5.7% 4.2% -1.5%
+                         second 20% +1 11.5 9.7 -1.8
+                        middle 20% +8 16.4 14.7 -1.7
+                        fourth 20% +14 22.8 21.3 -1.5
+                         top 20% +43 44.2 50.4 +6.2
+                          top 1% +115 7.3 12.9 +5.6
 
    By far the biggest gainers from the wealth concentration since the
    1980s have been the super-rich. The closer you get to the top, the
@@ -479,7 +477,7 @@ B.7.2 Does social mobility make up for class inequality?
    19-31]:
 
      Percentages of families making transitions to and from middle class
-                    (5-year period before and after 1980)
+                   (5-year period before and after 1980)Â
 
                       Transition          Before 1980 After 1980
              Middle income to low income      8.5        9.8
@@ -620,6 +618,8 @@ B.7.2 Does social mobility make up for class inequality?
    slavery with the reference to this fact of social mobility they would
    be dismissed as mad. The evil of slavery is not mitigated by the fact
    that a few slaves could stop being slaves if they worked hard enough.
+
+   Â
 
 B.7.3 Why is the existence of classes denied?
 
@@ -925,6 +925,9 @@ B.7.4 What do anarchists mean by "class consciousness"?
    They are concerned about everything that affects them -- their parents,
    their children, their friends, their neighbours, their planet and, very
    often, total strangers.
+   [10]â¹ B.6 But won't decisions made by individuals with their own money
+   be the best? [11]up [12]Section C - What are the myths of capitalist
+   economics? âº
 
 References
 
@@ -937,3 +940,6 @@ References
    7. //usr/share/doc/anarchism/txt/secD3.txt
    8. //usr/share/doc/anarchism/txt/secJ2.txt
    9. //usr/share/doc/anarchism/txt/secJ4.txt
+  10. //afaq/secB6.html
+  11. //afaq/secBcon.html
+  12. //afaq/secCcon.html

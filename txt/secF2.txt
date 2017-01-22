@@ -137,8 +137,7 @@
      employing class, so you must hire yourself out to that class in
      order to work and live. Whatever you work at, whoever your employer
      may be, it always comes to the same: you must work for him. You
-     can't help yourself. You are compelled."
-     [What is Anarchism?, p. 11]
+     can't help yourself. You are compelled." [What is Anarchism?, p. 11]
 
    Due to this class monopoly over the means of life, workers (usually)
    are at a disadvantage in terms of bargaining power -- there are more
@@ -802,7 +801,7 @@ F.2.2 Do "libertarian"-capitalists support slavery?
      understood at once. No extended argument would be required to show
      that the power to take from a man his thought, his will, his
      personality, is a power of life and death; and that to enslave a man
-     is to kill him." [What is Property?, p. 37]
+     is to kill him." [What is Property?, p. 37]Â
 
    In contrast, the right-"libertarian" effectively argues that "I support
    slavery because I believe in liberty." It is a sad reflection of the
@@ -845,6 +844,9 @@ F.2.2 Do "libertarian"-capitalists support slavery?
    voluntary slavery and autocracy indicates a deeper authoritarianism
    which negates their claims to be libertarians.
 
+   [9]â¹ F.1 Are "anarcho"-capitalists really anarchists? [10]up [11]F.3
+   Why do anarcho"-capitalists place little or no value on equality? âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/secB4.txt#secb42
@@ -855,3 +857,6 @@ References
    6. //usr/share/doc/anarchism/txt/secF3.txt
    7. //usr/share/doc/anarchism/txt/secF2.txt
    8. //usr/share/doc/anarchism/txt/secB4.txt
+   9. //afaq/secF1.html
+  10. //afaq/secFcon.html
+  11. //afaq/secF3.html

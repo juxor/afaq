@@ -369,14 +369,13 @@
    while the Bolshevik party did take power in Russian in November 1917,
    the net effect of this was not the stated goals that justified that
    action. Thus, if we take the term "effective" to mean "an efficient
-   means to achieve the desired goals"
-   then vanguardism has not been proven to be effective, quite the reverse
-   (assuming that your desired goal is a socialist society, rather than
-   party power). Needless to say, Trotsky blames the failure of the
-   Russian Revolution on "objective" factors rather than Bolshevik
-   policies and practice, an argument we address in detail in [19]"What
-   caused the degeneration of the Russian Revolution?" and will not do so
-   here.
+   means to achieve the desired goals" then vanguardism has not been
+   proven to be effective, quite the reverse (assuming that your desired
+   goal is a socialist society, rather than party power). Needless to say,
+   Trotsky blames the failure of the Russian Revolution on "objective"
+   factors rather than Bolshevik policies and practice, an argument we
+   address in detail in [19]"What caused the degeneration of the Russian
+   Revolution?" and will not do so here.
 
    So while Leninists make great claims for the effectiveness of their
    chosen kind of party, the hard facts of history are against their
@@ -554,9 +553,8 @@
      circumstances or more desirable in general. No great secret was made
      of this. In fact, it was openly admitted that hardly a party
      committee existed which did not encounter problems in enforcing its
-     will even upon individual activists."
-     [Robert Service, The Bolshevik Party in Revolution 1917-1923, pp.
-     51-2]
+     will even upon individual activists." [Robert Service, The Bolshevik
+     Party in Revolution 1917-1923, pp. 51-2]
 
    So while Lenin's ideal model of a disciplined, centralised and top-down
    party had been expounded since 1902, the operation of the party never
@@ -1451,9 +1449,9 @@
      made over exclusively to the state. In the first place, the failure
      of the revolution will be self evident. In the second, in spite of
      the illusions that many people create, the conditions of the
-     proletariat will always be those of a subject class."
-     ["Anarchy and 'Scientific' Communism", in The Poverty of Statism,
-     pp. 13-49, Albert Meltzer (ed.), pp. 26-31]
+     proletariat will always be those of a subject class." ["Anarchy and
+     'Scientific' Communism", in The Poverty of Statism, pp. 13-49,
+     Albert Meltzer (ed.), pp. 26-31]
 
    The standard response by most modern Leninists to arguments like this
    about Bolshevism is simply to downplay the authoritarianism of the
@@ -1836,19 +1834,19 @@
    In December of that year Lenin went one further and noted that at the
    Sixth Soviet Congress "the Bolsheviks had 97 per cent" of delegates,
    i.e. "practically all representatives of the workers and peasants of
-   the whole of Russia."
-   This was proof of "how stupid and ridiculous is the bourgeois
-   fairy-tale about the Bolsheviks only having minority support." [Op.
-   Cit., pp. 355-6] Given that the workers and peasants had no real choice
-   in who to vote for, can this result be surprising? Of course not. While
-   the Bolsheviks had mass support a year previously, pointing to election
-   results under a dictatorship where all other parties and groups are
-   subject to state repression is hardly convincing evidence for current
-   support. Needless to say, Stalin (like a host of other dictators) made
-   similar claims on similarly dubious election results. If the Bolsheviks
-   were sincere in their support for soviet power then they would have
-   tried to organise genuine soviet elections. This was possible even
-   during the civil war as the example of the Makhnovists showed.
+   the whole of Russia." This was proof of "how stupid and ridiculous is
+   the bourgeois fairy-tale about the Bolsheviks only having minority
+   support." [Op. Cit., pp. 355-6] Given that the workers and peasants had
+   no real choice in who to vote for, can this result be surprising? Of
+   course not. While the Bolsheviks had mass support a year previously,
+   pointing to election results under a dictatorship where all other
+   parties and groups are subject to state repression is hardly convincing
+   evidence for current support. Needless to say, Stalin (like a host of
+   other dictators) made similar claims on similarly dubious election
+   results. If the Bolsheviks were sincere in their support for soviet
+   power then they would have tried to organise genuine soviet elections.
+   This was possible even during the civil war as the example of the
+   Makhnovists showed.
 
    So, in a nutshell, the Bolsheviks did not fundamentally support the
    goal of soviet power. Rather, they aimed to create a "soviet power," a
@@ -2666,8 +2664,7 @@
 
      "Consequently, our advice is as follows: Everything for the councils
      or soviets! No power above them! A slogan which at the same time
-     will be that of the social revolutionary."
-     [Anarchism and Sovietism]
+     will be that of the social revolutionary." [Anarchism and Sovietism]
 
    The validity of this argument can be seen, for example, from the
    expulsion of opposition parties from the soviets in June and July 1918.
@@ -2787,6 +2784,11 @@
 
 25 Did the Russian revolution refute anarchism?
 
+   Â
+
+   [88]â¹ Appendix - The Russian Revolution [89]up [90]What was the
+   Kronstadt Rebellion? âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/append44.txt
@@ -2876,3 +2878,6 @@ References
   85. //usr/share/doc/anarchism/txt/secH5.txt
   86. //usr/share/doc/anarchism/txt/append46.txt#app15
   87. //usr/share/doc/anarchism/txt/append46.txt
+  88. //afaq/append4.html
+  89. //afaq/append4.html
+  90. //afaq/append42.html

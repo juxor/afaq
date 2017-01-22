@@ -1,4 +1,4 @@
-    C.12 Doesn't Hong Kong show the potentials of "free market" capitalism?
+C.12 Doesn't Hong Kong show the potentials of "free market" capitalism?
 
    Given the general lack of laissez-faire capitalism in the world,
    examples to show its benefits are few and far between. Rather than
@@ -38,8 +38,7 @@
      . . . I believe that the only plausible explanation for the
      different rates of growth is socialism in Britain, free enterprise
      and free markets in Hong Kong. Has anybody got a better explanation?
-     I'd be grateful for any suggestions."
-     [The Hong Kong Experiment]
+     I'd be grateful for any suggestions." [The Hong Kong Experiment]
 
    It should be stressed that by "socialism" Friedman meant state
    spending, particularly that associated with welfare ("Direct government
@@ -263,14 +262,14 @@
    large rural areas). This is because the agricultural sector rarely
    achieves high economic growth rates and so in its absence a high growth
    rate is easier to achieve. Secondly, there is Hong Kong's location and
-   its corresponding role as an entrepôt economy. Wade notes that "its
+   its corresponding role as an entrepÃ´t economy. Wade notes that "its
    economic growth is a function of its service role in a wider regional
-   economy, as entrepôt trader, regional headquarters for multinational
+   economy, as entrepÃ´t trader, regional headquarters for multinational
    companies, and refuge for nervous money." [Op. Cit., p. 331] Being
    between China and the rest of the world means its traders could act as
    a middleman, earning income from the mark-up they could impose on good
    going through the territory. This is why Hong Kong is often referred to
-   as an entrepôt economy, a place that imports, stores, and re-exports
+   as an entrepÃ´t economy, a place that imports, stores, and re-exports
    goods. In other words, Hong Kong made a lot of its money because many
    Chinese exports and imports went through it and its traders marked-up
    the prices. It should be obvious if most of Western Europe's goods went
@@ -464,3 +463,12 @@
    that the British were benign imperialists and the "free market" they
    introduced into Hong Kong was in the interests of all rather than for
    those who exercised the dictatorship.
+   [1]â¹ C.11 Doesn't neo-liberalism in Chile prove that the free market
+   benefits everyone? [2]up [3]Section D - How do statism and capitalism
+   affect society? âº
+
+References
+
+   1. //afaq/secC11.html
+   2. //afaq/secCcon.html
+   3. //afaq/secDcon.html

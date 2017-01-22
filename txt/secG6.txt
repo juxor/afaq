@@ -1,4 +1,4 @@
-                     G.6 What are the ideas of Max Stirner?
+G.6 What are the ideas of Max Stirner?
 
    To some extent, Stirner's work The Ego and Its Own is like a Rorschach
    test. Depending on the reader's psychology, he or she can interpret it
@@ -28,7 +28,7 @@
    inspiration for this latter part of her outlook comes from thinkers
    like . . . Stirner. Herbert Read has commented on the value of
    Stirner's defence of individuality." [Max Stirner's Egoism, p. 90]
-   Daniel Guérin's classic introduction to anarchism gives significant
+   Daniel GuÃ©rin's classic introduction to anarchism gives significant
    space to the German egoist, arguing he "rehabilitated the individual at
    a time when the philosophical field was dominated by Hegelian
    anti-individualism and most reformers in the social field had been led
@@ -44,9 +44,9 @@
    basis of communist society."
 
    It is not hard to see why so many people are influenced by Stirner's
-   work. It is a classic, full of ideas and a sense of fun which is
-   lacking in many political writers. For many, it is only known through
-   the criticism Marx and Engels subjected it too in their book The German
+   work. It is a classic, full of ideas and a sense of fun that is lacking
+   in many political writers. For many, it is only known through the
+   criticism Marx and Engels subjected it too in their book The German
    Ideology. As with their later attacks on Proudhon and Bakunin, the two
    Germans did not accurately reflect the ideas they were attacking and,
    in the case of Stirner, they made it their task to make them appear
@@ -147,14 +147,14 @@
    principles, whether an absolute King or a constitutional one, a
    republic, if only they are protected. And what is their principle,
    whose protector they always 'love'? Not that of labour", rather it is
-   "interesting-bearing possession . . . labouring capital, therefore . .
-   . labour certainly, yet little or none at all of one's own, but labour
-   of capital and of the -- subject labourers." [p. 251, p. 114, p. 113
-   and p. 114]
+   "interest-bearing possession . . . labouring capital, therefore . . .
+   labour certainly, yet little or none at all of one's own, but labour of
+   capital and of the -- subject labourers." [p. 251, p. 114, p. 113 and
+   p. 114]
 
    As can be seen from capitalist support for fascism, Stirner was correct
    -- as long as a regime supports capitalist interests, the 'good
-   citizens' (including many on the so-called "libertarian" right)) will
+   citizens' (including many on the so-called "libertarian" right) will
    support it. Stirner sees that not only does private property require
    state protection, it also leads to exploitation and oppression. As
    noted in [1]section D.10, like subsequent anarchists like Kropotkin,
@@ -176,13 +176,13 @@
    Stirner had nothing but contempt for those who defended property in
    terms of "natural rights" and opposed theft and taxation with a passion
    because it violates said rights. "Rightful, or legitimate property of
-   another," he stated, "will by only that which you are content to
+   another," he stated, "will be only that which you are content to
    recognise as such. If your content ceases, then this property has lost
    legitimacy for you, and you will laugh at absolute right to it." After
    all, "what well-founded objection could be made against theft" [p. 278
    and p. 251] He was well aware that inequality was only possible as long
    as the masses were convinced of the sacredness of property. In this
-   way, the majority end up without property:
+   way, the majority ends up without property:
 
      "Property in the civic sense means sacred property, such that I must
      respect your property . . . Be it ever so little, if one only has
@@ -193,8 +193,7 @@
      humaneness, the virtues of love . . . For in practice people respect
      nothing, and everyday the small possessions are bought up again by
      greater proprietors, and the 'free people' change into day
-     labourers."
-     [p. 248]
+     labourers." [p. 248]
 
    Thus free competition "is not 'free,' because I lack the things for
    competition." Due to this basic inequality of wealth (of "things"),
@@ -230,14 +229,14 @@
    become free and proprietors only when they rise." Thus, "[i]f we want
    no longer to leave the land to the landed proprietors, but to
    appropriate it to ourselves, we unite ourselves to this end, form a
-   union, a société, that makes itself proprietor . . . we can drive them
-   out of many another property yet, in order to make it our property, the
-   property of the -- conquerors." Thus property "deserves the attacks of
-   the Communists and Proudhon: it is untenable, because the civic
-   proprietor is in truth nothing but a propertyless man, one who is
-   everywhere shut out. Instead of owning the world, as he might, he does
-   not own even the paltry point on which he turns around." [p. 258, p.
-   260, p. 249 and pp. 248-9]
+   union, a sociÃ©tÃ©, that makes itself proprietor . . . we can drive
+   them out of many another property yet, in order to make it our
+   property, the property of the -- conquerors." Thus property "deserves
+   the attacks of the Communists and Proudhon: it is untenable, because
+   the civic proprietor is in truth nothing but a propertyless man, one
+   who is everywhere shut out. Instead of owning the world, as he might,
+   he does not own even the paltry point on which he turns around." [p.
+   258, p. 260, p. 249 and pp. 248-9]
 
    Stirner recognises the importance of self-liberation and the way that
    authority often exists purely through its acceptance by the governed.
@@ -357,11 +356,10 @@
    conflict in society will decrease as each individual recognises the
    uniqueness of others, thus ensuring a suitable environment within which
    they can co-operate (or find "truces" in the "war of all against all").
-   These "truces" Stirner termed "Unions of Egoists."
-   They are the means by which egoists could, firstly, "annihilate" the
-   state, and secondly, destroy its creature, private property, since they
-   would "multiply the individual's means and secure his assailed
-   property." [p. 258]
+   These "truces" Stirner termed "Unions of Egoists." They are the means
+   by which egoists could, firstly, "annihilate" the state, and secondly,
+   destroy its creature, private property, since they would "multiply the
+   individual's means and secure his assailed property." [p. 258]
 
    The unions Stirner desires would be based on free agreement, being
    spontaneous and voluntary associations drawn together out of the mutual
@@ -565,6 +563,8 @@
    reminds us that a free society must exist in the interests of all, and
    must be based upon the self-fulfilment, liberation and enjoyment of the
    individual.
+   [5]â¹ G.5 Benjamin Tucker: Capitalist or Anarchist? [6]up [7]G.7
+   Lysander Spooner: right-"libertarian" or libertarian socialist? âº
 
 References
 
@@ -572,3 +572,6 @@ References
    2. //usr/share/doc/anarchism/txt/secB4.txt
    3. //usr/share/doc/anarchism/txt/secIcon.txt
    4. //usr/share/doc/anarchism/txt/secI4.txt
+   5. //afaq/secG5.html
+   6. //afaq/secGcon.html
+   7. //afaq/secG7.html

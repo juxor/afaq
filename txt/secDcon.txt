@@ -1,63 +1,95 @@
-           Section D - How do statism and capitalism affect society?
+Section D - How do statism and capitalism affect society?
 
-[1]Introduction [2]D.1 Why does state intervention occur?
+Â
 
-    [3]D.1.1 Does state intervention cause the problems to begin with?
-       [4]D.1.2 Is state intervention the result of democracy?
-       [5]D.1.3 Is state intervention socialistic?
-       [6]D.1.4 Is laissez-faire capitalism actually without state
-       intervention?
-       [7]D.1.5 Do anarchists support state intervention?
+[1]Introduction
+
+Â
+
+[2]D.1 Why does state intervention occur?
+
+[3]D.1.1 Does state intervention cause the problems to begin with?
+[4]D.1.2 Is state intervention the result of democracy?
+[5]D.1.3 Is state intervention socialistic?
+[6]D.1.4 Is laissez-faire capitalism actually without state intervention?
+[7]D.1.5 Do anarchists support state intervention?
 
 [8]D.2 What influence does wealth have over politics?
 
-    [9]D.2.1 Is capital flight that powerful?
-       [10]D.2.2 How extensive is business propaganda?
+[9]D.2.1 Is capital flight that powerful?
+[10]D.2.2 How extensive is business propaganda?
 
 [11]D.3 How does wealth influence the mass media?
 
-    [12]D.3.1 How does the structure of the media affect its content?
-       [13]D.3.2 What is the effect of advertising on the mass media?
-       [14]D.3.3 Why do the media rely on government and business
-       "experts" for information?
-       [15]D.3.4 How is "flak" used as a means of disciplining the media?
-       [16]D.3.5 Why is "anticommunism" used as control mechanism?
-       [17]D.3.6 Isn't the "propaganda model" a conspiracy theory?
-       [18]D.3.7 Isn't the model contradicted by the media reporting
-       government and business failures?
+[12]D.3.1 How does the structure of the media affect its content?
+[13]D.3.2 What is the effect of advertising on the mass media?
+[14]D.3.3 Why do the media rely on government and business "experts" for
+information?
+[15]D.3.4 How is "flak" used as a means of disciplining the media?
+[16]D.3.5 Why is "anticommunism" used as control mechanism?
+[17]D.3.6 Isn't the "propaganda model" a conspiracy theory?
+[18]D.3.7 Isn't the model contradicted by the media reporting government and
+business failures?
 
-[19]D.4 What is the relationship between capitalism and the ecological crisis?
+[19]D.4 What is the relationship between capitalism and the ecological
+crisis?
+
+Â
 
 [20]D.5 What causes imperialism?
 
-    [21]D.5.1 Has imperialism changed over time?
-       [22]D.5.2 Is imperialism just a product of private capitalism?
-       [23]D.5.3 Does globalisation mean the end of imperialism?
-       [24]D.5.4 What is the relationship between imperialism and the
-       social classes within capitalism?
+[21]D.5.1 Has imperialism changed over time?
+[22]D.5.2 Is imperialism just a product of private capitalism?
+[23]D.5.3 Does globalisation mean the end of imperialism?
+[24]D.5.4 What is the relationship between imperialism and the social classes
+within capitalism?
 
 [25]D.6 Are anarchists against Nationalism?
 
+Â
+
 [26]D.7 Are anarchists opposed to National Liberation struggles?
+
+Â
 
 [27]D.8 What causes militarism and what are its effects?
 
+Â
+
 [28]D.9 Why does political power become concentrated under capitalism?
 
-    [29]D.9.1 What is the relationship between wealth polarisation and
-       authoritarian government?
-       [30]D.9.2 Why is government surveillance of citizens on the
-       increase?
-       [31]D.9.3 What causes justifications for racism to appear?
+[29]D.9.1 What is the relationship between wealth polarisation and
+authoritarian government?
+[30]D.9.2 Why is government surveillance of citizens on the increase?
+[31]D.9.3 What causes justifications for racism to appear?
 
 [32]D.10 How does capitalism affect technology?
 
+Â
+
 [33]D.11 Can politics and economics be separated from each other?
 
-    [34]D.11.1 What does Chile tell us about the right and its vision of
-       liberty?
-       [35]D.11.2 But surely Chile proves that "economic freedom" creates
-       political freedom?
+[34]D.11.1 What does Chile tell us about the right and its vision of liberty?
+[35]D.11.2 But surely Chile proves that "economic freedom" creates political
+freedom?
+
+     * [36]D.0 Section D Introduction
+     * [37]D.1 Why does state intervention occur?
+     * [38]D.2 What influence does wealth have over politics?
+     * [39]D.3 How does wealth influence the mass media?
+     * [40]D.4 What is the relationship between capitalism and the
+       ecological crisis?
+     * [41]D.5 What causes imperialism?
+     * [42]D.6 Are anarchists against Nationalism?
+     * [43]D.7 Are anarchists opposed to National Liberation struggles?
+     * [44]D.8 What causes militarism and what are its effects?
+     * [45]D.9 Why does political power become concentrated under
+       capitalism?
+     * [46]D.10 How does capitalism affect technology?
+     * [47]D.11 Can politics and economics be separated from each other?
+
+   [48]â¹ C.12 Doesn't Hong Kong show the potentials of "free market"
+   capitalism? [49]up [50]D.0 Section D Introduction âº
 
 References
 
@@ -96,3 +128,18 @@ References
   33. //usr/share/doc/anarchism/txt/secD11.txt
   34. //usr/share/doc/anarchism/txt/secD11.txt#secd111
   35. //usr/share/doc/anarchism/txt/secD11.txt#secd112
+  36. //afaq/secDint.html
+  37. //afaq/secD1.html
+  38. //afaq/secD2.html
+  39. //afaq/secD3.html
+  40. //afaq/secD4.html
+  41. //afaq/secD5.html
+  42. //afaq/secD6.html
+  43. //afaq/secD7.html
+  44. //afaq/secD8.html
+  45. //afaq/secD9.html
+  46. //afaq/secD10.html
+  47. //afaq/secD11.html
+  48. //afaq/secC12.html
+  49. //afaq/index.html
+  50. //afaq/secDint.html

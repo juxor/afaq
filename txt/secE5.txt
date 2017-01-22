@@ -1,4 +1,4 @@
-            E.5 Can ethical consumerism stop the ecological crisis?
+E.5 Can ethical consumerism stop the ecological crisis?
 
    No. At best, it can have a limited impact in reducing environmental
    degradation and so postpone the ecological crisis. At worse, it could
@@ -363,9 +363,9 @@
      and so forth. We must have a coherent analysis of the deep-seated
      hierarchical relationships and systems of domination, as well as
      class relationships and economic exploitation, that degrade people
-     as well as the environment."
-     ["The Ecological Crisis, Socialism, and the need to remake society,"
-     pp. 1-10, Society and Nature, vol. 2, no. 3, p. 4]
+     as well as the environment." ["The Ecological Crisis, Socialism, and
+     the need to remake society," pp. 1-10, Society and Nature, vol. 2,
+     no. 3, p. 4]
 
    Using the capitalist market to combat the effects produced by that same
    market is no alternative. Until capitalism and the state are
@@ -379,7 +379,12 @@
    which cannot combat the cancerous growth principle of the capitalist
    economy. As such, ethical consumerism does not break from the logic of
    capitalism and so is doomed to failure.
+   [2]â¹ E.4 Can laissez-faire capitalism protect the environment? [3]up
+   [4]E.6 What is the population myth? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secI1.txt#seci12
+   2. //afaq/secE4.html
+   3. //afaq/secEcon.html
+   4. //afaq/secE6.html

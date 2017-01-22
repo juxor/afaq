@@ -1,4 +1,4 @@
-               G.1 Are individualist anarchists anti-capitalist?
+G.1 Are individualist anarchists anti-capitalist?
 
    To answer this question, it is necessary to first define what we mean
    by capitalism and socialism. While there is a tendency for supporters
@@ -76,7 +76,7 @@
    while also attacking it. The apparent contradiction is easily explained
    by noting there are two schools of socialism, state and libertarian.
    Thus it is possible to be both a (libertarian) socialist and condemn
-   (state) socialist in the harshest terms.
+   (state) socialism in the harshest terms.
 
    So what, then, is socialism? Tucker stated that "the bottom claim of
    Socialism" was "that labour should be put in possession of its own,"
@@ -331,9 +331,9 @@
    liberty will very much lessen it; of that I have no doubt . . . At the
    worst, it will be a small matter, no more worth consideration in
    comparison with the liberty than the slight disparity that will always
-   exist in consequence of inequalities of skill." ["Why I am an
-   Anarchist", pp. 132-6, Man!, M. Graham (ed.), pp. 135-6] Another
-   individualist anarchist, John Beverley Robinson, agreed:
+   exist in consequence of inequalities of skill." [Why I am an Anarchist,
+   pp. 135-6] Another individualist anarchist, John Beverley Robinson,
+   agreed:
 
      "When privilege is abolished, and the worker retains all that he
      produces, then will come the powerful trend toward equality of
@@ -343,7 +343,7 @@
 
    As did Lysander Spooner, who pointed out that the "wheel of fortune, in
    the present state of things, is of such enormous diameter" and "those
-   on its top are on so showy a height" wjile "those underneath it are in
+   on its top are on so showy a height" while "those underneath it are in
    such a pit of debt, oppression, and despair." He argued that under his
    system "fortunes could hardly be represented by a wheel; for it would
    present no such height, no such depth, no such irregularity of motion
@@ -360,7 +360,7 @@
    and p. 73]
 
    As one commentator on individualist anarchism, Wm. Gary Kline,
-   correctly tsummarised:
+   correctly summarised:
 
      "Their proposals were designed to establish true equality of
      opportunity . . . and they expected this to result in a society
@@ -524,8 +524,8 @@
    So why is Individualist Anarchism and Proudhon's mutualism socialist?
    Simply because they opposed the exploitation of labour by capital and
    proposed a means of ending it. The big debate between social and
-   individualist anarchists is revolves around whether the other school
-   can really achieve this common goal and whether its proposed solution
+   individualist anarchists revolves around whether the other school can
+   really achieve this common goal and whether its proposed solution
    would, in fact, secure meaningful individual liberty for all.
 
 G.1.1 What about their support of the free market?
@@ -550,10 +550,9 @@ G.1.1 What about their support of the free market?
    socialism is the entire elimination of the market." [Human Action, p.
    702] This would have come as something of a surprise to, say, Proudhon,
    who argued that "[t]o suppress competition is to suppress liberty
-   itself." [The General Idea of the Revolution, p. 50] Similarly, it
-   would have surprised Tucker, who called himself a socialist while
-   supporting a freer market than von Mises ever dreamt of. As Tucker put
-   it:
+   itself." [General Idea of the Revolution, p. 50] Similarly, it would
+   have surprised Tucker, who called himself a socialist while supporting
+   a freer market than von Mises ever dreamt of. As Tucker put it:
 
      "Liberty has always insisted that Individualism and Socialism are
      not antithetical terms; that, on the contrary, the most perfect
@@ -600,13 +599,13 @@ G.1.1 What about their support of the free market?
    free associations." He considered his own ideas as "Proudhonism widely
    developed and pushed right to these, its final consequences" [Michael
    Bakunin: Selected Writings, p. 100 and p. 198] For Kropotkin, while
-   Godwin was "first theoriser of Socialism without government -- that is
-   to say, of Anarchism" Proudhon was the second as he, "without knowing
-   Godwin's work, laid anew the foundations of Anarchism." He lamented
-   that "many modern Socialists" supported "centralisation and the cult of
-   authority" and so "have not yet reached the level of their two
-   predecessors, Godwin and Proudhon." [Evolution and Environment, pp.
-   26-7] These renown socialists did not consider Proudhon's position to
+   Godwin was the "first theoriser of Socialism without government -- that
+   is to say, of Anarchism" Proudhon was the second as he, "without
+   knowing Godwin's work, laid anew the foundations of Anarchism." He
+   lamented that "many modern Socialists" supported "centralisation and
+   the cult of authority" and so "have not yet reached the level of their
+   two predecessors, Godwin and Proudhon." [Evolution and Environment, pp.
+   26-7] These renowned socialists did not consider Proudhon's position to
    be in any way anti-socialist (although, of course, being critical of
    whether it would work and its desirability if it did). Tucker, it
    should be noted, called Proudhon "the father of the Anarchistic school
@@ -706,10 +705,10 @@ G.1.1 What about their support of the free market?
    social democrats). In fact, "socialist anarchism" has included (and
    continues to include) advocates of truly free markets as well as
    advocates of a non-market socialism which has absolutely nothing in
-   common with the state capitalist tyranny of Stalinism. Similarly, they
-   accept a completely ahistorical definition of "capitalism," so ignoring
-   the massive state violence and support by which that system was created
-   and is maintained.
+   common with the state capitalist tyranny of Stalinism. Similarly,
+   "anarcho"-capitalists accept a completely ahistorical definition of
+   "capitalism," so ignoring the massive state violence and support by
+   which that system was created and is maintained.
 
    The same with terms like "property" and the "free market," by which the
    "anarcho"-capitalist assumes the individualist anarchist means the same
@@ -827,8 +826,8 @@ G.1.1 What about their support of the free market?
      "The complaint of the Archist Socialists that the Anarchists are
      bourgeois is true to this extent and no further -- that, great as is
      their detestation for a bourgeois society, they prefer its partial
-     liberty to the complete slavery of State Socialism." ["Why I am an
-     Anarchist", pp. 132-6, Man!, M. Graham (ed.), p. 136]
+     liberty to the complete slavery of State Socialism." [Why I am an
+     Anarchist, p. 136]
 
    It should be clear that a "free market" will look somewhat different
    depending on your economic presuppositions. Ironically, this is
@@ -969,7 +968,7 @@ G.1.1 What about their support of the free market?
    important).
 
    All this means that to go on and on about individualist anarchism and
-   it support for a free market simply misses the point. No one denies
+   its support for a free market simply misses the point. No one denies
    that individualist anarchists were (and are) in favour of a "free
    market" but this did not mean they were not socialists nor that they
    wanted the same kind of "free market" desired by "anarcho"-capitalism
@@ -984,7 +983,7 @@ G.1.2 What about their support of "private property"?
    The notion that because the Individualist Anarchists supported "private
    property" they supported capitalism is distinctly wrong. This is for
    two reasons. Firstly, private property is not the distinctive aspect of
-   capitalism -- exploitation of wage labour is. Secondly, and more
+   capitalism -- exploitation of wage labour is. Secondly and more
    importantly, what the Individualist Anarchists meant by "private
    property" (or "property") was distinctly different than what is meant
    by theorists on the "libertarian"-right or what is commonly accepted as
@@ -1002,15 +1001,15 @@ G.1.2 What about their support of "private property"?
      of the former, but grows on the former's tomb and nowhere else.
 
      "In Western Europe, the homeland of political economy, the process
-     of primitive accumulation is more of less accomplished . . .
+     of primitive accumulation is more or less accomplished . . .
 
      "It is otherwise in the colonies. There the capitalist regime
      constantly comes up against the obstacle presented by the producer,
      who, as owner of his own conditions of labour, employs that labour
      to enrich himself instead of the capitalist. The contradiction of
      these two diametrically opposed economic systems has its practical
-     manifestation here in the struggle between them."
-     [Capital, vol. 1, p. 931]
+     manifestation here in the struggle between them." [Capital, vol. 1,
+     p. 931]
 
    So, under capitalism, "property turns out to be the right, on the part
    of the capitalist, to appropriate the unpaid labour of others, or its
@@ -1026,7 +1025,7 @@ G.1.2 What about their support of "private property"?
    they remain the property of the immediate producer, are not capital.
    They only become capital under circumstances in which they serve at the
    same time as means of exploitation of, and domination over, the
-   worker." [Op. Cit., p. 730, p. 264 and p. 938]
+   worker." [Op. Cit., p. 730, p. 264 and p. 933]
 
    For Engels, "[b]efore capitalistic production" industry was "based upon
    the private property of the labourers in their means of production",
@@ -1040,7 +1039,7 @@ G.1.2 What about their support of "private property"?
    of bourgeois property." Artisan and peasant property is "a form that
    preceded the bourgeois form" which there "is no need to abolish" as
    "the development of industry has to a great extent already destroyed
-   it." This means that communism "derives no man of the power to
+   it." This means that communism "deprives no man of the power to
    appropriate the products of society; all that it does is to deprive him
    of the power to subjugate the labour of others by means of such
    appropriation." [Marx and Engels, Selected Works, p. 412, p. 413, p.
@@ -1256,24 +1255,24 @@ G.1.2 What about their support of "private property"?
    proportional share of the joint product of himself and others, [it]
    holds that property is liberty." [Liberty, no. 122, p. 4]
 
-   If, as it is sometimes suggested, the difference between a right
-   "libertarian" is that they despise the state because it hinders the
-   freedom of property while left libertarians condemn it because it is a
-   bastion of property, it is worthwhile to note two important facts.
-   Firstly, that individualist anarchism condemns the state because it
-   protects the land monopoly, i.e., capitalist property rights in land
-   and what is on it, rather than a system of "occupancy and use."
-   Secondly, that all schools of anarchist oppose capitalism because it is
-   based on the exploitation of labour, an exploitation which the state
-   protects. Hence de Cleyre: "I wish a sharp distinction made between the
-   legal institution of property, and property in the sense that what a
-   man definitely produces by his own labour is his own." The inequality
-   and oppressions of capitalism are "the inevitable result of the whole
-   politico-economic lie that man can be free and the institution of
-   property continue to exist." [Exquisite Rebel, p. 297] Given this,
-   given these bastions of property against which the both the
-   individualist and social anarchists turn their fire, it is obvious that
-   both schools are left libertarians.
+   If, as it is sometimes suggested, the difference between right
+   "libertarians" and left libertarians is that the former despise the
+   state because it hinders the freedom of property while the latter
+   condemn it because it is a bastion of property, it is worthwhile to
+   note two important facts. Firstly, that individualist anarchism
+   condemns the state because it protects the land monopoly, i.e.,
+   capitalist property rights in land and what is on it, rather than a
+   system of "occupancy and use." Secondly, that all schools of anarchist
+   oppose capitalism because it is based on the exploitation of labour, an
+   exploitation which the state protects. Hence de Cleyre: "I wish a sharp
+   distinction made between the legal institution of property, and
+   property in the sense that what a man definitely produces by his own
+   labour is his own." The inequality and oppressions of capitalism are
+   "the inevitable result of the whole politico-economic lie that man can
+   be free and the institution of property continue to exist." [Exquisite
+   Rebel, p. 297] Given this, given these bastions of property against
+   which the both the individualist and social anarchists turn their fire,
+   it is obvious that both schools are left libertarians.
 
    For these reasons it is clear that just because the Individualist
    Anarchists supported (a form of) "property" does not mean they are
@@ -1299,7 +1298,7 @@ G.1.2 What about their support of "private property"?
    and "the division of land and the instruments of labour among those who
    wish to use them" would be "a socialist school different from
    [communist-anarchism], but it is still socialism." It would be a
-   "mutualist" socialism. [At the Café, p. 54 and p. 56] In other words,
+   "mutualist" socialism. [At the CafÃ©, p. 54 and p. 56] In other words,
    property need not be incompatible with socialism. It all depends on the
    type of property being advocated.
 
@@ -1340,21 +1339,21 @@ G.1.3 What about their support for wage labour?
    time and in such allotments as they use only" and that "wages would
    rise to the full measure of the individual production, and forever
    remain there" as "bosses would be hunting for men rather than men
-   bosses." In other words, land would no longer owned as under capitalism
-   and workers would no longer be exploited as profit, interest and rent
-   could not exist and the worker would get the full product of his or her
-   labour in wages. In contrast, mutualist anarchism "is a modification of
-   the program of Individualism, laying more emphasis upon organisation,
-   co-operation and free federation of the workers. To these the trade
-   union is the nucleus of the free co-operative group, which will obviate
-   the necessity of an employer . . . The mutualist position on the land
-   question is identical with that of the Individualists." The "material
-   factor which accounts for such differences as there are between
-   Individualists and Mutualists" was due to the former being intellectual
-   workers and so "never know[ing] directly the oppressions of the large
-   factory, nor mingled with workers' associations. The Mutualists had;
-   consequently their leaning towards a greater Communism." ["Anarchism",
-   Exquisite Rebel, p. 77 and p. 78]
+   bosses." In other words, land would no longer be owned as under
+   capitalism and workers would no longer be exploited as profit, interest
+   and rent could not exist and the worker would get the full product of
+   his or her labour in wages. In contrast, mutualist anarchism "is a
+   modification of the program of Individualism, laying more emphasis upon
+   organisation, co-operation and free federation of the workers. To these
+   the trade union is the nucleus of the free co-operative group, which
+   will obviate the necessity of an employer . . . The mutualist position
+   on the land question is identical with that of the Individualists." The
+   "material factor which accounts for such differences as there are
+   between Individualists and Mutualists" was due to the former being
+   intellectual workers and so "never know[ing] directly the oppressions
+   of the large factory, nor mingled with workers' associations. The
+   Mutualists had; consequently their leaning towards a greater
+   Communism." ["Anarchism", Exquisite Rebel, p. 77 and p. 78]
 
    Next, we must clarify what is meant by "wage labour" and the related
    term "wages system." They are not identical. Marx, for example,
@@ -1366,7 +1365,7 @@ G.1.3 What about their support for wage labour?
    to need) or socialism (distribution according to work done), as in
    Marx's (in)famous difference between a lower and higher phase of
    communism. It is the difference between a distribution of goods based
-   on deeds and one based on needs and Kropotkin famous polemic "The
+   on deeds and one based on needs and Kropotkin's famous polemic "The
    collectivist Wages System" rests on it. He argued that the wages system
    was based on "renumeration to each according to the time spent in
    producing, while taking into account the productivity of his labour".
@@ -1410,19 +1409,19 @@ G.1.3 What about their support for wage labour?
    capitalism with a market system based on producer co-operatives. This
    is reflected in certain translations of Proudhon. Discussing the
    "workmen's associations" founded in France during the 1848 revolution,
-   Proudhon noted that "the workmen, in order to dispense with middlemen .
-   . . , capitalists, etc., . . . have had to work a little more, and get
-   along with less wages." So he considered workers associations as paying
-   "wages" and so, obviously, meant by "wages" labour income, not wage
-   labour. The term "wage labour" was translated as "wages system," so we
-   find Proudhon arguing that the "workmen's associations" are "a protest
-   against the wage system" and a "denial of the rule of capitalists."
-   Proudhon's aim was "Capitalistic and proprietary exploitation, stopped
-   everywhere, the wage system abolished, equal and just exchange
-   guaranteed." [The General Idea of the Revolution, pp. 89-90, p. 98 and
-   p. 281] This has been translated as "Capitalist and landlord
-   exploitation halted everywhere, wage-labour abolished." [quoted by John
-   Ehrenberg, Proudhon and his Age, p. 116]
+   Proudhon noted that "the workmen, in order to dispense with . . .
+   capitalists . . . have had to work a little more, and get along with
+   less wages." So he considered workers associations as paying "wages"
+   and so, obviously, meant by "wages" labour income, not wage labour. The
+   French word "salariat" was translated as "wages system," so we find
+   Proudhon arguing that the "workmen's associations" are "a protest
+   against the wage system" and a "denial of the rule of capitalists." His
+   aim was "Capitalistic and proprietary exploitation, stopped everywhere,
+   the wage system abolished, equal and just exchange guaranteed."
+   [General Idea of the Revolution, pp. 89-90, p. 98 and p. 281] This can
+   also be translated as "Capitalist and landlord exploitation halted
+   everywhere, wage-labour abolished." [quoted by John Ehrenberg, Proudhon
+   and his Age, p. 116]
 
    We are sorry to belabour this point, but it is essential for
    understanding the anarchist position on wage labour and the differences
@@ -1559,10 +1558,10 @@ G.1.3 What about their support for wage labour?
    workers as] one which would be directed against wage work altogether."
    For Lysander Spooner, liberty meant that the worker was entitled to
    "all the fruits of his own labour" and argued that this "might be
-   feasible" only when "every man [was] own employer or work for himself
-   in a direct way, since working for another resulted in a portion being
-   diverted to the employer." [Martin, Op. Cit., p. 153 and p. 172] To
-   quote Spooner:
+   feasible" only when "every man [was] his own employer or work[s] for
+   himself in a direct way, since working for another resulted in a
+   portion being diverted to the employer." [Martin, Op. Cit., p. 153 and
+   p. 172] To quote Spooner:
 
      "When a man knows that he is to have all the fruits of his labour,
      he labours with more zeal, skill, and physical energy, than when he
@@ -1585,7 +1584,7 @@ G.1.3 What about their support for wage labour?
    favour of others, for that employment by which they must obtain their
    daily bread. They dare not investigate, or if they investigate, dare
    not freely avow and advocate those moral, social, religious, political,
-   and economical truths, which alone calm rescue them from their
+   and economical truths, which alone can rescue them from their
    degradation, lest they should thereby sacrifice their bread by stirring
    the jealousy of those out whom they are dependent, and who derive their
    power, wealth, and consequence from the ignorance and servitude of the
@@ -1594,12 +1593,12 @@ G.1.3 What about their support for wage labour?
    the individual psychologically.
 
    Spooner argued that it was state restrictions on credit and money (the
-   "money monopoly" based on banks requiring specie to operate) as the
-   reason why people sell themselves to others on the labour market. As he
-   put it, "a monopoly of money . . . . put[s] it wholly out of the power
-   of the great body of wealth-producers to hire the capital needed for
-   their industries; and thus compel them . . . -- by the alternative of
-   starvation -- to sell their labour to the monopolists of money . . .
+   "money monopoly" based on banks requiring gold/silver to operate) as
+   the reason why people sell themselves to others on the labour market.
+   As he put it, "a monopoly of money . . . . put[s] it wholly out of the
+   power of the great body of wealth-producers to hire the capital needed
+   for their industries; and thus compel them . . . -- by the alternative
+   of starvation -- to sell their labour to the monopolists of money . . .
    [who] plunder all the producing classes in the prices of their labour."
    Spooner was well aware that it was capitalists who ran the state ("the
    employers of wage labour . . . are also the monopolists of money"). In
@@ -1677,7 +1676,7 @@ G.1.3 What about their support for wage labour?
    thought. As Rocker notes, Greene "emphasised more strongly the
    principle of association than did Josiah Warren and more so than
    Spooner had done." He had a "strong sympathy for the principle of
-   association. In fact, the theory of Mutualism is nothing less that
+   association. In fact, the theory of Mutualism is nothing less than
    co-operative labour based on the cost principle." He also "rejected . .
    . the designation of labour as a commodity" and "constantly endeavoured
    to introduce his ideas into the youthful labour movement . . . so as to
@@ -1732,8 +1731,7 @@ G.1.3 What about their support for wage labour?
      to support their struggles. Lum continued to be involved with
      organised labour for the next seven years, seeing unions as a
      practical necessity in the struggle against class politics and state
-     repression."
-     [Brooks, Op. Cit., pp. 70-1]
+     repression." [Brooks, Op. Cit., pp. 70-1]
 
    However, "[d]espite the similarity between the evolution of Lum's
    strategy and that of the revolutionary anti-statist socialists in the
@@ -1783,13 +1781,13 @@ G.1.3 What about their support for wage labour?
    they use. Like social anarchists, they opposed capitalist exploitation,
    wage slavery and property rights. However, not all individualist
    anarchists held this position, a notable exception being Benjamin
-   Tucker and many of his fellow contributors of Liberty. Tucker asserted
+   Tucker and many of his fellow contributors to Liberty. Tucker asserted
    against the common labour movement and social anarchist equation of
    capitalism with wage slavery that "[w]ages is not slavery. Wages is a
    form of voluntary exchange, and voluntary exchange is a form of
    Liberty." [Liberty, no. 3, p. 1]
 
-   The question how is, does this support of wage labour equate to support
+   The question now is, does this support of wage labour equate to support
    for capitalism? The answer to that depends on whether you see such a
    system as resulting in the exploitation of labour. If socialism is, to
    requote Kropotkin, "understood in its wide, generic, and true sense" as
@@ -1813,11 +1811,11 @@ G.1.3 What about their support for wage labour?
      principles." [J.W. Baker, "Native American Anarchism," pp. 43-62,
      The Raven, vol. 10, no. 1, p. 51]
 
-   So should not be implied that the term socialist is restricted simply
-   to those who oppose wage labour. It should be noted that for many
-   socialists, wage labour is perfectly acceptable -- as long as the state
-   is the boss. As Tucker noted, State Socialism's "principle plank" is
-   "the confiscation of all capital by the State", so stopping "the
+   So it should not be implied that the term socialist is restricted
+   simply to those who oppose wage labour. It should be noted that for
+   many socialists, wage labour is perfectly acceptable -- as long as the
+   state is the boss. As Tucker noted, State Socialism's "principle plank"
+   is "the confiscation of all capital by the State", so stopping "the
    liberty of those non-aggressive individuals who are thus prevented from
    carrying on business for themselves or assuming relations between
    themselves as employer and employee if they prefer, and who are obliged
@@ -1904,7 +1902,8 @@ G.1.3 What about their support for wage labour?
    anarchism socialist (albeit, an inconsistent and flawed version of
    libertarian socialism).
 
-G.1.4 Why is the social context important in evaluating Individualist Anarchism?
+G.1.4 Why is the social context important in evaluating Individualist
+Anarchism?
 
    When reading the work of anarchists like Tucker and Warren, we must
    remember the social context of their ideas, namely the transformation
@@ -2155,7 +2154,7 @@ G.1.4 Why is the social context important in evaluating Individualist Anarchism?
    protested against, the use of the state to favour the rising capitalist
    class. So the social context the individualist anarchists lived in must
    be remembered. America at the times was a predominantly rural society
-   and industry was not as developed as it is now wage labour would have
+   and industry was not as developed as it is now. Wage labour would have
    been minimised. As Wm. Gary Kline argues:
 
      "Committed as they were to equality in the pursuit of property, the
@@ -2226,6 +2225,8 @@ G.1.4 Why is the social context important in evaluating Individualist Anarchism?
    that society towards one based on artisan production one would mean to
    create a society distinctly different than one they envisioned (see
    [26]section G.3 for further discussion).
+   [27]â¹ G.0 Section G Introduction [28]up [29]G.2 Why do individualist
+   anarchists reject social anarchism? âº
 
 References
 
@@ -2255,3 +2256,6 @@ References
   24. //usr/share/doc/anarchism/txt/secF8.txt#secf85
   25. //usr/share/doc/anarchism/txt/secG1.txt#secg11
   26. //usr/share/doc/anarchism/txt/secG3.txt
+  27. //afaq/secGint.html
+  28. //afaq/secGcon.html
+  29. //afaq/secG2.html

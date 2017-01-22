@@ -44,12 +44,12 @@
    equivalent of the commune or "village community," the Hreppar, which
    developed early in the country's history. Like the early local
    assemblies, it is not much discussed in the Sagas but is mentioned in
-   the law book, the Gr·g·s, and was composed of a minimum of twenty farms
-   and had a five member commission. The Hreppar was self-governing and,
-   among other things, was responsible for seeing that orphans and the
-   poor within the area were fed and housed. The Hreppar also served as a
-   property insurance agency and assisted in case of fire and losses due
-   to diseased livestock.
+   the law book, the Gr√°g√°s, and was composed of a minimum of twenty
+   farms and had a five member commission. The Hreppar was self-governing
+   and, among other things, was responsible for seeing that orphans and
+   the poor within the area were fed and housed. The Hreppar also served
+   as a property insurance agency and assisted in case of fire and losses
+   due to diseased livestock.
 
    In addition, as in most pre-capitalist societies, there were "commons",
    common land available for use by all. During the summer, "common lands
@@ -80,8 +80,7 @@
      administered poor relief to people who were recognised as
      inhabitants of their area. People who could not provide for
      themselves were assigned to member farms, which took turns in
-     providing for them."
-     [Byock, Op. Cit., pp. 137-8]
+     providing for them." [Byock, Op. Cit., pp. 137-8]
 
    In practice this meant that "each commune was a mutual insurance
    company, or a miniature welfare state. And membership in the commune
@@ -465,8 +464,14 @@
    the rich. Medieval Iceland is a classic example of this process at
    work.
 
+   [4]‚π 8 What role did the state take in the creation of capitalism?
+   [5]up [6]10 Would laissez-faire capitalism be stable? ‚∫
+
 References
 
    1. //usr/share/doc/anarchism/txt/secB2.txt#secb25
    2. //usr/share/doc/anarchism/txt/append136.txt
    3. //usr/share/doc/anarchism/txt/append136.txt#secf63
+   4. //afaq/append138.html
+   5. //afaq/append13.html
+   6. //afaq/append1310.html

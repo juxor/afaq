@@ -1,4 +1,4 @@
- B.6 But won't decisions made by individuals with their own money be the best?
+B.6 But won't decisions made by individuals with their own money be the best?
 
    This question refers to an argument commonly used by capitalists to
    justify the fact that investment decisions are removed from public
@@ -111,7 +111,12 @@
    would be greatly reduced, for reasons discussed in section I.5.6 (
    [1]Won't there be a danger of a "tyranny of the majority" under
    libertarian socialism?).
+   [2]â¹ B.5 Is capitalism empowering and based on human action? [3]up
+   [4]B.7 What classes exist within modern society? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secI5.txt#seci56
+   2. //afaq/secB5.html
+   3. //afaq/secBcon.html
+   4. //afaq/secB7.html

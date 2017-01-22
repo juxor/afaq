@@ -1,4 +1,4 @@
-                  D.10 How does capitalism affect technology?
+D.10 How does capitalism affect technology?
 
    Technology has an obvious effect on individual freedom, in some ways
    increasing it, in others restricting it. However, since capitalism is a
@@ -567,8 +567,14 @@
    a liberatory technology based on human and ecological needs. [Op. Cit.,
    p. 43 and p. 80] See [2]section I.4.9 for more discussion on technology
    within an anarchist society.
+   [3]â¹ D.9 Why does political power become concentrated under
+   capitalism? [4]up [5]D.11 Can politics and economics be separated from
+   each other? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secJ5.txt#secj512
    2. //usr/share/doc/anarchism/txt/secI4.txt#seci49
+   3. //afaq/secD9.html
+   4. //afaq/secDcon.html
+   5. //afaq/secD11.html

@@ -1,4 +1,4 @@
-       D.9 Why does political power become concentrated under capitalism?
+D.9 Why does political power become concentrated under capitalism?
 
    Under capitalism, political power tends to become concentrated in the
    executive branch of government, along with a corresponding decline in
@@ -379,6 +379,8 @@ government?
    democratic institutions. [A Dream Deferred, p. 68] This analysis is
    echoed by left-liberal economist James K. Galbraith:
 
+   Â
+
      "As polarisation of wages, incomes and wealth develops, the common
      interests and common social programs of society fall into decline.
      We have seen this too, in this country over thirty years, beginning
@@ -391,6 +393,8 @@ government?
      solidarity and mutual reinforcement, the voices of civil society,
      the voices of a democratic and egalitarian middle class." [Created
      Unequal: The Crisis in American Pay, p. 265]
+
+   Â
 
    If this is true, then along with increasing wealth polarisation in the
    US we should expect to see signs of growing authoritarianism. This
@@ -752,8 +756,7 @@ D.9.3 What causes justifications for racism to appear?
      the New Right conservatives . . . The Capitalist class has already
      shown their willingness to use this conservative movement as a smoke
      screen for an attack on the Labor movement, Black struggle, and the
-     entire working class."
-     [Anarchism and the Black Revolution, p. 18]
+     entire working class." [Anarchism and the Black Revolution, p. 18]
 
    The expanding popularity of such racist groups in the US is matched by
    a similar phenomenon in Europe, where xenophobia and a weak economy
@@ -856,8 +859,7 @@ D.9.3 What causes justifications for racism to appear?
      genes. While no serious economist would make that last leap into
      racist fantasy, the underlying structure of the economists' argument
      has undoubtedly helped to legitimise, before a larger public, those
-     who promote such ideas."
-     [Op. Cit., p. 264]
+     who promote such ideas." [Op. Cit., p. 264]
 
    The logical corollary of this social Darwinism is that whites who are
    "less fit" (i.e., poor) also deserve their poverty. But philosophies of
@@ -892,6 +894,8 @@ D.9.3 What causes justifications for racism to appear?
    etc. -- laissez-faire ideology points analysis into a dead-end as well
    as apologetics for the wealthy, apologetics which can be, and are,
    utilised by racists to justify their evil politics.
+   [5]â¹ D.8 What causes militarism and what are its effects? [6]up
+   [7]D.10 How does capitalism affect technology? âº
 
 References
 
@@ -899,3 +903,6 @@ References
    2. //usr/share/doc/anarchism/txt/secB7.txt
    3. //usr/share/doc/anarchism/txt/secB2.txt
    4. //usr/share/doc/anarchism/txt/secB1.txt#secb14
+   5. //afaq/secD8.html
+   6. //afaq/secDcon.html
+   7. //afaq/secD10.html

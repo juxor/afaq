@@ -1,4 +1,4 @@
-           C.4 Why does the market become dominated by Big Business?
+C.4 Why does the market become dominated by Big Business?
 
    As noted in [1]section C.1.4, the standard capitalist economic model
    assumes an economy made up of a large number of small firms, none of
@@ -268,9 +268,9 @@ C.4.1 How extensive is Big Business?
    largest companies control of the market rise from 73% in 1978 to 85% in
    1987 (and increasing fares across the board). ["Unexpected Result of
    Airline Decontrol is Return to Monopolies," Wall Street Journal,
-   20/07/1987] By 1998, the top sixs share had increased by 1% but control
-   was effectively higher with three code-sharing alliances now linking
-   all six in pairs.[Amy Taub, "Oligopoly!" Multinational Monitor,
+   20/07/1987] By 1998, the top sixâs share had increased by 1% but
+   control was effectively higher with three code-sharing alliances now
+   linking all six in pairs.[Amy Taub, "Oligopoly!" Multinational Monitor,
    November 1998, p. 9]
 
    This process of concentration is happening in industries historically
@@ -292,14 +292,14 @@ C.4.1 How extensive is Big Business?
 
      "The latest data available show that in the manufacturing sector the
      four largest companies in a given industry controlled an average of
-     40 percent of the industrys output in 1992, and the top eight had 52
-     percent. These shares were practically unchanged from 1972, but they
-     are two percentage points higher than in 1982. Retail trade
+     40 percent of the industryâs output in 1992, and the top eight had
+     52 percent. These shares were practically unchanged from 1972, but
+     they are two percentage points higher than in 1982. Retail trade
      (department stores, food stores, apparel, furniture, building
      materials and home supplies, eating and drinking places, and other
      retail industries) also showed a jump in market concentration since
      the early 1980s. The top four firms accounted for an average of 16
-     percent of the retail industrys sales in 1982 and 20 percent in
+     percent of the retail industryâs sales in 1982 and 20 percent in
      1992; for the eight largest, the average industry share rose from 22
      to 28 percent. Some figures now available for 1997 suggest that
      concentration continued to increase during the 1990s; of total sales
@@ -562,8 +562,8 @@ C.4.2 What are the effects of Big Business on society?
    Smith -- the level of capital concentration has made a mockery of the
    ideas of free competition.
 
-C.4.3 What does the existence of Big Business mean for economic theory and wage
-labour?
+C.4.3 What does the existence of Big Business mean for economic theory and
+wage labour?
 
    Here we indicate the impact of Big Business on economic theory itself
    and wage labour. In the words of Michal Kalecki, perfect competition is
@@ -814,6 +814,8 @@ labour?
    choice between available options -- the options available have been
    skewed so far in one direction that the other alternatives have been
    marginalised.
+   [16]â¹ C.3 What determines the distribution between labour and capital?
+   [17]up [18]C.5 Why does Big Business get a bigger slice of profits? âº
 
 References
 
@@ -832,3 +834,6 @@ References
   13. //usr/share/doc/anarchism/txt/secF8.txt
   14. //usr/share/doc/anarchism/txt/secJ5.txt#secj511
   15. //usr/share/doc/anarchism/txt/secJ5.txt#secj512
+  16. //afaq/secC3.html
+  17. //afaq/secCcon.html
+  18. //afaq/secC5.html

@@ -1,15 +1,15 @@
                           An Anarchist FAQ Webpage
 
-                                Version 14.0
-
-                                 [flag2.gif]
+                                Version 15.0
           ________________________________________________________
 
       This web page holds an anarchist FAQ. Its aim is to present what
       anarchism really stands for and indicate why you should become an
                                  anarchist.
 
-             [1]Volume 1 of An Anarchist FAQ has been published!
+         [1]Volumes 1 and 2 of An Anarchist FAQ have been published!
+
+                                      Â
 
                 [2]What Anarchists Say about An Anarchist FAQ
 
@@ -18,7 +18,9 @@
 
      An Anarchist FAQ can be accessed using these easy to remember urls:
 
-   [4]www.anarchistfaq.org [5]www.anarchismfaq.org
+                           [4]www.anarchistfaq.org
+
+                           [5]www.anarchismfaq.org
 
                             [6]www.anarchyfaq.org
 
@@ -28,9 +30,11 @@
                           [8]What's New in the FAQ?
           ________________________________________________________
 
+                                      Â
+
                               An Anarchist FAQ
 
-                         Version 14.0 -- 08-MAR-2010
+                         Version 15.0 -- 18-MAR-2014
 
    [9]Introduction
        Section A - [10]What is anarchism?
@@ -57,16 +61,36 @@
                   available for [27]download in pdf format.
           ________________________________________________________
 
-                               [28][flag.gif]
-          Click on the flag for links to other anarchist web-pages
-                      Links last updated on 11-NOV-2006
-                     ___________________________________
+     * [28]An Anarchist FAQ now published!
+     * [29]What's New in the FAQ?
+     * [30]An Anarchist FAQ Introduction
+     * [31]Section A - What is Anarchism?
+     * [32]Section B - Why do anarchists oppose the current system?
+     * [33]Section C - What are the myths of capitalist economics?
+     * [34]Section D - How do statism and capitalism affect society?
+     * [35]Section E - What do anarchists think causes ecological
+       problems?
+     * [36]Section F - Is "anarcho"-capitalism a type of anarchism?
+     * [37]Section G - Is individualist anarchism capitalistic?
+     * [38]Section H - Why do anarchists oppose state socialism?
+     * [39]Section I - What would an anarchist society look like?
+     * [40]Section J - What do anarchists do?
+     * [41]Appendix : Anarchism and "anarcho"-capitalism
+     * [42]Appendix - The Symbols of Anarchy
+     * [43]Appendix : Anarchism and Marxism
+     * [44]Appendix - The Russian Revolution
+     * [45]Bibliography for FAQ
+     * [46]An Anarchist FAQ in pdf format
+     * [47]Non-English versions of the FAQ
+     * [48]An Anarchist FAQ links
+
+   [49]An Anarchist FAQ now published! âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/book.txt
    2. //usr/share/doc/anarchism/txt/quotes.txt
-   3. http://anarchism.pageabode.com/blogs/afaq
+   3. //../blogs/afaq
    4. http://www.anarchistfaq.org/
    5. http://www.anarchismfaq.org/
    6. http://www.anarchyfaq.org/
@@ -91,4 +115,25 @@ References
   25. //usr/share/doc/anarchism/txt/contact.txt
   26. //usr/share/doc/anarchism/txt/translations.txt
   27. //usr/share/doc/anarchism/txt/pdf.txt
-  28. //usr/share/doc/anarchism/txt/links.txt
+  28. //afaq/book.html
+  29. //afaq/new.html
+  30. //afaq/intro.html
+  31. //afaq/secAcon.html
+  32. //afaq/secBcon.html
+  33. //afaq/secCcon.html
+  34. //afaq/secDcon.html
+  35. //afaq/secEcon.html
+  36. //afaq/secFcon.html
+  37. //afaq/secGcon.html
+  38. //afaq/secHcon.html
+  39. //afaq/secIcon.html
+  40. //afaq/secJcon.html
+  41. //afaq/append1.html
+  42. //afaq/append2.html
+  43. //afaq/append3.html
+  44. //afaq/append4.html
+  45. //afaq/biblio.html
+  46. //afaq/pdf.html
+  47. //afaq/translations.html
+  48. //afaq/links.html
+  49. //afaq/book.html

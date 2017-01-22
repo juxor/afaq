@@ -1,4 +1,4 @@
-          D.7 Are anarchists opposed to National Liberation struggles?
+D.7 Are anarchists opposed to National Liberation struggles?
 
    Obviously, given the anarchist analysis of imperialism discussed in
    [1]section D.5, anarchists are opposed to imperialism and wars it
@@ -296,9 +296,8 @@
      all political power . . . is to be regarded . . . as an enemy and
      counter-revolutionary. To the very last drop of their blood they
      will wage a ferocious struggle against it, in defence of their
-     entitlement to self-organisation."
-     [quoted by Alexandre Skirda, Nestor Makhno Anarchy's Cossack, pp.
-     377-8]
+     entitlement to self-organisation." [quoted by Alexandre Skirda,
+     Nestor Makhno Anarchy's Cossack, pp. 377-8]
 
    So while anarchists unmask nationalism for what it is, we do not
    disdain the basic struggle for identity and self-management which
@@ -328,9 +327,14 @@
    Polish, it ends where, renouncing all particular links with Poland, the
    masses wish to establish other national links." [quoted by Jean
    Caroline Cahm, Op. Cit., p. 43]
+   [4]â¹ D.6 Are anarchists against Nationalism? [5]up [6]D.8 What causes
+   militarism and what are its effects? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secD5.txt
    2. //usr/share/doc/anarchism/txt/secD6.txt
    3. //usr/share/doc/anarchism/txt/secI3.txt#seci38
+   4. //afaq/secD6.html
+   5. //afaq/secDcon.html
+   6. //afaq/secD8.html

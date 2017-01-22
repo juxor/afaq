@@ -1,4 +1,4 @@
-     3 Why do anarcho"-capitalists place little or no value on "equality"?
+3 Why do anarcho"-capitalists place little or no value on "equality"?
 
    Murray Rothbard argues that "the 'rightist' libertarian is not opposed
    to inequality." [For a New Liberty, p. 47] In contrast, "leftist"
@@ -343,8 +343,8 @@
      where anybody actually suffered from it. While proclaiming their
      system to be a competitive one, in which private interest rules
      unchecked, they show it operating as a co-operative one, in which no
-     person or group profits at the cost of another."
-     [On the Capitalist Anarchists]
+     person or group profits at the cost of another." [On the Capitalist
+     Anarchists]
 
    This assumption of (relative) equality comes to the fore in Murray
    Rothbard's "Homesteading" concept of property (discussed in section
@@ -600,14 +600,15 @@
      Government, bound to protect them, holds down the lower classes.
      With charity, sweeter to the heart of men, more intelligible to the
      poor man than the abstruse laws of Political Economy, one may
-     dispense with justice."
-     [The General Idea of the Revolution, pp. 69-70]
+     dispense with justice." [General Idea of the Revolution, pp. 69-70]
 
    As noted, the right-libertarian (passing) acknowledgement of poverty
    does not mean that they recognise the existence of market power. They
    never ask themselves how can someone be free if their social situation
    is such that they are drowning in a see of usury and have to sell their
    labour (and so liberty) to survive.
+   [16]â¹ 2 What do "anarcho"-capitalists mean by "freedom"? [17]up [18]4
+   What is the right-libertarian position on private property? âº
 
 References
 
@@ -626,3 +627,6 @@ References
   13. //usr/share/doc/anarchism/txt/append132.txt#secf21
   14. //usr/share/doc/anarchism/txt/append136.txt#secf63
   15. //usr/share/doc/anarchism/txt/append1310.txt#secf102
+  16. //afaq/append132.html
+  17. //afaq/append13.html
+  18. //afaq/append134.html

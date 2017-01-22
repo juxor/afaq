@@ -1,5 +1,5 @@
-    C.11 Doesn't neo-liberalism in Chile prove that the free market benefits
-                                   everyone?
+C.11 Doesn't neo-liberalism in Chile prove that the free market benefits
+everyone?
 
    Chile is considered by some to be one of the economic success stories
    of the modern world. It can be considered as the first laboratory for
@@ -361,11 +361,11 @@
    subsidies, privatisations, and deregulations that allowed for
    unrestricted exploitation of natural resources of limited renewability.
    Equally important were low wages, great flexibility of employers
-   vis-à-vis workers, and high levels of unemployment." [Collins and Lear,
-   Op. Cit., p. 20] The forestry sector was marked by government hand-outs
-   to the already rich. Joseph Collins and John Lear argue that the
-   neoliberals' "stated goals were to curtail sharply the direct role of
-   government in forestry and to let market mechanisms determine the
+   vis-Ã -vis workers, and high levels of unemployment." [Collins and
+   Lear, Op. Cit., p. 20] The forestry sector was marked by government
+   hand-outs to the already rich. Joseph Collins and John Lear argue that
+   the neoliberals' "stated goals were to curtail sharply the direct role
+   of government in forestry and to let market mechanisms determine the
    prices and direct the use of resources. Yet government intervention and
    subsidies were in fact central to reorienting the benefits of forestry
    production away from the rural population towards a handful of national
@@ -1119,7 +1119,7 @@ C.11.3 Did neo-liberal Chile confirm capitalist economics?
    foresight to develop these industries and CORFO provided aid as well as
    credits and subsidies to encourage it. [James M. Cypher, "Is Chile a
    Neoliberal Success?", Dollars & Sense, September/October 2004] Then
-   there is the role of Fundación Chile, a public-private agency designed
+   there is the role of FundaciÃ³n Chile, a public-private agency designed
    to develop firms in new areas where private capital will not invest.
    This pays for research and development before selling its stake to the
    private sector once a project becomes commercially viable. [Jon Jeter,
@@ -1156,6 +1156,9 @@ C.11.3 Did neo-liberal Chile confirm capitalist economics?
    does, in increased inequality, exploitation, poverty, pollution, crime
    and social alienation. The irony is that many right-wing free-marketers
    point to it as a model of the benefits of capitalism.
+   [7]â¹ C.10 Is "free market" capitalism the best way to reduce poverty?
+   [8]up [9]C.12 Doesn't Hong Kong show the potentials of "free market"
+   capitalism? âº
 
 References
 
@@ -1165,3 +1168,6 @@ References
    4. //usr/share/doc/anarchism/txt/secC11.txt#secc112
    5. //usr/share/doc/anarchism/txt/secC9.txt
    6. //usr/share/doc/anarchism/txt/secD11.txt
+   7. //afaq/secC10.html
+   8. //afaq/secCcon.html
+   9. //afaq/secC12.html

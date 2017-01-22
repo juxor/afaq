@@ -1,4 +1,4 @@
-                          D.5 What causes imperialism?
+D.5 What causes imperialism?
 
    In a word: power. Imperialism is the process by which one country
    dominates another directly, by political means, or indirectly, by
@@ -798,12 +798,12 @@ D.5.1 How has imperialism changed over time?
    the moment they step out of line and act in ways which clash with the
    interests of the imperialist powers then their short-comings will used
    to justify intervention (the example of Saddam Hussein is the most
-   obvious one to raise here). As for "democracy,"
-   this can be tolerated by imperialism as long as its in "the traditional
-   sense of 'top-down' rule by elites linked to US power, with democratic
-   forms of little substance -- unless they are compelled to do so, by
-   their own populations in particular." This applies "internally" as well
-   as abroad, for "democracy is fine as long as it . . . does not risk
+   obvious one to raise here). As for "democracy," this can be tolerated
+   by imperialism as long as its in "the traditional sense of 'top-down'
+   rule by elites linked to US power, with democratic forms of little
+   substance -- unless they are compelled to do so, by their own
+   populations in particular." This applies "internally" as well as
+   abroad, for "democracy is fine as long as it . . . does not risk
    popular interference with primary interests of power and wealth." Thus
    the aim is to ensure "an obedient client state is firmly in place, the
    general perferene of conquerors, leaving just military bases for future
@@ -919,8 +919,7 @@ D.5.2 Is imperialism just a product of private capitalism?
      of production . . . the same process takes place if, instead of
      monopolies, there is an exploiting bureaucracy; in other words, this
      bureaucracy also can exploit, but only on the condition that it
-     dominates."
-     [Political and Social Writings, vol. 1, p. 159]
+     dominates." [Political and Social Writings, vol. 1, p. 159]
 
    Given this, it comes as no surprise that the state-capitalist countries
    also participated in imperialist activities, adventures and wars,
@@ -1455,7 +1454,7 @@ D.5.3 Does globalisation mean the end of imperialism?
    government policy reflect the changing needs of business, modified, of
    course, by fear of the working population and its strength. Which
    explains globalisation -- the need for capital to strengthen its
-   position vis-à-vis labour by pitting one labour force against -- and
+   position vis-Ã -vis labour by pitting one labour force against -- and
    our next step, namely to strengthen and globalise working class
    resistance. Only when it is clear that the costs of globalisation -- in
    terms of strikes, protests, boycotts, occupations, economic instability
@@ -1491,8 +1490,8 @@ D.5.3 Does globalisation mean the end of imperialism?
    become even more accountable to capital and even less to their
    populations.
 
-D.5.4 What is the relationship between imperialism and the social classes within
-capitalism?
+D.5.4 What is the relationship between imperialism and the social classes
+within capitalism?
 
    The two main classes within capitalist society are, as we indicated in
    [14]section B.7, the ruling class and the working class. The grey area
@@ -1744,6 +1743,9 @@ capitalism?
    required to maintain it. This means that we have a real interest in
    ending it -- particularly as under globalisation the few benefits that
    used to accrue to us are much less.
+   [18]â¹ D.4 What is the relationship between capitalism and the
+   ecological crisis? [19]up [20]D.6 Are anarchists against Nationalism?
+   âº
 
 References
 
@@ -1764,3 +1766,6 @@ References
   15. //usr/share/doc/anarchism/txt/secD5.txt
   16. //usr/share/doc/anarchism/txt/secD8.txt
   17. //usr/share/doc/anarchism/txt/secD5.txt#secd53
+  18. //afaq/secD4.html
+  19. //afaq/secDcon.html
+  20. //afaq/secD6.html

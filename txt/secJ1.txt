@@ -1,4 +1,4 @@
-                J.1 Are anarchists involved in social struggles?
+J.1 Are anarchists involved in social struggles?
 
    Yes. Anarchism, above all else, is a movement which aims to not only
    analyse the world but also to change it. Therefore anarchists aim to
@@ -566,7 +566,7 @@ J.1.3 Why are anarchists against reformism?
    of pressing social ills, reformists are, more often than not,
    counter-productive. The disaster of the urban rebuilding projects in
    the United States (and similar projects in Britain which moved
-   inter-city working class communities into edge of town developments
+   inner-city working class communities into edge of town developments
    during the 1950s and 1960s) are an example of reformism at work: upset
    at the growing slums, reformists supported projects that destroyed the
    ghettos and built brand-new housing for working class people to live
@@ -741,7 +741,7 @@ J.1.4 What attitude do anarchists take to "single-issue" campaigns?
    campaigns, but do not nourish false hopes in them. This section
    explains what anarchists think of such campaigns.
 
-   A "single-issue" campaign are usually run by a pressure group which
+   A "single-issue" campaign is usually run by a pressure group which
    concentrates on tackling issues one at a time. For example, C.N.D. (The
    Campaign for Nuclear Disarmament) is a classic example of
    "single-issue" campaigning with the aim of getting rid of nuclear
@@ -845,7 +845,7 @@ J.1.5 Why do anarchists try to generalise social struggles?
    one there to support us and we are more likely to be defeated.
 
    Therefore, from an anarchist point of view, the best thing about
-   generalising struggles is that as well as increasing the likilihood of
+   generalising struggles is that as well as increasing the likelihood of
    success ("Solidarity is Strength") it leads to an increased spirit of
    solidarity, responsibility and class consciousness. This is because by
    working together and showing solidarity those involved get to
@@ -919,17 +919,17 @@ J.1.5 Why do anarchists try to generalise social struggles?
      as 'realism' and 'actuality.' The new order of relationships that
      could be developed from a welfare struggle . . . [can ensure that
      the] future penetrates the present; it recasts the way people
-     'organise' and the goals for which they strive."
-     [Post-Scarcity Anarchism, pp. 153-4]
+     'organise' and the goals for which they strive." [Post-Scarcity
+     Anarchism, pp. 153-4]
 
    As the anarchist slogan puts it: "Resistance is Fertile." Planting the
    seed of autonomy, direct action and self-liberation can result,
    potentially, in the blossoming of free individuals due to the nature of
-   struggle itself (see [4]section A.2.7) Therefore, the generalisation of
-   social struggle is not only a key way of winning a specific fight, it
-   can (and should) also spread into different aspects of life and society
-   and play a key part in developing free individuals who reject hierarchy
-   in all aspects of their life.
+   struggle itself (see [4]section A.2.7). Therefore, the generalisation
+   of social struggle is not only a key way of winning a specific fight,
+   it can (and should) also spread into different aspects of life and
+   society and play a key part in developing free individuals who reject
+   hierarchy in all aspects of their life.
 
    Social problems are not isolated from each other and so struggles
    against them cannot be. The nature of struggle is such that once people
@@ -941,6 +941,7 @@ J.1.5 Why do anarchists try to generalise social struggles?
    transformation of those involved into unique individuals in touch with
    their humanity, a humanity eroded by hierarchical society and
    domination.
+   [5]â¹ J.0 Section J Introduction [6]up [7]J.2 What is direct action? âº
 
 References
 
@@ -948,3 +949,6 @@ References
    2. //usr/share/doc/anarchism/txt/secH1.txt#sech16
    3. //usr/share/doc/anarchism/txt/secJ5.txt#secj515
    4. //usr/share/doc/anarchism/txt/secA2.txt#seca27
+   5. //afaq/secJint.html
+   6. //afaq/secJcon.html
+   7. //afaq/secJ2.html

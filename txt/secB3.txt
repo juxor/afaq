@@ -1,4 +1,4 @@
-                B.3 Why are anarchists against private property?
+B.3 Why are anarchists against private property?
 
    Private property is one of the three things all anarchists oppose,
    along side hierarchical authority and the state. Today, the dominant
@@ -11,15 +11,15 @@
    results in the many working for the few.
 
    Anarchist opposition to private property rests on two, related,
-   arguments. These were summed up by Proudhon's maxims (from
-   What is Property? that "property is theft" and "property is despotism."
-   In his words, "Property . . . violates equality by the rights of
-   exclusion and increase, and freedom by despotism . . . [and has]
-   perfect identity with robbery." [Proudhon, What is Property, p. 251]
-   Anarchists, therefore, oppose private property (i.e. capitalism)
-   because it is a source of coercive, hierarchical authority as well as
-   exploitation and, consequently, elite privilege and inequality. It is
-   based on and produces inequality, in terms of both wealth and power.
+   arguments. These were summed up by Proudhon's maxims (from What is
+   Property? that "property is theft" and "property is despotism." In his
+   words, "Property . . . violates equality by the rights of exclusion and
+   increase, and freedom by despotism . . . [and has] perfect identity
+   with robbery." [Proudhon, What is Property, p. 251] Anarchists,
+   therefore, oppose private property (i.e. capitalism) because it is a
+   source of coercive, hierarchical authority as well as exploitation and,
+   consequently, elite privilege and inequality. It is based on and
+   produces inequality, in terms of both wealth and power.
 
    We will summarise each argument in turn.
 
@@ -171,11 +171,10 @@
    maintain itself for as "long as within society a possessing and
    non-possessing group of human beings face one another in enmity, the
    state will be indispensable to the possessing minority for the
-   protection for its privileges." [Rudolf Rocker,
-   Anarcho-Syndicalism, p. 11] Thus private ownership of the means of
-   production is only possible if there is a state, meaning mechanisms of
-   organised coercion at the disposal of the propertied class (see
-   [6]section B.2).
+   protection for its privileges." [Rudolf Rocker, Anarcho-Syndicalism, p.
+   11] Thus private ownership of the means of production is only possible
+   if there is a state, meaning mechanisms of organised coercion at the
+   disposal of the propertied class (see [6]section B.2).
 
    Also, it ought to be easy to see that capitalism, by giving rise to an
    ideologically inalienable "right" to private property, will also
@@ -358,24 +357,23 @@ B.3.1 What is the difference between private property and possession?
    introduced rooted in the concept of possession and use. While the exact
    nature of that new system differs between schools of anarchist thought,
    the basic principles are the same as they flow from the same anarchist
-   theory of property to be found in Proudhon's,
-   What is Property?.
+   theory of property to be found in Proudhon's, What is Property?.
 
-   Significantly, William Godwin in his
-   Enquiry Concerning Political Justice makes the same point concerning
-   the difference between property and possession (although not in the
-   same language) fifty years before Proudhon, which indicates its central
-   place in anarchist thought. For Godwin, there were different kinds of
-   property. One kind was "the empire to which every [person] is entitled
-   over the produce of his [or her] own industry." However, another kind
-   was "a system, in whatever manner established, by which one man enters
-   into the faculty of disposing of the produce of another man's
-   industry." This "species of property is in direct contradiction" to the
-   former kind (he similarities with subsequent anarchist ideas is
-   striking). For Godwin, inequality produces a "servile" spirit in the
-   poor and, moreover, a person who "is born to poverty, may be said,
-   under a another name, to be born a slave." [The Anarchist Writings of
-   William Godwin, p. 133, p. 134, p. 125 and p. 126]
+   Significantly, William Godwin in his Enquiry Concerning Political
+   Justice makes the same point concerning the difference between property
+   and possession (although not in the same language) fifty years before
+   Proudhon, which indicates its central place in anarchist thought. For
+   Godwin, there were different kinds of property. One kind was "the
+   empire to which every [person] is entitled over the produce of his [or
+   her] own industry." However, another kind was "a system, in whatever
+   manner established, by which one man enters into the faculty of
+   disposing of the produce of another man's industry." This "species of
+   property is in direct contradiction" to the former kind (he
+   similarities with subsequent anarchist ideas is striking). For Godwin,
+   inequality produces a "servile" spirit in the poor and, moreover, a
+   person who "is born to poverty, may be said, under a another name, to
+   be born a slave." [The Anarchist Writings of William Godwin, p. 133, p.
+   134, p. 125 and p. 126]
 
    Needless to say, anarchists have not be totally consistent in using
    this terminology. Some, for example, have referred to the capitalist
@@ -402,14 +400,13 @@ B.3.2 What kinds of property does the state protect?
 
    Under capitalism, there are four major kinds of property, or
    exploitative monopolies, that the state protects:
-
-   (1) the power to issue credit and currency, the basis of capitalist
-       banking;
-       (2) land and buildings, the basis of landlordism;
-       (3) productive tools and equipment, the basis of industrial
-       capitalism;
-       (4) ideas and inventions, the basis of copyright and patent
-       ("intellectual property") royalties.
+   Â Â Â Â Â  (1) the power to issue credit and currency, the basis of
+       capitalist banking;
+       Â Â Â Â  (2) land and buildings, the basis of landlordism;
+       Â Â Â Â  (3) productive tools and equipment, the basis of
+       industrial capitalism;
+       Â Â Â Â  (4) ideas and inventions, the basis of copyright and
+       patent ("intellectual property") royalties.Â
 
    By enforcing these forms of property, the state ensures that the
    objective conditions within the economy favour the capitalist, with the
@@ -693,20 +690,19 @@ B.3.2 What kinds of property does the state protect?
 
    In this way usury became self-perpetuating, with apparently "free
    exchanges" being the means by which capitalist domination survives. In
-   other words, "past initiations of force"
-   combined with the current state protection of property ensure that
-   capitalist domination of society continues with only the use of
-   "defensive" force (i.e. violence used to protect the power of property
-   owners against unions, strikes, occupations, etc.). The "fees"
-   extracted from previous generations of workers has ensured that the
-   current one is in no position to re-unite itself with the means of life
-   by "free competition" (in other words, the paying of usury ensures that
-   usury continues). Needless to say, the surplus produced by this
-   generation will be used to increase the capital stock and so ensure the
-   dispossession of future generations and so usury becomes
-   self-perpetuating. And, of course, state protection of "property"
-   against "theft" by working people ensures that property remains theft
-   and the real thieves keep their plunder.
+   other words, "past initiations of force" combined with the current
+   state protection of property ensure that capitalist domination of
+   society continues with only the use of "defensive" force (i.e. violence
+   used to protect the power of property owners against unions, strikes,
+   occupations, etc.). The "fees" extracted from previous generations of
+   workers has ensured that the current one is in no position to re-unite
+   itself with the means of life by "free competition" (in other words,
+   the paying of usury ensures that usury continues). Needless to say, the
+   surplus produced by this generation will be used to increase the
+   capital stock and so ensure the dispossession of future generations and
+   so usury becomes self-perpetuating. And, of course, state protection of
+   "property" against "theft" by working people ensures that property
+   remains theft and the real thieves keep their plunder.
 
    As far as the "ideas" monopoly is concerned, this has been used to
    enrich capitalist corporations at the expense of the general public and
@@ -830,7 +826,7 @@ B.3.2 What kinds of property does the state protect?
    simply pooled their patents and "yet another means of patent and market
    control had developed: corporate patent-pooling agreements. Designed to
    minimise the expense and uncertainties of conflict between the giants,
-   they greatly reinforced the position of each vis-à-vis lesser
+   they greatly reinforced the position of each vis-Ã -vis lesser
    competitors and new entrants into the field." [David Noble, American By
    Design, p. 10]
 
@@ -902,12 +898,11 @@ B.3.2 What kinds of property does the state protect?
    favour by ensuring that the law reflects and protects their interests,
    namely their "property rights." By this process they ensure that
    co-operative tendencies within society are crushed by state-supported
-   "market forces."
-   As Noam Chomsky puts it, modern capitalism is "state protection and
-   public subsidy for the rich, market discipline for the poor."
-   ["Rollback, Part I", Z Magazine] Self-proclaimed defenders of "free
-   market" capitalism are usually nothing of the kind, while the few who
-   actually support it only object to the "public subsidy" aspect of
+   "market forces." As Noam Chomsky puts it, modern capitalism is "state
+   protection and public subsidy for the rich, market discipline for the
+   poor." ["Rollback, Part I", Z Magazine] Self-proclaimed defenders of
+   "free market" capitalism are usually nothing of the kind, while the few
+   who actually support it only object to the "public subsidy" aspect of
    modern capitalism and happily support state protection for property
    rights.
 
@@ -981,8 +976,7 @@ B.3.3 Why is property exploitative?
 
      "Can you guess now why the wisdom of Proudhon said that the
      possessions of the rich are stolen property? Stolen from the
-     producer, the worker."
-     [Berkman, Op. Cit., pp. 7-8]
+     producer, the worker." [Berkman, Op. Cit., pp. 7-8]
 
    Thus the daily theft/exploitation associated with capitalism is
    dependent on the distribution of wealth and private property (i.e. the
@@ -1073,16 +1067,20 @@ B.3.4 Can private property be justified?
 
    To get round this problem, Nozick utilises the work of Locke ("The
    Lockean Proviso") which can be summarised as:
+   Â Â Â Â Â Â  1. People own themselves and, consequently, their labour.
 
-   1. People own themselves and, consequently, their labour.
-       2. The world is initially owned in common (or unowned in Nozick's
-       case.)
-       3. By working on common (or unowned) resources, people turn it into
-       their own property because they own their own labour.
-       4. You can acquire absolute rights over a larger than average share
-       in the world, if you do not worsen the condition of others.
-       5. Once people have appropriated private property, a free market in
-       capital and labour is morally required.
+   Â Â Â Â Â Â  2. The world is initially owned in common (or unowned in
+   Nozick's case.)
+
+   Â Â Â Â Â Â  3. By working on common (or unowned) resources, people
+   turn it into their own property because they own their own labour.
+
+   Â Â Â Â Â Â  4. You can acquire absolute rights over a larger than
+   average share in the world, if you do not worsen the condition of
+   others.
+
+   Â Â Â Â Â  5. Once people have appropriated private property, a free
+   market in capital and labour is morally required.
 
    However, there are numerous flaws in this theory. Most obvious is why
    does the mixing of something you own (labour) with something owned by
@@ -1341,9 +1339,8 @@ B.3.4 Can private property be justified?
 
    For more anarchist analysis on private property and why it cannot be
    justified (be it by occupancy, labour, natural right, or whatever)
-   consult Proudhon's classic work
-   What is Property?. For further discussion on capitalist property rights
-   see [26]section F.4.
+   consult Proudhon's classic work What is Property?. For further
+   discussion on capitalist property rights see [26]section F.4.
 
 B.3.5 Is state owned property different from private property?
 
@@ -1437,6 +1434,8 @@ B.3.5 Is state owned property different from private property?
 
    For more discussion see section H.3.13 -- [28]"Why is state socialism
    just state capitalism?"
+   [29]â¹ B.2 Why are anarchists against the state? [30]up [31]B.4 How
+   does capitalism affect liberty? âº
 
 References
 
@@ -1468,3 +1467,6 @@ References
   26. //usr/share/doc/anarchism/txt/secF4.txt
   27. //usr/share/doc/anarchism/txt/secB2.txt
   28. //usr/share/doc/anarchism/txt/secH3.txt#sech313
+  29. //afaq/secB2.html
+  30. //afaq/secBcon.html
+  31. //afaq/secB4.html

@@ -1,5 +1,3 @@
-                             A.1 What is anarchism?
-
    Anarchism is a political theory which aims to create anarchy, "the
    absence of a master, of a sovereign." [P-J Proudhon, What is Property ,
    p. 264] In other words, anarchism is a political theory which aims to
@@ -340,8 +338,7 @@ A.1.2 What does "anarchism" mean?
      relationships, egalitarian participation in decision-making
      processes, mutual aid and a related critique of all forms of
      domination in philosophical, social and revolutionary movements in
-     all times and places."
-     [My Granny made me an Anarchist, pp. 162-3]
+     all times and places." [My Granny made me an Anarchist, pp. 162-3]
 
    Anarchism, anarchists argue, is simply the theoretical expression of
    our capacity to organise ourselves and run society without bosses or
@@ -510,10 +507,10 @@ A.1.4 Are anarchists socialists?
    property of the company" because by "participation in losses and gains
    . . . the collective force [i.e. surplus] ceases to be a source of
    profits for a small number of managers: it becomes the property of all
-   workers." [The General Idea of the Revolution, p. 222 and p. 223] Thus,
-   in addition to desiring the end of exploitation of labour by capital,
-   true socialists also desire a society within which the producers own
-   and control the means of production (including, it should be stressed,
+   workers." [General Idea of the Revolution, p. 222 and p. 223] Thus, in
+   addition to desiring the end of exploitation of labour by capital, true
+   socialists also desire a society within which the producers own and
+   control the means of production (including, it should be stressed,
    those workplaces which supply services). The means by which the
    producers will do this is a moot point in anarchist and other socialist
    circles, but the desire remains a common one. Anarchists favour direct
@@ -691,8 +688,7 @@ A.1.5 Where does anarchism come from?
      "The outstanding anarchist thinkers, Bakunin, Kropotkin and others,
      did not invent the idea of anarchism, but, having discovered it in
      the masses, simply helped by the strength of their thought and
-     knowledge to specify and spread it."
-     [pp. 15-16]
+     knowledge to specify and spread it." [pp. 15-16]
 
    Like the anarchist movement in general, the Makhnovists were a mass
    movement of working class people resisting the forces of authority,
@@ -819,6 +815,8 @@ A.1.5 Where does anarchism come from?
    working class struggle against capitalism and the state, against
    oppression and exploitation, and for a free society of free and equal
    individuals.
+   [17]â¹ A.0 Section A Introduction [18]up [19]A.2 What does anarchism
+   stand for? âº
 
 References
 
@@ -838,3 +836,6 @@ References
   14. //usr/share/doc/anarchism/txt/secHcon.txt
   15. //usr/share/doc/anarchism/txt/secFcon.txt
   16. //usr/share/doc/anarchism/txt/secA5.txt#seca54
+  17. //afaq/secAint.html
+  18. //afaq/secAcon.html
+  19. //afaq/secA2.html

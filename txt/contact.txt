@@ -3,22 +3,27 @@
    This web-site is the creation of many anarchists across the globe and
    is a classic example of the power of freedom, equality and mutual aid.
 
-   It is produced by a [1]small collective of people who work on the FAQ
-   when we can (mostly in our free time, after work). This means that any
-   e-mail sent may take a while to be replied to. We apologise for any
-   delay, but we are not a corporate funded think-tank or full-time
-   members of a party apparatus. We hope you understand.
+   It is produced by a [1]small collective of people
+   who work on the FAQ when we can (mostly in our free time, after work).
+   This means that any e-mail sent may take a while to be replied to. We
+   apologise for any delay, but we are not a corporate funded think-tank
+   or full-time members of a party apparatus. We hope you understand.
 
    If you want to contact some of those responsible, then send email to
    [2]anarchistfaq@yahoo.co.uk
           ________________________________________________________
 
-                                [3][flag.gif]
-        Click on the flag to return to "An Anarchist FAQ" index page
+          Click [3]here to return to "An Anarchist FAQ" index page
           ________________________________________________________
+
+   [4]â¹ What Anarchists Say about An Anarchist FAQ [5]up [6]Section A -
+   What is Anarchism? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/intro.txt
    2. mailto:anarchistfaq@yahoo.co.uk
    3. //usr/share/doc/anarchism/txt/index.txt
+   4. //afaq/quotes.html
+   5. //afaq/intro.html
+   6. //afaq/secAcon.html

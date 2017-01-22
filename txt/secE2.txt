@@ -1,4 +1,4 @@
-           E.2 What do eco-anarchists propose instead of capitalism?
+E.2 What do eco-anarchists propose instead of capitalism?
 
    Given what eco-anarchists consider to be the root cause of our
    ecological problems (as discussed in the [1]last section), it should
@@ -188,8 +188,7 @@
      community will be absent. Hence absent will be the macrophenomenon
      of various regions of the country trying to compete for firms by
      offering a 'better business climate' (i.e. fewer environmental
-     restrictions)."
-     [Op. Cit., p. 145]
+     restrictions)." [Op. Cit., p. 145]
 
    For an ecological society to work, it requires the active participation
    of those doing productive activity. They are often the first to be
@@ -442,8 +441,8 @@
      diversification of vocational tasks. An eco-community would be
      supported by a new kind of technology -- or eco-technology -- one
      composed of flexible, versatile machinery whose productive
-     applications would emphasise durability and quality . . ."
-     [Toward an Ecological Society, pp. 68-9]
+     applications would emphasise durability and quality . . ." [Toward
+     an Ecological Society, pp. 68-9]
 
    Lastly, we need to quickly sketch out how anarchists see the change to
    an ecological society happening as there is little point having an aim
@@ -487,6 +486,8 @@
    For more discussion of how an anarchist society would work, see
    [11]section I. We will discuss the limitations of various proposed
    solutions to the environmental crisis in the following sections.
+   [12]â¹ E.1 What are the root causes of our ecological problems? [13]up
+   [14]E.3 Can private property rights protect the environment? âº
 
 References
 
@@ -501,3 +502,6 @@ References
    9. //usr/share/doc/anarchism/txt/secJ5.txt#secj514
   10. //usr/share/doc/anarchism/txt/secI2.txt#seci23
   11. //usr/share/doc/anarchism/txt/secIcon.txt
+  12. //afaq/secE1.html
+  13. //afaq/secEcon.html
+  14. //afaq/secE3.html

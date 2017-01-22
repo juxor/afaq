@@ -1,4 +1,5 @@
- Reply to errors and distortions in Phil Mitchinson's Marxism and direct action
+Reply to errors and distortions in Phil Mitchinson's Marxism and direct
+action
 
    Phil Mitchinson essay [1]Marxism and direct action attempts to provide
    a "Marxist" (i.e. Leninist/Trotskyist) critique of the current "Direct
@@ -263,18 +264,17 @@ system"?
    what to do!
 
    Anarchists reject the idea of leaders -- instead we argue for the
-   "leadership of ideas."
-   As we discuss this concept in [2]section J.3.6 and so will not do so
-   here. However, the key concept is that anarchists seek to spread their
-   ideas by discussing their politics as equals in popular organisations
-   and convincing the mass assemblies of these bodies by argument. Rather
-   than using these bodies to be elected to positions of power (i.e.
-   leadership as it is traditionally understood) anarchists consider it
-   essential that power remains in the hands of the base of an
-   organisation and argue that the policies of the organisation be decided
-   by the member directly in assemblies and co-ordinated by conferences of
-   mandated, recallable delegates (see [3]section A.2.9 for more
-   discussion).
+   "leadership of ideas." As we discuss this concept in [2]section J.3.6
+   and so will not do so here. However, the key concept is that anarchists
+   seek to spread their ideas by discussing their politics as equals in
+   popular organisations and convincing the mass assemblies of these
+   bodies by argument. Rather than using these bodies to be elected to
+   positions of power (i.e. leadership as it is traditionally understood)
+   anarchists consider it essential that power remains in the hands of the
+   base of an organisation and argue that the policies of the organisation
+   be decided by the member directly in assemblies and co-ordinated by
+   conferences of mandated, recallable delegates (see [3]section A.2.9 for
+   more discussion).
 
    This is to be expected, of course, as anarchists believe that a free
    society can only be created by organisations which reflect the
@@ -683,7 +683,8 @@ system"?
    practice of Leninism in power is enough to expose its own theoretical
    weaknesses.
 
-9. Why is Mitchinson wrong about the "Abolishion [i.e. Abolition] of the state"?
+9. Why is Mitchinson wrong about the "Abolishion [i.e. Abolition] of the
+state"?
 
    Mitchinson moves on to argue that the "modern capitalist state can wear
    many guises, monarchy, republic, dictatorship, but in the end its
@@ -773,8 +774,8 @@ actually undermine his case?
    Marx said, history repeats itself -- first it is tragedy, second time
    it is farce.
 
-11. Why is Mitchinson wrong to assert anarchists do not believe in defending a
-revolution?
+11. Why is Mitchinson wrong to assert anarchists do not believe in defending
+a revolution?
 
    Mitchinson argues that the "victory of the working class can only mean
    the destruction of the capitalist state. Will the capitalists take
@@ -1147,7 +1148,8 @@ revolution?
    Lenin's State and Revolution has nothing to do with Bolshevik policy
    and presents a false image of what Trotskyists desire.
 
-13. Is the Marxist "worker's state" really the rule of one class over another?
+13. Is the Marxist "worker's state" really the rule of one class over
+another?
 
    Mitchinson argues that the "task of this state would be to develop the
    economy to eradicate want. Less need, means less need to govern
@@ -1187,8 +1189,7 @@ revolution?
 
      "In this sense the proletarian revolution and dictatorship are the
      work of the whole class, but only under the leadership of the
-     vanguard."
-     [Stalinism and Bolshevism]
+     vanguard." [Stalinism and Bolshevism]
 
    Thus, rather than the working class as a whole seizing power, it is the
    "vanguard" which takes power -- "a revolutionary party, even after
@@ -1253,7 +1254,7 @@ revolution?
      dictatorship should understand that only thanks to the party
      dictatorship were the Soviets able to lift themselves out of the mud
      of reformism and attain the state form of the proletariat."
-     [Trotsky, Op. Cit., p. 18]
+     [Trotsky, Stalinism and Bolshevism]
 
    And, obviously, without party dictatorship the soviets would return to
    the "mud." In other words, the soviets are only important to attain
@@ -1472,8 +1473,8 @@ revolution?
      representatives of the people will cease to be workers and will
      begin to look upon the whole workers' world from the heights of the
      state. They will no longer represent the people but themselves and
-     their own pretensions to govern the people."
-     [Statism and Anarchy, p. 178]
+     their own pretensions to govern the people." [Statism and Anarchy,
+     p. 178]
 
    Thus anarchists reject the notion of the dictatorship of the
    proletariat for two reasons. Firstly, because it excluded the bulk of
@@ -1549,8 +1550,7 @@ revolution?
 
      "Consequently, our advice is as follows: Everything for the councils
      or soviets! No power above them! A slogan which at the same time
-     will be that of the social revolutionary."
-     [Anarchism and Sovietism]
+     will be that of the social revolutionary." [Anarchism and Sovietism]
 
    Or, as the Bakunin influenced Jura Federation of the First
    International put it in 1874, "the dictatorship that we want is one
@@ -1559,6 +1559,8 @@ revolution?
    Impossible, p. 631] In other words, a situation in which the working
    masses defend their freedom, their control over their own lives, from
    those who seek to replace it with minority rule.
+
+   Â
 
 15. What caused the degeneration of the Russian Revolution?
 
@@ -1753,8 +1755,8 @@ revolution?
      all the activities of the movement. The Jewish agricultural colonies
      . . . participated in the regional assemblies of workers, peasants
      and partisans; they sent their delegates to the regional
-     Revolutionary Military Council. . ."
-     [The Unknown Revolution, pp. 967-8]
+     Revolutionary Military Council. . ." [The Unknown Revolution, pp.
+     967-8]
 
    Voline also quotes the eminent Jewish writer and historian M.
    Tcherikover about the question of the Makhnovists and anti-Semitism.
@@ -1841,6 +1843,8 @@ revolution?
    to scream about "bourgeois slanders", it hinders the process of working
    class self-emancipation to do so. As intended, in all likelihood.
 
+   Â
+
 16. Did anarchists reject "the need for organisation in the shape of trade
 unions"?
 
@@ -1921,8 +1925,7 @@ unions"?
      of the economic struggle will bring him more and more to recognise
      his true enemies: the privileged classes, including the clergy, the
      bourgeois, and the nobility; and the State, which exists only to
-     safeguard all the privileges of those classes."
-     [Op. Cit., p. 103]
+     safeguard all the privileges of those classes." [Op. Cit., p. 103]
 
    This argument for reforms by direct action and workers' associations
    was a basic point of agreement in those sections of the First
@@ -1948,6 +1951,8 @@ unions"?
    So much for Bakunin or the libertarian wing of the First International
    being against reforms or the struggle for reforms. Anarchists have not
    changed their minds on this issue.
+
+   Â
 
 17. Why do anarchists reject political activity?
 
@@ -2062,6 +2067,8 @@ unions"?
    Mitchinson's politics cannot explain why this occurs, which explains
    why Lenin was so surprised when German Social Democracy supported its
    ruling class during the First World War.
+
+   Â
 
 18. How do anarchists struggle for reforms under capitalism?
 
@@ -2249,6 +2256,8 @@ unions"?
    any and every avenue must be used to cure a disease, including those
    which give you a new disease in its place.
 
+   Â
+
 19. How does Mitchinson distorts the use of the term "Self-reliance"?
 
    Mitchinson argues that:
@@ -2323,6 +2332,8 @@ unions"?
    thing which must be combated. Hence Mitchinson's diatribe -- it is the
    cry of the would-be leader who is afraid his followers will not respect
    his authority.
+
+   Â
 
 20. Is anarchism an example of "Philosophical idealism"?
 
@@ -2419,6 +2430,8 @@ unions"?
    ideas people have change as a result of that struggle. To state
    otherwise is to misrepresent anarchist thought.
 
+   Â
+
 21. How is Mitchinson's critique self-contradictory?
 
    He continues his distortion:
@@ -2464,6 +2477,8 @@ unions"?
    collection of lies, distortion and misrepresentation. Mitchinson not
    only contradicts his ideological gurus, he even contradicts himself!
    That is truly impressive.
+
+   Â
 
 22. How did Trotsky make the trains run on time?
 
@@ -2536,8 +2551,7 @@ unions"?
 
      "The introduction of compulsory labour service is unthinkable
      without the application . . . of the methods of militarisation of
-     labour."
-     [quoted by M. Brinton, Op. Cit., p. 61 and p. 66]
+     labour." [quoted by M. Brinton, Op. Cit., p. 61 and p. 66]
 
    Why "principle"? Perhaps because Marx and Engels had stated in The
    Communist Manifesto that one of the measures required during the
@@ -2550,6 +2564,8 @@ unions"?
    system required. Food rotted in trains waiting for bureaucrats to
    "channel" resources (and, needless to say, the bureaucrats never went
    hungry).
+
+   Â
 
 23. Can centralised planning meet the needs of the whole of society?
 
@@ -2654,6 +2670,8 @@ unions"?
    Needless to say, Mitchinson's comments about carrots is pure stupidity
    and an insult to the intelligence of his audience.
 
+   Â
+
 24. Is technology neutral?
 
    Mitchinson goes on:
@@ -2741,6 +2759,8 @@ unions"?
    a hierarchical, top-down structure, it is clear that any revolutionary
    movement must fight both -- at the same time.
 
+   Â
+
 25. Do anarchists ignore the "strength of the working class"?
 
    Mitchinson argues that:
@@ -2797,6 +2817,8 @@ unions"?
    activities of those who actually are changing the world rather than
    just interpreting it. That they cannot produce an honest critique of
    anarchism indicates the uselessness of their politics.
+
+   Â
 
 26. What does Mitchinson's article tell about the nature of Trotskyism?
 
@@ -2865,6 +2887,8 @@ unions"?
    true socialist transformation of this planet rather than its
    degeneration into centralised state capitalism, discover more about
    anarchism.
+   [10]â¹ Marxists and Spanish Anarchism [11]up [12]Reply to errors and
+   distortions in the SWP's "Marxism and Anarchism" âº
 
 References
 
@@ -2877,3 +2901,6 @@ References
    7. //usr/share/doc/anarchism/txt/append46.txt
    8. //usr/share/doc/anarchism/txt/append46.txt#app9
    9. //usr/share/doc/anarchism/txt/secD10.txt
+  10. //afaq/append32.html
+  11. //afaq/append3.html
+  12. //afaq/append34.html

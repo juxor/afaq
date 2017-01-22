@@ -1,4 +1,4 @@
-        C.10 Is "free market" capitalism the best way to reduce poverty?
+C.10 Is "free market" capitalism the best way to reduce poverty?
 
    It is far to say that supporters of "free-market" capitalism make the
    claim that their system not only benefits everyone, but especially
@@ -318,10 +318,10 @@
      60:1 in 1990 and 74:1 in 1997 . . . Income distribution within
      countries also worsened . . . Between 1975 and 2000, the share of
      the richest 1% in gross income rose from 8% to 17% in the US, from
-     8.8% to 13.3% in Canada and from 6.1% to 13% in the UK."
-     [Deepak Nayyar, "Globalisation, history and development: a tale of
-     two centuries," pp. 137-159, Cambridge Journal of Economics, Vol.
-     30, No. 1, pp. 153-4 and p. 154]
+     8.8% to 13.3% in Canada and from 6.1% to 13% in the UK." [Deepak
+     Nayyar, "Globalisation, history and development: a tale of two
+     centuries," pp. 137-159, Cambridge Journal of Economics, Vol. 30,
+     No. 1, pp. 153-4 and p. 154]
 
    In fact, between 1950 and 1973 there was a vastly superior economic
    performance compared to what came before and what came after. If
@@ -462,7 +462,7 @@ C.10.1 Hasn't neo-liberalism benefited the world's poor?
    argument ignores changes within countries. The article states that
    "average incomes in India and China are going up extremely rapidly" but
    not every person receives the average. The average hides a lot. For
-   example, 9 homeless people have an average income of £0 but add a
+   example, 9 homeless people have an average income of Â£0 but add a
    multi-millionaire and the average income of the ten people is in the
    millions. On average, at the end of a game of poker everyone has the
    same amount of money they started with. As such, to ignore the fact
@@ -975,8 +975,7 @@ C.10.2 Does "free trade" benefit everyone?
      competing countries, led by the US and Germany, emerged and overtook
      and passed Britain in output and income per head. Every one of them
      had protective tariffs, and a bigger (relative) public sector than
-     the British."
-     [Op. Cit., p. 180]
+     the British." [Op. Cit., p. 180]
 
    Significantly, and highly embarrassingly for neo-classical economists,
    the one nation which embraced free trade ideology most, namely the UK
@@ -1188,8 +1187,8 @@ C.10.2 Does "free trade" benefit everyone?
    protectionism or free trade is applied, working class people will
    suffer its costs and will have to fight for any benefits it may bring.
 
-C.10.3 Does "free market" capitalism benefit everyone, especially working class
-people?
+C.10.3 Does "free market" capitalism benefit everyone, especially working
+class people?
 
    One defence of capitalism is that, appearances and popular opinion to
    the contrary, it is benefits working class people more than the ruling
@@ -1334,28 +1333,29 @@ people?
    bonuses would be included as "labour" non-wage compensation.
 
    To see what this means we must use an example. Take a country with 100
-   people with a combined income of £10,000. The average income would be
-   £100 each. Taking a labour/capital split of 70/30, we get an income of
-   labour of £7000 and an income to capital of £3000. Assuming that 5% of
-   the population own the capital stock, that is an average income of £600
-   each while labour gets an average of £73.68. However, 10% of the
+   people with a combined income of Â£10,000. The average income would be
+   Â£100 each. Taking a labour/capital split of 70/30, we get an income of
+   labour of Â£7000 and an income to capital of Â£3000. Assuming that 5%
+   of the population own the capital stock, that is an average income of
+   Â£600 each while labour gets an average of Â£73.68. However, 10% of the
    population are managers and assuming another 70/30 split between
-   management and worker income this means that management gets £2100 in
-   total (an average of £210) while workers get £4900 (an average of
-   £57.65). This means that the owners of capital get 6 times the national
-   average income, managers just over twice that amount and workers just
-   over half the average. In other words, a national statistic of 70%
-   labour income hides the reality that workers, who make up 85% of the
-   population, actually get less than half the income (49%). Capital
-   income, although less, is distributed to fewer people and so causes
-   massive inequality (15% of the population get an average income of
-   £340, nearly 6 times more than the average for the remaining 85% while
-   the upper 5% get over 10 times). If the share of management in labour
-   income rises to 35%, then workers wages fall and inequality rises while
-   labour income remains constant at 70% (management's average income
-   rises to £363.33 while workers' falls to £53.53). It should be stressed
-   this example underestimates inequality in capitalist economies,
-   particularly ones which had the misfortunate to apply Friedman's ideas.
+   management and worker income this means that management gets Â£2100 in
+   total (an average of Â£210) while workers get Â£4900 (an average of
+   Â£57.65). This means that the owners of capital get 6 times the
+   national average income, managers just over twice that amount and
+   workers just over half the average. In other words, a national
+   statistic of 70% labour income hides the reality that workers, who make
+   up 85% of the population, actually get less than half the income (49%).
+   Capital income, although less, is distributed to fewer people and so
+   causes massive inequality (15% of the population get an average income
+   of Â£340, nearly 6 times more than the average for the remaining 85%
+   while the upper 5% get over 10 times). If the share of management in
+   labour income rises to 35%, then workers wages fall and inequality
+   rises while labour income remains constant at 70% (management's average
+   income rises to Â£363.33 while workers' falls to Â£53.53). It should be
+   stressed this example underestimates inequality in capitalist
+   economies, particularly ones which had the misfortunate to apply
+   Friedman's ideas.
 
    Looking further a field, this pattern has been repeated everywhere
    "free(r) market" capitalism has been imposed. In Chile equality and
@@ -1564,8 +1564,8 @@ C.10.4 Does growth automatically mean people are better off?
      exploitation, greater insecurity, and increasing human misery . . .
      most people [can be] 'better off' than their forerunners had been
      fifty years before, but they had suffered and continued to suffer
-     this . . . improvement as a catastrophic experience."
-     [The Making of the English Working Class, p. 231]
+     this . . . improvement as a catastrophic experience." [The Making of
+     the English Working Class, p. 231]
 
    Thompson was specifically referring to the experience of the British
    industrial revolution on the working class but his analysis is of
@@ -1718,27 +1718,19 @@ C.10.4 Does growth automatically mean people are better off?
    or close to it, in the following areas [Richard Du Boff, Accumulation
    and Power, pp. 183-4]:
 
-     lowest level of job security for workers, with greatest chance of
-   being dismissed without notice or reason.
-
-     greatest chance for a worker to become unemployed without adequate
-   unemployment and medical insurance.
-
-     less leisure time for workers, such as holiday time.
-
-     one of the most lopsided income distribution profiles.
-
-     lowest ratio of female to male earnings, in 1987 64% of the male
-   wage.
-
-     highest incidence of poverty in the industrial world.
-
-     among the worse rankings of all advanced industrial nations for
-   pollutant emissions into the air.
-
-     highest murder rates.
-
-     worse ranking for life expectancy and infant morality.
+     * lowest level of job security for workers, with greatest chance of
+       being dismissed without notice or reason.
+     * greatest chance for a worker to become unemployed without adequate
+       unemployment and medical insurance.
+     * less leisure time for workers, such as holiday time.
+     * one of the most lopsided income distribution profiles.
+     * lowest ratio of female to male earnings, in 1987 64% of the male
+       wage.
+     * highest incidence of poverty in the industrial world.
+     * among the worse rankings of all advanced industrial nations for
+       pollutant emissions into the air.
+     * highest murder rates.
+     * worse ranking for life expectancy and infant morality.
 
    It seems strange that the more laissez-faire system has the worse job
    security, least leisure time, highest poverty and inequality if
@@ -2023,6 +2015,9 @@ C.10.4 Does growth automatically mean people are better off?
    ecological crisis. When it boils down to it, we all have two options --
    you can do what is right or you can do what you are told. "Free market"
    capitalist economics opts for the latter.
+   [23]â¹ C.9 Would laissez-faire capitalism reduce unemployment? [24]up
+   [25]C.11 Doesn't neo-liberalism in Chile prove that the free market
+   benefits everyone? âº
 
 References
 
@@ -2048,3 +2043,6 @@ References
   20. //usr/share/doc/anarchism/txt/secC8.txt
   21. //usr/share/doc/anarchism/txt/secB1.txt
   22. //usr/share/doc/anarchism/txt/secF8.txt
+  23. //afaq/secC9.html
+  24. //afaq/secCcon.html
+  25. //afaq/secC11.html

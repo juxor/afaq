@@ -1,4 +1,4 @@
-         4 What is the right-libertarian position on private property?
+4 What is the right-libertarian position on private property?
 
    Right libertarians are not interested in eliminating capitalist private
    property and thus the authority, oppression and exploitation which goes
@@ -38,8 +38,7 @@
      humaneness, the virtues of love. . . . For in practice people
      respect nothing, and everyday the small possessions are bought up
      again by greater proprietors, and the 'free people' change into day
-     labourers."
-     [The Ego and Its Own, p. 248]
+     labourers." [The Ego and Its Own, p. 248]
 
    Thus "anarcho"-capitalists reject totally one of the common (and so
    defining) features of all anarchist traditions -- the opposition to
@@ -732,8 +731,7 @@
      Whether this is an accurate picture of the average human is open to
      question, but there's no question that capitalism as a system and
      economics as a discipline both reward people who conform to the
-     model."
-     [Doug Henwood, Op. Cit., p, 143]
+     model." [Doug Henwood, Op. Cit., p, 143]
 
    Which, of course, highlights the problems within the "trader" model
    advocated by Ayn Rand. According to her, the trader is the example of
@@ -849,6 +847,9 @@
    false. Nor does capitalism co-ordinate economic activities without
    hierarchical structures. For this reason anarchists support
    co-operative forms of production rather than capitalistic forms.
+   [27]â¹ 3 Why do anarcho"-capitalists place little or no value on
+   "equality"? [28]up [29]5 Will privatising "the commons" increase
+   liberty? âº
 
 References
 
@@ -878,3 +879,6 @@ References
   24. //usr/share/doc/anarchism/txt/secB1.txt
   25. //usr/share/doc/anarchism/txt/secB4.txt
   26. //usr/share/doc/anarchism/txt/append132.txt
+  27. //afaq/append133.html
+  28. //afaq/append13.html
+  29. //afaq/append135.html

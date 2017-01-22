@@ -1,4 +1,4 @@
-                    B.4 How does capitalism affect liberty?
+B.4 How does capitalism affect liberty?
 
    Private property is in many ways like a private form of state. The
    owner determines what goes on within the area he or she "owns," and
@@ -593,9 +593,8 @@ B.4.2 Is capitalism based on self-ownership?
      in which we at present exist, it is in these circumstances that
      almost all production is effected: the capitalist is the owner of
      both instruments of production: and the whole of the produce is
-     his."
-     ["Elements of Political Economy" quoted by David Ellerman, Property
-     and Contract in Economics, pp. 53-4
+     his." ["Elements of Political Economy" quoted by David Ellerman,
+     Property and Contract in Economics, pp. 53-4
 
    Thus the only "difference" between slavery and capitalist labour is the
    "mode of purchasing." The labour itself and its product in both cases
@@ -1408,6 +1407,8 @@ B.4.5 But I want to be "left alone"!
    achieve that desire -- it is handicapped by its hierarchical and
    competitive nature -- and how such a desire can be twisted into a means
    of enhancing the power of the few over the many.
+   [22]â¹ B.3 Why are anarchists against private property? [23]up [24]B.5
+   Is capitalism empowering and based on human action? âº
 
 References
 
@@ -1432,3 +1433,6 @@ References
   19. //usr/share/doc/anarchism/txt/secC2.txt
   20. //usr/share/doc/anarchism/txt/secC3.txt
   21. //usr/share/doc/anarchism/txt/secJcon.txt
+  22. //afaq/secB3.html
+  23. //afaq/secBcon.html
+  24. //afaq/secB5.html

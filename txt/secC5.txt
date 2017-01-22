@@ -1,4 +1,4 @@
-            C.5 Why does Big Business get a bigger slice of profits?
+C.5 Why does Big Business get a bigger slice of profits?
 
    As described in the [1]last section, due to the nature of the
    capitalist market, large firms soon come to dominate. Once a few large
@@ -333,8 +333,7 @@ C.5.1 Aren't the super-profits of Big Business due to its higher efficiency?
      materials from their own subsidiaries, process and manufacture these
      in their own refineries, mills and factories, transport their own
      goods and then market these through their own distribution and sales
-     network."
-     [Allan Engler, Apostles of Greed, p. 51]
+     network." [Allan Engler, Apostles of Greed, p. 51]
 
    Moreover, large firms reduce their costs due to their privileged access
    to credit and resources. Both credit and advertising show economies of
@@ -452,6 +451,8 @@ C.5.1 Aren't the super-profits of Big Business due to its higher efficiency?
    Big Business, therefore, receives a larger share of the available
    surplus value in the economy, due to its size advantage and market
    power, not due to "higher efficiency".
+   [7]â¹ C.4 Why does the market become dominated by Big Business? [8]up
+   [9]C.6 Can market dominance by Big Business change? âº
 
 References
 
@@ -461,3 +462,6 @@ References
    4. //usr/share/doc/anarchism/txt/secC7.txt
    5. //usr/share/doc/anarchism/txt/secC5.txt
    6. //usr/share/doc/anarchism/txt/secH2.txt#sech23
+   7. //afaq/secC4.html
+   8. //afaq/secCcon.html
+   9. //afaq/secC6.html

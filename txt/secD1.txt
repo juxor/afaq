@@ -1,4 +1,4 @@
-                     D.1 Why does state intervention occur?
+D.1 Why does state intervention occur?
 
    The most obvious interaction between statism and capitalism is when the
    state intervenes in the economy. Indeed, the full range of capitalist
@@ -16,11 +16,12 @@
    There is, and cannot be, a capitalist economy which does not exhibit
    some form of state action within it. The state is forced to intervene
    in society for three reasons:
-
-   1. To bolster the power of capital as a whole within society.
-       2. To benefit certain sections of the capitalist class against
-       others.
-       3. To counteract the anti-social effects of capitalism.
+   Â Â Â Â Â Â Â Â  1. To bolster the power of capital as a whole within
+       society.
+       Â Â Â Â Â Â Â Â  2. To benefit certain sections of the capitalist
+       class against others.
+       Â Â Â Â Â Â Â Â  3. To counteract the anti-social effects of
+       capitalism.
 
    From our discussion of the state and its role in [1]section B.2, the
    first two reasons are unexpected and straight forward. The state is an
@@ -250,15 +251,14 @@
    to further development and is recognised as such, it adapts forms of
    behaviour through the harnessing of competition which seemingly
    indicate its absolute rule but actually point to its decay and
-   dissolution."
-   [quoted by Paul Mattick, Marx and Keynes, p. 96] Council Communist Paul
-   Mattick comments that a "healthy" capitalism "is a strictly competitive
-   capitalism, and the imperfections of competition in the early and late
-   stages of its development must be regarded as the ailments of an
-   infantile and of a senile capitalism. For a capitalism which restricts
-   competition cannot find its indirect 'regulation' in the price and
-   market movements which derive from the value relations in the
-   production process." [Op. Cit., p. 97]
+   dissolution." [quoted by Paul Mattick, Marx and Keynes, p. 96] Council
+   Communist Paul Mattick comments that a "healthy" capitalism "is a
+   strictly competitive capitalism, and the imperfections of competition
+   in the early and late stages of its development must be regarded as the
+   ailments of an infantile and of a senile capitalism. For a capitalism
+   which restricts competition cannot find its indirect 'regulation' in
+   the price and market movements which derive from the value relations in
+   the production process." [Op. Cit., p. 97]
 
    However, this gives capitalism far too much credit -- as well as
    ignoring how far the reality of that system is from the theory. State
@@ -289,8 +289,7 @@
      "To speak therefore of 'non-intervention of the State' may be all
      right for middle-class economists, who try to persuade the workers
      that their misery is 'a law of Nature.' But -- how can Socialists
-     use such language?"
-     [Op. Cit., pp. 97-8]
+     use such language?" [Op. Cit., pp. 97-8]
 
    In other words, while Marx was right to note that the "silent
    compulsion of economic relations sets the seal on the domination of the
@@ -1113,8 +1112,7 @@ D.1.3 Is state intervention socialistic?
      industrialism and old age under the wages system is the abolition of
      poverty and the wages system, and the transformation of
      industrialism to serve human ends instead of grinding up human
-     beings."
-     [Vernon Richards (ed.), World War - Cold War, p. 347]
+     beings." [Vernon Richards (ed.), World War - Cold War, p. 347]
 
    In reality, rather than genuine socialism we had reformists "operating
    capitalism while trying to give it a socialist gloss." [Op. Cit., p.
@@ -1321,7 +1319,7 @@ D.1.5 Do anarchists support state intervention?
      them, while trying at the same time to pry them open to more
      meaningful public participation -- and, ultimately, to dismantle
      them in a much more free society, of the appropriate circumstances
-     can be achieved." [Chomsky on Anarchism, p. 193 and p. 194]
+     can be achieved." [Chomsky on Anarchism, pp. 193-4]
 
    There is, of course, a tension in this position. The state may be
    influenced by popular struggle but it remains an instrument of
@@ -1415,8 +1413,8 @@ D.1.5 Do anarchists support state intervention?
      actually spend revenues generated from these 'public assets' on
      measures that will have the long-term effect of re-enforcing rather
      than alleviating social division. Public policy consistently results
-     in an increase in the gap between the well-off and the poor."
-     [Kerr, Opt. Cit., pp. 16-7 and p. 17]
+     in an increase in the gap between the well-off and the poor." [Kerr,
+     Opt. Cit., pp. 16-7 and p. 17]
 
    Thus an anarchist approach to this issue would be to reject both
    privatisation and nationalisation in favour of socialisation, i.e.
@@ -1446,8 +1444,8 @@ D.1.5 Do anarchists support state intervention?
      help them. It only appears to do so because it is in control. Those
      who have power may apportion work or regulate the standard of
      living, but this is part of the attack upon the people, not
-     something undertaken on their behalf."
-     [The Floodgates of Anarchy, p. 148-149]
+     something undertaken on their behalf." [The Floodgates of Anarchy,
+     p. 148-149]
 
    Much the same can be said of other aspects of state intervention. For
    example, if we look at state education or welfare an anarchist solution
@@ -1624,6 +1622,8 @@ D.1.5 Do anarchists support state intervention?
    always . . . a corresponding debilitation of grassroots elements. Men
    may come and go, but the state remains." [Jose Peirats, The CNT in the
    Spanish Revolution, vol. 2, p. 150]
+   [19]â¹ D.0 Section D Introduction [20]up [21]D.2 What influence does
+   wealth have over politics? âº
 
 References
 
@@ -1645,3 +1645,6 @@ References
   16. //usr/share/doc/anarchism/txt/secJ5.txt#secj515
   17. //usr/share/doc/anarchism/txt/secJ5.txt#secj516
   18. //usr/share/doc/anarchism/txt/secJ2.txt
+  19. //afaq/secDint.html
+  20. //afaq/secDcon.html
+  21. //afaq/secD2.html

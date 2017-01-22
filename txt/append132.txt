@@ -1,4 +1,4 @@
-               2 What do "anarcho"-capitalists mean by "freedom"?
+2 What do "anarcho"-capitalists mean by "freedom"?
 
    For "anarcho"-capitalists, the concept of freedom is limited to the
    idea of "freedom from." For them, freedom means simply freedom from the
@@ -220,7 +220,8 @@
    not a form of anarchism. Real anarchists support freedom in every
    aspect of an individual's life.
 
-2.1 What are the implications of defining liberty in terms of (property) rights?
+2.1 What are the implications of defining liberty in terms of (property)
+rights?
 
    The change from defending liberty to defending (property) rights has
    important implications. For one thing, it allows right libertarians to
@@ -869,8 +870,8 @@
      employing class, so you must hire yourself out to that class in
      order to work and live. Whatever you work at, whoever your employer
      may be, it is always comes to the same: you must work for him. You
-     can't help yourself. You are compelled."
-     [What is Communist Anarchism?, p. 9]
+     can't help yourself. You are compelled." [What is Communist
+     Anarchism?, p. 9]
 
    Due to this class monopoly over the means of life, workers (usually)
    are at a disadvantage in terms of bargaining power -- there are more
@@ -1006,8 +1007,8 @@
    abstract (bourgeois) self-ownership ("freedom") or a more substantive
    control over one's life (i.e. autonomy)?
 
-2.5 But surely circumstances are the result of liberty and so cannot be objected
-to?
+2.5 But surely circumstances are the result of liberty and so cannot be
+objected to?
 
    It is often argued by right-libertarians that the circumstances we face
    within capitalism are the result of individual decisions (i.e.
@@ -1644,8 +1645,7 @@ justice?
      merits.
 
      "These matters are of no small importance to poor and oppressed
-     people here and elsewhere."
-     [The Chomsky Reader, pp. 187-188]
+     people here and elsewhere." [The Chomsky Reader, pp. 187-188]
 
    It may be argued that the reductions in liberty associated with
    capitalism is not really an iniquitous outcome, but such an argument is
@@ -1787,6 +1787,8 @@ justice?
    Fundamentally, it is for this reason that anarchists reject the
    right-Libertarian theories of freedom and justice -- it just does not
    ensure individual freedom or individuality.
+   [38]â¹ 1 Are "anarcho"-capitalists really anarchists? [39]up [40]3 Why
+   do anarcho"-capitalists place little or no value on "equality"? âº
 
 References
 
@@ -1827,3 +1829,6 @@ References
   35. //usr/share/doc/anarchism/txt/append138.txt
   36. //usr/share/doc/anarchism/txt/append132.txt#secf26
   37. //usr/share/doc/anarchism/txt/secA2.txt#seca214
+  38. //afaq/append131.html
+  39. //afaq/append13.html
+  40. //afaq/append133.html

@@ -1,22 +1,23 @@
-     Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist
-   Theory FAQ" version 4.1.1. There have been a few "anarchist" FAQ's
-   produced before. Bryan Caplan's anarchism FAQ is one of the more
-   recent. While appearing to be a "neutral" statement of anarchist ideas,
-   it is actually in large part an "anarcho"-capitalist FAQ. This can be
-   seen by the fact that anarchist ideas (which he calls "left-anarchist")
-   are given less than half the available space while "anarcho"-capitalist
-   dogma makes up the majority of it. Considering that anarchism has been
-   around far longer than "anarcho"-capitalism and is the bigger and
-   better established movement, this is surprising. Even his use of the
-   term "left anarchist" is strange as it is never used by anarchists and
-   ignores the fact that Individualist Anarchists like Tucker called
-   themselves "socialists" and considered themselves part of the wider
-   socialist movement. For anarchists, the expression "left anarchist" is
-   meaningless as all anarchists are anti-capitalist. Thus the terms used
-   to describe each "school" in his FAQ are biased (those whom Caplan
-   calls "Left anarchists" do not use that term, usually preferring
-   "social anarchist" to distinguish themselves from individualist
-   anarchists like Tucker).
+     * Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist
+       Theory FAQ" version 4.1.1.
+
+   There have been a few "anarchist" FAQ's produced before. Bryan Caplan's
+   anarchism FAQ is one of the more recent. While appearing to be a
+   "neutral" statement of anarchist ideas, it is actually in large part an
+   "anarcho"-capitalist FAQ. This can be seen by the fact that anarchist
+   ideas (which he calls "left-anarchist") are given less than half the
+   available space while "anarcho"-capitalist dogma makes up the majority
+   of it. Considering that anarchism has been around far longer than
+   "anarcho"-capitalism and is the bigger and better established movement,
+   this is surprising. Even his use of the term "left anarchist" is
+   strange as it is never used by anarchists and ignores the fact that
+   Individualist Anarchists like Tucker called themselves "socialists" and
+   considered themselves part of the wider socialist movement. For
+   anarchists, the expression "left anarchist" is meaningless as all
+   anarchists are anti-capitalist. Thus the terms used to describe each
+   "school" in his FAQ are biased (those whom Caplan calls "Left
+   anarchists" do not use that term, usually preferring "social anarchist"
+   to distinguish themselves from individualist anarchists like Tucker).
 
    Caplan also frames the debate only around issues which he is
    comfortable with. For example, when discussing "left anarchist" ideas
@@ -532,10 +533,10 @@
    experiment if they could afford it and accepted the legal system based
    on capitalist property rights (and, of course, survive the competition
    of capitalist companies within the capitalist framework). As we have
-   argued in sections [3]B.4 and [4]F.3why
-   should we have to pay the stealers of the earth for the privilege to
-   life our own lives? Caplan, in effect, ignores the barriers to
-   experimentation in his system while distorting the anarchist position.
+   argued in sections [3]B.4 and [4]F.3 why should we have to pay the
+   stealers of the earth for the privilege to life our own lives? Caplan,
+   in effect, ignores the barriers to experimentation in his system while
+   distorting the anarchist position.
 
 5 How would anarcho-capitalism work?
 
@@ -1299,6 +1300,8 @@
      likely to circumscribe and somewhat standardise the menu of
      available legal codes."
 
+     Â
+
    The argument that "consumer demand" would determine a "philosophically
    neutral" content of the law cannot be sustained. Any law code will
    reflect the philosophy of those who create it. Under
@@ -1515,6 +1518,8 @@
      and opened to free competition; regulation of personal AND economic
      behaviour should be done away with."
 
+     Â
+
    The "anarcho"-capitalist's professed desire to "do away" with the
    "regulation" of economic behaviour is entirely disingenuous. For, by
    giving capitalists the ability to protect their exploitative monopolies
@@ -1627,6 +1632,8 @@
      increase the economic opportunities of the poor, and elimination of
      taxation would lead to a large increase in charitable giving.)"
 
+     Â
+
    Notice the implication that poverty is now caused by laziness and
    irresponsibility rather than by the inevitable workings of an economic
    system that requires a large "reserve army of the unemployed" as a
@@ -1670,6 +1677,9 @@
    the government, or the rabble, hinders their Lockean right to amass
    capital." [Social Anarchism, no. 23, p.101] Caplan seems to expect them
    to turn over a new leaf and give more to that same rabble!
+   [20]â¹ Replies to Some Errors and Distortions in Bryan Caplan's
+   "Anarchist Theory FAQ" version 5.2 [21]up [22]Appendix - Is
+   "anarcho"-capitalism a type of anarchism? âº
 
 References
 
@@ -1692,3 +1702,6 @@ References
   17. //usr/share/doc/anarchism/txt/secA2.txt#seca211
   18. //usr/share/doc/anarchism/txt/secB4.txt#secb44
   19. //usr/share/doc/anarchism/txt/secC7.txt
+  20. //afaq/append11.html
+  21. //afaq/append1.html
+  22. //afaq/append13.html

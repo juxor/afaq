@@ -1,4 +1,4 @@
-            Section B - Why do anarchists oppose the current system?
+Section B - Why do anarchists oppose the current system?
 
    This section of the FAQ presents an analysis of the basic social
    relationships of modern society and the structures which create them,
@@ -180,6 +180,8 @@
    institutions described in this section impact on society as a whole.
    [4]Section E discusses the causes (and some suggested solutions) to the
    ecological problems we face.
+   [5]â¹ Section B - Why do anarchists oppose the current system? [6]up
+   [7]B.1 Why are anarchists against authority and hierarchy? âº
 
 References
 
@@ -187,3 +189,6 @@ References
    2. //usr/share/doc/anarchism/txt/secCcon.txt
    3. //usr/share/doc/anarchism/txt/secDcon.txt
    4. //usr/share/doc/anarchism/txt/secEcon.txt
+   5. //afaq/secBcon.html
+   6. //afaq/secBcon.html
+   7. //afaq/secB1.html

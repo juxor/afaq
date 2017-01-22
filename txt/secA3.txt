@@ -1,4 +1,4 @@
-                     A.3 What types of anarchism are there?
+A.3 What types of anarchism are there?
 
    One thing that soon becomes clear to any one interested in anarchism is
    that there is not one single form of anarchism. Rather, there are
@@ -1898,15 +1898,14 @@ A.3.7 Are there religious anarchists?
    of India. Moreover, Gandhi's vision of a free India as a federation of
    peasant communes is similar to Tolstoy's anarchist vision of a free
    society (although we must stress that Gandhi was not an anarchist). The
-   Catholic Worker Group
-   in the United States was also heavily influenced by Tolstoy (and
-   Proudhon), as was Dorothy Day a staunch Christian pacifist and
-   anarchist who founded it in 1933. The influence of Tolstoy and
-   religious anarchism in general can also be found in Liberation Theology
-   movements in Latin and South America who combine Christian ideas with
-   social activism amongst the working class and peasantry (although we
-   should note that Liberation Theology is more generally inspired by
-   state socialist ideas rather than anarchist ones).
+   Catholic Worker Group in the United States was also heavily influenced
+   by Tolstoy (and Proudhon), as was Dorothy Day a staunch Christian
+   pacifist and anarchist who founded it in 1933. The influence of Tolstoy
+   and religious anarchism in general can also be found in Liberation
+   Theology movements in Latin and South America who combine Christian
+   ideas with social activism amongst the working class and peasantry
+   (although we should note that Liberation Theology is more generally
+   inspired by state socialist ideas rather than anarchist ones).
 
    So there is a minority tradition within anarchism which draws anarchist
    conclusions from religion. However, as we noted in [24]section A.2.20,
@@ -2475,7 +2474,7 @@ A.3.9 What is anarcho-primitivism?
      mere revolution could never be radical enough to satisfy their
      eternal ontological rebelliousness. Such all-or-nothing bombast may
      temporarily impress a few spectators, but its ultimate effect is
-     simply to make people blasé." [Knabb, Op. Cit., pp. 31-32]
+     simply to make people blasÃ©." [Knabb, Op. Cit., pp. 31-32]
 
    Then there is the question of the means suggested for achieving
    primitivism. Moore argues that the "kind of world envisaged by
@@ -2680,6 +2679,8 @@ A.3.9 What is anarcho-primitivism?
    as well as David Watson's Beyond Bookchin and Against the Mega-Machine.
    Ken Knabb's essay The Poverty of Primitivism is an excellent critique
    of primitivism as is Brian Oliver Sheppard's Anarchism vs. Primitivism.
+   [29]â¹ A.2 What does anarchism stand for? [30]up [31]A.4 Who are the
+   major anarchist thinkers? âº
 
 References
 
@@ -2687,7 +2688,7 @@ References
    2. //usr/share/doc/anarchism/txt/secH2.txt
    3. //usr/share/doc/anarchism/txt/secA5.txt
    4. //usr/share/doc/anarchism/txt/secB3.txt
-   5. //usr/share/doc/anarchism/txt/secI2.txt#seci22"
+   5. //usr/share/doc/anarchism/txt/secI2.txt#seci22%22
    6. //usr/share/doc/anarchism/txt/secG3.txt
    7. //usr/share/doc/anarchism/txt/secI.txt#seci62
    8. //usr/share/doc/anarchism/txt/secGcon.txt
@@ -2711,3 +2712,6 @@ References
   26. //usr/share/doc/anarchism/txt/secA3.txt#seca33
   27. //usr/share/doc/anarchism/txt/secH4.txt
   28. //usr/share/doc/anarchism/txt/secD10.txt
+  29. //afaq/secA2.html
+  30. //afaq/secAcon.html
+  31. //afaq/secA4.html

@@ -1,4 +1,4 @@
-                  10 Would laissez-faire capitalism be stable?
+10 Would laissez-faire capitalism be stable?
 
    Unsurprisingly, right-libertarians combine their support for "absolute
    property rights" with a whole-hearted support for laissez-faire
@@ -79,6 +79,8 @@
    instability within capitalism. We hope to indicate in the next two
    sections why the business cycle is inherent in the system (see also
    sections [4]C.7, [5]C.8 and [6]C.9).
+
+   Â
 
 10.1 Would privatising banking make capitalism stable?
 
@@ -958,14 +960,14 @@
 
 10.3 Was laissez-faire capitalism stable?
 
-   Firstly, we must state that a pure laissez-faire capitalist system has
-   not existed. This means that any evidence we present in this section
-   can be dismissed by right-libertarians for precisely this fact -- it
-   was not "pure" enough. Of course, if they were consistent, you would
-   expect them to shun all historical and current examples of capitalism
-   or activity within capitalism, but this they do not. The logic is
-   simple -- if X is good, then it is permissible to use it. If X is bad,
-   the system is not pure enough.
+   > Firstly, we must state that a pure laissez-faire capitalist system
+   has not existed. This means that any evidence we present in this
+   section can be dismissed by right-libertarians for precisely this fact
+   -- it was not "pure" enough. Of course, if they were consistent, you
+   would expect them to shun all historical and current examples of
+   capitalism or activity within capitalism, but this they do not. The
+   logic is simple -- if X is good, then it is permissible to use it. If X
+   is bad, the system is not pure enough.
 
    However, as right-libertarians do use historical examples so shall we.
    According to Murray Rothbard, there was "quasi-laissez-faire
@@ -1060,6 +1062,8 @@
    ironically, it was members of the capitalist class who lead the
    movement towards state-managed capitalism in the name of "sound
    money").
+   [27]â¹ 9 Is Medieval Iceland an example of "anarcho"-capitalism working
+   in practice? [28]up [29]11 What is the myth of "Natural Law"? âº
 
 References
 
@@ -1089,3 +1093,6 @@ References
   24. //usr/share/doc/anarchism/txt/secC7.txt#secc72
   25. //usr/share/doc/anarchism/txt/append1310.txt#secf101
   26. //usr/share/doc/anarchism/txt/append138.txt
+  27. //afaq/append139.html
+  28. //afaq/append13.html
+  29. //afaq/append1311.html

@@ -337,9 +337,15 @@
    For more discussion on this issue, see the appendix [4]"Anarchism and
    'Anarcho'-capitalism"
 
+   [5]â¹ Section F - Is "anarcho"-capitalism a type of anarchism? [6]up
+   [7]F.1 Are "anarcho"-capitalists really anarchists? âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/secGcon.txt
    2. //usr/share/doc/anarchism/txt/secF1.txt
    3. //usr/share/doc/anarchism/txt/secF7.txt
    4. //usr/share/doc/anarchism/txt/append1.txt
+   5. //afaq/secFcon.html
+   6. //afaq/secFcon.html
+   7. //afaq/secF1.html

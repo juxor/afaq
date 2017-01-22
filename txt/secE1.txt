@@ -1,4 +1,4 @@
-            E.1 What are the root causes of our ecological problems?
+E.1 What are the root causes of our ecological problems?
 
    The dangers associated with environmental damage have become better
    known over the last few decades. In fact, awareness of the crisis we
@@ -327,10 +327,10 @@ E.1.1 Is industry the cause of environmental problems?
    society' [are] two very safe, socially natural targets against which
    even the bourgeoisie can inveigh in Earth Day celebrations, as long as
    minimal attention is paid to the social relations in which the
-   mechanisation of society is rooted."
-   Instead, ecology needs "a confrontational stance toward capitalism and
-   hierarchical society" in order to be effective and fix the root causes
-   of our problems. [The Ecology of Freedom, p. 54]
+   mechanisation of society is rooted." Instead, ecology needs "a
+   confrontational stance toward capitalism and hierarchical society" in
+   order to be effective and fix the root causes of our problems. [The
+   Ecology of Freedom, p. 54]
 
    Claiming that "industrialism" rather than "capitalism" is the cause of
    our ecological problems allowed greens to point to both the west and
@@ -627,6 +627,8 @@ E.1.2 What is the difference between environmentalism and ecology?
    innate creativity for its own benefit and for that of the natural
    world, all ecological problems will have their roots in social
    problems." [Bookchin, Remaking Society, p. 39]
+   [14]â¹ E.0 Section E Introduction [15]up [16]E.2 What do eco-anarchists
+   propose instead of capitalism? âº
 
 References
 
@@ -643,3 +645,6 @@ References
   11. //usr/share/doc/anarchism/txt/secB3.txt#secb35
   12. //usr/share/doc/anarchism/txt/secD10.txt
   13. //usr/share/doc/anarchism/txt/secA3.txt#seca33
+  14. //afaq/secEint.html
+  15. //afaq/secEcon.html
+  16. //afaq/secE2.html

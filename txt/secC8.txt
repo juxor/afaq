@@ -1,4 +1,4 @@
-         C.8 Is state control of money the cause of the business cycle?
+C.8 Is state control of money the cause of the business cycle?
 
    As explained in the [1]last section, capitalism will suffer from a
    boom-and-bust cycle due to objective pressures on profit production
@@ -1092,8 +1092,8 @@ C.8.2 What happened to Keynesianism in the 1970s?
      of preserving the value of money . . . there would be a constant
      upward pressure upon money wage-rates . . . the vicious spiral of
      wages and prices might become chronic . . . if it moved too fast, it
-     might precipitate a violent inflation."
-     [Collected Economic Papers, vol. 1, pp. 84-5]
+     might precipitate a violent inflation." [Collected Economic Papers,
+     vol. 1, pp. 84-5]
 
    Thus left-wing Keynesians (who later founded the Post-Keynesian school
    of economics) recognised that capitalists "could recoup themselves for
@@ -1719,6 +1719,8 @@ C.8.3 How did capitalism adjust to the crisis in Keynesianism?
    managed economic recession, working class people are still fighting
    back. The job for anarchists to is encourage these sparks of liberty
    and help them win.
+   [24]â¹ C.7 What causes the capitalist business cycle? [25]up [26]C.9
+   Would laissez-faire capitalism reduce unemployment? âº
 
 References
 
@@ -1745,3 +1747,6 @@ References
   21. //usr/share/doc/anarchism/txt/secB7.txt
   22. //usr/share/doc/anarchism/txt/secD1.txt
   23. //usr/share/doc/anarchism/txt/secC10.txt
+  24. //afaq/secC7.html
+  25. //afaq/secCcon.html
+  26. //afaq/secC9.html

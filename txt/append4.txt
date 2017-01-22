@@ -26,24 +26,26 @@
    the limitations of Bolshevism as a revolutionary movement and point to
    libertarian ideas for anyone who wants to change the world.
 
-     [1]What happened during the Russian Revolution?
+     * [1]What happened during the Russian Revolution?
 
-     [2]What was the Kronstadt Rebellion?
+     * [2]What was the Kronstadt Rebellion?
 
-     [3]What caused the degeneration of the Russian Revolution?
+     * [3]What caused the degeneration of the Russian Revolution?
 
-     [4]How did Bolshevik ideology contribute to the failure of the
-   Revolution?
+     * [4]How did Bolshevik ideology contribute to the failure of the
+       Revolution?
 
-     [5]Were any of the Bolshevik oppositions a real alternative?
+     * [5]Were any of the Bolshevik oppositions a real alternative?
 
-     [6]Why does the Makhnovist movement show there is an alternative to
-   Bolshevism?
+     * [6]Why does the Makhnovist movement show there is an alternative to
+       Bolshevism?
           ________________________________________________________
 
-     [7]What happened during the Russian Revolution?
+   Â
 
-   [8]1 Can you give a short summary of what happened in 1917?
+     * [7]What happened during the Russian Revolution?
+
+    [8]1 Can you give a short summary of what happened in 1917?
        [9]2 How did the Bolsheviks gain mass support?
        [10]3 Surely the Russian Revolution proves that vanguard parties
        work?
@@ -71,11 +73,15 @@
        [30]23 Was the repression of the socialist opposition justified?
        [31]24 What did the anarchists do during the revolution?
        [32]25 Did the Russian revolution refute anarchism?
+
+   Â
           ________________________________________________________
 
-     [33]What was the Kronstadt Rebellion?
+   Â
 
-   [34]1 Why is the Kronstadt rebellion important?
+     * [33]What was the Kronstadt Rebellion?
+
+    [34]1 Why is the Kronstadt rebellion important?
        [35]2 What was the context of the Kronstadt revolt?
        [36]3 What was the Kronstadt Programme?
        [37]4 Did the Kronstadt rebellion reflect "the exasperation of the
@@ -94,9 +100,11 @@
        [48]15 What does Kronstadt tell us about Bolshevism?
           ________________________________________________________
 
-     [49]What caused the degeneration of the Russian Revolution?
+   Â
 
-   [50]1 Do anarchists ignore the objective factors facing the Russian
+     * [49]What caused the degeneration of the Russian Revolution?
+
+    [50]1 Do anarchists ignore the objective factors facing the Russian
        revolution?
        [51]2 Can "objective factors" really explain the failure of
        Bolshevism?
@@ -107,10 +115,12 @@
        actions?
           ________________________________________________________
 
-     [56]How did Bolshevik ideology contribute to the failure of the
-   Revolution?
+   Â
 
-   [57]1 How did the Marxist historical materialism affect Bolshevism?
+     * [56]How did Bolshevik ideology contribute to the failure of the
+       Revolution?
+
+    [57]1 How did the Marxist historical materialism affect Bolshevism?
        [58]2 Why did the Marxist theory of the state undermine working
        class power?
        [59]3 How did Engels' essay "On Authority" affect the revolution?
@@ -123,9 +133,11 @@
        [64]8 How did the aim for party power undermine the revolution?
           ________________________________________________________
 
-     [65]Were any of the Bolshevik oppositions a real alternative?
+   Â
 
-   [66]1 Were the "Left Communists" of 1918 an alternative?
+     * [65]Were any of the Bolshevik oppositions a real alternative?
+
+    [66]1 Were the "Left Communists" of 1918 an alternative?
        [67]2 What were the limitations of the "Workers' Opposition" of
        1920?
        [68]3 What about Trotsky's "Left Opposition" in the 1920s?
@@ -133,10 +145,12 @@
        Leninism?
           ________________________________________________________
 
-     [70]Why does the Makhnovist movement show there is an alternative to
-   Bolshevism?
+   Â
 
-   [71]1 Who was Nestor Makhno?
+     * [70]Why does the Makhnovist movement show there is an alternative
+       to Bolshevism?
+
+    [71]1 Who was Nestor Makhno?
        [72]2 Why was the movement named after Makhno?
        [73]3 Why was Makhno called "Batko"?
        [74]4 Can you give a short overview of the Makhnovist movement?
@@ -153,6 +167,21 @@
        [85]15 How do the modern followers of Bolshevism slander the
        Makhnovists?
        [86]16 What lessons can be learned from the Makhnovists?
+
+   Â
+
+     * [87]What happened during the Russian Revolution?
+     * [88]What was the Kronstadt Rebellion?
+     * [89]What caused the degeneration of the Russian Revolution?
+     * [90]How did Bolshevik ideology contribute to the failure of the
+       Revolution?
+     * [91]Were any of the Bolshevik oppositions a real alternative?
+     * [92]Why does the Makhnovist movement show there is an alternative
+       to Bolshevism?
+
+   [93]â¹ Reply to errors and distortions in John Fisher's "Why we must
+   further Marxism and not Anarchism" [94]up [95]What happened during the
+   Russian Revolution? âº
 
 References
 
@@ -242,3 +271,12 @@ References
   84. //usr/share/doc/anarchism/txt/append46.txt#app14
   85. //usr/share/doc/anarchism/txt/append46.txt#app15
   86. //usr/share/doc/anarchism/txt/append46.txt#app16
+  87. //afaq/append41.html
+  88. //afaq/append42.html
+  89. //afaq/append43.html
+  90. //afaq/append44.html
+  91. //afaq/append45.html
+  92. //afaq/append46.html
+  93. //afaq/append35.html
+  94. //afaq/index.html
+  95. //afaq/append41.html

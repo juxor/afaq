@@ -1,4 +1,4 @@
-         D.11 Can politics and economics be separated from each other?
+D.11 Can politics and economics be separated from each other?
 
    A key aspect of anarchism is the idea that the political and economic
    aspects of society cannot be separated. [1]Section D has been an
@@ -675,6 +675,8 @@ freedom?
    be cast overboard." [Op. Cit., p. 42] Chile is a classic example of
    this, a bloody example which helps deter genuine democracy in that
    country decades later.
+   [8]â¹ D.10 How does capitalism affect technology? [9]up [10]Section E -
+   What do anarchists think causes ecological problems? âº
 
 References
 
@@ -685,3 +687,6 @@ References
    5. //usr/share/doc/anarchism/txt/secC11.txt#secc113
    6. //usr/share/doc/anarchism/txt/secC11.txt
    7. //usr/share/doc/anarchism/txt/secF8.txt
+   8. //afaq/secD10.html
+   9. //afaq/secDcon.html
+  10. //afaq/secEcon.html

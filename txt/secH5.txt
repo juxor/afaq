@@ -1,4 +1,4 @@
-            H.5 What is vanguardism and why do anarchists reject it?
+H.5 What is vanguardism and why do anarchists reject it?
 
    Many socialists follow the ideas of Lenin and, in particular, his ideas
    on vanguard parties. These ideas were expounded by Lenin in his
@@ -47,10 +47,10 @@
    capitalist societies were simply rejected in favour of those from a
    party operating under Tsarism. While most supporters of vanguardism
    will admit that conditions now are different than in Tsarist Russia,
-   they still subscribe to organisational method developed in that context
-   and justify it, ironically enough, because of its "success" in the
-   totally different conditions that prevailed in Russia in the early 20th
-   Century! And Leninists claim to be materialists!
+   they still subscribe to organisational methods developed in that
+   context and justify it, ironically enough, because of its "success" in
+   the totally different conditions that prevailed in Russia in the early
+   20th Century! And Leninists claim to be materialists!
 
    Perhaps the reason why Bolshevism rejected the materialist approach was
    because most of the revolutionary movements in advanced capitalist
@@ -181,9 +181,9 @@ H.5.1 Why are vanguard parties anti-socialist?
    So Lenin, it must be stressed, was not inventing anything new here. He
    was simply repeating the orthodox Marxist position and, as is obvious,
    wholeheartedly agreed with Kautsky's pronouncements (any attempt to
-   claim that he did not or later rejected it is nonsense, as we prove in
-   [1]section H.5.4). Lenin, with his usual modesty, claimed to speak on
-   behalf of the workers when he wrote that "intellectuals must talk to
+   claim that he did not or later rejected them is nonsense, as we prove
+   in [1]section H.5.4). Lenin, with his usual modesty, claimed to speak
+   on behalf of the workers when he wrote that "intellectuals must talk to
    us, and tell us more about what we do not know and what we can never
    learn from our factory and 'economic' experience, that is, you must
    give us political knowledge." [Op. Cit., p. 108] Thus we have Lenin
@@ -396,7 +396,7 @@ H.5.2 Have vanguardist assumptions been validated?
    reality. Every "economic" struggle is "political" in some sense and
    those involved can, and do, learn political lessons from them. As
    Kropotkin noted in the 1880s, there "is almost no serious strike which
-   occurs together with the appearance of troops, the exchange of blows
+   occurs today without the appearance of troops, the exchange of blows
    and some acts of revolt. Here they fight with the troops; there they
    march on the factories . . . Thanks to government intervention the
    rebel against the factory becomes the rebel against the State." [quoted
@@ -586,7 +586,7 @@ H.5.3 Why does vanguardism imply party power?
    of this "involvement" is unspecified, probably for good reasons as we
    explain). If this is the case, then the problem of the mass party
    reappears, but in a new form (we must also note that this problem must
-   have also appearing in 1917, when the Bolshevik party opened its doors
+   have also appeared in 1917, when the Bolshevik party opened its doors
    to become a mass party).
 
    As the "organisations that constitute the state" are made up of the
@@ -778,7 +778,7 @@ H.5.4 Did Lenin abandon vanguardism?
 
    Vanguardism rests on the premise that the working class cannot
    emancipate itself. As such, the ideas of Lenin as expounded in What is
-   to be Done? (WITBD) contradicts the key idea of Marx that the
+   to be Done? (WITBD) contradict the key idea of Marx that the
    emancipation of the working class is the task of the working class
    itself. Thus the paradox of Leninism. On the one hand, it subscribes to
    an ideology allegedly based on working class self-liberation. On the
@@ -904,16 +904,13 @@ H.5.4 Did Lenin abandon vanguardism?
    sentence Draper truncates. Lenin continued by noting that people like
    Proudhon "take part only to the extent that they are able, more or
    less, to acquire the knowledge of their age and advance that
-   knowledge." {
-
-   Op. Cit.
-   , p. 82f] In other words, insofar as they learn from the "vehicles of
-   science." Neither Kautsky or Lenin denied that it was possible for
-   workers to acquire such knowledge and pass it on (sometimes even
-   develop it). However this does not mean that they thought workers, as
-   part of their daily life and struggle as workers, could develop
-   "socialist theory." Thus Lenin's footnote reiterated Kautsky's argument
-   rather than, as Draper hoped, refute it.
+   knowledge." [Op. Cit., p. 82f] In other words, insofar as they learn
+   from the "vehicles of science." Neither Kautsky or Lenin denied that it
+   was possible for workers to acquire such knowledge and pass it on
+   (sometimes even develop it). However this does not mean that they
+   thought workers, as part of their daily life and struggle as workers,
+   could develop "socialist theory." Thus Lenin's footnote reiterated
+   Kautsky's argument rather than, as Draper hoped, refute it.
 
    Draper turns to another footnote, which he noted "was not directly tied
    to the Kautsky article, but discussed the 'spontaneity' of the
@@ -971,12 +968,12 @@ H.5.4 Did Lenin abandon vanguardism?
    contained What is to Be Done?.
 
    In contradiction to Draper's claim, Lenin did return to this matter. In
-   October 1905 he wrote an a short article in praise of an article by
-   Stalin on this very subject. Stalin had sought to explain Lenin's ideas
-   to the Georgian Social-Democracy and, like Lenin, had sought to root
-   the argument in Marxist orthodoxy (partly to justify the argument,
-   partly to expose the Menshevik opposition as being non-Marxists).
-   Stalin argued along similar lines to Lenin:
+   October 1905 he wrote a short article in praise of an article by Stalin
+   on this very subject. Stalin had sought to explain Lenin's ideas to the
+   Georgian Social-Democracy and, like Lenin, had sought to root the
+   argument in Marxist orthodoxy (partly to justify the argument, partly
+   to expose the Menshevik opposition as being non-Marxists). Stalin
+   argued along similar lines to Lenin:
 
      "the question now is: who works out, who is able to work out this
      socialist consciousness (i.e. scientific socialism)? Kautsky says,
@@ -997,7 +994,7 @@ H.5.4 Did Lenin abandon vanguardism?
    repeating Lenin's and Kautsky's arguments is clear, as is the fact it
    was considered the orthodox position within social-democracy.
 
-   If Draper was right, then Lenin would have taken the opportunity to
+   If Draper were right, then Lenin would have taken the opportunity to
    attack Stalin's article and express the alternative viewpoint Draper
    was convinced he held. Lenin, however, put pen to paper to praise
    Stalin's work, noting "the splendid way in which the problem of the
@@ -1061,7 +1058,7 @@ H.5.4 Did Lenin abandon vanguardism?
    intellectuals in the past. If they do develop new theory, it would be,
    as Lenin stressed, "not as workers, but as socialist theoreticians" and
    so socialist consciousness still does not derive from their own class
-   experiences. This places the party in a privileged position vis-à-vis
+   experiences. This places the party in a privileged position vis-Ã -vis
    the working class and so the elitism remains.
 
    Somewhat ironically given how much Draper is at pains to distance his
@@ -1312,7 +1309,7 @@ H.5.6 Why do anarchists oppose "democratic centralism"?
 
    What to make of Lenin's suggested model of "democratic centralism"
    discussed in the [21]last section? It is, to use Cornelius
-   Castoriadis's term, a "revolutionary party organised on a capitalist
+   Castoriadis's term, a "revolutionary party organised in a capitalist
    manner" and so in practice the "democratic centralist" party, while
    being centralised, will not be very democratic. In fact, the level of
    democracy would reflect that in a capitalist republic rather than a
@@ -1363,12 +1360,12 @@ H.5.6 Why do anarchists oppose "democratic centralism"?
      the organisation is run makes the solution of general problems the
      specific task and permanent work of a separate category of
      militants, only their opinion will, or will appear, to count to the
-     others."
-     [Castoriadis, Social and Political Writings, vol. 2, pp. 204-5]
+     others." [Castoriadis, Social and Political Writings, vol. 2, pp.
+     204-5]
 
    Castoriadis' insight is important and strikes at the heart of the
    problem with vanguard parties. They simply reflect the capitalist
-   society they claim to represent. As such, Lenin's argument against
+   society they claim to oppose. As such, Lenin's argument against
    "primitive" democracy in the revolutionary and labour movements is
    significant. When he asserts that those who argue for direct democracy
    "completely" fail to "understand that in modern society this principle
@@ -1488,8 +1485,8 @@ H.5.6 Why do anarchists oppose "democratic centralism"?
    discuss in [22]section H.5.8, this is usually the fate of such parties.
 
    Within the party, as noted, the role of "professional revolutionaries"
-   (or "full timers") is stressed. As Lenin argued, any worker which
-   showed any talent must be removed from the workplace and become a party
+   (or "full timers") is stressed. As Lenin argued, any worker who showed
+   any talent must be removed from the workplace and become a party
    functionary. Is it surprising that the few Bolshevik cadres (i.e.
    professional revolutionaries) of working class origin soon lost real
    contact with the working class? Equally, what will their role within
@@ -1501,13 +1498,12 @@ H.5.6 Why do anarchists oppose "democratic centralism"?
    need only point to the comments and analysis of numerous members (and
    often soon to be ex-members) of such parties. Thus we get a continual
    stream of articles discussing why specific parties are, in fact,
-   "bureaucratic centralist" rather than "democratic centralist"
-   and what is required to reform them. That every "democratic centralist"
-   party in existence is not that democratic does not hinder their
-   attempts to create one which is. In a way, the truly "democratic
-   centralist" party is the Holy Grail of modern Leninism. As we discuss
-   in [24]section H.5.10, their goal may be as mythical as that of the
-   Arthurian legends.
+   "bureaucratic centralist" rather than "democratic centralist" and what
+   is required to reform them. That every "democratic centralist" party in
+   existence is not that democratic does not hinder their attempts to
+   create one which is. In a way, the truly "democratic centralist" party
+   is the Holy Grail of modern Leninism. As we discuss in [24]section
+   H.5.10, their goal may be as mythical as that of the Arthurian legends.
 
 H.5.7 Is the way revolutionaries organise important?
 
@@ -1697,8 +1693,8 @@ H.5.8 Are vanguard parties effective?
      merely conceals another question: why did this failure happen in the
      first place? The fact is, these parties were co-opted into bourgeois
      society because they were structured along bourgeois lines. The germ
-     of treachery existed in them from birth."
-     [Post-Scarcity Anarchism, pp. 123-6]
+     of treachery existed in them from birth." [Post-Scarcity Anarchism,
+     pp. 123-6]
 
    The evidence Bookchin summarises suggests that vanguard parties are
    less than efficient in promoting revolutionary change. Sluggish,
@@ -1799,7 +1795,7 @@ H.5.9 What are vanguard parties effective at?
      "The habits peculiar to a political machine were already forming in
      the underground. The young revolutionary bureaucrat was already
      emerging as a type. The conditions of conspiracy, true enough,
-     offered rather merge scope for such formalities of democracy as
+     offered rather meagre scope for such formalities of democracy as
      electiveness, accountability and control. Yet, undoubtedly the
      committeemen narrowed these limitations considerably more than
      necessity demanded and were far more intransigent and severe with
@@ -1808,16 +1804,16 @@ H.5.9 What are vanguard parties effective at?
      to the voice of the masses." [Op. Cit., p. 101]
 
    He quoted Krupskaya, a party member, on these party bureaucrats, the
-   "committeemen." Krupskaya stated that "as a rule" they "did not
-   recognise any party democracy" and "did not want any innovations. The
-   'committeeman' did not desire, and did not know how to, adapt himself
-   to rapidly changing conditions." [quoted by Trotsky, Op. Cit., p. 101]
-   This conservatism played havoc in the party during 1917, incidentally.
-   It would be no exaggeration to argue that the Russian revolution
-   occurred in spite of, rather than because of, Bolshevik organisational
-   principles (see [33]section H.5.12). These principles, however, came
-   into their own once the party had seized power, ensuring the
-   consolidation of bureaucratic rule by an elite.
+   "committeemen," and how "as a rule" they "did not recognise any party
+   democracy" and "did not want any innovations. The 'committeeman' did
+   not desire, and did not know how to, adapt himself to rapidly changing
+   conditions." [quoted by Trotsky, Op. Cit., p. 101] This conservatism
+   played havoc in the party during 1917, incidentally. It would be no
+   exaggeration to argue that the Russian revolution occurred in spite of,
+   rather than because of, Bolshevik organisational principles (see
+   [33]section H.5.12). These principles, however, came into their own
+   once the party had seized power, ensuring the consolidation of
+   bureaucratic rule by an elite.
 
    That a vanguard party helps to produces a bureaucratic regime once in
    power should not come as a surprise. If the party, to use Trotsky's
@@ -1891,15 +1887,15 @@ H.5.10 Why does "democratic centralism" produce "bureaucratic centralism"?
    The intense level of activism means that members are bombarded with
    party propaganda, are in endless party meetings, or spend time reading
    party literature and so, by virtue of the fact that there is not enough
-   time to read anything, members end up reading nothing but party
+   time to read everything, members end up reading nothing but party
    publications. Most points of contact with the external world are
    eliminated or drastically curtailed. Indeed, such alternative sources
    of information and such thinking is regularly dismissed as being
    contaminated by bourgeois influences. This often goes so far as to
    label those who question any aspect of the party's analysis
    revisionists or deviationists, bending to the "pressures of
-   capitalism," and are usually driven from the ranks as heretics. All
-   this is almost always combined with contempt for all other
+   capitalism," and they are usually driven from the ranks as heretics.
+   All this is almost always combined with contempt for all other
    organisations on the Left (indeed, the closer they are to the party's
    own ideological position the more likely they are to be the targets of
    abuse).
@@ -2083,12 +2079,12 @@ H.5.11 Can you provide an example of the negative nature of vanguard parties?
 
    Yes. Our theoretical critique of vanguardism we have presented in the
    last few sections is more than proved by the empirical evidence of such
-   parties in operation today. Rarely do "vanguard"
-   parties reach in practice the high hopes their supporters like to claim
-   for them. Such parties are usually small, prone to splitting as well as
-   leadership cults, and usually play a negative role in social struggle.
-   A long line of ex-members complain that such parties are elitist,
-   hierarchical and bureaucratic.
+   parties in operation today. Rarely do "vanguard" parties reach in
+   practice the high hopes their supporters like to claim for them. Such
+   parties are usually small, prone to splitting as well as leadership
+   cults, and usually play a negative role in social struggle. A long line
+   of ex-members complain that such parties are elitist, hierarchical and
+   bureaucratic.
 
    Obviously we cannot hope to discuss all such parties. As such, we will
    take just one example, namely the arguments of one group of dissidents
@@ -2166,8 +2162,8 @@ H.5.11 Can you provide an example of the negative nature of vanguard parties?
      militants, especially working class militants with some experience
      of trade union democracy, etc., are often repelled by the
      undemocratic norms in the party and refuse to join, or keep their
-     distance despite accepting our formal politics."
-     [ISG, Discussion Document of Ex-SWP Comrades]
+     distance despite accepting our formal politics." [ISG, Discussion
+     Document of Ex-SWP Comrades]
 
    The dissidents argue that a "democratic" party would involve the
    "[r]egular election of all party full-timers, branch and district
@@ -2224,11 +2220,10 @@ H.5.11 Can you provide an example of the negative nature of vanguard parties?
    of "vanguard" style parties. The Bolshevik party of 1917 was a totally
    different form of organisation than the ideal "democratic centralist"
    type argued for by Lenin in 1902 and 1920. As a model of revolutionary
-   organisation, the "vanguardist"
-   one has been proven false rather than confirmed by the experience of
-   the Russian revolution. Insofar as the Bolshevik party was effective,
-   it operated in a non-vanguardist way and insofar as it did operate in
-   such a manner, it held back the struggle.
+   organisation, the "vanguardist" one has been proven false rather than
+   confirmed by the experience of the Russian revolution. Insofar as the
+   Bolshevik party was effective, it operated in a non-vanguardist way and
+   insofar as it did operate in such a manner, it held back the struggle.
 
 H.5.12 Surely the Russian Revolution proves that vanguard parties work?
 
@@ -2271,7 +2266,7 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    positive evaluation of vanguard parties. Ironically, even the Russian
    Revolution disproves the claims of Leninists. The fact is that the
    Bolshevik party in 1917 was very far from the "democratic centralist"
-   organisation which supporters of vanguardism like to claim it is. As
+   organisation which supporters of vanguardism like to claim it as. As
    such, its success in 1917 lies more in its divergence from the
    principles of "democratic centralism" than in their application. The
    subsequent degeneration of the revolution and the party is marked by
@@ -2341,11 +2336,11 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    anti-Stalinist Leninist, asserted in the late 1920s that in 1905 the
    Petrograd Soviet was "led by Trotsky and inspired by the Bolsheviks."
    [Year One of the Russian Revolution, p. 36]. While the former claim is
-   partially correct, the latter is not. As noted, the Bolsheviks were
+   partially correct, the latter is not. As noted, the Bolsheviks
    initially opposed the soviets and systematically worked to undermine
    them. Unsurprisingly, Trotsky at that time was a Menshevik, not a
    Bolshevik. After all, how could the most revolutionary party that ever
-   existed have messed up so badly? How could democratic centralism faired
+   existed have messed up so badly? How could democratic centralism fare
    so badly in practice? Best, then, to suggest that it did not and give
    the Bolsheviks a role better suited to the rhetoric of Bolshevism than
    its reality.
@@ -2391,7 +2386,7 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    manner, failure was soon to follow.
 
    This claim can be proven by looking at the history of the 1917
-   revolution. The February revolution started with a spontaneous protests
+   revolution. The February revolution started with spontaneous protests
    and strikes yet "the Petrograd organisation of the Bolsheviks opposed
    the calling of strikes precisely on the eve of the revolution which was
    destined to overthrow the Tsar. Fortunately, the workers ignored the
@@ -2434,9 +2429,8 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
      circumstances or more desirable in general. No great secret was made
      of this. In fact, it was openly admitted that hardly a party
      committee existed which did not encounter problems in enforcing its
-     will even upon individual activists."
-     [Robert Service, The Bolshevik Party in Revolution 1917-1923, pp.
-     51-2]
+     will even upon individual activists." [Robert Service, The Bolshevik
+     Party in Revolution 1917-1923, pp. 51-2]
 
    So while Lenin's ideal model of a disciplined, centralised and top-down
    party had been expounded since 1902, the operation of the party never
@@ -2599,7 +2593,7 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
 
    Looking at the development of the revolution from April onwards, we are
    struck by the sluggishness of the party hierarchy. At every
-   revolutionary upsurge, the party simply was not to the task of
+   revolutionary upsurge, the party simply was not up to the task of
    responding to the needs of masses and the local party groupings closest
    to them. The can be seen in June, July and October itself. At each
    turn, the rank and file groupings or Lenin had to constantly violate
@@ -2693,7 +2687,7 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    the principles Lenin spent his life advocating. Indeed, if someone else
    other than Lenin had done this we are sure that Lenin, and his numerous
    followers, would have dismissed it as the action of a "petty-bourgeois
-   intellectual" who cannot handle party "discipline." This is itself is
+   intellectual" who cannot handle party "discipline." This is itself
    significant, as is the fact that he decided to appeal to the "lower
    ranks" of the party - rather than being "democratic" the party machine
    effectively blocked communication and control from the bottom-up.
@@ -2711,7 +2705,7 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    In October, Lenin had to fight what he called "a wavering" in the
    "upper circles of the party" which lead to a "sort of dread of the
    struggle for power, an inclination to replace this struggle with
-   resolutions protests, and conferences." [quoted by Trotsky, Op. Cit.,
+   resolutions, protests and conferences." [quoted by Trotsky, Op. Cit.,
    p. 132] For Trotsky, this represented "almost a direct pitting of the
    party against the Central Committee," required because "it was a
    question of the fate of the revolution" and so "all other
@@ -2723,7 +2717,7 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    Central Committee came round to Lenin's position but they did so under
    pressure of means at odds with the principles of the party.
 
-   This divergence between the imagine and reality of the Bolsheviks
+   This divergence between the image and reality of the Bolsheviks
    explains their success. If the party had applied or had remained true
    to the principles of "democratic centralism" it is doubtful that it
    would have played an important role in the movement. As Alexander
@@ -2787,8 +2781,8 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    leadership was not. Full-time revolutionaries, they were either
    middle-class intellectuals or (occasionally) ex-workers and (even
    rarer) ex-peasants who had left their class to become part of the party
-   machine. Even the delegates at the party congresses did not truly
-   reflect class basis of the party membership. For example, the number of
+   machine. Even the delegates at party congresses did not truly reflect
+   the class basis of the party membership. For example, the number of
    delegates was still dominated by white-collar or others (59.1% to
    40.9%) at the sixth party congress at the end of July 1917. [Cliff,
    Lenin, vol. 2, p. 160] So while the party gathered more working class
@@ -2809,9 +2803,9 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    lost members reflected two things. Firstly, the general decline in the
    size of the industrial working class. This meant that the radicalised
    new elements from the countryside which had flocked to the Bolsheviks
-   in 1917 returned home. Secondly, the lost of popular support due to the
+   in 1917 returned home. Secondly, the loss of popular support due to the
    realities of the Bolshevik regime. This can be seen from the fact that
-   while the Bolsheviks were losing members, the Left SRS almost doubled
+   while the Bolsheviks were losing members, the Left SRs almost doubled
    in size to 100,000 (the Mensheviks claimed to have a similar number).
    Rather than non-proletarians leaving, "[i]t is more probable by far
    that it was industrial workers who were leaving in droves. After all,
@@ -2825,11 +2819,11 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    working-class origin . . . the proportion of Bolsheviks of
    working-class origin fell from 57 per cent at the year's beginning to
    48 per cent at the end." It should be noted that it was not specified
-   how many were classed as having working-class origin were still
-   employed in working-class jobs. [Robert Service, Op. Cit., p. 70, pp.
-   70-1 and p. 90] A new ruling elite was thus born, thanks to the way
-   vanguard parties are structured and the application of vanguardist
-   principles which had previously been ignored.
+   how many classed as having working-class origin were still employed in
+   working-class jobs. [Robert Service, Op. Cit., p. 70, pp. 70-1 and p.
+   90] A new ruling elite was thus born, thanks to the way vanguard
+   parties are structured and the application of vanguardist principles
+   which had previously been ignored.
 
    In summary, the experience of the Russian Revolution does not, in fact,
    show the validity of the "vanguard" model. The Bolshevik party in 1917
@@ -2844,6 +2838,8 @@ H.5.12 Surely the Russian Revolution proves that vanguard parties work?
    they helped ensure the degeneration of the revolution. This was to be
    expected, given the nature of vanguardism and the Bolshevik vision of
    socialism.
+   [41]â¹ H.4 Didn't Engels refute anarchism in "On Authority"? [42]up
+   [43]H.6 Why did the Russian Revolution fail? âº
 
 References
 
@@ -2887,3 +2883,6 @@ References
   38. //usr/share/doc/anarchism/txt/secH6.txt
   39. //usr/share/doc/anarchism/txt/secH6.txt#sech62
   40. //usr/share/doc/anarchism/txt/secH6.txt#sech61
+  41. //afaq/secH4.html
+  42. //afaq/secHcon.html
+  43. //afaq/secH6.html

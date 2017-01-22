@@ -1,4 +1,4 @@
-                  6 Is "anarcho"-capitalism against the state?
+6 Is "anarcho"-capitalism against the state?
 
    No. Due to its basis in private property, "anarcho"-capitalism implies
    a class division of society into bosses and workers. Any such division
@@ -11,10 +11,9 @@
    According to Murray Rothbard ["Society Without A State", in Nomos XIX,
    Pennock and Chapman, eds., p. 192.], a state must have one or both of
    the following characteristics:
-
-   1) The ability to tax those who live within it.
-       2) It asserts and usually obtains a coerced monopoly of the
-       provision of defence over a given area.
+   Â Â Â Â Â Â Â Â Â Â  1) The ability to tax those who live within it.
+       Â Â Â Â Â Â Â Â Â  2) It asserts and usually obtains a coerced
+       monopoly of the provision of defence over a given area.Â
 
    He makes the same point in The Ethics of Liberty [p. 171].
 
@@ -248,7 +247,9 @@
    Thus a system of "defence" on the market will continue to reflect the
    influence and power of property owners and wealth and not be subject to
    popular control beyond choosing between companies to enforce the
-   capitalist laws.
+   capitalist laws
+
+   .
 
 6.2 What are the social consequences of such a system?
 
@@ -1070,6 +1071,9 @@
    statism. This is anarchism, the end of hierarchical authority and its
    replacement by the "natural" authority of communal and workplace
    self-management.
+   [24]â¹ 5 Will privatising "the commons" increase liberty? [25]up [26]7
+   How does the history of "anarcho"-capitalism show that it is not
+   anarchist? âº
 
 References
 
@@ -1096,3 +1100,6 @@ References
   21. //usr/share/doc/anarchism/txt/append1311.txt
   22. //usr/share/doc/anarchism/txt/secJ5.txt#secj512
   23. //usr/share/doc/anarchism/txt/secA5.txt#seca55
+  24. //afaq/append135.html
+  25. //afaq/append13.html
+  26. //afaq/append137.html

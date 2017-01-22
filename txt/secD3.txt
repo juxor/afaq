@@ -1,4 +1,4 @@
-                 D.3 How does wealth influence the mass media?
+D.3 How does wealth influence the mass media?
 
    In a word, massively. This, in turn, influences the way people see the
    world and, as a result, the media is a key means by which the general
@@ -493,8 +493,7 @@ D.3.5 Why is "anticommunism" used as control mechanism?
      an acrimonious debate over the assignment of blame for the downing
      of a Libyan airliner in the Sinai peninsula last week.' There was a
      very 'useful purpose' served by focusing on the Soviet act, and a
-     massive propaganda campaign ensued."
-     [p. 32]
+     massive propaganda campaign ensued." [p. 32]
 
    As noted, since the end of the Cold War, anti-communism has not been
    used as extensively as it once was to mobilise support for elite
@@ -685,8 +684,14 @@ business failures?
    these bounds, this helping to establish these doctrines as the very
    condition of thinkable thought while reinforcing the belief that
    freedom reigns." [Necessary Illusions, p. 48]
+   [3]â¹ D.2 What influence does wealth have over politics? [4]up [5]D.4
+   What is the relationship between capitalism and the ecological crisis?
+   âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secD3.txt#secd34
    2. //usr/share/doc/anarchism/txt/secD2.txt
+   3. //afaq/secD2.html
+   4. //afaq/secDcon.html
+   5. //afaq/secD4.html

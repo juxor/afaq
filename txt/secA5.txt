@@ -1,4 +1,4 @@
-               A.5 What are some examples of "Anarchy in Action"?
+A.5 What are some examples of "Anarchy in Action"?
 
    Anarchism, more than anything else, is about the efforts of millions of
    revolutionaries changing the world in the last two centuries. Here we
@@ -364,7 +364,7 @@ A.5.1 The Paris Commune
    bourgeoisie roamed the streets, killing and maiming at will. Over
    25,000 people were killed in the street fighting, many murdered after
    they had surrendered, and their bodies dumped in mass graves. As a
-   final insult, Sacré Coeur was built by the bourgeoisie on the birth
+   final insult, SacrÃ© Coeur was built by the bourgeoisie on the birth
    place of the Commune, the Butte of Montmartre, to atone for the radical
    and atheist revolt which had so terrified them.
 
@@ -613,8 +613,7 @@ A.5.2 The Haymarket Martyrs
 
      "Sixth -- Regulation of all public affairs by free contracts between
      autonomous (independent) communes and associations, resting on a
-     federalistic basis."
-     [Op. Cit., p. 42]
+     federalistic basis." [Op. Cit., p. 42]
 
    In addition to their union organising, the Chicago anarchist movement
    also organised social societies, picnics, lectures, dances, libraries
@@ -1205,7 +1204,7 @@ A.5.4 Anarchists in the Russian Revolution
    the ruled. The masses were no longer a source of inspiration and power,
    but rather an alien group whose lack of "discipline" (i.e. ability to
    follow orders) placed the revolution in danger. As one Russian
-   Anarchist argued,
+   Anarchist argued:
 
      "The proletariat is being gradually enserfed by the state. The
      people are being transformed into servants over whom there has
@@ -2172,7 +2171,7 @@ A.5.6 Anarchism and the Spanish Revolution
      bootblacks had been collectivised and their boxes painted red and
      black. Waiters and shop-walkers looked you in the face and treated
      you as an equal. Servile and even ceremonial forms of speech had
-     temporarily disappeared. Nobody said 'Señor' or 'Don' or even
+     temporarily disappeared. Nobody said 'SeÃ±or' or 'Don' or even
      'Usted'; everyone called everyone else 'Comrade' or 'Thou', and said
      'Salud!' instead of 'Buenos dias'. . . Above all, there was a belief
      in the revolution and the future, a feeling of having suddenly
@@ -2531,6 +2530,8 @@ A.5.7 The May-June Revolt in France, 1968
    Power). Beneath the Paving Stones by edited Dark Star is a good
    anthology of situationist works relating to Paris 68 (it also contains
    Brinton's essay).
+   [20]â¹ A.4 Who are the major anarchist thinkers? [21]up [22]Section B -
+   Why do anarchists oppose the current system? âº
 
 References
 
@@ -2553,3 +2554,6 @@ References
   17. //usr/share/doc/anarchism/txt/secI8.txt#seci86
   18. //usr/share/doc/anarchism/txt/secI8.txt#seci810
   19. //usr/share/doc/anarchism/txt/secI8.txt#seci811
+  20. //afaq/secA4.html
+  21. //afaq/secAcon.html
+  22. //afaq/secBcon.html

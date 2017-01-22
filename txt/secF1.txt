@@ -577,6 +577,9 @@
    State, might therefore best be called right-wing libertarians rather
    than anarchists." [Demanding the Impossible, p. 565]
 
+   [11]â¹ F.0 Section F Introduction [12]up [13]F.2 What do
+   "anarcho"-capitalists mean by freedom? âº
+
 References
 
    1. //usr/share/doc/anarchism/txt/secFint.txt
@@ -589,3 +592,6 @@ References
    8. //usr/share/doc/anarchism/txt/secA1.txt
    9. //usr/share/doc/anarchism/txt/secF2.txt
   10. //usr/share/doc/anarchism/txt/secF3.txt
+  11. //afaq/secFint.html
+  12. //afaq/secFcon.html
+  13. //afaq/secF2.html

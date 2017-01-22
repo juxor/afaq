@@ -1,4 +1,4 @@
-           J.6 What methods of child rearing do anarchists advocate?
+J.6 What methods of child rearing do anarchists advocate?
 
    Anarchists have long been aware of the importance of child rearing and
    education. We are aware that child rearing should aim to develop "a
@@ -8,8 +8,8 @@
    bearing in mind "that it is through the channel of the child that the
    development of the mature man [or woman] must go, and that the present
    ideas of . . . educating or training . . . are such as to stifle the
-   natural growth of the child." [Emma Goldman, Red Emma Speaks, p. 131
-   and p. 130]
+   natural growth of the child." [Emma Goldman, Red Emma Speaks, p. 132
+   and p. 131]
 
    If one accepts the thesis that the authoritarian family is the breeding
    ground for both individual psychological problems and political
@@ -45,7 +45,7 @@
    question for people interested in freedom is whether "the child [is] to
    be considered as an individuality, or as an object to be moulded
    according to the whims and fancies of those about it?" [Emma Goldman,
-   Op. Cit., p. 130] Libertarian child rearing is the means by which the
+   Op. Cit., p. 131] Libertarian child rearing is the means by which the
    individuality of the child is respected and developed.
 
    This is in stark contrast to standard capitalist claim that children
@@ -186,7 +186,7 @@ J.6.1 What are the main obstacles to raising free children?
    sadism, greed, power hunger, brutality, etc. (impulses referred to by
    Reich as "secondary" drives). In other words, this reduces our ability
    to empathise with others and so the internal ethical guidelines we all
-   develop are blunted, making us more likely tp express such secondary,
+   develop are blunted, making us more likely to express such secondary,
    anti-social, drives. So, ironically, these secondary drives result from
    the suppression of the primary drives and the sensations of pleasure
    associated with them. These secondary drives develop because the only
@@ -286,7 +286,7 @@ J.6.2. What are some examples of libertarian child-rearing methods?
    p. 99] It is important for the father to establish orgonotic contact as
    well.
 
-   Reich amaintained that the practice of bottle feeding is harmful,
+   Reich maintained that the practice of bottle feeding is harmful,
    particularly if it completely replaces breast feeding from the day of
    birth, because it eliminates one of the most important forms of
    establishing physical and emotional contact between mother and child.
@@ -528,7 +528,7 @@ J.6.3 If children have nothing to fear, how can they be good?
    children will "steal" -- though that is not how they regard it. They
    are simply trying to satisfy their acquisitive impulses; or, if they
    are with friends, their desire for adventure. In a society so
-   thoroughly steeping in the idea of respect for property as ours, it is
+   thoroughly steeped in the idea of respect for property as ours, it is
    no doubt difficult for parents to resist societal pressure to punish
    children for "stealing." The reward for such trust, however, will be a
    child who grows into a healthy adolescent who respects the possessions
@@ -551,7 +551,7 @@ J.6.3 If children have nothing to fear, how can they be good?
    compulsive morality actually causes immoral behaviour by creating cruel
    and perverse "secondary drives." Neill put it this way: "I find that
    when I smash the moral instruction a bad boy has received, he becomes a
-   good boy." [, p. 250]
+   good boy." [Op. Cit., p. 250]
 
    Unconscious acceptance of some form of the idea of original sin is the
    main recruiting tool of organised religions, as people who believe they
@@ -959,7 +959,7 @@ J.6.5 What is the anarchist position on teenage sexual liberation?
 
      "One time, a companero from the Juventudes [libertarian youth
      organisation] came over to me and said, 'You, who say you're so
-     liberated. You're not so liberated.' (I'm telling you this so youll
+     liberated. You're not so liberated.' (I'm telling you this so youâll
      see the mentality of these men.) 'Because if I ask you to give me a
      kiss, you wouldn't.
 
@@ -1032,8 +1032,8 @@ revolution?
    is based on the premise that economic class must be the focus of all
    revolutionary efforts toward social change. No doubt transforming the
    economy is important, but without mass sexual liberation no working
-   class revolution be complete as there will not be enough people around
-   with the character structures necessary to create a lasting
+   class revolution can be complete as there will not be enough people
+   around with the character structures necessary to create a lasting
    self-managed society and economy (i.e., people who are capable of
    accepting freedom with responsibility). Instead, the attempt to force
    the creation of such a system without preparing the necessary
@@ -1052,7 +1052,7 @@ revolution?
    should feel confident that anarchists are on the side of sexual
    pleasure and are not revolutionary ascetics demanding self-denial for
    the "sake of the revolution." Rather, it should be stressed that the
-   capacity for full sexual enjoyment is the an essential part of the
+   capacity for full sexual enjoyment is an essential part of the
    revolution. Indeed, "incessant questioning and challenge to authority
    on the subject of sex and of the compulsive family can only complement
    the questioning and challenge to authority in other areas (for instance
@@ -1093,7 +1093,7 @@ revolution?
    with greatly increased pleasure and concentration.
 
    Besides engaging in direct action, anarchists can also support legal
-   protection free expression and sexuality (repeal of the insane
+   protection for free expression and sexuality (repeal of the insane
    statutory rape laws and equal rights for gays, for example), just as
    they support legislation that protects workers' right to strike, family
    leave, and so forth. However, as Reich observed, "under no
@@ -1139,7 +1139,7 @@ revolution?
    and social freedom for anarchists. This can be seen when Emma Goldman
    recounted meeting Kropotkin who praised a paper she was involved with
    but proclaimed "it would do more if it would not waste so much space
-   discussing sex." She disagreed and a heated argument ensured about "the
+   discussing sex." She disagreed and a heated argument ensued about "the
    place of the sex problem in anarchist propaganda." Finally, she
    remarked "All right, dear comrade, when I have reached your age, the
    sex question may no longer be of importance to me. But it is now, and
@@ -1149,8 +1149,13 @@ revolution?
    that,' he replied. 'Perhaps you are right, after all.' He beamed
    affectionately upon me, with a humorous twinkle in his eye." [Living My
    Life, vol. 1, p. 253]
+   [3]â¹ J.5 What alternative social organisations do anarchists create?
+   [4]up [5]J.7 What do anarchists mean by "social revolution"? âº
 
 References
 
    1. //usr/share/doc/anarchism/txt/secI4.txt#seci411
    2. //usr/share/doc/anarchism/txt/secB1.txt#secb15
+   3. //afaq/secJ5.html
+   4. //afaq/secJcon.html
+   5. //afaq/secJ7.html

@@ -1,4 +1,4 @@
-                 C.7 What causes the capitalist business cycle?
+C.7 What causes the capitalist business cycle?
 
    The business cycle is the term used to describe the boom and slump
    nature of capitalism. Sometimes there is full employment, with
@@ -410,8 +410,7 @@ C.7.1 What role does class struggle play in the business cycle?
      mankind, because the bosses above all want to remain bosses and
      secure always more power at the expense of the workers, as well as
      by competition with other bosses, whereas the workers have had their
-     fill of bosses and don't want more!"
-     [Op. Cit., pp. 78-79]
+     fill of bosses and don't want more!" [Op. Cit., pp. 78-79]
 
    The experience of the post-war compromise and social democratic reform
    shows that, ultimately, the social question is not poverty but rather
@@ -624,7 +623,7 @@ C.7.2 What role does the market play in the business cycle?
      half as great; so, under similar circumstances, fifty yards of linen
      will be worth less than twenty-five: so that value decreases as the
      production of utility increases, and a producer may arrive at
-     poverty by continually enriching himself." [The System of Economical
+     poverty by continually enriching himself." [System of Economical
      Contradictions, pp. 77-78]
 
    He argued that this occurred due to the "contradiction" of "the double
@@ -1176,6 +1175,8 @@ C.7.3 What role does investment play in the business cycle?
    beings are not commodities, the labour "market" is not like the iron
    market, and the subjective revolt against capitalist domination will
    exist as long as capitalism does.
+   [26]â¹ C.6 Can market dominance by Big Business change? [27]up [28]C.8
+   Is state control of credit the cause of the business cycle? âº
 
 References
 
@@ -1204,3 +1205,6 @@ References
   23. //usr/share/doc/anarchism/txt/secC9.txt
   24. //usr/share/doc/anarchism/txt/secC5.txt
   25. //usr/share/doc/anarchism/txt/secC7.txt#secc72
+  26. //afaq/secC6.html
+  27. //afaq/secCcon.html
+  28. //afaq/secC8.html

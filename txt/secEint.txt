@@ -1,4 +1,4 @@
-        Section E - What do anarchists think causes ecological problems?
+Section E - What do anarchists think causes ecological problems?
 
    This section of the FAQ expands upon section D.4 ([1]"What is the
    relationship between capitalism and the ecological crisis?") in which
@@ -99,8 +99,7 @@
      harmony exists between the earth and the peoples whom it nourishes,
      and when reckless societies allow themselves to meddle with that
      which creates the beauty of their domain, they always end up
-     regretting it."
-     [quoted by Clark and Martin, Op. Cit., pp. 125-6]
+     regretting it." [quoted by Clark and Martin, Op. Cit., pp. 125-6]
 
    "Man," Reclus says, can find beauty in "the intimate and deeply seated
    harmony of his work with that of nature." Like the eco-anarchists a
@@ -276,6 +275,8 @@
    including excellent summaries of such anarchists as Proudhon, Kropotkin
    and Bookchin (as well as libertarian socialist William Morris and his
    ecologically balanced utopia News from Nowhere).
+   [11]â¹ Section E - What do anarchists think causes ecological problems?
+   [12]up [13]E.1 What are the root causes of our ecological problems? âº
 
 References
 
@@ -289,3 +290,6 @@ References
    8. //usr/share/doc/anarchism/txt/secE6.txt
    9. //usr/share/doc/anarchism/txt/secJ2.txt#secj24
   10. //usr/share/doc/anarchism/txt/secJ1.txt#secj14
+  11. //afaq/secEcon.html
+  12. //afaq/secEcon.html
+  13. //afaq/secE1.html
