@@ -116,7 +116,7 @@ A few more points before beginning. When debating with "libertarian" or
 "anarchist" capitalists it's necessary to remember that while they claim "real
 capitalism" does not exist (because all existing forms of capitalism are
 statist), they will claim that all the good things we have -- advanced medical
-technology, consumer choice of products, etc. \-- are nevertheless due to
+technology, consumer choice of products, etc. -- are nevertheless due to
 "capitalism." Yet if you point out any problems in modern life, these will be
 blamed on "statism." Since there has never been and never will be a capitalist
 system without some sort of state, it's hard to argue against this "logic."
@@ -178,4 +178,9 @@ Finally, we dedicate this section of the FAQ to those who have seen the real
 face of "free market" capitalism at work: the working men and women (anarchist
 or not) murdered in the jails and concentration camps or on the streets by the
 hired assassins of capitalism.
+
+[‹ Appendix - Is "anarcho"-capitalism a type of
+anarchism?](/afaq/append13.html "Go to previous page" )
+[up](/afaq/append13.html "Go to parent page" ) [1 Are "anarcho"-capitalists
+really anarchists? ›](/afaq/append131.html "Go to next page" )
 

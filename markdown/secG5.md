@@ -27,14 +27,12 @@ would, almost invariably detracts from that of all. Wealth is made by legal
 privilege a hook with which to filch from labour's pockets. Every man who gets
 rich thereby makes his neighbours poor. The better off one is, the worse the
 rest are . . . Labour's Deficit is precisely equal to the Capitalist's
-Efficit.
+Efficit. _
 
->
-
-> "Now, Socialism wants to change all this. Socialism says . . . that no man
+> _"Now, Socialism wants to change all this. Socialism says . . . that no man
 shall be able to add to his riches except by labour; that is adding to his
 riches by his labour alone no man makes another man poorer; that on the
-contrary every man this adding to his riches makes every other man richer; . .
+contrary every man thus adding to his riches makes every other man richer; . .
 . that every increase in capital in the hands of the labourer tends, in the
 absence of legal monopoly, to put more products, better products, cheaper
 products, and a greater variety of products within the reach of every man who
@@ -72,7 +70,7 @@ were not using it. Once capitalism was abolished, the market would be able to
 reach its full promise and become a means of enriching all rather than the
 few:
 
-> _ "Liberty's aim -- universal happiness -- is that of all Socialists, in
+> _"Liberty's aim -- universal happiness -- is that of all Socialists, in
 contrast with that of the Manchester men -- luxury fed by misery. But its
 principle -- individual sovereignty -- is that of the Manchester men, in
 contrast with that of the Socialists -- individual subordination. But
@@ -313,7 +311,7 @@ workers would gain economic liberty. His ideal society would be classless,
 with _"each man reaping the fruit of his labour and no man able to live in
 idleness on an income from capital"_ and society _"would become a great hive
 of Anarchistic workers, prosperous and free individuals."_ While, like all
-anarchists, he rejected _"abolute equality"_ he did envision an egalitarian
+anarchists, he rejected _"absolute equality"_ he did envision an egalitarian
 society whose small differences in wealth were rooted in labour, not property,
 and so liberty, while abolishing exploitation, would _"not abolish the limited
 inequality between one labourer's product and another's . . . Liberty will
@@ -412,7 +410,7 @@ disagreeable alternative of either abolishing private property or continuing
 to hold labour under the capitalistic yoke."_ [**Liberty**, no. 122, p. 4] By
 1911, he had come to the conclusion that the latter had come to pass and
 considered revolutionary or political action as the only means of breaking up
-such concentrations of wealth (although he was against individualists
+such concentrations of wealth (although he was against individualist
 anarchists participating in either strategy). [Martin, **Op. Cit.**, pp.
 273-4] In other words, Tucker recognised that economic power existed and, as a
 consequence, free markets were not enough to secure free people in conditions
@@ -448,7 +446,7 @@ true **by definition** that he advocated the elimination of "private property"
 in the capitalist sense.
 
 So while it is true that Tucker placed "property" and markets at the heart of
-his vision of anarchy, this does not make he a supporter of capitalism (see
+his vision of anarchy, this does not make him a supporter of capitalism (see
 sections [G.1.1](secG1.html#secg11) and [G.1.2](secG1.html#secg12)). Unlike
 supporters of capitalism, the individualist anarchists identified "property"
 with simple "possession," or _"occupancy and use"_ and considered profit, rent
@@ -478,4 +476,9 @@ be minor and rooted in actual work done rather than by owning capital or land
 and making others produce it for them. This clearly indicates that Rothbard's
 claim to have somehow modernised Tucker's thought is **false** \-- "ignored"
 or "changed beyond recognition" would be more appropriate.
+
+[‹ G.4 Why do social anarchists reject individualist
+anarchism?](/afaq/secG4.html "Go to previous page" ) [up](/afaq/secGcon.html
+"Go to parent page" ) [G.6 What are the ideas of Max Stirner?
+›](/afaq/secG6.html "Go to next page" )
 

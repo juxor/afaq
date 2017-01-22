@@ -51,7 +51,7 @@ is weak.
 
 Another important implication of this "liberty as property" concept is that it
 produces a strangely alienated concept of freedom. Liberty, as we noted, is no
-longer considered absolute, but a derivative of property \-- which has the
+longer considered absolute, but a derivative of property -- which has the
 important consequence that you can "sell" your liberty and still be considered
 free by the ideology. This concept of liberty is usually termed "self-
 ownership." But, to state the obvious, I do not "own" myself, as if were an
@@ -113,21 +113,22 @@ relationships of domination and subjection this situation creates. That people
 
 > _ "The law says your employer does not steal anything from you, because it
 is done with your consent. You have agreed to work for your boss for certain
-pay, he to have all that you produce . . .
+pay, he to have all that you produce . . .  
+>  _
 
 >
 
-> "But did you really consent?
+> _"But did you really consent? _
 
 >
 
-> "When the highway man holds his gun to your head, you turn your valuables
+> _"When the highway man holds his gun to your head, you turn your valuables
 over to him. You 'consent' all right, but you do so because you cannot help
-yourself, because you are **compelled** by his gun.
+yourself, because you are **compelled** by his gun. _
 
 >
 
-> "Are you not **compelled** to work for an employer? Your need compels you
+> _"Are you not **compelled** to work for an employer? Your need compels you
 just as the highwayman's gun. You must live . . . You can't work for yourself
 . . . The factories, machinery, and tools belong to the employing class, so
 you **must** hire yourself out to that class in order to work and live.
@@ -775,7 +776,7 @@ Pateman, **Op. Cit.**, p. 149] Hence Proudhon's support for self-management
 and opposition to capitalism -- any relationship that resembles slavery is
 illegitimate and no contract that creates a relationship of subordination is
 valid. Thus in a truly anarchistic society, slave contracts would be
-unenforceable \-- people in a truly free (i.e. non-capitalist) society would
+unenforceable -- people in a truly free (i.e. non-capitalist) society would
 **never** tolerate such a horrible institution or consider it a valid
 agreement. If someone was silly enough to sign such a contract, they would
 simply have to say they now rejected it in order to be free -- such contracts
@@ -788,4 +789,9 @@ with justifying property and the oppression and exploitation it produces.
 Their theoretical support for permanent and temporary voluntary slavery and
 autocracy indicates a deeper authoritarianism which negates their claims to be
 libertarians.
+
+[‹ F.1 Are "anarcho"-capitalists really anarchists?](/afaq/secF1.html "Go to
+previous page" ) [up](/afaq/secFcon.html "Go to parent page" ) [F.3 Why do
+anarcho"-capitalists place little or no value on equality? ›](/afaq/secF3.html
+"Go to next page" )
 

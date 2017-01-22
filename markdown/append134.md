@@ -30,11 +30,11 @@ on individual liberty when he wrote :
 > _"Property in the civic sense means **sacred** property, such that I must
 **respect** your property... Be it ever so little, if one only has somewhat of
 his own - to wit, a **respected** property: The more such owners... the more
-'free people and good patriots' has the State.
+'free people and good patriots' has the State. _
 
 >
 
-> "Political liberalism, like everything religious, counts on **respect,**
+> _"Political liberalism, like everything religious, counts on **respect,**
 humaneness, the virtues of love. . . . For in practice people respect nothing,
 and everyday the small possessions are bought up again by greater proprietors,
 and the 'free people' change into day labourers."_ [**The Ego and Its Own**,
@@ -474,7 +474,7 @@ property and the relations of domination it creates). In other words,
 Anarchism is not the "politics of envy"; it is the politics of liberty and the
 desire to treat others as "ends in themselves".
 
-Rothbard is aware of what is involved in accepting the Lockean Proviso \--
+Rothbard is aware of what is involved in accepting the Lockean Proviso --
 namely the existence of private property (_"Locke's proviso may lead to the
 outlawry of **all** private property of land, since one can always say that
 the reduction of available land leaves everyone else . . . worse off"_, **The
@@ -565,8 +565,8 @@ engaged in for the mutual benefit of both parties, for workers have no control
 over the production process or over the product of their labour. Rand [like
 other right-libertarians] misleadingly equates trade, artistic production and
 wage-slavery. . . [but] wage-slavery . . . is quite different from the trade
-principle"_ as it is a form of _"exploitation."_ [**Ecology & Anarchism**, p.
-190]
+principle"_ as it is a form of _"exploitation."_ [**Ecology &amp; Anarchism**,
+p. 190]
 
 He further notes that _"[s]o called trade relations involving human labour are
 contrary to the egoist values Rand [and other capitalist individualists]
@@ -675,11 +675,11 @@ are less generous that other academics in charitable giving. Undergraduate
 economics majors are more likely to defect in the classic prisoner's dilemma
 game that are other majors. And on other tests, students grow less honest --
 expressing less of a tendency, for example, to return found money -- after
-studying economics, but not studying a control subject like astronomy.
+studying economics, but not studying a control subject like astronomy. _
 
 >
 
-> "This is no surprise, really. Mainstream economics is built entirely on a
+> _"This is no surprise, really. Mainstream economics is built entirely on a
 notion of self-interested individuals, rational self-maximisers who can order
 their wants and spend accordingly. There's little room for sentiment,
 uncertainty, selflessness, and social institutions. Whether this is an
@@ -793,4 +793,9 @@ To conclude, to claim that private property eliminates hierarchy is false. Nor
 does capitalism co-ordinate economic activities without hierarchical
 structures. For this reason anarchists support co-operative forms of
 production rather than capitalistic forms.
+
+[‹ 3 Why do anarcho"-capitalists place little or no value on
+"equality"?](/afaq/append133.html "Go to previous page" )
+[up](/afaq/append13.html "Go to parent page" ) [5 Will privatising "the
+commons" increase liberty? ›](/afaq/append135.html "Go to next page" )
 

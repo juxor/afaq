@@ -61,7 +61,7 @@ So direct action means acting for yourself against injustice and oppression.
 It can, sometimes, involve putting pressure on politicians or companies, for
 example, to ensure a change in an oppressive law or destructive practices.
 However, such appeals are direct action simply because they do not assume that
-the parties in question we will act for us -- indeed the assumption is that
+the parties in question will act for us -- indeed the assumption is that
 change only occurs when we act to create it. Regardless of what it is, _"if
 such actions are to have the desired empowerment effect, they must be largely
 self-generated, rather than being devised and directed from above"_ and be
@@ -109,8 +109,8 @@ Simply because it is effective and it has a radicalising impact on those who
 practice it. As it is based on people acting for themselves, it shatters the
 dependency and marginalisation created by hierarchy. This is key:
 
-_"What is even more important about direct action is that it forms a decisive
-step toward recovering the personal power over social life that the
+> _"What is even more important about direct action is that it forms a
+decisive step toward recovering the personal power over social life that the
 centralised, over-bearing bureaucracies have usurped from the people . . . we
 not only gain a sense that we can control the course of social events again;
 we recover a new sense of selfhood and personality without which a truly free
@@ -226,7 +226,7 @@ For anarchists, the general nature of the state and its role within society is
 to ensure _"the preservation of the economic 'status quo,' the protection of
 the economic privileges of the ruling class, whose agent and **gendarme** it
 is"_. [Luigi Galleani, **The End of Anarchism?**, p. 28] As such, the state
-and capital restricts and controls the outcome of political action of the so-
+and capital restrict and control the outcome of political action of the so-
 called sovereign people as expressed by voting.
 
 Taking capital to begin with, if we assume that a relatively reformist
@@ -235,14 +235,14 @@ pressures. Either capital would disinvest, so forcing the government to back
 down in the face of economic collapse, or the government in question would
 control capital leaving the country and so would soon be isolated from new
 investment and its currency would become worthless. Either is an effective
-weapon to control democratically elected governments as before ensure that the
+weapon to control democratically elected governments as both ensure that the
 economy would be severely damaged and the promised "reforms" would be dead
 letters. Far fetched? No, not really. As discussed in [section
 D.2.1](secD2.html#secd21) such pressures were inflicted on the 1974 Labour
 Government in Britain and we see the threat reported everyday when the media
 reports on what _"the markets"_ think of government policies or when loans are
-given only guarantee that the country is structurally adjusted in-line with
-corporate interests and bourgeous economic dogma.
+given only with the guarantee that the country is structurally adjusted in-
+line with corporate interests and bourgeois economic dogma.
 
 As far as political pressures go, we must remember that there is a difference
 between the state and government. The state is the permanent collection of
@@ -350,7 +350,7 @@ Therefore we cannot expect a different group of politicians to react in
 different ways to the same economic and institutional influences and
 interests. Its no coincidence that left-wing, reformist parties have
 introduced right-wing, pro-capitalist ("Thatcherite/Reaganite") policies
-similiar to those right-wing, explicitly pro-capitalist parties have. This is
+similar to those right-wing, explicitly pro-capitalist parties have. This is
 to be expected as the basic function of any political system is to manage the
 existing state and economic structures and a society's power relationships. It
 is **not** to alter them radically, The great illusion of politics is the
@@ -414,12 +414,12 @@ History confirms Proudhon's argument that the state _"can only turn into
 something and do the work of the revolution insofar as it will be so invited,
 provoked or compelled by some power outside of itself that seizes the
 initiative and sets things rolling,"_ namely by _"a body representative of the
-proletariat be formed in Paris . . . in opposition to the bourgeoisies
-representation."_ [**Le Reprsentant du Peuple**, 5th May 1848] So, if
-extensive reforms have implemented by the state, just remember what they were
-in response to militant pressure from below and that we could have got so much
-more. In general, things have little changed since this anarchist argument
-against electioneering was put forward in the 1880s:
+proletariat be formed in Paris . . . in opposition to the bourgeoisie’s
+representation."_ [**Property is Theft!**, p. 325] So, if extensive reforms
+have implemented by the state, just remember that they were in response to
+militant pressure from below and that we could have got so much more. In
+general, things have little changed since this anarchist argument against
+electioneering was put forward in the 1880s:
 
 > _"in the electoral process, the working class will always be cheated and
 deceived . . . if they did manage to send, one, or ten, or fifty of
@@ -440,11 +440,11 @@ mean that bosses will pay any attention to them. While firing people for
 joining a union is illegal in America, it does not stop bosses doing so.
 Similarly, many would be surprised to discover that the 8 hour working day was
 legally created in many US states by the 1870s but workers had to strike for
-it in 1886 as it as not enforced. Ultimately, political action is dependent on
-direct action to be enforced where it counts (in the workplace and streets).
-And if only direct action can enforce a political decision once it is made,
-then it can do so beforehand so showing the limitations in waiting for
-politicians to act.
+it in 1886 as it was not enforced. Ultimately, political action is dependent
+on direct action to be enforced where it counts (in the workplace and
+streets). And if only direct action can enforce a political decision once it
+is made, then it can do so beforehand so showing the limitations in waiting
+for politicians to act.
 
 Anarchists reject voting for other reasons. The fact is that electoral
 procedures are the opposite of direct action. They are **based** on getting
@@ -588,7 +588,7 @@ and obedience, which gives most of us a deep-seated tendency to leave
 important matters to the "experts" and "authorities." Kropotkin described well
 the net effect:
 
-> _"Vote! Greater men that you will tell you the moment when the self-
+> _"Vote! Greater men than you will tell you the moment when the self-
 annihilation of capital has been accomplished. They will then expropriate the
 few usurpers left . . . and you will be freed without having taken any more
 trouble than that of writing on a bit of paper the name of the man whom the
@@ -597,7 +597,7 @@ Kinna, _"Kropotkin's theory of Mutual Aid in Historical Context"_, pp.
 259-283, **International Review of Social History**, No. 40, pp. 265-6]
 
 Anarchists also criticise elections for giving citizens the false impression
-that the government serves, or can serve, the people. As Martin remains us
+that the government serves, or can serve, the people. As Martin reminds us
 _"the founding of the modern state a few centuries ago was met with great
 resistance: people would refuse to pay taxes, to be conscripted or to obey
 laws passed by national governments. The introduction of voting and the
@@ -673,7 +673,7 @@ As discussed in [section H.3.9](secH3.html#sech39), the state is more
 complicated than the simple organ of the economically dominant class pictured
 by Marxists. There are continual struggles both inside and outside the state
 bureaucracies, struggles that influence policies and empower different groups
-of people. This can produce clashes with the ruling elite, while the need of
+of people. This can produce clashes within the ruling elite, while the need of
 the state to defend the system **as a whole** causes conflict with the
 interests of sections of the capitalist class. Due to this, many radical
 parties believe that the state is neutral and so it makes sense to work within
@@ -733,7 +733,7 @@ only real response to the problems of representative democracy is to urge
 people not to vote. Such anti-election campaigns can be a valuable way of
 making others aware of the limitations of the current system, which is a
 necessary condition for their seriously considering the anarchist alternative
-of using direct action and build alternative social and economic
+of using direct action and building alternative social and economic
 organisations. The implications of abstentionism are discussed in the [next
 section](secJ2.html#secj25).
 
@@ -769,7 +769,7 @@ anarchists (usually) advocate abstentionism at election time as a means of
 exposing the farce of "democracy", the disempowering nature of elections and
 the real role of the state.
 
-For anarchists, then, when you vote, you are choosing between rulers. Instead
+For anarchists then, when you vote, you are choosing between rulers. Instead
 of urging people to vote we raise the option of choosing to rule yourself, to
 organise freely with others -- in your workplace, in your community,
 everywhere -- as equals. The option of something you cannot vote for, a new
@@ -794,8 +794,8 @@ who do not vote do so for essentially political reasons, such as being fed up
 with the political system, failing to see any major differences between the
 parties, or recognition that the candidates were not interested in people like
 them. These non-voters are often disproportionately left-leaning, compared
-with those who did vote. So, anarchist abstentionism is a means of turning
-this negative reaction to an unjust system into positive activity.
+with those who did vote. Anarchist abstentionism is a means of turning this
+negative reaction to an unjust system into positive activity.
 
 So, anarchist opposition to electioneering has deep political implications
 which Luigi Galleani addressed when he wrote:
@@ -819,7 +819,7 @@ now the working people are fully capable of handling their own political and
 administrative interests."_ [**Op. Cit.**, pp. 13-14]
 
 Therefore abstentionism stresses the importance of self-activity and self-
-libertarian as well as having an important educational effect in highlighting
+liberation as well as having an important educational effect in highlighting
 that the state is not neutral but serves to protect class rule and that
 meaningful change only comes from below, by direct action. For the dominant
 ideas within any class society reflect the opinions of the ruling elite of
@@ -888,7 +888,7 @@ Assembly to realise how the men who are most completely ignorant of the state
 of the country are almost always those who represent it."_ There was
 _"ignorance of daily facts"_ and _"fear of the people"_ (_"the sickness of all
 those who belong to authority"_) for _"the people, for those in power, are the
-enemy."_ [**The Anarchist Reader**, p. 111] Ultimately, as syndicalist Emile
+enemy."_ [**Property is Theft!**, p. 19] Ultimately, as syndicalist Emile
 Pouget argued, this fate was inevitable as any socialist politician _"could
 not break the mould; he is only a cog in the machine of oppression and whether
 he wishes it or not he must, as minister, participate in the job of crushing
@@ -1101,9 +1101,9 @@ good for nothing, that they are petty-bourgeois and treacherous by nature, and
 that their bankruptcy is inevitable."_ If we _"want the **masses** to follow
 us"_, we need to _"support"_ such parties _"in the same way as the rope
 supports a hanged man."_ In this way, by experiencing the reformists in
-official, _"the majority will soon become disappointed in their leaders and
-will begin to support communism."_ [**The Lenin Anthology**, p. 603, p. 605
-and p. 602]
+office, _"the majority will soon become disappointed in their leaders and will
+begin to support communism."_ [**The Lenin Anthology**, p. 603, p. 605 and p.
+602]
 
 This tactic is suggested for two reasons. The first is that revolutionaries
 will be able to reach more people by being seen to support popular, trade
@@ -1214,7 +1214,7 @@ That is why anarchist abstentionism always stresses the need for direct action
 and organising economically and socially to change things, to resist
 oppression and exploitation. In such circumstances, the effect of an electoral
 strike would be fundamentally different than an apathy induced lack of voting.
-_"If the anarchists", _ Vernon Richards argued, _"could persuade half the
+_"If the anarchists", _Vernon Richards argued, _"could persuade half the
 electorate to abstain from voting this would, from an electoral point of view,
 contribute to the victory of the Right. But it would be a hollow victory, for
 what government could rule when half the electorate by not voting had
@@ -1249,12 +1249,12 @@ laws. Howard Zinn expressed it well:
 > _"I think a way to behave is to think not in terms of representative
 government, not in terms of voting, not in terms of electoral politics, but
 thinking in terms of organising social movements, organising in the workplace,
-organising in the neighborhood, organising collectives that can become strong
+organising in the neighbourhood, organising collectives that can become strong
 enough to eventually take over -- first to become strong enough to resist what
 has been done to them by authority, and second, later, to become strong enough
 to actually take over the institutions . . . the crucial question is not who
 is in office, but what kind of social movement do you have. Because we have
-seen historically that if you have a powerful social movement, it doesnt
+seen historically that if you have a powerful social movement, it doesn’t
 matter who is in office. Whoever is in office, they could be Republican or
 Democrat, if you have a powerful social movement, the person in office will
 have to yield, will have to in some ways respect the power of social movements
@@ -1302,7 +1302,7 @@ the oppression of government is the power with which the people show
 themselves capable of opposing it."_ [Malatesta, **Errico Malatesta: His Life
 and Ideas**, p. 196] Hence Vernon Richards:
 
-> _ "If the anarchist movement has a role to play in practical politics it is
+> _"If the anarchist movement has a role to play in practical politics it is
 surely that of suggesting to, and persuading, as many people as possible that
 their freedom from the Hitlers, Francos and the rest, depends not on the right
 to vote or securing a majority of votes 'for the candidate of ones choice,'
@@ -1442,14 +1442,12 @@ took place between 1931 and 1933 about whether to institute the approved
 Agrarian Reform law."_ [Abel Paz, **Durruti in the Spanish Revolution**, p.
 391]
 
-
-
- The second strategy of building alternatives flows naturally from the first.
+The second strategy of building alternatives flows naturally from the first.
 Any form of campaign requires organisation and by organising in an anarchist
-manner we build organisations that _"bear in them the living seed of the new
-society which is replace the old world."_ [Bakunin, **Op. Cit.**, p. 255] In
-organising strikes in the workplace and community we can create a network of
-activists and union members who can encourage a spirit of revolt against
+manner we build organisations that _"bear in them the living seeds of the new
+society which is to replace the old world."_ [Bakunin, **Op. Cit.**, p. 255]
+In organising strikes in the workplace and community we can create a network
+of activists and union members who can encourage a spirit of revolt against
 authority. By creating assemblies where we live and work we can create an
 effective countering power to the state and capital. Such a union, as the
 anarchists in Spain and Italy proved, can be the focal point for recreating
@@ -1465,9 +1463,7 @@ governments. In the words of a C.N.T. militant:
 within bourgeois society and do so precisely to combat that society with our
 own special weapons."_ [quoted by Kelsey, **Op. Cit.**, p. 79]
 
-
-
- So, far from doing nothing, by not voting the anarchist actively encourages
+So, far from doing nothing, by not voting the anarchist actively encourages
 alternatives. As the British anarchist John Turner argued, we _"have a line to
 work upon, to teach the people self-reliance, to urge them to take part in
 non-political [i.e. non-electoral] movements directly started by themselves
@@ -1479,10 +1475,8 @@ the country."_ [quoted by John Quail, **The Slow Burning Fuse**, p. 87] In
 this way we encourage self-activity, self-organisation and self-help -- the
 opposite of apathy and doing nothing.
 
-
-
- Ultimately, what the state and capital gives, they can also take away. What
-we build by our own self-activity can last as long as we want it to and act to
+Ultimately, what the state and capital gives, they can also take away. What we
+build by our own self-activity can last as long as we want it to and act to
 protect it:
 
 > _"The future belongs to those who continue daringly, consistently, to fight
@@ -1495,9 +1489,7 @@ contains. Any diversion from this stand will only retard our movement and make
 it a stepping stone for political climbers."_ [Emma Goldman, **Vision on
 Fire**, p. 92]
 
-
-
- In short, what happens in our communities, workplaces and environment is too
+In short, what happens in our communities, workplaces and environment is too
 important to be left to politicians -- or the ruling elite who control
 governments. Anarchists need to persuade _"as many people as possible that
 their freedom . . . depends not on the right to vote or securing a majority of
@@ -1508,13 +1500,9 @@ life of the community."_ [_"Anarchists and Voting"_, pp. 176-87, **The
 Raven**, No. 14, pp. 177-8] We discuss what new forms of economic and social
 organisations that this could involve in [section J.5](secJ5.html).
 
+## J.2.10 Does rejecting electioneering mean that anarchists are apolitical?
 
-
- ## J.2.10 Does rejecting electioneering mean that anarchists are apolitical?
-
-
-
- No. Far from it. The "apolitical" nature of anarchism is Marxist nonsense. As
+No. Far from it. The "apolitical" nature of anarchism is Marxist nonsense. As
 it desires to fundamentally change society, anarchism can be nothing but
 political. However, anarchism does reject (as we have seen) "normal" political
 activity as ineffectual and corrupting. However, many (particularly Marxists)
@@ -1524,9 +1512,7 @@ forth. By so doing, Marxists claim that anarchists leave the political agenda
 to be dominated by capitalist ideology, with disastrous results for the
 working class.
 
-
-
- This view, however, is **utterly** wrong. Indeed, Bakunin explicitly rejected
+This view, however, is **utterly** wrong. Indeed, Bakunin explicitly rejected
 the idea that working people could ignore politics and actually agreed with
 the Marxists that political indifference only led to capitalist control of the
 labour movement:
@@ -1545,20 +1531,16 @@ subordinated the proletariat to the bourgeoisie which exploits it and for
 which it was to remain an obedient and mindless tool."_ [**Statism and
 Anarchy**, p. 174]
 
-
-
- In addition, Bakunin argued that the labour movement (and so the anarchist
+In addition, Bakunin argued that the labour movement (and so the anarchist
 movement) would have to take into account political ideas and struggles but to
 do so in a working class way:
 
-> _ "The International does not reject politics of a general kind; it will be
+> _"The International does not reject politics of a general kind; it will be
 compelled to intervene in politics so long as it is forced to struggle against
 the bourgeoisie. It rejects only bourgeois politics."_ [**The Political
 Philosophy of Bakunin**, p. 313]
 
-
-
- To state the obvious, anarchists only reject working class _"political
+To state the obvious, anarchists only reject working class _"political
 action"_ if you equate (as did the early Marxists) "political action" with
 electioneering, standing candidates for Parliament, local town councils and so
 on -- what Bakunin termed bourgeois politics. We do not reject "political
@@ -1572,15 +1554,13 @@ also noted that syndicalists _"have proven time and again that they can solve
 the many so-called political questions by direct action."_ [Earl C. Ford and
 William Z. Foster, **Syndicalism**, p. 19f and p. 23]
 
-
-
- So, anarchists reject capitalist politics (i.e. electioneering), but we do
-not ignore politics, wider political discussion or political struggles.
-Anarchists have always recognised the importance of political debate and ideas
-in social movements. Bakunin asked should a workers organisation _"cease to
-concern itself with political and philosophical questions? Would [it] . . .
-ignore progress in the world of thought as well as the events which accompany
-or arise from the political struggle in and between states, concerning itself
+So, anarchists reject capitalist politics (i.e. electioneering), but we do not
+ignore politics, wider political discussion or political struggles. Anarchists
+have always recognised the importance of political debate and ideas in social
+movements. Bakunin asked should a workers organisation _"cease to concern
+itself with political and philosophical questions? Would [it] . . . ignore
+progress in the world of thought as well as the events which accompany or
+arise from the political struggle in and between states, concerning itself
 only with the economic problem?"_ He rejected such a position: _"We hasten to
 say that it is absolutely impossible to ignore political and philosophical
 questions. An exclusive pre-occupation with economic questions would be fatal
@@ -1591,9 +1571,7 @@ depriving themselves of the intellectual and moral power which is so necessary
 for the conquest of their economic rights."_ [**Bakunin on Anarchism**, p.
 301]
 
-
-
- Nor do anarchists ignore elections. As Vernon Richards suggested, anarchists
+Nor do anarchists ignore elections. As Vernon Richards suggested, anarchists
 _"cannot be uninterested in . . . election results, whatever their view about
 the demerits of the contending Parties. The fact that the anarchist movement
 has campaigned to persuade people not to use their vote is proof of our
@@ -1606,9 +1584,7 @@ Democracy**, p. 141] Nor, needless to say, are anarchists indifferent to
 struggles for political reforms and the need to stop the state pursuing
 authoritarian policies, imperialist adventures and such like.
 
-
-
- Thus the charge anarchists are apolitical or indifferent to politics (even
+Thus the charge anarchists are apolitical or indifferent to politics (even
 capitalist politics) is a myth. Rather, _"we are not concerned with choosing
 between governments but with creating the situation where government can no
 longer operate, because only then will we organise locally, regionally,
@@ -1618,9 +1594,7 @@ to fight both, and at the same time encourage people to take what steps they
 can to run their own lives."_ [_"Anarchists and Voting"_, pp. 176-87, **The
 Raven**, No. 14, p. 179]
 
-
-
- Part of this process will be the discussion of political, social and economic
+Part of this process will be the discussion of political, social and economic
 issues in whatever self-managed organisations people create in their
 communities and workplaces (as Bakunin argued) and the use of these
 organisations to fight for (political, social and economic) improvements and
@@ -1636,9 +1610,7 @@ oppression. The exploitation of man by man and the domination of man over man
 are inseparable, and each is the condition of the other."_ [**Anarcho-
 Syndicalism**, p. 11]
 
-
-
- Such a unification must take place on the social and economic field, not the
+Such a unification must take place on the social and economic field, not the
 political, as that is where the working class is strongest. So anarchists are
 well aware of the need to fight for political issues and reforms, and so are
 _"not in any way opposed to the political struggle, but in their opinion this
@@ -1670,9 +1642,7 @@ representatives. No. We will not go to the Town Hall, to the Provincial
 Capitol, to Parliament."_ [quoted by Jose Pierats, **Anarchists in the Spanish
 Revolution**, p. 173]
 
-
-
- Indeed, Rudolf Rocker makes the point very clear. _"It has often been charged
+Indeed, Rudolf Rocker makes the point very clear. _"It has often been charged
 against Anarcho-Syndicalism,"_ he wrote, _"that it has no interest in the
 political structure of the different countries, and consequently no interest
 in the political struggles of the time, and confines its activities entirely
@@ -1687,9 +1657,7 @@ the present-day state is exactly the same as it takes towards the system of
 capitalist exploitation"_ and _"pursue the same tactics in their fight against
 . . . the state."_ [**Op. Cit.**, pp. 73-4]
 
-
-
- As historian Bob Holton suggests, the notion that syndicalism is apolitical
+As historian Bob Holton suggests, the notion that syndicalism is apolitical
 _"is certainly a deeply embedded article of faith among those marxists who
 have taken Lenin's strictures against syndicalism at face value. Yet it bears
 little relation to the actual nature of revolutionary industrial movements . .
@@ -1706,9 +1674,7 @@ socialist assumptions that the existing state could be captured by electoral
 means and used as an agent of through-going social reform."_ [**British
 Syndicalism, 1900-1914**, pp. 21-2 and p. 204]
 
-
-
- Thus anarchism is not indifferent to or ignores political struggles and
+Thus anarchism is not indifferent to or ignores political struggles and
 issues. Rather, it fights for political change and reforms as it fights for
 economic ones -- by direct action and solidarity. If anarchists _"reject any
 participation in the works of bourgeois parliaments, it is not because they
@@ -1731,9 +1697,7 @@ politicians) but instead lie in the hands of those directly affected by it.
 Also, in this way the social struggle encourages the political development of
 its members by the process of participation and self-management.
 
-
-
- In other words, political issues must be raised in economic and social
+In other words, political issues must be raised in economic and social
 organisations and discussed there, where working class people have real power.
 As Bakunin put it, _"the proletariat itself will pose"_ political and
 philosophical questions in their own organisations and so the political
@@ -1753,9 +1717,7 @@ the State and of the bourgeois world, [the working class movement] thereby
 constructed a new world, the world of the united proletarians of all lands."_
 [**Op. Cit.**, p. 302 p. 276, p. 303 and p. 305]
 
-
-
- History supports Bakunin's arguments, as it indicates that any attempt at
+History supports Bakunin's arguments, as it indicates that any attempt at
 taking social and economic issues into political parties has resulting in
 wasted energy and their watering down into, at best, reformism and, at worse,
 the simple ignoring of them by politicians once in office (see [section
@@ -1770,11 +1732,9 @@ the proletariat and the bourgeoisie"_ that economic and social struggle
 creates and, worse, _"have tied the proletariat to the bourgeois towline."_
 [**Op. Cit.**, p. 290]
 
-
-
- In addition, so-called "economic" struggles do not occur in a vacuum. They
+In addition, so-called "economic" struggles do not occur in a vacuum. They
 take place in a social and political context and so, necessarily, there can
-exist an separation of political and economic struggles only in the mind.
+exist a separation of political and economic struggles only in the mind.
 Strikers or eco-warriors, for example, face the power of the state enforcing
 laws which protect the power of employers and polluters. This necessarily has
 a "political" impact on those involved in struggle. By channelling any
@@ -1786,15 +1746,13 @@ surprising that anarchists argue that the people _"must organise their powers
 apart from and against the State."_ [Bakunin, **The Political Philosophy of
 Bakunin**, p. 376]
 
-
-
- To conclude, anarchists are only "apolitical" about bourgeois elections and
+To conclude, anarchists are only "apolitical" about bourgeois elections and
 the dubious liberty and benefits associated with picking who will rule us and
 maintain capitalism for the next four or five years as well as the usefulness
 of socialists participating in them. We feel that our predictions have been
 confirmed time and time again. Anarchists reject electioneering not because
 they are "apolitical" but because they do not desire to see politics remain a
-thing purely for politicians and bureucrats. Political issues are far too
+thing purely for politicians and bureaucrats. Political issues are far too
 important to leave to such people. Anarchists desire to see political
 discussion and change develop from the bottom up, this is hardly "apolitical"
 -- in fact with our desire to see ordinary people directly discuss the issues
@@ -1802,4 +1760,8 @@ that affect them, act to change things by their own action and draw their own
 conclusions from their own activity anarchists are very "political." The
 process of individual and social liberation is the most political activity we
 can think of!
+
+[‹ J.1 Are anarchists involved in social struggles?](/afaq/secJ1.html "Go to
+previous page" ) [up](/afaq/secJcon.html "Go to parent page" ) [J.3 What kinds
+of organisation do anarchists build? ›](/afaq/secJ3.html "Go to next page" )
 

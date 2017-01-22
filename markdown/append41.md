@@ -341,7 +341,7 @@ democracy? Far from it. Unless you picture revolution as simply the changing
 of the party in power, you have to acknowledge that while the Bolshevik party
 **did** take power in Russian in November 1917, the net effect of this was
 **not** the stated goals that justified that action. Thus, if we take the term
-_"effective"_ to mean "an efficient means to achieve the desired goals"_ then
+_"effective"_ to mean "an efficient means to achieve the desired goals" then
 vanguardism has not been proven to be effective, quite the reverse (assuming
 that your desired goal is a socialist society, rather than party power).
 Needless to say, Trotsky blames the failure of the Russian Revolution on
@@ -507,11 +507,11 @@ lower executive bodies that they should obey the behests of all higher bodies
 in the organisational hierarchy. But town committees in practice had the
 devil's own job in imposing firm leadership . . . Insubordination was the rule
 of the day whenever lower party bodies thought questions of importance were at
-stake.
+stake. _
 
 >
 
-> "Suburb committees too faced difficulties in imposing discipline. Many a
+> _"Suburb committees too faced difficulties in imposing discipline. Many a
 party cell saw fit to thumb its nose at higher authority and to pursue
 policies which it felt to be more suited to local circumstances or more
 desirable in general. No great secret was made of this. In fact, it was openly
@@ -667,8 +667,8 @@ to play the revolutionary role they ought to have taken in theory. The masses
 themselves made the revolution, with or even against the party -- this much at
 least was clear to Trotsky the historian. But far from drawing the correct
 conclusion, Trotsky the theorist continued to argue that the masses are
-incapable of making a revolution without a leader."_ [Daniel & Gabriel Cohn-
-Bendit, **Op. Cit.**, p. 188]
+incapable of making a revolution without a leader."_ [Daniel &amp; Gabriel
+Cohn-Bendit, **Op. Cit.**, p. 188]
 
 Looking at the development of the revolution from April onwards, we are struck
 by the sluggishness of the party hierarchy. At every revolutionary upsurge,
@@ -1318,11 +1318,11 @@ revolutionary workers will have to work to uproot the remnants of bourgeois
 society . . . But if the object of this struggle and this organisation is to
 free the proletariat from exploitation and state rule, then the role of guide,
 tutor or director cannot be entrusted to a new state, which would have an
-interest in pointing the revolution in a completely opposite direction. . .
+interest in pointing the revolution in a completely opposite direction. . . _
 
 >
 
-> "The outcome would be that a new government - battening on the revolution
+> _"The outcome would be that a new government - battening on the revolution
 and acting throughout the more or less extended period of its 'provisional'
 powers - would lay down the bureaucratic, military and economic foundations of
 a new and lasting state organisation, around which a compact network of
@@ -1331,37 +1331,37 @@ time what one would have would not be the state abolished, but a state
 stronger and more energetic than its predecessor and which would come to
 exercise those functions proper to it - the ones Marx recognised as being such
 - 'keeping the great majority of producers under the yoke of a numerically
-small exploiting minority.'
+small exploiting minority.' _
 
 >
 
-> "This is the lesson that the history of all revolutions teaches us, from the
-most ancient down to the most recent; and it is confirmed . . . by the day-to-
-day developments of the Russian revolution . . .
+> _"This is the lesson that the history of all revolutions teaches us, from
+the most ancient down to the most recent; and it is confirmed . . . by the
+day-to-day developments of the Russian revolution . . . _
 
 >
 
-> "Certainly, [state violence] starts out being used against the old power . .
-. But as the new power goes on consolidating its position . . . ever more
+> _"Certainly, [state violence] starts out being used against the old power .
+. . But as the new power goes on consolidating its position . . . ever more
 frequently and ever more severely, the mailed fist of dictatorship is turned
 against the proletariat itself in whose name that dictatorship was set up and
 is operated! . . . the actions of the present Russian government [of Lenin and
 Trotsky] have shown that in real terms (and it could not be otherwise) the
 'dictatorship of the proletariat' means police, military, political and
 economic dictatorship exercised over the broad mass of the proletariat in city
-and country by the few leaders of the political party.
+and country by the few leaders of the political party. _
 
 >
 
-> "The violence of the state always ends up being used AGAINST ITS SUBJECTS,
+> _"The violence of the state always ends up being used AGAINST ITS SUBJECTS,
 of whom the vast majority are always proletarians . . . The new government
 will be able to expropriate the old ruling class in whole or in part, but only
 so as to establish a new ruling class that will hold the greater part of the
-proletariat in subjection.
+proletariat in subjection. _
 
 >
 
-> "That will come to pass if those who make up the government and the
+> _"That will come to pass if those who make up the government and the
 bureaucratic, military and police minority that upholds it end up becoming the
 real owners of wealth when the property of everyone is made over exclusively
 to the state. In the first place, the failure of the revolution will be self
@@ -1630,7 +1630,7 @@ Power to the Soviets"_ it does not mean they mean exactly the same thing by
 it. In practice the Bolshevik vision simply replaced the power of the soviets
 with a "soviet power" above them:
 
-> _ "The success of the Bolsheviks in the October Revolution \-- that is to
+> _ "The success of the Bolsheviks in the October Revolution -- that is to
 say, the fact that they found themselves in power and from there subordinated
 the whole Revolution to their Party is explained by their ability to
 substitute the idea of a Soviet power for the social revolution and the social
@@ -1728,10 +1728,10 @@ society.
 In December of that year Lenin went one further and noted that at the Sixth
 Soviet Congress _"the Bolsheviks had 97 per cent"_ of delegates, i.e.
 "practically all representatives of the workers and peasants of the whole of
-Russia."_ This was proof of _"how stupid and ridiculous is the bourgeois
-fairy-tale about the Bolsheviks only having minority support."_ [**Op. Cit.**,
-pp. 355-6] Given that the workers and peasants had no real choice in who to
-vote for, can this result be surprising? Of course not. While the Bolsheviks
+Russia." This was proof of _"how stupid and ridiculous is the bourgeois fairy-
+tale about the Bolsheviks only having minority support."_ [**Op. Cit.**, pp.
+355-6] Given that the workers and peasants had no real choice in who to vote
+for, can this result be surprising? Of course not. While the Bolsheviks
 **had** mass support a year previously, pointing to election results under a
 dictatorship where all other parties and groups are subject to state
 repression is hardly convincing evidence for current support. Needless to say,
@@ -1822,7 +1822,7 @@ augment this centralisation of power into the hands of the party. The VTsIK
 Sovnarkom) was _"used not to control but rather extend the authority and
 centralising fiat of the government. That was the work of Iakov Sverdlov, the
 VTsIK chairman, who -- in close collaboration with Lenin as chairman of the
-Sovnarkom \-- ensured that the government decrees and ordinances were by the
+Sovnarkom -- ensured that the government decrees and ordinances were by the
 VTsIK and that they were thus endowed with Soviet legitimacy when they were
 sent to provincial soviet executive committees for transmission to all local
 soviets . . . To achieve that, Sverdlov had to reduce the 'Soviet Parliament'
@@ -2392,7 +2392,7 @@ the support they claimed they had, then they would have won soviet elections
 easily. They did not and so free soviet elections were not held.
 
 This fact also explains the fate of the so-called _"non party"_ conferences
-favoured by the Bolsheviks in late 1920\. In spite of praising the soviets as
+favoured by the Bolsheviks in late 1920. In spite of praising the soviets as
 _"more democratic"_ than anything in the _"best democratic republics of the
 bourgeois world,"_ Lenin also argued that non-Party conferences were also
 required _"to be able to watch the mood of the masses, to come closer to them,
@@ -2432,11 +2432,11 @@ do. As Kropotkin argued in 1920:
 controlling the economic and political life of the country is a great idea.
 All the more so, since it necessarily follows that these councils should be
 composed of all who take part in the production of natural wealth by their own
-efforts.
+efforts. _
 
 >
 
-> "But as long as the country is governed by a party dictatorship, the
+> _"But as long as the country is governed by a party dictatorship, the
 workers' and peasants' councils evidently lose their entire significance. They
 are reduced to . . . [a] passive role . . . A council of workers ceases to be
 free and of any use when liberty of the press no longer exists . . . [and
@@ -2469,10 +2469,11 @@ class. Dictatorship of a class cannot exist as such, for it ends up, in the
 last analysis, as being the dictatorship of a given party which arrogates to
 itself the right to speak for that class. Thus, the liberal bourgeoisie, in
 their fight against despotism, used to speak in the name of the 'people'. . .
+_
 
 >
 
-> "We already know that a revolution cannot be made with rosewater. And we
+> _"We already know that a revolution cannot be made with rosewater. And we
 know, too, that the owning classes will never yield up their privileges
 spontaneously. On the day of victorious revolution the workers will have to
 impose their will on the present owners of the soil, of the subsoil and of the
@@ -2482,11 +2483,11 @@ above all, without their having demolished the authoritarian structure which
 is, and will continue to be, the fortress keeping the masses of the people
 under dominion. Such an action is, without doubt, an act of liberation; a
 proclamation of social justice; the very essence of social revolution, which
-has nothing in common with the utterly bourgeois principle of dictatorship.
+has nothing in common with the utterly bourgeois principle of dictatorship. _
 
 >
 
-> "The fact that a large number of socialist parties have rallied to the idea
+> _"The fact that a large number of socialist parties have rallied to the idea
 of councils, which is the proper mark of libertarian socialist and
 revolutionary syndicalists, is a confession, recognition that the tack they
 have taken up until now has been the product of a falsification, a distortion,
@@ -2500,11 +2501,11 @@ a threat to the further development of the councils. These alien elements are
 able only to conceive things from the dictatorial viewpoint. It must be our
 task to face up to this risk and warn our class comrades against experiments
 which cannot bring the dawn of social emancipation any nearer -- which indeed,
-to the contrary, positively postpone it.
+to the contrary, positively postpone it. _
 
 >
 
-> "Consequently, our advice is as follows: Everything for the councils or
+> _"Consequently, our advice is as follows: Everything for the councils or
 soviets! No power above them! A slogan which at the same time will be that of
 the social revolutionary."_ [**Anarchism and Sovietism**]
 
@@ -2619,4 +2620,10 @@ communism"?
 ## 24 What did the anarchists do during the revolution?
 
 ## 25 Did the Russian revolution refute anarchism?
+
+
+
+[‹ Appendix - The Russian Revolution](/afaq/append4.html "Go to previous page"
+) [up](/afaq/append4.html "Go to parent page" ) [What was the Kronstadt
+Rebellion? ›](/afaq/append42.html "Go to next page" )
 

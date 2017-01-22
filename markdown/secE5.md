@@ -324,11 +324,12 @@ and appeals for a new sensibility undertake public activities to stop
 ecological degradation. Each surely does his or her part. But it will require
 a much greater effort -- and organised, clearly conscious, and forward-looking
 political **movement** \-- to meet the basic challenges posed by our
-aggressively **anti**-ecological society.
+aggressively **anti**-ecological society.  
+>  _
 
 >
 
-> "Yes, we as individuals should change our lifestyles as much as possible,
+> _"Yes, we as individuals should change our lifestyles as much as possible,
 but it is the utmost short-sightedness to believe that that is all or even
 primarily what we have to do. We need to restructure the entire society, even
 as we engage in lifestyle changes and single-issue struggles against
@@ -350,4 +351,8 @@ from collective struggle, not individual decisions within the market place
 which cannot combat the cancerous growth principle of the capitalist economy.
 As such, ethical consumerism does not break from the logic of capitalism and
 so is doomed to failure.
+
+[‹ E.4 Can laissez-faire capitalism protect the environment?](/afaq/secE4.html
+"Go to previous page" ) [up](/afaq/secEcon.html "Go to parent page" ) [E.6
+What is the population myth? ›](/afaq/secE6.html "Go to next page" )
 

@@ -220,3 +220,8 @@ leased, and sold like private property -- what remains for the proletaire? Of
 what advantage is it to him that society has left the state of war to enter
 the regime of police?"_ [**System of Economic Contradictions**, p. 371]
 
+[‹ F.4 What is the right-"libertarian" position on private
+property?](/afaq/secF4.html "Go to previous page" ) [up](/afaq/secFcon.html
+"Go to parent page" ) [F.6 Is "anarcho"-capitalism against the state?
+›](/afaq/secF6.html "Go to next page" )
+

@@ -34,8 +34,6 @@ goals:
 > 1\. To present the case for anarchism, to convince people they should become
 anarchists.
 
->
-
 > 2\. To be a resource for existing anarchists, to use to bolster their
 activism and activities by presenting facts and arguments to allow them to
 defend anarchism against those opposed to it (Marxists, capitalists, etc.).
@@ -290,4 +288,8 @@ always been very much a minority trend in anarchism outside of America. By the
 Avrich). As such, it is hardly a flaw that AFAQ has presented the majority
 position on anarchism (social anarchism), particularly as this is the position
 of the people involved.
+
+[‹ An Anarchist FAQ Introduction](/afaq/intro.html "Go to previous page" )
+[up](/afaq/intro.html "Go to parent page" ) [An Anarchist FAQ: Introduction to
+Volume 1 ›](/afaq/vol1intro.html "Go to next page" )
 

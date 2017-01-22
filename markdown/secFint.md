@@ -312,3 +312,8 @@ hired assassins of capitalism.
 For more discussion on this issue, see the appendix ["Anarchism and
 'Anarcho'-capitalism"](append1.html)
 
+[‹ Section F - Is "anarcho"-capitalism a type of
+anarchism?](/afaq/secFcon.html "Go to previous page" ) [up](/afaq/secFcon.html
+"Go to parent page" ) [F.1 Are "anarcho"-capitalists really anarchists?
+›](/afaq/secF1.html "Go to next page" )
+

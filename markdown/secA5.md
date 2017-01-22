@@ -212,11 +212,9 @@ They instructed their delegates to the Commune's Commission on Labour
 Organisation to support the following objectives:
 
 > _ "The abolition of the exploitation of man by man, the last vestige of
-slavery;
+slavery;_
 
->
-
-> "The organisation of labour in mutual associations and inalienable
+> _"The organisation of labour in mutual associations and inalienable
 capital."_
 
 In this way, they hoped to ensure that _"equality must not be an empty word"_
@@ -337,10 +335,10 @@ and "liberty." On May 21st, government troops entered the city, followed by
 seven days of bitter street fighting. Squads of soldiers and armed members of
 the bourgeoisie roamed the streets, killing and maiming at will. Over 25,000
 people were killed in the street fighting, many murdered after they had
-surrendered, and their bodies dumped in mass graves. As a final insult, **Sacr
-Coeur** was built by the bourgeoisie on the birth place of the Commune, the
-Butte of Montmartre, to atone for the radical and atheist revolt which had so
-terrified them.
+surrendered, and their bodies dumped in mass graves. As a final insult,
+**Sacré Coeur** was built by the bourgeoisie on the birth place of the
+Commune, the Butte of Montmartre, to atone for the radical and atheist revolt
+which had so terrified them.
 
 For anarchists, the lessons of the Paris Commune were threefold. Firstly, a
 decentralised confederation of communities is the necessary political form of
@@ -415,7 +413,7 @@ homes of everyone who has ever known to have raised a voice or sympathised
 with those who have aught to say against the present system of robbery and
 oppression . . . they have invaded their homes and subjected them and their
 families to indignities that must be seen to be believed."_ [Lucy Parsons,
-**Liberty, Equality & Solidarity**, p. 53] Meeting halls, union offices,
+**Liberty, Equality &amp; Solidarity**, p. 53] Meeting halls, union offices,
 printing shops and private homes were raided (usually without warrants). Such
 raids into working-class areas allowed the police to round up all known
 anarchists and other socialists. Many suspects were beaten up and some bribed.
@@ -464,7 +462,7 @@ Eight"_. Since then Mayday has became a day for international solidarity. In
 1893, the new Governor of Illinois made official what the working class in
 Chicago and across the world knew all along and pardoned the Martyrs because
 of their obvious innocence and because _"the trial was not fair."_ To this
-day, no one knows who threw the bomb \-- the only definite fact is that it was
+day, no one knows who threw the bomb -- the only definite fact is that it was
 not any of those who were tried for the act: _"Our comrades were not murdered
 by the state because they had any connection with the bomb-throwing, but
 because they had been active in organising the wage-slaves of America."_ [Lucy
@@ -504,18 +502,14 @@ it:
 
 > _"That day those American workers attempted, by organising themselves, to
 give expression to their protest against the iniquitous order of the State and
-Capital of the propertied . . .
-
->
+Capital of the propertied . . . _
 
 > "The workers of Chicago . . . had gathered to resolve, in common, the
 problems of their lives and their struggles. . .
 
->
-
 > "Today too . . . the toilers . . . regard the first of May as the occasion
 of a get-together when they will concern themselves with their own affairs and
-consider the matter of their emancipation."_ [**The Struggle Against the State
+consider the matter of their emancipation." [**The Struggle Against the State
 and Other Essays**, pp. 59-60]
 
 Anarchists stay true to the origins of May Day and celebrate its birth in the
@@ -562,30 +556,20 @@ This idea was expressed in the manifesto issued at the I.W.P.A.'s Pittsburgh
 Congress of 1883:
 
 > _ "First -- Destruction of the existing class rule, by all means, i.e. by
-energetic, relentless, revolutionary and international action.
+energetic, relentless, revolutionary and international action._
 
->
+> _ "Second -- Establishment of a free society based upon co-operative
+organisation of production._
 
-> "Second -- Establishment of a free society based upon co-operative
-organisation of production.
+> _ "Third -- Free exchange of equivalent products by and between the
+productive organisations without commerce and profit-mongery._
 
->
+> _ "Fourth -- Organisation of education on a secular, scientific and equal
+basis for both sexes._
 
-> "Third -- Free exchange of equivalent products by and between the productive
-organisations without commerce and profit-mongery.
+> _ "Fifth -- Equal rights for all without distinction to sex or race._
 
->
-
-> "Fourth -- Organisation of education on a secular, scientific and equal
-basis for both sexes.
-
->
-
-> "Fifth -- Equal rights for all without distinction to sex or race.
-
->
-
-> "Sixth -- Regulation of all public affairs by free contracts between
+> _ "Sixth -- Regulation of all public affairs by free contracts between
 autonomous (independent) communes and associations, resting on a federalistic
 basis."_ [**Op. Cit.**, p. 42]
 
@@ -966,7 +950,7 @@ bosses], then they also were capable of guaranteeing all production. In such
 an event, private industry could be eliminated quickly but progressively, and
 replaced by collective industry. Consequently, the Anarchists rejected the
 vague nebulous slogan of 'control of production.' They advocated
-**expropriation \-- progressive, but immediate -- of private industry by the
+**expropriation -- progressive, but immediate -- of private industry by the
 organisations of collective production.**"_ [Voline, **Op. Cit.**, p. 221]
 
 Once in power, the Bolsheviks systematically undermined the popular meaning of
@@ -1137,7 +1121,7 @@ Bolsheviks built would reduce accountability to a minimum while at the same
 time accelerating the isolation of the rulers from the ruled. The masses were
 no longer a source of inspiration and power, but rather an alien group whose
 lack of "discipline" (i.e. ability to follow orders) placed the revolution in
-danger. As one Russian Anarchist argued,
+danger. As one Russian Anarchist argued:
 
 > _ "The proletariat is being gradually enserfed by the state. The people are
 being transformed into servants over whom there has arisen a new class of
@@ -1972,7 +1956,7 @@ just four examples, Italy, Germany, Spain and Chile).
 ## A.5.6 Anarchism and the Spanish Revolution
 
 As Noam Chomsky notes, _"a good example of a really large-scale anarchist
-revolution -- in fact the best example to my knowledge \-- is the Spanish
+revolution -- in fact the best example to my knowledge -- is the Spanish
 revolution in 1936, in which over most of Republican Spain there was a quite
 inspiring anarchist revolution that involved both industry and agriculture
 over substantial areas . . . And that again was, by both human measures and
@@ -2058,7 +2042,6 @@ committee to manage the general activity in each station and its annexes. At
 [these] meetings, the decisions (direccion) of this committee, whose members
 continued to work [at their previous jobs], would be subjected to the approval
 or disapproval of the workers, after giving reports and answering questions."
-
 _
 
 The delegates on the committee could be removed by an assembly at any time and
@@ -2367,4 +2350,9 @@ Brinton's eye-witness account _"Paris: may 1968"_ (in his **For Workers'
 Power**). **Beneath the Paving Stones** by edited Dark Star is a good
 anthology of situationist works relating to Paris 68 (it also contains
 Brinton's essay).
+
+[‹ A.4 Who are the major anarchist thinkers?](/afaq/secA4.html "Go to previous
+page" ) [up](/afaq/secAcon.html "Go to parent page" ) [Section B - Why do
+anarchists oppose the current system? ›](/afaq/secBcon.html "Go to next page"
+)
 

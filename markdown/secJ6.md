@@ -8,7 +8,7 @@ FAQ we will discuss anarchist approaches to child rearing bearing in mind
 _"that it is through the channel of the child that the development of the
 mature man [or woman] must go, and that the present ideas of . . . educating
 or training . . . are such as to stifle the natural growth of the child."_
-[Emma Goldman, **Red Emma Speaks**, p. 131 and p. 130]
+[Emma Goldman, **Red Emma Speaks**, p. 132 and p. 131]
 
 If one accepts the thesis that the authoritarian family is the breeding ground
 for both individual psychological problems and political reaction, it follows
@@ -40,7 +40,7 @@ happens to a child when they are growing up **shapes** the person they become
 and the society they live in. The key question for people interested in
 freedom is whether _"the child [is] to be considered as an individuality, or
 as an object to be moulded according to the whims and fancies of those about
-it?"_ [Emma Goldman, **Op. Cit.**, p. 130] Libertarian child rearing is the
+it?"_ [Emma Goldman, **Op. Cit.**, p. 131] Libertarian child rearing is the
 means by which the individuality of the child is respected and developed.
 
 This is in stark contrast to standard capitalist claim that children are the
@@ -170,7 +170,7 @@ within the psyche -- for example, destructiveness, sadism, greed, power
 hunger, brutality, etc. (impulses referred to by Reich as _"secondary"_
 drives). In other words, this reduces our ability to empathise with others and
 so the internal ethical guidelines we all develop are blunted, making us more
-likely tp express such secondary, anti-social, drives. So, ironically, these
+likely to express such secondary, anti-social, drives. So, ironically, these
 secondary drives result from the **suppression of the primary drives** and the
 sensations of pleasure associated with them. These secondary drives develop
 because the only emotional expressions that can get through a person's
@@ -261,7 +261,7 @@ future fate of the child depends on it. It seems to be the core of the new-
 born infant's emotional development."_ [**Children of the Future**, p. 99] It
 is important for the father to establish orgonotic contact as well.
 
-Reich amaintained that the practice of bottle feeding is harmful, particularly
+Reich maintained that the practice of bottle feeding is harmful, particularly
 if it completely replaces breast feeding from the day of birth, because it
 eliminates one of the most important forms of establishing physical and
 emotional contact between mother and child. This lack of contact can then
@@ -329,13 +329,13 @@ he began to crawl and perform on the floor, words like **naughty** and
 **dirty** began to float about the house, and a grim beginning was made in
 teaching him to be clean._
 
-> _ "Before this, his hand had been taken away every time it touched his
+> _"Before this, his hand had been taken away every time it touched his
 genitals; and he soon came to associate the genital prohibition with the
 acquired disgust about faeces. Thus, years later, when he became a travelling
 salesman, his story repertoire consisted of a balanced number of sex and
 toilet jokes._
 
-> _ "Much of his training was conditioned by relatives and neighbours. Mother
+> _"Much of his training was conditioned by relatives and neighbours. Mother
 and father were most anxious to be correct -- to do the proper thing -- so
 that when relatives or next-door neighbours came, John had to show himself as
 a well-trained child. He had to say **Thank you** when Auntie gave him a piece
@@ -486,7 +486,7 @@ Once again, the answer lies in the idea of trusting nature. The concept of
 mature, but not before. This means that normal children will "steal" -- though
 that is not how they regard it. They are simply trying to satisfy their
 acquisitive impulses; or, if they are with friends, their desire for
-adventure. In a society so thoroughly steeping in the idea of respect for
+adventure. In a society so thoroughly steeped in the idea of respect for
 property as ours, it is no doubt difficult for parents to resist societal
 pressure to punish children for "stealing." The reward for such trust,
 however, will be a child who grows into a healthy adolescent who respects the
@@ -507,7 +507,8 @@ original sin. In fact, it would be more accurate to say that there is
 "original virtue." Wilhelm Reich found that externally imposed, compulsive
 morality actually **causes** immoral behaviour by creating cruel and perverse
 _"secondary drives."_ Neill put it this way: _"I find that when I smash the
-moral instruction a bad boy has received, he becomes a good boy."_ [, p. 250]
+moral instruction a bad boy has received, he becomes a good boy."_ [**Op.
+Cit.**, p. 250]
 
 Unconscious acceptance of some form of the idea of original sin is the main
 recruiting tool of organised religions, as people who believe they are born
@@ -883,7 +884,7 @@ can be seen from experience of this anarchist activist during the 1930s:
 
 > _"One time, a companero from the Juventudes [libertarian youth organisation]
 came over to me and said, 'You, who say you're so liberated. You're not so
-liberated.' (I'm telling you this so youll see the mentality of these men.)
+liberated.' (I'm telling you this so you’ll see the mentality of these men.)
 'Because if I ask you to give me a kiss, you wouldn't._
 
 > _"I just stood there staring at him, and thinking to myself, 'How do I get
@@ -900,7 +901,7 @@ him.'_
 
 > _"He was left speechless! But I did it with a dual purpose in mind...
 because I wanted to show him that that's not the way to educate companeros...
-That's what the struggle of women was like in Spain \-- even with men from our
+That's what the struggle of women was like in Spain -- even with men from our
 own group -- and I'm not even talking about what it was like with other
 guys."_ [quoted by Martha A. Ackelsberg, **Free Women of Spain**, pp. 116-7]
 
@@ -949,10 +950,10 @@ are a "diversion from the class struggle." Such an attitude is economistic
 (not to mention covertly ascetic), because it is based on the premise that
 economic class must be the focus of all revolutionary efforts toward social
 change. No doubt transforming the economy is important, but without mass
-sexual liberation no working class revolution be complete as there will not be
-enough people around with the character structures necessary to create a
-**lasting** self-managed society and economy (i.e., people who are capable of
-accepting freedom with responsibility). Instead, the attempt to force the
+sexual liberation no working class revolution can be complete as there will
+not be enough people around with the character structures necessary to create
+a **lasting** self-managed society and economy (i.e., people who are capable
+of accepting freedom with responsibility). Instead, the attempt to force the
 creation of such a system without preparing the necessary psychological soil
 for its growth will lead to a reversion to some new form of hierarchy and
 exploitation. Equally, society would be "free" in name only if repressive
@@ -968,18 +969,18 @@ and problems must be integrated into a multi-faceted attack on the total
 system of domination. People should feel confident that anarchists are on the
 side of sexual pleasure and are not revolutionary ascetics demanding self-
 denial for the "sake of the revolution." Rather, it should be stressed that
-the capacity for full sexual enjoyment is the an essential part of the
-revolution. Indeed, _"incessant questioning and challenge to authority on the
-subject of sex and of the compulsive family can only complement the
-questioning and challenge to authority in other areas (for instance on the
-subject of who is to dominate the work process -- or the purpose of work
-itself). Both challenges stress the autonomy of individuals and their
-domination over important aspects of their lives. Both expose the alienated
-concepts which pass for rationality and which govern so much of our thinking
-and behaviour. The task of the conscious revolutionary is to make both
-challenges explicit, to point out their deeply subversive content, and to
-explain their inter-relation."_ [Maurice Brinton, _"The Irrational in
-Politics"_, pp. 257-92, **For Workers' Power**, p. 278]
+the capacity for full sexual enjoyment is an essential part of the revolution.
+Indeed, _"incessant questioning and challenge to authority on the subject of
+sex and of the compulsive family can only complement the questioning and
+challenge to authority in other areas (for instance on the subject of who is
+to dominate the work process -- or the purpose of work itself). Both
+challenges stress the autonomy of individuals and their domination over
+important aspects of their lives. Both expose the alienated concepts which
+pass for rationality and which govern so much of our thinking and behaviour.
+The task of the conscious revolutionary is to make both challenges explicit,
+to point out their deeply subversive content, and to explain their inter-
+relation."_ [Maurice Brinton, _"The Irrational in Politics"_, pp. 257-92,
+**For Workers' Power**, p. 278]
 
 We noted previously that in pre-patriarchal society, which rests on a
 communistic/communal social order, children have complete sexual freedom and
@@ -1006,12 +1007,12 @@ gradually solve the problems facing their private lives, they will work on
 other social projects with greatly increased pleasure and concentration.
 
 Besides engaging in direct action, anarchists can also support legal
-protection free expression and sexuality (repeal of the insane statutory rape
-laws and equal rights for gays, for example), just as they support legislation
-that protects workers' right to strike, family leave, and so forth. However,
-as Reich observed, _"under no circumstances will the new order of sexual life
-be established by the decree of a central authority."_ [**The Sexual
-Revolution**, p. 279] That was a Leninist illusion. Rather, it will be
+protection for free expression and sexuality (repeal of the insane statutory
+rape laws and equal rights for gays, for example), just as they support
+legislation that protects workers' right to strike, family leave, and so
+forth. However, as Reich observed, _"under no circumstances will the new order
+of sexual life be established by the decree of a central authority."_ [**The
+Sexual Revolution**, p. 279] That was a Leninist illusion. Rather, it will be
 established from the bottom up, by the gradual process of ever more widespread
 dissemination of knowledge about the adverse personal and social effects of
 sexual repression, and the benefits of libertarian child-rearing and
@@ -1048,12 +1049,17 @@ As such, the issue of sexual freedom is as important as economic and social
 freedom for anarchists. This can be seen when Emma Goldman recounted meeting
 Kropotkin who praised a paper she was involved with but proclaimed _"it would
 do more if it would not waste so much space discussing sex."_ She disagreed
-and a heated argument ensured about _"the place of the sex problem in
-anarchist propaganda."_ Finally, she remarked _"All right, dear comrade, when
-I have reached your age, the sex question may no longer be of importance to
-me. But it is now, and it is a tremendous factor for thousands, millions even,
-of young people."_ This, Goldman recalled, made Kropotkin stop short with _"an
+and a heated argument ensued about _"the place of the sex problem in anarchist
+propaganda."_ Finally, she remarked _"All right, dear comrade, when I have
+reached your age, the sex question may no longer be of importance to me. But
+it is now, and it is a tremendous factor for thousands, millions even, of
+young people."_ This, Goldman recalled, made Kropotkin stop short with _"an
 amused smile lighting up his kindly face. 'Fancy, I didn't think of that,' he
 replied. 'Perhaps you are right, after all.' He beamed affectionately upon me,
 with a humorous twinkle in his eye."_ [**Living My Life**, vol. 1, p. 253]
+
+[‹ J.5 What alternative social organisations do anarchists
+create?](/afaq/secJ5.html "Go to previous page" ) [up](/afaq/secJcon.html "Go
+to parent page" ) [J.7 What do anarchists mean by "social revolution"?
+›](/afaq/secJ7.html "Go to next page" )
 

@@ -76,7 +76,8 @@ Now Mitchinson launches into his first strawman of his essay. He asserts:
 > _"However, the idea of getting involved in a political organisation is a
 turn off for many, who understandably want to do something, and do something
 now. In reality, the attempt to juxtapose organisation, discussion, and debate
-with 'direct action' is pure sophistry."_
+with 'direct action' is pure sophistry."  
+>  _
 
 We are not aware of any anarchist or direct action group which does not
 discuss and debate their actions, the rationale of their actions and the aims
@@ -125,7 +126,8 @@ be taken, when and where? There can be no greater direct action than the
 seizing of control over our own lives by the vast majority of society. In that
 act lies the essence of revolution. Not just an aimless 'direct action' but
 mass, democratic and conscious action, the struggle not just against
-capitalism, but for a new form of society, socialism."_
+capitalism, but for a new form of society, socialism."  
+>  _
 
 Again Mitchinson presents us with the strawman of _"conscious"_ action verses
 _"aimless"_ action. As noted above, the anti-capitalist demonstrations
@@ -147,11 +149,12 @@ secure changes, reforms apparently are a waste of time. No, simply by
 participating in what they call the 'carnival' we become better people, and
 eventually more and more people will participate, until a critical mass is
 reached and we all ignore capitalism, don't pay our bills, until they go away.
-What an infantile flight of fancy!"_
+What an infantile flight of fancy!"  
+>  _
 
 Yes, indeed, what an infantile flight of fancy! However, the flight is purely
 Mitchinson's. No one in RTS (or any other anarchist) makes such a claim. Yes,
-RTS urged people to take part in a carnival \-- as they argue, _"[m]any of the
+RTS urged people to take part in a carnival -- as they argue, _"[m]any of the
 great moments of revolutionary history were carnivalesque . . . But we are not
 waiting for these moments of carnivalesque revolution, we are trying to merge
 them into every moment of everyday life. We cannot live on one-off days, a
@@ -170,7 +173,7 @@ but pulsating with the celebration of renewal and fresh hope that returns with
 the coming of summer. Mayday will always be a pivotal moment."_ [**Maybe**, p.
 5]
 
-**Maybe** is clear -- we need to organise the daily struggle and enjoy ourselves while we are at it. Mitchinson' distortion of that message is pitiful. 
+**Maybe** is clear -- we need to organise the daily struggle and enjoy ourselves while we are at it. Mitchinson' distortion of that message is pitiful.
 
 ## 4\. Do anarchists really think _"the bosses will do nothing to defend their
 system"_?
@@ -182,7 +185,8 @@ However, the way to hell is paved with many such good intentions. Are we
 really to believe that whilst we all 'place ourselves outside of capitalism',
 the bosses will do nothing to defend their system? This ostrich like tactic of
 burying our heads in the sand until they go away is not serious. Nor is it
-action. In reality, it is irresponsible, indirect inaction."_
+action. In reality, it is irresponsible, indirect inaction."  
+>  _
 
 The comment about _"indirect inaction"_ is somewhat funny coming from a
 political tendency which did not produce a movement of the importance of
@@ -223,8 +227,8 @@ enemies and expecting them not to point our your errors.
 Mitchinson now moves onto the real enemy, anarchism. He asserts that:
 
 > _"Anarchist organisations have always hidden behind a facade of 'self-
-organisation'. They claim to have no leaders, no policy etc. Yet who
-decides?"_
+organisation'. They claim to have no leaders, no policy etc. Yet who decides?"  
+>  _
 
 Yes, anarchist groups claim to have no leaders but they do not claim to be
 without policies. Anyone with any comprehension of anarchist theory and
@@ -244,7 +248,7 @@ he now asks how the vast majority of society can seize control over our own
 lives without leaders to tell us what to do!
 
 Anarchists reject the idea of leaders -- instead we argue for the
-_**"leadership of ideas."_** As we discuss this concept in [section
+_**"leadership of ideas."**_ As we discuss this concept in [section
 J.3.6](secJ3.html#secj36) and so will not do so here. However, the key concept
 is that anarchists seek to spread their ideas by discussing their politics
 **as equals** in popular organisations and convincing the mass assemblies of
@@ -286,7 +290,8 @@ any kind. The recent demonstrations have been highly organised and co-
 ordinated on an international scale. Good, so it should be. However, without
 organisation and democracy no-one, except a clique at the top, has any say in
 why, where and when. Such a movement will never bring international capital
-trembling to its knees."_
+trembling to its knees."  
+>  _
 
 Firstly, we must point out that these demonstrations which have spread like
 wild-fire across the world have, most definitely, made international capital
@@ -317,8 +322,9 @@ organisation:
 save the game away in their spoof Mayday publication, 'Maybe'. Incidentally,
 who wrote these articles, who decided what went in and what didn't, who edited
 it, where did the money come from? Our intention here is not to accuse them of
-dodgy financing \- simply to point out that this 'no leaders' stuff is a self-
-organised myth."_
+dodgy financing - simply to point out that this 'no leaders' stuff is a self-
+organised myth."  
+>  _
 
 It states who put together **MayDay** on page 5 of the paper. It was _"an
 organic group of 'guerrilla gardeners'"_ \-- in other words, members of
@@ -340,11 +346,11 @@ He continues to attack what he cannot understand:
 spontaneous and self-organised. We have no leaders, no committee, no board of
 directors, no spokes people. There is no centralised unit for decision making,
 strategic planning and production of ideology. There is no membership and no
-formalised commitment. There is no master plan and no pre-defined agenda.'
+formalised commitment. There is no master plan and no pre-defined agenda.' _
 
 >
 
-> "There are two problems here. Firstly who is 'we', who made the above
+> _"There are two problems here. Firstly who is 'we', who made the above
 statement, and who decided it. Secondly, if it were true, it would not be
 something of which to be proud. Whether you like it or not, there is no way
 the capitalist system will ever be overthrown by such a haphazard and slipshod
@@ -405,7 +411,8 @@ He then asserts:
 > _"There is no theory, no coherent analysis of society, no alternative
 programme. To brag of a lack of direction, a lack of purpose and a lack of
 coherence, in the face of such a highly organised and brutal enemy as
-international capital, is surely the height of irresponsibility."_
+international capital, is surely the height of irresponsibility."  
+>  _
 
 Firstly, anyone reading **Maybe** or other RTS publications will quickly see
 there is theory, coherent analysis and an alternative vision. As Mitchinson
@@ -439,7 +446,8 @@ Greek word 'anarchos' meaning 'without government'. To anarchists the state -
 the institutions of government, the army, police, courts etc. - is the root
 cause of all that is wrong in the world. It must be destroyed and replaced not
 with any new form of government, but the immediate introduction of a stateless
-society."_
+society."  
+>  _
 
 Firstly, _"anarchos"_ actually means _"without authority,"_ or _"contrary to
 authority"_ (as Kropotkin put it). It does **not** mean "without government"
@@ -489,7 +497,8 @@ After asserting the usual Marxist falsehoods about anarchism, he moves on:
 > _"This opposition to the state and authority leads to a rejection of
 participation in any form of parliamentary activity, belonging to a political
 party or fighting for any reforms, that is political change through the
-state."_
+state."  
+>  _
 
 Again Mitchinson smuggles in a falsehood into his "analysis." Anarchists do
 not reject _"fighting for any reforms"_ \-- far from it. We do reject
@@ -547,7 +556,8 @@ obviously, during the revolution?
 Mitchinson moves on to assert that:
 
 > _"Since anarchism sees in the state the root of all problems, it therefore
-believes these problems will be resolved by the destruction of the state."_
+believes these problems will be resolved by the destruction of the state."  
+>  _
 
 As noted above, anarchists do **not** see in the state the root of all
 problems. We do urge the destruction of the state but that is because the
@@ -567,7 +577,8 @@ who own the means of producing wealth, and the majority of us whose labour is
 the source of that wealth, as the crux of the matter. It is this class
 division of society which gives rise to the state - because the minority need
 a special force to maintain their rule over the majority - which has evolved
-over thousands of years into the complicated structures we see today."_
+over thousands of years into the complicated structures we see today."  
+>  _
 
 Anarchists would agree, as far as this goes. Bakunin argued that the State
 _"is authority, domination, and forced, organised by the property-owning and
@@ -682,7 +693,8 @@ barbarism"_ actually undermine his case?
 Mitchinson continues:
 
 > _"As Marx once explained the choice before us is not socialism or the status
-quo, but socialism or barbarism."_
+quo, but socialism or barbarism."  
+>  _
 
 We should point out that it Rosa Luxemburg who is usually associated with this
 quote. She made her famous comment during the First World War. The start of
@@ -856,7 +868,8 @@ Mitchinson continues:
 experience of the Paris Commune of 1871 Marx and Engels concluded that it
 would not be possible for the workers to simply use the old state apparatus,
 they would instead have to replace it with an entirely new one, to serve the
-interests of the majority and lay the basis for a socialist society."_
+interests of the majority and lay the basis for a socialist society."  
+>  _
 
 Needless to say, he forgets the **key** question -- **who** is to seize power.
 Is it the majority, directly, or a minority (the leaders of a party) who claim
@@ -890,7 +903,8 @@ for the election of all officials who should be held accountable and subject
 to recall, and paid no more than the wage of a skilled worker. All
 bureaucratic tasks should be rotated. There should be no special armed force
 standing apart from the people, and we would add, all political parties except
-fascists should be allowed to organise."_
+fascists should be allowed to organise."  
+>  _
 
 This is what Lenin, essentially, said he desired in **The State and
 Revolution** (Mitchinson misses out one key aspect, to which we will return
@@ -1088,18 +1102,18 @@ As Malatesta makes clear, this is pure sophistry:
 
 > _"Whoever has power over things has power over men; whoever governs
 production also governs the producers; who determines consumption is master
-over the consumer.
+over the consumer. _
 
 >
 
-> "This is the question; either things are administered on the basis of free
+> _"This is the question; either things are administered on the basis of free
 agreement of the interested parties, and this is anarchy; or they are
 administered according to laws made by administrators and this is government,
-it is the State, and inevitably it turns out to be tyrannical.
+it is the State, and inevitably it turns out to be tyrannical. _
 
 >
 
-> "It is not a question of the good intentions or the good will of this or
+> _"It is not a question of the good intentions or the good will of this or
 that man, but of the inevitability of the situation, and of the tendencies
 which man generally develops in given circumstances."_ [**Life and Ideas**, p.
 145]
@@ -1113,11 +1127,11 @@ necessity for state power arises from an insufficient cultural level of the
 masses and their heterogeneity. In the revolutionary vanguard, organised in a
 party, is crystallised the aspirations of the masses to obtain their freedom.
 Without the confidence of the class in the vanguard, without support of the
-vanguard by the class, there can be no talk of the conquest of power.
+vanguard by the class, there can be no talk of the conquest of power. _
 
 >
 
-> "In this sense the proletarian revolution and dictatorship are the work of
+> _"In this sense the proletarian revolution and dictatorship are the work of
 the whole class, but only under the leadership of the vanguard."_ [**Stalinism
 and Bolshevism**]
 
@@ -1179,7 +1193,7 @@ in 1937) when he argued that:
 > _"Those who propose the abstraction of Soviets to the party dictatorship
 should understand that only thanks to the party dictatorship were the Soviets
 able to lift themselves out of the mud of reformism and attain the state form
-of the proletariat."_ [Trotsky, **Op. Cit.**, p. 18]
+of the proletariat."_ [Trotsky, **Stalinism and Bolshevism**]
 
 And, obviously, without party dictatorship the soviets would return to the
 _"mud."_ In other words, the soviets are only important to attain party rule
@@ -1341,7 +1355,8 @@ only come into being through the spontaneous action of the proletariat
 itself...no political organisation can be anything but the organisation of
 rule in the interests of a class and to the detriment of the masses...the
 proletariat, should it seize power, would become a ruling, and exploiting,
-class...'"_
+class...'"  
+>  _
 
 To understand this passage it is necessary to place it in historical context.
 In 1872, the proletariat was a **minority** class within all nations **bar**
@@ -1364,22 +1379,22 @@ entire proletariat head the government? The Germans number about 40 million.
 Will all 40 million be members of the government? The entire nation will rule,
 but no one would be ruled. Then there will be no government, there will be no
 state; but if there is a state, there will also be those who are ruled, there
-will be slaves.
+will be slaves. _
 
 >
 
-> "In the Marxists' theory this dilemma is resolved in a simple fashion. By
+> _"In the Marxists' theory this dilemma is resolved in a simple fashion. By
 popular government they mean government of the people by a small number of
 representatives elected by the people. So-called popular representatives and
 rulers of the state elected by the entire nation on the basis of universal
 suffrage -- the last word of the Marxists, as well as the democratic school --
 is a lie behind which the despotism of a ruling minority is concealed, a lie
 all the more dangerous in that it represents itself as the expression of a
-sham popular will.
+sham popular will. _
 
 >
 
-> "So . . . it always comes down to the same dismal result: government of the
+> _"So . . . it always comes down to the same dismal result: government of the
 vast majority of the people by a privileged minority. But this minority, the
 Marxists say, will consist of workers. Yes, perhaps, of **former** workers,
 who, as soon as they become rulers or representatives of the people will cease
@@ -1423,10 +1438,11 @@ class. Dictatorship of a class cannot exist as such, for it ends up, in the
 last analysis, as being the dictatorship of a given party which arrogates to
 itself the right to speak for that class. Thus, the liberal bourgeoisie, in
 their fight against despotism, used to speak in the name of the 'people'. . .
+_
 
 >
 
-> "We already know that a revolution cannot be made with rosewater. And we
+> _"We already know that a revolution cannot be made with rosewater. And we
 know, too, that the owning classes will never yield up their privileges
 spontaneously. On the day of victorious revolution the workers will have to
 impose their will on the present owners of the soil, of the subsoil and of the
@@ -1436,11 +1452,11 @@ above all, without their having demolished the authoritarian structure which
 is, and will continue to be, the fortress keeping the masses of the people
 under dominion. Such an action is, without doubt, an act of liberation; a
 proclamation of social justice; the very essence of social revolution, which
-has nothing in common with the utterly bourgeois principle of dictatorship.
+has nothing in common with the utterly bourgeois principle of dictatorship. _
 
 >
 
-> "The fact that a large number of socialist parties have rallied to the idea
+> _"The fact that a large number of socialist parties have rallied to the idea
 of councils, which is the proper mark of libertarian socialist and
 revolutionary syndicalists, is a confession, recognition that the tack they
 have taken up until now has been the product of a falsification, a distortion,
@@ -1454,11 +1470,11 @@ a threat to the further development of the councils. These alien elements are
 able only to conceive things from the dictatorial viewpoint. It must be our
 task to face up to this risk and warn our class comrades against experiments
 which cannot bring the dawn of social emancipation any nearer -- which indeed,
-to the contrary, positively postpone it.
+to the contrary, positively postpone it. _
 
 >
 
-> "Consequently, our advice is as follows: Everything for the councils or
+> _"Consequently, our advice is as follows: Everything for the councils or
 soviets! No power above them! A slogan which at the same time will be that of
 the social revolutionary."_ [**Anarchism and Sovietism**]
 
@@ -1469,6 +1485,8 @@ exercise directly, without intermediary of any committee or government."_
 words, a situation in which the working masses defend their freedom, their
 control over their own lives, from those who seek to replace it with minority
 rule.
+
+
 
 ## 15\. What caused the degeneration of the Russian Revolution?
 
@@ -1630,30 +1648,32 @@ population. . . One of the reasons for the execution of Grigoriev by the
 Makhnovists was his anti-Semitism and the immense pogrom he organised at
 Elizabethgrad. . . We could cite a whole series of similar facts, but we do
 not find it necessary . . . and will content ourselves with mentioning briefly
-the following essential facts:
+the following essential facts: _
 
 >
 
-> "1. A fairly important part in the Makhnovist movement was played by
-revolutionists of Jewish origin.
+> _"1. A fairly important part in the Makhnovist movement was played by
+revolutionists of Jewish origin. _
 
 >
 
-> "2. Several members of the Education and Propaganda Commission were Jewish.
+> _"2. Several members of the Education and Propaganda Commission were Jewish.
+_
 
 >
 
-> "3. Besides many Jewish combatants in various units of the army, there was a
-battery composed entirely of Jewish artillery men and a Jewish infantry unit.
+> _"3. Besides many Jewish combatants in various units of the army, there was
+a battery composed entirely of Jewish artillery men and a Jewish infantry
+unit. _
 
 >
 
-> "4. Jewish colonies in the Ukraine furnished many volunteers to the
-Insurrectionary Army.
+> _"4. Jewish colonies in the Ukraine furnished many volunteers to the
+Insurrectionary Army. _
 
 >
 
-> "5. In general the Jewish population . . . took an active part in all the
+> _"5. In general the Jewish population . . . took an active part in all the
 activities of the movement. The Jewish agricultural colonies . . .
 participated in the regional assemblies of workers, peasants and partisans;
 they sent their delegates to the regional Revolutionary Military Council. .
@@ -1687,7 +1707,8 @@ seriously.
 Mitchinson continues by stating:
 
 > _"The position of anarchism only serves to endorse the bourgeois slander
-that Stalinism was inherent in Bolshevism."_
+that Stalinism was inherent in Bolshevism."  
+>  _
 
 This appeal against slander is ironic from someone who writes an article full
 of it. But, of course, it is **bourgeois** slander that he objects too --
@@ -1737,6 +1758,8 @@ bureaucratic nature of the unions when their own papers do the same?
 While it may be in the interests of the ruling elite and its apologists to
 scream about _"bourgeois slanders"_, it hinders the process of working class
 self-emancipation to do so. As intended, in all likelihood.
+
+
 
 ## 16\. Did anarchists reject _"the need for organisation in the shape of
 trade unions"_?
@@ -1804,14 +1827,14 @@ social revolution . . . the International will give labour unrest in all
 countries an **essentially economic** character, with the aim of reducing
 working hours and increasing salary, by means of the **association of the
 working masses** . . . It will [also] propagandise its principles . . . [**Op.
-Cit.**, p. 109]
+Cit.**, p. 109] _
 
 >
 
-> "And indeed, as soon as a worker believes that the economic state of affairs
-can be radically transformed in the near future, he begins to fight, in
-association with his comrades, for the reduction of his working hours and for
-an increase in his salary. . . through practice and action . . . the
+> _"And indeed, as soon as a worker believes that the economic state of
+affairs can be radically transformed in the near future, he begins to fight,
+in association with his comrades, for the reduction of his working hours and
+for an increase in his salary. . . through practice and action . . . the
 progressive expansion and development of the economic struggle will bring him
 more and more to recognise his true enemies: the privileged classes, including
 the clergy, the bourgeois, and the nobility; and the State, which exists only
@@ -1841,17 +1864,19 @@ So much for Bakunin or the libertarian wing of the First International being
 against reforms or the struggle for reforms. Anarchists have not changed their
 minds on this issue.
 
+
+
 ## 17\. Why do anarchists reject political activity?
 
 After spreading falsehoods against Bakunin, Mitchinson states that:
 
 > _"Marxism fights for the conquest of political power by the working class
 and the building of a socialist society, under which the state will wither
-away.
+away. _
 
 >
 
-> "Until then should workers refrain from political activity? Should they
+> _"Until then should workers refrain from political activity? Should they
 reject all reforms that might improve their existence? Nothing would please
 Blair or the bosses more."_
 
@@ -1946,6 +1971,8 @@ and activities they are part of are reformist through and through. The tactics
 such ideas -- as Bakunin and other anarchists predicted. Mitchinson's politics
 cannot explain why this occurs, which explains why Lenin was so surprised when
 German Social Democracy supported its ruling class during the First World War.
+
+
 
 ## 18\. How do anarchists struggle for reforms under capitalism?
 
@@ -2066,7 +2093,8 @@ Environment**, p. 103]
 Mitchinson seems to agree:
 
 > _"However, under pressure from below it is possible to introduce reforms
-through parliament that are in the interests of ordinary people."_
+through parliament that are in the interests of ordinary people."  
+>  _
 
 Thus reforms **are** possible, but only if we rely on ourselves, organise
 pressure from below and use direct action to force parliament to act (if that
@@ -2118,6 +2146,8 @@ has been proven time and time again to be a false way for radical change -- it
 only ends up turning radicals into supporters of the status quo. It makes as
 much sense as arguing that any and every avenue must be used to cure a
 disease, including those which give you a new disease in its place.
+
+
 
 ## 19\. How does Mitchinson distorts the use of the term _"Self-reliance"_?
 
@@ -2189,13 +2219,16 @@ self-reliance is an evil thing which must be combated. Hence Mitchinson's
 diatribe -- it is the cry of the would-be leader who is afraid his followers
 will not respect his authority.
 
+
+
 ## 20\. Is anarchism an example of _"Philosophical idealism"_?
 
 He turns to the May Day demonstration:
 
 > _"Guerrilla gardening and its related varieties that have sprung up in
 various places, is nothing more than an offshoot of the old utopian idea of
-changing society by example."_
+changing society by example."  
+>  _
 
 Actually, it was a specific demonstration to encourage people to get involved
 in collective action, to have a good time and challenge authority and the
@@ -2277,6 +2310,8 @@ ideas in the class struggle but we also realise that the ideas people have
 change as a result of that struggle. To state otherwise is to misrepresent
 anarchist thought.
 
+
+
 ## 21\. How is Mitchinson's critique self-contradictory?
 
 He continues his distortion:
@@ -2319,6 +2354,8 @@ of anarchism is little more than an inconsistent collection of lies,
 distortion and misrepresentation. Mitchinson not only contradicts his
 ideological gurus, he even contradicts himself! That is truly impressive.
 
+
+
 ## 22\. How did Trotsky make the trains run on time?
 
 Mitchinson asks:
@@ -2343,12 +2380,12 @@ workers' self-management. Anyone with even a basic understanding of anarchist
 theory would know that. Moreover, the experience of workers' self-management
 of the railways by the anarchist union the CNT during the Spanish Revolution
 indicates that such anarchism can, and does, ensure that the trains run on
-time In contrast, the experience of Russia \-- when the Bolsheviks did create
-a _"central apparatus"_ \-- proved a total failure. It is quite appropriate
-that Mitchinson uses the _"trains running on time"_ example, after all it is
-what apologists for Italian fascism praised Mussolini for! This is because
-Trotsky (when he ran the railways) did so in a way that Mussolini would have
-been proud of -- he subjected the railway workers to military discipline:
+time In contrast, the experience of Russia -- when the Bolsheviks did create a
+_"central apparatus"_ \-- proved a total failure. It is quite appropriate that
+Mitchinson uses the _"trains running on time"_ example, after all it is what
+apologists for Italian fascism praised Mussolini for! This is because Trotsky
+(when he ran the railways) did so in a way that Mussolini would have been
+proud of -- he subjected the railway workers to military discipline:
 
 > _"Due to the Civil War -- and to other factors less often mentioned, such as
 the attitude of the railway workers to the 'new' regime -- the Russian
@@ -2371,20 +2408,20 @@ terms of necessary evils resulting from appalling objective conditions. Rather
 he saw it as a matter of _"principle"_:
 
 > _"The working class cannot be left wandering all over Russia. They must be
-thrown here and there, appointed, commanded, just like soldiers."
+thrown here and there, appointed, commanded, just like soldiers." _
 
 >
 
-> "The very principle of compulsory labour is for the Communist quite
+> _"The very principle of compulsory labour is for the Communist quite
 unquestionable . . . the only solution to economic difficulties from the point
 of view of both principle and of practice is to treat the population of the
 whole country as the reservoir of the necessary labour power . . . and to
 introduce strict order into the work of its registration, mobilisation and
-utilisation."
+utilisation." _
 
 >
 
-> "The introduction of compulsory labour service is unthinkable without the
+> _"The introduction of compulsory labour service is unthinkable without the
 application . . . of the methods of militarisation of labour."_ [quoted by M.
 Brinton, **Op. Cit.**, p. 61 and p. 66]
 
@@ -2399,6 +2436,8 @@ not handle the information a centralised distribution system required. Food
 rotted in trains waiting for bureaucrats to _"channel"_ resources (and,
 needless to say, the bureaucrats never went hungry).
 
+
+
 ## 23\. Can centralised planning meet the needs of the whole of society?
 
 Our Marxist friend then quotes **Maybe**:
@@ -2408,7 +2447,8 @@ want to seize power but to dissolve it. They are dreaming up many autonomous
 alternative forms of social organisation, forms that are directly linked to
 the specific needs of locality. What might be an alternative to capitalism for
 people living currently in a housing estate in Croydon is completely different
-to what might be suitable for the inhabitants of the slums of Delhi."_
+to what might be suitable for the inhabitants of the slums of Delhi."  
+>  _
 
 He comments on these very sensible words:
 
@@ -2495,6 +2535,8 @@ clear, embrace it.
 Needless to say, Mitchinson's comments about carrots is pure stupidity and an
 insult to the intelligence of his audience.
 
+
+
 ## 24\. Is technology neutral?
 
 Mitchinson goes on:
@@ -2559,7 +2601,8 @@ force of lightning, untamed and anarchic under the market, yet organised into
 cables and wires electricity transforms our lives. Industry is not the enemy,
 nor are machines. The state is, but it is a symptom not the disease. It is
 capitalism and its ownership of the economy, its stewardship of society that
-we have to replace."_
+we have to replace."  
+>  _
 
 However, unlike electricity, _"economic power"_ requires people to operate it.
 The question is not whether _"machines"_ are the enemy (often they are, as
@@ -2573,6 +2616,8 @@ cannot comprehend an alternative to hierarchical organisation.
 Given that one of the things capitalism and the state have in common is a
 hierarchical, top-down structure, it is clear that any revolutionary movement
 must fight both -- at the same time.
+
+
 
 ## 25\. Do anarchists ignore the _"strength of the working class"_?
 
@@ -2626,6 +2671,8 @@ articles such as these, distorting the politics and activities of those who
 actually **are** changing the world rather than just interpreting it. That
 they cannot produce an honest critique of anarchism indicates the uselessness
 of their politics.
+
+
 
 ## 26\. What does Mitchinson's article tell about the nature of Trotskyism?
 
@@ -2689,4 +2736,9 @@ Thus we find his ending comment truly a _"flight of fancy"_ \-- after reading
 our comments above, we hope you agree with us. If you seek a **true**
 socialist transformation of this planet rather than its degeneration into
 centralised state capitalism, discover more about anarchism.
+
+[‹ Marxists and Spanish Anarchism](/afaq/append32.html "Go to previous page" )
+[up](/afaq/append3.html "Go to parent page" ) [Reply to errors and distortions
+in the SWP's "Marxism and Anarchism" ›](/afaq/append34.html "Go to next page"
+)
 

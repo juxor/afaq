@@ -422,7 +422,7 @@ point:
 
 > _ "The emphasis [right-wing] libertarians place on the opposition of liberty
 and political power tends to obscure the role of authority in their worldview
-. . . the authority exercised in private relationships, however \-- in the
+. . . the authority exercised in private relationships, however -- in the
 relationship between employer and employee, for instance -- meets with no
 objection. . . . [This] reveals a curious insensitivity to the use of private
 authority as a means of social control. Comparing public and private
@@ -535,4 +535,8 @@ concern for economic equality and social justice."_ As such,
 "anarcho"-capitalists, _"even if they do reject the State, might therefore
 best be called right-wing libertarians rather than anarchists."_ [**Demanding
 the Impossible**, p. 565]
+
+[‹ F.0 Section F Introduction](/afaq/secFint.html "Go to previous page" )
+[up](/afaq/secFcon.html "Go to parent page" ) [F.2 What do
+"anarcho"-capitalists mean by freedom? ›](/afaq/secF2.html "Go to next page" )
 

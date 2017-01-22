@@ -190,3 +190,8 @@ a social framework, one that allows each individual to take an active part in
 improving the quality of life for us all by removing "Hobson choices" as far
 as possible.
 
+[‹ B.4 How does capitalism affect liberty?](/afaq/secB4.html "Go to previous
+page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.6 But won't decisions
+made by individuals with their own money be the best? ›](/afaq/secB6.html "Go
+to next page" )
+

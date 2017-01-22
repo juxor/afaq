@@ -253,17 +253,18 @@ every sphere. It is obvious that this clear and specific stance has absolutely
 nothing to do with narrow nationalism of the 'separatist' variety which pits
 nation against nation and substitutes an artificial and harmful separation for
 the struggle to achieve a natural social union of toilers in one shared social
-communion.
+communion.  
+>  _
 
 >
 
-> "In our view, national aspirations of a natural, wholesome character
+> _"In our view, national aspirations of a natural, wholesome character
 (language, customs, culture, etc.) can achieve full and fruitful satisfaction
-only in the union of nationalities rather than in their antagonism . . .
+only in the union of nationalities rather than in their antagonism . . . _
 
 >
 
-> "The speedy construction of a new life on [libertarian] socialist
+> _"The speedy construction of a new life on [libertarian] socialist
 foundations will ineluctably lead to development of the culture peculiar to
 each nationality. Whenever we Makhnovist insurgents speak of independence of
 the Ukraine, we ground it in the social and economic plane of the toilers. We
@@ -305,4 +306,8 @@ historic. For us Poland only begins, only truly exists there where the
 labouring masses are and want to be Polish, it ends where, renouncing all
 particular links with Poland, the masses wish to establish other national
 links."_ [quoted by Jean Caroline Cahm, **Op. Cit.**, p. 43]
+
+[‹ D.6 Are anarchists against Nationalism?](/afaq/secD6.html "Go to previous
+page" ) [up](/afaq/secDcon.html "Go to parent page" ) [D.8 What causes
+militarism and what are its effects? ›](/afaq/secD8.html "Go to next page" )
 

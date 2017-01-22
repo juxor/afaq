@@ -162,3 +162,8 @@ involved may change over time, the economy as a whole will always be marked by
 Big Business due to the nature of capitalism. That's the way capitalism works
 -- profits for the few at the expense of the many.
 
+[‹ C.5 Why does Big Business get a bigger slice of profits?](/afaq/secC5.html
+"Go to previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.7
+What causes the capitalist business cycle? ›](/afaq/secC7.html "Go to next
+page" )
+

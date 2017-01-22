@@ -302,7 +302,7 @@ are unconvinced and agree with Bookchin when he noted that "cries against
 'technology' and 'industrial society' [are] two very safe, socially natural
 targets against which even the bourgeoisie can inveigh in Earth Day
 celebrations, as long as minimal attention is paid to the social relations in
-which the mechanisation of society is rooted."_ Instead, ecology needs _"a
+which the mechanisation of society is rooted." Instead, ecology needs _"a
 confrontational stance toward capitalism and hierarchical society"_ in order
 to be effective and fix the root causes of our problems. [**The Ecology of
 Freedom**, p. 54]
@@ -579,4 +579,8 @@ wisdom, cultural achievements, technological innovations, scientific
 knowledge, and innate creativity for its own benefit and for that of the
 natural world, all ecological problems will have their roots in social
 problems."_ [Bookchin, **Remaking Society**, p. 39]
+
+[‹ E.0 Section E Introduction](/afaq/secEint.html "Go to previous page" )
+[up](/afaq/secEcon.html "Go to parent page" ) [E.2 What do eco-anarchists
+propose instead of capitalism? ›](/afaq/secE2.html "Go to next page" )
 

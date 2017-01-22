@@ -113,11 +113,12 @@ clear:
 
 > _"either the workman. . . will be simply the employee of the proprietor-
 capitalist-promoter; or he will participate. . . [and] have a voice in the
-council, in a word he will become an associate.
+council, in a word he will become an associate.  
+>  _
 
 >
 
-> "In the first case the workman is subordinated, exploited: his permanent
+> _"In the first case the workman is subordinated, exploited: his permanent
 condition is one of obedience. . . In the second case he resumes his dignity
 as a man and citizen. . . he forms part of the producing organisation, of
 which he was before but the slave; as, in the town, he forms part of the
@@ -190,7 +191,7 @@ themselves (for example, bosses will use racism to divide and so rule their
 workers). From this it follows that abolishing one or some of these
 hierarchies, while desirable, would not be sufficient. Abolishing capitalism
 while maintaining the state would not lead to a free society (and vice versa)
-\-- if it were possible. As Murray Bookchin notes:
+-- if it were possible. As Murray Bookchin notes:
 
 > _"there can be a decidedly classless, even a non-exploitative society in the
 **economic** sense that still preserves hierarchical rule and domination in
@@ -341,7 +342,7 @@ human."_ While the _"rise of capitalism, with a law of life based on
 competition, capital accumulation, and limitless growth, brought these
 problems -- ecological and social -- to an acute point,"_ anarchists
 _"emphasise that major ecological problems have their roots in social problems
-\-- problems that go back to the very beginnings of patricentric culture
+-- problems that go back to the very beginnings of patricentric culture
 itself."_ [Murray Bookchin, **Remaking Society**, p. 72, p. 44, p. 72 and pp.
 154-5]
 
@@ -1133,7 +1134,7 @@ sexuality are experienced on many different levels, from extreme violence to
 less pay for doing the same work.
 
 Gays are not oppressed on a whim but because of the specific need of
-capitalism for the nuclear family. The nuclear family, as the primary \- and
+capitalism for the nuclear family. The nuclear family, as the primary - and
 inexpensive - creator of submissive people (growing up within the
 authoritarian family gets children used to, and "respectful" of, hierarchy and
 subordination - see [section B.1.5](secB1.html#secb15)) as well as provider
@@ -1181,7 +1182,7 @@ White workers especially appear to benefit economically from the **absence**
 of economic discrimination. . . both in the absolute level of their earnings
 **and** in relative equality among whites."_ [p. 413] In other words, the less
 wage discrimination there was against black workers, the better were the wages
-that white workers received.  
+that white workers received.
 
 (2) the more "non-white" people in the population of a given American State,
 the more inequality there was between whites. In other words, the existence of
@@ -1189,13 +1190,13 @@ a poor, oppressed group of workers reduced the wages of white workers,
 although it did not affect the earnings of non-working class whites very much
 (_"the greater the discrimination against [non-white] people, the greater the
 inequality among whites"_ [p. 410]). So white workers clearly lost
-economically from this discrimination.  
+economically from this discrimination.
 
 (3) He also found that _"the more intense racial discrimination is, the lower
 are the white earnings **because** of . . . [its effect on] working-class
 solidarity."_ [p. 412] In other words, racism economically disadvantages white
 workers because it undermines the solidarity between black and white workers
-and weakens trade union organisation.  
+and weakens trade union organisation.
 
 So overall, these white workers receive some apparent privileges from racism,
 but are in fact screwed by it. Thus racism and other forms of hierarchy
@@ -1334,11 +1335,12 @@ because the shifting of power and of wealth from the democratic gens [maternal
 clans] to the authoritarian family of the chief was mainly implemented with
 the help of the suppression of the sexual strivings of the people. It was in
 this way that sexual suppression became an essential factor in the division of
-society into classes.
+society into classes.  
+>  _
 
 >
 
-> "Marriage, and the lawful dowry it entailed, became the axis of the
+> _"Marriage, and the lawful dowry it entailed, became the axis of the
 transformation of the one organisation into the other. In view of the fact
 that the marriage tribute of the wife's gens to the man's family strengthened
 the male's, especially the chief's, position of power, the male members of the
@@ -1650,7 +1652,7 @@ J.4.2](secJ4.html#secj42)). Anarchists are not surprised for, as discussed in
 [section J.1](secJ1.html) and [J.2.1](secJ2.html#secj21), we have long
 recognised the liberating aspects of social struggle and the key role it plays
 in creating free people and the other preconditions for needed for an
-anarchist society (like the initial social structure \-- see [section
+anarchist society (like the initial social structure -- see [section
 I.2.3](secI2.html#seci23)).
 
 Needless to say, a hierarchical system like capitalism cannot survive with a
@@ -1825,4 +1827,8 @@ marginalised within them.
 Only in this way can the hold of these social diseases be weakened and a
 better, non-hierarchical system be created. An injury to one is an injury to
 all.
+
+[‹ B.0 Section B Introduction](/afaq/secBint.html "Go to previous page" )
+[up](/afaq/secBcon.html "Go to parent page" ) [B.2 Why are anarchists against
+the state? ›](/afaq/secB2.html "Go to next page" )
 

@@ -889,3 +889,8 @@ that laissez-faire capitalism meant _"the victory of the strong over the weak,
 of those who own property over those who own nothing."_ [quoted by Peter
 Marshall, **Demanding the Impossible**, p. 259]
 
+[‹ F.6 Is "anarcho"-capitalism against the state?](/afaq/secF6.html "Go to
+previous page" ) [up](/afaq/secFcon.html "Go to parent page" ) [F.8 What role
+did the state take in the creation of capitalism? ›](/afaq/secF8.html "Go to
+next page" )
+

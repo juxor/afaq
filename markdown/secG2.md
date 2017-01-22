@@ -1,16 +1,16 @@
 # G.2 Why do individualist anarchists reject social anarchism?
 
-As noted in the [last section](secG1.html), the individualist anarchists
-considered themselves as anti-capitalists and many called themselves
-mutualists and socialists. It may be objected that they opposed the more
-obviously socialist types of anarchism like communist-anarchism and, as a
-consequence, should be considered as supporters of capitalism. This is not the
-case as can be seen from **why** they rejected communist-anarchism. The key
-thing to remember is that capitalism does not equal the market. So while the
-individualist anarchists advocated a market economy, it _"is evident from
-their writings that they rejected both capitalism and communism -- as did
-Proudhon."_ [Brian Morris, _"Global Anti-Capitalism"_, pp. 170-6, **Anarchist
-Studies**, vol. 14, no. 2, p. 175]
+As noted in [section G.1](secG1.html), the individualist anarchists considered
+themselves as anti-capitalists and many called themselves mutualists and
+socialists. It may be objected that they opposed the more obviously socialist
+types of anarchism like communist-anarchism and, as a consequence, should be
+considered as supporters of capitalism. This is not the case as can be seen
+from **why** they rejected communist-anarchism. The key thing to remember is
+that capitalism does not equal the market. So while the individualist
+anarchists advocated a market economy, it _"is evident from their writings
+that they rejected both capitalism and communism -- as did Proudhon."_ [Brian
+Morris, _"Global Anti-Capitalism"_, pp. 170-6, **Anarchist Studies**, vol. 14,
+no. 2, p. 175]
 
 It should noted that while Tucker came to excommunicate non-individualist
 forms of anarchism from the movement, his initial comments on the likes of
@@ -31,7 +31,7 @@ summation of communist-anarchism leaves a lot to be desired. However, even
 after the break between individualist and communist anarchism in America,
 Tucker saw that both had things in common as both were socialists:
 
-> _ "To be sure, there is a certain and very sincere comradeship that must
+> _"To be sure, there is a certain and very sincere comradeship that must
 exist between all honest antagonists of the exploitation of labour, but the
 word comrade cannot gloss over the vital difference between so-called
 Communist-Anarchism and Anarchism proper."_ [**Liberty**, no. 172, p. 1]
@@ -70,7 +70,7 @@ succeed. Fourthly, that the communist-anarchists are determining how a free
 society would be organised which is authoritarian. Needless to say, communist-
 anarchists rejected these claims as being false and while we have already
 sketched these arguments, objections and replies in [section A.3.1
-](secA3.html#seca31) it is worthwhile to repeat (and expand on) them here as
+](secA3.html#seca31)it is worthwhile to repeat (and expand on) them here as
 these disagreements are sometimes highlighted by those who fail to stress what
 both schools have in common and, consequently, distort the debates and issues
 involved.
@@ -148,7 +148,7 @@ Which, incidentally, was **exactly** the same position as Tucker (see [section
 G.1.2](secG1.html#secg12)) and so Kropotkin's analysis of the land monopoly
 was identical:
 
-> _ "when we see a peasant who is in possession of just the amount of land he
+> _"when we see a peasant who is in possession of just the amount of land he
 can cultivate, we do not think it reasonable to turn him off his little farm.
 He exploits nobody, and nobody would have the right to interfere with his
 work. But if he possesses under the capitalist law more than he can cultivate
@@ -208,7 +208,7 @@ comment that _"some poor fellow"_ who _"has contrived to buy a house just
 large enough to hold his family"_ would not be expropriated by the commune
 (_"by all means let him stay there"_) while also asserting _"[w]ho, then, can
 appropriate for himself the tiniest plot of ground in such a city, without
-committing a flagrant injustice?"_ [**Conquest of Bread**, p. 90]
+committing a flagrant injustice?"_ [**Conquest of Bread**, pp. 95-6 and p. 90]
 
 Kropotkin's opposition to private appropriation of land can only be understood
 in context, namely from his discussion on the _"abolition of rent"_ and the
@@ -220,17 +220,20 @@ For the French anarchist, the land _"is limited in amount"_ and so _"it ought
 not to be appropriated"_ (_"let any living man dare change his right of
 territorial possession into the right of property, and I will declare war upon
 him, and wage it to the death!"_). This meant that _"the land is indispensable
-to our existence, \-- consequently a common thing, consequently insusceptible
+to our existence, -- consequently a common thing, consequently insusceptible
 of appropriation."_ Overall, _"labour has no inherent power to appropriate
-natural wealth."_ [**What is Property?**, p. 106, p. 107 and p. 116] Proudhon,
-it is well known, supported the use of land (and other resources) for personal
-use. How, then, can he argue that the _"land cannot be appropriated"_? Is
-Proudhon subject to the same contradiction as Kropotkin? Of course not, once
-we take into account the fundamental difference between private property and
-possession, appropriation and use which underlies both individualist **and**
-communist anarchism. As Malatesta argued:
+natural wealth."_ [**Property is Theft!**, p. 105 and p. 109] As we discuss in
+[section G.4.2](secG4.html#secg42), Proudhon extended this to workplaces as
+well.
 
-> _ "Communism is a free agreement: who doesn't accept it or maintain it
+Proudhon, it is well known, supported the use of land (and other resources)
+for personal use. How, then, can he argue that the _"land cannot be
+appropriated"_? Is Proudhon subject to the same contradiction as Kropotkin? Of
+course not, once we take into account the fundamental difference between
+private property and possession, appropriation and use which underlies both
+individualist **and** communist anarchism. As Malatesta argued:
+
+> _"Communism is a free agreement: who doesn't accept it or maintain it
 remains outside of it . . . Everyone has **the right to land, to the
 instruments of production** and all the advantages that human beings can enjoy
 in the state of civilisation that humanity has reached. If someone does not
@@ -239,7 +242,7 @@ their business. They and those of a like mind will come to an agreement . . .
 [They] will have **the same rights as the communists** over the natural wealth
 and accumulated products of previous generations . . . I have always spoken of
 free agreement, of free communism. How can there be liberty without a possible
-alternative?"_ [our emphasis, **At the caf**, pp. 69-70]
+alternative?"_ [our emphasis, **At the café**, pp. 69-70]
 
 Compare this to individualist anarchist Stephen Byington's comment that
 _"[t]hose who wish to unite in the communistic enjoyment of their labour will
@@ -267,7 +270,7 @@ the future outlook in this way."_ [**Anarchism: Its Philosophy and Scientific
 Basis**, p. 97, p. 99, p. 96 ,p. 174 and pp. 174-5] This did not exclude
 mutualism or individualist anarchism:
 
-> _ "Many expedients will be tried by which a just return may be awarded the
+> _"Many expedients will be tried by which a just return may be awarded the
 worker for his exertions. The time check or labour certificate, which will be
 honoured at the store-houses hour for hour, will no doubt have its day. But
 the elaborate and complicated system of book-keeping this would necessitate,
@@ -289,17 +292,17 @@ _"occupancy and use"_: _"The workshops will drop into the hands of the
 workers, the mines will fall to the miners, and the land and all other things
 will be controlled by those who posses and use them. There will be, there can
 then be no title to anything aside from its possession and use."_ The likes of
-Parsons supported communism was not because of an opposition between
-"communism" and "occupancy and use" but rather, like Kropotkin, because of
-_"the utter impossibility of awarding to each an exact return for the amount
-of labour performed will render absolute communism a necessity sooner or
-later."_ [**Op. Cit.**, p. 105 and p. 176] So while capitalism _"expropriates
-the masses for the benefit of the privileged class . . . socialism teaches how
-all may possess property . . . [and] establish a universal system of co-
-operation, and to render accessible to each and every member of the human
-family the achievements and benefits of civilisation which, under capitalism,
-are being monopolised by a privileged class."_ [August Spies, contained in
-Parsons, **Op. Cit.**, pp. 63-4]
+Parsons supported communism not because of an opposition between "communism"
+and "occupancy and use" but rather, like Kropotkin, because of _"the utter
+impossibility of awarding to each an exact return for the amount of labour
+performed will render absolute communism a necessity sooner or later."_ [**Op.
+Cit.**, p. 105 and p. 176] So while capitalism _"expropriates the masses for
+the benefit of the privileged class . . . socialism teaches how all may
+possess property . . . [and] establish a universal system of co-operation, and
+to render accessible to each and every member of the human family the
+achievements and benefits of civilisation which, under capitalism, are being
+monopolised by a privileged class."_ [August Spies, contained in Parsons,
+**Op. Cit.**, pp. 63-4]
 
 All of which indicates that Tucker did not really understand communist-
 anarchism when he argued that communism is _"the force which compels the
@@ -329,10 +332,10 @@ Kropotkin always explicitly denied, since the basis of his theory was the
 voluntary principle)."_ [Woodcock and Avakumovic, **Op. Cit.**, p. 280] To
 quote Kropotkin himself:
 
-> _ "when we see a Sheffield cutler, or a Leeds clothier working with their
-own tools or handloom, we see no use in taking the tools or the handloom to
-give to another worker. The clothier or cutler exploit nobody. But when we see
-a factory whose owners claim to keep to themselves the instruments of labour
+> _"when we see a Sheffield cutler, or a Leeds clothier working with their own
+tools or handloom, we see no use in taking the tools or the handloom to give
+to another worker. The clothier or cutler exploit nobody. But when we see a
+factory whose owners claim to keep to themselves the instruments of labour
 used by 1,400 girls, and consequently exact from the labour of these girls . .
 . profit . . . we consider that the people . . . are fully entitled to take
 possession of that factory and to let the girls produce . . . for themselves
@@ -361,7 +364,7 @@ oppose private property but support possession (we return to this issue in
 
 ## G.2.2 Is communist-anarchism violent?
 
-Having shown that communist-anarchist is a valid form of anarchism even in
+Having shown that communist-anarchism is a valid form of anarchism even in
 terms of individualist anarchism in the [last section](secG2.html#secg22), it
 is now necessary to discuss the issue of methods, i.e., the question of
 revolution and violence. This is related to the first objection, with Tucker
@@ -396,7 +399,7 @@ the future and fuelled the hatreds and passions without which the Haymarket
 tragedy would not have occurred."_ [Paul Avrich, **The Haymarket Tragedy**, p.
 33 and p. 35]
 
-Given this general infatuation with dynamite and violence which this state and
+Given the general infatuation with dynamite and violence which this state and
 employer violence provoked, the possibility for misunderstanding was more than
 likely (as well as giving the enemies of anarchism ample evidence to demonise
 it while allowing the violence of the system they support to be downplayed).
@@ -461,14 +464,12 @@ refuse to acknowledge it and its privileges (_"There is only one law for the
 poor, to wit: Obey the rich."_ [Parsons, **Op. Cit.**, p. 97]). Thus Adolph
 Fischer, one of the Haymarket Martyrs:
 
-> _ "Would a peaceful solution of the social question be possible, the
-anarchists would be the first ones to rejoice over it.
+> _"Would a peaceful solution of the social question be possible, the
+anarchists would be the first ones to rejoice over it. _
 
->
-
-> "But is it not a fact that on occasion of almost every strike the minions of
-the institutions of private property -- militia, police, deputy sheriffs; yes,
-even federal troops -- are being called to the scenes of conflict between
+> _"But is it not a fact that on occasion of almost every strike the minions
+of the institutions of private property -- militia, police, deputy sheriffs;
+yes, even federal troops -- are being called to the scenes of conflict between
 capital and labour, in order to protect the interests of capital? . . . What
 peaceful means should the toilers employ? There is, for example, the strike?
 If the ruling classes want to enforce the 'law' they can have every striker
@@ -535,7 +536,7 @@ willing to turn to death squads and fascism to resist it. To suggest that
 squatting land would provoke less capitalist violence than, say, expropriating
 workplaces simply cannot be supported in the light of 20th century history.
 The choice, then, is simply to allow the landlords and capitalists to keep
-their property and try to but it back from them or use political or
+their property and try to buy it back from them or use political or
 revolutionary means to expropriate them. Communist-anarchists thought that the
 mutual banks would not work and so supported expropriation by means of a mass
 revolt, a social revolution.
@@ -546,7 +547,7 @@ class will freely see their power, property and privileges taken from them.
 They reject the mutualist and individualist anarchist suggestion that mutual
 banks could provide enough credit to compete capitalism away and, even if it
 could, the state would simply outlaw it. This perspective does **not** imply,
-as many enemies of anarchist suggest, that social anarchists always seek to
+as many enemies of anarchism suggest, that social anarchists always seek to
 use violence but rather that we are aware that the state and capitalists will
 use violence against any effective protest. So, the methods social anarchists
 urge -- strikes, occupations, protests, and so forth -- are all inherently
@@ -557,7 +558,7 @@ use violence and force to maintain its position _"is demonstrated in every
 strike which threatens their power; by every lock-out, by every discharge; by
 every black-list."_ [Parsons, **Anarchism: Its Philosophy and Scientific
 Basis**, p. 105] Ultimately, the workings of capitalism itself provokes
-resistance to it. Even if no anarchist participated in, or help organise,
+resistance to it. Even if no anarchist participated in, or helped organise,
 strikes and protests they would occur anyway and the state would inevitably
 intervene to defend "law and order" and "private property" -- as the history
 of every class system proves. So communist-anarchism does not produce the
@@ -580,7 +581,7 @@ anarchist support for unions and strikes, for example, as a means of creating
 more awareness of anarchism and its solutions to the social question (see
 [section J.1](secJ1.html)). This means that communist-anarchists do not see
 revolution as imposing anarchism, but rather as an act of self-liberation by a
-people sick of being ruled by others and act to free themselves of tyranny.
+people sick of being ruled by others and acting to free themselves of tyranny.
 
 So, in summary, in terms of tactics there is significant overlap between the
 strategies advocated by both social and individualist anarchists. The key
@@ -646,11 +647,11 @@ It should also go without saying that no communist-anarchist sought a system
 by which individuals would have their personality destroyed. As Kropotkin
 stressed:
 
-> _ "Anarchist Communism maintains that most valuable of all conquests --
+> _"Anarchist Communism maintains that most valuable of all conquests --
 individual liberty -- and moreover extends it and gives it a solid basis --
 economic liberty -- without which political liberty is delusive; it does not
 ask the individual who has rejected god, god the king, and god the parliament,
-to give himself unto himself a god more terrible than any of the preceding \--
+to give himself unto himself a god more terrible than any of the preceding --
 god the Community, or to abdicate upon its alter his independence, his will,
 his tastes, and to renew the vow of asceticism which he formally made before
 the crucified god. It says to him, on the contrary, 'No society is free so
@@ -701,8 +702,8 @@ anarchists**, are opposed to making or treating people as if they were
 identical. In fact, the goal of communist-anarchism has always been to ensure
 and protect the natural diversity of individuals by creating social conditions
 in which individuality can flourish. The fundamental principle of communism is
-the maxim _**"from each according to their abilities, to each according to
-their needs."**_ There is nothing there about _"levelling"_ or (which amounts
+the maxim **_"from each according to their abilities, to each according to
+their needs."_** There is nothing there about _"levelling"_ or (which amounts
 to the same thing), _"equality of outcome."_ To make an obvious point: _"If
 one person need medical treatment and another is more fortunate, they are not
 to be granted an equal amount of medical care, and the same is true of other
@@ -712,7 +713,7 @@ personal goals"_ and seek a society which allows that diversity to fully
 flourish. [**The Chomsky Reader**, p. 191 and p. 192] In the words of Rudolf
 Rocker:
 
-> _ "a far greater degree of economic equality . . . would . . . be no
+> _"a far greater degree of economic equality . . . would . . . be no
 guarantee against political and social oppression. Economic equality alone is
 not social liberation. It is just this which Marxism and all the other schools
 of authoritarian Socialism have never understood. Even in prison, in the
@@ -757,7 +758,7 @@ So, communist-anarchists would actually agree with individualist anarchists
 like Simpson and oppose any notion of _"levelling"_ (artificial or otherwise).
 The aim of libertarian communism is to increase diversity and individuality,
 **not** to end it by imposing an abstract equality of outcome or of
-consumption that would utter ignore individual tastes or preferences. Given
+consumption that would utterly ignore individual tastes or preferences. Given
 that communist-anarchists like Kropotkin and Malatesta continually stressed
 this aspect of their ideas, Simpson was simply confusing libertarian and
 authoritarian forms of communism for polemical effect rather than presenting a
@@ -815,16 +816,16 @@ sufficient detail exactly how their vision would work.
 
 Communist-anarchists reply in four main ways. Firstly, the individualist
 anarchists themselves predicted roughly how they thought a free society would
-look and function, namely one on individual ownership of production based
-around mutual banks. Secondly, communist-anarchists presented any vision as
-one which was consistent with libertarian principles, i.e., their suggestions
-for a free society was based on thinking about the implication of anarchist
-principles in real life. There seemed little point in advocating anarchism if
-any future society would be marked by authority. To not discuss how a free
-society could work would result in authoritarian solutions being imposed (see
-[section I.2.1](secI2.html#seci21)). Thirdly, they were at pains to link the
-institutions of a free society to those already being generated within
-capitalism but in opposition to its hierarchical nature (see [section
+look and function, namely one based on individual ownership of production
+based around mutual banks. Secondly, communist-anarchists presented any vision
+as one which was consistent with libertarian principles, i.e., their
+suggestions for a free society was based on thinking about the implication of
+anarchist principles in real life. There seemed little point in advocating
+anarchism if any future society would be marked by authority. To not discuss
+how a free society could work would result in authoritarian solutions being
+imposed (see [section I.2.1](secI2.html#seci21)). Thirdly, they were at pains
+to link the institutions of a free society to those already being generated
+within capitalism but in opposition to its hierarchical nature (see [section
 I.2.3](secI2.html#seci23)). Fourthly, presenting more than a sketch would be
 authoritarian as it is up to a free people to create their own society and
 solve their problems themselves (see [section I.2](secI2.html)).
@@ -832,7 +833,7 @@ solve their problems themselves (see [section I.2](secI2.html)).
 Clearly, A. H. Simpson was wrong when he asserted that communist-anarchists
 argued thusly: _"Abolish private property by instituting compulsory Communism,
 and the State will go."_ No communist-anarchist has ever argued for compulsory
-communism. Somewhat ironically, Simpson went on to argue that _"difference
+communism. Somewhat ironically, Simpson went on to argue that the _"difference
 between Communism and Anarchy is plainly observable in their methods. Abolish
 the State . . . that bulwark of the robber system . . . says the Anarchist.
 Abolish private property, the source of all evil and injustice, parent of the
@@ -890,32 +891,26 @@ was efficiently done and meet the consumers requirements. Secondly, he
 considered communism as being potentially authoritarian in that society would
 determine what an individual should contribute and consume. As he put it:
 
-> _ "Who then shall determine the capacity? who shall be the judge of the
-needs?
+> _"Who then shall determine the capacity? who shall be the judge of the
+needs? _
 
->
-
-> "You say that my capacity is 100: I maintain that it is only 90. You add
+> _"You say that my capacity is 100: I maintain that it is only 90. You add
 that my needs are 90: I affirm that they are 100. There is a difference
 between us of twenty upon needs and capacity. It is, in other words, the well-
 known debate between **demand** and **supply**. Who shall judge between the
-society and me?
+society and me? _
 
->
+> _"If the society persists, despite my protests, I resign from it, and that
+is all there is to it. The society comes to an end from lack of associates. _
 
-> "If the society persists, despite my protests, I resign from it, and that is
-all there is to it. The society comes to an end from lack of associates.
-
->
-
-> "If, having recourse to force, the society undertakes to compel me; if it
+> _"If, having recourse to force, the society undertakes to compel me; if it
 demands from me sacrifice and devotion, I say to it: Hypocrite! you promised
 to deliver me from being plundered by capital and power; and now, in the name
 of equality and fraternity, in your turn, you plunder me. Formerly, in order
 to rob me, they exaggerated my capacity and minimised my needs. They said that
 products cost me so little, that I needed so little to live! You are doing the
 same thing. What difference is there then between fraternity and the wage
-system?"_ [**The General Idea of the Revolution**, pp. 96-7]
+system?"_ [**General Idea of the Revolution**, pp. 96-7]
 
 Yet even here Proudhon shows the libertarian communist solution to this
 possible problem, namely free association. If there were a conflict between
@@ -925,7 +920,7 @@ is free to expel an individual). Said individuals can seek another communist
 commune and join it or, conversely, work for themselves in their present
 location. Ultimately, free association means the freedom **not** to associate
 and libertarian communism is rooted in that truism. Thus, communist-anarchists
-would agree with the French anarchism when he _"conclude[d] that a single
+would agree with the French anarchist when he _"conclude[d] that a single
 association can never include all the workmen in one industry, nor all
 industrial corporations, nor, **a fortiori**, a nation of 36 millions of men;
 therefore that the principle of association does not offer the required
@@ -941,7 +936,7 @@ largest possible scale of the principles of mutualism"_ and _"economic
 solidarity."_ [**The Principle of Federation**, p. 70 and p. 71]
 
 The key difference, of course, between Proudhon's mutualism and Kropotkin's
-communism was (as latter stressed) that the former supported payment for
+communism was (as the latter stressed) that the former supported payment for
 labour in terms of money or labour-cheques while the latter argued that this
 would be a modification of the wages system rather than its total abolition.
 Yet by divorcing payment for labour from its consumption, Proudhon argued that
@@ -950,11 +945,11 @@ involved in producing goods. The French anarchist argued that there was no way
 of knowing the real cost of anything produced outside the market. This could
 be seen from monopolies within capitalism:
 
-> _ "How much does the tobacco sold by the administration cost? How much is it
+> _"How much does the tobacco sold by the administration cost? How much is it
 worth? You can answer the first of these questions: you need only call at the
 first tobacco shop you see. But you can tell me nothing about the second,
 because you have no standard of comparison and are forbidden to verify by
-experiment the items of cost of administration. Therefore the tobacco
+experiment the items of cost of administration…. Therefore the tobacco
 business, made into a monopoly, necessarily costs society more than it brings
 in; it is an industry which, instead of subsisting by its own product, lives
 by subsidies."_ [**System of Economical Contradictions**, pp. 232-3]
@@ -996,12 +991,12 @@ operatives and pay themselves a share of the income they collectively
 produced. As Robert Graham put it, _"[t]hat both Tucker and Bakunin could
 claim Proudhon as their own illustrates the inherent ambiguity and elusiveness
 of his thought . . . With his death, that synthesis broke down into its
-conflicting parts."_ [_"Introduction"_, Pierre-Joseph Proudhon, **The General
-idea of the Revolution**, p. xxxi] Social anarchism emphasised the self-
-management, associational and federalist aspects of Proudhon's ideas along
-with his critique of private property while individualist anarchism tended to
-stress his support for possession, "wages" (i.e., labour income), competition
-and markets.
+conflicting parts."_ [_"Introduction"_, Pierre-Joseph Proudhon, **General idea
+of the Revolution**, p. xxxi] Social anarchism emphasised the self-management,
+associational and federalist aspects of Proudhon's ideas along with his
+critique of private property while individualist anarchism tended to stress
+his support for possession, "wages" (i.e., labour income), competition and
+markets.
 
 ## G.2.5 Do most anarchists agree with the individualists on communist-
 anarchism?
@@ -1055,7 +1050,7 @@ While some of its admirers stress that **Liberty** was the longest lasting
 American anarchist paper, in fact a social anarchist paper has that claim to
 fame. **Fraye Arbeter Shtime** (**The Free Voice of Labour**) was a Yiddish
 language anarchist periodical which was first published in 1890 and lasted
-until 1977\. This was followed by the Italian anarchist paper **L'Adunata dei
+until 1977. This was followed by the Italian anarchist paper **L'Adunata dei
 Refrattari** which was published between 1922 and 1971. So when James Martin
 stated that **Liberty** was _"the longest-lived of any radical periodical of
 economic or political nature in the nation's history"_ in 1953 he was wrong.
@@ -1076,14 +1071,14 @@ the bulk of it).
 In summary, then, while individualist anarchism opposed communist-anarchism
 much of this opposition was rooted in misunderstandings and, at times,
 outright distortion. Once these are corrected, it becomes clear that both
-schools of anarchism share significant ideas in common. This is
-unsurprisingly, given the impact of Proudhon on both of them as well as their
-common concerns on the social question and participation in the labour and
-other popular movements. As both are (libertarian) socialists inspired by many
-of the same intellectual and social influences, this should come as no
-surprise. That a few individualist and communist anarchists tried to deny
-those common influences should not blind us to them or the fact that both
-schools of anarchism are compatible.
+schools of anarchism share significant ideas in common. This is unsurprising,
+given the impact of Proudhon on both of them as well as their common concerns
+on the social question and participation in the labour and other popular
+movements. As both are (libertarian) socialists inspired by many of the same
+intellectual and social influences, this should come as no surprise. That a
+few individualist and communist anarchists tried to deny those common
+influences should not blind us to them or the fact that both schools of
+anarchism are compatible.
 
 Ultimately, though, anarchism should be wide enough and generous enough to
 include both communist and individualist anarchism. Attempts to excommunicate
@@ -1092,4 +1087,9 @@ given that both are compatible with each other as both are rooted in similar
 perspectives on possession, capitalist property rights and voluntary
 association. Once the differences in terminology are understood, the
 differences are not impossible to reconcile.
+
+[‹ G.1 Are individualist anarchists anti-capitalist?](/afaq/secG1.html "Go to
+previous page" ) [up](/afaq/secGcon.html "Go to parent page" ) [G.3 Is
+"anarcho"-capitalism a new form of individualist anarchism?
+›](/afaq/secG3.html "Go to next page" )
 

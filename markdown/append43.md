@@ -32,7 +32,7 @@ Life**, vol. 2, p. 969]
 Given that Leninists claim that the Russian revolution was a success (at least
 initially) and so proves the validity of their ideology, anarchists have a
 special duty to analysis and understand what went wrong. Simply put, if the
-Russian Revolution was a "success," Leninism does not need "failures"_!
+Russian Revolution was a "success," Leninism does not need "failures"!
 
 This section of the FAQ will discuss these explanations for the failure of
 Bolshevism. Simply put, anarchists are not convinced by Leninist explanations
@@ -49,14 +49,14 @@ years a state capitalist party dictatorship. As Noam Chomsky put it:
 > _ "In the stages leading up to the Bolshevik coup in October 1917, there
 **were** incipient socialist institutions developing in Russia -- workers'
 councils, collectives, things like that. And they survived to an extent once
-the Bolsheviks took over \-- but not for very long; Lenin and Trotsky pretty
+the Bolsheviks took over -- but not for very long; Lenin and Trotsky pretty
 much eliminated them as they consolidated their power. I mean, you can argue
 about the **justification** for eliminating them, but the fact is that the
-socialist initiatives were pretty quickly eliminated.
+socialist initiatives were pretty quickly eliminated. _
 
 >
 
-> "Now, people who want to justify it say, 'The Bolsheviks had to do it' --
+> _"Now, people who want to justify it say, 'The Bolsheviks had to do it' --
 that's the standard justification: Lenin and Trotsky had to do it, because of
 the contingencies of the civil war, for survival, there wouldn't have been
 food otherwise, this and that. Well, obviously the question is, was that true.
@@ -168,15 +168,15 @@ will say you are deceiving them. In doing this you will be overcoming the
 difficulties with which history has confronted us only in your minds, by your
 wishes . . . You are staking everything on this card! If the revolution breaks
 out, everything is saved . . . But if it does not turn out as we desire, if it
-does not achieve victory tomorrow \-- what then? Then the masses will say to
+does not achieve victory tomorrow -- what then? Then the masses will say to
 you, you acted like gamblers -- you staked everything on a fortunate turn of
 events that did not take place . . ."_ [**Collected Works**, vol. 27, p. 102]
 
 Anarchists have always recognised that a revolution would face problems and
 difficult "objective factors" and has developed our ideas accordingly. We
-argue that to blame "objective factors"_ on the failure of the Russian
+argue that to blame "objective factors" on the failure of the Russian
 Revolution simply shows that believing in fairy-tales is sadly far too common
-on the "serious"_ Leninist "revolutionary" left. And as we discuss in the
+on the "serious" Leninist "revolutionary" left. And as we discuss in the
 appendix on ["How did Bolshevik ideology contribute to the failure of the
 Revolution?"](append44.html), the impact of Bolshevik ideology on the failure
 of the revolution was important and decisive. Even **if** the next revolution
@@ -311,11 +311,11 @@ validity of Bakunin's critique of Marxism. As he put it:
 > _ "Nor can we comprehend talk of freedom of the proletariat or true
 deliverance of the masses within the State and by the State. State signifies
 domination, and all domination implies subjection of the masses, and as a
-result, their exploitation to the advantage of some governing minority.
+result, their exploitation to the advantage of some governing minority. _
 
 >
 
-> "Not even as revolutionary transition will we countenance national
+> _"Not even as revolutionary transition will we countenance national
 Conventions, nor Constituent Assemblies, nor provisional governments, nor so
 called revolutionary dictatorships: because we are persuaded that revolution
 is sincere, honest and real only among the masses and that, whenever it is
@@ -452,40 +452,40 @@ Capital will conceal itself, and hundreds of capitalists will prefer to
 abandon their undertakings and go to watering-places rather than abandon their
 unfixed capital in industrial production. And we know how a restriction of
 production in any one branch of industry affects many others, and these in
-turn spread wider and wider the area of depression.
+turn spread wider and wider the area of depression. _
 
 >
 
-> "Already, at this moment, millions of those who have created all riches
+> _"Already, at this moment, millions of those who have created all riches
 suffer from want of what must be considered **necessaries** for the life of a
 civilised man. . . Let the slightest commotion be felt in the industrial
 world, and it will take the shape of a general stoppage of work. Let the first
 attempt at expropriation be made, and the capitalist production of our days
 will at once come to a stop, and millions and millions of 'unemployed' will
-join the ranks of those who are already unemployed now.
+join the ranks of those who are already unemployed now. _
 
 >
 
-> "More than that . . . The very first advance towards a Socialist society
+> _"More than that . . . The very first advance towards a Socialist society
 will imply a thorough reorganisation of industry as **to what we have to
 produce.** Socialism implies . . . a transformation of industry so that it may
 be adapted to the needs of the customer, not those of the profit-maker. Many a
 branch of industry must disappear, or limits its production; many a new one
 must develop. We are now producing a great deal for export. But the export
 trade will be the first to be reduced as soon as attempts at Social Revolution
-are made anywhere in Europe . . .
+are made anywhere in Europe . . . _
 
 >
 
-> "All that **can** be, and **will** be reorganised in time -- not by the
+> _"All that **can** be, and **will** be reorganised in time -- not by the
 State, of course (why, then, not say by Providence?), but by the workers
 themselves. But, in the meantime, the worker . . . cannot wait for the gradual
-reorganisation of industry. . .
+reorganisation of industry. . . _
 
 >
 
-> "The great problem of how to supply the wants of millions will thus start up
-at once in all its immensity. And the necessity of finding an **immediate
+> _"The great problem of how to supply the wants of millions will thus start
+up at once in all its immensity. And the necessity of finding an **immediate
 solution** for it is the reason we consider that a step in the direction of
 [libertarian] Communism will be imposed on the revolted society -- not in the
 future, but as soon as it applies its crowbar to the first stones of the
@@ -749,7 +749,7 @@ in _"times of peace."_ Rather, he stressed that they were for the
 _"exceptional circumstance"_ of revolution and the civil war he considered its
 inevitable consequence. As such, we must note that Trotsky's followers do not
 apply this critique to their own politics, which are also a form of the
-"exceptional circumstances"_ excuse. Given how quickly Bolshevik "principles"_
+"exceptional circumstances" excuse. Given how quickly Bolshevik "principles"
 (as expressed in **The State and Revolution**) were dropped, we can only
 assume that Bolshevik ideas are also suitable purely for _"times of peace"_ as
 well. As such, we must note the irony of Leninist claims that _"objective
@@ -759,7 +759,7 @@ Saying that, we should not that Trotsky was not above using such arguments
 himself (making later-day Trotskyists at least ideologically consistent in
 their hypocrisy). In the same essay, for example, he justifies the prohibition
 of other Soviet parties in terms of a "measure of defence of the dictatorship
-in a backward and devastated country, surrounded by enemies on all sides."_ In
+in a backward and devastated country, surrounded by enemies on all sides." In
 other words, an appeal to the exceptional circumstances facing the Bolsheviks!
 Perhaps unsurprisingly, his followers have tended to stress this
 (contradictory) aspect of his argument rather than his comments that those
@@ -1034,7 +1034,7 @@ expound these _"explanations"_ are meant to know that civil war, imperialist
 invasion and blockade, economic disruption, and a host of other _"extremely
 difficult circumstances"_ are part and parcel of a revolution. They seem to be
 saying, "if only the ruling class had not acted as our political ideology
-predicts they would then the Bolshevik revolution would have been fine"_! As
+predicts they would then the Bolshevik revolution would have been fine"! As
 Bertrand Russell argued after his trip to Soviet Russia, while since October
 1917 _"the Soviet Government has been at war with almost all the world, and
 has at the same time to face civil war at home"_ this was _"not to be regarded
@@ -1047,26 +1047,23 @@ factors"_ can explain the failure of the Russian Revolution. After all,
 according to Lenin and Trotsky these factors were to be expected in **any**
 revolution -- civil war and invasion, economic collapse and so forth were not
 restricted to the Russian revolution. That is why they say they want a
-"dictatorship of the proletariat,"_ to defend against counter-revolution (see
+"dictatorship of the proletariat," to defend against counter-revolution (see
 [section H.3.8](secH3.html#sech38) on how, once in power, Lenin and Trotsky
 revised this position). Now, if Bolshevism cannot handle what it says is
 inevitable, then it should be avoided. To use an analogy:
 
 > **Bolshevik: _"Join with us, we have a great umbrella which will keep us
-dry."_
+dry."_ **
 
 >
 
-> Anarchist: _"Last time it was used, it did not work. We all got soaked!"_
+> **Anarchist: _"Last time it was used, it did not work. We all got soaked!"_
+**
 
 >
 
-> Bolshevik: _"But what our anarchist friend fails to mention is that it was
-raining at the time!"_
-
->
-
-> **
+> **Bolshevik: _"But what our anarchist friend fails to mention is that it was
+raining at the time!"_ **
 
 Not very convincing! Yet, sadly, this is the logic of the common Leninist
 justification of Bolshevik authoritarianism during the Russian Revolution.
@@ -1217,13 +1214,13 @@ elected or appointed by Soviet institutions, vested with dictatorial powers."_
 support for a new form of wage slavery involved granting state appointed
 _"individual executives dictatorial powers (or 'unlimited' powers)."_ Large-
 scale industry (_"the foundation of socialism"_) required _"thousands
-subordinating their will to the will of one,"_ and so the revolution
-"demands"_ that _"the people **unquestioningly** obey the single will of the
-leaders of labour."_ Lenin's _"superior forms of labour discipline"_ were
-simply hyper-developed capitalist forms. The role of workers in production was
-the same, but with a novel twist, namely _"unquestioning obedience to the
-orders of individual representatives of the Soviet government during the
-work."_ [Lenin, **Selected Writings**, vol. 2, p. 610, p. 611, p. 612]
+subordinating their will to the will of one,"_ and so the revolution "demands"
+that _"the people **unquestioningly** obey the single will of the leaders of
+labour."_ Lenin's _"superior forms of labour discipline"_ were simply hyper-
+developed capitalist forms. The role of workers in production was the same,
+but with a novel twist, namely _"unquestioning obedience to the orders of
+individual representatives of the Soviet government during the work."_ [Lenin,
+**Selected Writings**, vol. 2, p. 610, p. 611, p. 612]
 
 This simply replaced private capitalism with **state** capitalism. _"In the
 shops where one-man management (Lenin's own preference) replaced collegial
@@ -1263,11 +1260,11 @@ different to those of the factory committees. This is not all, as Lenin always
 placed his ideas in a statist context -- rather than base socialist
 reconstruction on working class self-organisation from below, the Bolsheviks
 started _"to build, from the top, its 'unified administration'"_ based on
-central bodies created by the Tsarist government in 1915 and 1916\. [Maurice
+central bodies created by the Tsarist government in 1915 and 1916. [Maurice
 Brinton, **The Bolsheviks and Workers' Control**, p. 36] The institutional
 framework of capitalism would be utilised as the principal (almost exclusive)
 instruments of "socialist" transformation. Lenin's support for _"one-man
-management"_ must be seen in this context, namely his vision of "socialism."_
+management"_ must be seen in this context, namely his vision of "socialism."
 
 Bolshevik advocating and implementing of _"one-man management"_ was not
 limited to the workplace. On March 30th Trotsky, as Commissar of Military
@@ -1387,7 +1384,7 @@ meant. In the case of the Makhnovists in the Ukraine, the Bolsheviks started
 that conflict by betraying them once Wrangel had been defeated. As such, any
 resistance to Bolshevik rule by the working class and peasantry of Russia
 indicated the lack of democracy within the country rather than some sort of
-"counter-revolutionary"_ conflict.
+"counter-revolutionary" conflict.
 
 So even the end of the Civil War causes problems for this defence of the
 Bolsheviks. Simply put, with the defeat of the Whites it would be expected
@@ -1592,10 +1589,9 @@ production had dropped by nearly 40%). In 1919, it fell again to 37, rising to
 an all-time low"_ and it _"took until the late 1920s for [food] production to
 recover its 1912 level . . . In 1921 grain production was still . . . some 30
 per cent below the 1912 figure."_ Coal production was 69.1% of its 1913 level
-in 1920, falling to 32.8% in 1923\. Iron production was 33.1% in 1920 and
-25.6% in 1923. Steel production likewise fell to 48.5% in 1920 and fell again
-to 36% in 1923. [V. R. Berghahn, **Op. Cit.**, p. 258, pp. 67-8, p. 71 and p.
-259]
+in 1920, falling to 32.8% in 1923. Iron production was 33.1% in 1920 and 25.6%
+in 1923. Steel production likewise fell to 48.5% in 1920 and fell again to 36%
+in 1923. [V. R. Berghahn, **Op. Cit.**, p. 258, pp. 67-8, p. 71 and p. 259]
 
 Significantly, one of the first acts of the Bolshevik government towards the
 new German government was to _"the offer by the Soviet authorities of two
@@ -1961,19 +1957,19 @@ in an inchoate way it retained a vision of socialism which was not identified
 entirely with Bolshevik power . . . Lenin's arguments on the declassing of the
 proletariat was more a way of avoiding this unpleasant truth than a real
 reflection of what remained, in Moscow at least, a substantial physical and
-ideological force."_ [Richard Sakwa, ** Soviet Communists in Power**, p. 261]
-In the words of Diane Koenker, _"[i]f Lenin's perceptions of the situation
-were at all representative, it appears that the Bolshevik party made
-deurbanisation and declassing the scapegoat for its political difficulties,
-when the party's own policies and its unwillingness to accept changing
-proletarian attitudes were also to blame."_ Ironically, this was not the first
-time that the Bolsheviks had blamed its problems on the lack of a _"true"_
-proletariat and its replacement by "petty-bourgeois" elements, _"[t]his was
-the same argument used to explain the Bolsheviks' lack of success in the early
-months of 1917 -- that the cadres of conscious proletarians were diluted by
-non-proletarian elements."_ [_"Urbanisation and Deurbanisation in the Russian
-Revolution and Civil War,"_ pp. 424-450, **The Journal of Modern History**,
-vol. 57, no. 3, p. 449 and p. 428]
+ideological force."_ [Richard Sakwa, Soviet Communists in Power, p. 261] In
+the words of Diane Koenker, _"[i]f Lenin's perceptions of the situation were
+at all representative, it appears that the Bolshevik party made deurbanisation
+and declassing the scapegoat for its political difficulties, when the party's
+own policies and its unwillingness to accept changing proletarian attitudes
+were also to blame."_ Ironically, this was not the first time that the
+Bolsheviks had blamed its problems on the lack of a _"true"_ proletariat and
+its replacement by "petty-bourgeois" elements, _"[t]his was the same argument
+used to explain the Bolsheviks' lack of success in the early months of 1917 --
+that the cadres of conscious proletarians were diluted by non-proletarian
+elements."_ [_"Urbanisation and Deurbanisation in the Russian Revolution and
+Civil War,"_ pp. 424-450, **The Journal of Modern History**, vol. 57, no. 3,
+p. 449 and p. 428]
 
 It should be noted that the _"declassing"_ argument does have a superficial
 validity if you accept the logic of vanguardism. After all, if you accept the
@@ -2081,7 +2077,7 @@ govern can only be answered by looking at the class struggle in Russia during
 this period, by looking at the strikes, demonstrations and protests that
 occurred. Something Leninists rarely do. Needless to say, certain strike waves
 just cannot be ignored. The most obvious case is in Petrograd just before the
-Kronstadt revolt in early 1921\. After all, the strikes (and subsequent
+Kronstadt revolt in early 1921. After all, the strikes (and subsequent
 Bolshevik repression) inspired the sailors to revolt in solidarity with them.
 Faced with such events, the scale of the protest and Bolshevik repression is
 understated and the subject quickly changed. As we noted in [section
@@ -2096,7 +2092,7 @@ and what they meant in terms of the revolution and his own argument.
 
 Similarly, we find Victor Serge arguing that the _"working class often fretted
 and cursed; sometimes it lent an ear to the Menshevik agitators, as in the
-great strikes at Petrograd in the spring of 1919\. But once the choice was
+great strikes at Petrograd in the spring of 1919. But once the choice was
 posed as that between the dictatorship of the White Generals and the
 dictatorship of its own party -- and there was not and could not be any other
 choice -- every fit man . . . came to stand . . . before the windows of the
@@ -2402,22 +2398,22 @@ Strikes affected the largest industries . . . Workers' demands reflected their
 grievances . . . The greatest diversity was in workers' explicitly political
 demands or expression of political opinion . . . all workers' resolutions
 demanded free and fair elections to the soviets . . . some workers . . .
-demanded the Constituent Assembly . . .
+demanded the Constituent Assembly . . . _
 
 >
 
-> "The strikes of 1919 . . . fill an important gap in the development of the
+> _"The strikes of 1919 . . . fill an important gap in the development of the
 popular movement between October 1917 and February 1921. On the one hand, they
 should be seen as antecedents of similar strikes in February 1921, which
 forced the Communists to abandon war communism. In the capitals, workers, just
 as the Kronstadt sailors had, still wanted fairly elected soviets and not a
 party dictatorship. On the other hand, the strikes continued the protests that
 had began in the summer of 1918. The variety of behavioural patterns displayed
-during the strikes points to a profound continuity. . .
+during the strikes points to a profound continuity. . . _
 
 >
 
-> "In all known cases the Bolsheviks' initial response to strikes was to ban
+> _"In all known cases the Bolsheviks' initial response to strikes was to ban
 public meetings and rallies . . . In several cities . . . the authorities
 confiscated strikers' food rations in order to suppress the strike. In at
 least five cities . . . the Bolsheviks occupied the striking plant and
@@ -2493,7 +2489,7 @@ nation-wide wave of discontent . . . General strikes, or very widespread
 unrest, hit Petrograd, Moscow, Saratov and Ekaterinoslavl."_ Only one major
 industrial region was unaffected. As noted above, the Bolsheviks refused to
 call this movement a strike wave, preferring the term **volynka** (which means
-"go-slow"_), yet _"the continued use of the term can be justified not to hide
+"go-slow"), yet _"the continued use of the term can be justified not to hide
 its significance but to show that workers' protest consisted not just of
 strikes but also of factory occupations, 'Italian strikes,' demonstrations,
 mass meetings, the beating up of communists and so on."_ [Aves, **Op. Cit.**,
@@ -2659,12 +2655,12 @@ in early 1921:
 
 > _"The population was drifting away from the capital. All who had relatives
 in the country had rejoined them. The authentic proletariat remained till the
-end, having the most slender connections with the countryside.
+end, having the most slender connections with the countryside. _
 
 >
 
-> "This fact must be emphasised, in order to nail the official lies seeking to
-attribute the Petrograd strikes that were soon to break out to peasant
+> _"This fact must be emphasised, in order to nail the official lies seeking
+to attribute the Petrograd strikes that were soon to break out to peasant
 elements, 'insufficiently steeled in proletarian ideas.' The real situation
 was the very opposite. A few workers were seeking refuge in the countryside.
 The bulk remained. There was certainly no exodus of peasants into the starving
@@ -2738,16 +2734,16 @@ minority finds more or less support, or at least friendly neutrality, on the
 part of the majority."_ So what happens if the majority expresses opposition
 to the party? Unfortunately Trotsky does not raise this question, but he does
 answer it indirectly. As we discuss in [section 15](append42.html#app15) of
-the appendix on ["What was the Kronstadt Rebellion?"](append42.html"), Trotsky
-argues that _"to free the soviets from the leadership [sic!] of the Bolsheviks
-would have meant within a short time to demolish the soviets themselves. The
-experience of the Russian soviets during the period of Menshevik and SR
-domination and, even more clearly, the experience of the German and Austrian
-soviets under the domination of the Social Democrats, proved this. Social
-Revolutionary-anarchist soviets could only serve as a bridge from the
-proletarian dictatorship. They could play no other role, regardless of the
-'ideas' of their participants."_ [Lenin and Trotsky, **Kronstadt**, p. 85 and
-p. 90]
+the appendix on ["What was the Kronstadt Rebellion?"](append42.html%22),
+Trotsky argues that _"to free the soviets from the leadership [sic!] of the
+Bolsheviks would have meant within a short time to demolish the soviets
+themselves. The experience of the Russian soviets during the period of
+Menshevik and SR domination and, even more clearly, the experience of the
+German and Austrian soviets under the domination of the Social Democrats,
+proved this. Social Revolutionary-anarchist soviets could only serve as a
+bridge from the proletarian dictatorship. They could play no other role,
+regardless of the 'ideas' of their participants."_ [Lenin and Trotsky,
+**Kronstadt**, p. 85 and p. 90]
 
 Thus to let the working masses (the _"majority"_) have free soviet elections
 and reject the vanguard (the _"minority"_) would mean the end of soviet power.
@@ -2882,6 +2878,8 @@ cannot be said that the working class in Russia did not resist the usurpation
 of power by the Bolshevik party. As such, rather than _"atomisation"_ or
 _"declassing"_ being the cause for Bolshevik power and repression, it was, in
 fact, one of **results** of them.
+
+
 
 ## 6 Did the Bolsheviks blame _"objective factors"_ for their actions?
 
@@ -3059,7 +3057,7 @@ true for backward Russia"_ but _"utterly without application to advanced
 lands."_ The _"wave of Fascist or militarised police dictatorships"_ in the
 1920s and 1930s was the reason. It seems ironic that Trotsky's self-proclaimed
 followers are now repeating the arguments of what he termed "incurable
-Fabians."_ [**Terrorism and Communism**, p. xix, p. xxxv, p. xlvii and p.
+Fabians." [**Terrorism and Communism**, p. xix, p. xxxv, p. xlvii and p.
 xxxix]
 
 Rather than distance himself from the authoritarian and state capitalist
@@ -3071,7 +3069,7 @@ factors"_ would face **every** revolution. As it is, he argues that it was
 only the _"slow development of the revolution in the West"_ which stopped _"a
 direct passage from military Communism to a Socialistic system of
 production."_ Rather than admit to _"illusions"_ caused by the "iron
-necessity"_ of willing the civil war, he talks about _"those economic hopes
+necessity" of willing the civil war, he talks about _"those economic hopes
 which were bound up with the development of the world revolution."_ He even
 links Bolshevik practice with Stalinism, noting that the _"idea of five-year
 plans was not only formulated in that period [1918-1920], but in some economic
@@ -3214,4 +3212,9 @@ opposition parties and groups against him. The idea that "objective factors"
 caused the failure of the revolution was not used until the late 1920s and
 even then not used to explain the party dictatorship but rather the usurpation
 of **its** power by the bureaucracy.
+
+[‹ What was the Kronstadt Rebellion?](/afaq/append42.html "Go to previous
+page" ) [up](/afaq/append4.html "Go to parent page" ) [How did Bolshevik
+ideology contribute to the failure of the Revolution? ›](/afaq/append44.html
+"Go to next page" )
 

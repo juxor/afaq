@@ -239,3 +239,7 @@ A. Miller, **Kropotkin**, p. 231] As we discuss in the [next
 section](secD7.html), while rejecting Nationalism anarchists do not
 necessarily oppose national liberation struggles against foreign domination.
 
+[‹ D.5 What causes imperialism?](/afaq/secD5.html "Go to previous page" )
+[up](/afaq/secDcon.html "Go to parent page" ) [D.7 Are anarchists opposed to
+National Liberation struggles? ›](/afaq/secD7.html "Go to next page" )
+

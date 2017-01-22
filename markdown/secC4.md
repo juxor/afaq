@@ -96,7 +96,7 @@ This last barrier means that larger companies are able to outbid smaller
 companies for resources, ideas, etc. and put more money into Research and
 Development and buying patents. Therefore they can have a technological and
 material advantage over the small company. They can charge "uneconomic" prices
-for a time (and still survive due to their resources) \-- an activity called
+for a time (and still survive due to their resources) -- an activity called
 _"predatory pricing"_ \-- and/or mount lavish promotional campaigns to gain
 larger market share or drive competitors out of the market. In addition, it is
 easier for large companies to raise external capital, and risk is generally
@@ -143,7 +143,7 @@ to resources), privileged access to financial resources, larger amounts of
 retained earnings to fund investment, economies of scale both within and
 **between** workplaces, the undercutting of prices to "uneconomical" levels
 and so on (and, of course, they can **buy** the smaller company -- IBM paid
-$3.5 billion for Lotus in 1995\. That is about equal to the entire annual
+$3.5 billion for Lotus in 1995. That is about equal to the entire annual
 output of Nepal, which has a population of 20 million). The large firm or
 firms can also rely on its established relationships with customers or
 suppliers to limit the activities of smaller firms which are trying to expand
@@ -248,7 +248,7 @@ industry, considered the great hope for deregulation in 1978, it has seen the
 six largest companies control of the market rise from 73% in 1978 to 85% in
 1987 (and increasing fares across the board). [_"Unexpected Result of Airline
 Decontrol is Return to Monopolies,"_ **Wall Street Journal**, 20/07/1987] By
-1998, the top sixs share had increased by 1% but control was effectively
+1998, the top six’s share had increased by 1% but control was effectively
 higher with three code-sharing alliances now linking all six in pairs.[Amy
 Taub, _"Oligopoly!"_ **Multinational Monitor**, November 1998, p. 9]
 
@@ -258,7 +258,7 @@ driving out small corner shops (the four-firm concentration ratio of the
 supermarket industry is over 70%) while the British brewing industry has a
 staggering 85% ratio. In American, the book industry is being dominated by a
 few big companies, both in production and distribution. A few large
-conglomerates publish most leading titles while a few big chains (Barnes &
+conglomerates publish most leading titles while a few big chains (Barnes &amp;
 Nobles and Borders) have the majority of retail sales. On the internet, Amazon
 dominates the field in competition with the online versions of the larger
 bookshops. This process occurs in market after market. As such, it should be
@@ -269,22 +269,23 @@ small-scale businesses, the trend to consolidation has unmistakable:
 
 > _ "The latest data available show that in the manufacturing sector the four
 largest companies in a given industry controlled an average of 40 percent of
-the industrys output in 1992, and the top eight had 52 percent. These shares
+the industry’s output in 1992, and the top eight had 52 percent. These shares
 were practically unchanged from 1972, but they are two percentage points
 higher than in 1982. Retail trade (department stores, food stores, apparel,
 furniture, building materials and home supplies, eating and drinking places,
 and other retail industries) also showed a jump in market concentration since
 the early 1980s. The top four firms accounted for an average of 16 percent of
-the retail industrys sales in 1982 and 20 percent in 1992; for the eight
+the retail industry’s sales in 1982 and 20 percent in 1992; for the eight
 largest, the average industry share rose from 22 to 28 percent. Some figures
 now available for 1997 suggest that concentration continued to increase during
 the 1990s; of total sales receipts in the overall economy, companies with
 2,500 employees or more took in 47 percent in 1997, compared with 42 percent
-in 1992.
+in 1992.  
+>  _
 
 >
 
-> "In the financial sector, the number of commercial banks fell 30 percent
+> _"In the financial sector, the number of commercial banks fell 30 percent
 between 1990 and 1999, while the ten largest were increasing their share of
 loans and other industry assets from 26 to 45 percent. It is well established
 that other sectors, including agriculture and telecommunications, have also
@@ -617,10 +618,10 @@ mergers might reduce prices even more than monopoly power would cause them to
 rise. Economists also stressed 'entry,' claiming that if mergers did not
 improve efficiency any price increases would be wiped out eventually by new
 companies entering the industry. Entry is also the heart of the theory of
-'contestable markets,' developed by economic consultants to AT&amp;T;, who
+'contestable markets,' developed by economic consultants to AT&amp;T, who
 argued that the ease of entry in cases where resources (trucks, aircraft) can
 be shifted quickly at low cost, makes for effective competition."_ By pure co-
-incidence, AT&amp;T; had hired economic consultants as part of their hundreds
+incidence, AT&amp;T had hired economic consultants as part of their hundreds
 of millions of dollars antitrust defences, in fact some 30 economists from
 five leading economics departments during the 1970s and early 1980s. [Edward
 S. Herman, _"The Threat From Mergers: Can Antitrust Make a Difference?"_,
@@ -630,7 +631,7 @@ Needless to say, these new "theories" are rooted in the same assumptions of
 neo-classical economists and, as such, are based on notions we have already
 debunked. As Herman notes, they _"suffer from over-simplification, a strong
 infusion of ideology, and lack of empirical support."_ He notes that mergers
-_"often are motivated by factors other than enhancing efficiency \-- such as
+_"often are motivated by factors other than enhancing efficiency -- such as
 the desire for monopoly power, empire building, cutting taxes, improving stock
 values, and even as a cover for poor management (such as when the badly-run
 U.S. Steel bought control of Marathon Oil)."_ The conclusion of these models
@@ -755,4 +756,9 @@ opportunity implied in models of "perfect competition" is lacking. And without
 such equality, wage labour cannot be said to be a "voluntary" choice between
 available options -- the options available have been skewed so far in one
 direction that the other alternatives have been marginalised.
+
+[‹ C.3 What determines the distribution between labour and
+capital?](/afaq/secC3.html "Go to previous page" ) [up](/afaq/secCcon.html "Go
+to parent page" ) [C.5 Why does Big Business get a bigger slice of profits?
+›](/afaq/secC5.html "Go to next page" )
 

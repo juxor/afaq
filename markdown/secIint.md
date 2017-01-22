@@ -6,8 +6,8 @@ refuting some bogus "solutions" that have been offered by authoritarians of
 both the right and the left. It is now time to examine the constructive side
 of anarchism -- the libertarian-socialist society that anarchists envision.
 This is important because anarchism is essentially a **constructive** theory,
-in stark contradiction to the picture of usually painted of anarchism as chaos
-or mindless destruction.
+in stark contradiction to the picture usually painted of anarchism as chaos or
+mindless destruction.
 
 In this section of the FAQ we will give an outline of what an anarchist
 society might look like. Such a society has basic features -- such as being
@@ -79,7 +79,7 @@ Bakunin**, p. 249]
 Looking at capitalism, we find that under wage labour people sell their
 creative energy and control over their activity for a given period. The boss
 does not just take surplus value from the time employees sell, but the time
-itself \-- their liberty, their ability to make their own decisions, express
+itself -- their liberty, their ability to make their own decisions, express
 themselves through work and with their fellow workers. Wage labour equals wage
 slavery as you sell your time and skills (i.e. liberty) everyday at work and
 you will never be able to buy that time back for yourself. Once it is gone; it
@@ -93,8 +93,8 @@ without being forced to sell his [or her] work and his [or her] liberty to
 others who accumulate wealth by the labour of their serfs."_ [Kropotkin,
 **Words of a Rebel**, p. 208]
 
-Thus the aim of anarchism is to create a society in which every person
-_"should have the material and moral means to develop his humanity"_ and so to
+Thus the aim of anarchism is to create a society in which every person _should
+have the material and moral means to develop his humanity"_ and so to
 _"**organise society in such a way that every individual . . . should find . .
 . approximately equal means for the development of [their] various faculties
 and for their utilisation in [their] work**; to create a society which would
@@ -168,7 +168,7 @@ desired to be) a definitive statement of how they **must** be embodied. The
 idea that a few people could determine exactly what a free society would look
 like is contrary to the anarchist principles of free growth and thought, and
 is far from our intention. Here we simply try to indicate some of the
-structures that an anarchist society may contain, based on the what ideals and
+structures that an anarchist society may contain, based on the ideals and
 ideas anarchists hold, informed by the few examples of anarchy in action that
 have existed and our critical evaluation of their limitations and successes.
 As Herbert Read once put it, _"it is always a mistake to build **a priori**
@@ -177,26 +177,27 @@ principles of equity, of individual freedom, of workers' control. The
 community then aims at the establishment of these principles from the
 starting-point of local needs and local conditions."_ [**Op. Cit.**, p. 51]
 
-Moreover, we must remember that, the state has changed over time and, indeed,
-has not always existed. Thus it is possible to have a social organisation
-which is not a state and to confuse the two would be a _"confusion"_ made by
-those _"who cannot visualise Society without a concentration of the State."_
-Yet this _"is to overlook the fact that Man lived in Societies for thousands
-of years before the State had been heard of"_ and that _"large numbers of
-people [have] lived in communes and free federations."_ These were not states
-as the state _"is only one of the forms assumed by society in the course of
-history. Why then make no distinction between what is permanent and what is
-accidental?"_ [Kropotkin, **The State: Its Historic Role**, pp. 9-10]
-Similarly, the axioms of capitalist economics **not** withstanding, capitalism
-is but latest of a series of economies. Just as serfdom replaced slavery and
-capitalism replaced serfdom, so free (associated) labour can replace hired
-labour. As Proudhon noted, the _"period through which we are now passing . . .
-is distinguished by a special characteristic, - WAGES."_ Capitalism, this
-system of wage-labour, has not always existed nor need it continue. Thus _"the
-radical vice of political economy"_, namely _"affirming as a definitive state
-a transitory condition - namely, the division of society into patricians and
-proletares."_ [**System of Economic Contradictions**, p. 198 and p. 67]
-Anarchists seek to make that transitory condition shorter rather than longer.
+Moreover, we must remember that the state has changed over time and has not
+always existed. Thus it is possible to have a social organisation which is not
+a state and to confuse the two would be a _"confusion"_ made by those _"who
+cannot visualise Society without a concentration of the State."_ Yet this _"is
+to overlook the fact that Man lived in Societies for thousands of years before
+the State had been heard of"_ and that _"large numbers of people [have] lived
+in communes and free federations."_ These were not states as the state _"is
+only one of the forms assumed by society in the course of history. Why then
+make no distinction between what is permanent and what is accidental?"_
+[Kropotkin, **The State: Its Historic Role**, pp. 9-10] Similarly, the axioms
+of capitalist economics **not** withstanding, capitalism is but latest of a
+series of economies. Just as serfdom replaced slavery and capitalism replaced
+serfdom, so free (associated) labour can replace hired labour. As Proudhon
+noted, the _"period through which we are now passing" _is_ "distinguished by a
+special characteristic: WAGE-LABOUR."_ Capitalism has not always existed nor
+need it continue. So while _"the radical vice of political economy"_ is
+_"affirming as a definitive state a transitory condition - namely, the
+division of society into patricians and proletarians"_ in reality, _"__in its
+present form, the organisation [of labour] is inadequate and transitory. "_
+[**Property Is Theft!**, p. 190, p. 174 and p. 170] Anarchists seek to make
+that transitory condition shorter rather than longer.
 
 Ultimately, a free society based on self-managed communities and associated
 labour is, in many ways, a natural evolution of tendencies **within** existing
@@ -221,7 +222,7 @@ and alienated society is a necessary part of the struggle and the maintaining
 of your liberty and humanity in the insane world of hierarchical society. As
 such, an anarchist society will be the generalisation of the various types of
 **_"anarchy in action"_** created in the various struggles against all forms
-of oppression and exploitation (see [section I.2.3](secI2.html#seci23)).
+of oppression and exploitation (see [section I.2.3](secI2.html#seci23) ).
 
 This means that how an anarchist society would look like and work is not
 independent of the specific societies it is created from nor the means used to
@@ -292,10 +293,10 @@ So anarchists are realistic in their hopes and dreams. We do not conjure up
 hopes that cannot achieved but rather base our visions in an analysis of what
 is wrong with society today and a means of changing the world for the better.
 And even if some people call us utopians, we shrug off the accusation with a
-smile. After all, dreams are important, not only because they often the source
-of change in reality but because of the hope they express:
+smile. After all, dreams are important, not only because they are often the
+source of change in reality but because of the hope they express:
 
-> _ "People may . . . call us dreamers . . . They fail to see that dreams are
+> _"People may . . . call us dreamers . . . They fail to see that dreams are
 also a part of the reality of life, that life without dreams would be
 unbearable. No change in our way of life would be possible without dreams and
 dreamers. The only people who are never disappointed are those who never hope
@@ -378,4 +379,9 @@ do is present what we believe and why we think such a vision is both desirable
 of the FAQ will inspire more debate and discussion of how a free society would
 work. In addition, and equally as important, we hope it will help inspire the
 struggle that will create that society.
+
+[‹ Section I - What would an anarchist society look like?](/afaq/secIcon.html
+"Go to previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.1
+Isn't libertarian socialism an oxymoron? ›](/afaq/secI1.html "Go to next page"
+)
 

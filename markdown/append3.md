@@ -23,64 +23,64 @@ understands.
 
 ##
 
-* [Reply to errors and distortions in David McNally's pamphlet _"Socialism from Below"_](append3.html#app31)
+  * [Reply to errors and distortions in David McNally's pamphlet _"Socialism from Below"_](append3.html#app31)
 
 ##
 
-* [Marxists and Spanish Anarchism_](append3.html#app32)
+  * [Marxists and Spanish Anarchism](append3.html#app32)
 
 ##
 
-* [Reply to errors and distortions in Phil Mitchinson's **_"Marxism and direct action"**_](append3.html#app33)
+  * [Reply to errors and distortions in Phil Mitchinson's _"Marxism and direct action"_](append3.html#app33)
 
 ##
 
-* [Reply to errors and distortions in the SWP's **_"Marxism and Anarchism"_**](append3.html#app34)
+  * [Reply to errors and distortions in the SWP's _"Marxism and Anarchism"_](append3.html#app34)
 
 ##
 
-* [Reply to errors and distortions in John Fisher's _"Why we must further Marxism and not Anarchism"_**](append3.html#app35)
+  * [Reply to errors and distortions in John Fisher's _"Why we must further Marxism and not Anarchism"_](append3.html#app35)
 
 * * *
 
-##
+  *   
 
-* [Reply to errors and distortions in David McNally's pamphlet _"Socialism from Below"_ ](append31.html)
+## [Reply to errors and distortions in David McNally's pamphlet _"Socialism
+from Below"_](append31.html)
 
-###  [1\. Introduction](append31.html#app1)  
-[ 2\. Is anarchism the politics of the _"small property
+### [ 1\. Introduction](append31.html#app1)  
+[2\. Is anarchism the politics of the _"small property
 owner"_?](append31.html#app2)  
-[ 3\. Does anarchism _"glorify values from the past"_?](append31.html#app3)  
-[ 4\. Why are McNally's comments on Proudhon a distortion of his
+[3\. Does anarchism _"glorify values from the past"_?](append31.html#app3)  
+[4\. Why are McNally's comments on Proudhon a distortion of his
 ideas?](append31.html#app4)  
-[ 5\. Why are McNally's comments on Bakunin a distortion of his
+[5\. Why are McNally's comments on Bakunin a distortion of his
 ideas?](append31.html#app5)  
-[ 6\. Are the _"quirks of personality"_ of Proudhon and Bakunin listed by
-McNally actually rooted _"in the very nature of anarchist
-doctrine"_?](append31.html#app6)  
-[ 7\. Are anarchists against democracy?](append31.html#app7)  
-[ 8\. Are Leninists in favour of democracy?](append31.html#app8)  
-[ 9\. Why is McNally wrong on the relation of syndicalism to
+[6\. Are these _"quirks of personality"_ or _"rooted in the very nature of
+anarchist doctrine"_?](append31.html#app6)  
+[7\. Are anarchists against democracy?](append31.html#app7)  
+[8\. Are Leninists in favour of democracy?](append31.html#app8)  
+[9\. Why is McNally wrong on the relation of syndicalism to
 anarchism?](append31.html#app9)  
-[ 10\. Do syndicalists reject working class political
+[10\. Do syndicalists reject working class political
 action?](append31.html#app10)  
-[ 11\. Why is McNally's claim that Leninism supports working class self-
+[11\. Why is McNally's claim that Leninism supports working class self-
 emancipation wrong?](append31.html#app11)  
-[ 12\. Why is Marxist "class analysis" of anarchism contradictory?
+[12\. Why is Marxist "class analysis" of anarchism contradictory?
 ](append31.html#app12)  
-[ 13\. If Marxism is _"socialism from below,"_ why do anarchists reject
+[13\. If Marxism is _"socialism from below,"_ why do anarchists reject
 it?](append31.html#app13)  
-[ 14\. Why is McNally's use of the term _"socialism from below"_
+[14\. Why is McNally's use of the term _"socialism from below"_
 dishonest?](append31.html#app14)  
-[ 15\. Did Trotsky keep alive Leninism's _"democratic
-essence"_?](append31.html#app15)  
+[15\. Did Trotsky keep alive Leninism's _"democratic
+essence"_?](append31.html#app15)
 
-##
+  *   
 
-* [Marxists and Spanish Anarchism ](append32.html)
+## [Marxists and Spanish Anarchism](append32.html)
 
-###  [1\. Were the Spanish Anarchists _"Primitive Rebels"_?
-](append32.html#app1)  
+### [1\. Were the Spanish Anarchists _"Primitive
+Rebels"_?](append32.html#app1)  
 [2\. How accurate is Felix Morrow's book on the Spanish Revolution?
 ](append32.html#app2)  
 [3\. Did a _"highly centralised"_ FAI control the CNT?](append32.html#app3)  
@@ -113,15 +113,14 @@ ideas?](append32.html#app18)
 [19\. Did the experience of the rural collectives refute
 anarchism?](append32.html#app19)  
 [20\. Does the experience of the Spanish Revolution indicate the failure of
-anarchism or the failure of anarchists?](append32.html#app20)  
+anarchism or the failure of anarchists?](append32.html#app20)
 
-##
+  *   
 
-* [Reply to errors and distortions in Phil Mitchinson's **_"Marxism and direct action"**_
+## [Reply to errors and distortions in Phil Mitchinson's **_"Marxism and
+direct action"_**](append33.html)
 
-](append33.html)
-
-###  [1\. How does Mitchinson impoverish the politics of the direct action
+### [1\. How does Mitchinson impoverish the politics of the direct action
 groups?](append33.html#app1)  
 [2\. Does anarchism _"juxtapose"_ theory and action?](append33.html#app2)  
 [3\. How does Mitchinson distort the London May Day demo?](append33.html#app3)  
@@ -164,21 +163,20 @@ society?](append33.html#app23)
 [25\. Do anarchists ignore the _"strength of the working
 class"_?](append33.html#app25)  
 [26\. What does Mitchinson's article tell about the nature of
-Trotskyism?](append33.html#app26)  
+Trotskyism?](append33.html#app26)
 
-##
+  *   
 
-* [ Reply to errors and distortions in the SWP's _"Marxism and Anarchism"_
+## [Reply to errors and distortions in the SWP's _"Marxism and
+Anarchism"_](append34.html)
 
-](append34.html)
-
-###  [1\. What does the anti-globalisation movement tell us about the
+### [1\. What does the anti-globalisation movement tell us about the
 effectiveness of the "vanguard" parties like the SWP?](append34.html#app1)  
 [2\. What does the SWP miss out in its definition of
 anarchism?](append34.html#app2)  
 [3\. Why does mentioning the history of anarchism weaken the SWP's
 argument?](append34.html#app3)  
-[4\. How is the SWP wrong about centralisation? ](append34.html#app4)  
+[4\. How is the SWP wrong about centralisation?](append34.html#app4)  
 [5\. Why does the SWP's _"picket line is 'authoritarian'"_ argument totally
 miss the point?](append34.html#app5)  
 [6\. Why are the SWP's examples of _"state functions"_
@@ -217,33 +215,42 @@ _"open debate and common struggle"_?](append34.html#app22)
 workers"_?](append34.html#app23)  
 [24\. Do anarchists blame workers _"for being insufficiently
 revolutionary"_?](append34.html#app24)  
-[ 25\. Why does the history of centralised parties refute the SWP's
-arguments?](append34.html#app25)  
+[25\. Why does the history of centralised parties refute the SWP's
+arguments?](append34.html#app25)
 
 ##
 
-* [ Reply to errors and distortions in John Fisher's _"Why we must further Marxism and not Anarchism"_
+  * [Reply to errors and distortions in John Fisher's _"Why we must further Marxism and not Anarchism"_](append35.html)
 
-](append35.html)
-
-###  [ 1\. Why should _"the so-called Anarchistic youth of today"_ be
-concerned that Trotskyists consider them allies? ](append35.html#app1)  
-[ 2\. What else do people learn about when they discover anarchism is more
-than _"utter rebellion"_?](append35.html#app2)  
-[ 3\. What do anarchists think will _"replace the smashed state
+### [1\. Why should _"the so-called Anarchistic youth of today"_ be concerned
+that Trotskyists consider them allies? ](append35.html#app1)  
+[2\. What else do people learn about when they discover anarchism is more than
+_"utter rebellion"_?](append35.html#app2)  
+[3\. What do anarchists think will _"replace the smashed state
 machine"_?](append35.html#app3)  
-[ 4\. What did Trotsky and Lenin think must replace the bourgeois
+[4\. What did Trotsky and Lenin think must replace the bourgeois
 state?](append35.html#app4)  
-[ 5\. Is the _"proletarian 'state'"_ really a new kind of
+[5\. Is the _"proletarian 'state'"_ really a new kind of
 state?](append35.html#app5)  
-[ 6\. Do anarchists _"hope the capitalists do not make any attempts of
+[6\. Do anarchists _"hope the capitalists do not make any attempts of
 counterrevolution"_?](append35.html#app6)  
-[ 7\. Are Anarchists simply _"potential Marxists"_?](append35.html#app7)  
-[ 8\. Is Marxism a scientific?](append35.html#app8)  
-[ 9\. What does the Russian Revolution tell us about
+[7\. Are Anarchists simply _"potential Marxists"_?](append35.html#app7)  
+[8\. Is Marxism a scientific?](append35.html#app8)  
+[9\. What does the Russian Revolution tell us about
 Trotskyism?](append35.html#app9)  
-[ 10\. Do anarchists reject "leadership"?](append35.html#app10)  
-[ 11\. Does the Spanish Revolution show anarchism is
+[10\. Do anarchists reject "leadership"?](append35.html#app10)  
+[11\. Does the Spanish Revolution show anarchism is
 flawed?](append35.html#app11)  
-[ 12\. Does anarchism believe in spontaneous revolution?](append35.html#app12)  
+[12\. Does anarchism believe in spontaneous revolution?](append35.html#app12)
+
+  * [Reply to errors and distortions in David McNally's pamphlet "Socialism from Below"](/afaq/append31.html)
+  * [Marxists and Spanish Anarchism](/afaq/append32.html)
+  * [Reply to errors and distortions in Phil Mitchinson's "Marxism and direct action"](/afaq/append33.html)
+  * [Reply to errors and distortions in the SWP's "Marxism and Anarchism"](/afaq/append34.html)
+  * [Reply to errors and distortions in John Fisher's "Why we must further Marxism and not Anarchism"](/afaq/append35.html)
+
+[‹ Appendix - The Symbols of Anarchy](/afaq/append2.html "Go to previous page"
+) [up](/afaq/index.html "Go to parent page" ) [Reply to errors and distortions
+in David McNally's pamphlet "Socialism from Below" ›](/afaq/append31.html "Go
+to next page" )
 

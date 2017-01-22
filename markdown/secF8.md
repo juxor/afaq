@@ -43,7 +43,7 @@ The same can be said of all countries. As such, when supporters of
 "libertarian" capitalism say they are against the "initiation of force," they
 mean only **new** initiations of force: for the system they support was born
 from numerous initiations of force in the past (moreover, it also requires
-state intervention to keep it going \-- [section D.1](secD1.html) addresses
+state intervention to keep it going -- [section D.1](secD1.html) addresses
 this point in some detail). Indeed, many thinkers have argued that it was
 precisely this state support and coercion (particularly the separation of
 people from the land) that played the **key** role in allowing capitalism to
@@ -840,8 +840,7 @@ against enclosure:
 _ They hang the man, and flog the woman,  
 That steals the goose from off the common;  
 But let the greater villain loose,  
-That steals the common from the goose.  
-_
+That steals the common from the goose. _
 
 It should be remembered that the process of enclosure was not limited to just
 the period of the industrial revolution. As Colin Ward notes, _"in Tudor
@@ -884,8 +883,7 @@ _ A college economist planned
 To live without access to land  
 He would have succeeded  
 But found that he needed  
-Food, shelter and somewhere to stand.  
-_
+Food, shelter and somewhere to stand. _
 
 Thus anarchists concern over the _"land monopoly"_ of which the Enclosure Acts
 were but one part. The land monopoly, to use Tucker's words, _"consists in the
@@ -1434,7 +1432,7 @@ basis of freedom in early America. For example, he notes in passing that _"the
 abundance of fertile virgin land in a vast territory enabled individualism to
 come to full flower in many areas."_ [**Conceived in Liberty**, vol. 2, p.
 186] Yet he did not ponder the transformation in social relationships which
-would result when that land was gone. In fact, he was blas about it. _"If
+would result when that land was gone. In fact, he was blasé about it. _"If
 latecomers are worse off,"_ he opined, _"well then that is their proper
 assumption of risk in this free and uncertain world. There is no longer a vast
 frontier in the United States, and there is no point crying over the fact."_
@@ -1969,4 +1967,9 @@ political **and** economic freedom rather than the changing of masters we have
 under capitalism. Anarchism will continue as long as these feelings and hopes
 still exist and they will remain until such time as we organise and abolish
 capitalism and the state.
+
+[‹ F.7 How does the history of "anarcho"-capitalism show that it is not
+anarchist?](/afaq/secF7.html "Go to previous page" ) [up](/afaq/secFcon.html
+"Go to parent page" ) [Section G - Is individualist anarchism capitalistic?
+›](/afaq/secGcon.html "Go to next page" )
 

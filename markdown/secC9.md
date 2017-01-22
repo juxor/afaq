@@ -18,14 +18,15 @@ That is, if prices are going up, unemployment is below the 'natural rate' and
 too low, whether the actual rate is 4, 8, or 10 percent. In this world of
 conservative economics, anybody is 'voluntarily' unemployed. Unemployment is a
 matter of rational choice: some people prefer 'leisure' over the real wage
-available at going (or still lower) wage rates . . .
+available at going (or still lower) wage rates . . .  
+>  _
 
 >
 
-> "Apart from the grossness of this kind of metaphysical legerdemain, the very
-concept of a natural rate of unemployment has a huge built-in bias. It takes
-as granted all the other institutional factors that influence the price level-
-unemployment trade-off (market structures and independent pricing power,
+> _"Apart from the grossness of this kind of metaphysical legerdemain, the
+very concept of a natural rate of unemployment has a huge built-in bias. It
+takes as granted all the other institutional factors that influence the price
+level-unemployment trade-off (market structures and independent pricing power,
 business investment policies at home and abroad, the distribution of income,
 the fiscal and monetary mix, etc.) and focuses solely on the tightness of the
 labour market as the controllable variable. Inflation is the main threat, the
@@ -141,7 +142,7 @@ seem appropriate as most economists (and **The Economist**) do treat the
 market like a god (a theodicy is a specific branch of theology and philosophy
 that attempts to reconcile the existence of evil in the world with the
 assumption of a benevolent God). And, as with all gods, sacrifices are
-required and Phelps theory is the means by which this is achieved. As the
+required and Phelps’ theory is the means by which this is achieved. As the
 magazine noted: _"in much of his work he contends that unemployment is
 necessary to cow workers, ensuring their loyalty to the company and their
 diligence on the job, at a wage the company can afford to pay"_ (i.e., one
@@ -166,7 +167,7 @@ system. Somewhat ironically, then, Phelps got bourgeois economics highest
 prize for restating, in neo-classical jargon, the model of the labour market
 expounded by, say, Marx:
 
-> _"If [capitals] accumulation on the one hand increases the demand for
+> _"If [capital’s] accumulation on the one hand increases the demand for
 labour, it increases on the other the supply of workers by 'setting them
 free', while at the same time the pressure of the unemployed compels those
 that are employed to furnish more labour, and therefore makes the supply of
@@ -211,11 +212,12 @@ were nervous and acting as if the unemployment rate were higher than the 4% it
 reached in the boom. Still, Greenspan was a bit worried, because . . . if the
 pool stayed dry, 'Significant increases in wages, in excess of productivity
 growth, [would] inevitably emerge, absent the unlikely repeal of the law of
-supply and demand.' Which is why Greenspan & Co. raised short-term interest
-rates by about two points during 1999 and the first half of 2000. There was no
-threat of inflation . . . nor were there any signs of rising worker militancy.
-But wages were creeping higher, and the threat of the sack was losing some of
-its bite."_ [Doug Henwood, **After the New Economy**, pp. 206-7]
+supply and demand.' Which is why Greenspan &amp; Co. raised short-term
+interest rates by about two points during 1999 and the first half of 2000.
+There was no threat of inflation . . . nor were there any signs of rising
+worker militancy. But wages were creeping higher, and the threat of the sack
+was losing some of its bite."_ [Doug Henwood, **After the New Economy**, pp.
+206-7]
 
 Which is quite ironic, given that Greenspan's role in the economy was,
 precisely, to _"repeal"_ the _"law of supply and demand."_ As one left-wing
@@ -232,7 +234,7 @@ intervenes in the economy to prevent it from creating too many jobs. But there
 is even more to the story. When the Fed hits the brakes to slow job growth, it
 is not doctors, lawyers, and CEOs who end up without jobs. The people who lose
 are those in the middle and the bottom -- sales clerks, factory workers,
-custodians, and dishwashers. These are the workers who dont get hired or get
+custodians, and dishwashers. These are the workers who don’t get hired or get
 laid off when the economy slows or goes into a recession."_ [**The
 Conservative Nanny State**, p. 31] Thus the state pushes up unemployment rates
 to slow wage growth, and thereby relieve inflationary pressure. The reason
@@ -245,11 +247,12 @@ other employment options. The Fed is well aware of the difficulties that
 employers face in periods of low unemployment. It compiles a regular survey,
 called the 'Beige Book,' of attitudes from around the country about the state
 of the economy. Most of the people interviewed for the Beige Book are
-employers.
+employers.  
+>  _
 
 >
 
-> "From 1997 to 2000, when the unemployment rate was at its lowest levels in
+> _"From 1997 to 2000, when the unemployment rate was at its lowest levels in
 30 years, the Beige Book was filled with complaints that some companies were
 pulling workers from other companies with offers of higher wages and better
 benefits. Some Beige Books reported that firms had to offer such non-wage
@@ -257,11 +260,11 @@ benefits as flexible work hours, child care, or training in order to retain
 workers. The Beige Books give accounts of firms having to send buses into
 inner cities to bring workers out to the suburbs to work in hotels and
 restaurants. It even reported that some employers were forced to hire workers
-with handicaps in order to meet their needs for labour.
+with handicaps in order to meet their needs for labour. _
 
 >
 
-> "From the standpoint of employers, life is much easier when the workers are
+> _"From the standpoint of employers, life is much easier when the workers are
 lined up at the door clamouring for jobs than when workers have the option to
 shop around for better opportunities. Employers can count on a sympathetic ear
 from the Fed. When the Fed perceives too much upward wage pressure, it slams
@@ -361,7 +364,7 @@ is observed is natural -- case closed.
 
 Since natural rate theory cannot be tested, a sensible thing would be to
 examine its assumptions for plausibility and reasonableness. However, Milton
-Friedmans early work on economic methodology blocks this route as he asserted
+Friedman’s early work on economic methodology blocks this route as he asserted
 that realism and plausibility of assumptions have no place in economics. With
 most economists blindly accepting this position, the result is a church in
 which entry is conditional on accepting particular assumptions about the
@@ -378,7 +381,7 @@ interest incomes and full employment squeezes profits by increasing workers'
 power). This does not seem to bother most economists, for whom empirical
 evidence at the best of times is of little consequence. This is doubly true
 with the NAIRU, for with an invisible, mobile value, the theory is always true
-after the fact \-- if inflation rises as unemployment rises, then the natural
+after the fact -- if inflation rises as unemployment rises, then the natural
 rate has increased; if inflation falls as unemployment rises, it has fallen!
 As post-Keynesian economist James K. Galbraith noted in his useful critique of
 the NAIRU, _"as the real unemployment rate moves, the apparent NAIRU moves in
@@ -833,11 +836,12 @@ process described by Kropotkin (nearly 40 years before Keynes made the same
 point in **The General Theory**):
 
 > _"Profits being the basis of capitalist industry, low profits explain all
-ulterior consequences.
+ulterior consequences.  
+>  _
 
 >
 
-> "Low profits induce the employers to reduce the wages, or the number of
+> _"Low profits induce the employers to reduce the wages, or the number of
 workers, or the number of days of employment during the week. . . As Adam
 Smith said, low profits ultimately mean a reduction of wages, and low wages
 mean a reduced consumption by the worker. Low profits mean also a somewhat
@@ -1035,7 +1039,7 @@ unemployment can exist"_ as reducing the wage need not bring the demand and
 supply of labour into alignment. While the possibility of backward-bending
 labour supply curves is sometimes pointed out in textbooks, the assumption of
 an upward sloping supply curve is taken as the normal situation but _"there is
-no theoretical \-- or empirical -- justification for this."_ Sadly for the
+no theoretical -- or empirical -- justification for this."_ Sadly for the
 world, this assumption is used to draw very strong conclusions by economists.
 The standard arguments against minimum wage legislation, trade unions and
 demand management by government are all based on it. Yet, as Keen notes, such
@@ -1231,10 +1235,10 @@ increase in real wages.
 
 Since then, economists have generally confirmed that real wage are
 procyclical. In fact, _"a great deal of empirical research has been conducted
-in this area \-- research which mostly contradicts the neo-classical
-assumption of an inverse relation between real wages and employment."_
-[Ferdinando Targetti, **Nicholas Kaldor**, p. 50] Nicholas Kaldor, one of the
-first Keynesians, also stressed that the notion that there is an inverse
+in this area -- research which mostly contradicts the neo-classical assumption
+of an inverse relation between real wages and employment."_ [Ferdinando
+Targetti, **Nicholas Kaldor**, p. 50] Nicholas Kaldor, one of the first
+Keynesians, also stressed that the notion that there is an inverse
 relationship between real wages and employment is _"contradicted by numerous
 empirical studies which show that, in the short period, changes in real wages
 are positively correlated with changes in employment and not negatively."_
@@ -1247,11 +1251,12 @@ employment. Wages -- especially for the least-skilled and lowest paid -- are
 lowest when there is least employment. The causes chiefly run from the
 employment to the wages, rather than the other way. Unemployment weakens the
 bargaining power, worsens the job security and working conditions, and lowers
-the pay of those still in jobs.
+the pay of those still in jobs.  
+>  _
 
 >
 
-> "The lower wages do not induce employers to create more jobs . . . most
+> _"The lower wages do not induce employers to create more jobs . . . most
 business firms have no reason to take on more hands if wages decline. Only
 empty warehouses, or the prospect of more sales can get them to do that, and
 these conditions rarely coincide with falling employment and wages. The causes
@@ -1267,15 +1272,16 @@ other economists that suggests high wages do not cause unemployment:
 unemployment -- and what they have discovered is another major challenge to
 the free market account of the labour market. Free market theory would predict
 that low wages would be correlated with low local unemployment; and high wages
-with high local unemployment.
+with high local unemployment.  
+>  _
 
 >
 
-> "Blanchflower and Oswald have found precisely the opposite relationship. The
-higher the wages, the lower the local unemployment -- and the lower the wages,
-the higher the local unemployment. As they say, this is not a conclusion that
-can be squared with free market text-book theories of how a competitive labour
-market should work."_ [**The State We're In**, p. 102]
+> _"Blanchflower and Oswald have found precisely the opposite relationship.
+The higher the wages, the lower the local unemployment -- and the lower the
+wages, the higher the local unemployment. As they say, this is not a
+conclusion that can be squared with free market text-book theories of how a
+competitive labour market should work."_ [**The State We're In**, p. 102]
 
 Unemployment was highest where real wages were lowest and nowhere had falling
 wages being followed by rising employment or falling unemployment.
@@ -2013,18 +2019,19 @@ massive imbalance of power that exists between individual workers and
 corporate capital. The importance of labour market bargaining power for the
 distribution of income, means that unions are a fundamental prop for
 widespread prosperity. Weakening unions does not create a 'natural' market: it
-just creates a market in which business has the power to dominate labour.
+just creates a market in which business has the power to dominate labour.  
+>  _
 
 >
 
-> "The notion of perfect natural markets is built on the assumption that
+> _"The notion of perfect natural markets is built on the assumption that
 market participants have no power. In reality, the process of labour exchange
 is characterised not only by the presence of power, but also by gross
 inequality of power. An individual worker is at a great disadvantage in
 dealing with large corporations that have access to massive pools of capital
 and can organise in a fashion that renders every individual dispensible . . .
 Unions help rectify the imbalance of power in labour markets, and they
-therefore correct market failure rather than causing it."_ {**Op. Cit.**, pp.
+therefore correct market failure rather than causing it."_ [**Op. Cit.**, pp.
 36-7]
 
 The welfare state also increases the bargaining power of workers against their
@@ -2329,4 +2336,9 @@ ultimately, cannot provide full employment simply because labour is **not** a
 commodity (and as we discussed in [section C.7](secC7.html), this revolt
 against commodification is a key part of understanding the business cycle and
 so unemployment).
+
+[‹ C.8 Is state control of credit the cause of the business
+cycle?](/afaq/secC8.html "Go to previous page" ) [up](/afaq/secCcon.html "Go
+to parent page" ) [C.10 Is "free market" capitalism the best way to reduce
+poverty? ›](/afaq/secC10.html "Go to next page" )
 

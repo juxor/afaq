@@ -117,7 +117,7 @@ It appears that, for Rothbard, the collusion between state and business is the
 fault, not of capitalism, but of particular capitalists. The system is pure;
 only individuals are corrupt. But, for anarchists, the origins of the modern
 state-capitalist system lies not in the individual qualities of capitalists as
-such but in the dynamic and evolution of capitalism itself \-- a complex
+such but in the dynamic and evolution of capitalism itself -- a complex
 interaction of class interest, class struggle, social defence against the
 destructive actions of the market, individual qualities and so forth. In other
 words, Rothbard's claims are flawed -- they fail to understand capitalism as a
@@ -527,9 +527,9 @@ _ A college economist planned
 To live without access to land  
 He would have succeeded  
 But found that he needed  
-Food, shelter and somewhere to stand.  
+Food, shelter and somewhere to stand. _
 
-_ Thus the Individualist (and other) anarchists' concern over the _"land
+Thus the Individualist (and other) anarchists' concern over the _"land
 monopoly"_ of which the Enclosure Acts were but one part. The land monopoly,
 to use Tucker's words, _"consists in the enforcement by government of land
 titles which do not rest upon personal occupancy and cultivation."_ [**The
@@ -1195,4 +1195,10 @@ creation of a labour market, his attempt to refute anarchist analysis of the
 history of "actually existing capitalism" also fails. Society is the product
 of collective activity and should belong to us all (although whether and how
 we divide it up is another question).
+
+[‹ 7 How does the history of "anarcho"-capitalism show that it is not
+anarchist?](/afaq/append137.html "Go to previous page" )
+[up](/afaq/append13.html "Go to parent page" ) [9 Is Medieval Iceland an
+example of "anarcho"-capitalism working in practice? ›](/afaq/append139.html
+"Go to next page" )
 

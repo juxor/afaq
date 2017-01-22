@@ -12,7 +12,7 @@ Makes slaves of men, and, of the human frame,
 A mechanised automaton.  
 _**
 
-As Shelley's lines suggest, anarchists place a high priority on liberty,
+ As Shelley's lines suggest, anarchists place a high priority on liberty,
 desiring it both for themselves and others. They also consider individuality
 -- that which makes one a unique person -- to be a most important aspect of
 humanity. They recognise, however, that individuality does not exist in a
@@ -183,7 +183,7 @@ than the peace of slavery. Anarchists, as a result of our ideals, _"believe in
 peace at any price -- except at the price of liberty. But this precious gift
 the wealth-producers already seem to have lost. Life . . . they have; but what
 is life worth when it lacks those elements which make for enjoyment?"_ [Lucy
-Parsons, **Liberty, Equality & Solidarity**, p. 103, p. 131, p. 103 and p.
+Parsons, **Liberty, Equality &amp; Solidarity**, p. 103, p. 131, p. 103 and p.
 134]
 
 So, in a nutshell, Anarchists seek a society in which people interact in ways
@@ -218,13 +218,11 @@ will he realise the true force of the social bonds which tie men together, and
 which are the true foundations of a normal social life."_ [**Op. Cit.**, pp.
 72-3]
 
-
-
- Thus, for anarchists, freedom is basically individuals pursuing their own
-good in their own way. Doing so calls forth the activity and power of
-individuals as they make decisions for and about themselves and their lives.
-Only liberty can ensure individual development and diversity. This is because
-when individuals govern themselves and make their own decisions they have to
+Thus, for anarchists, freedom is basically individuals pursuing their own good
+in their own way. Doing so calls forth the activity and power of individuals
+as they make decisions for and about themselves and their lives. Only liberty
+can ensure individual development and diversity. This is because when
+individuals govern themselves and make their own decisions they have to
 exercise their minds and this can have no other effect than expanding and
 stimulating the individuals involved. As Malatesta put it, _"[f]or people to
 become educated to freedom and the management of their own interests, they
@@ -233,9 +231,7 @@ actions in the good or bad that comes from them. They'd make mistakes, but
 they'd understand from the consequences where they'd gone wrong and try out
 new ways."_ [**Fra Contadini**, p. 26]
 
-
-
- So, liberty is the precondition for the maximum development of one's
+So, liberty is the precondition for the maximum development of one's
 individual potential, which is also a social product and can be achieved only
 in and through community. A healthy, free community will produce free
 individuals, who in turn will shape the community and enrich the social
@@ -250,9 +246,7 @@ the political rights and privileges which we enjoy today in greater or lesser
 measures, not to the good will of their governments, but to their own
 strength."_ [Rudolf Rocker, **Anarcho-syndicalism**, p. 75]
 
-
-
- It is for this reason anarchists support the tactic of **_"Direct Action"_**
+It is for this reason anarchists support the tactic of **_"Direct Action"_**
 (see [section J.2](secJ2.html)) for, as Emma Goldman argued, we have _"as much
 liberty as [we are] willing to take. Anarchism therefore stands for direct
 action, the open defiance of, and resistance to, all laws and restrictions,
@@ -263,9 +257,7 @@ authority in the shop, direct action against the authority of the law, direct
 action against the invasive, meddlesome authority of our moral code, is the
 logical, consistent method of Anarchism."_ [**Red Emma Speaks**, pp. 76-7]
 
-
-
- Direct action is, in other words, the application of liberty, used to resist
+Direct action is, in other words, the application of liberty, used to resist
 oppression in the here and now as well as the means of creating a free
 society. It creates the necessary individual mentality and social conditions
 in which liberty flourishes. Both are essential as liberty develops only
@@ -277,11 +269,9 @@ development -- which is not to deny that individuals play an important role in
 that development, indeed are ultimately obliged to do so if they wish to be
 free."_ [**Social Anarchism or Lifestyle Anarchism**, p. 15]
 
-
-
- But freedom requires the right **kind** of social environment in which to
-grow and develop. Such an environment **must** be decentralised and based on
-the direct management of work by those who do it. For centralisation means
+But freedom requires the right **kind** of social environment in which to grow
+and develop. Such an environment **must** be decentralised and based on the
+direct management of work by those who do it. For centralisation means
 coercive authority (hierarchy), whereas self-management is the essence of
 freedom. Self-management ensures that the individuals involved use (and so
 develop) all their abilities -- particularly their mental ones. Hierarchy, in
@@ -290,9 +280,7 @@ and thoughts of all the individuals involved. Thus, rather than developing
 their abilities to the full, hierarchy marginalises the many and ensures that
 their development is blunted (see also [section B.1](secB1.html)).
 
-
-
- It is for this reason that anarchists oppose both capitalism and statism. As
+It is for this reason that anarchists oppose both capitalism and statism. As
 the French anarchist Sebastien Faure noted, authority _"dresses itself in two
 principal forms: the political form, that is the State; and the economic form,
 that is private property."_ [cited by Peter Marshall, **Demanding the
@@ -304,17 +292,13 @@ upon one condition: that of the appropriation of capital, that is, of raw
 material and all the tools of labour, including land, by the whole body of the
 workers."_ [Michael Bakunin, quoted by Rudolf Rocker, **Op. Cit.**, p. 50]
 
-
-
- Hence, as Noam Chomsky argues, a _"consistent anarchist must oppose private
+Hence, as Noam Chomsky argues, a _"consistent anarchist must oppose private
 ownership of the means of production and the wage slavery which is a component
 of this system, as incompatible with the principle that labour must be freely
 undertaken and under the control of the producer."_ [_"Notes on Anarchism"_,
 **For Reasons of State**, p. 158]
 
-
-
- Thus, liberty for anarchists means a non-authoritarian society in which
+Thus, liberty for anarchists means a non-authoritarian society in which
 individuals and groups practice self-management, i.e. they govern themselves.
 The implications of this are important. First, it implies that an anarchist
 society will be non-coercive, that is, one in which violence or the threat of
@@ -331,9 +315,7 @@ anarchist organisation). For authority is the opposite of liberty, and hence
 any form of organisation based on the delegation of power is a threat to the
 liberty and dignity of the people subjected to that power.
 
-
-
- Anarchists consider freedom to be the only social environment within which
+Anarchists consider freedom to be the only social environment within which
 human dignity and diversity can flower. Under capitalism and statism, however,
 there is no freedom for the majority, as private property and hierarchy ensure
 that the inclination and judgement of most individuals will be subordinated to
@@ -351,27 +333,22 @@ finer and nobler instincts in the gain of one revolting attribute, the power
 to count and calculate."_ [Voltairine de Cleyre, **The First Mayday: The
 Haymarket Speeches 1895-1910**, pp, 17-18]
 
-
-
- (See [section B](secBcon.html) for further discussion of the hierarchical and
+(See [section B](secBcon.html) for further discussion of the hierarchical and
 authoritarian nature of capitalism and statism).
 
+## A.2.3 Are anarchists in favour of organisation?
 
-
- ## A.2.3 Are anarchists in favour of organisation?
-
-
-
- Yes. Without association, a truly human life is impossible. Liberty
-**cannot** exist without society and organisation. As George Barrett pointed
-out:
+Yes. Without association, a truly human life is impossible. Liberty **cannot**
+exist without society and organisation. As George Barrett pointed out:
 
 > _"To get the full meaning out of life we must co-operate, and to co-operate
 we must make agreements with our fellow-men. But to suppose that such
 agreements mean a limitation of freedom is surely an absurdity; on the
-contrary, they are the exercise of our freedom.
+contrary, they are the exercise of our freedom. _
 
-"If we are going to invent a dogma that to make agreements is to damage
+>
+
+> _"If we are going to invent a dogma that to make agreements is to damage
 freedom, then at once freedom becomes tyrannical, for it forbids men to take
 the most ordinary everyday pleasures. For example, I cannot go for a walk with
 my friend because it is against the principle of Liberty that I should agree
@@ -380,16 +357,16 @@ extend my own power beyond myself, because to do so I must co-operate with
 someone else, and co-operation implies an agreement, and that is against
 Liberty. It will be seen at once that this argument is absurd. I do not limit
 my liberty, but simply exercise it, when I agree with my friend to go for a
-walk.
+walk. _
 
-"If, on the other hand, I decide from my superior knowledge that it is good
+>
+
+> _"If, on the other hand, I decide from my superior knowledge that it is good
 for my friend to take exercise, and therefore I attempt to compel him to go
 for a walk, then I begin to limit freedom. This is the difference between free
 agreement and government."_ [**Objections to Anarchism**, pp. 348-9]
 
-
-
- As far as organisation goes, anarchists think that _"far from creating
+As far as organisation goes, anarchists think that _"far from creating
 authority, [it] is the only cure for it and the only means whereby each of us
 will get used to taking an active and conscious part in collective work, and
 cease being passive instruments in the hands of leaders."_ [Errico Malatesta,
@@ -404,9 +381,7 @@ information and resources"_ are based on _"good social anarchist principles of
 organisation!"_ [_"Socialism, Anarchism and Feminism"_, **Quiet Rumours: An
 Anarcha-Feminist Reader**, p. 47 and p. 46]
 
-
-
- The fact that anarchists are in favour of organisation may seem strange at
+The fact that anarchists are in favour of organisation may seem strange at
 first, but it is understandable. _"For those with experience only of
 authoritarian organisation,"_ argue two British anarchists, _"it appears that
 organisation can only be totalitarian or democratic, and that those who
@@ -422,9 +397,7 @@ existed for about 5,000 years, having appeared with the first primitive states
 based on conquest and slavery, in which the labour of slaves created a surplus
 which supported a ruling class.
 
-
-
- Prior to that time, for hundreds of thousands of years, human and proto-human
+Prior to that time, for hundreds of thousands of years, human and proto-human
 societies were what Murray Bookchin calls _"organic,"_ that is, based on co-
 operative forms of economic activity involving mutual aid, free access to
 productive resources, and a sharing of the products of communal labour
@@ -434,9 +407,7 @@ subordination relations enforced by coercive sanctions and resulting in class-
 stratification involving the economic exploitation of one class by another
 (see Murray Bookchin, **The Ecology of Freedom**).
 
-
-
- It must be emphasised, however, that anarchists do **not** advocate going
+It must be emphasised, however, that anarchists do **not** advocate going
 "back to the Stone Age." We merely note that since the hierarchical-
 authoritarian mode of organisation is a relatively recent development in the
 course of human social evolution, there is no reason to suppose that it is
@@ -449,9 +420,7 @@ We are not fatalists or genetic determinists, but believe in free will, which
 means that people can change the way they do things, including the way they
 organise society.
 
-
-
- And there is no doubt that society needs to be better organised, because
+And there is no doubt that society needs to be better organised, because
 presently most of its wealth -- which is produced by the majority -- and power
 gets distributed to a small, elite minority at the top of the social pyramid,
 causing deprivation and suffering for the rest, particularly for those at the
@@ -472,14 +441,10 @@ organisation or union may with impunity be discriminated against, suppressed
 or ignored. To do so would be the same as to ignore an aching tooth: you would
 be sick all over."_ [**Op. Cit.**, p. 198]
 
+Yet this is precisely what happens in capitalist society, with the result that
+it is, indeed, _"sick all over."_
 
-
- Yet this is precisely what happens in capitalist society, with the result
-that it is, indeed, _"sick all over."_
-
-
-
- For these reasons, anarchists reject authoritarian forms of organisation and
+For these reasons, anarchists reject authoritarian forms of organisation and
 instead support associations based on free agreement. Free agreement is
 important because, in Berkman's words, _"[o]nly when each is a free and
 independent unit, co-operating with others from his own choice because of
@@ -490,9 +455,7 @@ democracy (or, as it is usually called by anarchists, self-management) within
 the association itself otherwise "freedom" become little more than picking
 masters.
 
-
-
- Anarchist organisation is based on a massive decentralisation of power back
+Anarchist organisation is based on a massive decentralisation of power back
 into the hands of the people, i.e. those who are directly affected by the
 decisions being made. To quote Proudhon:
 
@@ -500,12 +463,10 @@ decisions being made. To quote Proudhon:
 must be admitted that each citizen in the sphere of his [or her] industry,
 each municipal, district or provincial council within its own territory . . .
 should act directly and by itself in administering the interests which it
-includes, and should exercise full sovereignty in relation to them."_ [**The
-General Idea of the Revolution**, p. 276]
+includes, and should exercise full sovereignty in relation to them."_
+[**General Idea of the Revolution**, p. 276]
 
-
-
- It also implies a need for federalism to co-ordinate joint interests. For
+It also implies a need for federalism to co-ordinate joint interests. For
 anarchism, federalism is the natural complement to self-management. With the
 abolition of the State, society _"can, and must, organise itself in a
 different fashion, but not from top to bottom . . . The future social
@@ -522,9 +483,7 @@ spontaneous organisation of popular life."_ Thus libertarian socialism _"is
 federalistic in character."_ [Bakunin, **The Political Philosophy of
 Bakunin**, pp. 273-4 and p. 272]
 
-
-
- Therefore, anarchist organisation is based on direct democracy (or self-
+Therefore, anarchist organisation is based on direct democracy (or self-
 management) and federalism (or confederation). These are the expression and
 environment of liberty. Direct (or participatory) democracy is essential
 because liberty and equality imply the need for forums within which people can
@@ -535,41 +494,29 @@ organised in a way which reflects the wishes of all those affected by them. To
 ensure that decisions flow from the bottom up rather than being imposed from
 the top down by a few rulers.
 
-
-
- Anarchist ideas on libertarian organisation and the need for direct democracy
+Anarchist ideas on libertarian organisation and the need for direct democracy
 and confederation will be discussed further in sections [
 A.2.9](secA2.html#seca29) and [ A.2.11](secA2.html#seca211).
 
+## A.2.4 Are anarchists in favour of "absolute" liberty?
 
-
- ## A.2.4 Are anarchists in favour of "absolute" liberty?
-
-
-
- No. Anarchists do not believe that everyone should be able to _"do_ _whatever
+No. Anarchists do not believe that everyone should be able to _"do_ _whatever
 they like,"_ because some actions invariably involve the denial of the liberty
 of others.
 
-
-
- For example, anarchists do not support the "freedom" to rape, to exploit, or
+For example, anarchists do not support the "freedom" to rape, to exploit, or
 to coerce others. Neither do we tolerate authority. On the contrary, since
 authority is a threat to liberty, equality, and solidarity (not to mention
 human dignity), anarchists recognise the need to resist and overthrow it.
 
+The exercise of authority is not freedom. No one has a "right" to rule others.
+As Malatesta points out, anarchism supports _"freedom for everybody . . . with
+the only limit of the equal freedom for others; which does **not** mean . . .
+that we recognise, and wish to respect, the 'freedom' to exploit, to oppress,
+to command, which is oppression and certainly not freedom." _[**Errico
+Malatesta: His Life and Ideas**, p. 53]
 
-
- The exercise of authority is not freedom. No one has a "right" to rule
-others. As Malatesta points out, anarchism supports _"freedom for everybody .
-. . with the only limit of the equal freedom for others; which does **not**
-mean . . . that we recognise, and wish to respect, the 'freedom' to exploit,
-to oppress, to command, which is oppression and certainly not freedom."
-_[**Errico Malatesta: His Life and Ideas**, p. 53]
-
-
-
- In a capitalist society, resistance to all forms of hierarchical authority is
+In a capitalist society, resistance to all forms of hierarchical authority is
 the mark of a free person -- be it private (the boss) or public (the state).
 As Henry David Thoreau pointed out in his essay on **"Civil**
 **Disobedience"** (1847)
@@ -577,22 +524,16 @@ As Henry David Thoreau pointed out in his essay on **"Civil**
 > _"Disobedience is the true foundation of liberty. The obedient must be
 slaves."_
 
+## A.2.5 Why are anarchists in favour of equality?
 
-
- ## A.2.5 Why are anarchists in favour of equality?
-
-
-
- As mentioned in [above](secA2.html), anarchists are dedicated to social
+As mentioned in [above](secA2.html), anarchists are dedicated to social
 equality because it is the only context in which individual liberty can
 flourish. However, there has been much nonsense written about "equality," and
 much of what is commonly believed about it is very strange indeed. Before
 discussing what anarchist **do** mean by equality, we have to indicate what we
 **do not** mean by it.
 
-
-
- Anarchists do **not** believe in _"equality of endowment,"_ which is not only
+Anarchists do **not** believe in _"equality of endowment,"_ which is not only
 non-existent but would be **very** undesirable if it could be brought about.
 Everyone is unique. Biologically determined human differences not only exist
 but are _"a cause for joy, not fear or regret."_ Why? Because _"life among
@@ -600,9 +541,7 @@ clones would not be worth living, and a sane person will only rejoice that
 others have abilities that they do not share." _ [Noam Chomsky, **Marxism,
 Anarchism, and Alternative Futures**, p. 782]
 
-
-
- That some people **seriously** suggest that anarchists means by "equality"
+That some people **seriously** suggest that anarchists means by "equality"
 that everyone should be **identical** is a sad reflection on the state of
 present-day intellectual culture and the corruption of words -- a corruption
 used to divert attention from an unjust and authoritarian system and side-
@@ -618,9 +557,7 @@ anarchists seek equality **because** we recognise that everyone is different
 and, consequently, seek the full affirmation and development of that
 uniqueness.
 
-
-
- Nor are anarchists in favour of so-called _"equality of outcome."_ We have
+Nor are anarchists in favour of so-called _"equality of outcome."_ We have
 **no** desire to live in a society were everyone gets the same goods, lives in
 the same kind of house, wears the same uniform, etc. Part of the reason for
 the anarchist revolt against capitalism and statism is that they standardise
@@ -634,15 +571,11 @@ without independence or individuality. . . All of us are its victims, and only
 the exceptionally strong succeed in breaking its chains, and that only
 partly."_ [**What is Anarchism?**, p. 165]
 
-
-
- Anarchists, therefore, have little to desire to make this _"common grove"_
+Anarchists, therefore, have little to desire to make this _"common grove"_
 even deeper. Rather, we desire to destroy it and every social relationship and
 institution that creates it in the first place.
 
-
-
- _"Equality of outcome"_ can only be introduced and maintained by force, which
+_"Equality of outcome"_ can only be introduced and maintained by force, which
 would **not** be equality anyway, as some would have more power than others!
 _"Equality of outcome"_ is particularly hated by anarchists, as we recognise
 that every individual has different needs, abilities, desires and interests.
@@ -656,19 +589,22 @@ not make the mistake of identifying equality in liberty with the forced
 equality of the convict camp. True anarchist equality implies freedom, not
 quantity. It does not mean that every one must eat, drink, or wear the same
 things, do the same work, or live in the same manner. Far from it: the very
-reverse in fact."
+reverse in fact."  
+>  _
 
-"Individual needs and tastes differ, as appetites differ. It is **equal
-opportunity to satisfy** them that constitutes true equality.
+>
 
-"Far from levelling, such equality opens the door for the greatest possible
+> _"Individual needs and tastes differ, as appetites differ. It is **equal
+opportunity to satisfy** them that constitutes true equality. _
+
+>
+
+> _"Far from levelling, such equality opens the door for the greatest possible
 variety of activity and development. For human character is diverse . . . Free
 opportunity of expressing and acting out your individuality means development
 of natural dissimilarities and variations."_ [**Op. Cit.**, pp. 164-5]
 
-
-
- For anarchists, the "concepts" of "equality" as "equality of outcome" or
+For anarchists, the "concepts" of "equality" as "equality of outcome" or
 "equality of endowment" are meaningless. However, in a hierarchical society,
 "equality of opportunity" and "equality of outcome" **are** related. Under
 capitalism, for example, the opportunities each generation face are dependent
@@ -684,9 +620,7 @@ misconception that anarchists desire "equality of outcome" -- but this applies
 to a hierarchical system, in a free society this would not the case (as we
 will see).
 
-
-
- Equality, in anarchist theory, does not mean denying individual diversity or
+Equality, in anarchist theory, does not mean denying individual diversity or
 uniqueness. As Bakunin observes:
 
 > _ "once equality has triumphed and is well established, will various
@@ -702,9 +636,7 @@ diversity of human individuals is the fundamental cause and the very basis of
 their solidarity. It is all-powerful argument for equality."_ [_"All-Round
 Education"_, **The Basic Bakunin**, pp. 117-8]
 
-
-
- Equality for anarchists means **social** equality, or, to use Murray
+Equality for anarchists means **social** equality, or, to use Murray
 Bookchin's term, the **_"equality of unequals"_** (some like Malatesta used
 the term **_"equality of conditions"_** to express the same idea). By this he
 means that an anarchist society recognises the differences in ability and need
@@ -714,9 +646,7 @@ inequality in fact is lost in the collectivity when it cannot cling to some
 legal fiction or institution."_ [Michael Bakunin, **God and the State**, p.
 53]
 
-
-
- If hierarchical social relationships, and the forces that create them, are
+If hierarchical social relationships, and the forces that create them, are
 abolished in favour of ones that encourage participation and are based on the
 principle of "one person, one vote" then natural differences would not be able
 to be turned into hierarchical power. For example, without capitalist property
@@ -726,12 +656,17 @@ the wages system and usury (profits, rent and interest). Similarly, if workers
 manage their own work, there is no class of capitalists to grow rich off their
 labour. Thus Proudhon:
 
-> _"Now, what can be the origin of this inequality?
+> _"Now, what can be the origin of this inequality?  
+>  _
 
-"As we see it, . . . that origin is the realisation within society of this
-triple abstraction: capital, labour and talent.
+>
 
-"It is because society has divided itself into three categories of citizen
+> _"As we see it, . . . that origin is the realisation within society of this
+triple abstraction: capital, labour and talent. _
+
+>
+
+> _"It is because society has divided itself into three categories of citizen
 corresponding to the three terms of the formula. . . that caste distinctions
 have always been arrived at, and one half of the human race enslaved to the
 other. . . socialism thus consists of reducing the aristocratic formula of
@@ -739,31 +674,25 @@ capital-labour-talent into the simpler formula of labour!. . . in order to
 make every citizen simultaneously, equally and to the same extent capitalist,
 labourer and expert or artist."_ [**No Gods, No Masters**, vol. 1, pp. 57-8]
 
-
-
- Like all anarchists, Proudhon saw this integration of functions as the key to
+Like all anarchists, Proudhon saw this integration of functions as the key to
 equality and freedom and proposed self-management as the means to achieve it.
 Thus self-management is the key to social equality. Social equality in the
 workplace, for example, means that everyone has an equal say in the policy
 decisions on how the workplace develops and changes. Anarchists are strong
 believers in the maxim "that which touches all, is decided by all."
 
+This does not mean, of course, that expertise will be ignored or that everyone
+will decide everything. As far as expertise goes, different people have
+different interests, talents, and abilities, so obviously they will want to
+study different things and do different kinds of work. It is also obvious that
+when people are ill they consult a doctor -- an expert -- who manages his or
+her own work rather than being directed by a committee. We are sorry to have
+to bring these points up, but once the topics of social equality and workers'
+self-management come up, some people start to talk nonsense. It is common
+sense that a hospital managed in a socially equal way will **not** involve
+non-medical staff voting on how doctors should perform an operation!
 
-
- This does not mean, of course, that expertise will be ignored or that
-everyone will decide everything. As far as expertise goes, different people
-have different interests, talents, and abilities, so obviously they will want
-to study different things and do different kinds of work. It is also obvious
-that when people are ill they consult a doctor -- an expert \-- who manages
-his or her own work rather than being directed by a committee. We are sorry to
-have to bring these points up, but once the topics of social equality and
-workers' self-management come up, some people start to talk nonsense. It is
-common sense that a hospital managed in a socially equal way will **not**
-involve non-medical staff voting on how doctors should perform an operation!
-
-
-
- In fact, social equality and individual liberty are inseparable. Without the
+In fact, social equality and individual liberty are inseparable. Without the
 collective self-management of decisions that affect a group (equality) to
 complement the individual self-management of decisions that affect the
 individual (liberty), a free society is impossible. For without both, some
@@ -775,9 +704,7 @@ her] entire measure of the wealth of society but also his [or her] portion of
 social power."_ [Malatesta and Hamon, **No Gods, No Masters**, vol. 2, p. 20]
 Thus self-management is needed to ensure both liberty **and** equality.
 
-
-
- Social equality is required for individuals to both govern and express
+Social equality is required for individuals to both govern and express
 themselves, for the self-management it implies means _"people working in face-
 to-face relations with their fellows in order to bring the uniqueness of their
 own perspective to the business of solving common problems and achieving
@@ -785,50 +712,38 @@ common goals."_ [George Benello, **From the Ground Up**, p. 160] Thus equality
 allows the expression of individuality and so is a necessary base for
 individual liberty.
 
-
-
- Section F.3 (["Why do 'anarcho'-capitalists place little or no value on
+Section F.3 (["Why do 'anarcho'-capitalists place little or no value on
 equality?"](secF3.html)) discusses anarchist ideas on equality further. Noam
 Chomsky's essay _"Equality"_ (contained in **The Chomsky Reader**) is a good
 summary of libertarian ideas on the subject.
 
+## A.2.6 Why is solidarity important to anarchists?
 
-
- ## A.2.6 Why is solidarity important to anarchists?
-
-
-
- Solidarity, or mutual aid, is a key idea of anarchism. It is the link between
+Solidarity, or mutual aid, is a key idea of anarchism. It is the link between
 the individual and society, the means by which individuals can work together
 to meet their common interests in an environment that supports and nurtures
 both liberty and equality. For anarchists, mutual aid is a fundamental feature
 of human life, a source of both strength and happiness and a fundamental
 requirement for a fully human existence.
 
-
-
- Erich Fromm, noted psychologist and socialist humanist, points out that the
+Erich Fromm, noted psychologist and socialist humanist, points out that the
 _"human desire to experience union with others is rooted in the specific
 conditions of existence that characterise the human species and is one of the
 strongest motivations of human behaviour."_ [**To Be or To Have**, p.107]
 
-
-
- Therefore anarchists consider the desire to form "unions" (to use Max
+Therefore anarchists consider the desire to form "unions" (to use Max
 Stirner's term) with other people to be a natural need. These unions, or
 associations, must be based on equality and individuality in order to be fully
 satisfying to those who join them -- i.e. they must be organised in an
 anarchist manner, i.e. voluntary, decentralised, and non-hierarchical.
 
-
-
- Solidarity -- co-operation between individuals -- is necessary for life and
-is far from a denial of liberty. Solidarity, observed Errico Malatesta, _"is
-the only environment in which Man can express his personality and achieve his
+Solidarity -- co-operation between individuals -- is necessary for life and is
+far from a denial of liberty. Solidarity, observed Errico Malatesta, _"is the
+only environment in which Man can express his personality and achieve his
 optimum development and enjoy the greatest possible wellbeing."_ This _"coming
 together of individuals for the wellbeing of all, and of all for the wellbeing
 of each,"_ results in _"the freedom of each not being limited by, but
-complemented -- indeed finding the necessary **raison d'etre** in \-- the
+complemented -- indeed finding the necessary **raison d'etre** in -- the
 freedom of others."_ [**Anarchy**, p. 29] In other words, solidarity and co-
 operation means treating each other as equals, refusing to treat others as
 means to an end and creating relationships which support freedom for all
@@ -840,13 +755,11 @@ for the survival and evolution of the species. . . . only mutual aid and
 voluntary co-operation . . . can create the basis for a free individual and
 associational life."_ [**Red Emma Speaks**, p. 118]
 
-
-
- Solidarity means associating together as equals in order to satisfy our
-common interests and needs. Forms of association not based on solidarity (i.e.
-those based on inequality) will crush the individuality of those subjected to
-them. As Ret Marut points out, liberty needs solidarity, the recognition of
-common interests:
+Solidarity means associating together as equals in order to satisfy our common
+interests and needs. Forms of association not based on solidarity (i.e. those
+based on inequality) will crush the individuality of those subjected to them.
+As Ret Marut points out, liberty needs solidarity, the recognition of common
+interests:
 
 > _"The most noble, pure and true love of mankind is the love of oneself.
 **I** want to be free! **I** hope to be happy! **I** want to appreciate all
@@ -861,9 +774,7 @@ which threatens my freedom and my happiness. . ."_ [Ret Marut (a.k.a. B.
 Traven), **The BrickBurner** magazine quoted by Karl S. Guthke, **B. Traven:
 The life behind the legends**, pp. 133-4]
 
-
-
- To practice solidarity means that we recognise, as in the slogan of
+To practice solidarity means that we recognise, as in the slogan of
 **Industrial Workers of the World**, that _"an injury to one is an injury to
 all."_ Solidarity, therefore, is the means to protect individuality and
 liberty and so is an expression of self-interest. As Alfie Kohn points out:
@@ -879,9 +790,7 @@ school even more effectively than competition does. . . There is also good
 evidence that co-operation is more conductive to psychological health and to
 liking one another."_ [**No Contest: The Case Against Competition**, p. 7]
 
-
-
- And, within a hierarchical society, solidarity is important not only because
+And, within a hierarchical society, solidarity is important not only because
 of the satisfaction it gives us, but also because it is necessary to resist
 those in power. Malatesta's words are relevant here:
 
@@ -891,9 +800,7 @@ freedom and wellbeing, are beginning to understand that they will not be able
 to achieve their emancipation except by union and solidarity with all the
 oppressed, with the exploited everywhere in the world."_ [**Anarchy**, p. 33]
 
-
-
- By standing together, we can increase our strength and get what we want.
+By standing together, we can increase our strength and get what we want.
 Eventually, by organising into groups, we can start to manage our own
 collective affairs together and so replace the boss once and for all.
 _"**Unions** will. . . multiply the individual's means and secure his assailed
@@ -902,9 +809,7 @@ solidarity, we can also replace the current system with one more to our
 liking: _"in union there is strength."_ [Alexander Berkman, **What is
 Anarchism?**, p. 74]
 
-
-
- Solidarity is thus the means by which we can obtain and ensure our own
+Solidarity is thus the means by which we can obtain and ensure our own
 freedom. We agree to work together so that we will not have to work for
 **another**. By agreeing to share with each other we increase our options so
 that we may enjoy **more**, not less. Mutual aid is in my self-interest --
@@ -913,9 +818,7 @@ based on mutual respect and social equality; for if I dominate someone, this
 means that the conditions exist which allow domination, and so in all
 probability I too will be dominated in turn.
 
-
-
- As Max Stirner saw, solidarity is the means by which we ensure that our
+As Max Stirner saw, solidarity is the means by which we ensure that our
 liberty is strengthened and defended from those in power who want to rule us:
 _"Do you yourself count for nothing then?"_, he asks. _"Are you bound to let
 anyone do anything he wants to you? Defend yourself and no one will touch you.
@@ -924,9 +827,7 @@ formidable force and you will win without difficulty."_ [quoted in Luigi
 Galleani's **The End of Anarchism?**, p. 79 - different translation in **The
 Ego and Its Own**, p. 197]
 
-
-
- Solidarity, therefore, is important to anarchists because it is the means by
+Solidarity, therefore, is important to anarchists because it is the means by
 which liberty can be created and defended against power. Solidarity is
 strength and a product of our nature as social beings. However, solidarity
 should not be confused with "herdism," which implies passively following a
@@ -936,14 +837,10 @@ although the desire for "herdism" is a product of our need for solidarity and
 union. It is a "solidarity" corrupted by hierarchical society, in which people
 are conditioned to blindly obey leaders.
 
+## A.2.7 Why do anarchists argue for self-liberation?
 
-
- ## A.2.7 Why do anarchists argue for self-liberation?
-
-
-
- Liberty, by its very nature, cannot be given. An individual cannot be freed
-by another, but must break his or her own chains through their own effort. Of
+Liberty, by its very nature, cannot be given. An individual cannot be freed by
+another, but must break his or her own chains through their own effort. Of
 course, self-effort can also be part of collective action, and in many cases
 it has to be in order to attain its ends. As Emma Goldman points out:
 
@@ -951,9 +848,7 @@ it has to be in order to attain its ends. As Emma Goldman points out:
 gained true liberation from its masters by its own efforts." _ [**Red Emma
 Speaks**, p. 167]
 
-
-
- This is because anarchists recognise that hierarchical systems, like any
+This is because anarchists recognise that hierarchical systems, like any
 social relationship, shapes those subject to them. As Bookchin argued, "_class
 societies organise our psychic structures for command or obedience."_ This
 means that people **_internalise_** the values of hierarchical and class
@@ -968,9 +863,7 @@ possible."_ [**The Ecology of Freedom**, p. 159 and pp. 164-5] Self-liberation
 is the means by which we break down both internal **_and_** external chains,
 freeing ourselves mentally as well as physically.
 
-
-
- Anarchists have long argued that people can only free themselves by their own
+Anarchists have long argued that people can only free themselves by their own
 actions. The various methods anarchists suggest to aid this process will be
 discussed in section J (["What Do Anarchists Do?"](secJcon.html)) and will not
 be discussed here. However, these methods all involve people organising
@@ -979,13 +872,10 @@ and eliminate their dependence on leaders to do things for them. Anarchism is
 based on people _"acting for themselves"_ (performing what anarchists call
 **_"direct action"_** \-- see [section J.2](secJ2.html) for details).
 
-
-
- Direct action has an empowering and liberating effect on those involved in
-it. Self-activity is the means by which the creativity, initiative,
-imagination and critical thought of those subjected to authority can be
-developed. It is the means by which society can be changed. As Errico
-Malatesta pointed out:
+Direct action has an empowering and liberating effect on those involved in it.
+Self-activity is the means by which the creativity, initiative, imagination
+and critical thought of those subjected to authority can be developed. It is
+the means by which society can be changed. As Errico Malatesta pointed out:
 
 > _"Between man and his social environment there is a reciprocal action. Men
 make society what it is and society makes men what they are, and the result is
@@ -994,10 +884,13 @@ be changed, and to transform men, society must be changed . . . Fortunately
 existing society has not been created by the inspired will of a dominating
 class, which has succeeded in reducing all its subjects to passive and
 unconscious instruments of its interests. It is the result of a thousand
-internecine struggles, of a thousand human and natural factors . . .
+internecine struggles, of a thousand human and natural factors . . .  
+>  _
 
-"From this the possibility of progress . . . We must take advantage of all the
-means, all the possibilities and the opportunities that the present
+>
+
+> _"From this the possibility of progress . . . We must take advantage of all
+the means, all the possibilities and the opportunities that the present
 environment allows us to act on our fellow men [and women] and to develop
 their consciences and their demands . . . to claim and to impose those major
 social transformations which are possible and which effectively serve to open
@@ -1008,10 +901,8 @@ the power to demand them . . . we must push the people to want always more and
 to increase its pressures [on the ruling elite], until it has achieved
 complete emancipation."_ [**Errico Malatesta: His Life and Ideas**, pp. 188-9]
 
-
-
- Society, while shaping all individuals, is also created by them, through
-their actions, thoughts, and ideals. Challenging institutions that limit one's
+Society, while shaping all individuals, is also created by them, through their
+actions, thoughts, and ideals. Challenging institutions that limit one's
 freedom is mentally liberating, as it sets in motion the process of
 questioning authoritarian relationships in general. This process gives us
 insight into how society works, changing our ideas and creating new ideals. To
@@ -1023,16 +914,12 @@ for as Max Stirner notes, _"the man who is set free is nothing but a freed
 man. . . a dog dragging a piece of chain with him."_ [**The Ego and Its Own**,
 p. 168] By changing the world, even in a small way, we change ourselves.
 
-
-
- In an interview during the Spanish Revolution, the Spanish anarchist militant
+In an interview during the Spanish Revolution, the Spanish anarchist militant
 Durutti said, _"we have a new world in our hearts."_ Only self-activity and
 self-liberation allows us to create such a vision and gives us the confidence
 to try to actualise it in the real world.
 
-
-
- Anarchists, however, do not think that self-liberation must wait for the
+Anarchists, however, do not think that self-liberation must wait for the
 future, after the "glorious revolution." The personal is political, and given
 the nature of society, how we act in the here and now will influence the
 future of our society and our lives. Therefore, even in pre-anarchist society
@@ -1049,9 +936,7 @@ engage in political activity, no amount of critical reflection will end their
 subjection and bring them freedom."_ [Carole Pateman, **The Sexual Contract**,
 p. 205]
 
-
-
- Anarchists aim to encourage these tendencies in everyday life to reject,
+Anarchists aim to encourage these tendencies in everyday life to reject,
 resist and thwart authority and bring them to their logical conclusion -- a
 society of free individuals, co-operating as equals in free, self-managed
 associations. Without this process of critical self-reflection, resistance and
@@ -1067,9 +952,7 @@ over and over that the class struggle provides the only means for the workers
 [and other oppressed groups] to achieve control over their destiny."_ [Marie-
 Louise Berneri, **Neither East Nor West**, p. 32]
 
-
-
- Revolution is a process, not an event, and every _"spontaneous revolutionary
+Revolution is a process, not an event, and every _"spontaneous revolutionary
 action"_ usually results from and is based upon the patient work of many years
 of organisation and education by people with "utopian" ideas. The process of
 "creating the new world in the shell of the old" (to use another **I.W.W.**
@@ -1077,18 +960,14 @@ expression), by building alternative institutions and relationships, is but
 one component of what must be a long tradition of revolutionary commitment and
 militancy.
 
-
-
- As Malatesta made clear, _"to encourage popular organisations of all kinds is
+As Malatesta made clear, _"to encourage popular organisations of all kinds is
 the logical consequence of our basic ideas, and should therefore be an
 integral part of our programme. . . anarchists do not want to emancipate the
 people; we want the people to emancipate themselves. . . , we want the new way
 of life to emerge from the body of the people and correspond to the state of
 their development and advance as they advance."_ [**Op. Cit.**, p. 90]
 
-
-
- Unless a process of self-emancipation occurs, a free society is impossible.
+Unless a process of self-emancipation occurs, a free society is impossible.
 Only when individuals free themselves, both materially (by abolishing the
 state and capitalism) and intellectually (by freeing themselves of submissive
 attitudes towards authority), can a free society be possible. We should not
@@ -1110,13 +989,11 @@ liberation through struggle against oppression is the only way this can be
 done. Thus anarchists encourage (to use Kropotkin's term) **_"the spirit of
 revolt."_**
 
-
-
- Self-liberation is a product of struggle, of self-organisation, solidarity
-and direct action. Direct action is the means of creating anarchists, free
-people, and so _"Anarchists have always advised taking an active part in those
+Self-liberation is a product of struggle, of self-organisation, solidarity and
+direct action. Direct action is the means of creating anarchists, free people,
+and so _"Anarchists have always advised taking an active part in those
 workers' organisations which carry on the **direct** struggle of Labour
-against Capital and its protector, \-- the State."_ This is because _"[s]uch a
+against Capital and its protector, -- the State."_ This is because _"[s]uch a
 struggle . . . better than any indirect means, permits the worker to obtain
 some temporary improvements in the present conditions of work, while it opens
 his [or her] eyes to the evil that is done by Capitalism and the State that
@@ -1133,9 +1010,7 @@ anarchism, i.e. the overcoming the spiritual domination of existing society
 within the minds of the oppressed. [**Evolution and Environment**, p. 83 and
 p. 85]
 
-
-
- For anarchists, in the words of a Scottish Anarchist militant, the _"history
+For anarchists, in the words of a Scottish Anarchist militant, the _"history
 of human progress [is] seen as the history of rebellion and disobedience, with
 the individual debased by subservience to authority in its many forms and able
 to retain his/her dignity only through rebellion and disobedience."_ [Robert
@@ -1149,13 +1024,9 @@ by others, only by themselves. Such rebellion (self-liberation) is the
 **only** means by which existing society becomes more libertarian and an
 anarchist society a possibility.
 
+## A.2.8 Is it possible to be an anarchist without opposing hierarchy?
 
-
- ## A.2.8 Is it possible to be an anarchist without opposing hierarchy?
-
-
-
- No. We have seen that anarchists abhor authoritarianism. But if one is an
+No. We have seen that anarchists abhor authoritarianism. But if one is an
 anti-authoritarian, one must oppose all hierarchical institutions, since they
 embody the principle of authority. For, as Emma Goldman argued, _"it is not
 only government in the sense of the state which is destructive of every
@@ -1168,9 +1039,7 @@ authority and domination and constraints on freedom: slavery, wage-slavery
 [i.e. capitalism], racism, sexism, authoritarian schools, etc."_ [Noam
 Chomsky, **Language and Politics**, p. 364]
 
-
-
- Thus the consistent anarchist must oppose hierarchical relationships as well
+Thus the consistent anarchist must oppose hierarchical relationships as well
 as the state. Whether economic, social or political, to be an anarchist means
 to oppose hierarchy. The argument for this (if anybody needs one) is as
 follows:
@@ -1183,9 +1052,7 @@ of decision-makers at the top and a broad base of people whose decisions are
 labels on the layers, it doesn't want different people on top, it wants **us**
 to clamber out from underneath."_ [Colin Ward, **Anarchy in Action**, p. 22]
 
-
-
- Hierarchies _"share a common feature: they are organised systems of command
+Hierarchies _"share a common feature: they are organised systems of command
 and obedience"_ and so anarchists seek _"to eliminate hierarchy per se, not
 simply replace one form of hierarchy with another."_ [Bookchin, **The Ecology
 of Freedom**, p. 27] A hierarchy is a pyramidally-structured organisation
@@ -1199,9 +1066,7 @@ corporate hierarchy is not greater productive efficiency (as capitalists
 claim), but greater control over workers, the purpose of such control being
 more effective exploitation.
 
-
-
- Control in a hierarchy is maintained by coercion, that is, by the threat of
+Control in a hierarchy is maintained by coercion, that is, by the threat of
 negative sanctions of one kind or another: physical, economic, psychological,
 social, etc. Such control, including the repression of dissent and rebellion,
 therefore necessitates centralisation: a set of power relations in which the
@@ -1209,9 +1074,7 @@ greatest control is exercised by the few at the top (particularly the head of
 the organisation), while those in the middle ranks have much less control and
 the many at the bottom have virtually none.
 
-
-
- Since domination, coercion, and centralisation are essential features of
+Since domination, coercion, and centralisation are essential features of
 authoritarianism, and as those features are embodied in hierarchies, all
 hierarchical institutions are authoritarian. Moreover, for anarchists, any
 organisation marked by hierarchy, centralism and authoritarianism is state-
@@ -1222,19 +1085,20 @@ Chomsky points out, the structure of the capitalist firm is extremely
 hierarchical, indeed fascist, in nature:
 
 > _"a fascist system. . . [is] absolutist - power goes from top down . . . the
-ideal state is top down control with the public essentially following orders.
+ideal state is top down control with the public essentially following orders.  
+>  _
 
-"Let's take a look at a corporation. . . [I]f you look at what they are, power
-goes strictly top down, from the board of directors to managers to lower
+>
+
+> _"Let's take a look at a corporation. . . [I]f you look at what they are,
+power goes strictly top down, from the board of directors to managers to lower
 managers to ultimately the people on the shop floor, typing messages, and so
 on. There's no flow of power or planning from the bottom up. People can
 disrupt and make suggestions, but the same is true of a slave society. The
 structure of power is linear, from the top down."_ [**Keeping the Rabble in
 Line**, p. 237]
 
-
-
- David Deleon indicates these similarities between the company and the state
+David Deleon indicates these similarities between the company and the state
 well when he writes:
 
 > _ "Most factories are like military dictatorships. Those at the bottom are
@@ -1253,9 +1117,7 @@ an ivory tower or a mine shaft."_ [_"For Democracy Where We Work: A rationale
 for social self-management"_, **Reinventing Anarchy, Again**, Howard J.
 Ehrlich (ed.), pp. 193-4]
 
-
-
- Thus the consistent anarchist must oppose hierarchy in all its forms,
+Thus the consistent anarchist must oppose hierarchy in all its forms,
 including the capitalist firm. Not to do so is to support **_archy_** \--
 which an anarchist, by definition, cannot do. In other words, for anarchists,
 _"[p]romises to obey, contracts of (wage) slavery, agreements requiring the
@@ -1269,9 +1131,7 @@ integral traits; it denies the very notion that the individual is
 but with its most important context: the **social** context."_ [Murray
 Bookchin, **Op. Cit.**, p. 202]
 
-
-
- Some argue that as long as an association is voluntary, whether it has a
+Some argue that as long as an association is voluntary, whether it has a
 hierarchical structure is irrelevant. Anarchists disagree. This is for two
 reasons. Firstly, under capitalism workers are driven by economic necessity to
 sell their labour (and so liberty) to those who own the means of life. This
@@ -1286,15 +1146,11 @@ relationship of subordination and exploitation which naturally results as the
 epitome of freedom is to make a mockery of both individual liberty and social
 justice."_ [Robert Graham, **Op. Cit.**, p. 70]
 
-
-
- It is for this reason that anarchists support collective action and
+It is for this reason that anarchists support collective action and
 organisation: it increases the bargaining power of working people and allows
 them to assert their autonomy (see [section J](secJcon.html)).
 
-
-
- Secondly, if we take the key element as being whether an association is
+Secondly, if we take the key element as being whether an association is
 voluntary or not we would have to argue that the current state system must be
 considered as "anarchy." In a modern democracy no one forces an individual to
 live in a specific state. We are free to leave and go somewhere else. By
@@ -1307,24 +1163,18 @@ scale corporations which control the world economy is fetishism at its
 worst."_ [_The Libertarian as Conservative,_ **The Abolition of Work and other
 essays**, p. 142] Anarchy is more than being free to pick a master.
 
-
-
- Therefore opposition to hierarchy is a key anarchist position, otherwise you
+Therefore opposition to hierarchy is a key anarchist position, otherwise you
 just become a "voluntary archist" - which is hardly anarchistic. For more on
 this see section A.2.14 ([ Why is voluntarism not
 enough?](secA2.html#seca214)).
 
-
-
- Anarchists argue that organisations do not need to be hierarchical, they can
+Anarchists argue that organisations do not need to be hierarchical, they can
 be based upon co-operation between equals who manage their own affairs
 directly. In this way we can do without hierarchical structures (i.e. the
 delegation of power in the hands of a few). Only when an association is self-
 managed by its members can it be considered truly anarchistic.
 
-
-
- We are sorry to belabour this point, but some capitalist apologists,
+We are sorry to belabour this point, but some capitalist apologists,
 apparently wanting to appropriate the "anarchist" name because of its
 association with freedom, have recently claimed that one can be both a
 capitalist and an anarchist at the same time (as in so-called "anarcho"
@@ -1332,13 +1182,9 @@ capitalism). It should now be clear that since capitalism is based on
 hierarchy (not to mention statism and exploitation), "anarcho"-capitalism is a
 contradiction in terms. (For more on this, see [ Section F](secFcon.html))
 
+## A.2.9 What sort of society do anarchists want?
 
-
- ## A.2.9 What sort of society do anarchists want?
-
-
-
- Anarchists desire a decentralised society, based on free association. We
+Anarchists desire a decentralised society, based on free association. We
 consider this form of society the best one for maximising the values we have
 outlined above -- liberty, equality and solidarity. Only by a rational
 decentralisation of power, both structurally and territorially, can individual
@@ -1349,9 +1195,7 @@ the hands of others, anarchists favour organisations which minimise authority,
 keeping power at the base, in the hands of those who are affected by any
 decisions reached.
 
-
-
- Free association is the cornerstone of an anarchist society. Individuals must
+Free association is the cornerstone of an anarchist society. Individuals must
 be free to join together as they see fit, for this is the basis of freedom and
 human dignity. However, any such free agreement must be based on
 decentralisation of power; otherwise it will be a sham (as in capitalism), as
@@ -1361,13 +1205,11 @@ based on "one person one vote" (for the rationale of direct democracy as the
 political counterpart of free agreement, see section A.2.11 -- [ Why do most
 anarchists support direct democracy?](secA2.html#seca211)).
 
-
-
- We should point out here that an anarchist society does not imply some sort
-of idyllic state of harmony within which everyone agrees. Far from it! As
-Luigi Galleani points out, _"[d]isagreements and friction will always exist.
-In fact they are an essential condition of unlimited progress. But once the
-bloody area of sheer animal competition - the struggle for food - has been
+We should point out here that an anarchist society does not imply some sort of
+idyllic state of harmony within which everyone agrees. Far from it! As Luigi
+Galleani points out, _"[d]isagreements and friction will always exist. In fact
+they are an essential condition of unlimited progress. But once the bloody
+area of sheer animal competition - the struggle for food - has been
 eliminated, problems of disagreement could be solved without the slightest
 threat to the social order and individual liberty." _ [**The End of
 Anarchism?**, p. 28] Anarchism aims to _"rouse the spirit of initiative in
@@ -1376,9 +1218,7 @@ movement and a life based on the principles of free understanding"_ and
 recognise that _"**variety, conflict even, is life and that uniformity is
 death.**"_ [Peter Kropotkin, **Anarchism**, p. 143]
 
-
-
- Therefore, an anarchist society will be based upon co-operative conflict as
+Therefore, an anarchist society will be based upon co-operative conflict as
 _"[c]onflict, per se, is not harmful. . . disagreements exist [and should not
 be hidden] . . . What makes disagreement destructive is not the fact of
 conflict itself but the addition of competition."_ Indeed, _"a rigid demand
@@ -1388,9 +1228,7 @@ Case Against Competition**, p. 156] It is for this reason that most anarchists
 reject consensus decision making in large groups (see section
 [A.2.12](secA2.html#seca212)).
 
-
-
- So, in an anarchist society associations would be run by mass assemblies of
+So, in an anarchist society associations would be run by mass assemblies of
 all involved, based upon extensive discussion, debate and co-operative
 conflict between equals, with purely administrative tasks being handled by
 elected committees. These committees would be made up of mandated, recallable
@@ -1408,9 +1246,7 @@ already decided by the assembly (i.e. if they start to make policy decisions),
 they can be instantly recalled and their decisions abolished. In this way, the
 organisation remains in the hands of the union of individuals who created it.
 
-
-
- This self-management by the members of a group at the base and the power of
+This self-management by the members of a group at the base and the power of
 recall are essential tenets of any anarchist organisation. The **key**
 difference between a statist or hierarchical system and an anarchist community
 is who wields power. In a parliamentary system, for example, people give power
@@ -1421,9 +1257,7 @@ base are expected to obey. Similarly, in the capitalist workplace, power is
 held by an unelected minority of bosses and managers at the top and the
 workers are expected to obey.
 
-
-
- In an anarchist society this relationship is reversed. No one individual or
+In an anarchist society this relationship is reversed. No one individual or
 group (elected or unelected) holds power in an anarchist community. Instead
 decisions are made using direct democratic principles and, when required, the
 community can elect or appoint delegates to carry out these decisions. There
@@ -1431,9 +1265,7 @@ is a clear distinction between policy making (which lies with everyone who is
 affected) and the co-ordination and administration of any adopted policy
 (which is the job for delegates).
 
-
-
- These egalitarian communities, founded by free agreement, also freely
+These egalitarian communities, founded by free agreement, also freely
 associate together in confederations. Such a free confederation would be run
 from the bottom up, with decisions following from the elemental assemblies
 upwards. The confederations would be run in the same manner as the
@@ -1448,9 +1280,7 @@ subject to the control and approval of those who delegated them"_ and so
 _"there would be no danger than the interest of the people [would] be
 forgotten."_ [Malatesta, **Op. Cit.**, p. 36]
 
-
-
- Action committees would be formed, if required, to co-ordinate and administer
+Action committees would be formed, if required, to co-ordinate and administer
 the decisions of the assemblies and their congresses, under strict control
 from below as discussed above. Delegates to such bodies would have a limited
 tenure and, like the delegates to the congresses, have a fixed mandate -- they
@@ -1463,9 +1293,7 @@ direct control of the population"_ and so express the _"decisions taken at
 popular assemblies."_ [**Errico Malatesta: His Life and Ideas**, p. 175 and p.
 129]
 
-
-
- Most importantly, the basic community assemblies can overturn any decisions
+Most importantly, the basic community assemblies can overturn any decisions
 reached by the conferences and withdraw from any confederation. Any
 compromises that are made by a delegate during negotiations have to go back to
 a general assembly for ratification. Without that ratification any compromises
@@ -1475,9 +1303,7 @@ addition, they can call confederal conferences to discuss new developments and
 to inform action committees about changing wishes and to instruct them on what
 to do about any developments and ideas.
 
-
-
- In other words, any delegates required within an anarchist organisation or
+In other words, any delegates required within an anarchist organisation or
 society are **not** representatives (as they are in a democratic government).
 Kropotkin makes the difference clear:
 
@@ -1493,9 +1319,7 @@ she] will seek an understanding and will return with a simple proposition
 which his mandatories can accept or refuse. This is what happens when true
 delegation comes into being."_ [**Words of a Rebel**, p. 132]
 
-
-
- Unlike in a representative system, **power** is not delegated into the hands
+Unlike in a representative system, **power** is not delegated into the hands
 of the few. Rather, any delegate is simply a mouthpiece for the association
 that elected (or otherwise selected) them in the first place. All delegates
 and action committees would be mandated and subject to instant recall to
@@ -1505,9 +1329,7 @@ associations and communities co-operating as equals based on a system of
 mandated delegates, instant recall, free agreement and free federation from
 the bottom up.
 
-
-
- Only this system would ensure the _"free organisation of the people, an
+Only this system would ensure the _"free organisation of the people, an
 organisation from below upwards."_ This _"free federation from below upward"_
 would start with the basic _"association"_ and their federation _"first into a
 commune, then a federation of communes into regions, of regions into nations,
@@ -1523,9 +1345,7 @@ of ideas, for arts, for amusement, and so on."_ [Peter Kropotkin, **Evolution
 and Environment**, p. 79] All would be based on self-management, free
 association, free federation and self-organisation from the bottom up.
 
-
-
- By organising in this manner, hierarchy is abolished in all aspects of life,
+By organising in this manner, hierarchy is abolished in all aspects of life,
 because the people at the base of the organisation are in control, **not**
 their delegates. Only this form of organisation can replace government (the
 initiative and empowerment of the few) with anarchy (the initiative and
@@ -1536,18 +1356,13 @@ they could understand and control."_ [quoted by Cornelius Castoriadis,
 **Political and Social Writings**, vol. 2, p. 97] For individual initiatives,
 the individual involved would manage them.
 
+As can be seen, anarchists wish to create a society based upon structures that
+ensure that no individual or group is able to wield power over others. Free
+agreement, confederation and the power of recall, fixed mandates and limited
+tenure are mechanisms by which power is removed from the hands of governments
+and placed in the hands of those directly affected by the decisions.
 
-
- As can be seen, anarchists wish to create a society based upon structures
-that ensure that no individual or group is able to wield power over others.
-Free agreement, confederation and the power of recall, fixed mandates and
-limited tenure are mechanisms by which power is removed from the hands of
-governments and placed in the hands of those directly affected by the
-decisions.
-
-
-
- For a fuller discussion on what an anarchist society would look like see
+For a fuller discussion on what an anarchist society would look like see
 [section I](secIcon.html). Anarchy, however, is not some distant goal but
 rather an aspect of current struggles against oppression and exploitation.
 Means and ends are linked, with direct action generating mass participatory
@@ -1566,19 +1381,13 @@ current struggles and do not think our ideas are only applicable "after the
 revolution." Indeed, by applying our principles today we bring anarchy that
 much nearer.
 
+## A.2.10 What will abolishing hierarchy mean and achieve?
 
-
- ## A.2.10 What will abolishing hierarchy mean and achieve?
-
-
-
- The creation of a new society based upon libertarian organisations will have
+The creation of a new society based upon libertarian organisations will have
 an incalculable effect on everyday life. The empowerment of millions of people
 will transform society in ways we can only guess at now.
 
-
-
- However, many consider these forms of organisation as impractical and doomed
+However, many consider these forms of organisation as impractical and doomed
 to failure. To those who say that such confederal, non-authoritarian
 organisations would produce confusion and disunity, anarchists maintain that
 the statist, centralised and hierarchical form of organisation produces
@@ -1588,9 +1397,7 @@ importantly, such organisations destroy individual initiative and crush
 independent action and critical thinking. (For more on hierarchy, see section
 B.1 -- ["Why are anarchists against authority and hierarchy?"](secB1.html)).
 
-
-
- That libertarian organisation can work and is based upon (and promotes)
+That libertarian organisation can work and is based upon (and promotes)
 liberty was demonstrated in the Spanish Anarchist movement. Fenner Brockway,
 Secretary of the British Independent Labour Party, when visiting Barcelona
 during the 1936 revolution, noted that _"the great solidarity that existed
@@ -1599,18 +1406,14 @@ strength and not depending upon leadership. . . . The organisations must, to
 be successful, be combined with free-thinking people; not a mass, but free
 individuals"_ [quoted by Rudolf Rocker, **Anarcho-syndicalism**, p. 67f]
 
-
-
- As sufficiently indicated already, hierarchical, centralised structures
+As sufficiently indicated already, hierarchical, centralised structures
 restrict freedom. As Proudhon noted: _"the centralist system is all very well
 as regards size, simplicity and construction: it lacks but one thing -- the
 individual no longer belongs to himself in such a system, he cannot feel his
 worth, his life, and no account is taken of him at all."_ [quoted by Martin
 Buber, **Paths in Utopia**, p. 33]
 
-
-
- The effects of hierarchy can be seen all around us. It does not work.
+The effects of hierarchy can be seen all around us. It does not work.
 Hierarchy and authority exist everywhere, in the workplace, at home, in the
 street. As Bob Black puts it, _"[i]f you spend most of your waking life taking
 orders or kissing ass, if you get habituated to hierarchy, you will become
@@ -1619,18 +1422,14 @@ carry that load into every aspect of the balance of your life."_ [_"The
 Libertarian as Conservative,"_ **The Abolition of Work and other essays**, pp.
 147-8]
 
-
-
- This means that the end of hierarchy will mean a **massive** transformation
-in everyday life. It will involve the creation of individual-centred
+This means that the end of hierarchy will mean a **massive** transformation in
+everyday life. It will involve the creation of individual-centred
 organisations within which all can exercise, and so develop, their abilities
 to the fullest. By involving themselves and participating in the decisions
 that affect them, their workplace, their community and society, they can
 ensure the full development of their individual capacities.
 
-
-
- With the free participation of all in social life, we would quickly see the
+With the free participation of all in social life, we would quickly see the
 end of inequality and injustice. Rather than people existing to make ends meet
 and being used to increase the wealth and power of the few as under
 capitalism, the end of hierarchy would see (to quote Kropotkin) _"the well-
@@ -1651,9 +1450,7 @@ _"both requisites of happiness -- liberty and wealth."_ In anarchy, _"mankind
 will live in freedom and in comfort."_ [Benjamin Tucker, **Why I am an
 Anarchist**, p. 135 and p. 136]
 
-
-
- Only self-determination and free agreement on every level of society can
+Only self-determination and free agreement on every level of society can
 develop the responsibility, initiative, intellect and solidarity of
 individuals and society as a whole. Only anarchist organisation allows the
 vast talent which exists within humanity to be accessed and used, enriching
@@ -1663,9 +1460,7 @@ implementing the decisions that affect them can freedom blossom and
 individuality be fully developed and protected. Anarchy will release the
 creativity and talent of the mass of people enslaved by hierarchy.
 
-
-
- Anarchy will even be of benefit for those who are said to benefit from
+Anarchy will even be of benefit for those who are said to benefit from
 capitalism and its authority relations. Anarchists _"maintain that **both**
 rulers and ruled are spoiled by authority; **both** exploiters and exploited
 are spoiled by exploitation."_ [Peter Kropotkin, **Act for Yourselves**, p.
@@ -1676,13 +1471,9 @@ dead weight of the dormant creative potential of the submissive all along the
 road of his hierarchical excursion."_ [For Ourselves, **The Right to Be
 Greedy**, Thesis 95]
 
+## A.2.11 Why are most anarchists in favour of direct democracy?
 
-
- ## A.2.11 Why are most anarchists in favour of direct democracy?
-
-
-
- For most anarchists, direct democratic voting on policy decisions within free
+For most anarchists, direct democratic voting on policy decisions within free
 associations is the political counterpart of free agreement (this is also
 known as **_"self-management"_**). The reason is that _"many forms of
 domination can be carried out in a 'free.' non-coercive, contractual manner. .
@@ -1692,9 +1483,7 @@ Egoism**, p. 93] Thus the relationships we create **within** an organisation
 is as important in determining its libertarian nature as its voluntary nature
 (see [section A.2.14](secA2.html#seca214) for more discussion).
 
-
-
- It is obvious that individuals must work together in order to lead a fully
+It is obvious that individuals must work together in order to lead a fully
 human life. And so, _"[h]aving to join with others humans"_ the individual has
 three options: _"he [or she] must submit to the will of others (be enslaved)
 or subject others to his will (be in authority) or live with others in
@@ -1702,9 +1491,7 @@ fraternal agreement in the interests of the greatest good of all (be an
 associate). Nobody can escape from this necessity."_ [Errico Malatesta, **Life
 and Ideas**, p. 85]
 
-
-
- Anarchists obviously pick the last option, association, as the only means by
+Anarchists obviously pick the last option, association, as the only means by
 which individuals can work together as free and equal human beings, respecting
 the uniqueness and liberty of one another. Only within direct democracy can
 individuals express themselves, practice critical thought and self-government,
@@ -1714,36 +1501,32 @@ social faculties, it is far better to be sometimes in a minority than be
 subject to the will of a boss all the time. So what is the theory behind
 anarchist direct democracy?
 
-
-
- As Bertrand Russell noted, the anarchist _"does not wish to abolish
-government in the sense of collective decisions: what he does wish to abolish
-is the system by which a decision is enforced upon those who oppose it."_
-[**Roads to Freedom**, p. 85] Anarchists see self-management as the means to
-achieve this. Once an individual joins a community or workplace, he or she
-becomes a "citizen" (for want of a better word) of that association. The
-association is organised around an assembly of all its members (in the case of
-large workplaces and towns, this may be a functional sub-group such as a
-specific office or neighbourhood). In this assembly, in concert with others,
-the contents of his or her political obligations are defined. In acting within
-the association, people must exercise critical judgement and choice, i.e.
-manage their own activity. Rather than promising to obey (as in hierarchical
+As Bertrand Russell noted, the anarchist _"does not wish to abolish government
+in the sense of collective decisions: what he does wish to abolish is the
+system by which a decision is enforced upon those who oppose it."_ [**Roads to
+Freedom**, p. 85] Anarchists see self-management as the means to achieve this.
+Once an individual joins a community or workplace, he or she becomes a
+"citizen" (for want of a better word) of that association. The association is
+organised around an assembly of all its members (in the case of large
+workplaces and towns, this may be a functional sub-group such as a specific
+office or neighbourhood). In this assembly, in concert with others, the
+contents of his or her political obligations are defined. In acting within the
+association, people must exercise critical judgement and choice, i.e. manage
+their own activity. Rather than promising to obey (as in hierarchical
 organisations like the state or capitalist firm), individuals participate in
 making their own collective decisions, their own commitments to their fellows.
 This means that political obligation is not owed to a separate entity above
 the group or society, such as the state or company, but to one's fellow
 "citizens."
 
-
-
- Although the assembled people collectively legislate the rules governing
-their association, and are bound by them as individuals, they are also
-superior to them in the sense that these rules can always be modified or
-repealed. Collectively, the associated "citizens" constitute a political
-"authority", but as this "authority" is based on horizontal relationships
-between themselves rather than vertical ones between themselves and an elite,
-the "authority" is non-hierarchical ("rational" or "natural," see section B.1
-- ["Why are anarchists against authority and hierarchy?"](secB1.html) \- for
+Although the assembled people collectively legislate the rules governing their
+association, and are bound by them as individuals, they are also superior to
+them in the sense that these rules can always be modified or repealed.
+Collectively, the associated "citizens" constitute a political "authority",
+but as this "authority" is based on horizontal relationships between
+themselves rather than vertical ones between themselves and an elite, the
+"authority" is non-hierarchical ("rational" or "natural," see section B.1 -
+["Why are anarchists against authority and hierarchy?"](secB1.html) \- for
 more on this). Thus Proudhon:
 
 > _"In place of laws, we will put contracts [i.e. free agreement]. - No more
@@ -1751,9 +1534,7 @@ laws voted by a majority, nor even unanimously; each citizen, each town, each
 industrial union, makes its own laws."_ [**The General Idea of the
 Revolution**, pp. 245-6]
 
-
-
- Such a system does not mean, of course, that everyone participates in every
+Such a system does not mean, of course, that everyone participates in every
 decision needed, no matter how trivial. While any decision can be put to the
 assembly (if the assembly so decides, perhaps prompted by some of its
 members), in practice certain activities (and so purely functional decisions)
@@ -1776,9 +1557,7 @@ Proudhon's ideas that within the workers' associations _"all positions are
 elective, and the by-laws subject to the approval of the members."_ [Proudhon,
 **Op. Cit.**, p. 222]
 
-
-
- Instead of capitalist or statist hierarchy, self-management (i.e. direct
+Instead of capitalist or statist hierarchy, self-management (i.e. direct
 democracy) would be the guiding principle of the freely joined associations
 that make up a free society. This would apply to the federations of
 associations an anarchist society would need to function. _"All the
@@ -1792,17 +1571,13 @@ Cit.**, pp. 188-9] Again, Pujols follows Proudhon who demanded twenty years
 previously the _"implementation of the binding mandate"_ to ensure the people
 do not _"adjure their sovereignty."_ [**No Gods, No Masters**, vol. 1, p. 63]
 
-
-
- By means of a federalism based on mandates and elections, anarchists ensure
+By means of a federalism based on mandates and elections, anarchists ensure
 that decisions flow from the bottom-up. By making our own decisions, by
 looking after our joint interests ourselves, we exclude others ruling over us.
 Self-management, for anarchists, is essential to ensure freedom within the
 organisations so needed for any decent human existence.
 
-
-
- Of course it could be argued that if you are in a minority, you are governed
+Of course it could be argued that if you are in a minority, you are governed
 by others (_"Democratic rule is still rule"_ [L. Susan Brown, **The Politics
 of Individualism**, p. 53]). Now, the concept of direct democracy as we have
 described it is not necessarily tied to the concept of majority rule. If
@@ -1820,9 +1595,7 @@ quoted by quoted by Max Nettlau, **Errico Malatesta: The Biography of an
 Anarchist**]). Needless to say, a minority, if it remains in the association,
 can argue its case and try to convince the majority of the error of its ways.
 
-
-
- And we must point out here that anarchist support for direct democracy does
+And we must point out here that anarchist support for direct democracy does
 not suggest we think that the majority is always right. Far from it! The case
 for democratic participation is not that the majority is always right, but
 that no minority can be trusted not to prefer its own advantage to the good of
@@ -1831,9 +1604,7 @@ dictatorial powers (by they a head of state, a boss, a husband, whatever) will
 use their power to enrich and empower themselves at the expense of those
 subject to their decisions.
 
-
-
- Anarchists recognise that majorities can and do make mistakes and that is why
+Anarchists recognise that majorities can and do make mistakes and that is why
 our theories on association place great importance on minority rights. This
 can be seen from our theory of self-assumed obligation, which bases itself on
 the right of minorities to protest against majority decisions and makes
@@ -1850,9 +1621,7 @@ obligation is meaningless without the practical recognition of the right of
 minorities to refuse or withdraw consent, or where necessary, to disobey."_
 [**The Problem of Political Obligation**, p. 162]
 
-
-
- Moving beyond relationships within associations, we must highlight how
+Moving beyond relationships within associations, we must highlight how
 different associations work together. As would be imagined, the links between
 associations follow the same outlines as for the associations themselves.
 Instead of individuals joining an association, we have associations joining
@@ -1863,16 +1632,12 @@ this way society becomes an association of associations, a community of
 communities, a commune of communes, based upon maximising individual freedom
 by maximising participation and self-management.
 
-
-
- The workings of such a confederation are outlined in section A.2.9 ([ What
+The workings of such a confederation are outlined in section A.2.9 ([ What
 sort of society do anarchists want?](secA2.html#seca29)) and discussed in
 greater detail in section I ([What would an anarchist society look
 like?](secIcon.html)).
 
-
-
- This system of direct democracy fits nicely into anarchist theory. Malatesta
+This system of direct democracy fits nicely into anarchist theory. Malatesta
 speaks for all anarchists when he argued that _"anarchists deny the right of
 the majority to govern human society in general."_ As can be seen, the
 majority has no right to enforce itself on a minority -- the minority can
@@ -1894,15 +1659,12 @@ awareness of need and of goodwill to prevent the running of social affairs
 from being paralysed by obstinacy. It cannot be imposed as a principle and
 statutory norm. . ."_ [**Op. Cit.**, p. 100]
 
-
-
- As the minority has the right to secede from the association as well as
-having extensive rights of action, protest and appeal, majority rule is not
-imposed as a principle. Rather, it is purely a decision making tool which
-allows minority dissent and opinion to be expressed (and acted upon) while
-ensuring that no minority forces its will on the majority. In other words,
-majority decisions are not binding on the minority. After all, as Malatesta
-argued:
+As the minority has the right to secede from the association as well as having
+extensive rights of action, protest and appeal, majority rule is not imposed
+as a principle. Rather, it is purely a decision making tool which allows
+minority dissent and opinion to be expressed (and acted upon) while ensuring
+that no minority forces its will on the majority. In other words, majority
+decisions are not binding on the minority. After all, as Malatesta argued:
 
 > _"one cannot expect, or even wish, that someone who is firmly convinced that
 the course taken by the majority leads to disaster, should sacrifice his [or
@@ -1910,9 +1672,7 @@ her] own convictions and passively look on, or even worse, should support a
 policy he [or she] considers wrong."_ [**Errico Malatesta: His Life and
 Ideas**, p. 132]
 
-
-
- Even the Individual Anarchist Lysander Spooner acknowledged that direct
+Even the Individual Anarchist Lysander Spooner acknowledged that direct
 democracy has its uses when he noted that _"[a]ll, or nearly all, voluntary
 associations give a majority, or some other portion of the members less than
 the whole, the right to use some **limited** discretion as to the **means** to
@@ -1926,9 +1686,7 @@ enforce"_ (his support of juries results from Spooner acknowledging that it
 _"would be impossible in practice"_ for **all** members of an association to
 agree) [**Trial by Jury**, p. 130-1f, p. 134, p. 214, p. 152 and p. 132]
 
-
-
- Thus direct democracy and individual/minority rights need not clash. In
+Thus direct democracy and individual/minority rights need not clash. In
 practice, we can imagine direct democracy would be used to make most decisions
 within most associations (perhaps with super-majorities required for
 fundamental decisions) plus some combination of a jury system and minority
@@ -1936,9 +1694,7 @@ protest/direct action and evaluate/protect minority claims/rights in an
 anarchist society. The actual forms of freedom can only be created through
 practical experience by the people directly involved.
 
-
-
- Lastly, we must stress that anarchist support for direct democracy does not
+Lastly, we must stress that anarchist support for direct democracy does not
 mean that this solution is to be favoured in all circumstances. For example,
 many small associations may favour consensus decision making (see the [next
 section](secA2.html#seca212) on consensus and why most anarchists do not think
@@ -1947,21 +1703,15 @@ think that direct democracy within free association is the best (and most
 realistic) form of organisation which is consistent with anarchist principles
 of individual freedom, dignity and equality.
 
+## A.2.12 Is consensus an alternative to direct democracy?
 
-
- ## A.2.12 Is consensus an alternative to direct democracy?
-
-
-
- The few anarchists who reject direct democracy within free associations
+The few anarchists who reject direct democracy within free associations
 generally support consensus in decision making. Consensus is based upon
 everyone on a group agreeing to a decision before it can be put into action.
 Thus, it is argued, consensus stops the majority ruling the minority and is
 more consistent with anarchist principles.
 
-
-
- Consensus, although the "best" option in decision making, as all agree, has
+Consensus, although the "best" option in decision making, as all agree, has
 its problems. As Murray Bookchin points out in describing his experience of
 consensus, it can have authoritarian implications:
 
@@ -1975,9 +1725,12 @@ make an honourable and continuing expression of their dissent by voting, even
 as a minority, in accordance with their views. Having withdrawn, they ceased
 to be political beings--so that a 'decision' could be made. . . . 'consensus'
 was ultimately achieved only after dissenting members nullified themselves as
-participants in the process._
+participants in the process.  
+>  _
 
-_"On a more theoretical level, consensus silenced that most vital aspect of
+>
+
+> _"On a more theoretical level, consensus silenced that most vital aspect of
 all dialogue, **dissensus**. The ongoing dissent, the passionate dialogue that
 still persists even after a minority accedes temporarily to a majority
 decision,. . . [can be] replaced. . . .by dull monologues -- and the
@@ -1989,9 +1742,7 @@ minorities, but mutes them in favour of the metaphysical 'one' of the
 'consensus' group."_ [_"Communalism: The Democratic Dimension of Anarchism"_,
 **Democracy and Nature**, no. 8, p. 8]
 
-
-
- Bookchin does not _"deny that consensus may be an appropriate form of
+Bookchin does not _"deny that consensus may be an appropriate form of
 decision-making in small groups of people who are thoroughly familiar with one
 another." _But he notes that, in practical terms, his own experience has shown
 him that _"when larger groups try to make decisions by consensus, it usually
@@ -2001,9 +1752,7 @@ that a sizeable assembly of people can attain is adopted-- precisely because
 everyone must agree with it or else withdraw from voting on that issue"_
 [**Op. Cit.**, p.7]
 
-
-
- Therefore, due to its potentially authoritarian nature, most anarchists
+Therefore, due to its potentially authoritarian nature, most anarchists
 disagree that consensus is the political aspect of free association. While it
 is advantageous to try to reach consensus, it is usually impractical to do so
 -- especially in large groups -- regardless of its other, negative effects.
@@ -2015,15 +1764,11 @@ pressure. Since individuals are all unique, they will have unique viewpoints
 which they should be encouraged to express, as society evolves and is enriched
 by the actions and ideas of individuals.
 
-
-
- In other words, anarchist supporters of direct democracy stress the
+In other words, anarchist supporters of direct democracy stress the
 _"**creative** role of dissent"_ which, they fear, _"tends to fade away in the
 grey uniformity required by consensus."_ [**Op. Cit.**, p. 8]
 
-
-
- We must stress that anarchists are **not** in favour of a mechanical decision
+We must stress that anarchists are **not** in favour of a mechanical decision
 making process in which the majority just vote the minority away and ignore
 them. Far from it! Anarchists who support direct democracy see it as a dynamic
 debating process in which majority and minority listen to and respect each
@@ -2034,19 +1779,13 @@ will encourage diversity, individual and minority expression and reduce any
 tendency for majorities to marginalise or oppress minorities by ensuring
 discussion and debate occurs on important issues.
 
+## A.2.13 Are anarchists individualists or collectivists?
 
-
- ## A.2.13 Are anarchists individualists or collectivists?
-
-
-
- The short answer is: neither. This can be seen from the fact that liberal
+The short answer is: neither. This can be seen from the fact that liberal
 scholars denounce anarchists like Bakunin for being "collectivists" while
 Marxists attack Bakunin and anarchists in general for being "individualists."
 
-
-
- This is hardly surprising, as anarchists reject both ideologies as nonsense.
+This is hardly surprising, as anarchists reject both ideologies as nonsense.
 Whether they like it or not, non-anarchist individualists and collectivists
 are two sides of the same capitalist coin. This can best shown be by
 considering modern capitalism, in which "individualist" and "collectivist"
@@ -2055,9 +1794,7 @@ structure swinging from one pole to the other. Capitalist collectivism and
 individualism are both one-sided aspects of human existence, and like all
 manifestations of imbalance, deeply flawed.
 
-
-
- For anarchists, the idea that individuals should sacrifice themselves for the
+For anarchists, the idea that individuals should sacrifice themselves for the
 "group" or "greater good" is nonsensical. Groups are made up of individuals,
 and if people think only of what's best for the group, the group will be a
 lifeless shell. It is only the dynamics of human interaction within groups
@@ -2070,18 +1807,16 @@ someone with enough individuality to make decisions -- a problem that is
 "solved" by the leader principle. Stalinism and Nazism are excellent examples
 of this phenomenon.
 
-
-
- Therefore, anarchists recognise that individuals are the basic unit of
-society and that only individuals have interests and feelings. This means they
-oppose "collectivism" and the glorification of the group. In anarchist theory
-the group exists only to aid and develop the individuals involved in them.
-This is why we place so much stress on groups structured in a libertarian
-manner -- only a libertarian organisation allows the individuals within a
-group to fully express themselves, manage their own interests directly and to
-create social relationships which encourage individuality and individual
-freedom. So while society and the groups they join shapes the individual, the
-individual is the true basis of society. Hence Malatesta:
+Therefore, anarchists recognise that individuals are the basic unit of society
+and that only individuals have interests and feelings. This means they oppose
+"collectivism" and the glorification of the group. In anarchist theory the
+group exists only to aid and develop the individuals involved in them. This is
+why we place so much stress on groups structured in a libertarian manner --
+only a libertarian organisation allows the individuals within a group to fully
+express themselves, manage their own interests directly and to create social
+relationships which encourage individuality and individual freedom. So while
+society and the groups they join shapes the individual, the individual is the
+true basis of society. Hence Malatesta:
 
 > _"Much has been said about the respective roles of individual initiative and
 social action in the life and progress of human societies . . . [E]verything
@@ -2102,9 +1837,7 @@ initiative to the few [which Malatesta defines as a key aspect of
 government/hierarchy], which inevitably results in the oppression of everyone
 else . . . "_ [**Anarchy**, pp. 38-38]
 
-
-
- These considerations do not mean that "individualism" finds favour with
+These considerations do not mean that "individualism" finds favour with
 anarchists. As Emma Goldman pointed out, _"'rugged individualism'. . . is only
 a masked attempt to repress and defeat the individual and his individuality.
 So-called Individualism is the social and economic **laissez-faire**: the
@@ -2117,9 +1850,7 @@ has meant all the 'individualism' for the masters, while the people are
 regimented into a slave caste to serve a handful of self-seeking 'supermen.'"_
 [**Red Emma Speaks**, p. 112]
 
-
-
- While groups cannot think, individuals cannot live or discuss by themselves.
+While groups cannot think, individuals cannot live or discuss by themselves.
 Groups and associations are an essential aspect of individual life. Indeed, as
 groups generate social relationships by their very nature, they help **shape**
 individuals. In other words, groups structured in an authoritarian way will
@@ -2134,9 +1865,7 @@ find a need for the state despite their frequent denunciations of it. These
 contradictions stem from capitalist individualism's dependence on individual
 contracts in an unequal society, i.e. **abstract** individualism.
 
-
-
- In contrast, anarchists stress **social** "individualism" (another, perhaps
+In contrast, anarchists stress **social** "individualism" (another, perhaps
 better, term for this concept could be **_"communal individuality"_**).
 Anarchism _"insists that the centre of gravity in society is the individual --
 that he [sic] must think for himself, act freely, and live fully. . . . If he
@@ -2148,20 +1877,16 @@ protection. . . .Their 'rugged individualism' is simply one of the many
 pretences the ruling class makes to mask unbridled business and political
 extortion."_ [Emma Goldman, **Op. Cit.**, pp. 442-3]
 
-
-
- Anarchism rejects the **abstract** individualism of capitalism, with its
-ideas of "absolute" freedom of the individual which is constrained by others.
-This theory ignores the social context in which freedom exists and grows.
-_"The freedom we want,"_ Malatesta argued, _"for ourselves and for others, is
-not an absolute metaphysical, abstract freedom which in practice is inevitably
+Anarchism rejects the **abstract** individualism of capitalism, with its ideas
+of "absolute" freedom of the individual which is constrained by others. This
+theory ignores the social context in which freedom exists and grows. _"The
+freedom we want,"_ Malatesta argued, _"for ourselves and for others, is not an
+absolute metaphysical, abstract freedom which in practice is inevitably
 translated into the oppression of the weak; but it is a real freedom, possible
 freedom, which is the conscious community of interests, voluntary
 solidarity."_ [**Anarchy**, p. 43]
 
-
-
- A society based on abstract individualism results in an inequality of power
+A society based on abstract individualism results in an inequality of power
 between the contracting individuals and so entails the need for an authority
 based on laws above them and organised coercion to enforce the contracts
 between them. This consequence is evident from capitalism and, most notably,
@@ -2179,9 +1904,7 @@ practice the owner rules the worker for as long as the contract is in place.
 (See sections [A.2.14](secA2.html#seca214) and [B.4](secB4.html) for further
 details).
 
-
-
- Thus anarchists reject capitalist "individualism" as being, to quote
+Thus anarchists reject capitalist "individualism" as being, to quote
 Kropotkin, _"a narrow and selfish individualism"_ which, moreover, is _"a
 foolish egoism which belittles the individual"_ and is _"not individualism at
 all. It will not lead to what was established as a goal; that is the complete
@@ -2195,16 +1918,12 @@ Revolution**, p. 295, p. 296 and p. 297] For anarchists, our freedom is
 enriched by those around us when we work with them as equals and not as master
 and servant.
 
-
-
- In practice, both individualism and collectivism lead to a denial of both
+In practice, both individualism and collectivism lead to a denial of both
 individual liberty and group autonomy and dynamics. In addition, each implies
 the other, with collectivism leading to a particular form of individualism and
 individualism leading to a particular form of collectivism.
 
-
-
- Collectivism, with its implicit suppression of the individual, ultimately
+Collectivism, with its implicit suppression of the individual, ultimately
 impoverishes the community, as groups are only given life by the individuals
 who comprise them. Individualism, with its explicit suppression of community
 (i.e. the people with whom you live), ultimately impoverishes the individual,
@@ -2217,25 +1936,17 @@ development in the conditions of oppression of the mass by the 'beautiful
 aristocracies'. His [or her] development would remain uni-lateral."_ [Peter
 Kropotkin, **Anarchism**, p. 293]
 
+True liberty and community exist elsewhere.
 
+## A.2.14 Why is voluntarism not enough?
 
- True liberty and community exist elsewhere.
-
-
-
- ## A.2.14 Why is voluntarism not enough?
-
-
-
- Voluntarism means that association should be voluntary in order maximise
+Voluntarism means that association should be voluntary in order maximise
 liberty. Anarchists are, obviously, voluntarists, thinking that only in free
 association, created by free agreement, can individuals develop, grow, and
 express their liberty. However, it is evident that under capitalism
 voluntarism is not enough in itself to maximise liberty.
 
-
-
- Voluntarism implies promising (i.e. the freedom to make agreements), and
+Voluntarism implies promising (i.e. the freedom to make agreements), and
 promising implies that individuals are capable of independent judgement and
 rational deliberation. In addition, it presupposes that they can evaluate and
 change their actions and relationships. Contracts under capitalism, however,
@@ -2258,9 +1969,7 @@ obey (see also [section A.2.8](secA2.html#seca28)). Thus any voluntarism which
 generates relationships of subordination is, by its very nature, incomplete
 and violates its own justification.
 
-
-
- This can be seen from capitalist society, in which workers sell their freedom
+This can be seen from capitalist society, in which workers sell their freedom
 to a boss in order to live. In effect, under capitalism you are only free to
 the extent that you can choose whom you will obey! Freedom, however, must mean
 more than the right to change masters. Voluntary servitude is still servitude.
@@ -2277,9 +1986,7 @@ Rousseau:
 mistaken; she is free only when she signs her contract with her boss. As soon
 as it is signed, slavery overtakes her and she is nothing but an order taker.
 
-
-
- To see why, to see the injustice, we need only quote Rousseau:
+To see why, to see the injustice, we need only quote Rousseau:
 
 > _ "That a rich and powerful man, having acquired immense possessions in
 land, should impose laws on those who want to establish themselves there, and
@@ -2289,9 +1996,7 @@ Would not this tyrannical act contain a double usurpation: that on the
 ownership of the land and that on the liberty of the inhabitants?"_ [**Op.
 Cit.**, p. 316]
 
-
-
- Hence Proudhon's comment that _"Man may be made by property a slave or a
+Hence Proudhon's comment that _"Man may be made by property a slave or a
 despot by turns."_ [**What is Property?**, p. 371] Little wonder we discover
 Bakunin rejecting _"any contract with another individual on any footing but
 the utmost equality and reciprocity"_ as this would _"alienate his [or her]
@@ -2302,17 +2007,13 @@ anarchist society) would be _"devoid of any sense of personal dignity."_
 associations can create relationships of equality rather than of subordination
 between its members.
 
-
-
- Therefore anarchists stress the need for direct democracy in voluntary
+Therefore anarchists stress the need for direct democracy in voluntary
 associations in order to ensure that the concept of "freedom" is not a sham
 and a justification for domination, as it is under capitalism. Only self-
 managed associations can create relationships of equality rather than of
 subordination between its members.
 
-
-
- It is for this reason that anarchists have opposed capitalism and urged
+It is for this reason that anarchists have opposed capitalism and urged
 _"workers to form themselves into democratic societies, with equal conditions
 for all members, on pain of a relapse into feudalism."_ [Proudhon, **The
 General Idea of the Revolution**, p. 277] For similar reasons, anarchists
@@ -2327,9 +2028,7 @@ patriarchal principles anarchists like Goldman and de Cleyre identified and
 condemned (see [section A.3.5](secA3.html#seca35) for more on feminism and
 anarchism).
 
-
-
- Clearly, voluntary entry is a necessary but not a sufficient condition to
+Clearly, voluntary entry is a necessary but not a sufficient condition to
 defend an individual's liberty. This is to be expected as it ignores (or takes
 for granted) the social conditions in which agreements are made and, moreover,
 ignores the social relationships created by them (_"For the worker who **must
@@ -2346,9 +2045,7 @@ voluntarism imply self-management. Or, to use Proudhon's words, _"as
 individualism is the primordial fact of humanity, so association is its
 complementary term."_ [**System of Economical Contradictions**, p. 430]
 
-
-
- To answer the second objection first, in a society based on private property
+To answer the second objection first, in a society based on private property
 (and so statism), those with property have more power, which they can use to
 perpetuate their authority. _"Wealth is power, poverty is weakness,"_ in the
 words of Albert Parsons. This means that under capitalism the much praised
@@ -2364,27 +2061,19 @@ servitude or tolerate those who desire to restrict the liberty of others? The
 "liberty" to command is the liberty to enslave, and so is actually a denial of
 liberty.
 
-
-
- Regarding the first objection, anarchists plead guilty. We **are** prejudiced
+Regarding the first objection, anarchists plead guilty. We **are** prejudiced
 against the reduction of human beings to the status of robots. We are
 prejudiced in favour of human dignity and freedom. We are prejudiced, in fact,
 in favour of humanity and individuality.
 
-
-
- ([ Section A.2.11 ](secA2.html#seca211) discusses why direct democracy is the
+([ Section A.2.11 ](secA2.html#seca211) discusses why direct democracy is the
 necessary social counterpart to voluntarism (i.e. free agreement). [ Section
 B.4](secB4.html) discusses why capitalism cannot be based on equal bargaining
 power between property owners and the propertyless).
 
+## A.2.15 What about "human nature"?
 
-
- ## A.2.15 What about "human nature"?
-
-
-
- Anarchists, far from ignoring "human nature," have the only political theory
+Anarchists, far from ignoring "human nature," have the only political theory
 that gives this concept deep thought and reflection. Too often, "human nature"
 is flung up as the last line of defence in an argument against anarchism,
 because it is thought to be beyond reply. This is not the case, however. First
@@ -2405,9 +2094,12 @@ itself, humans have lots of capacities and options. Which ones reveal
 themselves depends to a large extent on the institutional structures. If we
 had institutions which permitted pathological killers free rein, they'd be
 running the place. The only way to survive would be to let those elements of
-your nature manifest themselves.
+your nature manifest themselves.  
+>  _
 
-"If we have institutions which make greed the sole property of human beings
+>
+
+> _"If we have institutions which make greed the sole property of human beings
 and encourage pure greed at the expense of other human emotions and
 commitments, we're going to have a society based on greed, with all that
 follows. A different society might be organised in such a way that human
@@ -2415,26 +2107,22 @@ feelings and emotions of other sorts, say, solidarity, support, sympathy
 become dominant. Then you'll have different aspects of human nature and
 personality revealing themselves."_ [**Chronicles of Dissent**, pp. 158]
 
-
-
- Therefore, environment plays an important part in defining what "human
-nature" is, how it develops and what aspects of it are expressed. Indeed, one
-of the greatest myths about anarchism is the idea that we think human nature
-is inherently good (rather, we think it is inherently sociable). How it
-develops and expresses itself is dependent on the kind of society we live in
-and create. A hierarchical society will shape people in certain (negative)
-ways and produce a "human nature" radically different from a libertarian one.
-So _"when we hear men [and women] saying that Anarchists imagine men [and
-women] much better than they really are, we merely wonder how intelligent
-people can repeat that nonsense. Do we not say continually that the only means
-of rendering men [and women] less rapacious and egotistic, less ambitious and
+Therefore, environment plays an important part in defining what "human nature"
+is, how it develops and what aspects of it are expressed. Indeed, one of the
+greatest myths about anarchism is the idea that we think human nature is
+inherently good (rather, we think it is inherently sociable). How it develops
+and expresses itself is dependent on the kind of society we live in and
+create. A hierarchical society will shape people in certain (negative) ways
+and produce a "human nature" radically different from a libertarian one. So
+_"when we hear men [and women] saying that Anarchists imagine men [and women]
+much better than they really are, we merely wonder how intelligent people can
+repeat that nonsense. Do we not say continually that the only means of
+rendering men [and women] less rapacious and egotistic, less ambitious and
 less slavish at the same time, is to eliminate those conditions which favour
 the growth of egotism and rapacity, of slavishness and ambition?"_ [Peter
 Kropotkin, **Act for Yourselves**, p. 83]
 
-
-
- As such, the use of "human nature" as an argument against anarchism is simply
+As such, the use of "human nature" as an argument against anarchism is simply
 superficial and, ultimately, an evasion. It is an excuse not to think. _"Every
 fool,"_ as Emma Goldman put it, _"from king to policemen, from the flatheaded
 parson to the visionless dabbler in science, presumes to speak authoritatively
@@ -2450,9 +2138,7 @@ restraint of government."_ For _"[f]reedom, expansion, opportunity, and above
 all, peace and repose, alone can teach us the real dominant factors of human
 nature and all its wonderful possibilities."_ [**Red Emma Speaks**, p. 73]
 
-
-
- This does not mean that human beings are infinitely plastic, with each
+This does not mean that human beings are infinitely plastic, with each
 individual born a **tabula rasa** (blank slate) waiting to be formed by
 "society" (which in practice means those who run it). As Noam Chomsky argues,
 _"I don't think its possible to give a rational account of the concept of
@@ -2470,23 +2156,19 @@ prosper. Moreover, they have the ability to recognise and oppose injustice and
 oppression (Bakunin rightly considered _"**the power to think** and **the
 desire to rebel**"_ as _"precious faculties."_ [**God and the State**, p. 9]).
 
-
-
- These three features, we think, suggest the viability of an anarchist
-society. The innate ability to think for oneself automatically makes all forms
-of hierarchy illegitimate, and our need for social relationships implies that
-we can organise without the state. The deep unhappiness and alienation
-afflicting modern society reveals that the centralisation and authoritarianism
-of capitalism and the state are denying some innate needs within us. In fact,
-as mentioned earlier, for the great majority of its existence the human race
+These three features, we think, suggest the viability of an anarchist society.
+The innate ability to think for oneself automatically makes all forms of
+hierarchy illegitimate, and our need for social relationships implies that we
+can organise without the state. The deep unhappiness and alienation afflicting
+modern society reveals that the centralisation and authoritarianism of
+capitalism and the state are denying some innate needs within us. In fact, as
+mentioned earlier, for the great majority of its existence the human race
 **has** lived in anarchic communities, with little or no hierarchy. That
 modern society calls such people "savages" or "primitive" is pure arrogance.
 So who can tell whether anarchism is against "human nature"? Anarchists have
 accumulated much evidence to suggest that it may not be.
 
-
-
- As for the charge the anarchists demand too much of "human nature," it is
+As for the charge the anarchists demand too much of "human nature," it is
 often **non** anarchists who make the greatest claims on it. For _"while our
 opponents seem to admit there is a kind of salt of the earth -- the rulers,
 the employers, the leaders -- who, happily enough, prevent those bad men --
@@ -2501,11 +2183,9 @@ make no such exception, they say that we are dreamers."_ [Peter Kropotkin,
 over others and hoping this will lead to justice and freedom is hopelessly
 utopian.
 
-
-
- Moreover, as noted, Anarchists argue that hierarchical organisations bring
-out the worse in human nature. Both the oppressor and the oppressed are
-negatively affected by the authoritarian relationships so produced. _"It is a
+Moreover, as noted, Anarchists argue that hierarchical organisations bring out
+the worse in human nature. Both the oppressor and the oppressed are negatively
+affected by the authoritarian relationships so produced. _"It is a
 characteristic of privilege and of every kind of privilege,"_ argued Bakunin,
 _"to kill the mind and heart of man . . . That is a social law which admits no
 exceptions . . . It is the law of equality and humanity."_ [**God and the
@@ -2516,9 +2196,7 @@ where there is oppression, there is resistance and, consequently, hope). As
 such, it seems strange for anarchists to hear non-anarchists justify hierarchy
 in terms of the (distorted) "human nature" it produces.
 
-
-
- Sadly, too many have done precisely this. It continues to this day. For
+Sadly, too many have done precisely this. It continues to this day. For
 example, with the rise of "sociobiology," some claim (with very little
 **real** evidence) that capitalism is a product of our "nature," which is
 determined by our genes. These claims are simply a new variation of the "human
@@ -2530,9 +2208,7 @@ inequalities in wealth and power (for a discussion of this process see **Not
 in Our Genes: Biology, Ideology and Human Nature** by Steven Rose, R.C.
 Lewontin and Leon J. Kamin).
 
-
-
- This is not to say that it does not hold a grain of truth. As scientist
+This is not to say that it does not hold a grain of truth. As scientist
 Stephen Jay Gould notes, _"the range of our potential behaviour is
 circumscribed by our biology"_ and if this is what sociobiology means _"by
 genetic control, then we can scarcely disagree."_ However, this is not what is
@@ -2550,9 +2226,7 @@ _"repeated, often genocidal warfare has shaped our genetic destiny, the
 existence of nonaggressive peoples is embarrassing."_ [**Ever Since Darwin**,
 p. 252, p. 257 and p. 254]
 
-
-
- Like the social Darwinism that preceded it, sociobiology proceeds by first
+Like the social Darwinism that preceded it, sociobiology proceeds by first
 projecting the dominant ideas of current society onto nature (often
 unconsciously, so that scientists mistakenly consider the ideas in question as
 both "normal" and "natural"). Bookchin refers to this as _"the subtle
@@ -2568,9 +2242,7 @@ transcribed into the genetic code as biologically immutable."_ [**The Ecology
 of Freedom**, p. 95 and p. 92] Amazingly, there are many supposedly
 intelligent people who take this sleight-of-hand seriously.
 
-
-
- This can be seen when "hierarchies" in nature are used to explain, and so
+This can be seen when "hierarchies" in nature are used to explain, and so
 justify, hierarchies in human societies. Such analogies are misleading for
 they forget the institutional nature of human life. As Murray Bookchin notes
 in his critique of sociobiology, a _"weak, enfeebled, unnerved, and sick ape
@@ -2585,9 +2257,7 @@ about 'alpha males' or 'queen bees.'"_ [_"Sociobiology or Social Ecology"_,
 unique is conveniently ignored and the real sources of power in society are
 hidden under a genetic screen.
 
-
-
- The sort of apologetics associated with appeals to "human nature" (or
+The sort of apologetics associated with appeals to "human nature" (or
 sociobiology at its worse) are natural, of course, because every ruling class
 needs to justify their right to rule. Hence they support doctrines that
 defined the latter in ways appearing to justify elite power -- be it
@@ -2596,9 +2266,7 @@ always been wrong . . . until now, of course, as it is obvious our current
 society truly conforms to "human nature" and it has been scientifically proven
 by our current scientific priesthood!
 
-
-
- The arrogance of this claim is truly amazing. History hasn't stopped. One
+The arrogance of this claim is truly amazing. History hasn't stopped. One
 thousand years from now, society will be completely different from what it is
 presently or from what anyone has imagined. No government in place at the
 moment will still be around, and the current economic system will not exist.
@@ -2606,24 +2274,19 @@ The only thing that may remain the same is that people will still be claiming
 that their new society is the "One True System" that completely conforms to
 human nature, even though all past systems did not.
 
+Of course, it does not cross the minds of supporters of capitalism that people
+from different cultures may draw different conclusions from the same facts --
+conclusions that may be **more** valid. Nor does it occur to capitalist
+apologists that the theories of the "objective" scientists may be framed in
+the context of the dominant ideas of the society they live in. It comes as no
+surprise to anarchists, however, that scientists working in Tsarist Russia
+developed a theory of evolution based on **cooperation** within species, quite
+unlike their counterparts in capitalist Britain, who developed a theory based
+on **competitive struggle** within and between species. That the latter theory
+reflected the dominant political and economic theories of British society
+(notably competitive individualism) is pure coincidence, of course.
 
-
- Of course, it does not cross the minds of supporters of capitalism that
-people from different cultures may draw different conclusions from the same
-facts -- conclusions that may be **more** valid. Nor does it occur to
-capitalist apologists that the theories of the "objective" scientists may be
-framed in the context of the dominant ideas of the society they live in. It
-comes as no surprise to anarchists, however, that scientists working in
-Tsarist Russia developed a theory of evolution based on **cooperation** within
-species, quite unlike their counterparts in capitalist Britain, who developed
-a theory based on **competitive struggle** within and between species. That
-the latter theory reflected the dominant political and economic theories of
-British society (notably competitive individualism) is pure coincidence, of
-course.
-
-
-
- Kropotkin's classic work **Mutual Aid**, for example, was written in response
+Kropotkin's classic work **Mutual Aid**, for example, was written in response
 to the obvious inaccuracies that British representatives of Darwinism had
 projected onto nature and human life. Building upon the mainstream Russian
 criticism of the British Darwinism of the time, Kropotkin showed (with
@@ -2637,9 +2300,7 @@ survival. Thus co-operation is just as "natural" as competition so proving
 that "human nature" was not a barrier to anarchism as co-operation between
 members of a species can be the best pathway to advantage individuals.
 
-
-
- To conclude. Anarchists argue that anarchy is not against "human nature" for
+To conclude. Anarchists argue that anarchy is not against "human nature" for
 two main reasons. Firstly, what is considered as being "human nature" is
 shaped by the society we live in and the relationships we create. This means a
 hierarchical society will encourage certain personality traits to dominate
@@ -2650,22 +2311,16 @@ Secondly, change _"seems to be one of the fundamental laws of existence"_ so
 _"who can say that man [sic!] has reached the limits of his possibilities."_
 [George Barrett, **Objections to Anarchism**, pp. 360-1 and p. 360]
 
-
-
- For useful discussions on anarchist ideas on human nature, both of which
+For useful discussions on anarchist ideas on human nature, both of which
 refute the idea that anarchists think human beings are naturally good, see
 Peter Marshall's _"Human nature and anarchism"_ [David Goodway (ed.), **For
 Anarchism: History, Theory and Practice**, pp. 127-149] and David Hartley's
 _"Communitarian Anarchism and Human Nature"_. [**Anarchist Studies**, vol. 3,
 no. 2, Autumn 1995, pp. 145-164]
 
+## A.2.16 Does anarchism require "perfect" people to work?
 
-
- ## A.2.16 Does anarchism require "perfect" people to work?
-
-
-
- No. Anarchy is not a utopia, a "perfect" society. It will be a **_human_**
+No. Anarchy is not a utopia, a "perfect" society. It will be a **_human_**
 society, with all the problems, hopes, and fears associated with human beings.
 Anarchists do not think that human beings need to be "perfect" for anarchy to
 work. They only need to be free. Thus Christie and Meltzer:
@@ -2688,9 +2343,7 @@ labour from its service, the prejudices of authoritarianism will disappear.
 There is no cure for them other than the free process of education."_ [**The
 Floodgates of Anarchy**, pp. 36-7]
 
-
-
- Obviously, though, we think that a free society will produce people who are
+Obviously, though, we think that a free society will produce people who are
 more in tune with both their own and others individuality and needs, thus
 reducing individual conflict. Remaining disputes would be solved by reasonable
 methods, for example, the use of juries, mutual third parties, or community
@@ -2698,9 +2351,7 @@ and workplace assemblies (see [section I.5.8](secI5.html#seci58) for a
 discussion of how could be done for anti-social activities as well as
 disputes).
 
-
-
- Like the "anarchism-is-against-human-nature" argument (see [section
+Like the "anarchism-is-against-human-nature" argument (see [section
 A.2.15](secA2.html#seca215)), opponents of anarchism usually assume "perfect"
 people -- people who are not corrupted by power when placed in positions of
 authority, people who are strangely unaffected by the distorting effects of
@@ -2708,21 +2359,16 @@ hierarchy, privilege, and so forth. However, anarchists make no such claims
 about human perfection. We simply recognise that vesting power in the hands of
 one person or an elite is never a good idea, as people are not perfect.
 
+It should be noted that the idea that anarchism requires a "new" (perfect) man
+or woman is often raised by the opponents of anarchism to discredit it (and,
+usually, to justify the retention of hierarchical authority, particularly
+capitalist relations of production). After all, people are not perfect and are
+unlikely ever to be. As such, they pounce on every example of a government
+falling and the resulting chaos to dismiss anarchism as unrealistic. The media
+loves to proclaim a country to be falling into "anarchy" whenever there is a
+disruption in "law and order" and looting takes place.
 
-
- It should be noted that the idea that anarchism requires a "new" (perfect)
-man or woman is often raised by the opponents of anarchism to discredit it
-(and, usually, to justify the retention of hierarchical authority,
-particularly capitalist relations of production). After all, people are not
-perfect and are unlikely ever to be. As such, they pounce on every example of
-a government falling and the resulting chaos to dismiss anarchism as
-unrealistic. The media loves to proclaim a country to be falling into
-"anarchy" whenever there is a disruption in "law and order" and looting takes
-place.
-
-
-
- Anarchists are not impressed by this argument. A moment's reflection shows
+Anarchists are not impressed by this argument. A moment's reflection shows
 why, for the detractors make the basic mistake of assuming an anarchist
 society without anarchists! (A variation of such claims is raised by the
 right-wing "anarcho"-capitalists to discredit real anarchism. However, their
@@ -2739,9 +2385,7 @@ useless for some liberator to cut off the head of tyranny; the people will
 create another, for they have grown accustomed to rely on something outside
 themselves."_ [George Barrett, **Objections to Anarchism**, p. 355]
 
-
-
- Hence Alexander Berkman:
+Hence Alexander Berkman:
 
 > _ "Our social institutions are founded on certain ideas; as long as the
 latter are generally believed, the institutions built on them are safe.
@@ -2751,9 +2395,7 @@ system is considered adequate and just. The weakening of the ideas which
 support the evil and oppressive present day conditions means the ultimate
 breakdown of government and capitalism."_ [**What is Anarchism?**, p. xii]
 
-
-
- In other words, anarchy needs **_anarchists_** in order to be created and
+In other words, anarchy needs **_anarchists_** in order to be created and
 survive. But these anarchists need not be perfect, just people who have freed
 themselves, by their own efforts, of the superstition that command-and-
 obedience relations and capitalist property rights are necessary. The implicit
@@ -2770,9 +2412,7 @@ creates people capable of taking the responsibility for their own lives,
 communities and planet. People capable of living as equals in a free society,
 so making anarchy possible.
 
-
-
- As such, the chaos which often results when a government disappears is not
+As such, the chaos which often results when a government disappears is not
 anarchy nor, in fact, a case against anarchism. It simple means that the
 necessary preconditions for creating an anarchist society do not exist.
 Anarchy would be the product of collective struggle at the heart of society,
@@ -2783,9 +2423,7 @@ function will evolve over time in the light of experience and objective
 circumstances, not appear in a perfect form immediately (see [section
 H.2.5](secH2.html#sech25) for a discussion of Marxist claims otherwise).
 
-
-
- Therefore, anarchists do not conclude that "perfect" people are necessary
+Therefore, anarchists do not conclude that "perfect" people are necessary
 anarchism to work because the anarchist is _"no liberator with a divine
 mission to free humanity, but he is a part of that humanity struggling onwards
 towards liberty."_ As such, _"[i]f, then, by some external means an Anarchist
@@ -2796,9 +2434,7 @@ themselves get rid of the last stronghold of tyranny --- the government --
 then indeed the revolution will be permanently accomplished."_ [George
 Barrett, **Op. Cit.**, p. 355]
 
-
-
- This is not to suggest that an anarchist society must wait until
+This is not to suggest that an anarchist society must wait until
 **_everyone_** is an anarchist. Far from it. It is highly unlikely, for
 example, that the rich and powerful will suddenly see the errors of their ways
 and voluntarily renounce their privileges. Faced with a large and growing
@@ -2811,29 +2447,25 @@ to defend itself against attempts to recreate authority (see [ section
 H.2.1](secH2.html#sech21) for a refutation of Marxist claims anarchists reject
 the need to defend an anarchist society against counter-revolution).
 
+Instead anarchists argue that we should focus our activity on convincing those
+subject to oppression and exploitation that they have the power to resist both
+and, ultimately, can end both by destroying the social institutions that cause
+them. As Malatesta argued, _"we need the support of the masses to build a
+force of sufficient strength to achieve our specific task of radical change in
+the social organism by the direct action of the masses, we must get closer to
+them, accept them as they are, and from within their ranks seek to 'push' them
+forward as much as possible."_ [**Errico Malatesta: His Life and Ideas**, pp.
+155-6] This would create the conditions that make possible a rapid evolution
+towards anarchism as what was initially accepted by a minority _"but
+increasingly finding popular expression, will make its way among the mass of
+the people"_ and _"the minority will become the People, the great mass, and
+that mass rising up against property and the State, will march forward towards
+anarchist communism."_ [Kropotkin, **Words of a Rebel**, p. 75] Hence the
+importance anarchists attach to spreading our ideas and arguing the case for
+anarchism. This creates conscious anarchists from those questioning the
+injustices of capitalism and the state.
 
-
- Instead anarchists argue that we should focus our activity on convincing
-those subject to oppression and exploitation that they have the power to
-resist both and, ultimately, can end both by destroying the social
-institutions that cause them. As Malatesta argued, _"we need the support of
-the masses to build a force of sufficient strength to achieve our specific
-task of radical change in the social organism by the direct action of the
-masses, we must get closer to them, accept them as they are, and from within
-their ranks seek to 'push' them forward as much as possible."_ [**Errico
-Malatesta: His Life and Ideas**, pp. 155-6] This would create the conditions
-that make possible a rapid evolution towards anarchism as what was initially
-accepted by a minority _"but increasingly finding popular expression, will
-make its way among the mass of the people"_ and _"the minority will become the
-People, the great mass, and that mass rising up against property and the
-State, will march forward towards anarchist communism."_ [Kropotkin, **Words
-of a Rebel**, p. 75] Hence the importance anarchists attach to spreading our
-ideas and arguing the case for anarchism. This creates conscious anarchists
-from those questioning the injustices of capitalism and the state.
-
-
-
- This process is helped by the nature of hierarchical society and the
+This process is helped by the nature of hierarchical society and the
 resistance it naturally developed in those subject to it. Anarchist ideas
 develop spontaneously through struggle. As we discuss in [section
 I.2.3](secI2.html#seci23), anarchistic organisations are often created as part
@@ -2857,9 +2489,7 @@ anarchy, or taken a step towards anarchy."_ For anarchy _"cannot be imposed
 against the wishes of the people."_ [Malatesta, **Op. Cit.**, p. 159 and p.
 163]
 
-
-
- So, to conclude, the creation of an anarchist society is not dependent on
+So, to conclude, the creation of an anarchist society is not dependent on
 people being perfect but it is dependent on a large majority being anarchists
 and wanting to reorganise society in a libertarian manner. This will not
 eliminate conflict between individuals nor create a fully formed anarchist
@@ -2867,26 +2497,20 @@ humanity overnight but it will lay the ground for the gradual elimination of
 whatever prejudices and anti-social behaviour that remain after the struggle
 to change society has revolutionised those doing it.
 
+## A.2.17 Aren't most people too stupid for a free society to work?
 
-
- ## A.2.17 Aren't most people too stupid for a free society to work?
-
-
-
- We are sorry to have to include this question in an anarchist FAQ, but we
-know that many political ideologies explicitly assume that ordinary people are
-too stupid to be able to manage their own lives and run society. All aspects
-of the capitalist political agenda, from Left to Right, contain people who
-make this claim. Be it Leninists, fascists, Fabians or Objectivists, it is
-assumed that only a select few are creative and intelligent and that these
-people should govern others. Usually, this elitism is masked by fine, flowing
+We are sorry to have to include this question in an anarchist FAQ, but we know
+that many political ideologies explicitly assume that ordinary people are too
+stupid to be able to manage their own lives and run society. All aspects of
+the capitalist political agenda, from Left to Right, contain people who make
+this claim. Be it Leninists, fascists, Fabians or Objectivists, it is assumed
+that only a select few are creative and intelligent and that these people
+should govern others. Usually, this elitism is masked by fine, flowing
 rhetoric about "freedom," "democracy" and other platitudes with which the
 ideologues attempt to dull people's critical thought by telling them want they
 want to hear.
 
-
-
- It is, of course, also no surprise that those who believe in "natural" elites
+It is, of course, also no surprise that those who believe in "natural" elites
 always class themselves at the top. We have yet to discover an "objectivist",
 for example, who considers themselves part of the great mass of "second-
 handers" (it is always amusing to hear people who simply parrot the ideas of
@@ -2896,9 +2520,7 @@ consider him or herself to be part of the "select few." It's "natural" in an
 elitist society to consider elites to be natural and yourself a potential
 member of one!
 
-
-
- Examination of history shows that there is a basic elitist ideology which has
+Examination of history shows that there is a basic elitist ideology which has
 been the essential rationalisation of all states and ruling classes since
 their emergence at the beginning of the Bronze Age (_"if the legacy of
 domination had had any broader purpose than the support of hierarchical and
@@ -2907,9 +2529,7 @@ competence from social discourse itself."_ [Bookchin, **The Ecology of
 Freedom**, p. 206]). This ideology merely changes its outer garments, not its
 basic inner content over time.
 
-
-
- During the Dark Ages, for example, it was coloured by Christianity, being
+During the Dark Ages, for example, it was coloured by Christianity, being
 adapted to the needs of the Church hierarchy. The most useful "divinely
 revealed" dogma to the priestly elite was "original sin": the notion that
 human beings are basically depraved and incompetent creatures who need
@@ -2918,9 +2538,7 @@ between ordinary humans and "God." The idea that average people are basically
 stupid and thus incapable of governing themselves is a carry over from this
 doctrine, a relic of the Dark Ages.
 
-
-
- In reply to all those who claim that most people are "second-handers" or
+In reply to all those who claim that most people are "second-handers" or
 cannot develop anything more than "trade union consciousness," all we can say
 is that it is an absurdity that cannot withstand even a superficial look at
 history, particularly the labour movement. The creative powers of those
@@ -2944,9 +2562,7 @@ politics, culture and everything else. Once you drain the vitality from people
 at work, they'll likely submit to hierarchy and expertise in everything.
 They're used to it." _[**The Abolition of Work and other essays**, pp. 21-2]
 
-
-
- When elitists try to conceive of liberation, they can only think of it being
+When elitists try to conceive of liberation, they can only think of it being
 **given** to the oppressed by kind (for Leninists) or stupid (for
 Objectivists) elites. It is hardly surprising, then, that it fails. Only self-
 liberation can produce a free society. The crushing and distorting effects of
@@ -2954,16 +2570,12 @@ authority can only be overcome by self-activity. The few examples of such
 self-liberation prove that most people, once considered incapable of freedom
 by others, are more than up for the task.
 
-
-
- Those who proclaim their "superiority" often do so out of fear that their
+Those who proclaim their "superiority" often do so out of fear that their
 authority and power will be destroyed once people free themselves from the
 debilitating hands of authority and come to realise that, in the words of Max
 Stirner, _"the great are great only because we are on our knees. Let us rise"_
 
-
-
- As Emma Goldman remarks about women's equality, _"[t]he extraordinary
+As Emma Goldman remarks about women's equality, _"[t]he extraordinary
 achievements of women in every walk of life have silenced forever the loose
 talk of women's inferiority. Those who still cling to this fetish do so
 because they hate nothing so much as to see their authority challenged. This
@@ -2973,9 +2585,7 @@ everywhere she is going ahead with free, large strides."_ [**Vision on Fire**,
 p. 256] The same comments are applicable, for example, to the very successful
 experiments in workers' self-management during the Spanish Revolution.
 
-
-
- Then, of course, the notion that people are too stupid for anarchism to work
+Then, of course, the notion that people are too stupid for anarchism to work
 also backfires on those who argue it. Take, for example, those who use this
 argument to advocate democratic government rather than anarchy. Democracy, as
 Luigi Galleani noted, means _"acknowledging the right and the competence of
@@ -2990,12 +2600,10 @@ them? And how will they be able to solve this problem of social alchemy, of
 producing the election of a genius from the votes of a mass of fools?"_
 [Malatesta, **Anarchy**, pp. 53-4]
 
-
-
- As for those who consider dictatorship as the solution to human stupidity,
-the question arises why are these dictators immune to this apparently
-universal human trait? And, as Malatesta noted, _"who are the best? And who
-will recognise these qualities in them?"_ [**Op. Cit.**, p. 53] If they impose
+As for those who consider dictatorship as the solution to human stupidity, the
+question arises why are these dictators immune to this apparently universal
+human trait? And, as Malatesta noted, _"who are the best? And who will
+recognise these qualities in them?"_ [**Op. Cit.**, p. 53] If they impose
 themselves on the "stupid" masses, why assume they will not exploit and
 oppress the many for their own benefit? Or, for that matter, that they are any
 more intelligent than the masses? The history of dictatorial and monarchical
@@ -3014,9 +2622,7 @@ consider them fundamentally as the _"uncivilised hordes"_? You cannot have it
 both ways and the _"unknown ideal"_ of pure capitalism would be as grubby,
 oppressive and alienating as "actually existing" capitalism.
 
-
-
- As such, anarchists are firmly convinced that arguments against anarchy based
+As such, anarchists are firmly convinced that arguments against anarchy based
 on the lack of ability of the mass of people are inherently self-contradictory
 (when not blatantly self-servicing). If people are too stupid for anarchism
 then they are too stupid for any system you care to mention. Ultimately,
@@ -3030,17 +2636,11 @@ their independence, I feel that it does not behove slaves to reason about
 freedom."_ [quoted by Noam Chomsky, **Marxism, Anarchism, and Alternative
 Futures**, p. 780]
 
+## A.2.18 Do anarchists support terrorism?
 
+No. This is for three reasons.
 
- ## A.2.18 Do anarchists support terrorism?
-
-
-
- No. This is for three reasons.
-
-
-
- Terrorism means either targeting or not worrying about killing innocent
+Terrorism means either targeting or not worrying about killing innocent
 people. For anarchy to exist, it must be created by the mass of people. One
 does not convince people of one's ideas by blowing them up. Secondly,
 anarchism is about self-liberation. One cannot blow up a social relationship.
@@ -3060,9 +2660,7 @@ anarchist society. The history of, say, the Russian Revolution, confirmed
 Kropotkin's insight that _"[v]ery sad would be the future revolution if it
 could only triumph by terror."_ [quoted by Millar, **Op. Cit.**, p. 175]
 
-
-
- Moreover anarchists are **not** against individuals but the institutions and
+Moreover anarchists are **not** against individuals but the institutions and
 social relationships that cause certain individuals to have power over others
 and abuse (i.e. use) that power. Therefore the anarchist revolution is about
 destroying structures, not people. As Bakunin pointed out, _"we wish not to
@@ -3074,9 +2672,7 @@ other words, **_"You can't blow up a social relationship"_** (to quote the
 title of an anarchist pamphlet which presents the anarchist case against
 terrorism).
 
-
-
- How is it, then, that anarchism is associated with violence? Partly this is
+How is it, then, that anarchism is associated with violence? Partly this is
 because the state and media insist on referring to terrorists who are **not**
 anarchists as anarchists. For example, the German Baader-Meinhoff gang were
 often called "anarchists" despite their self-proclaimed Marxist-Leninism.
@@ -3086,9 +2682,7 @@ a great number of [violent] acts, for which Anarchists had to suffer, either
 originated with the capitalist press or were instigated, if not directly
 perpetrated, by the police."_ [**Red Emma Speaks**, p. 262]
 
-
-
- An example of this process at work can be seen from the current anti-
+An example of this process at work can be seen from the current anti-
 globalisation movement. In Seattle, for example, the media reported "violence"
 by protestors (particularly anarchist ones) yet this amounted to a few broken
 windows. The much greater **actual** violence of the police against protestors
@@ -3102,9 +2696,7 @@ is 'violence,' then give me a new word, a word a thousand times stronger, to
 use when the cops are beating non-resisting people into comas."_ [**Staying on
 the Streets**, p. 130]
 
-
-
- Similarly, at the Genoa protests in 2001 the mainstream media presented the
+Similarly, at the Genoa protests in 2001 the mainstream media presented the
 protestors as violent even though it was the state who killed one of them and
 hospitalised many thousands more. The presence of police agent provocateurs in
 creating the violence was unmentioned by the media. As Starhawk noted
@@ -3118,9 +2710,7 @@ had no fear of repercussions and expected political protection from the
 highest sources."_ [**Op. Cit.**, pp. 128-9] This was, unsurprisingly, not
 reported by the media.
 
-
-
- Subsequent protests have seen the media indulge in yet more anti-anarchist
+Subsequent protests have seen the media indulge in yet more anti-anarchist
 hype, inventing stories to present anarchists are hate-filled individuals
 planning mass violence. For example, in Ireland in 2004 the media reported
 that anarchists were planning to use poison gas during EU related celebrations
@@ -3138,16 +2728,12 @@ repression by, the police against demonstrators which occurred at these
 events. Neither did they run apologies after their (evidence-less) stories of
 doom were exposed as the nonsense they were by subsequent events.
 
-
-
- This does not mean that Anarchists have not committed acts of violence. They
+This does not mean that Anarchists have not committed acts of violence. They
 have (as have members of other political and religious movements). The main
 reason for the association of terrorism with anarchism is because of the
 **_"propaganda by the deed"_** period in the anarchist movement.
 
-
-
- This period -- roughly from 1880 to 1900 -- was marked by a small number of
+This period -- roughly from 1880 to 1900 -- was marked by a small number of
 anarchists assassinating members of the ruling class (royalty, politicians and
 so forth). At its worse, this period saw theatres and shops frequented by
 members of the bourgeoisie targeted. These acts were termed _"propaganda by
@@ -3160,9 +2746,7 @@ revenge for acts of repression directed towards working class people; and
 secondly, as a means to encourage people to revolt by showing that their
 oppressors could be defeated.
 
-
-
- Considering these reasons it is no coincidence that propaganda by the deed
+Considering these reasons it is no coincidence that propaganda by the deed
 began in France after the 20 000-plus deaths due to the French state's brutal
 suppression of the Paris Commune, in which many anarchists were killed. It is
 interesting to note that while the anarchist violence in revenge for the
@@ -3170,13 +2754,11 @@ Commune is relatively well known, the state's mass murder of the Communards is
 relatively unknown. Similarly, it may be known that the Italian Anarchist
 Gaetano Bresci assassinated King Umberto of Italy in 1900 or that Alexander
 Berkman tried to kill Carnegie Steel Corporation manager Henry Clay Frick in
-1892\. What is often unknown is that Umberto's troops had fired upon and
-killed protesting peasants or that Frick's Pinkertons had also murdered
-locked-out workers at Homestead.
+1892. What is often unknown is that Umberto's troops had fired upon and killed
+protesting peasants or that Frick's Pinkertons had also murdered locked-out
+workers at Homestead.
 
-
-
- Such downplaying of statist and capitalist violence is hardly surprising.
+Such downplaying of statist and capitalist violence is hardly surprising.
 _"The State's behaviour is violence,"_ points out Max Stirner, _"and it calls
 its violence 'law'; that of the individual, 'crime.'"_ [**The Ego and Its
 Own**, p. 197] Little wonder, then, that anarchist violence is condemned but
@@ -3188,9 +2770,7 @@ through violence, which maintain themselves in power through violence, and
 which use violence constantly to keep down rebellion and to bully other
 nations."_ [Howard Zinn, **The Zinn Reader**, p. 652]
 
-
-
- We can get a feel of the hypocrisy surrounding condemnation of anarchist
+We can get a feel of the hypocrisy surrounding condemnation of anarchist
 violence by non-anarchists by considering their response to state violence.
 For example, many capitalist papers and individuals in the 1920s and 1930s
 celebrated Fascism as well as Mussolini and Hitler. Anarchists, in contrast,
@@ -3210,9 +2790,7 @@ state and its actions yet people do not see the obvious and _"deplore the type
 of violence that the state deplores, and applaud the violence that the state
 practises."_ [Christie and Meltzer, **The Floodgates of Anarchy**, p. 132]
 
-
-
- It must be noted that the majority of anarchists did not support this tactic.
+It must be noted that the majority of anarchists did not support this tactic.
 Of those who committed "propaganda by the deed" (sometimes called
 _"attentats"_), as Murray Bookchin points out, only a _"few . . . were members
 of Anarchist groups. The majority . . . were soloists."_ [**The Spanish
@@ -3222,9 +2800,7 @@ blaming Bakunin for such acts even though he had been dead years before the
 tactic was even discussed in anarchist circles or by labelling non-anarchist
 groups anarchists!).
 
-
-
- All in all, the "propaganda by the deed" phase of anarchism was a failure, as
+All in all, the "propaganda by the deed" phase of anarchism was a failure, as
 the vast majority of anarchists soon came to see. Kropotkin can be considered
 typical. He _"never liked the slogan **propaganda by deed**, and did not use
 it to describe his own ideas of revolutionary action."_ However, in 1879 while
@@ -3244,9 +2820,7 @@ response to the state murder of anarchists involved in the Jerez uprising of
 1892 and Emile Henry's bombing of a cafe in response to state repression) and
 partly due to the awareness that it was hindering the anarchist cause.
 
-
-
- Kropotkin recognised that the _"spate of terrorist acts"_ of the 1880s had
+Kropotkin recognised that the _"spate of terrorist acts"_ of the 1880s had
 caused _"the authorities into taking repressive action against the movement"_
 and were _"not in his view consistent with the anarchist ideal and did little
 or nothing to promote popular revolt."_ In addition, he was _"anxious about
@@ -3262,9 +2836,7 @@ struggle and, therefore, _"Kropotkin always insisted on the importance of the
 labour movement in the struggles leading up to the revolution."_ [**Op.
 Cit.**, pp. 205-6, p. 208 and p. 280]
 
-
-
- Kropotkin was not alone. More and more anarchists came to see "propaganda by
+Kropotkin was not alone. More and more anarchists came to see "propaganda by
 the deed" as giving the state an excuse to clamp down on both the anarchist
 and labour movements. Moreover, it gave the media (and opponents of anarchism)
 a chance to associate anarchism with mindless violence, thus alienating much
@@ -3273,10 +2845,8 @@ every opportunity, regardless of the facts (for example, even though
 Individualist Anarchists rejected "propaganda by the deed" totally, they were
 also smeared by the press as "violent" and "terrorists").
 
-
-
- In addition, as Kropotkin pointed out, the assumption behind propaganda by
-the deed, i.e. that everyone was waiting for a chance to rebel, was false. In
+In addition, as Kropotkin pointed out, the assumption behind propaganda by the
+deed, i.e. that everyone was waiting for a chance to rebel, was false. In
 fact, people are products of the system in which they live; hence they
 accepted most of the myths used to keep that system going. With the failure of
 propaganda by deed, anarchists turned back to what most of the movement had
@@ -3305,9 +2875,7 @@ among the people and to win them over to our ideas by actively taking part in
 their struggles and sufferings."_ [Errico Malatesta, _"The Duties of the
 Present Hour"_, pp. 181-3, **Anarchism**, Robert Graham (ed.), pp. 180-1]
 
-
-
- Despite most anarchists' tactical disagreement with propaganda by deed, few
+Despite most anarchists' tactical disagreement with propaganda by deed, few
 would consider it to be terrorism or rule out assassination under all
 circumstances. Bombing a village during a war because there **might** be an
 enemy in it is terrorism, whereas assassinating a murdering dictator or head
@@ -3322,9 +2890,7 @@ vast majority of "propaganda by the deed" acts were directed towards
 individuals of the ruling class, such as Presidents and Royalty, and were the
 result of previous acts of state and capitalist violence.
 
-
-
- So "terrorist" acts have been committed by anarchists. This is a fact.
+So "terrorist" acts have been committed by anarchists. This is a fact.
 However, it has nothing to do with anarchism as a socio-political theory. As
 Emma Goldman argued, it was _"not Anarchism, as such, but the brutal slaughter
 of the eleven steel workers [that] was the urge for Alexander Berkman's act."_
@@ -3343,9 +2909,7 @@ but in the depths of . . . human nature itself. The whole course of history,
 political and social, is strewn with evidence of this."_ [quoted by Emma
 Goldman, **Op. Cit.**, p. 259]
 
-
-
- Terrorism has been used by many other political, social and religious groups
+Terrorism has been used by many other political, social and religious groups
 and parties. For example, Christians, Marxists, Hindus, Nationalists,
 Republicans, Moslems, Sikhs, Fascists, Jews and Patriots have all committed
 acts of terrorism. Few of these movements or ideas have been labelled as
@@ -3355,16 +2919,12 @@ discredit and marginalise an idea than for malicious and/or ill-informed
 persons to portray those who believe and practice it as "mad bombers" with no
 opinions or ideals at all, just an insane urge to destroy.
 
-
-
- Of course, the vast majority of Christians and so on have opposed terrorism
-as morally repugnant and counter-productive. As have the vast majority of
+Of course, the vast majority of Christians and so on have opposed terrorism as
+morally repugnant and counter-productive. As have the vast majority of
 anarchists, at all times and places. However, it seems that in our case it is
 necessary to state our opposition to terrorism time and time again.
 
-
-
- So, to summarise - only a small minority of terrorists have ever been
+So, to summarise - only a small minority of terrorists have ever been
 anarchists, and only a small minority of anarchists have ever been terrorists.
 The anarchist movement as a whole has always recognised that social
 relationships cannot be assassinated or bombed out of existence. Compared to
@@ -3373,32 +2933,24 @@ ocean. Unfortunately most people remember the acts of the few anarchists who
 have committed violence rather than the acts of violence and repression by the
 state and capital that prompted those acts.
 
+## A.2.19 What ethical views do anarchists hold?
 
-
- ## A.2.19 What ethical views do anarchists hold?
-
-
-
- Anarchist viewpoints on ethics vary considerably, although all share a common
+Anarchist viewpoints on ethics vary considerably, although all share a common
 belief in the need for an individual to develop within themselves their own
 sense of ethics. All anarchists agree with Max Stirner that an individual must
 free themselves from the confines of existing morality and question that
 morality -- _"I decide whether it is the **right thing** for me; there is no
 right **outside** me."_ [**The Ego and Its Own**, p. 189]
 
+Few anarchists, however, would go so far as Stirner and reject **any** concept
+of social ethics at all (saying that, Stirner does value some universal
+concepts although they are egoistic ones). Such extreme moral relativism is
+almost as bad as moral absolutism for most anarchists (moral relativism is the
+view that there is no right or wrong beyond what suits an individual while
+moral absolutism is that view that what is right and wrong is independent of
+what individuals think).
 
-
- Few anarchists, however, would go so far as Stirner and reject **any**
-concept of social ethics at all (saying that, Stirner does value some
-universal concepts although they are egoistic ones). Such extreme moral
-relativism is almost as bad as moral absolutism for most anarchists (moral
-relativism is the view that there is no right or wrong beyond what suits an
-individual while moral absolutism is that view that what is right and wrong is
-independent of what individuals think).
-
-
-
- It is often claimed that modern society is breaking up because of excessive
+It is often claimed that modern society is breaking up because of excessive
 "egoism" or moral relativism. This is false. As far as moral relativism goes,
 this is a step forward from the moral absolutism urged upon society by various
 Moralists and true-believers because it bases itself, however slimly, upon the
@@ -3406,9 +2958,7 @@ idea of individual reason. However, as it denies the existence (or
 desirability) of ethics it is but the mirror image of what it is rebelling
 against. Neither option empowers the individual or is liberating.
 
-
-
- Consequently, both of these attitudes hold enormous attraction to
+Consequently, both of these attitudes hold enormous attraction to
 authoritarians, as a populace that is either unable to form an opinion about
 things (and will tolerate anything) or who blindly follow the commands of the
 ruling elite are of great value to those in power. Both are rejected by most
@@ -3423,9 +2973,7 @@ common feelings of right and wrong. As Proudhon argued:
 denunciation of some abuse; each new idea is based upon the proved
 insufficiency of the old idea."_
 
-
-
- Most anarchists take the viewpoint that ethical standards, like life itself,
+Most anarchists take the viewpoint that ethical standards, like life itself,
 are in a constant process of evolution. This leads them to reject the various
 notions of _"God's Law,"_ _"Natural Law,"_ and so on in favour of a theory of
 ethical development based upon the idea that individuals are entirely
@@ -3437,9 +2985,7 @@ expressed this radical scepticism as so:
 > _"No theory, no ready-made system, no book that has ever been written will
 save the world. I cleave to no system. I am a true seeker."_
 
-
-
- Any system of ethics which is not based on individual questioning can only be
+Any system of ethics which is not based on individual questioning can only be
 authoritarian. Erich Fromm explains why:
 
 > _ "Formally, authoritarian ethics denies man's capacity to know what is good
@@ -3453,26 +2999,20 @@ primarily in terms of the interests of the authority, not the interests of the
 subject; it is exploitative, although the subject may derive considerable
 benefits, psychic or material, from it."_ [**Man For Himself**, p. 10]
 
-
-
- Therefore Anarchists take, essentially, a scientific approach to problems.
+Therefore Anarchists take, essentially, a scientific approach to problems.
 Anarchists arrive at ethical judgements without relying on the mythology of
 spiritual aid, but on the merits of their own minds. This is done through
 logic and reason, and is a far better route to resolving moral questions than
 obsolete, authoritarian systems like orthodox religion and certainly better
 than the "there is no wrong or right" of moral relativism.
 
-
-
- So, what are the source of ethical concepts? For Kropotkin, _"nature has thus
+So, what are the source of ethical concepts? For Kropotkin, _"nature has thus
 to be recognised as the **first ethical teacher of man.** The social instinct,
 innate in men as well as in all the social animals, - this is the origin of
 all ethical conceptions and all subsequent development of morality."_
 [**Ethics**, p. 45]
 
-
-
- Life, in other words, is the basis of anarchist ethics. This means that,
+Life, in other words, is the basis of anarchist ethics. This means that,
 essentially (according to anarchists), an individual's ethical viewpoints are
 derived from three basic sources:
 
@@ -3483,7 +3023,9 @@ their social life assumed at a given time in a given locality . . . this
 teachings of the given epoch."_ [**Op. Cit.**, p. 315] In other words,
 experience of life and of living.
 
-2) A critical evaluation by individuals of their society's ethical norms, as
+>
+
+> 2) A critical evaluation by individuals of their society's ethical norms, as
 indicated above. This is the core of Erich Fromm's argument that _"Man must
 accept the responsibility for himself and the fact that only using his own
 powers can he give meaning to his life . . .**there is no meaning to life
@@ -3491,14 +3033,14 @@ except the meaning man gives his life by the unfolding of his powers, by
 living productively.**"_ [**Man for Himself**, p. 45] In other words,
 individual thought and development.
 
-3) The feeling of empathy - _"the true origin of the moral sentiment . . .
+>
+
+> 3) The feeling of empathy - _"the true origin of the moral sentiment . . .
 [is] simply in the feeling of sympathy."_ [_"Anarchist Morality"_,
 **Anarchism**, p. 94] In other words, an individual's ability to feel and
 share experiences and concepts with others.
 
-
-
- This last factor is very important for the development of a sense of ethics.
+This last factor is very important for the development of a sense of ethics.
 As Kropotkin argued, _"[t]he more powerful your imagination, the better you
 can picture to yourself what any being feels when it is made to suffer, and
 the more intense and delicate will your moral sense be. . . And the more you
@@ -3507,33 +3049,25 @@ of your own thought and your imagination, to **act** as your own thought and
 imagination urge, the more will the moral sentiment grow in you, the more will
 it became habitual."_ [**Op. Cit.**, p. 95]
 
-
-
- So, anarchism is based (essentially) upon the ethical maxim _"treat others as
+So, anarchism is based (essentially) upon the ethical maxim _"treat others as
 you would like them to treat you under similar circumstances."_ Anarchists are
 neither egoists nor altruists when it come to moral stands, they are simply
 **human.**
 
-
-
- As Kropotkin noted, _"egoism"_ and _"altruism"_ both have their roots in the
+As Kropotkin noted, _"egoism"_ and _"altruism"_ both have their roots in the
 same motive -- _"however great the difference between the two actions in their
 result of humanity, the motive is the same. It is the quest for pleasure."_
 [**Op. Cit.**, p. 85]
 
+For anarchists, a person's sense of ethics must be developed by themselves and
+requires the full use of an individual's mental abilities as part of a social
+grouping, as part of a community. As capitalism and other forms of authority
+weaken the individual's imagination and reduce the number of outlets for them
+to exercise their reason under the dead weight of hierarchy as well as
+disrupting community, little wonder that life under capitalism is marked by a
+stark disregard for others and lack of ethical behaviour.
 
-
- For anarchists, a person's sense of ethics must be developed by themselves
-and requires the full use of an individual's mental abilities as part of a
-social grouping, as part of a community. As capitalism and other forms of
-authority weaken the individual's imagination and reduce the number of outlets
-for them to exercise their reason under the dead weight of hierarchy as well
-as disrupting community, little wonder that life under capitalism is marked by
-a stark disregard for others and lack of ethical behaviour.
-
-
-
- Combined with these factors is the role played by inequality within society.
+Combined with these factors is the role played by inequality within society.
 Without equality, there can be no real ethics for _"Justice implies Equality.
 . . only those who consider **others** as their **equals** can obey the rule:
 'Do not do to others what you do not wish them to do to you.' A serf-owner and
@@ -3546,13 +3080,9 @@ the sense of justice can never be universally developed, because **Justice
 implies the recognition of Equality.**"_ [Peter Kropotkin, **Evolution and
 Environment**, p. 88 and p. 79]
 
+Capitalism, like any society, gets the ethical behaviour it deserves..
 
-
- Capitalism, like any society, gets the ethical behaviour it deserves..
-
-
-
- In a society which moves between moral relativism and absolutism it is little
+In a society which moves between moral relativism and absolutism it is little
 wonder that egoism becomes confused with egotism. By disempowering individuals
 from developing their own ethical ideas and instead encouraging blind
 obedience to external authority (and so moral relativism once individuals
@@ -3567,9 +3097,7 @@ people are **too much concerned with their self-interest,** but that they are
 that they are too selfish, but that they do not love themselves.**"_ [**Man
 for Himself**, p. 139]
 
-
-
- Therefore, strictly speaking, anarchism is based upon an egoistic frame of
+Therefore, strictly speaking, anarchism is based upon an egoistic frame of
 reference - ethical ideas must be an expression of what gives us pleasure as a
 whole individual (both rational and emotional, reason and empathy). This leads
 all anarchists to reject the false division between egoism and altruism and
@@ -3591,17 +3119,13 @@ habits of work in common, and of mutual aid in general, leads to a series of
 beneficial consequences in the family as well as society."_ [**Ethics**, pp.
 307-8]
 
-
-
- Therefore anarchism is based upon the rejection of moral absolutism (i.e.
+Therefore anarchism is based upon the rejection of moral absolutism (i.e.
 _"God's Law,"_ _"Natural Law,"_ _"Man's Nature,"_ _"A is A"_) and the narrow
 egotism which moral relativism so easily lends itself to. Instead, anarchists
 recognise that there exists concepts of right and wrong which exist outside of
 an individual's evaluation of their own acts.
 
-
-
- This is because of the social nature of humanity. The interactions between
+This is because of the social nature of humanity. The interactions between
 individuals do develop into a social maxim which, according to Kropotkin, can
 be summarised as _"[i]s it useful to society? Then it is good. Is it hurtful?
 Then it is bad."_ Which acts human beings think of as right or wrong is not,
@@ -3609,31 +3133,23 @@ however, unchanging and the _"estimate of what is useful or harmful . . .
 changes, but the foundation remains the same."_ [_"Anarchist Morality"_, **Op.
 Cit.**, p. 91 and p. 92]
 
-
-
- This sense of empathy, based upon a critical mind, is the fundamental basis
-of social ethics - the 'what-should-be' can be seen as an ethical criterion
-for the truth or validity of an objective 'what-is.' So, while recognising the
+This sense of empathy, based upon a critical mind, is the fundamental basis of
+social ethics - the 'what-should-be' can be seen as an ethical criterion for
+the truth or validity of an objective 'what-is.' So, while recognising the
 root of ethics in nature, anarchists consider ethics as fundamentally a
 **human** idea - the product of life, thought and evolution created by
 individuals and generalised by social living and community.
 
-
-
- So what, for anarchists, is unethical behaviour? Essentially anything that
+So what, for anarchists, is unethical behaviour? Essentially anything that
 denies the most precious achievement of history: the liberty, uniqueness and
 dignity of the individual.
 
-
-
- Individuals can see what actions are unethical because, due to empathy, they
+Individuals can see what actions are unethical because, due to empathy, they
 can place themselves into the position of those suffering the behaviour. Acts
 which restrict individuality can be considered unethical for two
 (interrelated) reasons.
 
-
-
- Firstly, the protection and development of individuality in all enriches the
+Firstly, the protection and development of individuality in all enriches the
 life of every individual and it gives pleasure to individuals because of the
 diversity it produces. This egoist basis of ethics reinforces the second
 (social) reason, namely that individuality is good for society for it enriches
@@ -3647,17 +3163,13 @@ potentiality for separate action . . .he can develop - develop in the only
 real meaning of the word - develop in consciousness of strength, vitality, and
 joy."_ [_"The Philosophy of Anarchism,"_ **Anarchy and Order**, p. 37]
 
-
-
- This defence of individuality is learned from nature. In an ecosystem,
+This defence of individuality is learned from nature. In an ecosystem,
 diversity is strength and so biodiversity becomes a source of basic ethical
 insight. In its most basic form, it provides a guide to _"help us distinguish
 which of our actions serve the thrust of natural evolution and which of them
 impede them."_ [Murray Bookchin, **The Ecology of Freedom**, p. 442]
 
-
-
- So, the ethical concept _"lies in the feeling of sociality, inherent in the
+So, the ethical concept _"lies in the feeling of sociality, inherent in the
 entire animal world and in the conceptions of equity, which constitutes one of
 the fundamental primary judgements of human reason."_ Therefore anarchists
 embrace _"the permanent presence of a **double tendency** \- towards greater
@@ -3666,16 +3178,12 @@ consequent increase of the intensity of life which results in an increase of
 happiness for the **individuals**, and in progress - physical, intellectual,
 and moral."_ [Kropotkin, **Ethics**, pp. 311-2 and pp. 19-20]
 
-
-
- Anarchist attitudes to authority, the state, capitalism, private property and
+Anarchist attitudes to authority, the state, capitalism, private property and
 so on all come from our ethical belief that the liberty of individuals is of
 prime concern and that our ability to empathise with others, to see ourselves
 in others (our basic equality and common individuality, in other words).
 
-
-
- Thus anarchism combines the subjective evaluation by individuals of a given
+Thus anarchism combines the subjective evaluation by individuals of a given
 set of circumstances and actions with the drawing of objective interpersonal
 conclusions of these evaluations based upon empathic bounds and discussion
 between equals. Anarchism is based on a humanistic approach to ethical ideas,
@@ -3686,13 +3194,9 @@ and phenomenon . . . [the different] will be conceived of as individual parts
 of a whole all the richer because of its complexity."_ [Murray Bookchin,
 **Post Scarcity Anarchism**, p. 82]
 
+## A.2.20 Why are most anarchists atheists?
 
-
- ## A.2.20 Why are most anarchists atheists?
-
-
-
- It is a fact that most anarchists are atheists. They reject the idea of god
+It is a fact that most anarchists are atheists. They reject the idea of god
 and oppose all forms of religion, particularly organised religion. Today, in
 secularised western European countries, religion has lost its once dominant
 place in society. This often makes the militant atheism of anarchism seem
@@ -3701,44 +3205,38 @@ importance of libertarian atheism becomes obvious. It is because of the role
 of religion and its institutions that anarchists have spent some time refuting
 the idea of religion as well as propagandising against it.
 
+So why do so many anarchists embrace atheism? The simplest answer is that most
+anarchists are atheists because it is a logical extension of anarchist ideas.
+If anarchism is the rejection of illegitimate authorities, then it follows
+that it is the rejection of the so-called Ultimate Authority, God. Anarchism
+is grounded in reason, logic, and scientific thinking, not religious thinking.
+Anarchists tend to be sceptics, and not believers. Most anarchists consider
+the Church to be steeped in hypocrisy and the Bible a work of fiction, riddled
+with contradictions, absurdities and horrors. It is notorious in its
+debasement of women and its sexism is infamous. Yet men are treated little
+better. Nowhere in the bible is there an acknowledgement that human beings
+have inherent rights to life, liberty, happiness, dignity, fairness, or self-
+government. In the bible, humans are sinners, worms, and slaves (figuratively
+and literally, as it condones slavery). God has all the rights, humanity is
+nothing.
 
-
- So why do so many anarchists embrace atheism? The simplest answer is that
-most anarchists are atheists because it is a logical extension of anarchist
-ideas. If anarchism is the rejection of illegitimate authorities, then it
-follows that it is the rejection of the so-called Ultimate Authority, God.
-Anarchism is grounded in reason, logic, and scientific thinking, not religious
-thinking. Anarchists tend to be sceptics, and not believers. Most anarchists
-consider the Church to be steeped in hypocrisy and the Bible a work of
-fiction, riddled with contradictions, absurdities and horrors. It is notorious
-in its debasement of women and its sexism is infamous. Yet men are treated
-little better. Nowhere in the bible is there an acknowledgement that human
-beings have inherent rights to life, liberty, happiness, dignity, fairness, or
-self-government. In the bible, humans are sinners, worms, and slaves
-(figuratively and literally, as it condones slavery). God has all the rights,
-humanity is nothing.
-
-
-
- This is unsurprisingly, given the nature of religion. Bakunin put it best:
+This is unsurprisingly, given the nature of religion. Bakunin put it best:
 
 > _ "**The idea of God implies the abdication of human reason and justice; it
 is the most decisive negation of human liberty, and necessarily ends in the
-enslavement of mankind, both in theory and in practice.**
+enslavement of mankind, both in theory and in practice.**_
 
-"Unless, then, we desire the enslavement and degradation of mankind . . . we
-may not, must not make the slightest concession either to the God of theology
-or to the God of metaphysics. He who, in this mystical alphabet, begins with A
-will inevitably end with Z; he who desires to worship God must harbour no
-childish illusions about the matter, but bravely renounce his liberty and
-humanity.
+> _ "Unless, then, we desire the enslavement and degradation of mankind . . .
+we may not, must not make the slightest concession either to the God of
+theology or to the God of metaphysics. He who, in this mystical alphabet,
+begins with A will inevitably end with Z; he who desires to worship God must
+harbour no childish illusions about the matter, but bravely renounce his
+liberty and humanity._
 
-"If God is, man is a slave; now, man can and must be free; then, God does not
-exist."_ [**God and the State**, p. 25]
+> _ "If God is, man is a slave; now, man can and must be free; then, God does
+not exist."_ [**God and the State**, p. 25]
 
-
-
- For most anarchists, then, atheism is required due to the nature of religion.
+For most anarchists, then, atheism is required due to the nature of religion.
 _"To proclaim as divine all that is grand, just, noble, and beautiful in
 humanity,"_ Bakunin argued, _"is to tacitly admit that humanity of itself
 would have been unable to produce it -- that is, that, abandoned to itself,
@@ -3751,10 +3249,8 @@ liberty, dignity, and prosperity, we believe it our duty to recover from
 heaven the goods which it has stolen and return them to earth."_ [**Op.
 Cit.**, p. 37 and p. 36]
 
-
-
- As well as the theoretical degrading of humanity and its liberty, religion
-has other, more practical, problems with it from an anarchist point of view.
+As well as the theoretical degrading of humanity and its liberty, religion has
+other, more practical, problems with it from an anarchist point of view.
 Firstly, religions have been a source of inequality and oppression.
 Christianity (like Islam), for example, has always been a force for repression
 whenever it holds any political or social sway (believing you have a direct
@@ -3775,9 +3271,7 @@ All men owe them passive and unlimited obedience; for against the divine
 reason there is no human reason, and against the justice of God no terrestrial
 justice holds."_ [Bakunin, **Op. Cit.**, p. 24]
 
-
-
- Christianity has only turned tolerant and peace-loving when it is powerless
+Christianity has only turned tolerant and peace-loving when it is powerless
 and even then it has continued its role as apologist for the powerful. This is
 the second reason why anarchists oppose the church for when not being the
 source of oppression, the church has justified it and ensured its
@@ -3790,9 +3284,7 @@ rewarded by god). The bible praises obedience, raising it to a great virtue.
 More recent innovations like the Protestant work ethic also contribute to the
 subjugation of working people.
 
-
-
- That religion is used to further the interests of the powerful can quickly be
+That religion is used to further the interests of the powerful can quickly be
 seen from most of history. It conditions the oppressed to humbly accept their
 place in life by urging the oppressed to be meek and await their reward in
 heaven. As Emma Goldman argued, Christianity (like religion in general)
@@ -3801,9 +3293,7 @@ for self-denial and self-abnegation, for penance and regret, and is absolutely
 inert in the face of every [in]dignity, every outrage imposed upon mankind."_
 [**Red Emma Speaks**, p. 234]
 
-
-
- Thirdly, religion has always been a conservative force in society. This is
+Thirdly, religion has always been a conservative force in society. This is
 unsurprising, as it bases itself not on investigation and analysis of the real
 world but rather in repeating the truths handed down from above and contained
 in a few holy books. Theism is then _"the theory of speculation"_ while
@@ -3816,25 +3306,19 @@ its pernicious influence upon humanity, its paralysing effect upon thought and
 action, which Atheism is fighting with all its power."_ [Emma Goldman, **Op.
 Cit.**, p. 243, p. 245 and pp. 246-7]
 
-
-
- As the Bible says, _"By their fruits shall ye know them."_ We anarchists
-agree but unlike the church we apply this truth to religion as well. That is
-why we are, in the main, atheists. We recognise the destructive role played by
-the Church, and the harmful effects of organised monotheism, particularly
+As the Bible says, _"By their fruits shall ye know them."_ We anarchists agree
+but unlike the church we apply this truth to religion as well. That is why we
+are, in the main, atheists. We recognise the destructive role played by the
+Church, and the harmful effects of organised monotheism, particularly
 Christianity, on people. As Goldman summaries, religion _"is the conspiracy of
 ignorance against reason, of darkness against light, of submission and slavery
 against independence and freedom; of the denial of strength and beauty,
 against the affirmation of the joy and glory of life."_ [**Op. Cit.**, p. 240]
 
+So, given the fruits of the Church, anarchists argue that it is time to uproot
+it and plant new trees, the trees of reason and liberty.
 
-
- So, given the fruits of the Church, anarchists argue that it is time to
-uproot it and plant new trees, the trees of reason and liberty.
-
-
-
- That said, anarchists do not deny that religions contain important ethical
+That said, anarchists do not deny that religions contain important ethical
 ideas or truths. Moreover, religions can be the base for strong and loving
 communities and groups. They can offer a sanctuary from the alienation and
 oppression of everyday life and offer a guide to action in a world where
@@ -3846,9 +3330,7 @@ to live a good life as well as apologetics for power. If they did not, the
 oppressed would not believe and the powerful would suppress them as dangerous
 heresies.
 
-
-
- And, indeed, repression has been the fate of any group that has preached a
+And, indeed, repression has been the fate of any group that has preached a
 radical message. In the middle ages numerous revolutionary Christian movements
 and sects were crushed by the earthly powers that be with the firm support of
 the mainstream church. During the Spanish Civil War the Catholic church
@@ -3864,9 +3346,7 @@ their outspoken champion. He was assassinated by right-wing paramilitaries in
 liberation theology, a radical interpretation of the Gospels which tries to
 reconcile socialist ideas and Christian social thinking.
 
-
-
- Nor does the anarchist case against religion imply that religious people do
+Nor does the anarchist case against religion imply that religious people do
 not take part in social struggles to improve society. Far from it. Religious
 people, including members of the church hierarchy, played a key role in the US
 civil rights movement of the 1960s. The religious belief within Zapata's army
@@ -3882,9 +3362,7 @@ just think that the social role of religion is to dampen down revolt, not
 encourage it. The tiny number of radical priests compared to those in the
 mainstream or on the right suggests the validity of our analysis.
 
-
-
- It should be stressed that anarchists, while overwhelmingly hostile to the
+It should be stressed that anarchists, while overwhelmingly hostile to the
 idea of the Church and an established religion, do not object to people
 practising religious belief on their own or in groups, so long as that
 practice doesn't impinge on the liberties of others. For example, a cult that
@@ -3896,9 +3374,7 @@ business, and nobody else's as long as they do not impose those ideas on
 others. All we can do is discuss their ideas and try and convince them of
 their errors.
 
-
-
- To end, it should noted that we are not suggesting that atheism is somehow
+To end, it should noted that we are not suggesting that atheism is somehow
 mandatory for an anarchist. Far from it. As we discuss in [section
 A.3.7](secA3.html#seca37), there are anarchists who do believe in god or some
 form of religion. For example, Tolstoy combined libertarian ideas with a
@@ -3910,4 +3386,8 @@ leading Pagan. However, for most anarchists, their ideas lead them logically
 to atheism for, as Emma Goldman put it, _"in its negation of gods is at the
 same time the strongest affirmation of man, and through man, the eternal yea
 to life, purpose, and beauty."_ [**Red Emma Speaks**, p. 248]
+
+[‹ A.1 What is anarchism?](/afaq/secA1.html "Go to previous page" )
+[up](/afaq/secAcon.html "Go to parent page" ) [A.3 What types of anarchism are
+there? ›](/afaq/secA3.html "Go to next page" )
 

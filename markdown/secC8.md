@@ -234,7 +234,7 @@ towards, and never away from, equilibrium. As Post-Keynesian Paul Davidson
 dryly noted, _"Austrian subjectivists cannot have it both ways -- they cannot
 argue for the importance of time, uncertainty, and money, and simultaneously
 presume that plan or pattern co-ordination must exist and is waiting to be
-discovered."__ [_"The economics of ignorance or the ignorance of economics?"_,
+discovered."_ [_"The economics of ignorance or the ignorance of economics?"_,
 pp. 467-87, **Critical Review**, vol. 3, no. 3-4, p. 468]
 
 In other words, the notion that if the actual interest rate somehow equalled
@@ -471,7 +471,7 @@ use of gold and 100% reverses and so eliminate the business cycle is
 misplaced:
 
 > _"This view overlooks the fact that the **emergence** of money-substitutes
-\-- whether in the form of bank notes, bank accounts, or credit cards -- was a
+-- whether in the form of bank notes, bank accounts, or credit cards -- was a
 spontaneous process, not planned or regulated 'from above' by some central
 authority, and for that reason alone it is impossible to treat some arbitrary
 definition of money (which included specific forms of such money-substitutes
@@ -560,7 +560,7 @@ working class people to create their own financial institutions).
 Thus the over supply of credit, rather than being the **cause** of the crisis
 is actually a symptom. Competitive investment drives the business cycle
 expansion, which is allowed and encouraged by the competition among banks in
-supplying credit. Such expansion complements -- and thus amplifies \-- other
+supplying credit. Such expansion complements -- and thus amplifies -- other
 objective tendencies towards crisis, such as over-investment and
 disportionalities. In other words, a pure "free market" capitalism would still
 have a business cycle as this cycle is caused by the nature of capitalism, not
@@ -921,7 +921,7 @@ beyond the military establishment, incorporating also the Department of
 Energy. . . and the space agency NASA, converted by the Kennedy administration
 to a significant component of the state-directed public subsidy to advanced
 industry. These arrangements impose on the public a large burden of the costs
-of industry (research and development, R&amp;D;) and provide a guaranteed
+of industry (research and development, R&amp;D) and provide a guaranteed
 market for excess production, a useful cushion for management decisions.
 Furthermore, this form of industrial policy does not have the undesirable
 side-effects of social spending directed to human needs. Apart from unwelcome
@@ -947,10 +947,10 @@ Cit.**, pp. 157-8]
 
 Social Keynesianism directs part of the total surplus value to workers and
 unemployed while military Keynesianism transfers surplus value from the
-general population to capital and from capital to capital. This allows
-R&amp;D; and capital to be publicly subsidised, as well as essential but
-unprofitable capital to survive. As long as real wages did not exceed a rise
-in productivity, Keynesianism would continue. However, both functions have
+general population to capital and from capital to capital. This allows R&amp;D
+and capital to be publicly subsidised, as well as essential but unprofitable
+capital to survive. As long as real wages did not exceed a rise in
+productivity, Keynesianism would continue. However, both functions have
 objective limits as the transfer of profits from successful capital to
 essential, but less successful, or long term investment can cause a crisis is
 there is not enough profit available to the system as a whole. The surplus
@@ -999,11 +999,12 @@ altered. One effect of such a change might be to remove a number of abuses to
 which the workers have been compelled to submit in the past . . . [Another is
 that] the absence of fear of unemployment might go further and have a
 disruptive effect upon factory discipline . . . [He may] us[e] his newly-found
-freedom from fear to snatch every advantage that he can . . .
+freedom from fear to snatch every advantage that he can . . .  
+>  _
 
 >
 
-> "The change in the workers' bargaining position which would follow from the
+> _"The change in the workers' bargaining position which would follow from the
 abolition of unemployment would show itself in another and more subtle way.
 Unemployment . . . has not only the function of preserving discipline in
 industry, but also indirectly the function of preserving the value of money .
@@ -1047,7 +1048,7 @@ means that it would be wrong to conclude that wage increases "cause" inflation
 as such. To do so ignores the fact that workers do not set prices, capitalists
 do. Any increase in costs could, after all, be absorbed by lowering profits.
 Instead working class people get denounced for being "greedy" and are
-subjected to calls for "restraint" \-- in order for their bosses to make
+subjected to calls for "restraint" -- in order for their bosses to make
 sufficient profits! As Joan Robinson put it, while capitalist economies denies
 it (unlike, significantly, Adam Smith) there is an _"inflationary pressure
 that arises from an increase in the share of gross profits in gross income.
@@ -1516,12 +1517,12 @@ policy resulted in a significant shift in existing allocations from social to
 military and law enforcement."_ [_"The radical right, politics and society"_,
 **The Radical Right and the Welfare State**, Howard Glennerster and James
 Midgley (eds.), p. 11] Indeed, the US state funds one third of all civil
-R&amp;D; projects, and the UK state provides a similar subsidy. [Chomsky,
-**Op. Cit.**, p. 107] And, of course, the state remains waiting to save the
-elite from their own market follies (for example, after the widespread
-collapse of Savings and Loans Associations in deregulated corruption and
-speculation, the 1980s pro-"free market" Republican administration happily
-bailed them out, showing that market forces were only for one class).
+R&amp;D projects, and the UK state provides a similar subsidy. [Chomsky, **Op.
+Cit.**, p. 107] And, of course, the state remains waiting to save the elite
+from their own market follies (for example, after the widespread collapse of
+Savings and Loans Associations in deregulated corruption and speculation, the
+1980s pro-"free market" Republican administration happily bailed them out,
+showing that market forces were only for one class).
 
 The corporate owned media attacks social Keynesianism, while remaining silent
 or justifying pro-business state intervention. Combined with extensive
@@ -1591,4 +1592,9 @@ they hear it. In general, there has been continual strikes and protests across
 the world. Even in the face of state repression and managed economic
 recession, working class people are still fighting back. The job for
 anarchists to is encourage these sparks of liberty and help them win.
+
+[‹ C.7 What causes the capitalist business cycle?](/afaq/secC7.html "Go to
+previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.9 Would
+laissez-faire capitalism reduce unemployment? ›](/afaq/secC9.html "Go to next
+page" )
 

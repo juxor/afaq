@@ -156,8 +156,8 @@ Two distinct aspects of the anarchist movement existed in the Ukraine at this
 time, a political and non-military structure called the Nabat (Alarm)
 federation which operated through the soviets and collectives and a military
 command structure usually known after is commander Nestor Makhno as the
-**_Makhnovshchina**_ (which means the _"Makhno movement"_) although its proper
-name was the **_Revolutionary Insurgent Army of the Ukraine**_. This section
+**_Makhnovshchina_** (which means the _"Makhno movement"_) although its proper
+name was the **_Revolutionary Insurgent Army of the Ukraine_**. This section
 of the FAQ will cover both, although the Makhnovshchina will be the main
 focus.
 
@@ -383,21 +383,21 @@ associations in the Ukraine were formed at the instigation of the anarchist-
 communists. The armed struggle of the working people against the counter-
 revolution in general and the Austro-German invasion in particular has been
 undertaken with the ideological and organic guidance of the anarchist-
-communists exclusively.
+communists exclusively. _
 
 >
 
-> "Certainly it is not in your party's interest to give us credit for all
+> _"Certainly it is not in your party's interest to give us credit for all
 this, but these are the facts and you can't dispute them. You know perfectly
 well, I assume, the effective force and the fighting capacity of the free,
 revolutionary forces of the Ukraine. It is not without reason that you have
 evoked the courage with which they have heroically defended the common
 revolutionary conquests. Among them, at least one half have fought under the
-anarchist banner. . .
+anarchist banner. . . _
 
 >
 
-> "All this shows how mistaken you are, comrade Lenin, in alleging that we,
+> _"All this shows how mistaken you are, comrade Lenin, in alleging that we,
 the anarchist-communists, don't have our feet on the ground, that our attitude
 towards 'the present' is deplorable and that we are too fond of dreaming about
 the future. What I have said to you in the course of this interview cannot be
@@ -622,21 +622,21 @@ Makhno, with his usual stubbornness and determination, said to his companions:
 movement was ominous, the men were firm and full of enthusiasm. All 30 saw
 only one path before them -- the path toward the enemy, who had about a
 thousand well-armed men, and they all realised that this meant certain death
-for them. All were moved, but none lost courage.
+for them. All were moved, but none lost courage. _
 
 >
 
-> "It was at this movement that one of the partisans, Shchus', turned to
-Makhno and said:
+> _"It was at this movement that one of the partisans, Shchus', turned to
+Makhno and said: _
 
 >
 
-> "'From now on you will be **Batko** to all of us, and we vow to die with you
-in the ranks of the insurgents.'
+> _"'From now on you will be **Batko** to all of us, and we vow to die with
+you in the ranks of the insurgents.' _
 
 >
 
-> "Then the whole detachment swore never to abandon the insurgent ranks, and
+> _"Then the whole detachment swore never to abandon the insurgent ranks, and
 to consider Makhno the general **Batko** of the entire revolutionary
 insurrection. Then they prepared to attack. Shchus' with five to seven men was
 assigned to attack the flank of the enemy. Makhno with the others attacked
@@ -650,11 +650,11 @@ the number of attacking forces, and to pass to a counter-attack, the
 insurgents chased them in separate groups, cutting them down in full gallop. A
 part of the **pomeshchik** detachment fled to the Volchya River, where they
 were drowned by peasants who had joined the battle. The enemy's defeat was
-complete.
+complete. _
 
 >
 
-> "Local peasants and detachments of revolutionary insurgents came from all
+> _"Local peasants and detachments of revolutionary insurgents came from all
 directions to triumphantly acclaim the heroes. They unanimously agreed to
 consider Makhno as **Batko** of the entire revolutionary insurrection in the
 Urkaine."_ [Arshinov, **Op. Cit.**, pp. 59-60]
@@ -706,19 +706,19 @@ great masses of peasants, speaking at improvised meetings, writing and
 distributing letters and tracts. By pen and mouth, he called on the peasants
 for a decisive struggle against the power of Skoropadsky and the landlords. He
 declared tirelessly that the workers should now take their fates into their
-own hands and not let their freedom to act be taken from them . . .
+own hands and not let their freedom to act be taken from them . . . _
 
 >
 
-> "Besides his appeals, Makhno proceeded immediately to direct action. His
+> _"Besides his appeals, Makhno proceeded immediately to direct action. His
 first concern was to form a revolutionary military unit, sufficiently strong
 to guarantee freedom of propaganda and action in the villages and towns and at
 the same time to begin guerrilla operations. This unit was quickly organised
-.. . .
+.. . . _
 
 >
 
-> "His first unit undertook two urgent tasks, namely, pursuing energetically
+> _"His first unit undertook two urgent tasks, namely, pursuing energetically
 the work of propaganda and organisation among the peasants and carrying out a
 stubborn armed struggle against all their enemies. The guiding principle of
 this merciless struggle was as follows. No lord who persecuted the peasants,
@@ -726,12 +726,13 @@ no policeman of the Hetman, no Russian or German officer who was an implacable
 enemy of the peasants, deserved any pity; he must be destroyed. All who
 participated in the oppression of the poor peasants and workers, all who
 sought to suppress their rights, to exploit their labour, should be executed.
+_
 
 >
 
-> "Within two or three weeks, the unit had already become the terror, not only
-of the local bourgeoisie, but also of the Austro-German authorities."_ [**The
-Unknown Revolution**, p. 558]
+> _"Within two or three weeks, the unit had already become the terror, not
+only of the local bourgeoisie, but also of the Austro-German authorities."_
+[**The Unknown Revolution**, p. 558]
 
 The night of 26 September saw Hulyai Pole briefly liberated from Hetman and
 Austrian troops by the actions of Makhno's troops in association with local
@@ -1356,25 +1357,25 @@ circumstances, the core ideas remained. These were as follows:
 
 > _ "The Makhnovist insurrectionary army was organised according to three
 fundamental principles: voluntary enlistment, the electoral principle, and
-self-discipline.
+self-discipline. _
 
 >
 
-> "**Voluntary enlistment** meant that the army was composed only of
-revolutionary fighters who entered it of their own free will.
+> _"**Voluntary enlistment** meant that the army was composed only of
+revolutionary fighters who entered it of their own free will. _
 
 >
 
-> "**The electoral principle** meant that the commanders of all units of the
+> _"**The electoral principle** meant that the commanders of all units of the
 army, including the staff, as well as all the men who held other positions in
 the army, were either elected or accepted by the insurgents of the unit in
-question or by the whole army.
+question or by the whole army. _
 
 >
 
-> "**Self-discipline** meant that all the rules of discipline were drawn up by
-commissions of insurgents, then approved by general assemblies of the various
-units; once approved, they were rigorously observed on the individual
+> _"**Self-discipline** meant that all the rules of discipline were drawn up
+by commissions of insurgents, then approved by general assemblies of the
+various units; once approved, they were rigorously observed on the individual
 responsibility of each insurgent and each commander."_ [**Op. Cit.**, p. 96]
 
 Voline paints a similar picture. He also notes that the electoral principle
@@ -1652,11 +1653,11 @@ passed on to the use of those peasants who support themselves solely through
 their own labour. This transfer will be carried out in an orderly fashion
 determined in common at peasant assemblies, which must remember in this matter
 not only each of their own personal interests, but also bear in mind the
-common interest of all the oppressed, working peasantry.
+common interest of all the oppressed, working peasantry. _
 
 >
 
-> "Factories, workshops, mines and other tools and means of production become
+> _"Factories, workshops, mines and other tools and means of production become
 the property of the working class as a whole, which will run all enterprises
 themselves, through their trade unions, getting production under way and
 striving to tie together all industry in the country in a single, unitary
@@ -1940,35 +1941,35 @@ Makhnovist region and asked him:
 
 > _ "Can there exist laws made by a few people who call themselves
 revolutionaries which permit them to outlaw a whole people who are more
-revolutionary than they are themselves? . . .
+revolutionary than they are themselves? . . . _
 
 >
 
-> "Is it permissible, is it admissible, that they should come to the country
+> _"Is it permissible, is it admissible, that they should come to the country
 to establish laws of violence, to subjugate a people who have just overthrown
-all lawmakers and all laws?
+all lawmakers and all laws? _
 
 >
 
-> "Does there exist a law according to which a revolutionary has the right to
+> _"Does there exist a law according to which a revolutionary has the right to
 apply the most severe penalties to a revolutionary mass, of which he calls
 himself the defender, simply because this mass has taken the good things which
-the revolution promised them, freedom and equality, without his permission?
+the revolution promised them, freedom and equality, without his permission? _
 
 >
 
-> "Should the mass of revolutionary people perhaps be silent when such a
-revolutionary takes away the freedom which they have just conquered?
+> _"Should the mass of revolutionary people perhaps be silent when such a
+revolutionary takes away the freedom which they have just conquered? _
 
 >
 
-> "Do the laws of the revolution order the shooting of a delegate because he
+> _"Do the laws of the revolution order the shooting of a delegate because he
 believes he ought to carry out the mandate given him by the revolutionary mass
-which elected him?
+which elected him? _
 
 >
 
-> "Whose interests should the revolutionary defend; those of the Party or
+> _"Whose interests should the revolutionary defend; those of the Party or
 those of the people who set the revolution in motion with their blood?"_
 [quoted by Arshinov, **Op. Cit.**, p. 103]
 
@@ -2012,7 +2013,7 @@ holding of prisoners, counter-insurgency (_"Originally it had a punitive
 function, but because of improper treatment of prisoners of war, it was
 deprived of its punitive function."_ [Palij, **Op. Cit.**, p. 300]). The
 delegate stated that this _"counter-espionage service"_ was engaged in
-_"arbitrary acts and uncontrolled actions \-- of which some are very serious,
+_"arbitrary acts and uncontrolled actions -- of which some are very serious,
 rather like the Bolshevik Cheka."_ [quoted by Voline, **Op. Cit.**, p. 643]
 Immediately a commission of several delegates was created to investigate the
 situation. Voline argues that _"[s]uch an initiative on the part of workers'
@@ -2156,6 +2157,8 @@ effacing, of handing too much authority to the population at key moments."_
 As such, Makhnovist practice matched its theory. This can be said of few
 social movements and it is to their credit that this is the case.
 
+
+
 ## 8 Weren't the Makhnovists just Kulaks?
 
 According to Trotsky (and, of course, repeated by his followers), _"Makhno
@@ -2232,8 +2235,8 @@ However, if we take the term _"kulak"_ to mean _"small rural capitalist"_
 (i.e. employer of wage labour) then this figure would be substantially smaller
 as few within this group would employ hired labour or rent land. In fact, the
 percentage of peasant households in Russia employing permanent wage-labour was
-3.3% in 1917, falling to 1% in 1920\. [Teodor Shanin, **The Awkward Class**,
-p. 171]
+3.3% in 1917, falling to 1% in 1920. [Teodor Shanin, **The Awkward Class**, p.
+171]
 
 In 1917, the peasants all across the Russian Empire took back the land stolen
 by the landlords. This lead to two developments. Firstly, there was a
@@ -2427,11 +2430,11 @@ peasants maintained that all the property of the former landlords was now by
 right their own. This attitude was shared not only by the rich and middle
 peasants but also the poor and landless, for they all wished to be independent
 farmers. The poorer the areas, the more dissatisfied were the peasants with
-the Bolshevik decrees.
+the Bolshevik decrees. _
 
 >
 
-> "Thus Communist agricultural policy and terrorism brought about a strong
+> _"Thus Communist agricultural policy and terrorism brought about a strong
 reaction against the new Bolshevik regime. By the middle of 1919, all
 peasants, rich and poor, distrusted the Bolsheviks."_ [Palij, **Op. Cit.**, p.
 156]
@@ -2525,6 +2528,8 @@ bandits (and back again!) depending on whether their activity coincided with
 the needs of Bolshevik power or not. Expediency is not a sound base to build a
 critique, particularly one based simply on assertions like Trotsky's.
 
+
+
 ## 9 Were the Makhnovists anti-Semitic and pogromists?
 
 No, they were not. Anyone who claims that the Mahnovist movement was anti-
@@ -2556,114 +2561,116 @@ pictured as a very restricted guerrilla movement, foreign to ideas of
 brotherhood and international solidarity, and even tainted with anti-Semitism.
 Nothing could be more criminal than such slanders. In order to shed light on
 this question, we will cite here certain documented facts which relate to this
-subject.
+subject. _
 
 >
 
-> "An important role was played in the Makhnovist army by revolutionaries of
+> _"An important role was played in the Makhnovist army by revolutionaries of
 Jewish origin, many of whom had been sentenced to forced labour for
 participation in the 1905 revolution, or else had been obliged to emigrate to
-Western Europe or America. Among others, we can mention:
+Western Europe or America. Among others, we can mention: _
 
 >
 
-> "**Kogan** \-- vice-president of the central organ of the movement, the
+> _"**Kogan** \-- vice-president of the central organ of the movement, the
 Regional Revolutionary Military Council of Hulyai Pole. Kogan was a worker
 who, for reasons of principle, had left his factory well before the revolution
 of 1917, and had gone to do agricultural work in a poor Jewish agricultural
 colony. Wounded at the battle of Peregonovka, near Uman, against the
 Denikinists, he was seized by them at the hospital at Uman where he was being
 treated, and, according to witnesses, the Denikinists killed him with sabres.
+_
 
 >
 
-> "**L. Zin'kovsky (Zadov)** \-- head of the army's counter espionage section,
-and later commander of a special cavalry regiment. A worker who before the
-1917 revolution was condemned to ten years of forced labour for political
-activities. One of the most active militants of the revolutionary
-insurrection.
+> _"**L. Zin'kovsky (Zadov)** \-- head of the army's counter espionage
+section, and later commander of a special cavalry regiment. A worker who
+before the 1917 revolution was condemned to ten years of forced labour for
+political activities. One of the most active militants of the revolutionary
+insurrection. _
 
 >
 
-> "**Elena Keller** \-- secretary of the army's cultural and educational
+> _"**Elena Keller** \-- secretary of the army's cultural and educational
 section. A worker who took part in the syndicalist movement in America. One of
-the organisers of the 'Nabat' Confederation.
+the organisers of the 'Nabat' Confederation. _
 
 >
 
-> "**Iosif Emigrant (Gotman)** \-- Member of the army's cultural and
+> _"**Iosif Emigrant (Gotman)** \-- Member of the army's cultural and
 educational section. A worker who took an active part in the Ukrainian
 anarchist movement. One of the organisers of the 'Nabat' Confederation, and
-later a member of its secretariat.
+later a member of its secretariat. _
 
 >
 
-> "**Ya. Alyi (Sukhovol'sky)** \-- worker, and member of the army's cultural
+> _"**Ya. Alyi (Sukhovol'sky)** \-- worker, and member of the army's cultural
 and educational section. In the Tsarist period he was condemned to forced
 labor for political activity. One of the organisers of the 'Nabat'
-Confederation and a member of its secretariat.
+Confederation and a member of its secretariat. _
 
 >
 
-> "We could add many more names to the long list of Jewish revolutionaries who
-took part in different areas of the Makhnovist movement, but we will not do
-this, because it would endanger their security.
+> _"We could add many more names to the long list of Jewish revolutionaries
+who took part in different areas of the Makhnovist movement, but we will not
+do this, because it would endanger their security. _
 
 >
 
-> "At the heart of the revolutionary insurrection, the Jewish working
+> _"At the heart of the revolutionary insurrection, the Jewish working
 population was among brothers. The Jewish agricultural colonies scattered
 throughout the districts of Mariupol, Berdyansk, Aleksandrovsk and elsewhere,
 actively participated in the regional assemblies of peasants, workers and
 insurgents; they sent delegates there, and also to the regional Revolutionary
-Military Council.
+Military Council. _
 
 >
 
-> "Following certain anti-Semitic incidents which occurred in the region in
+> _"Following certain anti-Semitic incidents which occurred in the region in
 February, 1919, Makhno proposed to all the Jewish colonies that they organise
 their self-defence and he furnished the necessary guns and ammunition to all
 these colonies. At the same time Makhno organised a series of meetings in the
-region where he appealed to the masses to struggle against anti-Semitism.
+region where he appealed to the masses to struggle against anti-Semitism. _
 
 >
 
-> "The Jewish working population, in turn, expressed profound solidarity and
+> _"The Jewish working population, in turn, expressed profound solidarity and
 revolutionary brotherhood toward the revolutionary insurrection. In answer to
 the call made by the Revolutionary Military Council to furnish voluntary
 combatants to the Makhnovist insurgent army, the Jewish colonies sent from
-their midst a large number of volunteers.
+their midst a large number of volunteers. _
 
 >
 
-> "In the army of the Makhnovist insurgents there was an exclusively Jewish
+> _"In the army of the Makhnovist insurgents there was an exclusively Jewish
 artillery battery which was covered by an infantry detachment, also made up of
 Jews. This battery, commanded by the Jewish insurgent Shneider, heroically
 defended Hulyai Pole from Denikin's troops in June, 1919, and the entire
-battery perished there, down to the last man and the last shell.
+battery perished there, down to the last man and the last shell. _
 
 >
 
-> "In the extremely rapid succession of events after the uprising of 1918-19,
+> _"In the extremely rapid succession of events after the uprising of 1918-19,
 there were obviously individuals who were hostile to Jews, but these
 individuals were not the products of the insurrection; they were products of
 Russian life. These individuals did not have any importance in the movement as
 a whole. If people of this type took part in acts directed against Jews, they
-were quickly and severely punished by the revolutionary insurgents.
+were quickly and severely punished by the revolutionary insurgents. _
 
 >
 
-> "We described earlier the speed and determination with which the Makhnovists
-executed Hryhoriyiv and his staff, and we mentioned that one of the main
-reasons for this execution was their participation in pogroms of Jews.
+> _"We described earlier the speed and determination with which the
+Makhnovists executed Hryhoriyiv and his staff, and we mentioned that one of
+the main reasons for this execution was their participation in pogroms of
+Jews. _
 
 >
 
-> "We can mention other events of this nature with which we are familiar.
+> _"We can mention other events of this nature with which we are familiar. _
 
 >
 
-> "On May 12, 1919, several Jewish families - 20 people in all - were killed
+> _"On May 12, 1919, several Jewish families - 20 people in all - were killed
 in the Jewish agricultural colony of Gor'kaya, near Aleksandrovsk. The
 Makhnovist staff immediately set up a special commission to investigate this
 event. This commission discovered that the murders had been committed by seven
@@ -2673,41 +2680,41 @@ impossible to leave this crime unpunished, and they shot the murderers. It was
 later established that this event and other attempts of this nature had been
 carried out at the instigation of Denikin's agents, who had managed to
 infiltrate the region and had sought by these means to prepare an atmosphere
-favourable for the entry of Denikin's troops into the Ukraine.
+favourable for the entry of Denikin's troops into the Ukraine. _
 
 >
 
-> "On May 4th or 5th, 1919, Makhno and a few commanders hurriedly left the
+> _"On May 4th or 5th, 1919, Makhno and a few commanders hurriedly left the
 front and went to Hulyai Pole, where they were awaited by the Extraordinary
 Plenipotentiary of the Republic, L. Kamenev, who had arrived from Khar'kov
 with other representatives of the Soviet government. At the Verkhnii Tokmak
 station, Makhno saw a poster with the words: 'Death to Jews, Save the
-Revolution, Long Live Batko Makhno.'
+Revolution, Long Live Batko Makhno.' _
 
 >
 
-> "'Who put up that poster?' Makhno asked.
+> _"'Who put up that poster?' Makhno asked. _
 
 >
 
-> "He learned that the poster had been put up by an insurgent whom Makhno knew
-personally, a soldier who had taken part in the battle against Denikin's
+> _"He learned that the poster had been put up by an insurgent whom Makhno
+knew personally, a soldier who had taken part in the battle against Denikin's
 troops, a person who was in general decent. He presented himself immediately
-and was shot on the spot.
+and was shot on the spot. _
 
 >
 
-> "Makhno continued the journey to Hulyai Pole. During the rest of the day and
-during his negotiations with the Plenipotentiary of the Republic, he could not
-free himself from the influence of this event. He realised that the insurgent
-had been cruelly dealt with, but he also knew that in conditions of war and in
-view of Denikin's advance, such posters could represent an enormous danger for
-the Jewish population and for the entire revolution if one did not oppose them
-quickly and resolutely.
+> _"Makhno continued the journey to Hulyai Pole. During the rest of the day
+and during his negotiations with the Plenipotentiary of the Republic, he could
+not free himself from the influence of this event. He realised that the
+insurgent had been cruelly dealt with, but he also knew that in conditions of
+war and in view of Denikin's advance, such posters could represent an enormous
+danger for the Jewish population and for the entire revolution if one did not
+oppose them quickly and resolutely. _
 
 >
 
-> "When the insurrectionary army retreated toward Uman in the summer of 1919,
+> _"When the insurrectionary army retreated toward Uman in the summer of 1919,
 there were several cases when insurgents plundered Jewish homes. When the
 insurrectionary army examined these cases, it was learned that one group of
 four or five men was involved in all these incidents -- men who had earlier
@@ -2718,22 +2725,22 @@ under Hryhoriyiv were discharged from the Makhnovist army as an unreliable
 element whose re-education was not possible in view of the unfavorable
 conditions and the lack of time. Thus we see how the Makhnovists viewed anti-
 Semitism. Outbursts of anti-Semitism in various parts of the Ukraine had no
-relation to the Makhnovshchina.
+relation to the Makhnovshchina. _
 
 >
 
-> "Wherever the Jewish population was in contact with the Makhnovists, it
+> _"Wherever the Jewish population was in contact with the Makhnovists, it
 found in them its best protectors against anti-Semitic incidents. The Jewish
 population of Hulyai Pole, Aleksandrovsk, Berdyansk, Mariupol, as well as all
 the Jewish agricultural colonies scattered throughout the Donets region, can
 themselves corroborate the fact that they always found the Makhnovists to be
 true revolutionary friends, and that due to the severe and decisive measures
 of the Makhno visits, the anti-Semitic leanings of the counter-revolutionary
-forces in this region were promptly squashed.
+forces in this region were promptly squashed. _
 
 >
 
-> "Anti-Semitism exists in Russia as well as in many other countries. In
+> _"Anti-Semitism exists in Russia as well as in many other countries. In
 Russia, and to some extent in the Ukraine, it is not a result of the
 revolutionary epoch or of the insurrectionary movement, but is on the contrary
 a vestige of the past. The Makhnovists always fought it resolutely in words as
@@ -2746,7 +2753,7 @@ Cit.**, pp. 211-215]
 Arshinov then goes on to quote an appeal published by Makhnovists together
 with anarchists referring to an anti-Semitic incident which took place in the
 spring of 1919. It is called **WORKERS, PEASANTS AND INSURGENTS FOR THE
-OPPRESSED, AGAINST THE OPPRESSORS \-- ALWAYS!**:
+OPPRESSED, AGAINST THE OPPRESSORS -- ALWAYS!**:
 
 > _ "During the painful days of reaction, when the situation of the Ukrainian
 peasants was especially difficult and seemed hopeless, you were the first to
@@ -2762,11 +2769,11 @@ death. . . On the clear and splendid foundation of the revolution appeared
 indelible dark blots caused by the parched blood of poor Jewish martyrs who
 now, as before, continue to be innocent victims of the criminal reaction, of
 the class struggle . . . Shameful acts are being carried out. Anti-Semitic
-pogroms are taking place.
+pogroms are taking place. _
 
 >
 
-> "Peasants, workers and insurgents! You know that the workers of all
+> _"Peasants, workers and insurgents! You know that the workers of all
 nationalities -- Russians, Jews, Poles, Germans, Armenians, etc. -- are
 equally imprisoned in the abyss of poverty. You know that thousands of Jewish
 girls, daughters of the people, are sold and dishonoured by capital, the same
@@ -2780,11 +2787,11 @@ our enemies are exploiters and oppressors of various nationalities: the
 Russian manufacturer, the German iron magnate, the Jewish banker, the Polish
 aristocrat .. . . The bourgeoisie of all countries and all nationalities is
 united in a bitter struggle against the revolution, against the labouring
-masses of the whole world and of all nationalities.
+masses of the whole world and of all nationalities. _
 
 >
 
-> "Peasants, workers and insurgents! At this moment when the international
+> _"Peasants, workers and insurgents! At this moment when the international
 enemy -- the bourgeoisie of all countries -- hurries to the Russian revolution
 to create nationalist hatred among the mass of workers in order to distort the
 revolution and to shake the very foundation of our class struggle - the
@@ -2792,12 +2799,13 @@ solidarity and unity of all workers -- you must move against conscious and
 unconscious counter-revolutionaries who endanger the emancipation of the
 working people from capital and authority. Your revolutionary duty is to
 stifle all nationalist persecution by dealing ruthlessly with all instigators
-of anti-Semitic pogroms.
+of anti-Semitic pogroms. _
 
 >
 
-> "The path toward the emancipation of the workers can be reached by the union
-of all the workers of the world."_ [quoted by Arshinov, **Op. Cit.**, 215-7]
+> _"The path toward the emancipation of the workers can be reached by the
+union of all the workers of the world."_ [quoted by Arshinov, **Op. Cit.**,
+215-7]
 
 Arshinov also quotes an order issued by Makhno to _"all revolutionary
 insurgents without exception"_ which states, in part, that the _"goal of our
@@ -2919,45 +2927,47 @@ insurgents against the slightest manifestation of the anti-Semitic spirit on
 the part of a few isolated and misguided unfortunates in the army and the
 population. . . One of the reasons for the execution of Grigoriev by the
 Makhnovists was his anti-Semitism and the immense pogrom he organised at
-Elizabethgrad . . .
+Elizabethgrad . . . _
 
 >
 
-> "We could cite a whole series of similar facts, but we do not find it
+> _"We could cite a whole series of similar facts, but we do not find it
 necessary . . . and will content ourselves with mentioning briefly the
-following essential facts:
+following essential facts: _
 
 >
 
-> "1. A fairly important part in the Makhnovist movement was played by
-revolutionists of Jewish origin.
+> _"1. A fairly important part in the Makhnovist movement was played by
+revolutionists of Jewish origin. _
 
 >
 
-> "2. Several members of the Education and Propaganda Commission were Jewish.
+> _"2. Several members of the Education and Propaganda Commission were Jewish.
+_
 
 >
 
-> "3. Besides many Jewish combatants in various units of the army, there was a
-battery composed entirely of Jewish artillery men and a Jewish infantry unit.
+> _"3. Besides many Jewish combatants in various units of the army, there was
+a battery composed entirely of Jewish artillery men and a Jewish infantry
+unit. _
 
 >
 
-> "4. Jewish colonies in the Ukraine furnished many volunteers to the
-Insurrectionary Army.
+> _"4. Jewish colonies in the Ukraine furnished many volunteers to the
+Insurrectionary Army. _
 
 >
 
-> "5. In general the Jewish population, which was very numerous in the
+> _"5. In general the Jewish population, which was very numerous in the
 Ukraine, took an active part in all the activities of the movement. The Jewish
 agricultural colonies which were scattered throughout the districts of
 Mariupol, Berdiansk, Alexandrovsk, etc., participated in the regional
 assemblies of workers, peasants and partisans; they sent their delegates to
-the regional Revolutionary Military Council.
+the regional Revolutionary Military Council. _
 
 >
 
-> "6. Rich and reactionary Jews certainly had to suffer from the Makhnovist
+> _"6. Rich and reactionary Jews certainly had to suffer from the Makhnovist
 army, not as Jews, but just in the same way as non-Jewish counter-
 revolutionaries."_ [**The Unknown Revolution**, pp. 967-8]
 
@@ -2973,15 +2983,15 @@ Tcherikover had, for a number of years, had specialised in research on the
 persecutions of the Jews in Russia. The Jewish historian states _"with
 certainty that, on the whole, the behaviour of Makhno's army cannot be
 compared with that of the other armies which were operating in Russian during
-the events 1917-21. Two facts I can certify absolutely explicitly.
+the events 1917-21. Two facts I can certify absolutely explicitly. _
 
-"1. It is undeniable that, of all these armies, including the Red Army, the
+_"1. It is undeniable that, of all these armies, including the Red Army, the
 Makhnovists behaved best with regard the civil population in general and the
 Jewish population in particular. I have numerous testimonies to this. The
 proportion of **justified** complaints against the Makhnovist army, in
-comparison with the others, is negligible.
+comparison with the others, is negligible. _
 
-"2. Do not speak of pogroms alleged to have been organised by Makhno himself.
+_"2. Do not speak of pogroms alleged to have been organised by Makhno himself.
 That is a slander or an error. Nothing of the sort occurred. As for the
 Makhnovist Army, I have had hints and precise denunciations on this subject.
 But, up to the present, every time I have tried to check the facts, I have
@@ -3077,6 +3087,8 @@ correction. Other repeat the lie from other sources. It was essential,
 therefore, to spend time making the facts available and to nail the lie of
 Makhnovist anti- Semitism once and for all!
 
+
+
 ## 10 Did the Makhnovists hate the city and city workers?
 
 For some reason the Makhnovists have been portrayed as being against the city
@@ -3124,11 +3136,11 @@ the working classes of the cities and those of the countryside. The peasants
 understand that without urban workers and powerful industrial enterprises they
 will be deprived of most of the benefits which the social revolution makes
 possible. Furthermore, they consider the urban workers to be their brothers,
-members of the same family of workers.
+members of the same family of workers. _
 
 >
 
-> "There can be no doubt that, at the moment of the victory of the social
+> _"There can be no doubt that, at the moment of the victory of the social
 revolution, the peasants will give their entire support to the workers. This
 will be voluntary and truly revolutionary support given directly to the urban
 proletariat. In the present-day situation [under the Bolsheviks], the bread
@@ -3139,11 +3151,11 @@ that in relation to the workers it plays the same role as that of a prison
 administration toward the inmates. This is why the peasants do not have the
 slightest desire to give their bread voluntarily to the State. This is why
 they are so hostile in their relations with the contemporary tax collectors --
-the commissars and the various supply organs of the State.
+the commissars and the various supply organs of the State. _
 
 >
 
-> "But the peasants always try to enter into **direct** relations with the
+> _"But the peasants always try to enter into **direct** relations with the
 urban workers. The question was raised more than once at peasant congresses,
 and the peasants always resolved it in a revolutionary and positive manner."_
 [**Op. Cit.**, p. 258]
@@ -3253,6 +3265,8 @@ fairer to say that it was the Bolsheviks who expressed _"hostility"_ to the
 city workers by imposing their dictatorship upon them rather than supporting
 working-class self-management as the Makhnovists did!
 
+
+
 ## 11 Were the Makhnovists nationalists?
 
 Some books on the Makhnovist movement try to present the Makhnovists as being
@@ -3353,27 +3367,27 @@ Makhnovist Insurgent Army wrote the following in October, 1919:
 > _ "The cultural-educational section of the Makhnovist army constantly
 receives questions from school teachers asking about the language in which
 instruction should be given in the schools, now that Denikin's troops have
-been expelled.
+been expelled. _
 
 >
 
-> "The revolutionary insurgents, holding to the principles of true socialism,
+> _"The revolutionary insurgents, holding to the principles of true socialism,
 cannot in any field or by any measure do violence to the natural desires and
 needs of the Ukrainian people. This is why the question of the language to be
 taught in the schools cannot be solved by our army, but can only be decided by
-the people themselves, by parents, teachers and students
+the people themselves, by parents, teachers and students _
 
 >
 
-> "It goes without saying that all the orders of Denikin's so-called 'Special
+> _"It goes without saying that all the orders of Denikin's so-called 'Special
 Bureau' as well as General Mai-Maevsky's order No. 22, which forbids the use
 of the mother tongue in the schools, are null and void, having been forcibly
-imposed on the schools.
+imposed on the schools. _
 
 >
 
-> "In the interest of the greatest intellectual development of the people, the
-language of instruction should be that toward which the local population
+> _"In the interest of the greatest intellectual development of the people,
+the language of instruction should be that toward which the local population
 naturally tends, and this is why the population, the students, the teachers
 and the parents, and not authorities or the army, should freely and
 independently resolve this question."_ [quoted by Arshinov, **Op. Cit.**, pp.
@@ -3429,6 +3443,8 @@ and councils. They did not limit their aims to national liberation, but rather
 sought the self-liberation of the working classes from every oppression --
 foreign or domestic, economic or political, cultural or social.
 
+
+
 ## 12 Did the Makhnovists support the Whites?
 
 No, they did not. However, black propaganda by the Bolsheviks stated they did.
@@ -3443,12 +3459,12 @@ representative of the Kharkov government _"declared at the Plenary Session of
 the Ekaterinoslav Soviet, that Soviet authorities had written proof of the
 alliance between Makhno and Wrangel. This was obviously an intentional lie."_
 Wrangel, perhaps believing these lies had some basis, sent a messenger to
-Makhno in July, 1920\. _"Wrangel's messenger was immediately executed"_ and
-the _"entire incident was reported in the Makhnovist press. All this was
-perfectly clear to the Bolsheviks. They nevertheless continued to trumpet the
-alliance between Makhno and Wrangel. It was only after a military-political
-agreement had been concluded between the Makhnovists and the Soviet power that
-the Soviet Commissariat of War announced that there had never been an alliance
+Makhno in July, 1920. _"Wrangel's messenger was immediately executed"_ and the
+_"entire incident was reported in the Makhnovist press. All this was perfectly
+clear to the Bolsheviks. They nevertheless continued to trumpet the alliance
+between Makhno and Wrangel. It was only after a military-political agreement
+had been concluded between the Makhnovists and the Soviet power that the
+Soviet Commissariat of War announced that there had never been an alliance
 between Makhno and Wrangel, that earlier Soviet assertions to this effect were
 an error."_ [**Op. Cit.**, pp. 173-5]
 
@@ -3533,6 +3549,8 @@ might, playing a key role in the struggle and defeat of both Denikin and
 Wrangel. Anyone who claims that they worked with the Whites is either ignorant
 or a liar.
 
+
+
 ## 13 What was the relationship of the Bolsheviks to the movement?
 
 The Makhnovists worked with the Bolsheviks in three periods. The first (and
@@ -3610,35 +3628,35 @@ fit. It is worth re-quoting the relevant section:
 
 > _ "Can there exist laws made by a few people who call themselves
 revolutionaries which permit them to outlaw a whole people who are more
-revolutionary than they are themselves? . . .
+revolutionary than they are themselves? . . . _
 
 >
 
-> "Is it permissible, is it admissible, that they should come to the country
+> _"Is it permissible, is it admissible, that they should come to the country
 to establish laws of violence, to subjugate a people who have just overthrown
-all lawmakers and all laws?
+all lawmakers and all laws? _
 
 >
 
-> "Does there exist a law according to which a revolutionary has the right to
+> _"Does there exist a law according to which a revolutionary has the right to
 apply the most severe penalties to a revolutionary mass, of which he calls
 himself the defender, simply because this mass has taken the good things which
-the revolution promised them, freedom and equality, without his permission?
+the revolution promised them, freedom and equality, without his permission? _
 
 >
 
-> "Should the mass of revolutionary people perhaps be silent when such a
-revolutionary takes away the freedom which they have just conquered?
+> _"Should the mass of revolutionary people perhaps be silent when such a
+revolutionary takes away the freedom which they have just conquered? _
 
 >
 
-> "Do the laws of the revolution order the shooting of a delegate because he
+> _"Do the laws of the revolution order the shooting of a delegate because he
 believes he ought to carry out the mandate given him by the revolutionary mass
-which elected him?
+which elected him? _
 
 >
 
-> "Whose interests should the revolutionary defend; those of the Party or
+> _"Whose interests should the revolutionary defend; those of the Party or
 those of the people who set the revolution in motion with their blood?"_
 [quoted by Arshinov, **Op. Cit.**, p. 103]
 
@@ -3688,33 +3706,33 @@ Ukraine and against the organisation of the southern front, where Makhno's
 brigade is stationed. This congress can have no other result then to excite
 some new disgraceful revolt like that of Grigor'ev, and to open the front to
 the Whites, before whom Makhno's brigade can only retreat incessantly on
-account of the incompetence, criminal designs and treason of its commanders.
+account of the incompetence, criminal designs and treason of its commanders. _
 
 >
 
-> "1. By the present order this congress is forbidden, and will in no
-circumstances be allowed to take place.
+> _"1. By the present order this congress is forbidden, and will in no
+circumstances be allowed to take place. _
 
 >
 
-> "2. All the peasant and working class population shall be warned. orally and
-in writing, that participation in the said congress will be considered an act
-of high treason against the Soviet Republic and the Soviet front.
+> _"2. All the peasant and working class population shall be warned. orally
+and in writing, that participation in the said congress will be considered an
+act of high treason against the Soviet Republic and the Soviet front. _
 
 >
 
-> "3. All delegates to the said Congress shall be arrested immediately and
+> _"3. All delegates to the said Congress shall be arrested immediately and
 bought before the Revolutionary Military Tribunal of the 14th, formerly 2nd,
-Army of the Ukraine.
+Army of the Ukraine. _
 
 >
 
-> "4. The persons spreading the call of Makhno and the Hulyai Pole Executive
-Committee to the Congress shall likewise be arrested.
+> _"4. The persons spreading the call of Makhno and the Hulyai Pole Executive
+Committee to the Congress shall likewise be arrested. _
 
 >
 
-> "5. The present order shall have the force of law as soon as it is
+> _"5. The present order shall have the force of law as soon as it is
 telegraphed. It should be widely distributed, displayed in all public places,
 and sent to the representatives of the executive committees of towns and
 villages, as well as to all the representatives of Soviet authority, and to
@@ -3892,62 +3910,63 @@ _"Wrangel's success caused the Bolsheviks leaders to reconsider."_ [Palij,
 **Op. Cit.**, p. 223] Sometime between the 10th and 15th of October the final
 agreement was signed:
 
-> _ "Part I -- Political Agreement.
+> _ "Part I -- Political Agreement. _
 
 >
 
-> "1. Immediate release of all Makhnovists and anarchists imprisoned or in
+> _"1. Immediate release of all Makhnovists and anarchists imprisoned or in
 exile in the territories of the Soviet Republic; cessation of all persecutions
 of Makhnovists or anarchists, except those who carry on armed conflict against
-the Soviet Government.
+the Soviet Government. _
 
 >
 
-> "2. Complete freedom in all forms of public expression and propaganda for
+> _"2. Complete freedom in all forms of public expression and propaganda for
 all Makhnovists and anarchists, for their principles and ideas, in speech and
 the press, with the exception of anything that might call for the violent
 overthrow of the Soviet Government, and on condition that the requirements of
 military censorship be respected. For all kinds of publications, the
 Makhnovists and anarchists, as revolutionary organisations recognised by the
 Soviet Government may make use of the technical apparatus of the Soviet State,
-while naturally submitting to the technical rules for publication.
+while naturally submitting to the technical rules for publication. _
 
 >
 
-> "3. Free participation in elections to the Soviets; and the right of
+> _"3. Free participation in elections to the Soviets; and the right of
 Makhnovists and anarchists to be elected thereto. Free participation in the
 organisation of the forthcoming Fifth Pan-Ukrainian Congress of Soviets . . .
+_
 
 >
 
-> "Part II -- Military Agreement.
+> _"Part II -- Military Agreement. _
 
 >
 
-> "1. The Ukrainian Revolutionary Insurrectionary Army (Makhnovist) will join
+> _"1. The Ukrainian Revolutionary Insurrectionary Army (Makhnovist) will join
 the armed forces of the Republic as a partisan army, subordinate, in regard to
 operations, to the supreme command of the Red Army; it will retain its
 established internal structure, and does not have to adopt the bases and
-principles of the regular Red Army.
+principles of the regular Red Army. _
 
 >
 
-> "2. When crossing Soviet territory at the front, or going between fronts,
+> _"2. When crossing Soviet territory at the front, or going between fronts,
 the Insurrectionary Army will not accept into its ranks neither any
-detachments of, nor deserters from, the Red Army . . .
+detachments of, nor deserters from, the Red Army . . . _
 
 >
 
-> "3. For the purpose of destroying the common enemy -- the White Army -- the
+> _"3. For the purpose of destroying the common enemy -- the White Army -- the
 Ukrainian Revolutionary Insurrectionary Army (Makhnovists) will inform the
 working masses that collaborate with it the agreement that has been concluded;
 it will call upon the people to cease all military actions hostile to the
 Soviet power; and for its part, the Soviet power will immediately publish the
-clauses of the agreement.
+clauses of the agreement. _
 
 >
 
-> "4. The families of combatants of the Makhnovist Revolutionary
+> _"4. The families of combatants of the Makhnovist Revolutionary
 Insurrectionary Army living in the territory of the Soviet Republic shall
 enjoy the same rights as those of soldiers of the Red Army . . ."_ [quoted by
 Arshinov, **Op. Cit.**, p. 178]
@@ -4068,6 +4087,8 @@ a social revolution and so **was** "the dictatorship of the proletariat." As
 the Makhnovist movement shows, if need be, the party would happily exercise
 its dictatorship **over** the proletariat (and peasantry) if that was needed
 to retain its power.
+
+
 
 ## 14 How did the Makhnovists and Bolsheviks differ?
 
@@ -4197,7 +4218,7 @@ expose the futility of nationalism. A large part of military organisation is
 aimed at ensuring that soldiers remain fighting for causes they do not
 necessarily believe in. Military discipline attempts to create an unthinking,
 unquestioning body of soldiers, as fearful of their own side as of the
-other."_ [**Red & Black Revolution**, no. 1]
+other."_ [**Red &amp; Black Revolution**, no. 1]
 
 In short in both Russia and Spain the Bolsheviks wanted an army that would
 obey them regardless of whether the individual soldiers felt they were doing
@@ -4370,11 +4391,11 @@ from labour and from revolution. In other words, what has been created is a
 situation in which the labouring and revolutionary people have fallen under
 the surveillance and rule of people who are alien to the working classes,
 people who are inclined to exercise arbitrariness and violence over the
-workers. Such is the dictatorship of the Bolshevik-Communist Party . . .
+workers. Such is the dictatorship of the Bolshevik-Communist Party . . . _
 
 >
 
-> "We again remind the working people that they will liberate themselves from
+> _"We again remind the working people that they will liberate themselves from
 oppression, misery and violence only through their own efforts. No change in
 power will help them in this. Only by means of their own free worker-peasant
 organisations can the workers reach the summit of the social revolution --
@@ -4500,6 +4521,8 @@ that the former stuck by and introduced their stated aims of _"soviet power"_
 and working-class freedom while the latter rejected them once they clashed
 with Bolshevik party policies.
 
+
+
 ## 15 How do the modern followers of Bolshevism slander the Makhnovists?
 
 Many modern-day supporters of Bolshevism, on the rare occasions when they do
@@ -4553,7 +4576,7 @@ However, more sophisticated slanders, lies and distortions have been levelled
 at the Makhnovists by the supporters of Bolshevism. This is to be expected, as
 the experience of the Makhnovists effectively refute the claim that the
 Bolsheviks had no choice but to act as they did. It is hard to maintain a
-position that "objective conditions"_ made the Bolsheviks act as they did when
+position that "objective conditions" made the Bolsheviks act as they did when
 another mass revolutionary army, operating in the same environment, did not
 act in the same way. This means that the Makhnovists are strong evidence that
 Bolshevik politics played a key role in the degeneration of the Russian
@@ -4564,7 +4587,7 @@ A recent example of this is John Rees' essay _"In Defence of October"_
 (**International Socialism**, no. 52, pp. 3-82). Rees, a member of the UK
 Socialist Workers' Party (SWP) is at pains to downplay the role of Bolshevik
 ideology in the degeneration of the Russian Revolution. He argues that
-"objective factors"_ ensured that the Bolsheviks acted as they did. The
+"objective factors" ensured that the Bolsheviks acted as they did. The
 _"subjective factor"_ was simply a choice between defeat and defence against
 the Whites: _"Within these limits Bolshevik policy was decisive."_ [**Op.
 Cit.**, p. 30] This explains his attack on the Makhnovist movement. Faced with
@@ -5162,18 +5185,18 @@ Trotsky's autocratic structure). The political agreement was as follows:
 
 > _ "1. Immediate release, and an end to the persecution of all Makhno men and
 anarchists in the territories of the Soviet Republics, except those who carry
-on armed resistance against Soviet authorities.
+on armed resistance against Soviet authorities. _
 
 >
 
-> "2. Makhno men and anarchists were to have complete freedom of expression of
-their ideas and principles, by speech and the press, provided that nothing was
-expressed that tended to a violent overthrow of Soviet government, and on
-condition that military censorship be respected. . .
+> _"2. Makhno men and anarchists were to have complete freedom of expression
+of their ideas and principles, by speech and the press, provided that nothing
+was expressed that tended to a violent overthrow of Soviet government, and on
+condition that military censorship be respected. . . _
 
 >
 
-> "3. Makhno men and anarchists were to enjoy full rights of participation in
+> _"3. Makhno men and anarchists were to enjoy full rights of participation in
 elections to the soviets, including the right to be elected, and free
 participation in the organisation of the forthcoming Fifth All-Ukrainian
 Congress of Soviets . . ."_ [cited by Palij, **Op. Cit.**, p. 224]
@@ -5238,11 +5261,11 @@ have a clear and intended desire to deceive the reader. As regards the third
 agreement, while he makes no pretence that the Makhnovists were the guilty
 party however, he implies that the Bolsheviks had to act as they did before
 the Makhnovists turned on them. Little wonder, then, that he does not provide
-the details of the agreement made between the Bolsheviks and Makhnovists \--
-to do so would have been to expose the authoritarianism of the Bolsheviks.
-Simply put, Rees'distortions of the source material he uses comes as no
-surprise. It undermines his basic argument and so cannot be used in its
-original form. Hence the cherry-picking of quotations to support his case.
+the details of the agreement made between the Bolsheviks and Makhnovists -- to
+do so would have been to expose the authoritarianism of the Bolsheviks. Simply
+put, Rees'distortions of the source material he uses comes as no surprise. It
+undermines his basic argument and so cannot be used in its original form.
+Hence the cherry-picking of quotations to support his case.
 
 After distorting Makhnovist relations with the Bolsheviks, Rees moves on to
 distorting the socio-political ideas and practice of the Makhnovists. As would
@@ -5339,7 +5362,7 @@ Clearly, the Makhnovists **did** create a _"programme that would appeal to the
 workers."_ However, it is true that the Makhnovists did fail win over more
 than a minority of workers. This may have been due to the fact that the
 Makhnovists only freed two cities, both for short periods of time. As Paul
-Avrich notes, "he found little time to implement his economic programs."_
+Avrich notes, "he found little time to implement his economic programs."
 [**Anarchist Portraits**, p. 121] Given how Rees bends over backwards to
 justify Bolshevik policies in terms of _"objective factors,"_ it is
 significant that in his discussion of the Makhnovists such _"objective
@@ -5358,7 +5381,7 @@ Firstly, we should highlight the Bolshevik (and so, presumably,
 _"proletarian"_) patterns imposed on the railway workers. Trotsky simply
 _"plac[ed] the railwaymen and the personnel of the repair workshops under
 martial law"_ and _"summarily ousted"_ the leaders of the railwaymen's trade
-union when they objected."_ The Central Administrative Body of Railways
+union when they objected." The Central Administrative Body of Railways
 (Tsektran) he created was run by him _"along strictly military and
 bureaucratic lines."_ In other words, he applied his ideas on the
 _"militarisation of labour"_ in full. [M. Brinton, **The Bolsheviks and
@@ -5408,8 +5431,8 @@ and to maintain a sort of united front of the entire peasantry."_ [M. Palij,
 **Op. Cit.**, p. 214]
 
 Clearly, Rees has distorted the source material, conveniently missing out the
-information that Makhno had most definitely "disturbed"_ the peasant economy
-at the expense of the rich! And, we are sure that Rees would have a fit if it
+information that Makhno had most definitely "disturbed" the peasant economy at
+the expense of the rich! And, we are sure that Rees would have a fit if it
 were suggested that the real basis of Bolshevik support was not their
 socialism, but their opposition to the war and the Whites!
 
@@ -5858,6 +5881,8 @@ factors, did not act in the same manner as the Bolsheviks shows that Bolshevik
 ideology played a key role in the failure of the revolution. This explains
 Rees' clumsy attempts to rewrite the history and theory of the Makhnovshchina.
 
+
+
 ## 16 What lessons can be learned from the Makhnovists?
 
 The Makhnovist movement was one of the most important events of the Russian
@@ -5925,11 +5950,11 @@ imposition from above of the Bolshevik leadership's vision of revolution. When
 the Insurgent Army drove the enemy out of an area they encouraged the local
 population to solve their own problems. Where the Red Army took over, the
 Cheka quickly followed. The Bolsheviks themselves were energetically snuffing
-out the ideals of 1917.
+out the ideals of 1917. _
 
 >
 
-> "Given such considerations it may be, though it cannot be logically proven
+> _"Given such considerations it may be, though it cannot be logically proven
 one way or the other, that the Bolsheviks' deeply rooted authoritarianism
 rather than the civil war itself led to the construction of a highly
 centralised system that aimed at 'complete control' over political and many
@@ -6117,4 +6142,9 @@ and can be applied successfully in extremely difficult circumstances. They
 show that social revolutions need not consist of changing one set of bosses
 for another. The Makhnovist movement clearly shows that libertarian ideas can
 be successfully applied in a revolutionary situation.
+
+[‹ Were any of the Bolshevik oppositions a real
+alternative?](/afaq/append45.html "Go to previous page" )
+[up](/afaq/append4.html "Go to parent page" ) [Bibliography for FAQ
+›](/afaq/biblio.html "Go to next page" )
 

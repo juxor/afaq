@@ -167,3 +167,8 @@ discusses how the social relationships and institutions described in this
 section impact on society as a whole. [Section E](secEcon.html) discusses the
 causes (and some suggested solutions) to the ecological problems we face.
 
+[‹ Section B - Why do anarchists oppose the current
+system?](/afaq/secBcon.html "Go to previous page" ) [up](/afaq/secBcon.html
+"Go to parent page" ) [B.1 Why are anarchists against authority and hierarchy?
+›](/afaq/secB1.html "Go to next page" )
+

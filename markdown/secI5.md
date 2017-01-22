@@ -1,13 +1,14 @@
 # I.5 What could the social structure of anarchy look like?
 
-The social and political structure of anarchy is similar to that of its
+The social and political structure of anarchy is similar to that of the
 economic structure, i.e., it is based on a voluntary federation of
-decentralised, directly democratic community assemblies (communes). In these
-grassroots political units and their confederations, the concept of **_"self-
-management"_** becomes that of **_"self-government"_**, a form of municipal
-organisation in which people take back control of their living places from the
-bureaucratic state and the capitalist class whose interests it serves.
-Bakunin's comments are very applicable here:
+decentralised, directly democratic policy-making bodies. These are the
+neighbourhood and community assemblies and their confederations. In these
+grassroots political units, the concept of **_"self-management"_** becomes
+that of **_"self-government"_**, a form of municipal organisation in which
+people take back control of their living places from the bureaucratic state
+and the capitalist class whose interests it serves. Bakunin's comments are
+very applicable here:
 
 > _"[A] truly popular organisation begins from below, from the association,
 from the commune. Thus starting out with the organisation of the lowest
@@ -36,11 +37,11 @@ fraud, and the sovereignty of the People a joke, it must be admitted that each
 citizen in the sphere of his [or her] industry, each municipal, district or
 provincial council within its own territory, is the only natural and
 legitimate representative of the Sovereign, and that therefore each locality
-should act directly and by itself in administering the interests which it
+should act direct and by itself in administering the interests which it
 includes, and should exercise full sovereignty in relation to them."_
-[**General Idea of the Revolution**, p. 276] While anarchists have various
-different conceptions of how this communal system would be constituted (as we
-will see), they is total agreement on these basic visions and principles.
+[**Propert is Theft!**, p. 595] While anarchists have various different
+conceptions of how this communal system would be constituted (as we will see),
+there is total agreement on these basic visions and principles.
 
 The aim is _"to found an order of things wherein the principle of the
 sovereignty of the people, of man and of the citizen, would be implemented to
@@ -50,25 +51,25 @@ any social organisation _"would concern itself solely with collective matters;
 where as a consequence, there would be certain common matters but no
 centralisation."_ This means that the _"federative, mutualist republican
 sentiment"_ (as summarised these days by the expression self-management) will
-_"bring about the victory of Worker Democracy right around the world."_
-[Proudhon, **Anarchism**, vol. 1, Robert Graham (ed.), p. 74 and p. 77]
+_"bring about the victory of Labour Democracy right around the world."_
+[Proudhon, **Op. Cit.**, p. 574 and p. 763]
 
 This empowerment of ordinary citizens through decentralisation and direct
-democracy will eliminate the alienation and apathy that are now rampant and
-(as always happens when people are free) unleash a flood of innovation in
-dealing with the social breakdown now afflicting our world. The gigantic
-metropolis with its hierarchical and impersonal administration, its atomised
-and isolated "residents," will be transformed into a network of humanly scaled
-participatory communities, each with its own unique character and forms of
-self-government, which will be co-operatively linked through federation with
-other communities, from the municipal through the bio-regional to the global
-level.
+democracy will eliminate the alienation and apathy that are now rampant in the
+modern city and town, and (as always happens when people are free) unleash a
+flood of innovation in dealing with the social breakdown now afflicting our
+urban wastelands. The gigantic metropolis with its hierarchical and impersonal
+administration, its atomised and isolated "residents," will be transformed
+into a network of humanly scaled participatory communities (usually called
+"communes"), each with its own unique character and forms of self-government,
+which will be co-operatively linked through federation with other communities
+at several levels, from the municipal through the bioregional to the global.
 
 This means that the social perspective of libertarian socialism is as
 distinctive as its economic vision. While mainstream socialism is marked by
 support for centralised states, anarchists stay true to socialism as equality
 and argue that means decentralisation. Thus socialism _"wears two distinct
-faces. When it is said that a man is a Socialist, it is implies that he
+faces. When it is said that a man is a Socialist, it is implied that he
 regards the monopoly of private property in the means of production as the
 cause of the existing unequal distribution of wealth and its attendant ills .
 . . Socialists are divided into the centralising and decentralising parties,
@@ -80,25 +81,24 @@ equality through mass participation and self-management.
 Of course, it can (and has) been argued that people are just not interested in
 "politics." Further, some claim that this disinterest is why governments exist
 -- people delegate their responsibilities and power to others because they
-have better things to do.
-
-Such an argument, however, is flawed on empirical grounds. As we indicated in
-[section B.2.6](secB2.html#secb26), centralisation of power in both the French
-and American revolutions occurred **because** the wealthy few thought that
-working class people were taking **too much** interest in politics and social
+have better things to do. Such an argument, however, is flawed on empirical
+grounds. As we indicated in [section B.2.6](secB2.html#secb26), centralisation
+of power in both the French and American revolutions occurred **because**
+working people were taking **too much** interest in politics and social
 issues, not the reverse (_"To attack the central power, to strip it of its
 prerogatives, to decentralise, to dissolve authority, would have been to
 abandon to the people the control of its affairs, to run the risk of a truly
 popular revolution. That is why the bourgeoisie sought to reinforce the
 central government even more. . ."_ [Kropotkin, **Words of a Rebel**, p.
-143]). Simply put, the state is centralised to facilitate **minority rule** by
+143]).
+
+Simply put, the state is centralised to facilitate **minority rule** by
 excluding the mass of people from taking part in the decision making processes
 within society. This is to be expected as social structures do not evolve by
 chance -- rather they develop to meet specific needs and requirements. The
 specific need of the ruling class is to rule and that means marginalising the
 bulk of the population. Its requirement is for minority power and this is
-reflected in the structure of the state (see [section
-H.3.7](secH3.html#sech37)).
+transformed into the structure of the state.
 
 Even if we ignore the historical evidence on this issue, anarchists do not
 draw this conclusion from the current apathy that surrounds us. In fact, we
@@ -116,13 +116,15 @@ own decisions (we doubt that workers would subject themselves to unsafe
 working conditions, for example). In others, such as the question of personal
 morality and acts, a free people would have no interest in (unless it harmed
 others, of course). This, again, would reduce the number of issues that would
-be discussed in a free commune. Also, via decentralisation, a free people
-would be mainly discussing local issues, so reducing the complexity of many
-questions and solutions. Wider issues would, of course, be discussed but these
-would be on specific issues and so more focused in their nature than those
-raised in the legislative bodies of the state. So, a combination of
-centralisation and an irrational desire to discuss every and all questions
-also helps make "politics" seem boring and irrelevant.
+be discussed in a free commune.
+
+Also, via decentralisation, a free people would be mainly discussing local
+issues, so reducing the complexity of many questions and solutions. Wider
+issues would, of course, be discussed but these would be on specific issues
+and so more focused in their nature than those raised in the legislative
+bodies of the state. So, a combination of centralisation and an irrational
+desire to discuss every and all questions also helps make "politics" seem
+boring and irrelevant.
 
 As noted above, this result is not an accident and the marginalisation of
 "ordinary" people is actually celebrated in bourgeois "democratic" theory. As
@@ -145,9 +147,9 @@ the service of the rich and powerful, a minor footnote regularly forgotten."_
 This marginalisation of the public from political life ensures that the
 wealthy can be _"left alone"_ to use their power as they see fit. In other
 words, such marginalisation is a necessary part of a fully functioning
-capitalist society and so libertarian social structures have to be
-discouraged. Or as Chomsky put it, the _"rabble must be instructed in the
-values of subordination and a narrow quest for personal gain within the
+capitalist society. Hence, under capitalism, libertarian social structures
+have to be discouraged. Or as Chomsky puts it, the _"rabble must be instructed
+in the values of subordination and a narrow quest for personal gain within the
 parameters set by the institutions of the masters; meaningful democracy, with
 popular association and action, is a threat to be overcome."_ [**Op. Cit.**,
 p. 18] This philosophy can be seen in the statement of a US Banker in
@@ -176,24 +178,24 @@ liberating experience. Once people become active subjects, making things
 happen in one aspect of their lives, they are less likely to remain passive
 objects, allowing things to happen to them, in other aspects.
 
-All in all, "politics" is far too important an subject to leave to
-politicians, the wealthy and bureaucrats. After all, it is (or, at least, it
-should be) what affects, your friends, community, and, ultimately, the planet
-you live on. Such issues cannot be left to anyone but you.
+All in all, "politics" is far too important a subject to leave to politicians,
+the wealthy and bureaucrats. After all, it is (or, at least, it should be)
+what affects, your friends, community, and, ultimately, the planet you live
+on. Such issues cannot be left to anyone but you.
 
 Hence a meaningful communal life based on self-empowered individuals is a
 distinct possibility (indeed, it has repeatedly appeared throughout history).
 It is the hierarchical structures in statism and capitalism, marginalising and
-disempowering the majority, which is at the root of the current wide scale
+disempowering the majority, which are at the root of the current wide scale
 apathy in the face of increasing social and ecological disruption. Libertarian
 socialists therefore call for a radically new form of political system to
 replace the centralised nation-state, a form that would be based around
-confederations of self-governing communities: _"**Society is a society of
-societies; a league of leagues of leagues; a commonwealth of commonwealths of
-commonwealths; a republic of republics of republics.** Only there is freedom
-and order, only there is spirit, a spirit which is self-sufficiency and
-community, unity and independence."_ [Gustav Landauer, **For Socialism**, pp.
-125-126]
+confederations of self-governing communities. In other words, in anarchism
+_"**[s]ociety is a society of societies; a league of leagues of leagues; a
+commonwealth of commonwealths of commonwealths; a republic of republics of
+republics.** Only there is freedom and order, only there is spirit, a spirit
+which is self-sufficiency and community, unity and independence."_ [Gustav
+Landauer, **For Socialism**, pp. 125-126]
 
 To create such a system would require dismantling the nation-state and
 reconstituting relations between communities on the basis of self-
@@ -209,36 +211,34 @@ anarchists to paint their own pictures of a possible future.
 ## I.5.1 What are participatory communities?
 
 A key concept in anarchist thought is that of the participatory community.
-Traditionally, these participatory communities are called **communes** in
+Traditionally, these participatory communities were called **communes** in
 anarchist theory (_"The basic social and economic cell of the anarchist
 society is the free, independent commune"_ [A. Grachev, quoted by Paul Avrich,
-**The Anarchists in the Russian Revolution**, p. 64]).
+**The Anarchists in the Russian Revolution**, p. 64]). These are seen as the
+way people participate in the decisions that affect them and their
+neighbourhoods, regions and, ultimately, planet. These are the means for
+transforming our social environment from one disfigured by economic and
+political power and its needs to one fit for human beings to live and flourish
+in.
+
+The creation of a network of participatory communities ("communes") based on
+self-government through direct, face-to-face democracy in grassroots
+neighbourhood assemblies is the means to that end. As we argued in [section
+I.2.3](secI2.html#seci23) such assemblies will be born in social struggle and
+so reflect the needs of the struggle and those within it so our comments here
+must be considered as generalisations of the salient features of such
+communities and **not** blue-prints.
 
 The reason for the use of the term commune is due to anarchism's roots in
-France where it refers to the lowest level of administrative division in the
-Republic. In France, a commune can be a city of 2 million inhabitants (hence
-the Paris Commune of 1871); a town of 10,000; or just a 10-person hamlet. It
-appeared in the 12th century from Medieval Latin **communia**, which means a
-gathering of people sharing a common life (from Latin **communis**, things
-held in common). Proudhon used the term to describe the social units of a non-
-statist society and subsequent anarchists like Bakunin and Kropotkin followed
-his lead. As the term "commune", since the 1960s, often refers to "intentional
+France where it refers to a organisation unit of the state which can be of any
+size, from the smallest hamlet to the biggest city (hence the Paris Commune).
+Proudhon used the term to describe the social units of a non-statist society
+and subsequent anarchists like Bakunin and Kropotkin followed his lead. As the
+term "commune" has, since the 1960s, often referred to "intentional
 communities" where people drop out of society and form their own counter-
 cultural groups and living spaces we have, in order to avoid confusion,
-decided to use "participatory community" as well (anarchists have also used
+decided to use "participatory community" as well (other anarchists have used
 other terms, including _"free municipality"_).
-
-These community organisations are seen as the way people participate in the
-decisions that affect them and their neighbourhoods, regions and, ultimately,
-planet. These are the means for transforming our social environment from one
-disfigured by economic and political power and its needs to one fit for human
-beings to life and flourish in. The creation of a network of participatory
-communities ("communes") based on self-government through direct, face-to-face
-democracy in grassroots neighbourhood assemblies is the means to that end. As
-we argued in [section I.2.3](secI2.html#seci23) such assemblies will be born
-in social struggle and so reflect the needs of the struggle and those within
-it so our comments here must be considered as generalisations of the salient
-features of such communities and **not** blue-prints.
 
 Within anarchist thought, there are two main conceptions of the free commune.
 One vision is based on workplace delegates, the other on neighbourhood
@@ -273,46 +273,44 @@ class actually manages society.
 
 Other anarchists counterpoise neighbourhood assemblies to workers' councils.
 These assemblies will be general meetings open to all citizens in every
-neighbourhood, town, and village, and will be the source of public policy for
-all levels of confederal co-ordination. Such "town meetings" will bring people
-directly into the political process and give them an equal voice in the
-decisions that affect their lives. Such anarchists point to the experience of
-the French Revolution of 1789 and the _"sections"_ of the Paris Commune as the
-key example of _"a people governing itself directly -- when possible --
-without intermediaries, without masters."_ It is argued, based on this
-experience, that _"the principles of anarchism . . . dated from 1789, and that
-they had their origin, not in theoretical speculations, but in the **deeds**
-of the Great French Revolution."_ [Peter Kropotkin, **The Great French
-Revolution**, vol. 1, p. 210 and p. 204] Anarchists also point to the clubs
-created during the 1848 Revolution in France and in the Paris Commune of 1871
-not to mention the community assemblies created in Argentina during the revolt
-against neo-liberalism at the start of the 21st century.
+neighbourhood, town, and village, and will be the source of and final
+_"authority"_ over public policy for all levels of confederal co-ordination.
+Such _"town meetings"_ will bring ordinary people directly into the political
+process and give them an equal voice in the decisions that affect their lives.
+Such anarchists point to the experience of the French Revolution of 1789 and
+the _"sections"_ of the Paris Commune as the key example of _"a people
+governing itself directly -- when possible -- without intermediaries, without
+masters."_ It is argued, based on this experience, that _"the principles of
+anarchism . . . dated from 1789, and that they had their origin, not in
+theoretical speculations, but in the **deeds** of the Great French
+Revolution."_ [Peter Kropotkin, **The Great French Revolution**, vol. 1, p.
+210 and p. 204]
 
-Critics of workers' councils point out that not all people work in traditional
-workplaces (many are parents who look after children, for example). By basing
-the commune around the workplace, such people are automatically excluded.
-Moreover, in most modern cities many people do not live near where they work.
-It would mean that local affairs could not be effectively discussed in a
-system of workers' councils as many who take part in the debate are unaffected
-by the decisions reached. In addition, some anarchists argue that workplace
-based systems automatically generate "special interests" and so exclude
-community issues. Only community assemblies can _"transcend the traditional
-special interests of work, workplace, status, and property relations, and
-create a **general** interest based on shared community problems."_ [Murray
-Bookchin, **From Urbanisation to Cities**, p. 254]
+Critics of workers' councils point out that not all working class people work
+in factories or workplaces. Many are parents who look after children, for
+example. By basing the commune around the workplace, such people are
+automatically excluded. Moreover, in most modern cities many people do not
+live near where they work. It would mean that local affairs could not be
+effectively discussed in a system of workers' councils as many who take part
+in the debate are unaffected by the decisions reached (this is something which
+the supporters of workers' councils **have** noticed and some argue for
+councils which are delegates from both the inhabitants **and** the enterprises
+of an area). In addition, some anarchists argue that workplace based systems
+automatically generate "special interests" and so exclude community issues.
+Only community assemblies can _"transcend the traditional special interests of
+work, workplace, status, and property relations, and create a **general**
+interest based on shared community problems."_ [Murray Bookchin, **From
+Urbanisation to Cities**, p. 254]
 
-However, such communities assemblies can only be valid if they can be
-organised rapidly in order to make decisions and to mandate and recall
-delegates. In the capitalist city, many people work far from where they live
-and so such meetings have to be called for after work or at weekends (thus the
-key need is to reduce the working day/week and to communalise industry). For
-this reason, many anarchists continue to support the workers' council vision
-of the commune, complemented by community assemblies for those who live in an
-area but do not work in a traditional workplace (e.g. parents bringing up
-small children, the old, the sick and so on). It should be noted that this is
-something which the supporters of workers' councils **have** noticed and some
-argue for councils which are delegates from both the inhabitants **and** the
-enterprises of an area.
+However, such community assemblies can only be valid if they can be organised
+rapidly in order to make decisions and to mandate and recall delegates. In the
+capitalist city, many people work far from where they live and so such
+meetings have to be called for after work or at weekends. Thus the key need is
+to reduce the working day/week and to communalise industry. For this reason,
+many anarchists continue to support the workers' council vision of the
+commune, complemented by community assemblies for those who live in an area
+but do not work in a traditional workplace (e.g. parents bring up small
+children, the old, the sick and so on).
 
 These positions are not hard and fast divisions, far from it. Puente, for
 example, thought that in the countryside the dominant commune would be _"all
@@ -330,8 +328,8 @@ given community will depend on local conditions, needs and aspirations and it
 is useless to draw hard and fast rules. It is likely that some sort of
 combination of the two approaches will be used, with workers' councils being
 complemented by community assemblies until such time as a reduced working week
-and decentralisation of urban centres make purely community assemblies the
-more realistic option. It is likely that in a fully libertarian society,
+and decentralisation of urban centres will make purely community assemblies
+the more realistic option. It is likely that in a fully libertarian society,
 community assemblies will be the dominant communal organisation but in the
 period immediately after a revolution this may not be immediately possible.
 Objective conditions, rather than predictions, will be the deciding factor.
@@ -340,9 +338,9 @@ community **and** industrial unionism in the class struggle (see sections
 [J.5.1](secJ5.html#secj51) and [J.5.2](secJ5.html#secj52)).
 
 Regardless of the exact make up of the commune, it has certain key features.
-It would be free a association, based upon the self-assumed obligation of
-those who join them. In free association, participation is essential simply
-because it is the **only** means by which individuals can collectively govern
+It would be a free association, based upon the self-assumed obligation of
+those who join. In free association, participation is essential simply because
+it is the **only** means by which individuals can collectively govern
 themselves (and unless they govern themselves, someone else will). _"As a
 unique individual,"_ Stirner argued, _"you can assert yourself alone in
 association, because the association does not own you, because you are one who
@@ -380,36 +378,35 @@ created by taking over the current state or creating a new one as doomed to
 failure. Instead, he recognised that socialism would only be built using new
 organisations that reflect the spirit of socialism (such as freedom, self-
 government and so on). He, like Proudhon and Bakunin before him, therefore
-argued that _"**[t]his was the form that the social revolution must take** \--
-the independent commune. . . [whose] inhabitants have decided that they
-**will** communalise the consumption of commodities, their exchange and their
-production."_ [Kropotkin, **Anarchism**, p. 184 and p. 163]
+argued that the _"** was the form that the social revolution must take** \--
+the independent commune" _whose_ "inhabitants have decided that they **will**
+communalise the consumption of commodities, their exchange and their
+production."_ [**Anarchism**, p. 184 and p. 163]
 
 In a nutshell, a participatory community is a free association, based upon the
 mass assembly of people who live in a common area, the means by which they
 make the decisions that affect them, their communities, bio-regions and the
 planet. Their essential task is to provide a forum for raising public issues
-and deciding upon them. Moreover, these assemblies will be a key way of
-generating a community (and community spirit) and building and enriching
-social relationships between individuals and, equally important, of developing
-and enriching individuals by the very process of participation in communal
+and deciding them. Moreover, these assemblies will be a key way of generating
+a community (and community spirit) and building and enriching social
+relationships between individuals and, equally important, of developing and
+enriching individuals by the very process of participation in communal
 affairs. By discussing, thinking and listening to others, individuals develop
 their own abilities and powers while at the same time managing their own
 affairs, so ensuring that no one else does (i.e. they govern themselves and
 are no longer governed from above by others). As Kropotkin argued, self-
 management has an educational effect on those who practice it:
 
-> _"The 'permanence' of the general assemblies of the sections \-- that is,
-the possibility of calling the general assembly whenever it was wanted by the
+> _"The 'permanence' of the general assemblies of the sections -- that is, the
+possibility of calling the general assembly whenever it was wanted by the
 members of the section and of discussing everything in the general assembly. .
-. will educate every citizen politically. . . The section in permanence \--
-the forum always open -- is the only way . . . to assure an honest and
-intelligent administration."_ [**The Great French Revolution**, vol. 1, pp.
-210-1]
+. will educate every citizen politically. . . The section in permanence -- the
+forum always open -- is the only way . . . to assure an honest and intelligent
+administration."_ [**The Great French Revolution**, vol. 1, pp. 210-1]
 
 As well as integrating the social life of a community and encouraging the
 political and social development of its members, these free communes will also
-be integrated into the local ecology. Humanity would life in harmony with
+be integrated into the local ecology. Humanity would live in harmony with
 nature as well as with itself -- as discussed in [section E.2](secE2.html),
 these would be **eco**-communities part of their local eco-systems with a
 balanced mix of agriculture and industry (as described by Kropotkin in his
@@ -451,13 +448,14 @@ able to express the joy of living, by living together."_ [Tom Brown,
 The size of the neighbourhood assemblies will vary, but it will probably
 fluctuate around some ideal size, discoverable in practice, that will provide
 a viable scale of face-to-face interaction and allow for both a variety of
-personal contacts. This suggests that any town or city would itself be a
-confederation of assemblies -- as was, of course, practised very effectively
-in Paris during the Great French Revolution.
+personal contacts and the opportunity to know and form a personal estimation
+of everyone in the neighbourhood. This suggests that any town or city would
+itself be a confederation of assemblies -- as was, of course, practised very
+effectively in Paris during the Great French Revolution.
 
 Such assemblies would meet regularly, at the very least monthly (probably more
-often, particularly during periods which require fast and frequent decision
-making, like a revolution) and deal with a variety of issues. In the words of
+often, particularly during periods which require fast and often decision
+making, like a revolution), and deal with a variety of issues. In the words of
 the CNT's resolution on libertarian communism:
 
 > _"the foundation of this administration will be the commune. These communes
@@ -471,7 +469,7 @@ commune will have the duty to concern itself with whatever may be of interest
 to the individual._
 
 > _"It will have to oversee organising, running and beautification of the
-settlement. It will see that its inhabitants are housed and that items and
+settlement. It will see that its inhabitants; are housed and that items and
 products be made available to them by the producers' unions or associations._
 
 > _"Similarly, it is to concern itself with hygiene, the keeping of communal
@@ -494,12 +492,12 @@ among themselves their internal problems."_ [quoted by Jose Peirats, **The CNT
 in the Spanish Revolution**, vol. 1, pp. 106-7]
 
 Thus the communal assembly discusses that which affects the community and
-those within it. As these local community associations will be members of
+those within it. As these local community associations, will be members of
 larger communal bodies, the communal assembly will also discuss issues which
 affect wider areas, as indicated, and mandate their delegates to discuss them
 at confederation assemblies. This system, we must note, was applied with great
-success during numerous revolutions (see [section J.5.4](secJ5.html#secj54))
-and so cannot be dismissed as wishful thinking.
+success during the Spanish revolution (see [section I.8](secI8.html)) and so
+cannot be dismissed as wishful thinking.
 
 However, of course, the actual framework of a free society will be worked out
 in practice. As Bakunin correctly argued, society _"can, and must, organise
@@ -510,13 +508,13 @@ will be required. We turn to this in the [next section](secI5.html#seci52).
 
 ## I.5.2 Why are confederations of participatory communities needed?
 
-Since not all issues are local, the community assemblies will also elect
-mandated and recallable delegates to the larger-scale units of self-government
-in order to address issues affecting urban districts, the city or town as a
-whole, the county, the bio-region, and ultimately the entire planet. Thus the
-assemblies will confederate at several levels in order to develop and co-
-ordinate common policies to deal with common problems. In the words of the
-CNT's resolution on libertarian communism:
+Since not all issues are local, the neighbourhood and community assemblies
+will also elect mandated and recallable delegates to the larger-scale units of
+self-government in order to address issues affecting larger areas, such as
+urban districts, the city or town as a whole, the county, the bio-region, and
+ultimately the entire planet. Thus the assemblies will confederate at several
+levels in order to develop and co-ordinate common policies to deal with common
+problems. In the words of the CNT's resolution on libertarian communism:
 
 > _"The inhabitants of a commune are to debate among themselves their internal
 problems . . . Federations are to deliberate over major problems affecting a
@@ -571,16 +569,30 @@ goals is not centralisation and those who confuse the two make a serious error
 -- they fail to understand the different relations of authority each generates
 and confuse obedience with co-operation.
 
-As in the economic federation of syndicates, the lower levels will control the
-higher, thus eliminating the current pre-emptive powers of centralised
+As in the economic federation of collectives, the lower levels will control
+the higher, thus eliminating the current pre-emptive powers of centralised
 government hierarchies. Delegates to higher-level co-ordinating councils or
 conferences will be instructed, at every level of confederation, by the
-assemblies they come from on how to deal with any issues. These instructions
-will be binding, committing delegates to a framework of policies within which
-they must act and providing for their recall and the nullification of their
-decisions if they fail to carry out their mandates. Delegates may be selected
-by election and/or sortition (i.e. random selection by lot, as for jury duty
-currently). As Murray Bookchin argued:
+assemblies they represent, on how to deal with any issue. As Proudhon argued
+in March 1848:
+
+_"In the end, we are all voters; we can choose the most worthy._
+
+_"We can do more; we can follow them step-by-step in their legislative acts
+and their votes; we will make them transmit our arguments and our documents;
+we will suggest our will to them, and when we are discontented, we will recall
+and dismiss them. _
+
+_"The choice of talents, the imperative mandate [**mandate impertif**], and
+permanent revocability are the most immediate and incontestable consequences
+of the electoral principle. It is the inevitable program of all democracy."_
+[**Property is Theft!**, p. 273]
+
+So these instructions will be binding, committing delegates to a framework of
+policies within which they must act and providing for their recall and the
+nullification of their decisions if they fail to carry out their mandates.
+Delegates may be selected by election and/or sortition (i.e. random selection
+by lot, as for jury duty currently). As Murray Bookchin argued:
 
 > _"A confederalist view involves a clear distinction between policy making
 and the co-ordination and execution of adopted policies. Policy making is
@@ -598,13 +610,7 @@ self-government, and each citizen will have his or her turn to participate in
 the co-ordination of public affairs. In other words, self-government will be
 the people themselves organised in their community assemblies and their
 confederal co-ordinating councils, with any delegates limited to implementing
-policy formulated by the people. Such policies will still be subject to
-approval by the neighbourhood and community assemblies through their right to
-recall their delegates and revoke their decisions. Needless to say, the higher
-the confederation the less often it would meet and the less it would have to
-consider in terms of issues to decide. On such a level, only the most general
-issues and decisions could be reached (in effect, only guidelines which the
-member confederations would apply as they saw fit).
+policy formulated by the people.
 
 In such a system there will, undoubtedly, be the need for certain individuals
 to be allocated certain tasks to do. We stress the word "tasks" because their
@@ -633,7 +639,7 @@ localism:
 do so. Economically, the wide range of resources that are needed to make many
 of our widely used goods preclude self-enclosed insularity and parochialism.
 Far from being a liability, this interdependence among communities and regions
-can well be regarded as an asset \-- culturally as well as politically . . .
+can well be regarded as an asset -- culturally as well as politically . . .
 Divested of the cultural cross-fertilisation that is often a product of
 economic intercourse, the municipality tends to shrink into itself and
 disappear into its own civic privatism. Shared needs and resources imply the
@@ -641,26 +647,22 @@ existence of sharing and, with sharing, communication, rejuvenation by new
 ideas, and a wider social horizon that yields a wider sensibility to new
 experiences."_ [Bookchin, **Op. Cit.**, p. 237]
 
-Combined with this consideration, we must also raise the issue of economies of
-scale. A given level of confederation may be required to make certain social
-and economic services efficient (we are thinking of economies of scale for
-such social needs as universities, hospitals, and cultural institutions).
-While every commune may have a doctor, nursery, local communal stores and
-small-scale workplaces, not all can have a university, hospital, factories and
-so forth. These would be organised on a wider level, so necessitating the
-appropriate confederation to exist to manage them. Ties between bio-regions or
-larger territories based on the distribution of such things as geographically
-concentrated mineral deposits, climate dependent crops, and production
-facilities that are most efficient when concentrated in one area will unite
-communities confederally on the basis of common material needs as well as
-values.
-
 This means that the scale and level of the confederations created by the
 communes will be varied and extensive. It would be hard to generalise about
 them, particularly as different confederations will exist for different tasks
 and interests. Moreover, any system of communes would start off based on the
 existing villages, towns and cities of capitalism. That is unavoidable and
 will, of course, help determine the initial scale and level of confederations.
+
+It seems likely that the scale of the confederation will be dependent on the
+inhabited area in question. A village, for example, would be based on one
+assembly and (minimally) be part of a local confederation covering all the
+villages nearby. In turn, this local confederation would be part of a district
+confederation, and so on up to (ultimately) a continental and world scale.
+Needless to say, the higher the confederation the less often it would meet and
+the less it would have to consider in terms of issues to decide. On such a
+level, only the most general issues and decisions could be reached (in effect,
+only guidelines which the member confederations would apply as they saw fit).
 
 In urban areas, the town or city would have to be broken down into
 confederations and these confederations would constitute the town or city
@@ -673,38 +675,70 @@ metropolis into smaller units, integrated with the local environment. However,
 a social revolution will take place in these vast metropolises and so we have
 to take them into account in our discussion.
 
+Thus the issue of size would determine when a new level of confederation would
+be needed. A town or village of several thousand people could be organised
+around the basic level of the commune and it may be that a libertarian
+socialist society would probably form another level of confederation once this
+level has been reached. Such units of confederation would, as noted above,
+include urban districts within today's large cities, small cities, and rural
+districts composed of several nearby towns. The next level of confederation
+would, we can imagine, be dependent on the number of delegates required. After
+a certain number, the confederation assembly may became difficult to manage,
+so implying that another level of confederation is required. This would,
+undoubtedly, be the base for determining the scale and level of confederation,
+ensuring that any confederal assembly can actually manage its activities and
+remain under the control of lower levels.
+
+Combined with this consideration, we must also raise the issue of economies of
+scale. A given level of confederation may be required to make certain social
+and economic services efficient (we are thinking of economies of scale for
+such social needs as universities, hospitals, and cultural institutions).
+While every commune may have a doctor, nursery, local communal stores and
+small-scale workplaces, not all can have a university, hospital, factories and
+so forth. These would be organised on a wider level, so necessitating the
+appropriate confederation to exist to manage them.
+
+Moreover, face-to-face meetings of the whole population are impractical at
+this size. Therefore, the decision making body at this level would be the
+**confederal council,** which would consist of mandated, recallable, and
+rotating delegates from the neighbourhood assemblies. These delegates would
+co-ordinate policies which have been discussed and voted on by the
+neighbourhood assemblies, with the votes being summed across the district to
+determine district policy. The issues to be discussed by these confederal
+meetings/assemblies would be proposed by local communes, the confederal
+council would collate these proposals and submit them to the other communes in
+the confederation for discussion. Thus the flow of decision making would be
+from the bottom up, with the "lowest" bodies having the most power,
+particularly the power to formulate, suggest, correct and, if need be, reject
+decisions made at "higher" levels in the confederation.
+
+Ties between bioregions or larger territories based on the distribution of
+such things as geographically concentrated mineral deposits, climate dependent
+crops, and production facilities that are most efficient when concentrated in
+one area will unite communities confederally on the basis of common material
+needs as well as values. At the bioregional and higher levels of
+confederation, councils of mandated, recallable, and rotating delegates will
+co-ordinate policies at those levels, but such policies will still be subject
+to approval by the neighbourhood and community assemblies through their right
+to recall their delegates and revoke their decisions.
+
 In summary, the size and scale of confederations will depend on practical
 considerations, based on what people found were optimal sizes for their
 neighbourhood assemblies and the needs of co-operation between them, towns,
 cities, regions and so on. We cannot, and have no wish, to predict the
 development of a free society. Therefore the scale and levels of confederation
-will be decided by those actually creating an anarchist world although it is
-almost certain that levels of confederation would be dependent on the number
-of delegates required. After a certain number, the confederation assembly may
-became difficult to manage, so implying that another level of confederation is
-required. This would, undoubtedly, be the base for determining the scale and
-level of confederation, ensuring that any confederal assembly can actually
-manage its activities and remain under the control of lower levels.
-
-Finally, confederations are required to ensure solidarity can be expressed in
-the unlikely situation of local oppression. After all, history is full of
-local communities which have been oppressive to minorities within them (most
-obviously, the American South) and so confederation is required so that
-members of any such minority can appeal for help and mutual aid to end its
-domination. Equally, though, confederation is needed to ensure that local
-communes can experiment and try out new ideas without having to wait until the
-majority agree to it as would be required in a centralised system.
+will be decided by those actually creating an anarchist world. All we can do
+is make a few suggestions of what seems likely.
 
 Thus confederations of communes are required to co-ordinate joint activity and
-discuss common issues and interests. It is also required to protect
-individual, community and social freedom as well as allowing social
-experimentation and protecting the distinctiveness, dignity, freedom and self-
-management of communities and so society as a whole. Thus _"socialism is
-federalist"_ and _"true federalism, the political organisation of socialism,
-will be attained only when these popular grass-roots institutions [namely,
-_"communes, industrial and agricultural associations"_] are organised in
-progressive stages from the bottom up."_ [Bakunin, **Bakunin on Anarchism**,
-p. 402]
+discuss common issues and interests. Confederation is also required to protect
+individual, community and social freedom, allow social experimentation and
+protect the distinctiveness, dignity, freedom and self-management of
+communities and so society as a whole. This is why _"socialism is federalist"_
+and _"true federalism, the political organisation of socialism, will be
+attained only" _when_ "popular grass-roots institutions"_ like_ "communes,
+industrial and agricultural associations"_ are_ "organised in progressive
+stages from the bottom up."_ [**Bakunin on Anarchism**, p. 402]
 
 ## I.5.3 Would confederations produce bureaucrats and politicians?
 
@@ -712,7 +746,7 @@ Of course, **any** organisation holds the danger that the few who have been
 given tasks to perform could misuse their position for personal benefit or,
 over time, evolve into a bureaucracy with power over the rest of society. As
 such, some critics of social anarchism suggest that a system of communes and
-confederations would simply be a breeding ground for politicians and
+confederation would simply be a breeding ground for politicians and
 bureaucrats. This is obviously the case with the state and many generalise
 from this experience for **all** forms of social organisation, including the
 anarchist commune.
@@ -720,19 +754,18 @@ anarchist commune.
 While recognising that this **is** a danger, anarchists are sure that such
 developments are unlikely in an anarchy. This is because, based on our
 analysis and critique of the state, we have long argued for various
-institutional arrangements which reduce the danger of such things developing.
-These include electing delegates rather than representatives, giving these
-delegates a binding mandate and subjecting them to instant recall by their
-electors. They would **not**, in general, be paid and so, in other words,
-delegates are expected, as far as possible, to remain in their current
-communities and conduct their communal tasks after their usual work. For the
-few exceptions to this that may occur, delegates would receive the average pay
-of their commune, in mutualism and collectivism or, in communism, no special
-access to communal resources. Moreover, it seems likely that regular rotation
-of delegates would be utilised and, perhaps, random selection as happens in
-jury duty today in many countries. Lastly, communes could leave any
-confederation if its structure was becoming obviously misshapen and
-bureaucratic.
+institutional arrangements which, we think, reduce the danger of such things
+developing. These include electing delegates rather than representatives,
+giving these delegates a binding mandate and subjecting them to instant recall
+by their electors. They would **not**, in general, be paid and so delegates
+are expected, as far as possible, to remain in their current communities,
+conducting their communal tasks after their usual work. For the few exceptions
+to this that may occur, delegates would receive the average pay of their
+commune, in mutualism and collectivism or, in communism, no special access to
+communal resources. Moreover, it seems likely that regular rotation of
+delegates would be utilised and, perhaps random selection as happens in jury
+duty today in many countries. Lastly, communes could leave any confederation
+if its structure was becoming obviously misshapen and bureaucratic.
 
 By these methods, delegates to communal bodies would remain under the control
 of their electors and not, as in the state, become their masters. Moreover,
@@ -743,9 +776,10 @@ bureaucrats. This means, as Bakunin put it in 1868, that _"the Communal
 Council"_ (made up of delegates _"with binding mandates and accountable and
 revocable at all times"_) would create _"separate executive committees from
 among its membership for each branch of the Commune's revolutionary
-administration."_ [Bakunin, **No Gods, No Masters**, vol. 1, p. 155] Thus
+administration."_ [Bakunin, **No Gods, No Masters**, vol. 1, p. 155] This
 would no longer be a body of people, a government, separate from the delegates
-of the people. This, it should be noted, echoed Proudhon's comments from 1848:
+of the people. This, it should be noted, repeats Proudhon's comments from
+1848:
 
 > _"It is up to the National Assembly, through organisation of its committees,
 to exercise executive power, just the way it exercises legislative power . . .
@@ -778,21 +812,18 @@ it is based upon _"**distrust of all executive powers.**"_ [**The Great French
 Revolution**, Vol. 1, p. 211]
 
 The current means of co-ordinating wide scale activity -- centralism via the
-state -- is a threat to freedom as, to quote Proudhon, _"the citizen divests
-himself of sovereignty, the town and the Department and province above it,
-absorbed by central authority, are no longer anything but agencies under
-direct ministerial control."_ _"The Consequences"_ he continued, _"soon make
-themselves felt: the citizen and the town are deprived of all dignity, the
-state's depredations multiply, and the burden on the taxpayer increases in
-proportion. It is no longer the government that is made for the people; it is
-the people who are made for the government. Power invades everything,
-dominates everything, absorbs everything."_ [**The Principle of Federation**,
-p. 59] In such a regime, the generation of a specific caste of politicians and
-bureaucrats is inevitable.
+state -- is a threat to freedom as, to quote Proudhon, _"the citizens resign
+their sovereignty" _and_ _the commune_, _the department and province _"are
+absorbed into the central authority, becoming mere agencies under the
+immediate direction of the ministry."_ The consequences are obvious_: "the
+citizen and the commune being deprived of all dignity, the invasions of the
+State increase . . . It is no longer the government that is made for the
+people, it is the people that is made for the government. Power invades
+everything, seizes everything, claims everything."_ [**Property is Theft!**,
+p. 706] In such a regime, the generation of a specific caste of politicians
+and bureaucrats is inevitable.
 
-
-
- Moreover, _"[t]he principle of political centralism is openly opposed to all
+Moreover, _"[t]he principle of political centralism is openly opposed to all
 laws of social progress and of natural evolution. It lies in the nature of
 things that every cultural advance is first achieved within a small group and
 only gradually finds adoption by society as a whole. Therefore, political
@@ -800,7 +831,7 @@ decentralisation is the best guaranty for the unrestricted possibilities of
 new experiments. For such an environment each community is given the
 opportunity to carry through the things which it is capable of accomplishing
 itself without imposing them on others. Practical experimentation is the
-parent of ever development in society. So long as each distinct is capable of
+parent of every development in society. So long as each district is capable of
 effecting the changes within its own sphere which its citizens deem necessary,
 the example of each becomes a fructifying influence on the other parts of the
 community since they will have the chance to weigh the advantages accruing
@@ -822,23 +853,19 @@ effect no changes without the consent of the central government, the most
 progressive districts will be condemned to stagnate while the most backward
 districts will set the norm."_ [**Op. Cit.**, p. 17]
 
+Little wonder anarchists have always stressed what Kropotkin termed _"local
+action"_ and argued that the libertarian social revolution would _"proceed by
+proclaiming independent Communes" _which _"will endeavour to accomplish the
+economic transformation within . . . their respective surroundings."_ [**Act
+For Yourselves**, p. 43] Thus the advanced communities will inspire the rest
+to follow them by showing them a practical example of what is possible. Only
+decentralisation and confederation can promote the freedom and resulting
+social experimentation which will ensure social progress and make society a
+good place to live.
 
-
- Little wonder anarchists have always stressed what Kropotkin termed _"local
-action"_ and considered the libertarian social revolution as _"proceed[ing] by
-proclaiming independent Communes which Communes will endeavour to accomplish
-the economic transformation within . . . their respective surroundings."_
-[Peter Kropotkin, **Act For Yourselves**, p. 43] Thus the advanced communities
-will inspire the rest to follow them by showing them a practical example of
-what is possible. Only decentralisation and confederation can promote the
-freedom and resulting social experimentation which will ensure social progress
-and make society a good place to live.
-
-
-
- Moreover, confederation is required to maximise self-management and reduce
-the possibility that delegates will become isolated from the people who
-mandated them. As Rocker explained:
+Moreover, confederation is required to maximise self-management and reduce the
+possibility that delegates will become isolated from the people who mandated
+them. As Rocker explained:
 
 > _"In a smaller community, it is far easier for individuals to observe the
 political scene and become acquainted with the issues which have to be
@@ -854,17 +881,13 @@ criticise the conduct of his representative, the class of professional
 politicians is given added opportunity to fish in troubled waters."_ [**Op.
 Cit.**, p. 17-18]
 
+These principles, it must be stressed, have been successfully applied on a
+mass scale. For example, this is how anarcho-syndicalist unions operate and,
+as was the case with the CNT in Spain in the 1930s, worked well with over one
+million members. They were also successfully applied during the Spanish
+Revolution and the federations of collectives produced by it.
 
-
- These principles, it must be stressed, have worked well on a mass scale For
-example, this is how anarcho-syndicalist unions operate and, as was the case
-with the CNT in Spain in the 1930s, worked well with over one million members.
-There were also successfully applied during the Spanish Revolution and the
-federations of collectives produced by it.
-
-
-
- So the way communes and confederations are organised protect society and the
+So the way communes and confederations are organised protect society and the
 individual against the dangers of centralisation, from the turning of
 delegates into representatives and bureaucrats. As Bakunin stressed, there are
 two ways of organising society, _"as it is today, from high to low and from
@@ -880,40 +903,32 @@ mandates, recall, decentralisation, federalism, etc.) which will reduce such
 developments to a small, and so manageable, level (if not eliminate it
 totally).
 
+## I.5.4 How will anything ever be decided by all these meetings?
 
-
- ## I.5.4 How will anything ever be decided by all these meetings?
-
-
-
- Anarchists have little doubt that the confederal structure will be an
+Anarchists have little doubt that the confederal structure will be an
 efficient means of decision making and will not be bogged down in endless
-meetings. We have various reasons for thinking this. After all, as Murray
-Bookchin once noted, _"[h]istory does provide us with a number of working
-examples of forms that are largely libertarian. It also provides us with
-examples of confederations and leagues that made the co-ordination of self-
-governing communities feasible without impinging on their autonomy and
-freedom."_ [**The Ecology of Freedom**, p. 436]
+meetings. We have various reasons for thinking this. As Murray Bookchin once
+noted: _"History does provide us with a number of working examples of forms
+that are largely libertarian. It also provides us with examples of
+confederations and leagues that made the coordination of self-governing
+communities feasible without impinging on their autonomy and freedom."_ [**The
+Ecology of Freedom**, p. 436]
 
-
-
- Firstly, we doubt that a free society will spend all its time in assemblies
-or organising confederal conferences. Certain questions are more important
-than others and few anarchists desire to spend all their time in meetings. The
-aim of a free society is to allow individuals to express their desires and
-wants freely -- they cannot do that if they are continually at meetings (or
+Firstly, we doubt that a free society will spend all its time in assemblies or
+organising confederal conferences. Certain questions are more important than
+others and few anarchists desire to spend all their time in meetings. The aim
+of a free society is to allow individuals to express their desires and wants
+freely -- they cannot do that if they are continually at meetings (or
 preparing for them). So while communal and confederal assemblies will play an
 important role in a free society, do not think that they will be occurring all
 the time or that anarchists desire to make meetings the focal point of
 individual life. Far from it!
 
-
-
- Thus communal assemblies may occur, say, once a week, or fortnightly or
+Thus communal assemblies may occur, say, once a week, or fortnightly or
 monthly in order to discuss truly important issues. There would be no real
 desire to meet continuously to discuss every issue under the sun and few
 people would tolerate this occurring. This would mean that such meetings would
-current regularly and when important issues needed to be discussed, **not**
+occur regularly and when important issues needed to be discussed, **not**
 continuously (although, if required, continuous assembly or daily meetings may
 have to be organised in emergency situations but this would be rare). Nor is
 it expected that everyone will attend every meeting for _"[w]hat is decisive,
@@ -922,14 +937,12 @@ not the compulsive need to do so."_ [**Op. Cit.**, p. 435] This suggests that
 meetings will be attended by those with a specific interest in an issue being
 discussed and so would be focused as a result.
 
-
-
- Secondly, it is extremely doubtful that a free people would desire waste vast
-amounts of time at such meetings. While important and essential, communal and
-confederal meetings would be functional in the extreme and not forums for hot
-air. It would be the case that those involved in such meetings would quickly
-make their feelings known to time wasters and those who like the sound of
-their own voices. Thus Cornelius Castoriadis:
+Secondly, it is extremely doubtful that a free people would desire to waste
+vast amounts of time at such meetings. While important and essential, communal
+and confederal meetings would be functional in the extreme and not forums for
+hot air. It would be the case that those involved in such meetings would
+quickly make their feelings known to time wasters and those who like the sound
+of their own voices. Thus Cornelius Castoriadis:
 
 > _"It might be claimed that the problem of numbers remains and that people
 never would be able to express themselves in a reasonable amount of time. This
@@ -948,126 +961,121 @@ revolutionary assemblies, see Trotsky's account of the Petrograd soviet of
 1905 -- or accounts of the meetings of factory representatives in Budapest in
 1956."_ [**Political and Social Writings**, vol. 2, pp. 144-5]
 
-
-
- As we shall see below, this was definitely the case during the Spanish
+As we shall see below, this was definitely the case during the Spanish
 Revolution as well.
 
+Thirdly, as these assemblies and congresses are concerned purely with joint
+activity and co-ordination, it is likely that they will not be called very
+often. Different associations, syndicates and co-operatives have a functional
+need for co-operation and so would meet more regularly and take action on
+practical activity which affects a specific section of a community or group of
+communities. Not every issue that a member of a community is interested in is
+necessarily best discussed at a meeting of all members of a community or at a
+confederal conference. As Herbert Read suggested, anarchism _"proposes to
+liquidate the bureaucracy first by federal devolution"_ and so _"hands over to
+the syndicates all . . . administrative functions"_ related to such things as
+_"transport, and distribution, health and education."_ [**Anarchy and Order**,
+p. 101] Such issues will be mainly discussed in the syndicates involved and so
+community discussion would be focused on important issues and themes of
+general policy rather than the specific and detailed laws discussed and
+implemented by politicians who know nothing about the issues or industries at
+hand.
 
+In other words, communal assemblies and conferences will have specific, well-
+defined agendas, and so there is little danger of "politics" (for want of a
+better word!) taking up everyone's time. Hence, far from discussing abstract
+laws and pointless motions on everything under the sun and which no one
+actually knows much about, the issues discussed in these conferences will be
+on specific issues which are important to those involved. In addition, the
+standard procedure may be to elect a sub-group to investigate an issue and
+report back at a later stage with recommendations. The conference can change,
+accept, or reject any proposals.
 
- Thirdly, as these assemblies and congresses are concerned purely with joint
-activity and co-ordination. Different associations and syndicates have a
-functional need for co-operation and so would meet more regularly and take
-action on practical activity which affects a specific section of a community
-or group of communities. Not every issue that a member of a community is
-interested in is necessarily best discussed at a meeting of all members of a
-community or at a confederal conference. As Herbert Read suggested, anarchism
-_"proposes to liquidate the bureaucracy first by federal devolution"_ and so
-_"hands over to the syndicates all . . . administrative functions"_ related to
-such things as _"transport, and distribution, health and education."_
-[**Anarchy and Order**, p. 101] Such issues will be mainly discussed in the
-syndicates involved and so community discussion would be focused on important
-issues and themes of general policy rather than the specific and detailed laws
-discussed and implemented by politicians who know nothing about the issues or
-industries at hand.
+As Kropotkin argued, anarchy would be based on _"free agreement, by exchange
+of letters and proposals, and by congresses at which delegates met to discuss
+well specified points, and to come to an agreement about them, but not to make
+laws. After the congress was over, the delegates" _would return_ "not with a
+law, but with the draft of a contract to be accepted or rejected."_
+[**Conquest of Bread**, p. 131]
 
-
-
- By reducing conferences to functional bodies based on concrete issues, the
+By reducing conferences to functional bodies based on concrete issues, the
 problems of endless discussions can be reduced, if not totally eliminated. In
 addition, as functional groups would exist outside of these communal
 confederations (for example, industrial collectives would organise conferences
 about their industry with invited participants from consumer groups), there
 would be a limited agenda in most communal get-togethers.
 
+The most important issues would be to agree on the guidelines for industrial
+activity, communal investment (e.g. houses, hospitals, etc.) and overall co-
+ordination of large scale communal activities. In this way everyone would be
+part of the commonwealth, deciding on how resources would be used to maximise
+human well-being and ecological survival. The problems associated with _"the
+tyranny of small decisions"_ would be overcome without undermining individual
+freedom. (In fact, a healthy community would enrich and develop individuality
+by encouraging independent and critical thought, social interaction, and
+empowering social institutions based on self-management).
 
-
- In other words, communal assemblies and conferences will have specific, well
-defined agendas, and so there is little danger of "politics" (for want of a
-better word!) taking up everyone's time. Hence, far from discussing abstract
-laws and pointless motions on everything under the sun and on which no one
-actually knows much about, the issues discussed in these conferences will be
-on specific issues which are important to those involved. In addition, the
-standard procedure may be to elect a sub-group to investigate an issue and
-report back at a later stage with recommendations. The conference can change,
-accept, or reject any proposals. As Kropotkin argued, anarchy would be based
-on _"free agreement, by exchange of letters and proposals, and by congresses
-at which delegates met to discuss well specified points, and to come to an
-agreement about them, but not to make laws. After the congress was over, the
-delegates [would return] . . . not with a law, but with the draft of a
-contract to be accepted or rejected."_ [**Conquest of Bread**, p. 131]
-
-
-
- Is this system fantasy? Given that such a system has existed and worked at
+Is such a system fantasy? Given that such a system has existed and worked at
 various times, we can safely argue that it is not. Obviously we cannot cover
 **every** example, so we point to just two -- revolutionary Paris and Spain.
 
-
-
- As Murray Bookchin points out, Paris _"in the late eighteenth century was, by
+As Murray Bookchin points out, Paris _"in the late eighteenth century was, by
 the standards of that time, one of the largest and economically most complex
 cities in Europe: its population approximated a million people . . . Yet in
 1793, at the height of the French Revolution, the city was managed
 **institutionally** almost entirely by [48] citizen assemblies. . . and its
 affairs were co-ordinated by the **Commune** .. . and often, in fact, by the
 assemblies themselves, or sections as they were called, which established
-their own interconnections without recourse to the **Commune.**"_
-[_"Transition to the Ecological Society"_, pp. 92-105, **Society and Nature**,
-no. 3, p. 96]
+their own interconnections without recourse to the **Commune.**"_ ["Transition
+to the Ecological Society", pp. 92-105, **Society and Nature**, no. 3, p. 96]
 
+Here is his account of how communal self-government worked in practice:
 
+> _"What, then, were these little-known forty-eight sections of Paris . . .
+How were they organised? And how did they function? _
 
- Here is his account of how communal self-government worked in practice:
+> _"Ideologically, the **sectionnaires** (as their members were called)
+believed primarily in sovereignty of the people. This concept of popular
+sovereignty, as Albert Soboul observes, was for them 'not an abstraction, but
+the concrete reality of the people united in sectional assemblies and
+exercising all their rights.' It was in their eyes an inalienable right, or,
+as the section de la Cite declared in November 1792, 'every man who assumes to
+have sovereignty [over others] will be regarded as a tyrant, usurper of public
+liberty and worthy of death.' _
 
-> _"What, then, were these little-know forty-eight sections of Paris . . . How
-were they organised? And how did they function?
-
-"Ideologically, the **sectionnaires** (as their members were called) believed
-primarily in sovereignty of the people. This concept of popular sovereignty,
-as Albert Soboul observes, was for them 'not an abstraction, but the concrete
-reality of the people united in sectional assemblies and exercising all their
-rights.' It was in their eyes an inalienable right, or, as the section de la
-Cite declared in November 1792, 'every man who assumes to have sovereignty
-will be regarded as a tyrant, usurper of public liberty and worthy of death.'
-
-"Sovereignty, in effect, was to be enjoyed by **all** citizens, not pre-empted
-by 'representatives' . . . The radical democrats of 1793 thus assumed that
-every adult was, to one degree or another, competent to participate in
+> _"Sovereignty, in effect, was to be enjoyed by **all** citizens, not pre-
+empted by 'representatives' . . . The radical democrats of 1793 thus assumed
+that every adult was, to one degree or another, competent to participate in
 management public affairs. Thus, each section . . . was structured around a
 **face-to-face democracy**: basically a general assembly of the people that
 formed the most important deliberative body of a section, and served as the
 incarnation of popular power in a given part of the city . . . each elected
 six deputies to the Commune, presumably for the purpose merely of co-
-ordinating all the sections in the city of Paris.
+ordinating all the sections in the city of Paris. _
 
-"Each section also had its own various administrative committees, whose
+> _"Each section also had its own various administrative committees, whose
 members were also recruited from the general assembly."_ [**The Third
 Revolution**, vol. 1, p. 319]
 
+Little wonder Kropotkin argued that these "sections" showed _"the principles
+of anarchism"_ had_ "their origin, not in theoretical speculations, but in the
+**deeds** of the Great French Revolution"_ [**The Great French Revolution**,
+vol. 1, p. 204]
 
-
- Little wonder Kropotkin argued that these "sections" showed _"the principles
-of anarchism . . . had their origin, not in theoretical speculations, but in
-the **deeds** of the Great French Revolution"_ [**The Great French
-Revolution**, vol. 1, p. 204]
-
-
-
- Communal self-government was also practised, and on a far wider scale, in
-revolutionary Spain where workers and peasants formed communes and federations
-of communes (see [section I.8](secI8.html) for fuller details). Gaston Leval
-summarised the experience:
+Communal self-government was also practised, and on a far wider scale, in
+revolutionary Spain. All across Republican Spain, workers and peasants formed
+communes and federations of communes (see [section I.8](secI8.html) for fuller
+details). Gaston Leval summarised the experience:
 
 > _"There was, in the organisation set in motion by the Spanish Revolution and
 by the libertarian movement, which was its mainspring, a structuring from the
 bottom to the top, which corresponds to a real federation and true democracy .
-. . the controlling and co-ordinating Comites, clearly indispensable, do not
-go outside the organisation that has chosen them, they remain in their midst,
-always controllable by and accessible to the members. If any individuals
-contradict by their actions their mandates, it is possible to call them to
-order, to reprimand them, to replace them. It is only by and in such a system
-that the 'majority lays down the law.'_
+. . the controlling and co-ordinating **Comités** [Committees], clearly
+indispensable, do not go outside the organisation that has chosen them, **they
+remain in their midst**, always controllable by and accessible to the members.
+If any individuals contradict by their actions their mandates, it is possible
+to call them to order, to reprimand them, to replace them. It is only by and
+in such a system that the 'majority lays down the law.'_
 
 > _"The syndical assemblies were the expression and the practice of
 libertarian democracy, a democracy having nothing in common with the democracy
@@ -1095,16 +1103,16 @@ awareness of the duties, responsibilities of each spread all the time to a
 determining and decisive degree . . . _
 
 > _"The practice of this democracy also extended to the agricultural regions .
-. . the decision to nominate a local management Comite for the villages was
-taken by general meetings of the inhabitants of villages, how the delegates in
-the different essential tasks which demanded an indispensable co-ordination of
-activities were proposed and elected by the whole assembled population. But it
-is worth adding and underlining that in all the collectivised villages and all
-the partially collectivised villages, in the 400 Collectives in Aragon, in the
-900 in the Levante region, in the 300 in the Castilian region, to mention only
-the large groupings . . . the population was called together weekly,
-fortnightly or monthly and kept fully informed of everything concerning the
-commonweal. _
+. . the decision to nominate a local management **Comité** for the villages
+was taken by general meetings of the inhabitants of villages, how the
+delegates in the different essential tasks which demanded an indispensable co-
+ordination of activities were proposed and elected by the whole assembled
+population. But it is worth adding and underlining that in all the
+collectivised villages and all the partially collectivised villages, in the
+400 Collectives in Aragon, in the 900 in the Levante region, in the 300 in the
+Castilian region, to mention only the large groupings . . . the population was
+called together weekly, fortnightly or monthly and kept fully informed of
+everything concerning the commonweal. _
 
 > _"This writer was present at a number of these assemblies in Aragon, where
 the reports on the various questions making up the agenda allowed the
@@ -1116,36 +1124,27 @@ democratically elected without the possibility of objecting, did not happen
 there. The assemblies were public, the objections, the proposals publicly
 discussed, everybody being free, as in the syndical assemblies, to participate
 in the discussions, to criticise, propose, etc. Democracy extended to the
-whole of social life."_ [**Collectives in the Spanish Revolution**, pp. 205-7]
+whole of social life."_ [**Collectives in the Spanish Revolution**, pp. 204-7]
 
-
-
- These collectives organised federations embracing thousands of communes and
+These collectives organised federations embracing thousands of communes and
 workplaces, whole branches of industry, hundreds of thousands of people and
 whole regions of Spain. As such, it was a striking confirmation of Proudhon's
 argument that under federalism _"the sovereignty of the contracting parties .
 . . serves as a positive guarantee of the liberty of . . . communes and
 individuals. So, no longer do we have the abstraction of people's sovereignty
-. . . but an effective sovereignty of the labouring masses."_ The _"labouring
-masses are actually, positively and effectively sovereign: how could they not
-be when the economic organism -- labour, capital, property and assets --
-belongs to them entirely . . . ?"_ [**Anarchism**, vol. 1, Robert Graham
-(ed.), p. 75]
+. . . but an effective sovereignty of the labouring masses"_and_ "the
+labouring masses are actually, positively and effectively sovereign: how could
+they not be when the economic organism -- labour, capital, property and assets
+-- belongs to them entirely."_ [**Property is Theft!**, pp. 760-1]
 
-
-
- In other words, it **is** possible. It **has** worked. With the massive
+> In other words, it **is** possible. It **has** worked. With the massive
 improvements in communication technology it is even more viable than before.
 Whether or not we reach such a self-managed society depends on whether we
 desire to be free or not.
 
+## I.5.5 Aren't participatory communities and confederations just new states?
 
-
- ## I.5.5 Aren't participatory communities and confederations just new states?
-
-
-
- No. As we have seen in [section B.2](secB2.html), a state can be defined both
+No. As we have seen in [section B.2](secB2.html), a state can be defined both
 by its structure and its function. As far as structure is concerned, a state
 involves the politico-military and economic domination of a certain
 geographical territory by a ruling elite, based on the delegation of power
@@ -1153,57 +1152,49 @@ into the hands of the few, resulting in hierarchy (centralised authority). As
 such, it would be a massive theoretical error to confuse any form of social
 organisation with the specific form which is the state.
 
+As we have discussed in [section H.3.7](secH3.html#sech37), the state has
+evolved its specific characteristics as a result of its role as an instrument
+of class rule. If a social organisation does not have these characteristics
+then it is not a state. Thus, for anarchists, _"the essence of the state"_ is
+_"centralised power **or to put it another way the coercive authority** of
+which the state enjoys the monopoly, in that organisation of violence known as
+'government'; in the hierarchical despotism, juridical, police and military
+despotism that imposes laws on everyone."_ [Luigi Fabbri, _"Anarchy and
+'Scientific' Communism"_, in **The Poverty of Statism**, pp. 13-49, Albert
+Meltzer (ed.), pp. 24-5] This is why Malatesta stressed that the state _"means
+the delegation of power, that is the abdication of initiative and sovereignty
+of all into the hands of a few."_ [**Anarchy**, p. 41] If a social
+organisation is **not** centralised and top-down then it is not a state.
 
-
- As we have discussed in [section H.3.7](secH3.html#sech37), the state has
-evolved its specific characteristics as a result of its function as an
-instrument of class rule. If a social organisation does not have these
-characteristics then it is not a state. Thus, for anarchists, _"the essence of
-the state"_ is _"centralised power **or to put it another way the coercive
-authority** of which the state enjoys the monopoly, in that organisation of
-violence know as 'government'; in the hierarchical despotism, juridical,
-police and military despotism that imposes laws on everyone."_ [Luigi Fabbri,
-_"Anarchy and 'Scientific' Communism"_, in **The Poverty of Statism**, pp.
-13-49, Albert Meltzer (ed.), pp. 24-5] This is why Malatesta stressed that the
-state _"means the delegation of power, that is the abdication of initiative
-and sovereignty of all into the hands of a few."_ [**Anarchy**, p. 41] If a
-social organisation is **not** centralised and top-down then it is not a
-state.
-
-
-
- In a system of federated participatory communities there is no ruling elite,
+In a system of federated participatory communities there is no ruling elite,
 and thus no hierarchy, because power is retained by the lowest-level units of
 confederation through their use of direct democracy and mandated, rotating,
-and recallable delegates to confederal bodies. This eliminates the problem in
-"representative" democratic systems of the delegation of power leading to the
-elected officials becoming isolated from and beyond the control of the mass of
-people who elected them. An anarchist society would make decisions by _"means
-of congresses, composed of delegates, who discuss among themselves, and submit
-**proposals**, not **laws**, to their constituents"_ [Kropotkin, **The
-Conquest of Bread**, p. 135] So it is based on **self**-government, **not**
-representative government (and its inevitable bureaucracy). As Proudhon put
-it, _"the federal system is the contrary of hierarchy or administrative and
-governmental centralisation"_ and so _"a confederation is not exactly a state
-. . . What is called federal authority . . . is no longer a government; it is
-an agency created . . . for the joint execution of certain functions"_. [**The
-Principle of Federation**, pp. 40-1]
+and recallable delegates to meetings of higher-level confederal bodies. This
+eliminates the problem in "representative" democratic systems of the
+delegation of power leading to the elected officials becoming isolated from
+and beyond the control of the mass of people who elected them. As Kropotkin
+pointed out, an anarchist society would make decisions by _"means of
+congresses, composed of delegates, who discuss among themselves, and submit
+**proposals**, not **laws**, to their constituents"_ [**The Conquest of
+Bread**, p. 135] So it is based on **self**-government, **not** representative
+government (and its inevitable bureaucracy). As Proudhon put it, _"the
+federative system is the opposite of administrative and governmental hierarchy
+or centralisation"_ and so _"a confederation is not precisely a state . . .
+What we call a federative Authority, finally, is not a government; it is an
+agency created . . . for the common running of some services"_. [**Property is
+Theft!**, pp. 697-8]
 
-
-
- Perhaps it will be objected that communal decision making is just a form of
+Perhaps it will be objected that communal decision making is just a form of
 "statism" based on direct, as opposed to representative, democracy --
-"statist" because the individual is still be subject to the rules of the
+"statist" because the individual is still being subject to the rules of the
 majority and so is not free. This objection, however, confuses statism with
 free agreement (i.e. co-operation). Since participatory communities, like
 productive syndicates, are voluntary associations, the decisions they make are
 based on self-assumed obligations (see [section A.2.11](secA2.html#seca211)),
 and dissenters can leave the association if they so desire. Thus communes are
-no more "statist" than the act of promising and keeping your word.
+no more "statist" than the act of promising and keeping ones word.
 
-
-
- In addition, in a free society, dissent and direct action can be used by
+In addition, in a free society, dissent and direct action can be used by
 minorities to press their case (or defend their freedom) as well as debate. As
 Carole Pateman argues, _"[p]olitical disobedience is merely one possible
 expression of the active citizenship on which a self-managing democracy is
@@ -1219,14 +1210,12 @@ a society based on voluntary agreements and self-management would, out of
 interpersonal empathy and self-interest, create a society that encouraged
 individuality and respect for minorities.
 
-
-
- Therefore, a commune's participatory nature is the opposite of statism. April
+Therefore, a commune's participatory nature is the opposite of statism. April
 Carter agrees, stating that _"commitment to direct democracy or anarchy in the
 socio-political sphere is incompatible with political authority"_ and that the
 _"only authority that can exist in a direct democracy is the collective
 'authority' vested in the body politic . . . it is doubtful if authority can
-be created by a group of equals who reach decisions be a process of mutual
+be created by a group of equals who reach decisions by a process of mutual
 persuasion."_ [**Authority and Democracy**, p. 69 and p. 380] Which echoes, we
 must note, Proudhon's comment that _"the true meaning of the word
 'democracy'"_ was the _"dismissal of government."_ [**No Gods, No Masters**,
@@ -1241,13 +1230,11 @@ Revolution the masses _"practic[ed] what was to be described later as Direct
 Self-Government"_ and expressed _"the principles of anarchism."_ [**The Great
 French Revolution**, vol. 1, p. 200 and p. 204]
 
-
-
- Anarchists argue that individuals and the institutions they create cannot be
+Anarchists argue that individuals and the institutions they create cannot be
 considered in isolation. Authoritarian institutions will create individuals
-who have a servile nature, who cannot govern themselves. We, therefore,
-consider it common sense that individuals, in order to be free, **must** have
-take part in determining the general agreements they make with their
+who have a servile nature, who cannot govern themselves. Anarchists,
+therefore, consider it common sense that individuals, in order to be free,
+**must** take part in determining the general agreements they make with their
 neighbours which give form to their communities. Otherwise, a free society
 could not exist and individuals would be subject to rules others make **for**
 them (following orders is hardly libertarian). Somewhat ironically, those who
@@ -1263,9 +1250,7 @@ its social roots is as meaningless as to speak of a society that contains no
 people or institutions."_ [**Anarchism, Marxism, and the Future of the Left**,
 p. 154]
 
-
-
- Society cannot be avoided and _"[u]nless everyone is to be psychologically
+Society cannot be avoided and _"[u]nless everyone is to be psychologically
 homogeneous and society's interests so uniform in character that dissent is
 simply meaningless, there must be room for conflicting proposals, discussion,
 rational explication and majority decisions - in short, democracy."_
@@ -1273,32 +1258,28 @@ rational explication and majority decisions - in short, democracy."_
 liberty (such as many supporters of capitalism claim to do) usually also see
 the need for laws and hierarchical authority (particularly in the workplace).
 This is unsurprising, as such authority is the only means left by which
-collective activity can be co-ordinated if self-management is rejected (which
-is ironic as the resulting institutions, such as a capitalist company, are far
-more statist than self-managed ones).
+collective activity can be co-ordinated if self-management is rejected
+(usually as "statist", which is ironic as the resulting institutions, such as
+a capitalist company, are far more statist than self-managed ones).
 
+So, far from being new states by which one section of a community
+(historically, almost always a wealthy ruling minority) imposes its ethical
+standards on another, the anarchist commune is just a public forum. In this
+forum, issues of community interest (for example, management of the commons,
+control of communalised economic activity, and so forth) are discussed and
+policy agreed upon. In addition, interests beyond a local area are also
+discussed and delegates for confederal conferences are mandated with the
+wishes of the community. Hence, administration of things replaces government
+of people, with the community of communities existing to ensure that the
+interests of all are managed by all and that liberty, justice and equality for
+all are more than just ideals. Moreover, a free society would be one without
+professional bodies of armed people (i.e., there would be no armed forces or
+police). It would not have the means of enforcing the decisions of conferences
+and communes which reflected the interests of a few (would-be politicians or
+bureaucrats) rather than popular opinion.
 
-
- So, far from being new states by which one section of a community
-(historically, almost always a wealthy elite) imposes its ethical standards on
-another, the anarchist commune is just a public forum. In this forum, issues
-of community interest (for example, management of the commons, control of
-communalised economic activity, and so forth) are discussed and policy agreed
-upon. In addition, interests beyond a local area are also discussed and
-delegates for confederal conferences are mandated with the wishes of the
-community. Hence, administration of things replaces government of people, with
-the community of communities existing to ensure that the interests of all are
-managed by all and that liberty, justice and equality for all are more than
-just ideals. Moreover, a free society would be one without professional bodies
-of armed people (i.e., there would be no armed forces or police). It would not
-have the means of enforcing the decisions of conferences and communes which
-reflected the interests of a few (would-be politicians or bureaucrats) rather
-than popular opinion.
-
-
-
- Of course, it could be argued that popular opinion can be as oppressive as
-any state, a possibility anarchists are aware of and take steps to combat.
+Of course, it could be argued that popular opinion can be as oppressive as any
+state, a possibility anarchists are aware of and take steps to combat.
 Remember, the communities and confederations of a free society would be made
 up of free people. They would **not** be too concerned with the personal
 behaviour of others unless it impacted on their own lives. As such, they would
@@ -1306,40 +1287,33 @@ not be seeking to restrict the liberty of those who live with them. A
 community, therefore, is unlikely to make decisions like, for example,
 outlawing homosexuality or censoring the press. This is not to say that there
 is no danger of majorities abusing minorities. As we discuss in the [next
-section](secI5.html#seci56), anarchists suggest means of reducing it, even
-eliminating it. Suffice to say, a free society would seek to encourage
-diversity and so leave minorities free to live their own lives (assuming they
-are not oppressing or exploiting others, of course).
+section](secI5.html#seci56), anarchists are aware of this possibility and
+suggest means of reducing it, even eliminating it. Suffice to say, a free
+society would seek to encourage diversity and so leave minorities free to live
+their own lives (assuming they are not oppressing or exploiting others, of
+course).
 
-
-
- For these reasons, a libertarian-socialist society would not have a state.
+For these reasons, a libertarian-socialist society would not have a state.
 Structurally, it would be based on egalitarian and decentralised institutions,
 the direct opposite of the hierarchical and centralised state. Functionally,
 it would be based on mass participation of all to ensure they manage their own
-affairs rather than, as in a state, exclusion of the many to ensure the rule
-of an elite. The communes and confederations of a libertarian system are not
-just states with new names but rather the forums by which free people manage
-their own affairs rather than being ruled by a state and its politicians and
-bureaucrats.
+affairs rather than, in a state, exclusion of the many to ensure the rule by
+an elite (usually the wealthy). The communes and confederations of a
+libertarian system are not just states with new names but rather the forums by
+which free people manage their own affairs rather than being ruled by a state
+and its politicians and bureaucrats.
 
+This is why Proudhon, for example, argued that _"under the democratic
+constitution . . . the political and the economic are . . . one and the same
+system . . . based upon a single principle, mutuality . . . and form this vast
+humanitarian organism of which nothing previously could give the idea."_ And
+so _"is this not the system of the old society turned upside down"_?
+[**Property is Theft!**, p. 760 and p. 761]
 
-
- This is why Proudhon argued that _"under the democratic constitution . . .
-the political and the economic are . . . one and the same system . . . based
-upon a single principle, mutuality . . . and form this vast humanitarian
-organism of which nothing previously could give the idea . . . [I]s this not
-the system of the old society turned upside down"_? [**Anarchism**, vol. 1,
-Robert Graham (ed.), pp. 74-5]
-
-
-
- ## I.5.6 Won't there be a danger of a _"tyranny of the majority"_ under
+## I.5.6 Won't there be a danger of a _"tyranny of the majority"_ under
 libertarian socialism?
 
-
-
- While the _"tyranny of the majority"_ objection does contain an important
+While the _"tyranny of the majority"_ objection does contain an important
 point, it is often raised for self-serving reasons. This is because those who
 have historically raised the issue (for example, and as discussed in [section
 B.2.5](secB2.html#secb25), creators of the 1789 American constitution like
@@ -1352,15 +1326,13 @@ favour of rule by the few -- particularly as its proponents (such as the
 propertarian right and other defenders of capitalism) have no problem with the
 autocratic rule of property owners over their wage-slaves!
 
-
-
- However, as noted, the objection to majority rule **does** contain a valid
+However, as noted, the objection to majority rule **does** contain a valid
 point and one which anarchists have addressed -- namely, what about minority
 freedom within a self-managed society? So this is a danger, one raised by
 people who are most definitely **not** seeking minority rule. For example,
-someone who was sympathetic to anarchism, George Orwell, suggested:
+someone who was sympathetic to anarchism, George Orwell, expressed this fear:
 
-> _"the totalitarian tendency . . . is explicit in the anarchist . . . vision
+> _"the totalitarian tendency which is explicit in the anarchist . . . vision
 of Society. In a Society in which there is no law, and in theory no
 compulsion, the only arbiter of behaviour is public opinion. But pubic
 opinion, because of the tremendous urge to conformity in gregarious animals,
@@ -1370,9 +1342,7 @@ eccentricity: when they are supposedly governed by 'love' or 'reason', he is
 under continuous pressure to make him behave and think in exactly the same way
 as everyone else."_ [**Inside the Whale and Other Essays**, p. 132]
 
-
-
- There is, of course, this danger in **any** society, be its decision making
+There is, of course, this danger in **any** society, be its decision making
 structure direct (anarchy) or indirect (by some form of government). However,
 this does not really address the issue to point out this obvious fact.
 Anarchists are at the forefront in expressing concern about it, recognising
@@ -1387,16 +1357,14 @@ special mission of being vigilant custodians of freedom, against all aspirants
 to power and against the possible tyranny of the majority."_ [**Errico
 Malatesta: His Life and Ideas**, p. 161]
 
-
-
- However, rather than draw elitist conclusions from this fact of life under
+However, rather than draw elitist conclusions from this fact of life under
 capitalism and urge forms of government and organisation which restrict
 popular participation (and promote rule, and tyranny, by the few) -- as
 classical liberals do -- libertarians argue that only a process of self-
 liberation through struggle and participation can break up the mass into free,
 self-managing individuals (as discussed in [section
 H.2.11](secH2.html#sech211) attempts by Leninists to portray anarchists as
-elitists are both hypocritical and false). Moreover, we also argue that
+elitists are both hypocritical and wrong). Moreover, we also argue that
 participation and self-management is the only way that majorities can come to
 see the point of minority ideas and for seeing the importance of protecting
 minority freedoms. This means that any attempt to restrict participation in
@@ -1411,45 +1379,39 @@ that experience of a participatory authority structure might also be effective
 in diminishing tendencies towards non-democratic attitudes in the
 individual."_ [**Participation and Democratic Theory**, p. 105]
 
+However, while there is cause for concern (and anarchists are at the forefront
+in expressing it), the _"tyranny of the majority"_ objection fails to take
+note of the vast difference between direct and representative forms of
+democracy.
 
-
- So while there is cause for concern (and anarchists are at the forefront in
-expressing it), the _"tyranny of the majority"_ objection fails to take note
-of the vast difference between direct and representative forms of democracy.
-
-
-
- In the current system, as we pointed out in [section B.5](secB5.html), voters
+In the current system, as we pointed out in [section B.5](secB5.html), voters
 are mere passive spectators of occasional, staged, and highly rehearsed
 debates among candidates pre-selected by the corporate elite, who pay for
-campaign expenses. The public is expected to choose simply on the basis of
-political ads and news sound bites. Once the choice is made, cumbersome and
-ineffective recall procedures insure that elected representatives can act more
-or less as they (or rather, their wealthy sponsors) please. The function,
-then, of the electorate in bourgeois "representative government" is
-ratification of "choices" that have been **already made for them**! This is
-also the case in referendum, where the people _"are not to **propose** the
-questions: the government is to do that. Only to questions **proposed** by the
-government, the people may answer **Yes** or **No**, like a child in the
-catechism. The people will not even have a chance to make amendments."_
-[Proudhon, **General Idea of the Revolution**, p. 148]
+campaign expenses. More often the public is expected to choose simply on the
+basis of political ads and news sound bites. Once the choice is made,
+cumbersome and ineffective recall procedures insure that elected
+representatives can act more or less as they (or rather, their wealthy
+sponsors) please. The function, then, of the electorate in bourgeois
+"representative government" is ratification of "choices" that have been
+**already made for them**! This is also the case in referenda, where the
+people _"are not to **propose** the questions: the government is to do that.
+Only to questions **proposed** by the government, the people may answer
+**Yes** or **No**, like a child in the catechism. The people will not even
+have a chance to make amendments."_ [Proudhon, **General Idea of the
+Revolution**, p. 148]
 
-
-
- By contrast, in a libertarian society decisions are made following public
-discussion in community assemblies open to all. After decisions have been
-reached, outvoted minorities -- even minorities of one -- still have ample
-opportunity to present reasoned and persuasive counter-arguments to try to
-change the decision. This process of debate, disagreement, challenge, and
+By contrast, in a direct, libertarian democracy, decisions are made following
+public discussion in community assemblies open to all. After decisions have
+been reached, outvoted minorities -- even minorities of one -- still have
+ample opportunity to present reasoned and persuasive counter-arguments to try
+to change the decision. This process of debate, disagreement, challenge, and
 counter-challenge, which goes on even after the defeated minority has
 temporarily acquiesced in the decision of the majority, is virtually absent in
 the representative system, where _"tyranny of the majority"_ is truly a
 problem. In addition, minorities can secede from an association if the
 decision reached by it are truly offensive to them.
 
-
-
- And let us not forget that in all likelihood, issues of personal conduct or
+And let us not forget that in all likelihood, issues of personal conduct or
 activity will not be discussed in the neighbourhood assemblies. Why? Because
 we are talking about a society in which most people consider themselves to be
 unique, free individuals, who would thus recognise and act to protect the
@@ -1460,40 +1422,35 @@ existence of authoritarian social relationships -- relationships that will be
 dismantled under libertarian socialism -- and the type of person they create
 rather than some innate human flaw.
 
-
-
- Thus there will be vast areas of life in a libertarian socialist community
+Thus there will be vast areas of life in a libertarian socialist community
 which are none of other people's business. Anarchists have always stressed the
 importance of personal space and "private" areas. Indeed, for Kropotkin, the
-failure of many "utopian" communities directly flowed from a lack of these and
-_"the desire to manage the community after the model of a family, to make it
-'the great family.' They lived all in the same house and were thus forced to
-continuously meet the same 'brethren and sisters.' It is already difficult
-often for two real brothers to live together in the same house, and family
-life is not always harmonious; so it was a fundamental error to impose on all
-the 'great family' instead of trying, on the contrary, to guarantee as much
-freedom and home life to each individual."_ In an anarchist society, continual
-agreement on all issues is not desired. The members of a free society _"need
-only agree as to some advantageous method of common work, and are free
-otherwise to live in their own way."_ [**Small Communal Experiments and Why
-they Fail**, pp. 8-9 and p. 22]
+failure of many "utopian" communities directly flowed from a lack personal
+space. One of the mistakes made by such intentional communities within
+capitalism was _"the desire to manage the community after the model of a
+family, to make it 'the great family.' They lived all in the same house and
+were thus forced to continuously meet the same 'brethren and sisters.' It is
+already difficult often for two real brothers to live together in the same
+house, and family life is not always harmonious; so it was a fundamental error
+to impose on all the 'great family' instead of trying, on the contrary, to
+guarantee as much freedom and home life to each individual."_ Thus in an
+anarchist society, continual agreement on all issues is not desired. The
+members of a free society _"need only agree as to some advantageous method of
+common work, and are free otherwise to live in their own way."_ [**Small
+Communal Experiments and Why they Fail**, pp. 8-9 and p. 22]
 
+Which brings us to another key point. When anarchists talk of democratising or
+communalising the household or any other association, we do not mean that it
+should be stripped of its private status and become open to the "tyranny of
+the majority" or regulation by general voting in a single, universal public
+sphere. Rather, we mean that households and other relationships should take in
+libertarian characteristics and be consistent with the liberty of all its
+members. Thus a society based on self-management does not imply the
+destruction of private spheres of activity -- it implies the extension of
+anarchist principles into all spheres of life, both private and public. It
+does not mean the subordination of the private by the public, or vice versa.
 
-
- Which brings us to another key point. When anarchists talk of democratising
-or communalising the household or any other association, we do not mean that
-it should be stripped of its private status and become open to regulation by
-general voting in a single, universal public sphere. Rather, we mean that
-households and other relationships should take in libertarian characteristics
-and be consistent with the liberty of all its members. Thus a society based on
-self-management does not imply the destruction of private spheres of activity
--- it implies the extension of anarchist principles into all spheres of life,
-both private and public. It does not mean the subordination of the private by
-the public, or vice versa.
-
-
-
- As an example, we can point to inter-personal relationships. Anarchists are
+As an example, we can point to inter-personal relationships. Anarchists are
 opposed to the patriarchy implicit (and, in the past, explicit) in marriage
 and suggest free love as an alternative. As discussed in [section H.4.2
 ](secH4.html#sech42), free love means that both people in a relationship have
@@ -1501,25 +1458,21 @@ equal decision making power rather than, as in marriage, the woman becoming
 the property of the husband. Thus, self-management in this context does not
 mean the end of interpersonal relationships by the imposition of the commune
 onto all spheres of life but, obviously, the creation of interpersonal
-relationships based on equality and liberty.
+relationships based on equality and liberty within them.
 
-
-
- So it is highly unlikely that the _"tyranny of the majority"_ will exert
-itself where most rightly fear it -- in their homes, how they act with
-friends, their personal space, how they act, and so on. As long as individual
-freedom and rights are protected, it is of little concern what people get up
-to (included the rights of children, who are also individuals and **not** the
+So, in other words, it is highly unlikely that the "tyranny of the majority"
+will exert itself where most rightly fear it -- in their homes, how they act
+with friends, their personal space, and so on. As long as individual freedom
+and rights are protected, it is of little concern what people get up to
+(including the rights of children, who are also individuals and **not** the
 property of their parents). Direct democracy in anarchist theory is purely
-concerned with common resources, their use and management. It is highly
+concerned with common resources and their use and management. It is highly
 unlikely that a free society would debate issues of personal behaviour or
 morality and instead would leave them to those directly affected by them -- as
 it should be, as we all need personal space and experimentation to find the
 way of life that best suits us.
 
-
-
- Today an authoritarian worldview, characterised by an inability to think
+Today an authoritarian worldview, characterised by an inability to think
 beyond the categories of domination and submission, is imparted by
 conditioning in the family, schools, religious institutions, clubs,
 fraternities, the army, etc., and produces a type of personality that is
@@ -1541,35 +1494,31 @@ to dissolve the institutional and traditional sources of the
 authoritarian/submissive type of personality, and thus to free "public
 opinion" of its current potential for intolerance.
 
-
-
- This is not to suggest that such a society of free individuals will not
-become stuck in routine and, over time, become oppressive to minorities who
-question certain aspects of public opinion or how it works. Public opinion and
-social organisations can evolve over generations in ways which no one expects.
-The best know, albeit fictional, example is in Ursula Le Guin's classic
-science-fiction book **The Dispossessed** where the anarchist society of
-Anarres has developed something of a weak informal bureaucracy due to the
-routine of everyday life and the unconscious pressures of public opinion. When
-the protagonist, Shevek, and his friends try to point this out and do
-something about (including Shevek leaving Anarres for the capitalist world of
-Urras), most on the planet are extremely hostile to this activity (precisely
-because it is going against the normal routine). Significantly, though, a
-large minority end up supporting their activities, activities which can occur
+This is not to suggest that such a society of free individuals will not become
+stuck in routine and, over time, become oppressive to minorities who question
+certain aspects of public opinion or how it works. Public opinion and social
+organisations can evolve over generations in ways which no one expects. The
+best known, albeit fictional, example is in Ursula Le Guin's classic science-
+fiction book **The Dispossessed** where the anarchist society of Anarres has
+developed something of a weak informal bureaucracy due to the routine of
+everyday life and the unconscious pressures of public opinion. When the
+protagonist, Shevek, and his friends try to point this out and do something
+about (including Shevek leaving Anarres for the capitalist world of Urras),
+most on the planet are extremely hostile to this activity (precisely because
+it is going against the normal routine). Significantly, though, a large
+minority end up supporting their activities, activities which can occur
 precisely **because** the society is still fundamentally communist-anarchist
 and so the dissenters have a rich libertarian tradition and sensibility to
 base their direct action on as well having use-rights over the resources they
 need to propagate their ideas and practice their protest.
 
-
-
- In the real world, the best example would be the **Mujeres Libres** in the
-Spanish anarchist movement during the 1930s (see Martha A. Ackelsberg's
-classic **Free Women Of Spain: Anarchism And The Struggle For The Emancipation
-Of Women** for more on this important movement). This organisation arose in
-response to the fact that many male anarchists, while expressing a theoretical
-commitment to sexual equality, were as sexist as the system they were fighting
-against and so they subconsciously reflected the oppressive public opinion of
+In the real world, the best example would be the **Mujeres Libres** in Spanish
+anarchist movement in the 1930s (see Martha A. Ackelsberg's classic **Free
+Women Of Spain: Anarchism And The Struggle For The Emancipation Of Women** for
+more on this important movement). This organisation arose in response to the
+fact that many male anarchists, while expressing a theoretical commitment to
+sexual equality, were as sexist as the system they were fighting against. In
+other words, they subconsciously reflected the oppressive public opinion of
 what a woman's position should be. Unsurprisingly, many anarchist women were
 (rightly) angry at this and their marginalised status within a libertarian
 movement that ostensibly sought to abolish all forms of domination and
@@ -1579,9 +1528,7 @@ combat and transform public opinion both within and outwith the anarchist
 movement. Their activities meet with some success before, like the rest of the
 libertarian revolution, it was crushed by Franco's victory in the civil war.
 
-
-
- We can, therefore, suggest that a free society is unlikely to see public
+We can, therefore, suggest that a free society is unlikely to see public
 opinion becoming authoritarian. This is because, as the example of the
 **Mujeres Libres** shows, members of that society would organise to combat
 such developments and use various means to raise the problem to public
@@ -1591,24 +1538,19 @@ constant watch on possible sources of authority, including those associated
 with organisations developing informal bureaucracies and public opinion. While
 a free society would place numerous safeguards against such developments, no
 system would be perfect and so the actions of dissident minorities would be
-essential to point out and protest as if such dangers appeared to be
-developing.
+essential to point out and protest if such dangers appeared to be developing.
 
-
-
- As such, it should be noted that anarchists recognise that the practice of
+As such, it should be noted that anarchists recognise that the practice of
 self-assumed political obligation implied in free association also implies the
 right to practice dissent and disobedience as well. As Carole Pateman notes:
 
 > _"Even if it is impossible to be unjust to myself, I do not vote for myself
-alone, but along with everyone else. Questions about injustice are always
+alone, but alone with everyone else. Questions about injustice are always
 appropriate in political life, for there is no guarantee that participatory
 voting will actually result in decisions in accord with the principles of
 political morality."_ [**The Problem of Political Obligation**, p. 160]
 
-
-
- If an individual or group of individuals feel that a specific decision
+If an individual or group of individuals feel that a specific decision
 threatens their freedom (which is the basic principle of political morality in
 an anarchist society) they can (and must) act to defend that freedom:
 
@@ -1623,96 +1565,84 @@ based . . . A refusal to vote [or the use of direct action] could be seen as
 an appeal to the 'sense of justice' of their fellow citizens."_ [Pateman,
 **Op. Cit.**, p. 161]
 
-
-
- As they no longer consent to the decisions made by their community they can
+As they no longer consent to the decisions made by their community they can
 appeal to the "sense of justice" of their fellow citizens by direct action and
 indicate that a given decision may have impacts which the majority were not
 aware. Hence direct action and dissent is a key aspect of an anarchist society
 and help ensure against the tyranny of the majority. Anarchism rejects the
-_"love it or leave it"_ attitude that marks an authoritarian organisation.
+"love it or leave it" attitude that marks classical liberalism as well as
+Rousseau (this aspect of his work being inconsistent with its foundations in
+participation).
 
-
-
- This vision of self-assumed obligation, with its basis in individual liberty,
+This vision of self-assumed obligation, with its basis in individual liberty,
 indicates the basic flaw of Joseph Schumpeter's argument against democracy as
-anything bar a political method of arriving at decisions (in his case who will
-be the leaders of a society). Schumpeter proposed _"A Mental Experiment"_ of
-imagining a country which, using a democratic process, _"reached the decision
-to persecute religious dissent"_ (such as Jews and witches). He argued that we
-should not approve of these practices just because they have been decided upon
-by a majority or using a democratic method and, therefore, democracy cannot be
-an end in itself. [**Capitalism, Socialism and Democracy**, pp. 240-3]
+anything bar a political **method** of arriving at decisions (in his case who
+will be the leaders of a society). Schumpeter proposed _"A Mental Experiment"_
+of imagining a country which, using a democratic process, _"reached the
+decision to persecute religious dissent"_ (such as Jews and witches). He
+argued that we should not approve of these practices just because they have
+been decided upon by a majority or using a democratic method and, therefore,
+democracy cannot be an end in itself. [**Capitalism, Socialism and
+Democracy**, pp. 240-3]
 
-
-
- However, such systematic persecution would conflict with the rules of
+However, such systematic persecution would conflict with the rules of
 procedure required if a country's or community's political method is to be
 called "democratic." This is because, in order to be democratic, the minority
 must be in a position for its ideas to become the majority's via argument and
-that requires freedom of speech, discussion and association. A country or
-community in which the majority persecutes or represses a minority
-automatically ensures that the minority can never be in a position to become
-the majority (as the minority is barred by force from becoming so) or convince
-the majority of the errors of its way (even if it cannot become the majority
-physically, it can become so morally by convincing the majority to change its
-position). Schumpeter's example utterly violates democratic principles and so
-cannot be squared with the it (Rousseau's somewhat opaque distinction between
-_"the General Will"_ and majority rule sought to express this). Thus majority
-tyranny is an outrage against both democratic theory **and** individual
-liberty (unsurprisingly, as the former has its roots in the latter).
+convincing the majority (and that requires freedom of discussion and
+association). A country or community in which the majority persecutes or
+represses a minority automatically ensures that the minority can never be in a
+position to become the majority (as the minority is barred by force from
+becoming so) or convince the majority of the errors of its way (even if it
+cannot become the majority physically, it can become so morally by convincing
+the majority to change its position). Schumpeter's example utterly violates
+democratic principles and so cannot be squared with the rules of democratic
+procedure. Thus majority tyranny is an outrage against both democratic theory
+**and** individual liberty (unsurprisingly, as the former has its roots in the
+latter). Unsurprisingly, then, the _"freedom of the collectivity to crush the
+individual is not, however, true Liberty in the eyes of Anarchists. It is one
+of those shams, which the Revolution is to destroy."_ [Charlotte M. Wilson,
+**Anarchist Essays**, p. 25]
 
-
-
- This argument applies with even more force to a self-managed community too
-and so any system in which the majority tyrannises over a minority is, by
+This argument applies with even more force to a self-managed community too and
+so any system in which the majority tyrannises over a minority is, by
 definition, **not** self-managed as one part of the community is excluded from
-convincing the other (_"the enslavement of part of a nation denies the federal
-principal itself."_ [Proudhon, **The Principle of Federation**, p. 42f]). Thus
-individual freedom and minority rights are essential to self-management. As
-Proudhon argued, _"a new spirit has dawned on the world. Freedom has opposed
-itself to the State, and since the idea of freedom has become universal people
-have realised that it is not a concern of the individual merely, but rather
-that it must exist in the group also."_ [quoted by Martin Buber, **Paths in
-Utopia**, p. 28] Unsurprisingly, then, the _"freedom of the collectivity to
-crush the individual is not, however, true Liberty in the eyes of Anarchists.
-It is one of those shams, which the Revolution is to destroy."_ [Charlotte M.
-Wilson, **Anarchist Essays**, p. 25]
+convincing the other (_"the enslaving of part of the nation is the very
+negation of the federative principal."_ [Proudhon, **Property is Theft!**, p.
+698f]). Thus individual freedom and minority rights are essential to direct
+democracy and self-management. As Proudhon argued, _"a new spirit has dawned
+on the world. Freedom has opposed itself to the State, and since the idea of
+freedom has become universal people have realised that it is not a concern of
+the individual merely, but rather that it must exist in the group also."_
+[quoted by Martin Buber, **Paths in Utopia**, p. 28]
 
-
-
- It should be stressed, however, that most anarchists do not think that the
-way to guard against possible tyranny by the majority is to resort to
-decision-making by consensus (where no action can be taken until every person
-in the group agrees) or a property system (based in contracts). Both consensus
-(see [section A.2.12](secA2.html#seca212)) and contracts (see [section
+It should be stressed, however, that most anarchists do not think that the way
+to guard against possible tyranny by the majority is to resort to decision-
+making by consensus (where no action can be taken until every person in the
+group agrees) or a property system (based in contracts). Both consensus (see
+[section A.2.12](secA2.html#seca212)) and contracts (see [section
 A.2.14](secA2.html#seca214)) soon result in authoritarian social relationships
 developing in the name of "liberty." Rather, we seek new forms of free
 agreement to replace contract and new forms of decision making which do not
 replace the possible tyranny of the majority with the real tyranny of a
 minority.
 
+As Malatesta argued, _"for if it is unjust that the majority should oppress
+the minority, the contrary would be quite as unjust; and if the minority has a
+right to rebel, the majority has a right to defend itself . . . it is true
+that this solution is not completely satisfactory. The individuals put out of
+the association would be deprived of many social advantages, which an isolated
+person or group must do without, because they can only be procured by the co-
+operation of a great number of human beings. But what would you have? These
+malcontents cannot fairly demand that the wishes of many others should be
+sacrificed for their sakes."_ [**A Talk about Anarchist-Communism**, p. 29] In
+other words, freedom of association means the freedom **not** to associate and
+so communities can expel individuals or groups of individuals who constantly
+hinder community decisions -- assuming they do not leave voluntarily and seek
+a community more in tune with their needs. This is a very important freedom
+for both the majority and the minority, and must be defended.
 
-
- Then there is freedom of association. As Malatesta argued, _"for if it is
-unjust that the majority should oppress the minority, the contrary would be
-quite as unjust; and if the minority has a right to rebel, the majority has a
-right to defend itself . . . it is true that this solution is not completely
-satisfactory. The individuals put out of the association would be deprived of
-many social advantages, which an isolated person or group must do without,
-because they can only be procured by the co-operation of a great number of
-human beings. But what would you have? These malcontents cannot fairly demand
-that the wishes of many others should be sacrificed for their sakes."_ [**A
-Talk about Anarchist-Communism**, p. 29] In other words, freedom of
-association means the freedom **not** to associate and so communities can
-expel individuals or groups of individuals who constantly hinder community
-decisions -- assuming they do not leave voluntarily and seek a community more
-in tune with their needs. This a very important freedom for both the majority
-and the minority, and must be defended.
-
-
-
- So while minorities have significant rights in a free society, so does the
+So while minorities have significant rights in a free society, so does the
 majority. We can imagine that there will be ethical reasons why participants
 will not act in ways to oppose joint activity -- as they took part in the
 decision making process they would be considered childish if they reject the
@@ -1723,90 +1653,74 @@ actively hindered them) would soon face non-violent direct action in the form
 of non-co-operation, shunning, boycotting and so on. Anarchists think that
 such occurrences would be rare.
 
-
-
- As an isolated life is impossible, the need for communal associations is
-essential. It is only by living together in a supportive community can
-individuality be encouraged and developed along with individual freedom.
+However, as an isolated life is impossible, the need for communal associations
+is essential. It is only by living together in a supportive community that
+individuality can be encouraged and developed along with individual freedom.
 However, anarchists are aware that not everyone is a social animal and that
 there are times that people like to withdraw into their own personal space.
 Thus our support for free association and federalism along with solidarity,
-community and self-management. Most anarchists have recognised that majority
-decision making, though not perfect, is the best way to reach decisions in a
-political system based on maximising individual and so social freedom. Self-
-management in grassroots confederal assemblies and workers' councils ensures
-that decision making is "horizontal" in nature (i.e. between **equals**) and
-not hierarchical (i.e. governmental, between order giver and order taker). In
-other words, anarchists support self-management because it ensures liberty --
-**not** because we subscribe to the flawed assumption that the majority is
-always right.
+community and self-management. Hence most anarchists have recognised that
+majority decision making, though not perfect, is the best way to reach
+decisions in a political system based on maximising individual (and so social)
+freedom. Direct democracy in grassroots confederal assemblies and workers'
+councils ensures that decision making is "horizontal" in nature (i.e. between
+**equals**) and not hierarchical (i.e. governmental, between order giver and
+order taker). In other words, anarchists support self-management because it
+ensures liberty -- **not** because we subscribe to the flawed assumption that
+the majority is always right.
 
+## I.5.7 What if I don't want to join a commune?
 
-
- ## I.5.7 What if I don't want to join a commune?
-
-
-
- As would be expected, no one would be **forced** to join a commune nor take
+As would be expected, no one would be **forced** to join a commune nor take
 part in its assemblies. To suggest otherwise would be contrary to anarchist
 principles. Thus a commune would be a free society, in which individual
 liberty would be respected and encouraged.
 
-
-
- However, what about individuals who live within the boundaries of a commune
+However, what about individuals who live within the boundaries of a commune
 but decide not to join? For example, a local neighbourhood may include
 households that desire to associate and a few that do not (this is actually
 happened during the Spanish Revolution). What happens to the minority of
 dissenters?
 
-
-
- Obviously individuals can leave to find communities more in line with their
+Obviously individuals can leave to find communities more in line with their
 own concepts of right and wrong if they cannot convince their neighbours of
 the validity of their ideas. And, equally obviously, not everyone will want to
-leave an area they like. So we must discuss what happens to those who decide
-to not to find a more suitable neighbourhood. Are the communal decisions
-binding on non-members? Obviously not. If an individual or family desire
-**not** to join a commune (for whatever reason), their freedoms must be
-respected. However, this also means that they cannot benefit from communal
-activity and resources (such a free parks, hospitals, and so forth) and have
-to pay for their use. As long as they do not exploit or oppress others, an
-anarchist community would respect their decision (as discussed in [section
+leave an area they like. So we must discuss those who decide not to find a
+more suitable community. Are the communal decisions binding on non-members?
+Obviously not. If an individual or family desire **not** to join a commune
+(for whatever reason), their freedoms must be respected. However, this also
+means that they cannot benefit from communal activity and resources (such a
+free housing, hospitals, and so forth) and, possibly, have to pay for their
+use. As long as they do not exploit or oppress others, an anarchist community
+would respect their decision (as discussed in [section
 G.2.1](secG2.html#secg21), for example).
 
-
-
- Many who oppose anarchist self-management in the name of freedom often do so
+Many who oppose anarchist self-management in the name of freedom often do so
 because they desire to oppress and exploit others. In other words, they oppose
 participatory communities because they (rightly) fear that this would restrict
-their ability to grow rich off the labour of others (this type of opposition
-can be seen from history, when rich elites, in the name of liberty, have
-replaced democratic forms of social decision making with representative or
-authoritarian ones -- see [section B.2.5](secB2.html#secb25)).
+their ability to oppress, exploit and grow rich off the labour of others (this
+type of opposition can be seen from history, when rich elites, in the name of
+liberty, have replaced democratic forms of social decision making with
+representative or authoritarian ones -- see [section
+B.2.6](secB2.html#secb26)). So it goes without saying that the minority, as in
+any society, will exist within the ethical norms of the surrounding society
+and they will be have to adhere to them in the same sense that they have to
+adhere to not murdering people (few sane people would say that forcing people
+not to commit murder is a restriction of their liberty). Therefore, while
+allowing the maximum of individual freedom of dissent, an anarchist community
+would still have to apply its ethical standards to those beyond that
+community. Individuals would not be allowed to murder, harm or enslave others
+and claim that they are allowed to do so because they are not part of the
+local community (see [section I.5.8](secI5.html#seci58) on crime in an
+anarchist society).
 
-
-
- It goes without saying that the minority, as in any society, will exist
-within the ethical norms of the surrounding society and they will be have to
-adhere to them in the same sense that they have to adhere to not murdering
-people (few sane people would say that forcing people not to commit murder is
-a restriction of their liberty). Therefore, while allowing the maximum of
-individual freedom of dissent, an anarchist community would still have to
-apply its ethical standards to those beyond that community. Individuals would
-not be allowed to murder, harm or enslave others and claim that they are
-allowed to do so because they are not part of the local community (see
-[section I.5.8](secI5.html#seci58) on crime in an anarchist society).
-
-
-
- Similarly, individuals would not be allowed to develop private property (as
+Similarly, individuals would not be allowed to develop private property (as
 opposed to possession) simply because they wanted to. This rejection of
 private property would not be a restriction on liberty simply because stopping
 the development of authority hardly counts as an authoritarian act (for an
 analogy, supporters of capitalism do not think that banning theft is a
 restriction of liberty and because this view is -- currently -- accepted by
-the majority it is enforced on the minority). Regardless of what defenders of
+the majority, it is enforced on the minority). Regardless of what defenders of
 capitalism claim, "voluntary bilateral exchanges" affect third parties and can
 harm others indirectly. This can easily be seen from examples like
 concentrations of wealth which have effects across society or the ecological
@@ -1818,35 +1732,29 @@ both to be quietly built up again, because of respect for the **freedom** of
 those who might feel the need to be rulers and property owners. A truly
 curious way of interpreting our ideas."_ [**Anarchy**, p. 43]
 
-
-
- The suggestion that denying property ownership is a restriction in freedom is
+The suggestion that denying property ownership is a restriction in freedom is
 wrong, as it is the would-be capitalist who is trying to ban freedom for
 others on their property. Members of a free society would simply refuse to
 recognise the claims of private property -- they would simply ignore the
-would-be capitalist's pretensions and "keep out" signs. Without a state, or
+would-be capitalist's pretensions and _"keep out"_ signs. Without a state, or
 hired thugs, to back up their claims, they would just end up looking silly.
 
-
-
- This means that Anarchists do not support the liberty of being a boss
+This means that Anarchists do not support the liberty of being a boss
 (anarchists will happily work **with** someone but not **for** someone). Of
 course, those who desire to create private property against the wishes of
-others expect those others to respect **their** wishes. So, when would-be
+others expect those others to respect their wishes. So, when would-be
 propertarians happily fence off their "property" and exclude others from it,
 could not these others remember these words from Woody Guthrie's **This Land
 is Your Land**, and act accordingly?
 
-
-
- _**"As I went rumbling that dusty highway  
+class=HTMLMarkup&gt; lang=EN-US style='color:red'&gt;&lt;div
+align="center"&gt;**_"As I went rumbling that dusty highway  
 I saw a sign that said private property  
 But on the other side it didn't say nothing  
-This land was made for you and me"**_
+This land was made for you and me"_** class=HTMLMarkup&gt;
+style='color:red'&gt;&lt;/div&gt;
 
-
-
- While happy to exclude people from "their" property, such owners seem more
+While happy to exclude others from "their" property, such owners seem more
 than happy to use the resources held in common by others. They are the
 ultimate "free riders," desiring the benefits of society but rejecting the
 responsibilities that go with it. In the end, such "individualists" usually
@@ -1854,12 +1762,10 @@ end up supporting the state (an institution they claim to hate) precisely
 because it is the only means by which private property and their "freedom" to
 exercise authority can be defended.
 
-
-
- This does not mean denying the freedom to live your life as you see fit,
-using the resources you need to do so. It simply means not being able to
+This means, it should be stressed, the freedom to live your life as you see
+fit, using the resources you need to do so. It simply means not being able to
 proclaim ownership over more than you could reasonably use. In other words,
-_"occupancy and use"_ would be the limits of possession -- and so property
+_"Occupancy and use"_ would be the limits of possession -- and so property
 would become _"that control of a thing by a person which will receive either
 social sanction, or else unanimous individual sanction, when the laws of
 social expediency shall have been fully discovered."_ [Benjamin Tucker,
@@ -1867,39 +1773,37 @@ social expediency shall have been fully discovered."_ [Benjamin Tucker,
 I.6.2](secI6.html#seci62), this perspective on use rights is shared by both
 individualist and social anarchists.
 
-
-
- Therefore anarchists support the maximum of experiments while ensuring that
+Therefore anarchists support the maximum of experiments while ensuring that
 the social conditions that allow this experimentation are protected against
 concentrations of wealth and power. As Malatesta put it: _"Anarchism involves
 all and only those forms of life that respect liberty and recognise that every
 person has an equal right to enjoy the good things of nature and the products
 of their own activity."_ [**The Anarchist Revolution**, p. 14]
 
+So, as a way to eliminate the problem of minorities seeking power and property
+for themselves, an anarchist revolution places social wealth (starting with
+the land) in the hands of all and promises to protect only those uses of it
+which are considered just by society as a whole. In other words, by
+recognising that "property" is a product of society, an anarchist society will
+ensure than an individual's "property" is protected by his or her fellows when
+it is based purely upon actual occupancy and use. Thus attempts to transform
+minority dissent into, say, property rights would be fought by simply ignoring
+the "keep out" signs of property owned, but not used, by an individual or
+group.
 
-
- So, as a way to eliminate the problem of minorities seeking power and
-property for themselves, an anarchist revolution places social wealth
-(starting with the land) in the hands of all and promises to protect only
-those uses of it which are considered just by society as a whole. In other
-words, by recognising that "property" is a product of society, an anarchist
-society will ensure than an individual's "property" is protected by his or her
-fellows when it is based purely upon actual occupancy and use. Thus attempts
-to transform minority dissent into, say, property rights would be fought by
-simply ignoring the "keep out" signs of property owned, but not used, by an
-individual or group. Therefore, individuals are free not to associate, but
-their claims of "ownership" will be based around **use** rights, not property
-rights. Without a state to back up and protect property "rights," we see that
-all rights are, in the end, what society considers to be fair (the difference
+Therefore, individuals are free not to associate, but their claims of
+"ownership" will be based around **use** rights, not property rights.
+Individuals will be protected by their fellows only in so far as what they
+claim to "own" is related to their ability to personally use said "property."
+Without a state to back up and protect property "rights," we see that all
+rights are, in the end, what society considers to be fair (the difference
 between law and social custom is discussed in [section
 I.7.3](secI7.html#seci73)). What the state does is to impose "rights" which do
 not have such a basis (i.e. those that protect the property of the elite) or
 "rights" which have been corrupted by wealth and would have been changed
 because of this corruption had society been free to manage its own affairs.
 
-
-
- In summary, individuals will be free not to join a participatory community,
+In summary, individuals will be free not to join a participatory community,
 and hence free to place themselves outside its decisions and activities on
 most issues that do not apply to the fundamental ethical standards of a
 society. Hence individuals who desire to live outside of anarchist communities
@@ -1909,7 +1813,7 @@ should be noted, moreover, that this does not mean that their possessions will
 be taken from them by "society" or that "society" will tell them what to do
 with them. Freedom, in a complex world, means that such individuals will not
 be in a position to turn their possessions into **property** and thus recreate
-capitalism (for the distinction between _"property"_ and _"possessions,"_ see
+capitalism (for the distinction between "property" and "possessions," see
 [section B.3.1](secB3.html#secb31)). This will not be done by "anarchist
 police" or by "banning" voluntary agreements, but purely by recognising that
 "property" is a social creation and by creating a social system that will
@@ -1917,26 +1821,20 @@ encourage individuals to stand up for their rights and co-operate with each
 other to protect their freedom against those seeking to reduce others to the
 conditions of servants working their property for them.
 
+## I.5.8 What about crime?
 
-
- ## I.5.8 What about crime?
-
-
-
- For anarchists, "crime" can best be described as anti-social acts, or
+For anarchists, "crime" can best be described as anti-social acts, or
 behaviour which harms someone else or which invades their personal space.
 Anarchists, in other words, _"believe that to act criminally means to violate
 the liberty of others"_ and so criminals in a free society would be _"those
 who would encroach on personal integrity, liberty and the well being of
-others."_ [Malatesta, **At the Caf**, p. 100 and p. 132]
+others."_ [Malatesta, **At the Café**, p. 100 and p. 132]
 
-
-
- This definition of crime is similar, of course, to that used in capitalist
+This definition of crime is similar, of course, to that used in capitalist
 society but libertarians note that the state defines as "crime" many things
 which a sane society would not (such as, say, consensual acts of adults in
 private or expropriation of private property). Similarly, a free society would
-consider as anti-social many acts which the state defends under capitalism
+consider as anti-social many acts which the state allows under capitalism
 (such as the appropriation of resources or exploitation of others labour).
 This is to be expected, as social customs evolve and reflect the socio-
 economic basis of a given society. Hence Malatesta:
@@ -1947,45 +1845,39 @@ equality in freedom, and not the many actions which the penal code punishes
 simply because they offend against the privileges of the dominant classes."_
 [**Errico Malatesta: His Life and Ideas**, pp. 105-6]
 
-
-
- Anarchists argue that the root cause for crime is not some perversity of
-human nature or "original sin" but is due to the type of society by which
-people are moulded. For example, anarchists point out that by eliminating
-private property, crime could be reduced significantly, since most crime today
-is currently motivated by evils stemming from private property such as
-poverty, homelessness, unemployment, and alienation. Moreover, by adopting
-anarchist methods of non-authoritarian child rearing and education, most of
-the remaining crimes could also be eliminated, because they are largely due to
-the anti-social, perverse, and cruel "secondary drives" that develop because
-of authoritarian child-rearing practices (see [section J.6](secJ6.html)).
+Anarchists argue that the root cause for crime is not some perversity of human
+nature or "original sin" but is due to the type of society by which people are
+moulded. For example, anarchists point out that by eliminating private
+property, crime could be reduced significantly, since most crime today is
+currently motivated by evils stemming from private property such as poverty,
+homelessness, unemployment, and alienation. Moreover, by adopting anarchist
+methods of non-authoritarian child rearing and education, most of the
+remaining crimes could also be eliminated, because they are largely due to the
+anti-social, perverse, and cruel "secondary drives" that develop because of
+authoritarian child-rearing practices (see [section J.6](secJ6.html)).
 However, as long as the few _"violates the equal freedom of others . . . we
 must defend ourselves."_ [Malatesta, **Op. Cit.**, p. 106]
 
-
-
- First, it cannot be said that governments are required to protect people from
-crime and criminals. Rather, as Alexander Berkman argued, _"[d]oes not
-government itself create and uphold conditions which make for crime? Does not
-the invasion and violence upon which all governments rest cultivate the spirit
-of intolerance and persecution, of hatred and more violence?"_ Crime, then,
-_"is the result of economic conditions, of social inequality, of wrongs and
-evils of which government and monopoly are parents. Government and law can
-only punish the criminal. They neither cure nor prevent crime. The only real
-cure for crime is to abolish its causes, and the government can never do
+Nor can it be said that governments are required to protect people from crime
+and criminals. Rather, as Alexander Berkman argued, _"[d]oes not government
+itself create and uphold conditions which make for crime? Does not the
+invasion and violence upon which all governments rest cultivate the spirit of
+intolerance and persecution, of hatred and more violence?"_ Crime, then, _"is
+the result of economic conditions, of social inequality, of wrongs and evils
+of which government and monopoly are parents. Government and law can only
+punish the criminal. They neither cure nor prevent crime. The only real cure
+for crime is to abolish its causes, and this the government can never do
 because it is there to preserve those very causes."_ This suggests that crimes
-_"resulting form government, from its oppression and injustice, from
+_"resulting from government, from its oppression and injustice, from
 inequality and poverty, will disappear under Anarchy. These constitute by far
 the greatest percentage of crime."_ [**What is Anarchism?**, p. 151] Nor
 should we forget that today we are subject to rule by the anti-social, for the
 _"owners and rulers"_ are _"criminals"_ who are _"powerful and have organised
 their dominance on a stable basis"_ (_"Who is more of a thief than the owners
 who get wealthy stealing the produce of the workers' labour?"_). [Malatesta,
-**At the Caf**, p. 100 and p. 130]
+**At the Café**, p. 100 and p. 130]
 
-
-
- "Crime", therefore, cannot be divorced from the society within which it
+"Crime", therefore, cannot be divorced from the society within which it
 occurs. Society, in Emma Goldman's words, gets the criminals it deserves. For
 example, anarchists do not think it unusual nor unexpected that crime exploded
 under the pro-free market capitalist regimes of Thatcher and Reagan. Crime,
@@ -2004,9 +1896,7 @@ could have had no other effect, for _"the government's powers of repression
 must perforce increase as free competition results in more discord and
 inequality."_ [**Anarchy**, p. 47]
 
-
-
- Hence the apparent paradox of governments with flowing rhetoric about
+Hence the apparent paradox of governments with flowing rhetoric about
 "individual rights," the "free market" and "getting the state off our backs"
 increasing state power and reducing rights while holding office during a crime
 explosion is no paradox at all. _"The conjuncture of the rhetoric of
@@ -2018,131 +1908,123 @@ existence. Hobbes showed long ago that contract -- all the way down --
 requires absolutism and the sword to keep war at bay."_ [**The Sexual
 Contract**, p. 232]
 
+Capitalism, and the contract theory on which it is built, will inevitably rip
+apart society. Capitalism is based upon a vision of humanity as isolated
+individuals with no connection other than that of money and contract. Such a
+vision cannot help but institutionalise anti-social acts. As Kropotkin argued
+_"it is not love and not even sympathy upon which Society is based in mankind.
+It is the conscience -- be it only at the stage of an instinct -- of human
+solidarity. It is the unconscious recognition of the force that is borrowed by
+each man [and woman] from the practice of mutual aid; of the close dependency
+of every one's happiness upon the happiness of all; and of the sense of
+justice, or equity, which brings the individual to consider the rights of
+every other individual as equal to his [or her] own."_ [**Mutual Aid**, p. 16]
+The social atomisation required and created by capitalism destroys the basic
+bonds of society - namely human solidarity - and hierarchy crushes the
+individuality required to understand that we share a common humanity with
+others and so understand **why** we must be ethical and respect others rights.
+Significantly, as Richard Wilkinson and Kate Pickett note in **The Spirit
+Level: Why More Equal Societies Almost Always Do Better**, more unequal
+societies have more crime and bigger prison populations (equality, as well as
+reducing crime, consistently delivers other advantages for people).
 
+We should also point out that prisons have numerous negative affects on
+society as well as often re-enforcing criminal (i.e. anti-social) behaviour.
+Anarchists use the all-to-accurate description of prisons as _"Universities of
+Crime"_ wherein the first-time criminal learns new techniques and has to adapt
+to the prevailing ethical standards within them. Hence, prisons would have the
+effect of increasing the criminal tendencies of those sent there and so prove
+to be counter-productive. In addition, prisons do not affect the social
+conditions which promote many forms of crime.
 
- Capitalism, and the contract theory on which it is built, will inevitably rip
-apart society. It is based upon a vision of humanity as isolated individuals
-with no connection other than that of money. Such a vision cannot help but
-institutionalise anti-social acts. As Kropotkin argued _"it is not love and
-not even sympathy upon which Society is based in mankind. It is the conscience
--- be it only at the stage of an instinct \-- of human solidarity. It is the
-unconscious recognition of the force that is borrowed by each man [and woman]
-from the practice of mutual aid; of the close dependency of every one's
-happiness upon the happiness of all; and of the sense of justice, or equity,
-which brings the individual to consider the rights of every other individual
-as equal to his [or her] own."_ [**Mutual Aid**, p. 16] The social atomisation
-required and created by capitalism destroys the basic bonds of society --
-namely human solidarity -- and hierarchy crushes the individuality required to
-understand that we share a common humanity with others and so understand
-**why** we must be ethical and respect others rights. Significantly, as
-Richard Wilkinson and Kate Pickett note in **The Spirit Level: Why More Equal
-Societies Almost Always Do Better**, more unequal societies have more crime
-and bigger prison populations (equality, as well as reducing crime,
-consistently deliver other advantages for people).
-
-
-
- We are not saying, however, that anarchists reject the concept of individual
+We are not saying, however, that anarchists reject the concept of individual
 responsibility. While recognising that rape, for example, is the result of a
 social system which represses sexuality and is based on patriarchy (i.e. rape
 has more to do with power than sex), anarchists do not "sit back" and say
 "it's society's fault." Individuals have to take responsibility for their own
-actions and recognise that consequences of those actions. Part of the current
+actions and recognise the consequences of those actions. Part of the current
 problem with "law codes" is that individuals have been deprived of the
 responsibility for developing their own ethical code, and so are less likely
 to develop "civilised" social standards (see [section
 I.7.3](secI7.html#seci73)).
 
-
-
- Therefore, while anarchists reject the ideas of law and a specialised justice
+Therefore, while anarchists reject the ideas of law and a specialised justice
 system, they are not blind to the fact that anti-social action may not totally
 disappear in a free society. Nor are they blind to the fact that, regardless
 of our hopes about a free society reducing crime, we will not create it over-
 night (_"all the bad passions . . . will not disappear at a stroke. There will
 still be for a long time those who will feel tempted to impose their will on
 others with violence, who will wish to exploit favourable circumstances to
-create privileges for themselves"_ [Malatesta, **At the Caf**, p. 131]).
+create privileges for themselves"_ [Malatesta, **At the Café**, p. 131]).
 Therefore, some sort of justice system would still be necessary to deal with
-the remaining crimes and to adjudicate disputes between people.
+the remaining crimes and to adjudicate disputes between citizens.
 
-
-
- This does not, it must be stressed, signify some sort of contradiction within
+This does not, it must be stressed, signify some sort of contradiction within
 anarchism. Anarchists have never advocated the kind of "freedom" which assumes
 that people can do what they want. When people object to anarchy, they often
-ask about those who would steal, murder, rape and so forth and seem to assume
-that such people would be free to act as they like. This is, needless to say,
-an utter misunderstanding of both our ideas and freedom in general. Simply
-put, if people impose themselves by force on others then _"they will be the
-government"_ and _"we will oppose them with force"_ for _"if today we want to
-make a revolution against the government, it is not in order to submit
-ourselves supinely to new oppressors."_ [Malatesta, **Op. Cit.**, p. 99] This
-applies to defending a free society against organised counter-revolution and
-against those within it conducting anti-social ("criminal") activities. The
-principle is the same, it is just the scale which is different.
+raise the question as to those who would steal, murder, rape and so forth and
+seem to assume that such people would be free to act as they like. This is,
+needless to say, an utter misunderstanding of both our ideas and freedom in
+general. Simply put, if people impose themselves by force on others then
+_"they will be the government"_ and _"we will oppose them with force"_ for
+_"if today we want to make a revolution against the government, it is not in
+order to submit ourselves supinely to new oppressors."_ [Malatesta, **Op.
+Cit**, p. 99] This applies equally to the need to defend a free society
+against organised counter-revolution and against those within it conducting
+anti-social ("criminal") activities. The principle is the same, it is just the
+scale which is different.
 
-
-
- It should be remembered that just because the state monopolises or organises
-a (public) service, it does not mean that the abolition of the state means the
+It should be remembered that just because the state monopolises or organises a
+(public) service, it does not mean that the abolition of the state means the
 abolition of what useful things it provided. For example, many states own and
 run the train network but the abolition of the state does not mean that there
 will no longer be any trains! In a free society management of the railways
 would be done by the rail workers themselves, in association with the
 community. The same applies to anti-social behaviour and so we find Kropotkin,
 for example, pointing to how _"voluntary associations"_ would _"substitute
-themselves for the State in all its functions,"_ including _"mutual
+themselves for the State in all its functions,"_ including for _"mutual
 protection"_ and _"defence of the territory."_ [**Anarchism**, p. 284]
 
-
-
- This applies to what is termed justice, namely the resolution of disputes and
-anti-social acts ("crime"). Anarchists argue that _"people would not allow
-their wellbeing and their freedom to be attacked with impunity, and if the
-necessity arose, they would take measures to defend themselves against the
-anti-social activities of a few. But to do so, what purpose is served by
-people whose profession is the making of laws; while other people spend their
-lives seeking out and inventing law-breakers?"_ [Malatesta, **Anarchy**, pp.
-43-4] This means that in a free society the resolution of anti-social
-behaviour would rest in the hands of all, **not** in a specialised body
-separate from and above the masses. As Proudhon put it, an anarchy would see
-the _"police, judiciary, administration, everywhere committed to the hands of
-the workers"_ [**General Idea of the Revolution**, p. 281] And so:
+This applies to what is termed justice, namely the resolution of disputes and
+anti-social acts ("crime"). This means that anarchists argue that _"people
+would not allow their wellbeing and their freedom to be attacked with
+impunity, and if the necessity arose, they would take measures to defend
+themselves against the anti-social activities of a few. But to do so, what
+purpose is served by people whose profession is the making of laws; while
+other people spend their lives seeking out and inventing law-breakers?"_
+[**Anarchy**, pp. 43-4] This means that in a free society the resolution of
+anti-social behaviour would rest in the hands of all, **not** in a specialised
+body separate from and above the masses. As Proudhon put it, an anarchy would
+see the _"police, judiciary, administration, everywhere committed to the hands
+of the workers"_ [**Property is Theft!**, p. 596] And so:
 
 > _"Let each household, each factory, each association, each municipality,
 each district, attend to its own police, and administer carefully its own
 affairs, and the nation will be policed and administered. What need have we to
 be watched and ruled, and to pay, year in and year out, . . . millions? Let us
-abolish prefects, commissioners, and policemen too."_ [**Op. Cit.**, p. 273]
+abolish prefects, commissioners, and policemen too."_ [**Op. Cit.**, p. 593]
 
-
-
- Precisely how this will work will be determined by free people based on the
+Precisely how this will work will be determined by free people based on the
 circumstances they face. All we can do is sketch out likely possibilities and
 make suggestions.
 
-
-
- In terms of resolving disputes between people, it is likely that some form of
+In terms of resolving disputes between people, it is likely that some form of
 arbitration system would develop. The parties involved could agree to hand
-their case to a third party (for example, a communal jury or mutually agreed
-individual or individuals). There is the possibility that the parties cannot
-agree (or if the victim were dead), then the issue could be raised at a
+their case to a third party (for example, a communal jury or a mutually agreed
+individual or set of individuals). There is the possibility that the parties
+cannot agree (or if the victim were dead). Then the issue could be raised at a
 communal assembly and a "court" appointed to look into the issue. These
 "courts" would be independent from the commune, their independence
 strengthened by popular election instead of executive appointment of judges,
-by protecting the jury system by random selection of citizens, and so _"all
-disputes . . . will be submitted to juries which will judge not only the facts
-but the law, the justice of the law [or social custom], its applicability to
-the given circumstances, and the penalty or damage to be inflicted because of
-its infraction"_. [Benjamin Tucker, **The Individualist Anarchists**, p. 160]
-For Tucker, the jury was a _"splendid institution, the principal safeguard
-against oppression."_ [**Liberty**, vol. 1, no. 16, p. 1]
+by protecting the jury system of selection of random citizens by lot, and so
+_"all disputes . . . will be submitted to juries which will judge not only the
+facts but the law, the justice of the law [or social custom], its
+applicability to the given circumstances, and the penalty or damage to be
+inflicted because of its infraction"_. [Benjamin Tucker, **The Individualist
+Anarchists**, p. 160] For Tucker, the jury was a _"splendid institution, the
+principal safeguard against oppression."_ [**Liberty**, vol. 1, no. 16, p. 1]
 
-
-
- As Malatesta suggested, _"when differences were to arise between men [sic!],
+As Malatesta suggested, _"when differences were to arise between men [sic!],
 would not arbitration voluntarily accepted, or pressure of public opinion, be
 perhaps more likely to establish where the right lies than through an
 irresponsible magistrate which has the right to adjudicate on everything and
@@ -2150,14 +2032,12 @@ everybody and is inevitably incompetent and therefore unjust?"_ [**Anarchy**,
 p. 45] It is in the arbitration system and communal assemblies that what
 constitutes anti-social behaviour will be discussed and agreed.
 
-
-
- In terms of anti-social events when they happen, _"when there remains a
+In terms of anti-social events when they happen, _"when there remains a
 residue of criminals, the collective directly concerned should think of
 placing them in a position where they can do no harm, without delegating to
 anyone the specific function of persecuting criminals"_ [Malatesta, **At the
-Caf**, p. 101] In the case of a "police force", this would not exist either as
-a public or private specialised body or company. If a local community did
+Café**, p. 101] In the case of a "police force", this would not exist either
+as a public or private specialised body or company. If a local community did
 consider that public safety required a body of people who could be called upon
 for help, we imagine that a new system would be created. Such a system would
 _"not be entrusted to, as it is today, to a special, official body: all able-
@@ -2165,57 +2045,61 @@ bodied inhabitants will be called upon to take turns in the security measures
 instituted by the commune."_ [James Guillaume, _"On Building the New Social
 Order"_, pp. 356-79, **Bakunin on Anarchism**, p. 371]
 
-
-
- This system could be based around a voluntary militia, in which all members
-of the community could serve if they so desired. Those who served would not
+This system could be based around a voluntary militia, in which all members of
+the community could serve if they so desired. Those who served would not
 constitute a professional body; instead the service would be made up of local
 people who would join for short periods of time and be replaced if they abused
 their position. Hence the likelihood that a communal militia would become
 corrupted by power, like the current police force or a private security firm
 exercising a policing function, would be vastly reduced. Moreover, by
-accustoming a population to intervene in anti-social as part of the militia,
-they would be empowered to do so when not an active part of it, so reducing
-the need for its services even more. In this way _"we will defend ourselves .
-. . without delegating to anyone the special function of the defence of
-society"_ and this is _"the only effective method"_ of stopping and reducing
-anti-social activity. [Malatesta, **Op. Cit.**, p. 132]
+accustoming a population to intervene in anti-social acts as part of the
+militia, they would be empowered to do so when not an active part of it, so
+reducing the need for its services even more. In this way _"we will defend
+ourselves . . . without delegating to anyone the special function of the
+defence of society"_ and this is _"the only effective method"_ of stopping and
+reducing anti-social activity. [Malatesta, **Op. Cit.**, p. 132]
 
+Such a body would not have a monopoly on protecting others, but would simply
+be on call if others required it. It would no more be a monopoly of defence
+(i.e. a "police force") than the current fire service is a monopoly.
+Individuals are not banned from putting out fires today because the fire
+service exists, similarly individuals will be free to help stop anti-social
+crime by themselves, or in association with others, in an anarchist society.
 
-
- Such a body would not have a monopoly on protecting others, but would simply
-be on call if required. It would no more be a monopoly of defence (i.e. a
-"police force") than the current fire service is a monopoly. Individuals are
-not banned from putting out fires today because the fire service exists,
-similarly individuals will be free to help stop anti-social crime by
-themselves, or in association with others, in an anarchist society.
-
-
-
- Of course there are anti-social acts which occur without witnesses and so the
+Of course there are anti-social acts which occur without witnesses and so the
 "guilty" party cannot be readily identified. If such acts did occur we can
 imagine an anarchist community taking two courses of action. The injured party
 may look into the facts themselves or appoint an agent to do so or, more
 likely, an ad hoc group would be elected at a community assembly to
-investigate specific crimes of this sort (subject to control and recall by the
-community). Once the investigating body thought it had enough evidence it
-would inform the community as well as the affected parties and then organise a
-court. Of course, a free society will produce different solutions to such
-problems, solutions no-one has considered yet and so these suggestions are
-just that, suggestions.
+investigate specific crimes of this sort. Such a group would be given the
+necessary "authority" to investigate the crime and be subject to recall by the
+community if they start trying to abuse whatever authority they had. Once the
+investigating body thought it had enough evidence it would inform the
+community as well as the affected parties and then organise a court. Of
+course, a free society will produce different solutions to such problems,
+solutions no-one has considered yet and so these suggestions are just that,
+suggestions.
 
+As is often stated, prevention is better than cure. This is as true of crime
+as of disease. In other words, crime is best fought by rooting out its
+**causes** as opposed to punishing those who act in response to these causes.
+For example, it is hardly surprising that a culture that promotes individual
+profit and consumerism would produce individuals who do not respect other
+people (or themselves) and see them as purely means to an end (usually
+increased consumption). And, like everything else in a capitalist system, such
+as honour and pride, conscience is also available at the right price -- hardly
+an environment which encourages consideration for others, or even for oneself.
 
-
- As is often stated, prevention is better than cure. This is as true of crime
-as of disease and so crime is best fought by rooting out its **causes** as
-opposed to punishing those who act in response to these causes. As Emma
-Goldman argued, crime _"is naught but misdirected energy. So long as every
-institution of today, economic, political, social, moral conspires to
-misdirect human energy into wrong channels; so long as most people are out of
-place doing things they hate to do, living a life they loathe to live, crime
-will be inevitable, and all the laws on the statues can only increase, but
-never do away with, crime"_ [**Red Emma Speaks**, p. 71] Erich Fromm, decades
-later, made the same point:
+In addition, a society based on hierarchical authority will also tend to
+produce anti-social activity because the free development and expression it
+suppresses. Thus, authority (which is often claimed to be the only cure for
+crime) actually helps produce it. As Emma Goldman argued, crime _"is naught
+but misdirected energy. So long as every institution of today, economic,
+political, social, moral conspires to misdirect human energy into wrong
+channels; so long as most people are out of place doing things they hate to
+do, living a life they loathe to live, crime will be inevitable, and all the
+laws on the statues can only increase, but never do away with, crime"_ [**Red
+Emma Speaks**, p. 71] Erich Fromm, decades later, made the same point:
 
 > _"It would seem that the amount of destructiveness to be found in
 individuals is proportionate to the amount to which expansiveness of life is
@@ -2233,9 +2117,7 @@ life produce the passion for destruction that forms, so to speak, the
 reservoir from which particular hostile tendencies -- either against others or
 against oneself -- are nourished."_ [**The Fear of Freedom**, p. 158]
 
-
-
- Therefore, by reorganising society so that it empowers everyone and actively
+Therefore, by reorganising society so that it empowers everyone and actively
 encourages the use of all our intellectual, emotional and sensuous abilities,
 crime would soon cease to be the huge problem that it is now. As for the anti-
 social behaviour or clashes between individuals that might still exist in such
@@ -2252,76 +2134,60 @@ the best means of stopping acts which harmed others. Thus Malatesta:
 causes and really do everything possible to eliminate it, it is necessary for
 this task to be entrusted to those who are exposed to and suffer the
 consequences of crime, in other words the whole public, and not those to whom
-the existence of crime is a source of power and earnings."_ [**At the Caf**,
+the existence of crime is a source of power and earnings."_ [**At the Café**,
 p. 135]
 
+An anarchist system of justice, we should note, would have a lot to learn from
+aboriginal societies simply because they are examples of social order without
+the state. Indeed many of the ideas we consider as essential to justice today
+can be found in such societies. As Kropotkin argued, _"when we imagine that we
+have made great advances in introducing, for instance, the jury, all we have
+done is to return to the institutions of the so-called 'barbarians' after
+having changed it to the advantage of the ruling classes."_ [**The State: Its
+Historic Role**, p. 18]
 
+Like aboriginal justice (as documented by Rupert Ross in **Returning to the
+Teachings: Exploring Aboriginal Justice**) anarchists contend that offenders
+should not be punished but justice achieved by the teaching and healing of all
+involved. Public condemnation of the wrongdoing would be a key aspect of this
+process, but the wrong doer would remain part of the community and so see the
+effects of their actions on others in terms of grief and pain caused. It would
+be likely that wrong doers would be expected to try to make amends for their
+act by community service or helping victims and their families.
 
- An anarchist system of justice, we should note, would have a lot to learn
-from aboriginal societies simply because they are examples of social order
-without the state. Indeed many of the ideas we consider as essential to
-justice today can be found in such societies. As Kropotkin argued, _"when we
-imagine that we have made great advances in introducing, for instance, the
-jury, all we have done is to return to the institutions of the so-called
-'barbarians' after having changed it to the advantage of the ruling classes."_
-[**The State: Its Historic Role**, p. 18] Like aboriginal justice (as
-documented by Rupert Ross in **Returning to the Teachings: Exploring
-Aboriginal Justice**) anarchists contend that justice be achieved by the
-teaching and healing of all involved. Public condemnation of the wrongdoing
-would be a key aspect of this process, but the wrong doer would remain part of
-the community and so see the effects of their actions on others in terms of
-grief and pain caused. It would be likely that wrong doers would be expected
-to try to make amends for their act by community service or helping victims
-and their families.
-
-
-
- So, from a practical viewpoint, almost all anarchists oppose prisons on both
-practical grounds and ethical grounds. Prisons have numerous negative affects
-on society as well as often re-enforcing criminal (i.e. anti-social)
-behaviour. Anarchists use the all-to-accurate description of prisons as
-_"Universities of Crime"_ wherein the first-time criminal learns new
-techniques and have adapt to the prevailing ethical standards within them.
-Hence, prisons would have the effect of increasing the criminal tendencies of
-those sent there and so prove to be counter-productive. In addition, prisons
-do not affect the social conditions which promote many forms of crime. Simply
-put, prison _"does not improve the prisoner . . . it does not prevent him from
-committing more crimes. It does not then achieve any of the ends it has set
-itself"_ [Kropotkin, **Anarchism**, p. 228] Moreover, they are a failure in
-terms of their impact on those subject to them: _"We know what prisons mean --
-they mean broken down body and spirit, degradation, consumption, insanity"_.
-[Voltairine de Cleyre, quoted by Paul Avrich, **An American Anarchist**, p.
-146] The Makhnovists took the usual anarchist position on prisons:
+So, from a practical viewpoint, almost all anarchists oppose prisons on both
+practical grounds and ethical grounds. Simply put, prison _"does not improve
+the prisoner . . . it does not prevent him from committing more crimes. It
+does not then achieve any of the ends it has set itself"_ [Kropotkin,
+**Anarchism**, p. 228] Moreover, they are a failure in terms of their impact
+on those subject to them: _"We know what prisons mean -- they mean broken down
+body and spirit, degradation, consumption, insanity"_. [Voltairine de Cleyre,
+quoted by Paul Avrich, **An American Anarchist**, p. 146] The Makhnovists took
+the usual anarchist position on prisons:
 
 > _"Prisons are the symbol of the servitude of the people, they are always
 built only to subjugate the people, the workers and peasants . . . Free people
-have no use for prisons. Wherever prisons exist, the people are not free . . .
+have no use for prisons. Wherever prisons exist, the people are not free. . .
 In keeping with this attitude, [the Makhnovists] demolished prisons wherever
 they went."_ [Peter Arshinov, **The History of the Makhnovist Movement**, p.
 153]
 
-
-
- With the exception of Benjamin Tucker, no major anarchist writer supported
+With the exception of Benjamin Tucker, no major anarchist writer has supported
 the institution. Few anarchists think that private prisons (like private
 policemen) are compatible with their notions of freedom. However, all
 anarchists are against the current "justice" system which seems to them to be
 organised around **revenge** and punishing effects and not fixing causes.
 
-
-
- However, there are psychopaths and other people in any society who are too
+However, there are psychopaths and other people in any society who are too
 dangerous to be allowed to walk freely. Restraint in this case would be the
 only option and such people may have to be isolated from others for their own,
 and others, safety. Perhaps mental hospitals would be used, or an area
-quarantined for their use created (perhaps an island, for example). However,
-such cases (we hope) would be rare and _"should be cared for according to the
-most humane methods of treating the mentally afflicted."_ [Voltairine de
-Cleyre, **The Voltairine de Cleyre Reader**, p. 160]
+quarantined for their use. However, such cases (we hope) would be rare and
+_"should be cared for according to the most humane methods of treating the
+mentally afflicted."_ [Voltairine de Cleyre, **The Voltairine de Cleyre
+Reader**, p. 160]
 
-
-
- The one thing that needs to be avoided is the creation of a professional and
+The one thing that needs to be avoided is the creation of a professional and
 specialised "justice" system as this would be a key means by which the state
 could reconstitute itself. As Malatesta explained, _"the major damage caused
 by crime is not so much the single and transitory instance of the violation of
@@ -2332,12 +2198,12 @@ words, it _"would truly be a great piece of foolishness to protect oneself
 from a few violent people, a few idlers and some degenerates, by opening a
 school for idleness and violence"_ [**Op. Cit.**, p. 101 and p. 132] The
 libertarian perspective on crime does not rest on an idealised vision of
-people. _"We do not believe"_, as Malatesta suggested, _"in the infallibility,
+people. _"We do not believe"_, as Malatesta suggested, _in the infallibility,
 nor even the general goodness of the masses"_, rather _"we believe even less
 in the infallibility and goodness of those who seize power and legislate"_ and
 so we must _"avoid the creation of bodies specialising in police work"_.
-[**Errico Malatesta: His Life and Ideas**, p. 109 and p. 108] As George
-Barrett argued:
+[**Errico Malatesta: His Life and Ideas**, p. 109 and p. 108] After all, as
+George Barrett argued:
 
 > _"All that we can say is that . . . disputes are very much better settled
 without the interference of authority. If the two [parties] were reasonable,
@@ -2353,21 +2219,19 @@ the rest to its friends._
 > _"What a strange question is this. It supposes that two people who meet on
 terms of equality and disagree could not be reasonable or just. But, on the
 other hand, it supposes that a third party, starting with an unfair advantage,
-and backed up by violence, will be the incarnation of justice itself. Common-
-sense should certainly warn us against such a supposition, and if we are
+and backed up by violence, will be the incarnation of justice itself.
+Commonsense should certainly warn us against such a supposition, and if we are
 lacking in this commodity, then we may learn the lesson by turning to the
 facts of life. There we see everywhere Authority standing by, and in the name
 of justice and fair play using its organised violence in order to take the
 lion's share of the world's wealth for the governmental class."_ [**Objections
 to Anarchism**, pp. 349-50]
 
-
-
- So instead of prisons and a legal code based on the concept of punishment and
+So instead of prisons and a legal code based on the concept of punishment and
 revenge, anarchists support the use of pubic opinion and pressure to stop
 anti-social acts and the need to therapeutically rehabilitate those who commit
-them. Rather than a parasitic legal system which creates and defends
-inequality and privilege, anarchists agree with Kropotkin: _"Liberty,
+anti-social acts. Rather than a parasitic legal system which creates and
+defends inequality and privilege, anarchists agree with Kropotkin: _"Liberty,
 equality, and practical human sympathy are the most effective barriers we can
 oppose to the anti-social instinct of certain among us"_. [**Op. Cit.**, p.
 218] _"We want justice, not rigid, but elastic"_, argued Tucker, _"we want
@@ -2377,36 +2241,31 @@ profound."_ The current system of rigid law imposed by the state and
 implemented by a judge was false and _"no such justice is wanted in any
 civilised community."_ [**Op. Cit.**, Vol. 13, No. 5, p. 4]
 
+In summary, then, anarchists have spent considerable time discussing the issue
+and how it could (and should not) be dealt with in a free society. Somewhat
+ironically, given that many think the issue of crime is the weakest point of
+the anarchist case, the outlines of a solution to this problem are well
+established in anarchist theory, both in terms of what **not** to do and in
+terms of combating both crime and its causes. Anarchy is based on people being
+free but freedom does **not** mean the "freedom" to violate the equal freedom
+of others. That is oppression, that is exploitation, that is the embryo of the
+state and capitalism.
 
+Unsurprisingly, most anarchist thinkers have discussed the issue of anti-
+social activity. We can recommend the section _"Crime and Punishment"_ by
+Malatesta (**Errico Malatesta: His Life and Ideas**) as well as Kropotkin's
+essays _"Law and Authority"_ and _"Prisons and their moral influence on
+prisoners"_ (both within the **Anarchism** collection). Emma Goldman's
+_"Prisons: A social crime and Failure"_ (**Red Emma Speaks**), de Cleyre's
+_"Crime and Punishment"_ (**The Voltairine de Cleyre Reader**) and Colin
+Ward's _"How Deviant Dare you get?"_ (**Anarchy in Action**) are also worth
+reading. A useful collection of writings on this issue are found in **Under
+the Yoke of the State: Selected Anarchist Responses to Prisons and Crime**
+(edited by the Dawn Collective).
 
- In summary, then, anarchists have spent considerable time discussing the
-issue. Somewhat ironically, given that many think the issue of crime is the
-weakest point of the anarchist case, the outlines of a solution to this
-problem are well established in anarchist theory, both in terms of what
-**not** to do and in terms of combating both crime and its causes. Anarchy is
-based on people being free but freedom does **not** mean the "freedom" to
-violate the equal freedom of others. That is oppression, that is exploitation,
-that is the embryo of the state and capitalism.
+## I.5.9 What about Freedom of Speech under Anarchism?
 
-
-
- We can recommend the section _"Crime and Punishment"_ by Malatesta (**Errico
-Malatesta: His Life and Ideas**) as well as Kropotkin's essays _"Law and
-Authority"_ and _"Prisons and their moral influence on prisoners"_ (both
-within the **Anarchism** collection). Emma Goldman's _"Prisons: A social crime
-and Failure"_ (**Red Emma Speaks**), de Cleyre's _"Crime and Punishment"_
-(**The Voltairine de Cleyre Reader**) and Colin Ward's _"How Deviant Dare you
-get?"_ (**Anarchy in Action**) are also worth reading. A useful collection of
-writings on this issue are found in **Under the Yoke of the State: Selected
-Anarchist Responses to Prisons and Crime** (edited by the Dawn Collective).
-
-
-
- ## I.5.9 What about Freedom of Speech under Anarchism?
-
-
-
- Free speech in an anarchist society would be far greater than under
+Free speech in an anarchist society would be far greater than under
 capitalism. This is obvious, anarchists argue, because we _"fight against
 oppression and tyranny for a future in which they will be neither masters nor
 slaves, neither rich nor poor, neither oppressors nor oppressed . . . the
@@ -2417,30 +2276,23 @@ American Years**, p. 104] As such, libertarian socialism would be marked by
 extensive freedom of speech but also freedom of the press, of the media and so
 forth.
 
+Some, however, express the idea that **all** forms of socialism would endanger
+freedom of speech, press, and so forth. The usual formulation of this argument
+is in relation to state socialism and goes as follows: if the state (or
+"society") owned all the means of communication, then only the views which the
+government supported would get access to the media.
 
+This is an important point and it needs to be addressed. However, before doing
+so, we should point out that under capitalism the major media are effectively
+controlled by the wealthy. As we argued in [section D.3](secD3.html), the
+media are **not** the independent defenders of freedom that they like to
+portray themselves as. This is hardly surprising, since newspapers, television
+companies, and so forth are capitalist enterprises owned by the wealthy and
+with managing directors and editors who are also wealthy individuals with a
+vested interest in the status quo. Hence there are institutional factors which
+ensure that the "free press" reflects the interests of capitalist elites.
 
- Some, however, express the idea that **all** forms of socialism would
-endanger freedom of speech, press, and so forth. The usual formulation of this
-argument is in relation to state socialism and goes as follows: if the state
-(or "society") owned all the means of communication, then only the views which
-the government supported would get access to the media.
-
-
-
- This is an important point and it needs to be addressed. However, before
-doing so, we should point out that under capitalism the major media are
-effectively controlled by the wealthy. As we argued in [section
-D.3](secD3.html), the media are **not** the independent defenders of freedom
-that they like to portray themselves as. This is hardly surprising, since
-newspapers, television companies, and so forth are capitalist enterprises
-owned by the wealthy and with managing directors and editors who are also
-wealthy individuals with a vested interest in the status quo. Hence there are
-institutional factors which ensure that the "free press" reflects the
-interests of capitalist elites.
-
-
-
- However, in democratic capitalist states there is little overt censorship.
+However, in democratic capitalist states there is little overt censorship.
 Radical and independent publishers can still print their papers and books
 without state intervention (although market forces ensure that this activity
 can be difficult and financially unrewarding). Under socialism, it is argued,
@@ -2449,39 +2301,32 @@ will not exist. Instead, as can be seen from all examples of "actually
 existing socialism," such liberty is crushed in favour of the ruling elites'
 point of view.
 
-
-
- As anarchism rejects the state, we can say that this danger does not exist
+As anarchism rejects the state, we can say that this danger does not exist
 under libertarian socialism. However, since social anarchists argue for the
 communalisation of production, could not restrictions on free speech still
 exist? We argue no, for three reasons.
 
+Firstly, publishing houses, radio and TV stations, newspapers, internet sites
+and so on will be run by their workers directly. They will be supplied by
+other syndicates, with whom they will make agreements, and **not** by "central
+planning" officials, who would not exist. In other words, there is no
+bureaucracy of officials allocating (and so controlling) resources (and so the
+means of communication). Hence, anarchist self-management will ensure that
+there is a wide range of opinions in different magazines and papers. There
+would be community papers, radio and TV stations, internet sites, etc., and
+obviously they would play an increased role in a free society. But they would
+not be the only media. Associations, political parties, industrial syndicates,
+and so on would have their own media and/or would have access to the resources
+of communication workers' syndicates, so ensuring that a wide range of
+opinions can be expressed.
 
-
- Firstly, publishing houses, radio stations, and so on will be run by their
-workers directly. They will be supplied by other syndicates, with whom they
-will make agreements, and **not** by "central planning" officials (who would
-not exist). In other words, there is no bureaucracy of officials allocating
-(and so controlling) resources and so the means of communication. Hence,
-anarchist self-management will ensure that there is a wide range of opinions
-in different magazines and papers. There would be community papers, radio
-stations, etc., and obviously they would play an increased role in a free
-society. But they would not be the only media. Associations, political
-parties, industrial syndicates, and so on would have their own media and/or
-would have access to the resources run by communication workers syndicates, so
-ensuring that a wide range of opinions can be expressed.
-
-
-
- Secondly, the "ultimate" power in a free society will be the individuals of
+Secondly, the "ultimate" power in a free society will be the individuals of
 which it is composed. This power will be expressed in communal and workplace
 assemblies that can recall delegates and revoke their decisions. It is
 doubtful that these assemblies would tolerate a set of would-be bureaucrats
 determining what they can or cannot read, see, or hear.
 
-
-
- Thirdly, individuals in a free society would be interested in hearing
+Thirdly, individuals in a free society would be interested in hearing
 different viewpoints and discussing them. This is the natural side-effect of
 critical thought (which self-management would encourage), and so they would
 have a vested interest in defending the widest possible access to different
@@ -2491,68 +2336,59 @@ the capitalist media (_"I listen to criticism because I am **greedy.** I
 listen to criticism because I am **selfish.** I would not deny myself
 another's insights"_ [For Ourselves, **The Right to be Greedy**, Thesis 113]).
 
-
-
- Therefore, anarchism will **increase** freedom of speech in many important
+Therefore, anarchism will **increase** freedom of speech in many important
 ways, particularly in the workplace (where it is currently denied under
 capitalism). This will be a natural result of a society based on maximising
 freedom and the desire to enjoy life: _"We claim the right of discussing . . .
 whatever subject interests us. If free speech and free press mean anything,
 they mean freedom of discussion."_ [Goldman, **Op. Cit.**, p. 203]
 
-
-
- We would also like to point out that during both the Spanish and Russian
+We would also like to point out that during both the Spanish and Russian
 revolutions, freedom of speech was protected within anarchist areas. For
 example, the Makhnovists in the Ukraine _"fully applied the revolutionary
 principles of freedom of speech, of thought, of the Press, and of political
 association. In all the cities and towns occupied . . . Complete freedom of
 speech, Press, assembly, and association of any kind and for everyone was
 immediately proclaimed."_ [Peter Arshinov, **The History of the Makhnovist
-Movement**, p. 153] This is confirmed by Michael Malet: _"One of the most
-remarkable achievements of the Makhnovists was to preserve a freedom of speech
-more extensive than any of their opponents."_ [**Nestor Makhno in the Russian
-Civil War**, p. 175] In revolutionary Spain republicans, liberals, communists,
-Trotskyites and many different anarchist groups all had freedom to express
-their views. _"On my first visit to Spain in September 1936,"_ Emma Goldman
-reported _"nothing surprised me so much as the amount of political freedom I
-found everywhere. True, it did not extend to Fascists"_ but _"everyone of the
-anti-Fascist front enjoyed political freedom which hardly existed in any of
-the so-called European democracies."_ As for the few restrictions that were in
-place, remember that there was a war on so it was _"childish to expect the
-CNT-FAI to include Fascists and other forces engaged in their destruction in
-the extension of complete political freedom."_ [**Vision on Fire**, p.147 and
-p. 228] The freedom of speech in anarchist areas is confirmed in a host of
-other eye-witnesses, including George Orwell in **Homage to Catalonia** (in
-fact, it was the rise of the pro-capitalist republicans and communists that
-introduced censorship). Both movements were fighting a life-and-death struggle
-against communist, fascist and pro-capitalist armies and so this defence of
-freedom of expression, given the circumstances, is particularly noteworthy.
+Movement**, p. 153] This is confirmed by Michael Malet who notes that _"[o]ne
+of the most remarkable achievements of the Makhnovists was to preserve a
+freedom of speech more extensive than any of their opponents."_ [**Nestor
+Makhno in the Russian Civil War**, p. 175] In revolutionary Spain republicans,
+liberals, communists, Trotskyites and many different anarchist groups all had
+freedom to express their views. Emma Goldman wrote that _"[o]n my first visit
+to Spain in September 1936, nothing surprised me so much as the amount of
+political freedom I found everywhere. True, it did not extend to Fascists"_
+but _"everyone of the anti-Fascist front enjoyed political freedom which
+hardly existed in any of the so-called European democracies."_ As for the few
+restrictions that were in place, remember that there was a war on so it was
+_"childish to expect the CNT-FAI to include Fascists and other forces engaged
+in their destruction in the extension of complete political freedom."_
+[**Vision on Fire**, p.147 and p. 228] The freedom of speech in anarchist
+areas is confirmed in a host of other eye-witnesses, including George Orwell
+in **Homage to Catalonia** (in fact, it was the rise of the pro-capitalist
+republicans and communists that introduced censorship).
 
+Both movements were fighting a life-and-death struggle against communist,
+fascist and pro-capitalist armies and so this defence of freedom of
+expression, given the circumstances, is particularly noteworthy. Freedom of
+speech, like freedom of association, applies to all groups (including, of
+course, religious ones). The only exception would be, as Goldman noted, for
+organisations which are actively fighting to enslave a free society. In other
+words, during a social revolution it is unlikely that freedom of speech and
+organisation would apply to those supporting the counter-revolutionary forces.
+As the threat of violence by these forces decreases, so the freedom of their
+supporters would increase.
 
+It is in this context we must discuss what some could point to as an example
+of anarchists denying freedom of speech, association and worship, namely the
+burning of churches during the Spanish Revolution. In fact, some would use
+this as evidence of anarchist intolerance of religion and to those who
+disagree with them. Anarchists reject such charges.
 
- Freedom of speech, like freedom of association, applies to all groups
-(including, of course, religious ones). The only exception would be, as
-Goldman noted, for organisations which are actively fighting to enslave a free
-society. In other words, during a social revolution it is unlikely that
-freedom of speech and organisation would apply to those supporting the
-counter-revolutionary forces. As the threat of violence by these forces
-decreases, so the freedom of their supporters would increase.
-
-
-
- It is in this context we must discuss what some could point to as an example
-of anarchists denying freedom of speech and association, namely the burning of
-churches during the Spanish Revolution. In fact, some would use this as
-evidence of anarchist intolerance of religion and to those who disagree with
-them. Anarchists reject such charges.
-
-
-
- As is well known, after the successful defeat of the fascist-military coup in
-mid-July 1936, Catholic Churches were burned and members of the Catholic
+As is well known, after the successful defeat of the fascist-military coup in
+late-July 1936, Catholic Churches were burned and members of the Catholic
 Church were killed. However, these acts were **not** acts against freedom of
-religion or speech. Rather they are popular acts against both the oppressive
+religion or speech. Rather they were popular acts against both the oppressive
 and reactionary role of the Catholic Church in Spanish society as well as its
 active support for fascism throughout the 1920s and 1930s, including Franco's
 coup. As historian Paul Preston summarises:
@@ -2569,21 +2405,17 @@ economic order and to make electoral propaganda for the successive political
 organisations of the Right."_ [**The Coming of the Spanish Civil War**, pp.
 42-3]
 
-
-
- The Catholic Church _"was the bulwark of the country's conservative forces"_
+The Catholic Church _"was the bulwark of the country's conservative forces"_
 and no more than 15 days after the announcement of the Republic in 1931, the
 Primate of Spain _"issued a pastoral denouncing the new government's intention
 to establish freedom of worship and to separate Church and state. The cardinal
 urged Catholics to vote in future elections against an administration which in
 his view wanted to destroy religion."_ [Antony Beevor, **The Battle for
 Spain**, p. 91 and p. 25] This opposition to the Republic and support for
-right-wing, near-fascist parties such as the CEDA, continued throughout the
-1930s and climaxed with the Church's backing of Franco's coup.
+right-wing, near-fascist parties, continued throughout the 1930s and climaxed
+with the Church's backing of Franco's coup.
 
-
-
- Nor should it be forgotten that the _"Catholic press applauded the Nazi
+Nor should it be forgotten that the _"Catholic press applauded the Nazi
 destruction of the German Socialist and Communist movements. Nazism was much
 admired on the Spanish Right because of its emphasis on authority, the
 fatherland and hierarchy -- all three of which were central preoccupations of
@@ -2598,37 +2430,29 @@ Mussolini. The CEDA had many of the trappings of a fascist organisation"_ and
 its leader _"had declared his determination to establish a corporative state
 in Spain."_ [**Op. Cit.** p. 69, p. 72, p. 120 and p. 121] As one Catholic
 writer, Francois Mauriac, put it _"Christianity and fascism have become
-intermingled, and [many] cannot hate one without hating the other."_ [quoted
-Antony Beevor, **Op. Cit.**, p. 270]
+intermingled, and they cannot hate one without hating the other."_ [quoted by
+Beevor, **Op. Cit.**, p. 270]
 
+Given all this, the attacks on the Catholic Church really come as no surprise.
+If after an attempted fascist coup people burned down the offices of the
+fascist and pro-fascist parties few people would be surprised. Why should a
+pro-fascist church be considered immune to such popular anger? As George
+Orwell pointed out:
 
-
- Given all this, the attacks on the Catholic Church really comes as no
-surprise. If, after an attempted fascist coup, people burned down the offices
-of the fascist and pro-fascist parties few people would be surprised. Why
-should a pro-fascist church be considered immune to such popular anger? As
-George Orwell pointed out:
-
-
-
- _"No one can blame [someone] for being angry when churches are burned and
+_"No one can blame [someone] for being angry when churches are burned and
 priests murdered or driven into exile. But I think it is a pity that he has
 not looked more deeply into the reasons why these things happen."_ [**Orwell
 in Spain**, p. 314]
 
+Unsurprisingly, then, those priests who had not supported the right, those who
+had treated the working class the same as the rich, were usually spared. In
+the Basque Country, where the church supported the Republic, not a single
+church was burnt. Nor were synagogues or Protestant churches targeted. In
+Barcelona _"the Quakers established canteens which were staffed by refugee
+women."_ [Gabriel Jackson, **The Spanish Republic and the Civil War,
+1931-1939**, p. 446]
 
-
- Unsurprisingly, then, those priests who had not supported the right, those
-who had treated the working class the same as the rich, were spared. In the
-Basque Country, where the church supported the Republic, not a single church
-was burnt. Nor were synagogues or Protestant church targeted. In Barcelona
-_"the Quakers established canteens which were staffed by refugee women."_
-[Gabriel Jackson, **The Spanish Republic and the Civil War, 1931-1939**, p.
-446]
-
-
-
- It should also be stressed that the repression in the fascist zone was much
+It should also be stressed that the repression in the fascist zone was much
 worse than that in the Republican one. Of a ecclesiastical community of
 115,000, 6,845 were killed (_"the vast majority during the summer of 1936"_).
 This is in stark contrast to right-wing claims at the time. It should be
@@ -2650,9 +2474,7 @@ hierarchy nor did it stop _"the Church's official support for Franco"_.
 [Beevor, **Op. Cit.**, p. 92, p. 101, p. 99, p. 104, p. 250, p. 269 and p.
 270]
 
-
-
- Under Franco, everyone had to _"submit themselves to the authority of the
+Under Franco, everyone had to _"submit themselves to the authority of the
 Church as well as to their temporal masters. Franco had been extremely
 generous in restoring all the Church's privileges and wealth, as well as its
 power in education, but in return he expected the priesthood to act virtually
@@ -2663,38 +2485,32 @@ patriotic duty. Concierges and caretakers became police spies . . . and
 priests noted those who did not turn up to mass."_ [Beevor, **Op. Cit.**, p.
 452, p. 453 and p. 454] All with the firm support of the Catholic Church.
 
+Rather than an attempt to repress religion as such, it was a product of
+popular hostility to a corrupt church, one which was deeply reactionary, pro-
+fascist and a major landowner in its own right. This means that an awareness
+of the nature and role of the Church _"does not leave much doubt as to why
+practically all the churches in Catalonia and eastern Aragon were burnt at the
+outbreak of war."_ The anti-clerical movement was a _"popular movement and a
+native Spanish movement. It has its roots not in Marx or Bakunin, but in the
+condition of the Spanish people themselves."_ [Orwell, **Op. Cit.**, p. 300
+and p. 315] While under Franco _"the relentless purging of 'reds and atheists'
+was to continue for years"_ in the Republican areas _"the worst of the
+violence was mainly a sudden and quickly spent reaction of suppressed fear,
+exacerbated by desires of revenge for the past."_ [Beevor, **Op. Cit.**, p.
+91]
 
-
- Rather than an attempt to repress religion as such, the attacks on the
-Catholic Church in republican areas it was a product of popular hostility to a
-corrupt institution, one which was deeply reactionary, pro-fascist and a major
-landowner in its own right. This means that an awareness of the nature and
-role of the Church _"does not leave much doubt as to why practically all the
-churches in Catalonia and eastern Aragon were burnt at the outbreak of war."_
-The anti-clerical movement was a _"popular movement and a native Spanish
-movement. It has its roots not in Marx or Bakunin, but in the condition of the
-Spanish people themselves."_ [Orwell, **Op. Cit.**, p. 300 and p. 315] While
-under Franco _"the relentless purging of 'reds and atheists' was to continue
-for years"_ in the Republican areas _"the worse of the violence was mainly a
-sudden and quickly spent reaction of suppressed fear, exacerbated by desires
-of revenge for the past."_ [Beevor, **Op. Cit.**, p. 91]
-
-
-
- So the burning of churches in Spain had very little to do with anarchist
+So the burning of churches in Spain had very little to do with anarchist
 atheism and much, much more to do with the Catholic Church's social role in
 Spain, its reactionary position, its hatred of the unions and social protest
 and the fact it supported the fascist coup. It does not imply an opposition to
 freedom of speech by libertarian socialists but was rather an expression of
 popular opposition to a ruling class and pro-fascist organisation.
 
-
-
- One last point to make on this issue. Given the actual role of the Church
-during this period and its wholehearted support for fascism in the 1920s
-onwards, it seems strange that the Catholic church has declared the murdered
-priests in Spain to be martyrs, part of a planned religious persecution. This
-is not true, if they were martyrs then they were martyrs to their pro-fascist
+One last point to make on this issue. Given the actual role of the Church
+during this period and its wholehearted support for fascism in Spain, Italy
+and elsewhere, it seems strange that the Catholic church has declared the
+murdered priests as martyrs, part of a planned religious persecution. This is
+not true, if they were martyrs then they were martyrs to their pro-fascist
 politics and not their faith (_"The political role of the Church was ignored
 when the religious victims were made into martyrs"_). Significantly, the
 Catholic Church _"said nothing when the nationalists shot sixteen of the
@@ -2703,14 +2519,15 @@ killed some twenty Protestant ministers). In 2003 when John Paul II beatified
 a teacher killed in July 1936 he _"still made no mention of the Basque priests
 killed by the nationalists."_ [Beevor, **Op. Cit.**, p. 270, p. 92 and p. 527]
 Clearly a priest being murdered by fascists backed by the Vatican is
-ineligible for sainthood.
+ineligible for sainthood and so the Catholic Church makes little mention, nor
+is seeking to make saints, of those Basque priests murdered by Franco once
+fascist troops conquered Euskal Herria.
 
-
-
- Given the actual role of the Catholic Church during this period it is
-surprising the Catholic hierarchy would seek to bring attention to it. Perhaps
-it is confidant that the media will not mention these awkward facts, although
-this context explains the deaths and church-burning in 1936. As we noted in
+Ultimately, given the actual role of the Catholic Church during this period it
+is surprising the Catholic hierarchy would seek to bring attention to it.
+Perhaps it is confidant that the media will not mention these awkward facts,
+although this context makes the deaths and church-burning in 1936
+understandable. Perhaps we should not be too surprised, for as we noted in
 [section A.2.18](secA2.html#seca218), it appears that killing working class
 people is not worthy of comment but assassinating members of the ruling elite
 (and its servants) is. So the fact that the burning of churches and killing of
@@ -2718,21 +2535,17 @@ clergy is well known but the pro-fascist activities of the church (a product
 of both its reactionary politics and position in the ruling elite) which
 provoked it is not should come as no surprise.
 
-
-
- In summary, then, a free society would have substantial freedom of speech
+In summary, then, a free society would have substantial freedom of speech
 along with other fundamental freedoms (including freedom of worship and of
-association). Such freedoms would be respected, supported and encouraged for
-all shades of political opinion, from the left through to the right. The only
-exception would be if an organisation were **actively** supporting those
-seeking to impose their rule on a free people and in such cases some
-restrictions may be decided upon (their nature would depend on the state of
-the struggle, with them decreasing as the danger decreased).
+religious association). Such freedoms would be respected, supported and
+encouraged for all shades of political opinion, from the left through to the
+right. The only exception would be if an organisation were **actively**
+supporting those seeking to impose their rule on a free people and in such
+cases some restrictions may be decided upon (their nature would depend on the
+state of the struggle, with them decreasing as the danger decreased).
 
-
-
- To those who claim that refusing freedom of speech to counter-revolutionaries
-equates to statism or implies a contradiction in libertarian ideas, anarchists
+To those who claim that refusing freedom of speech to counter-revolutionaries
+equates to statism or implies a contradiction in libertarian ideas anarchists
 would reply that such arguments are flawed. In terms of the former, it is
 equating state imposed censorship with the active disobedience of a free
 people. Rather than the government imposing a ban, members of a free society
@@ -2742,17 +2555,15 @@ Without electricity, paper, distribution networks and so on, reactionaries
 would find it hard to publish or broadcast. As for the latter, there is no
 contradiction as it is hardly contradictory to support and encourage freedom
 while, at the same time, resisting attempts to enslave you! As such, this
-suggestion makes the same logical error Engels made in his diatribe against
+argument makes the same logical error Engels did in his diatribe against
 anarchism, namely considering it "authoritarian" to destroy authority (see
 [section H.4.7](secH4.html#sech47)). Similarly, it is hardly authoritarian to
 resist those seeking to impose their authority on you or their supporters!
-This perspective seems to assume that the true "libertarian" approach is to
-let others impose their rule on you as stopping them is "authoritarian"! A
+This perspective seems to assume that the true 'libertarian' approach is to
+let others impose their rule on you as stopping them is 'authoritarian'! A
 truly strange way of understanding our ideas....
 
-
-
- To conclude, based upon both theory and practice, we can say that anarchism
+To conclude, based upon both theory and practice, we can say that anarchism
 will not endanger freedom of expression. Indeed, by breaking up the capitalist
 oligopoly which currently exists and introducing workers' self-management of
 the media, a far wider range of opinions will become available in a free
@@ -2760,27 +2571,21 @@ society. Rather than reflect the interests of a wealthy elite, the media would
 reflect the interests of society as a whole and the individuals and groups
 within it.
 
-
-
- ## I.5.10 What about political parties, interest groups and professional
+## I.5.10 What about political parties, interest groups and professional
 bodies?
 
+Political parties and other interest groups will exist in an anarchist society
+as long as people feel the need to join them. They will not be banned in any
+way, and their members will have the same rights as everyone else. Individuals
+who are members of political parties or associations can take part in communal
+and other assemblies and try to convince others of the soundness of their
+ideas.
 
-
- Political parties and other interest groups will exist in an anarchist
-society as long as people feel the need to join them. They will not be banned
-in any way, and their members will have the same rights as everyone else.
-Individuals who are members of political parties or associations can take part
-in communal and other assemblies and try to convince others of the soundness
-of their ideas.
-
-
-
- However, there is a key difference between such activity and politics under a
+However, there is a key difference between such activity and politics under a
 capitalist democracy. This is because the elections to positions of
 responsibility in an anarchist society will not be based on party tickets nor
-will it involve the delegation of power. Emile Pouget's description of the
-difference between the syndicalist union and political elections drives this
+will they involve the delegation of power. Emile Pouget's description of the
+difference between the syndicalist trade union and elections drives this
 difference home:
 
 > _"The constituent part of the trade union is the individual. Except that the
@@ -2816,9 +2621,7 @@ elected candidate's mandate has run its course._
 trade union activity and participation in the disappointing chores of
 politics."_ [**No Gods, No Masters**, vol. 2, pp. 67-68]
 
-
-
- In other words, when individuals are elected to administrative posts they are
+In other words, when individuals are elected to administrative posts they are
 elected to carry out their mandate, **not** to carry out their party's
 programme. Of course, if the individuals in question had convinced their
 fellow workers and citizens that their programme was correct, then this
@@ -2827,37 +2630,23 @@ practice. We would imagine that the decisions of collectives and communes
 would reflect the complex social interactions and diverse political opinions
 their members and of the various groupings within the association.
 
-
-
- Anarchism will likely contain many different political groupings and ideas.
-The relative influence of these within collectives and communes would reflect
-the strength of their arguments and the relevance of their ideas, as would be
-expected in a free society. As Bakunin argued: _"The abolition of this mutual
-influence would be death. And when we vindicate the freedom of the masses, we
-are by no means suggesting the abolition of any of the natural influences that
-individuals or groups of individuals exert on them. What we want is the
-abolition of influences which are artificial, privileged, legal, official."_
-[quoted by Malatesta, **Anarchy**, p. 51] It is only when representative
-government replaces self-management that political debate results in "elected
-dictatorship" and centralisation of power into the hands of one party which
-claims to speak for the whole of society, as if the latter had one mind.
-
-
-
- This freedom of political association has existed in every anarchist
+This freedom of political association has existed in every anarchist
 revolution. During the Russian Revolution, the Makhnovists organised soviets
 and regional congresses at every opportunity and these saw delegates elected
 who were members of different political parties. For example, members of the
-socialist Left-SR party were active in the Makhnovist movement and attended
-soviet congresses (for example, the resolution of the February 1919 congress
-_"was written by the anarchists, left Socialist Revolutionaries, and the
-chairman."_ [Michael Palij, **The Anarchism of Nestor Makhno, 1918-1921**, p.
-155]). The Makhnovist Revolutionary Military Soviet created at the
+peasant-socialist Left-SR party were active in the Makhnovist movement and
+attended soviet congresses (for example, the resolution of the February 1919
+congress _"was written by the anarchists, left Socialist Revolutionaries, and
+the chairman."_ [Michael Palij, **The Anarchism of Nestor Makhno, 1918-1921**,
+p. 155]). The Makhnovist Revolutionary Military Soviet created at the
 Aleksandrovsk congress in late 1919 had three Communists elected to it while
 there were 18 delegates from workers at that congress, six being Mensheviks
-and the remaining 12 included Communists [Micheal Malet, **Nestor Makhno in
-the Russian Civil War**, p. 111 and p. 124] In the words of the Makhnovist
-reply to Bolshevik attempt to ban one of their congresses:
+and the remaining 12 included Communists [Malet, **Op. Cit.**, p. 111, p. 124]
+Clearly, members of political parties were elected to both the congresses and
+the Revolutionary Military Soviet. As such, the idea that libertarian
+socialism excludes members of political parties standing for election is
+false. In the words of the Makhnovist reply to a Bolshevik attempt to ban one
+of their congresses:
 
 > _"The Revolutionary Military Council . . . holds itself above the pressure
 and influence of all parties and only recognises the people who elected it.
@@ -2868,24 +2657,20 @@ Revolutionary Military Council . . . will necessarily be replaced by another
 organisation, 'more revolutionary' and more Bolshevik."_ [quoted by Peter
 Arshinov, **The History of the Makhnovist Movement**, pp. 103-4]
 
-
-
- As such, the Makhnovists supported the right of working-class self-
+As such, the Makhnovists supported the right of working-class self-
 determination, as expressed by one delegate to a conference in February 1919:
 
-> _ "No party has a right to usurp governmental power into its hands . . . We
+> _"No party has a right to usurp governmental power into its hands . . . We
 want life, all problems, to be decided locally, not by order from any
 authority above; and all peasants and workers should decide their own fate,
 while those elected should only carry out the toilers' wish."_ [quoted by
 Palij, **Op. Cit.**, p. 154]
 
-
-
- It should be mentioned that a myth has sprung up fostered by some Leninists
-that parties were banned from election to these bodies (for example, see Jason
-Yanowitzs terrible _"On the Makhno Myth"_ [**International Socialist Review**,
-no. 53]). These claims flow from basic ignorance of how the soviets were
-organised during the revolution combined with a misunderstanding of this
+It should be mentioned that a myth has sprung up fostered by some Leninists
+that parties were banned from election to these bodies (for example, Jason
+Yanowitz’s terrible _"On the Makhno Myth"_ [**International Socialist
+Review**, no. 53]). These claims flow from basic ignorance of how the soviets
+were organised during the revolution combined with a misunderstanding of this
 Makhnovist proclamation from January 1920:
 
 > _"Only workers participating in work vital to the people's economy should be
@@ -2895,28 +2680,24 @@ in a soviet could turn it into a soviet of party political deputies, thereby
 leading the soviet order to perdition."_ [quoted by Alexandre Skirda, **Nestor
 Makhno: Anarchy's Cossack**, p. 164]
 
-
-
- When the soviets were formed in Petrograd and other Russian cities in 1917
-the initiative had come (unlike in 1905) from political parties and these
-ensured that they had representatives from political parties within their
-executive committees (as distinct from elected delegates who happened to be
-members of a political party). This was how, for example, _"high party leaders
-became voting delegates"_ in the soviets, by being _"selected by the
+When the soviets were formed in Petrograd and other Russian cities in 1917 the
+initiative had come (unlike in 1905) from political parties and these ensured
+that they had members who were representatives from political parties within
+their executive committees (as distinct from elected delegates who happened to
+be members of a political party). This was how, for example, _"high party
+leaders became voting delegates"_ in the soviets, by being _"selected by the
 leadership of each political organisation, and not by the soviet assembly
 itself."_ [Samuel Farber, **Before Stalinism**, p. 31] Thus the Makhnovists
 were rejecting the means by which many soviet members were not directly
 elected by actual workers.
 
-
-
- In addition, the Makhnovists were following the Russian Anarcho-Syndicalists
+In addition, the Makhnovists were following the Russian Anarcho-Syndicalists
 who argued for _"effective soviets organised on collective lines with the
 direct delegation of workers and peasants . . . and not political chatterboxes
 gaining entry through party lists and turning the soviets into talking-
 shops"_. [**The Anarchists in the Russian Revolution**, Paul Avrich (ed.), p.
 118] This use of party lists meant that soviet delegates could be anyone. For
-example, the leading left-wing Menshevik Martov recounted that in early 1920 a
+example, the leading left-wing Menshevik Martov recounts that in early 1920 a
 chemical factory _"put up Lenin against me as a candidate [to the Moscow
 soviet]. I received seventy-six votes he - eight (in an open vote)."_ [quoted
 by Israel Getzler, **Martov**, p. 202] How would either of these two
@@ -2926,19 +2707,32 @@ delegates of working people, then why should non-working class members of
 political parties be elected as mandated and recallable delegates to a soviet
 from a workplace they have never visited except, perhaps, to gather votes?
 
+Hence anarchism will likely contain many different political groupings and
+ideas. The relative influence of these within collectives and communes would
+reflect the strength of their arguments and the relevance of their ideas, as
+would be expected in a free society. As Bakunin argued: _"The abolition of
+this mutual influence would be death. And when we vindicate the freedom of the
+masses, we are by no means suggesting the abolition of any of the natural
+influences that individuals or groups of individuals exert on them. What we
+want is the abolition of influences which are artificial, privileged, legal,
+official."_ [quoted by Malatesta, **Anarchy**, p. 51]
 
+It is only when representative government replaces self-management that
+political debate results in "elected dictatorship" and centralisation of power
+into the hands of one party which claims to speak for the whole of society, as
+if the latter had one mind.
 
- This applies, needless to say, to other areas of life. Anarchists do not
-think that social life can be reduced to political and economic associations
-alone. Individuals have many different interests and desires which they must
-express in order to have a truly free and fulfilling life. Therefore an
-anarchist society will see the development of numerous voluntary associations
-and groups to express these interests. For example, there would be consumer
-groups, musical groups, scientific associations, art associations, clubs,
-housing co-operatives and associations, craft and hobby guilds, fan clubs,
-animal rights associations, groups based around gender, sexuality, creed and
-colour and so forth. Associations will be created for all human interests and
-activities. As Kropotkin argued:
+This applies, needless to say, to other areas of life. Anarchists do not think
+that social life can be reduced to political and economic associations alone.
+Individuals have many different interests and desires which they must express
+in order to have a truly free and interesting life. Therefore an anarchist
+society will see the development of numerous voluntary associations and groups
+to express these interests. For example, there would be consumer groups,
+musical groups, scientific associations, art associations, clubs, housing co-
+operatives and associations, craft and hobby guilds, fan clubs, animal rights
+associations, groups based around gender, sexuality, creed and colour and so
+forth. Associations will be created for all human interests and activities. As
+Kropotkin argued:
 
 > _"He who wishes for a grand piano will enter the association of musical
 instrument makers. And by giving the association part of his half-days'
@@ -2951,78 +2745,67 @@ necessities, would amply suffice to satisfy all longings for luxury, however
 varied. Thousands of associations would undertake to supply them."_ [**The
 Conquest of Bread**, p. 120]
 
-
-
- We can imagine, therefore, an anarchist society being based around
+We can imagine, therefore, an anarchist society being based around
 associations and interest groups on every subject which fires the imagination
 of individuals and for which individuals want to meet in order to express and
 further their interests. Housing associations, for example, would exist to
 allow inhabitants to manage their local areas, design and maintain their homes
-and local parks and gardens. Vegetarian groups would produce information on
-issues they consider important, trying to convince others of the errors of
-eating meat. Consumer groups would be in dialogue with syndicates about
-improving products and services, ensuring that syndicates produce what is
-required by consumers. Environment groups would exist to watch production and
-make sure that it is not creating damaging side effects and informing both
-syndicates and communes of their findings. Feminist, homosexual, bisexual and
-anti-racist groups would exist to put their ideas across, highlighting areas
-in which social hierarchies and prejudice still existed. All across society,
-people would be associating together to express themselves and convince others
-of their ideas on all kinds of issues.
+and local parks and gardens. Animal rights and other interest groups would
+produce information on issues they consider important, trying to convince
+others of the errors of eating meat or whatever. Consumer groups would be in
+dialogue with syndicates about improving products and services, ensuring that
+syndicates produce what is required by consumers. Environment groups would
+exist to watch production and make sure that it is not creating damaging side
+effects and informing both syndicates and communes of their findings.
+Feminist, homosexual, bisexual and anti-racist groups would exist to put their
+ideas across, highlighting areas in which social hierarchies and prejudice
+still existed. All across society, people would be associating together to
+express themselves and convince others of their ideas on many different
+issues.
 
+This applies to professional groupings who would seek to ensure that those
+work tasks that require qualifications to do (for example, medicine and such
+like) have recognised standards and certifications. In this way, others in
+society would know whether a fellow worker is a recognised expert in their
+field and has the appropriate qualifications to do the work required or give
+advice. While a free society would break down the line between intellectual
+and manual work, the fact remains that people will wish to be happy that the
+doctor or nurse they are visiting knows what they are doing. This is where
+professional groupings would come into play, organising training and
+certification based on mutually agreed standards and qualifications. This
+would not stop others seeking to practice such tasks, of course, but it will
+mean that few, if any, would frequent someone without the basic professional
+standards.
 
-
- This applies to professional groupings who would seek to ensure that those
-work tasks that require qualifications to do (medicine and such like) have
-recognised standards and certificates. In this way, others in society would
-know whether a fellow worker is a recognised expert in their field and has the
-appropriate qualifications to do the work required or give advice. While a
-free society would break down the line between intellectual and manual work,
-ensure the end of the division of labour, the fact remains that people will
-wish to be happy that the doctor or nurse they are visiting knows what they
-are doing. This is where professional groupings would come into play,
-organising training and certification based on mutually agreed standards and
-qualifications. This would not stop others seeking to practice such tasks, of
-course, but it will mean that few, if any, would frequent someone without the
-recognised professional standards.
-
-
-
- Hence in a anarchist society, free association would take on a stronger and
+Hence in a anarchist society, free association would take on a stronger and
 more positive role than under capitalism. In this way, social life would take
 on many dimensions, and the individual would have the choice of thousands of
 societies to join to meet his or her interests or create new ones with other
 like-minded people. Anarchists would be the last to deny that there is more to
 life than work!
 
-
-
- ## I.5.11 How will an anarchist society defend itself against the power
+## I.5.11 How will an anarchist society defend itself against the power
 hungry?
 
-
-
- A common objection to anarchism is that a libertarian society will be
+A common objection to anarchism is that an anarchist society will be
 vulnerable to be taken over by thugs or those who seek power. A similar
 argument is that a group without a leadership structure becomes open to
 charismatic leaders so anarchy would just lead to tyranny.
 
-
-
- For anarchists, such arguments are strange. Society already **is** run by
+For anarchists, such arguments are strange. Society already **is** run by
 thugs and/or the off-spring of thugs. Kings were originally just successful
-thugs who imposed their domination over a specific territorial area. The
-modern state has evolved from the structure created to impose this domination.
-Similarly with property, with most legal titles to land being traced back to
-its violent seizure by thugs who then passed it on to their children who then
-sold it or gave it to their offspring. The origins of the current system in
-violence can be seen by the continued use of violence by the state and
-capitalists to enforce and protect their domination over society. When push
-comes to shove, the dominant class will happily re-discover their thug past
-and employ extreme violence to maintain their privileges. The descent of large
-parts of Europe into Fascism in the 1920s and 1930s, or Pinochet's coup in
-Chile in 1973 indicates how far they will go. As Peter Arshinov argued (in a
-slightly different context):
+thugs who succeeded in imposing their domination over a given territorial
+area. The modern state has evolved from the structure created to impose this
+domination. Similarly with property, with most legal titles to land being
+traced back to its violent seizure by thugs who then passed it on to their
+children who then sold it or gave it to their offspring. The origins of the
+current system in violence can be seen by the continued use of violence by the
+state and capitalists to enforce and protect their domination over society.
+When push comes to shove, the dominant class will happily re-discover their
+thug past and employ extreme violence to maintain their privileges. The
+descent of large parts of Europe into Fascism in the 1920s and 1930s, or
+Pinochet's coup in Chile in 1973 indicates how far they will go. As Peter
+Arshinov argued (in a slightly different context):
 
 > _"Statists fear free people. They claim that without authority people will
 lose the anchor of sociability, will dissipate themselves, and will return to
@@ -3035,18 +2818,14 @@ people's veins . . . The liberation of the people leads to the savagery of
 those who live from its enslavement."_ [**The History of the Makhnovist
 Movement**, p. 85]
 
+Anarchists are not impressed with the argument that anarchy would be unable to
+stop thugs seizing power. It ignores the fact that we live in a society where
+the power-hungry already hold power. As an argument against anarchism it fails
+and is, in fact, an argument against hierarchical societies.
 
-
- So anarchists are not impressed with the argument that anarchy would be
-unable to stop thugs seizing power. It ignores the fact that we live in a
-society where the power-hungry already rule. As an argument against anarchism
-it fails and is, in fact, an argument against hierarchical societies.
-
-
-
- Moreover, it also ignores fact that people in an anarchist society would have
-gained their freedom by overthrowing every existing and would-be thug who had,
-or desired, power over others. They would have defended that freedom against
+Moreover, it also ignores fact that people in an anarchist society would have
+gained their freedom by overthrowing every existing and would-be thug who had
+or desired power over others. They would have defended that freedom against
 those who desired to re-impose it. They would have organised themselves to
 manage their own affairs and, therefore, to abolish all hierarchical power.
 And we are to believe that these people, after struggling to become free,
@@ -3072,154 +2851,131 @@ They have it in their power to use force against him. They have these powers
 individually as well as collectively. Being either past rebels who have been
 inspired with the spirit of liberty, or else habituated to enjoy freedom from
 their infancy, they are hardly to rest passive in view of what they feel to be
-wrong."_ [Kropotkin, **Act for Yourselves**, pp. 87-8]
+wrong."_ [**Act for Yourselves**, pp. 87-8]
 
+Thus a free society would use direct action to resist the would-be ruler just
+as it had used direct action to free itself from existing rulers. An anarchist
+society would be organised in a way which would facilitate this direct action
+as it would be based on networks of solidarity and mutual aid. An injury to
+one is an injury to all and a would-be ruler would face a whole liberated
+society acting against him or her. Faced with the direct action of the
+population (which would express itself in non-co-operation, strikes,
+demonstrations, occupations, insurrections and so on) a would be power seeker
+would find it difficult to impose themselves. Unlike those accustomed to
+rulership in existing society, an anarchist people would be a society of
+rebels and so difficult to dominate and conquer: _"In the future society,
+Anarchy will be defence, the prevention of the re-establishment of any
+authority, any power, any State."_ [Carlo Cafiero, _"Anarchy and Communism"_,
+pp. 179-86, **The Raven**, No. 6, p. 180]
 
+Anarchists point to the example of the rise of Fascism in Italy, Spain and
+Germany to prove their point. In areas with strong anarchist movements the
+fascists were resisted most strongly. While in Germany Hitler took power with
+little or no opposition, in Italy and Spain the fascists had to fight long and
+hard to gain power. The anarchist and anarcho-syndicalist organisations fought
+the fascists tooth and nail, with some success before betrayal by the
+Republicans and Marxists. From this historical experience anarchists argue
+that an anarchist society would quickly and easily defeat would-be thugs as
+people would be used to practising direct action and self-management and would
+have no desire to stop practising them. A free people would quickly organise
+itself in self-managed militias for self-defence (just as they would during a
+social revolution to defend it -- [section J.7.6](secJ7.html#secj76)).
 
- Thus a free society would use direct action to resist the would-be ruler just
-as it had used direct action to free itself from existing rulers. It would be
-organised in a way which would facilitate this direct action as it would be
-based on networks of solidarity and mutual aid. An injury to one is an injury
-to all and a would-be ruler would face a whole liberated society acting
-against him or her. Faced with the direct action of the population (which
-would express itself in non-co-operation, strikes, demonstrations,
-occupations, insurrections and so on) a would-be power seeker would find it
-difficult to impose themselves. Unlike those accustomed to rulership in
-existing society, an anarchist people would be a society of rebels and so
-difficult to dominate and conquer: _"In the future society, Anarchy will be
-defence, the prevention of the re-establishment of any authority, any power,
-any State."_ [Carlo Cafiero, _"Anarchy and Communism"_, pp. 179-86, **The
-Raven**, No. 6, p. 180]
-
-
-
- Anarchists point to the example of the rise of Fascism in Italy, Spain and
-Germany. In areas with strong anarchist movements the fascists were resisted
-most strongly. While in Germany Hitler was met with little or no opposition,
-in Italy and Spain the fascists had to fight long and hard to gain power. The
-anarchist and anarcho-syndicalist organisations fought the fascists tooth and
-nail, with some success before betrayal by the Republicans and Marxists. From
-this historical experience anarchists argue that an anarchist society would
-quickly and easily defeat would-be thugs as people would be used to practising
-direct action and self-management and would have no desire to stop. A free
-people would quickly organise itself in self-managed militias for self-defence
-(just as they would during a social revolution to defend it -- [section
-J.7.6](secJ7.html#secj76)).
-
-
-
- As for self-management resulting in "charismatic" leaders, well the logic is
+As for self-management resulting in "charismatic" leaders, well the logic is
 astounding. As if hierarchical structures are **not** based on leadership
 structures and do not require a charismatic leader! Such an argument is
 inherently self-contradictory -- as well as ignoring the nature of modern
 society and its leadership structures. Rather than mass assemblies being
 dominated by leaders, it is the case that hierarchical structures are the
-natural breeding ground for dictators. All the great dictators the world have
+natural breeding ground for dictators. All the great dictators the world has
 seen have come to the forefront in **hierarchical** organisations, **not**
-libertarian structured ones. Hitler, for example, did not come to power via
-self-management. Rather he used a highly centralised and hierarchically
-organised party to take control of a centralised, hierarchical state. The very
-disempowerment of the population in capitalist society results in them looking
-to leaders to act for them and so _"charismatic"_ leaders are a natural
-result. An anarchist society, by empowering all, would make it more difficult,
-not less, for a would-be leader to gain power -- few people, if any, would be
-willing to sacrifice and negate themselves for the benefit of another.
+libertarian structured ones. Hitler, for example, did not come to power via a
+libertarian organisation. Rather he used a highly centralised and
+hierarchically organised party to take control of a centralised, hierarchical
+state. The very disempowerment of the population in capitalist society results
+in them looking to leaders to act for them and so "charismatic" leaders are a
+natural result. An anarchist society, by empowering all, would make it more
+difficult, not less, for a would-be leader to gain power -- few people, if
+any, would be willing to sacrifice and negate themselves for the benefit of
+another.
 
+Our discussion on the power hungry obviously relates to the more general
+question of whether ethical behaviour will be rewarded in an anarchist
+society. In other words, could an anarchist society be stable or would the
+unethical take over?
 
+One of the most disturbing aspects of living in a world where the rush to
+acquire wealth is the single most important aspect of living is what happens
+to people who follow an ethical path in life. Under capitalism, the ethical
+generally do not succeed as well as those who stab their fellows in the back,
+those who cut corners, indulge in sharp business practises, drive competitors
+into the ground and live their lives with an eye on the bottom line but they
+do survive. Loyalty to a firm or a group, bending over backwards to provide a
+service, giving a helping hand to somebody in need, placing friendship above
+money, count for nothing when the bills come in. People who act ethically in a
+capitalist society are usually punished and penalised for their ethical, moral
+and principled behaviour. Indeed, the capitalist market rewards unethical
+behaviour as it generally reduces costs and so gives those who do it a
+competitive edge.
 
- Our discussion on the power hungry obviously relates to the more general the
-question of whether ethical behaviour be rewarded in an anarchist society. In
-other words, could an anarchist society be stable or would the unethical take
-over?
+It is different in a free society. Anarchism is based on two principles of
+association, equal access to power and wealth. Everybody in an anarchist
+society irrespective of what they do, or who they are or what type of work
+they perform is entitled to share in society's wealth. Whether a community
+survives or prospers depends on the combined efforts of the people in that
+community. Ethical behaviour would become the norm in an anarchist community;
+those people who act ethically would be rewarded by the standing they achieve
+in the community and by others being more than happy to work with and aid
+them. People who cut corners, try to exercise power over others, refuse to co-
+operate as equals or otherwise act in an unethical manner would lose their
+standing in an anarchist society. Their neighbours and work mates would refuse
+to co-operate with them (or reduce co-operation to a minimum) and take other
+forms of non-violent direct action to point out that certain forms of activity
+were inappropriate. They would discuss the issue with the unethical person and
+try to convince them of the errors of their way. In a society where the
+necessities are guaranteed, people would tend to act ethically because ethical
+behaviour raises an individuals profile and standing within such a community.
+Capitalism and ethical behaviour are mutually exclusive concepts; anarchism
+encourages and rewards ethical behaviour. Needless to say, as we discussed in
+[section I.5.8](secI5.html#seci58), anarchists are aware that a free society
+would need to defend itself against whatever anti-social behaviour remains in
+a free and equal society and seeking to impose your will on others defines
+unethical and anti-social!
 
+Therefore, as can be seen, anarchists argue that a free society would not have
+to fear would-be thugs, "charismatic" leaders or the unethical. An anarchist
+society would be based on the co-operation of free individuals. It is unlikely
+that they would tolerate such behaviour and would use their own direct action
+as well as social and economic organisations to combat it. Moreover, the
+nature of free co-operation would reward ethical behaviour as those who
+practice it would have it reciprocated by their fellows, and, if worse came to
+worse, they would defend their liberty!
 
+One last point. Some people seem to think that anarchism is about the powerful
+being appealed to **not** to oppress and dominate others. Far from it.
+Anarchism is about the oppressed and exploited refusing to let others dominate
+them. It is **not** an appeal to the "better side" of the boss or would-be
+boss; it is about the solidarity and direct action of those subject to a boss
+**getting rid of the boss** \-- whether the boss agrees to it or not! Once
+this is clearly understood the idea that an anarchist society is vulnerable to
+the power-hungry is clearly nonsense -- anarchy is based on resisting power
+and so is, by its very nature, more resistant to would-be rulers than a
+hierarchical one.
 
- It is one of the most disturbing aspects of living in a world where the rush
-to acquire wealth is the single most important aspect of living is what
-happens to people who follow an ethical path in life. Under capitalism, the
-ethical generally do not succeed as well as those who stab their fellows in
-the back, those who cut corners, indulge in sharp business practises, drive
-competitors into the ground and live their lives with an eye on the bottom
-line but they do survive. Loyalty to a firm or a group, bending over backwards
-to provide a service, giving a helping hand to somebody in need, placing
-friendship above money, count for nothing when the bills come in. People who
-act ethically in a capitalist society are usually punished and penalised for
-their ethical and principled behaviour. Indeed, the capitalist market rewards
-unethical behaviour as it generally reduces costs and so gives those who do it
-a competitive edge.
-
-
-
- It is different in a free society. Anarchism is based on equal access to
-power and wealth. Everybody in an anarchist society irrespective of what they
-do, or who they are or what type of work they perform is entitled to share in
-society's wealth. Whether a community survives or prospers depends on the
-combined efforts of the people in that community. Ethical behaviour would
-become the norm in an anarchist community; those people who act ethically
-would be rewarded by the standing they achieve in the community and by others
-being more than happy to work with and aid them. People who cut corners, try
-to exercise power over others, refuse to co-operate as equals or otherwise act
-in an unethical manner would lose their standing. Their neighbours and work
-mates would refuse to co-operate with them (or reduce co-operation to a
-minimum) and take other forms of non-violent direct action to point out that
-certain forms of activity was inappropriate. They would discuss the issue with
-the unethical person and try to convince them of the errors of their way. In a
-society where the necessities are guaranteed, people would tend to act
-ethically because ethical behaviour raises an individuals profile and standing
-within such a community. Capitalism and ethical behaviour are mutually
-exclusive concepts; anarchism encourages and rewards ethical behaviour.
-Needless to say, as we discussed in [section I.5.8](secI5.html#seci58),
-anarchists are aware that a free society would need to defend itself against
-whatever anti-social behaviour remains in a free and equal society and seeking
-to impose your will on others defines unethical and anti-social!
-
-
-
- Therefore, as can be seen, anarchists argue that a free society would not
-have to fear would-be thugs, "charismatic" leaders or the unethical. An
-anarchist society would be based on the co-operation of free individuals. It
-is unlikely that they would tolerate bad behaviour and would use their own
-direct action as well as social and economic organisations to combat it.
-Moreover, the nature of free co-operation would reward ethical behaviour as
-those who practice it would have it reciprocated by their fellows. and, if
-worse came to worse, they would defend their liberty!
-
-
-
- One last point. Some people seem to think that anarchism is about the
-powerful being appealed to **not** to oppress and dominate others. Far from
-it. Anarchism is about the oppressed and exploited refusing to let others
-dominate them. It is **not** an appeal to the "better side" of the boss or
-would-be boss; it is about the solidarity and direct action of those subject
-to a boss **getting rid of the boss** \-- whether the boss agrees to it or
-not! Once this is clearly understood the idea that an anarchist society is
-vulnerable to the power-hungry is clearly nonsense -- anarchy is based on
-resisting power and so is, by its very nature, more resistant to would-be
-rulers than a hierarchical one.
-
-
-
- So, to summarise, anarchists are well aware that an anarchist society will
+So, to summarise, anarchists are well aware that an anarchist society will
 have to defend itself from both inside and outside attempts to re-impose
 capitalism and the state. Indeed, every revolutionary anarchist has argued
 that a revolution will have to defend itself (as proven in [section
 H.2.1](secH2.html#sech21), Marxist assertions otherwise have always been
-myths). This applies to both internal and external attempts to re-introduce
-authority.
+myths).
 
-
-
- ## I.5.12 Would an anarchist society provide health care and other public
+## I.5.12 Would an anarchist society provide health care and other public
 services?
 
-
-
- It depends on the type of anarchist society you are talking about. Different
+It depends on the type of anarchist society you are talking about. Different
 anarchists propose different solutions.
 
-
-
- In an individualist-mutualist society, for example, health care and other
+In an individualist-mutualist society, for example, health care and other
 public services would be provided by individuals or co-operatives on a pay-
 for-use basis. It would be likely that individuals or co-
 operatives/associations would subscribe to various insurance providers or
@@ -3227,85 +2983,75 @@ enter into direct contracts with health care providers. Thus the system would
 be similar to privatised health care but without the profit margins as
 competition, it is hoped, would drive prices down to cost.
 
+Other anarchists reject such a system. They are in favour of socialising
+health care and other public services. They argue that a privatised system
+would only be able to meet the requirements of those who can afford to pay for
+it and so would be unjust and unfair. In addition, such systems would have
+higher overheads (the need to pay share-holders and the wages of management,
+most obviously) as well as charge more (privatised public utilities under
+capitalism have tended to charge consumers more, unsurprisingly as by their
+very nature they are natural monopolies).
 
-
- Other anarchists reject such a system. They are favour of socialising health
-care and other public services. They argue that a privatised system would only
-be able to meet the requirements of those who can afford to pay for it and so
-would be unjust and unfair. In addition, such systems would have higher
-overheads (the need to pay share-holders and the high wages of upper
-management, most obviously, and not to mention paying for propaganda against
-"socialised" medicine) as well as charge more (privatised public utilities
-under capitalism have tended to charge consumers more, unsurprisingly as by
-their very nature they are natural monopolies).
-
-
-
- Looking at health care, for example, the need for medical attention is not
+Looking at health care, for example, the need for medical attention is not
 dependent on income and so a civilised society would recognise this fact.
 Under capitalism, profit-maximising medical insurance sets premiums according
-to the risks of the insured getting ill or injured, with the riskiest and most
-ill not being able to find insurance at any price. Private insurers shun
-entire industries as too dangerous for their profits due to the likelihood of
-accidents or illness. They review contracts regularly and drop sick people for
-the slightest reason (understandably, given that they make profits by
-minimising pay-outs for treatment). Hardly a vision to inspire a free society
+to the risks of the insured getting ill or injured, with the riskiest not
+being able to find insurance at any price. Private insurers shun entire
+industries as too dangerous for their profits due to the likelihood of
+accidents or illness. They review contracts regularly and drop people who get
+sick for the slightest reason (understandably, given that they make profits by
+minimising payouts for treatment). Hardly a vision to inspire a free society
 or one compatible with equality and mutual respect.
 
-
-
- Therefore, most anarchists are in favour of a socialised and universal
-health-care system for both ethical and efficiency reasons (see [section
-I.4.10](secI4.html#seci410)). Needless to say, an anarchist system of
-socialised health care would differ in many ways to the current systems of
-universal health-care provided by the state (which, while called socialised
-medicine by its enemies is better described as nationalised medicine --
-although it should be stressed that this is better than the privatised
-system). Such a system of socialised health-care will be built from the
-bottom-up and based around the local commune. In a social anarchist society,
-_"medical services . . . will be free of charge to all inhabitants of the
-commune. The doctors will not be like capitalists, trying to extract the
+Therefore, most anarchists are in favour of a socialised and universal health-
+care system for both ethical and efficiency reasons (see [section
+I.4.10](secI4.html#seci410) for more details). Needless to say, an anarchist
+system of socialised health care would differ in many ways to the current
+systems of universal health-care provided by the state (which, while called
+socialised medicine by its enemies is better described as nationalised
+medicine -- although it should be stressed that this is better than the
+privatised system). Such a system of socialised health-care will be built from
+the bottom-up and based around the local commune. In a social anarchist
+society, _"medical services . . . will be free of charge to all inhabitants of
+the commune. The doctors will not be like capitalists, trying to extract the
 greatest profit from their unfortunate patients. They will be employed by the
 commune and expected to treat all who need their services."_ Moreover,
 prevention will play an important part, as _"medical treatment is only the
 **curative** side of the science of health care; it is not enough to treat the
 sick, it is also necessary to prevent disease. That is the true function of
-hygiene."_ [James Guillaume, _"On Building the New Social Order"_, pp. 356-79,
-**Bakunin on Anarchism**, p. 371] The same would go for other public services
-and works.
+hygiene."_ [James Guillaume, _"On Building the New Social Order"_, pp.
+356-79,**Bakunin on Anarchism**, p. 371] The same would go for other public
+services and works.
 
-
-
- While rejecting privatisation, anarchists also reject nationalisation in
+While rejecting privatisation, anarchists also reject nationalisation in
 favour of socialisation and worker's self-management. In this we follow
 Proudhon, who argued that there was a series of industries and services which
 were _"public works"_ which he thought best handled by communes and their
 federations. Thus _"the control undertaking such works will belong to the
 municipalities, and to districts within their jurisdiction"_ while _"the
 control of carrying them out will rest with the workmen's associations."_ This
-was due to both their nature and libertarian values as the _"direct, sovereign
-initiative of localities, in arranging for public works that belong to them,
-is a consequence of the democratic principle and the free contract: their
-subordination to the State is . . . a return to feudalism."_ Workers' self-
-management of such public workers is, again, a matter of libertarian
+was due to both their nature and libertarian values and so the _"direct,
+sovereign initiative of localities, in arranging for public works that belong
+to them, is a consequence of the democratic principle and the free contract:
+their subordination to the State is . . . a return to feudalism."_ Workers'
+self-management of such public workers is, again, a matter of libertarian
 principles for _"it becomes necessary for the workers to form themselves into
 democratic societies, with equal conditions for all members, on pain of a
 relapse into feudalism."_ Railways should be given _"to responsible companies,
 not of capitalists, but of WORKMEN."_ [**General Idea of the Revolution**, p.
 276, p. 277 and p. 151]
 
-
-
- This was applied during the Spanish Revolution. Gaston Leval discussed
-_"Achievements in the Public Sector"_ in his classic account of the
-collectives. Syndicates organised water, gas and electricity utilities in
-Catalonia, while the trams and railways were run more efficiently and cheaper
-than under capitalist management. All across Spain, the workers in the health
-service re-organised their industry on libertarian lines and in association
-with the collectives, communes and the unions of the CNT. As Leval summarised:
+This was applied during the Spanish Revolution. Gaston Leval discussed
+_"Achievements in the Public Sector"_ and a whole chapter of his account of
+the collectives is concerned with this. Syndicates organised water, gas and
+electricity utilities in Catalonia, while the Trams and railways were run more
+efficiently and cheaper than under capitalist management. All across Spain,
+the workers in the health service re-organised their industry in libertarian
+lines and in association with the local collective or commune and the unions
+of the CNT. As Leval summarised:
 
 > _"For the socialisation of medicine was not just an initiative of militant
-libertarian doctors. Wherever we were able to make s study of villages and
+libertarian doctors. Wherever we were able to make a study of villages and
 small towns transformed by the Revolution, medicine and existing hospitals had
 been municipalised, expanded, placed under the aegis of the Collective. When
 there were none, they were improvised. The socialisation of medicine was
@@ -3313,25 +3059,21 @@ becoming everyone's concern, for the benefit of all. It constituted one of the
 most remarkable achievements of the Spanish Revolution."_ [**Collectives in
 the Spanish Revolution**, p. 278]
 
-
-
- So the Spanish Revolution indicates how an anarchist health service would
+So the Spanish Revolution indicates how an anarchist health service would
 operate. In rural areas local doctors would usually join the village
-collective and provided their services like any other worker. Where local
+collective and provide their services like any other worker. Where local
 doctors were not available, _"arrangements were made by the collectives for
 treatment of their members by hospitals in nearby localities. In a few cases,
 collectives themselves build hospitals; in many they acquired equipment and
 other things needed by their local physicians."_ For example, the Monzon
 comercal (district) federation of collectives in Aragon established maintained
-a hospital in Binefar, the **Casa de Salud Durruti**. By April 1937 it had 40
+a hospital in Binefar, the Casa de Salud Durruti. By April 1937 it had 40
 beds, in sections which included general medicine, prophylaxis and
 gynaecology. It saw about 25 outpatients a day and was open to anyone in the
 32 villages of the comarca. [Robert Alexander, **The Anarchists in the Spanish
 Civil War**, vol. 1, p. 331 and pp. 366-7]
 
-
-
- In the Levante, the CNT built upon its existing **Sociedad de Socorros Mutuos
+In the Levante, the CNT built upon its existing **Sociedad de Socorros Mutuos
 de Levante** (a health service institution founded by the union as a kind of
 mutual benefit society which had numerous doctors and specialists). During the
 revolution, the Mutua had 50 doctors and was available to all affiliated
@@ -3341,23 +3083,23 @@ Gaston Leval provided us with an excellent summary:
 
 > _"The socialisation of health services was one of the greatest achievements
 of the revolution. To appreciate the efforts of our comrades it must be borne
-in mind that they rehabilitated the health service in all of Catalonia in so
+in mind that the rehabilitated the health service in all of Catalonia in so
 short a time after July 19th. The revolution could count on the co-operation
 of a number of dedicated doctors whose ambition was not to accumulate wealth
 but to serve the afflicted and the underprivileged._
 
-> _ "The Health Workers' Union was founded in September, 1936. In line with
-the tendency to unite all the different classifications, trades, and services
+> _"The Health Workers' Union was founded in September, 1936. In line with the
+tendency to unite all the different classifications, trades, and services
 serving a given industry, **all** health workers, from porters to doctors and
 administrators, were organised into one big union of health workers . . . _
 
-> _ "Our comrades laid the foundations of a new health service . . . The new
+> _"Our comrades laid the foundations of a new health service . . . The new
 medical service embraced all of Catalonia. It constituted a great apparatus
 whose parts were distributed according to different needs, all in accord with
 an overall plan. Catalonia was divided into nine zones . . . In turn, all the
 surrounding villages and towns were served from these centres._
 
-> _ "Distributed throughout Catalonia were twenty-seven towns with a total of
+> _"Distributed throughout Catalonia were twenty-seven towns with a total of
 thirty-six health centres conducting services so thoroughly that every
 village, every hamlet, every isolated peasant in the mountains, every woman,
 every child, anywhere, received adequate, up-to-date medical care. In each of
@@ -3368,24 +3110,20 @@ Barcelona, chosen by all the sections, met once a week with one delegate from
 each section to deal with common problems and to implement the general plan .
 . ._
 
-> _ "The people immediately benefited from the projects of the health
+> _"The people immediately benefited from the projects of the health
 syndicate. The syndicate managed all hospitals and clinics. Six hospitals were
-opened in Barcelona . . . Eight new sanatoriums were installed in converted
+opened in Barcelona. . . Eight new sanatoriums were installed in converted
 luxurious homes ideally situated amidst mountains and pine forests. It was no
 easy task to convert these homes into efficient hospitals with all new
 facilities."_ [**The Anarchist Collectives**, Sam Dolgoff (ed.), pp. 99-100]
 
-
-
- People were no longer required to pay for medical services. Each collective,
+People were no longer required to pay for medical services. Each collective,
 if it could afford it, would pay a contribution to its health centre. Building
 and facilities were improved and modern equipment introduced. Like other self-
 managed industries, the health service was run at all levels by general
 assemblies of workers who elected delegates and hospital administration.
 
-
-
- We can expect a similar process to occur in the future anarchist society. It
+We can expect a similar process to occur in the future anarchist society. It
 would be based on self-management, of course, with close links to the local
 commune and federations of communes. Each hospital or health centre would be
 autonomous but linked in a federation with the others, allowing resources to
@@ -3398,9 +3136,7 @@ communes and their federations, the syndicates and federations of syndicates
 will provide resources and effectively own the health system, ensuring access
 for all.
 
-
-
- Similar systems would operate in other public services. For example, in
+Similar systems would operate in other public services. For example, in
 education we expect the members of communes to organise a system of free
 schools. This can be seen from the Spanish revolution. Indeed, the Spanish
 anarchists organised Modern Schools before the outbreak of the revolution,
@@ -3416,30 +3152,26 @@ men with minds of their own -- and let it be clear that when we use the word
 'men' we use it in the generic sense -- to which end it will be necessary for
 the teacher to cultivate every one of the child's faculties so that the child
 may develop every one of its capacities to the full."_ [quoted by Jose
-Periats, **The CNT in the Spanish Revolution**, p. 70] The principles of
-libertarian education, of encouraging freedom instead of authority in the
-school, was applied on vast scale (see [section J.5.13](secJ5.html#secj513)
-for more details on Modern Schools and libertarian education).
+Periats, **The CNT in the Spanish Revolution**, p. 70] Libertarian education,
+of encouraging freedom instead of authority in the school, was applied on vast
+scale (see [section J.5.13](secJ5.html#secj513) for more details on Modern
+Schools and libertarian education).
 
-
-
- This educational revolution was not confined to collectives or children. For
+This educational revolution was not confined to collectives or children. For
 example, the **Federacion Regional de Campesinos de Levante** formed
 institutes in each of its five provinces. The first was set up in October 1937
 in an old convent with 100 students. The Federation also set up two
-universities in Valencia and Madrid which taught a wide variety of
+_"universities"_ in Valencia and Madrid which taught a wide variety of
 agricultural subjects and combined learning with practical experience in an
 experimental form attached to each university. The Aragon collectives formed a
 similar specialised school in Binefar. The CNT was heavily involved in
 transforming education in Catalonia. In addition, the local federation of the
 CNT in Barcelona established a school to train women workers to replace male
-ones being taken into the army. The school was run by the anarcha-feminist
+ones being taken into the army. The school was run by the anarchist-feminist
 group the **Mujeres Libres**. [Robert Alexander, **Op. Cit.**, p. 406, p. 670
 and pp. 665-8 and p. 670]
 
-
-
- Ultimately, the public services that exist in a social anarchist society will
+Ultimately, the public services that exist in a social anarchist society will
 be dependent on what members of that society desire. If, for example, a
 commune or federation of communes desires a system of communal health-care or
 schools then they will allocate resources to implement it. They will allocate
@@ -3448,57 +3180,61 @@ volunteers from the interested parties such as the relevant syndicates,
 professional associations, consumer groups and so on. For example, for
 communal education a commission or working group would include delegates from
 the teachers union, from parent associations, from student unions and so on.
-The running of such a system would be, like any other industry, by those who
-work in it. Functional self-management would be the rule, with doctors
+The running of such a system would be based, like any other industry, on those
+who work in it. Functional self-management would be the rule, with doctors
 managing their work, nurses theirs and so on, while the general running of,
 say, a hospital would be based on a general assembly of all workers there who
-would elect and mandate the administration staff and decide the policy the
-hospital would follow. Other interested parties would have a say, including
-patients in the health system and students in the education system. As
-Malatesta argued _"the carrying out and the normal functioning of public
-services vital to our daily lives would be more reliable if carried out . . .
-by the workers themselves who, by direct election or through agreements made
-with others, have chosen to do that kind of work and carry it out under the
-direct control of all the interested parties."_ [**Anarchy**, p. 41]
+would elect and mandate delegates, the administration staff and decide the
+policy the hospital would follow. Needless to say, other interested parties
+would have a say, including patients in the health system and students in the
+education system. As Malatesta argued:
 
+> _"And is it difficult to understand why there should be people who believe
+that the carrying out and the normal functioning of public services vital to
+our daily lives would be more reliable if carried out under the instructions
+of a government rather by the workers themselves who, by direct election or
+through agreements made with others, have chosen to do that kind of work and
+carry it out under the direct control of all the interested parties."_
+[**Anarchy**, p. 41]
 
-
- Needless to say, any system of public services would not be imposed on those
+Needless to say, any system of public services would not be imposed on those
 who did not desire it. They would be organised for and by members of the
-communes and so individuals who were not part of one would have to pay to gain
-access to communal resources. However, it is unlikely that an anarchist
-society would be as barbaric as a capitalist one and refuse entry to people
-who were ill and could not pay, nor turn away emergencies because they did not
-have enough money. And just as other workers need not join a syndicate or
-commune, so doctors, teachers and so on could practice their trade outside the
-communal system as either individual artisans or as part of a co-operative.
-However, given the availability of free medical services it is doubtful they
-would grow rich doing so. Medicine, teaching and so on would revert back to
-what usually motivates people to initially take these up professions -- the
-desire to help others and make a positive impact in society.
+communes. Therefore, individuals who were not part of a local commune or
+syndicate would have to pay to gain access to the communal resources. However,
+it is unlikely that an anarchist society would be as barbaric as a capitalist
+one and refuse entry to cases who were ill and could not pay, nor turn away
+emergencies because they did not have enough money to pay. And just as other
+workers need not join a syndicate or commune, so doctors, teachers and so on
+could practice their trade outside the communal system as either individual
+artisans or as part of a co-operative. However, given the availability of free
+medical services it is doubtful they would grow rich doing so. Medicine,
+teaching and so on would revert back to what usually initially motivates
+people to take these up professions -- the desire to help others and make a
+positive impact in peoples lives.
 
-
-
- Thus, as would be expected, public services would be organised by the public,
+Thus, as would be expected, public services would be organised by the public,
 organised in their syndicates and communes. They would be based on workers'
 self-management of their daily work and of the system as a whole. Non-workers
-who took part in the system (patients, students, etc.) would not be ignored
-and would also play a role in providing essential feedback to assure quality
-control of services and to ensure that it is responsive to users needs. The
-resources required to maintain and expand the system would be provided by the
-communes, syndicates and their federations. For the first time, public
-services would truly be public and not a statist system imposed upon the
-public from above nor a system by which the few fleece the many by exploiting
-natural monopolies for their own interests.
+who took part in the system (patients, students) would not be ignored and
+would also play a role in providing essential feedback to assure quality
+control of services and to ensure that the service is responsive to users
+needs. The resources required to maintain and expand the system would be
+provided by the communes, syndicates and their federations. For the first
+time, public services would truly be public and not a statist system imposed
+upon the public from above nor a system by which the few fleece the many by
+exploiting natural monopolies for their own interests. Public Services in a
+free society will be organised by those who do the work and under the
+effective control of those who use them.
 
+Finally, this vision of public services being run by workers' associations
+could be raised as a valid libertarian reform under capitalism (not to mention
+raising the demand to turn firms into co-operatives when they are bailed out
+during economic crisis). Equally, rather than nationalisation or
+privatisation, public utilities could be organised as a consumer co-operative
+(i.e., owned by those who use it) while the day-to-day running could be in the
+hands of a producer co-operative.
 
-
- So Public Services in a free society will be organised by those who do the
-work and under the effective control of those who use them. This vision of
-public services being run by workers' associations would be raised as a valid
-libertarian reform under capitalism (not to mention raising the demand to turn
-firms into co-operatives when they are bailed out during an economic crisis).
-Equally, rather than nationalisation or privatisation, public utilities could
-be organised as a consumer co-operative (i.e., owned by those who use it)
-while the day-to-day running could be in the hands of a producer co-operative.
+[‹ I.4 How could an anarchist economy function?](/afaq/secI4.html "Go to
+previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.6 What about
+the "Tragedy of the Commons"? ›](/afaq/secI6.html "Go to next page" )
 

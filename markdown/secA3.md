@@ -170,7 +170,7 @@ sanctifies it now. The absolute ownership of it -- 'the right to use or abuse'
 -- will be abolished, and possession, use, will be the only title. It will be
 seen how impossible it would be for one person to 'own' a million acres of
 land, without a title deed, backed by a government ready to protect the title
-at all hazards."_ [Lucy Parsons, **Freedom, Equality & Solidarity**, p. 33
+at all hazards."_ [Lucy Parsons, **Freedom, Equality &amp; Solidarity**, p. 33
 
 However, within this use-rights framework, the two schools of anarchism
 propose different systems. The social anarchist generally argues for communal
@@ -198,7 +198,7 @@ labour."_ [Kropotkin, **The Conquest of Bread**, p. 45 and p. 46] By this
 social anarchists simply mean that the social product which is produced by all
 would be available to all and each individual who has contributed productively
 to society can take what they need (how quickly we can reach such an ideal is
-a moot point, as we discuss in [section I.2.2](secI2.html#seci22")). Some
+a moot point, as we discuss in [section I.2.2](secI2.html#seci22%22)). Some
 social anarchists, like mutualists for example, are against such a system of
 libertarian (or free) communism, but, in general, the vast majority of social
 anarchists look forward to the end of money and, therefore, of buying and
@@ -304,12 +304,12 @@ Rather than have "society" control the individual, as the Individualist
 Anarchist fears, social anarchism is based on importance of individuality and
 individual expression:
 
-> _"Anarchist Communism maintains that most valuable of all conquests \--
+> _"Anarchist Communism maintains that most valuable of all conquests --
 individual liberty -- and moreover extends it and gives it a solid basis --
 economic liberty -- without which political liberty is delusive; it does not
 ask the individual who has rejected god, the universal tyrant, god the king,
 and god the parliament, to give unto himself a god more terrible than any of
-the proceeding \-- god the Community, or to abdicate upon its altar his [or
+the proceeding -- god the Community, or to abdicate upon its altar his [or
 her] independence, his [or her] will, his [or her] tastes, and to renew the
 vow of asceticism which he formally made before the crucified god. It says to
 him, on the contrary, 'No society is free so long as the individual is not so!
@@ -815,7 +815,7 @@ Ecological Society**, p. 77]
 
 Social ecology offers the vision of a society in harmony with nature, one
 which _"involves a fundamental reversal of all the trends that mark the
-historic development of capitalist technology and bourgeois society \-- the
+historic development of capitalist technology and bourgeois society -- the
 minute specialisation of machines and labour, the concentration of resources
 and people in gigantic industrial enterprises and urban entities, the
 stratification and bureaucratisation of nature and human beings."_ Such an
@@ -1061,38 +1061,39 @@ consequently) on war and how to stop it. It is worth quoting from:
 > _ "The truth is that the cause of wars . . . rests solely in the existence
 of the State, which is the form of privilege . . . Whatever the form it may
 assume, the State is nothing but organised oppression for the advantage of a
-privileged minority . . .
+privileged minority . . .  
+>  _
 
 >
 
-> "The misfortune of the peoples, who were deeply attached to peace, is that,
+> _"The misfortune of the peoples, who were deeply attached to peace, is that,
 in order to avoid war, they placed their confidence in the State with its
 intriguing diplomatists, in democracy, and in political parties . . . This
 confidence has been deliberately betrayed, and continues to be so, when
 governments, with the aid of the whole of the press, persuade their respective
-people that this war is a war of liberation.
+people that this war is a war of liberation. _
 
 >
 
-> "We are resolutely against all wars between peoples, and . . . have been,
-are, and ever will be most energetically opposed to war.
+> _"We are resolutely against all wars between peoples, and . . . have been,
+are, and ever will be most energetically opposed to war. _
 
 >
 
-> "The role of the Anarchists . . . is to continue to proclaim that there is
+> _"The role of the Anarchists . . . is to continue to proclaim that there is
 only one war of liberation: that which in all countries is waged by the
 oppressed against the oppressors, by the exploited against the exploiters. Our
-part is to summon the slaves to revolt against their masters.
+part is to summon the slaves to revolt against their masters. _
 
 >
 
-> "Anarchist action and propaganda should assiduously and perseveringly aim at
-weakening and dissolving the various States, at cultivating the spirit of
-revolt, and arousing discontent in peoples and armies. . .
+> _"Anarchist action and propaganda should assiduously and perseveringly aim
+at weakening and dissolving the various States, at cultivating the spirit of
+revolt, and arousing discontent in peoples and armies. . . _
 
 >
 
-> "We must take advantage of all the movements of revolt, of all the
+> _"We must take advantage of all the movements of revolt, of all the
 discontent, in order to foment insurrection, and to organise the revolution
 which we look to put end to all social wrongs. . . Social justice realised
 through the free organisation of producers: war and militarism done away with
@@ -1307,7 +1308,7 @@ equals in free associations. _"Feminism,"_ stressed Peggy Kornegger, _"doesn't
 mean female corporate power or a woman President; it means no corporate power
 and no Presidents. The Equal Rights Amendment will not transform society; it
 only gives women the 'right' to plug into a hierarchical economy. Challenging
-sexism means challenging all hierarchy \-- economic, political, and personal.
+sexism means challenging all hierarchy -- economic, political, and personal.
 And that means an anarcha-feminist revolution."_ [**Op. Cit.**, p. 27]
 
 Anarchism, as can be seen, included a class and economic analysis which is
@@ -1711,7 +1712,7 @@ by custom, public opinion, by feelings of justice and reciprocity, and they do
 not need to be protected by violence."_ [**The Slavery of Our Times**, p. 47]
 Indeed, he argues that:
 
-> _"Tens of thousands of acres of forest lands belonging to one proprietor \--
+> _"Tens of thousands of acres of forest lands belonging to one proprietor --
 while thousands of people close by have no fuel -- need protection by
 violence. So, too, do factories and works where several generations of workmen
 have been defrauded and are still being defrauded. Yet more do the hundreds of
@@ -1778,14 +1779,14 @@ Tolstoy's ideas had a strong influence on Gandhi, who inspired his fellow
 country people to use non-violent resistance to kick Britain out of India.
 Moreover, Gandhi's vision of a free India as a federation of peasant communes
 is similar to Tolstoy's anarchist vision of a free society (although we must
-stress that Gandhi was not an anarchist). The **Catholic Worker Group_** in
-the United States was also heavily influenced by Tolstoy (and Proudhon), as
-was Dorothy Day a staunch Christian pacifist and anarchist who founded it in
-1933. The influence of Tolstoy and religious anarchism in general can also be
-found in **Liberation Theology_** movements in Latin and South America who
-combine Christian ideas with social activism amongst the working class and
-peasantry (although we should note that Liberation Theology is more generally
-inspired by state socialist ideas rather than anarchist ones).
+stress that Gandhi was not an anarchist). The **Catholic Worker Group** in the
+United States was also heavily influenced by Tolstoy (and Proudhon), as was
+Dorothy Day a staunch Christian pacifist and anarchist who founded it in 1933.
+The influence of Tolstoy and religious anarchism in general can also be found
+in **Liberation Theology** movements in Latin and South America who combine
+Christian ideas with social activism amongst the working class and peasantry
+(although we should note that Liberation Theology is more generally inspired
+by state socialist ideas rather than anarchist ones).
 
 So there is a minority tradition within anarchism which draws anarchist
 conclusions from religion. However, as we noted in [section
@@ -2309,7 +2310,7 @@ revolutionary society might work. Some even attempt to justify this lack by
 declaring that a mere revolution could never be radical enough to satisfy
 their eternal ontological rebelliousness. Such all-or-nothing bombast may
 temporarily impress a few spectators, but its ultimate effect is simply to
-make people blas."_ [Knabb, **Op. Cit.**, pp. 31-32]
+make people blasé."_ [Knabb, **Op. Cit.**, pp. 31-32]
 
 Then there is the question of the means suggested for achieving primitivism.
 Moore argues that the _"kind of world envisaged by anarcho-primitivism is one
@@ -2498,4 +2499,8 @@ For more on "primitivist" anarchism see John Zerzan's **Future Primitive** as
 well as David Watson's **Beyond Bookchin** and **Against the Mega-Machine**.
 Ken Knabb's essay **The Poverty of Primitivism** is an excellent critique of
 primitivism as is Brian Oliver Sheppard's **Anarchism vs. Primitivism**.
+
+[‹ A.2 What does anarchism stand for?](/afaq/secA2.html "Go to previous page"
+) [up](/afaq/secAcon.html "Go to parent page" ) [A.4 Who are the major
+anarchist thinkers? ›](/afaq/secA4.html "Go to next page" )
 

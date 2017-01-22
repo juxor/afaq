@@ -29,7 +29,7 @@ itself in a normal, healthy manner."_ [**Anarchism and Other Essays**, pp.
 70-1]
 
 So we see a system which is apparently based on "egotism" and "individualism"
-but whose members are free be standardised individuals, who hardly express
+but whose members are free to be standardised individuals, who hardly express
 their individuality at all. Far from increasing individuality, capitalism
 standardises it and so restricts it -- that it survives at all is more an
 expression of the strength of humanity than any benefits of the capitalist
@@ -40,10 +40,9 @@ communists like Kropotkin suggesting that _"as for knowing what will be the
 essence of **individual** development, I do not think it **could** be along
 individualist lines. Individual -- yes, without doubt, but individ**ualist**
 \-- I have my doubts. That would mean: **narrow egoism** \-- regressive
-evolution and even that would be limited to a certain number."_ [Kropotkin,
-quoted by Ruth Kinna, _"Kropotkin's theory of Mutual Aid in Historical
-Context"_, pp. 259-283, **International Review of Social History**, No. 40, p.
-268]
+evolution and even that would be limited to a certain number."_ [quoted by
+Ruth Kinna, _"Kropotkin's theory of Mutual Aid in Historical Context"_, pp.
+259-283, **International Review of Social History**, No. 40, p. 268]
 
 So, can we say that libertarian socialism will **increase** individuality or
 is this conformity and lack of "individualism" a constant feature of the human
@@ -84,7 +83,7 @@ developed individual is the consummation of a fully developed society."_
 [**The Eclipse of Reason**, p. 135]
 
 The sovereign, self-sufficient individual is as much a product of a healthy
-community as it is from individual self-realisation and the fulfilment of
+community as it is of individual self-realisation and the fulfilment of
 desire. There is a tendency for **community** to enrich and develop
 **individuality**, with this tendency being seen throughout human history.
 This suggests that the abstract individualism of capitalism is more the
@@ -98,7 +97,7 @@ of humanity's idea of the good."_ [**The Ecology of Freedom**, p. 409]
 Communal support for individuality is hardly surprising as individuality is a
 product of the interaction between **social** forces and individual
 attributes. The more an individual cuts themselves off from social life, the
-more likely their individuality will suffer. This can be seen from the 1980's
+more likely their individuality will suffer. This can be seen from the 1980s
 when neo-liberal governments supporting the individualism associated with free
 market capitalism were elected in both Britain and the USA. The promotion of
 market forces lead to social atomisation, social disruption and a more
@@ -186,16 +185,16 @@ Cleyre put it:
 and asserted it, himself, or jointly with others that shared his convictions,
 was a direct actionist . . . _
 
-> _ "Every person who ever had a plan to do anything, and went and did it, or
+> _"Every person who ever had a plan to do anything, and went and did it, or
 who laid his plan before others, and won their co-operation to do it with him,
 without going to external authorities to please do the thing for them, was a
 direct actionist. All co-operative experiments are essentially direct action._
 
-> _ "Every person who ever in his life had a difference with anyone to settle,
+> _"Every person who ever in his life had a difference with anyone to settle,
 and want straight to the other persons involved to settle it . . . was a
 direct actionist. Examples of such action are strikes and boycotts . . . _
 
-> _ "These actions . . . are the spontaneous retorts of those who feel
+> _"These actions . . . are the spontaneous retorts of those who feel
 oppressed by a situation."_ [**The Voltairine de Cleyre Reader**, pp. 47-8]
 
 Therefore, anarchist tactics base themselves upon self-assertion and this can
@@ -207,7 +206,7 @@ from an anarchist society. Indeed, anarchists strongly stress the importance
 of individuality within a society. To quote communist-anarchist J. Burns-
 Gibson:
 
-> _"[T]o destroy individuality is to destroy society. For society is only
+> _"to destroy individuality is to destroy society. For society is only
 realised and alive in the individual members. Society has no motive that does
 not issue from its individual members, no end that does not centre in them, no
 mind that is not theirs. 'Spirit of the age,' 'public opinion,' 'commonweal or
@@ -225,13 +224,13 @@ development of individuality combined with the highest development of
 voluntary association in all its aspects . . . ever changing, ever modified"_.
 [**Anarchism**, p. 123]
 
-For anarchists real liberty requires social equality. For _"[i]f individuals
-are to exercise the maximum amount of control over their own lives and
-environment then authority structures in these areas most be so organised that
-they can participate in decision making."_ [Pateman, **Op. Cit.**, p. 43]
-Hence individuality will be protected, encouraged and developed in an
-anarchist society far more than in a class ridden, hierarchical society like
-capitalism. As Kropotkin argued:
+For anarchists real liberty requires social equality: _"If individuals are to
+exercise the maximum amount of control over their own lives and environment
+then authority structures in these areas most be so organised that they can
+participate in decision making."_ [Pateman, **Op. Cit.**, p. 43] Hence
+individuality will be protected, encouraged and developed in an anarchist
+society far more than in a class ridden, hierarchical society like capitalism.
+As Kropotkin argued:
 
 > _"[Libertarian] Communism is the best basis for individual development and
 freedom; not that individualism which drives men to the war of each against
@@ -265,15 +264,14 @@ emphasis on an egoistic, but impoverished, self."_ [**Op. Cit.**, p. 48]
 
 This individualisation associated with tribal cultures was also noted by
 historian Howard Zinn. He quotes fellow historian Gary Nash describing
-Iroquois culture (which appears typical of most Native American tribes):
+Iroquois culture:
 
 > _"No laws and ordinances, sheriffs and constables, judges and juries, or
-courts or jails -- the apparatus of authority in European societies \-- were
-to be found in the north-east woodlands prior to European arrival. Yet
-boundaries of acceptable behaviour were firmly set. Though priding themselves
-on the autonomous individual, the Iroquois maintained a strict sense of right
-and wrong."_ [quoted by Zinn, **A People's History of the United States**, p.
-21]
+courts or jails -- the apparatus of authority in European societies -- were to
+be found in the north-east woodlands prior to European arrival. Yet boundaries
+of acceptable behaviour were firmly set. Though priding themselves on the
+autonomous individual, the Iroquois maintained a strict sense of right and
+wrong."_ [quoted by Zinn, **A People's History of the United States**, p. 21]
 
 This respect for individuality existed in a society based on communistic
 principles. As Zinn notes, in the Iroquois _"land was owned in common and
@@ -304,8 +302,8 @@ than the individual's duty to his [or her] community or nation. This
 anarchistic attitude ruled all behaviour, beginning with the smallest social
 unity, the family. The Indian parent was constitutionally reluctant to
 discipline his [or her] children. Their every exhibition of self-will was
-accepted as a favourable indication of the development of maturing character.
-. ."_ [Van Every, quoted by Zinn, **Op. Cit.**, p. 136]
+accepted as a favourable indication of the development of maturing
+character."_ [Van Every, quoted by Zinn, **Op. Cit.**, p. 136]
 
 In addition, Native American tribes also indicate that communal living and
 high standards of living can and do go together. For example, during the 1870s
@@ -342,8 +340,8 @@ boss they did not have to learn to obey others and so could develop their own
 abilities to govern themselves. This self-government allowed the development
 of a custom in such tribes called _"the principle of non-interference"_ in
 anthropology. This is the principle of defending someone's right to express
-the opposing view and it is a pervasive principle in the tribal world, and it
-is so much so as to be safely called a universal.
+the opposing view and it is a pervasive principle in the tribal world, so much
+so as to be safely called a universal.
 
 The principle of non-interference is a powerful principle that extends from
 the personal to the political, and into every facet of daily life
@@ -375,7 +373,7 @@ Therefore, given the strength of individuality documented in tribes with no
 private property, no state and little or no other hierarchical structures
 within them, can we not conclude that anarchism will defend individuality and
 even develop it in ways blocked by capitalism? At the very least we can say
-"possibly", and that is enough to allow us to question that dogma that
+"possibly", and that is enough to allow us to question the dogma that
 capitalism is the only system based on respect for the individual.
 
 ## I.7.2 Do anarchists worship the past or the "noble savage"?
@@ -394,7 +392,7 @@ or society. They are also aware of the problems associated with using **any**
 historical period as an example of "anarchism in action." Take for example the
 "free cities" of Medieval Europe, which was used by Kropotkin as an example of
 the potential of decentralised, confederated communes. He was sometimes
-accused of being a _"Medievalist"_ (as was William Morris) while all he was
+accused of being a "Medievalist" (as was William Morris) while all he was
 doing was indicating that capitalism need not equal progress and that
 alternative social systems have existed which have encouraged freedom in ways
 capitalism restricts.
@@ -416,7 +414,7 @@ management in production). Rather than being backward looking and worshipping
 a past which was disappearing, Proudhon analysed the present **and** past,
 drew any positive features he could from both and applied them to the present
 and the future (see also [section I.3.8](secI3.html#seci38)). Unlike Marx, who
-argued that industrialisation (i.e. proletarianisation) was the pre-conditions
+argued that industrialisation (i.e. proletarianisation) was the pre-condition
 of socialism, Proudhon wanted justice and freedom for working class people
 during his lifetime, not some (unspecified) time in the future after
 capitalism had fully developed.
@@ -532,7 +530,7 @@ What anarchists propose instead of the current legal system (or an alternative
 law system based on religious or "natural" laws) is **custom** \-- namely the
 development of living "rules of thumb" which express what a society considers
 as right at any given moment. However, the question arises, if an agreed set
-of principles are used to determine the just outcome, in what way would this
+of principles is used to determine the just outcome, in what way would this
 differ from laws?
 
 The difference is that the "order of custom" would prevail rather than the
@@ -552,7 +550,7 @@ being infantilised by the state through a constant bombardment of fixed social
 structures removing all possibility of people developing their own unique
 solutions.
 
-Therefore, anarchist recognise that social custom changes with society. What
+Therefore, anarchists recognise that social custom changes with society. What
 was once considered "normal" or "natural" may become to be seen as oppressive
 and hateful. This is because the _"conception of good or evil varies according
 to the degree of intelligence or of knowledge acquired. There is nothing
@@ -581,7 +579,7 @@ the environment where these ethics can be bought. To quote Shakespeare's
 
 > _Second Murderer: O, in the Duke of Gloucester's purse."_
 
-Therefore, as far as _"The Law"_ defending individual rights, it creates the
+Therefore, as for_"The Law"_ defending individual rights, it creates the
 necessary conditions (such as the de-personalisation of ethics, the existence
 of concentrations wealth, and so on) for undermining individual ethical
 behaviour, and so respect for other individual's rights. As English
@@ -666,7 +664,7 @@ crystallise in a permanent form, such customs as already were in existence"_
 and adding to them _"some new rules -- rules of inequality and servile
 submission of the masses in the interest of the armed rich and the warlike
 minorities."_ [**Evolution and Environment**, pp. 48-9] Unsurprisingly, then,
-the state perverts social customs for its own, and the interests of the
+the state perverts social customs for its own interests and those of the
 economically and socially powerful:
 
 > _"as society became more and more divided into two hostile classes, one
@@ -712,7 +710,7 @@ p. 200 and p. 210]
 Therefore, its important to remember why the state exists and so whatever
 actions and rights it promotes for the individual it exists to protect the
 powerful against the powerless. Any human rights recognised by the state are a
-product of social struggle and exist because of pass victories in the class
+product of social struggle and exist because of past victories in the class
 war and not due to the kindness of ruling elites. In addition, capitalism
 itself undermines the ethical foundations of any society by encouraging people
 to grow accustomed to deceiving their fellows and treating them as a
@@ -789,7 +787,7 @@ up sacrificing their own ego to it. Instead of the individual dominating their
 aspect of themselves. This "selfishness" hides the poverty of the ego who
 practices it. As libertarian Marxist psychiatrist Erich Fromm argued:
 
-> _"Selfishness if not identical with self-love but with its very opposite.
+> _"Selfishness is not identical with self-love but with its very opposite.
 Selfishness is one kind of greediness. Like all greediness, it contains an
 insatiability, as a consequence of which there is never any real satisfaction.
 Greed is a bottomless pit which exhausts the person in an endless effort to
@@ -855,4 +853,9 @@ So, far from defending individuality, capitalism places a lot of barriers
 (both physical and mental) in the path of individuals who are trying to
 express their freedom. Anarchism exists precisely because capitalism has not
 created the free society it supporters claimed it would.
+
+[‹ I.6 What about the "Tragedy of the Commons"?](/afaq/secI6.html "Go to
+previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.8 Does
+revolutionary Spain show that libertarian socialism can work in practice?
+›](/afaq/secI8.html "Go to next page" )
 

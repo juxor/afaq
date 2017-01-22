@@ -13,7 +13,7 @@ circumstances do likewise and new struggles are fought and (hopefully) won. It
 is not some fixed ideology, but rather a means of understanding an evolving
 world and to change it in libertarian directions. As such, AFAQ seeks to place
 specific aspects of anarchism into their historical context. For example,
-certain aspects of Proudhons ideas can only be understood by remembering that
+certain aspects of Proudhon’s ideas can only be understood by remembering that
 he lived at a time when the vast majority of working people were peasants and
 artisans. Many commentators (particularly Marxist ones) seem to forget this
 (and that he supported co-operatives for large-scale industry). Much the same
@@ -60,8 +60,8 @@ practice. Then there is the issue of sources. We have tried to let anarchists
 speak for themselves on most issues and that can take space. Some of the
 evidence we use is from books and articles the general reader may not have
 easy access so we have tried to present full quotes to show that our use is
-correct (the number of times Ive tracked down references only to discover they
-did not say what was suggested is, sadly, quite numerous).
+correct (the number of times I’ve tracked down references only to discover
+they did not say what was suggested is, sadly, quite numerous).
 
 Moreover, refuting distortions and inventions about anarchism can be lengthy
 simply because of the necessity of providing supporting evidence. Time and
@@ -124,7 +124,7 @@ theories. However, the American free-market right appropriated the label in
 the 1970s and now it means supporters of minimal state (or private-state)
 capitalism. Such is the power having ideas that bolster the wealthy! The
 change in "libertarian" is such that some people talk about "libertarian
-anarchism" \-- as if you can have an "authoritarian anarchism"! That these
+anarchism" -- as if you can have an "authoritarian anarchism"! That these
 people include "anarcho"-capitalists simply shows how ignorant of anarchism
 they actually are and how alien the ideology is to our movement (I've seen
 quite a few of them proclaim anarchism is simply a "new" form of Marxism,
@@ -150,10 +150,10 @@ recognise that freedom is more than simply the ability to change masters.
 Anarchism means "no authority" (an-archy) and to support social relationships
 marked by authority (hier-**_archy_**) produces a self-contradictory mess
 (such as supporting forms of domination, such as wage labour, which are
-essentially identical to those produced by the state and, sometimes, admitted
-as such!). Anarchism is, fundamentally, a theory of organisation based on
-individuals associating together without restricting, and so denying and
-limiting, their freedom and individuality. This means that a consistent
+essentially identical to those produced by the state – and, sometimes,
+admitted as such!). Anarchism is, fundamentally, a theory of organisation
+based on individuals associating together without restricting, and so denying
+and limiting, their freedom and individuality. This means that a consistent
 anarchism is rooted in free association within a context of self-management,
 decentralisation and "bottom-up" decision-making (i.e., it is rooted in
 political, economic and social equality). While it is possible to be an
@@ -215,33 +215,21 @@ the first place.
 
 Iain McKay
 
-[An Anarchist FAQ](http://www.anarchistfaq.org/)
+[An Anarchist FAQ](index.html)
 
 # A Summation
 
-**_"No question, the word anarchy freaks people. Yet anarchy -- rule by no one -- has always struck me as the same as democracy carried to its logical and reasonable conclusions. Of course those who rule -- bosses and politicians, capital and the state -- cannot imagine that people could rule themselves, for to admit that people can live without authority and rulers pulls out the whole underpinnings of their ideology. Once you admit that people can -- and do, today, in many spheres of their lives -- run things easier, better and more fairly than the corporation and the government can, there's no justification for the boss and the premier. I think most of us realise and understand that, in our guts, but schools, culture, the police, all the authoritarian apparatuses, tell us we need bosses, we need to be controlled 'for our own good.' It's not for our own good it's for the good of the boss, plain and simple."
+**_"No question, the word anarchy freaks people. Yet anarchy -- rule by no one -- has always struck me as the same as democracy carried to its logical and reasonable conclusions. Of course those who rule -- bosses and politicians, capital and the state -- cannot imagine that people could rule themselves, for to admit that people can live without authority and rulers pulls out the whole underpinnings of their ideology. Once you admit that people can -- and do, today, in many spheres of their lives -- run things easier, better and more fairly than the corporation and the government can, there's no justification for the boss and the premier. I think most of us realise and understand that, in our guts, but schools, culture, the police, all the authoritarian apparatuses, tell us we need bosses, we need to be controlled 'for our own good.' It's not for our own good – it's for the good of the boss, plain and simple."_**
 
-"Anarchism is a demand for real freedom and real autonomy"
+**_"Anarchism is a demand for real freedom and real autonomy"_**
 
-"But I also remain convinced that something like an anarchist future, a world
-of no bosses or politicians, one in which people, all people, can live full
-and meaningful lives, is possible and desirable. We see glimpses of it all
-around us in our day-to-day lives, as people organise much of their lives
-without depending on someone to tell them what to do. We see it in that spirit
-of revolt -- a spirit that is often twisted by anger and despair, but
-nonetheless shows us that people have not given up. We see it in the political
-activism, the social lives, the demands for decency and respect and autonomy
-people put forward, the desire to be individuals while still being part of a
-community.
+**_"But I also remain convinced that something like an anarchist future, a world of no bosses or politicians, one in which people, all people, can live full and meaningful lives, is possible and desirable. We see glimpses of it all around us in our day-to-day lives, as people organise much of their lives without depending on someone to tell them what to do. We see it in that spirit of revolt -- a spirit that is often twisted by anger and despair, but nonetheless shows us that people have not given up. We see it in the political activism, the social lives, the demands for decency and respect and autonomy people put forward, the desire to be individuals while still being part of a community._**
 
-"No, I don't think bowling leagues are the anarchist utopia, but they, like
-much of our lives outside of the workplace, are organised without hierarchy
-and oppression; the most meaningful, truly human parts of our lives already
-work best when organised on anarchist principles. Yet I also believe that in
-its function as critique and as a vision of the future -- perhaps the only one
-that doesn't end in our extinction as a species, or, as Orwell put it, as a
-jackboot smashing a human face, forever -- anarchism is not only desirable but
-possible and necessary."**_
+**_"No, I don't think bowling leagues are the anarchist utopia, but they, like much of our lives outside of the workplace, are organised without hierarchy and oppression; the most meaningful, truly human parts of our lives already work best when organised on anarchist principles. Yet I also believe that in its function as critique and as a vision of the future -- perhaps the only one that doesn't end in our extinction as a species, or, as Orwell put it, as a jackboot smashing a human face, forever -- anarchism is not only desirable but possible and necessary."_**
 
 Mark Leier: **The Case for Anarchy**
+
+[‹ An Anarchist FAQ after ten years](/afaq/10years.html "Go to previous page"
+) [up](/afaq/intro.html "Go to parent page" ) [An Anarchist FAQ: Introduction
+to Volume 2 ›](/afaq/vol2intro.html "Go to next page" )
 

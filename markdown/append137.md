@@ -128,8 +128,8 @@ _"called these insurance companies 'governments' even though they did not have
 a monopoly within a given geographical area."_ As Hart notes, Molinari was the
 sole defender of such free-market justice at the time in France. [David M.
 Hart, _"Gustave de Molinari and the Anti-statist Liberal Tradition: Part II"_,
-pp. 399-434,**Journal of Libertarian Studies**, vol. V, no. 4, p. 415 and p.
-411] Molinari was clear that he wanted _"a regime of free government,"_
+pp. 399-434,Journal of Libertarian Studies, vol. V, no. 4, p. 415 and p. 411]
+Molinari was clear that he wanted _"a regime of free government,"_
 counterpoising _"monopolist or communist governments"_ to _"free
 governments."_ This would lead to _"freedom of government"_ rather than its
 abolition (not freedom **from** government). For Molinarie the future would
@@ -751,4 +751,9 @@ the wealthy to control it and its decisions. Little wonder Proudhon argued
 that laissez-faire capitalism meant _"the victory of the strong over the weak,
 of those who own property over those who own nothing."_ [quoted by Peter
 Marshall, **Demanding the Impossible**, p. 259]
+
+[‹ 6 Is "anarcho"-capitalism against the state?](/afaq/append136.html "Go to
+previous page" ) [up](/afaq/append13.html "Go to parent page" ) [8 What role
+did the state take in the creation of capitalism? ›](/afaq/append138.html "Go
+to next page" )
 

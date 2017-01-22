@@ -52,7 +52,7 @@ his own ideas were simply Proudhon's _"widely developed and pushed right to .
 198] However, he is doing a disservice to his own role in developing
 anarchism. For Bakunin is the central figure in the development of modern
 anarchist activism and ideas. He emphasised the importance of
-**collectivism,** **mass insurrection,** **revolution** and involvement in the
+**collectivism,** mass insurrection, **revolution** and involvement in the
 militant **labour movement** as the means of creating a free, classless
 society. Moreover, he repudiated Proudhon's sexism and added patriarchy to the
 list of social evils anarchism opposes. Bakunin also emphasised the social
@@ -235,7 +235,7 @@ the ideas of that previous generation of anarchists which the Chicago Martyrs
 represented, Albert Parsons' **Anarchism: Its Philosophy and Scientific
 Basis** is essential reading. His wife, Lucy Parsons, was also an outstanding
 anarchist activist from the 1870s until her death in 1942 and selections of
-her writings and speeches can be found in the book **Freedom, Equality &
+her writings and speeches can be found in the book **Freedom, Equality &amp;
 Solidarity** (edited by Gale Ahrens).
 
 Elsewhere in the Americas, Ricardo Flores Magon helped lay the ground for the
@@ -400,16 +400,16 @@ capitalism. His extensive writing on housing has emphasised the importance of
 collective self-help and social management of housing against the twin evils
 of privatisation and nationalisation (see, for example, his books **Talking
 Houses** and **Housing: An Anarchist Approach**). He has cast an anarchist eye
-on numerous other issues, including water use (**Reflected in Water: A Crisis
-of Social Responsibility**), transport (**Freedom to go: after the motor
-age**) and the welfare state (**Social Policy: an anarchist response**). His
-**Anarchism: A Very Short Introduction** is a good starting point for
-discovering anarchism and his particular perspective on it while **Talking
-Anarchy** provides an excellent overview of both his ideas and life. Lastly we
-must mention both Albert Meltzer and Nicolas Walter, both of whom contributed
-extensively to the anarchist press as well as writing two well known short
-introductions to anarchism (**Anarchism: Arguments for and against** and
-**About Anarchism**, respectively).
+on numerous other issues, including water use (Reflected in Water: A Crisis of
+Social Responsibility), transport (**Freedom to go: after the motor age**) and
+the welfare state (**Social Policy: an anarchist response**). His **Anarchism:
+A Very Short Introduction** is a good starting point for discovering anarchism
+and his particular perspective on it while **Talking Anarchy** provides an
+excellent overview of both his ideas and life. Lastly we must mention both
+Albert Meltzer and Nicolas Walter, both of whom contributed extensively to the
+anarchist press as well as writing two well known short introductions to
+anarchism (**Anarchism: Arguments for and against** and **About Anarchism**,
+respectively).
 
 We could go on; there are many more writers we could mention. But besides
 these, there are the thousands of "ordinary" anarchist militants who have
@@ -745,9 +745,9 @@ In other words, with pre-capitalist economic forms. We also find Jefferson
 contrasting the _"aristocrats"_ and the _"democrats."_ The former are _"those
 who fear and distrust the people, and wish to draw all powers from them into
 the hands of the higher classes."_ The democrats _"identify with the people,
-have confidence in them, cherish and consider them as the honest & safe . . .
-depository of the public interest,"_ if not always _"the most wise."_ [quoted
-by Chomsky, **Powers and Prospects**, p. 88] As Chomsky notes, the
+have confidence in them, cherish and consider them as the honest &amp; safe .
+. . depository of the public interest,"_ if not always _"the most wise."_
+[quoted by Chomsky, **Powers and Prospects**, p. 88] As Chomsky notes, the
 _"aristocrats"_ were _"the advocates of the rising capitalist state, which
 Jefferson regarded with dismay, recognising the obvious contradiction between
 democracy and the capitalism."_ [**Op. Cit.**, p. 88] Claudio J. Katz's essay
@@ -1181,4 +1181,8 @@ interests can it be combated and social self-emancipation assured.
 Maurice Brinton's **The Irrational in Politics** is an excellent short
 introduction to Reich's ideas which links their insights to libertarian
 socialism.
+
+[‹ A.3 What types of anarchism are there?](/afaq/secA3.html "Go to previous
+page" ) [up](/afaq/secAcon.html "Go to parent page" ) [A.5 What are some
+examples of "Anarchy in Action"? ›](/afaq/secA5.html "Go to next page" )
 

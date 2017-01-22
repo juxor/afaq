@@ -17,9 +17,9 @@ out how (and why) statism and capitalism affect society as a whole outwith the
 narrow bounds of politics and economics.
 
 So here we sketch some of the impact concentrations of political and economic
-power have upon society. While many people attack the *results* of these
+power have upon society. While many people attack the **results** of these
 processes (like specific forms of state intervention, ecological destruction,
-imperialism, etc.) they usually ignore their *causes.* This means that the
+imperialism, etc.) they usually ignore their **causes**. This means that the
 struggle against social evils will be never-ending, like a doctor fighting the
 symptoms of a disease without treating the disease itself or the conditions
 which create it in the first place. We have indicated the roots of the
@@ -120,4 +120,9 @@ happen and why they have changed over the years. However, we hope to present
 enough detail for further investigation as well as an understanding of how
 anarchists analyse the current system based on our anti-authoritarian
 principles and how the political and economic aspects of capitalism interact.
+
+[‹ Section D - How do statism and capitalism affect
+society?](/afaq/secDcon.html "Go to previous page" ) [up](/afaq/secDcon.html
+"Go to parent page" ) [D.1 Why does state intervention occur?
+›](/afaq/secD1.html "Go to next page" )
 

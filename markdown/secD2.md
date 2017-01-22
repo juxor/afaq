@@ -23,7 +23,7 @@ society]. Moreover, they have special ease of access to government officials,
 and they are disproportionately represented at all upper levels of
 government."_ [David Schweickart, **Against Capitalism**, pp. 210-1]
 
-Therefore, logically, politics will be dominated by the rich and powerful \--
+Therefore, logically, politics will be dominated by the rich and powerful --
 in fact if not in theory -- since, in general, only the rich can afford to run
 and only parties supported by the wealthy will gain enough funds and
 favourable press coverage to have a chance (see [section D.3](secD3.html) for
@@ -206,7 +206,7 @@ fallen to 150 points. [John Casey, _"The Seventies"_, **The Heavy Stuff**, no.
 3, p. 21] By 1976 the Treasury was _"spending $100 million a day buying back
 its own money on the markets to support the pound."_ [**The Times**, 10/6/76]
 
-**The Times** [27/5/76] noted that _"the further decline in the value of the pound has occurred despite the high level of interest rates. . . . [D]ealers said that selling pressure against the pound was not heavy or persistent, but there was an almost total lack of interest amongst buyers. The drop in the pound is extremely surprising in view of the unanimous opinion of bankers, politicians and officials that the currency is undervalued."_ While there was much talk of private armies and military intervention, this was not needed. As anarchist John Casey argues, the ruling class _"chose to play the economic card . . . They decided to subdue the rogue Labour administration by pulling the financial plugs out of the economy . . . This resulted in the stock market and the pound plummeting . . . This was a much neater solution than bullets and forced the Wilson government to clean up the mess by screwing the working class with public spending cuts and a freeze on wage claims . . . The whole process of economic sabotage was neatly engineering through third parties like dealers in the currency markets."_ [**Op. Cit.**, p. 23] 
+**The Times** [27/5/76] noted that _"the further decline in the value of the pound has occurred despite the high level of interest rates. . . . [D]ealers said that selling pressure against the pound was not heavy or persistent, but there was an almost total lack of interest amongst buyers. The drop in the pound is extremely surprising in view of the unanimous opinion of bankers, politicians and officials that the currency is undervalued."_ While there was much talk of private armies and military intervention, this was not needed. As anarchist John Casey argues, the ruling class _"chose to play the economic card . . . They decided to subdue the rogue Labour administration by pulling the financial plugs out of the economy . . . This resulted in the stock market and the pound plummeting . . . This was a much neater solution than bullets and forced the Wilson government to clean up the mess by screwing the working class with public spending cuts and a freeze on wage claims . . . The whole process of economic sabotage was neatly engineering through third parties like dealers in the currency markets."_ [**Op. Cit.**, p. 23]
 
 The Labour government, faced with the power of international capital, ended up
 having to receive a temporary "bailing out" by the IMF, which imposed a
@@ -367,7 +367,7 @@ organisation, funds economic education for teachers and provides books,
 pamphlets and films as teaching aids. In 1974, 20,000 teachers participated in
 its workshops. The aim is to induce teachers to present corporations in an
 uncritical light to their students. Funding for this propaganda machine comes
-from the American Bankers Association, AT&amp;T;, the Sears Roebuck Foundation
+from the American Bankers Association, AT&amp;T, the Sears Roebuck Foundation
 and the Ford Foundation. As Domhoff points out, _"[a]lthough it [and other
 bodies like it] has not been able to bring about active acceptance of all
 power elite policies and perspectives, on economic or other domestic issues,
@@ -438,4 +438,8 @@ these activities cannot counteract the rising unease the American people feel
 about the direction their country is taking. The task of anarchists is to help
 the struggle, in America and across the globe, by which they can take their
 country and lives back from the elite.
+
+[‹ D.1 Why does state intervention occur?](/afaq/secD1.html "Go to previous
+page" ) [up](/afaq/secDcon.html "Go to parent page" ) [D.3 How does wealth
+influence the mass media? ›](/afaq/secD3.html "Go to next page" )
 

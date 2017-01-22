@@ -19,17 +19,18 @@ consider important). Milton Friedman played a leading role in this
 idealisation of the former UK colony. In his words:
 
 > _ "Take the fifty-year experiment in economic policy provided by Hong Kong
-between the end of World War II and . . . when Hong Kong reverted to China.
+between the end of World War II and . . . when Hong Kong reverted to China.  
+>  _
 
 >
 
-> "In this experiment, Hong Kong represents the experimental treatment . . . I
-take Britain as one control because Britain, a benevolent dictator, imposed
-different policies on Hong Kong from the ones it pursued at home . . .
+> _"In this experiment, Hong Kong represents the experimental treatment . . .
+I take Britain as one control because Britain, a benevolent dictator, imposed
+different policies on Hong Kong from the ones it pursued at home . . . _
 
 >
 
-> "Nonetheless, there are some statistics, and in 1960, the earliest date for
+> _"Nonetheless, there are some statistics, and in 1960, the earliest date for
 which I have been able to get them, the average per capita income in Hong Kong
 was 28 percent of that in Great Britain; by 1996, it had risen to 137 percent
 of that in Britain. In short, from 1960 to 1996, Hong Kong's per capita income
@@ -68,11 +69,12 @@ points out:
 > _ "The main explanation for low tax rates . . . is not low social spending.
 One important factor is that Hong Kong does not have to support a defence
 industry . . . The most crucial explanation . . . lies in the fact that less
-than half of the government's revenues comes from direct taxation.
+than half of the government's revenues comes from direct taxation.  
+>  _
 
 >
 
-> "The Hong Kong government actually derives much of its revenue from land
+> _"The Hong Kong government actually derives much of its revenue from land
 transactions. The territory's land is technically owned by the government, and
 the government fills its coffers by selling fifty-year leases to developers
 (the fact that there are no absolute private property rights to land will come
@@ -246,14 +248,14 @@ There are other explanations for Hong Kong's high growth rates than simply
 economic growth rate than regions (which are held back by large rural areas).
 This is because the agricultural sector rarely achieves high economic growth
 rates and so in its absence a high growth rate is easier to achieve. Secondly,
-there is Hong Kong's location and its corresponding role as an entrept
+there is Hong Kong's location and its corresponding role as an entrepôt
 economy. Wade notes that _"its economic growth is a function of its service
-role in a wider regional economy, as entrept trader, regional headquarters for
-multinational companies, and refuge for nervous money."_ [**Op. Cit.**, p.
+role in a wider regional economy, as entrepôt trader, regional headquarters
+for multinational companies, and refuge for nervous money."_ [**Op. Cit.**, p.
 331] Being between China and the rest of the world means its traders could act
 as a middleman, earning income from the mark-up they could impose on good
 going through the territory. This is why Hong Kong is often referred to as an
-entrept economy, a place that imports, stores, and re-exports goods. In other
+entrepôt economy, a place that imports, stores, and re-exports goods. In other
 words, Hong Kong made a lot of its money because many Chinese exports and
 imports went through it and its traders marked-up the prices. It should be
 obvious if most of Western Europe's goods went through, say, Liverpool, that
@@ -429,4 +431,9 @@ marketplace, interventions Friedman spent many decades fighting in the USA. He
 did, however, contribute to the myth that the British were benign imperialists
 and the "free market" they introduced into Hong Kong was in the interests of
 all rather than for those who exercised the dictatorship.
+
+[‹ C.11 Doesn't neo-liberalism in Chile prove that the free market benefits
+everyone? ](/afaq/secC11.html "Go to previous page" ) [up](/afaq/secCcon.html
+"Go to parent page" ) [Section D - How do statism and capitalism affect
+society? ›](/afaq/secDcon.html "Go to next page" )
 

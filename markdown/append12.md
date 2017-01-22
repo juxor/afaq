@@ -1,6 +1,6 @@
 #
 
-* Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1.
+  * Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1.
 
 There have been a few "anarchist" FAQ's produced before. Bryan Caplan's
 anarchism FAQ is one of the more recent. While appearing to be a "neutral"
@@ -426,7 +426,7 @@ their right would be respected (although, of course, anarchists would seek to
 convince those who live in such a regime of the benefits of anarchism!). As
 Malatesta pointed out, _"free and voluntary communism is ironical if one has
 not the right and the possibility to live in a different regime, collectivist,
-mutualist, individualist \-- as one wishes, always on condition that there is
+mutualist, individualist -- as one wishes, always on condition that there is
 no oppression or exploitation of other"_ as _"it is clear that all, and only,
 those ways of life which respect freedom, and recognise that each individual
 has an equal right to the means of production and to the full enjoyment of the
@@ -497,10 +497,11 @@ about within a "inegalitarian" legal framework! Thus, given that everything
 would be privatised, dissenters could only experiment if they could afford it
 **and** accepted the legal system based on capitalist property rights (and, of
 course, survive the competition of capitalist companies within the capitalist
-framework). As we have argued in sections [B.4](secB4.html) and [F.3why**
-should we have to **pay** the stealers of the earth for the privilege to life
-our own lives? Caplan, in effect, ignores the barriers to experimentation in
-his system while distorting the anarchist position.
+framework). As we have argued in sections [B.4](secB4.html) and
+[F.3](secF3.html) **why** should we have to **pay** the stealers of the earth
+for the privilege to life our own lives? Caplan, in effect, ignores the
+barriers to experimentation in his system while distorting the anarchist
+position.
 
 ## 5 How would anarcho-capitalism work?
 
@@ -563,7 +564,7 @@ the have-nots (as history again and again shows).
 Moreover, the capitalism can easily lead to resources being allocated to the
 most profitable uses rather than those which are most needed by individuals. A
 classic example is in the case of famines. Amartya Sen (who won the 1998 Nobel
-Prize for economics) developed an _**"entitlement"_** approach to the study of
+Prize for economics) developed an _**"entitlement"**_ approach to the study of
 famine. This approach starts with the insight that having food available in a
 country or region does not mean everyone living there is "entitled" to it. In
 market economies, people are entitled to food according to their ability to
@@ -669,7 +670,7 @@ high progress for deregulated systems seems at odds with this evidence.
 As far as technological innovation goes, it is also not clear that
 deregulation has aided that process. Much of our modern technology owns its
 origins to the US Pentagon system, in which public money is provided to
-companies for military R&amp;D; purposes. Once the technology has been proven
+companies for military R&amp;D purposes. Once the technology has been proven
 viable, the companies involved can sell their public subsidised products for
 private profit. The computer industry (as we point out in [section
 J.4.7](secJ4.html#secj47)) is a classic example of this -- indeed it is
@@ -1204,6 +1205,10 @@ law, etc. And Friedman admits that 'focal points' including prevalent norms
 are likely to circumscribe and somewhat standardise the menu of available
 legal codes."_
 
+>
+
+>
+
 The argument that "consumer demand" would determine a "philosophically
 neutral" content of the law cannot be sustained. Any law code will reflect the
 philosophy of those who create it. Under "anarcho"-capitalism, as we have
@@ -1405,6 +1410,10 @@ more moderate libertarian. Services should be privatised and opened to free
 competition; regulation of personal AND economic behaviour should be done away
 with."_
 
+>
+
+>
+
 The "anarcho"-capitalist's professed desire to "do away" with the "regulation"
 of economic behaviour is entirely disingenuous. For, by giving capitalists the
 ability to protect their exploitative monopolies of social capital by the use
@@ -1509,6 +1518,10 @@ hasten to add that a deregulated economy would greatly increase the economic
 opportunities of the poor, and elimination of taxation would lead to a large
 increase in charitable giving.)"_
 
+>
+
+>
+
 Notice the implication that poverty is now caused by laziness and
 irresponsibility rather than by the inevitable workings of an economic system
 that **requires** a large _"reserve army of the unemployed"_ as a condition of
@@ -1549,4 +1562,10 @@ give to others if taxation **was** abolished. As Peter Sabatini points out,
 or the rabble, hinders their Lockean right to amass capital."_ [**Social
 Anarchism**, no. 23, p.101] Caplan seems to expect them to turn over a new
 leaf and give **more** to that same rabble!
+
+[‹ Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory
+FAQ" version 5.2](/afaq/append11.html "Go to previous page" )
+[up](/afaq/append1.html "Go to parent page" ) [Appendix - Is
+"anarcho"-capitalism a type of anarchism? ›](/afaq/append13.html "Go to next
+page" )
 

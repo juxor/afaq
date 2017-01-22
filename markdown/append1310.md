@@ -74,6 +74,8 @@ We hope to indicate in the next two sections why the business cycle is
 inherent in the system (see also sections [C.7](secC7.html), [C.8](secC8.html)
 and [C.9](secC9.html)).
 
+
+
 ## 10.1 Would privatising banking make capitalism stable?
 
 It is claimed that the existence of the state (or, for minimal statists,
@@ -893,8 +895,8 @@ class of people?
 
 ## 10.3 Was laissez-faire capitalism stable?
 
-Firstly, we must state that a pure laissez-faire capitalist system has not
-existed. This means that any evidence we present in this section can be
+&gt; Firstly, we must state that a pure laissez-faire capitalist system has
+not existed. This means that any evidence we present in this section can be
 dismissed by right-libertarians for precisely this fact -- it was not "pure"
 enough. Of course, if they were consistent, you would expect them to shun all
 historical and current examples of capitalism or activity within capitalism,
@@ -908,7 +910,7 @@ industrialisation [in] the nineteenth century"_ [**The Ethics of Liberty**, p.
 is usually taken as being the closest to pure laissez-faire -- in order to see
 if laissez-faire is stable or not.
 
-Yes, we are well aware that 19th century USA was far from laissez-faire \--
+Yes, we are well aware that 19th century USA was far from laissez-faire --
 there was a state, protectionism, government economic activity and so on --
 but as this example has been often used by right-Libertarians' themselves (for
 example, Ayn Rand) we think that we can gain a lot from looking at this
@@ -988,4 +990,9 @@ That the laissez-faire system was so volatile and panic-ridden suggests that
 everything will be fine are very optimistic at best (and, ironically, it was
 members of the capitalist class who lead the movement towards state-managed
 capitalism in the name of "sound money").
+
+[‹ 9 Is Medieval Iceland an example of "anarcho"-capitalism working in
+practice?](/afaq/append139.html "Go to previous page" )
+[up](/afaq/append13.html "Go to parent page" ) [11 What is the myth of
+"Natural Law"? ›](/afaq/append1311.html "Go to next page" )
 

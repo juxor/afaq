@@ -11,10 +11,10 @@ Alexander Berkman put it:
 
 > _"there are revolutions and revolutions. Some revolutions change only the
 governmental form by putting a new set of rulers in place of the old. These
-are political revolutions, and as such they are often meet with little
-resistance. But a revolution that aims to abolish the entire system of wage
-slavery must also do away with the power of one class to oppress another. That
-is, it is not any more a mere change of rulers, of government, not a political
+are political revolutions, and as such they often meet with little resistance.
+But a revolution that aims to abolish the entire system of wage slavery must
+also do away with the power of one class to oppress another. That is, it is
+not any more a mere change of rulers, of government, not a political
 revolution, but one that seeks to alter the whole character of society. That
 would be a **social** revolution."_ [**What is Anarchism?**, p. 176]
 
@@ -160,7 +160,7 @@ anarchist because the masses are not ready for anarchy."_ [Malatesta, **Errico
 Malatesta: His Life and Ideas**, p. 162]
 
 So revolution and anarchism is the product of struggle, a social process in
-which anarchist ideas spread and develop._"This does not mean,"_ argued
+which anarchist ideas spread and develop. _"This does not mean,"_ argued
 Malatesta, _"that to achieve anarchy we must wait till **everyone** becomes an
 anarchist. On the contrary . . . under present conditions only a small
 minority, favoured by specific circumstances, can manage to conceive what
@@ -247,30 +247,29 @@ hands and imparting to it a direction salutary for the people: a serious,
 international organisation of worker's organisations of all countries, capable
 of replacing the departing political world of the States and the
 bourgeoisie."_ [**The Political Philosophy of Bakunin**, p. 323] Thus, for
-most anarchists, the difference of evolution and revolution is one of little
-import -- anarchists should support libertarian tendencies within society as
-they support revolutionary situations when they occur.
+most anarchists, the difference between evolution and revolution is one of
+little import -- anarchists should support libertarian tendencies within
+society as they support revolutionary situations when they occur.
 
 However, revolutionary anarchists argue that, ultimately, capitalism cannot be
 reformed away nor will the state wither away under the onslaught of
 libertarian institutions and attitudes. Neither mutual banking (see [section
 J.5.7](secJ5.html#secj57)) nor co-operatives (see [section
 J.5.11](secJ5.html#secj511)) can out-compete capitalist institutions. This
-means that these alternatives, will important, are insufficient to the task of
-creating a free society. This suggests that while libertarian tendencies
+means that these alternatives, while important, are insufficient to the task
+of creating a free society. This suggests that while libertarian tendencies
 within capitalism may make life better under that system, they cannot get rid
-of it. This requires a social revolution, they argue. Such anarchists agree
-with Alexander Berkman that there _"is no record of any government or
-authority, of any group or class in power having given up its mastery
-voluntarily. In every instance it required the use of force, or at least the
-threat of it."_ [**What is Anarchism?**, p. 174] Even the end of State
-capitalism ("Communism") in Eastern Europe did not contradict this argument.
-Without the mass action of the population, the regime would have continued.
-Faced with a massive popular revolt, the Commissars realised that it was
-better to renounce (some) power than have it all taken from them (and they
-were right, as this allowed many of them to become part of the new, private
-capitalist, ruling class). Thus mass rebellion, the start of any true
-revolution, was required.
+of it. This requires a social revolution. Such anarchists agree with Alexander
+Berkman that there _"is no record of any government or authority, of any group
+or class in power having given up its mastery voluntarily. In every instance
+it required the use of force, or at least the threat of it."_ [**What is
+Anarchism?**, p. 174] Even the end of State capitalism ("Communism") in
+Eastern Europe did not contradict this argument. Without the mass action of
+the population, the regime would have continued. Faced with a massive popular
+revolt, the Commissars realised that it was better to renounce (some) power
+than have it all taken from them (and they were right, as this allowed many of
+them to become part of the new, private capitalist, ruling class). Thus mass
+rebellion, the start of any true revolution, was required.
 
 The argument that the state is too powerful to be defeated has been proven
 wrong time and time again. Every revolution has defeated a military machine
@@ -293,7 +292,7 @@ wider and wider. Revolutionary anarchists argue that anarchists must, by the
 nature of our politics and our desire for freedom, support such acts of
 rebellion and, ultimately, social revolution. Not to do so means ignoring
 people in struggle against our common enemy and ignoring the means by which
-anarchists ideas and attitudes will grow within existing society. Thus
+anarchist ideas and attitudes will grow within existing society. Thus
 Alexander Berkman was right when he wrote:
 
 > _"That is why it is no prophecy to foresee that some day it must come to
@@ -496,7 +495,7 @@ self-management, co-operation and solidarity are not simply an act of ethical
 will which overcomes the competitive and hierarchical behaviour capitalism
 generates within those who live in it. Capitalism is, as Malatesta noted,
 based on competition -- and this includes **within** the working class.
-However, **_co-operation**_ is stimulated within our class by our struggles to
+However, **_co-operation_** is stimulated within our class by our struggles to
 survive in and resist the system. This tendency for co-operation generated by
 struggle against capitalism also produces the habits required for a free
 society -- by struggling to change the world (even a small part of it), people
@@ -591,9 +590,9 @@ Of course, many revolutions are marked by violence. It has two sources. First,
 and most obviously, the violent resistance of those protecting their power and
 wealth against those seeking liberty. Unsurprisingly, this violence is usually
 downplayed in history books and the media. Second, acts of revenge resulting
-from the the domination and repression of the system the revolution seeks to
-end. Such violence is not desired nor the aim of anarchism nor of the
-revolution. As Berkman argued:
+from the domination and repression of the system the revolution seeks to end.
+Such violence is not desired nor the aim of anarchism nor of the revolution.
+As Berkman argued:
 
 > _"We know that revolution begins with street disturbances and outbreaks; it
 is the initial phase which involves force and violence. But that is merely the
@@ -636,9 +635,9 @@ violence to that required for self-defence against oppression and authority.
 Therefore a social revolution **may** involve some violence. It may also mean
 no violence at all. It depends on the revolution and how widely anarchist
 ideas are spread. One thing is sure, for anarchists social revolution is
-**not** synonymous violence. Indeed, violence usually occurs when the ruling
-class resists the action of the oppressed -- that is, when those in authority
-act to protect their social position.
+**not** synonymous with violence. Indeed, violence usually occurs when the
+ruling class resists the action of the oppressed -- that is, when those in
+authority act to protect their social position.
 
 The wealthy and their state will do anything in their power to prevent having
 a large enough percentage of anarchists in the population to simply "ignore"
@@ -684,7 +683,7 @@ disbanding of thousands of representative, district, communal, regional,
 national bodies which, without having any legislative power, serve to make
 known and to co-ordinate the desires and interests of people near and far and
 which act through information, advice and example. Revolution is freedom
-proved in the crucible of facts \-- and lasts so long as freedom lasts."_
+proved in the crucible of facts -- and lasts so long as freedom lasts."_
 [**Errico Malatesta: His Life and Ideas**, p. 153]
 
 This, of course, presents a somewhat wide vision of the revolutionary process.
@@ -795,7 +794,7 @@ _"expropriation of landowners and capitalists for the benefit of all."_
 [Malatesta, **Op. Cit.**, p. 198] This would be done by workers occupying
 their workplaces and placing them under workers' self-management. As
 Voltairine de Cleyre argued in 1910 _"the weapon of the future will be the
-general strike"_ and its it not clear that _"it must be the strike which will
+general strike"_ and is it not clear that _"it must be the strike which will
 **stay in** the factory, not **go out**? which will guard the machines and
 allow no scab to touch them? which will organise, not to inflict deprivation
 on itself, but on the enemy? which will take over industry and operate it for
@@ -880,10 +879,10 @@ crush the revolution. As the CNT newspaper put it in the 1930s, the _"first
 step in the social revolution is to take control of Town Hall and proclaim the
 free commune. Once this occurs, self-management spreads to all areas of life
 and the people exercise their sovereign executive power through the popular
-assembly." _ This free commune _"is the basic unit of libertarian communism .
-. . and, federated, it provides the basic structure of the new society in all
+assembly." _This free commune _"is the basic unit of libertarian communism . .
+. and, federated, it provides the basic structure of the new society in all
 its aspects: administrative, economic and political."_ [quoted by Abel Paz,
-**Durrutu in the Spanish Revolution**, p. 312]
+**Durruti in the Spanish Revolution**, p. 312]
 
 Such a destruction of the state does not involve violence against individuals,
 but rather the end of hierarchical organisations, positions and institutions.
@@ -892,7 +891,7 @@ officialdom, etc. It would mean the transformation of police stations,
 military bases, the offices used by the bureaucracy into something more useful
 (or, as in the case of prisons, their destruction). Town halls would be
 occupied and used by community and industrial groups, for example. Offices of
-the mayor could be turned into crches. Police stations, if they have not been
+the mayor could be turned into crèches. Police stations, if they have not been
 destroyed, could be turned into storage centres for goods (William Morris, in
 his utopian novel **News from Nowhere**, imagined the Houses of Parliament
 being turned into a manure storage facility). And so on. Those who used to
@@ -1035,7 +1034,7 @@ selfhood in all its social dimensions."_ [Bookchin, **Op. Cit.**, p. 104]
 
 ## J.7.5 What is the role of anarchists in a social revolution?
 
-All the great social revolutions have been spontaneous. Indeed, it is clich
+All the great social revolutions have been spontaneous. Indeed, it is cliché
 that the revolutionaries are usually the most surprised when a revolution
 breaks out. Nor do anarchists assume that a revolution will initially be
 totally libertarian in nature. All we assume is that there will be libertarian
@@ -1121,13 +1120,13 @@ Cit.**, pp. 42-3] Such a centralisation of power means the suppression of
 local initiatives, the replacing of self-management with bureaucracy and the
 creation of a new, exploitative and oppressive class of officials and party
 hacks. Only when power rests in the hands of everyone can a social revolution
-exist and a free society created. If this is not done, if the state replaces
-the self-managed associations of a free people, all that happens is the
-replacement of one class system by another. This is because the state is an
-instrument of minority rule -- it can never become an instrument of majority
-empowerment as its centralised, hierarchical and authoritarian nature excludes
-such a possibility (see [section H.3.7](secH3.html#sech37) for more discussion
-on this issue).
+exist and a free society be created. If this is not done, if the state
+replaces the self-managed associations of a free people, all that happens is
+the replacement of one class system by another. This is because the state is
+an instrument of minority rule -- it can never become an instrument of
+majority empowerment as its centralised, hierarchical and authoritarian nature
+excludes such a possibility (see [section H.3.7](secH3.html#sech37) for more
+discussion on this issue).
 
 Therefore an important role of anarchists is to undermine hierarchical
 organisation by creating self-managed ones, by keeping the management and
@@ -1148,7 +1147,7 @@ dampened, interest gradually weakens, initiative languishes, creativeness
 wanes, and the revolution becomes the monopoly of a clique which presently
 turns dictator."_ [**What is Anarchism?**, p. 213] The history of every
 revolution proves this point, we feel, and so the role of anarchists is clear
-\-- to keep a revolution revolutionary by encouraging libertarian ideas,
+-- to keep a revolution revolutionary by encouraging libertarian ideas,
 organisation, tactics and activity.
 
 Anarchists, therefore, organise to influence social struggle in a libertarian
@@ -1264,7 +1263,7 @@ foreign intervention would face the problems of solidarity actions and revolts
 on its own doorstep and not dare send its troops abroad for long, if at all.
 Ultimately, the only way to support a revolution is to make your own.
 
-Within the revolutionary area, it is the actions of liberated people than will
+Within the revolutionary area, it is the actions of liberated people that will
 defend it. Firstly, the population would be armed and so counter-
 revolutionaries would face stiff opposition to their attempts to recreate
 authority. Secondly, they would face liberated individuals who would reject
@@ -1392,12 +1391,12 @@ Which was precisely what the CNT did do in July 1936 when faced with the
 fascist coup. Unfortunately, like the Makhnovists, the CNT militias were
 betrayed by their so-called allies on the left. The anarchist troops were not
 given enough arms and were left on the front to rot in inaction. The "unified"
-command by the Republican State preferred not to arm libertarian troops as
+command of the Republican State preferred not to arm libertarian troops as
 they would use these arms to defend themselves and their fellow workers
-against the Republican and Communist led counter-revolution. Ultimately, the
-_"people in arms"_ won the revolution and the _"People's Army"_ which replaced
-it lost the war (see Jose Peirats' **The CNT in the Spanish Revolution**, Abel
-Paz's **Durruti in the Spanish Revolution**, Vernon Richard's **Lessons of the
+against the Communist led counter-revolution. Ultimately, the _"people in
+arms"_ won the revolution and the _"People's Army"_ which replaced it lost the
+war (see Jose Peirats' **The CNT in the Spanish Revolution**, Abel Paz's
+**Durruti in the Spanish Revolution**, Vernon Richard's **Lessons of the
 Spanish Revolution** or Noam Chomsky's **Objectivity and Liberal
 Scholarship**).
 
@@ -1427,4 +1426,9 @@ possibility of failure is to live half a life.
 Anarchism calls upon everyone to live the kind of life they deserve as unique
 individuals and desire as human beings. Individually we can make a difference,
 together we can change the world.
+
+[‹ J.6 What methods of child rearing do anarchists advocate?
+](/afaq/secJ6.html "Go to previous page" ) [up](/afaq/secJcon.html "Go to
+parent page" ) [Appendix : Anarchism and "anarcho"-capitalism
+›](/afaq/append1.html "Go to next page" )
 

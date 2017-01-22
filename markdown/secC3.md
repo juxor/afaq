@@ -28,18 +28,19 @@ forced to increase indefinitely the yield of labour, production is determined
 just as much by the workers' individual and collective resistance to such
 increases. The extraction of 'use value form labour power' is not a technical
 operation; it is a process of bitter struggle in which half the time, so to
-speak, the capitalists turn out to be losers.
+speak, the capitalists turn out to be losers.  
+>  _
 
 >
 
-> "The same thing holds true for living standards, i.e., real wage levels.
+> _"The same thing holds true for living standards, i.e., real wage levels.
 From its beginnings, the working class has fought to reduce the length of the
 workday and to raise wage levels. It is this struggle that has determined how
-these levels have risen and fallen over the years . . .
+these levels have risen and fallen over the years . . . _
 
 >
 
-> "Neither the actual labour rendered during an hour of labour time nor the
+> _"Neither the actual labour rendered during an hour of labour time nor the
 wage received in exchange for this work can be determined by any kind of
 'objective' law, norm, or calculation . . . What we are saying does not mean
 that specifically economic or even 'objective' factors play no real in
@@ -293,4 +294,8 @@ dependent, of course, on the balance of forces within the economy.
 
 In the next section, we discuss why capitalism is marked by big business and
 what this concentrated market power means to the capitalist economy.
+
+[‹ C.2 Why is capitalism exploitative?](/afaq/secC2.html "Go to previous page"
+) [up](/afaq/secCcon.html "Go to parent page" ) [C.4 Why does the market
+become dominated by Big Business? ›](/afaq/secC4.html "Go to next page" )
 

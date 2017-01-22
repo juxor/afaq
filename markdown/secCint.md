@@ -331,3 +331,9 @@ views. The purpose of studying economics is not to acquire a set of ready-made
 answers to economic questions, but to learn how to avoid being deceived by
 economists."_ [**Contributions to Modern Economics**, p. 75]
 
+
+
+[‹ Section C - What are the myths of capitalist economics?](/afaq/secCcon.html
+"Go to previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.1
+What is wrong with economics? ›](/afaq/secC1.html "Go to next page" )
+

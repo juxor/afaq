@@ -1,57 +1,68 @@
 # An Anarchist FAQ now published!
 
-**AK Press** ([UK](http://www.akuk.com/)/[USA](http://www.akpress.org/)) has now published volume 1 of **An Anarchist FAQ** (ISBN: 978-1902593906). 
+**AK Press** ([UK](http://www.akuk.com/)/[USA](http://www.akpress.org/)) has now published volumes 1 and 2 of **An Anarchist FAQ**: [Buying An Anarchist FAQ](http://anarchism.pageabode.com/afaq/buying-an-anarchist-faq) (ISBN: 978-1902593906)
+
+Volume 1 was published by AK Press in 2008 while Volume 2 was published in
+2012. Both volumes are available from AK Press in America and in the UK:
+
+AK Press (America)
+
+|
+
+[Volume 1](http://www.akpress.org/ananarchistfaqakpress.html)
+
+|
+
+[Volume 2](http://www.akpress.org/anarchistfaq2.html)  
+  
+---|---|---  
+  
+AK Press (Britain)
+
+|
+
+[Volume 1](http://akuk.com/non-fiction/economics/an-anarchist-faq-
+volume-1/prod_5527.html)
+
+|
+
+[Volume 2](http://akuk.com/non-fiction/an-anarchist-faq-
+volume-2/prod_6635.html)  
+  
+![An Anarchist FAQ: Volume
+1](http://www.akpress.org/media/catalog/product/cache/1/image/218x/17f82f742ffe127f42dca9de82fb58b1/a/n/ananarchistfaqakpress.jpg)
 
 ## Volume 1
 
-[An Anarchist FAQ: After 10 years](10years.html)
+  * [An Anarchist FAQ: After 10 years](10years.html)
+  * [Introduction](intro.html)
+  * [Introduction to Volume 1](vol1intro.html)
+  * [Section A: What is Anarchism?](secAcon.html)
+  * [Section B: Why do anarchists oppose the current system?](secBcon.html)
+  * [Section C: What are the myths of capitalist economics?](secCcon.html)
+  * [Section D: How do statism and capitalism affect society?](secDcon.html)
+  * [Section E: What do anarchists think causes ecological problems?](secEcon.html)
+  * [Section F: Is "anarcho"-capitalism a type of anarchism?](secFcon.html)
+  * [Appendix: The Symbols of Anarchy](append2.html)
 
-[Introduction](intro.html)
-
-[Introduction to Volume 1](vol1intro.html)
-
-### [Section A: What is Anarchism?](secAcon.html)
-
-An overview of what anarchism stands for, where it comes from and what
-anarchists have done. Presents a summary of the major schools of anarchism as
-well as important anarchist and related thinkers.
-
-### [Section B: Why do anarchists oppose the current system?](secBcon.html)
-
-Why anarchists are against hierarchy, capitalism and the state. What they are
-and how they affect liberty. On the negative nature and impact of social
-hierarchies and economic classes.
-
-### [Section C: What are the myths of capitalist economics?](secCcon.html)
-
-Why capitalist economics is an ideology, not a science. Why anarchists think
-capitalism is exploitative. Exposes the extremely negative effects of trying
-to run a society along the lines recommended in economics textbooks.
-
-### [Section D: How do statism and capitalism affect society?](secDcon.html)
-
-How economics and politics cannot be separated and outlines the impact of each
-on the other. It indicates how wealth influences society and discusses the
-media, imperialism, nationalism, state intervention and technology.
-
-### [Section E: What do anarchists think causes ecological
-problems?](secEcon.html)
-
-An overview of the roots of the ecological crisis and why anarchists reject
-many commonly proposed solutions as inadequate (when they do not make it
-worse).
-
-### [Section F: Is "anarcho"-capitalism a type of anarchism?](secFcon.html)
-
-No, it is not. If you know about anarchism and its history, you will already
-know why.
-
-### [Appendix: The Symbols of Anarchy](append2.html)
-
-This explains why anarchists carry Black and Black and Red Flags and use the
-circled-A. What they mean and where they originate from.
+![An Anarchist FAQ: Volume
+1](http://www.akpress.org/media/catalog/product/cache/1/image/218x/17f82f742ffe127f42dca9de82fb58b1/a/f/afaq2.jpg)
 
 ## Volume 2
 
-Volume 2 (sections G to J) is sheduled for publication in 2010
+  * [Introduction to Volume 2](http://anarchism.pageabode.com/afaq/vol2intro.html)
+  * [Section G: Is individualist anarchism capitalistic?](http://anarchism.pageabode.com/afaq/secGcon.html)
+  * [Section H: Why do anarchists oppose state socialism?](http://anarchism.pageabode.com/afaq/secHcon.html)
+  * [Section I: What would an anarchist society look like?](http://anarchism.pageabode.com/afaq/secIcon.html)
+  * [Section J: What do anarchists do?](http://anarchism.pageabode.com/afaq/secJcon.html)
+  * [Bibliography](http://anarchism.pageabode.com/afaq/biblio.html)
+
+It must also be noted that the sections within this volume have been slightly
+edited to ensure that it approximates volume 1 in size. This has involved
+trimming around a tenth of the material. In addition, the published
+bibliography only lists works that are in the print version.
+
+[‹ An Anarchist FAQ](/afaq/index.html "Go to previous page" )
+[up](/afaq/index.html "Go to parent page" ) [What's New in the FAQ?
+›](/afaq/new.html "Go to next page" )
 

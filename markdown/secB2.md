@@ -8,13 +8,14 @@ symbiotic relationship and cannot be easily separated:
 
 > _"[T]he State . . . and Capitalism are facts and conceptions which we cannot
 separate from each other. In the course of history these institutions have
-developed, supporting and reinforcing each other.
+developed, supporting and reinforcing each other.  
+>  _
 
 >
 
-> "They are connected with each other -- not as mere accidental co-incidences.
-They are linked together by the links of cause and effect."_ [Kropotkin,
-**Evolution and Environment**, p. 94]
+> _"They are connected with each other -- not as mere accidental co-
+incidences. They are linked together by the links of cause and effect."_
+[Kropotkin, **Evolution and Environment**, p. 94]
 
 In this section, in consequence, as well as explaining why anarchists oppose
 the state, we will necessarily have to analyse the relationship between it and
@@ -120,10 +121,10 @@ However, as much as the state may change its form it still has certain
 characteristics which identify a social institution as a state. As such, we
 can say that, for anarchists, the state is marked by three things:
 
-1) A _**"monopoly of violence"**_ in a given territorial area;  
-2) This violence having a _"professional,"_ institutional nature; and  
+       1) A _**"monopoly of violence"**_ in a given territorial area;
+2) This violence having a _"professional,"_ institutional nature; and
 3) A hierarchical nature, centralisation of power and initiative into the
-hands of a few.  
+hands of a few.
 
 Of these three aspects, the last one (its centralised, hierarchical nature) is
 the most important simply because the concentration of power into the hands of
@@ -215,11 +216,12 @@ protects. As Bakunin put it:
 > _ "**The State . . . is the most flagrant, the most cynical, and the most
 complete negation of humanity.** It shatters the universal solidarity of all
 men [and women] on the earth, and brings some of them into association only
-for the purpose of destroying, conquering, and enslaving all the rest . . .
+for the purpose of destroying, conquering, and enslaving all the rest . . .  
+>  _
 
 >
 
-> "This flagrant negation of humanity which constitutes the very essence of
+> _"This flagrant negation of humanity which constitutes the very essence of
 the State is, from the standpoint of the State, its supreme duty and its
 greatest virtue . . . Thus, to offend, to oppress, to despoil, to plunder, to
 assassinate or enslave one's fellowman [or woman] is ordinarily regarded as a
@@ -229,11 +231,11 @@ preservation or the extension of its power, it is all transformed into duty
 and virtue. And this virtue, this duty, are obligatory for each patriotic
 citizen; everyone if supposed to exercise them not against foreigners only but
 against one's own fellow citizens . . . whenever the welfare of the State
-demands it.
+demands it. _
 
 >
 
-> "This explains why, since the birth of the State, the world of politics has
+> _"This explains why, since the birth of the State, the world of politics has
 always been and continues to be the stage for unlimited rascality and
 brigandage . . . This explains why the entire history of ancient and modern
 states is merely a series of revolting crimes; why kings and ministers, past
@@ -363,6 +365,8 @@ reading on this subject. Harold Barclay's **The State** is a good overview of
 the origins of the state, how it has changed over the millenniums and the
 nature of the modern state.
 
+  
+
 ## B.2.1 What is main function of the state?
 
 The main function of the state is to guarantee the existing social
@@ -408,7 +412,7 @@ punishment."_ [**Anarchism**, p. 215]
 Simply put, if the state _"presented nothing but a collection of prescriptions
 serviceable to rulers, it would find some difficulty in insuring acceptance
 and obedience"_ and so the law reflects customs "essential to the very being
-of society"_ but these are _"cleverly intermingled with usages imposed by the
+of society" but these are _"cleverly intermingled with usages imposed by the
 ruling caste and both claim equal respect from the crowd."_ Thus the state's
 laws have a _"two-fold character."_ While its _"origin is the desire of the
 ruling class to give permanence to customs imposed by themselves for their own
@@ -456,7 +460,7 @@ relations of members of society, the dominant classes whose rights are thus to
 be protected must perforce obtain from the government such rules as are
 consonant with the larger interests necessary to the continuance of their
 economic processes, or they must themselves control the organs of
-government."_ ["An Economic Interpretation of the Constitution,"_ quoted by
+government."_ ["An Economic Interpretation of the Constitution," quoted by
 Howard Zinn, **Op. Cit.**, p. 89]
 
 This role of the state -- to protect capitalism and the property, power and
@@ -550,6 +554,8 @@ prosperity of the capitalistic economy: State centralisation and the actual
 subjection of . . . the people . . . to the minority allegedly representing it
 but actually governing it."_ [**Op. Cit.**, p. 210] How this is achieved is
 discussed in [section B.2.3](secB2.html#secb23).
+
+  
 
 ## B.2.2 Does the state have subsidiary functions?
 
@@ -663,7 +669,7 @@ rights on the world market.
 
 All this means that capitalism has rarely relied on purely economic power to
 keep the capitalists in their social position of dominance (either nationally,
-vis--vis the working class, or internationally, vis--vis competing foreign
+vis-à-vis the working class, or internationally, vis-à-vis competing foreign
 elites). While a "free market" capitalist regime in which the state reduces
 its intervention to simply protecting capitalist property rights has been
 approximated on a few occasions, this is not the standard state of the system
@@ -837,6 +843,8 @@ This is not to dismiss all attempts at reform as irrelevant, it simply means
 recognising that we, the oppressed, need to rely on our own strength and
 organisations to improve our circumstances.
 
+  
+
 ## B.2.3 How does the ruling class maintain control of the state?
 
 In some systems, it is obvious how economic dominant minorities control the
@@ -918,9 +926,9 @@ while the average willing senator spent $7 million. Even local races require
 significant amounts of fundraising. One candidate for the Illinois House
 raised over $650,000 while another candidate for the Illinois Supreme Court
 raised $737,000. In the UK, similarly prohibitive amounts were spent. In the
-2001 general election the Labour Party spent a total of 10,945,119, the Tories
-12,751,813 and the Liberal Democrats (who came a distant third) just
-1,361,377.
+2001 general election the Labour Party spent a total of £10,945,119, the
+Tories £12,751,813 and the Liberal Democrats (who came a distant third) just
+£1,361,377.
 
 To get this sort of money, wealthy contributors need to be found and wooed, in
 other words promised that that their interests will be actively looked after.
@@ -999,7 +1007,7 @@ sharing of interests and income with the elite can only aid that task!
 Then there is the sad process by which politicians, once they leave politics,
 get jobs in the corporate hierarchy (particularly with the very companies they
 had previously claimed to regulate on behalf of the public). This was termed
-"the revolving door."_ Incredibly, this has changed for the worse. Now the
+"the revolving door." Incredibly, this has changed for the worse. Now the
 highest of government officials arrive directly from the executive offices of
 powerful corporations. Lobbyists are appointed to the jobs whose occupants
 they once vied to influence. Those who regulate and those supposed to be
@@ -1189,7 +1197,7 @@ discuss this in the next two sections.
 Mills, **The Power Elite** [Oxford, 1956]; cf. Ralph Miliband, **The State in
 Capitalist Society** [Basic Books, 1969] and **Divided Societies** [Oxford,
 1989]; G. William Domhoff, **Who Rules America?** [Prentice Hall, 1967]; and
-**Who Rules America Now? A View for the '80s** [Touchstone, 1983]).<.p>
+**Who Rules America Now? A View for the '80s** [Touchstone, 1983]).
 
 ## B.2.4 How does state centralisation affect freedom?
 
@@ -1469,51 +1477,53 @@ American revolution). Kropotkin indicates the process at work:
 people, in order to obtain constitutional laws and to dominate the higher
 nobility, were going, now that they had seen and felt the strength of the
 people, to do all they could to dominate the people, to disarm them and to
-drive them back into subjection.
+drive them back into subjection.  
+>  _
 
 >
 
-> [. . .]
+> _[. . .] _
 
 >
 
-> "[T]hey made haste to legislate in such a way that the political power which
-was slipping out of the hand of the Court should not fall into the hands of
-the people. Thus . . . [it was] proposed . . . to divide the French into two
-classes, of which one only, the **active** citizens, should take part in the
-government, whilst the other, comprising the great mass of the people under
-the name of **passive** citizens, should be deprived of all political rights .
-. . [T]he [National] Assembly divided France into departments . . . always
-maintaining the principle of excluding the poorer classes from the Government
-. . . [T]hey excluded from the primary assemblies the mass of the people . . .
-who could no longer take part in the primary assemblies, and accordingly had
-no right to nominate the electors [who chose representatives to the National
-Assembly], or the municipality, or any of the local authorities . . .
+> _"[T]hey made haste to legislate in such a way that the political power
+which was slipping out of the hand of the Court should not fall into the hands
+of the people. Thus . . . [it was] proposed . . . to divide the French into
+two classes, of which one only, the **active** citizens, should take part in
+the government, whilst the other, comprising the great mass of the people
+under the name of **passive** citizens, should be deprived of all political
+rights . . . [T]he [National] Assembly divided France into departments . . .
+always maintaining the principle of excluding the poorer classes from the
+Government . . . [T]hey excluded from the primary assemblies the mass of the
+people . . . who could no longer take part in the primary assemblies, and
+accordingly had no right to nominate the electors [who chose representatives
+to the National Assembly], or the municipality, or any of the local
+authorities . . . _
 
 >
 
-> "And finally, the **permanence** of the electoral assemblies was
+> _"And finally, the **permanence** of the electoral assemblies was
 interdicted. Once the middle-class governors were appointed, these assemblies
 were not to meet again. Once the middle-class governors were appointed, they
 must not be controlled too strictly. Soon the right even of petitioning and of
-passing resolutions was taken away -- 'Vote and hold your tongue!'
+passing resolutions was taken away -- 'Vote and hold your tongue!' _
 
 >
 
-> "As to the villages . . . the general assembly of the inhabitants . . . [to
+> _"As to the villages . . . the general assembly of the inhabitants . . . [to
 which] belonged the administration of the affairs of the commune . . . were
 forbidden by the . . . law. Henceforth only the well-to-do peasants, the
 **active** citizens, had the right to meet, **once a year**, to nominate the
 mayor and the municipality, composed of three or four middle-class men of the
-village.
+village. _
 
 >
 
-> "A similar municipal organisation was given to the towns. . .
+> _"A similar municipal organisation was given to the towns. . . _
 
 >
 
-> "[Thus] the middle classes surrounded themselves with every precaution in
+> _"[Thus] the middle classes surrounded themselves with every precaution in
 order to keep the municipal power in the hands of the well-to-do members of
 the community."_ [**The Great French Revolution**, vol. 1, pp. 179-186]
 
@@ -1724,8 +1734,8 @@ So while _"on election days even the proudest bourgeois who have any political
 ambitions are forced to court . . . The Sovereign People."_ But on the _"day
 after the elections every one goes back to their daily business"_ and the
 politicians are given carte blanche to rule in the name of the people they
-claim to represent."_ [Bakunin, **The Political Philosophy of Bakunin**, p.
-218 and p. 219]
+claim to represent." [Bakunin, **The Political Philosophy of Bakunin**, p. 218
+and p. 219]
 
 ## B.2.6 Can the state be an independent power within society?
 
@@ -1807,7 +1817,7 @@ independence from the class whose interests it, in general, defends. And such
 independence can be used to further its own interests, even to the detriment
 of the capitalist class, if the circumstances allow. If the capitalist class
 is weak or divided then the state can be in a position to exercise its
-autonomy vis--vis the economically dominant elite, using against the
+autonomy vis-à-vis the economically dominant elite, using against the
 capitalists as a whole the tools it usually applies to them individually to
 further its own interests and powers.
 
@@ -1908,4 +1918,9 @@ automatically mean that it does not clash with sections of the class it
 represents nor that it has to be the tool of an economically dominant class.
 One thing is sure, however. The state is not a suitable tool for securing the
 emancipation of the oppressed.
+
+[‹ B.1 Why are anarchists against authority and hierarchy?](/afaq/secB1.html
+"Go to previous page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.3 Why
+are anarchists against private property? ›](/afaq/secB3.html "Go to next page"
+)
 

@@ -399,21 +399,22 @@ personally, all goods and services needed, not only food, clothing and shelter
 but also education, medicine, sanitation, justice, police, all forms of
 security and insurance, even permission to use the streets (for these also
 would be privately owned), as one reads about all this a curious feature
-emerges: everybody always has enough money to buy all these things.
+emerges: everybody always has enough money to buy all these things.  
+>  _
 
 >
 
-> "There are no public casualty wards or hospitals or hospices, but neither is
-there anybody dying in the streets. There is no public educational system but
-no uneducated children, no public police service but nobody unable to buy the
-services of an efficient security firm, no public law but nobody unable to buy
-the use of a private legal system. Neither is there anybody able to buy much
-more than anybody else; no person or group possesses economic power over
-others.
+> _"There are no public casualty wards or hospitals or hospices, but neither
+is there anybody dying in the streets. There is no public educational system
+but no uneducated children, no public police service but nobody unable to buy
+the services of an efficient security firm, no public law but nobody unable to
+buy the use of a private legal system. Neither is there anybody able to buy
+much more than anybody else; no person or group possesses economic power over
+others. _
 
 >
 
-> "No explanation is offered. The anarcho-capitalists simply take it for
+> _"No explanation is offered. The anarcho-capitalists simply take it for
 granted that in their favoured society, although it possesses no machinery for
 restraining competition (for this would need to exercise authority over the
 competitors and it is an **anarcho**\- capitalist society) competition would
@@ -431,7 +432,7 @@ against the elements and so forth. It does **not** invoke the idea of
 transnational corporations employing tens of thousands of people or a
 population without land, resources and selling their labour to others.
 Rothbard as noted argued that economic power does not exist (at least under
-capitalism, as we saw in [section F.1](secF1.html) he does make \-- highly
+capitalism, as we saw in [section F.1](secF1.html) he does make -- highly
 illogical -- exceptions). Similarly, David Friedman's example of a pro-death
 penalty and anti-death penalty "defence" firm coming to an agreement (see
 [section F.6.3](secF6.html#secf63)) implicitly assumes that the firms have
@@ -540,25 +541,25 @@ Ayn Rand, _"[u]nder capitalism . . . politics (state) and economics
 (capitalism) are separated . . . This, of course, is pure ideology, for Rand's
 justification of the state is that it 'protects' private property, that is, it
 supports and upholds the economic power of capitalists by coercive means."_
-[**Ecology & Anarchism**, p. 189] The same can be said of "anarcho"-capitalism
-and its "protection agencies" and _"general libertarian law code."_ If within
-a society a few own all the resources and the majority are dispossessed, then
-any law code which protects private property **automatically** empowers the
-owning class. Workers will **always** be initiating force if they rebel
-against their bosses or act against the code and so equality before the law"
-reflects and reinforces inequality of power and wealth. This means that a
-system of property rights protects the liberties of some people in a way which
-gives them an unacceptable degree of power over others. And this critique
-cannot be met merely by reaffirming the rights in question, we have to assess
-the relative importance of the various kinds of liberty and other values we
-hold dear.
+[**Ecology &amp; Anarchism**, p. 189] The same can be said of
+"anarcho"-capitalism and its "protection agencies" and _"general libertarian
+law code."_ If within a society a few own all the resources and the majority
+are dispossessed, then any law code which protects private property
+**automatically** empowers the owning class. Workers will **always** be
+initiating force if they rebel against their bosses or act against the code
+and so equality before the law" reflects and reinforces inequality of power
+and wealth. This means that a system of property rights protects the liberties
+of some people in a way which gives them an unacceptable degree of power over
+others. And this critique cannot be met merely by reaffirming the rights in
+question, we have to assess the relative importance of the various kinds of
+liberty and other values we hold dear.
 
 Therefore right-"libertarian" disregard for equality is important because it
 allows "anarcho"-capitalism to ignore many important restrictions of freedom
 in society. In addition, it allows them to brush over the negative effects of
 their system by painting an unreal picture of a capitalist society without
 vast extremes of wealth and power (indeed, they often construe capitalist
-society in terms of an ideal -- namely artisan production \-- that is
+society in terms of an ideal -- namely artisan production -- that is
 **pre**-capitalist and whose social basis has been eroded by capitalist
 development). Inequality shapes the decisions we have available and what ones
 we make:
@@ -606,7 +607,7 @@ Marshall, **Op. Cit.**, p. 653]
 
 Like the right-liberalism it is derived from, "anarcho"-capitalism is based on
 the concept of _"harmony of interests"_ which was advanced by the likes of
-Frdric Bastiat in the 19th century and Rothbard's mentor Ludwig von Mises in
+Frédéric Bastiat in the 19th century and Rothbard's mentor Ludwig von Mises in
 the 20th. For Rothbard, _"all classes live in harmony through the voluntary
 exchange of goods and services that mutually benefits them all."_ This meant
 that capitalists and workers have no antagonistic class interests [**Classical
@@ -651,11 +652,12 @@ Berkman's analysis:
 why they are afraid of a real labour union. They know very well that a strong,
 fighting union can compel higher wages and better conditions, which means less
 profit for the plutocrats. That is why they do everything in their power to
-stop labour from organising . . .
+stop labour from organising . . .  
+>  _
 
 >
 
-> "The masters have found a very effective way to paralyse the strength of
+> _ "The masters have found a very effective way to paralyse the strength of
 organised labour. They have persuaded the workers that they have the same
 interests as the employers . . . and what is good for the employer is also
 good for his employees . . . If your interests are the same as those of your
@@ -667,11 +669,11 @@ with them . . . If you listen to your exploiters and their mouthpieces you
 will be 'good' and consider only the interests of your masters . . . but no
 one cares about **your** interests . . . 'Don't be selfish,' they admonish
 you, while the boss is getting rich by your being good and unselfish. And they
-laugh in their sleeves and thank the Lord that you are such an idiot.
+laugh in their sleeves and thank the Lord that you are such an idiot. _
 
 >
 
-> "But . . . the interests of capital and labour are not the same. No greater
+> _"But . . . the interests of capital and labour are not the same. No greater
 lie was ever invented than the so-called 'identity of interests' . . . It is
 clear that . . . they are entirely opposite, in fact antagonistic to each
 other."_ [**What is Anarchism?**, pp. 74-5]
@@ -800,7 +802,7 @@ capitalism is filled with the capitalist class using the state to enforce the
 kind of _"harmony of interests"_ which masters have always sought --
 obedience. This statist intervention has continued to this day as, in
 practice, the capitalist class has never totally relied on economic power to
-enforce its rule due to the instability of the capitalist market \-- see
+enforce its rule due to the instability of the capitalist market -- see
 [section C.7](secC7.html) \-- as well as the destructive effects of market
 forces on society and the desire to bolster its position in the economy at the
 expense of the working class -- see [section D.1](secD1.html). That the
@@ -923,11 +925,11 @@ cruellest master. A convenient ideology indeed for the masters! . . . All the
 subjects must do, in short, was to surrender their natural born gift of
 freedom and independence, to subject themselves completely to the whims and
 commands of others, who could then be blindly trusted to 'take care' of them
-permanently . . .
+permanently . . . _
 
 >
 
-> "Despite the myths of ideology and the threats of the whip, servants and
+> _"Despite the myths of ideology and the threats of the whip, servants and
 slaves found many ways of protest and rebellion. Masters were continually
 denouncing servants for being disobedient, sullen, and lazy."_ [**Conceived in
 Liberty**, vol. 2, pp. 18-19]
@@ -1018,4 +1020,9 @@ individualism."_ [**Red Emma Speaks**, p. 112]
 So, to conclude. Both the history and current practice of capitalism shows
 that there can be no harmony of interests in an unequal society. Anyone who
 claims otherwise has not been paying attention.
+
+[‹ F.2 What do "anarcho"-capitalists mean by freedom?](/afaq/secF2.html "Go to
+previous page" ) [up](/afaq/secFcon.html "Go to parent page" ) [F.4 What is
+the right-"libertarian" position on private property? ›](/afaq/secF4.html "Go
+to next page" )
 

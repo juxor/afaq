@@ -99,8 +99,8 @@ company. The 'laws' were the company's rules. Curfews were imposed,
 had a monopoly on goods sold in the camp. The doctor was a company doctor, the
 schoolteachers hired by the company . . . Political power in Colorado rested
 in the hands of those who held economic power. This meant that the authority
-of Colorado Fuel & Iron and other mine operators was virtually supreme . . .
-Company officials were appointed as election judges. Company-dominated
+of Colorado Fuel &amp; Iron and other mine operators was virtually supreme . .
+. Company officials were appointed as election judges. Company-dominated
 coroners and judges prevented injured employees from collecting damages."_
 [**The Colorado Coal Strike, 1913-14**, pp. 9-11]
 
@@ -411,7 +411,7 @@ their own labour.
 
 Anarchists, while understanding the appeal of the idea, are not convinced.
 That "self-ownership," like slavery, places issues of freedom and
-individuality within the context of private property \-- as such it shares the
+individuality within the context of private property -- as such it shares the
 most important claim of slavery, namely that people can be objects of the
 rules of private property. It suggests an alienated perspective and, moreover,
 a fatal flaw in the dogma. This can be seen from how the axiom is used in
@@ -493,7 +493,7 @@ In developing nations, this control can easily been seen to be an utter
 affront to human dignity and liberty. There a workplace is often _"surrounded
 by barbed wire. Behind its locked doors . . . workers are supervised by guards
 who beat and humiliate them on the slightest pretext . . . Each worker repeats
-the same action \-- sewing on a belt loop, stitching a sleeve -- maybe two
+the same action -- sewing on a belt loop, stitching a sleeve -- maybe two
 thousand times a day. They work under painfully bright lights, for twelve- to
 fourteen-hour shifts, in overheated factories, with too few bathroom breaks,
 and restricted access to water (to reduce the need for more bathroom breaks),
@@ -533,11 +533,12 @@ length:
 slaves instead of free labourers, like the West India planter, would be
 regarded as owner both of the capital, and of the labour. He would be owner,
 in short, of both instruments of production: and the whole of the produce,
-without participation, would be his own.
+without participation, would be his own.  
+>  _
 
 >
 
-> "What is the difference, in the case of the man, who operates by means of
+> _"What is the difference, in the case of the man, who operates by means of
 labourers receiving wages? The labourer, who receives wages, sells his labour
 for a day, a week, a month, or a year, as the case may be. The manufacturer,
 who pays these wages, buys the labour, for the day, the year, or whatever
@@ -651,11 +652,11 @@ become little more than spare parts for the wealthy. After all, the poor own
 their bodies and, consequently, can sell all or part of it to a willing party.
 This means that someone in dire economic necessity can sell parts of their
 body to the rich. Ultimately, _"[t]o tell a poor man that he **has** property
-because he **has** arms and legs \-- that the hunger from which he suffers,
-and his power to sleep in the open air are his property, -- is to play upon
-words, and to add insult to injury."_ [Proudhon, **Op. Cit.**, p. 80]
+because he **has** arms and legs -- that the hunger from which he suffers, and
+his power to sleep in the open air are his property, -- is to play upon words,
+and to add insult to injury."_ [Proudhon, **Op. Cit.**, p. 80]
 
-Obviously the ability to labour is **not** the property of a person \-- it is
+Obviously the ability to labour is **not** the property of a person -- it is
 their possession. Use and ownership are fused and cannot be separated out. As
 such, anarchists argue that the history of capitalism shows that there is a
 considerable difference whether one said (like the defenders of capitalism)
@@ -712,7 +713,7 @@ be delayed. When they conceive the possibility of a complete international
 federation of labour, whose constituent groups shall take possession of land,
 mines, factories, all the instruments of production . . . , in short, conduct
 their own industry without regulative interference from law-makers or
-employers, then we may hope for the only help which counts for aught \-- Self-
+employers, then we may hope for the only help which counts for aught -- Self-
 Help; the only condition which can guarantee free speech [along with their
 other rights] (and no paper guarantee needed)."_ [Voltairine de Cleyre, **The
 Voltairine de Cleyre Reader**, pp. 4-6]
@@ -1141,7 +1142,7 @@ own activities. Instead, they are told what to do, when to do it and how to do
 it. Indeed, the history of experiments in workers' control and self-management
 within capitalist companies confirms our claims that, for the worker,
 capitalism is incompatible with the desire to be "left alone." As an
-illustration we will use the _**"Pilot Program"_** conducted by General
+illustration we will use the _**"Pilot Program"**_ conducted by General
 Electric between 1968 and 1972.
 
 General Electric proposed the "Pilot Program" as a means of overcoming the
@@ -1303,4 +1304,9 @@ discussed why capitalist society can never actually achieve that desire -- it
 is handicapped by its hierarchical and competitive nature -- and how such a
 desire can be twisted into a means of enhancing the power of the few over the
 many.
+
+[‹ B.3 Why are anarchists against private property?](/afaq/secB3.html "Go to
+previous page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.5 Is
+capitalism empowering and based on human action? ›](/afaq/secB5.html "Go to
+next page" )
 

@@ -1,8 +1,8 @@
 #
 
-* Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2
+  * Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2
 
-## 1 - Individualist Anarchists and the socialist movement.
+## 1 - Individualist Anarchists and the socialist movement
 
 Caplan, in his FAQ, attempts to rewrite anarchist history by trying to claim
 that the individualist anarchists were forerunners of the so-called "anarcho-
@@ -80,7 +80,7 @@ was _"the most profound thinker among pre-Marxian socialists."_ [p. 67] Given
 that Caplan elsewhere in his FAQ tries to co-opt Proudhon into the
 "anarcho"-capitalist school as well as Tucker, his citing of Landauer seems
 particularly dishonest. Landauer presents Proudhon's ideas in some depth in
-his work within a chapter headed _**"The three Anticapitalistic Movements."_**
+his work within a chapter headed _**"The three Anticapitalistic Movements."**_
 Indeed, he starts his discussion of Proudhon's ideas with the words _"In
 France, post-Utopian socialism begins with Peter Joseph Proudhon."_ [p. 59]
 Given that both Kropotkin and Tucker indicated that Individualist Anarchism
@@ -578,23 +578,24 @@ his dictum that it was theft)"_[**Anarchism: Arguments For and Against**, pp.
 Malatesta makes the same point:
 
 > _"Our opponents . . . are in the habit of justifying the right to private
-property by stating that property is the condition and guarantee of liberty.
+property by stating that property is the condition and guarantee of liberty. _
 
 >
 
-> "And we agree with them. Do we not say repeatedly that poverty is slavery?
+> _"And we agree with them. Do we not say repeatedly that poverty is slavery?
+_
 
 >
 
-> "But then why do we oppose them?
+> _"But then why do we oppose them? _
 
 >
 
-> "The reason is clear: in reality the property that they defend is capitalist
-property. . . which therefore depends on the existence of a class of the
-disinherited and dispossessed, forced to sell their labour to the property
-owners for a wage below its real value. . . This means that workers are
-subjected to a kind of slavery."_ [**The Anarchist Revolution**, p. 113]
+> _"The reason is clear: in reality the property that they defend is
+capitalist property. . . which therefore depends on the existence of a class
+of the disinherited and dispossessed, forced to sell their labour to the
+property owners for a wage below its real value. . . This means that workers
+are subjected to a kind of slavery."_ [**The Anarchist Revolution**, p. 113]
 
 As does Kropotkin:
 
@@ -623,7 +624,7 @@ _"by nature autocratic"_ and that its _"politics could be summed up in a
 single word,"_ namely _"exploitation."_ [p. 141, p. 140, p. 134]
 
 Moreover, Proudhon argues that _"spread[ing] it more equally and
-establish[ing] it more firmly in society"_ is the means by which "property"_
+establish[ing] it more firmly in society"_ is the means by which "property"
 _"becomes a guarantee of liberty and keeps the State on an even keel."_ [p.
 133, p. 140] In other words, rather than "property" **as such** limiting the
 state, it is "property" divided equally through society which is the key,
@@ -1068,6 +1069,8 @@ In other words, "anarcho"-capitalism is a development of ideas which have
 little in common with anarchism. Jeremy Jennings, in his overview of anarchist
 theory and history, agrees:
 
+
+
 > _"It is hard not to conclude that these ideas ["anarcho"-capitalism] -- with
 roots deep in classical liberalism -- are described as anarchist only on the
 basis of a misunderstanding of what anarchism is."_ [**Contemporary Political
@@ -1114,27 +1117,46 @@ theory and history. Ignored is any attempt to understand their ideas on
 property and instead Caplan just concentrates on the fact they use the word.
 Caplan also ignores:
 
-> * their many statements on being socialists and part of the wider socialist
-movement.
+>   * their many statements on being socialists and part of the wider
+socialist movement.
 
 >
 
-> * their opposition to capitalist property-rights in land and other scarce
+>
+
+>
+
+>   * their opposition to capitalist property-rights in land and other scarce
 resources.
 
 >
 
-> * their recognition that capitalism was based on usury and that it was
+>
+
+>
+
+>   * their recognition that capitalism was based on usury and that it was
 exploitation.
 
 >
 
-> * their attacks on government **and** capital, rather than just government.
+>
 
 >
 
-> * their support for strikes and other forms of direct action by workers to
+>   * their attacks on government **and** capital, rather than just
+government.
+
+>
+
+>
+
+>
+
+>   * their support for strikes and other forms of direct action by workers to
 secure the full product of their labour.
+
+>
 
 In fact, the only things considered useful seems to be the individualist
 anarchist's support for free agreement (something Kropotkin also agreed with)
@@ -1504,4 +1526,9 @@ new label to call themselves rather than steal our name.
 
 Although most anarchists disagree on many things, the denial of our history is
 not one of them.
+
+[‹ Appendix : Anarchism and "anarcho"-capitalism](/afaq/append1.html "Go to
+previous page" ) [up](/afaq/append1.html "Go to parent page" ) [Replies to
+Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version
+4.1.1 ›](/afaq/append12.html "Go to next page" )
 

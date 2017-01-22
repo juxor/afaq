@@ -41,7 +41,7 @@ that the first settlers in Iceland would have brought such institutions with
 them and Iceland did indeed have its equivalent of the commune or "village
 community," the **Hreppar**, which developed early in the country's history.
 Like the early local assemblies, it is not much discussed in the Sagas but is
-mentioned in the law book, the Grgs, and was composed of a minimum of twenty
+mentioned in the law book, the Grágás, and was composed of a minimum of twenty
 farms and had a five member commission. The Hreppar was self-governing and,
 among other things, was responsible for seeing that orphans and the poor
 within the area were fed and housed. The Hreppar also served as a property
@@ -65,11 +65,11 @@ self-governing . . . .[and] guided by a five-member steering committee . . .
 As early as the 900s, the whole country seems to have been divided into
 **hreppar** . . . **Hreppar** provided a blanket of local security, allowing
 the landowning farmers a measure of independence to participate in the choices
-of political life . . .
+of political life . . . _
 
 >
 
-> "Through copoperation among their members, **hreppar** organised and
+> _"Through copoperation among their members, **hreppar** organised and
 controlled summer grazing lands, organised communal labour, and provided an
 immediate local forum for settling disputes. Crucially, they provided fire and
 livestock insurance for local farmers. . . [They also] saw to the feeding and
@@ -428,4 +428,9 @@ power. Thus, private property, far from increasing the freedom of the
 individual, has always been the necessary precondition for the rise of the
 state and rule by the rich. Medieval Iceland is a classic example of this
 process at work.
+
+[‹ 8 What role did the state take in the creation of
+capitalism?](/afaq/append138.html "Go to previous page" )
+[up](/afaq/append13.html "Go to parent page" ) [10 Would laissez-faire
+capitalism be stable? ›](/afaq/append1310.html "Go to next page" )
 

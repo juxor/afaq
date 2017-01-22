@@ -1,8 +1,14 @@
 # Appendix - The Symbols of Anarchy
 
-##  [1 What is the history of the Black Flag?](append2.html#black)  
-[2 Why the red-and-black flag?](append2.html#redblack)  
-[3 Where does the circled A come from?](append2.html#circledA)  
+##
+
+## [1 What is the history of the Black Flag?](append2.html#black)
+
+## [2 Why the red-and-black flag?](append2.html#redblack)
+
+## [3 Where does the circled A come from?](append2.html#circledA)
+
+###
 
 ### Introduction
 
@@ -107,21 +113,17 @@ stability of some bloody state. It mourns for those whose labour is robbed
 mourns not only the death of the body but the crippling of the spirit under
 authoritarian and hierarchic systems; it mourns the millions of brain cells
 blacked out with never a chance to light up the world. It is a colour of
-inconsolable grief.
+inconsolable grief. _
 
->
-
-> "But black is also beautiful. It is a colour of determination, of resolve,
+> _"But black is also beautiful. It is a colour of determination, of resolve,
 of strength, a colour by which all others are clarified and defined. Black is
 the mysterious surrounding of germination, of fertility, the breeding ground
 of new life which always evolves, renews, refreshes, and reproduces itself in
 darkness. The seed hidden in the earth, the strange journey of the sperm, the
 secret growth of the embryo in the womb all these the blackness surrounds and
-protects.
+protects. _
 
->
-
-> "So black is negation, is anger, is outrage, is mourning, is beauty, is
+> _"So black is negation, is anger, is outrage, is mourning, is beauty, is
 hope, is the fostering and sheltering of new forms of human life and
 relationship on and with this earth. The black flag means all these things. We
 are proud to carry it, sorry we have to, and look forward to the day when such
@@ -135,9 +137,9 @@ There are ample accounts of the use of black flags by anarchists. Probably the
 most famous was Nestor Makhno's partisans during the Russia Revolution. Under
 the black banner, his army routed a dozen armies and kept a large portion of
 the Ukraine free from concentrated power for a good couple of years. On the
-black flag was embroidered _"Liberty or Death"_ and _"The Land to the Peasant,
-The Factories to the Workers."_ [Voline, **The Unknown Revolution**, pp.
-607-10] In 1925, the Japanese anarchists formed the **Black Youth League**
+black flag was embroidered [_"Liberty or Death"_ and _"The Land to the
+Peasant, The Factories to the Workers."_ [Voline, **The Unknown Revolution**,
+pp. 607-10] In 1925, the Japanese anarchists formed the **Black Youth League**
 and, in 1945, when the anarchist federation reformed, their journal was named
 **Kurohata** (**Black Flag**). [Peter Marshall, **Demanding the Impossible**,
 pp. 525-6] In 1968, students carried black (and red) flags during the street
@@ -193,16 +195,16 @@ Movement of the Unemployed"_, **Anarchy! An Anthology of Emma Goldman's Mother
 Earth**, p. 341]
 
 It seems that black flags did not appear in Russia until the founding of the
-**Chernoe Znamia** (**_"black banner"_**) movement in 1905\. With the defeat
-of that year's revolution, anarchism went underground again. The Black Flag,
-like anarchism in general, re-emerged during the 1917 revolution. Anarchists
-in Petrograd took part in the February demonstrations which brought down
-Tsarism carrying black flags with _"Down with authority and capitalism!"_ on
-them. As part of their activity, anarchists organised armed detachments in
-most towns and cities called _"Black Guards"_ to defend themselves against
-counter-revolutionary attempts by the provisional government. As noted above,
-the Makhnovists fought Bolshevik and White dictatorship under Black Flags. On
-a more dreary note, February 1921 saw the end of black flags in Soviet Russia.
+**Chernoe Znamia** (**_"black banner"_**) movement in 1905. With the defeat of
+that year's revolution, anarchism went underground again. The Black Flag, like
+anarchism in general, re-emerged during the 1917 revolution. Anarchists in
+Petrograd took part in the February demonstrations which brought down Tsarism
+carrying black flags with _"Down with authority and capitalism!"_ on them. As
+part of their activity, anarchists organised armed detachments in most towns
+and cities called _"Black Guards"_ to defend themselves against counter-
+revolutionary attempts by the provisional government. As noted above, the
+Makhnovists fought Bolshevik and White dictatorship under Black Flags. On a
+more dreary note, February 1921 saw the end of black flags in Soviet Russia.
 That month saw Peter Kropotkin's funeral take place in Moscow. Twenty thousand
 people marched in his honour, carrying black banners that read: _"Where there
 is authority there is no freedom."_ [Paul Avrich, **The Russian Anarchists**,
@@ -268,9 +270,9 @@ report sent to the Lyon prefect that said: _"The silk-weavers of the Croix-
 Rousse have decided that tomorrow they will go down to Lyon, carrying a black
 flag, calling for work or death."_ The revolt saw the Black Flag raised:
 
-> _ "At eleven a.m. the silk-weavers' columns descended the slops of the
-Croix-Rousse. Some carried black flags, the colour of mourning and a reminder
-of their economic distress. Others pushed loaves of bread on the bayonets of
+> _"At eleven a.m. the silk-weavers' columns descended the slops of the Croix-
+Rousse. Some carried black flags, the colour of mourning and a reminder of
+their economic distress. Others pushed loaves of bread on the bayonets of
 their guns and held them aloft. The symbolic force of this action was
 reinforced by a repeatedly-shouted slogan: 'bread or lead!': in other words,
 if they were not given bread which they could afford, then they were prepared
@@ -302,11 +304,9 @@ Drapeau Noir**, no. 1, 12th August 1883] This was echoed by Louise Michel:
 
 > _"How many wrathful people, young people, will be with us when the red and
 black banners wave in the wind of anger! What a tidal wave it will be when the
-red and black banners rise around the old wreck!
+red and black banners rise around the old wreck!_
 
->
-
-> "The red banner, which has always stood for liberty, frightens the
+> _"The red banner, which has always stood for liberty, frightens the
 executioners because it is so red with our blood. The black flag, with layers
 of blood upon it from those who wanted to live by working or die by fighting,
 frightens those who want to live off the work of others. Those red and black
@@ -359,7 +359,7 @@ congress Kropotkin was formulating the idea that this organisation would be a
 _"Strikers' International"_ (**Internationale Greviste**) -- it would be _"an
 organisation of resistance, of strikes."_ [quoted by Martin A. Miller,
 **Kropotkin**, p. 147] In December 1881 he discussed the revival of the
-International Workers Association as a **_Strikers' International**_ for to
+International Workers Association as a **_Strikers' International_** for to
 _"be able to make the revolution, the mass of workers will have to organise
 themselves. Resistance and strikes are excellent methods of organisation for
 doing this."_ He stressed that the _"strike develops the sentiment of
@@ -385,7 +385,7 @@ through the 1880s. French Anarchists carried three red flags at the funeral of
 Louise Michel's mother in 1885 as well as at her own funeral in January 1905.
 [Louise Michel, **Op. Cit.**, p. 183 and p. 201] Anarchist in Japan, for
 example, demonstrated under red flags bearing the slogans _"Anarchy"_ and
-_"Anarchist Communism"_ in June, 1908\. [John Crump, **Hatta Shuzo and Pure
+_"Anarchist Communism"_ in June, 1908. [John Crump, **Hatta Shuzo and Pure
 Anarchism in Interwar Japan**, p. 25] Three years later, the Mexican
 anarchists declared that they had _"hoisted the Red Flag on Mexico's fields of
 action"_ as part of their _"war against Authority, war against Capital, and
@@ -613,4 +613,8 @@ become the accepted symbol of the restrengthened anarchist movement after the
 revolt of 1968"_ particularly as in many, if not most, of the world's
 languages the word for anarchy begins with the letter A. [Peter Peterson,
 **Op. Cit.**, p. 8]
+
+[‹ 11 What is the myth of "Natural Law"?](/afaq/append1311.html "Go to
+previous page" ) [up](/afaq/index.html "Go to parent page" ) [Appendix :
+Anarchism and Marxism ›](/afaq/append3.html "Go to next page" )
 

@@ -190,7 +190,7 @@ new labour system in the steel industry was repeated throughout the economy in
 different industries. As in the steel industry, the core of these new labour
 systems were the creation of artificial job hierarchies and the transfer of
 skills from workers to the managers."_ [_"The Origins of Job Structure in the
-Steel Industry,"_ pp. 123-157, Root & Branch (ed.), **Root and Branch: The
+Steel Industry,"_ pp. 123-157, Root &amp; Branch (ed.), **Root and Branch: The
 Rise of the Workers' Movements**, p. 155, p. 153, p. 152 and pp. 153-4]
 
 This process of deskilling workers was complemented by other factors -- state
@@ -525,4 +525,9 @@ create a _"technology for life,"_ a liberatory technology based on human and
 ecological needs. [**Op. Cit.**, p. 43 and p. 80] See [section
 I.4.9](secI4.html#seci49) for more discussion on technology within an
 anarchist society.
+
+[‹ D.9 Why does political power become concentrated under
+capitalism?](/afaq/secD9.html "Go to previous page" ) [up](/afaq/secDcon.html
+"Go to parent page" ) [D.11 Can politics and economics be separated from each
+other? ›](/afaq/secD11.html "Go to next page" )
 

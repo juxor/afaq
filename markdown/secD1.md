@@ -15,9 +15,9 @@ is, and cannot be, a capitalist economy which does not exhibit some form of
 state action within it. The state is forced to intervene in society for three
 reasons:
 
-1\. To bolster the power of capital as a whole within society.  
-2\. To benefit certain sections of the capitalist class against others.  
-3\. To counteract the anti-social effects of capitalism.
+         1. To bolster the power of capital as a whole within society.  
+         2. To benefit certain sections of the capitalist class against others.  
+         3. To counteract the anti-social effects of capitalism. 
 
 From our discussion of the state and its role in [section B.2](secB2.html),
 the first two reasons are unexpected and straight forward. The state is an
@@ -36,7 +36,7 @@ of resisting the oppression by capitalists. . . The state has **always**
 interfered in the economic life in favour of the capitalist exploiter. It has
 always granted him protection in robbery, given aid and support for further
 enrichment. **And it could not be otherwise.** To do so was one of the
-functions \-- the chief mission -- of the State."_ [**Evolution and
+functions -- the chief mission -- of the State."_ [**Evolution and
 Environment**, pp. 97-8]
 
 In addition to this role, the state has also regulated certain industries and,
@@ -230,7 +230,7 @@ accordance with its own laws of motion. But as soon as it begins to feel
 itself as a hindrance to further development and is recognised as such, it
 adapts forms of behaviour through the harnessing of competition which
 seemingly indicate its absolute rule but actually point to its decay and
-dissolution."_ [quoted by Paul Mattick, **Marx and Keynes**, p. 96] Council
+dissolution." [quoted by Paul Mattick, **Marx and Keynes**, p. 96] Council
 Communist Paul Mattick comments that a _"healthy"_ capitalism _"is a strictly
 competitive capitalism, and the imperfections of competition in the early and
 late stages of its development must be regarded as the ailments of an
@@ -261,11 +261,12 @@ accumulation' -- as if this 'push' given to capitalists were a thing of the
 past? . . . In short, nowhere has the system of 'non-intervention of the
 State' ever existed . . . Nowhere, since States have grown up, have the masses
 had the freedom of resisting the oppression by capitalists. The few rights
-they have now they have gained only by determination and endless sacrifice.
+they have now they have gained only by determination and endless sacrifice.  
+>  _
 
 >
 
-> "To speak therefore of 'non-intervention of the State' may be all right for
+> _"To speak therefore of 'non-intervention of the State' may be all right for
 middle-class economists, who try to persuade the workers that their misery is
 'a law of Nature.' But -- how can Socialists use such language?"_ [**Op.
 Cit.**, pp. 97-8]
@@ -309,11 +310,11 @@ of state violence against the working class -- was required to create and
 protect capitalism and industry in the first place (see [section
 F.8](secF8.html) for details).
 
-In short, although laissez-faire may be the ideological basis of capitalism
-\-- the religion that justifies the system -- it has rarely if ever been
-actually practised. So, while the ideologues are praising "free enterprise" as
-the fountainhead of modern prosperity, the corporations and companies are
-gorging at the table of the State. As such, it would be wrong to suggest that
+In short, although laissez-faire may be the ideological basis of capitalism --
+the religion that justifies the system -- it has rarely if ever been actually
+practised. So, while the ideologues are praising "free enterprise" as the
+fountainhead of modern prosperity, the corporations and companies are gorging
+at the table of the State. As such, it would be wrong to suggest that
 anarchists are somehow "in favour" of state intervention. This is not true. We
 are "in favour" of reality, not ideology. The reality of capitalism is that it
 needs state intervention to be created and needs state intervention to
@@ -368,8 +369,8 @@ generated more threatening externalities and created demands for things the
 market is not well suited to provide. It may also be true that the growth of
 the government further weakens the market. This does not alter the fact that
 powerful underlying forces -- not power hungry bureaucrats or frustrated
-intellectuals \-- are determining the main drift."_ [Edward Herman,
-**Corporate Control, Corporate Power**, pp. 300-1]
+intellectuals -- are determining the main drift."_ [Edward Herman, **Corporate
+Control, Corporate Power**, pp. 300-1]
 
 In other words, state intervention is the result of the problems caused by
 capitalism rather than their cause. To say otherwise is like arguing that
@@ -1019,11 +1020,12 @@ anarchists stressed during the first post-war Labour Government:
 
 > _ "The fact that the alternative, under capitalism, is destitution and the
 sharper anomalies of poverty, does not make the Liberal-Socialistic
-alternative a sound proposition."
+alternative a sound proposition."  
+>  _
 
 >
 
-> "The only rational insurance against the evils of poverty and industrialism
+> _"The only rational insurance against the evils of poverty and industrialism
 and old age under the wages system is the abolition of poverty and the wages
 system, and the transformation of industrialism to serve human ends instead of
 grinding up human beings."_ [Vernon Richards (ed.), **World War - Cold War**,
@@ -1068,7 +1070,7 @@ sanction the new forms which that exploitation continually assumes, as capital
 swallows up another branch of human activity . . . They exist to keep up the
 machinery of government which serves to secure to capital the exploitation and
 monopoly of wealth produced."_ This means that all modern states _"all serve
-one God -- capital; all have but one object \-- to facilitate the exploitation
+one God -- capital; all have but one object -- to facilitate the exploitation
 of the worker by the capitalist."_ [**Anarchism**, p. 210]
 
 Given that the capitalist market is marked by inequalities of power, any legal
@@ -1151,7 +1153,7 @@ Ultimately, the business class wants the state to intervene in the economy
 beyond the minimum desired by a few ideologues of capitalism simply to ensure
 it gets even more wealth and power -- and to ensure that the system does not
 implode. Ironically, to get capitalism to work as some of its defenders want
-it to would require a revolution in itself \-- against the capitalists! Yet if
+it to would require a revolution in itself -- against the capitalists! Yet if
 we go to the trouble of fighting public tyranny (the state), why should we
 stop there? Why should private tyranny (capitalism, its autocratic structures
 and hierarchical social relationships) remain untouched? Particularly, as
@@ -1216,7 +1218,7 @@ anarchist should be to defend some state institutions from the attack against
 them, while trying at the same time to pry them open to more meaningful public
 participation -- and, ultimately, to dismantle them in a much more free
 society, of the appropriate circumstances can be achieved."_ [**Chomsky on
-Anarchism**, p. 193 and p. 194]
+Anarchism**, pp. 193-4]
 
 There is, of course, a tension in this position. The state may be influenced
 by popular struggle but it remains an instrument of **capitalist** rule. It
@@ -1288,11 +1290,12 @@ is far too often spun out by people on the left without their taking into
 account that there is a massive difference between state control/ownership and
 workers' control/ownership . . . we all know that even if the revenues . . .
 were still in state ownership, spending it on housing the homeless or reducing
-hospital waiting lists would not top the agenda of the government.
+hospital waiting lists would not top the agenda of the government.  
+>  _
 
 >
 
-> "Put simply, state ownership does not equal workers' ownership . . . we are
+> _"Put simply, state ownership does not equal workers' ownership . . . we are
 sold the lie that the resource . . . is 'public property.' The reality however
 is that far from being in the ownership of 'the public,' ordinary people have
 no direct say in the allocation of these resources. Just as working class
@@ -1304,7 +1307,7 @@ the purse strings supposedly 'in the public interest' will actually spend
 revenues generated from these 'public assets' on measures that will have the
 long-term effect of re-enforcing rather than alleviating social division.
 Public policy consistently results in an increase in the gap between the well-
-off and the poor."_ [Kerr, Opt. Cit.**, pp. 16-7 and p. 17]
+off and the poor."_ [Kerr, **Opt. Cit.**, pp. 16-7 and p. 17]
 
 Thus an anarchist approach to this issue would be to reject both privatisation
 **and** nationalisation in favour of socialisation, i.e. placing nationalised
@@ -1321,14 +1324,15 @@ social functions. It does not follow that **only** the state could assume such
 control. The postmen are 'civil servants' only because the State makes them
 such. The railways were not always run by the state, They belonged to the
 capitalists [and do once more, at least in the UK], and could as easily have
-been run by the railway workers.
+been run by the railway workers.  
+>  _
 
 >
 
-> "The opponents of anarchism assure us that if we put government under a ban,
-there would be no education, for the state controls the schools. There would
-be no hospitals - where would the money come from? Nobody would work -- who
-would pay their wages? . . . But in reality, not . . . the state, but the
+> _"The opponents of anarchism assure us that if we put government under a
+ban, there would be no education, for the state controls the schools. There
+would be no hospitals - where would the money come from? Nobody would work --
+who would pay their wages? . . . But in reality, not . . . the state, but the
 people provide what the people have. If the people do not provide for
 themselves, the state cannot help them. It only appears to do so because it is
 in control. Those who have power may apportion work or regulate the standard
@@ -1498,4 +1502,8 @@ offering it their assistance. For every reinforcement of state power there is
 always . . . a corresponding debilitation of grassroots elements. Men may come
 and go, but the state remains."_ [Jose Peirats, **The CNT in the Spanish
 Revolution**, vol. 2, p. 150]
+
+[‹ D.0 Section D Introduction](/afaq/secDint.html "Go to previous page" )
+[up](/afaq/secDcon.html "Go to parent page" ) [D.2 What influence does wealth
+have over politics? ›](/afaq/secD2.html "Go to next page" )
 

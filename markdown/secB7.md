@@ -55,7 +55,7 @@ class, as would the bulk of peasants and artisans (where applicable). In a
 nutshell, the producing classes and those who either were producers or will be
 producers. This group makes up the vast majority of the population.
 
-(2) _**Ruling class_** \-- those who control investment decisions, determine
+(2) _**Ruling class**_ \-- those who control investment decisions, determine
 high level policy, set the agenda for capital and state. This is the elite at
 the top, owners or top managers of large companies, multinationals and banks
 (i.e., the capitalists), owners of large amounts of land (i.e. landlords or
@@ -203,16 +203,17 @@ of Horatio Alger"_, **The Nation**, January 5, 2004]
 
 Doug Henwood provides some more details on income [**Op. Cit.**, p. 90]:
 
-**Changes in income, 1977-1999** | real income growth   
-1977-99 | Share of total income | | 1977 | 1999 | Change  
----|---|---|---  
-poorest 20%| -9%| 5.7%| 4.2% | -1.5%  
-second 20% | +1| 11.5| 9.7| -1.8  
-middle 20%| +8| 16.4| 14.7| -1.7  
-fourth 20%| +14| 22.8| 21.3| -1.5  
-top 20%| +43| 44.2| 50.4| +6.2  
-top 1%| +115| 7.3| 12.9| +5.6
-
+**Changes in income, 1977-1999**   | real income growth   
+1977-99 | Share of total income  
+---|---|---  
+  | 1977 | 1999 | Change  
+poorest 20% | -9% | 5.7% | 4.2% | -1.5%  
+second 20% | +1 | 11.5 | 9.7 | -1.8  
+middle 20% | +8 | 16.4 | 14.7 | -1.7  
+fourth 20% | +14 | 22.8 | 21.3 | -1.5  
+top 20% | +43 | 44.2 | 50.4 | +6.2  
+top 1% | +115 | 7.3 | 12.9 | +5.6  
+  
 By far the biggest gainers from the wealth concentration since the 1980s have
 been the super-rich. The closer you get to the top, the bigger the gains. In
 other words, it is not simply that the top 20 percent of families have had
@@ -235,7 +236,7 @@ All this proves that classes do in fact exist, with wealth and power
 concentrating at the top of society, in the hands of the few.
 
 To put this inequality of income into some perspective, the average full-time
-Wal-Mart employee was paid only about $17,000 a year in 2004\. Benefits are
+Wal-Mart employee was paid only about $17,000 a year in 2004. Benefits are
 few, with less than half the company's workers covered by its health care
 plan. In the same year Wal-Mart's chief executive, Scott Lee Jr., was paid
 $17.5 million. In other words, every two weeks he was paid about as much as
@@ -361,7 +362,7 @@ pay for most US workers is lower in 2005 than it was in 1973!). This, combined
 with "trickle-down" economic policies of tax cuts for the wealthy, tax raises
 for the working classes, the maintaining of a "natural" law of unemployment
 (which weakens unions and workers power) and cutbacks in social programs, has
-seriously eroded living standards for all but the upper strata \-- a process
+seriously eroded living standards for all but the upper strata -- a process
 that is clearly leading toward social breakdown, with effects that will be
 discussed later (see [section D.9](secD9.html)).
 
@@ -438,11 +439,11 @@ was a reduction in income mobility upward from low to medium incomes of over
 Here are the exact figures [cited by Paul Krugman, _"The Rich, the Right, and
 the Facts,"_ **The American Prospect** no. 11, Fall 1992, pp. 19-31]:
 
-** Percentages of families making transitions to and from middle class (5-year period before and after 1980) **
+** Percentages of families making transitions to and from middle class (5-year period before and after 1980) **
 
-| Transition| Before 1980 | After 1980  
+Transition | Before 1980 | After 1980  
 ---|---|---  
-Middle income to low income| 8.5 | 9.8  
+Middle income to low income | 8.5 | 9.8  
 Middle income to high income | 5.8 | 6.8  
 Low income to middle income | 35.1 | 24.6  
 High income to middle income | 30.8 | 27.6  
@@ -559,7 +560,7 @@ which accompany the differences in income. In other words, because it is
 possible (in theory) for everyone to become a boss this does not make the
 power and authority that bosses have over their workers (or the impact of
 their wealth on society) any more legitimate (just because everyone -- in
-theory \-- can become a member of the government does not make government any
+theory -- can become a member of the government does not make government any
 less authoritarian). Because the membership of the boss class can change does
 not negate the fact that such a class exists.
 
@@ -570,6 +571,8 @@ slavery (to pay off debts). If someone tried to defend slavery with the
 reference to this fact of social mobility they would be dismissed as mad. The
 evil of slavery is not mitigated by the fact that a few slaves could stop
 being slaves if they worked hard enough.
+
+
 
 ## B.7.3 Why is the existence of classes denied?
 
@@ -613,7 +616,7 @@ taboo in mainstream academic circles to suggest that anything like a ruling
 class even exists in the United States. Students are instead indoctrinated
 with the myth of a "pluralist" and "democratic" society -- a Never-Never Land
 where all laws and public policies supposedly get determined only by the
-amount of "public support" they have \-- certainly not by any small faction
+amount of "public support" they have -- certainly not by any small faction
 wielding power in disproportion to its size.
 
 To deny the existence of class is a powerful tool in the hands of the
@@ -851,4 +854,9 @@ workplace. To the contrary, workers are human beings, not the economically
 driven robots of capitalist and Leninist mythology. They are concerned about
 everything that affects them -- their parents, their children, their friends,
 their neighbours, their planet and, very often, total strangers.
+
+[‹ B.6 But won't decisions made by individuals with their own money be the
+best? ](/afaq/secB6.html "Go to previous page" ) [up](/afaq/secBcon.html "Go
+to parent page" ) [Section C - What are the myths of capitalist economics?
+›](/afaq/secCcon.html "Go to next page" )
 

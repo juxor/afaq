@@ -11,11 +11,11 @@ Unsurprisingly, given its popularity with defenders of capitalism and neo-
 classical economists, Hardin's argument was a pure thought experiment with
 absolutely no empirical evidence to support it. He suggested a scenario in
 which commonly owned pasture was open to all local herdsmen to feed their
-cattle on. Completing this assumption with the standard ones of neo-classical
-economics, with Hardin arguing that each herdsman would try to keep as many
+cattle on. Hardin complemented this assumption with the standard ones of neo-
+classical economics, arguing that each herdsman would try to keep as many
 cattle as possible on the commons to maximise their income. This would result
 in overgrazing and environmental destruction as the cost of each feeding
-addition animals is shouldered by all who use the commons while the benefits
+additional animals is shouldered by all who use the commons while the benefits
 accrue to the individual herdsman. However, what is individually rational
 becomes collectively irrational when each herdsman, acting in isolation, does
 the same thing. The net result of the individual's actions is the ending of
@@ -26,7 +26,7 @@ communal resources (the former often a precursor for the latter). As state
 ownership fell out of favour, the lesson of this experiment in logic was as
 uniform as it was simple: only privatisation of common resources could ensure
 their efficient use and stop them being overused and destroyed. Coming as it
-before the rise of neo-liberalism in the 1970s, Hardin's essay was much
+did before the rise of neo-liberalism in the 1970s, Hardin's essay was much
 referenced by those seeking to privatise nationalised industries and eliminate
 communal institutions in tribal societies in the Third World. That these
 resulted in wealth being concentrated in a few hands should come as no
@@ -39,9 +39,9 @@ reality of the commons as a social institution. The so-called _"Tragedy of the
 Commons"_ was no such thing. It is actually an imposition of the _"tragedy of
 the free-for-all"_ to communally owned resources (in this case, land). In
 reality, commons were **never** _"free for all"_ resources and while the
-latter may be see overuse and destruction the former managed to survive
-thousands of years. So, unfortunately for the supporters of private property
-who so regularly invoke the _"Tragedy of the Commons"_, they simply show their
+latter may see overuse and destruction the former managed to survive thousands
+of years. So, unfortunately for the supporters of private property who so
+regularly invoke the _"Tragedy of the Commons"_, they simply show their
 ignorance of what true commons are. As socialist Allan Engler points out:
 
 > _"Supporters of capitalism cite what they call the tragedy of the commons to
@@ -150,7 +150,7 @@ on the Misuse of Classic Writings in Economics on the Subject of Common
 Property"_, pp. 221-8, **Ecological Economics**, No. 9, p. 223, p. 221, p. 224
 and p. 226]
 
-Much the same can be said against those who argue that the experience of the
+Much the same can be said against those who argue that the experience of
 Stalinism in the Eastern Block and elsewhere shows that public property leads
 to pollution and destruction of natural resources. Such arguments also show a
 lack of awareness of what common property actually is (it is no co-incidence
@@ -182,7 +182,7 @@ In reality, the _"tragedy of the commons"_ comes about only after wealth and
 private property, backed by the state, starts to eat into and destroy communal
 life. This is well indicated by the fact that commons existed for thousands of
 years and only disappeared after the rise of capitalism -- and the powerful
-central state it requires \-- had eroded communal values and traditions.
+central state it requires -- had eroded communal values and traditions.
 Without the influence of wealth concentrations and the state, people get
 together and come to agreements over how to use communal resources and have
 been doing so for millennia. That was how the commons were successfully
@@ -348,9 +348,9 @@ Other communities would be confederated with this one, and joint activity
 would also be discussed by debate, with a community (like an individual) being
 free **not** to associate if they so desire. Other communities could and would
 object to ecologically and individually destructive practices. The
-interrelationships of both ecosystems and freedom is well known, and its
-doubtful that free individuals would sit back and let some amongst them
-destroy **their** planet.
+interrelationship of ecosystems and freedom is well known, and it is doubtful
+that free individuals would sit back and let some amongst them destroy
+**their** planet.
 
 Therefore, those who use something control it. This means that "users groups"
 would be created to manage resources used by more than one person. For
@@ -455,7 +455,7 @@ left to his [or her] own conscience, and the pressure exercised upon him [or
 her] by the moral sense and distinct interests of his [or her] neighbours."_
 This system of _"usufruct"_ would also apply to the _"instruments of
 production -- land included"_, being _"free to all workers, or groups of
-workers"_ for _"as long as long and capital are unappropriated, the workers
+workers"_ for _"as long as land and capital are unappropriated, the workers
 are free, and that, when these have a master, the workers also are slaves."_
 [**Anarchist Essays**, p. 24 and p. 21] This is because, as with all forms of
 anarchism, communist-anarchism bases itself on the distinction between
@@ -474,11 +474,11 @@ flagrant injustice?"_ [**Conquest of Bread**, p. 90] For the latter: _"The
 land cannot be appropriated"_. Neither denied that individuals could **use**
 the land or other resources, simply that it could not be turned into private
 property. Thus Proudhon: _"Every occupant is, then, necessarily a possessor or
-usufructuary, -- a function that excludes proprietorship."_ [**What is
-Property?**, p. 103 and p. 98] Obviously John Henry MacKay, unlike Kropotkin,
+usufructuary, -- a function that excludes proprietorship."_ [**Property is
+Theft!**, p. 103 and p. 100] Obviously John Henry MacKay, unlike Kropotkin,
 had not read his Proudhon! As Wilson argued:
 
-> _ "Proudhon's famous dictum, 'Property is theft', is the key to the equally
+> _"Proudhon's famous dictum, 'Property is theft', is the key to the equally
 famous enigma . . . 'From each according to his capacities, to each according
 to his needs'. When the workers clearly understand that in taking possession
 of railways and ships, mines and fields, farm buildings and factories, raw
@@ -604,7 +604,7 @@ Let these multiply, and soon the people . . . will have nowhere to rest, no
 place of shelter, no ground to till. They will die of hunger at the
 proprietor's door, on the edge of that property which was their birth-right;
 and the proprietor, watching them die, will exclaim, 'So perish idlers and
-vagrants.'"_ [**Op. Cit.**, p. 118]
+vagrants.'"_ [**Op. Cit.**, p. 111]
 
 Of course, as Proudhon suggested, the non-owner can gain access to the
 property by becoming a servant, by selling their liberty to the owner and
@@ -670,4 +670,9 @@ is in fact its only defence. That is why all anarchists would agree with Emma
 Goldman that _"it is our endeavour to abolish private property, State . . . we
 aim to free men from tyrants and government."_ [**A Documentary History of the
 American Years**, vol. 1, p. 181]
+
+[‹ I.5 What could the social structure of anarchy look like?](/afaq/secI5.html
+"Go to previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.7
+Won't Libertarian Socialism destroy individuality? ›](/afaq/secI7.html "Go to
+next page" )
 

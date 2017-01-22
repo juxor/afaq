@@ -14,9 +14,10 @@ a state in the anarchist sense.
 According to Murray Rothbard [**Society Without A State**, p. 192], a state
 must have one or both of the following characteristics:
 
-1) The ability to tax those who live within it.  
+                    1) The ability to tax those who live within it.
+
 2) It asserts and usually obtains a coerced monopoly of the provision of
-defence over a given area.  
+defence over a given area.
 
 He makes the same point elsewhere. [**The Ethics of Liberty**, p. 171]
 Significantly, he stresses that _"our definition of anarchism"_ is a system
@@ -369,15 +370,16 @@ forces (although, as suggested above, this could indeed be a problem):
 
 > _"There is something more serious than the 'Mafia danger', and this other
 problem concerns the role of such 'defence' institutions in a given social and
-economic context.
+economic context.  
+>  _
 
 >
 
-> "[The] context . . . is one of a free-market economy with no restraints upon
-accumulation of property. Now, we had an American experience, roughly from the
-end of the Civil War to the 1930's, in what were in effect private courts,
-private police, indeed private governments. We had the experience of the
-(private) Pinkerton police which, by its spies, by its **agents
+> _"[The] context . . . is one of a free-market economy with no restraints
+upon accumulation of property. Now, we had an American experience, roughly
+from the end of the Civil War to the 1930's, in what were in effect private
+courts, private police, indeed private governments. We had the experience of
+the (private) Pinkerton police which, by its spies, by its **agents
 provocateurs,** and by methods that included violence and kidnapping, was one
 of the most powerful tools of large corporations and an instrument of
 oppression of working people. We had the experience as well of the police
@@ -761,7 +763,7 @@ those who reject judgements) will go out of business because of the higher
 costs associated with conflict and not arbitration. Yet these higher costs are
 ensured because the firms in question do not co-operate with others. If other
 agencies boycott a firm but co-operate with all the others, then the boycotted
-firm will be at the same disadvantage \-- regardless of whether it is a cartel
+firm will be at the same disadvantage -- regardless of whether it is a cartel
 buster or a renegade. So the "anarcho"-capitalist is trying to have it both
 ways. If the punishment of non-conforming firms cannot occur, then
 "anarcho"-capitalism will turn into a war of all against all or, at the very
@@ -869,13 +871,12 @@ land. The _"general libertarian law code"_ is a monopoly and property owners
 determine the rules that apply on their property. Moreover, if the rules that
 property owners enforce are subject to rules contained in the monopolistic
 _"general libertarian law code"_ (for example, that they cannot ban the sale
-and purchase of certain products \-- such as defence -- on their own
-territory) then "anarcho"-capitalism **definitely** meets the Weberian
-definition of the state (as described by Ayn Rand as an institution _"that
-holds the exclusive power to **enforce** certain rules of conduct in a given
-geographical area"_ [**Capitalism: The Unknown Ideal**, p. 239]) as its "law
-code" overrides the desires of property owners to do what they like on their
-own property.
+and purchase of certain products -- such as defence -- on their own territory)
+then "anarcho"-capitalism **definitely** meets the Weberian definition of the
+state (as described by Ayn Rand as an institution _"that holds the exclusive
+power to **enforce** certain rules of conduct in a given geographical area"_
+[**Capitalism: The Unknown Ideal**, p. 239]) as its "law code" overrides the
+desires of property owners to do what they like on their own property.
 
 Therefore, no matter how you look at it, "anarcho"-capitalism and its
 "defence" market promotes a _"monopoly of ultimate decision making power"_
@@ -930,4 +931,9 @@ anarchist is just a minarchist who'd abolish the state to his own satisfaction
 by calling it something else . . . They don't denounce what the state does,
 they just object to who's doing it."_ [_"The Libertarian As Conservative"_,
 **The Abolition of Work and Other Essays**, p. 144]
+
+[‹ F.5 Will privatising "the commons" increase liberty?](/afaq/secF5.html "Go
+to previous page" ) [up](/afaq/secFcon.html "Go to parent page" ) [F.7 How
+does the history of "anarcho"-capitalism show that it is not anarchist?
+›](/afaq/secF7.html "Go to next page" )
 

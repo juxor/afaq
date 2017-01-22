@@ -124,11 +124,12 @@ power:
 victims of pollution as to the owner of the factory. Yet it is not unlikely
 that the owner's resources will far exceed those of his victims. Given this
 disparity, it is not at all clear that persons who suffer the costs of
-pollution will be able to bear the price of relief.
+pollution will be able to bear the price of relief.  
+>  _
 
 >
 
-> "Rothbard's proposal ignores a critical variable: power. This is not
+> _"Rothbard's proposal ignores a critical variable: power. This is not
 surprising. Libertarians [sic!] are inclined to view 'power' and 'market' as
 antithetical terms . . . In Rothbard's discussion, the factor owner has no
 power over those who live near the factory. If we define power as comparative
@@ -396,7 +397,7 @@ liability."_ [**Op. Cit.**, p. 76 and p. 75]
 This ignores the fact that externalities are imposed on others in order to
 maximise the profits of the corporation. The stockholders directly benefit
 from the "tortious behaviour" of their wage slaves. For example, if a manager
-decides to save 1,000,000 by letting toxic waste damage to occur to then the
+decides to save £1,000,000 by letting toxic waste damage to occur to then the
 owners benefit by a higher return on their investment. To state that is the
 manager who must pay for any damage means that the owners of a corporation or
 business are absolved for any responsibility for the actions of those hired to
@@ -526,7 +527,7 @@ becomes property in Rothbard's theory. And, of course, fencing in areas of
 rainforest disrupts the local eco-system -- animals cannot freely travel, for
 example -- which, again, is what ecologists desire to stop. Would Rothbard
 have accepted a piece of paper as "transforming" land? We doubt it (after all,
-in his example the wilderness owner **did** legally own it) \-- and so most
+in his example the wilderness owner **did** legally own it) -- and so most
 ecologists will have a hard time in pure capitalism (wilderness is just not an
 option).
 
@@ -653,7 +654,7 @@ As an aside, we must note that Rothbard fails to realise -- and this comes
 from his worship of capitalism and his "Austrian economics" -- is that people
 value many things which do not, indeed cannot, appear on the market. He claims
 that wilderness is _"valueless unused natural objects"_ for it people valued
-them, they would use -- i.e. transform \-- them. But unused things may be of
+them, they would use -- i.e. transform -- them. But unused things may be of
 **considerable** value to people, wilderness being a classic example. And if
 something **cannot** be transformed into private property, does that mean
 people do not value it? For example, people value community, stress-free
@@ -775,7 +776,7 @@ consistent Lockean as his work is _"riddled with contradictions and
 inconsistencies"_ and have been _"expanded and purified"_ by his followers.
 [**The Ethics of Liberty**, p. 22]).
 
-Rothbard is aware of what is involved in accepting the Lockean Proviso \--
+Rothbard is aware of what is involved in accepting the Lockean Proviso --
 namely the existence of private property (_"Locke's proviso may lead to the
 outlawry of **all** private property of land, since one can always say that
 the reduction of available land leaves everyone else . . . worse off"_ [**Op.
@@ -812,14 +813,15 @@ appropriation. Likewise the land is indispensable to our existence, --
 consequently a common thing, consequently unsusceptible of appropriation; but
 land is much scarcer than the other elements, therefore its use must be
 regulated, not for the profit of a few, but in the interest and for the
-security of all.
+security of all.  
+>  _
 
 >
 
-> "In a word, equality of rights is proved by equality of needs. Now, equality
-of rights, in the case of a commodity which is limited in amount, can be
-realised only by equality of possession . . . From whatever point we view this
-question of property -- provided we go to the bottom of it -- we reach
+> _"In a word, equality of rights is proved by equality of needs. Now,
+equality of rights, in the case of a commodity which is limited in amount, can
+be realised only by equality of possession . . . From whatever point we view
+this question of property -- provided we go to the bottom of it -- we reach
 equality."_ [**Op. Cit.**, p. 107]
 
 To conclude, it would be unfair to simply quote Keynes evaluation of one work
@@ -833,4 +835,9 @@ perspective on this issue should not come as a surprise any more than its
 incoherence. As we discuss in [section F](secFcon.html), Rothbard's claims to
 being an "anarchist" are as baseless as his claim that capitalism will protect
 the environment.
+
+[‹ E.3 Can private property rights protect the environment?](/afaq/secE3.html
+"Go to previous page" ) [up](/afaq/secEcon.html "Go to parent page" ) [E.5 Can
+ethical consumerism stop the ecological crisis? ›](/afaq/secE5.html "Go to
+next page" )
 

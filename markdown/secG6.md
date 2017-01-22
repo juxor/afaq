@@ -25,7 +25,7 @@ acceptance of many of the principles of anarcho-syndicalism and anarcho-
 communism with a strong emphasis on individuality and personal uniqueness. The
 inspiration for this latter part of her outlook comes from thinkers like . . .
 Stirner. Herbert Read has commented on the value of Stirner's defence of
-individuality."_ [**Max Stirner's Egoism**, p. 90] Daniel Gurin's classic
+individuality."_ [**Max Stirner's Egoism**, p. 90] Daniel Guérin's classic
 introduction to anarchism gives significant space to the German egoist,
 arguing he _"rehabilitated the individual at a time when the philosophical
 field was dominated by Hegelian anti-individualism and most reformers in the
@@ -41,7 +41,7 @@ egoism"_ based on the awareness that greed _"in its fullest sense is the
 **only possible** basis of communist society."_
 
 It is not hard to see why so many people are influenced by Stirner's work. It
-is a classic, full of ideas and a sense of fun which is lacking in many
+is a classic, full of ideas and a sense of fun that is lacking in many
 political writers. For many, it is only known through the criticism Marx and
 Engels subjected it too in their book **The German Ideology**. As with their
 later attacks on Proudhon and Bakunin, the two Germans did not accurately
@@ -71,7 +71,7 @@ that authority figure would approve of. True egoism is not parroting what
 Stirner wrote and agreeing with everything he expounded. Nothing could be more
 foreign to Stirner's work than to invent "Stirnerism." As Donald Rooum put it:
 
-> _ "I am happy to be called a Stirnerite anarchist, provided 'Stirnerite'
+> _"I am happy to be called a Stirnerite anarchist, provided 'Stirnerite'
 means one who agrees with Stirner's general drift, not one who agrees with
 Stirner's every word. Please judge my arguments on their merits, not on the
 merits of Stirner's arguments, and not by the test of whether I conform to
@@ -137,14 +137,14 @@ Stirner is also aware that _"[i]t need not make any difference to the 'good
 citizens' who protects them and their principles, whether an absolute King or
 a constitutional one, a republic, if only they are protected. And what is
 their principle, whose protector they always 'love'? Not that of labour"_,
-rather it is _"**interesting-bearing possession** . . . **labouring capital**,
+rather it is _"**interest-bearing possession** . . . **labouring capital**,
 therefore . . . labour certainly, yet little or none at all of one's own, but
 labour of capital and of the -- subject labourers."_ [p. 251, p. 114, p. 113
 and p. 114]
 
 As can be seen from capitalist support for fascism, Stirner was correct -- as
 long as a regime supports capitalist interests, the 'good citizens' (including
-many on the so-called "libertarian" right)) will support it. Stirner sees that
+many on the so-called "libertarian" right) will support it. Stirner sees that
 not only does private property require state protection, it also leads to
 exploitation and oppression. As noted in [section D.10](secD10.html), like
 subsequent anarchists like Kropotkin, Stirner attacked the division of labour
@@ -165,21 +165,19 @@ by this other."_ [p. 121]
 Stirner had nothing but contempt for those who defended property in terms of
 "natural rights" and opposed theft and taxation with a passion because it
 violates said rights. _"Rightful, or legitimate property of another,"_ he
-stated, _"will by only that which **you** are content to recognise as such. If
+stated, _"will be only that which **you** are content to recognise as such. If
 your content ceases, then this property has lost legitimacy for you, and you
 will laugh at absolute right to it."_ After all, _"what well-founded objection
 could be made against theft"_ [p. 278 and p. 251] He was well aware that
 inequality was only possible as long as the masses were convinced of the
-sacredness of property. In this way, the majority end up without property:
+sacredness of property. In this way, the majority ends up without property:
 
-> _ "Property in the civic sense means **sacred** property, such that I must
+> _"Property in the civic sense means **sacred** property, such that I must
 **respect** your property . . . Be it ever so little, if one only has somewhat
 of his own - to wit, a **respected** property: The more such owners . . . the
-more 'free people and good patriots' has the State.
+more 'free people and good patriots' has the State. _
 
->
-
-> "Political liberalism, like everything religious, counts on **respect**,
+> _"Political liberalism, like everything religious, counts on **respect**,
 humaneness, the virtues of love . . . For in practice people respect nothing,
 and everyday the small possessions are bought up again by greater proprietors,
 and the 'free people' change into day labourers."_ [p. 248]
@@ -215,14 +213,14 @@ men as soon as they no longer respect the master as master."_ And in order for
 labour to become free, all must have _"property."_ _"The poor become free and
 proprietors only when they **rise.**"_ Thus, _"[i]f we want no longer to leave
 the land to the landed proprietors, but to appropriate it to ourselves, we
-unite ourselves to this end, form a union, a **socit**, that makes **itself**
-proprietor . . . we can drive them out of many another property yet, in order
-to make it **our** property, the property of the -- **conquerors**."_ Thus
-property _"deserves the attacks of the Communists and Proudhon: it is
-untenable, because the civic proprietor is in truth nothing but a propertyless
-man, one who is everywhere **shut out**. Instead of owning the world, as he
-might, he does not own even the paltry point on which he turns around."_ [p.
-258, p. 260, p. 249 and pp. 248-9]
+unite ourselves to this end, form a union, a **société**, that makes
+**itself** proprietor . . . we can drive them out of many another property
+yet, in order to make it **our** property, the property of the --
+**conquerors**."_ Thus property _"deserves the attacks of the Communists and
+Proudhon: it is untenable, because the civic proprietor is in truth nothing
+but a propertyless man, one who is everywhere **shut out**. Instead of owning
+the world, as he might, he does not own even the paltry point on which he
+turns around."_ [p. 258, p. 260, p. 249 and pp. 248-9]
 
 Stirner recognises the importance of self-liberation and the way that
 authority often exists purely through its acceptance by the governed. As he
@@ -237,7 +235,7 @@ by thoughts."_ [p. 72 and p. 74] That is, by our own willingness to not
 question authority and the sources of that authority, such as private property
 and the state:
 
-> _ "Proudhon calls property 'robbery' (**le vol**) But alien property -- and
+> _"Proudhon calls property 'robbery' (**le vol**) But alien property -- and
 he is talking of this alone -- is not less existent by renunciation, cession,
 and humility; it is a **present**. Who so sentimentally call for compassion as
 a poor victim of robbery, when one is just a foolish, cowardly giver of
@@ -311,7 +309,7 @@ urges an universal egoism rather than one limited to just a few. In other
 words, he would wish those subjected to fascistic domination to reject such
 spooks and to unite and rise against those oppressing them:
 
-> _ "Well, who says that every one can do everything? What are you there for,
+> _"Well, who says that every one can do everything? What are you there for,
 pray, you who do not need to put up with everything? Defend yourself, and no
 one will do anything to you! He who would break your will has to do with you,
 and is your **enemy**. Deal with him as such. If there stand behind you for
@@ -332,7 +330,7 @@ of egoists,"_ his proposed alternative mode of organising society. Stirner
 believed that as more and more people become egoists, conflict in society will
 decrease as each individual recognises the uniqueness of others, thus ensuring
 a suitable environment within which they can co-operate (or find _"truces"_ in
-the _"war of all against all"_). These _"truces"_ Stirner termed _**"Unions of
+the _"war of all against all"_). These _"truces"_ Stirner termed **_"Unions of
 Egoists."_** They are the means by which egoists could, firstly,
 _"annihilate"_ the state, and secondly, destroy its creature, private
 property, since they would _"multiply the individual's means and secure his
@@ -372,14 +370,12 @@ to assume that some of the egoists involved will stop being egoists and will
 allow themselves to be dominated by another, which is unlikely. As Stirner
 himself argued:
 
-> _ "But is an association, wherein most members allow themselves to be lulled
+> _"But is an association, wherein most members allow themselves to be lulled
 as regards their most natural and most obvious interests, actually an Egoist's
 association? Can they really be 'Egoists' who have banded together when one is
-a slave or a serf of the other?. . .
+a slave or a serf of the other?. . . _
 
->
-
-> "Societies wherein the needs of some are satisfied at the expense of the
+> _"Societies wherein the needs of some are satisfied at the expense of the
 rest, where, say, some may satisfy their need for rest thanks to the fact that
 the rest must work to the point of exhaustion, and can lead a life of ease
 because others live in misery and perish of hunger, or indeed who live a life
@@ -401,7 +397,7 @@ themselves from both state and capitalist oppression. Sounding like an
 anarcho-syndicalist, Stirner recognised the potential for strike action as a
 means of self-liberation:
 
-> _ "The labourers have the most enormous power in their hands, and, if they
+> _"The labourers have the most enormous power in their hands, and, if they
 once become thoroughly conscious of it and used it, nothing could withstand
 them; they would only have to stop labour, regard the product of labour as
 theirs, and enjoy it. This is the sense of the labour disturbances which show
@@ -418,7 +414,7 @@ points to a **libertarian** form of organisation within these "unions" (i.e.
 one based on equality and participation), **not** a hierarchical one. If you
 have no say in how a group functions (as in wage slavery, where workers have
 the "option" of "love it or leave it") then you can hardly be said to own it,
-can you? Indeed, Stirner argues, for _ "[o]nly in the union can you assert
+can you? Indeed, Stirner argues, for _"[o]nly in the union can you assert
 yourself as unique, because the union does not possess you, but you possess it
 or make it of use to you."_ [p. 312]
 
@@ -526,4 +522,9 @@ world, and places subjectivity at the centre of any revolutionary project,
 where it belongs. Finally, he reminds us that a free society must exist in the
 interests of all, and must be based upon the self-fulfilment, liberation and
 enjoyment of the individual.
+
+[‹ G.5 Benjamin Tucker: Capitalist or Anarchist?](/afaq/secG5.html "Go to
+previous page" ) [up](/afaq/secGcon.html "Go to parent page" ) [G.7 Lysander
+Spooner: right-"libertarian" or libertarian socialist? ›](/afaq/secG7.html "Go
+to next page" )
 

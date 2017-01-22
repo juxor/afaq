@@ -1,5 +1,3 @@
-![](flag2.gif)
-
 # Introduction
 
 _"Proletarians of the world, look into the depths of your own beings, seek out
@@ -164,12 +162,13 @@ Chuck Munson
 Pauline McCormack  
 Nestor McNab  
 Kevin Carson  
-Shawn Wilber
+Shawn Wilbur  
+Nicholas Evans
 
 and our comrades on the anarchy, oneunion and organise! mailing lists.
 
-**_"An Anarchist FAQ"_**, **Version 14.0**   
-Copyright (C) 1995-2010 The Anarchist FAQ Editorial Collective:  
+**_"An Anarchist FAQ"_**, **Version 1****5.0**  
+Copyright (C) 1995-2014 The Anarchist FAQ Editorial Collective:  
 Iain McKay, Gary Elkin, Dave Neal, Ed Boraas
 
 Permission is granted to copy, distribute and/or modify this document under
@@ -179,4 +178,14 @@ General Public License, Version 2.0 or any later version published by the Free
 Software Foundation.
 
 See the Licenses page at <http://www.gnu.org/> for more details.
+
+  * [An Anarchist FAQ after ten years](/afaq/10years.html)
+  * [An Anarchist FAQ: Introduction to Volume 1](/afaq/vol1intro.html)
+  * [An Anarchist FAQ: Introduction to Volume 2](/afaq/vol2intro.html)
+  * [What Anarchists Say about An Anarchist FAQ](/afaq/quotes.html)
+  * [An Anarchist FAQ Webpage Contacts](/afaq/contact.html)
+
+[‹ What's New in the FAQ?](/afaq/new.html "Go to previous page" )
+[up](/afaq/index.html "Go to parent page" ) [An Anarchist FAQ after ten years
+›](/afaq/10years.html "Go to next page" )
 
