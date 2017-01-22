@@ -128,8 +128,8 @@ _"called these insurance companies 'governments' even though they did not have
 a monopoly within a given geographical area."_ As Hart notes, Molinari was the
 sole defender of such free-market justice at the time in France. [David M.
 Hart, _"Gustave de Molinari and the Anti-statist Liberal Tradition: Part II"_,
-pp. 399-434,**Journal of Libertarian Studies**, vol. V, no. 4, p. 415 and p.
-411] Molinari was clear that he wanted _"a regime of free government,"_
+pp. 399-434,Journal of Libertarian Studies, vol. V, no. 4, p. 415 and p. 411]
+Molinari was clear that he wanted _"a regime of free government,"_
 counterpoising _"monopolist or communist governments"_ to _"free
 governments."_ This would lead to _"freedom of government"_ rather than its
 abolition (not freedom **from** government). For Molinarie the future would
@@ -305,15 +305,15 @@ focus of counter-revolution next to the Jesuits"_ and _"has for ten years past
 seemed to exist only to protect and applaud the execrable work of the
 monopolists of money and necessities, deepening more and more the obscurity of
 a science naturally difficult and full of complications."_ Much the same can
-be said of "anarcho"- capitalists, incidentally. For Proudhon, _"the disciples
-of Malthus and of Say, who oppose with all their might any intervention of the
-State in matters commercial or industrial, do not fail to avail themselves of
-this seemingly liberal attitude, and to show themselves more revolutionary
-than the Revolution. More than one honest searcher has been deceived
-thereby."_ However, this apparent "anti-statist" attitude of supporters of
-capitalism is false as pure free market capitalism cannot solve the social
-question, which arises because of capitalism itself. As such, it was
-impossible to abolish the state under capitalism. Thus _"this inaction of
+be said of "anarcho"\- capitalists, incidentally. For Proudhon, _"the
+disciples of Malthus and of Say, who oppose with all their might any
+intervention of the State in matters commercial or industrial, do not fail to
+avail themselves of this seemingly liberal attitude, and to show themselves
+more revolutionary than the Revolution. More than one honest searcher has been
+deceived thereby."_ However, this apparent "anti-statist" attitude of
+supporters of capitalism is false as pure free market capitalism cannot solve
+the social question, which arises because of capitalism itself. As such, it
+was impossible to abolish the state under capitalism. Thus _"this inaction of
 Power in economic matters was the foundation of government. What need should
 we have of a political organisation, if Power once permitted us to enjoy
 economic order?"_ Instead of capitalism, Proudhon advocated the _"constitution

@@ -1,15 +1,15 @@
 # _An Anarchist FAQ Webpage_
 
-### Version 14.0
+### Version 15.0
 
-![](flag2.gif)
+![](flag2.svg)
 
 * * *
 
 This web page holds an anarchist FAQ. Its aim is to present what anarchism
 really stands for and indicate why you should become an anarchist.
 
-#  [Volume 1](book.html) of _**An Anarchist FAQ**_ has been published!
+#  [Volumes 1 and 2](book.html) of _**An Anarchist FAQ**_ have been published!
 
 ### [What Anarchists Say about _An Anarchist FAQ_](quotes.html)
 
@@ -19,16 +19,19 @@ really stands for and indicate why you should become an anarchist.
 
 **_An Anarchist FAQ_** can be accessed using these easy to remember urls: 
 
-[www.anarchistfaq.org](http://www.anarchistfaq.org/) |
-[www.anarchismfaq.org](http://www.anarchismfaq.org/) |
+[www.anarchistfaq.org](http://www.anarchistfaq.org/)
 
+|
+
+[www.anarchismfaq.org](http://www.anarchismfaq.org/)  
+  
+---|---  
+  
 [www.anarchyfaq.org](http://www.anarchyfaq.org/)
 
 |
 
 [www.anarchistfaq.org.uk](http://www.anarchistfaq.org.uk/)  
-  
----|---  
   
 * * *
 
@@ -38,7 +41,7 @@ really stands for and indicate why you should become an anarchist.
 
 # An Anarchist FAQ
 
-**Version 14.0** \-- 08-MAR-2010 
+**Version 15.0** \-- 18-MAR-2014 
 
 ###
 
@@ -85,9 +88,8 @@ is also available for [download in pdf format](pdf.html).
 
 * * *
 
-[![](flag.gif)](links.html)  
-Click on the flag for links to other anarchist web-pages  
-Links last updated on 11-NOV-2006  
+[![](flag.svg)](links.html)  
+Click on the flag for links to other anarchist web-pages
 
 * * *
 

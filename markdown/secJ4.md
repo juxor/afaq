@@ -15,16 +15,16 @@ anarchists for they lead to the reduction of government. In practice such a
 conclusion is deeply suspect simply because these developments are being
 pursued to increase the power and influence of capital as well as to increase
 wage-labour to, and exploitation by, the economic master class and to
-undermine working class power and autonomy. As such, there are as anti-
+undermine working class power and autonomy. As such, they are as anti-
 libertarian as the status quo (as Proudhon stressed, anarchism is _"the denial
-of Government and of Property."_ [**General Idea of the Revolution**, p.
-100]). Similarly, increases in self-employment can be seen, in the abstract,
-as reducing wage slavery. However, if, in practice, this increase is due to
-corporations encouraging "independent" contractors in order to cut wages and
-worsen working conditions, increase job insecurity and undermine paying for
-health and other employee packages then it is hardly a positive sign.
-Obviously increases in self-employment would be different if it were the
-result of an increase in the number of co-operatives, for example.
+of Government and of Property."_ [**Property is Theft!**, p. 559]). Similarly,
+increases in self-employment can be seen, in the abstract, as reducing wage
+slavery. However, if, in practice, this increase is due to corporations
+encouraging "independent" contractors in order to cut wages and worsen working
+conditions, increase job insecurity and undermine paying for health and other
+employee packages then it is hardly a positive sign. Obviously increases in
+self-employment would be different if it were the result of an increase in the
+number of co-operatives, for example.
 
 Thus few anarchists celebrate many apparently "libertarian" developments as
 they are not the product of social movements and activism, but are the product
@@ -45,7 +45,7 @@ credit, co-operatives, modern schools and so on) and so will not do so here.
 However, it is important to stress here that such "traditional" openings are
 not being downplayed -- indeed, much of what we discuss here can only become
 fully libertarian in combination with these more "traditional" forms of
-_**"anarchy in action."_**
+**_"anarchy in action."_**
 
 For a lengthy discussion of anarchistic trends in society, we recommend Colin
 Ward's classic book **Anarchy in Action**. Ward covers many areas in which
@@ -71,7 +71,7 @@ are considering their own interests, thinking for themselves and saying "no"
 and this, by its very nature, is an important, indeed, the most important,
 tendency towards anarchism. It suggests that people are rejecting the old
 ideas which hold the system up, acting upon this rejection and creating new
-ways of doing thinks.
+ways of doing things.
 
 _"Our social institutions,"_ argued Alexander Berkman, _"are founded on
 certain ideas; as long as the latter are generally believed, the institutions
@@ -119,7 +119,7 @@ struggle, such as a strike, occupation, boycott, and so on, the ordinary life
 of people, in which they act under the constant direction of the bosses or
 state, ceases, and they have to think, act and co-ordinate their actions for
 themselves. This reinforces the expression towards autonomy that the initial
-refusal that lead to the struggle indicates. Secondly, in the process of
+refusal that led to the struggle indicates. Secondly, in the process of
 struggle those involved learn the importance of solidarity, of working with
 others in a similar situation, in order to win. This means the building of
 links of support, of common interests, of organisation. The practical need for
@@ -130,11 +130,11 @@ Therefore the real issue in social struggle is that it is an attempt by people
 to wrestle at least part of the power over their own lives away from the
 managers, state officials and so on who currently have it and exercise it
 themselves. This is, by its very nature, anarchistic and libertarian. Thus we
-find politicians and, of course, managers and property owners, often
-denouncing strikes and other forms of direct action. This is logical. As
-direct action challenges the real power-holders in society and because, if
-carried to its logical conclusion, it would remove them, social struggle and
-direct action can be considered in essence a revolutionary process.
+find politicians, managers and property owners denouncing strikes and other
+forms of direct action. This is logical. As direct action challenges the real
+power-holders in society and because, if carried to its logical conclusion, it
+would remove them, social struggle and direct action can be considered in
+essence a revolutionary process.
 
 Moreover, the very act of using direct action suggests a transformation within
 the people using it. _"Direct action's very powers to fertilise,"_ argued
@@ -274,7 +274,7 @@ and being little more than apologetics for an evil social system that treated
 human beings as things. The same can be said for the argument that social
 struggles within capitalism do more harm than good. It betrays a slave
 mentality unfitting for human beings (although fitting for those who desire to
-live of the backs of workers or desire to serve those who do).
+live off the backs of workers or desire to serve those who do).
 
 Moreover, this kind of argument ignores a few key points.
 
@@ -292,7 +292,7 @@ union rights and so on).
 
 So social struggle has been proven time and time again to gain successful
 reforms. For example, before the 8 hour day movement of 1886 in America most
-companies argued they could not introduce that reform without doing bust.
+companies argued they could not introduce that reform without going bust.
 However, after displaying a militant mood and conducting an extensive strike
 campaign, hundreds of thousands of workers discovered that their bosses had
 been lying and they got shorter hours. Indeed, the history of the labour
@@ -327,8 +327,8 @@ society) created. The transforming and empowering effect of social struggle is
 expressed well by the Nick DiGaetano, a one-time Wobbly who had joined during
 the 1912 Lawrence strike and then became a UAW-CIO shop floor militant:
 
-> _ "the workers of my generation from the early days up to now [1958] had
-what you might call a labour insurrection in changing from a plain, humble,
+> _"the workers of my generation from the early days up to now [1958] had what
+you might call a labour insurrection in changing from a plain, humble,
 submissive creature into a man. The union made a man out of him . . . I am not
 talking about the benefits . . . I am talking about the working conditions and
 how they affected the men in the plant . . . Before they were submissive.
@@ -522,7 +522,7 @@ carry hidden costs that offset some of the gains in money."_ This stagnation
 is, of course, being denied by the right. Yet, as Krugman memorably puts it:
 _"Modern economists debate whether American median income has risen or fallen
 since the early 1970s. What's really telling is the fact that we're even
-having this debate."_ So while the average values may have went up, because of
+having this debate."_ So while the average values may have gone up, because of
 _"rising inequality, good performance in overall numbers like GDP hasn't
 translated into gains for ordinary workers."_ [**Op. Cit.**, p. 55, pp. 126-7,
 p. 124 and p. 201]
@@ -532,7 +532,7 @@ believe they are either in the wealthiest 1% or will be there _"soon"_! [Glyn,
 **Op. Cit.**, p. 179] In fact, as we discussed in [section
 B.7.2](secB7.html#sec72), social mobility has **fallen** under neo-liberalism
 -- perhaps unsurprisingly as it is easier to climb a hill than a mountain.
-This is just as important as the explosion in inequality as the free-market
+This is just as important as the explosion in inequality as the "free-market"
 right argue that dynamic social mobility makes up for wealth and income
 inequality. As Krugman notes, Americans _"may believe that anyone can succeed
 through hard work and determination, but the facts say otherwise."_ In
@@ -628,7 +628,7 @@ to forestall union organisers, tend to echo this effect."_ He argues that _"if
 there's a single reason blue-collar workers did so much better in the fifties
 than they had in the twenties, it was the rise of unions"_ and that unions
 _"were once an important factor limiting income inequality, both because of
-their direct effect in raising their members wages and because the union
+their direct effect in raising their members' wages and because the union
 pattern of wage settlements . . . was . . . reflected in the labour market as
 a whole."_ With the smashing of the unions came rising inequality, with the
 _"sharpest increases in wage inequality in the Western world have taken place
@@ -660,18 +660,18 @@ capitalism.
 Of course, no one can **know** that struggle will make things better. It is a
 guess; no one can predict the future. Not all struggles are successful and
 many can be very difficult. If the _"military is a role model for the business
-world"_ (in the words of an ex-CEO of Hill & Knowlton Public Relations), and
-it is, then **any** struggle against it and other concentrations of power may,
-and often is, difficult and dangerous at times. [quoted by John Stauber and
-Sheldon Rampton in **Toxic Sludge Is Good For You!**, p. 47] But, as Zapata
-once said, _"better to die on your feet than live on your knees!"_ All we can
-say is that social struggle can and does improve things and, in terms of its
-successes and transforming effect on those involved, well worth the potential
-difficulties it can create. Moreover, without struggle there is little chance
-of creating a free society, dependent as it is on individuals who refuse to
-bow to authority and have the ability and desire to govern themselves. In
-addition, social struggle is always essential, not only to **win**
-improvements, but to **keep** them as well. In order to fully secure
+world"_ (in the words of an ex-CEO of Hill &amp; Knowlton Public Relations),
+and it is, then **any** struggle against it and other concentrations of power
+may, and often is, difficult and dangerous at times. [quoted by John Stauber
+and Sheldon Rampton in **Toxic Sludge Is Good For You!**, p. 47] But, as
+Zapata once said, _"better to die on your feet than live on your knees!"_ All
+we can say is that social struggle can and does improve things and, in terms
+of its successes and transforming effect on those involved, well worth the
+potential difficulties it can create. Moreover, without struggle there is
+little chance of creating a free society, dependent as it is on individuals
+who refuse to bow to authority and have the ability and desire to govern
+themselves. In addition, social struggle is always essential, not only to
+**win** improvements, but to **keep** them as well. In order to fully secure
 improvements you have to abolish capitalism and the state. Not to do so means
 that any reforms can and will be taken away (and if social struggle does not
 exist, they will be taken away sooner rather than later). Ultimately, most
@@ -724,7 +724,7 @@ by Ruth Kinna, _"Fields of Vision: Kropotkin and Revolutionary Change"_, pp.
 And, needless to say, while three decades of successful capitalist class war
 goes without mention in polite circles, documenting its results gets you
 denounced as advocating "class war"! It is more than pass the time when
-working class people should make that a reality -- particularly given the
+working class people _should_ wage a class war -- particularly given the
 results of not doing so.
 
 ## J.4.3 Are the new social movements a positive development for anarchists?
@@ -779,7 +779,7 @@ the decisions that affect them. Hence decentralisation implies self-
 management. So, anarchists argue, the peace movement implies anarchism because
 world peace is impossible without both decentralisation and direct democracy
 (_"a federated people would be a people organised for peace; what would they
-do with armies?"_ [Proudhon, **Du Principe Fdratif**, pp. 320-1]). As Benello
+do with armies?"_ [Proudhon, **Property is Theft!**, p. 719]). As Benello
 correctly argued, the _"anarchist perspective has an unparalleled relevance
 today because prevailing nuclear policies can be considered as an ultimate
 stage in the divergence between the interests of governments and their peoples
@@ -829,18 +829,18 @@ The social justice movement is composed of people seeking fair and
 compassionate solutions to problems such as poverty, unemployment, economic
 exploitation, discrimination, poor housing, lack of health insurance, wealth
 and income inequalities, and the like. In the aftermath of decades of
-especially single-minded pursuit of this priority by neo-liberal
-administrations, the United States, for example, is reaping the grim harvest:
-wages stagnate, personal debt soars, homelessness stalks the streets; social
-welfare budgets are slashed to the bone while poverty, unemployment, and
-underemployment grow; sweatshops mushrooming in the large cities; millions of
-Americans without any health insurance while others face rocketing costs;
-obscene wealth inequalities and falling social mobility; and so on. Britain
-under the neo-liberal policies of Thatcher, Major and Blair experienced a
-social deterioration similar to that in the US.
+especially single-minded pursuit of enriching the few by impoverishing the
+many by neo-liberal administrations, the United States, for example, is
+reaping the grim harvest: wages stagnate, personal debt soars, homelessness
+stalks the streets; social welfare budgets are slashed to the bone while
+poverty, unemployment, and underemployment grow; sweatshops mushrooming in the
+large cities; millions of Americans without any health insurance while others
+face rocketing costs; obscene wealth inequalities and falling social mobility;
+and so on. Britain under the neo-liberal policies of Thatcher, Major and Blair
+experienced a social deterioration similar to that in the US.
 
 It is not difficult to show that the major problems concerning the social
-justice movement can all be traced back to the hierarchy and domination. For,
+justice movement can all be traced back to hierarchy and domination. For,
 given the purpose of hierarchy, the highest priority of the elites who control
 the state is necessarily to maintain their own power and privileges,
 regardless of the suffering involved for subordinate classes.
@@ -883,7 +883,7 @@ extreme poverty makes military service one of the few legal options open for
 many individuals to improve their social situation. These considerations
 illustrate further links between the peace and social justice movements -- and
 between those movements and anarchism, which is the conceptual "glue" that can
-potentially unite all the new social movement in a single anti-authoritarian
+potentially unite all the new social movements in a single anti-authoritarian
 coalition.
 
 ## J.4.4 What is the _"economic structural crisis"_?
@@ -899,8 +899,8 @@ major industrialised countries have risen sharply since 1973, especially after
 cent of the labour force) and by another 50 per cent since then (from 5.3 per
 cent of the labour force in 1980 to 8.0 per cent in 1994)."_ Job insecurity
 has increased with, for example, the USA, having the worse job insecurity
-since the depression of the 1930s. [Takis Fotopoulos, **Towards and Inclusive
-Democracy**, p. 35 and p. 141] In addition, the world economy have become far
+since the depression of the 1930s. [Takis Fotopoulos, **Towards an Inclusive
+Democracy**, p. 35 and p. 141] In addition, the world economy has become far
 less stable with regular financial crises sweeping the world of de-regulated
 capitalism every few years or so.
 
@@ -921,15 +921,15 @@ has performed steadily less well. The 1970s were worse than the 1960s, the
 [_"The Economics of Global Turbulence"_, **New Left Review**, no. 229, p. 236]
 This is ironic because during the crisis of Keynesianism in the 1970s the
 right argued that too much equality and democracy harmed the economy, and so
-us all worse-of in the long run (due to lower growth, sluggish investment and
-so on). However, after decades of pro-capitalist governments, rising
-inequality, increased freedom for capital and its owners and managers, the
-weakening of trade unions and so on, economic growth has become worse!
+made us all worse-off in the long run (due to lower growth, sluggish
+investment and so on). However, after decades of pro-capitalist governments,
+rising inequality, increased freedom for capital and its owners and managers,
+the weakening of trade unions and so on, economic growth has become worse!
 
 If we look at the USA in the 1990s (usually presented as an economy that "got
 it right") we find that the _"cyclical upturn of the 1990s has, in terms of
 the main macro-economic indicators of growth -- output, investment,
-productivity, and real compensation \-- has been even less dynamic than its
+productivity, and real compensation -- has been even less dynamic than its
 relatively weak predecessors of the 1980s and the 1970s (not to mention those
 of the 1950s and 1960s)."_ [Brenner, **Op. Cit.**, p. 5] Of course, the
 economy is presented as a success -- inequality is growing, the rich are
@@ -938,7 +938,7 @@ for the rich and finance capital, it can be considered a "Golden Age" and so
 is presented as such by the media. As economist Paul Krugman summarises, in
 America while the bulk of the population are working longer and harder to make
 ends meet _"the really big gains went to the really, really rich."_ In fact,
-_only the top 1 percent has done better since the 1970s than it did in the
+_"only the top 1 percent has done better since the 1970s than it did in the
 generation after World War II. Once you get way up the scale, however, the
 gains have been spectacular -- the top tenth of a percent saw its income rise
 fivefold, and the top .01 percent of American is seven times richer than they
@@ -986,7 +986,7 @@ Memory Hole the awkward fact that until the crisis they themselves had taken
 great pains to deny that such a model existed! Such hypocrisy is not only
 truly sickening, it also undermines their own case for the wonders of "the
 market." For until the crisis appeared, the world's investors -- which is to
-say "the market" -- saw nothing but golden opportunities ahead for these
+say "the market" \-- saw nothing but golden opportunities ahead for these
 "free" economies. They showed their faith by shoving billions into Asian
 equity markets, while foreign banks contentedly handed out billions in loans.
 If Asia's problems were systemic and the result of these countries' statist
@@ -1009,17 +1009,16 @@ economic distress reach the elite.
 Crisis (particularly financial crisis) has become increasingly visible,
 reflecting the underlying weakness of the global economy (rising inequality,
 lack of investment in producing real goods in favour of speculation in
-finance, etc.). This underlying weakness has been hidden by the speculator
-performance of the world's stock markets, which, ironically enough, has helped
-create that weakness to begin with! As one expert on Wall Street argues,
-_"Bond markets . . . hate economic strength . . . Stocks generally behave
-badly just as the real economy is at its strongest . . . Stocks thrive on a
-cool economy, and wither in a hot one."_ In other words, real economic
-weakness is reflected in financial strength. Unsurprisingly, then, _"[w]hat
-might be called the rentier share of the corporate surplus -- dividends plus
-interest as a percentage of pre-tax profits and interest -- has risen sharply,
-from 20-30% in the 1950s to 60% in the 1990s."_ [Doug Henwood, **Wall
-Street**, p. 124 and p. 73]
+finance, etc.). This underlying weakness has been hidden by large rises in the
+world's stock markets, which, ironically enough, has helped create that
+weakness to begin with! As one expert on Wall Street argues, _"Bond markets .
+. . hate economic strength . . . Stocks generally behave badly just as the
+real economy is at its strongest . . . Stocks thrive on a cool economy, and
+wither in a hot one."_ In other words, real economic weakness is reflected in
+financial strength. Unsurprisingly, then, _"[w]hat might be called the rentier
+share of the corporate surplus -- dividends plus interest as a percentage of
+pre-tax profits and interest -- has risen sharply, from 20-30% in the 1950s to
+60% in the 1990s."_ [Doug Henwood, **Wall Street**, p. 124 and p. 73]
 
 This helps explain the stagnation which has afflicted the economies of the
 west. The rich have been placing more of their ever-expanding wealth in
@@ -1173,9 +1172,9 @@ This stagnation has became even more obvious by the development of deep crisis
 in many countries at the end of the 2000s. This caused central banks to
 intervene in order to try and revive the real economies that have suffered
 under their rentier inspired policies since the 1970s. Such action may just
-ensure continued stagnation and reflated bubbles rather than a real-up turn.
+ensure continued stagnation and reflated bubbles rather than a real up-turn.
 One thing is true, however, and that is the working class will pay the price
-of any "solution" -- unless they organise and get rid of capitalism and the
+of any "solution" \-- unless they organise and get rid of capitalism and the
 state. Ultimately, capitalism need profits to survive and such profits came
 from the fact that workers do not have economic liberty. Thus any "solution"
 within a capitalist framework means the increased oppression and exploitation
@@ -1184,7 +1183,7 @@ of working class people.
 ## J.4.5 Why is this _"economic structural crisis"_ important to social
 struggle?
 
-The _**"economic structural crisis"_** we out-lined in the [last
+The **_"economic structural crisis"_** we out-lined in the [last
 section](secJ4.html#secj44) has certain implications for anarchists and social
 struggle. Essentially, as C. George Benello argued, _"[i]f economic conditions
 worsen . . . then we are likely to find an openness to alternatives which have
@@ -1195,9 +1194,9 @@ the Ground Up**, p. 149]
 
 In the face of economic stagnation and depression, attempts to generate more
 profits (i.e., increase exploitation) by increasing the authority of the boss
-grow. In addition, more people find it harder to make ends meet, running up
-debts to survive, face homelessness if they are made unemployed, and so on.
-This makes exploitation ever more visible and tend to push oppressed strata
+grow. In addition, more people find it harder to make ends meet, run up debts
+to survive, face homelessness if they are made unemployed, and so on. This
+makes exploitation ever more visible and tends to push oppressed strata
 together in movements that seek to mitigate, and even remove, their
 oppression. As the capitalist era has worn on, these strata have become
 increasingly able to rebel and gain substantial political and economic
@@ -1223,7 +1222,7 @@ movement, rank-and-file labour militancy, etc.) with non-authoritarian
 liberation movements in the Third World and new movements in formerly
 Stalinist countries. However, this is only likely to happen if anarchists take
 the lead in promoting alternatives and working with the mass of the
-population. Ways in which anarchist can do this are discussed in some detail
+population. Ways in which anarchists can do this are discussed in some detail
 in [section J.5](secJ5.html).
 
 Thus the _"economic structural crisis"_ can aid social struggle by placing the
@@ -1254,7 +1253,7 @@ potential to get their message across, even if the overall environment may
 make success seem difficult at times!
 
 As well as encouraging workplace organisation due to the intensification of
-exploitation and authority provoked by the economic stagnant/depression, the
+exploitation and authority provoked by the economic stagnation/depression, the
 "economic structural crisis" can encourage other forms of libertarian
 alternatives. For example, the _"economic structural crisis"_ has resulted in
 the erosion of the welfare state (at least for the working class, for the
@@ -1273,7 +1272,7 @@ services to the weakest sections of our society -- which possibility comes
 about depends on what we do in the here and now. See [section
 J.5.15](secJ5.html#secj515) for an anarchist analysis of the welfare state).
 
-**Food Not Bombs!** (FNB) is an excellent example of practical libertarian alternatives being generated by the economic crisis we are facing. FNB is a community-based group which helps the homeless through the direct action of its members. It also involves the homeless in helping themselves. It serves free food in public places to expose the plight of the homeless, the callousness of the system and our capacity to solve social problems through our own actions without government or capitalism. The constant harassment of FNB by the police, middle classes and the government illustrates their callousness to the plight of the poor and the failure of their institutions to build a society which cares for people more than money and property (and the police and prisons to protect them). The fact is that in the US many working and unemployed people have no **feeling** that they are entitled to basic human needs such as medicine, clothes, shelter, and food. FNB encourages poor people to make these demands, provides a space in which these demands can be voiced, and helps to breakdown the wall between hungry and not-hungry. The repression directed towards FNB by local police forces and governments also demonstrates the effectiveness of their activity and the possibility that it may radicalise those who get involved with the organisation. Charity is obviously one thing, mutual aid is something else. FNB is a politicised movement from below, based on solidarity, **not** charity as, in Kropotkin's words, charity _"bears a character of inspiration from above, and, accordingly, implies a certain superiority of the giver upon the receiver."_ [**Mutual Aid**, p. 222] 
+**Food Not Bombs!** (FNB) is an excellent example of practical libertarian alternatives being generated by the economic crisis we are facing. FNB is a community-based group which helps the homeless through the direct action of its members. It also involves the homeless in helping themselves. It serves free food in public places to expose the plight of the homeless, the callousness of the system and our capacity to solve social problems through our own actions without government or capitalism. The constant harassment of FNB by the police, middle classes and the government illustrates their callousness to the plight of the poor and the failure of their institutions to build a society which cares for people more than money and property (and the police and prisons to protect them). The fact is that in the US many working and unemployed people have no **feeling** that they are entitled to basic human needs such as medicine, clothes, shelter, and food. FNB encourages poor people to make these demands, provides a space in which these demands can be voiced, and helps to breakdown the wall between hungry and not-hungry. The repression directed towards FNB by local police forces and governments also demonstrates the effectiveness of their activity and the possibility that it may radicalise those who get involved with the organisation. Charity is obviously one thing, mutual aid is something else. FNB is a politicised movement from below, based on solidarity, **not** charity as, in Kropotkin's words, charity _"bears a character of inspiration from above, and, accordingly, implies a certain superiority of the giver upon the receiver."_ [**Mutual Aid**, p. 222]
 
 The last example of how economic stagnation can generate libertarian
 tendencies can be seen from the fact that, _"[h]istorically, at times of
@@ -1338,7 +1337,7 @@ ideals."_ [Lindenfield, **Op. Cit.**, p. 28] And such a community would be a
 great aid in any strike or other social struggle which is going on!
 
 The general economic crisis which we are facing has implications for social
-struggle and anarchist activism. It could be the basic of libertarian
+struggle and anarchist activism. It could be the basis of libertarian
 alternatives in our workplaces and communities, alternatives based on direct
 action, solidarity and self-management. These alternatives could include
 workplace and community unionism, co-operatives, mutual banks and other forms
@@ -1393,17 +1392,17 @@ as well as increased state support for the power of the boss over the worker
 and the landlord over the tenant.
 
 If you look at what the Right has done and is doing, rather than what it is
-saying, you quickly see the ridiculous of claims of right-wing
+saying, you quickly see the ridiculousness of claims of right-wing
 "libertarianism" (as well as who is really in charge). Obstructing pollution
 and health regulations; defunding product safety laws; opening national parks
 to logging and mining, or closing them entirely; reducing taxes for the rich;
 eliminating the capital gains tax; allowing companies to fire striking
 workers; making it easier for big telecommunications companies to dominate the
-media; limiting companies' liability for unsafe products \-- the objective
-here is obviously to help big business and the wealthy do what they want
-without government interference, helping the rich get richer and increasing
-"freedom" for private power combined with a state whose sole role is to
-protect that "liberty."
+media; limiting companies' liability for unsafe products -- the objective here
+is obviously to help big business and the wealthy do what they want without
+government interference, helping the rich get richer and increasing "freedom"
+for private power combined with a state whose sole role is to protect that
+"liberty."
 
 Such right-wing tendencies do not have anarchistic elements. The "anti-
 government" propaganda of big business is hardly anarchistic. What anarchists
@@ -1470,18 +1469,18 @@ The very existence of the Internet provides anarchists with a powerful
 argument that decentralised structures can function effectively in a highly
 complex world. For the net has no centralised headquarters and is not subject
 to regulation by any centralised regulatory agency, yet it still manages to
-function effectively. Moreover, the net is also an effective way of anarchists
-and other radicals to communicate their ideas to others, share knowledge, work
-on common projects and co-ordinate activities and social struggle. By using
-the Internet, radicals can make their ideas accessible to people who otherwise
-would not come across anarchist ideas. In addition, and far more important
-than anarchists putting their ideas across, the fact is that the net allows
-everyone with access to express themselves freely, to communicate with others
-and get access (by visiting webpages and joining mailing lists and newsgroups)
-and give access (by creating webpages and joining in with on-line arguments)
-to new ideas and viewpoints. This is very anarchistic as it allows people to
-express themselves and start to consider new ideas, ideas which may change how
-they think and act.
+function effectively. Moreover, the net is also an effective way for
+anarchists and other radicals to communicate their ideas to others, share
+knowledge, work on common projects and co-ordinate activities and social
+struggle. By using the Internet, radicals can make their ideas accessible to
+people who otherwise would not come across anarchist ideas. In addition, and
+far more important than anarchists putting their ideas across, the fact is
+that the net allows everyone with access to express themselves freely, to
+communicate with others and get access (by visiting webpages and joining
+mailing lists and newsgroups) and give access (by creating webpages and
+joining in with on-line arguments) to new ideas and viewpoints. This is very
+anarchistic as it allows people to express themselves and start to consider
+new ideas, ideas which may change how they think and act.
 
 Obviously we are aware that the vast majority of people in the world do not
 have access to telephones, never mind computers, but computer access is
@@ -1545,14 +1544,14 @@ companies or individuals, so hindering the industry as a whole.
 Encouragingly, this socialistic "gift economy" is still at the heart of
 computer/software development and the Internet. For example, the **Free
 Software Foundation** has developed the **General Public Licence** (GPL). GPL,
-also know as _**"copyleft"_**, uses copyright to ensure that software remains
+also known as **_"copyleft"_**, uses copyright to ensure that software remains
 free. Copyleft ensures that a piece of software is made available to everyone
 to use and modify as they desire. The only restriction is that any used or
 modified copyleft material must remain under copyleft, ensuring that others
 have the same rights as you did when you used the original code. It creates a
 commons which anyone may add to, but no one may subtract from. Placing
 software under GPL means that every contributor is assured that she, and all
-other uses, will be able to run, modify and redistribute the code
+other users, will be able to run, modify and redistribute the code
 indefinitely. Unlike commercial software, copyleft code ensures an increasing
 knowledge base from which individuals can draw from and, equally as important,
 contribute to. In this way everyone benefits as code can be improved by
@@ -1585,11 +1584,11 @@ since its creation in 1948, a private appendage of the military industrial
 complex). In other words, activism and activists' power and influence has been
 fuelled by the advent of the information revolution. Through computer and
 communication networks, especially via the Internet, grassroots campaigns have
-flourished, and the most importantly, government elites have taken notice.
+flourished, and most importantly, government elites have taken notice.
 
 Ronfeldt specialises in issues of national security, especially in the areas
 of Latin American and the impact of new informational technologies. Ronfeldt
-and another colleague coined the term _**"netwar"_** in a Rand document
+and another colleague coined the term **_"netwar"_** in a Rand document
 entitled _"Cyberwar is Coming!"_. Ronfeldt's work became a source of
 discussion on the Internet in mid-March 1995 when Pacific News Service
 correspondent Joel Simon wrote an article about Ronfeldt's opinions on the
@@ -1597,13 +1596,13 @@ influence of netwars on the political situation in Mexico after the Zapatista
 uprising. According to Simon, Ronfeldt holds that the work of social activists
 on the Internet has had a large influence -- helping to co-ordinate the large
 demonstrations in Mexico City in support of the Zapatistas and the
-proliferation of EZLN communiqus across the world via computer networks. These
-actions, Ronfeldt argues, have allowed a network of groups that oppose the
-Mexican Government to muster an international response, often within hours of
-actions by it. In effect, this has forced the Mexican government to maintain
-the facade of negotiations with the EZLN and has on many occasions, actually
-stopped the army from just going in to Chiapas and brutally massacring the
-Zapatistas.
+proliferation of EZLN communiques across the world via computer networks.
+These actions, Ronfeldt argues, have allowed a network of groups that oppose
+the Mexican Government to muster an international response, often within hours
+of actions by it. In effect, this has forced the Mexican government to
+maintain the facade of negotiations with the EZLN and has on many occasions,
+actually stopped the army from just going in to Chiapas and brutally
+massacring the Zapatistas.
 
 Given that Ronfeldt was an employee of the Rand Corporation his comments
 indicate that the U.S. government and its military and intelligence wings are

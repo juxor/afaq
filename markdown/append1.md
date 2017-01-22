@@ -44,12 +44,13 @@ opposed capitalism and always will.
 
 ##
 
-* [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2](append11.html)
+  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2](append11.html)
 
 ###
 
 [1 Individualist Anarchists and the socialist movement.  
-[2 Why is Caplan's definition of socialism wrong?](append11.html#app2)  
+](append11.html#app1)[2 Why is Caplan's definition of socialism
+wrong?](append11.html#app2)  
 [3 Was Proudhon a socialist or a capitalist? ](append11.html#app3)  
 [4 Tucker on Property, Communism and Socialism. ](append11.html#app4)  
 [5 Anarchism and "anarcho"-capitalism.](append11.html#app5)  
@@ -57,7 +58,7 @@ opposed capitalism and always will.
 
 ##
 
-* [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1](append12.html)
+  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1](append12.html)
 
 ###
 
@@ -69,5 +70,5 @@ opposed capitalism and always will.
 
 ##
 
-* [Is "anarcho"-capitalism a type of anarchism?](append13.html)
+  * [Is "anarcho"-capitalism a type of anarchism?](append13.html)
 

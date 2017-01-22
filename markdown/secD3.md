@@ -51,7 +51,7 @@ nature of these five filters below before refuting two common objections to
 the model. As with Chomsky and Herman, examples are mostly from the US media.
 For more extensive analysis, we would recommend two organisations which study
 and critique the performance of the media from a perspective informed by the
-"propaganda model." These are the American **Fairness & Accuracy In
+"propaganda model." These are the American **Fairness &amp; Accuracy In
 Reporting** (FAIR) and the UK based **MediaLens** (neither, it should be
 pointed out, are anarchist organisations).
 
@@ -180,7 +180,8 @@ for their existence on advertising revenue (which in turn comes from private
 business). Business also provides a substantial share of "experts" for news
 programmes and generates massive "flak." Claims that the media are "left-
 leaning" are sheer disinformation manufactured by the "flak" organisations
-described below (in [section D.3.4). Thus Herman and Chomsky:
+described below (in [section D.3.4](secD3.html#secd34)). Thus Herman and
+Chomsky:
 
 > _"the dominant media forms are quite large businesses; they are controlled
 by very wealthy people or by managers who are subject to sharp constraints by
@@ -449,11 +450,12 @@ is useful as well as dramatic, they focus on it intensively and use it to
 enlighten the public. This was true, for example, of the shooting down by the
 Soviets of the Korean airliner KAL 007 in early September 1983, which
 permitted an extended campaign of denigration of an official enemy and greatly
-advanced Reagan administration arms plans."
+advanced Reagan administration arms plans."  
+>  _
 
 >
 
-> "In sharp contrast, the shooting down by Israel of a Libyan civilian
+> _"In sharp contrast, the shooting down by Israel of a Libyan civilian
 airliner in February 1973 led to no outcry in the West, no denunciations for
 'cold-blooded murder,' and no boycott. This difference in treatment was
 explained by the **New York Times** precisely on the grounds of utility: 'No
@@ -558,7 +560,7 @@ As noted above, the claim that the media are "adversarial" or (more
 implausibly) that they have a "left-wing bias" is due to right-wing PR
 organisations. This means that some "inconvenient facts" are occasionally
 allowed to pass through the filters in order to give the **appearance** of
-"objectivity" -- precisely so the media can deny charges of engaging in
+"objectivity" \-- precisely so the media can deny charges of engaging in
 propaganda. As Chomsky and Herman put it: _"the 'naturalness' of these
 processes, with inconvenient facts allowed sparingly and within the proper
 framework of assumptions, and fundamental dissent virtually excluded from the

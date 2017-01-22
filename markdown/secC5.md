@@ -161,7 +161,7 @@ increasing their mark-up over costs. As the rate of profit levels off and
 falls, mergers are an attempt to raise profits by increasing the degree of
 monopoly in the market/economy. However, this is a short term solution and can
 only postpone, but stop, the crisis as its roots lie in production, **not**
-the market (see [section C.7](secC7.html)) \-- there is only so much surplus
+the market (see [section C.7](secC7.html)) -- there is only so much surplus
 value around and the capital stock cannot be wished away. Once the slump
 occurs, a period of cut-throat competition will start and then, slowly, the
 process of concentration will start again (as weak firms go under, successful
@@ -303,11 +303,12 @@ transportation and distribution. Oligopolies. . . [control] more of the
 highest quality and most accessible supplies than they intend to market
 immediately. . . competitors are left with lower quality or more expensive
 supplies. . . [It is also] based on exclusive possession of technologies,
-patents and franchises as well as on excess productive capacity . . .
+patents and franchises as well as on excess productive capacity . . .  
+>  _
 
 >
 
-> "Vertical controls substitute administrative command for exchange between
+> _"Vertical controls substitute administrative command for exchange between
 steps of economic processes. The largest oligopolies procure materials from
 their own subsidiaries, process and manufacture these in their own refineries,
 mills and factories, transport their own goods and then market these through
@@ -415,7 +416,7 @@ become possible (i.e. profitable) again and so _"it should not be concluded
 that oligopolies can set prices as high as they like. If prices are set too
 high, dominant firms from other industries would be tempted to move in and
 gain a share of the exceptional returns. Small producers -- using more
-expensive materials or out-dated technologies \-- would be able to increase
+expensive materials or out-dated technologies -- would be able to increase
 their share of the market and make the competitive rate of profit or better."_
 [Allan Engler, **Op. Cit.**, p. 53]
 

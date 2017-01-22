@@ -17,8 +17,43 @@ We hope that this makes it clear to visitors!
 
 # What's New in the FAQ?
 
-Version| Date| What's New |
+Version | Date | What's New  
+---|---|---  
+  
+15.0
 
+|
+
+18-MAR-2014
+
+|
+
+[Reply to errors and distortions in David McNally's pamphlet "Socialism from
+Below"](append31.html)  
+Complete revision and expansion of the appendix _Reply to errors and
+distortions in David McNally's pamphlet "Socialism from Below"_. This is to
+include a significant expansion on refuting his account of Proudhon's ideas as
+well as more information on both anarchism and Bolshevism.
+
+This revision is the first since the publication of the second volume of the
+FAQ.  
+  
+14.0
+
+|
+
+20-NOV-2012
+
+|
+
+[Introduction to Volume 2](vol2intro.html)  
+Introduction to Volume 2 of _An Anarchist FAQ_
+
+This revision is done to indicate that volume 2 has been published. It does
+not signify a change of the main text of the work.  
+  
+  
+  
 14.0
 
 |
@@ -56,8 +91,6 @@ Zinn.
 
 This revision was made as part of getting the second volume of the FAQ ready
 for publication. That is now complete.  
-  
----|---|---  
   
 13.4
 
@@ -158,7 +191,7 @@ himself from this pamphlet as well as the addition of more quotes on party
 dictatorship by Trotsky to the section 15 ([Did Trotsky keep alive Leninism's
 _"democratic essence"_?](append31.html#app15)).
 
-[An Anarchist FAQ blog](http://anarchism.pageabode.com/blogs/afaq)  
+[An Anarchist FAQ blog](http://anarchism.pageabode.com/blogs)  
 An Anarchist FAQ now has an official blog. This is used to post news as well
 as extra material which cannot be included in the main body of the FAQ.
 
@@ -174,7 +207,7 @@ for publication.
 |
 
 [An Anachist FAQ: Volume 1](book.html)  
-**An Anarchist FAQ**, at long last, has now been published by AK Press. Volume 1 (introductions, sections A to F, plus the appendix on the symbols of Anarchy) is now available (ISBN: 978-1902593906) 
+**An Anarchist FAQ**, at long last, has now been published by AK Press. Volume 1 (introductions, sections A to F, plus the appendix on the symbols of Anarchy) is now available (ISBN: 978-1902593906)
 
 [Section H](secHcon.html)  
 Significant revision of the section on the anarchist critique of Marxism.

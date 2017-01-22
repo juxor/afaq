@@ -12,9 +12,9 @@ According to Murray Rothbard [_"Society Without A State"_, in **Nomos XIX**,
 Pennock and Chapman, eds., p. 192.], a state must have one or both of the
 following characteristics:
 
-1) The ability to tax those who live within it.  
-2) It asserts and usually obtains a coerced monopoly of the provision of
-defence over a given area.  
+           1) The ability to tax those who live within it.
+
+          2) It asserts and usually obtains a coerced monopoly of the provision of defence over a given area. 
 
 He makes the same point in **The Ethics of Liberty** [p. 171].
 
@@ -81,7 +81,7 @@ geographical area"_ [**Capitalism: The Unknown Ideal**, p. 239] then these
 monopoly to determine the rules governing their property) enforce their rules.
 
 For this (and other reasons), we should call the "anarcho"-capitalist defence
-firms "private states" -- that is what they are -- and "anarcho"-capitalism
+firms "private states" \-- that is what they are -- and "anarcho"-capitalism
 "private state" capitalism.
 
 Before discussing these points further, it is necessary to point out a
@@ -232,7 +232,9 @@ laws as society progresses.
 Thus a system of "defence" on the market will continue to reflect the
 influence and power of property owners and wealth and not be subject to
 popular control beyond choosing between companies to enforce the capitalist
-laws.
+laws
+
+.
 
 ## 6.2 What are the social consequences of such a system?
 
@@ -244,11 +246,11 @@ forces (although, as suggested above, this could indeed be a problem):
 
 > _"There is something more serious than the 'Mafia danger', and this other
 problem concerns the role of such 'defence' institutions in a given social and
-economic context.
+economic context. _
 
 >
 
-> "[The] context. . . is one of a free-market economy with no restraints upon
+> _"[The] context. . . is one of a free-market economy with no restraints upon
 accumulation of property. Now, we had an American experience, roughly from the
 end of the Civil War to the 1930's, in what were in effect private courts,
 private police, indeed private governments. We had the experience of the
@@ -266,12 +268,12 @@ economic coercion to patronise, the houses they lived in, were commonly
 policed by the private police of the United States Steel Corporation or
 whatever company owned the properties. The chief practical function of these
 police was, of course, to prevent labour organisation and preserve a certain
-balance of 'bargaining.'
+balance of 'bargaining.' _
 
 >
 
-> "These complexes were a law unto themselves, powerful enough to ignore, when
-they did not purchase, the governments of various jurisdictions of the
+> _"These complexes were a law unto themselves, powerful enough to ignore,
+when they did not purchase, the governments of various jurisdictions of the
 American federal system. This industrial system was, at the time, often
 characterised as feudalism. . . ."_ [_"Anarchist Justice"_, **Op. Cit.**, pp.
 223-224]
@@ -627,8 +629,8 @@ those who reject judgements) will go out of business because of the higher
 costs associated with conflict and not arbitration. However, these higher
 costs are ensured because the firms in question do not co-operate with others.
 If other agencies boycott a firm but co-operate with all the others, then the
-boycotted firm will be at the same disadvantage \-- regardless of whether it
-is a cartel buster or a renegade.
+boycotted firm will be at the same disadvantage -- regardless of whether it is
+a cartel buster or a renegade.
 
 The "anarcho"-capitalist is trying to have it both ways. If the punishment of
 non-conforming firms cannot occur, then "anarcho"-capitalism will turn into a
@@ -740,13 +742,12 @@ land. The _"general libertarian law code"_ is a monopoly and property owners
 determine the rules that apply to their property. Moreover, if the rules that
 property owners enforce are subject to rules contained in the monopolistic
 _"general libertarian law code"_ (for example, that they cannot ban the sale
-and purchase of certain products \-- such as defence -- on their own
-territory) then "anarcho"-capitalism **definitely** meets the Weberian
-definition of the state (as described by Ayn Rand as an institution _"that
-holds the exclusive power to **enforce** certain rules of conduct in a given
-geographical area"_ [**Capitalism: The Unknown Ideal**, p. 239]) as its "law
-code" overrides the desires of property owners to do what they like on their
-own property.
+and purchase of certain products -- such as defence -- on their own territory)
+then "anarcho"-capitalism **definitely** meets the Weberian definition of the
+state (as described by Ayn Rand as an institution _"that holds the exclusive
+power to **enforce** certain rules of conduct in a given geographical area"_
+[**Capitalism: The Unknown Ideal**, p. 239]) as its "law code" overrides the
+desires of property owners to do what they like on their own property.
 
 Therefore, no matter how you look at it, "anarcho"-capitalism and its
 "defence" market promotes a _"monopoly of ultimate decision making power"_
@@ -854,7 +855,7 @@ In a system based on "private statism," police and justice would be determined
 by "free market" forces. As indicated in section [B.4.1](secB4.html#secb41),
 right-libertarians maintain that one would have few rights on other peoples'
 property, and so the owner's will would be the law (possibly restricted
-somewhat by a "general libertarian law code", perhaps not \-- see [last
+somewhat by a "general libertarian law code", perhaps not -- see [last
 section](append136.html#secf64)). In this situation, those who could not
 afford police protection would become victims of roving bandits and rampant
 crime, resulting in a society where the wealthy are securely protected in

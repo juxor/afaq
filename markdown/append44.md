@@ -210,10 +210,9 @@ communists; they have not broken sufficiently with Second International
 orthodoxy, with the assumption that socialism is basically state capitalism
 (_"The idea of the State as Capitalist, to which the Social-Democratic
 fraction of the great Socialist Party is now trying to reduce Socialism."_
-[Peter Kropotkin, **The Great French Revolution**, vol. 1, p. 31]). Just as
-one cannot abolish alienation with alienated means, so we cannot attack
-Leninist _"means"_ also without distinguishing our libertarian _"ends"_ from
-theirs.
+[Peter Kropotkin, The Great French Revolution, vol. 1, p. 31]). Just as one
+cannot abolish alienation with alienated means, so we cannot attack Leninist
+_"means"_ also without distinguishing our libertarian _"ends"_ from theirs.
 
 This means that both Leninist means and ends are flawed. Both will fail to
 produce a socialist society. As Kropotkin said at the time, the Bolsheviks
@@ -263,7 +262,7 @@ equality and solidarity that inspired it? For, after all, as we indicated in
 visions of socialism and how to get there **are** different. Can we be
 surprised if Marxist means cannot achieve anarchist (i.e. authentic socialist)
 ends? To his credit, Shachtman acknowledges that post-civil war salvation
-"required full democratic rights"_ for all workers, and that this was
+"required full democratic rights" for all workers, and that this was
 _"precisely what the Bolsheviks . . . were determined not to permit."_ Sadly
 he failed to wonder **why** the democratic principles of the _"original
 program"_ were only _"honoured in the breach"_ and why _"Lenin and Trotsky did
@@ -273,15 +272,15 @@ Trotsky's **Terrorism and Communism**, p. xv]
 
 Equally, there is a tendency of pro-Leninists to concentrate on the period
 between the two revolutions of 1917 when specifying what Bolshevism "really"
-stood for, particularly Lenin's book **State and Revolution**. To use an
-analogy, when Leninists do this they are like politicians who, when faced with
-people questioning the results of their policies, ask them to look at their
-election manifesto rather than what they have done when in power. As we
-discuss in [section 4](append41.html#app4) of the appendix ["What happened
-during the Russian Revolution?"](append41.html) Lenin's book was never applied
-in practice. From the very first day, the Bolsheviks ignored it. After 6
-months **none** of its keys ideas had been applied. Indeed, in all cases the
-exact opposite had been imposed. As such, to blame (say) the civil war for the
+stood for, particularly Lenin's book State and Revolution. To use an analogy,
+when Leninists do this they are like politicians who, when faced with people
+questioning the results of their policies, ask them to look at their election
+manifesto rather than what they have done when in power. As we discuss in
+[section 4](append41.html#app4) of the appendix ["What happened during the
+Russian Revolution?"](append41.html) Lenin's book was never applied in
+practice. From the very first day, the Bolsheviks ignored it. After 6 months
+**none** of its keys ideas had been applied. Indeed, in all cases the exact
+opposite had been imposed. As such, to blame (say) the civil war for the
 reality of "Bolshevik in power" (as Leninists do) seems without substance.
 Simply put, **State and Revolution** is no guide to what Bolshevism "really"
 stood for. Neither is their position **before** seizing power if the realities
@@ -391,7 +390,7 @@ This is no abstract metaphysical or ideological/theoretical point. The impact
 of this issue can be seen from the practice of Bolshevism in power. For Lenin
 and Trotsky, **any** and **all** means could and were used in pursuit of their
 ends. They simply could not see how the means used shaped the ends reached.
-Ultimately, there was only two possibilities \-- socialism (by definition
+Ultimately, there was only two possibilities -- socialism (by definition
 classless) or a return to capitalism.
 
 Once we see that because of their flawed perspective on what comes after
@@ -454,7 +453,7 @@ As discussed in [section H.3.7](secH3.html#sech37), anarchists and Marxists
 have fundamentally different definitions of what constitutes a state. These
 different definitions resulted, in practice, to the Bolsheviks undermining
 **real** working class power during the Russian Revolution in favour of an
-abstract "power"_ which served as little more than a fig-leaf for Bolshevik
+abstract "power" which served as little more than a fig-leaf for Bolshevik
 power.
 
 For anarchists, the state is marked by centralised power in the hands of a
@@ -565,8 +564,8 @@ gradual 'withering away' of all bureaucracy."_ [**Op. Cit.**, p. 306 and p.
 
 Yet why expect a "new" bureaucracy to be as easy to control as the old one?
 Regular election to posts does not undermine the institutional links,
-pressures and powers a centralised "officialdom"_ will generate around itself,
-even a so-called "proletarian"_ one. Significantly, Lenin justified this
+pressures and powers a centralised "officialdom" will generate around itself,
+even a so-called "proletarian" one. Significantly, Lenin justified this
 defence of temporary state bureaucracy by the kind of straw man argument
 against anarchism _"State and Revolution"_ is riddled with. _"We are not
 utopians,"_ asserted Lenin, _"we do not indulge in 'dreams' of dispensing **at
@@ -609,10 +608,10 @@ participation by the population but, in fact, on giving power to a few
 representatives. It is **not** identical with _"society,"_ i.e. the armed,
 self-organised people. Rather than look to the popular assemblies of the
 French revolution, Lenin, like the bourgeoisie, looked to representative
-structures \-- structures designed to combat working class power and
-influence. (at one point Lenin states that _"for a certain time not only
-bourgeois right, but even the bourgeois state remains under communism, without
-the bourgeoisie!"_ This was because _"bourgeois right in regard to the
+structures -- structures designed to combat working class power and influence.
+(at one point Lenin states that _"for a certain time not only bourgeois right,
+but even the bourgeois state remains under communism, without the
+bourgeoisie!"_ This was because _"bourgeois right in regard to the
 distribution of articles of **consumption** inevitably presupposes the
 existence of the **bourgeois state,** for right is nothing without an
 apparatus capable of **enforcing** the observance of the standards of right."_
@@ -709,7 +708,7 @@ into the term _"state"_ had its negative impact from the start. Firstly, the
 Bolsheviks constantly equated rule by the Bolshevik party (in practice, its
 central committee) with the working class as a whole. Rather than rule by all
 the masses, the Bolsheviks substituted rule by a handful of leaders. Thus we
-find Lenin talking about _"the power of the Bolsheviks \-- that is, the power
+find Lenin talking about _"the power of the Bolsheviks -- that is, the power
 of the proletariat"_ as if these things were the same. Thus it was a case of
 _"the Bolsheviks"_ having _"to take the whole governmental power into their
 own hands,"_ of _"the complete assumption of power by the Bolsheviks alone,"_
@@ -776,7 +775,7 @@ can be a _"ruling"_ class. Blinded by the notion that a state could not be
 anything **but** an instrument of class rule, the Bolsheviks simply were able
 to justify any limitation of working class democracy and freedom and argue
 that it had no impact on whether the Bolshevik regime was really a
-"dictatorship of the proletariat"_ or not. This can be seen from Lenin's
+"dictatorship of the proletariat" or not. This can be seen from Lenin's
 polemic with German Social-Democrat Karl Kautsky, where he glibly stated that
 _"**[t]he form of government,** has absolutely nothing to so with it."_
 [**Collected Works**, vol. 28, p. 238]
@@ -1078,14 +1077,14 @@ of production -- implying as it does the total domination of the producer over
 the productive process -- is not for us a marginal matter. It is the core of
 our politics. It is the only means whereby authoritarian (order-giving, order-
 taking) relations in production can be transcended and a free, communist or
-anarchist, society introduced.
+anarchist, society introduced. _
 
 >
 
-> "We also hold that the means of production may change hands (passing for
+> _"We also hold that the means of production may change hands (passing for
 instance from private hands into those of a bureaucracy, collectively owning
 them) with out this revolutionising the relations of production. Under such
-circumstances -- and whatever the formal status of property \-- the society is
+circumstances -- and whatever the formal status of property -- the society is
 still a class society for production is still managed by an agency other than
 the producers themselves. Property relations, in other words, do not
 necessarily reflect the: relations of production. They may serve to mask them
@@ -1159,13 +1158,13 @@ inherently, be _"authoritarian"_ and so what mattered, therefore, was who
 owned property, **not** how the workplace was run. Perhaps, then, _"On
 Authority"_ was a self-fulfilling prophecy -- by seeing any form of
 organisation and any form of advanced technology as needing hierarchy,
-discipline and obedience, as being "authoritarian,"_ it ensured that
-mainstream Marxism became blinded to the key question of **how** society was
-organised. After all, if _"despotism"_ was a fact of life within industry
-regardless of how the wider society was organised, then it does not matter if
-_"one-man management"_ replaces workers' self-management. Little wonder then
-that the continued alienation of the worker was widespread long before Stalin
-took power and, more importantly, before the civil war started.
+discipline and obedience, as being "authoritarian," it ensured that mainstream
+Marxism became blinded to the key question of **how** society was organised.
+After all, if _"despotism"_ was a fact of life within industry regardless of
+how the wider society was organised, then it does not matter if _"one-man
+management"_ replaces workers' self-management. Little wonder then that the
+continued alienation of the worker was widespread long before Stalin took
+power and, more importantly, before the civil war started.
 
 As such, the dubious inheritance of classical Marxism had started to push the
 Bolshevik revolution down an authoritarian path and create economic structures
@@ -1278,7 +1277,7 @@ libertarian ideas pointed to a participatory democracy run from below. On the
 other, Marx's comments during the German Revolution in 1850 that the workers
 must _"strive for . . . the most determined centralisation of power in the
 hands of the state authority"_ because _"the path of revolutionary activity"_
-can "proceed only from the centre"_ suggests a top-down approach. He stressed
+can "proceed only from the centre" suggests a top-down approach. He stressed
 that centralisation of power was essential to overcome local autonomy, which
 would allow _"every village, every town and every province"_ to put _"a new
 obstacle in the path"_ the revolution due to _"local and provincial
@@ -1462,10 +1461,10 @@ to be Done?**. This suggests that his 1917 arguments were the aberration and
 against the true essence of Leninism, not his and Trotsky's policies once they
 were in power (as Leninists like to argue).
 
-Forgetting that he had argued against _"primitive democracy"_ in **What is to
-Be Done?**, Lenin had lambasted the opportunists and "present Kautskyists"_
-for _"repeat[ing] the vulgar bourgeois jeers at 'primitive' democracy."_ Now,
-in 1917, it was a case that _"the transition from capitalism to socialism is
+Forgetting that he had argued against _"primitive democracy"_ in What is to Be
+Done?, Lenin had lambasted the opportunists and "present Kautskyists" for
+_"repeat[ing] the vulgar bourgeois jeers at 'primitive' democracy."_ Now, in
+1917, it was a case that _"the transition from capitalism to socialism is
 **impossible** without some 'reversion' to 'primitive' democracy (how else can
 the majority, even the whole population, proceed to discharge state
 functions?)"_ [**Op. Cit.**, p. 302] Very true. As Leninism in power showed,
@@ -1644,7 +1643,7 @@ by the higher ones (and as we will discuss, these higher ones were not
 directly elected by the lower ones). The problems with this vision are many
 fold.
 
-Firstly, to impose an "ideal" solution would destroy a revolution \-- the
+Firstly, to impose an "ideal" solution would destroy a revolution -- the
 actions and decisions (**including what others may consider mistakes**) of a
 free people are infinitely more productive and useful than the decisions and
 decrees of the best central committee. Moreover, a centralised system by
@@ -1824,13 +1823,13 @@ only by higher workers' control bodies."_ [quoted by Cliff, **Op. Cit.**, p.
 > _ "there [was] . . . a firm hierarchy of control organs . . . each Committee
 was to be responsible to a 'Regional Council of Workers' Control',
 subordinated in turn to an 'All-Russian Council of Workers' Control'. The
-composition of these higher organs was decided by the Party.
+composition of these higher organs was decided by the Party. _
 
 >
 
-> "The trade unions were massively represented in the middle and higher strata
-of this new pyramid of 'institutionalised workers' control.' For instance the
-All-Russian Council of Workers' Control was to consist of 21
+> _"The trade unions were massively represented in the middle and higher
+strata of this new pyramid of 'institutionalised workers' control.' For
+instance the All-Russian Council of Workers' Control was to consist of 21
 'representatives': 5 from the All-Russian Central Executive Committee of the
 Soviets, 5 from the Executive of the All-Russian Council of Trade Unions, 5
 from the Association of Engineers and Technicians, 2 from the Association of
@@ -1990,20 +1989,20 @@ nor could the consolidation of an irremovable bureaucracy ruling over all
 sectors of social life be halted. The process may have been accelerated or
 magnified by the entry of non-proletarian elements into the Party, as they
 rushed to jump on the bandwagon. But this was a consequence, and not a cause,
-of the Party's orientation . . .
+of the Party's orientation . . . _
 
 >
 
-> "Who is to manage production . . .? . . . the correct answer [is] the
+> _"Who is to manage production . . .? . . . the correct answer [is] the
 collective organs of labouring people. What the party leadership wanted, what
 it had already imposed -- and on this point there was no difference between
-Lenin and Trotsky \-- was a hierarchy directed from above. We know that this
+Lenin and Trotsky -- was a hierarchy directed from above. We know that this
 was the conception that triumphed. We know, too, where this 'victory' led . .
-.
+. _
 
 >
 
-> "In all Lenin's speeches and writings of this period, what recurs again and
+> _"In all Lenin's speeches and writings of this period, what recurs again and
 again like an obsession is the idea that Russia ought to learn from the
 advanced capitalist countries; that there are not a hundred and one different
 ways of developing production and labour productivity if one wants to emerge
@@ -2011,23 +2010,23 @@ from backwardness and chaos; that one must adopt capitalist methods of
 'rationalisation' and management as well as capitalist forms of work
 'incentives.' All these, for Lenin, are just 'means' that apparently could
 freely be placed in the service of a radically different historical end, the
-building of socialism.
+building of socialism. _
 
 >
 
-> "Thus Trotsky, when discussing the merits of militarism, came to separate
+> _"Thus Trotsky, when discussing the merits of militarism, came to separate
 the army itself, its structure and its methods, from the social system it
 serves. What is criticisable in bourgeois militarism and in the bourgeois
 army, Trotsky says in substance, is that they are in the service of the
 bourgeoisie. Except for that, there is nothing in them to be criticised. The
 sole difference, he says, lies in this: '**Who is in power**?' Likewise, the
 dictatorship of the proletariat is not expressed by the 'form in which
-individual economic enterprises are administered.'
+individual economic enterprises are administered.' _
 
 >
 
-> "The idea that like means cannot be placed indifferently into the service of
-different ends; that there is an intrinsic relationship between the
+> _"The idea that like means cannot be placed indifferently into the service
+of different ends; that there is an intrinsic relationship between the
 instruments used and the result obtained; that, especially, neither the army
 nor the factory are simple 'means' or 'instruments,' but social structures in
 which are organised two fundamental aspects of human relations (production and
@@ -2037,11 +2036,11 @@ perfectly obvious and banal for Marxists, was totally 'forgotten.' It was just
 a matter of developing production, using proven methods and structures. That
 among these 'proofs' the principal one was the development of capitalism as a
 social system and that a factory produces not so much cloth or steel but
-proletariat and capital were facts that were utterly ignored.
+proletariat and capital were facts that were utterly ignored. _
 
 >
 
-> "Obviously, behind this 'forgetfulness' is hidden something else. At the
+> _"Obviously, behind this 'forgetfulness' is hidden something else. At the
 time, of course, there was the desperate concern to revive production as soon
 as possible and to put a collapsing economy back on its feet. This
 preoccupation, however, does not fatally dictate the choice of 'means.' If it
@@ -2051,27 +2050,27 @@ capitalism was the only effective and rational system of production. Faithful
 in this respect to Marx, they wanted to abolish private property and market
 anarchy, but not the type of organisation capitalism had achieved at the point
 of production. They wanted to modify the **economy,** not the relations
-between people at work or the nature of labour itself.
+between people at work or the nature of labour itself. _
 
 >
 
-> "At a deeper level still, their philosophy was to develop the forces of
+> _"At a deeper level still, their philosophy was to develop the forces of
 production. Here too they were the faithful inheritors of Marx -- or at least
 one side of Marx, which became the predominant one in his mature writings. The
 development of the forces of production was, if not the ultimate goal, at any
 rate the essential means, in the sense that everything else would follow as a
-by-product and that everything else had to be subordinated to it. . .
+by-product and that everything else had to be subordinated to it. . . _
 
 >
 
-> "To manage the work of others -- this is the beginning and the end of the
+> _"To manage the work of others -- this is the beginning and the end of the
 whole cycle of exploitation. The 'need' for a specific social category to
 manage the work of others in production (and the activity of others in
 politics and in society), the 'need' for a separate business management and
 for a Party to rule the State -- this is what Bolshevism proclaimed as soon as
 it seized power, and this is what it zealously laboured to impose. We know
 that it achieved its ends. Insofar as ideas play a role in the development of
-history \-- and, **in the final analysis**, they play an enormous role -- the
+history -- and, **in the final analysis**, they play an enormous role -- the
 Bolshevik ideology (and with it, the Marxist ideology lying behind it) was a
 decisive factor in the birth of the Russian bureaucracy."_ [**Op. Cit.**, pp.
 100-4]
@@ -2352,12 +2351,12 @@ the first consequence of the inevitable result of elections. . . Shut up in
 the city hall, charged to proceed after the forms established by the preceding
 governments, these ardent revolutionists, these reformers found themselves
 smitten with incapacity and sterility. . . but it was not the men who were the
-cause for this failure \-- it was the system.. .
+cause for this failure -- it was the system.. . _
 
 >
 
-> "The will of the bulk of the nation once expressed, the rest would submit to
-it with a good grace, but this is not how things are done. The revolution
+> _"The will of the bulk of the nation once expressed, the rest would submit
+to it with a good grace, but this is not how things are done. The revolution
 bursts out long before a general understanding has come, and those who have a
 clear idea of what should be done the next day are only a very small minority.
 The great mass of the people have as yet only a general idea of the end which
@@ -2370,11 +2369,11 @@ can only spring from the life of the people. . . The government becomes a
 parliament with all the vices of a middle-class parliament. Far from being a
 'revolutionary' government it becomes the greatest obstacle to the revolution
 and at last the people find themselves compelled to put it out of the way, to
-dismiss those that but yesterday they acclaimed as their children.
+dismiss those that but yesterday they acclaimed as their children. _
 
 >
 
-> "But it is not so easy to do so. The new government which has hastened to
+> _"But it is not so easy to do so. The new government which has hastened to
 organise a new administration in order to extend it's domination and make
 itself obeyed does not understand giving up so easily. Jealous of maintaining
 it's power, it clings to it with all the energy of an institution which has
@@ -2654,18 +2653,18 @@ can see that the centralisation of power has begun to crystallise and grow
 firm, that the apparatus of the state is being consolidated by the ownership
 of property and even by an anti-socialist morality. Instead of hundreds of
 thousands of property owners there is now a single owner served by a whole
-bureaucratic system and a new 'statised' morality.
+bureaucratic system and a new 'statised' morality. _
 
 >
 
-> "The proletariat is gradually being enserfed by the state. The people are
+> _"The proletariat is gradually being enserfed by the state. The people are
 being transformed into servants over whom there has risen a new class of
 administrators -- a new class . . . Isn't this merely a new class system
-looming on the revolutionary horizon . . .
+looming on the revolutionary horizon . . . _
 
 >
 
-> "The resemblance is all too striking . . . And if the elements of class
+> _"The resemblance is all too striking . . . And if the elements of class
 inequality are as yet indistinct, it is only a matter of time before
 privileges will pass to the administrators. We do not mean to say . . . that
 the Bolshevik party set out to create a new class system. But we do say that
@@ -2673,21 +2672,21 @@ even the best intentions and aspirations must inevitably be smashed against
 the evils inherent in any system of centralised power. The separation of
 management from labour, the division between administrators and workers flows
 logically from, centralisation. It cannot be otherwise . . . we are presently
-moving not towards socialism but towards state capitalism.
+moving not towards socialism but towards state capitalism. _
 
 >
 
-> "Will state capitalism lead us to the gates of socialism? Of this we see not
-the slightest evidence . . . Arrayed against socialism are . . . thousands of
-administrators. And if the workers . . . should become a powerful
+> _"Will state capitalism lead us to the gates of socialism? Of this we see
+not the slightest evidence . . . Arrayed against socialism are . . . thousands
+of administrators. And if the workers . . . should become a powerful
 revolutionary force, then it is hardly necessary to point out that the class
 of administrators, wielding the state apparatus, will be a far from weak
 opponent. The single owner and state capitalism form a new dam before the
-waves of our social revolution. . .
+waves of our social revolution. . . _
 
 >
 
-> "Is it at all possible to conduct the social revolution through a
+> _"Is it at all possible to conduct the social revolution through a
 centralised authority? Not even a Solomon could direct the revolutionary
 struggle or the economy from one centre . . ."_ [M. Sergven, cited by Paul
 Avrich, **Anarchists in the Russian Revolution**, pp. 123-5]
@@ -2745,7 +2744,7 @@ mistakes and, consequently, learn from them. Thus he defends Lenin's economic
 policies of _"state capitalism"_ and _"one-man management"_ (and in the
 process misleadingly suggests that these were **new** ideas on Lenin's part,
 imposed by objective factors, rather than, as Lenin acknowledged, what he had
-advocated all along \-- see [section 5](append44.html#app5)). Thus we discover
+advocated all along -- see [section 5](append44.html#app5)). Thus we discover
 that the collapse of industry (which had started in the start of 1917) meant
 that _"[d]rastic measures had to be taken."_ But never fear, _"Lenin was not
 one to shirk responsibility, however unpleasant the task."_ He called for
@@ -2762,7 +2761,7 @@ p. 73] So much for "workers' power"!
 Ultimately, centralism is designed to exclude the mass participation
 anarchists have long argued is required by a social revolution. It helped to
 undermine what Kropotkin considered the key to the success of a social
-revolution \-- _"the people becom[ing] masters of their destiny."_ [**Op.
+revolution -- _"the people becom[ing] masters of their destiny."_ [**Op.
 Cit.**, p. 133] In his words:
 
 > _ "We understand the revolution as a widespread popular movement, during
@@ -2774,12 +2773,12 @@ in it no hopes whatever. We know beforehand that it will be able to do nothing
 to accomplish the revolution as long as the people themselves do not
 accomplish the change by working out on the spot the necessary new
 institutions . . . nowhere and never in history do we find that people carried
-into government by a revolutionary wave, have proved equal to the occasion.
+into government by a revolutionary wave, have proved equal to the occasion. _
 
 >
 
-> "In the task of reconstructing society on new principles, separate men . . .
-are sure to fail. The collective spirit of the masses is necessary for this
+> _"In the task of reconstructing society on new principles, separate men . .
+. are sure to fail. The collective spirit of the masses is necessary for this
 purpose . . . a socialist government . . . would be absolutely powerless
 without the activity of the people themselves, and that, necessarily, they
 would soon begin to act fatally as a bridle upon the revolution."_ [**Op.
@@ -2966,7 +2965,7 @@ Bolsheviks are not elected (which they were, see [section
 6](append41.html#app6) of the appendix ["What happened during the Russian
 Revolution?"](append41.html)). It also ensures that Bolshevik representatives
 to the soviets are not delegates from the workplace, but rather a
-"transmission belt"_ (to use a phrase from the 1920s) for the decisions of the
+"transmission belt" (to use a phrase from the 1920s) for the decisions of the
 party leadership. In a nutshell, Bolshevik soviets would represent the party's
 central committee, not those who elected them. As Oskar Anweiler summarised:
 
@@ -3044,7 +3043,7 @@ that is the fact."_ This _"minority . . . may be called a party,"_ Lenin
 stressed. [quoted by Arthur Ransome, **The Crisis in Russia 1920**, p. 35]
 
 This perspective can be traced back to the underlying ideology expounded by
-the Bolsheviks before and during 1917\. For example, mere days after seizing
+the Bolsheviks before and during 1917. For example, mere days after seizing
 power in the October Revolution Lenin was stressing that the Bolsheviks'
 _"present slogan is: No compromise, i.e. for a homogeneous Boshevik
 government."_ He did not hesitate to use the threat to _"appeal to the
@@ -3082,11 +3081,11 @@ strivings of the proletariat was, therefore, privileged over the proletariat's
 own class goals and a single discernible class will was, similarly, axiomatic
 to both Marxism and Leninism. Both maintained that it was the communists who
 alone articulated these goals and this will -- that was the party's principal
-historical role.
+historical role. _
 
 >
 
-> "At this point, Leninism (again faithful to the Marxist original) resorted
+> _"At this point, Leninism (again faithful to the Marxist original) resorted
 to a little-noticed definitional conjuring trick -- one that proved to be of
 crucial importance for the mesmeric effect of the ideology. The trick was
 spectacularly simple and audacious -- the class was defined as class only to
@@ -3133,7 +3132,7 @@ for working class power seems inconsistent with both Bolshevik theory and
 practice. Lenin had been aiming for party power from the start, identifying it
 with working class power. As the party was the vanguard of the proletariat, it
 was duty bound to seize power and govern on behalf of the masses and,
-moreover, take any actions necessary to maintain the revolution \-- even if
+moreover, take any actions necessary to maintain the revolution -- even if
 these actions violated the basic principles required to have any form of
 meaningful workers' democracy and freedom. Thus the _"dictatorship of the
 proletariat"_ had long become equated with party power and, once in power, it
@@ -3181,7 +3180,7 @@ defend the revolution against reaction but from the working class itself, who
 do not have a high enough _"cultural level"_ to govern themselves. At best,
 their role is that of a passive supporter, for "[w]ithout the confidence of
 the class in the vanguard, without support of the vanguard by the class, there
-can be no talk of the conquest of power."_ While soviets _"are the only
+can be no talk of the conquest of power." While soviets _"are the only
 organised form of the tie between the vanguard and the class"_ it does not
 mean that they are organs of self-management. No, a _"revolutionary content
 can be given . . . only by the party. This is proved by the positive

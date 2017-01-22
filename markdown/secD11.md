@@ -547,7 +547,7 @@ ordered combat-ready troops and tanks onto the streets for an 'exercise' . . .
 Throughout the Aylwin presidency, Pinochet maintained an army 'shadow cabinet'
 that acted as a political pressure group."_ Unsurprisingly, the first post-
 Pinochet government _"often backed down in practice for the sake of social
-peace \-- or out of fear of endangering the transition to democracy. As a
+peace -- or out of fear of endangering the transition to democracy. As a
 result, Aylwin was unable to fulfil his promises of constitutional and
 institutional reforms that would reverse Pinochet's authoritarian legacy."_
 This was because the new government thought that the coup and dictatorship

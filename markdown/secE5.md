@@ -324,11 +324,12 @@ and appeals for a new sensibility undertake public activities to stop
 ecological degradation. Each surely does his or her part. But it will require
 a much greater effort -- and organised, clearly conscious, and forward-looking
 political **movement** \-- to meet the basic challenges posed by our
-aggressively **anti**-ecological society.
+aggressively **anti**-ecological society.  
+>  _
 
 >
 
-> "Yes, we as individuals should change our lifestyles as much as possible,
+> _"Yes, we as individuals should change our lifestyles as much as possible,
 but it is the utmost short-sightedness to believe that that is all or even
 primarily what we have to do. We need to restructure the entire society, even
 as we engage in lifestyle changes and single-issue struggles against

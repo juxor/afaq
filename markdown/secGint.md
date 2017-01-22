@@ -33,7 +33,7 @@ movement that can be used for this purpose. They think that with the
 individualist anarchists they have found such a thread. However, such an
 appropriation requires the systematic ignoring or dismissal of key aspects of
 individualist-anarchism (which, of course, the right-"libertarian" does).
-Somewhat ironically, this attempt by right-"libertarians" to exclude
+Somewhat ironically, this attempt by right-libertarians" to exclude
 individualist anarchism from socialism parallels an earlier attempt by state
 socialists to do the same. Tucker furiously refuted such attempts in an
 article entitled _"Socialism and the Lexicographers"_, arguing that _"the
@@ -45,7 +45,7 @@ Nevertheless, in the individualists we find anarchism coming closest to
 forefather of "libertarian" capitalism (of the minimal state variety). As
 Kropotkin summarised, their ideas were _"a combination of those of Proudhon
 with those of Herbert Spencer."_ [**Anarchism**, p. 296] What the
-"anarcho"-capitalist is trying to is to ignore Proudhon's influence (i.e. the
+"anarcho"-capitalist is trying is to ignore Proudhon's influence (i.e. the
 socialist aspect of their theories) which just leaves Spencer, who was a
 right-wing liberal. To reduce individualist anarchism so is to destroy what
 makes it a unique political theory and movement. While both Kropotkin and
@@ -79,7 +79,7 @@ anarchists were more aware of this contradiction as we will see). Therefore,
 social anarchists tend to think of individualist anarchism as an inconsistent
 form of anarchism, one which could become consistent by simply logically
 applying its own principles (see [section G.4](secG4.html)). On their part,
-many individualist anarchists simply denied that social anarchists where
+many individualist anarchists simply denied that social anarchists were
 anarchists, a position other anarchists refute (see [section
 G.2](secG2.html)). As such, this section can also be considered, in part, as a
 continuation of the discussion begun in [section A.3](secA3.html).
@@ -89,7 +89,7 @@ and anti-capitalism, it is likely that had he realised the authoritarian
 social relationships which contract theory tends to produce (and justify) when
 involving employing labour, he would have modified his views in such a way as
 to eliminate the contradiction (particularly as contracts involving wage
-labour directly contradicts his support for "occupancy and use"). It is
+labour directly contradict his support for "occupancy and use"). It is
 understandable why he failed to do so, however, given the social context in
 which he lived and agitated. In Tucker's America, self-employment was still a
 possibility on a wide scale (in fact, for much of the nineteenth century it
@@ -106,8 +106,8 @@ authoritarianism within the workplace (this was the conclusion of Proudhon as
 well as Kropotkin). Nevertheless, it is this inconsistency -- the non-
 anarchist aspect of individualist anarchism -- which right "libertarians" like
 Murray Rothbard select and concentrate on, ignoring the anti-capitalist
-context in which this aspect of individualist thought exists within. As David
-Wieck pointed out:
+context in which this aspect of individualist thought exists. As David Wieck
+pointed out:
 
 > _"Out of the history of anarchist thought and action Rothbard has pulled
 forth a single thread, the thread of individualism, and defines that
@@ -138,14 +138,14 @@ Saying that, it would be a mistake to suggest (as some writers have) that
 individualist anarchism can be viewed purely in American terms. While
 understanding the nature of American society and economy at the time is
 essential to understanding individualist anarchism, it would be false to imply
-that only individualist anarchism was the product of America conditions and
+that only individualist anarchism was the product of American conditions and
 subscribed to by Americans while social anarchism was imported from Europe by
 immigrants. After all, Albert and Lucy Parsons were both native-born Americans
 who became communist-anarchists while Emma Goldman and Alexander Berkman only
 become anarchists once they had arrived in America. Native-born Voltairine de
 Cleyre moved from individualist to communist anarchism. Josiah Warren may have
-been born in Boston, but he developed his anarchism after his experiences in a
-experimental community set up by Welsh socialist Robert Owen (who, in turn,
+been born in Boston, but he developed his anarchism after his experiences in
+an experimental community set up by Welsh socialist Robert Owen (who, in turn,
 was inspired by William Godwin's ideas). While Warren and Proudhon may have
 developed their ideas independently, American libertarians became aware of
 Proudhon and other European socialists as radical journals had correspondents
@@ -177,7 +177,7 @@ Most would have been prepared to admit and each tendency, in its own way,
 reflected aspects of American society and the drastic transformation it was
 going through at the time. Moreover, it was changes in American society which
 lead to the steady rise of social anarchism and its eclipse of individualist
-anarchism from the 1880s onwards. While there has been a tendency to stress
+anarchism from the 1880s onwards. While there has been a tendency to stress an
 individualist tendency in accounts of American anarchism due to its unique
 characteristics, only those _"without a background in anarchist history"_
 would think _"that the individualist anarchists were the larger segment of the
@@ -207,7 +207,7 @@ revolutionary branch of the movement. [Paul Avrich, **The Haymarket Tragedy**,
 p. 57] Equally ironic, given the appropriation of the term by the American
 right, the first anarchist journal to use the term "libertarian" (**La
 Libertaire, Journal du Mouvement Social**) was published in New York between
-1858 and 1861 by French communist-anarchist Joseph Djacque. [Max Nettlau, **A
+1858 and 1861 by French communist-anarchist Joseph Dejacque. [Max Nettlau, **A
 Short History of Anarchism**, pp. 75-6]
 
 All this is not to suggest that individualist anarchism does not have American
@@ -280,7 +280,7 @@ It is not a fitting tribute to the individualist anarchists that their ideas
 are today being associated with the capitalism that they so clearly despised
 and wished to abolish. As one modern day Individualist Anarchist argues:
 
-> _ "It is time that anarchists recognise the valuable contributions of . . .
+> _"It is time that anarchists recognise the valuable contributions of . . .
 individualist anarchist theory and take advantage of its ideas. It would be
 both futile and criminal to leave it to the capitalist libertarians, whose
 claims on Tucker and the others can be made only by ignoring the violent

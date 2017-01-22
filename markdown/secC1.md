@@ -44,11 +44,12 @@ rigor as understood in math departments is everything and empirical relevance
 (as understood in physics departments) is nothing . . . general equilibrium
 theory . . . using economic terms like 'prices', 'quantities', 'factors of
 production,' and so on, but that nevertheless is clearly and even scandalously
-unrepresentative of any recognisable economic system. . .
+unrepresentative of any recognisable economic system. . .  
+>  _
 
 >
 
-> "Perfect competition never did exist and never could exist because, even
+> _"Perfect competition never did exist and never could exist because, even
 when firms are small, they do not just take the price but strive to make the
 price. All the current textbooks say as much, but then immediately go on to
 say that the 'cloud-cuckoo' fantasyland of perfect competition is the
@@ -57,11 +58,11 @@ competition . . . But how can an idealised state of perfection be a benchmark
 when we are never told how to measure the gap between it and real-world
 competition? It is implied that all real-world competition is 'approximately'
 like perfect competition, but the degree of the approximation is never
-specified, even vaguely . . .
+specified, even vaguely . . . _
 
 >
 
-> "Think of the following typical assumptions: perfectly infallible, utterly
+> _"Think of the following typical assumptions: perfectly infallible, utterly
 omniscient, infinitely long-lived identical consumers; zero transaction costs;
 complete markets for all time-stated claims for all conceivable events, no
 trading of any kind at disequilibrium prices; infinitely rapid velocities of
@@ -172,7 +173,7 @@ Discontents**, p. 89, p. 90, p. 91 and p. 93] Even worse, the obvious
 conclusion from these events is more than just the ideological perspective of
 economists, it is that "the market" is not all-knowing as investors (like the
 experts) failed to see the statist policies so bemoaned by the ideologues of
-capitalism **after** 1997\.
+capitalism **after** 1997.
 
 This is not to say that the models produced by neoclassical economists are not
 wonders of mathematics or logic. Few people would deny that a lot of very
@@ -378,11 +379,12 @@ determined by household saving; and that the rate of interest is identical
 with the rate of profit on capital. Similarly, Piero Sraffa's demolition of
 the neoclassical production function in labour and 'capital' was admitted to
 be unanswerable, but it has not been allowed to affect the propagation of the
-'marginal productivity' theory of wages and profits.
+'marginal productivity' theory of wages and profits.  
+>  _
 
 >
 
-> "The most sophisticated practitioners of orthodoxy maintain that the whole
+> _"The most sophisticated practitioners of orthodoxy maintain that the whole
 structure is an exercise in pure logic which has no application to real life
 at all. All the same they give their pupils the impression that they are being
 provided with an instrument which is valuable, indeed necessary, for the
@@ -477,8 +479,8 @@ winning any intellectual battles (it was decisively refuted by leading
 Keynesians like Nicholas Kaldor who saw their predicted fears become true when
 it was applied -- see [section C.8](secC8.html)). Hopefully by analysing the
 myths of capitalist economics we will aid those fighting for a better world by
-giving them the means of counteracting those who claim the mantle of
-"science"_ to foster the _"economics of the rich"_ onto society.
+giving them the means of counteracting those who claim the mantle of "science"
+to foster the _"economics of the rich"_ onto society.
 
 To conclude, neo-classical economics shows the viability of an unreal system
 and this is translated into assertions about the world that we live in. Rather
@@ -550,11 +552,12 @@ always in a country a considerable number of people who cannot subsist a
 month, or even a fortnight, without earning a salary and accepting for that
 purpose the conditions of work imposed upon them by the State, or offered to
 them by those whom the State recognises as owners of land, factories,
-railways, etc., then the results will be so and so.'
+railways, etc., then the results will be so and so.'  
+>  _
 
 >
 
-> "So far academic political economy has been only an enumeration of what
+> _"So far academic political economy has been only an enumeration of what
 happens under these conditions -- without distinctly stating the conditions
 themselves. And then, having described **the facts** which arise in our
 society under these conditions, they represent to us these **facts** as rigid,
@@ -787,10 +790,10 @@ dominate and exploit future generations."_ [**At the Cafe**, p. 48]
 Then there is the strange co-incidence that "value free" economics generally
 ends up blaming all the problems of capitalism on workers. Unemployment?
 Recession? Low growth? Wages are too high! Proudhon summed up capitalist
-economic theory well when he stated that _"Political economy \-- that is,
+economic theory well when he stated that _"Political economy -- that is,
 proprietary despotism -- can never be in the wrong: it must be the
 proletariat."_ [**System of Economical Contradictions**, p. 187] And little
-has changed since 1846 (or 1776!) when it comes to economics "explaining"_
+has changed since 1846 (or 1776!) when it comes to economics "explaining"
 capitalism's problems (such as the business cycle or unemployment).
 
 As such, it is hard to consider economics as "value free" when economists
@@ -815,7 +818,7 @@ disaster and making windfall profits while, at the same time, attacking
 workers who decide to raise their wages by striking for being selfish. It is,
 of course, unlikely that they would let similar charges against bosses pass
 without comment. But what can you expect from an ideology which presents
-unemployment as a good thing (namely, increased leisure \-- see [section
+unemployment as a good thing (namely, increased leisure -- see [section
 C.1.5](secC1.html#secc15)) and being rich as, essentially, a **disutility**
 (the pain of abstaining from present consumption falls heaviest on those with
 wealth -- see [section C.2.7](secC2.html#secc27)).
@@ -1020,11 +1023,11 @@ are less generous that other academics in charitable giving. Undergraduate
 economics majors are more likely to defect in the classic prisoner's dilemma
 game that are other majors. And on other tests, students grow less honest --
 expressing less of a tendency, for example, to return found money -- after
-studying economics, but not studying a control subject like astronomy.
+studying economics, but not studying a control subject like astronomy. _
 
 >
 
-> "This is no surprise, really. Mainstream economics is built entirely on a
+> _"This is no surprise, really. Mainstream economics is built entirely on a
 notion of self-interested individuals, rational self-maximisers who can order
 their wants and spend accordingly. There's little room for sentiment,
 uncertainty, selflessness, and social institutions. Whether this is an
@@ -1105,7 +1108,7 @@ costs beyond it."_ [Joan Robinson, **Collected Economic Papers**, vol. 5, p.
 increasing returns to scale, then large firms would have cost advantages
 against small ones and would drive them out of business in competition. This
 would destroy the concept of perfect competition. However, the invention of
-the average cost curve allowed the theory to work as "proved"_ that a
+the average cost curve allowed the theory to work as "proved" that a
 competitive market could **not** become dominated by a few large firms, as
 feared.
 
@@ -1225,23 +1228,24 @@ As Steve Keen notes, this is extremely significant:
 > _ "Strange as it may seem . . . this is a very big deal. If marginal returns
 are constant rather than falling, then the neo-classical explanation of
 everything collapses. Not only can economic theory no longer explain how much
-a firm produces, it can explain nothing else.
+a firm produces, it can explain nothing else.  
+>  _
 
 >
 
-> "Take, for example, the economic theory of employment and wage determination
-. . . The theory asserts that the real wage is equivalent to the marginal
-product of labour . . . An employer will employ an additional worker if the
-amount the worker adds to output -- the worker's marginal product -- exceeds
-the real wage . . . [This] explains the economic predilection for blaming
-everything on wages being too high -- neo-classical economics can be summed
-up, as [John Kenneth] Galbraith once remarked, in the twin propositions that
-the poor don't work hard enough because they're paid too much, and the rich
-don't work hard enough because they're not paid enough . . .
+> _"Take, for example, the economic theory of employment and wage
+determination . . . The theory asserts that the real wage is equivalent to the
+marginal product of labour . . . An employer will employ an additional worker
+if the amount the worker adds to output -- the worker's marginal product --
+exceeds the real wage . . . [This] explains the economic predilection for
+blaming everything on wages being too high -- neo-classical economics can be
+summed up, as [John Kenneth] Galbraith once remarked, in the twin propositions
+that the poor don't work hard enough because they're paid too much, and the
+rich don't work hard enough because they're not paid enough . . . _
 
 >
 
-> "If in fact the output to employment relationship is relatively constant,
+> _"If in fact the output to employment relationship is relatively constant,
 then the neo-classical explanation for employment and output determination
 collapses. With a flat production function, the marginal product of labour
 will be constant, and it will **never** intersect the real wage. The output of
@@ -1600,8 +1604,8 @@ addition of production **can** help"_ economic analysis nor the conclusion
 that the _"idea that we should start at the level of the isolated individual
 is one which we may well have to abandon . . . If we aggregate over several
 individuals, such a model is unjustified."_ [Alan Kirman, _"The Intrinsic
-Limits of Modern Economy Theory",_ pp. 126-139, ** The Economic Journal**,
-Vol. 99, No. 395, p. 138, p. 136 and p. 138]
+Limits of Modern Economy Theory",_ pp. 126-139, The Economic Journal, Vol. 99,
+No. 395, p. 138, p. 136 and p. 138]
 
 So why all the bother? Why spend over 100 years driving economics into a dead-
 end? Simply because of political reasons. The advantage of the neoclassical
@@ -1855,22 +1859,23 @@ income in an industrialised economy. As Joan Robinson summarises:
 
 > _ "The neo-classical theory . . . pretends to derive a system of prices from
 the relative scarcity of commodities in relation to the demand for them. I say
-**pretend** because this system cannot be applied to capitalist production.
+**pretend** because this system cannot be applied to capitalist production.  
+>  _
 
 >
 
-> "The Walrasian conception of equilibrium arrived at by higgling and haggling
-in a market illuminates the account of prisoners of war swapping the contents
-of their Red Cross parcels.
+> _"The Walrasian conception of equilibrium arrived at by higgling and
+haggling in a market illuminates the account of prisoners of war swapping the
+contents of their Red Cross parcels. _
 
 >
 
-> "It makes sense also, with some modifications, in an economy of artisans and
-small traders . . .
+> _"It makes sense also, with some modifications, in an economy of artisans
+and small traders . . . _
 
 >
 
-> "Two essential characteristics of industrial capitalism are absent in these
+> _"Two essential characteristics of industrial capitalism are absent in these
 economic systems -- the distinction between income from work and income from
 property and the nature of investments made in the light of uncertain
 expectations about a long future."_ [**Collected Economic Papers**, vol. 5, p.
@@ -2063,16 +2068,17 @@ empirical evidence nor does it have any real logical basis (it is just an
 assumption). In fact, the evidence we do have points against it and in favour
 of the socialist analysis of unemployment and the labour market.
 
-One of the reasons why neoclassical economics is so blas about unemployment is
-because it argues that it should never happen. That capitalism has always been
-marked by unemployment and that this rises and falls as part of the business
-cycle is a inconvenient fact which neoclassical economics avoided seriously
-analysing until the 1930s. This flows from Say's law, the argument that supply
-creates its own demand. This theory, and its more formally put Walras' Law, is
-the basis on which the idea that capitalism could never face a general
-economic crisis is rooted in. That capitalism has **always** been marked by
-boom and bust has never put Say's Law into question except during the 1930s
-and even then it was quickly put back into the centre of economic ideology.
+One of the reasons why neoclassical economics is so blase about unemployment
+is because it argues that it should never happen. That capitalism has always
+been marked by unemployment and that this rises and falls as part of the
+business cycle is a inconvenient fact which neoclassical economics avoided
+seriously analysing until the 1930s. This flows from Say's law, the argument
+that supply creates its own demand. This theory, and its more formally put
+Walras' Law, is the basis on which the idea that capitalism could never face a
+general economic crisis is rooted in. That capitalism has **always** been
+marked by boom and bust has never put Say's Law into question except during
+the 1930s and even then it was quickly put back into the centre of economic
+ideology.
 
 For Say, _"every producer asks for money in exchange for his products only for
 the purpose of employing that money again immediately in the purchase of
@@ -2169,7 +2175,7 @@ most countries, the US has seen the largest increases (followed by the UK). In
 average worker on the shop floor. By 2002 a boss of a FTSE 100 company could
 expect to make 54 times as much as the typical worker. This means that while
 the wages for those on the shopfloor went up a little, once inflation is taken
-into account, the bosses wages arose from 200,000 per year to around 1.4m a
+into account, the bosses wages arose from £200,000 per year to around £1.4m a
 year. In America, the increase was even worse. In 1980, the ratio of CEO to
 worker pay 50 to 1. Twenty years later it was 525 to 1, before falling back to
 281 to 1 in 2002 following the collapse of the share price bubble. [Larry
@@ -2198,7 +2204,7 @@ of the economies and companies in question. In Britain trend growth was a bit
 more than 2% in 1980 and is still a bit more than 2% a quarter of a century
 later. A study of corporate performance in Britain and the United States
 looked at the companies that make up the FTSE 100 index in Britain and the
-S&amp;P; 500 in the US and found that executive income is rarely justified by
+S&amp;P 500 in the US and found that executive income is rarely justified by
 improved performance. [Julie Froud, Sukhdev Johal, Adam Leaver and Karel
 Williams, **Financialisation and Strategy: Narrative and Number** ] Rising
 stock prices in the 1990s, for example, were the product of one of the
@@ -2474,7 +2480,7 @@ The Austrian school has a radically different perspective. This school, so
 named because its founders were Austrian, is passionately pro-capitalist and
 argues against **any** form of state intervention (bar, of course, the
 definition and defence of capitalist property rights and the power that these
-create). Economists of this school include Eugen von Bhm-Bawerk, Ludwig von
+create). Economists of this school include Eugen von Bohm-Bawerk, Ludwig von
 Mises, Murray Rothbard, Israel Kirzner and Frederick von Hayek (the latter is
 often attacked by other Austrian economists as not being sufficiently robust
 in his opposition to state intervention). It is very much a minority school.
@@ -2520,7 +2526,7 @@ enough, economists of this school often maintain that while equilibrium does
 not exist their analysis is rooted on two key markets being in such a state:
 the labour market and the market for credit. The reason for these strange
 exceptions to their general assumption is, fundamentally, political. The
-former is required to deflect claims that "pure"_ capitalism would result in
+former is required to deflect claims that "pure" capitalism would result in
 the exploitation of the working class, the latter is required to show that
 such a system would be stable.
 
@@ -2537,7 +2543,7 @@ Studies**, p. 201] Therefore, we see the usual embrace of equilibrium theory
 to defend capitalism against the evils it creates even by those who claim to
 know better.
 
-Of course, the need to argue that there would be full employment under "pure"_
+Of course, the need to argue that there would be full employment under "pure"
 capitalism is required to maintain the fiction that everyone will be better
 off under it. It is hard to say that working class people will benefit if they
 are subject to high levels of unemployment and the resulting fear and
@@ -2732,7 +2738,7 @@ capitalism rests on two things: "freedom" and anything else would be worse.
 Neither are particularly convincing.
 
 Taking the first option, this superficially appears appealing, particularly to
-anarchists. However this stress on "freedom" -- the freedom of individuals to
+anarchists. However this stress on "freedom" \-- the freedom of individuals to
 make their own decisions -- flounders on the rocks of capitalist reality. Who
 can deny that individuals, when free to choose, will pick the option they
 consider best for themselves? However, what this praise for individual freedom

@@ -1,6 +1,6 @@
 #
 
-* Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1.
+  * Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1.
 
 There have been a few "anarchist" FAQ's produced before. Bryan Caplan's
 anarchism FAQ is one of the more recent. While appearing to be a "neutral"
@@ -426,7 +426,7 @@ their right would be respected (although, of course, anarchists would seek to
 convince those who live in such a regime of the benefits of anarchism!). As
 Malatesta pointed out, _"free and voluntary communism is ironical if one has
 not the right and the possibility to live in a different regime, collectivist,
-mutualist, individualist \-- as one wishes, always on condition that there is
+mutualist, individualist -- as one wishes, always on condition that there is
 no oppression or exploitation of other"_ as _"it is clear that all, and only,
 those ways of life which respect freedom, and recognise that each individual
 has an equal right to the means of production and to the full enjoyment of the
@@ -497,10 +497,11 @@ about within a "inegalitarian" legal framework! Thus, given that everything
 would be privatised, dissenters could only experiment if they could afford it
 **and** accepted the legal system based on capitalist property rights (and, of
 course, survive the competition of capitalist companies within the capitalist
-framework). As we have argued in sections [B.4](secB4.html) and [F.3why**
-should we have to **pay** the stealers of the earth for the privilege to life
-our own lives? Caplan, in effect, ignores the barriers to experimentation in
-his system while distorting the anarchist position.
+framework). As we have argued in sections [B.4](secB4.html) and
+[F.3](secF3.html) **why** should we have to **pay** the stealers of the earth
+for the privilege to life our own lives? Caplan, in effect, ignores the
+barriers to experimentation in his system while distorting the anarchist
+position.
 
 ## 5 How would anarcho-capitalism work?
 
@@ -563,7 +564,7 @@ the have-nots (as history again and again shows).
 Moreover, the capitalism can easily lead to resources being allocated to the
 most profitable uses rather than those which are most needed by individuals. A
 classic example is in the case of famines. Amartya Sen (who won the 1998 Nobel
-Prize for economics) developed an _**"entitlement"_** approach to the study of
+Prize for economics) developed an _**"entitlement"**_ approach to the study of
 famine. This approach starts with the insight that having food available in a
 country or region does not mean everyone living there is "entitled" to it. In
 market economies, people are entitled to food according to their ability to
@@ -669,7 +670,7 @@ high progress for deregulated systems seems at odds with this evidence.
 As far as technological innovation goes, it is also not clear that
 deregulation has aided that process. Much of our modern technology owns its
 origins to the US Pentagon system, in which public money is provided to
-companies for military R&amp;D; purposes. Once the technology has been proven
+companies for military R&amp;D purposes. Once the technology has been proven
 viable, the companies involved can sell their public subsidised products for
 private profit. The computer industry (as we point out in [section
 J.4.7](secJ4.html#secj47)) is a classic example of this -- indeed it is
@@ -802,7 +803,7 @@ proletaire class, property excommunicates us!"_ [Proudhon, **What is
 Property?**, p. 105]
 
 That the law code of the state is being defended by private companies is
-hardly a step towards anarchy. This indicates exactly why an "anarcho"-
+hardly a step towards anarchy. This indicates exactly why an "anarcho"\-
 capitalist system will be a collection of private states united around a
 common, capitalistic, and hierarchical law code. In addition, this system does
 not abolish the monopoly of government over society represented by the
@@ -972,7 +973,7 @@ cannot survive or it can. If it cannot then the very reason why it cannot
 ensures that collusion is built into the market and while the system is
 peaceful it is based on an effective monopoly of colluding firms who charge
 monopoly profits. This, in effect, is a state under the "anarcho"-capitalist's
-definition as a property owner cannot freely select their own "protection" --
+definition as a property owner cannot freely select their own "protection" \--
 they are limited to the firms (and laws) provided by the co-operating firms.
 Or an "aggressive" firm can survive, violence is commonplace and chaos
 ensures.
@@ -1259,7 +1260,7 @@ economic, legal, and political systems would be structured in such as way as
 to automatically discourage their growth (in addition, capitalist firms and
 the rich would also have an advantage in that they would still own and control
 the wealth they currently have which are a result of previous "initiations of
-force". This would give them an obvious advantage on the "free-market" -- an
+force". This would give them an obvious advantage on the "free-market" \-- an
 advantage which would be insurmountable).
 
 As we explain in more detail in [ section J.5.11](secJ5.html#secj511), the

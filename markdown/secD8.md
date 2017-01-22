@@ -61,7 +61,7 @@ development at taxpayer expense, which often yields "spin-offs" with great
 commercial potential as consumer products (e.g. computers). Needless to say,
 all the profits go to the defence contractors and to the commercial companies
 who buy licences to patented technologies from them, rather than being shared
-with the public which funded the R&amp;D; that made the profits possible. Thus
+with the public which funded the R&amp;D that made the profits possible. Thus
 militarism is a key means of securing technological advances within
 capitalism.
 
@@ -73,10 +73,10 @@ employment . . In most of them, basic research and technological progress were
 closely linked to the expanding military sector. The major innovation in the
 1950s was electronics . . . [which] increased its output 15 percent per year.
 It was of critical importance in workplace automation, with the federal
-government providing the bulk of the research and development (R&amp;D;)
+government providing the bulk of the research and development (R&amp;D)
 dollars for military-orientated purposes. Infrared instrumentation, pressure
 and temperature measuring equipment, medical electronics, and thermoelectric
-energy conversion all benefited from military R&amp;D.; By the 1960s indirect
+energy conversion all benefited from military R&amp;D. By the 1960s indirect
 and direct military demand accounted for as much as 70 percent of the total
 output of the electronics industry. Feedbacks also developed between
 electronics and aircraft, the second growth industry of the 1950s. By 1960 . .
@@ -84,22 +84,22 @@ electronics and aircraft, the second growth industry of the 1950s. By 1960 . .
 level, and over 90 percent of its output went to the military. Synthetics
 (plastics and fibres) was another growth industry owning much of its
 development to military-related projects. Throughout the 1950s and 1960s,
-military-related R&amp;D;, including space, accounted for 40 to 50 percent of
-total public and private R&amp;D; spending and at least 85% of federal
+military-related R&amp;D, including space, accounted for 40 to 50 percent of
+total public and private R&amp;D spending and at least 85% of federal
 government share."_ [Richard B. Du Boff, **Accumulation and Power**, pp.
 103-4]
 
 As another economist notes, it is _"important to recognise that the role of
 the US federal government in industrial development has been substantial even
 in the post-war period, thanks to the large amount of defence-related
-procurements and R&amp;D; spending, which have had enormous spillover effects.
-The share of the US federal government in total R&amp;D; speanding, which was
+procurements and R&amp;D spending, which have had enormous spillover effects.
+The share of the US federal government in total R&amp;D speanding, which was
 only 16 per cent in 1930, remained between one-half and two-thirds during the
 postwar years. Industries such as computers, aerospace and the internet, where
 the USA still maintains an international edge despite the decline in its
 overall technological leadership, would not have existed without defence-
-related R&amp;D; funding by the country's federal government."_ Moreover, the
-state also plays a _"crucial role"_ in supporting R&amp;D; in the
+related R&amp;D funding by the country's federal government."_ Moreover, the
+state also plays a _"crucial role"_ in supporting R&amp;D in the
 pharmaceutical industry. [Ha-Joon Chang, **Kicking Away the Ladder**, p. 31]
 
 Not only this, government spending on road building (initially justified using

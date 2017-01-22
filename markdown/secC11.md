@@ -334,7 +334,7 @@ Pinochet's state took a more active role in promoting economic activity. For
 example, it developed new export industries which _"benefited from a series of
 subsidies, privatisations, and deregulations that allowed for unrestricted
 exploitation of natural resources of limited renewability. Equally important
-were low wages, great flexibility of employers vis--vis workers, and high
+were low wages, great flexibility of employers vis-a-vis workers, and high
 levels of unemployment."_ [Collins and Lear, **Op. Cit.**, p. 20] The forestry
 sector was marked by government hand-outs to the already rich. Joseph Collins
 and John Lear argue that the neoliberals' _"stated goals were to curtail
@@ -709,7 +709,7 @@ means that the deeper the recession, the higher the subsequent growth in the
 up-turn. So to see if Chile's economic growth was a miracle and worth the
 decrease in income for the many, we need to look at whole business cycle,
 rather than for the upturn. If we do this we find that Chile had the second
-worse rate of growth in Latin America between 1975 and 1980\. The average
+worse rate of growth in Latin America between 1975 and 1980. The average
 growth in GDP was 1.5% per year between 1974 and 1982, which was lower than
 the average Latin American growth rate of 4.3% and lower than the 4.5% of
 Chile in the 1960's. [Rayack, **Op. Cit.**, p. 64]
@@ -946,7 +946,7 @@ change its nature -- only who has it. Pinochet's regime saw a marked shift of
 governmental power away from protection of individual rights to a protection
 of capital and property rather than an abolition of that power altogether. As
 would be expected, only the wealthy benefited. The working class were
-subjected to attempts to create a "perfect labour market" -- and only terror
+subjected to attempts to create a "perfect labour market" \-- and only terror
 can turn people into the atomised commodities such a market requires. Perhaps
 when looking over the nightmare of Pinochet's regime we should ponder these
 words of Bakunin in which he indicates the negative effects of running society
@@ -1032,8 +1032,8 @@ have portrayed the boom natural-resource extraction as the result of the "free
 market," in reality private capital lacked the initiative and foresight to
 develop these industries and CORFO provided aid as well as credits and
 subsidies to encourage it. [James M. Cypher, _"Is Chile a Neoliberal
-Success?"_, **Dollars & Sense**, September/October 2004] Then there is the
-role of Fundacin Chile, a public-private agency designed to develop firms in
+Success?"_, **Dollars &amp; Sense**, September/October 2004] Then there is the
+role of Fundacion Chile, a public-private agency designed to develop firms in
 new areas where private capital will not invest. This pays for research and
 development before selling its stake to the private sector once a project
 becomes commercially viable. [Jon Jeter, _"A Smoother Road To Free Markets,"_

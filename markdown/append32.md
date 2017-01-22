@@ -65,7 +65,7 @@ the roots of their racial heritage."_ [**Op. Cit.**, pp. 5-6]
 
 Hence the _"religious"_ nature of anarchism -- it was one of the ways an
 uncomprehending member of the middle-class could explain working class
-discontent and rebellion. Unfortunately, this "explanation"_ has become common
+discontent and rebellion. Unfortunately, this "explanation" has become common
 place in history books (partly reflected academics class interest too and lack
 of understanding of working class interests, needs and hopes).
 
@@ -95,7 +95,7 @@ revolutionary elan, the anarchists developed a rational strategy of
 revolution, channelling their energies into organising a trade union movement
 that could be used as a vehicle for social and economic change. Moreover, as
 well as a clear idea of how to change society they had a clear vision of what
-sort of society they desired \-- one built around collective ownership and
+sort of society they desired -- one built around collective ownership and
 federations of workers' associations and communes.
 
 Therefore the idea that anarchism can be explained in _"religious"_ terms is
@@ -332,11 +332,11 @@ progress toward mass parties and central authority. In short, he explains how
 anarchosyndicalists were presumed to act rather than what actually took place,
 and the uprising at Casa Viejas was used to prove an already established point
 of view. Unfortunately, his evolutionary model misled him on virtually every
-point."_ [**Op. Cit.**, p. 271] We should also note his "model"_ is
-essentially Marxist ideology -- namely, Marx's assertion that his aim for mass
-political parties expressed the interests of the working class and all other
-visions were the products of sectarians. Mintz also points out that Hobsbawm
-does not live up to his own model:
+point."_ [**Op. Cit.**, p. 271] We should also note his "model" is essentially
+Marxist ideology -- namely, Marx's assertion that his aim for mass political
+parties expressed the interests of the working class and all other visions
+were the products of sectarians. Mintz also points out that Hobsbawm does not
+live up to his own model:
 
 > _"While Hobsbawm's theoretical model is evolutionary, in his own treatment
 anarchism is often regarded as unchanging from one decade to the other. In his
@@ -409,53 +409,54 @@ equally wrong. Mintz gives an excellent summary:
 
 > _"Since kinship is a key feature in 'primitive' societies, according to
 Hobsbawm, it was a major factor in the leadership of the sindicato [union] in
-Casas Viejas.
+Casas Viejas.  
+>  _
 
 >
 
-> "There is no evidence that kinship had anything to do with leadership in the
-anarchist movement in Casa Viejas or anywhere else. The reverse would be
+> _"There is no evidence that kinship had anything to do with leadership in
+the anarchist movement in Casa Viejas or anywhere else. The reverse would be
 closer to the truth. Since the anarchists expressed belief in universal
 brotherhood, kinship ties were often undermined. In times of strike or in
 carrying out any decision of the collective membership, obreros conscientes
 sometimes had to act counter to their kinship demands in order to keep faith
-with the movement and with their companeros.
+with the movement and with their companeros. _
 
 >
 
-> "Hobsbawm's specific examples are unfortunately based in part on errors of
-fact. . .
+> _"Hobsbawm's specific examples are unfortunately based in part on errors of
+fact. . . _
 
 >
 
-> "Hobsbawm's model [also] requires a charismatic leader. Accordingly, the
+> _"Hobsbawm's model [also] requires a charismatic leader. Accordingly, the
 inspired leader of the uprising is said to be 'old Curro Cruz ('Six Fingers')
-who issued the call for revolution . . . '
+who issued the call for revolution . . . ' _
 
 >
 
-> [. . .]
+> _[. . .] _
 
 >
 
-> "This celebration of Seisdedo's role ['Six Fingers'], however, ignores the
+> _"This celebration of Seisdedo's role ['Six Fingers'], however, ignores the
 unanimous view of townspeople of every class and political persuasion, who
 assert that the old man was apolitical and had nothing to do with the uprising
 . . . every observer and participant in the uprising agrees that Seisdedos was
 not the leader and was never anything other than a virtuous charcoal burner
-with but a slight interest in anarchosyndicalism.
+with but a slight interest in anarchosyndicalism. _
 
 >
 
-> [. . .]
+> _[. . .] _
 
 >
 
-> "Should the role of charismatic leader be given to someone else in the town?
-This was not a case of mistaken identity. No single person in Casas Viejas
-could lay clam to dominating the hearts and minds of the men. . .The sindicato
-was governed by a junta. Among the cast of characters there is no sign of
-charismatic leadership . . ."_ [**Op. Cit.**, pp. 274-6]
+> _"Should the role of charismatic leader be given to someone else in the
+town? This was not a case of mistaken identity. No single person in Casas
+Viejas could lay clam to dominating the hearts and minds of the men. . .The
+sindicato was governed by a junta. Among the cast of characters there is no
+sign of charismatic leadership . . ."_ [**Op. Cit.**, pp. 274-6
 
 Mintz sums up by stating _"Hobsbawm's adherence to a model, and the
 accumulation of misinformation, led him away from the essential conflicts
@@ -697,11 +698,11 @@ critics seem to recognise. It has no bureaucratic apparatus, no membership
 cards or dues, and no headquarters with paid officials, secretaries, and
 clerks. . . They jealously guarded the autonomy of their affinity groups from
 the authority of higher organisational bodies -- a state of mind hardly
-conducive to the development of a tightly knit, vanguard organisation.
+conducive to the development of a tightly knit, vanguard organisation. _
 
 >
 
-> "The FAI, moreover, was not a politically homogeneous organisation which
+> _"The FAI, moreover, was not a politically homogeneous organisation which
 followed a fixed 'line' like the Communists and many Socialists. It had no
 official program by which all **faistas** could mechanically guide their
 actions."_ [**Op. Cit.**, p. 224]
@@ -715,7 +716,8 @@ national plenum of January-February 1936:
 
 > _"The Regional Committee [of Aragon, Rioja, and Navarra] is completely
 neglected by the majority of the militants because they are absorbed in the
-larger activities of the CNT"_
+larger activities of the CNT"  
+>  _
 
 And:
 
@@ -781,7 +783,7 @@ Therefore, Morrow is re-cycling an argument which was produced by the
 reformist wing of the CNT after it had lost influence in the union rank-and-
 file. Perhaps he judges the FAI by his own standards? After all, the aim of
 Leninists is for the vanguard party to control the labour unions in their
-countries. Anarchists reject such a vision and believe in union autonomy \--
+countries. Anarchists reject such a vision and believe in union autonomy --
 influence of political parties and groups should only exist in as much as they
 influence the rank-and-file who control the union. Rather than aim to control
 the CNT, the FAI worked to influence its membership. In the words of Francisco
@@ -818,7 +820,7 @@ refutation of the usual Marxist and Liberal inventions of the activities and
 nature of the FAI).
 
 In addition, Morrow's picture of the FAI implicitly paints the CNT as a mere
-"transmission belt"_ for that organisation (and so a re-production of the
+"transmission belt" for that organisation (and so a re-production of the
 Bolshevik position on the relationship of the labour unions and the
 revolutionary party). Such a picture, however, ignores the CNT's character as
 a non-hierarchical, democratic (self-managed) mass movement which had many
@@ -847,24 +849,24 @@ Partly it is the inability of the Communist Party and its Trotskyist off-
 shoots to dominate the CNT which explains Morrow's comments. Seeing anarchism
 as _"petty bourgeois"_ it is hard to combine this with the obvious truth that
 a mass, revolutionary, workers' union could be so heavily influenced by
-anarchism rather than Marxism. Hence the need for FAI (or anarchist)
-"control"_ of the CNT. It allows Trotskyists ignore dangerous ideological
-questions. As J. Romero Maura notes, the question why anarchism influenced the
-CNT _"in fact raises the problem why the reformist social democratic, or
-alternatively the communist conceptions, did not impose themselves on the CNT
-as they managed to in most of the rest of Europe. This question . . . is based
-on the false assumption that the anarcho-syndicalist conception of the
-workers' struggle in pre-revolutionary society was completely at odds with
-what the **real** social process signified (hence the constant reference to
-religious', 'messianic', models as explanations)."_ He argues that the
-_"explanation of Spanish anarcho-syndicalist success in organising a mass
-movement with a sustained revolutionary **elan** should initially be sought in
-the very nature of the anarchist concept of society and of how to achieve
-revolution."_ [J. Romero Maura, _"The Spanish Case"_, in **Anarchism Today**,
-D. Apter and J. Joll (eds.), p. 78 and p. 65] Once we do that, we can see the
-weakness of Morrow's (and others) _"Myth of the FAI"_ \-- having dismissed the
-obvious reason for anarchist influence, namely its practicality and valid
-politics, there can only be "control by the FAI."
+anarchism rather than Marxism. Hence the need for FAI (or anarchist) "control"
+of the CNT. It allows Trotskyists ignore dangerous ideological questions. As
+J. Romero Maura notes, the question why anarchism influenced the CNT _"in fact
+raises the problem why the reformist social democratic, or alternatively the
+communist conceptions, did not impose themselves on the CNT as they managed to
+in most of the rest of Europe. This question . . . is based on the false
+assumption that the anarcho-syndicalist conception of the workers' struggle in
+pre-revolutionary society was completely at odds with what the **real** social
+process signified (hence the constant reference to religious', 'messianic',
+models as explanations)."_ He argues that the _"explanation of Spanish
+anarcho-syndicalist success in organising a mass movement with a sustained
+revolutionary **elan** should initially be sought in the very nature of the
+anarchist concept of society and of how to achieve revolution."_ [J. Romero
+Maura, _"The Spanish Case"_, in **Anarchism Today**, D. Apter and J. Joll
+(eds.), p. 78 and p. 65] Once we do that, we can see the weakness of Morrow's
+(and others) _"Myth of the FAI"_ \-- having dismissed the obvious reason for
+anarchist influence, namely its practicality and valid politics, there can
+only be "control by the FAI."
 
 However, the question of affiliation of the CNT to the Comintern is worth
 discussing as it indicates the differences between anarchists and Leninists.
@@ -999,12 +1001,12 @@ happened during this period. Rather than resort to _"fraction work"_ to
 _"recapture"_ the CNT, the policies of the CNT in 1919 and 1922 were
 identical. Moreover, the decision to disaffiliate from the Comintern was made
 by a confederal meeting of mandated delegates representing the rank-and-file
-as was the original. The anarchists did not "capture"_ the CNT, rather they
+as was the original. The anarchists did not "capture" the CNT, rather they
 continued to influence the membership of the organisation as they had always
-done. Lastly, the concept of "capture"_ displays no real understanding of how
+done. Lastly, the concept of "capture" displays no real understanding of how
 the CNT worked -- each syndicate was autonomous and self-managed. There was no
 real officialdom to take over, just administrative posts which were unpaid and
-conducted after working hours. To "capture"_ the CNT was impossible as each
+conducted after working hours. To "capture" the CNT was impossible as each
 syndicate would ignore any unrepresentative minority which tried to do so.
 
 However, Morrow's comments allow us to indicate some of the key differences
@@ -1053,23 +1055,24 @@ syndicate, which the CNT had established in 1918, was a constant challenge to
 the Socialists' grip on the Madrid labour movement. Like the construction
 workers' syndicate, it was a CNT enclave in a solidly UGT centre. Accordingly,
 the government and the Socialist Party found no difficulty in forming a common
-front to break the strike and weaken CNT influence.
+front to break the strike and weaken CNT influence.  
+>  _
 
 >
 
-> "The Ministry of Labour declared the strike illegal and the Ministry of the
+> _"The Ministry of Labour declared the strike illegal and the Ministry of the
 Interior called out the Civil Guard to intimidate the strikers . . . Shedding
 all pretence of labour solidarity, the UGT provided the **Compania
 Telefonica** with scabs while **El Socialista**, the Socialist Party organ,
 accused the CNT of being run by **pistoleros.** Those tactics were successful
 in Madrid, where the defeated strikers were obliged to enrol in the UGT to
 retain their jobs. So far as the Socialists were concerned, the CNT's appeals
-for solidarity had fallen on deaf ears. . .
+for solidarity had fallen on deaf ears. . . _
 
 >
 
-> "In Seville, however, the strike began to take on very serious dimensions. .
-. on July 20, a general strike broke out in Seville and serious fighting
+> _"In Seville, however, the strike began to take on very serious dimensions.
+. . on July 20, a general strike broke out in Seville and serious fighting
 erupted in the streets. This strike . . . stemmed from the walkout of the
 telephone workers . . . pitched battles took place in the countryside around
 the city between the Civil Guard and the agricultural workers. Maura, as
@@ -1169,7 +1172,7 @@ any prospect of collaboration between the two unions for years to come."_
 Of course, such historical context would confuse readers with facts and so
 goes unmentioned by Morrow.
 
-In addition, there was another reason for opposing the "workers' alliances"_
+In addition, there was another reason for opposing the "workers' alliances"
 \-- particularly an alliance between the UGT and CNT. Given the history of UGT
 and CNT pacts plus the actions of the UGT and socialists in the previous
 government it was completely sensible and politically principled. This reason
@@ -1236,7 +1239,7 @@ of the organisations involved."_ [**Op. Cit.**, pp. 27-8]
 As can be seen, this closely follows Durruti's arguments. Bar the reference of
 _"labour parties,"_ Morrow's _"indispensable instrument"_ is identical to
 Durruti's and other anarchist's arguments against taking part in the "Workers'
-Alliances"_ created by the UGT and the creation of genuine alliances from the
+Alliances" created by the UGT and the creation of genuine alliances from the
 bottom-up. Thus Morrow faults the CNT for trying to force the UGT to form a
 **real** workers' alliance by not taking part in what Morrow himself admits
 were _"little more than liaison committees between the leadership"_! Also,
@@ -1337,7 +1340,7 @@ workplace and community assembles were **not** formed.
 
 Secondly, the CNT policy of "Unity, yes, but by the rank-and-file" was a valid
 method of "from the bottom up solidarity." This can be seen from just two
-examples -- Aragon in 1934 and Madrid in 1936\. In Aragon, there was a
+examples -- Aragon in 1934 and Madrid in 1936. In Aragon, there was a
 _"general strike that had totally paralysed the Aragonese capital throughout
 April 1935, ending . . . on 10 May. . . the Zaragoza general strike had been a
 powerful advertisement of the value of a united working-class front . . .
@@ -1370,7 +1373,7 @@ understand this allegation, you have to understand the background to October
 1934, and the split in the workers' movement between the CNT and the UGT
 (unions controlled by the reformist Socialist Party, the PSOE).
 
-Socialist conversion to "revolution"_ occurred only after the elections of
+Socialist conversion to "revolution" occurred only after the elections of
 November 1933. In the face of massive and bloody repression (see [last
 section](append32.html#app5)), the CNT-FAI had agitated for a mass abstention
 at the polling booth. Faced with this campaign, the republicans and socialists
@@ -1407,7 +1410,7 @@ branches to take part in the alliances if they could guarantee Party control
 Socialists, _"in spite of professions to the contrary, wished to keep
 socialist domination of the **Alianza Obrera.**"_ [**Spain: 1808-1975**, pp.
 634-5f] Only one month after the first alliance was set up, one of its founder
-members -- the Socialist Union of Catalonia \-- left in protest over PSOE
+members -- the Socialist Union of Catalonia -- left in protest over PSOE
 domination.
 
 During October the only real centre of resistance was in Asturias (on the
@@ -1531,7 +1534,7 @@ Trotskyism as a revolutionary theory quite well.
 
 In Madrid, the revolt was slightly less farcical. Here the CNT joined the
 general strike. However, the UGT gave the government 24 hours notice of the
-general strike, allowing the state to round up the Socialist "leaders,"_ seize
+general strike, allowing the state to round up the Socialist "leaders," seize
 arm depots and repress the insurrection before it got started [Morrow, **Op.
 Cit.**, p. 30]. As Bookchin argues, the _"massive strike in Madrid, which was
 supported by the entire left, foundered for want of arms and a revolutionary
@@ -1594,7 +1597,7 @@ order for the uprising -- and the Socialist-controlled Provincial Committee
 starved the CNT of arms. This despite the CNT having over 22 000 affiliates in
 the area (to the UGT's 40 000). We discuss the activities of the CNT during
 the revolt in Asturias later (in [section 20](append32.html#app20)) and so
-will do so here.
+will not do so here.
 
 Morrow states that the _"backbone of the struggle was broken . . . when the
 refusal of the CNT railroad workers to strike enabled the government to
@@ -1622,7 +1625,7 @@ on the use of troops from Africa . . . they shipped Moorish mercenaries to
 Asturias."_ [**The Coming of the Spanish Civil War**, p. 177] Gabriel Jackson
 argues that the government _"feared to send in the regular Army because of the
 strong possibility that the Spanish conscripts would refuse to fire on the
-revolutionaries \-- or even desert to them. The War Minister . . . , acting on
+revolutionaries -- or even desert to them. The War Minister . . . , acting on
 the advice of Generals Franco and Goded, sent in contingents of the Morrish
 **regulares** and of the Foreign Legions."_ These troops arrived _"at the
 ports of Aviles and Gijon."_ [**The Spanish Republic and the Civil War:
@@ -1665,11 +1668,12 @@ Heywood:
 the state's task easier was the underlying attitude of the Socialists. For all
 the talk of united action by the Left, the Socialists still wished to dominate
 any combined moves. Unwilling to cede its traditional hegemony, the PSOE
-rendered the Alianze obrera necessarily ineffective . . .
+rendered the Alianze obrera necessarily ineffective . . .  
+>  _
 
 >
 
-> "Thus, there was little genuine unity on the Spanish Left. Moreover, the
+> _"Thus, there was little genuine unity on the Spanish Left. Moreover, the
 strike was very poorly planned. Differences within the PSOE meant that there
 was no agreement even as to the programme of the strike. For the . . .
 leftists, it represented the initiation of a full-scale Socialist revolution;
@@ -1691,7 +1695,7 @@ alternative explanation for the revolt's failure is possible.
 
 However, even assuming Morrow's claims that the failure of the CNT rail
 workers' union to continue striking in the face of a completely farcical
-"revolt"_ played a key role in its defeat were true, it does not explain many
+"revolt" played a key role in its defeat were true, it does not explain many
 facts. Firstly, the government had declared martial law -- placing the railway
 workers in a dangerous position. Secondly, as Jerome R. Mintz points out,
 railway workers _"were represented by two competing unions -- the Sindicato
@@ -1756,13 +1760,13 @@ Its hard to work out where to start in this travesty of history. We will start
 with the simple errors. The CNT **did** take part in the struggle in Madrid.
 As Paul Preston notes, in Madrid the _"Socialists and Anarchists went on
 strike"_ [**The Coming of the Spanish Civil War**, p. 174] In Catalonia, as
-indicated above, the "insurrectionary movement"_ in Catalonia was organised
-and lead by Catalan Fascists, who shot upon CNT members when they tried to
-open their union halls and who arrested CNT and FAI militants the night before
-the uprising. Moreover, the people organising the revolt had been repressing
-the CNT for months previously. Obviously attempts by Catalan Fascists to
-become a government should be supported by socialists, including Trotskyists.
-Moreover, the UGT and PSOE had worked with the quasi-fascist Primo do Rivera
+indicated above, the "insurrectionary movement" in Catalonia was organised and
+lead by Catalan Fascists, who shot upon CNT members when they tried to open
+their union halls and who arrested CNT and FAI militants the night before the
+uprising. Moreover, the people organising the revolt had been repressing the
+CNT for months previously. Obviously attempts by Catalan Fascists to become a
+government should be supported by socialists, including Trotskyists. Moreover,
+the UGT and PSOE had worked with the quasi-fascist Primo do Rivera
 dictatorship during the 1920s. The hypocrisy is clear. So much for the CNT
 standing _"to one side, arguing that this was a 'struggle between politicians'
 and did not concern the workers even though this was a strike against a move
@@ -1783,26 +1787,26 @@ Morrow has a lot to answer for.
 ## 7\. Were the Friends of Durruti Marxists?
 
 It is sometimes claimed that the **Friends of Durruti** Group which formed
-during the Spanish Revolution were Marxists or represented a "break"_ with
+during the Spanish Revolution were Marxists or represented a "break" with
 anarchism and a move towards Marxism. Both these assertions are false. We
-discuss whether the Friends of Durruti (FoD) represented a "break"_ with
+discuss whether the Friends of Durruti (FoD) represented a "break" with
 anarchism in the [following section](append32.html#app8). Here we indicate
 that claims of the FoD being Marxists are false.
 
 The Friends of Durruti were formed, in March 1937, by anarchist militants who
-had refused to submit to Communist-controlled "militarisation"_ of the
-workers' militias. During the Maydays -- the government attack against the
-revolution two months later -- the Friends of Durruti were notable for their
-calls to stand firm and crush the counter-revolution. During and after the May
-Days, the leaders of the CNT asserted that the FoD were Marxists (which was
-quite ironic as it was the CNT leaders who were acting as Marxists in Spain
-usually did by joining with bourgeois governments). This was a slander, pure
-and simple.
+had refused to submit to Communist-controlled "militarisation" of the workers'
+militias. During the Maydays -- the government attack against the revolution
+two months later -- the Friends of Durruti were notable for their calls to
+stand firm and crush the counter-revolution. During and after the May Days,
+the leaders of the CNT asserted that the FoD were Marxists (which was quite
+ironic as it was the CNT leaders who were acting as Marxists in Spain usually
+did by joining with bourgeois governments). This was a slander, pure and
+simple.
 
 The best source to refute claims that the FoD were Marxists (or becoming
 Marxist) or that they were influenced by, or moved towards, the Bolshevik-
 Leninists is Agustin Guillamon's book **The Friends of Durruti Group:
-1937-1939**. Guillamon is a Marxist (of the "left-communist"_ kind) and no
+1937-1939**. Guillamon is a Marxist (of the "left-communist" kind) and no
 anarchist (indeed he states that the _"Spanish Revolution was the tomb of
 anarchism as a revolutionary theory of the proletariat."_ [p. 108]). That
 indicates that his account can be considered objective and not anarchist
@@ -1831,7 +1835,7 @@ anti-fascist unity and the need to adapt to circumstances."_ [p. 107]
 In other words, they wanted to return the CNT _"to its class struggle roots."_
 [**Ibid.**] Indeed, Balius (a leading member of the group and writer of its
 1938 pamphlet **Towards a Fresh Revolution**) was moved to challenge the
-charges of "marxist"_ levelled at him:
+charges of "marxist" levelled at him:
 
 > _"I will not repay defamatory comment in kind. But what I cannot keep mum
 about is that a legend of marxism has been woven about my person and I should
@@ -1840,7 +1844,7 @@ there is somebody who dares call me a Marxist when I could refute with
 unanswerable arguments those who hang such an unjustified label on me. As one
 who attends our union assemblies and specific gatherings, I might speak of the
 loss of class sensibility which I have observed on a number of occasions. I
-have heard it said that we should be making politics \-- in as many words,
+have heard it said that we should be making politics -- in as many words,
 comrades -- in an abstract sense, and virtually no one protested. And I, who
 have been aghast at countless such instances, am dubbed a marxist just because
 I feel, myself to be a one hundred percent revolutionary . . . On returning
@@ -1856,7 +1860,7 @@ call upon all the comrades who have used the press to hang this label upon me
 to spell out what makes me a marxist."_ [**El Amigo del Pueblo**, no. 4, p. 3]
 
 As can be seen, the FoD were not Marxists. Two more questions arise. Were they
-a "break"_ with anarchism (i.e. moving towards Marxism) and were they
+a "break" with anarchism (i.e. moving towards Marxism) and were they
 influenced by the Spanish Trotskyists. We turn to these questions in the next
 two sections.
 
@@ -1874,29 +1878,29 @@ Durruti (Morrow also includes the Libertarian Youth, the _"politically
 awakened"_ CNT rank and file, local FAI groups, etc.) who remained true to
 anarchism and stuck to their guns (often literally) -- represented a break
 with anarchism and a move towards Marxism, the revolutionary vanguard party
-(no doubt part of the 4th International), and a fight for the "workers
-state."_ Those anarchists, on the other hand, who compromised for "anti-
-fascist unity"_ (but mainly to try and get weapons to fight Franco) are the
-real anarchists because _"class collaboration . . . lies concealed in the
-heart of anarchist philosophy."_ [**Op. Cit.**, p. 101]
+(no doubt part of the 4th International), and a fight for the "workers state."
+Those anarchists, on the other hand, who compromised for "anti-fascist unity"
+(but mainly to try and get weapons to fight Franco) are the real anarchists
+because _"class collaboration . . . lies concealed in the heart of anarchist
+philosophy."_ [**Op. Cit.**, p. 101]
 
 Morrow, of course, would have had a fit if anarchists pointed to the example
 of the Social Democrat's who crushed the German Revolution or Stalin's Russia
 as examples that "rule by an elite lies concealed in the heart of Marxist
-philosophy."_ It does not spring into Morrow's mind that those anarchists he
+philosophy." It does not spring into Morrow's mind that those anarchists he
 praises are the ones who show the revolutionary heart of anarchism. This can
 best be seen from his comments on the Friends of Durruti, who we argue were
-not evolving towards "Marxism"_ but rather were trying to push the CNT and FAI
+not evolving towards "Marxism" but rather were trying to push the CNT and FAI
 back to its pre-Civil War politics and strategy. Moreover, as we argue in
 [section 12](append32.html#app12), anarchism has always argued for self-
 managed working class organisations to carry out and defend a revolution. The
 FoD were simply following in the tradition founded by Bakunin.
 
 In other words, we will show that they did not _"break with"_ anarchism --
-rather they refused to compromise their anarchism in the face of "comrades"_
+rather they refused to compromise their anarchism in the face of "comrades"
 who thought winning the war meant entering the government. This is clear from
 their leaflets, paper and manifesto. Moreover, as will become obvious, their
-"break"_ with anarchism actually just restates pre-war CNT policy and
+"break" with anarchism actually just restates pre-war CNT policy and
 organisation.
 
 For example, their leaflets, in April 1937, called for the unions and
@@ -1911,68 +1915,69 @@ manifesto, in 1938, repeated this call (_"the state cannot be retained in the
 face of the unions"_), and made three demands as part of their programme. It
 is worth quoting these at length:
 
-> _"I - Establishment of a Revolutionary Junta or National Defence Council.
+> _"I - Establishment of a Revolutionary Junta or National Defence Council.  
+>  _
 
 >
 
-> "This body will be organised as follows: members of the revolutionary Junta
+> _"This body will be organised as follows: members of the revolutionary Junta
 will be elected by democratic vote in the union organisations. Account is to
 be taken of the number of comrades away at the front . . . The Junta will
 steer clear of economic affairs, which are the exclusive preserve of the
-unions.
+unions. _
 
 >
 
-> "The functions of the revolutionary Junta are as follows:
+> _"The functions of the revolutionary Junta are as follows: _
 
 >
 
-> "a) The management of the war  
+> _ "a) The management of the war  
 >  "b) The supervision of revolutionary order  
 >  "c) International affairs  
 >  "d) Revolutionary propaganda.  
->  
+>  _
 
 >
 
-> "Posts to come up regularly for re-allocation so as to prevent anyone
+> _"Posts to come up regularly for re-allocation so as to prevent anyone
 growing attached to them. And the trade union assemblies will exercise control
-over the Junta's activities.
+over the Junta's activities. _
 
 >
 
-> "II - All economic power to the syndicates.
+> _"II - All economic power to the syndicates. _
 
 >
 
-> "Since July the unions have supplied evidence of the great capacity for
+> _"Since July the unions have supplied evidence of the great capacity for
 constructive labour. . . It will be the unions that structure the proletarian
-economy.
+economy. _
 
 >
 
-> "An Economic Council may also be set up, taking into consideration the
+> _"An Economic Council may also be set up, taking into consideration the
 natures of the Industrial Unions and Industrial federations, to improve on the
-co-ordination of economic activities.
+co-ordination of economic activities. _
 
 >
 
-> "III - Free municipality.
+> _"III - Free municipality. _
 
 >
 
-> [...]
+> _[...] _
 
 >
 
-> "The Municipality shall take charge of those functions of society that fall
+> _"The Municipality shall take charge of those functions of society that fall
 outside the preserve of the unions. And since the society we are going to
 build shall be composed exclusively of producers, it will be the unions, no
-less, that will provide sustenance for the municipalities. . .
+less, that will provide sustenance for the municipalities. . . _
 
 >
 
-> "The Municipalities will be organised at the level of local, comarcal and
+> _"The Municipalities will be organised at the level of local, comarcal and
 peninsula federations. Unions and municipalities will maintain liaison at
 local, comarcal and national levels."_ [**Towards a Fresh Revolution**]
 
@@ -2047,7 +2052,7 @@ from **below up**, should construct the revolutionary social community."_
 
 Camillo Berneri sums up the anarchist perspective clearly when he wrote:
 
-> _"The Marxists . . . foresee the natural disappearance of the State as a
+> _"The Marxists . . . foresee the natural disappearance of theState as a
 consequence of the destruction of classes by the means of 'the dictatorship of
 the proletariat,' that is to say State Socialism, whereas the Anarchists
 desire the destruction of the classes by means of a social revolution which
@@ -2078,7 +2083,7 @@ Anarchists oppose **representative** organs of power as these are governments
 and so based on minority power and subject to bureaucratic deformations which
 ensure **un**-accountablity from below. Anarchists argue _"that, by its very
 nature, political power could not be exercised except by a very restricted
-group of men at the centre. Therefore this power \-- the **real** power --
+group of men at the centre. Therefore this power -- the **real** power --
 could not belong to the soviets. It would actually be in the hands of the
 party."_ [Voline, **Op. Cit.**, p. 213]
 
@@ -2119,8 +2124,8 @@ it is the same program of a _"workers defence council"_ and _"union management
 of the economy"_ that the CNT had advocated prior to the outbreak of the Civil
 War. The only _"break"_ that **did** occur post 19th of July was that of the
 CNT and FAI ignoring its politics and history in favour of "anti-fascist
-unity"_ and a UGT "Workers' Alliance"_ with all anti-fascist unions and
-parties (see [section 20](append32.html#app20)).
+unity" and a UGT "Workers' Alliance" with all anti-fascist unions and parties
+(see [section 20](append32.html#app20)).
 
 Moreover, the CNT insurrection of December 1933 had been co-ordinated by a
 National Revolutionary Committee [**No Gods, No Masters**, vol. 2, p. 235].
@@ -2193,7 +2198,7 @@ because if there the sailors and workers called for 'all power to the
 Soviets', we were calling for all power to the unions."_ [quoted by Ronald
 Fraser, **Blood of Spain**, p. 381]
 
-_"Political"_ here meaning "state-political" -- a common anarchist use of the
+_"Political"_ here meaning "state-political" \-- a common anarchist use of the
 word. According to Fraser, the _"proposed revolutionary junta was to be
 composed of combatants from the barricades."_ [**Ibid.**] This echoes
 Bakunin's comment that the _"Commune will be organised by the standing
@@ -2205,7 +2210,7 @@ As can be seen, rather than calling for power to a party or looking to form a
 government (i.e. being _"politically orientated"_) the FoD were calling for
 _"all power to the unions."_ This meant, in the context of the CNT, all power
 to the union assemblies in the workplace. Decision making would flow from the
-bottom upwards rather than being delegated to a "revolutionary"_ government as
+bottom upwards rather than being delegated to a "revolutionary" government as
 in Trotskyism. To stress the point, the FoD did not represent a _"break"_ with
 anarchism or the CNT tradition. To claim otherwise means to misunderstand
 anarchist politics and CNT history.
@@ -2243,16 +2248,16 @@ as the FoD correctly argued had happened.
 
 To state that they had introduced a variation into their anarchism makes sense
 post-July 1936. The _"apolitical"_ line of the CNT-FAI had obviously failed
-and a new departure was required. While it is clear that the FoD's "new"_
+and a new departure was required. While it is clear that the FoD's "new"
 position was nothing of the kind, it was elemental anarchist principles, it
-was "new"_ in respect to the policy the CNT ("anarchism"_) had conducted
-during the Civil War -- a policy they justified by selective use of anarchist
-theory and principles. In the face of this, the FoD could claim they were
-presenting a new variation in spite of its obvious similarities to pre-war CNT
-policies and anarchist theory. Thus the claim that the FoD saw their ideas as
-some sort of departure from traditional anarchism cannot be maintained, given
-the obvious links this "new"_ idea had with the past policies and structure of
-the CNT. As Guillamon makes it clear, the FoD made _"their stand within the
+was "new" in respect to the policy the CNT ("anarchism") had conducted during
+the Civil War -- a policy they justified by selective use of anarchist theory
+and principles. In the face of this, the FoD could claim they were presenting
+a new variation in spite of its obvious similarities to pre-war CNT policies
+and anarchist theory. Thus the claim that the FoD saw their ideas as some sort
+of departure from traditional anarchism cannot be maintained, given the
+obvious links this "new" idea had with the past policies and structure of the
+CNT. As Guillamon makes it clear, the FoD made _"their stand within the
 organisation and upon anarcho-syndicalist ideology"_ and _"[a]t all times the
 Group articulated an anarcho-syndicalist ideology, although it also voiced
 radical criticism of the CNT and FAI leadership. But it is a huge leap from
@@ -2317,7 +2322,7 @@ Trotskyists activities during the May Days amounted to little more that
 demanding that the workers' do what they were already doing (as can be seen
 from the leaflet they produced -- as George Orwell noted, _"it merely demanded
 what was happening already"_ [**Homage to Catalonia**, p. 221]). As usual, the
-"vanguard of the proletariat"_ were trying to catch up with the proletariat.
+"vanguard of the proletariat" were trying to catch up with the proletariat.
 
 In theory and practice the FoD were miles ahead of the Bolshevik-Leninists --
 as to be expected, as the FoD were anarchists.
@@ -2346,18 +2351,19 @@ article written in 1937, _"the proletariat can take power only through its
 vanguard."_ The working classes' role is one of supporting the party:
 
 > _"Without the confidence of the class in the vanguard, without support of
-the vanguard by the class, there can be no talk of the conquest of power.
+the vanguard by the class, there can be no talk of the conquest of power.  
+>  _
 
 >
 
-> "In this sense the proletarian revolution and dictatorship are the work of
+> _"In this sense the proletarian revolution and dictatorship are the work of
 the whole class, but only under the leadership of the vanguard."_
 
 Thus, rather than the working class as a whole seizing power, it is the
 _"vanguard"_ which takes power -- _"a revolutionary party, even after seizing
 power . . . is still by no means the sovereign ruler of society."_
-[**Stalinism and Bolshevism**] So much for "workers' power"_ \-- unless you
-equate that with the "power"_ to give your power, your control over your own
+[**Stalinism and Bolshevism**] So much for "workers' power" \-- unless you
+equate that with the "power" to give your power, your control over your own
 affairs, to a minority who claim to represent you. Indeed, Trotsky even
 attacks the idea that workers' can achieve power directly via organs of self-
 management like workers' councils (or soviets):
@@ -2401,12 +2407,13 @@ order to found the federation of insurgent associations, communes and
 provinces . . . Thus it is through the very act of extrapolation and
 organisation of the Revolution with an eye to the mutual defences of insurgent
 areas that the . . . Revolution, founded upon . . . the ruins of States, will
-emerge triumphant. . .
+emerge triumphant. . .  
+>  _
 
 >
 
-> "Since it is the people which must make the revolution everywhere, and since
-the ultimate direction of it must at all times be vested in the people
+> _"Since it is the people which must make the revolution everywhere, and
+since the ultimate direction of it must at all times be vested in the people
 organised into a free federation of agricultural and industrial organisations
 . . . being organised from the bottom up through revolutionary delegation . .
 ."_ [**No God, No Masters**, vol. 1, pp. 155-6]
@@ -2451,11 +2458,12 @@ follows:
 
 > _"The Stalinists early sought to set an 'example' by handing their militias
 over to government control, helping to institute the salute, supremacy of
-officers behind the lines, etc. . .
+officers behind the lines, etc. . .  
+>  _
 
 >
 
-> "The example was wasted on the CNT masses . . . The POUM reprinted for
+> _"The example was wasted on the CNT masses . . . The POUM reprinted for
 distribution in the militias the original Red Army Manual of Trotsky,
 providing for a democratic internal regime and political life in the army."_
 [**Op. Cit.**, p. 126]
@@ -2640,8 +2648,8 @@ with these excuses they will seek to perpetuate their own power."_ [Errico
 Malatesta, **Life and Ideas**, p. 52]
 
 In addition, Trotsky's rationale refutes any claim that Bolshevism is somehow
-"fundamentally"_ democratic. The ramifications of it were felt everywhere in
-the soviet system as the Bolsheviks ignored the "wrong"_ democratic decisions
+"fundamentally" democratic. The ramifications of it were felt everywhere in
+the soviet system as the Bolsheviks ignored the "wrong" democratic decisions
 made by the working masses and replaced their democratic organisations with
 appointees from above. Indeed, Trotsky admits that the _"Red Army was built
 from above, in accordance with the principles of the dictatorship of the
@@ -2699,8 +2707,8 @@ Secondly, how can a _"socialist consciousness"_ be encouraged, or continue to
 exist, without socialist institutions to express it? Such a position is
 idealistic nonsense, expressing the wishful notion that the social
 relationships people experiences does not impact on those involved. In effect,
-Rees is arguing that as long as the leaders have the "right ideas"_ it does
-not matter how an organisation is structured. However, how people develop, the
+Rees is arguing that as long as the leaders have the "right ideas" it does not
+matter how an organisation is structured. However, how people develop, the
 ideas they have in their heads, are influenced by the relations they create
 with each other -- autocratic organisations do not encourage self-management
 or socialism, they produce bureaucrats and subjects.
@@ -2754,7 +2762,7 @@ But, of course, such inequalities that existed in the Red Army are to be
 expected in an autocratically run organisation. The inequality inherent in
 hierarchy, the inequality in power between the order giver and order taker,
 will, sooner or later, be reflected in material inequality. As happened in the
-Red Army (and all across the "workers' state"_). All Trotsky wanted was for
+Red Army (and all across the "workers' state"). All Trotsky wanted was for
 those in power to be respectable in their privilege rather than showing it
 off. The anarchist militias did not have this problem because being
 libertarian, delegates were subject to recall and power rested with the rank
@@ -2823,13 +2831,13 @@ In other words, Lenin urged the creation of, and implemented, **bourgeois**
 forms of workplace management based on the appointment of managers from above.
 To indicate that this was not in contradiction with Soviet principles, he
 points to the example of **bourgeois** revolutions! As if bourgeois methods do
-not reflect bourgeois interests and goals. In addition, these "dictators"_
-were given the same autocratic powers Trotsky claimed the demobilisation of
-the Red Army four years later had _"persistently introduced everywhere."_ Yes,
-_"on all sides the masses were pushed away gradually from actual participation
-in the leadership of the country"_ but the process had started immediately
-after the October Revolution and was urged and organised by Lenin and Trotsky
-before the Civil War had started.
+not reflect bourgeois interests and goals. In addition, these "dictators" were
+given the same autocratic powers Trotsky claimed the demobilisation of the Red
+Army four years later had _"persistently introduced everywhere."_ Yes, _"on
+all sides the masses were pushed away gradually from actual participation in
+the leadership of the country"_ but the process had started immediately after
+the October Revolution and was urged and organised by Lenin and Trotsky before
+the Civil War had started.
 
 Lenin's support for appointment of (_"dictatorial"_) managers from above makes
 Trotsky's 1922 comment that the _"Red Army was built from above, in accordance
@@ -2864,14 +2872,14 @@ saw it as a centralised, top-down system. Of course, being a democrat of sorts
 he saw the Bolshevik Government as being elected by the mass of the population
 (or, more correctly, he saw it being elected by the national congress of
 soviets). However, his vision of centralisation of power provided the
-rationale for destroying functional democracy in the grass-roots \-- and
+rationale for destroying functional democracy in the grass-roots -- and
 without healthy roots, any plant will wither and die. Little wonder, then,
 that the Bolshevik experiment proved such a disaster -- yes, the civil war did
 not help but the logic of Bolshevism has started to undermine working class
 self-management **before** is started.
 
 Thus Trotsky's argument that the democratic nature of a workers' army or
-militia is irrelevant because a "workers' state"_ exists is flawed on many
+militia is irrelevant because a "workers' state" exists is flawed on many
 different levels. And the experience of Trotsky in power indicates well the
 poverty of Trotskyism and Morrow's criticism of the CNT -- his suggestion for
 a self-managed militia is pure anarchism with nothing to do with Leninism and
@@ -2963,9 +2971,9 @@ forward just repeats the ideas of anarchism. Any one familiar with anarchist
 theory would not be surprised by this as they would know that we have seen a
 free federation of workplace and communal associations as the basis of a
 revolution and, therefore, a free society since the time of Proudhon. Thus
-Morrow's "Trotskyist"_ vision of a federation of workers' council actually
+Morrow's "Trotskyist" vision of a federation of workers' council actually
 reproduces basic anarchist ideas, ideas which pre-date Lenin's support for
-soviets as the basis of his "workers' state"_ by over half a century (we will
+soviets as the basis of his "workers' state" by over half a century (we will
 indicate the fundamental difference between the anarchist vision and the
 Trotskyist in due course).
 
@@ -3072,20 +3080,21 @@ have power in society -- rather it is the minority in the executive committee
 who have been delegated power. Rather than govern themselves and society
 directly, workers are turned into voters implementing the decisions their
 leaders have made on their behalf. If revolutionary bodies like workers'
-councils **did** create a "workers' state"_ (as Morrow recommends) then their
+councils **did** create a "workers' state" (as Morrow recommends) then their
 power would be transferred and centralised into the hands of a so-called
-"revolutionary"_ government. In this, Morrow follows his guru Trotsky:
+"revolutionary" government. In this, Morrow follows his guru Trotsky:
 
 > _"the proletariat can take power only through its vanguard. In itself the
 necessity for state power arises from an insufficient cultural level of the
 masses and their heterogeneity. In the revolutionary vanguard, organised in a
 party, is crystallised the aspirations of the masses to obtain their freedom.
 Without the confidence of the class in the vanguard, without support of the
-vanguard by the class, there can be no talk of the conquest of power.
+vanguard by the class, there can be no talk of the conquest of power.  
+>  _
 
 >
 
-> "In this sense the proletarian revolution and dictatorship are the work of
+> _"In this sense the proletarian revolution and dictatorship are the work of
 the whole class, but only under the leadership of the vanguard."_ [Trotsky,
 **Stalinism and Bolshevism**]
 
@@ -3149,7 +3158,7 @@ councils and conferences.
 
 Trotskyists, therefore, advocate workers councils because they see them as
 **the** means the vanguard party can take power. Rather than seeing socialism
-or "workers' power"_ as a society in which everyone would directly control
+or "workers' power" as a society in which everyone would directly control
 their own affairs, Trotskyists see it in terms of working class people
 delegating their power into the hands of a government. Needless to say, the
 two things are not identical and, in practice, the government soon turns from
@@ -3182,7 +3191,8 @@ clearly expressed at the time:
 > _"They [the dissent Bolsheviks of the Workers' Opposition] have placed the
 workers' right to elect representatives above the Party. As if the Party were
 not entitled to assert its dictatorship even if that dictatorship temporarily
-clashed with the passing moods of the worker's democracy!"_
+clashed with the passing moods of the worker's democracy!"  
+>  _
 
 He spoke of the _"revolutionary historic birthright of the Party"_ and that it
 _"is obliged to maintain its dictatorship . . . regardless of temporary
@@ -3201,16 +3211,16 @@ but by the _"bourgeois intelligentsia"_). [**Essential Works of Lenin**, p. 82
 and p. 74] To weaken or question the party means to weaken or question the
 socialist nature of the revolution and so weaken the _"dictatorship of the
 proletariat."_ Thus we have the paradoxical situation of the "proletarian
-dictatorship"_ repressing workers, eliminating democracy and maintaining
-itself against the _"passing moods"_ of the workers (which means rejecting
-what democracy is all about). Hence Lenin's comment at a conference of the
-Cheka (his political police) in 1920:
+dictatorship" repressing workers, eliminating democracy and maintaining itself
+against the _"passing moods"_ of the workers (which means rejecting what
+democracy is all about). Hence Lenin's comment at a conference of the Cheka
+(his political police) in 1920:
 
 > _"Without revolutionary coercion directed against the avowed enemies of the
 workers and peasants, it is impossible to break down the resistance of these
 exploiters. On the other hand, revolutionary coercion is bound to be employed
 towards the wavering and unstable elements among the masses themselves."_
-[**Collected Works**, vol. 24, p. 170]
+[**Collected Works**, vol. 42, p. 170]
 
 Significantly, of the 17 000 camp detainees on whom statistical information
 was available on 1 November 1920, peasants and workers constituted the largest
@@ -3301,7 +3311,8 @@ Comintern**, p. 35] In addition, we may quote Lenin's opinion that:
 dictatorship of the class, dictatorship (Party) of the leaders **or**
 dictatorship (Party) of the masses?' -- is evidence of the most incredible and
 hopeless confusion of mind . . . [because] classes are usually . . . led by
-political parties. . . "_
+political parties. . . "  
+>  _
 
 And:
 
@@ -3325,7 +3336,7 @@ in 1937:
 
 > _"The revolutionary dictatorship of a proletarian party is for me not a
 thing that one can freely accept or reject: It is an objective necessity
-imposed upon us by the social realities \-- the class struggle, the
+imposed upon us by the social realities -- the class struggle, the
 heterogeneity of the revolutionary class, the necessity for a selected
 vanguard in order to assure the victory. The dictatorship of a party belongs
 to the barbarian prehistory as does the state itself, but we can not jump over
@@ -3361,7 +3372,7 @@ governmental power, anarchists see workers' councils as the means by which
 people can revolutionise society and themselves by practising self-management
 in all aspects of their lives. The difference is important and its
 ramifications signify why the Russian Revolution became the "dictatorship
-**over** the proletariat"_ Bakunin predicted. His words still ring true:
+**over** the proletariat" Bakunin predicted. His words still ring true:
 
 > _"[b]y popular government they [the Marxists] mean government of the people
 by a small under of representatives elected by the people. . . [That is,]
@@ -3476,7 +3487,7 @@ a Regional Congress of unions and invite the UGT, independent unions and
 unorganised workplaces to send delegates to create the framework of this
 system. This, we must stress, was **not** done. We will discuss why in
 [section 20](append32.html#app20) and so will refrain from doing so here.
-However, **because** the CNT in effect "postponed"_ the political aspects of
+However, **because** the CNT in effect "postponed" the political aspects of
 the social revolution (namely, to quote Kropotkin, to _"smash the State and
 replace it with the Federation [of Communes]"_ [**No Gods, No Masters**, vol.
 1, p. 259]) the natural result would be exactly as Morrow explains:
@@ -3521,12 +3532,12 @@ dictatorship' reveals the incredible confusion that filled the minds of the
 Radical Papers**, pp. 86-7]
 
 This perspective explains why anarchists do not see any fundamental difference
-between a so-called "workers' state"_ and the existing state. For anarchists,
+between a so-called "workers' state" and the existing state. For anarchists,
 the state is based fundamentally on hierarchical power -- the delegation of
-power into the hands of a few, of a government, of an "executive"_ committee.
-Unlike Lenin, who stressed the "bodies of armed men"_ aspect of the state,
+power into the hands of a few, of a government, of an "executive" committee.
+Unlike Lenin, who stressed the "bodies of armed men" aspect of the state,
 anarchists consider the real question as one of who will tell these "bodies of
-armed men"_ what to do. Will it be the people as a whole (as expressed through
+armed men" what to do. Will it be the people as a whole (as expressed through
 their self-managed organisations) or will be it a government (perhaps elected
 by representative organisations)?
 
@@ -3537,11 +3548,12 @@ defence then there would be no argument:
 'dictatorship of the proletariat' to mean simply the revolutionary action of
 the workers in taking possession of the land and the instruments of labour,
 and trying to build a society and organise a way of life in which there will
-be no place for a class that exploits and oppresses the producers.
+be no place for a class that exploits and oppresses the producers.  
+>  _
 
 >
 
-> "Thus constructed, the 'dictatorship of the proletariat' would be the
+> _"Thus constructed, the 'dictatorship of the proletariat' would be the
 effective power of all workers trying to bring down capitalist society and
 would thus turn into Anarchy as soon as resistance from reactionaries would
 have ceased and no one can any longer seek to compel the masses by violence to
@@ -3549,11 +3561,11 @@ obey and work for him. In which case, the discrepancy between us would be
 nothing more than a question of semantics. Dictatorship of the proletariat
 would signify the dictatorship of everyone, which is to say, it would be a
 dictatorship no longer, just as government by everybody is no longer a
-government in the authoritarian, historical and practical sense of the word.
+government in the authoritarian, historical and practical sense of the word. _
 
 >
 
-> "But the real supporters of 'dictatorship of the proletariat' do not take
+> _"But the real supporters of 'dictatorship of the proletariat' do not take
 that line, as they are making quite plain in Russia. Of course, the
 proletariat has a hand in this, just as the people has a part to play in
 democratic regimes, that is to say, to conceal the reality of things. In
@@ -3590,8 +3602,8 @@ anarchist sense of the word.
 As we argued in [section 12](append32.html#app12), the Trotskyist vision of
 revolution, while seeming in some ways similar to that of anarchists, differ
 on this question. For Trotskyists, the **party** takes power, **not** the mass
-of the population directly. Only if you view "proletarian"_ seizure of power
-in terms of electing a political party to government could you see the
+of the population directly. Only if you view "proletarian" seizure of power in
+terms of electing a political party to government could you see the
 elimination of functional democracy in the armed forces and the workplaces as
 no threat to working class power. Given Trotsky's actual elimination of
 democracy in the Red Army and Navy plus his comments on one-man management
@@ -3667,12 +3679,12 @@ second the soviets become simply ratification machines for the government and
 not organs in which the working masses can run their own affairs. We must also
 point out that the other promises made in Lenin's book went the same way as
 his support for the combining administration and executive tasks in the Paris
-Commune \-- and, we stress, all **before** the Civil War started in May 1918
+Commune -- and, we stress, all **before** the Civil War started in May 1918
 (the usual Trotskyist defence of such betrayals is blame the Civil War which
 is hard to do as it had not started yet).
 
 So it is unsurprising that Morrow does not explain why anarchists reject the
-"dictatorship of the proletariat"_ \-- to do so would be to show that
+"dictatorship of the proletariat" \-- to do so would be to show that
 Trotskyism is not the revolutionary movement for workers' liberty it likes to
 claim it is. Moreover, it would involve giving an objective account of
 anarchist theory and admitting that the CNT did not follow its teachings.
@@ -3688,7 +3700,8 @@ of the petty-bourgeois intellectuals' pre-occupation with lucrative
 administrative posts. Anarchism calls upon workers to turn their backs on the
 state and seek control of the factories as the real source of power. The
 ultimate sources of power (property relations) being secured, the state power
-will collapse, never to be replaced."_
+will collapse, never to be replaced."  
+>  _
 
 He then sums up by stating the Spanish anarchists _"thus failed to understand
 that it was only the collapse of state power . . . which had enabled them to
@@ -3879,7 +3892,7 @@ it by the whole people or is it by a party representing that people.
 Anarchists argue for the former, Trotskyists the latter. Needless to say, a
 state structure (i.e. a centralised, hierarchical structure based on the
 delegation of power) is required only when a revolution is seen as rule by a
-party -- little wonder anarchists reject the concept of a "workers' state"_ as
+party -- little wonder anarchists reject the concept of a "workers' state" as
 a contradiction in terms.
 
 The question of July 1936 however rears its head. If anarchism **does** stand
@@ -3900,7 +3913,7 @@ theory. To dismiss anarchist ideas because they were not applied seems
 somewhat strange.
 
 To finish this section we must indicate that Morrow's statement concerning
-anarchists "turning our backs"_ to the state and concentrating on property
+anarchists "turning our backs" to the state and concentrating on property
 actually contradicts both Engels and Lenin.
 
 As Lenin notes in **The State and Revolution**, _"Marx agreed with Proudhon on
@@ -3908,7 +3921,7 @@ the necessity of 'smashing' the present state machine. . . [there is]
 similarity between Marxism and anarchism (Proudhon and Bakunin) . . . on this
 point"_ and that anarchists advocate _"the destruction of the state machine."_
 [**Essential Works of Lenin**, p. 310 and p. 358] You can hardly smash the
-state or destroy the state machine by "turning your back"_ to it. Similarly,
+state or destroy the state machine by "turning your back" to it. Similarly,
 Engels argued (although distorting his thought somewhat) that Bakunin saw
 _"the **state** as the main evil to be abolished . . . [and] maintains that it
 is the **state** which has created capital, that the capitalist has his
@@ -3917,13 +3930,13 @@ state which must be done away with . . . organise, and when ALL workers are
 won over . . . abolish the state and replace it with the organisation of the
 International."_ [**The Marx-Engels Reader**, pp. 728-9] You cannot
 _"abolish"_ and _"replace"_ the state by ignoring it ("turning your back to
-it"_). We must also stress that Engels comments disprove Lenin's assertion
-that anarchists _"have absolutely no clear idea of **what** the proletariat
-will put in its [the states] place."_ [**Op. Cit.**, p. 358] We have always
-been clear, namely a federation of workers' associations (this was the
-organisation of the First International). In other, more modern, words, a
-system of workers' councils -- a position Marxists only embraced six decades
-later when Lenin advocated them as the basis of his "workers' state."
+it"). We must also stress that Engels comments disprove Lenin's assertion that
+anarchists _"have absolutely no clear idea of **what** the proletariat will
+put in its [the states] place."_ [**Op. Cit.**, p. 358] We have always been
+clear, namely a federation of workers' associations (this was the organisation
+of the First International). In other, more modern, words, a system of
+workers' councils -- a position Marxists only embraced six decades later when
+Lenin advocated them as the basis of his "workers' state."
 
 Thus Morrow's comments against anarchism are in contradiction to usual Marxist
 claims against anarchism (namely, that we seek to smash the state but do not
@@ -3947,7 +3960,8 @@ comments by a Marxist-Leninist are typical:
 > _"Spanish anarchists believed that a system of autonomous collectives, with
 the weakest possible connections between them, was the alternative to
 capitalism and also to the Marxist view of society running the entire economy
-as one whole."_
+as one whole."  
+>  _
 
 And:
 
@@ -3964,12 +3978,13 @@ communist tendency (who should know better):
 class and peasants was that each factory, area of land, etc., should be owned
 collectively by its workers, and that these 'collectives' should be linked
 with each other on a 'federal' basis - that is, without any superior central
-authority.
+authority.  
+>  _
 
 >
 
-> "This basic idea had been propagated by anarchists in Spain for more than 50
-years. When the Civil War began, peasants and working class people in those
+> _"This basic idea had been propagated by anarchists in Spain for more than
+50 years. When the Civil War began, peasants and working class people in those
 parts of the country which had not immediately fallen under fascist control
 seized the opportunity to turn anarchist ideal into reality."_ [_"Anarchism
 and the Spanish 'Revolution'"_, **Subversion** no. 18]
@@ -4157,8 +4172,8 @@ idea of converting the worker-managed workplaces into co-operatives, operating
 in a market economy, had never been advocated by the Spanish anarchists before
 the Civil War, but was now seen by some as a temporary stop-gap that would
 solve the immediate question of what to do with the workplaces that had been
-seized by the workers. It was at this meeting that the term "collective"_ was
-first adopted to describe this solution. This concept of "collectivisation"_
+seized by the workers. It was at this meeting that the term "collective" was
+first adopted to describe this solution. This concept of "collectivisation"
 was suggested by Joan Fabregas, a Catalan nationalist of middle class origin
 who had joined the CNT after July of 1936. As one CNT militant recalled:
 
@@ -4194,7 +4209,7 @@ industry. The smaller, weaker unions wanted to form co-operatives. . ."_
 [Fraser, **Op. Cit.**, p. 212]
 
 The collectives came out of this conflict and discussion as a sort of "middle
-ground" -- however, it should be stressed that it did not stop many unions
+ground" \-- however, it should be stressed that it did not stop many unions
 from ignoring the Catalan's governments' attempt to legalise (and so control)
 the collectives (the so-called _"collectivisation"_ decree) as far as they
 could. As Albert Perez-Baro, a Catalan Civil Servant noted, _"the CNT . . .
@@ -4243,7 +4258,7 @@ and acted to create them during it. These were the industrial federations and
 federations of rural communities/collectives predicted in anarchist and CNT
 theory and actually created, in part at least, during the revolution itself.
 
-Thus Green's "critique"_ of anarchism is, in fact, **exactly** what anarchist
+Thus Green's "critique" of anarchism is, in fact, **exactly** what anarchist
 theory actually argues and what the Spanish anarchists themselves argued and
 tried to implement in all industries. Of course, there are fundamental
 differences between the anarchist vision of socialisation and the Leninist
@@ -4253,7 +4268,7 @@ of federations of workers' councils (as proven above). However, such
 federation has two sources -- it is either imposed from above or agreed to
 from below. Anarchists choose the former as the latter negates any claim that
 a revolution is a popular, mass movement from below (and, incidentally, the
-Leninist claim that the "workers' state"_ is simply a tool of the workers to
+Leninist claim that the "workers' state" is simply a tool of the workers to
 defeat capitalist oppression).
 
 The actual process in Spain towards industrial federations and so
@@ -4272,7 +4287,7 @@ p. 220]
 However, before Leninists like Green rush in and assert that this proves that
 _"anarchist theory led to the ordinary anarchist considering each factory as
 owned simply by the workers that laboured there"_ we should point out two
-things. Firstly, it was the "ordinary anarchists"_ who were trying to organise
+things. Firstly, it was the "ordinary anarchists" who were trying to organise
 socialisation (i.e. CNT members and militants). Secondly, the Russian
 Revolution also saw workers taking over their workplaces and treating them as
 their own property. Leninists like Green would have a fit if we took these
@@ -4318,8 +4333,8 @@ pursued by the CNT and the Bolsheviks in their respective revolutions.
 The simple fact is that revolutions are complex and dynamic processes which
 involve many contradictory developments. The question is how do you push them
 forward -- either from below or from above. Both the Spanish and the Russian
-revolution were marked by "localism" -- when the workers in a factory consider
-it their own property and ignore wider issues and organisation.
+revolution were marked by "localism" \-- when the workers in a factory
+consider it their own property and ignore wider issues and organisation.
 
 Lenin and the Bolsheviks "solved" the problem of localism by eliminating
 workers' self-management in favour of one-man management appointed from above.
@@ -4381,16 +4396,17 @@ living and vibrant, a thousands times better and more just than any existing
 organisation. Moreover, this . . . organisation, being on the one hand open to
 revolutionary propaganda . . . , and on the other, not petrified by the
 intervention of the State . . . will develop and perfect itself through free
-experimentation as fully as one can reasonably expect in our times.
+experimentation as fully as one can reasonably expect in our times.  
+>  _
 
 >
 
-> "With the abolition of the State, the spontaneous self-organisation of
+> _"With the abolition of the State, the spontaneous self-organisation of
 popular life . . . will revert to the communes. The development of each
 commune will take its point of departure the actual condition of its
 civilisation . . ."_ [**Bakunin on Anarchism**, p. 207]
 
-To **impose** an "ideal"_ solution would destroy a revolution -- the actions
+To **impose** an "ideal" solution would destroy a revolution -- the actions
 and decisions (**including what others may consider mistakes**) of a free
 people are infinitely more productive and useful than the decisions and
 decrees of the best central committee. Moreover, a centralised system by
@@ -4401,7 +4417,7 @@ of collectivism would then be the negation of humanity. In a free community,
 collectivism can come about only through the pressure of circumstances, not by
 imposition from above but by a free spontaneous movement from below."_ [**Op.
 Cit.**, p. 200] Thus socialisation must proceed from below, reflecting the
-real development and desires of those involved. To "speed-up"_ the process via
+real development and desires of those involved. To "speed-up" the process via
 centralisation can only result in replacing socialisation with nationalisation
 and the elimination of workers' self-management with hierarchical management.
 Workers' again would be reduced to the level of order-takers, with control
@@ -4419,7 +4435,7 @@ given industry . . . would be regional anarcho-syndicalism, and not
 communism."_ [Marx, Engels and Lenin, **Anarchism and Anarcho-Syndicalism**,
 p. 292]
 
-We expect that Morrow would subscribe to this "solution"_ to the problems of a
+We expect that Morrow would subscribe to this "solution" to the problems of a
 social revolution generates. However, such a system has its own problems.
 
 First is the basic fallacy that the centre will not start to view the whole
@@ -4441,7 +4457,7 @@ to enforce its viewpoint against the rest of society is considerably
 stronger).
 
 Secondly, to eliminate the dangers of workers' self-management generating
-"propertarian"_ notions, the workers' have to have their control over their
+"propertarian" notions, the workers' have to have their control over their
 workplace reduced, if not eliminated. This, by necessity, generates
 **bourgeois** social relationships and, equally, appointment of managers from
 above (which the Bolsheviks did embrace). Indeed, by 1920 Lenin was boasting
@@ -4477,7 +4493,7 @@ themselves. Socialism can only be created by workers' own actions and
 organisations otherwise it will not be set up at all -- something else will
 be, namely state capitalism.
 
-Thus, a close look at Lenin's "solution"_ indicates that Trotskyist claim that
+Thus, a close look at Lenin's "solution" indicates that Trotskyist claim that
 their state is the _"tool of the majority in their fight against exploitation
 by the few"_ (to use Joseph Green's words) is refuted by their assertion that
 this state will also bring the economy under centralised control and by the
@@ -4485,12 +4501,12 @@ actions of the Bolsheviks themselves.
 
 Why is this? Simply because **if** the mass of collectives are not interested
 in equality and mutual aid in society as a whole then how can the government
-actually be the "tool"_ of the majority when it imposes such "mutual aid"_ and
-"equality"_ upon the collectives? In other words, the interests of the
+actually be the "tool" of the majority when it imposes such "mutual aid" and
+"equality" upon the collectives? In other words, the interests of the
 government replace those of the majority. After all, if workers **did** favour
 mutual aid and equality then they would federate themselves to achieve it.
 (which the collectives were actually doing all across Spain, we must note). If
-they do not do this then how can the "workers' state"_ be said to be simply
+they do not do this then how can the "workers' state" be said to be simply
 their tool when it has to **impose** the appropriate economic structure upon
 them? The government is elected by the whole people, so it will be claimed,
 and so must be their tool. This is obviously flawed -- _"if,"_ argued
@@ -4504,16 +4520,15 @@ most intelligent, most active and radical part of a society?"_ [Malatesta,
 
 What does all this mean? Simply that Trotskyists recognise, implicitly at
 least, that the workers' state is not, in fact, the simple tool of the
-workers. Rather, it is the means by which "socialism"_ will be imposed upon
-the workers by the party. If workers do not practice mutual aid and federation
-in their day-to-day running of their lives, then how can the state impose it
-if it is simply their tool? It suggests what is desired _"by all of the
-working people as a whole"_ (nearly always a euphemism for the party in
-Trotskyist ideology) is different that what they actually want (as expressed
-by their actions). In other words, a conflict exists between the workers' and
-the so-called "workers' state"_ \-- in Russia, the party imposed **its**
-concept of the interests of the working class, even against the working class
-itself.
+workers. Rather, it is the means by which "socialism" will be imposed upon the
+workers by the party. If workers do not practice mutual aid and federation in
+their day-to-day running of their lives, then how can the state impose it if
+it is simply their tool? It suggests what is desired _"by all of the working
+people as a whole"_ (nearly always a euphemism for the party in Trotskyist
+ideology) is different that what they actually want (as expressed by their
+actions). In other words, a conflict exists between the workers' and the so-
+called "workers' state" \-- in Russia, the party imposed **its** concept of
+the interests of the working class, even against the working class itself.
 
 Rather than indicate some kind of failure of anarchist theory, the experience
 of workers' self-management in both Spain and Russia indicate the
@@ -4629,14 +4644,14 @@ Cit.**, pp. 205-6]
 Of course it does nothing of the kind. Yes, anarchists are in favour of
 autonomy -- including the autonomy of economic administration. We are also in
 favour of federalism to co-ordinate join activity and promote co-operation on
-a wide-scale (what Morrow would, inaccuracy, call "centralism"_ or
-"centralisation"_). Rather than seeing such agreements of joint activity as
-the "abandonment"_ of autonomy, we see it as an **expression** of that
-autonomy. It would be a strange form of "freedom"_ that suggested making
-arrangements and agreements with others meant a restriction of your liberty.
-For example, no one would argue that to arrange to meet your friend at a
-certain place and time meant the elimination of your autonomy even though it
-obviously reduces your "liberty"_ to be somewhere else at the same time.
+a wide-scale (what Morrow would, inaccuracy, call "centralism" or
+"centralisation"). Rather than seeing such agreements of joint activity as the
+"abandonment" of autonomy, we see it as an **expression** of that autonomy. It
+would be a strange form of "freedom" that suggested making arrangements and
+agreements with others meant a restriction of your liberty. For example, no
+one would argue that to arrange to meet your friend at a certain place and
+time meant the elimination of your autonomy even though it obviously reduces
+your "liberty" to be somewhere else at the same time.
 
 Similarly, when an individual joins a group and takes part in its collective
 decisions and abides by their decisions, this does not represent the
@@ -4647,7 +4662,7 @@ autonomy"_ (of course some Marxists **do** make that claim, but such a
 position indicates an essentially **negative** viewpoint of liberty, a
 position they normally reject). In reality, of course, anarchists are aware
 that freedom is impossible outside of association. Within an association
-absolute "autonomy"_ cannot exist, but such "autonomy"_ would restrict freedom
+absolute "autonomy" cannot exist, but such "autonomy" would restrict freedom
 to such a degree that it would be so self-defeating as to make a mockery of
 the concept of autonomy and no sane person would seek it.
 
@@ -4727,7 +4742,7 @@ organisation. The autonomy of the collective, of its mass assembly, was not
 restricted by the federation nor did the federation interfere with the day to
 day running of the collectives which made it up. The structure was a
 federation of autonomous collectives. The role of the Council was to co-
-ordinate the decisions of the federation delegate meetings \-- in other words,
+ordinate the decisions of the federation delegate meetings -- in other words,
 purely administrative implementation of collective agreements. To confuse this
 with centralisation is a mistake common to Marxists, but it is still a
 confusion.
@@ -4755,9 +4770,9 @@ happen . . . conditions varied greatly among the Spanish collectives, with
 peasants at some agricultural collectives making three times that of peasants
 at other collectives."_ [Joseph Green, **Op. Cit.**]
 
-Of course, Green fails to mention that in the presumably "centralised"_ system
+Of course, Green fails to mention that in the presumably "centralised" system
 created by the Bolsheviks, the official rationing system had a differentiation
-of **eight to one** under the class ration of May 1918\. By 1921, this,
+of **eight to one** under the class ration of May 1918. By 1921, this,
 apparently, had fallen to around four to one (which is still higher than the
 rural collectives) but, in fact, remained at eight to one due to workers in
 selected defence-industry factories getting the naval ration which was
@@ -4773,7 +4788,7 @@ government (all this long before, to use Green's words _"their party
 degenerated into Stalinist revisionism"_).
 
 So, if equality is important, then the decentralised rural collectives were
-far more successful in achieving it than the "centralised"_ system under Lenin
+far more successful in achieving it than the "centralised" system under Lenin
 (as to be expected, as the rank-and-file were in control, not a few at the
 top).
 
@@ -4783,7 +4798,8 @@ an academic (David Miller) on this:
 
 > _"Such variations no doubt reflected historical inequalities of wealth, but
 at the same time the redistributive impact of the [anarchist] federation had
-clearly been slight."_
+clearly been slight."  
+>  _
 
 Note that Green implicitly acknowledges that the collectives **did** form a
 federation. This makes a mockery of his claims that earlier claims that the
@@ -4803,7 +4819,7 @@ localities and with the national industrial federations."_ [Issac Puente,
 **Libertarian Communism**, p. 26] Thus what Green asserts the CNT and FAI did
 not see the need of, they in fact **did** see the need for and argued for
 their creation before the Civil War and actually created during it! Green's
-comments indicate a certain amount of "doublethink"_ \-- he maintains that the
+comments indicate a certain amount of "doublethink" \-- he maintains that the
 anarchists rejected federations while acknowledging they did federate.
 
 However, historical differences are the product of **centuries** and so it
@@ -5061,7 +5077,7 @@ or whether Leninist ideology played an important role in it. As Arshinov
 argues, _"[w]hoever studies the Russian Revolution should learn it [Trotsky's
 order no. 1824] by heart."_ [**Op. Cit.**, p. 123] Obviously the Bolsheviks
 considered that soviet system was threatened if soviet conferences were called
-and the "dictatorship of the proletariat"_ was undermined if the proletariat
+and the "dictatorship of the proletariat" was undermined if the proletariat
 took part in such events.
 
 In addition, the Makhnovists _"full applied the revolutionary principles of
@@ -5082,29 +5098,30 @@ movement). Arshinov proves a good summary:
 
 > _"The Makhnovist insurrectionary army was organised according to three
 fundamental principles: voluntary enlistment, the electoral principle, and
-self-discipline.
+self-discipline.  
+>  _
 
 >
 
-> "**Voluntary enlistment** meant that the army was composed only of
-revolutionary fighters who entered it of their own free will.
+> _"**Voluntary enlistment** meant that the army was composed only of
+revolutionary fighters who entered it of their own free will. _
 
 >
 
-> "**The electoral principle** meant that the commanders of all units of the
+> _"**The electoral principle** meant that the commanders of all units of the
 army, including the staff, as well as all the men who held other positions in
 the army, were either elected or accepted by the insurgents of the unit in
-question or by the whole army.
+question or by the whole army. _
 
 >
 
-> "**Self-discipline** meant that all the rules of discipline were drawn up by
-commissions of insurgents, then approved by general assemblies of the various
-units; once approved, they were rigorously observed on the individual
+> _"**Self-discipline** meant that all the rules of discipline were drawn up
+by commissions of insurgents, then approved by general assemblies of the
+various units; once approved, they were rigorously observed on the individual
 responsibility of each insurgent and each commander."_ [**Op. Cit.**, p. 96]
 
 Thus the Makhnovists indicate the validity of anarchist theory. They organised
-the self-defence of their region, refused to form of a "revolutionary"_
+the self-defence of their region, refused to form of a "revolutionary"
 government and so the life of the region, its social and revolutionary
 development followed the path of self-activity of the working people who did
 not allow any authorities to tell them what to do. They respected freedom of
@@ -5138,7 +5155,7 @@ influence of its own (the CNT had over 22 000 affiliates in the area and the
 UGT had 40 000). The CNT had some miners in their union (the majority were in
 the UGT) but most of their membership was above ground, particularly in the
 towns of Aviles and Gijon. The regional federation of the CNT had joined the
-Socialist Party dominated "Alianza Obrera,"_ unlike the other regional
+Socialist Party dominated "Alianza Obrera," unlike the other regional
 federations of the CNT.
 
 When the revolt started, the workers organised attacks on barracks, town halls
@@ -5281,7 +5298,7 @@ of the CNT to "seize power":
 revolutionary totalitarianism . . . by the anarchist and Confederal
 dictatorship."_ [quoted by Stuart Christie, **We, the Anarchists!**, p. 105]
 
-In this statement Garcia Oliver describes the capitalist state as "democracy"_
+In this statement Garcia Oliver describes the capitalist state as "democracy"
 and refers to the alternative of the directly democratic CNT unions taking
 power as "totalitarianism" and "dictatorship." Marxists tend to think this
 statement tells us something about the CNT's original program in the period
@@ -5380,7 +5397,7 @@ does not respect the "freedom" to be a capitalist, boss or politician.
 
 Instead of this "collaboration" from the bottom up, the CNT and FAI committees
 favoured "collaboration" from the top down. In this they followed the example
-of the UGT and its "Workers' Alliances"_ rather than their own activities
+of the UGT and its "Workers' Alliances" rather than their own activities
 previous to the military revolt. Why? Why did the CNT and FAI in Catalonia
 reject their previous political perspective and reject the basis ideas of
 anarchism? As shown above, the CNT and FAI has successfully applied their
@@ -5409,11 +5426,12 @@ within the framework of the State and subordinating all else, including the
 transformation of the economic and social structure of the country, to winning
 the war. Secondly, that it was essential, and possible, to collaborate with
 political parties -- that is politicians -- honestly and sincerely, and at a
-time when power was in the hands of the two workers organisations. . .
+time when power was in the hands of the two workers organisations. . .  
+>  _
 
 >
 
-> "All the initiative . . . was in the hands of the workers. The politicians
+> _"All the initiative . . . was in the hands of the workers. The politicians
 were like generals without armies floundering in a desert of futility.
 Collaboration with them could not, by any stretch of the imagination,
 strengthen resistance to Franco. On the contrary, it was clear that
@@ -5568,18 +5586,19 @@ sacrificed their anarchist principles and revolutionary objectives to bolster,
 to become part of the bourgeois state . . . Faced with an imperfect state of
 affairs and preferring defeat to a possibly Pyrrhic victory, Catalan anarchist
 leadership renounced anarchism in the name of expediency and removed the
-social transformation of Spain from their agenda.
+social transformation of Spain from their agenda.  
+>  _
 
 >
 
-> "But what the CNT-FAI leaders failed to grasp was that the decision whether
+> _"But what the CNT-FAI leaders failed to grasp was that the decision whether
 or not to implement Libertarian Communism was not theirs to make. Anarchism
 was not something which could be transformed from theory to practice by
-organisational decree. . .
+organisational decree. . . _
 
 >
 
-> "What the CNT-FAI leadership had failed to take on board was the fact that
+> _"What the CNT-FAI leadership had failed to take on board was the fact that
 the spontaneous defensive movement of 19 July had developed a political
 direction of its own. On their own initiative, without any intervention by the
 leadership of the unions or political parties, the rank and file militants of
@@ -5631,12 +5650,12 @@ to frustrate any attempts by the bourgeois capitalist state to reorganise
 itself, which it would seek to do."_ [**Op. Cit.**, pp. 43-6]
 
 Their compromise in the name of anti-fascist unity contained the rest of their
-mistakes. Joining the "Central Committee of Anti-Fascist Militias"_ was the
+mistakes. Joining the "Central Committee of Anti-Fascist Militias" was the
 second mistake as at no time could it be considered as the embryo of a new
 workers' power. It was, rather, an organisation like the pre-war UGT "Workers'
-Alliances" -- an attempt to create links between the top-level of other unions
-and parties. Such an organisation, as the CNT recognised before the war (see
-[section 5](append32.html#app5)), could not be a means of creating a
+Alliances" \-- an attempt to create links between the top-level of other
+unions and parties. Such an organisation, as the CNT recognised before the war
+(see [section 5](append32.html#app5)), could not be a means of creating a
 revolutionary federation of workers' associations and communes and, in fact, a
 hindrance to such a development, if not its chief impediment.
 
@@ -5671,18 +5690,19 @@ length:
 without laying hands upon property! As if there were any way of conquering the
 foe while the great mass of the people is not directly interested in the
 triumph of the revolution, by seeing that it will bring material, moral and
-intellectual well-being to everybody.
+intellectual well-being to everybody.  
+>  _
 
 >
 
-> "The same thing happened with regard to the principle of government. By
+> _"The same thing happened with regard to the principle of government. By
 proclaiming the free Commune, the people of Paris proclaimed an essential
-anarchist principle, which was the breakdown of the state.
+anarchist principle, which was the breakdown of the state. _
 
 >
 
-> "And yet, if we admit that a central government to regulate the relations of
-communes between themselves is quite needless, why should we admit its
+> _"And yet, if we admit that a central government to regulate the relations
+of communes between themselves is quite needless, why should we admit its
 necessity to regulate the mutual relations of the groups which make up each
 commune? . . . There is no more reason for a government inside the commune
 than for a government outside."_ [**The Commune of Paris**]
@@ -5711,7 +5731,7 @@ Days revolt of 1937. The CNT committees and leaders become increasingly
 isolated from the people, they compromised again and again and, ultimately,
 became an impotent force. Kropotkin was proved correct. Which means that far
 from refuting anarchist politics or analysis, the experience of the CNT-FAI in
-the Spanish Revolution _**confirms_** it.
+the Spanish Revolution _**confirms**_ it.
 
 In summary, therefore, the Spanish Revolution of 1936 indicates the failure of
 anarchists rather than the failure of anarchism.

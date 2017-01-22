@@ -82,11 +82,12 @@ it, to proceed with mathematical precision in exploiting each new conquered
 domain and then mark his possession with vulgar constructions and perfectly
 straight boundaries? If this continues to occur, the harmonious contrasts that
 are one of the beauties of the earth will soon give way to depressing
-uniformity . . .
+uniformity . . .  
+>  _
 
 >
 
-> "The question of knowing which of the works of man serves to beautify and
+> _"The question of knowing which of the works of man serves to beautify and
 which contributes to the degradation of external nature can seem pointless to
 so-called practical minds; nevertheless, it is a matter of the greatest
 importance. Humanity's development is most intimately connected with the

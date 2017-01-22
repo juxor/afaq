@@ -2634,3 +2634,7 @@ finally applied they helped ensure the degeneration of the revolution. This
 was to be expected, given the nature of vanguardism and the Bolshevik vision
 of socialism.
 
+[‹ H.4 Didn't Engels refute anarchism in "On Authority"?](secH4.html "Go to
+previous page" ) [up](secHcon.html "Go to parent page" ) [H.6 Why did the
+Russian Revolution fail? ›](secH6.html "Go to next page" )
+

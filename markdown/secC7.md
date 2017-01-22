@@ -359,22 +359,23 @@ material wealth was predicted by Malatesta. In 1922 he argued that:
 
 > _ "The fundamental error of the reformists is that of dreaming of
 solidarity, a sincere collaboration, between masters and servants, between
-proprietors and workers . . .
+proprietors and workers . . .  
+>  _
 
 >
 
-> "Those who envisage a society of well stuffed pigs which waddle contentedly
+> _"Those who envisage a society of well stuffed pigs which waddle contentedly
 under the ferule of a small number of swineherd; who do not take into account
 the need for freedom and the sentiment of human dignity . . . can also imagine
 and aspire to a technical organisation of production which assures abundance
 for all and at the same time materially advantageous both to bosses and the
 workers. But in reality 'social peace' based on abundance for all will remain
 a dream, so long as society is divided into antagonistic classes, that is
-employers and employees. And there will be neither peace nor abundance.
+employers and employees. And there will be neither peace nor abundance. _
 
 >
 
-> "The antagonism is spiritual rather than material. There will never be a
+> _"The antagonism is spiritual rather than material. There will never be a
 sincere understanding between bosses and workers for the better exploitation
 [sic!] of the forces of nature in the interests of mankind, because the bosses
 above all want to remain bosses and secure always more power at the expense of
@@ -575,7 +576,7 @@ twenty sacks will sell for less than ten would have sold for if it had been
 but half as great; so, under similar circumstances, fifty yards of linen will
 be worth less than twenty-five: so that value decreases as the production of
 utility increases, and a producer may arrive at poverty by continually
-enriching himself."_ [**The System of Economical Contradictions**, pp. 77-78]
+enriching himself."_ [**System of Economical Contradictions**, pp. 77-78]
 
 He argued that this occurred due to the _"contradiction"_ of _"the double
 character of value"_ (i.e. between value in use and value in exchange). [**Op.
@@ -839,20 +840,22 @@ capital from the oppression of labour**! . . . Fool! though the workmen cost
 you something, they are your customers: what will you do with your products,
 when, driven away by you, they shall consume them no longer? Thus machinery,
 after crushing the workmen, is not slow in dealing employers a counter-blow;
-for, if production excludes consumption, it is soon obliged to stop itself.
+for, if production excludes consumption, it is soon obliged to stop itself.  
+>  _
 
 >
 
-> [. . .]
+> _[. . .] _
 
 >
 
-> "These failures were caused by over-production, -- that is, by an inadequate
-market, or the distress of the people. What a pity that machinery cannot also
-deliver capital from the oppression of consumers! What a misfortune that
-machines do not buy the fabrics which they weave! The ideal society will be
-reached when commerce, agriculture, and manufactures can proceed without a man
-upon earth!"_ [Proudhon, **System of Economical Contradictions**, pp. 189-90]
+> _"These failures were caused by over-production, -- that is, by an
+inadequate market, or the distress of the people. What a pity that machinery
+cannot also deliver capital from the oppression of consumers! What a
+misfortune that machines do not buy the fabrics which they weave! The ideal
+society will be reached when commerce, agriculture, and manufactures can
+proceed without a man upon earth!"_ [Proudhon, **System of Economical
+Contradictions**, pp. 189-90]
 
 So, if the profit rate falls to a level that does not allow capital formation
 to continue, a slump sets in. This general slump means that the rate of profit
@@ -942,7 +945,7 @@ families made less than $2,000 a year, 42% less than $1,000). While the
 richest 1% owned 40% of the nation's wealth by 1929 (and the number of people
 claiming half-million dollar incomes rose from 156 in 1920 to 1,489 in 1929)
 the bottom 93% of the population experienced a 4% drop in real disposable per-
-capita income between 1923 and 1929\. However, in spite (or, perhaps, because)
+capita income between 1923 and 1929. However, in spite (or, perhaps, because)
 of this, US capitalism was booming and belief in capitalism was at its peak.
 
 But by 1929 all this had changed with the stock market crash -- followed by a

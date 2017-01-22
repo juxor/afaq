@@ -22,7 +22,7 @@ Revolt against Nature and Other Essays**, p. 4, p.5]
 In others words, every individual is unique. Something no egalitarian has ever
 denied. On the basis of this amazing insight, he concludes that equality is
 impossible (except "equality of rights") and that the attempt to achieve
-"equality" is a "revolt against nature" -- as if any anarchist had ever
+"equality" is a "revolt against nature" \-- as if any anarchist had ever
 advocated such a notion of equality as being identical!
 
 And so, because we are all unique, the outcome of our actions will not be
@@ -304,21 +304,21 @@ personally, all goods and services needed, not only food, clothing and shelter
 but also education, medicine, sanitation, justice, police, all forms of
 security and insurance, even permission to use the streets (for these also
 would be privately owned), as one reads about all this a curious feature
-emerges: everybody always has enough money to buy all these things.
+emerges: everybody always has enough money to buy all these things. _
 
 >
 
-> "There are no public casual wards or hospitals or hospices, but neither is
+> _"There are no public casual wards or hospitals or hospices, but neither is
 there anybody dying in the streets. There is no public educational system but
 no uneducated children, no public police service but nobody unable to buy the
 services of an efficient security firm, no public law but nobody unable to buy
 the use of a private legal system. Neither is there anybody able to buy much
 more than anybody else; no person or group possesses economic power over
-others.
+others. _
 
 >
 
-> "No explanation is offered. The anarcho-capitalists simply take it for
+> _"No explanation is offered. The anarcho-capitalists simply take it for
 granted that in their favoured society, although it possesses no machinery for
 restraining competition (for this would need to exercise authority over the
 competitors and it is an **anarcho**\- capitalist society) competition would
@@ -336,7 +336,7 @@ against the elements and so forth. It does **not** invoke the idea of
 transnational corporations employing tens of thousands of people or a
 population without land, resources and selling their labour to others. Indeed,
 Rothbard argues that economic power does not exist (at least under capitalism;
-as we saw in section [2.1](append132.html#secf21) he does make \-- highly
+as we saw in section [2.1](append132.html#secf21) he does make -- highly
 illogical -- exceptions). Similarly, David Friedman's example of a pro-death
 penalty and anti-death penalty "defence" firm coming to an agreement (see
 section [6.3](append136.html#secf63)) assumes that the firms have equal
@@ -467,13 +467,13 @@ Ayn Rand, _"[u]nder capitalism . . . politics (state) and economics
 (capitalism) are separated . . . This, of course, is pure ideology, for Rand's
 justification of the state is that it 'protects' private property, that is, it
 supports and upholds the economic power of capitalists by coercive means."_
-[**Ecology & Anarchism**, p. 189] The same can be said of "anarcho"-capitalism
-and its "protection agencies" and "general libertarian law code." If within a
-society a few own all the resources and the majority are dispossessed, then
-any law code which protects private property **automatically** empowers the
-owning class. Workers will **always** be initiating force if act against the
-code and so "equality before the law" reinforces inequality of power and
-wealth.
+[**Ecology &amp; Anarchism**, p. 189] The same can be said of
+"anarcho"-capitalism and its "protection agencies" and "general libertarian
+law code." If within a society a few own all the resources and the majority
+are dispossessed, then any law code which protects private property
+**automatically** empowers the owning class. Workers will **always** be
+initiating force if act against the code and so "equality before the law"
+reinforces inequality of power and wealth.
 
 This means that a system of property rights protects the liberties of some
 people in a way which gives them an unacceptable degree of power over others.
@@ -562,14 +562,14 @@ parasites, even if they inherited all their money). All things considered,
 little wonder that Proudhon argued that:
 
 > _"Even charitable institutions serve the ends of those in authority
-marvellously well.
+marvellously well. _
 
 >
 
-> "Charity is the strongest chain by which privilege and the Government, bound
-to protect them, holds down the lower classes. With charity, sweeter to the
-heart of men, more intelligible to the poor man than the abstruse laws of
-Political Economy, one may dispense with justice."_ [**The General Idea of the
+> _"Charity is the strongest chain by which privilege and the Government,
+bound to protect them, holds down the lower classes. With charity, sweeter to
+the heart of men, more intelligible to the poor man than the abstruse laws of
+Political Economy, one may dispense with justice."_ [**General Idea of the
 Revolution**, pp. 69-70]
 
 As noted, the right-libertarian (passing) acknowledgement of poverty does not

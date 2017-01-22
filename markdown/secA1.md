@@ -1,10 +1,8 @@
-# A.1 What is anarchism?
-
 Anarchism is a political theory which aims to create anarchy, _"the absence of
 a master, of a sovereign."_ [P-J Proudhon, **What is Property **, p. 264] In
 other words, anarchism is a political theory which aims to create a society
 within which individuals freely co-operate together as equals. As such
-anarchism opposes all forms of hierarchical control \- be that control by the
+anarchism opposes all forms of hierarchical control - be that control by the
 state or a capitalist - as harmful to the individual and their individuality
 as well as unnecessary.
 
@@ -58,7 +56,7 @@ Bartolomeo Vanzetti, **The Letters of Sacco and Vanzetti**, p. 274]
 
 Vanzetti knew what he was talking about. He and his comrade Nicola Sacco were
 framed by the US state for a crime they did not commit and were, effectively,
-electrocuted for being foreign anarchists in 1927\. So this FAQ will have to
+electrocuted for being foreign anarchists in 1927. So this FAQ will have to
 spend some time correcting the slanders and distortions that anarchists have
 been subjected to by the capitalist media, politicians, ideologues and bosses
 (not to mention the distortions by our erstwhile fellow radicals like liberals
@@ -287,29 +285,23 @@ egalitarian . . . Anarchism began -- and remains -- a direct challenge by the
 underprivileged to their oppression and exploitation. It opposes both the
 insidious growth of state power and the pernicious ethos of possessive
 individualism, which, together or separately, ultimately serve only the
-interests of the few at the expense of the rest.
+interests of the few at the expense of the rest._
 
->
-
-> "Anarchism is both a theory and practice of life. Philosophically, it aims
+> _ "Anarchism is both a theory and practice of life. Philosophically, it aims
 for the maximum accord between the individual, society and nature.
 Practically, it aims for us to organise and live our lives in such a way as to
 make politicians, governments, states and their officials superfluous. In an
 anarchist society, mutually respectful sovereign individuals would be
 organised in non-coercive relationships within naturally defined communities
-in which the means of production and distribution are held in common.
+in which the means of production and distribution are held in common._
 
->
-
-> "Anarchists are not dreamers obsessed with abstract principles and
+> _ "Anarchists are not dreamers obsessed with abstract principles and
 theoretical constructs . . . Anarchists are well aware that a perfect society
 cannot be won tomorrow. Indeed, the struggle lasts forever! However, it is the
 vision that provides the spur to struggle against things as they are, and for
-things that might be . . .
+things that might be . . ._
 
->
-
-> "Ultimately, only struggle determines outcome, and progress towards a more
+> _ "Ultimately, only struggle determines outcome, and progress towards a more
 meaningful community must begin with the will to resist every form of
 injustice. In general terms, this means challenging all exploitation and
 defying the legitimacy of all coercive authority. If anarchists have one
@@ -317,13 +309,11 @@ article of unshakeable faith, it is that, once the habit of deferring to
 politicians or ideologues is lost, and that of resistance to domination and
 exploitation acquired, then ordinary people have a capacity to organise every
 aspect of their lives in their own interests, anywhere and at any time, both
-freely and fairly.
+freely and fairly._
 
->
-
-> "Anarchists do not stand aside from popular struggle, nor do they attempt to
-dominate it. They seek to contribute practically whatever they can, and also
-to assist within it the highest possible levels of both individual self-
+> _ "Anarchists do not stand aside from popular struggle, nor do they attempt
+to dominate it. They seek to contribute practically whatever they can, and
+also to assist within it the highest possible levels of both individual self-
 development and of group solidarity. It is possible to recognise anarchist
 ideas concerning voluntary relationships, egalitarian participation in
 decision-making processes, mutual aid and a related critique of all forms of
@@ -370,8 +360,6 @@ Dictionary**, we find:
 > **LIBERTARIAN:** _one who believes in freedom of action and thought; one who
 believes in free will._
 
->
-
 > **SOCIALISM:** _a social system in which the producers possess both
 political power and the means of producing and distributing goods._
 
@@ -394,7 +382,7 @@ now consider the idea of _"libertarian socialism"_ to be a contradiction in
 terms. Indeed, many "Libertarians" think anarchists are just attempting to
 associate the "anti-libertarian" ideas of "socialism" (as Libertarians
 conceive it) with Libertarian ideology in order to make those "socialist"
-ideas more "acceptable" -- in other words, trying to steal the "libertarian"
+ideas more "acceptable" \-- in other words, trying to steal the "libertarian"
 label from its rightful possessors.
 
 Nothing could be further from the truth. Anarchists have been using the term
@@ -423,7 +411,7 @@ is a contradiction in terms.
 
 As we will also explain in [Section I](secIcon.html), only a libertarian-
 socialist system of ownership can maximise individual freedom. Needless to
-say, state ownership -- what is commonly **called** "socialism" -- is, for
+say, state ownership -- what is commonly **called** "socialism" \-- is, for
 anarchists, not socialism at all. In fact, as we will elaborate in [ Section
 H](secHcon.html), state "socialism" is just a form of capitalism, with no
 socialist content whatever. As Rudolf Rocker noted, for anarchists, socialism
@@ -462,7 +450,7 @@ terrible bondage of capitalism."_ [Voltairine de Cleyre, _"Anarchism"_,
 
 (We must stress here that anarchists are opposed to **all** economic forms
 which are based on domination and exploitation, including feudalism, Soviet-
-style "socialism" -- better called "state capitalism" --, slavery and so on.
+style "socialism" \-- better called "state capitalism" \--, slavery and so on.
 We concentrate on capitalism because that is what is dominating the world just
 now).
 
@@ -489,8 +477,8 @@ workers' co-operatives, where _"every individual employed in the association .
 . . has an undivided share in the property of the company"_ because by
 _"participation in losses and gains . . . the collective force [i.e. surplus]
 ceases to be a source of profits for a small number of managers: it becomes
-the property of all workers."_ [**The General Idea of the Revolution**, p. 222
-and p. 223] Thus, in addition to desiring the end of exploitation of labour by
+the property of all workers."_ [**General Idea of the Revolution**, p. 222 and
+p. 223] Thus, in addition to desiring the end of exploitation of labour by
 capital, true socialists also desire a society within which the producers own
 and control the means of production (including, it should be stressed, those
 workplaces which supply services). The means by which the producers will do
@@ -646,20 +634,16 @@ participants of the Makhnovist movement in the Russian Revolution (see
 aspirations to liberty gave birth, in the oppression, to the idea of
 anarchism: the idea of the total negation of a social system based on the
 principles of classes and the State, and its replacement by a free non-statist
-society of workers under self-management.
+society of workers under self-management._
 
->
-
-> "So anarchism does not derive from the abstract reflections of an
+> _ "So anarchism does not derive from the abstract reflections of an
 intellectual or a philosopher, but from the direct struggle of workers against
 capitalism, from the needs and necessities of the workers, from their
 aspirations to liberty and equality, aspirations which become particularly
 alive in the best heroic period of the life and struggle of the working
-masses.
+masses._
 
->
-
-> "The outstanding anarchist thinkers, Bakunin, Kropotkin and others, did not
+> _"The outstanding anarchist thinkers, Bakunin, Kropotkin and others, did not
 invent the idea of anarchism, but, having discovered it in the masses, simply
 helped by the strength of their thought and knowledge to specify and spread
 it."_ [pp. 15-16]

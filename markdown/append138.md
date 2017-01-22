@@ -117,7 +117,7 @@ It appears that, for Rothbard, the collusion between state and business is the
 fault, not of capitalism, but of particular capitalists. The system is pure;
 only individuals are corrupt. But, for anarchists, the origins of the modern
 state-capitalist system lies not in the individual qualities of capitalists as
-such but in the dynamic and evolution of capitalism itself \-- a complex
+such but in the dynamic and evolution of capitalism itself -- a complex
 interaction of class interest, class struggle, social defence against the
 destructive actions of the market, individual qualities and so forth. In other
 words, Rothbard's claims are flawed -- they fail to understand capitalism as a
@@ -206,16 +206,17 @@ were no longer adapted. Thus gradually arose the so-called manufactures, the
 forerunners of the later large industries."_ [**Op. Cit.**, p. 117-8]
 
 Some of the most important state actions from the standpoint of early industry
-were the so-called Enclosure Acts, by which the "commons" -- the free farmland
-shared communally by the peasants in most rural villages -- was "enclosed" or
-incorporated into the estates of various landlords as private property (see
-section [8.3](append138.html#secf83)). This ensured a pool of landless workers
-who had no option but to sell their labour to capitalists. Indeed, the
-widespread independence caused by the possession of the majority of households
-of land caused the rising class of merchants to complain _"that men who should
-work as wage-labourers cling to the soil, and in the naughtiness of their
-hearts prefer independence as squatters to employment by a master."_ [R.H
-Tawney, cited by Allan Elgar in **The Apostles of Greed**, p. 12]
+were the so-called Enclosure Acts, by which the "commons" \-- the free
+farmland shared communally by the peasants in most rural villages -- was
+"enclosed" or incorporated into the estates of various landlords as private
+property (see section [8.3](append138.html#secf83)). This ensured a pool of
+landless workers who had no option but to sell their labour to capitalists.
+Indeed, the widespread independence caused by the possession of the majority
+of households of land caused the rising class of merchants to complain _"that
+men who should work as wage-labourers cling to the soil, and in the
+naughtiness of their hearts prefer independence as squatters to employment by
+a master."_ [R.H Tawney, cited by Allan Elgar in **The Apostles of Greed**, p.
+12]
 
 In addition, other forms of state aid ensured that capitalist firms got a head
 start, so ensuring their dominance over other forms of work (such as co-
@@ -527,9 +528,9 @@ _ A college economist planned
 To live without access to land  
 He would have succeeded  
 But found that he needed  
-Food, shelter and somewhere to stand.  
+Food, shelter and somewhere to stand. _
 
-_ Thus the Individualist (and other) anarchists' concern over the _"land
+Thus the Individualist (and other) anarchists' concern over the _"land
 monopoly"_ of which the Enclosure Acts were but one part. The land monopoly,
 to use Tucker's words, _"consists in the enforcement by government of land
 titles which do not rest upon personal occupancy and cultivation."_ [**The
@@ -652,7 +653,7 @@ section](append138.html#secf85)).
 However, the importance of the enclosure movement is downplayed by supporters
 of capitalism. Little wonder, for it is something of an embarrassment for them
 to acknowledge that the creation of capitalism was somewhat less than
-"immaculate" -- after all, capitalism is portrayed as an almost ideal society
+"immaculate" \-- after all, capitalism is portrayed as an almost ideal society
 of freedom. To find out that an idol has feet of clay and that we are still
 living with the impact of its origins is something pro-capitalists must deny.
 So **is** the enclosures a socialist myth? Most claims that it is flow from
@@ -690,7 +691,7 @@ search for better work.
 Secondly, it is argued that the number of small farm owners increased, or at
 least did not greatly decline, and so the enclosure movement was unimportant.
 Again, this misses the point. Small farm owners can still employ wage workers
-(i.e. become capitalist farmers as opposed to "yeomen" -- independent peasant
+(i.e. become capitalist farmers as opposed to "yeomen" \-- independent peasant
 proprietor). As Lazonick notes, _"[i]t is true that after 1750 some petty
 proprietors continued to occupy and work their own land. But in a world of
 capitalist agriculture, the yeomanry no longer played an important role in

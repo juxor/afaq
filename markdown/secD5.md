@@ -681,7 +681,7 @@ to be too costly, both economically and politically), indirect forms of
 domination were now preferred. These are rooted in economic and political
 pressure rather than the automatic use of violence, although force is always
 an option and is resorted to if "business interests" are threatened. This is
-the reality of the expression "the international community" -- it is code for
+the reality of the expression "the international community" \-- it is code for
 imperialist aims for Western governments, particularly the U.S. and its junior
 partner, the U.K. As discussed in [section D.2.1](secD2.html#secd21), economic
 power can be quite effective in pressuring governments to do what the
@@ -729,7 +729,7 @@ then they can commit any crime against their own people while being praised
 for making progress towards "democracy." However, the moment they step out of
 line and act in ways which clash with the interests of the imperialist powers
 then their short-comings will used to justify intervention (the example of
-Saddam Hussein is the most obvious one to raise here). As for "democracy,"_
+Saddam Hussein is the most obvious one to raise here). As for "democracy,"
 this can be tolerated by imperialism as long as its in _"the traditional sense
 of 'top-down' rule by elites linked to US power, with democratic forms of
 little substance -- unless they are compelled to do so, by their own
@@ -833,11 +833,12 @@ economy . . . That they are realised through different modes (for example,
 capital exportation play a much more restricted role and acts in a different
 way than is the case with monopoly domination) is the result of the
 differences separating bureaucratic capitalism from monopoly capitalism, but
-at bottom this changes nothing.
+at bottom this changes nothing.  
+>  _
 
 >
 
-> "We must strongly emphasise that the imperialistic features of capital are
+> _"We must strongly emphasise that the imperialistic features of capital are
 not tied to 'private' or 'State' ownership of the means of production . . .
 the same process takes place if, instead of monopolies, there is an exploiting
 bureaucracy; in other words, this bureaucracy also can **exploit**, but only
@@ -1099,7 +1100,7 @@ force "free trade" on the "third world." This occurred when third world
 countries faced with falling incomes and rising interest rates defaulted on
 their loans (loans that were mainly given as a bribe to the ruling elites of
 those countries and used as a means to suppress the working people of those
-countries \-- who now, sickenly, are expected to repay them!).
+countries -- who now, sickenly, are expected to repay them!).
 
 Before this, as noted in [section D.5.1](secD5.html#secd51), many countries
 had followed a policy of "import substitution." This tended to create new
@@ -1132,17 +1133,17 @@ that part of the problem is that the IMF and WB have been taken over by true
 believers in capitalism and apply market fundamentalism in all cases. Thus,
 they _"became the new missionary institutions"_ of _"free market ideology"_
 through which _"these ideas were pushed on reluctant poor countries."_ Their
-policies were _"based on an ideology -- market fundamentalism \-- that
-required little, if any, consideration of a country's particular circumstances
-and immediate problems. IMF economists could ignore the short-term effects
-their policies might have on [a] country, content in the belief **in the long
-run** the country would be better off"_ \-- a position which many working
-class people there rejected by rioting and protest. In summary, globalisation
-_"as it has been practised has not lived up to what its advocates promised it
-would accomplish . . . In some cases it has not even resulted in growth, but
-when it has, it has not brought benefits to all; the net effect of the
-policies set by the Washington Consensus had all too often been to benefit the
-few at the expense of the many, the well-off at the expense of the poor."_
+policies were _"based on an ideology -- market fundamentalism -- that required
+little, if any, consideration of a country's particular circumstances and
+immediate problems. IMF economists could ignore the short-term effects their
+policies might have on [a] country, content in the belief **in the long run**
+the country would be better off"_ \-- a position which many working class
+people there rejected by rioting and protest. In summary, globalisation _"as
+it has been practised has not lived up to what its advocates promised it would
+accomplish . . . In some cases it has not even resulted in growth, but when it
+has, it has not brought benefits to all; the net effect of the policies set by
+the Washington Consensus had all too often been to benefit the few at the
+expense of the many, the well-off at the expense of the poor."_
 [**Globalisation and Its Discontents**, p. 17, p. 20, p. 13, p. 36 and p. 20]
 
 While transnational companies are, perhaps, the most well-known
@@ -1311,11 +1312,11 @@ radical movements.
 
 As such, it would be a mistake (as many in the anti-globalisation movement do)
 to contrast the market to the state. State and capital are not opposed to each
-other \-- in fact, the opposite is the case. The modern state exists to
-protect capitalist rule, just as every state exists to defend minority rule,
-and it is essential for nation states to attract and retain capital within
-their borders to ensure their revenue by having a suitably strong economy to
-tax. Globalisation is a state-led initiative whose primary aim is to keep the
+other -- in fact, the opposite is the case. The modern state exists to protect
+capitalist rule, just as every state exists to defend minority rule, and it is
+essential for nation states to attract and retain capital within their borders
+to ensure their revenue by having a suitably strong economy to tax.
+Globalisation is a state-led initiative whose primary aim is to keep the
 economically dominant happy. The states which are being "undermined" by
 globalisation are not horrified by this process as certain protestors are,
 which should give pause for thought. States are complicit in the process of
@@ -1331,7 +1332,7 @@ they can be influenced by their subjects, unlike multinationals. NAFTA was
 designed to reduce this influence even more. Changes in government policy
 reflect the changing needs of business, modified, of course, by fear of the
 working population and its strength. Which explains globalisation -- the need
-for capital to strengthen its position vis--vis labour by pitting one labour
+for capital to strengthen its position vis-a-vis labour by pitting one labour
 force against -- and our next step, namely to strengthen and globalise working
 class resistance. Only when it is clear that the costs of globalisation -- in
 terms of strikes, protests, boycotts, occupations, economic instability and so
@@ -1517,7 +1518,7 @@ D.8](secD8.html).
 However, under globalisation things are somewhat different. With the increase
 in world trade and the signing of "free trade" agreements like NAFTA, the
 position of workers in the imperialist nations need not improve. For example,
-since the 1970s, the wages \-- adjusted for inflation -- of the typical
+since the 1970s, the wages -- adjusted for inflation -- of the typical
 American employee have actually fallen, even as the economy has grown. In
 other words, the majority of Americans are no longer sharing in the gains from
 economic growth. This is very different from the previous era, for example

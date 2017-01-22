@@ -258,7 +258,7 @@ capitalism will or can concede. Hence the need for a revolutionary change.
 Only this can ensure that anarchist ideas are the most popular ones for if we
 think a movement is, all things considered, a positive or progressive one then
 we should not abstain but should seek to popularise anarchist ideas and
-strategies within it. In this way we create _**"schools of anarchy"**_ within
+strategies within it. In this way we create **_"schools of anarchy"_** within
 the current system and lay the foundations of something better. Revolutionary
 tendencies and movements, in other words, must create the organisations that
 contain, in embryo, the society of the future (see [section
@@ -518,7 +518,7 @@ focusing exclusively on narrow aspects of a problem, they choose to believe
 that is the whole problem. In this wilfully narrow examination of pressing
 social ills, reformists are, more often than not, counter-productive. The
 disaster of the urban rebuilding projects in the United States (and similar
-projects in Britain which moved inter-city working class communities into edge
+projects in Britain which moved inner-city working class communities into edge
 of town developments during the 1950s and 1960s) are an example of reformism
 at work: upset at the growing slums, reformists supported projects that
 destroyed the ghettos and built brand-new housing for working class people to
@@ -604,7 +604,7 @@ expressed in the law an accomplished **fact**._
 
 > _"On the other hand . . . the Anarchists have always advised taking an
 active part in those workers' organisations which carry on the **direct**
-struggle of Labour against Capital and its protector, \-- the State._
+struggle of Labour against Capital and its protector, -- the State._
 
 > _"Such a struggle . . . better than any other indirect means, permits the
 worker to obtain some temporary improvements in the present conditions of work
@@ -678,7 +678,7 @@ Firstly, we must note that anarchists do take part in "single-issue"
 campaigns, but do not nourish false hopes in them. This section explains what
 anarchists think of such campaigns.
 
-A "single-issue" campaign are usually run by a pressure group which
+A "single-issue" campaign is usually run by a pressure group which
 concentrates on tackling issues one at a time. For example, C.N.D. (The
 Campaign for Nuclear Disarmament) is a classic example of "single-issue"
 campaigning with the aim of getting rid of nuclear weapons as the be-all and
@@ -767,15 +767,15 @@ to replace a few workers, but a whole workforce would be far more difficult.
 By organising all workers in the same industry, the power of each workplace is
 correspondingly increased. Extending this example to outside the workplace,
 its clear that by mutual support between different groups increases the
-chances of each group winning its fight. As the I.W.W. put it: _**"An injury
-to one is an injury to all."**_ By generalising struggles, by practising
+chances of each group winning its fight. As the I.W.W. put it: **_"An injury
+to one is an injury to all."_** By generalising struggles, by practising
 mutual aid we can ensure that when we are fighting for our rights and against
 injustice we will not be isolated and alone. If we don't support each other,
 groups will be picked off one by one. and if we go into struggle, there will
 be no one there to support us and we are more likely to be defeated.
 
 Therefore, from an anarchist point of view, the best thing about generalising
-struggles is that as well as increasing the likilihood of success
+struggles is that as well as increasing the likelihood of success
 (_"Solidarity is Strength"_) it leads to an increased spirit of solidarity,
 responsibility and class consciousness. This is because by working together
 and showing solidarity those involved get to understand their common interests
@@ -793,7 +793,7 @@ unions in Italy and France as well. The structure of such local federations
 also situates the workplace in the community where it really belongs.
 
 Also, by uniting struggles together, we can see that there are really no
-"single issues" -- that all various different problems are inter-linked. For
+"single issues" \-- that all various different problems are inter-linked. For
 example, ecological problems are not just that, but have a political and
 economic basis and that economic and social domination and exploitation spills
 into the environment. Inter-linking struggles means that they can be seen to
@@ -821,30 +821,24 @@ to **know** each other, to **confront** each other; they would **explore**
 each other with a view of achieving the most complete, unalienated
 relationships. Women would discuss sexism, as well as their welfare
 allotments, child-rearing as well as harassment by landlords, their dreams and
-hopes as human beings as well as the cost of living.
+hopes as human beings as well as the cost of living. _
 
->
-
-> "From this intimacy there would grow, hopefully, a supportive system of
+> _"From this intimacy there would grow, hopefully, a supportive system of
 kinship, mutual aid, sympathy and solidarity in daily life. The women might
 collaborate to establish a rotating system of baby sitters and child-care
 attendants, the co-operative buying of good food at greatly reduced prices,
 the common cooking and partaking of meals, the mutual learning of survival
 skills and the new social ideas, the fostering of creative talents, and many
 other shared experiences. Every aspect of life that could be explored and
-changed would be one part of the kind of relationships . . .
+changed would be one part of the kind of relationships . . . _
 
->
-
-> "The struggle for increased allotments would expand beyond the welfare
+> _"The struggle for increased allotments would expand beyond the welfare
 system to the schools, the hospitals, the police, the physical, cultural,
 aesthetic and recreational resources of the neighbourhood, the stores, the
 houses, the doctors and lawyers in the area, and so on -- into the very
-ecology of the district.
+ecology of the district. _
 
->
-
-> "What I have said on this issue could be applied to every issue --
+> _"What I have said on this issue could be applied to every issue --
 unemployment, bad housing, racism, work conditions -- in which an insidious
 assimilation of bourgeois modes of functioning is masked as 'realism' and
 'actuality.' The new order of relationships that could be developed from a
@@ -855,7 +849,7 @@ recasts the way people 'organise' and the goals for which they strive."_
 As the anarchist slogan puts it: **_"Resistance is Fertile."_** Planting the
 seed of autonomy, direct action and self-liberation can result, potentially,
 in the blossoming of free individuals due to the nature of struggle itself
-(see [section A.2.7](secA2.html#seca27)) Therefore, the generalisation of
+(see [section A.2.7](secA2.html#seca27)). Therefore, the generalisation of
 social struggle is not only a key way of winning a specific fight, it can (and
 should) also spread into different aspects of life and society and play a key
 part in developing free individuals who reject hierarchy in all aspects of

@@ -51,7 +51,7 @@ is weak.
 
 Another important implication of this "liberty as property" concept is that it
 produces a strangely alienated concept of freedom. Liberty, as we noted, is no
-longer considered absolute, but a derivative of property \-- which has the
+longer considered absolute, but a derivative of property -- which has the
 important consequence that you can "sell" your liberty and still be considered
 free by the ideology. This concept of liberty is usually termed "self-
 ownership." But, to state the obvious, I do not "own" myself, as if were an
@@ -113,21 +113,22 @@ relationships of domination and subjection this situation creates. That people
 
 > _ "The law says your employer does not steal anything from you, because it
 is done with your consent. You have agreed to work for your boss for certain
-pay, he to have all that you produce . . .
+pay, he to have all that you produce . . .  
+>  _
 
 >
 
-> "But did you really consent?
+> _"But did you really consent? _
 
 >
 
-> "When the highway man holds his gun to your head, you turn your valuables
+> _"When the highway man holds his gun to your head, you turn your valuables
 over to him. You 'consent' all right, but you do so because you cannot help
-yourself, because you are **compelled** by his gun.
+yourself, because you are **compelled** by his gun. _
 
 >
 
-> "Are you not **compelled** to work for an employer? Your need compels you
+> _"Are you not **compelled** to work for an employer? Your need compels you
 just as the highwayman's gun. You must live . . . You can't work for yourself
 . . . The factories, machinery, and tools belong to the employing class, so
 you **must** hire yourself out to that class in order to work and live.
@@ -192,8 +193,8 @@ term **wage slave**."_ [**The Sexual Contract**, p. 151]
 In other words, contracts about property in the person inevitably create
 subordination. "Anarcho"-capitalism defines this source of unfreedom away, but
 it still exists and has a major impact on people's liberty. For anarchists
-freedom is better described as "self-government" or "self-management" -- to be
-able to govern ones own actions (if alone) or to participate in the
+freedom is better described as "self-government" or "self-management" \-- to
+be able to govern ones own actions (if alone) or to participate in the
 determination of join activity (if part of a group). Freedom, to put it
 another way, is not an abstract legal concept, but the vital concrete
 possibility for every human being to bring to full development all their
@@ -587,7 +588,7 @@ who can (bar actually murdering them by violence) do whatever they please with
 them, even sell them on a _"flourishing free child market."_ [**The Ethics of
 Liberty**, p. 102] Combined with a whole hearted support for child labour
 (after all, the child can leave its parents if it objects to working for them)
-such a "free child market" could easily become a "child slave market" -- with
+such a "free child market" could easily become a "child slave market" \-- with
 entrepreneurs making a healthy profit selling infants and children or their
 labour to capitalists (as did occur in 19th century Britain). Unsurprisingly,
 Rothbard ignores the possible nasty aspects of such a market in human flesh
@@ -775,7 +776,7 @@ Pateman, **Op. Cit.**, p. 149] Hence Proudhon's support for self-management
 and opposition to capitalism -- any relationship that resembles slavery is
 illegitimate and no contract that creates a relationship of subordination is
 valid. Thus in a truly anarchistic society, slave contracts would be
-unenforceable \-- people in a truly free (i.e. non-capitalist) society would
+unenforceable -- people in a truly free (i.e. non-capitalist) society would
 **never** tolerate such a horrible institution or consider it a valid
 agreement. If someone was silly enough to sign such a contract, they would
 simply have to say they now rejected it in order to be free -- such contracts

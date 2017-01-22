@@ -53,7 +53,7 @@ is weak.
 
 Another important implication of this "liberty as property" concept is that it
 produces a strangely alienated concept of freedom. Liberty, as we noted, is no
-longer considered absolute, but a derivative of property \-- which has the
+longer considered absolute, but a derivative of property -- which has the
 important consequence that you can "sell" your liberty and still be considered
 free by the ideology. This concept of liberty (namely "liberty as property")
 is usually termed "self-ownership." But, to state the obvious, I do not "own"
@@ -122,10 +122,10 @@ unfree labourer."_ [**The Sexual Contract**, p. 151]
 In other words, contracts about property in the person inevitably create
 subordination. "Anarcho"-capitalism defines this source of unfreedom away, but
 it still exists and has a major impact on people's liberty. Therefore freedom
-is better described as "self-government" or "self-management" -- to be able to
-govern ones own actions (if alone) or to participate in the determination of
-join activity (if part of a group). Freedom, to put it another way, is not an
-abstract legal concept, but the vital concrete possibility for every human
+is better described as "self-government" or "self-management" \-- to be able
+to govern ones own actions (if alone) or to participate in the determination
+of join activity (if part of a group). Freedom, to put it another way, is not
+an abstract legal concept, but the vital concrete possibility for every human
 being to bring to full development all their powers, capacities, and talents
 which nature has endowed them. A key aspect of this is to govern one own
 actions when within associations (self-management). If we look at freedom this
@@ -465,7 +465,7 @@ control while being an autocrat to their subordinated employees. Again, we
 find the right-"libertarian" acknowledging that the capitalist managerial
 structure is a hierarchy and workers are subordinated while denying it is
 autocratic to the workers! Thus we have "free" workers within a relationship
-distinctly **lacking** freedom (in the sense of self-government) \-- a strange
+distinctly **lacking** freedom (in the sense of self-government) -- a strange
 paradox. Indeed, if your personal life were as closely monitored and regulated
 as the work life of millions of people across the world, you would rightly
 consider it oppression.
@@ -553,10 +553,10 @@ few.
 Ironically enough, "anarcho"-capitalist ideology actually allows the state to
 be justified along with capitalist hierarchy. This is because the reason why
 capitalist authority is acceptable to the "anarcho"-capitalist is because it
-is "voluntary" -- no one forces the worker to join or remain within a specific
-company (force of circumstances are irrelevant in this viewpoint). Thus
-capitalist domination is not really domination at all. But the same can be
-said of all democratic states as well. Few such states bar exit for its
+is "voluntary" \-- no one forces the worker to join or remain within a
+specific company (force of circumstances are irrelevant in this viewpoint).
+Thus capitalist domination is not really domination at all. But the same can
+be said of all democratic states as well. Few such states bar exit for its
 citizens -- they are free to leave at any time and join any other state that
 will have them (exactly as employees can with companies). Of course there
 **are** differences between the two kinds of authority -- anarchists do not
@@ -590,7 +590,7 @@ makes the same point:
 
 > _"The emphasis [right-wing] libertarians place on the opposition of liberty
 and political power tends to obscure the role of authority in their worldview
-. . . the authority exercised in private relationships, however \-- in the
+. . . the authority exercised in private relationships, however -- in the
 relationship between employer and employee, for instance -- meets with no
 objection. . . . [This] reveals a curious insensitivity to the use of private
 authority as a means of social control. Comparing public and private
@@ -658,7 +658,7 @@ Secondly, much property in "actually existing" capitalism is the product
 (directly or indirectly) of state laws and violence (_"the emergence of both
 agrarian and industrial capitalism in Britain [and elsewhere, we must add] . .
 . could not have got off the ground without resources to state violence --
-legal or otherwise"_ [Brian Morris, **Ecology & Anarchism**, p. 190]). If
+legal or otherwise"_ [Brian Morris, **Ecology &amp; Anarchism**, p. 190]). If
 state claims of ownership are invalid due to their history, then so are many
 others (particularly those which claim to own land). As the initial creation
 was illegitimate, so are the transactions which have sprung from it. Thus if
@@ -795,21 +795,21 @@ option but to take part in the labour market. As Alexander Berkman put it:
 
 > _"The law says your employer does not sell anything from you, because it is
 done with your consent. You have agreed to work for your boss for certain pay,
-he to have all that you produce . . .
+he to have all that you produce . . . _
 
 >
 
-> "But did you really consent?
+> _"But did you really consent? _
 
 >
 
-> "When the highway man holds his gun to your head, you turn your valuables
+> _"When the highway man holds his gun to your head, you turn your valuables
 over to him. You 'consent' all right, but you do so because you cannot help
-yourself, because you are **compelled** by his gun.
+yourself, because you are **compelled** by his gun. _
 
 >
 
-> "Are you not **compelled** to work for an employer? Your need compels you
+> _"Are you not **compelled** to work for an employer? Your need compels you
 just as the highwayman's gun. You must live. . . You can't work for yourself .
 . .The factories, machinery, and tools belong to the employing class, so you
 **must** hire yourself out to that class in order to work and live. Whatever
@@ -903,8 +903,8 @@ leave it" in the organisations we create/join as a result of these "free"
 choices.
 
 This ideological blind spot flows from the "anarcho"-capitalist definition of
-"freedom" as "absence of coercion" -- as workers "freely consent" to joining a
-specific workplace, their freedom is unrestricted. But to defend **only**
+"freedom" as "absence of coercion" \-- as workers "freely consent" to joining
+a specific workplace, their freedom is unrestricted. But to defend **only**
 "freedom from" in a capitalist society means to defend the power and authority
 of the few against the attempts of the many to claim their freedom and rights.
 To requote Emma Goldman, _"'Rugged individualism' has meant all the
@@ -926,7 +926,7 @@ and justify capitalist and landlord domination and denounce any attempts to
 resist that domination as "initiation of force."
 
 Anarchists, in contrast, oppose **hierarchy** (and so domination within
-relationships -- bar S&amp;M; personal relationships, which are a totally
+relationships -- bar S&amp;M personal relationships, which are a totally
 different thing altogether; they are truly voluntary and they also do not
 attempt to hide the power relationships involved by using economic jargon).
 This opposition, while also including opposition to the use of force against
@@ -1092,7 +1092,7 @@ theory, of voluntary slave contracts"_ see **The Ethics of Liberty**, pp.
 134-135 -- of course, **other** libertarian theorists claim the exact opposite
 so _"libertarian theory"_ makes no such claims, but nevermind! Essentially,
 his point revolves around the assertion that a person _"cannot, in nature,
-sell himself into slavery and have this sale enforced \- for this would mean
+sell himself into slavery and have this sale enforced - for this would mean
 that his future will over his own body was being surrendered in advance"_ and
 that if a _"labourer remains totally subservient to his master's will
 voluntarily, he is not yet a slave since his submission is voluntary."_ [p.
@@ -1182,15 +1182,15 @@ with them, even sell them on a _"flourishing free child market."_ [**The
 Ethics of Liberty**, p. 102] Combined with a whole hearted support for child
 labour (after all, the child can leave its parents if it objects to working
 for them) such a "free child market" could easily become a "child slave
-market" -- with entrepreneurs making a healthy profit selling infants to other
-entrepreneurs who could make profits from the toil of "their" children (and
-such a process did occur in 19th century Britain). Unsurprisingly, Rothbard
-ignores the possible nasty aspects of such a market in human flesh (such as
-children being sold to work in factories, homes and brothels). And, of course,
-such a market could see women "specialising" in producing children for it (the
-use of child labour during the Industrial Revolution actually made it
-economically sensible for families to have more children) and, perhaps, gluts
-and scarcities of babies due to changing market conditions. But this is
+market" \-- with entrepreneurs making a healthy profit selling infants to
+other entrepreneurs who could make profits from the toil of "their" children
+(and such a process did occur in 19th century Britain). Unsurprisingly,
+Rothbard ignores the possible nasty aspects of such a market in human flesh
+(such as children being sold to work in factories, homes and brothels). And,
+of course, such a market could see women "specialising" in producing children
+for it (the use of child labour during the Industrial Revolution actually made
+it economically sensible for families to have more children) and, perhaps,
+gluts and scarcities of babies due to changing market conditions. But this is
 besides the point.
 
 Of course, this theoretical justification for slavery at the heart of an
@@ -1489,7 +1489,7 @@ Simply because they lead to the creation of authoritarian social relationships
 and so to restrictions on liberty. A political theory which, when consistently
 followed, has evil or iniquitous consequences, is a bad theory.
 
-For example, any theory that can justify slavery is obviously a bad theory \-
+For example, any theory that can justify slavery is obviously a bad theory -
 slavery does not cease to stink the moment it is seen to follow your theory.
 As right-Libertarians can justify slave contracts as a type of wage labour
 (see [section 2.6](append132.html#secf26)) as well as numerous other
@@ -1501,23 +1501,23 @@ It is worth quoting Noam Chomsky at length on this subject:
 [a]ccording to this theory, a person has a right to whatever he has acquired
 by means that are just. If, by luck or labour or ingenuity, a person acquires
 such and such, then he is entitled to keep it and dispose of it as he wills,
-and a just society will not infringe on this right.
+and a just society will not infringe on this right. _
 
 >
 
-> "One can easily determine where such a principle might lead. It is entirely
+> _"One can easily determine where such a principle might lead. It is entirely
 possible that by legitimate means - say, luck supplemented by contractual
 arrangements 'freely undertaken' under pressure of need - one person might
 gain control of the necessities of life. Others are then free to sell
 themselves to this person as slaves, if he is willing to accept them.
 Otherwise, they are free to perish. Without extra question-begging conditions,
-the society is just.
+the society is just. _
 
 >
 
-> "The argument has all the merits of a proof that 2 + 2 = 5. . . Suppose that
-some concept of a 'just society' is advanced that fails to characterise the
-situation just described as unjust. . . Then one of two conclusions is in
+> _"The argument has all the merits of a proof that 2 + 2 = 5. . . Suppose
+that some concept of a 'just society' is advanced that fails to characterise
+the situation just described as unjust. . . Then one of two conclusions is in
 order. We may conclude that the concept is simply unimportant and of no
 interest as a guide to thought or action, since it fails to apply properly
 even in such an elementary case as this. Or we may conclude that the concept
@@ -1528,11 +1528,11 @@ the sort described as grossly unjust, then the sole interest of a
 demonstration that this outcome might be 'just' under a given 'theory of
 justice' lies in the inference by **reductio ad absurdum** to the conclusion
 that the theory is hopelessly inadequate. While it may capture some partial
-intuition regarding justice, it evidently neglects others.
+intuition regarding justice, it evidently neglects others. _
 
 >
 
-> "The real question to be raised about theories that fail so completely to
+> _"The real question to be raised about theories that fail so completely to
 capture the concept of justice in its significant and intuitive sense is why
 they arouse such interest. Why are they not simply dismissed out of hand on
 the grounds of this failure, which is striking in clear cases? Perhaps the
@@ -1542,11 +1542,11 @@ and conceptual shortcomings, he observes that such work 'plays an important
 function in the process of . . . 'blaming the victim,' and of protecting
 property against egalitarian onslaughts by various non-propertied groups.' An
 ideological defence of privileges, exploitation, and private power will be
-welcomed, regardless of its merits.
+welcomed, regardless of its merits. _
 
 >
 
-> "These matters are of no small importance to poor and oppressed people here
+> _"These matters are of no small importance to poor and oppressed people here
 and elsewhere."_ [**The Chomsky Reader**, pp. 187-188]
 
 It may be argued that the reductions in liberty associated with capitalism is

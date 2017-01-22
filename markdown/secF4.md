@@ -56,32 +56,34 @@ nature of private property and its impact on individual liberty when he wrote:
 **respect** your property. 'Respect for property!' . . . The position of
 affairs is different in the egoistic sense. I do not step shyly back from your
 property, but look upon it always as **my** property, in which I respect
-nothing. Pray do the like with what you call my property!
+nothing. Pray do the like with what you call my property!  
+>  _
 
 >
 
-> "With this view we shall most easily come to an understanding with each
-other.
+> _"With this view we shall most easily come to an understanding with each
+other. _
 
 >
 
-> "The political liberals are anxious that . . . every one be free lord on his
-ground, even if this ground has only so much area as can have its requirements
-adequately filled by the manure of one person . . . Be it ever so little, if
-one only has somewhat of his own -- to wit, a **respected** property: The more
-such owners . . . the more 'free people and good patriots' has the State.
+> _"The political liberals are anxious that . . . every one be free lord on
+his ground, even if this ground has only so much area as can have its
+requirements adequately filled by the manure of one person . . . Be it ever so
+little, if one only has somewhat of his own -- to wit, a **respected**
+property: The more such owners . . . the more 'free people and good patriots'
+has the State. _
 
 >
 
-> "Political liberalism, like everything religious, counts on **respect,**
+> _"Political liberalism, like everything religious, counts on **respect,**
 humaneness, the virtues of love. Therefore does it live in incessant vexation.
 For in practice people respect nothing, and everyday the small possessions are
 bought up again by greater proprietors, and the 'free people' change into day
-labourers.
+labourers. _
 
 >
 
-> "If, on the contrary, the 'small proprietors' had reflected that the great
+> _"If, on the contrary, the 'small proprietors' had reflected that the great
 property was also theirs, they would not have respectively shut themselves out
 from it, and would not have been shut out . . . Instead of owning the world,
 as he might, he does not even own even the paltry point on which he turns
@@ -185,21 +187,22 @@ It is worth quoting Noam Chomsky at length on this subject:
 justice' . . . [a]ccording to this theory, a person has a right to whatever he
 has acquired by means that are just. If, by luck or labour or ingenuity, a
 person acquires such and such, then he is entitled to keep it and dispose of
-it as he wills, and a just society will not infringe on this right.
+it as he wills, and a just society will not infringe on this right.  
+>  _
 
 >
 
-> "One can easily determine where such a principle might lead. It is entirely
+> _"One can easily determine where such a principle might lead. It is entirely
 possible that by legitimate means -- say, luck supplemented by contractual
 arrangements 'freely undertaken' under pressure of need -- one person might
 gain control of the necessities of life. Others are then free to sell
 themselves to this person as slaves, if he is willing to accept them.
 Otherwise, they are free to perish. Without extra question-begging conditions,
-the society is just.
+the society is just. _
 
 >
 
-> "The argument has all the merits of a proof that 2 + 2 = 5 . . . Suppose
+> _"The argument has all the merits of a proof that 2 + 2 = 5 . . . Suppose
 that some concept of a 'just society' is advanced that fails to characterise
 the situation just described as unjust. . . Then one of two conclusions is in
 order. We may conclude that the concept is simply unimportant and of no
@@ -212,11 +215,11 @@ the sort described as grossly unjust, then the sole interest of a
 demonstration that this outcome might be 'just' under a given 'theory of
 justice' lies in the inference by **reductio ad absurdum** to the conclusion
 that the theory is hopelessly inadequate. While it may capture some partial
-intuition regarding justice, it evidently neglects others.
+intuition regarding justice, it evidently neglects others. _
 
 >
 
-> "The real question to be raised about theories that fail so completely to
+> _"The real question to be raised about theories that fail so completely to
 capture the concept of justice in its significant and intuitive sense is why
 they arouse such interest. Why are they not simply dismissed out of hand on
 the grounds of this failure, which is striking in clear cases? Perhaps the
@@ -226,11 +229,11 @@ and conceptual shortcomings, he observes that such work 'plays an important
 function in the process of . . . 'blaming the victim,' and of protecting
 property against egalitarian onslaughts by various non-propertied groups.' An
 ideological defence of privileges, exploitation, and private power will be
-welcomed, regardless of its merits.
+welcomed, regardless of its merits. _
 
 >
 
-> "These matters are of no small importance to poor and oppressed people here
+> _"These matters are of no small importance to poor and oppressed people here
 and elsewhere."_ [**The Chomsky Reader**, pp. 187-188]
 
 The glorification of property rights has always been most strongly advocated

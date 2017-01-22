@@ -1,27 +1,27 @@
-## Non-English versions of the FAQ
+In French:
 
-In Hebrew:  
-[
-http://www.shalif.com/anarchy/faqdama.html](http://www.shalif.com/anarchy/faqdama.html)  
-[
-http://members.tripod.com/~alternativ_psy/faqdama.html](http://members.tripod.com/~alternativ_psy/faqdama.html)
+[Les FAQ anarchiste](http://anarfaq.free.fr/)
 
-In French:  
-[Les FAQ anarchiste](http://anarfaq.free.fr/)  
-[Une FAQ Anarchiste (francophone)](http://faqanar.free.fr)
+[Une FAQ Anarchiste (francophone)](http://faqanar.free.fr/)
 
-In Portuguese:  
-[
-http://www.geocities.com/projetoperiferia2/indice.htm](http://www.geocities.com/projetoperiferia2/indice.htm)
+In Kurdish:
 
-In Japanese:  
-[
-http://www.ne.jp/asahi/anarchy/anarchy/faq/](http://www.ne.jp/asahi/anarchy/anarchy/faq/)
+[http:/kurdish.wordpress.com/](http:/kurdish.wordpress.com/)
 
-* * *
+In Japanese:
 
-[![](flag.gif)](index.html)  
-Click on the flag to return to _**"An Anarchist FAQ"**_ index page
+<http://www.ne.jp/asahi/anarchy/anarchy/faq/>
 
-* * *
+In Hebrew:
+
+<http://www.shalif.com/anarchy/faqdama.html>
+
+[http://members.tripod.com/~alternativ_psy/faqdama.html](http://members.tripod.com/%7Ealternativ_psy/faqdama.html)
+
+In Portuguese:
+
+<http://www.reocities.com/projetoperiferia2/indice.htm>
+
+Click [here](http://www.anarchistfaq.org.uk) to return to An Anarchist FAQ
+front-page
 

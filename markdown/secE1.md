@@ -302,7 +302,7 @@ are unconvinced and agree with Bookchin when he noted that "cries against
 'technology' and 'industrial society' [are] two very safe, socially natural
 targets against which even the bourgeoisie can inveigh in Earth Day
 celebrations, as long as minimal attention is paid to the social relations in
-which the mechanisation of society is rooted."_ Instead, ecology needs _"a
+which the mechanisation of society is rooted." Instead, ecology needs _"a
 confrontational stance toward capitalism and hierarchical society"_ in order
 to be effective and fix the root causes of our problems. [**The Ecology of
 Freedom**, p. 54]

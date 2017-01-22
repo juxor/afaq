@@ -43,7 +43,7 @@ The same can be said of all countries. As such, when supporters of
 "libertarian" capitalism say they are against the "initiation of force," they
 mean only **new** initiations of force: for the system they support was born
 from numerous initiations of force in the past (moreover, it also requires
-state intervention to keep it going \-- [section D.1](secD1.html) addresses
+state intervention to keep it going -- [section D.1](secD1.html) addresses
 this point in some detail). Indeed, many thinkers have argued that it was
 precisely this state support and coercion (particularly the separation of
 people from the land) that played the **key** role in allowing capitalism to
@@ -394,7 +394,7 @@ capitalism would have developed at all. So the only "capitalism" that has
 existed is a product of state support and intervention, and it has been
 characterised by markets that are considerably less than free. Thus, serious
 supporters of truly free markets (like the American Individualist Anarchists)
-have not been satisfied with "capitalism" -- have, in fact, quite rightly and
+have not been satisfied with "capitalism" \-- have, in fact, quite rightly and
 explicitly opposed it. Their vision of a free society has always been at odds
 with the standard capitalist one, a fact which "anarcho"-capitalists bemoan
 and dismiss as "mistakes" and/or the product of "bad economics." Apparently
@@ -534,24 +534,24 @@ underestimate the role of state power in creating the preconditions for both
 agricultural and industrial capitalism.
 
 Some of the most important state actions from the standpoint of early industry
-were the so-called Enclosure Acts, by which the "commons" -- the free farmland
-shared communally by the peasants in most rural villages -- was "enclosed" or
-incorporated into the estates of various landlords as private property (see
-[section F.8.3](secF8.html#secf83)). This ensured a pool of landless workers
-who had no option but to sell their labour to landlords and capitalists.
-Indeed, the widespread independence caused by the possession of the majority
-of households of land caused the rising class of capitalists to complain, as
-one put it, _"that men who should work as wage-labourers cling to the soil,
-and in the naughtiness of their hearts prefer independence as squatters to
-employment by a master."_ [quoted by Allan Engler, **The Apostles of Greed**,
-p. 12] Once in service to a master, the state was always on hand to repress
-any signs of _"naughtiness"_ and _"independence"_ (such as strikes, riots,
-unions and the like). For example, Seventeenth century France saw a _"number
-of decrees . . . which forbade workers to change their employment or which
-prohibited assemblies of workers or strikes on pain of corporal punishment or
-even death. (Even the Theological Faculty of the University of Paris saw fit
-to pronounce solemnly against the sin of workers' organisation)."_ [Maurice
-Dobb, **Studies in Capitalism Development**, p. 160]
+were the so-called Enclosure Acts, by which the "commons" \-- the free
+farmland shared communally by the peasants in most rural villages -- was
+"enclosed" or incorporated into the estates of various landlords as private
+property (see [section F.8.3](secF8.html#secf83)). This ensured a pool of
+landless workers who had no option but to sell their labour to landlords and
+capitalists. Indeed, the widespread independence caused by the possession of
+the majority of households of land caused the rising class of capitalists to
+complain, as one put it, _"that men who should work as wage-labourers cling to
+the soil, and in the naughtiness of their hearts prefer independence as
+squatters to employment by a master."_ [quoted by Allan Engler, **The Apostles
+of Greed**, p. 12] Once in service to a master, the state was always on hand
+to repress any signs of _"naughtiness"_ and _"independence"_ (such as strikes,
+riots, unions and the like). For example, Seventeenth century France saw a
+_"number of decrees . . . which forbade workers to change their employment or
+which prohibited assemblies of workers or strikes on pain of corporal
+punishment or even death. (Even the Theological Faculty of the University of
+Paris saw fit to pronounce solemnly against the sin of workers'
+organisation)."_ [Maurice Dobb, **Studies in Capitalism Development**, p. 160]
 
 In addition, other forms of state aid ensured that capitalist firms got a head
 start, so ensuring their dominance over other forms of work (such as co-
@@ -840,8 +840,7 @@ against enclosure:
 _ They hang the man, and flog the woman,  
 That steals the goose from off the common;  
 But let the greater villain loose,  
-That steals the common from the goose.  
-_
+That steals the common from the goose. _
 
 It should be remembered that the process of enclosure was not limited to just
 the period of the industrial revolution. As Colin Ward notes, _"in Tudor
@@ -884,8 +883,7 @@ _ A college economist planned
 To live without access to land  
 He would have succeeded  
 But found that he needed  
-Food, shelter and somewhere to stand.  
-_
+Food, shelter and somewhere to stand. _
 
 Thus anarchists concern over the _"land monopoly"_ of which the Enclosure Acts
 were but one part. The land monopoly, to use Tucker's words, _"consists in the
@@ -1157,7 +1155,7 @@ Needless to say, the titles of landlords and the state are generally ignored
 by supporters of capitalism who tend to concentrate on the enclosure movement
 in order to downplay its importance. Little wonder, for it is something of an
 embarrassment for them to acknowledge that the creation of capitalism was
-somewhat less than "immaculate" -- after all, capitalism is portrayed as an
+somewhat less than "immaculate" \-- after all, capitalism is portrayed as an
 almost ideal society of freedom. To find out that an idol has feet of clay and
 that we are still living with the impact of its origins is something pro-
 capitalists must deny. So **are** the enclosures a socialist myth? Most claims
@@ -1235,7 +1233,7 @@ Shop Floor**, p. 30]
 Secondly, it is argued that the number of small farm owners increased, or at
 least did not greatly decline, and so the enclosure movement was unimportant.
 Again, this misses the point. Small farm owners can still employ wage workers
-(i.e. become capitalist farmers as opposed to "yeomen" -- an independent
+(i.e. become capitalist farmers as opposed to "yeomen" \-- an independent
 peasant proprietor). As Lazonick notes, _"[i]t is true that after 1750 some
 petty proprietors continued to occupy and work their own land. But in a world
 of capitalist agriculture, the yeomanry no longer played an important role in
@@ -1434,7 +1432,7 @@ basis of freedom in early America. For example, he notes in passing that _"the
 abundance of fertile virgin land in a vast territory enabled individualism to
 come to full flower in many areas."_ [**Conceived in Liberty**, vol. 2, p.
 186] Yet he did not ponder the transformation in social relationships which
-would result when that land was gone. In fact, he was blas about it. _"If
+would result when that land was gone. In fact, he was blase about it. _"If
 latecomers are worse off,"_ he opined, _"well then that is their proper
 assumption of risk in this free and uncertain world. There is no longer a vast
 frontier in the United States, and there is no point crying over the fact."_

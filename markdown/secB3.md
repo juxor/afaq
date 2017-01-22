@@ -10,14 +10,14 @@ the case -- anarchists are against every form of property rights regime which
 results in the many working for the few.
 
 Anarchist opposition to private property rests on two, related, arguments.
-These were summed up by Proudhon's maxims (from **What is Property?** that
+These were summed up by Proudhon's maxims (from What is Property? that
 _"property is theft"_ and _"property is despotism."_ In his words, _"Property
 . . . violates equality by the rights of exclusion and increase, and freedom
-by despotism . . . [and has] perfect identity with robbery."_ [Proudhon,
-**What is Property**, p. 251] Anarchists, therefore, oppose private property
-(i.e. capitalism) because it is a source of coercive, hierarchical authority
-as well as exploitation and, consequently, elite privilege and inequality. It
-is based on and produces inequality, in terms of both wealth and power.
+by despotism . . . [and has] perfect identity with robbery."_ [Proudhon, What
+is Property, p. 251] Anarchists, therefore, oppose private property (i.e.
+capitalism) because it is a source of coercive, hierarchical authority as well
+as exploitation and, consequently, elite privilege and inequality. It is based
+on and produces inequality, in terms of both wealth and power.
 
 We will summarise each argument in turn.
 
@@ -97,21 +97,23 @@ direct contradiction to what the defenders of property promise. This is
 unsurprising given the nature of the property they are defending:
 
 > _ "Our opponents . . . are in the habit of justifying the right to private
-property by stating that property is the condition and guarantee of liberty.
+property by stating that property is the condition and guarantee of liberty.  
+>  _
 
 >
 
-> "And we agree with them. Do we not say repeatedly that poverty is slavery?
+> _"And we agree with them. Do we not say repeatedly that poverty is slavery?
+_
 
 >
 
-> "But then why do we oppose them?
+> _"But then why do we oppose them? _
 
 >
 
-> "The reason is clear: in reality the property that they defend is capitalist
-property, namely property that allows its owners to live from the work of
-others and which therefore depends on the existence of a class of the
+> _"The reason is clear: in reality the property that they defend is
+capitalist property, namely property that allows its owners to live from the
+work of others and which therefore depends on the existence of a class of the
 disinherited and dispossessed, forced to sell their labour to the property
 owners for a wage below its real value . . . This means that workers are
 subjected to a kind of slavery, which, though it may vary in degree of
@@ -164,7 +166,7 @@ exploitation and authority. Moreover, such a system requires a state to
 maintain itself for as _"long as within society a possessing and non-
 possessing group of human beings face one another in enmity, the state will be
 indispensable to the possessing minority for the protection for its
-privileges."_ [Rudolf Rocker, **Anarcho-Syndicalism**, p. 11] Thus private
+privileges."_ [Rudolf Rocker, Anarcho-Syndicalism, p. 11] Thus private
 ownership of the means of production is only possible if there is a state,
 meaning mechanisms of organised coercion at the disposal of the propertied
 class (see [section B.2](secB2.html)).
@@ -176,7 +178,7 @@ this inequality in resource distribution will give rise to a further
 inequality in the relative bargaining positions of the propertied and the
 property less. While apologists for capitalism usually attempt to justify
 private property by claiming that "self-ownership" is a "universal right" (see
-section B.4.2 \-- [_"Is capitalism based on self-
+section B.4.2 -- [_"Is capitalism based on self-
 ownership?"_](secB4.html#secb42)), it is clear that capitalism actually makes
 universal autonomy implied by the flawed concept of self-ownership (for the
 appeal of the notion of self-ownership rests on the ideal that people are not
@@ -323,7 +325,7 @@ those engaged in the work can be the only rational answer. Hence Proudhon's
 comment that _"all accumulated capital being social property, no one can be
 its exclusive proprietor."_ _"In order to destroy despotism and inequality of
 conditions, men must . . . become associates"_ and this implies workers' self-
-management \-- _"leaders, instructors, superintendents . . . must be chosen
+management -- _"leaders, instructors, superintendents . . . must be chosen
 from the labourers by the labourers themselves."_ [Proudhon, **Op. Cit.**, p.
 130, p. 372 and p. 137]
 
@@ -340,9 +342,9 @@ Capitalist property rights would be ended and a new system introduced rooted
 in the concept of possession and use. While the exact nature of that new
 system differs between schools of anarchist thought, the basic principles are
 the same as they flow from the same anarchist theory of property to be found
-in Proudhon's, **What is Property?**.
+in Proudhon's, What is Property?.
 
-Significantly, William Godwin in his **Enquiry Concerning Political Justice**
+Significantly, William Godwin in his Enquiry Concerning Political Justice
 makes the same point concerning the difference between property and possession
 (although not in the same language) fifty years before Proudhon, which
 indicates its central place in anarchist thought. For Godwin, there were
@@ -382,11 +384,13 @@ domination does not need extensive force to maintain.
 Under capitalism, there are four major kinds of property, or exploitative
 monopolies, that the state protects:
 
-(1) the power to issue credit and currency, the basis of capitalist banking;  
-(2) land and buildings, the basis of landlordism;  
-(3) productive tools and equipment, the basis of industrial capitalism;  
-(4) ideas and inventions, the basis of copyright and patent (_"intellectual
-property"_) royalties.  
+      (1) the power to issue credit and currency, the basis of capitalist banking;
+
+     (2) land and buildings, the basis of landlordism;
+
+     (3) productive tools and equipment, the basis of industrial capitalism;
+
+     (4) ideas and inventions, the basis of copyright and patent (_"intellectual property"_) royalties. 
 
 By enforcing these forms of property, the state ensures that the objective
 conditions within the economy favour the capitalist, with the worker free only
@@ -495,7 +499,7 @@ Henwood, **Wall Street**, pp. 64-6]
 Thus credit _"is an important form of social coercion; mortgaged workers are
 more pliable."_ [Henwood, **Op. Cit.**, p. 232] Money is power and any means
 which lessens that power by increasing the options of workers is considered a
-threat by the capitalist class \-- whether it is tight labour markets, state
+threat by the capitalist class -- whether it is tight labour markets, state
 provided unemployment benefit, or cheap, self-organised, credit -- will be
 resisted. The credit monopoly can, therefore, only be fought as part of a
 broader attack on all forms of capitalist social power.
@@ -653,7 +657,7 @@ system.
 
 In this way usury became self-perpetuating, with apparently _"free exchanges"_
 being the means by which capitalist domination survives. In other words, "past
-initiations of force"_ combined with the current state protection of property
+initiations of force" combined with the current state protection of property
 ensure that capitalist domination of society continues with only the use of
 _"defensive"_ force (i.e. violence used to protect the power of property
 owners against unions, strikes, occupations, etc.). The _"fees"_ extracted
@@ -699,7 +703,7 @@ still in place.
 The irony that this regime was created in a process allegedly about trade
 liberalisation should not go unnoticed. _"Intellectual property rights,"_ as
 Noam Chomsky correctly points out, _"are a protectionist measure, they have
-nothing to do with free trade \-- in fact, they're the exact **opposite** of
+nothing to do with free trade -- in fact, they're the exact **opposite** of
 free trade."_ [**Understanding Power**, p. 282] The fundamental injustice of
 the _"ideas monopoly"_ is exacerbated by the fact that many of these patented
 products are the result of government funding of research and development,
@@ -777,7 +781,7 @@ the result of patent control."_ The two competitors simply pooled their
 patents and _"yet another means of patent and market control had developed:
 corporate patent-pooling agreements. Designed to minimise the expense and
 uncertainties of conflict between the giants, they greatly reinforced the
-position of each vis--vis lesser competitors and new entrants into the
+position of each vis-a-vis lesser competitors and new entrants into the
 field."_ [David Noble, **American By Design**, p. 10]
 
 While the patent system is, in theory, promoted to defend the small scale
@@ -843,13 +847,13 @@ create.
 In other words, capitalists desire to skew the _"free market"_ in their favour
 by ensuring that the law reflects and protects their interests, namely their
 _"property rights."_ By this process they ensure that co-operative tendencies
-within society are crushed by state-supported "market forces."_ As Noam
-Chomsky puts it, modern capitalism is _"state protection and public subsidy
-for the rich, market discipline for the poor."_ [_"Rollback, Part I"_, **Z
-Magazine**] Self-proclaimed defenders of "free market"_ capitalism are usually
-nothing of the kind, while the few who actually support it only object to the
-_"public subsidy"_ aspect of modern capitalism and happily support state
-protection for property rights.
+within society are crushed by state-supported "market forces." As Noam Chomsky
+puts it, modern capitalism is _"state protection and public subsidy for the
+rich, market discipline for the poor."_ [_"Rollback, Part I"_, **Z Magazine**]
+Self-proclaimed defenders of "free market" capitalism are usually nothing of
+the kind, while the few who actually support it only object to the _"public
+subsidy"_ aspect of modern capitalism and happily support state protection for
+property rights.
 
 All these monopolies seek to enrich the capitalist (and increase their capital
 stock) at the expense of working people, to restrict their ability to
@@ -914,12 +918,13 @@ the goods for themselves as **their profit.** The workers only get their wages
 their daily labour is taken from them for the privilege of **using** those
 factories . . . Though the workers have made the tools and the machinery,
 another slice of their daily labour is taken from them for the privilege of
-**using** those tools and machinery . . .
+**using** those tools and machinery . . .  
+>  _
 
 >
 
-> "Can you guess now why the wisdom of Proudhon said that **the possessions of
-the rich are stolen property**? Stolen from the producer, the worker."_
+> _"Can you guess now why the wisdom of Proudhon said that **the possessions
+of the rich are stolen property**? Stolen from the producer, the worker."_
 [Berkman, **Op. Cit.**, pp. 7-8]
 
 Thus the daily theft/exploitation associated with capitalism is dependent on
@@ -1007,14 +1012,15 @@ capitalism itself would be rendered illegal.
 To get round this problem, Nozick utilises the work of Locke (_"The Lockean
 Proviso"_) which can be summarised as:
 
-1\. People own themselves and, consequently, their labour.  
-2\. The world is initially owned in common (or unowned in Nozick's case.)  
-3\. By working on common (or unowned) resources, people turn it into their own
-property because they own their own labour.  
-4\. You can acquire absolute rights over a larger than average share in the
-world, if you do not worsen the condition of others.  
-5\. Once people have appropriated private property, a free market in capital
-and labour is morally required.  
+       1\. People own themselves and, consequently, their labour. 
+
+       2\. The world is initially owned in common (or unowned in Nozick's case.)
+
+       3\. By working on common (or unowned) resources, people turn it into their own property because they own their own labour.
+
+       4\. You can acquire absolute rights over a larger than average share in the world, if you do not worsen the condition of others.
+
+      5\. Once people have appropriated private property, a free market in capital and labour is morally required.
 
 However, there are numerous flaws in this theory. Most obvious is why does the
 mixing of something you own (labour) with something owned by all (or unowned)
@@ -1043,11 +1049,12 @@ cultivator finds the reward of his industry in the abundancy and superiority
 of his crop. If he has made improvements in the soil, he has the possessor's
 right of preference. Never, under any circumstances, can he be allowed to
 claim a property-title to the soil which he cultivates, on the ground of his
-skill as a cultivator.
+skill as a cultivator.  
+>  _
 
 >
 
-> "To change possession into property, something is needed besides labour,
+> _"To change possession into property, something is needed besides labour,
 without which a man would cease to be proprietor as soon as he ceased to be a
 laborer. Now, the law bases property upon immemorial, unquestionable
 possession; that is, prescription. Labour is only the sensible sign, the
@@ -1056,21 +1063,21 @@ remains proprietor after he has ceased to labor and produce; if his
 possession, first conceded, then tolerated, finally becomes inalienable, -- it
 happens by permission of the civil law, and by virtue of the principle of
 occupancy. So true is this, that there is not a bill of sale, not a farm
-lease, not an annuity, but implies it . . .
+lease, not an annuity, but implies it . . . _
 
 >
 
-> "Man has created every thing -- every thing save the material itself. Now, I
-maintain that this material he can only possess and use, on condition of
+> _"Man has created every thing -- every thing save the material itself. Now,
+I maintain that this material he can only possess and use, on condition of
 permanent labor, -- granting, for the time being, his right of property in
-things which he has produced.
+things which he has produced. _
 
 >
 
-> "This, then, is the first point settled: property in product, if we grant so
-much, does not carry with it property in the means of production; that seems
-to me to need no further demonstration. There is no difference between the
-soldier who possesses his arms, the mason who possesses the materials
+> _"This, then, is the first point settled: property in product, if we grant
+so much, does not carry with it property in the means of production; that
+seems to me to need no further demonstration. There is no difference between
+the soldier who possesses his arms, the mason who possesses the materials
 committed to his care, the fisherman who possesses the water, the hunter who
 possesses the fields and forests, and the cultivator who possesses the lands:
 all, if you say so, are proprietors of their products -- not one is proprietor
@@ -1257,8 +1264,8 @@ system which respects the liberty of all rather than a few.
 
 For more anarchist analysis on private property and why it cannot be justified
 (be it by occupancy, labour, natural right, or whatever) consult Proudhon's
-classic work **What is Property?**. For further discussion on capitalist
-property rights see [section F.4](secF4.html).
+classic work What is Property?. For further discussion on capitalist property
+rights see [section F.4](secF4.html).
 
 ## B.3.5 Is state owned property different from private property?
 
@@ -1340,7 +1347,7 @@ capitalist ownership with state property have shown the validity the anarchist
 analysis in these matters (_"all-powerful, centralised Government with State
 Capitalism as its economic expression,"_ to quote Emma Goldman's summation of
 Lenin's Russia [**Op. Cit.**, p. 388]). State property is in no way
-fundamentally different from private property \-- all that changes is who
+fundamentally different from private property -- all that changes is who
 exploits and oppresses the workers.
 
 For more discussion see section H.3.13 -- [_"Why is state socialism just state

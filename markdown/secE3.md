@@ -508,11 +508,12 @@ wealthy few:
 
 > _ "In other words, the environment is assumed to be something that can be
 'valued,' in a similar way that everything else is assigned a value within the
-market economy.
+market economy.  
+>  _
 
 >
 
-> "However, apart from the fact that there is no way to put an 'objective'
+> _"However, apart from the fact that there is no way to put an 'objective'
 value on most of the elements that constitute the environment (since they
 affect a subjective par excellence factor, i.e. the quality of life), the
 solution suggested . . . implies the extension of the marketisation process to
@@ -522,7 +523,7 @@ value to the environment . . . so that the effects of growth onto it are
 environment will either be put under the control of the economic elites that
 control the market economy (in case an actual market value be assigned to it)
 or the state (in case an imputed value is only possible). In either case, not
-only the arrest of the ecological damage is \-- at least -- doubtful, but the
+only the arrest of the ecological damage is -- at least -- doubtful, but the
 control over Nature by elites who aim to dominate it -- using 'green'
 prescriptions this time -- is perpetuated."_ [Takis Fotopoulous, _"Development
 or Democracy?"_, pp. 57-92, **Society and Nature**, No. 7, pp. 79-80]
@@ -561,7 +562,7 @@ the response was complete impotence and negligence."_ [**Against the
 Megamachine**, p. 57] As such, it cannot be stressed too much that the only
 reason companies act any different (if and when they do) is because outside
 agitators -- people who understand and cared about the planet and people more
-than they did about company profits \-- eventually forced them to.
+than they did about company profits -- eventually forced them to.
 
 So given all this, it is clear that privatising nature is no guarantee that
 environmental problems will be reduced. In fact, it is more likely to have the
@@ -865,7 +866,7 @@ leaflet called _"What's Wrong with McDonald's"_ and the company sent spies to
 its meetings to identify people to sue. Two of the anarchists refused to be
 intimidated and called McDonald's bluff. Representing themselves in court, the
 two unemployed activists started the longest trial in UK history. After three
-years and a cost of around 10 million, the trial judge found that some of the
+years and a cost of around £10 million, the trial judge found that some of the
 claims were untrue (significantly, McDonald's had successfully petitioned the
 judge not to have a jury for the case, arguing that the issues were too
 complex for the public to understand). While the case was a public relations
@@ -1111,7 +1112,7 @@ of humanity by propaganda and dis-information.
 
 Having substantial resources available means that the media can be used to
 further an anti-green agenda and dominate the debate (at least for a while).
-Take, as an example, **The Skeptical Environmentalist**, a book by Bjrn
+Take, as an example, **The Skeptical Environmentalist**, a book by Bjørn
 Lomborg (a political scientist and professor of statistics at the University
 of Aarhus in Denmark). When it was published in 2001, it caused a sensation
 with its claims that scientists and environmental organisations were making,
@@ -1228,7 +1229,7 @@ invest in developing risky new technologies. This is because basic research
 which may take years, if not decades, to develop and most companies are
 unwilling to take on that burden. Unsurprisingly, most advanced capitalist
 countries see such work funded by the state (as we noted in [section
-D.8](secD8.html), over 50% of total R&amp;D; funding has been provided by the
+D.8](secD8.html), over 50% of total R&amp;D funding has been provided by the
 federal state in the USA). Moreover, the state has provided markets for such
 products until such time as markets have appeared for them in the commercial
 sector. Thus capitalism, by itself, will tend to under-invest in long term

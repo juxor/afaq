@@ -18,7 +18,7 @@ an attempt to discover whether such a system would be stable or whether it
 would be subject to the usual booms and slumps. Before starting we should note
 that there is some disagreement within the right-libertarian camp itself on
 this subject (although instead of stability they usually refer to
-"equilibrium" -- which is an economics term meaning that all of a societies
+"equilibrium" \-- which is an economics term meaning that all of a societies
 resources are fully utilised).
 
 In general terms, most right-Libertarians' reject the concept of equilibrium
@@ -893,8 +893,8 @@ class of people?
 
 ## 10.3 Was laissez-faire capitalism stable?
 
-Firstly, we must state that a pure laissez-faire capitalist system has not
-existed. This means that any evidence we present in this section can be
+&gt; Firstly, we must state that a pure laissez-faire capitalist system has
+not existed. This means that any evidence we present in this section can be
 dismissed by right-libertarians for precisely this fact -- it was not "pure"
 enough. Of course, if they were consistent, you would expect them to shun all
 historical and current examples of capitalism or activity within capitalism,
@@ -908,7 +908,7 @@ industrialisation [in] the nineteenth century"_ [**The Ethics of Liberty**, p.
 is usually taken as being the closest to pure laissez-faire -- in order to see
 if laissez-faire is stable or not.
 
-Yes, we are well aware that 19th century USA was far from laissez-faire \--
+Yes, we are well aware that 19th century USA was far from laissez-faire --
 there was a state, protectionism, government economic activity and so on --
 but as this example has been often used by right-Libertarians' themselves (for
 example, Ayn Rand) we think that we can gain a lot from looking at this

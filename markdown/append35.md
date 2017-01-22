@@ -323,11 +323,11 @@ I.2.3](secI2.html#seci23) for a further discussion of this issue).
 Fisher continues his inaccurate attack:
 
 > _ "What we as Marxists explain is what must replace the smashed bourgeois
-state machine.
+state machine. _
 
 >
 
-> "Engels explains that the state is a 'special coercive force'. So what must
+> _"Engels explains that the state is a 'special coercive force'. So what must
 come after the bourgeoisie is overthrown to keep it down? As Lenin explains in
 the State and Revolution: the bourgeois state 'must be replaced by a "special
 coercive force" for the suppression of the bourgeois by the proletariat (the
@@ -579,7 +579,7 @@ claims to represent. In the words of Lenin:
 workers and peasants, it is impossible to break down the resistance of these
 exploiters. On the other hand, revolutionary coercion is bound to be employed
 towards the wavering and unstable elements among the masses themselves."_
-[**Collected Works**, vol. 42, p. 170]
+[**Collected Works**, vol. 24, p. 170]
 
 And who exercises this _"revolutionary coercion"_? The majority? No, the
 vanguard. As Lenin argued, _"the correct understanding of a Communist of his
@@ -696,7 +696,7 @@ revolution:
 
 > _ "Commune will be organised by the standing federation of the Barricades. .
 . [T]he federation of insurgent associations, communes and provinces . . .
-[would] organise a revolutionary force capable of defeating reaction . . . it
+[would] organise a revolutionary force capableof defeating reaction . . . it
 is the very fact of the expansion and organisation of the revolution for the
 purpose of self-defence among the insurgent areas that will bring about the
 triumph of the revolution."_ [**Michael Bakunin: Selected Writings**, pp.
@@ -736,18 +736,18 @@ against counter-revolution at home. It must be remembered that a standing army
 constitutes the greatest danger for the revolution, since its influence could
 lead to dictatorship, which would necessarily kill off the revolution. . . _
 
-> _ "The people armed will be the best assurance against any attempt to
-restore the system destroyed from either within or without. . ._
+> _"The people armed will be the best assurance against any attempt to restore
+the system destroyed from either within or without. . ._
 
-> _ "Let each Commune have its weapons and means of defence . . . the people
+> _"Let each Commune have its weapons and means of defence . . . the people
 will mobilise rapidly to stand up to the enemy, returning to their workplaces
 as soon as they may have accomplished their mission of defence. . . . _
 
-> _ "1. The disarming of capitalism implies the surrender of weaponry to the
+> _"1\. The disarming of capitalism implies the surrender of weaponry to the
 communes which be responsible for ensuring defensive means are effectively
 organised nationwide. _
 
-> _ "2. In the international context, we shall have to mount an intensive
+> _ "2\. In the international context, we shall have to mount an intensive
 propaganda drive among the proletariat of every country so that it may take an
 energetic protest, calling for sympathetic action against any attempted
 invasion by its respective government. At the same time, our Iberian
@@ -765,7 +765,7 @@ working people themselves?
 
 Fisher distorts the real issue and instead invents a straw man which has no
 bearing at all on the real anarchist position (for further discussion, see
-sections [H.2.1](secH2.html#sech21) and [J.7.6](secJ7.html#secj76)).
+sections [I.5.14](secI5.html#seci514) and [J.7.6](secJ7.html#secj76)).
 
 ## 7\. Are Anarchists simply _"potential Marxists"_?
 
@@ -841,7 +841,7 @@ invention and slander.
 Our Trotskyist decides to quote another Trotskyist, Ted Grant, on the dangers
 of anarchism:
 
-> _ "However, the setting up of soviets and strike committees \-- important as
+> _ "However, the setting up of soviets and strike committees -- important as
 it is -- does not solve the fundamental problem facing the Russian workers. In
 and of themselves, soviets solve nothing. What is decisive is the party that
 leads them. In February 1917, the workers and soldiers set up soviets -- a
@@ -1142,7 +1142,7 @@ The Bolshevik party was no better. It soon transformed itself for being the
 masses servant to being its master (see [section 4](append35.html#app4)). It
 justified its repression against the working class in terms of its "vanguard"
 position. When it degenerated into Stalinism, Communist Parties across the
-world followed it \-- no matter how insane its policies became.
+world followed it -- no matter how insane its policies became.
 
 This is unsurprising. As the anarchists of Trotwatch explain, such a
 "revolutionary" party leaves much to be desired:
@@ -1259,7 +1259,7 @@ organisation, [must] take power into their own hands."_ As Grant has argued
 throughout this excerpt, the idea that the workers should take power
 themselves is utopian as a Bolshevik style leadership is required to seize
 power. As Trotsky and Lenin made clear, the working class as a whole cannot
-exercise the "proletariat dictatorship" -- only party dictatorship can ensure
+exercise the "proletariat dictatorship" \-- only party dictatorship can ensure
 the transition from capitalism to communism. In summary, Grant is simply using
 the old Bolshevik technique of confusing the party with the proletariat.
 

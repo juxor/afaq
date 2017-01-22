@@ -62,11 +62,12 @@ unprecedented in any prior epoch of human development. Capitalist society, by
 recycling the organise world into an increasingly inanimate, inorganic
 assemblage of commodities, was destined to simplify the biosphere, thereby
 cutting across the grain of natural evolution with its ages-long thrust
-towards differentiation and diversity.
+towards differentiation and diversity.  
+>  _
 
 >
 
-> "To reverse this trend, capitalism had to be replaced by an ecological
+> _"To reverse this trend, capitalism had to be replaced by an ecological
 society based on non-hierarchical relationships, decentralised communities,
 eco-technologies like solar power, organic agriculture, and humanly scaled
 industries -- in short, by face-to-face democratic forms of settlement
@@ -165,19 +166,21 @@ socialist David Schweickart:
 
 > _ "To the extent that emissions affect the workers directly on the job (as
 they often do), we can expect a self-managed firm to pollute less. Workers
-will control the technology; it will not be imposed on them from without.
+will control the technology; it will not be imposed on them from without.  
+>  _
 
 >
 
-> "To the extent that emissions affect the local community, they are likely to
-be less severe, for two reasons. Firstly, workers (unlike capitalist owners)
-will necessarily live nearby, and so the decision-makers will bear more of the
-environmental costs directly. Second . . . a self-managed firm will not be
-able to avoid local regulation by running away (or threatening to do so). The
-great stick that a capitalist firm holds over the head of a local community
-will be absent. Hence absent will be the macrophenomenon of various regions of
-the country trying to compete for firms by offering a 'better business
-climate' (i.e. fewer environmental restrictions)."_ [**Op. Cit.**, p. 145]
+> _"To the extent that emissions affect the local community, they are likely
+to be less severe, for two reasons. Firstly, workers (unlike capitalist
+owners) will necessarily live nearby, and so the decision-makers will bear
+more of the environmental costs directly. Second . . . a self-managed firm
+will not be able to avoid local regulation by running away (or threatening to
+do so). The great stick that a capitalist firm holds over the head of a local
+community will be absent. Hence absent will be the macrophenomenon of various
+regions of the country trying to compete for firms by offering a 'better
+business climate' (i.e. fewer environmental restrictions)."_ [**Op. Cit.**, p.
+145]
 
 For an ecological society to work, it requires the active participation of
 those doing productive activity. They are often the first to be affected by
@@ -288,7 +291,7 @@ interaction with others and nature.
 
 That is not all. The communal framework would also impact on how industry
 would develop. It would allow eco-technologies to be prioritised in terms of
-R&amp;D; and subsidised in terms of consumption. No more would green
+R&amp;D and subsidised in terms of consumption. No more would green
 alternatives and eco-technologies be left unused simply because most people
 cannot afford to buy them nor would their development be under-funded simply
 because a capitalist sees little profit form it or a politician cannot see any
@@ -399,11 +402,12 @@ urban entities, the stratification and bureaucratisation of life, the divorce
 of town from country, the objectification of nature and human beings. In my
 view, this sweeping reversal means that we must begin to decentralise our
 cities and establish entirely new eco-communities that are artistically
-moulded to the ecosystems in which they are located . . .
+moulded to the ecosystems in which they are located . . .  
+>  _
 
 >
 
-> "Such an eco-community . . . would heal the split between town and country,
+> _"Such an eco-community . . . would heal the split between town and country,
 indeed, between mind and body by fusing intellectual with physical work,
 industry with agriculture in a rotation or diversification of vocational
 tasks. An eco-community would be supported by a new kind of technology -- or

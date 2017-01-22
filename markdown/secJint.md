@@ -10,7 +10,7 @@ _"collective experience"_ gained in _"the collective struggle of the workers
 against the bosses"_ will transform how they see the world and the world
 itself. [Bakunin, **The Basic Bakunin**, p. 103] Ultimately, _"[t]he true man
 does not lie in the future, an object of longing, but lies, existent and real,
-in the present."_ [Stirner, **The Ego and Its Own**, p. 327]
+in the present._ [Stirner, **The Ego and Its Own**, p. 327]
 
 Anarchism is more than just a critique of statism and capitalism or a vision
 of a freer, better way of life. It is first and foremost a movement, the
@@ -38,10 +38,10 @@ unfree society for that better future and to improve things in the here and
 now. Without standing up for yourself and what you believe is right, nothing
 will change. Thus anarchy can be found _"wherever free thought breaks loose
 from the chains of dogma; wherever the spirit of inquiry rejects the old
-formulas, wherver the human will asserts itself through independent actions;
+formulas, wherever the human will asserts itself through independent actions;
 wherever honest people, rebelling against all enforced discipline, join freely
 together in order to educate themselves, and to reclaim, without any master,
-their share of life, and the complete satisfaction of their needs."_ [Elise
+their share of life, and the complete satisfaction of their needs."_ [Elisee
 Reclus, quoted by John P. Clark and Camille Martin (ed.), **Anarchy,
 Geography, Modernity**, p. 62]
 
@@ -81,7 +81,7 @@ forms of activity and organisation by which all the oppressed can liberate
 themselves by their own hands. In other words, we do not think that those in
 power will altruistically renounce that power or their privileges. Instead,
 the oppressed must take the power **back** into their own hands by their own
-actions. We must free ourselves, no one else can do it for use.
+actions. We must free ourselves, no one else can do it for us.
 
 Here we will discuss anarchist ideas on struggle, what anarchists actually
 (and, almost as importantly, do not) do in the here and now and the sort of
@@ -89,8 +89,8 @@ alternatives anarchists try to build within statism and capitalism in order to
 destroy them. As well as a struggle against oppression, anarchist activity is
 also struggle for freedom. As well as fighting against material poverty,
 anarchists combat spiritual poverty. By resisting hierarchy we emphasis the
-importance of **living** and of **life as art.** By proclaiming _**"Neither
-Master nor Slave"**_ we urge an ethical transformation, a transformation that
+importance of **living** and of **life as art.** By proclaiming **_"Neither
+Master nor Slave"_** we urge an ethical transformation, a transformation that
 will help create the possibility of a truly free society. This point was
 stressed by Emma Goldman after she saw the defeat of the Russian Revolution by
 a combination of Leninist politics and capitalist armed intervention:
@@ -115,7 +115,7 @@ and make good the dignity of the individual human being."_ [Charlotte Wilson,
 **Anarchist Essays**, p. 43 and p. 51]
 
 By direct action, self-management and self-activity we can make the words
-first heard in Paris, 1968 a living reality: _**"All power to the
+first heard in Paris, 1968 a living reality: **_"All power to the
 imagination!"_** Words, we are sure, previous generations of anarchists would
 have whole-heartedly agreed with. There is a power in humans, a creative
 power, a power to alter _what is_ into _what should be_. Anarchists try to

@@ -176,7 +176,7 @@ p. 172] we will return to this issue in [section C.10.3](secC10.html#secc103).
 
 Things did not get any better in the 1990s. Growth in GDP per capita was
 steadily decreased in the UK, from 2.3% per annum between 1950 and 1970, to
-2.1% between 1970 and 1979 and to 1.9% between 1979 and 1997\. For the US, a
+2.1% between 1970 and 1979 and to 1.9% between 1979 and 1997. For the US, a
 similar process was at work (from 2.0%, to 2.3% to 1.5%). At best, it can be
 said that the growth rates of Germany and France between 1979 and 1997 were
 worse (at 1.7% and 1.4%, respectively). However, before 1979 their growth was
@@ -280,11 +280,12 @@ rate of growth of world GDP per capita was 3.5% per annum . . . The average
 rate of growth of world GDP per capital was 2.1% per annum during the 1970s,
 1.3% per annum during the 1980s and 1% per annum during the 1990s. This growth
 was more volatile compared with the past, particularly in the developing
-world. the growth was also unevenly distributed across countries . . .
+world. the growth was also unevenly distributed across countries . . .  
+>  _
 
 >
 
-> "Economic inequalities have increased in the late twentieth century as the
+> _"Economic inequalities have increased in the late twentieth century as the
 income gap between rich and poor countries, between rich and the poor in the
 world's population, as also between rich and poor people within countries, has
 widen. The ratio of GDP per capital in the richest country to GDP per capita
@@ -432,13 +433,14 @@ capitalism. While an impressive piece of ideological obfuscation, the argument
 ignores changes **within** countries. The article states that _"average
 incomes in India and China are going up extremely rapidly"_ but not every
 person receives the average. The average hides a lot. For example, 9 homeless
-people have an average income of 0 but add a multi-millionaire and the average
-income of the ten people is in the millions. On average, at the end of a game
-of poker everyone has the same amount of money they started with. As such, to
-ignore the fact that inequality increased dramatically both countries during
-the 1990s is disgraceful when trying to evaluate whether poverty has actually
-decreased or not. And it should be obvious that if inequality is increasing
-**within** a country then it must also be increasing internationally as well.
+people have an average income of £0 but add a multi-millionaire and the
+average income of the ten people is in the millions. On average, at the end of
+a game of poker everyone has the same amount of money they started with. As
+such, to ignore the fact that inequality increased dramatically both countries
+during the 1990s is disgraceful when trying to evaluate whether poverty has
+actually decreased or not. And it should be obvious that if inequality is
+increasing **within** a country then it must also be increasing
+internationally as well.
 
 Significantly, _"where governments adopted the [neo-liberal] Washington
 Consensus, the poor have benefited less from growth."_ [Joseph E. Stiglitz,
@@ -894,11 +896,12 @@ competitors while it was exploiting an effective monopoly of the steam engine,
 from 1780 to 1840. Through most of that period the nation had a high and
 complicated tariff . . ., massive public investment and spending . . . and an
 extensive public welfare system with wage supplements and welfare allowances
-indexed to basic costs of living . . .
+indexed to basic costs of living . . .  
+>  _
 
 >
 
-> "There followed a long period, from about 1840 to 1931, when Britain did
+> _"There followed a long period, from about 1840 to 1931, when Britain did
 indeed have the freest trade and relatively speaking the cheapest government
 and (until 1914) the smallest public sector among the industrially developing
 nations, Yet, for competitiveness, that century saw the relative decline of
@@ -1161,7 +1164,7 @@ owner of a business which combines work effort and ownership, for example a
 farmer or some other self-employed worker) fell, with farm income going from
 6.8% to 3.0%, while other such income dropped from 10.1% to 8.7%. [Walter S.
 Measday, _"Labor's Share in the National Income,"_ **The Quarterly Review of
-Economics & Business**, Vol. 2, No. 3, August 1962] Unless Friedman would
+Economics &amp; Business**, Vol. 2, No. 3, August 1962] Unless Friedman would
 argue that 1929 America was more statist than 1959, it seems that his
 assertion was false even when it was first made. How did his comment fare
 after he made it? Looking at the period after 1959 there was continuing
@@ -1230,32 +1233,32 @@ as the lack of concern about the inflationary nature of such massive "pay"
 rises (particularly when contrasted to the response over very slight increases
 in workers' pay). This means that "labour" income could remain constant while
 CEO salaries explode and worker wages stagnant or even fall, as is the case in
-both the US (and UK) since 1980\. In such circumstances, looking at "human
+both the US (and UK) since 1980. In such circumstances, looking at "human
 services" becomes misleading as returns to capital are listed as "labour"
 simply because they are in the form of bosses pay. Equally, CEO perks and
 bonuses would be included as "labour" non-wage compensation.
 
 To see what this means we must use an example. Take a country with 100 people
-with a combined income of 10,000. The average income would be 100 each. Taking
-a labour/capital split of 70/30, we get an income of labour of 7000 and an
-income to capital of 3000. Assuming that 5% of the population own the capital
-stock, that is an average income of 600 each while labour gets an average of
-73.68. However, 10% of the population are managers and assuming another 70/30
-split between management and worker income this means that management gets
-2100 in total (an average of 210) while workers get 4900 (an average of
-57.65). This means that the owners of capital get 6 times the national average
-income, managers just over twice that amount and workers just over half the
-average. In other words, a national statistic of 70% labour income hides the
-reality that workers, who make up 85% of the population, actually get less
-than half the income (49%). Capital income, although less, is distributed to
-fewer people and so causes massive inequality (15% of the population get an
-average income of 340, nearly 6 times more than the average for the remaining
-85% while the upper 5% get over 10 times). If the share of management in
-labour income rises to 35%, then workers wages fall and inequality rises while
-labour income remains constant at 70% (management's average income rises to
-363.33 while workers' falls to 53.53). It should be stressed this example
-**underestimates** inequality in capitalist economies, particularly ones which
-had the misfortunate to apply Friedman's ideas.
+with a combined income of £10,000. The average income would be £100 each.
+Taking a labour/capital split of 70/30, we get an income of labour of £7000
+and an income to capital of £3000\. Assuming that 5% of the population own the
+capital stock, that is an average income of £600 each while labour gets an
+average of £73.68. However, 10% of the population are managers and assuming
+another 70/30 split between management and worker income this means that
+management gets £2100 in total (an average of £210) while workers get £4900
+(an average of £57.65). This means that the owners of capital get 6 times the
+national average income, managers just over twice that amount and workers just
+over half the average. In other words, a national statistic of 70% labour
+income hides the reality that workers, who make up 85% of the population,
+actually get less than half the income (49%). Capital income, although less,
+is distributed to fewer people and so causes massive inequality (15% of the
+population get an average income of £340, nearly 6 times more than the average
+for the remaining 85% while the upper 5% get over 10 times). If the share of
+management in labour income rises to 35%, then workers wages fall and
+inequality rises while labour income remains constant at 70% (management's
+average income rises to £363.33 while workers' falls to £53.53). It should be
+stressed this example **underestimates** inequality in capitalist economies,
+particularly ones which had the misfortunate to apply Friedman's ideas.
 
 Looking further a field, this pattern has been repeated everywhere "free(r)
 market" capitalism has been imposed. In Chile equality and labour's share
@@ -1442,11 +1445,12 @@ People may consume more goods and become less happy or less free at the same
 time . . . [For example] real wages [may have] advanced . . . but at the cost
 of longer hours and greater intensity of labour . . . In statistical terms,
 this reveals an upward curve. To the families concerned it might feel like
-immiseration.
+immiseration.  
+>  _
 
 >
 
-> "Thus it is perfectly possible . . . [to have an] improvement in average
+> _"Thus it is perfectly possible . . . [to have an] improvement in average
 material standards . . . [at the same time as] intensified exploitation,
 greater insecurity, and increasing human misery . . . most people [can be]
 'better off' than their forerunners had been fifty years before, but they had
@@ -1590,34 +1594,27 @@ industrial nation to the unknown ideal of pure capitalism. It is also
 interesting to note that it is also number one, or close to it, in the
 following areas [Richard Du Boff, **Accumulation and Power**, pp. 183-4]:
 
-> * lowest level of job security for workers, with greatest chance of being
-dismissed without notice or reason.  
->
+>   * lowest level of job security for workers, with greatest chance of being
+dismissed without notice or reason.
 
-> * greatest chance for a worker to become unemployed without adequate
-unemployment and medical insurance.  
->
+>   * greatest chance for a worker to become unemployed without adequate
+unemployment and medical insurance.
 
-> * less leisure time for workers, such as holiday time.  
->
+>   * less leisure time for workers, such as holiday time.
 
-> * one of the most lopsided income distribution profiles.  
->
+>   * one of the most lopsided income distribution profiles.
 
-> * lowest ratio of female to male earnings, in 1987 64% of the male wage.  
->
+>   * lowest ratio of female to male earnings, in 1987 64% of the male wage.
 
-> * highest incidence of poverty in the industrial world.  
->
+>   * highest incidence of poverty in the industrial world.
 
-> * among the worse rankings of all advanced industrial nations for pollutant
-emissions into the air.  
->
+>   * among the worse rankings of all advanced industrial nations for
+pollutant emissions into the air.
 
-> * highest murder rates.  
->
+>   * highest murder rates.
 
-> * worse ranking for life expectancy and infant morality.  
+>   * worse ranking for life expectancy and infant morality.
+
 >
 
 It seems strange that the more laissez-faire system has the worse job

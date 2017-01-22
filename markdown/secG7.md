@@ -15,7 +15,7 @@ support for "anarcho"-capitalist claims of being a form of anarchism is
 untrue. This is because, regardless of his closeness to liberalism, Spooner's
 vision of a free society was fundamentally anti-capitalist. It is clear that
 Spooner was a left-libertarian who was firmly opposed to capitalism. The
-ignoring (at best) or outright dismissal (at worse) of Spooner's economic
+ignoring (at best) or outright dismissal (at worst) of Spooner's economic
 ideas and vision of a free society by right-"libertarians" should be more than
 enough to show that Spooner cannot be easily appropriated by the right
 regardless of his (from an anarchist position) unique, even idiosyncratic,
@@ -45,7 +45,7 @@ employer, it was necessary for one to have access to one's own capital."_
 [James J. Martin, **Men Against the State**, p. 172] This was because wage
 labour resulted in exploitation:
 
-> _ "When a man knows that he is to have **all** the fruits of his labour, he
+> _"When a man knows that he is to have **all** the fruits of his labour, he
 labours with more zeal, skill, and physical energy, than when he knows -- as
 in the case of one labouring for wages -- that a portion of the fruits of his
 labour are going to another. . . In order that each man may have the fruits of
@@ -67,7 +67,7 @@ for all, and creating no necessity, for either force or fraud, on the part of
 anyone, to enable him to secure his standing."_ [quoted by Peter Marshall,
 **Demanding the Impossible**, pp. 388-9] Thus:
 
-> _ "That the principle of allowing each man to have, (so far as it is
+> _"That the principle of allowing each man to have, (so far as it is
 consistent with the principles of natural law that he can have,) all the
 fruits of his own labour, would conduce to a more just and equal distribution
 of wealth than now exists, is a proposition too self-evident almost to need
@@ -75,7 +75,7 @@ illustration. It is an obvious principle of natural justice, that each man
 should have the fruits of his own labour . . . It is also an obvious fact,
 that the property produced by society, is now distributed in very unequal
 proportions among those whose labour produced it, and with very little regard
-to the actual value of each ones labour in producing it."_ [**Poverty: Its
+to the actual value of each one's labour in producing it."_ [**Poverty: Its
 Illegal Causes and Legal Cure**, p. 7]
 
 For Spooner, as with other left-libertarians, equality was seen as the
@@ -89,7 +89,7 @@ another."_ [**Op. Cit.**, p. 42] As he stressed equality will have many
 positive outcomes beyond the abolition of wage labour and increased
 productiveness:
 
-> _ "Extremes of difference, in their pecuniary circumstances, divide society
+> _"Extremes of difference, in their pecuniary circumstances, divide society
 into castes; set up barriers to personal acquaintance; prevent or suppress
 sympathy; give to different individuals a widely different experience, and
 thus become the fertile source of alienation, contempt, envy, hatred, and
@@ -120,11 +120,11 @@ Spooner was opposed to the way America was developing in the 19th century. He
 had no illusions about tariffs, for example, seeing them as a means of
 accumulating capital as they _"enable[d] the home producers . . . to make
 fortunes by robbing everybody else in the prices of their goods."_ Such
-protectionism _"originated with the employers"_ as the workers _"could not
-have had no hope of carrying through such a scheme, if they alone were to
-profit; because they could have had no such influence with governments."_ [**A
-Letter to Grover Cleveland** p. 20 and p. 44] He had no illusions that the
-state was anything else than a machine run by and for the wealthy.
+protectionism _"originated with the employers"_ as the workers _"could have
+had no hope of carrying through such a scheme, if they alone were to profit;
+because they could have had no such influence with governments."_ [**A Letter
+to Grover Cleveland** p. 20 and p. 44] He had no illusions that the state was
+anything else than a machine run by and for the wealthy.
 
 Spooner viewed the rise of capitalism with disgust and suggested a way for
 non-exploitative and non-oppressive economic relationships to become the norm
@@ -293,11 +293,9 @@ and the enslavement of still other defenceless persons; increasing, too, their
 numbers, perfecting their organisations, and multiplying their weapons of war,
 they extend their conquests until, in order to hold what they have already
 got, it becomes necessary for them to act systematically, and co-operate with
-each other in holding their slaves in subjection.
+each other in holding their slaves in subjection. _
 
->
-
-> "But all this they can do only by establishing what they call a government,
+> _"But all this they can do only by establishing what they call a government,
 and making what they call laws . . . Thus substantially all the legislation of
 the world has had its origin in the desires of one class of persons to plunder
 and enslave others, **and hold them as property.**"_
@@ -306,7 +304,7 @@ Nothing too provocative here, simply Spooner's view of government as a tool of
 the wealth-holding, slave-owning class. What is more interesting is Spooner's
 view of the subsequent development of (post-slavery) socio-economic systems:
 
-> _ "In process of time, the robber, or slaveholding, class -- who had seized
+> _"In process of time, the robber, or slaveholding, class -- who had seized
 all the lands, and held all the means of creating wealth -- began to discover
 that the easiest mode of managing their slaves, and making them profitable,
 was **not** for each slaveholder to hold his specified number of slaves, as he
@@ -409,7 +407,7 @@ person has a natural right to kill those who would deny these rights. Spooner
 called for a class war."_ [Wm. Gary Kline, **The Individualist Anarchists**,
 p. 41] Elsewhere he thundered:
 
-> _ "**Who** compose the real governing power in the country? . . . How shall
+> _"**Who** compose the real governing power in the country? . . . How shall
 we find these men? How shall we know them from others? . . . Who, of our
 neighbours, are members of this secret band of robbers and murderers? How can
 we know which are **their** houses, that we may burn or demolish them? Which
@@ -473,13 +471,13 @@ exploiting the working class and that the state is simply an organ of
 individualist anarchists. This analysis is, needless to say, a left-
 libertarian one rather than right-"libertarian."
 
-Of course, it may be objected that Spooner was a right-Libertarian" because he
-supported the market and private property. However, as we argued in [section
-G.1.1](secG1.html#secg11) support for the market does not equate to support
-for capitalism (no matter how often the ideologues of capitalism proclaim it
-so). As noted, markets are not the defining feature of capitalism as there
-were markets long before capitalism existed. So the fact that Spooner retained
-the concept of markets does not necessarily make him a supporter of
+Of course, it may be objected that Spooner was a right-"libertarian" because
+he supported the market and private property. However, as we argued in
+[section G.1.1](secG1.html#secg11) support for the market does not equate to
+support for capitalism (no matter how often the ideologues of capitalism
+proclaim it so). As noted, markets are not the defining feature of capitalism
+as there were markets long before capitalism existed. So the fact that Spooner
+retained the concept of markets does not necessarily make him a supporter of
 capitalism. As for "property", this question is more complex as Spooner is the
 only individualist anarchist to apparently reject the idea of "occupancy and
 use." Somewhat ironically, he termed the doctrine that _"which holds that a
@@ -534,12 +532,12 @@ people? The socio-economic situation of the mass of the population is in
 exactly the same situation as under a system founded by stealing the land by
 the few. Equally, having to pay for access to the land results in just as much
 a deduction from the product of work as wage labour. If property is a "natural
-right" then they must be universal and so must be extended to everyone \--
-like all rights -- and this implies an end to absolute property rights
-(_"Because the right to live and to develop oneself fully is equal for all,"_
-Proudhon argued, _"and because inequality of conditions is an obstacle to the
-exercise of this right."_ [quoted by John Enrenberg, **Proudhon and his Age**,
-pp. 48-9]). However, saying that it is fair to suggest, given his arguments in
+right" then they must be universal and so must be extended to everyone -- like
+all rights -- and this implies an end to absolute property rights (_"Because
+the right to live and to develop oneself fully is equal for all,"_ Proudhon
+argued, _"and because inequality of conditions is an obstacle to the exercise
+of this right."_ [quoted by John Enrenberg, **Proudhon and his Age**, pp.
+48-9]). However, saying that it is fair to suggest, given his arguments in
 favour of universal self-employment, that Spooner did not think that his
 system of property rights would be abused to produce a landlord class and, as
 such, did not see the need to resolve the obvious contradictions in his
@@ -550,7 +548,7 @@ unique position on property rights within the movement. As we argued in
 [section A.3.1](secA3.html#seca31), only a system where the users of land or a
 workplace own it can it be consistent with anarchist principles. Otherwise, if
 there are bosses and landlords, then that society would be inherently
-hierarchical and so _**Archist**_. Spooner's vision of a free society, rooted
+hierarchical and so **_Archist_**. Spooner's vision of a free society, rooted
 as it is in self-employment, meets the criteria of being genuinely libertarian
 in spite of the property rights used to justify it. Certain
 "anarcho"-capitalists may subscribe to a similar theory of property but they
@@ -567,11 +565,10 @@ producing inequality, servitude and a servile mentality. Moreover, the
 argument that capitalists deny workers _"all the fruits"_ of their labour is
 identical to the general **socialist** position that capitalism is
 exploitative. All of which undoubtedly explains why Rothbard only selectively
-quoted from Spooner's critique of the state rather and ignored the socio-
-economic principles which underlay his political analysis and hopes for a free
-society. Yet without those aspects of his ideas, Spooner's political analysis
-is pressed into service of an ideology it is doubtful he would have agreed
-with.
+quoted from Spooner's critique of the state and ignored the socio-economic
+principles that underlay his political analysis and hopes for a free society.
+Yet without those aspects of his ideas, Spooner's political analysis is
+pressed into service of an ideology it is doubtful he would have agreed with.
 
 As such, we must agree with Peter Marshall, who notes that Spooner
 _"recommends that every man should be his own employer, and he depicts an
@@ -592,8 +589,8 @@ directed as much against inequality as against tyranny."_ Spooner _"attempt[s]
 to realise th[e] promise of social harmony by recreating [a] rough equality of
 condition"_ and so joins the _"critics of modern capitalism and champions of
 the Jeffersonian idea of the autonomous individual -- independent yeoman and
-the self-employed mechanic."_ **Liberalism at Wit's End**, p. 76, p. 74 and p.
-91]
+the self-employed mechanic."_ [**Liberalism at Wit's End**, p. 76, p. 74 and
+p. 91]
 
 In summary, as can be seen, as with other individualist anarchists, there is a
 great deal of commonality between Spooner's ideas and those of social

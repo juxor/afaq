@@ -217,7 +217,7 @@ Ecology Movement,"_ pp. 1-20, **Which Way for the Ecology Movement?**, p. 19]
 This means that an **increase** of freedom will solve the population question.
 Sadly, many advocates of neo-Malthusianism extend control over people from
 women to all. The advocates of the "population myth," as well as getting the
-problem wrong, also (usually) suggest very authoritarian "solutions" -- for
+problem wrong, also (usually) suggest very authoritarian "solutions" \-- for
 example, urging an increase in state power with a "Bureau of Population
 Control" to "police" society and ensure that the state enters the bedroom and
 our most personal relationships. Luckily for humanity and individual freedom,

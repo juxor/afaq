@@ -63,16 +63,16 @@ will in the place of them."_ [**A Letter to Grover Cleveland**, p. 88]
 Rothbard and other capitalist supporters of "Natural Law" make the same sort
 of claims (as we will see). Now, why, if they are aware of the fact that
 unlike gravity their "Natural Laws" can be violated, do they use the term at
-all? Benjamin Tucker said that "Natural Law" was a _"religious"_ concept \--
+all? Benjamin Tucker said that "Natural Law" was a _"religious"_ concept --
 and this provides a clue. To say "Do not violate these rights, otherwise I
 will get cross" does not have **quite** the same power as "Do not violate
 these rights, they are facts of natural and you are violating nature" (compare
 to "Do not violate these laws, or you will go to hell"). So to point out that
 "Natural Law" is **not** the same as the law of gravity (because it has to be
-enforced by humans) is not attacking some kind of "straw man" -- it is
+enforced by humans) is not attacking some kind of "straw man" \-- it is
 exposing the fact that these "Natural Laws" are just the personal prejudices
 of those who hold them. If they do not want then to be exposed as such then
-they should call their laws what they are \-- personal ethical laws -- rather
+they should call their laws what they are -- personal ethical laws -- rather
 than compare them to the facts of nature.
 
 ## 11.1 Why the term "Natural Law" in the first place?
@@ -103,7 +103,7 @@ this means that as every individual is unique (have different attributes),
 they have different natures? Skin and hair colour are different attributes,
 does this mean that red haired people have different natures than blondes?
 That black people have different natures than white (and such a "theory" of
-"natural law" was used to justify slavery \-- yes, slaves **are** human but
+"natural law" was used to justify slavery -- yes, slaves **are** human but
 they have "different natures" than their masters and so slavery is okay). Of
 course Rothbard aggregates "attributes" to species level, but why not higher?
 Humans are primates, does that mean we have the same natures are monkeys or
@@ -357,7 +357,7 @@ economic power associated with one class of people being dispossessed and
 another empowered by this fact results in relations of domination which cannot
 be considered "voluntary" by any stretch of the imagination (although, of
 course, Rothbard refuses to see the economic power associated with capitalism
--- when its capitalism, he cannot see the wood for the trees \-- and we are
+-- when its capitalism, he cannot see the wood for the trees -- and we are
 ignoring the fact that capitalism was created by extensive use of coercion and
 violence -- see section [8](append138.html)).
 
@@ -502,7 +502,7 @@ contradictory use of the word "man." Sometimes she uses it to describe
 individuals but usually it is used to describe the human race collectively
 (_"man's nature," "man's consciousness"_). But "Man" does not have a
 consciousness, only individuals do. Man is an abstraction, it is individuals
-who live and think, not "Man." Such "Man worship" -- like Natural Law -- has
+who live and think, not "Man." Such "Man worship" \-- like Natural Law -- has
 all the markings of a religion.
 
 As Max Stirner argues _"liberalism is a religion because it separates my

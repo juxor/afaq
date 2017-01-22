@@ -16,7 +16,7 @@ We will not cover all the various oppositions with the Bolshevik party here
 (Robert V. Daniels' **The Conscience of the Revolution** discusses all of them
 in some detail, as does Leonard Schapiro's **The Origin of the Communist
 Autocracy**). We will concentrate on the _"Left Communists"_ of 1918, the
-_"Workers' Opposition"_ of 1920/1 and the Trotsky-led "Left Opposition"_ of
+_"Workers' Opposition"_ of 1920/1 and the Trotsky-led "Left Opposition" of
 1923-7. It can be said that each opposition is a pale reflection of the one
 before it and each had clear limitations in their politics which fatally
 undermined any liberatory potential they had. Indeed, by the time of the
@@ -140,7 +140,7 @@ particular the interests of the petty bourgeois peasantry, do not always
 coincide with the interests of the proletariat."_ [quoted by Richard Sakwa,
 **Soviet Communists in Power**, p. 182] This support for party power can also
 be seen in Osinsky's comment that _"soviet power"_ and the "dictatorship of
-the proletariat"_ could _"seek support"_ from other social classes, so showing
+the proletariat" could _"seek support"_ from other social classes, so showing
 that the class did not govern directly.
 
 Thus soviet power was limited to approval of the party line and any deviation
@@ -173,7 +173,7 @@ of the party over the soviets encouraged an administrative one as well. Such a
 development was further encouraged by the emergence of a massive and unwieldy
 bureaucratic apparatus in 1918 . . . The Left Communists and the party
 leadership were therefore in agreement that . . . the party should play a
-tutelary role over the soviets."_ Furthermore, _"[w]ith such a formulation it
+tutelary role over the soviets." Furthermore, _"[w]ith such a formulation it
 proved difficult to maintain the vitality of the soviet plenum as the soviet
 was controlled by a party fraction, itself controlled by a party committee
 outside the soviet."_ [**Op. Cit.**, p. 182 and p. 182-3]
@@ -195,18 +195,18 @@ Bolsheviks had argued this position for some time (see [section
 H.1.2](secH1.html#sech12), for example). Bukharin even went so far as to argue
 that _"the watchword"_ taken up by some workers ("even metal workers"!) of
 _"For class dictatorship, but against party dictatorship!"_ showed that the
-proletariat "was declassed."_ This also indicated that a _"misunderstanding
+proletariat "was declassed." This also indicated that a _"misunderstanding
 arose which threatened the whole system of the proletarian dictatorship."_
 [contained in Al Richardson (ed.), **In Defence of the Russian Revolution**,
 p. 192] The echoes of the positions argued before the civil war can be seen in
 Bukharin's glib comment that proletarian management of the revolution meant
 the end of the _"proletarian"_ dictatorship!
 
-Lastly, the arguments of the Left Communists against "one-man management"_
-were echoed by the Democratic Centralists at the Ninth Party Congress. One
-member of this grouping (which included such _"Left Communists"_ as Osinsky)
-argued against Lenin's dominate position in favour of appointed managers
-inside and outside the party as follows:
+Lastly, the arguments of the Left Communists against "one-man management" were
+echoed by the Democratic Centralists at the Ninth Party Congress. One member
+of this grouping (which included such _"Left Communists"_ as Osinsky) argued
+against Lenin's dominate position in favour of appointed managers inside and
+outside the party as follows:
 
 > _ "The Central Committee finds that the [local] party committee is a
 bourgeois prejudice, is conservatism bordering on the province of treason, and
@@ -214,11 +214,11 @@ that the new form is the replacement of party committees by political
 departments, the heads of which by themselves replace the elected committees .
 . . You transform the members of the party into an obedient gramophone, with
 leaders who order: go and agitate; but they haven't the right to elect their
-own committee, their own organs.
+own committee, their own organs. _
 
 >
 
-> "I then put the question to comrade Lenin: Who will appoint the Central
+> _"I then put the question to comrade Lenin: Who will appoint the Central
 Committee? You see, there can be individual authority here as well. Here also
 a single commander can be appointed."_ [Sapronov, quoted by Daniels, **Op.
 Cit.**, p. 114]
@@ -230,7 +230,7 @@ all, Trotsky had imposed a similar regime in the Army in 1918, as had Lenin in
 industry in the same year. As discussed in [section 3](append43.html#app3) of
 the appendix [ "What caused the degeneration of the Russian
 Revolution?"](append43.html), the Bolshevik preference for centralised
-"democracy"_ effectively hollowed out the real democracy at the base which
+"democracy" effectively hollowed out the real democracy at the base which
 makes democracy more than just picking masters.
 
 ## 2 What were the limitations of the _"Workers' Opposition"_ of 1920?
@@ -316,7 +316,7 @@ group was _"caused in part by the entry into the ranks of the Party of
 elements which had still not completely adopted the communist world view."_
 Significantly, those who **had** the _"communist world view"_ did not really
 debate the issues raised and instead called the opposition "genuinely counter-
-revolutionary,"_ _"objectively counter-revolutionary"_ as well as _"too
+revolutionary," _"objectively counter-revolutionary"_ as well as _"too
 revolutionary."_ [quoted by Brinton, **Op. Cit.**, p. 79]
 
 For Lenin, the idea of industrial democracy was a nonsense. In this he was
@@ -355,7 +355,7 @@ participation as a danger to their power. Against the idea of economic
 participation under Communist control raised by the _"Workers' Opposition,"_
 the leading Bolsheviks favoured the NEP. This was a return to the same kind of
 market-based _"state capitalist"_ strategy Lenin had advocated against the
-"Left Communists"_ **before** the outbreak of the civil war in May 1918 (and,
+"Left Communists" **before** the outbreak of the civil war in May 1918 (and,
 as noted, he had argued for in 1917). This suggests a remarkable consistency
 in Lenin's thoughts, suggesting that claims his policies he advocated and
 implemented in power were somehow the opposite of what he _"really"_ wanted
@@ -451,7 +451,7 @@ Pamphlets**, p. 140]
 
 ## 3 What about Trotsky's _"Left Opposition"_ in the 1920s?
 
-Finally, there is Trotsky's opposition between 1923 and 1927\. Since 1918
+Finally, there is Trotsky's opposition between 1923 and 1927. Since 1918
 Trotsky had been wholeheartedly in favour of the party dictatorship and its
 economic regime. This position started to change once his own power came under
 threat and he suddenly became aware of the necessity for reform.
@@ -792,7 +792,7 @@ working mass stood so far from the management of socialist industry as now"_
 and that _"[p]re-revolutionary relations between foremen and workmen are
 frequently found."_ Which is hardly surprising, given that Lenin had argued
 for, and implemented, appointed one-man management armed with "dictatorial
-powers"_ from April 1918 and that Trotsky himself also supported one-man
+powers" from April 1918 and that Trotsky himself also supported one-man
 management (see [section 10](append41.html#app10) of the appendix ["What
 happened during the Russian Revolution?"](append41.html)).
 
@@ -1023,11 +1023,11 @@ old guard. But . . . they criticised Lenin's course of action from the
 beginning, and not on details but as a whole. The Workers Opposition denounced
 Lenin's economic line. The Workers Group went even farther and attacked the
 political regime and the single party established by Lenin prior to the NEP .
-. .
+. . _
 
 >
 
-> "Having put as the basis of its programme Marx's watchword for the 1st
+> _"Having put as the basis of its programme Marx's watchword for the 1st
 International -- 'The emancipation of the workers must be the task of the
 workers themselves' -- the Workers Group declared war from the start on the
 Leninist concept of the 'dictatorship of the party' and the bureaucratic
@@ -1128,7 +1128,7 @@ was the last straw: _"We must devote greater attention to Miasnikov's
 agitation,"_ he wrote to Molotov on December 5, _"and to report on it to the
 Politburo twice a month."_ To deal with Miasnikov, meanwhile, the Orgburo
 formed a new commission. This commission recommended his expulsion from the
-party, which was agreed by the Politburo on February 20, 1922\. This was the
+party, which was agreed by the Politburo on February 20, 1922. This was the
 first instance, except for the brief expulsion of S. A. Lozovsky in 1918,
 where Lenin actually expelled a well-known Bolshevik of long standing.
 
@@ -1141,7 +1141,7 @@ Oppositionist. The three men, all workers, constituted themselves as the
 _"Provisional Central Organisational Bureau"_ of the group. Their first act,
 in February 1923, was to draw up a statement of principles in anticipation of
 the Twelfth Party Congress called the "Manifesto of the Workers' Group of the
-Russian Communist Party."_ The manifesto was _"denouncing the New Exploitation
+Russian Communist Party." The manifesto was _"denouncing the New Exploitation
 of the Proletariat and urging the workers to fight for soviet democracy,"_
 according to Trotskyist historian I. Deutscher. [**The Prophet Unarmed**,
 p.107]
@@ -1162,7 +1162,7 @@ direct participation of the working class by nominations in a purely
 bureaucratic way."_ [quoted by Daniels, **Op. Cit.**, p. 204]
 
 The manifesto wondered whether the Russian proletariat might not be compelled
-_"to start anew the struggle -- and perhaps a bloody one \-- for the overthrow
+_"to start anew the struggle -- and perhaps a bloody one -- for the overthrow
 of the oligarchy."_ Not that it contemplated an immediate insurrection. Rather
 it sought to rally the workers, Communist and non-Communist alike, to press
 for the elimination of bureaucratism and the revival of proletarian democracy.

@@ -1,6 +1,6 @@
 # What was the Kronstadt Rebellion?
 
-The Kronstadt rebellion took place in the first weeks of March, 1921\.
+The Kronstadt rebellion took place in the first weeks of March, 1921.
 Kronstadt was (and is) a naval fortress on an island in the Gulf of Finland.
 Traditionally, it has served as the base of the Russian Baltic Fleet and to
 guard the approaches to the city of St. Petersburg (which during the first
@@ -213,21 +213,21 @@ finally sent to forced labour camps in the Archangelsk, Vologda and Murmansk
 regions. Eight thousand sailors, soldiers and civilians escaped over the ice
 to Finland. The crews of the **_Petropavlovsk_** and **_Sevastopol_** fought
 to the bitter end, as did the cadets of the mechanics school, the torpedo
-detachment and the communications unit. A statistical communiqu of the Special
-Section of the Extraordinary **Troikas** of 1st May stated that 6,528 rebels
-had been arrested, of whom 2,168 had been shot (33%), 1,955 had been sentenced
-to forced labour (of whom 1,486 received a five year sentence), and 1,272 were
-released. A statistical review of the revolt made in 1935-6 listed the number
-arrested as 10,026 and stated that it had "not been possible to establish
-accurately the number of the repressed." The families of the rebels were
-deported, with Siberia considered as _"undoubtedly the only suitable region"_
-for them. Significantly, one of the members of the **troika** judging the
-rebels complained that they had to rely exclusively on information provided by
-the Special Section of the **Vecheka** as _"neither commissars nor local
-Communists provided any material."_ [Israel Getzler, _"The Communist Leaders'
-Role in the Kronstadt Tragedy of 1921 in the Light of Recently Published
-Archival Documents"_, **Revolutionary Russia**, pp. 24-44, Vol. 15, No. 1,
-June 2002, pp. 35-7]
+detachment and the communications unit. A statistical communique of the
+Special Section of the Extraordinary **Troikas** of 1st May stated that 6,528
+rebels had been arrested, of whom 2,168 had been shot (33%), 1,955 had been
+sentenced to forced labour (of whom 1,486 received a five year sentence), and
+1,272 were released. A statistical review of the revolt made in 1935-6 listed
+the number arrested as 10,026 and stated that it had "not been possible to
+establish accurately the number of the repressed." The families of the rebels
+were deported, with Siberia considered as _"undoubtedly the only suitable
+region"_ for them. Significantly, one of the members of the **troika** judging
+the rebels complained that they had to rely exclusively on information
+provided by the Special Section of the **Vecheka** as _"neither commissars nor
+local Communists provided any material."_ [Israel Getzler, _"The Communist
+Leaders' Role in the Kronstadt Tragedy of 1921 in the Light of Recently
+Published Archival Documents"_, **Revolutionary Russia**, pp. 24-44, Vol. 15,
+No. 1, June 2002, pp. 35-7]
 
 After the revolt had been put down, the Bolshevik government reorganised the
 fortress. While it had attacked the revolt in the name of defending _"Soviet
@@ -971,84 +971,56 @@ we list the 15 demands.
 
 The full list of demands are as follows:
 
-> _"1. Immediate new elections to the Soviets. The present Soviets no longer
+> _ "1\. Immediate new elections to the Soviets. The present Soviets no longer
 express the wishes of the workers and peasants. The new elections should be by
-secret ballot, and should be preceded by free electoral propaganda.
+secret ballot, and should be preceded by free electoral propaganda._
 
->
+> _ 2\. Freedom of speech and of the press for workers and peasants, for the
+Anarchists, and for the Left Socialist parties._
 
-> 2\. Freedom of speech and of the press for workers and peasants, for the
-Anarchists, and for the Left Socialist parties.
+> _ 3\. The right of assembly, and freedom for trade union and peasant
+organisations._
 
->
-
-> 3\. The right of assembly, and freedom for trade union and peasant
-organisations.
-
->
-
-> 4\. The organisation, at the latest on 10th March 1921, of a Conference of
+> _ 4\. The organisation, at the latest on 10th March 1921, of a Conference of
 non-Party workers, solders and sailors of Petrograd, Kronstadt and the
-Petrograd District.
+Petrograd District._
 
->
+> _ 5\. The liberation of all political prisoners of the Socialist parties,
+and of all imprisoned workers and peasants, soldiers and sailors belonging to
+working class and peasant organisations._
 
-> 5\. The liberation of all political prisoners of the Socialist parties, and
-of all imprisoned workers and peasants, soldiers and sailors belonging to
-working class and peasant organisations.
+> _ 6\. The election of a commission to look into the dossiers of all those
+detained in prisons and concentration camps._
 
->
-
-> 6\. The election of a commission to look into the dossiers of all those
-detained in prisons and concentration camps.
-
->
-
-> 7\. The abolition of all political sections in the armed forces. No
+> _ 7\. The abolition of all political sections in the armed forces. No
 political party should have privileges for the propagation of its ideas, or
 receive State subsidies to this end. In the place of the political sections
-various cultural groups should be set up, deriving resources from the State.
+various cultural groups should be set up, deriving resources from the State._
 
->
+> _ 8\. The immediate abolition of the militia detachments set up between
+towns and countryside._
 
-> 8\. The immediate abolition of the militia detachments set up between towns
-and countryside.
+> _ 9\. The equalisation of rations for all workers, except those engaged in
+dangerous or unhealthy jobs._
 
->
-
-> 9\. The equalisation of rations for all workers, except those engaged in
-dangerous or unhealthy jobs.
-
->
-
-> 10\. The abolition of Party combat detachments in all military groups. The
+> _ 10\. The abolition of Party combat detachments in all military groups. The
 abolition of Party guards in factories and enterprises. If guards are
 required, they should be nominated, taking into account the views of the
-workers.
+workers._
 
->
-
-> 11\. The granting to the peasants of freedom of action on their own soil,
+> _ 11\. The granting to the peasants of freedom of action on their own soil,
 and of the right to own cattle, provided they look after them themselves and
-do not employ hired labour.
+do not employ hired labour._
 
->
+> _ 12\. We request that all military units and officer trainee groups
+associate themselves with this resolution. _
 
-> 12\. We request that all military units and officer trainee groups associate
-themselves with this resolution.
+> _ 13\. We demand that the Press give proper publicity to this resolution._
 
->
+> _ 14\. We demand the institution of mobile workers' control groups._
 
-> 13\. We demand that the Press give proper publicity to this resolution.
-
->
-
-> 14\. We demand the institution of mobile workers' control groups.
-
->
-
-> 15\. We demand that handicraft production be authorised provided it does not
-utilise wage labour."_ [quoted by Ida Mett, **The Kronstadt Revolt**, pp.
+> _ 15\. We demand that handicraft production be authorised provided it does
+not utilise wage labour."_ [quoted by Ida Mett, **The Kronstadt Revolt**, pp.
 37-8]
 
 This is the program described by the Soviet government as a _"SR-Black
@@ -1494,7 +1466,7 @@ soviets). The fact that the Kronstadt sailors not only _"venture[d] upon an
 insurrection under an abstract political slogan of 'free soviets'"_ but
 actually **created** one (the conference of delegates) goes unmentioned.
 Moreover, as we prove in [section 8](append42.html#app8), the majority of
-sailors in 1921 had been there in 1917\. This was due to the fact that the
+sailors in 1921 had been there in 1917. This was due to the fact that the
 sailors could not be quickly or easily replaced due to the technology required
 to operate Kronstadt's defences and battleships.
 
@@ -1686,11 +1658,11 @@ this in terms of their reluctance to resort to bloodshed. Later, other
 officers of the garrison were also to accuse the sailors of military
 incompetence, and of complete lack of confidence in their technical advisers.
 Kozlovsky was the only general to have been present at Kronstadt. This was
-enough for the Government to make use of his name.
+enough for the Government to make use of his name. _
 
 >
 
-> "The men of Kronstadt did, up to a point, make use of the military know how
+> _"The men of Kronstadt did, up to a point, make use of the military know how
 of certain officers in the fortress at the time. Some of these officers may
 have given the men advice out of sheer hostility to the Bolsheviks. But in
 their attack on Kronstadt, the Government forces were also making use of ex
@@ -1975,11 +1947,11 @@ sailors would have waited a few weeks longer for the ice to melt . . . The
 rebels, moreover, allowed Kalinin [a leading Communist] to return to
 Petrograd, though he would have made a valuable hostage. Further, no attempt
 was made to take the offensive . . . Significant too, is the large number of
-Communists who took part in the movement. . .
+Communists who took part in the movement. . . _
 
 >
 
-> "The Sailors needed no outside encouragement to raise the banner of
+> _"The Sailors needed no outside encouragement to raise the banner of
 insurrection. . . Kronstadt was clearly ripe for a rebellion. What set it off
 were not the machinations of emigre conspirators and foreign intelligence
 agents but the wave of peasant risings throughout the country and the labour
@@ -2067,39 +2039,39 @@ Communists' hands and have taken over the helm . . . Comrades, keep a close
 eye upon the vicinity of the tiller: enemies are even now trying to creep
 closer. A single lapse and they will wrest the tiller from you, and the soviet
 ship may go down to the triumphant laughter from tsarist lackeys and henchmen
-of the bourgeoisie.
+of the bourgeoisie. _
 
 >
 
-> "Comrades, right now you are rejoicing in the great, peaceful victory over
-the Communists' dictatorship. Now, your enemies are celebrating too.
+> _"Comrades, right now you are rejoicing in the great, peaceful victory over
+the Communists' dictatorship. Now, your enemies are celebrating too. _
 
 >
 
-> "Your grounds for such joy, and theirs, are quite contradictory.
+> _"Your grounds for such joy, and theirs, are quite contradictory. _
 
 >
 
-> "You are driven by a burning desire to restore the authentic power of the
+> _"You are driven by a burning desire to restore the authentic power of the
 soviets, by a noble hope of seeing the worker engage in free labour and the
 peasant enjoy the right to dispose, on his land, of the produce of his
 labours. **They** dream of bringing back the tsarist knout and the privileges
-of the generals.
+of the generals. _
 
 >
 
-> "Your interests are different. They are not fellow travellers with you.
+> _"Your interests are different. They are not fellow travellers with you. _
 
 >
 
-> "You needed to get rid of the Communists' power over you in order to set
+> _"You needed to get rid of the Communists' power over you in order to set
 about creative work and peaceable construction. Whereas they want to overthrow
-that power to make the workers and peasants their slaves again.
+that power to make the workers and peasants their slaves again. _
 
 >
 
-> "You are in search of freedom. They want to shackle you as it suits them. Be
-vigilant! Don't let the wolves in sheep's clothing get near the tiller."_
+> _"You are in search of freedom. They want to shackle you as it suits them.
+Be vigilant! Don't let the wolves in sheep's clothing get near the tiller."_
 [**No Gods, No Masters**, vol. 2, pp. 187-8]
 
 Of course, this is not enough for the followers of Lenin and Trotsky. John
@@ -2649,15 +2621,15 @@ clear-cut contingent, and were then pointed out as among the great heroes who
 had saved the Revolution from Kerensky, and Petrograd from Yudenich. During
 the anniversary of October the sailors were again in the front ranks, and
 their re-enactment of the taking of the Winter Palace was wildly acclaimed by
-a packed mass.
+a packed mass. _
 
 >
 
-> "Is it possible that the leading members of the party, save Leon Trotsky,
+> _"Is it possible that the leading members of the party, save Leon Trotsky,
 were unaware of the corruption and the demoralisation of Kronstadt, claimed by
 him? I do not think so. Moreover, I doubt whether Trotsky himself held this
-view of the Kronstadt sailors until March, 1921\. His story must, therefore,
-be an afterthought, or is it a rationalisation to justify the senseless
+view of the Kronstadt sailors until March, 1921. His story must, therefore, be
+an afterthought, or is it a rationalisation to justify the senseless
 'liquidation' of Kronstadt?"_ [**Trotsky Protests Too Much**]
 
 Ante Ciliga quoted the testimony regarding Kronstadt of a fellow political
@@ -2718,11 +2690,11 @@ control and far from constant in their support for the government. It was for
 this reason so many of them . . . had found themselves transferred to new
 posts remote from the centres of Bolshevik powers. Of those who remained, many
 hankered for the freedoms they had won in 1917 before the new regime began to
-establish its one-party dictatorship throughout the country.
+establish its one-party dictatorship throughout the country. _
 
 >
 
-> "Actually, there was little to distinguish the old-timers from the recent
+> _"Actually, there was little to distinguish the old-timers from the recent
 recruits in their midst. Both groups were largely of peasant background . . .
 Not unexpectedly, when the rebellion finally erupted, it was the older seamen,
 veterans of many years of service (dating in some cases before the First World
@@ -2732,11 +2704,11 @@ only natural that these seasoned bluejackets should be thrust into the
 forefront of the uprising . . . The proximity of Petrograd, moreover, with its
 intense intellectual and political life, had contributed towards sharpening
 their political awareness, and a good many had engaged in revolutionary
-activity during 1917 and after. . .
+activity during 1917 and after. . . _
 
 >
 
-> "As late as the autumn of 1920, Emma Goldman recalled, the sailors were
+> _"As late as the autumn of 1920, Emma Goldman recalled, the sailors were
 still held up by the Communists themselves as a glowing example of valour and
 unflinching courage; on November 7, the third anniversary of the Bolshevik
 seizure of power, they were in the front ranks of the celebrations . . . No
@@ -2860,7 +2832,7 @@ smokescreen to draw attention away from the weakness of his own case.
 
 Moreover, as evidence of **changing** class composition these figures are not
 very useful. This is because they do not compare the composition of the
-Kronstadt Bolsheviks in 1917 to those in 1921\. Given that the Kronstadt base
+Kronstadt Bolsheviks in 1917 to those in 1921. Given that the Kronstadt base
 always had a high percentage of peasants in its ranks, it follows that in 1917
 the percentage of Bolsheviks of peasant origin could have been higher than
 normal as well. If this was the case, then Rees argument falls. Simply put, he
@@ -3072,28 +3044,28 @@ Let us quote a _"representative"_ of the _"city petty bourgeoisie"_:
 
 > _"I am an anarchist because contemporary society is divided into two
 opposing classes: the impoverished and dispossessed workers and peasants . . .
-and the rich men, kings and presidents . . .
+and the rich men, kings and presidents . . . _
 
 >
 
-> "I am an anarchist because I scorn and detest all authority, since all
+> _"I am an anarchist because I scorn and detest all authority, since all
 authority is founded on injustice, exploitation and compulsion over the human
-personality. Authority dehumanises the individual and makes him a slave.
+personality. Authority dehumanises the individual and makes him a slave. _
 
 >
 
-> "I am an opponent of private property when it is held by individual
-capitalist parasites, for private property is theft. . .
+> _"I am an opponent of private property when it is held by individual
+capitalist parasites, for private property is theft. . . _
 
 >
 
-> "I am an anarchist because I believe only in the creative powers and
+> _"I am an anarchist because I believe only in the creative powers and
 independence of a united proletariat and not of the leaders of political
-parties of various kinds.
+parties of various kinds. _
 
 >
 
-> "I am an anarchist because I believe that the present struggle between the
+> _"I am an anarchist because I believe that the present struggle between the
 classes will end only when the toiling masses, organised as a class, gain
 their true interests and conquer, by means of a violent social revolution, all
 the riches of the earth . . . having abolished all institutions of government
@@ -3216,7 +3188,7 @@ White speculates, _"the younger element among the seamen"_ would _"easily
 ships"_ and of the _"large number of old-ex-sea men, employed in the
 industrial enterprises of Kronstadt."_ He notes that _"a good many"_ of the
 rebels _"had had ample experience in organisational and political work since
-1917\. A number had long-standing associations with Anarchists and the
+1917. A number had long-standing associations with Anarchists and the
 Socialist Revolutionaries of the Left."_ Thus the _"survival of the
 libertarian pattern of 1917 . . . made it possible for the bluejackets not
 only to formulate, but carry out a plan of action, no doubt under a certain
@@ -3345,11 +3317,11 @@ Bolshevik functionaries. The proclamations posted on the street bulletin
 boards ordered the immediate return of all strikers to the factories,
 prohibited suspension of work, and warned the people against congregating on
 the streets. 'In such cases', the order read, 'the soldiery will resort to
-arms. In case of resistance, shooting on the spot.'
+arms. In case of resistance, shooting on the spot.' _
 
 >
 
-> "The committee of defence took up the systematic 'cleaning of the city.'
+> _"The committee of defence took up the systematic 'cleaning of the city.'
 Numerous workers, soldiers and sailors suspected of sympathising with
 Kronstadt, placed under arrest. All Petrograd sailors and several Army
 regiments thought to be 'politically untrustworthy' were ordered to distant
@@ -3427,11 +3399,11 @@ showed how the wave of strikes had started in Petrograd and how Kronstadt had
 followed suit. It was against the strikers of Petrograd that the Government
 had to organise a special General Staff: the Committee of Defence. The
 repression was first directed against the Petrograd workers and against their
-demonstrations, by the despatch of armed detachments of Koursantys.
+demonstrations, by the despatch of armed detachments of Koursantys. _
 
 >
 
-> "But the workers of Petrograd had no weapons. They could not defend
+> _"But the workers of Petrograd had no weapons. They could not defend
 themselves as could the Kronstadt sailors. The military repression directed
 against Kronstadt certainly intimidated the Petrograd workers. The demarcation
 did not take place 'along class lines' but according to the respective
@@ -3467,11 +3439,11 @@ continued by arguing:
 party that expresses the interests of historical development? Destroying or
 driving underground the other parties, you have thereby prevented their
 political competition with you, and consequently you have deprived yourselves
-of the possibility of testing your line of action.
+of the possibility of testing your line of action. _
 
 >
 
-> "This idea is dictated by a purely liberal conception of the course of the
+> _"This idea is dictated by a purely liberal conception of the course of the
 revolution. In a period in which all antagonisms assume an open character, and
 the political struggle swiftly passes into a civil war, the ruling party has
 sufficient material standard by which to test its line of action, without the
@@ -3500,11 +3472,11 @@ Kronstadt and comes to the following conclusion"_:
 
 > _"For many intellectuals and workers, moreover, the Bolsheviks, with all
 their faults, were still the most effective barrier to a White resurgence and
-the downfall of the revolution.
+the downfall of the revolution. _
 
 >
 
-> "For these reasons, the strikes in Petrograd were fated to lead a brief
+> _"For these reasons, the strikes in Petrograd were fated to lead a brief
 existence. Indeed, they ended almost as suddenly as they had begun, never
 having reached the point of armed revolt against the regime."_ [Lenin and
 Trotsky, **Op. Cit.**, pp. 24-35]
@@ -3522,28 +3494,28 @@ indispensable in restoring order. Particularly impressive in this regard was
 the discipline shown by the local party organisation. Setting aside their
 internal disputes, the Petrograd Bolsheviks swiftly closed ranks and proceeded
 to carry out the unpleasant task of repression with efficiency and dispatch .
-. .
+. . _
 
 >
 
-> "Then, too, the collapse of the movement would not have come so soon but for
-the utter demoralisation of Petrograd's inhabitants. The workers were simply
-too exhausted to keep up any sustained political activity . . . What is more,
-they lacked effective leadership and a coherent program of action. In the past
-these had been supplied by the radical intelligentsia . . . [but they] were
-themselves in no condition to lend the workers any meaningful support, let
-alone active guidance . . . they now felt too weary and terrorised . . . to
-raise their voices in opposition. With most of their comrades in prison or
-exile, and some already executed, few of the survivors were willing to risk
-the same fate, especially when the odds against them were so overwhelming and
-when the slightest protest might deprive their families of their rations. For
-many intellectuals and workers, moreover, the Bolsheviks, with all their
-faults, were still the most effective barrier to a White resurgence and the
-downfall of the revolution.
+> _"Then, too, the collapse of the movement would not have come so soon but
+for the utter demoralisation of Petrograd's inhabitants. The workers were
+simply too exhausted to keep up any sustained political activity . . . What is
+more, they lacked effective leadership and a coherent program of action. In
+the past these had been supplied by the radical intelligentsia . . . [but
+they] were themselves in no condition to lend the workers any meaningful
+support, let alone active guidance . . . they now felt too weary and
+terrorised . . . to raise their voices in opposition. With most of their
+comrades in prison or exile, and some already executed, few of the survivors
+were willing to risk the same fate, especially when the odds against them were
+so overwhelming and when the slightest protest might deprive their families of
+their rations. For many intellectuals and workers, moreover, the Bolsheviks,
+with all their faults, were still the most effective barrier to a White
+resurgence and the downfall of the revolution. _
 
 >
 
-> "For these reasons, the strikes in Petrograd were fated to lead a brief
+> _"For these reasons, the strikes in Petrograd were fated to lead a brief
 existence. Indeed, they ended almost as suddenly as they had begun, never
 having reached the point of armed revolt against the regime."_ [Paul Avrich,
 **Kronstadt**, pp. 49-51]
@@ -3610,7 +3582,7 @@ According to John Rees, a substantial amount:
 still not finished -- as the emigre response to the Kronstadt rising shows . .
 . They had predicted a rising at Kronstadt and the White National Centre
 abroad raised a total of nearly 1 million French Francs, 2 million Finnish
-marks, 5000, $25,000 and 900 tons of flour in just two weeks; Indeed, the
+marks, £5000, $25,000 and 900 tons of flour in just two weeks; Indeed, the
 National Centre was already making plans for the forces of the French navy and
 those of General Wrangel, who still commanded 70,000 men in Turkey, to land in
 Kronstadt if the revolt were to succeed."_ [**Op. Cit.**, pp. 63-4]
@@ -3785,11 +3757,11 @@ as the 1921 Kronstadt rising against the Bolshevik government in Russia can
 become a rallying cry. The revolutionary Victor Serge was not uncritical of
 the Bolshevik handling of the rising, but he poured scorn on anarchist claims
 for it when he wrote, 'The third revolution it was called by certain
-anarchists whose heads were stuffed by infantile delusions.'
+anarchists whose heads were stuffed by infantile delusions.' _
 
 >
 
-> "This third revolution, it was argued, would follow the first one in
+> _"This third revolution, it was argued, would follow the first one in
 February 1917 and the second in October. The second had swept away the
 attempts to create capitalist power, had given land to the peasants and had
 extracted Russia from the horrible imperialist carnage of the First World War.
@@ -3798,11 +3770,11 @@ abortion rights, introduced divorce and accepted the rights of the various
 Russian republics to self determination. It had done so, however, against a
 background of a bloody and horrendous civil war where the old order tried to
 regain power. Sixteen imperialist powers sent armies against the regime, and
-trade embargoes were enforced.
+trade embargoes were enforced. _
 
 >
 
-> "The reality of such actions caused huge suffering throughout Russia. The
+> _"The reality of such actions caused huge suffering throughout Russia. The
 regime was deprived of raw materials and fuel, transportation networks were
 destroyed, and the cities began running out of food. By 1919 the regime only
 had 10 percent of the fuel that was available in 1917, and the production of
@@ -3810,12 +3782,12 @@ iron ore in the same year stood at 1.6 percent of that in 1914. By 1921
 Petrograd had lost 57 percent of its population and Moscow 44.5 percent.
 Workers were either dead, on the frontline of the civil war, or were fleeing
 the starvation of the city. The force that had made the revolution possible
-was being decimated. . .
+was being decimated. . . _
 
 >
 
-> "The choice facing the regime in Russia was either to crush the uprising and
-save the revolution, or surrender to the rising and allow the forces of
+> _"The choice facing the regime in Russia was either to crush the uprising
+and save the revolution, or surrender to the rising and allow the forces of
 reaction to march in on their back. There was no material basis for a third
 way. A destroyed economy and infrastructure, a population faced with
 starvation and bloody war, and a hostile outside world were not circumstances
@@ -3898,11 +3870,11 @@ Continuing party dictatorship would never do this:
 > _"by its very essence a dictatorship destroys the creative capacities of a
 people. . . The revolutionary conquest could only be deepened through a
 genuine participation of the masses. Any attempt to substitute an 'elite' for
-those masses could only be profoundly reactionary.
+those masses could only be profoundly reactionary. _
 
 >
 
-> "In 1921 the Russian Revolution stood at the cross roads. The democratic or
+> _"In 1921 the Russian Revolution stood at the cross roads. The democratic or
 the dictatorial way, that was the question. By lumping together bourgeois and
 proletarian democracy the Bolsheviks were in fact condemning both. They sought
 to build socialism from above, through skilful manoeuvres of the Revolutionary
@@ -3952,13 +3924,13 @@ We all know that the housing problem cannot be solved in a few months, even
 years, and that due to our poverty, its solution is faced with serious
 difficulties. But the facts of ever-growing inequality between the privileged
 groups of the population in Soviet Russia and the rank and file workers, 'the
-frame-work of the dictatorship', breed and nourish the dissatisfaction.
+frame-work of the dictatorship', breed and nourish the dissatisfaction. _
 
 >
 
-> "The rank and file worker sees how the Soviet official and the practical man
-lives and how he lives . . . [It will be objected that] 'We could not attend
-to that; pray, there was the military front.' And yet whenever it was
+> _"The rank and file worker sees how the Soviet official and the practical
+man lives and how he lives . . . [It will be objected that] 'We could not
+attend to that; pray, there was the military front.' And yet whenever it was
 necessary to make repairs to any of the houses occupied by the Soviet
 institutions, they were able to find both the materials and the labour."_
 [Alexandra Kollontai, **The Workers' Opposition**, p. 10]
@@ -4299,11 +4271,11 @@ there was no reserves of any kind, not even reserves of stamina in the hearts
 of the masses. The working-class **elite** that had been moulded in the
 struggle against the old regime was literally decimated. The Party, swollen by
 the influx of power-seekers, inspired little confidence . . . Soviet democracy
-lacked leadership, institutions and inspiration . . .
+lacked leadership, institutions and inspiration . . . _
 
 >
 
-> "The popular counter-revolution translated the demand for freely-elected
+> _"The popular counter-revolution translated the demand for freely-elected
 soviets into one for 'Soviets without Communists.' If the Bolshevik
 dictatorship fell, it was only a short step to chaos, and through chaos to a
 peasant rising, the massacre of the Communists, the return of the emigres, and
@@ -4439,11 +4411,11 @@ represent an enormous danger to the revolution."_ This was because:
 > _"Nobody who sincerely defends the line of Lenin can entertain the idea of
 'two parties' or play with the suggestion of a split. Only those who desire to
 replace Lenin's course with some other can advocate a split or a movement
-along the two-party road.
+along the two-party road. _
 
 >
 
-> "We will fight with all our power against the idea of two parties, because
+> _"We will fight with all our power against the idea of two parties, because
 the dictatorship of the proletariat demands as its very core a single
 proletarian party. It demands a single party. It demands a proletarian party
 -- that is, a party whose policy is determined by the interests of the
@@ -4583,11 +4555,11 @@ the working class as a whole, to the solders and to the sailors. Heated local
 criticism acted as a general catalyst. The proletariat had reasoned quite
 logically: if discussion and criticism were permitted to Party members, why
 should they not be permitted to the masses themselves who had endured all the
-hardships of the Civil War?
+hardships of the Civil War? _
 
 >
 
-> "In his speech to the Tenth Congress -- published in the Congress
+> _"In his speech to the Tenth Congress -- published in the Congress
 Proceedings -- Lenin voiced his regret at having 'permitted' such a
 discussion. 'We have certainly committed an error,' he said, 'in having
 authorised this debate. Such a discussion was harmful just before the Spring
@@ -4939,7 +4911,7 @@ stage in a "proletarian" revolution):
 
 > _"The revolutionary dictatorship of a proletarian party is for me not a
 thing that one can freely accept or reject: It is an objective necessity
-imposed upon us by the social realities \-- the class struggle, the
+imposed upon us by the social realities -- the class struggle, the
 heterogeneity oof the revolutionary class, the necessity for a selected
 vanguard in order to assure the victory. The dictatorship of a party belongs
 to the barbarian prehistory as does the state itself, but we can not jump over
@@ -5014,11 +4986,11 @@ the will to freedom of a large section of the population. The authoritarian .
 economic and political system has be replaced by a dictatorship of the
 proletariat [as expressed by the dictatorship of the party, according to
 Trotsky] which, as the awareness and sense of responsibility of the people
-grows, will wither away and the free society emerge.
+grows, will wither away and the free society emerge. _
 
 >
 
-> "There can be no common ground between such approaches. For the
+> _"There can be no common ground between such approaches. For the
 authoritarian argues that the libertarian approach is noble but 'utopian' and
 doomed to failure from the start, while the libertarian argues on the evidence
 of history, that the authoritarian **methods** will simply replace one
@@ -5392,20 +5364,20 @@ revolutionary (even if they are workers). Thus:
 often provide deep insight into the political thinking of contemporary
 revolutionaries. They may in fact provide a deeper insight into their
 conscious or unconscious aims than many a learned discussion about economics,
-or philosophy or about other episodes of revolutionary history.
+or philosophy or about other episodes of revolutionary history. _
 
 >
 
-> "It is a question of one's basic attitude as to what socialism is all about.
-what are epitomised in the Kronstadt events are some of the most difficult
-problems of revolutionary strategy and revolutionary ethics: the problems of
-ends and means, of the relations between Party and masses, in fact whether a
-Party is necessary at all. Can the working class by itself only develop a
-trade union consciousness? . . .
+> _"It is a question of one's basic attitude as to what socialism is all
+about. what are epitomised in the Kronstadt events are some of the most
+difficult problems of revolutionary strategy and revolutionary ethics: the
+problems of ends and means, of the relations between Party and masses, in fact
+whether a Party is necessary at all. Can the working class by itself only
+develop a trade union consciousness? . . . _
 
 >
 
-> "Or can the working class develop a deeper consciousness and understanding
+> _"Or can the working class develop a deeper consciousness and understanding
 of its interests than can any organisations allegedly acting on its behalf?
 When Stalinists or Trotskyists speak of Kronstadt as 'an essential action
 against the class enemy' when some more 'sophisticated' revolutionaries refer
@@ -5458,32 +5430,26 @@ entire proletariat head the government? The Germans number about 40 million.
 Will all 40 million be members of the government? The entire nation will rule,
 but no one would be ruled. Then there will be no government, there will be no
 state; but if there is a state, there will also be those who are ruled, there
-will be slaves.
+will be slaves._
 
->
-
-> "In the Marxists' theory this dilemma is resolved in a simple fashion. By
+> _ "In the Marxists' theory this dilemma is resolved in a simple fashion. By
 popular government they mean government of the people by a small number of
 representatives elected by the people. So-called popular representatives and
 rulers of the state elected by the entire nation on the basis of universal
 suffrage -- the last word of the Marxists, as well as the democratic school --
 is a lie behind which the despotism of a ruling minority is concealed, a lie
 all the more dangerous in that it represents itself as the expression of a
-sham popular will.
+sham popular will._
 
->
+> _ "So . . . it always comes down to the same dismal result: government of
+the vast majority of the people by a privileged minority. But this minority,
+the Marxists say, will consist of workers. Yes, perhaps, of **former**
+workers, who, as soon as they become rulers or representatives of the people
+will cease to be workers and will begin to look upon the whole workers' world
+from the heights of the state. They will no longer represent the people but
+themselves and their own pretensions to govern the people. . . _
 
-> "So . . . it always comes down to the same dismal result: government of the
-vast majority of the people by a privileged minority. But this minority, the
-Marxists say, will consist of workers. Yes, perhaps, of **former** workers,
-who, as soon as they become rulers or representatives of the people will cease
-to be workers and will begin to look upon the whole workers' world from the
-heights of the state. They will no longer represent the people but themselves
-and their own pretensions to govern the people. . .
-
->
-
-> "They say that this state yoke, this dictatorship, is a necessary
+> _ "They say that this state yoke, this dictatorship, is a necessary
 transitional device for achieving the total liberation of the people: anarchy,
 or freedom, is the goal, and the state, or dictatorship, the means. Thus, for
 the masses to be liberated they must first be enslaved. . . . They claim that

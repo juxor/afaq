@@ -17,9 +17,9 @@ out how (and why) statism and capitalism affect society as a whole outwith the
 narrow bounds of politics and economics.
 
 So here we sketch some of the impact concentrations of political and economic
-power have upon society. While many people attack the *results* of these
+power have upon society. While many people attack the **results** of these
 processes (like specific forms of state intervention, ecological destruction,
-imperialism, etc.) they usually ignore their *causes.* This means that the
+imperialism, etc.) they usually ignore their **causes**. This means that the
 struggle against social evils will be never-ending, like a doctor fighting the
 symptoms of a disease without treating the disease itself or the conditions
 which create it in the first place. We have indicated the roots of the

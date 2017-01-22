@@ -190,7 +190,7 @@ new labour system in the steel industry was repeated throughout the economy in
 different industries. As in the steel industry, the core of these new labour
 systems were the creation of artificial job hierarchies and the transfer of
 skills from workers to the managers."_ [_"The Origins of Job Structure in the
-Steel Industry,"_ pp. 123-157, Root & Branch (ed.), **Root and Branch: The
+Steel Industry,"_ pp. 123-157, Root &amp; Branch (ed.), **Root and Branch: The
 Rise of the Workers' Movements**, p. 155, p. 153, p. 152 and pp. 153-4]
 
 This process of deskilling workers was complemented by other factors -- state
@@ -269,10 +269,10 @@ control -- but as it allows managers to maximise profits the capitalist market
 selects it.
 
 Of course the claim is that higher wages follow increased investment and
-technological innovation ("in the long run" -- although usually "the long run"
-has to be helped to arrive by workers' struggle and protest!). Passing aside
-the question of whether slightly increased consumption really makes up for
-dehumanising and uncreative work, we must note that it is usually the
+technological innovation ("in the long run" \-- although usually "the long
+run" has to be helped to arrive by workers' struggle and protest!). Passing
+aside the question of whether slightly increased consumption really makes up
+for dehumanising and uncreative work, we must note that it is usually the
 capitalist who **really** benefits from technological change in money terms.
 For example, between 1920 and 1927 (a period when unemployment caused by
 technology became commonplace) the automobile industry (which was at the

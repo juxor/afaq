@@ -14,10 +14,9 @@ All we can do here is indicate those general features that we believe a free
 society **must** have in order to qualify as truly libertarian. For example, a
 society based on hierarchical management in the workplace (like capitalism)
 would not be libertarian and would soon see private or public states
-developing to protect the power of those at the top hierarchical positions.
-Beyond such general considerations, however, the specifics of how to structure
-a non-hierarchical society must remain open for discussion and
-experimentation:
+developing to protect the power of those at the top. Beyond such general
+considerations, however, the specifics of how to structure a non-hierarchical
+society must remain open for discussion and experimentation:
 
 > _"Anarchism, meaning Liberty, is compatible with the most diverse economic
 [and social] conditions, on the premise that these cannot imply, as under
@@ -50,9 +49,9 @@ critique of the state and capitalism, certain kinds of social organisation are
 implied. Thus, our recognition that wage-labour creates authoritarian social
 relationships and exploitation suggests a workplace in a free society can only
 be based on associated and co-operative labour (i.e., self-management).
-Similarly, given that the state is a centralised body which delegates power
-upwards it is not hard to imagine that a free society would have communal
-institutions which were federal and organised from the bottom-up.
+Similarly, given that the state is a top-down centralised body it is not hard
+to imagine that a free society would have communal institutions which were
+federal and organised from the bottom-up.
 
 Moreover, given the ways in which our own unfree society has shaped our ways
 of thinking, it is probably impossible for us to imagine what new forms will
@@ -103,7 +102,7 @@ And, of course, real life has a habit of over-turning even the most realistic
 sounding theories, ideas and ideologies. Marxism, Leninism, Monetarism,
 laissez-faire capitalism (among others) have proven time and time again that
 ideology applied to real life has effects not predicted by the theory before
-hand (although in all four cases, their negative effects where predicted by
+hand (although in all four cases, their negative effects were predicted by
 others; in the case of Marxism and Leninism by anarchists). Anarchists are
 aware of this, which is why we reject ideology in favour of theory and why we
 are hesitant to create blue-prints for the future. History has repeatedly
@@ -149,7 +148,7 @@ ruling class, becomes clearly undesirable and unnecessary. Thus the framework
 of the free society will be created by the very process of class struggle, as
 working class people create the organisations required to fight for
 improvements and change within capitalism (see [section
-I.2.3](secI2.html#seci23)).
+I.2.3](secI2.html#seci23) ).
 
 Thus, the **actual** framework of an anarchist society and how it develops and
 shapes itself is dependent on the needs and desires of those who live in such
@@ -206,7 +205,7 @@ system to suit their convenience in a variety of ways . . . as common sense is
 likely to suggest to free men [and women]."_ [Charlotte M. Wilson, **Anarchist
 Essays**, p. 23] So we have little doubt that working people will quickly
 transform their work, workplaces and society into one suitable for human
-beings, rejecting the legacy of capitalism and create a society we simply
+beings, rejecting the legacy of capitalism and creating a society we simply
 cannot predict. The occupying of workplaces is, we stress, simply the first
 stage of the process of transforming them and the rest of society. These words
 of the strikers just before the 1919 Seattle General Strike expresses this
@@ -216,14 +215,11 @@ perspective well:
 under the management of the appropriate trades, such activities as are needed
 to preserve public health and public peace. If the strike continues, Labour
 may feel led to avoid public suffering by reopening more and more activities,
+_
 
->
+> _"UNDER ITS OWN MANAGEMENT. _
 
-> "UNDER ITS OWN MANAGEMENT.
-
->
-
-> "And that is why we say that we are starting on a road that leads -- NO ONE
+> _"And that is why we say that we are starting on a road that leads -- NO ONE
 KNOWS WHERE!"_ [quoted by Jeremy Brecher, **Strike!**, p. 110]
 
 People's lives in a post-revolutionary society will not centre around fixed
@@ -267,7 +263,7 @@ one degree or another, these forms either alter the individual who uses them
 or inhibit his [or her] further development."_ [**Post-Scarcity Anarchism**,
 p. 89]
 
-And the **content** of decisions are determined by the individuals involved.
+And the **content** of decisions is determined by the individuals involved.
 Thus participatory, decentralised, self-managed organisations are essential
 for the development of the content of decisions because they develop the
 individuals who make them.
@@ -333,15 +329,15 @@ our activities are actually creating a better world. After all, if Karl Marx
 had been more willing to discuss his vision of a socialist society then the
 Stalinists would have found it much harder to claim that their hellish system
 was, in fact, socialism. Given that anarchists like Proudhon and Bakunin gave
-a board outline of their vision of a free society it would have been
+a broad outline of their vision of a free society it would have been
 impossible for anarchism to be twisted as Marxism was. Most anarchists would
 agree with Chomsky's evaluation of the issue:
 
 > _"A movement of the left should distinguish with clarity between its long-
 range revolutionary aims and certain more immediate effects it can hope to
-achieve . . .
+achieve . . . _
 
-> "But in the long run, a movement of the left has no chance of success, and
+> _"But in the long run, a movement of the left has no chance of success, and
 deserves none, unless it develops an understanding of contemporary society and
 a vision of a future social order that is persuasive to a large majority of
 the population. Its goals and organisational forms must take shape through
@@ -376,9 +372,9 @@ against the privileged class, can wipe out class difference."_ [Luigi Fabbri,
 _"Anarchy and 'Scientific' Communism"_, pp. 13-49, **The Poverty of Statism**,
 pp. 13-49, Albert Meltzer (ed.), p. 30]
 
-As we discussed in [section H.2.5](secH2.html#sech25), few anarchists consider
-it likely that a perfectly functioning libertarian communist society would be
-the immediate effect of a social revolution. For anarchists a social
+As we discussed in [section H.2.5](secH2.html#sech25) , few anarchists
+consider it likely that a perfectly functioning libertarian communist society
+would be the immediate effect of a social revolution. For anarchists a social
 revolution is a **process** and not an event (although, of course, a process
 marked by such events as general strikes, uprisings, insurrections and so on).
 As Kropotkin argued:
@@ -469,17 +465,15 @@ be created by the struggle for freedom itself, by the class struggle
 will not be "perfect" by any means:
 
 > _"I do not say that the peasants [and workers], freely organised from the
-bottom up, will miraculously create an ideal organisation, confirming in all
+bottom up, will miraculously create an ideal organisation, conforming in all
 respects to our dreams. But I am convinced that what they construct will be
 living and vibrant, a thousands times better and more just than any existing
 organisation. Moreover, this . . . organisation, being on the one hand open to
 revolutionary propaganda . . . , and on the other, not petrified by the
 intervention of the State . . . will develop and perfect itself through free
-experimentation as fully as one can reasonably expect in our times.
+experimentation as fully as one can reasonably expect in our times. _
 
->
-
-> "With the abolition of the State, the spontaneous self-organisation of
+> _"With the abolition of the State, the spontaneous self-organisation of
 popular life . . . will revert to the communes. The development of each
 commune will take its point of departure the actual condition of its
 civilisation."_ [**Bakunin on Anarchism**, p. 207]
@@ -650,41 +644,33 @@ Councils):
 . . Bakunin . . ., much more than Proudhon, linked anarchist principles
 directly to revolutionary action, thus arriving at remarkable insights into
 the revolutionary process that contribute to an understanding of later events
-in Russia . . .
+in Russia . . . _
 
->
-
-> "In 1863 Proudhon declared . . . 'All my economic ideas as developed over
+> _"In 1863 Proudhon declared . . . 'All my economic ideas as developed over
 twenty-five years can be summed up in the words: agricultural-industrial
 federation. All my political ideas boil down to a similar formula: political
 federation or decentralisation.' . . . Proudhon's conception of a self-
 governing state [sic!] founded on producers' corporations [i.e. federations of
 co-operatives], is certainly related to the idea of 'a democracy of producers'
 which emerged in the factory soviets. To this extent Proudhon can be regarded
-as an ideological precursor of the councils . . .
+as an ideological precursor of the councils . . . _
 
->
-
-> "Bakunin . . . suggested the formation of revolutionary committees with
+> _"Bakunin . . . suggested the formation of revolutionary committees with
 representatives from the barricades, the streets, and the city districts, who
 would be given binding mandates, held accountable to the masses, and subject
 to recall. These revolutionary deputies were to form the 'federation of the
 barricades,' organising a revolutionary commune to immediately unite with
-other centres of rebellion . . .
+other centres of rebellion . . . _
 
->
-
-> "Bakunin proposed the formation of revolutionary committees to elect
+> _"Bakunin proposed the formation of revolutionary committees to elect
 communal councils, and a pyramidal organisation of society 'through free
 federation from the bottom upward, the association of workers in industry and
 agriculture -- first in the communities, then through federation of
 communities into districts, districts into nations, and nations into
 international brotherhood.' These proposals are indeed strikingly similar to
-the structure of the subsequent Russian system of councils . . .
+the structure of the subsequent Russian system of councils . . . _
 
->
-
-> "Bakunin's ideas about spontaneous development of the revolution and the
+> _"Bakunin's ideas about spontaneous development of the revolution and the
 masses' capacity for elementary organisation undoubtedly were echoed in part
 by the subsequent soviet movement. . . Because Bakunin . . . was always very
 close to the reality of social struggle, he was able to foresee concrete
@@ -706,7 +692,7 @@ anarchists use this term to cover all struggles against domination).
 _"Anarchism,"_ argued Kropotkin, _"is not a mere insight into a remote future.
 Already now, whatever the sphere of action of the individual, he [or she] can
 act, either in accordance with anarchist principles or on an opposite line."_
-It was _"born among the people \-- in the struggles of real life"_ and _"owes
+It was _"born among the people -- in the struggles of real life"_ and _"owes
 its origin to the constructive, creative activity of the people."_
 [**Anarchism**, p. 75, p. 150 and p. 149] Thus, _"Anarchism is not . . . a
 theory of the future to be realised by divine inspiration. It is a living
@@ -741,23 +727,23 @@ potent fact, which shall envelop capital and the State and subjugate them"_ as
 _"it is of no use to change the holders of power or introduce some variation
 into its workings: an agricultural and industrial combination must be found by
 means of which power, today the ruler of society, shall become its slave."_
-[**System of Economical Contradictions**, p. 399 and p. 398] Workers should
-follow the example of those already creating co-operatives:
+[**Property is Theft!**, p. 226 and p. 225] Workers should follow the example
+of those already creating co-operatives:
 
-> _"Do not the workmen's unions at this moment serve as the cradle for the
+> _"Do not the worker's societies at this moment serve as the cradle for the
 social revolution . . . ? Are they not always the open school, both
-theoretical and practical, where the workman learns the science of the
+theoretical and practical, where the worker learns the science of the
 production and distribution of wealth, where he studies, without masters and
 without books, by his own experience solely, the laws of . . . industrial
-organisation . . . ?"_ [**General Idea of the Revolution**, p. 78]
+organisation . . . ?"_ [**Op. Cit.**, pp. 552-3]
 
 Attempts to form workers associations, therefore, _"should be judged, not by
 the more or less successful results which they obtain, but only according to
 their silent tendency to assert and establish the social republic."_ The
-_"importance of their work lies, not in their petty union interests, but in
-their denial of the rule of capitalists, money lenders and governments."_ They
-_"should take over the great departments of industry, which are their natural
-inheritance."_ [**Op. Cit.**, p. 98-9]
+_"importance of their work lies, not in the petty interests of their company,
+but in the negation of the capitalist regime."_ They will _" take over the
+great departments of industry, which are their natural prerogative."_ [**Op.
+Cit.**, pp. 558-9]
 
 This linking of the present and the future through the self-activity and self-
 organisation of working class people is also found in Bakunin. Unlike
@@ -876,8 +862,8 @@ with a self-managed federation of workers' associations. In this way, the
 class struggle creates the framework of a free society.
 
 This, obviously, means that any suggestions of how an anarchist society would
-look like are based on the fact that the _**actual**_ framework of a free
-society will be the product of _**actual**_ struggles. This means that the
+look like are based on the fact that the **_actual_** framework of a free
+society will be the product of **_actual_** struggles. This means that the
 form of the free society will be shaped by the process of social change and
 the organs it creates. This is an important point and worth repeating.
 
@@ -915,7 +901,7 @@ anarchist:
 
 > _"All of the workers' and peasants' movements which have taken place . . .
 have been movements within the limits of the capitalist regime, and have been
-more of less tinged with anarchism. This is perfectly natural and
+more or less tinged with anarchism. This is perfectly natural and
 understandable. The working class do not act within a world of wishes, but in
 the real world where they are daily subjected to the physical and
 psychological blows of hostile forces . . . the workers continually feel the
@@ -966,11 +952,9 @@ anarchy, meaning the free and independent organisation of all the units and
 parts of the community and their voluntary federation from below upward, not
 by the orders of any authority, even an elected one, and not by the dictates
 of any scientific theory, but as the natural development of all the varied
-demands put forth by life itself.
+demands put forth by life itself. _
 
->
-
-> "Therefore no scholar can teach the people or even define for himself how
+> _"Therefore no scholar can teach the people or even define for himself how
 they will and must live on the morrow of the social revolution. That will be
 determined first by the situation of each people, and secondly by the desires
 that manifest themselves and operate most strongly within them."_ [**Statism

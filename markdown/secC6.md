@@ -104,7 +104,7 @@ risen as only a few companies can actually compete on a global level.
 Similarly, while the "degree of monopoly" within a specific national market
 may fall, the balance of (economic) power within the economy may shift towards
 capital and so place labour in a weaker position to advance its claims (this
-has, undoubtedly, been the case with "globalisation" -- see [section
+has, undoubtedly, been the case with "globalisation" \-- see [section
 D.5.3](seD5.html#secd53)).
 
 Let us consider the US steel industry as an example. The 1980s saw the rise of

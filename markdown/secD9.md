@@ -400,7 +400,7 @@ _"popular understanding of the workings of government is not conducive to
 instilling proper reverence for powerful leaders and their nobility."_
 [Chomsky, **Failed States**, p.238]). These developments would not occur all
 at once, but so gradually, imperceptibly, and logically -- given the need to
-maintain "law and order" -- that most people would not even be aware that an
+maintain "law and order" \-- that most people would not even be aware that an
 authoritarian take-over was underway. Indeed, there is substantial evidence
 that this is already underway in the US (see **Friendly Fascism** by Bertram
 Gross for details).
@@ -682,18 +682,19 @@ to work at very low wages. As Lorenzo Lom'boa Ervin notes:
 trying to build a mass movement which can hire itself out to the Capitalists
 at the proper moment and assume state power . . . Fascism is the ultimate
 authoritarian society when in power, even though it has changed its face to a
-mixture of crude racism and smoother racism in the modern democratic state.
+mixture of crude racism and smoother racism in the modern democratic state.  
+>  _
 
 >
 
-> "So in addition to the Nazis and the Klan, there are other Right-Wing forces
-that have been on the rise . . . They include ultra-conservative rightist
-politicians and Christian fundamentalist preachers, along with the extreme
-right section of the Capitalist ruling class itself, small business owners,
-talk show hosts . . . along with the professors, economists, philosophers and
-others in academia who are providing the ideological weapons for the
-Capitalist offensive against the workers and oppresses people. So not all
-racists wear sheets. These are the 'respectable' racists, the New Right
+> _"So in addition to the Nazis and the Klan, there are other Right-Wing
+forces that have been on the rise . . . They include ultra-conservative
+rightist politicians and Christian fundamentalist preachers, along with the
+extreme right section of the Capitalist ruling class itself, small business
+owners, talk show hosts . . . along with the professors, economists,
+philosophers and others in academia who are providing the ideological weapons
+for the Capitalist offensive against the workers and oppresses people. So not
+all racists wear sheets. These are the 'respectable' racists, the New Right
 conservatives . . . The Capitalist class has already shown their willingness
 to use this conservative movement as a smoke screen for an attack on the Labor
 movement, Black struggle, and the entire working class."_ [**Anarchism and the
@@ -780,11 +781,12 @@ liberal economist James K. Galbraith:
 > _"What the economists did, in effect, was to reason backward, from the
 troublesome effect to a cause that would rationalise and justify it . . . [I]t
 is the work of the efficient market [they argued], and the fundamental
-legitimacy of the outcome is not supposed to be questioned.
+legitimacy of the outcome is not supposed to be questioned.  
+>  _
 
 >
 
-> "The **apologia** is a dreadful thing. It has distorted our understanding,
+> _"The **apologia** is a dreadful thing. It has distorted our understanding,
 twisted our perspective, and crabbed our politics. On the right, as one might
 expect, the winners on the expanded scale of wealth and incomes are given a
 reason for self-satisfaction and an excuse for gloating. Their gains are due
@@ -803,10 +805,10 @@ organisations have been swollen in recent years by undereducated and
 underemployed white youths frustrated by a declining industrial labour market
 and a noticeably eroding social status. [Ridgeway, **Op. Cit.**, p.186] Rather
 than drawing the logical Social-Darwinian conclusion -- that they, too, are
-"inferior" -- they have instead blamed blacks, Hispanics, Asians, and Jews for
-"unfairly" taking their jobs. Thus the neo-Nazi skinheads, for example, have
-been mostly recruited from disgruntled working-class whites below the age of
-30. This has provided leaders of right-wing extremist groups with a growing
+"inferior" \-- they have instead blamed blacks, Hispanics, Asians, and Jews
+for "unfairly" taking their jobs. Thus the neo-Nazi skinheads, for example,
+have been mostly recruited from disgruntled working-class whites below the age
+of 30. This has provided leaders of right-wing extremist groups with a growing
 base of potential storm troopers.
 
 Therefore, laissez-faire ideology helps create a social environment in which

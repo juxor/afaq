@@ -253,17 +253,18 @@ every sphere. It is obvious that this clear and specific stance has absolutely
 nothing to do with narrow nationalism of the 'separatist' variety which pits
 nation against nation and substitutes an artificial and harmful separation for
 the struggle to achieve a natural social union of toilers in one shared social
-communion.
+communion.  
+>  _
 
 >
 
-> "In our view, national aspirations of a natural, wholesome character
+> _"In our view, national aspirations of a natural, wholesome character
 (language, customs, culture, etc.) can achieve full and fruitful satisfaction
-only in the union of nationalities rather than in their antagonism . . .
+only in the union of nationalities rather than in their antagonism . . . _
 
 >
 
-> "The speedy construction of a new life on [libertarian] socialist
+> _"The speedy construction of a new life on [libertarian] socialist
 foundations will ineluctably lead to development of the culture peculiar to
 each nationality. Whenever we Makhnovist insurgents speak of independence of
 the Ukraine, we ground it in the social and economic plane of the toilers. We

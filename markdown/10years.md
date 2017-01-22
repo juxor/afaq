@@ -34,8 +34,6 @@ goals:
 > 1\. To present the case for anarchism, to convince people they should become
 anarchists.
 
->
-
 > 2\. To be a resource for existing anarchists, to use to bolster their
 activism and activities by presenting facts and arguments to allow them to
 defend anarchism against those opposed to it (Marxists, capitalists, etc.).

@@ -1,5 +1,3 @@
-![](flag2.gif)
-
 # Introduction
 
 _"Proletarians of the world, look into the depths of your own beings, seek out
@@ -164,12 +162,13 @@ Chuck Munson
 Pauline McCormack  
 Nestor McNab  
 Kevin Carson  
-Shawn Wilber
+Shawn Wilbur  
+Nicholas Evans
 
 and our comrades on the anarchy, oneunion and organise! mailing lists.
 
-**_"An Anarchist FAQ"_**, **Version 14.0**   
-Copyright (C) 1995-2010 The Anarchist FAQ Editorial Collective:  
+**_"An Anarchist FAQ"_**, **Version 1****5.0**  
+Copyright (C) 1995-2014 The Anarchist FAQ Editorial Collective:  
 Iain McKay, Gary Elkin, Dave Neal, Ed Boraas
 
 Permission is granted to copy, distribute and/or modify this document under

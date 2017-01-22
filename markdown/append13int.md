@@ -23,7 +23,7 @@ capitalist, minimal statist, at the turn the 19th century and, as such, it is
 hardly new.
 
 The "anarcho"-capitalist argument hinges on using the dictionary definition of
-"anarchism" and/or "anarchy" - they try to define anarchism as being
+"anarchism" and/or "anarchy" \- they try to define anarchism as being
 "opposition to government," and nothing else. However, dictionaries are hardly
 politically sophisticated and their definitions rarely reflect the wide range
 of ideas associated with political theories and their history. Thus the
@@ -116,7 +116,7 @@ A few more points before beginning. When debating with "libertarian" or
 "anarchist" capitalists it's necessary to remember that while they claim "real
 capitalism" does not exist (because all existing forms of capitalism are
 statist), they will claim that all the good things we have -- advanced medical
-technology, consumer choice of products, etc. \-- are nevertheless due to
+technology, consumer choice of products, etc. -- are nevertheless due to
 "capitalism." Yet if you point out any problems in modern life, these will be
 blamed on "statism." Since there has never been and never will be a capitalist
 system without some sort of state, it's hard to argue against this "logic."

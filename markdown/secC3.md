@@ -28,18 +28,19 @@ forced to increase indefinitely the yield of labour, production is determined
 just as much by the workers' individual and collective resistance to such
 increases. The extraction of 'use value form labour power' is not a technical
 operation; it is a process of bitter struggle in which half the time, so to
-speak, the capitalists turn out to be losers.
+speak, the capitalists turn out to be losers.  
+>  _
 
 >
 
-> "The same thing holds true for living standards, i.e., real wage levels.
+> _"The same thing holds true for living standards, i.e., real wage levels.
 From its beginnings, the working class has fought to reduce the length of the
 workday and to raise wage levels. It is this struggle that has determined how
-these levels have risen and fallen over the years . . .
+these levels have risen and fallen over the years . . . _
 
 >
 
-> "Neither the actual labour rendered during an hour of labour time nor the
+> _"Neither the actual labour rendered during an hour of labour time nor the
 wage received in exchange for this work can be determined by any kind of
 'objective' law, norm, or calculation . . . What we are saying does not mean
 that specifically economic or even 'objective' factors play no real in
@@ -198,7 +199,7 @@ argument that unions, struggling over wages and working conditions will harm
 workers in the "long run" has been dramatically refuted since the 1970s -- the
 decline of the labour movement in the USA has been marked by falling wages,
 not rising ones, for example. Despite of rising productivity, wealth has
-**not** "trickled down" -- rather it has flooded up (a situation only
+**not** "trickled down" \-- rather it has flooded up (a situation only
 surprising to those who believe economic textbooks or what politicians say).
 In fact, between 1947 and 1973, the median family income rose by 103.9% while
 productivity rose by 103.7% and so wages and productivity went hand-in-hand.
