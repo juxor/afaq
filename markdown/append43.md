@@ -67,7 +67,7 @@ own writings, my feeling is that Lenin and Trotsky knew what they were doing,
 it was conscious and understandable."_ [**Understanding Power**, p. 226]
 
 As we discussed in the appendix on ["What happened during the Russian
-Revolution?"](append41.html), Chomsky's feelings are more than supported by
+Revolution?"](append41.md), Chomsky's feelings are more than supported by
 the historical record. The elimination of meaningful working class freedom and
 self-management started from the start and was firmly in place before the
 start of the civil war at the end of May, 1918. The civil war simply
@@ -84,13 +84,13 @@ key issues of revolutionary politics -- whether Bolshevik politics had a
 decisive negative impact on the development of the Russian Revolution and, if
 so, there is an alternative to those politics. As regards the first issue, as
 we discussed in the appendix on ["How did Bolshevik ideology contribute to the
-failure of the Revolution?"](append44.html), anarchists argue that this was
+failure of the Revolution?"](append44.md), anarchists argue that this was
 the case. Bolshevik ideology itself played a key role in the degeneration of
 the revolution. And as regards the second one, anarchists can point to the
 example of the Makhnovists, which proves that alternative policies were
 possible and could be applied with radically different outcomes (see the
 appendix on ["Why does the Makhnovist movement show there is an alternative to
-Bolshevism?"](append46.html) for more on the Makhnovist movement).
+Bolshevism?"](append46.md) for more on the Makhnovist movement).
 
 This means that anarchists stress the interplay between the "objective
 factors" and the subjective one (i.e. party ideology). Faced with difficult
@@ -98,7 +98,7 @@ circumstances, people and parties react in different ways. If they did not
 then it would imply what they thought has no impact at all on their actions.
 It also means that the politics of the Bolsheviks played no role in their
 decisions. As we discussed in the appendix on ["What happened during the
-Russian Revolution?"](append41.html), this position simply cannot be
+Russian Revolution?"](append41.md), this position simply cannot be
 maintained. Leninist ideology itself played a key role in the rise of
 Stalinism. A conclusion Leninists reject. They, of course, try to distance
 themselves from Stalinism, correctly arguing that it was a brutal and
@@ -123,22 +123,22 @@ of democracy within the soviets.
 For anarchists such _"objective factors"_ do not (and must not) explain why
 the Russian Revolution failed. This is because, as we argue in the following
 sections, almost all revolutions will face the same, or similar, problems.
-Indeed, in sections [1](append43.html#app1) and [2](append43.html#app2) both
+Indeed, in sections [1](append43.md#app1) and [2](append43.md#app2) both
 anarchists like Kropotkin and Marxists like Lenin argued that this was the
-case. As we discussed in [section H.2.1](secH2.html#sech21), Leninists like to
+case. As we discussed in [section H.2.1](secH2.md#sech21), Leninists like to
 claim that they are _"realistic"_ (unlike the _"utopian"_ anarchists) and
 recognise civil war is inevitable in a revolution. As [section
-3](append43.html#app3) indicates, any defence of Bolshevism based on blaming
+3](append43.md#app3) indicates, any defence of Bolshevism based on blaming
 the impact of the civil war is both factually and logically flawed. As far as
-economic disruption goes, as we discuss in [section 4](append43.html#app4)
+economic disruption goes, as we discuss in [section 4](append43.md#app4)
 this explanation of Bolshevik authoritarianism is unconvincing as **every**
-revolution will face this problem. Then [section 5](append43.html#app5)
+revolution will face this problem. Then [section 5](append43.md#app5)
 analyses the common Leninist argument that the revolution failed because the
 Russian working class became _"atomised"_ or _"declassed."_ As that section
 indicates, the Russian working class was more than capable of collective
 action throughout the 1918 to 1921 period (and beyond). The problem was that
 it was directed **against** the Bolshevik party. Finally, [section
-6](append43.html#app6) indicates whether the Bolshevik leaders explained their
+6](append43.md#app6) indicates whether the Bolshevik leaders explained their
 actions in terms of the "objective factors" they faced.
 
 It should be stressed that we are discussing this factors individually simply
@@ -153,7 +153,7 @@ Revolution.
 Of course there is the slight possibility that the failure of Bolshevism can
 be explained **purely** in these terms. Perhaps a future revolution will be
 less destructive, less isolated, less resisted than the Russian (although, as
-we noted in the [section 2](append43.html#app2), leading Bolsheviks like
+we noted in the [section 2](append43.md#app2), leading Bolsheviks like
 Lenin, Trotsky and Bukharin doubted this). That **is** a possibility. However,
 should we embrace an ideology whose basic, underlying, argument is based on
 the hope that fate will be kinder to them this time? As Lenin argued against
@@ -178,7 +178,7 @@ argue that to blame "objective factors" on the failure of the Russian
 Revolution simply shows that believing in fairy-tales is sadly far too common
 on the "serious" Leninist "revolutionary" left. And as we discuss in the
 appendix on ["How did Bolshevik ideology contribute to the failure of the
-Revolution?"](append44.html), the impact of Bolshevik ideology on the failure
+Revolution?"](append44.md), the impact of Bolshevik ideology on the failure
 of the revolution was important and decisive. Even **if** the next revolution
 is less destructive, it cannot be argued that socialism will be the result if
 Bolshevik ideology is reapplied. And as Cornelius Castoriadis argues, _"this
@@ -213,7 +213,7 @@ it would be better placed to respond to even the terrible conditions facing
 the Russian Revolution.
 
 That is not all. As we argue in the appendix on ["How did Bolshevik ideology
-contribute to the failure of the Revolution?"](append44.html) we are of the
+contribute to the failure of the Revolution?"](append44.md) we are of the
 opinion that Bolshevism itself undermined the socialist potential of the
 revolution, irrespective of the actual circumstances involved (which, to some
 degree, will affect **any** revolution). For example, the Bolshevik preference
@@ -221,7 +221,7 @@ for centralisation and nationalisation would negatively affect a revolution
 conducted in even the best circumstances, as would the seizure of state power
 rather than its destruction. As is clear from the appendix on ["How did
 Bolshevik ideology contribute to the failure of the
-Revolution?"](append44.html), only the elimination of what makes Bolshevism
+Revolution?"](append44.md), only the elimination of what makes Bolshevism
 Bolshevik would ensure that a revolution would be truly libertarian. So
 anarchists stress that rather than be forced upon them by _"objective
 factors"_ many of these policies were, in fact, in line with pre-civil war
@@ -234,9 +234,9 @@ and overcome socialist tendencies."_ [**Deterring Democracy**, p. 361] That
 they **thought** their system of state capitalism was a form of "socialism" is
 irrelevant -- they systematically combated (real) socialist tendencies in
 favour of state capitalist ones and did so knowingly and deliberately (see
-sections [H.3.1](secH3.html#sech31) and [H.3.13](secH3.html#sech313) on the
+sections [H.3.1](secH3.md#sech31) and [H.3.13](secH3.md#sech313) on the
 differences between real socialism and Marxism in its Bolshevik mode and, of
-course, ["What happened during the Russian Revolution?"](append41.html) on
+course, ["What happened during the Russian Revolution?"](append41.md) on
 Bolshevik practice itself).
 
 So it is important to stress that even **if** the Russian Revolution had
@@ -281,11 +281,11 @@ That was not the case. Rather than objective factors undermining socialist
 policies, the facts of the matter are that the Bolsheviks pursued a statist
 and (state) capitalist policy from the **start.** As we discuss in the
 appendix on ["How did Bolshevik ideology contribute to the failure of the
-Revolution?"](append44.html) the likes of Lenin explicitly argued for these
+Revolution?"](append44.md) the likes of Lenin explicitly argued for these
 policies as essential for building socialism (or, at best, the preconditions
 of socialism) in Russia and Bolshevik practice flowed from these comments. As
 we discuss in more detail in the appendix on ["What happened during the
-Russian Revolution?"](append41.html), the Bolsheviks happily introduced
+Russian Revolution?"](append41.md), the Bolsheviks happily introduced
 authoritarian and state capitalist policies **from the start.** Many of the
 policies denounced as "Stalinist" by Leninists were being advocated and
 implemented by Lenin in the spring of 1918, i.e. before the start of the civil
@@ -390,7 +390,7 @@ _"objective factors"_ facing the Bolsheviks are to be expected in **any**
 revolution. Indeed, the likes of Bakunin and Kropotkin predicted that a
 revolution would face the very _"objective factors"_ which Leninists use to
 justify and rationalise Bolshevik actions (see [next
-section](append43.html#app2)). As such, to claim that anarchists ignore the
+section](append43.md#app2)). As such, to claim that anarchists ignore the
 _"objective factors"_ facing the Bolsheviks during the Russian Revolution is
 simply a joke. How can anarchists be considered to ignore what they consider
 to be the inevitable results of a revolution? Moreover, these Bolshevik
@@ -408,8 +408,8 @@ However, as the claim that anarchists ignore the _"objective circumstances"_
 facing the Bolsheviks is relatively common, it is important to refute it once
 and for all. This means that while have we discussed this issue in association
 with Leninist justifications for repressing the Kronstadt revolt (see [section
-12](append42.html#app12) of the appendix ["What was the Kronstadt
-Rebellion?"](append42.html)), it is worthwhile repeating them here. We are
+12](append42.md#app12) of the appendix ["What was the Kronstadt
+Rebellion?"](append42.md)), it is worthwhile repeating them here. We are
 sorry for the duplication.
 
 Anarchists take it for granted that, to quote Bakunin, revolutions _"are not
@@ -491,8 +491,8 @@ solution** for it is the reason we consider that a step in the direction of
 future, but as soon as it applies its crowbar to the first stones of the
 capitalist edifice."_ [**Act for Yourselves**, pp. 57-9]
 
-As noted in [section 12](append42.html#app12) of the appendix on ["What was
-the Kronstadt Uprising?"](append42.html), the perspective was at the core of
+As noted in [section 12](append42.md#app12) of the appendix on ["What was
+the Kronstadt Uprising?"](append42.md), the perspective was at the core of
 Kropotkin's politics. His classic work **Conquest of Bread** was based on this
 clear understanding of the nature of a social revolution and the objective
 problems it will face. As he put it, while a _"political revolution can be
@@ -530,7 +530,7 @@ difficulties. As such, it seems ironic for Leninists to attack anarchists for
 allegedly ignoring these factors. It is even more ironic as these very same
 Leninists are meant to know that **any** revolution will involve these exact
 same _"objective factors,"_ something that Lenin and other leading Bolsheviks
-acknowledged (see [next section](append43.html#app2)).
+acknowledged (see [next section](append43.md#app2)).
 
 Therefore, as noted, when anarchists like Emma Goldman and Alexander Berkman
 arrived in Russia they were aware of the problems it, like any revolution,
@@ -605,7 +605,7 @@ argue that civil war is inevitable then how can they blame the degeneration of
 the revolution on it? Simply put, if Bolshevism cannot handle the inevitable
 it should be avoided at all costs.
 
-Ironically, as indicated in the [next section](append43.html#app2), we can
+Ironically, as indicated in the [next section](append43.md#app2), we can
 find ample arguments to refute the Trotskyist case against the anarchist
 analysis in the works of leading Bolsheviks like Lenin, Trotsky aand Bukharin.
 Indeed, their arguments provide a striking confirmation of the anarchist
@@ -620,7 +620,7 @@ position is false. The first is theoretical. Simply put, the Leninist position
 is the crudest form of economic determinism. Ideas **do** matter and, as Marx
 himself stressed, can play a key in how a social process develops. As we
 discuss in the appendix on ["How did Bolshevik ideology contribute to the
-failure of the Revolution?"](append44.html), Marxist ideology played a key
+failure of the Revolution?"](append44.md), Marxist ideology played a key
 role in the degeneration of the revolution and in laying the groundwork for
 the rise of Stalinism.
 
@@ -651,7 +651,7 @@ needs and interests of the class as a whole.
 
 Then there is the empirical evidence against the Trotskyist explanation.
 
-As we indicate in [section 3](append43.html#app3), soviet democracy and
+As we indicate in [section 3](append43.md#app3), soviet democracy and
 workers' power in the workplace was **not** undermined by the civil war.
 Rather, the process had began before the civil war started and, equally
 significantly, continued after its end in November 1920. Moreover, the
@@ -671,7 +671,7 @@ And then there is the example of the Makhnovist movement. Operating in the
 same _"objective circumstances,"_ facing the same _"objective factors,"_ the
 Makhnovists did **not** implement the same policies as the Bolsheviks. As we
 discussed in the appendix on ["Why does the Makhnovist movement show there is
-an alternative to Bolshevism?"](append46.html), rather than undermine soviet,
+an alternative to Bolshevism?"](append46.md), rather than undermine soviet,
 soldier and workplace democracy and replace all with party dictatorship, the
 Makhnovists applied these as fully as they could. Now, if _"objective
 factors"_ explain the actions of the Bolsheviks, then why did the Makhnovists
@@ -705,7 +705,7 @@ Bolsheviks.
 
 ## 2 Can _"objective factors"_ really explain the failure of Bolshevism?
 
-As noted in the [previous section](append43.html#app1) Leninists tend to argue
+As noted in the [previous section](append43.md#app1) Leninists tend to argue
 that anarchists downplay (at best) or ignore (at worse) the _"objective
 factors"_ facing the Bolsheviks during the Russian Revolution. As noted in the
 same section, this argument is simple false. For anarchists have long expected
@@ -770,8 +770,8 @@ proletariat. The Bolshevik party achieved in the civil war the correct
 combination of military art and Marxist politics."_ [**Op. Cit.**] Which, of
 course, suggests that the prohibition of other parties had little impact on
 levels of soviet "democracy" allowed under the Bolsheviks (see [section
-6](append41.html#app6) of the appendix on ["What happened during the Russian
-Revolution?"](append41.html)for more on this).
+6](append41.md#app6) of the appendix on ["What happened during the Russian
+Revolution?"](append41.md)for more on this).
 
 This dismissal of the _"exceptional circumstances"_ argument did not originate
 with Trotsky. Lenin repeatedly stressed that any revolution would face civil
@@ -818,7 +818,7 @@ accustomed to living by the interchange of manufactured goods and you will
 understand that every civil war brings forth disasters."_ [**Op. Cit.**, vol.
 27, p. 463]
 
-As we discuss in [section 4](append43.html#app4), the economic state of
+As we discuss in [section 4](append43.md#app4), the economic state of
 Germany immediately after the end of the war suggests that Lenin had a point.
 Simply put, the German economy was in a serious state of devastation, a state
 equal to that of Russia during the equivalent period of its revolution. If
@@ -848,7 +848,7 @@ yourselves the condition of regions which for decades have been accustomed to
 living by interchange of manufactured goods and you will understand that every
 civil war brings fresh disasters."_ [**Op. Cit.**, p. 463] The similarities to
 Kropotkin's arguments made three decades previously are clear (see [section
-1](append43.html#app1) for details).
+1](append43.md#app1) for details).
 
 Indeed, he mocked those who would argue that revolution could occur with
 _"exceptional circumstances"_:
@@ -925,8 +925,8 @@ revolution!
 
 Nor was this perspective limited to Lenin. The inevitability of economic
 collapse being associated with a revolution was not lost on Trotsky either
-(see [section 12](append42.html#app12) of the appendix on ["What was the
-Kronstadt Rebellion?"](append42.html)). Nikolai Bukharin even wrote the
+(see [section 12](append42.md#app12) of the appendix on ["What was the
+Kronstadt Rebellion?"](append42.md)). Nikolai Bukharin even wrote the
 (infamous) **The Economics of the Transition Period** to make theoretical
 sense of (i.e. rationalise and justify) the party's changing policies and
 their social consequences since 1918 in terms of the inevitability of bad
@@ -1015,7 +1015,7 @@ and defeat even the best politics!
 As such, it seems to us extremely ironic that Leninists blame the civil war
 for the failure of the revolution as they continually raise the inevitability
 of civil war in a revolution to attack anarchism (see [section
-H.2.1](secH2.html#sech21) for an example). Did Lenin not explain in **State
+H.2.1](secH2.md#sech21) for an example). Did Lenin not explain in **State
 and Revolution** that his _"workers' state"_ was designed to defend the
 revolution and suppress capitalist resistance? If it cannot do its proclaimed
 task then, clearly, it is a flawed theory. Ultimately, if _"civil war"_ and
@@ -1048,7 +1048,7 @@ according to Lenin and Trotsky these factors were to be expected in **any**
 revolution -- civil war and invasion, economic collapse and so forth were not
 restricted to the Russian revolution. That is why they say they want a
 "dictatorship of the proletariat," to defend against counter-revolution (see
-[section H.3.8](secH3.html#sech38) on how, once in power, Lenin and Trotsky
+[section H.3.8](secH3.md#sech38) on how, once in power, Lenin and Trotsky
 revised this position). Now, if Bolshevism cannot handle what it says is
 inevitable, then it should be avoided. To use an analogy:
 
@@ -1083,7 +1083,7 @@ after a revolution. They maintain, correctly, that it is unlikely that the
 ruling class will disappear without a fight. Then they turn round and complain
 that because the ruling class did what the Marxists predicted, the Russian
 Revolution failed! And they (incorrectly) harp on about anarchists ignoring
-civil war (see [section H.2.1](secH2.html#sech21)).
+civil war (see [section H.2.1](secH2.md#sech21)).
 
 So, obviously, this line of defence is nonsense. If civil war is inevitable,
 then it cannot be used to justify the failure of the Bolshevism. Marxists
@@ -1113,23 +1113,23 @@ Bolsheviki."_ [**The Bolshevik Myth**, p. 331]
 If Berkman had been in Russia in 1918, he may have realised that the Bolshevik
 tyranny during the civil war (which climaxed, post civil war, with the attack
 on Kronstadt -- see the appendix on ["What was the Kronstadt
-Rebellion?"](append42.html) for more on the Kronstadt rebellion) was not at
+Rebellion?"](append42.md) for more on the Kronstadt rebellion) was not at
 odds with their pre-civil war activities to maintain their power. The simple
 fact is that Bolshevik authoritarianism was **not** caused by the pressures of
 the civil war, rather they started before then. All the civil war did was
 strengthen certain aspects of Bolshevik ideology and practice which had
 existed from the start (see the appendix on ["How did Bolshevik ideology
-contribute to the failure of the Revolution?"](append44.html)).
+contribute to the failure of the Revolution?"](append44.md)).
 
 While we discuss the Russian Revolution in more detail in the appendix on
-["What happened during the Russian Revolution?"](append41.html), it is useful
+["What happened during the Russian Revolution?"](append41.md), it is useful
 to summarise the Bolshevik attacks on working class power and autonomy before
 the civil war broke out (i.e. before the end of May 1918).
 
 The most important development during this period was the suppression of
 soviet democracy and basic freedoms. As we discuss in [section
-6](append41.html#app6) of the appendix on ["What happened during the Russian
-Revolution?"](append41.html), the Bolsheviks pursued a policy of
+6](append41.md#app6) of the appendix on ["What happened during the Russian
+Revolution?"](append41.md), the Bolsheviks pursued a policy of
 systematically undermining soviet democracy from the moment they seized power.
 The first act was the creation of a Bolshevik government over the soviets, so
 marginalising the very organs they claimed ruled in Russia. The process was
@@ -1241,7 +1241,7 @@ and the state bureaucracy.
 Needless to say, the Bolshevik undermining of the factory committee movement
 and, consequently, genuine worker's self-management of production in favour of
 state capitalism cannot be gone into great depth here (see the appendix on
-["What happened during the Russian Revolution?"](append41.html), for a fuller
+["What happened during the Russian Revolution?"](append41.md), for a fuller
 discussion). Suffice to say, the factory committees were deliberately
 submerged in the trade unions and state control replaced workers' control.
 This involved practising one-man management and, as Lenin put in at the start
@@ -1253,7 +1253,7 @@ was no new idea, rather he _"gave it **before** the Bolsheviks seized power."_
 
 It will be objected that Lenin advocated _"workers' control."_ This is true,
 but a _"workers' control"_ of a **very** limited nature. As we discuss in
-[section H.3.14](secH3.html#sech314), rather than seeing "workers' control" as
+[section H.3.14](secH3.md#sech314), rather than seeing "workers' control" as
 workers managing production directly, he always saw it in terms of workers'
 _"controlling"_ those who did and his views on this matter were **radically**
 different to those of the factory committees. This is not all, as Lenin always
@@ -1394,7 +1394,7 @@ was finally eliminated from both the party and society as a whole. Those
 opposition groups and parties which had been tolerated during the civil war
 were finally smashed. Popular revolts for reform, such as the Kronstadt
 rebellion and the strike wave which inspired it, were put down by force (see
-["What was the Kronstadt Rebellion?"](append42.html) on these events). No form
+["What was the Kronstadt Rebellion?"](append42.md) on these events). No form
 of opposition was tolerated, no freedom allowed. If civil war **was** the
 cause of Bolshevik authoritarianism, it seems strange that it got worse after
 it was finished.
@@ -1408,7 +1408,7 @@ working class democracy either happened **before** the Civil War started or
 **after** it had finished.
 
 As we discuss in ["How did Bolshevik ideology contribute to the failure of the
-Revolution?"](append44.html), the root causes for Bolshevik authoritarian
+Revolution?"](append44.md), the root causes for Bolshevik authoritarian
 post-October was Bolshevik ideology combined with state power. After all, how
 "democratic" is it to give all power to the Bolshevik party central committee?
 Surely socialism involves more than voting for a new government? Is it not
@@ -1423,7 +1423,7 @@ dictatorship over a state capitalist economy (and protesting workers and
 peasants!). The Makhnovists (an anarchist influenced partisan army) managed to
 defend the revolution and encourage soviet democracy, freedom of speech, and
 so on, while doing so (see the appendix ["Why does the Makhnovist movement
-show there is an alternative to Bolshevism?"](append46.html) discusses the
+show there is an alternative to Bolshevism?"](append46.md) discusses the
 Makhnovists in some detail). In fact, the Bolsheviks tried to **ban** their
 soviet congresses. Which, of course, does not really fit in with the
 Bolsheviks being forced to be anti-democratic due to the pressures of civil
@@ -1503,7 +1503,7 @@ Russian working class."_ [_"Towards a revolutionary socialist party,"_ pp.
 Anarchists are not convinced by these arguments. This is for two reasons.
 
 Firstly, we are aware that revolutions are disruptive no matter where they
-occur (see [section 1](append43.html#app1)) Moreover, Leninists are meant to
+occur (see [section 1](append43.md#app1)) Moreover, Leninists are meant to
 know this to. Simply put, there is a certain incredulous element to these
 arguments. After all, Lenin himself had argued that _"[e]very revolution . . .
 by its very nature implies a crisis, and a very deep crisis at that, both
@@ -1514,9 +1514,9 @@ was in itself a stupendous victory, one which saved the revolution's life.
 Undoubtedly, so thorough a recasting of all the organs of production is
 impossible without a substantial decline in output; undoubtedly, too, a
 proletariat cannot labour and fight at the same time."_ [**Op. Cit.**, p. 361]
-As we discussed in detail in [section 2](append43.html#app2), this was a
+As we discussed in detail in [section 2](append43.md#app2), this was a
 common Bolshevik position at the time (which, in turn, belatedly echoed
-anarchist arguments -- see [section 1](append43.html#app1)). And if we look at
+anarchist arguments -- see [section 1](append43.md#app1)). And if we look at
 other revolutions, we can say that this is the case.
 
 Secondly, and more importantly, every revolution or near revolutionary
@@ -1528,7 +1528,7 @@ authoritarianism is blamed on the state of the economy, it is not hard to
 conclude that **every** Bolshevik-style revolution will suffer the same fate
 as the Russian one.
 
-As we noted in [section 1](append43.html#app1), Kropotkin had argued from the
+As we noted in [section 1](append43.md#app1), Kropotkin had argued from the
 1880s that a revolution would be accompanied by economic disruption. Looking
 at subsequent revolutions, he has been vindicated time and time again. Every
 revolution has been marked by economic disruption and falling production. This
@@ -1634,7 +1634,7 @@ revolution would also have faced more disruption than actually faced post 1919
 in Germany). This means, given that the economic collapse in both 1918/19 and
 1923 was as bad as that facing Russia in 1918 and that the Bolsheviks had
 started to undermine soviet and military democracy along with workers' control
-by spring and summer of that year (see [section 5](append43.html#app5)), to
+by spring and summer of that year (see [section 5](append43.md#app5)), to
 blame Bolshevik actions on economic collapse would mean that any German
 revolution would have been subject to the same authoritarianism **if** the
 roots of Bolshevik authoritarianism were forced by economic events rather than
@@ -1657,7 +1657,7 @@ help a successful German revolution would have been. As such, his belief that
 a successful German Revolution would have mitigated Bolshevik authoritarianism
 seems exactly that, a belief without any real evidence to support it (and let
 us not forget, Bolshevik authoritarianism had started before the civil war
-broke out -- see [section 3](append43.html#app3)). Moreover, **if** the pro-
+broke out -- see [section 3](append43.md#app3)). Moreover, **if** the pro-
 Bolshevik argument Rees is expounding **is** correct, then the German
 Revolution would have been subject to the same authoritarianism as befell the
 Bolshevik one simply because it was facing a similar economic crisis. Luckily,
@@ -1837,7 +1837,7 @@ Anarchists do not find these arguments particularly convincing. This is for
 two reasons. Firstly, it seems incredulous to blame the civil war for the
 _"substitution"_ of Bolshevik power for working class power as party power had
 been Lenin's stated aim in 1917 and October saw the seizure of power by the
-Bolsheviks, **not** the soviets. As we saw in [section 3](append43.html#app3),
+Bolsheviks, **not** the soviets. As we saw in [section 3](append43.md#app3),
 the Bolsheviks started to gerrymander and disband soviets to remain in power
 **before** the civil war started. As such, to blame the civil war and the
 problems it caused for the usurpation of power by the Bolsheviks seems
@@ -1978,14 +1978,14 @@ working class, by its own efforts, can only reach a reformist level of
 political conscious (at best), then any deviation in working class support for
 the party obviously represents a drop in class consciousness or a
 _"declassing"_ of the proletariat (see section H.5.1 -- _["Why are vanguard
-parties anti-socialist?"](secH5.html#sech51)_). Thus working class protest
+parties anti-socialist?"](secH5.md#sech51)_). Thus working class protest
 against the party can be dismissed as evidence of _"declassing"_ which has to
 be suppressed rather than what it really is, namely evidence of working class
 autonomy and collective struggle for what it considers **its** interests to be
 against a new master class. In fact, the _"declassing"_ argument is related to
 the vanguardist position which, in turn, justifies the dictatorship of the
 party **over** the class (see section H.5.3 -- _["Why does vanguardism imply
-party power?"](secH5.html#sech53)_).
+party power?"](secH5.md#sech53)_).
 
 So the _"declassing"_ argument is not some neutral statement of fact. It was
 developed as a weapon on the class struggle, to justify Bolshevik repression
@@ -2081,8 +2081,8 @@ Kronstadt revolt in early 1921. After all, the strikes (and subsequent
 Bolshevik repression) inspired the sailors to revolt in solidarity with them.
 Faced with such events, the scale of the protest and Bolshevik repression is
 understated and the subject quickly changed. As we noted in [section
-10](append42.html#app10) of the appendix on ["What was the Kronstadt
-Rebellion?"](append42.html), John Rees states that Kronstadt was _"preceded by
+10](append42.md#app10) of the appendix on ["What was the Kronstadt
+Rebellion?"](append42.md), John Rees states that Kronstadt was _"preceded by
 a wave of serious but quickly resolved strikes."_ [Rees, **Op. Cit.**, p. 61]
 Needless to say, he does not mention that the strikes were _"resolved"_ by
 _"serious"_ force. Nor does he explain how _"an atomised, individualised
@@ -2253,8 +2253,8 @@ points throughout Petrograd."_ [**Op. Cit.**, p. 45]
 Needless to say, _"the Petrograd authorities drew on the dubious mandate
 provided by the stacked soviet elections to justify banning the Extraordinary
 Assembly."_ [**Op. Cit.**, p. 42] While the Bolsheviks had won around 50% of
-workplace votes, as we note in [section 6](append41.html#app6) of the appendix
-on ["What happened during the Russian Revolution?"](append41.html) they had
+workplace votes, as we note in [section 6](append41.md#app6) of the appendix
+on ["What happened during the Russian Revolution?"](append41.md) they had
 gerrymandered the soviet making the election results irrelevant. The fact the
 civil war had started undoubtedly aided the Bolsheviks during this election
 and the fact that the Mensheviks and SRs had campaigned on a platform to win
@@ -2274,8 +2274,8 @@ opposition press and manipulation of elections to terror even against workers
 imminent world revolution."_ [**Op. Cit.**, pp. 43-4]
 
 Similar events happened in other cities. As we discuss in [section
-6](append41.html#app6) of the appendix on ["What happened during the Russian
-Revolution?"](append41.html), the Bolsheviks had disbanded soviets elected
+6](append41.md#app6) of the appendix on ["What happened during the Russian
+Revolution?"](append41.md), the Bolsheviks had disbanded soviets elected
 with non-Bolshevik majorities all across Russia and suppressed the resulting
 working class protest. In Moscow, workers also organised a _"Conference"_
 movement and _"[r]esentment against the Bolsheviks was expressed through
@@ -2502,8 +2502,8 @@ In response to the general strike the Bolsheviks replied with a _"military
 clamp-down, mass arrests and other coercive measures, such as the closure of
 enterprises, the purging of the workforce and stopping of rations which
 accompanied them."_ As we discuss in ["What was the Kronstadt
-Rebellion?"](append42.html), these strikes produced the Kronstadt revolt (and,
-as noted in [section 10](append42.html#app10) of that appendix, the Bolshevik
+Rebellion?"](append42.md), these strikes produced the Kronstadt revolt (and,
+as noted in [section 10](append42.md#app10) of that appendix, the Bolshevik
 repression ensured the Petrograd workers did not act with the sailors). [Aves,
 **Op. Cit.**, p. 113, p. 120]
 
@@ -2628,7 +2628,7 @@ communists,"_ although there is little evidence that the strikers actually
 raised that _"infamous"_ slogan. [quoted by Aves, **Op. Cit.**, p. 123] It
 should also be noted that Bolshevik orthodoxy at the time stressed the
 necessity of Party dictatorship **over** the workers (see [section
-H.1.2](secH1.html#sech12) for details).
+H.1.2](secH1.md#sech12) for details).
 
 Nor can it be said that this struggle can be blamed on _"declassed"_ elements
 within the working class itself. In her study of this question, Diane Koenker
@@ -2710,8 +2710,8 @@ action, the nature of that action was suspect. This arguments rests on the
 premise that the _"advanced"_ workers (i.e. party members) left the workplace
 for the front or for government posts, leaving the _"backward"_ workers
 behind. This argument is often used, particularly in regard to the Kronstadt
-revolt of 1921 (see [section 8](append42.html#app8) of the appendix on ["What
-was the Kronstadt Rebellion?"](append42.html)).
+revolt of 1921 (see [section 8](append42.md#app8) of the appendix on ["What
+was the Kronstadt Rebellion?"](append42.md)).
 
 Of course, this argument raises more problems that its solves. In **any**
 revolution the _"most politically consciousness"_ tend to volunteer to go to
@@ -2733,8 +2733,8 @@ argued that the _"success"_ of a revolution is _"possible"_ when _"this
 minority finds more or less support, or at least friendly neutrality, on the
 part of the majority."_ So what happens if the majority expresses opposition
 to the party? Unfortunately Trotsky does not raise this question, but he does
-answer it indirectly. As we discuss in [section 15](append42.html#app15) of
-the appendix on ["What was the Kronstadt Rebellion?"](append42.html%22),
+answer it indirectly. As we discuss in [section 15](append42.md#app15) of
+the appendix on ["What was the Kronstadt Rebellion?"](append42.md%22),
 Trotsky argues that _"to free the soviets from the leadership [sic!] of the
 Bolsheviks would have meant within a short time to demolish the soviets
 themselves. The experience of the Russian soviets during the period of
@@ -2788,7 +2788,7 @@ from the votes of a mass of fools?"_ [**Anarchy**, p. 53]
 
 Given this, is it surprising that the Bolsheviks revised the Marxist theory of
 the state to justify elite rule? As discussed in [section
-H.3.8](secH3.html#sech38), once in power Lenin and Trotsky stressed that the
+H.3.8](secH3.md#sech38), once in power Lenin and Trotsky stressed that the
 "workers' state" had to be independent of the working class in order to
 overcome the _"wavering"_ and _"vacillation of the masses themselves."_ Or, to
 quote Serge, the _"party of the proletariat must know, at hours of decision,
@@ -2886,11 +2886,11 @@ fact, one of **results** of them.
 In a word, no. At the time of the revolution and for some period afterwards,
 the idea that _"objective factors"_ were responsible for their policies was
 one which few, if any, Bolshevik leaders expressed. As we discussed in
-[section 2](append43.html#app2), Bolsheviks like Lenin, Trotsky and Bukharin
+[section 2](append43.md#app2), Bolsheviks like Lenin, Trotsky and Bukharin
 argued that **any** revolution would face civil war and economic crisis. Lenin
 **did** talk about the _"declassing"_ of the proletariat from 1920 onwards,
 but that did not seem to affect the proletarian and socialist character of his
-regime (as we noted in [section 5](append43.html#app5), Lenin's argument was
+regime (as we noted in [section 5](append43.md#app5), Lenin's argument was
 developed in the context of **increasing** working class collective action,
 **not** its absence).
 
@@ -3040,7 +3040,7 @@ Then, of course, there is the attitude of the Bolshevik leaders themselves to
 these so-called _"shouts of command in the midst of battle."_ Rather than
 dismiss them as irrelevant, they continued to subscribe to them years later.
 For example, Trotsky was still in favour of party dictatorship in the late
-1930s (see [section H.1.2](secH1.html#sech12)). Looking at his justly infamous
+1930s (see [section H.1.2](secH1.md#sech12)). Looking at his justly infamous
 **Terrorism and Communism**, we discover Trotsky in the 1930s reiterating his
 support for his arguments of 1920. His preface to the 1936 French edition sees
 him state that it was _"devoted to a clarification of the methods of the
@@ -3063,8 +3063,8 @@ xxxix]
 Rather than distance himself from the authoritarian and state capitalist
 policies modern day Leninists claim were thrust upon an unwilling Bolshevik
 party by _"objective factors,"_ Trotsky defends them! Moreover, as we noted in
-[section 12](append42.html#app12) of the appendix on ["What was the Kronstadt
-Rebellion?"](append42.html), Trotsky himself argues that these _"objective
+[section 12](append42.md#app12) of the appendix on ["What was the Kronstadt
+Rebellion?"](append42.md), Trotsky himself argues that these _"objective
 factors"_ would face **every** revolution. As it is, he argues that it was
 only the _"slow development of the revolution in the West"_ which stopped _"a
 direct passage from military Communism to a Socialistic system of
@@ -3119,7 +3119,7 @@ the statement rejects it: _"The dictatorship of the working class finds its
 expression in the dictatorship of the party."_ [_"To the Workers of the USSR"_
 in G. Zinoviev, **History of the Bolshevik Party**, p. 213, p. 214] It should
 be noted that Trotsky had made identical comments before and immediately after
-the civil war -- as well as long after (see [section H.3.8](secH3.html#sech38)
+the civil war -- as well as long after (see [section H.3.8](secH3.md#sech38)
 for details).
 
 So, as with all the leading Bolsheviks, he considered the party dictatorship
@@ -3178,8 +3178,8 @@ relabelled _"party democracy"_ as _"workers' democracy."_ Little wonder in
 _"this programme of democracy within the party [was] called 'Workers'
 Democracy' by Lenin"_ and that _"Trotsky merely revived this original plea."_
 [**Since Lenin Died**, p. 35] Trotsky held this position throughout the 1920s
-and 1930s. As we noted in [section 13](append42.html#app13) of the appendix on
-["What was the Kronstadt Rebellion?"](append42.html), the 1927 **Platform of
+and 1930s. As we noted in [section 13](append42.md#app13) of the appendix on
+["What was the Kronstadt Rebellion?"](append42.md), the 1927 **Platform of
 the Opposition** restated its belief in party dictatorship and argued that
 Stalin was undermining it in favour of rule by the bureaucracy. Ironically,
 Trotskyists in soviet prisons in the early 1930s _"continued to consider that
@@ -3213,8 +3213,7 @@ caused the failure of the revolution was not used until the late 1920s and
 even then not used to explain the party dictatorship but rather the usurpation
 of **its** power by the bureaucracy.
 
-[‹ What was the Kronstadt Rebellion?](/afaq/append42.html "Go to previous
-page" ) [up](/afaq/append4.html "Go to parent page" ) [How did Bolshevik
-ideology contribute to the failure of the Revolution? ›](/afaq/append44.html
-"Go to next page" )
+[‹ What was the Kronstadt Rebellion?](append42.md "Go to previous page" )
+[up](append4.md "Go to parent page" ) [How did Bolshevik ideology contribute
+to the failure of the Revolution? ›](append44.md "Go to next page" )
 

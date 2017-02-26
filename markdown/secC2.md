@@ -15,7 +15,7 @@ Communism**, p. 52]
 
 At the root this criticism is based, ironically enough, on the **capitalist**
 defence of private property as the product of labour. As noted in [section
-B.4.2](secB4.html#secb42), Locke defended private property in terms of labour
+B.4.2](secB4.md#secb42), Locke defended private property in terms of labour
 yet allowed that labour to be sold to others. This allowed the buyers of
 labour (capitalists and landlords) to appropriate the product of other
 people's labour (wage workers and tenants) and so, in the words of dissident
@@ -58,7 +58,7 @@ collectively) and, consequently, non-labour income is exploitation (it should
 be stressed that as both schemes are voluntary, there is no real contradiction
 between them). Anarchists tend to call non-labour income "surplus-value" or
 "usury" and these terms are used to group together profits, rent and interest
-(see [section C.2.1](secC2.html#secc21) for details).
+(see [section C.2.1](secC2.md#secc21) for details).
 
 That this critique is a problem for capitalism can be seen from the many
 varied and wonderful defences created by economists to justify non-labour
@@ -156,7 +156,7 @@ left, in return for the pains I shall take to command you.'"_ [**The Social
 Contract and Discourses**, p. 162]
 
 This is the analysis of exploitation we present in more detail in [section
-C.2.2](secC2.html#secc22). To summarise it, labour faces social inequality
+C.2.2](secC2.md#secc22). To summarise it, labour faces social inequality
 when it passes from the market to production. In the workplace, capitalists
 exercise social power over how labour is used and this allows them to produce
 more value from the productive efforts of workers than they pay for in wages.
@@ -176,7 +176,7 @@ same -- the hierarchical and class nature of capitalist society.
 Before discussing how surplus-value exists and the flaws in capitalist
 defences of it, we need to be specific about what we mean by the term
 _**"surplus value."**_ To do this we must revisit the difference between
-possession and private property we discussed in [section B.3](secB3.html). For
+possession and private property we discussed in [section B.3](secB3.md). For
 anarchists, private property (or capital) is _"the power to produce without
 labour."_ [Proudhon, **What is Property?**, p. 161] As such, surplus value is
 created when the owners of property let others use them and receive an income
@@ -286,7 +286,7 @@ case is complicated by the fact that there is a legitimate need for co-
 ordination between various aspects of complex production processes -- a need
 that would remain under libertarian socialism and would be filled by elected
 and recallable (and in some cases rotating) managers (see [section
-I.3](secI3.html)). But under capitalism, managers become parasitic in
+I.3](secI3.md)). But under capitalism, managers become parasitic in
 proportion to their proximity to the top of the pyramid. In fact, the further
 the distance from the production process, the higher the salary; whereas the
 closer the distance, the more likely that a "manager" is a worker with a
@@ -322,7 +322,7 @@ the amount of goods in the economy would not increase, growth would not exist
 and all that would happen is that the distribution of goods would change,
 depending on the transactions made. Such a world would be one without
 production and, consequently, not realistic. Unsurprisingly, as we noted in
-[section C.1](secC1.html), this is the world of neoclassical economics. This
+[section C.1](secC1.md), this is the world of neoclassical economics. This
 shows the weakness of attempts to explain the source of profits in terms of
 the market rather than production. While the market can explain how, perhaps,
 a specific set of goods and surplus is distributed, it cannot explain how a
@@ -331,7 +331,7 @@ created we need to look at the process of value creation. For this, it is
 necessary to look at production to see if there is something which produces
 more than it gets paid for. Anarchists, like other socialists, argue that this
 is labour and, consequently, that capitalism is an exploitative system. We
-discuss why in the [next section](secC2.html#secc22).
+discuss why in the [next section](secC2.md#secc22).
 
 Obviously, pro-capitalist economics argues against this theory of how a
 surplus arises and the conclusion that capitalism is exploitative. We will
@@ -360,7 +360,7 @@ scarce means are organised to yield outputs, the whole emphasis is on
 exchanges of ready made goods).
 
 Nor is this distribution somehow fixed. As we discuss in [section
-C.3](secC3.html), how the amount of value produced by workers is divided
+C.3](secC3.md), how the amount of value produced by workers is divided
 between wages and surplus value is source of much conflict and struggle, the
 outcome of which depends on the balance of power between and within classes.
 The same can be said of surplus value. This is divided between profits,
@@ -661,7 +661,7 @@ enrich capitalists and another to increase capital, which in turn is used to
 increase profits, in an endless cycle (a cycle, however, which is not a steady
 increase but is subject to periodic disruption by recessions or depressions -
 "The business cycle." The basic causes for such crises will be discussed
-later, in sections [C.7](secC7.html) and [C.8](secC8.html)).
+later, in sections [C.7](secC7.md) and [C.8](secC8.md)).
 
 It should be noted that few economists deny that the "value added" by workers
 in production must exceed the wages paid. It has to, if a profit is to be
@@ -765,7 +765,7 @@ any monopoly power will enable a factor owner to receive more than it
 contributes, so exploiting the others.
 
 While this is impressive, the problems are obvious. As we discuss in [section
-C.2.5](secC2.html#secc25), this model does not (indeed, cannot) describe any
+C.2.5](secC2.md#secc25), this model does not (indeed, cannot) describe any
 actual real economy. However, there is a more fundamental issue than mere
 practicality or realism, namely that it confuses a **moral** principle (that
 factors should receive in accordance with their productive contributions) with
@@ -942,7 +942,7 @@ considerable portion of the value produced by labour, through taxes, and hence
 is actually parasitic. Needless to say, rent can also be considered as
 "profit", being based purely on "granting permission" and so not a productive
 activity. The same can be said of interest, although the arguments are
-somewhat different (see [section C.2.6](secC2.html#secc26)).
+somewhat different (see [section C.2.6](secC2.md#secc26)).
 
 So, even if we assume that capital and land **are** productive, it does not
 follow that owning those resources entitles the owner to an income. However,
@@ -953,7 +953,7 @@ of course, but these only become available once labour is used to pick the
 fruit, reap the corn or dig the coal). As such, profit is not the reward for
 the productivity of capital. Rather **labour** produces the marginal
 productivity of capital. This is discussed in the [next
-section](secC2.html#secc24).
+section](secC2.md#secc24).
 
 ## C.2.4 Is profit the reward for the productivity of capital?
 
@@ -976,7 +976,7 @@ are synonymous terms."_ [**System of Economical Contradictions**, p. 290]
 
 Sadly, since Proudhon's time, the metaphor has become regained its hold,
 thanks in part to neo-classical economics and the "marginal productivity"
-theory. We explained this theory in the [last section](secC2.html#secc23) as
+theory. We explained this theory in the [last section](secC2.md#secc23) as
 part of our discussion on why, even if we assume that land and capital **are**
 productive this does not, in itself, justify capitalist profit. Rather,
 profits accrue to the capitalist simply because he or she gave their
@@ -1005,10 +1005,10 @@ marginal productivity indicates what their contribution to a finished product
 is and so their income. Thus wages represent the marginal productivity of
 labour, profit the marginal productivity of capital and rent the marginal
 productivity of land. As we have used land and labour in the [previous
-section](secC2.html#secc23), we will concentrate on land and "capital" here.
+section](secC2.md#secc23), we will concentrate on land and "capital" here.
 We must note, however, that marginal productivity theory has immense
 difficulties with capital and has been proven to be internally incoherent on
-this matter (see [next section](secC2.html#secc25)). However, as mainstream
+this matter (see [next section](secC2.md#secc25)). However, as mainstream
 economics ignores this, so will we for the time being.
 
 So what of the argument that profits represent the contribution of capital?
@@ -1096,7 +1096,7 @@ capital (or land). Subtracting labour while keeping capital constant simply
 results in unused equipment and unused equipment, by definition, produces
 nothing. What the "contribution" of capital is dependent, therefore, on the
 economic power the owning class has in a given market situation (as we discuss
-in [section C.3](secC3.html)). As William Lazonick notes, the neo-classical
+in [section C.3](secC3.md)). As William Lazonick notes, the neo-classical
 theory of marginal productivity has two key problems which flow from its
 flawed metaphor that capital is "productive":
 
@@ -1182,7 +1182,7 @@ the owners of capital deserve a reward? Is this difference not the
 "contribution" of capital? Anarchists are not convinced. Ultimately, this
 argument boils down to the notion that giving permission to use something is a
 productive act, a perspective we rejected in the [last
-section](secC2.html#secc23). In addition, providing capital is unlike normal
+section](secC2.md#secc23). In addition, providing capital is unlike normal
 commodity production. This is because capitalists, unlike workers, get paid
 multiple times for one piece of work (which, in all likelihood, they paid
 others to do) and **keep** the result of that labour. As Proudhon argued:
@@ -1207,7 +1207,7 @@ in return for a wage which allows them to survive in order to sell their time
 and labour (i.e. liberty) again. Meanwhile, the masters have accumulated more
 capital and their the social and economic power and, consequently, their
 ability to extract surplus value goes up at a higher rate than the wages they
-have to pay (as we discuss in [section C.7](secC7.html), this process is not
+have to pay (as we discuss in [section C.7](secC7.md), this process is not
 without problems and regularly causes economic crisis to break out).
 
 Without labour nothing would have been produced and so, in terms of justice,
@@ -1282,7 +1282,7 @@ workers are exploited by their boss. So even if we do ignore reality for the
 moment, this defence of profits does **not** prove what it seeks to -- it
 shows that labour **is** exploited under capitalism.
 
-However, as we discuss in the [next section](secC5.html), this whole
+However, as we discuss in the [next section](secC5.md), this whole
 discussion is somewhat beside the point. This is because marginal productivity
 theory has been conclusively proven to be flawed by dissident economics and
 has been acknowledged as such by leading neo-classical economists.
@@ -1384,7 +1384,7 @@ there remains a right of collective property"_ which the capitalist _"enjoy[s]
 unjustly."_ [**What is Property?**, p. 127 and p. 130]
 
 As usual, therefore, we must distinguish between the ideology and reality of
-capitalism. As we indicated in [section C.1](secC1.html), the model of perfect
+capitalism. As we indicated in [section C.1](secC1.md), the model of perfect
 competition has no relationship with the real world. Unsurprisingly, marginal
 productivity theory is likewise unrelated to reality. This means that the
 assumptions required to make "marginal productivity" theory work are so unreal
@@ -1677,7 +1677,7 @@ money for current needs, one can more easily "discount" the future (for
 example, workers will value the future product of their labour less than their
 current wages simply because without those wages there will be no future). We
 will discuss this issue in more detail later and will not do so here (see
-[section C.2.7](secC2.html#secc27)).
+[section C.2.7](secC2.md#secc27)).
 
 The second thing to ask is why should the supply price of waiting be assumed
 to be positive? If the interest rate simply reflects the subjective
@@ -1761,7 +1761,7 @@ argue that banks should have 100% reserves (i.e. they loan out only what they
 have in savings, backed by gold). This implicitly admits that the interest
 rate does not reflect "time preference" but rather the activities (such as
 credit creation) of banks (not to mention other companies who extend business
-credit to consumers). As we discuss in [section C.8](secC8.html), this is not
+credit to consumers). As we discuss in [section C.8](secC8.md), this is not
 due to state meddling with the money supply or the rate of interest but rather
 the way capitalism works.
 
@@ -1772,7 +1772,7 @@ services, so distorting any interest rates set even further from any abstract
 have a significant effect on the interest rate. Someone in the same
 circumstances with the same "time preference" will get radically different
 interest rates depending on the "degree of monopoly" of the banking sector
-(see [section C.5](secC5.html) for "degree of monopoly"). An economy with a
+(see [section C.5](secC5.md) for "degree of monopoly"). An economy with a
 multitude of small banks, implying low barriers of entry, will have different
 interest rates than one with a few big firms implying high barriers (if banks
 are forced to have 100% gold reserves, as desired by many "free market"
@@ -1882,7 +1882,7 @@ be outweighed by rising wages and profits. During a crisis, falling rates will
 not counteract the general economic despair. Keynes aimed to save capitalism
 from itself and urged state intervention to counteract the problems associated
 with free market capitalism. As we discuss in [section
-C.8.1](secC8.html#secc81), this ultimately failed partly due to the mainstream
+C.8.1](secC8.md#secc81), this ultimately failed partly due to the mainstream
 economics gutting Keynes' work of key concepts which were incompatible with
 it, partly due to Keynes' own incomplete escape from neoclassical economics,
 partly due the unwillingness of rentiers to agree to their own euthanasia but
@@ -2058,7 +2058,7 @@ Property**, p. 171]
 
 Another defence of surplus value by capitalist economics is also based on
 time. This argument is related to the "time preference" one we have discussed
-in the [last section](secC6.html) and is, likewise, rooted in the idea that
+in the [last section](secC6.md) and is, likewise, rooted in the idea that
 money now is different than money later and, as a consequence, surplus value
 represents (in effect) an exchange of present goods for future ones. This
 argument has two main forms, depending on whether it is interest or profits
@@ -2119,7 +2119,7 @@ wider you start to see this argument start to fall apart. Why is it that the
 wealthy are willing to save and provide funds while it is the working class
 who do not save and get into debt? Surely a person's "time preference" is
 dependent on their socio-economic position? As we argued in the [last
-section](secC2.html#secc26), this means that any subjective evaluation of the
+section](secC2.md#secc26), this means that any subjective evaluation of the
 present and future is dependent on, not independent of, the structure of
 market prices and income distribution. It varies with the income of individual
 and their class position, since the latter will condition the degree or
@@ -2286,7 +2286,7 @@ without ever exhausting that capital from which it arises, and therefore
 without any necessary limit to its continuance. It is, if one may use such an
 expression in mundane matters, capable of everlasting life."_ [Böhm-Bawerk,
 **Op. Cit.**, p. 1] Little wonder we argued in [section
-C.2.3](secC2.html#secc23) that simply owning property does not justify non-
+C.2.3](secC2.md#secc23) that simply owning property does not justify non-
 labour income.
 
 In other words, due to **one** decision not to do anything (i.e. **not** to
@@ -2298,7 +2298,7 @@ abstention. This is hardly a just arrangement. As David Schweickart has
 pointed out, _"Capitalism does reward some individuals perpetually. This, if
 it is to be justified by the canon of contribution, one must defend the claim
 that some contributions are indeed eternal."_ [**Against Capitalism**, p. 17]
-As we noted in [section C.1.1](secC1.html#secc11), current and future
+As we noted in [section C.1.1](secC1.md#secc11), current and future
 generations should not be dominated by the actions of the long dead.
 
 The "waiting" theory, of course, simply seeks to justify interest rather than
@@ -2392,7 +2392,7 @@ goods to future ones. Capitalists pay workers wages, allowing them to consumer
 now rather than later. This is the providing of time and this is rewarded by
 profits. This principle was first stated clearly by Eugen von Böhm-Bawerk and
 has been taken as the basis of the "Austrian" school of capitalist economics
-(see [section C.1.6](secC1.html#secc16)). After rejecting past theories of
+(see [section C.1.6](secC1.md#secc16)). After rejecting past theories of
 interest (including, as noted above, "abstinence" theories, which he concluded
 the socialists were right to mock), Böhm-Bawerk argued that profits could only
 by explained by means of time preference:
@@ -2454,7 +2454,7 @@ called 'intermediate products.'"_ [**Op. Cit.**, p. 330 and p. 83]
 
 Böhm-Bawerk, ironically, simply repeats (although in different words) **and
 agrees** with the socialist critique of capitalism which, as we discussed in
-[section C.2.2](secC2.html#secc22), is also rooted in the class dependence of
+[section C.2.2](secC2.md#secc22), is also rooted in the class dependence of
 workers to capitalists (Bakunin, for example, argued that the capitalists were
 _"profiting by the economic dependence of the worker"_ in order to exploit
 them by _"turn[ing] the worker into a subordinate."_ [**The Political
@@ -2649,8 +2649,8 @@ innovation as this is rooted in the actual production process.
 Innovation occurs in order to expand profits and so survive competition from
 other companies. While profits can be redistributed in circulation (for
 example by oligopolistic competition or inflation) this can only occur at the
-expense of other people or capitals (see sections [C.5](secC5.html) and
-[C.7](secC7.html)). Innovation, however, allows the generation of profits
+expense of other people or capitals (see sections [C.5](secC5.md) and
+[C.7](secC7.md)). Innovation, however, allows the generation of profits
 directly from the new or increased productivity (i.e. exploitation) of labour
 it allows. This is because it is in production that commodities, and so
 profits, are created and innovation results in new products and/or new
@@ -2772,7 +2772,7 @@ that state intervention (say, anti-monopoly laws) can only harm consumers as
 it tends to discourage entrepreneurial activity yet ignore the restrictions to
 entrepreneurship imposed by inequality, the hierarchical structure of the
 capitalist workplace and negative effects both have on individuals and their
-development (as discussed in [section B.1.1](secB1.html#secb11)).
+development (as discussed in [section B.1.1](secB1.md#secb11)).
 
 This, we must stress, is the key problem with the idea that innovation is the
 root of surplus value. It focuses attention to the top of the capitalist
@@ -2818,7 +2818,7 @@ unlike the machines on which they labour.
 The ironic thing about this argument is that if it were true, then the economy
 would grind to a halt (we discuss this more fully in our critique of Engels's
 diatribe against anarchism _"On Authority"_ in [section
-H.4.4](secH4.html#sech44)). It exposes a distinct contradiction within
+H.4.4](secH4.md#sech44)). It exposes a distinct contradiction within
 capitalism. While the advocates of entrepreneurialism assert that the
 entrepreneur is the only real producer of wealth in society, the fact is that
 the entrepreneurialism of the workforce industry is required to implement the
@@ -3020,11 +3020,11 @@ Therefore, far from being a threat to innovation, workers' self-management
 would increase it and, more importantly, direct it towards improving the
 quality of life for all as opposed to increasing the profits of the few (this
 aspect an anarchist society will be discussed in more detail in [section
-I](secIcon.html)). This should be unsurprising, as vesting a minority with
+I](secIcon.md)). This should be unsurprising, as vesting a minority with
 managerial authority and deciding that the others should be cogs results in a
 massive loss of social initiative and drive. In addition, see sections
-[J.5.10](secJ5.html#secj510), [J.5.11](secJ5.html#secj511) and
-[J.5.12](secJ5.html#secj512) for more on why anarchists support self-
+[J.5.10](secJ5.md#secj510), [J.5.11](secJ5.md#secj511) and
+[J.5.12](secJ5.md#secj512) for more on why anarchists support self-
 management and why, in spite of its higher efficiency and productivity, the
 capitalist market will select against it.
 
@@ -3141,7 +3141,7 @@ makes a mistake and their business actually fails, his workers will suffer far
 more serious consequences than him. In most cases, the manager will still live
 comfortably (indeed, many will receive extremely generous severance packages)
 while workers will face the fear, insecurity and hardship of having to find a
-new job. Indeed, as we argued in [section C.2.1](secC2.html#secc21), it is the
+new job. Indeed, as we argued in [section C.2.1](secC2.md#secc21), it is the
 risk of unemployment that is a key factor in ensuring the exploitation of
 labour in the first place.
 
@@ -3168,10 +3168,10 @@ investors being rewarded for the risks they took. This means that
 produced a desired good or service. In other words, the argument for risk is
 dependent on the investor providing capital which the workers of the company
 used productivity to create a commodity. However, as we discussed in [section
-C.2.4](secC2.html#secc24) capital is **not** productive and, as a result, an
+C.2.4](secC2.md#secc24) capital is **not** productive and, as a result, an
 investor may expect the return of their initial investment but no more. At
 best, the investor has allowed others to use their money but, as [section
-C.2.3](secC2.html#secc23) indicated, giving permission to use something is not
+C.2.3](secC2.md#secc23) indicated, giving permission to use something is not
 a productive act.
 
 However, there is another sense in which risk does not, in general, contribute
@@ -3315,7 +3315,7 @@ would be inaccurate, to say the least, to explain this decline in terms of
 increased unwillingness to face potential risks on the part of working people.
 Rather, it is a product of increased costs to set up and run businesses which
 acts as a very effect **natural** barrier to competition (see [section
-C.4](secC4.html)). With limited resources available, most working people
+C.4](secC4.md)). With limited resources available, most working people
 simply **cannot** face the risk as they do not have sufficient funds in the
 first place and, moreover, if such funds are found the market is hardly a
 level playing field.
@@ -3342,7 +3342,7 @@ escape it. Sadly, this natural desire to be your own boss generally becomes,
 if successful, being someone else's boss! Which means, in almost all cases, it
 shows that to become rich you need to exploit other people's labour.
 
-So, as with "waiting" (see [section C.2.7](secC2.html#secc27)), taking a risk
+So, as with "waiting" (see [section C.2.7](secC2.md#secc27)), taking a risk
 is much easier if you are wealthy and so risk is simply another means for
 rewarding the wealthy for being wealthy. In other words, risk aversion is the
 dependent, not the independent, factor. The distribution of wealth determines
@@ -3364,7 +3364,7 @@ monopolised in a few hands. If profit **is** the product of risk then,
 ultimately, it is the product of a hierarchical company structure and,
 consequently, capitalists are simply rewarding themselves because they have
 power within the workplace. As with "innovation" and "entrepreneurialism" (see
-[section C.2.8](secC2.html#secc28)), this rationale for surplus value depends
+[section C.2.8](secC2.md#secc28)), this rationale for surplus value depends
 on ignoring how the workplace is structured. In other words, because managers
 monopolise decision making ("risk") they also monopolise the surplus value
 produced by workers. However, the former in no way justifies this
@@ -3414,8 +3414,7 @@ source of surplus value or justified it, the riskiest investment and poorest
 investor would receive the highest returns and this is not the case. In
 summary, the "risk" defence of capitalism does not convince.
 
-[‹ C.1 What is wrong with economics?](/afaq/secC1.html "Go to previous page" )
-[up](/afaq/secCcon.html "Go to parent page" ) [C.3 What determines the
-distribution between labour and capital? ›](/afaq/secC3.html "Go to next page"
-)
+[‹ C.1 What is wrong with economics?](secC1.md "Go to previous page" )
+[up](secCcon.md "Go to parent page" ) [C.3 What determines the distribution
+between labour and capital? ›](secC3.md "Go to next page" )
 

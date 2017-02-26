@@ -255,7 +255,7 @@ advocated "occupancy and use" based on a person's right to have access to the
 means of life as well as its positive effects on individual liberty. However,
 under the influence of Max Stirner's book **The Ego and Its Own**, Tucker
 along with many of his comrades, became egoists (see [next
-section](secG6.html) for a discussion of Stirner). This resulted in Tucker
+section](secG6.md) for a discussion of Stirner). This resulted in Tucker
 arguing that while previously _"it was my habit to talk glibly of the right of
 man to land"_ this was _"a bad habit, and I long ago sloughed it off."_ Now a
 person's _"only right over the land is his might over it."_ [**Instead of a
@@ -321,7 +321,7 @@ the _"most perfect Socialism is possible only on the condition of the most
 perfect individualism."_ [quoted by Peter Marshall, **Demanding the
 Impossible**, p. 390]
 
-As we noted in [section G.1.3](secG1.html#secg13), there is one apparent area
+As we noted in [section G.1.3](secG1.md#secg13), there is one apparent area
 of disagreement between Tucker and most other socialists, namely the issue of
 wage labour. For almost all anarchists the employer/employee social
 relationship does not fit in well with Tucker's statement that _"if the
@@ -331,7 +331,7 @@ differences are not impossible to overcome. It is important to note that
 because of Tucker's proposal to increase the bargaining power of workers
 through access to mutual credit, his individualist anarchism is not only
 compatible with workers' control but would in fact **promote** it (as well as
-logically requiring it -- see [section G.4.1](secG4.html#secg41)).
+logically requiring it -- see [section G.4.1](secG4.md#secg41)).
 
 For if access to mutual credit were to increase the bargaining power of
 workers to the extent that Tucker claimed it would, they would then be able
@@ -345,7 +345,7 @@ workplaces by mutualism, which would _"place the means of production within
 the reach of all."_ [quoted by Martin, **Op. Cit.**, p. 228] Proudhon used the
 word _"associate"_ to denote co-operative (i.e. directly democratic)
 workplaces (and given Proudhon's comments -- quoted in [section
-G.4.2](secG4.html#secg42) \-- on capitalist firms we can dismiss any attempt
+G.4.2](secG4.md#secg42) \-- on capitalist firms we can dismiss any attempt
 to suggest that the term _"individualise"_ indicates support for capitalist
 rather than artisan/peasant production, which is the classic example of
 individualised production). For as Proudhon recognised, only a system without
@@ -385,17 +385,17 @@ could easily degenerate into an 'Anarchism for small business-men.' Tucker had
 a keen sense of the right of the oppressed to struggle against oppression."_
 [**The Slow Burning Fuse**, p. 19]
 
-As we stressed in [section G.1.4](secG1.html#secg14), many of Tucker's
+As we stressed in [section G.1.4](secG1.md#secg14), many of Tucker's
 arguments can only be fully understood in the context of the society in which
 he developed them, namely the transformation of America from a pre-capitalist
 into a capitalist one by means of state intervention (the process of
 _"primitive accumulation"_ to use Marx's phrase -- see [section
-F.8.5](secF8.html#secf85)). At that time, it was possible to argue that access
+F.8.5](secF8.md#secf85)). At that time, it was possible to argue that access
 to credit would allow workers to set-up business and undermine big business.
 However, eventually Tucker had come to argue that this possibility had
 effectively ended and even the freest market would not be able to break-up the
 economic power of corporations and trusts (see [section
-G.1.1](secG1.html#secg11)).
+G.1.1](secG1.md#secg11)).
 
 In this, ironically, Tucker came to the same conclusion as his old enemy
 Johann Most had done three decades previously. In the 1880s, Tucker had argued
@@ -403,7 +403,7 @@ that wage labour would be non-exploitative under individualist anarchy. This
 was part of the reason why Most had excommunicated Tucker from anarchism, for
 he thought that Tucker's system could not, by definition, end exploitation due
 to its tolerance of wage labour, an argument Tucker disputed but did not
-disprove (see [section G.4.1](secG4.html) for more discussion on this issue).
+disprove (see [section G.4.1](secG4.md) for more discussion on this issue).
 In 1888 Tucker had speculated that _"the question whether large concentrations
 of capital for production on the large scale confronts us with the
 disagreeable alternative of either abolishing private property or continuing
@@ -447,7 +447,7 @@ in the capitalist sense.
 
 So while it is true that Tucker placed "property" and markets at the heart of
 his vision of anarchy, this does not make him a supporter of capitalism (see
-sections [G.1.1](secG1.html#secg11) and [G.1.2](secG1.html#secg12)). Unlike
+sections [G.1.1](secG1.md#secg11) and [G.1.2](secG1.md#secg12)). Unlike
 supporters of capitalism, the individualist anarchists identified "property"
 with simple "possession," or _"occupancy and use"_ and considered profit, rent
 and interest as exploitation. Indeed, Tucker explicitly stated that _"all
@@ -477,8 +477,7 @@ and making others produce it for them. This clearly indicates that Rothbard's
 claim to have somehow modernised Tucker's thought is **false** \-- "ignored"
 or "changed beyond recognition" would be more appropriate.
 
-[‹ G.4 Why do social anarchists reject individualist
-anarchism?](/afaq/secG4.html "Go to previous page" ) [up](/afaq/secGcon.html
-"Go to parent page" ) [G.6 What are the ideas of Max Stirner?
-›](/afaq/secG6.html "Go to next page" )
+[‹ G.4 Why do social anarchists reject individualist anarchism?](secG4.md
+"Go to previous page" ) [up](secGcon.md "Go to parent page" ) [G.6 What are
+the ideas of Max Stirner? ›](secG6.md "Go to next page" )
 

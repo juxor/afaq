@@ -65,7 +65,7 @@ because anarchists are part of the oppressed and so have an interest in taking
 part in and showing solidarity with struggles and movements that can improve
 our life in the here and now (_"an injury to one is an injury to all"_).
 
-As we will see in [section J.2](secJ2.html) anarchists encourage direct action
+As we will see in [section J.2](secJ2.md) anarchists encourage direct action
 within social struggles as well as arguing for anarchist ideas and theories.
 However, what is important to note here is that social struggle is a sign that
 people are thinking and acting for themselves and working together to change
@@ -262,7 +262,7 @@ strategies within it. In this way we create **_"schools of anarchy"_** within
 the current system and lay the foundations of something better. Revolutionary
 tendencies and movements, in other words, must create the organisations that
 contain, in embryo, the society of the future (see [section
-H.1.6](secH1.html#sech16)). These organisations, in turn, further the progress
+H.1.6](secH1.md#sech16)). These organisations, in turn, further the progress
 of radical change by providing social spaces for the transformation of
 individuals (via the use of direct action, practising self-management and
 solidarity, and so on). Therefore, social struggle aids the creation of a free
@@ -574,7 +574,7 @@ elements in society in the interests of capital. As anarchists are against
 both state and capitalism, we can oppose such reforms without contradiction
 while, at the same time, arguing that welfare for the rich should be abolished
 long before welfare for the many is even thought about. See [section
-J.5.15](secJ5.html#secj515) for more discussion on the welfare state and
+J.5.15](secJ5.md#secj515) for more discussion on the welfare state and
 anarchist perspectives on it.
 
 Instead of encouraging working class people to organise themselves and create
@@ -849,7 +849,7 @@ recasts the way people 'organise' and the goals for which they strive."_
 As the anarchist slogan puts it: **_"Resistance is Fertile."_** Planting the
 seed of autonomy, direct action and self-liberation can result, potentially,
 in the blossoming of free individuals due to the nature of struggle itself
-(see [section A.2.7](secA2.html#seca27)). Therefore, the generalisation of
+(see [section A.2.7](secA2.md#seca27)). Therefore, the generalisation of
 social struggle is not only a key way of winning a specific fight, it can (and
 should) also spread into different aspects of life and society and play a key
 part in developing free individuals who reject hierarchy in all aspects of
@@ -865,7 +865,7 @@ thirdly, to encourage the transformation of those involved into unique
 individuals in touch with their humanity, a humanity eroded by hierarchical
 society and domination.
 
-[‹ J.0 Section J Introduction](/afaq/secJint.html "Go to previous page" )
-[up](/afaq/secJcon.html "Go to parent page" ) [J.2 What is direct action?
-›](/afaq/secJ2.html "Go to next page" )
+[‹ J.0 Section J Introduction](secJint.md "Go to previous page" )
+[up](secJcon.md "Go to parent page" ) [J.2 What is direct action?
+›](secJ2.md "Go to next page" )
 

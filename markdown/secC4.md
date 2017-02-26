@@ -1,6 +1,6 @@
 # C.4 Why does the market become dominated by Big Business?
 
-As noted in [section C.1.4](secC1.html#secc14), the standard capitalist
+As noted in [section C.1.4](secC1.md#secc14), the standard capitalist
 economic model assumes an economy made up of a large number of small firms,
 none of which can have any impact on the market. Such a model has no bearing
 to reality:
@@ -22,7 +22,7 @@ This growth of business is rooted in the capitalist system itself. The dynamic
 of the "free" market is that it tends to becomes dominated by a few firms (on
 a national, and increasingly, international, level), resulting in
 oligopolistic competition and higher profits for the companies in question
-(see [next section](secC4.html#secc41) for details and evidence). This occurs
+(see [next section](secC4.md#secc41) for details and evidence). This occurs
 because only established firms can afford the large capital investments needed
 to compete, thus reducing the number of competitors who can enter or survive
 in a given the market. Thus, in Proudhon's words, _"competition kills
@@ -65,7 +65,7 @@ of workplaces and in the administration levels in the company as a whole (i.e.
 
 The reason for the rise in capital investment is rooted in the need for
 capitalist firms to gain a competitive edge on their rivals. As noted in
-[section C.2](secC2.html), the source of profit is the unpaid labour of
+[section C.2](secC2.md), the source of profit is the unpaid labour of
 workers and this can be increased by one of two means. The first is by making
 workers work longer for less on the same machinery (the generation of absolute
 surplus value, to use Marx's term). The second is to make labour more
@@ -74,7 +74,7 @@ value, again using Marx's terminology). The use of technology drives up the
 output per worker relative to their wages and so the workforce is exploited at
 a higher rate (how long before workers force their bosses to raise their wages
 depends on the balance of class forces as we noted in the [last
-section](secC3.html)). This means that capitalists are driven by the market to
+section](secC3.md)). This means that capitalists are driven by the market to
 accumulate capital. The first firm to introduce new techniques reduces their
 costs relative to the market price, so allowing them to gain a surplus profit
 by having a competitive advantage (this addition profit disappears as the new
@@ -174,7 +174,7 @@ the dominant firms perceive expansion as a threat).
 
 Thus whatever super-profits Big Business reap are maintained due to the
 advantages it has in terms of concentration, market power and size which
-reduce competition (see [section C.5](secC5.html) for details).
+reduce competition (see [section C.5](secC5.md) for details).
 
 And, we must note, that the processes that saw the rise of national Big
 Business is also at work on the global market. Just as Big Business arose from
@@ -408,7 +408,7 @@ importance and resources gives them the ability to influence government to
 introduce favourable policies -- either directly, by funding political parties
 or lobbying politicians, or indirectly by investment decisions (i.e. by
 pressuring governments by means of capital flight -- see [section
-D.2](secD2.html)). Thus concentrated economic power is in an ideal position to
+D.2](secD2.md)). Thus concentrated economic power is in an ideal position to
 influence (if not control) political power and ensure state aid (both direct
 and indirect) to bolster the position of the corporation and allow it to
 expand further and faster than otherwise. More money can also be plowed into
@@ -418,7 +418,7 @@ where restricted labour opportunities as well as negative effects on the work
 process itself may result. All of which shapes the society we live in; the
 laws we are subject to; the "evenness" and "levelness" of the "playing field"
 we face in the market and the ideas dominant in society (see [section
-D.3](secD3.html)).
+D.3](secD3.md)).
 
 So, with increasing size, comes the increasing power, the power of oligopolies
 to _"influence the terms under which they choose to operate. Not only do they
@@ -456,7 +456,7 @@ also means that more can be retained by the firm to fund investment (or pay
 high level managers more salaries or increase dividends, of course). When
 capital expands faster than labour income over-investment is an increasing
 problem and aggregate demand cannot keep up to counteract falling profit
-shares (see [section C.7](secC7.html) on more about the business cycle).
+shares (see [section C.7](secC7.md) on more about the business cycle).
 Moreover, as the capital stock is larger, oligopoly will also have a tendency
 to deepen the eventual slump, making it last long and harder to recover from.
 
@@ -513,7 +513,7 @@ political structure.
 The effects of the concentration of capital and wealth on society are very
 important, which is why we are discussing capitalism's tendency to result in
 big business. The impact of the wealth of the few on the lives of the many is
-indicated in [section D](secDcon.html) of the FAQ. As shown there, in addition
+indicated in [section D](secDcon.md) of the FAQ. As shown there, in addition
 to involving direct authority over employees, capitalism also involves
 indirect control over communities through the power that stems from wealth.
 
@@ -573,7 +573,7 @@ industry, avoidance of price competition becomes almost automatic and the
 notion that all firms are price takers is an obvious falsehood). That
 mainstream economists were not interested in including such facts into their
 models shows the ideological nature of the "science" (see [section
-C.1](secC1.html) for more discussion of the non-scientific nature of
+C.1](secC1.md) for more discussion of the non-scientific nature of
 mainstream economics).
 
 This does not mean that reality has been totally forgotten. Some work was
@@ -598,7 +598,7 @@ Unlike perfect competition, a monopolist can set a price above marginal cost
 and so exploit consumers by over pricing. In contrast, perfectly competitive
 markets force their members to set price to be equal to marginal cost. As it
 is rooted in the assumptions we exposed as nonsense as [section
-C.1](secC1.html), this neo-classical theory on free competition and monopoly
+C.1](secC1.md), this neo-classical theory on free competition and monopoly
 is similarly invalid. As Steve Keen notes, there is _"no substance"_ to the
 neo-classical _"critique of monopolies"_ as it _"erroneously assumes that the
 perfectly competitive firm faces a horizontal demand curve,"_ which is
@@ -711,7 +711,7 @@ social structures are. If the freedoms are such that the only choices you have
 objectively are to conform to one or another system of power, there's no
 freedom."_ [**Language and Politics**, pp. 641-2]
 
-As we noted in [section C.4](secC4.html), those with little capital are
+As we noted in [section C.4](secC4.md), those with little capital are
 reduced to markets with low set-up costs and low concentration. Thus, claim
 the supporters of capitalism, workers still have a choice. However, this
 choice is (as we have indicated) somewhat limited by the existence of
@@ -733,11 +733,11 @@ such that over time these markets will also become dominated by a few big
 firms. Moreover, to survive in an oligopolised economy small cooperatives will
 be under pressure to hire wage labour and otherwise act as capitalist
 concerns. Therefore, even if we ignore the massive state intervention which
-created capitalism in the first place (see [section F.8](secF8.html)), the
+created capitalism in the first place (see [section F.8](secF8.md)), the
 dynamics of the system are such that relations of domination and oppression
 will always be associated with it -- they cannot be "competed" away as the
 actions of competition creates and re-enforces them (also see sections
-[J.5.11](secJ5.html#secj511) and [J.5.12](secJ5.html#secj512) on the barriers
+[J.5.11](secJ5.md#secj511) and [J.5.12](secJ5.md#secj512) on the barriers
 capitalism places on co-operatives and self-management even though they are
 more efficient).
 
@@ -758,7 +758,7 @@ available options -- the options available have been skewed so far in one
 direction that the other alternatives have been marginalised.
 
 [‹ C.3 What determines the distribution between labour and
-capital?](/afaq/secC3.html "Go to previous page" ) [up](/afaq/secCcon.html "Go
-to parent page" ) [C.5 Why does Big Business get a bigger slice of profits?
-›](/afaq/secC5.html "Go to next page" )
+capital?](secC3.md "Go to previous page" ) [up](secCcon.md "Go to parent
+page" ) [C.5 Why does Big Business get a bigger slice of profits?
+›](secC5.md "Go to next page" )
 

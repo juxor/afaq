@@ -43,7 +43,7 @@ The same can be said of all countries. As such, when supporters of
 "libertarian" capitalism say they are against the "initiation of force," they
 mean only **new** initiations of force: for the system they support was born
 from numerous initiations of force in the past (moreover, it also requires
-state intervention to keep it going -- [section D.1](secD1.html) addresses
+state intervention to keep it going -- [section D.1](secD1.md) addresses
 this point in some detail). Indeed, many thinkers have argued that it was
 precisely this state support and coercion (particularly the separation of
 people from the land) that played the **key** role in allowing capitalism to
@@ -228,7 +228,7 @@ power, irrespective of whether individual capitalists encouraged politicians
 to vote to create/maintain it. And, similarly, **all** American capitalists
 benefited from the changes in common law to recognise and protect capitalist
 private property and rights that the state enforced during the 19th century
-(see [section B.2.5](secB2.html#secb25)).
+(see [section B.2.5](secB2.md#secb25)).
 
 Rothbard, in other words, ignores class theft and the accumulative effect of
 stealing both productive property and the products of the workers who use it.
@@ -422,7 +422,7 @@ created it. Yet as both anarchists and Marxists have stressed, money and
 commodities do not define capitalism any more than private ownership of the
 means of production. So it is important to remember that from a socialist
 perspective capitalism is **not** identical to the market. As we stressed in
-[section C.2](secC2.html), both anarchists and Marxists argue that where
+[section C.2](secC2.md), both anarchists and Marxists argue that where
 people produce for themselves, is not capitalist production, i.e. when a
 worker sells commodities this is not capitalist production. Thus the
 supporters of capitalism fail to understand that a great deal of state
@@ -537,7 +537,7 @@ Some of the most important state actions from the standpoint of early industry
 were the so-called Enclosure Acts, by which the "commons" -- the free farmland
 shared communally by the peasants in most rural villages -- was "enclosed" or
 incorporated into the estates of various landlords as private property (see
-[section F.8.3](secF8.html#secf83)). This ensured a pool of landless workers
+[section F.8.3](secF8.md#secf83)). This ensured a pool of landless workers
 who had no option but to sell their labour to landlords and capitalists.
 Indeed, the widespread independence caused by the possession of the majority
 of households of land caused the rising class of capitalists to complain, as
@@ -596,7 +596,7 @@ the expense of its rivals and the subject working class population the
 mercantilist period was one of generally rapid growth, particularly in
 England.
 
-As we discussed in [section C.10](secC10.html), some kind of mercantilism has
+As we discussed in [section C.10](secC10.md), some kind of mercantilism has
 always been required for a country to industrialise. Over all, as economist
 Paul Ormerod puts it, the _"advice to follow pure free-market polices seems .
 . . to be contrary to the lessons of virtually the whole of economic history
@@ -718,7 +718,7 @@ trade is quite a recent phenomenon. It started only at the end of the Second
 World War (although, of course, **within** America military Keynesian policies
 were utilised). While American industry was developing, the state and
 capitalist class had no time for laissez-faire (see [section
-F.8.5](secF8.html#secf85) for details). After it had grown strong, the United
+F.8.5](secF8.md#secf85) for details). After it had grown strong, the United
 States began preaching laissez-faire to the rest of the world -- and began to
 kid itself about its own history, believing its slogans about laissez-faire as
 the secret of its success. Yet like all other successful industrialisers, the
@@ -797,8 +797,8 @@ which can have obvious and extensive social impacts. What "libertarian"
 capitalists object to is attempts by others -- workers, society as a whole,
 the state, etc. -- to interfere with the authority of bosses. That this is
 just the defence of privilege and power (and **not** freedom) has been
-discussed in [section B](secBcon.html) and elsewhere in [section
-F](secFcon.html), so we will not repeat ourselves here. Samuel Johnson once
+discussed in [section B](secBcon.md) and elsewhere in [section
+F](secFcon.md), so we will not repeat ourselves here. Samuel Johnson once
 observed that _"we hear the loudest **yelps** for liberty among the drivers of
 Negroes."_ [quoted by Noam Chomsky, **Year 501**, p. 141] Our modern
 "libertarian" capitalist drivers of wage-slaves are yelping for exactly the
@@ -808,7 +808,7 @@ same kind of "liberty."
 
 Beyond being a paymaster for new forms of production and social relations as
 well as defending the owners' power, the state intervened economically in
-other ways as well. As we noted in [section B.2.5](secB2.html#secb25), the
+other ways as well. As we noted in [section B.2.5](secB2.md#secb25), the
 state played a key role in transforming the law codes of society in a
 capitalistic fashion, ignoring custom and common law when it was convenient to
 do so. Similarly, the use of tariffs and the granting of monopolies to
@@ -942,7 +942,7 @@ important, as the independence and freedom of Native Americans is well
 documented. The common feature of both cultures was communal ownership of the
 means of production and free access to it (usufruct). This is discussed
 further in section I.7 ([Won't Libertarian Socialism destroy
-individuality?](secI7.html)). As Bookchin stressed, the factory _"was not born
+individuality?](secI7.md)). As Bookchin stressed, the factory _"was not born
 from a need to integrate labour with modern machinery,"_ rather it was to
 regulate labour and make it regular. For the _"irregularity, or 'naturalness,'
 in the rhythm and intensity of traditional systems of work contributed more
@@ -981,7 +981,7 @@ legally hunt for food as from the time of Richard II (1389) to 1831, no person
 could kill game unless qualified by estate or social standing.
 
 The enclosure of the commons (in whatever form it took -- see [section
-F.8.5](secF8.html#secf85) for the US equivalent) solved both problems -- the
+F.8.5](secF8.md#secf85) for the US equivalent) solved both problems -- the
 high cost of labour, and the freedom and dignity of the worker. The enclosures
 perfectly illustrate the principle that capitalism requires a state to ensure
 that the majority of people do not have free access to any means of livelihood
@@ -1026,7 +1026,7 @@ underwritten."_
 Thus state action was required because labourers had increased bargaining
 power and commanded higher wages which, in turn, led to inflation throughout
 the economy. In other words, an early version of the NAIRU (see [section
-C.9](secC9.html)). In one form or another this statute remained in force right
+C.9](secC9.md)). In one form or another this statute remained in force right
 through to the 19th century (later versions made it illegal for employees to
 "conspire" to fix wages, i.e., to organise to demand wage increases). Such
 measures were particularly sought when the labour market occasionally favoured
@@ -1147,7 +1147,7 @@ with nothing to sell but their labour. While this monopoly is less important
 these days in developed nations (few people know how to farm) it was essential
 as a means of consolidating capitalism. Given the choice, most people
 preferred to become independent farmers rather than wage workers (see [next
-section](secF8.html#secf85)). As such, the _"land monopoly"_ involves more
+section](secF8.md#secf85)). As such, the _"land monopoly"_ involves more
 than simply enclosing common land but also enforcing the claims of landlords
 to areas of land greater than they can work by their own labour.
 
@@ -1551,7 +1551,7 @@ stagnation."_ Unsurprisingly, the _"era of protectionism began in 1816, with
 northern agitation for higher tariffs."_ [Richard B. Du Boff, **Accumulation
 and Power**, p. 56, p. 14 and p. 55] Combined with ready repression of the
 labour movement and government "homesteading" acts (see [section
-F.8.5](secF8.html#secf85)), tariffs were the American equivalent of
+F.8.5](secF8.md#secf85)), tariffs were the American equivalent of
 mercantilism (which, after all, was above all else a policy of protectionism,
 i.e. the use of government to stimulate the growth of native industry). Only
 once America was at the top of the economic pile did it renounce state
@@ -1576,7 +1576,7 @@ process [of 'commercial revolution'] with public works in transportation and
 communication."_ In addition to this "physical" aid, _"state government
 provided critical help, with devices like the chartered corporation"_ [Richard
 B. Du Boff, **Op. Cit.**, p. 15] As we noted in [section
-B.2.5](secB2.html#secb25), there were changes in the legal system which
+B.2.5](secB2.md#secb25), there were changes in the legal system which
 favoured capitalist interests over the rest of society.
 
 Nineteenth-century America also went in heavily for industrial planning --
@@ -1633,7 +1633,7 @@ labour and to invest it profitably.
 
 As well as allowing unfree labour, the American state intervened to ensure
 that the freedom of wage workers was limited in similar ways as we indicated
-in [section F.8.3](secF8.html#secf83). _"The changes in social relations of
+in [section F.8.3](secF8.md#secf83). _"The changes in social relations of
 production in artisan trades that took place in the thirty years after 1790,"_
 notes one historian, _"and the . . . trade unionism to which . . . it gave
 rise, both replicated in important respects the experience of workers in the
@@ -1731,7 +1731,7 @@ command."_ [**Strike!**, p. xxi] So the availability of land ensured that in
 America, slavery and indentured servants were the only means by which
 capitalists could get people to work for them. This was because slaves and
 servants were not able to leave their masters and become self-employed farmers
-or artisans. As noted in the [last section](secF8.html#secf85) this material
+or artisans. As noted in the [last section](secF8.md#secf85) this material
 base was, ironically, acknowledged by Rothbard but the implications for
 freedom when it disappeared was not. While he did not ponder what would happen
 when that supply of land ended and whether the libertarian aspects of early
@@ -1791,7 +1791,7 @@ language of power and control"_ as the _"preferred strategy for dealing with
 the employment relation"_ and so advertised their conclusion that _"employment
 relations were properly to be conceived of as generically hierarchical."_
 [**Op. Cit.**, p. 231 and p. 225] As we noted in [ last
-section](secF8.html#secf85) the courts, judges and jurists acted to outlaw
+section](secF8.md#secf85) the courts, judges and jurists acted to outlaw
 unions as conspiracies and force workers to work the full length of their
 contracts. In addition, they also reduced employer liability in industrial
 accidents (which, of course, helped lower the costs of investment as well as
@@ -1944,7 +1944,7 @@ possible, of course, but market forces are usually sufficient as the market is
 usually skewed against the working class. However, the role of the state
 remains a key to understanding capitalism as a system rather than just
 specific periods of it. This is because, as we stressed in [section
-D.1](secD1.html), state action is not associated only with the past, with the
+D.1](secD1.md), state action is not associated only with the past, with the
 transformation from feudalism to capitalism. It happens today and it will
 continue to happen as long as capitalism continues.
 
@@ -1960,7 +1960,7 @@ state is reflected not only in our theory and history, but also in our
 anarchist symbols. The Black Flag, for example, was first raised by rebel
 artisans in France and its association with labour insurrection was the reason
 why anarchists took it up as our symbol (see the appendix on ["The Symbols of
-Anarchy"](append2.html)). So given both the history of capitalism and
+Anarchy"](append2.md)). So given both the history of capitalism and
 anarchism, it becomes obvious any the latter has always opposed the former. It
 is why anarchists today still seek to encourage the desire and hope for
 political **and** economic freedom rather than the changing of masters we have
@@ -1969,7 +1969,7 @@ still exist and they will remain until such time as we organise and abolish
 capitalism and the state.
 
 [‹ F.7 How does the history of "anarcho"-capitalism show that it is not
-anarchist?](/afaq/secF7.html "Go to previous page" ) [up](/afaq/secFcon.html
-"Go to parent page" ) [Section G - Is individualist anarchism capitalistic?
-›](/afaq/secGcon.html "Go to next page" )
+anarchist?](secF7.md "Go to previous page" ) [up](secFcon.md "Go to parent
+page" ) [Section G - Is individualist anarchism capitalistic? ›](secGcon.md
+"Go to next page" )
 

@@ -136,7 +136,7 @@ extended to all areas of life and work. For example, the revolution saw _"the
 creation of a health workers' union, a true experiment in socialised medicine.
 They provided medical assistance and opened hospitals and clinics."_ [Juan
 Gomez Casas, **Anarchist Organisation: The History of the FAI**, p. 192] We
-discuss this example in some detail in [section I.5.12](secI5.html#seci512)
+discuss this example in some detail in [section I.5.12](secI5.md#seci512)
 and so will not do so here. We simply stress that this section of the FAQ is
 just an introduction to what happened and does not (indeed, cannot) discuss
 all aspects of the revolution. We just present an overview, bringing out the
@@ -607,7 +607,7 @@ In summary, the collectives in Spain were marked by workplace self-management.
 They successfully implemented the long-standing libertarian goal of turning
 industry from an autocracy to a democracy, of replacing wage-labour with free-
 labour based on the association of equals (see [section
-I.3.1](secI3.html#seci31)). However, it would be a mistake to assume (as many
+I.3.1](secI3.md#seci31)). However, it would be a mistake to assume (as many
 do, particularly Marxists) that the CNT and FAI considered the creation of
 self-managed collectives as the end of the revolution. Far from it. While they
 embodied such key libertarian principles as workers' self-management, they
@@ -652,9 +652,9 @@ if it were initially incomplete. That a wider goal was envisioned by these
 organisations can be seen from the fact that union activists sought to extend
 the degree of socialisation. So, and again in line with libertarian theory,
 the collectives also expressed a desire to co-operate within and across
-industries (see [section I.3.5](secI3.html#seci35)). These attempts at
+industries (see [section I.3.5](secI3.md#seci35)). These attempts at
 federation and co-ordination will be discussed in [next
-section](secI8.html#seci84), along with some of the conclusions that can be
+section](secI8.md#seci84), along with some of the conclusions that can be
 drawn from these experiments. For, as would be expected, this attempt to
 introduce libertarian socialism had its drawbacks as well as successes.
 
@@ -776,7 +776,7 @@ workers employed."_ [quoted by Fraser, **Op. Cit.**, p. 229]
 As can be seen, the industrial collectives co-ordinated their activity in many
 ways, with varying degrees of success. As would be expected, mistakes were
 made and different solutions found as an anarchist society can hardly be
-produced "overnight" (as discussed in [section H.2.5](secH2.html#sech25),
+produced "overnight" (as discussed in [section H.2.5](secH2.md#sech25),
 anarchists have always been aware that social transformation takes time). So
 it is hardly surprising that the workers of the CNT faced numerous problems
 and had to develop their self-management experiment as objective conditions
@@ -908,7 +908,7 @@ every area of collective life if things did not work. That was the advantage
 of our collectives over state-created ones like those in Russia. We were free.
 Each village could do as it pleased. There was local stimulus, local
 initiative."_ [quoted by Ronald Fraser, **Blood of Spain**, p. 357] As we
-discuss in the the [next section](secI8.html#seci86), this enabled rural Spain
+discuss in the the [next section](secI8.md#seci86), this enabled rural Spain
 to be transformed from one marked by poverty and fear into one of increased
 well-being and hope.
 
@@ -1565,7 +1565,7 @@ overcome in a few months."_ [**Anarchist Collectives**, p. 153]
 This is just one from a multitude of examples presented in the accounts of
 both the industrial and rural collectives. We have already noted some examples
 of the improvements in efficiency realised by collectivisation during the
-Spanish Revolution ([section I.4.10](secI4.html#seci410)). Another example was
+Spanish Revolution ([section I.4.10](secI4.md#seci410)). Another example was
 the baking industry. Souchy reported that, _"[a]s in the rest of Spain,
 Barcelona's bread and cakes were baked mostly at night in hundreds of small
 bakeries. Most of them were in damp, gloomy cellars infested with roaches and
@@ -1579,8 +1579,8 @@ industries were all improved, with small, unhealthy and inefficient workplaces
 closed and replaced by larger, more pleasant and efficient establishments.
 _"Socialisation went hand in hand with rationalisation."_ [Gaston Leval,
 **Collectives in the Spanish Revolution**, p. 287] For more see
-[sectionI.8.6](secI8.html#seci86) as well as [section
-C.2.8](secC2.html#secc28) (in which we present more examples when refuting the
+[sectionI.8.6](secI8.md#seci86) as well as [section
+C.2.8](secC2.md#secc28) (in which we present more examples when refuting the
 charge that workers' control would stifle innovation).
 
 The substantial evidence available, of which these examples are but a small
@@ -1612,7 +1612,7 @@ would very soon manifest itself in a socialised society."_ [**Op. Cit.**, p.
 347]
 
 Therefore the actual experiences of self-management in Spain support the
-points made in [section I.4.11](secI4.html#seci411). Freed from hierarchy,
+points made in [section I.4.11](secI4.md#seci411). Freed from hierarchy,
 individuals will creatively interact with the world to improve their
 circumstances. For the human mind is an active agent and unless crushed by
 authority it can no more stop thinking and acting than the Earth can stop
@@ -1645,7 +1645,7 @@ amazing the revolution lasted as long as it did.
 This does not excuse the actions of the anarchists themselves. As is well
 known, the CNT co-operated with the other anti-fascist parties and trade
 unions on the Republican side ultimately leading to anarchists joining the
-government (see [next section](secI8.html#seci810)). This co-operation helped
+government (see [next section](secI8.md#seci810)). This co-operation helped
 ensure the defeat of the revolution. While much of the blame can be placed at
 the door of the would-be "leaders" (who like most leaders started to think
 themselves irreplaceable), it must be stated that the rank-and-file of the
@@ -1654,7 +1654,7 @@ front-line (and so excluded from union and collective meetings) and so could
 not influence their fellow workers (it is no surprise that the radical
 _"Friends of Durruti"_ anarchist group were mostly ex-militia men). However,
 it seems that the mirage of anti-fascist unity proved too much for the
-majority of CNT members (see [section I.8.12](secI8.html#seci812)).
+majority of CNT members (see [section I.8.12](secI8.md#seci812)).
 
 A few anarchists still maintain that the Spanish anarchist movement had no
 choice and that collaboration (while having unfortunate effects) was the only
@@ -1704,7 +1704,7 @@ Militias"_ proposed by the leader of the Catalan government, Louis Companys.
 This committee was made up of representatives of various anti-fascist parties
 and groups. From this it was only a matter of time until the CNT joined an
 official government as no other means of co-ordinating activities existed (see
-[section I.8.13](secI8.html#seci813)).
+[section I.8.13](secI8.md#seci813)).
 
 The question must arise, **why** did the CNT decide to collaborate with the
 state, forsake its principles and, in its own way, contribute to the counter-
@@ -1902,7 +1902,7 @@ outcome of the Civil War and Revolution could have been different.
 In summary, while the decision to collaborate is one that can be understood
 (due to the circumstances under which it was made), it cannot be justified in
 terms of anarchist theory. Indeed, as we argue in the [next
-section](secI8.html#seci811), attempts by the CNT leadership to justify the
+section](secI8.md#seci811), attempts by the CNT leadership to justify the
 decision in terms of anarchist principles are not convincing and cannot be
 done without making a mockery of anarchism.
 
@@ -1961,7 +1961,7 @@ to do what Stack fails to do, namely to provide some context. The decision to
 ignore anarchist theory, ignore the state rather than smashing it and work
 with other anti-fascist organisations was made immediately after the army had
 been defeated on the streets of Barcelona on the 20th of July, 1936. As we
-indicated in the [last section](secI8.html#seci810), the decision of the CNT
+indicated in the [last section](secI8.md#seci810), the decision of the CNT
 to collaborate with the state was driven by the fear of isolation. The
 possibility that by declaring libertarian communism it would have had to fight
 the Republican government and foreign interventions **as well as** the
@@ -2245,7 +2245,7 @@ can be seen by the rank and file of the CNT and FAI ignoring the decision to
 Republican Spain, workers and peasants started to expropriate capital and the
 land, placing it under workers' self-management. They did so on their own
 initiative. It is also possible, as discussed in the [next
-section](secI8.html#seci812), that anti-fascist unity would have prevailed and
+section](secI8.md#seci812), that anti-fascist unity would have prevailed and
 so the some decision would have been reached.
 
 Be that as it may, by thinking they could postpone the revolution until after
@@ -2388,7 +2388,7 @@ This can be clearly seen when we compare their arguments to those of Bakunin.
 As noted by Stack, the FoD argued for _"juntas"_ in the overthrow of
 capitalism and to defend against counter-revolution. Yet this was **exactly**
 what revolutionary anarchists have argued for since Bakunin (see [section
-H.2.1](secH2.html#sech21) for details). The continuity of the ideas of the FoD
+H.2.1](secH2.md#sech21) for details). The continuity of the ideas of the FoD
 with the pre-Civil War politics of the CNT and the ideas of revolutionary
 anarchism are clear. As such, the FoD were simply arguing for a return to the
 traditional positions of anarchism and cannot be considered to have broken
@@ -2427,7 +2427,7 @@ anarchists do, workers' councils as being key, Trotsky considered the party,
 in fact the _"dictatorship of a party"_, as being the decisive factor. [our
 emphasis, **Writings of Leon Trotsky 1936-37**, p. 514, p. 488 and pp. 513-4]
 At best, such organs would be used to achieve party power and would simply be
-a figleaf for its rule (see [section H.3.8](secH3.html#sech38)).
+a figleaf for its rule (see [section H.3.8](secH3.md#sech38)).
 
 Clearly, the leading Marxist at the time was not arguing for the _"centrality
 of the working class under the leadership of a political party."_ He was
@@ -2461,7 +2461,7 @@ Russia, it was due to the Bolsheviks **applying** their ideology. The
 difficulties that faced the Russian Revolution pushed the Bolsheviks further
 down the road they were already travelling down (not to mention that Bolshevik
 ideology significantly contributed to making many of these problems worse). As
-we discuss in [section H.6](secH6.html), the notion that "objective
+we discuss in [section H.6](secH6.md), the notion that "objective
 circumstances" explains Bolshevik tyranny is simply unconvincing, particularly
 given the role Bolshevik ideology played in this process.
 
@@ -2514,7 +2514,7 @@ Revolution**, p. 188]
 
 Ironically, rather than the _"anarchist leaders"_ of the CNT failing to
 _"seize power"_ as Trotsky and his followers lament (see [last
-section](secI8.html#seci811)), they did -- **in their own organisations.**
+section](secI8.md#seci811)), they did -- **in their own organisations.**
 Such a development proved to be a disaster and re-enforced the anarchist
 critique against hierarchical and centralised organisations. The CNT higher
 committees became isolated from the membership, pursued their own policies and
@@ -2658,7 +2658,7 @@ unsurprisingly, the divergences from the CNT's previous libertarian
 organisational principles confirmed anarchist theory, becoming a drag on the
 revolution and a factor in its defeat.
 
-As we argued in [section I.8.11](secI8.html#seci811), the initial compromise
+As we argued in [section I.8.11](secI8.md#seci811), the initial compromise
 with the state, the initial betrayal of anarchist theory and CNT policy,
 contained all the rest. Moreover, rather than refute anarchism, the experience
 of the CNT after it had rejected anarchist theory confirmed it -- centralised,
@@ -2869,7 +2869,7 @@ confederalism between collectives (i.e. extending the revolution under the
 direction of the syndicates) could not develop naturally nor be developed far
 enough in all places. Due to the political compromises of the CNT the
 tendencies to co-ordination and mutual aid could not develop freely (see [next
-section](secI8.html#seci814)).
+section](secI8.md#seci814)).
 
 It is clear that the defeat in Spain was due to a failure not of anarchist
 theory and tactics but a failure of anarchists to **apply** their theory and
@@ -2883,7 +2883,7 @@ this route can the state and capitalism be effectively smashed.
 In building the new world we must destroy the old one. Revolutions may be, as
 Engels suggested, "authoritarian" by their very nature, but only in respect to
 institutions, structures and social relations which promote injustice,
-hierarchy and inequality. As discussed in [section H.7.4](secH4.html#sech47),
+hierarchy and inequality. As discussed in [section H.7.4](secH4.md#sech47),
 it is not "authoritarian" to destroy authority and not tyrannical to dethrone
 tyrants! Revolutions, above all else, must be libertarian in respect to the
 oppressed. That is, they must develop structures that involve the great
@@ -2898,7 +2898,7 @@ this, the creation of viable anarchist social organisations, can ensure that
 the state and capitalism can be destroyed and replaced with a just system
 based on liberty, equality and solidarity. Just as Bakunin, Kropotkin and a
 host of other anarchist thinkers had argued decades previously (see [section
-H.1.4](secH1.html#sech14)). Thus the most important lesson gained from the
+H.1.4](secH1.md#sech14)). Thus the most important lesson gained from the
 Spanish Revolution is simply the correctness of anarchist theory on the need
 to organise the social and economic power of the working class by a free
 federation of workers associations to destroy the state. Without this, no
@@ -2948,7 +2948,7 @@ place.
 Fourthly, the role of anarchists in a social revolution is to always encourage
 organisation _"from below"_ (to use one of Bakunin's favourite expressions),
 revolutionary organisations which can effectively smash the state. Bakunin
-himself argued (see [section I.8.11](secI8.html#seci811)) in favour of
+himself argued (see [section I.8.11](secI8.md#seci811)) in favour of
 workers' councils, complemented by community assemblies (the federation of the
 barricades) and a self-managed militia. This model is still applicable today
 and was successfully applied in Aragón by the CNT.
@@ -3015,8 +3015,8 @@ of a libertarian socialist economy:
 Firstly, that an anarchist society cannot be created overnight, but is a
 product of many different influences as well as the objective conditions. In
 this the anarchist collectives confirmed the ideas of anarchist thinkers like
-Bakunin and Kropotkin (see [section I.2.2](secI2.html#seci22)). The
-collectives although, as mentioned in [section I.8.3](secI8.html#seci83),
+Bakunin and Kropotkin (see [section I.2.2](secI2.md#seci22)). The
+collectives although, as mentioned in [section I.8.3](secI8.md#seci83),
 based on key libertarian principles they were a somewhat unexpected
 development. They reflected objective circumstances facing the revolution as
 well as libertarian theory and, with regards the latter, were somewhat
@@ -3044,7 +3044,7 @@ or state control/ownership. The experience of the collectives in Spain
 supports this.
 
 Secondly, the importance of decentralisation of management. As discussed in
-[section I.8.4](secI8.html#seci84), different areas and industries tried
+[section I.8.4](secI8.md#seci84), different areas and industries tried
 different forms of federation. The woodworkers' union experience indicates
 that a collectivised industry can became centralised, with even a
 democratically elected administration leading to rank-and-file workers
@@ -3128,7 +3128,7 @@ society is possible. They gave a concrete example of what was previously just
 a vision, a world which was more humane, more free, more equitable and more
 civilised than that run by capitalists, managers, politicians and bureaucrats.
 
-[‹ I.7 Won't Libertarian Socialism destroy individuality?](/afaq/secI7.html
-"Go to previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [Section
-J - What do anarchists do? ›](/afaq/secJcon.html "Go to next page" )
+[‹ I.7 Won't Libertarian Socialism destroy individuality?](secI7.md "Go to
+previous page" ) [up](secIcon.md "Go to parent page" ) [Section J - What do
+anarchists do? ›](secJcon.md "Go to next page" )
 

@@ -7,7 +7,7 @@ Contradictions**, p. 130]). This, in turn, is dependent on the balance of
 power within any given economy at any given time.
 
 Given our analysis of the source of surplus value in [section
-C.2.2](secC2.html#secc22), this should come as no surprise. Given the central
+C.2.2](secC2.md#secc22), this should come as no surprise. Given the central
 role of labour in creating both goods (things with value) and surplus value,
 production prices determine market prices. This means that market prices are
 governed, however indirectly, by what goes on in production. In any company,
@@ -70,7 +70,7 @@ dependent upon and modified by the actions of workers (and capitalists), both
 as individuals and as a class. It is this struggle which, ultimately, drives
 the capitalist economy, it is this conflict between the human and commodity
 aspects of labour power that ultimately brings capitalism into repeated crisis
-(see [section C.7](secC7.html)).
+(see [section C.7](secC7.md)).
 
 From this perspective, the neo-classical argument that a factor in production
 (labour, capital or land) receives an income share that indicates its
@@ -270,7 +270,7 @@ and the working class, power. Looking at what is normally, although somewhat
 inaccurately, called monopoly this is obvious. The larger the company with
 respect to its market, the more likely it is to obtain a larger share of the
 available surplus, for reasons discussed later (see [section
-C.5](secC5.html)). While this represents a distribution of surplus value
+C.5](secC5.md)). While this represents a distribution of surplus value
 **between** capitalists based on market power, the important thing to note
 here is that while companies compete on the market to realise their share of
 the total surplus (unpaid labour) the **source** of these profits does not lie
@@ -295,7 +295,7 @@ dependent, of course, on the balance of forces within the economy.
 In the next section, we discuss why capitalism is marked by big business and
 what this concentrated market power means to the capitalist economy.
 
-[‹ C.2 Why is capitalism exploitative?](/afaq/secC2.html "Go to previous page"
-) [up](/afaq/secCcon.html "Go to parent page" ) [C.4 Why does the market
-become dominated by Big Business? ›](/afaq/secC4.html "Go to next page" )
+[‹ C.2 Why is capitalism exploitative?](secC2.md "Go to previous page" )
+[up](secCcon.md "Go to parent page" ) [C.4 Why does the market become
+dominated by Big Business? ›](secC4.md "Go to next page" )
 

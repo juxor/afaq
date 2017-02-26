@@ -19,9 +19,9 @@ must be sacred or liberty cannot exist."_
 
 But in their celebration of property as the source of liberty they ignore the
 fact that private property is a source of "tyranny" in itself (see sections
-[B.1](secB1.html) and [B.4](secB4.html), for example -- and please note that
+[B.1](secB1.md) and [B.4](secB4.md), for example -- and please note that
 anarchists only object to private property, **not** individual possession, see
-section [B.3.1](secB3.html#secb31)). However, as much anarchists may disagree
+section [B.3.1](secB3.md#secb31)). However, as much anarchists may disagree
 about other matters, they are united in condemning private property. Thus
 Proudhon argued that property was _"theft"_ and _"despotism"_ while Stirner
 indicated the religious and statist nature of private property and its impact
@@ -57,7 +57,7 @@ Rothbard _"attacked me [Bookchin] as an anarchist with vigour because, as he
 put it, I am opposed to private property."_ [**The Raven**, no. 29, p. 343]
 
 We will discuss Rothbard's "homesteading" justification of property in the
-[next section](append134.html#secf41). However, we will note here one aspect
+[next section](append134.md#secf41). However, we will note here one aspect
 of right-libertarian defence of "unrestricted" property rights, namely that it
 easily generates evil side effects such as hierarchy and starvation. As famine
 expert Amartya Sen notes:
@@ -85,7 +85,7 @@ Development**, pp. 311-2]
 Thus "unrestricted" property rights can have seriously bad consequences and so
 the existence of "justly held" property need not imply a just or free society
 -- far from it. The inequalities property can generate can have a serious on
-individual freedom (see section [3.1](append133.html#secf31)). Indeed, Murray
+individual freedom (see section [3.1](append133.md#secf31)). Indeed, Murray
 Rothbard argued that the state was evil not because it restricted individual
 freedom but because the resources it claimed to own were not "justly"
 acquired. Thus right-libertarian theory judges property **not** on its impact
@@ -95,8 +95,8 @@ hierarchies, acknowledge their similar negative effects on the liberty of
 those subjected to them but argue that one is legitimate and the other is not
 simply because of their history! As if this changed the domination and
 unfreedom that both inflict on people living today (see section
-[2.3](append132.html#secf23) for further discussion and sections
-[2.8](append132.html#secf28) and [4.2](append134.html#secf42) for other
+[2.3](append132.md#secf23) for further discussion and sections
+[2.8](append132.md#secf28) and [4.2](append134.md#secf42) for other
 examples of "justly acquired" property producing terrible consequences).
 
 The defence of capitalist property does have one interesting side effect,
@@ -111,7 +111,7 @@ Due to (capitalist) private property, wage labour would still exist under
 "anarcho"-capitalism (it is capitalism after all). This means that "defensive"
 force, a state, is required to "defend" exploitation, oppression, hierarchy
 and authority from those who suffer them. Inequality makes a mockery of free
-agreement and "consent" (see section [3.1](append133.html#secf31)). As Peter
+agreement and "consent" (see section [3.1](append133.md#secf31)). As Peter
 Kropotkin pointed out long ago:
 
 > _"When a workman sells his labour to an employer . . . it is a mockery to
@@ -131,7 +131,7 @@ Communism**, pp. 52-53]
 
 Because of this need to defend privilege and power, "anarcho"-capitalism is
 best called "private-state" capitalism. This will be discussed in more detail
-in section [6](append136.html).
+in section [6](append136.md).
 
 By advocating private property, right libertarians contradict many of their
 other claims. For example, they say that they support the right of individuals
@@ -198,16 +198,16 @@ edge of that property which was their birthright."_ [**What is Property?**,
 pp. 84-85, p. 118]
 
 As Rothbard himself noted in respect to the aftermath of slavery (see section
-[2.1](append132.html#secf21)), not having access to the means of life places
+[2.1](append132.md#secf21)), not having access to the means of life places
 one the position of unjust dependency on those who do. Rothbard's theory fails
 because for _"[w]e who belong to the proletaire class, property excommunicates
 us!"_ [P-J Proudhon, **Op. Cit.**, p. 105] and so the vast majority of the
 population experience property as theft and despotism rather than as a source
 of liberty and empowerment (which possession gives). Thus, Rothbard's account
 fails to take into account the Lockean Proviso (see section
-[B.3.4](secB3.html#secb34)) and so, for all its intuitive appeal, ends up
+[B.3.4](secB3.md#secb34)) and so, for all its intuitive appeal, ends up
 justifying capitalist and landlord domination (see [next
-section](append134.html#secf42) on why the Lockean Proviso is important).
+section](append134.md#secf42) on why the Lockean Proviso is important).
 
 It also seems strange that while (correctly) attacking social contract
 theories of the state as invalid (because _"no past generation can bind later
@@ -277,7 +277,7 @@ landowners during a depression and working it themselves).
 Now, where does that leave wilderness? In response to ecologists who oppose
 the destruction of the rainforest, "anarcho"-capitalists suggest that they put
 their money where their mouth is and **buy** rainforest land. In this way, it
-is claimed, rainforest will be protected (see section [B.5](secB5.html) for
+is claimed, rainforest will be protected (see section [B.5](secB5.md) for
 why such arguments are nonsense). As ecologists desire the rainforest
 **because it is wilderness** they are unlikely to "transform" it by human
 labour (its precisely that they want to stop). From Rothbard's arguments it is
@@ -323,7 +323,7 @@ nomads find its traditionally used, but natural, oasis appropriated by a
 homesteader what are they to do? If they ignore the homesteaders claims he can
 call upon his "defence" firm to stop them -- and then, in true Rothbardian
 fashion, the homesteader can refuse to supply water to them unless they hand
-over all their possessions (see section [4.2](append134.html#secf42) on this).
+over all their possessions (see section [4.2](append134.md#secf42) on this).
 And if the history of the United States (which is obviously the model for
 Rothbard's theory) is anything to go by, such people will become "criminal
 aggressors" and removed from the picture.
@@ -333,7 +333,7 @@ Which is another problem with Rothbard's account. It is completely ahistoric
 property"_). He has transported "capitalist man" into the dawn of time and
 constructed a history of property based upon what he is trying to justify (not
 surprising, as he does this with his "Natural Law" theory too - see [section
-7](append137.html)). What **is** interesting to note, though, is that the
+7](append137.md)). What **is** interesting to note, though, is that the
 **actual** experience of life on the US frontier (the historic example
 Rothbard seems to want to claim) was far from the individualistic framework he
 builds upon it and (ironically enough) it was destroyed by the development of
@@ -375,7 +375,7 @@ private property rights that was based on what he termed the _"Lockean
 Proviso"_ \-- namely that common (or unowned) land and resources could be
 appropriated by individuals as long as the position of others is not worsen by
 so doing. However, if we **do** take this Proviso seriously private property
-rights cannot be defined (see section [B.3.4](secB3.html#secb34) for details).
+rights cannot be defined (see section [B.3.4](secB3.md#secb34) for details).
 Thus Nozick's arguments in favour of property rights fail.
 
 Some right-libertarians, particularly those associated with the Austrian
@@ -452,7 +452,7 @@ oppression which could result from such an appropriation as "supplying a vital
 service" and any act to remove this tyranny as "coercion" is obviously a very
 sick ideology. And we may note that the right-libertarian position on this
 example is a good illustration of the dangers of deductive logic from
-assumptions (see section [1.3](append131.html#secf13) for more on this right-
+assumptions (see section [1.3](append131.md#secf13) for more on this right-
 libertarian methodology) -- after all W. Duncan Reekie, in his introduction to
 Austrian Economics, states that _"[t]o be intellectually consistent one must
 concede his absolute right to the oasis."_ [**Markets, Entrepreneurs and
@@ -478,7 +478,7 @@ Rothbard is aware of what is involved in accepting the Lockean Proviso --
 namely the existence of private property (_"Locke's proviso may lead to the
 outlawry of **all** private property of land, since one can always say that
 the reduction of available land leaves everyone else . . . worse off"_, **The
-Ethics of Liberty**, p. 240 -- see section [B.3.4](secB3.html#secb34) for a
+Ethics of Liberty**, p. 240 -- see section [B.3.4](secB3.md#secb34) for a
 discussion on why the Proviso **does** imply the end of capitalist property
 rights). Which is why he, and other right-libertarians, reject it. Its simple.
 Either you reject the Proviso and embrace capitalist property rights (and so
@@ -554,7 +554,7 @@ main actor, but as an individualistic model of activity it fails totally.
 Perhaps it would not be unfair to say that capitalist individualism celebrates
 the entrepreneur because this reflects a hierarchical system in which for the
 one to flourish, the many must obey? (Also see section
-[1.1](append131.html#secf11)).
+[1.1](append131.md#secf11)).
 
 Capitalist individualism does not recognise the power structures that exist
 within capitalism and how they affect individuals. In Brian Morris' words,
@@ -712,7 +712,7 @@ relationship must be based upon self-interest (mutual aid is, after all,
 something we do because we benefit from it in some way) but the trader model
 presents such a **narrow** self-interest that it is useless and actively
 impoverishes the very things it should be protecting -- individuality and
-interpersonal relationships (see section [I.7.4](secI7.html#seci74) on how
+interpersonal relationships (see section [I.7.4](secI7.md#seci74) on how
 capitalism does not protect individuality).
 
 ## 4.5 Does private property co-ordinate without hierarchy?
@@ -732,7 +732,7 @@ However, this is just playing with words. As they themselves point out the
 internal structure of a corporation or capitalist company is **not** a
 "market" (i.e. non-hierarchical) structure, it is a "non-market"
 (hierarchical) structure of a market participant (see section
-[2.2](append132.html#secf22)). However "market participants" are part of the
+[2.2](append132.md#secf22)). However "market participants" are part of the
 market. In other words, capitalism is **not** a system of co-ordination
 without hierarchy because it does contain hierarchical organisations which
 **are an essential part of the system**!
@@ -753,7 +753,7 @@ become less fascistic -- when applied to economic structures. To state the
 obvious, such glorification of workplace dictatorship seems somewhat at odds
 with an ideology calling itself "libertarian" or "anarchist". Is dictatorship
 more liberty enhancing to those subject to it than democracy? Anarchists doubt
-it (see section [A.2.11](secA2.html#seca211) for details).
+it (see section [A.2.11](secA2.md#seca211) for details).
 
 In order to claim that capitalism co-ordinates individual activity without
 hierarchy right-libertarians have to abstract from individuals and how they
@@ -766,13 +766,13 @@ hierarchy is simply false - its based on hierarchy and authoritarianism.
 Capitalist companies are based upon denying workers self-government (i.e.
 freedom) during work hours. The boss tells workers what to do, when to do, how
 to do and for how long. This denial of freedom is discussed in greater depth
-in sections [B.1](secB1.html) and [B.4](secB4.html).
+in sections [B.1](secB1.md) and [B.4](secB4.md).
 
 Because of the relations of power it creates, opposition to capitalist private
 property (and so wage labour) and the desire to see it ended is an essential
 aspect of anarchist theory. Due to its ideological blind spot with regards to
 apparently "voluntary" relations of domination and oppression created by the
-force of circumstances (see section [2](append132.html) for details),
+force of circumstances (see section [2](append132.md) for details),
 "anarcho"-capitalism considers wage labour as a form of freedom and ignore its
 fascistic aspects (when not celebrating those aspects). Thus
 "anarcho"-capitalism is not anarchist. By concentrating on the moment the
@@ -795,7 +795,7 @@ structures. For this reason anarchists support co-operative forms of
 production rather than capitalistic forms.
 
 [‹ 3 Why do anarcho"-capitalists place little or no value on
-"equality"?](/afaq/append133.html "Go to previous page" )
-[up](/afaq/append13.html "Go to parent page" ) [5 Will privatising "the
-commons" increase liberty? ›](/afaq/append135.html "Go to next page" )
+"equality"?](append133.md "Go to previous page" ) [up](append13.md "Go to
+parent page" ) [5 Will privatising "the commons" increase liberty?
+›](append135.md "Go to next page" )
 

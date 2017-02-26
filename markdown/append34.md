@@ -3,7 +3,6 @@
 In issue no. 1714 of Socialist Worker (dated 16th September 2000) the British
 Socialist Workers Party (SWP) decided to expose anarchism in an article
 entitled [ _"Marxism and
-Anarchism."_](http://www.socialistworker.co.uk/1714/sw171411.htm) However,
 their article is little more than a series of errors and distortions. We shall
 indicate how the SWP lies about anarchist ideas and discuss the **real**
 differences between anarchism and Marxism. Moreover, we will indicate that the
@@ -896,7 +895,7 @@ orders of the Bolshevik party. Hardly a system to inspire anyone.
 
 However, the history of the Russian Revolution has two important lessons for
 members of the various anti-globalisation and anti-capitalist groups. Firstly,
-as we noted in [section 1](append34.html#app1), is usually miles behind the
+as we noted in [section 1](append34.md#app1), is usually miles behind the
 class struggle and the ideas developed in it. As another example, we can point
 to the movement for workers' control and self-management that developed around
 the factory committees during the summer of 1917. It was the workers
@@ -1153,7 +1152,7 @@ extremely difficult circumstances.
 Obviously it is impossible to discuss the question of the C.N.T. during the
 Spanish Revolution in depth here. We address the issue of Marxist
 interpretations of Spanish Anarchist history in the appendix [_"Marxism and
-Spanish Anarchism."_](append32.html) [Section 20](append32.html#app20) of that
+Spanish Anarchism."_](append32.md) [Section 20](append32.md#app20) of that
 appendix discusses the C.N.T.'s decision to collaborate with the Republican
 State against Franco as well as its implications for anarchism.
 
@@ -1277,7 +1276,7 @@ For anarchists an organisation is not democratic because it debates, as the
 SWP claims. It is democratic only if the membership actually decides the
 policy of the organisation. That the SWP fail to mention this is significant
 and places doubt on whether their organisation is democratic in fact (as we
-indicate in [section 22](append34.html#app22), the SWP may debate but it is
+indicate in [section 22](append34.md#app22), the SWP may debate but it is
 not democratic). The reason why democracy in the SWP may not be all that it
 should be can be found in their comment that:
 
@@ -1432,7 +1431,7 @@ Revolution**, pp. 68-9]
 
 Therefore, as a general rule-of-thumb, anarchists have little problem with the
 minority accepting the decisions of the majority after a process of free
-debate and discussion. As we argue in [section A.2.11](secA2.html#seca211),
+debate and discussion. As we argue in [section A.2.11](secA2.md#seca211),
 such collective decision making is compatible with anarchist principles --
 indeed, is based on them. By governing ourselves directly, we exclude others
 governing us. However, we do not make a fetish of this, recognising that, in
@@ -1515,7 +1514,7 @@ As we shall indicate in the next two sections, the SWP do not, in fact,
 actually follow their own arguments. They are quite happy for minorities to
 ignore majority decisions -- as long as the minority in question is the
 leadership of their own parties. As we argue in [section
-14](append34.html#app14), such activities flow naturally from the vanguardist
+14](append34.md#app14), such activities flow naturally from the vanguardist
 politics of Leninism and should not come as a surprise.
 
 
@@ -1696,7 +1695,7 @@ us all to follow the path of Marxism-Leninism!
 
 The hypocrisy of their actions and arguments are clear. The question now
 arises, what do anarchists think of their action. As we argued in the [last
-section](append34.html#app12), while anarchists favour direct democracy (self-
+section](append34.md#app12), while anarchists favour direct democracy (self-
 management) when making decisions we also accept that minorities can and
 should ignore a majority decision if that decision is considered to be truly
 disastrous. However, any such decision must be made based on evaluating the
@@ -1724,7 +1723,7 @@ So it appears that minorities **can** and **should** ignore agreements -- as
 long as the minority in question are the leaders of the SWP and its sister
 parties. They have exposed themselves as being hypocrites. Like their heroes,
 Lenin and Trotsky, they will ignore democratic decisions when it suits them
-(see [next section](append34.html#app14)). This is sickening for numerous
+(see [next section](append34.md#app14)). This is sickening for numerous
 reasons -- it placed the rest of the demonstrators in danger, it weakened the
 demonstration itself and it shows that the SWP say one thing and do the exact
 opposite. They, and the political tradition they are part of, clearly are not
@@ -1743,7 +1742,7 @@ begin the rhetoric of "democracy." As can be seen, in practice the SWP happily
 ignores democracy when it suits them. The party always comes first, regardless
 of what the people it claims to represent actually want. In this they follow
 the actions of the Bolsheviks in power (see [next
-section](append34.html#app14)). Little wonder Marxism-Leninism is dying -- the
+section](append34.md#app14)). Little wonder Marxism-Leninism is dying -- the
 difference between what they claim and what they do is becoming increasingly
 well know.
 
@@ -1758,7 +1757,7 @@ undemocratic. Those, like the SWP, who are part of the Bolshevik tradition
 have no problem with minorities ignoring majority decisions -- as long as the
 minority in question is the leadership of the vanguard party. We discussed the
 example of the _"battle of Prague"_ in the [last
-section](append34.html#app13), now we turn to Bolshevism in power during the
+section](append34.md#app13), now we turn to Bolshevism in power during the
 Russian Revolution.
 
 For example, the Bolsheviks usually overthrew the results of provincial soviet
@@ -1773,11 +1772,11 @@ no. 42 (1983), pp. 1-50]
 
 In addition, the Bolsheviks abolished by decree soldiers' councils and the
 election of officers in the Red Army in favour of officers appointed from
-above (see [section 11](append32.html#app11) of the appendix [_"Marxism and
-Spanish Anarchism"_](append32.html) for details). They replaced self-managed
+above (see [section 11](append32.md#app11) of the appendix [_"Marxism and
+Spanish Anarchism"_](append32.md) for details). They replaced self-managed
 factory committees with appointed, autocratic managers (see M. Brinton's **The
-Bolsheviks and Workers Control** or [section 17](append32.html#app17) of the
-appendix [_"Marxism and Spanish Anarchism"_](append32.html) for details). All
+Bolsheviks and Workers Control** or [section 17](append32.md#app17) of the
+appendix [_"Marxism and Spanish Anarchism"_](append32.md) for details). All
 this before the start of the Russian Civil War. Similarly, Lenin and Trotsky
 happily replaced the democratically elected leaders of trade unions with their
 followers when it suited them.
@@ -2120,7 +2119,7 @@ event told people at each roadblock to do what they thought was right. _
 Firstly, we must point out that this argument is somewhat ironic coming from a
 party that ignored the agreed plan during the Prague anti-WTO demonstration
 and did _"what they thought was right"_ (see [section
-13](append34.html#app13)). Indeed, the various anti-capitalist demonstrations
+13](append34.md#app13)). Indeed, the various anti-capitalist demonstrations
 have been extremely effective and have been organised in an **anarchist**
 manner thus refuting the SWP.
 
@@ -2196,7 +2195,7 @@ all in the decision making process. Little wonder the SWP re-wrote history.
 and not anarchism?
 
 However, let us assume that the SWP's fictional account of the A16
-demonstration (see [ last section](append34.html#app16)) was, in fact, true.
+demonstration (see [ last section](append34.md#app16)) was, in fact, true.
 What does it actually mean? We must point out its interesting logic. They
 argue that the protests had a _"key organiser"_ which means they were
 centralised. They argue that the protestors looked to that person for
@@ -2390,7 +2389,7 @@ necessity. As anyone with even a basic grasp of anarchist history would know.
 
 Similarly for the SWP's claims that _"all the major anarchist organisations in
 history have been centralised."_ Such a claim is also a lie, as we shall prove
-in the sections [20](append34.html#app20) and [22](append34.html#app22).
+in the sections [20](append34.md#app20) and [22](append34.md#app22).
 
 
 
@@ -2425,7 +2424,7 @@ context.
 
 Thirdly, the reality of Bakunin's organisation is slightly different from the
 SWP's claims. We have discussed this issue in great detail in [section
-J.3.7](secJ3.html#secj37) of the FAQ. However, it is useful to indicate the
+J.3.7](secJ3.md#secj37) of the FAQ. However, it is useful to indicate the
 type of organisation Bakunin thought was necessary to aid the revolution. If
 we do, it soon becomes clear that the SWP's claim that it was _"not under the
 democratic control of its members"_ is not true. To do so we shall quote from
@@ -2559,9 +2558,9 @@ about anarchism. But, of course, this is what the SWP do -- and such a
 generalisation is simply a lie. The example of the F.A.I., the SWP's other
 example, indicates how most anarchist organisations work in practice --
 namely, a decentralised federation of autonomous groups (see [section
-22](append34.html#app22)).
+22](append34.md#app22)).
 
-Moreover, as we will indicate in the [next section](append34.html#app21), the
+Moreover, as we will indicate in the [next section](append34.md#app21), the
 SWP have little reason to attack Bakunin's ideas. This is because Lenin had
 similar (although not identical) ones on the question of organising
 revolutionaries in Tsarist Russia and because the SWP are renown for their
@@ -2575,14 +2574,14 @@ and revolution or the historical context in which they were shaped. Moreover,
 we also argue that their comments against Bakunin, ironically, apply with
 equal force to their own party which is renown, like all Bolshevik-style
 parties, as being undemocratic, top-down and authoritarian. We turn to this
-issue in the [next section.](append34.html#app21)
+issue in the [next section.](append34.md#app21)
 
 
 
 ## 21\. Why is the SWP's attack on Bakunin's organisation ironic?
 
 That the SWP attack Bakunin's organisational schema (see [last
-section](append34.html#app20)) is somewhat ironic. After all, the Bolshevik
+section](append34.md#app20)) is somewhat ironic. After all, the Bolshevik
 party system had many of the features of Bakunin's organisational plan. If
 Bakunin, quite rightly, should be attacked for certain aspects of these ideas,
 then so must Bolshevik parties like the SWP.
@@ -2660,7 +2659,7 @@ demanding an open debate on the matter."_ [quoted by Brinton, **Op. Cit.**, p.
 55f]
 
 The parallels with Bakunin's ideas are clear (see [last
-section](append34.html#app20)). However, it is to Bakunin's credit that he
+section](append34.md#app20)). However, it is to Bakunin's credit that he
 argued that while _"each regional group have to obey it [the central
 committee] unconditionally"_ he recognised that there existed _"cases where
 the orders of the Committee contradict either the general programme of the
@@ -2908,13 +2907,13 @@ Anarchy**, p. 33]
 
 As can be seen, instead of seeking state power, as Lenin's party desired,
 Bakunin's would seek _"natural influence"_ rather than _"official influence."_
-As we argued in [section J.3.7](secJ3.html#secj37), this meant influencing the
+As we argued in [section J.3.7](secJ3.md#secj37), this meant influencing the
 class struggle and revolution within the mass assemblies of workers'
 associations and communes and in their federations. Rather than seek state
 power and official leadership positions, as the Leninist party does, Bakunin's
 organisation rejected the taking of hierarchical positions in favour of
 working at the base of the organisation and providing a _"leadership of
-ideas"_ rather than of people (see [section J.3.6](secJ3.html#secj36)). While
+ideas"_ rather than of people (see [section J.3.6](secJ3.md#secj36)). While
 Bakunin's organisational structures are flawed from a libertarian perspective
 (although more democratic than Marxists claim) the way it works within popular
 organisations **is** libertarian and in stark contrast with the Leninist
@@ -2942,8 +2941,8 @@ They move onto Spanish Anarchism:
 centralised and secret. A revolutionary party thrives on open debate and
 common struggle with wider groups of workers."_
 
-We discuss this Marxist myth in more detail in [section 3](append32.html#app3)
-of the appendix on [_"Marxists and Spanish Anarchism"_](append32.html).
+We discuss this Marxist myth in more detail in [section 3](append32.md#app3)
+of the appendix on [_"Marxists and Spanish Anarchism"_](append32.md).
 However a few points are worth making. The F.A.I., regardless of what the SWP
 assert, was not centralised. It was a federation of autonomous affinity
 groups. As one member put it:
@@ -3024,8 +3023,8 @@ administrative."_ [**Op. Cit.**, pp. 29-30]
 
 Therefore, the claim that the F.A.I. was a centralised organisation is simply
 false. Rather it was a federation of autonomous groups, as can be seen (see
-also [section 3](append32.html#app3) of the appendix on [_"Marxists and
-Spanish Anarchism"_](append32.html) for more discussion on this topic).
+also [section 3](append32.md#app3) of the appendix on [_"Marxists and
+Spanish Anarchism"_](append32.md) for more discussion on this topic).
 
 Was the F.A.I. a _"secret"_ organisation? When it was founded in 1927, Spain
 was under the dictatorship of Primo de Rivera and so it was illegal and secret
@@ -3299,13 +3298,13 @@ workers' movement towards his ideas of mutualism and federalism. Hardly to be
 expected from someone who "despised" humanity for not overthrowing capitalism.
 As examples go, the SWP is clearly clutching at straws.
 
-Moreover, as we argued in the [ last section](append34.html#app23),
+Moreover, as we argued in the [ last section](append34.md#app23),
 revolutionary anarchists like Bakunin, Malatesta, Kropotkin, Goldman, Berkman,
 Rocker, etc., all placed a great deal of time and energy in trying to work
 within and influence workers' struggles and the labour movement in the here
 and now. They did not think that workers struggles would necessarily
 "spontaneously" break capitalism. While recognising, as we indicated in
-[section 10](append34.html#app10), that the class struggle changed the ideas
+[section 10](append34.md#app10), that the class struggle changed the ideas
 of those involved, they recognised the need for anarchist groups, papers,
 pamphlets to influence the class struggle in a libertarian way and towards a
 revolution. They were well aware that "spontaneous" uprisings occurred but
@@ -3390,8 +3389,7 @@ man they call anarchism and beat him to death. Unfortunately for them,
 anarchists are still around and can expose their lies for what they are.
 
 [‹ Reply to errors and distortions in Phil Mitchinson's "Marxism and direct
-action"](/afaq/append33.html "Go to previous page" ) [up](/afaq/append3.html
-"Go to parent page" ) [Reply to errors and distortions in John Fisher's "Why
-we must further Marxism and not Anarchism" ›](/afaq/append35.html "Go to next
-page" )
+action"](append33.md "Go to previous page" ) [up](append3.md "Go to parent
+page" ) [Reply to errors and distortions in John Fisher's "Why we must further
+Marxism and not Anarchism" ›](append35.md "Go to next page" )
 

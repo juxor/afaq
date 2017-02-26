@@ -23,11 +23,11 @@ more than just analysing what is wrong with the world, it also aims to change
 it.
 
 First, though, we start with an account of individualist anarchism ([section
-G](http://anarchism.pageabode.com/afaq/secGcon.html)). It is fair to say that
-individualist anarchism has generally been on the margin of accounts of
-anarchism. This, undoubtedly, reflects the fact it has been predominantly a
-North American movement and was always a small minority within the global
-anarchist movement. Even in the USA, it was eclipsed by social anarchism.
+G](secGcon.md)). It is fair to say that individualist anarchism has
+generally been on the margin of accounts of anarchism. This, undoubtedly,
+reflects the fact it has been predominantly a North American movement and was
+always a small minority within the global anarchist movement. Even in the USA,
+it was eclipsed by social anarchism.
 
 As such, it has been somewhat overlooked in accounts of anarchism and **AFAQ**
 seeks to correct that. Unfortunately, it has also to address claims that
@@ -44,16 +44,16 @@ the material on “anarcho”-capitalism being placed in an appendix where it
 belongs).
 
 This means that in some regards, section G can be considered as a continuation
-of [section F](http://anarchism.pageabode.com/afaq/secFcon.html) (which is on
-why “anarcho”-capitalism is not a form of anarchism). Individualist anarchism
-**_is_** the form of anarchism closest to liberalism and, as a consequence, to
-“anarcho”-capitalism. However, similarities do not equate to the former being
-a (flawed, from an “anarcho”-capitalist perspective) forerunner of the latter.
-If this were the case then some would assert that social anarchism is a form
-of Marxism. There are overlaps, of course, but then again there are overlaps
-between individualist anarchism, Marxism and social anarchism. Yet, for all
-its differences with social anarchism, individualist anarchism shared a
-critique of capitalism and the state which has significant commonality.
+of [section F](secFcon.md) (which is on why “anarcho”-capitalism is not a
+form of anarchism). Individualist anarchism **_is_** the form of anarchism
+closest to liberalism and, as a consequence, to “anarcho”-capitalism. However,
+similarities do not equate to the former being a (flawed, from an
+“anarcho”-capitalist perspective) forerunner of the latter. If this were the
+case then some would assert that social anarchism is a form of Marxism. There
+are overlaps, of course, but then again there are overlaps between
+individualist anarchism, Marxism and social anarchism. Yet, for all its
+differences with social anarchism, individualist anarchism shared a critique
+of capitalism and the state which has significant commonality.
 
 Individualist anarchism is a unique political theory and it does it a
 disservice to reduce it to simply a flawed precursor of an ideology whose
@@ -118,16 +118,15 @@ movement and so it is perfectly possible for each to coexist happily in a free
 society as well as, on certain issues and tactics, to work fruitfully together
 in resisting capitalism and the state.[3]
 
-We then turn to discuss Marxism and its flaws ([section
-H](http://anarchism.pageabode.com/afaq/secHcon.html)). To be honest, it is
-staggering that this section even needs to be written given that the anarchist
-critique of Marxism has been validated time and time again. It is like writing
-a book on evolution and spending a significant time refuting the claims of
-Lamarckian theory. Sadly, though, many radicals seem unable to grasp the facts
-of history, namely that the predictions made by anarchism as regards Marxism
-have come to pass. Bakunin was right: social democracy did become reformist
-and the dictatorship of the proletariat became the dictatorship **_over_** the
-proletariat.
+We then turn to discuss Marxism and its flaws ([section H](secHcon.md)). To
+be honest, it is staggering that this section even needs to be written given
+that the anarchist critique of Marxism has been validated time and time again.
+It is like writing a book on evolution and spending a significant time
+refuting the claims of Lamarckian theory. Sadly, though, many radicals seem
+unable to grasp the facts of history, namely that the predictions made by
+anarchism as regards Marxism have come to pass. Bakunin was right: social
+democracy did become reformist and the dictatorship of the proletariat became
+the dictatorship **_over_** the proletariat.
 
 This critique is not to suggest that anarchists should reject everything Marx
 argued.[4] In terms of his critique of capitalism, there is much that
@@ -175,14 +174,13 @@ ideas. I’ve lost count of the times I have seen blatantly false claims about
 anarchism raised by Marxists. I’m not that surprised, as few Marxists actually
 bother to read the likes of Proudhon, Bakunin and Kropotkin. Instead, they
 simply repeat what other Marxists have claimed about anarchism (starting, of
-course, with Marx and Engels). This explains why [section
-H.2](http://anarchism.pageabode.com/afaq/secH2.html) has so many quotes in it,
-simply to drive home what would be obvious to anyone familiar with anarchist
-theory and practice. A few quotes could be dismissed as selective, a multitude
-cannot. I’m sorry that has to be done, but the regularity of abysmally bad
-Marxist diatribes against anarchism means that it had to be done in such
-detail. Sadly, I’m sure that refuting these habitual false assertions in
-**AFAQ** it will not stop Marxists repeating them.
+course, with Marx and Engels). This explains why [section H.2](secH2.md) has
+so many quotes in it, simply to drive home what would be obvious to anyone
+familiar with anarchist theory and practice. A few quotes could be dismissed
+as selective, a multitude cannot. I’m sorry that has to be done, but the
+regularity of abysmally bad Marxist diatribes against anarchism means that it
+had to be done in such detail. Sadly, I’m sure that refuting these habitual
+false assertions in **AFAQ** it will not stop Marxists repeating them.
 
 Marxist myths on anarchism also feeds into section G, given that many Marxists
 have been at pains to portray anarchism as being simply “anti-state” (in this,
@@ -190,7 +188,6 @@ they share common-ground with the propertarians). Yet even a cursory glance of
 anarchist theory and history shows that it has _never_ limited itself to just
 a critique of the state. As long as anarchism has been a named socio-economic
 theory we have directed our fire at both state **_and_** property. [_Property
-is Theft!_](http://www.property-is-theft.org), my new anthology of Proudhon’s
 writings, shows how interlinked the anarchist opposition to the state and
 capitalism has been from the start. Thus we find Proudhon arguing that _“the
 capitalist principle” _and the _“governmental principle are one and the same
@@ -208,23 +205,21 @@ socialism and so exclude anarchism, by definition, from anti-capitalism.
 
 After Marxism, we move onto more constructive and fruitful subjects, namely
 anarchist ideas of what a free society could be like ([section
-I](http://anarchism.pageabode.com/afaq/secIcon.html)) and what we do in the
-here and now to bring it closer and to make our lives better ([section
-J](http://anarchism.pageabode.com/afaq/secJcon.html)).
+I](secIcon.md)) and what we do in the here and now to bring it closer and to
+make our lives better ([section J](secJcon.md)).
 
-[Section I](http://anarchism.pageabode.com/afaq/secIcon.html) is important,
-simply because it presents a rough outline of what anarchists have suggested
-would characterise a free society. So we discuss workers self-management,
-community self-government, economic and social federalism, anti-social
-behaviour in a free society, and a host of other issues. While many people,
-particularly Marxists, question the wisdom of discussing the future society
-(Marx’s comment on “writing the cookbooks of the future” springs to mind[7]),
-anarchists have been more willing to sketch out a rough vision of what a free
-society could be like. This may come as a surprise for some (infatuated with
-Bakunin’s pre-anarchist comment that _“the urge to destroy is a creative
-urge”_) but in reality anarchism has always been a constructive socio-economic
-theory and anarchist thinkers have always been more than willing to sketch
-what a free society _could_ be.
+[Section I](secIcon.md) is important, simply because it presents a rough
+outline of what anarchists have suggested would characterise a free society.
+So we discuss workers self-management, community self-government, economic and
+social federalism, anti-social behaviour in a free society, and a host of
+other issues. While many people, particularly Marxists, question the wisdom of
+discussing the future society (Marx’s comment on “writing the cookbooks of the
+future” springs to mind[7]), anarchists have been more willing to sketch out a
+rough vision of what a free society could be like. This may come as a surprise
+for some (infatuated with Bakunin’s pre-anarchist comment that _“the urge to
+destroy is a creative urge”_) but in reality anarchism has always been a
+constructive socio-economic theory and anarchist thinkers have always been
+more than willing to sketch what a free society _could_ be.
 
 And that is the key, this is what anarchy _could_ be like. As we are at pains
 to stress, we are not presenting a blueprint: it is a series of suggestions
@@ -273,18 +268,17 @@ of the proletariat be[ing] formed . . . in opposition to the bourgeoisie’s
 representation.”_[11]
 
 Which brings us nicely to the last section, on what do anarchists do? In
-[section J](http://anarchism.pageabode.com/afaq/secJcon.html) we summarise how
-anarchists see social change happening. There are substantial discussions on
-alternative forms of social organisation we advocate and how they are the
-embryonic forms of a free society we create while resisting the current
-oppressive one. Thus, for example, we discuss how the federations of workplace
-assemblies we urge to fight the bosses become the means by which co-operative
-production is organised in a free society while the neighbourhood assemblies
-created as a counter-power to the state become the means by which free
-individuals manage their communities. As will soon become clear, Marxist myths
-not withstanding, anarchists stress the importance of working class struggle
-in changing the world. Kropotkin summarised the libertarian perspective well
-in 1907:
+[section J](secJcon.md) we summarise how anarchists see social change
+happening. There are substantial discussions on alternative forms of social
+organisation we advocate and how they are the embryonic forms of a free
+society we create while resisting the current oppressive one. Thus, for
+example, we discuss how the federations of workplace assemblies we urge to
+fight the bosses become the means by which co-operative production is
+organised in a free society while the neighbourhood assemblies created as a
+counter-power to the state become the means by which free individuals manage
+their communities. As will soon become clear, Marxist myths not withstanding,
+anarchists stress the importance of working class struggle in changing the
+world. Kropotkin summarised the libertarian perspective well in 1907:
 
 > _“Workmen’s organisations are the real force capable of accomplishing the
 social revolution – after the awakening of the proletariat has been
@@ -334,10 +328,9 @@ It must also be noted that the sections within this volume have been slightly
 edited to ensure that it approximates volume 1 in size. This has involved
 trimming around a tenth of the material. I have tried to cut non-essential
 paragraphs and sub-sections to ensure that the core of the arguments remain
-intact. This means that, for example, [section
-H.2](http://anarchism.pageabode.com/afaq/secH2.html) (which debunks various
-Marxist myths about anarchism) ends on section H.2.11 in print but goes to
-section H.2.14 on-line. This was done with a heavy heart.
+intact. This means that, for example, [section H.2](secH2.md) (which debunks
+various Marxist myths about anarchism) ends on section H.2.11 in print but
+goes to section H.2.14 on-line. This was done with a heavy heart.
 
 Since volume 1 has been published, significant changes have occurred in the
 world. Neo-liberalism has taken a battering as the inevitable consequences of
@@ -350,8 +343,7 @@ organise and resist then governments, political discourse, economies and
 economic ideology will simply continue on as before – and those who will pay
 the costs of the crisis will not be the ruling class that created it.
 
-On a more positive note, [section
-B.1](http://anarchism.pageabode.com/afaq/secB1.html) of **AFAQ** indicated how
+On a more positive note, [section B.1](secB1.md) of **AFAQ** indicated how
 hierarchies of wealth and power adversely affect those subject to them. **The
 Spirit Level: Why More Equal Societies Almost Always Do Better** by Richard
 Wilkinson and Kate Pickett presents more evidence on this subject, noting that
@@ -365,7 +357,6 @@ pregnancy and obesity, and higher rates of literacy and social trust. All of
 which confirm the anarchist analysis of the harmful effects of inequality in
 wealth and power.
 
-**AFAQ** has moved its main site location (although the various aliases we have remain the same).[14] As a result, it also has a blog in which we post supplemental material on anarchism and news about the FAQ itself (such as updates).[15] Notable postings include the 2008 article marking the 150th anniversary of the use of the term “libertarian” by anarchists ([_150 years of libertarian_](http://anarchism.pageabode.com/afaq/150-years-of-libertarian)), a supplement to our appendix on anarchist symbols contained in volume 1 ([_The Red Flag of Anarchy_](http://anarchism.pageabode.com/afaq/the-red-flag-of-anarchy)) and [an unfinished appendix](http://anarchism.pageabode.com/blogs/afaq/secCapp.html) to [section C](http://anarchism.pageabode.com/afaq/secCcon.html) explaining classical economics from a socialist perspective.
 
 Finally, on a personal note, I dedicate this volume, like the first, to my
 family. I hope that this work will help, however slightly, to make the world a
@@ -388,7 +379,6 @@ And if we do resist? Well, we may well change the world…
 
 Iain McKay
 
-[www.anarchistfaq.org.uk](http://www.anarchistfaq.org.uk/)
 
 * * *
 
@@ -398,27 +388,23 @@ Iain McKay
 [2] **The Betrayal of the American Right**, Ludwig von Mises Institute, p. 83
 
 [3] I would also like to take the opportunity to thank individualist anarchist
-Shawn Wilbur for his valued input into [section
-G](http://anarchism.pageabode.com/afaq/secGcon.html) and the suggestions he
-made after reading the first drafts sent to him. Without this help, and the
-numerous works of nineteenth century anarchism he has placed on-line, this
-section would not be as comprehensive as it has become.
+Shawn Wilbur for his valued input into [section G](secGcon.md) and the
+suggestions he made after reading the first drafts sent to him. Without this
+help, and the numerous works of nineteenth century anarchism he has placed on-
+line, this section would not be as comprehensive as it has become.
 
 [4] Nor, for that matter, that there are no libertarian Marxists. There are,
-as we indicated in [section
-A.4.4](http://anarchism.pageabode.com/afaq/secA4.html#seca44) of volume 1 of
-**AFAQ**. Why they continue to call themselves Marxists while rejecting Marx’s
-ideas on numerous key issues (and implicitly agreeing with Bakunin in the
-process) is a mystery.
+as we indicated in [section A.4.4](secA4.md#seca44) of volume 1 of **AFAQ**.
+Why they continue to call themselves Marxists while rejecting Marx’s ideas on
+numerous key issues (and implicitly agreeing with Bakunin in the process) is a
+mystery.
 
 [5] We are aware that many Marxists reject the suggestion that Leninism is
 actually Marxist – a position we show has some validity. We argue that it was
 not only anarchism which Lenin distorted in **State and Revolution** but also
 important aspects of the ideas of Marx and Engels on such key issues as the
-state (see [section
-H.3.10](http://anarchism.pageabode.com/afaq/secH3.html#sech310), for example).
+state (see [section H.3.10](secH3.md#sech310), for example).
 
-[6] [**Property is Theft!**](http://www.property-is-theft.org), p. 496, p.
 535, p. 503 and p. 506
 
 [7] If Marx had been a bit more forthcoming then the likes of Stalin would
@@ -440,21 +426,16 @@ is _“inevitably enchained to capital and directed against the proletariat.”_
 the introduction to volume 1, the words used by previous generations of
 anarchists are dated and would appear sexist if uttered today. Suffice to say,
 Kropotkin was in favour of working women unionising. As discussed in [section
-A.3.5](http://anarchism.pageabode.com/afaq/secA3.html#seca35), with the
-notable exception of Proudhon, anarchists are for equality between the sexes –
-even if they unthinkingly used the sexist terminology of their time (Emma
-Goldman, for example, used “man” to describe all humanity).
+A.3.5](secA3.md#seca35), with the notable exception of Proudhon, anarchists
+are for equality between the sexes – even if they unthinkingly used the sexist
+terminology of their time (Emma Goldman, for example, used “man” to describe
+all humanity).
 
 [13] quoted by Woodcock and Avakumovic, **Op. Cit.**, p. 295
 
-[14] Namely: [www.anarchistfaq.org](http://www.anarchistfaq.org),
-[www.anarchismfaq.org](http://www.anarchismfaq.org),
-[www.anarchyfaq.org](http://www.anarchyfaq.org) and
-[www.anarchistfaq.org.uk](http://www.anarchistfaq.org.uk).
 
-[15] It can be found at: <http://anarchism.pageabode.com/blogs/afaq>
 
-[‹ An Anarchist FAQ: Introduction to Volume 1](/afaq/vol1intro.html "Go to
-previous page" ) [up](/afaq/intro.html "Go to parent page" ) [What Anarchists
-Say about An Anarchist FAQ ›](/afaq/quotes.html "Go to next page" )
+[‹ An Anarchist FAQ: Introduction to Volume 1](vol1intro.md "Go to previous
+page" ) [up](intro.md "Go to parent page" ) [What Anarchists Say about An
+Anarchist FAQ ›](quotes.md "Go to next page" )
 

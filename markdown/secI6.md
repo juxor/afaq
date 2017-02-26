@@ -155,7 +155,7 @@ Stalinism in the Eastern Block and elsewhere shows that public property leads
 to pollution and destruction of natural resources. Such arguments also show a
 lack of awareness of what common property actually is (it is no co-incidence
 that the propertarian-right use such an argument). This is because the
-resources in question, as we discussed in [section B.3.5](secB3.html#secb35),
+resources in question, as we discussed in [section B.3.5](secB3.md#secb35),
 were **not** owned or managed in common -- the fact that these countries were
 dictatorships excluded popular control of resources. Thus Stalinism does not,
 in fact, show the dangers of having commons or public ownership. Rather it
@@ -215,11 +215,11 @@ hardly keep a cow but half starve her."_ [quoted by Maurice Dobb, **Studies in
 the Development of Capitalism**, p. 173] The working class is only "left
 alone" to starve.
 
-As discussed in [section F.8](secF8.html), the enclosures were part of a wider
+As discussed in [section F.8](secF8.md), the enclosures were part of a wider
 state-imposition of capitalism onto society. Of course, enclosure was often
 justified by supporters of capitalism by the increased productivity which,
 they claim, resulted from it (in effect, repeating Locke's earlier, and
-flawed, argument -- see [section B.3.4](secB3.html#secb34)). There are three
+flawed, argument -- see [section B.3.4](secB3.md#secb34)). There are three
 objections to this. First, it cannot be assumed that increased productivity
 could not be achieved by keeping the commons and by the commoners applying the
 improved techniques and technologies that contributed to any post-enclosure
@@ -251,7 +251,7 @@ resources for people are aware that their offspring will need them and so be
 inclined to look after them. By having more resources available, they would be
 able to resist the pressures of short-termism and so resist maximising current
 production without regard for the future. Capitalist owners have the opposite
-incentive for, as argued in [section E.3](secE3.html), unless they maximise
+incentive for, as argued in [section E.3](secE3.md), unless they maximise
 short-term profits then they will not be around in the long-term (so if wood
 means more profits than centuries-old forests then the trees will be chopped
 down). By combining common ownership with decentralised and federated communal
@@ -305,7 +305,7 @@ society anarchists hope for would also be based upon such a principle.
 
 In effect, critics of social anarchism confuse property with possession and
 think that abolishing property automatically abolishes possession and use
-rights. However, as argued in [section B.3](secB3.html), property and
+rights. However, as argued in [section B.3](secB3.md), property and
 possession are distinctly different. In the words of Charlotte Wilson:
 
 > _"**Property** is the **domination** of an individual, or a coalition of
@@ -319,7 +319,7 @@ defrauding the whole community."_ [**Anarchist Essays**, p. 40]
 
 Thus an anarchist society has a simple and effective means of deciding how
 communally owned resources are used, one based on possession and usufruct. The
-key thing to remember, as discussed in [section I.3.3](secI3.html#seci33), is
+key thing to remember, as discussed in [section I.3.3](secI3.md#seci33), is
 that socialisation means that **access** is free: users of a resource are not
 subjected to hierarchical social relationships in order to use it.
 Socialisation does not mean that people can, say, wander into someone's
@@ -434,11 +434,11 @@ replace property rights in an anarchist society. In other words, individuals
 can exchange their labour as they see fit and occupy land for their own use.
 This in no way contradicts the abolition of private property, because
 occupancy and use is directly opposed to private property (see [section
-B.3](secB3.html)). Socialisation is rooted in this concept of _"occupancy and
+B.3](secB3.md)). Socialisation is rooted in this concept of _"occupancy and
 use"_ and this means that in a free communist society individuals can occupy
 and use whatever land and such tools and equipment as they need -- they do not
 have to join the free communist society (see [section
-I.5.7](secI5.html#seci57)). If they do not, however, they cannot place claims
+I.5.7](secI5.md#seci57)). If they do not, however, they cannot place claims
 on the benefits others receive from co-operation and communal life.
 
 This can be seen from Charlotte Wilson's discussions on anarchism written a
@@ -465,7 +465,7 @@ In other words, **possession** replaces private property in a free society.
 This applies to those who decide to join a free communist society and those
 who desire to remain outside. This is clear from the works of many leading
 theorists of free communism (as indicated in [section
-G.2.1](secG2.html#secg21)), none of whom thought the occupying of land for
+G.2.1](secG2.md#secg21)), none of whom thought the occupying of land for
 personal use (or a house or the means of production) entailed the _"right of
 private property."_ For example, looking at land we find both Kropotkin and
 Proudhon arguing along the same lines. For the former: _"Who, then, can
@@ -565,7 +565,7 @@ Spanish Revolution, with people free to remain outside the collective working
 only as much land and equipment as they could _"occupy and use"_ by their own
 labour. Similarly, the individuals within the collective worked in common and
 took what they needed from the communal stores (see [section
-I.8](secI8.html)).
+I.8](secI8.md)).
 
 MacKay's comments raise another interesting point. Given that Individualist
 Anarchists oppose the current system of private property in land, **their**
@@ -573,7 +573,7 @@ system entails that _"society ha[s] the right of control over the
 individual."_ If we look at the _"occupancy and use"_ land system favoured by
 the likes of Tucker, we discover that it is based on restricting property in
 land (and so the owners of land). As discussed in [section
-G.1.2](secG1.html#secg12), the likes of Tucker looked forward to a time when
+G.1.2](secG1.md#secg12), the likes of Tucker looked forward to a time when
 public opinion (i.e., society) would limit the amount of land which
 individuals could acquire and so, from MacKay's perspective, controlling their
 actions and violating their autonomy. Which, we must say, is not surprising as
@@ -585,7 +585,7 @@ acknowledge.
 MacKay goes on to state that _"every serious man must declare himself: for
 Socialism, and thereby for force and against liberty, or for Anarchism, and
 thereby for liberty and against force."_ [**Op. Cit.**, p. 32] Which, we must
-note, is a strange statement for, as indicated in [section G.1](secG1.html),
+note, is a strange statement for, as indicated in [section G.1](secG1.md),
 individualist anarchists like Benjamin Tucker considered themselves socialists
 and opposed capitalist private property (while, confusingly, many of them
 calling their system of possession "property").
@@ -594,7 +594,7 @@ However, MacKay's statement begs the question: does private property support
 liberty? He does not address or even acknowledge the fact that private
 property will inevitably lead to the owners of such property gaining control
 over the individuals who use, but do not own, it and so denying them liberty
-(see [section B.4](secB4.html)). As Proudhon argued:
+(see [section B.4](secB4.md)). As Proudhon argued:
 
 > _"The purchaser draws boundaries, fences himself in, and says, 'This is
 mine; each one by himself, each one for himself.' Here, then, is a piece of
@@ -610,7 +610,7 @@ Of course, as Proudhon suggested, the non-owner can gain access to the
 property by becoming a servant, by selling their liberty to the owner and
 agreeing to submit to the owner's authority. Little wonder that he argued that
 the _"second effect of property is despotism."_ [**Op. Cit.**, p. 259] As
-discussed in [section G.4.1](secG4.html#secg41), this points to a massive
+discussed in [section G.4.1](secG4.md#secg41), this points to a massive
 contradiction in any form of individualist anarchism which defends private
 property which goes beyond possession and generates wage-labour. This is
 because both the state and the property owner **both** assume sole authority
@@ -671,8 +671,7 @@ Goldman that _"it is our endeavour to abolish private property, State . . . we
 aim to free men from tyrants and government."_ [**A Documentary History of the
 American Years**, vol. 1, p. 181]
 
-[‹ I.5 What could the social structure of anarchy look like?](/afaq/secI5.html
-"Go to previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.7
-Won't Libertarian Socialism destroy individuality? ›](/afaq/secI7.html "Go to
-next page" )
+[‹ I.5 What could the social structure of anarchy look like?](secI5.md "Go
+to previous page" ) [up](secIcon.md "Go to parent page" ) [I.7 Won't
+Libertarian Socialism destroy individuality? ›](secI7.md "Go to next page" )
 

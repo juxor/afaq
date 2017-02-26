@@ -148,7 +148,7 @@ ruling class, becomes clearly undesirable and unnecessary. Thus the framework
 of the free society will be created by the very process of class struggle, as
 working class people create the organisations required to fight for
 improvements and change within capitalism (see [section
-I.2.3](secI2.html#seci23) ).
+I.2.3](secI2.md#seci23) ).
 
 Thus, the **actual** framework of an anarchist society and how it develops and
 shapes itself is dependent on the needs and desires of those who live in such
@@ -283,7 +283,7 @@ However, the most important reason for discussing what an anarchist society
 would look like is to ensure that the creation of such a society is the action
 of as many people as possible. As Errico Malatesta indicated in the middle of
 the Italian revolutionary _"Two Red Years"_ (see [section
-A.5.5](secA5.html#seca55)), _"either we all apply our minds to thinking about
+A.5.5](secA5.md#seca55)), _"either we all apply our minds to thinking about
 social reorganisation, and right away, at the very same moment that the old
 structures are being swept away, and we shall have a more humane and more just
 society, open to future advances, or we shall leave such matters to the
@@ -372,7 +372,7 @@ against the privileged class, can wipe out class difference."_ [Luigi Fabbri,
 _"Anarchy and 'Scientific' Communism"_, pp. 13-49, **The Poverty of Statism**,
 pp. 13-49, Albert Meltzer (ed.), p. 30]
 
-As we discussed in [section H.2.5](secH2.html#sech25) , few anarchists
+As we discussed in [section H.2.5](secH2.md#sech25) , few anarchists
 consider it likely that a perfectly functioning libertarian communist society
 would be the immediate effect of a social revolution. For anarchists a social
 revolution is a **process** and not an event (although, of course, a process
@@ -457,11 +457,11 @@ _"political transformation"_ and _"economic transformation"_ must be
 _"accomplished together and simultaneously."_ [Bakunin, **The Basic Bakunin**,
 p. 106] This transformation would be based upon the organisations created by
 working class people in their struggle against capitalism and the state (see
-[next section](secI2.html#seci23)). Thus the framework of a free society would
+[next section](secI2.md#seci23)). Thus the framework of a free society would
 be created by the struggle for freedom itself, by the class struggle
 **within** but **against** hierarchical society. This revolution would come
 **_"from below"_** and would expropriate capital as well as smash the state
-(see [section H.2.4](secH2.html#sech24)). Such a society, as Bakunin argued,
+(see [section H.2.4](secH2.md#sech24)). Such a society, as Bakunin argued,
 will not be "perfect" by any means:
 
 > _"I do not say that the peasants [and workers], freely organised from the
@@ -597,7 +597,7 @@ movements. However, this does not mean that the destruction of the state and
 capitalism need be put off until after the forces of reaction are defeated.
 For anarchists, a social revolution and free society can only be defended by
 anti-statist means (for more discussion of this important subject see [section
-J.7.6](secJ7.html#secj76)).
+J.7.6](secJ7.md#secj76)).
 
 So, given an anarchist revolution which destroys the state, the type and
 nature of the economic system created by it will depend on local circumstances
@@ -712,7 +712,7 @@ own activities which is required for such a society to function successfully.
 
 Therefore, as is clear, anarchists have long had a clear vision of what an
 anarchist society would look like and, equally as important, where such a
-society would spring from (as we proved in [section H.1.4](secH1.html#sech14)
+society would spring from (as we proved in [section H.1.4](secH1.md#sech14)
 Lenin's assertion that anarchists _"have absolutely no clear idea of **what**
 the proletariat will put in its [the states] place"_ is simply false). It
 would, therefore, be useful to give a quick summary of anarchist views on this
@@ -805,7 +805,7 @@ but in the **deeds** of the Great French Revolution"_ and that _"the
 libertarians would no doubt do the same to-day."_ [**The Great French
 Revolution**, vol. 1, p. 261, p. 200, p. 203, p. 206, p. 204 and p. 206]
 
-Similarly, as we noted in [section H.2.6](secH2.html#sech26) we discover him
+Similarly, as we noted in [section H.2.6](secH2.md#sech26) we discover him
 arguing in **Mutual Aid** that strikes and labour unions were an expression of
 mutual aid in capitalist society. Elsewhere, Kropotkin argued that _"labour
 combinations"_ like the _"Sections"_ of French revolution were one of the
@@ -889,7 +889,7 @@ in the pursuit of a free society must be based on resisting and destroying
 those evils. This is why anarchists stress tactics and organisations which
 increase the power, confidence, autonomy, initiative, participation and self-
 activity of oppressed people. As we indicate in section J ([_"What Do
-Anarchists Do?"_](secJcon.html)) this means supporting direct action,
+Anarchists Do?"_](secJcon.md)) this means supporting direct action,
 solidarity and self-managed organisations built and run from the bottom-up.
 Only by fighting our own battles, relying on ourselves and our own abilities
 and power, in organisations we create and run ourselves, can we gain the power
@@ -925,7 +925,7 @@ will no longer surrender to anyone the initiative in creative work. The
 working class will then direct itself by its own thought; it will create its
 society according to its own plans."_ [Arshinov, **Op. Cit.**, pp. 240-1] All
 anarchists can do is help this process by being part of it, arguing our case
-and winning people over to anarchist ideas (see [section J.3](secJ3.html) for
+and winning people over to anarchist ideas (see [section J.3](secJ3.md) for
 more details). Thus the process of struggle and debate will, hopefully, turn a
 struggle **against** capitalism and statism into one **for** anarchism. In
 other words, anarchists seek to preserve and extend the anarchistic elements
@@ -988,8 +988,7 @@ change. However, the fundamental principles of a free society will not change
 and so it is useful to present a summary of how such a society could work,
 based on these principles.
 
-[‹ I.1 Isn't libertarian socialism an oxymoron?](/afaq/secI1.html "Go to
-previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.3 What could
-the economic structure of anarchy look like? ›](/afaq/secI3.html "Go to next
-page" )
+[‹ I.1 Isn't libertarian socialism an oxymoron?](secI1.md "Go to previous
+page" ) [up](secIcon.md "Go to parent page" ) [I.3 What could the economic
+structure of anarchy look like? ›](secI3.md "Go to next page" )
 

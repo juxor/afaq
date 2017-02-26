@@ -18,7 +18,7 @@ symptoms **by themselves** can be little more than a minor palliative and,
 fundamentally, pointless as they will simply keep reappearing until their root
 causes are eliminated.
 
-For anarchists, as we noted in [section A.3.3](secA3.html#seca33), the root
+For anarchists, as we noted in [section A.3.3](secA3.md#seca33), the root
 causes for our ecological problems lie in social problems. Bookchin uses the
 terms _"first nature"_ and _"second nature"_ to express this idea. First
 nature is the environment while second nature is humanity. The latter can
@@ -98,7 +98,7 @@ regions, but also the basic natural cycles on which all living things
 depend."_ [Bookchin, **Ecology of Freedom**, p. 411 and p. 83]
 
 This has its roots in the "grow-or-die" nature of capitalism we discussed in
-[section D.4](secD4.html). An ever-expanding capitalism must inevitably come
+[section D.4](secD4.md). An ever-expanding capitalism must inevitably come
 into collision with a finite planet and its fragile ecology. Firms whose aim
 is to maximise their profits in order to grow will happily exploit whoever and
 whatever they can to do so. As capitalism is based on exploiting people, can
@@ -141,7 +141,7 @@ capitalist economy: namely, to commit economic suicide. This helps explain
 another key anti-ecological tendency within capitalism, namely the drive to
 externalise costs of production (i.e., pass them on to the community at large)
 in order to minimise private costs and so maximise profits and so growth. As
-we will discuss in more detail in [section E.3](secE3.html), capitalism has an
+we will discuss in more detail in [section E.3](secE3.md), capitalism has an
 in-built tendency to externalise costs in the form of pollution as it rewards
 the kind of short-term perspective that pollutes the planet in order to
 maximise the profits of the capitalist. This is also driven by the fact that
@@ -156,7 +156,7 @@ incompatible with ecological evolution."_ [**Ecology of Freedom**, p. 14] It
 lacks a sustainable relation to nature not due to chance, ignorance or bad
 intentions but due to its very nature and workings.
 
-Fortunately, as we discussed in [section D.1](secD1.html), capitalism has
+Fortunately, as we discussed in [section D.1](secD1.md), capitalism has
 rarely been allowed to operate for long entirely on its own logic. When it
 does, counter-tendencies develop to stop society being destroyed by market
 forces and the need to accumulate money. Opposition forces always emerge,
@@ -174,7 +174,7 @@ fundamental reason for our ecological problems then it logically follows that
 the state **cannot** be used to either create and manage an ecological
 society. It is a hierarchical, centralised, top-down organisation based on the
 use of coercion to maintain elite rule. It is, as we stressed in [section
-B.2](secB2.html), premised on the monopolisation of power in the hands of a
+B.2](secB2.md), premised on the monopolisation of power in the hands of a
 few. In other words, it is the opposite of commonly agreed ecological
 principles such as freedom to develop, decentralisation and diversity.
 
@@ -243,7 +243,7 @@ two anti-ecological institutions are unlikely to produce long term
 environmental solutions. This is because while state intervention can result
 in beneficial constraints on the anti-ecological and anti-social dynamics of
 capitalism, it is always limited by the nature of the state itself. As we
-noted in [section B.2.1](secB2.html#secb21), the state is an instrument of
+noted in [section B.2.1](secB2.md#secb21), the state is an instrument of
 class rule and, consequently, extremely unlikely to impose changes that may
 harm or destroy the system itself. This means that any reform movement will
 have to fight hard for even the most basic and common-sense changes while
@@ -272,10 +272,10 @@ hierarchical society. Only when we take a keen interest and act to create and
 enforce reforms will they stand any chance of being applied successfully. If
 such social pressure does not exist, then any reform will remain a dead-letter
 and ignored by those seeking to maximise their profits at the expense of both
-people and planet. As we discuss in [section J](secJcon.html), this involves
+people and planet. As we discuss in [section J](secJcon.md), this involves
 creating alternative forms of organisation like federations of community
-assemblies (see [section J.5.1](secJ5.html#secj51)) and industrial unions (see
-[section J.5.2](secJ5.html#secj52)). Given the nature of both a capitalist
+assemblies (see [section J.5.1](secJ5.md#secj51)) and industrial unions (see
+[section J.5.2](secJ5.md#secj52)). Given the nature of both a capitalist
 economy and the state, this makes perfect sense.
 
 In summary, the root cause of our ecological problems likes in hierarchy
@@ -296,7 +296,7 @@ organisations.
 Some environmentalists argue that the root cause of our ecological crisis lies
 in industry and technology. This leads them to stress that "industrialism" is
 the problem and that needs to be eliminated. An extreme example of this is
-primitivism (see [section A.3.9](secA3.html#seca39)), although it does appear
+primitivism (see [section A.3.9](secA3.md#seca39)), although it does appear
 in the works of "deep ecologists" and liberal greens. However, most anarchists
 are unconvinced and agree with Bookchin when he noted that "cries against
 'technology' and 'industrial society' [are] two very safe, socially natural
@@ -332,7 +332,7 @@ For supporters of capitalism, this was due to the lack of private property in
 these systems while, for greens, it showed that environmental concerns where
 above both capitalism and "socialism." Needless to say, by "capitalism"
 anarchists mean both private and state forms of that system. As we argued in
-[section B.3.5](secB3.html#secb35), under Stalinism the state bureaucracy
+[section B.3.5](secB3.md#secb35), under Stalinism the state bureaucracy
 controlled and so effectively owned the means of production. As under private
 capitalism, an elite monopolised decision making and aimed to maximise their
 income by oppressing and exploiting the working class. Unsurprisingly, they
@@ -377,7 +377,7 @@ trail-blazing this process. The centralisation of power which accompanies such
 neo-liberal experiments reduces social pressures on the state and ensures that
 business interests take precedence.
 
-As we argued in [section D.10](secD10.html), the way that technology is used
+As we argued in [section D.10](secD10.md), the way that technology is used
 and evolves will reflect the power relations within society. Given a
 hierarchical society, we would expect a given technology to be used in
 repressive ways regardless of the nature of that technology itself. Bookchin
@@ -446,7 +446,7 @@ destructive to non-human and human beings alike is precisely the kind of
 
 ## E.1.2 What is the difference between environmentalism and ecology?
 
-As we noted in [section A.3.3](secA3.html#seca33), eco-anarchists contrast
+As we noted in [section A.3.3](secA3.md#seca33), eco-anarchists contrast
 ecology with environmentalism. The difference is important as it suggests both
 a different analysis of where our ecological problems come from and the best
 way to solve them. As Bookchin put it:
@@ -580,7 +580,7 @@ knowledge, and innate creativity for its own benefit and for that of the
 natural world, all ecological problems will have their roots in social
 problems."_ [Bookchin, **Remaking Society**, p. 39]
 
-[‹ E.0 Section E Introduction](/afaq/secEint.html "Go to previous page" )
-[up](/afaq/secEcon.html "Go to parent page" ) [E.2 What do eco-anarchists
-propose instead of capitalism? ›](/afaq/secE2.html "Go to next page" )
+[‹ E.0 Section E Introduction](secEint.md "Go to previous page" )
+[up](secEcon.md "Go to parent page" ) [E.2 What do eco-anarchists propose
+instead of capitalism? ›](secE2.md "Go to next page" )
 

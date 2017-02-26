@@ -126,7 +126,7 @@ _"the possibility of progress"_ springs. [Malatesta, **Op. Cit.**, pp. 186-7]
 
 Anarchists, therefore, combine their critique of existing society with active
 participation in the on-going struggles which exist in any hierarchical
-struggle. As we discuss in [section J](secJcon.html), we urge people to take
+struggle. As we discuss in [section J](secJcon.md), we urge people to take
 _**direct action**_ to fight oppression. Such struggles change those who take
 part in them, breaking the social conditioning which keeps hierarchical
 society going and making people aware of other possibilities, aware that other
@@ -161,14 +161,13 @@ exploitation."_ [Murray Bookchin, **Post-Scarcity Anarchism**, p. 11] Later
 sections will indicate how, after analysing the world, anarchists plan to
 change it constructively, but some of the constructive core of anarchism will
 be seen even in this section. After this broad critique of the current system,
-we move onto more specific areas. [Section C](secCcon.html) explains the
-anarchist critique of the economics of capitalism. [Section D](secDcon.html)
+we move onto more specific areas. [Section C](secCcon.md) explains the
+anarchist critique of the economics of capitalism. [Section D](secDcon.md)
 discusses how the social relationships and institutions described in this
-section impact on society as a whole. [Section E](secEcon.html) discusses the
+section impact on society as a whole. [Section E](secEcon.md) discusses the
 causes (and some suggested solutions) to the ecological problems we face.
 
-[‹ Section B - Why do anarchists oppose the current
-system?](/afaq/secBcon.html "Go to previous page" ) [up](/afaq/secBcon.html
-"Go to parent page" ) [B.1 Why are anarchists against authority and hierarchy?
-›](/afaq/secB1.html "Go to next page" )
+[‹ Section B - Why do anarchists oppose the current system?](secBcon.md "Go
+to previous page" ) [up](secBcon.md "Go to parent page" ) [B.1 Why are
+anarchists against authority and hierarchy? ›](secB1.md "Go to next page" )
 

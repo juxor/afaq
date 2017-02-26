@@ -230,7 +230,7 @@ in fact, an unusually narrow sector of them -- and disregard or harm the
 underlying population and future generations. They are also seeking to use
 their current opportunities to institutionalise these arrangements, so that it
 will be no small task to reconstruct a more humane and democratic society."_
-[**Op. Cit.**, p. 238 and p. 236] As we noted in [section D.1](secD1.html),
+[**Op. Cit.**, p. 238 and p. 236] As we noted in [section D.1](secD1.md),
 the likes of Reagan, Thatcher and Bush do not appear by accident. They and the
 policies they implement reflect the interests of significant sectors of the
 ruling elite and their desires. These will not disappear if different, more
@@ -332,7 +332,7 @@ authoritarian government?
 
 We have previously noted the recent increase in the rate of wealth
 polarisation, with its erosion of working-class living standards (see [section
-B.7](secB7.html)). This process has been referred to by Noam Chomsky as
+B.7](secB7.md)). This process has been referred to by Noam Chomsky as
 "Third-Worldisation." It is appearing in a particularly acute form in the US
 -- the "richest" industrialised nation which also has the highest level of
 poverty, since it is the most polarised -- but the process can be seen in
@@ -416,7 +416,7 @@ associated with representative states in favour of a purely formal appearance
 of elections which are used to justify ignoring the popular will,
 authoritarianism and "top-down" rule by the executive. While these have always
 been a feature of the state (and must be, if it is to do its function as we
-discussed in [section B.2](secB2.html)) the tendencies are increasing and
+discussed in [section B.2](secB2.md)) the tendencies are increasing and
 should be of concern for all those who seek to protect, never mind, expand
 what human rights and civil liberties we have. While anarchists have no
 illusions about the nature of even so-called democratic states, we are not
@@ -822,7 +822,7 @@ support by creating scapegoats in our own class to blame (for example, by
 blaming poverty on blacks "taking our jobs" rather than capitalists moving
 their capital to other, more profitable, countries or them cutting wages and
 conditions for **all** workers -- and as we point out in [section
-B.1.4](secB1.html#secb14), racism, by dividing the working class, makes
+B.1.4](secB1.md#secb14), racism, by dividing the working class, makes
 poverty and inequality **worse** and so is self-defeating). Secondly, it abets
 racists by legitimising the notions that inequalities in pay and wealth are
 due to racial differences rather than a hierarchical system which harms
@@ -834,7 +834,7 @@ big business, etc. -- laissez-faire ideology points analysis into a dead-end
 as well as apologetics for the wealthy, apologetics which can be, and are,
 utilised by racists to justify their evil politics.
 
-[‹ D.8 What causes militarism and what are its effects?](/afaq/secD8.html "Go
-to previous page" ) [up](/afaq/secDcon.html "Go to parent page" ) [D.10 How
-does capitalism affect technology? ›](/afaq/secD10.html "Go to next page" )
+[‹ D.8 What causes militarism and what are its effects?](secD8.md "Go to
+previous page" ) [up](secDcon.md "Go to parent page" ) [D.10 How does
+capitalism affect technology? ›](secD10.md "Go to next page" )
 

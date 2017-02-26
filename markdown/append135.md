@@ -6,7 +6,7 @@ will be _"privatised."_ [Murray Rothbard, **Nations by Consent**, p. 84] They
 claim that privatising "the commons" (e.g. roads, parks, etc.) which are now
 freely available to all will increase liberty. Is this true? We have shown
 before why the claim that privatisation can protect the environment is highly
-implausible (see section [E.2](secE2.html)). Here we will concern ourselves
+implausible (see section [E.2](secE2.md)). Here we will concern ourselves
 with private ownership of commonly used "property" which we all take for
 granted and pay for with taxes.
 
@@ -109,7 +109,7 @@ the same rights as other owners? And if "right of passage" is enforced, what
 would this mean for road owners when people sue them for car-pollution related
 illnesses? (The right of those injured by pollution to sue polluters is the
 main way "anarcho"-capitalists propose to protect the environment. See
-sections [E.2](secE2.html) and [E.3](secE3.html)). It is unlikely that those
+sections [E.2](secE2.md) and [E.3](secE3.md)). It is unlikely that those
 wishing to bring suit could find, never mind sue, the millions of individual
 car owners who could have potentially caused their illness. Hence the road-
 owners would be sued for letting polluting (or unsafe) cars onto "their"
@@ -173,7 +173,7 @@ person's or community's land area."_ [**Nations by Consent**, p. 85] Thus we
 yet again see the blindness of right-libertarians to the commonality between
 private property and the state. The state also maintains that submitting to
 its authority is the requirement for taking up residence in its territory (see
-also [section 2.3](append132.html#secf23) for more on this). As Benjamin
+also [section 2.3](append132.md#secf23) for more on this). As Benjamin
 Tucker noted, the state can be defined as (in part) _"the assumption of sole
 authority over a given area and all within it."_ [**The Individualist
 Anarchists**, p. 24] If the property owners can determine "prohibitions" (i.e.
@@ -203,7 +203,7 @@ what advantage is it to him that society has left the state of war to enter
 the regime of police?"_ [**System of Economic Contradictions**, p. 371]
 
 [‹ 4 What is the right-libertarian position on private
-property?](/afaq/append134.html "Go to previous page" )
-[up](/afaq/append13.html "Go to parent page" ) [6 Is "anarcho"-capitalism
-against the state? ›](/afaq/append136.html "Go to next page" )
+property?](append134.md "Go to previous page" ) [up](append13.md "Go to
+parent page" ) [6 Is "anarcho"-capitalism against the state? ›](append136.md
+"Go to next page" )
 

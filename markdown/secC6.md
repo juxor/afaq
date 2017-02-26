@@ -60,7 +60,7 @@ company (e.g. Virgin going into the cola business) or large firms from other
 areas/nations enter the market. The former is part of the diversification
 process associated with Big Business and the second is the globalisation of
 markets resulting from pressures on national oligopolies (see [section
-C.4](secC4.html)). Both of which increases competition within a given market
+C.4](secC4.md)). Both of which increases competition within a given market
 for a period as the number of firms in its oligopolistic sector has increased.
 Over time, however, market forces will result in mergers and growth,
 increasing the degree of monopoly again.
@@ -88,7 +88,7 @@ make mistakes, so allowing other big firms to undermine their position in a
 market (and, sometimes, allow smaller companies to expand and do the same).
 For example, many large US oligopolies in the 1970s came under pressure from
 Japanese oligopolies because of this. However, as noted in [section
-C.4.2](secC4.html#secc42), these declining oligopolies can see their market
+C.4.2](secC4.md#secc42), these declining oligopolies can see their market
 control last for decades and the resulting market will still be dominated by
 oligopolies (as big firms are generally replaced by similar sized, or bigger,
 ones).
@@ -105,7 +105,7 @@ Similarly, while the "degree of monopoly" within a specific national market
 may fall, the balance of (economic) power within the economy may shift towards
 capital and so place labour in a weaker position to advance its claims (this
 has, undoubtedly, been the case with "globalisation" -- see [section
-D.5.3](seD5.html#secd53)).
+D.5.3](seD5.md#secd53)).
 
 Let us consider the US steel industry as an example. The 1980s saw the rise of
 the so-called "mini-mills" with lower capital costs. The mini-mills, a new
@@ -162,8 +162,7 @@ involved may change over time, the economy as a whole will always be marked by
 Big Business due to the nature of capitalism. That's the way capitalism works
 -- profits for the few at the expense of the many.
 
-[‹ C.5 Why does Big Business get a bigger slice of profits?](/afaq/secC5.html
-"Go to previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.7
-What causes the capitalist business cycle? ›](/afaq/secC7.html "Go to next
-page" )
+[‹ C.5 Why does Big Business get a bigger slice of profits?](secC5.md "Go to
+previous page" ) [up](secCcon.md "Go to parent page" ) [C.7 What causes the
+capitalist business cycle? ›](secC7.md "Go to next page" )
 

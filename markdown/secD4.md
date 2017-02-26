@@ -140,11 +140,11 @@ that ecological problems are not as serious as they seem or that science will
 find a way to solve them before it's too late. Some are aware of the problem,
 but they fail to understand its roots and, as such, advocate reforms which are
 based on either regulation or (more usually in these neo-liberal days) on
-"market" based solutions. In [section E](secEcon.html) we will show why these
+"market" based solutions. In [section E](secEcon.md) we will show why these
 arguments are unsound and why libertarian socialism is our best hope for
 preventing ecological catastrophe.
 
-[‹ D.3 How does wealth influence the mass media?](/afaq/secD3.html "Go to
-previous page" ) [up](/afaq/secDcon.html "Go to parent page" ) [D.5 What
-causes imperialism? ›](/afaq/secD5.html "Go to next page" )
+[‹ D.3 How does wealth influence the mass media?](secD3.md "Go to previous
+page" ) [up](secDcon.md "Go to parent page" ) [D.5 What causes imperialism?
+›](secD5.md "Go to next page" )
 

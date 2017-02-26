@@ -167,7 +167,7 @@ So Lenin, it must be stressed, was not inventing anything new here. He was
 simply repeating the orthodox Marxist position and, as is obvious,
 wholeheartedly agreed with Kautsky's pronouncements (any attempt to claim that
 he did not or later rejected them is nonsense, as we prove in [section
-H.5.4](secH5.html#sech54)). Lenin, with his usual modesty, claimed to speak on
+H.5.4](secH5.md#sech54)). Lenin, with his usual modesty, claimed to speak on
 behalf of the workers when he wrote that _"intellectuals must talk to us, and
 tell us more about what we do not know and what we can never learn from our
 factory and 'economic' experience, that is, you must give us political
@@ -277,12 +277,12 @@ rejecting socialist ideology in favour of bourgeois ideology. The party, in
 order to defend the "the revolution" (even the "rule of the workers"!) has to
 impose its will onto the class, to _"combat spontaneity."_
 
-As we saw in [section H.1.2](secH1.html#sech12), none of the leading
+As we saw in [section H.1.2](secH1.md#sech12), none of the leading
 Bolsheviks were shy about drawing these conclusions once in power and faced
 with working class revolt against their rule. Indeed, they raised the idea
 that the _"dictatorship of the proletariat"_ was also, in fact, the
 _"dictatorship of the party"_ and, as we discussed in [section
-H.3.8](secH3.html#sech38) integrated this into their theory of the state.
+H.3.8](secH3.md#sech38) integrated this into their theory of the state.
 Thus, Leninist ideology implies that _"workers' power"_ exists independently
 of the workers. This means that the sight of the _"dictatorship of the
 proletariat"_ (i.e. the Bolshevik government) repressing the proletariat is to
@@ -308,7 +308,7 @@ brilliant leadership of Trotsky and Lenin."_ [**Obsolute Communism**, pp.
 As well as explaining the subsequent embrace of party dictatorship **over**
 the working class, vanguardism also explains the notorious inefficiency of
 Leninist parties faced with revolutionary situations we discuss in [section
-H.5.8](secH5.html#sech58). Basing themselves on the perspective that all
+H.5.8](secH5.md#sech58). Basing themselves on the perspective that all
 spontaneous movements are inherently bourgeois they could not help but be
 opposed to autonomous class struggle and the organisations and tactics it
 generates. James C. Scott, in his excellent discussion of the roots and flaws
@@ -421,7 +421,7 @@ intellectual backsliding of the upper stratum of the Bolsheviks during the
 war"_ was caused by _"isolation from the masses and isolation from those
 abroad - that is primarily from Lenin."_ [**History of the Russian
 Revolution**, vol. 3, p. 134] As we discuss in [section
-H.5.12](secH5.html#sech512), even Trotsky had to admit that during 1917 the
+H.5.12](secH5.md#sech512), even Trotsky had to admit that during 1917 the
 working class was far more revolutionary than the party and the party more
 revolutionary than the _"party machine"_ of _"professional revolutionaries."_
 
@@ -471,7 +471,7 @@ political consciousness and revolutionary enthusiasm that struggle creates.
 Thus, for anarchists, the model of the factory can never be the model for a
 revolutionary organisation any more than Lenin's vision of society as _"one
 big workplace"_ could be our vision of socialism (see [section
-H.3.1](secH3.html#sech31)). Ultimately, the factory exists to reproduce
+H.3.1](secH3.md#sech31)). Ultimately, the factory exists to reproduce
 hierarchical social relationships and class society just as much as it exists
 to produce goods.
 
@@ -496,7 +496,7 @@ givers and order takers.
 
 ## H.5.3 Why does vanguardism imply party power?
 
-As we discussed in [section H.5.1](secH5.html#sech51), anarchists argue that
+As we discussed in [section H.5.1](secH5.md#sech51), anarchists argue that
 the assumptions of vanguardism lead to party rule over the working class.
 Needless to say, followers of Lenin disagree. For example, Chris Harman of the
 British **Socialist Workers Party** argues the opposite case in his essay
@@ -549,12 +549,12 @@ As the _"organisations that constitute the state"_ are made up of the working
 class _"as a whole,"_ then, obviously, they cannot be expected to wield power
 (i.e. directly manage the revolution from below). If they did, then the party
 would be _"mixed up"_ with the _"irremediably confused"_ and so could not lead
-(as we discuss in [section H.5.5](secH5.html#sech55), Lenin linked
+(as we discuss in [section H.5.5](secH5.md#sech55), Lenin linked
 _"opportunism"_ to _"primitive"_ democracy, i.e. self-management, within the
 party). Hence the need for party power. Which, of course, explains Lenin's
 1920 comments that an organisation embracing the whole working class cannot
 exercise the _"dictatorship of the proletariat"_ and that a _"vanguard"_ is
-required to do so (see [section H.1.2](secH1.html#sech12) for details). Of
+required to do so (see [section H.1.2](secH1.md#sech12) for details). Of
 course, Harman does not explain how the _"irremediably confused"_ are able to
 judge that the party is the best representative of its interests. Surely if
 someone is competent enough to pick their ruler, they must also be competent
@@ -574,7 +574,7 @@ activities to those."_ [**Op. Cit.**, p. 33] It would be churlish to note
 that, firstly, the party had already imposed its dictatorship on the working
 class by that time and, secondly, his own party is regularly attacked by its
 own dissidents for being bureaucratic (see [section
-H.5.11](secH5.html#sech511)).
+H.5.11](secH5.md#sech511)).
 
 Significantly, this substitution of the rule of the party for working class
 self-government and the party apparatus for the party membership does not
@@ -587,7 +587,7 @@ regime within the new _"workers' state."_
 
 This was implicitly recognised by the Bolsheviks when they stressed that the
 function of the party was to become the government, the head of the state, to
-_"assume power"_, (see [section H.3.3](secH3.html#sech33)). Thus, while the
+_"assume power"_, (see [section H.3.3](secH3.md#sech33)). Thus, while the
 working class _"as a whole"_ will be _"involved in the organisations that
 constitute the state,"_ the party (in practice, its leadership) will hold
 power. And for Trotsky, this substitution of the party for the class was
@@ -609,7 +609,7 @@ the working class as a whole."_ [**Terrorism and Communism**, p. 109]
 
 He noted that within the state, _"the last word belongs to the Central
 Committee of the party."_ [**Op. Cit.**, p. 107] As we discuss in [section
-H.3.8](secH3.html#sech38), he held this position into the 1930s.
+H.3.8](secH3.md#sech38), he held this position into the 1930s.
 
 This means that given Harman's own assumptions, autocratic rule by the party
 is inevitable. Ironically, he argues that _"to be a 'vanguard' is not the same
@@ -623,7 +623,7 @@ organisation are also applicable to self-management during the class struggle
 and revolution. The rank and file party members are _"mixed up"_ in the class.
 This leads to party members becoming subject to bourgeois influences. This
 necessitates the power of the higher bodies over the lower (see [section
-H.5.5](secH5.html#sech55)). The highest party organ, the central committee,
+H.5.5](secH5.md#sech55)). The highest party organ, the central committee,
 must rule over the party machine, which in turn rules over the party members,
 who, in turn, rule over the workers. This logical chain was, ironically
 enough, recognised by Trotsky in 1904 in his polemic against Lenin:
@@ -667,7 +667,7 @@ the Russian Revolution. [**Op. Cit.**, p. 37] This is false. As noted, Lenin
 was always explicit about the fact that the Bolshevik's sought party rule
 (_"full state power"_) and that their rule **was** working class rule. As
 such, we have the first, most basic, substitution of party power for workers
-power. Secondly, as we discuss in [section H.6.1](secH6.html#sech61), the
+power. Secondly, as we discuss in [section H.6.1](secH6.md#sech61), the
 Bolshevik party had been gerrymandering and disbanding soviets before the
 start of the Civil War, so proving that the war cannot be held accountable for
 this process of substitution. Thirdly, Leninists are meant to know that civil
@@ -685,7 +685,7 @@ In the process of struggle, the working class changes its perspectives. This
 process is uneven in both quantity and quality, but it does happen. However,
 anarchists do not think that **all** working class people will, at the same
 time, spontaneously become anarchists. If they did, we would be in an
-anarchist society today! As we argue in [section J.3](secH3.html), anarchists
+anarchist society today! As we argue in [section J.3](secH3.md), anarchists
 acknowledge that political development within the working class is uneven. The
 difference between anarchism and Leninism is how we see socialist ideas
 developing and how revolutionaries influence that process.
@@ -764,7 +764,7 @@ many aspects of what he called the _"Myth of Lenin's 'Concept of The Party'"_
 in his essay of the same name, we will concentrate on the key idea, namely
 that socialist ideas are developed outside the class struggle by the radical
 intelligentsia and introduced into the working class from without. Here, as
-argued in [section H.5.1](secH5.html#sech51), is the root of the anti-
+argued in [section H.5.1](secH5.md#sech51), is the root of the anti-
 socialist basis of Leninism.
 
 So what did Draper say? On the one hand, he denied that Lenin held this theory
@@ -965,12 +965,12 @@ and p. 107]
 
 Looking at Lenin's arguments at the Communist International on the question of
 the party we see an obvious return to the ideas of **WITBD** (see [section
-H.5.5](secH5.html#sech55)). Here was have a similar legal/illegal duality,
+H.5.5](secH5.md#sech55)). Here was have a similar legal/illegal duality,
 strict centralism, strong hierarchy and the vision of the party as the
 _"head"_ of the working class (i.e. its consciousness). In **Left-Wing
 Communism**, Lenin mocks those who reject the idea that dictatorship by the
 party is the same as that of the class (see [section
-H.3.3](secH3.html#sech33)).
+H.3.3](secH3.md#sech33)).
 
 For Draper, the key problem was that critics of Lenin _"run two different
 questions together: (a) What was, historically, the **initial** role of
@@ -1110,7 +1110,7 @@ point is that the central committee is the active element, the one whose
 decisions are implemented and so the focus of the structure is in the
 _"centralism"_ rather than the _"democratic"_ part of the formula.
 
-As we noted in [section H.2.14](secH2.html#sech214), the Communist Party was
+As we noted in [section H.2.14](secH2.md#sech214), the Communist Party was
 expected to have a dual structure, one legal and the other illegal. It goes
 without saying that the illegal structure is the real power in the party and
 that it cannot be expected to be as democratic as the legal party, which in
@@ -1209,7 +1209,7 @@ In summary, we have a model of a _"revolutionary"_ party which is based on
 full-time _"professional revolutionaries"_ in which the concept of direct
 democracy is replaced by a system of, at best, representative democracy. It is
 highly centralised, as befitting a specialised organisation. As noted in
-[section H.3.3](secH3.html#sech33), the _"organisational principle of
+[section H.3.3](secH3.md#sech33), the _"organisational principle of
 revolutionary Social-Democracy"_ was _"to proceed from the top downward"_
 rather than _"from the bottom upward."_ [Lenin, **Collected Works**, vol. 7,
 pp. 396-7] Rather than being only applicable in Tsarist Russia, Lenin drew on
@@ -1221,7 +1221,7 @@ International**. The continuity of ideas is clear.
 ## H.5.6 Why do anarchists oppose _"democratic centralism"_?
 
 What to make of Lenin's suggested model of _"democratic centralism"_ discussed
-in the [last section](secH5.html#sech55)? It is, to use Cornelius
+in the [last section](secH5.md#sech55)? It is, to use Cornelius
 Castoriadis's term, a _"revolutionary party organised in a capitalist manner"_
 and so in practice the _"democratic centralist"_ party, while being
 centralised, will not be very democratic. In fact, the level of democracy
@@ -1378,7 +1378,7 @@ assumptions for centralised power in the party, can we not see that
 _"democratic centralised"_ parties will be extremely inefficient in practice
 as information and knowledge is lost in the party machine and whatever
 decisions which are reached at the top are made in ignorance of the real
-situation on the ground? As we discuss in [section H.5.8](secH5.html#sech58),
+situation on the ground? As we discuss in [section H.5.8](secH5.md#sech58),
 this is usually the fate of such parties.
 
 Within the party, as noted, the role of _"professional revolutionaries"_ (or
@@ -1387,7 +1387,7 @@ talent must be removed from the workplace and become a party functionary. Is
 it surprising that the few Bolshevik cadres (i.e. professional
 revolutionaries) of working class origin soon lost real contact with the
 working class? Equally, what will their role **within** the party be? As we
-discuss in [section H.5.12](sech5.html#sech512), their role in the Bolshevik
+discuss in [section H.5.12](sech5.md#sech512), their role in the Bolshevik
 party was essentially conservative in nature and aimed to maintain their own
 position.
 
@@ -1399,12 +1399,12 @@ rather than "democratic centralist" and what is required to reform them. That
 every _"democratic centralist"_ party in existence is not that democratic does
 not hinder their attempts to create one which is. In a way, the truly
 _"democratic centralist"_ party is the Holy Grail of modern Leninism. As we
-discuss in [section H.5.10](secH5.html#sech510), their goal may be as mythical
+discuss in [section H.5.10](secH5.md#sech510), their goal may be as mythical
 as that of the Arthurian legends.
 
 ## H.5.7 Is the way revolutionaries organise important?
 
-As we discussed in the [last section](secH5.html#sech56), anarchists argue
+As we discussed in the [last section](secH5.md#sech56), anarchists argue
 that the way revolutionaries organise today is important. However, according
 to some of Lenin's followers, the fact that the "revolutionary" party is
 organised in a non-revolutionary manner does not matter. In the words of Chris
@@ -1444,7 +1444,7 @@ take, hold and execute power. Given that the vanguard party is organised as it
 is to ensure effectiveness and efficiency, why should we assume that the
 ruling party will not seek to recreate these organisational principles once in
 power? As the Russian Revolution proves, this is the case (see [section
-H.6](secH6.html))
+H.6](secH6.md))
 
 To claim how we organise under capitalism is not important to a revolutionary
 movement is simply not true. The way revolutionaries organise have an impact
@@ -1455,7 +1455,7 @@ party acts within it and, if it aims to seize power, how it will exercise that
 power once it has.
 
 For these reasons anarchists stress the importance of building the new world
-in the shell of the old (see [section H.1.6](secH1.html#sech16)). All
+in the shell of the old (see [section H.1.6](secH1.md#sech16)). All
 organisations create social relationships which shape their memberships. As
 the members of these parties will be part of the revolutionary process, they
 will influence how that revolution will develop and any "transitional"
@@ -1468,7 +1468,7 @@ nature of post-capitalist society and its institutions cannot be maintained
 (particularly if the aim of the _"revolutionary"_ organisation is to seize
 power on behalf of the working class).
 
-As we argue elsewhere (see [section J.3](secJ3.html)) anarchists argue for
+As we argue elsewhere (see [section J.3](secJ3.md)) anarchists argue for
 revolutionary groups based on self-management, federalism and decision making
 from below. In other words, we apply within our organisations the same
 principles as those which the working class has evolved in the course of its
@@ -1480,7 +1480,7 @@ organisation and discipline - as exemplified by the workers' council or strike
 committee - represents a completely different thing from **capitalist**
 organisation and discipline, of which Leninists are constantly asking for more
 (albeit draped with the Red Flag and labelled _"revolutionary"_). And as we
-discuss in the [next section](secH5.html#sech58), the Leninist model of top-
+discuss in the [next section](secH5.md#sech58), the Leninist model of top-
 down centralised parties is marked more by its failures than its successes,
 suggesting that not only is the vanguard model undesirable, it is also
 unnecessary.
@@ -1606,7 +1606,7 @@ kills the spirit and the vital initiative of its members and sets up that
 domination by mediocrity which is the characteristic of all bureaucracies."_
 [Rudolf Rocker, **Anarcho-Syndicalism**, p. 61]
 
-As we discuss in [section H.5.12](secH5.html#sech512), the example of the
+As we discuss in [section H.5.12](secH5.md#sech512), the example of the
 Bolshevik party during the Russian Revolution amply proves Rocker's point.
 Rather than being a highly centralised, disciplined vanguard party, the
 Bolshevik party was marked by extensive autonomy throughout its ranks. Party
@@ -1628,14 +1628,14 @@ from a revolutionary perspective, it generates bureaucratic and elitist
 tendencies which undermine any revolution unfortunate enough to be dominated
 by such a party. For these extremely practical and sensible reasons anarchists
 reject it wholeheartedly. As we discuss in the [next
-section](secH5.html#sech59), the only thing vanguard parties **are** effective
+section](secH5.md#sech59), the only thing vanguard parties **are** effective
 at is to supplant the diversity produced and required by revolutionary
 movements with the drab conformity produced by centralisation and to replace
 popular power and freedom with party power and tyranny.
 
 ## H.5.9 What are vanguard parties effective at?
 
-As we discussed the [last section](secH5.html#sech58), vanguard parties are
+As we discussed the [last section](secH5.md#sech58), vanguard parties are
 not efficient as agents of revolutionary change. So, it may be asked, what
 **are** vanguard parties effective at? If they are harmful to revolutionary
 struggle, what are they good at? The answer to this is simple. No anarchist
@@ -1688,7 +1688,7 @@ conditions."_ [quoted by Trotsky, **Op. Cit.**, p. 101] This conservatism
 played havoc in the party during 1917, incidentally. It would be no
 exaggeration to argue that the Russian revolution occurred in spite of, rather
 than because of, Bolshevik organisational principles (see [section
-H.5.12](secH5.html#sech512)). These principles, however, came into their own
+H.5.12](secH5.md#sech512)). These principles, however, came into their own
 once the party had seized power, ensuring the consolidation of bureaucratic
 rule by an elite.
 
@@ -1802,7 +1802,7 @@ slightest weakening of the iron discipline of the party of the proletariat
 against the proletariat."_ [**Collected Works**, vol. 31, p. 45] As can be
 seen, Lenin stresses the importance of _"iron discipline"_ at all times, not
 only during the revolution when _"the party"_ is applying _"its dictatorship"_
-(see [section H.3.8](secH3.html#sech38) for more on this aspect of Leninism).
+(see [section H.3.8](secH3.md#sech38) for more on this aspect of Leninism).
 This provides a justification of whatever measures are required to restore the
 illusion of unanimity, including the trampling underfoot of whatever rights
 the membership may have on paper and the imposition of any decisions the
@@ -1830,7 +1830,7 @@ confirmed in the internal regimes of vanguard parties, where debate is often
 narrowly focused on a few minor issues of emphasis rather than fundamental
 issues of policy and theory.
 
-It has already been noted (in [section H.5.5](secH5.html#sech55)) that the
+It has already been noted (in [section H.5.5](secH5.md#sech55)) that the
 organisational norms of democratic centralism imply a concentration of power
 at the top. There is abundant evidence that such a concentration has been a
 vital feature of every vanguard party and that such a concentration limits
@@ -2024,7 +2024,7 @@ democratic party _"no section of the party would have a monopoly of
 information"_ which indicates that the SWP's leadership is essentially
 secretive, withholding information from the party membership. Even more
 significantly, given our discussion on the influence of the party structure on
-post-revolutionary society in [section H.5.7](secH5.html#sech57), they argue
+post-revolutionary society in [section H.5.7](secH5.md#sech57), they argue
 that _"[w]orst of all, the SWP are training a layer of revolutionaries to
 believe that the organisational norms of the SWP are a shining example of
 proletarian democracy, applicable to a future socialist society. Not
@@ -2056,7 +2056,7 @@ Indeed, it would be no exaggeration to argue that the only reason people take
 the vanguard party organisational structure seriously is the apparent success
 of the Bolsheviks in the Russian revolution. However, as noted above, even the
 Bolshevik party was subject to bureaucratic tendencies and as we discuss in
-the [next section](secH5.html#secH512), the experience of the 1917 Russian
+the [next section](secH5.md#secH512), the experience of the 1917 Russian
 Revolutions disprove the effectiveness of _"vanguard"_ style parties. The
 Bolshevik party of 1917 was a totally different form of organisation than the
 ideal _"democratic centralist"_ type argued for by Lenin in 1902 and 1920. As
@@ -2096,7 +2096,7 @@ vanguardism has not been proven to be effective, quite the reverse (assuming
 that your desired goal is a socialist society, rather than party power).
 Needless to say, Trotsky blames the failure of the Russian Revolution on
 _"objective"_ factors rather than Bolshevik policies and practice, an argument
-we address in [section H.6](secH6.html) and will not do so here.
+we address in [section H.6](secH6.md) and will not do so here.
 
 So while Leninists make great claims for the effectiveness of their chosen
 kind of party, the hard facts of history are against their positive evaluation
@@ -2150,12 +2150,12 @@ that, _"[t]he party's Central Committee published the resolution on October
 27, thereby making it the binding directive for all other Bolshevik
 organisations."_ [Oskar Anweiler, **The Soviets**, p. 77] It was only the
 return of Lenin which stopped the Bolshevik's open attacks against the Soviet.
-As we discuss in [section H.6.2](secH6.html#sech62), the rationale for these
+As we discuss in [section H.6.2](secH6.md#sech62), the rationale for these
 attacks is significant as they were based on arguing that the soviets could
 not reflect workers' interests because they were elected by the workers! The
 implications of this perspective came clear in 1918, when the Bolsheviks
 gerrymandered and disbanded soviets to remain in power (see [section
-H.6.1](secH6.html#sech61)). That the Bolshevik's position flowed naturally
+H.6.1](secH6.md#sech61)). That the Bolshevik's position flowed naturally
 from Lenin's arguments in **What is to be Done?** is clear. Thus the
 underlying logic of Lenin's vanguardism ensured that the Bolsheviks played a
 negative role with regards the soviets which, combined with "democratic
@@ -2634,7 +2634,7 @@ finally applied they helped ensure the degeneration of the revolution. This
 was to be expected, given the nature of vanguardism and the Bolshevik vision
 of socialism.
 
-[‹ H.4 Didn't Engels refute anarchism in "On Authority"?](/afaq/secH4.html "Go
-to previous page" ) [up](/afaq/secHcon.html "Go to parent page" ) [H.6 Why did
-the Russian Revolution fail? ›](/afaq/secH6.html "Go to next page" )
+[‹ H.4 Didn't Engels refute anarchism in "On Authority"?](secH4.md "Go to
+previous page" ) [up](secHcon.md "Go to parent page" ) [H.6 Why did the
+Russian Revolution fail? ›](secH6.md "Go to next page" )
 

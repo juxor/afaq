@@ -1,6 +1,6 @@
 # An Anarchist FAQ after ten years
 
-It is now ten years since ["An Anarchist FAQ"](index.html) (AFAQ) was
+It is now ten years since ["An Anarchist FAQ"](index.md) (AFAQ) was
 officially released. A lot has happened over that time, unfortunately
 finishing it has not been one of them!
 
@@ -167,8 +167,6 @@ in. Moreover, some of the longer articles have appeared in **Black Flag**
 (before and after I joined its editorial committee). My works have also been
 published in **Scottish Anarchist**, **Anarcho-Syndicalist Review** and **Free
 Voices** and some have been translated into other languages. I am also an
-invited columnist for the [www.infoshop.org](http://www.infoshop.org) and
-[www.anarkismo.net](http://www.anarkismo.net) webpages (neither of which I am
 otherwise involved with). In addition, I have been invited to speak at
 anarchist conferences in Scotland and Ireland, as well as by Marxist parties
 to debate the merits of anarchism. Due to family commitments, my specifically
@@ -264,7 +262,6 @@ by simply applying its own principles in a logical manner.
 
 2\. Under my pseudonym "Anarcho" (given what's on it, I'm surprised I bother
 using "Anarcho" these days as it is obvious who writes the articles). It is
-available here: <http://anarchism.ws/writers/anarcho.html>
 
 3\. Apologies for those who sent emails over the years and never received a
 reply -- some were lost and, given how much busy we are, emails are always the
@@ -289,7 +286,7 @@ Avrich). As such, it is hardly a flaw that AFAQ has presented the majority
 position on anarchism (social anarchism), particularly as this is the position
 of the people involved.
 
-[‹ An Anarchist FAQ Introduction](/afaq/intro.html "Go to previous page" )
-[up](/afaq/intro.html "Go to parent page" ) [An Anarchist FAQ: Introduction to
-Volume 1 ›](/afaq/vol1intro.html "Go to next page" )
+[‹ An Anarchist FAQ Introduction](intro.md "Go to previous page" )
+[up](intro.md "Go to parent page" ) [An Anarchist FAQ: Introduction to
+Volume 1 ›](vol1intro.md "Go to next page" )
 

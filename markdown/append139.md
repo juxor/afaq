@@ -149,7 +149,7 @@ Therefore we see communal self-management in a basic form, **plus** co-
 operation between communities as well. These communistic, mutual-aid features
 exist in many non-capitalist cultures and are often essential for ensuring the
 people's continued freedom within those cultures ( [section
-B.2.5](secB2.html#secb25) on why the wealthy undermine these popular _"folk-
+B.2.5](secB2.md#secb25) on why the wealthy undermine these popular _"folk-
 motes"_ in favour of centralisation). Usually, the existence of private
 property (and so inequality) soon led to the destruction of communal forms of
 self-management (with participation by all male members of the community as in
@@ -308,7 +308,7 @@ detail, in many cultures and time periods. However, that this process occurred
 in a society which is used by "anarcho"-capitalists as an example of their
 system in action reinforces the anarchist analysis of the statist nature of
 "anarcho"-capitalism and the deep flaws in its theory, as discussed in
-[section 6](append136.html).
+[section 6](append136.md).
 
 As Miller argues, _"[i]t is not the have-nots, after all, who invented the
 state. The first steps toward state formation in Iceland were made by
@@ -407,7 +407,7 @@ accompanied by a rise in inequality and this lead to the breakdown of the
 Republic into statism.
 
 In short, Medieval Iceland nicely illustrates David Weick's comments (as
-quoted in [section 6.3](append136.html#secf63)) that _"when private wealth is
+quoted in [section 6.3](append136.md#secf63)) that _"when private wealth is
 uncontrolled, then a police-judicial complex enjoying a clientele of wealthy
 corporations whose motto is self-interest is hardly an innocuous social force
 controllable by the possibility of forming or affiliating with competing
@@ -430,7 +430,7 @@ state and rule by the rich. Medieval Iceland is a classic example of this
 process at work.
 
 [‹ 8 What role did the state take in the creation of
-capitalism?](/afaq/append138.html "Go to previous page" )
-[up](/afaq/append13.html "Go to parent page" ) [10 Would laissez-faire
-capitalism be stable? ›](/afaq/append1310.html "Go to next page" )
+capitalism?](append138.md "Go to previous page" ) [up](append13.md "Go to
+parent page" ) [10 Would laissez-faire capitalism be stable?
+›](append1310.md "Go to next page" )
 

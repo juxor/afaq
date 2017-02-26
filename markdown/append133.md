@@ -87,7 +87,7 @@ would be marked by it. This is not the case. Indeed, taking a relatively
 recent example, many visitors to the early United States noted its egalitarian
 nature, something that soon changed with the rise of wage labour and
 industrial capitalism (a rise dependent upon state action, we must add, -- see
-section [8](append138.html)). This implies that the society we live in (its
+section [8](append138.md)). This implies that the society we live in (its
 rights framework, the social relationships it generates and so forth) has a
 far more of a decisive impact on inequality than individual differences. Thus
 certain rights frameworks will tend to magnify "natural" inequalities
@@ -111,7 +111,7 @@ So, perhaps, if we change society then the social inequalities we see today
 would disappear. It is more than probable that natural difference has been
 long ago been replaced with **social** inequalities, especially inequalities
 of property (which will tend to increase, rather than decrease, inequality).
-And as we argue in section [8](append138.html) these inequalities of property
+And as we argue in section [8](append138.md) these inequalities of property
 were initially the result of force, **not** differences in ability. Thus to
 claim that social inequality flows from natural differences is false as most
 social inequality has flown from violence and force. This initial inequality
@@ -124,7 +124,7 @@ many, if not most, unique individuals receive identical wages for identical
 work (although this often is not the case for women and blacks, who receive
 less wages than male, white workers). Similarly, capitalists have deliberately
 introduced wage inequalities and hierarchies for no other reason that to
-divide (and so rule) the workforce (see section [D.10](secD10.html)). Thus, if
+divide (and so rule) the workforce (see section [D.10](secD10.md)). Thus, if
 we assume egalitarianism **is** a revolt against nature, then much of
 capitalist economic life is in such a revolt (and when it is not, the
 "natural" inequalities have been imposed artificially by those in power).
@@ -132,7 +132,7 @@ capitalist economic life is in such a revolt (and when it is not, the
 Thus "natural" differences do not necessarily result in inequality as such.
 Given a different social system, "natural" differences would be encouraged and
 celebrated far wider than they are under capitalism (where, as we argued in
-section [B.1](secB1.html), hierarchy ensures the crushing of individuality
+section [B.1](secB1.md), hierarchy ensures the crushing of individuality
 rather than its encouragement) without any change in social equality. The
 claim that "natural" differences generates social inequalities is question
 begging in the extreme -- it takes the rights framework of society as a given
@@ -143,11 +143,11 @@ society based on wage labour or other forms of exploitation).
 
 Another reason for "anarcho"-capitalist lack of concern for equality is that
 they think that _"liberty upsets patterns"_ (see section
-[2.5](append132.html#secf25), for example). It is argued that equality can
+[2.5](append132.md#secf25), for example). It is argued that equality can
 only be maintained by restricting individual freedom to make exchanges or by
 taxation of income. However, what this argument fails to acknowledge is that
 inequality also restricts individual freedom (see [next
-section](append133.html#secf31), for example) and that the capitalist property
+section](append133.md#secf31), for example) and that the capitalist property
 rights framework is not the only one possible. After all, money is power and
 inequalities in terms of power easily result in restrictions of liberty and
 the transformation of the majority into order takers rather than free
@@ -173,12 +173,12 @@ stress, ill health and so on [**Libertarian as Conservative**]. Thus claims
 that equality involves infringing liberty ignores the fact that inequality
 also infringes liberty. A reorganisation of society could effectively minimise
 inequalities by eliminating the major source of such inequalities (wage
-labour) by self-management (see section [I.5.12](secI5.html#seci512) for a
+labour) by self-management (see section [I.5.12](secI5.md#seci512) for a
 discussion of "capitalistic acts" within an anarchist society). We have no
 desire to restrict free exchanges (after all, most anarchists desire to see
 the "gift economy" become a reality sooner or later) but we argue that free
 exchanges need not involve the unrestricted property rights Nozick assumes. As
-we argue in sections [2](append132.html) and [3.1](append133.html#secf31),
+we argue in sections [2](append132.md) and [3.1](append133.md#secf31),
 inequality can easily led to the situation where self-ownership is used to
 justify its own negation and so unrestricted property rights may undermine the
 meaningful self-determination (what anarchists would usually call "freedom"
@@ -231,7 +231,7 @@ conveniently overlook its egalitarian implications."_ [Stephen L. Newman,
 **Liberalism at Wit's End**, p. 74, p. 76]
 
 Why equality is important is discussed more fully in the [next
-section](append133.html#secf31). Here we just stress that without social
+section](append133.md#secf31). Here we just stress that without social
 equality, individual freedom is so restricted that it becomes a mockery
 (essentially limiting freedom of the majority to choosing **which** employer
 will govern them rather than being free within and outside work).
@@ -251,7 +251,7 @@ Under capitalism, freedom is a commodity like everything else. The more money
 you have, the greater your freedom. "Equal" freedom, in the Newspeak-
 Rothbardian sense, **cannot** exist! As for "equality before the law", its
 clear that such a hope is always dashed against the rocks of wealth and market
-power (see [next section](append133.html#secf31) for more on this). As far as
+power (see [next section](append133.md#secf31) for more on this). As far as
 rights go, of course, both the rich and the poor have an "equal right" to
 sleep under a bridge (assuming the bridge's owner agrees of course!); but the
 owner of the bridge and the homeless have **different** rights, and so they
@@ -330,16 +330,16 @@ Anarchists**]
 
 This assumption of (relative) equality comes to the fore in Murray Rothbard's
 "Homesteading" concept of property (discussed in section
-[4.1](append134.html#secf41)). "Homesteading" paints a picture of individuals
+[4.1](append134.md#secf41)). "Homesteading" paints a picture of individuals
 and families doing into the wilderness to make a home for themselves, fighting
 against the elements and so forth. It does **not** invoke the idea of
 transnational corporations employing tens of thousands of people or a
 population without land, resources and selling their labour to others. Indeed,
 Rothbard argues that economic power does not exist (at least under capitalism;
-as we saw in section [2.1](append132.html#secf21) he does make -- highly
+as we saw in section [2.1](append132.md#secf21) he does make -- highly
 illogical -- exceptions). Similarly, David Friedman's example of a pro-death
 penalty and anti-death penalty "defence" firm coming to an agreement (see
-section [6.3](append136.html#secf63)) assumes that the firms have equal
+section [6.3](append136.md#secf63)) assumes that the firms have equal
 bargaining powers and resources -- if not, then the bargaining process would
 be very one-sided and the smaller company would think twice before taking on
 the larger one in battle (the likely outcome if they cannot come to an
@@ -388,7 +388,7 @@ Bookchin, **The Spanish Anarchists**, p. 260]
 
 If we take the labour market, it is clear that the "buyers" and "sellers" of
 labour power are rarely on an equal footing (if they were, then capitalism
-would soon go into crisis -- see section [10.2](append1310.html#secf102)). In
+would soon go into crisis -- see section [10.2](append1310.md#secf102)). In
 fact, competition _"in labour markets is typically skewed in favour of
 employers: it is a buyer's market. And in a buyer's, it is the sellers who
 compromise."_ [Juliet B. Schor, **The Overworked American**, p. 129] Thus the
@@ -578,8 +578,8 @@ themselves how can someone be free if their social situation is such that they
 are drowning in a see of usury and have to sell their labour (and so liberty)
 to survive.
 
-[‹ 2 What do "anarcho"-capitalists mean by "freedom"?](/afaq/append132.html
-"Go to previous page" ) [up](/afaq/append13.html "Go to parent page" ) [4 What
-is the right-libertarian position on private property? ›](/afaq/append134.html
-"Go to next page" )
+[‹ 2 What do "anarcho"-capitalists mean by "freedom"?](append132.md "Go to
+previous page" ) [up](append13.md "Go to parent page" ) [4 What is the
+right-libertarian position on private property? ›](append134.md "Go to next
+page" )
 

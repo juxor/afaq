@@ -18,7 +18,7 @@ for that of a decimated, exhausted working class"_ anarchists disagree.
 [**Towards a Revolutionary Socialist Party**, p. 43]
 
 We have discussed in the appendix on ["What caused the degeneration of the
-Russian Revolution?"](append43.html) why the various _"objective factors"_
+Russian Revolution?"](append43.md) why the various _"objective factors"_
 explanations favoured by Leninists to explain the defeat of the Russian
 Revolution are unconvincing. Ultimately, they rest on the spurious argument
 that if only what most revolutionaries (including, ironically, Leninists!)
@@ -30,7 +30,7 @@ have resulted in socialism. This is particularly the case as Leninists argue
 that only **their** version of socialism recognises that the ruling class will
 **not** disappear after a revolution, that we will face counter-revolution and
 so we need a state to defend the revolution! As we argued in [section
-H.2.1](secH2.html#sech21), this is not the case. Anarchists have long
+H.2.1](secH2.md#sech21), this is not the case. Anarchists have long
 recognised that a revolution will require defending and that it will provoke a
 serious disruption in the economic life of a country.
 
@@ -191,7 +191,7 @@ political outlook right down to the core was wrong. Its vision of socialism
 was flawed, which produced a flawed perspective on the potentially valid means
 available to achieve it. Leninism, we must never forget, does not aim for the
 same kind of society anarchism does. As we discussed in [section
-H.3.1](secH3.html#sech31), the short, medium and long term goals of both
+H.3.1](secH3.md#sech31), the short, medium and long term goals of both
 movements are radically different. While both claim to aim for "communism,"
 what is mean by that word is radically different in details if somewhat
 similar in outline. The anarchist ideal of a classless, stateless and free
@@ -258,7 +258,7 @@ into conflict with, and finally destroyed, the original proclaimed socialist
 principles? And, perhaps, the _"socialist"_ vision of Bolshevism was so deeply
 flawed that even attempting to apply it destroyed the aspirations for liberty,
 equality and solidarity that inspired it? For, after all, as we indicated in
-[section H.3.1](secH3.html#sech31), the anarchist and mainstream Marxist
+[section H.3.1](secH3.md#sech31), the anarchist and mainstream Marxist
 visions of socialism and how to get there **are** different. Can we be
 surprised if Marxist means cannot achieve anarchist (i.e. authentic socialist)
 ends? To his credit, Shachtman acknowledges that post-civil war salvation
@@ -276,8 +276,8 @@ stood for, particularly Lenin's book State and Revolution. To use an analogy,
 when Leninists do this they are like politicians who, when faced with people
 questioning the results of their policies, ask them to look at their election
 manifesto rather than what they have done when in power. As we discuss in
-[section 4](append41.html#app4) of the appendix ["What happened during the
-Russian Revolution?"](append41.html) Lenin's book was never applied in
+[section 4](append41.md#app4) of the appendix ["What happened during the
+Russian Revolution?"](append41.md) Lenin's book was never applied in
 practice. From the very first day, the Bolsheviks ignored it. After 6 months
 **none** of its keys ideas had been applied. Indeed, in all cases the exact
 opposite had been imposed. As such, to blame (say) the civil war for the
@@ -405,7 +405,7 @@ democracy in the soviets, or at least referred to these losses as a retreat,
 as Lenin declared with the replacement of War Communism by NEP in 1921."_
 [**Before Stalinism**, p. 44] There was no need, for such means had no impact
 on achieving the ends Bolshevik power had set itself. As we discuss in
-[section 6](append44.html#app6), such questions of meaningful working class
+[section 6](append44.md#app6), such questions of meaningful working class
 participation in the workplace or the soviets were considered by the likes of
 Trotsky as fundamentally irrelevant to whether Bolshevik Russia was socialist
 or whether the working class was the ruling class or not, incredible as it may
@@ -443,7 +443,7 @@ perspective ensured that during the Russian Revolution the Makhnovists **had**
 to encourage free soviets and workers' self-management, freedom of speech and
 organisation in order for the revolution to remain socialist (see the appendix
 on ["Why does the Makhnovist movement show there is an alternative to
-Bolshevism?"](append46.html)). In contrast, the Bolsheviks implemented party
+Bolshevism?"](append46.md)). In contrast, the Bolsheviks implemented party
 dictatorship, nationalisation and one-man management while proclaiming this
 had something to do with socialism. Little wonder Trotsky had such
 difficulties understanding the obvious truth that Stalinism has **nothing** to
@@ -453,7 +453,7 @@ do with socialism.
 
 ## 2 Why did the Marxist theory of the state undermine working class power?
 
-As discussed in [section H.3.7](secH3.html#sech37), anarchists and Marxists
+As discussed in [section H.3.7](secH3.md#sech37), anarchists and Marxists
 have fundamentally different definitions of what constitutes a state. These
 different definitions resulted, in practice, to the Bolsheviks undermining
 **real** working class power during the Russian Revolution in favour of an
@@ -496,7 +496,7 @@ disempower the many while, at the same time, taking about extending working
 class "power."
 
 The roots of this confusion can be found at the root of Marxism. As discussed
-in [section H.3.7](secH3.html#sech37), Marx and Engels had left a somewhat
+in [section H.3.7](secH3.md#sech37), Marx and Engels had left a somewhat
 contradictory inheritance on the nature and role of the state. Unlike
 anarchists, who clearly argued that only confusion would arise by calling the
 organs of popular self-management required by a revolution a _"state,"_ the
@@ -540,7 +540,7 @@ without representative institutions."_ If, as Lenin asserts, democracy _"means
 equality"_ he has reintroduced inequality into the "proletarian" state as the
 representatives have, by definition, more power than those who elected them.
 [**Essential Works of Lenin**, p. 363, p. 306 and p. 346] Yet, as noted in
-[section H.1.2](secH1.html#sech12), representative bodies necessarily place
+[section H.1.2](secH1.md#sech12), representative bodies necessarily place
 policy-making in the hands of deputies and do not (and cannot) mean that the
 working class **as a class** can manage society. Moreover, such bodies ensure
 that popular power can be usurped without difficulty by a minority. After all,
@@ -638,7 +638,7 @@ was _"the organisation of the vanguard of the oppressed as the ruling class
 for the purpose of crushing the oppressors."_ [**Op. Cit.**, p. 337] Given
 that this fits in with subsequent Bolshevik practice, it seems clear that it
 is the vanguard which assumes power rather than the whole class. The negative
-effects of this are discussed in [section 8](append44.html#app8).
+effects of this are discussed in [section 8](append44.md#app8).
 
 However, the assumption of power by the party highlights the key problem with
 the Marxist theory of the state and how it could be used to justify the
@@ -670,7 +670,7 @@ control, to impose its own policies and to give priority to its special
 interests. Having been put in a privileged position, the government is already
 at odds with the people whose strength it disposes of."_ [**Anarchy**, p. 34]
 As we discussed in appendix ["What happened during the Russian
-Revolution?"](append41.html), Lenin's regime provides more than enough
+Revolution?"](append41.md), Lenin's regime provides more than enough
 evidence to support such an analysis.
 
 This is the fatal flaw in the Marxist theory of the state. As Bakunin put it,
@@ -688,7 +688,7 @@ By confusing popular participation with a state, by ignoring the real
 inequalities of power in any state structure, Marxism allowed Lenin and the
 Bolsheviks to usurp state power, implement party dictatorship **and** continue
 to talk about the working class being in power. Because of Marxism's
-metaphysical definition of the state (see [section H.3.7](secH3.html#sech37)),
+metaphysical definition of the state (see [section H.3.7](secH3.md#sech37)),
 actual working class people's power over their lives is downplayed, if not
 ignored, in favour party power.
 
@@ -705,7 +705,7 @@ on or have been particularly perturbed by the decline of the soviets after
 1918."_ [Samuel Farber, **Before Stalinism**, p. 212] This can be seen from
 how the Marxist theory of the state was changed **after** the Bolsheviks
 seized power to bring into line with its new role as the means by which the
-vanguard ruled society (see [section H.3.8](secH3.html#sech38)).
+vanguard ruled society (see [section H.3.8](secH3.md#sech38)).
 
 This confusion between two radically different concepts and their submersion
 into the term _"state"_ had its negative impact from the start. Firstly, the
@@ -728,7 +728,7 @@ to authoritarian rule, namely the substitution of the power of the masses by
 the power of a few members who make up the government. Such a small body will
 require a centralised state system and, consequently, we have the creation of
 a hierarchical body around the new government which, as we discuss in [section
-7](append44.html#app7), will become the real master in society.
+7](append44.md#app7), will become the real master in society.
 
 The preconditions for a new form of class society have been created and,
 moreover, they are rooted in the basic ideas of Marxism. Society has been
@@ -747,21 +747,21 @@ slowly, dissolve itself into it is the height of naivety. Unsurprisingly, once
 in power the Bolsheviks held onto power by all means available, including
 gerrymandering and disbanding soviets, suppressing peaceful opposition parties
 and violently repressing the very workers it claimed ruled in _"soviet"_
-Russia (see [section 6](append41.html#app6) of the appendix ["What happened
-during the Russian Revolution?"](append41.html)). Significantly, this conflict
+Russia (see [section 6](append41.md#app6) of the appendix ["What happened
+during the Russian Revolution?"](append41.md)). Significantly, this conflict
 developed before the start of the civil war (see [section
-3](append43.html#app3) of the appendix on ["What caused the degeneration of
-the Russian Revolution?"](append43.html) for details). So when popular support
+3](append43.md#app3) of the appendix on ["What caused the degeneration of
+the Russian Revolution?"](append43.md) for details). So when popular support
 was lost, the basic contradictions in the Bolshevik position and theory became
 clear. Rather than be a _"soviet"_ power, the Bolshevik regime was simply rule
 over the workers in their name, nothing more. And equally unsurprising, the
 Leninists revised their theory of the state to take into account the realities
 of state power and the need to justify minority power **over** the masses (see
-[section H.3.8](secH3.html#sech38)).
+[section H.3.8](secH3.md#sech38)).
 
 Needless to say, even electoral support for the Bolsheviks should not and
 cannot be equated to working class management of society. Echoing Marx and
-Engels at their most reductionist (see [section H.3.9](secH3.html#sech39)),
+Engels at their most reductionist (see [section H.3.9](secH3.md#sech39)),
 Lenin stressed that the state was _"an organ or machine for the subjection of
 one class by another . . . when the State has become proletarian, when it has
 become a machine for the domination of the proletariat over the bourgeoisie,
@@ -854,9 +854,9 @@ and coming into conflict with the real aspirations and interests of those it
 claimed to represent. In such circumstances, in a conflict between the
 _"workers' state"_ and the actual workers the Marxist theory of the state,
 combined with the assumptions of vanguardism, made the shift to party
-dictatorship inevitable. As we discussed in [section 3](append43.html#app3) of
+dictatorship inevitable. As we discussed in [section 3](append43.md#app3) of
 the appendix on ["What caused the degeneration of the Russian
-Revolution?"](append43.html), authoritarian tendencies had surfaced before the
+Revolution?"](append43.md), authoritarian tendencies had surfaced before the
 civil war began.
 
 The strange paradox of Leninism, namely that the theoretical dictatorship of
@@ -880,7 +880,7 @@ popular participation required to ensure a successful revolution.
 ## 3 How did Engels' essay _"On Authority"_ affect the revolution?
 
 We have discussed Engels' infamous diatribe against anarchism already (see
-[section H.4](secH4.html) and subsequent sections). Here we discuss how its
+[section H.4](secH4.md) and subsequent sections). Here we discuss how its
 caricature of anarchism helped disarm the Bolsheviks theoretically to the
 dangers of their own actions, so helping to undermine the socialist potential
 of the Russian revolution. While the Marxist theory of the state, with its
@@ -952,14 +952,14 @@ Submission to technique under hierarchical authority effectively prevents
 active participation in the social production of values. And there was no
 alternative.
 
-As noted in [section 8](append41.html#app8) of the appendix ["What happened
-during the Russian Revolution?"](append41.html)). and [section
-H.3.14](secH3.html#sech314), during 1917 Lenin did not favour workers' self-
+As noted in [section 8](append41.md#app8) of the appendix ["What happened
+during the Russian Revolution?"](append41.md)). and [section
+H.3.14](secH3.md#sech314), during 1917 Lenin did not favour workers' self-
 management of production. He raised the idea of _"workers' control"_ after the
 workers spontaneously raised the idea and practice themselves during the
 revolution. Moreover, he interpreted that slogan in his own way, placing it
 within a statist context and within institutions inherited from capitalism
-(see [section H.3.12](secH3.html#sech312)). Once in power, it was
+(see [section H.3.12](secH3.md#sech312)). Once in power, it was
 (unsurprisingly) **his** vision of socialism and workers' control that was
 implemented, **not** the workers' factory committees. The core of that vision
 he repeatedly stressed had been raised **before** the October revolution.
@@ -979,8 +979,8 @@ and p. 8]
 
 Sadly, this _"organisation"_ was riddled with authoritarianism and was
 fundamentally top-down in nature. His "socialist" vision was simply state
-capitalism (see [section 10](append41.html#app10) of the appendix ["What
-happened during the Russian Revolution?"](append41.html)). However, what
+capitalism (see [section 10](append41.md#app10) of the appendix ["What
+happened during the Russian Revolution?"](append41.md)). However, what
 interests us here is that his arguments to justify the "socialist" policies he
 presented are similar to those put forward by Engels in _"On Authority."_ As
 such, we can only reach the following conclusions. Firstly, that the _"state
@@ -990,7 +990,7 @@ workers' control in 1917 that was atypical and not part of their tradition,
 **not** their policies once in power (as modern day Leninists assert).
 Secondly, that this vision had its roots in classical Marxism, specifically
 Engels' _"On Authority"_ and the identification of socialism with nationalised
-property (see [section H.3.13](secH3.html#sech313) for more on this).
+property (see [section H.3.13](secH3.md#sech313) for more on this).
 
 That Engels diatribe had a negative impact on the development of the Russian
 revolution can easily be seen from Lenin's arguments. For example, Lenin
@@ -1043,7 +1043,7 @@ and p. 44]
 
 The parallels with Engels' _"On Authority"_ could not be clearer, as are the
 fallacies of Lenin's assertions (see, for example, [section
-H.4.4](secH4.html#sech44)). Lenin, like Engels, uses the example of modern
+H.4.4](secH4.md#sech44)). Lenin, like Engels, uses the example of modern
 industry to bolster his arguments. Yet the net effect of Lenin's argument was
 to eliminate working class economic power at the point of production. Instead
 of socialist social relationships, Lenin imposed capitalist ones. Indeed, no
@@ -1061,7 +1061,7 @@ these were used by the Nazis and the Stalinists _"for the same purpose."_
 when Lenin introduces it! Similarly, when Trotsky notes that _"[b]lind
 obedience is not a thing to be proud of in a revolutionary,"_ it is somewhat
 different when Lenin calls upon workers to do so (or, for that matter, Trotsky
-himself when in power -- see [section 6](append44.html#app6) for Trotsky's
+himself when in power -- see [section 6](append44.md#app6) for Trotsky's
 radically different perspective on blind obedience of the worker to "his"
 state in 1920!). [**Terrorism and Communism**, p. xlvii]
 
@@ -1246,7 +1246,7 @@ be forgotten and the regime remain a _"workers' state"_!
 By ignoring the key issue Bakunin and other anarchists drew attention to by
 attacking _"authority"_ (and let us not forget that by that they meant
 hierarchical organisations in which power is concentrated at the top in a few
-hands -- see [section H.4](secH4.html)), Engels opened up the way of seeing
+hands -- see [section H.4](secH4.md)), Engels opened up the way of seeing
 democratic decision as being less than important. This is **not** to suggest
 that Engels favoured dictatorship. Rather we are suggesting that by confusing
 two radically different forms of organisation as self-management and hierarchy
@@ -1278,7 +1278,7 @@ revolutionary Russia.
 
 ## 4 How did the Bolshevik vision of "democracy" affect the revolution?
 
-As discussed in [section H.3.2](secH3.html#sech32), Marx and Engels had left
+As discussed in [section H.3.2](secH3.md#sech32), Marx and Engels had left
 their followers which a contradictory legacy as regards _"socialism from
 below."_ On the one hand, their praise for the Paris Commune and its
 libertarian ideas pointed to a participatory democracy run from below. On the
@@ -1292,12 +1292,12 @@ obstacle in the path"_ the revolution due to _"local and provincial
 obstinacy."_ [**Marx-Engels Reader**, p. 509]
 
 Building upon this contradictory legacy, Lenin unambiguously stressed the
-_"from above"_ aspect of it (see [section H.3.3](secH3.html#sech33) for
+_"from above"_ aspect of it (see [section H.3.3](secH3.md#sech33) for
 details). The only real exception to this perspective occurred in 1917, when
 Lenin was trying to win mass support for his party. However, even this support
 for democracy from below was always tempered by reminding the reader that the
 Bolsheviks stood for centralisation and strong government once they were in
-power (see [section 7](append44.html#app7)).
+power (see [section 7](append44.md#app7)).
 
 Once in power, the promises of 1917 were quickly forgotten. Unsurprisingly,
 modern day Leninists argue that this was due to the difficult circumstances
@@ -1333,15 +1333,15 @@ not only easy to implement, but had to be as alternative options had been
 eliminated by previous policies. Moreover, Bolshevik ideology itself made such
 policies easy to accept and to justify.
 
-As discussed in [section 6](append41.html#app6) of the appendix ["What
-happened during the Russian Revolution?"](append41.html),it was during this
+As discussed in [section 6](append41.md#app6) of the appendix ["What
+happened during the Russian Revolution?"](append41.md),it was during this
 period that the Bolsheviks started to gerrymander soviets and disband any they
-lost elections to. As we indicate in [section 9](append41.html#app9) of the
-appendix ["What happened during the Russian Revolution?"](append41.html), they
+lost elections to. As we indicate in [section 9](append41.md#app9) of the
+appendix ["What happened during the Russian Revolution?"](append41.md), they
 undermined the factory committees, stopping them federating and basically
 handed the factories to the state bureaucracy. Lenin argued for and
 implemented one-man management, piecework, Taylorism and other things
-Stalinism is condemned for (see [section 3](append44.html#app3), for example).
+Stalinism is condemned for (see [section 3](append44.md#app3), for example).
 In the army, Trotsky disbanded the soldier committees and elected officers by
 decree.
 
@@ -1435,7 +1435,7 @@ of society? Of course not.
 This vision of top-down "democracy" can, of course, be traced back to Marx's
 arguments of 1850 and Lenin's comments that the _"organisational principle of
 revolutionary Social-Democracy"_ was _"to proceed from the top downward."_
-(see sections [H.3.2](secH3.html#sech32) and [H.3.3](secH3.html#sech33)). By
+(see sections [H.3.2](secH3.md#sech32) and [H.3.3](secH3.md#sech33)). By
 equating centralised, top-down decision making by an elected government with
 "democracy," the Bolsheviks had the ideological justification to eliminate the
 functional democracy associated with the factory committees and soldiers
@@ -1500,11 +1500,11 @@ affairs**"_ [**Op. Cit.**, p. 361] Obviously things looked a bit different
 once he and his fellow Bolshevik leaders were in power. Then the exclusion of
 the poor from the affairs of the _"higher"_ administration was seen as normal
 practice, as proven by the practice of the trade unions! And as we note in
-[section H.3.8](secH3.html#sech38), this _"exclusion"_ was taken as a key
+[section H.3.8](secH3.md#sech38), this _"exclusion"_ was taken as a key
 lesson of the revolution and built into the Leninist theory of the state.
 
 This development was not unexpected. After all, as we noted in [section
-H.5.5](secH5.html#sech55), over a decade before Lenin had been less than
+H.5.5](secH5.md#sech55), over a decade before Lenin had been less than
 enthralled by _"primitive democracy"_ and more in agreement with Bernstein
 than he lets on in **State and Revolution**. In **What is to Be Done?**, he
 based his argument for centralised, top-down party organisation on the
@@ -1531,7 +1531,7 @@ This fundamentally undemocratic perspective can be found today in modern
 Leninism. As well as defending the Bolshevik dictatorship during the civil
 war, modern Leninists support the continuation of party dictatorship after its
 end. In particular, they support the Bolshevik repression of the Kronstadt
-rebellion (see appendix ["What was the Kronstadt Rebellion?"](append42.html)
+rebellion (see appendix ["What was the Kronstadt Rebellion?"](append42.md)
 for more details). As Trotsky put it in 1937, if the Kronstadt demand for
 soviet elections had been implemented then _"to free the soviets from the
 leadership [sic!] of the Bolsheviks would have meant within a short time to
@@ -1556,7 +1556,7 @@ _"objective necessity"_ of the _"revolutionary dictatorship of a proletarian
 party"_ and, two years later, that the _"vanguard of the proletariat"_ must be
 _"armed with the resources of the state in order to repel dangers, including
 those emanating from the backward layers of the proletariat itself."_ (see
-[section H.3.8](secH3.html#sech38)). If only modern day Leninists were as
+[section H.3.8](secH3.md#sech38)). If only modern day Leninists were as
 honest!
 
 So the Bolshevik contempt for working class self-government still exists.
@@ -1603,7 +1603,7 @@ economy.
 
 ## 5 What was the effect of the Bolshevik vision of "socialism"?
 
-As we discussed in [section H.3.1](secH3.html#sech31), anarchists and most
+As we discussed in [section H.3.1](secH3.md#sech31), anarchists and most
 Marxists are divided not only by **means** but also by **ends**. Simply put,
 libertarians and Leninist do **not** have the same vision of socialism. Given
 this, anarchists are not surprised at the negative results of the Bolshevik
@@ -1730,7 +1730,7 @@ Lenin had promised, built from the top-down their system of _"unified
 administration"_ based on the Tsarist system of central bodies which governed
 and regulated certain industries during the war. [Brinton, **Op. Cit.**, p.
 36] This was very centralised and very inefficient (see [section
-7](append44.html#app7) for more discussion).
+7](append44.md#app7) for more discussion).
 
 Moreover, having little real understanding of the circumstances on the ground
 they could not compare their ideological assumptions and preferences to
@@ -1757,8 +1757,8 @@ Bolshevik Russia**, p. 106]
 All in all, the Bolshevik vision of socialism was a disaster. Centralism was a
 source of massive economic mismanagement and, moreover, bureaucratisation from
 the start. As anarchists had long predicted. As we discuss in [section
-12](append41.html#app12) of the appendix ["What happened during the Russian
-Revolution?"](append41.html), there was an alternative in the form of the
+12](append41.md#app12) of the appendix ["What happened during the Russian
+Revolution?"](append41.md), there was an alternative in the form of the
 factory committees and the federation. Sadly this was not part of the
 Bolshevik vision. At best they were tacked onto this vision as a (very) junior
 partner (as in 1917) or they were quickly marginalised and then dumped when
@@ -1783,7 +1783,7 @@ to benefit the whole people**; by this token it **ceases** to be capitalist
 monopoly."_ [**The Threatening Catastrophe and how to avoid it**, p. 38 and p.
 37] This was in May, 1917. A few months latter, he was talking about how the
 institutions of state capitalism could be taken over and used to create
-socialism (see [section H.3.12](secH3.html#sech312)). Unsurprisingly, when
+socialism (see [section H.3.12](secH3.md#sech312)). Unsurprisingly, when
 defending Cliff's _"new formulation"_ against the _"Left Communists"_ in the
 spring of 1918 he noted that he gave his _"'high' appreciation of state
 capitalism"_ _"**before** the Bolsheviks seized power."_ [**Selected Works**,
@@ -1802,9 +1802,9 @@ such a state, standing on such an economic basis, that we need."_ [**Essential
 Works of Lenin**, pp. 307-8]
 
 Given this, Lenin's rejection of the factory committee's model of socialism
-comes as no surprise (see [section 10](append41.html#app10) of the appendix
-["What happened during the Russian Revolution?"](append41.html) for more
-details). As we noted in [section H.3.14](secH3.html#sech314), rather than
+comes as no surprise (see [section 10](append41.md#app10) of the appendix
+["What happened during the Russian Revolution?"](append41.md) for more
+details). As we noted in [section H.3.14](secH3.md#sech314), rather than
 promote workers' control, Lenin effectively undermined it. Murray Bookchin
 points out the obvious:
 
@@ -1849,8 +1849,8 @@ of over this number)... and 5 from the All-Russian Council of Factory
 Committees! The Factory Committees often under anarcho-syndicalist influence
 had been well and truly 'cut down to size'."_ [**Op. Cit.**, p. 18]
 
-As we note in [section 10](append41.html#app10) of the appendix ["What
-happened during the Russian Revolution?"](append41.html), this was a conscious
+As we note in [section 10](append41.md#app10) of the appendix ["What
+happened during the Russian Revolution?"](append41.md), this was a conscious
 preference on Lenin's part. The factory committees had started to federate,
 creating their own institutional framework of socialism based on the workers
 own class organisation. Lenin, as he had explained in 1917, favoured using the
@@ -1879,9 +1879,9 @@ revolution, workers' power and, sadly, build the foundations of Stalinism.
 
 ## 6 How did Bolshevik preference for nationalisation affect the revolution?
 
-As noted in the [last section](append44.html#app5), unlike anarchism, for
+As noted in the [last section](append44.md#app5), unlike anarchism, for
 Bolshevism nationalisation, **not** workers' self-management, was the key
-issue in socialism. As noted in [section 3](append44.html#app3), Lenin had
+issue in socialism. As noted in [section 3](append44.md#app3), Lenin had
 proclaimed the necessity for appointed one-man managers and implementing
 _"state capitalism"_ in April 1918. Neither policy was thought to harm the
 socialist character of the regime. As Trotsky stressed in 1920, the decision
@@ -1902,7 +1902,7 @@ had not plundered our economic organs of all that was strongest, most
 independent, most endowed with initiative, we should undoubtedly have entered
 the path of one-man management in the sphere of economic administration much
 sooner and much less painfully."_ [**Op. Cit.**, pp. 162-3] As discussed in
-the [previous section](append44.html#app5), this evaluation fits perfectly
+the [previous section](append44.md#app5), this evaluation fits perfectly
 into Bolshevik ideology and practice before and after they seized power. One
 can easily find dozens of quotations from Lenin expressing the same idea.
 
@@ -1931,9 +1931,9 @@ pp. 171-2] Thus working class control over their own affairs was of little
 importance: _"The worker does not merely bargain with the Soviet State; no, he
 is subordinated to the Soviet State, under its orders in every direction --
 for it is **his** State."_ [**Op. Cit.**, p. 168] This, of course, echoed his
-own arguments in favour of appointment (see [section 4](append44.html#app4))
+own arguments in favour of appointment (see [section 4](append44.md#app4))
 **and** Lenin's demands for the _"exercise of dictatorial powers by
-individuals"_ in the workplace (see [section 3](append44.html#app3)) in early
+individuals"_ in the workplace (see [section 3](append44.md#app3)) in early
 1918. Cornelius Castoriadis points out the obvious:
 
 > _ "The role of the proletariat in the new State was thus quite clear. It was
@@ -1986,8 +1986,8 @@ united on the basic of federalism, into industrial federations . . . [and]
 poly-industrial soviets of national economy."_ Only in that way could **real**
 socialism be created. [quoted by Frederick I. Kaplan, **Bolshevik Ideology and
 the Ethics of Soviet Labour**, p. 163 and p. 166] (see [section
-7](append41.html#app7) of the appendix ["What happened during the Russian
-Revolution?"](append41.html) for more on the factory committee movement).
+7](append41.md#app7) of the appendix ["What happened during the Russian
+Revolution?"](append41.md) for more on the factory committee movement).
 
 The reason is obvious. It is worth quoting Cornelius Castoriadis at length on
 why the Bolshevik system was doomed to failure:
@@ -2108,7 +2108,7 @@ which had ensured success in the civil war. Thus on all sides the masses were
 pushed away gradually from actual participation in the leadership of the
 country."_ [**The Revolution Betrayed**] Needless to say, he failed to note
 who had abolished the election of commanders in the Red Army in March 1918,
-namely himself (see [section 4](append44.html#app4)). Similarly, he failed to
+namely himself (see [section 4](append44.md#app4)). Similarly, he failed to
 note that the _"masses"_ had been _"pushed . . . from actual participation in
 the leadership of the country"_ well before the end of the civil war and that,
 at the time, he was not concerned about it. Equally, it would be churlish to
@@ -2149,7 +2149,7 @@ The next issue we will discuss is centralisation. Before starting, it is
 essential that it be stressed that anarchists are **not** against co-ordinated
 activity and organisation on a large scale. Anarchists stress the need for
 federalism to meet the need for such work (see [section
-A.2.9](secA2.html#seca29), for example). As such, our critique of Bolshevik
+A.2.9](secA2.md#seca29), for example). As such, our critique of Bolshevik
 centralism is **not** a call for "localism" or isolation (as many Leninists
 assert). Rather, it is a critique of **how** the social co-operation essential
 for society will be conducted. Will it be in a federal (and so bottom-up) way
@@ -2158,7 +2158,7 @@ or will it be in a centralised (and so top-down) way?
 It goes almost without saying that Bolshevik ideology was centralist in
 nature. Lenin repeatedly stressed the importance of centralisation, arguing
 constantly that Marxism was, by its very nature, centralist (and top-down --
-[section H.3.3](secH3.html#sech33)). Long before the revolution, Lenin had
+[section H.3.3](secH3.md#sech33)). Long before the revolution, Lenin had
 argued that within the party it was a case of _"the transformation of the
 power of ideas into the power of authority, the subordination of lower Party
 bodies to higher ones."_ [**Collected Works**, vol. 7, p. 367] Such visions of
@@ -2189,7 +2189,7 @@ That centralism works in this way should come as no surprise. After all, it
 based on centralising power at the top of an organisation and, consequently,
 into a few hands. It was for this precise reason that **every** ruling class
 in history has utilised centralisation against the masses. As we indicated in
-[section B.2.5](secB2.html#secb25), centralisation has always been the tool of
+[section B.2.5](secB2.md#secb25), centralisation has always been the tool of
 minority classes to disempower the masses. In the American and French
 revolutions, centralisation of state power was the means used to destroy the
 revolution, to take it out off the hands of the masses and concentrate it into
@@ -2215,7 +2215,7 @@ the central government even more."_ [**Words of a Rebel**, p. 143]
 
 Can we expect a similar concentration of the central power under the
 Bolsheviks to have a different impact? And, as discussed in appendix ["What
-happened during the Russian Revolution?"](append41.html) we find a similar
+happened during the Russian Revolution?"](append41.md) we find a similar
 marginalisation of the working class from its own revolution. Rather than
 being actively participating in the transformation of society, they were
 transformed into spectators who simply were expected to implement the
@@ -2404,8 +2404,8 @@ top to bottom. Faced with rejection at soviet election after soviet election,
 the Bolsheviks simply disbanded them and gerrymandered the rest. At the summit
 of the new state, a similar process was at work. The soviets had little real
 power, which was centralised in Lenin's new government. This is discussed in
-more detail in [section 6](append41.html#app6) of the appendix ["What happened
-during the Russian Revolution?"](append41.html). Thus centralisation quickly
+more detail in [section 6](append41.md#app6) of the appendix ["What happened
+during the Russian Revolution?"](append41.md). Thus centralisation quickly
 displaced popular power and participation. As predicted by Russia anarchists
 in November 1917:
 
@@ -2530,8 +2530,8 @@ the core of their politics and universalised it to a general principle for
 of power and activity (and so the bureaucratisation of life). They only
 objected to it when the bureaucracy was not doing what the party wanted it to.
 Indeed, this was the basic argument of Trotsky against Stalinism (see [section
-3](append45.html#app3) of the appendix on ["Were any of the Bolshevik
-oppositions a real alternative?"](append45.html)).
+3](append45.md#app3) of the appendix on ["Were any of the Bolshevik
+oppositions a real alternative?"](append45.md)).
 
 Faced with this bureaucracy, the Bolsheviks tried to combat it
 (unsuccessfully) and explain it. As the failed to achieve the latter, they
@@ -2582,7 +2582,7 @@ by the Bolsheviks. Rejecting the alternative vision of socialism advocated
 and, in part created, by the factory committees (and supported wholeheartedly
 by the Russian Anarchists at the time), the Bolsheviks basically took over and
 used the _"state capitalist"_ organs created under Tsarism as the basis of
-their "socialism" (see [section 5](append44.html#app5)). As Lenin promised
+their "socialism" (see [section 5](append44.md#app5)). As Lenin promised
 **before** seizing power:
 
 > _ "**Forced syndicatisation** \-- that is, forced fusion into unions [i.e.
@@ -2593,11 +2593,11 @@ dictatorship of the proletariat."_ [**Will the Bolsheviks Maintain Power?**,
 p. 53]
 
 In practice, Lenin's centralised vision soon proved to be a disaster (see
-[section 11](append41.html#app11) of the appendix ["What happened during the
-Russian Revolution?"](append41.html) for details). It was highly inefficient
+[section 11](append41.md#app11) of the appendix ["What happened during the
+Russian Revolution?"](append41.md) for details). It was highly inefficient
 and simply spawned a vast bureaucracy. There was an alternative, as we discuss
-in [section 12](append41.html#app12) of the appendix ["What happened during
-the Russian Revolution?"](append41.html), the only reason that industry did
+in [section 12](append41.md#app12) of the appendix ["What happened during
+the Russian Revolution?"](append41.md), the only reason that industry did
 not totally collapse in Russia during the early months of the revolution was
 the activity of the factory committees. However, such activity was not part of
 the Bolshevik vision of centralised socialism and so the factory committees
@@ -2626,14 +2626,14 @@ more efficient. Moreover, attacks on the factory committees for lack of co-
 ordination by pro-Leninists seem less than sincere, given the utter lack of
 encouragement (and, often, actual barriers) the Bolsheviks placed in the way
 of the creation of federations of factory committees (see [section
-9](append41.html#app9) of the appendix ["What happened during the Russian
-Revolution?"](append41.html) for further details).
+9](append41.md#app9) of the appendix ["What happened during the Russian
+Revolution?"](append41.md) for further details).
 
 Lastly, Bolshevik centralism (as well as being extremely inefficient) also
 ensured that the control of production and the subsequent surplus would be in
 the hands of the state and, so, class society would continue. In Russia,
 capitalism became state capitalism under Lenin and Trotsky (see sections
-[5](append44.html#app5) and [6](append44.html#app6) for more discussion of
+[5](append44.md#app5) and [6](append44.md#app6) for more discussion of
 this).
 
 So Bolshevik support for centralised power ensured that minority power
@@ -2744,8 +2744,8 @@ it be surprising, then, that Bolshevik policies aided the atomisation of the
 working class by replacing collective organisation and action by state
 bureaucracy? The potential for collective action **was** there. You need only
 look at the strikes and protests directed **against** the Bolsheviks to see
-that was the case (see [section 5](append43.html#app5) of the appendix on
-["What caused the degeneration of the Russian Revolution?"](append43.html) for
+that was the case (see [section 5](append43.md#app5) of the appendix on
+["What caused the degeneration of the Russian Revolution?"](append43.md) for
 details). Ironically, Bolshevik policies and ideology ensured that the
 collective effort and action of workers was directed not at solving the
 revolution's problems but resisting Bolshevik tyranny.
@@ -2758,7 +2758,7 @@ mistakes and, consequently, learn from them. Thus he defends Lenin's economic
 policies of _"state capitalism"_ and _"one-man management"_ (and in the
 process misleadingly suggests that these were **new** ideas on Lenin's part,
 imposed by objective factors, rather than, as Lenin acknowledged, what he had
-advocated all along -- see [section 5](append44.html#app5)). Thus we discover
+advocated all along -- see [section 5](append44.md#app5)). Thus we discover
 that the collapse of industry (which had started in the start of 1917) meant
 that _"[d]rastic measures had to be taken."_ But never fear, _"Lenin was not
 one to shirk responsibility, however unpleasant the task."_ He called for
@@ -2814,8 +2814,8 @@ bureaucracy around these new centralised institutions.
 
 As well as a passion for centralisation and state capitalism, Bolshevism had
 another aim which helped undermine the revolution. This was the goal of party
-power (see see [section 5](append41.html#app5) of the appendix ["What happened
-during the Russian Revolution?"](append41.html) for details). Given this,
+power (see see [section 5](append41.md#app5) of the appendix ["What happened
+during the Russian Revolution?"](append41.md) for details). Given this,
 namely that the Bolsheviks had, from the start, aimed for party power it
 should not come as too surprising that Bolshevik dictatorship quickly replaced
 soviet democracy.
@@ -2826,7 +2826,7 @@ all, when strange for modern day Leninists to blame the civil war for the
 Bolsheviks substituting their rule for the masses. After all, when the
 Bolshevik Party took power in October 1917, it did "substitute" itself for the
 working class and did so deliberately and knowingly. As we note in [section
-2](append44.html#app2), this usurpation of power by a minority was perfectly
+2](append44.md#app2), this usurpation of power by a minority was perfectly
 acceptable within the Marxist theory of the state, a theory which aided this
 process no end.
 
@@ -2836,21 +2836,21 @@ masses turn against the party. If the Bolsheviks embody _"the power of the
 proletariat,"_ what happens if the proletariat reject the party? The
 undermining of soviet power by party power and the destruction of soviet
 democracy in the spring and summer of 1918 answers that specific question (see
-[section 6](append41.html#app6) of the appendix ["What happened during the
-Russian Revolution?"](append41.html)). This should have come as no surprise,
+[section 6](append41.md#app6) of the appendix ["What happened during the
+Russian Revolution?"](append41.md)). This should have come as no surprise,
 given the stated aim (and implementation) of party power plus the Bolshevik
 identification of party power with workers' power. It is not a great step to
 party dictatorship **over** the proletariat from these premises (particularly
 if we include the underlying assumptions of vanguardism -- see [section
-H.5.3](secH5.html#sech53)). A step, we must stress, that the Bolsheviks
+H.5.3](secH5.md#sech53)). A step, we must stress, that the Bolsheviks
 quickly took when faced with working class rejection in the soviet elections
 of spring and summer of 1918.
 
 Nor was this destruction of soviet democracy by party power just the result of
 specific conditions in 1917-8. This perspective had been in Russian Marxist
 circles well before the revolution. As we discuss in [section
-H.5](secH5.html), vanguardism implies party power (see, as noted, [section
-H.5.3](secH5.html#sech53) in particular). The ideas of Lenin's **What is to be
+H.5](secH5.md), vanguardism implies party power (see, as noted, [section
+H.5.3](secH5.md#sech53) in particular). The ideas of Lenin's **What is to be
 Done?** give the ideological justification for party dictatorship over the
 masses. Once in power, the logic of vanguardism came into its own, allowing
 the most disgraceful repression of working class freedoms to be justified in
@@ -2894,8 +2894,8 @@ to say, he was mightily annoyed when Lenin threw his words back in his face in
 Plekhanov came to reject this position (perhaps because the elections had not
 _"turned out badly for"_ his liking) it is obvious that the Bolsheviks
 embraced it and keenly applied it to elections to soviets and unions as well
-as Parliaments once in power (see [section 6](append41.html#app6) of the
-appendix ["What happened during the Russian Revolution?"](append41.html) for
+as Parliaments once in power (see [section 6](append41.md#app6) of the
+appendix ["What happened during the Russian Revolution?"](append41.md) for
 example). But, at the time, he sided with Lenin against the Mensheviks and it
 can be argued that the latter applied these teachings of that most respected
 pre-1914 Russian Marxist thinker.
@@ -2974,12 +2974,12 @@ unaffiliated organisations or soviets individual delegates or party groups are
 subject to unconditional control and guidance by the party executive."_
 [quoted by Anweilier, **Op. Cit.**, p. 81] These comments have clear links to
 Lenin's argument in 1920 that working class protest against the Bolsheviks
-showed that they had become _"declassed"_ (see [section 5](append43.html#app5)
+showed that they had become _"declassed"_ (see [section 5](append43.md#app5)
 of the appendix on ["What caused the degeneration of the Russian
-Revolution?"](append43.html)). It similarly allows soviets to be disbanded if
+Revolution?"](append43.md)). It similarly allows soviets to be disbanded if
 Bolsheviks are not elected (which they were, see [section
-6](append41.html#app6) of the appendix ["What happened during the Russian
-Revolution?"](append41.html)). It also ensures that Bolshevik representatives
+6](append41.md#app6) of the appendix ["What happened during the Russian
+Revolution?"](append41.md)). It also ensures that Bolshevik representatives
 to the soviets are not delegates from the workplace, but rather a
 "transmission belt" (to use a phrase from the 1920s) for the decisions of the
 party leadership. In a nutshell, Bolshevik soviets would represent the party's
@@ -2995,7 +2995,7 @@ as **controlled** organisations; for him they were the instruments by which
 the party controlled the working masses, rather than true forms of a workers
 democracy."_ [**Op. Cit.**, p. 85]
 
-As we noted in [section H.3.11](secH3.html#sech311), Lenin had concluded in
+As we noted in [section H.3.11](secH3.md#sech311), Lenin had concluded in
 1907 that while the party could _"utilise"_ the soviets _"for the purpose of
 developing the Social-Democratic movement,"_ the party _"must bear in mind
 that if Social-Democratic activities among the proletarian masses are
@@ -3018,8 +3018,8 @@ as expressing a predisposition favouring the party and downgrading the soviets
 and other non-party class organisations, at least in relative terms."_
 [**Before Stalinism**, p. 37] Such a perspective on the soviets can be seen
 once the party was in power when they quickly turned them, without concern,
-into mere fig-leafs for party power (see [section 6](append41.html#app6) of
-the appendix ["What happened during the Russian Revolution?"](append41.html)
+into mere fig-leafs for party power (see [section 6](append41.md#app6) of
+the appendix ["What happened during the Russian Revolution?"](append41.md)
 for more details).
 
 It cannot be mere coincidence that the ideas and rhetoric against the soviets
@@ -3039,7 +3039,7 @@ dedicated to Soviet power' [i.e. Mensheviks and SRs] from the newly
 established network of soviet administrative departments and from the soviet
 militias. Soviets where Bolshevik majorities could not be achieved were simply
 disbanded."_ A similar process occurred at the summit (see [section
-7](append44.html#app7)). Thus _"the October revolution marked [the soviets]
+7](append44.md#app7)). Thus _"the October revolution marked [the soviets]
 transformation from agents of democratisation into regional and local
 administrative organs of the centralised, one-party Soviet state."_ [Israel
 Getzler, **Soviets as Agents of Democratisation**, p. 27 and pp. 26-7]
@@ -3087,7 +3087,7 @@ democracy and party power, the Bolsheviks consistently favoured the latter.
 
 Thus Bolshevik ideology had consistently favoured party power and had a long
 term ideological preference for it. Combine this aim of party power with a
-vanguardism position (see [section H.5](secH5.html)) and party dictatorship
+vanguardism position (see [section H.5](secH5.md)) and party dictatorship
 will soon result. Neil Harding summarises the issue well:
 
 > _ "There were a number of very basic axioms that lay at the very heart of
@@ -3118,7 +3118,7 @@ Bolshevism claims to be **the** party of the working class, representing it
 essentially or exclusively, they do so in the name of possessing a theory
 that, qua theory, can be the possession of intellectuals and, therefore, has
 to be "introduced" to the working class from outside (see [section
-H.5.1](secH5.html#sech51) for details).
+H.5.1](secH5.md#sech51) for details).
 
 This means that Bolshevism is rooted in the identification of "class
 consciousness" with supporting the party. Given the underlying premises of
@@ -3163,7 +3163,7 @@ from the class (i.e. party) it claimed to in service of. Needless to say, few
 Leninists ponder the links between the rising _"independence"_ of the state
 machine from the proletariat (by which most, in fact, mean the _"vanguard"_ of
 the proletariat, the party) and Bolshevik ideology. As noted in [section
-H.3.8](secH3.html#sech38), a key development in Bolshevik theory on the state
+H.3.8](secH3.md#sech38), a key development in Bolshevik theory on the state
 was the perceived need for the vanguard to ignore the wishes of the class it
 claimed to represent and lead. For example, Victor Serge (writing in the
 1920s) considered it a truism that the _"party of the proletariat must know,
@@ -3227,8 +3227,7 @@ justify -- the dictatorship **over** the proletariat. The civil war may have
 shaped certain aspects of these authoritarian tendencies but it did not create
 them.
 
-[‹ What caused the degeneration of the Russian
-Revolution?](/afaq/append43.html "Go to previous page" )
-[up](/afaq/append4.html "Go to parent page" ) [Were any of the Bolshevik
-oppositions a real alternative? ›](/afaq/append45.html "Go to next page" )
+[‹ What caused the degeneration of the Russian Revolution?](append43.md "Go
+to previous page" ) [up](append4.md "Go to parent page" ) [Were any of the
+Bolshevik oppositions a real alternative? ›](append45.md "Go to next page" )
 

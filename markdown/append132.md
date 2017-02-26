@@ -83,13 +83,13 @@ control over his own person are inalienable."_ [**Op. Cit.**, pp. 134-5]
 
 But _"labour services"_ are unlike the private possessions Rothbard lists as
 being alienable. As we argued in section B.1 (["Why do anarchists oppose
-hierarchy"](secB1.html)) a person's _"labour services"_ and _"will"_ cannot be
+hierarchy"](secB1.md)) a person's _"labour services"_ and _"will"_ cannot be
 divided -- if you sell your labour services, you also have to give control of
 your body and mind to another person! If a worker does not obey the commands
 of her employer, she is fired. That Rothbard denies this indicates a total
 lack of common-sense. Perhaps Rothbard will argue that as the worker can quit
 at any time she does not alienate their will (this seems to be his case
-against slave contracts -- see [section 2.6](append132.html#secf26)). But this
+against slave contracts -- see [section 2.6](append132.md#secf26)). But this
 ignores the fact that between the signing and breaking of the contract and
 during work hours (and perhaps outside work hours, if the boss has mandatory
 drug testing or will fire workers who attend union or anarchist meetings or
@@ -175,7 +175,7 @@ example, as Ayn Rand points out, _"man has to sustain his life by his own
 effort, the man who has no right to the product of his effort has no means to
 sustain his life. The man who produces while others dispose of his product, is
 a slave."_ [**The Ayn Rand Lexicon: Objectivism from A to Z**, pp. 388-9] But,
-as was shown in [section C](secCcon.html), capitalism is based on, as Proudhon
+as was shown in [section C](secCcon.md), capitalism is based on, as Proudhon
 put it, workers working _"for an entrepreneur who pays them and keeps their
 products,"_ and so is a form of **theft.** Thus, by "libertarian" capitalism's
 **own** logic, capitalism is based not on freedom, but on (wage) slavery; for
@@ -388,7 +388,7 @@ is doomed to create relations of domination, not freedom, between individuals
 -- as Rothbard's theory does (to put it another way, voluntary association is
 a necessary, but not sufficient, condition for freedom. Which is why
 anarchists have always stressed the importance of equality -- see [section
-3](append133.html) for details).
+3](append133.md) for details).
 
 So while facts of nature can restrict your options and freedom, it is the
 circumstances within which they act and the options they limit that are
@@ -411,7 +411,7 @@ actual liberty and instead concentrate on an abstract form of liberty which
 ignores so many sources of unfreedom as to narrow the concept until it becomes
 little more than a justification for authoritarianism. This can be seen from
 right-Libertarian attitudes about private property and its effects on liberty
-(as discussed in the [next section](append132.html#secf22)).
+(as discussed in the [next section](append132.md#secf22)).
 
 ## 2.2 How does private property affect freedom?
 
@@ -478,8 +478,8 @@ another example of mutually beneficial exchange"_ [**Op. Cit.**, p. 137]).
 However, this does not stop the relationship being authoritarian or
 dictatorial (and so exploitative as it is **highly** unlikely that those at
 the top will not abuse their power). And as we argue further in the [next
-section](append132.html#secf23) (and also see sections [B.4](secB4.html),
-[3.1](append133.html#secf31) and [10.2](append1310.html#secf102)), in a
+section](append132.md#secf23) (and also see sections [B.4](secB4.md),
+[3.1](append133.md#secf31) and [10.2](append1310.md#secf102)), in a
 capitalist society workers have the option of finding a job or facing abject
 poverty and/or starvation.
 
@@ -515,7 +515,7 @@ relationships that exist in capitalist society and, as Rand does here, imply
 that these social relationships are like "the laws of nature." However, if one
 looks at the world without prejudice but with an eye to maximising freedom,
 the major coercive institution is seen to be not the state but capitalist
-social relationships (as indicated in [section B.4](secB4.html)).
+social relationships (as indicated in [section B.4](secB4.md)).
 
 The right "libertarian," then, far from being a defender of freedom, is in
 fact a keen defender of certain forms of authority and domination. As Peter
@@ -538,7 +538,7 @@ However, anarchism, by definition, is in favour of organisations and social
 relationships which are non-hierarchical and non-authoritarian. Otherwise,
 some people are more free than others. Failing to attack hierarchy leads to
 massive contradiction. For example, since the British Army is a volunteer one,
-it is an "anarchist" organisation! (see [next section](append132.html#secf23)
+it is an "anarchist" organisation! (see [next section](append132.md#secf23)
 for a discussion on why the "anarcho"-capitalism concept of freedom also
 allows the state to appear "libertarian").
 
@@ -615,7 +615,7 @@ living on his property."_ [**The Ethics of Liberty**, p. 170]
 Rothbard's argues that this is **not** the case simply because the state did
 not acquire its property in a _"just"_ manner and that it claims rights over
 virgin land (both of which violates Rothbard's "homesteading" theory of
-property -- see [section 4.1](append134.html#secf41) for details and a
+property -- see [section 4.1](append134.md#secf41) for details and a
 critique). Rothbard argues that this defence of statism (the state as property
 owner) is unrealistic and ahistoric, but his account of the origins of
 property is equally unrealistic and ahistoric and that does not stop him
@@ -674,7 +674,7 @@ Logically this means that if a system of corporate states evolved from the
 workings of the capitalist market then the "anarcho"-capitalist would have
 nothing against it. This can be seen from "anarcho"-capitalist support for
 company towns even though they have correctly been described as _"industrial
-feudalism"_ (see [section 6](append136.html) for more on this).
+feudalism"_ (see [section 6](append136.md) for more on this).
 
 Fourthly, Rothbard's argument implies that similar circumstances producing
 similar relationships of domination and unfreedom are somehow different if
@@ -683,7 +683,7 @@ because the property is _"justly"_ acquired it means the authority a
 capitalist over his employees is totally different from that of a state over
 its subject. But such a claim is false -- both the subject/citizen and the
 employee are in a similar relationship of domination and authoritarianism. As
-we argued in [section 2.2](append132.html#secf22), how a person got into a
+we argued in [section 2.2](append132.md#secf22), how a person got into a
 situation is irrelevant when considering how free they are. Thus, the person
 who "consents" to be governed by another because all available resources are
 privately owned is in exactly the same situation as a person who has to join a
@@ -699,7 +699,7 @@ so is capitalism. And, we must add, how "just" is a system which undermines
 liberty. Can "justice" ever be met in a society in which one class has more
 power and freedom than another. If one party is in an inferior position, then
 they have little choice but to agree to the disadvantageous terms offered by
-the superior party (see [section 3.1](append133.html#secf31)). In such a
+the superior party (see [section 3.1](append133.md#secf31)). In such a
 situation, a "just" outcome will be unlikely as any contract agreed will be
 skewed to favour one side over the other.
 
@@ -750,7 +750,7 @@ because it flows from "unjust" property is not seeing the wood for the trees.
 If one reduces liberty, so does the other. Whether the situation we are in
 resulted from "just" or "unjust" steps is irrelevant to the restrictions of
 freedom we face because of them (and as we argue in [ section
-2.5](append132.html#secf25), "unjust" situations can easily flow from "just"
+2.5](append132.md#secf25), "unjust" situations can easily flow from "just"
 steps).
 
 The "anarcho"-capitalist insistence that the voluntary nature of an
@@ -771,8 +771,8 @@ a gun to a worker's head to join a specific company. Yes, indeed, this is true
 majority cannot avoid having to sell their liberty to others (self-employment
 and co-operatives **are** an option, but they account for less than 10% of the
 working population and are unlikely to spread due to the nature of capitalist
-market forces -- see sections [J.5.11](secJ5.html#secj511) and
-[J.5.12](secJ5.html#secj512) for details). And as Bob Black pointed out, right
+market forces -- see sections [J.5.11](secJ5.md#secj511) and
+[J.5.12](secJ5.md#secj512) for details). And as Bob Black pointed out, right
 libertarians argue that _"'one can at least change jobs.' but you can't avoid
 having a job -- just as under statism one can at least change nationalities
 but you can't avoid subjection to one nation-state or another. But freedom
@@ -819,11 +819,11 @@ must work **for him**. You can't help yourself. You are **compelled**."_
 
 Due to this class monopoly over the means of life, workers (usually) are at a
 disadvantage in terms of bargaining power -- there are more workers than jobs
-(see sections [B.4.3](secB4.html#secb43) and [10.2](append1310.html#secf102)
+(see sections [B.4.3](secB4.md#secb43) and [10.2](append1310.md#secf102)
 for a discussion why this is the normal situation on the labour market).
 
 As was indicated in section B.4 ([How does capitalism affect
-liberty?](secB4.html)), within capitalism there is no equality between owners
+liberty?](secB4.md)), within capitalism there is no equality between owners
 and the dispossessed, and so property is a source of **power.** To claim that
 this power should be "left alone" or is "fair" is _"to the anarchists. . .
 preposterous. Once a State has been established, and most of the country's
@@ -854,7 +854,7 @@ Newman, **Liberalism at Wit's End**, p. 130]
 To ignore the circumstances which drive people to seek out the most
 "beneficial exchange" is to blind yourself to the power relationships inherent
 within capitalism -- power relationships created by the unequal bargaining
-power of the parties involved (also see [section 3.1](append133.html#secf31)).
+power of the parties involved (also see [section 3.1](append133.md#secf31)).
 And to argue that "consent" ensures freedom is false; if you are "consenting"
 to be join a dictatorial organisation, you "consent" **not** to be free (and
 to paraphrase Rousseau, a person who renounces freedom renounces being human).
@@ -866,7 +866,7 @@ course, that people become **accustomed** to authoritarian relationships and
 end up viewing them as forms of freedom. This can be seen from the state,
 which the vast majority support and "consent" to. And this also applies to
 wage labour, which many workers today accept as a "necessary evil" (like the
-state) but, as we indicate in [section 8.6](append138.html#secf86), the first
+state) but, as we indicate in [section 8.6](append138.md#secf86), the first
 wave of workers viewed with horror as a form of (wage) slavery and did all
 that they could to avoid. In such situations all we can do is argue with them
 and convince them that certain forms of organisations (such as the state and
@@ -892,8 +892,8 @@ This means that while right-Libertarianism appears to make "choice" an ideal
 "dismal politics," a politics of choice where most of the choices are bad.
 And, to state the obvious, the choices we are "free" to make are shaped by the
 differences in wealth and power in society (see [section
-3.1](append133.html#secf31)) as well as such things as "isolation paradoxes"
-(see [ section B.6](secB6.html)) and the laws and other human institutions
+3.1](append133.md#secf31)) as well as such things as "isolation paradoxes"
+(see [ section B.6](secB6.md)) and the laws and other human institutions
 that exist. If we ignore the context within which people make their choices
 then we glorify abstract processes at the expense of real people. And, as
 importantly, we must add that many of the choices we make under capitalism
@@ -1013,14 +1013,14 @@ its clear that the resultant of individual acts can be harmful to individuals.
 The right-Libertarian could argue that pollution is an "initiation of force"
 against an individual's property-rights in their person and so individuals can
 sue the polluters. But hierarchy also harms the individual (see [section
-B.1](secB1.html)) -- and so can be considered as an infringement of their
+B.1](secB1.md)) -- and so can be considered as an infringement of their
 "property-rights" (i.e. liberty, to get away from the insane property fetish
 of right-Libertarianism). The loss of autonomy can be just as harmful to an
 individual as lung cancer although very different in form. And the differences
 in wealth resulting from hierarchy is well known to have serious impacts on
 life-span and health.
 
-As noted in [section 2.1](append132.html#secf21), the market is just as man-
+As noted in [section 2.1](append132.md#secf21), the market is just as man-
 made as pollution. This means that the "circumstances" we face are due to
 aggregate of millions of individual acts and these acts occur within a
 specific framework of rights, institutions and ethics. Anarchists think that a
@@ -1096,7 +1096,7 @@ sell himself into slavery and have this sale enforced - for this would mean
 that his future will over his own body was being surrendered in advance"_ and
 that if a _"labourer remains totally subservient to his master's will
 voluntarily, he is not yet a slave since his submission is voluntary."_ [p.
-40] However, as we noted in [ section 2](append132.html), Rothbard emphasis on
+40] However, as we noted in [ section 2](append132.md), Rothbard emphasis on
 quitting fails to recognise that actual denial of will and control over ones
 own body that is explicit in wage labour. It is this failure that pro-slave
 contract "libertarians" stress -- as we will see, they consider the slave
@@ -1405,9 +1405,9 @@ majority have the "option" of selling their labour or starving/living in
 poverty -- self-employed workers account for less than 10% of the working
 population. Usually, workers are at a disadvantage on the labour market due to
 the existence of unemployment and so accept wage labour because otherwise they
-would starve (see [ section 10.2](append1310.html#secf102) for a discussion on
+would starve (see [ section 10.2](append1310.md#secf102) for a discussion on
 why this is the case). And as we argue in sections
-[J.5.11](secJ5.html#secj511) and [J.5.12](secJ5.html#secj512), even **if** the
+[J.5.11](secJ5.md#secj511) and [J.5.12](secJ5.md#secj512), even **if** the
 majority of the working population desired co-operative workplaces, a
 capitalist market will not provide them with that outcome due to the nature of
 the capitalist workplace (also see Juliet C. Schor's excellent book **The
@@ -1445,7 +1445,7 @@ And one of these adverse effects can be the restriction of workers options due
 to economic power. Therefore it is the supporter of capitalist who restricts
 options by supporting an economic system and rights framework that by their
 very workings reduce the options available to the majority, who then are "free
-to choose" between those that remain (see also [section B.4](secB4.html)).
+to choose" between those that remain (see also [section B.4](secB4.md)).
 Anarchists, in contrast, desire to expand the available options by abolishing
 capitalist private property rights and removing inequalities in wealth and
 power that help restrict our options and liberties artificially.
@@ -1464,12 +1464,12 @@ spread. But it was not left to the "free market".
 
 In response to these "problems", the capitalists turned to the state and
 enforced various restrictions on society (the most important being the land,
-tariff and money monopolies -- see sections [B.3](secB3.html) and
-[8](append138.html)). In free competition between artisan and wage labour,
+tariff and money monopolies -- see sections [B.3](secB3.md) and
+[8](append138.md)). In free competition between artisan and wage labour,
 wage labour only succeeded due to the use of state action to create the
 required circumstances to discipline the labour force and to accumulate enough
 capital to give capitalists an edge over artisan production (see [section
-8](append138.html) for more details).
+8](append138.md) for more details).
 
 Thus an anarchist society would not have to fear the spreading of wage labour
 within it. This is simply because would-be capitalists (like those in the
@@ -1492,7 +1492,7 @@ followed, has evil or iniquitous consequences, is a bad theory.
 For example, any theory that can justify slavery is obviously a bad theory -
 slavery does not cease to stink the moment it is seen to follow your theory.
 As right-Libertarians can justify slave contracts as a type of wage labour
-(see [section 2.6](append132.html#secf26)) as well as numerous other
+(see [section 2.6](append132.md#secf26)) as well as numerous other
 authoritarian social relationships, it is obviously a bad theory.
 
 It is worth quoting Noam Chomsky at length on this subject:
@@ -1642,7 +1642,7 @@ two unmentionables of right-libertarianism).
 
 For anarchists it seems strange to concentrate on the moment that a contract
 is signed and ignore the far longer time the contract is active for (as we
-noted in [ section A.2.14](secA2.html#seca214), if the worker is free when
+noted in [ section A.2.14](secA2.md#seca214), if the worker is free when
 they sign a contract, slavery soon overtakes them). Yes, the voluntary nature
 of a decision is important, but so are the social relationships we experience
 due to those decisions.
@@ -1678,8 +1678,8 @@ Fundamentally, it is for this reason that anarchists reject the right-
 Libertarian theories of freedom and justice -- it just does not ensure
 individual freedom or individuality.
 
-[‹ 1 Are "anarcho"-capitalists really anarchists?](/afaq/append131.html "Go to
-previous page" ) [up](/afaq/append13.html "Go to parent page" ) [3 Why do
-anarcho"-capitalists place little or no value on "equality"?
-›](/afaq/append133.html "Go to next page" )
+[‹ 1 Are "anarcho"-capitalists really anarchists?](append131.md "Go to
+previous page" ) [up](append13.md "Go to parent page" ) [3 Why do
+anarcho"-capitalists place little or no value on "equality"? ›](append133.md
+"Go to next page" )
 

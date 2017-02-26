@@ -3,7 +3,6 @@ Marxism and not Anarchism"_
 
 On the Trotskyist "New Youth" webpage there is an article entitled [ "Why we
 must further Marxism and not
-Anarchism"](http://www.newyouth.com/archives/theory/why_marxism_not_anarchism_20010107.asp)
 by John Fisher. This article contains numerous distortions of anarchist ideas
 and positions. Indeed, he makes so many basic errors that only two possible
 explanations are possible: either he knows nothing about anarchism or he does
@@ -197,7 +196,7 @@ capitalist monopoly **made to benefit the whole people**; by this token it
 to avoid it**, p. 37]
 
 They learn that Lenin and Trotsky argued for party dictatorship and
-centralised, top-down rule (see [section 4](append35.html#app4)).
+centralised, top-down rule (see [section 4](append35.md#app4)).
 
 They also learn that this should not come as a surprise. Anarchism argues that
 the state is a tool to allow minorities to rule and has been designed to
@@ -316,7 +315,7 @@ take part in the production of natural wealth by their own efforts."_
 
 Therefore, Fisher's comments are totally untrue. Anarchists have been pretty
 clear on this issue from Proudhon onwards (see [section
-I.2.3](secI2.html#seci23) for a further discussion of this issue).
+I.2.3](secI2.md#seci23) for a further discussion of this issue).
 
 ## 4\. What did Trotsky and Lenin think must replace the bourgeois state?
 
@@ -340,8 +339,8 @@ the same definition of what marks a "state." Secondly, there is the question
 of whether quoting Lenin's **State and Revolution** without relating it to
 Bolshevik practice is very convincing. Thirdly, there is the question of the
 defence of the revolution. We will discuss the second question here, the first
-in the [next section](append35.html#app5) and the third in [section
-6](append35.html#app6).
+in the [next section](append35.md#app5) and the third in [section
+6](append35.md#app6).
 
 There is a well-known difference between Lenin's work **The State and
 Revolution** and actual Bolshevik practice. In the former, Lenin promised the
@@ -365,7 +364,7 @@ So the vanguard of the oppressed would become the _"ruling class"_, **not**
 the oppressed. This means that _"workers' democracy"_ is simply reduced to
 meaning the majority designates its rulers but does not rule itself. As such,
 the "workers' state" is just the same as any other state (see [ next
-section](append35.html#app5)).
+section](append35.md#app5)).
 
 Thus, before taking power Lenin argued for party power, not workers' power.
 The workers can elect representatives who govern on their behalf, but they do
@@ -467,13 +466,13 @@ a **general** nature and applicable for all revolutions.
 
 It is also a shame for Fisher's argument that the Leninists, once in power,
 overthrew every soviet that was elected with a non-Bolshevik majority (see
-[section 6](append41.html#app6) of the appendix on ["What happened during the
-Russian Revolution?"](append41.html)). They also repressed those who demanded
+[section 6](append41.md#app6) of the appendix on ["What happened during the
+Russian Revolution?"](append41.md)). They also repressed those who demanded
 real workers' democracy (as, for example, in Kronstadt in 1921 -- see the
-appendix on ["What was the Kronstadt Rebellion?"](append42.html) \-- or during
+appendix on ["What was the Kronstadt Rebellion?"](append42.md) \-- or during
 the numerous strikes under Lenin's rule -- see sections
-[3](append43.html#app3) and [5](append43.html#app5) of the appendix on ["What
-caused the degeneration of the Russian Revolution?"](append43.html)).
+[3](append43.md#app3) and [5](append43.md#app5) of the appendix on ["What
+caused the degeneration of the Russian Revolution?"](append43.md)).
 
 Clearly, Fisher's account of Trotskyism, like his account of anarchism, leaves
 a lot to be desired.
@@ -561,7 +560,7 @@ Political Philosophy of Bakunin**, p. 223] Therefore, real workers democracy
 -- i.e. self-management -- existed, then the state would no longer exist.
 
 The question now arises, does the Marxist "workers' state" meet this
-definition? As indicated in [section 4](append35.html#app4), the answer is a
+definition? As indicated in [section 4](append35.md#app4), the answer is a
 clear yes. In **The State and Revolution**, Lenin argued that the workers'
 state would be based on representative democracy. This meant, according to
 Bakunin, that political power would be _"exercised by proxy, which means
@@ -609,7 +608,7 @@ won, is capable of overcoming the vacillation of the masses themselves."_
 Thus the party (a minority) holds power and uses that power against the masses
 themselves. Little wonder, given that, once in power, the Bolsheviks quickly
 forgot their arguments in favour of representative democracy and argued for
-party dictatorship (see [section 4](append35.html#app4)).
+party dictatorship (see [section 4](append35.md#app4)).
 
 Such a transformation of representative democracy into minority class rule was
 predicted by anarchists:
@@ -627,7 +626,7 @@ position, the government is already at odds with the people whose strength it
 disposes of."_ [Malatesta, **Anarchy**, pp. 33-4]
 
 Which, of course, is what happened in Russia. As we indicated in [section
-4](append35.html#app4), both Lenin and Trotsky defended the imposition of
+4](append35.md#app4), both Lenin and Trotsky defended the imposition of
 party rule, its need to be beyond public control, by the necessities generated
 by the revolution (the "vacillations" within the masses meant that democracy,
 public control, had to be eliminated in favour of party dictatorship).
@@ -765,7 +764,7 @@ working people themselves?
 
 Fisher distorts the real issue and instead invents a straw man which has no
 bearing at all on the real anarchist position (for further discussion, see
-sections [I.5.14](secI5.html#seci514) and [J.7.6](secJ7.html#secj76)).
+sections [I.5.14](secI5.md#seci514) and [J.7.6](secJ7.md#secj76)).
 
 ## 7\. Are Anarchists simply _"potential Marxists"_?
 
@@ -782,11 +781,11 @@ genuinely revolutionary ideas."_
 Of course, anarchists have thought about this and have came up with, as Fisher
 puts it, _"the armed proletariat."_ Indeed, anarchists have held this position
 since the days of Bakunin, as we proved in the [last
-section](append35.html#app6).
+section](append35.md#app6).
 
 Moreover, from an anarchist perspective, an "armed proletariat" is not a
 "state" as there is not minority of rulers telling the proletariat what to do
-(see [section 5](append35.html#app5)). The "proletariat" state of Lenin was a
+(see [section 5](append35.md#app5)). The "proletariat" state of Lenin was a
 real state simply because it was the Bolshevik party leaders who were telling
 the armed forces of the state what to do and who to repress (including
 striking workers, anarchists and rebelling peasants). These forces, we must
@@ -945,7 +944,7 @@ of the Bolsheviks.
 
 That this is the logical conclusion of Trotsky's position can be seen when he
 discusses the Kronstadt rebellion of March 1921 (see the appendix on ["What
-was the Kronstadt Rebellion?"](append42.html)). In 1938, he argued that the
+was the Kronstadt Rebellion?"](append42.md)). In 1938, he argued that the
 _"Kronstadt slogan"_ was _"soviets without Communists."_ [Lenin and Trotsky,
 **Kronstadt**, p. 90] This, of course, is factually incorrect. The Kronstadt
 slogan was _"all power to the soviets but not to the parties"_ (or _"free
@@ -1032,7 +1031,7 @@ complete equality."_ [**Michael Bakunin: Selected Writings**, p. 191]
 
 Therefore, to claim that anarchists deny the need for political organisation
 and "leaders" is a misrepresentation. As we argue in more depth in [section
-J.3](secJ3.html), this is not the case. However, we must stress that
+J.3](secJ3.md), this is not the case. However, we must stress that
 anarchists do not seek positions of power ("leadership") in organisations.
 Rather, they aim to influence by the power of our ideas, _"through the
 natural, personal influence of its members, who have not the slightest
@@ -1139,7 +1138,7 @@ in Germany, crushed the revolution that broke out there after the end of the
 First World War.
 
 The Bolshevik party was no better. It soon transformed itself for being the
-masses servant to being its master (see [section 4](append35.html#app4)). It
+masses servant to being its master (see [section 4](append35.md#app4)). It
 justified its repression against the working class in terms of its "vanguard"
 position. When it degenerated into Stalinism, Communist Parties across the
 world followed it -- no matter how insane its policies became.
@@ -1161,7 +1160,7 @@ masses, anarchist groups work within the mass organisations of the working
 class and urge them to take and exercise power directly, without governments
 and without hierarchy. We seek to win people over to our ideas and, as such,
 we work with others as equals using debate and discussion to influence the
-class struggle (see [section J.3.6](secJ3.html#secj36) for fuller details and
+class struggle (see [section J.3.6](secJ3.md#secj36) for fuller details and
 a discussion of how this differs from the Trotskyist position).
 
 Therefore, Grant's whole argument is flawed. Anarchists do not reject
@@ -1222,14 +1221,14 @@ dictatorship."_ [**Writings 1936-7**, p. 514]
 The _"anarchist leaders"_ quite rightly rejected this position, but they also
 rejected the anarchist one as well. Let us not forget that the anarchist
 position is the destruction of the state by means of federations of workers
-associations (see [section 3](append35.html#app3)). The CNT refused to do
+associations (see [section 3](append35.md#app3)). The CNT refused to do
 this. Which, of course, means that Grant is attacking anarchist theory in
 spite of the fact that the CNT **ignored** that theory!
 
 As we have discussed this issue in depth elsewhere (namely sections
-[I.8.10](secI8.html#seci810), [I.8.11](secI8.html#seci810) and [section
-20](append32.html#app20) of the appendix [_"Marxists and Spanish
-Anarchism"_](append32.html)) we will leave our discussion of the Spanish
+[I.8.10](secI8.md#seci810), [I.8.11](secI8.md#seci810) and [section
+20](append32.md#app20) of the appendix [_"Marxists and Spanish
+Anarchism"_](append32.md)) we will leave our discussion of the Spanish
 Revolution to this short summary.
 
 ## 12\. Does anarchism believe in spontaneous revolution?
@@ -1340,7 +1339,7 @@ organisations created by people in struggle] . . . to make themselves into
 manipulate them, or hitch them to an all-knowing political party."_ [**Post-
 Scarcity Anarchism**, p. 217] For more discussion of this issue, see section
 J.7.5 ([What is the role of anarchists in a social
-revolution?](secJ7.html#secj75)).
+revolution?](secJ7.md#secj75)).
 
 Clearly, rather than being _"the most crushing answer to anarchism,"_ the fate
 of the Albanian revolution rather shows how inaccurate Grant's argument is.
@@ -1355,7 +1354,7 @@ the dominant ones in the revolt and, therefore, it is hardly surprising that
 the revolution failed.
 
 [‹ Reply to errors and distortions in the SWP's "Marxism and
-Anarchism"](/afaq/append34.html "Go to previous page" )
-[up](/afaq/append3.html "Go to parent page" ) [Appendix - The Russian
-Revolution ›](/afaq/append4.html "Go to next page" )
+Anarchism"](append34.md "Go to previous page" ) [up](append3.md "Go to
+parent page" ) [Appendix - The Russian Revolution ›](append4.md "Go to next
+page" )
 

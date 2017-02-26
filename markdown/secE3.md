@@ -82,13 +82,13 @@ capitalist markets and reject any role for the state bar that of defining and
 enforcing private property rights. Both, however, assume that capitalism will
 remain and tailor their policies around it. Anarchists question that
 particularly assumption particularly given, as we discussed in [section
-E.1](secE1.html), the fundamental reason why capitalism cannot be green is its
+E.1](secE1.md), the fundamental reason why capitalism cannot be green is its
 irrational "grow-or-die" dynamic. However, there are other aspects of the
 system which contribute to capitalism bringing ecological crisis sooner rather
 than later. These flow from the nature of private property and the market
 competition it produces (this discussion, we should stress, ignores such
 factors as economic power which will be addressed in [section
-E.3.2](secE3.html#sece32)).
+E.3.2](secE3.md#sece32)).
 
 The market itself causes ecological problems for two related reasons:
 externalities and the price mechanism. It is difficult making informed
@@ -310,7 +310,7 @@ for the welfare superiority of free-market outcomes falls when we look at any
 real capitalist market. Once we introduce, say, economic power, imperfect
 competition, public goods, externalities or asymmetric information then the
 market quickly becomes a god with feet of clay. This is what we will explore
-in the rest of this section while the [next section](secE4.html) will discuss
+in the rest of this section while the [next section](secE4.md) will discuss
 a specific example of how laissez-faire capitalism cannot be ecological as
 proved by one of its most fervent ideologues. Overall, anarchists feel we have
 a good case on why is unlikely that private property can protect the
@@ -322,7 +322,7 @@ No, it will not. To see why, it is only necessary to look at the arguments and
 assumptions of those who advocate such solutions to our ecological problems.
 
 The logic behind the notion of privatising the planet is simple. Many of our
-environmental problems stem, as noted in the [last section](secE3.html), from
+environmental problems stem, as noted in the [last section](secE3.md), from
 externalities. According to the "market advocates" this is due to there being
 unowned resources for if someone owned them, they would sue whoever or
 whatever was polluting them. By means of private property and the courts,
@@ -465,7 +465,7 @@ values. The key thing to remember is that the market does not meet demand, it
 meets **effective** demand (i.e. demands backed up with money). Yet people
 want endangered species and eco-systems protected even if there is no
 effective demand for them on the market (nor could be). We will return to this
-critical subject in the [next section](secE3.html#sece32).
+critical subject in the [next section](secE3.md#sece32).
 
 Then there are the practicalities of privatising nature. How, for example, do
 we "privatise" the oceans? How do we "privatise" whales and sharks in order to
@@ -653,7 +653,7 @@ favour specific interests and policies, it does not mean that it cannot be
 forced to consider wider ones by the general public (until such time as it can
 be abolished, of course).
 
-As we discussed in [section D.1.5](secD1.html#secd15), the fact the state can
+As we discussed in [section D.1.5](secD1.md#secd15), the fact the state can
 be pressured by the general public is precisely why certain of its secondary
 functions have been under attack by corporations and the wealthy (a task which
 their well-funded think-tanls provide the rationales for). If all this is the
@@ -693,7 +693,7 @@ trumping the fundamental base right (namely the right of self-ownership which
 should automatically exclude harm by pollution). That this happens so
 consistently should not come as too great a surprise, given that the theory
 was invented to justify the appropriation of the fruits of the worker's labour
-by the property owner (see [section B.4.2](secB4.html#secb42)). Why should we
+by the property owner (see [section B.4.2](secB4.md#secb42)). Why should we
 be surprised that this is now being used to appropriate the rights of
 individuals to a clean environment and turn it into yet another means of
 expropriating them from their birthrights?
@@ -730,7 +730,7 @@ matters as it does in, say, evaluating individual freedom within capitalism.
 Once we factor in economic power the obvious conclusion is the market based
 solutions to the environment will result in, as with freedom, people selling
 it simply to survive under capitalism (as we discussed in [section
-B.4](secB4.html), for example).
+B.4](secB4.md), for example).
 
 It could be argued that strictly enforcing property rights so that polluters
 can be sued for any damages made will solve the problem of externalities. If
@@ -893,7 +893,7 @@ with others (lawyers, unions, media, etc.).
 
 Economic power producing terrible contracts does not affect just labour, it
 also effects smaller capitalists as well. As we discussed in [section
-C.4](secC4.html), rather than operating "efficiently" to allocate resources
+C.4](secC4.md), rather than operating "efficiently" to allocate resources
 within perfect competition any real capitalist market is dominated by a small
 group of big companies who make increased profits at the expense of their
 smaller rivals. This is achieved, in part, because their size gives such firms
@@ -1229,7 +1229,7 @@ invest in developing risky new technologies. This is because basic research
 which may take years, if not decades, to develop and most companies are
 unwilling to take on that burden. Unsurprisingly, most advanced capitalist
 countries see such work funded by the state (as we noted in [section
-D.8](secD8.html), over 50% of total R&amp;D funding has been provided by the
+D.8](secD8.md), over 50% of total R&amp;D funding has been provided by the
 federal state in the USA). Moreover, the state has provided markets for such
 products until such time as markets have appeared for them in the commercial
 sector. Thus capitalism, by itself, will tend to under-invest in long term
@@ -1354,7 +1354,7 @@ consumers and companies may be forced to choose the cheaper, ecologically
 unfriendly product to make ends meet or survive in the market. Under
 capitalism, we may be free to choose, but the options are usually lousy
 choices, and not the only ones potentially available in theory (this is a key
-problem with green consumerism -- see [section E.5](secE5.html)).
+problem with green consumerism -- see [section E.5](secE5.md)).
 
 The short-termism of capitalism has produced, in effect, a system which is _"a
 massive pyramid scheme that will collapse somewhere down the line when all the
@@ -1362,8 +1362,7 @@ major players have already retired from the game. Of course when the last of
 these hustlers cash in their chips, there won't be any place left to retire
 to."_ [David Watson, **Op. Cit.**, p. 57]
 
-[‹ E.2 What do eco-anarchists propose instead of capitalism?](/afaq/secE2.html
-"Go to previous page" ) [up](/afaq/secEcon.html "Go to parent page" ) [E.4 Can
-laissez-faire capitalism protect the environment? ›](/afaq/secE4.html "Go to
-next page" )
+[‹ E.2 What do eco-anarchists propose instead of capitalism?](secE2.md "Go
+to previous page" ) [up](secEcon.md "Go to parent page" ) [E.4 Can laissez-
+faire capitalism protect the environment? ›](secE4.md "Go to next page" )
 

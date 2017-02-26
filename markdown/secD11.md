@@ -1,7 +1,7 @@
 # D.11 Can politics and economics be separated from each other?
 
 A key aspect of anarchism is the idea that the political and economic aspects
-of society cannot be separated. [Section D](secDcon.html) has been an attempt
+of society cannot be separated. [Section D](secDcon.md) has been an attempt
 to show how these two aspects of society interact and influence each other.
 This means that economic liberty cannot be separated from political liberty
 and vice versa. If working class people are subject to authoritarian political
@@ -37,7 +37,7 @@ to look at a country where "economic liberty" (i.e. free market capitalism)
 existed but "political liberty" (i.e. a democratic government with basic human
 rights) did not. The most obvious example is Pinochet's Chile, an experiment
 which Friedman praised as an "economic miracle" shortly before it collapsed.
-In [section C.11](secC11.html) we discussed the Chilean "economic miracle" at
+In [section C.11](secC11.md) we discussed the Chilean "economic miracle" at
 face value, refusing to discuss the issue of whether describing the regime as
 one of "economic liberty" could be justified. Rather, we exposed the results
 of applying what leading ideologues of capitalism have called "free market"
@@ -170,7 +170,7 @@ spent much of his live in prison and exile trying to increase the freedom of
 working class people by fighting the former and the state which maintains
 them.
 
-As we argued in [section D.1.4](secD1.html#secd14), laissez-faire capitalism
+As we argued in [section D.1.4](secD1.md#secd14), laissez-faire capitalism
 does not end statism. Rather it focuses it on purely defending economic power
 (i.e. "economic liberty" for the capitalist class). The example of Chile's
 "economic liberty" proves this beyond doubt and shows that the separation of
@@ -225,7 +225,7 @@ off."_ [**Economic Freedom, Human Freedom, Political Freedom**]
 
 Who can deny that the worker who sells her liberty to the autocrat of a
 capitalist firm is _"going to be better off"_ than one starving to death? As
-we noted in [section B.4.1](secB4.html#secb41), Friedman avoids the obvious
+we noted in [section B.4.1](secB4.md#secb41), Friedman avoids the obvious
 fact that a capitalist economy is dependent on there being a class of people
 who have no means of supporting themselves **except** by selling their labour
 (i.e. liberty). While full employment will mitigate this dependency (and, as a
@@ -239,7 +239,7 @@ exploited by their bosses. By denying that freedom, Pinochet's regime could
 only be considered "free" by the ideologues and savants of capitalism. The
 only positive thing that can be said is that it provided empirical evidence
 that the ideal neo-classical labour market would increase inequality and
-exploitation (see [section C.11.3](secC11.html#secc113)).
+exploitation (see [section C.11.3](secC11.md#secc113)).
 
 The problem with Friedman's argument is that he fails to recognise the
 hierarchical nature of capitalism and the limited liberty it produces. This
@@ -297,7 +297,7 @@ by applying his recommended _"shock-treatment"_ policies, Friedman can confuse
 the high growth resulting from coming out of the boom combined with ready
 repression on labour with sound economic policies. Strangely he failed to
 mention the _"spectacular"_ recession of 1982 which wiped out the gains of
-1976 to 1981. As indicated in [section C.11](secC11.html), looking over the
+1976 to 1981. As indicated in [section C.11](secC11.md), looking over the
 whole of the Pinochet period the results were hardly _"spectacular"_ (unless
 you were rich) and the moderate gains were paid for by the working class in
 terms of longer hours, lower pay and political and economic oppression.
@@ -420,7 +420,7 @@ about liberty. The history of capitalism is important in this regard. It first
 developed under Absolutist states which used its power to bolster the position
 of their capitalist class within both national (against the working class) and
 international markets (against foreign competitors). As we discuss in [section
-F.8](secF8.html), they actively intervened to create the pre-conditions for
+F.8](secF8.md), they actively intervened to create the pre-conditions for
 generalised wage slavery before becoming a handicap to the rising bourgeoisie.
 These regimes were generally replaced by liberal states with limited voting
 rights which generally lifted the burden of state regulation from the
@@ -623,8 +623,8 @@ overboard."_ [**Op. Cit.**, p. 42] Chile is a classic example of this, a
 bloody example which helps deter genuine democracy in that country decades
 later.
 
-[‹ D.10 How does capitalism affect technology?](/afaq/secD10.html "Go to
-previous page" ) [up](/afaq/secDcon.html "Go to parent page" ) [Section E -
-What do anarchists think causes ecological problems? ›](/afaq/secEcon.html "Go
-to next page" )
+[‹ D.10 How does capitalism affect technology?](secD10.md "Go to previous
+page" ) [up](secDcon.md "Go to parent page" ) [Section E - What do
+anarchists think causes ecological problems? ›](secEcon.md "Go to next page"
+)
 

@@ -2,24 +2,23 @@
 
 This appendix exists for one reason, namely to explain why the idea of
 "anarcho"-capitalism is a bogus one. While we have covered this topic in
-[section F](secFcon.html), we thought that this appendix should be created in
+[section F](secFcon.md), we thought that this appendix should be created in
 order to discuss in more detail why anarchists reject both
 "anarcho"-capitalism and its claims to being anarchist.
 
 This appendix has three parts. The first two sections are our critique of
 Bryan Caplan's "anarcho"-capitalist ["Anarchist Theory
-FAQ."](http://www.gmu.edu/departments/economics/bcaplan/anarfaq.htm) Caplan's
 FAQ is the main on-line attempt to give the oxymoron of "anarcho"-capitalism
 some form of justification and so it is worthwhile explaining, using his FAQ
 as the base, why such an attempt fails. The last part of this appendix is the
-original version of [section F](secFcon.html),
+original version of [section F](secFcon.md),
 
 As we will prove, Caplan's FAQ fails in its attempt to show that "anarcho"
 capitalism can be considered as part of the anarchist movement and in fact his
 account involves extensive re-writing of history. This appendix is in two
 parts, a reply to Caplan's most recent FAQ release (version 5.2) and an older
 reply to version 4.1.1 (which was originally section F.10 of the FAQ). The
-[introduction](append12.html) to the reply to version 4.1.1 indicates what
+[introduction](append12.md) to the reply to version 4.1.1 indicates what
 most anarchists think of Caplan's FAQ and its claims of "objectivity" as so we
 will not repeat ourselves here.
 
@@ -44,40 +43,40 @@ opposed capitalism and always will.
 
 ##
 
-  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2](append11.html)
+  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2](append11.md)
 
 ###
 
 [1 Individualist Anarchists and the socialist movement.  
-](append11.html#app1)[2 Why is Caplan's definition of socialism
-wrong?](append11.html#app2)  
-[3 Was Proudhon a socialist or a capitalist? ](append11.html#app3)  
-[4 Tucker on Property, Communism and Socialism. ](append11.html#app4)  
-[5 Anarchism and "anarcho"-capitalism.](append11.html#app5)  
-[6 Appendix: Defining Anarchism](append11.html#app6)
+](append11.md#app1)[2 Why is Caplan's definition of socialism
+wrong?](append11.md#app2)  
+[3 Was Proudhon a socialist or a capitalist? ](append11.md#app3)  
+[4 Tucker on Property, Communism and Socialism. ](append11.md#app4)  
+[5 Anarchism and "anarcho"-capitalism.](append11.md#app5)  
+[6 Appendix: Defining Anarchism](append11.md#app6)
 
 ##
 
-  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1](append12.html)
+  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1](append12.md)
 
 ###
 
-[1 Is anarchism purely negative?](append12.html#app1)  
-[2 Anarchism and Equality](append12.html#app2)  
-[3 Is anarchism the same thing as socialism?](append12.html#app3)  
-[4 Anarchism and dissidents](append12.html#app4)  
-[5 How would anarcho-capitalism work?](append12.html#app5)
+[1 Is anarchism purely negative?](append12.md#app1)  
+[2 Anarchism and Equality](append12.md#app2)  
+[3 Is anarchism the same thing as socialism?](append12.md#app3)  
+[4 Anarchism and dissidents](append12.md#app4)  
+[5 How would anarcho-capitalism work?](append12.md#app5)
 
 ##
 
-  * [Is "anarcho"-capitalism a type of anarchism?](append13.html)
+  * [Is "anarcho"-capitalism a type of anarchism?](append13.md)
 
-  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2](/afaq/append11.html)
-  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1](/afaq/append12.html)
-  * [Appendix - Is "anarcho"-capitalism a type of anarchism?](/afaq/append13.html)
+  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2](append11.md)
+  * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1](append12.md)
+  * [Appendix - Is "anarcho"-capitalism a type of anarchism?](append13.md)
 
-[‹ J.7 What do anarchists mean by "social revolution"?](/afaq/secJ7.html "Go
-to previous page" ) [up](/afaq/index.html "Go to parent page" ) [Replies to
-Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version
-5.2 ›](/afaq/append11.html "Go to next page" )
+[‹ J.7 What do anarchists mean by "social revolution"?](secJ7.md "Go to
+previous page" ) [up](index.md "Go to parent page" ) [Replies to Some Errors
+and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2
+›](append11.md "Go to next page" )
 

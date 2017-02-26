@@ -222,7 +222,7 @@ and alienated society is a necessary part of the struggle and the maintaining
 of your liberty and humanity in the insane world of hierarchical society. As
 such, an anarchist society will be the generalisation of the various types of
 **_"anarchy in action"_** created in the various struggles against all forms
-of oppression and exploitation (see [section I.2.3](secI2.html#seci23) ).
+of oppression and exploitation (see [section I.2.3](secI2.md#seci23) ).
 
 This means that how an anarchist society would look like and work is not
 independent of the specific societies it is created from nor the means used to
@@ -380,8 +380,7 @@ of the FAQ will inspire more debate and discussion of how a free society would
 work. In addition, and equally as important, we hope it will help inspire the
 struggle that will create that society.
 
-[‹ Section I - What would an anarchist society look like?](/afaq/secIcon.html
-"Go to previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.1
-Isn't libertarian socialism an oxymoron? ›](/afaq/secI1.html "Go to next page"
-)
+[‹ Section I - What would an anarchist society look like?](secIcon.md "Go to
+previous page" ) [up](secIcon.md "Go to parent page" ) [I.1 Isn't
+libertarian socialism an oxymoron? ›](secI1.md "Go to next page" )
 

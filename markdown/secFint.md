@@ -136,7 +136,7 @@ appropriates **some** aspects of individualist anarchism he does so in a
 highly selective manner and places what he does take into an utterly different
 social environment and political tradition. So while there are similarities
 between both systems, there are important differences as we will discuss in
-detail in [section G](secGcon.html) along with the anti-capitalist nature of
+detail in [section G](secGcon.md) along with the anti-capitalist nature of
 individualist anarchism (i.e. those essential bits which Rothbard and his
 followers ignore or dismiss). Needless to say, Nursey-Bray does not include
 "anarcho"-capitalism in his discussion of anarchist schools of thought in the
@@ -205,7 +205,7 @@ with long-time anarchist activist Donald Rooum's comment that _"self-styled
 handed over to capitalists."_ They are _"wrongly self-styled 'anarchists'"_
 because they _"do not oppose capitalist oppression"_ while genuine anarchists
 are _"extreme libertarian socialists."_ [**What Is Anarchism?**, p. 7, pp.
-12-13 and p. 10] As we stress in [section F.1](secF1.html),
+12-13 and p. 10] As we stress in [section F.1](secF1.md),
 "anarcho"-capitalists do not oppose the hierarchies and exploitation
 associated with capitalism (wage labour and landlordism) and, consequently,
 have no claim to the term "anarchist." Just because someone uses a label it
@@ -271,7 +271,7 @@ that "special case" so ignored by economists, namely reality.
 
 Anarchism has always been aware of the existence of "free market" capitalism,
 particularly its extreme (minimal state) wing, and has always rejected it. As
-we discuss in [section F.7](secF7.html), anarchists from Proudhon onwards have
+we discuss in [section F.7](secF7.md), anarchists from Proudhon onwards have
 rejected it (and, significantly, vice versa). As academic Alan Carter notes,
 anarchist concern for equality as a necessary precondition for genuine freedom
 _"is one very good reason for not confusing anarchists with liberals or
@@ -310,10 +310,9 @@ or not) murdered in the jails and concentration camps or on the streets by the
 hired assassins of capitalism.
 
 For more discussion on this issue, see the appendix ["Anarchism and
-'Anarcho'-capitalism"](append1.html)
+'Anarcho'-capitalism"](append1.md)
 
-[‹ Section F - Is "anarcho"-capitalism a type of
-anarchism?](/afaq/secFcon.html "Go to previous page" ) [up](/afaq/secFcon.html
-"Go to parent page" ) [F.1 Are "anarcho"-capitalists really anarchists?
-›](/afaq/secF1.html "Go to next page" )
+[‹ Section F - Is "anarcho"-capitalism a type of anarchism?](secFcon.md "Go
+to previous page" ) [up](secFcon.md "Go to parent page" ) [F.1 Are
+"anarcho"-capitalists really anarchists? ›](secF1.md "Go to next page" )
 

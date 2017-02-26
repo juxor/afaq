@@ -35,7 +35,7 @@ democratically decided? Would they reflect common usage (i.e. custom)? "supply
 and demand"? "Natural law"? Given the strong dislike of democracy shown by
 "anarcho"-capitalists, we think we can safely say that some combination of the
 last two options would be used. Murray Rothbard, as noted in [section
-1.4](append131.html#secf11), opposed the individualist anarchist principle
+1.4](append131.md#secf11), opposed the individualist anarchist principle
 that juries would judge both the facts and the law, suggesting instead that
 _"Libertarian lawyers and jurists"_ would determine a _"rational and objective
 code of libertarian legal principles and procedures."_ The judges in his
@@ -66,7 +66,7 @@ using to guide their judgements would be enforcing capitalist rights).
 Whether or not this system would work as desired is discussed in the following
 sections. We think that it will not. Moreover, we will argue that
 "anarcho"-capitalist "defence companies" meet not only the criteria of
-statehood we outlined in section [B.2](secB2.html), but also Rothbard's own
+statehood we outlined in section [B.2](secB2.md), but also Rothbard's own
 criteria for the state, quoted above.
 
 As regards the anarchist criterion, it is clear that "defence companies" exist
@@ -121,7 +121,7 @@ that when "interpreting" the "basic law code," such companies would hardly act
 against their own interests as companies. In addition, if the "justice" system
 was based on "one dollar, one vote," the "law" would best defend those with
 the most "votes" (the question of market forces will be discussed in section
-[6.3](append136.html#secf63)). Moreover, even if "market forces" would ensure
+[6.3](append136.md#secf63)). Moreover, even if "market forces" would ensure
 that "impartial" judges were dominant, all judges would be enforcing a
 **very** partial law code (namely one that defended **capitalist** property
 rights). Impartiality when enforcing partial laws hardly makes judgements less
@@ -135,7 +135,7 @@ over the poor, just as we have today. This is what one would expect in a
 system based on "unrestricted" property rights and a (capitalist) free market.
 A similar tendency towards the standardisation of output in an industry in
 response to influences of wealth can be seen from the current media system
-(see section D.3 -- [How does wealth influence the mass media?](secD3.html))
+(see section D.3 -- [How does wealth influence the mass media?](secD3.md))
 
 Some "anarcho"-capitalists, however, claim that just as cheaper cars were
 developed to meet demand, so cheaper defence associations and "people's
@@ -160,7 +160,7 @@ such is the "magic" of the marketplace.
 
 Thirdly, because of the tendency toward concentration, centralisation, and
 oligopoly under capitalism (due to increasing capital costs for new firms
-entering the market, as discussed in section [C.4](secC4.html)), a few
+entering the market, as discussed in section [C.4](secC4.md)), a few
 companies would soon dominate the market -- with obvious implications for
 "justice."
 
@@ -206,7 +206,7 @@ Now let us consider the _"basic law code"_ itself. How the laws in the
 _"general libertarian law code"_ would actually be selected is anyone's guess,
 although many "anarcho"-capitalists support the myth of "natural law," and
 this would suggest an unchangeable law code selected by those considered as
-"the voice of nature" (see [section 11](append1311.html). for a discussion of
+"the voice of nature" (see [section 11](append1311.md). for a discussion of
 its authoritarian implications). David Friedman argues that as well as a
 market in defence companies, there will also be a market in laws and rights.
 However, there will be extensive market pressure to unify these differing law
@@ -464,8 +464,8 @@ within society, it is also clear that the "effective demand" of the parties
 involved to see their law codes enforced is drastically different. The wealthy
 head of a transnational corporation will have far more resources available to
 him to pay for **his** laws to be enforced than one of his employees on the
-assembly line. Moreover, as we argue in sections [3.1](append133.html#secf31)
-and [10.2](append1310.html#secf102), the labour market is usually skewed in
+assembly line. Moreover, as we argue in sections [3.1](append133.md#secf31)
+and [10.2](append1310.md#secf102), the labour market is usually skewed in
 favour of capitalists. This means that workers have to compromise to get work
 and such compromises may involve agreeing to join a specific "defence" firm or
 not join one at all (just as workers are often forced to sign non-union
@@ -490,8 +490,8 @@ likely to take us far. This, by the way, is a criticism that applies. . .to
 any theory that relies on a rule of law to override the tendencies inherent in
 a given social and economic system"_ [Weick, **Op. Cit.**, p. 225] (For a
 discussion of this problem as it would surface in attempts to protect the
-environment under "anarcho"-capitalism, see sections [E.2](secE2.html) and
-[E.3](secE3.html)).
+environment under "anarcho"-capitalism, see sections [E.2](secE2.md) and
+[E.3](secE3.md)).
 
 There is another reason why "market forces" will not stop abuse by the rich,
 or indeed stop the system from turning from private to public statism. This is
@@ -588,7 +588,7 @@ an armed revolution -- as it would with any state.
 The forces that break up cartels and monopolies in other industries (such as
 free entry -- although, of course the "defence" market will be subject to
 oligopolistic tendencies as any other and this will create barriers to entry,
-see section [C.4](secC4.html)) do not work here and so new firms have to co-
+see section [C.4](secC4.md)) do not work here and so new firms have to co-
 operate or loose market share and/or profits. This means that "defence
 companies" will reap monopoly profits and, more importantly, have a monopoly
 of force over a given area.
@@ -660,7 +660,7 @@ wealthy, by the wealthy, for the wealthy. In other words, fascism.
 
 It is clear that "anarcho"-capitalist defence associations meet the criteria
 of statehood outlined in section B.2 (["Why are anarchists against the
-state"](secB2.html)). They defend property and preserve authority
+state"](secB2.md)). They defend property and preserve authority
 relationships, they practice coercion, and are hierarchical institutions which
 govern those under them on behalf of a "ruling elite," i.e. those who employ
 both the governing forces and those they govern. Thus, from an anarchist
@@ -703,13 +703,13 @@ monopoly of "defence" over the areas in question. Of course, the
 **all** the rules and conditions of a contract when they sign it and so the
 property owner's monopoly is not "coerced." However, the "consent" argument is
 so weak in conditions of inequality as to be useless (see sections
-[2.4](append132.html#secf24) and [3.1](append133.html#secf31), for example)
+[2.4](append132.md#secf24) and [3.1](append133.md#secf31), for example)
 and, moreover, it can and has been used to justify the state. In other words,
 "consent" in and of itself does not ensure that a given regime is not statist
-(see section [2.3](append132.html#secf23) for more on this). So an argument
+(see section [2.3](append132.md#secf23) for more on this). So an argument
 along these lines is deeply flawed and can be used to justify regimes which
 are little better than "industrial feudalism" (such as, as indicated in
-[section B.4](secB4.html), company towns, for example -- an institution which
+[section B.4](secB4.md), company towns, for example -- an institution which
 right-libertarianism has no problem with). Even the _"general libertarian law
 code,"_ could be considered a "monopoly of government over a particular area,"
 particularly if ordinary people have no real means of affecting the law code,
@@ -733,7 +733,7 @@ property, it can just as surely ban the sale and purchase of defence and
 judicial services (it could be argued that market forces will stop this
 happening, but this is unlikely as bosses usually have the advantage on the
 labour market and workers have to compromise to get a job -- see section
-[10.2](append1310.html#secf102) on why this is the case). After all, in the
+[10.2](append1310.md#secf102) on why this is the case). After all, in the
 company towns, only company money was legal tender and company police the only
 law enforcers.
 
@@ -780,7 +780,7 @@ police and the law they enforce are not even slightly accountable to ordinary
 people.
 
 Looking beyond the "defence association" to the defence market itself (as we
-argued in the [last section](append136.html#secf63)), this will become a
+argued in the [last section](append136.md#secf63)), this will become a
 cartel and so become some kind of public state. The very nature of the private
 state, its need to co-operate with others in the same industry, push it
 towards a monopoly network of firms and so a monopoly of force over a given
@@ -853,11 +853,11 @@ into Hobbesian anarchy simply because the high costs associated with dangerous
 areas will make the effective demand for their services approach zero.
 
 In a system based on "private statism," police and justice would be determined
-by "free market" forces. As indicated in section [B.4.1](secB4.html#secb41),
+by "free market" forces. As indicated in section [B.4.1](secB4.md#secb41),
 right-libertarians maintain that one would have few rights on other peoples'
 property, and so the owner's will would be the law (possibly restricted
 somewhat by a "general libertarian law code", perhaps not -- see [last
-section](append136.html#secf64)). In this situation, those who could not
+section](append136.md#secf64)). In this situation, those who could not
 afford police protection would become victims of roving bandits and rampant
 crime, resulting in a society where the wealthy are securely protected in
 their bastions by their own armed forces, with a bunch of poor crowded around
@@ -893,7 +893,7 @@ force" under "anarcho"-capitalism, and thus repressed. In other words, like
 any authoritarian system, the "rules" within "anarcho"-capitalism do not
 evolve with society and its changing concepts (this can be seen from the
 popularity of "natural law" with right-libertarians, the authoritarian nature
-of which is discussed in [section 11](append1311.html)).
+of which is discussed in [section 11](append1311.md)).
 
 Therefore, in "anarcho"-capitalism you are free to follow the (capitalist)
 laws and to act within the limits of these laws. It is only within this
@@ -918,7 +918,7 @@ State**, p. 135]
 
 And if the initial distribution of resources is similar to that already
 existing then the _"economically most fit"_ will be capitalistic (as argued in
-section [J.5.12](secJ5.html#secj512), the capitalist market actively selects
+section [J.5.12](secJ5.md#secj512), the capitalist market actively selects
 against co-operatives even though they are more productive). Given the head
 start provided by statism, it seems likely that explicitly capitalist utopia's
 would remain the dominant type (particularly as the rights framework is such
@@ -954,7 +954,7 @@ acted in a capitalist-approved way). As long as you follow the law, you will
 be fine -- which is exactly the same as under public statism. Moreover, if the
 citizens of a society do not want a capitalist order, it may require a lot of
 coercion to impose it. This can be seen from the experiences of the Italian
-factory occupations in 1920 (see section [A.5.5](secA5.html#seca55)), in which
+factory occupations in 1920 (see section [A.5.5](secA5.md#seca55)), in which
 workers refused to accept capitalist property or authority as valid and
 ignored it. In response to this change of thought within a large part of
 society, the capitalists backed fascism in order to stop the evolutionary
@@ -998,8 +998,8 @@ Of course, we do have another option than either private or public statism.
 This is anarchism, the end of hierarchical authority and its replacement by
 the "natural" authority of communal and workplace self-management.
 
-[‹ 5 Will privatising "the commons" increase liberty?](/afaq/append135.html
-"Go to previous page" ) [up](/afaq/append13.html "Go to parent page" ) [7 How
-does the history of "anarcho"-capitalism show that it is not anarchist?
-›](/afaq/append137.html "Go to next page" )
+[‹ 5 Will privatising "the commons" increase liberty?](append135.md "Go to
+previous page" ) [up](append13.md "Go to parent page" ) [7 How does the
+history of "anarcho"-capitalism show that it is not anarchist?
+›](append137.md "Go to next page" )
 

@@ -238,7 +238,7 @@ far more useful tool in working class struggle and self-liberation than
 Marxism. After all, anarchists predicted with amazing accuracy the future
 development of Marxism. Bakunin argued that electioneering would corrupt the
 socialist movement, making it reformist and just another bourgeois party (see
-[section J.2](secJ2.html)). This is what in fact happened to the Social-
+[section J.2](secJ2.md)). This is what in fact happened to the Social-
 Democratic movement across the world by the turn of the twentieth century (the
 rhetoric remained radical for a few more years, of course).
 
@@ -315,8 +315,7 @@ to describe "libertarian socialist/communist." This in no way implies that
 anarchists are not socialists. It is purely a tool to make our arguments
 easier to read.
 
-[‹ Section H - Why do anarchists oppose state socialism?](/afaq/secHcon.html
-"Go to previous page" ) [up](/afaq/secHcon.html "Go to parent page" ) [H.1
-Have anarchists always opposed state socialism? ›](/afaq/secH1.html "Go to
-next page" )
+[‹ Section H - Why do anarchists oppose state socialism?](secHcon.md "Go to
+previous page" ) [up](secHcon.md "Go to parent page" ) [H.1 Have anarchists
+always opposed state socialism? ›](secH1.md "Go to next page" )
 

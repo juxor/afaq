@@ -69,14 +69,14 @@ rights.
 Whether or not this system would work as desired is discussed in the following
 sections. We think that it will not. Moreover, we will argue that
 "anarcho"-capitalist "defence companies" meet not only the criteria of
-statehood we outlined in [section B.2](secB2.html), but also Rothbard's own
+statehood we outlined in [section B.2](secB2.md), but also Rothbard's own
 criteria for the state. As regards the anarchist criterion, it is clear that
 "defence companies" exist to defend private property; that they are
 hierarchical (in that they are capitalist companies which defend the power of
 those who employ them); that they are professional coercive bodies; and that
 they exercise a monopoly of force over a given area (the area, initially,
 being the property of the person or company who is employing the company). Not
-only that, as we discuss in [section F.6.4](secF6.html#secf64) these "defence
+only that, as we discuss in [section F.6.4](secF6.md#secf64) these "defence
 companies" also matches the right-libertarian and "anarcho"-capitalist
 definition of the state. For this (and other reasons), we should call the
 "anarcho"-capitalist defence firms "private states" -- that is what they are
@@ -117,7 +117,7 @@ full of examples of lawyers, jurists and judges (not to mention states)
 _"correcting"_ common law and social custom in favour of a propertarian
 perspective which, by strange co-incidence, favoured the capitalists and
 landlords, i.e. those of the same class as the politicians, lawyers, jurists
-and judges (see [section F.8](secF8.html) for more details). We can imagine
+and judges (see [section F.8](secF8.md) for more details). We can imagine
 the results of similar "correcting" of common law by those deemed worthy by
 Rothbard and his followers of representing both "man" and "natural law."
 
@@ -161,12 +161,12 @@ As the arbitrators themselves would be part of a profession, with specific
 companies developing within the market, it does not take a genius to realise
 that when _"interpreting"_ the _"basic law code,"_ such companies would hardly
 act against their own interests as companies. As we noted in [section
-F.3.2](secF3.html#secf32), the basic class interest of keeping the current
+F.3.2](secF3.md#secf32), the basic class interest of keeping the current
 property rights system going will still remain -- a situation which wealthy
 judges would be, to say the least, happy to see continue. In addition, if the
 "justice" system was based on "one dollar, one vote," the "law" would best
 defend those with the most "votes" (the question of market forces will be
-discussed in [section F.6.3](secF6.html#secf63)). Moreover, even if "market
+discussed in [section F.6.3](secF6.md#secf63)). Moreover, even if "market
 forces" would ensure that "impartial" judges were dominant, all judges would
 be enforcing a **very** partial law code (namely one that defended
 **capitalist** property rights). Impartiality when enforcing partial laws
@@ -204,7 +204,7 @@ of luck -- such is the "magic" of the marketplace.
 
 Thirdly, because of the tendency toward concentration, centralisation, and
 oligopoly under capitalism (due to increasing capital costs for new firms
-entering the market, as discussed in [section C.4](secC4.html)), a few
+entering the market, as discussed in [section C.4](secC4.md)), a few
 companies would soon dominate the market -- with obvious implications for
 "justice." Different firms will have different resources and in a conflict
 between a small firm and a larger one, the smaller one is at a disadvantage.
@@ -504,7 +504,7 @@ basic libertarian law code would be open outlaws"_ and soon crushed this is
 **not**, apparently, a monopoly. [**The Ethics of Liberty**, p. 234] So, you
 either agree to the law code or you go out of business. And that is **not** a
 monopoly! Therefore, we think, our comments on the Supreme Court are valid
-(see also [section F.7.2](secF7.html#secf72)).
+(see also [section F.7.2](secF7.md#secf72)).
 
 If all the available defence firms enforce the same laws, then it can hardly
 be called "competitive"! And if this is the case (and it is) _"when private
@@ -603,7 +603,7 @@ within society, it is clear that the "effective demand" of the parties
 involved to see their law codes enforced is drastically different. The wealthy
 head of a transnational corporation will have far more resources available to
 him to pay for **his** laws to be enforced than one of his employees on the
-assembly line. Moreover, as we noted in [section F.3.1](secF3.html#secf31),
+assembly line. Moreover, as we noted in [section F.3.1](secF3.md#secf31),
 the labour market is usually skewed in favour of capitalists. This means that
 workers have to compromise to get work and such compromises may involve
 agreeing to join a specific "defence" firm or not join one at all (just as
@@ -790,7 +790,7 @@ wealthy.
 
 It is clear that "anarcho"-capitalist defence associations meet the criteria
 of statehood outlined in section B.2 (["Why are anarchists against the
-state"](secB2.html)). They defend property and preserve authority
+state"](secB2.md)). They defend property and preserve authority
 relationships, they practice coercion, and are hierarchical institutions which
 govern those under them on behalf of a "ruling elite," i.e. those who employ
 both the governing forces and those they govern. Thus, from an anarchist
@@ -833,11 +833,11 @@ monopoly of "defence" over the areas in question. Of course, the
 **all** the rules and conditions of a contract when they sign it and so the
 property owner's monopoly is not "coerced." However, the "consent" argument is
 so weak in conditions of inequality as to be useless (see [section
-F.3.1](secF3.html#secf31), for example) and, moreover, it can and has been
+F.3.1](secF3.md#secf31), for example) and, moreover, it can and has been
 used to justify the state. In other words, "consent" in and of itself does not
 ensure that a given regime is not statist. So an argument along these lines is
 deeply flawed and can be used to justify regimes which are little better than
-"industrial feudalism" (such as, as indicated in [section B.4](secB4.html),
+"industrial feudalism" (such as, as indicated in [section B.4](secB4.md),
 company towns, for example -- an institution which right-"libertarians" have
 no problem with). Even the _"general libertarian law code,"_ could be
 considered a "monopoly of government over a particular area," particularly if
@@ -848,7 +848,7 @@ it is market-driven and so is money-determined, or because it will be
 In other words, **if** the state _"arrogates to itself a monopoly of force, of
 ultimate decision-making power, over a given area territorial area"_ then its
 pretty clear that the property owner shares this power. As we indicated in
-[section F.1](secF1.html), Rothbard agrees that the owner is, after all, the
+[section F.1](secF1.md), Rothbard agrees that the owner is, after all, the
 _"ultimate decision-making power"_ in their workplace or on their land. If the
 boss takes a dislike to you (for example, you do not follow their orders) then
 you get fired. If you cannot get a job or rent the land without agreeing to
@@ -906,7 +906,7 @@ Because such "companies" are employed by the boss, they would be used to
 reinforce the totalitarian nature of capitalist firms by ensuring that the
 police and the law they enforce are not even slightly accountable to ordinary
 people. Looking beyond the "defence association" to the defence market itself
-(as we argued in the [last section](secF6.html#secf63)), this will become a
+(as we argued in the [last section](secF6.md#secf63)), this will become a
 cartel and so become some kind of public state. The very nature of the private
 state, its need to co-operate with others in the same industry, push it
 towards a monopoly network of firms and so a monopoly of force over a given
@@ -932,8 +932,8 @@ by calling it something else . . . They don't denounce what the state does,
 they just object to who's doing it."_ [_"The Libertarian As Conservative"_,
 **The Abolition of Work and Other Essays**, p. 144]
 
-[‹ F.5 Will privatising "the commons" increase liberty?](/afaq/secF5.html "Go
-to previous page" ) [up](/afaq/secFcon.html "Go to parent page" ) [F.7 How
-does the history of "anarcho"-capitalism show that it is not anarchist?
-›](/afaq/secF7.html "Go to next page" )
+[‹ F.5 Will privatising "the commons" increase liberty?](secF5.md "Go to
+previous page" ) [up](secFcon.md "Go to parent page" ) [F.7 How does the
+history of "anarcho"-capitalism show that it is not anarchist? ›](secF7.md
+"Go to next page" )
 

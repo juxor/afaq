@@ -1,7 +1,7 @@
 # Section E - What do anarchists think causes ecological problems?
 
 This section of the FAQ expands upon section D.4 (["What is the relationship
-between capitalism and the ecological crisis?"](secD4.html)) in which we
+between capitalism and the ecological crisis?"](secD4.md)) in which we
 indicated that since capitalism is based upon the principle of "grow or die,"
 a "green" capitalism is impossible. By its very nature capitalism must expand,
 creating new markets, increasing production and consumption, and so invading
@@ -156,7 +156,7 @@ private property. Just as an eco-system cannot be commanded, divided and
 enclosed, nor can a truly ecological vision. Attempts to do so will impoverish
 both.
 
-As we discuss in the [next section](secE1.html), for anarchists the root cause
+As we discuss in the [next section](secE1.md), for anarchists the root cause
 of our ecological problems is hierarchy in society compounded by a capitalist
 economy. For anarchists, the notion of an ecological capitalism is, literally,
 impossible. Libertarian socialist Takis Fotopoulous has argued that the main
@@ -226,24 +226,24 @@ down in trying to elect people to state offices.
 
 Here we discuss some of the main themes of eco-anarchism and consider a few
 suggestions by non-anarchists about how to protect the environment. In
-[section E.1](secE1.html), we summarise why anarchists consider why a green
-society cannot be a capitalist one (and vice versa). [Section E.2](secE2.html)
+[section E.1](secE1.md), we summarise why anarchists consider why a green
+society cannot be a capitalist one (and vice versa). [Section E.2](secE2.md)
 presents a short overview of what an ecological society would be like.
-[Section E.3](secE3.html) refutes the false capitalist claim that the answer
+[Section E.3](secE3.md) refutes the false capitalist claim that the answer
 to the ecological crisis is to privatise everything while [section
-E.4](secE4.html) discusses why capitalism is anti-ecological and its
+E.4](secE4.md) discusses why capitalism is anti-ecological and its
 defenders, invariably, anti-green. Then we indicate why green consumerism is
-doomed to failure in [section E.5](secE5.html) before, in [section
-E.6](secE6.html), refuting the myth that population growth is a **cause** of
+doomed to failure in [section E.5](secE5.md) before, in [section
+E.6](secE6.md), refuting the myth that population growth is a **cause** of
 ecological problems rather than the **effect** of deeper issues.
 
 Obviously, these are hardly the end of the matter. Some tactics popular in the
 green movement are shared by others and we discuss these elsewhere. For
 example, the issue of electing Green Parties to power will be addressed in
 section J.2.4 (["Surely voting for radical parties will be
-effective?"](secJ2.html#secj24)) and so will be ignored here. The question of
+effective?"](secJ2.md#secj24)) and so will be ignored here. The question of
 "single-issue" campaigns (like C.N.D. and Friends of the Earth) will be
-discussed in [section J.1.4](secJ1.html#secj14). Remember that eco-anarchists,
+discussed in [section J.1.4](secJ1.md#secj14). Remember that eco-anarchists,
 like all anarchists, take a keen interest in many other issues and struggles
 and just because we do not discuss something here does not mean we are
 indifferent to it.
@@ -262,7 +262,7 @@ well as libertarian socialist William Morris and his ecologically balanced
 utopia **News from Nowhere**).
 
 [‹ Section E - What do anarchists think causes ecological
-problems?](/afaq/secEcon.html "Go to previous page" ) [up](/afaq/secEcon.html
-"Go to parent page" ) [E.1 What are the root causes of our ecological
-problems? ›](/afaq/secE1.html "Go to next page" )
+problems?](secEcon.md "Go to previous page" ) [up](secEcon.md "Go to
+parent page" ) [E.1 What are the root causes of our ecological problems?
+›](secE1.md "Go to next page" )
 

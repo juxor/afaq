@@ -6,7 +6,7 @@ that anarchists oppose all kinds of authority, the reality of the situation is
 more complex. While anarchists have, on occasion, stated their opposition to
 "all authority" a closer reading quickly shows that anarchists reject only one
 specific form of authority, what we tend to call hierarchy (see [section
-H.4](secH4.html) for more details). This can be seen when Bakunin stated that
+H.4](secH4.md) for more details). This can be seen when Bakunin stated that
 _"the principle of **authority**"_ was the _"eminently theological,
 metaphysical and political idea that the masses, **always** incapable of
 governing themselves, must submit at all times to the benevolent yoke of a
@@ -78,7 +78,7 @@ For example, obviously _"the exercise of power by some disempowers others"_
 and so through a _"combination of physical intimidation, economic domination
 and dependency, and psychological limitations, social institutions and
 practices affect the way everyone sees the world and her or his place in it."_
-This, as we discuss in the [next section](secB1.html#secb11), impacts on those
+This, as we discuss in the [next section](secB1.md#secb11), impacts on those
 involved in such authoritarian social relationships as _"the exercise of power
 in any institutionalised form -- whether economic, political or sexual --
 brutalises both the wielder of power and the one over whom it is exercised."_
@@ -105,7 +105,7 @@ make and stick by agreements but anarchists argue that to use the word
 "authority" to describe two fundamentally different ways of making decisions
 is playing with words. It obscures the fundamental difference between free
 association and hierarchical imposition and confuses co-operation with command
-(as we note in [section H.4](secH4.html), Marxists are particularly fond of
+(as we note in [section H.4](secH4.md), Marxists are particularly fond of
 this fallacy). Simply put, there are two different ways of co-ordinating
 individual activity within groups -- either by authoritarian means or by
 libertarian means. Proudhon, in relation to workplaces, makes the difference
@@ -134,7 +134,7 @@ authority, based upon **natural influence** and so reflect freedom, the
 ability of individuals to think, act and feel and manage their own time and
 activity. Otherwise, we include elements of slavery into our relationships
 with others, elements that poison the whole and shape us in negative ways (see
-[section B.1.1](secB1.html#secb11)). Only the reorganisation of society in a
+[section B.1.1](secB1.md#secb11)). Only the reorganisation of society in a
 libertarian way (and, we may add, the mental transformation such a change
 requires and would create) will allow the individual to _"achieve more or less
 complete blossoming, whilst continuing to develop"_ and banish _"that spirit
@@ -163,9 +163,9 @@ liberty of everyone."_ [**Bakunin on Anarchism**, p. 415]
 Therefore, anarchists are opposed to **irrational** (e.g., illegitimate)
 authority, in other words, hierarchy -- hierarchy being the
 institutionalisation of authority within a society. Hierarchical social
-institutions include the state (see [section B.2](secB2.html)), private
-property and the class systems it produces (see [section B.3](secB3.html))
-and, therefore, capitalism (see [section B.4](secB4.html)). Due to their
+institutions include the state (see [section B.2](secB2.md)), private
+property and the class systems it produces (see [section B.3](secB3.md))
+and, therefore, capitalism (see [section B.4](secB4.md)). Due to their
 hierarchical nature, anarchists oppose these with passion. _"Every
 institution, social or civil,"_ argued Voltairine de Cleyre, _"that stands
 between man [or woman] and his [or her] right; every tie that renders one a
@@ -173,7 +173,7 @@ master, another a serf; every law, every statue, every be-it-enacted that
 represents tyranny"_ anarchists seek to destroy. However, hierarchy exists
 beyond these institutions. For example, hierarchical social relationships
 include sexism, racism and homophobia (see [section
-B.1.4](secB1.html#secb14)), and anarchists oppose, and fight, them all. Thus,
+B.1.4](secB1.md#secb14)), and anarchists oppose, and fight, them all. Thus,
 as well as fighting capitalism as being hierarchical (for workers _"slave in a
 factory,"_ albeit _"the slavery ends with the working hours"_) de Cleyre also
 opposed patriarchal social relationships which produce a _"home that rests on
@@ -209,7 +209,7 @@ hierarchies, not only material exploitation but domination in every form."_
 [Bookchin, **Op. Cit.**, p. 15] Hence the anarchist stress on opposing
 hierarchy rather than just, say, the state (as some falsely assert) or simply
 economic class and exploitation (as, say, many Marxists do). As noted earlier
-(in [section A.2.8](secA2.html#seca28)), anarchists consider all hierarchies
+(in [section A.2.8](secA2.md#seca28)), anarchists consider all hierarchies
 to be not only harmful but unnecessary, and think that there are alternative,
 more egalitarian ways to organise social life. In fact, we argue that
 hierarchical authority creates the conditions it is presumably designed to
@@ -305,7 +305,7 @@ rarity."_ [**Op. Cit.**, p. 43]
 
 This negative impact of hierarchy is, of course, not limited to those subject
 to it. Those in power are affected by it, but in different ways. As we noted
-in [section A.2.15](secA2.html#seca215), power corrupts those who have it as
+in [section A.2.15](secA2.md#seca215), power corrupts those who have it as
 well as those subjected to it. The Spanish Libertarian Youth put it this way
 in the 1930s:
 
@@ -375,7 +375,7 @@ authoritarian social relationships also produce social inequality. This is
 because an individual subject to the authority of another has to obey the
 orders of those above them in the social hierarchy. In capitalism this means
 that workers have to follow the orders of their boss (see [next
-section](secB1.html#secb12)), orders that are designed to make the boss
+section](secB1.md#secb12)), orders that are designed to make the boss
 richer. And richer they have become, with the Chief Executive Officers (CEOs)
 of big firms earning 212 times what the average US worker did in 1995 (up from
 a mere 44 times 30 years earlier). Indeed, from 1994 to 1995 alone, CEO
@@ -508,7 +508,7 @@ more bossy the boss, the worse, as a rule is the job. So part of autonomy is
 not being bossed around, but that is only part of the story. And, of course,
 hierarchy (inequality of power) and exploitation (the source of material
 inequality) are related. As we indicate in the [next
-section](secB1.html#secb12), capitalism is based on wage labour. The worker
+section](secB1.md#secb12), capitalism is based on wage labour. The worker
 sell their liberty to the boss for a given period of time, i.e. they loose
 their autonomy. This allows the possibility of exploitation, as the worker can
 produce more wealth than they receive back in wages. As the boss pockets the
@@ -572,7 +572,7 @@ business.
 Moreover, as Ward and Malatesta indicate, hierarchy provokes a struggle
 between those at the bottom and at the top. This struggle is also a source of
 waste as it diverts resources and energy from more fruitful activity into
-fighting it. Ironically, as we discuss in [section H.4.4](secH4.html#sech44),
+fighting it. Ironically, as we discuss in [section H.4.4](secH4.md#sech44),
 one weapon forged in that struggle is the **_"work to rule,"_** namely workers
 bringing their workplace to a grinding halt by following the dictates of the
 boss to the letter. This is clear evidence that a workplace only operates
@@ -580,7 +580,7 @@ because workers exercise their autonomy during working hours, an autonomy
 which authoritarian structures stifle and waste. A participatory workplace,
 therefore, would be more efficient and less wasteful than the hierarchical one
 associated with capitalism. As we discuss in [section
-J.5.12](secJ5.html#secj512), hierarchy and the struggle it creates always acts
+J.5.12](secJ5.md#secj512), hierarchy and the struggle it creates always acts
 as a barrier stopping the increased efficiency associated with workers'
 participation undermining the autocratic workplace of capitalism.
 
@@ -588,7 +588,7 @@ All this is not to suggest that those at the bottom of hierarchies are victims
 nor that those at the top of hierarchies only gain benefits -- far from it. As
 Ward and Malatesta indicated, hierarchy by its very nature creates resistance
 to it from those subjected to it and, in the process, the potential for ending
-it (see [section B.1.6](secB1.html#secb16) for more discussion). Conversely,
+it (see [section B.1.6](secB1.md#secb16) for more discussion). Conversely,
 at the summit of the pyramid, we also see the evils of hierarchy.
 
 If we look at those at the top of the system, yes, indeed they often do
@@ -652,7 +652,7 @@ himself. To obtain the right to use another is to be a (civil) master."_
 [**The Sexual Contract**, pp. 150-1]
 
 You need only compare this to Proudhon's comments quoted in [section
-B.1](secB1.html) to see that anarchists have long recognised that capitalism
+B.1](secB1.md) to see that anarchists have long recognised that capitalism
 is, by its very nature, hierarchical. The worker is subjected to the authority
 of the boss during working hours (sometimes outside work too). As Noam Chomsky
 summarises, _"a corporation, factory of business is the economic equivalent of
@@ -677,13 +677,13 @@ Some defenders of capitalism are aware of the contradiction between the
 rhetoric of the system and its reality for those subject to it. Most utilise
 the argument that workers consent to this form of hierarchy. Ignoring the
 economic conditions which force people to sell their liberty on the labour
-market (see [section B.4.3](secB4.html#secb43)), the issue instantly arises of
+market (see [section B.4.3](secB4.md#secb43)), the issue instantly arises of
 whether consent is enough in itself to justify the alienation/selling of a
 person's liberty. For example, there have been arguments for slavery and
 monarchy (i.e. dictatorship) rooted in consent. Do we really want to say that
 the only thing wrong with fascism or slavery is that people do not consent to
 it? Sadly, some right-wing "libertarians" come to that conclusion (see
-[section B.4](secB4.html)).
+[section B.4](secB4.md)).
 
 Some try to redefine the reality of the command-and-obey of wage labour. _"To
 speak of managing, directing, or assigning workers to various tasks is a
@@ -762,7 +762,7 @@ co-operative economic activity based on sharing and mutual aid -- and
 replacing it with an atomistic and individualistic one based on contract and
 competition. Unsurprisingly, this relationship is a very recent development
 and, moreover, the product of substantial state action and coercion (see
-[section F.8](secF8.html) for some discussion of this). Simply put, _"the
+[section F.8](secF8.md) for some discussion of this). Simply put, _"the
 early labourer . . . abhorred the factory, where he [or she] felt degraded and
 tortured."_ While the state ensured a steady pool of landless workers by
 enforcing private property rights, the early manufacturers also utilised the
@@ -775,8 +775,8 @@ of the 'willing worker.'"_ [**Op. Cit.**, pp. 164-5]
 
 Ignoring its origins in state action, the social relationship of wage labour
 is then claimed by capitalists to be a source of "freedom," whereas in fact it
-is a form of (in)voluntary servitude (see sections [B.4](secB4.html) and
-[A.2.14](secA2.html#seca14) for more discussion). Therefore a libertarian who
+is a form of (in)voluntary servitude (see sections [B.4](secB4.md) and
+[A.2.14](secA2.md#seca14) for more discussion). Therefore a libertarian who
 did not support economic liberty (i.e. self-government in industry,
 libertarian socialism) would be no libertarian at all, and no believer in
 liberty. Capitalism is based upon hierarchy and the denial of liberty. To
@@ -799,7 +799,7 @@ equals (such as trade unions) were combated, just as attempts to regulate the
 worse excesses of the system by democratic governments. Indeed, capitalists
 prefer centralised, elitist and/or authoritarian regimes precisely because
 they are sure to be outside of popular control (see [section
-B.2.5](secB2.html#secb25)). They are the only way that contractual relations
+B.2.5](secB2.md#secb25)). They are the only way that contractual relations
 based on market power could be enforced on an unwilling population. Capitalism
 was born under such states and as well as backing fascist movements, they made
 high profits in Nazi Germany and Fascist Italy. Today many corporations
@@ -815,7 +815,7 @@ Anarchists argue that capitalism can only have a negative impact on ethical
 behaviour. This flows from its hierarchical nature. We think that hierarchy
 must, by its very nature, always impact negatively on morality.
 
-As we argued in [section A.2.19](secA2.html#seca219), ethics is dependent on
+As we argued in [section A.2.19](secA2.md#seca219), ethics is dependent on
 both individual liberty and equality between individuals. Hierarchy violates
 both and so the _"great sources of moral depravity"_ are _"capitalism,
 religion, justice, government."_ In _"the domain of economy, coercion has lead
@@ -1137,7 +1137,7 @@ Gays are not oppressed on a whim but because of the specific need of
 capitalism for the nuclear family. The nuclear family, as the primary - and
 inexpensive - creator of submissive people (growing up within the
 authoritarian family gets children used to, and "respectful" of, hierarchy and
-subordination - see [section B.1.5](secB1.html#secb15)) as well as provider
+subordination - see [section B.1.5](secB1.md#secb15)) as well as provider
 and carer for the workforce fulfils an important need for capitalism.
 Alternative sexualities represent a threat to the family model because they
 provide a different role model for people. This means that gays are going to
@@ -1248,7 +1248,7 @@ one, such a revolution would be unlikely to happen and, two, if it were then
 these problems would more than likely remain in the new society created by it.
 Therefore the negative impacts of inequality can and must be fought in the
 here and now, like any form of hierarchy. Indeed, as we discuss in more detail
-[section B.1.6](secB1.html#secb16) by doing so we make life a bit better in
+[section B.1.6](secB1.md#secb16) by doing so we make life a bit better in
 the here and now as well as bringing the time when such inequalities are
 finally ended nearer. Only this can ensure that we can all live as free and
 equal individuals in a world without the blights of sexism, racism, homophobia
@@ -1267,7 +1267,7 @@ sex, colour, nationality or sexuality of who is giving the orders!
 ## B.1.5 How is the mass-psychological basis for authoritarian civilisation
 created?
 
-We noted in [section A.3.6](secA3.html#seca36) that hierarchical,
+We noted in [section A.3.6](secA3.md#seca36) that hierarchical,
 authoritarian institutions tend to be self-perpetuating, because growing up
 under their influence creates submissive/authoritarian personalities -- people
 who both "respect" authority (based on fear of punishment) and desire to
@@ -1443,7 +1443,7 @@ surrender to the flow of energy discharged during orgasm. Hence there is an
 incomplete release of sexual tension, which results in a state of chronic
 bioenergetic stasis. Such a condition, Reich found, is the breeding ground for
 neuroses and reactionary attitudes. (For further details see the [section
-J.6](secJ6.html)).
+J.6](secJ6.md)).
 
 In this connection it is interesting to note that "primitive" societies, such
 as the Trobriand Islanders, prior to their developing patriarchal-
@@ -1452,7 +1452,7 @@ could go with their partners to enjoy undisturbed sexual relationships -- and
 this with society's full approval. Such an institution would be taken for
 granted in an anarchist society, as it is implied by the concept of freedom.
 (For more on adolescent sexual liberation, see [section
-J.6.8.](secJ6.html#secj68))
+J.6.8.](secJ6.md#secj68))
 
 Nationalistic feelings can also be traced to the authoritarian family. A
 child's attachment to its mother is, of course, natural and is the basis of
@@ -1520,8 +1520,8 @@ practices, the patriarchal-authoritarian family (and its "values"), the
 suppression of adolescent sexuality, and the pleasure-denying, pain-affirming
 attitudes taught by the Church and in most schools. In place of these,
 anarchists favour non-authoritarian, non-repressive child-rearing practices
-and educational methods (see sections [J.6](secJ6.html) and [
-secJ.5.13](secJ5.html#secJ513), respectively) whose purpose is to prevent, or
+and educational methods (see sections [J.6](secJ6.md) and [
+secJ.5.13](secJ5.md#secJ513), respectively) whose purpose is to prevent, or
 at least minimise, the psychological crippling of individuals, allowing them
 instead to develop natural self-regulation and self-motivated learning. This,
 we believe, is the only way to for people to grow up into happy, creative, and
@@ -1619,11 +1619,11 @@ Democratic Theory**, p. 105] So oppression reproduces resistance and the seeds
 of its own destruction.
 
 It is for this reason anarchists stress the importance of self-liberation (see
-[section A.2.7](secA2.html#seca27)) and _"support all struggles for partial
+[section A.2.7](secA2.md#seca27)) and _"support all struggles for partial
 freedom, because we are convinced that one learns through struggle, and that
 once one begins to enjoy a little freedom one ends by wanting it all."_
 [Malatesta, **Errico Malatesta: His Life and Ideas**, p. 195] By means of
-direct action (see [section J.2](secJ2.html)), people exert themselves and
+direct action (see [section J.2](secJ2.md)), people exert themselves and
 stand up for themselves. This breaks the conditioning of hierarchy, breaks the
 submissiveness which hierarchical social relationships both need and produce.
 Thus the daily struggles against oppression _"serve as a training camp to
@@ -1648,12 +1648,12 @@ The women that had participated actively became a different type of women . .
 they had confidence in themselves."_ [Genora (Johnson) Dollinger, contained in
 **Voices of a People's History of the United States**, Howard Zinn and Anthony
 Arnove (eds.), p. 349] Such changes happen in all struggles (also see [section
-J.4.2](secJ4.html#secj42)). Anarchists are not surprised for, as discussed in
-[section J.1](secJ1.html) and [J.2.1](secJ2.html#secj21), we have long
+J.4.2](secJ4.md#secj42)). Anarchists are not surprised for, as discussed in
+[section J.1](secJ1.md) and [J.2.1](secJ2.md#secj21), we have long
 recognised the liberating aspects of social struggle and the key role it plays
 in creating free people and the other preconditions for needed for an
 anarchist society (like the initial social structure -- see [section
-I.2.3](secI2.html#seci23)).
+I.2.3](secI2.md#seci23)).
 
 Needless to say, a hierarchical system like capitalism cannot survive with a
 non-submissive working class and the bosses spend a considerable amount of
@@ -1670,7 +1670,7 @@ subject to hierarchy fight to limit it and increase their autonomy and those
 who exercise authority fight to increase their power over others. Who wins
 varies. The 1960s and 1970s saw a marked increase in victories for the
 oppressed all throughout capitalism but, unfortunately, since the 1980s, as we
-discuss in [section C.8.3](sec83.html#secc83), there has been a relentless
+discuss in [section C.8.3](sec83.md#secc83), there has been a relentless
 class war conducted by the powerful which has succeeded in inflicting a series
 of defeats on working class people. Unsurprisingly, the rich have got richer
 and more powerful since.
@@ -1687,13 +1687,13 @@ class struggle we argue for _"[o]rganisation from the bottom up, beginning
 with the shop and factory, on the foundation of the joint interests of the
 workers everywhere, irrespective of trade, race, or country."_ [Alexander
 Berkman, **Op. Cit.**, p. 207] Such an organisation, as we discuss in [section
-J.5.2](secJ5.html#secj52), would be run via workplace assemblies and would be
+J.5.2](secJ5.md#secj52), would be run via workplace assemblies and would be
 the ideal means of replacing capitalist hierarchy in industry by genuine
 economic freedom, i.e. worker's self-management of production (see [section
-I.3](secI3.html)). Similarly, in the community we argue for popular assemblies
-(see [section J.5.1](secJ5.html#secj51)) as a means of not only combating the
+I.3](secI3.md)). Similarly, in the community we argue for popular assemblies
+(see [section J.5.1](secJ5.md#secj51)) as a means of not only combating the
 power of the state but also replaced it with by free, self-managed,
-communities (see [section I.5](secI5.html)).
+communities (see [section I.5](secI5.md)).
 
 Thus the current struggle itself creates the bridge between what is and what
 could be:
@@ -1828,7 +1828,7 @@ Only in this way can the hold of these social diseases be weakened and a
 better, non-hierarchical system be created. An injury to one is an injury to
 all.
 
-[‹ B.0 Section B Introduction](/afaq/secBint.html "Go to previous page" )
-[up](/afaq/secBcon.html "Go to parent page" ) [B.2 Why are anarchists against
-the state? ›](/afaq/secB2.html "Go to next page" )
+[‹ B.0 Section B Introduction](secBint.md "Go to previous page" )
+[up](secBcon.md "Go to parent page" ) [B.2 Why are anarchists against the
+state? ›](secB2.md "Go to next page" )
 

@@ -272,8 +272,8 @@ noted, _"where military force prevails, there freedom has to take its leave --
 especially the freedom and well-being of the working people."_ [**The
 Political Philosophy of Bakunin**, pp. 221-2]
 
-[‹ D.7 Are anarchists opposed to National Liberation
-struggles?](/afaq/secD7.html "Go to previous page" ) [up](/afaq/secDcon.html
-"Go to parent page" ) [D.9 Why does political power become concentrated under
-capitalism? ›](/afaq/secD9.html "Go to next page" )
+[‹ D.7 Are anarchists opposed to National Liberation struggles?](secD7.md
+"Go to previous page" ) [up](secDcon.md "Go to parent page" ) [D.9 Why does
+political power become concentrated under capitalism? ›](secD9.md "Go to
+next page" )
 

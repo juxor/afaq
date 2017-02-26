@@ -23,7 +23,7 @@ not know what he was talking about. However, in reality, it was Engels who did
 this.
 
 The first fallacy in Engels account is that anarchists, as we indicated in
-[section B.1](secB1.html), do not oppose all forms of authority. Bakunin was
+[section B.1](secB1.md), do not oppose all forms of authority. Bakunin was
 extremely clear on this issue and differentiated between **types** of
 authority, of which he opposed only certain kinds. For example, he asked the
 question _"[d]oes it follow that I reject all authority?"_ and answered quite
@@ -360,7 +360,7 @@ Rather than seeing organisation as restricting freedom, anarchists argue that
 the **kind** of organisation we create is what matters. We can form
 relationships with others which are based on equality, not subordination. As
 an example, we point to the differences between marriage and free love (see
-[next section](secH4.html#sech42)). Once it is recognised that decisions can
+[next section](secH4.md#sech42)). Once it is recognised that decisions can
 be made on the basis of co-operation between equals, Engels essay can be seen
 for what it is - a deeply flawed piece of cheap and inaccurate diatribe.
 
@@ -703,7 +703,7 @@ replaced by collective self-discipline.
 ## H.4.5 Is the way industry operates _"independent of all social
 organisation"_?
 
-As noted in the [last section](secH4.html#sech44), Engels argued that applying
+As noted in the [last section](secH4.md#sech44), Engels argued that applying
 the _"forces of nature"_ meant _"a veritable despotism independent of all
 social organisation."_ This meant that _"[w]anting to abolish authority in
 large-scale industry is tantamount to wanting to abolish industry itself."_
@@ -713,7 +713,7 @@ For anarchists, Engels' comments ignore the reality of class society in an
 important way. Modern (_"large-scale"_) industry has not developed neutrally
 or naturally, independently of all social organisation as Engels claimed.
 Rather it has been shaped by the class struggle along with technology (which
-is often a weapon in that conflict - see [section D.10](secD10.html)). As
+is often a weapon in that conflict - see [section D.10](secD10.md)). As
 Castoriadis argued:
 
 > _"Management organises production with a view of achieving 'maximum
@@ -1098,7 +1098,7 @@ of the "armed workers" over the bourgeois is, simply, the defence of the
 workers' freedom against those who seek to end it by exercising/recreating the
 very authoritarian social relationships the revolution sought to end in the
 first place. This explains why, as we discussed in [section
-H.2.1](secH2.html#sech21) anarchists have always argued that a revolution
+H.2.1](secH2.md#sech21) anarchists have always argued that a revolution
 would need to defend itself against those seeking to return the masses to
 their position at the bottom of the social hierarchy.
 
@@ -1155,8 +1155,7 @@ that exist between these groups (classes) and the relations of authority
 between them which the revolution is seeking to overthrow. As such, Engels
 critique totally misses the point.
 
-[‹ H.3 What are the myths of state socialism?](/afaq/secH3.html "Go to
-previous page" ) [up](/afaq/secHcon.html "Go to parent page" ) [H.5 What is
-vanguardism and why do anarchists reject it? ›](/afaq/secH5.html "Go to next
-page" )
+[‹ H.3 What are the myths of state socialism?](secH3.md "Go to previous
+page" ) [up](secHcon.md "Go to parent page" ) [H.5 What is vanguardism and
+why do anarchists reject it? ›](secH5.md "Go to next page" )
 

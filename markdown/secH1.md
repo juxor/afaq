@@ -3,12 +3,12 @@
 Yes. Anarchists have always argued that real socialism cannot be created using
 a state. The basic core of the argument is simple. Socialism implies equality,
 yet the state signifies inequality - inequality in terms of power. As we
-argued in [section B.2](secB2.html), anarchists consider one of the defining
+argued in [section B.2](secB2.md), anarchists consider one of the defining
 aspects of the state is its hierarchical nature. In other words, the
 delegation of **power** into the hands of a few. As such, it violates a core
 idea of socialism, namely social equality. Those who make up the governing
 bodies in a state have more power than those who have elected them (see
-[section I.1](secI1.html)).
+[section I.1](secI1.md)).
 
 It is with this perspective that anarchists have combated the idea of state
 socialism and Marxism (although we should stress that libertarian forms of
@@ -35,7 +35,7 @@ However, like Proudhon, Stirner attacked **other** state socialists and
 communists.
 
 Before discussing Bakunin's opposition and critique of Marxism in the [next
-section](secH1.html#sech11), we should consider the thoughts of Stirner and
+section](secH1.md#sech11), we should consider the thoughts of Stirner and
 Proudhon on state socialism. These critiques contain may important ideas and
 so are worth summarising. However, it is worth noting that when both Stirner
 and Proudhon were writing communist ideas were all authoritarian in nature.
@@ -92,7 +92,7 @@ ensuring that socialised property does not turn into the denial of freedom
 rather than as a means of ensuring it. As such, Stirner's attack on what Marx
 termed _"vulgar communism"_ is still important and finds echoes in communist-
 anarchist writings as well as the best works of Marx and his more libertarian
-followers (see [section I.4](secI4.html) on how libertarian communism is not
+followers (see [section I.4](secI4.md) on how libertarian communism is not
 _"silent"_ on these matters and incorporates Stirner's legitimate concerns and
 arguments).
 
@@ -200,7 +200,7 @@ context in which it was proposed. With a predominance of small-scale industry,
 the notion of free credit provided by mutual banks as the means of securing
 working class people access to the means of production is theoretically
 feasible. It was this social context which informed Proudhon's ideas (see
-[section H.2.3](secH2.html#sech23)). He never failed to stress that
+[section H.2.3](secH2.md#sech23)). He never failed to stress that
 association would be tyranny if imposed upon peasants and artisans (rather, he
 thought that associations would be freely embraced by these workers if they
 thought it was in their interests to do so). However, he did not ignore the
@@ -266,7 +266,7 @@ Workingmen's Association** between 1868 and 1872. It was in these exchanges
 that the two schools of socialism (the libertarian and the authoritarian)
 clarified themselves. With Bakunin, the anarchist critique of Marxism (and
 state socialism in general) starts to reach its mature form. We discuss
-Bakunin's critique in the [next section](secH1.html#sech11).
+Bakunin's critique in the [next section](secH1.md#sech11).
 
 ## H.1.1 What was Bakunin's critique of Marxism?
 
@@ -340,7 +340,7 @@ Marxist parties (and which developed under the watchful eyes of Marx and
 Engels) saw revolution in terms of winning a majority within Parliamentary
 elections and using this political power to abolish capitalism (once this was
 done, the state would "wither away" as classes would no longer exist). In
-effect, as we discuss in [section H.3.10](secH3.html#sech310), these parties
+effect, as we discuss in [section H.3.10](secH3.md#sech310), these parties
 aimed to reproduce Marx's account of the forming of the Paris Commune on the
 level of the national Parliament.
 
@@ -388,17 +388,17 @@ War, the Social Democrats had become so corrupted by their activities in
 bourgeois institutions they supported its state (and ruling class) and voted
 for war credits rather than denounce the war as Imperialist slaughter for
 profits. Clearly, Bakunin was proved right. (see also [section
-J.2.6](secJ2.html#secj26) for more discussion on the effect of electioneering
+J.2.6](secJ2.md#secj26) for more discussion on the effect of electioneering
 on radical parties).
 
 However, we must stress that because Bakunin rejected participating in
 bourgeois politics, it did not mean that he rejected "politics" or "political
-struggle" in general (see [section J.2.10](secJ2.html#secj210)). Bakunin
+struggle" in general (see [section J.2.10](secJ2.md#secj210)). Bakunin
 clearly advocated what would later be termed a syndicalist strategy (see
-[section H.2.8](secH2.html#sech28)). This union movement would be complemented
+[section H.2.8](secH2.md#sech28)). This union movement would be complemented
 by a specific anarchist organisation which would work within it to influence
 it towards anarchist aims by the _"natural influence"_ of its members (see
-[section J.3.7](secJ3.html#secj37)).
+[section J.3.7](secJ3.md#secj37)).
 
 Comparing Bakunin and Marx, it is clear whom history has validated. Even that
 anti-anarchist Stalinist hack Eric Hobsbawn could not avoid admitting _"the
@@ -413,7 +413,7 @@ to bother his faith in Leninist ideology. So given the long history of
 reformism and betrayal of socialist principles by radicals utilising elections
 and political parties, it comes as no surprise that anarchists consider both
 Bakunin's critique and alternative to be confirmed by experience ([section
-J.2](secJ2.html) discusses direct action and electioneering).
+J.2](secJ2.md) discusses direct action and electioneering).
 
 Which brings us to the second issue, namely the nature of the revolution
 itself. For Bakunin, a revolution meant a **social** revolution from below.
@@ -586,9 +586,9 @@ Faced with the predictable opposition by capitalists to their system of
 **within** the nationalised workplace the situation of the worker remained
 essentially unchanged. Lenin had been arguing for one-man management
 (appointed from above and armed with "dictatorial" powers) since late April
-1918 (see [section H.3.14](secH3.html#sech314)). This aimed at replacing the
+1918 (see [section H.3.14](secH3.md#sech314)). This aimed at replacing the
 capitalists with state appointed managers, **not** workers self-management. In
-fact, as we discuss in [section H.6.2](secH6.html#sech62) the party leaders
+fact, as we discuss in [section H.6.2](secH6.md#sech62) the party leaders
 repeatedly overruled the factory committees' suggestions to build socialism
 based on their management of the economy in favour of centralised state
 control. Bakunin's fear of what would happen if a political revolution
@@ -620,7 +620,7 @@ the state becomes _"the sole proprietor"_ and _"the only banker, capitalist,
 organiser, and director of all national labour, and the distributor of all its
 products."_ [**Bakunin on Anarchism**, pp. 317-8, p. 318 and p. 217]
 Subsequent anarchists have tended to call such a regime **state capitalism**
-(see [section H.3.13](secH3.html#sech313)).
+(see [section H.3.13](secH3.md#sech313)).
 
 The Bolshevik leadership's rejection of the factory committees and their
 vision of socialism also confirmed Bakunin's fear that Marxism urges the
@@ -644,7 +644,7 @@ basically use this term to describe the defence of the revolution and so argue
 that anarchists do not see the need for that, this is incorrect. Anarchists
 from Bakunin onwards have argued that a revolution would have to defend itself
 from counter revolution and yet we reject the concept totally (see [section
-H.2.1](secH2.html#sech21) for a refutation of claims that anarchists think a
+H.2.1](secH2.md#sech21) for a refutation of claims that anarchists think a
 revolution does not need defending). To understand why Bakunin rejected the
 concept, we must provide some historical context.
 
@@ -690,7 +690,7 @@ it would be a dictatorship of a minority class over the rest of the working
 population (he took it as a truism that the capitalist and landlord classes
 should be expropriated and stopped from destroying the revolution!). Bakunin
 continually stressed the need for a movement and revolution of **all** working
-class people (see [section H.2.7](secH2.html#sech27)) and that the peasants
+class people (see [section H.2.7](secH2.md#sech27)) and that the peasants
 _"will join cause with the city workers as soon as they become convinced that
 the latter do not pretend to impose their will or some political or social
 order invented by the cities for the greater happiness of the villages; they
@@ -729,12 +729,12 @@ Bakunin: Selected Writings**, pp. 253-4]
 
 Again, the experiences of the Russian Revolution confirm Bakunin's worries.
 The Bolsheviks implemented the dictatorship of the city over the countryside,
-with disastrous results (see [section H.6.2](secH6.html#sech62) for more
+with disastrous results (see [section H.6.2](secH6.md#sech62) for more
 details).
 
 One last point on this subject. While anarchists reject the "dictatorship of
 the proletariat" we clearly do not reject the key role the proletariat must
-play in any social revolution (see [section H.2.2](secH2.html#sech22) on why
+play in any social revolution (see [section H.2.2](secH2.md#sech22) on why
 the Marxist assertion anarchists reject class struggle is false). We only
 reject the idea that the proletariat must dictate over other working people
 like peasants and artisans. We do not reject the need for working class people
@@ -776,7 +776,7 @@ So where does Marx stand on this question. Clearly, the self-proclaimed
 followers of Marx support the idea of "socialist" governments (indeed, many,
 including Lenin and Trotsky, went so far as to argue that party dictatorship
 was essential for the success of a revolution - see [next
-section](secH1.html#sech12)). Marx, however, is less clear. He argued, in
+section](secH1.md#sech12)). Marx, however, is less clear. He argued, in
 reply to Bakunin's question if all Germans would be members of the government,
 that _"[c]ertainly, because the thing starts with the self-government of the
 township."_ However, he also commented that _"[c]an it really be that in a
@@ -785,7 +785,7 @@ suggesting that there **will** be a division of labour between those who
 govern and those who obey in the Marxist system of socialism. [**The Marx-
 Engels Reader**, p. 545 and p. 544] Elsewhere he talks about _"a socialist
 government"_ coming _"to the helm in a country"_. [**Collected Works**, vol.
-46, p. 66] As we discuss in [section H.3.10](secH3.html#sech310), both Marx
+46, p. 66] As we discuss in [section H.3.10](secH3.md#sech310), both Marx
 and Engels saw universal suffrage in a republic as expressing the political
 power of the working class.
 
@@ -835,7 +835,7 @@ Russian anarchist predicted that _"the organisation and the rule of the new
 society by socialist savants"_ would be _"the worse of all despotic
 governments!"_ [**Bakunin on Anarchism**, pp. 328-9, p. 331, p. 319, p. 338
 and p. 295] History proved Bakunin right, with the Bolshevik regime being
-precisely that. As we discuss in [section H.5](secH5.html), Lenin's
+precisely that. As we discuss in [section H.5](secH5.md), Lenin's
 vanguardism did produce such a result, with the argument that the party
 leadership knew the objective needs of working class people better than they
 themselves did being used to justify party dictatorship and the strict
@@ -1005,7 +1005,7 @@ revolutionaries in elections, centralisation versus federalism, the role and
 organisation of revolutionaries, whether socialism can only come _"from
 below"_ or whether it is possible for it come _"from below"_ and _"from
 above"_ and a host of others (i.e. some of the differences we indicated in the
-[last section](secH1.html#sech11) during our discussion of Bakunin's critique
+[last section](secH1.md#sech11) during our discussion of Bakunin's critique
 of Marxism). Indeed, there are so many it is difficult to address them all
 here. As such, we can only concentrate on a few in this and the following
 sections.
@@ -1185,7 +1185,7 @@ Trotsky 1936-37**, pp. 513-4]
 
 Significantly, this was the year after his apparent (and much belated) embrace
 of soviet democracy in **The Revolution Betrayed**. Moreover, as we discuss in
-[section H.3.8](secH3.html#sech38), he was just repeating the same arguments
+[section H.3.8](secH3.md#sech38), he was just repeating the same arguments
 he had made while in power during the Russian Revolution. Nor was he the only
 one. Zinoviev, another leading Bolshevik, argued in 1920 along the same lines:
 
@@ -1218,7 +1218,7 @@ as mainstream Marxism) is inherently democratic or a supporter of power to the
 people is clearly flawed. Equally flawed are the attempts by Leninists to
 distance themselves from, and rationalise, these positions in terms of the
 "objective circumstances" (such as civil war) facing the Russian Revolution.
-As we discuss in [section H.6](secH6.html), Bolshevik authoritarianism started
+As we discuss in [section H.6](secH6.md), Bolshevik authoritarianism started
 **before** these problems began and continued long after they ended (in part
 because the policies pursued by the Bolshevik leadership had roots in their
 ideology and, as a result, that ideology itself played a key role in the
@@ -1313,13 +1313,13 @@ proletariat be prepared for revolution by utilising the present state; the
 latter reject this."_ [**Essential Works of Lenin**, p. 358]
 
 We will discuss each of these points in the next three sections. Point one
-will be discussed in [section H.1.3](secH1.html#sech13), the second in
-[section H.1.4](secH1.html#sech14) and the third and final one in [section
-H.1.5](secH1.html#sech15).
+will be discussed in [section H.1.3](secH1.md#sech13), the second in
+[section H.1.4](secH1.md#sech14) and the third and final one in [section
+H.1.5](secH1.md#sech15).
 
 ## H.1.3 Why do anarchists wish to abolish the state _"overnight"_?
 
-As indicated at the end of the [last section](secH1.html#sech12), Lenin argued
+As indicated at the end of the [last section](secH1.md#sech12), Lenin argued
 that while Marxists aimed _"at the complete abolition of the state"_ they
 _"recognise that this aim can only be achieved after classes have been
 abolished by the socialist revolution"_ while anarchists _"want to abolish the
@@ -1381,7 +1381,7 @@ also reject defending a revolution is false. We do not equate the
 expropriating the capitalist class, ending capitalism and building socialism.
 Anarchists from Bakunin onwards have taken both of these necessities for
 granted. As we discuss this particular Marxist straw man in [section
-H.2.1](secH2.html#sech21), we will leave our comments on anarchist awareness
+H.2.1](secH2.md#sech21), we will leave our comments on anarchist awareness
 of the need to defend a revolution at this.
 
 Anarchists, then, do not reject defending a revolution and our opposition to
@@ -1519,7 +1519,7 @@ course. At worst, and in practice, such centralism simply places all the
 decision making at the centre, at the top, and all that is left is for the
 communes to obey the decisions of a few party leaders.
 
-As we discuss in the [next section](secH1.html#sech14), anarchists see this
+As we discuss in the [next section](secH1.md#sech14), anarchists see this
 federation of workers' associations and communes (the framework of a free
 society) as being based on the organisations working class people create in
 their struggle against capitalism. These self-managed organisations, by
@@ -1563,7 +1563,7 @@ Barrett's answer contains the standard anarchist position on what will be the
 organisational basis of a revolutionary society, namely that the _"only thing
 then that will be put in the place of government will be the free organisation
 of the workers."_ This is a concise summary of anarchist theory and cannot be
-bettered. This vision, as we discuss in [section I.2.3](secI2.html#seci23) in
+bettered. This vision, as we discuss in [section I.2.3](secI2.md#seci23) in
 some detail, can be found in the work of Bakunin, Kropotkin, Malatesta and a
 host of other anarchist thinkers. Since anarchists from Bakunin onwards have
 stressed that a federation of workers' associations would constitute the
@@ -1582,7 +1582,7 @@ associations may change (for example, the factory committees and soviets in
 the Russian Revolution, the collectives in Spain, the section assemblies in
 the French Revolution are a few of them) the basic ideas are the same. Bakunin
 also pointed to the means of defence, a workers' militia (the people armed, as
-per the Paris Commune - [section H.2.1](secH2.html#sech21)).
+per the Paris Commune - [section H.2.1](secH2.md#sech21)).
 
 A major difference between anarchism and Marxism which Lenin points to is,
 clearly, false. Anarchists are well aware of what should _"replace"_ the
@@ -1635,7 +1635,7 @@ _"replace"_ the state with and how it will use its _"revolutionary power"_!
 Similarly, Lenin's statement that _"the anarchists even deny that the
 revolutionary proletariat should utilise its state power, its revolutionary
 dictatorship"_ again distorts the anarchist position. As we argued in [the
-last section](secH1.html#sech13), our objection to the "state power" of the
+last section](secH1.md#sech13), our objection to the "state power" of the
 proletariat is precisely **because** it cannot, by its very nature as a state,
 actually allow the working class to manage society directly (and, of course,
 it automatically excludes other sections of the working masses, such as the
@@ -1668,7 +1668,7 @@ Clearly, Lenin's assertions are little more than straw men. Anarchists are not
 only well aware of the need for a federation of working class associations
 (workers' councils or soviets) to replace the state, they were advocating it
 long before Lenin took up this perspective in 1917 (as we discuss in [section
-H.3.10](secH3.html#sech310)). The key difference being, of course, anarchists
+H.3.10](secH3.md#sech310)). The key difference being, of course, anarchists
 meant it while Lenin saw it as a means of securing Bolshevik party power.
 
 Lastly, it should also be noted that Marxists, having taken so long to draw
@@ -1807,7 +1807,7 @@ for a social revolution. Moreover, as Bakunin predicted, participation in
 elections has a corrupting effect on those who do so. The history of radicals
 using elections has been a long one of betrayal and the transformation of
 revolutionary parties into reformist ones (see [section
-J.2.6](secJ2.html#secj26) for more discussion). Using the existing state
+J.2.6](secJ2.md#secj26) for more discussion). Using the existing state
 ensures that the division at the heart of existing society (namely a few who
 govern and the many who obey) is reproduced in the movements trying to abolish
 it. It boils down to handing effective leadership to special people, to
@@ -1961,7 +1961,7 @@ All in all, the history of socialists actually using elections has been a
 dismal failure and was obviously a failure long before 1917. Subsequent
 experience has only confirmed that conclusion. Rather than prepare the masses
 for revolution, it has done the opposite. As we argue in [section
-J.2](secJ2.html), this is to be expected. That Lenin could still argue along
+J.2](secJ2.md), this is to be expected. That Lenin could still argue along
 these lines even after the rise of reformism ("revisionism") in the 1890s and
 the betrayal of social democracy in 1914 indicates a lack of desire to learn
 the lessons of history.
@@ -2098,8 +2098,8 @@ future human society' and had cast away all discipline and all arms, that is,
 the things which must disappear when there are no more wars!"_ [**Collected
 Works**, vol. 23, p. 115] Needless to say this is simply a slander on the
 anarchist position particularly as anarchists are well aware of the need to
-defend a revolution (see [section H.2.1](secH2.html#sech21)) and the need for
-**self**-discipline (see [section H.4](secH4.html)). Anarchists, as the
+defend a revolution (see [section H.2.1](secH2.md#sech21)) and the need for
+**self**-discipline (see [section H.4](secH4.md)). Anarchists, as the
 Circular makes clear, recognise that we cannot totally reflect the future and
 so the current movement can only be _"as near as possible to our ideal."_ Thus
 we have to do things, such as fighting the bosses, rising in insurrection,
@@ -2122,7 +2122,7 @@ their current struggles and organisations? Equally, it would be churlish to
 note that the Commune's system of federalism by mandated delegates had been
 advocated by Bakunin for a number of years before 1871 and, unsurprisingly, he
 took the revolt as a striking, if incomplete, confirmation of anarchism (see
-[section A.5.1](secA5.html#seca51)).
+[section A.5.1](secA5.md#seca51)).
 
 The Paris Commune, it must be stressed, brought the contradictions of the
 Marxist attacks on anarchism to the surface. It is deeply sad to read, say,
@@ -2321,7 +2321,7 @@ their Western European sections during World War II by telling people how
 their leaders were murdered by the Gestapo!"_ [Maurice Brinton, **Op. Cit.**,
 p. 43]
 
-As we discuss in depth in [section H.5](secH5.html) the Leninist vanguard
+As we discuss in depth in [section H.5](secH5.md) the Leninist vanguard
 party does, ironically, create in embryo a new world simply because once in
 power it refashions society in **its** image. However, no anarchist would
 consider such a centralised, hierarchical top-down class system rooted in
@@ -2405,8 +2405,8 @@ identification of soviets with a state."_ [**Post-Scarcity Anarchism**, p.
 137]
 
 That this is the case is hidden in Lenin's work as he deliberately distorts
-anarchist ideas in it (see sections [H.1.3](secH1.html#sech13) and
-[H.1.4](secH1.html#sech14) for example). Therefore, when Marxists ask whether
+anarchist ideas in it (see sections [H.1.3](secH1.md#sech13) and
+[H.1.4](secH1.md#sech14) for example). Therefore, when Marxists ask whether
 anarchists have read Lenin's **State and Revolution** we reply by arguing that
 most of Lenin's ideas were first expressed by anarchists and his work just
 strikes anarchists as little more than a re-hash of many of our own ideas but
@@ -2433,7 +2433,7 @@ did in power. Such an evaluation is the only means by which we can judge the
 validity of Leninist claims and politics.
 
 As we discuss the role of Leninist ideology in the fate of the Russian
-Revolution in [section H.6](secH6.html) we will provide a summary of Lenin's
+Revolution in [section H.6](secH6.md) we will provide a summary of Lenin's
 claims in his famous work **State and Revolution** and what he did in practice
 here. Suffice to say the difference between reality and rhetoric was extremely
 large and, therefore, it is a damning indictment of Bolshevism. Post-October,
@@ -2506,7 +2506,7 @@ Obviously the work is a wide ranging defence of Lenin's interpretation of
 Marxist theory on the state. As it is an attempt to overturn decades of
 Marxist orthodoxy, much of the work is quotes from Marx and Engels and Lenin's
 attempts to enlist them for his case (we discuss this issue in [section
-H.3.10](secH3.html#sech310)). Equally, we need to ignore the numerous straw
+H.3.10](secH3.md#sech310)). Equally, we need to ignore the numerous straw
 men arguments about anarchism Lenin inflicts on his reader. Here we simply
 list the key points as regards Lenin's arguments about his "workers' state"
 and how the workers would maintain control of it:
@@ -2573,7 +2573,7 @@ Lenin's promises were kept as the new government simply gave itself
 legislative powers four days later. Sadly, this is not the case. In the Paris
 Commune the delegates of the people took executive power into their own hands.
 Lenin reversed this and his executive took legislative power from the hands of
-the people's delegates. As we discuss in [section H.6.1](secH6.html#sech61),
+the people's delegates. As we discuss in [section H.6.1](secH6.md#sech61),
 this concentration of power into executive committees occurred at all levels
 of the soviet hierarchy.
 
@@ -2582,7 +2582,7 @@ This lasted slightly longer, namely around 5 months. By March of 1918, the
 Bolsheviks started a systematic campaign against the elective principle in the
 workplace, in the military and even in the soviets. In the workplace, Lenin
 was arguing for appointed one-man managers _"vested with dictatorial powers"_
-by April 1918 (see [section H.3.14](secH3.html#sech314)). In the military,
+by April 1918 (see [section H.3.14](secH3.md#sech314)). In the military,
 Trotsky simply decreed the end of elected officers in favour of appointed
 officers. As far as the soviets go, the Bolsheviks were refusing to hold
 elections because they _"feared that the opposition parties would show
@@ -2671,7 +2671,7 @@ lost popular support, they turned the violence of the "worker's state" against
 the workers (and, of course, the peasants). When the Bolsheviks lost soviet
 elections, force was used to disband them. Faced with strikes and working
 class protest during this period, the Bolsheviks responded with state violence
-(see [section H.6.3](secH6.html#sech63)). So, as regards the claim that the
+(see [section H.6.3](secH6.md#sech63)). So, as regards the claim that the
 new ("workers") state would repress only the exploiters, the truth was that it
 was used to repress whoever opposed Bolshevik power, including workers and
 peasants. If, as Lenin stressed, _"where there is suppression there is also
@@ -2716,7 +2716,7 @@ betrayals - simply because it had not started yet. Each of the promises were
 broken in turn months before the civil war happened. _"All Power to the
 Soviets"_ became, very quickly, "All Power to the Bolsheviks." Unsurprisingly,
 as this was Lenin's aim all along and so we find him in 1917 continually
-repeating this basic idea (see [section H.3.3](secH3.html#sech33)).
+repeating this basic idea (see [section H.3.3](secH3.md#sech33)).
 
 Given this, the almost utter non-mention of the party and its role in **State
 and Revolution** is deeply significant. Given the emphasis that Lenin had
@@ -2752,7 +2752,7 @@ the civil war."_ Not a very good _"guide"_ or that convincing a _"message"_ if
 it was not applicable in the very circumstances it was designed to be applied
 in (a bit like saying you have an excellent umbrella but it only works when it
 is not raining). Moreover, Cliff is factually incorrect. As we discuss in
-[section H.6](secH6.html), the Bolsheviks _"violated"_ that _"guide"_ before
+[section H.6](secH6.md), the Bolsheviks _"violated"_ that _"guide"_ before
 the civil war started (i.e. when _"the victories of the Czechoslovak troops
 over the Red Army in June 1918, that threatened the greatest danger to the
 Soviet republic,"_ to quote Cliff). [**Op. Cit.**, p. 161 and p. 18]
@@ -2834,7 +2834,7 @@ clear, only libertarian means can ensure libertarian ends and they have to be
 applied consistently within libertarian structures to work. To apply them to
 statist ones will simply fail.
 
-[‹ H.0 Section H Introduction](/afaq/secHint.html "Go to previous page" )
-[up](/afaq/secHcon.html "Go to parent page" ) [H.2 What parts of anarchism do
-Marxists particularly misrepresent? ›](/afaq/secH2.html "Go to next page" )
+[‹ H.0 Section H Introduction](secHint.md "Go to previous page" )
+[up](secHcon.md "Go to parent page" ) [H.2 What parts of anarchism do
+Marxists particularly misrepresent? ›](secH2.md "Go to next page" )
 

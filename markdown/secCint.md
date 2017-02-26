@@ -3,7 +3,7 @@
 Within capitalism, economics plays an important ideological role. Economics
 has been used to construct a theory from which exploitation and oppression are
 excluded, by definition. We will attempt here to explain why capitalism is
-deeply exploitative. Elsewhere, in [section B](secBcon.html), we have
+deeply exploitative. Elsewhere, in [section B](secBcon.md), we have
 indicated why capitalism is oppressive and will not repeat ourselves here.
 
 In many ways economics plays the role within capitalism that religion played
@@ -25,7 +25,7 @@ religion. Like religion, its basis in science is usually lacking and its
 theories more based upon "leaps of faith" than empirical fact. Indeed, it is
 hard to find a "science" more unconcerned about empirical evidence or building
 realistic models than economics. Just looking at the assumptions made in
-"perfect competition" shows that (see [section C.1](secC1.html) for details).
+"perfect competition" shows that (see [section C.1](secC1.md) for details).
 This means that economics is immune to such trivialities as evidence and fact,
 although that does not stop economics being used to rationalise and justify
 certain of these facts (such as exploitation and inequality). A classic
@@ -42,7 +42,7 @@ distribution of income. Hence the love of Robinson Crusoe in economics.
 
 Ironically, this favouring of theory (ideology would be a better term) is
 selective as their exposure as fundamentally flawed does not stop them being
-repeated. As we discuss in [section C.2](secC2.html), the neoclassical theory
+repeated. As we discuss in [section C.2](secC2.md), the neoclassical theory
 of capital was proven to be incorrect by left-wing economists. This was
 admitted by their opponents: _"The question that confronts us is not whether
 the Cambridge Criticism is theoretically valid. It is. Rather the question is
@@ -310,7 +310,7 @@ benefiting the ruling elite.
 Lastly, one of the constant refrains of economists is the notion that the
 public is ignorant of economics. The implicit assumption behind this bemoaning
 of ignorance by economists is that the world should be run either by
-economists or on their recommendations. In [section C.11](secC11.html) we
+economists or on their recommendations. In [section C.11](secC11.md) we
 present a case study of a nation, Chile, unlucky enough to have that fate
 subjected upon it. Unsurprisingly, this rule by economists could only be
 imposed as a result of a military coup and subsequent dictatorship. As would
@@ -333,7 +333,7 @@ economists."_ [**Contributions to Modern Economics**, p. 75]
 
 
 
-[‹ Section C - What are the myths of capitalist economics?](/afaq/secCcon.html
-"Go to previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.1
-What is wrong with economics? ›](/afaq/secC1.html "Go to next page" )
+[‹ Section C - What are the myths of capitalist economics?](secCcon.md "Go
+to previous page" ) [up](secCcon.md "Go to parent page" ) [C.1 What is wrong
+with economics? ›](secC1.md "Go to next page" )
 

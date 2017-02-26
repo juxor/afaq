@@ -102,10 +102,9 @@ supposed to "know best."
 There is, of course, the danger of "tyranny of the majority" in any democratic
 system, but in a direct libertarian democracy, this danger would be greatly
 reduced, for reasons discussed in section I.5.6 ( [Won't there be a danger of
-a "tyranny of the majority" under libertarian socialism?](secI5.html#seci56)).
+a "tyranny of the majority" under libertarian socialism?](secI5.md#seci56)).
 
-[‹ B.5 Is capitalism empowering and based on human action?](/afaq/secB5.html
-"Go to previous page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.7
-What classes exist within modern society? ›](/afaq/secB7.html "Go to next
-page" )
+[‹ B.5 Is capitalism empowering and based on human action?](secB5.md "Go to
+previous page" ) [up](secBcon.md "Go to parent page" ) [B.7 What classes
+exist within modern society? ›](secB7.md "Go to next page" )
 

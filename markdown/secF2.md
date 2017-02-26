@@ -56,7 +56,7 @@ important consequence that you can "sell" your liberty and still be considered
 free by the ideology. This concept of liberty is usually termed "self-
 ownership." But, to state the obvious, I do not "own" myself, as if were an
 object somehow separable from my subjectivity -- I **am** myself (see [section
-B.4.2](secB4.html#secb42)). However, the concept of "self-ownership" is handy
+B.4.2](secB4.md#secb42)). However, the concept of "self-ownership" is handy
 for justifying various forms of domination and oppression -- for by agreeing
 (usually under the force of circumstances, we must note) to certain contracts,
 an individual can "sell" (or rent out) themselves to others (for example, when
@@ -79,14 +79,14 @@ certain vital things which, in natural fact and in the nature of man, are
 **in**alienable . . . [his] will and control over his own person are
 inalienable."_ [**The Ethics of Liberty**, p. 40, p. 135 and pp. 134-5] Yet
 _"labour services"_ are unlike the private possessions Rothbard lists as being
-alienable. As we argued in [section B.1](secB1.html) a person's _"labour
+alienable. As we argued in [section B.1](secB1.md) a person's _"labour
 services"_ and _"will"_ cannot be divided -- if you sell your labour services,
 you also have to give control of your body and mind to another person. If a
 worker does not obey the commands of her employer, she is fired. That Rothbard
 denied this indicates a total lack of common-sense. Perhaps Rothbard would
 have argued that as the worker can quit at any time she does not really
 alienate their will (this seems to be his case against slave contracts -- see
-[section F.2.2](secF2.html#secf22)). But this ignores the fact that between
+[section F.2.2](secF2.md#secf22)). But this ignores the fact that between
 the signing and breaking of the contract and during work hours (and perhaps
 outside work hours, if the boss has mandatory drug testing or will fire
 workers who attend union or anarchist meetings or those who have an
@@ -138,7 +138,7 @@ same: you must work **for him**. You can't help yourself. You are
 
 Due to this class monopoly over the means of life, workers (usually) are at a
 disadvantage in terms of bargaining power -- there are more workers than jobs
-(see [ section C.9](secC9.html)). Within capitalism there is no equality
+(see [ section C.9](secC9.md)). Within capitalism there is no equality
 between owners and the dispossessed, and so property is a source of **power.**
 To claim that this power should be "left alone" or is "fair" is _"to the
 anarchists. . . preposterous. Once a State has been established, and most of
@@ -259,7 +259,7 @@ example, as Ayn Rand pointed out, _"man has to sustain his life by his own
 effort, the man who has no right to the product of his effort has no means to
 sustain his life. The man who produces while others dispose of his product, is
 a slave."_ [**The Ayn Rand Lexicon: Objectivism from A to Z**, pp. 388-9] But,
-as was shown in [section C.2](secC2.html), capitalism is based on, as Proudhon
+as was shown in [section C.2](secC2.md), capitalism is based on, as Proudhon
 put it, workers working _"for an entrepreneur who pays them and keeps their
 products,"_ and so is a form of **theft.** Thus, by "libertarian" capitalism's
 **own** logic, capitalism is based not on freedom, but on (wage) slavery; for
@@ -376,7 +376,7 @@ the top will not abuse their power). Representing employment relations as
 voluntary agreement simply mystifies the existence and exercise of power
 within the organisation so created.
 
-As we argue further in the [section F.3](secF3.html), in a capitalist society
+As we argue further in the [section F.3](secF3.md), in a capitalist society
 workers have the option of finding a job or facing abject poverty and/or
 starvation. Little wonder, then, that people "voluntarily" sell their labour
 and "consent" to authoritarian structures! They have little option to do
@@ -550,7 +550,7 @@ sell himself into slavery and have this sale enforced -- for this would mean
 that his future will over his own body was being surrendered in advance"_ and
 that if a _"labourer remains totally subservient to his master's will
 voluntarily, he is not yet a slave since his submission is voluntary."_
-However, as we noted in [section F.2](secF2.html), Rothbard emphasis on
+However, as we noted in [section F.2](secF2.md), Rothbard emphasis on
 quitting fails to recognise the actual denial of will and control over ones
 own body that is explicit in wage labour. It is this failure that pro-slave
 contract "libertarians" stress -- they consider the slave contract as an
@@ -718,7 +718,7 @@ anarchists still do. It exposes the unfree nature of capitalism and the
 poverty of its vision of freedom. While it is possible to present wage labour
 as "freedom" due to its "consensual" nature, it becomes much harder to do so
 when talking about slavery or dictatorship (and let us not forget that Nozick
-also had no problem with autocracy -- see [section B.4](secB4.html)). Then the
+also had no problem with autocracy -- see [section B.4](secB4.md)). Then the
 contradictions are exposed for all to see and be horrified by.
 
 All this does not mean that we must reject free agreement. Far from it! Free
@@ -790,8 +790,8 @@ Their theoretical support for permanent and temporary voluntary slavery and
 autocracy indicates a deeper authoritarianism which negates their claims to be
 libertarians.
 
-[‹ F.1 Are "anarcho"-capitalists really anarchists?](/afaq/secF1.html "Go to
-previous page" ) [up](/afaq/secFcon.html "Go to parent page" ) [F.3 Why do
-anarcho"-capitalists place little or no value on equality? ›](/afaq/secF3.html
-"Go to next page" )
+[‹ F.1 Are "anarcho"-capitalists really anarchists?](secF1.md "Go to
+previous page" ) [up](secFcon.md "Go to parent page" ) [F.3 Why do
+anarcho"-capitalists place little or no value on equality? ›](secF3.md "Go
+to next page" )
 

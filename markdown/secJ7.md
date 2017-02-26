@@ -45,7 +45,7 @@ enforcement and the military (in the style of governments) to bring change
 about from the top-down. Rather, we seek to bring change upward from below,
 and in so doing, make such a revolution inevitable and not contingent on the
 machinations of a political vanguard (unsurprisingly, as we noted in [section
-H.3.3](secH3.html#sech33), Lenin dismissed talk of change exclusively from
+H.3.3](secH3.md#sech33), Lenin dismissed talk of change exclusively from
 below as anarchist and saw the need for change from above by government). As
 Durruti argued: _"We never believed that the revolution consisted of the
 seizure of power by a minority which would impose a dictatorship on the people
@@ -144,9 +144,9 @@ be attained only _"through the development and organisation of the non-
 political or anti-political social power of the working classes in city and
 country."_ [**Bakunin On Anarchism**, p. 255 and p. 263] Such social power is
 expressed in economic and community organisations such as self-managed unions
-and workplace/community assemblies (see [section J.5](secJ5.html)) and these
+and workplace/community assemblies (see [section J.5](secJ5.md)) and these
 form the organisational framework of a free society (see [section
-I.2.3](secI2.html#seci23)).
+I.2.3](secI2.md#seci23)).
 
 Anarchists try and follow the example of our Spanish comrades in the C.N.T.
 and F.A.I. who, when _"faced with the conventional opposition between
@@ -180,7 +180,7 @@ are instinctively acting in a libertarian manner. Anarchists spread our
 message to those in struggle and support libertarian tendencies in it as far
 as we can. In this way, more and more people will become anarchists and
 anarchy will become increasingly possible (we discuss the role of anarchists
-in a social revolution in [section J.7.4](secJ7.html#secj74)). For anarchists,
+in a social revolution in [section J.7.4](secJ7.md#secj74)). For anarchists,
 a social revolution is the end product of years of struggle. It is marked by
 the transformation of a given society, the breaking down of all forms of
 oppression and the creation of new ways of living, new forms of self-managed
@@ -254,8 +254,8 @@ society as they support revolutionary situations when they occur.
 However, revolutionary anarchists argue that, ultimately, capitalism cannot be
 reformed away nor will the state wither away under the onslaught of
 libertarian institutions and attitudes. Neither mutual banking (see [section
-J.5.7](secJ5.html#secj57)) nor co-operatives (see [section
-J.5.11](secJ5.html#secj511)) can out-compete capitalist institutions. This
+J.5.7](secJ5.md#secj57)) nor co-operatives (see [section
+J.5.11](secJ5.md#secj511)) can out-compete capitalist institutions. This
 means that these alternatives, while important, are insufficient to the task
 of creating a free society. This suggests that while libertarian tendencies
 within capitalism may make life better under that system, they cannot get rid
@@ -356,7 +356,7 @@ Meltzer (ed.), p. 73]
 
 It should also be noted that those who proclaim that a revolution is
 inherently authoritarian like, say, Engels (see [section
-H.4.7](secH4.html#sech47)) are confused. They fail to see that it is hardly
+H.4.7](secH4.md#sech47)) are confused. They fail to see that it is hardly
 "authoritarian" to stop someone ruling you! It is an act of liberation to free
 oneself from those oppressing you. Malatesta comments reflect well the
 position of revolutionary anarchists with regards to the use of force:
@@ -433,7 +433,7 @@ generates resistance, and so hope. The _"instinct for freedom"_ cannot be
 repressed forever.
 
 That is why anarchists stress the importance of direct action ([section
-J.2](secJ2.html)) and self-help ([section J.5](secJ5.html)). By the very
+J.2](secJ2.md)) and self-help ([section J.5](secJ5.md)). By the very
 process of struggle, by practising self-management, direct action and
 solidarity, people create the necessary "paradigm shift" in both themselves
 and society as a whole. Thus the struggle against authority is the school of
@@ -648,15 +648,15 @@ actions? If anarchists are in the majority or near it, then defensive violence
 would likely succeed. For example, _"the people armed"_ crushed the fascist
 coup of July 19th, 1936 in Spain and resulted in one of the most important
 experiments in anarchism the world has ever seen (see [section
-A.5.6](secA5.html#seca56)). This should be contrasted with the aftermath of
+A.5.6](secA5.md#seca56)). This should be contrasted with the aftermath of
 the factory occupations in Italy in 1920 and the fascist terror which crushed
-the labour movement (see [section A.5.5](secA5.html#seca55)). In other words,
+the labour movement (see [section A.5.5](secA5.md#seca55)). In other words,
 you cannot just ignore the state even if the majority are acting, you need to
 abolish it and organise self-defence against attempts to re-impose it or
 capitalism.
 
 We discuss the question of self-defence and the protection of the revolution
-in [section J.7.6](secJ7.html#secj76).
+in [section J.7.6](secJ7.md#secj76).
 
 ## J.7.4 What would a social revolution involve?
 
@@ -691,7 +691,7 @@ We will need to give some more concrete examples of what a social revolution
 would involve. However, before so doing, we stress that these are purely
 examples drawn from previous revolutions and are not written in stone. Every
 revolution creates its own forms of organisation and struggle. The next one
-will be no different. As we argued in [section I.2](secI2.html), an anarchist
+will be no different. As we argued in [section I.2](secI2.md), an anarchist
 revolution will create its own forms of freedom, forms which will share
 features with organisations generated in previous revolutions, but which are
 unique to this one. Thus the Paris Commune of 1871 had mandated and recallable
@@ -729,7 +729,7 @@ formulate this approach as best they can."_ [**The Struggle Against the State
 and Other Essays**, p. 85]
 
 In addition, we must stress that we are discussing an **anarchist** social
-revolution in this section. As we noted in [section I.2.2](secI2.html#seci22),
+revolution in this section. As we noted in [section I.2.2](secI2.md#seci22),
 anarchists recognise that any revolution will take on different forms in
 different areas and develop in different ways and at different speeds. We
 leave it up to others to describe their vision of revolution (for Marxists,
@@ -755,10 +755,10 @@ February and October insurrections when workers took over their workplaces,
 peasants seized their land, new forms of social life (soviets, factory
 committees, co-operatives, etc.) were formed and people lost their previous
 submissive attitudes to authority by using direct action to change their lives
-for the better (see [section A.5.4](secA5.html#seca54)). Similarly, the
+for the better (see [section A.5.4](secA5.md#seca54)). Similarly, the
 Spanish Revolution occurred after the 19th of July, 1936, when workers again
 took over their workplaces, peasants formed collectives and militias were
-organised to fight fascism (see [section A.5.6](secA5.html#seca56))
+organised to fight fascism (see [section A.5.6](secA5.md#seca56))
 
 Secondly, _"there **must** be a rapid modification of outgrown economical and
 political institutions, an overthrow of the injustices accumulated by
@@ -776,7 +776,7 @@ pp. 48-9]
 We should stress here that, regardless of what Marxists may say, anarchists
 see the destruction of capitalism occurring **at the same time as** the
 destruction of the state. We do not aim to abolish the state first, then
-capitalism as Engels asserted we did (see [section H.2.4](secH2.html#sech24)).
+capitalism as Engels asserted we did (see [section H.2.4](secH2.md#sech24)).
 This perspective of a simultaneous political and economic revolution is
 clearly seen when Bakunin wrote that a city in revolt would _"naturally make
 haste to organise itself as best it can, in revolutionary style, after the
@@ -842,7 +842,7 @@ capitalism and rule by bureaucrats instead of capitalists. Without local
 action and free agreement between local groups to co-ordinate activity, a
 revolution would be dead in the water and fit only to produce a new
 bureaucratic class structure, as the experience of the Russian Revolution
-proves (see [section H.6](secH6.html)).
+proves (see [section H.6](secH6.md)).
 
 Therefore, the key economic aspect of a social revolution is the end of
 capitalist oppression by the direct action of the workers themselves and their
@@ -920,9 +920,9 @@ give time to the institutions one is intending to abolish to recover from the
 shock and reassert themselves, perhaps under other names, but certainly with
 the same structure."_ [**Op. Cit.**, p. 159] This was the failure of the
 Spanish Revolution, which ignored the state rather than abolish it via new,
-self-managed organisations (see [section I.8.13](secI8.html#seci813)). It must
+self-managed organisations (see [section I.8.13](secI8.md#seci813)). It must
 be stressed that this was not due to anarchist theory (see [section
-I.8.11](secI8.html#seci811)).
+I.8.11](secI8.md#seci811)).
 
 Hence a social revolution would see the _"[o]rganisation of social life by
 means of free association and federations of producers and consumers, created
@@ -960,7 +960,7 @@ lay the foundations of a new, free society intended, as it develops without
 interference, to eliminate from the body of society all the parasites and all
 the power exercised by some over others, these being deemed by the toilers to
 be stupid and harmful."_ [**Op. Cit.**, p. 79] These organisations, as we
-stressed in [section I.2.3](secI2.html#seci23), are the products of the social
+stressed in [section I.2.3](secI2.md#seci23), are the products of the social
 struggle and revolution themselves:
 
 > _"Assembly and community must arise from within the revolutionary process
@@ -1041,7 +1041,7 @@ totally libertarian in nature. All we assume is that there will be libertarian
 tendencies which anarchists work within to try and strengthen. Therefore the
 role of anarchists and anarchist organisations is to push a revolution towards
 a social revolution by encouraging the tendencies we discussed in the [last
-section](secJ7.html#secj74) and by arguing for anarchist ideas and solutions.
+section](secJ7.md#secj74) and by arguing for anarchist ideas and solutions.
 In the words of Vernon Richards:
 
 > _"We do not for one moment assume that all social revolutions are
@@ -1125,7 +1125,7 @@ replaces the self-managed associations of a free people, all that happens is
 the replacement of one class system by another. This is because the state is
 an instrument of minority rule -- it can never become an instrument of
 majority empowerment as its centralised, hierarchical and authoritarian nature
-excludes such a possibility (see [section H.3.7](secH3.html#sech37) for more
+excludes such a possibility (see [section H.3.7](secH3.md#sech37) for more
 discussion on this issue).
 
 Therefore an important role of anarchists is to undermine hierarchical
@@ -1154,7 +1154,7 @@ Anarchists, therefore, organise to influence social struggle in a libertarian
 manner and our role in any social revolution is to combat authoritarian
 tendencies and parties while encouraging working class self-organisation,
 self-activity and self-management (how we organise to achieve this is
-described in [section J.3](secJ3.html)). Only by the spreading of libertarian
+described in [section J.3](secJ3.md)). Only by the spreading of libertarian
 ideas and values within society, encouraging libertarian forms of social
 organisation (i.e., self-management, decentralisation, federalism, etc.) and
 continually warning against centralising power into a few hands can a
@@ -1163,7 +1163,7 @@ revolution become more than a change of masters.
 ## J.7.6 How could an anarchist revolution defend itself?
 
 To some, particularly Marxists, this section may seem in contradiction with
-anarchist ideas. As we discussed in [section H.2.1](secH2.html#sech21),
+anarchist ideas. As we discussed in [section H.2.1](secH2.md#sech21),
 Marxists tend to assume, incorrectly, that anarchists are either against
 defending a revolution or see no need to. However, as will become very clear,
 nothing could be further from the truth. Anarchists have always argued for
@@ -1179,7 +1179,7 @@ failed and a new class society would have been created (a society based on
 state bureaucrats and oppressed workers as in the Soviet Union). Thus we
 reject the Marxist notion of a so-called "workers" or "revolutionary" state as
 confused in the extreme (as should be obvious from our analysis in [section
-H](secHcon.html)). Rather, we seek libertarian means to defend a libertarian
+H](secHcon.md)). Rather, we seek libertarian means to defend a libertarian
 revolution. What would these libertarian means be?
 
 In short, this would involve the _"creation of a voluntary militia, without
@@ -1268,7 +1268,7 @@ defend it. Firstly, the population would be armed and so counter-
 revolutionaries would face stiff opposition to their attempts to recreate
 authority. Secondly, they would face liberated individuals who would reject
 and resist their attempts Thus, as we discuss in [section
-I.5.11](secI5.html#seci511), any authoritarian would face the direct action of
+I.5.11](secI5.md#seci511), any authoritarian would face the direct action of
 a free people, of free individuals, who would refuse to co-operate with the
 would-be authorities and join in solidarity with their friends and fellow
 workers to resist them. The only way a counter-revolution could spread
@@ -1427,8 +1427,7 @@ Anarchism calls upon everyone to live the kind of life they deserve as unique
 individuals and desire as human beings. Individually we can make a difference,
 together we can change the world.
 
-[‹ J.6 What methods of child rearing do anarchists advocate?
-](/afaq/secJ6.html "Go to previous page" ) [up](/afaq/secJcon.html "Go to
-parent page" ) [Appendix : Anarchism and "anarcho"-capitalism
-›](/afaq/append1.html "Go to next page" )
+[‹ J.6 What methods of child rearing do anarchists advocate? ](secJ6.md "Go
+to previous page" ) [up](secJcon.md "Go to parent page" ) [Appendix :
+Anarchism and "anarcho"-capitalism ›](append1.md "Go to next page" )
 

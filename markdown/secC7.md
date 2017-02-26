@@ -49,7 +49,7 @@ capitalism, the relations of domination and subjection which are the root of
 exploitation and the resistance to them. In other words the subjective
 pressures are the result of the fact that _"property is despotism"_ (to use
 Proudhon's expression) and are a product of the class struggle. This will be
-discussed in [section C.7.1](secC7.html#secc71). The objective pressures are
+discussed in [section C.7.1](secC7.md#secc71). The objective pressures are
 related to how capitalism works and fall into two processes. The first is the
 way in which markets do not provide enough information to producers avoid
 disproportionalities within the market. In other words, that the market
@@ -57,8 +57,8 @@ regularly produces situations where there is too much produced for specific
 markets leading to slumps The second objective factor is related to the
 process by which _"productive power tends more and more to outstrip
 consumption"_ (to use Proudhon's words), i.e. over-investment or over-
-accumulation. These are discussed in sections [C.7.2](secC7.html#secc72) and
-[C.7.3](secC7.html#secc73), respectively.
+accumulation. These are discussed in sections [C.7.2](secC7.md#secc72) and
+[C.7.3](secC7.md#secc73), respectively.
 
 Before continuing, we would like to stress here that all three factors operate
 together in a real economy and we have divided them purely to help explain the
@@ -170,7 +170,7 @@ collapse.
 
 At its most basic, the class struggle (the resistance to hierarchy in all its
 forms) is the main cause of the business cycle. As we argued in sections
-[B.1.2](secB1.html#secb12) and [C.2](secC2.html), capitalists in order to
+[B.1.2](secB1.md#secb12) and [C.2](secC2.md), capitalists in order to
 exploit a worker must first oppress them. But where there is oppression, there
 is resistance; where there is authority, there is the will to freedom. Hence
 capitalism is marked by a continuous struggle between worker and boss at the
@@ -210,7 +210,7 @@ education grants and so forth. This struggle also influences the concentration
 of capital, as capital attempts to use technology to get an advantage against
 their competitors by driving down prices by increasing the productivity of
 labour (i.e., to extract the maximum surplus value possible from employees).
-And, as will be discussed in [section D.10](secD10.html), increased capital
+And, as will be discussed in [section D.10](secD10.md), increased capital
 investment also reflects an attempt to increase the control of the worker by
 capital (or to replace them with machinery that cannot say "no") **plus** the
 transformation of the individual into "the mass worker" who can be fired and
@@ -228,7 +228,7 @@ object. Machinery has delivered capital from the oppression of labour."_
 deliver capital from the oppression of consumers!"_ The over-production and
 reductions in demand caused by machinery replacing people soon destroys these
 illusions of automatic production by a slump -- see [section
-C.7.3](secC7.html#secc73)).
+C.7.3](secC7.md#secc73)).
 
 Therefore, class struggle influences both wages and capital investment, and so
 the prices of commodities in the market. It also, more importantly, determines
@@ -245,7 +245,7 @@ credit and money), eliminating such meddling will obviously bring reality into
 line with the textbooks and, consequently, eliminate such negative features of
 "actually existing" capitalism as the business cycle. Let us assume, for a
 moment, that this is the case (as will be discussed in [section
-C.8](secC8.html), this is **not** the case). In the "boom economy" of
+C.8](secC8.md), this is **not** the case). In the "boom economy" of
 capitalist dreams there will be full employment yet while this helps
 _"increase total demand, its fatal characteristic from the business view is
 that it keeps the reserve army of the unemployed low, thereby protecting wage
@@ -306,7 +306,7 @@ continued until 1970 (when unemployment started to increase), where it rose
 slightly until the 1973 slump occurred. In addition, after 1965, inflation
 started to accelerate as capitalist firms tried to maintain their profit
 margins by passing cost increases to consumers (as we discuss [section
-C.8.2](secC8.html#secc82), inflation has far more to do with capitalist
+C.8.2](secC8.md#secc82), inflation has far more to do with capitalist
 profits than it has with money supply or wages). This helped to reduce real
 wage gains and maintain profitability over the 1968 to 1973 period above what
 it otherwise would have been, which helped postpone, but not stop, a slump.
@@ -353,7 +353,7 @@ These social struggles resulted in an economic crisis as capital could no
 longer oppress and exploit working class people sufficiently in order to
 maintain a suitable profit rate. This crisis was then used to discipline the
 working class and restore capitalist authority within and outside the
-workplace (see [section C.8.2](secC8.html#secc82)). We should also note that
+workplace (see [section C.8.2](secC8.md#secc82)). We should also note that
 this process of social revolt in spite, or perhaps because of, the increase of
 material wealth was predicted by Malatesta. In 1922 he argued that:
 
@@ -388,7 +388,7 @@ However, to return to the impact of class struggle on capitalism.
 
 It is the awareness that full employment is bad for business which is the
 basis of the so-called _"Non-Accelerating Inflation Rate of Unemployment"_
-(NAIRU). As we will discuss in more detail in [section C.9](secC9.html), the
+(NAIRU). As we will discuss in more detail in [section C.9](secC9.md), the
 NAIRU is the rate of unemployment for an economy under which inflation, it is
 claimed, starts to accelerate. While the basis of this "theory" is slim (the
 NAIRU is an invisible, mobile rate and so the "theory" can explain every
@@ -450,7 +450,7 @@ contradictions created by wage slavery. Ultimately, capitalist economics blame
 every problem of capitalism on the working class refusing to kow-tow to the
 bosses (for example, unemployment is caused by wages being too high rather
 than bosses needing unemployment to maintain their power and profits -- see
-[section C.9.2](secC9.html#secc92) on empirical evidence that indicates that
+[section C.9.2](secC9.md#secc92) on empirical evidence that indicates that
 the first explanation is wrong).
 
 Before concluding, one last point. While it may appear that our analysis of
@@ -488,7 +488,7 @@ and its most basic contradiction: while capitalism tries to turn the majority
 of people into commodities (namely, bearers of labour power), it also has to
 deal with the human responses to this process of objectification (namely, the
 class struggle). However, it does not follow that cutting wages will solve a
-crisis -- far from it, for, as we argue in [section C.9.1](secC9.html#secc91),
+crisis -- far from it, for, as we argue in [section C.9.1](secC9.md#secc91),
 cutting wages will deepen any crisis, making things worse before they get
 better. Nor does it follow that, if social struggle were eliminated,
 capitalism would work fine. After all, if we assume that labour power is a
@@ -508,8 +508,8 @@ social struggle, as argued above, can have a decisive effect on the health of
 the capitalist economy, it is not the only problem the system faces. This is
 because there are objective pressures within the system beyond and above the
 authoritarian social relations it produces and the resistance to them. These
-pressures are discussed next, in sections [C.7.2](secC7.html#secc72) and
-[C.7.3](secC7.html#secc73).
+pressures are discussed next, in sections [C.7.2](secC7.md#secc72) and
+[C.7.3](secC7.md#secc73).
 
 ## C.7.2 What role does the market play in the business cycle?
 
@@ -634,7 +634,7 @@ This means that prices in themselves do not provide adequate knowledge for
 rational decision making as they are not at their long-run equilibrium levels.
 This causes a problem for Hayek's account of the market process as he stresses
 that actual prices never are at this (purely theoretical) price. As we discuss
-in [section C.8](secC8.html), Hayek's own theory of the business cycle shows
+in [section C.8](secC8.md), Hayek's own theory of the business cycle shows
 the negative impact which the 'misinformation' conveyed by disequilibrium
 prices can cause on the economy. In that analysis, the disequilibrium price
 that leads to very substantial macroeconomic distortions is the rate of
@@ -660,7 +660,7 @@ consumers of these goods in the shape of lower prices will be reduced as
 demand for their products drops as more and more workers are made unemployed
 or their wages are cut (which means that **real** wages remain constant as
 prices are falling alongside money wages -- see [section
-C.9.1](secC9.html#secc91) for details). Firms will also seek to hoard money,
+C.9.1](secC9.md#secc91) for details). Firms will also seek to hoard money,
 leading to yet more falling demand for goods and so unemployed labour is
 joined by under-utilisation of capacity.
 
@@ -668,7 +668,7 @@ Which brings us to the issue of money and its role in the business cycle.
 "Free market" capitalist economics is based on Say's Law. This is the notion
 that supply creates its own demand and so general gluts of goods and mass
 unemployment are impossible. As we noted in [section
-C.1.5](secC1.html#secc15), this vision of economic activity is only suited to
+C.1.5](secC1.md#secc15), this vision of economic activity is only suited to
 precapitalist economies or ones without money for money is considered as
 nothing more than an aid to barter, a medium of exchange only. It ignores the
 fact that money is a store of value and, as such, can be held onto precisely
@@ -730,13 +730,13 @@ far out of line.
 This process also applies to investment as well. So far, we have assumed that
 firms adjust to price changes without seeking new investment. This is, of
 course, unlikely to always be the case. As we discuss in [section
-C.8](secC8.html), this analysis of the market providing incomplete information
+C.8](secC8.md), this analysis of the market providing incomplete information
 also applies to the market for credit and other forms of external financing.
 This results in a situation where the problems associated with over-production
 can be amplified by over-investment. This means that the problems associated
 with markets creating disproportionalities are combined with the problems
 resulting from increased productivity and capital investment which are
-discussed in the [next section](secC7.html#secc73).
+discussed in the [next section](secC7.md#secc73).
 
 ## C.7.3 What role does investment play in the business cycle?
 
@@ -789,7 +789,7 @@ unemployment which forces those with jobs to work harder, for longer so
 allowing the mass of profits produced to be increased, resulting (eventually)
 in an increase in the rate of profit. Once profit rates are high enough,
 capitalists have the incentive to make new investments and slump turns to
-boom. As we discuss in [section C.8](secC8.html), the notion that investment
+boom. As we discuss in [section C.8](secC8.md), the notion that investment
 will be helped by lowing interest rates in a slump fails to understand that
 _"the rate of investment decisions is an increasing function of the difference
 between the prospective rate of profit and the rate of interest."_ [Michal
@@ -950,7 +950,7 @@ of this, US capitalism was booming and belief in capitalism was at its peak.
 
 But by 1929 all this had changed with the stock market crash -- followed by a
 deep depression. What was its cause? Given our analysis presented in [section
-C.7.1](secC7.html#secc71), it may have been expected to have been caused by
+C.7.1](secC7.md#secc71), it may have been expected to have been caused by
 the "boom" decreasing unemployment, so increased working class power and
 leading to a profits squeeze but this was not the case. This slump was **not**
 the result of working class resistance, indeed the 1920s were marked by a
@@ -995,7 +995,7 @@ to note that even **with** a labour market favourable to employers for over 5
 years, unemployment was still high. This suggests that the neo-classical
 "argument" (assertion would be more correct) that unemployment within
 capitalism is caused by strong unions or high real wages is somewhat flawed to
-say the least (see [section C.9](secC9.html)).
+say the least (see [section C.9](secC9.md)).
 
 Facing high unemployment, workers' quit rates fell due to fear of loosing jobs
 (particularly those workers with relatively higher wages). This, combined with
@@ -1019,7 +1019,7 @@ principal device by which profits were spent. In addition, those sectors of
 the economy marked by big business (i.e. oligopoly, a market dominated by a
 few firms) placed pressures upon the more competitive ones. As big business,
 as usual, received a higher share of profits due to their market position (see
-[section C.5](secC5.html)), this lead to many firms in the more competitive
+[section C.5](secC5.md)), this lead to many firms in the more competitive
 sectors of the economy facing a profitability crisis during the 1920s.
 
 The increase in investment, while directly squeezing profits in the more
@@ -1055,7 +1055,7 @@ of instability increases which, in turn, means that the probability of a slump
 rises. Further, this type of growth creates imbalances between sectors of the
 economy as firms rush to invest in profitable sections leading to relative
 over-production and over-investment in those areas (see [last
-section](secC7.html#secc72)). With the rise in unstable forms of demand, an
+section](secC7.md#secc72)). With the rise in unstable forms of demand, an
 economy becomes increasingly fragile and so increasingly vulnerable to
 "shocks." The stock market crash of 1929 was such a shock and the resulting
 panic and reduced demand for luxury goods and investment that it produced
@@ -1092,8 +1092,7 @@ discussion is somewhat academic for human beings are not commodities, the
 labour "market" is not like the iron market, and the subjective revolt against
 capitalist domination will exist as long as capitalism does.
 
-[‹ C.6 Can market dominance by Big Business change?](/afaq/secC6.html "Go to
-previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.8 Is state
-control of credit the cause of the business cycle? ›](/afaq/secC8.html "Go to
-next page" )
+[‹ C.6 Can market dominance by Big Business change?](secC6.md "Go to
+previous page" ) [up](secCcon.md "Go to parent page" ) [C.8 Is state control
+of credit the cause of the business cycle? ›](secC8.md "Go to next page" )
 

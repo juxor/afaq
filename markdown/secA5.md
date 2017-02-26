@@ -34,7 +34,7 @@ _"foes . . . of all State organisations as such, and believe that the people
 can only be happy and free, when, organised from below by means of its own
 autonomous and completely free associations, without the supervision of any
 guardians, it will create its own life."_ [**Marxism, Freedom and the State**,
-p. 63] In [section J.7](secJ7.html) we discuss what anarchists think a social
+p. 63] In [section J.7](secJ7.md) we discuss what anarchists think a social
 revolution is and what it involves.
 
 Many of these revolutions and revolutionary movements are relatively unknown
@@ -657,7 +657,7 @@ was due to two factors. Firstly, most of the syndicalist unions were severely
 repressed just after World War I. In the immediate post-war years they reached
 their height. This wave of militancy was known as the "red years" in Italy,
 where it attained its high point with factory occupations (see [section
-A.5.5](secA5.html#seca55)). But these years also saw the destruction of these
+A.5.5](secA5.md#seca55)). But these years also saw the destruction of these
 unions in country after county. In the USA, for example, the I.W.W. was
 crushed by a wave of repression backed whole-heartedly by the media, the
 state, and the capitalist class. Europe saw capitalism go on the offensive
@@ -683,7 +683,7 @@ syndicalist union) fought a similar battle. By 1936, it claimed one and a half
 million members. As in Italy and Portugal, the capitalist class embraced
 fascism to save their power from the dispossessed, who were becoming confident
 of their power and their right to manage their own lives (see [section
-A.5.6](secA5.html#seca56)).
+A.5.6](secA5.md#seca56)).
 
 As well as fascism, syndicalism also faced the negative influence of Leninism.
 The apparent success of the Russian revolution led many activists to turn to
@@ -720,7 +720,7 @@ is true that development of syndicalism came about, in part, as a reaction to
 the disastrous "propaganda by deed" period, in which individual anarchists
 assassinated government leaders in attempts to provoke a popular uprising and
 in revenge for the mass murders of the Communards and other rebels (see
-[section A.2.18](secA2.html#seca218) for details). But in response to this
+[section A.2.18](secA2.md#seca218) for details). But in response to this
 failed and counterproductive campaign, anarchists went back to their roots and
 to the ideas of Bakunin. Thus, as recognised by the likes of Kropotkin and
 Malatesta, syndicalism was simply a return to the ideas current in the
@@ -749,7 +749,7 @@ rebuilding of society: _"it is they that can easily be transformed into
 producer associations; it is they that can put into practice the retooling of
 society and the organisation of production."_ [quoted by Martin Phillip
 Johnson, **The Paradise of Association**, p. 139] As we discussed in [section
-A.5.2](secA5.html#seca52), the Chicago Anarchists held similar views, seeing
+A.5.2](secA5.md#seca52), the Chicago Anarchists held similar views, seeing
 the labour movement as both the means of achieving anarchy and the framework
 of the free society. As Lucy Parsons (the wife of Albert) put it _"we hold
 that the granges, trade-unions, Knights of Labour assemblies, etc., are the
@@ -765,9 +765,9 @@ November, Black November**, p. 71]
 
 Thus, syndicalism and anarchism are not differing theories but, rather,
 different interpretations of the same ideas (see for a fuller discussion
-[section H.2.8](secH2.html#sech28)). While not all syndicalists are anarchists
+[section H.2.8](secH2.md#sech28)). While not all syndicalists are anarchists
 (some Marxists have proclaimed support for syndicalism) and not all anarchists
-are syndicalists (see [section J.3.9](secJ3.html#secj39) for a discussion
+are syndicalists (see [section J.3.9](secJ3.md#secj39) for a discussion
 why), all social anarchists see the need for taking part in the labour and
 other popular movements and encouraging libertarian forms of organisation and
 struggle within them. By doing this, inside and outside of syndicalist unions,
@@ -1091,7 +1091,7 @@ anarchists have argued for a bottom-up federation of workers' councils as the
 agent of revolution and the means of managing society after capitalism and the
 state have been abolished.
 
-As we discuss in [section H](secHcon.html), the degeneration of the Bolsheviks
+As we discuss in [section H](secHcon.md), the degeneration of the Bolsheviks
 from a popular working class party into dictators over the working class did
 not occur by accident. A combination of political ideas and the realities of
 state power (and the social relationships it generates) could not help but
@@ -1200,7 +1200,7 @@ socialism and the subjugation of the soviets.
 
 The Kronstadt uprising of February, 1921, was, for anarchists, of immense
 importance (see the appendix ["What was the Kronstadt
-Rebellion?"](append42.html) for a full discussion of this uprising). The
+Rebellion?"](append42.md) for a full discussion of this uprising). The
 uprising started when the sailors of Kronstadt supported the striking workers
 of Petrograd in February, 1921. They raised a 15 point resolution, the first
 point of which was a call for soviet democracy. The Bolsheviks slandered the
@@ -1323,7 +1323,7 @@ The anarchist experiment of self-management in the Ukraine came to a bloody
 end when the Bolsheviks turned on the Makhnovists (their former allies against
 the "Whites," or pro-Tsarists) when they were no longer needed. This important
 movement is fully discussed in the appendix ["Why does the Makhnovist movement
-show there is an alternative to Bolshevism?"](append46.html) of our FAQ.
+show there is an alternative to Bolshevism?"](append46.md) of our FAQ.
 However, we must stress here the one obvious lesson of the Makhnovist
 movement, namely that the dictatorial policies pursued by the Bolsheviks were
 not imposed on them by objective circumstances. Rather, the political ideas of
@@ -1395,7 +1395,7 @@ called the Communist Party."_ [**My Disillusionment in Russia**, p. xlvii and
 p. xliv]
 
 For more information on the Russian Revolution and the role played by
-anarchists, see the appendix on [ "The Russian Revolution"](append4.html) of
+anarchists, see the appendix on [ "The Russian Revolution"](append4.md) of
 the FAQ. As well as covering the Kronstadt uprising and the Makhnovists, it
 discusses why the revolution failed, the role of Bolshevik ideology played in
 that failure and whether there were any alternatives to Bolshevism.
@@ -2022,7 +2022,7 @@ freedom. Human beings were trying to behave as human beings and not as cogs in
 the capitalist machine."_ [**Homage to Catalonia**, pp. 2-3]
 
 The full extent of this historic revolution cannot be covered here. It will be
-discussed in more detail in [Section I.8](secI8.html) of the FAQ. All that can
+discussed in more detail in [Section I.8](secI8.md) of the FAQ. All that can
 be done is to highlight a few points of special interest in the hope that
 these will give some indication of the importance of these events and
 encourage people to find out more about it.
@@ -2066,11 +2066,11 @@ The committee took no big decisions without calling the whole village together
 in a general assembly. All this was wonderful."_ [Ronald Fraser, **Blood of
 Spain**, p. 360]
 
-We discuss the revolution in more detail in [section I.8](secI8.html). For
-example, sections [I.8.3](secI8.html#seci83) and [I.8.4](secI8.html#seci84)
+We discuss the revolution in more detail in [section I.8](secI8.md). For
+example, sections [I.8.3](secI8.md#seci83) and [I.8.4](secI8.md#seci84)
 discuss in more depth how the industrial collectives. The rural collectives
-are discussed in sections [I.8.5](secI8.html#seci85) and
-[I.8.6](secI8.html#seci86). We must stress that these sections are summaries
+are discussed in sections [I.8.5](secI8.md#seci85) and
+[I.8.6](secI8.md#seci86). We must stress that these sections are summaries
 of a vast social movement, and more information can be gathered from such
 works as Gaston Leval's **Collectives in the Spanish Revolution**, Sam
 Dolfgoff's **The Anarchist Collectives**, Jose Peirats' **The CNT in the
@@ -2113,9 +2113,9 @@ Stalinism (the Communist Party) on the one hand and Capitalism (Franco) on the
 other. Unfortunately, the anarchists placed anti-fascist unity before the
 revolution, thus helping their enemies to defeat both them and the revolution.
 Whether they were forced by circumstances into this position or could have
-avoided it is still being debated (see [section I.8.10](secI8.html#seci810)
+avoided it is still being debated (see [section I.8.10](secI8.md#seci810)
 for a discussion of why the CNT-FAI collaborated and [section
-I.8.11](secI8.html#seci811) on why this decision was **not** a product of
+I.8.11](secI8.md#seci811) on why this decision was **not** a product of
 anarchist theory).
 
 Orwell's account of his experiences in the militia's indicates why the Spanish
@@ -2351,8 +2351,7 @@ Power**). **Beneath the Paving Stones** by edited Dark Star is a good
 anthology of situationist works relating to Paris 68 (it also contains
 Brinton's essay).
 
-[‹ A.4 Who are the major anarchist thinkers?](/afaq/secA4.html "Go to previous
-page" ) [up](/afaq/secAcon.html "Go to parent page" ) [Section B - Why do
-anarchists oppose the current system? ›](/afaq/secBcon.html "Go to next page"
-)
+[‹ A.4 Who are the major anarchist thinkers?](secA4.md "Go to previous page"
+) [up](secAcon.md "Go to parent page" ) [Section B - Why do anarchists
+oppose the current system? ›](secBcon.md "Go to next page" )
 

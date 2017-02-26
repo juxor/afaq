@@ -140,7 +140,7 @@ not bring _"the suppression of the state which is the dream of the anarchists
 if "anarchist" is limited to purely being against government.
 
 Moreover, in another sense Molinari was in favour of the state. As we discuss
-in [section 6](append136.html), these companies would have a monopoly within a
+in [section 6](append136.md), these companies would have a monopoly within a
 given geographical area -- they have to in order to enforce the property
 owner's power over those who use, but do not own, the property in question.
 The key contradiction can be seen in Molinari's advocating of company towns,
@@ -157,7 +157,7 @@ dismissed. His system was based on privatising government, not abolishing it
 (as he himself admitted). This would be different from the current system, of
 course, as landlords and capitalists would be hiring force directly to enforce
 their decisions rather than relying on a state which they control indirectly.
-This system, as we proved in [section 6](append136.html), would not be
+This system, as we proved in [section 6](append136.md), would not be
 anarchist as can be seen from American history. There capitalists and
 landlords created their own private police forces and armies, which regularly
 attacked and murdered union organisers and strikers. As an example, there is
@@ -212,7 +212,7 @@ replac[e] the governmental and military system."_ [**The General Idea of the
 Revolution**, p. 227 and p. 281] Clearly, the idea that Proudhon shared the
 same political goal as Molinari is a joke. He would have dismissed such a
 system as little more than an updated form of feudalism in which the property
-owner is sovereign and the workers subjects (see [section B.4](secB4.html) for
+owner is sovereign and the workers subjects (see [section B.4](secB4.md) for
 more details).
 
 Unsurprisingly, Molinari (unlike the individualist anarchists) attacked the
@@ -222,7 +222,7 @@ of their opinions, than according to justice."_ [quoted by Hart, **Op. Cit.**,
 p. 409] As the jury system used amateurs (i.e. ordinary people) rather than
 full-time professionals it could not be relied upon to defend the power and
 property rights of the rich. As we noted in [section
-1.4](append131.html#secf14), Rothbard criticised the individualist anarchists
+1.4](append131.md#secf14), Rothbard criticised the individualist anarchists
 for supporting juries for essentially the same reasons.
 
 But, as is clear from Hart's account, Molinari had little concern that working
@@ -521,7 +521,7 @@ XIX**, Pennock and Chapman (eds.)., p. 192]
 This is highly unusual definition of "anarchism," given that it utterly fails
 to mention or define government. This, perhaps, is understandable as any
 attempt to define it in terms of _"monopoly of decision-making power"_ results
-in showing that capitalism is statist (see [section 1](append131.html) for a
+in showing that capitalism is statist (see [section 1](append131.md) for a
 summary). The key issue here is the term _"legal possibility."_ That
 suggestions a system of laws which determine what is _"coercive aggression"_
 and what constitutes what is and what is not legitimate "property." Herbert is
@@ -665,7 +665,7 @@ separated, they are linked. Godwin and Proudhon did not stop their analysis at
 the state. They extended it the social relationships produced by inequality of
 wealth, i.e. economic power as well as political power. To see why, we need
 only consult Rothbard's work. As noted in the [last
-section](append137.html#secf72), for Rothbard the key issue with the
+section](append137.md#secf72), for Rothbard the key issue with the
 "voluntary taxationists" was not who determined the _"body of absolute law"_
 but rather who enforced it. In his discussion, he argued that a democratic
 "defence agency" is at a disadvantage in his "free market" system. As he put
@@ -688,7 +688,7 @@ democratically elected government, as the idea of "one person, one vote" in
 determining the common law all are subject to is _"inefficient."_ Nor does he
 think, like the individualist anarchists, that the law would be judged by
 juries along with the facts. As we note in [section
-1.4](append131.html#secf14), he rejects that in favour of it being determined
+1.4](append131.md#secf14), he rejects that in favour of it being determined
 by _"Libertarian lawyers and jurists."_ Thus the law is unchangeable by
 ordinary people and enforced by private defence agencies hired to protect the
 liberty and property of the owning class. In the case of a capitalist economy,
@@ -716,7 +716,7 @@ idea that market demand will counter this class rule seems unlikely, given
 Rothbard's own argument. After all, in order to compete successfully you need
 more than demand, you need source of investment. If co-operative defence
 agencies do form, they will be at a market disadvantage due to lack of
-investment. As argued in [section J.5.12](secJ5.html#secj512), even though co-
+investment. As argued in [section J.5.12](secJ5.md#secj512), even though co-
 operatives are more efficient than capitalist firms lack of investment (caused
 by the lack of control by capitalists Rothbard notes) stops them replacing
 wage slavery. Thus capitalist wealth and power inhibits the spread of freedom
@@ -737,11 +737,11 @@ advocating "occupancy and use" rather than the approved Rothbardian property
 rights. Even if these democratic "defence" agencies could survive and not be
 driven out of the market by a combination of lack of investment and violence
 due to their "outlaw" status, there is another problem. As we discussed in
-[section 1](append131.html), landlords and capitalists have a monopoly of
+[section 1](append131.md), landlords and capitalists have a monopoly of
 decision making power over their property. As such, they can simply refuse to
 recognise any democratic agency as a legitimate defence association and use
 the same tactics perfected against unions to ensure that it does not gain a
-foothold in their domain (see [section 6](append136.html) for more details).
+foothold in their domain (see [section 6](append136.md) for more details).
 
 Clearly, then, a "right-wing" anarchism is impossible as any system based on
 capitalist property rights will simply be an oligarchy run by and for the
@@ -752,8 +752,8 @@ that laissez-faire capitalism meant _"the victory of the strong over the weak,
 of those who own property over those who own nothing."_ [quoted by Peter
 Marshall, **Demanding the Impossible**, p. 259]
 
-[‹ 6 Is "anarcho"-capitalism against the state?](/afaq/append136.html "Go to
-previous page" ) [up](/afaq/append13.html "Go to parent page" ) [8 What role
-did the state take in the creation of capitalism? ›](/afaq/append138.html "Go
-to next page" )
+[‹ 6 Is "anarcho"-capitalism against the state?](append136.md "Go to
+previous page" ) [up](append13.md "Go to parent page" ) [8 What role did the
+state take in the creation of capitalism? ›](append138.md "Go to next page"
+)
 

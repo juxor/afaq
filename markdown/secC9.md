@@ -162,7 +162,7 @@ new. Anarchists and other socialists had been arguing since the 1840s that
 capitalism had no tendency to full employment either in theory or in practice.
 They have also noted how periods of full employment bolstered working class
 power and harmed profits. It is, as we stressed in [section
-C.1.5](secC1.html#secc15), the fundamental disciplinary mechanism of the
+C.1.5](secC1.md#secc15), the fundamental disciplinary mechanism of the
 system. Somewhat ironically, then, Phelps got bourgeois economics highest
 prize for restating, in neo-classical jargon, the model of the labour market
 expounded by, say, Marx:
@@ -196,7 +196,7 @@ control. Economics has played its role of platitudinous sycophant well while
 Phelps' theory has informed state interference (_"forcible means"_) in the
 economy since the 1980s, with the expected result that wages have failed to
 keep up with rising productivity and so capital as enriched itself at the
-expense of labour (see [section C.3](secC3.html) for details). The use of
+expense of labour (see [section C.3](secC3.md) for details). The use of
 Phelps' theory by capital in the class war is equally obvious -- as was so
 blatantly stated by **The Economist** and the head of the American Federal
 Reserve during this period:
@@ -335,7 +335,7 @@ But, then, for most defenders of the system state intervention on behalf of
 capital is part of the natural order, unlike state intervention (at least in
 rhetoric) on behalf of the working class (and shows that Kropotkin was right
 to stress that the state **never** practices "laissez-faire" with regard to
-the working class -- see [section D.1](secD1.html)). Thus neo-liberal
+the working class -- see [section D.1](secD1.md)). Thus neo-liberal
 capitalism is based on monetary policy that explicitly tries to weaken working
 class resistance by means of unemployment. If "inflation" (i.e. labour income)
 starts to increase, interest rates are raised so causing unemployment and, it
@@ -410,7 +410,7 @@ arises, would a "purer" capitalism create full employment?
 First, we should point out that some supporters of "free market" capitalism
 (most notably, the "Austrian" school) claim that real markets are not in
 equilibrium at all, i.e. that the nature state of the economy is one of
-disequilibrium. As we noted in [section C.1.6](secC1.html#secc16), this means
+disequilibrium. As we noted in [section C.1.6](secC1.md#secc16), this means
 full employment is impossible as this is an equilibrium position but few
 explicitly state this obvious conclusion of their own theories and claim
 against logic that full employment can occur (full employment, it should be
@@ -439,7 +439,7 @@ natural product of capitalism, it is an essential part of it.
 So cycles of short periods approaching full employment and followed by longer
 periods of high unemployment are actually a more likely outcome of pure
 capitalism than continued full employment. As we argued in sections
-[C.1.5](secC1.html#secc15) and [C.7.1](secC7.html#secc71) capitalism needs
+[C.1.5](secC1.md#secc15) and [C.7.1](secC7.md#secc71) capitalism needs
 unemployment to function successfully and so "free market" capitalism will
 experience periods of boom and slump, with unemployment increasing and
 decreasing over time (as can be seen from 19th century capitalism). So as
@@ -491,7 +491,7 @@ and must be changed (usually by weakening the power of labour by welfare
 -- can never be in the wrong: it must be the proletariat."_ [**Op. Cit.** p.
 187]) So if unemployment exists, then its because real wages are too high, not
 because capitalists need unemployment to discipline labour (see [section
-C.9.2](secC9.html#secc92) for evidence that this argument is false). Or if
+C.9.2](secC9.md#secc92) for evidence that this argument is false). Or if
 real wages are falling as unemployment is rising, it can only mean that the
 real wage is not falling fast enough -- empirical evidence is never enough to
 falsify logical deductions from assumptions!
@@ -549,7 +549,7 @@ worthwhile to discuss why the "free market" capitalist is wrong to claim that
 unemployment within their system will not exist for long periods of time. In
 addition, to do so will also indicate the poverty of their theory of, and
 "solution" to, unemployment and the human misery they would cause. We do this
-in the [next section](secC9.html#secc91).
+in the [next section](secC9.md#secc91).
 
 ## C.9.1 Would cutting wages reduce unemployment?
 
@@ -583,10 +583,10 @@ existing (even in an extremely weakened state) for their influence was such as
 to lead economists and the President to recommend to numerous leading
 corporate business men **not** to cut wages to end the depression (wages were
 cut, but not sufficiently as prices also dropped as we will discuss in the
-[next section](secC2.html#secc92)). It should be noted that Rothbard takes his
+[next section](secC2.md#secc92)). It should be noted that Rothbard takes his
 position on wage cutting despite of an account of the business cycle rooted in
 bankers lowering interest rates and bosses over-investing as a result (see
-[section C.8](secC8.html)). So despite not setting interest rates nor making
+[section C.8](secC8.md)). So despite not setting interest rates nor making
 investment decisions, he expected working class people to pay for the actions
 of bankers and capitalists by accepting lower wages! Thus working class people
 must pay the price of the profit seeking activities of their economic masters
@@ -890,7 +890,7 @@ labour is the marginal physical product of labour multiplied by the price of
 the output and this produces the viewpoint that unemployment is caused by
 wages being too high. So given the central role which marginal productivity
 theory plays in the mainstream argument, it is useful to start our deeper
-critique by re-iterating that, as indicated in [section C.2](secC2.html), Joan
+critique by re-iterating that, as indicated in [section C.2](secC2.md), Joan
 Robinson and Piero Sraffa had successfully debunked this theory in the 1950s.
 _"Yet for psychological and political reasons,"_ notes James K. Galbraith,
 _"rather than for logical and mathematical ones, the capital critique has not
@@ -904,7 +904,7 @@ wages has no firm theoretical basis.
 It should also be noted that the assumption that adding more labour to capital
 is always possible flows from the assumption of marginal productivity theory
 which treats "capital" like an ectoplasm and can be moulded into whatever form
-is required by the labour available (see [section C.2.5](secC2.html#secc25)
+is required by the labour available (see [section C.2.5](secC2.md#secc25)
 for more discussion). Hence Joan Robinson's dismissal of this assumption, for
 _"the difference between the future and the past is eliminated by making
 capital 'malleable' so that mistakes can always be undone and equilibrium is
@@ -929,7 +929,7 @@ inconsistent with empirical evidence. _"In a system at increasing returns,"_
 noted one economist, _"the direct relation between real wages and employment
 tends to render the ordinary mechanism of wage adjustment ineffective and
 unstable."_ [Ferdinando Targetti, **Nicholas Kaldor**, p. 344] In fact, as
-discussed in [section C.1.2](secC1.html#secc12), without this assumption
+discussed in [section C.1.2](secC1.md#secc12), without this assumption
 mainstream economics cannot show that unemployment is, in fact, caused by real
 wages being too high (along with many other things).
 
@@ -977,7 +977,7 @@ value of their output. So to concede the existence of monopoly requires that
 one either drop the competitive model entirely or construct an elaborate new
 theory . . . that divides the world into monopolistic, competitive, and
 subcompetitive ('exploited') sectors."_ [James K. Galbraith, **Created
-Unequal**, p. 52] As noted in [section C.4.3](secC4.html#secc43), mainstream
+Unequal**, p. 52] As noted in [section C.4.3](secC4.md#secc43), mainstream
 economists have admitted that monopolistic competition (i.e., oligopoly) is
 the dominant market form but they cannot model it due to the limitations of
 the individualistic assumptions of bourgeois economics. Meanwhile, while
@@ -1004,7 +1004,7 @@ workers may prefer to work less as the wage rate rises as they will be better
 off even if they do not work more. Conversely, very low wage rates are likely
 to produce a very high supply of labour as workers need to work more to meet
 their basic needs. In addition, as noted at the end of [section
-C.1.4](secC1.html#secc14), economic theory itself shows that workers will not
+C.1.4](secC1.md#secc14), economic theory itself shows that workers will not
 get a fair wage when they face very powerful employers unless they organise
 unions. [Steve Keen, **Debunking Economics**, pp. 111-2 and pp. 119-23]
 
@@ -1130,8 +1130,8 @@ To conclude, a cut in wages may deepen any slump, making it deeper and longer
 than it otherwise would be. Rather than being the solution to unemployment,
 cutting wages will make it worse (we will address the question of whether
 wages being too high actually causes unemployment in the first place, in the
-[next section](secC9.html#secc92)). Given that, as we argued in [section
-C.8.2](secC8.html#secc82), inflation is caused by insufficient profits for
+[next section](secC9.md#secc92)). Given that, as we argued in [section
+C.8.2](secC8.md#secc82), inflation is caused by insufficient profits for
 capitalists (they try to maintain their profit margins by price increases)
 this spiralling effect of cutting wages helps to explain what economists term
 _"stagflation"_ \-- rising unemployment combined with rising inflation (as
@@ -1165,7 +1165,7 @@ contradictions this generates.
 
 ## C.9.2 Is unemployment caused by wages being too high?
 
-As we noted in the [last section](secC9.html#secc91), most capitalist economic
+As we noted in the [last section](secC9.md#secc91), most capitalist economic
 theories argue that unemployment is caused by wages being too high. Any
 economics student will tell you that labour is like any other commodity and so
 if its price is too high then there will be less demand for it, so producing
@@ -1204,7 +1204,7 @@ empirical evidence provided by labour economists he accepted that real wages
 were pro-cyclical in nature.
 
 The reason why this is the case is obvious given the analysis in the [last
-section](secC9.html#secc91). Labour does not control prices and so cannot
+section](secC9.md#secc91). Labour does not control prices and so cannot
 control its own real wage. Looking at the Great Depression, it seems difficult
 to blame it on workers refusing to take pay cuts when by 1933 _"wages and
 salaries in U.S. manufacturing were less than half their 1929 levels and, in
@@ -1368,7 +1368,7 @@ labour's power increases, so reducing the rate of exploitation and so
 increasing labour's share of the value it produces (and so higher wages).
 Thus, from an anarchist point of view, the fact that wages are higher in areas
 of low unemployment is not a surprise, nor is the phenomenon of pro-cyclical
-real wages. After all, as we noted in [section C.3](secC3.html), the ratio
+real wages. After all, as we noted in [section C.3](secC3.md), the ratio
 between wages and profits are, to a large degree, a product of bargaining
 power and so we would expect real wages to grow in the upswing of the business
 cycle, fall in the slump and be high in areas of low unemployment.
@@ -1460,7 +1460,7 @@ workers are in no position to claim back productivity increases and so wealth
 would flood upwards.
 
 Then there is the issue of the backward-bending supply curve of labour we
-discussed at the end of the [last section](secC9.html#secc91). As the "labour
+discussed at the end of the [last section](secC9.md#secc91). As the "labour
 market" is not really a market, cutting real wages will have the opposite
 effect on the supply of labour than its supporters claim. It is commonly found
 that as real wages fall, hours at work become longer and the number of workers
@@ -1603,7 +1603,7 @@ competition (the theoretical condition in which all resources, including
 labour, will be efficiently utilised) states that there must be a large number
 of buyers and sellers. This is the case on the sellers side of the "flexible"
 labour market, but this is **not** the case on the buyers (where, as indicated
-in [section C.4](secC4.html), oligopoly reigns). Most who favour labour market
+in [section C.4](secC4.md), oligopoly reigns). Most who favour labour market
 "flexibility" are also those most against the breaking up of big business and
 oligopolistic markets or are against attempts to stop mergers between dominant
 companies in and across markets. Yet the model requires **both** sides to be
@@ -1612,7 +1612,7 @@ expect making one side more "flexible" will have a positive effect on the
 whole?
 
 There is no logical reason for this to be the case and as we noted in [section
-C.1.4](secC1.html#secc14), neo-classical economics agrees -- in an economy
+C.1.4](secC1.md#secc14), neo-classical economics agrees -- in an economy
 with both unions and big business, removing the former while retaining the
 latter will **not** bring it closer to the ideal of perfect competition. With
 the resulting shift in power on the labour market things will get worse as
@@ -2137,7 +2137,7 @@ bureaucratic and top-down structures). As far as state welfare goes,
 anarchists do not place it high on the list of things we are struggling
 against (once the welfare state for the rich has been abolished, then,
 perhaps, we will reconsider that). As we will discuss in [section
-D.1.5](secD1.html#secd15), anarchists are well aware that the current neo-
+D.1.5](secD1.md#secd15), anarchists are well aware that the current neo-
 liberal rhetoric of "minimising" the state is self-serving and hides an attack
 on the living standards of working class people. As such, we do not join in
 such attacks regardless of how critical we may be of aspects of the welfare
@@ -2146,7 +2146,7 @@ state for we seek genuine reform from below by those who use it rather than
 and capital. We also seek to promote alternative social institutions which,
 unlike the welfare state, are under working class control and so cannot be cut
 by decree from above. For further discussion, see sections
-[J.5.15](secJ5.html#secj515) and [ J.5.16](secJ5.html#secj516).
+[J.5.15](secJ5.md#secj515) and [ J.5.16](secJ5.md#secj516).
 
 ## C.9.4 Is unemployment voluntary?
 
@@ -2187,7 +2187,7 @@ assertion that unemployment is "voluntary leisure."
 Somewhat ironically, given the desire for many on the right to deny the
 possibility of involuntary unemployment this perspective became increasingly
 influential at precisely the same time as the various theories of the so-
-called "natural rate" of unemployment did (see [section C.9](secC9.html)).
+called "natural rate" of unemployment did (see [section C.9](secC9.md)).
 Thus, at the same time as unemployment was proclaimed as being a "voluntary"
 choice economics was also implicitly arguing that this was nonsense, that
 unemployment **is** an essential disciplinary tool within capitalism to keep
@@ -2333,12 +2333,12 @@ individuals. The "labour market" is more a social institution than an economic
 one and people and work more than mere commodities. If we reject the neo-
 liberals' assumptions for the nonsense they are, their case fails. Capitalism,
 ultimately, cannot provide full employment simply because labour is **not** a
-commodity (and as we discussed in [section C.7](secC7.html), this revolt
+commodity (and as we discussed in [section C.7](secC7.md), this revolt
 against commodification is a key part of understanding the business cycle and
 so unemployment).
 
-[‹ C.8 Is state control of credit the cause of the business
-cycle?](/afaq/secC8.html "Go to previous page" ) [up](/afaq/secCcon.html "Go
-to parent page" ) [C.10 Is "free market" capitalism the best way to reduce
-poverty? ›](/afaq/secC10.html "Go to next page" )
+[‹ C.8 Is state control of credit the cause of the business cycle?](secC8.md
+"Go to previous page" ) [up](secCcon.md "Go to parent page" ) [C.10 Is "free
+market" capitalism the best way to reduce poverty? ›](secC10.md "Go to next
+page" )
 

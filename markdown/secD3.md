@@ -180,7 +180,7 @@ for their existence on advertising revenue (which in turn comes from private
 business). Business also provides a substantial share of "experts" for news
 programmes and generates massive "flak." Claims that the media are "left-
 leaning" are sheer disinformation manufactured by the "flak" organisations
-described below (in [section D.3.4](secD3.html#secd34)). Thus Herman and
+described below (in [section D.3.4](secD3.md#secd34)). Thus Herman and
 Chomsky:
 
 > _"the dominant media forms are quite large businesses; they are controlled
@@ -280,7 +280,7 @@ business collective, had a 1983 budget for research, communications, and
 political activities of $65 million. Besides the US Chamber of Commerce, there
 are thousands of state and local chambers of commerce and trade associations
 also engaged in public relations and lobbying activities. As we noted in
-[section D.2](secD2.html), the corporate funding of PR is massive. Thus
+[section D.2](secD2.md), the corporate funding of PR is massive. Thus
 _"business corporations and trade groups are also regular purveyors of stories
 deemed newsworthy. These bureaucracies turn out a large volume of material
 that meets the demands of news organisations for reliable, scheduled flows."_
@@ -636,8 +636,8 @@ should furthermore be encourages within these bounds, this helping to
 establish these doctrines as the very condition of thinkable thought while
 reinforcing the belief that freedom reigns."_ [**Necessary Illusions**, p. 48]
 
-[‹ D.2 What influence does wealth have over politics?](/afaq/secD2.html "Go to
-previous page" ) [up](/afaq/secDcon.html "Go to parent page" ) [D.4 What is
-the relationship between capitalism and the ecological crisis?
-›](/afaq/secD4.html "Go to next page" )
+[‹ D.2 What influence does wealth have over politics?](secD2.md "Go to
+previous page" ) [up](secDcon.md "Go to parent page" ) [D.4 What is the
+relationship between capitalism and the ecological crisis? ›](secD4.md "Go
+to next page" )
 

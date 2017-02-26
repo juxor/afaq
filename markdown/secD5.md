@@ -206,7 +206,7 @@ the imperialist nations by creating new competitors for their jobs (i.e.
 dividing, and so ruling, workers by playing one set of workers against
 another). Both are related, of course, and both seek to weaken working class
 power by the fear of unemployment. This process played a key role in the rise
-of globalisation -- see [section D.5.3](secD5.html#secd53) for details.
+of globalisation -- see [section D.5.3](secD5.md#secd53) for details.
 
 Thus imperialism, which is rooted in the search from surplus profits for big
 business, is also a response to working class power at home. The export of
@@ -224,7 +224,7 @@ industrialisation of other countries. Such industrialisation will, of course,
 mean the emergence of new capitalists, who will compete with the existing ones
 both in the "less developed" countries and in the world market as a whole.
 Imperialism, therefore, attempts to reduce competition on the world market. As
-we discuss in the [next section](secD5.html#secd51), the nineteenth century
+we discuss in the [next section](secD5.md#secd51), the nineteenth century
 saw the industrialisation of many European nations as well as America, Japan
 and Russia by means of state intervention. However, this state-led
 industrialisation had a drawback, namely that it created more and more
@@ -259,7 +259,7 @@ John P Clark and Camille Martin (eds.), **Anarchy, Geography, Modernity**, p.
 92]
 
 This approach has been superseded by indirect means (see [next
-section](secD5.html#secd51)). Globalisation can be seen as an intensification
+section](secD5.md#secd51)). Globalisation can be seen as an intensification
 of this process. By codifying into international agreements the ability of
 corporations to sue nation states for violating "free trade," the possibility
 of new competitor nations developing is weakened. Industrialisation will be
@@ -385,7 +385,7 @@ As the needs of the business class change, the forms taken by imperialism also
 change. We can identify three main phases: classic imperialism (i.e.
 conquest), indirect (economic) imperialism, and globalisation. We will
 consider the first two in this section and globalisation in [section
-D.5.3](secD5.html#secd53). However, for all the talk of globalisation in
+D.5.3](secD5.md#secd53). However, for all the talk of globalisation in
 recent years, it is important to remember that capitalism has always been an
 international system, that the changing forms of imperialism reflect this
 international nature and that the changes within imperialism are in response
@@ -405,7 +405,7 @@ particularly as this second ("internal") role is repeated "externally" through
 imperialism. Needless to say, this process of "internal" imperialism within
 the country by the ruling class by means of the state was accompanied by
 extensive violence against the working class (also see [section
-F.8](secF8.html)).
+F.8](secF8.md)).
 
 So, state intervention was used to create and ensure capital's dominant
 position at home by protecting it against foreign competition and the recently
@@ -533,11 +533,11 @@ for the right of imposing heavy duties on foreign merchandise."_ [Kropotkin,
 
 This process of expansion into non-capitalist areas also helps Capital to
 weather both the subjective and objective economic pressures upon it which
-cause the business cycle (see [section C.7](secC7.html) for more details). As
+cause the business cycle (see [section C.7](secC7.md) for more details). As
 wealth looted from less industrially developed countries is exported back to
 the home country, profit levels can be protected both from working-class
 demands and from any relative decline in surplus-value production caused by
-increased capital investment (see [section C.2](secC2.html) for more on
+increased capital investment (see [section C.2](secC2.md) for more on
 surplus value). In fact, the working class of the imperialist country could
 receive improved wages and living conditions as the looted wealth was imported
 into the country and that meant that the workers could fight for, and win,
@@ -641,7 +641,7 @@ number of people with an interest in the capitulation of the capitalist state
 system also increases."_ [_"Anarchism and Syndicalism"_, **Op. Cit.**, p. 26]
 Unfortunately these "liberation" movements transformed mass struggle from a
 potential struggle against capitalism into movements aiming for independent
-capitalist nation states (see [section D.7](secD7.html)). Not, we must stress,
+capitalist nation states (see [section D.7](secD7.md)). Not, we must stress,
 that the USA was being altruistic in its actions, independence for colonies
 weakened its rivals as well as allowing US capital access to those markets.
 
@@ -683,7 +683,7 @@ pressure rather than the automatic use of violence, although force is always
 an option and is resorted to if "business interests" are threatened. This is
 the reality of the expression "the international community" -- it is code for
 imperialist aims for Western governments, particularly the U.S. and its junior
-partner, the U.K. As discussed in [section D.2.1](secD2.html#secd21), economic
+partner, the U.K. As discussed in [section D.2.1](secD2.md#secd21), economic
 power can be quite effective in pressuring governments to do what the
 capitalist class desire even in advanced industrial countries. This applies
 even more so to so-called developing nations.
@@ -799,16 +799,16 @@ Capital investments in developing nations have increased steadily over the
 years, with profits from the exploitation of cheap labour flowing back into
 the pockets of the corporate elite in the imperialist nation, not to its
 citizens as a whole (though there are sometimes temporary benefits to other
-classes, as discussed in [section D.5.4](secD5.html#secd54)). With the
+classes, as discussed in [section D.5.4](secD5.md#secd54)). With the
 increasing globalisation of big business and markets, capitalism (and so
 imperialism) is on the threshold of a new transformation. Just as direct
 imperialism transformed into in-direct imperialism, so in-direct imperialism
 is transforming into a global system of government which aims to codify the
 domination of corporations over governments. This process is often called
-"globalisation" and we discuss it in [section D.5.3](secD5.html#secd53).
+"globalisation" and we discuss it in [section D.5.3](secD5.md#secd53).
 First, however, we need to discuss non-private capitalist forms of imperialism
 associated with the Stalinist regimes and we do that in the [next
-section](secD5.html#secd52).
+section](secD5.md#secd52).
 
 ## D.5.2 Is imperialism just a product of private capitalism?
 
@@ -1102,7 +1102,7 @@ their loans (loans that were mainly given as a bribe to the ruling elites of
 those countries and used as a means to suppress the working people of those
 countries -- who now, sickenly, are expected to repay them!).
 
-Before this, as noted in [section D.5.1](secD5.html#secd51), many countries
+Before this, as noted in [section D.5.1](secD5.md#secd51), many countries
 had followed a policy of "import substitution." This tended to create new
 competitors who could deny transnational corporations both markets and cheap
 raw materials. With the debt crisis, the imperialist powers could end this
@@ -1370,7 +1370,7 @@ capital and even less to their populations.
 within capitalism?
 
 The two main classes within capitalist society are, as we indicated in
-[section B.7](secB7.html), the ruling class and the working class. The grey
+[section B.7](secB7.md), the ruling class and the working class. The grey
 area between these two classes is sometimes called the middle class. As would
 be expected, different classes have different positions in society and,
 therefore, different relationships with imperialism. Moreover, we have to also
@@ -1391,7 +1391,7 @@ Vietnam war and, perhaps, the class war at home by continuing it).
 
 There are strong economic forces at work as well. Due to capital's need to
 grow in order to survive and compete on the market, find new markets and raw
-materials, it needs to expand (as we discussed in [section D.5](secD5.html)).
+materials, it needs to expand (as we discussed in [section D.5](secD5.md)).
 Consequently, it needs to conquer foreign markets and gain access to cheap raw
 materials and labour. As such, a nation with a powerful capitalist economy
 will need an aggressive and expansionist foreign policy, which it achieves by
@@ -1513,7 +1513,7 @@ which could be used to improve the quality of life for all are funnelled
 towards producing weapons (and profits for corporations). Moreover, militarism
 is directed not only at external enemies, but also against those who threaten
 elite role at home. We discuss militarism in more detail in [section
-D.8](secD8.html).
+D.8](secD8.md).
 
 However, under globalisation things are somewhat different. With the increase
 in world trade and the signing of "free trade" agreements like NAFTA, the
@@ -1568,7 +1568,7 @@ globalisation, so ensuring international solidarity and organisation have a
 stronger reason to be embraced by both sides. This should not come as a
 surprise, however, as the process towards globalisation was accelerated by
 intensive class struggle across the world and was used as a tool against the
-working class (see [last section](secD5.html#secd53)).
+working class (see [last section](secD5.md#secd53)).
 
 It is difficult to generalise about the effects of imperialism on the "middle
 class" (i.e. professionals, self-employed, small business people, peasants and
@@ -1601,7 +1601,7 @@ real interest in ending it -- particularly as under globalisation the few
 benefits that used to accrue to us are much less.
 
 [‹ D.4 What is the relationship between capitalism and the ecological
-crisis?](/afaq/secD4.html "Go to previous page" ) [up](/afaq/secDcon.html "Go
-to parent page" ) [D.6 Are anarchists against Nationalism? ›](/afaq/secD6.html
-"Go to next page" )
+crisis?](secD4.md "Go to previous page" ) [up](secDcon.md "Go to parent
+page" ) [D.6 Are anarchists against Nationalism? ›](secD6.md "Go to next
+page" )
 

@@ -131,7 +131,7 @@ non-exploitative and non-oppressive economic relationships to become the norm
 again in US society, a way based on eliminating a root feature of capitalism
 -- wage-labour -- through a system of easy credit, which he believed would
 enable artisans and farmers to obtain their own means of production and work
-for themselves. As we stressed in [section G.1.2](secG1.html#secg12)
+for themselves. As we stressed in [section G.1.2](secG1.md#secg12)
 capitalism is based not on property as such but rather property which is not
 owned by those who use it (i.e., Proudhon's distinction between property and
 possession which was echoed by, among others, Marx). Like more obvious
@@ -191,7 +191,7 @@ property related ones) as more important than actual people. Hence we find,
 for example, supporters of "natural rights" to property (like Murray Rothbard)
 willing to deny economic power, the restrictions of liberty it creates and its
 similarity to the state in the social relations it creates simply because
-property is sacred (see [section F.1](secF1.html)).
+property is sacred (see [section F.1](secF1.md)).
 
 Interestingly, Spooner did come close to a **rational,** non-metaphysical
 source for rights when he pointed out that _"Men living in contact with each
@@ -215,7 +215,7 @@ speak on behalf of "truth."
 As can be seen, Spooner's account of how "natural law" will be administered is
 radically different from, say, Murray Rothbard's and indicates a strong
 egalitarian context foreign to right-libertarianism. As we noted in [section
-G.3](secG3.html), Rothbard explicitly rejected Spooner's ideas on the
+G.3](secG3.md), Rothbard explicitly rejected Spooner's ideas on the
 importance of jury driven law (for Spooner, _"the jurors were to judge the
 law, and the justice of the law."_ [**Trial by Jury**, p. 134]). As far as
 "anarcho"-capitalism goes, one wonders how Spooner would regard the
@@ -393,7 +393,7 @@ always existed among the few, for the purpose of holding the many in
 subjection, and extorting from them their labour, and all the profits of their
 labour."_ Characterising employment as extortion may seem rather extreme, but
 it makes sense given the exploitative nature of profit under capitalism, as
-left libertarians have long recognised (see [section C.2](secC2.html)).
+left libertarians have long recognised (see [section C.2](secC2.md)).
 
 Perhaps unsurprisingly, given Spooner's rhetorical denunciation of the state
 as being a gang of murderers and thieves employed by the wealthy few to
@@ -473,7 +473,7 @@ libertarian one rather than right-"libertarian."
 
 Of course, it may be objected that Spooner was a right-"libertarian" because
 he supported the market and private property. However, as we argued in
-[section G.1.1](secG1.html#secg11) support for the market does not equate to
+[section G.1.1](secG1.md#secg11) support for the market does not equate to
 support for capitalism (no matter how often the ideologues of capitalism
 proclaim it so). As noted, markets are not the defining feature of capitalism
 as there were markets long before capitalism existed. So the fact that Spooner
@@ -545,7 +545,7 @@ ideology. Whether he was correct in that assumption is another matter.
 
 Which indicates why Spooner must be considered an anarchist regardless of his
 unique position on property rights within the movement. As we argued in
-[section A.3.1](secA3.html#seca31), only a system where the users of land or a
+[section A.3.1](secA3.md#seca31), only a system where the users of land or a
 workplace own it can it be consistent with anarchist principles. Otherwise, if
 there are bosses and landlords, then that society would be inherently
 hierarchical and so **_Archist_**. Spooner's vision of a free society, rooted
@@ -602,7 +602,7 @@ his individualist anarchism is just as anti-capitalist as the ideas of, say,
 Bakunin, Kropotkin or Chomsky. Spooner, in spite of his closeness to classical
 liberalism, was no more a capitalist than Rothbard was an anarchist.
 
-[‹ G.6 What are the ideas of Max Stirner?](/afaq/secG6.html "Go to previous
-page" ) [up](/afaq/secGcon.html "Go to parent page" ) [Section H - Why do
-anarchists oppose state socialism? ›](/afaq/secHcon.html "Go to next page" )
+[‹ G.6 What are the ideas of Max Stirner?](secG6.md "Go to previous page" )
+[up](secGcon.md "Go to parent page" ) [Section H - Why do anarchists oppose
+state socialism? ›](secHcon.md "Go to next page" )
 

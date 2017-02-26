@@ -169,7 +169,7 @@ organisation. These new forms of organisation will be informed and shaped by
 the process of self-liberation, so be more anarchistic and based upon self-
 management. Direct action, as well as liberating individuals, can also create
 the free, self-managed organisations which can replace the current
-hierarchical ones (see [section I.2.3](secI2.html#seci23)). For example, for
+hierarchical ones (see [section I.2.3](secI2.md#seci23)). For example, for
 Kropotkin, unions were _"natural organs for the direct struggle with
 capitalism and for the composition of the future order."_ [quoted by Paul
 Avrich, **The Russian Anarchists**, p. 81] In other words, direct action helps
@@ -214,12 +214,12 @@ Simply because electioneering does not work. History is littered with examples
 of radicals being voted into office only to become as, or even more,
 conservative than the politicians they replaced.
 
-As we have discussed previously (see [section B.2](secB2.html)) any government
+As we have discussed previously (see [section B.2](secB2.md)) any government
 is under pressure from two sources of power, the state bureaucracy and big
 business. This ensures that any attempts at social change would be undermined
 and made hollow by vested interests, assuming they even reached that level to
 begin with (the de-radicalising effects of electioneering is discussed in
-[section J.2.6](secJ2.html#secj26)). Here we will highlight the power of
+[section J.2.6](secJ2.md#secj26)). Here we will highlight the power of
 vested interests within democratic government.
 
 For anarchists, the general nature of the state and its role within society is
@@ -238,7 +238,7 @@ investment and its currency would become worthless. Either is an effective
 weapon to control democratically elected governments as both ensure that the
 economy would be severely damaged and the promised "reforms" would be dead
 letters. Far fetched? No, not really. As discussed in [section
-D.2.1](secD2.html#secd21) such pressures were inflicted on the 1974 Labour
+D.2.1](secD2.md#secd21) such pressures were inflicted on the 1974 Labour
 Government in Britain and we see the threat reported everyday when the media
 reports on what _"the markets"_ think of government policies or when loans are
 given only with the guarantee that the country is structurally adjusted in-
@@ -368,7 +368,7 @@ aided by the CIA, US based corporations and the US government to make it
 harder for the Allende regime. The coup resulted in thousands murdered and
 years of terror and dictatorship, but the danger of a pro-labour government
 was ended and the business environment was made healthy for profits (see
-[section C.11](secC11.html)). An extreme example, we know, but an important
+[section C.11](secC11.md)). An extreme example, we know, but an important
 one for any believer in freedom or the idea that the state machine is somehow
 neutral and can be captured and used by left-wing parties -- particularly as
 the fate of Chile has been suffered by many other reformist governments across
@@ -518,7 +518,7 @@ looks likely to win the election). Some Social Ecologists, following Murray
 Bookchin's arguments, support actual standing in elections and think
 anarchists by taking part in local elections can use them to create self-
 governing community assemblies. However, few anarchists support such means to
-create community assemblies (see [section J.5.14](secJ5.html#secj514) for a
+create community assemblies (see [section J.5.14](secJ5.md#secj514) for a
 discussion on this).
 
 The problem of elections in a statist system, even on a local scale, means
@@ -658,7 +658,7 @@ the social problems they are protesting against. It should be a widely
 recognised truism in radical circles that elections empower the politicians
 and not the voters. Thus elections focus attention to a few leaders, urging
 them to act **for** rather than acting for ourselves (see [section
-H.1.5](secH1.html#sech15)). If genuine social change needs mass participation
+H.1.5](secH1.md#sech15)). If genuine social change needs mass participation
 then, by definition, using elections will undermine that. This applies to
 within the party as well, for working "within the system" disempowers
 grassroots activists, as can be seen by the Green party in Germany during the
@@ -669,7 +669,7 @@ more radical and effective forms of activism. Principles were ignored in
 favour of having some influence, so producing watered-down legislation which
 tinkered with the system rather than transforming it.
 
-As discussed in [section H.3.9](secH3.html#sech39), the state is more
+As discussed in [section H.3.9](secH3.md#sech39), the state is more
 complicated than the simple organ of the economically dominant class pictured
 by Marxists. There are continual struggles both inside and outside the state
 bureaucracies, struggles that influence policies and empower different groups
@@ -702,7 +702,7 @@ Elections",_ pp. 123-36, **Reinventing Anarchy, Again**, Howard J. Ehrlich
 
 It may be argued that if a new political group is radical enough it will be
 able to use state power for good purposes. While we discuss this in more
-detail in [section J.2.6](secJ2.html#secj26), let us consider a specific case,
+detail in [section J.2.6](secJ2.md#secj26), let us consider a specific case,
 that of the Greens as many of them believe that the best way to achieve their
 aims is to work within the current political system.
 
@@ -710,10 +710,10 @@ By pledging to use the electoral system to achieve change, Green parties
 necessarily commit themselves to formulating their proposals as legislative
 agendas. But once legislation is passed, the coercive mechanisms of the state
 will be needed to enforce it. Therefore, Green parties are committed to
-upholding state power. However, our analysis in [section B.2](secB2.html)
+upholding state power. However, our analysis in [section B.2](secB2.md)
 indicated that the state is a set of hierarchical institutions through which a
 ruling elite dominates society and individuals. And, as we have seen in
-[section E](secEcon.html), ecologists, feminists, and peace activists -- who
+[section E](secEcon.md), ecologists, feminists, and peace activists -- who
 are key constituencies of the Green movement -- all need to **dismantle**
 hierarchies and domination in order to achieve their respective aims.
 Therefore, since the state is not only the largest and most powerful hierarchy
@@ -726,7 +726,7 @@ Green movement. A similar argument would apply to any radical party whose main
 emphasis was social justice, which like the goals of feminists, radical
 ecologists, and peace activists, depends on dismantling hierarchies.
 
-As we argued in the [previous section](secJ2.html#secj23), radical parties are
+As we argued in the [previous section](secJ2.md#secj23), radical parties are
 under pressure from economic and state bureaucracies that ensure that even a
 sincere radical party would be powerless to introduce significant reforms. The
 only real response to the problems of representative democracy is to urge
@@ -735,7 +735,7 @@ making others aware of the limitations of the current system, which is a
 necessary condition for their seriously considering the anarchist alternative
 of using direct action and building alternative social and economic
 organisations. The implications of abstentionism are discussed in the [next
-section](secJ2.html#secj25).
+section](secJ2.md#secj25).
 
 ## J.2.5 Why do anarchists support abstentionism and what are its
 implications?
@@ -1086,7 +1086,7 @@ the Spanish Revolution**, p. 169]
 Instead of trying to gain control of the state, for whatever reasons,
 anarchists try to promote a culture of resistance within society that makes
 the state subject to pressure from outside (see [section
-J.2.9](secJ2.html#secj29)). And, we feel, history has proven us right time and
+J.2.9](secJ2.md#secj29)). And, we feel, history has proven us right time and
 time again.
 
 ## J.2.7 Surely we should vote for reformist parties in order to expose them?
@@ -1284,7 +1284,7 @@ defend such reforms when their "left-wing" government starts to attack them.
 
 Ultimately, voting for other politicians will make little difference. The
 reality is that politicians are puppets. As we argued in [section
-J.2.2](secJ2.html#secj22), real power in the state does not lie with
+J.2.2](secJ2.md#secj22), real power in the state does not lie with
 politicians, but instead within the state bureaucracy and big business. Faced
 with these powers, we have seen left-wing governments from Spain to New
 Zealand introduce right-wing policies. So even if we elected a radical party,
@@ -1312,7 +1312,7 @@ power, as well of the social role, of government in the life of the
 community."_ [_"Anarchists and Voting"_, pp. 176-87, **The Raven**, no. 14,
 pp. 177-8]
 
-We discuss what this could involve in the [next section](secJ2.html#secj29).
+We discuss what this could involve in the [next section](secJ2.md#secj29).
 
 ## J.2.9 What do anarchists do instead of voting?
 
@@ -1498,7 +1498,7 @@ which aim at the direct participation of the people, with the consequent
 weakening of the power, as well as of the social role, of government in the
 life of the community."_ [_"Anarchists and Voting"_, pp. 176-87, **The
 Raven**, No. 14, pp. 177-8] We discuss what new forms of economic and social
-organisations that this could involve in [section J.5](secJ5.html).
+organisations that this could involve in [section J.5](secJ5.md).
 
 ## J.2.10 Does rejecting electioneering mean that anarchists are apolitical?
 
@@ -1721,7 +1721,7 @@ History supports Bakunin's arguments, as it indicates that any attempt at
 taking social and economic issues into political parties has resulting in
 wasted energy and their watering down into, at best, reformism and, at worse,
 the simple ignoring of them by politicians once in office (see [section
-J.2.6](secJ2.html#secj26)). Only by rejecting the artificial divisions of
+J.2.6](secJ2.md#secj26)). Only by rejecting the artificial divisions of
 capitalist society can we remain true to our ideals of liberty, equality and
 solidarity. Every example of radicals using electioneering has resulted in
 them being changed by the system instead of them changing it. They have become
@@ -1761,7 +1761,7 @@ conclusions from their own activity anarchists are very "political." The
 process of individual and social liberation is the most political activity we
 can think of!
 
-[‹ J.1 Are anarchists involved in social struggles?](/afaq/secJ1.html "Go to
-previous page" ) [up](/afaq/secJcon.html "Go to parent page" ) [J.3 What kinds
-of organisation do anarchists build? ›](/afaq/secJ3.html "Go to next page" )
+[‹ J.1 Are anarchists involved in social struggles?](secJ1.md "Go to
+previous page" ) [up](secJcon.md "Go to parent page" ) [J.3 What kinds of
+organisation do anarchists build? ›](secJ3.md "Go to next page" )
 

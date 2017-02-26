@@ -61,7 +61,7 @@ welfare. But never once does he call attention to the far more deadly and
 deep-seated evils growing out of the innumerable laws creating privilege and
 sustaining monopoly."_ Unsurprisingly, he considered Spencer as a _"champion
 of the capitalistic class."_ [quoted by James J. Martin, **Men Against the
-State**, p. 240] As we will discuss in [section G.3](secG3.html), it is likely
+State**, p. 240] As we will discuss in [section G.3](secG3.md), it is likely
 that he would have drawn the same conclusion about "anarcho"-capitalism.
 
 This does not mean that the majority thread within the anarchist movement is
@@ -78,11 +78,11 @@ could be implied by it, as can be seen under capitalism (other individualist
 anarchists were more aware of this contradiction as we will see). Therefore,
 social anarchists tend to think of individualist anarchism as an inconsistent
 form of anarchism, one which could become consistent by simply logically
-applying its own principles (see [section G.4](secG4.html)). On their part,
+applying its own principles (see [section G.4](secG4.md)). On their part,
 many individualist anarchists simply denied that social anarchists were
 anarchists, a position other anarchists refute (see [section
-G.2](secG2.html)). As such, this section can also be considered, in part, as a
-continuation of the discussion begun in [section A.3](secA3.html).
+G.2](secG2.md)). As such, this section can also be considered, in part, as a
+continuation of the discussion begun in [section A.3](secA3.md).
 
 Few thinkers are completely consistent. Given Tucker's adamant anti-statism
 and anti-capitalism, it is likely that had he realised the authoritarian
@@ -98,7 +98,7 @@ it easier for workers to gain access to both land and machinery, so allowing
 wage workers to become independent farmers or artisans. Unsurprisingly,
 therefore, he viewed individualist anarchism as a society of workers, not one
 of capitalists and workers. Moreover, as we will argue in [section
-G.4.1](secG4.html#secg41), his love for freedom and opposition to usury
+G.4.1](secG4.md#secg41), his love for freedom and opposition to usury
 logically implies artisan and co-operative labour -- people selling the
 products of their labour, as opposed to the labour itself -- which itself
 implies self-management in production (and society in general), not
@@ -127,7 +127,7 @@ ignore both the theoretical underpinnings of their ideas as well as the social
 context of self-employment and artisan production within which those concepts
 arose, thus turning them into something radically different from what was
 intended by their originators. As we discuss in [section
-G.1.4](secG1.html#secg14) the social context in which individualist anarchism
+G.1.4](secG1.md#secg14) the social context in which individualist anarchism
 developed is essential to understanding both its politics and its limitations
 (_"Anarchism in America is not a **foreign importation** but a product of the
 social conditions of this country and its historical traditions,"_ although it
@@ -307,8 +307,7 @@ enough to indicate why the likes of Tucker, Labadie, Yarros and Spooner
 deserve better than to be reduced to footnotes in books defending an even more
 extreme version of the capitalism they spent their lives fighting.
 
-[‹ Section G - Is individualist anarchism capitalistic?](/afaq/secGcon.html
-"Go to previous page" ) [up](/afaq/secGcon.html "Go to parent page" ) [G.1 Are
-individualist anarchists anti-capitalist? ›](/afaq/secG1.html "Go to next
-page" )
+[‹ Section G - Is individualist anarchism capitalistic?](secGcon.md "Go to
+previous page" ) [up](secGcon.md "Go to parent page" ) [G.1 Are
+individualist anarchists anti-capitalist? ›](secG1.md "Go to next page" )
 

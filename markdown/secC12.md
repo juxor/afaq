@@ -433,7 +433,7 @@ and the "free market" they introduced into Hong Kong was in the interests of
 all rather than for those who exercised the dictatorship.
 
 [‹ C.11 Doesn't neo-liberalism in Chile prove that the free market benefits
-everyone? ](/afaq/secC11.html "Go to previous page" ) [up](/afaq/secCcon.html
-"Go to parent page" ) [Section D - How do statism and capitalism affect
-society? ›](/afaq/secDcon.html "Go to next page" )
+everyone? ](secC11.md "Go to previous page" ) [up](secCcon.md "Go to
+parent page" ) [Section D - How do statism and capitalism affect society?
+›](secDcon.md "Go to next page" )
 

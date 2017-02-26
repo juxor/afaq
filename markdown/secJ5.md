@@ -22,7 +22,7 @@ within the state], in opposition to the bourgeois representatives."_ He
 proclaimed to working class people that _"a new society be founded in the
 heart of the old society"_ for _"the government can do nothing for you. But
 you can do everything for yourselves."_ [**Property is Theft!**, pp. 321-2]
-This was echoed by Bakunin (see [section H.2.8](secH2.html#sech28)) while for
+This was echoed by Bakunin (see [section H.2.8](secH2.md#sech28)) while for
 revolutionary syndicalists the aim was _"to constitute within the bourgeois
 State a veritable socialist (economic and anarchic) State."_ [Fernand
 Pelloutier, quoted by Jeremy Jennings, **Syndicalism in France**, p. 22] By so
@@ -144,7 +144,7 @@ created to campaign against or for certain issues or reforms. Anarchists are
 in favour of such organisations and work within them to spread anarchist
 ideas, tactics and organisational forms. However, these interest groups (while
 very useful) do not provide a framework for lasting change as do the ones we
-highlight below (see [section J.1.4](secJ1.html#secj14) for more details on
+highlight below (see [section J.1.4](secJ1.md#secj14) for more details on
 anarchist opinions on such "single issue" campaigns). We have also ignored
 what have been called _"intentional communities."_ This is when a group of
 individuals squat or buy land and other resources within capitalism and create
@@ -189,7 +189,7 @@ politicians). Instead, it becomes communalised and part of everyday life and
 in the hands of all.
 
 As would be imagined, like the participatory communities that would exist in
-an anarchist society (see [section I.5](secI5.html)), the community union
+an anarchist society (see [section I.5](secI5.md)), the community union
 would be based upon a mass assembly of its members. Here would be discussed
 the issues that affect the membership and how to solve them. Thus issues like
 rent increases, school closures, rising cost of living, taxation, cuts and
@@ -247,7 +247,7 @@ they like it or not the Town Hall is obliged to take account of these
 proposals."_ In addition, the FMB also supports co-operatives within it, so
 creating a communalised, self-managed economic sector within capitalism. Such
 a development helps to reduce the problems facing isolated co-operatives in a
-capitalist economy -- see [section J.5.11](secJ5.html#secj511) \-- and was
+capitalist economy -- see [section J.5.11](secJ5.md#secj511) \-- and was
 actively done in order to _"seek to bring together all the currents, all the
 problems and contradictions, to seek solutions"_ to such problems facing co-
 operatives. [_"Community Organising in Southern Italy"_, pp. 16-19, **Black
@@ -457,7 +457,7 @@ while the other is individualist, seeking to reassure the individual that his
 independence will be respected."_ [**Libertarian Communism**, pp. 6-7]
 
 The combination of community unionism, along with industrial unionism (see
-[next section](secJ5.html#secj52)), will be the key to creating an anarchist
+[next section](secJ5.md#secj52)), will be the key to creating an anarchist
 society. Community unionism, by creating the free commune within the state,
 allows us to become accustomed to managing our own affairs and seeing that an
 injury to one is an injury to all. In this way a social power is created in
@@ -482,7 +482,7 @@ and exercising this power.
 Before discussing why anarchists support industrial unionism, we must point
 out that the type of unionism anarchists support has very little in common
 with that associated with reformist unions like the TUC in Britain or the AFL-
-CIO in the USA (see [next section](secJ5.html#secj53)). In such unions, as
+CIO in the USA (see [next section](secJ5.md#secj53)). In such unions, as
 Alexander Berkman pointed out, the _"rank and file have little say. They have
 delegated their power to leaders, and these have become the boss . . . Once
 you do that, the power you have delegated will be used against you and your
@@ -742,11 +742,11 @@ a result not of "bad" leaders but of the way these unions organise and their
 role within capitalism). Hence anarchists support industrial unionism as an
 effective alternative to the malaise of official trade unionism. How
 anarchists aim to encourage such new forms of workplace organisation and
-struggle will be discussed in [section J.5.4](secJ5.html#secj54).
+struggle will be discussed in [section J.5.4](secJ5.md#secj54).
 
 One last point. We noted that many anarchists, particularly communist-
 anarchists, consider unions, even anarchosyndicalist ones, as having a strong
-reformist tendency (as discussed in [section J.3.9](secJ3.html#secj39)).
+reformist tendency (as discussed in [section J.3.9](secJ3.md#secj39)).
 However, all anarchists recognise the importance of autonomous class struggle
 and the need for organisations to help fight that struggle. Thus anarchist-
 communists, instead of trying to organise industrial unions, apply the ideas
@@ -781,7 +781,7 @@ ideas of industrial organisation and struggle we have outlined above.
 
 ## J.5.3 What attitude do anarchists take to existing unions?
 
-As noted in the [last section](secJ5.html#secj52), anarchists desire to create
+As noted in the [last section](secJ5.md#secj52), anarchists desire to create
 organisations in the workplace radically different from the existing unions.
 The question now arises, what attitude do anarchists take to trade unions?
 
@@ -825,7 +825,7 @@ both the union and its members and so weakens their struggles (after all, if
 bosses and workers have similar interests then any conflict is bad and the
 decisions of the boss must be in workers' interests!). That kind of nonsense
 is best left to the apologists of capitalism (see [section
-F.3.2](secF3.html#secf32)).
+F.3.2](secF3.md#secf32)).
 
 It is no surprise, then, that _"the existing political and economic power . .
 . not only suspected every labour organisation of aiming to improve the
@@ -939,7 +939,7 @@ shop floor, the less the bureaucracy has. Thus anarchists work within and
 outwith the trade unions in order to increase the power of workers where it
 actually lies: at the point of production. This is usually done by creating
 networks of activists who spread anarchist ideas to their fellow workers (see
-[next section](secJ5.html#secj54)). Hence Malatesta:
+[next section](secJ5.md#secj54)). Hence Malatesta:
 
 > _"The anarchists within the unions should strive to ensure that they remain
 open to all workers of whatever opinion or party on the sole condition that
@@ -957,7 +957,7 @@ one of the means, however important, of preparing the way for the achievement
 of anarchism."_ [**The Anarchist Revolution**, pp. 26-7]
 
 As part of this activity anarchists promote the ideas of Industrial Unionism
-we highlighted in the [last section](secJ5.html#secj52) \-- namely direct
+we highlighted in the [last section](secJ5.md#secj52) \-- namely direct
 workers control of struggle via workplace assemblies and recallable committees
 -- during times of struggle. However, anarchists are aware that economic
 struggle (and trade unionism as such) _"cannot be an end in itself, since the
@@ -986,7 +986,7 @@ Industrial Networks originated with the British section of the anarcho-
 syndicalist **International Workers Association** in the late 1980s. It was
 developed as a means of promoting libertarian ideas within the workplace, so
 creating the basis on which a workplace movement based upon the ideas of
-industrial unionism (see [section J.5.2](secJ5.html#secj52)) could grow and
+industrial unionism (see [section J.5.2](secJ5.md#secj52)) could grow and
 expand.
 
 The idea is very simple. An Industrial Network is a federation of militants in
@@ -1248,7 +1248,7 @@ alone, working class control of credit and money is an important part of the
 class struggle as having access to alternative sources of credit can increase
 working class options and power.
 
-As we discussed in [section B.3.2](secB3.html#secb32), credit is also an
+As we discussed in [section B.3.2](secB3.md#secb32), credit is also an
 important form of social control -- people who have to pay their mortgage or
 visa bill are more pliable, less likely to strike or make other forms of
 political trouble. Credit also expands the consumption of the masses in the
@@ -1314,7 +1314,7 @@ Hence the importance of limiting the money they have available, of creating
 community-based credit unions and mutual risk insurance co-operatives to
 increase our control over our money which can be used to empower ourselves,
 aid our struggles and create our own alternatives (see [section
-B.3.2](secB3.html#secb32) for more anarchist views on mutual credit and its
+B.3.2](secB3.md#secb32) for more anarchist views on mutual credit and its
 uses). Money, representing as it does the power of capital and the authority
 of the boss, is not "neutral" and control over it plays a role in the class
 struggle. We ignore such issues at our own peril.
@@ -1341,7 +1341,7 @@ net effect would be the usual capitalist business cycle.
 
 For the former, for mutualists like Proudhon, mutual credit **was** seen as a
 means of transforming the relations of production (as discussed in [section
-G.4.1](secG4.html#secg41), unlike Proudhon, Tucker did not oppose wage-labour
+G.4.1](secG4.md#secg41), unlike Proudhon, Tucker did not oppose wage-labour
 and just sought to make it non-exploitative). For Proudhon, mutual credit was
 seen as the means by which co-operatives could be created to end wage-labour.
 The organisation of labour would combine with the organisation of credit to
@@ -1404,11 +1404,11 @@ So while few anarchists think that mutualism would be enough in itself, it can
 play a role in the class struggle. As a compliment to direct action and
 workplace and community struggle and organisation, mutualism has an important
 role in working class self-liberation. For example, community unions (see
-[section J.5.1](secJ5.html#secj51)) could create their own mutual banks and
+[section J.5.1](secJ5.md#secj51)) could create their own mutual banks and
 money which could be used to fund co-operatives and support social struggle.
 In this way a healthy communalised co-operative sector could develop within
 capitalism, overcoming the problems of isolation facing workplace co-
-operatives (see [section J.5.11](secJ5.html#secj511)) as well as providing
+operatives (see [section J.5.11](secJ5.md#secj511)) as well as providing
 solidarity for those in struggle.
 
 Mutual banking can be a way of building upon and strengthening the anarchistic
@@ -1589,7 +1589,7 @@ It is important to remember that mutual money has no **intrinsic** value,
 since they cannot be redeemed (at the mutual bank) in gold or anything else.
 All they are promises of future labour. They are a mere medium for the
 facilitation of exchange used to facilitate the increased production of goods
-and services (as discussed in [section G.3.6](secG3.html#sech36), it is this
+and services (as discussed in [section G.3.6](secG3.md#sech36), it is this
 increase which ensures that mutual credit is not inflationary). This also
 ensures enough work for all and, ultimately, the end of exploitation as
 working people can buy their own means of production and so end wage-labour by
@@ -1770,7 +1770,7 @@ Therefore, we see that co-operatives prove the advantages of (and the inter-
 relationship between) key anarchist principles such as liberty, equality,
 solidarity and self-management. Their application, whether all together or in
 part, has a positive impact on efficiency and work -- and, as we will discuss
-in [section J.5.12](secJ5.html#secj512), the capitalist market actively
+in [section J.5.12](secJ5.md#secj512), the capitalist market actively
 **blocks** the spread of these more egalitarian and efficient productive
 techniques instead of encouraging them. Even by its own standards, capitalism
 stands condemned -- it does not encourage the efficient use of resources and
@@ -1802,7 +1802,7 @@ current system and so adapt to it.
 For most anarchists, the experience of co-operatives has proven without doubt
 that, however excellent in principle and useful in practice, if they are kept
 within capitalism they cannot become the dominant mode of production and free
-the masses (see [section J.5.11](secJ5.html#secj511)). In order to fully
+the masses (see [section J.5.11](secJ5.md#secj511)). In order to fully
 develop, co-operatives must be part of a wider social movement which includes
 community and industrial unionism and the creation of a anarchistic social
 framework which can encourage _"truly Socialist co-operation"_ and discourage
@@ -1861,7 +1861,7 @@ smaller size supplying a given market compared to capitalism. So a free
 economy, with the appropriate institutional framework, need not worry about
 unemployment for while individual co-operatives may not expand as fast as
 capitalist firms, more co-operatives would be set up (see [section
-I.3.1](secI3.html#seci31) for why the neo-classical analysis of co-operatives
+I.3.1](secI3.md#seci31) for why the neo-classical analysis of co-operatives
 which Nozick implicitly invokes is false). In short, the environment within
 which a specific workplace operates is just as important as its efficiency.
 
@@ -1980,7 +1980,7 @@ interest of investors merge, with the personal desire to make money ensuring
 that the class position of the individual is secured. This does not reflect
 the productivity or efficiency of the investment -- quite the reverse! -- it
 reflects the social function of wage labour in maximising profits and returns
-on capital (see [next section](secJ5.html#secj512) for more on this). In other
+on capital (see [next section](secJ5.md#secj512) for more on this). In other
 words, the personal interests of investors will generally support their class
 interests (unsurprisingly, as class interests are not independent of personal
 interests and will tend to reflect them!).
@@ -2099,7 +2099,7 @@ the economic context, and while the institutional context of a capitalist
 system may be more conducive for the capitalist firm, a different context may
 favour the co-operative firm."_ [**Economics and Utopia**, p. 288]
 
-As discussed in [section I.3.5](secI3.html#seci35), Proudhon was well aware
+As discussed in [section I.3.5](secI3.md#seci35), Proudhon was well aware
 that for mutualism to prosper and survive an appropriate institutional
 framework was required (the _"agro-industrial federation"_ and mutual
 banking). So an organisation's survival also depends on the co-evolution of
@@ -2175,7 +2175,7 @@ bring about a free society. [**The Political Philosophy of Bakunin**, p. 385]
 Finally, we must note an irony with Nozick's argument, namely the notion that
 capitalism (his _"free society"_) allows a _"voluntary"_ path to economic
 liberty. The irony is two-fold. First, the creation of capitalism was the
-result of state action (see [section F.8](secF8.html)). While working class
+result of state action (see [section F.8](secF8.md)). While working class
 people are expected to play by the rules decreed by capitalism, capitalists
 have never felt the urge to do so. It is this state coercion which helped
 create the path-dependency which stops _"the market"_ selecting more efficient
@@ -2218,7 +2218,7 @@ many capitalist firms, the few experiments conducted have failed to spread
 even though they were extremely successful. This is due to the nature of
 capitalist production and the social relationships it produces.
 
-As we noted in [section D.10](secD10.html), capitalist firms (particularly in
+As we noted in [section D.10](secD10.md), capitalist firms (particularly in
 the west) made a point of introducing technologies and management structures
 that aimed to deskill and disempower workers. In this way, it was hoped to
 make the worker increasingly subject to "market discipline" (i.e. easier to
@@ -2481,7 +2481,7 @@ allocate the surplus (i.e. profits) between wages, investment, dividends,
 management pay and so on, then they will seek to end the project in order to
 ensure their power over both the workers and the surplus they, the workers,
 produce (this is, of course, related to the issue of lack of control by
-investors in co-operatives raised in the [last section](secJ5.html#secj511)).
+investors in co-operatives raised in the [last section](secJ5.md#secj511)).
 
 As such, the opposition by managers to workers' control will be reflected by
 those who actually own the company who obviously would not support a regime
@@ -2810,7 +2810,7 @@ operative learning, see Alfie Kohn's **No Contest**.
 
 ## J.5.14 What is Libertarian Municipalism?
 
-As we noted in [section J.2](secJ2.html), most anarchists reject participating
+As we noted in [section J.2](secJ2.md), most anarchists reject participating
 in electoral politics. A notable exception was Murray Bookchin who not only
 proposed voting but also a non-parliamentary electoral strategy for
 anarchists. He repeated this proposal in many of his later works, such as
@@ -2931,7 +2931,7 @@ The counter-argument to this is that even if there is no chance of such
 candidates being elected, their standing for elections would serve a valuable
 educational function. The answer to this is: perhaps, but would it be more
 valuable than direct action? Would its educational value, if any, outweigh the
-disadvantages of electioneering discussed in [section J.2](secJ2.html)? Given
+disadvantages of electioneering discussed in [section J.2](secJ2.md)? Given
 the ability of major media to marginalise alternative candidates, we doubt
 that such campaigns would have enough educational value to outweigh these
 disadvantages. Moreover, being an anarchist does not make one immune to the
@@ -2956,7 +2956,7 @@ Organising in Southern Italy"_, pp. 16-19, **Black Flag** no. 210, p. 18]
 Thus Libertarian Municipalism reverses the process by which community
 assemblies will be created. Instead of anarchists using elections to build
 such bodies, they must work in their communities directly to create them (see
-[section J.5.1](secJ5.html#secj51) for more details). Using the catalyst of
+[section J.5.1](secJ5.md#secj51) for more details). Using the catalyst of
 specific issues of local interest, anarchists could propose the creation of a
 community assembly to discuss the issues in question and organise action to
 solve them. Rather than stand in local elections, anarchists should encourage
@@ -3043,7 +3043,7 @@ managed) alternative.
 Fourthly, we must note that while most anarchists **are** in favour of
 collective self-help and welfare, we are opposed to the state. Part of the
 alternatives anarchists try and create are self-managed and community welfare
-projects (see [next section](secJ5.html#secj516)). Moreover, in the past,
+projects (see [next section](secJ5.md#secj516)). Moreover, in the past,
 anarchists and syndicalists were at the forefront in opposing state welfare
 schemes. This was because they were introduced **not** by socialists but by
 liberals and other supporters of capitalism to undercut support for radical
@@ -3282,7 +3282,7 @@ some state institutions from the attack against them [by private power], while
 trying at the same time to pry them open to meaningful public participation --
 and ultimately, to dismantle them in a much more free society, if the
 appropriate circumstances can be achieved."_ [**Chomsky on Anarchism**, p.
-194] A point we will discuss more in [the next section](secJ5.html#secj516)
+194] A point we will discuss more in [the next section](secJ5.md#secj516)
 when we highlight the historical examples of self-managed communal welfare and
 self-help organisations.
 
@@ -3434,7 +3434,7 @@ state capitalism we are usually offered. We reject both privatisation **and**
 nationalisation, both right and left wings (of capitalism). Neither state nor
 private health care are user-controlled -- one is subject to the requirements
 of politics and the other places profits before people. As we have discussed
-the welfare state in the [last section](secJ5.html#secj515), it is worthwhile
+the welfare state in the [last section](secJ5.md#secj515), it is worthwhile
 to quickly discuss privatised welfare and why anarchists reject this option
 even more than state welfare.
 
@@ -3522,8 +3522,7 @@ get on his knees and start praying. Because he is no revolutionist. He is a
 son of a bitch."_ [Sam Dolgoff, quoted by Ulrike Heider, **Anarchism: left,
 right, and green**, p. 12]
 
-[‹ J.4 What trends in society aid anarchist activity?](/afaq/secJ4.html "Go to
-previous page" ) [up](/afaq/secJcon.html "Go to parent page" ) [J.6 What
-methods of child rearing do anarchists advocate? ›](/afaq/secJ6.html "Go to
-next page" )
+[‹ J.4 What trends in society aid anarchist activity?](secJ4.md "Go to
+previous page" ) [up](secJcon.md "Go to parent page" ) [J.6 What methods of
+child rearing do anarchists advocate? ›](secJ6.md "Go to next page" )
 

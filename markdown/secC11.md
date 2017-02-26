@@ -83,7 +83,7 @@ Chilean people. They claim it was a free market and given that, for example,
 Friedman was leading ideologue for capitalism we can assume that the regime
 approximated the workings of such a system. We will discuss the illogical
 nature and utter hypocrisy of the right's position in [section
-D.11](secD11.html), where we also discuss the limited nature of the democratic
+D.11](secD11.md), where we also discuss the limited nature of the democratic
 regime which replaced Pinochet and the real relationship between economic and
 political liberty.
 
@@ -668,11 +668,11 @@ Mrs Thatcher**, p. 45]
 Inflation was controlled by means of state repression and high unemployment, a
 combination of the incomes policy of Hitler and Mussolini and Karl Marx (i.e.,
 Friedman's "natural rate of unemployment" we debunked in [section
-C.9](secC9.html)). In other words, Monetarism and "free market" capitalism did
+C.9](secC9.md)). In other words, Monetarism and "free market" capitalism did
 not reduce inflation (as was the case with Thatcher and Reagan was well).
 
 Which leaves growth, the only line of defence possible for the claim of a
-Chilean "Miracle." As we discussed in [section C.10](secC10.html), the right
+Chilean "Miracle." As we discussed in [section C.10](secC10.md), the right
 argue that relative shares of wealth are not important, it is the absolute
 level which counts. While the share of the economic pie may have dropped for
 most Chileans, the right argue that the high economic growth of the economy
@@ -763,7 +763,7 @@ The first thing to note is that neo-liberal Chile hardly supports the claim
 that the free market is stable. In fact, it was marked by deep recessions
 followed by periods of high growth as the economic recovered. This resulted in
 overall (at best) mediocre growth rates (see [last
-section](secC11.html#secc112)).
+section](secC11.md#secc112)).
 
 Then there is the fact that the Chilean experiment refutes key neo-classical
 dogmas about the labour market. In **Capitalist and Freedom**, Friedman was at
@@ -853,7 +853,7 @@ p. 22, p. 15, p. 16, p. 15 and p. 22]
 
 The standard free-market argument is that unemployment is solved by subjecting
 the wage level to the rigours of the market. While wages will be lower, more
-people will be employed. As we discussed in [section C.9](secC9.html), the
+people will be employed. As we discussed in [section C.9](secC9.md), the
 logic and evidence for such claims is spurious. Needless to say, Friedman
 never revised his claims in the light of the empirical evidence produced by
 the application of his ideas.
@@ -1060,7 +1060,7 @@ by market forces and authoritarian government. However, fear of the military
 has ensured that reforms have been minor and, consequently, Chile cannot be
 considered a genuine democracy. In other words, "economic liberty" has not
 produced genuine "political liberty" as Friedman (and others) claim (see
-[section D.11](secD11.html)). Ultimately, for all but the tiny elite at the
+[section D.11](secD11.md)). Ultimately, for all but the tiny elite at the
 top, the Pinochet regime of "economic liberty" was a nightmare. Economic
 "liberty" only seemed to benefit one group in society, an obvious "miracle."
 For the vast majority, the "miracle" of economic "liberty" resulted, as it
@@ -1069,7 +1069,7 @@ and social alienation. The irony is that many right-wing free-marketers point
 to it as a model of the benefits of capitalism.
 
 [‹ C.10 Is "free market" capitalism the best way to reduce
-poverty?](/afaq/secC10.html "Go to previous page" ) [up](/afaq/secCcon.html
-"Go to parent page" ) [C.12 Doesn't Hong Kong show the potentials of "free
-market" capitalism? ›](/afaq/secC12.html "Go to next page" )
+poverty?](secC10.md "Go to previous page" ) [up](secCcon.md "Go to parent
+page" ) [C.12 Doesn't Hong Kong show the potentials of "free market"
+capitalism? ›](secC12.md "Go to next page" )
 

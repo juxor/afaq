@@ -39,7 +39,7 @@ the "initiation of force," they mean only **new** initiations of force; for
 the system they support was born from numerous initiations of force in the
 past. And, as can be seen from the history of the last 100 years, it also
 requires state intervention to keep it going (section D.1, ["Why does state
-intervention occur?,"](secD1.html) addresses this point in some detail).
+intervention occur?,"](secD1.md) addresses this point in some detail).
 Indeed, many thinkers have argued that it was precisely this state support and
 coercion (particularly the separation of people from the land) that played the
 **key** role in allowing capitalism to develop rather than the theory that
@@ -111,7 +111,7 @@ irrespective of whether individual capitalists encouraged politicians to vote
 to create/maintain it. And, similarly, **all** capitalists benefited from the
 changes in common law to recognise and protect capitalist private property and
 rights that the state enforced during the 19th century (see section
-[B.2.5](secB2.html#secb25)).
+[B.2.5](secB2.md#secb25)).
 
 It appears that, for Rothbard, the collusion between state and business is the
 fault, not of capitalism, but of particular capitalists. The system is pure;
@@ -209,7 +209,7 @@ Some of the most important state actions from the standpoint of early industry
 were the so-called Enclosure Acts, by which the "commons" -- the free farmland
 shared communally by the peasants in most rural villages -- was "enclosed" or
 incorporated into the estates of various landlords as private property (see
-section [8.3](append138.html#secf83)). This ensured a pool of landless workers
+section [8.3](append138.md#secf83)). This ensured a pool of landless workers
 who had no option but to sell their labour to capitalists. Indeed, the
 widespread independence caused by the possession of the majority of households
 of land caused the rising class of merchants to complain _"that men who should
@@ -275,7 +275,7 @@ stagnation."_ Unsurprisingly, the _"era of protectionism began in 1816, with
 northern agitation for higher tariffs. . . "_ [**Op. Cit.**, p. 14, p. 55]
 
 Combined with ready repression of the labour movement and government
-"homesteading" acts (see section [8.5](append138.html#secf85)), tariffs were
+"homesteading" acts (see section [8.5](append138.md#secf85)), tariffs were
 the American equivalent of mercantilism (which, after all, was above all else
 a policy of protectionism, i.e. the use of government to stimulate the growth
 of native industry). Only once America was at the top of the economic pile did
@@ -298,7 +298,7 @@ communication."_ [Richard B. Du Boff, **Op. Cit.**, p. 15]
 
 In addition to this "physical" aid, _"state government provided critical help,
 with devices like the chartered corporation"_ [**Ibid.**] and, as we noted in
-section [B.2.5](secB2.html#secb25), changes in the legal system which favoured
+section [B.2.5](secB2.md#secb25), changes in the legal system which favoured
 capitalist interests over the rest of society.
 
 Interestingly, there was increasing inequality between 1840 and 1860 in the
@@ -473,8 +473,8 @@ which can have obvious and extensive social impacts. What "libertarian"
 capitalists object to is attempts by others -- workers, society as a whole,
 the state, etc. -- to interfere with the authority of bosses. That this is
 just the defence of privilege and power (and **not** freedom) has been
-discussed in [section B](secBcon.html) and elsewhere in [ section
-F](append13con.html), so we will not repeat ourselves here.
+discussed in [section B](secBcon.md) and elsewhere in [ section
+F](append13con.md), so we will not repeat ourselves here.
 
 Samuel Johnson once observed that _"we hear the loudest **yelps** for liberty
 among the drivers of Negroes."_ Our modern "libertarian" capitalist drivers of
@@ -485,7 +485,7 @@ quoted in Noam Chomsky, **Year 501**, p. 141]
 
 Beyond being a paymaster for new forms of production and social relations and
 defending the owners' power, the state intervened economically in other ways
-as well. As we noted in section [B.2.5](secB2.html#secb25), the state played a
+as well. As we noted in section [B.2.5](secB2.md#secb25), the state played a
 key role in transforming the law codes of society in a capitalistic fashion,
 ignoring custom and common law to do so. Similarly, the use of tariffs and the
 granting of monopolies to companies played an important role in accumulating
@@ -575,7 +575,7 @@ important, as the independence and freedom of Native Americans is well
 documented. The common feature of both cultures was communal ownership of the
 means of production and free access to it (usufruct). This is discussed
 further in section I.7 ([Won't Libertarian Socialism destroy
-individuality?](secI7.html))
+individuality?](secI7.md))
 
 As the early American economist Edward Wakefield noted in 1833, _"where land
 is cheap and all are free, where every one who so pleases can easily obtain a
@@ -585,7 +585,7 @@ price."_ [**England and America**, quoted by Jeremy Brecher and Tim Costello,
 **Commonsense for Hard Times**, p. 24]
 
 The enclosure of the commons (in whatever form it took -- see section
-[8.5](append138.html#secf85) for the US equivalent) solved both problems --
+[8.5](append138.md#secf85) for the US equivalent) solved both problems --
 the high cost of labour, and the freedom and dignity of the worker. The
 enclosures perfectly illustrate the principle that capitalism requires a state
 to ensure that the majority of people do not have free access to any means of
@@ -623,7 +623,7 @@ having even a minor impact on the power or interests of the elite.
 The fact that "free market" capitalism always requires introduction by an
 authoritarian state should make all honest "Libertarians" ask: How "free" is
 the "free market"? And why, when it is introduced, do the rich get richer and
-the poor poorer? This was the case in Chile (see [Section C.11](secC11.html)).
+the poor poorer? This was the case in Chile (see [Section C.11](secC11.md)).
 For the poverty associated with the rise of capitalism in England 200 years
 ago, E.P. Thompson's **The Making of the English Working Class** provides a
 detailed discussion. Howard Zinn's **A People's History of the United States**
@@ -647,7 +647,7 @@ with nothing to sell but their labour. While this monopoly is less important
 these days in developed nations (few people know how to farm) it was essential
 as a means of consolidating capitalism. Given the choice, most people
 preferred to become independent farmers rather than wage workers (see [next
-section](append138.html#secf85)).
+section](append138.md#secf85)).
 
 However, the importance of the enclosure movement is downplayed by supporters
 of capitalism. Little wonder, for it is something of an embarrassment for them
@@ -1197,8 +1197,7 @@ of collective activity and should belong to us all (although whether and how
 we divide it up is another question).
 
 [‹ 7 How does the history of "anarcho"-capitalism show that it is not
-anarchist?](/afaq/append137.html "Go to previous page" )
-[up](/afaq/append13.html "Go to parent page" ) [9 Is Medieval Iceland an
-example of "anarcho"-capitalism working in practice? ›](/afaq/append139.html
-"Go to next page" )
+anarchist?](append137.md "Go to previous page" ) [up](append13.md "Go to
+parent page" ) [9 Is Medieval Iceland an example of "anarcho"-capitalism
+working in practice? ›](append139.md "Go to next page" )
 

@@ -2,8 +2,8 @@
 
 This section of the FAQ indicates how both statism and capitalism affect the
 society they exist in. It is a continuation of sections B ([Why do anarchists
-oppose the current system?](secBcon.html)) and C ([What are the myths of
-capitalist economics?](secCcon.html)) and it discusses the impact of the
+oppose the current system?](secBcon.md)) and C ([What are the myths of
+capitalist economics?](secCcon.md)) and it discusses the impact of the
 underlying social and power relationships within the current system on
 society.
 
@@ -121,8 +121,7 @@ enough detail for further investigation as well as an understanding of how
 anarchists analyse the current system based on our anti-authoritarian
 principles and how the political and economic aspects of capitalism interact.
 
-[‹ Section D - How do statism and capitalism affect
-society?](/afaq/secDcon.html "Go to previous page" ) [up](/afaq/secDcon.html
-"Go to parent page" ) [D.1 Why does state intervention occur?
-›](/afaq/secD1.html "Go to next page" )
+[‹ Section D - How do statism and capitalism affect society?](secDcon.md "Go
+to previous page" ) [up](secDcon.md "Go to parent page" ) [D.1 Why does
+state intervention occur? ›](secD1.md "Go to next page" )
 

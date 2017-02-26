@@ -14,7 +14,7 @@ organisation, namely explicitly anarchist organisations. In addition, we
 discuss anarcho-syndicalism, a revolutionary unionism which aims to create an
 anarchist society by anarchist tactics, as well as why many anarchists are not
 anarcho-syndicalists. The second type of organisations, popular ones, are
-discussed in [section J.5](secJ5.html). Both forms of organisation, however,
+discussed in [section J.5](secJ5.md). Both forms of organisation, however,
 share the anarchist commitment to confederalism, decentralisation, self-
 management and decision making from the bottom up. In such organisations the
 membership plays the decisive role in running them and ensuring that power
@@ -72,7 +72,7 @@ ideology of surrendering our ability to govern ourselves to an elected elite.
 In other words, they just mirror the very society we are opposed to and so
 will soon produce the very problems **within** so-called anti-capitalist
 organisations which originally motivated us to oppose capitalism in the first
-place (see [section H.5](secH5.html)). Given this, anarchists regard _"the
+place (see [section H.5](secH5.md)). Given this, anarchists regard _"the
 Marxist party as another statist form that, if it succeeded in 'seizing
 power,' would preserve the power of one human being over another, the
 authority of the leader over the led. The Marxist party . . . was a mirror
@@ -81,7 +81,7 @@ revolutionaries by bourgeois values, methods, and structures."_ [**The Spanish
 Anarchists**, pp. 179-80] As can be seen from the history of the Russian
 Revolution, this was the case with the Bolsheviks soon taking the lead in
 undermining workers' self-management, soviet democracy and, finally, democracy
-within the ruling party itself (see [section H.6](secH6.html)).
+within the ruling party itself (see [section H.6](secH6.md)).
 
 From an anarchist (i.e. materialist) point of view, this was highly
 predictable -- after all, _"facts are before ideas; yes, the ideal, as
@@ -120,7 +120,7 @@ the kind of society we want, we train ourselves in the skills and decision
 making processes required to make a free and classless society work. Means and
 ends are united and this ensures that the means used will result in the
 desired ends. Simply put, libertarian means must be used if you want
-libertarian ends (see [section H.1.6](secH1.html#sech16) for further
+libertarian ends (see [section H.1.6](secH1.md#sech16) for further
 discussion).
 
 In the sections that follow, we discuss the nature and role of anarchist
@@ -128,17 +128,17 @@ organisation. Anarchists would agree with Situationist Guy Debord that a
 _"revolutionary organisation must always remember that its objective is not
 getting people to listen to speeches by expert leaders, but getting them to
 speak for themselves."_ We organise our groups accordingly. In [section
-J.3.1](secJ3.html#secj31) we discuss the basic building block of specifically
+J.3.1](secJ3.md#secj31) we discuss the basic building block of specifically
 anarchist organisations, the **_"affinity group."_** Sections
-[J.3.2](secJ3.html#secj32), [J.3.3](secJ3.html#secj33),
-[J.3.4](secJ3.html#secj34) and [J.3.5](secJ3.html#secj35), we discuss the main
+[J.3.2](secJ3.md#secj32), [J.3.3](secJ3.md#secj33),
+[J.3.4](secJ3.md#secj34) and [J.3.5](secJ3.md#secj35), we discuss the main
 types of federations of **_affinity groups_** anarchists create to help spread
-our message and influence. Then [section J.3.6](secJ3.html#secj36) highlights
+our message and influence. Then [section J.3.6](secJ3.md#secj36) highlights
 the role these organisations play in our struggles to create an anarchist
-society. In [section J.3.7](secJ3.html#secj37), we analyse Bakunin's
+society. In [section J.3.7](secJ3.md#secj37), we analyse Bakunin's
 unfortunate expression _"Invisible Dictatorship"_ in order to show how many
 Marxists distort Bakunin's ideas on this matter. Finally, in sections
-[J.3.8](secJ3.html#secj38) and [J.3.9](secJ3.html#secj39) we discuss anarcho-
+[J.3.8](secJ3.md#secj38) and [J.3.9](secJ3.md#secj39) we discuss anarcho-
 syndicalism and other anarchists attitudes to it.
 
 Anarchist organisations, therefore, aim to enrich social struggle by their
@@ -230,7 +230,7 @@ groups are the means by which anarchists actually intervene in social
 movements and struggles in order to win people to the anarchist idea and so
 help transform them from struggles **against** injustice into struggles
 **for** a free society. We will discuss the role these groups play in
-anarchist theory in [section J.3.6](secJ3.html#secj36).
+anarchist theory in [section J.3.6](secJ3.md#secj36).
 
 These basic affinity groups are not seen as being enough in themselves. Most
 anarchists see the need for local groups to work together with others in a
@@ -254,10 +254,10 @@ which, in isolation, would be either impossible or ineffective."_ [Malatesta,
 To aid in this process of propaganda, agitation, political discussion and
 development, anarchists organise federations of affinity groups. These take
 three main forms, **_"synthesis"_** federations (see [section
-J.3.2](secJ3.html#secj32)), **_"Platformist"_** federations (see [section
-J.3.3](secJ3.html#secj33) while [section J.3.4](secJ3.html#secj34) has
+J.3.2](secJ3.md#secj32)), **_"Platformist"_** federations (see [section
+J.3.3](secJ3.md#secj33) while [section J.3.4](secJ3.md#secj34) has
 criticism of this tendency) and **_"class struggle"_** groups (see [section
-J.3.5](secJ3.html#secj35)). All the various types of federation are based on
+J.3.5](secJ3.md#secj35)). All the various types of federation are based on
 groups of anarchists organising themselves in a libertarian fashion. This is
 because anarchists try to live by the values of the future to the extent that
 this is possible under capitalism and try to develop organisations based upon
@@ -333,7 +333,7 @@ So, as can be seen, the "synthesis" tendency aims to unite all anarchists (be
 they individualist, mutualist, syndicalist or communist) into one common
 federation. Thus the "synthesis" viewpoint is "inclusive" and obviously has
 affinities with the _"anarchism without adjectives"_ approach favoured by many
-anarchists (see [section A.3.8](secA3.html#seca38)). However, in practice many
+anarchists (see [section A.3.8](secA3.md#seca38)). However, in practice many
 "synthesis" organisations are more restrictive (for example, they could aim to
 unite all **social** anarchists) and so there can be a difference between the
 general idea of the synthesis and how it is concretely applied.
@@ -364,7 +364,7 @@ action is opened to them for ideological, social and creative activity without
 assuming a position of superiority over the masses. Above all they must fulfil
 their ideological and ethical influence in a free and natural manner . . .
 [they] offer ideological assistance, but not in the role of leaders."_ [**Op.
-Cit.**, p. 33] This, as we shall see in [section J.3.6](secJ3.html#secj36), is
+Cit.**, p. 33] This, as we shall see in [section J.3.6](secJ3.md#secj36), is
 the common anarchist position as regards the role of an anarchist group.
 
 The great strength of "synthesis" federations, obviously, is that they allow a
@@ -388,7 +388,7 @@ for understanding, not only among anarchists, but among different conceptions
 of anarchism."_ [**Op. Cit.**, p. 35]
 
 The "synthesis" idea for anarchist organisation was taken up by those who
-opposed the Platform (see [next section](secJ3.html#secj33)). For both Faure
+opposed the Platform (see [next section](secJ3.md#secj33)). For both Faure
 and Voline, the basic idea was the same, namely that the various tendencies in
 anarchism must co-operate and work in the same organisation. However, there
 are differences between Voline's and Faure's points of view. The latter saw
@@ -475,7 +475,7 @@ movement, an assembly which would inevitably disintegrate on encountering
 reality."_ [**The Organisational Platform of the Libertarian Communists**, p.
 12] The Platform suggested _"Theoretical and Tactical Unity"_ as a means of
 overcoming this problem, but that term provoked massive disagreement in
-anarchist circles (see [section J.3.4](secJ3.html#secj34)). In reply to the
+anarchist circles (see [section J.3.4](secJ3.md#secj34)). In reply to the
 Platform, supporters of the "synthesis" counter by pointing to the fact that
 "Platformist" groups are usually very small, far smaller that "synthesis"
 federations (for example, compare the size of the **French Anarchist
@@ -497,10 +497,10 @@ problem lies in misunderstanding it rather than in the theory itself (as can
 be seen from mainland Europe, "synthesis" inspired federations can be **very**
 successful). Non-supporters are more critical, with some supporting the
 "Platform" as a more effective means of organising to spread anarchist ideas
-and influence (see the [next section](secJ3.html#secj33)). Other social
+and influence (see the [next section](secJ3.md#secj33)). Other social
 anarchists create the "class struggle" type of federation (this is a common
 organisational form in Britain, for example) as discussed in [section
-J.3.5](secJ3.html#secj35).
+J.3.5](secJ3.md#secj35).
 
 ## J.3.3 What is the "Platform"?
 
@@ -514,17 +514,17 @@ intense debate (and still does in many anarchist circles) between supporters
 of the Platform (usually called "Platformists") and those who oppose it (which
 includes other communist-anarchists, anarcho-syndicalists and supporters of
 the "synthesis"). We will discuss why many anarchists oppose the Platform in
-the [next section](secJ3.html#secj34). Here we discuss what the Platform
+the [next section](secJ3.md#secj34). Here we discuss what the Platform
 argued for.
 
-Like the "synthesis" federation (see [last section](secJ3.html#secj32)), the
+Like the "synthesis" federation (see [last section](secJ3.md#secj32)), the
 Platform was created in response to the experiences of the Russian Revolution.
 The authors of the Platform (like Voline and other supporters of the
 "synthesis") had participated in that Revolution and saw all their work, hopes
 and dreams fail as the Bolshevik state triumphed and destroyed any chances of
 socialism by undermining soviet democracy, workers' self-management of
 production, trade union democracy as well as fundamental individual freedoms
-and rights (see the [section H.6](secH6.html) for details). Moreover, the
+and rights (see the [section H.6](secH6.md) for details). Moreover, the
 authors of the Platform had been leading activists in the Makhnovist movement
 in the Ukraine which had successfully resisted both White and Red armies in
 the name of working class self-determination and anarchism. Facing the same
@@ -617,7 +617,7 @@ movement (for example, free federation, self-management in mass assemblies,
 mandating of delegates, decentralisation, etc.) do not get undermined by
 statists and authoritarians who have their own agendas. This would be done by
 actively working in mass organisation and winning people to libertarian ideas
-and practices by argument (see [section J.3.6](secJ3.html#secj36)).
+and practices by argument (see [section J.3.6](secJ3.md#secj36)).
 
 However, these principles do not, in themselves, determine a Platformist
 organisation. After all, most anarcho-syndicalists and non-Platformist
@@ -708,7 +708,7 @@ executive committee are fixed by the congress of the Union. [**Op. Cit.**, p.
 34]
 
 This suggestion, unsurprisingly, meet with strong disapproval by most
-anarchists, as we will see in the [next section](secJ3.html#secj34), who
+anarchists, as we will see in the [next section](secJ3.md#secj34), who
 argued that this would turn the anarchist movement into a centralised,
 hierarchical party similar to the Bolsheviks. Needless to say, supporters of
 the Platform reject this argument and point out that the Platform itself is
@@ -741,7 +741,7 @@ Platformist and Platformist influenced organisations in the world today, such
 as the Irish **Workers Solidarity Movement** and Italian **Federation of
 Anarchist Communists**.
 
-In the [next section](secJ3.html#secj34) we discuss the objections that most
+In the [next section](secJ3.md#secj34) we discuss the objections that most
 anarchists have towards the Platform.
 
 ## J.3.4 Why do many anarchists oppose the "Platform"?
@@ -815,7 +815,7 @@ neither to political power nor dictatorship"_ and so they would hardly be
 urging the opposite principles within the trade union movement. [**The
 Organisational Platform of the Libertarian Communists**, p. 25 and p. 21] If
 we take the Platform's comments within a context informed by the _"leadership
-of ideas"_ concept (see [section J.3.6](secJ3.html#secj36)) then what they
+of ideas"_ concept (see [section J.3.6](secJ3.md#secj36)) then what they
 meant was simply that the anarchist group would convince the union members of
 the validity of their ideas by argument which was something Maximoff did not
 disagree with. In short, the disagreement becomes one of unclear (or bad) use
@@ -888,7 +888,7 @@ and so we would be justified in saying that this is the key issue dividing
 "Platformists" from other anarchists.
 
 So in what way did Malatesta disagree with this concept? As we mentioned in
-the [last section](secJ3.html#secj33), the Platform defined the idea of
+the [last section](secJ3.md#secj33), the Platform defined the idea of
 "Collective Responsibility" as _"the entire Union will be responsible for the
 political and revolutionary activity of each member; in the same way, each
 member will be responsible for the political and revolutionary activity of the
@@ -993,7 +993,7 @@ While many anarchists are critical of Platformist groups for being too
 centralised for their liking, it is the case that the Platform has influenced
 many anarchist organisations, even non-Platformist ones (this can be seen in
 the "class struggle" groups discussed in the [next
-section](secJ3.html#secj35)). This influence has been both ways, with the
+section](secJ3.md#secj35)). This influence has been both ways, with the
 criticism the original Platform was subjected to having had an effect on how
 Platformist groups have developed. This, of course, does not imply that there
 is little or no difference between Platformists and other anarchists.
@@ -1166,7 +1166,7 @@ Anarchists stress the difference of this concept with authoritarian notions of
 "leadership" such as Leninist ones. While both anarchist and Leninist
 organisations exist to overcome the problem of "uneven development" within the
 working class, the aims, role and structure of these groups could not be more
-different (as discussed in [section H.5](secH5.html), anarchists reject the
+different (as discussed in [section H.5](secH5.md), anarchists reject the
 assumptions and practice of vanguardism as incompatible with genuine
 socialism).
 
@@ -1305,7 +1305,7 @@ anarchist ideas to be commonplace in society and in popular organisations, so
 that leadership by people from positions of power is replaced by the _"natural
 influence"_ (to use Bakunin's term) of activists within the rank and file on
 the decisions made **by** the rank and file. While we will discuss Bakunin's
-ideas in more detail in [section J.3.7](secJ3.html#secj37), the concept of
+ideas in more detail in [section J.3.7](secJ3.md#secj37), the concept of
 _"natural influence"_ can be gathered from this comment of Francisco Ascaso
 (friend of Durruti and an influential anarchist militant in the CNT and FAI in
 his own right):
@@ -1392,7 +1392,7 @@ manipulated by others -- even by those allegedly acting on their behalf."_
 
 Part of this "meaningful action" involves encouraging people to **_"act for
 yourselves"_** (to use Kropotkin's words). As we noted in [section
-A.2.7](secA2.html#seca27), anarchism is based on **self**-liberation and self-
+A.2.7](secA2.md#seca27), anarchism is based on **self**-liberation and self-
 activity is key aspect of this. Hence Malatesta's argument:
 
 > _"Our task is that of 'pushing' the people to demand and to seize all the
@@ -1414,7 +1414,7 @@ struggle and popular organisations.
 
 As such social struggle develops, the possibility of revolution becomes closer
 and closer. While we discuss anarchists ideas on social revolution in [section
-J.7](secJ7.html), we must note here that the role of the anarchist
+J.7](secJ7.md), we must note here that the role of the anarchist
 organisation does not change. As Bookchin argued, anarchists _"seek to
 persuade the factory committees, assemblies"_ and other organisations created
 by people in struggle _"to make themselves into **genuine organs of popular
@@ -1444,7 +1444,7 @@ a _"profound authoritarian and dissimulating streak in his life and work."_
 straight about this aspect of Bakunin's theory is of more importance than just
 correcting a few Leninists. In addition, to do so will help clarify the
 concept of _"leadership of ideas"_ we discussed in the [last
-section](secJ3.html#secj36). For both these reasons, this section, while
+section](secJ3.md#secj36). For both these reasons, this section, while
 initially appearing somewhat redundant and of interest only to academics, is
 of a far wider interest.
 
@@ -1822,7 +1822,7 @@ p. 149]
 
 ## J.3.8 What is anarcho-syndicalism?
 
-Anarcho-syndicalism (as mentioned in [section A.3.2](secA3.html#seca32)) is a
+Anarcho-syndicalism (as mentioned in [section A.3.2](secA3.md#seca32)) is a
 form of anarchism which applies itself (primarily) to creating industrial
 unions organised in an anarchist manner, using anarchist tactics (such as
 direct action) to create a free society. To quote _"The Principles of
@@ -1870,7 +1870,7 @@ syndicalists, for example) but we will ignore these in our discussion. We will
 use the term syndicalism to describe what each branch has in common.
 
 The syndicalist union is a self-managed industrial union (see [section
-J.5.2](secJ5.html#secj52)) which is committed to **direct action** and refuses
+J.5.2](secJ5.md#secj52)) which is committed to **direct action** and refuses
 links with political parties, even labour or "socialist" ones. A key idea of
 syndicalism is that of union autonomy -- the idea that the workers'
 organisation is capable of changing society by its own efforts, that it must
@@ -1928,7 +1928,7 @@ issues and aiming for political reforms along with economic ones. It is only
 "apolitical" when it comes to supporting political parties and using bourgeois
 political institutions, a position which is "political" in the wider sense of
 course! This is obviously identical to the usual anarchist position (see
-[section J.2.10](secJ2.html#secj210)).
+[section J.2.10](secJ2.md#secj210)).
 
 Which indicates an importance difference between syndicalism and trade
 unionism. Syndicalism aims at changing society rather than just working within
@@ -1995,7 +1995,7 @@ concentrated on the industrial side here (simply because this is a key aspect
 of syndicalism) we must stress that syndicalism can and does lend itself to
 community struggles. It is a myth that anarcho-syndicalism ignores community
 struggles and organisation, as can be seen from the history of the Spanish CNT
-for example (see [section J.5.1](secJ5.html#secj51)).
+for example (see [section J.5.1](secJ5.md#secj51)).
 
 It must be stressed that a syndicalist union is open to all workers regardless
 of their political opinions (or lack of them). The union exists to defend
@@ -2027,14 +2027,14 @@ bureaucratic union machinery and of trying to reform it, they split from the
 reformist unions and formed new, revolutionary, ones. Similarly, dual
 unionists will happily support trade unionists in struggle and often be "two
 carders" (i.e. members of both the trade union and the syndicalist one). See
-[section J.5.3](secJ5.html#secj53) for more on anarchist perspectives on
+[section J.5.3](secJ5.md#secj53) for more on anarchist perspectives on
 existing trades unions.
 
 Syndicalists no matter what tactics they prefer, favour autonomous workplace
 organisations, controlled from below. Both tend to favour syndicalists forming
 networks of militants to spread anarchist/syndicalist ideas within the
 workplace. Indeed, such a network (usually called _"Industrial Networks"_ \--
-see [section J.5.4](secJ5.html#secj54) for more details) would be an initial
+see [section J.5.4](secJ5.md#secj54) for more details) would be an initial
 stage and essential means for creating syndicalist unions. These groups would
 encourage syndicalist tactics and rank and file organisation during struggles
 and so create the potential for building syndicalist unions as libertarian
@@ -2095,7 +2095,7 @@ resembling the 'Chicago Idea' [of the **IWPA**], the IWW's principles of
 industrial unionism resulted from the conscious efforts of anarchists . . .
 who continued to affirm . . . the principles which the Chicago anarchists gave
 their lives defending."_ [Salvatore Salerno, **Red November, Black November**,
-p. 51 and p. 79] See [section H.2.8](secH2.html#sech28) for a discussion of
+p. 51 and p. 79] See [section H.2.8](secH2.md#sech28) for a discussion of
 why Marxist claims that syndicalism and anarchism are unrelated are obviously
 false.
 
@@ -2128,7 +2128,7 @@ anarchists, leading those anarchists who are syndicalists to often use the
 term "anarcho-syndicalism" to indicate that they are both anarchists and
 syndicalists as well as to stress the libertarian roots of syndicalism. In
 addition, not all anarchists are syndicalists. We discuss the reasons for this
-in the [next section](secJ3.html#secj39).
+in the [next section](secJ3.md#secj39).
 
 For more information on anarcho-syndicalist ideas, Rudolf Rocker's **Anarcho-
 Syndicalism** is still the classic introduction to the subject. The collection
@@ -2435,7 +2435,7 @@ fullest unfolding of the International."_ [**Bakunin on Anarchism**, p. 157]
 Nor did it imply that anarchists think that unions and other forms of popular
 organisations should be controlled by anarchists. Far from it! Anarchists are
 the strongest supporters of the autonomy of all popular organisations. As we
-indicated in [section J.3.6](secJ3.html#secj36), anarchists desire to
+indicated in [section J.3.6](secJ3.md#secj36), anarchists desire to
 influence popular organisations by the strength of our ideas within the rank
 and file and **not** by imposing our ideas on them.
 
@@ -2486,7 +2486,7 @@ should work within the labour movement. **The Anarchist Reader** contains the
 famous debate between the syndicalist Pierre Monatte and Malatesta at the
 International Anarchist conference in Amsterdam in 1907.
 
-[‹ J.2 What is direct action?](/afaq/secJ2.html "Go to previous page" )
-[up](/afaq/secJcon.html "Go to parent page" ) [J.4 What trends in society aid
-anarchist activity? ›](/afaq/secJ4.html "Go to next page" )
+[‹ J.2 What is direct action?](secJ2.md "Go to previous page" )
+[up](secJcon.md "Go to parent page" ) [J.4 What trends in society aid
+anarchist activity? ›](secJ4.md "Go to next page" )
 

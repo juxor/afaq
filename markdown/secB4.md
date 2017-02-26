@@ -29,7 +29,7 @@ In response to this, defenders of capitalism usually say something along the
 lines of _"It's a free market and if you don't like it, find another job."_ Of
 course, there are a number of problems with this response. Most obviously is
 the fact that capitalism is not and has never been a "free market." As we
-noted in [section B.2](secB2.html), a key role of the state has been to
+noted in [section B.2](secB2.md), a key role of the state has been to
 protect the interests of the capitalist class and, as a consequence of this,
 it has intervened time and time again to skew the market in favour of the
 bosses. As such, to inform us that capitalism is something it has never been
@@ -45,7 +45,7 @@ ability to pick a master with freedom, that consent equates to liberty --
 regardless of the objective circumstances shaping the choices being made or
 the nature of the social relationships such choices produce.
 
-While we return to this argument in [section B.4.3](secB4.html#secb43), a few
+While we return to this argument in [section B.4.3](secB4.md#secb43), a few
 words seem appropriate now. To see why the capitalist response misses the
 point, we need only transfer the argument from the economic regime to the
 political. Let us assume a system of dictatorial states on an island. Each
@@ -178,10 +178,10 @@ functions which are of its essence: for without the **gendarme** the property
 owner could not exist."_ [Errico Malatesta, **Anarchy**, p. 47]
 
 We have discussed the state and how the ruling elite control in [section
-B.2](secB2.html) and will not do so here. Nor we will discuss the ways in
+B.2](secB2.md) and will not do so here. Nor we will discuss the ways in
 which the elite use that state to enforce private property (see [section
-B.3](secB3.html)) or use the state to intervene in society (see [section
-D.1](secD1.html)). Rather, the rest of this section will discuss how
+B.3](secB3.md)) or use the state to intervene in society (see [section
+D.1](secD1.md)). Rather, the rest of this section will discuss how
 capitalism impacts on freedom and autonomy and why the standard apologetics by
 defenders of capitalism fail.
 
@@ -331,7 +331,7 @@ them, and both sides must receive roughly equivalent benefit. But social
 relations between capitalists and employees can never be equal, because
 private ownership of the means of production gives rise to social hierarchy
 and relations of coercive authority and subordination, as was recognised even
-by Adam Smith (see [below](secB4.html#secb43)).
+by Adam Smith (see [below](secB4.md#secb43)).
 
 The picture painted by Walter Reuther (one time head of the US autoworkers'
 union) of working life in America before the Wagner act is a commentary on
@@ -475,7 +475,7 @@ and so they become a **denial** of freedom and a source of authority and power
 over the individual.
 
 As we've seen in the discussion of hierarchy (sections
-[A.2.8](secA2.html#seca28) and [B.1](secB1.html)), all forms of authoritarian
+[A.2.8](secA2.md#seca28) and [B.1](secB1.md)), all forms of authoritarian
 control depend on _"coercive molestation"_ \-- i.e. the use or threat of
 sanctions. This is definitely the case in company hierarchies under
 capitalism. Bob Black describes the authoritarian nature of capitalism as
@@ -512,7 +512,7 @@ capitalism is not based on it. Ironically, the theory of "self-ownership" is
 used to undercut and destroy genuine self-ownership during working hours (and,
 potentially, elsewhere). The logic is simple. As I own myself I am, therefore,
 able to sell myself as well, although few advocates of "self-ownership" are as
-blunt as this (as we discuss in [section F.2.2](secF2.html#secf22) right-
+blunt as this (as we discuss in [section F.2.2](secF2.md#secf22) right-
 libertarian Robert Nozick accepts that voluntary slavery flows from this
 principle). Instead they stress that we "own" our labour and we contract them
 to others to use. Yet, unlike other forms of property, labour cannot be
@@ -574,7 +574,7 @@ slavery while _"**voluntary** slavery is sanctioned in the Bible."_ [Ellerman,
 **Op. Cit.**, p. 115 and p. 114]). Yet the fact that under wage slavery people
 are not forced to take a specific job and can change masters does not change
 the relations of authority created between the two parties. As we note in the
-[next section](secB4.html#secb43), the objection that people can leave their
+[next section](secB4.md#secb43), the objection that people can leave their
 jobs just amounts to saying "love it or leave it!" and does not address the
 issue at hand. The vast majority of the population cannot avoid wage labour
 and remain wage workers for most of their adult lives. It is virtually
@@ -729,7 +729,7 @@ reality, private property will need to be abolished.
 
 For more discussion of the limitations, contradictions and fallacies of
 defining liberty in terms of self-ownership and property rights, see [section
-F.2](secF2.html).
+F.2](secF2.md).
 
 ## B.4.3 But no one forces you to work for them!
 
@@ -911,7 +911,7 @@ the ninetheenth century economy. . . did not prevent prolonged recessions)"_
 [**Keynes in the 1990s**, p. 31] Workers "reducing their demands" may actually
 worsen an economic slump, causing more unemployment in the short run and
 lengthening the length of the crisis. We address the issue of unemployment and
-workers "reducing their demands" in more detail in [section C.9](secC9.html)).
+workers "reducing their demands" in more detail in [section C.9](secC9.md)).
 
 It is sometimes argued that capital needs labour, so both have an equal say in
 the terms offered, and hence the labour market is based on "liberty." But for
@@ -955,7 +955,7 @@ out and purchase labour... **but not in the same measure** . . . [there is no]
 equality between those who offer their labour and those who purchase it."_
 [**Op. Cit.**, p. 183] This ensures that any "free agreements" made benefit
 the capitalists more than the workers (see the [next
-section](secB4.html#secb44) on periods of full employment, when conditions
+section](secB4.md#secb44) on periods of full employment, when conditions
 tilt in favour of working people).
 
 Lastly, there is the issue of inequalities in wealth and so resources. The
@@ -1000,7 +1000,7 @@ Of course there are periods when the demand for labour exceeds supply, but
 these periods hold the seeds of depression for capitalism, as workers are in
 an excellent position to challenge, both individually and collectively, their
 allotted role as commodities. This point is discussed in more detail in
-section C.7 ([What causes the capitalist business cycle? ](secC7.html)) and so
+section C.7 ([What causes the capitalist business cycle? ](secC7.md)) and so
 we will not do so here. For now it's enough to point out that during normal
 times (i.e. over most of the business cycle), capitalists often enjoy
 extensive authority over workers, an authority deriving from the unequal
@@ -1076,7 +1076,7 @@ be consumed or destroyed."_ Instead, as thinking and feeling people, they act
 to reclaim their freedom and humanity.
 
 As noted at the beginning of this section, the economic effects of such
-periods of empowerment and revolt are discussed in [section C.7](secC7.html).
+periods of empowerment and revolt are discussed in [section C.7](secC7.md).
 We will end by quoting the Polish economist Michal Kalecki, who noted that a
 continuous capitalist boom would **not** be in the interests of the ruling
 class. In 1943, in response to the more optimistic Keynesians, he noted that
@@ -1117,7 +1117,7 @@ unemployment are not only unavoidable but are necessary to capitalism in order
 to _"discipline"_ workers and _"teach them a lesson."_ And in all, it is
 little wonder that capitalism rarely produces periods approximating full
 employment -- they are **not** in its interests (see also section
-[C.9](secC9.html)). The dynamics of capitalism makes recession and
+[C.9](secC9.md)). The dynamics of capitalism makes recession and
 unemployment inevitable, just as it makes class struggle (which creates these
 dynamics) inevitable.
 
@@ -1134,7 +1134,7 @@ Stirner **The Ego and Its Own**, p. 268]
 
 Capitalism cannot let us _"take breath"_ simply because it needs to grow or
 die, which puts constant pressure on both workers and capitalists (see
-[section D.4.1](secD4.html#secd41)). Workers can never relax or be free of
+[section D.4.1](secD4.md#secd41)). Workers can never relax or be free of
 anxiety about losing their jobs, because if they do not work, they do not eat,
 nor can they ensure that their children will get a better life. Within the
 workplace, they are not "left alone" by their bosses in order to manage their
@@ -1201,7 +1201,7 @@ we're all one, for manufacturing reasons, we must share in the fruits
 equitably, just like a co-op business."_ [GE Pilot Program worker, quoted by
 Noble, **Op. Cit.**, p. 295]).
 
-As we argue in more detail in [ section J.5.12](secJ5.html#secj512), profit
+As we argue in more detail in [ section J.5.12](secJ5.md#secj512), profit
 maximisation can work against efficiency, meaning that capitalism can harm the
 overall economy by promoting less efficient production techniques (i.e.
 hierarchical ones against egalitarian ones) because it is in the interests of
@@ -1228,7 +1228,7 @@ slave.
 
 Moreover, capitalists themselves cannot relax because they must ensure their
 workers' productivity rises faster than their workers' wages, otherwise their
-business will fail (see sections [C.2](secC2.html) and [C.3](secC3.html)).
+business will fail (see sections [C.2](secC2.md) and [C.3](secC3.md)).
 This means that every company has to innovate or be left behind, to be put out
 of business or work. Hence the boss is not "left alone" -- their decisions are
 made under the duress of market forces, of the necessities imposed by
@@ -1271,7 +1271,7 @@ never "leave one alone," but instead, crush one's individuality and freedom.
 Yet this aspect of capitalism conflicts with the human "instinct for freedom,"
 as Noam Chomsky describes it, and hence there arises a counter-tendency toward
 radicalisation and rebellion among any oppressed people (see [section
-J](secJcon.html)).
+J](secJcon.md)).
 
 One last point. The desire to "be left alone" often expresses two drastically
 different ideas -- the wish to be your own master and manage your own affairs
@@ -1305,8 +1305,7 @@ is handicapped by its hierarchical and competitive nature -- and how such a
 desire can be twisted into a means of enhancing the power of the few over the
 many.
 
-[‹ B.3 Why are anarchists against private property?](/afaq/secB3.html "Go to
-previous page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.5 Is
-capitalism empowering and based on human action? ›](/afaq/secB5.html "Go to
-next page" )
+[‹ B.3 Why are anarchists against private property?](secB3.md "Go to
+previous page" ) [up](secBcon.md "Go to parent page" ) [B.5 Is capitalism
+empowering and based on human action? ›](secB5.md "Go to next page" )
 

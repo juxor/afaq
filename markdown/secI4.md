@@ -29,7 +29,7 @@ Syndicalism**, p. 9]
 So given the common ideals and aims of anarchists, it is unsurprising that the
 economic systems we suggest have common features such as workers' self-
 management, federation, free agreement and so on (as discussed in [last
-section](secI3.html)). For all anarchists, the _"task for a modern industrial
+section](secI3.md)). For all anarchists, the _"task for a modern industrial
 society is to achieve what is now technically realisable, namely, a society
 which is really based on free voluntary participation of people who produce
 and create, live their lives freely within institutions they control, and with
@@ -158,7 +158,7 @@ markets or quasi-perfect ones) as opposed to its reality. A perfectly working
 capitalist system only exists in text books and in the heads of ideologues who
 take the theory as reality. No system is perfect, particularly capitalism, and
 to compare "perfect" text-book capitalism with any real system is a pointless
-task. As we discussed in depth in [section C](secCcon.html), capitalist
+task. As we discussed in depth in [section C](secCcon.md), capitalist
 economics does not even describe the reality of capitalism so why think it
 would enlighten discussion of post-capitalist systems? What hope does it have
 of understanding post-capitalist systems which reject its proprietary
@@ -201,7 +201,7 @@ solidarity, as capitalism regularly does."_ [**Hatta Shuzo and Pure Anarchism
 in Interwar Japan**, pp. 191-3]
 
 Finally, anarchists are well aware that transforming how an economy works does
-not happen overnight. As discussed in [section I.2.2](secI2.html#seci22), we
+not happen overnight. As discussed in [section I.2.2](secI2.md#seci22), we
 have long rejected the idea of instantaneous social transformation and argued
 that revolution will take time to develop and change the legacy of centuries
 of class and hierarchical society. This transformation and the resulting
@@ -305,7 +305,7 @@ live to toil."_ [William Morris, **Useful Work Versus Useless Toil**, p. 37]
 In addition, we must stress that the aim of economic activity within an
 anarchist society is **not** to create equality of outcome -- i.e. everyone
 getting exactly the same goods. As we noted in [section
-A.2.5](secA2.html#seca25), such a "vision" of "equality" attributed to
+A.2.5](secA2.md#seca25), such a "vision" of "equality" attributed to
 socialists by pro-capitalists indicates more the poverty of imagination and
 ethics of the critics of socialism than a true account of socialist ideas.
 Anarchists, like other genuine socialists, support **social** equality in
@@ -546,7 +546,7 @@ despotism. The two mutually augment one another, and they are fed from the
 same source."_ [Rudolph Rocker, **Anarcho-Syndicalism**, p. 2]
 
 One last point on the abolition of work. May 1st -- International Workers' Day
--- was, as we discussed in [section A.5.2](secA5.html#seca52), created to
+-- was, as we discussed in [section A.5.2](secA5.md#seca52), created to
 commemorate the Chicago Anarchist Martyrs. Anarchists then, as now, think that
 it should be celebrated by strike action and mass demonstrations. In other
 words, for anarchists, International Workers' Day should be a non-work day!
@@ -668,7 +668,7 @@ Work will become, primarily, the expression of a person's pleasure in what
 they are doing and become like an art -- an expression of their creativity and
 individuality. Work as an art will become expressed in the workplace as well
 as the work process, with workplaces transformed and integrated into the local
-community and environment (see [section I.4.15](secI4.html#seci415)). This
+community and environment (see [section I.4.15](secI4.md#seci415)). This
 will obviously apply to work conducted in the home as well, otherwise the
 _"revolution, intoxicated with the beautiful words, Liberty, Equality,
 Solidarity, would not be a revolution if it maintained slavery at home. Half
@@ -683,7 +683,7 @@ seems needful"_") into _"**productive play**_". [Bob Black, _"Smokestack
 Lightning"_, **Friendly Fire**, p. 48 and p. 49]
 
 Workers' self-management of production (see [section
-I.3.2](secI3.html#seci32)) would be the means of achieving this. Only those
+I.3.2](secI3.md#seci32)) would be the means of achieving this. Only those
 subject to a specific mode of working can be in a position to transform it and
 their workplace into something fit for free individuals to create in. Only
 those who know a workplace which would only exist in a hierarchical system
@@ -783,7 +783,7 @@ capitalism do, ultimately, argue for.
 Secondly, capitalist firms are not neutral structures but rather a system of
 hierarchies, with entrenched interests and needs. Managers will only introduce
 a work technique that maintains their power (and so their profits). As we
-argue in [section J.5.12](secJ5.html#secj512), while experiments in workers'
+argue in [section J.5.12](secJ5.md#secj512), while experiments in workers'
 participation see a rise in efficiency and productivity, managers stop them
 simply because they recognise that workers' control undercuts their power by
 empowering workers who then can fight for a greater slice of the value they
@@ -883,7 +883,7 @@ in association will make "plans" and "plan", the important question is who
 does the planning and who does the work. Only in anarchy are both functions
 united into the same people). The _"planned administration of things"_ would
 be done by the producers **themselves,** in their independent groupings. This
-would likely take the form (as we indicated in [section I.3](secI3.html)) of
+would likely take the form (as we indicated in [section I.3](secI3.md)) of
 confederations of syndicates who communicate information between themselves
 and respond to changes in the production and distribution of products by
 increasing or decreasing the required means of production in a co-operative
@@ -945,7 +945,7 @@ necessary work as would syndicates whose work was considered dangerous or
 unwanted. In such circumstances, volunteers could arrange doing a few hours of
 such activity for more free time or it could be agreed that one hour of such
 unwanted positions equals more hours in a more desired one (see [section
-I.4.13](secI4.html#seci413) for more on this). Needless to say, the aim of
+I.4.13](secI4.md#seci413) for more on this). Needless to say, the aim of
 technological progress would be to eliminate unpleasant and unwanted tasks and
 to reduce the basic working week more and more until the very concept of
 necessary "work" and free time enjoyments is abolished. Anarchists are
@@ -965,7 +965,7 @@ interactions between individuals. The law of "supply and demand" easily, and
 often, makes a mockery of the ideas that individuals can work as long as they
 like - usually they end up working as long as required by market forces (i.e.
 the actions of other individuals, but turned into a force outwith their
-control, see [section I.1.3](secI1.html#seci13)). This means that individuals
+control, see [section I.1.3](secI1.md#seci13)). This means that individuals
 do not work as long as they like, but as long as they have to in order to
 survive. Knowing that "market forces" is the cause of long hours of work
 hardly makes them any nicer.
@@ -1002,7 +1002,7 @@ circumstances and social desires will determine what is introduced during a
 revolution (for example, while Kropotkin was a communist-anarchist and
 considered it essential that a revolution proceed towards communism as quickly
 as possible, he was aware that it was unlikely it would be introduced fully
-immediately -- see [section I.2.2](secI2.html#seci22) for details). However,
+immediately -- see [section I.2.2](secI2.md#seci22) for details). However,
 we will outline some possible means of economic decision making criteria as
 this question is an important one and so we will indicate what possible
 solutions exist in different forms of anarchism.
@@ -1060,7 +1060,7 @@ Anarchism**, p. 366 and p. 367] The workers syndicates would still determine
 what orders to produce and each commune would be free to choose its suppliers.
 
 As will be discussed in more depth later (see [section
-I.4.8](secI4.html#seci48)) information about consumption patterns will be
+I.4.8](secI4.md#seci48)) information about consumption patterns will be
 recorded and used by workers to inform their production and investment
 decisions. In addition, we can imagine that production syndicates would
 encourage communes as well as consumer groups and co-operatives to participate
@@ -1154,9 +1154,9 @@ production price plus a mark-up based on the degree of monopoly in a market,
 in the short term prices can change as a result of changes in supply and
 demand). How a communist society could take into account such short term
 changes and communicate them through out the economy is discussed in [section
-I.4.5](secI4.html#seci45). Moreover, it is likely that they will factor in the
+I.4.5](secI4.md#seci45). Moreover, it is likely that they will factor in the
 desirability of the work performed to indicate the potential waste in human
-time involved in production (see [section I.4.13](secI4.html#seci413) for a
+time involved in production (see [section I.4.13](secI4.md#seci413) for a
 discussion of how this could be done). The logic behind this is simple, a
 resource which people **like** to produce will be a better use of the scare
 resource of an individual's time than one people hate producing. Another key
@@ -1183,7 +1183,7 @@ so forth (the negative use-values) along with their relative availability.
 
 The data for a given workplace could be compared to the industry as a whole
 (as confederations of syndicates would gather and produce such information --
-see [section I.3.5](secI3.html#seci35)) in order to determine whether a
+see [section I.3.5](secI3.md#seci35)) in order to determine whether a
 specific workplace will efficiently produce the required goods (this system
 has the additional advantage of indicating which workplaces require investment
 to bring them in line, or improve upon, the industrial average in terms of
@@ -1201,7 +1201,7 @@ by social considerations and "unreasonable" requests ignored (for example, if
 an individual states they "need" a ship-builders syndicate to build a ship for
 their personal use, the ship-builders may not "need" to build it and instead
 build ships for communal use, freely available for all to use in turn -- see
-[section I.4.6](secI4.html#seci46)). However, in almost all cases of
+[section I.4.6](secI4.md#seci46)). However, in almost all cases of
 individual consumption, no such information will be needed as communal stores
 would order consumer goods in bulk as they do now. Hence the economy would be
 a vast network of co-operating individuals and workplaces and the dispersed
@@ -1219,8 +1219,8 @@ knowledge of the detailed circumstances of their workplaces and communities to
 decide how they can best use their productive capacity. In this way the
 division of knowledge within society can be used by the syndicates effectively
 as well as overcoming the restrictions within knowledge communication imposed
-by the price mechanism (see [section I.1.2](secI1.html#seci12)) and workplaces
-hierarchies within capitalism (see [section I.1.1](secI1.html#seci11)).
+by the price mechanism (see [section I.1.2](secI1.md#seci12)) and workplaces
+hierarchies within capitalism (see [section I.1.1](secI1.md#seci11)).
 
 Moreover, production units, by their association within confederations ensure
 that there is effective communication between them. This results in a process
@@ -1288,7 +1288,7 @@ capitalist market -- marked as it is by differences in bargaining and market
 power, externalities and wage labour -- soon shows that the claims that prices
 accurately reflect costs is simply not accurate. However, it may be such that
 objective circumstances preclude the immediate introduction of libertarian
-communism (as discussed in [section I.2.2](secI2.html#seci22), many communist
+communism (as discussed in [section I.2.2](secI2.md#seci22), many communist
 anarchists consider this likely). As such, there could be a transitional
 period in which elements of mutualism, collectivism and communism co-exist
 within a specific economy. It can easily be seen how a mutualist economy (the
@@ -1314,7 +1314,7 @@ interests and tastes. However, this is not what is usually meant by "supply
 and demand." Often in general economic debate, this formula is given a certain
 mythical quality which ignores its underlying realities as well as some
 unwholesome implications of the theory (for example, as discussed in [section
-C.1.5](secC1.html#secc15) the market can very efficiently create famines by
+C.1.5](secC1.md#secc15) the market can very efficiently create famines by
 exporting food to areas where there is demand for it). At the very least, the
 _"the law of supply and demand"_ is not the "most efficient" means of
 distribution in an unequal society as decisions are skewed in favour of the
@@ -1336,7 +1336,7 @@ capitalist market would indicate such information by differences between
 market price and cost price and individuals and co-operatives would react
 accordingly. For communist and collectivist anarchists, who reject even non-
 capitalist markets, the answer is less simple. As discussed in [section
-I.1.3](secI1.html#seci13), these anarchists argue that although the market
+I.1.3](secI1.md#seci13), these anarchists argue that although the market
 does answer such questions it does so in irrational and dehumanising ways
 (while this is particularly the case under capitalism, it cannot be assumed
 this will disappear in a post-capitalist market). The question is: can
@@ -1409,7 +1409,7 @@ producers and consumers, information which the market often hides (or actively
 blocks) or distorts due to inequalities in resources (i.e. need does not count
 in the market, _"effective demand"_ does and this skews the market in favour
 of the wealthy). This information network has partly been discussed in the
-[last section](secI4.html#seci44) where a method of comparison between
+[last section](secI4.md#seci44) where a method of comparison between
 different materials, techniques and resources based upon use value was
 discussed. In addition, the need to indicate the current fluctuations in
 stocks, production and consumption has also to be factored in when making
@@ -1476,12 +1476,12 @@ short-term changes in supply and demand. By reducing short-term fluctuations
 of the supply of commodities, bad investment decisions would be reduced as
 syndicates would not be mislead, as is the case under capitalism, by market
 prices being too high or too low at the time when the decisions where being
-made (as discussed in [section I.1.5](secI1.html#seci15) such disequilibrium
+made (as discussed in [section I.1.5](secI1.md#seci15) such disequilibrium
 prices convey misinformation which causes very substantial economic
 distortions).
 
 This, combined with cost-benefit analysis described in [section
-I.4.4](secI4.html#seci44), would allow information about changes within a
+I.4.4](secI4.md#seci44), would allow information about changes within a
 moneyless economy to rapidly spread throughout the whole system and influence
 all decision makers without the great majority knowing anything about the
 original causes of these changes. This would allow a syndicate to ascertain
@@ -1490,7 +1490,7 @@ uses (i.e., relative costs or scarcity) as well as giving them information on
 what resources were used to create it (i.e., the absolute costs involved) The
 relevant information is communicated to all involved, without having to be
 ordered by an "all-knowing" central body as in a Leninist centrally planned
-economy. As argued in [section I.1.2](secI1.html#seci12), anarchists have long
+economy. As argued in [section I.1.2](secI1.md#seci12), anarchists have long
 realised that no centralised body could possibly be able to possess all the
 information dispersed throughout the economy to organise production and if
 such a body attempted to do so, the resulting bureaucracy would effectively
@@ -1565,7 +1565,7 @@ ordination achieved by equality of association and not the hierarchy of the
 corporate structure.
 
 While anarchists are aware of the _"isolation paradox"_ (see [section
-B.6](secB6.html)) this does not mean that we think the commune should make
+B.6](secB6.md)) this does not mean that we think the commune should make
 decisions **for** people on what they are to consume. That would be a prison.
 No, all anarchists agree that is up to the individual to determine their own
 needs and for the collectives they join to determine social requirements like
@@ -1610,7 +1610,7 @@ as producers (in some cases) and through syndicate/commune dialogue.
 Finally, it would be churlish, but essential, to note that capitalism only
 equates supply and demand in the fantasy world of neo-classical economics. Any
 **real** capitalist economy, as we discussed in [section
-I.1.5](secI1.html#seci15) is marked by uncertainty and a tendency to over-
+I.1.5](secI1.md#seci15) is marked by uncertainty and a tendency to over-
 produce in the response to the higher profits caused by previously under-
 producing goods, with resulting periods of crisis in which falling effective
 demand sees a corresponding fall in supply. Not to mention the awkward fact
@@ -1626,8 +1626,8 @@ anarchists advocate a system based on horizontal links between producers which
 effectively communicates information across society about the relative changes
 in supply and demand which reflect actual needs of society and not bank
 balances. The investment response to changes in supply and demand will be
-discussed in [section I.4.8](secI4.html#seci48) while [section
-I.4.13](secI4.html#seci413) will discuss the allocation of work tasks.
+discussed in [section I.4.8](secI4.md#seci48) while [section
+I.4.13](secI4.md#seci413) will discuss the allocation of work tasks.
 
 ## I.4.6 Surely anarchist-communism would just lead to demand exceeding
 supply?
@@ -1823,7 +1823,7 @@ Berneri, _"The Problem of Work"_, pp. 59-82, **Why Work?**, Vernon Richards
 
 So, as Malatesta suggested, it should be noted that communist-anarchists are
 well aware that it is likely that free access to all goods and services cannot
-be done immediately (see [section H.2.5](secH2.html#sech25) for details). As
+be done immediately (see [section H.2.5](secH2.md#sech25) for details). As
 Alexander Berkman summarised, _"when the social revolution attains the stage
 where it can produce sufficient for all, then is adopted the Anarchist
 principle of 'to each according to his [or her] needs' . . . But until it is
@@ -1899,10 +1899,10 @@ associations would not be able to sell the product of their labour to the Bank
 of Exchange (or directly to other syndicates or communes) and so they would
 adjust their output accordingly. Of course, there are problems with these
 systems due to their basis in the market (as discussed in [section
-I.1.3](secI1.html#seci13)), although these problems were recognised by
+I.1.3](secI1.md#seci13)), although these problems were recognised by
 Proudhon who argued for an agricultural-industrial federation to protect self-
 management from the negative effects of market forces (as noted in [section
-I.3.5](secI3.html#seci35)).
+I.3.5](secI3.md#seci35)).
 
 While mutualist and collectivist anarchists can argue that producers would
 respond to consumer needs otherwise they would not get an income, communist-
@@ -2042,7 +2042,7 @@ likely to succeed and repay the original loan. In this way, the increase in
 the money supply implied by these acts of credit providing does not generate
 inflation for money is **not** created wantonly but rather is aimed at
 projects which are considered likely to **increase** the supply of goods and
-services in the economy (see [section G.3.6](secG3.html#secg36)). Another key
+services in the economy (see [section G.3.6](secG3.md#secg36)). Another key
 source of investment would be internal funds (i.e., retained savings) as is
 the case with co-operatives today: _"Worker-managers finance their new
 investments partly out of internal funds and partly from external loans . . .
@@ -2050,7 +2050,7 @@ Entrepreneurial activity of worker-managers . . . generates profits and
 losses, i.e., higher or lower income per worker."_ [Branko Horvat, _"The
 Theory of the Worker-Managed Firm Revisited"_, pp. 9-25, **Journal of
 Comparative Economics**, vol. 10, no. 1, p. 21] As discussed in [section
-I.1.1](secI1.html#seci11), eliminating the stock market will not harm
+I.1.1](secI1.md#seci11), eliminating the stock market will not harm
 investment (almost all investment funds are from other sources) and will
 remove an important negative influence in economic activity.
 
@@ -2099,7 +2099,7 @@ issued. Under capitalism, for example, banks regularly issue credit in excess
 of their actual reserves of cash (if they did not then, one, they would not be
 very good capitalists and, two, the economy would grind to a halt). Nor does
 the interest rate reflect a preference for future goods (as discussed in
-[section C.2.6](secC2.html#secc26) interest rates reflect market power, the
+[section C.2.6](secC2.md#secc26) interest rates reflect market power, the
 degree of monopoly in the credit industry, the social and class position of
 individuals and a host of other factors). Moreover, a developed economy
 replaces a process in time with a process in space. In peasant and tribal
@@ -2225,7 +2225,7 @@ the different outcomes of different options. By this we simply mean an
 analysis of how different investment projects relate to each other in terms of
 inputs and outputs, compared to the existing techniques. This would be in the
 form of cost-benefit analysis (as outlined in [section
-I.4.4](secI4.html#seci44)) and would show when it would make economic, social
+I.4.4](secI4.md#seci44)) and would show when it would make economic, social
 and ecological sense to switch industrial techniques to more efficient and/or
 more empowering and/or more ecologically sound methods. Such an evaluation
 would indicate levels of inputs and compare them to the likely outputs. For
@@ -2304,7 +2304,7 @@ empower people and increase their freedom!
 Of course technology can be used for oppressive ends. Human knowledge, like
 all things, can be used to increase freedom or to decrease it, to promote
 inequality or reduce it, to aid the worker or to subjugate them, and so on.
-Technology, as we argued in [section D.10](secD10.html), cannot be considered
+Technology, as we argued in [section D.10](secD10.md), cannot be considered
 in isolation from the society it is created and used in. Most anarchists are
 aware that, to quote expert David Noble, _"Capital invested in machines that
 would re-enforce the system of domination [within the capitalist workplace],
@@ -2377,7 +2377,7 @@ industry and agriculture, as it was _"essential that work-shops, foundries and
 factories develop within the reach of the fields."_ [**The Conquest of
 Bread**, p. 190] Such a process would obviously involve the transformation of
 both the structure and technology of capitalism rather than its simple and
-unthinking application. As discussed in [section A.3.9](secA3.html#seca39),
+unthinking application. As discussed in [section A.3.9](secA3.md#seca39),
 while a few anarchists do seek to eliminate all forms of technology, most
 would agree with Bakunin when he argued that _"to destroy . . . all the
 instruments of labour . . . would be to condemn all humanity -- which is
@@ -2464,7 +2464,7 @@ surroundings and so technology and industry must be evaluated on an ecological
 basis. Technological progress in an anarchist society, needless to say, will
 have to take into account these factors as well as others people think are
 relevant, otherwise the ideal of _"well-being for all"_ is rejected (see
-[section I.4.15](secI4.html#seci415) for a discussion of what the workplace of
+[section I.4.15](secI4.md#seci415) for a discussion of what the workplace of
 the future could look like).
 
 So, technology always partakes of and expresses the basic values of the social
@@ -2542,14 +2542,14 @@ progress is just as bad as being unquestioningly anti-technology.
 
 ## I.4.10 What would be the advantage of a wide basis of surplus distribution?
 
-We noted earlier (in [section I.3.1](secI3.html#seci31)) that competition
+We noted earlier (in [section I.3.1](secI3.md#seci31)) that competition
 between syndicates could lead to _"co-operative egotism"_ (to use Kropotkin's
 term) and that to eliminate this problem, the basis of collectivisation needs
 to be widened so that production is based on need and, as a result, surpluses
 are distributed society-wide. The advantage of a wide surplus distribution is
 that it allows all to have a decent life and stop market forces making people
 work harder and longer to survive in the economy (see [section
-I.1.3](secI1.html#seci13)). The consolidation of syndicates that would
+I.1.3](secI1.md#seci13)). The consolidation of syndicates that would
 otherwise compete will, it is hoped, lead to a more efficient allocation of
 resources and technical improvements so allowing the transformation of work
 and reduction of the time we need to spend in production. We will back up this
@@ -2945,7 +2945,7 @@ by their own labour. This is a classic example of co-operation helping the co-
 operators achieve far more than they could by their own isolated activities.
 How this libertarian health system was run and how other public services would
 be organised in a free society are discussed in [section
-I.5.12](secI5.html#seci512).
+I.5.12](secI5.md#seci512).
 
 So we can generalise from our experiences of different kinds of capitalism. If
 you want to live in a society of well-educated people, working today as equals
@@ -3201,7 +3201,7 @@ of slaves often viewed slavery as the "natural" order, so do current workers.
 Yet, as with chattel slavery, substantial state coercion was required to
 achieve such a "natural" system.
 
-As discussed in [section F.8](secF8.html), actually existing capitalism was
+As discussed in [section F.8](secF8.md), actually existing capitalism was
 **not** created by Nozick's process -- it required substantial state
 intervention to separate workers from the means of production they used and to
 ensure, eventually, that the situation in which they sold their liberty to the
@@ -3255,7 +3255,7 @@ degradation back to having a master -- and as history shows, we have some
 evidence to support our argument. It seems a strangely debased perspective on
 freedom to ponder whether people will be "free" to alienate their freedom --
 it is a bit like proclaiming it a restriction of freedom to _"forbid"_ owning
-slaves (and, as noted in [section F.2.2](secF2.html#secf22), Nozick did
+slaves (and, as noted in [section F.2.2](secF2.md#secf22), Nozick did
 support voluntary slave contracts).
 
 So anarchists think Nozick's vision of unfreedom developing from freedom is
@@ -3272,7 +3272,7 @@ Review**, no. 13]
 In an anarchist society, there is no need for anyone to _"forbid"_ capitalist
 acts. All people have to do is **refrain** from helping would-be capitalists
 set up monopolies of productive assets. This is because, as we have noted in
-[section B.3.2](secB3.html#secb32), capitalism cannot exist without some form
+[section B.3.2](secB3.md#secb32), capitalism cannot exist without some form
 of state to protect such monopolies. In a libertarian-socialist society, of
 course, there would be no state to begin with, and so there would be no
 question of it "refraining" people from doing anything, including protecting
@@ -3385,7 +3385,7 @@ those goods to create an enterprise to employ (i.e., exploit and oppress)
 others then they have, in effect, announced their withdrawal from civilised
 society and, as a result, would be denied the benefits of co-operation. They
 would, in effect, place themselves in the same situation as someone who does
-not wish to join a syndicate (see [section I.3.7](secI3.html#seci37)). If an
+not wish to join a syndicate (see [section I.3.7](secI3.md#seci37)). If an
 individual did desire to use resources to employ wage labour then they would
 have effectively removed themselves from _"socialist society"_ and so that
 society would bar them from using **its** resources (i.e. they would have to
@@ -3444,11 +3444,11 @@ In addition, we must note that Nozick also confused _"private property in the
 means of production"_ with capitalism. Liberation socialism can be easily
 compatible with _"private property in the means of production"_ when that
 _"private property"_ is limited to what a self-employed worker uses rather
-than capitalistic property (see [section G.2.1](secG2.html#secg21)). Nozick,
+than capitalistic property (see [section G.2.1](secG2.md#secg21)). Nozick,
 in other words, confused pre-capitalist forms of production with capitalist
-ones (see [section G.1.2](secG1.html#secg12)). Thus possession of the means of
+ones (see [section G.1.2](secG1.md#secg12)). Thus possession of the means of
 production by people outside of the free commune is perfectly acceptable to
-social anarchists (see [section I.6.2](secI6.html#seci62)).
+social anarchists (see [section I.6.2](secI6.md#seci62)).
 
 Thus an anarchist society would have a flexible approach to Nozick's (flawed)
 argument. Individuals, in their free time, could _"exchange"_ their time and
@@ -3477,14 +3477,14 @@ Writings**, pp. 68-9]
 Lastly, we must also note that Nozick also ignored the fact that acquisition
 **must** come before transfer, meaning that before "consenting" capitalist
 acts occur, individual ones must precede it. As argued in [section
-B.3.4](secB3.html#secb34), Nozick provided no convincing arguments why natural
+B.3.4](secB3.md#secb34), Nozick provided no convincing arguments why natural
 resources held in common can be appropriated by individuals. This means that
 his defence of transferring absolute capitalist property rights in goods is
 without foundations. Moreover, his argument in favour of such appropriations
 ignore that liberties are very definitely restricted by private property (and
 it should be keep in mind that the destruction of commonly held resources,
 such as village commons, was imposed by the state -- see [section
-F.8.3](secF8.html#secf83)). As pointed out in [section F.2](secF2.html),
+F.8.3](secF8.md#secf83)). As pointed out in [section F.2](secF2.md),
 right-wing "libertarians" would better be termed _"Propertarians"_ (why is
 liberty accorded a primary importance when arguing against socialism but not
 when private property restricts liberty?). As Cheyney C. Ryan points out,
@@ -4030,7 +4030,7 @@ only,** the sleeping partner to wit."_ [Morris, **Op. Cit.**, pp. 7-8]
 Pleasant working conditions based upon the self-management of work can produce
 a workplace within which economic "efficiency" can be achieved without
 disrupting and destroying individuality and the environment (also see [section
-I.4.9](secI4.html#seci49) for a fuller discussion of anarchism and
+I.4.9](secI4.md#seci49) for a fuller discussion of anarchism and
 technology).
 
 ## I.4.16 Won't a libertarian communist society be inefficient?
@@ -4062,7 +4062,7 @@ of the few, without regard to the wasteful use of individual time, energy and
 potential as well as environmental and social costs. Such a narrow criteria
 for decision making or evaluating efficient production will not exist in an
 anarchist society (see our discussion of the irrational nature of the price
-mechanism in [section I.1.2](secI1.html#seci12), for example). When we use the
+mechanism in [section I.1.2](secI1.md#seci12), for example). When we use the
 term efficiency we mean the dictionary definition of efficiency (i.e. reducing
 waste, maximising use of resources) rather than what the capitalist market
 distorts this into (i.e. what creates most profits for the boss).
@@ -4070,7 +4070,7 @@ distorts this into (i.e. what creates most profits for the boss).
 While capitalism has turned improvements in productivity as a means of
 increasing work, enriching the few and generally proletarianising the working
 class, a free society would take a different approach to the problem. As
-argued in [section I.4.3](secI4.html#seci43), a communist-anarchist society
+argued in [section I.4.3](secI4.md#seci43), a communist-anarchist society
 would be based upon the principle of _"**for some much per day** (in money
 today, in labour tomorrow) **you are entitled to satisfy -- luxury excepted --
 this or the other of your wants**."_ [Peter Kropotkin, **Small Communal
@@ -4105,7 +4105,7 @@ efficient and reliable. This would be a key means of encouraging efficient and
 effective use of resources.
 
 Similarly, an inefficient or wasteful syndicate would have negative reactions
-from their fellow workers. As we argued in [section I.4.7](secI4.html#seci47),
+from their fellow workers. As we argued in [section I.4.7](secI4.md#seci47),
 a libertarian communist economy would be based on free association. If a
 syndicate or community got a reputation for being inefficient with resources
 then others would not associate with them (i.e. they would not supply them
@@ -4142,8 +4142,7 @@ guarantee . . . the happiness that can be found in the full and varied
 exercise of the different capacities of the human being, in work that need not
 be overwork."_ [**Fields, Factories and Workshops Tomorrow**, pp. 198-9]
 
-[‹ I.3 What could the economic structure of anarchy look
-like?](/afaq/secI3.html "Go to previous page" ) [up](/afaq/secIcon.html "Go to
-parent page" ) [I.5 What could the social structure of anarchy look like?
-›](/afaq/secI5.html "Go to next page" )
+[‹ I.3 What could the economic structure of anarchy look like?](secI3.md "Go
+to previous page" ) [up](secIcon.md "Go to parent page" ) [I.5 What could
+the social structure of anarchy look like? ›](secI5.md "Go to next page" )
 

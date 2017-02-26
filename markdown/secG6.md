@@ -146,7 +146,7 @@ As can be seen from capitalist support for fascism, Stirner was correct -- as
 long as a regime supports capitalist interests, the 'good citizens' (including
 many on the so-called "libertarian" right) will support it. Stirner sees that
 not only does private property require state protection, it also leads to
-exploitation and oppression. As noted in [section D.10](secD10.html), like
+exploitation and oppression. As noted in [section D.10](secD10.md), like
 subsequent anarchists like Kropotkin, Stirner attacked the division of labour
 resulting from private property for its deadening effects on the ego and
 individuality of the worker:
@@ -422,7 +422,7 @@ Thus, Stirner's _"union of egoists"_ cannot be compared to the employer-
 employee contract as the employees cannot be said to "own" the organisation
 resulting from the contract (nor do they own themselves during work time,
 having sold their labour/liberty to the boss in return for wages -- see
-[section B.4](secB4.html)). Only within a participatory association can you
+[section B.4](secB4.md)). Only within a participatory association can you
 _"assert"_ yourself freely and subject your maxims, and association, to your
 _"ongoing criticism"_ \-- in capitalist contracts you can do both only with
 your bosses' permission.
@@ -437,7 +437,7 @@ shyly back from your property, but look upon it always as **my** property, in
 which I 'respect' nothing. Pray do the like with what you call my property!"_
 [p. 248] This view logically leads to the idea of both workers' self-
 management and grassroots community control (as will be discussed more fully
-in [section I](secIcon.html)) as those affected by an activity will take a
+in [section I](secIcon.md)) as those affected by an activity will take a
 direct interest in it and not let "respect" for "private" property allow them
 to be oppressed by others.
 
@@ -480,7 +480,7 @@ other about it."_ [p. 269 and p. 275] As can be seen from Chapter 8 of
 Kropotkin's **Conquest of Bread** (_"The Need for Luxury"_), communist-
 anarchism builds upon this insight, arguing that communism is required to
 ensure that all individuals have the time and energy to pursue their own
-unique interests and dreams (see [section I.4](secI4.html)).
+unique interests and dreams (see [section I.4](secI4.md)).
 
 Stirner notes that socialising property need not result in genuine freedom if
 it is not rooted in individual use and control. He states _"the lord is
@@ -523,8 +523,8 @@ where it belongs. Finally, he reminds us that a free society must exist in the
 interests of all, and must be based upon the self-fulfilment, liberation and
 enjoyment of the individual.
 
-[‹ G.5 Benjamin Tucker: Capitalist or Anarchist?](/afaq/secG5.html "Go to
-previous page" ) [up](/afaq/secGcon.html "Go to parent page" ) [G.7 Lysander
-Spooner: right-"libertarian" or libertarian socialist? ›](/afaq/secG7.html "Go
-to next page" )
+[‹ G.5 Benjamin Tucker: Capitalist or Anarchist?](secG5.md "Go to previous
+page" ) [up](secGcon.md "Go to parent page" ) [G.7 Lysander Spooner:
+right-"libertarian" or libertarian socialist? ›](secG7.md "Go to next page"
+)
 

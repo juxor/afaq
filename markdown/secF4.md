@@ -32,8 +32,8 @@ because it is a bulwark of all three.
 
 Moreover, in the capitalist celebration of property as the source of liberty
 they deny or ignore the fact that private property is a source of "tyranny" in
-itself (as we have indicated in sections [B.3](secB3.html) and
-[B.4](secB4.html), for example). As we saw in [section F.1](secF1.html), this
+itself (as we have indicated in sections [B.3](secB3.md) and
+[B.4](secB4.md), for example). As we saw in [section F.1](secF1.md), this
 leads to quite explicit (if unaware) self-contradiction by leading
 "anarcho"-capitalist ideologues. As Tolstoy stressed, the _"retention of the
 laws concerning land and property keeps the workers in slavery to the
@@ -110,7 +110,7 @@ _"proprietarians"_ [_"A Meditation on Anarchist Ethics"_, pp. 328-346, **The
 Raven**, no. 28, p. 343]
 
 We will discuss Rothbard's "homesteading" justification of private property in
-the [next section](secF4.html#secf41). However, we will note here one aspect
+the [next section](secF4.md#secf41). However, we will note here one aspect
 of right-"libertarian" absolute and unrestricted property rights, namely that
 it easily generates evil side effects such as hierarchy and starvation. As
 economist and famine expert Amartya Sen notes:
@@ -138,13 +138,13 @@ Development**, pp. 311-2]
 Thus "unrestricted" property rights can have seriously bad consequences and so
 the existence of "justly held" property need not imply a just or free society
 -- far from it. The inequalities property can generate can have a serious on
-individual freedom (see [section F.3](secF3.html)). Indeed, Murray Rothbard
+individual freedom (see [section F.3](secF3.md)). Indeed, Murray Rothbard
 argued that the state was evil not because it restricted individual freedom
 but because the resources it claimed to own were not "justly" acquired. If
 they were, then the state could deny freedom within its boundaries just as any
 other property owner could. Thus right-"libertarian" theory judges property
 **not** on its impact on current freedom but by looking at past history. This
-has the interesting side effect, as we noted in [section F.1](secF1.html), of
+has the interesting side effect, as we noted in [section F.1](secF1.md), of
 allowing its supporters to look at capitalist and statist hierarchies,
 acknowledge their similar negative effects on the liberty of those subjected
 to them but argue that one is legitimate and the other is not simply because
@@ -277,7 +277,7 @@ latter that might be an obstacle to his pursuit of wealth."_ [**Floodgates of
 Anarchy**, p. 12] Unsurprising "anarcho"-capitalists propose private security
 forces rather than state security forces (police and military) -- a proposal
 that is equivalent to bringing back the state under another name. This will be
-discussed in more detail in [section F.6](secF6.html).
+discussed in more detail in [section F.6](secF6.md).
 
 By advocating private property, right-"libertarians" contradict many of their
 other claims. For example, they tend to oppose censorship and attempts to
@@ -327,7 +327,7 @@ properly only from the expenditure of labour to transform that resource into
 use."_ [**The Ethics of Liberty**, p. 63]
 
 His theory, it should be stressed, has its roots in the same Lockean tradition
-as Robert Nozick's (which we critiqued in [section B.3.4](secB4.html#secb34)).
+as Robert Nozick's (which we critiqued in [section B.3.4](secB4.md#secb34)).
 Like Locke, Rothbard paints a conceptual history of individuals and families
 forging a home in the wilderness by the sweat of their labour (it is tempting
 to rename his theory the **_"immaculate conception of property"_** as his
@@ -335,7 +335,7 @@ conceptual theory is so at odds with actual historical fact). His one
 innovation (if it can be called that) was to deny even the rhetorical
 importance of what is often termed the Lockean Proviso, namely the notion that
 common resources can be appropriated only if there is enough for others to do
-likewise. As we noted in [section E.4.2](secE4.html#sece42) this was because
+likewise. As we noted in [section E.4.2](secE4.md#sece42) this was because
 it could lead (horror of horrors!) to the outlawry of all private property.
 
 Sadly for Rothbard, his "homesteading" theory of property was refuted by
@@ -375,7 +375,7 @@ p. 105]). As Rothbard **himself** admitted in respect to the aftermath of
 slavery and serfdom, not having access to the means of life places one the
 position of unjust dependency on those who do and so private property creates
 economic power as much under his beloved capitalism as it did in post-serfdom
-(see [section F.1](secF1.html)). Thus, Rothbard's account, for all its
+(see [section F.1](secF1.md)). Thus, Rothbard's account, for all its
 intuitive appeal, ends up justifying capitalist and landlord domination and
 ensures that the vast majority of the population experience property as theft
 and despotism rather than as a source of liberty and empowerment (which
@@ -403,7 +403,7 @@ it, how can rivers, lakes and the oceans be appropriated? The banks of the
 rivers can be transformed, but can the river itself? How can you mix your
 labour with water? "Anarcho"-capitalists usually blame pollution on the fact
 that rivers, oceans, and so forth are unowned but as we discussed in [section
-E.4](secE4.html), Rothbard provided no coherent argument for resolving this
+E.4](secE4.md), Rothbard provided no coherent argument for resolving this
 problem nor the issue of environmental externalities like pollution it was
 meant to solve (in fact, he ended up providing polluters with sufficient
 apologetics to allow them to continue destroying the planet).
@@ -509,7 +509,7 @@ does is to end up justifying capitalist and landlord domination (which is what
 it was intended to do).
 
 [‹ F.3 Why do anarcho"-capitalists place little or no value on
-equality?](/afaq/secF3.html "Go to previous page" ) [up](/afaq/secFcon.html
-"Go to parent page" ) [F.5 Will privatising "the commons" increase liberty?
-›](/afaq/secF5.html "Go to next page" )
+equality?](secF3.md "Go to previous page" ) [up](secFcon.md "Go to parent
+page" ) [F.5 Will privatising "the commons" increase liberty? ›](secF5.md
+"Go to next page" )
 

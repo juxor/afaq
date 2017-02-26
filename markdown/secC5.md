@@ -1,6 +1,6 @@
 # C.5 Why does Big Business get a bigger slice of profits?
 
-As described in the [last section](secC4.html), due to the nature of the
+As described in the [last section](secC4.md), due to the nature of the
 capitalist market, large firms soon come to dominate. Once a few large
 companies dominate a particular market, they form an oligopoly from which a
 large number of competitors have effectively been excluded, thus reducing
@@ -93,7 +93,7 @@ degree of monopoly and the higher the mark-up of prices over costs (and so the
 share of profits in value added). Our approach to this issue is similar to
 Kalecki's in many ways although we stress that the degree of monopoly affects
 how profits are distributed **between** firms, **not** how they are created in
-the first place (which come, as argued in [section C.2](secC2.html), from the
+the first place (which come, as argued in [section C.2](secC2.md), from the
 _"unpaid labour of the poor"_ \-- to use Kropotkin's words).
 
 There is substantial evidence to support such a theory. J.S Bain in **Barriers
@@ -155,13 +155,13 @@ house built on sand.
 
 Another side effect of oligopoly is that the number of mergers will tend to
 increase in the run up to a slump. Just as credit is expanded in an attempt to
-hold off the crisis (see [section C.8](secC8.html)), so firms will merge in an
+hold off the crisis (see [section C.8](secC8.md)), so firms will merge in an
 attempt to increase their market power and so improve their profit margins by
 increasing their mark-up over costs. As the rate of profit levels off and
 falls, mergers are an attempt to raise profits by increasing the degree of
 monopoly in the market/economy. However, this is a short term solution and can
 only postpone, but stop, the crisis as its roots lie in production, **not**
-the market (see [section C.7](secC7.html)) -- there is only so much surplus
+the market (see [section C.7](secC7.md)) -- there is only so much surplus
 value around and the capital stock cannot be wished away. Once the slump
 occurs, a period of cut-throat competition will start and then, slowly, the
 process of concentration will start again (as weak firms go under, successful
@@ -215,7 +215,7 @@ undermining its market position.
 efficiency?
 
 Obviously the analysis of Big Business profitability presented in [section
-C.5](secC5.html) is denied by supporters of capitalism. H. Demsetz of the
+C.5](secC5.md) is denied by supporters of capitalism. H. Demsetz of the
 pro-"free" market "Chicago School" of economists (which echoes the "Austrian"
 school's position that whatever happens on a free market is for the best)
 argues that **efficiency** (not degree of monopoly) is the cause of the super-
@@ -390,7 +390,7 @@ It should be stressed that Kropotkin, like other anarchists, recognised that
 technical efficiencies differed from industry to industry and so the optimum
 size of plant may be large in some sectors but relatively small in others. As
 such, he did not fetishise "smallness" as some Marxists assert (see [section
-H.2.3](secH2.html#sech23)). Rather, Kropotkin was keenly aware that capitalism
+H.2.3](secH2.md#sech23)). Rather, Kropotkin was keenly aware that capitalism
 operated on principles which submerged technical efficiency by the price
 mechanism which, in turn, was submerged by economic power. While not denying
 that "economies of scale" existed, Kropotkin recognised that what counts as
@@ -424,8 +424,7 @@ Big Business, therefore, receives a larger share of the available surplus
 value in the economy, due to its size advantage and market power, not due to
 "higher efficiency".
 
-[‹ C.4 Why does the market become dominated by Big Business?](/afaq/secC4.html
-"Go to previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.6 Can
-market dominance by Big Business change? ›](/afaq/secC6.html "Go to next page"
-)
+[‹ C.4 Why does the market become dominated by Big Business?](secC4.md "Go
+to previous page" ) [up](secCcon.md "Go to parent page" ) [C.6 Can market
+dominance by Big Business change? ›](secC6.md "Go to next page" )
 

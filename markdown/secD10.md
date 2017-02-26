@@ -262,7 +262,7 @@ profits' and enhance their authority (by eliminating jobs and extorting
 concessions and obedience from the workers who remain) without at the same
 time increasing social product, they appear more than ready to do."_ [David
 Noble, **Progress Without People**, pp. 86-87 and p. 89] As we argue in
-greater detail later, in [section J.5.12](secJ5.html#secj512), efficiency and
+greater detail later, in [section J.5.12](secJ5.md#secj512), efficiency and
 profit maximisation are two different things, with such deskilling and
 management control actually **reducing** efficiency -- compared to workers'
 control -- but as it allows managers to maximise profits the capitalist market
@@ -523,11 +523,11 @@ technological modes of thought."_ A free society _"will not want to negate
 technology precisely because it is liberated and can strike a balance"_ and
 create a _"technology for life,"_ a liberatory technology based on human and
 ecological needs. [**Op. Cit.**, p. 43 and p. 80] See [section
-I.4.9](secI4.html#seci49) for more discussion on technology within an
+I.4.9](secI4.md#seci49) for more discussion on technology within an
 anarchist society.
 
 [‹ D.9 Why does political power become concentrated under
-capitalism?](/afaq/secD9.html "Go to previous page" ) [up](/afaq/secDcon.html
-"Go to parent page" ) [D.11 Can politics and economics be separated from each
-other? ›](/afaq/secD11.html "Go to next page" )
+capitalism?](secD9.md "Go to previous page" ) [up](secDcon.md "Go to
+parent page" ) [D.11 Can politics and economics be separated from each other?
+›](secD11.md "Go to next page" )
 

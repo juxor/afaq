@@ -129,7 +129,7 @@ will happily take advantage of such activities.
 
 Then there is the issue of how the market system hides much more information
 than it gives (a factor we will return to in [section
-I.1.2](secI1.html#seci12)). Under the price system, customers have no way of
+I.1.2](secI1.md#seci12)). Under the price system, customers have no way of
 knowing the ecological (or social) impact of the products they buy. All they
 have is a price and that simply does not indicate how the product was produced
 and what costs were internalised in the final price and which were
@@ -352,7 +352,7 @@ which cannot combat the cancerous growth principle of the capitalist economy.
 As such, ethical consumerism does not break from the logic of capitalism and
 so is doomed to failure.
 
-[‹ E.4 Can laissez-faire capitalism protect the environment?](/afaq/secE4.html
-"Go to previous page" ) [up](/afaq/secEcon.html "Go to parent page" ) [E.6
-What is the population myth? ›](/afaq/secE6.html "Go to next page" )
+[‹ E.4 Can laissez-faire capitalism protect the environment?](secE4.md "Go
+to previous page" ) [up](secEcon.md "Go to parent page" ) [E.6 What is the
+population myth? ›](secE6.md "Go to next page" )
 

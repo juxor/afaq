@@ -40,7 +40,7 @@ tendencies which can truly "roll back" the state rather than reduce its
 functions purely to that of the armed thug of property. The tendencies we
 discuss here are not the be all nor end all of anarchist activism or
 tendencies. We discuss many of the more traditionally anarchist "openings" in
-[section J.5](secJ5.html) (such as industrial and community unionism, mutual
+[section J.5](secJ5.md) (such as industrial and community unionism, mutual
 credit, co-operatives, modern schools and so on) and so will not do so here.
 However, it is important to stress here that such "traditional" openings are
 not being downplayed -- indeed, much of what we discuss here can only become
@@ -86,8 +86,8 @@ Social struggle is the most obvious sign of this change of perspective, this
 change in ideas, this progress towards freedom.
 
 Social struggle is expressed by direct action. We have discussed both social
-struggle ([section J.1](secJ1.html)) and direct action ([section
-J.2](secJ2.html)) before and some readers may wonder why we are covering this
+struggle ([section J.1](secJ1.md)) and direct action ([section
+J.2](secJ2.md)) before and some readers may wonder why we are covering this
 again here. We do so as we are discussing what trends in society help
 anarchist activity, it would be wrong **not** to highlight social struggle and
 direct action here. This is because these factors are key tendencies towards
@@ -193,7 +193,7 @@ for transforming society as a whole simply because, as well as producing
 transformed individuals, it also produces new forms of organisation,
 organisations created to co-ordinate their struggle and which can, potentially
 at least, become the framework of a libertarian socialist society (see
-[section I.2.3](secI2.html#seci23)).
+[section I.2.3](secI2.md#seci23)).
 
 Thus anarchists argue that social struggle opens the eyes of those involved to
 self-esteem and a sense of their own strength, and the groupings it forms at
@@ -530,7 +530,7 @@ p. 124 and p. 201]
 Luckily for American capitalism a poll in 2000 found that 39% of Americans
 believe they are either in the wealthiest 1% or will be there _"soon"_! [Glyn,
 **Op. Cit.**, p. 179] In fact, as we discussed in [section
-B.7.2](secB7.html#sec72), social mobility has **fallen** under neo-liberalism
+B.7.2](secB7.md#sec72), social mobility has **fallen** under neo-liberalism
 -- perhaps unsurprisingly as it is easier to climb a hill than a mountain.
 This is just as important as the explosion in inequality as the “free-market”
 right argue that dynamic social mobility makes up for wealth and income
@@ -606,7 +606,7 @@ _"systematically weakens the bargaining power of trade unions."_ In short:
 _"Neither on the theoretical nor empirical level can a strictly inverse
 relation between the real wage rate and the level of unemployment be
 derived."_ [Hein and Schulten, **Op. Cit.**, p. 9, p. 3 and p. 2] As we
-discussed in [section C.1.5](secC1.html#secc15) this should come as no
+discussed in [section C.1.5](secC1.md#secc15) this should come as no
 surprise to anyone with awareness of the real nature of unemployment and the
 labour market. So unemployment did not fall after the trade union reforms,
 quite the reverse: _"By the time Blair came to power [in 1997], unemployment
@@ -906,7 +906,7 @@ capitalism every few years or so.
 
 This crisis is not confined to the economy. It extends into the ecological and
 the social, with the quality of life and well-being decreasing as GDP grows
-(as we noted in [section C.10](secC10.html), economic factors cannot, and do
+(as we noted in [section C.10](secC10.md), economic factors cannot, and do
 not, indicate human happiness). However, here we discuss economic factors.
 This does not imply that the social and ecological crises are unimportant or
 are reducible to the economy. Far from it. We concentrate on the economic
@@ -967,7 +967,7 @@ Korea and other newcomers"_ had _"discovered the benefits of free markets."_
 Foundation** (a right-wing think-tank) released its index of economic freedom.
 Four of the top seven countries were Asian, including Japan and Taiwan. All
 the Asian countries struggling just a few years later qualified as "free."
-Yet, as mentioned in [section C.10.1](secC10.html#secc101), such claims were
+Yet, as mentioned in [section C.10.1](secC10.md#secc101), such claims were
 manifestly false: _"it was not **laissez-faire** policies that induced their
 spectacular growth. As a number of studies have shown, the expansion of the
 Asian Tigers was based on massive state intervention that boosted their export
@@ -1000,7 +1000,7 @@ instability producing regular and deepening crisis. This is despite (or, more
 likely, **because of**) the free market reforms imposed and the deregulation
 of finance capital (we say "because of" simply because neo-classical economics
 argue that pro-market reforms would increase growth and improve the economy,
-but as we noted in [section C.1](secC1.html) such economics has little basis
+but as we noted in [section C.1](secC1.md) such economics has little basis
 in reality and so their recommendations are hardly going to produce positive
 results). Of course as the ruling class have been doing well this underlying
 slowdown has been ignored and obviously claims of crisis are only raised when
@@ -1097,7 +1097,7 @@ rate of profit and their simultaneous need to ensure that workers have enough
 wealth and income so that they can keep buying the products on which those
 profits depend. Inequality has been increasing particularly in neo-liberal
 countries like the UK and USA, which means that the economy faces as
-realisation crisis (see [section C.7](secC7.html)), a crisis which was avoided
+realisation crisis (see [section C.7](secC7.md)), a crisis which was avoided
 in the short-term by deepening debt for working people (debt levels more than
 doubled between the 1950s to the 1990s, from 25% to over 60%). In 2007, the
 chickens came hole to roost with a global credit crunch much worse than the
@@ -1107,7 +1107,7 @@ Over-investment has been magnified due to the East-Asian Tigers and China
 which, thanks to their intervention in the market (and repressive regimes
 against labour), ensured they were a more profitable place to invest than
 elsewhere. Capital flooded into the area, ensuring a relative over-investment
-was inevitable. As we argued in [section C.7.2](secC7.html#secc72), crisis is
+was inevitable. As we argued in [section C.7.2](secC7.md#secc72), crisis is
 possible simply due to the lack of information provided by the price mechanism
 -- economic agents can react in such a way that the collective result of
 individually rational decisions is irrational. Thus the desire to reap profits
@@ -1145,7 +1145,7 @@ competition from Japan and Germany. As these nations re-industrialised, they
 placed increased pressure on the USA and other nations, reducing the global
 "degree of monopoly" and forcing them to compete with lower cost producers. In
 addition, full employment produced increasing resistance on the shop floor and
-in society as a whole (see [section C.7.1](secC7.html#secc71)), squeezing
+in society as a whole (see [section C.7.1](secC7.md#secc71)), squeezing
 profits even more. Thus a combination of class struggle and global over-
 capacity resulted in the 1970s crisis. With the inability of the real economy,
 especially the manufacturing sector, to provide an adequate return, capital
@@ -1184,7 +1184,7 @@ of working class people.
 struggle?
 
 The **_"economic structural crisis"_** we out-lined in the [last
-section](secJ4.html#secj44) has certain implications for anarchists and social
+section](secJ4.md#secj44) has certain implications for anarchists and social
 struggle. Essentially, as C. George Benello argued, _"[i]f economic conditions
 worsen . . . then we are likely to find an openness to alternatives which have
 not been thought of since the depression of the 1930s . . . It is important to
@@ -1223,7 +1223,7 @@ liberation movements in the Third World and new movements in formerly
 Stalinist countries. However, this is only likely to happen if anarchists take
 the lead in promoting alternatives and working with the mass of the
 population. Ways in which anarchists can do this are discussed in some detail
-in [section J.5](secJ5.html).
+in [section J.5](secJ5.md).
 
 Thus the _"economic structural crisis"_ can aid social struggle by placing the
 contrast of _"what is"_ with what _"could be"_ in a clear light. Any crisis
@@ -1262,7 +1262,7 @@ possibilities. _"The decline of the state,"_ argues L. Gambone, _"makes
 necessary a revitalisation of the notions of direct action and mutual aid.
 Without Mama State to do it for us, we must create our own social services
 through mutual aid societies."_ [**Syndicalism in Myth and Reality**, p. 12]
-As we argue in more depth in [section J.5.16](secJ5.html#secj516), such a
+As we argue in more depth in [section J.5.16](secJ5.md#secj516), such a
 movement of mutual aid has a long history in the working class and, as it is
 under our control, it cannot be withdrawn from us to enrich and empower the
 ruling class as state run systems have been. Thus the decline of state run
@@ -1270,7 +1270,7 @@ social services could, potentially, see the rise of a network of self-managed,
 working class alternatives (equally, of course, it could see the end of all
 services to the weakest sections of our society -- which possibility comes
 about depends on what we do in the here and now. See [section
-J.5.15](secJ5.html#secj515) for an anarchist analysis of the welfare state).
+J.5.15](secJ5.md#secj515) for an anarchist analysis of the welfare state).
 
 **Food Not Bombs!** (FNB) is an excellent example of practical libertarian alternatives being generated by the economic crisis we are facing. FNB is a community-based group which helps the homeless through the direct action of its members. It also involves the homeless in helping themselves. It serves free food in public places to expose the plight of the homeless, the callousness of the system and our capacity to solve social problems through our own actions without government or capitalism. The constant harassment of FNB by the police, middle classes and the government illustrates their callousness to the plight of the poor and the failure of their institutions to build a society which cares for people more than money and property (and the police and prisons to protect them). The fact is that in the US many working and unemployed people have no **feeling** that they are entitled to basic human needs such as medicine, clothes, shelter, and food. FNB encourages poor people to make these demands, provides a space in which these demands can be voiced, and helps to breakdown the wall between hungry and not-hungry. The repression directed towards FNB by local police forces and governments also demonstrates the effectiveness of their activity and the possibility that it may radicalise those who get involved with the organisation. Charity is obviously one thing, mutual aid is something else. FNB is a politicised movement from below, based on solidarity, **not** charity as, in Kropotkin's words, charity _"bears a character of inspiration from above, and, accordingly, implies a certain superiority of the giver upon the receiver."_ [**Mutual Aid**, p. 222]
 
@@ -1283,7 +1283,7 @@ viable internal economy which provides the necessities of life, independent of
 transactions with the outside."_ [Benello, **Op. Cit.**, p. 150]
 
 These local currencies could be the basis of a mutual bank (see [section
-J.5.5](secJ5.html#secj55)), providing interest-free loans to workers to form
+J.5.5](secJ5.md#secj55)), providing interest-free loans to workers to form
 co-operatives and so build libertarian alternatives to capitalist firms, so
 eliminating the profits of capitalists by allowing workers to exchange the
 product of their labour with other workers. Moreover, _"local exchange systems
@@ -1304,7 +1304,7 @@ that depend upon them. Protectionism is both undesirable and unworkable. But
 worker-ownership or workers' co-operatives are alternatives."_ [Gambone, **Op.
 Cit.**, pp. 12-13] Local communities could provide the necessary support
 structures which could protect co-operatives from the corrupting effects of
-working in the capitalist market (see [section J.5.11](secJ5.html#secj511)).
+working in the capitalist market (see [section J.5.11](secJ5.md#secj511)).
 They could also demand that rather than nationalise or bailout failing
 companies (or, for that matter, privatise state services or public works),
 they should be turned over (as Proudhon constantly argued) to workers co-
@@ -1326,7 +1326,7 @@ real potential for anarchy is created. The work of such organisations as
 supplementary to the important task of creating workplace and community
 organisations that can create effective resistance to both state and
 capitalists, resistance that can overthrow both (see sections
-[J.5.2](secJ5.html#secj52) and [J.5.1](secJ5.html#secj51) respectively).
+[J.5.2](secJ5.md#secj52) and [J.5.1](secJ5.md#secj51) respectively).
 _"Volunteer and service credit systems and alternative currencies by
 themselves may not be enough to replace the corporate capitalist system.
 Nevertheless, they can help build the economic strength of local currencies,
@@ -1642,8 +1642,7 @@ copyleft are good examples of anarchistic trends within society, using
 communications technology as a means of co-ordinating activity across the
 world in a libertarian fashion for libertarian goals.
 
-[‹ J.3 What kinds of organisation do anarchists build?](/afaq/secJ3.html "Go
-to previous page" ) [up](/afaq/secJcon.html "Go to parent page" ) [J.5 What
-alternative social organisations do anarchists create? ›](/afaq/secJ5.html "Go
-to next page" )
+[‹ J.3 What kinds of organisation do anarchists build?](secJ3.md "Go to
+previous page" ) [up](secJcon.md "Go to parent page" ) [J.5 What alternative
+social organisations do anarchists create? ›](secJ5.md "Go to next page" )
 

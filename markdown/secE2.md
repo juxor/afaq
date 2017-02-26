@@ -1,7 +1,7 @@
 # E.2 What do eco-anarchists propose instead of capitalism?
 
 Given what eco-anarchists consider to be the root cause of our ecological
-problems (as discussed in the [last section](secE1.html)), it should come as
+problems (as discussed in the [last section](secE1.md)), it should come as
 no surprise that they think that the current ecological crisis can only be
 really solved by eliminating those root causes, namely by ending domination
 within humanity and creating an anarchist society. So here we will summarise
@@ -22,7 +22,7 @@ to totally revolutionise the social relations of humans to each other and of
 humanity to nature."_ [Murray Bookchin, **Toward an Ecological Society**, p.
 43] This is one of the key differences between an ecological perspective and
 an environmental one (a difference discussed in [section
-E.1.2](secE1.html#sece12)). Finding ways to resist capitalism's reduction of
+E.1.2](secE1.md#sece12)). Finding ways to resist capitalism's reduction of
 the living world to resources and commodities and its plunder of the planet,
 our resistance to specific aspects of an eco-cidal system, are merely a
 starting point in the critique of the whole system and of a wider struggle for
@@ -111,7 +111,7 @@ consistent anarchists advocate workers' self-management of the economy as a
 necessary component of an ecologically sustainable society. This usually means
 society-wide ownership of the means of production and all productive
 enterprises self-managed by their workers (as described further in [section
-I.3](secI3.html)). This is a key aspect of making a truly ecological society.
+I.3](secI3.md)). This is a key aspect of making a truly ecological society.
 Most greens, even if they are not anarchists, recognise the pernicious
 ecological effects of the capitalist "grow or die" principle; but unless they
 are also anarchists, they usually fail to make the connection between that
@@ -138,7 +138,7 @@ executives' percentage share of profits greatly increases as more employees
 are added to the payroll. This is because the corporate hierarchy is designed
 to facilitate exploitation by funnelling a disproportionate share of the
 surplus value produced by workers to those at the top of the pyramid (see
-[section C.2](secC2.html)) Such a design gives ownership and management a very
+[section C.2](secC2.md)) Such a design gives ownership and management a very
 strong incentive to expand, since, other things being equal, their income
 rises with every new employee hired. [David Schweickart, **Against
 Capitalism**, pp. 153-4] Hence the hierarchical form of the capitalist
@@ -210,7 +210,7 @@ accountable to themselves. This could lead to a situation where they become
 enterprises, increasing their "profits" and even subjecting themselves to
 irrational practices to survive in the market (i.e., harming their own wider
 and long-term interests as market pressures have a distinct tendency to
-produce a race to the bottom -- see [section I.1.3](secI1.html#seci13) for
+produce a race to the bottom -- see [section I.1.3](secI1.md#seci13) for
 more discussion). This leads most eco-anarchists to call for a confederal
 economy and society in which communities will be decentralised and freely give
 of their resources without the use of money.
@@ -246,7 +246,7 @@ any new investments and proposed solutions to existing problems would be
 tailored to local conditions. Due to the mobility of capital, laws passed
 under capitalism to protect the environment have to be created and implemented
 by the central government to be effective. Yet the state, as discussed in
-[section E.1](secE1.html), is a centralised structure unsuited to the task of
+[section E.1](secE1.md), is a centralised structure unsuited to the task of
 collecting and processing the information and knowledge required to customise
 decisions to local ecological and social circumstances. This means that
 legislation, precisely due to its scope, cannot be finely tuned to local
@@ -432,17 +432,17 @@ lasting ecological change emerge. Unsurprisingly, modern anarchists and
 anarcho-syndicalists have been keen to stress the need for a green syndicalism
 which addresses ecological as well as economical exploitation. The ideas of
 community and industrial unionism are discussed in more detail in [section
-J.5](secJ5.html) along with other anarchist tactics for social change.
+J.5](secJ5.md) along with other anarchist tactics for social change.
 Needless to say, such organisations would use direct action as their means of
-achieving their goals (see [section J.2](secJ2.html)). It should be noted that
+achieving their goals (see [section J.2](secJ2.md)). It should be noted that
 some of Bookchin's social ecologist followers advocate, like him, greens
 standing in local elections as a means to create a counter-power to the state.
-As we discuss in [section J.5.14](secJ5.html#secj514), this strategy (called
+As we discuss in [section J.5.14](secJ5.md#secj514), this strategy (called
 Libertarian Municipalism) finds few supporters in the wider anarchist
 movement.
 
 This strategy flows, of course, into the structures of an ecological society.
-As we discuss in [section I.2.3](secI2.html#seci23), anarchists argue that the
+As we discuss in [section I.2.3](secI2.md#seci23), anarchists argue that the
 framework of a free society will be created in the process of fighting the
 existing one. Thus the structures of an eco-anarchist society (i.e. eco-
 communes and self-managed workplaces) will be created by fighting the ecocidal
@@ -453,11 +453,10 @@ capitalism. That means we act in an ecological fashion today in order to
 ensure that we can create an ecological society tomorrow.
 
 For more discussion of how an anarchist society would work, see [section
-I](secIcon.html). We will discuss the limitations of various proposed
+I](secIcon.md). We will discuss the limitations of various proposed
 solutions to the environmental crisis in the following sections.
 
-[‹ E.1 What are the root causes of our ecological problems?](/afaq/secE1.html
-"Go to previous page" ) [up](/afaq/secEcon.html "Go to parent page" ) [E.3 Can
-private property rights protect the environment? ›](/afaq/secE3.html "Go to
-next page" )
+[‹ E.1 What are the root causes of our ecological problems?](secE1.md "Go to
+previous page" ) [up](secEcon.md "Go to parent page" ) [E.3 Can private
+property rights protect the environment? ›](secE3.md "Go to next page" )
 

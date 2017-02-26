@@ -2,7 +2,6 @@
 action_**
 
 Phil Mitchinson essay [ **Marxism and direct
-action**](http://www.marxist.com/Theory/direct_action.html) attempts to
 provide a "Marxist" (i.e. Leninist/Trotskyist) critique of the current "Direct
 Action" based groups which came to notice at various demonstrations across the
 world -- most famously in Seattle, November 1999. He, correctly, links these
@@ -249,7 +248,7 @@ lives without leaders to tell us what to do!
 
 Anarchists reject the idea of leaders -- instead we argue for the
 _**"leadership of ideas."**_ As we discuss this concept in [section
-J.3.6](secJ3.html#secj36) and so will not do so here. However, the key concept
+J.3.6](secJ3.md#secj36) and so will not do so here. However, the key concept
 is that anarchists seek to spread their ideas by discussing their politics
 **as equals** in popular organisations and convincing the mass assemblies of
 these bodies by argument. Rather than using these bodies to be elected to
@@ -257,7 +256,7 @@ positions of power (i.e. leadership as it is traditionally understood)
 anarchists consider it essential that power remains in the hands of the base
 of an organisation and argue that the policies of the organisation be decided
 by the member directly in assemblies and co-ordinated by conferences of
-mandated, recallable delegates (see [section A.2.9](secA2.html#seca29) for
+mandated, recallable delegates (see [section A.2.9](secA2.md#seca29) for
 more discussion).
 
 This is to be expected, of course, as anarchists believe that a free society
@@ -511,7 +510,7 @@ anarcho-syndicalists to describe the struggle for reforms within capitalism!
 
 As for rejecting parliamentary activity, yes, anarchists do reject this form
 of "action." However, we do so for reasons Mitchinson fails to mention.
-[Section J.2](secJ2.html) of the FAQ discusses the reasons why anarchists
+[Section J.2](secJ2.md) of the FAQ discusses the reasons why anarchists
 support direct action and oppose electioneering as a means of both reform and
 for revolution.
 
@@ -1339,7 +1338,7 @@ capitalism and its state machine. It represented a rebellion by a section of
 the petty bourgeoisie at the loss of their position in society, driven to the
 wall by the growth of monopoly."_ We have refuted this assertion in another
 appendix ([Reply to errors and distortions in David McNally's pamphlet
-"Socialism from Below"](append3.html#app31)) and so will not do so here.
+"Socialism from Below"](append3.md#app31)) and so will not do so here.
 
 ## 14\. Why do anarchists reject the Marxist notion of _"conquest of power"_?
 
@@ -1611,7 +1610,7 @@ neither is "fate" much of a basis to explain the degeneration of the Russian
 Revolution but that is what Trotskyists do argue.
 
 We discuss the Russian Revolution in more detail in the appendix on [" What
-happened during the Russian Revolution?"](append41.html) of the FAQ and will
+happened during the Russian Revolution?"](append41.md) of the FAQ and will
 not do so here. However, we can point out the experience of the anarchist
 Makhnovist movement in the Ukraine during the Russian Revolution. Facing
 exactly the same objective conditions they encouraged soviet democracy, held
@@ -1628,10 +1627,10 @@ asserted that the Makhnovists were simply _"kulaks"_ on horseback and that
 Makhno's _"followers . . . [expressed] a militant anti-Semitism."_ [Lenin and
 Trotsky, **Kronstadt**, p. 80] We discuss the Makhnovist movement in the
 appendix on ["Why does the Makhnovist movement show there is an alternative to
-Bolshevism?"](append46.html) of the FAQ and there we refute claims that the
+Bolshevism?"](append46.md) of the FAQ and there we refute claims that the
 Makhnovist movement was a kulak (rich peasant) one. However, the charge of
 _"militant anti-Semitism"_ is a serious one and so we will expose its
-falsehood here and well as in [section 9](append46.html#app9) of the specified
+falsehood here and well as in [section 9](append46.md#app9) of the specified
 appendix.
 
 The best source to refute claims of anti-Semitism is to quote the work of the
@@ -2552,7 +2551,7 @@ participation of everyone yet favours a form of organisation -- centralisation
 
 In addition, he fails to note that technology and industry have been developed
 by capitalists to enhance their own power. As we argued in [section
-D.10](secD10.html), technology cannot be viewed in isolation from the class
+D.10](secD10.md), technology cannot be viewed in isolation from the class
 struggle. This means that industry and technology was not developed to allow
 the active participation of millions. The first act of any revolution will be
 seizing of the means of life -- including industry and technology -- by those
@@ -2737,8 +2736,7 @@ our comments above, we hope you agree with us. If you seek a **true**
 socialist transformation of this planet rather than its degeneration into
 centralised state capitalism, discover more about anarchism.
 
-[‹ Marxists and Spanish Anarchism](/afaq/append32.html "Go to previous page" )
-[up](/afaq/append3.html "Go to parent page" ) [Reply to errors and distortions
-in the SWP's "Marxism and Anarchism" ›](/afaq/append34.html "Go to next page"
-)
+[‹ Marxists and Spanish Anarchism](append32.md "Go to previous page" )
+[up](append3.md "Go to parent page" ) [Reply to errors and distortions in
+the SWP's "Marxism and Anarchism" ›](append34.md "Go to next page" )
 

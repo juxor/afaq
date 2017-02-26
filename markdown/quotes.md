@@ -16,8 +16,7 @@ resource. The prefix to the book is '_An'_ Anarchist FAQ. The
 collective is too modest. This is _the_ place to go to find  
 out about anarchist ides, theory and practice. It is accessible  
 and based on sound research. Thoroughly recommended."_  
-([Richard Griffin, **Freedom**](http://anarchism.pageabode.com/afaq/freedom-
-review-of-an-anarchist-faq)).
+([Richard Griffin, **Freedom**](freedom-review-of-an-anarchist-faq)).
 
 _"the primary source of information about anarchism on the  
 world wide web . . . a foundation stone for laying down the idea  
@@ -79,7 +78,7 @@ who wish to defend anarchism."_ (John Couzin, anarchist from Glasgow)
 
   
 
-[‹ An Anarchist FAQ: Introduction to Volume 2](/afaq/vol2intro.html "Go to
-previous page" ) [up](/afaq/intro.html "Go to parent page" ) [An Anarchist FAQ
-Webpage Contacts ›](/afaq/contact.html "Go to next page" )
+[‹ An Anarchist FAQ: Introduction to Volume 2](vol2intro.md "Go to previous
+page" ) [up](intro.md "Go to parent page" ) [An Anarchist FAQ Webpage
+Contacts ›](contact.md "Go to next page" )
 

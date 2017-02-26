@@ -3,7 +3,7 @@
 In a word, no. Here we explain why using as our example the arguments of a
 leading right-"libertarian."
 
-As discussed in the [last section](secE3.html), there is plenty of reason to
+As discussed in the [last section](secE3.md), there is plenty of reason to
 doubt the claim that private property is the best means available to protect
 the environment. Even in its own terms, it does not do so and this is
 compounded once we factor in aspects of any real capitalist system which are
@@ -73,16 +73,16 @@ high costs onto others. The problem is that Rothbard's solution cannot achieve
 this goal as it ignores economic power. Moreover, this argument implies that
 the consistent and intellectually honest right-"libertarian" would support a
 zero-emissions environmental policy. However, as we discuss in the [next
-section](secE4.html#sece41), Rothbard (like most right-"libertarians") turned
+section](secE4.md#sece41), Rothbard (like most right-"libertarians") turned
 to various legalisms like "provable harm" and ideological constructs to ensure
 that this policy would not be implemented. In fact, he argued extensively on
 how polluters **could** impose costs on other people under his system. First,
 however, we need to discuss the limitations of his position before discussing
 how he later reprehensibly refuted his own arguments. Then in [section
-E.4.2](secE4.html#sece42) we will indicate how his own theory cannot support
+E.4.2](secE4.md#sece42) we will indicate how his own theory cannot support
 the privatisation of water or the air nor the preservation of wilderness
 areas. Needless to say, much of the critique presented in [section
-E.3](secE3.html) is also applicable here and so we will summarise the key
+E.3](secE3.md) is also applicable here and so we will summarise the key
 issues in order to reduce repetition.
 
 As regards the issue of privatising natural resources like rivers, the most
@@ -155,7 +155,7 @@ someone smoke in their home in return for $100 or accept a job in a smoke
 filled pub or bar in order to survive in the short term regardless of the
 long-term danger of lung cancer). As such, it is always possible that, due to
 economic necessity in an unequal society, that a company may pay to be able to
-pollute. As we discussed in [section E.3.2](secE3.html#sece32), the demand for
+pollute. As we discussed in [section E.3.2](secE3.md#sece32), the demand for
 the ability to pollute freely has seen a shift in industries from the west to
 developing nations due to economic pressures and market logic:
 
@@ -226,7 +226,7 @@ just wishful thinking.
 
 Equally, it would be churlish to note that this change in the law (like so
 many others) was an essential part of the creation of capitalism in the first
-place. As we discuss in [section F.8](secF8.html), capitalism has always been
+place. As we discuss in [section F.8](secF8.md), capitalism has always been
 born of state intervention and the toleration of pollution was one of many
 means by which costs associated with creating a capitalist system were imposed
 on the general public. This is still the case today, with (for example) the
@@ -251,7 +251,7 @@ industrialisation on the working class in the form of pollution is
 unsurprising to anyone with a grasp of reality and how capitalism develops and
 works (it should be noted that the magazine expounded this particular argument
 to defend the infamous Lawrence Summers memo discussed in [section
-E.3.2](secE3.html#sece32)).
+E.3.2](secE3.md#sece32)).
 
 Finally, let us consider what would happen is Rothbard's schema could actually
 be applied. It would mean that almost every modern industry would be faced
@@ -274,7 +274,7 @@ over pollution damage. As usual, given a choice between individual freedom and
 capitalism Rothbard choose the latter. As such, as Rothbard himself proves
 beyond reasonable doubt, the extension of private property rights will be
 unable to protect the environment. We discuss this in the [next
-section](secE4.html#sece41).
+section](secE4.md#sece41).
 
 ## E.4.1 Will laissez-faire capitalism actually end pollution?
 
@@ -282,7 +282,7 @@ No, it will not. In order to show why, we need only quote Murray Rothbard's
 own arguments. It is worth going through his arguments to see exactly why
 "pure" capitalism simply cannot solve the ecological crisis.
 
-As noted in the [last section](secE4.html), Rothbard initially presented an
+As noted in the [last section](secE4.md), Rothbard initially presented an
 argument that free market capitalism would have a zero-emissions policy.
 Within a decade, he had substantially changed his tune in an article for the
 right-"libertarian" think-tank the **Cato Institute**. Perhaps this change of
@@ -298,7 +298,7 @@ whole).
 
 Rothbard's defence of the right to pollute is as ingenious as it is
 contradictory to his original position. As will be discussed in [section
-F.4](secF4.html), Rothbard subscribes to a _"homesteading"_ theory of property
+F.4](secF4.md), Rothbard subscribes to a _"homesteading"_ theory of property
 and he utilises this not only to steal the actual physical planet (the land)
 from this and future generations but also our (and their) right to a clean
 environment. He points to _"more sophisticated and modern forms of
@@ -317,7 +317,7 @@ criminal interference with the property rights of noncriminals."_ [_"Law,
 Property Rights, and Air Pollution,"_ pp. 55-99, **Cato Journal**, Vol. 2, No.
 1, p. 77, p. 79 and p. 89]
 
-In the [last section](secE4.html), we showed how Rothbard had earlier argued
+In the [last section](secE4.md), we showed how Rothbard had earlier argued
 that the solution to pollution was to privatise everything. Given that rivers,
 lakes and seas are currently **unowned** this implies that the current levels
 of pollution would be the initial "homesteaded" level and so privatisation
@@ -433,7 +433,7 @@ produced."_ [**Bakunin: The Creative Passion**, p. 26]
 This is clearly the case when a worker acts in a way which increases profits
 without externalities. The most obvious case is when workers' produce more
 goods than they receive back in wages (i.e. the exploitation at the heart of
-capitalism -- see [section C.2](secC2.html)). Why should that change when the
+capitalism -- see [section C.2](secC2.md)). Why should that change when the
 action has an externality? While it may benefit the boss to argue that he
 should gain the profits of the worker's actions but not the costs it hardly
 makes much logical sense. The labour sold becomes the property of the buyer
@@ -476,7 +476,7 @@ between property and planet/people the former will always win.
 
 To conclude, Rothbard provides more than enough evidence to disprove his own
 arguments. This is not a unique occurrence. As discussed in the [next
-section](secE4.html#sece42) he does the same as regards owning water and air
+section](secE4.md#sece42) he does the same as regards owning water and air
 resources.
 
 ## E.4.2 Can wilderness survive under laissez-faire capitalism?
@@ -512,7 +512,7 @@ Now, where does that leave wilderness? In response to ecologists who oppose
 the destruction of the rainforest, many supporters of capitalism suggest that
 they put their money where their mouth is and **buy** rainforest land. In this
 way, it is claimed, rainforest will be protected (see [section
-B.5](secB5.html) for why such arguments are nonsense). As ecologists desire
+B.5](secB5.md) for why such arguments are nonsense). As ecologists desire
 the rainforest **because it is wilderness** they are unlikely to "transform"
 it by human labour (its precisely that they want to stop). From Rothbard's
 arguments it is fair to ask whether logging companies have a right to
@@ -522,7 +522,7 @@ fencing off land "transforms" it (hardly what you imagine "mixing labour" with
 to mean, but never mind) -- but that allows large companies and rich
 individuals to hire workers to fence in vast tracks of land (and recreate the
 land monopoly by a "libertarian" route). But as discussed in [section
-F.4.1](secF4.html#secf41), fencing off land does not seem to imply that it
+F.4.1](secF4.md#secf41), fencing off land does not seem to imply that it
 becomes property in Rothbard's theory. And, of course, fencing in areas of
 rainforest disrupts the local eco-system -- animals cannot freely travel, for
 example -- which, again, is what ecologists desire to stop. Would Rothbard
@@ -785,7 +785,7 @@ rights which is why Rothbard, and other right-"libertarians", reject it while
 failing to note that Locke himself simply assumed that the invention of money
 transcended this limitation. [C.B. MacPherson, **The Political Theory of
 Individualism**, pp. 203-20] As we discussed in [section
-B.3.4](secB3.html#secb34), it should be stressed that this limitation is
+B.3.4](secB3.md#secb34), it should be stressed that this limitation is
 considered to be transcended purely in terms of material wealth rather than
 its impact on individual liberty or dignity which, surely, should be of prime
 concern for someone claiming to favour "liberty." What Rothbard failed to
@@ -795,7 +795,7 @@ destruction of the commons palatable to those with a conscience or some
 awareness of what liberty involves. This can be seen from the fact this
 limitation could be transcended at all (in the same way, Locke justified the
 exploitation of labour by arguing that it was the property of the worker who
-sold it to their boss -- see [section B.4.2](secB4.html#secb42) for details).
+sold it to their boss -- see [section B.4.2](secB4.md#secb42) for details).
 By getting rid of the Proviso, Rothbard simply exposes this theft of our
 common birthright in all its unjust glory.
 
@@ -832,12 +832,11 @@ property rights in water and air is hardly logical (although it is remorseless
 once we consider its impact when applied in an unequal and hierarchical
 society). That this nonsense is in direct opposition to the anarchist
 perspective on this issue should not come as a surprise any more than its
-incoherence. As we discuss in [section F](secFcon.html), Rothbard's claims to
+incoherence. As we discuss in [section F](secFcon.md), Rothbard's claims to
 being an "anarchist" are as baseless as his claim that capitalism will protect
 the environment.
 
-[‹ E.3 Can private property rights protect the environment?](/afaq/secE3.html
-"Go to previous page" ) [up](/afaq/secEcon.html "Go to parent page" ) [E.5 Can
-ethical consumerism stop the ecological crisis? ›](/afaq/secE5.html "Go to
-next page" )
+[‹ E.3 Can private property rights protect the environment?](secE3.md "Go to
+previous page" ) [up](secEcon.md "Go to parent page" ) [E.5 Can ethical
+consumerism stop the ecological crisis? ›](secE5.md "Go to next page" )
 

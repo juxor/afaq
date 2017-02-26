@@ -229,17 +229,17 @@ passion of either race or nationality."_ [Malatesta, **Op. Cit.**, p. 244]
 We must stress that anarchists, being opposed to all forms of exploitation and
 oppression, are against a situation of external domination where the one
 country dominates the people and territory of another country (i.e.,
-imperialism -- see [section D.5](secD5.html)). This flows from our basic
+imperialism -- see [section D.5](secD5.md)). This flows from our basic
 principles as _"[t]rue internationalism will never be attained except by the
 independence of each nationality, little or large, compact or disunited --
 just as anarchy is in the independence of each individual. If we say no
 government of man over man, how can [we] permit the government of conquered
 nationalities by the conquering nationalities?"_ [Kropotkin, quoted by Martin
 A. Miller, **Kropotkin**, p. 231] As we discuss in the [next
-section](secD7.html), while rejecting Nationalism anarchists do not
+section](secD7.md), while rejecting Nationalism anarchists do not
 necessarily oppose national liberation struggles against foreign domination.
 
-[‹ D.5 What causes imperialism?](/afaq/secD5.html "Go to previous page" )
-[up](/afaq/secDcon.html "Go to parent page" ) [D.7 Are anarchists opposed to
-National Liberation struggles? ›](/afaq/secD7.html "Go to next page" )
+[‹ D.5 What causes imperialism?](secD5.md "Go to previous page" )
+[up](secDcon.md "Go to parent page" ) [D.7 Are anarchists opposed to
+National Liberation struggles? ›](secD7.md "Go to next page" )
 

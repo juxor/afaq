@@ -2,11 +2,11 @@
 
 ##
 
-## [1 What is the history of the Black Flag?](append2.html#black)
+## [1 What is the history of the Black Flag?](append2.md#black)
 
-## [2 Why the red-and-black flag?](append2.html#redblack)
+## [2 Why the red-and-black flag?](append2.md#redblack)
 
-## [3 Where does the circled A come from?](append2.html#circledA)
+## [3 Where does the circled A come from?](append2.md#circledA)
 
 ###
 
@@ -171,7 +171,7 @@ the publication of the anarchist paper **Le Drapeau Noir** (**The Black
 Flag**) in Lyon which suggests that it had become a popular symbol within
 anarchist circles. [_"Sur la Symbolique anarchiste"_, **Bulletin du CIRA**,
 no. 62, p. 2] However, anarchists had been using red-and-black flags a number
-of years previously (see [next section](append2.html#redblack)) so Michel's
+of years previously (see [next section](append2.md#redblack)) so Michel's
 use of the colour black was not totally without precedence.
 
 Not long after, the black flag made its way to America. Paul Avrich reports
@@ -323,7 +323,7 @@ vol. 48, No. 12, p. 10] Given the 25 000 dead in the Commune, many of them
 anarchists and libertarian socialists, the use of the Black Flag by anarchists
 afterwards would make sense. Sandino, the Nicaraguan libertarian socialist
 (whose use of the red-and-black colours we discuss [
-below](append2.html#redblack)) also said that black stood for mourning (_"Red
+below](append2.md#redblack)) also said that black stood for mourning (_"Red
 for liberty; black for mourning; and the skull for a struggle to the death"_
 [Donald C. Hodges, **Sandino's Communism**, p. 24]).
 
@@ -567,7 +567,7 @@ the combination of both flags into one was a logical development. Given that
 the black **and** red flags were associated with the Lyon uprising of 1831,
 perhaps the development of the red-and-black flag is not too unusual.
 Similarly, given that the Black Flag was the _"flag of strikes"_ (to quote
-Louise Michel -- see [above](append2.html#black)) its use with the red flag of
+Louise Michel -- see [above](append2.md#black)) its use with the red flag of
 the labour movement seems a natural development for a movement like anarchism
 and anarcho-syndicalism which bases itself on direct action and the importance
 of strikes in the class struggle.
@@ -614,7 +614,7 @@ revolt of 1968"_ particularly as in many, if not most, of the world's
 languages the word for anarchy begins with the letter A. [Peter Peterson,
 **Op. Cit.**, p. 8]
 
-[‹ 11 What is the myth of "Natural Law"?](/afaq/append1311.html "Go to
-previous page" ) [up](/afaq/index.html "Go to parent page" ) [Appendix :
-Anarchism and Marxism ›](/afaq/append3.html "Go to next page" )
+[‹ 11 What is the myth of "Natural Law"?](append1311.md "Go to previous
+page" ) [up](index.md "Go to parent page" ) [Appendix : Anarchism and
+Marxism ›](append3.md "Go to next page" )
 

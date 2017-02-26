@@ -239,8 +239,8 @@ part of the anarchist movement -- a movement that has been dedicated since its
 inception to the destruction of capitalism! One would have to look hard to
 find a more audacious fraud.
 
-As we argue in [section 2.1](append132.html#secf21) of the appendix ["Is
-'anarcho'-capitalism a type of anarchism?"](append13.html) the claim that
+As we argue in [section 2.1](append132.md#secf21) of the appendix ["Is
+'anarcho'-capitalism a type of anarchism?"](append13.md) the claim that
 inequalities are irrelevant if they _"come about the right way"_ ignores the
 reality of freedom and what is required to be free. To see way we have to
 repeat part of our argument from that section and look at Murray Rothbard's (a
@@ -497,8 +497,8 @@ about within a "inegalitarian" legal framework! Thus, given that everything
 would be privatised, dissenters could only experiment if they could afford it
 **and** accepted the legal system based on capitalist property rights (and, of
 course, survive the competition of capitalist companies within the capitalist
-framework). As we have argued in sections [B.4](secB4.html) and
-[F.3](secF3.html) **why** should we have to **pay** the stealers of the earth
+framework). As we have argued in sections [B.4](secB4.md) and
+[F.3](secF3.md) **why** should we have to **pay** the stealers of the earth
 for the privilege to life our own lives? Caplan, in effect, ignores the
 barriers to experimentation in his system while distorting the anarchist
 position.
@@ -523,7 +523,7 @@ But, because of the loose way in which the term "property" is generally used,
 the "private property" of most "individuals" is commonly thought of as
 **personal possessions,** i.e. cars, houses, clothing, etc. (For the left-
 libertarian distinction between private property and possessions, see [section
-B.3.1.](secB3.html#secb31)) Therefore the argument makes it appear that right
+B.3.1.](secB3.md#secb31)) Therefore the argument makes it appear that right
 libertarians are in favour of protecting personal possessions whereas left-
 libertarians are not, thus conjuring up a world where, for example, there
 would be no protection against one's house being "physically invaded" by an
@@ -555,7 +555,7 @@ profit for investors," then the conclusion of the "theory" does indeed follow.
 
 And let us not forget that it is general equilibrium theory which predicts
 that unregulated competition will produce an efficient allocation of
-resources. However, as we noted in [section C.1](secC1.html), such a model has
+resources. However, as we noted in [section C.1](secC1.md), such a model has
 little to do with any real economy. This means that there is no real reason to
 assume an efficient outcome of capitalist economies. Concentrations of
 economic power and wealth can easily skew outcomes to favour the haves over
@@ -673,7 +673,7 @@ origins to the US Pentagon system, in which public money is provided to
 companies for military R&amp;D purposes. Once the technology has been proven
 viable, the companies involved can sell their public subsidised products for
 private profit. The computer industry (as we point out in [section
-J.4.7](secJ4.html#secj47)) is a classic example of this -- indeed it is
+J.4.7](secJ4.md#secj47)) is a classic example of this -- indeed it is
 unlikely whether we would have computers or the internet if we had waited for
 capitalists to development them. So whether a totally deregulated capitalism
 would have as high a rate of technological progress is a moot point.
@@ -741,7 +741,7 @@ stunted growth, in stark contrast to the arguments of neo-classical economics.
 
 Of course, we will be accused of supporting protectionism by recounting these
 facts. That is not the case, as protectionism is used as a means of
-"proletarianising" a nation (as we discuss in [section F.8](secF8.html)).
+"proletarianising" a nation (as we discuss in [section F.8](secF8.md)).
 Rather we are presenting evidence to refute a claim that deregulated
 capitalism will lead to higher growth. Thus, we suggest, the history of
 "actually existing" capitalism indicates that Caplan's claim that deregulated
@@ -764,7 +764,7 @@ Indeed, the functions in question could certainly be turned over to the "free"
 market, as was done in certain areas of the US during the 19th century, e.g.
 the coal towns that were virtually owned by private coal companies. We have
 already discussed the negative impact of that experiment on the working class
-in [section F.6.2](secF6.html#secf62). Our objection is not that such
+in [section F.6.2](secF6.md#secf62). Our objection is not that such
 privatisation cannot be done, but that it is an error to call it a form of
 anarchism. In reality it is an extreme form of laissez-faire capitalism, which
 is the exact opposite of anarchism. The defence of private power by private
@@ -1003,7 +1003,7 @@ artificial market niche created by the prohibition of alcohol, drugs,
 prostitution, gambling, and other victimless crimes. Mafia gangs might kill
 each other over turf, but liquor-store owners generally do not.)"_
 
-As we have pointed out in [section F.6](secF6.html), the "Mafia" objection to
+As we have pointed out in [section F.6](secF6.md), the "Mafia" objection to
 "anarcho"-capitalist defence companies is a red herring. The biggest problem
 would not be "criminal police" but the fact that working people and tenants
 would subject to the rules, power and laws of the property owners, the rich
@@ -1105,7 +1105,7 @@ instead."_
 Let us note first that in disputes between the capitalist class and the
 working class, there would be no _"neutral arbitrator,"_ because the rich
 would either own the arbitration company or influence/control it through the
-power of the purse (see [section F.6](secF6.html)). In addition, "successful"
+power of the purse (see [section F.6](secF6.md)). In addition, "successful"
 arbitrators would also be wealthy, therefore making neutrality even more
 unlikely. Moreover, given that the laws the "neutral arbitrator" would be
 using are based on capitalist property rights, the powers and privileges of
@@ -1212,7 +1212,7 @@ legal codes."_
 The argument that "consumer demand" would determine a "philosophically
 neutral" content of the law cannot be sustained. Any law code will reflect the
 philosophy of those who create it. Under "anarcho"-capitalism, as we have
-noted (see [section F.6](secF6.html)), the values of the capitalist rich will
+noted (see [section F.6](secF6.md)), the values of the capitalist rich will
 be dominant and will shape the law code and justice system, as they do now,
 only more so. The law code will therefore continue to give priority to the
 protection of private property over human values; those who have the most
@@ -1267,7 +1267,7 @@ the wealth they currently have which are a result of previous "initiations of
 force". This would give them an obvious advantage on the "free-market" -- an
 advantage which would be insurmountable).
 
-As we explain in more detail in [ section J.5.11](secJ5.html#secj511), the
+As we explain in more detail in [ section J.5.11](secJ5.md#secj511), the
 reason why there are not more producer co-operatives is partly structural,
 based on the fact that co-operatives have a tendency to grow at a slower rate
 than capitalist firms. This is a good thing if one's primary concern is, say,
@@ -1311,7 +1311,7 @@ co-operative enterprises would co-ordinate production for **use** rather than
 profit, thus eliminating the competitive basis of the economy and so also the
 "grow-or-die" principle which now puts co-operatives at a fatal economic
 disadvantage. (For more on how such an economy would be organised and
-operated, as well as answers to objections, see [section I](secIcon.html).)
+operated, as well as answers to objections, see [section I](secIcon.md).)
 
 And let us not forget what is implied by Caplan's statement that the
 "anarcho"-capitalist does not think that co-operative holding of "property"
@@ -1340,7 +1340,7 @@ In other words, these worker-owned firms would exist in and be subject to the
 same capitalist _"general libertarian law code"_ and work in the same
 capitalist market as the rest of society. So, not only are these co-operatives
 subject to capitalist market forces, they exist and operate in a society
-defined by capitalist laws. As discussed in [section F.2](secF2.html), such
+defined by capitalist laws. As discussed in [section F.2](secF2.md), such
 disregard for the social context of human action shows up the "anarcho"
 capitalist's disregard for meaningful liberty.
 
@@ -1390,7 +1390,7 @@ existing today _"commenced from a distribution of property which was the
 result, not of a just partition, or acquisition by industry, but of conquest
 and violence . . . [and] the system still retains many and large traces of its
 origin."_ [**Principles of Political Economy**, p. 15] Given that (as we point
-out in [section F.1](secF1.html)) Murray Rothbard argues that the state cannot
+out in [section F.1](secF1.md)) Murray Rothbard argues that the state cannot
 be claimed to own its territory simply because it did not acquire its property
 in a "just" manner, this suggests that "anarcho"-capitalism cannot actually
 argue against the state. After all, property owners today cannot be said to
@@ -1496,7 +1496,7 @@ upon the oppressor! In contrast, anarchist theory provides a strong rationale
 for resisting private and public domination. Such domination violates freedom
 and any free association which dominates any within it violates the basis of
 that association in self-assumed obligation (see [section
-A.2.11](secA2.html#seca211)). Thus Proudhon:
+A.2.11](secA2.md#seca211)). Thus Proudhon:
 
 > _"The social contract should increase the well-being and liberty of every
 citizen. -- If any one-sided conditions should slip in; if one part of the
@@ -1527,7 +1527,7 @@ irresponsibility rather than by the inevitable workings of an economic system
 that **requires** a large _"reserve army of the unemployed"_ as a condition of
 profitability. The continuous "boom" economy of "anarcho"-capitalist fantasies
 is simply incompatible with the fundamental principles of capitalism. To re-
-quote Michael Kalecki (from [section B.4.4](secB4.html#secb44)), _"[l]asting
+quote Michael Kalecki (from [section B.4.4](secB4.md#secb44)), _"[l]asting
 full employment is not at all to [the] liking [of business leaders]. The
 workers would 'get out of hand' and the 'captains of industry' would be
 anxious 'to teach them a lesson'"_ as _"'discipline in the factories' and
@@ -1535,7 +1535,7 @@ anxious 'to teach them a lesson'"_ as _"'discipline in the factories' and
 Their class interest tells them that lasting full employment is unsound from
 their point of view and that unemployment is an integral part of the 'normal'
 capitalist system."_. See section C.7 (["What causes the capitalist business
-cycle?"](secC7.html)) for a fuller discussion of this point.
+cycle?"](secC7.md)) for a fuller discussion of this point.
 
 In addition, the claims that a "deregulated economy" would benefit the poor do
 not have much empirical evidence to back them up. If we look at the last
@@ -1564,8 +1564,7 @@ Anarchism**, no. 23, p.101] Caplan seems to expect them to turn over a new
 leaf and give **more** to that same rabble!
 
 [‹ Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory
-FAQ" version 5.2](/afaq/append11.html "Go to previous page" )
-[up](/afaq/append1.html "Go to parent page" ) [Appendix - Is
-"anarcho"-capitalism a type of anarchism? ›](/afaq/append13.html "Go to next
-page" )
+FAQ" version 5.2](append11.md "Go to previous page" ) [up](append1.md "Go
+to parent page" ) [Appendix - Is "anarcho"-capitalism a type of anarchism?
+›](append13.md "Go to next page" )
 

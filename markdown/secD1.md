@@ -19,7 +19,7 @@ reasons:
          2. To benefit certain sections of the capitalist class against others.  
          3. To counteract the anti-social effects of capitalism. 
 
-From our discussion of the state and its role in [section B.2](secB2.html),
+From our discussion of the state and its role in [section B.2](secB2.md),
 the first two reasons are unexpected and straight forward. The state is an
 instrument of class rule and, as such, acts to favour the continuation of the
 system as a whole. The state, therefore, has always intervened in the
@@ -76,7 +76,7 @@ Government applied the 'leave things alone' principle to the exploited masses.
 It reserved it for the exploiters only."_ [**Op. Cit.**, p. 96] As such, under
 pure "free market" capitalism state intervention would still exist but it
 would be limited to repressing the working class (see [section
-D.1.4](secD1.html#secd14) for more discussion).
+D.1.4](secD1.md#secd14) for more discussion).
 
 Then there is the last reason, namely counteracting the destructive effects of
 capitalism itself. As Chomsky puts it, _"in a predatory capitalist economy,
@@ -103,7 +103,7 @@ society from the atomising and destructive impact of capitalism. Moreover,
 capitalism has an inherent tendency toward periodic recessions or depressions,
 and the attempt to prevent them has become part of the state's function.
 However, since preventing them is impossible (they are built into the system
--- see [section C.7](secC7.html)), in practice the state can only try to
+-- see [section C.7](secC7.md)), in practice the state can only try to
 postpone them and ameliorate their severity. Let's begin with the need for
 social intervention.
 
@@ -207,7 +207,7 @@ started to undermine a country's economy, it was quickly revoked. For example,
 protectionism is often used to protect a fragile economy and militarism has
 always been a favourite way for the ruling elite to help the economy, as is
 still the case, for example, in the "Pentagon System" in the USA (see [section
-D.8](secD8.html)).
+D.8](secD8.md)).
 
 Therefore, contrary to conventional wisdom, state intervention will always be
 associated with capitalism due to: (1) its authoritarian nature; (2) its
@@ -308,7 +308,7 @@ establish it, and once established, in order to maintain it."_ [**Op. Cit.**,
 p. 149] Protectionism and subsidy (mercantilism) -- along with the liberal use
 of state violence against the working class -- was required to create and
 protect capitalism and industry in the first place (see [section
-F.8](secF8.html) for details).
+F.8](secF8.md) for details).
 
 In short, although laissez-faire may be the ideological basis of capitalism --
 the religion that justifies the system -- it has rarely if ever been actually
@@ -496,7 +496,7 @@ p. 24] In such circumstances, it would be amazing that state intervention did
 not have negative effects. However, to criticise those negative effects while
 ignoring or downplaying the far worse social problems which produced the
 intervention in the first place is both staggeringly illogical and deeply
-hypocritical. As we discuss later, in [section D.1.5](secD1.html#secd15), the
+hypocritical. As we discuss later, in [section D.1.5](secD1.md#secd15), the
 anarchist approach to reforms and state intervention is based on this
 awareness.
 
@@ -769,7 +769,7 @@ corporation is comparable to that of the organisation of labour"_ is right,
 but in the exact opposite way he intended. [**Law, Legislation and Liberty**,
 vol. III, p. 89] Outside the imagination of conservatives and right-wing
 liberals, big business has much greater influence than trade unions on
-government policy (see [section D.2](secD2.html) for some details). While
+government policy (see [section D.2](secD2.md) for some details). While
 trade union and other forms of popular action are more visible than elite
 pressures, it does not mean that the form does not exist or less influential.
 Quite the reverse. The latter may be more noticeable, true, but is only
@@ -812,7 +812,7 @@ _"collective action"_. The difference is that the actions and groups are
 dictated by the few individuals at the top. As would be expected, the
 application of his ideas by the Thatcher government not only bolstered
 capitalist power and resulted in increased inequality and exploitation (see
-[section J.4.2](secJ4.html#secj42)) but also a strengthening and
+[section J.4.2](secJ4.md#secj42)) but also a strengthening and
 centralisation of state power. One aspect of this the introduction of
 government regulation of unions as well as new legislation which increase
 police powers to restrict the right to strike and protest (both of which were,
@@ -857,7 +857,7 @@ intact while the latter created an even worse form of class system.
 
 The identification of socialism with the state is something that social
 democrats, Stalinists and capitalist apologists **all** agree upon. However,
-as we'll see in [section H.3.13](secH3.html#sech313), "state socialism" is in
+as we'll see in [section H.3.13](secH3.md#sech313), "state socialism" is in
 reality just state capitalism -- the turning of the world into "one office and
 one factory" (to use Lenin's expression). Little wonder that most sane people
 join with anarchists in rejecting it. Who wants to work under a system in
@@ -923,7 +923,7 @@ intervention that they favour, for example, patent and copyright protection,
 as simply part of the natural order of things."_ [**Op. Cit.**, p. 1 and p. 2]
 
 This, it should be stressed, is unexpected. As we explained in [section
-B.2](secB2.html), the state is an instrument of minority rule. As such, it
+B.2](secB2.md), the state is an instrument of minority rule. As such, it
 strains belief that state intervention would be socialist in nature. After
 all, if the state is an agent of a self-interesting ruling class, then its
 laws are inevitably biased in its favour. The ultimate purpose of the state
@@ -1130,7 +1130,7 @@ ruling class to interfere with the economy. If economic coercion is
 sufficient, then the elite has no need to turn to the state for aid. This
 objection, however, fails to appreciate that the state **has** to interfere to
 counteract the negative impacts of capitalism. Moreover, as we discussed in
-[section C.7](secC7.html), economic coercion becomes less pressing during
+[section C.7](secC7.md), economic coercion becomes less pressing during
 periods of low unemployment and these tend to provoke a slump. It is in the
 interests of the ruling elite to use state action to reduce the power of the
 working classes in society. Thus we find the Federal Reserve in the USA
@@ -1145,8 +1145,8 @@ conventionally defined, they're also concerned with the state of the class
 struggle, to use the old-fashioned language."_ [**Wall Street**, p. 219]
 Little wonder the ruling class and its high priests within the "science" of
 economics have embraced the concept of a "natural rate" of unemployment (see
-[section C.9](secC9.html) on this and as we indicated in [section
-C.6](secC6.html), this has been **very** enriching for the ruling class since
+[section C.9](secC9.md) on this and as we indicated in [section
+C.6](secC6.md), this has been **very** enriching for the ruling class since
 1980).
 
 Ultimately, the business class wants the state to intervene in the economy
@@ -1190,7 +1190,7 @@ defence would not be statist but would be similar in nature to trade unionism,
 co-operatives and pressure groups -- individuals working together in voluntary
 associations to ensure a free and just society -- within the context of an
 egalitarian, decentralised and participatory system which eliminates or
-reduces the problems in the first place (see [section I](secIcon.html)).
+reduces the problems in the first place (see [section I](secIcon.md)).
 
 However, that does not answer the question of what we do in the here and now
 when faced with demands that the welfare state (for the working class, **not**
@@ -1250,7 +1250,7 @@ an evil).
 
 Taking the issue of privatisation of state owned and run industry, the
 anarchist position is opposition to both. As we noted in [section
-D.1.3](secD1.html#secd13), the anarchist prediction that if you substitute
+D.1.3](secD1.md#secd13), the anarchist prediction that if you substitute
 government ownership for private ownership, _"nothing is changed but the
 stockholders and the management; beyond that, there is not the least
 difference in the position of the workers."_ [Proudhon, quoted by Ritter,
@@ -1430,7 +1430,7 @@ happily uses the state to enforce its power and property rights, working
 people making whatever use they can of it is to be expected. Be that as it
 may, this does not blind anarchists to the negative aspects of the welfare
 state and other forms of state intervention (see [section
-J.5.15](secJ5.html#secj515) for anarchist perspectives on the welfare state).
+J.5.15](secJ5.md#secj515) for anarchist perspectives on the welfare state).
 
 One problem with state intervention, as Kropotkin saw, is that the state's
 absorption of social functions _"necessarily favoured the development of an
@@ -1445,7 +1445,7 @@ the first place. The pressing need, therefore, is for working class people
 need _"independent control . . . of their own welfare programs. Mutual aid and
 welfare arrangements are necessary."_ [Sam Dolgoff, **The American Labour
 Movement**, p. 26] Specific forms of community and social self-help and their
-historical precedents are discussed in [section J.5.16](secJ5.html#secj516).
+historical precedents are discussed in [section J.5.16](secJ5.md#secj516).
 
 This means that the anarchist task is building popular resistance to the state
 and capitalism and that may, at time, involves resisting attempts to impose
@@ -1493,7 +1493,7 @@ The task of anarchists therefore is not to abstractly oppose state
 intervention but rather contribute to popular self-organisation and struggle,
 creating pressures from the streets and workplaces that governments cannot
 ignore or defy. This means supporting direct action rather than electioneering
-(see [section J.2](secJ2.html)) for the _"make-up of the government, the
+(see [section J.2](secJ2.md)) for the _"make-up of the government, the
 names, persons and political tendencies which rubbed shoulders in it, were
 incapable of effecting the slightest amendment to the enduring quintessence of
 the state organism . . . And the price of entering the of strengthening the
@@ -1503,7 +1503,7 @@ always . . . a corresponding debilitation of grassroots elements. Men may come
 and go, but the state remains."_ [Jose Peirats, **The CNT in the Spanish
 Revolution**, vol. 2, p. 150]
 
-[‹ D.0 Section D Introduction](/afaq/secDint.html "Go to previous page" )
-[up](/afaq/secDcon.html "Go to parent page" ) [D.2 What influence does wealth
-have over politics? ›](/afaq/secD2.html "Go to next page" )
+[‹ D.0 Section D Introduction](secDint.md "Go to previous page" )
+[up](secDcon.md "Go to parent page" ) [D.2 What influence does wealth have
+over politics? ›](secD2.md "Go to next page" )
 

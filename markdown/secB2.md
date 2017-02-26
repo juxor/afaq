@@ -1,6 +1,6 @@
 # B.2 Why are anarchists against the state?
 
-As previously noted (see [section B.1](secB1.html)), anarchists oppose all
+As previously noted (see [section B.1](secB1.md)), anarchists oppose all
 forms of hierarchical authority. Historically, however, they have spent most
 of their time and energy opposing two main forms in particular. One is
 capitalism, the other, the state. These two forms of authority have a
@@ -169,7 +169,7 @@ political power."_ [Bakunin, **Op. Cit.**, p. 211]
 As the state is the delegation of power into the hands of the few, it is
 obviously based on hierarchy. This delegation of power results in the elected
 people becoming isolated from the mass of people who elected them and outside
-of their control (see [section B.2.4](secB2.html#secb24)). In addition, as
+of their control (see [section B.2.4](secB2.md#secb24)). In addition, as
 those elected are given power over a host of different issues and told to
 decide upon them, a bureaucracy soon develops around them to aid in their
 decision-making and enforce those decisions once they have been reached.
@@ -268,7 +268,7 @@ themselves.
 Such behaviour is not surprising, given that Anarchists see the state, with
 its vast scope and control of deadly force, as the "ultimate" hierarchical
 structure, suffering from all the negative characteristics associated with
-authority described in the [last section](secB1.html). _"Any loical and
+authority described in the [last section](secB1.md). _"Any loical and
 straightforward theory of the State,"_ argued Bakunin, _"is essentially
 founded upon the principle of **authority**, that is the eminently
 theological, metaphysical, and political idea that the masses, **always**
@@ -293,18 +293,18 @@ its role as a defender of the economically dominant class in society against
 the rest of it (i.e. from the working class). This means, under the current
 system, the capitalists _"need the state to legalise their methods of robbery,
 to protect the capitalist system."_ [Berkman, **What is Anarchism?**, p. 16]
-The state, as we discuss in [section B.2.1](secB2.html#secb21), is the
-defender of private property (see [section B.3](secB3.html) for a discussion
+The state, as we discuss in [section B.2.1](secB2.md#secb21), is the
+defender of private property (see [section B.3](secB3.md) for a discussion
 of what anarchists mean by that term and how it differs from individual
 possessions).
 
 This means that in capitalist states the mechanisms of state domination are
 controlled by and for a corporate elite (and hence the large corporations are
 often considered to belong to a wider _"state-complex"_). Indeed, as we
-discuss in more depth in [section F.8](secF8.html), the _"State has been, and
+discuss in more depth in [section F.8](secF8.md), the _"State has been, and
 still is, the main pillar and the creator, direct and indirect, of Capitalism
 and its powers over the masses."_ [Kropotkin, **Evolution and Environment**,
-p. 97] [Section B.2.3](secB2.html#secb23) indicates how this is domination is
+p. 97] [Section B.2.3](secB2.md#secb23) indicates how this is domination is
 achieved in a representative democracy.
 
 However this does not mean anarchists think that the state is purely an
@@ -318,7 +318,7 @@ own, distinct from and sometimes in opposition to the economic ruling elite.
 This means that both state **and** capitalism needs to be abolished, for the
 former is as much a distinct (and oppressive and exploitative) class as the
 former. This aspects of the state is discussed in [section
-B.2.6](secB2.html#secb26).
+B.2.6](secB2.md#secb26).
 
 As part of its role as defender of capitalism, the state is involved in not
 only in political domination but also in economic domination. This domination
@@ -327,14 +327,14 @@ rights to actually owning workplaces and exploiting labour directly. Thus
 every state intervenes in the economy in some manner. While this is usually to
 favour the economically dominant, it can also occur try and mitigate the anti-
 social nature of the capitalist market and regulate its worse abuses. We
-discuss this aspect of the state in [section B.2.2](secB2.html#secb22).
+discuss this aspect of the state in [section B.2.2](secB2.md#secb22).
 
 Needless to say, the characteristics which mark a state did not develop by
-chance. As we discuss in [section H.3.7](secH3.html#sech37), anarchists have
+chance. As we discuss in [section H.3.7](secH3.md#sech37), anarchists have
 an evolutionary perspective on the state. This means that it has a
 hierarchical nature in order to facilitate the execution of its role, its
-function. As sections [B.2.4](secB2.html#secb24) and
-[B.2.5](secB2.html#secb25) indicate, the centralisation that marks a state is
+function. As sections [B.2.4](secB2.md#secb24) and
+[B.2.5](secB2.md#secb25) indicate, the centralisation that marks a state is
 required to secure elite rule and was deliberately and actively created to do
 so. This means that states, by their very nature, are top-down institutions
 which centralise power into a few hands and, as a consequence, a state _"with
@@ -393,12 +393,12 @@ The state ensures the exploitative privileges of its ruling elite by
 protecting certain economic monopolies from which its members derive their
 wealth. The nature of these economic privileges varies over time. Under the
 current system, this means defending capitalist property rights (see [section
-B.3.2](secB3.html#secb32)). This service is referred to as "protecting private
+B.3.2](secB3.md#secb32)). This service is referred to as "protecting private
 property" and is said to be one of the two main functions of the state, the
 other being to ensure that individuals are "secure in their persons." However,
 although this second aim is professed, in reality most state laws and
 institutions are concerned with the protection of property (for the anarchist
-definition of "property" see [section B.3.1](secB3.html#secb31)).
+definition of "property" see [section B.3.1](secB3.md#secb31)).
 
 From this we may infer that references to the "security of persons," "crime
 prevention," etc., are mostly rationalisations of the state's existence and
@@ -436,7 +436,7 @@ maintain that without the state and the crime-engendering conditions to which
 it gives rise, it would be possible for decentralised, voluntary community
 associations to deal compassionately (not punitively) with the few
 incorrigibly violent people who might remain (see [section
-I.5.8](secI5.html#seci58)).
+I.5.8](secI5.md#seci58)).
 
 Anarchists think it is pretty clear what the real role of the modern state is.
 It represents the essential coercive mechanisms by which capitalism and the
@@ -523,7 +523,7 @@ control of 'concentrations of private power.' The 'national interest' as
 articulated by those who dominate the . . . societies will be their special
 interests. Under these circumstances, talk of 'national interest' can only
 contribute to mystification and oppression."_ [Noam Chomsky, **Radical
-Priorities**, p. 52] As we discuss in [section D.6](secD6.html), nationalism
+Priorities**, p. 52] As we discuss in [section D.6](secD6.md), nationalism
 always reflects the interests of the elite, not those who make up a nation
 and, consequently, anarchists reject the notion as nothing more than a con
 (i.e. the use of affection of where you live to further ruling class aims and
@@ -553,13 +553,13 @@ the modern state _"unites in itself the two conditions necessary for the
 prosperity of the capitalistic economy: State centralisation and the actual
 subjection of . . . the people . . . to the minority allegedly representing it
 but actually governing it."_ [**Op. Cit.**, p. 210] How this is achieved is
-discussed in [section B.2.3](secB2.html#secb23).
+discussed in [section B.2.3](secB2.md#secb23).
 
   
 
 ## B.2.2 Does the state have subsidiary functions?
 
-Yes, it does. While, as discussed in the [last section](secB2.html#secb21),
+Yes, it does. While, as discussed in the [last section](secB2.md#secb21),
 the state is an instrument to maintain class rule this does not mean that it
 is limited to just defending the social relationships in a society and the
 economic and political sources of those relationships. No state has ever left
@@ -574,7 +574,7 @@ the state. The first one is to boost the interests of the ruling elite either
 nationally or internationally beyond just defending their property. The second
 is to protect society against the negative effects of the capitalist market.
 We will discuss each in turn and, for simplicity and relevance, we will
-concentrate on capitalism (see also [section D.1](secD1.html)).
+concentrate on capitalism (see also [section D.1](secD1.md)).
 
 The first main subsidiary function of the state is when it intervenes in
 society to help the capitalist class in some way. This can take obvious forms
@@ -637,7 +637,7 @@ In other words, the state acts to protect the long-term interests of the
 capitalist class as a whole (and ensure its own survival) by protecting the
 system. This role can and does clash with the interests of particular
 capitalists or even whole sections of the ruling class (see [section
-B.2.6](secB2.html#secb26)). But this conflict does not change the role of the
+B.2.6](secB2.md#secb26)). But this conflict does not change the role of the
 state as the property owners' policeman. Indeed, the state can be considered
 as a means for settling (in a peaceful and apparently independent manner)
 upper-class disputes over what to do to keep the system going.
@@ -743,7 +743,7 @@ to do as they liked). In the second period, the state was granting concessions
 to the working class to eliminate a threat to the integrity of the system as a
 whole. Needless to say, once workers' struggle calmed down and their
 bargaining position reduced by the normal workings of market (see [section
-B.4.3](secB4.html#secb43)), the legislation restricting the working day was
+B.4.3](secB4.md#secb43)), the legislation restricting the working day was
 happily ignored and became "dead laws."
 
 This suggests that there is a continuing tension and conflict between the
@@ -752,7 +752,7 @@ to protect people and society from the consequences of its workings. Who wins
 this conflict depends on the relative strength of those involved (as does the
 actual reforms agreed to). Ultimately, what the state concedes, it can also
 take back. Thus the rise and fall of the welfare state -- granted to stop more
-revolutionary change (see [section D.1.3](secD1.html#secd13)), it did not
+revolutionary change (see [section D.1.3](secD1.md#secd13)), it did not
 fundamentally challenge the existence of wage labour and was useful as a means
 of regulating capitalism but was "reformed" (i.e. made worse, rather than
 better) when it conflicted with the needs of the capitalist economy and the
@@ -801,11 +801,11 @@ Cit.**, p. 24]
 
 Obviously, being an instrument of the ruling elite, the state can hardly be
 relied upon to control the system which that elite run. As we discuss in the
-[next section](secB2.html#secb23), even in a democracy the state is run and
+[next section](secB2.md#secb23), even in a democracy the state is run and
 controlled by the wealthy making it unlikely that pro-people legislation will
 be introduced or enforced without substantial popular pressure. That is why
 anarchists favour direct action and extra-parliamentary organising (see
-sections [J.2](secJ2.html) and [J.5](secJ5.html) for details). Ultimately,
+sections [J.2](secJ2.md) and [J.5](secJ5.md) for details). Ultimately,
 even basic civil liberties and rights are the product of direct action, of
 _"mass movements among the people"_ to _"wrest these rights from the ruling
 classes, who would never have consented to them voluntarily."_ [Rocker,
@@ -1037,7 +1037,7 @@ are notably absent."_ [Joel Bakan, **The Corporation**, p. 107]
 However, it cannot be denied that it is up to the general population to vote
 for politicians. This is when the indirect impact of wealth kicks in, namely
 the role of the media and the Public Relations (PR) industry. As we discuss in
-[section D.3](secD3.html), the modern media is dominated by big business and,
+[section D.3](secD3.md), the modern media is dominated by big business and,
 unsurprisingly, reflects their interests. This means that the media has an
 important impact on how voters see parties and specific politicians and
 candidates. A radical party will, at best, be ignored by the capitalist press
@@ -1048,7 +1048,7 @@ countering the negative media coverage. The PR industry has a similar effect,
 although that has the advantage of not having to bother with appearing to look
 factual or unbiased. Add to this the impact of elite and corporation funded
 _"think tanks"_ and the political system is fatally skewed in favour of the
-capitalist class (also see [section D.2](secD2.html)).
+capitalist class (also see [section D.2](secD2.md)).
 
 In a nutshell:
 
@@ -1065,7 +1065,7 @@ That is the first barrier, the direct and indirect impact of wealth. This, in
 itself, is a powerful barrier to deter democracy and, as a consequence, it is
 usually sufficient in itself. Yet sometimes people see through the media
 distortions and vote for reformist, even radical, candidates. As we discuss in
-[section J.2.6](secJ2.html#secj26), anarchists argue that the net effect of
+[section J.2.6](secJ2.md#secj26), anarchists argue that the net effect of
 running for office is a general **de**-radicalising of the party involved.
 Revolutionary parties become reformist, reformist parties end up maintaining
 capitalism and introducing polities the opposite of which they had promised.
@@ -1077,7 +1077,7 @@ barrier.
 The existence of a state bureaucracy is a key feature in ensuring that the
 state remains the ruling class's _"policeman"_ and will be discussed in
 greater detail in section J.2.2 ([Why do anarchists reject voting as a means
-for change?](secJ2.html#secj22)). Suffice to say, the politicians who are
+for change?](secJ2.md#secj22)). Suffice to say, the politicians who are
 elected to office are at a disadvantage as regards the state bureaucracy. The
 latter is a permanent concentration of power while the former come and go.
 Consequently, they are in a position to tame any rebel government by means of
@@ -1156,7 +1156,7 @@ It is due to these barriers that the state remains an instrument of the
 capitalist class while being, in theory, a democracy. Thus the state machine
 remains a tool by which the few can enrich themselves at the expense of the
 many. This does not mean, of course, that the state is immune to popular
-pressure. Far from it. As indicated in the [last section](secB2.html#secb22),
+pressure. Far from it. As indicated in the [last section](secB2.md#secb22),
 direct action by the oppressed can and has forced the state to implement
 significant reforms. Similarly, the need to defend society against the
 negative effects of unregulated capitalism can also force through populist
@@ -1320,7 +1320,7 @@ As intended, as isolated people are no threat to the powers that be. This
 process of marginalisation can be seen from American history, for example,
 when town meetings were replaced by elected bodies, with the citizens being
 placed in passive, spectator roles as mere "voters" (see [next
-section](secB2.html#secb25)). Being an atomised voter is hardly an ideal
+section](secB2.md#secb25)). Being an atomised voter is hardly an ideal
 notion of "freedom," despite the rhetoric of politicians about the virtues of
 a "free society" and "The Free World" -- as if voting once every four or five
 years could ever be classed as "liberty" or even "democracy."
@@ -1437,7 +1437,7 @@ bureaucrats and politicians to support centralism.
 
 Under capitalism, however, various sections of the business class also support
 state centralism. This is the symbiotic relationship between capital and the
-state. As will be discussed later (in [section F.8](secF8.html)), the state
+state. As will be discussed later (in [section F.8](secF8.md)), the state
 played an important role in "nationalising" the market, i.e. forcing the "free
 market" onto society. By centralising power in the hands of representatives
 and so creating a state bureaucracy, ordinary people were disempowered and
@@ -1746,7 +1746,7 @@ own interests. Indeed, in some circumstances it can be the ruling class
 itself.
 
 However, in normal times the state is, as we discussed in [section
-B.2.1](secB2.html#secb21), a tool of the capitalist class. This, it must be
+B.2.1](secB2.md#secb21), a tool of the capitalist class. This, it must be
 stressed, does not mean that they always see _"eye to eye."_ Top politicians,
 for example, are part of the ruling elite, but they are in competition with
 other parts of it. In addition, different sectors of the capitalist class are
@@ -1884,7 +1884,7 @@ group or a bureaucracy. This means that the state can also effectively
 **replace** the economically dominant elite as the exploiting class. This is
 because anarchists view the state as having (class) interests of its own.
 
-As we discuss in more detail in [section H.3.9](secH3.html#sech39), the state
+As we discuss in more detail in [section H.3.9](secH3.md#sech39), the state
 cannot be considered as merely an instrument of (economic) class rule. History
 has shown numerous societies were the state **itself** was the ruling class
 and where no other dominant economic class existed. The experience of Soviet
@@ -1895,10 +1895,10 @@ build its own state within which to rule society. Rather than being an
 instrument by which working class people could run and transform society in
 their own interests, the new state created by the Russian Revolution soon
 became a power over the class it claimed to represent (see [section
-H.6](secH6.html) for more on this). The working class was exploited and
+H.6](secH6.md) for more on this). The working class was exploited and
 dominated by the new state and its bureaucracy rather than by the capitalist
 class as previously. This did not happen by chance. As we discuss in [section
-H.3.7](secH3.html#sech37), the state has evolved certain characteristics (such
+H.3.7](secH3.md#sech37), the state has evolved certain characteristics (such
 as centralisation, delegated power and so on) which ensure its task as
 enforcer of minority rule is achieved. Keeping those characteristics will
 inevitably mean keeping the task they were created to serve.
@@ -1919,8 +1919,7 @@ represents nor that it has to be the tool of an economically dominant class.
 One thing is sure, however. The state is not a suitable tool for securing the
 emancipation of the oppressed.
 
-[‹ B.1 Why are anarchists against authority and hierarchy?](/afaq/secB1.html
-"Go to previous page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.3 Why
-are anarchists against private property? ›](/afaq/secB3.html "Go to next page"
-)
+[‹ B.1 Why are anarchists against authority and hierarchy?](secB1.md "Go to
+previous page" ) [up](secBcon.md "Go to parent page" ) [B.3 Why are
+anarchists against private property? ›](secB3.md "Go to next page" )
 

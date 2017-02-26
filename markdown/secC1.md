@@ -82,7 +82,7 @@ number of small firms in every market or that time is an unimportant concept
 which can be abstracted from. Even when we ignore those assumptions which are
 obviously nonsense, the remaining ones are hardly much better. Here we have a
 collection of apparently valid positions which, in fact, rarely have any basis
-in reality. As we discuss in [section C.1.2](secC1.html#secc12), an essential
+in reality. As we discuss in [section C.1.2](secC1.md#secc12), an essential
 one, without which neoclassical economics simply disintegrates, has very
 little basis in the real world (in fact, it was invented simply to ensure the
 theory worked as desired). Similarly, markets often adjust in terms of
@@ -250,7 +250,7 @@ class warfare."_ [Chomsky, **Op. Cit.**, p. 252]). This works on numerous
 levels. The most obvious is that most economists take the current class system
 and wealth/income distribution as granted and generate general _"laws"_ of
 economics from a specific historical society. As we discuss in the [next
-section](secC1.html#secc11), this inevitably skews the "science" into ideology
+section](secC1.md#secc11), this inevitably skews the "science" into ideology
 and apologetics. The analysis is also (almost inevitably) based on
 individualistic assumptions, ignoring or downplaying the key issues of groups,
 organisations, class and the economic and social power they generate. Then
@@ -416,10 +416,10 @@ p. 126]
 This argument is based on the notion that wages equal the marginal
 productivity of labour. This is supposed to mean that as the output of workers
 increase, their wages rise. However, as we note in [section
-C.1.5](secC1.html#secc15), this law of economics has been violated for the
+C.1.5](secC1.md#secc15), this law of economics has been violated for the
 last thirty-odd years in the US. Has this resulted in a change in the theory?
 Of course not. Not that the theory is actually correct. As we discuss in
-[section C.2.5](secC2.html#secc25), marginal productivity theory has been
+[section C.2.5](secC2.md#secc25), marginal productivity theory has been
 exposed as nonsense (and acknowledged as flawed by leading neo-classical
 economists) since the early 1960s. However, its utility in defending
 inequality is such that its continued use does not really come as a surprise.
@@ -477,7 +477,7 @@ debating about unreal models. Thus the rise of monetarism came about due to
 its utility to the dominant sections of the ruling class rather than it
 winning any intellectual battles (it was decisively refuted by leading
 Keynesians like Nicholas Kaldor who saw their predicted fears become true when
-it was applied -- see [section C.8](secC8.html)). Hopefully by analysing the
+it was applied -- see [section C.8](secC8.md)). Hopefully by analysing the
 myths of capitalist economics we will aid those fighting for a better world by
 giving them the means of counteracting those who claim the mantle of "science"
 to foster the _"economics of the rich"_ onto society.
@@ -516,7 +516,7 @@ recognise this fact as well, arguing that the profession needs to get its act
 together if it is to be taken seriously. Whether it could retain its position
 as defender of capitalism if this happens is a moot point as many of the
 theorems developed were done so explicitly as part of this role (particularly
-to defend non-labour income -- see [section C.2](secC2.html)). That economics
+to defend non-labour income -- see [section C.2](secC2.md)). That economics
 can become much broader and more relevant is always a possibility, but to do
 so would mean to take into account an unpleasant reality marked by class,
 hierarchy and inequality rather than logic deductions derived from Robinson
@@ -597,7 +597,7 @@ economic analysis starts and ends with a snapshot of time, with a given set of
 commodities, then how those commodities get into a specific set of hands can
 be considered irrelevant -- particularly when you modify your theory to
 exclude the possibility of proving income redistribution will increase overall
-utility (see [section C.1.3](secC1.html#secc13)). It also flows from the
+utility (see [section C.1.3](secC1.md#secc13)). It also flows from the
 social role of economics as defender of capitalism. By taking the current
 distribution of income and wealth as given, then many awkward questions can be
 automatically excluded from the "science."
@@ -718,7 +718,7 @@ little fictional stories in order to justify their theories or the current
 distribution of wealth and income. Usually, they start from isolated
 individual or a community of approximately equal individuals (a community
 usually without any communal institutions). For example, the "waiting"
-theories of profit and interest (see [section C.2.7](secC2.html#secc27))
+theories of profit and interest (see [section C.2.7](secC2.md#secc27))
 requires such a fiction to be remotely convincing. It needs to assume a
 community marked by basic equality of wealth and income yet divided into two
 groups of people, one of which was industrious and farsighted who abstained
@@ -729,7 +729,7 @@ descendants of the lazy and the prodigal have, to quote Marx, _"nothing to
 sell but themselves."_ In that way, modern day profits and interest can be
 justified by appealing to such _"insipid childishness."_ [**Capital**, vol. 1,
 p. 873] The real history of the rise of capitalism is, as we discuss in
-[section F.8](secF8.html), grim.
+[section F.8](secF8.md), grim.
 
 Of course, it may be argued that this is just a model and an abstraction and,
 consequently, valid to illustrate a point. Anarchists disagree. Yes, there is
@@ -803,7 +803,7 @@ for the economy but you would be hard pressed to find many economists who
 would urge the breaking up of corporations into a multitude of small firms as
 their theory demands, the number who will thunder against "monopolistic"
 labour is substantially higher (ironically, as we note in [section
-C.1.4](secC1.html#secc14), their own theory shows that they must urge the
+C.1.4](secC1.md#secc14), their own theory shows that they must urge the
 break up of corporations or support unions for, otherwise, unorganised labour
 **is** exploited). Apparently arguing that high wages are always bad but high
 profits are always good is value free.
@@ -819,9 +819,9 @@ workers who decide to raise their wages by striking for being selfish. It is,
 of course, unlikely that they would let similar charges against bosses pass
 without comment. But what can you expect from an ideology which presents
 unemployment as a good thing (namely, increased leisure -- see [section
-C.1.5](secC1.html#secc15)) and being rich as, essentially, a **disutility**
+C.1.5](secC1.md#secc15)) and being rich as, essentially, a **disutility**
 (the pain of abstaining from present consumption falls heaviest on those with
-wealth -- see [section C.2.7](secC2.html#secc27)).
+wealth -- see [section C.2.7](secC2.md#secc27)).
 
 Ultimately, only economists would argue, with a straight face, that the
 billionaire owner of a transnational corporation is exploited when the workers
@@ -841,7 +841,7 @@ while unions increase wages for members, they also increase wages for non-
 union workers. This should not be surprising as non-union companies have to
 raise wages stop their workers unionising and to compete for the best workers
 who will be drawn to the better pay and conditions of union shops (as we
-discuss in [section C.9](secC9.html), the neoclassical model of the labour
+discuss in [section C.9](secC9.md), the neoclassical model of the labour
 market is seriously flawed).
 
 Which brings us to another key problem with the claim that economics is "value
@@ -934,7 +934,7 @@ This will raise less objections than saying, for example, that interest exists
 because the rich will only part with their money if they get more in return
 and the poor will pay for this because they have little choice due to their
 socio-economic situation. Far better to talk about "time preference" rather
-than the reality of class society (see [section C.2.6](secC2.html#secc26)).
+than the reality of class society (see [section C.2.6](secC2.md#secc26)).
 
 Neoclassical economics, in effect, took the "political" out of "political
 economy" by taking capitalist society for granted along with its class system,
@@ -1639,7 +1639,7 @@ desire to hide the exploitative and class nature of capitalism. By
 concentrating upon the "subjective" evaluations of individuals, those
 individuals are abstracted away from real economic activity (i.e. production)
 so the source of profits and power in the economy can be ignored ([section
-C.2](secC2.html) indicates why exploitation of labour in production is the
+C.2](secC2.md) indicates why exploitation of labour in production is the
 source of profit, interest and rent and **not** exchanges in the market).
 
 Hence the flight from classical economics to the static, timeless world of
@@ -1969,7 +1969,7 @@ conclusions like this becoming better known in the general population.
 
 ## C.1.5 Does economics really reflect the reality of capitalism?
 
-As we discussed in [section C.1.2](secC1.html#secc12), mainstream economics is
+As we discussed in [section C.1.2](secC1.md#secc12), mainstream economics is
 rooted in capitalism and capitalist social relations. It takes the current
 division of society into classes as both given **as well as** producing the
 highest form of efficiency. In other words, mainstream economics is rooted in
@@ -2035,7 +2035,7 @@ consequently, is endemic to it. This is because it is the fundamental
 disciplinary mechanism of the system (_"it is a whip in [the bosses'] hands,
 constantly held over you, so you will slave hard for him and 'behave'
 yourself,"_ to quote Alexander Berkman). As we argued in [section
-B.4.3](secB4.html#secb43), capitalism **must** have unemployment in order to
+B.4.3](secB4.md#secb43), capitalism **must** have unemployment in order to
 ensure that workers will obey their bosses and not demand better pay and
 conditions (or, even worse, question why they have bosses in the first place).
 It is, in other words, _"inherent in the wage system"_ and _"the fundamental
@@ -2044,7 +2044,7 @@ degrading"_ to the worker, it is _"very advantageous to the boss"_ and so
 capitalism _"can't exist without it."_ [Berkman, **What is Anarchism?**, p.
 26] The experience of state managed full employment between (approximately)
 1950 and 1970 confirms this analysis, as does the subsequent period (see
-[section C.7.1](secC7.html#secc71)).
+[section C.7.1](secC7.md#secc71)).
 
 For the choice of leisure and labour to be a reality, then workers need an
 independent source of income. The model, in other words, assumes that workers
@@ -2062,7 +2062,7 @@ and so need not seek work. Yet, logically, they should support a generous
 welfare state as it gives working people a genuine choice between labour and
 leisure. That bosses find it hard to hire people should be seen as a good
 thing as work is obviously being evaluated as a "disutility" rather than as a
-necessity. As an added irony, as we discuss in [section C.9](secC9.html), the
+necessity. As an added irony, as we discuss in [section C.9](secC9.md), the
 capitalist analysis of the labour market is **not** based on any firm
 empirical evidence nor does it have any real logical basis (it is just an
 assumption). In fact, the evidence we do have points against it and in favour
@@ -2188,7 +2188,7 @@ market. For example, the widening gap between high-paid and low-paid Americans
 productive people. Thus the compensation for corporate chief executives climbs
 so sharply because it reflects their marginal productivity. The strange thing
 about this kind of argument is that, as we indicate in [section
-C.2.5](secC2.html#secc25), the problem of defining and measuring capital
+C.2.5](secC2.md#secc25), the problem of defining and measuring capital
 wrecked the entire neoclassical theory of marginal factor productivity and
 with it the associated marginal productivity theory of income back in the
 1960s -- and was admitted as the leading neo-classical economists of the time.
@@ -2244,7 +2244,7 @@ raise the question, never mind answer it.
 
 So what is the reason for this extreme wage difference? Simply put, it's due
 to the totalitarian nature of capitalist firms (see [section
-B.4](secB4.html)). Those at the bottom of the company have no say in what
+B.4](secB4.md)). Those at the bottom of the company have no say in what
 happens within it; so as long as the share-owners are happy, wage
 differentials will rise and rise (particularly when top management own large
 amounts of shares!). It is capitalist property relations that allow this
@@ -2252,7 +2252,7 @@ monopolisation of wealth by the few who own (or boss) but do not produce. The
 workers do not get the full value of what they produce, nor do they have a say
 in how the surplus value produced by their labour gets used (e.g. investment
 decisions). Others have monopolised both the wealth produced by workers and
-the decision-making power within the company (see [section C.2](secC2.html)
+the decision-making power within the company (see [section C.2](secC2.md)
 for more discussion). This is a private form of taxation without
 representation, just as the company is a private form of statism. Unlike the
 typical economist, most people would not consider it too strange a coincidence
@@ -2279,7 +2279,7 @@ called "political economy" and was production orientated. This was replaced by
 an economics based on marginalism and subjective evaluations of a given supply
 of goods is fixed. For classical economics, to focus on an instant of time was
 meaningless as time does not stop. To exclude production meant to exclude
-time, which as we noted in [section C.1.2](secC1.html#secc12) this is
+time, which as we noted in [section C.1.2](secC1.md#secc12) this is
 precisely and knowingly what marginalist economics did do. This means modern
 economics simply ignores production as well as time and given that profit
 making is a key concern for any firm in the real world, such a position shows
@@ -2519,7 +2519,7 @@ particularly in the labour market, nor show any sign of self-equilibrium (i.e.
 it will be subject to the business cycle).
 
 Given that the Austrian theory is, in part, based on Say's Law the critique we
-presented in the [last section](secC1.html#secc14) also applies here. However,
+presented in the [last section](secC1.md#secc14) also applies here. However,
 there is another reason to think the Austrian self-adjusting perspective on
 capitalism is flawed and this is rooted in their own analysis. Ironically
 enough, economists of this school often maintain that while equilibrium does
@@ -2564,12 +2564,12 @@ domination, oppression and exploitation flow from inequalities of
 market/economic power and that the _"power of invasion lies in superior
 strength."_ [**What is Property?**, p. 216 and p. 215] This is particularly
 the case in the labour market, as we argued in [section
-B.4.3](secB4.html#secb43).
+B.4.3](secB4.md#secb43).
 
 As such, it is unlikely that "pure" capitalism would experience full
 employment for under such conditions the employers loose the upper hand. To
 permanently experience a condition which, as we indicate in [section
-C.7](secC7.html), causes "actually existing" capitalism so many problems seems
+C.7](secC7.md), causes "actually existing" capitalism so many problems seems
 more like wishful thinking than a serious analysis. If unemployment is
 included in the Austrian model (as it should) then the bargaining position of
 labour is obviously weakened and, as a consequence, capital will take
@@ -2607,7 +2607,7 @@ pp. 68-9]
 
 This analysis is based on their notion that the interest rate reflects the
 "time preference" of individuals between present and future goods (see
-[section C.2.6](secC2.html#secc26) for more details). The argument is that
+[section C.2.6](secC2.md#secc26) for more details). The argument is that
 banks or governments manipulate the money supply or interest rates, making the
 actual interest rate different from the "real" interest rate which equates
 savings and loans. Of course, that analysis is dependent on the interest rate
@@ -2635,7 +2635,7 @@ the banking system creates as much money as people need and any attempt to
 control that creation will cause economic problems and, perhaps, crisis.
 Money, in other words, emerges from **within** the system and so the Austrian
 attempt to _"blame the state"_ is simply wrong. As we discuss in [section
-C.8](secC8.html), attempts by the state to control the money during the
+C.8](secC8.md), attempts by the state to control the money during the
 Monetarist disasters of the early 1980s failed and it is unlikely that this
 would change in a _"pure"_ capitalism marked by a totally privatised banking
 system.
@@ -2753,7 +2753,7 @@ made under (economic) compulsion.
 The Austrian school is so in love with markets they even see them where they
 do not exist, namely inside capitalist firms. There, hierarchy reigns and so
 for all their talk of "liberty" the Austrian school at best ignores, at worse
-exalts, factory fascism (see [section F.2.1](secF2.html#secf21)) For them,
+exalts, factory fascism (see [section F.2.1](secF2.md#secf21)) For them,
 management is there to manage and workers are there to obey. Ironically, the
 Austrian (like the neo-liberal) ethic of "freedom" is based on an utterly
 credulous faith in authority in the workplace. Thus we have the defenders of
@@ -2819,7 +2819,7 @@ role in creating capitalism in the first place is skilfully ignored in favour
 of endless praise for the "natural" system of capitalism. Nor do they realise
 that the victory of state intervention they so bemoan is, in part, necessary
 to keep capitalism going and, in part, a consequence of attempts to
-approximate their utopia (see [section D.1](secD1.html) for a discussion).
+approximate their utopia (see [section D.1](secD1.md) for a discussion).
 
 Not that Hayek's thesis has any empirical grounding. No state has ever become
 fascist due to intervening in the economy (unless a right-wing coup happens,
@@ -2867,7 +2867,7 @@ knowledge, used to such good effect against state socialist ideas of central
 planning, were just as applicable to critiquing the highly centralised and
 top-down capitalist company and economy. Nor, ironically enough, that it was
 just as applicable to the price mechanism he defended so vigorously (as we
-note in [section I.1.2](secI2.html#seci12), the price system hides as much, if
+note in [section I.1.2](secI2.md#seci12), the price system hides as much, if
 not more, necessary information than it provides). As such, his defence of
 capitalism can be turned against it and the centralised, autocratic structures
 it is based on.
@@ -2879,7 +2879,7 @@ defence of business power hidden behind a thin rhetoric of "free markets." As
 it preaches the infallibility of capitalism, this requires a nearly unyielding
 defence of corporations, economic and social power and workplace hierarchy. It
 must dismiss the obvious fact that allowing big business to flourish into
-oligopoly and monopoly (as it does, see [section C.4](secC4.html)) reduces the
+oligopoly and monopoly (as it does, see [section C.4](secC4.md)) reduces the
 possibility of competition solving the problem of unethical business practices
 and worker exploitation, as they claim. This is unsurprising, as the Austrian
 school (like economics in general) identifies "freedom" with the "freedom" of
@@ -2906,7 +2906,7 @@ Those who seek freedom for all and want to base themselves on more than faith
 in an economic system marked by hierarchy, inequality and oppression would be
 better seeking a more realistic and less apologetic economic theory.
 
-[‹ C.0 Section C Introduction](/afaq/secCint.html "Go to previous page" )
-[up](/afaq/secCcon.html "Go to parent page" ) [C.2 Why is capitalism
-exploitative? ›](/afaq/secC2.html "Go to next page" )
+[‹ C.0 Section C Introduction](secCint.md "Go to previous page" )
+[up](secCcon.md "Go to parent page" ) [C.2 Why is capitalism exploitative?
+›](secC2.md "Go to next page" )
 

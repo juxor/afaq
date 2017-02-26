@@ -185,7 +185,7 @@ corrected them (although a steady flow of emails pointing out typos has come
 our way). We have always been a small collective and we cannot do everything.
 This also explains why important social events like, say, the turn of the
 century Argentinean revolt against neo-liberalism is not discussed in [section
-A.5](secA5.html) (this is a wonderful example of anarchist ideas being
+A.5](secA5.md) (this is a wonderful example of anarchist ideas being
 spontaneously applied in practice during a mass revolt). Suffice to say,
 anarchistic tendencies, ideas and practices develop all the time and anarchism
 is growing in influence but if we continually added to AFAQ to reflect this
@@ -215,7 +215,7 @@ the first place.
 
 Iain McKay
 
-[An Anarchist FAQ](index.html)
+[An Anarchist FAQ](index.md)
 
 # A Summation
 
@@ -229,7 +229,7 @@ Iain McKay
 
 Mark Leier: **The Case for Anarchy**
 
-[‹ An Anarchist FAQ after ten years](/afaq/10years.html "Go to previous page"
-) [up](/afaq/intro.html "Go to parent page" ) [An Anarchist FAQ: Introduction
-to Volume 2 ›](/afaq/vol2intro.html "Go to next page" )
+[‹ An Anarchist FAQ after ten years](10years.md "Go to previous page" )
+[up](intro.md "Go to parent page" ) [An Anarchist FAQ: Introduction to
+Volume 2 ›](vol2intro.md "Go to next page" )
 

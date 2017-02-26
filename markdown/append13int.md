@@ -36,7 +36,7 @@ if actual anarchist texts are read). And, of course, many dictionaries
 And for this strategy to work, a lot of "inconvenient" history and ideas from
 all branches of anarchism must be ignored. From individualists like Spooner
 and Tucker to communists like Kropotkin and Malatesta, anarchists have always
-been anti-capitalist (see [ section G](secGcon.html) for more on the anti-
+been anti-capitalist (see [ section G](secGcon.md) for more on the anti-
 capitalist nature of individualist anarchism). Therefore "anarcho"-capitalists
 are not anarchists in the same sense that rain is not dry.
 
@@ -139,7 +139,7 @@ that generated the opportunities for abuse they freely used.
 
 Anarchism has always been aware of the existence of "free market" capitalism,
 particularly its extreme (minimal state) wing, and has always rejected it. As
-we discuss in [section 7](append137.html), anarchists from Proudhon onwards
+we discuss in [section 7](append137.md), anarchists from Proudhon onwards
 have rejected the idea of any similar aims and goals (and, significantly, vice
 versa). As academic Alan Carter notes, anarchist concern for equality as a
 necessary precondition for genuine freedom means _"that is one very good
@@ -179,8 +179,7 @@ face of "free market" capitalism at work: the working men and women (anarchist
 or not) murdered in the jails and concentration camps or on the streets by the
 hired assassins of capitalism.
 
-[‹ Appendix - Is "anarcho"-capitalism a type of
-anarchism?](/afaq/append13.html "Go to previous page" )
-[up](/afaq/append13.html "Go to parent page" ) [1 Are "anarcho"-capitalists
-really anarchists? ›](/afaq/append131.html "Go to next page" )
+[‹ Appendix - Is "anarcho"-capitalism a type of anarchism?](append13.md "Go
+to previous page" ) [up](append13.md "Go to parent page" ) [1 Are
+"anarcho"-capitalists really anarchists? ›](append131.md "Go to next page" )
 

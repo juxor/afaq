@@ -30,9 +30,9 @@ those who own property exploit those who do not. This is because those who do
 not own have to pay or sell their labour to those who do own in order to get
 access to the resources they need to live and work (such as workplaces,
 machinery, land, credit, housing, products under patents, and such like -- see
-[section B.3.2](secB3.html#secb32) for more discussion).
+[section B.3.2](secB3.md#secb32) for more discussion).
 
-As we discuss in [section B.3.3](secB3.html#secb33), this exploitation (theft)
+As we discuss in [section B.3.3](secB3.md#secb33), this exploitation (theft)
 flows from the fact that workers do not own or control the means of production
 they use and, as a consequence, are controlled by those who do during work
 hours. This alienation of control over labour to the boss places the employer
@@ -122,7 +122,7 @@ degradation, and is the primary cause of all the ills that beset today's
 social order."_ [Malatesta, **The Anarchist Revolution**, p. 113]
 
 It will, of course, be objected that no one forces a worker to work for a
-given boss. However, as we discuss in [section B.4.3](secB4.html#secb43), this
+given boss. However, as we discuss in [section B.4.3](secB4.md#secb43), this
 assertion (while true) misses the point. While workers are not forced to work
 for a **specific** boss, they inevitably have to work for a boss. This is
 because there is literally no other way to survive -- all other economic
@@ -142,7 +142,7 @@ your dignity, and leave them at the door when you enter your home, you would
 rightly consider that tyranny yet that is exactly what you do during working
 hours if you are a worker. You have no say in what goes on. You may as well be
 a horse (to use John Locke's analogy -- see [section
-B.4.2](secB4.html#secb42)) or a piece of machinery.
+B.4.2](secB4.md#secb42)) or a piece of machinery.
 
 Little wonder, then, that anarchists oppose private property as Anarchy is
 _"the absence of a master, of a sovereign"_ [Proudhon, **Op. Cit.**, p. 264]
@@ -161,7 +161,7 @@ Inequality,"_ **The Social Contract and Discourses**, p. 84]
 
 This explains anarchist opposition to capitalism. It is marked by two main
 features, _"private property"_ (or in some cases, state-owned property -- see
-[section B.3.5](secB3.html#secb35)) and, consequently, wage labour and
+[section B.3.5](secB3.md#secb35)) and, consequently, wage labour and
 exploitation and authority. Moreover, such a system requires a state to
 maintain itself for as _"long as within society a possessing and non-
 possessing group of human beings face one another in enmity, the state will be
@@ -169,7 +169,7 @@ indispensable to the possessing minority for the protection for its
 privileges."_ [Rudolf Rocker, Anarcho-Syndicalism, p. 11] Thus private
 ownership of the means of production is only possible if there is a state,
 meaning mechanisms of organised coercion at the disposal of the propertied
-class (see [section B.2](secB2.html)).
+class (see [section B.2](secB2.md)).
 
 Also, it ought to be easy to see that capitalism, by giving rise to an
 ideologically inalienable _"right"_ to private property, will also quickly
@@ -179,13 +179,13 @@ inequality in the relative bargaining positions of the propertied and the
 property less. While apologists for capitalism usually attempt to justify
 private property by claiming that "self-ownership" is a "universal right" (see
 section B.4.2 -- [_"Is capitalism based on self-
-ownership?"_](secB4.html#secb42)), it is clear that capitalism actually makes
+ownership?"_](secB4.md#secb42)), it is clear that capitalism actually makes
 universal autonomy implied by the flawed concept of self-ownership (for the
 appeal of the notion of self-ownership rests on the ideal that people are not
 used as a means but only as an end in themselves). The capitalist system,
 however, has undermined autonomy and individual freedom, and ironically, has
 used the term _"self-ownership"_ as the basis for doing so. Under capitalism,
-as will be seen in [section B.4](secB4.html), most people are usually left in
+as will be seen in [section B.4](secB4.md), most people are usually left in
 a situation where their best option is to allow themselves to be used in just
 those ways that are logically incompatible with genuine self-ownership, i.e.
 the autonomy which makes it initially an appealing concept.
@@ -305,7 +305,7 @@ condition and limit landholding becomes the prevailing view"_ and so ensure
 that _"individuals should no longer be protected by their fellows in anything
 but personal occupation and cultivation [i.e. use] of land."_ [Benjamin
 Tucker, **The Individualist Anarchists**, p. 159 and p. 85] The key
-differences, as we noted in [section A.3.1](secA3.html#seca31), is how they
+differences, as we noted in [section A.3.1](secA3.md#seca31), is how they
 apply this principle.
 
 This anarchist support for possession does not imply the break up of large
@@ -335,7 +335,7 @@ must. . . succeed Industrial Feudalism."_ [Proudhon, **Selected Writings of
 Pierre-Joseph Proudhon**, p. 179 and p. 167] Thus an anarchist society would
 be based on possession, with workers' self-management being practised at all
 levels from the smallest one person workplace or farm to large scale industry
-(see [section I.3](secI3.html) for more discussion).
+(see [section I.3](secI3.md) for more discussion).
 
 Clearly, then, all anarchists seek to transform and limit property rights.
 Capitalist property rights would be ended and a new system introduced rooted
@@ -403,7 +403,7 @@ being signed, capitalists enrich themselves at our expense because we _"are
 compelled to pay a heavy tribute to property holders for the right of
 cultivating land or putting machinery into action."_ [Kropotkin, **The
 Conquest of Bread**, p. 103] These conditions obviously also make a mockery of
-free agreement (see [section B.4](secB4.html)).
+free agreement (see [section B.4](secB4.md)).
 
 These various forms of state intervention are considered so normal many people
 do not even think of them as such. Thus we find defenders of "free market"
@@ -412,7 +412,7 @@ to aid the poor while seeing nothing wrong in defending intellectual property
 rights, corporations, absentee landlords and the other multitude of laws and
 taxes capitalists and their politicians have placed and kept upon the statute-
 books to skew the labour market in favour of themselves (see [section
-F.8](secF8.html) on the state's role in developing capitalism in the first
+F.8](secF8.md) on the state's role in developing capitalism in the first
 place).
 
 Needless to say, despite the supposedly subtle role of such _"objective"_
@@ -423,7 +423,7 @@ capitalists will always turn to the use of state repression to restore the
 _"natural"_ order. Then the _"invisible"_ hand of the market is replaced by
 the visible fist of the state and the indirect means of securing ruling class
 profits and power are supplemented by more direct forms by the state. As we
-indicate in [section D.1](secD1.html), state intervention beyond enforcing
+indicate in [section D.1](secD1.md), state intervention beyond enforcing
 these forms of private property is the norm of capitalism, not the exception,
 and is done so to secure the power and profits of the capitalist class.
 
@@ -437,7 +437,7 @@ alternatives to capitalism. By charging high amounts of interest on loans
 afford to create co-operatives or one-person firms. In addition, having to
 repay loans at high interest to capitalist banks ensures that co-operatives
 often have to undermine their own principles by having to employ wage labour
-to make ends meet (see [section J.5.11](secJ5.html#secj511)). It is
+to make ends meet (see [section J.5.11](secJ5.md#secj511)). It is
 unsurprising, therefore, that the very successful Mondragon co-operatives in
 the Basque Country created their own credit union which is largely responsible
 for the experiment's success.
@@ -536,7 +536,7 @@ remained as property-less as before. Either way, the landlords are richer for
 the exchange.
 
 Moreover, the land monopoly did play an important role in **creating**
-capitalism (also see [section F.8.3](secF8.html#secf83)). This took two main
+capitalism (also see [section F.8.3](secF8.md#secf83)). This took two main
 forms. Firstly, the state enforced the ownership of large estates in the hands
 of a single family. Taking the best land by force, these landlords turned vast
 tracks of land into parks and hunting grounds so forcing the peasants little
@@ -590,8 +590,8 @@ tribute to the landlord in one form or another (either directly in rent or
 indirectly by repaying a loan).
 
 This was the land monopoly in action (also see sections
-[F.8.3](secF8.html#secf83), [F.8.4](secF8.html#secf84) and
-[F.8.5](secF8.html#secf85) for more details) and from it sprang the tools and
+[F.8.3](secF8.md#secf83), [F.8.4](secF8.md#secf84) and
+[F.8.5](secF8.md#secf85) for more details) and from it sprang the tools and
 equipment monopoly as domestic industry could not survive in the face of
 industrial capitalism. Confronted with competition from industrial production
 growing rich on the profits produced from cheap labour, the ability of workers
@@ -611,7 +611,7 @@ charge a _"fee"_ for its use. This is because, with the working class legally
 barred from both the land and available capital (the means of life), members
 of that class have little option but to agree to wage contracts which let
 capitalists extract a _"fee"_ for the use of their equipment (see [section
-B.3.3](secB3.html#secb33)).
+B.3.3](secB3.md#secb33)).
 
 Thus the capital-monopoly is, like the land monopoly, enforced by the state
 and its laws. This is most clearly seen if you look at the main form in which
@@ -638,7 +638,7 @@ in which a few bright people saved and worked hard to accumulate capital and
 the lazy majority flocked to be employed by these (almost superhuman)
 geniuses. In reality, the initial capital for investing in industry came from
 wealth plundered from overseas or from the proceeds of feudal and landlord
-exploitation. In addition, as we discuss in [section F.8](secF8.html),
+exploitation. In addition, as we discuss in [section F.8](secF8.md),
 extensive state intervention was required to create a class of wage workers
 and ensure that capital was in the best position to exploit them. This
 explicit state intervention was scaled down once the capital-monopoly found
@@ -864,7 +864,7 @@ option we have to work for ourselves (either individually or collectively) is
 restricted by tilting the playing field against us, making sure that we have
 little option but to sell our labour on the _"free market"_ and be exploited.
 In other words, the various monopolies make sure that "natural" barriers to
-entry (see [section C.4](secC4.html)) are created, leaving the heights of the
+entry (see [section C.4](secC4.md)) are created, leaving the heights of the
 economy in the control of big business while alternatives to capitalism are
 marginalised at its fringes.
 
@@ -873,7 +873,7 @@ that they create which the state exists to protect. It should be noted that
 converting private to state ownership (i.e. nationalisation) does not
 fundamentally change the nature of property relationships; it just removes
 private capitalists and replaces them with bureaucrats (as we discuss in
-[section B.3.5](secB3.html#secb35)).
+[section B.3.5](secB3.md#secb35)).
 
 ## B.3.3 Why is property exploitative?
 
@@ -905,7 +905,7 @@ but in different ways). It should also be noted that property used in this way
 _**"capital"**_ by anarchists and other socialists. Thus, for anarchists,
 private property generates a class system, a regime in which the few, due to
 their ownership of wealth and the means of producing it, rule over the many
-who own very little (see [section B.7](secB7.html) for more discussion of
+who own very little (see [section B.7](secB7.md) for more discussion of
 classes).
 
 This ensures that the few can profit from the work of others:
@@ -958,7 +958,7 @@ less than the full value added by their labour to the products or services
 they create for the firm. The capitalist's profit is thus the difference
 between this _"surplus value,"_ created by and appropriated from labour, minus
 the firm's overhead and cost of raw materials (See also section C.2 --
-[_"Where do profits come from?"_](secC2.html)).
+[_"Where do profits come from?"_](secC2.md)).
 
 So property is exploitative because it allows a surplus to be monopolised by
 the owners. Property creates hierarchical relationships within the workplace
@@ -1206,7 +1206,7 @@ Capitalism, even though claiming formal self-ownership, in fact not only
 restricts the self-determination of working class people, it also makes them a
 resource for others. Those who enter the market after others have appropriated
 all the available property are limited to charity or working for others. The
-latter, as we discuss in [section C](secCcon.html), results in exploitation as
+latter, as we discuss in [section C](secCcon.md), results in exploitation as
 the worker's labour is used to enrich others. Working people are compelled to
 co-operate with the current scheme of property and are forced to benefit
 others. This means that self-determination requires resources as well as
@@ -1267,7 +1267,7 @@ system which respects the liberty of all rather than a few.
 For more anarchist analysis on private property and why it cannot be justified
 (be it by occupancy, labour, natural right, or whatever) consult Proudhon's
 classic work What is Property?. For further discussion on capitalist property
-rights see [section F.4](secF4.html).
+rights see [section F.4](secF4.md).
 
 ## B.3.5 Is state owned property different from private property?
 
@@ -1275,7 +1275,7 @@ No, far from it.
 
 State ownership should not be confused with the common or public ownership
 implied by the concept of _"use rights."_ The state is a hierarchical
-instrument of coercion and, as we discussed in [section B.2](secB2.html), is
+instrument of coercion and, as we discussed in [section B.2](secB2.md), is
 marked by power being concentrated in a few hands. As the general populate is,
 by design, excluded from decision making within it this means that the state
 apparatus has control over the property in question. As the general public and
@@ -1353,9 +1353,9 @@ fundamentally different from private property -- all that changes is who
 exploits and oppresses the workers.
 
 For more discussion see section H.3.13 -- [_"Why is state socialism just state
-capitalism?"_](secH3.html#sech313)
+capitalism?"_](secH3.md#sech313)
 
-[‹ B.2 Why are anarchists against the state?](/afaq/secB2.html "Go to previous
-page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.4 How does capitalism
-affect liberty? ›](/afaq/secB4.html "Go to next page" )
+[‹ B.2 Why are anarchists against the state?](secB2.md "Go to previous page"
+) [up](secBcon.md "Go to parent page" ) [B.4 How does capitalism affect
+liberty? ›](secB4.md "Go to next page" )
 

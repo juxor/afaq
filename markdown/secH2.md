@@ -119,7 +119,7 @@ accordingly cannot defend itself."_ [**Op. Cit.**, p. 583]
 For some reason, few Leninists quote these recommendations to the Spanish
 workers nor do they dwell on the reformist and bureaucratic nature of the
 Socialist party inspired by this advice. As we discuss in [section
-H.3.10](secH3.html#sech310), the notion that voting in elections was to
+H.3.10](secH3.md#sech310), the notion that voting in elections was to
 _"attack the State"_ fits in well with the concept that universal suffrage
 equalled the _"political power"_ of the proletariat and the democratic
 republic was the _"specific form"_ of its dictatorship. Again, for some
@@ -131,7 +131,7 @@ in 1937 that anarchists are _"willing to replace Bakunin's patriarchal
 [**Writings 1936-37**, p. 487] It is hard to know where to start in this
 incredulous rewriting of history. Firstly, Bakunin's federation of free
 communes was, in fact, based on workers' councils ("soviets") - see [section
-I.2.3](secI2.html#seci23). As for the charge of supporting _"patriarchal"_
+I.2.3](secI2.md#seci23). As for the charge of supporting _"patriarchal"_
 communes, nothing could be further from the truth. In his discussion of the
 Russian peasant commune (the mir) Bakunin argued that _"patriarchalism"_ was
 one of its _"three dark features,"_ indeed _"the main historical evil . . .
@@ -451,7 +451,7 @@ Makhnovists in the Ukrainian Revolution and the CNT militias during the
 Spanish). As such, any assertion that anarchism rejects the necessity of
 defending a revolution is simply false. Sadly, it is one Marxists make
 repeatedly (undoubtedly inspired by Engels similar distortions - see [section
-H.4.7](secH4.html#sech47)).
+H.4.7](secH4.md#sech47)).
 
 Which, of course, brings us to the second assertion, namely that any attempt
 to defend a revolution means that a state has been created (regardless of what
@@ -462,7 +462,7 @@ enable one class to rule another,"_ the anarchist definition is somewhat
 different. Anarchists, of course, do not deny that the modern state is (to use
 Malatesta's excellent expression) _"the bourgeoisie's servant and
 **gendarme**."_ [**Anarchy**, p. 23] However, as we discuss in [section
-H.3.7](secH3.html#sech37), the Marxist analysis is superficial and
+H.3.7](secH3.md#sech37), the Marxist analysis is superficial and
 fundamentally metaphysical rather than scientific. Anarchists take an
 evolutionary perspective on the state and, as a result, argue that every state
 that has ever existed has defended the power of a minority class and,
@@ -607,11 +607,11 @@ level, they recognise that, in reality, the working class does not wield power
 in the so-called "workers' state": the party does. This was the case in
 Russia. The working class never wielded power under the Bolsheviks and here is
 the most obvious contradiction in the Marxist theory of the state - a
-contradiction which, as we discuss in [section H.3.8](secH3.html#sech38) the
+contradiction which, as we discuss in [section H.3.8](secH3.md#sech38) the
 Leninists solved by arguing that the party had to assert its power **over**
 the working class for its own good.
 
-Moreover, as we discuss in [section H.3.9](secH3.html#sech39), it is both
+Moreover, as we discuss in [section H.3.9](secH3.md#sech39), it is both
 simplistic and wrong to argue that the state is simply the tool of economic
 classes. The state is a source of social inequality in and of itself and,
 consequently, can oppress and exploit the working class just as much as, and
@@ -681,7 +681,7 @@ argued for a workers state. The centralisation of power implied by the state
 was essential so that the vanguard party could ignore (to use **Worker's
 Power**'s phrase) _"the will of the majority."_ This particular perspective
 was clearly a lesson they learned from their experiences during the Russian
-Revolution - as we discussed in [section H.1.2](secH1.html#sech12) the notion
+Revolution - as we discussed in [section H.1.2](secH1.md#sech12) the notion
 that the _"dictatorship of the proletariat"_ was, in fact, the _"dictatorship
 of the party"_ was a commonplace ideological truism in Leninist circles. As
 anarchists had warned, it was a dictatorship **over** the proletariat and
@@ -690,7 +690,7 @@ acknowledged as such by the likes of Lenin and Trotsky.
 Needless to say, **Workers' Power** (like most Trotskyists) blame the
 degeneration of the Russian revolution on the Civil War and its isolation.
 However, the creation of a party dictatorship was not seen in these terms and,
-moreover, as we discuss in detail in [section H.6](secH6.html) the Bolshevik
+moreover, as we discuss in detail in [section H.6](secH6.md) the Bolshevik
 undermining of working class autonomy and democracy started well **before**
 the outbreak of civil war, thus confirming anarchist theory. These conclusions
 of leading Leninists simply justified the actions undertaken by the Bolsheviks
@@ -736,7 +736,7 @@ technical, defence and other branches."_ [Voline, **Op. Cit.**, p. 197]
 This means that anarchists argue that the state cannot be transformed or
 adjusted, but has to be smashed by a social revolution and replaced with
 organisations and structures created by working class people during their own
-struggles (see [section H.1.4](secH1.html#sech14) for details). Anarchist
+struggles (see [section H.1.4](secH1.md#sech14) for details). Anarchist
 opposition to the so-called workers' state has absolutely **nothing** to do
 with the issue of defending a revolution, regardless of what Marxists assert.
 
@@ -812,7 +812,7 @@ from riot to bomb, and all that might become between the two, was legitimate
 when ranged against the state, each with equal merit."_ [_"Anarchy in the
 UK?"_, **Socialist Review**, no. 246] Needless to say, he makes the usual
 exception for anarcho-syndicalists, thereby showing his total ignorance of
-anarchism **and** syndicalism (see [section H.2.8](secH2.html#sech28)).
+anarchism **and** syndicalism (see [section H.2.8](secH2.md#sech28)).
 
 Assertions like these are simply incredible. It is hard to believe that anyone
 who is a leading member of a Leninist party could write such nonsense which
@@ -885,7 +885,7 @@ of Bakunin**, pp. 384-5]
 
 The revolution would be _"an insurrection of all the people and the voluntary
 organisation of the workers from below upward."_ [**Statism and Anarchy**, p.
-179] As we argue in [section I.2.3](secI2.html#seci23), the very process of
+179] As we argue in [section I.2.3](secI2.md#seci23), the very process of
 collective class struggle would, for Bakunin and other anarchists, create the
 basis of a free society. Thus, in Bakunin's eyes, the _"future social
 organisation must be made solely from the bottom upwards, by the free
@@ -1054,7 +1054,7 @@ placed working class struggle, organisation and collective direct action and
 solidarity at the core of their politics (and as the means of creating a
 libertarian socialist society) from the start. Moreover, this perspective is
 reflected in the anarchist flag itself as we discuss in our [appendix on the
-symbols of anarchism](append2.html). According to Louise Michel the _"black
+symbols of anarchism](append2.md). According to Louise Michel the _"black
 flag is the flag of strikes."_ [**The Red Virgin: Memoirs of Louise Michel**,
 p. 168] If anarchism does, as some Marxists assert, reject class conflict and
 collective struggle then using a flag associated with an action which
@@ -1062,7 +1062,7 @@ expresses both seems somewhat paradoxical. However, for those with even a
 basic understanding of anarchism and its history there is no paradox as
 anarchism is obviously based on class conflict and collective struggle.
 
-Also see [section H.2.8](secH2.html#sech28) for a discussion of the
+Also see [section H.2.8](secH2.md#sech28) for a discussion of the
 relationship of anarchism to syndicalism.
 
 ## H.2.3 Does anarchism yearn _"for what has gone before"_?
@@ -1075,7 +1075,7 @@ yearns for what has gone before."_ [_"Anarchy in the UK?"_, **Socialist
 Review**, no. 246]
 
 Like his other _"key point"_ (namely the rejection of class struggle - see
-[last section](secH2.html#sech22)), Stack is simply wrong. Even the quickest
+[last section](secH2.md#sech22)), Stack is simply wrong. Even the quickest
 look at the works of Proudhon, Bakunin and Kropotkin would convince the reader
 that this is simply distortion. Rather than look backwards for our ideas of
 social life, anarchists have always been careful to base our ideas on the
@@ -1139,7 +1139,7 @@ capitalist notion of "progress" which has always been part of justifying the
 inhumanities of the status quo. Simply put, just because a process is rewarded
 by the profit driven market it does not mean that it makes sense from a human
 or ecological perspective. For example, as we argue in [section
-J.5.11](secJ5.html#secj511), the capitalist market hinders the spread of co-
+J.5.11](secJ5.md#secj511), the capitalist market hinders the spread of co-
 operatives and workers' self-management in spite of their well documented
 higher efficiency and productivity. From the perspective of the needs of the
 capitalists, this makes perfect sense. In terms of the workers and efficient
@@ -1342,7 +1342,7 @@ market and the state.
 
 As we discuss the fallacy that Kropotkin (or anarchists in general) have
 argued for _"small autonomous communities, devoted to small scale production"_
-in [section I.3.8](secI3.html#seci38), we will not do so here. Suffice to say,
+in [section I.3.8](secI3.md#seci38), we will not do so here. Suffice to say,
 he did not, as is often asserted, argue for _"small-scale production"_ (he
 still saw the need for factories, for example) but rather for production
 geared to **_appropriate_** levels, based on the objective needs of production
@@ -1384,7 +1384,7 @@ fetishise big industry, as Leninists tend to do, means locking socialism
 itself into the logic of capitalism and, by implication, sees a socialist
 society which will basically be the same as capitalism, using the technology,
 industrial structure and industry developed under class society without change
-(see [section H.3.12](secH3.html#sech312)). Rather than condemn Kropotkin,
+(see [section H.3.12](secH3.md#sech312)). Rather than condemn Kropotkin,
 Stack's comments (and those like them) simply show the poverty of the Leninist
 critique of capitalism and its vision of the socialist future.
 
@@ -1845,7 +1845,7 @@ Lastly, and as an aside, it is this anarchist awareness of the disruptive
 effects of a revolution on a country's economy which, in part, makes
 anarchists extremely sceptical of pro-Bolshevik rationales that blame the
 difficult economic conditions facing the Russian Revolution for Bolshevik
-authoritarianism (see [section H.6.1](secH6.html#sech61) for a fuller
+authoritarianism (see [section H.6.1](secH6.md#sech61) for a fuller
 discussion of this). If, as Kropotkin argued, a social revolution inevitably
 results in massive economic disruption then, clearly, Bolshevism should be
 avoided if it cannot handle such inevitable events. In such circumstances,
@@ -1874,7 +1874,7 @@ society it desires. In other words, any transitional period must be as
 communistic as possible if communism is your final aim and, equally, it must
 be libertarian if your final goal is freedom.
 
-Also see [section I.2.2](secI2.html#seci22) for further discussion on this
+Also see [section I.2.2](secI2.md#seci22) for further discussion on this
 issue.
 
 ## H.2.6 How do Marxists misrepresent Anarchist ideas on mutual aid?
@@ -1909,7 +1909,7 @@ stands out from his comments.
 
 As we have discussed how collective, working class direct action, organisation
 and solidarity in the class struggle were at the core of Kropotkin's politics
-in [section H.2.2](secH2.html#sech22), we will not do so here. Rather, we will
+in [section H.2.2](secH2.md#sech22), we will not do so here. Rather, we will
 discuss how Stack lies about Kropotkin's ideas on mutual aid. As just noted,
 the examples Stack lists are not to be found in Kropotkin's classic work
 **Mutual Aid**. Now, **if** Kropotkin **had** considered them as examples of
@@ -2020,7 +2020,7 @@ Aid**, p. 231 and pp. 231-2] So at no stage did Kropotkin deny either factor
 Secondly, Stack's argument that Kropotkin argued that co-operation was the
 natural order is in contradiction with his other claims that anarchism
 _"despises the collectivity"_ and _"dismiss[es] the importance of the
-collective nature of change"_ (see [section H.2.2](secH2.html#sech22)). How
+collective nature of change"_ (see [section H.2.2](secH2.md#sech22)). How
 can you have co-operation without forming a collective? And, equally, surely
 support for co-operation clearly implies the recognition of the _"collective
 nature of change"_? Moreover, had Stack bothered to **_read_** Kropotkin's
@@ -2497,7 +2497,7 @@ action,"_ do not understand _"the power of the working class"_ and the
 _"centrality"_ of the workplace are simply inventions, it would suggest that
 Stack's _"huge advantage"_ does not, in fact, exist and is pure nonsense.
 Bakunin, Kropotkin and all revolutionary anarchists, as proven in [section
-H.2.2](secH2.html#sech22), already understood all this and based their
+H.2.2](secH2.md#sech22), already understood all this and based their
 politics on the need for collective working class struggle at the point of
 production. As such, by contrasting anarcho-syndicalism with anarchism (as
 expressed by the likes of Bakunin and Kropotkin) Stack simply shows his utter
@@ -2713,7 +2713,7 @@ than being in conflict, the ideas of syndicalism find their roots in the ideas
 of Bakunin and "classical" anarchism. This would be quickly seen if the actual
 writings of Bakunin and Kropotkin were consulted. There **are,** of course,
 differences between anarchism and syndicalism, but they are **not** those
-usually listed by Marxists ([section J.3.9](secJ3.html#secj39) discusses these
+usually listed by Marxists ([section J.3.9](secJ3.md#secj39) discusses these
 differences and, as will quickly be discovered, they are **not** based on a
 rejection of working class organisation, direct action, solidarity and
 collective struggle!).
@@ -2839,7 +2839,7 @@ disputes radicalism, this is hardly to reverse it but rather to advance it."_
 because it supports the idea of freedom, but precisely because it does not go
 far enough and fails to understand that without equality, freedom is little
 more than freedom for the master. In fact, as we argue in [section
-H.4](secH4.html), it is Marxism itself which has a distinctly liberal
+H.4](secH4.md), it is Marxism itself which has a distinctly liberal
 perspective of freedom, seeing it restricted by association rather than
 association being an expression of it.
 
@@ -2852,7 +2852,7 @@ ideas. It also strikes at the heart of socialism - its concern for equality -
 as it clearly implies that some have more power (namely the right to suppress
 the liberty of others) than the rest. As such, it suggests a superficial
 understanding of **real** socialism (see also our discussion of Marxist claims
-about anarchist "elitism" in [section H.2.11](secH2.html#sech211)).
+about anarchist "elitism" in [section H.2.11](secH2.md#sech211)).
 
 To argue that a concern for freedom means _"liberalism"_ (or, equally,
 _"individualism"_) indicates that the person is not a socialist. After all, a
@@ -2948,8 +2948,8 @@ decisions are then binding on the mass of the members of the organisation
 whose position is simply that of executing the orders of those whom the
 majority elect. This means that power rests at the top and decisions flow from
 the top downwards. As such, the "revolutionary" party simply mimics the very
-society it claims to oppose (see [section H.5.6](secH5.html#sech56)) as well
-as being extremely ineffective (see [section H.5.8](secH5.html#sech58))
+society it claims to oppose (see [section H.5.6](secH5.md#sech56)) as well
+as being extremely ineffective (see [section H.5.8](secH5.md#sech58))
 
 In a federal structure, in contrast, decisions flow from the bottom up by
 means of councils of elected, mandated and recallable **delegates**. In fact,
@@ -2987,7 +2987,7 @@ However, _"no real Anarchist . . . would agree to be part of an
 **institutionalised leadership.** Neither would an Anarchist wait for a lead,
 but give one."_ [**Anarchism: Arguments for and against**, p. 58 and p. 59]
 
-This means, as we argue in [section J.3.6](secJ3.html#secj36), that anarchists
+This means, as we argue in [section J.3.6](secJ3.md#secj36), that anarchists
 seek to influence the class struggle as **equals.** Rather than aim for
 positions of power, anarchists want to influence people by the power of their
 ideas as expressed in the debates that occur in the organisations created in
@@ -3060,7 +3060,7 @@ imposing one's own ideas and interests through police methods."_ [Malatesta,
 
 Moreover, unlike leading Marxists like Lenin and Karl Kautsky, anarchists
 think that socialist ideas are developed **within** the class struggle rather
-than outside it by the radical intelligentsia (see [section H.5](secH5.html)).
+than outside it by the radical intelligentsia (see [section H.5](secH5.md)).
 Kropotkin argued that _"modern socialism has emerged out of the depths of the
 people's consciousness. If a few thinkers emerging from the bourgeoisie have
 given it the approval of science and the support of philosophy, the basis of
@@ -3110,11 +3110,11 @@ socialist society. The fact that we are not suggests that spontaneity, however
 important, is not enough in itself. This simple fact of history is understood
 by anarchists and we organise ourselves appropriately.
 
-See [section J.3](secJ3.html) for more details on what organisations
+See [section J.3](secJ3.md) for more details on what organisations
 anarchists create and their role in anarchist revolutionary theory ([Section
-J.3.6](secJ3.html#secj36), for example, has a fuller discussion of the role of
+J.3.6](secJ3.md#secj36), for example, has a fuller discussion of the role of
 anarchist groups in the class struggle). For a discussion of the role of
-anarchists in a revolution, see [section J.7.5](secJ7.html#secj75).
+anarchists in a revolution, see [section J.7.5](secJ7.md#secj75).
 
 ## H.2.11 Are anarchists _"anti-democratic"_?
 
@@ -3159,7 +3159,7 @@ liberalism is against "authority" is hard to square with both its theory and
 reality.
 
 Another obvious point is that anarchists do not see **any** authority as
-_"despotic."_ As we discuss in [section H.4](secH4.html), this common Marxist
+_"despotic."_ As we discuss in [section H.4](secH4.md), this common Marxist
 assertion is simply not true. Anarchists have always been very clear on the
 fact they reject specific kinds of authority and not _"authority"_ as such. In
 fact, by the term _"principal of authority,"_ Bakunin meant **hierarchical**
@@ -3300,14 +3300,14 @@ generate specific social relationships and ways of working together.
 Similarly, it would be churlish to note that Marxists themselves have
 habitually rejected democratic authority when it suited them. Even that
 _"higher type of democracy"_ of the soviets was ignored by the Bolshevik party
-once it was in power. As we discuss in [section H.6.1](secH6.html#sech61),
+once it was in power. As we discuss in [section H.6.1](secH6.md#sech61),
 faced with the election of non-Bolshevik majorities to the soviets, Bolshevik
 armed force was used to overthrow the results. In addition, they also
 gerrymandered soviets once they could no longer count on an electoral
 majority. In the workplace, the Bolsheviks replaced workers' economic
 democracy with _"one-man management"_ appointed from above, by the state,
-armed with _"dictatorial power"_ (see [section H.3.14](secH3.html#sech314)).
-As discussed in [section H.3.8](secH3.html#sech38), the Bolsheviks generalised
+armed with _"dictatorial power"_ (see [section H.3.14](secH3.md#sech314)).
+As discussed in [section H.3.8](secH3.md#sech38), the Bolsheviks generalised
 their experiences exercising power into explicit support for party
 dictatorship. Throughout the 1920s and 30s, Trotsky repeated this conclusion
 and repeatedly advocated party dictatorship, urging the party to use its power
@@ -3411,7 +3411,7 @@ question-begging in the extreme, when not simply hypocritical.
 
 As a general rule-of-thumb, anarchists have little problem with the minority
 accepting the decisions of the majority after a process of free debate and
-discussion. As we argue in [section A.2.11](secA2.html#seca211), such
+discussion. As we argue in [section A.2.11](secA2.md#seca211), such
 collective decision making is compatible with anarchist principles - indeed,
 is based on them. By governing ourselves directly, we exclude others governing
 us. However, we do not make a fetish of this, recognising that, in certain
@@ -3560,7 +3560,7 @@ class."_ [Lenin and Trotsky, **Kronstadt**, p. 85] Not that this makes Trotsky
 an elitist for Selfa, of course. The key difference is that Goldman did not
 argue that this minority should seize power and rule the masses, regardless of
 the wishes of that majority, as Trotsky did (see [section
-H.1.2](secH1.html#sech12)). As Goldman noted, the _"Socialist demagogues know
+H.1.2](secH1.md#sech12)). As Goldman noted, the _"Socialist demagogues know
 that [her argument is true] as well as I, but they maintain the myth of the
 virtues of the majority, because their very scheme means the perpetuation of
 power"_ and _"authority, coercion and dependence rest on the mass, but never
@@ -3781,7 +3781,7 @@ just before the outbreak of war [in 1914], its Directorate [elected by the
 party congress] grew more anti-parliamentary."_ [Gwyn A. Williams,
 **Proletarian Order**, p. 29]
 
-As we noted in [section A.5.5](secA5.html#seca55), the role of the anarchists
+As we noted in [section A.5.5](secA5.md#seca55), the role of the anarchists
 and syndicalists compared to the Marxists during the 1920 near revolution
 suggested that the real _"proletarian"_ revolutionaries were, in fact, the
 former and **not** the latter. All in all, the history of the Italian labour
@@ -3915,7 +3915,7 @@ for Leninists themselves created by such an assertion. After all, Lenin
 himself argued that _"the life of modern working people"_ could only produce _
 "trade-union consciousness"_ as socialist ideas were developed independently
 of working people by the socialist (middle-class) _"intelligentsia."_ As we
-discuss in [section H.5.1](secH5.html#sech51), for Lenin, socialism was an
+discuss in [section H.5.1](secH5.md#sech51), for Lenin, socialism was an
 ideology which was alien to the life of modern working class people.
 
 Lastly, there is the question of whether Marx and Engels can seriously be
@@ -4070,7 +4070,7 @@ matter quickly shows that this is the case.
 
 A common Marxist claim is that anarchists and syndicalists ignore or dismiss
 the importance of _"political"_ struggles or action. This is not true. Rather,
-as we discuss in [section J.2.10](secJ2.html#secj210), we think that
+as we discuss in [section J.2.10](secJ2.md#secj210), we think that
 _"political"_ struggles should be conducted by the same means as social and
 economic struggles, namely by direct action, solidarity and working class
 self-organisation.
@@ -4118,7 +4118,7 @@ force by force."_ [**Errico Malatesta: His Life and Ideas**, pp. 193-4]
 This means that the question of whether to conduct political struggles is
 **not** the one which divides anarchists from Marxists. Rather, it is a
 question of **how** this struggle is fought. For anarchists, this struggle is
-best fought using **direct action** (see [section J.2](secJ2.html)) and
+best fought using **direct action** (see [section J.2](secJ2.md)) and
 fighting working class organisations based in our workplaces and communities.
 For Marxists, the political struggle is seen as being based on standing
 candidates in bourgeois elections. This can be seen from the resolution passed
@@ -4139,7 +4139,7 @@ exclusively to the taking part of revolutionaries in bourgeois elections (i.e.
 electioneering or parliamentarianism). It does not mean a rejection of
 fighting for political reforms or a lack of interest in political issues,
 quite the reverse in fact. The reason **why** anarchists reject this tactic is
-discussed in [section J.2.6](secJ2.html#secj26)).
+discussed in [section J.2.6](secJ2.md#secj26)).
 
 For Kropotkin, the idea that you could somehow "prepare" for a revolution by
 electioneering was simply a joke. _"As if the bourgeoisie,"_ he argued,
@@ -4180,16 +4180,16 @@ This is, indeed, what Socialism is rapidly doing. Were this not so, the middle
 classes . . . would not share their power with the Socialists."_ [**Evolution
 and Environment**, p. 102]
 
-In addition, as we argue in [section J.2.5](secJ2.html#secj25), direct action
+In addition, as we argue in [section J.2.5](secJ2.md#secj25), direct action
 is either based on (or creates) forms of self-managed working class
 organisations. The process of collective struggle, in other words,
 necessitates collective forms of organisation and decision making. These
 combative organisations, as well as conducting the class struggle under
 capitalism, can also be the framework of a free society (see [section
-H.1.4](secH1.html#sech14)). However, standing in elections does **not**
+H.1.4](secH1.md#sech14)). However, standing in elections does **not**
 produce such alternative social structures and, indeed, hinders them as the
 focus for social changes becomes a few leaders working in existing (i.e.
-bourgeois) structures and bodies (see [section H.1.5](secH1.html#sech15)).
+bourgeois) structures and bodies (see [section H.1.5](secH1.md#sech15)).
 
 As can be seen, anarchists reject _"political"_ struggle (i.e. electioneering)
 for good (and historically vindicated) reasons. This makes a mockery of
@@ -4262,7 +4262,7 @@ _"model"_ shared many of the same features as those of Bakunin's!
 
 Significantly, Stack fails to discuss any of the standard anarchist ideas on
 how revolutionaries should organise. As we discuss in [section
-J.3](secJ3.html), there are three main types: the _"synthesis"_ federation,
+J.3](secJ3.md), there are three main types: the _"synthesis"_ federation,
 the _"class struggle"_ federation and those inspired by the _"Platform."_ In
 the twenty-first century, these are the main types of anarchist organisation.
 As such, it would be extremely hard to argue that these are _"elitist,"_
@@ -4308,7 +4308,7 @@ As regards Stack's summary of Bakunin's organisation, we must note that Stack
 is quoting an unnamed source on Bakunin's views on this subject. We,
 therefore, have no way of evaluating whether this is a valid summary of
 Bakunin's ideas on this matter. As we indicate elsewhere (see [section
-J.3.7](secJ3.html#secj37)) Leninist summaries of Bakunin's ideas on secret
+J.3.7](secJ3.md#secj37)) Leninist summaries of Bakunin's ideas on secret
 organising usually leave a lot to be desired (by usually leaving a lot out or
 quoting out of context certain phrases). As such, and given the total lack of
 relevance of this model for anarchists since the 1870s, we will not bother to
@@ -4351,7 +4351,7 @@ ideas were accepted by other members of the same organisations after
 discussion and debate. As regards the nature of the labour movement, we must
 point out that Bakunin provided the same _"serious"_ answer as the anarcho-
 syndicalists - namely, revolutionary labour unionism. As we discuss in
-[section H.2.8](secH2.html#sech28), Bakunin's ideas on this matter are nearly
+[section H.2.8](secH2.md#sech28), Bakunin's ideas on this matter are nearly
 identical to those of the syndicalists Stack praises.
 
 As noted, however, no anarchist group has reproduced the internal structure of
@@ -4459,7 +4459,7 @@ of the Bolsheviks or else disband! The soviets ignored them. In February 1917
 the Bolshevik party opposed the actions that produced the revolution which
 overthrew the Tsar. Simply put, the one event that validates the Bolshevik
 model is the October Revolution of 1917 and even that failed (see [section
-H.5.12](secH5.html#sech512)).
+H.5.12](secH5.md#sech512)).
 
 Moreover, it backfires on his own politics. The very issues which Stack raises
 as being _"elitist"_ in Bakunin (secret and open organisation, centralisation,
@@ -4596,11 +4596,11 @@ note the similarities between his ideas and Lenin's and, equally
 significantly, the key areas in which they differ. All in all, anarchists
 would argue that it is Leninist ideas on the vanguard party which are
 _"elitist,"_ _"ineffective"_ and _"downright bizarre."_ As we discuss in
-[section H.5](secH5.html), the only thing the Leninist "revolutionary" party
+[section H.5](secH5.md), the only thing the Leninist "revolutionary" party
 is effective for is replacing one set of bosses with a new set (the leaders of
 the party).
 
-[‹ H.1 Have anarchists always opposed state socialism?](/afaq/secH1.html "Go
-to previous page" ) [up](/afaq/secHcon.html "Go to parent page" ) [H.3 What
-are the myths of state socialism? ›](/afaq/secH3.html "Go to next page" )
+[‹ H.1 Have anarchists always opposed state socialism?](secH1.md "Go to
+previous page" ) [up](secHcon.md "Go to parent page" ) [H.3 What are the
+myths of state socialism? ›](secH3.md "Go to next page" )
 

@@ -32,7 +32,7 @@ others, did subscribe to it). We should also point out that the Individualist
 Anarchist Lysander Spooner also subscribed to "natural laws" (which shows
 that, as we noted above, the concept is not limited to one particular theory
 or ideology). We present a short critique of Spooner's ideas on this subject
-in section [G.7](secG7.html).
+in section [G.7](secG7.md).
 
 Lastly, it could be maintained that it is a common "straw man" to maintain
 that supporters of Natural Law argue that their Laws are like the laws of
@@ -304,7 +304,7 @@ or badness can be determined by what fulfils or thwarts what is best for man's
 nature."_ [**The Ethics of Liberty**, p. 10] But, of course, what may be
 "good" for "man" may be decidedly **bad** for men (and women). If we take the
 example of the sole oasis in a desert (see section
-[4.2](append134.html#secf42)) then, according to Rothbard, the property owner
+[4.2](append134.md#secf42)) then, according to Rothbard, the property owner
 having the power of life and death over others is "good" while, if the
 dispossessed revolt and refuse to recognise his "property", this is "bad"! In
 other words, Rothbard's "natural law" is good for **some** people (namely
@@ -352,14 +352,14 @@ domination is coercion and so wrong. However, this argument ignores that fact
 that **circumstances** force workers to sell their liberty and so violence on
 behalf of property owners is not (usually) required -- market forces ensure
 that physical force is purely "defensive" in nature. And as we argued in
-section [2.2](append132.html#secf22), even Rothbard recognised that the
+section [2.2](append132.md#secf22), even Rothbard recognised that the
 economic power associated with one class of people being dispossessed and
 another empowered by this fact results in relations of domination which cannot
 be considered "voluntary" by any stretch of the imagination (although, of
 course, Rothbard refuses to see the economic power associated with capitalism
 -- when its capitalism, he cannot see the wood for the trees -- and we are
 ignoring the fact that capitalism was created by extensive use of coercion and
-violence -- see section [8](append138.html)).
+violence -- see section [8](append138.md)).
 
 Thus, "Natural law" and attempts to protect individuals rights/liberty and see
 a world in which people are free to shape their own lives are fatally flawed
@@ -519,7 +519,7 @@ that value? She states that _"[v]alues are not determined by fiat nor by
 majority vote"_ [p. 24] but, however, neither can they be determined by "man"
 or "man's consciousness" because "man" does not exist. Individuals exist and
 have consciousness and because they are unique have different values (but as
-we argued in section [A.2.19](secA2.html#seca219), being social creatures
+we argued in section [A.2.19](secA2.md#seca219), being social creatures
 these values are generalised across individuals into social, i.e. objective,
 values). So, the abstraction "man" does not exist and because of this we see
 the healthy sight of different individuals convincing others of their ideas
@@ -548,7 +548,7 @@ be a death blow to this process of critical thought, development and
 evaluation of the facts of reality by individual's consciousness. Human
 thought would be subsumed by dogma.
 
-[‹ 10 Would laissez-faire capitalism be stable?](/afaq/append1310.html "Go to
-previous page" ) [up](/afaq/append13.html "Go to parent page" ) [Appendix -
-The Symbols of Anarchy ›](/afaq/append2.html "Go to next page" )
+[‹ 10 Would laissez-faire capitalism be stable?](append1310.md "Go to
+previous page" ) [up](append13.md "Go to parent page" ) [Appendix - The
+Symbols of Anarchy ›](append2.md "Go to next page" )
 

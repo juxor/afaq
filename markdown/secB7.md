@@ -14,13 +14,13 @@ power than the majority, who usually work for the minority that controls them
 and the decisions that affect them. This means that class is based both on
 exploitation **and** oppression, with some controlling the labour of others
 for their own gain. The means of oppression have been indicated in earlier
-parts of [section B](secBcon.html), while section C ([What are the myths of
-capitalist economics?](secCcon.html)) indicates exactly how exploitation
+parts of [section B](secBcon.md), while section C ([What are the myths of
+capitalist economics?](secCcon.md)) indicates exactly how exploitation
 occurs within a society apparently based on free and equal exchange. In
 addition, it also highlights the effects on the economic system itself of this
 exploitation. The social and political impact of the system and the classes
 and hierarchies it creates is discussed in depth in section D ([How do statism
-and capitalism affect society?](secDcon.html)).
+and capitalism affect society?](secDcon.md)).
 
 We must emphasise at the outset that the idea of the "working class" as
 composed of nothing but industrial workers is simply false. It is **not**
@@ -310,7 +310,7 @@ class"). That the most free-market nation has the worse poverty rates **and**
 the smallest "middle class" indicates well the anarchist claim that
 capitalism, left to its own devices, will benefit the strong (the ruling
 class) over the weak (the working class) via "free exchanges" on the "free"
-market (as we argue in [section C.7](secC7.html), only during periods of full
+market (as we argue in [section C.7](secC7.md), only during periods of full
 employment -- and/or wide scale working class solidarity and militancy -- does
 the balance of forces change in favour of working class people. Little wonder,
 then, that periods of full employment also see falling inequality -- see James
@@ -364,7 +364,7 @@ for the working classes, the maintaining of a "natural" law of unemployment
 (which weakens unions and workers power) and cutbacks in social programs, has
 seriously eroded living standards for all but the upper strata -- a process
 that is clearly leading toward social breakdown, with effects that will be
-discussed later (see [section D.9](secD9.html)).
+discussed later (see [section D.9](secD9.md)).
 
 Little wonder Proudhon argued that the law of supply and demand was a
 _"deceitful law . . . suitable only for assuring the victory of the strong
@@ -374,7 +374,7 @@ by Alan Ritter, **The Political Thought of Pierre-Joseph Proudhon**, p. 121]
 ## B.7.2 Does social mobility make up for class inequality?
 
 Faced with the massive differences between classes under capitalism we
-highlighted in the [last section](secB7.html#secb71), many supporters of
+highlighted in the [last section](secB7.md#secb71), many supporters of
 capitalism still deny the obvious. They do so by confusing a **caste** system
 with a **class** system. In a caste system, those born into it stay in it all
 their lives. In a class system, the membership of classes can and does change
@@ -608,7 +608,7 @@ news sources give us nothing but superficial analyses, biased and selective
 reporting, outright lies, and an endless barrage of yellow journalism,
 titillation, and "entertainment," rather than talking about the class nature
 of capitalist society (see section D.3 -- ["How does wealth influence the mass
-media?"](secD3.html))
+media?"](secD3.md))
 
 The universities, think tanks, and private research foundations are also
 important propaganda tools of the ruling class. This is why it is virtually
@@ -816,7 +816,7 @@ can only be challenged and destroyed by a greater power and new values."_
 one of the effects of direct action to resist oppression and exploitation of
 working class people would be the **creation** of such a power and new values,
 values based on respect for individual freedom and solidarity (see sections
-[J.2](secJ2.html) and [J.4](secJ4.html) on direct action and its liberating
+[J.2](secJ2.md) and [J.4](secJ4.md) on direct action and its liberating
 potential).
 
 As such, class consciousness also means recognising that working class people
@@ -856,7 +856,7 @@ everything that affects them -- their parents, their children, their friends,
 their neighbours, their planet and, very often, total strangers.
 
 [‹ B.6 But won't decisions made by individuals with their own money be the
-best? ](/afaq/secB6.html "Go to previous page" ) [up](/afaq/secBcon.html "Go
-to parent page" ) [Section C - What are the myths of capitalist economics?
-›](/afaq/secCcon.html "Go to next page" )
+best? ](secB6.md "Go to previous page" ) [up](secBcon.md "Go to parent
+page" ) [Section C - What are the myths of capitalist economics?
+›](secCcon.md "Go to next page" )
 

@@ -179,7 +179,7 @@ upon individual freedom and voluntary co-operation. In other words, order from
 the bottom up, not disorder imposed from the top down by authorities. Such a
 society would be a true anarchy, a society without rulers.
 
-While we discuss what an anarchy could look like in [section I](secIcon.html),
+While we discuss what an anarchy could look like in [section I](secIcon.md),
 Noam Chomsky sums up the key aspect when he stated that in a truly free
 society _"any interaction among human beings that is more than personal --
 meaning that takes institutional forms of one kind or another -- in community,
@@ -217,7 +217,7 @@ only liberty for the powerful, and equality without liberty is impossible and
 a justification for slavery.
 
 While there are many different types of anarchism (from individualist
-anarchism to communist-anarchism -- see [section A.3](secA3.html) for more
+anarchism to communist-anarchism -- see [section A.3](secA3.md) for more
 details), there has always been two common positions at the core of all of
 them -- opposition to government and opposition to capitalism. In the words of
 the individualist-anarchist Benjamin Tucker, anarchism insists _"on the
@@ -266,7 +266,7 @@ Thus anarchism is both positive and negative. It analyses and critiques
 current society while at the same time offering a vision of a potential new
 society -- a society that fulfils certain human needs which the current one
 denies. These needs, at their most basic, are liberty, equality and
-solidarity, which will be discussed in [section A.2](secA2.html).
+solidarity, which will be discussed in [section A.2](secA2.md).
 
 Anarchism unites critical analysis with hope, for, as Bakunin (in his pre-
 anarchist days) pointed out, _"the urge to destroy is a creative urge."_ One
@@ -332,10 +332,10 @@ Wherever oppressed people stand up for their rights, take action to defend
 their freedom, practice solidarity and co-operation, fight against oppression,
 organise themselves without leaders and bosses, the spirit of anarchism lives.
 Anarchists simply seek to strengthen these libertarian tendencies and bring
-them to their full fruition. As we discuss in [section J](secJcon.html),
+them to their full fruition. As we discuss in [section J](secJcon.md),
 anarchists apply their ideas in many ways within capitalism in order to change
 it for the better until such time as we get rid of it completely. [Section
-I](secIcon.html) discusses what we aim to replace it with, i.e. what anarchism
+I](secIcon.md) discusses what we aim to replace it with, i.e. what anarchism
 aims for.
 
 ## A.1.3 Why is anarchism also called libertarian socialism?
@@ -405,15 +405,15 @@ staunch anarcho-syndicalist principles and lasted until 1965. The US-based
 1970's, well over 100 years after anarchists first used the term to describe
 their political ideas (and 90 years after the expression "libertarian
 communism" was first adopted). It is that party, not the anarchists, who have
-"stolen" the word. Later, in [Section B](secBcon.html), we will discuss why
+"stolen" the word. Later, in [Section B](secBcon.md), we will discuss why
 the idea of a "libertarian" capitalism (as desired by the Libertarian Party)
 is a contradiction in terms.
 
-As we will also explain in [Section I](secIcon.html), only a libertarian-
+As we will also explain in [Section I](secIcon.md), only a libertarian-
 socialist system of ownership can maximise individual freedom. Needless to
 say, state ownership -- what is commonly **called** "socialism" -- is, for
 anarchists, not socialism at all. In fact, as we will elaborate in [ Section
-H](secHcon.html), state "socialism" is just a form of capitalism, with no
+H](secHcon.md), state "socialism" is just a form of capitalism, with no
 socialist content whatever. As Rudolf Rocker noted, for anarchists, socialism
 is _"not a simple question of a full belly, but a question of culture that
 would have to enlist the sense of personality and the free initiative of the
@@ -440,7 +440,7 @@ libertarian socialism.
 
 Yes. All branches of anarchism are opposed to capitalism. This is because
 capitalism is based upon oppression and exploitation (see sections
-[B](secBcon.html) and [C](secCcon.html)). Anarchists reject the _"notion that
+[B](secBcon.md) and [C](secCcon.md)). Anarchists reject the _"notion that
 men cannot work together unless they have a driving-master to take a
 percentage of their product"_ and think that in an anarchist society _"the
 real workmen will make their own regulations, decide when and where and how
@@ -485,7 +485,7 @@ workplaces which supply services). The means by which the producers will do
 this is a moot point in anarchist and other socialist circles, but the desire
 remains a common one. Anarchists favour direct workers' control and either
 ownership by workers' associations or by the commune (see [section
-A.3](secA3.html) on the different types of anarchists).
+A.3](secA3.md) on the different types of anarchists).
 
 Moreover, anarchists also reject capitalism for being authoritarian **as well
 as** exploitative. Under capitalism, workers do not govern themselves during
@@ -521,7 +521,7 @@ artisans and peasants. For Tucker, and other Individualist anarchists,
 capitalism is not a true free market, being marked by various laws and
 monopolies which ensure that capitalists have the advantage over working
 people, so ensuring the latter's exploitation via profit, interest and rent
-(see [section G](secGcon.html) for a fuller discussion). Even Max Stirner, the
+(see [section G](secGcon.md) for a fuller discussion). Even Max Stirner, the
 arch-egoist, had nothing but scorn for capitalist society and its various
 "spooks," which for him meant ideas that are treated as sacred or religious,
 such as private property, competition, division of labour, and so forth.
@@ -585,7 +585,7 @@ critics and opposition to the Bolshevik regime in Russia.
 Nevertheless, being socialists, anarchists do share **some** ideas with
 **some** Marxists (though none with Leninists). Both Bakunin and Tucker
 accepted Marx's analysis and critique of capitalism as well as his labour
-theory of value (see [section C](secCcon.html)). Marx himself was heavily
+theory of value (see [section C](secCcon.md)). Marx himself was heavily
 influenced by Max Stirner's book **The Ego and Its Own**, which contains a
 brilliant critique of what Marx called "vulgar" communism as well as state
 socialism. There have also been elements of the Marxist movement holding views
@@ -611,7 +611,7 @@ State as Capitalist, to which the Social-Democratic fraction of the great
 Socialist Party is now trying to reduce Socialism."_ [Peter Kropotkin, **The
 Great French Revolution**, vol. 1, p. 31] The anarchist objection to the
 identification of Marxism, "central planning" and State Socialism/Capitalism
-with socialism will be discussed in [section H](secHcon.html).
+with socialism will be discussed in [section H](secHcon.md).
 
 It is because of these differences with state socialists, and to reduce
 confusion, most anarchists just call themselves "anarchists," as it is taken
@@ -621,14 +621,14 @@ calling themselves "anarchists" and that is why we have laboured the point
 somewhat here. Historically, and logically, anarchism implies anti-capitalism,
 i.e. socialism, which is something, we stress, that all anarchists have agreed
 upon (for a fuller discuss of why "anarcho"-capitalism is not anarchist see [
-section F](secFcon.html)).
+section F](secFcon.md)).
 
 ## A.1.5 Where does anarchism come from?
 
 Where does anarchism come from? We can do no better than quote **The
 Organisational Platform of the Libertarian Communists** produced by
 participants of the Makhnovist movement in the Russian Revolution (see
-[Section A.5.4](secA5.html#seca54)). They point out that:
+[Section A.5.4](secA5.md#seca54)). They point out that:
 
 > _"The class struggle created by the enslavement of workers and their
 aspirations to liberty gave birth, in the oppression, to the idea of
@@ -764,7 +764,7 @@ essentially a product of working class struggle against capitalism and the
 state, against oppression and exploitation, and **for** a free society of free
 and equal individuals.
 
-[‹ A.0 Section A Introduction](/afaq/secAint.html "Go to previous page" )
-[up](/afaq/secAcon.html "Go to parent page" ) [A.2 What does anarchism stand
-for? ›](/afaq/secA2.html "Go to next page" )
+[‹ A.0 Section A Introduction](secAint.md "Go to previous page" )
+[up](secAcon.md "Go to parent page" ) [A.2 What does anarchism stand for?
+›](secA2.md "Go to next page" )
 

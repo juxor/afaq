@@ -4,38 +4,38 @@
 
 Here are links to other web-sites with anarchist material in them :
 
-  * [ Anarchist News](alinks.html#news)
-  * [ Anarchist Web-pages (English)](alinks.html#webpages)
-  * [ Anarchist Web-pages (Non-English)](alinks.html#nonwebpages)
-  * [ Anarcha-Feminist Webpages](alinks.html#anarchafem)
-  * [ Anarchist blogs](alinks.html#blogs)
-  * [ Anarchist and Libertarian Socialist Organisations](alinks.html#anarchorg)
-  * [ Anarcho-Syndicalist and Syndicalist Web-pages](alinks.html#synpages)
-  * [ Anarcho-Syndicalist and Revolutionary Unions and Organisations](alinks.html#syndicates)
-  * [ Anarchist and Anarcho-Syndicalist Web-Page Rings](alinks.html#rings)
-  * [ Anarchist and Libertarian Papers and Magazines](alinks.html#papers)
-  * [ Anarchist and Libertarian Books and Pamphlets](alinks.html#books)
-  * [ Sites on Famous Anarchists](alinks.html#people)
-  * [ Anarchist Publishers, Bookshops, Infoshops and Social Centres](alinks.html#shops)
-  * [ Anarchist and Radical Music and Art](alinks.html#music)
-  * [ Sites on Anarchist History](alinks.html#history)
-  * [ Sites with useful Anarchist Resources](alinks.html#resources)
+  * [ Anarchist News](alinks.md#news)
+  * [ Anarchist Web-pages (English)](alinks.md#webpages)
+  * [ Anarchist Web-pages (Non-English)](alinks.md#nonwebpages)
+  * [ Anarcha-Feminist Webpages](alinks.md#anarchafem)
+  * [ Anarchist blogs](alinks.md#blogs)
+  * [ Anarchist and Libertarian Socialist Organisations](alinks.md#anarchorg)
+  * [ Anarcho-Syndicalist and Syndicalist Web-pages](alinks.md#synpages)
+  * [ Anarcho-Syndicalist and Revolutionary Unions and Organisations](alinks.md#syndicates)
+  * [ Anarchist and Anarcho-Syndicalist Web-Page Rings](alinks.md#rings)
+  * [ Anarchist and Libertarian Papers and Magazines](alinks.md#papers)
+  * [ Anarchist and Libertarian Books and Pamphlets](alinks.md#books)
+  * [ Sites on Famous Anarchists](alinks.md#people)
+  * [ Anarchist Publishers, Bookshops, Infoshops and Social Centres](alinks.md#shops)
+  * [ Anarchist and Radical Music and Art](alinks.md#music)
+  * [ Sites on Anarchist History](alinks.md#history)
+  * [ Sites with useful Anarchist Resources](alinks.md#resources)
 
   
 ---  
   
 Here are links for other net-based anarchist resources
 
-  * [ Anarchist Newsgroups](alinks.html#anarchonews)
-  * [ Anarchist Related Newsgroups](alinks.html#othernews)
-  * [ Anarchist and Syndicalist Mailing Lists](alinks.html#mail)
+  * [ Anarchist Newsgroups](alinks.md#anarchonews)
+  * [ Anarchist Related Newsgroups](alinks.md#othernews)
+  * [ Anarchist and Syndicalist Mailing Lists](alinks.md#mail)
 
   
 ---  
   
 Here are links which may be of interest to anarchists
 
-  * [ Sites on Anarchist Related Topics](arlinks.html#other)
+  * [ Sites on Anarchist Related Topics](arlinks.md#other)
 
   
 ---  
@@ -44,10 +44,10 @@ Here are links which may be of interest to anarchists
 
 * * *
 
-  * [Other Anarchist Web-pages](/afaq/alinks.html)
-  * [Sites of interest to Anarchists](/afaq/arlinks.html)
+  * [Other Anarchist Web-pages](alinks.md)
+  * [Sites of interest to Anarchists](arlinks.md)
 
-[‹ Non-English versions of the FAQ](/afaq/translations.html "Go to previous
-page" ) [up](/afaq/index.html "Go to parent page" ) [Other Anarchist Web-pages
-›](/afaq/alinks.html "Go to next page" )
+[‹ Non-English versions of the FAQ](translations.md "Go to previous page" )
+[up](index.md "Go to parent page" ) [Other Anarchist Web-pages
+›](alinks.md "Go to next page" )
 

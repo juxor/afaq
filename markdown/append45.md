@@ -24,7 +24,7 @@ _"Left Opposition"_ we are reduced to simply the more radical sounding faction
 of the state and party bureaucracy fighting it out with the dominant faction.
 
 To contrast these fake "oppositions" with a genuine opposition, we will
-discuss (in [section 4](append45.html#app4)) the _"Workers' Group"_ of 1923
+discuss (in [section 4](append45.md#app4)) the _"Workers' Group"_ of 1923
 which was expelled from the Communist Party and repressed because it stood for
 (at least until the Bolshevik party seized power) traditional socialist
 values. This repression occurred, significantly, under Lenin and Trotsky in
@@ -86,8 +86,8 @@ production. Of course, without economic power, working class political power
 would be fatally undermined. In practice, Lenin simply handed over the
 workplaces to the state bureaucracy and created the social relationships which
 Stalinism thrived upon. Unfortunately, Lenin's arguments carried the day (see
-see [section 9](append41.html#app9) of the appendix ["What happened during the
-Russian Revolution?"](append41.html)). How this conflict was resolved is
+see [section 9](append41.md#app9) of the appendix ["What happened during the
+Russian Revolution?"](append41.md)). How this conflict was resolved is
 significant, given that the banning of factions (which is generally seen as a
 key cause in the rise of Stalinism) occurred in 1921 (a ban, incidentally,
 Trotsky defended throughout the 1920s). As one historian notes:
@@ -164,7 +164,7 @@ which they accused Lenin and his faction."_ [Kowalski, **Op. Cit.**, pp.
 136-7]
 
 This position can be traced back to the fundamentals of Bolshevism (see
-[section H.5](secH5.html) on vanguardism). _"According to the Left Communists,
+[section H.5](secH5.md) on vanguardism). _"According to the Left Communists,
 therefore,"_ notes Richard Sakwa, "the party was the custodian of an interest
 higher than that of the soviets. Earlier theoretical considerations on the
 vanguard role of the party, developed in response to this problem, were
@@ -192,7 +192,7 @@ _"Bolsheviks no longer bothered to disclaim that the dictatorship of the
 proletariat as the 'dictatorship of the party.'"_ [Stephen F. Cohen,
 **Bukharin and the Bolshevik Revolution**, p. 145 and p. 142] All the leading
 Bolsheviks had argued this position for some time (see [section
-H.1.2](secH1.html#sech12), for example). Bukharin even went so far as to argue
+H.1.2](secH1.md#sech12), for example). Bukharin even went so far as to argue
 that _"the watchword"_ taken up by some workers ("even metal workers"!) of
 _"For class dictatorship, but against party dictatorship!"_ showed that the
 proletariat "was declassed." This also indicated that a _"misunderstanding
@@ -227,9 +227,9 @@ Obviously a man before his time. As Stalin proved, if one-man management was
 such a good idea then why wasn't it being practised in the Council of People's
 Commissars. However, we should not be surprised by this party regime. After
 all, Trotsky had imposed a similar regime in the Army in 1918, as had Lenin in
-industry in the same year. As discussed in [section 3](append43.html#app3) of
+industry in the same year. As discussed in [section 3](append43.md#app3) of
 the appendix [ "What caused the degeneration of the Russian
-Revolution?"](append43.html), the Bolshevik preference for centralised
+Revolution?"](append43.md), the Bolshevik preference for centralised
 "democracy" effectively hollowed out the real democracy at the base which
 makes democracy more than just picking masters.
 
@@ -341,7 +341,7 @@ proletariat is impossible."_ [**Collected Works**, vol. 31, p. 82, p. 27, p.
 26, p. 197 and p. 246] In other words, _"Marxism"_ teaches that workers'
 democracy and protest (the only means by which _"vacillation"_ can be
 expressed) is a danger to the _"dictatorship of the proletariat"_! (see also
-[section H.5.3](secH5.html#sech53) on why this position is the inevitable
+[section H.5.3](secH5.md#sech53) on why this position is the inevitable
 outcome of vanguardism).
 
 It should be stresses that this opposition and the debate it provoked occurred
@@ -374,7 +374,7 @@ party domination. It is, therefore, unsurprising that leading members of the
 _"Workers' Opposition"_ took part in the attack on Kronstadt and that they
 wholeheartedly rejected the consistent demands for political **and** economic
 that the Kronstadt rebels had raised (see appendix ["What was the Kronstadt
-Rebellion?"](append42.html) for more information). Such a policy would be too
+Rebellion?"](append42.md) for more information). Such a policy would be too
 contradictory to be applied. Either the economic reforms would remain a dead
 letter under party control or the economic reforms would provoke demands for
 political change. This last possibility may explain Lenin's vitriolic attacks
@@ -487,7 +487,7 @@ Politically, Trotsky was unashamedly in favour of party dictatorship. Indeed,
 his basic opposition to Stalinism was because he considered it as the end of
 that dictatorship by the rule of the bureaucracy. He held this position
 consistently during the civil war and into the 1920s (and beyond -- see
-[section H.3.8](secH3.html#sech38)). For example, in April 1923, he asserted
+[section H.3.8](secH3.md#sech38)). For example, in April 1923, he asserted
 quite clearly that _"[i]f there is one question which basically not only does
 not require revision but does not so much as admit the thought of revision, it
 is the question of the dictatorship of the Party."_ [**Leon Trotsky Speaks**,
@@ -612,7 +612,7 @@ a country without a peasantry then the _"dictatorship of the party"_ would be
 of no real concern!
 
 This was no temporary (7 year!) aberration. As indicated in [section
-H.3.8](secH3.html#sech38), Trotsky repeated this support for party
+H.3.8](secH3.md#sech38), Trotsky repeated this support for party
 dictatorship ten years later (and after). Furthermore, Trotsky's defence of
 party dictatorship against Stalin was included in the 1927 **Platform of the
 Opposition**. This included the same contradictory demands for workers'
@@ -793,8 +793,8 @@ and that _"[p]re-revolutionary relations between foremen and workmen are
 frequently found."_ Which is hardly surprising, given that Lenin had argued
 for, and implemented, appointed one-man management armed with "dictatorial
 powers" from April 1918 and that Trotsky himself also supported one-man
-management (see [section 10](append41.html#app10) of the appendix ["What
-happened during the Russian Revolution?"](append41.html)).
+management (see [section 10](append41.md#app10) of the appendix ["What
+happened during the Russian Revolution?"](append41.md)).
 
 Even more ironically, Harman argues that the Stalinist bureaucracy became a
 ruling class in 1928 when it implemented the first five year plan. This
@@ -1313,8 +1313,7 @@ problems of the revolution and subsequent civil war did not create but rather
 revealed Bolshevism's authoritarian core.
 
 [‹ How did Bolshevik ideology contribute to the failure of the
-Revolution?](/afaq/append44.html "Go to previous page" )
-[up](/afaq/append4.html "Go to parent page" ) [Why does the Makhnovist
-movement show there is an alternative to Bolshevism? ›](/afaq/append46.html
-"Go to next page" )
+Revolution?](append44.md "Go to previous page" ) [up](append4.md "Go to
+parent page" ) [Why does the Makhnovist movement show there is an alternative
+to Bolshevism? ›](append46.md "Go to next page" )
 

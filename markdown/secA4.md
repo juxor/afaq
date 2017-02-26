@@ -450,11 +450,11 @@ theories however it must be stressed that anarchism offers an **_anarchist_**
 critique of both liberalism and socialism and we should not submerge the
 uniqueness of anarchism into other philosophies.
 
-[Section A.4.2](secA4.html#seca42) discusses liberal thinkers who are close to
-anarchism, while [section A.4.3](secA4.html#seca43) highlights those
+[Section A.4.2](secA4.md#seca42) discusses liberal thinkers who are close to
+anarchism, while [section A.4.3](secA4.md#seca43) highlights those
 socialists who are close to anarchism. There are even Marxists who inject
 libertarian ideas into their politics and these are discussed in [section
-A.4.4](secA4.html#seca44). And, of course, there are thinkers who cannot be so
+A.4.4](secA4.md#seca44). And, of course, there are thinkers who cannot be so
 easily categorised and will be discussed here.
 
 Economist David Ellerman has produced an impressive body of work arguing for
@@ -516,7 +516,7 @@ the state, marriage and wage labour are profoundly libertarian, showing that
 freedom must mean more than consenting to be ruled. This is the paradox of
 capitalist liberal, for a person is assumed to be free in order to consent to
 a contract but once within it they face the reality subordination to another's
-decisions (see [section A.4.2](secA4.html#seca42) for further discussion).
+decisions (see [section A.4.2](secA4.md#seca42) for further discussion).
 
 Her ideas challenge some of Western culture's core beliefs about individual
 freedom and her critiques of the major Enlightenment political philosophers
@@ -599,12 +599,12 @@ Graphic Guide** is also a useful guide for finding out more.
 
 ## A.4.2 Are there any liberal thinkers close to anarchism?
 
-As noted in the [last section](secA4.html#seca41), there are thinkers in both
+As noted in the [last section](secA4.md#seca41), there are thinkers in both
 the liberal and socialist traditions who approach anarchist theory and ideals.
 This understandable as anarchism shares certain ideas and ideals with both.
 
-However, as will become clear in sections [A.4.3](secA4.html#seca43) and
-[A.4.4](secA4.html#seca44), anarchism shares most common ground with the
+However, as will become clear in sections [A.4.3](secA4.md#seca43) and
+[A.4.4](secA4.md#seca44), anarchism shares most common ground with the
 socialist tradition it is a part of. This is because classical liberalism is a
 profoundly elitist tradition. The works of Locke and the tradition he inspired
 aimed to justify hierarchy, state and private property. As Carole Pateman
@@ -633,7 +633,7 @@ master or, if you are among the lucky few, to become a master yourself. The
 idea that freedom means self-determination for all at all times is alien to
 it. Rather it is based on the idea of "self-ownership," that you "own"
 yourself and your rights. Consequently, you can sell (alienate) your rights
-and liberty on the market. As we discuss in [section B.4](secB4.html), in
+and liberty on the market. As we discuss in [section B.4](secB4.md), in
 practice this means that most people are subject to autocratic rule for most
 of their waking hours (whether in work or in marriage).
 
@@ -1182,7 +1182,7 @@ Maurice Brinton's **The Irrational in Politics** is an excellent short
 introduction to Reich's ideas which links their insights to libertarian
 socialism.
 
-[‹ A.3 What types of anarchism are there?](/afaq/secA3.html "Go to previous
-page" ) [up](/afaq/secAcon.html "Go to parent page" ) [A.5 What are some
-examples of "Anarchy in Action"? ›](/afaq/secA5.html "Go to next page" )
+[‹ A.3 What types of anarchism are there?](secA3.md "Go to previous page" )
+[up](secAcon.md "Go to parent page" ) [A.5 What are some examples of
+"Anarchy in Action"? ›](secA5.md "Go to next page" )
 

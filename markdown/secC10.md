@@ -23,7 +23,7 @@ wealth. Over time, wealth will (to coin a well-worn phrase) "trickle down"
 from the wealthy to the many.
 
 What to make of this claim? Again, it does contain an element of truth. As
-capitalism is a "grow or die" economy (see [section D.4](secD4.html)),
+capitalism is a "grow or die" economy (see [section D.4](secD4.md)),
 obviously the amount of wealth available to society increases for **all** as
 the economy expands. So the poor will, in general, be better off
 **absolutely** in any growing economy (at least in economic terms). This was
@@ -106,13 +106,13 @@ capitalism). Secondly, that inequality will be less and share of wages in the
 national income more in "free market" than in other systems (this must be the
 case, otherwise "free market" reforms do not **especially** help working class
 people). We will discuss the first claim here, before discussing the track
-record of neo-liberalism in the [next section](secC10.html#secc101) followed a
+record of neo-liberalism in the [next section](secC10.md#secc101) followed a
 discussion of the history of capitalism and free trade in section
-[C.10.2](secC10.html#secc102). We then analysis the failings of the equality
-defence in section [C.10.3](secC10.html#secc103) before ending with a
+[C.10.2](secC10.md#secc102). We then analysis the failings of the equality
+defence in section [C.10.3](secC10.md#secc103) before ending with a
 discussion on the limitations of looking at income and growth in evaluating
 how capitalism benefits the working class ([section
-C.10.4](secC10.html#secc104)). As we show, there is substantial evidence to
+C.10.4](secC10.md#secc104)). As we show, there is substantial evidence to
 suggest that the standard defences of "free market" capitalism are not up to
 much. Let us be clear and state there is generally a positive correlation
 between economic growth and the income of the poor. We are not attacking
@@ -172,7 +172,7 @@ fallen to 7% and risen to 43% (_"The rich got rich, and the poor got
 poorer"_). _"Not only did the poor not share in the limited growth that took
 place between 1979 and 1990, the poor were relatively poorer than they had
 been on 1979."_ [**Dancing with Dogma**, pp. 83-4, p. 87, p. 142, p. 138 and
-p. 172] we will return to this issue in [section C.10.3](secC10.html#secc103).
+p. 172] we will return to this issue in [section C.10.3](secC10.md#secc103).
 
 Things did not get any better in the 1990s. Growth in GDP per capita was
 steadily decreased in the UK, from 2.3% per annum between 1950 and 1970, to
@@ -358,7 +358,7 @@ _"road to serfdom,"_ social-democracy created the full employment environment
 which produced a rebellious population. The move towards "free(r) markets" was
 a response to this social struggle, an attempt to enserf the population which
 has proven to be somewhat successful. As such, Kalecki's 1940s prediction we
-quoted in [section B.4.4](secB4.html#secb44) has been proven correct: the
+quoted in [section B.4.4](secB4.md#secb44) has been proven correct: the
 ruling class would prefer social peace (i.e. obedience) rather than higher
 growth (particularly if they get to monopolise most of the gains of that lower
 growth).
@@ -397,7 +397,7 @@ the world's poorest peoples. This has meant denying the reality of 30 years of
 neo-liberal reforms in favour of concentrating on absolute poverty figures.
 
 This is understandable. As we discuss in the [section
-C.10.4](secC10.html#secc104), absolute inequality and poverty is a good means
+C.10.4](secC10.md#secc104), absolute inequality and poverty is a good means
 of making discussion of the real issues meaningless. Moreover, as noted above,
 as capitalism must grow to survive wealth will tend to increase for all
 members of society over time. The real question is whether "free(r) markets
@@ -492,7 +492,7 @@ pursuing sound economic fundamentals."_ [Jeff Faux and Larry Mishel, **Op.
 Cit.**, p. 94] This process of proclaiming the success of neo-liberalism
 before it implodes started with the original neo-liberal experiment, namely
 Pinochet's Chile whose economy imploded just after Milton Friedman proclaimed
-it an "economic miracle" (see [section C.11](secC11.html)).
+it an "economic miracle" (see [section C.11](secC11.md)).
 
 Latin America has suffered the most attention from neo-liberalism and its
 institutions so it would be useful to look there for evaluating the claims of
@@ -684,7 +684,7 @@ markets" is _"confirmed"_ by an authoritarian system that obviously and
 constantly violates the freedom of labour. But then again, workers have never
 been considered highly by the profession. What has always counted is the
 freedom of the boss and, consequently, a regime that secures that is always
-praised (and we discuss in [section C.11](secC11.html), Friedman has a track
+praised (and we discuss in [section C.11](secC11.md), Friedman has a track
 record in this).
 
 The selectively of the supporters of "free market" capitalists is truly
@@ -765,7 +765,7 @@ capitalism and within capitalist ideology.
 
 ## C.10.2 Does "free trade" benefit everyone?
 
-As we discussed in the [last section](secC10.html#secc101), the post-1980 era
+As we discussed in the [last section](secC10.md#secc101), the post-1980 era
 of neo-liberal globalisation and "free(r) markets" has not been as beneficial
 to the developing world as the defenders of neo-liberalism suggest. In fact,
 these economies have done worse under neo-liberalism than they did under
@@ -779,7 +779,7 @@ capitalist development. Industrialisation has always been associated with
 violations of the sacred laws of economics and freedom for workers. In fact,
 the central conceit of neo-liberalism is that it ignores the evidence of
 history but this is unsurprising (as noted in [section
-C.1.2](secC1.html#secc12), economics has a distinct bias against empirical
+C.1.2](secC1.md#secc12), economics has a distinct bias against empirical
 evidence). This applies to the notion of free trade as well as
 industrialisation, both of which show the economists lack of concern with
 reality.
@@ -992,7 +992,7 @@ As such, it is not a coincidence that both the classic "free trade" and
 current neo-liberal position does allow a nation to secure its dominance in
 the market by forcing the ruling elites in **other** nations to subscribe to
 rules which hinder their freedom to develop in their own way. As we discuss in
-[section D.5](secD5.html), the rise of neo-liberalism can be viewed as the
+[section D.5](secD5.md), the rise of neo-liberalism can be viewed as the
 latest in a long series of imperialist agendas designed to secure benefits of
 trade to the West as well as reducing the number of rivals on the
 international market. As Chang notes, Britain's move to free trade after 1846
@@ -1055,8 +1055,8 @@ development. Far from it. We are simply noting that the conclusion of history
 seems to be that countries industrialise and grow faster when the state
 governs the market in significant ways while, at the same time, repressing the
 labour movement. This is unsurprising, for as we discuss in [section
-D.1](secD1.html), this process of state intervention is part and parcel of
-capitalism and, as noted in [section F.8](secF8.html), has always been a
+D.1](secD1.md), this process of state intervention is part and parcel of
+capitalism and, as noted in [section F.8](secF8.md), has always been a
 feature of its rise in the first place (to use Marx's expression, a process of
 _"primitive accumulation"_ has always been required to create capitalism).
 This does not mean, just to state the obvious, that anarchists support
@@ -1151,7 +1151,7 @@ Keynesian policies) and **increases** in all three after. Sadly for Friedman
 (and us!), the facts are counter to his assertions -- equality, mobility and
 share of income for _"human services"_ all decreased post-1980.
 
-As we showed in [section B.7](secB7.html), inequality rose **and** social
+As we showed in [section B.7](secB7.md), inequality rose **and** social
 mobility fell since 1980 in the USA and the UK (social democratic nations have
 a better record on both). As far as the share of income goes, that too has
 failed to support his assertions. Even in 1962, the facts did not support his
@@ -1225,7 +1225,7 @@ that rather significant fact.
 
 Then there is the issue of _"human services"_ itself. This is **not** the same
 as labour income at all as it includes, for example, management pay. As we
-indicated in [section C.3](secC3.html), this "labour" income is better thought
+indicated in [section C.3](secC3.md), this "labour" income is better thought
 of as **capital** income as that specific labour is rooted in the control of
 capital. That this is the case can be seen by the numerous defences of
 exploding CEO pay by right-wing think tanks, journals and economists as well
@@ -1264,7 +1264,7 @@ Looking further a field, this pattern has been repeated everywhere "free(r)
 market" capitalism has been imposed. In Chile equality and labour's share
 increased during the 1960s and early 1970s, only for both to plummet under
 Pinochet's Friedman-inspired neo-liberal regime (see [section
-C.11](secC11.html) for the grim details of _"economic liberty"_ there). In
+C.11](secC11.md) for the grim details of _"economic liberty"_ there). In
 Thatcher's Britain, inequality rose while labour share and social mobility
 fell. Between 1978 and 1990, the share of wages and salaries in household
 income in the UK fell from 65.8% to 57.4%. The share for capital income (rent,
@@ -1287,7 +1287,7 @@ bottom 10% was 8% lower in 1994/5 than in 1979). As in America during the same
 period a fence turned into stairs as the nearer to the bottom the slower
 income grew, the nearer the top the faster income grew (i.e. roughly equal
 growth turned into growth which increased as income increased -- see [section
-B.7.1](secB7.html#secb71)). Between 1979 and 1990/91, the bottom 70% saw their
+B.7.1](secB7.md#secb71)). Between 1979 and 1990/91, the bottom 70% saw their
 income share fall. During the Major years, from 1992 to 1997, inequality
 stopped growing simply because hardly anyone's income grew. Over all, between
 1979 and 2002/3, the share of all incomes received by the bottom half fell
@@ -1384,7 +1384,7 @@ equality, income shares and poverty, but also the fundamental basis of his
 Monetarist dogma, namely the aim to control the _"behaviour of the stock of
 money"_ by means of _"a legislated rule instructing the monetary authority to
 achieve a specified rates of growth in the stock of money."_ [**Op. Cit.**, p.
-ix and p. 54] As we indicated in [section C.8](secC8.html), the devastating
+ix and p. 54] As we indicated in [section C.8](secC8.md), the devastating
 results of applying this centre-piece of his ideology means that it hardly
 _"withstood time"_ by any stretch of the imagination! In other words, we have
 a case of self-refutation that has few equals.
@@ -1731,7 +1731,7 @@ live and develop their individual potentials in their own societies, not in
 (for example) 18th century Scotland or half-way across the globe (even Milton
 Friedman had to grudging admit that _"poverty is in part a relative matter."_
 [**Op. Cit.**, p. 191]). Considering the harmful effects of relative
-inequality we indicated in [section B.1](secB1.html), this position is
+inequality we indicated in [section B.1](secB1.md), this position is
 perfectly justified.
 
 The notion of absolute poverty being the key dates back to at least Locke who
@@ -1786,7 +1786,7 @@ attacked when Stalinism seemed to be out-performing the West in terms of
 growth before the 1970s. Yet the question, surely, is would individuals freely
 agree to be subjected to the dictates of a boss for 10-12 hours a day if other
 alternatives had not closed off by state intervention? As we discuss in
-[section F.8](secF8.html), the answer has always been no. This is the case
+[section F.8](secF8.md), the answer has always been no. This is the case
 today. For example, Naomi Klein interviews one boss of a third-world sweatshop
 who explained that _"for the lowly province worker, working inside an enclosed
 factory is better than being outside."_ One of his workers rebutted this,
@@ -1879,8 +1879,8 @@ crisis. When it boils down to it, we all have two options -- you can do what
 is right or you can do what you are told. "Free market" capitalist economics
 opts for the latter.
 
-[‹ C.9 Would laissez-faire capitalism reduce unemployment?](/afaq/secC9.html
-"Go to previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.11
-Doesn't neo-liberalism in Chile prove that the free market benefits everyone?
-›](/afaq/secC11.html "Go to next page" )
+[‹ C.9 Would laissez-faire capitalism reduce unemployment?](secC9.md "Go to
+previous page" ) [up](secCcon.md "Go to parent page" ) [C.11 Doesn't neo-
+liberalism in Chile prove that the free market benefits everyone?
+›](secC11.md "Go to next page" )
 

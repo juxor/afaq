@@ -7,7 +7,7 @@ _"when you vote in the supermarket, you get precisely what you voted for and
 so does everyone else."_ Such "voting" with one's pocket is then claimed to be
 an example of the wonderful "freedom" people enjoy under capitalism (as
 opposed to "socialism," always equated by right-wingers with **state**
-socialism, which will be discussed in [section H](secHcon.html)). However, in
+socialism, which will be discussed in [section H](secHcon.md)). However, in
 evaluating this claim, the difference between customers and citizens is
 critical.
 
@@ -177,7 +177,7 @@ and dialogue can be effective in realms where the atomised "consumer" model is
 essentially powerless to achieve constructive social change, never mind
 protect the individual from "agreeing" to "decisions of desperation" that
 leave them and society as a whole worse off (see also sections
-[E.3](secE3.html) and [E.5](secE5.html)).
+[E.3](secE3.md) and [E.5](secE5.md)).
 
 This is **not** to suggest that anarchists desire to eliminate individual
 decision making, far from it. An anarchist society will be based upon
@@ -190,8 +190,8 @@ a social framework, one that allows each individual to take an active part in
 improving the quality of life for us all by removing "Hobson choices" as far
 as possible.
 
-[‹ B.4 How does capitalism affect liberty?](/afaq/secB4.html "Go to previous
-page" ) [up](/afaq/secBcon.html "Go to parent page" ) [B.6 But won't decisions
-made by individuals with their own money be the best? ›](/afaq/secB6.html "Go
-to next page" )
+[‹ B.4 How does capitalism affect liberty?](secB4.md "Go to previous page" )
+[up](secBcon.md "Go to parent page" ) [B.6 But won't decisions made by
+individuals with their own money be the best? ›](secB6.md "Go to next page"
+)
 

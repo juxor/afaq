@@ -443,7 +443,7 @@ was no socialist"_ simply because he favoured _"private property."_ [p. 39]
 However, he does note the _"one moral provision [that] distinguished the
 Proudhonist contract from the capitalist contract"_ namely _"it abjured profit
 and exploitation."_ [**Op. Cit.**, pp. 40-41] -- which, of course, places him
-in the socialist tradition (see [last section](append11.html#app2)).
+in the socialist tradition (see [last section](append11.md#app2)).
 Unfortunately, Bookchin fails to acknowledge this or that Proudhon was totally
 opposed to wage labour along with usury, which, again, instantly places him in
 ranks of socialism (see, for example, the **General Idea of the Revolution**,
@@ -1110,7 +1110,7 @@ seen fit to try and appropriate the name of anarchism and, in order to do so,
 ignore key aspects of anarchist theory in the process. Little wonder, then,
 they try and prove their anarchist credentials via dictionary definitions
 rather than from the anarchist movement itself (see [next
-section](append11.html#app6)).
+section](append11.md#app6)).
 
 Caplan's attempt in his FAQ is an example to ignore individualist anarchist
 theory and history. Ignored is any attempt to understand their ideas on
@@ -1527,8 +1527,8 @@ new label to call themselves rather than steal our name.
 Although most anarchists disagree on many things, the denial of our history is
 not one of them.
 
-[‹ Appendix : Anarchism and "anarcho"-capitalism](/afaq/append1.html "Go to
-previous page" ) [up](/afaq/append1.html "Go to parent page" ) [Replies to
-Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version
-4.1.1 ›](/afaq/append12.html "Go to next page" )
+[‹ Appendix : Anarchism and "anarcho"-capitalism](append1.md "Go to previous
+page" ) [up](append1.md "Go to parent page" ) [Replies to Some Errors and
+Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1
+›](append12.md "Go to next page" )
 

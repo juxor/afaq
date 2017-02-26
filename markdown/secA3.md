@@ -55,19 +55,19 @@ principle . . . Anarchists like to distinguish themselves by what they do, and
 how they organise themselves to go about doing it."_ [David Graeber,
 **Fragments of An Anarchist Anthropology**, p. 5] This does not mean that
 anarchism does not have individuals who have contributed significantly to
-anarchist theory. Far from it, as can be seen in [section A.4](secA4.html)
+anarchist theory. Far from it, as can be seen in [section A.4](secA4.md)
 there are many such people. Anarchists simply recognise that to call your
 theory after an individual is a kind of idolatry. Anarchists know that even
 the greatest thinker is only human and, consequently, can make mistakes, fail
 to live up to their ideals or have a partial understanding of certain issues
-(see [section H.2](secH2.html) for more discussion on this). Moreover, we see
+(see [section H.2](secH2.md) for more discussion on this). Moreover, we see
 that the world changes and, obviously, what was a suitable practice or
 programme in, say, industrialising France of the 1840s may have its
 limitations in 21st century France!
 
 Consequently, it is to be expected that a social theory like anarchism would
 have numerous schools of thought and practice associated with it. Anarchism,
-as we noted in [section A.5](secA5.html), has its roots in the struggles of
+as we noted in [section A.5](secA5.md), has its roots in the struggles of
 working class people against oppression. Anarchist ideas have developed in
 many different social situations and, consequently, have reflected those
 circumstances. Most obviously, individualist anarchism initially developed in
@@ -164,7 +164,7 @@ rights in the means of life (i.e. the abolition of rent, interest and profits
 -- _"usury,"_ to use the individualist anarchists' preferred term for this
 unholy trinity). In effect, both schools follow Proudhon's classic work **What
 is Property?** and argue that possession must replace property in a free
-society (see [section B.3](secB3.html) for a discussion of anarchist
+society (see [section B.3](secB3.md) for a discussion of anarchist
 viewpoints on property). Thus property _"will lose a certain attribute which
 sanctifies it now. The absolute ownership of it -- 'the right to use or abuse'
 -- will be abolished, and possession, use, will be the only title. It will be
@@ -198,7 +198,7 @@ labour."_ [Kropotkin, **The Conquest of Bread**, p. 45 and p. 46] By this
 social anarchists simply mean that the social product which is produced by all
 would be available to all and each individual who has contributed productively
 to society can take what they need (how quickly we can reach such an ideal is
-a moot point, as we discuss in [section I.2.2](secI2.html#seci22%22)). Some
+a moot point, as we discuss in [section I.2.2](secI2.md#seci22%22)). Some
 social anarchists, like mutualists for example, are against such a system of
 libertarian (or free) communism, but, in general, the vast majority of social
 anarchists look forward to the end of money and, therefore, of buying and
@@ -239,7 +239,7 @@ violated. Equally, if an owner employs others to use the workplace then the
 boss can appropriate the product of the workers' labour, so violating the
 maxim that labour should receive its full product. Thus the principles of
 individualist anarchism point to anti-capitalist conclusions (see [section
-G.3](secG3.html)).
+G.3](secG3.md)).
 
 This second difference is the most important. The individualist fears being
 forced to join a community and thus losing his or her freedom (including the
@@ -322,7 +322,7 @@ Yourselves**, pp. 104-5 as well as Malatesta's **Errico Malatesta: His Life
 and Ideas**, p. 99 and p. 103). This, social anarchists, stress does not in
 any way contradict their principles or the communist nature of their desired
 society as such exceptions are rooted in the "use rights" system both are
-based in (see [section I.6.2](secI.html#seci62) for a full discussion). In
+based in (see [section I.6.2](secI.md#seci62) for a full discussion). In
 addition, for social anarchists an association exists solely for the benefit
 of the individuals that compose it; it is the means by which people co-operate
 to meet their common needs. Therefore, **all** anarchists emphasise the
@@ -479,7 +479,7 @@ rather than just in the workplace.
 
 For more discussion on the ideas of the Individualist anarchists, and why
 social anarchists reject them, see section G -- ["Is individualist anarchism
-capitalistic?"](secGcon.html)
+capitalistic?"](secGcon.md)
 
 ## A.3.2 Are there different types of social anarchism?
 
@@ -536,7 +536,7 @@ property of the whole of society and be utilised only by the workers, in other
 words by the agricultural and industrial associations."_ [**Michael Bakunin:
 Selected Writings**, p. 206 and p. 174] Only by extending the principle of co-
 operation beyond individual workplaces can individual liberty be maximised and
-protected (see [section I.1.3](secI1.html#seci13) for why most anarchists are
+protected (see [section I.1.3](secI1.md#seci13) for why most anarchists are
 opposed to markets). In this they share some ground with Proudhon, as can be
 seen. The industrial confederations would _"guarantee the mutual use of the
 tools of production which are the property of each of these groups and which
@@ -584,7 +584,7 @@ that, over time, as productivity increases and the sense of community becomes
 stronger, money will disappear. Both agree that, in the end, society would be
 run along the lines suggested by the communist maxim: **_"From each according
 to their abilities, to each according to their needs."_** They just disagree
-on how quickly this will come about (see [section I.2.2](secI2.html#seci22)).
+on how quickly this will come about (see [section I.2.2](secI2.md#seci22)).
 
 For anarcho-communists, they think that _"communism -- at least partial -- has
 more chances of being established than collectivism"_ after a revolution.
@@ -674,10 +674,10 @@ part of an anarchist group or federation. Most non-syndicalists consider the
 fusion of anarchism and unionism a source of potential **confusion** that
 would result in the two movements failing to do their respective work
 correctly. For more details on anarcho-syndicalism see [section
-J.3.8](secJ3.html#secj38) (and [section J.3.9](secJ3.html#secj39) on why many
+J.3.8](secJ3.md#secj38) (and [section J.3.9](secJ3.md#secj39) on why many
 anarchists reject aspects of it). It should be stressed that non-syndicalist
 anarchists do **not** reject the need for collective struggle and organisation
-by workers (see [section H.2.8](secH2.html#sech28) on that particular Marxist
+by workers (see [section H.2.8](secH2.md#sech28) on that particular Marxist
 myth).
 
 In practice, few anarcho-syndicalists totally reject the need for an anarchist
@@ -853,7 +853,7 @@ This is one of the key areas in which they disagree with "Primitivist"
 Anarchist ideas, who tend to be far more critical of **all** aspects of modern
 life, with some going so far as calling for _"the end of civilisation"_
 including, apparently, all forms of technology and large scale organisation.
-We discuss these ideas in [section A.3.9](secA3.html#seca39).
+We discuss these ideas in [section A.3.9](secA3.md#seca39).
 
 We must note here that other anarchists, while generally agreeing with its
 analysis and suggestions, are deeply critical of Social Ecology's support for
@@ -862,11 +862,11 @@ a means of creating popular self-managing assemblies and creating a counter
 power to the state, few anarchists agree. Rather they see it as inherently
 reformist as well as being hopelessly naive about the possibilities of using
 elections to bring about social change (see [section
-J.5.14](secJ5.html#secj514) for a fuller discussion of this). Instead they
+J.5.14](secJ5.md#secj514) for a fuller discussion of this). Instead they
 propose direct action as the means to forward anarchist and ecological ideas,
 rejecting electioneering as a dead-end which ends up watering down radical
 ideas and corrupting the people involved (see section J.2 -- [What is Direct
-Action?](secJ2.html)).
+Action?](secJ2.md)).
 
 Lastly, there is "deep ecology," which, because of its bio-centric nature,
 many anarchists reject as anti-human. There are few anarchists who think that
@@ -943,7 +943,7 @@ while, at the same time, supporting and organising armed resistance against
 oppression (as in the case of the Makhnovist army during the Russian
 Revolution which resisted both Red and White armies and the militias the
 anarchists organised to resist the fascists during the Spanish Revolution --
-see sections [A.5.4](secA5.html#seca54) and [A.5.6](secA5.html#seca56),
+see sections [A.5.4](secA5.md#seca54) and [A.5.6](secA5.md#seca56),
 respectively).
 
 On the question of non-violence, as a rough rule of thumb, the movement
@@ -1011,7 +1011,7 @@ And, indeed, most social struggle and revolutions start relatively peaceful
 (via strikes, occupations and so on) and only degenerate into violence when
 those in power try to maintain their position (a classic example of this is in
 Italy, in 1920, when the occupation of factories by their workers was followed
-by fascist terror -- see [section A.5.5](secA5.html#seca55)).
+by fascist terror -- see [section A.5.5](secA5.md#seca55)).
 
 As noted above, all anarchists are anti-militarists and oppose both the
 military machine (and so the "defence" industry) as well as statist/capitalist
@@ -1290,7 +1290,7 @@ to become an effective exploiter or oppressor is not the path to equality (as
 one member of the Mujeres Libres put it, _"[w]e did not want to substitute a
 feminist hierarchy for a masculine one"_ [quoted by Martha A. Ackelsberg,
 **Free Women of Spain**, pp. 22-3] -- also see [section
-B.1.4](secB1.html#secb14) for a further discussion on patriarchy and
+B.1.4](secB1.md#secb14) for a further discussion on patriarchy and
 hierarchy).
 
 Hence anarchism's traditional hostility to liberal (or mainstream) feminism,
@@ -1577,9 +1577,9 @@ reproduced by conditioning, and understand how they can be mitigated or
 eliminated through new forms of culture, particularly new child-rearing and
 educational methods. We will explore this issue more fully in section B.1.5
 ([What is the mass-psychological basis for authoritarian
-civilisation?](secB1.html#secb15)), J.6 ([What methods of child rearing do
-anarchists advocate?](secJ6.html)), and J.5.13 ([What are Modern
-Schools?](secJ5.html#secj510))
+civilisation?](secB1.md#secb15)), J.6 ([What methods of child rearing do
+anarchists advocate?](secJ6.md)), and J.5.13 ([What are Modern
+Schools?](secJ5.md#secj510))
 
 Cultural anarchist ideas are shared by almost all schools of anarchist thought
 and consciousness-raising is considered an essential part of any anarchist
@@ -1790,7 +1790,7 @@ by state socialist ideas rather than anarchist ones).
 
 So there is a minority tradition within anarchism which draws anarchist
 conclusions from religion. However, as we noted in [section
-A.2.20](secA2.html#seca220), most anarchists disagree, arguing that anarchism
+A.2.20](secA2.md#seca220), most anarchists disagree, arguing that anarchism
 implies atheism and it is no coincidence that the biblical thought has,
 historically, been associated with hierarchy and defence of earthly rulers.
 Thus the vast majority of anarchists have been and are atheists, for _"to
@@ -1999,7 +1999,7 @@ just one part of a wider struggle to end oppression and exploitation and could
 not be isolated from these wider aims. As "anarcho"-capitalists do not seek
 the abolition of capitalism along with the state they are not anarchists and
 so "anarchism without adjectives" does not apply to the so-called "anarchist"
-capitalists (see [section F](secFcon.html) on why "anarcho"-capitalism is not
+capitalists (see [section F](secFcon.md) on why "anarcho"-capitalism is not
 anarchist).
 
 This is not to say that after a revolution "anarcho"-capitalist communities
@@ -2013,7 +2013,7 @@ anarchist and, consequently, is not _"anarchism without adjectives."_
 
 ## A.3.9 What is anarcho-primitivism?
 
-As discussed in [section A.3.3](secA3.html#seca33), most anarchists would
+As discussed in [section A.3.3](secA3.md#seca33), most anarchists would
 agree with Situationist Ken Knabb in arguing that _"in a liberated world
 computers and other modern technologies could be used to eliminate dangerous
 or boring tasks, freeing everyone to concentrate on more interesting
@@ -2271,7 +2271,7 @@ stateless society. It also, like primitivism, stresses that industry and large
 scale organisation is impossible without hierarchy and authority. That
 ideology is Marxism. Thus it seems ironic to "classical" anarchists to hear
 self-proclaimed anarchists repeating Engels arguments against Bakunin as
-arguments for "anarchy" (see [section H.4](secH4.html) for a discussion of
+arguments for "anarchy" (see [section H.4](secH4.md) for a discussion of
 Engels claims that industry excludes autonomy).
 
 So if, as seems likely, any transition will take centuries to achieve then the
@@ -2396,7 +2396,7 @@ re-enforce hierarchical power as it is those in power who generally select
 which technology is introduced within society (saying that, oppressed people
 have this excellent habit of turning technology against the powerful and
 technological change and social struggle are inter-related -- see [section
-D.10](secD10.html)). Thus even the use of appropriate technology involves more
+D.10](secD10.md)). Thus even the use of appropriate technology involves more
 than selecting from the range of available technology at hand, as these
 technologies have certain effects regardless of who uses them. Rather it is a
 question of critically evaluating all aspects of technology and modifying and
@@ -2500,7 +2500,7 @@ well as David Watson's **Beyond Bookchin** and **Against the Mega-Machine**.
 Ken Knabb's essay **The Poverty of Primitivism** is an excellent critique of
 primitivism as is Brian Oliver Sheppard's **Anarchism vs. Primitivism**.
 
-[‹ A.2 What does anarchism stand for?](/afaq/secA2.html "Go to previous page"
-) [up](/afaq/secAcon.html "Go to parent page" ) [A.4 Who are the major
-anarchist thinkers? ›](/afaq/secA4.html "Go to next page" )
+[‹ A.2 What does anarchism stand for?](secA2.md "Go to previous page" )
+[up](secAcon.md "Go to parent page" ) [A.4 Who are the major anarchist
+thinkers? ›](secA4.md "Go to next page" )
 

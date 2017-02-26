@@ -1,7 +1,7 @@
 # D.2 What influence does wealth have over politics?
 
 The short answer is: a great deal of influence, directly and indirectly. We
-have already touched on this in [section B.2.3](secB2.html#secb23). Here we
+have already touched on this in [section B.2.3](secB2.md#secb23). Here we
 will expand on those remarks.
 
 State policy in a capitalist democracy is usually well-insulated from popular
@@ -26,7 +26,7 @@ government."_ [David Schweickart, **Against Capitalism**, pp. 210-1]
 Therefore, logically, politics will be dominated by the rich and powerful --
 in fact if not in theory -- since, in general, only the rich can afford to run
 and only parties supported by the wealthy will gain enough funds and
-favourable press coverage to have a chance (see [section D.3](secD3.html) for
+favourable press coverage to have a chance (see [section D.3](secD3.md) for
 the wealthy's control of the mass media). Of course, there are many countries
 which do have labour-based parties, often allied with union movements, as is
 the case in Western Europe, for example. Yet even here, the funds available
@@ -54,7 +54,7 @@ designed to ensure that real power lies not in the hands of elected
 representatives but rather in the hands of officials, of the state bureaucracy
 which ensures that any pro-labour political agenda will be watered down and
 made harmless to the interests of the ruling class. We discuss this in
-[section J.2.2](secJ2.html#secj22) and will not do so here.
+[section J.2.2](secJ2.md#secj22) and will not do so here.
 
 To this it must be added that wealth has a massive **indirect** influence over
 politics (and so over society and the law). We have noted above that wealth
@@ -83,7 +83,7 @@ changes inside the political system can make **some** difference -- I don't
 want to say it's zero -- but the differences are going to be very slight."_
 This means that government policy is forced to make _"the rich folk happy"_
 otherwise _"everything's going to grind to a halt."_ [**Understanding Power**,
-pp. 62-3] As we discuss in the [next section](secD2.html#secd21), this is
+pp. 62-3] As we discuss in the [next section](secD2.md#secd21), this is
 precisely what **has** happened.
 
 David Noble provides a good summary of the effects of such indirect pressures
@@ -266,7 +266,7 @@ economic policies that are disapproved of by the capital markets, which have
 the power to create an intolerable economic pressure on the respective
 country's borrowing ability, currency value and investment flows."_ [Takis
 Fotopoulos, **Toward an Inclusive Democracy**, p. 42] We discuss globalisation
-in more detail in [section D.5](secD5.html).
+in more detail in [section D.5](secD5.md).
 
 Unsurprisingly, when left-wing governments have been elected into office after
 the 1980s, they have spent a lot of time during the election showing how
@@ -287,7 +287,7 @@ effective and these, at some stage, come into conflict with the reformist
 politicians who hold them back. Given the need for such extra-parliamentary
 movements to ensure reforms anarchists consider their time better spent
 building these than encouraging illusions about voting for radical politicians
-to act for us (see [section J.2](secJ2.html) for details).
+to act for us (see [section J.2](secJ2.md) for details).
 
 ## D.2.2 How extensive is business propaganda?
 
@@ -439,7 +439,7 @@ about the direction their country is taking. The task of anarchists is to help
 the struggle, in America and across the globe, by which they can take their
 country and lives back from the elite.
 
-[‹ D.1 Why does state intervention occur?](/afaq/secD1.html "Go to previous
-page" ) [up](/afaq/secDcon.html "Go to parent page" ) [D.3 How does wealth
-influence the mass media? ›](/afaq/secD3.html "Go to next page" )
+[‹ D.1 Why does state intervention occur?](secD1.md "Go to previous page" )
+[up](secDcon.md "Go to parent page" ) [D.3 How does wealth influence the
+mass media? ›](secD3.md "Go to next page" )
 

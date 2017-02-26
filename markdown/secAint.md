@@ -123,7 +123,7 @@ topics based on how we understand and apply these ideas. We are sure, however,
 that all anarchists will agree with the core ideas we present, even if they
 may disagree with our application of them here and there.
 
-[‹ Section A - What is Anarchism?](/afaq/secAcon.html "Go to previous page" )
-[up](/afaq/secAcon.html "Go to parent page" ) [A.1 What is anarchism?
-›](/afaq/secA1.html "Go to next page" )
+[‹ Section A - What is Anarchism?](secAcon.md "Go to previous page" )
+[up](secAcon.md "Go to parent page" ) [A.1 What is anarchism? ›](secA1.md
+"Go to next page" )
 

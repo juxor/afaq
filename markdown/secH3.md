@@ -36,11 +36,11 @@ that name (without adjectives) or libertarians to avoid confusion. This,
 sadly, resulted in two problems. Firstly, it gave Marxists even more potential
 to portray anarchism as being primarily against the state and not being as
 equally opposed to capitalism, hierarchy and inequality (as we argue in
-[section H.2.4](secH2.html#sech24), anarchists have opposed the state as just
+[section H.2.4](secH2.md#sech24), anarchists have opposed the state as just
 one aspect of class and hierarchical society). Secondly, extreme right-wingers
 tried to appropriate the names "libertarian" and "anarchist" to describe their
 vision of extreme capitalism as "anarchism," they claimed, was simply "anti-
-government" (see [section F](secFcon.html) for discussion on why
+government" (see [section F](secFcon.md) for discussion on why
 "anarcho"-capitalism is not anarchist). To counter these distortions of
 anarchist ideas, many anarchists have re-appropriated the use of the words
 "socialist" and "communist," although always in combination with the words
@@ -201,7 +201,7 @@ the ultimate myth of Marxism is what Alexander Berkman called _"The Bolshevik
 Myth,"_ namely the idea that the Russian Revolution was a success. However,
 given the scope of this revolution, we will not discuss it fully here except
 when it provides useful empirical evidence for our critique (see [section
-H.6](secH6.html) for more on the Russian Revolution). Our discussion here will
+H.6](secH6.md) for more on the Russian Revolution). Our discussion here will
 concentrate for the most part on Marxist theory, showing its inadequacies, its
 problems, where it appropriated anarchist ideas and how anarchism and Marxism
 differ. This is a big task and this section of the FAQ can only be a small
@@ -286,7 +286,7 @@ Every thing they do is subordinated to this end, meaning that no struggle is
 seen as an end in itself but rather as a means to gaining membership and
 influence for the party until such time as it gathers enough support to seize
 power. As this is a key point of contention between anarchists and Leninists,
-we discuss this in some detail in [section H.5](secH5.html) and its related
+we discuss this in some detail in [section H.5](secH5.md) and its related
 sections and so not do so here.
 
 Obviously, in the short term anarchists and Leninists cannot be said to want
@@ -295,23 +295,23 @@ the same thing. While we seek a revolutionary movement based on libertarian
 distinctly bourgeois principles of centralisation, delegation of power and
 representative over direct democracy. Both, of course, argue that only their
 system of organisation is effective and efficient (see [section
-H.5.8](secH5.html#sech58) on a discussion why anarchists argue that the
+H.5.8](secH5.md#sech58) on a discussion why anarchists argue that the
 Leninist model is not effective from a revolutionary perspective). The
 anarchist perspective is to see the revolutionary organisation as part of the
 working class, encouraging and helping those in struggle to clarify the ideas
 they draw from their own experiences and its role is to provide a lead rather
 than a new set of leaders to be followed (see [section
-J.3.6](secJ3.html#secj36) for more on this). The Leninist perspective is to
+J.3.6](secJ3.md#secj36) for more on this). The Leninist perspective is to
 see the revolutionary party as the leadership of the working class,
 introducing socialist consciousness into a class which cannot generate itself
-(see [section H.5.1](secH5.html#sech51)).
+(see [section H.5.1](secH5.md#sech51)).
 
 Given the Leninist preference for centralisation and a leadership role by
 hierarchical organisation, it will come as no surprise that their ideas on the
 nature of post-revolutionary society are distinctly different from anarchists.
 While there is a tendency for Leninists to deny that anarchists have a clear
 idea of what will immediately be created by a revolution (see [section
-H.1.4](secH1.html#sech14)), we do have concrete ideas on the kind of society a
+H.1.4](secH1.md#sech14)), we do have concrete ideas on the kind of society a
 revolution will immediately create. This vision is in almost every way
 different from that proposed by most Marxists.
 
@@ -327,7 +327,7 @@ Getzler, **Marxist Revolutionaries and the Dilemma of Power**, p. 105] This
 fits in with Marx's and Engels's repeated equation of universal suffrage with
 the political power or political supremacy of the working class. In other
 words, _"political power"_ simply means the ability to nominate a government
-(see [section H.3.10](secH3.html#sech310)).
+(see [section H.3.10](secH3.md#sech310)).
 
 While Marxists like to portray this new government as _"the dictatorship of
 the proletariat,"_ anarchists argue that, in fact, it will be the dictatorship
@@ -336,9 +336,9 @@ ruling class (as Marxists claim) then, anarchists argue, how can they delegate
 their power to a government and remain so? Either the working class directly
 manages its own affairs (and so society) or the government does. Any state is
 simply rule by a few and so is incompatible with socialism (we discuss this
-issue in [section H.3.7](secH3.html#sech37)). The obvious implication of this
+issue in [section H.3.7](secH3.md#sech37)). The obvious implication of this
 is that Marxism seeks party rule, not working class direct management of
-society (as we discuss in [section H.3.8](secH3.html#sech38), the Leninist
+society (as we discuss in [section H.3.8](secH3.md#sech38), the Leninist
 tradition is extremely clear on this matter).
 
 Then there is the question of the building blocks of socialism. Yet again,
@@ -347,10 +347,10 @@ always argued that the basis of socialism is working class organisations,
 created in the struggle against capitalism and the state. This applies to both
 the social and economic structure of a post-revolutionary society. For most
 forms of Marxism, a radically different picture has been the dominant one. As
-we discuss in [section H.3.10](secH3.html#sech310), Marxists only reached a
+we discuss in [section H.3.10](secH3.md#sech310), Marxists only reached a
 similar vision for the political structure of socialism in 1917 when Lenin
 supported the soviets as the framework of his workers' state. However, as we
-prove in [section H.3.11](secH3.html#sech311), he did so for instrumental
+prove in [section H.3.11](secH3.md#sech311), he did so for instrumental
 purposes only, namely as the best means of assuring Bolshevik power. If the
 soviets clashed with the party, it was the latter which took precedence.
 Unsurprisingly, the Bolshevik mainstream moved from _"All Power to the
@@ -363,7 +363,7 @@ argued that the workers _"ought to be the real managers of industries."_
 [Peter Kropotkin, **Fields, Factories and Workshops Tomorrow**, p. 157] To
 achieve this, we have pointed to various organisations over time, such as
 factory committees and labour unions. As we discuss in more detail in [section
-H.3.12](secH3.html#sech312), Lenin, in contrast, saw socialism as being
+H.3.12](secH3.md#sech312), Lenin, in contrast, saw socialism as being
 constructed on the basis of structures and techniques (including management
 ones) developed under capitalism. Rather than see socialism as being built
 around new, working class organisations, Lenin saw it being constructed on the
@@ -386,7 +386,7 @@ Bolsheviks were in power, the workers' own organs (the factory committees)
 were integrated into a system of state control, losing whatever power they
 once held at the point of production. Lenin then modified this vision by
 replacing capitalists with (state appointed) _"one-man management"_ over the
-workers (see [section H.3.14](secH3.html#sech314)). In other words, a form of
+workers (see [section H.3.14](secH3.md#sech314)). In other words, a form of
 **state** capitalism in which workers would still be wage slaves under bosses
 appointed by the state. Unsurprisingly, the _"control"_ workers exercised over
 their bosses (i.e. those with **real** power in production) proved to be as
@@ -394,7 +394,7 @@ elusive in production as it was in the state. In this, Lenin undoubtedly
 followed the lead of the **Communist Manifesto** which stressed state
 ownership of the means of production without a word about workers' self-
 management of production. As we discuss in [section
-H.3.13](secH3.html#sech313), state "socialism" cannot help being _"state
+H.3.13](secH3.md#sech313), state "socialism" cannot help being _"state
 capitalism"_ by its very nature.
 
 Needless to say, as far as means go, few anarchists and syndicalists are
@@ -410,7 +410,7 @@ violence is, unfortunately, sometimes required.
 
 The way an anarchist revolution would defend itself also shows a key
 difference between anarchism and Marxism. As we discussed in [section
-H.2.1](secH2.html#sech21), anarchists (regardless of Marxist claims) have
+H.2.1](secH2.md#sech21), anarchists (regardless of Marxist claims) have
 always argued that a revolution needs to defend itself. This would be
 organised in a federal, bottom-up way as the social structure of a free
 society. It would be based on voluntary working class militias. This model of
@@ -448,7 +448,7 @@ political power _"is merely the organised power of one class for oppressing
 another."_ [**Selected Works**, p. 53]
 
 It was this, the means to the end, which was the focus of much debate (see
-[section H.1.1](secH1.html#sech11) for details). However, it cannot be assumed
+[section H.1.1](secH1.md#sech11) for details). However, it cannot be assumed
 that the ends desired by Marxists and anarchists are identical. The argument
 that the _"public power"_ could stop being _"political"_ (i.e. a state) is a
 tautology, and a particularly unconvincing one at that. After all, if
@@ -556,7 +556,7 @@ can be part of a truly classless society. While economic class as defined in
 terms of ownership of the means of production may not exist, social classes
 (defined in terms of inequality of power, authority and control) will continue
 simply because the state is designed to create and protect minority rule (see
-[section H.3.7](secH3.html#sech37)). As Bolshevik and Stalinist Russia showed,
+[section H.3.7](secH3.md#sech37)). As Bolshevik and Stalinist Russia showed,
 nationalising the means of production does not end class society. As Malatesta
 argued:
 
@@ -596,7 +596,7 @@ Works of Lenin**, p. 348]
 
 To which, anarchists point to Engels and his comments on the tyrannical and
 authoritarian character of the modern factory (as we discuss in [section
-H.4.4](secH4.html#sech44)). Clearly, Lenin's idea of turning the world into
+H.4.4](secH4.md#sech44)). Clearly, Lenin's idea of turning the world into
 one big factory takes on an extremely frightening nature given Engels' lovely
 vision of the lack of freedom in the workplace.
 
@@ -878,13 +878,13 @@ conditions, and the general results of the proletarian movement."_ This gives
 a privileged place to the party (particularly the _"bourgeois ideologists"_
 who join it), a privileged place which their followers had no problem abusing
 in favour of party power and hierarchical leadership from above. As we discuss
-in [section H.5](secH5.html), Lenin was just expressing orthodox Social-
+in [section H.5](secH5.md), Lenin was just expressing orthodox Social-
 Democratic (i.e. Marxist) policy when he argued that socialist consciousness
 was created by bourgeois intellectuals and introduced into the working class
 from outside. Against this, we have to note that the Manifesto states that the
 proletarian movement was _"the self-conscious, independent movement of the
 immense majority, in the interests of the immense majority"_ (although, as
-discussed in [section H.1.1](secH1.html#sech11), when they wrote this the
+discussed in [section H.1.1](secH1.md#sech11), when they wrote this the
 proletariat was a **minority** in all countries bar Britain). [**Selected
 Works**, p. 44, p. 46 and p. 45]
 
@@ -908,7 +908,7 @@ majority, power?
 This seems highly unlikely because such institutions are designed to place
 policy-making in the hands of representatives and were created explicitly to
 **exclude** mass participation in order to ensure bourgeois control (see
-[section B.2.5](secB2.html#secb25)). They do not (indeed, cannot) constitute a
+[section B.2.5](secB2.md#secb25)). They do not (indeed, cannot) constitute a
 _"proletariat organised as a ruling class."_ If public policy, as
 distinguished from administrative activities, is not made by the people
 themselves, in federations of self-managed assemblies, then a movement of the
@@ -941,7 +941,7 @@ disciplined from above down. [**The End of Anarchism?**, p. 14, p. 12 and p.
 14] The end result was the encouragement of a viewpoint that reforms (indeed,
 the revolution) would be the work of leaders acting on behalf of the masses
 whose role would be that of voters and followers, not active participants in
-the struggle (see [section J.2](secJ2.html) for a discussion on direct action
+the struggle (see [section J.2](secJ2.md) for a discussion on direct action
 and why anarchists reject electioneering).
 
 By the 1890s, the top-down and essentially reformist nature of these tactics
@@ -964,7 +964,7 @@ The net effect of this would simply be keeping the class struggle within the
 bounds decided upon by the party leaders, so placing the emphasis on the
 activities and decisions of those at the top rather than the struggle and
 decisions of the mass of working class people themselves. As we noted in
-[section H.1.1](secH1.html#sech11), when the party was racked by the
+[section H.1.1](secH1.md#sech11), when the party was racked by the
 _"revisionism"_ controversy after Engels death, it was fundamentally a
 conflict between those who wanted the party's rhetoric to reflect its
 reformist tactics and those who sought the illusion of radical words to cover
@@ -977,7 +977,7 @@ proceeding. Either they become explicitly anti-state (and so approach
 anarchism) or become explicitly in favour of party and state power and so, by
 necessity, _"revolution from above."_ The council communists and other
 libertarian Marxists followed the first path, the Bolsheviks and their
-followers the second. As we discuss in the [next section](secH3.html#sech33),
+followers the second. As we discuss in the [next section](secH3.md#sech33),
 Lenin explicitly dismissed the idea that Marxism proceeded _"only from
 below,"_ stating that this was an anarchist principle. Nor was he shy in
 equating party power with working class power. Indeed, this vision of
@@ -1001,7 +1001,7 @@ themselves Social Democrats; the first is that of the Communists."_ [**The
 Mensheviks in the Russian Revolution**, Abraham Ascher (ed.), p. 119]
 
 All this is to be expected, given the weakness of the Marxist theory of the
-state. As we discuss in [section H.3.7](secH3.html#sech37), Marxists have
+state. As we discuss in [section H.3.7](secH3.md#sech37), Marxists have
 always had an a-historic perspective on the state, considering it as purely an
 instrument of class rule rather than what it is, an instrument of **minority**
 class rule. For anarchists, the _"State is the minority government, from the
@@ -1038,7 +1038,7 @@ would seem to present insuperable difficulties."_ [**Op. Cit.**, p. 93]
 
 ## H.3.3 Is Leninism _"socialism from below"_?
 
-As discussed in the [last section](secH3.html#sech32), Marx and Engels left
+As discussed in the [last section](secH3.md#sech32), Marx and Engels left
 their followers with an ambiguous legacy. On the one hand, there **are**
 elements of _"socialism from below"_ in their politics (most explicitly in
 Marx's comments on the libertarian influenced Paris Commune). On the other,
@@ -1067,7 +1067,7 @@ therefore, wherever possible . . . upholds autonomism and 'democracy,' carried
 from the top downward."_ [**Collected Works**, vol. 7, pp. 396-7] Thus it is
 the non-Bolshevik (_"opportunist"_) wing of Marxism which bases itself on the
 _"organisational principle"_ of _"from the bottom upward,"_ not the Bolshevik
-tradition (as we note in [section H.5.5](secH5.html#sech55), Lenin also
+tradition (as we note in [section H.5.5](secH5.md#sech55), Lenin also
 rejected the _"primitive democracy"_ of mass assemblies as the basis of the
 labour and revolutionary movements). Moreover, this vision of a party run from
 the top down was enshrined in the Bolshevik ideal of _"democratic
@@ -1194,14 +1194,14 @@ the masses (and nothing to do with any sort of _"socialism from below"_).
 Indeed, _"wavering"_ and _"unstable"_ elements is just another way of saying
 _"pressure from below,"_ the attempts by those subject to the "revolutionary"
 government to influence its policies. As we noted in [section
-H.1.2](secH1.html#sech12), it was in this period (1919 and 1920) that the
+H.1.2](secH1.md#sech12), it was in this period (1919 and 1920) that the
 Bolsheviks openly argued that the _"dictatorship of the proletariat"_ was, in
 fact, the _"dictatorship of the party"_ (see [section
-H.3.8](secH3.html#sech38) on how the Bolsheviks modified the Marxist theory of
+H.3.8](secH3.md#sech38) on how the Bolsheviks modified the Marxist theory of
 the state in line with this). Rather than the result of the problems facing
 Russia at the time, Lenin's comments simply reflect the unfolding of certain
 aspects of his ideology when his party held power (as we make clear in
-[section H.6.2](secH6.html#sech62) the ideology of the ruling party and the
+[section H.6.2](secH6.md#sech62) the ideology of the ruling party and the
 ideas held by the masses are also factors in history).
 
 To show that Lenin's comments were not caused by circumstantial factors, we
@@ -1209,7 +1209,7 @@ can turn to his infamous work **Left-Wing Communism**. In this 1920 tract,
 written for the Second Congress of the Communist International, Lenin
 lambasted those Marxists who argued for direct working class power against the
 idea of party rule (i.e. the various council communists around Europe). We
-have already noted in [section H.1.2](secH1.html#sech12) that Lenin had argued
+have already noted in [section H.1.2](secH1.md#sech12) that Lenin had argued
 in that work that it was _"ridiculously absurd, and stupid"_ to _"a contrast,
 **in general**, between the dictatorship of the masses and the dictatorship of
 the leaders."_ [**The Lenin Anthology**, p. 568] Here we provide his
@@ -1283,7 +1283,7 @@ that in 1917 _"[a]fter eight months of inertia and of democratic chaos, came
 the dictatorship of the Bolsheviks."_ [**Op. Cit.**, vol. 2, p. 242]). We must
 note Trotsky argued for the _"objective necessity"_ of the _"revolutionary
 dictatorship of a proletarian party"_ well into the 1930s (see [section
-H.1.2](secH1.html#sech12)) .
+H.1.2](secH1.md#sech12)) .
 
 Clearly, the claim that Leninism (and its various off-shoots like Trotskyism)
 is _"socialism from below"_ is hard to take seriously. As proven above, the
@@ -1326,7 +1326,7 @@ _"dictatorial"_ powers in industry (most members of such parties do not know
 how the Bolsheviks gerrymandered and disbanded soviets to maintain power,
 raised the dictatorship of the party to an ideological truism and
 wholeheartedly advocated _"one-man management"_ rather than workers' self-
-management of production). As we discuss in [section H.5](secH5.html), this
+management of production). As we discuss in [section H.5](secH5.md), this
 latter position flows easily from the underlying assumptions of vanguardism
 which Leninism is based on.
 
@@ -1375,7 +1375,7 @@ are usually at pains to point people to some document which they have selected
 as being more _"representative"_ of their tradition. Leninists usually point
 to Lenin's **State and Revolution**, for example, for a vision of what Lenin
 _"really"_ wanted. To this anarchists reply by, as we discussed in [section
-H.1.7](secH1.html#sech17), pointing out that much of what passes for 'Marxism'
+H.1.7](secH1.md#sech17), pointing out that much of what passes for 'Marxism'
 in **State and Revolution** is anarchist and, equally important, it was not
 applied in practice. This explains an apparent contradiction. Leninists point
 to the Russian Revolution as evidence for the democratic nature of their
@@ -1425,7 +1425,7 @@ floor meetings can rank-and-file delegates be made really responsible to those
 who elect them."_ [**Bureaucracy and Revolution in Eastern Europe**, pp.
 238-9] Significantly, Harman does not mention that both Lenin and Trotsky
 rejected this experience once in power. As we discuss in [section
-H.3.8](secH3.html#sech38), Leninism came not only to practice but to argue
+H.3.8](secH3.md#sech38), Leninism came not only to practice but to argue
 theoretically for state power explicitly to eliminate such control from below.
 How can the numerous statements of leading Leninists (including Lenin and
 Trotsky) on the necessity of party dictatorship be reconciled with it?
@@ -1459,19 +1459,19 @@ the Kronstadt revolt for the same goals. Similarly, when Harman argues that if
 by _"political party"_ it is _"meant a party of the usual sort, in which a few
 leaders give orders and the masses merely obey . . . then certainly such
 organisations added nothing to the Hungarian revolution."_ However, as we
-discuss in [section H.5](secH5.html), such a party was **precisely** what
+discuss in [section H.5](secH5.md), such a party was **precisely** what
 Leninism argued for and applied in practice. Simply put, the Bolsheviks were
 never a party _"that stood for the councils taking power."_ [**Op. Cit.**, p.
 186 and p. 187] As Lenin repeatedly stressed, its aim was for the Bolshevik
 party to take power **through** the councils (see [section
-H.3.11](secH3.html#sech311)). Once in power, the councils were quickly
+H.3.11](secH3.md#sech311)). Once in power, the councils were quickly
 marginalised and became little more than a fig-leaf for party rule.
 
 This confusion between what was promised and what was done is a common feature
 of Leninism. Felix Morrow, for example, wrote what is usually considered the
 definitive Trotskyist work on the Spanish Revolution (in spite of it being, as
 we discuss in the appendix [_"Marxists and Spanish
-Anarchism,"_](append32.html) deeply flawed). Morrow stated that the
+Anarchism,"_](append32.md) deeply flawed). Morrow stated that the
 _"essential points of a revolutionary program [are] all power to the working
 class, and democratic organs of the workers, peasants and combatants, as the
 expression of the workers' power."_ [**Revolution and Counter-Revolution in
@@ -1484,7 +1484,7 @@ Lenin's and Trotsky's repeated call for the party to seize and exercise power?
 Or their opinion that an organisation taking in the whole proletariat cannot
 directly exercise the proletarian dictatorship? How can the working class
 _"have all power"_ if power is held not by mass organisations but rather by a
-vanguard party? Particularly, as we note in [section H.1.2](secH1.html#sech12)
+vanguard party? Particularly, as we note in [section H.1.2](secH1.md#sech12)
 when party dictatorship is placed at the heart of Leninist ideology.
 
 Given all this, who is quoting who _"selectively"_? The Marxists who ignore
@@ -1509,7 +1509,7 @@ and actions of, say, the Bolsheviks into the circumstances which generated
 them. By this they mean that Bolshevik authoritarianism can be explained
 purely in terms of the massive problems facing them (i.e. the rigours of the
 Civil War, the economic collapse and chaos in Russia and so on). As we discuss
-this question in [section H.6](secH6.html), we will simply summarise the
+this question in [section H.6](secH6.md), we will simply summarise the
 anarchist reply by noting that this argument has three major problems with it.
 Firstly, there is the problem that Bolshevik authoritarianism started
 **before** the start of the Civil War and, moreover, intensified **after** its
@@ -1532,7 +1532,7 @@ therefore, that "social context" explains the politics and actions of the
 Bolsheviks seems incredulous.
 
 Lastly, it seems ironic that Marxists accuse anarchists of quoting
-_"selectively."_ After all, as proven in [section H.2](secH2.html), this is
+_"selectively."_ After all, as proven in [section H.2](secH2.md), this is
 **exactly** what Marxists do to anarchism!
 
 In summary, rather than quote _"selectively"_ from the works and practice of
@@ -1548,7 +1548,7 @@ As is obvious in any account of the history of socialism, Marxists (of various
 schools) have appropriated key anarchist ideas and (often) present them as if
 Marxists thought of them first.
 
-For example, as we discuss in [section H.3.10](secH3.html#sech310), it was
+For example, as we discuss in [section H.3.10](secH3.md#sech310), it was
 anarchists who first raised the idea of smashing the bourgeois state and
 replacing it with the fighting organisations of the working class (such as
 unions, workers' councils, etc.). It was only in 1917, decades after
@@ -1574,7 +1574,7 @@ the _"militant minority"_ and _"vanguard party"_ approaches are based on an
 appreciation of the uneven development of ideas within the working class,
 vanguardism transforms this into a justification for party rule **over** the
 working class by a so-called _"advanced"_ minority (see [section
-H.5](secH5.html) for a full discussion). Other concepts, such as _"workers'
+H.5](secH5.md) for a full discussion). Other concepts, such as _"workers'
 control,"_ direct action, and so on have suffered a similar fate.
 
 A classic example of this appropriation of anarchist ideas into Marxism is
@@ -1639,7 +1639,7 @@ was inseparable from the revolution.
 
 The only problem with all this is that the anarchists did not actually argue
 along the lines Engels and Luxemburg claimed. Most obviously, as we indicated
-in [section H.2.8](secH2.html#sech28), Bakunin saw the general strike as a
+in [section H.2.8](secH2.md#sech28), Bakunin saw the general strike as a
 **dynamic** process which would **not** be set for a specific date and did
 **not** need all workers to be organised before hand. As such, Bakunin's ideas
 are totally at odds with Engels assertions on what anarchist ideas on the
@@ -1743,7 +1743,7 @@ term). The similarities in rhetoric allowed the factory committee movement to
 put its weight behind the Bolsheviks. Once in power, Lenin's position was
 implemented while that of the factory committees was ignored. Ultimately,
 Lenin's position was a key factor in creating state capitalism rather than
-socialism in Russia (see [section H.3.14](secH3.html#sech314) for more
+socialism in Russia (see [section H.3.14](secH3.md#sech314) for more
 details).
 
 This, of course, does not stop modern day Leninists appropriating the term
@@ -1763,7 +1763,7 @@ power, the latter was imposed.
 
 Thus the fact that Leninists have appropriated libertarian (and working class)
 ideas and demands does not, in fact, mean that we aim for the same thing (as
-we discussed in [section H.3.1](secH3.html#sech31), this is far from the
+we discussed in [section H.3.1](secH3.md#sech31), this is far from the
 case). The use of anarchist/popular rhetoric and slogans means little and we
 need to look at the content of the ideas proposed. Given the legacy of the
 appropriation of libertarian terminology to popularise authoritarian parties
@@ -2061,7 +2061,7 @@ disputes may prove to be the fulfilment of its tenets in the cold light of
 historical development."_ [**Toward an Ecological Society**, p. 196]
 
 Hence the overwhelming need to critically evaluate Marxist ideas and history
-(such as the Russian Revolution - see [section H.6](secH6.html)). Unless we
+(such as the Russian Revolution - see [section H.6](secH6.md)). Unless we
 honestly discuss and evaluate all aspects of revolutionary ideas, we will
 never be able to build a positive and constructive revolutionary movement. By
 seeking the roots of Marxism's problems, we can enrich anarchism by avoiding
@@ -2081,7 +2081,7 @@ instrument of minority class rule. As such, it precludes the mass
 participation required for socialism and would create a new form of class
 society.
 
-As we discussed in [section B.2](secB2.html), the state is defined by certain
+As we discussed in [section B.2](secB2.md), the state is defined by certain
 characteristics (most importantly, the centralisation of power into the hands
 of a few). Thus, for anarchists, _"the word 'State' . . . should be reserved
 for those societies with the hierarchical system and centralisation."_ [Peter
@@ -2141,7 +2141,7 @@ for _"oppressing and exploiting the masses, of defending the oppressors and
 the exploiters."_ [Malatesta, **Anarchy**, p. 23] Which, for obvious reasons,
 is why anarchists argue for the destruction of the state by a free federation
 of self-managed communes and workers' councils (see [section
-H.1.4](secH1.html#sech14) for further discussion).
+H.1.4](secH1.md#sech14) for further discussion).
 
 This explains why anarchists reject the Marxist definition and theory of the
 state. For Marxists, _"the state is nothing but a machine for the oppression
@@ -2193,7 +2193,7 @@ forms assumed by society in the course of history. Why then make no
 distinction between what is permanent and what is accidental?"_ [**The State:
 Its Historic Role**, pp. 9-10]
 
-As we discussed in [section H.2.1](secH2.html#sech21), anarchist opposition to
+As we discussed in [section H.2.1](secH2.md#sech21), anarchist opposition to
 the idea of a "dictatorship of the proletariat" should not be confused with
 idea that anarchists do not think that a social revolution needs to be
 defended. Rather, our opposition to the concept rests on the confusion which
@@ -2296,7 +2296,7 @@ means stopping any attempts to restrict that freedom by its adversaries. To
 state the obvious, it is not a _"restriction"_ of the freedom of would-be
 bosses to resist their attempts to impose their rule! As such, Engels failed
 to consider revolution from a working class perspective - see [section
-H.4.7](secH4.html#sech47) for another example of this flaw. Moreover his
+H.4.7](secH4.md#sech47) for another example of this flaw. Moreover his
 comments have been used to justify restrictions on working class freedom,
 power and political rights by Marxist parties once they have seized power.
 _"Whatever power the State gains,"_ correctly argued Bookchin, _"it always
@@ -2346,7 +2346,7 @@ Abolition and Extinction of the State,"_ pp. 50-1, **Cienfuegos Press
 Anarchist Review**, no. 4, p. 50]
 
 This is no academic point, as we explain in the [next
-section](secH3.html#sech38) this confusion has been exploited to justify party
+section](secH3.md#sech38) this confusion has been exploited to justify party
 power **over** the proletariat. Thus, as Berneri argued, Marxists _"do not
 propose the armed conquest of the commune by the whole proletariat, but they
 propose the conquest of the State by the party which imagines it represents
@@ -2384,7 +2384,7 @@ the population and, therefore, not an instrument of working class power.
 Rather, as an institution designed to ensure minority rule, it would ensure
 its position within society and become either the ruling class itself or
 create a new class which instrument it would be. As we discuss in [section
-H.3.9](secH3.html#sech39) the state cannot be considered as a neutral
+H.3.9](secH3.md#sech39) the state cannot be considered as a neutral
 instrument of economic class rule, it has specific interests in itself which
 can and does mean it can play an oppressive and exploitative role in society
 independently of an economically dominant class.
@@ -2483,7 +2483,7 @@ modern, form of self-management will have to defend itself against those
 seeking to recreate minority power, this does not mean that it becomes a
 state. After all, the tribes with _"primitive democracy"_ had to defend
 themselves against their adversaries and so that, in itself, does not means
-that these communities had a state (see [section H.2.1](secH2.html#sech21)).
+that these communities had a state (see [section H.2.1](secH2.md#sech21)).
 Thus defence of a revolution, as anarchists have constantly stressed, does not
 equate to a state as it fails to address the key issue, namely who has
 **power** in the system - the masses or their leaders.
@@ -2523,7 +2523,7 @@ problems of Marx's transition period, in particular the problem of leadership,
 while Marx refuses to discuss the political form of what must be (at least in
 part) class rule by the proletariat."_ [**From Marx to Lenin**, p. 64]
 
-As we discussed in [section H.3.1](secH3.html#sech31), Marx's _"Address to the
+As we discussed in [section H.3.1](secH3.md#sech31), Marx's _"Address to the
 Communist League,"_ with its stress on _"the most determined centralisation of
 power in the hands of the state authority"_ and that _"the path of
 revolutionary activity . . . can only proceed with full force from the
@@ -2538,7 +2538,7 @@ of course, the desire of Marx and Engels but this result flows from their
 theory of the state and its fundamental flaws. These flaws can be best seen
 from their repeated assertion that the capitalist democratic state could be
 captured via universal suffrage and used to introduce socialism (see [section
-H.3.10](secH3.html#sech310) but it equally applies to notions of creating new
+H.3.10](secH3.md#sech310) but it equally applies to notions of creating new
 states based on the centralisation of power favoured by ruling elites since
 class society began.
 
@@ -2618,7 +2618,7 @@ maintained. As such, the _"dictatorship of the proletariat"_ signifies the
 delegation of power by the proletariat into the hands of the party and that
 implies a _"public power distinct from the mass of the people"_ and so
 minority rule. This aspect of Marxism, as we argue in the [next
-section](secH3.html#sech38), was developed under the Bolsheviks and became
+section](secH3.md#sech38), was developed under the Bolsheviks and became
 _"the dictatorship of the party"_ (i.e. the dictatorship **over** the
 proletariat):
 
@@ -2669,7 +2669,7 @@ Since the death of the founding fathers of Marxism, their followers have
 diverged into two camps. The majority have embraced the metaphysical and
 authoritarian concept of the state and proclaimed their support for a
 _"workers' state."_ This is represented by social-democracy and it radical
-offshoot, Leninism. As we discuss in the [next section](secH3.html#sech38),
+offshoot, Leninism. As we discuss in the [next section](secH3.md#sech38),
 this school has used the Marxist conception of the state to allow for rule
 over the working class by the _"revolutionary"_ party. The minority has become
 increasingly and explicitly anti-state, recognising that the Marxist legacy is
@@ -2680,7 +2680,7 @@ which are close to anarchism.
 
 ## H.3.8 What is wrong with the Leninist theory of the state?
 
-As discussed in the [last section](secH3.html#sech37), there is a
+As discussed in the [last section](secH3.md#sech37), there is a
 contradiction at the heart of the Marxist theory of the state. On the one
 hand, it acknowledges that the state, historically, has always been an
 instrument of minority rule and is structured to ensure this. On the other, it
@@ -2695,7 +2695,7 @@ This confusion between two fundamentally different concepts proved to be
 disastrous when the Russian Revolution broke out. Confusing party power with
 working class power, the Bolsheviks aimed to create a "workers' state" in
 which their party would be in power (see [section
-H.3.3](secH3.html#secH.3.3)). As the state was an instrument of class rule, it
+H.3.3](secH3.md#secH.3.3)). As the state was an instrument of class rule, it
 did not matter if the new "workers' state" was centralised, hierarchical and
 top-down like the old state as the structure of the state was considered
 irrelevant in evaluating its role in society. Thus, while Lenin seemed to
@@ -2711,7 +2711,7 @@ word. This quickly lead to a dictatorship **over**, not of, the proletariat
 anarchists, who had long argued that a state is an instrument of minority rule
 and cannot change its nature. To use the state to affect socialist change is
 impossible, simply because it is not designed for such a task. As we argued in
-[section B.2](secB2.html), the state is based on centralisation of power
+[section B.2](secB2.md), the state is based on centralisation of power
 explicitly to ensure minority rule and for this reason has to be abolished
 during a social revolution.
 
@@ -2744,7 +2744,7 @@ class was not able to govern itself and so required a grouping (the party)
 above it to ensure the success of the revolution and overcome any _"wavering"_
 within the masses themselves.
 
-While we have discussed this position in [section H.1.2](secH1.html#sech12)
+While we have discussed this position in [section H.1.2](secH1.md#sech12)
 and so will be repeating ourselves to some degree, it is worth summarising
 again the arguments put forward to justify this revision. This is because they
 confirm what anarchists have always argued, namely that the state is an
@@ -2752,7 +2752,7 @@ instrument of minority rule and **not** one by which working class people can
 manage their own affairs directly. As the quotations from leading Leninists
 make clear, it is **precisely** this feature of the state which recommends it
 for party (i.e. minority) power. The contradiction at the heart of the Marxist
-theory of the state we pointed out in the [section H.3.7](secH3.html#sech37)
+theory of the state we pointed out in the [section H.3.7](secH3.md#sech37)
 has been resolved in Leninism. It supports the state precisely because it is
 _"a public power distinct from the mass of the people,"_ rather than an
 instrument of working class self-management of society.
@@ -2760,7 +2760,7 @@ instrument of working class self-management of society.
 Needless to say, his latter day followers point to Lenin's apparently
 democratic, even libertarian, sounding 1917 work, **The State and Revolution**
 when asked about the Leninist theory of the state. As our discussion in
-[section H.1.7](secH1.html#sech17) proved, the ideas expounded in his pamphlet
+[section H.1.7](secH1.md#sech17) proved, the ideas expounded in his pamphlet
 were rarely, if at all, applied in practice by the Bolsheviks. Moreover, it
 was written before the seizure of power. In order to see the validity of his
 argument we must compare it to his and his fellow Bolshevik leaders opinions
@@ -2861,7 +2861,7 @@ dictatorship of the proletariat is and can be realised only through the
 dictatorship of the party."_ It was stressed that the _"dictatorship of the
 proletariat [sic!] demands as its very core a single proletarian party."_
 [**The Challenge of the Left Opposition (1926-7)**, p. 395 and p. 441] As we
-noted in [section H.1.2](secH1.html#sech12), ten years later, he was still
+noted in [section H.1.2](secH1.md#sech12), ten years later, he was still
 explicitly arguing for the _"revolutionary dictatorship of a proletarian
 party"_.
 
@@ -2942,16 +2942,16 @@ tasks for _"our Party to capture political power"_ and to _"administer"_ a
 country, then we can safely say that the state needed is a state _"in the
 proper sense,"_ based on the centralisation and delegation of power into the
 hands of a few (see our discussion of Leninism as **_"socialism from above"_**
-in [section H.3.3](secH3.html#sech33) for details).
+in [section H.3.3](secH3.md#sech33) for details).
 
 This recreation of the state _"in the proper sense"_ did not come about by
 chance or simply because of the _"will to power"_ of the leaders of
 Bolshevism. Rather, there are strong institutional pressures at work within
 any state structure (even a so-called _"semi-state"_) to turn it back into a
 _"proper"_ state. We discuss this in more detail in [section
-H.3.9](secH3.html#sech39). However, we should not ignore that many of the
+H.3.9](secH3.md#sech39). However, we should not ignore that many of the
 roots of Bolshevik tyranny can be found in the contradictions of the Marxist
-theory of the state. As noted in the [last section](secH3.html#sech37), for
+theory of the state. As noted in the [last section](secH3.md#sech37), for
 Engels, the seizure of power by the party meant that the working class was in
 power. The Leninist tradition builds on this confusion between party and class
 power. It is clear that the _"dictatorship of the proletariat"_ is, in fact,
@@ -3030,7 +3030,7 @@ them renounce 'adaptation' to the bourgeoisie."_ [**Op. Cit.**, p. 196] Thus
 rather than the workers' councils exercising power, their role is simply that
 of allowing the Communist Party to seize political power.
 
-As we indicated in [section H.3.4](secH3.html#sech34), the underlying
+As we indicated in [section H.3.4](secH3.md#sech34), the underlying
 assumption behind this resolution was made clear by Zinoviev during his
 introductory speech to the congress meeting which finally agreed the
 resolution: the dictatorship of the party **was** the dictatorship of the
@@ -3129,7 +3129,7 @@ fundamental flaw in Leninism is that it confuses the two and so lays the
 ground for the very result anarchists predicted and Stalin denied.
 
 While anarchists are well aware of the need to defend a revolution (see
-[section H.2.1](secH2.html#sech21)), we do not make the mistake of equating
+[section H.2.1](secH2.md#sech21)), we do not make the mistake of equating
 this with a state. Ultimately, the state cannot be used as an instrument of
 liberation - it is not designed for it. Which, incidentally, is why we have
 not discussed the impact of the Russian Civil War on the development of
@@ -3162,7 +3162,7 @@ state can be seen, understood and combated.
 
 ## H.3.9 Is the state simply an agent of economic power?
 
-As we discussed in [section H.3.7](secH3.html#sech37), the Marxist theory of
+As we discussed in [section H.3.7](secH3.md#sech37), the Marxist theory of
 the state confuses an empirical analysis of the state with a metaphysical one.
 While Engels is aware that the state developed to ensure minority class rule
 and, as befits its task, evolved specific characteristics to execute that
@@ -3204,7 +3204,7 @@ it solely represents."_ [**The Basic Bakunin**, p. 140] However, anarchists do
 not reduce our analysis and understanding of the state to this simplistic
 Marxist level. While being well aware that the state is the means of ensuring
 the domination of an economic elite, as we discussed in [section
-B.2.5](secB2.html#secb25), anarchists recognise that the state machine also
+B.2.5](secB2.md#secb25), anarchists recognise that the state machine also
 has interests of its own. The state, for anarchists, is the delegation of
 power into the hands of a few. This creates, by its very nature, a privileged
 position for those at the top of the hierarchy:
@@ -3292,7 +3292,7 @@ to accept or to recognise."_ [**The Paris Commune of 1871: The View from the
 Left**, Eugene Schulkind (ed.), p. 187] The Commune was crushed before this
 process could fully unfold, but the omens were there (although it would have
 undoubtedly been hindered by the local scale of the institutions involved). As
-we discuss in [section H.6](secH6.html), a similar process of a
+we discuss in [section H.6](secH6.md), a similar process of a
 "revolutionary" government escaping from popular control occurred right from
 the start of the Russian Revolution. The fact the Bolshevik regime lasted
 longer and was more centralised (and covered a larger area) ensured that this
@@ -3632,7 +3632,7 @@ in other people's factories. Of socialism there remained in Russia no more
 than the word."_ [**The Russian Enigma**, p. 280 and p. 286] Capitalism became
 state capitalism under Lenin and Trotsky and so the state, as Bakunin
 predicted and feared, became the new ruling class under Marxism (see [section
-H.3.14](secH3.html#sech314) for more discussion of this).
+H.3.14](secH3.md#sech314) for more discussion of this).
 
 The confusions of the Marxist theory of the state ensured that Trotsky, for
 example, failed to recognise the obvious, namely that the Stalinist state
@@ -3697,7 +3697,7 @@ awkward conclusion that if the bureaucracy were a ruling class under Stalin
 then Russia was also state capitalist under Lenin and Trotsky for the economic
 relations were identical in both (this obvious conclusion haunts those, like
 the British SWP, who maintain that Stalinism was State Capitalist but not
-Bolshevism - see [section H.3.13](secH3.html#sech313)). Suffice to say, if the
+Bolshevism - see [section H.3.13](secH3.md#sech313)). Suffice to say, if the
 state itself can be the "economically dominant class" then the state cannot be
 a mere instrument of an economic class.
 
@@ -4098,7 +4098,7 @@ its necessary consequence the political rule of the proletariat."_ Universal
 suffrage would _"make political power pass from the middle class to the
 working class"_ and so _"the democratic movement"_ is _"striving for the
 political domination of the proletariat."_ [**Op. Cit.**, vol. 7, p. 299, p.
-440 and p. 368] As noted in [section H.3.9](secH3.html#sech39), Marx concluded
+440 and p. 368] As noted in [section H.3.9](secH3.md#sech39), Marx concluded
 that Bonaparte's coup ended the political power of the bourgeoisie and, for
 Engels, _"the whole bourgeoisie ruled, but for three years only"_ during the
 Second French Republic of 1848-51. Significantly, during the previous regime
@@ -4441,7 +4441,7 @@ Marx also excluded countries on the European mainland (with the possible
 exception of Holland) from his suggestions of peaceful reform. In those
 countries, presumably, the first stage of the revolution would be, as stressed
 in the **Communist Manifesto**, creating a fully democratic republic (_"to win
-the battle for democracy"_ \- see [section H.1.1](secH1.html#sech11)). As
+the battle for democracy"_ \- see [section H.1.1](secH1.md#sech11)). As
 Engels put it, _"the first and direct result of the revolution with regard to
 the **form** can and **must** be nothing but the **bourgeois** republic. But
 this will be here only a brief transitional period . . . The bourgeois
@@ -4592,7 +4592,7 @@ create in their struggle for freedom may help determine the outcome of the
 revolution is missing. Rather, the idea that any structure can be appropriated
 and (after suitable modification) used to rebuild society is clear. This
 cannot but flow from the flawed Marxist theory of the state we discussed in
-[section H.3.7](secH3.html#sech37). If, as Marx and Engels argued, the state
+[section H.3.7](secH3.md#sech37). If, as Marx and Engels argued, the state
 is simply an instrument of class rule then it becomes unproblematic to utilise
 the existing republican state or create a new form of state complete with
 representative structures. The Marxist perspective, moreover, cannot help take
@@ -4611,7 +4611,7 @@ the Soviets!"_**). It can, therefore, be argued that his book **State and
 Revolution** was a means to use Marx and Engels to support his new found idea
 of the soviets as being the basis of creating a Bolshevik government rather
 than a principled defence of workers' councils as the framework of a socialist
-revolution. We discuss this issue in the [next section](secH3.html#sech311).
+revolution. We discuss this issue in the [next section](secH3.md#sech311).
 
 ## H.3.11 Does Marxism aim to give power to workers organisations?
 
@@ -4623,12 +4623,12 @@ anarchists, these Marxists see a social revolution as being based on working
 class self-management and, indeed, criticised (and broke with) Bolshevism
 precisely on this question. Some Marxists, like the **Socialist Party of Great
 Britain**, stay true to Marx and Engels and argue for using the ballot box
-(see [last section](secH3.html#sech310)) although this does not exclude
+(see [last section](secH3.md#sech310)) although this does not exclude
 utilising such organs once political power is seized by those means. However,
 if we look at the mainstream Marxist tradition (namely Leninism), the answer
 has to be an empathic "no."
 
-As we noted in [section H.1.4](secH1.html#sech14), anarchists have long argued
+As we noted in [section H.1.4](secH1.md#sech14), anarchists have long argued
 that the organisations created by the working class in struggle would be the
 initial framework of a free society. These organs, created to resist
 capitalism and the state, would be the means to overthrow both as well as
@@ -4641,7 +4641,7 @@ and so we stress the importance (and autonomy) of working class organisations
 in the revolutionary movement and the revolution itself. Anarchists work
 within such bodies at the base, in the mass assemblies, and do not seek to
 replace their power with that of their own organisation (see [section
-J.3.6](secJ3.html#secj36)).
+J.3.6](secJ3.md#secj36)).
 
 Leninists, in contrast, have a different perspective on such bodies. Rather
 than placing them at the heart of the revolution, Leninism views them purely
@@ -4676,7 +4676,7 @@ revolution."_ [**The Soviets**, p. 85]
 Thirteen years later, Lenin repeated this same vision of party power as the
 goal of revolution in his infamous diatribe against "Left-wing" Communism
 (i.e. those Marxists close to anarchism) as we noted in [section
-H.3.3](secH3.html#sech33). The Bolsheviks had, by this stage, explicitly
+H.3.3](secH3.md#sech33). The Bolsheviks had, by this stage, explicitly
 argued for party dictatorship and considered it a truism that the whole
 proletariat could not rule nor could the proletarian dictatorship be exercised
 by a mass working class organisation. Therefore, rather than seeing revolution
@@ -4734,7 +4734,7 @@ which places Rees' assertions into the proper context and shows that the
 slogan _"All Power to the Soviets"_ is used by Leninists in a radically
 different way than most people would understand by it! It also explains why
 soviets were disbanded if the opposition won majorities in them in early 1918
-(see [section H.6.1](secH6.html#sech61)). The Bolsheviks only supported
+(see [section H.6.1](secH6.md#sech61)). The Bolsheviks only supported
 _"Soviet power"_ when the soviets were Bolshevik. As was recognised by leading
 left-Menshevik Julius Martov, who argued that the Bolsheviks loved Soviets
 only when they were _"in the hands of the Bolshevik party."_ [quoted by Israel
@@ -4856,7 +4856,7 @@ dictatorship. Significantly, Trotsky fails to indicate what would happen when
 these two powers clash. Certainly Trotsky's role in the Russian revolution
 tells us that the power of the party was more important to him than democratic
 control by workers through mass bodies and as we have shown in [section
-H.3.8](secH3.html#sech38), Trotsky explicitly argued that a state was required
+H.3.8](secH3.md#sech38), Trotsky explicitly argued that a state was required
 to overcome the _"wavering"_ in the working class which could be expressed by
 democratic decision making.
 
@@ -5009,7 +5009,7 @@ socialism, while developing planning fully, will replace the autocratic and
 hierarchical planning of big business with democratic, society-wide planning.
 
 This position, for anarchists, has certain problems associated with it. One
-key drawback, as we discuss in the [next section](secH3.html#sech313), is it
+key drawback, as we discuss in the [next section](secH3.md#sech313), is it
 focuses attention away from the internal organisation within the workplace
 onto ownership and links between economic units. It ends up confusing
 capitalism with the market relations between firms rather than identifying it
@@ -5200,7 +5200,7 @@ Moreover, Lenin quickly started to advocate and implement the most
 sophisticated capitalist methods of organising labour, including _"one-man
 management"_ of production, piece-rates and Taylorism (_"scientific
 management"_). This was not done accidentally or because no alternative
-existed (as we discuss in [section H.6.2](secH6.html#sech62), workers were
+existed (as we discuss in [section H.6.2](secH6.md#sech62), workers were
 organising federations of factory committees which could have been, as
 anarchists argued at the time, the basis of a genuine socialist economy).
 
@@ -5321,7 +5321,7 @@ within an even more centralised planning structure is an important question.
 It is extremely doubtful that there could be a positive answer to it. This
 does not mean, we must stress, that anarchists argue exclusively for "small-
 scale" production as many Marxists, like Lenin, assert (as we prove in
-[section I.3.8](secI3.html#seci38), anarchists have always argued for
+[section I.3.8](secI3.md#seci38), anarchists have always argued for
 **appropriate** levels of production and scale). It is simply to raise the
 possibility of what works under capitalism may be undesirable from a
 perspective which values people and planet instead of power and profit.
@@ -5353,7 +5353,7 @@ workers' self-management and so the fundamental capitalist _"relation of
 production"_ (wage labour) is abolished. For most Marxists, state ownership of
 production is considered sufficient to ensure the end of capitalism (with, if
 we are lucky, some form of _"workers' control"_ over those state officials who
-do management production - see [section H.3.14](secH3.html#sech314)).
+do management production - see [section H.3.14](secH3.md#sech314)).
 
 In contrast to the mainstream Marxist vision of socialism being based around
 the institutions inherited from capitalism, anarchists have raised the idea
@@ -5392,7 +5392,7 @@ provides the necessary understanding of where socialism will come from, from
 **below**, in the spontaneous self-activity of the oppressed fighting for
 their freedom. This means that the basic structures of socialism will be the
 organs created by working class people in their struggles against exploitation
-and oppression (see [section I.2.3](secI2.html#seci23) for more details).
+and oppression (see [section I.2.3](secI2.md#seci23) for more details).
 Gustav Landauer's basic insight is correct (if his means were not totally so)
 when he wrote that _"Socialism will not grow out of capitalism but away from
 it"_ [**Op. Cit.**, p. 140] In other words, tendencies **opposed** to
@@ -5400,7 +5400,7 @@ capitalism rather than ones which are part and parcel of it.
 
 Anarchism's recognition of the importance of these tendencies towards mutual
 aid within capitalism is a key to understanding what anarchists do in the here
-and now, as will be discussed in [section J](secJcon.html). In addition, it
+and now, as will be discussed in [section J](secJcon.md). In addition, it
 also laid the foundation of understanding the nature of an anarchist society
 and what creates the framework of such a society in the here and now.
 Anarchists do not abstractly place a better society (anarchy) against the
@@ -5656,7 +5656,7 @@ Their motives are not too difficult to understand . . . The issue of who runs
 the plants - who makes decisions - is, and probably always will be, the
 crucial question for managers in any industrial relations system."_ [Jay B.
 Sorenson, **The Life and Death of Soviet Trade Unionism**, pp. 67-8] As we
-discuss in the [next section](secH3.html#sech314), the managers and
+discuss in the [next section](secH3.md#sech314), the managers and
 capitalists were not the only ones who disliked _"workers' control,"_ the
 Bolsheviks did so as well, and they ensured that it was marginalised within a
 centralised system of state control based on nationalisation.
@@ -5775,7 +5775,7 @@ that is Syndicalism."_ [**Op. Cit.**, p. 111]
 
 However, many Marxists (in particular Leninists) state they are in favour of
 both state ownership **and** _"workers' control."_ As we discuss in more depth
-in [next section](secH3.html#sech314), while they mean the same thing as
+in [next section](secH3.md#sech314), while they mean the same thing as
 anarchists do by the first term, they have a radically different meaning for
 the second (it is for this reason modern-day anarchists generally use the term
 _"workers' self-management"_). To anarchist ears, the combination of
@@ -5886,7 +5886,7 @@ have produced Stalinism."_ [J.H., _"The Fourth International"_, pp. 37-43,
 
 ## H.3.14 Don't Marxists believe in workers' control?
 
-As we discussed in the [last section](secH3.html#sech313), anarchists consider
+As we discussed in the [last section](secH3.md#sech313), anarchists consider
 the usual association of state ownership with socialism to be false. We argue
 that it is just another form of the wages system, of capitalism, albeit with
 the state replacing the capitalist and so state ownership, for anarchists, is
@@ -5983,7 +5983,7 @@ reason that from the 1960s English speaking anarchists and other libertarian
 socialists have been explicit and have used the term _"workers' self-
 management"_ rather than _"workers' control"_ to describe their aims.
 Mainstream Marxists, however have continued to use the latter slogan,
-undoubtedly, as we note in [section H.3.5](secH3.html#sech35), to gain members
+undoubtedly, as we note in [section H.3.5](secH3.md#sech35), to gain members
 from the confusion in meanings.
 
 Secondly, there is the example of the Russian Revolution itself. As historian
@@ -6129,7 +6129,7 @@ can be seen, was not even mentioned, nor considered as an essential aspect of
 control _"from below."_ As Trotsky also stated that _"[u]nder socialism
 economic life will be directed in a centralised manner,"_ our discussion of
 the state capitalist nature of mainstream Marxism we presented in the [last
-section](secH3.html#sech313) is confirmed. [**The First Five Years of the
+section](secH3.md#sech313) is confirmed. [**The First Five Years of the
 Communist International**, vol. 2, p. 237 and p. 229]
 
 The contrast between what Trotsky did when he was in power and what he argued
@@ -6297,7 +6297,7 @@ be made for the people's sake; it should also be made by the people."_ [**No
 Gods, No Masters**, vol. 1, p. 141]
 
 [‹ H.2 What parts of anarchism do Marxists particularly
-misrepresent?](/afaq/secH2.html "Go to previous page" )
-[up](/afaq/secHcon.html "Go to parent page" ) [H.4 Didn't Engels refute
-anarchism in "On Authority"? ›](/afaq/secH4.html "Go to next page" )
+misrepresent?](secH2.md "Go to previous page" ) [up](secHcon.md "Go to
+parent page" ) [H.4 Didn't Engels refute anarchism in "On Authority"?
+›](secH4.md "Go to next page" )
 

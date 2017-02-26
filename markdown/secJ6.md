@@ -733,7 +733,7 @@ There is less danger in rewarding children than there is in punishing them,
 but rewards can still undermine a child's morale. This is because, firstly,
 rewards are superfluous and in fact often **decrease** motivation and
 creativity, as several psychological studies have shown (see [section
-I.4.11](secI4.html#seci411)). Creative people work for the pleasure of
+I.4.11](secI4.md#seci411)). Creative people work for the pleasure of
 creating; monetary interests are not central (or necessary) to the creative
 process. Secondly, rewards send the wrong message, namely, that doing the deed
 for which the reward is offered is not worth doing for its own sake and the
@@ -986,7 +986,7 @@ We noted previously that in pre-patriarchal society, which rests on a
 communistic/communal social order, children have complete sexual freedom and
 that the idea of childhood asceticism develops as such societies turn toward
 patriarchy in the economic and social structure (see [section
-B.1.5](secB1.html#secb15)). This sea-change in social attitudes toward
+B.1.5](secB1.md#secb15)). This sea-change in social attitudes toward
 sexuality allows the authority-oriented character structure to develop instead
 of the formerly non-authoritarian ones. Ethnological research has shown that
 in pre-patriarchal societies the general nature of work life in the community
@@ -1058,8 +1058,7 @@ amused smile lighting up his kindly face. 'Fancy, I didn't think of that,' he
 replied. 'Perhaps you are right, after all.' He beamed affectionately upon me,
 with a humorous twinkle in his eye."_ [**Living My Life**, vol. 1, p. 253]
 
-[‹ J.5 What alternative social organisations do anarchists
-create?](/afaq/secJ5.html "Go to previous page" ) [up](/afaq/secJcon.html "Go
-to parent page" ) [J.7 What do anarchists mean by "social revolution"?
-›](/afaq/secJ7.html "Go to next page" )
+[‹ J.5 What alternative social organisations do anarchists create?](secJ5.md
+"Go to previous page" ) [up](secJcon.md "Go to parent page" ) [J.7 What do
+anarchists mean by "social revolution"? ›](secJ7.md "Go to next page" )
 

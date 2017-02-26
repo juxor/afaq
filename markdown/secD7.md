@@ -1,8 +1,8 @@
 # D.7 Are anarchists opposed to National Liberation struggles?
 
 Obviously, given the anarchist analysis of imperialism discussed in [section
-D.5](secD5.html), anarchists are opposed to imperialism and wars it inevitably
-causes. Likewise, as noted in the [last section](secD6.html), we are against
+D.5](secD5.md), anarchists are opposed to imperialism and wars it inevitably
+causes. Likewise, as noted in the [last section](secD6.md), we are against
 any form of nationalism. Anarchists oppose nationalism just as much as they
 oppose imperialism -- neither offer a way to a free society. While we oppose
 imperialism and foreign domination and support decentralisation, it does not
@@ -51,7 +51,7 @@ the rules and guidelines of the global market, forcing the many to follow the
 laws the few make. Thus capitalism soon makes a decentralised economy, and so
 a free society, impossible. As such, anarchists stress decentralisation of
 industry and its integration with agriculture (see [section
-I.3.8](secI3.html#seci38)) within the context of socialisation of property and
+I.3.8](secI3.md#seci38)) within the context of socialisation of property and
 workers' self-management of production. Only this can ensure that production
 meets the needs of all rather than the profits of a few.
 
@@ -307,7 +307,7 @@ labouring masses are and want to be Polish, it ends where, renouncing all
 particular links with Poland, the masses wish to establish other national
 links."_ [quoted by Jean Caroline Cahm, **Op. Cit.**, p. 43]
 
-[‹ D.6 Are anarchists against Nationalism?](/afaq/secD6.html "Go to previous
-page" ) [up](/afaq/secDcon.html "Go to parent page" ) [D.8 What causes
-militarism and what are its effects? ›](/afaq/secD8.html "Go to next page" )
+[‹ D.6 Are anarchists against Nationalism?](secD6.md "Go to previous page" )
+[up](secDcon.md "Go to parent page" ) [D.8 What causes militarism and what
+are its effects? ›](secD8.md "Go to next page" )
 

@@ -423,8 +423,7 @@ will obviously find favour with ruling elites, and this -- as opposed to any
 basis for the myth in scientific fact -- will ensure its continual re-
 appearance in the media and education.
 
-[‹ E.5 Can ethical consumerism stop the ecological crisis?](/afaq/secE5.html
-"Go to previous page" ) [up](/afaq/secEcon.html "Go to parent page" ) [Section
-F - Is "anarcho"-capitalism a type of anarchism? ›](/afaq/secFcon.html "Go to
-next page" )
+[‹ E.5 Can ethical consumerism stop the ecological crisis?](secE5.md "Go to
+previous page" ) [up](secEcon.md "Go to parent page" ) [Section F - Is
+"anarcho"-capitalism a type of anarchism? ›](secFcon.md "Go to next page" )
 

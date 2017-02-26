@@ -54,7 +54,7 @@ domination, so the Anarchist _"studies society and tries to discover its
 **tendencies**, past and present, its growing needs, intellectual and
 economic, and in his [or her] ideal he merely points out in which direction
 evolution goes."_ [Peter Kropotkin, **Anarchism**, p. 47] Indeed, as we
-discussed in [section I.2.3](secI2.html#seci23), the future structures of a
+discussed in [section I.2.3](secI2.md#seci23), the future structures of a
 free society are created in the struggles against oppression today.
 
 The kinds of activity outlined in this section are a general overview of
@@ -69,7 +69,7 @@ usually anarchists emphasise collective activity. This is because most of our
 problems are of a social nature, meaning that their solutions can only be
 worked on collectively. Individual solutions to social problems are doomed to
 failure, at best slowing down what they are opposed to (most obviously,
-ethical consumerism as discussed in [section E.5](secE5.html)). In addition,
+ethical consumerism as discussed in [section E.5](secE5.md)). In addition,
 collective action gets us used to working together, promoting the experience
 of self-management and building organisations that will allow us to actively
 manage our own affairs. Also, and we would like to emphasise this, it can be
@@ -141,7 +141,7 @@ discuss the forms of self-activity and self-organisation which anarchists
 think will stimulate and develop the imagination of those oppressed by
 hierarchy, build anarchy in action and help create a free society.
 
-[‹ Section J - What do anarchists do?](/afaq/secJcon.html "Go to previous
-page" ) [up](/afaq/secJcon.html "Go to parent page" ) [J.1 Are anarchists
-involved in social struggles? ›](/afaq/secJ1.html "Go to next page" )
+[‹ Section J - What do anarchists do?](secJcon.md "Go to previous page" )
+[up](secJcon.md "Go to parent page" ) [J.1 Are anarchists involved in social
+struggles? ›](secJ1.md "Go to next page" )
 

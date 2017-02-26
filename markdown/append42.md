@@ -43,7 +43,7 @@ sympathy with) and the government repression directed against them. Those
 present at this meeting on the **_Petropavlovsk_** then approved a resolution
 which raised 15 demands which included free elections to the soviets, freedom
 of speech, press, assembly and organisation to workers, peasants, anarchists
-and left-socialists (see [section 3](append42.html#app3) for full details). Of
+and left-socialists (see [section 3](append42.md#app3) for full details). Of
 the 15 demands, only two were related to what Marxists like to term the
 "petty-bourgeoisie" (the peasantry and artisans) and these demanded _"full
 freedom of action"_ for all peasants and artisans who did not hire labour.
@@ -254,28 +254,28 @@ indicate why it is so important in evaluating Bolshevism in both practice and
 as a revolutionary theory.
 
 In the sections which follow, we indicate why the revolt is so important
-([section 1](append42.html#app1)) and place it in historical context ([section
-2](append42.html#app2)). We then present and discuss the Kronstadt demands,
+([section 1](append42.md#app1)) and place it in historical context ([section
+2](append42.md#app2)). We then present and discuss the Kronstadt demands,
 indicating their sources in working class rebellion and radicalism (see
-sections [3](append42.html#app3) and [4](append42.html#app4)). We indicate the
+sections [3](append42.md#app3) and [4](append42.md#app4)). We indicate the
 lies the Bolsheviks said about the rebellion at the time ( [section
-5](append42.html#app5)), whether it was, in fact, a White plot ([ section
-6](append42.html#app6)) and indicate the revolts real relationship to the
-Whites ([section 7](append42.html#app7)). We also disprove Trotskyist
+5](append42.md#app5)), whether it was, in fact, a White plot ([ section
+6](append42.md#app6)) and indicate the revolts real relationship to the
+Whites ([section 7](append42.md#app7)). We also disprove Trotskyist
 assertions that the sailors in 1921 were different from those in 1917
-([section 8](append42.html#app8)) or that their political perspectives had
-fundamentally changed ([section 9](append42.html#app9)). We indicate that
+([section 8](append42.md#app8)) or that their political perspectives had
+fundamentally changed ([section 9](append42.md#app9)). We indicate that
 state coercion and repression was the significant in why the Kronstadt revolt
-did not spread to the Petrograd workers ([section 10](append42.html#app10)).
+did not spread to the Petrograd workers ([section 10](append42.md#app10)).
 Then we discuss the possibility of White intervention during and after the
-revolt ([section 11](append42.html#app11)). We follow this with a discussion
+revolt ([section 11](append42.md#app11)). We follow this with a discussion
 of arguments that the country was too exhausted to allow soviet democracy
-([section 12](append42.html#app12)) or that soviet democracy would have
-resulted in the defeat of the revolution ([section 13](append42.html#app13)).
+([section 12](append42.md#app12)) or that soviet democracy would have
+resulted in the defeat of the revolution ([section 13](append42.md#app13)).
 In the process, we will also show the depths to which supporters of Leninism
 will sink to defend their heroes (in particular, see [section
-14](append42.html#app14)). Lastly, we discuss what the Kronstadt revolt tells
-us about Leninism ([section 15](append42.html#app15))
+14](append42.md#app14)). Lastly, we discuss what the Kronstadt revolt tells
+us about Leninism ([section 15](append42.md#app15))
 
 As we will hope to prove, Kronstadt was a popular uprising from below by the
 same sailors, soldiers and workers that made the 1917 October revolution. The
@@ -286,8 +286,8 @@ theory which cannot create a socialist society but only a state capitalist
 regime based on party dictatorship. This is what Kronstadt shows above all
 else: given a choice between workers' power and party power, Bolshevism will
 destroy the former to ensure the latter (see [ section
-15](append42.html#app15) in particular). In this, Kronstadt is no isolated
-event (as we indicate in [section 2](append42.html#app2)).
+15](append42.md#app15) in particular). In this, Kronstadt is no isolated
+event (as we indicate in [section 2](append42.md#app2)).
 
 There are many essential resources on the revolt available. The best in depth
 studies of the revolt are Paul Avrich's **Kronstadt 1921** and Israel
@@ -358,7 +358,7 @@ Revolution. I would have nothing further to do with them."_ [Emma Goldman,
 
 The events at Kronstadt cannot be looked at in isolation, but rather as part
 of a general struggle of the Russian working people against "their"
-government. Indeed, as we indicate in the [ next section](append42.html#app2),
+government. Indeed, as we indicate in the [ next section](append42.md#app2),
 this repression **after** the end of the Civil War followed the same pattern
 as that started **before** it. Just as the Bolsheviks had repressed soviet
 democracy in Kronstadt in 1921 in favour of party dictatorship, they had done
@@ -399,7 +399,7 @@ working class people **during** the civil war could be explained by the needs
 of the war, the same cannot be said for Kronstadt. Similarly, the Leninist
 justifications for their power and actions at Kronstadt have direct
 implications for current activity and future revolutions. As we argue in [
-section 15](append42.html#app15), the logic of these rationales simply mean
+section 15](append42.md#app15), the logic of these rationales simply mean
 that modern day Leninists will, if in the same position, destroy soviet
 democracy to defend "soviet power" (i.e. the power of their party).
 
@@ -538,8 +538,8 @@ One last point, while the Kronstadt revolt is a key event in the Russian
 Revolution, one that signified its end, we must not forget that it is just one
 in a long series of Bolshevik attacks on the working class. As we indicated in
 the appendix on ["What happened during the Russian
-Revolution?"](append41.html) (and provide an overview in the [next
-section](append42.html#app2)), the Bolshevik state had proven itself to be
+Revolution?"](append41.md) (and provide an overview in the [next
+section](append42.md#app2)), the Bolshevik state had proven itself to be
 anti-revolutionary continually since October 1917. However, Kronstadt is
 important simply because it so clearly pitted soviet democracy against "soviet
 power" and occurred **after** the end of the civil war. As it brings the
@@ -555,12 +555,12 @@ result of four years of revolution and civil war, the product of the
 undermining of soviet democracy by a combination of Bolshevism and war. The
 actions of the Bolsheviks in 1921 and their ideological justifications for
 their actions (justifications, of course, when they got beyond lying about the
-revolt -- see [section 5](append42.html#app5)) merely reproduced in
+revolt -- see [section 5](append42.md#app5)) merely reproduced in
 concentrated form what had been occurring ever since they had seized power.
 
 Therefore it is necessary to present a short summary of Bolshevik activities
 before the events of Kronstadt (see ["What happened during the Russian
-Revolution?"](append41.html) for fuller details). In addition, we have to
+Revolution?"](append41.md) for fuller details). In addition, we have to
 sketch the developing social stratification occurring under Lenin and the
 events immediate before the revolt which sparked it off (namely the strike
 wave in Petrograd). Once this has been done, we will soon see that Kronstadt
@@ -585,7 +585,7 @@ suppression of workers' protests by the military; the crushing of peasant
 dissatisfaction with an iron hand. . ."_ [**The Russian Tragedy**, p. 27]
 
 We discussed each of these features in more detail in the appendix on ["What
-happened during the Russian Revolution?"](append41.html). Here we will simply
+happened during the Russian Revolution?"](append41.md). Here we will simply
 indicate that the Bolsheviks had systematically undermined the effective power
 of the soviets. Both locally and nationally, post-October power was
 centralised into the hands of the soviet executives rather than the general
@@ -608,11 +608,11 @@ condemned the action by a vote of 81 to 57 against (with 15 abstentions).
 [Getzler, **Kronstadt 1917-1921**, p. 186] This repression was political in
 nature, aiming to neutralise a potential political threat and was not the only
 example of political repression in this period (see the appendix on ["What
-happened during the Russian Revolution?"](append41.html)).
+happened during the Russian Revolution?"](append41.md)).
 
 This is just a summary of what was happening in Russia in early 1918 (see
-[section 3](append43.html#app3) of the appendix on ["What caused the
-degeneration of the Russian Revolution?"](append43.html) for more details).
+[section 3](append43.md#app3) of the appendix on ["What caused the
+degeneration of the Russian Revolution?"](append43.md) for more details).
 This Bolshevik assault on the soviets occurred during the spring of 1918 (i.e.
 in March, April and May). That is **before** the Czech rising and the onset of
 full scale civil war which occurred in late May. Clearly, any attempt to blame
@@ -626,8 +626,8 @@ Bolsheviks as it would make many dissident workers support the Bolsheviks
 during the war. This, however, did not stop mass resistance and strikes
 breaking out periodically during the war when workers and peasants could no
 longer put up with Bolshevik policies or the effects of the war (see [section
-5](append44.html#app5) of the appendix on ["What caused the degeneration of
-the Russian Revolution?"](append44.html)).
+5](append44.md#app5) of the appendix on ["What caused the degeneration of
+the Russian Revolution?"](append44.md)).
 
 Which, incidentally, answers Brian Bambery's rhetorical question of _"why
 would the most militant working class in the world, within which there was a
@@ -708,7 +708,7 @@ Manifesto**? [Selected Writings, p. 53]).
 
 In the same work, Trotsky justified the elimination of soviet power and
 democracy by party power and dictatorship (see sections
-[10](append42.html#app10) and [15](append42.html#app15)). Thus we have the
+[10](append42.md#app10) and [15](append42.md#app15)). Thus we have the
 application of state serfdom by the Bolsheviks (indeed, Trotsky was allowed to
 apply his ideas on the militarisation of labour to the railways).
 
@@ -718,7 +718,7 @@ attempts at workers' self-management organised by many factory committees was
 opposed in favour of a centralised state capitalist system, with Lenin arguing
 for appointed managers with _"dictatorial"_ powers (see Maurice Brinton's
 **The Bolsheviks and Workers' Control** for full details as well as ["What
-happened during the Russian Revolution?"](append41.html)).
+happened during the Russian Revolution?"](append41.md)).
 
 Strikes were repressed by force. In early May, 1918, a major wave of labour
 protest started which climaxed in early July. In Petrograd it included
@@ -928,7 +928,7 @@ officials, party committee men and Chekists."_ [Gelzter, **Kronstadt
 
 The delegation returned the next day and reported its findings to a general
 meeting of the ship's crews and adopted the resolutions which were to be the
-basis of the revolt (see [next section](append42.html#app3)). The Kronstadt
+basis of the revolt (see [next section](append42.md#app3)). The Kronstadt
 revolt had started.
 
 ## 3 What was the Kronstadt Programme?
@@ -1139,7 +1139,7 @@ power to the soviets"_ but built upon it by adding the rider _"but not to
 parties."_ The sailors had learned the lesson of the October revolution,
 namely that if a party held power the soviets did not. The politics of the
 revolt were not dissimilar to those of libertarian socialists and, as we argue
-in [section 9](append42.html#app9), identical to the dominant ideas of
+in [section 9](append42.md#app9), identical to the dominant ideas of
 Kronstadt in 1917.
 
 The question now arises, whose interests did these demands and politics
@@ -1147,7 +1147,7 @@ represent. According to Trotskyists, it is the interests of the peasantry
 which motivated them. For anarchists, it is an expression of the interests of
 all working people (proletarian, peasant and artisan) against those who would
 exploit their labour and govern them (be it private capitalists or state
-bureaucrats). We discuss this issue in the [next section](append42.html#app4).
+bureaucrats). We discuss this issue in the [next section](append42.md#app4).
 
 ## 4 Did the Kronstadt rebellion reflect _"the exasperation of the
 peasantry"_?
@@ -1166,7 +1166,7 @@ _"represented the tendencies of the land-owning peasant, the small speculator,
 the kulak."_ [Lenin and Trotsky, **Kronstadt**, p. 80 and p. 81]
 
 How true is this? Even a superficial analysis of the events of the revolt and
-of the **_Petropavlovsk_** resolution (see [last section](append42.html#app3))
+of the **_Petropavlovsk_** resolution (see [last section](append42.md#app3))
 can allow the reader to dismiss Trotsky's assertions.
 
 Firstly, according to the definition of _"kulak"_ proved by the Trotskyists'
@@ -1465,7 +1465,7 @@ and the Paris Commune springs to mind, never mind a certain Russian and the
 soviets). The fact that the Kronstadt sailors not only _"venture[d] upon an
 insurrection under an abstract political slogan of 'free soviets'"_ but
 actually **created** one (the conference of delegates) goes unmentioned.
-Moreover, as we prove in [section 8](append42.html#app8), the majority of
+Moreover, as we prove in [section 8](append42.md#app8), the majority of
 sailors in 1921 had been there in 1917. This was due to the fact that the
 sailors could not be quickly or easily replaced due to the technology required
 to operate Kronstadt's defences and battleships.
@@ -1480,7 +1480,7 @@ Getzler, **Kronstadt 1917-1921**, p. 243] Given the quality of the previous
 arguments presented, it is only a matter of time before this one appears!
 
 Indeed, Trotskyists also note this non-peasant nature of the Kronstadt demands
-(as indicated in the [last section](append42.html#app3)). Thus was have John
+(as indicated in the [last section](append42.md#app3)). Thus was have John
 Rees pathetically noting that _"no other peasant insurrection reproduced the
 Kronstadters' demands."_ [Rees, **Op. Cit.**, p. 63] As we have indicated
 above, **proletarian** strikes, resolutions and activists all produced demands
@@ -1754,17 +1754,17 @@ became more and more well-known, Trotsky and his followers turned to other
 arguments to slander the uprising. The most famous is the assertion that the
 _"Kronstadt sailors were quite a different group from the revolutionary heroes
 of 1917."_ [Wright, **Op. Cit.**, p. 129] We turn to this question in the
-[section 8](append42.html#app8) and indicate that research as refuted it (and
+[section 8](append42.md#app8) and indicate that research as refuted it (and
 how Trotskyists have misused this research to present a drastically false
 picture of the facts). However, first we must discuss whether the Kronstadt
 revolt was, in fact, a White conspiracy (the [next
-section](append42.html#app6)) and its real relationship to the Whites
-([section 7](append42.html#app7)).
+section](append42.md#app6)) and its real relationship to the Whites
+([section 7](append42.md#app7)).
 
 ## 6 Was the Kronstadt revolt a White plot?
 
 At the time, the Bosheviks portrayed the Kronstadt revolt as a White plot,
-organised by the counter-revolution (see [last section](append42.html#app5)
+organised by the counter-revolution (see [last section](append42.md#app5)
 for full details). In particular, they portrayed the revolt as a conspiracy,
 directed by foreign spies and executed by their SR and White Guardist allies.
 
@@ -1997,7 +1997,7 @@ anything but assertions. No evidence exists to back up such claims.
 
 ## 7 What was the **real** relationship of Kronstadt to the Whites?
 
-As we proved in the [last section](append42.html#app6), the Kronstadt revolt
+As we proved in the [last section](append42.md#app6), the Kronstadt revolt
 was not a White conspiracy. It was a popular revolt from below. However, some
 Trotskyists still try and smear the revolt by arguing that it was, in fact,
 really or "objectively" pro-White. We turn to this question now.
@@ -2199,7 +2199,7 @@ such requests would have been unnecessary. Rather than isolation being due to
 _"the reality of the balance of class forces"_ it was due to the reality of
 coercive forces -- the Bolsheviks had successfully repressed the Petrograd
 strikes and slandered the Kronstadt revolt (see [section
-10](append42.html#app10)). As historian V. Brovkin notes, the _"key here us
+10](append42.md#app10)). As historian V. Brovkin notes, the _"key here us
 that the Communists suppressed the workers uprising in Petrograd in the first
 days of March. The sailors' uprising in Kronstadt, which was an outgrowth of
 the uprising in Petrograd, was now cut off from its larger social base and
@@ -2533,7 +2533,7 @@ J.G. Wright, as noted above, thought that it was _"impossible"_ to believe
 that the sailors of 1917 could leave their comrades to fight the Whites while
 they stayed at Kronstadt. This may have been a valid argument **if** the
 Soviet armed forces were democratically run. However, as we indicated in
-[section 2](append42.html#app2), it was organised in a typically bourgeois
+[section 2](append42.md#app2), it was organised in a typically bourgeois
 fashion. Trotsky had abolished democratic soldiers and sailors councils and
 the election of officers in favour of appointed officers and hierarchical,
 top-down, military structures. This meant that the sailors would have stayed
@@ -2599,7 +2599,7 @@ die for their ideals. Similarly, Trotsky's argument that _"in 1917-18, the
 Kronstadt sailor stood considerably higher than the average level of the Red
 Army"_ but by 1921 they _"stood . . . on a level considerably lower, in
 general, than the average level of the Red Army."_ In fact, as we indicate in
-[section 9](append42.html#app9), the political programme of the revolt was
+[section 9](append42.md#app9), the political programme of the revolt was
 fundamentally the same as Kronstadt's soviet democracy of 1917 and, we should
 note, opposed the introduction of wage labour, a basic socialist idea (and one
 missing from the Bolshevik's NEP policies). Moreover, the mass meeting that
@@ -2907,7 +2907,7 @@ Kronstadt demands were not reproduced by any other "peasant" insurrection).
 The political aspects of these ideas reflected the political traditions of
 Kronstadt, which were not, in the main, Bolshevik. The sailors supported
 soviet power in 1917, not party power, and they again raised that demand in
-1921 (see [section 9](append42.html#app9) for details). In other words, the
+1921 (see [section 9](append42.md#app9) for details). In other words, the
 **political** composition of the garrison was the same as in 1917. Rees is
 clearly clutching at straws.
 
@@ -2926,7 +2926,7 @@ peasant counterrevolution, we have a right to ask of him that he present us
 with a serious factual analysis in support of his contention."_ [**Op. Cit.**,
 pp. 75-6]
 
-As we show in the [next section](append42.html#app9), the political
+As we show in the [next section](append42.md#app9), the political
 composition of the Kronstadt rebels, like their class composition, was
 basically unchanged in 1921 when compared to that which pre-dominated in 1917.
 
@@ -2934,7 +2934,7 @@ basically unchanged in 1921 when compared to that which pre-dominated in 1917.
 
 ## 9 Was Kronstadt different politically?
 
-As we proved in the [last section](append42.html#app8), the Kronstadt garrison
+As we proved in the [last section](append42.md#app8), the Kronstadt garrison
 had not fundamentally changed by 1921. On the two battleships which were the
 catalyst for the rebellion, over 90% of the sailors for whom years of
 enlistment are know had been there since 1917. However, given that most
@@ -3203,8 +3203,8 @@ way the revolt developed and who took a leading role in it.
 
 All of which raises an interesting question. If revolutions are made by a
 minority who gain the support of the majority, what happens when the majority
-reject the vanguard? As we indicate in sections [13](append42.html#app13) and
-[15](append42.html#app15), Trotsky was not shy in providing the answer --
+reject the vanguard? As we indicate in sections [13](append42.md#app13) and
+[15](append42.md#app15), Trotsky was not shy in providing the answer --
 party dictatorship. In this he just followed the logic of Lenin's arguments.
 In 1905, Lenin argued (and using Engels as an authority) _"the principle,
 'only from below' is an **anarchist** principle."_ For Lenin, Marxists must be
@@ -3219,12 +3219,12 @@ As Kronstadt shows, _"pressure from above"_ has a slight advantage over
 _"pressure from below"_ as it has the full power of the state apparatus to use
 against the citizens. In other words, the seeds for Bolshevik dictatorship and
 the repression of Kronstadt lie in Trotsky's argument and arguments like it
-(see [section 15](append42.html#app15) for further details).
+(see [section 15](append42.md#app15) for further details).
 
 Simply put, the evidence shows that the political ideas dominant in Kronstadt,
 like the bulk of the personnel themselves, had not changed (indeed, it is
 these politics which visibly show the statistical evidence we present in the
-[last section](append42.html#app8)). The revolt of 1921 reflected the politics
+[last section](append42.md#app8)). The revolt of 1921 reflected the politics
 and aspirations of those active in 1917. It were these politics which had made
 Kronstadt the _"pride and glory"_ of the revolution in 1917 and, four years
 later, made it so dangerous to the Bolsheviks.
@@ -3259,7 +3259,7 @@ protests.
 
 Secondly, needless to say, Trotsky's later arguments leave a lot to be
 desired. For example, he fails to note (to use Victor Serge's words -- see
-[section 5](append42.html#app5)) that the state and Communist Press _"was
+[section 5](append42.md#app5)) that the state and Communist Press _"was
 positively berserk with lies."_ The press and radio campaign directed against
 Kronstadt stated that the revolt had been organised by foreign spies and was
 led by ex-Tsarist generals.
@@ -3371,7 +3371,7 @@ In these circumstances, is it surprising that the Petrograd workers did not
 join in the rebellion?
 
 Moreover, the Petrograd workers had just experienced the might of the
-Bolshevik state. As we noted in [section 2](append42.html#app2), the events in
+Bolshevik state. As we noted in [section 2](append42.md#app2), the events in
 Kronstadt were in solidarity with the strike wave in Petrograd at the end of
 February. Then the Bolsheviks had repressed the workers with _"arrests, the
 use of armed patrols in the streets and in the factories, and the closing and
@@ -3560,7 +3560,7 @@ would have met with strong response in Petrograd can be seen from the actions
 of the Bolsheviks (who did not rest upon the workers but rather arrested
 them). Given that the Kronstadt demands simply reflected those raised by the
 Petrograd strikers **themselves** we can safely say that Rees is talking
-nonsense (see [section 4](append42.html#app4)). Moreover, the sailors'
+nonsense (see [section 4](append42.md#app4)). Moreover, the sailors'
 resolution **had** meet with strong support from the workers of Kronstadt.
 Thus Rees' "class analysis" of the Kronstadt revolt is pathetic and has no
 bearing to the reality of the situation in Petrograd nor to the history of the
@@ -3675,7 +3675,7 @@ hard to believe that the Conference of Delegates would have allowed troops to
 arrive or pass them by to attack Petrograd. Simply put, the Kronstadters were
 fighting for soviet power and were well aware that others may try to support
 the revolt for their own, anti-revolutionary, reasons (see [section
-7](append42.html#app7)).
+7](append42.md#app7)).
 
 So it seems that the possibility of foreign intervention was not a real threat
 at the time. The arguments of Lenin at the time, plus the demobilisation of
@@ -3713,7 +3713,7 @@ this stage, revolutionary in name only). As Bakunin had argued decades before,
 the "workers' state" would not remain controlled by the workers for long and
 would soon became a dictatorship **over** the proletariat by an elite which
 claimed to know the interests of the working class better than they did
-themselves (see [section 15](append42.html#app15)).
+themselves (see [section 15](append42.md#app15)).
 
 The only possible justification for maintaining the party dictatorship was the
 argument that soviet democracy would have lead to the defeat of the Communists
@@ -3736,7 +3736,7 @@ end of the Civil War than during it). It is utopian in the extreme to believe
 that the good intentions of the dictators would have been enough to keep the
 regime within some kind of limits. Thus this argument is flawed as it
 seriously suggests that dictatorship and bureaucracy can reform itself (we
-discuss this in more detail in [section 13](append42.html#app13)).
+discuss this in more detail in [section 13](append42.md#app13)).
 
 
 
@@ -3747,13 +3747,13 @@ Kronstadt revolt. The main one is the claim that the garrison in 1921 was not
 of the same class composition as the one in 1917. This meant that the 1921
 revolt expressed the peasant counter-revolution and had to be destroyed. We
 have indicated that, firstly, the garrison was essentially the same in 1921 as
-it had been in 1917 (see [section 8](append42.html#app8)). Secondly, we have
+it had been in 1917 (see [section 8](append42.md#app8)). Secondly, we have
 shown that politically the ideas expressed in its program were the same as
-those in 1917 (see [section 9](append42.html#app9)). Thirdly, that this
+those in 1917 (see [section 9](append42.md#app9)). Thirdly, that this
 program had many of the same points as strikers resolutions in Petrograd and,
 indeed, were **more** socialist in many cases by clearly calling for soviet
 democracy rather the constituent assembly (see [section
-4](append42.html#app4)).
+4](append42.md#app4)).
 
 Now we turn to the second excuse, namely that the country was too exhausted
 and the working class was decimated. In such circumstances, it is argued,
@@ -3982,7 +3982,7 @@ revolutionary gains from October 1917, Stack fails to mention what anarchists
 would consider the most important, namely workers' power, freedom, democracy
 and rights. But, then again, the Bolsheviks did not rate these gains highly
 either and were more than willing to sacrifice them to ensure their most
-important gain, state power (see [section 15](append42.html#app15) for a
+important gain, state power (see [section 15](append42.md#app15) for a
 fuller discussion of this issue). Again, the image of revolution gains a
 victory over its content!
 
@@ -4154,7 +4154,7 @@ tens of thousands of workers went on strike in Petrograd. The strikes were
 broken by troops. Strikes regularly occurred throughout 1919 and 1920 (and,
 again, usually met with state repression). In 1921, the strike wave resurfaced
 and became near general strikes in many cities, including Petrograd and Moscow
-(see [section 2](append42.html#app2)). If the workers could organise strikes
+(see [section 2](append42.md#app2)). If the workers could organise strikes
 (and near general strikes in 1921), protest meetings and committees to co-
 ordinate their struggles, what could stop them starting to manage their own
 destinies? Does soviet democracy become invalid once a certain number of
@@ -4182,7 +4182,7 @@ and, moreover, reform itself. And he calls the Kronstadters _"utopians"_!
 Given these factors, perhaps the real reason for the lack of soviet democracy
 and political freedom and rights was that the Bolsheviks knew they would lose
 any free elections that would be held? As we noted in [section
-2](append42.html#app2), they had not been shy in disbanding soviets with non-
+2](append42.md#app2), they had not been shy in disbanding soviets with non-
 Bolshevik majorities before the start of the civil war nor in suppressing
 strikes and workers' protests before, during and after the Civil War. In
 effect, the Bolsheviks would exercise the dictatorship of the proletariat over
@@ -4275,7 +4275,7 @@ revolt.
 
 Another Trotskyist argument against Kronstadt and in favour of the Bolshevik
 repression is related to the country was exhausted argument we discussed in
-the [last section](append42.html#app12). It finds its clearest expression in
+the [last section](append42.md#app12). It finds its clearest expression in
 Victor Serge's argument:
 
 > _"the country was exhausted, and production practically at a standstill;
@@ -4400,8 +4400,8 @@ revolution. After all, it was utopian in that it urged the party and state
 bureaucracy to reform itself as well as contradictory. It did not get at the
 root of the problem, namely Bolshevik ideology. The theoretical limitations of
 the "Left Opposition" can be found in more detail in [section
-3](append45.html#app3) of the appendix on ["Were any of the Bolshevik
-oppositions a real alternative?"](append45.html). Here we will restrict
+3](append45.md#app3) of the appendix on ["Were any of the Bolshevik
+oppositions a real alternative?"](append45.md). Here we will restrict
 ourselves to looking at **The Platform of the Opposition** written in 1927
 (unless otherwise specified all quotes come from this document).
 
@@ -4463,7 +4463,7 @@ Brinton, **The Bolsheviks and Workers' Control**, p. 78]
 
 Thus the call for democracy is totally annulled by other arguments in the
 Platform, arguments which logically eliminates democracy and results in such
-acts as the repression of Kronstadt (see [section 15](append42.html#app15)).
+acts as the repression of Kronstadt (see [section 15](append42.md#app15)).
 
 The question, of course, arises as to how democracy can be introduced in the
 soviets and unions when party dictatorship is essential for the
@@ -4503,7 +4503,7 @@ It argues, for example, that the urban soviets _"in recent years have been
 losing importance. This undoubtedly reflects a shift in the relation of class
 forces to the disadvantage of the proletariat."_ In fact, the soviets had lost
 their importance since the October revolution (see [section
-2](append42.html#app2) for details). The _"shift"_ in the relation of class
+2](append42.md#app2) for details). The _"shift"_ in the relation of class
 forces started immediately after the October revolution, when the **real**
 gains of 1917 (i.e. soviet democracy, workers' rights and freedom) were slowly
 and surely eliminated by the bureaucratic class forming around the new state
@@ -4627,9 +4627,9 @@ after the crushing of Kronstadt.
 
 We have discussed how Trotskyists have followed their heroes Lenin and Trotsky
 in abusing the facts about the Kronstadt sailors and uprising in previous
-sections. In [section 8](append42.html#app8), we have indicated how they have
+sections. In [section 8](append42.md#app8), we have indicated how they have
 selectively quoted from academic accounts of the uprising and suppressed
-evidence which contradicts their claims. In [section 7](append42.html#app7) we
+evidence which contradicts their claims. In [section 7](append42.md#app7) we
 have shown how they have selectively quoted from Paul Avrich's book on the
 revolt to paint a false picture of the connections between the Kronstadt
 sailors and the Whites. Here we summarise some of the other misrepresentations
@@ -4706,14 +4706,14 @@ his work **Russia: From revolution to counter-revolution**. For example, he
 claims (without providing any references) that the _"first lie"_ of anti-
 Bolshevik writers on the subject _"is to identify the Kronstadt mutineers of
 1921 with the heroic Red sailors of 1917."_ As we have indicated in [section
-8](append42.html#app8), research has **proven** that over 90% of the sailors
+8](append42.md#app8), research has **proven** that over 90% of the sailors
 on the two battleships which started the revolt had been recruited before and
 during the 1917 revolution and at least three-quarters of the sailors were old
 hands who had served in the navy through war and revolution. So was the
 majority of the Provisional Revolutionary Committee. Grant asserts that the
 sailors in 1917 and 1921 _"had nothing in common"_ because those _"of 1917
 were workers and Bolsheviks."_ In fact, as we indicated [section
-9](append42.html#app9), the Bolsheviks were a minority in Kronstadt during
+9](append42.md#app9), the Bolsheviks were a minority in Kronstadt during
 1917 (a fact even Trotsky admitted in 1938). Moreover, the demands raised in
 the revolt matched the politics dominant in 1917.
 
@@ -4753,7 +4753,7 @@ Another SWP member, Abbie Bakan, asserts that, for example, _"more than three
 quarters of the sailors"_ at Kronstadt _"were recent recruits of peasant
 origin"_ but refuses to provide a source for this claim. [_"A Tragic
 Necessity"_, **Socialist Worker Review**, no. 136, November 1990, pp. 18-21]
-As noted in [section 8](append42.html#app8), such a claim is false. The likely
+As noted in [section 8](append42.md#app8), such a claim is false. The likely
 source for the assertion is Paul Avrich, who noted that more than three-
 quarters of the sailors were of peasant origin but Avrich does **not** say
 they were all recent recruits. While stating that there could be _"little
@@ -4788,7 +4788,7 @@ Jewish. [**Op. Cit.**, p. 178 and p. 176]
 
 Bakan states that the _"demands of the Kronstadt sailors reflected the ideas
 of the most backward section of the peasantry."_ As can be seen from [section
-3](append42.html#app3), such a comment cannot be matched with the actual
+3](append42.md#app3), such a comment cannot be matched with the actual
 demands of the revolt (which, of course, he does not provide). So what ideas
 did these demands of the _"most backward section of the peasantry"_ state?
 Free elections to the Soviets, freedom of speech and of the press for workers
@@ -4866,7 +4866,7 @@ Centre"_ and uses it as evidence that _"Lenin's suspicion of an international
 conspiracy linked up with the Kronstadt events has been vindicated."_ Needless
 to say, he fails to mention that the historian who discovered the document
 rejected the notion that it proved that Kronstadt was linked to such a
-conspiracy (see [section 6](append42.html#app6) for a full discussion).
+conspiracy (see [section 6](append42.md#app6) for a full discussion).
 Ironically, he mentions that _"[t]wo weeks after the Kronstadt rebellion the
 ice was due to melt."_ Two weeks **after** the rebellion was crushed, of
 course, and he fails to mention that the _"Memorandum"_ he uses as evidence
@@ -4917,7 +4917,7 @@ party and contrasting it to soviet democracy. So much for _"All Power to the
 Soviets"_ or _"workers' power"_!
 
 Indeed, Trotsky was not shy in explicitly stating this on occasion. As we
-noted in [section 13](append42.html#app13), the **Left Opposition** based
+noted in [section 13](append42.md#app13), the **Left Opposition** based
 itself on _"Leninist principle"_ (_"inviolable for every Bolshevik"_) that
 _"the dictatorship of the proletariat is and can be realised only through the
 dictatorship of the party."_ Trotsky stressed ten years later that the whole
@@ -5095,7 +5095,7 @@ participated in their suppression had he been called upon to do so.
 
 Thus, the ideas of centralisation supported by Leninists are harmful to the
 real gains of a revolution, namely working class freedom and power (as we
-noted in [section 12](append42.html#app12), some of them do not even mention
+noted in [section 12](append42.md#app12), some of them do not even mention
 these when indicating the gains of 1917). Indeed, this can be seen all through
 the history of Bolshevism.
 
@@ -5262,7 +5262,7 @@ been applied successfully in the same circumstances which Trotskyists argue
 forced the Bolsheviks to act as they did. As can be seen, a viable alternative
 approach existed and was applied (see the appendix on ["Why does the
 Makhnovist movement show there is an alternative to
-Bolshevism?"](append46.html) for more on the Makhnovists).
+Bolshevism?"](append46.md) for more on the Makhnovists).
 
 The terrible objective circumstances facing the revolution obviously played a
 key role in the degeneration of the revolution. However, this is not the whole
@@ -5284,7 +5284,7 @@ Nothing could be further from the truth, of course. What anarchists argue
 (like Lenin before the October revolution) is that **every** revolution will
 suffer from isolation, uneven political development, economic problems and so
 on (i.e. _"exceptional circumstances,"_ see [section
-12](append42.html#app12)). The question is whether your revolution can survive
+12](append42.md#app12)). The question is whether your revolution can survive
 them and whether your political ideas can meet these challenges without aiding
 bureaucratic deformations. As can be seen from the Russian Revolution,
 Leninism fails that test.
@@ -5431,8 +5431,8 @@ actions by the Bolsheviks which began, **before** the start of the Civil War,
 with them abolishing soviets which elected non-Bolshevik majorities,
 abolishing elected officers and soldiers soviets in the Red Army and Navy and
 replacing workers' self-management of production by state-appointed managers
-with _"dictatorial"_ powers (see sections [H.4](secH4.html) and
-[2](append42.html#app2) for details).
+with _"dictatorial"_ powers (see sections [H.4](secH4.md) and
+[2](append42.md#app2) for details).
 
 As Bakunin predicted, the "workers' state" did not, could not, be
 "participatory" as it was still a state. Kronstadt is part of the empirical
@@ -5476,8 +5476,7 @@ Liberty can only be created by liberty, by an insurrection of all the people
 and the voluntary organisation of the workers from below upward."_ [**Statism
 and Anarchy**, pp. 178-9]
 
-[‹ What happened during the Russian Revolution?](/afaq/append41.html "Go to
-previous page" ) [up](/afaq/append4.html "Go to parent page" ) [What caused
-the degeneration of the Russian Revolution? ›](/afaq/append43.html "Go to next
-page" )
+[‹ What happened during the Russian Revolution?](append41.md "Go to previous
+page" ) [up](append4.md "Go to parent page" ) [What caused the degeneration
+of the Russian Revolution? ›](append43.md "Go to next page" )
 

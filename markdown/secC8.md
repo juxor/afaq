@@ -1,6 +1,6 @@
 # C.8 Is state control of money the cause of the business cycle?
 
-As explained in the [last section](secC7.html), capitalism will suffer from a
+As explained in the [last section](secC7.md), capitalism will suffer from a
 boom-and-bust cycle due to objective pressures on profit production even if we
 ignore the subjective revolt against authority by working class people. It is
 this two-way pressure on profit rates, the subjective and objective, which
@@ -14,18 +14,18 @@ This analysis is defective, as will be shown below.
 
 First it should be noted that many supporters of capitalism ignore the
 "subjective" pressures on capitalism that we discussed in [section
-C.7.1](secC7.html#secc71). In addition, the problems associated with rising
-capital investment (as highlighted in [section C.7.3](secC7.html#secc73)) are
+C.7.1](secC7.md#secc71). In addition, the problems associated with rising
+capital investment (as highlighted in [section C.7.3](secC7.md#secc73)) are
 also usually ignored, because they usually consider capital to be "productive"
 and so cannot see how its use could result in crises. This leaves them with
 the problems associated with the price mechanism, as discussed in [section
-C.7.2](secC7.html#secc72). It is here, in the market for credit and money,
+C.7.2](secC7.md#secc72). It is here, in the market for credit and money,
 that the role of the state comes into play, distorting the natural workings of
 the market and causing the ups and downs of business.
 
 In pre-Keynesian bourgeois economics, the reason why Say's Law is applicable
 in a money economy is the interest rate. As we discussed in [section
-C.2.6](secC2.html#secc26), this is claimed to reflect the _"time preference"_
+C.2.6](secC2.md#secc26), this is claimed to reflect the _"time preference"_
 of individuals. While it is possible for sales not to be turned into purchases
 in the market, the money involved is not withdrawn from the economy. Rather,
 it is saved and made available to investors. The interest rate is the means by
@@ -122,10 +122,10 @@ either the victory of fascism or some-sort of socialist revolution.
 Given these practical considerations and the devastating critiques inflicted
 upon it, Keynesian theory became the dominant theme in economics (particularly
 once it had been lobotomised of any ideas which threatened neo-classical
-supremacy -- see [section C.8.1](secC8.html#secc81)). This has not, as noted,
+supremacy -- see [section C.8.1](secC8.md#secc81)). This has not, as noted,
 stopped Hayek's followers repeating his theory to this day (nor has its roots
 in equilibrium theory bothered them -- see [section
-C.1.6](secC1.html#secc16)). Bearing this in mind, it is useful to discuss this
+C.1.6](secC1.md#secc16)). Bearing this in mind, it is useful to discuss this
 theory because it reflects the pre-Keynesian orthodoxy although we must stress
 that our discussion of "Austrian" economics here should not be taken as
 suggesting that they are a significant school of thought or that their
@@ -281,7 +281,7 @@ associated with the right and all three are wrong. The first two are easy to
 dismiss. Monetarism has been tried and has failed spectacularly in the early
 1980s. As it was a key aspect of the neo-liberal war on working class people
 at this time we will discuss its limitations as part of our account of this
-period in [section C.8.3](secC8.html#secc83).
+period in [section C.8.3](secC8.md#secc83).
 
 The second option, namely imposing a 100% gold reserve limit for banks is
 highly interventionist and so not remotely laissez-faire (why should the
@@ -670,7 +670,7 @@ realise the full potentialities of production."_ [**The General Theory**, pp.
 378-9] Unlike many of his more radical followers, Keynes was blind to real
 nature of capitalism as a class based system and so failed to understand the
 functional role that unemployment plays within it (see [section
-C.1.5](secC5.html#secc15)).
+C.1.5](secC5.md#secc15)).
 
 However, the context in which Keynes worked explains much. Faced with the dire
 situation capitalism faced during the 1930s, he presented a new theoretical
@@ -785,7 +785,7 @@ lead to the realisation that attempts to enforce widespread reductions in
 money wages and costs (the traditional means to overcome depression) simply
 did not work. As Keynes stressed, cutting wages reduced prices and so left
 real wages unaffected. Worse, it reduced aggregate demand and lead to a
-deepening of the slump (see [section C.9.1](secC9.html#secc91) for details).
+deepening of the slump (see [section C.9.1](secC9.md#secc91) for details).
 This meant that leaving the market to solve its own problems would make things
 a lot worse before they became better. Such a policy would, moreover, be
 impossible because the social and economic costs would have been too
@@ -860,7 +860,7 @@ and by means of state-induced production must eventually find its end in the
 contradictions of the accumulation process."_ [Paul Mattick, **Op. Cit.**, p.
 18] This is because it cannot stop the tendency to (relative) over-investment,
 disproportionalities and profits squeeze we outlined in [section
-C.7](secC7.html). In fact, due to its maintenance of full employment it
+C.7](secC7.md). In fact, due to its maintenance of full employment it
 increases the possibility of a crisis arising due to increased workers' power
 at the point of production.
 
@@ -873,12 +873,12 @@ crisis returned with a vengeance, with high unemployment occurring along with
 high inflation. This soon lead to a return to a more "free market" capitalism
 with, in Chomsky's words, _"state protection and public subsidy for the rich,
 market discipline for the poor."_ This process and its aftermath are discussed
-in the [next section](secC8.html#secc82).
+in the [next section](secC8.md#secc82).
 
 ## C.8.2 What happened to Keynesianism in the 1970s?
 
 Basically, the subjective and objective limitations to Keynesianism we
-highlighted in the [last section](secC8.html#secc81) were finally reached in
+highlighted in the [last section](secC8.md#secc81) were finally reached in
 the early 1970s. It, in effect, came into conflict with the reality of
 capitalism as a class and hierarchical system. It faced either revolution to
 increase popular participation in social, political and economic life (and so
@@ -977,7 +977,7 @@ against hierarchy in general, with workers, students, women, ethnic groups,
 anti-war protesters and the unemployed all organising successful struggles
 against authority. This struggle attacked the hierarchical core of capitalism
 as well as increasing the amount of income going to labour, resulting in a
-profit squeeze (see [section C.7](secC7.html)). By the 1970s, capitalism and
+profit squeeze (see [section C.7](secC7.md)). By the 1970s, capitalism and
 the state could no longer ensure that working class struggles could be
 contained within the system.
 
@@ -1029,7 +1029,7 @@ commodities on the market. This was the position of Milton Friedman and his
 Monetarist school during the 1960s and 1970s. However, this is not true. In
 general, there is no relationship between the money supply and inflation. The
 amount of money can increase while the rate of inflation falls, for example
-(as we will discuss in the [next section](secC8.html#secc83), Monetarism
+(as we will discuss in the [next section](secC8.md#secc83), Monetarism
 itself ironically proved there is no relationship). Inflation has other roots,
 namely it is _"an expression of inadequate profits that must be offset by
 price and money policies . . . Under any circumstances, inflation spells the
@@ -1120,7 +1120,7 @@ Thus, Keynesianism sowed the seeds of its own destruction. Full employment had
 altered the balance of power in the workplace and economy from capital to
 labour. The prediction of socialist economist Michal Kalecki that full
 employment would erode social discipline had become true (see [section
-B.4.4](secB4.html#secb44)). Faced with rising direct and indirect costs due to
+B.4.4](secB4.md#secb44)). Faced with rising direct and indirect costs due to
 this, firms passed them on to consumers. Yet consumers are also, usually,
 working class and this provoked more direct action to increase real wages in
 the face of inflation. Within the capitalist class, finance capital was
@@ -1135,12 +1135,12 @@ when significant numbers within ranks of industrial capitalists were sick of
 full employment and wanted compliant workers again. The resulting recessions
 may have harmed individual capitalists (particularly smaller ones) but the
 capitalist class as a whole did very well of them (and, as we noted in
-[section B.2](secB2.html), one of the roles of the state is to manage the
+[section B.2](secB2.md), one of the roles of the state is to manage the
 system in the interests of the capitalist class **as a whole** and this can
 lead it into conflict with **some** members of that class). Thus the
 maintenance of sufficiently high unemployment under the mantra of fighting
 inflation as the de facto state policy from the 1980s onwards (see [section
-C.9](secC9.html)). While industrial capital might want a slightly stronger
+C.9](secC9.md)). While industrial capital might want a slightly stronger
 economy and a slightly lower rate of unemployment than finance capital, the
 differences are not significant enough to inspire major conflict. After all,
 bosses in any industry _"like slack in the labour market"_ as it _"makes for a
@@ -1335,7 +1335,7 @@ p. 160]
 Eventually, inflation did fall. From an anarchist perspective, however, this
 fall in inflation was the result of the high unemployment of this period as it
 weakened labour, so allowing profits to be made in production rather than in
-circulation (see [last section](secC8.html#secc82) for this aspect of
+circulation (see [last section](secC8.md#secc82) for this aspect of
 inflation). With no need for capitalists to maintain their profits via price
 increases, inflation would naturally decrease as labour's bargaining position
 was weakened by the fear mass unemployment produced in the workforce. Rather
@@ -1433,7 +1433,7 @@ could successfully change the composition of demand from the working class to
 capital.
 
 Needless to say, we still living under the legacy of this process. As we
-indicated in [section C.3](secC3.html), there has been a significant shift in
+indicated in [section C.3](secC3.md), there has been a significant shift in
 income from labour to capital in the USA. The same holds true in the UK, as
 does rising inequality and higher rates of poverty. While the economy is doing
 well for the few, the many are finding it harder to make ends meet and, as a
@@ -1446,7 +1446,7 @@ Income inequality increased, with the income of the bottom fifth of the US
 population falling by 18% while that of the richest fifth rose by 8%. [Noam
 Chomsky, **World Orders, Old and New**, p. 141] Combined with bubbles in
 stocks and housing, the illusion of a good economy is maintained while only
-those at the top are doing well (see [section B.7](secB7.html) on rising
+those at the top are doing well (see [section B.7](secB7.md) on rising
 inequality). This disciplining of the working class has been successful,
 resulting in the benefits of rising productivity and growth going to the
 elite. Unemployment and underemployment are still widespread, with most newly
@@ -1539,7 +1539,7 @@ more centralised (_"prisons also offer a Keynesian stimulus to the economy,
 both to the construction business and white collar employment; the fastest
 growing profession is reported to be security personnel."_ [Chomsky, **Year
 501**, p. 110]). In other words, pretty much the same situation that has
-existed since the dawn of capitalism (see [section D.1](secD1.html)) --
+existed since the dawn of capitalism (see [section D.1](secD1.md)) --
 free(r) markets supported by ready use of state power as and when required.
 
 The continued role of the state means that it is unlikely that a repeat of the
@@ -1556,7 +1556,7 @@ would be a better word) and do not care about the impact it is having on the
 general public -- and, more importantly, if the general public cannot stop
 you).
 
-However, as we discuss in [section C.10](secC10.html) the net effect of this
+However, as we discuss in [section C.10](secC10.md) the net effect of this
 one-sided class war has not been as good as has been suggested by the
 ideologues of capitalism and the media. Faced with the re-imposition of
 hierarchy, the quality of life for the majority has fallen (consumption, i.e.
@@ -1593,8 +1593,7 @@ the world. Even in the face of state repression and managed economic
 recession, working class people are still fighting back. The job for
 anarchists to is encourage these sparks of liberty and help them win.
 
-[‹ C.7 What causes the capitalist business cycle?](/afaq/secC7.html "Go to
-previous page" ) [up](/afaq/secCcon.html "Go to parent page" ) [C.9 Would
-laissez-faire capitalism reduce unemployment? ›](/afaq/secC9.html "Go to next
-page" )
+[‹ C.7 What causes the capitalist business cycle?](secC7.md "Go to previous
+page" ) [up](secCcon.md "Go to parent page" ) [C.9 Would laissez-faire
+capitalism reduce unemployment? ›](secC9.md "Go to next page" )
 

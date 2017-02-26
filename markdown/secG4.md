@@ -28,7 +28,7 @@ who rejected communism and the Individualist Anarchists supported voluntary
 communism). Tucker argued that a communist could not be an anarchist and the
 communist-anarchists argued that Individualist Anarchism could not end the
 exploitation of capital by labour. Here we indicate why social anarchists
-reject individualist anarchism (see [section G.2](secG2.html) for a summary of
+reject individualist anarchism (see [section G.2](secG2.md) for a summary of
 why Individualist Anarchists reject social anarchism).
 
 Malatesta summarises the essential points of difference as well as the source
@@ -79,7 +79,7 @@ resolves around the issues of inequality, the limitations and negative impact
 of markets and whether wage-labour is consistent with anarchist principles
 (both in general and in terms of individualist anarchism itself). We discuss
 the issue of wage labour and anarchist principles in the [next
-section](secG4.html#secg41) and argue in [section G.4.2](secG4.html#secg42)
+section](secG4.md#secg41) and argue in [section G.4.2](secG4.md#secg42)
 that Tucker's support for wage-labour, like any authoritarian social
 relationship, ensures that this is an inconsistent form of anarchism. Here we
 concentrate on issues of inequality and markets.
@@ -286,7 +286,7 @@ feelings of equality of most of us"_ and _"brings the would-be
 'Individualists' dangerously near to those who imagine themselves to represent
 a 'superior breed' -- those to whom we owe the State . . . and all other forms
 of oppression."_ [**Evolution and Environment**, p. 84] As we discuss in the
-[next section](secG4.html#secg41), it is clear that wage labour (like any
+[next section](secG4.md#secg41), it is clear that wage labour (like any
 hierarchical organisation) is not consistent with general anarchist principles
 and, furthermore, in direct contradiction to individualist anarchist
 principles of "occupancy and use." Only if "occupancy and use" is consistently
@@ -348,7 +348,7 @@ can only be avoided by consistently applying "occupancy and use" in such as
 way as to eliminate wage labour totally. Only this can achieve a society based
 on freedom **of** association as well as freedom **within** association.
 
-As we noted in [section G.2](secG2.html), one of the worries of individualist
+As we noted in [section G.2](secG2.md), one of the worries of individualist
 anarchists is that social anarchism would subject individuals to group
 pressures and concerns, violating individual autonomy in the name of
 collective interests. Thus, it is argued, the individual will become of slave
@@ -461,7 +461,7 @@ While mutual banks could aid the position of working class people under
 capitalism (which is why Bakunin and other social anarchists recommended
 them), they cannot undermine or eliminate it. This is because capitalism, due
 to its need to accumulate, creates **natural** barriers to entry into a market
-(see [section C.4](secC4.html)). Thus the physical size of the large
+(see [section C.4](secC4.md)). Thus the physical size of the large
 corporation would make it immune to the influence of mutual banking and so
 usury could not be abolished. Even if we look at the claimed indirect impact
 of mutual banking, namely an increase in the demand of labour and so wages,
@@ -476,7 +476,7 @@ individualist anarchists tended to oppose.
 This problem was recognised by many individualist anarchists themselves and it
 played a significant role in its decline as a movement. By 1911 Tucker had
 come to the same conclusions as communist-anarchists on whether capitalism
-could be reformed away. As we noted in [section G.1.1](secG1.html#secg11), he
+could be reformed away. As we noted in [section G.1.1](secG1.md#secg11), he
 _"had come to believe that free banking and similar measures, even if
 inaugurated, were no longer adequate to break the monopoly of capitalism or
 weaken the authority of the state."_ [Paul Avrich, **Anarchist Voices**, p. 6]
@@ -534,7 +534,7 @@ concepts of individualism obsolete. It was her love of freedom which made her
 sensitive to the possibility of any degeneration back into capitalism: _"the
 instinct of liberty naturally revolted not only at economic servitude, but at
 the outcome of it, class-lines."_ [**Op. Cit.**, p. 58, p. 105, p. 61 and p.
-55] As we argue in [section G.4.2](secG4.html#secg42) such a possibility can
+55] As we argue in [section G.4.2](secG4.md#secg42) such a possibility can
 be avoided only by a consistent application of "occupancy and use" which, in
 practice, would be nearly identical to the communalisation or socialisation of
 the means of life.
@@ -659,7 +659,7 @@ say that individualist anarchists tend to ignore or downplay the negative
 effects of markets while stressing their positive ones.
 
 While we discuss the limitations of markets in [section
-I.1.3](secI1.html#seci13), suffice to say here that competition results in
+I.1.3](secI1.md#seci13), suffice to say here that competition results in
 economic forces developing which those within the market have to adjust to. In
 other words, the market may be free but those within it are not. To survive on
 the market, firms would seek to reduce costs and so implement a host of
@@ -684,7 +684,7 @@ and co-operation in order to develop us as fully rounded individuals. As
 Kropotkin put it, _"the **individualisation** they so highly praise is not
 attainable by individual efforts."_ [**Anarchism**, p. 297]
 
-As we noted in [section D.1](secD1.html), the capitalist state intervenes into
+As we noted in [section D.1](secD1.md), the capitalist state intervenes into
 the economy and society to counteract the negative impact of market forces on
 social life and the environment as well as, of course, protecting and
 enhancing the position of itself and the capitalist class. As individualist
@@ -725,7 +725,7 @@ developed without state aid would make it no less unfree and unjust. It is of
 little use to point out that such a situation is **not** what the
 Individualist Anarchists desired for it is a question of whether their ideas
 would actually result in what they wanted. Social anarchists have fears that
-they will not. Significantly, as we noted in [section G.3](secG3.html), Tucker
+they will not. Significantly, as we noted in [section G.3](secG3.md), Tucker
 was sensible enough to argue that those subject to such developments should
 rebel against them.
 
@@ -841,12 +841,12 @@ In addition, even if individualist mutualism **did** result in an increase in
 wages by developing artisan and co-operative ventures that decreased the
 supply of labour in relation to its demand, this would not eliminate the
 subjective and objective pressures on profits that produce the business cycle
-within capitalism (see [section C.7](secC7.html)). In fact, it would increase
+within capitalism (see [section C.7](secC7.md)). In fact, it would increase
 the subjective pressures considerably as was the case under the social
 Keynesianism of the post-war period. Unsurprisingly, business interests sought
 the necessary "reforms" and ruthlessly fought the subsequent strikes and
 protests to achieve a labour market more to their liking (see [section
-C.8.2](secC8.html#secc82) for more on this). This means that an increase in
+C.8.2](secC8.md#secc82) for more on this). This means that an increase in
 the bargaining power of labour would soon see capital moving to non-anarchist
 areas and so deepening any recession caused by a lowering of profits and other
 non-labour income. This could mean that during an economic slump, when
@@ -867,7 +867,7 @@ However, while social anarchists disagree with the proposals of individualist
 anarchists, we do still consider them to be a form of anarchism -- one with
 many flaws and one perhaps more suited to an earlier age when capitalism was
 less developed and its impact upon society far less than it is now (see
-[section G.1.4](secG1.html#secg14)). Individualist and social anarchism could
+[section G.1.4](secG1.md#secg14)). Individualist and social anarchism could
 co-exist happily in a free society and neither believes in forcing the other
 to subscribe to their system. As Paul Nursey-Bray notes _"linking all of these
 approaches . . . is not just the belief in individual liberty and its
@@ -885,7 +885,7 @@ No, it is not. This can be seen from social anarchism, where opposition to
 wage labour as hierarchical and exploitative is taken as an obvious and
 logical aspect of anarchist principles. However, ironically, this conclusion
 must also be drawn from the principles expounded by individualist anarchism.
-However, as noted in [section G.1.3](secG1.html#secg13), while many
+However, as noted in [section G.1.3](secG1.md#secg13), while many
 individualist anarchists opposed wage labour and sought its end not all did.
 Benjamin Tucker was one of the latter. To requote him:
 
@@ -1017,9 +1017,9 @@ saw the need for greater control over their employees; their solution was to
 sponsor a private detective system. In February 1855, Allan Pinkerton, after
 consulting with six midwestern railroads, created such an agency in Chicago."_
 [Frank Morn, quoted by Churchill, **Op. Cit.**, p. 4] As we have noted in
-[section F.7.1](secF7.html#secf671), such regimes remained into the 1930s,
+[section F.7.1](secF7.md#secf671), such regimes remained into the 1930s,
 with corporations having their own well armed private police to enforce the
-propertarian hierarchy (see also [section F.6.2](secF6.html#secf62)).
+propertarian hierarchy (see also [section F.6.2](secF6.md#secf62)).
 
 So, in terms of monopoly of authority over a given area the capitalist company
 and the state share a common feature. The reason why wage labour violates
@@ -1032,7 +1032,7 @@ defined (in part) as _"the assumption of sole authority over a given area and
 all within it."_ Tucker considered this element as _"common to all States"_
 and so opposition to the state logically implies support for workers' self-
 management for only in this case can people govern themselves during the
-working day (see [section B.4](secB4.html) for more discussion). Even with
+working day (see [section B.4](secB4.md) for more discussion). Even with
 Tucker's other aspect, _"aggression"_, there are issues. Competition is
 inherently aggressive, with companies seeking to expand their market share, go
 into new markets, drive their competitors out of business, and so forth.
@@ -1042,7 +1042,7 @@ less, threatening them with the sack if they object.
 Tucker's comments on strikers brings to light an interesting contradiction in
 his ideas. After all, he favoured a system of "property" generally defined by
 use and occupancy, that is whoever uses and possesses is to be consider the
-owner. As we indicated in [section G.1.2](secG1.html#secg12), this applied to
+owner. As we indicated in [section G.1.2](secG1.md#secg12), this applied to
 both the land and what was on it. In particular, Tucker pointed to the example
 of housing and argued that rent would not be collected from tenants nor would
 they be evicted for not paying it. Why should this position change when it is
@@ -1189,7 +1189,7 @@ militia sought to impose on those who used, but did not own, the steel-mills
 (as the commander of the state troops noted, others _"can hardly believe the
 actual communism of these people. They believe the works are theirs quite as
 much as Carnegie's."_ [quoted by Jeremy Brecher, **Strike!**, p. 60]). As we
-discuss in the [next section](secG4.html#secg42), this is precisely why most
+discuss in the [next section](secG4.md#secg42), this is precisely why most
 anarchists have opposed wage labour as being incompatible with general
 anarchist principles. In other words, a consistent anarchism precludes all
 forms of authoritarian social relationships.
@@ -1286,7 +1286,7 @@ stressed that liberty would result in the end of exploitation. Nor should we
 be blind to the fact that a market economy is a dynamic one, making the long
 run unlikely to ever appear (_"in the long run we are all dead"_ as Keynes
 memorably put it). Combine this with the natural barriers to competition we
-indicated in [section G.4](secG4.html) and we are left with problems of
+indicated in [section G.4](secG4.md) and we are left with problems of
 usury/exploitation in an individualist anarchist system.
 
 The obvious solution to these problems is to be found in Proudhon, namely the
@@ -1327,7 +1327,7 @@ people to share as they desired). However, it must be stressed that Proudhon's
 analysis was not an alien one to the individualist anarchist tradition. Joshua
 King Ingalls, for example, presented a similar analysis to Proudhon on the
 issue of joint production as well as its solution in the form of co-operatives
-(see [section G.1.3](secG1.html#secg13) for details) and Dyer Lum was a firm
+(see [section G.1.3](secG1.md#secg13) for details) and Dyer Lum was a firm
 advocator of the abolition of wage labour. So integrating the insights of
 social anarchism on this issue with individualist anarchism would not be
 difficult and would build upon existing tendencies within it.
@@ -1337,14 +1337,14 @@ solve the social question. If it did, then they would be individualists. They
 argue that in spite of Tucker's claims, workers would still be exploited in
 any form of individualist anarchism which retained significant amounts of wage
 labour as well as being a predominantly hierarchical, rather than libertarian,
-society. As we argue in the [next section](secG4.html#secg42), this is why
+society. As we argue in the [next section](secG4.md#secg42), this is why
 most anarchists consider individualist anarchism as being an inconsistent form
 of anarchism.
 
 ## G.4.2 Why do social anarchists think individualism is inconsistent
 anarchism?
 
-From our discussion of wage labour in the [last section](secG4.html#secg41),
+From our discussion of wage labour in the [last section](secG4.md#secg41),
 some may consider that Tucker's support for wage labour would place him
 outside the ranks of anarchism. After all, this is one of the key reasons why
 most anarchists reject "anarcho"-capitalism as a form of anarchism. Surely, it
@@ -1672,9 +1672,9 @@ management and ownership. As can be seen from capitalism, a society based on
 the abstract individualism associated with contract theory would, in practice,
 produce social relationships based on power and authority (and so force --
 which would be needed to back up that authority), **not** liberty. As we
-argued in [section A.2.14](secA2.html#seca214), voluntarism is **not** enough
+argued in [section A.2.14](secA2.md#seca214), voluntarism is **not** enough
 in itself to preserve freedom. This result, as noted in [section
-A.3](secA3.html), could **only** be avoided by workers' control, which is in
+A.3](secA3.md), could **only** be avoided by workers' control, which is in
 fact the logical implication of Tucker's and other individualists' proposals.
 This is hardly a surprising implication, since as we've seen, artisan
 production was commonplace in 19th-century America and its benefits were
@@ -1735,7 +1735,7 @@ not possible without equality, and real anarchy cannot exist without
 solidarity, without socialism."_ [**Anarchy**, p. 48 and p. 47]
 
 [‹ G.3 Is "anarcho"-capitalism a new form of individualist
-anarchism?](/afaq/secG3.html "Go to previous page" ) [up](/afaq/secGcon.html
-"Go to parent page" ) [G.5 Benjamin Tucker: Capitalist or Anarchist?
-›](/afaq/secG5.html "Go to next page" )
+anarchism?](secG3.md "Go to previous page" ) [up](secGcon.md "Go to parent
+page" ) [G.5 Benjamin Tucker: Capitalist or Anarchist? ›](secG5.md "Go to
+next page" )
 

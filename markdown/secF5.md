@@ -116,7 +116,7 @@ the same rights as other owners? And if "right of passage" is enforced, what
 would this mean for road owners when people sue them for car-pollution related
 illnesses? (The right of those injured by pollution to sue polluters is the
 main way "anarcho"-capitalists propose to protect the environment -- see
-[section E.4](secE4.html)). It is unlikely that those wishing to bring suit
+[section E.4](secE4.md)). It is unlikely that those wishing to bring suit
 could find, never mind sue, the millions of individual car owners who could
 have potentially caused their illness. Hence the road-owners would be sued for
 letting polluting (or unsafe) cars onto "their" roads. The road-owners would
@@ -182,7 +182,7 @@ consequence. As Rothbard argues, any _"prohibitions would not be state
 imposed, but would simply be requirements for residence or for use of some
 person's or community's land area."_ [**Nations by Consent**, p. 85] Thus we
 yet again see the blindness of right-"libertarians" to the commonality between
-private property and the state we first noted in [section F.1](secF1.html).
+private property and the state we first noted in [section F.1](secF1.md).
 The state also maintains that submitting to its authority is the requirement
 for taking up residence in its territory. As Tucker noted, the state can be
 defined as (in part) _"the assumption of sole authority over a given area and
@@ -221,7 +221,7 @@ what advantage is it to him that society has left the state of war to enter
 the regime of police?"_ [**System of Economic Contradictions**, p. 371]
 
 [‹ F.4 What is the right-"libertarian" position on private
-property?](/afaq/secF4.html "Go to previous page" ) [up](/afaq/secFcon.html
-"Go to parent page" ) [F.6 Is "anarcho"-capitalism against the state?
-›](/afaq/secF6.html "Go to next page" )
+property?](secF4.md "Go to previous page" ) [up](secFcon.md "Go to parent
+page" ) [F.6 Is "anarcho"-capitalism against the state? ›](secF6.md "Go to
+next page" )
 

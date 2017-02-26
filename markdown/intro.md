@@ -114,7 +114,6 @@ as many people as possible. If you want to get involved with the FAQ then
 contact us. Similarly, if others (particularly anarchists) want to distribute
 all or part of it then feel free. It is a resource for the movement. For this
 reason we have "copylefted" An Anarchist FAQ (see
-<http://www.gnu.org/copyleft/copyleft.html> for details). By so doing we
 ensure that the FAQ remains a free product, available for use by all.
 
 One last point. Language has changed a lot over the years and this applies to
@@ -177,15 +176,14 @@ version published by the Free Software Foundation, and/or the terms of the GNU
 General Public License, Version 2.0 or any later version published by the Free
 Software Foundation.
 
-See the Licenses page at <http://www.gnu.org/> for more details.
 
-  * [An Anarchist FAQ after ten years](/afaq/10years.html)
-  * [An Anarchist FAQ: Introduction to Volume 1](/afaq/vol1intro.html)
-  * [An Anarchist FAQ: Introduction to Volume 2](/afaq/vol2intro.html)
-  * [What Anarchists Say about An Anarchist FAQ](/afaq/quotes.html)
-  * [An Anarchist FAQ Webpage Contacts](/afaq/contact.html)
+  * [An Anarchist FAQ after ten years](10years.md)
+  * [An Anarchist FAQ: Introduction to Volume 1](vol1intro.md)
+  * [An Anarchist FAQ: Introduction to Volume 2](vol2intro.md)
+  * [What Anarchists Say about An Anarchist FAQ](quotes.md)
+  * [An Anarchist FAQ Webpage Contacts](contact.md)
 
-[‹ What's New in the FAQ?](/afaq/new.html "Go to previous page" )
-[up](/afaq/index.html "Go to parent page" ) [An Anarchist FAQ after ten years
-›](/afaq/10years.html "Go to next page" )
+[‹ What's New in the FAQ?](new.md "Go to previous page" ) [up](index.md
+"Go to parent page" ) [An Anarchist FAQ after ten years ›](10years.md "Go to
+next page" )
 

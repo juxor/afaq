@@ -45,7 +45,7 @@ imply treating everyone identically (for example, expecting an eighty year old
 man to do identical work as an eighteen violates treating both equally with
 respect as unique individuals). Needless to say, no anarchist has ever
 advocated such a notion of equality as being identical. As discussed in
-[section A.2.5](secA2.html#seca25), anarchists have always based our arguments
+[section A.2.5](secA2.md#seca25), anarchists have always based our arguments
 on the need for social equality on the fact that, while people are different,
 we all have the same right to be free and that inequality in wealth produces
 inequalities of liberty. For anarchists:
@@ -128,7 +128,7 @@ Reader**, p. 190]
 So if we change society then the social inequalities we see today would
 disappear. It is more than probable that natural difference has been long ago
 been replaced with **social** inequalities, especially inequalities of
-property. And as we argue in [section F.8](secF8.html) these inequalities of
+property. And as we argue in [section F.8](secF8.md) these inequalities of
 property were initially the result of force, **not** differences in ability.
 Thus to claim that social inequality flows from natural differences is false
 as most social inequality has flown from violence and force. This initial
@@ -143,12 +143,12 @@ identical work (although this often is not the case for women and blacks, who
 receive less wages than male, white workers for identical labour). Similarly,
 capitalists have deliberately introduced wage inequalities and hierarchies for
 no other reason that to divide and so rule the workforce (see [section
-D.10](secD10.html)). Thus, if we assume egalitarianism **is** a revolt against
+D.10](secD10.md)). Thus, if we assume egalitarianism **is** a revolt against
 nature, then much of capitalist economic life is in such a revolt and when it
 is not, the "natural" inequalities have usually been imposed artificially by
 those in power either within the workplace or in society as a whole by means
 of state intervention, property laws and authoritarian social structures.
-Moreover, as we indicated in [section C.2.5](secC2.html#secc25), anarchists
+Moreover, as we indicated in [section C.2.5](secC2.md#secc25), anarchists
 have been aware of the _**collective**_ nature of production within capitalism
 since Proudhon wrote **What is Property?** in 1840. Rothbard ignores both the
 anarchist tradition and reality when he stresses that individual differences
@@ -212,7 +212,7 @@ the transformation of the majority into order takers rather than free
 producers. In other words, once a certain level of inequality is reached
 property does not promote, but actually conflicts with, the ends which render
 private property legitimate. As we argue in [the next
-section](secF3.html#secf31), inequality can easily led to the situation where
+section](secF3.md#secf31), inequality can easily led to the situation where
 self-ownership is used to justify its own negation and so unrestricted
 property rights will undermine the meaningful self-determination which many
 people intuitively understand by the term "self-ownership" (i.e., what
@@ -243,13 +243,13 @@ been provided with to use but Nozick does not class this distribution of
 wage slavery itself restricts freedom, of course). Thus claims that equality
 involves infringing liberty ignores the fact that inequality also infringes
 liberty (never mind the significant negative effects of inequality, both of
-wealth and power, we discussed in [section B.1](secB1.html)). A reorganisation
+wealth and power, we discussed in [section B.1](secB1.md)). A reorganisation
 of society could effectively minimise inequalities by eliminating the major
 source of such inequalities (wage labour) by self-management. We have no
 desire to restrict free exchanges (after all, most anarchists desire to see
 the "gift economy" become a reality sooner or later) but we argue that free
 exchanges need not involve the unrestricted capitalist property rights Nozick
-assumes (see [section I.5.12](secI5.html#seci512) for a discussion of
+assumes (see [section I.5.12](secI5.md#seci512) for a discussion of
 "capitalistic acts" within an anarchist society).
 
 Rothbard, ironically, is aware of the fact that inequality restricts freedom
@@ -264,7 +264,7 @@ have realised that bosses are rarely the natural elite he thought they were.
 Like the factory owner Engels, he was blissfully unaware that it is the self-
 activity of the non-"elite" on the shop floor (the product of which the boss
 monopolises) that keeps the whole hierarchical structure going (as we discuss
-in [section H.4.4](secH4.html#sech44), the work to rule -- were workers do
+in [section H.4.4](secH4.md#sech44), the work to rule -- were workers do
 **exactly** what the boss orders them to do -- is a devastating weapon in the
 class struggle). It does seem somewhat ironic that the anti-Marxist Rothbard
 should has recourse to the same argument as Engels in order to refute the
@@ -280,7 +280,7 @@ So, as Rothbard admits, inequality produces a **class** system and
 authoritarian social relationships which are rooted in ownership and control
 of private property. These produce specific areas of conflict over liberty, a
 fact of life which Rothbard (like other "anarcho"-capitalists) is keen to deny
-as we discuss in [section F.3.2](secF3.html#secf32). Thus, for anarchists, the
+as we discuss in [section F.3.2](secF3.md#secf32). Thus, for anarchists, the
 "anarcho"-capitalist opposition to equality misses the point and is extremely
 question begging. Anarchists do not desire to make people "identical" (which
 would be impossible and a total denial of liberty **and** equality) but to
@@ -426,16 +426,16 @@ Anarchists**]
 
 This assumption of (relative) equality comes to the fore in Murray Rothbard's
 "Homesteading" concept of property (discussed in [section
-F.4.1](secF4.html#secf41)). "Homesteading" paints a picture of individuals and
+F.4.1](secF4.md#secf41)). "Homesteading" paints a picture of individuals and
 families going into the wilderness to make a home for themselves, fighting
 against the elements and so forth. It does **not** invoke the idea of
 transnational corporations employing tens of thousands of people or a
 population without land, resources and selling their labour to others.
 Rothbard as noted argued that economic power does not exist (at least under
-capitalism, as we saw in [section F.1](secF1.html) he does make -- highly
+capitalism, as we saw in [section F.1](secF1.md) he does make -- highly
 illogical -- exceptions). Similarly, David Friedman's example of a pro-death
 penalty and anti-death penalty "defence" firm coming to an agreement (see
-[section F.6.3](secF6.html#secf63)) implicitly assumes that the firms have
+[section F.6.3](secF6.md#secf63)) implicitly assumes that the firms have
 equal bargaining powers and resources -- if not, then the bargaining process
 would be very one-sided and the smaller company would think twice before
 taking on the larger one in battle (the likely outcome if they cannot come to
@@ -484,8 +484,8 @@ Spanish Anarchists**, p. 260]
 
 If we take the labour market, it is clear that the "buyers" and "sellers" of
 labour power are rarely on an equal footing (if they were, then capitalism
-would soon go into crisis -- see [ section C.7](secC7.html)). As we stressed
-in [section C.9](secC9.html), under capitalism competition in labour markets
+would soon go into crisis -- see [ section C.7](secC7.md)). As we stressed
+in [section C.9](secC9.md), under capitalism competition in labour markets
 is typically skewed in favour of employers. Thus the ability to refuse an
 exchange weighs most heavily on one class than another and so ensures that
 "free exchange" works to ensure the domination (and so exploitation) of one by
@@ -722,7 +722,7 @@ fraud"_ it produced. [**An Enquiry into Political Justice**, p. 732]
 Moreover, we should note that Rothbard's diatribe against unions also
 implicitly acknowledges the socialist critique of capitalism which stresses
 that it is being subject to the authority of boss during work hours which
-makes exploitation possible (see [section C.2](secC2.html)). If wages
+makes exploitation possible (see [section C.2](secC2.md)). If wages
 represented the workers' "marginal" contribution to production, bosses would
 not need to ensure their orders were followed. So any real boss fights unions
 precisely because they limit their ability to extract as much product as
@@ -740,7 +740,7 @@ and p. 234] True, he does not say that the wages will reach equilibrium (and
 what stops them, unless, in part, it is the actions of entrepreneurs
 disrupting the economy?) however, it is strange that the labour market can
 approximate a situation which Austrian economists claim does not exist!
-However, as noted in [section C.1.6](secC1.html#secc16) this fiction is
+However, as noted in [section C.1.6](secC1.md#secc16) this fiction is
 required to hide the obvious economic power of the boss class under
 capitalism.
 
@@ -797,15 +797,15 @@ perfectly aware of how wages were set in a market where workers have the upper
 hand and, consequently, sought to use the state to hamper the market. As they
 have constantly done since the dawn of capitalism as, unlike certain
 economists, they are fully aware of the truth of _"harmony of interests"_ and
-acted accordingly. As we document in [section F.8](secF8.html), the history of
+acted accordingly. As we document in [section F.8](secF8.md), the history of
 capitalism is filled with the capitalist class using the state to enforce the
 kind of _"harmony of interests"_ which masters have always sought --
 obedience. This statist intervention has continued to this day as, in
 practice, the capitalist class has never totally relied on economic power to
 enforce its rule due to the instability of the capitalist market -- see
-[section C.7](secC7.html) \-- as well as the destructive effects of market
+[section C.7](secC7.md) \-- as well as the destructive effects of market
 forces on society and the desire to bolster its position in the economy at the
-expense of the working class -- see [section D.1](secD1.html). That the
+expense of the working class -- see [section D.1](secD1.md). That the
 history and current practice of capitalism was not sufficient to dispel
 Rothbard of his _"harmony of interests"_ position is significant. But, as
 Rothbard was always at pains to stress as a good "Austrian" economist,
@@ -1021,8 +1021,8 @@ So, to conclude. Both the history and current practice of capitalism shows
 that there can be no harmony of interests in an unequal society. Anyone who
 claims otherwise has not been paying attention.
 
-[‹ F.2 What do "anarcho"-capitalists mean by freedom?](/afaq/secF2.html "Go to
-previous page" ) [up](/afaq/secFcon.html "Go to parent page" ) [F.4 What is
-the right-"libertarian" position on private property? ›](/afaq/secF4.html "Go
-to next page" )
+[‹ F.2 What do "anarcho"-capitalists mean by freedom?](secF2.md "Go to
+previous page" ) [up](secFcon.md "Go to parent page" ) [F.4 What is the
+right-"libertarian" position on private property? ›](secF4.md "Go to next
+page" )
 

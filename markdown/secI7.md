@@ -14,7 +14,7 @@ power and initiative are certainly one of the chief defects of our time.
 Economical individualism has not kept its promise: it did not result in any
 striking development of individuality."_ [**Ethics**, p. 27 and p. 28] In
 effect, modern capitalism has reduced individuality to a parody of what it
-could and should be (see [section I.7.4](secI7.html#seci74)). Little wonder
+could and should be (see [section I.7.4](secI7.md#seci74)). Little wonder
 Emma Goldman argued that:
 
 > _"The oft repeated slogan of our time is . . . that ours is an era of
@@ -49,7 +49,7 @@ is this conformity and lack of "individualism" a constant feature of the human
 race? In order to make some sort of statement on this, we have to look at non-
 hierarchical societies and organisations. We will discuss tribal cultures as
 an example of non-hierarchical societies in [section
-I.7.1](secI7.html#seci71). Here, however, we indicate how anarchist
+I.7.1](secI7.md#seci71). Here, however, we indicate how anarchist
 organisations will protect and increase an individual's sense of self.
 
 Anarchist organisations and tactics are designed to promote individuality.
@@ -121,7 +121,7 @@ or manage their own activity. This will have in impact in all aspects of an
 individual's life.
 
 Hierarchy in all its forms produces oppression and a crushing of individuality
-(see [section B.1](secB1.html)). In such a system, as left-wing classical
+(see [section B.1](secB1.md)). In such a system, as left-wing classical
 liberal John Stuart Mill argued, the _"business"_ side of group activities
 would be _"properly carried out"_ but at the expense of the individuals
 involved. Anarchists agree with Mill when he called it _"benevolent
@@ -175,7 +175,7 @@ Oliver: _"Who hasn't been changed by the revolution? It wouldn't be worth
 making it just to continue being the same."_ [quoted by Abel Paz, **Durruti in
 the Spanish Revolution**, p. 498]).
 
-Such a re-organisation (as we will see in [section J.2](secJ2.html)) is based
+Such a re-organisation (as we will see in [section J.2](secJ2.md)) is based
 upon the tactic of **direct action.** This tactic also encourages
 individuality by encouraging the individual to fight for themselves, by their
 own self-activity, that which they consider to be wrong. As Voltairine de
@@ -354,7 +354,7 @@ It means that people simply do not limit the activities of others, period
 (unless that behaviour is threatening the survival of the tribe). This in
 effect makes absolute tolerance a custom (the difference between law and
 custom is important to point out: Law is dead, and Custom lives -- see
-[section I.7.3](secI7.html#seci73)). This is not to idealise such communities
+[section I.7.3](secI7.md#seci73)). This is not to idealise such communities
 as they are must be considered imperfect anarchist societies in many ways
 (mostly obviously in that many eventually evolved into hierarchical systems so
 suggesting that informal hierarchies, undoubtedly a product of religion and
@@ -413,7 +413,7 @@ upon and extended a freedom crushed by capitalism (namely workers' self-
 management in production). Rather than being backward looking and worshipping
 a past which was disappearing, Proudhon analysed the present **and** past,
 drew any positive features he could from both and applied them to the present
-and the future (see also [section I.3.8](secI3.html#seci38)). Unlike Marx, who
+and the future (see also [section I.3.8](secI3.md#seci38)). Unlike Marx, who
 argued that industrialisation (i.e. proletarianisation) was the pre-condition
 of socialism, Proudhon wanted justice and freedom for working class people
 during his lifetime, not some (unspecified) time in the future after
@@ -467,7 +467,7 @@ ways of living have and do exist is essential. It is too easy to forget that
 what exists under modern capitalism has not always existed (as neo-classical
 economics does with its atomistic and ahistoric analysis, for example). It is
 also useful to remember what many people now consider as "normal" was not
-always the case. As we discussed in [section F.8.6](secF8.html#secf86), the
+always the case. As we discussed in [section F.8.6](secF8.md#secf86), the
 first generation of industrial wage slaves **hated** the system, considering
 it both tyranny and unnatural. Studying history, previous cultures and the
 process of hierarchical society and the resistance of the oppressed to it can
@@ -556,7 +556,7 @@ and hateful. This is because the _"conception of good or evil varies according
 to the degree of intelligence or of knowledge acquired. There is nothing
 unchangeable about it."_ [Kropotkin, **Op. Cit.**, p. 92] Only by removing the
 dead hand of the past can society's ethical base develop and grow with the
-individuals that make it up (see [section A.2.19](secA2.html#seca219) for a
+individuals that make it up (see [section A.2.19](secA2.md#seca219) for a
 discussion of anarchist ethics).
 
 We should also like to point out here that laws (or _"The Law"_) also restrict
@@ -626,7 +626,7 @@ been far more at the forefront of denying and ignoring individual rights and
 so appealing to it for justice is, to say the least, problematic!
 
 As such, anarchists are well aware that social custom can be oppressive and,
-as discussed in [section I.5.6](secI5.html#seci56), argue for direct action by
+as discussed in [section I.5.6](secI5.md#seci56), argue for direct action by
 oppressed minorities to combat any tendency towards "dictatorship by the
 majority". Anarchists, as Kropotkin suggested, are _"the last to underrate the
 part which the self-assertion of the individual has played in the evolution of
@@ -750,7 +750,7 @@ identified purely with monetary gain (as in capitalism);
 to authority.
 
 We have discussed point one on many occasions (see, for example, [section
-B.4](secB4.html)). As Emma Goldman put it, under capitalism, the individual
+B.4](secB4.md)). As Emma Goldman put it, under capitalism, the individual
 _"must sell his [or her] labour"_ and so their _"inclination and judgement are
 subordinated to the will of a master."_ This, naturally, represses individual
 initiative and the skills needed to know and express ones own mind. This
@@ -777,7 +777,7 @@ capitalism cannot foster individuality but only harm it. As Kropotkin argued,
 _"obedience towards individuals or metaphysical entities . . . lead to
 depression of initiative and servility of mind."_ [**Anarchism**, p. 285] As
 far as point two goes, we have discussed it above and will not repeat
-ourselves (see [section I.7](secI7.html)). The last two points are worth
+ourselves (see [section I.7](secI7.md)). The last two points are worth
 discussing more thoroughly, and we will do so here.
 
 Taking the third point first, when this kind of "greed" becomes the guiding
@@ -837,7 +837,7 @@ the office or factory where co-workers are rivals, beating out the next person
 for a promotion means pleasing the boss. Competition acts to extinguish the
 Promethean fire of rebellion."_ [**Op. Cit.**, p. 130]
 
-In [section I.4.11](secI4.html#seci411) we noted that when an artistic task is
+In [section I.4.11](secI4.md#seci411) we noted that when an artistic task is
 turned into a contest, children's work reveal significantly less spontaneity
 and creativity. In other words, competition reduces creativity and so
 individuality because creativity is _"anti-conformist at its core: it is
@@ -854,8 +854,8 @@ So, far from defending individuality, capitalism places a lot of barriers
 express their freedom. Anarchism exists precisely because capitalism has not
 created the free society it supporters claimed it would.
 
-[‹ I.6 What about the "Tragedy of the Commons"?](/afaq/secI6.html "Go to
-previous page" ) [up](/afaq/secIcon.html "Go to parent page" ) [I.8 Does
-revolutionary Spain show that libertarian socialism can work in practice?
-›](/afaq/secI8.html "Go to next page" )
+[‹ I.6 What about the "Tragedy of the Commons"?](secI6.md "Go to previous
+page" ) [up](secIcon.md "Go to parent page" ) [I.8 Does revolutionary Spain
+show that libertarian socialism can work in practice? ›](secI8.md "Go to
+next page" )
 

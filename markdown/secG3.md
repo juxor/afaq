@@ -43,7 +43,7 @@ market capitalism."_ [**Anarchism: A Short Introduction**, pp. 2-3, p. 62, p.
 In this section we will sketch these differences between the genuine
 libertarian ideas of Individualist Anarchism and the bogus "anarchism" of
 right-"libertarian" ideology. This discussion builds upon our general critique
-of "anarcho"-capitalism we presented in [section F](secFcon.html). However,
+of "anarcho"-capitalism we presented in [section F](secFcon.md). However,
 here we will concentrate on presenting individualist anarchist analysis of
 "anarcho"-capitalist positions rather than, as before, mostly social anarchist
 ones (although, of course, there are significant overlaps and similarities).
@@ -96,7 +96,7 @@ answered. While Rothbard notes that juries may defend the people against the
 state, the notion that they may defend the people against the authority and
 power of the rich is not even raised. That is why the rich have tended to
 oppose juries as well as popular assemblies. Unsurprisingly, as we indicated
-in [section F.6.1](secF6.html#secf61), Rothbard wanted laws to be made by
+in [section F.6.1](secF6.md#secf61), Rothbard wanted laws to be made by
 judges, lawyers, jurists and other "libertarian" experts rather than jury
 judged and driven. In other words, to exclude the general population from any
 say in the law and how it changes. This hardly a _"minor"_ difference! It is
@@ -118,7 +118,7 @@ while Rothbard's is autocratic and fossilised.
 
 This is particularly the case if you are proposing an economic system that is
 based on inequalities of wealth, power and influence and the means of
-accumulating more. As we note in [section G.3.3](secG3.html#secg33), one of
+accumulating more. As we note in [section G.3.3](secG3.md#secg33), one of
 the few individualist anarchists that remained pointed this out and opposed
 Rothbard's arguments. As such, while Rothbard may have subscribed to a system
 of competing defence companies like Tucker, he expected them to operate in a
@@ -135,7 +135,7 @@ it! In a predominantly rural economy, as was the case during most of the 19th
 century in America, this would result in a significant levelling of income and
 social power as well as bolstering the bargaining position of non-land workers
 by reducing the numbers forced onto the labour market (which, as we note in
-[section F.8.5](secF8.html#secf85), was the rationale for the state enforcing
+[section F.8.5](secF8.md#secf85), was the rationale for the state enforcing
 the land monopoly in the first place). He bemoans that landlords cannot charge
 rent on their _"justly-acquired private property"_ without noticing that is
 begging the question as anarchists deny that this is _"justly-acquired"_ land
@@ -209,7 +209,7 @@ Clearly a position which Rothbard had no sympathy for, unlike landlords.
 Strange, though, that Rothbard did not consider the obvious liberty destroying
 effects of the monopolisation of land and natural resources as _"rational
 grounds"_ for opposing landlords but, then, as we noted in [section
-F.1](secF1.html) when it came to private property Rothbard simply could not
+F.1](secF1.md) when it came to private property Rothbard simply could not
 see its state-like qualities -- even when he pointed them out himself! For
 Rothbard, the individualist anarchist position involved a _"hobbling of land
 sites or of optimum use of land ownership and cultivation and such arbitrary
@@ -249,7 +249,7 @@ bulk of their time and energy emphasising their most fallacious or
 unlibertarian points."_ [**Op. Cit.**, p. 14] He pointed to the followers of
 Henry George and their opposition to the current land holding system and the
 monetary views of the individualist anarchists as examples (see [section
-G.3.6](secG3.html#secg36) for a critique of Rothbard's position on mutual
+G.3.6](secG3.md#secg36) for a critique of Rothbard's position on mutual
 banking). Of course, both groups would reply that Rothbard's positions were,
 in fact, both fallacious and unlibertarian in nature. As, indeed, did Tucker
 decades before Rothbard proclaimed his private statism a form of "anarchism."
@@ -289,7 +289,7 @@ ideology best left unexplored? Given that the idea of grounding rulership on
 land ownership receded during the Middle Ages, it may be unwise to note that
 under "anarcho"-capitalism the landlord and capitalist would, likewise, be
 sovereign over the land **and** those who used it? As we noted in [section
-F.1](secF1.html), this is the conclusion that Rothbard does draw. As such,
+F.1](secF1.md), this is the conclusion that Rothbard does draw. As such,
 there **is** a political aspect to this difference, namely the difference
 between a libertarian social system and one rooted in authority.
 
@@ -451,7 +451,7 @@ As far as class analysis goes, which allegedly _"divided society into economic
 classes that were at war with each other"_, it can be seen that the "left"
 anarchists were simply acknowledging the reality of the situation -- as did,
 it must be stressed, the individualist anarchists. As we noted in [section
-G.1](secG1.html), the individualist anarchists were well aware that there was
+G.1](secG1.md), the individualist anarchists were well aware that there was
 a class war going on, one in which the capitalist class used the state to
 ensure its position (the individualist anarchist _"knows very well that the
 present State is an historical development, that it is simply the tool of the
@@ -543,12 +543,12 @@ Individualist Anarchists**, p. 157]
 It should also be noted that the "left" anarchist opposition to the
 individualist anarchist "free market" is due to an analysis which argues that
 it will not, in fact, result in the anarchist aim of ending exploitation nor
-will it maximise individual freedom (see [section G.4](secG4.html)). We do not
+will it maximise individual freedom (see [section G.4](secG4.md)). We do not
 "hate" the free market, rather we love individual liberty and seek the best
 kind of society to ensure free people. By concentrating on markets being free,
 "anarcho"-capitalism ensures that it is wilfully blind to the freedom-
 destroying similarities between capitalist property and the state (as we
-discussed in [section F.1](secF1.html)). An analysis which many individualist
+discussed in [section F.1](secF1.md)). An analysis which many individualist
 anarchists recognised, with the likes of Dyer Lum seeing that replacing the
 authority of the state with that of the boss was no great improvement in terms
 of freedom and so advocating co-operative workplaces to abolish wage slavery.
@@ -626,7 +626,7 @@ radical critiques of capitalism provided by Proudhon and Marx. In contrast,
 "anarcho"-capitalism's major (indeed, predominant) influence is "Austrian"
 economists, an ideology developed (in part) to provide intellectual support
 against such movements and their proposals for reform. As we will discuss in
-the [next section](secG3.html#secg32), this explains the quite fundamental
+the [next section](secG3.md#secg32), this explains the quite fundamental
 differences between the two systems for all the attempts of
 "anarcho"-capitalists to appropriate the legacy of the likes of Tucker.
 
@@ -678,7 +678,7 @@ property rights in favour of possession (including the full fruits of one's
 labour). For example, anarchists reject private ownership of land in favour of
 a "occupancy and use" regime. In this we follow Proudhon's **What is
 Property?** and argue that _"property is theft"_ as well as _"despotism"_.
-Rothbard, as noted in the [section F.1](secF1.html), rejected this
+Rothbard, as noted in the [section F.1](secF1.md), rejected this
 perspective.
 
 As these ideas are an **essential** part of anarchist politics, they cannot be
@@ -714,11 +714,11 @@ markets cannot be equated with support for capitalism. Equally, opposition to
 markets is **not** the defining characteristic of socialism. As such, it
 **is** possible to be a market socialist (and many socialists are) as
 "markets" and "property" do not equate to capitalism as we proved in sections
-[G.1.1](secG1.html#secg11) and [G.1.2](secG1.html#secg12) respectively.
+[G.1.1](secG1.md#secg11) and [G.1.2](secG1.md#secg12) respectively.
 
 One apparent area of overlap between individualist anarchism and
 "anarcho"-capitalism is the issue of wage labour. As we noted in [section
-G.1.3](secG1.html#secg13), unlike social anarchists, some individualist
+G.1.3](secG1.md#secg13), unlike social anarchists, some individualist
 anarchists were not consistently against it. However, this similarity is more
 apparent than real as the individualist anarchists were opposed to
 exploitation and argued (unlike "anarcho"-capitalism) that in their system
@@ -726,7 +726,7 @@ workers bargaining powers would be raised to such a level that their wages
 would equal the full product of their labour and so it would not be an
 exploitative arrangement. Needless to say, social anarchists think this is
 unlikely to be the case and, as we discuss in [section
-G.4.1](secG4.html#secg41), individualist anarchist support for wage labour is
+G.4.1](secG4.md#secg41), individualist anarchist support for wage labour is
 in contradiction to many of the stated basic principles of the individualist
 anarchists themselves. In particular, wage labour violates "occupancy and use"
 as well as having more than a passing similarity to the state.
@@ -847,7 +847,7 @@ property! Not to mention that nine tenths of property is currently possessed
 necessity have to work for them. This is a situation the law was designed to
 protect, including (apparently) a so-called "libertarian" one.
 
-This wider impact is key. As we indicated in [section F.8](secF8.html), state
+This wider impact is key. As we indicated in [section F.8](secF8.md), state
 coercion (particularly in the form of the land monopoly) was essential in the
 development of capitalism. By restricting access to land, working class people
 had little option but to seek work from landlords and capitalists. Thus the
@@ -947,7 +947,7 @@ Socialist Party could seize state power and implement the necessary changes to
 ensure that the state withered away. No one has ever considered them
 anarchists in spite of the common aim of ending the state yet many consider
 Rothbard to be an anarchist despite advocating the same methods as the
-Marxists. As we noted in [section F.8](secF8.html), a better term for
+Marxists. As we noted in [section F.8](secF8.md), a better term for
 "anarcho"-capitalism could be "Marxist-capitalism" and Rothbard's argument for
 "political action" confirms that suggestion.
 
@@ -967,7 +967,7 @@ others. One, A.H. Simpson, argued that the trade unions _"are as despotic and
 arbitrary as any other organisation, and no more Anarchistic than the Pullman
 or Carnegie companies."_ In other words, the unions were to be opposed because
 they were like capitalist corporations! [**The Individualist Anarchists**, p.
-285 and p. 288] For Tucker, as we note in [section G.5](secG5.html), unions
+285 and p. 288] For Tucker, as we note in [section G.5](secG5.md), unions
 were _"a movement for self-government on the part of the people"_ and it was
 _"in supplanting"_ the state _"by an intelligent and self-governing socialism
 that the trades unions develop their chief significance."_ [**Liberty**, no.
@@ -1043,14 +1043,14 @@ workers who receive the full equivalent of their product. This means that they
 supported the idea of a market in "defence associations" to ensure that the
 fruits of an individual's labour would not be stolen by others. Again, the
 social context of individualist anarchism -- namely, an egalitarian economy
-without exploitation of labour (see [section G.3.4](secG3.html#secg34)) -- is
+without exploitation of labour (see [section G.3.4](secG3.md#secg34)) -- is
 crucial for understanding these proposals. However, as in their treatment of
 Tucker's support for contract theory, "anarcho"-capitalists remove the
 individualist anarchists' ideas about free-market defence associations and
 courts from the social context in which they were proposed, using those ideas
 in an attempt to turn the individualists into defenders of capitalism.
 
-As indicated in [section G.1.4](secG1.html#secg14), the social context in
+As indicated in [section G.1.4](secG1.md#secg14), the social context in
 question was one in which an economy of artisans and peasant farmers was being
 replaced by a state-backed capitalism. This context is crucial for
 understanding the idea of the "defence associations" that Tucker suggested.
@@ -1172,7 +1172,7 @@ difference lost on the private staters). Where social anarchists disagree with
 individualist anarchists is on whether a market system will actually produce
 such equality, particularly one without workers' self-management replacing the
 authority inherent in the capitalist-labourer social relationship. As we
-discuss in [section G.4](secG4.html), without the equality and the egalitarian
+discuss in [section G.4](secG4.md), without the equality and the egalitarian
 relationships of co-operative and artisan production there would be a tendency
 for capitalism and private statism to erode anarchy.
 
@@ -1191,7 +1191,7 @@ they may have sufficient courage and strength to keep their masters somewhat
 in check; but they are nevertheless known to the law only as slaves."_
 [**Trial by Jury**] It is hardly surprising that Rothbard rejects this in
 favour of a legal system determined and interpreted by lawyers, judges and
-jurists. Indeed, as we noted in [section F.6.1](secF6.html#secf61), Rothbard
+jurists. Indeed, as we noted in [section F.6.1](secF6.md#secf61), Rothbard
 explicitly rejected the idea that juries should be able to judge the law as
 well as the facts of a case under his system. Spooner would have had no
 problem recognising that replacing government imposed laws with those made by
@@ -1219,7 +1219,7 @@ camel."_ [quoted by Mildred J. Loomis and Mark A. Sullivan, _"Laurance
 Labadie: Keeper Of The Flame"_, pp. 116-30, **Benjamin R. Tucker and the
 Champions of Liberty**, Coughlin, Hamilton and Sullivan (eds.), p. 124]
 
-As we argued in detail in [section F.6](secF6.html), a market for "defence
+As we argued in detail in [section F.6](secF6.md), a market for "defence
 associations" within an unequal system based on extensive wage labour would
 simply be a system of private states, enforcing the authority of the property
 owner over those who use but do not own their property. Such an outcome can
@@ -1250,7 +1250,7 @@ justified in questioning their use of that label. Thirdly, and most
 importantly, no one advocates a means which would not result in their desired
 ends. If Tucker and Spooner did not think their system would result in their
 goals they would have either changed their goals or changed their method. As
-noted in [section G.1.1](secG1.html#secg11), Tucker explicitly argued that
+noted in [section G.1.1](secG1.md#secg11), Tucker explicitly argued that
 concentrations of wealth under capitalism had reached such levels that his
 system of free competition would not end it. Clearly, then, outcomes were
 important to individualist anarchists.
@@ -1322,13 +1322,13 @@ Another another key difference between genuine individualist anarchism and
 lack of concern for it.
 
 In stark contrast to anarchists of all schools, inequality is not seen to be a
-problem with "anarcho"-capitalists (see [section F.3](secF3.html)). However,
+problem with "anarcho"-capitalists (see [section F.3](secF3.md)). However,
 it is a truism that not all "traders" are equally subject to the market (i.e.,
 have the same market power). In many cases, a few have sufficient control of
 resources to influence or determine price and in such cases, all others must
 submit to those terms or not buy the commodity. When the commodity is labour
 power, even this option is lacking -- workers have to accept a job in order to
-live. As we argued in [section C.9](secC9.html), workers are usually at a
+live. As we argued in [section C.9](secC9.md), workers are usually at a
 disadvantage on the labour market when compared to capitalists, and this
 forces them to sell their liberty in return for making profits for others.
 These profits increase inequality in society as the property owners receive
@@ -1337,14 +1337,14 @@ consolidating market power and so weakens the bargaining position of workers
 further, ensuring that even the freest competition possible could not
 eliminate class power and society (something Tucker eventually recognised as
 occurring with the development of trusts within capitalism -- see [section
-G.1.1](secG1.html#secg11)).
+G.1.1](secG1.md#secg11)).
 
 By removing the underlying commitment to abolish non-labour income, any
 "anarchist" capitalist society would have vast differences in wealth and so
 power. Instead of government imposed monopolies in land, money and so on, the
 economic power flowing from private property and capital would ensure that the
 majority remained in (to use Spooner's words) _"the condition of servants"_
-(see sections [F.2](secF2.html) and [F.3.1](secF3.html#secf31) for more on
+(see sections [F.2](secF2.md) and [F.3.1](secF3.md#secf31) for more on
 this). The Individualist Anarchists were aware of this danger and so supported
 economic ideas that opposed usury (i.e. rent, profit and interest) and ensured
 the worker the full value of her labour. While not all of them called these
@@ -1480,7 +1480,7 @@ tradition and only embraced its critique of previous defences of non-labour
 incomes.
 
 We have already critiqued the "time preference" justification for interest in
-[section C.2.7](secC2.html#secc27) so will not go into it in much detail here.
+[section C.2.7](secC2.md#secc27) so will not go into it in much detail here.
 Rothbard argued that it _"should be remembered by radicals that, if they
 wanted to, all workers could refuse to work for wages and instead form their
 own producers' co-operatives and wait for years for their pay until the
@@ -1565,7 +1565,7 @@ Economics and Sociology**, Vol. 39, No. 4, p. 394]
 Given Tucker's opposition to rent, interest and profit it should go without
 saying that he rejected the neo-classical and "Austrian" notion that a
 workers' wages equalled the "marginal product," i.e. its contribution to the
-production process (see [section C.2](secC2.html) for a critique of this
+production process (see [section C.2](secC2.md) for a critique of this
 position). Basing himself on the socialist critique of classical economics
 developed by Proudhon and Marx, he argued that non-labour income was usury and
 would be driven to zero in a genuinely free market. As such, any notion that
@@ -1624,7 +1624,7 @@ chasing a given set of goods, so leading to price rises and inflation.
 Rothbard, for example, dismissed individualist anarchist ideas on mutual
 banking as being _"totally fallacious monetary views."_ He based his critique
 on "Austrian" economics and its notion of _"time preference"_ (see [section
-C.2.7](secC2.html#secc27) for a critique of this position). Mutual banking
+C.2.7](secC2.md#secc27) for a critique of this position). Mutual banking
 would artificially lower the interest rate by generating credit, Rothbard
 argued, with the new money only benefiting those who initially get it. This
 process "exploits" those further down the line in the form accelerating
@@ -1667,7 +1667,7 @@ distortions in the 'structure of production.'"_ [**The Essential Kaldor**, pp.
 Firstly, the claim that inflation is always and everywhere a monetary
 phenomena has been empirically refuted -- often using Friedman's own data and
 attempts to apply his dogma in real life. As we noted in [section
-C.8.3](secC8.html#secc83), the growth of the money supply and inflation have
+C.8.3](secC8.md#secc83), the growth of the money supply and inflation have
 no fixed relationship, with money supply increasing while inflation falls. As
 such, _"the claim that inflation is always and everywhere caused by increases
 in the money supply, and that the rate of inflation bears a stable,
@@ -1791,7 +1791,7 @@ level."_ A crash, according to Rothbard, is the process of restoring the rate
 of interest to its _"proper"_ level yet a crash can occur even if the interest
 rate is at that rate, assuming that the banks can discover this equilibrium
 rate and have an incentive to do so (as we discussed in [section
-C.8](secC8.html) both are unlikely). Ultimately, credit expansion fails under
+C.8](secC8.md) both are unlikely). Ultimately, credit expansion fails under
 capitalism because it runs into the contradictions within the capitalist
 economy, the need for capitalists, financiers and landlords to make profits
 via exploiting labour. As interest rates increase, capitalists have to service
@@ -1845,7 +1845,7 @@ market . . . Labour will then be in a position to dictate its wages."_
 
 And, it must also be stressed, this was a key reason why the capitalist class
 turned against Keynesian full employment policies in the 1970s (see [section
-C.8.3](secC8.html#secc83)). Lower interest rates and demand management by the
+C.8.3](secC8.md#secc83)). Lower interest rates and demand management by the
 state lead precisely to the outcome predicted by the likes of Tucker, namely
 an increase in working class power in the labour market as a result of a
 lowering of unemployment to unprecedented levels. This, however, lead to
@@ -1979,7 +1979,7 @@ of the assumer (like Rothbard). In this, he did share the same method if not
 exactly the same conclusions as the Individualist Anarchists and Mutualists.
 
 Needless to say, social anarchists do not agree that mutual banking can reform
-capitalism away. As we discuss in [section G.4](secG4.html), this is due to
+capitalism away. As we discuss in [section G.4](secG4.md), this is due to
 many factors, including the natural barriers to competition capital
 accumulation creates. However, this critique is based on the real economy and
 does not reflect Rothbard's abstract theorising based on pre-scientific
@@ -1992,8 +1992,8 @@ the labourers."_ [Don Werkheiser, _"Benjamin R. Tucker: Champion of Free
 Money"_, pp. 212-221, **Benjamin R. Tucker and the Champions of Liberty**,
 Coughlin, Hamilton and Sullivan (eds.), p. 212]
 
-[‹ G.2 Why do individualist anarchists reject social
-anarchism?](/afaq/secG2.html "Go to previous page" ) [up](/afaq/secGcon.html
-"Go to parent page" ) [G.4 Why do social anarchists reject individualist
-anarchism? ›](/afaq/secG4.html "Go to next page" )
+[‹ G.2 Why do individualist anarchists reject social anarchism?](secG2.md
+"Go to previous page" ) [up](secGcon.md "Go to parent page" ) [G.4 Why do
+social anarchists reject individualist anarchism? ›](secG4.md "Go to next
+page" )
 
