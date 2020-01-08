@@ -4,7 +4,7 @@ afaq
 
 This repository contains the source files from the online book
 [An Anarchist FAQ (AFAQ)](http://www.anarchism.pageabode.com/afaq/index.html)
-obtained automatically with [afaq-dl](https://0xacab/ju/afaq-dl),
+obtained automatically with [afaq-dl](https://0xacab.org/ju/afaq-dl),
 which download the HTML files and convert them to other formats.
 
 
