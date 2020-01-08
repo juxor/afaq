@@ -19,13 +19,13 @@ interests of dominant sectors to the accompaniment of rhetorical flourishes
 about its exceptional dedication to the highest values"_ and so _"the evidence
 for . . . the proclaimed messianic missions reduces to routine
 pronouncements"_ (faithfully repeated by the media) while _"counter-evidence
-is mountainous."_ [**Failed States**, p. 171 and pp. 203-4]
+is mountainous."_ [ **Failed States** , p. 171 and pp. 203-4]
 
 We must stress that we are concentrating on the roots of imperialism here. We
 do not, and cannot, provide a detailed history of the horrors associated with
 it. For US imperialism, the works of Noam Chomsky are recommended. His books
 **Turning the Tide** and **The Culture of Terrorism** expose the evils of US
-intervention in Central America, for example, while **Deterring Democracy**,
+intervention in Central America, for example, while **Deterring Democracy** ,
 **Rogue States: The Rule of Force in World Affairs** and **Failed States: The
 Abuse of Power and the Assault on Democracy** present a wider perspective.
 **Killing Hope: US Military and CIA Interventions Since World War II** and
@@ -55,17 +55,17 @@ when monarchies were replaced by more democratic forms of government. As
 Bakunin argued:
 
 > _"we find wars of extermination, wars among races and nations; wars of
-conquest, wars to maintain equilibrium, political and religious wars, wars
-waged in the name of 'great ideas' . . . , patriotic wars for greater national
-unity . . . And what do we find beneath all that, beneath all the hypocritical
-phrases used in order to give these wars the appearance of humanity and right?
-Always the same economic phenomenon: **the tendency on the part of some to
-live and prosper at the expense of others.** All the rest is mere humbug. The
-ignorant and naive, and the fools are entrapped by it, but the strong men who
-direct the destinies of the State know only too well that underlying all those
-wars there is only one motive: pillage, the seizing of someone else's wealth
-and the enslavement of someone else's labour."_ [**The Political Philosophy of
-Bakunin**, p. 170]
+> conquest, wars to maintain equilibrium, political and religious wars, wars
+> waged in the name of 'great ideas' . . . , patriotic wars for greater
+> national unity . . . And what do we find beneath all that, beneath all the
+> hypocritical phrases used in order to give these wars the appearance of
+> humanity and right? Always the same economic phenomenon: **the tendency on
+> the part of some to live and prosper at the expense of others.** All the
+> rest is mere humbug. The ignorant and naive, and the fools are entrapped by
+> it, but the strong men who direct the destinies of the State know only too
+> well that underlying all those wars there is only one motive: pillage, the
+> seizing of someone else's wealth and the enslavement of someone else's
+> labour."_ [ **The Political Philosophy of Bakunin** , p. 170]
 
 However, while the economic motive for expansion is generally the same, the
 economic system which a nation is based on has a definite impact on what
@@ -85,23 +85,23 @@ new countries, a company can gain an advantage over its competitors as well as
 overcome limited markets and resources in the home nation. In Bakunin's words:
 
 > _"just as capitalist production and banking speculation, which in the long
-run swallows up that production, must, under the threat of bankruptcy,
-ceaselessly expand at the expense of the small financial and productive
-enterprises which they absorb, must become universal, monopolistic enterprises
-extending all over the world -- so this modern and necessarily military State
-is driven on by an irrepressible urge to become a universal State. . . .
-Hegemony is only a modest manifestation possible under the circumstances, of
-this unrealisable urge inherent in every State. And the first condition of
-this hegemony is the relative impotence and subjection of all the neighbouring
-States."_ [**Op. Cit.**, p. 210]
+> run swallows up that production, must, under the threat of bankruptcy,
+> ceaselessly expand at the expense of the small financial and productive
+> enterprises which they absorb, must become universal, monopolistic
+> enterprises extending all over the world -- so this modern and necessarily
+> military State is driven on by an irrepressible urge to become a universal
+> State. . . . Hegemony is only a modest manifestation possible under the
+> circumstances, of this unrealisable urge inherent in every State. And the
+> first condition of this hegemony is the relative impotence and subjection of
+> all the neighbouring States."_ [ **Op. Cit.** , p. 210]
 
 Therefore, economically and politically, the imperialistic activities of
 **both** capitalist and state-capitalist (i.e. the Soviet Union and other
 "socialist" nations) comes as no surprise. Capitalism is inevitably
 imperialistic and so _"[w]ar, capitalism and imperialism form a veritable
-trinity,"_ to quote Dutch pacifist-syndicalist Bart de Ligt [**The Conquest of
-Violence**, p. 64] The growth of big business is such that it can no longer
-function purely within the national market and so they have to expand
+trinity,"_ to quote Dutch pacifist-syndicalist Bart de Ligt [ **The Conquest
+of Violence** , p. 64] The growth of big business is such that it can no
+longer function purely within the national market and so they have to expand
 internationally to gain advantage in and survive. This, in turn, requires the
 home state of the corporations also to have global reach in order to defend
 them and to promote their interests. Hence the economic basis for modern
@@ -110,7 +110,7 @@ fight[ing] for the foreign markets and compete with each other there"_ and
 when they _"get into trouble about concessions and sources of profit,"_ they
 _"call upon their respective governments to defend their interests . . . to
 protect the privileges and dividends of some . . . capitalist in a foreign
-country."_ [Alexander Berkman, **What is Anarchism?**, p. 31] Thus a
+country."_ [Alexander Berkman, **What is Anarchism?** , p. 31] Thus a
 capitalist class needs the power of nation states not only to create internal
 markets and infrastructure but also to secure and protect international
 markets and opportunities in a world of rivals and **their** states.
@@ -124,8 +124,8 @@ potential competitors. As Kropotkin stressed, _"capital knows no fatherland;
 and if high profits can be derived from the work of Indian coolies whose wages
 are only one-half of those of English workmen [or women], or even less,
 capital will migrate to India, as it has gone to Russian, although its
-migration may mean starvation for Lancashire."_ [**Fields, Factories and
-Workshops**, p. 57]
+migration may mean starvation for Lancashire."_ [ **Fields, Factories and
+Workshops** , p. 57]
 
 Therefore, capital will travel to where it can maximise its profits --
 regardless of the human or environmental costs at home or abroad. This is the
@@ -167,11 +167,12 @@ the price of land, labour and raw materials cheaper. These factors all
 contribute to enlarging profit margins:
 
 > _"The relationship of these global corporations with the poorer countries
-had long been an exploiting one . . . Whereas U.S. corporations in Europe
-between 1950 and 1965 invested $8.1 billion and made $5.5 billion in profits,
-in Latin America they invested $3.8 billion and made $11.2 billion in profits,
-and in Africa they invested $5.2 billion and made $14.3 bullion in profits."_
-[Howard Zinn, **A People's History of the United States**, p. 556]
+> had long been an exploiting one . . . Whereas U.S. corporations in Europe
+> between 1950 and 1965 invested $8.1 billion and made $5.5 billion in
+> profits, in Latin America they invested $3.8 billion and made $11.2 billion
+> in profits, and in Africa they invested $5.2 billion and made $14.3 bullion
+> in profits."_ [Howard Zinn, **A People's History of the United States** , p.
+> 556]
 
 Betsy Hartman, looking at the 1980s, concurs. _"Despite the popular Western
 image of the Third World as a bottomless begging bowl,"_ she observes, _"it
@@ -179,7 +180,7 @@ today gives more to the industrialised world than it takes. Inflows of
 official 'aid' and private loans and investments are exceeded by outflows in
 the form of repatriated profits, interest payments, and private capital sent
 abroad by Third World Elites."_ [quoted by George Bradford, **Woman's Freedom:
-Key to the Population Question**, p. 77]
+Key to the Population Question** , p. 77]
 
 In addition, imperialism allows big business to increase its strength with
 respect to its workforce in the imperialist nation by the threat of switching
@@ -192,7 +193,7 @@ strength, and the workers . . . [won] increased wages, shorter hours,
 insurances, pensions, etc., the white exploiters found it profitable to obtain
 their labour from men [,women and children] of so-called inferior race . . .
 Capitalists can therefore make infinitely more out there than at home."_ [Bart
-de Ligt, **Op. Cit.**, p. 49]
+de Ligt, **Op. Cit.** , p. 49]
 
 As such, imperialism (like capitalism) is not only driven by the need to
 increase profits (important as this is, of course), it is also driven by the
@@ -232,18 +233,18 @@ competitors on the world market. Moreover, as Kropotkin noted, they has the
 advantage that the _"new manufacturers . . . begin where"_ the old have
 _"arrived after a century of experiments and groupings"_ and so they _"are
 built according to the newest and best models which have been worked out
-elsewhere."_ [**Op. Cit.**, p. 32 and p. 49] Hence the need to stop new
+elsewhere."_ [ **Op. Cit.** , p. 32 and p. 49] Hence the need to stop new
 competitors and secure raw materials and markets, which was achieved by
 colonialism:
 
 > _"Industries of all kinds decentralise and are scattered all over the globe;
-and everywhere a variety, an integrated variety, of trades grows, instead of
-specialisation . . . each nation becomes in its turn a manufacturing nation .
-. . For each new-comer the first steps only are difficult . . . The fact is so
-well felt, if not understood, that the race for colonies has become the
-distinctive feature of the last twenty years [Kropotkin is writing in 1912].
-Each nation will have her own colonies. But colonies will not help."_ [**Op.
-Cit.**, p. 75]
+> and everywhere a variety, an integrated variety, of trades grows, instead of
+> specialisation . . . each nation becomes in its turn a manufacturing nation
+> . . . For each new-comer the first steps only are difficult . . . The fact
+> is so well felt, if not understood, that the race for colonies has become
+> the distinctive feature of the last twenty years [Kropotkin is writing in
+> 1912]. Each nation will have her own colonies. But colonies will not help."_
+> [ **Op. Cit.** , p. 75]
 
 Imperialism hinders industrialisation in two ways. The first way was direct
 colonisation, a system which has effectively ended. The second is by indirect
@@ -255,7 +256,7 @@ colonisation, the imperialist powers ensure that the less-developed nation
 stays that way -- so ensuring one less competitor as well as favourable access
 to raw materials and cheap labour. French anarchist Elisee Reclus rightly
 called this a process of creating _"colonies of exploitation."_ [quoted by
-John P Clark and Camille Martin (eds.), **Anarchy, Geography, Modernity**, p.
+John P Clark and Camille Martin (eds.), **Anarchy, Geography, Modernity** , p.
 92]
 
 This approach has been superseded by indirect means (see [next
@@ -300,7 +301,7 @@ country, capital seeks to subdue the workers. Similarly, on the level of the
 broadest world market, capital, which had grown enormously, disregards all the
 old borders and seeks to put the entire mass of producers to work on behalf of
 its profits, and to secure all the consumers in the world."_ [Reclus, quoted
-by Clark and Martin (eds.), **Op. Cit.**, p. 97]
+by Clark and Martin (eds.), **Op. Cit.** , p. 97]
 
 This struggle for markets and resources does, by necessity, lead to conflict.
 This may be the wars of conquest required to initially dominate an
@@ -313,19 +314,20 @@ cannot be settled peacefully (as in the First and Second World Wars). As
 Kropotkin argued:
 
 > _"men no longer fight for the pleasure of kings, they fight for the
-integrity of revenues and for the growing wealth . . . [for the] benefit of
-the barons of high finance and industry . . . [P]olitical preponderance . . .
-is quite simply a matter of economic preponderance in international markets.
-What Germany, France, Russia, England, and Austria are all trying to win . . .
-is not military preponderance: it is economic domination. It is the right to
-impose their goods and their customs tariffs on their neighbours; the right to
-exploit industrially backward peoples; the privilege of building railroads . .
-. to appropriate from a neighbour either a port which will activate commerce,
-or a province where surplus merchandise can be unloaded . . . When we fight
-today, it is to guarantee our great industrialists a profit of 30%, to assure
-the financial barons their domination at the Bourse [stock-exchange], and to
-provide the shareholders of mines and railways with their incomes."_ [**Words
-of a Rebel**, pp. 65-6]
+> integrity of revenues and for the growing wealth . . . [for the] benefit of
+> the barons of high finance and industry . . . [P]olitical preponderance . .
+> . is quite simply a matter of economic preponderance in international
+> markets. What Germany, France, Russia, England, and Austria are all trying
+> to win . . . is not military preponderance: it is economic domination. It is
+> the right to impose their goods and their customs tariffs on their
+> neighbours; the right to exploit industrially backward peoples; the
+> privilege of building railroads . . . to appropriate from a neighbour either
+> a port which will activate commerce, or a province where surplus merchandise
+> can be unloaded . . . When we fight today, it is to guarantee our great
+> industrialists a profit of 30%, to assure the financial barons their
+> domination at the Bourse [stock-exchange], and to provide the shareholders
+> of mines and railways with their incomes."_ [ **Words of a Rebel** , pp.
+> 65-6]
 
 In summary, current imperialism is caused by, and always serves, the needs and
 interests of Capital. If it did not, if imperialism were bad for business, the
@@ -431,8 +433,8 @@ Europe and the Americas faced ruin. As economist Nicholas Kaldor notes, _"the
 arrival of cheap factory-made English goods **did** cause a loss of employment
 and output of small-scale industry (the artisanate) both in European countries
 (where it was later offset by large-scale industrialisation brought about by
-protection) and even more in India and China, where it was no so offset."_
-[**Further Essays on Applied Economics**, p. 238] The existing industrial base
+protection) and even more in India and China, where it was no so offset."_ [
+**Further Essays on Applied Economics** , p. 238] The existing industrial base
 was crushed, industrialisation was aborted and unemployment rose. These
 countries faced two possibilities: turn themselves into providers of raw
 materials for Britain or violate the principles of the market and
@@ -451,19 +453,19 @@ different lines of production. Obviously no national ruling class would want
 to see itself be dependent on another and so industrial development was
 essential (regardless of the wishes of the general population). Thus a nation
 in such a situation _"tries to emancipate herself from her dependency . . .
-and rapidly begins to manufacture all those goods she used to import."_
-[**Fields, Factories and Workshops**, p. 49 and p. 32]
+and rapidly begins to manufacture all those goods she used to import."_ [
+**Fields, Factories and Workshops** , p. 49 and p. 32]
 
 Protectionism may have violated the laws of neo-classical economics, but it
 proved essential for industrialisation. While, as Kropotkin argued,
 protectionism ensured _"the high profits of those manufacturers who do not
 improve their factories and chiefly rely upon cheap labour and long hours,"_
 it also meant that these profits would be used to finance industry and develop
-an industrial base. [**Op. Cit.**, p. 41] Without this state aid, it is
+an industrial base. [ **Op. Cit.** , p. 41] Without this state aid, it is
 doubtful that these countries would have industrialised (as Kaldor notes,
 _"all the present 'developed' or 'industrialised' countries established their
 industries through 'import substitution' by means of protective tariffs and/or
-differential subsidies."_ [**Op. Cit.**, p. 127]).
+differential subsidies."_ [ **Op. Cit.** , p. 127]).
 
 Within the industrialising country, the usual process of competition driving
 out competitors continued. More and more markets became dominated by big
@@ -473,7 +475,7 @@ Russian anarchist G. P. Maximoff stressed, the _"specific character of
 Imperialism is . . . the concentration and centralisation of capital in
 syndicates, trusts and cartels, which . . . have a decisive voice, not only in
 the economic and political life of their countries, but also in the life of
-the nations of the worlds a whole."_ [**Program of Anarcho-Syndicalism**, p.
+the nations of the worlds a whole."_ [ **Program of Anarcho-Syndicalism** , p.
 10] The modern multi-national and transnational corporations are the latest
 expression of this process.
 
@@ -483,9 +485,9 @@ gain further advantages over their competitors. Faced with high tariff
 barriers and rising international competition, industry responded by exporting
 capital as well as finished goods. This export of capital was an essential way
 of beating protectionism (and even reap benefits from it) and gain a foothold
-in foreign markets (_"protective duties have no doubt contributed . . .
+in foreign markets ( _"protective duties have no doubt contributed . . .
 towards attracting German and English manufacturers to Poland and Russia"_
-[Kropotkin, **Op. Cit.**, p. 41]). In addition, it allowed access to cheap
+[Kropotkin, **Op. Cit.** , p. 41]). In addition, it allowed access to cheap
 labour and raw materials by placing capital in foreign lands As part of this
 process colonies were seized to increase the size of "friendly" markets and,
 of course, allow the easy export of capital into areas with cheap labour and
@@ -507,7 +509,7 @@ no developed industry, today control the labour of hundreds of millions of
 those people in Eastern Europe, Asia, and Africa. The result is that the
 number of those people in the leading industrialised countries of Europe who
 live off the work of others doesn't gradually decrease at all. Far from it."_
-[_"Anarchism and Syndicalism"_, **Black Flag**, no. 210, p. 26]
+[ _"Anarchism and Syndicalism"_ , **Black Flag** , no. 210, p. 26]
 
 As well as gaining access to raw materials, imperialism allows the dominating
 nation to gain access to markets for its goods. By having an empire, products
@@ -521,15 +523,15 @@ ensuring high profit margins for capitalist business. This adds with the
 problems associated with the over-production of goods:
 
 > _"The workman being unable to purchase with their wages the riches they are
-producing, industry must search for new markets elsewhere, amidst the middle
-classes of other nations. It must find markets, in the East, in Africa,
-anywhere; it must increase, by trade, the number of its serfs in Egypt, in
-India, on the Congo. But everywhere it finds competitors in other nations
-which rapidly enter into the same line of industrial development. And wars,
-continuous wars, must be fought for the supremacy in the world-market -- wars
-for the possession of the East, wars for getting possession of the seas, wars
-for the right of imposing heavy duties on foreign merchandise."_ [Kropotkin,
-**Anarchism**, pp. 55-6]
+> producing, industry must search for new markets elsewhere, amidst the middle
+> classes of other nations. It must find markets, in the East, in Africa,
+> anywhere; it must increase, by trade, the number of its serfs in Egypt, in
+> India, on the Congo. But everywhere it finds competitors in other nations
+> which rapidly enter into the same line of industrial development. And wars,
+> continuous wars, must be fought for the supremacy in the world-market --
+> wars for the possession of the East, wars for getting possession of the
+> seas, wars for the right of imposing heavy duties on foreign merchandise."_
+> [Kropotkin, **Anarchism** , pp. 55-6]
 
 This process of expansion into non-capitalist areas also helps Capital to
 weather both the subjective and objective economic pressures upon it which
@@ -562,13 +564,13 @@ growth of the free market. However, peasants', artisans' and tribal people's
 desires to be "left alone" was never respected, and "civilisation" was forced
 upon them "for their own good." As Kropotkin realised, _"force is necessary to
 continually bring new 'uncivilised nations' under the same conditions [of wage
-labour]."_ [**Anarchism and Anarchist Communism**, p. 53] Anarchist George
+labour]."_ [ **Anarchism and Anarchist Communism** , p. 53] Anarchist George
 Bradford also stresses this, arguing that we _"should remember that,
 historically, colonialism, bringing with it an emerging capitalist economy and
 wage system, destroyed the tradition economies in most countries. By
 substituting cash crops and monoculture for forms of sustainable agriculture,
 it destroyed the basic land skills of the people whom it reduced to plantation
-workers."_ [**How Deep is Deep Ecology**, p. 40] Indeed, this process was in
+workers."_ [ **How Deep is Deep Ecology** , p. 40] Indeed, this process was in
 many ways similar to the development of capitalism in the "developed" nations,
 with the creation of a class of landless workers who forms the nucleus of the
 first generation of people given up to the mercy of the manufacturers.
@@ -580,7 +582,7 @@ the states involved knew, and so they embarked on a policy of building larger
 and larger armed forces). As Kropotkin argued before the First World War, the
 real cause of war at the time was _"the competition for markets and the right
 to exploit nations backward in industry."_ [quoted by Martin Miller,
-**Kropotkin**, p. 225] Secondly, the creation of trusts, the export of goods
+**Kropotkin** , p. 225] Secondly, the creation of trusts, the export of goods
 and the import of cheap raw materials cannot stop the business cycle nor "buy-
 off" the working class indefinitely (i.e. the excess profits of imperialism
 will never be enough to grant more and more reforms and improvements to the
@@ -590,7 +592,7 @@ including the use of war to grab new markets and destroy rivals. Moreover, war
 was a good way of side tracking class conflict at home -- which, let us not
 forget, had been reaching increasingly larger, more militant and more radical
 levels in all the imperialist nations (see John Zerzan's _"Origins and Meaning
-of WWI"_ in his **Elements of Refusal**).
+of WWI"_ in his **Elements of Refusal** ).
 
 Thus this first phase of imperialism began as the growing capitalist economy
 started to reach the boundaries of the nationalised market created by the
@@ -603,10 +605,10 @@ nation-states came into conflict with each other. As it was obvious that a
 conflict was brewing, the major European countries tried to organise a
 "balance of power." This meant that armies were built and navies created to
 frighten other countries and so deter war. Unfortunately, these measures were
-not enough to countermand the economic and power processes at play (_"Armies
+not enough to countermand the economic and power processes at play ( _"Armies
 equipped to the teeth with weapons, with highly developed instruments of
 murder and backed by military interests, have their own dynamic interests,"_
-as Goldman put it [**Red Emma Speaks**, p. 353]). War did break out, a war
+as Goldman put it [ **Red Emma Speaks** , p. 353]). War did break out, a war
 over empires and influence, a war, it was claimed, that would end all wars. As
 we now know, of course, it did not because it did not fight the root cause of
 modern wars, capitalism.
@@ -625,22 +627,22 @@ they had during the first world war, opposed both sides and called for
 revolution:
 
 > _"the present struggle is one between rival Imperialisms and for the
-protection of vested interests. The workers in every country, belonging to the
-oppressed class, have nothing in common with these interests and the political
-aspirations of the ruling class. Their immediate struggle is their
-**emancipation.** **Their** front line is the workshop and factory, not the
-Maginot Line where they will just rot and die, whilst their masters at home
-pile up their ill-gotten gains."_ [_"War Commentary"_, quoted Mark Shipway,
-**Anti-Parliamentary Communism**, p. 170]
+> protection of vested interests. The workers in every country, belonging to
+> the oppressed class, have nothing in common with these interests and the
+> political aspirations of the ruling class. Their immediate struggle is their
+> **emancipation.** **Their** front line is the workshop and factory, not the
+> Maginot Line where they will just rot and die, whilst their masters at home
+> pile up their ill-gotten gains."_ [ _"War Commentary"_ , quoted Mark
+> Shipway, **Anti-Parliamentary Communism** , p. 170]
 
 After the Second World War, the European countries yielded to pressure from
 the USA and national liberation movements and grated many former countries
 "independence" (often after intense conflict). As Kropotkin predicted, such
 social movements were to be expected for with the growth of capitalism _"the
 number of people with an interest in the capitulation of the capitalist state
-system also increases."_ [_"Anarchism and Syndicalism"_, **Op. Cit.**, p. 26]
-Unfortunately these "liberation" movements transformed mass struggle from a
-potential struggle against capitalism into movements aiming for independent
+system also increases."_ [ _"Anarchism and Syndicalism"_ , **Op. Cit.** , p.
+26] Unfortunately these "liberation" movements transformed mass struggle from
+a potential struggle against capitalism into movements aiming for independent
 capitalist nation states (see [section D.7](secD7.md)). Not, we must stress,
 that the USA was being altruistic in its actions, independence for colonies
 weakened its rivals as well as allowing US capital access to those markets.
@@ -737,8 +739,8 @@ populations in particular."_ This applies _"internally"_ as well as abroad,
 for _"democracy is fine as long as it . . . does not risk popular interference
 with primary interests of power and wealth."_ Thus the aim is to ensure _"an
 obedient client state is firmly in place, the general perferene of conquerors,
-leaving just military bases for future contingencies."_ [**Failed States**, p.
-171, p. 204 and p. 148]
+leaving just military bases for future contingencies."_ [ **Failed States** ,
+p. 171, p. 204 and p. 148]
 
 In these ways, markets are kept open for corporations based in the advanced
 nations all without the apparent use of force or the need for colonies.
@@ -760,7 +762,7 @@ rights. The reality has been that [they] . . . have been consistently designed
 and implemented to further the interests of US (now largely transnational)
 corporations, and the elites both at home and abroad who profit from their
 depredations."_ [Henry Rosemont, Jr., _"U.S. Foreign Policy: the Execution of
-Human Rights"_, pp. 13-25, **Social Anarchism**, no. 29 p. 13] This has
+Human Rights"_ , pp. 13-25, **Social Anarchism** , no. 29 p. 13] This has
 involved the overthrow of democratically elected governments (such as in Iran,
 1953; Guatemala, 1954; Chile, 1973) and their replacement by reactionary
 right-wing dictatorships (usually involving the military). As George Bradford
@@ -772,7 +774,8 @@ under such powerful attack -- Guatemala in 1954, Chile in 1973 . . . Nicaragua
 been to rely on various police states and to hold back 'nationalistic regimes'
 that might be more responsive to 'increasing popular demand for immediate
 improvements in the low living standards of the masses,' in order to 'protect
-our resources' -- in their countries!"_ [**How Deep is Deep Ecology?**, p. 62]
+our resources' -- in their countries!"_ [ **How Deep is Deep Ecology?** , p.
+62]
 
 This is to be expected, as imperialism is the only means of defending the
 foreign investments of a nation's capitalist class, and by allowing the
@@ -825,25 +828,23 @@ to big business and its state will also apply to the state capitalist nation.
 In the words of libertarian socialist Cornelius Castoriadis:
 
 > _"But if imperialist expansion is the necessary expression of an economy in
-which the process of capital concentration has arrived at the stage of
-monopoly domination, this is true a fortiori for an economy in which this
-process of concentration has arrived at its natural limit . . . In other
-words, imperialist expansion is even more necessary for a totally concentrated
-economy . . . That they are realised through different modes (for example,
-capital exportation play a much more restricted role and acts in a different
-way than is the case with monopoly domination) is the result of the
-differences separating bureaucratic capitalism from monopoly capitalism, but
-at bottom this changes nothing.  
+> which the process of capital concentration has arrived at the stage of
+> monopoly domination, this is true a fortiori for an economy in which this
+> process of concentration has arrived at its natural limit . . . In other
+> words, imperialist expansion is even more necessary for a totally
+> concentrated economy . . . That they are realised through different modes
+> (for example, capital exportation play a much more restricted role and acts
+> in a different way than is the case with monopoly domination) is the result
+> of the differences separating bureaucratic capitalism from monopoly
+> capitalism, but at bottom this changes nothing.  
 >  _
-
 >
-
 > _"We must strongly emphasise that the imperialistic features of capital are
-not tied to 'private' or 'State' ownership of the means of production . . .
-the same process takes place if, instead of monopolies, there is an exploiting
-bureaucracy; in other words, this bureaucracy also can **exploit**, but only
-on the condition that it **dominates.**"_ [**Political and Social Writings**,
-vol. 1, p. 159]
+> not tied to 'private' or 'State' ownership of the means of production . . .
+> the same process takes place if, instead of monopolies, there is an
+> exploiting bureaucracy; in other words, this bureaucracy also can
+> **exploit** , but only on the condition that it **dominates.** "_ [
+> **Political and Social Writings** , vol. 1, p. 159]
 
 Given this, it comes as no surprise that the state-capitalist countries also
 participated in imperialist activities, adventures and wars, although on a
@@ -858,17 +859,17 @@ its roots in its internal class structure, as _"it is obvious that a state
 which pursues an imperialist foreign policy cannot itself by revolutionary"_
 and this is shown in _"the internal life of the USSR"_ where _"the means of
 wealth production"_ are _"owned by the state which represents, as always, a
-privileged class -- the bureaucracy."_ [_"USSR -- Anarchist Position,"_ pp.
-21-24, Vernon Richards (ed.), **The Left and World War II**, p. 22 and p. 23]
+privileged class -- the bureaucracy."_ [ _"USSR -- Anarchist Position,"_ pp.
+21-24, Vernon Richards (ed.), **The Left and World War II** , p. 22 and p. 23]
 
 This process became obvious after the defeat of Nazi Germany and the creation
 of Stalinist states in Eastern Europe. As anarchists at the time noted, this
 was _"the consolidation of Russian imperialist power"_ and their
 _"incorporation . . . within the structure of the Soviet Union."_ As such,
 _"all these countries behind the Iron Curtain are better regarded as what they
-really [were] -- satellite states of Russia."_ [_"Russia's Grip Tightens"_,
-pp. 283-5, Vernon Richards (ed.), **World War - Cold War**, p. 285 and p. 284]
-Of course, the creation of these satellite states was based on the inter-
+really [were] -- satellite states of Russia."_ [ _"Russia's Grip Tightens"_ ,
+pp. 283-5, Vernon Richards (ed.), **World War - Cold War** , p. 285 and p.
+284] Of course, the creation of these satellite states was based on the inter-
 imperialist agreements reached at the Yalta conference of February 1945.
 
 As can be seen by Russia's ruthless policy towards her satellite regimes,
@@ -882,13 +883,13 @@ regarded as a source of raw materials and of cheap manufactured goods. Russia
 secured the satellites exports at below world prices. And it exported to them
 at above world prices."_ Thus trade _"was based on the old imperialist
 principle of buying cheap and selling dear -- very, very dear!"_ [Andy
-Anderson, **Hungary '56**, pp. 25-6 and p. 25] However, the nature of the
+Anderson, **Hungary '56** , pp. 25-6 and p. 25] However, the nature of the
 imperialist regime was such that it discouraged too much expansionism as
 _"Russian imperialism [had] to rely on armies of occupation, utterly
 subservient quisling governments, or a highly organised and loyal political
 police (or all three). In such circumstances considerable dilution of Russian
-power occur[red] with each acquisition of territory."_ [_"Russian
-Imperialism"_, pp. 270-1, Vernon Richards (ed.), **Op. Cit.**, p. 270]
+power occur[red] with each acquisition of territory."_ [ _"Russian
+Imperialism"_ , pp. 270-1, Vernon Richards (ed.), **Op. Cit.** , p. 270]
 
 Needless to say, the form and content of the state capitalist domination of
 its satellite countries was dependent on its own economic and political
@@ -905,7 +906,7 @@ needs."_ As such, the _"form and content"_ of this regimes' _"domination over
 its satellite countries are determined fundamentally by its own economic
 structure"_ and so it would be _"completely incorrect to consider these
 relations identical to the relations of classical colonialism."_ [Castoriadis,
-**Op. Cit.**, p. 187] So part of the difference between private and state
+**Op. Cit.** , p. 187] So part of the difference between private and state
 capitalist was drive by the need to plunder these countries of commodities to
 make up for shortages caused by central planning (in contrast, capitalist
 imperialism tended to export goods). As would be expected, within this overall
@@ -941,13 +942,13 @@ Russian Foreign Policy."_ This explains _"the most bewildering changes of
 policy and political somersaults"_ it imposed on its member parties.
 Ultimately, _"the allegedly revolutionary aims of the Comintern stood in
 contrast to the diplomatic relations of the Soviet Union with other
-countries."_ [Marie-Louise Berneri, **Neither East Nor West**, p. 64 and p.
+countries."_ [Marie-Louise Berneri, **Neither East Nor West** , p. 64 and p.
 63] As early as 1920, the Dutch Council Communist Anton Pannekoek was arguing
 that the Comintern opposition to anti-parliamentarianism was rooted _"in the
 needs of the Soviet Republic"_ for _"peaceful trade with the rest of the
 world."_ This meant that the Comintern's policies were driven _"by the
-political needs of Soviet Russia."_ [_"Afterword to World Revolution and
-Communist Tactics,"_ D.A. Smart (ed.), **Pannekoek and Gorter's Marxism**, p.
+political needs of Soviet Russia."_ [ _"Afterword to World Revolution and
+Communist Tactics,"_ D.A. Smart (ed.), **Pannekoek and Gorter's Marxism** , p.
 143 and p. 144] This is to be expected, as the regime had always been state
 capitalist and so the policies of the Comintern were based on the interests of
 a (state) capitalist regime.
@@ -962,7 +963,7 @@ any other state capitalist regime] simply because, for imperialist reasons,
 American and British spokesmen now denounce Russia totalitarianism. We know
 that their indignation is hypocritical and that they may become friendly to
 Russia again if it suits their interests."_ [Marie-Louise Berneri, **Op.
-Cit.**, p. 187] In the clash of imperialism, anarchists support neither side
+Cit.** , p. 187] In the clash of imperialism, anarchists support neither side
 as both are rooted in the exploitation and oppression of the working class.
 
 Finally, it is worthwhile to refute two common myths about state capitalist
@@ -992,7 +993,7 @@ power passing out of their hands, whoever seizes it from them. They will
 defend their property against any class or clique. The fact that they are
 indignant [about Soviet imperialism] proves their fear -- it tells us nothing
 at all about the agents inspiring that fear."_ [J.H., _"The Fourth
-International"_, pp. 37-43, Vernon Richards (ed.), **Op. Cit.**, pp. 41-2]
+International"_ , pp. 37-43, Vernon Richards (ed.), **Op. Cit.** , pp. 41-2]
 This elimination of tradition forms of class rule and their replacement with
 new forms is required as these are the only economic forms compatible with the
 needs of the state capitalist regimes to exploit these countries on a regular
@@ -1014,7 +1015,7 @@ an increasing scale?"_ The revolution _"showed every sign of making both them
 and their bureaucratic counterparts in the East redundant."_ The revolt itself
 was rooted _"[n]ew organs of struggle,"_ workers' councils _"which embodied,
 in embryo, the new society they were seeking to achieve."_ [Anderson, **Op.
-Cit.**, p.6, p. 106 and p. 107]
+Cit.** , p.6, p. 106 and p. 107]
 
 The ending of state capitalism in Eastern Europe in 1989 has ended its
 imperialist domination of those countries. However, it has simply opened the
@@ -1047,8 +1048,8 @@ simply using the term 'globalisation' in a way that plays into the thinking of
 people at the World Bank and journalists . . . who are agog at globalisation.
 They just can't contain their joy at the spread of American economic and
 corporate power all over the world. . . it would be very good to puncture that
-balloon and say 'This is imperialism.'"_ [**Bush Drives us into Bakunin's
-Arms**] Globalisation is, like the forms of imperialism that preceded it, a
+balloon and say 'This is imperialism.'"_ [ **Bush Drives us into Bakunin's
+Arms** ] Globalisation is, like the forms of imperialism that preceded it, a
 response to both objective economic forces and the class struggle. Moreover,
 like the forms that came before, it is rooted in the economic power of
 corporations based in a few developed nations and political power of the
@@ -1143,8 +1144,8 @@ it has been practised has not lived up to what its advocates promised it would
 accomplish . . . In some cases it has not even resulted in growth, but when it
 has, it has not brought benefits to all; the net effect of the policies set by
 the Washington Consensus had all too often been to benefit the few at the
-expense of the many, the well-off at the expense of the poor."_
-[**Globalisation and Its Discontents**, p. 17, p. 20, p. 13, p. 36 and p. 20]
+expense of the many, the well-off at the expense of the poor."_ [
+**Globalisation and Its Discontents** , p. 17, p. 20, p. 13, p. 36 and p. 20]
 
 While transnational companies are, perhaps, the most well-known
 representatives of this process of globalisation, the power and mobility of
@@ -1156,25 +1157,25 @@ about $14 trillion. To put some kind of perspective on these figures, the
 Balse-based Bank for International Settlement estimated that the aggregate
 daily turnover in the foreign exchange markets at nearly $900 billion in April
 1992, equal to 13 times the Gross Domestic Product of the OECD group of
-countries on an annualised basis [**Financial Times**, 23/9/93]. In Britain,
+countries on an annualised basis [ **Financial Times** , 23/9/93]. In Britain,
 some $200-300 billion a day flows through London's foreign exchange markets.
 This is the equivalent of the UK's annual Gross National Product in two or
 three days. Needless to say, since the early 1990s, these amounts have grown
 to even higher levels (daily currency transactions have risen from a mere $80
 billion in 1980 to $1.26 billion in 1995. In proportion to world trade, this
 trading in foreign exchange rose from a ration of 10:1 to nearly 70:1 [Mark
-Weisbrot, **Globalisation for Whom?**]).
+Weisbrot, **Globalisation for Whom?** ]).
 
 Little wonder that a **Financial Times** special supplement on the IMF stated
 that _"Wise governments realise that the only intelligent response to the
-challenge of globalisation is to make their economies more acceptable."_
-[**Op. Cit.**] More acceptable to business, that is, not their populations. As
+challenge of globalisation is to make their economies more acceptable."_ [
+**Op. Cit.** ] More acceptable to business, that is, not their populations. As
 Chomsky put it, _"free capital flow creates what's sometimes called a 'virtual
 parliament' of global capital, which can exercise veto power over government
 policies that it considers irrational. That means things like labour rights,
 or educational programmes, or health, or efforts to stimulate the economy, or,
 in fact, anything that might help people and not profits (and therefore
-irrational in the technical sense)."_ [**Rogue States**, pp. 212-3]
+irrational in the technical sense)."_ [ **Rogue States** , pp. 212-3]
 
 This means that under globalisation, states will compete with each other to
 offer the best deals to investors and transnational companies -- such as tax
@@ -1183,7 +1184,7 @@ countries' ordinary people will be ignored in the name of future benefits (not
 so much pie in the sky when you die, more like pie in the future, maybe, if
 you are nice and do what you are told). For example, such an "acceptable"
 business climate was created in Britain, where _"market forces have deprived
-workers of rights in the name of competition."_ [**Scotland on Sunday**,
+workers of rights in the name of competition."_ [ **Scotland on Sunday** ,
 9/1/95] Unsurprisingly. number of people with less than half the average
 income rose from 9% of the population in 1979 to 25% in 1993. The share of
 national wealth held by the poorer half of the population has fallen from one
@@ -1203,7 +1204,7 @@ mid-1970's to 23 percent by 1992."_ Elsewhere, General Motors opened a $690
 million assembly plant in the former East Germany. Why? Because there workers
 are willing to _"work longer hours than their pampered colleagues in western
 Germany"_ (as the **Financial Times** put it) at 40% of the wage and with few
-benefits. [Noam Chomsky, **World Orders, Old and New**, p. 160]
+benefits. [Noam Chomsky, **World Orders, Old and New** , p. 160]
 
 This mobility is a useful tool in the class war. There has been _"a
 significant impact of NAFTA on strikebreaking. About half of union organising
@@ -1211,16 +1212,16 @@ efforts are disrupted by employer threats to transfer production abroad, for
 example . . . The threats are not idle. When such organising drives succeed,
 employers close the plant in whole or in part at triple the pre-NAFTA rate
 (about 15 percent of the time). Plant-closing threats are almost twice as high
-in more mobile industries (e.g. manufacturing vs. construction)."_ [**Rogue
-States**, pp. 139-40] This process is hardly unique to America, and takes
+in more mobile industries (e.g. manufacturing vs. construction)."_ [ **Rogue
+States** , pp. 139-40] This process is hardly unique to America, and takes
 place all across the world (including in the "developing" world itself). This
 process has increased the bargaining power of employers and has helped to hold
 wages down (while productivity has increased). In the US, the share of
 national income going to corporate profits increased by 3.2 percentage points
 between 1989 and 1998. This represents a significant redistribution of the
-economic pie. [Mark Weisbrot, **Op. Cit.**] Hence the need for
+economic pie. [Mark Weisbrot, **Op. Cit.** ] Hence the need for
 **international** workers' organisation and solidarity (as anarchists have
-been arguing since Bakunin [**The Political Philosophy of Bakunin**, pp.
+been arguing since Bakunin [ **The Political Philosophy of Bakunin** , pp.
 305-8]).
 
 This means that such agreements such as NAFTA and the Multilateral Agreement
@@ -1246,7 +1247,7 @@ rezoned the site and forbid Metalclad to extend its land holdings. Metalclad,
 under Chapter 11 of NAFTA, then sued the Mexican government for damage to its
 profit margins and balance sheet as a result of being treated unequally by the
 people of San Luis Potosi. A trade panel, convened in Washington, agreed with
-the company. [Naomi Klein, **Fences and Windows**, pp. 56-59] In Canada, the
+the company. [Naomi Klein, **Fences and Windows** , pp. 56-59] In Canada, the
 Ethyl corporation sued when the government banned its gasoline additive as a
 health hazard. The government settled "out of court" to prevent a public
 spectacle of a corporation overruling the nation's Parliament.
@@ -1268,7 +1269,7 @@ international level, U.S. corporations need the government to insure that
 target countries are 'safe for investment' (no movements for freedom and
 democracy), that loans will be repaid, contracts kept, and international law
 respected (but only when it is useful to do so)."_ [Henry Rosemont, Jr., **Op.
-Cit.**, p. 18] For the foreseeable future, America seems to be the global
+Cit.** , p. 18] For the foreseeable future, America seems to be the global
 rent-a-cop of choice -- particularly as many of the largest corporations are
 based there.
 
@@ -1327,8 +1328,8 @@ creating a "free" market which best suits their interests. Therefore, by
 backing powerful states, corporate elites can increase their bargaining powers
 and help shape the "New World Order" in their own image.
 
-Governments may be, as Malatesta put it, the property owners **gendarme**, but
-they can be influenced by their subjects, unlike multinationals. NAFTA was
+Governments may be, as Malatesta put it, the property owners **gendarme** ,
+but they can be influenced by their subjects, unlike multinationals. NAFTA was
 designed to reduce this influence even more. Changes in government policy
 reflect the changing needs of business, modified, of course, by fear of the
 working population and its strength. Which explains globalisation -- the need
@@ -1357,8 +1358,8 @@ People came to Seattle because they knew that it was wrong to let a secret
 body of officials make policies unaccountable to anyone except themselves. A
 non-elected body, the WTO is attempting to become more powerful than any
 national government . . . For anarchism, the focus of global capitalism
-couldn't be more ideal."_ [_"An Anarchist Response to Seattle,"_ pp. 5-12,
-**Social Anarchism**, no. 29, p. 6]
+couldn't be more ideal."_ [ _"An Anarchist Response to Seattle,"_ pp. 5-12,
+**Social Anarchism** , no. 29, p. 6]
 
 To sum up, globalisation will see imperialism change as capitalism itself
 changes. The need for imperialism remains, as the interests of private capital
@@ -1423,10 +1424,10 @@ nation's ruling class dislikes imperialist domination and will seek to ignore
 or escape it whenever possible. This is because _"every State, in so far as it
 wants to live not only on paper and not merely by sufferance of its
 neighbours, but to enjoy real independence -- inevitably must become a
-conquering State."_ [Bakunin, **Op. Cit.**, p. 211] So the local ruling class,
-while benefiting from imperialism, may dislike its dependent position and, if
-it feels strong enough, may contest their position and gain more independence
-for themselves.
+conquering State."_ [Bakunin, **Op. Cit.** , p. 211] So the local ruling
+class, while benefiting from imperialism, may dislike its dependent position
+and, if it feels strong enough, may contest their position and gain more
+independence for themselves.
 
 Many of the post-war imperialist conflicts were of this nature, with local
 elites trying to disentangle themselves from an imperialist power. Similarly,
@@ -1478,34 +1479,35 @@ Rudolf Rocker was correct to stress the contradictory (and self-defeating)
 nature of working class support for imperialism:
 
 > _"No doubt some small comforts may sometimes fall to the share of the
-workers when the bourgeoisie of their country attain some advantage over that
-of another country; but this always happens at the cost of their own freedom
-and the economic oppression of other peoples. The worker . . . participates to
-some extent in the profits which, without effort on their part, fall into the
-laps of the bourgeoisie of his country from the unrestrained exploitation of
-colonial peoples; but sooner or later there comes the time when these people
-too, wake up, and he has to pay all the more dearly for the small advantages
-he has enjoyed. . . . Small gains arising from increased opportunity of
-employment and higher wages may accrue to the workers in a successful state
-from the carving out of new markets at the cost of others; but at the same
-time their brothers on the other side of the border have to pay for them by
-unemployment and the lowering of the standards of labour. The result is an
-ever widening rift in the international labour movement . . . By this rift the
-liberation of the workers from the yoke of wage-slavery is pushed further and
-further into the distance. As long as the worker ties up his interests with
-those of the bourgeoisie of his country instead of with his class, he must
-logically also take in his stride all the results of that relationship. He
-must stand ready to fight the wars of the possessing classes for the retention
-and extension of their markets, and to defend any injustice they may
-perpetrate on other people . . . Only when the workers in every country shall
-come to understand clearly that their interests are everywhere the same, and
-out of this understanding learn to act together, will the effective basis be
-laid for the international liberation of the working class."_ [**Anarcho-
-Syndicalism**, p. 71]
+> workers when the bourgeoisie of their country attain some advantage over
+> that of another country; but this always happens at the cost of their own
+> freedom and the economic oppression of other peoples. The worker . . .
+> participates to some extent in the profits which, without effort on their
+> part, fall into the laps of the bourgeoisie of his country from the
+> unrestrained exploitation of colonial peoples; but sooner or later there
+> comes the time when these people too, wake up, and he has to pay all the
+> more dearly for the small advantages he has enjoyed. . . . Small gains
+> arising from increased opportunity of employment and higher wages may accrue
+> to the workers in a successful state from the carving out of new markets at
+> the cost of others; but at the same time their brothers on the other side of
+> the border have to pay for them by unemployment and the lowering of the
+> standards of labour. The result is an ever widening rift in the
+> international labour movement . . . By this rift the liberation of the
+> workers from the yoke of wage-slavery is pushed further and further into the
+> distance. As long as the worker ties up his interests with those of the
+> bourgeoisie of his country instead of with his class, he must logically also
+> take in his stride all the results of that relationship. He must stand ready
+> to fight the wars of the possessing classes for the retention and extension
+> of their markets, and to defend any injustice they may perpetrate on other
+> people . . . Only when the workers in every country shall come to understand
+> clearly that their interests are everywhere the same, and out of this
+> understanding learn to act together, will the effective basis be laid for
+> the international liberation of the working class."_ [ **Anarcho-
+> Syndicalism** , p. 71]
 
 Ultimately, any _"collaboration of workers and employers . . . can only result
 in the workers being condemned to . . . eat the crumbs that fall from the rich
-man's table."_ [Rocker, **Op. Cit.**, pp. 70-1] This applies to both the
+man's table."_ [Rocker, **Op. Cit.** , pp. 70-1] This applies to both the
 imperialist and the satellite state, of course. Moreover, as imperialism needs
 to have a strong military force available for it and as a consequence it
 required militarism at home. This has an impact at home in that resources
@@ -1527,9 +1529,9 @@ Not that this globalisation has aided the working class in the "developing"
 nations. In Latin America, for example, GDP per capita grew by 75 percent from
 1960-1980, whereas between 1981 and 1998 it has only risen 6 percent. [Mark
 Weisbrot, Dean Baker, Robert Naiman, and Gila Neta, **Growth May Be Good for
-the Poor-- But are IMF and World Bank Policies Good for Growth?**]
+the Poor-- But are IMF and World Bank Policies Good for Growth?** ]
 
-As Chomsky noted, _"[t]o the credit of the **Wall Street Journal**, it points
+As Chomsky noted, _"[t]o the credit of the **Wall Street Journal** , it points
 out that there's a 'but.' Mexico has 'a stellar reputation,' and it's an
 economic miracle, but the population is being devastated. There's been a 40
 percent drop in purchasing power since 1994. The poverty rate is going up and
@@ -1541,7 +1543,7 @@ In fact, NAFTA is a remarkable success: it's the first trade agreement in
 history that's succeeded in harming the populations of all three countries
 involved. That's quite an achievement."_ In the U.S., _"the medium income
 (half above, half below) for families has gotten back now to what it was in
-1989, which is below what it was in the 1970s."_ [**Rogue States**, pp. 98-9
+1989, which is below what it was in the 1970s."_ [ **Rogue States** , pp. 98-9
 and p. 213]
 
 An achievement which was predicted. But, of course, while occasionally
@@ -1601,7 +1603,7 @@ real interest in ending it -- particularly as under globalisation the few
 benefits that used to accrue to us are much less.
 
 [‹ D.4 What is the relationship between capitalism and the ecological
-crisis?](secD4.md "Go to previous page" ) [up](secDcon.md "Go to parent
-page" ) [D.6 Are anarchists against Nationalism? ›](secD6.md "Go to next
-page" )
+crisis?](secD4.md "Go to previous page") [up](secDcon.md "Go to parent
+page") [D.6 Are anarchists against Nationalism? ›](secD6.md "Go to next
+page")
 

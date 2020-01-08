@@ -48,7 +48,7 @@ understands.
 ## [Reply to errors and distortions in David McNally's pamphlet _"Socialism
 from Below"_](append31.md)
 
-### [ 1\. Introduction](append31.md#app1)  
+### [ 1\. Introduction](append31.md#app1)  
 [2\. Is anarchism the politics of the _"small property
 owner"_?](append31.md#app2)  
 [3\. Does anarchism _"glorify values from the past"_?](append31.md#app3)  
@@ -249,8 +249,8 @@ flawed?](append35.md#app11)
   * [Reply to errors and distortions in the SWP's "Marxism and Anarchism"](append34.md)
   * [Reply to errors and distortions in John Fisher's "Why we must further Marxism and not Anarchism"](append35.md)
 
-[‹ Appendix - The Symbols of Anarchy](append2.md "Go to previous page" )
-[up](index.md "Go to parent page" ) [Reply to errors and distortions in
-David McNally's pamphlet "Socialism from Below" ›](append31.md "Go to next
-page" )
+[‹ Supplementary Material](supplementary.md "Go to previous page")
+[up](supplementary.md "Go to parent page") [Reply to errors and distortions
+in David McNally's pamphlet "Socialism from Below" ›](append31.md "Go to
+next page")
 

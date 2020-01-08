@@ -32,11 +32,11 @@ means that the aim of AFAQ has changed. I would say that it has two related
 goals:
 
 > 1\. To present the case for anarchism, to convince people they should become
-anarchists.
+> anarchists.
 
 > 2\. To be a resource for existing anarchists, to use to bolster their
-activism and activities by presenting facts and arguments to allow them to
-defend anarchism against those opposed to it (Marxists, capitalists, etc.).
+> activism and activities by presenting facts and arguments to allow them to
+> defend anarchism against those opposed to it (Marxists, capitalists, etc.).
 
 Te second goal explains why, for example, we spend a lot of time refuting
 capitalist economics and Marxism/Leninism (partly, because many of the facts
@@ -90,7 +90,7 @@ anarchists are up against people who, apparently, do not have a life and so
 can wage a war of attrition against those who try and include relevant facts
 to the entries (such as the obvious anti-capitalism of "traditional"
 anarchism, that anarchism is **not** compatible with government or hierarchy
--- hence an-**archy**! -- or that calling yourself an anarchist does not
+-- hence an- **archy**! -- or that calling yourself an anarchist does not
 necessarily make it so). It is a shame that such a promising project has been
 derailed by ideologues whose ignorance of the subject matter is matched only
 by their hatred of AFAQ which they deny is a "credible" or valid reference on
@@ -141,7 +141,7 @@ So, to be called a "nobody" is quite a complement, given how many of the
 "somebodies" have not stopped being ignorant of anarchism from putting pen to
 paper and exposing that ignorance to the world (the worse recent example of
 this, outside of Marxism, must be George Monbiot's terrible comments in his
-**"Age of Consent"**). So, when it comes to saying what anarchism is, I turn
+**"Age of Consent"** ). So, when it comes to saying what anarchism is, I turn
 to anarchists. This is what the "experts" should be doing anyway if they were
 doing their job.
 
@@ -165,8 +165,8 @@ regularly contribute articles to **Freedom** (the leading English-language
 anarchist newspaper). Rarely does an issue come out without something by me it
 in. Moreover, some of the longer articles have appeared in **Black Flag**
 (before and after I joined its editorial committee). My works have also been
-published in **Scottish Anarchist**, **Anarcho-Syndicalist Review** and **Free
-Voices** and some have been translated into other languages. I am also an
+published in **Scottish Anarchist** , **Anarcho-Syndicalist Review** and
+**Free Voices** and some have been translated into other languages. I am also
 otherwise involved with). In addition, I have been invited to speak at
 anarchist conferences in Scotland and Ireland, as well as by Marxist parties
 to debate the merits of anarchism. Due to family commitments, my specifically
@@ -268,7 +268,7 @@ reply -- some were lost and, given how much busy we are, emails are always the
 first to suffer.
 
 4\. For a discussion of one early incident, mentioned in the Wikipedia entry
-on AFAQ, see my article (_"An Anarchist FAQ, David Friedman and Medieval
+on AFAQ, see my article ( _"An Anarchist FAQ, David Friedman and Medieval
 Iceland"_ on my webpage). Suffice to say, once we became aware of his new
 criticism this year (Friedman did not bother to inform us directly), we sped
 up our planned revision and expansion of that section and corrected the few
@@ -286,7 +286,7 @@ Avrich). As such, it is hardly a flaw that AFAQ has presented the majority
 position on anarchism (social anarchism), particularly as this is the position
 of the people involved.
 
-[‹ An Anarchist FAQ Introduction](intro.md "Go to previous page" )
-[up](intro.md "Go to parent page" ) [An Anarchist FAQ: Introduction to
-Volume 1 ›](vol1intro.md "Go to next page" )
+[‹ An Anarchist FAQ Introduction](intro.md "Go to previous page")
+[up](intro.md "Go to parent page") [An Anarchist FAQ: Introduction to Volume
+1 ›](vol1intro.md "Go to next page")
 

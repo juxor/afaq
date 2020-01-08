@@ -101,7 +101,7 @@ space in explaining why another US based ideology, "National Anarchism", is
 not anarchism. While some individual anarchists were racist, the notion that
 anarchism has anything in common with those who aim for racially pure
 nationalist communities is ridiculous. Even academics have not fallen for
-**_that_**, although for almost all genuine anarchists "anarcho"-capitalism
+**_that_** , although for almost all genuine anarchists "anarcho"-capitalism
 makes as little sense as "anarcho"-nationalism.
 
 Then there is the history of AFAQ. As indicated in the original introduction,
@@ -148,7 +148,7 @@ and the aims of anarchists across the years.
 Furthermore, as AFAQ stresses, to be a **_consistent_** anarchist you must
 recognise that freedom is more than simply the ability to change masters.
 Anarchism means "no authority" (an-archy) and to support social relationships
-marked by authority (hier-**_archy_**) produces a self-contradictory mess
+marked by authority (hier- ** _archy_** ) produces a self-contradictory mess
 (such as supporting forms of domination, such as wage labour, which are
 essentially identical to those produced by the state – and, sometimes,
 admitted as such!). Anarchism is, fundamentally, a theory of organisation
@@ -219,17 +219,45 @@ Iain McKay
 
 # A Summation
 
-**_"No question, the word anarchy freaks people. Yet anarchy -- rule by no one -- has always struck me as the same as democracy carried to its logical and reasonable conclusions. Of course those who rule -- bosses and politicians, capital and the state -- cannot imagine that people could rule themselves, for to admit that people can live without authority and rulers pulls out the whole underpinnings of their ideology. Once you admit that people can -- and do, today, in many spheres of their lives -- run things easier, better and more fairly than the corporation and the government can, there's no justification for the boss and the premier. I think most of us realise and understand that, in our guts, but schools, culture, the police, all the authoritarian apparatuses, tell us we need bosses, we need to be controlled 'for our own good.' It's not for our own good – it's for the good of the boss, plain and simple."_**
+**_"No question, the word anarchy freaks people. Yet anarchy -- rule by no one
+-- has always struck me as the same as democracy carried to its logical and
+reasonable conclusions. Of course those who rule -- bosses and politicians,
+capital and the state -- cannot imagine that people could rule themselves, for
+to admit that people can live without authority and rulers pulls out the whole
+underpinnings of their ideology. Once you admit that people can -- and do,
+today, in many spheres of their lives -- run things easier, better and more
+fairly than the corporation and the government can, there's no justification
+for the boss and the premier. I think most of us realise and understand that,
+in our guts, but schools, culture, the police, all the authoritarian
+apparatuses, tell us we need bosses, we need to be controlled 'for our own
+good.' It's not for our own good – it's for the good of the boss, plain and
+simple."_**
 
 **_"Anarchism is a demand for real freedom and real autonomy"_**
 
-**_"But I also remain convinced that something like an anarchist future, a world of no bosses or politicians, one in which people, all people, can live full and meaningful lives, is possible and desirable. We see glimpses of it all around us in our day-to-day lives, as people organise much of their lives without depending on someone to tell them what to do. We see it in that spirit of revolt -- a spirit that is often twisted by anger and despair, but nonetheless shows us that people have not given up. We see it in the political activism, the social lives, the demands for decency and respect and autonomy people put forward, the desire to be individuals while still being part of a community._**
+**_"But I also remain convinced that something like an anarchist future, a
+world of no bosses or politicians, one in which people, all people, can live
+full and meaningful lives, is possible and desirable. We see glimpses of it
+all around us in our day-to-day lives, as people organise much of their lives
+without depending on someone to tell them what to do. We see it in that spirit
+of revolt -- a spirit that is often twisted by anger and despair, but
+nonetheless shows us that people have not given up. We see it in the political
+activism, the social lives, the demands for decency and respect and autonomy
+people put forward, the desire to be individuals while still being part of a
+community._**
 
-**_"No, I don't think bowling leagues are the anarchist utopia, but they, like much of our lives outside of the workplace, are organised without hierarchy and oppression; the most meaningful, truly human parts of our lives already work best when organised on anarchist principles. Yet I also believe that in its function as critique and as a vision of the future -- perhaps the only one that doesn't end in our extinction as a species, or, as Orwell put it, as a jackboot smashing a human face, forever -- anarchism is not only desirable but possible and necessary."_**
+**_"No, I don't think bowling leagues are the anarchist utopia, but they, like
+much of our lives outside of the workplace, are organised without hierarchy
+and oppression; the most meaningful, truly human parts of our lives already
+work best when organised on anarchist principles. Yet I also believe that in
+its function as critique and as a vision of the future -- perhaps the only one
+that doesn't end in our extinction as a species, or, as Orwell put it, as a
+jackboot smashing a human face, forever -- anarchism is not only desirable but
+possible and necessary."_**
 
 Mark Leier: **The Case for Anarchy**
 
-[‹ An Anarchist FAQ after ten years](10years.md "Go to previous page" )
-[up](intro.md "Go to parent page" ) [An Anarchist FAQ: Introduction to
-Volume 2 ›](vol2intro.md "Go to next page" )
+[‹ An Anarchist FAQ after ten years](10years.md "Go to previous page")
+[up](intro.md "Go to parent page") [An Anarchist FAQ: Introduction to Volume
+2 ›](vol2intro.md "Go to next page")
 

@@ -75,13 +75,13 @@ management, professionals, and small capitalists.
 There is some argument within the anarchist movement whether this "grey" area
 constitutes another ("middle") class or not. Most anarchists say no, most of
 this "grey" area are working class, others (such as the British **Class War
-Federation**) argue it is a different class. One thing is sure, all anarchists
-agree that most people in this "grey" area have an interest in getting rid of
-the current system just as much as the working class (we should point out here
-that what is usually called "middle class" in the USA and elsewhere is nothing
-of the kind, and usually refers to working class people with decent jobs,
-homes, etc. As class is considered a rude word in polite society in the USA,
-such mystification is to be expected).
+Federation** ) argue it is a different class. One thing is sure, all
+anarchists agree that most people in this "grey" area have an interest in
+getting rid of the current system just as much as the working class (we should
+point out here that what is usually called "middle class" in the USA and
+elsewhere is nothing of the kind, and usually refers to working class people
+with decent jobs, homes, etc. As class is considered a rude word in polite
+society in the USA, such mystification is to be expected).
 
 So, there will be exceptions to this classification scheme. However, most of
 society share common interests, as they face the economic uncertainties and
@@ -102,7 +102,7 @@ the manoeuvres, the concessions and the withdrawals, the attempts to find
 allies among the people and against the conservatives, and among conservatives
 against the people, which is the science of the governors, and which blinds
 the ingenuous and phlegmatic who always wait for salvation to come down to
-them from above."_ [**Anarchy**, p. 25]
+them from above."_ [ **Anarchy** , p. 25]
 
 However, no matter how much inter-elite rivalry goes on, at the slightest
 threat to the system from which they benefit, the ruling class will unite to
@@ -150,11 +150,11 @@ At the start of the 1990s, the share of total US income was as follows: one
 third went to the top 10% of the population, the next 30% gets another third
 and the bottom 60% gets the last third. Dividing the wealth into thirds, we
 find that the top 1% owns a third, the next 9% owns a third, and bottom 90%
-owns the rest. [David Schweickart, **After Capitalism**, p. 92] Over the
+owns the rest. [David Schweickart, **After Capitalism** , p. 92] Over the
 1990s, the inequalities in US society have continued to increase. In 1980, the
 richest fifth of Americans had incomes about ten times those of the poorest
 fifth. A decade later, they has twelve times. By 2001, they had incomes over
-fourteen times greater. [Doug Henwood, **After the New Economy**, p. 79]
+fourteen times greater. [Doug Henwood, **After the New Economy** , p. 79]
 Looking at the figures for private family wealth, we find that in 1976 the
 wealthiest one percent of Americans owned 19% of it, the next 9% owned 30% and
 the bottom 90% of the population owned 51%. By 1995 the top 1% owned 40%, more
@@ -168,13 +168,13 @@ minority own the means of life. In 1992 the richest 1% of households -- about
 owned over 81%. In other words, the bottom 90% of the population had a smaller
 share (23%) of investable capital of all kinds than the richest 1/2% (29%).
 Stock ownership was even more densely concentrated, with the richest 5%
-holding 95% of all shares. [Doug Henwood, **Wall Street: Class racket**] Three
-years later, _"the richest 1% of households . . . owned 42% of the stock owned
-by individuals, and 56% of the bonds . . . the top 10% together owned nearly
-90% of both."_ Given that around 50% of all corporate stock is owned by
+holding 95% of all shares. [Doug Henwood, **Wall Street: Class racket** ]
+Three years later, _"the richest 1% of households . . . owned 42% of the stock
+owned by individuals, and 56% of the bonds . . . the top 10% together owned
+nearly 90% of both."_ Given that around 50% of all corporate stock is owned by
 households, this means that 1% of the population _"owns a quarter of the
 productive capital and future profits of corporate America; the top 10% nearly
-half."_ [Doug Henwood, **Wall Street**, pp. 66-7] Unsurprisingly, the
+half."_ [Doug Henwood, **Wall Street** , pp. 66-7] Unsurprisingly, the
 Congressional Budget Office estimates that more than half of corporate profits
 ultimately accrue to the wealthiest 1 percent of taxpayers, while only about 8
 percent go to the bottom 60 percent.
@@ -187,26 +187,26 @@ look at non-residential wealth we find a _"very, very concentrated"_
 situation. The _"bottom half of the population claimed about 20% of all income
 in 2001 -- but only 2% of non-residential wealth. The richest 5% of the
 population claimed about 23% of income, a bit more than the entire bottom
-half. But it owned almost two-thirds -- 65% -- of the wealth."_ [**After the
-New Economy**, p. 122]
+half. But it owned almost two-thirds -- 65% -- of the wealth."_ [ **After the
+New Economy** , p. 122]
 
 In terms of income, the period since 1970 has also been marked by increasing
 inequalities and concentration:
 
-> _ "According to estimates by the economists Thomas Piketty and Emmanuel Saez
--- confirmed by data from the Congressional Budget Office -- between 1973 and
-2000 the average real income of the bottom 90 percent of American taxpayers
-actually fell by 7 percent. Meanwhile, the income of the top 1 percent rose by
-148 percent, the income of the top 0.1 percent rose by 343 percent and the
-income of the top 0.01 percent rose 599 percent."_ [Paul Krugman, _"The Death
-of Horatio Alger"_, **The Nation**, January 5, 2004]
+> _"According to estimates by the economists Thomas Piketty and Emmanuel Saez
+> -- confirmed by data from the Congressional Budget Office -- between 1973
+> and 2000 the average real income of the bottom 90 percent of American
+> taxpayers actually fell by 7 percent. Meanwhile, the income of the top 1
+> percent rose by 148 percent, the income of the top 0.1 percent rose by 343
+> percent and the income of the top 0.01 percent rose 599 percent."_ [Paul
+> Krugman, _"The Death of Horatio Alger"_ , **The Nation** , January 5, 2004]
 
-Doug Henwood provides some more details on income [**Op. Cit.**, p. 90]:
+Doug Henwood provides some more details on income [ **Op. Cit.** , p. 90]:
 
-**Changes in income, 1977-1999**   | real income growth   
+**Changes in income, 1977-1999** | real income growth  
 1977-99 | Share of total income  
 ---|---|---  
-  | 1977 | 1999 | Change  
+| 1977 | 1999 | Change  
 poorest 20% | -9% | 5.7% | 4.2% | -1.5%  
 second 20% | +1 | 11.5 | 9.7 | -1.8  
 middle 20% | +8 | 16.4 | 14.7 | -1.7  
@@ -230,7 +230,7 @@ to the top 1 percent (who earn at least $230,000). Of these gains, 60 percent
 went to the top 0.1 percent (who earn more than $790,000). And of these gains,
 almost half went to the top 0.01 percent (a mere 13,000 people who had an
 income of at least $3.6 million and an average income of $17 million). [Paul
-Krugman, _"For Richer"_, **New York Times**, 20/10/02]
+Krugman, _"For Richer"_ , **New York Times** , 20/10/02]
 
 All this proves that classes do in fact exist, with wealth and power
 concentrating at the top of society, in the hands of the few.
@@ -267,7 +267,7 @@ fell slightly. In other words, the benefits of economic growth over nearly two
 decades have **not** trickled down to ordinary families. Median family income
 has risen only about 0.5% per year. Even worse, _"just about all of that
 increase was due to wives working longer hours, with little or no gain in real
-wages."_ [Paul Krugman, _"For Richer"_, **Op. Cit.**]
+wages."_ [Paul Krugman, _"For Richer"_ , **Op. Cit.** ]
 
 So if America does have higher average or per capita income than other
 advanced countries, it is simply because the rich are richer. This means that
@@ -328,7 +328,7 @@ the lowest poverty rate."_ Only Italy, Britain and Australia had higher levels
 of absolute poverty (and Australia exceeded the US value by 0.2%, 11.9%
 compared to 11.7%). Thus, in both absolute **and** relative terms, the USA
 compares badly with European countries. [Doug Henwood, _"Booming, Borrowing,
-and Consuming: The US Economy in 1999"_, pp.120-33, **Monthly Review**, vol.
+and Consuming: The US Economy in 1999"_ , pp.120-33, **Monthly Review** , vol.
 51, no. 3, pp. 129-31]
 
 In summary, therefore, taking the USA as being the most capitalist nation in
@@ -369,7 +369,7 @@ discussed later (see [section D.9](secD9.md)).
 Little wonder Proudhon argued that the law of supply and demand was a
 _"deceitful law . . . suitable only for assuring the victory of the strong
 over the weak, of those who own property over those who own nothing."_ [quoted
-by Alan Ritter, **The Political Thought of Pierre-Joseph Proudhon**, p. 121]
+by Alan Ritter, **The Political Thought of Pierre-Joseph Proudhon** , p. 121]
 
 ## B.7.2 Does social mobility make up for class inequality?
 
@@ -391,15 +391,15 @@ capitalism has high social mobility.
 Milton Friedman puts the argument in this way:
 
 > _"Consider two societies that have the same distribution of annual income.
-In one there is a great mobility and change so that the position of particular
-families in the income hierarchy varies widely from year to year. In the
-other, there is great rigidity so that each family stays in the same position.
-Clearly, in any meaningful sense, the second would be the more unequal
-society. The one kind of inequality is a sign of dynamic change, social
-mobility, equality of opportunity; the other of a status society. The
-confusion behind these two kinds of inequality is particularly important,
-precisely because competitive free-enterprise capitalism tends to substitute
-the one for the other."_ [**Capitalism and Freedom**, p. 171]
+> In one there is a great mobility and change so that the position of
+> particular families in the income hierarchy varies widely from year to year.
+> In the other, there is great rigidity so that each family stays in the same
+> position. Clearly, in any meaningful sense, the second would be the more
+> unequal society. The one kind of inequality is a sign of dynamic change,
+> social mobility, equality of opportunity; the other of a status society. The
+> confusion behind these two kinds of inequality is particularly important,
+> precisely because competitive free-enterprise capitalism tends to substitute
+> the one for the other."_ [ **Capitalism and Freedom** , p. 171]
 
 As with so many things, Friedman is wrong in his assertion (and that is all it
 is, no evidence is provided). The more free market capitalist regimes have
@@ -423,7 +423,7 @@ the bottom of that group). Only around 5% of families rise from bottom to top,
 or fall from top to bottom. In other words, the class structure of a modern
 capitalist society is pretty solid and _"much of the movement up and down
 represents fluctuations around a fairly fixed long term distribution."_ [Paul
-Krugman, **Peddling Prosperity**, p. 143]
+Krugman, **Peddling Prosperity** , p. 143]
 
 Perhaps under a "pure" capitalist system things would be different? Ronald
 Reagan helped make capitalism more "free market" in the 1980s, but there is no
@@ -439,7 +439,8 @@ was a reduction in income mobility upward from low to medium incomes of over
 Here are the exact figures [cited by Paul Krugman, _"The Rich, the Right, and
 the Facts,"_ **The American Prospect** no. 11, Fall 1992, pp. 19-31]:
 
-** Percentages of families making transitions to and from middle class (5-year period before and after 1980) **
+**Percentages of families making transitions to and from middle class (5-year
+period before and after 1980)**
 
 Transition | Before 1980 | After 1980  
 ---|---|---  
@@ -465,7 +466,7 @@ that rags-to-riches stories have become vanishingly rare, and that the
 correlation between fathers' and sons' incomes has risen in recent decades. In
 modern America, it seems, you're quite likely to stay in the social and
 economic class into which you were born."_ [Paul Krugman, _"The Death of
-Horatio Alger"_, **The Nation**, January 5, 2004]
+Horatio Alger"_ , **The Nation** , January 5, 2004]
 
 British Keynesian economist Will Hutton quotes US data from 2000-1 which
 _"compare[s] the mobility of workers in America with the four biggest European
@@ -478,14 +479,14 @@ also found that full-time workers in Britain, Italy and Germany enjoy much
 more rapid growth in their earnings than those in the US . . . However,
 downward mobility was more marked in the US; American workers are more likely
 to suffer a reduction in their real earnings than workers in Europe."_ Thus
-even the OECD (the _"high priest of deregulation"_) was _"forced to conclude
+even the OECD (the _"high priest of deregulation"_ ) was _"forced to conclude
 that countries with more deregulated labour and product markets (pre-eminently
 the US) do not appear to have higher relative mobility, nor do low-paid
 workers in these economies experience more upward mobility. The OECD is
 pulling its punches. The US experience is worse than Europe's."_ Numerous
 studies have shown that _"either there is no difference"_ in income mobility
-between the USA and Europe _"or that there is less mobility in the US."_
-[**The World We're In**, pp. 166-7]
+between the USA and Europe _"or that there is less mobility in the US."_ [
+**The World We're In** , pp. 166-7]
 
 Little wonder, then, that Doug Henwood argues that _"the final appeal of
 apologists of the American way is an appeal to our legendary mobility"_ fails.
@@ -493,7 +494,7 @@ In fact, _"people generally don't move far from the income class they are born
 into, and there is little difference between US and European mobility
 patterns. In fact, the United States has the largest share of what the OECD
 called 'low-wage' workers, and the poorest performance on the emergence from
-the wage cellar of any country it studied." _[**Op. Cit.**, p. 130]
+the wage cellar of any country it studied."_ [ **Op. Cit.** , p. 130]
 
 Indeed, _"both the US and British poor were more likely to stay poor for a
 long period of time: almost half of all people who were poor for one year
@@ -503,13 +504,13 @@ poor rose out of poverty in a given year, compared with 45% in the UK, 53% in
 Germany, and 56% in Canada. And of those who did exit poverty, 15% of
 Americans were likely to make a round trip back under the poverty line,
 compared with 16% in Germany, 10% in the UK, and 7% in Canada."_ [Doug
-Henwood, **After the New Economy**, pp. 136-7]
+Henwood, **After the New Economy** , pp. 136-7]
 
 A 2005 study of income mobility by researchers at the London School of
 Economics (on behalf of the educational charity the Sutton Trust) confirms
 that the more free market a country, the worse is its levels of social
 mobility. [Jo Blanden, Paul Gregg and Stephen Machin, **Intergenerational
-Mobility in Europe and North America**, April, 2005] They found that Britain
+Mobility in Europe and North America** , April, 2005] They found that Britain
 has one of the worst records for social mobility in the developed world,
 beaten only by the USA out of eight European and North American countries.
 Norway was the best followed by Denmark, Sweden, Finland, Germany and Canada.
@@ -572,8 +573,6 @@ reference to this fact of social mobility they would be dismissed as mad. The
 evil of slavery is not mitigated by the fact that a few slaves could stop
 being slaves if they worked hard enough.
 
-
-
 ## B.7.3 Why is the existence of classes denied?
 
 It is clear, then, that classes do exist, and equally clear that individuals
@@ -585,10 +584,10 @@ class backgrounds. Fewer than 3 percent started as poor immigrants or farm
 children. Throughout the nineteenth century, just 2 percent of American
 industrialists came from working-class origins"_ [in _"Lies My Teacher Told
 Me"_ citing William Miller, _"American Historians and the Business Elite,"_ in
-**Men in Business**, pp. 326-28; cf. David Montgomery, **Beyond Equality**,
+**Men in Business** , pp. 326-28; cf. David Montgomery, **Beyond Equality** ,
 pg. 15] And this was at the height of USA "free market" capitalism. According
 to a survey done by C. Wright Mills and reported in his book **The Power
-Elite**, about 65% of the highest-earning CEOs in American corporations come
+Elite** , about 65% of the highest-earning CEOs in American corporations come
 from wealthy families. Meritocracy, after all, does not imply a "classless"
 society, only that some mobility exists between classes. Yet we continually
 hear that class is an outmoded concept; that classes don't exist any more,
@@ -626,8 +625,8 @@ institutions built on them are safe. Government remains strong because people
 think political authority and legal compulsion necessary. Capitalism will
 continue as long as such an economic system is considered adequate and just.
 The weakening of the ideas which support the evil and oppressive present day
-conditions means the ultimate breakdown of government and capitalism."_
-[_"Author's Foreword,"_ **What is Anarchism?**, p. xii]
+conditions means the ultimate breakdown of government and capitalism."_ [
+_"Author's Foreword,"_ **What is Anarchism?** , p. xii]
 
 Unsurprisingly, to deny the existence of classes is an important means of
 bolstering capitalism, to undercut social criticism of inequality and
@@ -681,7 +680,7 @@ interests as a worker are **different** from the interests of your
 capitalistic masters. More than different: they are entirely opposite; in
 fact, contrary, antagonistic to each other. The better wages the boss pays
 you, the less profit he makes out of you. It does not require great philosophy
-to understand that."_ [**What is Anarchism?**, pp. 75-6]
+to understand that."_ [ **What is Anarchism?** , pp. 75-6]
 
 That classes are in conflict can be seen from the post-war period in most
 developed countries. Taking the example of the USA, the immediate post-war
@@ -699,21 +698,21 @@ found it harder to make ends meet.
 A similar process occurred in the 1920s when Alexander Berkman stated the
 obvious:
 
-> _ "The masters have found a very effective way to paralyse the strength of
-organised labour. They have persuaded the workers that they have the same
-interests as the employers . . . that what is good for the employer is good
-for his employees . . . [that] the workers will not think of fighting their
-masters for better conditions, but they will be patient and wait till the
-employer can 'share his prosperity' with them. They will also consider the
-interests of 'their' country and they will not 'disturb industry' and the
-'orderly life of the community' by strikes and stoppage of work. If you listen
-to your exploiters and their mouthpieces you will be 'good' and consider only
-the interests of your masters, of your city and country -- but no one cares
-about **your** interests and those of your family, the interests of your union
-and of your fellow workers of the labouring class. 'Don't be selfish,' they
-admonish you, while the boss is getting rich by your being good and unselfish.
-And they laugh in their sleeves and thank the Lord that you are such an
-idiot."_ [**Op. Cit.**, pp. 74-5]
+> _"The masters have found a very effective way to paralyse the strength of
+> organised labour. They have persuaded the workers that they have the same
+> interests as the employers . . . that what is good for the employer is good
+> for his employees . . . [that] the workers will not think of fighting their
+> masters for better conditions, but they will be patient and wait till the
+> employer can 'share his prosperity' with them. They will also consider the
+> interests of 'their' country and they will not 'disturb industry' and the
+> 'orderly life of the community' by strikes and stoppage of work. If you
+> listen to your exploiters and their mouthpieces you will be 'good' and
+> consider only the interests of your masters, of your city and country -- but
+> no one cares about **your** interests and those of your family, the
+> interests of your union and of your fellow workers of the labouring class.
+> 'Don't be selfish,' they admonish you, while the boss is getting rich by
+> your being good and unselfish. And they laugh in their sleeves and thank the
+> Lord that you are such an idiot."_ [ **Op. Cit.** , pp. 74-5]
 
 So, in a nutshell, class consciousness is to look after your own interest as a
 member of the working class. To be aware that there is inequality in society
@@ -727,7 +726,7 @@ latter's labour"_ which means _"war between"_ the two _"is unavoidable."_ For
 the working class desires _"only equality"_ while the ruling elite _"exist[s]
 only through inequality."_ For the latter, _"as a separate class, equality is
 death"_ while for the former _"the least inequality is slavery."_ [Bakunin,
-**The Basic Bakunin**, p. 97 and pp. 91-2]
+**The Basic Bakunin** , p. 97 and pp. 91-2]
 
 Although class analysis may at first appear to be a novel idea, the
 conflicting interests of the classes is **well** recognised on the other side
@@ -742,11 +741,11 @@ the class system going while anarchists seek to end it once and for all.
 It could therefore be argued that anarchists actually want an _**"anti-
 class"**_ consciousness to develop -- that is, for people to recognise that
 classes exist, to understand **why** they exist, and act to abolish the root
-causes for their continued existence (_"class consciousness,"_ argues Vernon
+causes for their continued existence ( _"class consciousness,"_ argues Vernon
 Richards, _"but not in the sense of wanting to perpetuate classes, but the
 consciousness of their existence, an understanding of why they exist, and a
-determination, informed by knowledge and militancy, to abolish them."_ [**The
-Impossibilities of Social Democracy**, p. 133]). In short, anarchists want to
+determination, informed by knowledge and militancy, to abolish them."_ [ **The
+Impossibilities of Social Democracy** , p. 133]). In short, anarchists want to
 eliminate classes, not universalise the class of "wage worker" (which would
 presuppose the continued existence of capitalism).
 
@@ -756,10 +755,10 @@ revolutionary when he undoes his [or her] 'workerness', when he [or she] comes
 to detest his class status here and now, when he begins to shed. . . his work
 ethic, his character-structure derived from industrial discipline, his respect
 for hierarchy, his obedience to leaders, his consumerism, his vestiges of
-puritanism."_ [**Post-Scarcity Anarchism**, p. 119] For, in the end,
+puritanism."_ [ **Post-Scarcity Anarchism** , p. 119] For, in the end,
 anarchists _"cannot build until the working class gets rid of its illusions,
 its acceptance of bosses and faith in leaders."_ [Marie-Louise Berneri,
-**Neither East Nor West**, p. 19]
+**Neither East Nor West** , p. 19]
 
 It may be objected that there are only individuals and anarchists are trying
 to throw a lot of people in a box and put a label like "working class" on
@@ -800,10 +799,10 @@ interest** of the proletariat to emancipate itself from bondage . . . It is
 only be growing to a true realisation of their present position, by
 visualising their possibilities and powers, by learning unity and co-
 operation, and practising them, that the masses can attain freedom."_
-[Alexander Berkman, **Op. Cit.**, pp. 187-8]
+[Alexander Berkman, **Op. Cit.** , pp. 187-8]
 
 We recognise, therefore, that only those at the bottom of society have a
-**self**-interest in freeing themselves from the burden of those at the top,
+**self** -interest in freeing themselves from the burden of those at the top,
 and so we see the importance of class consciousness in the struggle of
 oppressed people for self-liberation. Thus, _"[f]ar from believing in the
 messianic role of the working class, the anarchists' aim is to **abolish** the
@@ -812,24 +811,24 @@ all existing societies. . . What we do say is that no revolution can succeed
 without the active participation of the working, producing, section of the
 population. . . The power of the State, the values of authoritarian society
 can only be challenged and destroyed by a greater power and new values."_
-[Vernon Richards, **The Raven**, no. 14, pp. 183-4] Anarchists also argue that
-one of the effects of direct action to resist oppression and exploitation of
-working class people would be the **creation** of such a power and new values,
-values based on respect for individual freedom and solidarity (see sections
-[J.2](secJ2.md) and [J.4](secJ4.md) on direct action and its liberating
-potential).
+[Vernon Richards, **The Raven** , no. 14, pp. 183-4] Anarchists also argue
+that one of the effects of direct action to resist oppression and exploitation
+of working class people would be the **creation** of such a power and new
+values, values based on respect for individual freedom and solidarity (see
+sections [J.2](secJ2.md) and [J.4](secJ4.md) on direct action and its
+liberating potential).
 
 As such, class consciousness also means recognising that working class people
 not only have an interest in ending its oppression but that we also have the
 power to do so. _"This power, the people's power,"_ notes Berkman, _"is
-**actual**: it cannot be taken away, as the power of the ruler, of the
+**actual** : it cannot be taken away, as the power of the ruler, of the
 politician, or of the capitalist can be. It cannot be taken away because it
 does not consist of possessions but in ability. It is the ability to create,
 to produce; the power that feeds and clothes the world, that gives us life,
 health and comfort, joy and pleasure."_ The power of government and capital
 _"disappear when the people refuse to acknowledge them as masters, refuse to
-let them lord it over them."_ This is _"the all-important **economic power**"_
-of the working class. [**Op. Cit.**, p. 87, p. 86 and p. 88]
+let them lord it over them."_ This is _"the all-important **economic power**
+"_ of the working class. [ **Op. Cit.** , p. 87, p. 86 and p. 88]
 
 This potential power of the oppressed, anarchist argue, shows that not only
 are classes wasteful and harmful, but that they can be ended once those at the
@@ -837,7 +836,7 @@ bottom seek to do so and reorganise society appropriately. This means that we
 have the power to transform the economic system into a non-exploitative and
 classless one as _"only a productive class may be libertarian in nature,
 because it does not need to exploit."_ [Albert Meltzer, **Anarchism: Arguments
-For and Against**, p. 23]
+For and Against** , p. 23]
 
 Finally, it is important to stress that anarchists think that class
 consciousness **must** also mean to be aware of **all** forms of hierarchical
@@ -847,8 +846,8 @@ questioning all forms of domination, oppression and exploitation.
 
 For anarchists, _"[t]he class struggle does not centre around material
 exploitation alone but also around spiritual exploitation, . . . [as well as]
-psychological and environmental oppression."_ [Bookchin, **Op. Cit.**, p. 151]
-This means that we do not consider economic oppression to be the only
+psychological and environmental oppression."_ [Bookchin, **Op. Cit.** , p.
+151] This means that we do not consider economic oppression to be the only
 important thing, ignoring struggles and forms of oppression outside the
 workplace. To the contrary, workers are human beings, not the economically
 driven robots of capitalist and Leninist mythology. They are concerned about
@@ -856,7 +855,7 @@ everything that affects them -- their parents, their children, their friends,
 their neighbours, their planet and, very often, total strangers.
 
 [‹ B.6 But won't decisions made by individuals with their own money be the
-best? ](secB6.md "Go to previous page" ) [up](secBcon.md "Go to parent
-page" ) [Section C - What are the myths of capitalist economics?
-›](secCcon.md "Go to next page" )
+best? ](secB6.md "Go to previous page") [up](secBcon.md "Go to parent
+page") [Section C - What are the myths of capitalist economics?
+›](secCcon.md "Go to next page")
 

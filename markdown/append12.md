@@ -27,7 +27,7 @@ socially contingent."_ This, however, is **not** why anarchists are
 egalitarians. Anarchists oppose inequalities because they undermine and
 restrict individual and social freedom.
 
-Taking another example, under the question, _"How would left-anarchy work?"_,
+Taking another example, under the question, _"How would left-anarchy work?"_ ,
 Caplan fails to spell out some of the really obvious forms of anarchist
 thought. For example, the works of Bookchin, Kropotkin, Bakunin and Proudhon
 are not discussed in any detail. His vague and confusing prose would seem to
@@ -67,7 +67,7 @@ FAQ.
 
 ## 1 Is anarchism purely negative?
 
-[1]. Caplan, consulting his **American Heritage Dictionary**, claims:
+[1]. Caplan, consulting his **American Heritage Dictionary** , claims:
 _"Anarchism is a negative; it holds that one thing, namely government, is bad
 and should be abolished. Aside from this defining tenet, it would be difficult
 to list any belief that all anarchists hold."_
@@ -89,8 +89,8 @@ anarchist must be against capitalism in order to be a true anarchist.
 
 Moreover it is not at all difficult to find a more fundamental _"defining
 tenet"_ of anarchism. We can do so merely by analysing the term _"an-archy,"_
-which is composed of the Greek words **an**, meaning _"no"_ or _"without,"_
-and **arche**, meaning literally _"a ruler,"_ but more generally referring to
+which is composed of the Greek words **an** , meaning _"no"_ or _"without,"_
+and **arche** , meaning literally _"a ruler,"_ but more generally referring to
 the **principle** of rulership, i.e. hierarchical authority. Hence an
 anarchist is someone who advocates abolishing the principle of hierarchical
 authority -- not just in government but in all institutions and social
@@ -130,13 +130,13 @@ to all other forms of hierarchical structure.
 
 To understand why let use look to capitalist property. Murray Rothbard argues
 that _"[o]bviously, in a free society, Smith has the ultimate decision-making
-power over his own just property, Jones over his, etc."_ [**The Ethics of
-Liberty**, p. 173] Defence firms would be employed to enforce those decisions
+power over his own just property, Jones over his, etc."_ [ **The Ethics of
+Liberty** , p. 173] Defence firms would be employed to enforce those decisions
 (i.e. laws and rules). No real disagreement there. What **is** illuminating is
 Rothbard's comments that the state _"arrogates to itself a monopoly of force,
-of ultimate decision-making power, over a given area territorial area"_ [**Op.
-Cit.** , p. 170] Which, to state the obvious, means that both the state and
-property is marked by an _"ultimate decision-making power"_ over their
+of ultimate decision-making power, over a given area territorial area"_ [
+**Op. Cit.** , p. 170] Which, to state the obvious, means that both the state
+and property is marked by an _"ultimate decision-making power"_ over their
 territory. The only "difference" is that Rothbard claims the former is "just"
 (i.e. "justly" acquired) and the latter is "unjust" (i.e. acquired by force).
 In reality of course, the modern distribution of property is just as much a
@@ -148,13 +148,13 @@ state has its. If one is valid, so is the other. Rothbard (and
 Rothbard goes on to show why statism and private property are essentially the
 same thing:
 
-> _"**If** the State may be said too properly **own** its territory, then it
-is proper for it to make rules for everyone who presumes to live in that area.
-It can legitimately seize or control private property because there **is** no
-private property in its area, because it really owns the entire land surface.
-**So long** as the State permits its subjects to leave its territory, then, it
-can be said to act as does any other owner who sets down rules for people
-living on his property."_ [**Op. Cit.**, p. 170]
+> _" **If** the State may be said too properly **own** its territory, then it
+> is proper for it to make rules for everyone who presumes to live in that
+> area. It can legitimately seize or control private property because there
+> **is** no private property in its area, because it really owns the entire
+> land surface. **So long** as the State permits its subjects to leave its
+> territory, then, it can be said to act as does any other owner who sets down
+> rules for people living on his property."_ [ **Op. Cit.** , p. 170]
 
 Of course Rothbard does not draw the obvious conclusion. He wants to maintain
 that the state is bad and property is good while drawing attention to their
@@ -175,8 +175,8 @@ This is by nature hierarchical. Little wonder Noam Chomsky argued that a
 _"consistent anarchist must oppose private ownership of the means of
 production and the wage slavery which is a component of this system as
 incompatible with the principle that labour must be freely undertaken and
-under the control of the producer."_ [_"Notes on Anarchism"_, **For Reasons of
-State**, p. 158]
+under the control of the producer."_ [ _"Notes on Anarchism"_ , **For Reasons
+of State** , p. 158]
 
 Thus a true anarchist must oppose both state and capitalism as they generate
 the same hierarchical social relationships (as recognised by Rothbard but
@@ -217,10 +217,10 @@ anarchism.
 Caplan writes:
 
 > _"Unlike the left-anarchists, anarcho-capitalists generally place little or
-no value on equality, believing that inequalities along all dimensions --
-including income and wealth -- are not only perfectly legitimate so long as
-they 'come about in the right way,' but are the natural consequence of human
-freedom."_
+> no value on equality, believing that inequalities along all dimensions --
+> including income and wealth -- are not only perfectly legitimate so long as
+> they 'come about in the right way,' but are the natural consequence of human
+> freedom."_
 
 This statement is not inaccurate as a characterisation of "anarcho"-capitalist
 ideas, but its implications need to be made clear. "Anarcho"-capitalists
@@ -248,16 +248,17 @@ leading "anarcho"-capitalist icon) analysis of the situation after the
 abolition of serfdom in Russia and slavery in America. He writes:
 
 > _"The **bodies** of the oppressed were freed, but the property which they
-had worked and eminently deserved to own, remained in the hands of their
-former oppressors. With economic power thus remaining in their hands, the
-former lords soon found themselves virtual masters once more of what were now
-free tenants or farm labourers. The serfs and slaves had tasted freedom, but
-had been cruelly derived of its fruits."_ [**The Ethics of Liberty**, p. 74]
+> had worked and eminently deserved to own, remained in the hands of their
+> former oppressors. With economic power thus remaining in their hands, the
+> former lords soon found themselves virtual masters once more of what were
+> now free tenants or farm labourers. The serfs and slaves had tasted freedom,
+> but had been cruelly derived of its fruits."_ [ **The Ethics of Liberty** ,
+> p. 74]
 
 However, contrast this with Rothbard's (and Caplan's) claims that if market
 forces ("voluntary exchanges") result in the creation of free tenants or wage-
 labourers then these labourers and tenants are free (see, for example, **The
-Ethics of Liberty**, pp. 221-2 on why "economic power" within capitalism does
+Ethics of Liberty** , pp. 221-2 on why "economic power" within capitalism does
 not, in fact, exist). But the labourers dispossessed by market forces are in
 **exactly** the same situation as the former serfs and slaves. Rothbard sees
 the obvious "economic power" in the later case, but denies it in the former.
@@ -301,27 +302,27 @@ highlight when they defend it as the paradigm of liberty.
 writes:
 
 > _"Outside of the Anglo-American political culture, there has been a long and
-close historical relationship between the more orthodox socialists who
-advocate a socialist government, and the anarchist socialists who desire some
-sort of decentralised, voluntary socialism. The two groups both want to
-severely limit or abolish private property..."_
+> close historical relationship between the more orthodox socialists who
+> advocate a socialist government, and the anarchist socialists who desire
+> some sort of decentralised, voluntary socialism. The two groups both want to
+> severely limit or abolish private property..."_
 
 For Caplan to claim that anarchism is not the same thing as socialism, he has
 to ignore anarchist history. For example, the Individualist anarchists called
 themselves _"socialists,"_ as did social anarchists. Indeed, Individualist
 Anarchists like Joseph Labadie stated that _"Anarchism is voluntary
-socialism"_ [**Anarchism: What it is and What it is Not**) and wanted to limit
-private property in many ways (for example, _"the resources of nature -- land,
-mines, and so forth -- should not be held as private property and subject to
-being held by the individual for speculative purposes, that use of these
-things shall be the only valid title, and that each person has an equal right
-to the use of all these things."_ [**What is Socialism?**]). Therefore,
-**within** the _"Anglo-American political culture,"_ **all** types of
-anarchists considered themselves part of the socialist movement. This can be
-seen not only from Kropotkin's or Bakunin's work, but also in Tucker's (see
-**Instead of a Book**). So to claim that the _"Anglo-American"_ anarchists did
-not have _"a long and close historical relationship"_ with the wider socialist
-movement is simply **false.**
+socialism"_ [ **Anarchism: What it is and What it is Not** ) and wanted to
+limit private property in many ways (for example, _"the resources of nature --
+land, mines, and so forth -- should not be held as private property and
+subject to being held by the individual for speculative purposes, that use of
+these things shall be the only valid title, and that each person has an equal
+right to the use of all these things."_ [ **What is Socialism?** ]).
+Therefore, **within** the _"Anglo-American political culture,"_ **all** types
+of anarchists considered themselves part of the socialist movement. This can
+be seen not only from Kropotkin's or Bakunin's work, but also in Tucker's (see
+**Instead of a Book** ). So to claim that the _"Anglo-American"_ anarchists
+did not have _"a long and close historical relationship"_ with the wider
+socialist movement is simply **false.**
 
 The statement that anarchists want to severely limit or abolish "private
 property" is misleading if it is not further explained. For the way it stands,
@@ -333,12 +334,12 @@ Firstly, anarchists are **not** against "private property" in the sense
 personal belongings. _"Anarchists,"_ points out Nicholas Walter, _"are in
 favour of the private property which cannot be used by one person to exploit
 another -- those personal possessions which we accumulate from childhood and
-which become part of ours."_ [_"About Anarchism"_, in **Reinventing Anarchy**,
-p. 49] Kropotkin makes the anarchist position clear when he wrote that we _"do
-not want to rob any one of his coat"_ but expropriation _"must apply to
-everything that enables any man [or woman] -- by he financier, mill owner, or
-landlord -- to appropriate the product of others' toil."_ [**The Conquest of
-Bread**, p. 61]
+which become part of ours."_ [ _"About Anarchism"_ , in **Reinventing
+Anarchy** , p. 49] Kropotkin makes the anarchist position clear when he wrote
+that we _"do not want to rob any one of his coat"_ but expropriation _"must
+apply to everything that enables any man [or woman] -- by he financier, mill
+owner, or landlord -- to appropriate the product of others' toil."_ [ **The
+Conquest of Bread** , p. 61]
 
 In effect, Caplan is confusing two very different kinds of "private property",
 of which one rests on usefulness to an individual, the other on the employment
@@ -372,14 +373,14 @@ have free access to widget-making machinery, thus preventing Bob from living
 parasitically on their labour. Thus Kropotkin:
 
 > _"Everywhere you will find that the wealth of the wealthy springs from the
-poverty of the poor. That is why an anarchist society need not fear the advent
-of a Rothschild [or any other millionaire] who would settle in its midst. If
-every member of the community knows that after a few hours of productive toil
-he [or she] will have a right to all the pleasures that civilisation procures,
-and to those deeper sources of enjoyment which art and science offer to all
-who seek them, he [or she] will not sell his strength. . . No one will
-volunteer to work for the enrichment of your Rothschild."_ [**Op. Cit.**, p.
-61]
+> poverty of the poor. That is why an anarchist society need not fear the
+> advent of a Rothschild [or any other millionaire] who would settle in its
+> midst. If every member of the community knows that after a few hours of
+> productive toil he [or she] will have a right to all the pleasures that
+> civilisation procures, and to those deeper sources of enjoyment which art
+> and science offer to all who seek them, he [or she] will not sell his
+> strength. . . No one will volunteer to work for the enrichment of your
+> Rothschild."_ [ **Op. Cit.** , p. 61]
 
 In this scenario, private property was "abolished," but not through coercion.
 Indeed, it was precisely the abolition of organised coercion that allowed
@@ -390,11 +391,12 @@ private property to be abolished.
 [9.] On the question "How would left-anarchy work?" Caplan writes:
 
 > _"Some other crucial features of the left-anarchist society are quite
-unclear. Whether dissidents who despised all forms of communal living would be
-permitted to set up their own inegalitarian separatist societies is rarely
-touched upon. Occasionally left-anarchists have insisted that small farmers
-and the like would not be forcibly collectivised, but the limits of the right
-to refuse to adopt an egalitarian way of life are rarely specified."_
+> unclear. Whether dissidents who despised all forms of communal living would
+> be permitted to set up their own inegalitarian separatist societies is
+> rarely touched upon. Occasionally left-anarchists have insisted that small
+> farmers and the like would not be forcibly collectivised, but the limits of
+> the right to refuse to adopt an egalitarian way of life are rarely
+> specified."_
 
 This is a straw man. "Left" (i.e. real) anarchist theory clearly implies and
 **explicitly states** the answer to these questions.
@@ -404,20 +406,20 @@ always acknowledged that there would be multitude of different communities
 after a revolution (and not just Caplan's "inegalitarian" ones). Marx, for
 example, mocked Bakunin for arguing that only revolutionary communes would
 federate together and that this would not claim any right to govern others
-(see Bakunin's _"Letter to Albert Richards"_, **Michael Bakunin: Selected
-Writings**, p. 179] Kropotkin stated that _"the point attained in the
+(see Bakunin's _"Letter to Albert Richards"_ , **Michael Bakunin: Selected
+Writings** , p. 179] Kropotkin stated that _"the point attained in the
 socialisation of wealth will not be everywhere the same"_ and _"[s]ide by side
 with the revolutionised communes . . . places would remain in an expectant
-attitude, and would go on living on the Individualist system."_ [**The
-Conquest of Bread**, p. 81] While he was hopeful that _"everywhere [would be]
+attitude, and would go on living on the Individualist system."_ [ **The
+Conquest of Bread** , p. 81] While he was hopeful that _"everywhere [would be]
 more or less Socialism"_ he recognised that the revolution would not conform
 to _"any particular rule"_ and would differ in different areas -- _"in one
-country State Socialist, in another Federation"_ and so on. [**Op. Cit.**, p.
-82] Malatesta made the same point, arguing that _"after the revolution"_ there
-would be _"relations between anarchist groupings and those living under some
-kind of authority, between communist collectives and those living in an
-individualistic way."_ This is because anarchism _"cannot be imposed"_.
-[**Life and Ideas**, p. 173, p. 21]
+country State Socialist, in another Federation"_ and so on. [ **Op. Cit.** ,
+p. 82] Malatesta made the same point, arguing that _"after the revolution"_
+there would be _"relations between anarchist groupings and those living under
+some kind of authority, between communist collectives and those living in an
+individualistic way."_ This is because anarchism _"cannot be imposed"_. [
+**Life and Ideas** , p. 173, p. 21]
 
 Needless to say, these "separatist societies" (which may or may not be
 "inegalitarian") would not be anarchist societies. If a group of people wanted
@@ -430,15 +432,16 @@ mutualist, individualist -- as one wishes, always on condition that there is
 no oppression or exploitation of other"_ as _"it is clear that all, and only,
 those ways of life which respect freedom, and recognise that each individual
 has an equal right to the means of production and to the full enjoyment of the
-product of his own labour, have anything in common with anarchism."_ [**Op.
-Cit.**, p. 103 and p. 33]
+product of his own labour, have anything in common with anarchism."_ [ **Op.
+Cit.** , p. 103 and p. 33]
 
 Ultimately, _"it is not a question of right and wrong; it is a question of
 freedom for everybody. . . None can judge with certainty who is right and who
 is wrong, who is nearest to the truth, or which is the best way to achieve the
 greatest good for each and everyone. Freedom coupled with experience, is the
 only way of discovering the truth and what is best; and there can be no
-freedom if there is the denial of the freedom to err."_ [**Op. Cit.**, p. 49]
+freedom if there is the denial of the freedom to err."_ [ **Op. Cit.** , p.
+49]
 
 Secondly, regarding _"dissidents"_ who wanted to set up their own
 _"inegalitarian separatist societies,"_ if the term "inegalitarian" implies
@@ -475,15 +478,16 @@ The statement that "left" anarchists have _"occasionally"_ insisted that small
 farmers and the like would not be forcibly collectivised is a distortion of
 the facts. No responsible left libertarian advocates forced collectivisation,
 i.e. compelling others to join collectives. Self-employment is always an
-option. This can be seen from Bakunin's works [**Bakunin on Anarchism**, p.
-200], Kropotkin's [**The Conquest of Bread**, p. 61 and **Act for
-Yourselves**, pp. 104-5] and Malatesta's [**Life and Ideas**, p. 99, p. 103].
-So the anarchist opposition to forced collectivisation has always existed and,
-for anyone familiar with the ideas of social anarchism, very well know. Thus
-during the Spanish Revolution, small farmers who did not wish to join
-collective farms were allowed to keep as much land as they could work
+option. This can be seen from Bakunin's works [ **Bakunin on Anarchism** , p.
+200], Kropotkin's [ **The Conquest of Bread** , p. 61 and **Act for
+Yourselves** , pp. 104-5] and Malatesta's [ **Life and Ideas** , p. 99, p.
+103]. So the anarchist opposition to forced collectivisation has always
+existed and, for anyone familiar with the ideas of social anarchism, very well
+know. Thus during the Spanish Revolution, small farmers who did not wish to
+join collective farms were allowed to keep as much land as they could work
 themselves. After perceiving the advantages of collectives, however, many
-joined them voluntarily (see Sam Dolgoff, ed., **The Anarchist Collectives**).
+joined them voluntarily (see Sam Dolgoff, ed., **The Anarchist Collectives**
+).
 
 To claim that social anarchists _"occasionally"_ oppose forced
 collectivisation is a smear, pure and simple, with little basis in anarchist
@@ -510,10 +514,10 @@ summary of arguments for "anarcho"-capitalism, which he describes as an
 offshoot of Libertarianism. Thus:
 
 > _"So-called 'minarchist' libertarians such as Nozick have argued that the
-largest justified government was one which was limited to the protection of
-individuals and their private property against physical invasion; accordingly,
-they favour a government limited to supplying police, courts, a legal code,
-and national defence."_
+> largest justified government was one which was limited to the protection of
+> individuals and their private property against physical invasion;
+> accordingly, they favour a government limited to supplying police, courts, a
+> legal code, and national defence."_
 
 The first thing to note about this argument is that it is stated in such a way
 as to prejudice the reader against the left-libertarian critique of private
@@ -541,9 +545,9 @@ individuals rather than "protecting" them.
 Caplan goes on:
 
 > _"This normative theory is closely linked to laissez-faire economic theory,
-according to which private property and unregulated competition generally lead
-to both an efficient allocation of resources and (more importantly) a high
-rate of economic progress."_
+> according to which private property and unregulated competition generally
+> lead to both an efficient allocation of resources and (more importantly) a
+> high rate of economic progress."_
 
 Caplan does not mention the obvious problems with this "theory," e.g. that
 during the heyday of laissez-faire capitalism in the US there was vast wealth
@@ -588,11 +592,11 @@ from where it is most needed to where it can generate a profit. As anarchist
 George Barret noted decades before Sen:
 
 > _"Today the scramble is to compete for the greatest profits. If there is
-more profit to be made in satisfying my lady's passing whim than there is in
-feeding hungry children, then competition brings us in feverish haste to
-supply the former, whilst cold charity or the poor law can supply the latter,
-or leave it unsupplied, just as it feels disposed. That is how it works out."_
-[**Objectives to Anarchism**]
+> more profit to be made in satisfying my lady's passing whim than there is in
+> feeding hungry children, then competition brings us in feverish haste to
+> supply the former, whilst cold charity or the poor law can supply the
+> latter, or leave it unsupplied, just as it feels disposed. That is how it
+> works out."_ [ **Objectives to Anarchism** ]
 
 In other words, inequality skews resource allocation towards the wealthy.
 While such a situation may be _"efficient allocation of resources"_ from the
@@ -614,8 +618,8 @@ they could be used to satisfy other needs.
 The stock market is also a source of other inefficiencies. Supporters of
 "free-market" capitalism always argued that the Stalinist system of central
 planning created a perverse set of incentives to managers. In effect, the
-system penalised honest managers and encouraged the flow of
-**dis**-information. This lead to information being distorted and resources
+system penalised honest managers and encouraged the flow of **dis**
+-information. This lead to information being distorted and resources
 inefficiently allocated and wasted. Unfortunately the stock market also
 creates its own set of perverse responses and mis-information. Doug Henwood
 argues that _"something like a prisoners' dilemma prevails in relations
@@ -633,19 +637,19 @@ mass firings -- a bulimic strategy of management -- since the cost cutting was
 seen as contributing rather quickly to profits. Firms and economies can't get
 richer by starving themselves, but stock market investors can get richer when
 the companies they own go hungry. As for the long term, well, that's someone
-else's problem."_ [**Wall Street**, p. 171]
+else's problem."_ [ **Wall Street** , p. 171]
 
 This means that resources are allocated to short term projects, those that
 enrich the investors now rather than produce long term growth and benefits
 later. This results in slower and more unstable investment than less market
-centred economies, as well as greater instability over the business cycle
-[**Op. Cit.**, pp. 174-5] Thus the claim that capitalism results in the
+centred economies, as well as greater instability over the business cycle [
+**Op. Cit.** , pp. 174-5] Thus the claim that capitalism results in the
 "efficient" allocation of resources is only true if we assume "efficient"
 equals highest profits for capitalists. As Henwood summarises, _"the US
 financial system performs dismally at its advertised task, that of efficiently
 directing society's savings towards their optimal investment pursuits. The
 system is stupefyingly expensive, gives terrible signals, and has surprisingly
-little to do with real investment."_ [**Op. Cit.**, p. 3]
+little to do with real investment."_ [ **Op. Cit.** , p. 3]
 
 Moreover, the claim that laissez-faire economies produce a high rate of
 economic progress can be questioned on the empirical evidence available. For
@@ -659,18 +663,18 @@ reforms, the British economy grew by 2.4% in the 1970s. After Thatcher's
 election in 1979, growth decreased to 2% in the 1980s and to 1.2% in the
 1990s. In the USA, we find a similar pattern. Growth was 4.4% in the 1960s,
 3.2% in the 1970s, 2.8% in the 1980s and 1.9% in the first half of the 1990s
-[Larry Elliot and Dan Atkinson, **The Age of Insecurity**, p. 236]. Moreover,
+[Larry Elliot and Dan Atkinson, **The Age of Insecurity** , p. 236]. Moreover,
 in terms of inflation-adjusted GDP per capita and productivity, the US had the
 worse performance out of the US, UK, Japan, Italy, France, Canada and
 Australia between 1970 and 1995 [Marc-Anfre Pigeon and L. Randall Wray,
-**Demand Constraints and Economic Growth**]. Given that the US is usually
+**Demand Constraints and Economic Growth** ]. Given that the US is usually
 considered the most laissez-faire out of these 7 countries, Caplan's claim of
 high progress for deregulated systems seems at odds with this evidence.
 
 As far as technological innovation goes, it is also not clear that
 deregulation has aided that process. Much of our modern technology owns its
 origins to the US Pentagon system, in which public money is provided to
-companies for military R&amp;D purposes. Once the technology has been proven
+companies for military R&D purposes. Once the technology has been proven
 viable, the companies involved can sell their public subsidised products for
 private profit. The computer industry (as we point out in [section
 J.4.7](secJ4.md#secj47)) is a classic example of this -- indeed it is
@@ -688,7 +692,7 @@ over the areas it had invaded) we can suggest that the opposite may be true.
 After 25 prosperous years of fast growth (3.5 per cent), after 1873 Britain
 had 40 years of slow growth (1.5 per cent), the last 14 years of which were
 the worse -- with productivity declining, GDP stagnant and home investment
-halved. [Nicholas Kaldor, **Further Essays on Applied Economics**, p. 239] In
+halved. [Nicholas Kaldor, **Further Essays on Applied Economics** , p. 239] In
 comparison, those countries which embraced protectionism (such as Germany and
 the USA) industrialised successfully and become competitors with the UK.
 Indeed, these new competitors grew in time to be efficient competitors of
@@ -696,9 +700,9 @@ Britain not only in foreign markets but also in Britain's home market. The
 result was that _"for fifty years Britain's GDP grew very slowly relative to
 the more successful of the newer industrialised countries, who overtook her,
 one after another, in the volume of manufacturing production and in exports
-and finally in real income per head."_ [**Op. Cit.**, p. xxvi] Indeed,
+and finally in real income per head."_ [ **Op. Cit.** , p. xxvi] Indeed,
 _"America's growth and productivity rates were higher when tariffs were steep
-than when they came down."_ [Larry Elliot and Dan Atkinson, **Op. Cit.**, p.
+than when they came down."_ [Larry Elliot and Dan Atkinson, **Op. Cit.** , p.
 277]
 
 It is possible to explain almost everything that has ever happened in the
@@ -727,7 +731,7 @@ initially benefit from free trade as it was the only industrialised nation
 mercantilist policies). This position of strength allowed them to dominate and
 destroy possible competitors (as Kaldor points out, _"[w]here the British
 succeeded in gaining free entry for its goods. . . it had disastrous effects
-on local manufactures and employment."_ [**Op. Cit.**, p. xxvi]). This would
+on local manufactures and employment."_ [ **Op. Cit.** , p. xxvi]). This would
 revert the other country back towards agriculture, an industry with
 diminishing returns to scale (manufacturing, in contrast, has increasing
 returns) and ensure Britain's position of power.
@@ -753,12 +757,12 @@ that theory.
 Next we get to the meat of the defence of "anarcho"-capitalism:
 
 > _"Now the anarcho-capitalist essentially turns the minarchist's own logic
-against him, and asks why the remaining functions of the state could not be
-turned over to the free market. And so, the anarcho-capitalist imagines that
-police services could be sold by freely competitive firms; that a court system
-would emerge to peacefully arbitrate disputes between firms; and that a
-sensible legal code could be developed through custom, precedent, and
-contract."_
+> against him, and asks why the remaining functions of the state could not be
+> turned over to the free market. And so, the anarcho-capitalist imagines that
+> police services could be sold by freely competitive firms; that a court
+> system would emerge to peacefully arbitrate disputes between firms; and that
+> a sensible legal code could be developed through custom, precedent, and
+> contract."_
 
 Indeed, the functions in question could certainly be turned over to the "free"
 market, as was done in certain areas of the US during the 19th century, e.g.
@@ -782,10 +786,10 @@ something else.
 Caplan:
 
 > _"The anarcho-capitalist typically hails modern society's increasing
-reliance on private security guards, gated communities, arbitration and
-mediation, and other demonstrations of the free market's ability to supply the
-defensive and legal services normally assumed to be of necessity a government
-monopoly."_
+> reliance on private security guards, gated communities, arbitration and
+> mediation, and other demonstrations of the free market's ability to supply
+> the defensive and legal services normally assumed to be of necessity a
+> government monopoly."_
 
 It is questionable that _"modern society"_ **as such** has increased its
 reliance on _"private security guards, gated communities"_ and so on. Rather,
@@ -800,7 +804,7 @@ exclude the rest of society from their communities while expected to be given
 access to that society. Needless to say, Caplan fails to see that liberty for
 the rich can mean oppression for the working class -- _"we who belong to the
 proletaire class, property excommunicates us!"_ [Proudhon, **What is
-Property?**, p. 105]
+Property?** , p. 105]
 
 That the law code of the state is being defended by private companies is
 hardly a step towards anarchy. This indicates exactly why an "anarcho"-
@@ -836,14 +840,14 @@ start calling themselves "defence companies."
 Caplan:
 
 > _"In his ideal society, these market alternatives to government services
-would take over **all** legitimate security services. One plausible market
-structure would involve individuals subscribing to one of a large number of
-competing police services; these police services would then set up contracts
-or networks for peacefully handling disputes between members of each others'
-agencies. Alternately, police services might be 'bundled' with housing
-services, just as landlords often bundle water and power with rental housing,
-and gardening and security are today provided to residents in gated
-communities and apartment complexes."_
+> would take over **all** legitimate security services. One plausible market
+> structure would involve individuals subscribing to one of a large number of
+> competing police services; these police services would then set up contracts
+> or networks for peacefully handling disputes between members of each others'
+> agencies. Alternately, police services might be 'bundled' with housing
+> services, just as landlords often bundle water and power with rental
+> housing, and gardening and security are today provided to residents in gated
+> communities and apartment complexes."_
 
 This is a scenario designed with the upper classes in mind and a few working
 class people, i.e. those with **some** property (for example, a house) --
@@ -872,28 +876,29 @@ state. For this reason anarchists would agree with Rousseau when he wrote
 that:
 
 > _"That a rich and powerful man, having acquired immense possessions in
-lands, should impose laws on those who want to establish themselves there, and
-that he should only allow them to do so on condition that they accept his
-supreme authority and obey all his wishes; that, I can still conceive. But how
-can I conceive such a treaty, which presupposes anterior rights, could be the
-first foundation of law? Would not this tyrannical act contain a double
-usurpation: that on the ownership of the land and that on the liberty of the
-inhabitants?"_ [**The Social Contract and Discourses**, p. 316]
+> lands, should impose laws on those who want to establish themselves there,
+> and that he should only allow them to do so on condition that they accept
+> his supreme authority and obey all his wishes; that, I can still conceive.
+> But how can I conceive such a treaty, which presupposes anterior rights,
+> could be the first foundation of law? Would not this tyrannical act contain
+> a double usurpation: that on the ownership of the land and that on the
+> liberty of the inhabitants?"_ [ **The Social Contract and Discourses** , p.
+> 316]
 
 Caplan:
 
 > _"The underlying idea is that contrary to popular belief, private police
-would have strong incentives to be peaceful and respect individual rights. For
-first of all, failure to peacefully arbitrate will yield to jointly
-destructive warfare, which will be bad for profits. Second, firms will want to
-develop long-term business relationships, and hence be willing to negotiate in
-good faith to insure their long-term profitability. And third, aggressive
-firms would be likely to attract only high-risk clients and thus suffer from
-extraordinarily high costs (a problem parallel to the well-known 'adverse
-selection problem' in e.g. medical insurance -- the problem being that high-
-risk people are especially likely to seek insurance, which drives up the price
-when riskiness is hard for the insurer to discern or if regulation requires a
-uniform price regardless of risk)."_
+> would have strong incentives to be peaceful and respect individual rights.
+> For first of all, failure to peacefully arbitrate will yield to jointly
+> destructive warfare, which will be bad for profits. Second, firms will want
+> to develop long-term business relationships, and hence be willing to
+> negotiate in good faith to insure their long-term profitability. And third,
+> aggressive firms would be likely to attract only high-risk clients and thus
+> suffer from extraordinarily high costs (a problem parallel to the well-known
+> 'adverse selection problem' in e.g. medical insurance -- the problem being
+> that high-risk people are especially likely to seek insurance, which drives
+> up the price when riskiness is hard for the insurer to discern or if
+> regulation requires a uniform price regardless of risk)."_
 
 The theory that _"failure to peacefully arbitrate will yield to jointly
 destructive warfare, which will be bad for profits"_ can be faulted in two
@@ -996,12 +1001,12 @@ companies without "high-risk" "customers" could undercut those that have.
 Caplan:
 
 > _"Anarcho-capitalists generally give little credence to the view that their
-'private police agencies' would be equivalent to today's Mafia -- the cost
-advantages of open, legitimate business would make 'criminal police'
-uncompetitive. (Moreover, they argue, the Mafia can only thrive in the
-artificial market niche created by the prohibition of alcohol, drugs,
-prostitution, gambling, and other victimless crimes. Mafia gangs might kill
-each other over turf, but liquor-store owners generally do not.)"_
+> 'private police agencies' would be equivalent to today's Mafia -- the cost
+> advantages of open, legitimate business would make 'criminal police'
+> uncompetitive. (Moreover, they argue, the Mafia can only thrive in the
+> artificial market niche created by the prohibition of alcohol, drugs,
+> prostitution, gambling, and other victimless crimes. Mafia gangs might kill
+> each other over turf, but liquor-store owners generally do not.)"_
 
 As we have pointed out in [section F.6](secF6.md), the "Mafia" objection to
 "anarcho"-capitalist defence companies is a red herring. The biggest problem
@@ -1026,30 +1031,31 @@ Let us look at Henry Ford's Service Department (private police force) in
 action:
 
 > _"In 1932 a hunger march of the unemployed was planned to march up to the
-gates of the Ford plant at Dearborn. . . The machine guns of the Dearborn
-police and the Ford Motor Company's Service Department killed [four] and
-wounded over a score of others. . . Ford was fundamentally and entirely
-opposed to trade unions. The idea of working men questioning his prerogatives
-as an owner was outrageous. . . [T]he River Rouge plant. . . was dominated by
-the autocratic regime of Bennett's service men. Bennett . . organise[d] and
-train[ed] the three and a half thousand private policemen employed by Ford.
-His task was to maintain discipline amongst the work force, protect Ford's
-property [and power], and prevent unionisation. . . Frank Murphy, the mayor of
-Detroit, claimed that 'Henry Ford employs some of the worst gangsters in our
-city.' The claim was well based. Ford's Service Department policed the gates
-of his plants, infiltrated emergent groups of union activists, posed as
-workers to spy on men on the line. . . Under this tyranny the Ford worker had
-no security, no rights. So much so that any information about the state of
-things within the plant could only be freely obtained from ex-Ford workers."_
-[Huw Beynon, **Working for Ford**, pp. 29-30]
+> gates of the Ford plant at Dearborn. . . The machine guns of the Dearborn
+> police and the Ford Motor Company's Service Department killed [four] and
+> wounded over a score of others. . . Ford was fundamentally and entirely
+> opposed to trade unions. The idea of working men questioning his
+> prerogatives as an owner was outrageous. . . [T]he River Rouge plant. . .
+> was dominated by the autocratic regime of Bennett's service men. Bennett . .
+> organise[d] and train[ed] the three and a half thousand private policemen
+> employed by Ford. His task was to maintain discipline amongst the work
+> force, protect Ford's property [and power], and prevent unionisation. . .
+> Frank Murphy, the mayor of Detroit, claimed that 'Henry Ford employs some of
+> the worst gangsters in our city.' The claim was well based. Ford's Service
+> Department policed the gates of his plants, infiltrated emergent groups of
+> union activists, posed as workers to spy on men on the line. . . Under this
+> tyranny the Ford worker had no security, no rights. So much so that any
+> information about the state of things within the plant could only be freely
+> obtained from ex-Ford workers."_ [Huw Beynon, **Working for Ford** , pp.
+> 29-30]
 
 The private police attacked women workers handing out pro-union handbills and
 gave them _"a serve beating."_ At Kansas and Dallas _"similar beatings were
-handed out to the union men."_ [**Op. Cit.**, p. 34] This use of private
+handed out to the union men."_ [ **Op. Cit.** , p. 34] This use of private
 police to control the work force was not unique. General Motors _"spent one
 million dollars on espionage, employing fourteen detective agencies and two
 hundred spies at one time [between 1933 and 1936]. The Pinkerton Detective
-Agency found anti-unionism its most lucrative activity."_ [**Op. Cit.**, p.
+Agency found anti-unionism its most lucrative activity."_ [ **Op. Cit.** , p.
 32] We must also note that the Pinkerton's had been selling their private
 police services for decades before the 1930s. In the 1870s, they had
 infiltrated and destroyed the Molly Maguires (a secret organisation Irish
@@ -1059,7 +1065,7 @@ provocateurs, and private armed forces for employers combating labour
 organisations."_ By 1892 it _"had provided its services for management in
 seventy major labour disputes, and its 2 000 active agents and 30 000 reserves
 totalled more than the standing army of the nation."_ [Jeremy Brecher,
-**Strike!**, p. 9 and p. 55] With this force available, little wonder unions
+**Strike!** , p. 9 and p. 55] With this force available, little wonder unions
 found it so hard to survive in the USA. Given that unions could be considered
 as "defence" agencies for workers, this suggests a picture of how
 "anarcho"-capitalism may work in practice.
@@ -1083,7 +1089,7 @@ the USA and so they consented to taxation, the government's laws and so on.
 
 This is more than a history lesson. Such private police forces are on the rise
 again (see _"Armed and Dangerous: Private Police on the March"_ by Mike
-Zielinski, **Covert Action Quarterly**, no. 54, Fall, 1995 for example). This
+Zielinski, **Covert Action Quarterly** , no. 54, Fall, 1995 for example). This
 system of private police (as demonstrated by Ford) is just one of the hidden
 aspects of Caplan's comment that the "anarcho"-capitalist _"typically hails
 modern society's increasing reliance on private security guards. . . and other
@@ -1096,11 +1102,11 @@ eyes.
 Caplan:
 
 > _"Unlike some left-anarchists, the anarcho-capitalist has no objection to
-punishing criminals; and he finds the former's claim that punishment does not
-deter crime to be the height of naivete. Traditional punishment might be meted
-out after a conviction by a neutral arbitrator; or a system of monetary
-restitution (probably in conjunction with a prison factory system) might exist
-instead."_
+> punishing criminals; and he finds the former's claim that punishment does
+> not deter crime to be the height of naivete. Traditional punishment might be
+> meted out after a conviction by a neutral arbitrator; or a system of
+> monetary restitution (probably in conjunction with a prison factory system)
+> might exist instead."_
 
 Let us note first that in disputes between the capitalist class and the
 working class, there would be no _"neutral arbitrator,"_ because the rich
@@ -1173,7 +1179,7 @@ overcomes the problem of labour turnover and instability. It also _"remove[d]
 all danger and cost of strikes"_ and that it lowers wages for _"free labour"_
 (i.e. wage labour). The US Bureau of Labor reported that _"mine owners [in
 Alabama] say they could not work at a profit without the lowering effect in
-wages of convict-labour competition."_ [**The Umbrella of US Power**, p. 32]
+wages of convict-labour competition."_ [ **The Umbrella of US Power** , p. 32]
 
 Needless to say, Caplan fails to mention this aspect of "anarcho"-capitalism
 (just as he fails to mention the example of Ford's private police state).
@@ -1191,23 +1197,19 @@ conclusion must be drawn.
 Caplan:
 
 > _"Probably the main division between the anarcho-capitalists stems from the
-apparent differences between Rothbard's natural-law anarchism, and David
-Friedman's more economistic approach. Rothbard puts more emphasis on the need
-for a generally recognised libertarian legal code (which he thinks could be
-developed fairly easily by purification of the Anglo-American common law),
-whereas Friedman focuses more intently on the possibility of plural legal
-systems co-existing and responding to the consumer demands of different
-elements of the population. The difference, however, is probably overstated.
-Rothbard believes that it is legitimate for consumer demand to determine the
-philosophically neutral content of the law, such as legal procedure, as well
-as technical issues of property right definition such as water law, mining
-law, etc. And Friedman admits that 'focal points' including prevalent norms
-are likely to circumscribe and somewhat standardise the menu of available
-legal codes."_
-
->
-
->
+> apparent differences between Rothbard's natural-law anarchism, and David
+> Friedman's more economistic approach. Rothbard puts more emphasis on the
+> need for a generally recognised libertarian legal code (which he thinks
+> could be developed fairly easily by purification of the Anglo-American
+> common law), whereas Friedman focuses more intently on the possibility of
+> plural legal systems co-existing and responding to the consumer demands of
+> different elements of the population. The difference, however, is probably
+> overstated. Rothbard believes that it is legitimate for consumer demand to
+> determine the philosophically neutral content of the law, such as legal
+> procedure, as well as technical issues of property right definition such as
+> water law, mining law, etc. And Friedman admits that 'focal points'
+> including prevalent norms are likely to circumscribe and somewhat
+> standardise the menu of available legal codes."_
 
 The argument that "consumer demand" would determine a "philosophically
 neutral" content of the law cannot be sustained. Any law code will reflect the
@@ -1226,7 +1228,7 @@ rights, how can it be "philosophically neutral" with that basis? How would
 squatting and another (hired by the property owner) did not, there is no way
 (bar force) a conflict could be resolved. Then the firm with the most
 resources would win. "Anarcho"-capitalism, in effect, smuggles into the
-foundation of their system a distinctly **non**-neutral philosophy, namely
+foundation of their system a distinctly **non** -neutral philosophy, namely
 capitalism. Those who reject such a basis may end up sharing the fate of
 tribal peoples who rejected that system of property rights, for example, the
 Native Americans.
@@ -1252,10 +1254,10 @@ free from a particular instrumental or class agenda.
 Caplan:
 
 > _"Critics of anarcho-capitalism sometimes assume that communal or worker-
-owned firms would be penalised or prohibited in an anarcho-capitalist society.
-It would be more accurate to state that while individuals would be free to
-voluntarily form communitarian organisations, the anarcho-capitalist simply
-doubts that they would be widespread or prevalent."_
+> owned firms would be penalised or prohibited in an anarcho-capitalist
+> society. It would be more accurate to state that while individuals would be
+> free to voluntarily form communitarian organisations, the anarcho-capitalist
+> simply doubts that they would be widespread or prevalent."_
 
 There is good reason for this doubt. Worker co-operatives would not be
 widespread or prevalent in an "anarcho"-capitalist society for the same reason
@@ -1323,10 +1325,11 @@ rather than anarchy.
 Caplan:
 
 > _"However, in theory an 'anarcho-capitalist' society might be filled with
-nothing but communes or worker-owned firms, so long as these associations were
-formed voluntarily (i.e., individuals joined voluntarily and capital was
-obtained with the consent of the owners) and individuals retained the right to
-exit and set up corporations or other profit-making, individualistic firms."_
+> nothing but communes or worker-owned firms, so long as these associations
+> were formed voluntarily (i.e., individuals joined voluntarily and capital
+> was obtained with the consent of the owners) and individuals retained the
+> right to exit and set up corporations or other profit-making,
+> individualistic firms."_
 
 It's interesting that the "anarcho"-capitalists are willing to allow workers
 to set up "voluntary" co-operatives so long as the conditions are retained
@@ -1373,15 +1376,15 @@ on the contrary demands the supremacy of the state [or law] over the
 individual. It is not a question of the more individualism, the less
 collectivism; rather, the more through-going the individualism, the more
 complete the collectivism. Of this the supreme illustration is Hobbes's
-theory."_ [**The Political Theory of Possessive Individualism**, p.256] Under
-"anarcho"-capitalism the individual is subject to the laws regarding private
-property, laws decided in advance by a small group of ideological leaders.
-Then real individuals are expected to live with the consequences as best they
-can, with the law being placed ahead of these consequences for flesh and blood
-people. The abstraction of the law dominates and devours real individuals, who
-are considered below it and incapable of changing it (except for the worse).
-This, from one angle, shares a lot with theocracy and very little with
-liberty.
+theory."_ [ **The Political Theory of Possessive Individualism** , p.256]
+Under "anarcho"-capitalism the individual is subject to the laws regarding
+private property, laws decided in advance by a small group of ideological
+leaders. Then real individuals are expected to live with the consequences as
+best they can, with the law being placed ahead of these consequences for flesh
+and blood people. The abstraction of the law dominates and devours real
+individuals, who are considered below it and incapable of changing it (except
+for the worse). This, from one angle, shares a lot with theocracy and very
+little with liberty.
 
 Needless to say, Caplan like most (if not all) "anarcho"-capitalists assume
 that the current property owners are entitled to their property. However, as
@@ -1389,13 +1392,13 @@ John Stuart Mill pointed out over 100 years ago, the _"social arrangements"_
 existing today _"commenced from a distribution of property which was the
 result, not of a just partition, or acquisition by industry, but of conquest
 and violence . . . [and] the system still retains many and large traces of its
-origin."_ [**Principles of Political Economy**, p. 15] Given that (as we point
-out in [section F.1](secF1.md)) Murray Rothbard argues that the state cannot
-be claimed to own its territory simply because it did not acquire its property
-in a "just" manner, this suggests that "anarcho"-capitalism cannot actually
-argue against the state. After all, property owners today cannot be said to
-have received their property "justly" and **if** they are entitled to it so is
-the state to **its** "property"!
+origin."_ [ **Principles of Political Economy** , p. 15] Given that (as we
+point out in [section F.1](secF1.md)) Murray Rothbard argues that the state
+cannot be claimed to own its territory simply because it did not acquire its
+property in a "just" manner, this suggests that "anarcho"-capitalism cannot
+actually argue against the state. After all, property owners today cannot be
+said to have received their property "justly" and **if** they are entitled to
+it so is the state to **its** "property"!
 
 But as is so often the case, property owners are exempt from the analysis the
 state is subjected to by "anarcho"-capitalists. The state and property owners
@@ -1406,13 +1409,9 @@ regulate individual behaviour) but only the state is condemned by
 Caplan:
 
 > _"On other issues, the anarcho-capitalist differs little if at all from the
-more moderate libertarian. Services should be privatised and opened to free
-competition; regulation of personal AND economic behaviour should be done away
-with."_
-
->
-
->
+> more moderate libertarian. Services should be privatised and opened to free
+> competition; regulation of personal AND economic behaviour should be done
+> away with."_
 
 The "anarcho"-capitalist's professed desire to "do away" with the "regulation"
 of economic behaviour is entirely disingenuous. For, by giving capitalists the
@@ -1449,15 +1448,15 @@ This denial of civil liberties can be seen from these words by Murray
 Rothbard:
 
 > _"[I]n the profoundest sense there are no rights but property rights . . .
-Freedom of speech is supposed to mean the right of everyone to say whatever he
-likes. But the neglected question is: Where? Where does a man have this right?
-He certainly does not have it on property on which he is trespassing. In
-short, he has this right only either on his own property or on the property of
-someone who has agreed, as a gift or in a rental contract, to allow him in the
-premises. In fact, then, there is no such thing as a separate 'right to free
-speech'; there is only a man's property right: the right to do as he wills
-with his own or to make voluntary agreements with other property owners."_
-[Murray Rothbard, **Power and Market**, p. 176]
+> Freedom of speech is supposed to mean the right of everyone to say whatever
+> he likes. But the neglected question is: Where? Where does a man have this
+> right? He certainly does not have it on property on which he is trespassing.
+> In short, he has this right only either on his own property or on the
+> property of someone who has agreed, as a gift or in a rental contract, to
+> allow him in the premises. In fact, then, there is no such thing as a
+> separate 'right to free speech'; there is only a man's property right: the
+> right to do as he wills with his own or to make voluntary agreements with
+> other property owners."_ [Murray Rothbard, **Power and Market** , p. 176]
 
 Of course, Rothbard fails to see that for the property-less such a regime
 implies **no** rights whatsoever. It also means the effective end of free
@@ -1471,7 +1470,7 @@ distributed). He gives this utter denial of liberty an Orwellian twist by
 proclaiming the end of civil liberties by property rights as "a new liberty."
 Perhaps for the property-owner, but not the wage worker -- _"We who belong to
 the proletaire class, property excommunicates us!"_ [Proudhon, **What is
-Property?**, p. 137]
+Property?** , p. 137]
 
 In effect, right-Libertarians do not care how many restrictions are placed on
 you as long as it is not the government doing it. Of course it will be claimed
@@ -1499,11 +1498,11 @@ that association in self-assumed obligation (see [section
 A.2.11](secA2.md#seca211)). Thus Proudhon:
 
 > _"The social contract should increase the well-being and liberty of every
-citizen. -- If any one-sided conditions should slip in; if one part of the
-citizens should find themselves, by the contract, subordinated and exploited
-by others, it would no longer be a contract; it would be a fraud, against
-which annulment might at any time by invoked justly."_ [**The General Idea of
-the Revolution**, p. 114]
+> citizen. -- If any one-sided conditions should slip in; if one part of the
+> citizens should find themselves, by the contract, subordinated and exploited
+> by others, it would no longer be a contract; it would be a fraud, against
+> which annulment might at any time by invoked justly."_ [ **The General Idea
+> of the Revolution** , p. 114]
 
 Caplan's claim that right libertarians oppose regulation of individual
 behaviour is simply not true. They just oppose state regulation while
@@ -1513,14 +1512,10 @@ both public and private domination.
 Caplan:
 
 > _"Poverty would be handled by work and responsibility for those able to care
-for themselves, and voluntary charity for those who cannot. (Libertarians
-hasten to add that a deregulated economy would greatly increase the economic
-opportunities of the poor, and elimination of taxation would lead to a large
-increase in charitable giving.)"_
-
->
-
->
+> for themselves, and voluntary charity for those who cannot. (Libertarians
+> hasten to add that a deregulated economy would greatly increase the economic
+> opportunities of the poor, and elimination of taxation would lead to a large
+> increase in charitable giving.)"_
 
 Notice the implication that poverty is now caused by laziness and
 irresponsibility rather than by the inevitable workings of an economic system
@@ -1559,12 +1554,12 @@ charity is someone strange. We doubt that the rich who object to money being
 taken from them to pay for welfare will **increase** the amount of money they
 give to others if taxation **was** abolished. As Peter Sabatini points out,
 "anarcho"-capitalists _"constantly rant and shriek about how the government,
-or the rabble, hinders their Lockean right to amass capital."_ [**Social
-Anarchism**, no. 23, p.101] Caplan seems to expect them to turn over a new
+or the rabble, hinders their Lockean right to amass capital."_ [ **Social
+Anarchism** , no. 23, p.101] Caplan seems to expect them to turn over a new
 leaf and give **more** to that same rabble!
 
 [‹ Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory
-FAQ" version 5.2](append11.md "Go to previous page" ) [up](append1.md "Go
-to parent page" ) [Appendix - Is "anarcho"-capitalism a type of anarchism?
-›](append13.md "Go to next page" )
+FAQ" version 5.2](append11.md "Go to previous page") [up](append1.md "Go
+to parent page") [Appendix - Is "anarcho"-capitalism a type of anarchism?
+›](append13.md "Go to next page")
 

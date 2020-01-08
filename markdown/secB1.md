@@ -7,11 +7,11 @@ more complex. While anarchists have, on occasion, stated their opposition to
 "all authority" a closer reading quickly shows that anarchists reject only one
 specific form of authority, what we tend to call hierarchy (see [section
 H.4](secH4.md) for more details). This can be seen when Bakunin stated that
-_"the principle of **authority**"_ was the _"eminently theological,
+_"the principle of **authority** "_ was the _"eminently theological,
 metaphysical and political idea that the masses, **always** incapable of
 governing themselves, must submit at all times to the benevolent yoke of a
-wisdom and a justice, which in one way or another, is imposed from above."_
-[**Marxism, Freedom and the State**, p. 33]
+wisdom and a justice, which in one way or another, is imposed from above."_ [
+**Marxism, Freedom and the State** , p. 33]
 
 Other forms of authority are more acceptable to anarchists, it depends whether
 the authority in question becomes a source of **power** over others or not.
@@ -20,15 +20,15 @@ is **_hierarchical_** authority, then anarchists are against it. . The reason
 is simple:
 
 > _"[n]o one should be entrusted with power, inasmuch as anyone invested with
-authority must . . . became an oppressor and exploiter of society."_ [Bakunin,
-**The Political Philosophy of Bakunin**, p. 249]
+> authority must . . . became an oppressor and exploiter of society."_
+> [Bakunin, **The Political Philosophy of Bakunin** , p. 249]
 
 This distinction between forms of authority is important. As Erich Fromm
 pointed out, _"authority"_ is _"a broad term with two entirely different
 meanings: it can be either 'rational' or 'irrational' authority. Rational
 authority is based on competence, and it helps the person who leans on it to
 grow. Irrational authority is based on power and serves to exploit the person
-subjected to it."_ [**To Have or To Be**, pp. 44-45] The same point was made
+subjected to it."_ [ **To Have or To Be** , pp. 44-45] The same point was made
 by Bakunin over 100 years earlier when he indicated the difference between
 authority and _"natural influence."_ For Bakunin, individual freedom _"results
 from th[e] great number of material, intellectual, and moral influences which
@@ -37,23 +37,23 @@ exercise . . . To abolish this mutual influence would be to die."_
 Consequently, _"when we reclaim the freedom of the masses, we hardly wish to
 abolish the effect of any individual's or any group of individual's natural
 influence upon the masses. What we wish is to abolish artificial, privileged,
-legal, and official influences."_ [**The Basic Bakunin**, p. 140 and p. 141]
+legal, and official influences."_ [ **The Basic Bakunin** , p. 140 and p. 141]
 
 It is, in other words, the difference between taking part in a decision and
-listening to alternative viewpoints and experts (_"natural influence"_) before
-making your mind up and having a decision **made for you** by a separate group
-of individuals (who may or may not be elected) because that is their role in
-an organisation or society. In the former, the individual exercises their
-judgement and freedom (i.e. is based on rational authority). In the latter,
-they are subjected to the wills of others, to hierarchical authority (i.e. is
-based on irrational authority). This is because rational authority _"not only
-permits but requires constant scrutiny and criticism . . . it is always
-temporary, its acceptance depending on its performance."_ The source of
-irrational authority, on the other hand, _"is always power over people . . .
-Power on the one side, fear on the other, are always the buttresses on which
-irrational authority is built."_ Thus former is based upon _"equality"_ while
-the latter _"is by its very nature based upon inequality."_ [Erich Fromm,
-**Man for Himself**, pp. 9-10]
+listening to alternative viewpoints and experts ( _"natural influence"_ )
+before making your mind up and having a decision **made for you** by a
+separate group of individuals (who may or may not be elected) because that is
+their role in an organisation or society. In the former, the individual
+exercises their judgement and freedom (i.e. is based on rational authority).
+In the latter, they are subjected to the wills of others, to hierarchical
+authority (i.e. is based on irrational authority). This is because rational
+authority _"not only permits but requires constant scrutiny and criticism . .
+. it is always temporary, its acceptance depending on its performance."_ The
+source of irrational authority, on the other hand, _"is always power over
+people . . . Power on the one side, fear on the other, are always the
+buttresses on which irrational authority is built."_ Thus former is based upon
+_"equality"_ while the latter _"is by its very nature based upon inequality."_
+[Erich Fromm, **Man for Himself** , pp. 9-10]
 
 This crucial point is expressed in the difference between **having** authority
 and **being** an authority. Being an authority just means that a given person
@@ -65,7 +65,7 @@ ability. Obviously this does not mean that competence is not an element for
 obtaining a hierarchical position; it just means that the real or alleged
 initial competence is transferred to the title or position of the authority
 and so becomes independent of individuals, i.e. institutionalised (or what
-Bakunin termed _"official"_).
+Bakunin termed _"official"_ ).
 
 This difference is important because the way people behave is more a product
 of the institutions in which we are raised than of any inherent nature. In
@@ -82,7 +82,7 @@ This, as we discuss in the [next section](secB1.md#secb11), impacts on those
 involved in such authoritarian social relationships as _"the exercise of power
 in any institutionalised form -- whether economic, political or sexual --
 brutalises both the wielder of power and the one over whom it is exercised."_
-[Martha A. Ackelsberg, **Free Women of Spain**, p. 41]
+[Martha A. Ackelsberg, **Free Women of Spain** , p. 41]
 
 Authoritarian social relationships means dividing society into (the few) order
 givers and (the many) order takers, impoverishing the individuals involved
@@ -93,7 +93,8 @@ relationships (and the obedience they require) do not and cannot educate a
 person in freedom -- only participation (self-management) in all areas of life
 can do that. _"In a society based on exploitation and servitude,"_ in
 Kropotkin's words, _"human nature itself is degraded"_ and it is only _"as
-servitude disappears"_ shall we _"regain our rights."_ [**Anarchism**, p. 104]
+servitude disappears"_ shall we _"regain our rights."_ [ **Anarchism** , p.
+104]
 
 Of course, it will be pointed out that in any collective undertaking there is
 a need for co-operation and co-ordination and this need to "subordinate" the
@@ -112,22 +113,20 @@ libertarian means. Proudhon, in relation to workplaces, makes the difference
 clear:
 
 > _"either the workman. . . will be simply the employee of the proprietor-
-capitalist-promoter; or he will participate. . . [and] have a voice in the
-council, in a word he will become an associate.  
+> capitalist-promoter; or he will participate. . . [and] have a voice in the
+> council, in a word he will become an associate.  
 >  _
-
 >
-
 > _"In the first case the workman is subordinated, exploited: his permanent
-condition is one of obedience. . . In the second case he resumes his dignity
-as a man and citizen. . . he forms part of the producing organisation, of
-which he was before but the slave; as, in the town, he forms part of the
-sovereign power, of which he was before but the subject . . . we need not
-hesitate, for we have no choice. . . it is necessary to form an ASSOCIATION
-among workers . . . because without that, they would remain related as
-subordinates and superiors, and there would ensue two . . . castes of masters
-and wage-workers, which is repugnant to a free and democratic society."_
-[**General Idea of the Revolution**, pp. 215-216]
+> condition is one of obedience. . . In the second case he resumes his dignity
+> as a man and citizen. . . he forms part of the producing organisation, of
+> which he was before but the slave; as, in the town, he forms part of the
+> sovereign power, of which he was before but the subject . . . we need not
+> hesitate, for we have no choice. . . it is necessary to form an ASSOCIATION
+> among workers . . . because without that, they would remain related as
+> subordinates and superiors, and there would ensue two . . . castes of
+> masters and wage-workers, which is repugnant to a free and democratic
+> society."_ [ **General Idea of the Revolution** , pp. 215-216]
 
 In other words, associations can be based upon a form of **rational**
 authority, based upon **natural influence** and so reflect freedom, the
@@ -139,12 +138,12 @@ libertarian way (and, we may add, the mental transformation such a change
 requires and would create) will allow the individual to _"achieve more or less
 complete blossoming, whilst continuing to develop"_ and banish _"that spirit
 of submission that has been artificially thrust upon him [or her]"_ [Nestor
-Makhno, **The Struggle Against the State and Other Essays**, p. 62]
+Makhno, **The Struggle Against the State and Other Essays** , p. 62]
 
 So, anarchists _"ask nothing better than to see [others]. . . exercise over us
 a natural and legitimate influence, freely accepted, and never imposed . . .
 We accept all natural authorities and all influences of fact, but none of
-right."_ [Bakunin, **The Political Philosophy of Bakunin**, p. 255] Anarchist
+right."_ [Bakunin, **The Political Philosophy of Bakunin** , p. 255] Anarchist
 support for free association within directly democratic groups is based upon
 such organisational forms increasing influence and reducing irrational
 authority in our lives. Members of such organisations can create and present
@@ -158,7 +157,7 @@ organisations _"no function remains fixed and it will not remain permanently
 and irrevocably attached to one person. Hierarchical order and promotion do
 not exist. . . In such a system, power, properly speaking, no longer exists.
 Power is diffused to the collectivity and becomes the true expression of the
-liberty of everyone."_ [**Bakunin on Anarchism**, p. 415]
+liberty of everyone."_ [ **Bakunin on Anarchism** , p. 415]
 
 Therefore, anarchists are opposed to **irrational** (e.g., illegitimate)
 authority, in other words, hierarchy -- hierarchy being the
@@ -175,11 +174,11 @@ beyond these institutions. For example, hierarchical social relationships
 include sexism, racism and homophobia (see [section
 B.1.4](secB1.md#secb14)), and anarchists oppose, and fight, them all. Thus,
 as well as fighting capitalism as being hierarchical (for workers _"slave in a
-factory,"_ albeit _"the slavery ends with the working hours"_) de Cleyre also
+factory,"_ albeit _"the slavery ends with the working hours"_ ) de Cleyre also
 opposed patriarchal social relationships which produce a _"home that rests on
 slavery"_ because of a _"marriage that represents the sale and transfer of the
-individuality of one of its parties to the other!"_ [**The Voltairine de
-Cleyre Reader**, p. 72, p. 17 and p. 72]
+individuality of one of its parties to the other!"_ [ **The Voltairine de
+Cleyre Reader** , p. 72, p. 17 and p. 72]
 
 Needless to say, while we discuss different forms of hierarchy in different
 sections this does not imply that anarchists think they, and their negative
@@ -194,19 +193,20 @@ while maintaining the state would not lead to a free society (and vice versa)
 -- if it were possible. As Murray Bookchin notes:
 
 > _"there can be a decidedly classless, even a non-exploitative society in the
-**economic** sense that still preserves hierarchical rule and domination in
-the **social** sense -- whether they take the form of the patriarchal family,
-domination by age and ethnic groups, bureaucratic institutions, ideological
-manipulation or a pyramidal division of labour . . . classless or not, society
-would be riddles by domination and, with domination, a general condition of
-command and obedience, of unfreedom and humiliation, and perhaps most
-decisively, an abortion of each individual's potentiality for consciousness,
-reason, selfhood, creativity, and the right to assert full control over her or
-his daily live."_ [**Toward an Ecological Society**, pp. 14-5]
+> **economic** sense that still preserves hierarchical rule and domination in
+> the **social** sense -- whether they take the form of the patriarchal
+> family, domination by age and ethnic groups, bureaucratic institutions,
+> ideological manipulation or a pyramidal division of labour . . . classless
+> or not, society would be riddles by domination and, with domination, a
+> general condition of command and obedience, of unfreedom and humiliation,
+> and perhaps most decisively, an abortion of each individual's potentiality
+> for consciousness, reason, selfhood, creativity, and the right to assert
+> full control over her or his daily live."_ [ **Toward an Ecological
+> Society** , pp. 14-5]
 
 This clearly implies that anarchists _"challenge not only class formations but
 hierarchies, not only material exploitation but domination in every form."_
-[Bookchin, **Op. Cit.**, p. 15] Hence the anarchist stress on opposing
+[Bookchin, **Op. Cit.** , p. 15] Hence the anarchist stress on opposing
 hierarchy rather than just, say, the state (as some falsely assert) or simply
 economic class and exploitation (as, say, many Marxists do). As noted earlier
 (in [section A.2.8](secA2.md#seca28)), anarchists consider all hierarchies
@@ -224,7 +224,7 @@ intended to eliminate drug abuse, fight crime, etc. In other words, the power
 and privileges deriving from top hierarchical positions constitute a strong
 incentive for those who hold them **not** to solve the problems they are
 supposed to solve. (For further discussion see Marilyn French, **Beyond Power:
-On Women, Men, and Morals**, Summit Books, 1985).
+On Women, Men, and Morals** , Summit Books, 1985).
 
 ## B.1.1 What are the effects of authoritarian social relationships?
 
@@ -236,11 +236,12 @@ realistic, i.e. critical, thinking and make them believe the fiction [that
 irrational authority is rational and necessary], . . . [so] the mind is lulled
 into submission by cliches . . . [and] people are made dumb because they
 become dependent and lose their capacity to trust their eyes and judgement."_
-[Erich Fromm, **To Have or To Be?**, p. 47]
+[Erich Fromm, **To Have or To Be?** , p. 47]
 
 Or, in the words of Bakunin, _"the principle of authority, applied to men who
 have surpassed or attained their majority, becomes a monstrosity, a source of
-slavery and intellectual and moral depravity."_ [**God and the State**, p. 41]
+slavery and intellectual and moral depravity."_ [ **God and the State** , p.
+41]
 
 This is echoed by the syndicalist miners who wrote the classic **The Miners'
 Next Step** when they indicate the nature of authoritarian organisations and
@@ -257,25 +258,25 @@ compelled to become an autocrat and a foe to democracy."_ Indeed, for the
 _"leader,"_ such marginalisation can be beneficial, for a leader _"sees no
 need for any high level of intelligence in the rank and file, except to
 applaud his actions. Indeed such intelligence from his point of view, by
-breeding criticism and opposition, is an obstacle and causes confusion."_
-[**The Miners' Next Step**, pp. 16-17 and p. 15]
+breeding criticism and opposition, is an obstacle and causes confusion."_ [
+**The Miners' Next Step** , pp. 16-17 and p. 15]
 
 Anarchists argue that hierarchical social relationships will have a negative
 effect on those subject to them, who can no longer exercise their critical,
 creative and mental abilities **freely**. As Colin Ward argues, people _"do go
 from womb to tomb without realising their human potential, precisely because
 the power to initiate, to participate in innovating, choosing, judging, and
-deciding is reserved for the top men"_ (and it usually **is** men!) [**Anarchy
-in Action**, p, 42]. Anarchism is based on the insight that there is an
-interrelationship between the authority structures of institutions and the
-psychological qualities and attitudes of individuals. Following orders all day
-hardly builds an independent, empowered, creative personality (_"authority and
-servility walk ever hand in hand."_ [Peter Kropotkin, **Anarchism**, p. 81]).
-As Emma Goldman made clear, if a person's _"inclination and judgement are
-subordinated to the will of a master"_ (such as a boss, as most people have to
-sell their labour under capitalism) then little wonder such an authoritarian
-relationship _"condemns millions of people to be mere nonentities."_ [**Red
-Emma Speaks**, p. 50]
+deciding is reserved for the top men"_ (and it usually **is** men!) [
+**Anarchy in Action** , p, 42]. Anarchism is based on the insight that there
+is an interrelationship between the authority structures of institutions and
+the psychological qualities and attitudes of individuals. Following orders all
+day hardly builds an independent, empowered, creative personality (
+_"authority and servility walk ever hand in hand."_ [Peter Kropotkin,
+**Anarchism** , p. 81]). As Emma Goldman made clear, if a person's
+_"inclination and judgement are subordinated to the will of a master"_ (such
+as a boss, as most people have to sell their labour under capitalism) then
+little wonder such an authoritarian relationship _"condemns millions of people
+to be mere nonentities."_ [ **Red Emma Speaks** , p. 50]
 
 As the human brain is a bodily organ, it needs to be used regularly in order
 to be at its fittest. Authority concentrates decision-making in the hands of
@@ -286,22 +287,22 @@ blunted and side-tracked onto marginal issues, like sports and fashion. This
 can only have a negative impact:
 
 > _"Hierarchical institutions foster alienated and exploitative relationships
-among those who participate in them, disempowering people and distancing them
-from their own reality. Hierarchies make some people dependent on others,
-blame the dependent for their dependency, and then use that dependency as a
-justification for further exercise of authority. . . . Those in positions of
-relative dominance tend to define the very characteristics of those
-subordinate to them . . . Anarchists argue that to be always in a position of
-being acted upon and never to be allowed to act is to be doomed to a state of
-dependence and resignation. Those who are constantly ordered about and
-prevented from thinking for themselves soon come to doubt their own capacities
-. . . [and have] difficulty acting on [their] sense of self in opposition to
-societal norms, standards and expectations."_ [Martha Ackelsberg, **Free Women
-of Spain**, pp. 40-1]
+> among those who participate in them, disempowering people and distancing
+> them from their own reality. Hierarchies make some people dependent on
+> others, blame the dependent for their dependency, and then use that
+> dependency as a justification for further exercise of authority. . . . Those
+> in positions of relative dominance tend to define the very characteristics
+> of those subordinate to them . . . Anarchists argue that to be always in a
+> position of being acted upon and never to be allowed to act is to be doomed
+> to a state of dependence and resignation. Those who are constantly ordered
+> about and prevented from thinking for themselves soon come to doubt their
+> own capacities . . . [and have] difficulty acting on [their] sense of self
+> in opposition to societal norms, standards and expectations."_ [Martha
+> Ackelsberg, **Free Women of Spain** , pp. 40-1]
 
 And so, in the words of Colin Ward, the _"system makes its morons, then
 despises them for their ineptitude, and rewards its 'gifted few' for their
-rarity."_ [**Op. Cit.**, p. 43]
+rarity."_ [ **Op. Cit.** , p. 43]
 
 This negative impact of hierarchy is, of course, not limited to those subject
 to it. Those in power are affected by it, but in different ways. As we noted
@@ -310,10 +311,10 @@ well as those subjected to it. The Spanish Libertarian Youth put it this way
 in the 1930s:
 
 > _"Against the principle of authority because this implies erosion of the
-human personality when some men submit to the will of others, arousing in
-these instincts which predispose them to cruelty and indifference in the face
-of the suffering of their fellows."_ [quoted by Jose Peirats, **The CNT in the
-Spanish Revolution**, vol. 2, p. 76]
+> human personality when some men submit to the will of others, arousing in
+> these instincts which predispose them to cruelty and indifference in the
+> face of the suffering of their fellows."_ [quoted by Jose Peirats, **The CNT
+> in the Spanish Revolution** , vol. 2, p. 76]
 
 Hierarchy impoverishes the human spirit. _"A hierarchical mentality,"_ notes
 Bookchin, _"fosters the renunciation of the pleasures of life. It justifies
@@ -326,8 +327,8 @@ to accept it. _"Hierarchy, class, and ultimately the State,"_ he stresses,
 _"penetrate the very integument of the human psyche and establish within it
 unreflective internal powers of coercion and constraint . . . By using guilt
 and self-blame, the inner State can control behaviour long before fear of the
-coercive powers of the State have to be invoked."_ [**The Ecology of
-Freedom**, p. 72 and p. 189]
+coercive powers of the State have to be invoked."_ [ **The Ecology of
+Freedom** , p. 72 and p. 189]
 
 In a nutshell, _"[h]ierarchies, classes, and states warp the creative powers
 of humanity."_ However, that is not all. Hierarchy, anarchists argue, also
@@ -343,7 +344,7 @@ competition, capital accumulation, and limitless growth, brought these
 problems -- ecological and social -- to an acute point,"_ anarchists
 _"emphasise that major ecological problems have their roots in social problems
 -- problems that go back to the very beginnings of patricentric culture
-itself."_ [Murray Bookchin, **Remaking Society**, p. 72, p. 44, p. 72 and pp.
+itself."_ [Murray Bookchin, **Remaking Society** , p. 72, p. 44, p. 72 and pp.
 154-5]
 
 Thus, anarchists argue, hierarchy impacts not only on us but also our
@@ -392,13 +393,13 @@ compared to rich people. Simply put, _"the lower the class, the worse the
 health. Going beyond such static measures, even interruptions in income of the
 sort caused by unemployment have adverse health effects."_ Indeed, the
 sustained economic hardship associated with a low place in the social
-hierarchy leads to poorer physical, psychological and cognitive functioning
-(_"with consequences that last a decade or more"_). _"Low incomes, unpleasant
+hierarchy leads to poorer physical, psychological and cognitive functioning (
+_"with consequences that last a decade or more"_ ). _"Low incomes, unpleasant
 occupations and sustained discrimination,"_ notes Doug Henwood, _"may result
 in apparently physical symptoms that confuse even sophisticated biomedical
 scientists . . . Higher incomes are also associated with lower frequency of
-psychiatric disorders, as are higher levels of asset ownership."_ [**After the
-New Economy**, pp. 81-2]
+psychiatric disorders, as are higher levels of asset ownership."_ [ **After
+the New Economy** , pp. 81-2]
 
 Moreover, the **_degree_** of inequality is important (i.e. the size of the
 gap between rich and poor). According to an editorial in the **British Medical
@@ -412,9 +413,9 @@ colleagues measured inequality in the 50 US states and compared it to the age-
 adjusted death rate for all causes of death, and a pattern emerged: the more
 unequal the distribution of income, the greater the death rate. In other
 words, it is the gap between rich and poor, and not the average income in each
-state, that best predicts the death rate in each state. [_"Inequality in
+state, that best predicts the death rate in each state. [ _"Inequality in
 income and mortality in the United States: analysis of mortality and potential
-pathways,"_ **British Medical Journal**, vol. 312, April 20, 1996, pp.
+pathways,"_ **British Medical Journal** , vol. 312, April 20, 1996, pp.
 999-1003]
 
 This measure of income inequality was also tested against other social
@@ -437,7 +438,7 @@ being low down on the social ladder has detrimental effects on people, beyond
 whatever effects are produced by the substandard housing, nutrition, air
 quality, recreational opportunities, and medical care enjoyed by the poor (see
 George Davey Smith, _"Income inequality and mortality: why are they related?"_
-**British Medical Journal**, Vol. 312, April 20, 1996, pp. 987-988).
+**British Medical Journal** , Vol. 312, April 20, 1996, pp. 987-988).
 
 So wealth does not determine health. What does is the gap between the rich and
 the poor. The larger the gap, the sicker the society. Countries with a greater
@@ -455,15 +456,15 @@ shared.
 This is not all. As well as inequalities in wealth, inequalities in freedom
 also play a large role in overall human well-being. According to Michael
 Marmot's **The Status Syndrome: How Social Standing Affects Our Health and
-Longevity**, as you move up any kind of hierarchy your health status improves.
-Autonomy and position in a hierarchy are related (i.e. the higher you are in a
-hierarchy, the more autonomy you have). Thus the implication of this empirical
-work is that autonomy is a source of good health, that the more control you
-have over your work environment and your life in general, the less likely you
-are to suffer the classic stress-related illnesses, such as heart disease. As
-public-Health scholars Jeffrey Johnson and Ellen Hall have noted, the
-_"potential to control one's own environment is differentially distributed
-along class lines."_ [quoted by Robert Kuttner, **Everything for Sale**, p.
+Longevity** , as you move up any kind of hierarchy your health status
+improves. Autonomy and position in a hierarchy are related (i.e. the higher
+you are in a hierarchy, the more autonomy you have). Thus the implication of
+this empirical work is that autonomy is a source of good health, that the more
+control you have over your work environment and your life in general, the less
+likely you are to suffer the classic stress-related illnesses, such as heart
+disease. As public-Health scholars Jeffrey Johnson and Ellen Hall have noted,
+the _"potential to control one's own environment is differentially distributed
+along class lines."_ [quoted by Robert Kuttner, **Everything for Sale** , p.
 153]
 
 As would be expected from the very nature of hierarchy, to _"be in a life
@@ -477,7 +478,7 @@ empowerment, self-actualisation, autonomy, and other work satisfaction that
 partially compensate for long hours"_ while _"epidemiological data confirm
 that lower-paid, lower-status workers are more likely to experience the most
 clinically damaging forms of stress, in part because they have less control
-over their work."_ [Kuttner, **Op. Cit.**, p. 153 and p. 154]
+over their work."_ [Kuttner, **Op. Cit.** , p. 153 and p. 154]
 
 In other words, the inequality of autonomy and social participation produced
 by hierarchy is itself a cause of poor health. There would be positive
@@ -530,7 +531,7 @@ to sabotaging the ostensible function of the institution, because it is none
 of their choosing. The other is that they would rather not be there anyway:
 they are there through economic necessity rather than through identification
 with a common task which throws up its own shifting and functional
-leadership."_ [**Op. Cit.**, p. 41]
+leadership."_ [ **Op. Cit.** , p. 41]
 
 Hierarchy, in other words, blocks the flow of information and knowledge.
 Rulers, as Malatesta argued, _"can only make use of the forces that exist in
@@ -546,7 +547,7 @@ policy."_ Obviously this means _"that far from resulting in an increase in the
 productive, organising and protective forces in society,"_ hierarchy _"greatly
 reduce[s] them, limiting initiative to a few, and giving them the right to do
 everything without, of course, being able to provide them with the gift of
-being all-knowing."_ [**Anarchy**, p. 38 and p. 39]
+being all-knowing."_ [ **Anarchy** , p. 38 and p. 39]
 
 Large scale hierarchical organisations, like the state, are also marked by
 bureaucracy. This becomes a necessity in order to gather the necessary
@@ -555,7 +556,7 @@ it). However, soon this bureaucracy becomes the real source of power due to
 its permanence and control of information and resources. Thus hierarchy cannot
 _"survive without creating around itself a new privileged class"_ as well as
 being a _"privileged class and cut off from the people"_ itself. [Malatesta,
-**Op. Cit.**, p. 37 and p. 36] This means that those at the top of an
+**Op. Cit.** , p. 37 and p. 36] This means that those at the top of an
 institution rarely know the facts on the ground, making decisions in relative
 ignorance of their impact or the actual needs of the situation or people
 involved. As economist Joseph Stiglitz concluded from his own experiences in
@@ -565,8 +566,8 @@ opaque rather than transparent, and not only does far too little information
 radiate from inside to the outside world, perhaps even less information from
 outside is able to penetrate the organisation. The opaqueness also means that
 it is hard for information from the bottom of the organisation to percolate to
-the top."_ [**Globalisation and its Discontents**, p. 33] The same can be said
-of any hierarchical organisation, whether a nation state or capitalist
+the top."_ [ **Globalisation and its Discontents** , p. 33] The same can be
+said of any hierarchical organisation, whether a nation state or capitalist
 business.
 
 Moreover, as Ward and Malatesta indicate, hierarchy provokes a struggle
@@ -595,13 +596,13 @@ If we look at those at the top of the system, yes, indeed they often do
 **very** well in terms of material goods and access to education, leisure,
 health and so on but they lose their humanity and individuality. As Bakunin
 pointed out, _"power and authority corrupt those who exercise them as much as
-those who are compelled to submit to them."_ [**The Political Philosophy of
-Bakunin**, p. 249] Power operates destructively, even on those who have it,
+those who are compelled to submit to them."_ [ **The Political Philosophy of
+Bakunin** , p. 249] Power operates destructively, even on those who have it,
 reducing their individuality as it _"renders them stupid and brutal, even when
 they were originally endowed with the best of talents. One who is constantly
 striving to force everything into a mechanical order at last becomes a machine
-himself and loses all human feeling."_ [Rudolf Rocker, **Anarcho-
-Syndicalism**, pp. 17-8]
+himself and loses all human feeling."_ [Rudolf Rocker, **Anarcho-Syndicalism**
+, pp. 17-8]
 
 When it boils down to it, hierarchy is self-defeating, for if _"wealth is
 other people,"_ then by treating others as less than yourself, restricting
@@ -623,7 +624,7 @@ stop them and will, eventually, impact on the elite as well as the many.
 
 Little wonder, then, that _"anarchism . . . works to destroy authority in all
 its aspects . . . [and] refuses all hierarchical organisation."_ [Kropotkin,
-**Anarchism**, p. 137]
+**Anarchism** , p. 137]
 
 ## B.1.2 Is capitalism hierarchical?
 
@@ -637,33 +638,33 @@ its very nature, is hierarchical.
 As Carole Pateman argues:
 
 > _"Capacities or labour power cannot be used without the worker using his
-will, his understanding and experience, to put them into effect. The use of
-labour power requires the presence of its 'owner,' and it remains mere
-potential until he acts in the manner necessary to put it into use, or agrees
-or is compelled so to act; that is, the worker must labour. To contract for
-the use of labour power is a waste of resources unless it can be used in the
-way in which the new owner requires. The fiction 'labour power' cannot be
-used; what is required is that the worker labours as demanded. The employment
-contract must, therefore, create a relationship of command and obedience
-between employer and worker . . . In short, the contract in which the worker
-allegedly sells his labour power is a contract in which, since he cannot be
-separated from his capacities, he sells command over the use of his body and
-himself. To obtain the right to use another is to be a (civil) master."_
-[**The Sexual Contract**, pp. 150-1]
+> will, his understanding and experience, to put them into effect. The use of
+> labour power requires the presence of its 'owner,' and it remains mere
+> potential until he acts in the manner necessary to put it into use, or
+> agrees or is compelled so to act; that is, the worker must labour. To
+> contract for the use of labour power is a waste of resources unless it can
+> be used in the way in which the new owner requires. The fiction 'labour
+> power' cannot be used; what is required is that the worker labours as
+> demanded. The employment contract must, therefore, create a relationship of
+> command and obedience between employer and worker . . . In short, the
+> contract in which the worker allegedly sells his labour power is a contract
+> in which, since he cannot be separated from his capacities, he sells command
+> over the use of his body and himself. To obtain the right to use another is
+> to be a (civil) master."_ [ **The Sexual Contract** , pp. 150-1]
 
 You need only compare this to Proudhon's comments quoted in [section
 B.1](secB1.md) to see that anarchists have long recognised that capitalism
 is, by its very nature, hierarchical. The worker is subjected to the authority
 of the boss during working hours (sometimes outside work too). As Noam Chomsky
 summarises, _"a corporation, factory of business is the economic equivalent of
-fascism: decisions and control are strictly top-down."_ [**Letters from
-Lexington**, p. 127] The worker's choices are extremely limited, for most
+fascism: decisions and control are strictly top-down."_ [ **Letters from
+Lexington** , p. 127] The worker's choices are extremely limited, for most
 people it amount to renting themselves out to a series of different masters
 (for a lucky few, the option of being a master is available). And master is
 the right word for, as David Ellerman reminds us, _"[s]ociety seems to have
 'covered up' in the popular consciousness the fact that the traditional name
-[for employer and employee] is '**master and servant.'**"_ [**Property and
-Contract in Economics**, p. 103]
+[for employer and employee] is ' **master and servant.'** "_ [ **Property and
+Contract in Economics** , p. 103]
 
 This hierarchical control of wage labour has the effect of alienating workers
 from their own work, and so from themselves. Workers no longer govern
@@ -671,7 +672,7 @@ themselves during work hours and so are no longer free. And so, due to
 capitalism, there is _"an oppression in the land,"_ a _"form of slavery"_
 rooted in current _"property institutions"_ which produces _"a social war,
 inevitable so long as present legal-social conditions endure."_ [Voltairine de
-Cleyre, **Op. Cit.**, pp. 54-5]
+Cleyre, **Op. Cit.** , pp. 54-5]
 
 Some defenders of capitalism are aware of the contradiction between the
 rhetoric of the system and its reality for those subject to it. Most utilise
@@ -690,7 +691,7 @@ speak of managing, directing, or assigning workers to various tasks is a
 deceptive way of noting that the employer continually is involved in re-
 negotiation of contracts on terms that must be acceptable to both parties,"_
 argue two right-wing economists. [Arman Alchian and Harold Demsetz, quoted by
-Ellerman, **Op. Cit.**, p. 170] So the employer-employee (or, to use the old,
+Ellerman, **Op. Cit.** , p. 170] So the employer-employee (or, to use the old,
 more correct, terminology, master-servant) contract is thus a series of
 unspoken contracts.
 
@@ -707,7 +708,7 @@ the capitalist workplace _"is not democratic in spite of the 'consent of the
 governed' to the employment contract . . . In the employment contract, the
 workers alienate and transfer their legal rights to the employer to govern
 their activities 'within the scope of the employment' to the employer."_
-[David Ellerman, **The Democratic Worker-Owned Firm**, p. 50]
+[David Ellerman, **The Democratic Worker-Owned Firm** , p. 50]
 
 Ultimately, there is **_one_** right that cannot be ceded or abandoned, namely
 the right to personality. If a person gave up their personality they would
@@ -727,16 +728,16 @@ labour there is a necessary subjugation of will (hierarchy). As Karl Polanyi
 writes:
 
 > _"Labour is only another name for human activity which goes with life
-itself, which is in turn not produced for sale but for entirely different
-reasons, nor can that activity be detached from the rest of life itself, be
-stored or mobilised . . . To allow the market mechanism to be sole director of
-the fate of human beings and their natural environment . . . would result in
-the demolition of society. For the alleged commodity 'labour power' cannot be
-shoved about, used indiscriminately, or even left unused, without affecting
-also the human individual who happens to be the bearer of this peculiar
-commodity. In disposing of a man's labour power the system would,
-incidentally, dispose of the physical, psychological, and moral entity 'man'
-attached to that tag."_ [**The Great Transformation**, p. 72]
+> itself, which is in turn not produced for sale but for entirely different
+> reasons, nor can that activity be detached from the rest of life itself, be
+> stored or mobilised . . . To allow the market mechanism to be sole director
+> of the fate of human beings and their natural environment . . . would result
+> in the demolition of society. For the alleged commodity 'labour power'
+> cannot be shoved about, used indiscriminately, or even left unused, without
+> affecting also the human individual who happens to be the bearer of this
+> peculiar commodity. In disposing of a man's labour power the system would,
+> incidentally, dispose of the physical, psychological, and moral entity 'man'
+> attached to that tag."_ [ **The Great Transformation** , p. 72]
 
 In other words, labour is much more than the commodity to which capitalism
 tries to reduce it. Creative, self-managed work is a source of pride and joy
@@ -744,7 +745,7 @@ and part of what it means to be fully human. Wrenching control of work from
 the hands of the worker profoundly harms his or her mental and physical
 health. Indeed, Proudhon went so far as to argue that capitalist companies
 _"plunder the bodies and souls of the wage-workers"_ and were an _"outrage
-upon human dignity and personality."_ [**Op. Cit.**, p. 219] This is because
+upon human dignity and personality."_ [ **Op. Cit.** , p. 219] This is because
 wage labour turns productive activity and the person who does it into a
 commodity. People _"are not human **beings** so much as human **resources**.
 To the morally blind corporation, they are tool to generate as much profit as
@@ -753,7 +754,7 @@ it if you want, you throw it away if you don't want it,' says Noam Chomsky.
 'If you can get human beings to become tool like that, it's more efficient by
 some measure of efficiency . . . a measure which is based on dehumanisation.
 You have to dehumanise it. That's part of the system.'"_ [Joel Bakan, **The
-Corporation**, p. 69]
+Corporation** , p. 69]
 
 Separating labour from other activities of life and subjecting it to the laws
 of the market means to annihilate its natural, organic form of existence -- a
@@ -771,7 +772,7 @@ and downtrodden labourer with no other options would agree to do whatever
 their master required of them. _"Legal compulsion and parish serfdom as in
 England,"_ noted Polanyi, _"the rigors of an absolutist labour police as on
 the Continent, indented labour as in the early Americas were the prerequisites
-of the 'willing worker.'"_ [**Op. Cit.**, pp. 164-5]
+of the 'willing worker.'"_ [ **Op. Cit.** , pp. 164-5]
 
 Ignoring its origins in state action, the social relationship of wage labour
 is then claimed by capitalists to be a source of "freedom," whereas in fact it
@@ -785,10 +786,10 @@ capitalism try to but -- as Karl Polanyi points out -- the idea that wage
 labour is based upon some kind of "natural" liberty is false:
 
 > _"To represent this principle [wage labour] as one of non-interference [with
-freedom], as economic liberals were wont to do, was merely the expression of
-an ingrained prejudice in favour of a definite kind of interference, namely,
-such as would destroy non-contractual relations between individuals and
-prevent their spontaneous re-formation."_ [**Op. Cit.**, p.163]
+> freedom], as economic liberals were wont to do, was merely the expression of
+> an ingrained prejudice in favour of a definite kind of interference, namely,
+> such as would destroy non-contractual relations between individuals and
+> prevent their spontaneous re-formation."_ [ **Op. Cit.** , p.163]
 
 As noted above, capitalism itself was created by state violence and the
 destruction of traditional ways of life and social interaction was part of
@@ -805,7 +806,7 @@ was born under such states and as well as backing fascist movements, they made
 high profits in Nazi Germany and Fascist Italy. Today many corporations
 _"regularly do business with totalitarian and authoritarian regimes -- again,
 because it is profitable to do so."_ Indeed, there is a _"trend by US
-corporations to invest in"_ such countries. [Joel Bakan, **Op. Cit.**, p. 89
+corporations to invest in"_ such countries. [Joel Bakan, **Op. Cit.** , p. 89
 and p. 185] Perhaps unsurprisingly, as such regimes are best able to enforce
 the necessary conditions to commodify labour fully.
 
@@ -832,24 +833,25 @@ violating equality, by rejecting social co-operation between equals in favour
 of top-down, authoritarian, social relationships which turn some into the
 tools of others, capitalism, like the state, could not help but erode ethical
 standards as the _"moral level"_ of society is _"debased by the practice of
-authority."_ [Kropotkin, **Anarchism**, pp. 137-8, p. 106 and p. 139]
+authority."_ [Kropotkin, **Anarchism** , pp. 137-8, p. 106 and p. 139]
 
 However, as we as promoting general unethical behaviour, capitalism produces a
 specific perverted hierarchy of values -- one that places humanity below
 property. As Erich Fromm argues:
 
 > _"The use [i.e. exploitation] of man by man is expressive of the **system of
-values** underlying the capitalistic system. **Capital, the dead past, employs
-labour -- the living vitality and power of the present.** In the capitalistic
-hierarchy of values, capital stands higher than labour, amassed things higher
-than the manifestations of life. Capital employs labour, and not labour
-capital. The person who owns capital commands the person who 'only' owns his
-life, human skill, vitality and creative productivity. 'Things' are higher
-than man. The conflict between capital and labour is much more than the
-conflict between two classes, more than their fight for a greater share of the
-social product. It is the conflict between two principles of value: **that
-between the world of things, and their amassment, and the world of life and
-its productivity**."_ [**The Sane Society**, pp. 94-95]
+> values** underlying the capitalistic system. **Capital, the dead past,
+> employs labour -- the living vitality and power of the present.** In the
+> capitalistic hierarchy of values, capital stands higher than labour, amassed
+> things higher than the manifestations of life. Capital employs labour, and
+> not labour capital. The person who owns capital commands the person who
+> 'only' owns his life, human skill, vitality and creative productivity.
+> 'Things' are higher than man. The conflict between capital and labour is
+> much more than the conflict between two classes, more than their fight for a
+> greater share of the social product. It is the conflict between two
+> principles of value: **that between the world of things, and their
+> amassment, and the world of life and its productivity**."_ [ **The Sane
+> Society** , pp. 94-95]
 
 Capitalism only values a person as representing a certain amount of the
 commodity called "labour power," in other words, as a **thing**. Instead of
@@ -861,12 +863,12 @@ are valued by how much they earn. It also leads, as Murray Bookchin argues, to
 a debasement of human values:
 
 > _"So deeply rooted is the market economy in our minds that its grubby
-language has replaced our most hallowed moral and spiritual expressions. We
-now 'invest' in our children, marriages, and personal relationships, a term
-that is equated with words like 'love' and 'care.' We live in a world of
-'trade-offs' and we ask for the 'bottom line' of any emotional 'transaction.'
-We use the terminology of contracts rather than that of loyalties and
-spiritual affinities."_ [**The Modern Crisis**, p. 79]
+> language has replaced our most hallowed moral and spiritual expressions. We
+> now 'invest' in our children, marriages, and personal relationships, a term
+> that is equated with words like 'love' and 'care.' We live in a world of
+> 'trade-offs' and we ask for the 'bottom line' of any emotional
+> 'transaction.' We use the terminology of contracts rather than that of
+> loyalties and spiritual affinities."_ [ **The Modern Crisis** , p. 79]
 
 With human values replaced by the ethics of calculation, and with only the
 laws of market and state "binding" people together, social breakdown is
@@ -883,9 +885,9 @@ to follow. "Five is greater than four, therefore five is better" is pretty
 simple to understand. John Steinbeck noticed this when he wrote:
 
 > _"Some of them [the owners] hated the mathematics that drove them [to kick
-the farmers off their land], and some were afraid, and some worshipped the
-mathematics because it provided a refuge from thought and from feeling."_
-[**The Grapes of Wrath**, p. 34]
+> the farmers off their land], and some were afraid, and some worshipped the
+> mathematics because it provided a refuge from thought and from feeling."_ [
+> **The Grapes of Wrath** , p. 34]
 
 The debasement of the individual in the workplace, where so much time is
 spent, necessarily affects a person's self-image, which in turn carries over
@@ -896,9 +898,9 @@ are commodified. In capitalism, literally nothing is sacred -- "everything has
 its price" -- be it dignity, self-worth, pride, honour -- all become
 commodities up for grabs. Such debasement produces a number of social
 pathologies. "Consumerism" is one example which can be traced directly to the
-commodification of the individual under capitalism. To quote Fromm again,
-_"**Things** have no self, and men who have become things [i.e. commodities on
-the labour market] can have no self."_ [**Op. Cit.**, p. 143]
+commodification of the individual under capitalism. To quote Fromm again, _"
+**Things** have no self, and men who have become things [i.e. commodities on
+the labour market] can have no self."_ [ **Op. Cit.** , p. 143]
 
 However, people still feel the **need** for selfhood, and so try to fill the
 emptiness by consuming. The illusion of happiness, that one's life will be
@@ -975,8 +977,8 @@ force. In fact, race theory is only the cult of power."_ Racism aids the
 consolidation of elite power for by attacking _"all the achievements . . . in
 the direction of personal freedom"_ and the idea of equality _"[n]o better
 moral justification could be produced for the industrial bondage which our
-holders of industrial power keep before them as a picture of the future."_
-[**Nationalism and Culture**, pp. 337-8]
+holders of industrial power keep before them as a picture of the future."_ [
+**Nationalism and Culture** , pp. 337-8]
 
 The idea of racial superiority was also found to have great domestic utility.
 As Paul Sweezy points out, _"[t]he intensification of social conflict within
@@ -984,8 +986,8 @@ the advanced capitalist countries. . . has to be directed as far as possible
 into innocuous channels -- innocuous, that is to say, from the standpoint of
 capitalist class rule. The stirring up of antagonisms along racial lines is a
 convenient method of directing attention away from class struggle,"_ which of
-course is dangerous to ruling-class interests. [**Theory of Capitalist
-Development**, p. 311] Indeed, employers have often deliberately fostered
+course is dangerous to ruling-class interests. [ **Theory of Capitalist
+Development** , p. 311] Indeed, employers have often deliberately fostered
 divisions among workers on racial lines as part of a strategy of "divide and
 rule" (in other contexts, like Northern Ireland or Scotland, the employers
 have used religion in the same way instead).
@@ -996,10 +998,10 @@ contexts, like Tzarist Russia, Northern Ireland or Scotland, the employers
 have used religion in the same way. In others, immigrants and native born is
 the dividing line. The net effect is the same, social oppressions which range
 from the extreme violence anarchists like Emma Goldman denounced in the
-American South (_"the atrocities rampant in the South, of negroes lynched,
+American South ( _"the atrocities rampant in the South, of negroes lynched,
 tortured and burned by infuriated crowds without a hand being raised or a word
-said for their protection"_ [**Emma Goldman: A Documentary History of the
-American Years**, vol. 1, p. 386]) or the pogroms against Jews in Tsarist
+said for their protection"_ [ **Emma Goldman: A Documentary History of the
+American Years** , vol. 1, p. 386]) or the pogroms against Jews in Tsarist
 Russia to discrimination in where people can live, what jobs people can get,
 less pay and so on.
 
@@ -1034,13 +1036,13 @@ similar with incomes just 62% of whites, net worth, 4% and nonresidential net
 worth 0%. While just under 15% of white households had zero or negative net
 worth, 27% of black households and 36% Hispanic were in the same situation.
 Even at similar levels of income, black households were significantly less
-wealthy than white ones. [Doug Henwood, **After the New Economy**, p. 99 and
+wealthy than white ones. [Doug Henwood, **After the New Economy** , p. 99 and
 pp. 125-6]
 
 All this means that racial minorities are _"subjected to oppression and
 exploitation on the dual grounds of race and class, and thus have to fight the
 extra battles against racism and discrimination."_ [Lorenzo Kom'boa Ervin,
-**Anarchism and the Black Revolution**, p. 126]
+**Anarchism and the Black Revolution** , p. 126]
 
 Sexism only required a "justification" once women started to act for
 themselves and demand equal rights. Before that point, sexual oppression did
@@ -1053,13 +1055,13 @@ movement).
 The nature of sexual oppression can be seen from marriage. Emma Goldman
 pointed out that marriage _"stands for the sovereignty of the man over the
 women,"_ with her _"complete submission"_ to the husbands _"whims and
-commands."_ [**Red Emma Speaks**, p. 164] As Carole Pateman notes, until _"the
-late nineteenth century the legal and civil position of a wife resembled that
-of a slave. . . A slave had no independent legal existence apart from his
+commands."_ [ **Red Emma Speaks** , p. 164] As Carole Pateman notes, until
+_"the late nineteenth century the legal and civil position of a wife resembled
+that of a slave. . . A slave had no independent legal existence apart from his
 master, and husband and wife became 'one person,' the person of the husband."_
 Indeed, the law _"was based on the assumption that a wife was (like)
 property"_ and only the marriage contract _"includes the explicit commitment
-to obey."_ [**The Sexual Contract**, p. 119, p. 122 and p. 181]
+to obey."_ [ **The Sexual Contract** , p. 119, p. 122 and p. 181]
 
 However, when women started to question the assumptions of male domination,
 numerous theories were developed to explain why women's oppression and
@@ -1077,7 +1079,7 @@ Women's subservient role also has economic value for capitalism (we should
 note that Goldman considered capitalism to be another _"paternal arrangement"_
 like marriage, both of which robbed people of their _"birthright,"_ _"stunts"_
 their growth, _"poisons"_ their bodies and keeps people in _"ignorance, in
-poverty and dependence."_ [**Op. Cit.**, p. 210]). Women often provide
+poverty and dependence."_ [ **Op. Cit.** , p. 210]). Women often provide
 necessary (and unpaid) labour which keeps the (usually) male worker in good
 condition; and it is primarily women who raise the next generation of wage-
 slaves (again without pay) for capitalist owners to exploit. Moreover, women's
@@ -1100,7 +1102,7 @@ and largely male occupations and them closing the gender gap, it has also been
 the result of the intense attacks on the working class since the 1980s which
 has de-unionised and de-industrialised America. This has resulted in a lot of
 high-paying male jobs have been lost and more and more women have entered the
-job market to make sure their families make ends. [Henwood, **Op. Cit.**, p.
+job market to make sure their families make ends. [Henwood, **Op. Cit.** , p.
 91-2]
 
 Turning away from averages, we discover that sexism results in women being
@@ -1118,7 +1120,7 @@ translated into a 10% decline in average pay. Needless to say, having children
 is bad economic news for most women (women with children earn 10 to 15% less
 than women without children while for men the opposite is the case). Having
 maternity level, incidentally, have a far smaller motherhood penalty.
-[Henwood, **Op. Cit.**, p. 95-7]
+[Henwood, **Op. Cit.** , p. 95-7]
 
 The oppression of lesbians, gays and bisexuals is inextricably linked with
 sexism. A patriarchal, capitalist society cannot see homosexual practices as
@@ -1128,7 +1130,7 @@ sexuality to themselves for fear of being kicked out of home and all gays have
 the fear that some "straights" will try to kick their sexuality out of them if
 they express their sexuality freely. As with those subject to other forms of
 bigotry, gays are also discriminated against economically (gay men earning
-about 4-7% less than the average straight man [Henwood, **Op. Cit.**, p.
+about 4-7% less than the average straight man [Henwood, **Op. Cit.** , p.
 100]). Thus the social oppression which result in having an alternative
 sexuality are experienced on many different levels, from extreme violence to
 less pay for doing the same work.
@@ -1169,8 +1171,8 @@ won them. Only the boss really wins.
 
 This can be seen from research into this subject. The researcher Al Szymanski
 sought to systematically and scientifically test the proposition that white
-workers gain from racism [_"Racial Discrimination and White Gain"_, in
-**American Sociological Review**, vol. 41, no. 3, June 1976, pp. 403-414]. He
+workers gain from racism [ _"Racial Discrimination and White Gain"_ , in
+**American Sociological Review** , vol. 41, no. 3, June 1976, pp. 403-414]. He
 compared the situation of "white" and "non-white" (i.e. black, Native
 American, Asian and Hispanic) workers in United States and found several key
 things:
@@ -1188,7 +1190,7 @@ that white workers received.
 the more inequality there was between whites. In other words, the existence of
 a poor, oppressed group of workers reduced the wages of white workers,
 although it did not affect the earnings of non-working class whites very much
-(_"the greater the discrimination against [non-white] people, the greater the
+( _"the greater the discrimination against [non-white] people, the greater the
 inequality among whites"_ [p. 410]). So white workers clearly lost
 economically from this discrimination.
 
@@ -1204,23 +1206,23 @@ actually works against the interests of those working class people who
 practice it -- and, by weakening workplace and social unity, benefits the
 ruling class:
 
-> _ "As long as discrimination exists and racial or ethnic minorities are
-oppressed, the entire working class is weakened. This is so because the
-Capitalist class is able to use racism to drive down the wages of individual
-segments of the working class by inciting racial antagonism and forcing a
-fight for jobs and services. This division is a development that ultimately
-undercuts the living standards of all workers. Moreover, by pitting Whites
-against Blacks and other oppressed nationalities, the Capitalist class is able
-to prevent workers from uniting against their common enemy. As long as workers
-are fighting each other, the Capitalist class is secure."_ [Lorenzo Kom'boa
-Ervin, **Op. Cit.**, pp. 12-3]
+> _"As long as discrimination exists and racial or ethnic minorities are
+> oppressed, the entire working class is weakened. This is so because the
+> Capitalist class is able to use racism to drive down the wages of individual
+> segments of the working class by inciting racial antagonism and forcing a
+> fight for jobs and services. This division is a development that ultimately
+> undercuts the living standards of all workers. Moreover, by pitting Whites
+> against Blacks and other oppressed nationalities, the Capitalist class is
+> able to prevent workers from uniting against their common enemy. As long as
+> workers are fighting each other, the Capitalist class is secure."_ [Lorenzo
+> Kom'boa Ervin, **Op. Cit.** , pp. 12-3]
 
 In addition, a wealth of alternative viewpoints, insights, experiences,
 cultures, thoughts and so on are denied the racist, sexist or homophobe. Their
 minds are trapped in a cage, stagnating within a mono-culture -- and
 stagnation is death for the personality. Such forms of oppression are
 dehumanising for those who practice them, for the oppressor lives as a
-**role**, not as a person, and so are restricted by it and cannot express
+**role** , not as a person, and so are restricted by it and cannot express
 their individuality **freely** (and so do so in very limited ways). This warps
 the personality of the oppressor and impoverishes their own life and
 personality. Homophobia and sexism also limits the flexibility of all people,
@@ -1329,30 +1331,29 @@ freedom, and on the other, patriarchal society, a private-property economy,
 economic class stratification, and sexual repression. As Reich puts it:
 
 > _"Every tribe that developed from a [matricentric] to a patriarchal
-organisation had to change the sexual structure of its members to produce a
-sexuality in keeping with its new form of life. This was a necessary change
-because the shifting of power and of wealth from the democratic gens [maternal
-clans] to the authoritarian family of the chief was mainly implemented with
-the help of the suppression of the sexual strivings of the people. It was in
-this way that sexual suppression became an essential factor in the division of
-society into classes.  
+> organisation had to change the sexual structure of its members to produce a
+> sexuality in keeping with its new form of life. This was a necessary change
+> because the shifting of power and of wealth from the democratic gens
+> [maternal clans] to the authoritarian family of the chief was mainly
+> implemented with the help of the suppression of the sexual strivings of the
+> people. It was in this way that sexual suppression became an essential
+> factor in the division of society into classes.  
 >  _
-
 >
-
 > _"Marriage, and the lawful dowry it entailed, became the axis of the
-transformation of the one organisation into the other. In view of the fact
-that the marriage tribute of the wife's gens to the man's family strengthened
-the male's, especially the chief's, position of power, the male members of the
-higher ranking gens and families developed a keen interest in making the
-nuptial ties permanent. At this stage, in other words, only the man had an
-interest in marriage. In this way natural work-democracy's simple alliance,
-which could be easily dissolved at any time, was transformed into the
-permanent and monogamous marital relationship of patriarchy. The permanent
-monogamous marriage became the basic institution of patriarchal society --
-which it still is today. To safeguard these marriages, however, it was
-necessary to impose greater and greater restrictions upon and to depreciate
-natural genital strivings."_ [**The Mass Psychology of Fascism**, p. 90]
+> transformation of the one organisation into the other. In view of the fact
+> that the marriage tribute of the wife's gens to the man's family
+> strengthened the male's, especially the chief's, position of power, the male
+> members of the higher ranking gens and families developed a keen interest in
+> making the nuptial ties permanent. At this stage, in other words, only the
+> man had an interest in marriage. In this way natural work-democracy's simple
+> alliance, which could be easily dissolved at any time, was transformed into
+> the permanent and monogamous marital relationship of patriarchy. The
+> permanent monogamous marriage became the basic institution of patriarchal
+> society -- which it still is today. To safeguard these marriages, however,
+> it was necessary to impose greater and greater restrictions upon and to
+> depreciate natural genital strivings."_ [ **The Mass Psychology of Fascism**
+> , p. 90]
 
 The suppression of natural sexuality involved in this transformation from
 matricentric to patriarchal society created various anti-social drives
@@ -1363,32 +1364,33 @@ In this way, sex began to be regarded as "dirty," "diabolical," "wicked," etc.
 -- which it had indeed become through the creation of secondary drives. Thus:
 
 > _"The patriarchal- authoritarian sexual order that resulted from the
-revolutionary processes of latter-day [matricentrism] (economic independence
-of the chief's family from the maternal gens, a growing exchange of goods
-between the tribes, development of the means of production, etc.) becomes the
-primary basis of authoritarian ideology by depriving the women, children, and
-adolescents of their sexual freedom, making a commodity of sex and placing
-sexual interests in the service of economic subjugation. From now on,
-sexuality is indeed distorted; it becomes diabolical and demonic and has to be
-curbed."_ [Reich, **Op. Cit.**, p. 88]
+> revolutionary processes of latter-day [matricentrism] (economic independence
+> of the chief's family from the maternal gens, a growing exchange of goods
+> between the tribes, development of the means of production, etc.) becomes
+> the primary basis of authoritarian ideology by depriving the women,
+> children, and adolescents of their sexual freedom, making a commodity of sex
+> and placing sexual interests in the service of economic subjugation. From
+> now on, sexuality is indeed distorted; it becomes diabolical and demonic and
+> has to be curbed."_ [Reich, **Op. Cit.** , p. 88]
 
 Once the beginnings of patriarchy are in place, the creation of a fully
 authoritarian society based on the psychological crippling of its members
 through sexual suppression follows:
 
 > _"The moral inhibition of the child's natural sexuality, the last stage of
-which is the severe impairment of the child's **genital** sexuality, makes the
-child afraid, shy, fearful of authority, obedient, 'good,' and 'docile' in the
-authoritarian sense of the words. It has a crippling effect on man's
-rebellious forces because every vital life-impulse is now burdened with severe
-fear; and since sex is a forbidden subject, thought in general and man's
-critical faculty also become inhibited. In short, morality's aim is to produce
-acquiescent subjects who, despite distress and humiliation, are adjusted to
-the authoritarian order. Thus, the family is the authoritarian state in
-miniature, to which the child must learn to adapt himself as a preparation for
-the general social adjustment required of him later. Man's authoritarian
-structure -- this must be clearly established -- is basically produced by the
-embedding of sexual inhibitions and fear."_ [Reich, **Op. Cit.**, p. 30]
+> which is the severe impairment of the child's **genital** sexuality, makes
+> the child afraid, shy, fearful of authority, obedient, 'good,' and 'docile'
+> in the authoritarian sense of the words. It has a crippling effect on man's
+> rebellious forces because every vital life-impulse is now burdened with
+> severe fear; and since sex is a forbidden subject, thought in general and
+> man's critical faculty also become inhibited. In short, morality's aim is to
+> produce acquiescent subjects who, despite distress and humiliation, are
+> adjusted to the authoritarian order. Thus, the family is the authoritarian
+> state in miniature, to which the child must learn to adapt himself as a
+> preparation for the general social adjustment required of him later. Man's
+> authoritarian structure -- this must be clearly established -- is basically
+> produced by the embedding of sexual inhibitions and fear."_ [Reich, **Op.
+> Cit.** , p. 30]
 
 In this way, by damaging the individual's power to rebel and think for
 him/herself, the inhibition of childhood sexuality -- and indeed other forms
@@ -1400,14 +1402,14 @@ compulsive monogamy, premarital chastity, corporal punishment, etc.). In the
 words of Reich:
 
 > _"Since authoritarian society reproduces itself in the individual structures
-of the masses with the help of the authoritarian family, it follows that
-political reaction has to regard and defend the authoritarian family as
-**the** basis of the 'state, culture, and civilisation. . . .' [It is]
-**political reaction's germ cell**, the most important centre for the
-production of reactionary men and women. Originating and developing from
-definite social processes, it becomes the most essential institution for the
-preservation of the authoritarian system that shapes it."_ [**Op. Cit.**, pp.
-104-105]
+> of the masses with the help of the authoritarian family, it follows that
+> political reaction has to regard and defend the authoritarian family as
+> **the** basis of the 'state, culture, and civilisation. . . .' [It is]
+> **political reaction's germ cell** , the most important centre for the
+> production of reactionary men and women. Originating and developing from
+> definite social processes, it becomes the most essential institution for the
+> preservation of the authoritarian system that shapes it."_ [ **Op. Cit.** ,
+> pp. 104-105]
 
 The family is the most essential institution for this purpose because children
 are most vulnerable to psychological maiming in their first few years, from
@@ -1422,8 +1424,8 @@ train our dogs to suit our own purposes, so we train our children. In that
 kennel, the nursery, the human dogs must be clean; they must feed when we
 think it convenient for them to feed. I saw a hundred thousand obedient,
 fawning dogs wag their tails in the Templehof, Berlin, when in 1935, the great
-trainer Hitler whistled his commands."_ [**Summerhill: a Radical Approach to
-Child Rearing**, p. 100]
+trainer Hitler whistled his commands."_ [ **Summerhill: a Radical Approach to
+Child Rearing** , p. 100]
 
 The family is also the main agency of repression during adolescence, when
 sexual energy reaches its peak. This is because the vast majority of parents
@@ -1438,7 +1440,7 @@ demands for abstention from premarital sex. This in turn forces them to engage
 in furtive sex in the back seats of cars or other out-of-the-way places where
 they cannot relax or obtain full sexual satisfaction. As Reich found, when
 sexuality is repressed and laden with anxiety, the result is always some
-degree of what he terms _"orgastic impotence"_: the inability to fully
+degree of what he terms _"orgastic impotence"_ : the inability to fully
 surrender to the flow of energy discharged during orgasm. Hence there is an
 incomplete release of sexual tension, which results in a state of chronic
 bioenergetic stasis. Such a condition, Reich found, is the breeding ground for
@@ -1474,8 +1476,8 @@ Later writers who have followed Reich in analysing the process of creating
 reactionary character structures have broadened the scope of his analysis to
 include other important inhibitions, besides sexual ones, that are imposed on
 children and adolescents. Rianne Eisler, for example, in her book **Sacred
-Pleasure**, stresses that it is not just a sex-negative attitude but a
-**pleasure**-negative attitude that creates the kinds of personalities in
+Pleasure** , stresses that it is not just a sex-negative attitude but a
+**pleasure** -negative attitude that creates the kinds of personalities in
 question. Denial of the value of pleasurable sensations permeates our
 unconscious, as reflected, for example, in the common idea that to enjoy the
 pleasures of the body is the "animalistic" (and hence "bad") side of human
@@ -1495,13 +1497,13 @@ Eisler also points out that there is _"ample evidence that people who grow up
 in families where rigid hierarchies and painful punishments are the norm learn
 to suppress anger toward their parents. There is also ample evidence that this
 anger is then often deflected against traditionally disempowered groups (such
-as minorities, children, and women)."_ [**Sacred Pleasure**, p. 187] This
+as minorities, children, and women)."_ [ **Sacred Pleasure** , p. 187] This
 repressed anger then becomes fertile ground for reactionary politicians, whose
 mass appeal usually rests in part on scapegoating minorities for society's
 problems.
 
 As the psychologist Else Frenkel-Brunswick documents in **The Authoritarian
-Personality**, people who have been conditioned through childhood abuse to
+Personality** , people who have been conditioned through childhood abuse to
 surrender their will to the requirements of feared authoritarian parents, also
 tend to be very susceptible as adults to surrender their will and minds to
 authoritarian leaders. _"In other words,"_ Frenkel-Brunswick summarises, _"at
@@ -1510,8 +1512,8 @@ they perceive as weak, they also learn to submit to autocratic or 'strong-man'
 rule. Moreover, having been severely punished for any hint of rebellion (even
 'talking back' about being treated unfairly), they gradually also learn to
 deny to themselves that there was anything wrong with what was done to them as
-children -- and to do it in turn to their own children."_ [**The Authoritarian
-Personality**, p. 187]
+children -- and to do it in turn to their own children."_ [ **The
+Authoritarian Personality** , p. 187]
 
 These are just some of the mechanisms that perpetuate the status quo by
 creating the kinds of personalities who worship authority and fear freedom.
@@ -1548,14 +1550,14 @@ was a time when the whole world believed those institutions to be right, just,
 and unchangeable."_ However, they became _"discredited and lost their hold
 upon the people, and finally the institutions that incorporated those ideas
 were abolished"_ as _"they were useful only to the master class"_ and _"were
-done away with by popular uprisings and revolutions."_ [**What is
-Anarchism?**, p. 178] It is unlikely, therefore, that current forms of
+done away with by popular uprisings and revolutions."_ [ **What is
+Anarchism?** , p. 178] It is unlikely, therefore, that current forms of
 hierarchy are exceptions to this process.
 
 Today, we can see that this is the case. Malatesta's comments of over one
 hundred years ago are still valid: _"the oppressed masses . . . have never
 completely resigned themselves to oppression and poverty . . . [and] show
-themselves thirsting for justice, freedom and wellbeing."_ [**Anarchy**, p.
+themselves thirsting for justice, freedom and wellbeing."_ [ **Anarchy** , p.
 33] Those at the bottom are constantly resisting both hierarchy and its the
 negative effects and, equally important, creating non-hierarchical ways of
 living and fighting. This constant process of self-activity and self-
@@ -1576,20 +1578,20 @@ with energy and structured in specific ways, which, while adapting itself,
 reacts in specific and ascertainable ways to external conditions."_ In this
 _"process of adaptation,"_ people develop _"definite mental and emotional
 reactions which follow from specific properties"_ of our nature. [Eric Fromm,
-**Man for Himself**, p. 23 and p. 22] For example:
+**Man for Himself** , p. 23 and p. 22] For example:
 
-> _ "Man can adapt himself to slavery, but he reacts to it by lowering his
-intellectual and moral qualities . . . Man can adapt himself to cultural
-conditions which demand the repression of sexual strivings, but in achieving
-this adaptation he develops . . . neurotic symptoms. He can adapt to almost
-any culture pattern, but in so far as these are contradictory to his nature he
-develops mental and emotional disturbances which force him eventually change
-these conditions since he cannot change his nature. . . . If . . . man could
-adapt himself to all conditions without fighting those which are against his
-nature, he would have no history. Human evolution is rooted in man's
-adaptability and in certain indestructible qualities of his nature which
-compel him to search for conditions better adjusted to his intrinsic needs."_
-[**Op. Cit.**, pp. 22-23]
+> _"Man can adapt himself to slavery, but he reacts to it by lowering his
+> intellectual and moral qualities . . . Man can adapt himself to cultural
+> conditions which demand the repression of sexual strivings, but in achieving
+> this adaptation he develops . . . neurotic symptoms. He can adapt to almost
+> any culture pattern, but in so far as these are contradictory to his nature
+> he develops mental and emotional disturbances which force him eventually
+> change these conditions since he cannot change his nature. . . . If . . .
+> man could adapt himself to all conditions without fighting those which are
+> against his nature, he would have no history. Human evolution is rooted in
+> man's adaptability and in certain indestructible qualities of his nature
+> which compel him to search for conditions better adjusted to his intrinsic
+> needs."_ [ **Op. Cit.** , pp. 22-23]
 
 So as well as adaptation to hierarchy, there is resistance. This means that
 modern society (capitalism), like any hierarchical society, faces a direct
@@ -1614,15 +1616,15 @@ mentally. So there is hope. Just as authoritarian traits are learned, so can
 they be **unlearned.** As Carole Pateman summarises, the evidence supports the
 argument _"that we do learn to participate by participating"_ and that a
 participatory environment _"might also be effective in diminishing tendencies
-toward non-democratic attitudes in the individual."_ [**Participaton and
-Democratic Theory**, p. 105] So oppression reproduces resistance and the seeds
-of its own destruction.
+toward non-democratic attitudes in the individual."_ [ **Participaton and
+Democratic Theory** , p. 105] So oppression reproduces resistance and the
+seeds of its own destruction.
 
 It is for this reason anarchists stress the importance of self-liberation (see
 [section A.2.7](secA2.md#seca27)) and _"support all struggles for partial
 freedom, because we are convinced that one learns through struggle, and that
 once one begins to enjoy a little freedom one ends by wanting it all."_
-[Malatesta, **Errico Malatesta: His Life and Ideas**, p. 195] By means of
+[Malatesta, **Errico Malatesta: His Life and Ideas** , p. 195] By means of
 direct action (see [section J.2](secJ2.md)), people exert themselves and
 stand up for themselves. This breaks the conditioning of hierarchy, breaks the
 submissiveness which hierarchical social relationships both need and produce.
@@ -1634,7 +1636,7 @@ responsibility. [They] will learn to decide and act on [their] own behalf, not
 leaving it to leaders or politicians to attend to [their] affairs and look out
 for [their] welfare. It will be [them] who will determine, together with
 [their] fellows . . . , what they want and what methods will best serve their
-aims."_ [Berkman, **Op. Cit.**, p. 206]
+aims."_ [Berkman, **Op. Cit.** , p. 206]
 
 In other words, struggle encourages all the traits hierarchy erodes and,
 consequently, develop the abilities not only to question and resist authority
@@ -1646,12 +1648,12 @@ hierarchy. As an example, after the sit-down strikes in Flint, Michigan, in
 The women that had participated actively became a different type of women . .
 . They carried themselves with a different walk, their heads were high, and
 they had confidence in themselves."_ [Genora (Johnson) Dollinger, contained in
-**Voices of a People's History of the United States**, Howard Zinn and Anthony
-Arnove (eds.), p. 349] Such changes happen in all struggles (also see [section
-J.4.2](secJ4.md#secj42)). Anarchists are not surprised for, as discussed in
-[section J.1](secJ1.md) and [J.2.1](secJ2.md#secj21), we have long
-recognised the liberating aspects of social struggle and the key role it plays
-in creating free people and the other preconditions for needed for an
+**Voices of a People's History of the United States** , Howard Zinn and
+Anthony Arnove (eds.), p. 349] Such changes happen in all struggles (also see
+[section J.4.2](secJ4.md#secj42)). Anarchists are not surprised for, as
+discussed in [section J.1](secJ1.md) and [J.2.1](secJ2.md#secj21), we have
+long recognised the liberating aspects of social struggle and the key role it
+plays in creating free people and the other preconditions for needed for an
 anarchist society (like the initial social structure -- see [section
 I.2.3](secI2.md#seci23)).
 
@@ -1686,25 +1688,25 @@ hierarchies they are fighting once and for all. Thus, for example, in the
 class struggle we argue for _"[o]rganisation from the bottom up, beginning
 with the shop and factory, on the foundation of the joint interests of the
 workers everywhere, irrespective of trade, race, or country."_ [Alexander
-Berkman, **Op. Cit.**, p. 207] Such an organisation, as we discuss in [section
-J.5.2](secJ5.md#secj52), would be run via workplace assemblies and would be
-the ideal means of replacing capitalist hierarchy in industry by genuine
-economic freedom, i.e. worker's self-management of production (see [section
-I.3](secI3.md)). Similarly, in the community we argue for popular assemblies
-(see [section J.5.1](secJ5.md#secj51)) as a means of not only combating the
-power of the state but also replaced it with by free, self-managed,
-communities (see [section I.5](secI5.md)).
+Berkman, **Op. Cit.** , p. 207] Such an organisation, as we discuss in
+[section J.5.2](secJ5.md#secj52), would be run via workplace assemblies and
+would be the ideal means of replacing capitalist hierarchy in industry by
+genuine economic freedom, i.e. worker's self-management of production (see
+[section I.3](secI3.md)). Similarly, in the community we argue for popular
+assemblies (see [section J.5.1](secJ5.md#secj51)) as a means of not only
+combating the power of the state but also replaced it with by free, self-
+managed, communities (see [section I.5](secI5.md)).
 
 Thus the current struggle itself creates the bridge between what is and what
 could be:
 
-> _ "Assembly and community must arise from within the revolutionary process
-itself; indeed, the revolutionary process must **be** the formation of
-assembly and community, and with it, the destruction of power. Assembly and
-community must become 'fighting words,' not distant panaceas. They must be
-created as **modes of struggle** against the existing society, not as
-theoretical or programmatic abstractions."_ [Murray Bookchin, **Post-Scarcity
-Anarchism**, p. 104]
+> _"Assembly and community must arise from within the revolutionary process
+> itself; indeed, the revolutionary process must **be** the formation of
+> assembly and community, and with it, the destruction of power. Assembly and
+> community must become 'fighting words,' not distant panaceas. They must be
+> created as **modes of struggle** against the existing society, not as
+> theoretical or programmatic abstractions."_ [Murray Bookchin, **Post-
+> Scarcity Anarchism** , p. 104]
 
 This is not all. As well as fighting the state and capitalism, we also need
 fight all other forms of oppression. This means that anarchists argue that we
@@ -1719,28 +1721,28 @@ As part of that process, anarchists encourage and support all sections of the
 population to stand up for their humanity and individuality by resisting
 racist, sexist and anti-gay activity and challenging such views in their
 everyday lives, everywhere (as Carole Pateman points out, _"sexual domination
-structures the workplace as well as the conjugal home"_ [**The Sexual
-Contract**, p. 142]). It means a struggle of all working class people against
+structures the workplace as well as the conjugal home"_ [ **The Sexual
+Contract** , p. 142]). It means a struggle of all working class people against
 the internal and external tyrannies we face -- we must fight against own our
 prejudices while supporting those in struggle against our common enemies, no
 matter their sex, skin colour or sexuality. Lorenzo Kom'boa Ervin words on
 fighting racism are applicable to all forms of oppression:
 
-> _ "Racism must be fought vigorously wherever it is found, even if in our own
-ranks, and even in ones own breast. Accordingly, we must end the system of
-white skin privilege which the bosses use to split the class, and subject
-racially oppressed workers to super-exploitation. White workers, especially
-those in the Western world, must resist the attempt to use one section of the
-working class to help them advance, while holding back the gains of another
-segment based on race or nationality. This kind of class opportunism and
-capitulationism on the part of white labour must be directly challenged and
-defeated. There can be no workers unity until the system of super-exploitation
-and world White Supremacy is brought to an end."_ [**Anarchism and the Black
-Revolution**, p. 128]
+> _"Racism must be fought vigorously wherever it is found, even if in our own
+> ranks, and even in ones own breast. Accordingly, we must end the system of
+> white skin privilege which the bosses use to split the class, and subject
+> racially oppressed workers to super-exploitation. White workers, especially
+> those in the Western world, must resist the attempt to use one section of
+> the working class to help them advance, while holding back the gains of
+> another segment based on race or nationality. This kind of class opportunism
+> and capitulationism on the part of white labour must be directly challenged
+> and defeated. There can be no workers unity until the system of super-
+> exploitation and world White Supremacy is brought to an end."_ [ **Anarchism
+> and the Black Revolution** , p. 128]
 
 Progress towards equality can and has been made. While it is still true that
 (in the words of Emma Goldman) _"[n]owhere is woman treated according to the
-merit of her work, but rather as a sex"_ [**Red Emma Speaks**, p. 177] and
+merit of her work, but rather as a sex"_ [ **Red Emma Speaks** , p. 177] and
 that education is still patriarchal, with young women still often steered away
 from traditionally "male" courses of study and work (which teaches children
 that men and women are assigned different roles in society and sets them up to
@@ -1765,7 +1767,7 @@ organisations must be built on the principle of equal liberty of all its
 members. This equality means that only if each worker is a free and
 independent unit, co-operating with the others from his or her mutual
 interests, can the whole labour organisation work successfully and become
-powerful."_ [Lorenzo Kom'boa Ervin, **Op. Cit.**, pp. 127-8]
+powerful."_ [Lorenzo Kom'boa Ervin, **Op. Cit.** , pp. 127-8]
 
 We must all treat people as equals, while at the same time respecting their
 differences. Diversity is a strength and a source of joy, and anarchists
@@ -1804,14 +1806,14 @@ pride of place in many miners' marches. Another example is the great strike by
 Jewish immigrant workers in 1912 in London which occurred at the same time as
 a big London Dock Strike. _"The common struggle brought Jewish and non-Jewish
 workers together. Joint strike meetings were held, and the same speakers spoke
-at huge joint demonstrations."_ The Jewish strike was a success, dealing a _
-"death-blow to the sweatshop system. The English workers looked at the Jewish
+at huge joint demonstrations."_ The Jewish strike was a success, dealing a
+_"death-blow to the sweatshop system. The English workers looked at the Jewish
 workers with quite different eyes after this victory."_ Yet the London dock
 strike continued and many dockers' families were suffering real wants. The
 successful Jewish strikers started a campaign _"to take some of the dockers'
 children into their homes."_ This practical support _"did a great deal to
 strengthen the friendship between Jewish and non-Jewish workers."_ [Rudolf
-Rocker, **London Years**, p. 129 and p. 131] This solidarity was repaid in
+Rocker, **London Years** , p. 129 and p. 131] This solidarity was repaid in
 October 1936, when the dockers were at the forefront in stopping Mosley's
 fascist blackshirts marching through Jewish areas (the famous battle of Cable
 street).
@@ -1828,7 +1830,7 @@ Only in this way can the hold of these social diseases be weakened and a
 better, non-hierarchical system be created. An injury to one is an injury to
 all.
 
-[‹ B.0 Section B Introduction](secBint.md "Go to previous page" )
-[up](secBcon.md "Go to parent page" ) [B.2 Why are anarchists against the
-state? ›](secB2.md "Go to next page" )
+[‹ B.0 Section B Introduction](secBint.md "Go to previous page")
+[up](secBcon.md "Go to parent page") [B.2 Why are anarchists against the
+state? ›](secB2.md "Go to next page")
 

@@ -50,7 +50,8 @@ Yet another anarchist news service.
 
 ## Anarchist Web-pages
 
-**_English language web-pages by either individual anarchists and libertarian socialists or by groups not part of a bigger organisation._**
+**_English language web-pages by either individual anarchists and libertarian
+socialists or by groups not part of a bigger organisation._**
 
 
   
@@ -104,7 +105,7 @@ humour to attack the enemies of freedom.
 E-texts relevent to anarchist/libertarian socialist theory, philosophy and
 history. Excellent resource.
 
-Revolution Page  
+Page  
   
 The nice anarchist webpage based in Seattle, USA.
 
@@ -143,14 +144,14 @@ Revolution and Paris '68 among other things. Recommended.
 Excellent collection of anarchist quotes on a wide range of subjects.  
 Includes the excellent essay [Between Anarchism and
 
-/mark-space/Anarchy.md)  
+[Mark/Space: Anachron City: Library: Keywords:
   
 List of anarchist books and links with a chronology of anarchism.
 
 [  
 The Platform and the International anarchist
   
-Introduction to the ideas of **The Platform**, the Platformist tradition and
+Introduction to the ideas of **The Platform** , the Platformist tradition and
 the anarchist groups which apply it today.
 
 [Anarchist Information -
@@ -178,7 +179,7 @@ introductory texts on anarchism.
   
 Good resource for anarchist links and articles.
 
-&gt;  
+>  
 Collectivist Libertarianism  
   
 List of anarchist webpages (shame about the name).
@@ -266,7 +267,7 @@ Articles and images about anarchism, plus an extensive links page
 
   
 The Pierre J. Proudhon Memorial Computer! Has extensive links and articles,  
-&gt;Anarchist Library
+>Anarchist Library
 
   
 Excellent collection of anarchist webpages (individuals and groups).
@@ -618,7 +619,8 @@ Find out what is happening in the libertarian scene in Glasgow, Scotland.
 
 ## Anarchist Web-pages (Non-English)
 
-**_Non-English language web-pages by either individual anarchists and libertarian socialists or by groups not part of a bigger organisation. _**
+**_Non-English language web-pages by either individual anarchists and
+libertarian socialists or by groups not part of a bigger organisation._**
 
 [Anarchist and Related  
   
@@ -660,7 +662,7 @@ articles and 1610 links...and counting.
 !!! P@RaToDoS o e-zine da Revolução
   
 Excellent looking web-site. Plus a short FAQ on anarchism called  
-- Anarquismo
+Anarquismo
 
 .
 
@@ -678,7 +680,6 @@ texts. Has links to anarchistic writings and web-pages.
   
 Links on anarchism and ecology.
 
-FEEL  
   
 Spanish Anarchist web-page.
 
@@ -751,7 +752,7 @@ Ação Direta - Um Site
 Anarchist webpage from Brazil.
 
 [  
-"WWW.ANARCHIE.DE" ) | ANARCHIE | FREIHEIT | SELBSTBESTIMMUNG | EVOLUTION |  
+"WWW.ANARCHIE.DE") | ANARCHIE | FREIHEIT | SELBSTBESTIMMUNG | EVOLUTION |  
   
 German anarchist webpage.
 
@@ -1013,7 +1014,7 @@ Scottish Anarchist group.
 
   
 [  
-Anarchist Youth Network: Britain &amp;
+Anarchist Youth Network: Britain &
   
 Name says it all. For UK based anarchist youths.
 
@@ -1450,9 +1451,9 @@ links to many free thought sites and essays.
   
   
 Excellent site on anarcho-syndicalism (also known as **Revolutionary Unionism
-101**). Contains many of the basic  
+101** ). Contains many of the basic  
 introductions to anarcho-syndicalist ideas and history, such as Rocker's  
-**Anarcho-syndicalism**, and accounts of anarcho-syndicalism in  
+**Anarcho-syndicalism** , and accounts of anarcho-syndicalism in  
 action (such as the organisation and history of the CNT, an account of  
 the Aragon collectives and so on). Recommended. A mirror can be  
 
@@ -1472,10 +1473,11 @@ of Bolshevism in reality versus its rhetoric (entitled
 
 ## Anarcho-Syndicalist and Revolutionary Unions and Organisations
 
-**_Home pages of anarcho-syndicalist and other revolutionary unions and groups._**
+**_Home pages of anarcho-syndicalist and other revolutionary unions and
+groups._**
 
   
-Official webpage of the **International Workers Association**, an  
+Official webpage of the **International Workers Association** , an  
 organisation linking anarcho-syndicalist and revolutionary syndicalist  
 groups and unions across the world.
 
@@ -1568,6 +1570,8 @@ Homepage of the IWW in Scotland.
   
   
 Home page for the South African anarchist-syndicalist group, the  
+**Workers' Solidarity Federation**. Old site can be found
+their magazine, **Workers' Solidarity**.
 
 [  
 The Awareness League
@@ -1635,7 +1639,6 @@ Kansas City branch of the IWW.
 contain information on how to join._**
 
 [Welcome to the Anarchy,  
-Anarchism &amp; Libertarian Socialism
   
 Web-page ring for anarchist sites.
 
@@ -1712,14 +1715,13 @@ Paper of the revoluntary union, the I.W.W.
 
   
   
-Web-site has articles from **Ideas and Action**, paper of the U.S.  
+Web-site has articles from **Ideas and Action** , paper of the U.S.  
 anarcho-syndicalist group Workers Solidarity Alliance as well as related
 material.
 
   
 Journal concerned with all aspects of anarchist theory, history and culture.
 
-Magazine
 
   
   
@@ -1743,7 +1745,7 @@ discuss and create a world based on voluntary co-operation and mutual aid.
 Paper of the French anarcho-syndicalist union the CNT-AIT
 
 [  
-.federation-anarchiste.org/ml/index.md)  
+Le Monde libertaire -- Organe de la Federation
   
 Webpage for the French anarchist paper.
 
@@ -1751,10 +1753,10 @@ Webpage for the French anarchist paper.
 Webpage of the weekly Italian Anarchist Paper.
 
   
-Webpage of **Workers' Solidarity**, paper of the Spanish C.N.T.
+Webpage of **Workers' Solidarity** , paper of the Spanish C.N.T.
 
   
-Webpage of **Land and Liberty**, paper of the F.A.I. (Anarchist  
+Webpage of **Land and Liberty** , paper of the F.A.I. (Anarchist  
 Federation of Iberia).
 
   
@@ -1771,13 +1773,13 @@ Home page and articles from the paper of the German anarcho-syndicalists
 the FAU.
 
 [  
-Democracy &amp; Nature: The International Journal of Inclusive
+Democracy & Nature: The International Journal of Inclusive
   
 [  
-Democracy &amp; Nature: The International Journal of Inclusive
+Democracy & Nature: The International Journal of Inclusive
   
 [  
-Democracy &amp; Nature: The International Journal of Inclusive
+Democracy & Nature: The International Journal of Inclusive
   
 International journal of libertarian socialist, anarchist, social  
 ecologist and other thought. Included in past issues articles by the  
@@ -1792,7 +1794,7 @@ issues and events - including articles on anarchist economics, union
 organising  
 and so on.
 
-.anarchist-studies.org/)  
+[IAS Newsletter - Perspectives on Anarchist
   
   
 Publication of the **Institute for Anarchist Studies**.  
@@ -2070,7 +2072,7 @@ Noam Chomsky
 Chomsky's classic introduction to anarchism. The introduction to Daniel
 Guerin's **Anarchism: From Theory to Practice**.
 
-Revolution -- by The Friends of Durruti.  
+-- by The Friends of Durruti.  
   
 Produced in Spain in 1937, this is an analysis of the mistakes made by the
 anarchists during the Spanish Revolution by anarchist militants and a  
@@ -2085,13 +2087,13 @@ One of the best introductions to the subject.
   
 Excellent collection of anarcha-feminist articles.
 
-on Syndicalism  
+Syndicalism  
   
 Extracts from the book **The Anarchist Revolution** on Errico  
 Malatesta's viewpoints on syndicalism and its relation to anarchism. Very  
 important series of essays and recommended.
 
-the Platform  
+Platform  
   
 Malatesta's thoughts on the Platform and anarchist organisation,  
 including a discussion between him and Nestor Makhno on his comments.  
@@ -2113,7 +2115,7 @@ the Stalinists during the May Days in Barcelona, 1937.
   
 Excellent introduction to Kropotkin's ideas on federalism by Berneri.
 
-&gt;Social Anarchism or Lifestyle Anarchism -- by Murray Bookchin  
+>Social Anarchism or Lifestyle Anarchism -- by Murray Bookchin  
   
 Bookchin's sometimes over the top analysis and attack on Lifestyle  
 anarchism. Important for its commitment to social action and its  
@@ -2144,7 +2146,7 @@ Kropotkin.
   
 Kropotkin's classic analysis of the rise of the state.
 
-the Young -- by P.A. Kropotkin.  
+Young -- by P.A. Kropotkin.  
   
 One of Kropotkin's best known and most inspiring essays. A must read!
 
@@ -2152,7 +2154,7 @@ Book -- by Benjamin R. Tucker
   
 Excerpts from the classic work by the leading US individualist anarchist.
 
-Political Philosophy of Bakunin -- G.P. Maximoff (ed.)  
+Philosophy of Bakunin -- G.P. Maximoff (ed.)  
   
 Extracts from **The Political Philosophy of Bakunin** on various  
 topics, such as Bakunin thoughts on the nature of the state and the ideas  
@@ -2209,11 +2211,11 @@ Situationist International
 Useful collection of Situationist Texts.
 
 [News From Nowhere, or, An Epoch of
-/eng-parsed&part=0) \-- by William Morris  
+parsed&part=0) \-- by William Morris  
   
 Morris' classic account of a communist-anarchist utopia on-line!
 
-&gt;Study Guide for Ursula LeGuin: The Dispossessed (1974)  
+Guide for Ursula LeGuin: The Dispossessed (1974)  
   
 LeGuin's The Dispossessed is a recent science fiction account of a  
 communist-anarchist utopia. This study aid provides a good introduction to  
@@ -2386,7 +2388,6 @@ Analysis of Kropotkin's ideas and methodology by an Autonomist Marxist.
 The author correctly points out Kropotkin's method of analysing social  
 struggle and using this information to inform his anarchist ideas and actions.
 
-Chomsky
 
   
   
@@ -2480,7 +2481,7 @@ Christian anarcho-pacifist.
 [  
   
 While not an anarchist, Orwell was a democratic socialist with many ideas  
-in common with anarchism. He wrote **Homage to Catalonia**, one of the  
+in common with anarchism. He wrote **Homage to Catalonia** , one of the  
 best books on the Spanish Revolution. Orwell wanted to join the CNT militia,  
 so that entitles him to being put in this section!
 
@@ -2507,7 +2508,7 @@ Contains, in English, articles on and about such french
 individualist anarchists as E. Armand.
 
 [  
-/jean-pierre.proudhon/p_j_prou/pierre_j.htm)  
+! Pierre-Joseph Proudhon (1809-1865) Sommaire
   
 Webpage on Proudhon (in French)
 
@@ -2537,12 +2538,11 @@ you need an anarchist book, this is the place to find it!
 Home page for **Left Bank Distribution**. Produces, amongst other things  
 the situationist classic **The Revolution of Everyday Life**.
 
-Center  
   
 Anarchist self-managed centre based in Portland, Oregan, USA.
 
 [ Blackout Books:  
-Anarchist Politics &amp; Culture in New York City
+Anarchist Politics & Culture in New York City
   
 New York based infoshop.
 
@@ -2633,7 +2633,7 @@ based in L.A. in the USA.
 Project to publish anarchist books.
 
 [  
-The Anarchist Teapot - free community cafe &amp; info centre in
+The Anarchist Teapot - free community cafe & info centre in
   
 Name says it all!
 
@@ -2704,8 +2704,8 @@ Home pages for the anarchist band Chumbawamba.
   
 Home page about the radical sixities folk singer Phil Ochs. Member of  
 the Industrial Workers of the World, he wrote many classic songs (including  
-**Love me, I'm a Liberal**, **Links on the Chain**, **Joe Hill** and  
-**There but for Fortune**). Well worth checking out.
+**Love me, I'm a Liberal** , **Links on the Chain** , **Joe Hill** and  
+**There but for Fortune** ). Well worth checking out.
 
   
 Home page of the anarchist influenced folk bank **The Levellers**.  
@@ -2849,7 +2849,7 @@ Article on the role of anarchist women in the Spanish Revolution, their
 part in the street fighting in the first days, on the front line and  
 creating the revolution in the "home front."
 
-&amp; Civil War 1936-1939  
+War 1936-1939  
   
 Introductory essay on the Spanish Civil War in which anarchists played a  
 major role. Has links to anarchist related sites and various viewpoints on  
@@ -2869,7 +2869,7 @@ Short, but excellent, introduction to resistance against the rise
 of Fascism in Italy, in the early 1920s. Anarchists played a key role  
 in the struggle.
 
-[Makhnovists &amp; The Russian
+[Makhnovists & The Russian
   
 [  
 Nestor Makhno et la
@@ -2911,7 +2911,7 @@ women and their history.
 [Origins and Ideals of the Modern
   
 Excellent introduction to the Modern School movement and its ideas. See also  
-[Finding Aid : Intro &amp; History : Stelton Modern School
+[Finding Aid : Intro & History : Stelton Modern School
 
 [  
 The Italian Factory Occupations of
@@ -2920,7 +2920,7 @@ Important article on the near revolution in Italy in 1920
 in which anarchists and anarcho-syndicalists played an important  
 role.
 
-[Workers Power &amp;  
+[Workers Power &  
   
 Excellent analysis of the role of the CNT-FAI in the Spanish  
 Revolution from an anarcho-syndicalist perspective.
@@ -2948,7 +2948,7 @@ Extensive listing of events, people, links of a radical and
 interesting nature. Find out what happened on a given day!
 
 [  
-The Anarchist Timeline/Chronology (1300+ Dates &amp;
+The Anarchist Timeline/Chronology (1300+ Dates &
   
 Name says it all!
 
@@ -3102,7 +3102,7 @@ the anarchy-list. To join, send them a message and ask to be subscribed.
 [A-Infos](mailto:majordomo@lglobal.com)  
   
 News, reports and analysis from international anarchist newsagencies.  
-To subscribe send send a message with the words _SUBSCRIBE A-INFOS _ in  
+To subscribe send send a message with the words _SUBSCRIBE A-INFOS_ in  
 the body of the message. There is a seperate list for discussing the contents  
 of A-INFOS. To subscribe add the words _SUBSCRIBE A-INFOS-D_ to the body  
 of your message.
@@ -3125,7 +3125,7 @@ a message with the word _SUBSCRIBE_ in the subject line.
 [AIT-IWA-list](mailto:AIT-IWA-list-request@list.uncanny.net)  
   
 Mailing list about the syndicalist international. To subscribe send a  
-message with the word _SUBSCRIBE _ in the subject line.
+message with the word _SUBSCRIBE_ in the subject line.
 
 [Organise](mailto:platform@geocities.com)  
   
@@ -3152,7 +3152,7 @@ ask to be added.
 [Anarchy-Ireland](mailto:Majordomo@morrigan.alabanza.com)  
   
 Mailing list about anarchism and/in Ireland. To subscribe send a  
-message with the word _SUBSCRIBE _ in the subject line.
+message with the word _SUBSCRIBE_ in the subject line.
 
 [Anarcha-feminist](mailto:listserv@socsci.smith.ed)  
   
@@ -3247,7 +3247,7 @@ the message body.
 
 [Atlantic Anarchist Circle](mailto:majordomo@tao.ca)  
   
-New regional anarchist network for east-coast US &amp; Canada. To join  
+New regional anarchist network for east-coast US & Canada. To join  
 send a mail to the above address with the words "subscribe aac" in the  
 body of the message.
 
@@ -3274,7 +3274,7 @@ the message "subscribe south "
 
 [Alternative Network for Eastern Europe  
 ](mailto:listserv@plearn.edu.pl)  
-&gt;br&gt;Started by the Polish Anarchist Federation. To join send mail to the  
+>br>Started by the Polish Anarchist Federation. To join send mail to the  
 above address with the words "SUBSCRIBE ALTER-EE" in the body of the message.  
 
   
@@ -3354,7 +3354,7 @@ networking, organising and struggle.
 
   
 
-[‹ An Anarchist FAQ links](links.md "Go to previous page" ) [up](links.md
-"Go to parent page" ) [Sites of interest to Anarchists ›](arlinks.md "Go to
-next page" )
+[‹ An Anarchist FAQ links](links.md "Go to previous page") [up](links.md
+"Go to parent page") [Sites of interest to Anarchists ›](arlinks.md "Go to
+next page")
 

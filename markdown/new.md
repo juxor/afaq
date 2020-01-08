@@ -20,6 +20,57 @@ We hope that this makes it clear to visitors!
 Version | Date | What's New  
 ---|---|---  
   
+15.3
+
+|
+
+26-NOV-2019
+
+|
+
+[What caused the degeneration of the Russian Revolution?](append43.md)  
+A revision of the appendix _What caused the degeneration of the Russian
+Revolution?_ refuting the various Leninist attempts to blame the failure of
+the Bolsheviks on "objective circumstances" (such as civil war, economic
+disruption, etc.) rather than their ideology and the social structures they
+favoured.  
+  
+15.2
+
+|
+
+19-JUL-2019
+
+|
+
+[Marxists and Spanish Anarchism](append32.md)  
+A slight revision of the appendix _Marxists and Spanish Anarchism_ which
+refutes various Marxist accounts of the Spanish Anarchist movement and key
+episodes in its history. The changes are mostly improving various references,
+indicating page numbers were possible of work previously referenced by URLs.
+However, a few new passages have been added here and there in anticipation of
+its full revision later.  
+  
+15.1
+
+|
+
+31-MAY-2018
+
+|
+
+[Were any of the Bolshevik oppositions a real alternative?](append45.md)  
+A revision of the appendix _Were any of the Bolshevik oppositions a real
+alternative?_ on various oppositional groups within Bolshevism and why they
+were no alternative to mainstream Leninism and Stalinism (in the case of the
+Left Opposition).
+
+[What was the Kronstadt Rebellion? -- Did the rebellion involve new
+sailors?](append42.md#app8)  
+A slight revision of the sub-section of appendix _What was the Kronstadt
+Rebellion?_ on whether the rebel sailors of 1921 had been there since 1917 or
+not. The data showing that they were is re-arranged and better organised.  
+  
 15.0
 
 |
@@ -51,8 +102,6 @@ Introduction to Volume 2 of _An Anarchist FAQ_
 
 This revision is done to indicate that volume 2 has been published. It does
 not signify a change of the main text of the work.  
-  
-  
   
 14.0
 
@@ -179,9 +228,9 @@ Complete revision of section I.3.3, which is now on **What is
 socialisation?**.
 
 [Section I.1.5](secI1.md#seci15)  
-New section on **Does capitalism efficiently allocate resources?**, discussing
-why attempts to portray socialism as _"impossible"_ downplay the allocative
-inefficiencies of the current system.
+New section on **Does capitalism efficiently allocate resources?** ,
+discussing why attempts to portray socialism as _"impossible"_ downplay the
+allocative inefficiencies of the current system.
 
 [Appendix 3.1](append31.md)  
 Slight change to the appendix _Reply to errors and distortions in David
@@ -206,7 +255,9 @@ for publication.
 |
 
 [An Anachist FAQ: Volume 1](book.md)  
-**An Anarchist FAQ**, at long last, has now been published by AK Press. Volume 1 (introductions, sections A to F, plus the appendix on the symbols of Anarchy) is now available (ISBN: 978-1902593906)
+**An Anarchist FAQ** , at long last, has now been published by AK Press.
+Volume 1 (introductions, sections A to F, plus the appendix on the symbols of
+Anarchy) is now available (ISBN: 978-1902593906)
 
 [Section H](secHcon.md)  
 Significant revision of the section on the anarchist critique of Marxism.
@@ -308,7 +359,7 @@ Press. Volume one (sections A to F, plus the introductions and appendix on the
 symbols of anarchy) is now ready for publication. We will announce the exact
 date soon.  
   
-[‹ An Anarchist FAQ now published!](book.md "Go to previous page" )
-[up](index.md "Go to parent page" ) [An Anarchist FAQ Introduction
-›](intro.md "Go to next page" )
+[‹ An Anarchist FAQ now published!](book.md "Go to previous page")
+[up](index.md "Go to parent page") [An Anarchist FAQ Introduction
+›](intro.md "Go to next page")
 

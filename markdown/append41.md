@@ -36,7 +36,7 @@ delusion, which otherwise might lead the Western workers to the same abyss as
 their brothers in Russia."_ Bolshevism had _"failed, utterly and absolutely"_
 and so it was _"incumbent upon those who have seen though the myth to expose
 its true nature . . . Bolshevism is of the past. The future belongs to man and
-his liberty."_ [**The Bolshevik Myth**, p. 318 and p. 342]
+his liberty."_ [ **The Bolshevik Myth** , p. 318 and p. 342]
 
 Subsequent events proved Berkman correct. Socialism became linked to Soviet
 Russia and as it fell into Stalinism, the effect was to discredit socialism,
@@ -64,14 +64,14 @@ was displaying symptoms of an outlook in harmony with the very Stalinism
 against which it had taken its stand . . . any person in the circles of the
 'Fourth International' who went so far as to object to [Trotsky's]
 propositions was promptly expelled and denounced in the same language that the
-bureaucracy had] employed against us in the Soviet Union."_ [**Memoirs of a
-Revolutionary**, p. 349] As we discuss in [section 3](append45.md#app3) of
+bureaucracy had] employed against us in the Soviet Union."_ [ **Memoirs of a
+Revolutionary** , p. 349] As we discuss in [section 3](append45.md#app3) of
 the appendix on ["Were any of the Bolshevik oppositions a real
 alternative?"](append45.md), perhaps this is unsurprising given how much
 politically Trotsky's "Left Opposition" had shared with Stalinism.
 
 Other Trotskyist parties have avoided the worse excesses of orthodox
-Trotskyism. Parties associated with the **International Socialists**, for
+Trotskyism. Parties associated with the **International Socialists** , for
 example portray themselves as defending what they like to term _"socialism
 from below"_ and the democratic promise of Bolshevik as expressed during 1917
 and in the early months of Bolshevik rule. While anarchists are somewhat
@@ -93,8 +93,8 @@ and which throw a true light on the events under consideration and on the
 period."_ This section of the FAQ will try and present this _"unknown
 revolution,"_ those movements _"which fought the Bolshevik power in the name
 of true liberty and of the principles of the Social Revolution which that
-power had scoffed at and trampled underfoot."_ [**The Unknown Revolution**, p.
-19 and p. 437] Voline gives the Kronstadt rebellion (see the appendix on
+power had scoffed at and trampled underfoot."_ [ **The Unknown Revolution** ,
+p. 19 and p. 437] Voline gives the Kronstadt rebellion (see the appendix on
 ["What was the Kronstadt Rebellion?"](append42.md)) and the Makhnovist
 movement (see the appendix on ["Why does the Makhnovist movement show there is
 an alternative to Bolshevism?"](append46.md)) pride of place in his account.
@@ -157,15 +157,16 @@ under it. We will try to indicate the falseness of such claims. As will become
 clear from this section, the following summation of an anonymous revolutionary
 is totally correct:
 
-> _** "Every notion about revolution inherited from Bolshevism is false."**_
+> _**"Every notion about revolution inherited from Bolshevism is false."**_
 
 In this, they were simply repeating the conclusions of anarchists. As
 Kropotkin stressed in 1920:
 
-> _ "It seems to me that this attempt to build a communist republic on the
-basis of a strongly centralised state, under the iron law of the dictatorship
-of one party, has ended in a terrible fiasco. Russia teaches us how not to
-impose communism."_ [Peter Kropotkin, quoted by Guerin, **Anarchism**, p. 106]
+> _"It seems to me that this attempt to build a communist republic on the
+> basis of a strongly centralised state, under the iron law of the
+> dictatorship of one party, has ended in a terrible fiasco. Russia teaches us
+> how not to impose communism."_ [Peter Kropotkin, quoted by Guerin,
+> **Anarchism** , p. 106]
 
 Ultimately, the experience of Bolshevism was a disaster. And as the
 Makhnovists in the Ukraine proved, Bolshevik ideology and practice was **not**
@@ -240,15 +241,15 @@ ignoring the fact they started **before** the civil war, continued after it
 could make the same claim.
 
 Other objections may be raised. It may be claimed that we quote "bourgeois"
-(or even worse, **Menshevik**) sources and so our account is flawed. In reply,
-we have to state that you cannot judge a regime based purely on what it says
-about itself. As such, critical accounts are required to paint a full picture
-of events. Moreover, it is a sad fact that few, if any, Leninist accounts of
-the Russian Revolution actually discuss the class and social dynamics (and
-struggles) of the period under Lenin and Trotsky. This means we have to
-utilise the sources which **do,** namely those historians who do not identify
-with the Bolshevik regime. And, of course, any analysis (or defence) of the
-Bolshevik regime will have to account for critical accounts, either by
+(or even worse, **Menshevik** ) sources and so our account is flawed. In
+reply, we have to state that you cannot judge a regime based purely on what it
+says about itself. As such, critical accounts are required to paint a full
+picture of events. Moreover, it is a sad fact that few, if any, Leninist
+accounts of the Russian Revolution actually discuss the class and social
+dynamics (and struggles) of the period under Lenin and Trotsky. This means we
+have to utilise the sources which **do,** namely those historians who do not
+identify with the Bolshevik regime. And, of course, any analysis (or defence)
+of the Bolshevik regime will have to account for critical accounts, either by
 refuting them or by showing their limitations. As will become obvious in our
 discussion, the reason why latter day Bolsheviks talk about the class dynamics
 post-October in the most superficial way is that it would be hard, even
@@ -279,8 +280,8 @@ Such a position is, of course, wonderful for the pro-Leninist. It allows them
 to quote Lenin and Trotsky and use the Bolsheviks as the paradigm of
 revolution while washing their hands of the results of that revolution. By
 arguing that the Bolsheviks were _"making a virtue of necessity,"_ (to use the
-expression of Leninist Donny Gluckstein [**The Tragedy of Bukharin**, p. 41]),
-they are automatically absolved of proving their arguments about the
+expression of Leninist Donny Gluckstein [ **The Tragedy of Bukharin** , p.
+41]), they are automatically absolved of proving their arguments about the
 "democratic" essence of Bolshevism in power. Which is useful as, logically, no
 such evidence could exist and, in fact, there is a whole host of evidence
 pointing the other way which can, by happy co-incidence, be ignored. Indeed,
@@ -324,16 +325,17 @@ centralism"_ can point to only one apparent success of their model, namely the
 Russian Revolution. However, we are warned by Leninists that failure to use
 the vanguard party will inevitably condemn future revolutions to failure:
 
-> _ "The proletariat can take power only through its vanguard. . . Without the
-confidence of the class in the vanguard, without support of the vanguard by
-the class, there can be no talk of the conquest of power . . . The Soviets are
-the only organised form of the tie between the vanguard and the class. A
-revolutionary content can be given this form only by the party. This is proved
-by the positive experience of the October Revolution and by the negative
-experience of other countries (Germany, Austria, finally, Spain). No one has
-either shown in practice or tried to explain articulately on paper how the
-proletariat can seize power without the political leadership of a party that
-knows what it wants."_ [Trotsky, **Stalinism and Bolshevism**]
+> _"The proletariat can take power only through its vanguard. . . Without the
+> confidence of the class in the vanguard, without support of the vanguard by
+> the class, there can be no talk of the conquest of power . . . The Soviets
+> are the only organised form of the tie between the vanguard and the class. A
+> revolutionary content can be given this form only by the party. This is
+> proved by the positive experience of the October Revolution and by the
+> negative experience of other countries (Germany, Austria, finally, Spain).
+> No one has either shown in practice or tried to explain articulately on
+> paper how the proletariat can seize power without the political leadership
+> of a party that knows what it wants."_ [Trotsky, **Stalinism and
+> Bolshevism** ]
 
 To anarchist ears, such claims seem out of place. After all, did the Russian
 Revolution actually result in socialism or even a viable form of soviet
@@ -368,7 +370,7 @@ struggle of the masses between February and October 1917, and later for
 turning the revolution into a bureaucratic counter-revolution -- in both cases
 because of the party's very nature, structure and ideology."_ Indeed, _"[f]rom
 April to October, Lenin had to fight a constant battle to keep the Party
-leadership in tune with the masses."_ [**Obsolete Communism**, p. 183 and p.
+leadership in tune with the masses."_ [ **Obsolete Communism** , p. 183 and p.
 187] It was only by continually violating its own _"nature, structure and
 ideology"_ that the Bolshevik party played an important role in the
 revolution. Whenever the principles of _"democratic centralism"_ were applied,
@@ -379,7 +381,7 @@ Even Leninists acknowledge that, to quote Tony Cliff, throughout the history
 of Bolshevism, _"a certain conservatism arose."_ Indeed, _"[a]t practically
 all sharp turning points, Lenin had to rely on the lower strata of the party
 machine against the higher, or on the rank and file against the machine as a
-whole."_ [**Lenin**, vol. 2, p. 135] This fact, incidentally, refutes the
+whole."_ [ **Lenin** , vol. 2, p. 135] This fact, incidentally, refutes the
 basic assumptions of Lenin's party schema, namely that the broad party
 membership, like the working class, was subject to bourgeois influences so
 necessitating central leadership and control from above.
@@ -396,10 +398,10 @@ as a non-partisan representation of the embattled masses, and could find
 nothing better to do than to present the Soviet with an ultimatum: immediately
 adopt a Social-Democratic program or disband. The Petersburg Soviet as a
 whole, including the contingent of Bolshevik workingmen as well ignored this
-ultimatum without batting an eyelash."_ [**Stalin**, vol. 1, p. 106] More than
-that, _"[t]he party's Central Committee published the resolution on October
-27, thereby making it the binding directive for all other Bolshevik
-organisations."_ [Oskar Anweiler, **The Soviets**, p. 77] It was only the
+ultimatum without batting an eyelash."_ [ **Stalin** , vol. 1, p. 106] More
+than that, _"[t]he party's Central Committee published the resolution on
+October 27, thereby making it the binding directive for all other Bolshevik
+organisations."_ [Oskar Anweiler, **The Soviets** , p. 77] It was only the
 return of Lenin which stopped the Bolshevik's open attacks against the Soviet
 (also see [section 8](append44.md#app8) of the appendix on ["How did
 Bolshevik ideology contribute to the failure of the
@@ -410,9 +412,9 @@ were convinced that _"only a strong party along class lines can guide the
 proletarian political movement and preserve the integrity of its program,
 rather than a political mixture of this kind, an indeterminate and vacillating
 political organisation such as the workers council represents and cannot help
-but represent."_ [quoted by Anweiler, **Op. Cit.**, p. 77] In other words, the
-soviets could not reflect workers' interests because they were elected by the
-workers! The implications of this perspective came clear in 1918, when the
+but represent."_ [quoted by Anweiler, **Op. Cit.** , p. 77] In other words,
+the soviets could not reflect workers' interests because they were elected by
+the workers! The implications of this perspective came clear in 1918, when the
 Bolsheviks gerrymandered and disbanded soviets to remain in power (see
 [section 6](append41.md#app6)). That the Bolshevik's position flowed
 naturally from Lenin's arguments in **What is to be Done?** is clear. Thus the
@@ -426,9 +428,9 @@ would be repeated in 1917.
 Given this, perhaps it is unsurprising that Leninists started to rewrite the
 history of the 1905 revolution. Victor Serge, a "Left Oppositionist" and anti-
 Stalinist asserted in the late 1920s that in 1905 the Petrograd Soviet was
-_"led by Trotsky and inspired by the Bolsheviks."_ [**Year One of the Russian
-Revolution**, p. 36]. While the former claim is correct, the latter is not. As
-noted, the Bolsheviks were initially opposed the soviets and systematically
+_"led by Trotsky and inspired by the Bolsheviks."_ [ **Year One of the Russian
+Revolution** , p. 36]. While the former claim is correct, the latter is not.
+As noted, the Bolsheviks were initially opposed the soviets and systematically
 worked to undermine them. Unsurprisingly, Trotsky at that time was a
 Menshevik, not a Bolshevik. After all, how could the most revolutionary party
 that ever existed have messed up so badly? How could democratic centralism
@@ -445,8 +447,8 @@ along Bolshevik lines."_ So, in spite of the lack of Bolshevik influence, in
 spite of the slowness in adjusting to the revolution, Bolshevism was, in fact,
 the leading set of ideas in the revolution! Ironically, a few pages later, he
 mocks the claims of Stalinists that Stalin had _"isolated the Mensheviks from
-the masses"_ by noting that the _"figures hardly bear [the claims] out."_
-[**Op. Cit.**, p. 112 and p. 117] Shame he did not apply this criteria to his
+the masses"_ by noting that the _"figures hardly bear [the claims] out."_ [
+**Op. Cit.** , p. 112 and p. 117] Shame he did not apply this criteria to his
 own claims.
 
 Of course, every party makes mistakes. The question is, how did the _"most
@@ -480,14 +482,13 @@ calling of strikes precisely on the eve of the revolution which was destined
 to overthrow the Tsar. Fortunately, the workers ignored the Bolshevik
 'directives' and went on strike anyway. In the events which followed, no one
 was more surprised by the revolution than the 'revolutionary' parties,
-including the Bolsheviks."_ [**Post-Scarcity Anarchism**, p. 194] Trotsky
+including the Bolsheviks."_ [ **Post-Scarcity Anarchism** , p. 194] Trotsky
 quotes one of the Bolshevik leaders at the time:
 
-> _ "Absolutely no guiding initiative from the party centres was felt . . .
-the Petrograd Committee had been arrested and the representative of the
-Central Committee . . . was unable to give any directives for the coming
-day."_ [quoted by Trotsky, **History of the Russian Revolution**, vol. 1, p.
-147]
+> _"Absolutely no guiding initiative from the party centres was felt . . . the
+> Petrograd Committee had been arrested and the representative of the Central
+> Committee . . . was unable to give any directives for the coming day."_
+> [quoted by Trotsky, **History of the Russian Revolution** , vol. 1, p. 147]
 
 Not the best of starts. Of course rank and file Bolsheviks took part in the
 demonstrations, street fights and strikes and so violated the principles their
@@ -500,24 +501,22 @@ at all in the revolution. As one historian of the party makes clear, in 1917
 and until the outbreak of the Civil War, the party operated in ways that few
 modern "vanguard" parties would tolerate:
 
-> _ "The committees were a law unto themselves when it came to accepting
-orders from above. Democratic centralism, as vague a principle of internal
-administration as there ever has been, was commonly held at least to enjoin
-lower executive bodies that they should obey the behests of all higher bodies
-in the organisational hierarchy. But town committees in practice had the
-devil's own job in imposing firm leadership . . . Insubordination was the rule
-of the day whenever lower party bodies thought questions of importance were at
-stake. _
-
+> _"The committees were a law unto themselves when it came to accepting orders
+> from above. Democratic centralism, as vague a principle of internal
+> administration as there ever has been, was commonly held at least to enjoin
+> lower executive bodies that they should obey the behests of all higher
+> bodies in the organisational hierarchy. But town committees in practice had
+> the devil's own job in imposing firm leadership . . . Insubordination was
+> the rule of the day whenever lower party bodies thought questions of
+> importance were at stake._
 >
-
 > _"Suburb committees too faced difficulties in imposing discipline. Many a
-party cell saw fit to thumb its nose at higher authority and to pursue
-policies which it felt to be more suited to local circumstances or more
-desirable in general. No great secret was made of this. In fact, it was openly
-admitted that hardly a party committee existed which did not encounter
-problems in enforcing its will even upon individual activists."_ [Robert
-Service, **The Bolshevik Party in Revolution 1917-1923**, pp. 51-2]
+> party cell saw fit to thumb its nose at higher authority and to pursue
+> policies which it felt to be more suited to local circumstances or more
+> desirable in general. No great secret was made of this. In fact, it was
+> openly admitted that hardly a party committee existed which did not
+> encounter problems in enforcing its will even upon individual activists."_
+> [Robert Service, **The Bolshevik Party in Revolution 1917-1923** , pp. 51-2]
 
 So while Lenin's ideal model of a disciplined, centralised and top-down party
 had been expounded since 1902, the operation of the party never matched his
@@ -536,7 +535,7 @@ of 1917 it was the easiest thing in the world for lower party bodies to rebut
 the demands and pleas by higher authority."_ He stresses that _"[s]uburb and
 town committees . . . often refused to go along with official policies . . .
 they also . . . sometimes took it into their heads to engage in active
-obstruction."_ [**Op. Cit.**, p. 80, p. 62 p. 56 and p. 60]
+obstruction."_ [ **Op. Cit.** , p. 80, p. 62 p. 56 and p. 60]
 
 This worked both ways, of course. Town committees did _"snub their nose at
 lower-echelon viewpoints in the time before the next election. Try as hard as
@@ -544,16 +543,16 @@ they might, suburb committees and ordinary cells could meanwhile do little to
 rectify matters beyond telling their own representative on their town
 committee to speak on their behalf. Or, if this too failed, they could resort
 to disruptive tactics by criticising it in public and refusing it all
-collaboration."_ [**Op. Cit.**, pp. 52-3] Even by early 1918, the Bolshevik
+collaboration."_ [ **Op. Cit.** , pp. 52-3] Even by early 1918, the Bolshevik
 party bore little resemblance to the "democratic centralist" model desires by
 Lenin:
 
-> _ "The image of a disciplined hierarchy of party committees was therefore
-but a thin, artificial veneer which was used by Bolshevik leaders to cover up
-the cracked surface of the real picture underneath. Cells and suburb
-committees saw no reason to kow-tow to town committees; nor did town
-committees feel under compulsion to show any greater respect to their
-provincial and regional committees then before."_ [**Op. Cit.**, p. 74]
+> _"The image of a disciplined hierarchy of party committees was therefore but
+> a thin, artificial veneer which was used by Bolshevik leaders to cover up
+> the cracked surface of the real picture underneath. Cells and suburb
+> committees saw no reason to kow-tow to town committees; nor did town
+> committees feel under compulsion to show any greater respect to their
+> provincial and regional committees then before."_ [ **Op. Cit.** , p. 74]
 
 It is this insubordination, this local autonomy and action in spite of central
 orders which explains the success of the Bolsheviks in 1917. Rather than a
@@ -563,7 +562,7 @@ party at local level . . . From the time of the February revolution
 requirements for party membership had been all but suspended, and now
 Bolshevik ranks swelled with impetuous recruits who knew next to nothing about
 Marxism and who were united by little more than overwhelming impatience for
-revolutionary action."_ [Alexander Rabinowitch, **Prelude to Revolution**, p.
+revolutionary action."_ [Alexander Rabinowitch, **Prelude to Revolution** , p.
 41]
 
 This mass of new members (many of whom were peasants who had just recently
@@ -577,23 +576,23 @@ sluggish Party machine with masses and ideas in motion."_ He stressed that
 _"the masses were incomparably more revolutionary than the Party, which in
 turn was more revolutionary than its committeemen."_ Ironically, given the
 role Trotsky usually gave the party, he admits that _"[w]ithout Lenin, no one
-had known what to make of the unprecedented situation."_ [**Stalin**, vol. 1,
-p. 301, p. 305 and p. 297]
+had known what to make of the unprecedented situation."_ [ **Stalin** , vol.
+1, p. 301, p. 305 and p. 297]
 
 Which is significant in itself. The Bolshevik party is usually claimed as
 being the most "revolutionary" that ever existed, yet here is Trotsky
 admitting that its leading members did not have a clue what to do. He even
 argued that _"[e]very time the Bolshevik leaders had to act without Lenin they
-fell into error, usually inclining to the Right."_ [**Op. Cit.**, p. 299] This
-negative opinion of the Bolsheviks applied even to the _"left Bolsheviks,
+fell into error, usually inclining to the Right."_ [ **Op. Cit.** , p. 299]
+This negative opinion of the Bolsheviks applied even to the _"left Bolsheviks,
 especially the workers"_ whom we are informed _"tried with all their force to
 break through this quarantine"_ created by the Bolshevik leaders policy _"of
 waiting, of accommodation, and of actual retreat before the Compromisers"_
 after the February revolution and before the arrival of Lenin. Trotsky argues
 that _"they did not know how to refute the premise about the bourgeois
 character of the revolution and the danger of an isolation of the proletariat.
-They submitted, gritting their teeth, to the directions of their leaders."_
-[**History of the Russian Revolution**, vol. 1, p. 273] It seems strange, to
+They submitted, gritting their teeth, to the directions of their leaders."_ [
+**History of the Russian Revolution** , vol. 1, p. 273] It seems strange, to
 say the least, that without one person the whole of the party was reduced to
 such a level given that the aim of the "revolutionary" party was to develop
 the political awareness of its members.
@@ -604,56 +603,57 @@ end of April, Lenin had managed to win over the majority of the party
 leadership to his position. However, as Trotsky argues, this _"April conflict
 between Lenin and the general staff of the party was not the only one of its
 kind. Throughout the whole history of Bolshevism . . . all the leaders of the
-party at all the most important moments stood to the **right** of Lenin."_
-[**Op. Cit.**, p. 305] As such, if "democratic centralism" had worked as
+party at all the most important moments stood to the **right** of Lenin."_ [
+**Op. Cit.** , p. 305] As such, if "democratic centralism" had worked as
 intended, the whole party would have been arguing for incorrect positions the
 bulk of its existence (assuming, of course, that Lenin was correct most of the
 time).
 
 For Trotsky, _"Lenin exerted influence not so much as an individual but
 because he embodied the influence of the class on the Party and of the Party
-on its machine."_ [**Stalin**, vol. 1, p. 299] Yet, this was the machine which
-Lenin had forged, which embodied his vision of how a "revolutionary" party
-should operate and was headed by him. In other words, to argue that the party
-machine was behind the party membership and the membership behind the class
-shows the bankruptcy of Lenin's organisational scheme. This _"backwardness,"_
-moreover, indicates an independence of the party bureaucracy from the
-membership and the membership from the masses. As Lenin's constantly repeated
-aim was for the party to seize power (based on the dubious assumption that
-class power would only be expressed, indeed was identical to, party power)
-this independence held serious dangers, dangers which became apparent once
-this goal was achieved.
+on its machine."_ [ **Stalin** , vol. 1, p. 299] Yet, this was the machine
+which Lenin had forged, which embodied his vision of how a "revolutionary"
+party should operate and was headed by him. In other words, to argue that the
+party machine was behind the party membership and the membership behind the
+class shows the bankruptcy of Lenin's organisational scheme. This
+_"backwardness,"_ moreover, indicates an independence of the party bureaucracy
+from the membership and the membership from the masses. As Lenin's constantly
+repeated aim was for the party to seize power (based on the dubious assumption
+that class power would only be expressed, indeed was identical to, party
+power) this independence held serious dangers, dangers which became apparent
+once this goal was achieved.
 
 Trotsky asks the question _"by what miracle did Lenin manage in a few short
 weeks to turn the Party's course into a new channel?"_ Significantly, he
 answers as follows: _"Lenin's personal attributes and the objective
-situation."_ [**Ibid.**] No mention is made of the democratic features of the
-party organisation, which suggests that without Lenin the rank and file party
-members would not have been able to shift the weight of the party machine in
-their favour. Trotsky seems close to admitting this:
+situation."_ [ **Ibid.** ] No mention is made of the democratic features of
+the party organisation, which suggests that without Lenin the rank and file
+party members would not have been able to shift the weight of the party
+machine in their favour. Trotsky seems close to admitting this:
 
-> _ "As often happens, a sharp cleavage developed between the classes in
-motion and the interests of the party machines. Even the Bolshevik Party
-cadres, who enjoyed the benefit of exceptional revolutionary training, were
-definitely inclined to disregard the masses and to identify their own special
-interests and the interests of the machine on the very day after the monarchy
-was overthrown."_ [**Stalin**, vol. 1, p. 298]
+> _"As often happens, a sharp cleavage developed between the classes in motion
+> and the interests of the party machines. Even the Bolshevik Party cadres,
+> who enjoyed the benefit of exceptional revolutionary training, were
+> definitely inclined to disregard the masses and to identify their own
+> special interests and the interests of the machine on the very day after the
+> monarchy was overthrown."_ [ **Stalin** , vol. 1, p. 298]
 
 Thus the party machine, which embodied the principles of "democratic
 centralism" proved less than able to the task assigned it in practice. Without
 Lenin, it is doubtful that the party membership would have over come the party
 machine:
 
-> _ "Lenin was strong not only because he understood the laws of the class
-struggle but also because his ear was faultlessly attuned to the stirrings of
-the masses in motion. He represented not so much the Party machine as the
-vanguard of the proletariat. He was definitely convinced that thousands from
-among those workers who had borne the brunt of supporting the underground
-Party would now support him. The masses at the moment were more revolutionary
-than the Party, and the Party more revolutionary than its machine. As early as
-March the actual attitude of the workers and soldiers had in many cases become
-stormily apparent, and it was widely at variance with the instructions issued
-by all the parties, including the Bolsheviks."_ [**Op. Cit.**, p. 299]
+> _"Lenin was strong not only because he understood the laws of the class
+> struggle but also because his ear was faultlessly attuned to the stirrings
+> of the masses in motion. He represented not so much the Party machine as the
+> vanguard of the proletariat. He was definitely convinced that thousands from
+> among those workers who had borne the brunt of supporting the underground
+> Party would now support him. The masses at the moment were more
+> revolutionary than the Party, and the Party more revolutionary than its
+> machine. As early as March the actual attitude of the workers and soldiers
+> had in many cases become stormily apparent, and it was widely at variance
+> with the instructions issued by all the parties, including the Bolsheviks."_
+> [ **Op. Cit.** , p. 299]
 
 Little wonder the local party groupings ignored the party machine, practising
 autonomy and initiative in the face of a party machine inclined to
@@ -661,14 +661,14 @@ conservatism, inertia, bureaucracy and remoteness. This conflict between the
 party machine and the principles it was based on and the needs of the
 revolution and party membership was expressed continually throughout 1917:
 
-> _ "In short, the success of the revolution called for action against the
-'highest circles of the party,' who, from February to October, utterly failed
-to play the revolutionary role they ought to have taken in theory. The masses
-themselves made the revolution, with or even against the party -- this much at
-least was clear to Trotsky the historian. But far from drawing the correct
-conclusion, Trotsky the theorist continued to argue that the masses are
-incapable of making a revolution without a leader."_ [Daniel &amp; Gabriel
-Cohn-Bendit, **Op. Cit.**, p. 188]
+> _"In short, the success of the revolution called for action against the
+> 'highest circles of the party,' who, from February to October, utterly
+> failed to play the revolutionary role they ought to have taken in theory.
+> The masses themselves made the revolution, with or even against the party --
+> this much at least was clear to Trotsky the historian. But far from drawing
+> the correct conclusion, Trotsky the theorist continued to argue that the
+> masses are incapable of making a revolution without a leader."_ [Daniel &
+> Gabriel Cohn-Bendit, **Op. Cit.** , p. 188]
 
 Looking at the development of the revolution from April onwards, we are struck
 by the sluggishness of the party hierarchy. At every revolutionary upsurge,
@@ -688,16 +688,16 @@ strengthen the feeling that at best the party leadership had acted
 irresponsibly and incompetently and was seriously out of touch with reality."_
 Indeed, many _"blamed the Central Committee for taking so long to respond to
 Military Organisation appeals for a demonstration."_ [Rabinowitch, **Op.
-Cit.**, p. 88 and p. 92]
+Cit.** , p. 88 and p. 92]
 
 During the discussions in late June, 1917, on whether to take direct action
 against the Provisional Government there was a _"wide gulf"_ between lower
 organs evaluations of the current situation and that of the Central Committee.
-[Rabinowitch, **Op. Cit.**, p. 129] Indeed, among the delegates from the
+[Rabinowitch, **Op. Cit.** , p. 129] Indeed, among the delegates from the
 Bolshevik military groups, only Lashevich (an old Bolshevik) spoke in favour
 of the Central Committee position and he noted that _"[f]requently it is
 impossible to make out where the Bolshevik ends and the Anarchist begins."_
-[quoted by Rabinowitch, **Op. Cit.**, p. 129]
+[quoted by Rabinowitch, **Op. Cit.** , p. 129]
 
 In the July days, the breach between the local party groups and the central
 committee increased. As we noted in the [section 1](append41.md#app1), this
@@ -713,19 +713,19 @@ Committee. One argued that it _"was not aware of the latest developments when
 it made its decision to oppose the movement into the streets."_ Ultimately,
 the Central Committee appeal _"for restraining the masses . . . was removed
 from . . . **Pravda** . . . and so the party's indecision was reflected by a
-large blank space on page one."_ [Rabinowitch, **Op. Cit.**, p. 150, p. 159
+large blank space on page one."_ [Rabinowitch, **Op. Cit.** , p. 150, p. 159
 and P. 175] Ultimately, the indecisive nature of the leadership can be
 explained by the fact it did not think it could seize state power for itself.
 As Trotsky noted, _"the state of popular consciousness . . . made impossible
-the seizure of power by the Bolsheviks in July."_ [**History of the Russian
-Revolution**, vol. 2, p. 81]
+the seizure of power by the Bolsheviks in July."_ [ **History of the Russian
+Revolution** , vol. 2, p. 81]
 
 The indecision of the party hierarchy did have an effect, of course. While the
 anarchists at Kronstadt looked at the demonstration as the start of an
 uprising, the Bolsheviks there were _"wavering indecisively in the middle"_
 between them and the Left-Social Revolutionaries who saw it as a means of
 applying pressure on the government. This was because they were _"hamstrung by
-the indecision of the party Central Committee."_ [Rabinowitch, **Op. Cit.**,
+the indecision of the party Central Committee."_ [Rabinowitch, **Op. Cit.** ,
 p. 187] Little wonder so many Bolshevik party organisations developed and
 protected their own autonomy and ability to act!
 
@@ -737,14 +737,14 @@ insisted on what it considered its just prerogatives"_ and in _"no uncertain
 terms it affirmed its right to publish an independent newspaper and formally
 protested what is referred to as 'a system of persecution and repression of an
 extremely peculiar character which had begun with the election of the new
-Central Committee.'"_ [Rabinowitch, **Op. Cit.**, p. 227] The Central
+Central Committee.'"_ [Rabinowitch, **Op. Cit.** , p. 227] The Central
 Committee backed down, undoubtedly due to the fact it could not enforce its
 decision.
 
 As the Cohn-Bendit brothers argue, _"five months after the Revolution and
 three months before the October uprising, the masses were still governing
-themselves, and the Bolshevik vanguard simply had to toe the line."_ [**Op.
-Cit.**, p. 186] Within that vanguard, the central committee proved to be out
+themselves, and the Bolshevik vanguard simply had to toe the line."_ [ **Op.
+Cit.** , p. 186] Within that vanguard, the central committee proved to be out
 of touch with the rank and file, who ignored it rather than break with their
 fellow workers.
 
@@ -753,13 +753,13 @@ revolution. In fact, Lenin could only impose his view by going over the head
 of the Central Committee. According to Trotsky's account, _"this time he [wa]s
 not satisfied with furious criticism"_ of the _"ruinous Fabianism of the
 Petrograd leadership"_ and _"by way of protest he resign[ed] from the Central
-Committee."_ [**History of the Russian Revolution**, vol. 3, p. 131] Trotsky
+Committee."_ [ **History of the Russian Revolution** , vol. 3, p. 131] Trotsky
 quotes Lenin as follows:
 
-> _ "I am compelled to request permission to withdraw from the Central
-Committee, which I hereby do, and leave myself freedom of agitation in the
-lower ranks of the party and at the party congress."_ [quoted by Trotsky,
-**Op. Cit.**, p. 131]
+> _"I am compelled to request permission to withdraw from the Central
+> Committee, which I hereby do, and leave myself freedom of agitation in the
+> lower ranks of the party and at the party congress."_ [quoted by Trotsky,
+> **Op. Cit.** , p. 131]
 
 Thus the October revolution was precipitated by a blatant violation of the
 principles Lenin spent his life advocating. Indeed, if someone else other than
@@ -770,27 +770,27 @@ fact that he decided to appeal to the _"lower ranks"_ of the party. Simply
 put, rather than being "democratic" the party machine effectively blocked
 communication and control from the bottom-up. Looking at the more radical
 party membership, he _"could only impose his view by going over the head of
-his Central Committee."_ [Daniel and Gabriel Cohn-Bendit, **Op. Cit.**, p.
+his Central Committee."_ [Daniel and Gabriel Cohn-Bendit, **Op. Cit.** , p.
 187] He made sure to send his letter of protest to _"the Petrograd and Moscow
 committees"_ and also made sure that _"copies fell into the hands of the more
 reliable party workers of the district locals."_ By early October (and _"over
-the heads of the Central Committee"_) he wrote _"directly to the Petrograd and
-Moscow committees"_ calling for insurrection. He also _"appealed to a
+the heads of the Central Committee"_ ) he wrote _"directly to the Petrograd
+and Moscow committees"_ calling for insurrection. He also _"appealed to a
 Petrograd party conference to speak a firm word in favour of insurrection."_
-[Trotsky, **Op. Cit.**, p. 131 and p. 132]
+[Trotsky, **Op. Cit.** , p. 131 and p. 132]
 
 In October, Lenin had to fight what he called _"a wavering"_ in the _"upper
 circles of the party"_ which lead to a _"sort of dread of the struggle for
 power, an inclination to replace this struggle with resolutions protests, and
-conferences."_ [quoted by Trotsky, **Op. Cit.**, p. 132] For Trotsky, this
+conferences."_ [quoted by Trotsky, **Op. Cit.** , p. 132] For Trotsky, this
 represented _"almost a direct pitting of the party against the Central
 Committee,"_ required because _"it was a question of the fate of the
 revolution"_ and so _"all other considerations fell away."_ [Trotsky, **Op.
-Cit.**, pp. 132-3] On October 8th, when Lenin addressed the Bolshevik
+Cit.** , pp. 132-3] On October 8th, when Lenin addressed the Bolshevik
 delegates of the forthcoming Northern Congress of Soviets on this subject, he
 did so _"personally"_ as there _"was no party decision"_ and the _"higher
 institutions of the party had not yet expressed themselves."_ [Trotsky, **Op.
-Cit.**, p. 133] Ultimately, the Central Committee came round to Lenin's
+Cit.** , p. 133] Ultimately, the Central Committee came round to Lenin's
 position but they did so under pressure of means at odds with the principles
 of the party.
 
@@ -812,7 +812,7 @@ thousands of workers and soldiers . . . who knew little, if anything, about
 Marxism and cared nothing about party discipline."_ For example, while the
 slogan _"All Power to the Soviets"_ was _"officially withdrawn by the Sixth
 [Party] Congress in late July, this change did not take hold at the local
-level."_ [**The Bolsheviks Come to Power**, p. 311, p. 312 and p. 313]
+level."_ [ **The Bolsheviks Come to Power** , p. 311, p. 312 and p. 313]
 
 It is no exaggeration to argue that if any member of a current vanguard party
 acted as the Bolshevik rank and file did in 1917, they would quickly be
@@ -822,16 +822,16 @@ within the party with the start of the Civil War. It is from this period when
 "democratic centralism" was actually applied within the party and clarified as
 an organisational principle:
 
-> _ "It was quite a turnabout since the anarchic days before the Civil War.
-The Central Committee had always advocated the virtues of obedience and co-
-operation; but the rank-and-filers of 1917 had cared little about such
-entreaties as they did about appeals made by other higher authorities. The
-wartime emergency now supplied an opportunity to expatiate on this theme at
-will."_ [Service, **Op. Cit.**, p. 91]
+> _"It was quite a turnabout since the anarchic days before the Civil War. The
+> Central Committee had always advocated the virtues of obedience and co-
+> operation; but the rank-and-filers of 1917 had cared little about such
+> entreaties as they did about appeals made by other higher authorities. The
+> wartime emergency now supplied an opportunity to expatiate on this theme at
+> will."_ [Service, **Op. Cit.** , p. 91]
 
 Service stresses that _"it appears quite remarkable how quickly the
 Bolsheviks, who for years had talked idly about a strict hierarchy of command
-inside the party, at last began to put ideas into practice."_ [**Op. Cit.**,
+inside the party, at last began to put ideas into practice."_ [ **Op. Cit.** ,
 p. 96]
 
 In other words, the conversion of the Bolshevik party into a fully fledged
@@ -857,7 +857,7 @@ class to become part of the party machine. Even the delegates at the party
 congresses did not truly reflect class basis of the party membership. For
 example, the number of delegates was still dominated by white-collar or others
 (59.1% to 40.9%) at the sixth party congress at the end of July 1917. [Cliff,
-**Lenin**, vol. 2, p. 160] So while the party gathered more working class
+**Lenin** , vol. 2, p. 160] So while the party gathered more working class
 members in 1917, it cannot be said that this was reflected in the party
 leadership which remained dominated by non-working class elements. Rather than
 being a genuine working class organisation, the Bolshevik party was a
@@ -890,7 +890,7 @@ working-class origin . . . the proportion of Bolsheviks of working-class
 origin fell from 57 per cent at the year's beginning to 48 per cent at the
 end."_ It should be noted that it was not specified how many were classed as
 having working-class origin were still employed in working-class jobs. [Robert
-Service, **Op. Cit.**, p. 70, pp. 70-1 and p. 90] A new ruling elite was thus
+Service, **Op. Cit.** , p. 70, pp. 70-1 and p. 90] A new ruling elite was thus
 born, thanks to the way vanguard parties are structured and the application of
 vanguardist principles which had previously been ignored.
 
@@ -910,16 +910,16 @@ discussed in [section H.5](secH5.md), this was to be expected.
 
 In a nutshell, no. In fact the opposite was the case. Post-October, the
 Bolsheviks not only failed to introduce the ideas of Lenin's **State and
-Revolution**, they in fact introduced the exact opposite. As one historian
+Revolution** , they in fact introduced the exact opposite. As one historian
 puts it:
 
-> _ "To consider 'State and Revolution' as the basic statement of Lenin's
-political philosophy -- which non-Communists as well as Communists usually do
--- is a serious error. Its argument for a utopian anarchism never actually
-became official policy. The Leninism of 1917 . . . came to grief in a few
-short years; it was the revived Leninism of 1902 which prevailed as the basis
-for the political development of the USSR."_ [Robert V. Daniels, **The
-Conscience of the Revolution**, pp. 51-2]
+> _"To consider 'State and Revolution' as the basic statement of Lenin's
+> political philosophy -- which non-Communists as well as Communists usually
+> do -- is a serious error. Its argument for a utopian anarchism never
+> actually became official policy. The Leninism of 1917 . . . came to grief in
+> a few short years; it was the revived Leninism of 1902 which prevailed as
+> the basis for the political development of the USSR."_ [Robert V. Daniels,
+> **The Conscience of the Revolution** , pp. 51-2]
 
 Daniels is being far too lenient with the Bolsheviks. It was not, in fact, _"a
 few short years"_ before the promises of 1917 were forgotten. In some cases,
@@ -940,17 +940,17 @@ contained in Lenin's work. Moreover, we need to indicate what the Bolsheviks
 did, in fact, do. Finally, we need to see if the various rationales justifying
 these actions hold water.
 
-So what did Lenin argue for in **State and Revolution**? Writing in the mid-
-1930s, anarchist Camillo Berneri summarised the main ideas of that work as
+So what did Lenin argue for in **State and Revolution**? Writing in the
+mid-1930s, anarchist Camillo Berneri summarised the main ideas of that work as
 follows:
 
-> _ "The Leninist programme of 1917 included these points: the discontinuance
-of the police and standing army, abolition of the professional bureaucracy,
-elections for all public positions and offices, revocability of all officials,
-equality of bureaucratic wages with workers' wages, the maximum of democracy,
-peaceful competition among the parties within the soviets, abolition of the
-death penalty."_ [_"The Abolition and Extinction of the State,"_ **Cienfuegos
-Press Anarchist Review**, no. 4, p. 50]
+> _"The Leninist programme of 1917 included these points: the discontinuance
+> of the police and standing army, abolition of the professional bureaucracy,
+> elections for all public positions and offices, revocability of all
+> officials, equality of bureaucratic wages with workers' wages, the maximum
+> of democracy, peaceful competition among the parties within the soviets,
+> abolition of the death penalty."_ [ _"The Abolition and Extinction of the
+> State,"_ **Cienfuegos Press Anarchist Review** , no. 4, p. 50]
 
 As he noted, _"[n]ot a single one of the points of this programme has been
 achieved."_ This was, of course, under Stalinism and most Leninists will
@@ -976,27 +976,27 @@ and how the workers would maintain control of it:
 1) Using the Paris Commune as a prototype, Lenin argued for the abolition of
 _"parliamentarianism"_ by turning _"representative institutions from mere
 'talking shops' into working bodies."_ This would be done by removing _"the
-division of labour between the legislative and the executive."_ [**Essential
-Works of Lenin**, p. 304 and p. 306]
+division of labour between the legislative and the executive."_ [ **Essential
+Works of Lenin** , p. 304 and p. 306]
 
 2) _"All officials, without exception, to be elected and subject to recall
-**at any time**"_ and so _"directly responsible to their constituents."_
-_"Democracy means equality."_ [**Op. Cit.**, p. 302, p. 306 and p. 346]
+**at any time** "_ and so _"directly responsible to their constituents."_
+_"Democracy means equality."_ [ **Op. Cit.** , p. 302, p. 306 and p. 346]
 
 3) The _"immediate introduction of control and superintendence by **all,** so
 that **all** shall become 'bureaucrats' for a time and so that, therefore,
 **no one** can become a 'bureaucrat'."_ Proletarian democracy would _"take
 immediate steps to cut bureaucracy down to the roots . . . to the complete
-abolition of bureaucracy"_ as the _"**essence** of bureaucracy"_ is officials
+abolition of bureaucracy"_ as the _" **essence** of bureaucracy"_ is officials
 becoming transformed _"into privileged persons divorced from the masses and
-**superior to** the masses."_ [**Op. Cit.**, p. 355 and p. 360]
+**superior to** the masses."_ [ **Op. Cit.** , p. 355 and p. 360]
 
 4) There should be no _"special bodies of armed men"_ standing apart from the
 people _"since the majority of the people itself suppresses its oppressors, a
 'special force' is no longer necessary."_ Using the example of the Paris
 Commune, Lenin suggested this meant _"abolition of the standing army."_
-Instead there would be the _"armed masses."_ [**Op. Cit.**, p. 275, p. 301 and
-p. 339]
+Instead there would be the _"armed masses."_ [ **Op. Cit.** , p. 275, p. 301
+and p. 339]
 
 5) The new (workers) state would be _"the organisation of violence for the
 suppression of . . . the exploiting class, i.e. the bourgeoisie. The toilers
@@ -1006,12 +1006,12 @@ would see _"an immense expansion of democracy . . . for the poor, democracy
 for the people"_ while, simultaneously, imposing _"a series of restrictions on
 the freedom of the oppressors, the exploiters, the capitalists. . . their
 resistance must be broken by force: it is clear that where is suppression
-there is also violence, there is no freedom, no democracy."_ [**Op. Cit.**, p.
-287 and pp. 337-8]
+there is also violence, there is no freedom, no democracy."_ [ **Op. Cit.** ,
+p. 287 and pp. 337-8]
 
 This would be implemented after the current, bourgeois, state had been
 smashed. This would be the _"dictatorship of the proletariat"_ and be _"the
-introduction of complete democracy for the people."_ [**Op. Cit.**, p. 355]
+introduction of complete democracy for the people."_ [ **Op. Cit.** , p. 355]
 However, the key practical ideas on what the new "semi-state" would be are
 contained in these five points. He generalised these points, considering them
 valid not only for Russia in 1917 but in all countries. In this his followers
@@ -1071,7 +1071,7 @@ the opposition parties would show gains."_ When elections were held,
 _"Bolshevik armed force usually overthrew the results"_ in provincial towns.
 Moreover, the Bolsheviks _"pack[ed] local soviets"_ with representatives of
 organisations they controlled _"once they could not longer count on an
-electoral majority."_ [Samuel Farber, **Before Stalinism**, p. 22, p. 24 and
+electoral majority."_ [Samuel Farber, **Before Stalinism** , p. 22, p. 24 and
 p. 33] This gerrymandering was even practised at the all-Russian soviet
 congress (see [section 6](append41.md#app6) for full details of this
 Bolshevik onslaught against the soviets). So much for competition among the
@@ -1113,7 +1113,7 @@ This was more commonly known by the Russian initials of the first two terms of
 its official name: The Cheka. Significantly, its founding decree stated it was
 to _"watch the press, saboteurs, strikers, and the Socialist-Revolutionaries
 of the Right."_ [contained in Robert V. Daniels, **A Documentary History of
-Communism**, vol. 1, p. 133]
+Communism** , vol. 1, p. 133]
 
 While it was initially a small organisation, as 1918 progressed it grew in
 size and activity. By April 1918, it was being used to break the anarchist
@@ -1195,12 +1195,12 @@ broken in turn months before the civil war happened. _"All Power to the
 Soviets"_ became, very quickly, _"All Power to the Bolsheviks."_ In the words
 of historian Marc Ferro:
 
-> _ "In a way, **The State and Revolution** even laid the foundations and
-sketched out the essential features of an alternative to Bolshevik power, and
-only the pro-Leninist tradition has used it, almost to quieten its conscience,
-because Lenin, once in power, ignored its conclusions. The Bolsheviks, far
-from causing the state to wither away, found endless reasons for justifying
-its enforcement."_ [**October 1917**, pp. 213-4]
+> _"In a way, **The State and Revolution** even laid the foundations and
+> sketched out the essential features of an alternative to Bolshevik power,
+> and only the pro-Leninist tradition has used it, almost to quieten its
+> conscience, because Lenin, once in power, ignored its conclusions. The
+> Bolsheviks, far from causing the state to wither away, found endless reasons
+> for justifying its enforcement."_ [ **October 1917** , pp. 213-4]
 
 Where does that leave Lenin's **State and Revolution**? Well, modern-day
 Leninists still urge us to read it, considering it his greatest work and the
@@ -1218,8 +1218,8 @@ threatened the greatest danger to the Soviet republic,"_ to quote Cliff).
 Similarly, much of the economic policies implemented by the Bolsheviks had
 their roots in that book and the other writings by Lenin from 1917 (see
 [section 5](append44.md#app5) of the appendix on ["How did Bolshevik
-ideology contribute to the failure of the Revolution?"](append44.md)).
-[**Lenin**, vol. 3, p. 161 and p. 18]
+ideology contribute to the failure of the Revolution?"](append44.md)). [
+**Lenin** , vol. 3, p. 161 and p. 18]
 
 Given this, what use is Lenin's **State and Revolution**? If this really was
 the _"guide"_ it is claimed to be, the fact that it proved totally impractical
@@ -1240,7 +1240,7 @@ Simply put, it was not bothered by the breaking of the promises of **State and
 Revolution** and 1917 in general. As such, Cliff is just wrong to assert that
 while the message of **State and Revolution** was _"violated again and again"_
 it _"was also invoked again and again against bureaucratic degeneration."_
-[Cliff, **Op. Cit.**, p. 161] Far from it. Lenin's **State and Revolution**
+[Cliff, **Op. Cit.** , p. 161] Far from it. Lenin's **State and Revolution**
 was rarely invoked against degeneration by the mainstream Bolshevik
 leadership. Indeed, they happily supported party dictatorship and one-man
 management. Ironically for Cliff, it **was** famously invoked against the
@@ -1254,7 +1254,7 @@ first stage of communist society."_ _"And this control,"_ he continued, _"must
 be established not only over 'the insignificant capitalist minority, over the
 gentry . . . ', but also over the workers who 'have been thoroughly corrupted
 by capitalism . . . '"_ He ended by saying it was _"significant that Bukharin
-did **not** emphasise **this**."_ [**Collected Works**, vol. 27, pp. 353-4]
+did **not** emphasise **this**."_ [ **Collected Works** , vol. 27, pp. 353-4]
 Needless to say, the Leninists who urge us to read Lenin's work do not
 emphasis that either.
 
@@ -1262,7 +1262,7 @@ As the Bolsheviks lost more and more support, the number of workers
 _"thoroughly corrupted by capitalism"_ increased. How to identify them was
 easy: they did not support the party. As historian Richard summarises, a
 _"lack of identification with the Bolshevik party was treated as the absence
-of political consciousness altogether."_ [**Soviet Communists in Power**, p.
+of political consciousness altogether."_ [ **Soviet Communists in Power** , p.
 94] This is the logical conclusion of vanguardism, of course (see [section
 H.5.3](secH5.md#sech53)). However, to acknowledge that state violence was
 also required to "control" the working class totally undermines the argument
@@ -1273,19 +1273,19 @@ was more than happy to admit that the "workers' state" used violence against
 the masses. At a conference of his political police, the Cheka, Lenin argued
 as follows:
 
-> _ "Without revolutionary coercion directed against the avowed enemies of the
-workers and peasants, it is impossible to break down the resistance of these
-exploiters. On the other hand, revolutionary coercion is bound to be employed
-towards the wavering and unstable elements among the masses themselves."_
-[**Collected Works**, vol. 42, p. 170]
+> _"Without revolutionary coercion directed against the avowed enemies of the
+> workers and peasants, it is impossible to break down the resistance of these
+> exploiters. On the other hand, revolutionary coercion is bound to be
+> employed towards the wavering and unstable elements among the masses
+> themselves."_ [ **Collected Works** , vol. 42, p. 170]
 
 This was simply summarising Bolshevik practice from the start. However, in
 **State and Revolution** Lenin had argued for imposing _"a series of
 restrictions on the freedom of the oppressors, the exploiters, the
 capitalists."_ In 1917 he was _"clear that where is suppression there is also
-violence, there is no freedom, no democracy."_ [**Op. Cit.**, pp. 337-8] So if
-violence is directed against the working class then, obviously, there can be
-_"no freedom, no democracy"_ for that class. And who identifies who the
+violence, there is no freedom, no democracy."_ [ **Op. Cit.** , pp. 337-8] So
+if violence is directed against the working class then, obviously, there can
+be _"no freedom, no democracy"_ for that class. And who identifies who the
 _"wavering and unstable"_ elements are? Only the party. Thus any expression of
 workers' democracy which conflicts with the party is a candidate for
 _"revolutionary coercion."_ So it probably just as well that the Bolsheviks
@@ -1294,81 +1294,72 @@ had eliminated military democracy in March, 1918.
 Trotsky expands on the obvious autocratic implications of this in 1921 when he
 attacked the Workers' Opposition's ideas on economic democracy:
 
-> _ "The Party . . . is . . . duty bound to retain its dictatorship,
-regardless of the temporary vacillations of the amorphous masses, regardless
-of the temporary vacillations even of the working class. This awareness is
-essential for cohesion; without it the Party is in danger of perishing . . .
-At any given moment, the dictatorship does not rest on the formal principle of
-workers' democracy . . . if we look upon workers' democracy as something
-unconditional . . . then . . . every plant should elect its own administrative
-organs and so on . . . From a formal point of view this is the clearest link
-with workers' democracy. But we are against it. Why? . . . Because, in the
-first place, we want to retain the dictatorship of the Party, and, in the
-second place, because we think that the [democratic] way of managing important
-and essential plants is bound to be incompetent and prove a failure from an
-economic point of view . . ."_ [quoted by Jay B. Sorenson, **The Life and
-Death of Soviet Trade Unionism**, p. 165]
+> _"The Party . . . is . . . duty bound to retain its dictatorship, regardless
+> of the temporary vacillations of the amorphous masses, regardless of the
+> temporary vacillations even of the working class. This awareness is
+> essential for cohesion; without it the Party is in danger of perishing . . .
+> At any given moment, the dictatorship does not rest on the formal principle
+> of workers' democracy . . . if we look upon workers' democracy as something
+> unconditional . . . then . . . every plant should elect its own
+> administrative organs and so on . . . From a formal point of view this is
+> the clearest link with workers' democracy. But we are against it. Why? . . .
+> Because, in the first place, we want to retain the dictatorship of the
+> Party, and, in the second place, because we think that the [democratic] way
+> of managing important and essential plants is bound to be incompetent and
+> prove a failure from an economic point of view . . ."_ [quoted by Jay B.
+> Sorenson, **The Life and Death of Soviet Trade Unionism** , p. 165]
 
 Thus the Russian Revolution and the Bolshevik regime confirmed anarchist
 theory and predictions about state socialism. In the words of Luigi Fabbri:
 
-> _ "It is fairly certain that between the capitalist regime and the socialist
-there will be an intervening period of struggle, during which proletariat
-revolutionary workers will have to work to uproot the remnants of bourgeois
-society . . . But if the object of this struggle and this organisation is to
-free the proletariat from exploitation and state rule, then the role of guide,
-tutor or director cannot be entrusted to a new state, which would have an
-interest in pointing the revolution in a completely opposite direction. . . _
-
+> _"It is fairly certain that between the capitalist regime and the socialist
+> there will be an intervening period of struggle, during which proletariat
+> revolutionary workers will have to work to uproot the remnants of bourgeois
+> society . . . But if the object of this struggle and this organisation is to
+> free the proletariat from exploitation and state rule, then the role of
+> guide, tutor or director cannot be entrusted to a new state, which would
+> have an interest in pointing the revolution in a completely opposite
+> direction. . ._
 >
-
 > _"The outcome would be that a new government - battening on the revolution
-and acting throughout the more or less extended period of its 'provisional'
-powers - would lay down the bureaucratic, military and economic foundations of
-a new and lasting state organisation, around which a compact network of
-interests and privileges would, naturally, be woven. Thus in a short space of
-time what one would have would not be the state abolished, but a state
-stronger and more energetic than its predecessor and which would come to
-exercise those functions proper to it - the ones Marx recognised as being such
-- 'keeping the great majority of producers under the yoke of a numerically
-small exploiting minority.' _
-
+> and acting throughout the more or less extended period of its 'provisional'
+> powers - would lay down the bureaucratic, military and economic foundations
+> of a new and lasting state organisation, around which a compact network of
+> interests and privileges would, naturally, be woven. Thus in a short space
+> of time what one would have would not be the state abolished, but a state
+> stronger and more energetic than its predecessor and which would come to
+> exercise those functions proper to it - the ones Marx recognised as being
+> such - 'keeping the great majority of producers under the yoke of a
+> numerically small exploiting minority.'_
 >
-
 > _"This is the lesson that the history of all revolutions teaches us, from
-the most ancient down to the most recent; and it is confirmed . . . by the
-day-to-day developments of the Russian revolution . . . _
-
+> the most ancient down to the most recent; and it is confirmed . . . by the
+> day-to-day developments of the Russian revolution . . ._
 >
-
 > _"Certainly, [state violence] starts out being used against the old power .
-. . But as the new power goes on consolidating its position . . . ever more
-frequently and ever more severely, the mailed fist of dictatorship is turned
-against the proletariat itself in whose name that dictatorship was set up and
-is operated! . . . the actions of the present Russian government [of Lenin and
-Trotsky] have shown that in real terms (and it could not be otherwise) the
-'dictatorship of the proletariat' means police, military, political and
-economic dictatorship exercised over the broad mass of the proletariat in city
-and country by the few leaders of the political party. _
-
+> . . But as the new power goes on consolidating its position . . . ever more
+> frequently and ever more severely, the mailed fist of dictatorship is turned
+> against the proletariat itself in whose name that dictatorship was set up
+> and is operated! . . . the actions of the present Russian government [of
+> Lenin and Trotsky] have shown that in real terms (and it could not be
+> otherwise) the 'dictatorship of the proletariat' means police, military,
+> political and economic dictatorship exercised over the broad mass of the
+> proletariat in city and country by the few leaders of the political party._
 >
-
 > _"The violence of the state always ends up being used AGAINST ITS SUBJECTS,
-of whom the vast majority are always proletarians . . . The new government
-will be able to expropriate the old ruling class in whole or in part, but only
-so as to establish a new ruling class that will hold the greater part of the
-proletariat in subjection. _
-
+> of whom the vast majority are always proletarians . . . The new government
+> will be able to expropriate the old ruling class in whole or in part, but
+> only so as to establish a new ruling class that will hold the greater part
+> of the proletariat in subjection._
 >
-
 > _"That will come to pass if those who make up the government and the
-bureaucratic, military and police minority that upholds it end up becoming the
-real owners of wealth when the property of everyone is made over exclusively
-to the state. In the first place, the failure of the revolution will be self
-evident. In the second, in spite of the illusions that many people create, the
-conditions of the proletariat will always be those of a subject class."_
-[_"Anarchy and 'Scientific' Communism"_, in **The Poverty of Statism**, pp.
-13-49, Albert Meltzer (ed.), pp. 26-31]
+> bureaucratic, military and police minority that upholds it end up becoming
+> the real owners of wealth when the property of everyone is made over
+> exclusively to the state. In the first place, the failure of the revolution
+> will be self evident. In the second, in spite of the illusions that many
+> people create, the conditions of the proletariat will always be those of a
+> subject class."_ [ _"Anarchy and 'Scientific' Communism"_ , in **The Poverty
+> of Statism** , pp. 13-49, Albert Meltzer (ed.), pp. 26-31]
 
 The standard response by most modern Leninists to arguments like this about
 Bolshevism is simply to downplay the authoritarianism of the Bolsheviks by
@@ -1410,7 +1401,7 @@ for Lenin's government. I would suggest that this document . . . can be better
 understood as a distant, although doubtless sincere [!], socio-political
 vision . . . as opposed to its having been a programmatic political statement,
 let alone a guide to action, for the period immediately after the successful
-seizure of power."_ [Farber, **Op. Cit.**, pp. 20-1 and p. 38]
+seizure of power."_ [Farber, **Op. Cit.** , pp. 20-1 and p. 38]
 
 That is **one** way of looking at it. Another would be to draw the conclusion
 that a _"distant . . . socio-political vision"_ drawn up to sound like a
@@ -1459,7 +1450,7 @@ raised the question of _"will the Bolsheviks dare take over full state power
 alone?"_ and answered it: _"I have already had occasion . . . to answer this
 question in the affirmative."_ Moreover, _"a political party . . . would have
 no right to exist, would be unworthy of the name of party . . . if it refused
-to take power when opportunity offers."_ [**Selected Works**, vol. 2, p 328,
+to take power when opportunity offers."_ [ **Selected Works** , vol. 2, p 328,
 p. 329 and p. 352]
 
 He equated party power with popular power: _"the power of the Bolsheviks --
@@ -1471,15 +1462,15 @@ Bolsheviks _"are not Utopians. We know that just any labourer or any cook
 would be incapable of taking over immediately the administration of the
 State."_ Therefore they _"demand that the teaching should be conducted by the
 class-consciousness workers and soldiers, that this should be started
-immediately."_ Until then, the _"conscious workers must be in control."_
-[**Will the Bolsheviks Maintain Power?** p. 102, pp. 61-62, p. 66 and p. 68]
+immediately."_ Until then, the _"conscious workers must be in control."_ [
+**Will the Bolsheviks Maintain Power?** p. 102, pp. 61-62, p. 66 and p. 68]
 
 As such, given this clear and unambiguous position throughout 1917 by Lenin,
 it seems incredulous, to say the least, for Leninist Tony Cliff to assert that
 _"[t]o start with Lenin spoke of the **proletariat,** the **class** \-- not
-the Bolshevik Party -- assuming state power."_ [**Lenin**, vol. 3, p. 161]
+the Bolshevik Party -- assuming state power."_ [ **Lenin** , vol. 3, p. 161]
 Surely the title of one of Lenin's most famous pre-October essays, usually
-translated as _"Can the Bolsheviks Retain State Power?"_, should have given
+translated as _"Can the Bolsheviks Retain State Power?"_ , should have given
 the game away? As would, surely, quoting numerous calls by Lenin for the
 Bolsheviks to seize power? Apparently not.
 
@@ -1497,7 +1488,7 @@ not forget, to quote one historian, that the Bolshevik leaders _"anticipated a
 'dictatorship of the proletariat,' and that concept was a good deal closer to
 a party dictatorship in Lenin's 1917 usage than revisionist scholars sometimes
 suggest."_ [Sheila Fitzpatrick, _"The Legacy of the Civil War,"_ pp. 385-398,
-**Party, State, and Society in the Russian Civil War**, Diane P. Koenker,
+**Party, State, and Society in the Russian Civil War** , Diane P. Koenker,
 William G. Rosenberg and Ronald Grigor Suny (eds.), p. 388]
 
 While modern-day Leninists tend to stress the assumption of power by the
@@ -1512,7 +1503,7 @@ needed a Bolshevik majority at the Second Congress, arguing (according to
 Trotsky) that _"[w]e have to win power and not tie ourselves to the Congress.
 It was ridiculous and absurd to warn the enemy about the date of the rising .
 . . First the party must seize power, arms in hand, and then we could talk
-about the Congress."_ [**On Lenin**, p. 71, p. 85]
+about the Congress."_ [ **On Lenin** , p. 71, p. 85]
 
 Trotsky argued that _"the party could not seize power by itself, independently
 of the Soviets and behind its back. This would have been a mistake . . . [as
@@ -1522,7 +1513,7 @@ the Soviet, independently of it, without its authority . . . there might have
 been a dangerous confusion among the troops."_ Significantly, Trotsky made no
 mention of the proletariat. Finally, Lenin came over to Trotsky's position,
 saying _"Oh, all right, one can proceed in this fashion as well, provided we
-seize power."_ [**Op. Cit.**, p. 86 and p. 89]
+seize power."_ [ **Op. Cit.** , p. 86 and p. 89]
 
 Trotsky made similar arguments in his **History of the Russian Revolution**
 and his article **Lessons of October**. Discussing the July Days of 1917, for
@@ -1540,8 +1531,8 @@ supported. Later he notes that _"[m]any of the provincial soviets had already,
 before the July days, become organs of power."_ Thus Trotsky was only
 interested in whether the workers could have put the Bolsheviks in power or
 not rather than were the soviets able to take power themselves. Party power
-was the decisive criteria. [**History of the Russian Revolution**, vol. 2, p.
-78, p. 77, p. 78, p. 81 and p. 281]
+was the decisive criteria. [ **History of the Russian Revolution** , vol. 2,
+p. 78, p. 77, p. 78, p. 81 and p. 281]
 
 This can be seen from the October insurrection. Trotsky again admits that the
 _"Bolsheviks could have seized power in Petrograd at the beginning of July"_
@@ -1568,8 +1559,8 @@ of the interests of the people."_ Trotsky notes that _"some other
 institution"_ was a _"conspirative designation for the Central Committee of
 the Bolsheviks."_ And who turned out to be the _"genuine representatives of
 the interests of the people"_? By amazing co-incidence the Bolsheviks, the
-members of whose Central Committee formed the first "soviet" government.
-[**Op. Cit.**, vol. 3, p. 265, p. 259, p. 262, p. 263 and p. 267]
+members of whose Central Committee formed the first "soviet" government. [
+**Op. Cit.** , vol. 3, p. 265, p. 259, p. 262, p. 263 and p. 267]
 
 As we discuss in [section H.3.11](secH3.md#sech311), Trotsky was simply
 repeating the same instrumentalist arguments he had made earlier. Clearly, the
@@ -1577,20 +1568,20 @@ support for the soviets was purely instrumental, simply a means of securing
 party power. For Bolshevism, the party was the key institution of proletarian
 revolution:
 
-> _ "The party set the soviets in motion, the soviets set in motion the
-workers, soldiers, and to some extent the peasantry . . . If you represent
-this conducting apparatus as a system of cog-wheels -- a comparison which
-Lenin had recourse at another period on another theme -- you may say that the
-impatient attempt to connect the party wheel directly with the gigantic wheel
-of the masses -- omitting the medium-sized wheel of the soviets -- would have
-given rise to the danger of breaking the teeth of the party wheel."_ [Trotsky,
-**Op. Cit.**, p. 264]
+> _"The party set the soviets in motion, the soviets set in motion the
+> workers, soldiers, and to some extent the peasantry . . . If you represent
+> this conducting apparatus as a system of cog-wheels -- a comparison which
+> Lenin had recourse at another period on another theme -- you may say that
+> the impatient attempt to connect the party wheel directly with the gigantic
+> wheel of the masses -- omitting the medium-sized wheel of the soviets --
+> would have given rise to the danger of breaking the teeth of the party
+> wheel."_ [Trotsky, **Op. Cit.** , p. 264]
 
 Thus the soviets existed to allow the party to influence the workers. What of
 the workers running society directly? What if the workers reject the decisions
 of the party? After all, **before** the revolution Lenin _"more than once
 repeated that the masses are far to the left of the party, just as the party
-is to the left of the Central Committee."_ [Trotsky, **Op. Cit.**, p. 258]
+is to the left of the Central Committee."_ [Trotsky, **Op. Cit.** , p. 258]
 What happens when the workers refuse to be set in motion by the party but
 instead set themselves in motion and reject the Bolsheviks? What then for the
 soviets? Looking at the logic of Trotsky's instrumentalist perspective, in
@@ -1613,42 +1604,43 @@ in November 1917, _"it is impossible to refuse a purely Bolshevik government
 without treason to the slogan of the power of the Soviets, since a majority at
 the Second All-Russian Congress of Soviets . . . handed power over to this
 government."_ [contained in Robert v. Daniels (ed.), **A Documentary History
-of Communism**, vol. 1, pp. 128-9] Lenin was clear, arguing mere days after
+of Communism** , vol. 1, pp. 128-9] Lenin was clear, arguing mere days after
 the October Revolution that _"our present slogan is: No Compromise, i.e. for a
 homogeneous Bolshevik government."_ [quoted by Daniels, **Conscience of the
-Revolution**, p. 65]
+Revolution** , p. 65]
 
 In other words, "soviet power" exists when the soviets hand power over the
 someone else (namely the Bolshevik leaders)! The difference is important,
 _"for the Anarchists declared, if 'power' really should belong to the soviets,
 it could not belong to the Bolshevik party, and if it should belong to that
 Party, as the Bolsheviks envisaged, it could not belong to the soviets."_
-[Voline, **The Unknown Revolution**, p. 213]
+[Voline, **The Unknown Revolution** , p. 213]
 
 Which means that while anarchists and Leninists both use the expression _"All
 Power to the Soviets"_ it does not mean they mean exactly the same thing by
 it. In practice the Bolshevik vision simply replaced the power of the soviets
 with a "soviet power" above them:
 
-> _ "The success of the Bolsheviks in the October Revolution -- that is to
-say, the fact that they found themselves in power and from there subordinated
-the whole Revolution to their Party is explained by their ability to
-substitute the idea of a Soviet power for the social revolution and the social
-emancipation of the masses. A priori, these two ideas appear as non-
-contradictory for it was possible to understand Soviet power as the power of
-the soviets, and this facilitated the substitution of the idea of Soviet power
-for that of the Revolution. Nevertheless, in their realisation and
-consequences these ideas were in violent contraction to each other. The
-conception of Soviet Power incarnated in the Bolshevik state, was transformed
-into an entirely traditional bourgeois power concentrated in a handful of
-individuals who subjected to their authority all that was fundamental and most
-powerful in the life of the people -- in this particular case, the social
-revolution. Therefore, with the help of the 'power of the soviets' -- in which
-the Bolsheviks monopolised most of the posts - they effectively attained a
-total power and could proclaim their dictatorship throughout the revolutionary
-territory . . . All was reduced to a single centre, from where all
-instructions emanated concerning the way of life, of thought, of action of the
-working masses."_ [Peter Arshinov, **The Two Octobers**]
+> _"The success of the Bolsheviks in the October Revolution -- that is to say,
+> the fact that they found themselves in power and from there subordinated the
+> whole Revolution to their Party is explained by their ability to substitute
+> the idea of a Soviet power for the social revolution and the social
+> emancipation of the masses. A priori, these two ideas appear as non-
+> contradictory for it was possible to understand Soviet power as the power of
+> the soviets, and this facilitated the substitution of the idea of Soviet
+> power for that of the Revolution. Nevertheless, in their realisation and
+> consequences these ideas were in violent contraction to each other. The
+> conception of Soviet Power incarnated in the Bolshevik state, was
+> transformed into an entirely traditional bourgeois power concentrated in a
+> handful of individuals who subjected to their authority all that was
+> fundamental and most powerful in the life of the people -- in this
+> particular case, the social revolution. Therefore, with the help of the
+> 'power of the soviets' -- in which the Bolsheviks monopolised most of the
+> posts - they effectively attained a total power and could proclaim their
+> dictatorship throughout the revolutionary territory . . . All was reduced to
+> a single centre, from where all instructions emanated concerning the way of
+> life, of thought, of action of the working masses."_ [Peter Arshinov, **The
+> Two Octobers** ]
 
 Isolated from the masses, holding power on their behalf, the Bolshevik party
 could not help being influenced by the realities of their position in society
@@ -1668,20 +1660,20 @@ In less than a year, by July 1918, the soviet regime was a **de facto** party
 dictatorship. The theoretical revisions soon followed. Lenin, for example, was
 proclaiming in early December 1918 that while legalising the Mensheviks the
 Bolsheviks would _"reserve state power for ourselves, **and for ourselves
-alone.**"_ [**Collected Works**, vol. 28, p. 213] Victor Serge records how
+alone.** "_ [ **Collected Works** , vol. 28, p. 213] Victor Serge records how
 when he arrived in Russia in the following month he discovered _"a colourless
 article"_ signed by Zinoviev on _"The Monopoly of Power"_ which said _"Our
 Party rules alone . . . it will not allow anyone . . . The false democratic
-liberties demanded by the counter-revolution."_ [**Memoirs of a
-Revolutionary**, p. 69] Serge, like most Bolsheviks, embraced this perspective
-wholeheartedly. For example, when the Bolsheviks published Bakunin's
-"confession" to the Tsar in 1921 (in an attempt to discredit anarchism)
-_"Serge seized on Bakunin's passage concerning the need for dictatorial rule
-in Russia, suggesting that 'already in 1848 Bakunin had presaged Bolshevism.'"
-_ [Lawrence D. Orton, _"introduction,"_ **The Confession of Mikhail Bakunin**,
-p. 21] At the time Bakunin wrote his "confession" he was not an anarchist. At
-the time Serge wrote his comments, he was a leading Bolshevik and reflecting
-mainstream Bolshevik ideology.
+liberties demanded by the counter-revolution."_ [ **Memoirs of a
+Revolutionary** , p. 69] Serge, like most Bolsheviks, embraced this
+perspective wholeheartedly. For example, when the Bolsheviks published
+Bakunin's "confession" to the Tsar in 1921 (in an attempt to discredit
+anarchism) _"Serge seized on Bakunin's passage concerning the need for
+dictatorial rule in Russia, suggesting that 'already in 1848 Bakunin had
+presaged Bolshevism.'"_ [Lawrence D. Orton, _"introduction,"_ **The Confession
+of Mikhail Bakunin** , p. 21] At the time Bakunin wrote his "confession" he
+was not an anarchist. At the time Serge wrote his comments, he was a leading
+Bolshevik and reflecting mainstream Bolshevik ideology.
 
 Indeed, so important was it considered by them, the Bolsheviks revised their
 theory of the state to include this particular lesson of their revolution (see
@@ -1696,7 +1688,7 @@ still subscribed to it). By the early 1940s, he wrote that _"[a]gainst the
 Party the anarchists were right when they inscribed on their black banners,
 'There is no worse poison than power' -- meaning absolute power. From now on
 the psychosis of power was to captive the great majority of the leadership,
-especially at the lower levels."_ [Serge, **Op. Cit.**, p. 100]
+especially at the lower levels."_ [Serge, **Op. Cit.** , p. 100]
 
 Nor can the effects of the civil war explain this shift. As we discuss in the
 [next section](append41.md#app6), the Bolshevik assault on the soviets and
@@ -1710,7 +1702,7 @@ have a say in who rules them? When Karl Kautsky raised this issue, Lenin
 replied by saying he _"fails to see the **class** nature of the state
 apparatus, of the machinery of state . . . The Soviet government is the
 **first** in the world . . . to **enlist** the people, specifically the
-**exploited** people in the work of administration."_ [**Collected Works**,
+**exploited** people in the work of administration."_ [ **Collected Works** ,
 vol. 28, p. 247 and p. 248]
 
 However, the key issue is not whether workers take part in the state machinery
@@ -1720,7 +1712,7 @@ pointed out, the Stalinist GPU (secret police) _"liked to boast of the working
 class origin of its henchmen."_ One of his fellow prisoners retorted to such
 claims by pointing out they were _"wrong to believe that in the days the Tsar
 the gaolers were recruited from among the dukes and the executioners from
-among the princes!"_ [**The Russian Engima**, pp. 255-6] Simply put, just
+among the princes!"_ [ **The Russian Engima** , pp. 255-6] Simply put, just
 because the state administration is made up of bureaucrats who were originally
 working class does not mean that the working class, as a class, manages
 society.
@@ -1729,7 +1721,7 @@ In December of that year Lenin went one further and noted that at the Sixth
 Soviet Congress _"the Bolsheviks had 97 per cent"_ of delegates, i.e.
 "practically all representatives of the workers and peasants of the whole of
 Russia." This was proof of _"how stupid and ridiculous is the bourgeois fairy-
-tale about the Bolsheviks only having minority support."_ [**Op. Cit.**, pp.
+tale about the Bolsheviks only having minority support."_ [ **Op. Cit.** , pp.
 355-6] Given that the workers and peasants had no real choice in who to vote
 for, can this result be surprising? Of course not. While the Bolsheviks
 **had** mass support a year previously, pointing to election results under a
@@ -1796,7 +1788,7 @@ made clear the government's (and party's) pre-eminence over the soviets and
 their executive organ. Increasingly, the Bolsheviks relied upon the
 appointment from above of commissars with plenipotentiary powers, and they
 split up and reconstituted fractious Soviets and intimidated political
-opponents."_ [Neil Harding, **Leninism**, p. 253] Strange actions for a party
+opponents."_ [Neil Harding, **Leninism** , p. 253] Strange actions for a party
 proclaiming it was acting to ensure "All power to the soviets" (as we
 discussed in the [last section](append41.md#app5), this was always
 considered by Lenin as little more than a slogan to hide the fact that the
@@ -1817,8 +1809,8 @@ reality, the Bolshevik party was the **real** power in "soviet" Russia.
 
 Given that the All-Russian central Executive Committee of Soviets (VTsIK) was
 dominated by Bolsheviks, it comes as no surprise to discover it was used to
-augment this centralisation of power into the hands of the party. The VTsIK
-(_"charged by the October revolution with controlling the government,"_ the
+augment this centralisation of power into the hands of the party. The VTsIK (
+_"charged by the October revolution with controlling the government,"_ the
 Sovnarkom) was _"used not to control but rather extend the authority and
 centralising fiat of the government. That was the work of Iakov Sverdlov, the
 VTsIK chairman, who -- in close collaboration with Lenin as chairman of the
@@ -1838,24 +1830,25 @@ for the VTsIK's abolition: with its 'idle, long-winded talk and its incapacity
 for productive work' the VTsIK merely held up the work of government, he
 claimed. And he may have had a point: during the period of 1917 to 1918, the
 Sovnarkom issued 474 decrees, the VTsIK a mere 62."_ [Israel Getzler,
-**Soviets as Agents of Democratisation**, p. 27]
+**Soviets as Agents of Democratisation** , p. 27]
 
 This process was not an accident. Far from it. In fact, the Bolshevik chairman
 Sverdlov knew exactly what he was doing. This included modifying the way the
 CEC worked:
 
-> _ "The structure of VTsIK itself began to change under Sverdlov. He began to
-use the presidium to circumvent the general meeting, which contained eloquent
-minority spokesmen . . . Sverdlov's used of the presidium marked a decisive
-change in the status of that body within the soviet hierarchy. In mid-1917 . .
-. [the] plenum had directed all activities and ratified bureau decisions which
-had a 'particularly important social-political character.' The bureau . . .
-served as the executive organ of the VTsIK plenum . . . Only in extraordinary
-cases when the bureau could no be convened for technical reason could the
-presidium make decisions. Even then such actions remained subject to review by
-the plenum."_ [Charles Duval, _"Yakov M. Sverdlov and the All-Russian Central
-Executive Committee of Soviets (VTsIK)"_, pp. 3-22, **Soviet Studies**, vol.
-XXXI, no. 1, January 1979, pp. 6-7]
+> _"The structure of VTsIK itself began to change under Sverdlov. He began to
+> use the presidium to circumvent the general meeting, which contained
+> eloquent minority spokesmen . . . Sverdlov's used of the presidium marked a
+> decisive change in the status of that body within the soviet hierarchy. In
+> mid-1917 . . . [the] plenum had directed all activities and ratified bureau
+> decisions which had a 'particularly important social-political character.'
+> The bureau . . . served as the executive organ of the VTsIK plenum . . .
+> Only in extraordinary cases when the bureau could no be convened for
+> technical reason could the presidium make decisions. Even then such actions
+> remained subject to review by the plenum."_ [Charles Duval, _"Yakov M.
+> Sverdlov and the All-Russian Central Executive Committee of Soviets
+> (VTsIK)"_ , pp. 3-22, **Soviet Studies** , vol. XXXI, no. 1, January 1979,
+> pp. 6-7]
 
 Under the Bolsheviks, the presidium was converted _"into the **de facto**
 centre of power within VTsIK."_ It _"began to award representations to groups
@@ -1865,7 +1858,7 @@ The presidium was used _"to circumvent general meetings."_ Thus the Bolsheviks
 were able _"to increase the power of the presidium, postpone regular sessions,
 and present VTsIK with policies which had already been implemented by the
 Sovnarkon. Even in the presidium itself very few people determined policy."_
-[Charles Duval, **Op. Cit.**, p.7, p. 8 and p. 18]
+[Charles Duval, **Op. Cit.** , p.7, p. 8 and p. 18]
 
 So, from the very outset, the VTsIK was overshadowed by the "Council of
 People's Commissars" (CPC). In the first year, only 68 of 480 decrees issued
@@ -1880,8 +1873,8 @@ After that the All-Russian Congress of soviets, which convened every three
 months or so during the first year of the revolution, met annually thereafter.
 Its elected VTsIK _"also began to meet less frequently, and at the height of
 the civil war in late 1918 and throughout 1919, it never once met in full
-session."_ [Carmen Sirianni, **Workers' Control and Socialist Democracy**, pp.
-203-4]
+session."_ [Carmen Sirianni, **Workers' Control and Socialist Democracy** ,
+pp. 203-4]
 
 The marginalisation of the soviets can be seen from the decision on whether to
 continue the war against Germany. As Cornelius Castoriadis notes, under Lenin
@@ -1890,12 +1883,12 @@ only the summits of the Party. Immediately after the seizure of power the
 soviets as institutions are reduced to the status of pure window-dressing (we
 need only look at the fact that, already at the beginning of 1918 in the
 discussions leading up to the Brest-Litovsk Peace Treaty, their role was
-absolutely nil)."_ [**The role of Bolshevik Ideology in the birth of the
-Bureaucracy**, p. 97] In fact, on the 26th of February, 1918, the Soviet
+absolutely nil)."_ [ **The role of Bolshevik Ideology in the birth of the
+Bureaucracy** , p. 97] In fact, on the 26th of February, 1918, the Soviet
 Executive _"began a survey of 200 local soviets; by 10 March 1918 a majority
 (105-95) had come out in favour of a revolutionary war, although the soviets
 in the two capitals voted . . . to accept a separate peace."_ [Geoffrey Swain,
-**The Origins of the Russian Civil War**, p. 128] This survey was ignored by
+**The Origins of the Russian Civil War** , p. 128] This survey was ignored by
 the Bolshevik Central Committee which voted 4 against, 4 abstain and 5 for it.
 This took Russia out of the Great War but handed over massive areas to
 imperialist Germany. The controversial treaty was ratified at the Fourth
@@ -1923,7 +1916,7 @@ levels. These executive bodies were usually able to control soviet congresses,
 though the party often disbanded congresses that opposed major aspects of
 current policies."_ Local soviets _"had little input into the formation of
 national policy" and "[e]ven at higher levels, institutional power shifted
-away from the soviets."_ [C. Sirianni, **Op. Cit.**, p. 204 and p. 203] The
+away from the soviets."_ [C. Sirianni, **Op. Cit.** , p. 204 and p. 203] The
 soviets quickly had become rubber-stamps for the Communist government, with
 the Soviet Constitution of 1918 codifying the centralisation of power and top-
 down decision making. Local soviets were expected to _"carry out all orders of
@@ -1940,26 +1933,26 @@ in soviet elections. Faced with this, the Bolsheviks responded in three ways,
 delaying elections. gerrymandering or force. We will discuss each in turn.
 
 Lenin argued in mid-April 1918 that the _"socialist character of Soviet, i.e.
-**proletarian**, democracy"_ lies, in part, in because _"the people themselves
-determine the order and time of elections."_ [**The Immediate Tasks of the
-Soviet Government**, pp. 36-7] However, the reality in the grassroots was
-somewhat different. There _"the government [was] continually postponed the new
-general elections to the Petrograd Soviet, the term of which had ended in
-March 1918"_ because it _"feared that the opposition parties would show gains.
-This fear was well founded since in the period immediately preceding 25
-January, in those Petrograd factories where the workers had decided to hold
-new elections, the Mensheviks, SRs, and non-affiliated candidates had won
-about half the seats."_ [Samuel Farber, **Before Stalinism**, p. 22] In
-Yaroslavl, the _more the Bolsheviks tried to postpone the elections, the more
-the idea of holding new elections became an issue itself."_ When the
-Bolsheviks gave in and held elections in early April, the Mensheviks won 47 of
-the 98 seats, the Bolsheviks 38 and the SRs 13. [_"The Mensheviks' Political
-Comeback: The Elections to the Provincial City Soviets in Spring 1918"_, **The
-Russian Review**, vol. 42, pp. 1-50, p. 18] The fate of the Yaroslavl soviet
-will be discussed shorted. As Geoffrey Swain summaries, Menshevik and SR
-_"successes in recalling Bolshevik delegates from the soviets had forced the
-Bolsheviks increasingly to delay by-elections."_ [**The Origins of the Russian
-Civil War**, p. 91]
+**proletarian** , democracy"_ lies, in part, in because _"the people
+themselves determine the order and time of elections."_ [ **The Immediate
+Tasks of the Soviet Government** , pp. 36-7] However, the reality in the
+grassroots was somewhat different. There _"the government [was] continually
+postponed the new general elections to the Petrograd Soviet, the term of which
+had ended in March 1918"_ because it _"feared that the opposition parties
+would show gains. This fear was well founded since in the period immediately
+preceding 25 January, in those Petrograd factories where the workers had
+decided to hold new elections, the Mensheviks, SRs, and non-affiliated
+candidates had won about half the seats."_ [Samuel Farber, **Before
+Stalinism** , p. 22] In Yaroslavl, the _more the Bolsheviks tried to postpone
+the elections, the more the idea of holding new elections became an issue
+itself."_ When the Bolsheviks gave in and held elections in early April, the
+Mensheviks won 47 of the 98 seats, the Bolsheviks 38 and the SRs 13. [ _"The
+Mensheviks' Political Comeback: The Elections to the Provincial City Soviets
+in Spring 1918"_ , **The Russian Review** , vol. 42, pp. 1-50, p. 18] The fate
+of the Yaroslavl soviet will be discussed shorted. As Geoffrey Swain
+summaries, Menshevik and SR _"successes in recalling Bolshevik delegates from
+the soviets had forced the Bolsheviks increasingly to delay by-elections."_ [
+**The Origins of the Russian Civil War** , p. 91]
 
 As well as postponing elections and recall, the Bolsheviks also quickly turned
 to gerrymandering the soviets to ensure the stability of their majority in the
@@ -1984,7 +1977,7 @@ the soviet of district committees without being elected by anyone represented
 at those soviets. _"After October, the Bolsheviks were more systematic in
 their use of these methods, but there was a difference: there were now no
 truly free elections that might have put a brake to a procedure that could
-only benefit the Bolshevik party."_ [Marc Ferro, **October 1917**, p. 191 and
+only benefit the Bolshevik party."_ [Marc Ferro, **October 1917** , p. 191 and
 p. 195]
 
 The effects of this can be seen in Petrograd soviet elections of June 1918. In
@@ -1996,7 +1989,7 @@ the projected 700-plus deputies in the 'new' soviet were to be elected by the
 Bolshevik-dominated district soviets, trade unions, factory committees, Red
 Army and naval units, and district worker conferences: thus, the Bolsheviks
 were assured of a solid majority even before factory voting began."_
-[Alexander Rabinowitch, **Early Disenchantment with Bolshevik Rule**, p. 45]
+[Alexander Rabinowitch, **Early Disenchantment with Bolshevik Rule** , p. 45]
 To be specific, the number of delegates elected directly from the workplace
 made up a mere third of the new soviet (i.e. only 260 of the 700 plus deputies
 in the new soviet were elected directly from the factories): _"It was this
@@ -2004,7 +1997,7 @@ arbitrary 'stacking' of the new soviet, much more than election of 'dead
 souls' from shut-down factories, unfair campaign practices, falsification of
 the vote, or direct repression, that gave the Bolsheviks an unfair advantage
 in the contest."_ [Alexander Rabinowitch, **The Petrograd First City District
-Soviet during the Civil War**, p. 140]
+Soviet during the Civil War** , p. 140]
 
 In other words, the Bolsheviks gerrymandered and packed soviets to remain in
 power, so distorting the soviet structure to ensure Bolshevik dominance. This
@@ -2017,7 +2010,7 @@ Similarly, the political parties supporting Soviet power automatically
 received twenty-five seats in the soviets. Needless to say, these rules
 heavily favoured the ruling parties"_ as the Mensheviks and SRs _"were
 regarded by the Bolsheviks as being against Soviet power."_ [Brovkin, **Op.
-Cit.**, p. 30]
+Cit.** , p. 30]
 
 A similar situation existed in Moscow. For example, the largest single union
 in the soviet in 1920 was that of soviet employees with 140 deputies (9% of
@@ -2029,8 +2022,8 @@ opposition and the recall of workplace delegates by their electors. Another
 form of gerrymandering was uniting areas of Bolshevik strength _"for electoral
 purposes with places where they were weak, such as the creation of a single
 constituency out of the Moscow food administration (MPO) and the Cheka in
-February 1920."_ [Richard Sakwa, **Soviet Communists in Power**, p. 179 and p.
-178]
+February 1920."_ [Richard Sakwa, **Soviet Communists in Power** , p. 179 and
+p. 178]
 
 However, this activity was mild compared to the Bolshevik response to soviet
 elections which did not go their way. According to one historian, by the
@@ -2039,7 +2032,7 @@ Soviets, and the factories had made a considerable impact on a working class
 which was becoming increasingly disillusioned with the Bolshevik regime, so
 much so that in many places the Bolsheviks felt constrained to dissolve
 Soviets or prevent re-elections where Mensheviks and Socialist Revolutionaries
-had gained majorities."_ [Israel Getzler, **Martov**, p. 179] This is
+had gained majorities."_ [Israel Getzler, **Martov** , p. 179] This is
 confirmed by other sources. _"By the middle of 1918,"_ notes Leonard Schapiro,
 _"the Mensheviks could claim with some justification that large numbers of the
 industrial working class were now behind them, and that for the systematic
@@ -2048,12 +2041,12 @@ meetings and congresses, their party could eventually have won power by its
 policy of constitutional opposition. In the elections to the soviets which
 were taking place in the spring of 1918 throughout Russia, arrests, military
 dispersal, even shootings followed whenever Mensheviks succeeded in winning
-majorities or a substantial representation."_ [**The Origin of the Communist
-Autocracy**, p. 191]
+majorities or a substantial representation."_ [ **The Origin of the Communist
+Autocracy** , p. 191]
 
 For example, the Mensheviks _"made something of a comeback about Saratov
 workers in the spring of 1918, for which the Bolsheviks expelled them from the
-soviet."_ [Donald J. Raleigh, **Experiencing Russia's Civil War**, p. 187]
+soviet."_ [Donald J. Raleigh, **Experiencing Russia's Civil War** , p. 187]
 Izhevsk, a town of 100,000 with an armaments industry which was the main
 suppliers of rifles to the Tzar's Army, experienced a swing to the left by the
 time of the October revolution. The Bolsheviks and SR-Maximalists became the
@@ -2071,8 +2064,8 @@ the May and June elections"_ and imprisoned the SR and Menshevik soviet
 delegates. The summer of 1918 also saw victories for the SRs and Mensheviks in
 the soviet elections in Votkinsk, a steel town near Izhevsk. _"As in Izhevsk
 the Bolsheviks voided the elections."_ [Stephan M. Merk, _"The 'Class-Tragedy'
-of Izhevsk: Working Class Opposition to Bolshevism in 1918"_, pp. 176-90,
-**Russian History**, vol. 2, no. 2, p. 181 and p. 186]
+of Izhevsk: Working Class Opposition to Bolshevism in 1918"_ , pp. 176-90,
+**Russian History** , vol. 2, no. 2, p. 181 and p. 186]
 
 However, the most in depth account of this destruction of soviet is found in
 the research of Vladimir Brovkin. According to him, there _"are three
@@ -2094,7 +2087,7 @@ where the _"escalation of political tensions followed the already familiar
 pattern"_ as the _"victory of the opposition at the polls"_ in April 1918
 _"brought about an intensification of the Bolshevik repression. Strikes,
 protests, and marches in Tver' lead to the imposition of martial law."_
-[Brovkin, **Op. Cit.**, p. 46, p. 47, p. 48 and p. 11] Thus Bolshevik armed
+[Brovkin, **Op. Cit.** , p. 46, p. 47, p. 48 and p. 11] Thus Bolshevik armed
 force not only overthrew the election results, it also suppressed working
 class protest against such actions. (Brovkin's book **The Mensheviks after
 October** contains the same information as his article).
@@ -2110,8 +2103,8 @@ SRs, seven Mensheviks and seven non-party."_ However, the Bolsheviks
 _"unwillingness to recognise the elections and to seat new delegates pushed a
 group of Socialists to . . . lay plans for an alternative workers' forum . . .
 what was later to become the Assembly of Workers' Plenipotentiaries."_ [Scott
-Smith, _"The Social-Revolutionaries and the Dilemma of Civil War"_, **The
-Bolsheviks in Russian Society**, pp. 83-104, Vladimir N. Brovkin (Ed.), pp.
+Smith, _"The Social-Revolutionaries and the Dilemma of Civil War"_ , **The
+Bolsheviks in Russian Society** , pp. 83-104, Vladimir N. Brovkin (Ed.), pp.
 85-86] This forum, like all forms of working class protest, was crushed by the
 Bolshevik state. By the time the elections were held, in June 1918, the civil
 war had started (undoubtedly favouring the Bolsheviks) and the Bolsheviks had
@@ -2126,7 +2119,7 @@ where they had taken place not in our favour."_ In the end, the local party
 leader was forced to abolish the city soviet and to vest power in the
 Provincial Executive Committee. This refused to convene a plenum of the city
 soviet for more than two months, knowing that newly elected delegates were
-non-Bolshevik. [Smith, **Op. Cit.**, p. 87]
+non-Bolshevik. [Smith, **Op. Cit.** , p. 87]
 
 In Yaroslavl', the newly elected soviet convened on April 9th, 1918, and when
 it elected a Menshevik chairman, _"the Bolshevik delegation walked out and
@@ -2137,8 +2130,8 @@ workers."_ This failed and the Bolsheviks were forced to hold new elections,
 which they lost. Then _"the Bolsheviks dissolved this soviet as well and
 places the city under martial law."_ A similar event occurred in Riazan'
 (again in April) and, again, the Bolsheviks _"promptly dissolved the soviet
-and declared a dictatorship under a Military-Revolutionary Committee."_ [**Op.
-Cit.**, pp. 88-9]
+and declared a dictatorship under a Military-Revolutionary Committee."_ [
+**Op. Cit.** , pp. 88-9]
 
 The opposition parties raised such issues at the All-Russian Central Executive
 Committee of Soviets (VTsIK), to little avail. On the 11th of April, one
@@ -2151,7 +2144,7 @@ the Bolsheviks) _"supported their chairman"_ and the facts were _"submitted .
 that the _"same fate befell attempts to challenge the arrests of Moscow
 anarchists by the government on 12 April."_ The chairman's _"handling of the
 anarchist matter ended its serious discussion in the VTsIK."_ [Charles Duval,
-**Op. Cit.**, pp. 13-14] Given that the VTsIK was **meant** to be the highest
+**Op. Cit.** , pp. 13-14] Given that the VTsIK was **meant** to be the highest
 soviet body between congresses, the lack of concern for Bolshevik repression
 against soviets and opposition groups clearly shows the Bolshevik contempt for
 soviet democracy.
@@ -2174,12 +2167,12 @@ authorities and later even arrested and imprisoned."_ After a hunger strike,
 they were released. In spite of chekists with loaded guns attending union
 meetings, the bakers _"would not be intimidated"_ and threatened a strike
 unless they were permitted to elect their own candidate. This ensured the
-bakers' demands were met. [**My Disillusionment in Russia**, pp. 88-9]
+bakers' demands were met. [ **My Disillusionment in Russia** , pp. 88-9]
 
 Unsurprisingly, _"there is a mass of evidence to support the Menshevik
 accusations of electoral malpractice"_ during elections in May 1920. And in
 spite of Menshevik _"declaration of support for the Soviet regime against the
-Poles"_ the party was _"still subject to harassment."_ [Skawa, **Op. Cit.**,
+Poles"_ the party was _"still subject to harassment."_ [Skawa, **Op. Cit.** ,
 p. 178]
 
 This gerrymandering was not limited to just local soviets. The Bolsheviks used
@@ -2190,7 +2183,7 @@ First, it should be noted that in the run up to the congress, _"on 14 June
 Revolutionaries from the Central Executive Committee, closed down their
 newspapers . . and drove them underground, just on the eve of the elections to
 the Fifth Congress of Soviets in which the Mensheviks were expected to make
-significant gains."_ [Israel Getzler, **Martov**, p. 181] The rationale for
+significant gains."_ [Israel Getzler, **Martov** , p. 181] The rationale for
 this action was the claim that the Mensheviks had taken part in anti-soviet
 rebellions (as we discuss in [section 23](append41.md#app23), this was not
 true). The action was opposed by the Left SRs, who correctly questioned the
@@ -2201,7 +2194,7 @@ right to withdraw their representation. Furthermore, the Bolsheviks had no
 right to pose as defenders of the soviets against the alleged SR counter-
 revolution when they themselves has been disbanding the peasants' soviets and
 creating the committees of the poor to replace them."_ [Brovkin, **The
-Mensheviks After October**, p. 231] When the vote was taken, only the
+Mensheviks After October** , p. 231] When the vote was taken, only the
 Bolsheviks supported it. Their votes were sufficient to pass it.
 
 Given that the Mensheviks had been winning soviet elections across Russia, it
@@ -2216,26 +2209,27 @@ numbered 40 percent of the delegates. They own opinion was that their number
 were even higher. The Bolsheviks strove to keep their majority by all the
 means in their power."_ He quotes Spiridonova's address to the Congress: _"You
 may have a majority in this congress, but you do have not a majority in the
-country."_ [I. Steinberg, **Spiridonova**, p. 209]
+country."_ [I. Steinberg, **Spiridonova** , p. 209]
 
 Historian Geoffrey Swain indicates that the LSRs had a point:
 
-> _ "Up to the very last minute the Left SRs had been confident that, as the
-voice of Russia's peasant masses, they would receive a majority when the Fifth
-Congress of Soviets assembled . . . which would enable them to deprive Lenin
-of power and launch a revolutionary war against Germany. Between April and the
-end of June 1918 membership of their party had almost doubled, from 60,000 to
-100,000, and to prevent them securing a majority at the congress Lenin was
-forced to rely on dubious procedures: he allowed so-called committees of poor
-peasants to be represented at the congress. Thus as late as 3 July 1918
-returns suggested a majority for the Left SRs, but a Congress of Committees of
-Poor Peasants held in Petrograd the same day 'redressed the balance in favour
-of the Bolsheviks,' to quote the **Guardian**'s Philips-Price, by deciding it
-had the right to represent the all those districts where local soviets had not
-been 'cleansed of kulak elements and had not delivered the amount of food laid
-down in the requisitioning lists of the Committees of Poor Peasants.' This
-blatant gerrymandering ensured a Bolshevik majority at the Fifth Congress of
-Soviets."_ [**The Origins of the Russian Civil War**, p. 176]
+> _"Up to the very last minute the Left SRs had been confident that, as the
+> voice of Russia's peasant masses, they would receive a majority when the
+> Fifth Congress of Soviets assembled . . . which would enable them to deprive
+> Lenin of power and launch a revolutionary war against Germany. Between April
+> and the end of June 1918 membership of their party had almost doubled, from
+> 60,000 to 100,000, and to prevent them securing a majority at the congress
+> Lenin was forced to rely on dubious procedures: he allowed so-called
+> committees of poor peasants to be represented at the congress. Thus as late
+> as 3 July 1918 returns suggested a majority for the Left SRs, but a Congress
+> of Committees of Poor Peasants held in Petrograd the same day 'redressed the
+> balance in favour of the Bolsheviks,' to quote the **Guardian** 's Philips-
+> Price, by deciding it had the right to represent the all those districts
+> where local soviets had not been 'cleansed of kulak elements and had not
+> delivered the amount of food laid down in the requisitioning lists of the
+> Committees of Poor Peasants.' This blatant gerrymandering ensured a
+> Bolshevik majority at the Fifth Congress of Soviets."_ [ **The Origins of
+> the Russian Civil War** , p. 176]
 
 Historian Alexander Rabinowitch confirms this gerrymandering. As he put it, by
 the summer of 1918 _"popular disenchantment with Bolshevik rule was already
@@ -2249,26 +2243,26 @@ Left SRs that the Bolsheviks had effectively 'fabricated' a sizeable majority
 in the congress and consequently, that there was no hope whatever of utilising
 it to force a fundamental change in the government's pro-German, anti-peasant
 policies."_ While he acknowledges that an _"exact breakdown of properly
-elected delegates may be impossible to ascertain"_ it was possible (_"based on
-substantial but incomplete archival evidence"_) to conclude that _"it is quite
-clear that the Bolshevik majority was artificially inflated and highly
+elected delegates may be impossible to ascertain"_ it was possible ( _"based
+on substantial but incomplete archival evidence"_ ) to conclude that _"it is
+quite clear that the Bolshevik majority was artificially inflated and highly
 suspect."_ He quotes the report of one leading LSR, based on data from LSR
 members of the congress's Credentials Committee, saying that the Bolsheviks
 _"conjured up"_ 299 voting delegates. _"The Bible tells us,"_ noted the
 report's author, _"that God created the heavens and the earth from nothing . .
 . In the twentieth century the Bolsheviks are capable of no lesser miracles:
-out of nothing, they create legitimate credentials."_ [_"Maria Spiridonova's
-'Last Testament'"_, **The Russian Review**, pp. 424-46, vol. 54, July 1995, p.
-426]
+out of nothing, they create legitimate credentials."_ [ _"Maria Spiridonova's
+'Last Testament'"_ , **The Russian Review** , pp. 424-46, vol. 54, July 1995,
+p. 426]
 
 This gerrymandering played a key role in the subsequent events. _"Deprived of
 their democratic majority,"_ Swain notes, _"the Left SRs resorted to terror
-and assassinated the German ambassador Mirbach."_ [Swain, **Op. Cit.**, p.
+and assassinated the German ambassador Mirbach."_ [Swain, **Op. Cit.** , p.
 176] The LSR assassination of Mirbach and the events which followed were soon
 labelled by the Bolsheviks an _"uprising"_ against "soviet power" (see
 [section 23](append41.md#app23) for more details). Lenin _"decided that the
 killing of Mirbach provided a fortuitous opportunity to put an end to the
-growing Left SR threat."_ [Rabinowitch, **Op. Cit.**, p. 427] After this, the
+growing Left SR threat."_ [Rabinowitch, **Op. Cit.** , p. 427] After this, the
 LSRs followed the Mensheviks and Right SRs and were expelled from the soviets.
 This in spite of the fact that the rank and file knew nothing of the plans of
 the central committees and that their soviet delegates had been elected by the
@@ -2289,8 +2283,8 @@ were trying to create some institutional leverage of their own in the
 countryside for use against the SRs. In this light, the Bolshevik measures
 against the Menshevik-led city soviets . . . and against SR-led village
 soviets may be seen as a two-pronged attempt to stem the tide that threatened
-to leave them in the minority at the Fifth Congress of Soviets."_ [**The
-Mensheviks after October**, p. 226]
+to leave them in the minority at the Fifth Congress of Soviets."_ [ **The
+Mensheviks after October** , p. 226]
 
 Thus, by July 1918, the Bolsheviks had effectively secured a monopoly of
 political power in Russia. When the Bolsheviks (rightly, if hypocritically)
@@ -2308,14 +2302,14 @@ Bolsheviks had always aimed for "all power to the party via the soviets" and
 once this had been achieved, the soviets could be dispensed with. Maurice
 Brinton simply stated the obvious when he wrote that _"when institutions such
 as the soviets could no longer be influenced by ordinary workers, the regime
-could no longer be called a soviet regime."_ [**The Bolsheviks and Workers'
-Control**, p. xiii] By this obvious criteria, the Bolshevik regime was no
+could no longer be called a soviet regime."_ [ **The Bolsheviks and Workers'
+Control** , p. xiii] By this obvious criteria, the Bolshevik regime was no
 longer soviet by the spring of 1918, i.e. before the outbreak of civil war.
 While opposition groups were not finally driven out of the soviets until 1923
 (i.e. three years **after** the end of the civil war) their presence _"does
 not indicate the existence of a multi-party system since they in no way
 threatened the dominating role of the Bolsheviks, and they had not done so
-from mid-1918."_ [Richard Sakwa, **Op. Cit.**, p. 168]
+from mid-1918."_ [Richard Sakwa, **Op. Cit.** , p. 168]
 
 Tony Cliff, leader of the British Leninist party the SWP, justified the
 repression of the Mensheviks and SRs on the grounds that they were not
@@ -2329,8 +2323,8 @@ then, members arrested and soviets being disbanded as soon as they get a
 Menshevik majority is _"not much hampered"_ then Cliff does seem to be giving
 that phrase a new meaning. Similarly, Cliff's claim that the _"civil war
 undermined the operation of the local soviets"_ also seems lacking based on
-this new research. [**Lenin: Revolution Besieged**, vol. 3, p. 163, p. 167 and
-p. 150]
+this new research. [ **Lenin: Revolution Besieged** , vol. 3, p. 163, p. 167
+and p. 150]
 
 However, the Bolshevik assault on the soviets started during the spring of
 1918 (i.e. in March, April and May). That is **before** the Czech rising and
@@ -2354,12 +2348,13 @@ working class, in spite of their defects (defects the Bolsheviks exploited to
 consolidate their power). The problem was that the workers no longer supported
 Lenin. Few Leninists would support such an obvious conclusion. For example,
 John Rees states that _"[i]n the cities the Reds enjoyed the fierce and
-virtually undivided loyalty of the masses throughout the civil war period."_
-[_"In Defence of October"_, pp. 3-82, **International Socialism**, no. 52, p.
+virtually undivided loyalty of the masses throughout the civil war period."_ [
+_"In Defence of October"_ , pp. 3-82, **International Socialism** , no. 52, p.
 47] Which, of course, explains the vast number of strikes and protests
 directed against the Bolshevik regime and the workers' resolutions calling its
 end! It also explains why the Bolsheviks, in the face of such _"undivided
-loyalty"_, had to suppress opposition parties and impose a party dictatorship!
+loyalty"_ , had to suppress opposition parties and impose a party
+dictatorship!
 
 Simply put, **if** the Bolsheviks did have the support Rees states they did
 then they had no need to repress soviet democracy and opposition parties. Such
@@ -2368,7 +2363,7 @@ Strange, then, that the Bolsheviks continually explained working class unrest
 in terms of the influence of Mensheviks, Left SRs and so on during the civil
 war. Moreover, Rees contradicts himself by arguing that if the Kronstadt
 revolt had succeeded, then it would have resulted in _"the fall of the
-Bolsheviks."_ [**Op. Cit.**, p. 63] Now, given that the Kronstadt revolt
+Bolsheviks."_ [ **Op. Cit.** , p. 63] Now, given that the Kronstadt revolt
 called for free soviet elections (and **not** _"soviets without parties"_ as
 Rees asserts), why did the Bolsheviks not agree to them (at least in the
 cities)? If, as Rees argues, the Reds had the fierce loyalty of the city
@@ -2376,34 +2371,35 @@ workers, then why did the Bolsheviks not introduce soviet democracy in the
 cities after the end of the Civil War? Simply because they knew that such
 "loyalty" did not, in fact, exist. Zinoviev, for example, declared that the
 Bolsheviks' support had been reduced to 1 per cent in early 1920. [Farber,
-**Before Stalinism**, p. 188]
+**Before Stalinism** , p. 188]
 
 So much for working class "loyalty" to the Bolsheviks. And, needless to say,
 Rees' comments totally ignore the election results **before** the start of the
 civil war which prompted the Bolsheviks to pack or disband soviets. As
 Bertrand Russell summarised from his experiences in Lenin's Russia during the
 civil war (in 1920): _"No conceivable system of free elections would give
-majorities to the Communists, either in the town or country."_ [**The Practice
-and Theory of Bolshevism**, pp. 40-1] Thus we have a major contradiction in
-the pro-Leninist argument. On the one hand, they stress that the workers
-supported the Bolsheviks wholeheartedly during the civil war. On the other,
-they argue that party dictatorship had to be imposed. If the Bolsheviks had
-the support they claimed they had, then they would have won soviet elections
-easily. They did not and so free soviet elections were not held.
+majorities to the Communists, either in the town or country."_ [ **The
+Practice and Theory of Bolshevism** , pp. 40-1] Thus we have a major
+contradiction in the pro-Leninist argument. On the one hand, they stress that
+the workers supported the Bolsheviks wholeheartedly during the civil war. On
+the other, they argue that party dictatorship had to be imposed. If the
+Bolsheviks had the support they claimed they had, then they would have won
+soviet elections easily. They did not and so free soviet elections were not
+held.
 
 This fact also explains the fate of the so-called _"non party"_ conferences
 favoured by the Bolsheviks in late 1920. In spite of praising the soviets as
 _"more democratic"_ than anything in the _"best democratic republics of the
 bourgeois world,"_ Lenin also argued that non-Party conferences were also
 required _"to be able to watch the mood of the masses, to come closer to them,
-to respond to their demands."_ [**Left-Wing Communism**, p. 33 and p. 32] If
+to respond to their demands."_ [ **Left-Wing Communism** , p. 33 and p. 32] If
 the soviets were as democratic as Lenin claimed, then the Bolsheviks would
 have no need of "non-party" conferences. Significantly, the Bolsheviks
 "responded" to these conferences and "their demands" by disbanding them. This
 was because _"[d]uring the disturbances"_ of late 1920, _"they provided an
 effective platform for criticism of Bolshevik policies."_ Their frequency was
 decreased and they "were discontinued soon afterward." [Richard Sakwa,
-**Soviet Communists in Power**, p. 203] In other words, they meet the same
+**Soviet Communists in Power** , p. 203] In other words, they meet the same
 fate as the soviets in the spring and summer of 1918.
 
 Perhaps we should not be too surprised by these developments. After all, as we
@@ -2417,33 +2413,31 @@ majority had to be manipulated into being) but not upon them. Before the
 revolution Lenin had openly espoused a double standard of discipline. _"We
 will not permit,"_ he argued, _"the idea of unity to tie a noose around our
 necks, and we shall under no circumstances permit the Mensheviks to lead us by
-the rope."_ [quoted by Robert V. Daniels, **The Conscience of the
-Revolution**, p. 17] Once in power, their political perspectives had little
-trouble ignoring the will of the working class when it classed with what they,
-as that class's self-proclaimed vanguard, had decided what was in its best
-interests. As we discussed in [section H.5](secH5.md), such a autocratic
-perspective is at the heart of vanguardism. If you aim for party power, it
-comes as no surprise that the organs used to achieve it will wither under it.
-Just as muscles only remain strong if you use them, so soviets can only work
-if it is used to run society, not nominate the handful of party leaders who
-do. As Kropotkin argued in 1920:
+the rope."_ [quoted by Robert V. Daniels, **The Conscience of the Revolution**
+, p. 17] Once in power, their political perspectives had little trouble
+ignoring the will of the working class when it classed with what they, as that
+class's self-proclaimed vanguard, had decided what was in its best interests.
+As we discussed in [section H.5](secH5.md), such a autocratic perspective is
+at the heart of vanguardism. If you aim for party power, it comes as no
+surprise that the organs used to achieve it will wither under it. Just as
+muscles only remain strong if you use them, so soviets can only work if it is
+used to run society, not nominate the handful of party leaders who do. As
+Kropotkin argued in 1920:
 
-> _ "The idea of soviets . . . of councils of workers and peasants . . .
-controlling the economic and political life of the country is a great idea.
-All the more so, since it necessarily follows that these councils should be
-composed of all who take part in the production of natural wealth by their own
-efforts. _
-
+> _"The idea of soviets . . . of councils of workers and peasants . . .
+> controlling the economic and political life of the country is a great idea.
+> All the more so, since it necessarily follows that these councils should be
+> composed of all who take part in the production of natural wealth by their
+> own efforts._
 >
-
 > _"But as long as the country is governed by a party dictatorship, the
-workers' and peasants' councils evidently lose their entire significance. They
-are reduced to . . . [a] passive role . . . A council of workers ceases to be
-free and of any use when liberty of the press no longer exists . . . [and
-they] lose their significance when the elections are not preceded by a free
-electoral campaign, and when the elections are conducted under pressure of a
-party dictatorship . . . It means the death-knell of the new system."_
-[**Kropotkin's Revolutionary Pamphlets**, pp. 254-5]
+> workers' and peasants' councils evidently lose their entire significance.
+> They are reduced to . . . [a] passive role . . . A council of workers ceases
+> to be free and of any use when liberty of the press no longer exists . . .
+> [and they] lose their significance when the elections are not preceded by a
+> free electoral campaign, and when the elections are conducted under pressure
+> of a party dictatorship . . . It means the death-knell of the new system."_
+> [ **Kropotkin's Revolutionary Pamphlets** , pp. 254-5]
 
 Clearly, the fate of the soviets after October shows the dangers of Bolshevism
 to popular self-management and autonomy. We should be try and learn the
@@ -2458,56 +2452,51 @@ they were _"for the establishment of **free soviets** of workers' and
 peasants' representatives, and the abolition of the Soviet of People's
 Commissars as an organisation inimical to the interests of the working
 class."_ [contained in Paul Avrich, **The Anarchists in the Russian
-Revolution**, p. 118 and p. 117] This resolution was driven by the experience
+Revolution** , p. 118 and p. 117] This resolution was driven by the experience
 of the Bolshevik dominated "soviet" regime.
 
 It is also worth quoting Rudolf Rocker at length on this issue:
 
-> _ "Let no one object that the 'dictatorship of the proletariat' cannot be
-compared to run of the mill dictatorship because it is the dictatorship of a
-class. Dictatorship of a class cannot exist as such, for it ends up, in the
-last analysis, as being the dictatorship of a given party which arrogates to
-itself the right to speak for that class. Thus, the liberal bourgeoisie, in
-their fight against despotism, used to speak in the name of the 'people'. . .
-_
-
+> _"Let no one object that the 'dictatorship of the proletariat' cannot be
+> compared to run of the mill dictatorship because it is the dictatorship of a
+> class. Dictatorship of a class cannot exist as such, for it ends up, in the
+> last analysis, as being the dictatorship of a given party which arrogates to
+> itself the right to speak for that class. Thus, the liberal bourgeoisie, in
+> their fight against despotism, used to speak in the name of the 'people'. .
+> ._
 >
-
 > _"We already know that a revolution cannot be made with rosewater. And we
-know, too, that the owning classes will never yield up their privileges
-spontaneously. On the day of victorious revolution the workers will have to
-impose their will on the present owners of the soil, of the subsoil and of the
-means of production, which cannot be done -- let us be clear on this --
-without the workers taking the capital of society into their own hands, and,
-above all, without their having demolished the authoritarian structure which
-is, and will continue to be, the fortress keeping the masses of the people
-under dominion. Such an action is, without doubt, an act of liberation; a
-proclamation of social justice; the very essence of social revolution, which
-has nothing in common with the utterly bourgeois principle of dictatorship. _
-
+> know, too, that the owning classes will never yield up their privileges
+> spontaneously. On the day of victorious revolution the workers will have to
+> impose their will on the present owners of the soil, of the subsoil and of
+> the means of production, which cannot be done -- let us be clear on this --
+> without the workers taking the capital of society into their own hands, and,
+> above all, without their having demolished the authoritarian structure which
+> is, and will continue to be, the fortress keeping the masses of the people
+> under dominion. Such an action is, without doubt, an act of liberation; a
+> proclamation of social justice; the very essence of social revolution, which
+> has nothing in common with the utterly bourgeois principle of dictatorship._
 >
-
 > _"The fact that a large number of socialist parties have rallied to the idea
-of councils, which is the proper mark of libertarian socialist and
-revolutionary syndicalists, is a confession, recognition that the tack they
-have taken up until now has been the product of a falsification, a distortion,
-and that with the councils the labour movement must create for itself a single
-organ capable of carrying into effect the unmitigated socialism that the
-conscious proletariat longs for. On the other hand, it ought not to be
-forgotten that this abrupt conversion runs the risk of introducing many alien
-features into the councils concept, features, that is, with no relation to the
-original tasks of socialism, and which have to be eliminated because they pose
-a threat to the further development of the councils. These alien elements are
-able only to conceive things from the dictatorial viewpoint. It must be our
-task to face up to this risk and warn our class comrades against experiments
-which cannot bring the dawn of social emancipation any nearer -- which indeed,
-to the contrary, positively postpone it. _
-
+> of councils, which is the proper mark of libertarian socialist and
+> revolutionary syndicalists, is a confession, recognition that the tack they
+> have taken up until now has been the product of a falsification, a
+> distortion, and that with the councils the labour movement must create for
+> itself a single organ capable of carrying into effect the unmitigated
+> socialism that the conscious proletariat longs for. On the other hand, it
+> ought not to be forgotten that this abrupt conversion runs the risk of
+> introducing many alien features into the councils concept, features, that
+> is, with no relation to the original tasks of socialism, and which have to
+> be eliminated because they pose a threat to the further development of the
+> councils. These alien elements are able only to conceive things from the
+> dictatorial viewpoint. It must be our task to face up to this risk and warn
+> our class comrades against experiments which cannot bring the dawn of social
+> emancipation any nearer -- which indeed, to the contrary, positively
+> postpone it._
 >
-
 > _"Consequently, our advice is as follows: Everything for the councils or
-soviets! No power above them! A slogan which at the same time will be that of
-the social revolutionary."_ [**Anarchism and Sovietism**]
+> soviets! No power above them! A slogan which at the same time will be that
+> of the social revolutionary."_ [ **Anarchism and Sovietism** ]
 
 The validity of this argument can be seen, for example, from the expulsion of
 opposition parties from the soviets in June and July 1918. This act exposes
@@ -2537,13 +2526,13 @@ organised on collective lines with the direct delegation of workers and
 peasants from every factory, workshop, village, etc., and not political
 chatterboxes gaining entry through party lists and turning the soviets into
 talking shops."_ [contained in Paul Avrich, **The Anarchists in the Russian
-Revolution**, p. 118] The Makhnovists, likewise, argued that _"[o]nly
+Revolution** , p. 118] The Makhnovists, likewise, argued that _"[o]nly
 labourers who are contributing work necessary to the social economy should
 participate in the soviets. Representatives of political organisations have no
 place in worker-peasant soviets, since their participation in a workers'
 soviet will transform the latter into deputies of the party and can lead to
 the downfall of the soviet system."_ [contained in Peter Arshinov's **History
-of the Makhnovist Movement**, p. 266] As we discuss in [section
+of the Makhnovist Movement** , p. 266] As we discuss in [section
 15](append46.md#app15) of the appendix on ["Why does the Makhnovist movement
 show there is an alternative to Bolshevism?"](append46.md), Leninists
 sometimes distort this into a claim that the Makhnovists opposed members of
@@ -2553,7 +2542,7 @@ This use of party lists meant that soviet delegates could be anyone. For
 example, the leading left-wing Menshevik Martov recounts that in early 1920
 Bolsheviks in a chemical factory _"put up Lenin against me as a candidate [to
 the Moscow soviet]. I received seventy-six votes he-eight (in an open vote)."_
-[quoted by Israel Getzler, **Martov**, p. 202] How would either of these two
+[quoted by Israel Getzler, **Martov** , p. 202] How would either of these two
 intellectuals actually know and reflect the concerns and interests of the
 workers they would be "delegates" of? If the soviets were meant to be the
 delegates of working people, then why should non-working class members of
@@ -2564,11 +2553,11 @@ ensuring working class participation in the revolution. As recognised by all
 the socialist oppositions to the Bolsheviks, from the anarchists to the
 Mensheviks. As one historian put it:
 
-> _ "Small wonder that the principal political demand of Mensheviks, Left SRs,
-SR Maximalists, Kronstadt sailors and of many oppositionists . . . has been
-for freely elected soviets which would this be restored to their original role
-as agents of democratisation."_ [Israel Getzler, **Soviets as Agents of
-Democratisation**, p. 30]
+> _"Small wonder that the principal political demand of Mensheviks, Left SRs,
+> SR Maximalists, Kronstadt sailors and of many oppositionists . . . has been
+> for freely elected soviets which would this be restored to their original
+> role as agents of democratisation."_ [Israel Getzler, **Soviets as Agents of
+> Democratisation** , p. 30]
 
 The sad fate of the soviets after the Bolshevik seizure of power simply
 confirms the opinion of the left Menshevik Martov who had _"rubbed it in to
@@ -2576,7 +2565,7 @@ the Bolsheviks . . . at the first All-Russian Congress of Trade Unions [in
 January 1918], that they who were now extolling the Soviets as the 'highest
 forms of the socialist development of the proletariat,' had shown little love
 of them in 1905 or in 1917 after the July days; they loved Soviets only when
-they were 'in the hands of the Bolshevik party.'"_ [Getlzer, **Martov**, p.
+they were 'in the hands of the Bolshevik party.'"_ [Getlzer, **Martov** , p.
 174] As the next few months showed, once the soviets left those hands, then
 the soviets themselves were destroyed. The civil war did not start this
 process, it just gave the latter-day supporters of Bolshevism something to use
@@ -2621,9 +2610,7 @@ communism"?
 
 ## 25 Did the Russian revolution refute anarchism?
 
-
-
-[‹ Appendix - The Russian Revolution](append4.md "Go to previous page" )
-[up](append4.md "Go to parent page" ) [What was the Kronstadt Rebellion?
-›](append42.md "Go to next page" )
+[‹ Appendix - The Russian Revolution](append4.md "Go to previous page")
+[up](append4.md "Go to parent page") [What was the Kronstadt Rebellion?
+›](append42.md "Go to next page")
 

@@ -21,9 +21,10 @@ hierarchies, classes, propertied forms, and statist institutions that emerged
 with social domination were carried over conceptually into humanity's
 relationship with nature. Nature too became increasingly regarded as a mere
 resource, an object, a raw material to be exploited as ruthlessly as slaves on
-a latifundium."_ [**Toward an Ecological Society** p. 41] In his view, without
-uprooting the psychology of domination, all attempts to stave off ecological
-catastrophe are likely to be mere palliatives and so doomed to failure.
+a latifundium."_ [ **Toward an Ecological Society** p. 41] In his view,
+without uprooting the psychology of domination, all attempts to stave off
+ecological catastrophe are likely to be mere palliatives and so doomed to
+failure.
 
 Bookchin argues that _"the conflict between humanity and nature is an
 extension of the conflict between human and human. Unless the ecology movement
@@ -32,22 +33,23 @@ encompasses the problem of domination in all its aspects, it will contribute
 time. If the ecology movement stops at mere reformism in pollution and
 conservation control - at mere 'environmentalism' - without dealing radically
 with the need for an expanded concept of revolution, it will merely serve as a
-safety value for the existing system of natural and human exploitation."_
-[**Op. Cit.**, p. 43] Since capitalism is the vehicle through which the
+safety value for the existing system of natural and human exploitation."_ [
+**Op. Cit.** , p. 43] Since capitalism is the vehicle through which the
 psychology of domination finds its most ecologically destructive outlet, most
 eco-anarchists give the highest priority to dismantling it:
 
 > _"Literally, the system in its endless devouring of nature will reduce the
-entire biosphere to the fragile simplicity of our desert and arctic biomes. We
-will be reversing the process of organic evolution which has differentiated
-flora and fauna into increasingly complex forms and relationships, thereby
-creating a simpler and less stable world of life. The consequences of this
-appalling regression are predictable enough in the long run -- the biosphere
-will become so fragile that it will eventually collapse from the standpoint
-human survival needs and remove the organic preconditions for human life. That
-this will eventuate from a society based on production for the sake of
-production is . . . merely a matter of time, although when it will occur is
-impossible to predict."_ [**Op. Cit.**, p. 68]
+> entire biosphere to the fragile simplicity of our desert and arctic biomes.
+> We will be reversing the process of organic evolution which has
+> differentiated flora and fauna into increasingly complex forms and
+> relationships, thereby creating a simpler and less stable world of life. The
+> consequences of this appalling regression are predictable enough in the long
+> run -- the biosphere will become so fragile that it will eventually collapse
+> from the standpoint human survival needs and remove the organic
+> preconditions for human life. That this will eventuate from a society based
+> on production for the sake of production is . . . merely a matter of time,
+> although when it will occur is impossible to predict."_ [ **Op. Cit.** , p.
+> 68]
 
 This is not to say that ecological destruction did not exist before the rise
 of capitalism. This is not the case. Social problems, and the environmental
@@ -61,7 +63,7 @@ social form in the factory, bureaucracy and military. I cannot emphasise too
 strongly that these problems emerged long before capitalism."_ However,
 capitalism is the dominant economic form today and so the _"modern urban
 crisis largely reflects the divisions that capitalism has produced between
-society and nature."_ [**Op. Cit.**, p. 29 and p. 28]
+society and nature."_ [ **Op. Cit.** , p. 29 and p. 28]
 
 Capitalism, unlike previous class and hierarchical systems, has an
 expansionist nature which makes it incompatible with the planet's ecology. So
@@ -73,7 +75,8 @@ turns the plunder of nature into society's law of life. To quibble with this
 kind of system about its values, to try to frighten it with visions about the
 consequences of growth is to quarrel with its very metabolism. One might more
 easily persuade a green plant to desist from photosynthesis than to ask the
-bourgeois economy to desist from capital accumulation."_ [**Op. Cit.**, p. 66]
+bourgeois economy to desist from capital accumulation."_ [ **Op. Cit.** , p.
+66]
 
 Thus capitalism causes ecological destruction because it is based upon
 domination (of human over human and so humanity over nature) and continual,
@@ -121,13 +124,13 @@ is impossible in principle for capitalism to solve the ecological crisis,
 because "grow or die" is inherent in its nature:
 
 > _"To speak of 'limits to growth' under a capitalistic market economy is as
-meaningless as to speak of limits of warfare under a warrior society. The
-moral pieties, that are voiced today by many well-meaning environmentalists,
-are as naive as the moral pieties of multinationals are manipulative.
-Capitalism can no more be 'persuaded' to limit growth than a human being can
-be 'persuaded' to stop breathing. Attempts to 'green' capitalism, to make it
-'ecological', are doomed by the very nature of the system as a system of
-endless growth."_ [Bookchin, **Remaking Society**, pp. 93-94]
+> meaningless as to speak of limits of warfare under a warrior society. The
+> moral pieties, that are voiced today by many well-meaning environmentalists,
+> are as naive as the moral pieties of multinationals are manipulative.
+> Capitalism can no more be 'persuaded' to limit growth than a human being can
+> be 'persuaded' to stop breathing. Attempts to 'green' capitalism, to make it
+> 'ecological', are doomed by the very nature of the system as a system of
+> endless growth."_ [Bookchin, **Remaking Society** , pp. 93-94]
 
 As long as capitalism exists, it will **necessarily** continue its _"endless
 devouring of nature,"_ until it removes the _"organic preconditions for human
@@ -145,6 +148,6 @@ arguments are unsound and why libertarian socialism is our best hope for
 preventing ecological catastrophe.
 
 [‹ D.3 How does wealth influence the mass media?](secD3.md "Go to previous
-page" ) [up](secDcon.md "Go to parent page" ) [D.5 What causes imperialism?
-›](secD5.md "Go to next page" )
+page") [up](secDcon.md "Go to parent page") [D.5 What causes imperialism?
+›](secD5.md "Go to next page")
 

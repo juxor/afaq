@@ -33,7 +33,7 @@ this. Yes, some of them point out **some** flaws and problems within society
 but they never relate them to the system as such. As Noam Chomsky points out,
 they _"ignor[e] the catastrophes of capitalism or, on the rare occasions when
 some problem is noticed, attribut[e] them to any cause **other** than the
-system that consistently brings them about."_ [**Deterring Democracy**, p.
+system that consistently brings them about."_ [ **Deterring Democracy** , p.
 232] Thus we have people, say, attacking imperialist adventures while, at the
 same time, supporting the capitalist system which drives it. Or opposing state
 intervention in the name of "freedom" while supporting an economic system
@@ -57,7 +57,7 @@ The thing to remember is that the political and economic spheres are not
 independent. They interact in many ways, with economic forces prompting
 political reactions and changes, and vice versa. Overall, as Kropotkin
 stressed, there are _"intimate links . . . between the political regime and
-the economic regime."_ [**Words of a Rebel**, p. 118] These means that it is
+the economic regime."_ [ **Words of a Rebel** , p. 118] These means that it is
 impossible to talk of, say, capitalism as if it could exist without shaping
 and being shaped by the state and society. Equally, to think that the state
 could intervene as it pleased in the economy fails to take into account the
@@ -66,7 +66,7 @@ the case, as the state _"is a hybridisation of political and social
 institutions, of coercive with distributive functions, of highly punitive with
 regulatory procedures, and finally of class with administrative needs -- this
 melding process has produced very real ideological and practical paradoxes
-that persist as major issues today."_ [Bookchin, **The Ecology of Freedom**,
+that persist as major issues today."_ [Bookchin, **The Ecology of Freedom** ,
 p. 196] These paradoxes can only be solved, anarchists argue, by abolishing
 the state and the social hierarchies it either creates (the state bureaucracy)
 or defends (the economically dominant class). Until then, reforms of the
@@ -79,22 +79,23 @@ based on the same hierarchical principle. Proudhon, for example, regarded
 _"the capitalist principle"_ and _"the governmental principle"_ as _"one and
 the same principle . . . abolition of the exploitation of man by man and the
 abolition of the government of man by man, are one and the same formula."_
-[quoted by Wayne Thorpe, **"The Workers Themselves"**, p. 279] This means that
-anarchists reject the notion that political reforms are enough in themselves
-and instead stress that they must be linked to (or, at least, take into
-account) economic change. This means, for example, while we oppose specific
-imperialist wars and occupation, we recognise that they will reoccur until
-such time as the economic forces which generate them are abolished. Similarly,
-we do not automatically think all attempts to reduce state intervention should
-be supported simply because they appear to reduce the state. Instead, we
-consider who is introducing the reforms, why they are doing so and what the
-results will be. If the "reforms" are simply a case of politicians redirecting
-state intervention away from the welfare state to bolster capitalist power and
-profits, we would not support the change. Anarchist opposition to neo-
-liberalism flows from our awareness of the existence of economic and social
-power and inequality and its impact on society and the political structure.
+[quoted by Wayne Thorpe, **"The Workers Themselves"** , p. 279] This means
+that anarchists reject the notion that political reforms are enough in
+themselves and instead stress that they must be linked to (or, at least, take
+into account) economic change. This means, for example, while we oppose
+specific imperialist wars and occupation, we recognise that they will reoccur
+until such time as the economic forces which generate them are abolished.
+Similarly, we do not automatically think all attempts to reduce state
+intervention should be supported simply because they appear to reduce the
+state. Instead, we consider who is introducing the reforms, why they are doing
+so and what the results will be. If the "reforms" are simply a case of
+politicians redirecting state intervention away from the welfare state to
+bolster capitalist power and profits, we would not support the change.
+Anarchist opposition to neo-liberalism flows from our awareness of the
+existence of economic and social power and inequality and its impact on
+society and the political structure.
 
-In some ways, this section discusses class struggle **from above**, i.e. the
+In some ways, this section discusses class struggle **from above** , i.e. the
 attacks on the working class conducted by the ruling class by means of its
 state. While it appears that every generation has someone insisting that the
 "class war" is dead and/or obsolete (Tony Blair did just that in the late
@@ -122,6 +123,6 @@ anarchists analyse the current system based on our anti-authoritarian
 principles and how the political and economic aspects of capitalism interact.
 
 [‹ Section D - How do statism and capitalism affect society?](secDcon.md "Go
-to previous page" ) [up](secDcon.md "Go to parent page" ) [D.1 Why does
-state intervention occur? ›](secD1.md "Go to next page" )
+to previous page") [up](secDcon.md "Go to parent page") [D.1 Why does state
+intervention occur? ›](secD1.md "Go to next page")
 

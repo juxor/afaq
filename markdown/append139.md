@@ -20,92 +20,89 @@ of household, kin, Thing, even enmity, more than the nexus of cash, bound
 people to each other. The lack of extensive economic differentiation supported
 a weakly differentiated class system . . . [and material] deprivations were
 more evenly distributed than they would be once state institutions also had to
-be maintained."_ [**Bloodtaking and Peacemaking: Feud, Law and Society in Saga
-Iceland**, p. 306]
+be maintained."_ [ **Bloodtaking and Peacemaking: Feud, Law and Society in
+Saga Iceland** , p. 306]
 
 At this time Iceland _"remained entirely rural. There were no towns, not even
 villages, and early Iceland participated only marginally in the active trade
 of Viking Age Scandinavia."_ There was a _"diminished level of stratification,
 which emerged from the first phase of social and economic development, lent an
 appearance of egalitarianism - social stratification was restrained and
-political hierarchy limited."_ [Jesse Byock, **Viking Age Iceland**, p. 2]
+political hierarchy limited."_ [Jesse Byock, **Viking Age Iceland** , p. 2]
 That such a society could be classed as "capitalist" or even considered a
 model for an advanced industrial society is staggering.
 
 Kropotkin in **Mutual Aid** indicates that Norse society, from which the
 settlers in Iceland came, had various "mutual aid" institutions, including
-communal land ownership (based around what he called the _"village
-community"_) and the **thing** (see also Kropotkin's **The State: Its Historic
-Role** for a discussion of the "village community"). It is reasonable to think
-that the first settlers in Iceland would have brought such institutions with
-them and Iceland did indeed have its equivalent of the commune or "village
-community," the **Hreppar**, which developed early in the country's history.
-Like the early local assemblies, it is not much discussed in the Sagas but is
-mentioned in the law book, the Grágás, and was composed of a minimum of twenty
-farms and had a five member commission. The Hreppar was self-governing and,
-among other things, was responsible for seeing that orphans and the poor
-within the area were fed and housed. The Hreppar also served as a property
-insurance agency and assisted in case of fire and losses due to diseased
-livestock.
+communal land ownership (based around what he called the _"village community"_
+) and the **thing** (see also Kropotkin's **The State: Its Historic Role** for
+a discussion of the "village community"). It is reasonable to think that the
+first settlers in Iceland would have brought such institutions with them and
+Iceland did indeed have its equivalent of the commune or "village community,"
+the **Hreppar** , which developed early in the country's history. Like the
+early local assemblies, it is not much discussed in the Sagas but is mentioned
+in the law book, the Grágás, and was composed of a minimum of twenty farms and
+had a five member commission. The Hreppar was self-governing and, among other
+things, was responsible for seeing that orphans and the poor within the area
+were fed and housed. The Hreppar also served as a property insurance agency
+and assisted in case of fire and losses due to diseased livestock.
 
 In addition, as in most pre-capitalist societies, there were "commons", common
 land available for use by all. During the summer, _"common lands and pastures
-in the highlands, often called **almenning**, were used by the region's
+in the highlands, often called **almenning** , were used by the region's
 farmers for grazing."_ This increased the independence of the population from
 the wealthy as these _"public lands offered opportunities for enterprising
 individuals to increase their store of provisions and to find saleable
-merchandise."_ [Jesse Byock, **Op. Cit.**, p. 47 and p. 48]
+merchandise."_ [Jesse Byock, **Op. Cit.** , p. 47 and p. 48]
 
 Thus Icelandic society had a network of solidarity, based upon communal life:
 
-> _ "The status of farmers as free agents was reinforced by the presence of
-communal units called **hreppar** (sing. **hreppr**) . . . these [were]
-geographically defined associations of landowners. . . the **hreppr** were
-self-governing . . . .[and] guided by a five-member steering committee . . .
-As early as the 900s, the whole country seems to have been divided into
-**hreppar** . . . **Hreppar** provided a blanket of local security, allowing
-the landowning farmers a measure of independence to participate in the choices
-of political life . . . _
-
+> _"The status of farmers as free agents was reinforced by the presence of
+> communal units called **hreppar** (sing. **hreppr** ) . . . these [were]
+> geographically defined associations of landowners. . . the **hreppr** were
+> self-governing . . . .[and] guided by a five-member steering committee . . .
+> As early as the 900s, the whole country seems to have been divided into
+> **hreppar** . . . **Hreppar** provided a blanket of local security, allowing
+> the landowning farmers a measure of independence to participate in the
+> choices of political life . . . _
 >
-
 > _"Through copoperation among their members, **hreppar** organised and
-controlled summer grazing lands, organised communal labour, and provided an
-immediate local forum for settling disputes. Crucially, they provided fire and
-livestock insurance for local farmers. . . [They also] saw to the feeding and
-housing of local orphans, and administered poor relief to people who were
-recognised as inhabitants of their area. People who could not provide for
-themselves were assigned to member farms, which took turns in providing for
-them."_ [Byock, **Op. Cit.**, pp. 137-8]
+> controlled summer grazing lands, organised communal labour, and provided an
+> immediate local forum for settling disputes. Crucially, they provided fire
+> and livestock insurance for local farmers. . . [They also] saw to the
+> feeding and housing of local orphans, and administered poor relief to people
+> who were recognised as inhabitants of their area. People who could not
+> provide for themselves were assigned to member farms, which took turns in
+> providing for them."_ [Byock, **Op. Cit.** , pp. 137-8]
 
 In practice this meant that _"each commune was a mutual insurance company, or
 a miniature welfare state. And membership in the commune was not voluntary.
 Each farmer had to belong to the commune in which his farm was located and to
 contribute to its needs."_ [Gissurarson quoted by Birgit T. Runolfsson
 Solvason, **Ordered Anarchy, State and Rent-Seeking: The Icelandic
-Commonwealth, 930-1262**] The Icelandic Commonwealth did not allow farmers
-**not** to join its communes and _"[o]nce attached to the local **hreppr**, a
+Commonwealth, 930-1262** ] The Icelandic Commonwealth did not allow farmers
+**not** to join its communes and _"[o]nce attached to the local **hreppr** , a
 farm's affliation could not be changed."_ However, they did play a key role in
 keeping the society free as the **hreppr** _"was essentially non-political and
 addressed subsistence and economic security needs. Its presence freed farmers
 from depending on an overclass to provide comparable services or corresponding
-security measures."_ [Byock, **Op. Cit.**, p. 138]
+security measures."_ [Byock, **Op. Cit.** , p. 138]
 
 Therefore, the Icelandic Commonwealth can hardly be claimed in any significant
 way as an example of "anarcho"-capitalism in practice. This can also be seen
 from the early economy, where prices were subject to popular judgement at the
-**skuldaping** (_"payment-thing"_) **not** supply and demand. [Kirsten
-Hastrup, **Culture and History in Medieval Iceland**, p. 125] Indeed, with its
-communal price setting system in local assemblies, the early Icelandic
+**skuldaping** ( _"payment-thing"_ ) **not** supply and demand. [Kirsten
+Hastrup, **Culture and History in Medieval Iceland** , p. 125] Indeed, with
+its communal price setting system in local assemblies, the early Icelandic
 commonwealth was more similar to Guild Socialism (which was based upon guild's
 negotiating "just prices" for goods and services) than capitalism. Therefore
 Miller correctly argues that it would be wrong to impose capitalist ideas and
 assumptions onto Icelandic society:
 
 > _"Inevitably the attempt was made to add early Iceland to the number of
-regions that socialised people in nuclear families within simple households. .
-. what the sources tell us about the shape of Icelandic householding must
-compel a different conclusion."_ [**Op. Cit.**, p. 112]
+> regions that socialised people in nuclear families within simple households.
+> . . what the sources tell us about the shape of Icelandic householding must
+> compel a different conclusion."_ [ **Op. Cit.** , p. 112]
 
 In other words, Kropotkin's analysis of communal society is far closer to the
 reality of Medieval Iceland than "anarcho"-capitalist attempts to turn it into
@@ -131,19 +128,20 @@ existed between landowners and landless people and between free men and
 slaves."_ This meant it was _"marked by aspects of statelessness and
 egalitarianism as well as elements of social hierarchy . . . Although Iceland
 was not a democratic system, proto-democratic tendencies existed."_ [Byock,
-**Op. Cit.**, p. 64 and p. 65] The Icelandic social system was designed to
+**Op. Cit.** , p. 64 and p. 65] The Icelandic social system was designed to
 reduce the power of the wealthy by enhancing communal institutions:
 
 > _"The society . . . was based on a system of decentralised self-government .
-. . The Viking Age settlers began by establishing local things, or assemblies,
-which had been the major forum for meetings of freemen and aristocrats in the
-old Scandinavian and Germanic social order. . . They [the Icelanders] excluded
-overlords with coercive power and expended the mandate of the assembly to fill
-the full spectrum of the interests of the landed free farmers. The changes
-transformed a Scandinavian decision-making body that mediated between freemen
-and overlords into an Icelandic self-contained governmental system without
-overlords. At the core of Icelandic government was the Althing, a national
-assembly of freemen."_ [Byock, **Op. Cit.**, p. 75]
+> . . The Viking Age settlers began by establishing local things, or
+> assemblies, which had been the major forum for meetings of freemen and
+> aristocrats in the old Scandinavian and Germanic social order. . . They [the
+> Icelanders] excluded overlords with coercive power and expended the mandate
+> of the assembly to fill the full spectrum of the interests of the landed
+> free farmers. The changes transformed a Scandinavian decision-making body
+> that mediated between freemen and overlords into an Icelandic self-contained
+> governmental system without overlords. At the core of Icelandic government
+> was the Althing, a national assembly of freemen."_ [Byock, **Op. Cit.** , p.
+> 75]
 
 Therefore we see communal self-management in a basic form, **plus** co-
 operation between communities as well. These communistic, mutual-aid features
@@ -165,22 +163,22 @@ another godi. . . As a result rivalry arose between the godar [chiefs]; as may
 be seen from the Icelandic Sagas."_ This was because, while there were _"a
 central legislature and uniform, country-wide judicial and legal systems,"_
 people would seek the protection of any godi, providing payment in return.
-[Byock, **Op. Cit.**, p. 2] These godi, in effect, would be subject to "market
-forces," as dissatisfied individuals could affiliate themselves to other godi.
-This system, however, had an obvious (and fatal) flaw. As the **Encyclopaedia
-Britannica** points out:
+[Byock, **Op. Cit.** , p. 2] These godi, in effect, would be subject to
+"market forces," as dissatisfied individuals could affiliate themselves to
+other godi. This system, however, had an obvious (and fatal) flaw. As the
+**Encyclopaedia Britannica** points out:
 
 > _"The position of the godi could be bought and sold, as well as inherited;
-consequently, with the passing of time, the godord for large areas of the
-country became concentrated in the hands of one man or a few men. This was the
-principal weakness of the old form of government: it led to a struggle of
-power and was the chief reason for the ending of the commonwealth and for the
-country's submission to the King of Norway."_
+> consequently, with the passing of time, the godord for large areas of the
+> country became concentrated in the hands of one man or a few men. This was
+> the principal weakness of the old form of government: it led to a struggle
+> of power and was the chief reason for the ending of the commonwealth and for
+> the country's submission to the King of Norway."_
 
 It was the existence of these hierarchical elements in Icelandic society that
 explain its fall from anarchistic to statist society. As Kropotkin argued
 _"from chieftainship sprang on the one hand the State and on the other
-**private** property."_ [**Act for Yourselves**, p. 85] Kropotkin's insight
+**private** property."_ [ **Act for Yourselves** , p. 85] Kropotkin's insight
 that chieftainship is a transitional system has been confirmed by
 anthropologists studying "primitive" societies. They have come to the
 conclusion that societies made up of chieftainships or chiefdoms are not
@@ -188,7 +186,7 @@ states: _"Chiefdoms are neither stateless nor state societies in the fullest
 sense of either term: they are on the borderline between the two. Having
 emerged out of stateless systems, they give the impression of being on their
 way to centralised states and exhibit characteristics of both."_ [Y. Cohen
-quoted by Birgit T. Runolfsson Solvason, **Op. Cit.**] Since the Commonwealth
+quoted by Birgit T. Runolfsson Solvason, **Op. Cit.** ] Since the Commonwealth
 was made up of chiefdoms, this explains the contradictory nature of the
 society - it was in the process of transition, from anarchy to statism, from a
 communal economy to one based on private property.
@@ -204,7 +202,7 @@ slowly displaced by tenant farming, in which the farmer worked for a landlord,
 starting in the late 11th century. This economic system (based on tenant
 farming, i.e. capitalistic production) ensured that _"great variants of
 property and power emerged."_ [Kirsten Hastrup, **Culture and History in
-Medieval Iceland**, pp. 172-173]
+Medieval Iceland** , pp. 172-173]
 
 So significant changes in society started to occur in the eleventh century, as
 _"slavery all but ceased. Tenant farming . . . took [its] place."_ Iceland was
@@ -216,7 +214,7 @@ and so the mid- to late-twelfth century was _"characterised by the appearance
 of a new elite, the big chieftains who are called storgodar . . . [who]
 struggled from the 1220s to the 1260s to win what had earlier been
 unobtainable for Icelandic leaders, the prize of overlordship or centralised
-executive authority."_ [Byock, **Op. Cit.**, p. 269 and pp. 3-4]
+executive authority."_ [Byock, **Op. Cit.** , p. 269 and pp. 3-4]
 
 During this evolution in ownership patterns and the concentration of wealth
 and power into the hands of a few, we should note that the godi's and wealthy
@@ -227,17 +225,17 @@ kin and Thing was replaced by the nexus of cash and profit. The rise of
 capitalistic social relationships in production and values within society was
 also reflected in exchange, with the local marketplace, with its pricing
 _"subject to popular judgement"_ being _"subsumed under central markets."_
-[Hastrup, **Op. Cit.**, p. 225]
+[Hastrup, **Op. Cit.** , p. 225]
 
 With a form of wage labour (tenant farming) being dominant within society, it
 is not surprising that great differences in wealth started to appear. Also, as
 protection did not come free, it is not surprising that a godi tended to
 become rich also (in Kropotkin's words, _"the individual accumulation of
-wealth and power"_). Powerful godi would be useful for wealthy landowners when
-disputes over land and rent appeared, and wealthy landowners would be useful
-for a godi looking for income. Concentrations of wealth, in other words,
-produce concentrations of social and political power (and vice versa) --
-_"power always follows wealth."_ [Kropotkin, **Mutual Aid**, p. 131]
+wealth and power"_ ). Powerful godi would be useful for wealthy landowners
+when disputes over land and rent appeared, and wealthy landowners would be
+useful for a godi looking for income. Concentrations of wealth, in other
+words, produce concentrations of social and political power (and vice versa)
+-- _"power always follows wealth."_ [Kropotkin, **Mutual Aid** , p. 131]
 
 The transformation of **possession** into **property** and the resulting rise
 of hired labour was a **key** element in the accumulation of wealth and power,
@@ -247,11 +245,11 @@ relations with their landlord in order to have access to the land they need.
 With such reductions in the independence of part of Icelandic society, the
 undermining of self-management in the various Things was also likely as
 labourers could not vote freely as they could be subject to sanctions from
-their landlord for voting the "wrong" way (_"The courts were less likely to
+their landlord for voting the "wrong" way ( _"The courts were less likely to
 base judgements on the evidence than to adjust decisions to satisfy the honour
-and resources of powerful individuals."_ [Byock, **Op. Cit.**, p. 185]).. Thus
-hierarchy within the economy would spread into the rest of society, and in
-particular its social institutions, reinforcing the effects of the
+and resources of powerful individuals."_ [Byock, **Op. Cit.** , p. 185])..
+Thus hierarchy within the economy would spread into the rest of society, and
+in particular its social institutions, reinforcing the effects of the
 accumulation of wealth and power.
 
 The resulting classification of Icelandic society played a key role in its
@@ -259,15 +257,15 @@ move from relative equality and anarchy to a class society and statism. As
 Millar points out:
 
 > _"as long as the social organisation of the economy did not allow for people
-to maintain retinues, the basic egalitarian assumptions of the honour system.
-. . were reflected reasonably well in reality. . . the mentality of hierarchy
-never fully extricated itself from the egalitarian ethos of a frontier society
-created and recreated by juridically equal farmers. Much of the egalitarian
-ethic maintained itself even though it accorded less and less with economic
-realities. . . by the end of the commonwealth period certain assumptions about
-class privilege and expectations of deference were already well enough
-established to have become part of the lexicon of self-congratulation and
-self-justification."_ [**Op. Cit.**, pp. 33-4]
+> to maintain retinues, the basic egalitarian assumptions of the honour
+> system. . . were reflected reasonably well in reality. . . the mentality of
+> hierarchy never fully extricated itself from the egalitarian ethos of a
+> frontier society created and recreated by juridically equal farmers. Much of
+> the egalitarian ethic maintained itself even though it accorded less and
+> less with economic realities. . . by the end of the commonwealth period
+> certain assumptions about class privilege and expectations of deference were
+> already well enough established to have become part of the lexicon of self-
+> congratulation and self-justification."_ [ **Op. Cit.** , pp. 33-4]
 
 This process in turn accelerated the destruction of communal life and the
 emergence of statism, focused around the godord. In effect, the godi and
@@ -276,12 +274,12 @@ reflected economic changes from a communalistic, anarchistic society to a
 statist, propertarian one. Ironically, this process was a natural aspect of
 the system of competing chiefs recommended by "anarcho"-capitalists:
 
-> _ "In the twelfth and thirteenth centuries Icelandic society experienced
-changes in the balance of power. As part of the evolution to a more stratified
-social order, the number of chieftains diminished and the power of the
-remaining leaders grew. By the thirteenth century six large families had come
-to monopolise the control and ownership of many of the original
-chieftaincies."_ [Byock, **Op. Cit.**, p. 341]
+> _"In the twelfth and thirteenth centuries Icelandic society experienced
+> changes in the balance of power. As part of the evolution to a more
+> stratified social order, the number of chieftains diminished and the power
+> of the remaining leaders grew. By the thirteenth century six large families
+> had come to monopolise the control and ownership of many of the original
+> chieftaincies."_ [Byock, **Op. Cit.** , p. 341]
 
 These families were called **storgodar** and they _"gained control over whole
 regions."_ This process was not imposed, as _"the rise in social complexity
@@ -290,9 +288,9 @@ ladder."_ This political change reflected economic processes, for _"[a]t the
 same time other social transformations were at work. In conjunction with the
 development of the **storgadar** elite, the most successful among the
 **baendr** [farmers] also moved up a rung on the social ladder, being 'big
-farmers' or **Storbaendr**"_ [**Op. Cit.**, p. 342] Unsurprisingly, it was the
-rich farmers who initiated the final step towards normal statism and by the
-1250s the **storbaendr** and their followers had grown weary of the
+farmers' or **Storbaendr** "_ [ **Op. Cit.** , p. 342] Unsurprisingly, it was
+the rich farmers who initiated the final step towards normal statism and by
+the 1250s the **storbaendr** and their followers had grown weary of the
 **storgodar** and their quarrels. In the end they accepted the King of
 Norway's offer to become part if his kingdom.
 
@@ -303,7 +301,7 @@ This process, wherein the concentration of wealth leads to the destruction of
 communal life and so the anarchistic aspects of a given society, can be seen
 elsewhere, for example, in the history of the United States after the
 Revolution or in the degeneration of the free cities of Medieval Europe. Peter
-Kropotkin, in his classic work **Mutual Aid**, documents this process in some
+Kropotkin, in his classic work **Mutual Aid** , documents this process in some
 detail, in many cultures and time periods. However, that this process occurred
 in a society which is used by "anarcho"-capitalists as an example of their
 system in action reinforces the anarchist analysis of the statist nature of
@@ -315,12 +313,12 @@ state. The first steps toward state formation in Iceland were made by
 churchmen. . . and by the big men content with imitating Norwegian royal
 style. Early state formation, I would guess, tended to involve
 redistributions, not from rich to poor, but from poor to rich, from weak to
-strong."_ [**Op. Cit.**, p. 306]
+strong."_ [ **Op. Cit.** , p. 306]
 
 The "anarcho"-capitalist argument that Iceland was an example of their
 ideology working in practice is derived from the work of David Friedman.
 Friedman is less gun-ho than many of his followers, arguing in **The Machinery
-of Freedom**, that Iceland only had some features of an "anarcho"-capitalist
+of Freedom** , that Iceland only had some features of an "anarcho"-capitalist
 society and these provide some evidence in support of his ideology. How a pre-
 capitalist society can provide any evidence to support an ideology aimed at an
 advanced industrial and urban economy is hard to say as the institutions of
@@ -350,11 +348,11 @@ origins . . . On the mainland, kings were enlarging their authority at the
 expense of the traditional rights of free farmers. The emigrants to Iceland
 were well aware of this process . . . available evidence does suggest that the
 early Icelanders knew quite well what they did not want. In particular they
-were collectively opposed to the centralising aspects of a state."_ [**Op.
-Cit.**, p. 64-6] Unless some kind of collective and cultural amnesia occurred,
-the notion of a "foreign ideology" causing the degeneration is hard to accept.
-Moreover, only the concentration of wealth allowed would-be Kings the
-opportunity to develop and act and the creation of boss-worker social
+were collectively opposed to the centralising aspects of a state."_ [ **Op.
+Cit.** , p. 64-6] Unless some kind of collective and cultural amnesia
+occurred, the notion of a "foreign ideology" causing the degeneration is hard
+to accept. Moreover, only the concentration of wealth allowed would-be Kings
+the opportunity to develop and act and the creation of boss-worker social
 relationships on the land made the poor subject to, and familiar with, the
 concept of authority. Such familiarity would spread into all aspects of life
 and, combined with the existence of "prosperous" (and so powerful) godi to
@@ -378,7 +376,7 @@ might be true; this was one of the problems which led to the eventual
 breakdown of the Icelandic legal system in the thirteenth century. But so long
 as power was reasonably dispersed, as it seem to have been for the first two
 centuries after the system was established, this was a less serious problem."_
-[**Op. Cit.**]
+[ **Op. Cit.** ]
 
 Which is quite ironic. Firstly, because the first two centuries of Icelandic
 society was marked by **non-capitalist** economic relations (communal pricing
@@ -430,7 +428,7 @@ state and rule by the rich. Medieval Iceland is a classic example of this
 process at work.
 
 [‹ 8 What role did the state take in the creation of
-capitalism?](append138.md "Go to previous page" ) [up](append13.md "Go to
-parent page" ) [10 Would laissez-faire capitalism be stable?
-›](append1310.md "Go to next page" )
+capitalism?](append138.md "Go to previous page") [up](append13.md "Go to
+parent page") [10 Would laissez-faire capitalism be stable? ›](append1310.md
+"Go to next page")
 

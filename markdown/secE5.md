@@ -37,11 +37,11 @@ information required to countermand the power and persuasion of advertising
 and the work of PR experts. This helps explain why, for example, _"large
 agribusiness firms are now attempting, like Soviet commissars, to stifle
 criticism of their policies"_ by means of _"veggie libel laws."_ These laws,
-which in 2001 had been passed in 13 American states (_"backed by
-agribusiness"_) _"make it illegal to criticise agricultural commodities in a
+which in 2001 had been passed in 13 American states ( _"backed by
+agribusiness"_ ) _"make it illegal to criticise agricultural commodities in a
 manner inconsistent with 'reasonable' scientific evidence. The whole concept
 of 'veggie libel' laws is probably unconstitutional; nevertheless, these laws
-remain on the books."_ [Eric Schlosser, **Fast Food Nation**, p. 266]
+remain on the books."_ [Eric Schlosser, **Fast Food Nation** , p. 266]
 
 We should not discount the impact of PR experts in shaping the way people see
 the world or decide to consume. A lot of resources are poured into corporate
@@ -51,15 +51,15 @@ _"propagandising and lobbying **against** environmental protection is called
 'environmental' or 'green' PR. 'Greenwashing' is a more accurate pejorative
 now commonly used to describe the ways that polluters employ deceptive PR to
 falsely paint themselves an environmentally responsible public image . . .
-Today a virulent, pro-industry, **anti**-environmentalism is on the rise . . .
-PR experts . . . are waging and winning a war against environmentalists on
+Today a virulent, pro-industry, **anti** -environmentalism is on the rise . .
+. PR experts . . . are waging and winning a war against environmentalists on
 behalf of corporate clients in the chemical, energy, food, automobile,
 forestry and mining industries."_ A significant amount of cash is spent (an
 estimated $1 billion a year by the mid-1990s) _"on the services of anti-
 environmental PR professionals and on 'greenwashing' their corporate image."_
-[**Toxic Sludge is Good for You!**, p. 125] See the chapter called _"Silencing
-Spring"_ in Stauber's and Rampton's book **Toxic Sludge is Good for You!** for
-a good summary of this use of PR firms.
+[ **Toxic Sludge is Good for You!** , p. 125] See the chapter called
+_"Silencing Spring"_ in Stauber's and Rampton's book **Toxic Sludge is Good
+for You!** for a good summary of this use of PR firms.
 
 Even apparently ecologically friendly firms like "The Body Shop" can present a
 false image of what they do. For example, journalist Jon Entine investigated
@@ -69,19 +69,19 @@ countries). Entine also discovered that the company also used many outdated,
 off-the-shelf product formulas filled with non-renewable petrochemicals as
 well as animal tested ingredients. When Entine contacted the company he
 received libel threats and it hired a PR company to combat his story. [Stauber
-and Rampton, **Op. Cit.**, pp. 74-5] This highlights the dangers of looking to
-consumerism to solve ecological problems. As Entine argued:
+and Rampton, **Op. Cit.** , pp. 74-5] This highlights the dangers of looking
+to consumerism to solve ecological problems. As Entine argued:
 
-> _ "The Body Shop is a corporation with the privileges and power in society
-as all others. Like other corporations it makes products that are
-unsustainable, encourages consumerism, uses non-renewable materials, hires
-giant PR and law firms, and exaggerates its environment policies. If we are to
-become a sustainable society, it is crucial that we have institutions . . .
-that are truly sustainable. The Body Shop has deceived the public by trying to
-make us think that they are a lot further down the road to sustainability than
-they really are. We should . . . no longer . . . lionise the Body Shop and
-others who claim to be something they are not."_ [quoted by Stauber and
-Rampton, **Op. Cit.**, p. 76]
+> _"The Body Shop is a corporation with the privileges and power in society as
+> all others. Like other corporations it makes products that are
+> unsustainable, encourages consumerism, uses non-renewable materials, hires
+> giant PR and law firms, and exaggerates its environment policies. If we are
+> to become a sustainable society, it is crucial that we have institutions . .
+> . that are truly sustainable. The Body Shop has deceived the public by
+> trying to make us think that they are a lot further down the road to
+> sustainability than they really are. We should . . . no longer . . . lionise
+> the Body Shop and others who claim to be something they are not."_ [quoted
+> by Stauber and Rampton, **Op. Cit.** , p. 76]
 
 Even ignoring the distorting influence of advertising and corporate-paid PR,
 the fundamental issue remains of whether consumerism can actually
@@ -90,7 +90,7 @@ the arguments well in his excellent book on "Fast Food" (from the
 industrialisation of farming, to the monopolisation of food processing, to the
 standardisation of food consumption it). As he puts corporations will _"sell
 free-range, organic, grass-fed hamburgers if you demand it. They will sell
-whatever sells at a profit."_ [Eric Schlosser, **Op. Cit.**, p. 269] He
+whatever sells at a profit."_ [Eric Schlosser, **Op. Cit.** , p. 269] He
 complements this position by suggesting various regulations and some role for
 trade unions.
 
@@ -101,7 +101,7 @@ unlikely that using the market will make capitalism nicer. Sadly, the market
 rewards the anti-social activities that Schlosser and other environmentalists
 chronicle. As he himself notes, the _"low price of a fast food hamburger does
 not reflect its real cost . . . The profits of the fast food chains have been
-made possible by the losses imposed on the rest of society."_ [**Op. Cit.**,
+made possible by the losses imposed on the rest of society."_ [ **Op. Cit.** ,
 p. 261] This means that the idea that by using the market we can "reform"
 capitalism is flawed simply because even "good" companies have to make a
 profit and so will be tempted to cut costs, inflict them on third parties
@@ -123,8 +123,8 @@ practices (except theft), he would be open to criticism of behaving
 'uneconomically' which is viewed as nothing less than a fall from grace.
 Economists and others are wont to treat such eccentric behaviour with derision
 if not indignation. The religion of economics has its own code of ethics, and
-the First Commandment is to behave 'economically.'"_ [**Small is Beautiful**,
-p. 30] And, of course, such a consumer would face numerous competitors who
+the First Commandment is to behave 'economically.'"_ [ **Small is Beautiful**
+, p. 30] And, of course, such a consumer would face numerous competitors who
 will happily take advantage of such activities.
 
 Then there is the issue of how the market system hides much more information
@@ -232,28 +232,29 @@ Ultimately, green consumerism _"reduces people to consumers. Their power to
 influence society is reduced to their purchasing power."_ It _"does not deal
 with issues such as economic growth on a finite planet, the power of
 transnational corporations, and the way power is structured in our society."_
-[**Global Spin**, pp. 176-80]
+[ **Global Spin** , pp. 176-80]
 
 Andrew Watson sums up green consumerism very eloquently as follows:
 
-> _ "green consumerism, which is largely a cynical attempt to maintain profit
-margins, does not challenge capital's eco-cidal accumulation, but actually
-facilitates it by opening a new market. All products, no matter how 'green',
-cause some pollution, use some resources and energy, and cause some ecological
-disturbance. This would not matter in a society in which production was
-rationally planned, but in an exponentially expanding economy, production,
-however 'green', would eventually destroy the Earth's environment. Ozone-
-friendly aerosols, for example, still use other harmful chemicals; create
-pollution in their manufacture, use and disposal; and use large amounts of
-resources and energy. Of course, up to now, the green pretensions of most
-companies have been exposed largely as presenting an acceptably green image,
-with little or no substance. The market is presented as the saviour of the
-environment. Environmental concern is commodified and transformed into
-ideological support for capitalism. Instead of raising awareness of the causes
-of the ecological crisis, green consumerism mystifies them. The solution is
-presented as an individual act rather than as the collective action of
-individuals struggling for social change. The corporations laugh all the way
-to the bank."_ [**From Green to Red**, pp. 9-10]
+> _"green consumerism, which is largely a cynical attempt to maintain profit
+> margins, does not challenge capital's eco-cidal accumulation, but actually
+> facilitates it by opening a new market. All products, no matter how 'green',
+> cause some pollution, use some resources and energy, and cause some
+> ecological disturbance. This would not matter in a society in which
+> production was rationally planned, but in an exponentially expanding
+> economy, production, however 'green', would eventually destroy the Earth's
+> environment. Ozone-friendly aerosols, for example, still use other harmful
+> chemicals; create pollution in their manufacture, use and disposal; and use
+> large amounts of resources and energy. Of course, up to now, the green
+> pretensions of most companies have been exposed largely as presenting an
+> acceptably green image, with little or no substance. The market is presented
+> as the saviour of the environment. Environmental concern is commodified and
+> transformed into ideological support for capitalism. Instead of raising
+> awareness of the causes of the ecological crisis, green consumerism
+> mystifies them. The solution is presented as an individual act rather than
+> as the collective action of individuals struggling for social change. The
+> corporations laugh all the way to the bank."_ [ **From Green to Red** , pp.
+> 9-10]
 
 "Ethical" consumerism, like "ethical" investment, is still based on profit
 making, the extraction of surplus value from others. This is hardly "ethical,"
@@ -295,8 +296,8 @@ surrendered their social power, indeed, their very personalities, to
 politicians and bureaucrats who live in a nexus of obedience and command in
 which they are normally expected to play subordinate roles. **Yet this is
 precisely the immediate cause of the ecological crisis of our time** \-- a
-cause that has its historic roots in the market society that engulfs us."_
-[**Toward an Ecological Society**, p. 81] This means that fighting ecological
+cause that has its historic roots in the market society that engulfs us."_ [
+**Toward an Ecological Society** , p. 81] This means that fighting ecological
 destruction today must be a **social** movement rather than one of individual
 consumption decisions or personalistic transformation. These can go on without
 questioning the ecocidal drive of capitalism which _"will insidiously simplify
@@ -307,7 +308,7 @@ integrity and viability. The state will still be an ever-present means for
 keeping oppressed people at bay and will 'manage' whatever crises emerge as
 best it can. Ultimately, society will tend to become more and more
 authoritarian, public life will atrophy."_ [Bookchin, _"The Future of the
-Ecology Movement,"_ pp. 1-20, **Which Way for the Ecology Movement?**, p. 14]
+Ecology Movement,"_ pp. 1-20, **Which Way for the Ecology Movement?** , p. 14]
 
 All this is not to suggest that individual decisions on what to consume are
 irrelevant, far from it. Nor are consumer boycotts a waste of time. If
@@ -315,30 +316,28 @@ organised into mass movements and linked to workplace struggle they can be
 very effective. It is simply to point out that individual actions, important
 as they are, are no solution to **social** problems. Thus Bookchin:
 
-> _ "The fact is that we are confronted by a thoroughly irrational social
-system, not simply by predatory individuals who can be won over to ecological
-ideas by moral arguments, psychotherapy, or even the challenges of a troubled
-public to their products and behaviour . . . One can only commend the
-individuals who by virtue of their consumption habits, recycling activities.
-and appeals for a new sensibility undertake public activities to stop
-ecological degradation. Each surely does his or her part. But it will require
-a much greater effort -- and organised, clearly conscious, and forward-looking
-political **movement** \-- to meet the basic challenges posed by our
-aggressively **anti**-ecological society.  
+> _"The fact is that we are confronted by a thoroughly irrational social
+> system, not simply by predatory individuals who can be won over to
+> ecological ideas by moral arguments, psychotherapy, or even the challenges
+> of a troubled public to their products and behaviour . . . One can only
+> commend the individuals who by virtue of their consumption habits, recycling
+> activities. and appeals for a new sensibility undertake public activities to
+> stop ecological degradation. Each surely does his or her part. But it will
+> require a much greater effort -- and organised, clearly conscious, and
+> forward-looking political **movement** \-- to meet the basic challenges
+> posed by our aggressively **anti** -ecological society.  
 >  _
-
 >
-
 > _"Yes, we as individuals should change our lifestyles as much as possible,
-but it is the utmost short-sightedness to believe that that is all or even
-primarily what we have to do. We need to restructure the entire society, even
-as we engage in lifestyle changes and single-issue struggles against
-pollution, nuclear power plants, the excessive use of fossil fuels, the
-destruction of soil, and so forth. We must have a coherent analysis of the
-deep-seated hierarchical relationships and systems of domination, as well as
-class relationships and economic exploitation, that degrade people as well as
-the environment."_ [_"The Ecological Crisis, Socialism, and the need to remake
-society,"_ pp. 1-10, **Society and Nature**, vol. 2, no. 3, p. 4]
+> but it is the utmost short-sightedness to believe that that is all or even
+> primarily what we have to do. We need to restructure the entire society,
+> even as we engage in lifestyle changes and single-issue struggles against
+> pollution, nuclear power plants, the excessive use of fossil fuels, the
+> destruction of soil, and so forth. We must have a coherent analysis of the
+> deep-seated hierarchical relationships and systems of domination, as well as
+> class relationships and economic exploitation, that degrade people as well
+> as the environment."_ [ _"The Ecological Crisis, Socialism, and the need to
+> remake society,"_ pp. 1-10, **Society and Nature** , vol. 2, no. 3, p. 4]
 
 Using the capitalist market to combat the effects produced by that same market
 is no alternative. Until capitalism and the state are dismantled, solutions
@@ -353,6 +352,6 @@ As such, ethical consumerism does not break from the logic of capitalism and
 so is doomed to failure.
 
 [‹ E.4 Can laissez-faire capitalism protect the environment?](secE4.md "Go
-to previous page" ) [up](secEcon.md "Go to parent page" ) [E.6 What is the
-population myth? ›](secE6.md "Go to next page" )
+to previous page") [up](secEcon.md "Go to parent page") [E.6 What is the
+population myth? ›](secE6.md "Go to next page")
 

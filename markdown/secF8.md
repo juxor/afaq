@@ -5,8 +5,8 @@ capitalism is non-statist or that it can exist without a state, it must be
 shown that capitalism evolved naturally, in opposition to state intervention.
 In reality, the opposite is the case. Capitalism was born from state
 intervention. In the words of Kropotkin, _"the State . . . and capitalism . .
-. developed side by side, mutually supporting and re-enforcing each other."_
-[**Anarchism**, p. 181]
+. developed side by side, mutually supporting and re-enforcing each other."_ [
+**Anarchism** , p. 181]
 
 Numerous writers have made this point. For example, in Karl Polanyi's flawed
 masterpiece **The Great Transformation** we read that _"the road to the free
@@ -21,23 +21,23 @@ enriched the European economy, giving the development of capitalism an added
 boost. Thus Kropotkin:
 
 > _"The history of the genesis of capital has already been told by socialists
-many times. They have described how it was born of war and pillage, of slavery
-and serfdom, of modern fraud and exploitation. They have shown how it is
-nourished by the blood of the worker, and how little by little it has
-conquered the whole world . . . Law . . . has followed the same phases as
-capital . . . they have advanced hand in hand, sustaining one another with the
-suffering of mankind."_ [**Op. Cit.**, p. 207]
+> many times. They have described how it was born of war and pillage, of
+> slavery and serfdom, of modern fraud and exploitation. They have shown how
+> it is nourished by the blood of the worker, and how little by little it has
+> conquered the whole world . . . Law . . . has followed the same phases as
+> capital . . . they have advanced hand in hand, sustaining one another with
+> the suffering of mankind."_ [ **Op. Cit.** , p. 207]
 
 This process is what Karl Marx termed _**"primitive accumulation"**_ and was
 marked by extensive state violence. Capitalism, as he memorably put it,
 _"comes dripping from head to toe, from every pore, with blood and dirt"_ and
 the _"starting-point of the development that gave rise both to the wage-
-labourer and to the capitalist was the enslavement of the worker."_
-[**Capital**, vol. 1, p. 926 and p. 875] Or, if Kropotkin and Marx seem too
+labourer and to the capitalist was the enslavement of the worker."_ [
+**Capital** , vol. 1, p. 926 and p. 875] Or, if Kropotkin and Marx seem too
 committed to be fair, we have John Stuart Mill's summary that the _"social
 arrangements of modern Europe commenced from a distribution of property which
 was the result, not of just partition, or acquisition by industry, but of
-conquest and violence."_ [**Principles of Political Economy**, p. 15]
+conquest and violence."_ [ **Principles of Political Economy** , p. 15]
 
 The same can be said of all countries. As such, when supporters of
 "libertarian" capitalism say they are against the "initiation of force," they
@@ -53,19 +53,20 @@ argued, _"the concept of a 'primitive accumulation,' or an original store of
 wealth, in land and in movable property, brought about by means of purely
 economic forces"_ while _"seem[ing] quite plausible"_ is in fact _"utterly
 mistaken; it is a 'fairly tale,' or it is a class theory used to justify the
-privileges of the upper classes."_ [**The State**, pp. 5-6] As Individualist
+privileges of the upper classes."_ [ **The State** , pp. 5-6] As Individualist
 anarchist Kevin Carson summarised as part of his excellent overview of this
 historic process:
 
-> _ "Capitalism has never been established by means of the free market. It has
-always been established by a revolution from above, imposed by a ruling class
-with its origins in the Old Regime . . . by a pre-capitalist ruling class that
-had been transformed in a capitalist manner. In England, it was the landed
-aristocracy; in France, Napoleon III's bureaucracy; in Germany, the Junkers;
-in Japan, the Meiji. In America, the closest approach to a 'natural' bourgeois
-evolution, industrialisation was carried out by a mercantilist aristocracy of
-Federalist shipping magnates and landlords."_ [_"Primitive Accumulation and
-the Rise of Capitalism,"_ **Studies in Mutualist Political Economy**]
+> _"Capitalism has never been established by means of the free market. It has
+> always been established by a revolution from above, imposed by a ruling
+> class with its origins in the Old Regime . . . by a pre-capitalist ruling
+> class that had been transformed in a capitalist manner. In England, it was
+> the landed aristocracy; in France, Napoleon III's bureaucracy; in Germany,
+> the Junkers; in Japan, the Meiji. In America, the closest approach to a
+> 'natural' bourgeois evolution, industrialisation was carried out by a
+> mercantilist aristocracy of Federalist shipping magnates and landlords."_ [
+> _"Primitive Accumulation and the Rise of Capitalism,"_ **Studies in
+> Mutualist Political Economy** ]
 
 This, the actual history of capitalism, will be discussed in the following
 sections. So it is ironic to hear right-"libertarians" sing the praises of a
@@ -79,8 +80,8 @@ the New England industrial sector would have gone bankrupt without very high
 protective tariffs, thus terminating industrial development in the United
 States? Or the high tariffs that radically undermined economic efficiency to
 allow the United States to develop steel and other manufacturing capacities?
-Or the gross distortions of the market that created modern electronics?"_
-[**World Orders, Old and New**, p. 168] Such state interference in the economy
+Or the gross distortions of the market that created modern electronics?"_ [
+**World Orders, Old and New** , p. 168] Such state interference in the economy
 is often denounced and dismissed by right-"libertarians" as mercantilism.
 However, to claim that "mercantilism" is not capitalism makes little sense.
 Without mercantilism, "proper" capitalism would never have developed, and any
@@ -103,7 +104,7 @@ operates two transformations, whereby the social means of subsistence and
 production are turned into capital, and the immediate producers are turned
 into wage-labourers. So-called primitive accumulation, therefore, is nothing
 else than the historical process of divorcing the producer from the means of
-production."_ [Marx, **Op. Cit.**, pp. 874-5] So to claim that **now** (after
+production."_ [Marx, **Op. Cit.** , pp. 874-5] So to claim that **now** (after
 capitalism has been created) we get the chance to try and live as we like is
 insulting in the extreme. The available options we have are not independent of
 the society we live in and are decisively shaped by the past. To claim we are
@@ -123,14 +124,14 @@ represented the political-economic program of a specific fraction of the
 capitalist class rather than a set of principles of "hands off the market." As
 individualist anarchist Kevin Carson summaries, _"what is nostalgically called
 'laissez-faire' was in fact a system of continuing state intervention to
-subsidise accumulation, guarantee privilege, and maintain work discipline."_
-[**The Iron Fist behind the Invisible Hand**] Moreover, there is the apparent
+subsidise accumulation, guarantee privilege, and maintain work discipline."_ [
+**The Iron Fist behind the Invisible Hand** ] Moreover, there is the apparent
 unwillingness by such "free market" advocates (i.e. supporters of "free
 market" capitalism) to distinguish between historically and currently unfree
 capitalism and the other truly free market economy that they claim to desire.
 It is common to hear "anarcho"-capitalists point to the state-based capitalist
 system as vindication of their views (and even more surreal to see them point
-to **pre**-capitalist systems as examples of their ideology). It should be
+to **pre** -capitalist systems as examples of their ideology). It should be
 obvious that they cannot have it both ways.
 
 In other words, Rothbard and other "anarcho"-capitalists treat capitalism as
@@ -155,7 +156,7 @@ have succeeded without the bourgeois state; the fact is that all capitalist
 nations have relied on the machinery of government to create and preserve the
 political and legal environments required by their economic system."_ That, of
 course, has not stopped him _"critis[ing] others for being unhistorical."_
-[Stephen L. Newman, **Liberalism at Wit's End**, pp. 77-8 and p. 79]
+[Stephen L. Newman, **Liberalism at Wit's End** , pp. 77-8 and p. 79]
 
 Thus we have a key contradiction within "anarcho"-capitalism. While they
 bemoan state intervention in the market, their underlying assumption is that
@@ -181,7 +182,7 @@ detail. As he summarises, _"classical political economy was concerned with
 promoting primitive accumulation in order to foster capitalist development,
 even though the logic of primitive accumulation was in direct conflict with
 the classical political economists' purported adherence to the values of
-laissez-faire."_ [**The Invention of Capitalism**, p. 12] The turn to
+laissez-faire."_ [ **The Invention of Capitalism** , p. 12] The turn to
 "laissez-faire" was possible because direct state power could be mostly
 replaced by economic power to ensure the dependency of the working class.
 
@@ -190,8 +191,8 @@ Needless to say, some right-"libertarians" recognise that the state played
 they contrast "bad" business people (who took state aid) and "good" ones (who
 did not). Thus Rothbard's comment that Marxists have _"made no particular
 distinction between 'bourgeoisie' who made use of the state, and bourgeoisie
-who acted on the free market."_ [**The Ethics of Liberty**, p. 72] But such an
-argument is nonsense as it ignores the fact that the "free market" is a
+who acted on the free market."_ [ **The Ethics of Liberty** , p. 72] But such
+an argument is nonsense as it ignores the fact that the "free market" is a
 network (and defined by the state by the property rights it enforces). This
 means that state intervention in one part of the economy will have
 ramifications in other parts, particularly if the state action in question is
@@ -245,7 +246,7 @@ concerned with returning property which has been obviously stolen and can be
 returned to those who have been directly dispossessed or their descendants
 (for example, giving land back to peasants or tenant farmers). If this cannot
 be done then the _"title to that property, belongs properly, justly and
-ethically to its current possessors."_ [**Op. Cit.**, p. 52 and p. 57] At
+ethically to its current possessors."_ [ **Op. Cit.** , p. 52 and p. 57] At
 best, he allows nationalised property and any corporation which has the bulk
 of its income coming from the state to be "homesteaded" by their workers
 (which, according to Rothbard's arguments for the end of Stalinism, means they
@@ -263,7 +264,7 @@ slaves work were stolen property just as much as the land was and, as a
 result, so is any investment made from it? After all, investment elsewhere was
 based on the profits extracted from slave labour and _"much of the profits
 earned in the northern states were derived from the surplus originating on the
-southern plantations."_ [Perelman, **Op. Cit.**, p. 246] In terms of the wage
+southern plantations."_ [Perelman, **Op. Cit.** , p. 246] In terms of the wage
 workers in the North, they have been indirectly exploited by the existence of
 slavery as the investment this allowed reduced their bargaining power on the
 market as it reduced their ability to set up business for themselves by
@@ -271,8 +272,8 @@ increasing the fixed costs of so doing. And what of the investment generated
 by the exploitation of these wage workers? As Mark Leier points out, the
 capitalists and landlords _"may have purchased the land and machinery, but
 this money represented nothing more than the expropriated labour of others."_
-[**Bakunin**, p. 111] If the land should be returned to those who worked it as
-Rothbard suggests, why not the industrial empires that were created on the
+[ **Bakunin** , p. 111] If the land should be returned to those who worked it
+as Rothbard suggests, why not the industrial empires that were created on the
 backs of the generations of slaves who worked it? And what of the profits made
 from the generations of wage slaves who worked on these investments? And what
 of the investments which these profits allowed? Surely if the land should be
@@ -308,7 +309,7 @@ as such but in the dynamic and evolution of capitalism itself -- a complex
 interaction of class interest, class struggle, social defence against the
 destructive actions of the market, individual qualities and so forth. In other
 words, Rothbard's claims are flawed -- they fail to understand capitalism as a
-**system**, its dynamic nature and the authoritarian social relationships it
+**system** , its dynamic nature and the authoritarian social relationships it
 produces and the need for state intervention these produce and require.
 
 So, when the right suggests that "we" be "left alone," what they mean by "we"
@@ -321,13 +322,13 @@ put it, the _"newly freed men became sellers of themselves only after they had
 been robbed of all their own means of production, and all the guarantees of
 existence afforded by the old feudal arrangements. And this history, the
 history of their expropriation, is written in the annals of mankind in letters
-of blood and fire."_ [**Op. Cit.**, p. 875] As for the other side of the class
-divide, they desired to be "left alone" to exercise their power over others as
-we will see. That modern "capitalism" is, in effect, a kind of "corporate
-mercantilism," with states providing the conditions that allow corporations to
-flourish (e.g. tax breaks, subsidies, bailouts, anti-labour laws, etc.) says
-more about the statist roots of capitalism than the ideologically correct
-definition of capitalism used by its supporters.
+of blood and fire."_ [ **Op. Cit.** , p. 875] As for the other side of the
+class divide, they desired to be "left alone" to exercise their power over
+others as we will see. That modern "capitalism" is, in effect, a kind of
+"corporate mercantilism," with states providing the conditions that allow
+corporations to flourish (e.g. tax breaks, subsidies, bailouts, anti-labour
+laws, etc.) says more about the statist roots of capitalism than the
+ideologically correct definition of capitalism used by its supporters.
 
 In fact, if we look at the role of the state in creating capitalism we could
 be tempted to rename "anarcho"-capitalism "marxian-capitalism". This is
@@ -353,13 +354,13 @@ to its private subjects . . . In a deep sense, getting rid of the socialist
 state requires that state to perform one final, swift, glorious act of self-
 immolation, after which it vanishes from the scene."_ (compare to Engels'
 comment that _"the taking possession of the means of production in the name of
-society"_ is the state's _"last independent act as a state."_ [**Selected
-Works**, p. 424]). He considered the _"capital goods built by the State"_ as
+society"_ is the state's _"last independent act as a state."_ [ **Selected
+Works** , p. 424]). He considered the _"capital goods built by the State"_ as
 being _"philosophically unowned"_ yet failed to note whose labour was
 exploited and taxed to build them in the first place (needless to say, he
 rejected the ideas of shares to all as this would be _"egalitarian handouts .
 . . to undeserving citizens,"_ presumably the ill, the unemployed, retirees,
-mothers, children, and future generations). [**The Logic of Action II**, p.
+mothers, children, and future generations). [ **The Logic of Action II** , p.
 213, p. 212 and p. 209]
 
 Industrial plants would be transferred to workers currently employed there,
@@ -375,7 +376,7 @@ case of _"granting shares to workers"_ by the state. He also notes that it
 should be a _"priority"_ for the government _"to return all stolen,
 confiscated property to its original owners, or to their heirs."_ This would
 involve _"finding original landowners"_ \-- i.e., the landlord class whose
-wealth was based on exploiting the serfs and peasants. [**Op. Cit.**, p. 210
+wealth was based on exploiting the serfs and peasants. [ **Op. Cit.** , p. 210
 and pp. 211-2] Thus expropriated peasants would have their land returned but
 not, apparently, any peasants working land which had been taken from their
 feudal and aristocratic overlords by the state. Thus those who had just been
@@ -399,7 +400,7 @@ explicitly opposed it. Their vision of a free society has always been at odds
 with the standard capitalist one, a fact which "anarcho"-capitalists bemoan
 and dismiss as "mistakes" and/or the product of "bad economics." Apparently
 the net effect of all this state coercion has been, essentially, null. It has
-**not**, as the critics of capitalism have argued, fundamentally shaped the
+**not** , as the critics of capitalism have argued, fundamentally shaped the
 development of the economy as capitalism would have developed naturally by
 itself. Thus an economy marked by inequalities of wealth and power, where the
 bulk of the population are landless and resourceless and where interest, rent
@@ -445,7 +446,7 @@ intervention across the globe which were used to create or impose capitalism
 onto an unwilling population. All we can do is provide a glimpse into the
 brutal history of capitalism and provide enough references for those
 interested to pursue the issue further. The first starting point should be
-Part VIII (_"So-Called Primitive Accumulation"_) of volume 1 of Marx's
+Part VIII ( _"So-Called Primitive Accumulation"_ ) of volume 1 of Marx's
 **Capital**. This classic account of the origins of capitalism should be
 supplemented by more recent accounts, but its basic analysis is correct.
 Marxist writers have expanded on Marx's analysis, with Maurice Dobb's
@@ -456,34 +457,34 @@ in destroying communal institutions and common ownership of land, as does his
 **The State: It's Historic Role**. Rudolf Rocker's **Nationalism and Culture**
 is also essential reading. Individualist Anarchist Kevin Carson's **Studies in
 Mutualist Political Economy** provides an excellent summary (see part 2,
-_"Capitalism and the State: Past, Present and Future"_) as does his essay
+_"Capitalism and the State: Past, Present and Future"_ ) as does his essay
 **The Iron Fist behind the Invisible Hand**.
 
 ## F.8.1 What social forces lay behind the rise of capitalism?
 
 Capitalist society is a relatively recent development. For Marx, while markets
 have existed for millennium _"the capitalist era dates from the sixteenth
-century."_ [**Capital**, vol. 1, p. 876] As Murray Bookchin pointed out, for a
-_"long era, perhaps spanning more than five centuries,"_ capitalism
+century."_ [ **Capital** , vol. 1, p. 876] As Murray Bookchin pointed out, for
+a _"long era, perhaps spanning more than five centuries,"_ capitalism
 _"coexisted with feudal and simple commodity relationships"_ in Europe. He
 argues that this period _"simply cannot be treated as 'transitional' without
-reading back the present into the past."_ [**From Urbanisation to Cities**, p.
-179] In other words, capitalism was not a inevitable outcome of "history" or
-social evolution.
+reading back the present into the past."_ [ **From Urbanisation to Cities** ,
+p. 179] In other words, capitalism was not a inevitable outcome of "history"
+or social evolution.
 
 Bookchin went on to note that capitalism existed _"with growing significance
 in the mixed economy of the West from the fourteenth century up to the
 seventeenth"_ but that it _"literally exploded into being in Europe,
 particularly England, during the eighteenth and especially nineteenth
-centuries."_ [**Op. Cit.**, p. 181] The question arises, what lay behind this
-_"growing significance"_? Did capitalism _"explode"_ due to its inherently
-more efficient nature or where there other, non-economic, forces at work? As
-we will show, it was most definitely the second -- capitalism was born not
-from economic forces but from the political actions of the social elites which
-its usury enriched. Unlike artisan (simple commodity) production, wage labour
-generates inequalities and wealth for the few and so will be selected,
-protected and encouraged by those who control the state in their own economic
-and social interests.
+centuries."_ [ **Op. Cit.** , p. 181] The question arises, what lay behind
+this _"growing significance"_? Did capitalism _"explode"_ due to its
+inherently more efficient nature or where there other, non-economic, forces at
+work? As we will show, it was most definitely the second -- capitalism was
+born not from economic forces but from the political actions of the social
+elites which its usury enriched. Unlike artisan (simple commodity) production,
+wage labour generates inequalities and wealth for the few and so will be
+selected, protected and encouraged by those who control the state in their own
+economic and social interests.
 
 The development of capitalism in Europe was favoured by two social elites, the
 rising capitalist class within the degenerating medieval cities and the
@@ -497,13 +498,13 @@ Mercantilism in the perishing city republics led logically to a demand for
 larger economic units [i.e. to nationalise the market]; and by this the desire
 for stronger political forms was greatly strengthened . . . Thus the city
 gradually became a small state, paving the way for the coming national
-state."_ [Rudolf Rocker, **Nationalism and Culture**, p. 94] Kropotkin
+state."_ [Rudolf Rocker, **Nationalism and Culture** , p. 94] Kropotkin
 stressed that in this destruction of communal self-organisation the state not
 only served the interests of the rising capitalist class but also its own.
 Just as the landlord and capitalist seeks a workforce and labour market made
 up of atomised and isolated individuals, so does the state seek to eliminate
 all potential rivals to its power and so opposes _"all coalitions and all
-private societies, whatever their aim."_ [**The State: It's Historic role**,
+private societies, whatever their aim."_ [ **The State: It's Historic role** ,
 p. 53]
 
 The rising economic power of the proto-capitalists conflicted with that of the
@@ -521,15 +522,15 @@ despotic political forms into society's abiding communal substrate."_ State
 violence was required to break this resistance and, unsurprisingly the _"one
 class to benefit most from the rising nation-state was the European
 bourgeoisie . . . This structure . . . provided the basis for the next great
-system of labour mobilisation: the factory."_ [**The Ecology of Freedom**, pp.
-207-8 and p. 336] The absolutist state, noted Rocker, _"was dependent upon the
-help of these new economic forces, and vice versa_ and so it _"at first
+system of labour mobilisation: the factory."_ [ **The Ecology of Freedom** ,
+pp. 207-8 and p. 336] The absolutist state, noted Rocker, _"was dependent upon
+the help of these new economic forces, and vice versa_ and so it _"at first
 furthered the plans of commercial capital"_ as its coffers were filled by the
 expansion of commerce. Its armies and fleets _"contributed to the expansion of
 industrial production because they demanded a number of things for whose
 large-scale production the shops of small tradesmen were no longer adapted.
 Thus gradually arose the so-called manufactures, the forerunners of the later
-large industries."_ [**Op. Cit.**, pp. 117-8] As such, it is impossible to
+large industries."_ [ **Op. Cit.** , pp. 117-8] As such, it is impossible to
 underestimate the role of state power in creating the preconditions for both
 agricultural and industrial capitalism.
 
@@ -543,7 +544,7 @@ Indeed, the widespread independence caused by the possession of the majority
 of households of land caused the rising class of capitalists to complain, as
 one put it, _"that men who should work as wage-labourers cling to the soil,
 and in the naughtiness of their hearts prefer independence as squatters to
-employment by a master."_ [quoted by Allan Engler, **The Apostles of Greed**,
+employment by a master."_ [quoted by Allan Engler, **The Apostles of Greed** ,
 p. 12] Once in service to a master, the state was always on hand to repress
 any signs of _"naughtiness"_ and _"independence"_ (such as strikes, riots,
 unions and the like). For example, Seventeenth century France saw a _"number
@@ -551,7 +552,7 @@ of decrees . . . which forbade workers to change their employment or which
 prohibited assemblies of workers or strikes on pain of corporal punishment or
 even death. (Even the Theological Faculty of the University of Paris saw fit
 to pronounce solemnly against the sin of workers' organisation)."_ [Maurice
-Dobb, **Studies in Capitalism Development**, p. 160]
+Dobb, **Studies in Capitalism Development** , p. 160]
 
 In addition, other forms of state aid ensured that capitalist firms got a head
 start, so ensuring their dominance over other forms of work (such as co-
@@ -569,14 +570,14 @@ to increase their investments. In the words of Marxist economic historian
 Maurice Dobb:
 
 > _"In short, the Mercantile System was a system of State-regulated
-exploitation through trade which played a highly important rule in the
-adolescence of capitalist industry: it was essentially the economic policy of
-an age of primitive accumulation."_ [**Op. Cit.**, p. 209]
+> exploitation through trade which played a highly important rule in the
+> adolescence of capitalist industry: it was essentially the economic policy
+> of an age of primitive accumulation."_ [ **Op. Cit.** , p. 209]
 
 As Rocker summarises, _"when absolutism had victoriously overcome all
 opposition to national unification, by its furthering of mercantilism and
 economic monopoly it gave the whole social evolution a direction which could
-only lead to capitalism."_ [**Op. Cit.**, pp. 116-7]
+only lead to capitalism."_ [ **Op. Cit.** , pp. 116-7]
 
 Mercantilist policies took many forms, including the state providing capital
 to new industries, exempting them from guild rules and taxes, establishing
@@ -607,7 +608,7 @@ barriers"_ to protect infant industries, _"government subsidies"_ and _"active
 state intervention in the economy."_ He summarises: _"The model of
 entrepreneurial activity in the product market, with judicious state support
 plus repression in the labour market, seems to be a good model of economic
-development."_ [**The Death of Economics**, p. 63]
+development."_ [ **The Death of Economics** , p. 63]
 
 Thus the social forces at work creating capitalism was a combination of
 capitalist activity and state action. But without the support of the state, it
@@ -623,7 +624,7 @@ did not last long. _"This selfsame monarchy, which for weighty reasons sought
 to further the aims of commercial capital and was. . . itself aided in its
 development by capital, grew at last into a crippling obstacle to any further
 development of European industry."_ [Rudolf Rocker, **Nationalism and
-Culture**, p. 117]
+Culture** , p. 117]
 
 This is the social context of the expression _"laissez-faire"_ \-- a system
 which has outgrown the supports that protected it in its early stages. Just as
@@ -635,26 +636,27 @@ flexibility of capitalists to changing environments. As Rocker argues, _"no
 matter how the absolutist state strove, in its own interest, to meet the
 demands of commerce, it still put on industry countless fetters which became
 gradually more and more oppressive . . . [it] became an unbearable burden . .
-. which paralysed all economic and social life."_ [**Op. Cit.**, p. 119] All
+. which paralysed all economic and social life."_ [ **Op. Cit.** , p. 119] All
 in all, mercantilism became more of a hindrance than a help and so had to be
 replaced. With the growth of economic and social power by the capitalist
 class, this replacement was made easier. As Errico Malatesta notes:
 
 > _"The development of production, the vast expansion of commerce, the
-immeasurable power assumed by money . . . have guaranteed this supremacy [of
-economic power over political power] to the capitalist class which, no longer
-content with enjoying the support of the government, demanded that government
-arise from its own ranks. A government which owed its origin to the right of
-conquest . . . though subject by existing circumstances to the capitalist
-class, went on maintaining a proud and contemptuous attitude towards its now
-wealthy former slaves, and had pretensions to independence of domination. That
-government was indeed the defender, the property owners' gendarme, but the
-kind of gendarmes who think they are somebody, and behave in an arrogant
-manner towards the people they have to escort and defend, when they don't rob
-or kill them at the next street corner; and the capitalist class got rid of it
-. . . and replac[ed] it by a government of its own choosing, at all times
-under its control and specifically organised to defend that class against any
-possible demands by the disinherited."_ [**Anarchy**, pp. 22-3]
+> immeasurable power assumed by money . . . have guaranteed this supremacy [of
+> economic power over political power] to the capitalist class which, no
+> longer content with enjoying the support of the government, demanded that
+> government arise from its own ranks. A government which owed its origin to
+> the right of conquest . . . though subject by existing circumstances to the
+> capitalist class, went on maintaining a proud and contemptuous attitude
+> towards its now wealthy former slaves, and had pretensions to independence
+> of domination. That government was indeed the defender, the property owners'
+> gendarme, but the kind of gendarmes who think they are somebody, and behave
+> in an arrogant manner towards the people they have to escort and defend,
+> when they don't rob or kill them at the next street corner; and the
+> capitalist class got rid of it . . . and replac[ed] it by a government of
+> its own choosing, at all times under its control and specifically organised
+> to defend that class against any possible demands by the disinherited."_ [
+> **Anarchy** , pp. 22-3]
 
 Malatesta here indicates the true meaning of _"leave us alone,"_ or _"laissez-
 faire."_ The **absolutist** state (not "the state" per se) began to interfere
@@ -679,16 +681,16 @@ by capitalists. _"It is ironic that the main protagonists of the State, in its
 political and administrative authority, were the middle-class Utilitarians, on
 the other side of whose Statist banner were inscribed the doctrines of
 economic Laissez Faire."_ [E.P. Thompson, **The Making of the English Working
-Class**, p. 90] Capitalists simply wanted **capitalist** states to replace
+Class** , p. 90] Capitalists simply wanted **capitalist** states to replace
 monarchical states, so that heads of government would follow state economic
 policies regarded by capitalists as beneficial to their class as a whole. And
 as development economist Lance Taylor argues:
 
 > _"In the long run, there are no laissez-faire transitions to modern economic
-growth. The state has always intervened to create a capitalist class, and then
-it has to regulate the capitalist class, and then the state has to worry about
-being taken over by the capitalist class, but the state has always been
-there."_ [quoted by Noam Chomsky, **Year 501**, p. 104]
+> growth. The state has always intervened to create a capitalist class, and
+> then it has to regulate the capitalist class, and then the state has to
+> worry about being taken over by the capitalist class, but the state has
+> always been there."_ [quoted by Noam Chomsky, **Year 501** , p. 104]
 
 In order to attack mercantilism, the early capitalists had to ignore the
 successful impact of its policies in developing industry and a "store of
@@ -709,8 +711,8 @@ played in creating conditions for Britain to embark on its dynamic development
 path . . . They did not bother to ask how Britain had attained th[e] position
 [of 'workshop of the world'], while they conveniently ignored the on going
 system of national power -- the British Empire -- that . . . continued to
-support Britain's position."_ [**Business Organisation and the Myth of the
-Market Economy**, p. 2, p. 3 and p.5]
+support Britain's position."_ [ **Business Organisation and the Myth of the
+Market Economy** , p. 2, p. 3 and p.5]
 
 Similar comments are applicable to American supporters of laissez faire who
 fail to notice that the "traditional" American support for world-wide free
@@ -731,21 +733,22 @@ Takis Fotopoules indicates that the social forces at work in "freeing" the
 market did not represent a "natural" evolution towards freedom:
 
 > _"Contrary to what liberals and Marxists assert, marketisation of the
-economy was not just an evolutionary process, following the expansion of trade
-under mercantilism . . . modern [i.e. capitalist] markets did not evolve out
-of local markets and/or markets for foreign goods . . . the nation-state,
-which was just emerging at the end of the Middle Ages, played a crucial role
-creating the conditions for the 'nationalisation' of the market . . . and . .
-. by freeing the market from effective social control."_ [_"The Nation-state
-and the Market"_, pp. 37-80 **Society and Nature**, Vol. 2, No. 2, pp. 44-45]
+> economy was not just an evolutionary process, following the expansion of
+> trade under mercantilism . . . modern [i.e. capitalist] markets did not
+> evolve out of local markets and/or markets for foreign goods . . . the
+> nation-state, which was just emerging at the end of the Middle Ages, played
+> a crucial role creating the conditions for the 'nationalisation' of the
+> market . . . and . . . by freeing the market from effective social
+> control."_ [ _"The Nation-state and the Market"_ , pp. 37-80 **Society and
+> Nature** , Vol. 2, No. 2, pp. 44-45]
 
 The "freeing" of the market means freeing those who "own" most of the market
 (i.e. the wealthy elite) from _"effective social control,"_ but the rest of
 society was not as lucky. Kropotkin makes a similar point: _"While giving the
 capitalist any degree of free scope to amass his wealth at the expense of the
 helpless labourers, the government has **nowhere** and **never** . . .
-afforded the labourers the opportunity 'to do as they pleased'."_
-[**Anarchism**, p. 182]
+afforded the labourers the opportunity 'to do as they pleased'."_ [
+**Anarchism** , p. 182]
 
 So, the expression "laissez-faire" dates from the period when capitalists were
 objecting to the restrictions that helped create them in the first place. It
@@ -783,8 +786,8 @@ the same time. However, the struggle against state power always came from the
 general population. As Murray Bookchin argued, it is an error to depict this
 _"revolutionary era and its democratic aspirations as 'bourgeois,' an imagery
 that makes capitalism a system more committed to freedom, or even ordinary
-civil liberties, than it was historically."_ [**From Urbanisation to Cities**,
-p. 180f] While the capitalist class may have benefited from such popular
+civil liberties, than it was historically."_ [ **From Urbanisation to Cities**
+, p. 180f] While the capitalist class may have benefited from such popular
 movements as the English, American and French revolutions but these
 revolutions were not led, never mind started or fought, by the bourgeoisie.
 
@@ -800,7 +803,7 @@ just the defence of privilege and power (and **not** freedom) has been
 discussed in [section B](secBcon.md) and elsewhere in [section
 F](secFcon.md), so we will not repeat ourselves here. Samuel Johnson once
 observed that _"we hear the loudest **yelps** for liberty among the drivers of
-Negroes."_ [quoted by Noam Chomsky, **Year 501**, p. 141] Our modern
+Negroes."_ [quoted by Noam Chomsky, **Year 501** , p. 141] Our modern
 "libertarian" capitalist drivers of wage-slaves are yelping for exactly the
 same kind of "liberty."
 
@@ -820,16 +823,16 @@ land. In Britain, by means of the Enclosure Acts, land that had been freely
 used by poor peasants was claimed by large landlords as private property. As
 socialist historian E.P. Thompson summarised, _"the social violence of
 enclosure consisted . . . in the drastic, total imposition upon the village of
-capitalist property-definitions."_ [**The Making of the English Working
-Class**, pp. 237-8] Property rights, which favoured the rich, replaced the use
-rights and free agreement that had governed peasants use of the commons.
+capitalist property-definitions."_ [ **The Making of the English Working
+Class** , pp. 237-8] Property rights, which favoured the rich, replaced the
+use rights and free agreement that had governed peasants use of the commons.
 Unlike use rights, which rest in the individual, property rights require state
 intervention to create and maintain. _"Parliament and law imposed capitalist
 definitions to exclusive property in land,"_ Thompson notes. This process
 involved ignoring the wishes of those who used the commons and repressing
 those who objected. Parliament was, of course, run by and for the rich who
-then simply _"observed the rules which they themselves had made."_ [**Customs
-in Common**, p. 163]
+then simply _"observed the rules which they themselves had made."_ [ **Customs
+in Common** , p. 163]
 
 Unsurprisingly, many landowners would become rich through the enclosure of the
 commons, heaths and downland while many ordinary people had a centuries old
@@ -837,25 +840,25 @@ right taken away. Land enclosure was a gigantic swindle on the part of large
 landowners. In the words of one English folk poem written in 1764 as a protest
 against enclosure:
 
-_ They hang the man, and flog the woman,  
+_They hang the man, and flog the woman,  
 That steals the goose from off the common;  
 But let the greater villain loose,  
-That steals the common from the goose. _
+That steals the common from the goose. _
 
 It should be remembered that the process of enclosure was not limited to just
 the period of the industrial revolution. As Colin Ward notes, _"in Tudor
 times, a wave of enclosures by land-owners who sought to profit from the high
 price of wool had deprived the commoners of their livelihood and obliged them
 to seek work elsewhere or become vagrants or squatters on the wastes on the
-edges of villages."_ [**Cotters and Squatters**, p. 30] This first wave
+edges of villages."_ [ **Cotters and Squatters** , p. 30] This first wave
 increased the size of the rural proletariat who sold their labour to
 landlords. Nor should we forget that this imposition of capitalist property
-rights did not imply that it was illegal. As Michael Perelman
-notes,_"[f]ormally, this dispossession was perfectly legal. After all, the
-peasants did not have property rights in the narrow sense. They only had
-traditional rights. As markets evolved, first land-hungry gentry and later the
-bourgeoisie used the state to create a legal structure to abrogate these
-traditional rights."_ [**The Invention of Capitalism**, pp. 13-4]
+rights did not imply that it was illegal. As Michael Perelman notes,
+_"[f]ormally, this dispossession was perfectly legal. After all, the peasants
+did not have property rights in the narrow sense. They only had traditional
+rights. As markets evolved, first land-hungry gentry and later the bourgeoisie
+used the state to create a legal structure to abrogate these traditional
+rights."_ [ **The Invention of Capitalism** , pp. 13-4]
 
 While technically legal as the landlords made the law, the impact of this
 stealing of the land should not be under estimated. Without land, you cannot
@@ -872,23 +875,23 @@ a key role, for _"it is clear that economic inequalities are unlikely to
 create a division of society into an employing master class and a subject
 wage-earning class, unless access to the means of production, including land,
 is by some means or another barred to a substantial section of the
-community."_ [Maurice Dobb, **Studies in Capitalist Development**, p. 253]
+community."_ [Maurice Dobb, **Studies in Capitalist Development** , p. 253]
 
 The importance of access to land is summarised by this limerick by the
 followers of Henry George (a 19th century writer who argued for a _"single
 tax"_ and the nationalisation of land). The Georgites got their basic argument
 on the importance of land down these few, excellent, lines:
 
-_ A college economist planned  
+_A college economist planned  
 To live without access to land  
 He would have succeeded  
 But found that he needed  
-Food, shelter and somewhere to stand. _
+Food, shelter and somewhere to stand. _
 
 Thus anarchists concern over the _"land monopoly"_ of which the Enclosure Acts
 were but one part. The land monopoly, to use Tucker's words, _"consists in the
 enforcement by government of land titles which do not rest upon personal
-occupancy and cultivation."_ [**The Anarchist Reader**, p. 150] So it should
+occupancy and cultivation."_ [ **The Anarchist Reader** , p. 150] So it should
 be remembered that common land did **not** include the large holdings of
 members of the feudal aristocracy and other landlords. This helped to
 artificially limit available land and produce a rural proletariat just as much
@@ -918,11 +921,11 @@ their usual rhetoric about civilisation and progress. Thus John Bellers, a
 17th-century supporter of enclosures, claimed that commons were _"a hindrance
 to Industry, and . . . Nurseries of Idleness and Insolence."_ The _"forests
 and great Commons make the Poor that are upon them too much like the
-**indians.**"_ [quoted by Thompson, **Op. Cit.**, p. 165] Elsewhere Thompson
+**indians.** "_ [quoted by Thompson, **Op. Cit.** , p. 165] Elsewhere Thompson
 argues that the commons _"were now seen as a dangerous centre of indiscipline
 . . . Ideology was added to self-interest. It became a matter of public-
 spirited policy for gentlemen to remove cottagers from the commons, reduce his
-labourers to dependence."_ [**The Making of the English Working Class**, pp.
+labourers to dependence."_ [ **The Making of the English Working Class** , pp.
 242-3] David McNally confirms this, arguing _"it was precisely these elements
 of material and spiritual independence that many of the most outspoken
 advocates of enclosure sought to destroy."_ Eighteenth-century proponents of
@@ -931,7 +934,7 @@ access to common lands, they argued, allowed a degree of social and economic
 independence, and thereby produced a lazy, dissolute mass of rural poor who
 eschewed honest labour and church attendance . . . Denying such people common
 lands and common rights would force them to conform to the harsh discipline
-imposed by the market in labour."_ [**Against the Market**, p. 19]
+imposed by the market in labour."_ [ **Against the Market** , p. 19]
 
 The commons gave working-class people a degree of independence which allowed
 them to be "insolent" to their betters. This had to be stopped, as it
@@ -952,7 +955,7 @@ employees. More than any single technical factor, this irregularity led to the
 rationalisation of labour under a single ensemble of rule, to a discipline of
 work and regulation of time that yielded the modern factory . . . the initial
 goal of the factory was to dominate labour and destroy the worker's
-independence from capital."_ [**The Ecology of Freedom** p. 406]
+independence from capital."_ [ **The Ecology of Freedom** p. 406]
 
 Hence the pressing need to break the workers' ties with the land and so the
 _"loss of this independence included the loss of the worker's contact with
@@ -966,7 +969,7 @@ industrial society . . . The need to destroy whatever independent means of
 life the worker could garner . . . all involved the issue of reducing the
 proletariat to a condition of total powerlessness in the face of capital. And
 with that powerlessness came a supineness, a loss of character and community,
-and a decline in moral fibre."_ [Bookchin, **Op. Cit.,**, pp. 406-7]
+and a decline in moral fibre."_ [Bookchin, **Op. Cit.,** , pp. 406-7]
 Unsurprisingly, there was a positive association between enclosure and
 migration out of villages and a _"definite correlation . . . between the
 extent of enclosure and reliance on poor rates . . . parliamentary enclosure
@@ -975,7 +978,7 @@ _"the standard of living was generally much higher in those areas where
 labourer managed to combine industrial work with farming . . . Access to
 commons meant that labourers could graze animals, gather wood, stones and
 gravel, dig coal, hunt and fish. These rights often made the difference
-between subsistence and abject poverty."_ [David McNally, **Op. Cit.**, p. 14
+between subsistence and abject poverty."_ [David McNally, **Op. Cit.** , p. 14
 and p. 18] Game laws also ensured that the peasantry and servants could not
 legally hunt for food as from the time of Richard II (1389) to 1831, no person
 could kill game unless qualified by estate or social standing.
@@ -996,7 +999,7 @@ everywhere the State coerced them to enforce the division, or simply favoured
 the private appropriation of their lands"_ by the nobles and wealthy. Thus
 _"to speak of the natural death of the village community [or the commons] in
 virtue of economical law is as grim a joke as to speak of the natural death of
-soldiers slaughtered on a battlefield."_ [**Mutual Aid**, p. 188 and p. 189]
+soldiers slaughtered on a battlefield."_ [ **Mutual Aid** , p. 188 and p. 189]
 
 Once a labour market **was** created by means of enclosure and the land
 monopoly, the state did **not** passively let it work. When market conditions
@@ -1007,21 +1010,21 @@ Britain, for example, after the Black Death there was a "servant" shortage.
 Rather than allow the market to work its magic, the landlords turned to the
 state and the result was **_"the Statute of Labourers"_** of 1351:
 
-> _ "Whereas late against the malice of servants, which were idle, and not
-willing to serve after the pestilence, without taking excessive wages, it was
-ordained by our lord the king . . . that such manner of servants . . . should
-be bound to serve, receiving salary and wages, accustomed in places where they
-ought to serve in the twentieth year of the reign of the king that now is, or
-five or six years before; and that the same servants refusing to serve in such
-manner should be punished by imprisonment of their bodies . . . now forasmuch
-as it is given the king to understand in this present parliament, by the
-petition of the commonalty, that the said servants having no regard to the
-said ordinance, . . to the great damage of the great men, and impoverishing of
-all the said commonalty, whereof the said commonalty prayeth remedy: wherefore
-in the said parliament, by the assent of the said prelates, earls, barons, and
-other great men, and of the same commonalty there assembled, to refrain the
-malice of the said servants, be ordained and established the things
-underwritten."_
+> _"Whereas late against the malice of servants, which were idle, and not
+> willing to serve after the pestilence, without taking excessive wages, it
+> was ordained by our lord the king . . . that such manner of servants . . .
+> should be bound to serve, receiving salary and wages, accustomed in places
+> where they ought to serve in the twentieth year of the reign of the king
+> that now is, or five or six years before; and that the same servants
+> refusing to serve in such manner should be punished by imprisonment of their
+> bodies . . . now forasmuch as it is given the king to understand in this
+> present parliament, by the petition of the commonalty, that the said
+> servants having no regard to the said ordinance, . . to the great damage of
+> the great men, and impoverishing of all the said commonalty, whereof the
+> said commonalty prayeth remedy: wherefore in the said parliament, by the
+> assent of the said prelates, earls, barons, and other great men, and of the
+> same commonalty there assembled, to refrain the malice of the said servants,
+> be ordained and established the things underwritten."_
 
 Thus state action was required because labourers had increased bargaining
 power and commanded higher wages which, in turn, led to inflation throughout
@@ -1037,7 +1040,7 @@ insubordination of the Commonwealth years, the clamour for legislative
 interference to keep wages low, to drive the poor into employment and to
 extend the system of workhouses and 'houses of correction' and the farming out
 of paupers once more reached a crescendo."_ The same occurred on Continental
-Europe. [**Op. Cit.**, p. 234]
+Europe. [ **Op. Cit.** , p. 234]
 
 So, time and again employers called on the state to provide force to suppress
 the working class, artificially lower wages and bolster their economic power
@@ -1052,7 +1055,7 @@ England were dominated by the Poor law and its ramifications, like the
 Settlement Act of 1697 which debarred strangers from entering a parish unless
 they had a Settlement Certificate in which their home parish agreed to take
 them back if they became in need of poor relief. Like the Workhouse, it was a
-hated institution that lasted into the 20th century."_ [**Op. Cit.**, p. 31]
+hated institution that lasted into the 20th century."_ [ **Op. Cit.** , p. 31]
 
 As Kropotkin stressed, _"it was the State which undertook to settle . . .
 griefs"_ between workers and bosses _"so as to guarantee a 'convenient'
@@ -1067,8 +1070,8 @@ complaint of misbehaviour lodged by the master. Strikes were suppressed in an
 autocratic way . . . to say nothing of the military suppression of strike
 riots . . . To practice mutual support under such circumstances was anything
 but an easy task . . . After a long fight, which lasted over a hundred years,
-the right of combing together was conquered."_ [**Mutual Aid**, p. 210 and p.
-211] It took until 1813 until the laws regulating wages were repealed while
+the right of combing together was conquered."_ [ **Mutual Aid** , p. 210 and
+p. 211] It took until 1813 until the laws regulating wages were repealed while
 the laws against combinations remained until 1825 (although that did not stop
 the Tolpuddle Martyrs being convicted of "administering an illegal oath" and
 deported to Tasmania in 1834). Fifty years later, the provisions of the
@@ -1107,9 +1110,9 @@ _"was at pains not to sweep away was the power of the State over industry,
 over the factory serf."_ Nor should the role of public schooling be
 overlooked, within which _"the spirit of voluntary servitude was always
 cleverly cultivated in the minds of the young, and still is, in order to
-perpetuate the subjection of the individual to the State."_ [**The State: Its
-Historic Role**, pp. 52-3 and p. 55] Such education also ensured that children
-become used to the obedience and boredom required for wage slavery.
+perpetuate the subjection of the individual to the State."_ [ **The State: Its
+Historic Role** , pp. 52-3 and p. 55] Such education also ensured that
+children become used to the obedience and boredom required for wage slavery.
 
 Like the more recent case of fascist Chile, "free market" capitalism was
 imposed on the majority of society by an elite using the authoritarian state.
@@ -1135,8 +1138,8 @@ The short answer is no, they are not. While a lot of historical analysis has
 been spent in trying to deny the extent and impact of the enclosures, the
 simple fact is (in the words of noted historian E.P. Thompson) enclosure _"was
 a plain enough case of class robbery, played according to the fair rules of
-property and law laid down by a parliament of property-owners and lawyers."_
-[**The Making of the English Working Class**, pp. 237-8]
+property and law laid down by a parliament of property-owners and lawyers."_ [
+**The Making of the English Working Class** , pp. 237-8]
 
 The enclosures were one of the ways that the _"land monopoly"_ was created.
 The land monopoly referred to feudal and capitalist property rights and
@@ -1160,19 +1163,19 @@ almost ideal society of freedom. To find out that an idol has feet of clay and
 that we are still living with the impact of its origins is something pro-
 capitalists must deny. So **are** the enclosures a socialist myth? Most claims
 that it is flow from the work of the historian J.D. Chambers' famous essay
-_"Enclosures and the Labour Supply in the Industrial Revolution."_ [**Economic
-History Review**, 2nd series, no. 5, August 1953] In this essay, Chambers
-attempts to refute Karl Marx's account of the enclosures and the role it
-played in what Marx called _"primitive accumulation."_
+_"Enclosures and the Labour Supply in the Industrial Revolution."_ [
+**Economic History Review** , 2nd series, no. 5, August 1953] In this essay,
+Chambers attempts to refute Karl Marx's account of the enclosures and the role
+it played in what Marx called _"primitive accumulation."_
 
 We cannot be expected to provide an extensive account of the debate that has
 raged over this issue (Colin Ward notes that _"a later series of scholars have
 provided locally detailed evidence that reinforces"_ the traditional socialist
-analysis of enclosure and its impact. [**Cotters and Squatters**, p. 143]).
+analysis of enclosure and its impact. [ **Cotters and Squatters** , p. 143]).
 All we can do is provide a summary of the work of William Lazonick who
 presented an excellent reply to those who claim that the enclosures were an
 unimportant historical event (see his _"Karl Marx and Enclosures in England."_
-[**Review of Radical Political Economy**, no. 6, pp. 1-32]). Here, we draw
+[ **Review of Radical Political Economy** , no. 6, pp. 1-32]). Here, we draw
 upon his subsequent summarisation of his critique provided in his books
 **Competitive Advantage on the Shop Floor** and **Business Organisation and
 the Myth of the Market Economy**.
@@ -1190,7 +1193,7 @@ historical analysis, his basic arguments concerning the creation of a landless
 proletariat are both important and valid. The transformations of social
 relations of production and the emergence of a wage-labour force in the
 agricultural sector were the critical preconditions for the Industrial
-Revolution."_ [**Competitive Advantage on the Shop Floor**, pp. 12-3]
+Revolution."_ [ **Competitive Advantage on the Shop Floor** , pp. 12-3]
 
 It is correct, as the critics of Marx stress, that the agricultural revolution
 associated with the enclosures **increased** the demand for farm labour as
@@ -1204,18 +1207,18 @@ land that enclosures entailed resulted in the separation of the mass of
 agricultural producers from the means of production."_ So the _"critical
 transformation was not the level of agricultural employment before and after
 enclosure but the changes in employment relations caused by the reorganisation
-of landholdings and the reallocation of access to land."_ [**Op. Cit.**, p.
+of landholdings and the reallocation of access to land."_ [ **Op. Cit.** , p.
 29, pp. 29-30 and p. 30] Thus the key feature of the enclosures was that it
 created a supply for farm labour, a supply that had no choice but to work for
 another. Once freed from the land, these workers could later move to the towns
 in search for better work:
 
-> _ "Critical to the Marxian thesis of the origins of the industrial labour
-force is the transformation of the social relations of agriculture and the
-creation, in the first instance, of an agricultural wage-labour force that
-might eventually, perhaps through market incentives, be drawn into the
-industrial labour force."_ [**Business Organisation and the Myth of the Market
-Economy**, p. 273]
+> _"Critical to the Marxian thesis of the origins of the industrial labour
+> force is the transformation of the social relations of agriculture and the
+> creation, in the first instance, of an agricultural wage-labour force that
+> might eventually, perhaps through market incentives, be drawn into the
+> industrial labour force."_ [ **Business Organisation and the Myth of the
+> Market Economy** , p. 273]
 
 In summary, when the critics argue that enclosures increased the demand for
 farm labour they are not refuting Marx but confirming his analysis. This is
@@ -1227,8 +1230,8 @@ farmer or an industrialist. This means that the _"critics, it turns out, have
 not differed substantially with Marx on the facts of agricultural
 transformation. But by ignoring the historical and theoretical significance of
 the resultant changes in the social relations of **agricultural** production,
-the critics have missed Marx's main point."_ [**Competitive Advantage on the
-Shop Floor**, p. 30]
+the critics have missed Marx's main point."_ [ **Competitive Advantage on the
+Shop Floor** , p. 30]
 
 Secondly, it is argued that the number of small farm owners increased, or at
 least did not greatly decline, and so the enclosure movement was unimportant.
@@ -1246,7 +1249,8 @@ these people were not treated unfairly because they did not possess legally
 enforceable property rights is irrelevant to the fact that they were
 dispossessed by enclosures. Again, Marx's critics have failed to address the
 issue of the transformation of access to the means of production as a
-precondition for the Industrial Revolution."_ [**Op. Cit.**, p. 32 and p. 31]
+precondition for the Industrial Revolution."_ [ **Op. Cit.** , p. 32 and p.
+31]
 
 Thirdly, it is often claimed that it was population growth, rather than
 enclosures, that caused the supply of wage workers. So was population growth
@@ -1256,24 +1260,24 @@ growth in population from the social context in which it happened. As such,
 the population argument ignores the question of whether the changes in society
 caused by enclosures and the rise of capitalism have an impact on the observed
 trends towards earlier marriage and larger families after 1750. Lazonick
-argues that _"[t]here is reason to believe that they did."_ [**Op. Cit.**, p.
-33] Overall, Lazonick notes that _"[i]t can even be argued that the changed
+argues that _"[t]here is reason to believe that they did."_ [ **Op. Cit.** ,
+p. 33] Overall, Lazonick notes that _"[i]t can even be argued that the changed
 social relations of agriculture altered the constraints on early marriage and
 incentives to childbearing that contributed to the growth in population. The
 key point is that transformations in social relations in production can
 influence, and have influenced, the quantity of wage labour supplied on both
 agricultural and industrial labour markets. To argue that population growth
 created the industrial labour supply is to ignore these momentous social
-transformations"_ associated with the rise of capitalism. [**Business
-Organisation and the Myth of the Market Economy**, p. 273]
+transformations"_ associated with the rise of capitalism. [ **Business
+Organisation and the Myth of the Market Economy** , p. 273]
 
 In other words, there is good reason to think that the enclosures, far from
 being some kind of socialist myth, in fact played a key role in the
 development of capitalism. As Lazonick notes, _"Chambers misunderstood"_ the
 _"argument concerning the 'institutional creation' of a proletarianised (i.e.
 landless) workforce. Indeed, Chamber's own evidence and logic tend to support
-the Marxian [and anarchist!] argument, when it is properly understood."_
-[**Op. Cit.**, p. 273]
+the Marxian [and anarchist!] argument, when it is properly understood."_ [
+**Op. Cit.** , p. 273]
 
 Lastly, it must be stressed that this process of dispossession happened over
 hundreds of years. It was not a case of simply driving peasants off their land
@@ -1326,14 +1330,14 @@ This was because, in the words of Maurice Dobb, it _"became clear to those who
 wished to reproduce capitalist relations of production in the new country that
 the foundation-stone of their endeavour must be the restriction of land-
 ownership to a minority and the exclusion of the majority from any share in
-[productive] property."_ [**Studies in Capitalist Development**, pp. 221-2] As
-one radical historian puts it, _"[w]hen land is 'free' or 'cheap'. as it was
-in different regions of the United States before the 1830s, there was no
+[productive] property."_ [ **Studies in Capitalist Development** , pp. 221-2]
+As one radical historian puts it, _"[w]hen land is 'free' or 'cheap'. as it
+was in different regions of the United States before the 1830s, there was no
 compulsion for farmers to introduce labour-saving technology. As a result,
 'independent household production' . . . hindered the development of
 capitalism . . . [by] allowing large portions of the population to escape wage
 labour."_ [Charlie Post, _"The 'Agricultural Revolution' in the United
-States"_, pp. 216-228, **Science and Society**, vol. 61, no. 2, p. 221]
+States"_ , pp. 216-228, **Science and Society** , vol. 61, no. 2, p. 221]
 
 It was precisely this option (i.e. of independent production) that had to be
 destroyed in order for capitalist industry to develop. The state had to
@@ -1356,7 +1360,7 @@ was sold at auction to the highest bidders, namely speculators, who then sold
 it on to farmers. This process started right _"after the revolution, [when]
 huge sections of land were bought up by rich speculators"_ and their claims
 supported by the law. [Howard Zinn, **A People's History of the United
-States**, p. 125] Thus land which should have been free was sold to land-
+States** , p. 125] Thus land which should have been free was sold to land-
 hungry farmers and the few enriched themselves at the expense of the many. Not
 only did this increase inequality within society, it also encouraged the
 development of wage labour -- having to pay for land would have ensured that
@@ -1371,13 +1375,13 @@ general, the _"Federal land law in the 19th century provided for the sale of
 most of the public domain at public auction to the higher bidder . . . Actual
 settlers were forced to buy land from speculators, at prices considerably
 above the federal minimal price."_ (which few people could afford anyway).
-[Charlie Post, **Op. Cit.**, p. 222] This is confirmed by Howard Zinn who
+[Charlie Post, **Op. Cit.** , p. 222] This is confirmed by Howard Zinn who
 notes that 1862 Homestead Act _"gave 160 acres of western land, unoccupied and
 publicly owned, to anyone who would cultivate it for five years . . . Few
 ordinary people had the $200 necessary to do this; speculators moved in and
 bought up much of the land. Homestead land added up to 50 million acres. But
 during the Civil War, over 100 million acres were given by Congress and the
-President to various railroads, free of charge."_ [**Op. Cit.**, p. 233]
+President to various railroads, free of charge."_ [ **Op. Cit.** , p. 233]
 Little wonder the Individualist Anarchists supported an _"occupancy and use"_
 system of land ownership as a key way of stopping capitalist and landlord
 usury as well as the development of capitalism itself.
@@ -1389,7 +1393,7 @@ of land change, as they did in the Midwest between 1830 and 1840, pursuing the
 goal of preserving [family ownership and control] . . . produced very
 different results. In order to pay growing mortgages, debts and taxes, family
 farmers were compelled to specialise production toward cash crops and to
-market more and more of their output."_ [**Op. Cit.**, p. 221-2]
+market more and more of their output."_ [ **Op. Cit.** , p. 221-2]
 
 So, in order to pay for land which was formerly free, farmers got themselves
 into debt and increasingly turned to the market to pay it off. Thus, the
@@ -1405,13 +1409,13 @@ revolution' of the 1840s and 1850s . . . [R]ising debts and taxes forced
 Midwestern family farmers to compete as commodity producers in order to
 maintain their land-holding . . . The transformation . . . was the central
 precondition for the development of industrial capitalism in the United
-States."_ [Charlie Post, **Op. Cit.**, p. 223 and p. 226]
+States."_ [Charlie Post, **Op. Cit.** , p. 223 and p. 226]
 
 It should be noted that feudal land owning was enforced in many areas of the
 colonies and the early Republic. Landlords had their holdings protected by the
 state and their demands for rent had the full backing of the state. This lead
 to numerous anti-rent conflicts. [Howard Zinn, **A People's History of the
-United States**, p. 84 and pp. 206-11] Such struggles helped end such
+United States** , p. 84 and pp. 206-11] Such struggles helped end such
 arrangements, with landlords being "encouraged" to allow the farmers to buy
 the land which was rightfully theirs. The wealth appropriated from the farmers
 in the form of rent and the price of the land could then be invested in
@@ -1426,24 +1430,24 @@ transmitted to other parts of society and this, the wider legacy of the
 original injustice, lived on and helped transform society towards capitalism.
 In addition, his comment about _"the establishment in North America of a truly
 libertarian land system"_ would be one the Individualist Anarchists of the
-period would have seriously disagreed with! [**The Ethics of Liberty**, p. 73]
-Rothbard, at times, seems to be vaguely aware of the importance of land as the
-basis of freedom in early America. For example, he notes in passing that _"the
-abundance of fertile virgin land in a vast territory enabled individualism to
-come to full flower in many areas."_ [**Conceived in Liberty**, vol. 2, p.
-186] Yet he did not ponder the transformation in social relationships which
-would result when that land was gone. In fact, he was blasé about it. _"If
-latecomers are worse off,"_ he opined, _"well then that is their proper
-assumption of risk in this free and uncertain world. There is no longer a vast
-frontier in the United States, and there is no point crying over the fact."_
-[**The Ethics of Liberty**, p. 240] Unsurprisingly we also find Murray
-Rothbard commenting that Native Americans _"lived under a collectivistic
-regime that, for land allocation, was scarcely more just than the English
-governmental land grab."_ [**Conceived in Liberty**, vol. 1, p. 187] That such
-a regime made for **increased** individual liberty and that it was precisely
-the independence from the landlord and bosses this produced which made
-enclosure and state land grabs such appealing prospects for the ruling class
-was lost on him.
+period would have seriously disagreed with! [ **The Ethics of Liberty** , p.
+73] Rothbard, at times, seems to be vaguely aware of the importance of land as
+the basis of freedom in early America. For example, he notes in passing that
+_"the abundance of fertile virgin land in a vast territory enabled
+individualism to come to full flower in many areas."_ [ **Conceived in
+Liberty** , vol. 2, p. 186] Yet he did not ponder the transformation in social
+relationships which would result when that land was gone. In fact, he was
+blasé about it. _"If latecomers are worse off,"_ he opined, _"well then that
+is their proper assumption of risk in this free and uncertain world. There is
+no longer a vast frontier in the United States, and there is no point crying
+over the fact."_ [ **The Ethics of Liberty** , p. 240] Unsurprisingly we also
+find Murray Rothbard commenting that Native Americans _"lived under a
+collectivistic regime that, for land allocation, was scarcely more just than
+the English governmental land grab."_ [ **Conceived in Liberty** , vol. 1, p.
+187] That such a regime made for **increased** individual liberty and that it
+was precisely the independence from the landlord and bosses this produced
+which made enclosure and state land grabs such appealing prospects for the
+ruling class was lost on him.
 
 Unlike capitalist economists, politicians and bosses at the time, Rothbard
 seemed unaware that this _"vast frontier"_ (like the commons) was viewed as a
@@ -1463,7 +1467,7 @@ become cheap as workers had little choice but to seek a master. One key way
 was for the state to seize the land and then sell it to the population. This
 would ensure that _"no labourer would be able to procure land until he had
 worked for money"_ and this _"would produce capital for the employment of more
-labourers."_ [quoted by Marx, **Op. Cit., **, p. 935, p. 936 and p. 939] Which
+labourers."_ [quoted by Marx, **Op. Cit.,** , p. 935, p. 936 and p. 939] Which
 is precisely what did occur.
 
 At the same time that it excluded the working class from virgin land, the
@@ -1477,7 +1481,7 @@ in circulation. The farmer had to pay off his debts in dollars that were
 harder to get. The bankers, getting loans back, were getting dollars worth
 more than when they loaned them out -- a kind of interest on top of interest.
 That was why so much of the talk of farmers' movements in those days had to do
-with putting more money in circulation."_ [Zinn, **Op. Cit.**, p. 278] This
+with putting more money in circulation."_ [Zinn, **Op. Cit.** , p. 278] This
 was the case with the Individualist Anarchists at the same time, we must add.
 
 Overall, therefore, state action ensured the transformation of America from a
@@ -1492,34 +1496,36 @@ option but to sell its liberty on the "free market". They was nothing
 attacked the "land monopoly" with the following words:
 
 > _"The earth, with its vast resources of mineral wealth, its spontaneous
-productions and its fertile soil, the free gift of God and the common
-patrimony of mankind, has for long centuries been held in the grasp of one set
-of oppressors by right of conquest or right of discovery; and it is now held
-by another, through the right of purchase from them. All of man's natural
-possessions . . . have been claimed as property; nor has man himself escaped
-the insatiate jaws of greed. The invasion of his rights and possessions has
-resulted . . . in clothing property with a power to accumulate an income."_
-[quoted by James Martin, **Men Against the State**, p. 142]
+> productions and its fertile soil, the free gift of God and the common
+> patrimony of mankind, has for long centuries been held in the grasp of one
+> set of oppressors by right of conquest or right of discovery; and it is now
+> held by another, through the right of purchase from them. All of man's
+> natural possessions . . . have been claimed as property; nor has man himself
+> escaped the insatiate jaws of greed. The invasion of his rights and
+> possessions has resulted . . . in clothing property with a power to
+> accumulate an income."_ [quoted by James Martin, **Men Against the State** ,
+> p. 142]
 
 Marx, correctly, argued that _"the capitalist mode of production and
 accumulation, and therefore capitalist private property, have for their
 fundamental condition the annihilation of that private property which rests on
 the labour of the individual himself; in other words, the expropriation of the
-worker."_ [**Capital**, Vol. 1, p. 940] He noted that to achieve this, the
+worker."_ [ **Capital** , Vol. 1, p. 940] He noted that to achieve this, the
 state is used:
 
 > _"How then can the anti-capitalistic cancer of the colonies be healed? . . .
-Let the Government set an artificial price on the virgin soil, a price
-independent of the law of supply and demand, a price that compels the
-immigrant to work a long time for wages before he can earn enough money to buy
-land, and turn himself into an independent farmer."_ [**Op. Cit.**, p. 938]
+> Let the Government set an artificial price on the virgin soil, a price
+> independent of the law of supply and demand, a price that compels the
+> immigrant to work a long time for wages before he can earn enough money to
+> buy land, and turn himself into an independent farmer."_ [ **Op. Cit.** , p.
+> 938]
 
 Moreover, tariffs were introduced with _"the objective of manufacturing
 capitalists artificially"_ for the _"system of protection was an artificial
 means of manufacturing manufacturers, or expropriating independent workers, of
 capitalising the national means of production and subsistence, and of forcibly
 cutting short the transition . . . to the modern mode of production,"_ to
-capitalism [**Op. Cit.**, p. 932 and pp. 921-2]
+capitalism [ **Op. Cit.** , p. 932 and pp. 921-2]
 
 So mercantilism, state aid in capitalist development, was also seen in the
 United States of America. As Edward Herman points out, the _"level of
@@ -1532,7 +1538,7 @@ War and the end of the nineteenth century [a period marked by "the aggressive
 use of tariff protection" and state supported railway construction, a key
 factor in capitalist expansion in the USA], followed by a gradual upswing of
 government intervention in the twentieth century, which accelerated after
-1930."_ [**Corporate Control, Corporate Power**, p. 162]
+1930."_ [ **Corporate Control, Corporate Power** , p. 162]
 
 Such intervention ensured that income was transferred from workers to
 capitalists. Under state protection, America industrialised by forcing the
@@ -1549,7 +1555,7 @@ drove many American competitors out of business. Large portions of the newly
 expanded manufacturing base were wiped out, bringing a decade of near-
 stagnation."_ Unsurprisingly, the _"era of protectionism began in 1816, with
 northern agitation for higher tariffs."_ [Richard B. Du Boff, **Accumulation
-and Power**, p. 56, p. 14 and p. 55] Combined with ready repression of the
+and Power** , p. 56, p. 14 and p. 55] Combined with ready repression of the
 labour movement and government "homesteading" acts (see [section
 F.8.5](secF8.md#secf85)), tariffs were the American equivalent of
 mercantilism (which, after all, was above all else a policy of protectionism,
@@ -1562,7 +1568,7 @@ state played a key role in the development of industry and manufacturing. As
 John Zerzan notes, the _"role of the State is tellingly reflected by the fact
 that the 'armoury system' now rivals the older 'American system of
 manufactures' term as the more accurate to describe the new system of
-production methods"_ developed in the early 1800s. [**Elements of Refusal**,
+production methods"_ developed in the early 1800s. [ **Elements of Refusal** ,
 p. 100] By the middle of the nineteenth century _"a distinctive 'American
 system of manufactures' had emerged . . . The lead in technological innovation
 [during the US Industrial Revolution] came in armaments where assured
@@ -1571,11 +1577,11 @@ machinery and managerial personnel. Indeed, some of the pioneering effects
 occurred in government-owned armouries."_ Other forms of state aid were used,
 for example the textile industry _"still required tariffs to protect [it] from
 . . . British competition."_ [William Lazonick, **Competitive Advantage on the
-Shop Floor**, p. 218 and p. 219] The government also _"actively furthered this
-process [of 'commercial revolution'] with public works in transportation and
-communication."_ In addition to this "physical" aid, _"state government
+Shop Floor** , p. 218 and p. 219] The government also _"actively furthered
+this process [of 'commercial revolution'] with public works in transportation
+and communication."_ In addition to this "physical" aid, _"state government
 provided critical help, with devices like the chartered corporation"_ [Richard
-B. Du Boff, **Op. Cit.**, p. 15] As we noted in [section
+B. Du Boff, **Op. Cit.** , p. 15] As we noted in [section
 B.2.5](secB2.md#secb25), there were changes in the legal system which
 favoured capitalist interests over the rest of society.
 
@@ -1589,13 +1595,13 @@ highly selective, as the general opinion was that _"[h]enceforth, if
 governments wished to subsidise private business operations, there would be no
 objection. But if public power were to be used to control business actions or
 if the public sector were to undertake economic initiatives on its own, it
-would run up against the determined opposition of private capital."_ [**Op.
-Cit.**, p. 26]
+would run up against the determined opposition of private capital."_ [ **Op.
+Cit.** , p. 26]
 
 State intervention was not limited to simply reducing the amount of available
 land or enforcing a high tariff. _"Given the independent spirit of workers in
 the colonies, capital understood that great profits required the use of unfree
-labour."_ [Michael Perelman, **The Invention of Capitalism**, p. 246] It was
+labour."_ [Michael Perelman, **The Invention of Capitalism** , p. 246] It was
 also applied in the labour market as well. Most obviously, it enforced the
 property rights of slave owners (until the civil war, produced when the pro-
 free trade policies of the South clashed with the pro-tariff desires of the
@@ -1655,13 +1661,13 @@ of the union movement."_ Using criminal conspiracy to counter combinations
 among employees was commonplace, with the law viewing a _"collective quitting
 of employment [as] a criminal interference"_ and combinations to raise the
 rate of labour _"indictable at common law."_ [Christopher L. Tomlins, **Law,
-Labor, and Ideology in the Early American Republic**, p. 113, p. 295, p. 159
+Labor, and Ideology in the Early American Republic** , p. 113, p. 295, p. 159
 and p. 213] By the end of the nineteenth century, state repression for
 conspiracy was replaced by state repression for acting like a trust while
 actual trusts were ignored and so laws, ostensibly passed (with the help of
 the unions themselves) to limit the power of capital, were turned against
 labour (this should be unsurprising as it was a capitalist state which passed
-them). [Howard Zinn, **A People's History of the United States**, p. 254]
+them). [Howard Zinn, **A People's History of the United States** , p. 254]
 
 Another key means to limit the freedom of workers was denying departing
 workers their wages for the part of the contract they had completed. This
@@ -1680,7 +1686,7 @@ worker left the boss he would expect a similar outcome. This was because the
 courts had decided that the _"employer was entitled not only to receipt of the
 services contracted for in their entirety prior to payment but also to the
 obedience of the employee in the process of rendering them."_ [Tomlins, **Op.
-Cit.**, pp. 278-9, p. 274, p. 272 and pp. 279-80] The ability of workers to
+Cit.** , pp. 278-9, p. 274, p. 272 and pp. 279-80] The ability of workers to
 seek self-employment on the farm or workplace or even better conditions and
 wages were simply abolished by employers turning to the state.
 
@@ -1727,7 +1733,7 @@ for their own needs. Most of the rest were self-employed artisans, merchants,
 traders, and professionals. Other classes -- employees and industrialists in
 the North, slaves and planters in the South -- were relatively small. The
 great majority of Americans were independent and free from anybody's
-command."_ [**Strike!**, p. xxi] So the availability of land ensured that in
+command."_ [ **Strike!** , p. xxi] So the availability of land ensured that in
 America, slavery and indentured servants were the only means by which
 capitalists could get people to work for them. This was because slaves and
 servants were not able to leave their masters and become self-employed farmers
@@ -1754,26 +1760,26 @@ due to manhood as to glory in a system forced upon them by their necessity and
 in opposition to their feelings of independence and self-respect. May the
 piano trade be spared such exhibitions of the degrading power of the day
 [wage] system."_ [quoted by Brecher and Costello, **Common Sense for Hard
-Times**, p. 26]
+Times** , p. 26]
 
 Clearly the working class did not consider working for a daily wage, in
 contrast to working for themselves and selling their own product, to be a step
 forward for liberty or individual dignity. The difference between selling the
 product of one's labour and selling one's labour (i.e. oneself) was seen and
-condemned (_"[w]hen the producer . . . sold his product, he retained himself.
+condemned ( _"[w]hen the producer . . . sold his product, he retained himself.
 But when he came to sell his labour, he sold himself . . . the extension [of
 wage labour] to the skilled worker was regarded by him as a symbol of a deeper
-change."_ [Norman Ware, **The Industrial Worker, 1840-1860**, p. xiv]).
+change."_ [Norman Ware, **The Industrial Worker, 1840-1860** , p. xiv]).
 Indeed, one group of workers argued that they were _"slaves in the strictest
 sense of the word"_ as they had _"to toil from the rising of the sun to the
 going down of the same for our masters -- aye, masters, and for our daily
-bread."_ [quoted by Ware, **Op. Cit.**, p. 42] Another group argued that _"the
-factory system contains in itself the elements of slavery, we think no sound
-reasoning can deny, and everyday continues to add power to its incorporate
-sovereignty, while the sovereignty of the working people decreases in the same
-degree."_ [quoted by Brecher and Costello, **Op. Cit.**, p. 29] For working
-class people, free labour meant something radically different than that
-subscribed to by employers and economists. For workers, free labour meant
+bread."_ [quoted by Ware, **Op. Cit.** , p. 42] Another group argued that
+_"the factory system contains in itself the elements of slavery, we think no
+sound reasoning can deny, and everyday continues to add power to its
+incorporate sovereignty, while the sovereignty of the working people decreases
+in the same degree."_ [quoted by Brecher and Costello, **Op. Cit.** , p. 29]
+For working class people, free labour meant something radically different than
+that subscribed to by employers and economists. For workers, free labour meant
 economic independence through the ownership of productive equipment or land.
 For bosses, it meant workers being free of any alternative to consenting to
 authoritarian organisations within their workplaces -- if that required state
@@ -1789,8 +1795,8 @@ founded upon the pre-industrial master's claim to property in his servant's
 personal services."_ Courts were _"having recourse to master/servant's
 language of power and control"_ as the _"preferred strategy for dealing with
 the employment relation"_ and so advertised their conclusion that _"employment
-relations were properly to be conceived of as generically hierarchical."_
-[**Op. Cit.**, p. 231 and p. 225] As we noted in [ last
+relations were properly to be conceived of as generically hierarchical."_ [
+**Op. Cit.** , p. 231 and p. 225] As we noted in [ last
 section](secF8.md#secf85) the courts, judges and jurists acted to outlaw
 unions as conspiracies and force workers to work the full length of their
 contracts. In addition, they also reduced employer liability in industrial
@@ -1802,8 +1808,8 @@ toward wage labour and almost as soon as there were wage workers, there were
 strikes, machine breaking, riots, unions and many other forms of resistance.
 John Zerzan's argument that there was a _"relentless assault on the worker's
 historical rights to free time, self-education, craftsmanship, and play was at
-the heart of the rise of the factory system"_ is extremely accurate.
-[**Elements of Refusal**, p. 105] And it was an assault that workers resisted
+the heart of the rise of the factory system"_ is extremely accurate. [
+**Elements of Refusal** , p. 105] And it was an assault that workers resisted
 with all their might. In response to being subjected to the wage labour,
 workers rebelled and tried to organise themselves to fight the powers that be
 and to replace the system with a co-operative one. As the printer's union
@@ -1814,8 +1820,8 @@ interests of the employing and the employed classes . . . when labour
 determines to sell itself no longer to speculators, but to become its own
 employer, to own and enjoy itself and the fruit thereof, the necessity for
 scales of prices will have passed away and labour will be forever rescued from
-the control of the capitalist."_ [quoted by Brecher and Costello, **Op.
-Cit.**, pp. 27-28]
+the control of the capitalist."_ [quoted by Brecher and Costello, **Op. Cit.**
+, pp. 27-28]
 
 Little wonder, then, why wage labourers considered capitalism as a modified
 form of slavery and why the term _"wage slavery"_ became so popular in the
@@ -1825,12 +1831,12 @@ socialist movements in response. As labour historian Norman Ware notes, the
 _"term 'wage slave' had a much better standing in the forties [of the 19th
 century] than it has today. It was not then regarded as an empty shibboleth of
 the soap-box orator. This would suggest that it has suffered only the normal
-degradation of language, has become a **cliche**, not that it is a grossly
-misleading characterisation."_ [**Op. Cit.**, p. xvf] It is no coincidence
+degradation of language, has become a **cliche** , not that it is a grossly
+misleading characterisation."_ [ **Op. Cit.** , p. xvf] It is no coincidence
 that, in America, the first manufacturing complex in Lowell was designed to
 symbolise its goals and its hierarchical structure nor that its design was
 emulated by many of the penitentiaries, insane asylums, orphanages and
-reformatories of the period. [Bookchin, **The Ecology of Freedom**, p. 392]
+reformatories of the period. [Bookchin, **The Ecology of Freedom** , p. 392]
 
 These responses of workers to the experience of wage labour is important as
 they show that capitalism is by no means "natural." The fact is the first
@@ -1850,15 +1856,15 @@ degree."_ Those actually subjected to this _"benevolent"_ dictatorship had a
 somewhat different perspective. Workers, in contrast, were perfectly aware
 that wage labour was wage slavery -- that they were decidedly **unfree**
 during working hours and subjected to the will of another. The workers
-therefore attacked capitalism precisely because it was despotism
-(_"monarchical principles on democratic soil"_) and thought they _"who work in
+therefore attacked capitalism precisely because it was despotism (
+_"monarchical principles on democratic soil"_ ) and thought they _"who work in
 the mills ought to own them."_ Unsurprisingly, when workers did revolt against
 the benevolent despots, the workers noted how the bosses responded by marking
 _"every person with intelligence and independence . . . He is a suspected
 individual and must be either got rid of or broken in. Hundreds of honest
 labourers have been dismissed from employment . . . because they have been
 suspected of knowing their rights and daring to assert them."_ [quoted by
-Ware, **Op. Cit.**, p. 78, p. 79 and p. 110]
+Ware, **Op. Cit.** , p. 78, p. 79 and p. 110]
 
 While most working class people now are accustomed to wage labour (while often
 hating their job) the actual process of resistance to the development of
@@ -1872,36 +1878,36 @@ labourer subject to the orders and discipline of the master, and an artisan,
 who might 'come and go' as he pleased, was wide enough for men to shed blood
 rather than allow themselves to be pushed from one side to the other. And, in
 the value system of the community, those who resisted degradation were in the
-right."_ [**The Making of the English Working Class**, p. 599]
+right."_ [ **The Making of the English Working Class** , p. 599]
 
 Opposition to wage labour and factory fascism was/is widespread and seems to
-occur wherever it is encountered. _"Research has shown"_, summarises William
+occur wherever it is encountered. _"Research has shown"_ , summarises William
 Lazonick, _"that the 'free-born Englishman' of the eighteenth century -- even
 those who, by force of circumstance, had to submit to agricultural wage labour
--- tenaciously resisted entry into the capitalist workshop."_ [**Competitive
-Advantage on the Shop Floor**, p. 37] British workers shared the dislike of
+-- tenaciously resisted entry into the capitalist workshop."_ [ **Competitive
+Advantage on the Shop Floor** , p. 37] British workers shared the dislike of
 wage labour of their American cousins. A _"Member of the Builders' Union"_ in
 the 1830s argued that the trade unions _"will not only strike for less work,
-and more wages, but will ultimately **abolish wages**, become their own
+and more wages, but will ultimately **abolish wages** , become their own
 masters and work for each other; labour and capital will no longer be separate
 but will be indissolubly joined together in the hands of workmen and work-
-women."_ [quoted by E. P. Thompson, **Op. Cit.**, p. 912] This perspective
+women."_ [quoted by E. P. Thompson, **Op. Cit.** , p. 912] This perspective
 inspired the **Grand National Consolidated Trades Union** of 1834 which had
 the _"two-fold purpose of syndicalist unions -- the protection of the workers
 under the existing system and the formation of the nuclei of the future
 society"_ when the unions _"take over the whole industry of the country."_
-[Geoffrey Ostergaard, **The Tradition of Workers' Control**, p. 133] As
+[Geoffrey Ostergaard, **The Tradition of Workers' Control** , p. 133] As
 Thompson noted, _"industrial syndicalism"_ was a major theme of this time in
 the labour movement. _"When Marx was still in his teens,"_ he noted, British
 trade unionists had _"developed, stage by stage, a theory of syndicalism"_ in
 which the _"unions themselves could solve the problem of political power"_
 along with wage slavery. This vision was lost _"in the terrible defeats of
-1834 and 1835."_ [**Op. Cit.**, p. 912 and p. 913] In France, the mutualists
+1834 and 1835."_ [ **Op. Cit.** , p. 912 and p. 913] In France, the mutualists
 of Lyons had come to the same conclusions, seeking _"the formation of a series
 of co-operative associations"_ which would _"return to the workers control of
 their industry."_ Proudhon would take up this theme, as would the anarchist
 movement he helped create. [K. Steven Vincent, **Pierre-Jospeh Proudhon and
-the Rise of French Republican Socialism**, pp. 162-3] Similar movements and
+the Rise of French Republican Socialism** , pp. 162-3] Similar movements and
 ideas developed elsewhere, as capitalism was imposed (subsequent developments
 were obviously influenced by the socialist ideas which had arisen earlier and
 so were more obviously shaped by anarchist and Marxist ideas).
@@ -1931,7 +1937,7 @@ which capitalism had provoked in its wage slaves. With our support for
 workers' self-management of production, _"as in so many others, the anarchists
 remain guardians of the libertarian aspirations which moved the first rebels
 against the slavery inherent in the capitalist mode of production."_
-[Ostergaard, **Op. Cit.**, p. 27 and p. 90]
+[Ostergaard, **Op. Cit.** , p. 27 and p. 90]
 
 State action was required produce and protect the momentous changes in social
 relations which are central to the capitalist system. However, once capital
@@ -1969,7 +1975,7 @@ still exist and they will remain until such time as we organise and abolish
 capitalism and the state.
 
 [‹ F.7 How does the history of "anarcho"-capitalism show that it is not
-anarchist?](secF7.md "Go to previous page" ) [up](secFcon.md "Go to parent
-page" ) [Section G - Is individualist anarchism capitalistic? ›](secGcon.md
-"Go to next page" )
+anarchist?](secF7.md "Go to previous page") [up](secFcon.md "Go to parent
+page") [Section G - Is individualist anarchism capitalistic? ›](secGcon.md
+"Go to next page")
 

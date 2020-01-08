@@ -6,7 +6,7 @@ shown that capitalism evolved naturally, in opposition to state intervention.
 However, in reality, the opposite is the case. Capitalism was born from state
 intervention and, in the words of Kropotkin, _"the State . . . and capitalism
 . . . developed side by side, mutually supporting and re-enforcing each
-other."_ [**Kropotkin's Revolutionary Pamphlets**, p. 181]
+other."_ [ **Kropotkin's Revolutionary Pamphlets** , p. 181]
 
 Numerous writers have made this point. For example, in Karl Polanyi's flawed
 masterpiece **The Great Transformation** we read that _"the road to the free
@@ -21,18 +21,18 @@ enriched the European economy, giving the development of capitalism an added
 boost. Thus Kropotkin:
 
 > _"The history of the genesis of capital has already been told by socialists
-many times. They have described how it was born of war and pillage, of slavery
-and serfdom, of modern fraud and exploitation. They have shown how it is
-nourished by the blood of the worker, and how little by little it has
-conquered the whole world."_ [**Op. Cit.**,p. 207]
+> many times. They have described how it was born of war and pillage, of
+> slavery and serfdom, of modern fraud and exploitation. They have shown how
+> it is nourished by the blood of the worker, and how little by little it has
+> conquered the whole world."_ [ **Op. Cit.** ,p. 207]
 
 Or, if Kropotkin seems too committed to be fair, we have John Stuart Mill's
 statement that:
 
 > _"The social arrangements of modern Europe commenced from a distribution of
-property which was the result, not of just partition, or acquisition by
-industry, but of conquest and violence. . . "_ [**Principles of Political
-Economy**, p. 15]
+> property which was the result, not of just partition, or acquisition by
+> industry, but of conquest and violence. . . "_ [ **Principles of Political
+> Economy** , p. 15]
 
 Therefore, when supporters of "libertarian" capitalism say they are against
 the "initiation of force," they mean only **new** initiations of force; for
@@ -48,7 +48,7 @@ argued, _"the concept of a 'primitive accumulation,' or an original store of
 wealth, in land and in movable property, brought about by means of purely
 economic forces"_ while _"seem[ing] quite plausible"_ is in fact _"utterly
 mistaken; it is a 'fairly tale,' or it is a class theory used to justify the
-privileges of the upper classes."_ [**The State**, pp. 5-6]
+privileges of the upper classes."_ [ **The State** , pp. 5-6]
 
 This thesis will be discussed in the following sections. It is, of course,
 ironic to hear right-wing libertarians sing the praises of a capitalism that
@@ -62,8 +62,8 @@ industrial sector would have gone bankrupt without very high protective
 tariffs, thus terminating industrial development in the United States? Or the
 high tariffs that radically undermined economic efficiency to allow the United
 States to develop steel and other manufacturing capacities? Or the gross
-distortions of the market that created modern electronics?"_ [**World Orders,
-Old and New**, p. 168]. To claim, therefore, that "mercantilism" is not
+distortions of the market that created modern electronics?"_ [ **World Orders,
+Old and New** , p. 168]. To claim, therefore, that "mercantilism" is not
 capitalism makes little sense. Without mercantilism, "proper" capitalism would
 never have developed, and any attempt to divorce a social system from its
 roots is ahistoric and makes a mockery of critical thought.
@@ -87,7 +87,7 @@ they used, although we stress that this process started on the land and not in
 industry). So they contrast "bad" business people (who took state aid) and
 "good" ones. Thus Rothbard's comment that Marxists have _"made no particular
 distinction between 'bourgeoisie' who made use of the state, and bourgeoisie
-who acted on the free market."_ [**The Ethics of Liberty**, p. 72]
+who acted on the free market."_ [ **The Ethics of Liberty** , p. 72]
 
 But such an argument is nonsense as it ignores the fact that the "free market"
 is a network (and defined by the state by the property rights it enforces).
@@ -158,17 +158,17 @@ Capitalist society is a relatively recent development. As Murray Bookchin
 points out, for a _"long era, perhaps spanning more than five centuries,"_
 capitalism _"coexisted with feudal and simple commodity relationships"_ in
 Europe. He argues that this period _"simply cannot be treated as
-'transitional' without reading back the present into the past."_ [**From
-Urbanisation to Cities**, p. 179] In other words, capitalism was not a
+'transitional' without reading back the present into the past."_ [ **From
+Urbanisation to Cities** , p. 179] In other words, capitalism was not a
 inevitable outcome of "history" or social evolution.
 
 He goes on to note that capitalism existed _"with growing significance in the
 mixed economy of the West from the fourteenth century up to the seventeenth"_
 but that it _"literally exploded into being in Europe, particularly England,
-during the eighteenth and especially nineteenth centuries."_ [**Op. Cit.**, p.
-181] The question arises, what lay behind this _"growing significance"_? Did
-capitalism _"explode"_ due to its inherently more efficient nature or where
-there other, non-economic, forces at work? As we will show, it was most
+during the eighteenth and especially nineteenth centuries."_ [ **Op. Cit.** ,
+p. 181] The question arises, what lay behind this _"growing significance"_?
+Did capitalism _"explode"_ due to its inherently more efficient nature or
+where there other, non-economic, forces at work? As we will show, it was most
 definitely the later one -- capitalism was born not from economic forces but
 from the political actions of the social elites which its usury enriched.
 Unlike artisan (simple commodity) production, wage labour generates
@@ -188,7 +188,7 @@ Mercantilism in the perishing city republics led logically to a demand for
 larger economic units [i.e. to nationalise the market]; and by this the desire
 for stronger political forms was greatly strengthened. . . . Thus the city
 gradually became a small state, paving the way for the coming national
-state."_ [Rudolf Rocker, **Nationalism and Culture**, p. 94]
+state."_ [Rudolf Rocker, **Nationalism and Culture** , p. 94]
 
 The rising economic power of the proto-capitalists conflicted with that of the
 feudal lords, which meant that the former required help to consolidate their
@@ -203,7 +203,7 @@ first furthered the plans of commercial capital. Its armies and fleets . . .
 contributed to the expansion of industrial production because they demanded a
 number of things for whose large-scale production the shops of small tradesmen
 were no longer adapted. Thus gradually arose the so-called manufactures, the
-forerunners of the later large industries."_ [**Op. Cit.**, p. 117-8]
+forerunners of the later large industries."_ [ **Op. Cit.** , p. 117-8]
 
 Some of the most important state actions from the standpoint of early industry
 were the so-called Enclosure Acts, by which the "commons" -- the free farmland
@@ -215,7 +215,7 @@ widespread independence caused by the possession of the majority of households
 of land caused the rising class of merchants to complain _"that men who should
 work as wage-labourers cling to the soil, and in the naughtiness of their
 hearts prefer independence as squatters to employment by a master."_ [R.H
-Tawney, cited by Allan Elgar in **The Apostles of Greed**, p. 12]
+Tawney, cited by Allan Elgar in **The Apostles of Greed** , p. 12]
 
 In addition, other forms of state aid ensured that capitalist firms got a head
 start, so ensuring their dominance over other forms of work (such as co-
@@ -233,15 +233,15 @@ to increase their investments. In the words of Marian-socialist economic
 historian Maurice Dobbs:
 
 > _"In short, the Mercantile System was a system of State-regulated
-exploitation through trade which played a highly important rule in the
-adolescence of capitalist industry: it was essentially the economic policy of
-an age of primitive accumulation."_ [**Studies in Capitalism Development**, p.
-209]
+> exploitation through trade which played a highly important rule in the
+> adolescence of capitalist industry: it was essentially the economic policy
+> of an age of primitive accumulation."_ [ **Studies in Capitalism
+> Development** , p. 209]
 
 As Rocker summarises, _"when abolutism had victoriously overcome all
 opposition to national unification, but its furthering of mercantilism and
 economic monopoly it gave the whole social evolution a direction which could
-only lead to capitalism."_ [**Op. Cit.**, pp. 116-7]
+only lead to capitalism."_ [ **Op. Cit.** , pp. 116-7]
 
 This process of state aid in capitalist development was also seen in the
 United States of America. As Edward Herman points out, the _"level of
@@ -254,7 +254,7 @@ War and the end of the nineteenth century [a period marked by "the aggressive
 use of tariff protection" and state supported railway construction, a key
 factor in capitalist expansion in the USA], followed by a gradual upswing of
 government intervention in the twentieth century, which accelerated after
-1930."_ [**Corporate Control, Corporate Power**, p. 162]
+1930."_ [ **Corporate Control, Corporate Power** , p. 162]
 
 Such intervention ensured that income was transferred from workers to
 capitalists. Under state protection, America industrialised by forcing the
@@ -265,14 +265,14 @@ the tariff became a near-permanent political institution representing
 government assistance to manufacturing. It kept price levels from being driven
 down by foreign competition and thereby shifted the distribution of income in
 favour of owners of industrial property to the disadvantage of workers and
-customers."_ [Richard B. Du Boff, **Accumulation and Power**, p. 56]
+customers."_ [Richard B. Du Boff, **Accumulation and Power** , p. 56]
 
 This protection was essential, for as Du Boff notes, the _"end of the European
 wars in 1814 . . . reopened the United States to a flood of British imports
 that drove many American competitors out of business. Large portions of the
 newly expanded manufacturing base were wiped out, bringing a decade of near-
 stagnation."_ Unsurprisingly, the _"era of protectionism began in 1816, with
-northern agitation for higher tariffs. . . "_ [**Op. Cit.**, p. 14, p. 55]
+northern agitation for higher tariffs. . . "_ [ **Op. Cit.** , p. 14, p. 55]
 
 Combined with ready repression of the labour movement and government
 "homesteading" acts (see section [8.5](append138.md#secf85)), tariffs were
@@ -286,27 +286,27 @@ state played a key role in the development of industry and manufacturing. As
 John Zerzan notes, the _"role of the State is tellingly reflected by the fact
 that the 'armoury system' now rivals the older 'American system of
 manufactures' term as the more accurate to describe the new system of
-production methods"_ developed in the early 1800s. [**Elements of Refusal**,
+production methods"_ developed in the early 1800s. [ **Elements of Refusal** ,
 p. 100] Moreover, the _"lead in technological innovation [during the US
 Industrial Revolution] came in armaments where assured government orders
 justified high fixed-cost investments in special-pursue machinery and
 managerial personnel. Indeed, some of the pioneering effects occurred in
 government-owned armouries."_ [William Lazonick, **Competitive Advantage on
-the Shop Floor**, p. 218] The government also _"actively furthered this
+the Shop Floor** , p. 218] The government also _"actively furthered this
 process [of "commercial revolution"] with public works in transportation and
-communication."_ [Richard B. Du Boff, **Op. Cit.**, p. 15]
+communication."_ [Richard B. Du Boff, **Op. Cit.** , p. 15]
 
 In addition to this "physical" aid, _"state government provided critical help,
-with devices like the chartered corporation"_ [**Ibid.**] and, as we noted in
-section [B.2.5](secB2.md#secb25), changes in the legal system which favoured
-capitalist interests over the rest of society.
+with devices like the chartered corporation"_ [ **Ibid.** ] and, as we noted
+in section [B.2.5](secB2.md#secb25), changes in the legal system which
+favoured capitalist interests over the rest of society.
 
 Interestingly, there was increasing inequality between 1840 and 1860 in the
 USA This coincided with the victory of wage labour and industrial capitalism
 -- the 1820s _"constituted a watershed in U.S. life. By the end of that decade
 . . .industrialism assured its decisive American victory, by the end of the
 1830s all of its cardinal features were definitely present."_ [John Zerzan,
-**Op. Cit.**, p. 99] This is unsurprising, for as we have argued many times,
+**Op. Cit.** , p. 99] This is unsurprising, for as we have argued many times,
 the capitalist market tends to increase, not reduce, inequalities between
 individuals and classes. Little wonder the Individualist Anarchists at the
 time denounced the way that property had been transformed into _"a power [with
@@ -318,8 +318,8 @@ economic history since the Industrial Revolution . . . every country which has
 moved into . . . strong sustained growth . . . has done so in outright
 violation of pure, free-market principles." "The model of entrepreneurial
 activity in the product market, with judicious state support plus repression
-in the labour market, seems to be a good model of economic development."_
-[**The Death of Economics**, p. 63]
+in the labour market, seems to be a good model of economic development."_ [
+**The Death of Economics** , p. 63]
 
 Thus the social forces at work creating capitalism was a combination of
 capitalist activity and state action. But without the support of the state, it
@@ -335,7 +335,7 @@ did not last long. _"This selfsame monarchy, which for weighty reasons sought
 to further the aims of commercial capital and was. . . itself aided in its
 development by capital, grew at last into a crippling obstacle to any further
 development of European industry."_ [Rudolf Rocker, **Nationalism and
-Culture**, p. 117]
+Culture** , p. 117]
 
 This is the social context of the expression _"laissez-faire"_ \-- a system
 which has outgrown the supports that protected it in its early stages of
@@ -348,10 +348,10 @@ capitalists to changing environments. As Rocker argues, _"no matter how the
 abolutist state strove, in its own interest, to meety the demands of commerce,
 it still put on industry countless fetters which became gradually more and
 more oppressive . . . [it] became an unbearable burden . . . which paralysed
-all economic and social life."_ [_Op. Cit._, p. 119] All in all, mercantilism
-became more of a hindrance than a help and so had to be replaced. With the
-growth of economic and social power by the capitalist class, this replacement
-was made easier.
+all economic and social life."_ [ _Op. Cit._ , p. 119] All in all,
+mercantilism became more of a hindrance than a help and so had to be replaced.
+With the growth of economic and social power by the capitalist class, this
+replacement was made easier.
 
 Errico Malatesta notes, _"[t]he development of production, the vast expansion
 of commerce, the immeasurable power assumed by money . . . have guaranteed
@@ -367,7 +367,7 @@ an arrogant manner towards the people they have to escort and defend, when
 they don't rob or kill them at the next street corner; and the capitalist
 class got rid of it . . . [and replaced it] by a government [and state] . . .
 at all times under its control and specifically organised to defend that class
-against any possible demands by the disinherited."_ [**Anarchy**, pp. 19-20]
+against any possible demands by the disinherited."_ [ **Anarchy** , pp. 19-20]
 
 Malatesta here indicates the true meaning of _"leave us alone,"_ or _"laissez-
 faire."_ The **absolutist** state (not "the state" per se) began to interfere
@@ -378,17 +378,17 @@ was encouraged and applauded by capitalists. _"It is ironic that the main
 protagonists of the State, in its political and administrative authority, were
 the middle-class Utilitarians, on the other side of whose Statist banner were
 inscribed the doctrines of economic Laissez Faire"_ [E.P. Thompson, **The
-Making of the English Working Class**, p. 90]. Capitalists simply wanted
+Making of the English Working Class** , p. 90]. Capitalists simply wanted
 **capitalist** states to replace monarchical states, so that heads of
 government would follow state economic policies regarded by capitalists as
 beneficial to their class as a whole. And as development economist Lance
 Taylor argues:
 
 > _"In the long run, there are no laissez-faire transitions to modern economic
-growth. The state has always intervened to create a capitalist class, and then
-it has to regulate the capitalist class, and then the state has to worry about
-being taken over by the capitalist class, but the state has always been
-there."_ [quoted by Noam Chomsky, **Year 501**, p. 104]
+> growth. The state has always intervened to create a capitalist class, and
+> then it has to regulate the capitalist class, and then the state has to
+> worry about being taken over by the capitalist class, but the state has
+> always been there."_ [quoted by Noam Chomsky, **Year 501** , p. 104]
 
 In order to attack mercantilism, the early capitalists had to ignore the
 successful impact of its policies in developing industry and a "store of
@@ -408,8 +408,8 @@ conditions for Britain to embark on its dynamic development path . . . They
 did not bother to ask how Britain had attained th[e] position [of 'workshop of
 the world'], while they conveniently ignored the on going system of national
 power - the British Empire -- that . . . continued to support Britain's
-position."_ [**Business Organisation and the Myth of the Market Economy**, p.
-2, p. 3, p.5]
+position."_ [ **Business Organisation and the Myth of the Market Economy** ,
+p. 2, p. 3, p.5]
 
 Similar comments are applicable to American supporters of laissez faire who
 fail to notice that the "traditional" American support for world-wide free
@@ -431,7 +431,7 @@ _"[h]enceforth, if governments wished to subsidise private business
 operations, there would be no objection. But if public power were to be used
 to control business actions or if the public sector were to undertake economic
 initiatives on its own, it would run up against the determined opposition of
-private capital."_ [**Accumulation and Power**, p. 26] In other words, the
+private capital."_ [ **Accumulation and Power** , p. 26] In other words, the
 state could aid capitalists indirectly (via tariffs, land policy, repression
 of the labour movement, infrastructure subsidy and so on) and it would "leave
 them alone" to oppress and exploit workers, exploit consumers, build their
@@ -443,28 +443,29 @@ has little to do with freedom as such and far more to do with the needs of
 capitalist power and profits (as Murray Bookchin argues, it is an error to
 depict this _"revolutionary era and its democratic aspirations as 'bourgeois,'
 an imagery that makes capitalism a system more committed to freedom, or even
-ordinary civil liberties, than it was historically"_ [**From Urbanisation to
-Cities**, p. 180f]). Takis Fotopoules, in his essay _"The Nation-state and the
-Market"_, indicates that the social forces at work in "freeing" the market did
-not represent a "natural" evolution towards freedom:
+ordinary civil liberties, than it was historically"_ [ **From Urbanisation to
+Cities** , p. 180f]). Takis Fotopoules, in his essay _"The Nation-state and
+the Market"_ , indicates that the social forces at work in "freeing" the
+market did not represent a "natural" evolution towards freedom:
 
 > _"Contrary to what liberals and Marxists assert, marketisation of the
-economy was not just an evolutionary process, following the expansion of trade
-under mercantilism . . . modern [i.e. capitalist] markets did not evolve out
-of local markets and/or markets for foreign goods . . . the nation-state,
-which was just emerging at the end of the Middle Ages, played a crucial role
-creating the conditions for the 'nationalisation' of the market . . . and . .
-. by freeing the market [i.e. the rich and proto-capitalists] from effective
-social control."_ [**Society and Nature**, Vol. 3, pp. 44-45]
+> economy was not just an evolutionary process, following the expansion of
+> trade under mercantilism . . . modern [i.e. capitalist] markets did not
+> evolve out of local markets and/or markets for foreign goods . . . the
+> nation-state, which was just emerging at the end of the Middle Ages, played
+> a crucial role creating the conditions for the 'nationalisation' of the
+> market . . . and . . . by freeing the market [i.e. the rich and proto-
+> capitalists] from effective social control."_ [ **Society and Nature** ,
+> Vol. 3, pp. 44-45]
 
 The "freeing" of the market thus means freeing those who "own" most of the
 market (i.e. the wealthy elite) from _"effective social control,"_ but the
 rest of society was not as lucky. Peter Kropotkin makes a similar point in
-**Modern Science and Anarchism**, _"[w]hile giving the capitalist any degree
+**Modern Science and Anarchism** , _"[w]hile giving the capitalist any degree
 of free scope to amass his wealth at the expense of the helpless labourers,
 the government has **nowhere** and **never**. . .afforded the labourers the
-opportunity 'to do as they pleased'."_ [**Kropotkin's Revolutionary
-Pamphlets**, p. 182]
+opportunity 'to do as they pleased'."_ [ **Kropotkin's Revolutionary
+Pamphlets** , p. 182]
 
 The one essential form of support the "Libertarian" right wants the state (or
 "defence" firms) to provide capitalism is the enforcement of property rights
@@ -479,7 +480,7 @@ F](append13con.md), so we will not repeat ourselves here.
 Samuel Johnson once observed that _"we hear the loudest **yelps** for liberty
 among the drivers of Negroes."_ Our modern "libertarian" capitalist drivers of
 wage-slaves are yelping for exactly the same kind of "liberty." [Johnson
-quoted in Noam Chomsky, **Year 501**, p. 141]
+quoted in Noam Chomsky, **Year 501** , p. 141]
 
 ## 8.3 What other forms did state intervention in creating capitalism take?
 
@@ -496,8 +497,8 @@ However, one of the most blatant of these acts was the enclosure of common
 land. In Britain, by means of the Enclosure Acts, land that had been freely
 used by poor peasants for farming their small family plots was claimed by
 large landlords as private property. As E.P. Thompson notes, _"Parliament and
-law imposed capitalist definitions to exclusive property in land"_ [**Customs
-in Common**, p. 163]. Property rights, which exclusively favoured the rich,
+law imposed capitalist definitions to exclusive property in land"_ [ **Customs
+in Common** , p. 163]. Property rights, which exclusively favoured the rich,
 replaced the use rights and free agreement that had governed peasant's use of
 the commons. Unlike use rights, which rest in the individual, property rights
 require state intervention to create and maintain.
@@ -516,27 +517,27 @@ a key role, for _"it is clear that economic inequalities are unlikely to
 create a division of society into an employing master class and a subject
 wage-earning class, unless access to the mans of production, including land,
 is by some means or another barred to a substantial section of the
-community."_ [Maurice Dobbs, **Studies in Capitalist Development**, p. 253]
+community."_ [Maurice Dobbs, **Studies in Capitalist Development** , p. 253]
 
 The importance of access to land is summarised by this limerick by the
 followers of Henry George (a 19th century writer who argued for a _"single
 tax"_ and the nationalisation of land). The Georgites got their basic argument
 on the importance of land down these few, excellent lines:
 
-_ A college economist planned  
+_A college economist planned  
 To live without access to land  
 He would have succeeded  
 But found that he needed  
-Food, shelter and somewhere to stand. _
+Food, shelter and somewhere to stand. _
 
 Thus the Individualist (and other) anarchists' concern over the _"land
 monopoly"_ of which the Enclosure Acts were but one part. The land monopoly,
 to use Tucker's words, _"consists in the enforcement by government of land
-titles which do not rest upon personal occupancy and cultivation."_ [**The
-Anarchist Reader**, p. 150] It is important to remember that wage labour first
-developed on the land and it was the protection of land titles of landlords
-and nobility, combined with enclosure, that meant people could not just work
-their own land.
+titles which do not rest upon personal occupancy and cultivation."_ [ **The
+Anarchist Reader** , p. 150] It is important to remember that wage labour
+first developed on the land and it was the protection of land titles of
+landlords and nobility, combined with enclosure, that meant people could not
+just work their own land.
 
 In other words, the circumstances so created by enclosing the land and
 enforcing property rights to large estates ensured that capitalists did not
@@ -559,12 +560,12 @@ their usual rhetoric about civilisation and progress. Thus John Bellers, a
 17th-century supporter of enclosures, claimed that commons were _"a hindrance
 to Industry, and . . . Nurseries of Idleness and Insolence."_ The _"forests
 and great Commons make the Poor that are upon them too much like the
-**indians.**"_ [quoted by Thompson, **Op. Cit.**, p. 163] Elsewhere Thompson
+**indians.** "_ [quoted by Thompson, **Op. Cit.** , p. 163] Elsewhere Thompson
 argues that the commons _"were now seen as a dangerous centre of indiscipline
 . . . Ideology was added to self-interest. It became a matter of public-
 spirited policy for gentlemen to remove cottagers from the commons, reduce his
-labourers to dependence . . ."_ [**The Making of the English Working Class**,
-pp. 242-3]
+labourers to dependence . . ."_ [ **The Making of the English Working Class**
+, pp. 242-3]
 
 The commons gave working-class people a degree of independence which allowed
 them to be "insolent" to their betters. This had to be stopped, as it
@@ -581,8 +582,8 @@ As the early American economist Edward Wakefield noted in 1833, _"where land
 is cheap and all are free, where every one who so pleases can easily obtain a
 piece of land for himself, not only is labour dear, as respects the labourer's
 share of the product, but the difficulty is to obtain combined labour at any
-price."_ [**England and America**, quoted by Jeremy Brecher and Tim Costello,
-**Commonsense for Hard Times**, p. 24]
+price."_ [ **England and America** , quoted by Jeremy Brecher and Tim
+Costello, **Commonsense for Hard Times** , p. 24]
 
 The enclosure of the commons (in whatever form it took -- see section
 [8.5](append138.md#secf85) for the US equivalent) solved both problems --
@@ -592,18 +593,18 @@ to ensure that the majority of people do not have free access to any means of
 livelihood and so must sell themselves to capitalists in order to survive.
 There is no doubt that if the state had "left alone" the European peasantry,
 allowing them to continue their collective farming practices ("collective
-farming" because, as Kropotkin shows in **Mutual Aid**, the peasants not only
+farming" because, as Kropotkin shows in **Mutual Aid** , the peasants not only
 shared the land but much of the farm labour as well), capitalism could not
-have taken hold (see **Mutual Aid**, pp. 184-189, for more on the European
+have taken hold (see **Mutual Aid** , pp. 184-189, for more on the European
 enclosures). As Kropotkin notes, _"[i]nstances of commoners themselves
 dividing their lands were rare, everywhere the State coerced them to enforce
 the division, or simply favoured the private appropriation of their lands"_ by
-the nobles and wealthy. [**Mutual Aid**, p. 188]
+the nobles and wealthy. [ **Mutual Aid** , p. 188]
 
 Thus Kropotkin's statement that _"to speak of the natural death of the village
 community [or the commons] in virtue of economical law is as grim a joke as to
-speak of the natural death of soldiers slaughtered on a battlefield."_ [**Op.
-Cit.**, p. 189]
+speak of the natural death of soldiers slaughtered on a battlefield."_ [ **Op.
+Cit.** , p. 189]
 
 Like the more recent case of fascist Chile, "free market" capitalism was
 imposed on the majority of society by an elite using the authoritarian state.
@@ -635,8 +636,8 @@ The short answer is no, they are not. While a lot of historical analysis has
 been spent in trying to deny the extent and impact of the enclosures, the
 simple fact is (in the words of noted historian E.P. Thompson) enclosure _"was
 a plain enough case of class robbery, played according to the fair rules of
-property and law laid down by a parliament of property-owners and lawyers."_
-[**The Making of the English Working Class**, pp. 237-8]
+property and law laid down by a parliament of property-owners and lawyers."_ [
+**The Making of the English Working Class** , pp. 237-8]
 
 The enclosures were one of the ways that the _"land monopoly"_ was created.
 The land monopoly was used to refer to capitalist property rights and
@@ -657,7 +658,7 @@ of freedom. To find out that an idol has feet of clay and that we are still
 living with the impact of its origins is something pro-capitalists must deny.
 So **is** the enclosures a socialist myth? Most claims that it is flow from
 the work of the historian J.D. Chambers' famous essay _"Enclosures and the
-Labour Supply in the Industrial Revolution."_ [**Economic History Review**,
+Labour Supply in the Industrial Revolution."_ [ **Economic History Review** ,
 2nd series, no. 5, August 1953] In this essay, Chambers attempts to refute
 Karl Marx's account of the enclosures and the role it played in what Marx
 called _"primitive accumulation."_
@@ -666,8 +667,8 @@ We cannot be expected to provide an extensive account of the debate that has
 raged over this issue. All we can do is provide a summary of the work of
 William Lazonick who presented an excellent reply to those who claim that the
 enclosures were an unimportant historical event. We are drawing upon his
-summary of his excellent essay _"Karl Marx and Enclosures in England"_
-[**Review of Radical Political Economy**, no. 6, Summer, 1974] which can be
+summary of his excellent essay _"Karl Marx and Enclosures in England"_ [
+**Review of Radical Political Economy** , no. 6, Summer, 1974] which can be
 found in his books **Competitive Advantage on the Shop Floor** and **Business
 Organisation and the Myth of the Market Economy**. There are three main claims
 against the socialist account of the enclosures. We will cover each in turn.
@@ -680,8 +681,8 @@ And this is the whole point - enclosures created a pool of dispossessed
 labourers who had to sell their time/liberty to survive. The _"critical
 transformation was not the level of agricultural employment before and after
 enclosure but the changes in employment relations caused by the reorganisation
-of landholdings and the reallocation of access to land."_ [**Competitive
-Advantage on the Shop Floor**, p. 30] Thus the key feature of the enclosures
+of landholdings and the reallocation of access to land."_ [ **Competitive
+Advantage on the Shop Floor** , p. 30] Thus the key feature of the enclosures
 was that it created a supply for farm labour, a supply that had no choice but
 to work for another. This would drive down wages and increase demand.
 Moreover, freed from the land, these workers could later move to the towns in
@@ -696,7 +697,7 @@ proprietors continued to occupy and work their own land. But in a world of
 capitalist agriculture, the yeomanry no longer played an important role in
 determining the course of capitalist agriculture. As a social class that could
 influence the evolution of British economy society, the yeomanry had
-disappeared."_ [**Op. Cit.**, p. 32]
+disappeared."_ [ **Op. Cit.** , p. 32]
 
 Thirdly, it is often claimed that it was population growth, rather than
 enclosures, that caused the supply of wage workers. So was population growth
@@ -704,18 +705,18 @@ more important that enclosures? Maurice Dobbs argues that _"the centuries in
 which a proletariat was most rapidly recruited were apt to be those of slow
 rather than of rapid natural increase of population, and the paucity or
 plenitude of a labour reserve in different countries was not correlated with
-comparable difference in their rates of population-growth."_ [**Studies in
-Capitalist Development**, p. 223] Moreover, the population argument ignores
+comparable difference in their rates of population-growth."_ [ **Studies in
+Capitalist Development** , p. 223] Moreover, the population argument ignores
 the question of whether the changes in society caused by enclosures and the
 rise of capitalism have an impact on the observed trends towards earlier
 marriage and larger families after 1750. Lazonick argues that _"[t]here is
-reason to believe that they did."_ [**Op. Cit.**, p. 33] Also, of course, the
-use of child labour in the factories created an economic incentive to have
+reason to believe that they did."_ [ **Op. Cit.** , p. 33] Also, of course,
+the use of child labour in the factories created an economic incentive to have
 more children, an incentive created by the developing capitalist system.
 Overall, Lazonick notes that _"[t]o argue that population growth created the
 industrial labour supply is to ignore these momentous social transformations"_
-associated with the rise of capitalism [**Business Organisation and the Myth
-of the Market Economy**, p. 273].
+associated with the rise of capitalism [ **Business Organisation and the Myth
+of the Market Economy** , p. 273].
 
 In other words, there is good reason to think that the enclosures, far from
 being some kind of socialist myth, in fact played a key role in the
@@ -723,7 +724,7 @@ development of capitalism. As Lazonick himself notes, _"Chambers
 misunderstood" "the argument concerning the 'institutional creation' of a
 proletarianised (i.e. landless) workforce. Indeed, Chamber's own evidence and
 logic tend to support the Marxian [and anarchist!] argument, when it is
-properly understood."_ [**Op. Cit.**, p. 273]
+properly understood."_ [ **Op. Cit.** , p. 273]
 
 ## 8.5 What about the lack of enclosures in the Americas?
 
@@ -750,14 +751,14 @@ This was because, in the words of Maurice Dobbs, it _"became clear to those
 who wished to reproduce capitalist relations of production in the new country
 that the foundation-stone of their endeavour must be the restriction of land-
 ownership to a minority and the exclusion of the majority from any share in
-[productive] property."_ [**Studies in Capitalist Development**, pp. 221-2] As
-one radical historian puts it, _"[w]hen land is 'free' or 'cheap'. as it was
-in different regions of the United States before the 1830s, there was no
+[productive] property."_ [ **Studies in Capitalist Development** , pp. 221-2]
+As one radical historian puts it, _"[w]hen land is 'free' or 'cheap'. as it
+was in different regions of the United States before the 1830s, there was no
 compulsion for farmers to introduce labour-saving technology. As a result,
 'independent household production' . . . hindered the development of
 capitalism . . . [by] allowing large portions of the population to escape wage
 labour."_ [Charlie Post, _"The 'Agricultural Revolution' in the United
-States"_, pp. 216-228, **Science and Society**, vol. 61, no. 2, p. 221]
+States"_ , pp. 216-228, **Science and Society** , vol. 61, no. 2, p. 221]
 
 It was precisely this option (i.e. of independent production) that had to be
 destroyed in order for capitalist industry to develop. The state had to
@@ -778,7 +779,7 @@ on unused land. Land stolen from the Native Americans was sold at auction to
 the highest bidders, namely speculators, who then sold it on to farmers. This
 process started right _"after the revolution, [when] huge sections of land
 were bought up by rich speculators"_ and their claims supported by the law
-[Howard Zinn, **A People's History of the United States**, p. 125] Thus land
+[Howard Zinn, **A People's History of the United States** , p. 125] Thus land
 which should have been free was sold to land-hungry farmers and the few
 enriched themselves at the expense of the many. Not only did this increase
 inequality within society, it also encouraged the development of wage labour
@@ -794,7 +795,7 @@ general, the _"Federal land law in the 19th century provided for the sale of
 most of the public domain at public auction to the higher bidder . . . Actual
 settlers were forced to buy land from speculators, at prices considerably
 above the federal minimal price"_ (which few people could afford anyway)
-[Charlie Post, **Op. Cit.**, p. 222]. Little wonder the Individualist
+[Charlie Post, **Op. Cit.** , p. 222]. Little wonder the Individualist
 Anarchists supported an _"occupancy and use"_ system of land ownership as a
 key way of stopping capitalist and landlord usury as well as the development
 of capitalism itself.
@@ -806,13 +807,13 @@ of land change, as they did in the midwest between 1830 and 1840, pursuing the
 goal of preserving [family ownership and control] . . . produced very
 different results. In order to pay growing mortgages, debts and taxes, family
 farmers were compelled to specialise production toward cash crops and to
-market more and more of their output."_ [**Op. Cit.**, p. 221-2]
+market more and more of their output."_ [ **Op. Cit.** , p. 221-2]
 
 So, in order to pay for land which was formerly free, farmers got themselves
 into debt and increasingly turned to the market to pay it off. Thus, the
 _"Federal land system, by transforming land into a commodity and stimulating
 land speculation, made the midwestern farmers dependent upon markets for the
-continual possession of their farms."_ [Charlie Post, **Op. Cit.**, p. 223]
+continual possession of their farms."_ [Charlie Post, **Op. Cit.** , p. 223]
 Once on the market, farmers had to invest in new machinery and this also got
 them into debt. In the face of a bad harvest or market glut, they could not
 repay their loans and their farms had to be sold to so do so. By 1880, 25% of
@@ -821,11 +822,11 @@ all farms were rented by tenants, and the numbers kept rising.
 This means that Murray Rothbard's comment that _"once the land was purchased
 by the settler, the injustice disappeared"_ is nonsense -- the injustice was
 transmitted to other parts of society and this, along with the legacy of the
-original injustice, lived on and helped transform society towards capitalism
-[**The Ethics of Liberty**, p. 73]. In addition, his comments about _"the
+original injustice, lived on and helped transform society towards capitalism [
+**The Ethics of Liberty** , p. 73]. In addition, his comments about _"the
 establishment in North America of a truly libertarian land system"_ would be
-one the Individualist Anarchists would have seriously disagreed with!
-[**Ibid.**]
+one the Individualist Anarchists would have seriously disagreed with! [
+**Ibid.** ]
 
 Thus state action, in restricting free access to the land, ensured that
 workers were dependent on wage labour. In addition, the _"transformation of
@@ -834,7 +835,7 @@ social property relations in northern agriculture set the stage for the
 taxes forced midwestern family farmers to compete as commodity producers in
 order to maintain their land-holding . . . The transformation . . . was the
 central precondition for the development of industrial capitalism in the
-United States."_ [Charlie Post, **Ibid.**, p. 226]
+United States."_ [Charlie Post, **Ibid.** , p. 226]
 
 In addition to seizing the land and distributing it in such a way as to
 benefit capitalist industry, the _"government played its part in helping the
@@ -845,7 +846,7 @@ harder to get. The bankers, getting loans back, were getting dollars worth
 more than when they loaned them out - a kind of interest on top of interest.
 That was why . . . farmers' movements [like the Individualist Anarchists, we
 must add] . . . [talked about] putting more money in circulation."_ [Howard
-Zinn, **Op. Cit.**, p. 278]
+Zinn, **Op. Cit.** , p. 278]
 
 Overall, therefore, state action ensured the transformation of America from a
 society of independent workers to a capitalist one. By creating and enforcing
@@ -862,14 +863,15 @@ Little wonder the Individualist Anarchist J.K. Ingalls attacked the "land
 monopoly" in the following words:
 
 > _"The earth, with its vast resources of mineral wealth, its spontaneous
-productions and its fertile soil, the free gift of God and the common
-patrimony of mankind, has for long centuries been held in the grasp of one set
-of oppressors by right of conquest or right of discovery; and it is now held
-by another, through the right of purchase from them. All of man's natural
-possessions . . . have been claimed as property; nor has man himself escaped
-the insatiate jaws of greed. The invasion of his rights and possessions has
-resulted . . . in clothing property with a power to accumulate an income."_
-[quoted by James Martin, **Men Against the State**, p. 142]
+> productions and its fertile soil, the free gift of God and the common
+> patrimony of mankind, has for long centuries been held in the grasp of one
+> set of oppressors by right of conquest or right of discovery; and it is now
+> held by another, through the right of purchase from them. All of man's
+> natural possessions . . . have been claimed as property; nor has man himself
+> escaped the insatiate jaws of greed. The invasion of his rights and
+> possessions has resulted . . . in clothing property with a power to
+> accumulate an income."_ [quoted by James Martin, **Men Against the State** ,
+> p. 142]
 
 ## 8.6 How did working people view the rise of capitalism?
 
@@ -889,8 +891,8 @@ _"great majority of Americans were farmers working their own land, primarily
 for their own needs. Most of the rest were self-employed artisans, merchants,
 traders, and professionals. Other classes - employees and industrialists in
 the North, slaves and planters in the South - were relatively small. The great
-majority of Americans were independent and free from anybody's command."_
-[**Strike!**, p. xxi] These conditions created the high cost of combined
+majority of Americans were independent and free from anybody's command."_ [
+**Strike!** , p. xxi] These conditions created the high cost of combined
 (wage) labour which ensured the practice of slavery existed.
 
 However, toward the middle of the 19th century the economy began to change.
@@ -898,52 +900,52 @@ Capitalism began to be imported into American society as the infrastructure
 was improved, which allowed markets for manufactured goods to grow. Soon, due
 to (state-supported) capitalist competition, artisan production was replaced
 by wage labour. Thus "evolved" modern capitalism. Many workers understood,
-resented, and opposed their increasing subjugation to their employers (_"the
-masters"_, to use Adam Smith's expression), which could not be reconciled with
-the principles of freedom and economic independence that had marked American
-life and sunk deeply into mass consciousness during the days of the early
-economy. In 1854, for example, a group of skilled piano makers wrote that
-_"the day is far distant when they [wage earners] will so far forget what is
-due to manhood as to glory in a system forced upon them by their necessity and
-in opposition to their feelings of independence and self-respect. May the
+resented, and opposed their increasing subjugation to their employers ( _"the
+masters"_ , to use Adam Smith's expression), which could not be reconciled
+with the principles of freedom and economic independence that had marked
+American life and sunk deeply into mass consciousness during the days of the
+early economy. In 1854, for example, a group of skilled piano makers wrote
+that _"the day is far distant when they [wage earners] will so far forget what
+is due to manhood as to glory in a system forced upon them by their necessity
+and in opposition to their feelings of independence and self-respect. May the
 piano trade be spared such exhibitions of the degrading power of the day
 [wage] system."_ [quoted by Brecher and Costello, **Common Sense for Hard
-Times**, p. 26]
+Times** , p. 26]
 
 Clearly the working class did not consider working for a daily wage, in
 contrast to working for themselves and selling their own product, to be a step
 forward for liberty or individual dignity. The difference between selling the
 product of one's labour and selling one's labour (i.e. oneself) was seen and
-condemned (_"[w]hen the producer . . . sold his product, he retained himself.
+condemned ( _"[w]hen the producer . . . sold his product, he retained himself.
 But when he came to sell his labour, he sold himself . . . the extension [of
 wage labour] to the skilled worker was regarded by him as a symbol of a deeper
-change"_ [Norman Ware, **The Industrial Worker, 1840-1860**, p. xiv]). Indeed,
-one group of workers argued that they were _"slaves in the strictest sense of
-the word"_ as they had _"to toil from the rising of the sun to the going down
-of the same for our masters - aye, masters, and for our daily bread"_ [Quoted
-by Ware, **Op. Cit.**, p. 42] and another argued that _"the factory system
-contains in itself the elements of slavery, we think no sound reasoning can
-deny, and everyday continues to add power to its incorporate sovereignty,
-while the sovereignty of the working people decreases in the same degree."_
-[quoted by Brecher and Costello, **Op. Cit.**, p. 29]
+change"_ [Norman Ware, **The Industrial Worker, 1840-1860** , p. xiv]).
+Indeed, one group of workers argued that they were _"slaves in the strictest
+sense of the word"_ as they had _"to toil from the rising of the sun to the
+going down of the same for our masters - aye, masters, and for our daily
+bread"_ [Quoted by Ware, **Op. Cit.** , p. 42] and another argued that _"the
+factory system contains in itself the elements of slavery, we think no sound
+reasoning can deny, and everyday continues to add power to its incorporate
+sovereignty, while the sovereignty of the working people decreases in the same
+degree."_ [quoted by Brecher and Costello, **Op. Cit.** , p. 29]
 
 Almost as soon as there were wage workers, there were strikes, machine
 breaking, riots, unions and many other forms of resistance. John Zerzan's
 argument that there was a _"relentless assault on the worker's historical
 rights to free time, self-education, craftsmanship, and play was at the heart
-of the rise of the factory system"_ is extremely accurate [**Elements of
-Refusal**, p. 105]. And it was an assault that workers resisted with all their
-might. In response to being subjected to the "law of value," workers rebelled
-and tried to organise themselves to fight the powers that be and to replace
-the system with a co-operative one. As the printer's union argued, _"[we]
-regard such an organisation [a union] not only as an agent of immediate
+of the rise of the factory system"_ is extremely accurate [ **Elements of
+Refusal** , p. 105]. And it was an assault that workers resisted with all
+their might. In response to being subjected to the "law of value," workers
+rebelled and tried to organise themselves to fight the powers that be and to
+replace the system with a co-operative one. As the printer's union argued,
+_"[we] regard such an organisation [a union] not only as an agent of immediate
 relief, but also as an essential to the ultimate destruction of those
 unnatural relations at present subsisting between the interests of the
 employing and the employed classes. . . .[W]hen labour determines to sell
 itself no longer to speculators, but to become its own employer, to own and
 enjoy itself and the fruit thereof, the necessity for scales of prices will
 have passed away and labour will be forever rescued from the control of the
-capitalist."_ [quoted by Brecher and Costello, **Op. Cit.**, pp. 27-28]
+capitalist."_ [quoted by Brecher and Costello, **Op. Cit.** , pp. 27-28]
 
 Little wonder, then, why wage labourers considered capitalism as a form of
 _"slavery"_ and why the term _"wage slavery"_ became so popular in the
@@ -953,8 +955,8 @@ anarchist movements. As labour historian Norman Ware notes, the _"term 'wage
 slave' had a much better standing in the forties [of the 19th century] than it
 has today. It was not then regarded as an empty shibboleth of the soap-box
 orator. This would suggest that it has suffered only the normal degradation of
-language, has become a **cliche**, not that it is a grossly misleading
-characterisation."_ [**Op. Cit.**, p. xvf]
+language, has become a **cliche** , not that it is a grossly misleading
+characterisation."_ [ **Op. Cit.** , p. xvf]
 
 These responses of workers to the experience of wage labour is important to
 show that capitalism is by no means "natural." The fact is the first
@@ -969,21 +971,21 @@ and capitalists given an edge in the "free" market by state action did people
 accept and become accustomed to wage labour.
 
 Opposition to wage labour and factory fascism was/is widespread and seems to
-occur wherever it is encountered. _"Research has shown"_, summarises William
+occur wherever it is encountered. _"Research has shown"_ , summarises William
 Lazonick, _"that the 'free-born Englishman' of the eighteenth century - even
 those who, by force of circumstance, had to submit to agricultural wage labour
-- tenaciously resisted entry into the capitalist workshop."_ [**Business
-Organisation and the Myth of the Market Economy**, p. 37] British workers
+- tenaciously resisted entry into the capitalist workshop."_ [ **Business
+Organisation and the Myth of the Market Economy** , p. 37] British workers
 shared the dislike of wage labour of their American cousins. A _"Member of the
 Builders' Union"_ in the 1830s argued that the trade unions _"will not only
-strike for less work, and more wages, but will ultimately **abolish wages**,
+strike for less work, and more wages, but will ultimately **abolish wages** ,
 become their own masters and work for each other; labour and capital will no
 longer be separate but will be indissolubly joined together in the hands of
 workmen and work-women."_ [quoted by Geoffrey Ostergaard, **The Tradition of
-Workers' Control**, p. 133] This is unsurprising, for as Ostergaard notes,
+Workers' Control** , p. 133] This is unsurprising, for as Ostergaard notes,
 _"the workers then, who had not been swallowed up whole by the industrial
 revolution, could make critical comparisons between the factory system and
-what preceded it."_ [**Op. Cit.**, p. 134] While wage slavery may seem
+what preceded it."_ [ **Op. Cit.** , p. 134] While wage slavery may seem
 "natural" today, the first generation of wage labourers saw the transformation
 of the social relationships they experienced in work, from a situation in
 which they controlled their own work (and so themselves) to one in which
@@ -1019,12 +1021,12 @@ _"moral indignation"_ of socialism arises from the argument _"that the
 capitalists have stolen the rightful property of the workers, and therefore
 that existing titles to accumulated capital are unjust."_ He argues that given
 _"this hypothesis, the remainder of the impetus for both Marxism and
-anarchosyndicalism follow quote logically."_ [**The Ethics of Liberty**, p.
+anarchosyndicalism follow quote logically."_ [ **The Ethics of Liberty** , p.
 52]
 
 So some right-libertarians are aware that the current property owners have
 benefited extensively from violence and state action in the past. Murray
-Rothbard argues (in **The Ethics of Liberty**, p. 57) that if the just owners
+Rothbard argues (in **The Ethics of Liberty** , p. 57) that if the just owners
 cannot be found for a property, then the property simply becomes again unowned
 and will belong to the first person to appropriate and utilise it. If the
 current owners are not the actual criminals then there is no reason at all to
@@ -1161,11 +1163,11 @@ acts of coercion have been transmitted and transformed by collective activity
 (wage labour) into society-wide affects.
 
 Rothbard argues in the situation where the descendants (or others) of those
-who initially tilled the soil and their aggressors (_"or those who purchased
-their claims"_) still extract _"tribute from the modern tillers"_ that this is
-a case of _"**continuing** aggression against the true owners"_. This means
-that _"the land titles should be transferred to the peasants, without
-compensation to the monopoly landlords."_ [**Op. Cit.**, p. 65] But what he
+who initially tilled the soil and their aggressors ( _"or those who purchased
+their claims"_ ) still extract _"tribute from the modern tillers"_ that this
+is a case of _" **continuing** aggression against the true owners"_. This
+means that _"the land titles should be transferred to the peasants, without
+compensation to the monopoly landlords."_ [ **Op. Cit.** , p. 65] But what he
 fails to note is that the extracted "tribute" could have been used to invest
 in industry and transform society. Why ignore what the "tribute" has been used
 for? Does stolen property not remain stolen property after it has been
@@ -1197,7 +1199,7 @@ of collective activity and should belong to us all (although whether and how
 we divide it up is another question).
 
 [‹ 7 How does the history of "anarcho"-capitalism show that it is not
-anarchist?](append137.md "Go to previous page" ) [up](append13.md "Go to
-parent page" ) [9 Is Medieval Iceland an example of "anarcho"-capitalism
-working in practice? ›](append139.md "Go to next page" )
+anarchist?](append137.md "Go to previous page") [up](append13.md "Go to
+parent page") [9 Is Medieval Iceland an example of "anarcho"-capitalism
+working in practice? ›](append139.md "Go to next page")
 

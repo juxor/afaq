@@ -8,14 +8,14 @@ associations" to protect property. For the "anarcho"-capitalist, however,
 these private companies are not states. For anarchists, they most definitely
 are.
 
-According to Murray Rothbard [_"Society Without A State"_, in **Nomos XIX**,
-Pennock and Chapman, eds., p. 192.], a state must have one or both of the
+According to Murray Rothbard [ _"Society Without A State"_ , in **Nomos XIX**
+, Pennock and Chapman, eds., p. 192.], a state must have one or both of the
 following characteristics:
 
-           1) The ability to tax those who live within it.
+1) The ability to tax those who live within it.
 
-          2) It asserts and usually obtains a coerced monopoly of the
-provision of defence over a given area.
+2) It asserts and usually obtains a coerced monopoly of the provision of
+defence over a given area.
 
 He makes the same point in **The Ethics of Liberty** [p. 171].
 
@@ -23,7 +23,7 @@ Instead of this, the "anarcho"-capitalist thinks that people should be able to
 select their own "defence companies" (which would provide the needed police)
 and courts from the free market in "defence" which would spring up after the
 state monopoly has been eliminated. These companies _"all. . . would have to
-abide by the basic law code"_ [_"Society Without A State"_, p. 206]. Thus a
+abide by the basic law code"_ [ _"Society Without A State"_ , p. 206]. Thus a
 _"general libertarian law code"_ would govern the actions of these companies.
 This "law code" would prohibit coercive aggression at the very least, although
 to do so it would have to specify what counted as legitimate property, how
@@ -40,10 +40,10 @@ that juries would judge both the facts and the law, suggesting instead that
 _"Libertarian lawyers and jurists"_ would determine a _"rational and objective
 code of libertarian legal principles and procedures."_ The judges in his
 system would _"not [be] making the law but finding it on the basis of agreed-
-upon principles derived either from custom or reason."_ [_"Society without a
-State"_, **Op. Cit.**, p. 206] David Friedman, on the other hand, argues that
-different defence firms would sell their own laws. [**The Machinery of
-Freedom**, p. 116] It is sometimes acknowledged that non-libertarian laws may
+upon principles derived either from custom or reason."_ [ _"Society without a
+State"_ , **Op. Cit.** , p. 206] David Friedman, on the other hand, argues
+that different defence firms would sell their own laws. [ **The Machinery of
+Freedom** , p. 116] It is sometimes acknowledged that non-libertarian laws may
 be demanded (and supplied) in such a market.
 
 Around this system of "defence companies" is a free market in "arbitrators"
@@ -51,9 +51,9 @@ and "appeal judges" to administer justice and the "basic law code." Rothbard
 believes that such a system would see _"arbitrators with the best reputation
 for efficiency and probity. . .[being] chosen by the various parties in the
 market. . .[and] will come to be given an increasing amount of business."_
-[Rothbard, **Op. Cit.**, p.199] Judges _"will prosper on the market in
-proportion to their reputation for efficiency and impartiality."_ [**Op.
-Cit.**, p. 204]
+[Rothbard, **Op. Cit.** , p.199] Judges _"will prosper on the market in
+proportion to their reputation for efficiency and impartiality."_ [ **Op.
+Cit.** , p. 204]
 
 Therefore, like any other company, arbitrators would strive for profits and
 wealth, with the most successful ones becoming _"prosperous."_ Of course, such
@@ -77,7 +77,7 @@ force over a given area (the area, initially, being the property of the person
 or company who is employing the "association"). If, as Ayn Rand noted (using a
 Weberian definition of the state) a government is an institution _"that holds
 the exclusive power to **enforce** certain rules of conduct in a given
-geographical area"_ [**Capitalism: The Unknown Ideal**, p. 239] then these
+geographical area"_ [ **Capitalism: The Unknown Ideal** , p. 239] then these
 "defence companies" are the means by which the property owner (who exercises a
 monopoly to determine the rules governing their property) enforce their rules.
 
@@ -107,11 +107,11 @@ the power of capitalists against their workers.
 
 Rothbard argues that the _"judges"_ would _"not [be] making the law but
 finding it on the basis of agreed-upon principles derived either from custom
-or reason"_ [Rothbard, **Op. Cit.**, p. 206]. However, this begs the question:
-**whose** reason? **whose** customs? Do individuals in different classes share
-the same customs? The same ideas of right and wrong? Would rich and poor
-desire the same from a _"basic law code"_? Obviously not. The rich would only
-support a code which defended their power over the poor.
+or reason"_ [Rothbard, **Op. Cit.** , p. 206]. However, this begs the
+question: **whose** reason? **whose** customs? Do individuals in different
+classes share the same customs? The same ideas of right and wrong? Would rich
+and poor desire the same from a _"basic law code"_? Obviously not. The rich
+would only support a code which defended their power over the poor.
 
 Although only _"finding"_ the law, the arbitrators and judges still exert an
 influence in the "justice" process, an influence not impartial or neutral. As
@@ -246,38 +246,34 @@ with such a system would not be the corruption of "private" courts and police
 forces (although, as suggested above, this could indeed be a problem):
 
 > _"There is something more serious than the 'Mafia danger', and this other
-problem concerns the role of such 'defence' institutions in a given social and
-economic context. _
-
+> problem concerns the role of such 'defence' institutions in a given social
+> and economic context._
 >
-
 > _"[The] context. . . is one of a free-market economy with no restraints upon
-accumulation of property. Now, we had an American experience, roughly from the
-end of the Civil War to the 1930's, in what were in effect private courts,
-private police, indeed private governments. We had the experience of the
-(private) Pinkerton police which, by its spies, by its **agents
-provocateurs,** and by methods that included violence and kidnapping, was one
-of the most powerful tools of large corporations and an instrument of
-oppression of working people. We had the experience as well of the police
-forces established to the same end, within corporations, by numerous
-companies. . . . (The automobile companies drew upon additional covert
-instruments of a private nature, usually termed vigilante, such as the Black
-Legion). These were, in effect, private armies, and were sometimes described
-as such. The territories owned by coal companies, which frequently included
-entire towns and their environs, the stores the miners were obliged by
-economic coercion to patronise, the houses they lived in, were commonly
-policed by the private police of the United States Steel Corporation or
-whatever company owned the properties. The chief practical function of these
-police was, of course, to prevent labour organisation and preserve a certain
-balance of 'bargaining.' _
-
+> accumulation of property. Now, we had an American experience, roughly from
+> the end of the Civil War to the 1930's, in what were in effect private
+> courts, private police, indeed private governments. We had the experience of
+> the (private) Pinkerton police which, by its spies, by its **agents
+> provocateurs,** and by methods that included violence and kidnapping, was
+> one of the most powerful tools of large corporations and an instrument of
+> oppression of working people. We had the experience as well of the police
+> forces established to the same end, within corporations, by numerous
+> companies. . . . (The automobile companies drew upon additional covert
+> instruments of a private nature, usually termed vigilante, such as the Black
+> Legion). These were, in effect, private armies, and were sometimes described
+> as such. The territories owned by coal companies, which frequently included
+> entire towns and their environs, the stores the miners were obliged by
+> economic coercion to patronise, the houses they lived in, were commonly
+> policed by the private police of the United States Steel Corporation or
+> whatever company owned the properties. The chief practical function of these
+> police was, of course, to prevent labour organisation and preserve a certain
+> balance of 'bargaining.' _
 >
-
 > _"These complexes were a law unto themselves, powerful enough to ignore,
-when they did not purchase, the governments of various jurisdictions of the
-American federal system. This industrial system was, at the time, often
-characterised as feudalism. . . ."_ [_"Anarchist Justice"_, **Op. Cit.**, pp.
-223-224]
+> when they did not purchase, the governments of various jurisdictions of the
+> American federal system. This industrial system was, at the time, often
+> characterised as feudalism. . . ."_ [ _"Anarchist Justice"_ , **Op. Cit.** ,
+> pp. 223-224]
 
 For a description of the weaponry and activities of these private armies, the
 economic historian Maurice Dobbs presents an excellent summary in **Studies in
@@ -321,7 +317,7 @@ fundamental institutions of the system.
 
 In evaluating "anarcho"-capitalism's claim to be a form of anarchism, Peter
 Marshall notes that _"private protection agencies would merely serve the
-interests of their paymasters."_ [**Demanding the Impossible**, p. 653] With
+interests of their paymasters."_ [ **Demanding the Impossible** , p. 653] With
 the increase of private "defence associations" under "really existing
 capitalism" today (associations that many "anarcho"-capitalists point to as
 examples of their ideas), we see a vindication of Marshall's claim. There have
@@ -344,14 +340,14 @@ primarily a product of "the state" but of private lawyers hired by the rich --
 a result with which Rothbard would have no problem. As Howard Zinn notes:
 
 > _"the American Bar Association, organised by lawyers accustomed to serving
-the wealthy, began a national campaign of education to reverse the [Supreme]
-Court decision [that companies could not be considered as a person]. . . . By
-1886. . . the Supreme Court had accepted the argument that corporations were
-'persons' and their money was property protected by the process clause of the
-Fourteenth Amendment. . . . The justices of the Supreme Court were not simply
-interpreters of the Constitution. They were men of certain backgrounds, of
-certain [class] interests."_ [**A People's History of the United States**, p.
-255]
+> the wealthy, began a national campaign of education to reverse the [Supreme]
+> Court decision [that companies could not be considered as a person]. . . .
+> By 1886. . . the Supreme Court had accepted the argument that corporations
+> were 'persons' and their money was property protected by the process clause
+> of the Fourteenth Amendment. . . . The justices of the Supreme Court were
+> not simply interpreters of the Constitution. They were men of certain
+> backgrounds, of certain [class] interests."_ [ **A People's History of the
+> United States** , p. 255]
 
 Of course it will be argued that the Supreme Court is a monopoly and so our
 analysis is flawed. In "anarcho"-capitalism there is no monopoly. But the
@@ -361,8 +357,8 @@ Supreme Court, Rothbard does maintain that _"the basic Law Code . . .would
 have to be agreed upon by all the judicial agencies"_ but he maintains that
 this _"would imply no unified legal system"_! Even though _"[a]ny agencies
 that transgressed the basic libertarian law code would be open outlaws"_ and
-soon crushed this is **not**, apparently, a monopoly. [**The Ethics of
-Liberty**, p. 234] So, you either agree to the law code or you go out of
+soon crushed this is **not** , apparently, a monopoly. [ **The Ethics of
+Liberty** , p. 234] So, you either agree to the law code or you go out of
 business. And that is **not** a monopoly! Therefore, we think, our comments on
 the Supreme Court decision are valid.
 
@@ -371,7 +367,7 @@ be called "competitive"! And if this is the case (and it is) _"when private
 wealth is uncontrolled, then a police-judicial complex enjoying a clientele of
 wealthy corporations whose motto is self-interest is hardly an innocuous
 social force controllable by the possibility of forming or affiliating with
-competing 'companies.'"_ [Weick, **Op. Cit.**, p. 225]
+competing 'companies.'"_ [Weick, **Op. Cit.** , p. 225]
 
 This is particularly true if these companies are themselves Big Business and
 so have a large impact on the laws they are enforcing. If the law code
@@ -392,8 +388,8 @@ anarcho-capitalist institutions will produce laws against heroin. Laws are
 being produced on the market, and that is what the market wants."_ And he adds
 that _"market demands are in dollars, not votes. The legality of heroin will
 be determined, not by how many are for or against but how high a cost each
-side is willing to bear in order to get its way."_ [**The Machinery of
-Freedom**, p. 127] And, as the market is less than equal in terms of income
+side is willing to bear in order to get its way."_ [ **The Machinery of
+Freedom** , p. 127] And, as the market is less than equal in terms of income
 and wealth, such a position will mean that the capitalist class will have a
 higher effective demand than the working class, and more resources to pay for
 any conflicts that arise. Thus any law codes that develop will tend to reflect
@@ -431,7 +427,7 @@ that code) in reality, even if not in theory. Since, in capitalist practice,
 "the customer is always right," the best-paying customers will get their way
 in "anarcho"-capitalist society.
 
-For example, in chapter 29 of **The Machinery of Freedom**, David Friedman
+For example, in chapter 29 of **The Machinery of Freedom** , David Friedman
 presents an example of how a clash of different law codes could be resolved by
 a bargaining process (the law in question is the death penalty). This process
 would involve one defence firm giving a sum of money to the other for them
@@ -488,7 +484,7 @@ advantage. To abstract from such influences of context, and then consider the
 merits of an abstract judicial system. . . is to follow a method that is not
 likely to take us far. This, by the way, is a criticism that applies. . .to
 any theory that relies on a rule of law to override the tendencies inherent in
-a given social and economic system"_ [Weick, **Op. Cit.**, p. 225] (For a
+a given social and economic system"_ [Weick, **Op. Cit.** , p. 225] (For a
 discussion of this problem as it would surface in attempts to protect the
 environment under "anarcho"-capitalism, see sections [E.2](secE2.md) and
 [E.3](secE3.md)).
@@ -497,9 +493,9 @@ There is another reason why "market forces" will not stop abuse by the rich,
 or indeed stop the system from turning from private to public statism. This is
 due to the nature of the "defence" market (for a similar analysis of the
 "defence" market see Tyler Cowen's _"Law as a Public Good: The Economics of
-Anarchy"_ in **Economics and Philosophy**, no. 8 (1992), pp. 249-267 and
+Anarchy"_ in **Economics and Philosophy** , no. 8 (1992), pp. 249-267 and
 _"Rejoinder to David Friedman on the Economics of Anarchy"_ in **Economics and
-Philosophy**, no. 10 (1994), pp. 329-332). In "anarcho"-capitalist theory it
+Philosophy** , no. 10 (1994), pp. 329-332). In "anarcho"-capitalist theory it
 is assumed that the competing "defence companies" have a vested interest in
 peacefully settling differences between themselves by means of arbitration. In
 order to be competitive on the market, companies will have to co-operate via
@@ -526,8 +522,8 @@ and, by so doing, to behave (effectively) as one large firm (and so,
 effectively, resemble the state even more than they already do). Quoting Adam
 Smith seems appropriate here: _"People of the same trade seldom meet together,
 even for merriment and diversion, but the conversation ends in a conspiracy
-against the public, or in some contrivance to raise prices."_ [**The Wealth of
-Nations**, p. 117]
+against the public, or in some contrivance to raise prices."_ [ **The Wealth
+of Nations** , p. 117]
 
 For example, when buying food it does not matter whether the supermarkets I
 visit have good relations with each other. The goods I buy are independent of
@@ -677,7 +673,7 @@ these associations would qualify!
 
 If we look at Rothbard's definition of statehood, which requires (a) the power
 to tax and/or (b) a _"coerced monopoly of the provision of defence over a
-given area"_, "anarcho"-capitalism runs into trouble.
+given area"_ , "anarcho"-capitalism runs into trouble.
 
 In the first place, the costs of hiring defence associations will be deducted
 from the wealth created by those who use, but do not own, the property of
@@ -718,7 +714,7 @@ will be "natural" law and so unchangeable by mere mortals.
 
 In other words, **if** the state _"arrogates to itself a monopoly of force, of
 ultimate decision-making power, over a given area territorial area"_
-[Rothbard, **The Ethics of Liberty**, p. 170] then its pretty clear that the
+[Rothbard, **The Ethics of Liberty** , p. 170] then its pretty clear that the
 property owner shares this power. The owner is, after all, the _"ultimate
 decision-making power"_ in their workplace or on their land. If the boss takes
 a dislike to you (for example, you do not follow their orders) then you get
@@ -727,7 +723,7 @@ conditions (such as not joining a union or subscribing to the "defence firm"
 approved by your employer) then you either sign the contract or look for
 something else. Of course Rothbard fails to note that bosses have this
 monopoly of power and is instead referring to _"prohibiting the voluntary
-purchase and sale of defence and judicial services."_ [**Op. Cit.**, p. 171]
+purchase and sale of defence and judicial services."_ [ **Op. Cit.** , p. 171]
 But just as surely as the law of contract allows the banning of unions from a
 property, it can just as surely ban the sale and purchase of defence and
 judicial services (it could be argued that market forces will stop this
@@ -746,8 +742,8 @@ _"general libertarian law code"_ (for example, that they cannot ban the sale
 and purchase of certain products -- such as defence -- on their own territory)
 then "anarcho"-capitalism **definitely** meets the Weberian definition of the
 state (as described by Ayn Rand as an institution _"that holds the exclusive
-power to **enforce** certain rules of conduct in a given geographical area"_
-[**Capitalism: The Unknown Ideal**, p. 239]) as its "law code" overrides the
+power to **enforce** certain rules of conduct in a given geographical area"_ [
+**Capitalism: The Unknown Ideal** , p. 239]) as its "law code" overrides the
 desires of property owners to do what they like on their own property.
 
 Therefore, no matter how you look at it, "anarcho"-capitalism and its
@@ -759,7 +755,7 @@ well.
 
 So, in effect, "anarcho"-capitalism has a **different** sort of state, one in
 which bosses hire and fire the policeman. As Peter Sabatini notes [in
-**Libertarianism: Bogus Anarchy**], _"[w]ithin Libertarianism, Rothbard
+**Libertarianism: Bogus Anarchy** ], _"[w]ithin Libertarianism, Rothbard
 represents a minority perspective that actually argues for the total
 elimination of the state. However Rothbard's claim as an anarchist is quickly
 voided when it is shown that he only wants an end to the public state. In its
@@ -792,7 +788,7 @@ To quote Peter Marshall again, the "anarcho"-capitalists _"claim that all
 would benefit from a free exchange on the market, it is by no means certain;
 any unfettered market system would most likely sponsor a reversion to an
 unequal society with defence associations perpetuating exploitation and
-privilege."_ [**Demanding the Impossible**, p. 565] History, and current
+privilege."_ [ **Demanding the Impossible** , p. 565] History, and current
 practice, prove this point.
 
 In short, "anarcho"-capitalists are not anarchists at all, they are just
@@ -801,9 +797,10 @@ strictly accountable to their paymasters without even the sham of democracy we
 have today. Hence a far better name for "anarcho"-capitalism would be
 "private-state" capitalism. At least that way we get a fairer idea of what
 they are trying to sell us. As Bob Black writes in **The Libertarian as
-Conservative**, _"To my mind a right-wing anarchist is just a minarchist who'd
-abolish the state to his own satisfaction by calling it something else. . . .
-They don't denounce what the state does, they just object to who's doing it."_
+Conservative** , _"To my mind a right-wing anarchist is just a minarchist
+who'd abolish the state to his own satisfaction by calling it something else.
+. . . They don't denounce what the state does, they just object to who's doing
+it."_
 
 ## 6.5 What other effects would "free market" justice have?
 
@@ -813,8 +810,8 @@ is competitive or not, it must be remembered that the product is a peculiar
 one: when we buy cars or shoes or telephone services we do not give the firm
 power based on force, but armed protection agencies, like the state, make
 customers (their own and others') vulnerable, and having given them power we
-cannot be sure that they will use it only for our protection."_ [**Community,
-Anarchy and Liberty**, p. 65]
+cannot be sure that they will use it only for our protection."_ [ **Community,
+Anarchy and Liberty** , p. 65]
 
 As we argued above, there are many reasons to believe that a "protection"
 market will place most of society (bar the wealthy elite) in a "vulnerable"
@@ -913,8 +910,8 @@ utopias. Perhaps, in the long run, we may find the framework regulated by the
 law of survival of the economically most fit, and so we would expect to see a
 development not of diversity but of homogeneity. Those communities with great
 market power would eventually soak up all but the most resistant of those
-communities around them."_ [**Robert Nozick: Property, Justice and the Minimal
-State**, p. 135]
+communities around them."_ [ **Robert Nozick: Property, Justice and the
+Minimal State** , p. 135]
 
 And if the initial distribution of resources is similar to that already
 existing then the _"economically most fit"_ will be capitalistic (as argued in
@@ -933,12 +930,13 @@ _"general libertarian law code"_ which defends capitalist property rights, we
 can safely say that the economically _"most fit"_ would be capitalist ones.
 Hardly surprising if the law code reflects capitalist ideas of right and
 wrong. In addition, as George Reitzer has argued (see **The McDonaldization of
-Society**), capitalism is driven towards standardisation and conformity by its
-own logic. This suggests that plurality of communities would soon be replaced
-by a series of "communities" which share the same features of hierarchy and
-ruling elites. ("Anarcho"-capitalists who follow David Friedman's ideas
-consider it possible, perhaps likely, that a free market in laws will result
-in one standard law code and so this also applies to that school as well)
+Society** ), capitalism is driven towards standardisation and conformity by
+its own logic. This suggests that plurality of communities would soon be
+replaced by a series of "communities" which share the same features of
+hierarchy and ruling elites. ("Anarcho"-capitalists who follow David
+Friedman's ideas consider it possible, perhaps likely, that a free market in
+laws will result in one standard law code and so this also applies to that
+school as well)
 
 So, in the end, the "anarcho" capitalists argue that in their system you are
 free to follow the (capitalist) law and work in the (capitalist) economy, and
@@ -964,9 +962,10 @@ The socialist economic historian Maurice Dobbs, after reviewing the private
 armies in 1920s and 1930s America made much the same point:
 
 > _"When business policy takes the step of financing and arming a mass
-political movement to capture the machinery of government, to outlaw opposing
-forms of organisation and suppress hostile opinions we have merely a further
-and more logical stage beyond [private armies]"_ [**Op, Cit.**, p. 357]
+> political movement to capture the machinery of government, to outlaw
+> opposing forms of organisation and suppress hostile opinions we have merely
+> a further and more logical stage beyond [private armies]"_ [ **Op, Cit.** ,
+> p. 357]
 
 (Noted Austrian Economist Ludwig von Mises whose extreme free market liberal
 political and economic ideas inspired right-libertarianism in many ways had
@@ -974,7 +973,7 @@ this to say about fascism: _"It cannot be denied that Fascism and similar
 movements aiming at the establishment of dictatorships are full of the best
 intentions and that their intervention has, for the moment, saved European
 civilisation. The merit that Fascism has thereby won for itself will live
-eternally in history."_ [**Liberalism**, p. 51])
+eternally in history."_ [ **Liberalism** , p. 51])
 
 This example illustrates the fact that capitalism **per se** is essentially
 authoritarian, because it is necessarily based on coercion and hierarchy,
@@ -999,7 +998,7 @@ This is anarchism, the end of hierarchical authority and its replacement by
 the "natural" authority of communal and workplace self-management.
 
 [‹ 5 Will privatising "the commons" increase liberty?](append135.md "Go to
-previous page" ) [up](append13.md "Go to parent page" ) [7 How does the
+previous page") [up](append13.md "Go to parent page") [7 How does the
 history of "anarcho"-capitalism show that it is not anarchist?
-›](append137.md "Go to next page" )
+›](append137.md "Go to next page")
 

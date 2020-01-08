@@ -17,14 +17,14 @@ pursued to increase the power and influence of capital as well as to increase
 wage-labour to, and exploitation by, the economic master class and to
 undermine working class power and autonomy. As such, they are as anti-
 libertarian as the status quo (as Proudhon stressed, anarchism is _"the denial
-of Government and of Property."_ [**Property is Theft!**, p. 559]). Similarly,
-increases in self-employment can be seen, in the abstract, as reducing wage
-slavery. However, if, in practice, this increase is due to corporations
-encouraging "independent" contractors in order to cut wages and worsen working
-conditions, increase job insecurity and undermine paying for health and other
-employee packages then it is hardly a positive sign. Obviously increases in
-self-employment would be different if it were the result of an increase in the
-number of co-operatives, for example.
+of Government and of Property."_ [ **Property is Theft!** , p. 559]).
+Similarly, increases in self-employment can be seen, in the abstract, as
+reducing wage slavery. However, if, in practice, this increase is due to
+corporations encouraging "independent" contractors in order to cut wages and
+worsen working conditions, increase job insecurity and undermine paying for
+health and other employee packages then it is hardly a positive sign.
+Obviously increases in self-employment would be different if it were the
+result of an increase in the number of co-operatives, for example.
 
 Thus few anarchists celebrate many apparently "libertarian" developments as
 they are not the product of social movements and activism, but are the product
@@ -35,7 +35,7 @@ back" of the state does not bring into question its role as defender of
 property and the interests of the capitalist class -- nor could it, as it is
 the ruling class who introduces and supports these developments.
 
-In this section, we aim to discuss tendencies from **below**, not above --
+In this section, we aim to discuss tendencies from **below** , not above --
 tendencies which can truly "roll back" the state rather than reduce its
 functions purely to that of the armed thug of property. The tendencies we
 discuss here are not the be all nor end all of anarchist activism or
@@ -79,8 +79,8 @@ built upon them are safe. Government remains strong because people think
 political authority and legal compulsion necessary. Capitalism will continue
 as long as such an economic system is considered adequate and just. The
 weakening of the ideas which support the evil and oppressive present-day
-conditions means the ultimate breakdown of government and capitalism."_
-[**What is Anarchism?**, p. xii]
+conditions means the ultimate breakdown of government and capitalism."_ [
+**What is Anarchism?** , p. xii]
 
 Social struggle is the most obvious sign of this change of perspective, this
 change in ideas, this progress towards freedom.
@@ -100,15 +100,15 @@ to change things for the better. As the French syndicalist Emile Pouget
 argued:
 
 > _"Direct action . . . means that the working class, forever bridling at the
-existing state of affairs, expects nothing from outside people, powers or
-forces, but rather creates its own conditions of struggle and looks to itself
-for its methodology . . . Direct Action thus implies that the working class
-subscribes to notions of freedom and autonomy instead of genuflecting before
-the principle of authority. Now, it is thanks to this authority principle, the
-pivot of the modern world -- democracy being its latest incarnation -- that
-the human being, tied down by a thousand ropes, moral as well as material, is
-bereft of any opportunity to display will and initiative."_ [**Direct
-Action**, p. 1]
+> existing state of affairs, expects nothing from outside people, powers or
+> forces, but rather creates its own conditions of struggle and looks to
+> itself for its methodology . . . Direct Action thus implies that the working
+> class subscribes to notions of freedom and autonomy instead of genuflecting
+> before the principle of authority. Now, it is thanks to this authority
+> principle, the pivot of the modern world -- democracy being its latest
+> incarnation -- that the human being, tied down by a thousand ropes, moral as
+> well as material, is bereft of any opportunity to display will and
+> initiative."_ [ **Direct Action** , p. 1]
 
 Social struggle means that people come into opposition with the boss and other
 authorities such as the state and the dominant morality. This challenge to
@@ -150,7 +150,7 @@ conflicts with the economic fellowship that binds the workers one with another
 and far from being at odds with their common interests, it reconciles and
 bolsters these: the individual's independence and activity can only erupt into
 splendour and intensity by sending its roots deep into the fertile soil of
-common agreement."_ [**Op. Cit.**, p. 2 and p. 5]
+common agreement."_ [ **Op. Cit.** , p. 2 and p. 5]
 
 Social struggle is the beginning of a transformation of the people involved
 and their relationships to each other. While its external expression lies in
@@ -164,23 +164,23 @@ struggle can change people's conception of "what is possible" and encourage
 them to try and create a better world. As Kropotkin argued:
 
 > _"since the times of the [first] International Working Men's Association,
-the anarchists have always advised taking an active part in those workers'
-organisations which carry on the **direct** struggle of labour against capital
-and its protector -- the State._
+> the anarchists have always advised taking an active part in those workers'
+> organisations which carry on the **direct** struggle of labour against
+> capital and its protector -- the State._
 
 > _"Such a struggle . . . permits the worker to obtain some temporary
-improvements . . ., while it opens his [or her] eyes to the evil that is done
-by capitalism and the State . . . , and wakes up his [or her] thoughts
-concerning the possibility of organising consumption, production, and exchange
-without the intervention of the capitalist and the State."_ [**Anarchism**, p.
-171]
+> improvements . . ., while it opens his [or her] eyes to the evil that is
+> done by capitalism and the State . . . , and wakes up his [or her] thoughts
+> concerning the possibility of organising consumption, production, and
+> exchange without the intervention of the capitalist and the State."_ [
+> **Anarchism** , p. 171]
 
 In other words, social struggle has a **radicalising** and **politicising**
 effect, an effect which brings into a new light existing society and the
 possibilities of a better world (direct action, in Pouget's words, _"develops
 the feeling for human personality as well as the spirit of initiative . . . it
-shakes people out of their torpor and steers them to consciousness."_ [**Op.
-Cit.**, p. 5]). The practical need to unite and resist the boss also helps
+shakes people out of their torpor and steers them to consciousness."_ [ **Op.
+Cit.** , p. 5]). The practical need to unite and resist the boss also helps
 break down divisions within the working class. Those in struggle start to
 realise that they need each other to give them the power necessary to get
 improvements, to change things. Thus solidarity spreads and overcomes
@@ -220,22 +220,23 @@ new organisations and the changing of the power relations within it and the
 internal transformation of those who take part in the struggle. This is key:
 
 > _"Whatever may be the practical results of the struggle for immediate gains,
-the greatest value lies in the struggle itself. For thereby workers learn that
-the bosses interests are opposed to theirs and that they cannot improve their
-conditions, and much less emancipate themselves, except by uniting and
-becoming stronger than the bosses. If they succeed in getting what they
-demand, they will be better off . . . and immediately make greater demands and
-have greater needs. If they do not succeed they will be led to study the
-causes of their failure and recognise the need for closer unity and greater
-activism and they will in the end understand that to make their victory secure
-and definitive, it is necessary to destroy capitalism. The revolutionary
-cause, the cause of the moral elevation and emancipation of the workers must
-benefit by the fact that workers unite and struggle for their interests."_
-[Malatesta, **Errico Malatesta: His Life and Ideas**, p. 191]
+> the greatest value lies in the struggle itself. For thereby workers learn
+> that the bosses interests are opposed to theirs and that they cannot improve
+> their conditions, and much less emancipate themselves, except by uniting and
+> becoming stronger than the bosses. If they succeed in getting what they
+> demand, they will be better off . . . and immediately make greater demands
+> and have greater needs. If they do not succeed they will be led to study the
+> causes of their failure and recognise the need for closer unity and greater
+> activism and they will in the end understand that to make their victory
+> secure and definitive, it is necessary to destroy capitalism. The
+> revolutionary cause, the cause of the moral elevation and emancipation of
+> the workers must benefit by the fact that workers unite and struggle for
+> their interests."_ [Malatesta, **Errico Malatesta: His Life and Ideas** , p.
+> 191]
 
 Hence Nestor Makhno's comment that _"[i]n fact, it is only through that
 struggle for freedom, equality and solidarity that you reach an understanding
-of anarchism."_ [**The Struggle Against the State and other Essays**, p. 71]
+of anarchism."_ [ **The Struggle Against the State and other Essays** , p. 71]
 The creation of an anarchist society is a **process** and social struggle is
 the key anarchistic tendency within society which anarchists look for,
 encourage and support. Its radicalising and transforming nature is the key to
@@ -305,7 +306,7 @@ Henry Ford's $5 day is often used as an example of capitalism rewarding good
 workers. However, this substantial pay increase was largely motivated by the
 unionisation drive by the **Industrial Workers of the World** among Ford
 workers in the summer of 1913. [Harry Braverman, **Labour and Monopoly
-Capitalism**, p. 144] More recently, it was the mass non-payment campaign
+Capitalism** , p. 144] More recently, it was the mass non-payment campaign
 against the poll-tax in Britain during the late 1980s and early 1990s which
 helped ensure its defeat. In the 1990s, France also saw the usefulness of
 direct action. Two successive prime ministers (Edouard Balladur and Alain
@@ -328,24 +329,26 @@ expressed well by the Nick DiGaetano, a one-time Wobbly who had joined during
 the 1912 Lawrence strike and then became a UAW-CIO shop floor militant:
 
 > _"the workers of my generation from the early days up to now [1958] had what
-you might call a labour insurrection in changing from a plain, humble,
-submissive creature into a man. The union made a man out of him . . . I am not
-talking about the benefits . . . I am talking about the working conditions and
-how they affected the men in the plant . . . Before they were submissive.
-Today they are men."_ [quoted by David Brody, _"Workplace Contractualism in
-comparative perspective"_, pp. 176-205, Helson Lichtenstein and Howell John
-Harris (eds.), **Industrial Democracy in America**, p. 204]
+> you might call a labour insurrection in changing from a plain, humble,
+> submissive creature into a man. The union made a man out of him . . . I am
+> not talking about the benefits . . . I am talking about the working
+> conditions and how they affected the men in the plant . . . Before they were
+> submissive. Today they are men."_ [quoted by David Brody, _"Workplace
+> Contractualism in comparative perspective"_ , pp. 176-205, Helson
+> Lichtenstein and Howell John Harris (eds.), **Industrial Democracy in
+> America** , p. 204]
 
 Other labour historians note the same radicalising process elsewhere (modern
 day activists could give more examples!):
 
 > _"The contest [over wages and conditions] so pervaded social life that the
-ideology of acquisitive individualism, which explained and justified a society
-regulated by market mechanisms and propelled by the accumulation of capital,
-was challenged by an ideology of mutualism, rooted in working-class bondings
-and struggles . . . Contests over pennies on or off existing piece rates had
-ignited controversies over the nature and purpose of the American republic
-itself."_ [David Montgomery, **The Fall of the House of Labour**, p. 171]
+> ideology of acquisitive individualism, which explained and justified a
+> society regulated by market mechanisms and propelled by the accumulation of
+> capital, was challenged by an ideology of mutualism, rooted in working-class
+> bondings and struggles . . . Contests over pennies on or off existing piece
+> rates had ignited controversies over the nature and purpose of the American
+> republic itself."_ [David Montgomery, **The Fall of the House of Labour** ,
+> p. 171]
 
 This radicalising effect is far more dangerous to authoritarian structures
 than better pay, more liberal laws and so on as they need submissiveness to
@@ -371,8 +374,8 @@ solidarity."_ Ultimately, _"in those countries the workers work longer hours
 for less pay; and the employers there can sell their products cheaper,
 successfully competing against conditions where workers working less earn
 more, and thus force the employers in the latter countries to cut wages and
-increase the hours of their workers."_ [**The Political Philosophy of
-Bakunin**, pp. 306-7] Bakunin's solution was to organise internationally, to
+increase the hours of their workers."_ [ **The Political Philosophy of
+Bakunin** , pp. 306-7] Bakunin's solution was to organise internationally, to
 stop this undercutting of conditions by solidarity between workers. As history
 shows, his argument was correct. Thus it is **not** social struggle or
 militancy which perhaps could have negative results, just **isolated**
@@ -398,8 +401,8 @@ advantages by keeping workers who are **worse off** from improving their
 position."_ Moreover, he _"predict[ed] that the average worker's income would
 rise fastest in a country where relative wages are flexible, and where the
 exploitation of workers by monopolistic trade union organisations of
-specialised workers are effectively outlawed."_ [**1980s Unemployment and the
-Unions**, p. 107, p. 108 and p. 110]
+specialised workers are effectively outlawed."_ [ **1980s Unemployment and the
+Unions** , p. 107, p. 108 and p. 110]
 
 Now, if von Hayek's claims were true we could expect that in the aftermath of
 Thatcher government's trade union reforms we would have seen: a rise in
@@ -407,7 +410,7 @@ economic growth (usually considered as **the** means to improve living
 standards for workers by the right); that this growth would be more equally
 distributed; a decrease in the differences between high and low paid workers;
 a reduction in the percentage of low paid workers as they improved their
-positions when freed from union _"exploitation"_; and that wages rise fastest
+positions when freed from union _"exploitation"_ ; and that wages rise fastest
 in countries with the highest wage flexibility. Unfortunately for von Hayek,
 the actual trajectory of the British economy exposed his claims as nonsense.
 
@@ -427,17 +430,17 @@ unions" growth was 2.4% in Britain. It fell to 2% in the 1980s and fell again
 to 1.2% in the 1990s. A similar pattern of slowing growth as wage flexibility
 and market reform has increased can be seen in the US economy (it was 4.4% in
 the 1960s, 3.2% in the 1970s, 2.8% in the 1980s and 1.9% in the first half of
-the 1990s). [Larry Elliot and Dan Atkinson, **The Age of Insecurity**, p. 236]
-Given that the free-market right proclaims higher economic growth is the only
-way to make workers better off, growth rates have steadily fallen
+the 1990s). [Larry Elliot and Dan Atkinson, **The Age of Insecurity** , p.
+236] Given that the free-market right proclaims higher economic growth is the
+only way to make workers better off, growth rates have steadily fallen
 internationally since the domination of their ideology. Thus growth of output
 per head in the USA, Europe, Japan and the OECD countries between 1979 to 1990
 was lower than in 1973-9, and 1990-2004 lower still. The deregulation,
 privatisation, anti-union laws and other neo-liberal policies have _"failed to
-bring an increase in the growth rate."_ [Andrew Glyn, **Capitalism
-Unleashed**, p. 131] What growth spurts there have been were associated with
-speculative bubbles (in the American economy, dot.com stocks in the late 1990s
-and housing in the 2000s) which burst with disastrous consequences.
+bring an increase in the growth rate."_ [Andrew Glyn, **Capitalism Unleashed**
+, p. 131] What growth spurts there have been were associated with speculative
+bubbles (in the American economy, dot.com stocks in the late 1990s and housing
+in the 2000s) which burst with disastrous consequences.
 
 So the rate of "wealth creation" (economic growth) has steadily fallen as
 unions were "reformed" in line with von Hayek's ideology (and lower growth
@@ -448,7 +451,7 @@ If we look at the differences between the highest and lowest paid workers, we
 find that rather than decrease, they have in fact shown _"a dramatic widening
 out of the distribution with the best-workers doing much better"_ since
 Thatcher was elected in 1979 [Andrew Glyn and David Miliband (eds.), **Paying
-for Inequality**, p. 100] This is important, as average figures can hide how
+for Inequality** , p. 100] This is important, as average figures can hide how
 badly those in the bottom (80%!) are doing. In an unequal society, the gains
 of growth are monopolised by the few and we would expect rising inequality
 over time alongside average growth. In America inequality has dramatically
@@ -457,8 +460,8 @@ predominately to the top 20% (and, in fact, mostly to the top 1% of the
 population). The bottom 80% of the population saw their wealth grow by 1.2%
 and their income by 23.7% in the 1980s, while for the top 20% the respective
 figures were 98.2% and 66.3% (the figures for the top 1% were 61.6% and 38.9%,
-respectively). [Edward N. Wolff, _"How the Pie is Sliced"_, **The American
-Prospect**, no. 22, Summer 1995] There has been a _"fanning out of the pay
+respectively). [Edward N. Wolff, _"How the Pie is Sliced"_ , **The American
+Prospect** , no. 22, Summer 1995] There has been a _"fanning out of the pay
 distribution"_ with the gap between the top 10% of wage-earners increasing
 compared to those in the middle and bottom 10%. Significantly, in the neo-
 liberal countries the rise in inequality is _"considerably higher"_ than in
@@ -468,28 +471,28 @@ for the bottom 10% _"did not grow at all between 1979 and 2003."_ In fact,
 most of the gains in the top 10% _"occurred amongst the top 5%, and two-thirds
 of it within the top 1%."_ Unsurprising, the neo-liberal countries of the UK,
 USA and New Zealand saw the largest increases in inequality. [Glyn, **Op.
-Cit.**, pp. 116-8 and p. 168]
+Cit.** , pp. 116-8 and p. 168]
 
 Given that inequality has increased, the condition of the average worker must
 have suffered. For example, Ian Gilmore states that _"[i]n the 1980s, for the
 first time for fifty years . . . the poorer half of the population saw its
-share of total national income shirk."_ [**Dancing with Dogma**, p. 113]
+share of total national income shirk."_ [ **Dancing with Dogma** , p. 113]
 According to Noam Chomsky, _"[d]uring the Thatcher decade, the income share of
 the bottom half of the population fell from one-third to one-fourth"_ and the
 between 1979 and 1992, the share of total income of the top 20% grew from 35%
 to 40% while that of the bottom 20% fell from 10% to 5%. In addition, the
 number of UK employees with weekly pay below the Council of Europe's _"decency
-threshold"_ increased from 28.3% in 1979 to 37% in 1994. [**World Orders, Old
-and New**, p. 144 and p. 145] Moreover, _"[b]ack in the early 1960s, the
+threshold"_ increased from 28.3% in 1979 to 37% in 1994. [ **World Orders, Old
+and New** , p. 144 and p. 145] Moreover, _"[b]ack in the early 1960s, the
 heaviest concentration of incomes fell at 80-90 per cent of the mean . . . But
 by the early 1990s there had been a dramatic change, with the peak of the
 distribution falling at just 40-50 per cent of the mean. One-quarter of the
 population had incomes below half the average by the early 1990s as against 7
-per cent in 1977 and 11 per cent in 1961."_ [Elliot and Atkinson, **Op.
-Cit.**, p. 235] _"Overall,"_ notes Takis Fotopoulos, _"average incomes
-increased by 36 per cent during this period [1979-1991/2], but 70 per cent of
-the population had a below average increase in their income."_ [**Towards an
-Inclusive Democracy**, p. 113]
+per cent in 1977 and 11 per cent in 1961."_ [Elliot and Atkinson, **Op. Cit.**
+, p. 235] _"Overall,"_ notes Takis Fotopoulos, _"average incomes increased by
+36 per cent during this period [1979-1991/2], but 70 per cent of the
+population had a below average increase in their income."_ [ **Towards an
+Inclusive Democracy** , p. 113]
 
 The reason for this rising inequality is not difficult to determine. When
 workers organise and strike, they can keep more of what they produce in their
@@ -505,7 +508,7 @@ typical American has gained **anything** from rising productivity."_ Rather
 than "trickle down" _"the lion's share of economic growth in America over the
 past thirty years has gone to a small, wealthy minority."_ In short: _"The big
 winners . . . have been members of a very narrow elite: the top 1 percent or
-less of the population."_ [Paul Krugman, **The Conscience of a Liberal**, p.
+less of the population."_ [Paul Krugman, **The Conscience of a Liberal** , p.
 124, p. 244 and p. 8]
 
 Looking at America, after the Second World War the real income of the typical
@@ -524,12 +527,12 @@ _"Modern economists debate whether American median income has risen or fallen
 since the early 1970s. What's really telling is the fact that we're even
 having this debate."_ So while the average values may have gone up, because of
 _"rising inequality, good performance in overall numbers like GDP hasn't
-translated into gains for ordinary workers."_ [**Op. Cit.**, p. 55, pp. 126-7,
-p. 124 and p. 201]
+translated into gains for ordinary workers."_ [ **Op. Cit.** , p. 55, pp.
+126-7, p. 124 and p. 201]
 
 Luckily for American capitalism a poll in 2000 found that 39% of Americans
 believe they are either in the wealthiest 1% or will be there _"soon"_! [Glyn,
-**Op. Cit.**, p. 179] In fact, as we discussed in [section
+**Op. Cit.** , p. 179] In fact, as we discussed in [section
 B.7.2](secB7.md#sec72), social mobility has **fallen** under neo-liberalism
 -- perhaps unsurprisingly as it is easier to climb a hill than a mountain.
 This is just as important as the explosion in inequality as the “free-market”
@@ -542,7 +545,7 @@ Canada, and maybe even in Britain. Not only don't Americans have equal
 opportunity, opportunity is less equal here than elsewhere in the West."_
 Without the blinkers of free market capitalist ideology this should be
 unsurprising: _"A society with highly unequal results is, more or less
-inevitably, a society with highly unequal opportunity, too."_ [**Op. Cit.**,
+inevitably, a society with highly unequal opportunity, too."_ [ **Op. Cit.** ,
 p. 247 and p. 249]
 
 Looking at the claim that trade union members gained their _"relative
@@ -554,12 +557,12 @@ two-thirds of men's median earnings) **increased** \-- from 16.8% in 1984 to
 26.2% in 1991 for men, 44.8% to 44.9% for women. For manual workers it rose by
 15% to 38.4%, and for women by 7.7% to 80.7% (for non-manual workers the
 figures were 5.4% rise to 13.7% for men and a 0.5% rise to 36.6%). [Andrew
-Glyn and David Miliband (eds.), **Op. Cit.**, p.102] If unions **were**
+Glyn and David Miliband (eds.), **Op. Cit.** , p.102] If unions **were**
 gaining at the expense of the worse off, you would expect a **decrease** in
 the number in low pay, **not** an increase. An OECD study concluded that
 _"[t]ypically, countries with high rates of collective bargaining and trade
-unionisation tend to have low incidence of low paid employment."_ [**OECD
-Employment Outlook**, 1996, p. 94] Within America, we also discover that
+unionisation tend to have low incidence of low paid employment."_ [ **OECD
+Employment Outlook** , 1996, p. 94] Within America, we also discover that
 higher union density is associated with fewer workers earning around the
 minimum wage and that "right-to-work" states (i.e., those that pass anti-union
 laws) _"tend to have lower wages, lower standard of living, and more workers
@@ -567,34 +570,34 @@ earning around the minimum wage."_ It is hard not to conclude that states
 _"passed laws aimed at making unionisation more difficult would imply that
 they sought to maintain the monopoly power of employers at the expense of
 workers."_ [Oren M. Levin-Waldman, _"The Minimum Wage and Regional Wage
-Structure: Implications for Income Distribution"_, pp. 635-57, **Journal of
-Economic Issues**, Vol. XXXVI, No. 3, p. 639 and p. 655]
+Structure: Implications for Income Distribution"_ , pp. 635-57, **Journal of
+Economic Issues** , Vol. XXXVI, No. 3, p. 639 and p. 655]
 
 As far as von Hayek's prediction on wage flexibility leading to the _"average
 worker's income"_ rising fastest in a country where relative wages are
 flexible, it has been proved totally wrong. Between 1967 and 1971, real wages
 grew (on average) by 2.95% per year in the UK (nominal wages grew by 8.94%)
-[P. Armstrong, A. Glyn and J. Harrison, **Capitalism Since World War II**, p.
+[P. Armstrong, A. Glyn and J. Harrison, **Capitalism Since World War II** , p.
 272]. In comparison, real household disposable income grew by just 0.5 percent
 between June 2006 and 2007. Average weekly earnings rose 2.9% between April
 2006 and 2007 while inflation rose by 3.6% (Retail Prices Index) and 2.8%
-(Consumer Prices Index). [Elliot and Atkinson, **The Gods That Failed**, p.
+(Consumer Prices Index). [Elliot and Atkinson, **The Gods That Failed** , p.
 163] This is part of a general pattern, with UK Real Wages per employee being
 an average 3.17% per year between 1960 and 1974, falling to 1.8% between 1980
 and 1999. In America, the equivalent figures are 2.37% and 1.02%. [Eckhard
 Hein and Thorsten Schulten, **Unemployment, Wages and Collective Bargaining in
-the European Union**, p. 9] Looking at the wider picture, during the early
+the European Union** , p. 9] Looking at the wider picture, during the early
 1970s when strikes and union membership increased, _"real wage increases rose
 steadily to reach over 4% per year"_ in the West. However, after von Hayek's
 anti-union views were imposed, _"real wages have grown very slowly."_ In anti-
 union America, the median wage was $13.62 in 2003 compared to $12.36 in 1979
 (reckoned in 2003 prices). In Europe and Japan _"average wages have done only
-a little better, having grown around 1% per year."_ [Glyn, **Op. Cit.**, p. 5
+a little better, having grown around 1% per year."_ [Glyn, **Op. Cit.** , p. 5
 and p. 116] It gets worse as these are average figures. Given that inequality
 soared during this period the limited gains of the neo-liberal era were not
 distributed as evenly as before (in the UK, for example, wage growth was
 concentrated at the top end of society. [Elliot and Atkinson, **Fantasy
-Island**, p. 99]).
+Island** , p. 99]).
 
 Nor can it be said that breaking the unions and lower real wages translated
 into lower unemployment in the UK as the average unemployment rate between
@@ -605,15 +608,15 @@ too surprising, given that (capitalist economic theology aside) unemployment
 _"systematically weakens the bargaining power of trade unions."_ In short:
 _"Neither on the theoretical nor empirical level can a strictly inverse
 relation between the real wage rate and the level of unemployment be
-derived."_ [Hein and Schulten, **Op. Cit.**, p. 9, p. 3 and p. 2] As we
+derived."_ [Hein and Schulten, **Op. Cit.** , p. 9, p. 3 and p. 2] As we
 discussed in [section C.1.5](secC1.md#secc15) this should come as no
 surprise to anyone with awareness of the real nature of unemployment and the
 labour market. So unemployment did not fall after the trade union reforms,
 quite the reverse: _"By the time Blair came to power [in 1997], unemployment
 in Britain was falling, although it still remained higher than it had been
 when the [last Labour Government of] Callaghan left office in May 1979."_
-[Elliot and Atkinson, **Age of Insecurity**, p. 258] To be fair, von Hayek did
-argue that falls in unemployment would be _"a slow process"_ but nearly 20
+[Elliot and Atkinson, **Age of Insecurity** , p. 258] To be fair, von Hayek
+did argue that falls in unemployment would be _"a slow process"_ but nearly 20
 years of far higher unemployment is moving backwards!
 
 So we have a stark contrast between the assertions of the right and the
@@ -634,16 +637,16 @@ a whole."_ With the smashing of the unions came rising inequality, with the
 _"sharpest increases in wage inequality in the Western world have taken place
 in the United States and in Britain, both of which experience sharp declines
 in union membership."_ Unions restrict inequality because _"they act as a
-countervailing force to management."_ [**Op. Cit.**, p. 51, p. 49, p. 149 and
-p. 263]
+countervailing force to management."_ [ **Op. Cit.** , p. 51, p. 49, p. 149
+and p. 263]
 
 So under the neo-liberal regime instigated by Thatcher and Reagan the power,
 influence and size of the unions were reduced considerably and real wage
 growth fell considerably -- which is the **exact** opposite of von Hayek's
 predictions. Flexible wages and weaker unions have harmed the position of
 **all** workers (Proudhon: _"Contrary to all expectation! It takes an
-economist not to expect these things"_ [**System of Economical
-Contradictions**, p. 203]). So comparing the claims of von Hayek to what
+economist not to expect these things"_ [ **System of Economical
+Contradictions** , p. 203]). So comparing the claims of von Hayek to what
 actually happened after trade union "reform" and the reduction of class
 struggle suggests that claims that social struggle is self-defeating are false
 (and self-serving, considering it is usually bosses, employer supported
@@ -660,18 +663,18 @@ capitalism.
 Of course, no one can **know** that struggle will make things better. It is a
 guess; no one can predict the future. Not all struggles are successful and
 many can be very difficult. If the _"military is a role model for the business
-world"_ (in the words of an ex-CEO of Hill &amp; Knowlton Public Relations),
-and it is, then **any** struggle against it and other concentrations of power
-may, and often is, difficult and dangerous at times. [quoted by John Stauber
-and Sheldon Rampton in **Toxic Sludge Is Good For You!**, p. 47] But, as
-Zapata once said, _"better to die on your feet than live on your knees!"_ All
-we can say is that social struggle can and does improve things and, in terms
-of its successes and transforming effect on those involved, well worth the
-potential difficulties it can create. Moreover, without struggle there is
-little chance of creating a free society, dependent as it is on individuals
-who refuse to bow to authority and have the ability and desire to govern
-themselves. In addition, social struggle is always essential, not only to
-**win** improvements, but to **keep** them as well. In order to fully secure
+world"_ (in the words of an ex-CEO of Hill & Knowlton Public Relations), and
+it is, then **any** struggle against it and other concentrations of power may,
+and often is, difficult and dangerous at times. [quoted by John Stauber and
+Sheldon Rampton in **Toxic Sludge Is Good For You!** , p. 47] But, as Zapata
+once said, _"better to die on your feet than live on your knees!"_ All we can
+say is that social struggle can and does improve things and, in terms of its
+successes and transforming effect on those involved, well worth the potential
+difficulties it can create. Moreover, without struggle there is little chance
+of creating a free society, dependent as it is on individuals who refuse to
+bow to authority and have the ability and desire to govern themselves. In
+addition, social struggle is always essential, not only to **win**
+improvements, but to **keep** them as well. In order to fully secure
 improvements you have to abolish capitalism and the state. Not to do so means
 that any reforms can and will be taken away (and if social struggle does not
 exist, they will be taken away sooner rather than later). Ultimately, most
@@ -683,25 +686,25 @@ us.
 As the history of neo-liberalism shows, a lack of social struggle is fully
 compatible with worsening conditions. Ultimately, if you want to be treated as
 a human being you have to stand up for your dignity -- and that means thinking
-and rebelling. As Bakunin argued in **God and the State**, human freedom and
+and rebelling. As Bakunin argued in **God and the State** , human freedom and
 development is based on these. Without rebellion, without social struggle,
 humanity would stagnate beneath authority forever and never be in a position
 to be free. So anarchists agree wholeheartedly with the Abolitionist Frederick
 Douglass:
 
 > _"If there is no struggle, there is no progress. Those who profess to favour
-freedom, and yet depreciate agitation, are men who want crops without
-ploughing up the ground. They want rain without thunder and lightning. They
-want the ocean without the awful roar of its many waters._
+> freedom, and yet depreciate agitation, are men who want crops without
+> ploughing up the ground. They want rain without thunder and lightning. They
+> want the ocean without the awful roar of its many waters._
 
 > _"This struggle may be a moral one; or it may be a physical one; or it may
-be both moral and physical; but it must be a struggle. Power concedes nothing
-without a demand. It never did and it never will. Find out just what a people
-will submit to, and you have found out the exact amount of injustice and wrong
-which will be imposed upon them; and these will continue till they are
-resisted with either words or blows, or with both. The limits of tyrants are
-prescribed by the endurance of those whom they oppress."_ [**The Life and
-Writings of Frederick Douglass**, vol. 2, p. 437]
+> be both moral and physical; but it must be a struggle. Power concedes
+> nothing without a demand. It never did and it never will. Find out just what
+> a people will submit to, and you have found out the exact amount of
+> injustice and wrong which will be imposed upon them; and these will continue
+> till they are resisted with either words or blows, or with both. The limits
+> of tyrants are prescribed by the endurance of those whom they oppress."_ [
+> **The Life and Writings of Frederick Douglass** , vol. 2, p. 437]
 
 Of course, being utterly wrong has not dented von Hayek's reputation with the
 right nor stopped him being quoted in arguments in favour of flexibility and
@@ -710,16 +713,16 @@ whose track-record was equally impressive). Still, why let the actual
 development of the economies influenced by von Hayek's ideology get in the
 way? Perhaps it is fortunate that he once argued that economic theories can
 _"never be verified or falsified by reference to facts. All that we can and
-must verify is the presence of our assumptions in the particular case."_
-[**Individualism and Economic Order**, p. 73] With such a position all is
+must verify is the presence of our assumptions in the particular case."_ [
+**Individualism and Economic Order** , p. 73] With such a position all is
 saved -- the obvious problem is that capitalism is still not pure enough and
 the "reforms" must not only continue but be made deeper... As Kropotkin
 stressed, _"economists who continue to consider economic forces alone . . .
-without taking into account **the ideology of the State**, or the forces that
+without taking into account **the ideology of the State** , or the forces that
 each State necessarily places at the service of the rich . . . remain
 completely outside the realities of the economic and social world."_ [quoted
-by Ruth Kinna, _"Fields of Vision: Kropotkin and Revolutionary Change"_, pp.
-67-86, **SubStance**, Vol. 36, No. 2, pp. 72-3]
+by Ruth Kinna, _"Fields of Vision: Kropotkin and Revolutionary Change"_ , pp.
+67-86, **SubStance** , Vol. 36, No. 2, pp. 72-3]
 
 And, needless to say, while three decades of successful capitalist class war
 goes without mention in polite circles, documenting its results gets you
@@ -762,7 +765,7 @@ specific reform goals, and does not seek to transform the institutional
 structure of society by getting at its centralised make-up, the war system
 will probably not go away. This is really what we should mean by
 decentralising: making institutions serve human ends again by getting humans
-to be responsible at every level within them."_ [**From the Ground Up**, p.
+to be responsible at every level within them."_ [ **From the Ground Up** , p.
 31]
 
 When pursued along gender, class, racial, ethnic, or national lines,
@@ -777,9 +780,9 @@ organisation to spread power horizontally rather than concentrating it at the
 apex of a hierarchy, all of its members have to have an equal voice in making
 the decisions that affect them. Hence decentralisation implies self-
 management. So, anarchists argue, the peace movement implies anarchism because
-world peace is impossible without both decentralisation and direct democracy
-(_"a federated people would be a people organised for peace; what would they
-do with armies?"_ [Proudhon, **Property is Theft!**, p. 719]). As Benello
+world peace is impossible without both decentralisation and direct democracy (
+_"a federated people would be a people organised for peace; what would they do
+with armies?"_ [Proudhon, **Property is Theft!** , p. 719]). As Benello
 correctly argued, the _"anarchist perspective has an unparalleled relevance
 today because prevailing nuclear policies can be considered as an ultimate
 stage in the divergence between the interests of governments and their peoples
@@ -789,8 +792,8 @@ and death . . . There is thus a pressing impetus to re-think the role, scale,
 and structure of national governments."_ Moreover, _"[s]o long as profits are
 tied to defence production, speaking truth to the elites involved is not
 likely to get very far"_ as _"it is only within the boundaries of the profit
-system that the corporate elites would have any space to move."_ [**Op.
-Cit.**, p. 138 and p. 34] Thus the peace movement implicitly contains a
+system that the corporate elites would have any space to move."_ [ **Op.
+Cit.** , p. 138 and p. 34] Thus the peace movement implicitly contains a
 libertarian critique of both forms of the power system -- the political and
 economical.
 
@@ -822,7 +825,7 @@ its colonies . . . The nuclear free zone movement has a thrust which is
 clearly congruent with anarchist ideas . . . The same motives which go into
 the declaration of a nuclear free zone would dictate that in other areas where
 the state and the corporate systems services are dysfunctional and involve
-excessive costs, they should be dispensed with."_ [**Op. Cit.**, p. 137 and
+excessive costs, they should be dispensed with."_ [ **Op. Cit.** , p. 137 and
 pp. 140-1]
 
 The social justice movement is composed of people seeking fair and
@@ -900,7 +903,7 @@ cent of the labour force) and by another 50 per cent since then (from 5.3 per
 cent of the labour force in 1980 to 8.0 per cent in 1994)."_ Job insecurity
 has increased with, for example, the USA, having the worse job insecurity
 since the depression of the 1930s. [Takis Fotopoulos, **Towards an Inclusive
-Democracy**, p. 35 and p. 141] In addition, the world economy has become far
+Democracy** , p. 35 and p. 141] In addition, the world economy has become far
 less stable with regular financial crises sweeping the world of de-regulated
 capitalism every few years or so.
 
@@ -917,9 +920,9 @@ currently being subjected to.
 Ironically enough, as Marxist Robert Brenner points out, _"as the neo-
 classical medicine has been administered in even stronger doses, the economy
 has performed steadily less well. The 1970s were worse than the 1960s, the
-1980s worse than the 1970s, and the 1990s have been worse than the 1980s."_
-[_"The Economics of Global Turbulence"_, **New Left Review**, no. 229, p. 236]
-This is ironic because during the crisis of Keynesianism in the 1970s the
+1980s worse than the 1970s, and the 1990s have been worse than the 1980s."_ [
+_"The Economics of Global Turbulence"_ , **New Left Review** , no. 229, p.
+236] This is ironic because during the crisis of Keynesianism in the 1970s the
 right argued that too much equality and democracy harmed the economy, and so
 made us all worse-off in the long run (due to lower growth, sluggish
 investment and so on). However, after decades of pro-capitalist governments,
@@ -931,7 +934,7 @@ it right") we find that the _"cyclical upturn of the 1990s has, in terms of
 the main macro-economic indicators of growth -- output, investment,
 productivity, and real compensation -- has been even less dynamic than its
 relatively weak predecessors of the 1980s and the 1970s (not to mention those
-of the 1950s and 1960s)."_ [Brenner, **Op. Cit.**, p. 5] Of course, the
+of the 1950s and 1960s)."_ [Brenner, **Op. Cit.** , p. 5] Of course, the
 economy is presented as a success -- inequality is growing, the rich are
 getting richer and wealth is concentrating into fewer and fewer hands and so
 for the rich and finance capital, it can be considered a "Golden Age" and so
@@ -945,7 +948,7 @@ fivefold, and the top .01 percent of American is seven times richer than they
 were in 1973."_ Significantly, _the top 0.1% of Americans, a class with a
 minimum income of about $1.3 million and an average of about $3.5 million,
 receives more than 7 percent of all income -- up from just 2.2 percent in
-1979."_ [**The Conscience of a Liberal**, p. 129 and p. 259]
+1979."_ [ **The Conscience of a Liberal** , p. 129 and p. 259]
 
 So it is for this reason that it may be wrong to term this slow rot a "crisis"
 as it is hardly one for the ruling elite as their share in social wealth,
@@ -962,8 +965,8 @@ followed the example of Japan which had used state intervention to grow at
 massive rates after the war). Of course, before the economic crisis of 1997,
 capitalist ideologues argued that these countries were classic examples of
 "free market" economies. Right-wing icon F.A von Hayek asserted that _"South
-Korea and other newcomers"_ had _"discovered the benefits of free markets."_
-[**1980s Unemployment and the Unions**, p. 113] In 1995, the **Heritage
+Korea and other newcomers"_ had _"discovered the benefits of free markets."_ [
+**1980s Unemployment and the Unions** , p. 113] In 1995, the **Heritage
 Foundation** (a right-wing think-tank) released its index of economic freedom.
 Four of the top seven countries were Asian, including Japan and Taiwan. All
 the Asian countries struggling just a few years later qualified as "free."
@@ -973,9 +976,9 @@ spectacular growth. As a number of studies have shown, the expansion of the
 Asian Tigers was based on massive state intervention that boosted their export
 sectors, by public policies involving not only heavy protectionism but even
 deliberate distortion of market prices to stimulate investment and trade."_
-[Fotopoulos, **Op. Cit.**, p. 115] Moreover, for a long period these countries
-also banned unions and protest, but then for the right "free markets" always
-seem compatible with lack of freedom for workers to organise.
+[Fotopoulos, **Op. Cit.** , p. 115] Moreover, for a long period these
+countries also banned unions and protest, but then for the right "free
+markets" always seem compatible with lack of freedom for workers to organise.
 
 Needless to say, **after** the crisis of the late 1990s, the free-marketeers
 discovered the statism that had always been there and danced happily on the
@@ -997,7 +1000,7 @@ So, as can be seen, the global economy has been marked by an increasing
 stagnation, the slowing down of growth, weak (and jobless) recoveries,
 speculative bubbles driving what growth there is and increasing financial
 instability producing regular and deepening crisis. This is despite (or, more
-likely, **because of**) the free market reforms imposed and the deregulation
+likely, **because of** ) the free market reforms imposed and the deregulation
 of finance capital (we say "because of" simply because neo-classical economics
 argue that pro-market reforms would increase growth and improve the economy,
 but as we noted in [section C.1](secC1.md) such economics has little basis
@@ -1018,20 +1021,20 @@ wither in a hot one."_ In other words, real economic weakness is reflected in
 financial strength. Unsurprisingly, then, _"[w]hat might be called the rentier
 share of the corporate surplus -- dividends plus interest as a percentage of
 pre-tax profits and interest -- has risen sharply, from 20-30% in the 1950s to
-60% in the 1990s."_ [Doug Henwood, **Wall Street**, p. 124 and p. 73]
+60% in the 1990s."_ [Doug Henwood, **Wall Street** , p. 124 and p. 73]
 
 This helps explain the stagnation which has afflicted the economies of the
 west. The rich have been placing more of their ever-expanding wealth in
 stocks, allowing this market to rise in the face of general economic torpor.
 Rather than being used for investment, surplus is being funnelled into the
 finance market (retained earnings in the US have decreased as interest and
-dividend payments have increased [Brenner, **Op. Cit.**, p. 210]). However,
+dividend payments have increased [Brenner, **Op. Cit.** , p. 210]). However,
 such markets do concentrate wealth very successfully even if _"the US
 financial system performs dismally at its advertised task, that of efficiently
 directing society's savings towards their optimal investment pursuits. The
 system is stupefyingly expensive, gives terrible signals for the allocation of
 capital, and has surprisingly little to do with real investment."_ [Henwood,
-**Op. Cit.**, p. 3] As most investment comes from internal funds, the rise in
+**Op. Cit.** , p. 3] As most investment comes from internal funds, the rise in
 the rentiers share of the surplus has meant less investment and so the
 stagnation of the economy. The weakening economy has increased financial
 strength, which in turn leads to a weakening in the real economy. A vicious
@@ -1047,11 +1050,11 @@ policies have been at the expense of the underlying economy in general, and of
 the working class in particular:
 
 > _"Rentier power was directed at labour, both organised and unorganised ranks
-of wage earners, because it regarded rising wages as a principal threat to the
-stable order. For obvious reasons, this goal was never stated very clearly,
-but financial markets understood the centrality of the struggle: protecting
-the value of their capital required the suppression of labour incomes."_
-[William Greider, **One World, Ready or Not**, p. 302]
+> of wage earners, because it regarded rising wages as a principal threat to
+> the stable order. For obvious reasons, this goal was never stated very
+> clearly, but financial markets understood the centrality of the struggle:
+> protecting the value of their capital required the suppression of labour
+> incomes."_ [William Greider, **One World, Ready or Not** , p. 302]
 
 For example, _"the practical effect of finance capital's hegemony was to lock
 the advanced economies and their governments in a malignant spiral,
@@ -1064,7 +1067,7 @@ drove the governments into their deepening indebtedness, since the
 disappointing growth inevitably undermined tax revenues while it expanded the
 public welfare costs. The rentier regime repeatedly instructed governments to
 reform their spending priorities -- that is, withdraw benefits from dependent
-citizens."_ [Greider, **Op. Cit.**, pp. 297-8]
+citizens."_ [Greider, **Op. Cit.** , pp. 297-8]
 
 Of course, industrial capital **also** hates labour, so there is a basis of an
 alliance between the two sides of capital, even if they do disagree over the
@@ -1080,8 +1083,8 @@ fictitious, products would thrive when growth is strong. In general,
 industrialists are less sympathetic to these arguments. Employers in any
 industry like slack in the labour market; it makes for a pliant workforce, one
 unlikely to make demands or resist speedups."_ In addition, _"many non-
-financial corporations have heavy financial interests."_ [**Op. Cit.**, p. 123
-and p. 135]
+financial corporations have heavy financial interests."_ [ **Op. Cit.** , p.
+123 and p. 135]
 
 Thus the general stagnation afflicting much of the world, a stagnation which
 regularly develop into open crisis as the needs of finance undermine the real
@@ -1189,8 +1192,8 @@ struggle. Essentially, as C. George Benello argued, _"[i]f economic conditions
 worsen . . . then we are likely to find an openness to alternatives which have
 not been thought of since the depression of the 1930s . . . It is important to
 plan for a possible economic crisis, since it is not only practical, but also
-can serve as a method of mobilising a community in creative ways."_ [**From
-the Ground Up**, p. 149]
+can serve as a method of mobilising a community in creative ways."_ [ **From
+the Ground Up** , p. 149]
 
 In the face of economic stagnation and depression, attempts to generate more
 profits (i.e., increase exploitation) by increasing the authority of the boss
@@ -1214,7 +1217,7 @@ in Eastern Europe, the anti-authoritarian faction of the left will
 increasingly be seen as its only credible one. Thus the ongoing structural
 crisis of the global capitalist economy, combined with the other developments
 springing from what Takis Fotopoulos calls (in his book **Towards an Inclusive
-Democracy**) a _"multidimensional crisis"_ (which includes economic,
+Democracy** ) a _"multidimensional crisis"_ (which includes economic,
 political, social, ecological and ideological aspects), could (potentially)
 lead to a new **international** anti-authoritarian alliance linking together
 the new (and not so new) social movements in the West (feminism, the Green
@@ -1230,14 +1233,14 @@ contrast of _"what is"_ with what _"could be"_ in a clear light. Any crisis
 brings forth the contradictions in capitalism, between the production of use
 values (things people need) and of exchange value (capitalist profits),
 between capitalism's claims of being based on liberty and the authoritarianism
-associated with wage labour (_"The general evidence of repression poses an
+associated with wage labour ( _"The general evidence of repression poses an
 ancient contradiction for capitalism: while it claims to promote human
 freedom, it profits concretely from the denial of freedom, most especially
 freedom for the workers employed by capitalist enterprise."_ [William Greider,
-**One World, Ready or Not**, p. 388]) and so on. It shakes to the bone popular
-faith in capitalism's ability to "deliver the goods" and gets more and more
-people thinking about alternatives to a system that places profit above and
-before people and planet. The crisis also, by its very nature, encourages
+**One World, Ready or Not** , p. 388]) and so on. It shakes to the bone
+popular faith in capitalism's ability to "deliver the goods" and gets more and
+more people thinking about alternatives to a system that places profit above
+and before people and planet. The crisis also, by its very nature, encourages
 workers and other oppressed sections of the population to resist and fight
 back, which in turn generates collective organisation (such as unions or
 workplace-based assemblies and councils), solidarity and direct action -- in
@@ -1261,7 +1264,7 @@ elite state aid is never far away). This development has potential libertarian
 possibilities. _"The decline of the state,"_ argues L. Gambone, _"makes
 necessary a revitalisation of the notions of direct action and mutual aid.
 Without Mama State to do it for us, we must create our own social services
-through mutual aid societies."_ [**Syndicalism in Myth and Reality**, p. 12]
+through mutual aid societies."_ [ **Syndicalism in Myth and Reality** , p. 12]
 As we argue in more depth in [section J.5.16](secJ5.md#secj516), such a
 movement of mutual aid has a long history in the working class and, as it is
 under our control, it cannot be withdrawn from us to enrich and empower the
@@ -1272,7 +1275,29 @@ services to the weakest sections of our society -- which possibility comes
 about depends on what we do in the here and now. See [section
 J.5.15](secJ5.md#secj515) for an anarchist analysis of the welfare state).
 
-**Food Not Bombs!** (FNB) is an excellent example of practical libertarian alternatives being generated by the economic crisis we are facing. FNB is a community-based group which helps the homeless through the direct action of its members. It also involves the homeless in helping themselves. It serves free food in public places to expose the plight of the homeless, the callousness of the system and our capacity to solve social problems through our own actions without government or capitalism. The constant harassment of FNB by the police, middle classes and the government illustrates their callousness to the plight of the poor and the failure of their institutions to build a society which cares for people more than money and property (and the police and prisons to protect them). The fact is that in the US many working and unemployed people have no **feeling** that they are entitled to basic human needs such as medicine, clothes, shelter, and food. FNB encourages poor people to make these demands, provides a space in which these demands can be voiced, and helps to breakdown the wall between hungry and not-hungry. The repression directed towards FNB by local police forces and governments also demonstrates the effectiveness of their activity and the possibility that it may radicalise those who get involved with the organisation. Charity is obviously one thing, mutual aid is something else. FNB is a politicised movement from below, based on solidarity, **not** charity as, in Kropotkin's words, charity _"bears a character of inspiration from above, and, accordingly, implies a certain superiority of the giver upon the receiver."_ [**Mutual Aid**, p. 222]
+**Food Not Bombs!** (FNB) is an excellent example of practical libertarian
+alternatives being generated by the economic crisis we are facing. FNB is a
+community-based group which helps the homeless through the direct action of
+its members. It also involves the homeless in helping themselves. It serves
+free food in public places to expose the plight of the homeless, the
+callousness of the system and our capacity to solve social problems through
+our own actions without government or capitalism. The constant harassment of
+FNB by the police, middle classes and the government illustrates their
+callousness to the plight of the poor and the failure of their institutions to
+build a society which cares for people more than money and property (and the
+police and prisons to protect them). The fact is that in the US many working
+and unemployed people have no **feeling** that they are entitled to basic
+human needs such as medicine, clothes, shelter, and food. FNB encourages poor
+people to make these demands, provides a space in which these demands can be
+voiced, and helps to breakdown the wall between hungry and not-hungry. The
+repression directed towards FNB by local police forces and governments also
+demonstrates the effectiveness of their activity and the possibility that it
+may radicalise those who get involved with the organisation. Charity is
+obviously one thing, mutual aid is something else. FNB is a politicised
+movement from below, based on solidarity, **not** charity as, in Kropotkin's
+words, charity _"bears a character of inspiration from above, and,
+accordingly, implies a certain superiority of the giver upon the receiver."_ [
+**Mutual Aid** , p. 222]
 
 The last example of how economic stagnation can generate libertarian
 tendencies can be seen from the fact that, _"[h]istorically, at times of
@@ -1280,7 +1305,7 @@ severe inflation or capital shortages, communities have been forced to rely on
 their own resources. During the Great Depression, many cities printed their
 own currency; this works to the extent that a community is able to maintain a
 viable internal economy which provides the necessities of life, independent of
-transactions with the outside."_ [Benello, **Op. Cit.**, p. 150]
+transactions with the outside."_ [Benello, **Op. Cit.** , p. 150]
 
 These local currencies could be the basis of a mutual bank (see [section
 J.5.5](secJ5.md#secj55)), providing interest-free loans to workers to form
@@ -1290,7 +1315,7 @@ product of their labour with other workers. Moreover, _"local exchange systems
 strength local communities by increasing their self-reliance, empowering
 community members, and helping to protect them from the excesses of the global
 market."_ [Frank Lindenfield, _"Economics for Anarchists,"_ **Social
-Anarchism**, no. 23, p. 24] In this way self-managing communes could be
+Anarchism** , no. 23, p. 24] In this way self-managing communes could be
 created, communes that replace hierarchical, top-down, government with
 collective decision making of community affairs based on directly democratic
 community assemblies. These self-governing communities and economies could
@@ -1302,7 +1327,7 @@ the _"globalisation of capital threatens local industries. A way has to be
 found to keep capital at home and so preserve the jobs and the communities
 that depend upon them. Protectionism is both undesirable and unworkable. But
 worker-ownership or workers' co-operatives are alternatives."_ [Gambone, **Op.
-Cit.**, pp. 12-13] Local communities could provide the necessary support
+Cit.** , pp. 12-13] Local communities could provide the necessary support
 structures which could protect co-operatives from the corrupting effects of
 working in the capitalist market (see [section J.5.11](secJ5.md#secj511)).
 They could also demand that rather than nationalise or bailout failing
@@ -1313,7 +1338,7 @@ possession of the industrial concerns"_, anarchists would provide _"an
 effective means to check the State Nationalisation"_ in the period before a
 social revolution when _"State phases which we are traversing now seems to be
 unavoidable."_ [quoted by Ruth Kinna, _"Fields of Vision: Kropotkin and
-Revolutionary Change"_, pp. 67-86, **SubStance**, Vol. 36, No. 2, p. 77] In
+Revolutionary Change"_ , pp. 67-86, **SubStance** , Vol. 36, No. 2, p. 77] In
 this way, economic liberty (self-management) could replace capitalism (wage
 slavery) and show that anarchism is a practical alternative to the chaos and
 authoritarianism of capitalism, even if these examples are initially
@@ -1333,7 +1358,7 @@ Nevertheless, they can help build the economic strength of local currencies,
 empower local residents, and mitigate some of the consequences of poverty and
 unemployment . . . By the time a majority [of a community are involved it]
 will be well on its way to becoming a living embodiment of many anarchist
-ideals."_ [Lindenfield, **Op. Cit.**, p. 28] And such a community would be a
+ideals."_ [Lindenfield, **Op. Cit.** , p. 28] And such a community would be a
 great aid in any strike or other social struggle which is going on!
 
 The general economic crisis which we are facing has implications for social
@@ -1431,7 +1456,7 @@ good thing. This 'Don't tread on me' feeling is in many respects a healthy
 one. It's healthy up to the point where it atomises and keeps you from working
 together with other people. So it's got its healthy side and its negative
 side. It's the negative side that's emphasised naturally in the propaganda and
-indoctrination."_ [**Keeping the Rabble in Line**, pp. 279-80]
+indoctrination."_ [ **Keeping the Rabble in Line** , pp. 279-80]
 
 As opinion polls show, most people direct their dislike and distrust of
 institutions equally to Big Business, which shows that people are not stupid.
@@ -1491,7 +1516,7 @@ Of course there is no denying that the implications of improved communications
 and information technology are ambiguous, implying Big Brother as well the
 ability of progressive and radical movements to organise. However, the point
 is only that the information revolution in combination with the other social
-developments **could** (but will not **necessarily**) contribute to a social
+developments **could** (but will not **necessarily** ) contribute to a social
 paradigm shift. Obviously such a shift will not happen automatically. Indeed,
 it will not happen at all unless there is strong resistance to governmental
 and corporate attempts to limit public access to information, technology (e.g.
@@ -1504,7 +1529,7 @@ software, and other technology today is often used to validate the faith in
 free market capitalism but that requires a monumental failure of historical
 memory as not just the Internet but also the computer represents a spectacular
 success of public investment. As late as the 1970s and early 1980s, according
-to Kenneth Flamm's **Creating the Computer**, the federal government was
+to Kenneth Flamm's **Creating the Computer** , the federal government was
 paying for 40 percent of all computer-related research and 60 to 75 percent of
 basic research. Even such modern-seeming gadgets as video terminals, the light
 pen, the drawing tablet, and the mouse evolved from Pentagon-sponsored
@@ -1544,14 +1569,14 @@ companies or individuals, so hindering the industry as a whole.
 Encouragingly, this socialistic "gift economy" is still at the heart of
 computer/software development and the Internet. For example, the **Free
 Software Foundation** has developed the **General Public Licence** (GPL). GPL,
-also known as **_"copyleft"_**, uses copyright to ensure that software remains
-free. Copyleft ensures that a piece of software is made available to everyone
-to use and modify as they desire. The only restriction is that any used or
-modified copyleft material must remain under copyleft, ensuring that others
-have the same rights as you did when you used the original code. It creates a
-commons which anyone may add to, but no one may subtract from. Placing
-software under GPL means that every contributor is assured that she, and all
-other users, will be able to run, modify and redistribute the code
+also known as **_"copyleft"_** , uses copyright to ensure that software
+remains free. Copyleft ensures that a piece of software is made available to
+everyone to use and modify as they desire. The only restriction is that any
+used or modified copyleft material must remain under copyleft, ensuring that
+others have the same rights as you did when you used the original code. It
+creates a commons which anyone may add to, but no one may subtract from.
+Placing software under GPL means that every contributor is assured that she,
+and all other users, will be able to run, modify and redistribute the code
 indefinitely. Unlike commercial software, copyleft code ensures an increasing
 knowledge base from which individuals can draw from and, equally as important,
 contribute to. In this way everyone benefits as code can be improved by
@@ -1618,8 +1643,8 @@ society worrying the powers that be.
 A good example of this powerful tool is the incredible speed and range at
 which information travels the Internet about events concerning Mexico and the
 Zapatistas. When Alexander Cockburn wrote an article exposing a Chase
-Manhattan Bank memo about Chiapas and the Zapatistas in **Counterpunch**, only
-a small number of people read it because it is only a newsletter with a
+Manhattan Bank memo about Chiapas and the Zapatistas in **Counterpunch** ,
+only a small number of people read it because it is only a newsletter with a
 limited readership. The memo, written by Riordan Roett, argued that _"the
 [Mexican] government will need to eliminate the Zapatistas to demonstrate
 their effective control of the national territory and of security policy"_. In
@@ -1643,6 +1668,6 @@ communications technology as a means of co-ordinating activity across the
 world in a libertarian fashion for libertarian goals.
 
 [‹ J.3 What kinds of organisation do anarchists build?](secJ3.md "Go to
-previous page" ) [up](secJcon.md "Go to parent page" ) [J.5 What alternative
-social organisations do anarchists create? ›](secJ5.md "Go to next page" )
+previous page") [up](secJcon.md "Go to parent page") [J.5 What alternative
+social organisations do anarchists create? ›](secJ5.md "Go to next page")
 

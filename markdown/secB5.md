@@ -43,8 +43,8 @@ conditions under which they have been produced. His sole concern is to obtain
 the best value for money."_ He goes on to note that the market _"therefore
 respects only the surface of society and its significance relates to the
 momentary situation as it exists there and then. There is no probing into the
-depths of things, into the natural or social facts that lie behind them."_
-[**Small is Beautiful**, p. 29]
+depths of things, into the natural or social facts that lie behind them."_ [
+**Small is Beautiful** , p. 29]
 
 Indeed, the "customer" model actually works **against** any attempt to "probe"
 the facts of things. Firstly, consumers rarely know the significance or
@@ -53,9 +53,9 @@ withholds such information from them. Secondly, because the atomistic nature
 of the market makes discussion about the "why" and "how" of production
 difficult -- we get to choose between various "whats". Instead of critically
 evaluating the pros and cons of certain economic practices, all we are offered
-is the option of choosing between things already produced. We can only
-**re**-act when the damage is already done by picking the option which does
-least damage (often we do not have even that choice). And to discover a given
+is the option of choosing between things already produced. We can only **re**
+-act when the damage is already done by picking the option which does least
+damage (often we do not have even that choice). And to discover a given
 products social and ecological impact we have to take a pro-active role by
 joining groups which provide this sort of information (information which,
 while essential for a rational decision, the market does not and cannot
@@ -77,7 +77,7 @@ of desperation" just to survive. Individual commitments to certain values, in
 other words, may become irrelevant simply because the countervailing economic
 pressures are simply too intense (little wonder Robert Owen argued that the
 profit motive was _"a principle entirely unfavourable to individual and public
-happiness"_).
+happiness"_ ).
 
 And, of course, the market also does not, and cannot, come up with goods that
 we do not want in our capacity as consumers but desire to protect for future
@@ -99,14 +99,14 @@ reflects the fact that the increasing scale of political institutions has
 reinforced the tendency noted earlier for voters to become passive spectators,
 placing their "support" behind one or another "product" (i.e. party or
 leader). As Murray Bookchin comments, _"educated, knowledgeable citizens
-become reduced to mere taxpayers who exchange money for 'services.'"_
-[**Remaking Society**, p. 71] In practice, due to state centralism, this turns
+become reduced to mere taxpayers who exchange money for 'services.'"_ [
+**Remaking Society** , p. 71] In practice, due to state centralism, this turns
 the political process into an extension of the market, with "citizens" being
 reduced to "consumers." Or, in Erich Fromm's apt analysis, _"The functioning
 of the political machinery in a democratic country is not essentially
 different from the procedure on the commodity market. The political parties
 are not too different from big commercial enterprises, and the professional
-politicians try to sell their wares to the public."_ [**The Sane Society**,
+politicians try to sell their wares to the public."_ [ **The Sane Society** ,
 pp. 186-187]
 
 But does it matter? Friedman suggests that being a customer is **better** than
@@ -166,8 +166,8 @@ of the environment, the utter irrationality of the utilisation of contemporary
 technology, the inability of a system based on profit or growth maximisation
 to deal with needs that can only be expressed collectively, and the enormous
 bias this system imposes towards maximisation of commodities for personal use
-in place of the general improvement of the quality of life."_ [**Radical
-Priorities**, pp. 190-1]
+in place of the general improvement of the quality of life."_ [ **Radical
+Priorities** , pp. 190-1]
 
 The "citizen" model takes on board the fact that the sum of rational
 individual decisions may not yield a rational collective outcome (which, we
@@ -190,8 +190,7 @@ a social framework, one that allows each individual to take an active part in
 improving the quality of life for us all by removing "Hobson choices" as far
 as possible.
 
-[‹ B.4 How does capitalism affect liberty?](secB4.md "Go to previous page" )
-[up](secBcon.md "Go to parent page" ) [B.6 But won't decisions made by
-individuals with their own money be the best? ›](secB6.md "Go to next page"
-)
+[‹ B.4 How does capitalism affect liberty?](secB4.md "Go to previous page")
+[up](secBcon.md "Go to parent page") [B.6 But won't decisions made by
+individuals with their own money be the best? ›](secB6.md "Go to next page")
 

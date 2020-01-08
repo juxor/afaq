@@ -4,26 +4,27 @@ Private property is in many ways like a private form of state. The owner
 determines what goes on within the area he or she "owns," and therefore
 exercises a monopoly of power over it. When power is exercised over one's
 self, it is a source of freedom, but under capitalism it is a source of
-coercive authority. As Bob Black points out in **The Abolition of Work**:
+coercive authority. As Bob Black points out in **The Abolition of Work** :
 
 > _"The liberals and conservatives and Libertarians who lament totalitarianism
-are phoneys and hypocrites. . . You find the same sort of hierarchy and
-discipline in an office or factory as you do in a prison or a monastery. . . A
-worker is a part-time slave. The boss says when to show up, when to leave, and
-what to do in the meantime. He tells you how much work to do and how fast. He
-is free to carry his control to humiliating extremes, regulating, if he feels
-like it, the clothes you wear or how often you go to the bathroom. With a few
-exceptions he can fire you for any reason, or no reason. He has you spied on
-by snitches and supervisors, he amasses a dossier on every employee. Talking
-back is called 'insubordination,' just as if a worker is a naughty child, and
-it not only gets you fired, it disqualifies you for unemployment compensation.
-. .The demeaning system of domination I've described rules over half the
-waking hours of a majority of women and the vast majority of men for decades,
-for most of their lifespans. For certain purposes it's not too misleading to
-call our system democracy or capitalism or -- better still -- industrialism,
-but its real names are factory fascism and office oligarchy. Anybody who says
-these people are 'free' is lying or stupid."_ [**The Abolition of Work and
-other essays**, p. 21]
+> are phoneys and hypocrites. . . You find the same sort of hierarchy and
+> discipline in an office or factory as you do in a prison or a monastery. . .
+> A worker is a part-time slave. The boss says when to show up, when to leave,
+> and what to do in the meantime. He tells you how much work to do and how
+> fast. He is free to carry his control to humiliating extremes, regulating,
+> if he feels like it, the clothes you wear or how often you go to the
+> bathroom. With a few exceptions he can fire you for any reason, or no
+> reason. He has you spied on by snitches and supervisors, he amasses a
+> dossier on every employee. Talking back is called 'insubordination,' just as
+> if a worker is a naughty child, and it not only gets you fired, it
+> disqualifies you for unemployment compensation. . .The demeaning system of
+> domination I've described rules over half the waking hours of a majority of
+> women and the vast majority of men for decades, for most of their lifespans.
+> For certain purposes it's not too misleading to call our system democracy or
+> capitalism or -- better still -- industrialism, but its real names are
+> factory fascism and office oligarchy. Anybody who says these people are
+> 'free' is lying or stupid."_ [ **The Abolition of Work and other essays** ,
+> p. 21]
 
 In response to this, defenders of capitalism usually say something along the
 lines of _"It's a free market and if you don't like it, find another job."_ Of
@@ -73,36 +74,36 @@ for labour.
 That this thought experiment reflects the way capitalism operates is clear.
 Little wonder anarchists have echoed Proudhon's complaint that _"our large
 capitalist associations [are] organised in the spirit of commercial and
-industrial feudalism."_ [**Selected Writings of Pierre-Joseph Proudhon**, p.
+industrial feudalism."_ [ **Selected Writings of Pierre-Joseph Proudhon** , p.
 72] Ironically, rather than deny the anarchist claim, defenders of capitalism
 have tried to convince us that such a regime is liberty incarnate. Yet the
 statist nature of private property can be seen in (right-wing) "Libertarian"
 (i.e. "classical" liberal) works representing the extremes of laissez-faire
 capitalism:
 
-> _ "[I]f one starts a private town, on land whose acquisition did not and
-does not violate the Lockean proviso [of non-aggression], persons who chose to
-move there or later remain there would have no **right** to a say in how the
-town was run, unless it was granted to them by the decision procedures for the
-town which the owner had established."_ [Robert Nozick, **Anarchy, State and
-Utopia**, p. 270]
+> _"[I]f one starts a private town, on land whose acquisition did not and does
+> not violate the Lockean proviso [of non-aggression], persons who chose to
+> move there or later remain there would have no **right** to a say in how the
+> town was run, unless it was granted to them by the decision procedures for
+> the town which the owner had established."_ [Robert Nozick, **Anarchy, State
+> and Utopia** , p. 270]
 
 This is voluntary feudalism, nothing more. And, indeed, it was. Such private
 towns have existed, most notably the infamous company towns of US history.
 Howard Zinn summarises the conditions of such "private towns" in the Colorado
 mine fields:
 
-> _ "Each mining camp was a feudal dominion, with the company acting as lord
-and master. Every camp had a marshal, a law enforcement officer paid by the
-company. The 'laws' were the company's rules. Curfews were imposed,
-'suspicious' strangers were not allowed to visit the homes, the company store
-had a monopoly on goods sold in the camp. The doctor was a company doctor, the
-schoolteachers hired by the company . . . Political power in Colorado rested
-in the hands of those who held economic power. This meant that the authority
-of Colorado Fuel &amp; Iron and other mine operators was virtually supreme . .
-. Company officials were appointed as election judges. Company-dominated
-coroners and judges prevented injured employees from collecting damages."_
-[**The Colorado Coal Strike, 1913-14**, pp. 9-11]
+> _"Each mining camp was a feudal dominion, with the company acting as lord
+> and master. Every camp had a marshal, a law enforcement officer paid by the
+> company. The 'laws' were the company's rules. Curfews were imposed,
+> 'suspicious' strangers were not allowed to visit the homes, the company
+> store had a monopoly on goods sold in the camp. The doctor was a company
+> doctor, the schoolteachers hired by the company . . . Political power in
+> Colorado rested in the hands of those who held economic power. This meant
+> that the authority of Colorado Fuel & Iron and other mine operators was
+> virtually supreme . . . Company officials were appointed as election judges.
+> Company-dominated coroners and judges prevented injured employees from
+> collecting damages."_ [ **The Colorado Coal Strike, 1913-14** , pp. 9-11]
 
 Unsurprisingly, when the workers rebelled against this tyranny, they were
 evicted from their homes and the private law enforcement agents were extremely
@@ -116,18 +117,18 @@ looked forward"_ to their arrival. They _"did not know that the governor was
 sending these troops under pressure from the mine operators."_ Indeed, the
 banks and corporations lent the state funds to pay for the militia. It was
 these company thugs, dressed in the uniform of the state militia, who murdered
-woman and children in the infamous Ludlow Massacre of April 20th, 1914. [**Op.
-Cit.**, p. 22, p. 25, p. 35]
+woman and children in the infamous Ludlow Massacre of April 20th, 1914. [
+**Op. Cit.** , p. 22, p. 25, p. 35]
 
 Without irony the **New York Times** editorialised that the _"militia was as
-impersonal and impartial as the law."_ The corporation itself hired Ivy Lee
-(_"the father of public relations in the United States"_) to change public
+impersonal and impartial as the law."_ The corporation itself hired Ivy Lee (
+_"the father of public relations in the United States"_ ) to change public
 opinion after the slaughter. Significantly, Lee produced a series of tracts
 labelled _"Facts Concerning the Struggle in Colorado for Industrial Freedom."_
 The head of the corporation (Rockefeller) portrayed his repression of the
 strikers as blow for workers' freedom, to _"defend the workers' right to
-work."_ [quoted by Zinn, **Op. Cit.**, p. 44, p. 51 and p. 50] So much for the
-capitalism being the embodiment of liberty.
+work."_ [quoted by Zinn, **Op. Cit.** , p. 44, p. 51 and p. 50] So much for
+the capitalism being the embodiment of liberty.
 
 Of course, it can be claimed that "market forces" will result in the most
 liberal owners being the most successful, but a nice master is still a master
@@ -137,10 +138,10 @@ capitalist is like a kind donkey owner. He will do everything for the donkey
 -- care for it, feed it, wash it. Everything except get off its back!"_ And as
 Bob Black notes, _"Some people giving orders and others obeying them: this is
 the essence of servitude. . . . But freedom means more than the right to
-change masters."_ [_The Libertarian as Conservative_, **The Abolition of Work
-and other essays**, p. 147] That supporters of capitalism often claim that
-this "right" to change masters **is** the essence of "freedom" is a telling
-indictment of the capitalist notion of "liberty."
+change masters."_ [ _The Libertarian as Conservative_ , **The Abolition of
+Work and other essays** , p. 147] That supporters of capitalism often claim
+that this "right" to change masters **is** the essence of "freedom" is a
+telling indictment of the capitalist notion of "liberty."
 
 Needless to say, the authoritarianism of capitalism is not limited to the
 workplace. Capitalists seek to bolster their power within society as a whole,
@@ -159,23 +160,23 @@ as potential threats to their power. This "problem" was noted by Alexis de
 Tocqueville in early 19th-century America:
 
 > _"It is easy to perceive that the wealthy members of the community entertain
-a hearty distaste to the democratic institutions of their country. The
-populace is at once the object of their scorn and their fears."_
+> a hearty distaste to the democratic institutions of their country. The
+> populace is at once the object of their scorn and their fears."_
 
 These fears have not changed, nor has the contempt for democratic ideas. To
 quote one US Corporate Executive, _"one man, one vote will result in the
 eventual failure of democracy as we know it."_ [L. Silk and D. Vogel, **Ethics
-and Profits: The Crisis of Confidence in American Business**, pp. 189f]
+and Profits: The Crisis of Confidence in American Business** , pp. 189f]
 
-This contempt for democracy does not mean that capitalists are **anti**-state.
-Far from it. As previously noted, capitalists depend on the state. This is
-because _"[classical] Liberalism, is in theory a kind of anarchy without
-socialism, and therefore is simply a lie, for freedom is not possible without
-equality. . .The criticism liberals direct at government consists only of
-wanting to deprive it some of its functions and to call upon the capitalists
-to fight it out amongst themselves, but it cannot attack the repressive
-functions which are of its essence: for without the **gendarme** the property
-owner could not exist."_ [Errico Malatesta, **Anarchy**, p. 47]
+This contempt for democracy does not mean that capitalists are **anti**
+-state. Far from it. As previously noted, capitalists depend on the state.
+This is because _"[classical] Liberalism, is in theory a kind of anarchy
+without socialism, and therefore is simply a lie, for freedom is not possible
+without equality. . .The criticism liberals direct at government consists only
+of wanting to deprive it some of its functions and to call upon the
+capitalists to fight it out amongst themselves, but it cannot attack the
+repressive functions which are of its essence: for without the **gendarme**
+the property owner could not exist."_ [Errico Malatesta, **Anarchy** , p. 47]
 
 We have discussed the state and how the ruling elite control in [section
 B.2](secB2.md) and will not do so here. Nor we will discuss the ways in
@@ -218,23 +219,23 @@ hierarchy would be called fascist or totalitarian if we were referring to a
 political system. In his words :
 
 > _"There's nothing individualistic about corporations. These are big
-conglomerate institutions, essentially totalitarian in character, but hardly
-individualistic. There are few institutions in human society that have such
-strict hierarchy and top-down control as a business organisation. Nothing
-there about 'don't tread on me`. You're being tread on all the time."_
-[**Keeping the Rabble in Line**, p. 280]
+> conglomerate institutions, essentially totalitarian in character, but hardly
+> individualistic. There are few institutions in human society that have such
+> strict hierarchy and top-down control as a business organisation. Nothing
+> there about 'don't tread on me`. You're being tread on all the time."_ [
+> **Keeping the Rabble in Line** , p. 280]
 
 Far from being "based on freedom," then, capitalism actually destroys freedom.
 In this regard, Robert E. Wood, the chief executive officer of Sears, spoke
 plainly when he said _"[w]e stress the advantages of the free enterprise
 system, we complain about the totalitarian state, but... we have created more
 or less of a totalitarian system in industry, particularly in large
-industry."_ [quoted by Allan Engler, **Apostles of Greed**, p. 68]
+industry."_ [quoted by Allan Engler, **Apostles of Greed** , p. 68]
 
 Or, as Chomsky puts it, supporters of capitalism do not understand _"the
 **fundamental** doctrine, that you should be free from domination and control,
 including the control of the manager and the owner"_ [Feb. 14th, 1992
-appearance on **Pozner/Donahue**].
+appearance on **Pozner/Donahue** ].
 
 Under corporate authoritarianism, the psychological traits deemed most
 desirable for average citizens to possess are efficiency, conformity,
@@ -248,10 +249,9 @@ But all such master/slave traits are inimical to the functioning of real (i.e.
 participatory/libertarian) democracy, which requires that citizens have
 qualities like flexibility, creativity, sensitivity, understanding, emotional
 honesty, directness, warmth, realism, and the ability to mediate, communicate,
-negotiate, integrate and co-operate. Therefore, capitalism is not only
-**un**democratic, it is **anti**-democratic, because it promotes the
-development of traits that make real democracy (and so a libertarian society)
-impossible.
+negotiate, integrate and co-operate. Therefore, capitalism is not only **un**
+democratic, it is **anti** -democratic, because it promotes the development of
+traits that make real democracy (and so a libertarian society) impossible.
 
 Many capitalist apologists have attempted to show that capitalist authority
 structures are "voluntary" and are, therefore, somehow not a denial of
@@ -264,8 +264,8 @@ to sell their labour to a **specific** boss and so ignores the lack of freedom
 within such contracts. He argues that _"individuals are effectively free to
 enter or not enter into any particular exchange, so every transaction is
 strictly voluntary. . . The employee is protected from coercion by the
-employer because of other employers for whom he can work."_ [**Capitalism and
-Freedom**, pp. 14-15]
+employer because of other employers for whom he can work."_ [ **Capitalism and
+Freedom** , pp. 14-15]
 
 Friedman, to prove the free nature of capitalism, compares capitalism with a
 simple exchange economy based upon independent producers. He states that in
@@ -275,7 +275,7 @@ benefits from it. Hence no exchange will take place unless both parties do
 benefit from it. Co-operation is thereby achieved without coercion."_ Under
 capitalism (or the _"complex"_ economy) Friedman states that _"individuals are
 effectively free to enter or not to enter into any particular exchange, so
-that every transaction is strictly voluntary."_ [**Op. Cit.**, p. 13 and p.
+that every transaction is strictly voluntary."_ [ **Op. Cit.** , p. 13 and p.
 14]
 
 A moments thought, however, shows that capitalism is not based on _"strictly
@@ -289,8 +289,8 @@ presents (the one based upon artisan production) to be voluntary and non-
 coercive; and nothing less than this would prove the complex model (i.e.
 capitalism) is voluntary and non-coercive. But Friedman is clearly claiming
 above that freedom not to enter into any **particular** exchange is enough and
-so, **only by changing his own requirements**, can he claim that capitalism is
-based upon freedom.
+so, **only by changing his own requirements** , can he claim that capitalism
+is based upon freedom.
 
 It is easy to see what Friedman has done, but it is less easy to excuse it
 (particularly as it is so commonplace in capitalist apologetics). He moved
@@ -315,12 +315,12 @@ be deceptions. For example, it is claimed that the employees of capitalist
 firms have freedom because they can always quit. To requote Bob Black:
 
 > _"Some people giving orders and others obeying them: this is the essence of
-servitude. Of course, as [right-Libertarians] smugly [observe], 'one can at
-least change jobs,' but you can't avoid having a job -- just as under statism
-one can at least change nationalities but you can't avoid subjection to one
-nation-state or another. But freedom means more than the right to change
-masters."_ [_"The Libertarian as Conservative"_, **The Abolition of Work and
-other essays**, p. 147]
+> servitude. Of course, as [right-Libertarians] smugly [observe], 'one can at
+> least change jobs,' but you can't avoid having a job -- just as under
+> statism one can at least change nationalities but you can't avoid subjection
+> to one nation-state or another. But freedom means more than the right to
+> change masters."_ [ _"The Libertarian as Conservative"_ , **The Abolition of
+> Work and other essays** , p. 147]
 
 Under capitalism, workers have only the Hobson's choice of being
 governed/exploited or living on the street.
@@ -357,12 +357,12 @@ Fraser Institute, makes clear the differences in power and benefits when
 discussing sexual harassment in the workplace:
 
 > _"Consider the sexual harassment which continually occurs between a
-secretary and a boss . . . while objectionable to many women, [it] is not a
-coercive action. It is rather part of a package deal in which the secretary
-agrees to **all** aspects of the job when she agrees to accept the job, and
-especially when she agrees to **keep** the job. The office is, after all,
-private property. The secretary does not have to remain if the 'coercion' is
-objectionable."_ [quoted by Engler, **Op. Cit.**, p. 101]
+> secretary and a boss . . . while objectionable to many women, [it] is not a
+> coercive action. It is rather part of a package deal in which the secretary
+> agrees to **all** aspects of the job when she agrees to accept the job, and
+> especially when she agrees to **keep** the job. The office is, after all,
+> private property. The secretary does not have to remain if the 'coercion' is
+> objectionable."_ [quoted by Engler, **Op. Cit.** , p. 101]
 
 The primary goal of the Fraser Institute is to convince people that all other
 rights must be subordinated to the right to enjoy wealth. In this case, Block
@@ -378,8 +378,8 @@ continued power and privileges. That the capitalist class in liberal-
 democratic states **gives** workers the right to change masters (though this
 is not true under state capitalism) is far from showing that capitalism is
 based on freedom, For as Peter Kropotkin rightly points out, _"freedoms are
-not given, they are taken."_ [Peter Kropotkin, **Words of a Rebel**, p. 43] In
-capitalism, you are "free" to do anything you are permitted to do by your
+not given, they are taken."_ [Peter Kropotkin, **Words of a Rebel** , p. 43]
+In capitalism, you are "free" to do anything you are permitted to do by your
 masters, which amounts to "freedom" with a collar and leash.
 
 ## B.4.2 Is capitalism based on self-ownership?
@@ -391,7 +391,7 @@ control [his or her] body free of coercive interference. Since each individual
 must think, learn, value, and choose his or her ends and means in order to
 survive and flourish, the right to self-ownership gives man [sic] the right to
 perform these vital activities without being hampered by coercive
-molestation."_ [**For a New Liberty**, pp. 26-27]
+molestation."_ [ **For a New Liberty** , pp. 26-27]
 
 At first sight, this appears to sound reasonable. That we "own" ourselves and,
 consequently, we decide what we do with ourselves has an intuitive appeal.
@@ -401,7 +401,7 @@ property are **not** invaded, are not aggressed against."_ It also lends
 itself to contrasts with slavery, where one individual owns another and _"the
 slave has little or no right to self-ownership; his person and his produce are
 systematically expropriated by his master by the use of violence."_ [Rothbard,
-**Op. Cit.**, p. 41] This means that "self-ownership" can be portrayed as the
+**Op. Cit.** , p. 41] This means that "self-ownership" can be portrayed as the
 opposite of slavery: we have the dominion over ourselves that a slaveholder
 has over their slave. This means that slavery is wrong because the slave owner
 has stolen the rightful property of the slave, namely their body (and its
@@ -432,7 +432,7 @@ rent them or sell them like any other kind of property. Moreover, if you have
 no property, you have no human rights as you have no place to exercise them.
 As Ayn Rand, another ideologue for "free market" capitalism stated, _"there
 can be no such thing as the right to unrestricted freedom of speech (or of
-action) on someone else's property."_ [**Capitalism: The Unknown Ideal**, p.
+action) on someone else's property."_ [ **Capitalism: The Unknown Ideal** , p.
 258] If you are in someone else's property (say at work) you have no basic
 rights at all, beyond the right not to be harmed (a right bosses habitually
 violate anyway by ignoring health and safety issues).
@@ -457,8 +457,8 @@ _"hampered"_ by _"coercive molestation."_ Therefore wage labour (the basis of
 capitalism) in practice **denies** the rights associated with "self-
 ownership," thus alienating the individual from his or her basic rights. Or as
 Michael Bakunin expressed it, _"the worker sells his person and his liberty
-for a given time"_ under capitalism. [**The Political Philosophy of Bakunin**,
-p. 187]
+for a given time"_ under capitalism. [ **The Political Philosophy of Bakunin**
+, p. 187]
 
 In a society of relative equals, "property" would not be a source of power as
 use would co-incidence with occupancy (i.e. private property would be replaced
@@ -469,7 +469,7 @@ and coercive authority through hierarchy. As Noam Chomsky writes, capitalism
 is based on _"a **particular form** of authoritarian control. Namely, the kind
 that comes through private ownership and control, which is an **extremely**
 rigid system of domination."_ When "property" is purely what you, as an
-individual, use (i.e. **possession**) it is not a source of power. In
+individual, use (i.e. **possession** ) it is not a source of power. In
 capitalism, however, "property" rights no longer coincide with **use** rights,
 and so they become a **denial** of freedom and a source of authority and power
 over the individual.
@@ -481,13 +481,13 @@ sanctions. This is definitely the case in company hierarchies under
 capitalism. Bob Black describes the authoritarian nature of capitalism as
 follows:
 
-> _ "[T]he place where [adults] pass the most time and submit to the closest
-control is at work. Thus . . . it's apparent that the source of the greatest
-direct duress experienced by the ordinary adult is **not** the state but
-rather the business that employs him. Your foreman or supervisor gives you
-more or-else orders in a week than the police do in a decade."_ [_"The
-Libertarian as Conservative"_, **The Abolition of Work and other essays**, p.
-145]
+> _"[T]he place where [adults] pass the most time and submit to the closest
+> control is at work. Thus . . . it's apparent that the source of the greatest
+> direct duress experienced by the ordinary adult is **not** the state but
+> rather the business that employs him. Your foreman or supervisor gives you
+> more or-else orders in a week than the police do in a decade."_ [ _"The
+> Libertarian as Conservative"_ , **The Abolition of Work and other essays** ,
+> p. 145]
 
 In developing nations, this control can easily been seen to be an utter
 affront to human dignity and liberty. There a workplace is often _"surrounded
@@ -500,7 +500,7 @@ and restricted access to water (to reduce the need for more bathroom breaks),
 which is often foul and unfit for human consumption in any event."_ The
 purpose is _"to maximise the amount of profit that could be wrung out"_ of the
 workers, with the _"time allocated to each task"_ being calculated in _"units
-of ten thousands of a second."_ [Joel Bakan, **The Corporation**, pp. 66-7]
+of ten thousands of a second."_ [Joel Bakan, **The Corporation** , pp. 66-7]
 While in the developed world the forms of control are, in general, nowhere as
 extreme (in thanks due to hard won labour organising and struggle) the basic
 principle is the same. Only a sophist would argue that the workers "owned"
@@ -529,32 +529,30 @@ defenders of capitalism deny this, classical economist James Mill let the cat
 out of the bag by directly comparing the two. It is worthwhile to quote him at
 length:
 
-> _ "The great capitalist, the owner of a manufactory, if he operated with
-slaves instead of free labourers, like the West India planter, would be
-regarded as owner both of the capital, and of the labour. He would be owner,
-in short, of both instruments of production: and the whole of the produce,
-without participation, would be his own.  
+> _"The great capitalist, the owner of a manufactory, if he operated with
+> slaves instead of free labourers, like the West India planter, would be
+> regarded as owner both of the capital, and of the labour. He would be owner,
+> in short, of both instruments of production: and the whole of the produce,
+> without participation, would be his own.  
 >  _
-
 >
-
 > _"What is the difference, in the case of the man, who operates by means of
-labourers receiving wages? The labourer, who receives wages, sells his labour
-for a day, a week, a month, or a year, as the case may be. The manufacturer,
-who pays these wages, buys the labour, for the day, the year, or whatever
-period it may be. He is equally therefore the owner of the labour, with the
-manufacturer who operates with slaves. The only difference is, in the mode of
-purchasing. The owner of the slave purchases, at once, the whole of the
-labour, which the man can ever perform: he, who pays wages, purchases only so
-much of a man's labour as he can perform in a day, or any other stipulated
-time. Being equally, however, the owner of the labour, so purchased, as the
-owner of the slave is of that of the slave, the produce, which is the result
-of this labour, combined with his capital, is all equally his own. In the
-state of society, in which we at present exist, it is in these circumstances
-that almost all production is effected: the capitalist is the owner of both
-instruments of production: and the whole of the produce is his."_ [_"Elements
-of Political Economy"_ quoted by David Ellerman, **Property and Contract in
-Economics**, pp. 53-4
+> labourers receiving wages? The labourer, who receives wages, sells his
+> labour for a day, a week, a month, or a year, as the case may be. The
+> manufacturer, who pays these wages, buys the labour, for the day, the year,
+> or whatever period it may be. He is equally therefore the owner of the
+> labour, with the manufacturer who operates with slaves. The only difference
+> is, in the mode of purchasing. The owner of the slave purchases, at once,
+> the whole of the labour, which the man can ever perform: he, who pays wages,
+> purchases only so much of a man's labour as he can perform in a day, or any
+> other stipulated time. Being equally, however, the owner of the labour, so
+> purchased, as the owner of the slave is of that of the slave, the produce,
+> which is the result of this labour, combined with his capital, is all
+> equally his own. In the state of society, in which we at present exist, it
+> is in these circumstances that almost all production is effected: the
+> capitalist is the owner of both instruments of production: and the whole of
+> the produce is his."_ [ _"Elements of Political Economy"_ quoted by David
+> Ellerman, **Property and Contract in Economics** , pp. 53-4
 
 Thus the only _"difference"_ between slavery and capitalist labour is the
 _"mode of purchasing."_ The labour itself and its product in both cases is
@@ -570,18 +568,18 @@ the product of their labour for the privilege of so doing!
 There are key differences of course. At the time, slavery was not a voluntary
 decision and the slaves could not change their master (although in some
 cultures, such as Ancient Rome, people over the could sell themselves in
-slavery while _"**voluntary** slavery is sanctioned in the Bible."_ [Ellerman,
-**Op. Cit.**, p. 115 and p. 114]). Yet the fact that under wage slavery people
-are not forced to take a specific job and can change masters does not change
-the relations of authority created between the two parties. As we note in the
-[next section](secB4.md#secb43), the objection that people can leave their
-jobs just amounts to saying "love it or leave it!" and does not address the
-issue at hand. The vast majority of the population cannot avoid wage labour
-and remain wage workers for most of their adult lives. It is virtually
-impossible to distinguish being able to sell your liberty/labour piecemeal
-over a lifetime from alienating your whole lifetime's labour at one go.
-Changing who you alienate your labour/liberty to does not change the act and
-experience of alienation.
+slavery while _" **voluntary** slavery is sanctioned in the Bible."_
+[Ellerman, **Op. Cit.** , p. 115 and p. 114]). Yet the fact that under wage
+slavery people are not forced to take a specific job and can change masters
+does not change the relations of authority created between the two parties. As
+we note in the [next section](secB4.md#secb43), the objection that people
+can leave their jobs just amounts to saying "love it or leave it!" and does
+not address the issue at hand. The vast majority of the population cannot
+avoid wage labour and remain wage workers for most of their adult lives. It is
+virtually impossible to distinguish being able to sell your liberty/labour
+piecemeal over a lifetime from alienating your whole lifetime's labour at one
+go. Changing who you alienate your labour/liberty to does not change the act
+and experience of alienation.
 
 Thus the paradox of self-ownership. It presupposes autonomy only in order to
 deny it. In order to enter a contract, the worker exercises autonomy in
@@ -609,7 +607,7 @@ which individuals have to **give up** when they are employed. But since these
 rights, according to Rothbard, are the products of humans **as** humans, wage
 labour alienates them from themselves, exactly as it does the individual's
 labour power and creativity. For you do not sell your skills, as these skills
-are **part** of you. Instead, what you have to sell is your **time**, your
+are **part** of you. Instead, what you have to sell is your **time** , your
 labour power, and so **yourself.** Thus under wage labour, rights of "self-
 ownership" are always placed below property rights, the only "right" being
 left to you is that of finding another job (although even this right is denied
@@ -625,8 +623,8 @@ product. _"Thus the Grass my Horse has bit; the Turfs my Servant has cut; and
 the Ore I have digg'd in any place where I have a right to them in common with
 others, becomes my **Property,** without the assignation or consent of any
 body. The **labour** that was mine . . . hath **fixed** my **Property** in
-them."_ [**Second Treatise on Government**, Section 27, Section 85 and Section
-28]
+them."_ [ **Second Treatise on Government** , Section 27, Section 85 and
+Section 28]
 
 Thus a person (the servant) becomes the equivalent of an animal (the horse)
 once they have sold their labour to the boss. Wage labour denies the basic
@@ -642,7 +640,7 @@ employers, although producing with them, -- are disregarded when the product
 is divided. Thus the horse who draws our coaches . . . produce with us, but
 are not associated with us; we take their product but do not share it with
 them. The animals and labourers whom we employ hold the same relation to us."_
-[**What is Property?**, p. 226]
+[ **What is Property?** , p. 226]
 
 So while the capitalist Locke sees nothing wrong in comparing a person to an
 animal, the anarchist Proudhon objects to the fundamental injustice of a
@@ -654,7 +652,7 @@ This means that someone in dire economic necessity can sell parts of their
 body to the rich. Ultimately, _"[t]o tell a poor man that he **has** property
 because he **has** arms and legs -- that the hunger from which he suffers, and
 his power to sleep in the open air are his property, -- is to play upon words,
-and to add insult to injury."_ [Proudhon, **Op. Cit.**, p. 80]
+and to add insult to injury."_ [Proudhon, **Op. Cit.** , p. 80]
 
 Obviously the ability to labour is **not** the property of a person -- it is
 their possession. Use and ownership are fused and cannot be separated out. As
@@ -672,18 +670,18 @@ and surrendered, but an inextricable aspect of the activity of being human.
 The anarchist position on the inalienable nature of human liberty also forms
 the basis for the excluded to demand access to the means necessary to labour.
 _"From the distinction between possession and property,"_ argued Proudhon,
-_"arise two sorts of rights: the **jus in re**, the right **in** a thing, the
+_"arise two sorts of rights: the **jus in re** , the right **in** a thing, the
 right by which I may reclaim the property which I have acquired, in whatever
-hands I find it; and **jus ad rem**, the right **to** a thing, which gives me
+hands I find it; and **jus ad rem** , the right **to** a thing, which gives me
 a claim to become a proprietor . . . In the first, possession and property are
 united; the second includes only naked property. With me who, as a labourer,
 have a right to the possession of the products of Nature and my own industry
 -- and who, as a proletaire, enjoy none of them -- it is by virtue of the
-**jus de rem** that I demand admittance to the **jus in re.**"_ [**Op. Cit.**,
-p. 65] Thus to make the self-ownership of labour and its products a reality
-for those who do the actual work in society rather than a farce, property must
-be abolished -- both in terms of the means of life and also in defining
-liberty and what it means to be free.
+**jus de rem** that I demand admittance to the **jus in re.** "_ [ **Op.
+Cit.** , p. 65] Thus to make the self-ownership of labour and its products a
+reality for those who do the actual work in society rather than a farce,
+property must be abolished -- both in terms of the means of life and also in
+defining liberty and what it means to be free.
 
 So, contrary to Rothbard's claim, capitalism in practice uses the rhetoric of
 self-ownership to alienate the right to genuine self-ownership because of the
@@ -692,31 +690,32 @@ If we desire real self-ownership, we cannot renounce it for most of our adult
 lives by becoming wage slaves. Only workers' self-management of production,
 not capitalism, can make self-ownership a reality:
 
-> _ "They speak of 'inherent rights', 'inalienable rights', 'natural rights,'
-etc . . . Unless the material conditions for equality exist, it is worse than
-mockery to pronounce men equal. And unless there is equality (and by equality
-I mean equal chances for every one to make the most of himself [or herself])
-unless, I say, these equal changes exist, freedom, either of though, speech,
-or action, is equally a mockery . . . As long as the working-people . . .
-tramp the streets, whose stones they lay, whose filth they clean, whose sewers
-they dig, yet upon which they must not stand too long lest the policeman bid
-them 'move on'; as long as they go from factory to factory, begging for the
-opportunity to be a slave, receiving the insults of bosses and foreman,
-getting the old 'no,' the old shake of the head, in these factories they
-built, whose machines they wrought; so long as they consent to be herd like
-cattle, in the cities, driven year after year, more and more, off the
-mortgaged land, the land they cleared, fertilised, cultivated, rendered of
-value . . . so long as they continue to do these things vaguely relying upon
-some power outside themselves, be it god, or priest, or politician, or
-employer, or charitable society, to remedy matters, so long deliverance will
-be delayed. When they conceive the possibility of a complete international
-federation of labour, whose constituent groups shall take possession of land,
-mines, factories, all the instruments of production . . . , in short, conduct
-their own industry without regulative interference from law-makers or
-employers, then we may hope for the only help which counts for aught -- Self-
-Help; the only condition which can guarantee free speech [along with their
-other rights] (and no paper guarantee needed)."_ [Voltairine de Cleyre, **The
-Voltairine de Cleyre Reader**, pp. 4-6]
+> _"They speak of 'inherent rights', 'inalienable rights', 'natural rights,'
+> etc . . . Unless the material conditions for equality exist, it is worse
+> than mockery to pronounce men equal. And unless there is equality (and by
+> equality I mean equal chances for every one to make the most of himself [or
+> herself]) unless, I say, these equal changes exist, freedom, either of
+> though, speech, or action, is equally a mockery . . . As long as the
+> working-people . . . tramp the streets, whose stones they lay, whose filth
+> they clean, whose sewers they dig, yet upon which they must not stand too
+> long lest the policeman bid them 'move on'; as long as they go from factory
+> to factory, begging for the opportunity to be a slave, receiving the insults
+> of bosses and foreman, getting the old 'no,' the old shake of the head, in
+> these factories they built, whose machines they wrought; so long as they
+> consent to be herd like cattle, in the cities, driven year after year, more
+> and more, off the mortgaged land, the land they cleared, fertilised,
+> cultivated, rendered of value . . . so long as they continue to do these
+> things vaguely relying upon some power outside themselves, be it god, or
+> priest, or politician, or employer, or charitable society, to remedy
+> matters, so long deliverance will be delayed. When they conceive the
+> possibility of a complete international federation of labour, whose
+> constituent groups shall take possession of land, mines, factories, all the
+> instruments of production . . . , in short, conduct their own industry
+> without regulative interference from law-makers or employers, then we may
+> hope for the only help which counts for aught -- Self-Help; the only
+> condition which can guarantee free speech [along with their other rights]
+> (and no paper guarantee needed)."_ [Voltairine de Cleyre, **The Voltairine
+> de Cleyre Reader** , pp. 4-6]
 
 To conclude, the idea that capitalism is based on self-ownership is radically
 at odds with reality if, by self-ownership, it is meant self-determination or
@@ -742,29 +741,29 @@ all others access to the means of life. Thus denial of free access to the
 means of life is based ultimately on the principle of "might makes right." And
 as Murray Bookchin so rightly points out, _"the means of life must be taken
 for what they literally are: the means without which life is impossible. To
-deny them to people is more than 'theft' . . . it is outright homicide."_
-[**Remaking Society**, p. 187]
+deny them to people is more than 'theft' . . . it is outright homicide."_ [
+**Remaking Society** , p. 187]
 
 David Ellerman has also noted that the past use of force has resulted in the
 majority being limited to those options allowed to them by the powers that be:
 
-> _ "It is a veritable mainstay of capitalist thought . . . that the moral
-flaws of chattel slavery have not survived in capitalism since the workers,
-unlike the slaves, are free people making voluntary wage contracts. But it is
-only that, in the case of capitalism, the denial of natural rights is less
-complete so that the worker has a residual legal personality as a free
-'commodity owner.' He is thus allowed to voluntarily put his own working life
-to traffic. When a robber denies another person's right to make an infinite
-number of other choices besides losing his money or his life and the denial is
-backed up by a gun, then this is clearly robbery even though it might be said
-that the victim making a 'voluntary choice' between his remaining options.
-When the legal system itself denies the natural rights of working people in
-the name of the prerogatives of capital, and this denial is sanctioned by the
-legal violence of the state, then the theorists of 'libertarian' capitalism do
-not proclaim institutional robbery, but rather they celebrate the 'natural
-liberty' of working people to choose between the remaining options of selling
-their labour as a commodity and being unemployed."_ [quoted by Noam Chomsky,
-**The Chomsky Reader**, p. 186]
+> _"It is a veritable mainstay of capitalist thought . . . that the moral
+> flaws of chattel slavery have not survived in capitalism since the workers,
+> unlike the slaves, are free people making voluntary wage contracts. But it
+> is only that, in the case of capitalism, the denial of natural rights is
+> less complete so that the worker has a residual legal personality as a free
+> 'commodity owner.' He is thus allowed to voluntarily put his own working
+> life to traffic. When a robber denies another person's right to make an
+> infinite number of other choices besides losing his money or his life and
+> the denial is backed up by a gun, then this is clearly robbery even though
+> it might be said that the victim making a 'voluntary choice' between his
+> remaining options. When the legal system itself denies the natural rights of
+> working people in the name of the prerogatives of capital, and this denial
+> is sanctioned by the legal violence of the state, then the theorists of
+> 'libertarian' capitalism do not proclaim institutional robbery, but rather
+> they celebrate the 'natural liberty' of working people to choose between the
+> remaining options of selling their labour as a commodity and being
+> unemployed."_ [quoted by Noam Chomsky, **The Chomsky Reader** , p. 186]
 
 Therefore the existence of the labour market depends on the worker being
 separated from the means of production. The natural basis of capitalism is
@@ -780,23 +779,23 @@ Michael Bakunin notes that these facts put the worker in the position of a
 serf with regard to the capitalist, even though the worker is formally "free"
 and "equal" under the law:
 
-> _ "Juridically they are both equal; but economically the worker is the serf
-of the capitalist . . . thereby the worker sells his person and his liberty
-for a given time. The worker is in the position of a serf because this
-terrible threat of starvation which daily hangs over his head and over his
-family, will force him to accept any conditions imposed by the gainful
-calculations of the capitalist, the industrialist, the employer. . . .The
-worker always has the **right** to leave his employer, but has he the means to
-do so? No, he does it in order to sell himself to another employer. He is
-driven to it by the same hunger which forces him to sell himself to the first
-employer. Thus the worker's liberty . . . is only a theoretical freedom,
-lacking any means for its possible realisation, and consequently it is only a
-fictitious liberty, an utter falsehood. The truth is that the whole life of
-the worker is simply a continuous and dismaying succession of terms of serfdom
--- voluntary from the juridical point of view but compulsory from an economic
-sense -- broken up by momentarily brief interludes of freedom accompanied by
-starvation; in other words, it is real slavery."_ [**The Political Philosophy
-of Bakunin**, pp. 187-8]
+> _"Juridically they are both equal; but economically the worker is the serf
+> of the capitalist . . . thereby the worker sells his person and his liberty
+> for a given time. The worker is in the position of a serf because this
+> terrible threat of starvation which daily hangs over his head and over his
+> family, will force him to accept any conditions imposed by the gainful
+> calculations of the capitalist, the industrialist, the employer. . . .The
+> worker always has the **right** to leave his employer, but has he the means
+> to do so? No, he does it in order to sell himself to another employer. He is
+> driven to it by the same hunger which forces him to sell himself to the
+> first employer. Thus the worker's liberty . . . is only a theoretical
+> freedom, lacking any means for its possible realisation, and consequently it
+> is only a fictitious liberty, an utter falsehood. The truth is that the
+> whole life of the worker is simply a continuous and dismaying succession of
+> terms of serfdom -- voluntary from the juridical point of view but
+> compulsory from an economic sense -- broken up by momentarily brief
+> interludes of freedom accompanied by starvation; in other words, it is real
+> slavery."_ [ **The Political Philosophy of Bakunin** , pp. 187-8]
 
 Obviously, a company cannot **force** you to work for them but, in general,
 you have to work for **someone**. How this situation developed is, of course,
@@ -806,11 +805,11 @@ lazy majority flocked to be employed by these (almost superhuman) geniuses. In
 the words of one right-wing economist (talking specifically of the industrial
 revolution but whose argument is utilised today):
 
-> _ "The factory owners did not have the power to compel anybody to take a
-factory job. They could only hire people who were ready to work for the wages
-offered to them. Low as these wage rates were, they were nonetheless much more
-than these paupers could earn in any other field open to them."_ [Ludwig von
-Mises, **Human Action**, pp. 619-20]
+> _"The factory owners did not have the power to compel anybody to take a
+> factory job. They could only hire people who were ready to work for the
+> wages offered to them. Low as these wage rates were, they were nonetheless
+> much more than these paupers could earn in any other field open to them."_
+> [Ludwig von Mises, **Human Action** , pp. 619-20]
 
 Notice the assumptions. The workers just happen have such a terrible set of
 options -- the employing classes have absolutely nothing to do with it. And
@@ -889,26 +888,26 @@ is of limited use and hides a deeper anti-individual reality.
 
 As Karl Polanyi puts it:
 
-> _ "In human terms such a postulate [of a labour market] implied for the
-worker extreme instability of earnings, utter absence of professional
-standards, abject readiness to be shoved and pushed about indiscriminately,
-complete dependence on the whims of the market. [Ludwig Von] Mises justly
-argued that if workers 'did not act as trade unionists, but reduced their
-demands and changed their locations and occupations according to the labour
-market, they would eventually find work.' This sums up the position under a
-system based on the postulate of the commodity character of labour. It is not
-for the commodity to decide where it should be offered for sale, to what
-purpose it should be used, at what price it should be allowed to change hands,
-and in what manner it should be consumed or destroyed."_ [**The Great
-Transformation**, p. 176]
+> _"In human terms such a postulate [of a labour market] implied for the
+> worker extreme instability of earnings, utter absence of professional
+> standards, abject readiness to be shoved and pushed about indiscriminately,
+> complete dependence on the whims of the market. [Ludwig Von] Mises justly
+> argued that if workers 'did not act as trade unionists, but reduced their
+> demands and changed their locations and occupations according to the labour
+> market, they would eventually find work.' This sums up the position under a
+> system based on the postulate of the commodity character of labour. It is
+> not for the commodity to decide where it should be offered for sale, to what
+> purpose it should be used, at what price it should be allowed to change
+> hands, and in what manner it should be consumed or destroyed."_ [ **The
+> Great Transformation** , p. 176]
 
 (Although we should point out that von Mises argument that workers will
 "eventually" find work as well as being nice and vague -- how long is
 "eventually"?, for example -- is contradicted by actual experience. As the
 Keynesian economist Michael Stewart notes, in the nineteenth century workers
 _"who lost their jobs had to redeploy fast or starve (and even this feature of
-the ninetheenth century economy. . . did not prevent prolonged recessions)"_
-[**Keynes in the 1990s**, p. 31] Workers "reducing their demands" may actually
+the ninetheenth century economy. . . did not prevent prolonged recessions)"_ [
+**Keynes in the 1990s** , p. 31] Workers "reducing their demands" may actually
 worsen an economic slump, causing more unemployment in the short run and
 lengthening the length of the crisis. We address the issue of unemployment and
 workers "reducing their demands" in more detail in [section C.9](secC9.md)).
@@ -941,7 +940,7 @@ that _"[c]ompetition in labour markets us typically skewed in favour of
 employers: it is a buyers market. And in a buyer's market, it is the sellers
 who compromise. Competition for labour is not strong enough to ensure that
 workers' desires are always satisified."_ [Juliet B. Schor, **The Overworked
-American**, p. 71, p. 129] If the labour market generally favours the
+American** , p. 71, p. 129] If the labour market generally favours the
 employer, then this obviously places working people at a disadvantage as the
 threat of unemployment and the hardships associated with it encourages workers
 to take any job and submit to their bosses demands and power while employed.
@@ -952,8 +951,8 @@ unions, or to resist employer demands, and so on.
 
 As Bakunin argued, _"the property owners... are **likewise** forced to seek
 out and purchase labour... **but not in the same measure** . . . [there is no]
-equality between those who offer their labour and those who purchase it."_
-[**Op. Cit.**, p. 183] This ensures that any "free agreements" made benefit
+equality between those who offer their labour and those who purchase it."_ [
+**Op. Cit.** , p. 183] This ensures that any "free agreements" made benefit
 the capitalists more than the workers (see the [next
 section](secB4.md#secb44) on periods of full employment, when conditions
 tilt in favour of working people).
@@ -967,16 +966,16 @@ longer than the worker, so placing the employer in a stronger bargaining
 position and so ensuring labour contracts favour them. This was recognised by
 Adam Smith:
 
-> _ "It is not difficult to foresee which of the two parties [workers and
-capitalists] must, upon all ordinary occasions... force the other into a
-compliance with their terms... In all such disputes the masters can hold out
-much longer... though they did not employ a single workman [the masters] could
-generally live a year or two upon the stocks which they already acquired. Many
-workmen could not subsist a week, few could subsist a month, and scare any a
-year without employment. In the long-run the workman may be as necessary to
-his master as his master is to him; but the necessity is not so immediate. . .
-[I]n disputes with their workmen, masters must generally have the advantage."_
-[**Wealth of Nations**, pp. 59-60]
+> _"It is not difficult to foresee which of the two parties [workers and
+> capitalists] must, upon all ordinary occasions... force the other into a
+> compliance with their terms... In all such disputes the masters can hold out
+> much longer... though they did not employ a single workman [the masters]
+> could generally live a year or two upon the stocks which they already
+> acquired. Many workmen could not subsist a week, few could subsist a month,
+> and scare any a year without employment. In the long-run the workman may be
+> as necessary to his master as his master is to him; but the necessity is not
+> so immediate. . . [I]n disputes with their workmen, masters must generally
+> have the advantage."_ [ **Wealth of Nations** , pp. 59-60]
 
 How little things have changed.
 
@@ -1093,7 +1092,7 @@ factories' and 'political stability' are more appreciated by business leaders
 than profits. Their class interest tells them that lasting full employment is
 unsound from their point of view and that unemployment is an integral part of
 the normal capitalist system."_ [quoted by Malcolm C. Sawyer, **The Economics
-of Michal Kalecki**, p. 139 and p. 138]
+of Michal Kalecki** , p. 139 and p. 138]
 
 Therefore, periods when the demand for labour outstrips supply are not healthy
 for capitalism, as they allow people to assert their freedom and humanity --
@@ -1106,7 +1105,7 @@ the rentier interests"_ against full employment and that _"they would probably
 find more than one economist to declare that the situation was manifestly
 unsound."_ The resulting _"pressure of all these forces, and in particular big
 business"_ would _"induce the Government to return to. . . orthodox policy."_
-[Kalecki, quoted by Sawyer, **Op. Cit.**, p. 140] This is exactly what
+[Kalecki, quoted by Sawyer, **Op. Cit.** , p. 140] This is exactly what
 happened in the 1970s, with the monetarists and other sections of the "free
 market" right providing the ideological support for the business lead class
 war, and whose "theories" (when applied) promptly generated massive
@@ -1128,9 +1127,9 @@ It is ironic that supporters of laissez-faire capitalism, such as
 "left alone," since capitalism **never** allows this. As Max Stirner expressed
 it:
 
-> _ "Restless acquisition does not let us take breath, take a calm
-**enjoyment**. We do not get the comfort of our possessions. . ."_ [Max
-Stirner **The Ego and Its Own**, p. 268]
+> _"Restless acquisition does not let us take breath, take a calm
+> **enjoyment**. We do not get the comfort of our possessions. . ."_ [Max
+> Stirner **The Ego and Its Own** , p. 268]
 
 Capitalism cannot let us _"take breath"_ simply because it needs to grow or
 die, which puts constant pressure on both workers and capitalists (see
@@ -1157,7 +1156,7 @@ output and machine utilisation, and a reduction on manufacturing losses. As
 one union official remarked two years later, 'The fact that we broke down a
 traditional policy of GE [that the union could never have a hand in managing
 the business] was in itself satisfying, especially when we could throw success
-up to them to boot.'"_ [David Noble, **Forces of Production**, p. 295]
+up to them to boot.'"_ [David Noble, **Forces of Production** , p. 295]
 
 The project, after some initial scepticism, proved to be a great success with
 the workers involved. Indeed, other workers in the factory desired to be
@@ -1165,7 +1164,7 @@ included and the union soon tried to get it spread throughout the plant and
 into other GE locations. The success of the scheme was that it was based on
 workers' managing their own affairs rather than being told what to do by their
 bosses -- _"We are human beings,"_ said one worker, _"and want to be treated
-as such."_ [quoted by Noble, **Op. Cit.**, p. 292] To be fully human means to
+as such."_ [quoted by Noble, **Op. Cit.** , p. 292] To be fully human means to
 be free to govern oneself in all aspects of life, including production.
 
 However, just after a year of the workers being given control over their
@@ -1173,7 +1172,8 @@ working lives, management stopped the project. Why? _"In the eyes of some
 management supporters of the 'experiment,' the Pilot Program was terminated
 because management as a whole refused to give up any of its traditional
 authority . . . [t]he Pilot Program foundered on the basic contradiction of
-capitalist production: Who's running the shop?"_ [Noble, **Op. Cit.**, p. 318]
+capitalist production: Who's running the shop?"_ [Noble, **Op. Cit.** , p.
+318]
 
 Noble goes on to argue that to GE's top management, _"the union's desire to
 extend the program appeared as a step toward greater workers control over
@@ -1183,23 +1183,23 @@ represented a defence not only of the prerogatives of production supervisors
 and plant managers but also of the power vested in property ownership."_ He
 notes that this result was not an isolated case and that the _"demise of the
 GE Pilot Program followed the typical pattern for such 'job enrichment
-experiments'"_ [**Op. Cit.**, p. 318 and p. 320] Even though _"[s]everal dozen
-well-documented experiments show that productivity increases and social
+experiments'"_ [ **Op. Cit.** , p. 318 and p. 320] Even though _"[s]everal
+dozen well-documented experiments show that productivity increases and social
 problems decrease when workers participate in the work decisions affecting
 their lives"_ [Department of Health, Education and Welfare study quoted by
-Noble, **Op. Cit.**, p. 322] such schemes are ended by bosses seeking to
+Noble, **Op. Cit.** , p. 322] such schemes are ended by bosses seeking to
 preserve their own power, the power that flows from private property.
 
 As one worker in the GE Pilot Program stated, _"[w]e just want to be left
 alone."_ They were not -- capitalist social relations prohibit such a
 possibility (as Noble correctly notes, _"the 'way of life' for the management
-meant controlling the lives of others"_ [**Op. Cit.**, p. 294 and p. 300]). In
-spite of improved productivity, projects in workers' control are scrapped
+meant controlling the lives of others"_ [ **Op. Cit.** , p. 294 and p. 300]).
+In spite of improved productivity, projects in workers' control are scrapped
 because they undermined both the power of the capitalists -- and by
-undermining their power, you potentially undermine their profits too (_"If
+undermining their power, you potentially undermine their profits too ( _"If
 we're all one, for manufacturing reasons, we must share in the fruits
 equitably, just like a co-op business."_ [GE Pilot Program worker, quoted by
-Noble, **Op. Cit.**, p. 295]).
+Noble, **Op. Cit.** , p. 295]).
 
 As we argue in more detail in [ section J.5.12](secJ5.md#secj512), profit
 maximisation can work against efficiency, meaning that capitalism can harm the
@@ -1220,7 +1220,7 @@ schemes and return to the old, less efficient, hierarchical schemes based on
 _"Do what you are told, for as long as you are told."_ Such a regime is hardly
 fit for free people and, as Noble notes, the regime that replaced the GE Pilot
 Program was _"designed to 'break' the pilots of their new found 'habits' of
-self-reliance, self-discipline, and self-respect."_ [**Op. Cit.**, p. 307]
+self-reliance, self-discipline, and self-respect."_ [ **Op. Cit.** , p. 307]
 
 Thus the experience of workers' control project within capitalist firms
 indicates well that capitalism cannot _"leave you alone"_ if you are a wage
@@ -1246,18 +1246,18 @@ cannot be satisfied under capitalism.
 
 As Murray Bookchin observes:
 
-> _ "Despite their assertions of autonomy and distrust of state authority . .
-. classical liberal thinkers did not in the last instance hold to the notion
-that the individual is completely free from lawful guidance. Indeed, their
-interpretation of autonomy actually presupposed quite definite arrangements
-beyond the individual -- notably, the laws of the marketplace. Individual
-autonomy to the contrary, these laws constitute a social organising system in
-which all 'collections of individuals' are held under the sway of the famous
-'invisible hand' of competition. Paradoxically, the laws of the marketplace
-override the exercise of 'free will' by the same sovereign individuals who
-otherwise constitute the "collection of individuals."_ [_"Communalism: The
-Democratic Dimension of Anarchism"_, pp. 1-17, **Democracy and Nature** no. 8,
-p. 4]
+> _"Despite their assertions of autonomy and distrust of state authority . . .
+> classical liberal thinkers did not in the last instance hold to the notion
+> that the individual is completely free from lawful guidance. Indeed, their
+> interpretation of autonomy actually presupposed quite definite arrangements
+> beyond the individual -- notably, the laws of the marketplace. Individual
+> autonomy to the contrary, these laws constitute a social organising system
+> in which all 'collections of individuals' are held under the sway of the
+> famous 'invisible hand' of competition. Paradoxically, the laws of the
+> marketplace override the exercise of 'free will' by the same sovereign
+> individuals who otherwise constitute the "collection of individuals."_ [
+> _"Communalism: The Democratic Dimension of Anarchism"_ , pp. 1-17,
+> **Democracy and Nature** no. 8, p. 4]
 
 Human interaction is an essential part of life. Anarchism proposes to
 eliminate only undesired social interactions and authoritarian impositions,
@@ -1298,7 +1298,7 @@ relationships once and for all.
 Hence anarchist dislike of the term "laissez-faire" -- within a class society
 it can only mean protecting the powerful against the working class (under the
 banner of "neutrally" enforcing property rights and so **the power derived
-from them**). However, we are well aware of the other, libertarian, vision
+from them** ). However, we are well aware of the other, libertarian, vision
 expressed in the desire to be "left alone." That is the reason we have
 discussed why capitalist society can never actually achieve that desire -- it
 is handicapped by its hierarchical and competitive nature -- and how such a
@@ -1306,6 +1306,6 @@ desire can be twisted into a means of enhancing the power of the few over the
 many.
 
 [‹ B.3 Why are anarchists against private property?](secB3.md "Go to
-previous page" ) [up](secBcon.md "Go to parent page" ) [B.5 Is capitalism
-empowering and based on human action? ›](secB5.md "Go to next page" )
+previous page") [up](secBcon.md "Go to parent page") [B.5 Is capitalism
+empowering and based on human action? ›](secB5.md "Go to next page")
 

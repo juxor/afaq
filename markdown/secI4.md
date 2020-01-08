@@ -16,15 +16,15 @@ one, for example, but they will have similar features. As Rudolf Rocker put
 it:
 
 > _"Common to all Anarchists is the desire to free society of all political
-and social coercive institutions which stand in the way of development of a
-free humanity. In this sense Mutualism, Collectivism and Communism are not to
-be regarded as closed systems permitting no further development, but merely as
-economic assumptions as to the means of safeguarding a free community. There
-will even probably be in society of the future different forms of economic co-
-operation operating side by side, since any social progress must be associated
-with that free experiment and practical testing out for which in a society of
-free communities there will be afforded every opportunity."_ [**Anarcho-
-Syndicalism**, p. 9]
+> and social coercive institutions which stand in the way of development of a
+> free humanity. In this sense Mutualism, Collectivism and Communism are not
+> to be regarded as closed systems permitting no further development, but
+> merely as economic assumptions as to the means of safeguarding a free
+> community. There will even probably be in society of the future different
+> forms of economic co-operation operating side by side, since any social
+> progress must be associated with that free experiment and practical testing
+> out for which in a society of free communities there will be afforded every
+> opportunity."_ [ **Anarcho-Syndicalism** , p. 9]
 
 So given the common ideals and aims of anarchists, it is unsurprising that the
 economic systems we suggest have common features such as workers' self-
@@ -34,19 +34,19 @@ society is to achieve what is now technically realisable, namely, a society
 which is really based on free voluntary participation of people who produce
 and create, live their lives freely within institutions they control, and with
 limited hierarchical structures, possibly none at all."_ [Noam Chomsky, quoted
-by Albert and Hahnel, **Looking Forward**, p. 62]
+by Albert and Hahnel, **Looking Forward** , p. 62]
 
 This achieved by means of _"voluntary association that will organise labour,
-and be the manufacturer and distributor of necessary commodities"_ and this
-_"**is to make what is useful. The individual is to make what is
-beautiful.**"_ [Oscar Wilde, **The Soul of Man Under Socialism**, p. 1183] For
-example, the machine _"will supersede hand-work in the manufacture of plain
-goods. But at the same time, hand-work very probably will extend its domain in
-the artistic finishing of many things which are made entirely in the
-factory."_ [Peter Kropotkin, **Fields, Factories and Workplaces Tomorrow**, p.
-152] Murray Bookchin, decades later, argued for the same idea: _"the machine
-will remove the toil from the productive process, leaving its artistic
-completion to man."_ [**Post-Scarcity Anarchism**, p. 134]
+and be the manufacturer and distributor of necessary commodities"_ and this _"
+**is to make what is useful. The individual is to make what is beautiful.** "_
+[Oscar Wilde, **The Soul of Man Under Socialism** , p. 1183] For example, the
+machine _"will supersede hand-work in the manufacture of plain goods. But at
+the same time, hand-work very probably will extend its domain in the artistic
+finishing of many things which are made entirely in the factory."_ [Peter
+Kropotkin, **Fields, Factories and Workplaces Tomorrow** , p. 152] Murray
+Bookchin, decades later, argued for the same idea: _"the machine will remove
+the toil from the productive process, leaving its artistic completion to
+man."_ [ **Post-Scarcity Anarchism** , p. 134]
 
 The aim would be to maximise the time available for individuals to express and
 development their individuality, including in production. As Stirner put it,
@@ -59,23 +59,23 @@ socialists of his time, Stirner went on to ask _"for whom is time to be gained
 [by association]? For what does man require more time than is necessary to
 refresh his wearied powers of labour? Here Communism is silent."_ He then
 answers his own question by arguing it is gained for the individual _"[t]o
-take comfort in himself as unique, after he has done his part as man!"_ [**The
-Ego and Its Own**, p. 268 and p. 269] Which is exactly what libertarian
+take comfort in himself as unique, after he has done his part as man!"_ [
+**The Ego and Its Own** , p. 268 and p. 269] Which is exactly what libertarian
 communists argue:
 
 > _"[We] recognise that man [sic!] has other needs besides food, and as the
-strength of Anarchy lies precisely in that it understands **all** human
-faculties and **all** passions, and ignores none, we shall . . . contrive to
-satisfy all his intellectual and artistic needs . . . the man [or woman] who
-will have done the four or five hours of . . . work that are necessary for his
-existence, will have before him five or six hours which his will seek to
-employ according to tastes . . . _
+> strength of Anarchy lies precisely in that it understands **all** human
+> faculties and **all** passions, and ignores none, we shall . . . contrive to
+> satisfy all his intellectual and artistic needs . . . the man [or woman] who
+> will have done the four or five hours of . . . work that are necessary for
+> his existence, will have before him five or six hours which his will seek to
+> employ according to tastes . . . _
 
 > _"He will discharge his task in the field, the factory, and so on, which he
-owes to society as his contribution to the general production. And he will
-employ the second half of his day, his week, or his year, to satisfy his
-artistic or scientific needs, or his hobbies."_ [Kropotkin, **Conquest of
-Bread**, pp. 110-1]
+> owes to society as his contribution to the general production. And he will
+> employ the second half of his day, his week, or his year, to satisfy his
+> artistic or scientific needs, or his hobbies."_ [Kropotkin, **Conquest of
+> Bread** , pp. 110-1]
 
 Thus, while **authoritarian** Communism ignores the unique individual (and
 that was the only kind of Communism existing when Stirner wrote his classic
@@ -85,8 +85,9 @@ means of providing the individual with the time and resources required to
 express their individuality. In other words, to pursue _"labours of a unique
 person."_ Thus all anarchists base their arguments for a free society on how
 it will benefit actual individuals, rather than abstracts or amorphous
-collectives (such as "society"). Hence chapter 9 of **The Conquest of Bread**,
-_"The Need for Luxury"_ and, for that matter, chapter 10, _"Agreeable Work."_
+collectives (such as "society"). Hence chapter 9 of **The Conquest of Bread**
+, _"The Need for Luxury"_ and, for that matter, chapter 10, _"Agreeable
+Work."_
 
 In other words, anarchists desire to organise voluntary workers associations
 which will try to ensure a minimisation of mindless labour in order to
@@ -103,7 +104,7 @@ and to gain the benefits of our labour ourselves. Mutual Aid, in other words,
 results in a better life than mutual struggle and so _"the **association for
 struggle** will be a much more effective support for civilisation, progress,
 and evolution than is the **struggle for existence** with its savage daily
-competitions."_ [Luigi Geallani, **The End of Anarchism**, p. 26]
+competitions."_ [Luigi Geallani, **The End of Anarchism** , p. 26]
 
 In the place of the rat race of capitalism, economic activity in an anarchist
 society would be one of the means to humanise and individualise ourselves and
@@ -117,30 +118,30 @@ and turning ourselves into commodities on the labour market. Thus anarchists
 agree with John Stuart Mill:
 
 > _"I confess I am not charmed with an ideal of life held out by those who
-think that the normal state of human beings is that of struggling to get on;
-that the trampling, crushing, elbowing, and treading on each other's heels,
-which form the existing type of social life, are the most desirable lot of
-human kind, or anything but the disagreeable symptoms of one of the phases of
-industrial progress."_ [**Collected Works**, vol. III, p. 754]
+> think that the normal state of human beings is that of struggling to get on;
+> that the trampling, crushing, elbowing, and treading on each other's heels,
+> which form the existing type of social life, are the most desirable lot of
+> human kind, or anything but the disagreeable symptoms of one of the phases
+> of industrial progress."_ [ **Collected Works** , vol. III, p. 754]
 
 The aim of anarchism is far more than the end of inequality. Hence Proudhon's
 comment that socialism's _"underlying dogma"_ is that the _"objective of
 socialism is the liberation of the proletariat and the eradication of
 poverty."_ This emancipation would be achieved by ending _"wage-labour"_ via
-_"democratically organised workers' associations."_ [**Property is Theft!**,
+_"democratically organised workers' associations."_ [ **Property is Theft!** ,
 p. 372 and p. 377] Or, to use Kropotkin's expression, _"well-being for all"_
 \-- physical, mental, emotional and ethical! Indeed, by concentrating on just
 poverty and ignoring the emancipation of the proletariat, the real aims of
 socialism are obscured:
 
 > _"The 'right to well-being' means the possibility of living like human
-beings, and of bringing up children to be members of a society better than
-ours, whilst the 'right to work' only means the right to be a wage-slave, a
-drudge, ruled over and exploited by the middle class of the future. The right
-to well-being is the Social Revolution, the right to work means nothing but
-the Treadmill of Commercialism. It is high time for the worker to assert his
-right to the common inheritance, and to enter into possession of it."_
-[Kropotkin, **Op. Cit.**, p. 44]
+> beings, and of bringing up children to be members of a society better than
+> ours, whilst the 'right to work' only means the right to be a wage-slave, a
+> drudge, ruled over and exploited by the middle class of the future. The
+> right to well-being is the Social Revolution, the right to work means
+> nothing but the Treadmill of Commercialism. It is high time for the worker
+> to assert his right to the common inheritance, and to enter into possession
+> of it."_ [Kropotkin, **Op. Cit.** , p. 44]
 
 So, while refusing to define exactly how an anarchist system will work, we
 will explore the implications of how the anarchist principles and ideals
@@ -174,31 +175,32 @@ capture the dynamics of a non-capitalist system. John Crump stressed this
 point in his discussion of Japanese anarchism between the World Wars:
 
 > _"When considering the feasibility of the social system advocated by the
-pure anarchists, we need to be clear about the criteria against which it
-should be measured. It would, for example, be unreasonable to demand that it
-be assessed against such yardsticks of a capitalist economy as annual rate of
-growth, balance of trade and so forth . . . evaluating anarchist communism by
-means of the criteria which have been devised to measure capitalism's
-performance does not make sense . . . capitalism would be . . . baffled if it
-were demanded that it assess its operations against the performance indicators
-to which pure anarchists attached most importance, such as personal liberty,
-communal solidarity and the individual's unconditional right to free
-consumption. Faced with such demands, capitalism would either admit that these
-were not yardsticks against which it could sensibly measure itself or it would
-have to resort to the type of grotesque ideological subterfuges which it often
-employs, such as identifying human liberty with the market and therefore with
-wage slavery . . . The pure anarchists' confidence in the alternative society
-they advocated derived not from an expectation that it would
-**quantitatively** outperform capitalism in terms of GNP, productivity or
-similar capitalist criteria. On the contrary, their enthusiasm for anarchist
-communism flowed from their understanding that it would be **qualitatively**
-different from capitalism. Of course, this is not to say that the pure
-anarchists were indifferent to questions of production and distribution . . .
-they certainly believed that anarchist communism would provide economic well-
-being for all. But neither were they prepared to give priority to narrowly
-conceived economic expansion, to neglect individual liberty and communal
-solidarity, as capitalism regularly does."_ [**Hatta Shuzo and Pure Anarchism
-in Interwar Japan**, pp. 191-3]
+> pure anarchists, we need to be clear about the criteria against which it
+> should be measured. It would, for example, be unreasonable to demand that it
+> be assessed against such yardsticks of a capitalist economy as annual rate
+> of growth, balance of trade and so forth . . . evaluating anarchist
+> communism by means of the criteria which have been devised to measure
+> capitalism's performance does not make sense . . . capitalism would be . . .
+> baffled if it were demanded that it assess its operations against the
+> performance indicators to which pure anarchists attached most importance,
+> such as personal liberty, communal solidarity and the individual's
+> unconditional right to free consumption. Faced with such demands, capitalism
+> would either admit that these were not yardsticks against which it could
+> sensibly measure itself or it would have to resort to the type of grotesque
+> ideological subterfuges which it often employs, such as identifying human
+> liberty with the market and therefore with wage slavery . . . The pure
+> anarchists' confidence in the alternative society they advocated derived not
+> from an expectation that it would **quantitatively** outperform capitalism
+> in terms of GNP, productivity or similar capitalist criteria. On the
+> contrary, their enthusiasm for anarchist communism flowed from their
+> understanding that it would be **qualitatively** different from capitalism.
+> Of course, this is not to say that the pure anarchists were indifferent to
+> questions of production and distribution . . . they certainly believed that
+> anarchist communism would provide economic well-being for all. But neither
+> were they prepared to give priority to narrowly conceived economic
+> expansion, to neglect individual liberty and communal solidarity, as
+> capitalism regularly does."_ [ **Hatta Shuzo and Pure Anarchism in Interwar
+> Japan** , pp. 191-3]
 
 Finally, anarchists are well aware that transforming how an economy works does
 not happen overnight. As discussed in [section I.2.2](secI2.md#seci22), we
@@ -213,11 +215,11 @@ will be all sorts of practical difficulties to overcome, but the [libertarian
 socialist] system is simplicity itself compared with the monster of
 centralised State control, which sets such an inhuman distance between the
 worker and the administrator that there is room for a thousand difficulties to
-intervene."_ [Herbert Read, **Anarchy and Order**, p. 49] Thus, for
+intervene."_ [Herbert Read, **Anarchy and Order** , p. 49] Thus, for
 anarchists, the _"enthusiasm generated by the revolution, the energies
 liberated, and the inventiveness stimulated by it must be given full freedom
 and scope to find creative channels."_ [Alexander Berkman, **What is
-Anarchism?**, p. 223] As such, the ideas within this section of our FAQ are
+Anarchism?** , p. 223] As such, the ideas within this section of our FAQ are
 merely suggestions, possibilities.
 
 ## I.4.1 What is the point of economic activity in anarchy?
@@ -227,8 +229,8 @@ use Kropotkin's expression, **_"well-being for all"_**. Rather than toil to
 make the rich richer, people in a free society would work together to _"ensure
 to society as a whole its life and further development."_ Such an economy
 would be based upon _"giving society the greatest amount of useful products
-with the least waste of human energy"_, to meet _"the needs of mankind"_.
-[**The Conquest of Bread**, p. 43, p. 144 and p. 175] Needless to say, today
+with the least waste of human energy"_ , to meet _"the needs of mankind"_. [
+**The Conquest of Bread** , p. 43, p. 144 and p. 175] Needless to say, today
 we must also add: with the least disruption of nature.
 
 In terms of needs, it should be stressed that these are not limited to just
@@ -249,16 +251,16 @@ conditions of work, and the freedom to work. One whom making a table, the
 building of a house, or the tilling of the soil is what the painting is to the
 artist and the discovery to the scientist -- the result of inspiration, of
 intense longing, and deep interest in work as a creative force."_ [Emma
-Goldman, **Red Emma Speaks**, p. 67 and p. 68]
+Goldman, **Red Emma Speaks** , p. 67 and p. 68]
 
 So the point of economic activity in an anarchist society is to produce as and
 when required and not, as under capitalism, to organise production for the
 sake of production in order to make profits for the few. Production, to use
 Kropotkin's words, is to become _"the mere servant of consumption; it must
 mould itself on the wants of the consumer, not dictate to him [or her]
-conditions."_ [**Act For Yourselves**, p. 57] This should **not** be taken to
-imply that anarchism seeks production for the sake of production in order to
-meet all the needs of all. Far from it, as such a regime would, to quote
+conditions."_ [ **Act For Yourselves** , p. 57] This should **not** be taken
+to imply that anarchism seeks production for the sake of production in order
+to meet all the needs of all. Far from it, as such a regime would, to quote
 Malatesta, involve _"employing **all** of one's strength in producing things,
 because taken literally, this would mean working until one is exhausted, which
 would mean that by maximising the satisfaction of human needs we destroy
@@ -267,7 +269,7 @@ of the producers (and the planet we live on) when meeting the wants of
 consumers. Thus, there would be a balance sought. _"What we would like,"_
 continued Malatesta, _"is for everybody to live in the best possible way: so
 that everybody with a minimum amount of effort will obtain maximum
-satisfaction."_ [**At the Café**, p. 61]
+satisfaction."_ [ **At the Café** , p. 61]
 
 So while the basic aim of economic activity in an anarchist society is,
 obviously, producing wealth -- i.e., satisfying individual needs -- without
@@ -300,7 +302,7 @@ empowers the individual. We anarchists charge capitalism with wasting human
 energy and time due to its irrational nature and workings, energy that could
 be spent creating what is beautiful (both in terms of individualities and
 products of labour). Under capitalism we are _"toiling to live, that we may
-live to toil."_ [William Morris, **Useful Work Versus Useless Toil**, p. 37]
+live to toil."_ [William Morris, **Useful Work Versus Useless Toil** , p. 37]
 
 In addition, we must stress that the aim of economic activity within an
 anarchist society is **not** to create equality of outcome -- i.e. everyone
@@ -320,7 +322,7 @@ individuals equally means to acknowledge that uniqueness, not to deny it.
 
 Thus the **real** aim of economic activity within an anarchy is to ensure
 _"that every human being should have the material and moral means to develop
-his humanity."_ [Michael Bakunin, **The Political Philosophy of Bakunin**, p.
+his humanity."_ [Michael Bakunin, **The Political Philosophy of Bakunin** , p.
 295] And you cannot develop your humanity if you cannot express yourself
 freely. Needless to say, to treat unique people "equally" (i.e. identically)
 is simply evil. You cannot, say, have a 70 year old woman do the same work in
@@ -331,10 +333,10 @@ alien to a free society. The equality anarchists desire is a social equality,
 based on control over the decisions that affect you. The aim of anarchist
 economic activity, therefore, is to provide the goods required for _"equal
 freedom for all, an equality of conditions such as to allow everyone to do as
-they wish."_ [Errico Malatesta, **Errico Malatesta: His Life and Ideas**, p.
+they wish."_ [Errico Malatesta, **Errico Malatesta: His Life and Ideas** , p.
 49] Thus anarchists _"demand not natural but social equality of individuals as
 the condition for justice and the foundations of morality."_ [Bakunin, **Op.
-Cit.**, p. 249]
+Cit.** , p. 249]
 
 Under capitalism, instead of humans controlling production, production
 controls them. Anarchists want to change this and desire to create an economic
@@ -355,8 +357,8 @@ effects of hierarchy and the resulting marginalisation and disempowerment of
 the majority of society. As they go on to note, _"self-management, solidarity,
 and variety are all legitimate valuative criteria for judging economic
 institutions . . . Asking whether particular institutions help people attain
-self-management, variety, and solidarity is sensible."_ [**The Political
-Economy of Participatory Economics**, p. 9]
+self-management, variety, and solidarity is sensible."_ [ **The Political
+Economy of Participatory Economics** , p. 9]
 
 In other words, anarchists think that any economic activity in a free society
 is to do useful things in such a way that gives those doing it as much
@@ -390,7 +392,7 @@ becomes as stupid and ignorant as it is possible for a human creature to be .
 . . But in every improved and civilised society this is the state into which
 the labouring poor, that is the great body of the people, must necessarily
 fall, unless government takes pains to prevent it."_ [quoted by Noam Chomsky,
-**Year 501**, p. 18]
+**Year 501** , p. 18]
 
 Smith's argument (usually ignored by those who claim to follow his ideas) is
 backed up by extensive evidence. Different types of authority structures and
@@ -398,8 +400,8 @@ different technologies have different effects on those who work within them.
 Carole Pateman notes that the evidence suggests that _"[o]nly certain work
 situations were found to be conducive to the development of the psychological
 characteristics"_ suitable for freedom, such as _"the feelings of personal
-confidence and efficacy that underlay the sense of political efficacy."_
-[**Participation and Democratic Theory**, p. 51] She quotes one expert who
+confidence and efficacy that underlay the sense of political efficacy."_ [
+**Participation and Democratic Theory** , p. 51] She quotes one expert who
 argues that within capitalist companies based upon a highly rationalised work
 environment and extensive division of labour, the worker has no control over
 the pace or technique of his work, no room to exercise skill or leadership and
@@ -407,12 +409,12 @@ so they _"have practically no opportunity to solve problems and contribute
 their own ideas."_ The worker, according to a psychological study, is
 _"resigned to his lot . . . more dependent than independent . . . he lacks
 confidence in himself . . . he is humble . . . the most prevalent feeling
-states . . . seem to be fear and anxiety."_ [quoted by Pateman, **Op. Cit.**,
+states . . . seem to be fear and anxiety."_ [quoted by Pateman, **Op. Cit.** ,
 p. 51 and p. 52]
 
 The evidence Pateman summarises shows that an individual's _"attitudes will
 depend to a large degree on the authority structure of his [or her] work
-environment"_, with workplaces which are more autocratic and with a higher
+environment"_ , with workplaces which are more autocratic and with a higher
 division of labour being worse for an individual's sense of self-esteem,
 feelings of self-worth and autonomy. In workplaces where _"the worker has a
 high degree of personal control over his [or her] work . . . and a very large
@@ -420,20 +422,20 @@ degree of freedom from external control"_ or is based on the _"collective
 responsibility of a crew of employees"_ who _"had control over the pace and
 method of getting the work done, and the work crews were largely internally
 self-disciplining"_ a different social character is seen. [Pateman, **Op.
-Cit.**, pp. 52-3] This was characterised by _"a strong sense of individualism
+Cit.** , pp. 52-3] This was characterised by _"a strong sense of individualism
 and autonomy, and a solid acceptance of citizenship in the large society"_ and
 _"a highly developed feeling of self-esteem and a sense of self-worth and is
 therefore ready to participate in the social and political institutions of the
 community."_ Thus the _"nature of a man's work affects his social character
 and personality"_ and that an _"industrial environment tends to breed a
-distinct social type."_ [R. Blauner, quoted by Pateman, **Op. Cit.**, p. 52]
+distinct social type."_ [R. Blauner, quoted by Pateman, **Op. Cit.** , p. 52]
 
 Thus, to quote Bob Black (who notes that Smith's comments against the division
-of labour are his _"critique of work"_), the capitalist workplace turns us
+of labour are his _"critique of work"_ ), the capitalist workplace turns us
 into _"stultified submissives"_ and places us _"under the sort of surveillance
 that ensures servility."_ For this reason anarchists desire, to use Bob
-Black's phrase, _"the abolition of work."_ [**The Abolition of Work and other
-essays**, p. 26, p. 22 and p. 19]
+Black's phrase, _"the abolition of work."_ [ **The Abolition of Work and other
+essays** , p. 26, p. 22 and p. 19]
 
 Work, in this context, does not mean any form of productive activity. Far from
 it. Work (in the sense of doing necessary things or productive activity) will
@@ -464,12 +466,12 @@ creative. Capitalism's emphasis on consumption shows the poverty of that
 system. As Alexander Berkman argued:
 
 > _"We do not live by bread alone. True, existence is not possible without
-opportunity to satisfy our physical needs. But the gratification of these by
-no means constitutes all of life. Our present system of disinheriting
-millions, made the belly the centre of the universe, so to speak. But in a
-sensible society . . . [t]he feelings of human sympathy, of justice and right
-would have a chance to develop, to be satisfied, to broaden and grow."_
-[**What is Anarchism?**, pp. 152-3]
+> opportunity to satisfy our physical needs. But the gratification of these by
+> no means constitutes all of life. Our present system of disinheriting
+> millions, made the belly the centre of the universe, so to speak. But in a
+> sensible society . . . [t]he feelings of human sympathy, of justice and
+> right would have a chance to develop, to be satisfied, to broaden and
+> grow."_ [ **What is Anarchism?** , pp. 152-3]
 
 Therefore, capitalism is based on a constant process of alienated consumption,
 as workers try to find the happiness associated within productive, creative,
@@ -483,7 +485,7 @@ Capitalism's impoverishment of the individual's spirit is hardly surprising.
 As William Godwin argued, _"[t]he spirit of oppression, the spirit of
 servility, and the spirit of fraud, these are the immediate growth of the
 established administration of property. They are alike hostile to intellectual
-and moral improvement."_ [**The Anarchist Reader**, p. 131] Any system based
+and moral improvement."_ [ **The Anarchist Reader** , p. 131] Any system based
 on hierarchical relationships in work will result in a deadening of the
 individual and in a willingness to defer to economic masters. Which is why
 Anarchists desire to change this and create a society based upon freedom in
@@ -492,9 +494,10 @@ it restricts the liberty and distorts the individuality of those who have to
 do it. To quote Emma Goldman:
 
 > _"Anarchism aims to strip labour of its deadening, dulling aspect, of its
-gloom and compulsion. It aims to make work an instrument of joy, of strength,
-of colour, of real harmony, so that the poorest sort of a man should find in
-work both recreation and hope."_ [**Anarchism and Other Essays**, p. 61]
+> gloom and compulsion. It aims to make work an instrument of joy, of
+> strength, of colour, of real harmony, so that the poorest sort of a man
+> should find in work both recreation and hope."_ [ **Anarchism and Other
+> Essays** , p. 61]
 
 Anarchists do not think that by getting rid of work we will not have to
 produce necessary goods. Far from it. An anarchist society _"doesn't mean we
@@ -506,10 +509,10 @@ purposes, with a multitude of new kinds of free activities. To abolish work
 requires going at it from two directions, quantitative and qualitative."_ In
 terms of the first, _"we need to cut down massively the amount of working
 being done"_ (luckily, _"most work is useless or worse and we should simply
-get rid of it"_). For the second, _"we have to take what useful work remains
+get rid of it"_ ). For the second, _"we have to take what useful work remains
 and transform it into a pleasing variety of game-like and craft-like pastimes,
 indistinguishable from other pleasurable pastimes, except that they happen to
-yield useful end-products."_ [Bob Black, **Op. Cit.**, p. 17 and p. 28]
+yield useful end-products."_ [Bob Black, **Op. Cit.** , p. 17 and p. 28]
 
 This means that in an anarchist society every effort would be made to reduce
 boring, unpleasant activity to a minimum and ensure that whatever productive
@@ -522,8 +525,8 @@ work. The problem is not to leave more and more 'free' time to individuals --
 which might well be **empty** time -- so that they may fill it at will with
 'poetry' or the carving of wood. The problem is to make all time a time of
 liberty and to allow concrete freedom to find expression in creative
-activity."_ Essentially, the _"problem is to put poetry into work."_
-[**Political and Social Writings**, vol. 2, p. 107]
+activity."_ Essentially, the _"problem is to put poetry into work."_ [
+**Political and Social Writings** , vol. 2, p. 107]
 
 This is why anarchists desire to abolish "work" (i.e., productive activity not
 under control of the people doing it), to ensure that whatever productive
@@ -531,7 +534,7 @@ economic activity is required to be done is managed by those who do it. In
 this way it can be liberated, transformed, and so become a means of self-
 realisation and not a form of self-negation. In other words, anarchists want
 to abolish work because _"[l]ife, the art of living, has become a dull
-formula, flat and inert."_ [Berkman, **Op. Cit.**, p. 166] Anarchists want to
+formula, flat and inert."_ [Berkman, **Op. Cit.** , p. 166] Anarchists want to
 bring the spontaneity and joy of life back into productive activity and save
 humanity from the dead hand of capital. Anarchists consider economic activity
 as an expression of the human spirit, an expression of the innate human need
@@ -543,7 +546,7 @@ him the blessings of a higher intellectual culture. Where industry is
 everything and man is nothing begins the realm of a ruthless economic
 despotism whose workings are no less disastrous than those of any political
 despotism. The two mutually augment one another, and they are fed from the
-same source."_ [Rudolph Rocker, **Anarcho-Syndicalism**, p. 2]
+same source."_ [Rudolph Rocker, **Anarcho-Syndicalism** , p. 2]
 
 One last point on the abolition of work. May 1st -- International Workers' Day
 -- was, as we discussed in [section A.5.2](secA5.md#seca52), created to
@@ -568,7 +571,7 @@ and that all are or can be at the same time intellectual and manual workers,
 and the only differences remaining between men [and women] are those which
 stem from the natural diversity of aptitudes, and that all jobs, all
 functions, give an equal right to the enjoyment of social possibilities."_
-[Errico Malatesta, **Anarchy**, p. 42]
+[Errico Malatesta, **Anarchy** , p. 42]
 
 Essential to this task is decentralisation and the use of appropriate
 technology. Decentralisation is important to ensure that those who do work can
@@ -595,7 +598,7 @@ possibility of more free time. For example, since 1948 the level of
 productivity of the American worker _"has more than doubled. In other words,
 we could now produce our 1948 standard of living . . . . in less than half the
 time it took that year. We could actually have chosen the four-hour day. Or a
-working year of six months."_ [**The Overworked American**, p. 2]
+working year of six months."_ [ **The Overworked American** , p. 2]
 
 And, remember, these figures include production in many areas of the economy
 that would not exist in a free society -- state and capitalist bureaucracy,
@@ -605,7 +608,7 @@ advertisers, and various other middlemen of the present system"_ along with
 the armed forces and _"the great numbers employed in unnecessary and harmful
 occupations, such as building warships, the manufacture of ammunition and
 other military equipment"_ would be _"released for useful work by a
-revolution."_ [**What is Anarchism**, pp. 224-5] So the working week will be
+revolution."_ [ **What is Anarchism** , pp. 224-5] So the working week will be
 reduced simply because more people will be available for doing essential work.
 Moreover, goods will be built to last and so much production will become
 sensible and not governed by an insane desire to maximise profits at the
@@ -630,8 +633,8 @@ diminution of free time accompanied by an increased output of goods and
 services whose sole utility was either facilitating labour-market
 participation or repairing some of the social damage that resulted from the
 stress of overwork or neglect of non-market activity."_ [Tom Walker, _"Why
-Economists dislike a Lump of Labor"_, pp. 279-91, **Review of Social
-Economy**, vol. 65, No. 3, p. 286, pp. 287-8 and p. 288]
+Economists dislike a Lump of Labor"_ , pp. 279-91, **Review of Social
+Economy** , vol. 65, No. 3, p. 286, pp. 287-8 and p. 288]
 
 All this suggests the level of production for useful goods with a four-hour
 working day would be much higher than the 1948 level or, of course, the
@@ -650,19 +653,20 @@ transform what useful productive activity is left. When self-management
 becomes universal we will see the end of division of labour as mental and
 physical work becomes unified and those who do the work also manage it. This
 will allow _"the free exercise of **all** the faculties of man"_ both inside
-and outside "work." [Peter Kropotkin, **The Conquest of Bread**, p. 148] The
+and outside "work." [Peter Kropotkin, **The Conquest of Bread** , p. 148] The
 aim of such a development would be to turn productive activity, as far as
 possible, into an enjoyable experience. In the words of Murray Bookchin it is
 the **quality** and **nature** of the work process that counts:
 
 > _"If workers' councils and workers' management of production do not
-transform the work into a joyful activity, free time into a marvellous
-experience, and the workplace into a community, then they remain merely formal
-structures, in fact, **class** structures. They perpetuate the limitations of
-the proletariat as a product of bourgeois social conditions. Indeed, no
-movement that raises the demand for workers' councils can be regarded as
-revolutionary unless it tries to promote sweeping transformations in the
-environment of the work place."_ [**Post-Scarcity Anarchism**, p. 88]
+> transform the work into a joyful activity, free time into a marvellous
+> experience, and the workplace into a community, then they remain merely
+> formal structures, in fact, **class** structures. They perpetuate the
+> limitations of the proletariat as a product of bourgeois social conditions.
+> Indeed, no movement that raises the demand for workers' councils can be
+> regarded as revolutionary unless it tries to promote sweeping
+> transformations in the environment of the work place."_ [ **Post-Scarcity
+> Anarchism** , p. 88]
 
 Work will become, primarily, the expression of a person's pleasure in what
 they are doing and become like an art -- an expression of their creativity and
@@ -673,14 +677,14 @@ will obviously apply to work conducted in the home as well, otherwise the
 _"revolution, intoxicated with the beautiful words, Liberty, Equality,
 Solidarity, would not be a revolution if it maintained slavery at home. Half
 [of] humanity subjected to the slavery of the hearth would still have to rebel
-against the other half."_ [Kropotkin, **Op. Cit.**, p. 128]
+against the other half."_ [Kropotkin, **Op. Cit.** , p. 128]
 
 In other words, anarchists desire _"to combine the best part (in fact, the
 only good part) of work -- the production of use-values -- with the best of
 play . . . its freedom and its fun, its voluntariness and its intrinsic
 gratification"_. In short, the transformation of production (creating _"what
-seems needful"_") into _"**productive play**_". [Bob Black, _"Smokestack
-Lightning"_, **Friendly Fire**, p. 48 and p. 49]
+seems needful"_ ") into _" **productive play**_ ". [Bob Black, _"Smokestack
+Lightning"_ , **Friendly Fire** , p. 48 and p. 49]
 
 Workers' self-management of production (see [section
 I.3.2](secI3.md#seci32)) would be the means of achieving this. Only those
@@ -694,7 +698,7 @@ in reducing "work" they did not want to do to a minimum. Therefore, an
 anarchist society would abolish work by ensuring that those who do it actually
 control it. _"Personal initiative will be encouraged and every tendency to
 uniformity and centralisation combated."_ [Kropotkin, quoted by Martin Buber,
-**Paths in Utopia**, p. 42]
+**Paths in Utopia** , p. 42]
 
 All this does not imply that anarchists think that individuals will not seek
 to "specialise" in one form of productive activity rather than another. Far
@@ -726,8 +730,8 @@ knowledge. And, whosoever he might be . . . he would be the gainer if he spent
 a part of his life in the workshop or the farm (the workshop **and** the
 farm), if he were in contact with humanity in its daily work, and had the
 satisfaction of knowing that he himself discharges his duties as an
-unprivileged producer of wealth."_ [**Fields, Factories and Workshops
-Tomorrow**, p. 186, p. 172 and p. 186]
+unprivileged producer of wealth."_ [ **Fields, Factories and Workshops
+Tomorrow** , p. 186, p. 172 and p. 186]
 
 However, while specialisation would continue, the permanent division of
 individuals into manual or brain workers would be eliminated. Individuals will
@@ -740,32 +744,32 @@ Crump presents a good summary of the ideas of the Japanese anarchist Hatta
 Shuzo on this difference:
 
 > _"[We must] recognise the distinction which Hatta made between the 'division
-of labour' . . . and the 'division of work' . . . while Hatta believed that
-the division of labour . . . was the cause of class divisions and
-exploitation, he did not see anything sinister in the division of work . . .
-On the contrary, Hatta believed that the division of work was a benign and
-unavoidable feature of any productive process: 'it goes without saying that
-within society, whatever the kind of production, there has to be a division of
-work.' . . . [For] the dangers [of division of labour] to which Hatta [like
-other anarchists like Proudhon and Kropotkin] drew attention did not arise
-from a situation where, at any one time, different people were engaged in
-different productive activities . . . What did spell danger, however, was
-when, either individually or collectively, people permanently divided along
-occupational lines . . . and gave rise to the disastrous consequences . . . .
-[of] the degrading of labour to a mechanical function; the lack of
-responsibility for, understanding of, or interest in other branches of
-production; and the need for a superior administrative organ to co-ordinate
-the various branches of production."_ [**Hatta Shuzo and Pure Anarchism in
-Interwar Japan**, pp. 146-7]
+> of labour' . . . and the 'division of work' . . . while Hatta believed that
+> the division of labour . . . was the cause of class divisions and
+> exploitation, he did not see anything sinister in the division of work . . .
+> On the contrary, Hatta believed that the division of work was a benign and
+> unavoidable feature of any productive process: 'it goes without saying that
+> within society, whatever the kind of production, there has to be a division
+> of work.' . . . [For] the dangers [of division of labour] to which Hatta
+> [like other anarchists like Proudhon and Kropotkin] drew attention did not
+> arise from a situation where, at any one time, different people were engaged
+> in different productive activities . . . What did spell danger, however, was
+> when, either individually or collectively, people permanently divided along
+> occupational lines . . . and gave rise to the disastrous consequences . . .
+> . [of] the degrading of labour to a mechanical function; the lack of
+> responsibility for, understanding of, or interest in other branches of
+> production; and the need for a superior administrative organ to co-ordinate
+> the various branches of production."_ [ **Hatta Shuzo and Pure Anarchism in
+> Interwar Japan** , pp. 146-7]
 
 As Kropotkin argued:
 
 > _"while a **temporary** division of functions remains the surest guarantee
-of success in each separate undertaking, the **permanent** division is doomed
-to disappear, and to be substituted by a variety of pursuits -- intellectual,
-industrial, and agricultural -- corresponding to the different capacities of
-the individual, as well as to the variety of capacities within every human
-aggregate."_ [**Op. Cit.**, p. 26]
+> of success in each separate undertaking, the **permanent** division is
+> doomed to disappear, and to be substituted by a variety of pursuits --
+> intellectual, industrial, and agricultural -- corresponding to the different
+> capacities of the individual, as well as to the variety of capacities within
+> every human aggregate."_ [ **Op. Cit.** , p. 26]
 
 As an aside, supporters of capitalism argue that **integrated** labour must be
 more inefficient than **divided** labour as capitalist firms have not
@@ -821,17 +825,18 @@ indicates that production needs the integration of labour while demanding a
 division of work. As Cornelius Castoriadis argued:
 
 > _"Modern production has destroyed many traditional professional
-qualifications. It has created automatic or semi-automatic machines. It has
-thereby itself demolished its own traditional framework for the industrial
-division of labour. It has given birth to a universal worker who is capable,
-after a relatively short apprenticeship, of using most machines. Once one gets
-beyond its class aspects, the 'posting' of workers to particular jobs in a big
-modern factory corresponds less and less to a genuine division of **labour**
-and more and more to a simple division of tasks. Workers are not allocated to
-given areas of the productive process and then riveted to them because their
-'occupational skills' invariably correspond to the 'skills required' by
-management. They are placed there . . . just because a particular vacancy
-happened to exist."_ [**Political and Economic Writings**, vol. 2, p. 117]
+> qualifications. It has created automatic or semi-automatic machines. It has
+> thereby itself demolished its own traditional framework for the industrial
+> division of labour. It has given birth to a universal worker who is capable,
+> after a relatively short apprenticeship, of using most machines. Once one
+> gets beyond its class aspects, the 'posting' of workers to particular jobs
+> in a big modern factory corresponds less and less to a genuine division of
+> **labour** and more and more to a simple division of tasks. Workers are not
+> allocated to given areas of the productive process and then riveted to them
+> because their 'occupational skills' invariably correspond to the 'skills
+> required' by management. They are placed there . . . just because a
+> particular vacancy happened to exist."_ [ **Political and Economic
+> Writings** , vol. 2, p. 117]
 
 By replacing the division of labour with the division of work, a free society
 will ensure that productive activity can be transformed into an enjoyable task
@@ -839,7 +844,7 @@ will ensure that productive activity can be transformed into an enjoyable task
 producer can be expressed so eliminating a major source of alienation and
 unhappiness in society. _"The main subject of social economy,"_ argued
 Kropotkin, is _"the **economy** of energy required for the satisfaction of
-**human needs.**"_ These needs obviously expressed both the needs of the
+**human needs.** "_ These needs obviously expressed both the needs of the
 producers for empowering and interesting work and their need for a healthy and
 balanced environment. Thus Kropotkin discussed the _"advantages"_ which could
 be _"derive[d] from a combination of industrial pursuits with intensive
@@ -848,14 +853,14 @@ well-being can be obtained when a variety of agricultural, industrial and
 intellectual pursuits are combined in each community; and that man [and woman]
 shows his best when he is in a position to apply his usually-varied capacities
 to several pursuits in the farm, the workshop, the factory, the study or the
-studio, instead of being riveted for life to one of these pursuits only."_
-[**Op. Cit.**, pp. 17-8] This means that _"[u]nder socialism, factories would
+studio, instead of being riveted for life to one of these pursuits only."_ [
+**Op. Cit.** , pp. 17-8] This means that _"[u]nder socialism, factories would
 have no reason to accept the artificially rigid division of labour now
 prevailing. There will be every reason to encourage a rotation of workers
 **between shops and departments** and between production and office areas."_
 The _"residues of capitalism's division of labour gradually will have to be
 eliminated"_ as _"socialist society cannot survive unless it demolishes this
-division."_ [Castoriadis, **Op. Cit.**, p. 117]
+division."_ [Castoriadis, **Op. Cit.** , p. 117]
 
 Anarchists think that a decentralised social system will allow "work" to be
 abolished and economic activity humanised and made a means to an end (namely
@@ -874,7 +879,7 @@ reconstructed economic life would be based on anarchist principles, that is
 _"based on the principles of federalism, a free combination from below
 upwards, putting the right of self-determination of every member above
 everything else and recognising only the organic agreement of all on the basis
-of like interests and common convictions."_ [**Anarcho-Syndicalism**, p. 72,
+of like interests and common convictions."_ [ **Anarcho-Syndicalism** , p. 72,
 p. 62 and p. 60]
 
 In other words, those who produce also administer and so govern themselves in
@@ -887,12 +892,12 @@ would likely take the form (as we indicated in [section I.3](secI3.md)) of
 confederations of syndicates who communicate information between themselves
 and respond to changes in the production and distribution of products by
 increasing or decreasing the required means of production in a co-operative
-(i.e. _"planned"_) fashion. No "central planning" or "central planners"
+(i.e. _"planned"_ ) fashion. No "central planning" or "central planners"
 governing the economy, just workers co-operating together as equals (as
 Kropotkin argued, free socialism _"must result from thousands of separate
 local actions, all directed towards the same aim. It cannot be dictated by a
-central body: it must result from the numberless local needs and wants."_
-[**Act for Yourselves**, p. 54]).
+central body: it must result from the numberless local needs and wants."_ [
+**Act for Yourselves** , p. 54]).
 
 Now, any form of association requires agreement. Therefore, even a society
 based on the communist-anarchist maxim _"from each according to their ability,
@@ -909,16 +914,16 @@ argued, a communist anarchist society would be based upon the such a minimum-
 hour "contract" between its members:
 
 > _"We undertake to give you the use of our houses, stores, streets, means of
-transport, schools, museums, etc., on condition that, from twenty to forty-
-five or fifty years of age, you consecrate four or five hours a day to some
-work recognised as necessary to existence. Choose yourself the producing group
-which you wish to join, or organise a new group, provided that it will
-undertake to produce necessaries. And as for the remainder of your time,
-combine together with whomsoever you like, for recreation, art, or science,
-according to the bent of your taste . . . Twelve or fifteen hundred hours of
-work a year . . . is all we ask of you. For that amount of work we guarantee
-to you the free use of all that these groups produce, or will produce."_
-[**The Conquest of Bread**, pp. 153-4]
+> transport, schools, museums, etc., on condition that, from twenty to forty-
+> five or fifty years of age, you consecrate four or five hours a day to some
+> work recognised as necessary to existence. Choose yourself the producing
+> group which you wish to join, or organise a new group, provided that it will
+> undertake to produce necessaries. And as for the remainder of your time,
+> combine together with whomsoever you like, for recreation, art, or science,
+> according to the bent of your taste . . . Twelve or fifteen hundred hours of
+> work a year . . . is all we ask of you. For that amount of work we guarantee
+> to you the free use of all that these groups produce, or will produce."_ [
+> **The Conquest of Bread** , pp. 153-4]
 
 With such work _"necessary to existence"_ being recognised by individuals and
 expressed by demand for labour from productive syndicates. It is, of course,
@@ -993,7 +998,7 @@ organised from the bottom up. So, anarchists would agree with Kropotkin that
 it is a case of not _"determining in advance what form of distribution the
 producers should accept in their different groups -- whether the communist
 solution, or labour checks, or equal salaries, or any other method"_ while
-considering a given solution best in their opinion. [**Anarchism**, p. 166]
+considering a given solution best in their opinion. [ **Anarchism** , p. 166]
 Free experimentation is a key aspect of anarchism.
 
 While certain anarchists have certain preferences on the social system they
@@ -1011,8 +1016,8 @@ In a mutualist or collectivist system, the answer is easy. Prices will exist
 and be used as a means of making decisions (although, as Malatesta suggested,
 such non-communist anarchies would _"seek a way to ensure that money truly
 represents the useful work performed by its possessors"_ rather than, as
-today, _"the means for living on the labour of others"_ [**Errico Malatesta:
-His Life and Ideas**, p. 101 and p. 100]). Mutualism will be more market
+today, _"the means for living on the labour of others"_ [ **Errico Malatesta:
+His Life and Ideas** , p. 101 and p. 100]). Mutualism will be more market
 orientated than collectivism, with collectivism being based on confederations
 of collectives to respond to changes in demand (i.e. to determine investment
 decisions and ensure that supply is kept in line with demand). Mutualism, with
@@ -1055,8 +1060,8 @@ planning function as well to ensure that supply meets demand. This does not
 imply a Stalinist-like command economy, but simple book keeping for _"each
 Bank of Exchange makes sure in advance that these products are in demand [in
 order to risk] nothing by immediately issuing payment vouchers to the
-producers."_ [_"On Building the New Social Order"_, pp. 356-79, **Bakunin on
-Anarchism**, p. 366 and p. 367] The workers syndicates would still determine
+producers."_ [ _"On Building the New Social Order"_ , pp. 356-79, **Bakunin on
+Anarchism** , p. 366 and p. 367] The workers syndicates would still determine
 what orders to produce and each commune would be free to choose its suppliers.
 
 As will be discussed in more depth later (see [section
@@ -1077,22 +1082,23 @@ stores). However, in an anarcho-communist system, prices are not used. How
 will economic decision making be done? One possible solution is as follows:
 
 > _"As to decisions involving choices of a general nature, such as what forms
-of energy to use, which of two or more materials to employ to produce a
-particular good, whether to build a new factory, there is a . . . technique .
-. . that could be [used] . . . 'cost-benefit analysis' . . . [I]n socialism a
-points scheme for attributing relative importance to the various relevant
-considerations could be used . . . The points attributed to these
-considerations would be subjective, in the sense that this would depend on a
-deliberate social decision rather than some objective standard, but this is
-the case even under capitalism when a monetary value has to be attributed to
-some such 'cost' or 'benefit' . . . In the sense that one of the aims of
-socialism is precisely to rescue humankind from the capitalist fixation with
-production time/money, cost-benefit analyses, as a means of taking into
-account other factors, could therefore be said to be more appropriate for use
-in socialism than under capitalism. Using points systems to attribute relative
-importance in this way . . . [is] simply to employ a technique to facilitate
-decision-making in particular concrete cases."_ [Adam Buick and John Crump,
-**State Capitalism: The Wages System Under New Management**, pp. 138-139]
+> of energy to use, which of two or more materials to employ to produce a
+> particular good, whether to build a new factory, there is a . . . technique
+> . . . that could be [used] . . . 'cost-benefit analysis' . . . [I]n
+> socialism a points scheme for attributing relative importance to the various
+> relevant considerations could be used . . . The points attributed to these
+> considerations would be subjective, in the sense that this would depend on a
+> deliberate social decision rather than some objective standard, but this is
+> the case even under capitalism when a monetary value has to be attributed to
+> some such 'cost' or 'benefit' . . . In the sense that one of the aims of
+> socialism is precisely to rescue humankind from the capitalist fixation with
+> production time/money, cost-benefit analyses, as a means of taking into
+> account other factors, could therefore be said to be more appropriate for
+> use in socialism than under capitalism. Using points systems to attribute
+> relative importance in this way . . . [is] simply to employ a technique to
+> facilitate decision-making in particular concrete cases."_ [Adam Buick and
+> John Crump, **State Capitalism: The Wages System Under New Management** ,
+> pp. 138-139]
 
 This points system would be the means by which producers and consumers would
 be able to determine whether the use of a particular good is efficient or not.
@@ -1103,24 +1109,24 @@ and not a replacement of human decision making and evaluation. As Lewis
 Mumford argued:
 
 > _"it is plain that in the decision as to whether to build a bridge or a
-tunnel there is a human question that should outweigh the question of
-cheapness or mechanical feasibility: namely the number of lives that will be
-lost in the actual building or the advisability of condemning a certain number
-of men [and women] to spend their entire working days underground supervising
-tunnel traffic . . . Similarly the social choice between silk and rayon is not
-one that can be made simply on the different costs of production, or the
-difference in quality between the fibres themselves: there also remains, to be
-integrated in the decision, the question as to difference in working-pleasure
-between tending silkworms and assisting in rayon production. What the product
-contributes to the labourer is just as important as what the worker
-contributes to the product. A well-managed society might alter the process of
-motor car assemblage, at some loss of speed and cheapness, in order to produce
-a more interesting routine for the worker: similarly, it would either go to
-the expense of equipping dry-process cement making plants with dust removers
--- or replace the product itself with a less noxious substitute. When none of
-these alternatives was available, it would drastically reduce the demand
-itself to the lowest possible level."_ [**The Future of Technics and
-Civilisation**, pp. 160-1]
+> tunnel there is a human question that should outweigh the question of
+> cheapness or mechanical feasibility: namely the number of lives that will be
+> lost in the actual building or the advisability of condemning a certain
+> number of men [and women] to spend their entire working days underground
+> supervising tunnel traffic . . . Similarly the social choice between silk
+> and rayon is not one that can be made simply on the different costs of
+> production, or the difference in quality between the fibres themselves:
+> there also remains, to be integrated in the decision, the question as to
+> difference in working-pleasure between tending silkworms and assisting in
+> rayon production. What the product contributes to the labourer is just as
+> important as what the worker contributes to the product. A well-managed
+> society might alter the process of motor car assemblage, at some loss of
+> speed and cheapness, in order to produce a more interesting routine for the
+> worker: similarly, it would either go to the expense of equipping dry-
+> process cement making plants with dust removers -- or replace the product
+> itself with a less noxious substitute. When none of these alternatives was
+> available, it would drastically reduce the demand itself to the lowest
+> possible level."_ [ **The Future of Technics and Civilisation** , pp. 160-1]
 
 Obviously, today, we would include ecological issues as well as human ones.
 Any decision making process which disregards the quality of work or the effect
@@ -1205,8 +1211,8 @@ build ships for communal use, freely available for all to use in turn -- see
 individual consumption, no such information will be needed as communal stores
 would order consumer goods in bulk as they do now. Hence the economy would be
 a vast network of co-operating individuals and workplaces and the dispersed
-knowledge which exists within any society can be put to good effect
-(**better** effect than under capitalism because it does not hide social and
+knowledge which exists within any society can be put to good effect (
+**better** effect than under capitalism because it does not hide social and
 ecological costs in the way market prices do and co-operation will eliminate
 the business cycle and its resulting social problems).
 
@@ -1347,7 +1353,7 @@ often implies, to some, central planning. As the market socialist David
 Schweickart puts it, _"[i]f profit considerations do not dictate resource
 usage and production techniques, then central direction must do so. If profit
 is not the goal of a productive organisation, then physical output (use
-values) must be."_ [**Against Capitalism**, p. 86] However, Schweickart is
+values) must be."_ [ **Against Capitalism** , p. 86] However, Schweickart is
 wrong. Horizontal links need not be market based and co-operation between
 individuals and groups need not be hierarchical. What is implied in this
 comment is that there is just two ways to relate to others -- either by
@@ -1379,28 +1385,28 @@ transactions -- they develop for numerous reasons and anarchists recognise
 this. As George Barrett argued:
 
 > _"Let us imagine now that the great revolt of the workers has taken place,
-that their direct action has made them masters of the situation. It is not
-easy to see that some man in a street that grew hungry would soon draw a list
-of the loaves that were needed, and take it to the bakery where the strikers
-were in possession? Is there any difficulty in supposing that the necessary
-amount would then be baked according to this list? By this time the bakers
-would know what carts and delivery vans were needed to send the bread out to
-the people, and if they let the carters and vanmen know of this, would these
-not do their utmost to supply the vehicles . . . If . . . [the bakers needed]
-more benches [to make bread] . . . the carpenters would supply them [and so
-on] . . . So the endless continuity goes on -- a well-balanced interdependence
-of parts guaranteed, because **need** is the motive force behind it all . . .
-In the same way that each free individual has associated with his brothers
-[and sisters] to produce bread, machinery, and all that is necessary for life,
-driven by no other force than his desire for the full enjoyment of life, so
-each institution is free and self-contained, and co-operates and enters into
-agreements with other because by so doing it extends its own possibilities.
-There is no centralised State exploiting or dictating, but the complete
-structure is supported because each part is dependent on the whole . . . It
-will be a society responsive to the wants of the people; it will supply their
-everyday needs as quickly as it will respond to their highest aspirations. Its
-changing forms will be the passing expressions of humanity."_ [**The Anarchist
-Revolution**, pp. 17-19]
+> that their direct action has made them masters of the situation. It is not
+> easy to see that some man in a street that grew hungry would soon draw a
+> list of the loaves that were needed, and take it to the bakery where the
+> strikers were in possession? Is there any difficulty in supposing that the
+> necessary amount would then be baked according to this list? By this time
+> the bakers would know what carts and delivery vans were needed to send the
+> bread out to the people, and if they let the carters and vanmen know of
+> this, would these not do their utmost to supply the vehicles . . . If . . .
+> [the bakers needed] more benches [to make bread] . . . the carpenters would
+> supply them [and so on] . . . So the endless continuity goes on -- a well-
+> balanced interdependence of parts guaranteed, because **need** is the motive
+> force behind it all . . . In the same way that each free individual has
+> associated with his brothers [and sisters] to produce bread, machinery, and
+> all that is necessary for life, driven by no other force than his desire for
+> the full enjoyment of life, so each institution is free and self-contained,
+> and co-operates and enters into agreements with other because by so doing it
+> extends its own possibilities. There is no centralised State exploiting or
+> dictating, but the complete structure is supported because each part is
+> dependent on the whole . . . It will be a society responsive to the wants of
+> the people; it will supply their everyday needs as quickly as it will
+> respond to their highest aspirations. Its changing forms will be the passing
+> expressions of humanity."_ [ **The Anarchist Revolution** , pp. 17-19]
 
 To make productive decisions we need to know what others need and information
 in order to evaluate the alternative options available to us to satisfy that
@@ -1458,7 +1464,7 @@ production unit would find its stocks being run down and its order book
 lengthening, or its stocks increasing and orders falling . . . Price changes
 in response to changes in demand are therefore not necessary for the purpose
 of providing information about the need to adjust capacity."_ [Pat Devine,
-**Democracy and Economic Planning**, p. 242]
+**Democracy and Economic Planning** , p. 242]
 
 So syndicates, communes and their confederations will create buffer stocks of
 goods to handle unforeseen changes in demand and supply. This sort of
@@ -1469,8 +1475,8 @@ economist Paul Davidson argued that the stability of commodity prices this
 produced _"was an essential aspect of the unprecedented prosperous economic
 growth of the world's economy"_ between 1945 and 1972. US President Nixon
 dismantled these buffer zone programmes, resulting in _"violent commodity
-price fluctuations"_ which had serious negative economic effects.
-[**Controversies in Post-Keynesian Economics**, p. 114 and p. 115] Again, an
+price fluctuations"_ which had serious negative economic effects. [
+**Controversies in Post-Keynesian Economics** , p. 114 and p. 115] Again, an
 anarchist society is likely to utilise this sort of buffer system to iron out
 short-term changes in supply and demand. By reducing short-term fluctuations
 of the supply of commodities, bad investment decisions would be reduced as
@@ -1602,8 +1608,8 @@ these assumptions are of limited use in real life. Therefore, co-operatives
 would produce goods with different features and production would change to
 meet the demand these differences suggest (for example, factory A produces a
 new CD player, and consumption patterns indicate that this is popular and so
-the rest of the factories convert). This is in addition to R&amp;D experiments
-and test populations. In this way consumer choice would be maintained, and
+the rest of the factories convert). This is in addition to R&D experiments and
+test populations. In this way consumer choice would be maintained, and
 enhanced as people would be able to influence the decisions of the syndicates
 as producers (in some cases) and through syndicate/commune dialogue.
 
@@ -1640,14 +1646,15 @@ lead to people wasting resources by taking more than they need.
 
 Kropotkin, for example, stated that _"free communism . . . places the product
 reaped or manufactured at the disposal of all, leaving to each the liberty to
-consume them as he pleases in his own home."_ [**The Place of Anarchism in the
-Evolution of Socialist Thought**, p. 7] But, some argue, what if an individual
-says they "need" a luxury house or a personal yacht? Simply put, workers may
-not "need" to produce it. As Tom Brown put it, _"such things are the product
-of social labour . . . Under syndicalism . . . it is improbable that any
-greedy, selfish person would be able to kid a shipyard full of workers to
-build him a ship all for his own hoggish self. There would be steam luxury
-yachts, but they would be enjoyed in common."_ [**Syndicalism**, p. 51]
+consume them as he pleases in his own home."_ [ **The Place of Anarchism in
+the Evolution of Socialist Thought** , p. 7] But, some argue, what if an
+individual says they "need" a luxury house or a personal yacht? Simply put,
+workers may not "need" to produce it. As Tom Brown put it, _"such things are
+the product of social labour . . . Under syndicalism . . . it is improbable
+that any greedy, selfish person would be able to kid a shipyard full of
+workers to build him a ship all for his own hoggish self. There would be steam
+luxury yachts, but they would be enjoyed in common."_ [ **Syndicalism** , p.
+51]
 
 Therefore, communist-anarchists are not blind to the fact that free access to
 products is based upon the actual work of real individuals -- "society"
@@ -1676,14 +1683,14 @@ demands of a (wealthy) few. A free people would evaluate the pros and cons of
 any activity before doing it. As Malatesta put it:
 
 > _"[A] communist society . . . is not, obviously, about an absolute right to
-satisfy **all** of one's needs, because needs are infinite . . . so their
-satisfaction is always limited by productive capacity; nor would it be useful
-or just that the community in order to satisfy excessive needs, otherwise
-called caprices, of a few individuals, should undertake work, out of
-proportion to the utility being produced . . . What we would like is for
-everybody to live in the best possible way: so that everybody with a minimum
-amount of effort will obtain maximum satisfaction."_ [**At the Café**, pp.
-60-1]
+> satisfy **all** of one's needs, because needs are infinite . . . so their
+> satisfaction is always limited by productive capacity; nor would it be
+> useful or just that the community in order to satisfy excessive needs,
+> otherwise called caprices, of a few individuals, should undertake work, out
+> of proportion to the utility being produced . . . What we would like is for
+> everybody to live in the best possible way: so that everybody with a minimum
+> amount of effort will obtain maximum satisfaction."_ [ **At the Café** , pp.
+> 60-1]
 
 Communist-anarchists recognise that production, like consumption, must be
 based on freedom. However, it has been argued that free access would lead to
@@ -1757,13 +1764,14 @@ does not follow that people in a free society would have similar wants (i.e.,
 Bob Black argues:
 
 > _"what we want, what we are capable of wanting is relative to the forms of
-social organisation. People 'want' fast food because they have to hurry back
-to work, because processed supermarket food doesn't taste much better anyway,
-because the nuclear family (for the dwindling minority who have even that to
-go home to) is too small and too stressed to sustain much festivity in cooking
-and eating -- and so forth. It is only people who can't get what they want who
-resign themselves to want more of what they can get. Since we cannot be
-friends and lovers, we wail for more candy."_ [**Friendly Fire**, p. 57]
+> social organisation. People 'want' fast food because they have to hurry back
+> to work, because processed supermarket food doesn't taste much better
+> anyway, because the nuclear family (for the dwindling minority who have even
+> that to go home to) is too small and too stressed to sustain much festivity
+> in cooking and eating -- and so forth. It is only people who can't get what
+> they want who resign themselves to want more of what they can get. Since we
+> cannot be friends and lovers, we wail for more candy."_ [ **Friendly Fire**
+> , p. 57]
 
 Therefore, most anarchists think that consumerism is a product of a
 hierarchical society within which people are alienated from themselves and the
@@ -1777,10 +1785,10 @@ make themselves happy by consuming more commodities. But, as Erich Fromm
 pointed out, this cannot work for long and only leads to even more insecurity
 (and so even more consumption):
 
-> _"**If I am what I have and if what I have is lost, who then am I?** Nobody
-but a defeated, deflated, pathetic testimony to a wrong way of living. Because
-I **can** lose what I have, I am necessarily constantly worried that I
-**shall** lose what I have."_ [**To Have Or To Be**, p. 111]
+> _" **If I am what I have and if what I have is lost, who then am I?** Nobody
+> but a defeated, deflated, pathetic testimony to a wrong way of living.
+> Because I **can** lose what I have, I am necessarily constantly worried that
+> I **shall** lose what I have."_ [ **To Have Or To Be** , p. 111]
 
 Such insecurity easily makes consumerism seem a "natural" way of life and so
 make communism seem impossible. However, rampant consumerism is far more a
@@ -1790,7 +1798,7 @@ individuality by non-hierarchical social relationships and organisations,
 individuals would have a strong sense of self and so be less inclined to
 mindlessly consume. As Fromm put it: _"If **I am what I am** and not what I
 have, nobody can deprive me of or threaten my security and my sense of
-identity. My centre is within myself."_ [**Op. Cit.**, p. 112] Such self-
+identity. My centre is within myself."_ [ **Op. Cit.** , p. 112] Such self-
 centred individuals do not have to consume endlessly to build a sense of
 security or happiness within themselves.
 
@@ -1814,12 +1822,12 @@ communist society would see goods being supplied as well as demanded. As
 Malatesta argued:
 
 > _"Basic to the anarchist system, before communism or any other forms of
-social conviviality is the principle of the free compact; the rule of integral
-communism -- 'from each according to his [or her] ability, to each according
-to his [or her] need' -- applies only to those who accept it, including
-naturally the conditions which make it practicable."_ [quoted by Camillo
-Berneri, _"The Problem of Work"_, pp. 59-82, **Why Work?**, Vernon Richards
-(ed.), p. 74]
+> social conviviality is the principle of the free compact; the rule of
+> integral communism -- 'from each according to his [or her] ability, to each
+> according to his [or her] need' -- applies only to those who accept it,
+> including naturally the conditions which make it practicable."_ [quoted by
+> Camillo Berneri, _"The Problem of Work"_ , pp. 59-82, **Why Work?** , Vernon
+> Richards (ed.), p. 74]
 
 So, as Malatesta suggested, it should be noted that communist-anarchists are
 well aware that it is likely that free access to all goods and services cannot
@@ -1830,23 +1838,23 @@ principle of 'to each according to his [or her] needs' . . . But until it is
 reached, the system of equal sharing . . . is imperative as the only just
 method. It goes without saying, of course, that special consideration must be
 given to the sick and the old, to children, and to women during and after
-pregnancy."_ [**What is Anarchism?**, p. 216] Another possibility was
+pregnancy."_ [ **What is Anarchism?** , p. 216] Another possibility was
 suggested by James Guillaume who argued that as long as a product was _"in
 short supply it will to a certain extent have to be rationed. And the easiest
 way to do this would be to **sell** these scarce products"_ but as production
 grows then _"it will not be necessary to ration consumption. The practice of
 selling, which was adopted as a sort of deterrent to immoderate consumption,
 will be abolished"_ and goods _"will be distribute[d] . . . in accordance with
-the needs of the consumers."_ [_"On Building the New Social Order"_, pp.
-356-79, **Bakunin on Anarchism**, p. 368] Other possibilities may include
+the needs of the consumers."_ [ _"On Building the New Social Order"_ , pp.
+356-79, **Bakunin on Anarchism** , p. 368] Other possibilities may include
 communes deciding that certain scarce goods are only available to those who do
 the unpleasant work (such as collecting the rubbish) or that people have equal
 access but the actual goods are shared and used for short periods of time (as
 is currently the case with public libraries). As Situationist Ken Knabb
-suggests after usefully discussing _"just some of the possibilities"_:
+suggests after usefully discussing _"just some of the possibilities"_ :
 _"Experimenting with different methods, people will find out for themselves
-what forms of ownership, exchange and reckoning are necessary."_ [**Public
-Secrets**, p. 73]
+what forms of ownership, exchange and reckoning are necessary."_ [ **Public
+Secrets** , p. 73]
 
 Whether or not full communism **can** be introduced instantly is a moot point
 amongst collectivist and communist anarchists, although most would like to see
@@ -1861,7 +1869,7 @@ Rest assured, though, _"the difficulty will be solved and obstacles in the
 shape of making necessary changes in the detailed working of the system of
 production and its relation to consumption, will vanish before the ingenuity
 of the myriad minds vitally concerned in overcoming them."_ [Charlotte M.
-Wilson, **Anarchist Essays**, p. 21]
+Wilson, **Anarchist Essays** , p. 21]
 
 ## I.4.7 What will stop producers ignoring consumers?
 
@@ -1893,8 +1901,8 @@ provided by the [communal] Bank of Exchange . . . The Bank of Exchange would
 remit to the producers negotiable **vouchers** representing the value of their
 products"_ (this value _"having been established in advance by a contractual
 agreement between the regional co-operative federations and the various
-communes"_). [_"On Building the New Social Order"_, pp. 356-79, **Bakunin on
-Anarchism**, pp. 366] If the goods are not in demand then the producer
+communes"_ ). [ _"On Building the New Social Order"_ , pp. 356-79, **Bakunin
+on Anarchism** , pp. 366] If the goods are not in demand then the producer
 associations would not be able to sell the product of their labour to the Bank
 of Exchange (or directly to other syndicates or communes) and so they would
 adjust their output accordingly. Of course, there are problems with these
@@ -1911,9 +1919,9 @@ reward producers in this way. So what mechanism exists to ensure that _"the
 wants of all"_ are, in fact, met? How does anarcho-communism ensure that
 production becomes _"the mere servant of consumption"_ and _"mould itself on
 the wants of the consumer, not dictate to him conditions"_? [Peter Kropotkin,
-**Act for Yourselves**, p. 57] Libertarian communists argue that in a **free**
-communist society consumers' needs would be met. This is because of the
-decentralised and federal nature of such a society.
+**Act for Yourselves** , p. 57] Libertarian communists argue that in a
+**free** communist society consumers' needs would be met. This is because of
+the decentralised and federal nature of such a society.
 
 So what is the mechanism which makes producers accountable to consumers in a
 libertarian communist society? Firstly, communes would practice their power of
@@ -1993,21 +2001,21 @@ product of its labour and would soon return to the fold.
 Kropotkin argued in these terms over 100 years ago:
 
 > _"When a railway company, federated with other companies, fails to fulfil
-its engagements, when its trains are late and goods lie neglected at the
-stations, the other companies threaten to cancel the contract, and that threat
-usually suffices. _
+> its engagements, when its trains are late and goods lie neglected at the
+> stations, the other companies threaten to cancel the contract, and that
+> threat usually suffices._
 
 > _"It is generally believed . . . that commerce only keeps to its engagements
-from fear of lawsuits. Nothing of the sort; nine times in ten the trader who
-has not kept his word will not appear before a judge . . . the sole fact of
-having driven a creditor to bring a lawsuit suffices for the vast majority of
-merchants to refuse for good to have any dealings with a man who has compelled
-one of them to go to law. _
+> from fear of lawsuits. Nothing of the sort; nine times in ten the trader who
+> has not kept his word will not appear before a judge . . . the sole fact of
+> having driven a creditor to bring a lawsuit suffices for the vast majority
+> of merchants to refuse for good to have any dealings with a man who has
+> compelled one of them to go to law._
 
 > _"This being so, why should means that are used today among . . . traders in
-the trade, and railway companies in the organisation of transport, not be made
-use of in a society based on voluntary work?"_ [**The Conquest of Bread**, p.
-153]
+> the trade, and railway companies in the organisation of transport, not be
+> made use of in a society based on voluntary work?"_ [ **The Conquest of
+> Bread** , p. 153]
 
 Thus, to ensure producer accountability of production to consumption, no
 bureaucratic body is required in libertarian communism (or any other form of
@@ -2023,8 +2031,8 @@ different. As Guild Socialist G.D.H Cole points out, _"it is essential at all
 times, and in accordance with considerations which vary from time to time, for
 a community to preserve a balance between production for ultimate use and
 production for use in further production. And this balance is a matter which
-ought to be determined by and on behalf of the whole community."_ [**Guild
-Socialism Restated**, p. 144]
+ought to be determined by and on behalf of the whole community."_ [ **Guild
+Socialism Restated** , p. 144]
 
 How this balance is determined varies according to the school of anarchist
 thought considered. All agree, however, that such an important task should be
@@ -2036,7 +2044,7 @@ achieved by _"the organisation of credit, on the principle of reciprocity or
 mutualism . . . In such an organisation credit is raised to the dignity of a
 social function, managed by the community; and, as society never speculates
 upon its members, it will lend its credit . . . at the actual cost of
-transaction."_ [Charles A. Dana, **Proudhon and his _"Bank of the People"_**,
+transaction."_ [Charles A. Dana, **Proudhon and his _"Bank of the People"_** ,
 p. 36] Loans would be allocated to projects which the mutual banks considered
 likely to succeed and repay the original loan. In this way, the increase in
 the money supply implied by these acts of credit providing does not generate
@@ -2048,8 +2056,8 @@ the case with co-operatives today: _"Worker-managers finance their new
 investments partly out of internal funds and partly from external loans . . .
 Entrepreneurial activity of worker-managers . . . generates profits and
 losses, i.e., higher or lower income per worker."_ [Branko Horvat, _"The
-Theory of the Worker-Managed Firm Revisited"_, pp. 9-25, **Journal of
-Comparative Economics**, vol. 10, no. 1, p. 21] As discussed in [section
+Theory of the Worker-Managed Firm Revisited"_ , pp. 9-25, **Journal of
+Comparative Economics** , vol. 10, no. 1, p. 21] As discussed in [section
 I.1.1](secI1.md#seci11), eliminating the stock market will not harm
 investment (almost all investment funds are from other sources) and will
 remove an important negative influence in economic activity.
@@ -2060,15 +2068,15 @@ _"understanding of this point [on investment] depends on a clear appreciation
 of the fact that all real additions to capital take the form of directing a
 part of the productive power of labour and using certain materials not for the
 manufacture of products and the rendering of services incidental to such
-manufacture for purposes of purposes of further production."_ [**Op. Cit.**,
+manufacture for purposes of purposes of further production."_ [ **Op. Cit.** ,
 p. 143] So collectivist and communist anarchists agree with their Mutualist
 cousins when they state that _"[a]ll credit presupposes labour, and, if labour
 were to cease, credit would be impossible"_ and that the _"legitimate source
 of credit"_ was _"the labouring classes"_ who _"ought to control it"_ and for
-_"whose benefit [it should] be used"_. [Dana, **Op. Cit.**, p. 35]
+_"whose benefit [it should] be used"_. [Dana, **Op. Cit.** , p. 35]
 
 Therefore, in collectivism, investment funds would exist for syndicates,
-communes and their in community (_"People's"_) banks. These would be used to
+communes and their in community ( _"People's"_ ) banks. These would be used to
 store depreciation funds and as well as other funds agreed to by the
 syndicates for investment projects (for example, confederations of syndicates
 may agree to allocate a certain percentage of their labour notes to a common
@@ -2090,9 +2098,9 @@ output and activity will be directed to investment projects. In effect, each
 syndicate is able to draw upon the resources approved of by the co-operative
 commonwealth in the form of an agreed claim on the labour power of society
 (investment _"is essentially an allocation of material and labour, and
-fundamentally, an allocation of human productive power."_ [Cole, **Op. Cit.**,
-pp. 144-5]). In this way, mutual aid ensures a suitable pool of resources for
-the future from which all benefit.
+fundamentally, an allocation of human productive power."_ [Cole, **Op. Cit.**
+, pp. 144-5]). In this way, mutual aid ensures a suitable pool of resources
+for the future from which all benefit.
 
 It should be remembered that savings are not required before credit can be
 issued. Under capitalism, for example, banks regularly issue credit in excess
@@ -2122,7 +2130,7 @@ above the production unit become effective in the form of demand for the
 current output of the syndicates which have the capacity to produce the goods
 required. This would require each syndicate to _"prepare a budget, showing its
 estimate of requirements both of goods or services for immediate use, and of
-extensions and improvements."_ [Cole, **Op. Cit.**, p. 145] These budgets and
+extensions and improvements."_ [Cole, **Op. Cit.** , p. 145] These budgets and
 investment projects would be discussed at the appropriate level of the
 confederation (in this, communist-anarchism would be similar to collectivist
 anarchism).
@@ -2175,10 +2183,10 @@ projects. The tasks of ensuring investment production, making orders for
 specific goods and so forth, would be as decentralised as other aspects of a
 free economy and so anarchism _"proposes . . . [t]hat usufruct of instruments
 of production -- land included -- should be free to all workers, or groups of
-workers"_, that _"workers should group themselves, and arrange their work as
+workers"_ , that _"workers should group themselves, and arrange their work as
 their reason and inclination prompt"_ and that _"the necessary connections
 between the various industries . . . should be managed on the same voluntary
-principle."_ [Charlotte M. Wilson, **Anarchist Essays**, p. 21]
+principle."_ [Charlotte M. Wilson, **Anarchist Essays** , p. 21]
 
 As for when investment is needed, it is clear that this will be based on the
 changes in demand for goods in both collectivist and communist anarchism. As
@@ -2186,18 +2194,18 @@ Guilliaume put it: _"By means of statistics gathered from all the communes in
 a region, it will be possible to scientifically balance production and
 consumption. In line with these statistics, it will also be possible to add
 more help in industries where production is insufficient and reduce the number
-of men where there is a surplus of production."_ [_"On Building the New Social
-Order"_, pp. 356-79, **Bakunin on Anarchism**, p. 370] Obviously, investment
-in branches of production with a high demand would be essential and this would
-be easily seen from the statistics generated by the collectives and communes.
-Tom Brown made this obvious point:
+of men where there is a surplus of production."_ [ _"On Building the New
+Social Order"_ , pp. 356-79, **Bakunin on Anarchism** , p. 370] Obviously,
+investment in branches of production with a high demand would be essential and
+this would be easily seen from the statistics generated by the collectives and
+communes. Tom Brown made this obvious point:
 
 > _"Goods, as now, will be produced in greater variety, for workers like
-producing different kinds, and new models, of goods. Now if some goods are
-unpopular, they will be left on the shelves . . . Of other goods more popular,
-the shops will be emptied. Surely it is obvious that the [shop] assistant will
-decrease his order of the unpopular line and increase his order of the
-popular."_ [**Syndicalism**, p. 55]
+> producing different kinds, and new models, of goods. Now if some goods are
+> unpopular, they will be left on the shelves . . . Of other goods more
+> popular, the shops will be emptied. Surely it is obvious that the [shop]
+> assistant will decrease his order of the unpopular line and increase his
+> order of the popular."_ [ **Syndicalism** , p. 55]
 
 As a rule of thumb, syndicates that produce investment goods would be inclined
 to supply other syndicates who are experiencing excess demand before others,
@@ -2279,7 +2287,7 @@ mundane chores associated with production; advanced communications technology
 can enhance our ability to freely associate. The list is endless. So the vast
 majority of anarchists agree with Kropotkin's comment that the _"development
 of [the industrial] technique at last gives man [sic!] the opportunity to free
-himself from slavish toil."_ [**Ethics**, p. 2]
+himself from slavish toil."_ [ **Ethics** , p. 2]
 
 For example, increased productivity under capitalism usually leads to further
 exploitation and domination, displaced workers, economic crisis, etc. However,
@@ -2287,13 +2295,13 @@ it does not have to so in an anarchist world. By way of example, consider a
 commune in which 5 people desire to be bakers (or 5 people are needed to work
 the communal bakery) and 20 hours of production per person, per week is spent
 on baking bread. Now, what happens if the introduction of automation, **as
-desired, planned and organised by the workers themselves**, reduces the amount
-of labour required for bread production to 15 person-hours per week? Clearly,
-no one stands to lose -- even if someone's work is "displaced" that person
-will continue to receive the same access to the means of life as before -- and
-they might even gain. This last is due to the fact that 5 person-hours have
-been freed up from the task of bread production, and those person-hours may
-now be used elsewhere or converted to leisure, either way increasing each
+desired, planned and organised by the workers themselves** , reduces the
+amount of labour required for bread production to 15 person-hours per week?
+Clearly, no one stands to lose -- even if someone's work is "displaced" that
+person will continue to receive the same access to the means of life as before
+-- and they might even gain. This last is due to the fact that 5 person-hours
+have been freed up from the task of bread production, and those person-hours
+may now be used elsewhere or converted to leisure, either way increasing each
 person's standard of living.
 
 Obviously, this happy outcome derives not only from the technology used, but
@@ -2310,12 +2318,12 @@ aware that, to quote expert David Noble, _"Capital invested in machines that
 would re-enforce the system of domination [within the capitalist workplace],
 and this decision to invest, which might in the long run render the chosen
 technology economical, was not itself an economical decision but a political
-one, with cultural sanction."_ [**Progress Without People**, p. 6] In a
+one, with cultural sanction."_ [ **Progress Without People** , p. 6] In a
 hierarchical society, technology will be introduced that serves the interests
-of the powerful and helps marginalise and disempower the majority
-(_"technology is political,"_ to use Noble's expression). It does not evolve
-in isolation from human beings and the social relationships and power
-structures between them.
+of the powerful and helps marginalise and disempower the majority (
+_"technology is political,"_ to use Noble's expression). It does not evolve in
+isolation from human beings and the social relationships and power structures
+between them.
 
 It is for these reasons that anarchists have held a wide range of opinions
 concerning the relationship between human knowledge and anarchism. Some, such
@@ -2325,32 +2333,33 @@ technology at arm's length, concerned about its oppressive uses, and a few
 have rejected science and technology completely. All of these are, of course,
 possible anarchist positions. But most anarchists support Kropotkin's
 viewpoint, but with a healthy dose of practical Luddism when viewing how
-technology is (ab)used in capitalism (_"The worker will only respect machinery
-**in the day** when it becomes his friend, shortening his work, rather than as
-**today,** his enemy, taking away jobs, killing workers."_ [Emile Pouget
-quoted by Noble, **Op. Cit.**, p. 15]). Vernon Richards stated the obvious:
+technology is (ab)used in capitalism ( _"The worker will only respect
+machinery **in the day** when it becomes his friend, shortening his work,
+rather than as **today,** his enemy, taking away jobs, killing workers."_
+[Emile Pouget quoted by Noble, **Op. Cit.** , p. 15]). Vernon Richards stated
+the obvious:
 
 > _"We maintain that the term 'productivity' has meaning, or is socially
-important, only when all production serves a public need . . . _
+> important, only when all production serves a public need . . ._
 
 > _"Productivity has meaning if it results both in a raising of living
-standards and an increase of leisure for all._
+> standards and an increase of leisure for all._
 
 > _"'Productivity' in the society we live in, because it is not a means to a
-social end, but is the means whereby industrialists hope to make greater
-profits for themselves and their shareholders, should be resolutely resisted
-by the working people, for it brings them neither greater leisure nor
-liberation from wage-slavery. Indeed for many it means unemployment . . . _
+> social end, but is the means whereby industrialists hope to make greater
+> profits for themselves and their shareholders, should be resolutely resisted
+> by the working people, for it brings them neither greater leisure nor
+> liberation from wage-slavery. Indeed for many it means unemployment . . ._
 
 > _"The attempts by managers and the technocrats to streamline industry are
-resisted intuitively by most work people even if they haven't two political
-ideas in their heads to knock together, not because they are resistant to
-change **per se** but because they cannot see that 'change' will do them any
-good. And of course they are right! Such an attitude is nevertheless a
-negative one, and the task of anarchist propagandists should be to make them
-aware of this and point to the only alternative, which, in broad terms, is
-that the producers of wealth must control it for the benefit of all."_ [**Why
-Work?**, Vernon Richards (ed.), p. 206]
+> resisted intuitively by most work people even if they haven't two political
+> ideas in their heads to knock together, not because they are resistant to
+> change **per se** but because they cannot see that 'change' will do them any
+> good. And of course they are right! Such an attitude is nevertheless a
+> negative one, and the task of anarchist propagandists should be to make them
+> aware of this and point to the only alternative, which, in broad terms, is
+> that the producers of wealth must control it for the benefit of all."_ [
+> **Why Work?** , Vernon Richards (ed.), p. 206]
 
 This means that in an anarchist society, technology would have to be
 transformed and/or developed which empowered those who used it, so reducing
@@ -2362,8 +2371,8 @@ therefore, as hitherto been done, the curse of misery and degradation upon
 vast divisions of mankind, in order to secure well-being and further
 development for the few, is needed no more: well-being can be secured for all,
 without placing on anyone the burden of oppressive, degrading toil and
-humanity can at last build its entire social life on the basis of justice."_
-[**Op. Cit.**, p. 2] The question is, for most anarchists, how can we humanise
+humanity can at last build its entire social life on the basis of justice."_ [
+**Op. Cit.** , p. 2] The question is, for most anarchists, how can we humanise
 and modify this technology and make it socially and individually liberatory,
 rather than destroying it (where applicable, of course, certain forms of
 technology and industry will be eliminated due to their inherently destructive
@@ -2374,8 +2383,8 @@ industry was for _"the workers [to] lay hands on factories, houses and banks"_
 and so _"present production would be completely revolutionised by this simple
 fact."_ This would be the start of a process which would **integrate**
 industry and agriculture, as it was _"essential that work-shops, foundries and
-factories develop within the reach of the fields."_ [**The Conquest of
-Bread**, p. 190] Such a process would obviously involve the transformation of
+factories develop within the reach of the fields."_ [ **The Conquest of
+Bread** , p. 190] Such a process would obviously involve the transformation of
 both the structure and technology of capitalism rather than its simple and
 unthinking application. As discussed in [section A.3.9](secA3.md#seca39),
 while a few anarchists do seek to eliminate all forms of technology, most
@@ -2386,8 +2395,8 @@ infinitely too numerous today to exist . . . on the simple gifts of nature . .
 technology was, like Kropotkin's, to place it at the service of those who use
 it, to create _"the intimate and complete union of capital and labour"_ so
 that it would _"not . . . remain concentrated in the hands of a separate,
-exploiting class."_ Only this could _"smash the tyranny of capital."_ [**The
-Basic Bakunin**, pp. 90-1] So most anarchists seek to transform rather then
+exploiting class."_ Only this could _"smash the tyranny of capital."_ [ **The
+Basic Bakunin** , pp. 90-1] So most anarchists seek to transform rather then
 eliminate technology and to do that we need to be in possession of the means
 of production before we can decide what to keep, what to change and what to
 throw away as inhuman. In other words, it is not enough to get rid of the
@@ -2434,7 +2443,7 @@ ecological needs rather the power and profits of a minority.
 Explicit in anarchism is the belief that capitalist and statist methods cannot
 be used for socialist and libertarian ends. In our struggle for workers' and
 community self-management is the awareness that workplaces are not merely
-sites of production -- they are also sites of **re**production, the
+sites of production -- they are also sites of **re** production, the
 reproduction of certain social relationships based on specific relations of
 authority between those who give orders and those who take them. The battle to
 democratise the workplace, to place the collective initiative of the direct
@@ -2443,21 +2452,21 @@ transform the workplace, the nature of work and, by necessity, technology as
 well. As Kropotkin argued:
 
 > _"revolution is more than a mere change of the prevailing political system.
-It implies the awakening of human intelligence, the increasing of the
-inventive spirit tenfold, a hundredfold; it is the dawn of a new science . . .
-It is a revolution in the minds of men, as deep, and deeper still, than in
-their institutions . . . the sole fact of having laid hands on middle-class
-property will imply the necessity of completely re-organising the whole of
-economic life in the workplaces, the dockyards, the factories."_ [**Op.
-Cit.**, p. 192]
+> It implies the awakening of human intelligence, the increasing of the
+> inventive spirit tenfold, a hundredfold; it is the dawn of a new science . .
+> . It is a revolution in the minds of men, as deep, and deeper still, than in
+> their institutions . . . the sole fact of having laid hands on middle-class
+> property will imply the necessity of completely re-organising the whole of
+> economic life in the workplaces, the dockyards, the factories."_ [ **Op.
+> Cit.** , p. 192]
 
 And some think that industry and technology will remain unchanged by such a
 process and that workers will continue doing the same sort of work, in the
 same way, using the same methods!
 
 For Kropotkin _"all production has taken a wrong direction, as it is not
-carried on with a view to securing well-being for all"_ under capitalism.
-[**Op. Cit.**, p. 101] Well-being for all obviously includes those who do the
+carried on with a view to securing well-being for all"_ under capitalism. [
+**Op. Cit.** , p. 101] Well-being for all obviously includes those who do the
 producing and so covers the structure of industry and the technological
 processes used. Similarly, well-being also includes a person's environment and
 surroundings and so technology and industry must be evaluated on an ecological
@@ -2490,7 +2499,7 @@ restores people once again to their proper role as subjects of the story,
 rather than mere pawns of technology . . . And technological development
 itself, now seen as a social construct, becomes a new variable rather than a
 first cause, consisting of a range of possibilities and promising a
-multiplicity of futures."_ [**Forces of Production**, pp. 324-5]
+multiplicity of futures."_ [ **Forces of Production** , pp. 324-5]
 
 This does not mean that we have to reject all technology and industry because
 it has been shaped by, or developed within, class society. Certain
@@ -2526,7 +2535,7 @@ commitments"_ agreed by the communes and their federations and _"their
 delegates to congresses of the . . . Confederation of Autonomous Libertarian
 Communes will be empowered to enter into economic contacts with other
 agricultural and industrial Communes."_ [quoted by Jose Peirats, **The CNT in
-the Spanish Revolution**, vol. 1, p. 106]
+the Spanish Revolution** , vol. 1, p. 106]
 
 For most anarchists, though, technological advancement is important in a free
 society in order to maximise the free time available for everyone and replace
@@ -2562,31 +2571,32 @@ small factories, artisan workshops, service and repair shops, etc. Augustin
 Souchy describes the process as follows:
 
 > _"The artisans and small workshop owners, together with their employees and
-apprentices, often joined the union of their trade. By consolidating their
-efforts and pooling their resources on a fraternal basis, the shops were able
-to undertake very big projects and provide services on a much wider scale . .
-. The collectivisation of the hairdressing shops provides an excellent example
-of how the transition of a small-scale manufacturing and service industry from
-capitalism to socialism was achieved . . ._
+> apprentices, often joined the union of their trade. By consolidating their
+> efforts and pooling their resources on a fraternal basis, the shops were
+> able to undertake very big projects and provide services on a much wider
+> scale . . . The collectivisation of the hairdressing shops provides an
+> excellent example of how the transition of a small-scale manufacturing and
+> service industry from capitalism to socialism was achieved . . ._
 
 > _"Before July 19th, 1936 [the date of the Revolution], there were 1,100
-hairdressing parlours in Barcelona, most of them owned by poor wretches living
-from hand to mouth. The shops were often dirty and ill-maintained. The 5,000
-hairdressing assistants were among the most poorly paid workers . . . Both
-owners and assistants therefore voluntarily decided to socialise all their
-shops._
+> hairdressing parlours in Barcelona, most of them owned by poor wretches
+> living from hand to mouth. The shops were often dirty and ill-maintained.
+> The 5,000 hairdressing assistants were among the most poorly paid workers .
+> . . Both owners and assistants therefore voluntarily decided to socialise
+> all their shops._
 
 > _"How was this done? All the shops simply joined the union. At a general
-meeting they decided to shut down all the unprofitable shops. The 1,100 shops
-were reduced to 235 establishments, a saving of 135,000 pesetas per month in
-rent, lighting, and taxes. The remaining 235 shops were modernised and
-elegantly outfitted. From the money saved, wages were increased by 40%.
-Everyone having the right to work and everyone received the same wages. The
-former owners were not adversely affected by socialisation. They were employed
-at a steady income. All worked together under equal conditions and equal pay.
-The distinction between employers and employees was obliterated and they were
-transformed into a working community of equals -- socialism from the bottom
-up."_ [**The Anarchist Collectives**, Sam Dolgoff (ed.), pp. 93-94]
+> meeting they decided to shut down all the unprofitable shops. The 1,100
+> shops were reduced to 235 establishments, a saving of 135,000 pesetas per
+> month in rent, lighting, and taxes. The remaining 235 shops were modernised
+> and elegantly outfitted. From the money saved, wages were increased by 40%.
+> Everyone having the right to work and everyone received the same wages. The
+> former owners were not adversely affected by socialisation. They were
+> employed at a steady income. All worked together under equal conditions and
+> equal pay. The distinction between employers and employees was obliterated
+> and they were transformed into a working community of equals -- socialism
+> from the bottom up."_ [ **The Anarchist Collectives** , Sam Dolgoff (ed.),
+> pp. 93-94]
 
 The collectives, as well as improving working conditions, also ensured access
 to other goods and services which market forces had previously denied working
@@ -2601,7 +2611,7 @@ collective organise _"one or two free schools for the children"_ and _"almost
 wiped out illiteracy"_ (over 70% of rural Spain was illiterate before the
 Civil War). It also organised a _"University of Moncada"_ which _"gave courses
 in animal husbandry, poultry raising. animal breeding, agriculture, tree
-science, etc."_ [Gaston Leval, **Op. Cit.**, p. 156 and p. 125]
+science, etc."_ [Gaston Leval, **Op. Cit.** , p. 156 and p. 125]
 
 These examples, social anarchists argue, show that co-operation ensures that
 resources are efficiently allocated and waste is minimised by cutting down
@@ -2614,7 +2624,7 @@ consumer co-operatives and productive units, there is little danger that
 rationalisation in production will hurt the interests of the consumer).
 
 Another way in which wide distribution of surplus can be advantageous is in
-Research and Development (R&amp;D). By creating a fund for research and
+Research and Development (R&D). By creating a fund for research and
 development which is independent of the fortunes of individual syndicates,
 society as a whole can be improved by access to useful new technologies and
 processes. Therefore, in a libertarian socialist society, people (both within
@@ -2645,24 +2655,23 @@ stressed that basic research is not something which free-market capitalism
 does well. As Doug Henwood notes, basic science research _"is heavily funded
 by the public sector and non-profit institutions like universities."_ The
 internet and computer, for example, were both projects for the Pentagon and
-_"the government picked up the basic R&amp;D tab for decades, when neither
-Wall Street nor private industry showed any interest. In fact, capital only
-became interested when the start-up costs had all been borne by the public
-sector and there were finally profits to be made . . . good American
-individualists don't like to talk about the public sector, since their hero is
-the plucky entrepreneur."_ [**After the New Economy**, p. 196 and p. 6] The
-rise of such systems across the world indicates that basic research often
-needs public support in order to be done. Even such a leading neo-classical
-economist as Kenneth Arrow had to admit in the 1960s that market forces are
-insufficient:
+_"the government picked up the basic R &D tab for decades, when neither Wall
+Street nor private industry showed any interest. In fact, capital only became
+interested when the start-up costs had all been borne by the public sector and
+there were finally profits to be made . . . good American individualists don't
+like to talk about the public sector, since their hero is the plucky
+entrepreneur."_ [ **After the New Economy** , p. 196 and p. 6] The rise of
+such systems across the world indicates that basic research often needs public
+support in order to be done. Even such a leading neo-classical economist as
+Kenneth Arrow had to admit in the 1960s that market forces are insufficient:
 
 > _"basic research, the output of which is only used as an informational input
-into other inventive activities, is especially unlikely to be rewarded. In
-fact, it is likely to be of commercial value to the firm undertaking it only
-if other firms are prevented from using the information. But such restriction
-reduces the efficiency of inventive activity in general, and will therefore
-reduce its quantity also."_ [quoted by David Schweickart, **Against
-capitalism**, p. 132]
+> into other inventive activities, is especially unlikely to be rewarded. In
+> fact, it is likely to be of commercial value to the firm undertaking it only
+> if other firms are prevented from using the information. But such
+> restriction reduces the efficiency of inventive activity in general, and
+> will therefore reduce its quantity also."_ [quoted by David Schweickart,
+> **Against capitalism** , p. 132]
 
 Nothing has changed since. Would modern society have produced so many
 innovations if it had not been for the Pentagon system, the space race and so
@@ -2675,52 +2684,53 @@ that it is unlikely that a pure market based system could have generated most
 of the technology we take for granted. As Noam Chomsky argues:
 
 > _"[Alan] Greenspan [then head of the US Federal Reserve] gave a talk to
-newspaper editors in the US. He spoke passionately about the miracles of the
-market, the wonders brought by consumer choice, and so on. He also gave
-examples: the Internet, computers, information processing, lasers, satellites,
-transistors. It's an interesting list: these are textbook examples of
-creativity and production in the public sector. In the case of the Internet,
-for 30 years it was designed, developed and funded primarily in the public
-sector, mostly the Pentagon, then the National Science Foundation -- that's
-most of the hardware, the software, new ideas, technology, and so on. In just
-the last couple of years it has been handed over to people like Bill Gates . .
-. In the case of the Internet, consumer choice was close to zero, and during
-the crucial development stages that same was true of computers, information
-processing, and all the rest . . . _
+> newspaper editors in the US. He spoke passionately about the miracles of the
+> market, the wonders brought by consumer choice, and so on. He also gave
+> examples: the Internet, computers, information processing, lasers,
+> satellites, transistors. It's an interesting list: these are textbook
+> examples of creativity and production in the public sector. In the case of
+> the Internet, for 30 years it was designed, developed and funded primarily
+> in the public sector, mostly the Pentagon, then the National Science
+> Foundation -- that's most of the hardware, the software, new ideas,
+> technology, and so on. In just the last couple of years it has been handed
+> over to people like Bill Gates . . . In the case of the Internet, consumer
+> choice was close to zero, and during the crucial development stages that
+> same was true of computers, information processing, and all the rest . . ._
 
 > _"In fact, of all the examples that Greenspan gives, the only one that maybe
-rises above the level of a joke is transistors, and they are an interesting
-case. Transistors, in fact, were developed in a private laboratory -- Bell
-Telephone Laboratories of AT&amp;T -- which also made major contributions to
-solar cells, radio astronomy, information theory, and lots of other important
-things. But what is the role of markets and consumer choice in that? Well,
-again, it turns out, zero. AT&amp;T was a government supported monopoly, so
-there was no consumer choice, and as a monopoly they could charge high prices:
-in effect a tax on the public which they could use for institutions like Bell
-Laboratories . . . So again, it's publicly subsidised. As if to demonstrate
-the point, as soon as the industry was deregulated, Bell Labs went out of
-existence, because the public wasn't paying for it any more . . . But that's
-only the beginning of the story. True, Bell invented transistors, but they
-used wartime technology, which, again, was publicly subsidised and state-
-initiated. Furthermore, there was nobody to buy transistors at that time,
-because they were very expensive to produce. So, for ten years the government
-was the major procurer . . . Government procurement provided entrepreneurial
-initiatives and guided the development of the technology, which could then be
-disseminated to industry."_ [**Rogue States**, pp. 192-3]
+> rises above the level of a joke is transistors, and they are an interesting
+> case. Transistors, in fact, were developed in a private laboratory -- Bell
+> Telephone Laboratories of AT &T -- which also made major contributions to
+> solar cells, radio astronomy, information theory, and lots of other
+> important things. But what is the role of markets and consumer choice in
+> that? Well, again, it turns out, zero. AT&T was a government supported
+> monopoly, so there was no consumer choice, and as a monopoly they could
+> charge high prices: in effect a tax on the public which they could use for
+> institutions like Bell Laboratories . . . So again, it's publicly
+> subsidised. As if to demonstrate the point, as soon as the industry was
+> deregulated, Bell Labs went out of existence, because the public wasn't
+> paying for it any more . . . But that's only the beginning of the story.
+> True, Bell invented transistors, but they used wartime technology, which,
+> again, was publicly subsidised and state-initiated. Furthermore, there was
+> nobody to buy transistors at that time, because they were very expensive to
+> produce. So, for ten years the government was the major procurer . . .
+> Government procurement provided entrepreneurial initiatives and guided the
+> development of the technology, which could then be disseminated to
+> industry."_ [ **Rogue States** , pp. 192-3]
 
 The free market can also have a negative impact on innovation. This is
 because, in order to please shareholders with higher share prices, companies
-may reduce funds available for real investment as well as R&amp;D which would
-also depress growth and employment in the long term. What shareholders might
-condemn as "uneconomic" (investment projects and R&amp;D) can, and does, make
+may reduce funds available for real investment as well as R&D which would also
+depress growth and employment in the long term. What shareholders might
+condemn as "uneconomic" (investment projects and R&D) can, and does, make
 society as a whole better off. However, these gains are over the long term
 and, within capitalism, it is short-term gains which count. Higher share
 prices in the here and now are essential in order to survive and so see the
 long-run.
 
 A socialised economy with a wide-scale sharing of surpluses and resources
-could easily allocate resources for R&amp;D, long term investment, innovation
-and so on. Via the use of mutual banks or confederations of syndicates and
+could easily allocate resources for R&D, long term investment, innovation and
+so on. Via the use of mutual banks or confederations of syndicates and
 communes, resources could be allocated which take into account the importance
 of long-term priorities, as well as social costs, which are not taken into
 account (indeed, are beneficial to ignore) under capitalism. Rather than
@@ -2742,8 +2752,8 @@ technological developments, a wide basis of surplus distribution would help
 improve the skills and knowledge of the members of a community. As Keynesian
 economist Michael Stewart points out, _"[t]here are both theoretical and
 empirical reasons to suppose that market forces under-provide research and
-development expenditures, as well as both education and training."_ [**Keynes
-in the 1990s**, p. 77]
+development expenditures, as well as both education and training."_ [ **Keynes
+in the 1990s** , p. 77]
 
 By socialising training via confederations of workplaces, syndicates could
 increase productivity via increasing the skill levels of their members. Higher
@@ -2760,22 +2770,22 @@ confederations will have their own research institutions but the innovatory
 role of the interested "amateur" cannot be over-rated. As Kropotkin argued:
 
 > _"What is needed to promote the spirit of innovation is . . . the awakening
-of thought, the boldness of conception, which our entire education causes to
-languish; it is the spreading of a scientific education, which would increase
-the numbers of inquirers a hundred-fold; it is faith that humanity is going to
-take a step forward, because it is enthusiasm, the hope of doing good, that
-has inspired all the great inventors. The Social Revolution alone can give
-this impulse to thought, this boldness, this knowledge, this conviction of
-working for all._
+> of thought, the boldness of conception, which our entire education causes to
+> languish; it is the spreading of a scientific education, which would
+> increase the numbers of inquirers a hundred-fold; it is faith that humanity
+> is going to take a step forward, because it is enthusiasm, the hope of doing
+> good, that has inspired all the great inventors. The Social Revolution alone
+> can give this impulse to thought, this boldness, this knowledge, this
+> conviction of working for all._
 
 > _"Then we shall have vast institutes . . . immense industrial laboratories
-open to all inquirers, where men will be able to work out their dreams, after
-having acquitted themselves of their duty towards society; . . . where they
-will make their experiments; where they will find other comrades, experts in
-other branches of industry, likewise coming to study some difficult problem,
-and therefore able to help and enlighten each other -- the encounter of their
-ideas and experiences causing the longed-for solution to be found."_ [**The
-Conquest of Bread**, p. 117]
+> open to all inquirers, where men will be able to work out their dreams,
+> after having acquitted themselves of their duty towards society; . . . where
+> they will make their experiments; where they will find other comrades,
+> experts in other branches of industry, likewise coming to study some
+> difficult problem, and therefore able to help and enlighten each other --
+> the encounter of their ideas and experiences causing the longed-for solution
+> to be found."_ [ **The Conquest of Bread** , p. 117]
 
 The example of free software (operating systems, programming languages,
 specific packages and code) today shows the potential of this. Thus
@@ -2785,16 +2795,16 @@ also provide the community spirit required to push the boundaries of science
 forward. As John O'Neil argues:
 
 > _"There is, in a competitive market economy, a disincentive to communicate
-information. The market encourages secrecy, which is inimical to openness in
-science. It presupposes a view of property in which the owner has rights to
-exclude others. In the sphere of science, such rights of exclusion place
-limits on the communication of information and theories which are incompatible
-with the growth of knowledge . . . science tends to grow when communication is
-open. . . [In addition a] necessary condition for the acceptability of a
-theory or experimental result is that it pass the public, critical scrutiny of
-competent scientific judges. A private theory or result is one that is
-shielded from the criteria of scientific acceptability."_ [**The Market**, p.
-153]
+> information. The market encourages secrecy, which is inimical to openness in
+> science. It presupposes a view of property in which the owner has rights to
+> exclude others. In the sphere of science, such rights of exclusion place
+> limits on the communication of information and theories which are
+> incompatible with the growth of knowledge . . . science tends to grow when
+> communication is open. . . [In addition a] necessary condition for the
+> acceptability of a theory or experimental result is that it pass the public,
+> critical scrutiny of competent scientific judges. A private theory or result
+> is one that is shielded from the criteria of scientific acceptability."_ [
+> **The Market** , p. 153]
 
 Today inventors often _"carefully hide their inventions from each other, as
 they are hampered by patents and Capitalism -- that bane of present society,
@@ -2804,10 +2814,10 @@ upon the knowledge of everyone, including past generations. Rather than hide
 knowledge from others, in case they get a competitive advantage, knowledge
 would be shared, enriching all involved as well as the rest of society. Thus
 the _"spreading of a scientific education, which would increase the number of
-inquirers"_, _"faith that humanity is going to take a step forward"_ and the
+inquirers"_ , _"faith that humanity is going to take a step forward"_ and the
 _"enthusiasm, the hope of doing good, that has inspired all the great
 inventors"_ will be maximised and innovation increased. [Kropotkin, **Op.
-Cit.**, p. 117 and pp. 116-7]
+Cit.** , p. 117 and pp. 116-7]
 
 Social anarchists would also suggest that socialisation would produce more
 benefits by looking at existing societies. The evidence from the UK, USA,
@@ -2878,44 +2888,44 @@ distribution of surpluses. Competition harms health-care provision and, as a
 result, people. According to Alfie Kohn:
 
 > _"More hospitals and clinics are being run by for-profit corporations; many
-institutions, forced to battle for 'customers,' seem to value a skilled
-director of marketing more highly than a skilled caregiver. As in any other
-economic sector, the race for profits translates into pressure to reduce
-costs, and the easiest way to do it here is to cut back on services to
-unprofitable patients, that is, those who are more sick than rich . . . The
-result: hospital costs are actually **higher** in areas where there is more
-competition for patients."_ [**No Contest**, p. 240]
+> institutions, forced to battle for 'customers,' seem to value a skilled
+> director of marketing more highly than a skilled caregiver. As in any other
+> economic sector, the race for profits translates into pressure to reduce
+> costs, and the easiest way to do it here is to cut back on services to
+> unprofitable patients, that is, those who are more sick than rich . . . The
+> result: hospital costs are actually **higher** in areas where there is more
+> competition for patients."_ [ **No Contest** , p. 240]
 
 American Liberal Robert Kuttner concurs:
 
 > _"The American health-care system is a tangle of inequity and inefficiency
--- and getting worse as private-market forces seek to rationalise it. A shift
-to a universal system of health coverage would cut this Gordian knot at a
-stroke. It would not only deliver the explicitly medical aspects of health
-more efficiently and fairly, but, by socialising costs of poor health, it
-would also create a powerful financial incentive for society as a whole to
-stress primary prevention. . . every nation with a universal system spends
-less of its GDP on health care than the United States . . . And nearly every
-other nation with a universal system has longer life spans from birth (though
-roughly equivalent life spans from adulthood) . . . most nations with
-universal systems also have greater patient satisfaction._
+> -- and getting worse as private-market forces seek to rationalise it. A
+> shift to a universal system of health coverage would cut this Gordian knot
+> at a stroke. It would not only deliver the explicitly medical aspects of
+> health more efficiently and fairly, but, by socialising costs of poor
+> health, it would also create a powerful financial incentive for society as a
+> whole to stress primary prevention. . . every nation with a universal system
+> spends less of its GDP on health care than the United States . . . And
+> nearly every other nation with a universal system has longer life spans from
+> birth (though roughly equivalent life spans from adulthood) . . . most
+> nations with universal systems also have greater patient satisfaction._
 
 > _"The reasons . . . should be obvious. By their nature, universal systems
-spend less money on wasteful overhead, and more on primary prevention. Health-
-insurance overhead in the United States alone consumes about 1 percent of the
-GDP, compared to 0.1 percent in Canada. Though medical inflation is a problem
-everywhere, the universal systems have had far lower rates of cost inflation .
-. . In the years between 1980 and 1987, total health costs in the United
-States increased by 2.4 times the rate of GDP growth. In nations with
-universal systems, they increased far more slowly. The figures for Sweden,
-France, West Germany, and Britain were 1.2, 1.6, 1.8, and 1.7 percent,
-respectively . . ._
+> spend less money on wasteful overhead, and more on primary prevention.
+> Health-insurance overhead in the United States alone consumes about 1
+> percent of the GDP, compared to 0.1 percent in Canada. Though medical
+> inflation is a problem everywhere, the universal systems have had far lower
+> rates of cost inflation . . . In the years between 1980 and 1987, total
+> health costs in the United States increased by 2.4 times the rate of GDP
+> growth. In nations with universal systems, they increased far more slowly.
+> The figures for Sweden, France, West Germany, and Britain were 1.2, 1.6,
+> 1.8, and 1.7 percent, respectively . . ._
 
 > _"Remarkably enough, the United States spends most money on health care, but
-has the fewest beds per thousand in population, the lowest admission rate, and
-the lowest occupancy rate -- coupled with the highest daily cost, highest
-technology-intensiveness, and greatest number of employees per bed."_
-[**Everything for Sale**, pp. 155-6]
+> has the fewest beds per thousand in population, the lowest admission rate,
+> and the lowest occupancy rate -- coupled with the highest daily cost,
+> highest technology-intensiveness, and greatest number of employees per
+> bed."_ [ **Everything for Sale** , pp. 155-6]
 
 In 1993, the US paid 13.4% of its GDP towards health care, compared to 10% for
 Canada, 8.6% for Sweden and Germany, 6.6% for Britain and 6.8% for Japan. Only
@@ -2973,7 +2983,7 @@ so on). In other words, do not take our discussion here on the "profit motive"
 to imply a denial of self-interest, quite the reverse. Anarchists simply
 reject the _"narrow concept of life which consist[s] in thinking that
 **profits** are the only leading motive of human society."_ [Peter Kropotkin,
-**Fields, Factories and Workshops Tomorrow**, p. 25]
+**Fields, Factories and Workshops Tomorrow** , p. 25]
 
 Secondly, we cannot hope to deal fully with the harmful effects of competition
 and the profit motive. For more information, we recommend Alfie Kohn's **No
@@ -2993,9 +3003,9 @@ Amabile, associate professor of psychology at Brandeis University. She has
 consistently found that those promised rewards did the least creative work:
 _"rewards killed creativity, and this was true regardless of the type of task,
 the type of reward, the timing of the reward or the age of the people
-involved."_ [**Punished by Rewards**, p. 45] Such research casts doubt on the
-claim that financial reward is the only effective way -- or even the best way
--- to motivate people. They challenge the behaviourist assumption that any
+involved."_ [ **Punished by Rewards** , p. 45] Such research casts doubt on
+the claim that financial reward is the only effective way -- or even the best
+way -- to motivate people. They challenge the behaviourist assumption that any
 activity is more likely to occur or be better in terms of outcome if it is
 rewarded.
 
@@ -3024,14 +3034,14 @@ continually at war with each other, or those who support one another?' we at
 once see that those animals which acquire habits of mutual aid are undoubtedly
 the fittest. They have more chances to survive, and they attain, in their
 respective classes, the highest development of intelligence and bodily
-organisation."_ [**Mutual Aid**, p. 24]
+organisation."_ [ **Mutual Aid** , p. 24]
 
 It should be noted that, as one biologist points out, _"Kropotkin's ideas,
 though unorthodox, were scientifically respectable, and indeed the contention
 that mutual aid can be a means of increasing fitness had become a standard
 part of modern sociobiology."_ [Douglas H. Boucher, _"The Idea of Mutualism,
-Past and Future"_, pp. 1-28, **The Biology of Mutualism: Biology and
-Evolution**, Douglas H. Boucher (ed.), p. 17] Frans de Waal (a leading
+Past and Future"_ , pp. 1-28, **The Biology of Mutualism: Biology and
+Evolution** , Douglas H. Boucher (ed.), p. 17] Frans de Waal (a leading
 primatologist) and Jessica C. Flack argue that Kropotkin is part of a wider
 tradition _"in which the view has been that animals assist each other
 precisely because by doing so they achieve long term, collective benefits of
@@ -3041,8 +3051,8 @@ was on the mark. Almost seventy years later, in an article entitled 'The
 Evolution of Reciprocal Altruism', [Robert] Trivers refined the concepts
 Kropotkin advanced and explained how co-operation and, more importantly, a
 system of reciprocity (called 'reciprocal altruism' by Trivers) could have
-evolved."_ [_"'Any Animal Whatever': Darwinian Building Blocks of Morality in
-Monkeys and Apes"_, pp. 1-29, **Journal of Consciousness Studies**, Vol. 7,
+evolved."_ [ _"'Any Animal Whatever': Darwinian Building Blocks of Morality in
+Monkeys and Apes"_ , pp. 1-29, **Journal of Consciousness Studies** , Vol. 7,
 No. 1-2, p. 4]
 
 So modern research has reinforced Kropotkin's argument. This applies to both
@@ -3101,14 +3111,14 @@ Indeed, it means treating human beings as little better than pets or other
 animals (Kohn argues that it is _"not an accident that the theory behind 'Do
 this and you'll get that' derives from work with other species, or that
 behaviour management is frequently described in words better suited to
-animals."_) In other words, it _"is by its very nature dehumanising."_ Rather
+animals."_ ) In other words, it _"is by its very nature dehumanising."_ Rather
 than simply being motivated by outside stimuli like mindless robots, people
 are not passive. We are _"beings who possess natural curiosity about ourselves
 and our environment, who search for and overcome challenges, who try and
 master skills and attain competence, and who seek new levels of complexity in
 what we learn and do . . . in general we act on the environment as much as we
 are acted on by it, and we do not do so simply in order to receive a reward."_
-[**Punished by Rewards**, p. 24 and p. 25]
+[ **Punished by Rewards** , p. 24 and p. 25]
 
 Kohn presents extensive evidence to back upon his case that rewards harm
 activity and individuals. We cannot do justice to it here so we will present a
@@ -3116,8 +3126,8 @@ few examples. One study with college students showed that those paid to work
 on a puzzle _"spent less time on it than those who hadn't been paid"_ when
 they were given a choice of whether to work on it or not. _"It appeared that
 working for a reward made people less interested in the task."_ Another study
-with children showed that _"extrinsic rewards reduce intrinsic motivation."_
-[**Op. Cit.**, p. 70 and p. 71] Scores of other studies confirmed this. This
+with children showed that _"extrinsic rewards reduce intrinsic motivation."_ [
+**Op. Cit.** , p. 70 and p. 71] Scores of other studies confirmed this. This
 is because a reward is effectively saying that a given activity is not worth
 doing for its own sake -- and why would anyone wish to do something they have
 to be bribed to do?
@@ -3132,8 +3142,8 @@ Moreover, _"the risk of **any** incentive or pay-for-performance system is
 that it will make people less interested in their work and therefore less
 likely to approach it with enthusiasm and a commitment to excellence.
 Furthermore, **the more closely we tie compensation (or other rewards) to
-performance, the most damage we do.**"_ [**Op. Cit.**, p. 131, p. 134 and p.
-140]
+performance, the most damage we do.** "_ [ **Op. Cit.** , p. 131, p. 134 and
+p. 140]
 
 Kohn argues that the idea that humans will only work for profit or rewards
 _"can be fairly described as dehumanising"_ if _"the capacity for responsible
@@ -3145,8 +3155,8 @@ whether rewards are as innocuous as they are sometimes made out to be"_. So
 _"there is no getting around the fact that 'the basic purpose of merit pay is
 manipulative.' One observer more bluntly characterises incentives as
 'demeaning' since the message they really convey is, 'Please big daddy boss
-and you will receive the rewards that the boss deems appropriate.'"_ [**Op.
-Cit.**, p. 26]
+and you will receive the rewards that the boss deems appropriate.'"_ [ **Op.
+Cit.** , p. 26]
 
 Given that much work is controlled by others and can be a hateful experience
 under capitalism does not mean that it has to be that way. Clearly, even under
@@ -3158,12 +3168,12 @@ social anarchists have more than just hope to base their ideas. Such research
 confirms Kropotkin's comments:
 
 > _"Wage-work is serf-work; it cannot, it must not, produce all it could
-produce. And it is high time to disbelieve the legend which presents wagedom
-as the best incentive to productive work. If industry nowadays brings in a
-hundred times more than it did in the days of our grandfathers, it is due to
-the sudden awakening of physical and chemical sciences towards the end of the
-[18th] century; not to the capitalist organisation of wagedom, but **in
-spite** of that organisation."_ [**The Conquest of Bread**, p. 150]
+> produce. And it is high time to disbelieve the legend which presents wagedom
+> as the best incentive to productive work. If industry nowadays brings in a
+> hundred times more than it did in the days of our grandfathers, it is due to
+> the sudden awakening of physical and chemical sciences towards the end of
+> the [18th] century; not to the capitalist organisation of wagedom, but **in
+> spite** of that organisation."_ [ **The Conquest of Bread** , p. 150]
 
 For these reasons, social anarchists are confident that the elimination of the
 profit motive within the context of self-management will not harm productivity
@@ -3179,14 +3189,14 @@ This is a common right-wing "libertarian" objection. Robert Nozick, for
 example, imagined the following scenario:
 
 > _"small factories would spring up in a socialist society, unless forbidden.
-I melt some of my personal possessions and build a machine out of the
-material. I offer you and others a philosophy lecture once a week in exchange
-for yet other things, and so on . . . some persons might even want to leave
-their jobs in socialist industry and work full time in this private sector . .
-. [This is] how private property even in means of production would occur in a
-socialist society . . . [and so] the socialist society will have to forbid
-capitalist acts between consenting adults."_ [**Anarchy, State and Utopia**,
-pp. 162-3]
+> I melt some of my personal possessions and build a machine out of the
+> material. I offer you and others a philosophy lecture once a week in
+> exchange for yet other things, and so on . . . some persons might even want
+> to leave their jobs in socialist industry and work full time in this private
+> sector . . . [This is] how private property even in means of production
+> would occur in a socialist society . . . [and so] the socialist society will
+> have to forbid capitalist acts between consenting adults."_ [ **Anarchy,
+> State and Utopia** , pp. 162-3]
 
 There are numerous flawed assumptions in this argument and we will discuss
 them here. The key flaws are the confusion of exchange with capitalism and the
@@ -3212,19 +3222,19 @@ countervailing forces . . . existed to restrict the market economy. No less
 significantly, many precapitalist societies raised what they thought were
 insuperable obstacles to the penetration of the State into social life."_ He
 pointed to _"the power of village communities to resist the invasion of trade
-and despotic political forms into society's abiding communal substrate."
-_[**The Ecology of Freedom**, pp. 207-8] Anarchist anthropologist David
-Graeber notes that in the ancient Mediterranean world _"[w]hile one does
-periodically run into evidence of arrangements which to the modern eye look
-like wage-labour contracts, on closer examination they almost always actually
-turn out to be contracts to rent slaves . . . Free men and women thus avoided
-anything remotely like wage-labour, seeing it as a matter, effectively, of
-slavery, renting themselves out."_ This means that wage labour _"(as opposed
-to, say, receiving fees for professional services) involves a degree of
-subordination: a labourer has to be to some degree at the command of his or
-her employer. This is exactly why, through most of history, free men and women
-tended to avoid wage-labour, and why, for most of history, capitalism . . .
-never emerged."_ [**Possibilities**, p. 92]
+and despotic political forms into society's abiding communal substrate."_ [
+**The Ecology of Freedom** , pp. 207-8] Anarchist anthropologist David Graeber
+notes that in the ancient Mediterranean world _"[w]hile one does periodically
+run into evidence of arrangements which to the modern eye look like wage-
+labour contracts, on closer examination they almost always actually turn out
+to be contracts to rent slaves . . . Free men and women thus avoided anything
+remotely like wage-labour, seeing it as a matter, effectively, of slavery,
+renting themselves out."_ This means that wage labour _"(as opposed to, say,
+receiving fees for professional services) involves a degree of subordination:
+a labourer has to be to some degree at the command of his or her employer.
+This is exactly why, through most of history, free men and women tended to
+avoid wage-labour, and why, for most of history, capitalism . . . never
+emerged."_ [ **Possibilities** , p. 92]
 
 Thus while the idea that people will happily become wage slaves may be
 somewhat common place today (particularly with supporters of capitalism) the
@@ -3235,15 +3245,15 @@ the _"gap in status between a 'servant,' a hired wage-labourer subject to the
 orders and discipline of the master, and an artisan, who might 'come and go'
 as he pleased, was wide enough for men to shed blood rather than allow
 themselves to be pushed from one side to the other. And, in the value system
-of the community, those who resisted degradation were in the right."_ [**The
-Making of the English Working Class**, p. 599] Over one hundred years later,
+of the community, those who resisted degradation were in the right."_ [ **The
+Making of the English Working Class** , p. 599] Over one hundred years later,
 the rural working class of Aragon showed the same dislike of wage slavery.
 After Communist troops destroyed their self-managed collectives, the
 _"[d]ispossessed peasants, intransigent collectivists, refused to work in a
 system of private property, and were even less willing to rent out their
-labour."_ [Jose Peirats, **Anarchists in the Spanish Revolution**, p. 258] The
-rural economy collapsed as the former collectivists refused to be the servants
-of the few.
+labour."_ [Jose Peirats, **Anarchists in the Spanish Revolution** , p. 258]
+The rural economy collapsed as the former collectivists refused to be the
+servants of the few.
 
 People who have tasted freedom are unlikely to go back to oppression.
 Therefore, any perception that people will become wage-slaves through choice
@@ -3266,8 +3276,8 @@ selling themselves. For a capitalist sector to exist there must be some form
 of private ownership of productive resources, and a scarcity of alternatives.
 The workers must be in a condition of economic desperation for them to be
 willing to give up an equal voice in the management of their daily affairs and
-accept a boss."_ [_"Market Anarchism? Caveat Emptor!"_, **Libertarian Labour
-Review**, no. 13]
+accept a boss."_ [ _"Market Anarchism? Caveat Emptor!"_ , **Libertarian Labour
+Review** , no. 13]
 
 In an anarchist society, there is no need for anyone to _"forbid"_ capitalist
 acts. All people have to do is **refrain** from helping would-be capitalists
@@ -3290,18 +3300,19 @@ Thus the would-be capitalist would _"not [be] able to obtain assistance or
 people to exploit"_ and _"would find none because nobody, having a right to
 the means of production and being free to work on his own or as an equal with
 others in the large organisations of production would want to be exploited by
-a small employer"_. [Malatesta, **Errico Malatesta: His Life and Ideas**, pp.
+a small employer"_. [Malatesta, **Errico Malatesta: His Life and Ideas** , pp.
 102-103] So where would the capitalist wannabe find people to work for him? As
 Kropotkin argued:
 
 > _"Everywhere you will find that the wealth of the wealthy springs from the
-poverty of the poor. That is why an anarchist society need not fear the advent
-of a [millionaire] who would settle in its midst. If every member of the
-community knows that after a few hours of productive toil he [or she] will
-have a right to all the pleasures that civilisation procures, and to those
-deeper sources of enjoyment which art and science offer to all who seek them,
-he [or she] will not sell his strength . . . No one will volunteer to work for
-the enrichment of your [millionaire]."_ [**Conquest of Bread**, p. 61]
+> poverty of the poor. That is why an anarchist society need not fear the
+> advent of a [millionaire] who would settle in its midst. If every member of
+> the community knows that after a few hours of productive toil he [or she]
+> will have a right to all the pleasures that civilisation procures, and to
+> those deeper sources of enjoyment which art and science offer to all who
+> seek them, he [or she] will not sell his strength . . . No one will
+> volunteer to work for the enrichment of your [millionaire]."_ [ **Conquest
+> of Bread** , p. 61]
 
 However, let us suppose there is a self-employed inventor, Ferguson, who comes
 up with a new innovation without the help of the socialised sector. Would
@@ -3342,7 +3353,7 @@ which should cause them to be satisfied with pay for their services equal to
 that which other labourers get for theirs, and secure it by placing their
 products and works on the market at the outset at prices so low that their
 lines of business would be no more tempting to competitors than any other
-lines."_ [**The Anarchist Reader**, pp. 150-1]
+lines."_ [ **The Anarchist Reader** , pp. 150-1]
 
 So, if someone has labour to sell then they deserve a free society to do it in
 -- as Tucker once pointed out. Such an environment would make the numbers
@@ -3366,30 +3377,31 @@ As Mill argued: _"One of the mistakes oftenest committed, and which are the
 sources of the greatest practical errors in human affairs, is that of
 supposing that the same name always stands for the same aggregation of ideas.
 No word has been subject of more of this kind of misunderstanding that the
-word property."_ [_"Chapters on Socialism,"_ **Principles of Political
-Economy**, p. 432]
+word property."_ [ _"Chapters on Socialism,"_ **Principles of Political
+Economy** , p. 432]
 
 In other words, Nozick assumes that in **all** societies capitalist property
 rights are distributed along with consumption **and** production goods. As
 Cheyney C. Ryan comments _"[d]ifferent conceptions of justice differ not only
 in how they would apportion society's holdings but in what rights individuals
-have over their holdings once they have been apportioned."_ [_"Property Rights
-and Individual Liberty"_, pp. 323-43, **Reading Nozick**, Jeffrey Paul (Ed.),
-p. 331] This means that when goods are distributed in a libertarian socialist
-society the people who receive or take them have specific (use) rights to
-them. As long as an individual remained a member of a commune and abided by
-the rules they helped create in that commune then they would have full use of
-the resources of that commune and could use their possessions as they saw fit
-(even _"melt them down"_ to create a new machine, or whatever). If they used
-those goods to create an enterprise to employ (i.e., exploit and oppress)
-others then they have, in effect, announced their withdrawal from civilised
-society and, as a result, would be denied the benefits of co-operation. They
-would, in effect, place themselves in the same situation as someone who does
-not wish to join a syndicate (see [section I.3.7](secI3.md#seci37)). If an
-individual did desire to use resources to employ wage labour then they would
-have effectively removed themselves from _"socialist society"_ and so that
-society would bar them from using **its** resources (i.e. they would have to
-buy access to all the resources they currently took for granted).
+have over their holdings once they have been apportioned."_ [ _"Property
+Rights and Individual Liberty"_ , pp. 323-43, **Reading Nozick** , Jeffrey
+Paul (Ed.), p. 331] This means that when goods are distributed in a
+libertarian socialist society the people who receive or take them have
+specific (use) rights to them. As long as an individual remained a member of a
+commune and abided by the rules they helped create in that commune then they
+would have full use of the resources of that commune and could use their
+possessions as they saw fit (even _"melt them down"_ to create a new machine,
+or whatever). If they used those goods to create an enterprise to employ
+(i.e., exploit and oppress) others then they have, in effect, announced their
+withdrawal from civilised society and, as a result, would be denied the
+benefits of co-operation. They would, in effect, place themselves in the same
+situation as someone who does not wish to join a syndicate (see [section
+I.3.7](secI3.md#seci37)). If an individual did desire to use resources to
+employ wage labour then they would have effectively removed themselves from
+_"socialist society"_ and so that society would bar them from using **its**
+resources (i.e. they would have to buy access to all the resources they
+currently took for granted).
 
 Would this be a restriction of freedom? While it may be considered so by the
 impoverished definitions of capitalism, it is not. In fact, it mirrors the
@@ -3429,16 +3441,17 @@ stress that at least anarchist associations are based on self-management and
 so the individuals involved have an equal say in the obligations they live
 under.
 
-Notice also that Nozick confused exchange with capitalism (_"I offer you a
-lecture once a week in exchange for other things"_). This is a telling mistake
-by someone who claims to be an expert on capitalism, because the defining
-feature of capitalism is not exchange (which obviously took place long before
-capitalism existed) but labour contracts involving wage labour. Nozick's
-example is merely a direct labour contract between the producer and the
-consumer. It does not involve wage labour, what makes capitalism capitalism.
-It is only this latter type of transaction that libertarian socialism prevents
--- and not by "forbidding" it but simply by refusing to maintain the
-conditions necessary for it to occur, i.e. protection of capitalist property.
+Notice also that Nozick confused exchange with capitalism ( _"I offer you a
+lecture once a week in exchange for other things"_ ). This is a telling
+mistake by someone who claims to be an expert on capitalism, because the
+defining feature of capitalism is not exchange (which obviously took place
+long before capitalism existed) but labour contracts involving wage labour.
+Nozick's example is merely a direct labour contract between the producer and
+the consumer. It does not involve wage labour, what makes capitalism
+capitalism. It is only this latter type of transaction that libertarian
+socialism prevents -- and not by "forbidding" it but simply by refusing to
+maintain the conditions necessary for it to occur, i.e. protection of
+capitalist property.
 
 In addition, we must note that Nozick also confused _"private property in the
 means of production"_ with capitalism. Liberation socialism can be easily
@@ -3465,14 +3478,14 @@ become wage slaves, a socialist society would, probably, be less strict. As
 Bakunin argued:
 
 > _"Since the freedom of every individual is inalienable, society shall never
-allow any individual whatsoever legally to alienate his [or her] freedom or
-engage upon any contract with another on any footing but the utmost equality
-and reciprocity. It shall not, however, have the power to disbar a man or
-woman so devoid of any sense of personal dignity as to contract a relationship
-of voluntary servitude with another individual, but it will consider them as
-living off private charity and therefore unfit to enjoy political rights
-**throughout the duration of that servitude.**"_ [**Michael Bakunin: Selected
-Writings**, pp. 68-9]
+> allow any individual whatsoever legally to alienate his [or her] freedom or
+> engage upon any contract with another on any footing but the utmost equality
+> and reciprocity. It shall not, however, have the power to disbar a man or
+> woman so devoid of any sense of personal dignity as to contract a
+> relationship of voluntary servitude with another individual, but it will
+> consider them as living off private charity and therefore unfit to enjoy
+> political rights **throughout the duration of that servitude.** "_ [
+> **Michael Bakunin: Selected Writings** , pp. 68-9]
 
 Lastly, we must also note that Nozick also ignored the fact that acquisition
 **must** come before transfer, meaning that before "consenting" capitalist
@@ -3493,21 +3506,21 @@ patterned principles of justice [such as socialism] and restrictions on the
 ownership of capital . . . [b]ut where the rights of private property
 admittedly restrict the liberties of the average person, he seems perfectly
 happy to **trade off** such liberties against material gain for society as a
-whole."_ [**Op. Cit.**, p. 339] This can be seen by his lack of comment on how
-capitalism forbids socialist acts between consenting adults, not to mention
-quite a few numerous capitalist acts for good measure.
+whole."_ [ **Op. Cit.** , p. 339] This can be seen by his lack of comment on
+how capitalism forbids socialist acts between consenting adults, not to
+mention quite a few numerous capitalist acts for good measure.
 
 Thus Nozick's acquisition of resources is based on the would-be capitalist
 stealing communally owned resources and barring others from using them. This
 obviously would restrict the liberty of those who currently used them and so
 be hotly opposed by members of a community. As Murray Bookchin noted, a free
-society is based on _"the practice of **usufruct**, the freedom of individuals
-in a community to appropriate resources merely by virtue of the fact that they
-are using them. Such resources belong to the user as long as they are being
-used."_ [**The Ecology of Freedom**, p. 116] As the would-be capitalist is not
-actually using the machines they have created, they would be in constant worry
-that their wage-slaves would simply expropriate them -- with the full backing
-of the local commune and its federations.
+society is based on _"the practice of **usufruct** , the freedom of
+individuals in a community to appropriate resources merely by virtue of the
+fact that they are using them. Such resources belong to the user as long as
+they are being used."_ [ **The Ecology of Freedom** , p. 116] As the would-be
+capitalist is not actually using the machines they have created, they would be
+in constant worry that their wage-slaves would simply expropriate them -- with
+the full backing of the local commune and its federations.
 
 So, to conclude, this question involves some strange logic (and many question
 begging assumptions) and ultimately fails in its attempt to prove libertarian
@@ -3553,12 +3566,12 @@ no position to improve the quality of their work and working environment. As
 George Barrett argued:
 
 > _"Now things are so strangely organised at present that it is just the dirty
-and disagreeable work that men will do cheaply, and consequently there is no
-great rush to invent machines to take their place. In a free society, on the
-other hand, it is clear that the disagreeable work will be one of the first
-things that machinery will be called upon to eliminate. It is quite fair to
-argue, therefore, that the disagreeable work will, to a large extent,
-disappear in a state of anarchism."_ [**Objections to Anarchism**, p. 361]
+> and disagreeable work that men will do cheaply, and consequently there is no
+> great rush to invent machines to take their place. In a free society, on the
+> other hand, it is clear that the disagreeable work will be one of the first
+> things that machinery will be called upon to eliminate. It is quite fair to
+> argue, therefore, that the disagreeable work will, to a large extent,
+> disappear in a state of anarchism."_ [ **Objections to Anarchism** , p. 361]
 
 Moreover, most anarchists would think that the argument that there would be a
 flood of workers taking up "easy" work placements is abstract and ignores the
@@ -3589,8 +3602,8 @@ them to do the work in question. Within a co-operative, as Proudhon argued, a
 person's _"education, instruction, and apprenticeship should . . . be so
 directed that, while permitting him to do his share of unpleasant and
 disagreeable tasks, they may also give variety of work and knowledge, and may
-assure him . . . an encyclopaedic attitude and a sufficient income."_
-[**Property is Theft!**, pp.585-6] In terms of unpleasant tasks for other
+assure him . . . an encyclopaedic attitude and a sufficient income."_ [
+**Property is Theft!** , pp.585-6] In terms of unpleasant tasks for other
 people (for example, collecting and processing a community's rubbish) then
 individuals would form co-operatives which would have to find their place on
 the market and this would ensure that such work was done as they would
@@ -3606,13 +3619,13 @@ one _"in which the undesired work, after the best efforts to make it
 meaningful, is shared"_ and another one _"where the undesired work receives
 high extra pay, so that individuals voluntarily choose to do it."_ Such
 schemes are _"consistent with . . . anarchist principles"_ unlike the current
-situation where _"the undesired work is given to wage-slaves."_ [**Radical
-Priorities**, p. 220] Another way, somewhat complementary to these two, would
+situation where _"the undesired work is given to wage-slaves."_ [ **Radical
+Priorities** , p. 220] Another way, somewhat complementary to these two, would
 be to take a leaf from _"peasant attitudes toward labour"_ and their _"most
-striking feature"_, the extent _"to which any kind of communal toil, however
+striking feature"_ , the extent _"to which any kind of communal toil, however
 onerous, can be transformed by the workers themselves into festive occasions
 that serve to reinforce community ties."_ [Murray Bookchin, **The Ecology of
-Freedom**, p. 342]
+Freedom** , p. 342]
 
 It would be easy to imagine a free community sharing such tasks as fairly as
 possible between a community's members by, for example, allocating a few days
@@ -3664,17 +3677,18 @@ hours decrease, plus increases in holiday time and so on. As G.D.H. Cole
 argued in respect of this point:
 
 > _"Let us first by the fullest application of machinery and scientific
-methods eliminate or reduce . . . 'dirty work' that admit to such treatment.
-This has never been tried . . . under capitalism . . . It is cheaper to
-exploit and ruin human beings . . . Secondly, let us see what forms of 'dirty
-work' we can do without . . . [and] if any form of work is not only unpleasant
-but degrading, we will do without it, whatever the cost. No human being ought
-to be allowed or compelled to do work that degrades. Thirdly, for what dull or
-unpleasant work remains, let us offer whatever special conditions are required
-to attract the necessary workers, not in higher pay, but in shorter hours,
-holidays extending over six months in the year, conditions attractive enough
-to men who have other uses for their time or attention to being the requisite
-number to undertake it voluntarily."_ [**Guild Socialism Restated**, p. 76]
+> methods eliminate or reduce . . . 'dirty work' that admit to such treatment.
+> This has never been tried . . . under capitalism . . . It is cheaper to
+> exploit and ruin human beings . . . Secondly, let us see what forms of
+> 'dirty work' we can do without . . . [and] if any form of work is not only
+> unpleasant but degrading, we will do without it, whatever the cost. No human
+> being ought to be allowed or compelled to do work that degrades. Thirdly,
+> for what dull or unpleasant work remains, let us offer whatever special
+> conditions are required to attract the necessary workers, not in higher pay,
+> but in shorter hours, holidays extending over six months in the year,
+> conditions attractive enough to men who have other uses for their time or
+> attention to being the requisite number to undertake it voluntarily."_ [
+> **Guild Socialism Restated** , p. 76]
 
 By these methods a balance between industrial sectors would be achieved as
 individuals would balance their desire for interesting work with their desires
@@ -3745,16 +3759,16 @@ stimulus in doing any activity. So anarchists would agree with Albert and
 Hahnel when they say that:
 
 > _"In a society that makes every effort to depreciate the esteem that derives
-from anything other than conspicuous consumption, it is not surprising that
-great income differentials are seen as necessary to induce effort. But to
-assume that only conspicuous consumption can motivate people because under
-capitalism we have strained to make it so is unwarranted. There is plenty of
-evidence that people can be moved to great sacrifices for reasons other than a
-desire for personal wealth . . . there is good reason to believe that for
-nonpathological people wealth is generally coveted only as a **means** of
-attaining other ends such as economic security, comfort, social esteem,
-respect, status, or power."_ [**The Political Economy of Participatory
-Economics**, p. 52]
+> from anything other than conspicuous consumption, it is not surprising that
+> great income differentials are seen as necessary to induce effort. But to
+> assume that only conspicuous consumption can motivate people because under
+> capitalism we have strained to make it so is unwarranted. There is plenty of
+> evidence that people can be moved to great sacrifices for reasons other than
+> a desire for personal wealth . . . there is good reason to believe that for
+> nonpathological people wealth is generally coveted only as a **means** of
+> attaining other ends such as economic security, comfort, social esteem,
+> respect, status, or power."_ [ **The Political Economy of Participatory
+> Economics** , p. 52]
 
 We should note here that the education syndicates would obviously take into
 account the trends in "work" placement requirements when deciding upon the
@@ -3803,35 +3817,36 @@ be asked to leave (freedom of association means the freedom **not** to
 associate). As Kropotkin argued;
 
 > _"First of all, is it not evident that if a society, founded on the
-principle of free work, were really menaced by loafers, it could protect
-itself without the authoritarian organisation we have nowadays, and without
-having recourse to wagedom [i.e., payment by deeds]? _
+> principle of free work, were really menaced by loafers, it could protect
+> itself without the authoritarian organisation we have nowadays, and without
+> having recourse to wagedom [i.e., payment by deeds]?_
 
 > _"Let us take a group of volunteers, combining for some particular
-enterprise. Having its success at heart, they all work with a will, save one
-of the associates, who is frequently absent from his post . . . some day the
-comrade who imperils their enterprise will be told: 'Friend, we should like to
-work with you; but as you are often absent from your post, and you do your
-work negligently, we must part. Go and find other comrades who will put up
-with your indifference!' _
+> enterprise. Having its success at heart, they all work with a will, save one
+> of the associates, who is frequently absent from his post . . . some day the
+> comrade who imperils their enterprise will be told: 'Friend, we should like
+> to work with you; but as you are often absent from your post, and you do
+> your work negligently, we must part. Go and find other comrades who will put
+> up with your indifference!'_
 
 > _"This is so natural that it is practised everywhere, even nowadays, in all
-industries . . . [I]f [a worker] does his work badly, if he hinders his
-comrades by his laziness or other defects, if he is quarrelsome, there is an
-end of it; he is compelled to leave the workshop. _
+> industries . . . [I]f [a worker] does his work badly, if he hinders his
+> comrades by his laziness or other defects, if he is quarrelsome, there is an
+> end of it; he is compelled to leave the workshop._
 
 > _"Authoritarians pretend that it is the almighty employer and his overseers
-who maintain regularity and quality of work in factories. In reality . . . it
-is the factory itself, the workmen [and women] who see to the good quality of
-the work."_ [**The Conquest of Bread**, pp. 152-3]
+> who maintain regularity and quality of work in factories. In reality . . .
+> it is the factory itself, the workmen [and women] who see to the good
+> quality of the work."_ [ **The Conquest of Bread** , pp. 152-3]
 
 Most anarchists agree with Camillo Berneri when he argued that anarchism
 should be based upon _"no compulsion to work, but no duty towards those who do
-not want to work."_ [_"The Problem of Work"_, pp. 59-82, **Why Work?**, Vernon
-Richards (ed.), p. 74] This means that an anarchist society will not continue
-to feed, clothe, house someone who can produce but refuses to. Anarchists have
-had enough of the wealthy under capitalism consuming but not producing and do
-not see why they should support a new group of parasites after the revolution.
+not want to work."_ [ _"The Problem of Work"_ , pp. 59-82, **Why Work?** ,
+Vernon Richards (ed.), p. 74] This means that an anarchist society will not
+continue to feed, clothe, house someone who can produce but refuses to.
+Anarchists have had enough of the wealthy under capitalism consuming but not
+producing and do not see why they should support a new group of parasites
+after the revolution.
 
 Obviously, there is a difference between not wanting to work and being unable
 to work. The sick, children, the old, pregnant women and so on will be looked
@@ -3898,13 +3913,13 @@ is shared in order to reduce toil to a minimum.
 It is the nature of employment under capitalism, the hierarchical nature of
 its workplace, that makes it "work" instead of pleasure. Work need not be a
 part of the day that we wish would end. It is **not** work that people hate.
-Rather it is **over**-work, in unpleasant circumstances and under the control
+Rather it is **over** -work, in unpleasant circumstances and under the control
 of others that people hate. Reduce the hours of labour, improve the working
 conditions and place the work under self-management and work will stop being a
 hated thing. All these will help ensure that only an idiot would desire to
 work alone for, as Malatesta argued, the _"individual who wished to supply his
-own material needs by working alone would be the slave of his labours."_
-[**The Anarchist Revolution**, p. 15]
+own material needs by working alone would be the slave of his labours."_ [
+**The Anarchist Revolution** , p. 15]
 
 So, enlightened self-interest would secure the voluntary labour and
 egalitarian distribution anarchists favour in the vast majority of the
@@ -3923,7 +3938,7 @@ both the life of the local community and into the local environment. After
 all, _"no movement that raises the demand for workers' councils can be
 regarded as revolutionary unless it tries to promote sweeping transformations
 in the environment of the work place."_ [Murray Bookchin, **Post-Scarcity
-Anarchism**, p. 88]
+Anarchism** , p. 88]
 
 A glimpse of the future workplace can been seen from the actual class
 struggle. In the 40 day sit-down strike at Fisher Body plant #1 in Flint,
@@ -3932,7 +3947,7 @@ Committees organised recreation, information, classes, a postal service,
 sanitation . . . There were classes in parliamentary procedure, public
 speaking, history of the labour movement. Graduate students at the University
 of Michigan gave courses in journalism and creative writing."_ [Howard Zinn,
-**A People's History of the United States**, p. 391] In the same year, during
+**A People's History of the United States** , p. 391] In the same year, during
 the Spanish Revolution, collectivised workplaces also created libraries and
 education facilities as well as funding schools, health care and other social
 necessities (a practice, we must note, that had started before the revolution
@@ -3943,9 +3958,9 @@ The future workplace would be expanded to include education and classes in
 individual development. This follows Proudhon's suggestion made during the
 1848 revolution that we should _"[o]rganise association, and by the same
 token, every workshop becoming a school, every worker becomes a master, every
-student an apprentice."_ [**Property is Theft!**, p. 378] This means that in a
-free society _"Workers' associations have a very important role to play . . .
-Linked to the system of public education, they will become both centres of
+student an apprentice."_ [ **Property is Theft!** , p. 378] This means that in
+a free society _"Workers' associations have a very important role to play . .
+. Linked to the system of public education, they will become both centres of
 production and centres for education . . . The working masses will be in daily
 contact with the youthful army of agricultural and industrial workers. Labour
 and study, which have for so long and so foolishly been kept apart, will
@@ -3953,7 +3968,7 @@ finally emerge side by side in their natural state of union. Instead of being
 confined to narrow, specialised fields, vocational education will include a
 variety of different types of work which, taken as a whole, will insure that
 each student becomes an all-round worker."_ [Proudhon, **Selected Writings of
-Pierre-Joseph Proudhon**, p. 87]
+Pierre-Joseph Proudhon** , p. 87]
 
 This would allow work to become part of a wider community, drawing in people
 from different areas to share their knowledge and learn new insights and
@@ -3971,7 +3986,7 @@ conditions Repugnant tasks will disappear, because it is evident that these
 unhealthy conditions are harmful to society as a whole. Slaves can submit to
 them, but free men [and women] will create new conditions, and their work will
 be pleasant and infinitely more productive."_ [Kropotkin, **The Conquest of
-Bread**, p. 123] Workplaces would be designed to maximise space and allow
+Bread** , p. 123] Workplaces would be designed to maximise space and allow
 individual expression within them. We can imagine such places surrounded by
 gardens and allotments which were tended by workers themselves, giving a
 pleasant surrounding to the workplace. There would, in effect, be a break down
@@ -3979,16 +3994,16 @@ of the city/rural divide -- workplaces would be placed next to fields and
 integrated into the surroundings:
 
 > _"Have the factory and the workshop at the gates of your fields and gardens,
-and work in them. Not those large establishments, of course, in which huge
-masses of metals have to be dealt with and which are better placed at certain
-spots indicated by Nature, but the countless variety of workshops and
-factories which are required to satisfy the infinite diversity of tastes among
-civilised men [and women] . . . factories and workshops which men, women and
-children will not be driven by hunger, but will be attracted by the desire of
-finding an activity suited to their tastes, and where, aided by the motor and
-the machine, they will choose the branch of activity which best suits their
-inclinations."_ [Kropotkin, **Fields, Factories and Workshops Tomorrow**, p.
-197]
+> and work in them. Not those large establishments, of course, in which huge
+> masses of metals have to be dealt with and which are better placed at
+> certain spots indicated by Nature, but the countless variety of workshops
+> and factories which are required to satisfy the infinite diversity of tastes
+> among civilised men [and women] . . . factories and workshops which men,
+> women and children will not be driven by hunger, but will be attracted by
+> the desire of finding an activity suited to their tastes, and where, aided
+> by the motor and the machine, they will choose the branch of activity which
+> best suits their inclinations."_ [Kropotkin, **Fields, Factories and
+> Workshops Tomorrow** , p. 197]
 
 This vision of rural and urban integration is just part of the future
 anarchists see for the workplace. As Kropotkin argued, _"[w]e proclaim
@@ -3998,7 +4013,7 @@ able-bodied human being is a worker, and where each worker works both in the
 field and the industrial workshop; where every aggregation of individuals,
 large enough to dispose of a certain variety of natural resources -- it may be
 a nation, or rather a region -- produces and itself consumes most of its own
-agricultural and manufactured produce."_ [**Op. Cit.**, p. 26]
+agricultural and manufactured produce."_ [ **Op. Cit.** , p. 26]
 
 The future workplace would be an expression of the desires of those who worked
 there. It would be based around a pleasant working environment, within gardens
@@ -4008,24 +4023,25 @@ upon self-realisation and self-expression and one in which individuality is
 not crushed by authority and capitalism. To quote Kropotkin, the future
 workplace would be _"airy and hygienic, and consequently economical, factories
 in which human life is of more account than machinery and the making of extra
-profits."_ [**Op. Cit.**, p. 197] For, obviously, _"if most of the workshops
+profits."_ [ **Op. Cit.** , p. 197] For, obviously, _"if most of the workshops
 we know are foul and unhealthy, it is because the workers are of no account in
-the organisation of factories"_. [**The Conquest of Bread**, p. 121]
+the organisation of factories"_. [ **The Conquest of Bread** , p. 121]
 
 _"So in brief,"_ argued William Morris, _"our buildings will be beautiful with
 their own beauty of simplicity as workshops"_ and _"besides the mere
 workshops, our factory will have other buildings which may carry ornament
 further than that, for it will need dinning-hall, library, school, places for
-study of different kinds, and other such structures."_ [**A Factory as It
-Might Be**, p. 9] This is possible and is only held back by capitalism which
+study of different kinds, and other such structures."_ [ **A Factory as It
+Might Be** , p. 9] This is possible and is only held back by capitalism which
 denounces such visions of freedom as "uneconomic." Yet such claims ignore the
 distribution of income in class society:
 
 > _"Impossible I hear an anti-Socialist say. My friend, please to remember
-that most factories sustain today large and handsome gardens, and not seldom
-parks . . . **only** the said gardens, etc. are twenty miles away from the
-factory, **out of the smoke,** and are kept up for **one member of the factory
-only,** the sleeping partner to wit."_ [Morris, **Op. Cit.**, pp. 7-8]
+> that most factories sustain today large and handsome gardens, and not seldom
+> parks . . . **only** the said gardens, etc. are twenty miles away from the
+> factory, **out of the smoke,** and are kept up for **one member of the
+> factory only,** the sleeping partner to wit."_ [Morris, **Op. Cit.** , pp.
+> 7-8]
 
 Pleasant working conditions based upon the self-management of work can produce
 a workplace within which economic "efficiency" can be achieved without
@@ -4071,10 +4087,10 @@ While capitalism has turned improvements in productivity as a means of
 increasing work, enriching the few and generally proletarianising the working
 class, a free society would take a different approach to the problem. As
 argued in [section I.4.3](secI4.md#seci43), a communist-anarchist society
-would be based upon the principle of _"**for some much per day** (in money
+would be based upon the principle of _" **for some much per day** (in money
 today, in labour tomorrow) **you are entitled to satisfy -- luxury excepted --
 this or the other of your wants**."_ [Peter Kropotkin, **Small Communal
-Experiments and why the fail**, p. 8] Building upon this, we can imagine a
+Experiments and why the fail** , p. 8] Building upon this, we can imagine a
 situation where the average output for a given industry in a given amount of
 time is used to encourage efficiency and productivity. If a given syndicate
 can produce this average output with at least average quality in less time
@@ -4140,9 +4156,9 @@ reduce the time required for producing wealth to any desired amount, so as to
 leave to everyone as much leisure as he or she may ask for . . . they
 guarantee . . . the happiness that can be found in the full and varied
 exercise of the different capacities of the human being, in work that need not
-be overwork."_ [**Fields, Factories and Workshops Tomorrow**, pp. 198-9]
+be overwork."_ [ **Fields, Factories and Workshops Tomorrow** , pp. 198-9]
 
 [‹ I.3 What could the economic structure of anarchy look like?](secI3.md "Go
-to previous page" ) [up](secIcon.md "Go to parent page" ) [I.5 What could
-the social structure of anarchy look like? ›](secI5.md "Go to next page" )
+to previous page") [up](secIcon.md "Go to parent page") [I.5 What could the
+social structure of anarchy look like? ›](secI5.md "Go to next page")
 

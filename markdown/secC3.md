@@ -2,8 +2,8 @@
 
 In short, class struggle determines the distribution of income between classes
 (As Proudhon put it, the expression _"the relations of profits to wages"_
-means _"the war between labour and capital."_ [**System of Economical
-Contradictions**, p. 130]). This, in turn, is dependent on the balance of
+means _"the war between labour and capital."_ [ **System of Economical
+Contradictions** , p. 130]). This, in turn, is dependent on the balance of
 power within any given economy at any given time.
 
 Given our analysis of the source of surplus value in [section
@@ -23,44 +23,41 @@ which goes to labour (i.e. wages) and capital (surplus value).
 
 To quote libertarian socialist Cornelius Castoriadis:
 
-> _ "Far from being completely dominated by the will of the capitalist and
-forced to increase indefinitely the yield of labour, production is determined
-just as much by the workers' individual and collective resistance to such
-increases. The extraction of 'use value form labour power' is not a technical
-operation; it is a process of bitter struggle in which half the time, so to
-speak, the capitalists turn out to be losers.  
+> _"Far from being completely dominated by the will of the capitalist and
+> forced to increase indefinitely the yield of labour, production is
+> determined just as much by the workers' individual and collective resistance
+> to such increases. The extraction of 'use value form labour power' is not a
+> technical operation; it is a process of bitter struggle in which half the
+> time, so to speak, the capitalists turn out to be losers.  
 >  _
-
 >
-
 > _"The same thing holds true for living standards, i.e., real wage levels.
-From its beginnings, the working class has fought to reduce the length of the
-workday and to raise wage levels. It is this struggle that has determined how
-these levels have risen and fallen over the years . . . _
-
+> From its beginnings, the working class has fought to reduce the length of
+> the workday and to raise wage levels. It is this struggle that has
+> determined how these levels have risen and fallen over the years . . ._
 >
-
 > _"Neither the actual labour rendered during an hour of labour time nor the
-wage received in exchange for this work can be determined by any kind of
-'objective' law, norm, or calculation . . . What we are saying does not mean
-that specifically economic or even 'objective' factors play no real in
-determining wage levels. Quite the contrary. At any given instant, the class
-struggle comes into play only within a given economic -- and, more generally,
-objective -- framework, and it acts not only directly but also through the
-intermediary of a series of partial 'economic mechanisms.' To give only one
-example among thousands, an economic victory for workers in one sector has a
-ripple effect on overall wage levels, not only because it can encourage other
-workers to be more combative, but also because sectors with lower wage levels
-will experience greater difficulties recruiting manpower. None of these
-mechanisms, however, can effectively act on its own and have its own
-significance if taken separately from the class struggle. And the economic
-context itself is always gradually affected one way or another by this
-struggle."_ [**Political and Social Writings**, vol. 2, p. 248]
+> wage received in exchange for this work can be determined by any kind of
+> 'objective' law, norm, or calculation . . . What we are saying does not mean
+> that specifically economic or even 'objective' factors play no real in
+> determining wage levels. Quite the contrary. At any given instant, the class
+> struggle comes into play only within a given economic -- and, more
+> generally, objective -- framework, and it acts not only directly but also
+> through the intermediary of a series of partial 'economic mechanisms.' To
+> give only one example among thousands, an economic victory for workers in
+> one sector has a ripple effect on overall wage levels, not only because it
+> can encourage other workers to be more combative, but also because sectors
+> with lower wage levels will experience greater difficulties recruiting
+> manpower. None of these mechanisms, however, can effectively act on its own
+> and have its own significance if taken separately from the class struggle.
+> And the economic context itself is always gradually affected one way or
+> another by this struggle."_ [ **Political and Social Writings** , vol. 2, p.
+> 248]
 
 The essential point is that the extraction of surplus value from workers is
 not a simple technical operation, as implied by the neo-classical perspective
 (and, ironically, classical Marxism as Castoriadis explains in his classic
-work _"Modern Capitalism and Revolution"_ [**Op. Cit.**, pp. 226-343]). As
+work _"Modern Capitalism and Revolution"_ [ **Op. Cit.** , pp. 226-343]). As
 noted previously, unlike the extraction of so many joules from a ton of coal,
 extracting surplus value ("use value") from labour power involves conflict
 between people, between classes. Labour power is unlike all other commodities
@@ -78,14 +75,14 @@ productive power "at the margin" is false. Rather, it is a question of power
 -- and the willingness to use it. As Christopher Eaton Gunn points out, the
 neo-classical argument _"take[s] no account of power -- of politics, conflict,
 and bargaining -- as more likely indicators of relative shares of income in
-the real world."_ [**Workers' Self-Management in the United States**, p. 185]
-Ultimately, working class struggle is an _"indispensable means of raising
+the real world."_ [ **Workers' Self-Management in the United States** , p.
+185] Ultimately, working class struggle is an _"indispensable means of raising
 their standard of living or defending their attained advantages against the
 concerted measures of the employers."_ It is _"not only a means for the
 defence of immediate economic interests, it is also a continuous schooling for
 their powers of resistance, showing them every day that every last right has
 to be won by unceasing struggle against the existing system."_ [Rocker,
-**Anarcho-Syndicalism**, p. 78]
+**Anarcho-Syndicalism** , p. 78]
 
 If the power of labour is increasing, its share in income will tend to
 increase and, obviously, if the power of labour decreased it would fall. And
@@ -164,7 +161,7 @@ profits (profits rates in 2005 were the highest in 36 years). If the pre-tax
 return to capital had remained at its 1979 level, then hourly compensation
 would have been 5% higher. In 2005 dollars, this represents an annual transfer
 of $235 billion from labour to capital. [Lawrence Mishel, Jered Bernstein, and
-Sylvia Allegretto, **The State of Working America 2006/7**, pp. 2-3]
+Sylvia Allegretto, **The State of Working America 2006/7** , pp. 2-3]
 
 Labour's share of income in the corporate sector fell from 82.1% in 179 to
 81.1% in 1989, and then to 79.1% in 2005. However, this fall is even worse for
@@ -172,7 +169,7 @@ labour as labour income _"includes the pay of Chief Executive Officers (CEOs),
 thereby overstating the income share going to 'workers' and understating
 'profits,' since the bonuses and stock options given CEOs are more akin to
 profits than wages"_ and so _"some of the profits are showing up in CEO
-paychecks and are counted as worker pay."_ [**Op. Cit.**, p. 83 and p. 84]
+paychecks and are counted as worker pay."_ [ **Op. Cit.** , p. 83 and p. 84]
 
 Unsurprisingly, there has been a _"stunning disconnect between the rapid
 productivity growth and pay growth,"_ along with a _"tremendous widening of
@@ -184,12 +181,12 @@ median CEO pay rise by 186.2% while the media worker saw only a 7.2% rise in
 their wages. Wealth inequality was even worse, with the wealth share of the
 bottom 80% shrinking by 3.8 percentage points (which was gained by the top 5%
 of households). Using the official standard of poverty, 11.3% of Americans
-were in poverty in 2000, rising to 12.7% in 2004 (_"This is the first time
-that poverty rose through each of the first three years of a recovery"_).
+were in poverty in 2000, rising to 12.7% in 2004 ( _"This is the first time
+that poverty rose through each of the first three years of a recovery"_ ).
 However, the official poverty line is hopelessly out of date (for a family of
 four it was 48% of median family income in 1960, in 2006 it is 29%). Using a
 threshold of twice the official value sees an increase in poverty from 29.3%
-to 31.2% [**Op. Cit.**, p. 4, p. 5, p. 7, p. 9 and p. 11]
+to 31.2% [ **Op. Cit.** , p. 4, p. 5, p. 7, p. 9 and p. 11]
 
 Of course, it will be argued that only in a perfectly competitive market (or,
 more realistically, a truly "free" one) will wages increase in-line with
@@ -207,8 +204,8 @@ Since the mid-1970s this close mapping broke down. From 1973 to 2005,
 productivity rose by 75.5% while income increased by a mere 21.8%, less than
 one-third the rate of productivity (from 2000 to 2004, productivity rose by
 14% while family income fell by 2.9%). This wedge is the source of rising
-inequality, with the upper classes claiming most of the income growth. [**Op.
-Cit.**, p. 46]
+inequality, with the upper classes claiming most of the income growth. [ **Op.
+Cit.** , p. 46]
 
 All of which refutes those apologists for capitalism who cite the empirical
 fact that, in a modern capitalist economy, a large majority of all income goes
@@ -295,7 +292,7 @@ dependent, of course, on the balance of forces within the economy.
 In the next section, we discuss why capitalism is marked by big business and
 what this concentrated market power means to the capitalist economy.
 
-[‹ C.2 Why is capitalism exploitative?](secC2.md "Go to previous page" )
-[up](secCcon.md "Go to parent page" ) [C.4 Why does the market become
-dominated by Big Business? ›](secC4.md "Go to next page" )
+[‹ C.2 Why is capitalism exploitative?](secC2.md "Go to previous page")
+[up](secCcon.md "Go to parent page") [C.4 Why does the market become
+dominated by Big Business? ›](secC4.md "Go to next page")
 

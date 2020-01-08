@@ -26,15 +26,15 @@ statist) at the turn the 19th century and, as such, it is hardly new.
 At that time, people like Spencer tended to call themselves "liberals" while,
 as Bookchin noted, _"libertarian"_ was _"a term created by nineteenth-century
 European anarchists, not by contemporary American right-wing proprietarians."_
-[**The Ecology of Freedom**, p. 57] David Goodway concurs, stating that
+[ **The Ecology of Freedom** , p. 57] David Goodway concurs, stating that
 _"libertarian"_ has been _"frequently employed by anarchists"_ as an
 alternative name for our politics for over a century. However, the _"situation
 has been vastly complicated in recent decades with the rise of . . . extreme
 right-wing laissez-faire philosophy . . . and [its advocates] adoption of the
 words 'libertarian' and 'libertarianism.' It has therefore now become
 necessary to distinguish between their right libertarianism and the left
-libertarianism of the anarchist tradition."_ [**Anarchist Seeds Beneath the
-Snow**, p. 4] This appropriation of the term "libertarian" by the right not
+libertarianism of the anarchist tradition."_ [ **Anarchist Seeds Beneath the
+Snow** , p. 4] This appropriation of the term "libertarian" by the right not
 only has bred confusion, but also protest as anarchists have tried to point
 out the obvious, namely that capitalism is marked by **authoritarian** social
 relationships and so there are good reasons for anarchism being a
@@ -69,15 +69,15 @@ Some scholars do note the difference. For example, Jeremy Jennings, in his
 excellent overview of anarchist theory and history, argues that it is _"hard
 not to conclude that these ideas ["anarcho"-capitalism] -- with roots deep in
 classical liberalism -- are described as anarchist only on the basis of a
-misunderstanding of what anarchism is."_ [_"Anarchism"_, **Contemporary
-Political Ideologies**, Roger Eatwell and Anthony Wright (eds.), p. 142]
+misunderstanding of what anarchism is."_ [ _"Anarchism"_ , **Contemporary
+Political Ideologies** , Roger Eatwell and Anthony Wright (eds.), p. 142]
 Barbara Goodwin reaches a similar conclusion, noting that the
 "anarcho"-capitalists' _"true place is in the group of right-wing
 libertarians"_ not in anarchism for _"[w]hile condemning absolutely state
 coercion, they tacitly condone the economic and interpersonal coercion which
 would prevail in a totally **laissez-faire** society. Most anarchists share
 the egalitarian ideal with socialists: anarcho-capitalists abhor equality and
-socialism equally."_ [**Using Political Ideas**, p. 138]
+socialism equally."_ [ **Using Political Ideas** , p. 138]
 
 Sadly, these seem to be the minority in academic circles as most are happy to
 discuss right-"libertarian" ideology as a subclass of anarchism in spite of
@@ -86,8 +86,8 @@ seem to derive from the fact that "anarcho"-capitalists **call** themselves
 anarchists and the academics take this at face value. Yet, as one anarchist
 notes, having a _"completely fluid definition of anarchism, allows for anyone
 and anything to be described as such, no matter how authoritarian and anti-
-social."_ [Benjamin Franks, _"Mortal Combat"_, pp. 4-6, **A Touch of Class**,
-no. 1, p. 5] Also, given that many academics approach anarchism from what
+social."_ [Benjamin Franks, _"Mortal Combat"_ , pp. 4-6, **A Touch of Class**
+, no. 1, p. 5] Also, given that many academics approach anarchism from what
 could be termed the "dictionary definition" methodology rather than as a
 political movement approach there is a tendency for "anarcho"-capitalist
 claims to be taken at face value. As such, it is useful to stress that
@@ -122,14 +122,14 @@ reference for libraries. Rothbard is featured, but the context is very
 suggestive. The book includes Rothbard in a section titled _"On the Margins of
 Anarchist Theory."_ His introduction to the Rothbard section is worth quoting:
 
-> _ "Either the inclusion or the omission of Rothbard as an anarchist is
-likely, in one quarter or another, to be viewed as contentious. Here, his
-Anarcho-Capitalism is treated as marginal, since, while there are linkages
-with the tradition of individualist anarchism, there is a dislocation between
-the mutualism and communitarianism of that tradition and the free market
-theory, deriving from Ludwig von Mises and Friedrich von Hayek, that underpins
-Rothbard's political philosophy, and places him in the modern Libertarian
-tradition."_ [**Anarchist Thinkers and Thought**, p. 133]
+> _"Either the inclusion or the omission of Rothbard as an anarchist is
+> likely, in one quarter or another, to be viewed as contentious. Here, his
+> Anarcho-Capitalism is treated as marginal, since, while there are linkages
+> with the tradition of individualist anarchism, there is a dislocation
+> between the mutualism and communitarianism of that tradition and the free
+> market theory, deriving from Ludwig von Mises and Friedrich von Hayek, that
+> underpins Rothbard's political philosophy, and places him in the modern
+> Libertarian tradition."_ [ **Anarchist Thinkers and Thought** , p. 133]
 
 This is important, for while Rothbard (like other "anarcho"-capitalists)
 appropriates **some** aspects of individualist anarchism he does so in a
@@ -179,7 +179,7 @@ suggestion that the problem is one of terminology. This argument is based on
 noting that "anarcho"-capitalists are against "actually existing" capitalism
 and so _"we must distinguish between 'free-market capitalism' . . . and 'state
 capitalism' . . . The two are as different as day and night."_ [Rothbard,
-**The Logic of Action II**, p. 185] It would be churlish indeed to point out
+**The Logic of Action II** , p. 185] It would be churlish indeed to point out
 that the **real** difference is that one exists while the other has existed
 only in Rothbard's head. Yet point it out we must, for the simple fact is that
 not only do "anarcho"-capitalists use the word anarchism in an unusual way
@@ -204,7 +204,7 @@ with long-time anarchist activist Donald Rooum's comment that _"self-styled
 [simply] want the state abolished as a regulator of capitalism, and government
 handed over to capitalists."_ They are _"wrongly self-styled 'anarchists'"_
 because they _"do not oppose capitalist oppression"_ while genuine anarchists
-are _"extreme libertarian socialists."_ [**What Is Anarchism?**, p. 7, pp.
+are _"extreme libertarian socialists."_ [ **What Is Anarchism?** , p. 7, pp.
 12-13 and p. 10] As we stress in [section F.1](secF1.md),
 "anarcho"-capitalists do not oppose the hierarchies and exploitation
 associated with capitalism (wage labour and landlordism) and, consequently,
@@ -237,14 +237,14 @@ liberalism. This was noted by Bob Black in the early 1980s, when a _"wing of
 the Reaganist Right . . . obviously appropriated, with suspect selectivity,
 such libertarian themes as deregulation and voluntarism. Ideologues indignate
 that Reagan has travestied their principles. Tough shit! I notice that it's
-**their** principles, not mine, that he found suitable to travesty."_ [_"The
-Libertarian As Conservative"_, pp. 141-8, **The Abolition of Work and Other
-Essays**, pp. 141-2] This was echoed by Noam Chomsky two decades later when he
-stated that _"nobody takes [right-wing libertarianism] seriously"_ (as
+**their** principles, not mine, that he found suitable to travesty."_ [ _"The
+Libertarian As Conservative"_ , pp. 141-8, **The Abolition of Work and Other
+Essays** , pp. 141-2] This was echoed by Noam Chomsky two decades later when
+he stated that _"nobody takes [right-wing libertarianism] seriously"_ (as
 _"everybody knows that a society that worked by . . . [its] principles would
-self-destruct in three seconds"_). The _"only reason"_ why some people in the
+self-destruct in three seconds"_ ). The _"only reason"_ why some people in the
 ruling elite _"pretend to take it seriously is because you can use it as a
-weapon"_ in the class struggle [**Understanding Power**, p. 200] As neo-
+weapon"_ in the class struggle [ **Understanding Power** , p. 200] As neo-
 liberalism is being used as the ideological basis of the current attack on the
 working class, critiquing "anarcho"-capitalism also allows us to build
 theoretical weapons to use to resist this attack and aid our side in the class
@@ -277,8 +277,8 @@ anarchist concern for equality as a necessary precondition for genuine freedom
 _"is one very good reason for not confusing anarchists with liberals or
 economic 'libertarians' -- in other words, for not lumping together everyone
 who is in some way or another critical of the state. It is why calling the
-likes of Nozick 'anarchists' is highly misleading."_ [_"Some notes on
-'Anarchism'"_, pp. 141-5, **Anarchist Studies**, vol. 1, no. 2, p. 143] So
+likes of Nozick 'anarchists' is highly misleading."_ [ _"Some notes on
+'Anarchism'"_ , pp. 141-5, **Anarchist Studies** , vol. 1, no. 2, p. 143] So
 anarchists have evaluated "free market" capitalism and rejected it as non-
 anarchist since the birth of anarchism and so attempts by "anarcho"-capitalism
 to say that their system is "anarchist" flies in the face of this long history
@@ -286,7 +286,7 @@ of anarchist analysis. That some academics fall for their attempts to
 appropriate the anarchist label for their ideology is down to a false premise:
 it _"is judged to be anarchism largely because some anarcho-capitalists
 **say** they are 'anarchists' and because they criticise the State."_ [Peter
-Sabatini, **Social Anarchism**, no. 23, p. 100]
+Sabatini, **Social Anarchism** , no. 23, p. 100]
 
 More generally, we must stress that most (if not all) anarchists do not want
 to live in a society **just like this one** but without state coercion and
@@ -313,6 +313,6 @@ For more discussion on this issue, see the appendix ["Anarchism and
 'Anarcho'-capitalism"](append1.md)
 
 [‹ Section F - Is "anarcho"-capitalism a type of anarchism?](secFcon.md "Go
-to previous page" ) [up](secFcon.md "Go to parent page" ) [F.1 Are
-"anarcho"-capitalists really anarchists? ›](secF1.md "Go to next page" )
+to previous page") [up](secFcon.md "Go to parent page") [F.1 Are
+"anarcho"-capitalists really anarchists? ›](secF1.md "Go to next page")
 

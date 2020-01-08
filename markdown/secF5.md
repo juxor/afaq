@@ -2,15 +2,15 @@
 
 "Anarcho"-capitalists aim for a situation in which _"no land areas, no square
 footage in the world shall remain 'public,'"_ in other words **everything**
-will be _"privatised."_ [Murray Rothbard, **Nations by Consent**, p. 84] They
+will be _"privatised."_ [Murray Rothbard, **Nations by Consent** , p. 84] They
 claim that privatising "the commons" (e.g. roads, parks, etc.) which are now
 freely available to all will increase liberty. Is this true? Here we will
 concern ourselves with private ownership of commonly used "property" which we
 all take for granted (and often pay for with taxes).
 
 Its clear from even a brief consideration of a hypothetical society based on
-"privatised" roads (as suggested by Murray Rothbard [**For a New Liberty**,
-pp. 202-203] and David Friedman [**The Machinery of Freedom**, pp. 98-101])
+"privatised" roads (as suggested by Murray Rothbard [ **For a New Liberty** ,
+pp. 202-203] and David Friedman [ **The Machinery of Freedom** , pp. 98-101])
 that the only increase of liberty will be for the ruling elite. As
 "anarcho"-capitalism is based on paying for what one uses, privatisation of
 roads would require some method of tracking individuals to ensure that they
@@ -63,7 +63,7 @@ that modern technology makes even more feasible the collection and
 dissemination of information about people's credit ratings and records of
 keeping or violating their contracts or arbitration agreements. Presumably, an
 anarchist [sic!] society would see the expansion of this sort of dissemination
-of data."_ [**Society Without A State"**, p. 199] So with the total
+of data."_ [ **Society Without A State"** , p. 199] So with the total
 privatisation of society we could also see the rise of private Big Brothers,
 collecting information about individuals for use by property owners. The
 example of the **Economic League** (a British company which provided the
@@ -92,19 +92,19 @@ become bonded labourers? Or be imprisoned and used to undercut workers' wages
 via prison labour? Perhaps they will just be shot as trespassers? Who can
 tell?). Nor is it addressed how this situation actually **increases** freedom.
 For Rothbard, a _"totally privatised country would be as closed as the
-particular inhabitants and property owners [**not** the same thing, we must
+particular inhabitants and property owners [ **not** the same thing, we must
 point out] desire. It seems clear, then, that the regime of open borders that
 exists **de facto** in the US really amounts to a compulsory opening by the
 central state. . . and does not genuinely reflect the wishes of the
-proprietors."_ [**Nations by Consent**, p. 84 and p. 85] Of course, the wishes
-of **non**-proprietors (the vast majority) do not matter in the slightest.
-Thus, it is clear, that with the privatisation of "the commons" the right to
-roam, to travel, would become a privilege, subject to the laws and rules of
-the property owners. This can hardly be said to **increase** freedom for
-anyone bar the capitalist class.
+proprietors."_ [ **Nations by Consent** , p. 84 and p. 85] Of course, the
+wishes of **non** -proprietors (the vast majority) do not matter in the
+slightest. Thus, it is clear, that with the privatisation of "the commons" the
+right to roam, to travel, would become a privilege, subject to the laws and
+rules of the property owners. This can hardly be said to **increase** freedom
+for anyone bar the capitalist class.
 
 Rothbard acknowledges that _"in a fully privatised world, access rights would
-obviously be a crucial part of land ownership."_ [**Op. Cit.**, p. 86] Given
+obviously be a crucial part of land ownership."_ [ **Op. Cit.** , p. 86] Given
 that there is no free lunch, we can imagine we would have to pay for such
 "rights." The implications of this are obviously unappealing and an obvious
 danger to individual freedom. The problem of access associated with the idea
@@ -127,10 +127,10 @@ would be highly likely given the need for "absolute" property rights and is
 suggested by the variable pricing way to avoid traffic jams mentioned above)
 and were able to control who used their property, freedom to travel would be
 **very** restricted and limited to those whom the owner considered
-"desirable." Indeed, Murray Rothbard supports such a regime (_"In the free
+"desirable." Indeed, Murray Rothbard supports such a regime ( _"In the free
 [sic!] society, they [travellers] would, in the first instance, have the right
-to travel only on those streets whose owners agree to have them there."_
-[**The Ethics of Liberty**, p. 119]). The threat to liberty in such a system
+to travel only on those streets whose owners agree to have them there."_ [
+**The Ethics of Liberty** , p. 119]). The threat to liberty in such a system
 is obvious -- to all but Rothbard and other right-"libertarians", of course.
 
 To take another example, let us consider the privatisation of parks, streets
@@ -147,7 +147,7 @@ picketing or handing out leaflets in shopping centres are quickly ejected by
 private security even today. Think about how much worse it would become under
 "anarcho"-capitalism when the whole world becomes a series of malls -- it
 would be impossible to hold a picket when the owner of the pavement objects
-(as Rothbard himself gleefully argued. [**Op. Cit.**, p. 132]). If the owner
+(as Rothbard himself gleefully argued. [ **Op. Cit.** , p. 132]). If the owner
 of the pavement also happens to be the boss being picketed, which Rothbard
 himself considered most likely, then workers' rights would be zero. Perhaps we
 could also see capitalists suing working class organisations for littering
@@ -180,13 +180,13 @@ and so on (while, at the same time, trying to portray themselves as supporters
 of such liberties!). However, for them such restrictions are of no
 consequence. As Rothbard argues, any _"prohibitions would not be state
 imposed, but would simply be requirements for residence or for use of some
-person's or community's land area."_ [**Nations by Consent**, p. 85] Thus we
+person's or community's land area."_ [ **Nations by Consent** , p. 85] Thus we
 yet again see the blindness of right-"libertarians" to the commonality between
 private property and the state we first noted in [section F.1](secF1.md).
 The state also maintains that submitting to its authority is the requirement
 for taking up residence in its territory. As Tucker noted, the state can be
 defined as (in part) _"the assumption of sole authority over a given area and
-all within it."_ [**The Individualist Anarchists**, p. 24] If the property
+all within it."_ [ **The Individualist Anarchists** , p. 24] If the property
 owners can determine "prohibitions" (i.e. laws and rules) for those who use
 the property then they are the _"sole authority over a given area and all
 within it,"_ i.e. a state. Thus privatising "the commons" means subjecting the
@@ -207,21 +207,21 @@ support _"is incompatible with the maintenance of institutions that restrict
 free thought, rigidify speech in the form of a final and irrevocable vow, and
 even dictate that the worker fold his arms and die of hunger at the owners'
 command."_ [Elisee Reclus, quoted by John P. Clark and Camille Martin (eds.),
-**Anarchy, Geography, Modernity**, p. 159] As Peter Marshall notes, _"[i]n the
-name of freedom, the anarcho-capitalists would like to turn public spaces into
-private property, but freedom does not flourish behind high fences protected
-by private companies but expands in the open air when it is enjoyed by all."_
-[**Demanding the Impossible**, p. 564]
+**Anarchy, Geography, Modernity** , p. 159] As Peter Marshall notes, _"[i]n
+the name of freedom, the anarcho-capitalists would like to turn public spaces
+into private property, but freedom does not flourish behind high fences
+protected by private companies but expands in the open air when it is enjoyed
+by all."_ [ **Demanding the Impossible** , p. 564]
 
 Little wonder Proudhon argued that _"if the public highway is nothing but an
 accessory of private property; if the communal lands are converted into
 private property; if the public domain, in short, is guarded, exploited,
 leased, and sold like private property -- what remains for the proletaire? Of
 what advantage is it to him that society has left the state of war to enter
-the regime of police?"_ [**System of Economic Contradictions**, p. 371]
+the regime of police?"_ [ **System of Economic Contradictions** , p. 371]
 
 [‹ F.4 What is the right-"libertarian" position on private
-property?](secF4.md "Go to previous page" ) [up](secFcon.md "Go to parent
-page" ) [F.6 Is "anarcho"-capitalism against the state? ›](secF6.md "Go to
-next page" )
+property?](secF4.md "Go to previous page") [up](secFcon.md "Go to parent
+page") [F.6 Is "anarcho"-capitalism against the state? ›](secF6.md "Go to
+next page")
 

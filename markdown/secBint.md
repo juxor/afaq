@@ -12,15 +12,15 @@ as some so-called experts assert, anarchism has always been opposed to other
 forms of authority and the oppression they create, in particular capitalism
 and its particular form of private property. It is no coincidence that
 Proudhon, the first person to declare themselves an anarchist, did so in a
-book entitled **What is Property?** (and gave the answer _**"It is
-theft!"**_). From Proudhon onwards, anarchism has opposed both the state and
-capitalism (indeed, it is the one thing such diverse thinkers as Benjamin
-Tucker and Peter Kropotkin both agreed on). Needless to say, since Proudhon
-anarchism has extended its critique of authority beyond these two social
-evils. Other forms of social hierarchy, such as sexism, racism and homophobia,
-have been rejected as limitations of freedom and equality. So this section of
-the FAQ summarises the key ideas behind anarchism's rejection of the current
-system we live under.
+book entitled **What is Property?** (and gave the answer _**"It is theft!"**_
+). From Proudhon onwards, anarchism has opposed both the state and capitalism
+(indeed, it is the one thing such diverse thinkers as Benjamin Tucker and
+Peter Kropotkin both agreed on). Needless to say, since Proudhon anarchism has
+extended its critique of authority beyond these two social evils. Other forms
+of social hierarchy, such as sexism, racism and homophobia, have been rejected
+as limitations of freedom and equality. So this section of the FAQ summarises
+the key ideas behind anarchism's rejection of the current system we live
+under.
 
 This, of course, does not mean that anarchistic ideas have not existed within
 society before the dawn of capitalism. Far from it. Thinkers whose ideas can
@@ -37,7 +37,7 @@ strength of Capitalism: the State and its principle supports -- centralisation
 of authority, law, always made by a minority for its own profit, and a form of
 justice whose chief aim is to protect Authority and Capitalism."_ So anarchism
 was _"not only against Capitalism, but also against these pillars of
-Capitalism: Law, Authority, and the State."_ [**Evolution and Environment**,
+Capitalism: Law, Authority, and the State."_ [ **Evolution and Environment** ,
 p. 16 and p. 19]
 
 In other words, anarchism as it exists today, as a social movement with a long
@@ -52,9 +52,9 @@ Anarchists realise that the power of governments and other forms of hierarchy
 depends upon the agreement of the governed. Fear is not the whole answer, it
 is far more _"because they [the oppressed] subscribe to the same values as
 their governors. Rulers and ruled alike believe in the principle of authority,
-of hierarchy, of power."_ [Colin Ward, **Anarchy in Action**, p. 15] With this
-in mind, we present in this section of the FAQ our arguments to challenge this
-"consensus," to present the case why we should become anarchists, why
+of hierarchy, of power."_ [Colin Ward, **Anarchy in Action** , p. 15] With
+this in mind, we present in this section of the FAQ our arguments to challenge
+this "consensus," to present the case why we should become anarchists, why
 authoritarian social relationships and organisations are not in our interests.
 
 Needless to say, this task is not easy. No ruling class could survive unless
@@ -65,21 +65,22 @@ assumptions of a society. In this way the dominant ideas in society are those
 of the dominant elite. This means that any social movement needs to combat
 these ideas before trying to end them:
 
-> _ "People often do not even recognise the existence of systems of oppression
-and domination. They have to try to struggle to gain their rights within the
-systems in which they live before they even perceive that there is repression.
-Take a look at the women's movement. One of the first steps in the development
-of the women's movement was so-called 'consciousness raising efforts.' Try to
-get women to perceive that it is not the natural state of the world for them
-to be dominated and controlled. My grandmother couldn't join the women's
-movement, since she didn't feel any oppression, in some sense. That's just the
-way life was, like the sun rises in the morning. Until people can realise that
-it is not like the sun rising, that it can be changed, that you don't have to
-follow orders, that you don't have to be beaten, until people can perceive
-that there is something wrong with that, until that is overcome, you can't go
-on. And one of the ways to do that is to try to press reforms within the
-existing systems of repression, and sooner or later you find that you will
-have to change them."_ [Noam Chomsky, **Anarchism Interview**]
+> _"People often do not even recognise the existence of systems of oppression
+> and domination. They have to try to struggle to gain their rights within the
+> systems in which they live before they even perceive that there is
+> repression. Take a look at the women's movement. One of the first steps in
+> the development of the women's movement was so-called 'consciousness raising
+> efforts.' Try to get women to perceive that it is not the natural state of
+> the world for them to be dominated and controlled. My grandmother couldn't
+> join the women's movement, since she didn't feel any oppression, in some
+> sense. That's just the way life was, like the sun rises in the morning.
+> Until people can realise that it is not like the sun rising, that it can be
+> changed, that you don't have to follow orders, that you don't have to be
+> beaten, until people can perceive that there is something wrong with that,
+> until that is overcome, you can't go on. And one of the ways to do that is
+> to try to press reforms within the existing systems of repression, and
+> sooner or later you find that you will have to change them."_ [Noam Chomsky,
+> **Anarchism Interview** ]
 
 This means, as Malatesta stressed, that anarchists _"first task therefore must
 be to persuade people."_ This means that we _"must make people aware of the
@@ -92,7 +93,7 @@ sentiment of rebellion in the minds of men [and women] against the avoidable
 and unjust evils from which we suffer in society today, and in getting them to
 understand how they are caused and how it depends on human will to rid
 ourselves of them"_ then we will be able to unite and change them for the
-better. [**Errico Malatesta: His Life and Ideas**, pp. 185-6]
+better. [ **Errico Malatesta: His Life and Ideas** , pp. 185-6]
 
 So we must explain **why** we want to change the system. From this discussion,
 it will become apparent why anarchists are dissatisfied with the very limited
@@ -101,17 +102,17 @@ society. In the words of Noam Chomsky, the anarchist critique of modern
 society means:
 
 > _"to seek out and identify structures of authority, hierarchy, and
-domination in every aspect of life, and to challenge them; unless a
-justification for them can be given, they are illegitimate, and should be
-dismantled, to increase the scope of human freedom. That includes political
-power, ownership and management, relations among men and women, parents and
-children, our control over the fate of future generations (the basic moral
-imperative behind the environmental movement. . .), and much else. Naturally
-this means a challenge to the huge institutions of coercion and control: the
-state, the unaccountable private tyrannies that control most of the domestic
-and international economy [i.e. capitalist corporations and companies], and so
-on. But not only these."_ [**Marxism, Anarchism, and Alternative Futures**, p.
-775]
+> domination in every aspect of life, and to challenge them; unless a
+> justification for them can be given, they are illegitimate, and should be
+> dismantled, to increase the scope of human freedom. That includes political
+> power, ownership and management, relations among men and women, parents and
+> children, our control over the fate of future generations (the basic moral
+> imperative behind the environmental movement. . .), and much else. Naturally
+> this means a challenge to the huge institutions of coercion and control: the
+> state, the unaccountable private tyrannies that control most of the domestic
+> and international economy [i.e. capitalist corporations and companies], and
+> so on. But not only these."_ [ **Marxism, Anarchism, and Alternative
+> Futures** , p. 775]
 
 This task is made easier by the fact that the _"dominating class"_ has **not**
 _"succeeded in reducing all its subjects to passive and unconscious
@@ -122,7 +123,7 @@ cannot put out the spark of freedom totally. Indeed, they help produce the
 spirit of revolt by their very operation as people finally say enough is
 enough and stand up for their rights. Thus hierarchical societies _"contain
 organic contradictions and [these] are like the germs of death"_ from which
-_"the possibility of progress"_ springs. [Malatesta, **Op. Cit.**, pp. 186-7]
+_"the possibility of progress"_ springs. [Malatesta, **Op. Cit.** , pp. 186-7]
 
 Anarchists, therefore, combine their critique of existing society with active
 participation in the on-going struggles which exist in any hierarchical
@@ -157,7 +158,7 @@ However, this section of the FAQ is concerned directly with the critical or
 "negative" aspect of anarchism, the exposing of the evil inherent in all
 authority, be it from state, property or whatever and why, consequently,
 anarchists seek _"the destruction of power, property, hierarchy and
-exploitation."_ [Murray Bookchin, **Post-Scarcity Anarchism**, p. 11] Later
+exploitation."_ [Murray Bookchin, **Post-Scarcity Anarchism** , p. 11] Later
 sections will indicate how, after analysing the world, anarchists plan to
 change it constructively, but some of the constructive core of anarchism will
 be seen even in this section. After this broad critique of the current system,
@@ -168,6 +169,6 @@ section impact on society as a whole. [Section E](secEcon.md) discusses the
 causes (and some suggested solutions) to the ecological problems we face.
 
 [‹ Section B - Why do anarchists oppose the current system?](secBcon.md "Go
-to previous page" ) [up](secBcon.md "Go to parent page" ) [B.1 Why are
-anarchists against authority and hierarchy? ›](secB1.md "Go to next page" )
+to previous page") [up](secBcon.md "Go to parent page") [B.1 Why are
+anarchists against authority and hierarchy? ›](secB1.md "Go to next page")
 

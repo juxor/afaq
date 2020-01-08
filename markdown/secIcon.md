@@ -140,7 +140,7 @@ revolution?](secI8.md#seci814)
   * [I.7 Won't Libertarian Socialism destroy individuality?](secI7.md)
   * [I.8 Does revolutionary Spain show that libertarian socialism can work in practice?](secI8.md)
 
-[‹ H.6 Why did the Russian Revolution fail?](secH6.md "Go to previous page"
-) [up](index.md "Go to parent page" ) [I.0 Section I Introduction
-›](secIint.md "Go to next page" )
+[‹ H.6 Why did the Russian Revolution fail?](secH6.md "Go to previous page")
+[up](index.md "Go to parent page") [I.0 Section I Introduction
+›](secIint.md "Go to next page")
 

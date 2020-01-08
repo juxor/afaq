@@ -33,7 +33,7 @@ Click [here](index.md) to go back to _**"An Anarchist FAQ"**_ main page
 _**Interesting on-line magazines, papers and journals.**_
 
 [  
-.lobster-magazine.co.uk/)  
+Lobster: Journal of parapolitics, intelligence and State
   
 Excellent journal exposing parapolitical goings on across the world.  
 Find out what the secret state is up to. Recommended.
@@ -221,7 +221,7 @@ world.
   
 UK based **Anti-Fascist Action**. As the name suggests, AFA  
 is a pro-direct action, anti-nazi group. Site includes articles  
-from **Fighting Talk**, their magazine.
+from **Fighting Talk** , their magazine.
 
   
 Anti-Fascist Action in Sweden
@@ -243,7 +243,7 @@ Anti-yuppie webpage from the Mission, San Francisco.
 Fighting for women's equality against religious fundamentalism  
 and imperialism in Afghanistan.
 
-[Interactivist Info Exchange: Independent Media &amp;
+[Interactivist Info Exchange: Independent Media &
   
 Useful webpage for news and analysis for radicals.
 
@@ -272,7 +272,7 @@ and so on. US based.
   
 US based labour union site. AFL-CIO based.
 
-[SIPTU Fightback - Ireland : SIPTU activists seeking a democratic &amp;
+[SIPTU Fightback - Ireland : SIPTU activists seeking a democratic & fighting
   
 Irish rank and file group working to make their trade union more  
 libertarian.
@@ -318,7 +318,7 @@ interesting analysis of various aspects of capitalism. Like anarchists,
 Cleaver  
 places emphasis on class struggle as the key to understanding capitalism.
 
-&gt;Aufheben
+>Aufheben
 
   
   
@@ -336,7 +336,7 @@ Marx instead of trying to move beyond him. Still worth checking out.
   
 British based libertarian communist/Marxist magazine. Worth checking out.
 
-[Eclipse &amp; Re-emergence of the Communist
+[Eclipse & Re-emergence of the Communist
   
 Classic introduction to libertarian marxist ideas.
 
@@ -374,7 +374,7 @@ means of autonomous, radically-democratic, and
 voluntarily-federated workers' organizations.
 
 [  
-Common Dreams NewsCenter - News &amp; Views for the Progressive
+Common Dreams NewsCenter - News & Views for the Progressive
   
 Interesting Council Communist magazine.
 
@@ -445,7 +445,6 @@ finger tips. Also good for exposing right-libertarian nonsense for what it is.
 This page fights against fascism, racism, imperialism and sexism. Has  
 links to sites about East Timor.
 
-Pontificates
 
   
   
@@ -456,7 +455,7 @@ interest to radicals.
 Information on Municipal Socialism, a decentralised socialism based  
 upon local people owning and managing their own towns and neighbourhoods.
 
-Socialism, Anarchism: Autonarchy
+Anarchism: Autonarchy
 
   
   
@@ -474,7 +473,7 @@ change. Associated with **Z Magazine**.
   
 And why not?
 
-and Links for the Worker and Student  
+Links for the Worker and Student  
   
 Has links to and information about many left-wing and capitalist stuff.  
 Also has a nice little section on anarchism. Worth looking at.
@@ -651,6 +650,6 @@ Anti-Fascist webpage.
 
   
 
-[‹ Other Anarchist Web-pages](alinks.md "Go to previous page" )
-[up](links.md "Go to parent page" )
+[‹ Other Anarchist Web-pages](alinks.md "Go to previous page")
+[up](links.md "Go to parent page")
 

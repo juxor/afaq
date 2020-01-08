@@ -9,7 +9,7 @@ organisations then their economic liberty will likewise be restricted and,
 conversely, if their economic freedoms are limited then so, too, will their
 political freedoms. As Proudhon put it, _"industrial liberty is inseparable
 from political liberty."_ [quoted by Alan Ritter, **The Political Thought of
-Pierre-Joseph Proudhon**, p. 188]
+Pierre-Joseph Proudhon** , p. 188]
 
 Some disagree, arguing that economic liberty is of primary importance. When
 Milton Friedman died in 2006, for example, many of his supporters parroted his
@@ -21,7 +21,7 @@ freedom is an indispensable means toward the achievement of political
 freedom."_ For while Friedman stated that there was _"an intimate connection
 between economics and politics,"_ he meant simply that capitalism was required
 to produce democracy (to use his words, _"capitalism is a necessary condition
-for political freedom"_). [**Capitalism and Freedom**, p. 8 and p. 10]
+for political freedom"_ ). [ **Capitalism and Freedom** , p. 8 and p. 10]
 
 So it should first be stressed that by "economic liberty" Friedman meant
 capitalism and by "political liberty" he meant representative government and a
@@ -50,9 +50,9 @@ economic dogmas in Chile refuted them. Much the same can be said of his
 distinction of "economic" and "political" liberty. Friedman discussed the
 Chilean regime in 1991, arguing that _"Pinochet and the military in Chile were
 led to adopt free market principles after they took over only because they did
-not have any other choice."_ [**Economic Freedom, Human Freedom, Political
-Freedom**] This is an interesting definition of _"free market principles."_ It
-seems to be compatible with a regime in which the secret police can seize
+not have any other choice."_ [ **Economic Freedom, Human Freedom, Political
+Freedom** ] This is an interesting definition of _"free market principles."_
+It seems to be compatible with a regime in which the secret police can seize
 uppity workers, torture them and dump their bodies in a ditch as a warning to
 others.
 
@@ -61,13 +61,13 @@ it, _"I have nothing good to say about the political regime that Pinochet
 imposed. It was a terrible political regime. The real miracle of Chile is not
 how well it has done economically; the real miracle of Chile is that a
 military junta was willing to go against its principles and support a free
-market regime designed by principled believers in a free market."_ [**Op.
-Cit.**] How, exactly, could the political regime **not** impact on the
+market regime designed by principled believers in a free market."_ [ **Op.
+Cit.** ] How, exactly, could the political regime **not** impact on the
 economic one? How is a "free market" possible if people who make up the labour
 market are repressed and in fear of their lives? True, the Chilean workers
 could, as workers in Tsarist Russia, _"change their jobs without getting
-permission from political authorities"_ (as Friedman put it [**Capitalism and
-Freedom**, p. 10]), however this is only a small part of what anarchists
+permission from political authorities"_ (as Friedman put it [ **Capitalism and
+Freedom** , p. 10]), however this is only a small part of what anarchists
 consider to be genuine economic liberty.
 
 To see why, it is useful to show a snapshot of what life was like under
@@ -76,25 +76,25 @@ is easy to see how incredulous Friedman was being. Peter Winn gives a good
 description of what Chile's "economic liberty" was based on:
 
 > _"In the wake of the coup, most of the 'revolutionary' leaders of the
-textile workers disappeared, some to unmarked graves, jails, or concentration
-camps, others to exile or the underground resistance. Moreover, when the
-textile factories resumed production, it was under military administration and
-with soldiers patrolling the plants. Authoritarian management and industrial
-discipline were reimposed at the point of a bayonet, and few workers dared to
-protest. Some feared for their lives or liberty; many more feared for their
-jobs. Military intelligence officers interrogated the workers one by one,
-pressing them to inform on each other and then firing those considered to be
-leftist activists. The dismissals often continued after the mills were
-returned to their former owners, at first for political reasons or for
-personal revenge, but, with the recession of 1975, for economic motives as
-well. The unions, decimated by their leadership losses, intimidated by the
-repression, and proscribed by military decree from collective bargaining,
-strikes, or other militant actions, were incapable of defending their members'
-jobs, wages, or working conditions. With wages frozen and prices rising
-rapidly, living standards fell precipitously, even for those fortunate enough
-to keep their jobs."_ [_"No Miracle for Us"_, Peter Winn (ed.), **Victims of
-the Chilean Miracle: Workers and Neoliberalism in the Pinochet Era,
-1973-2002**, p. 131]
+> textile workers disappeared, some to unmarked graves, jails, or
+> concentration camps, others to exile or the underground resistance.
+> Moreover, when the textile factories resumed production, it was under
+> military administration and with soldiers patrolling the plants.
+> Authoritarian management and industrial discipline were reimposed at the
+> point of a bayonet, and few workers dared to protest. Some feared for their
+> lives or liberty; many more feared for their jobs. Military intelligence
+> officers interrogated the workers one by one, pressing them to inform on
+> each other and then firing those considered to be leftist activists. The
+> dismissals often continued after the mills were returned to their former
+> owners, at first for political reasons or for personal revenge, but, with
+> the recession of 1975, for economic motives as well. The unions, decimated
+> by their leadership losses, intimidated by the repression, and proscribed by
+> military decree from collective bargaining, strikes, or other militant
+> actions, were incapable of defending their members' jobs, wages, or working
+> conditions. With wages frozen and prices rising rapidly, living standards
+> fell precipitously, even for those fortunate enough to keep their jobs."_ [
+> _"No Miracle for Us"_ , Peter Winn (ed.), **Victims of the Chilean Miracle:
+> Workers and Neoliberalism in the Pinochet Era, 1973-2002** , p. 131]
 
 In the copper mines, _"[h]undreds of leftist activists were fired, and many
 were arrested and tortured . . . the military exercised a firm control over
@@ -107,7 +107,7 @@ supervision. At work, _"supervisors and foremen ruled with an authoritarian
 discipline"_ while miners _"reported that spies denounced workers who talked
 politics or spoke at union meetings to the company administration and
 police."_ [Thomas Miller Klubock, _"Class, Community, and Neoliberalism in
-Chile"_, Winn (ed.), **Op. Cit.**, p. 214 p. 216 and p. 217]
+Chile"_ , Winn (ed.), **Op. Cit.** , p. 214 p. 216 and p. 217]
 
 Over all, Workers _"bore the brunt of the repression during the military take-
 over and throughout the Pinochet regime. The armed forces viewed workers --
@@ -120,7 +120,7 @@ liberty, the latter was dependent on the end of the former: _"Fear of
 repression was clearly essential to the implementation of free-market labour
 policies, but far more pervasive was the fear of unemployment"_ generated by
 the so-called "economic miracle." [John Lear and Joseph Collins, _"Working in
-Chile's Free Market"_, pp. 10-29, **Latin American Perspectives**, vol. 22,
+Chile's Free Market"_ , pp. 10-29, **Latin American Perspectives** , vol. 22,
 No. 1, pp. 12-3 and p. 14]
 
 Thus the ready police repression made strikes and other forms of protest both
@@ -131,20 +131,20 @@ demonstrators."_ According to a report by the Roman Catholic Church 113
 protesters had been killed during social protest, with several thousand
 detained for political activity and protests between May 1983 and mid-1984.
 Thousands of strikers were also fired and union leaders jailed. [Rayack, **Op.
-Cit.**, p. 70] In fact, the _"brutal government repression put even the
-militant copper miners on the defensive."_ [Winn, _"The Pinochet Era"_, Winn
-(ed.), **Op. Cit.**, p. 43] Workers were aware that the regime _"was likely to
-use the full rigour of the law against workers who acted in defence of their
-interests. Moreover, even though the arbitrary actions of the secret police
-diminished in the last years of the dictatorship, they did not disappear, nor
-did their internalised legacy. Fear of becoming a target of repression still
-exercised a chilling effect on both workers and their leaders."_ [Winn, _"No
-Miracle for Us"_, Winn (ed.), **Op. Cit.**, p. 133]
+Cit.** , p. 70] In fact, the _"brutal government repression put even the
+militant copper miners on the defensive."_ [Winn, _"The Pinochet Era"_ , Winn
+(ed.), **Op. Cit.** , p. 43] Workers were aware that the regime _"was likely
+to use the full rigour of the law against workers who acted in defence of
+their interests. Moreover, even though the arbitrary actions of the secret
+police diminished in the last years of the dictatorship, they did not
+disappear, nor did their internalised legacy. Fear of becoming a target of
+repression still exercised a chilling effect on both workers and their
+leaders."_ [Winn, _"No Miracle for Us"_ , Winn (ed.), **Op. Cit.** , p. 133]
 
 All of which puts into stark light Friedman's 1982 comment that _"Chile is an
 even more amazing political miracle. A military regime has supported reforms
 that sharply reduce the role of the state and replace control from the top
-with control from the bottom."_ [quoted by Rayack, **Not so Free to Choose**,
+with control from the bottom."_ [quoted by Rayack, **Not so Free to Choose** ,
 p. 37] Clearly Friedman had no idea what he was talking about. While the
 _"role of the state"_ **was** reduced in terms of welfare for the masses, it
 was obviously massively **increased** in terms of warfare against them (we
@@ -156,14 +156,14 @@ economic and political regime cannot be so easily compartmentalised. As
 Malatesta noted, _"every economic question of some importance automatically
 becomes a political question . . . Workers' organisations must therefore, of
 necessity, adopt a line of action in face of present as well as possible
-future government action."_ [**Errico Malatesta: His Life and Ideas**, pp.
+future government action."_ [ **Errico Malatesta: His Life and Ideas** , pp.
 130-1] Such common-sense is sadly lacking with Friedman who seriously seems to
 believe that "economic liberty" could exist without the freedom of workers to
 take collective action if they so desired. In other words, the "economic
 miracle" Friedman praises was built on the corpses, fears and backs of working
 class people. Unlike Friedman, Chile's workers and bosses know that
 _"employers could count on the backing of the military in any conflict with
-workers."_ [Lear and Collins, **Op. Cit.**, p. 13] As can be seen, Malatesta
+workers."_ [Lear and Collins, **Op. Cit.** , p. 13] As can be seen, Malatesta
 had a much firmer grasp of the question of liberty that Friedman, as expected
 as the latter equals it with capitalism and its hierarchies while the former
 spent much of his live in prison and exile trying to increase the freedom of
@@ -218,10 +218,11 @@ liberty becomes clear.
 The most obvious fallacy within his argument is this assertion:
 
 > _"A characteristic feature of a free private market is that all parties to a
-transaction believe that they are going to be better off by that transaction.
-It is not a zero sum game in which some can benefit only at the expense of
-others. It is a situation in which everybody thinks he is going to be better
-off."_ [**Economic Freedom, Human Freedom, Political Freedom**]
+> transaction believe that they are going to be better off by that
+> transaction. It is not a zero sum game in which some can benefit only at the
+> expense of others. It is a situation in which everybody thinks he is going
+> to be better off."_ [ **Economic Freedom, Human Freedom, Political Freedom**
+> ]
 
 Who can deny that the worker who sells her liberty to the autocrat of a
 capitalist firm is _"going to be better off"_ than one starving to death? As
@@ -247,13 +248,13 @@ can be seen from Friedman's comparison of military dictatorships to
 capitalism:
 
 > _"Almost all military juntas are adverse to economic freedom for obvious
-reasons. The military is organised from the top down: the general tells the
-colonel, the colonel tells the captain, the captain tells the lieutenant, and
-so on. A market economy is organised from the bottom up: the consumer tells
-the retailer, the retailer tells the wholesaler, the wholesaler tells the
-producer, and the producer delivers. The principles underlying a military
-organisation are precisely the reverse of those underlying a market
-organisation."_ [**Op. Cit.**]
+> reasons. The military is organised from the top down: the general tells the
+> colonel, the colonel tells the captain, the captain tells the lieutenant,
+> and so on. A market economy is organised from the bottom up: the consumer
+> tells the retailer, the retailer tells the wholesaler, the wholesaler tells
+> the producer, and the producer delivers. The principles underlying a
+> military organisation are precisely the reverse of those underlying a market
+> organisation."_ [ **Op. Cit.** ]
 
 Obviously geometry was not Friedman's strong point. A "market economy" is
 characterised by **horizontal** links between workplaces and consumers, not
@@ -274,17 +275,17 @@ Labour Code . . . At many mills, sweatshop conditions prevailed, wages were
 low, and management was authoritarian, even tyrannical . . . Workers might
 resent these conditions, but they often felt powerless to oppose them.
 Informers and the threat of dismissal kept even alienated and discontented
-workers in line."_ [_"No Miracle for Us"_, Winn (ed.), **Op. Cit.**, p. 132
+workers in line."_ [ _"No Miracle for Us"_ , Winn (ed.), **Op. Cit.** , p. 132
 and pp. 132-3] John Lear and Joseph Collins generalise the picture, noting
 that _"[i]n wake of the coup, factory owners suddenly had absolute control
 over their workers and could fire any worker without case. From 1973 through
 1978, practically every labour right for organised and unorganised workers was
 suspended. All tools of collective bargaining, including of course the right
-to strike, were outlawed."_ [**Op. Cit.**, p. 13] The Junta themselves had no
-illusions about the military-like regime they desired within the workplace,
+to strike, were outlawed."_ [ **Op. Cit.** , p. 13] The Junta themselves had
+no illusions about the military-like regime they desired within the workplace,
 stating in 1974 its intention of _"imposing authority and discipline in
 production and labour relations."_ [quoted by Joseph Collins and John Lear,
-**Chile's Free-Market Miracle: A Second Look**, p. 27]
+**Chile's Free-Market Miracle: A Second Look** , p. 27]
 
 The reality of life under Pinochet for working class people should make anyone
 with sense wary of praising the regime in any way, but Friedman argued that
@@ -292,11 +293,11 @@ the _"results were spectacular. Inflation came down sharply. After a
 transitory period of recession and low output that is unavoidable in the
 course of reversing a strong inflation, output started to expand, and ever
 since, the Chilean economy has performed better than any other South American
-economy."_ [**Op. Cit.**] Of course, by downplaying the deep recession caused
-by applying his recommended _"shock-treatment"_ policies, Friedman can confuse
-the high growth resulting from coming out of the boom combined with ready
-repression on labour with sound economic policies. Strangely he failed to
-mention the _"spectacular"_ recession of 1982 which wiped out the gains of
+economy."_ [ **Op. Cit.** ] Of course, by downplaying the deep recession
+caused by applying his recommended _"shock-treatment"_ policies, Friedman can
+confuse the high growth resulting from coming out of the boom combined with
+ready repression on labour with sound economic policies. Strangely he failed
+to mention the _"spectacular"_ recession of 1982 which wiped out the gains of
 1976 to 1981. As indicated in [section C.11](secC11.md), looking over the
 whole of the Pinochet period the results were hardly _"spectacular"_ (unless
 you were rich) and the moderate gains were paid for by the working class in
@@ -326,7 +327,7 @@ myopia about the reality of the regime was expressed in articles which amount
 to little more than apologetics for the dictatorship. For example, in 1982 he
 noted in response to the economic problems of the previous year _"the
 opposition to the free-market policies that had been largely silence by
-success is being given full voice."_ [quoted by Rayack, **Op. Cit.**, p. p.
+success is being given full voice."_ [quoted by Rayack, **Op. Cit.** , p. p.
 63] No mention that the real cause of the _"silence"_ of the opposition was
 not the _"success"_ of policies which had impoverished the working class and
 enriched the elite but, rather, the expectation of a visit by the secret
@@ -352,15 +353,15 @@ arguing that its "economic liberty" helped produce the end of the
 dictatorship. In the words of Friedman:
 
 > _"The economic development and the recovery produced by economic freedom in
-turn promoted the public's desire for a greater degree of political freedom .
-. . In Chile, the drive for political freedom, that was generated by economic
-freedom and the resulting economic success, ultimately resulted in a
-referendum that introduced political democracy. Now, at long last, Chile has
-all three things: political freedom, human freedom and economic freedom. Chile
-will continue to be an interesting experiment to watch to see whether it can
-keep all three or whether, now that it has political freedom, that political
-freedom will tend to be used to destroy or reduce economic freedom."_ [**Op.
-Cit.**]
+> turn promoted the public's desire for a greater degree of political freedom
+> . . . In Chile, the drive for political freedom, that was generated by
+> economic freedom and the resulting economic success, ultimately resulted in
+> a referendum that introduced political democracy. Now, at long last, Chile
+> has all three things: political freedom, human freedom and economic freedom.
+> Chile will continue to be an interesting experiment to watch to see whether
+> it can keep all three or whether, now that it has political freedom, that
+> political freedom will tend to be used to destroy or reduce economic
+> freedom."_ [ **Op. Cit.** ]
 
 It is hard to find an account so skewed by ideological blindness as this. The
 notion that Chile's "free market" capitalism provided the base for eliminating
@@ -390,7 +391,7 @@ out, the 1983-86 _"cycle of protests had set the stage for a negotiated
 transition to democracy in 1990."_ These protests, it should be noted, were
 subject to extreme state repression (one demonstration saw Pinochet send
 18,000 troops onto the streets, who shot 129 people, 29 fatally, and tortured
-some of the 1,000 arrested). [**Shantytown protest in Pinochet's Chile**, p.
+some of the 1,000 arrested). [ **Shantytown protest in Pinochet's Chile** , p.
 194 and p. 165] Peter Winn, for example, notes _"the resistance of workers to
 both the dictatorship and its neoliberal policies, often against great odds
 and at great risks."_ In fact, _"during the Pinochet era, with its repression
@@ -401,11 +402,11 @@ flag of political resistance against the dictatorship in the 1970s and
 sustained it during the years when political parties were banned. And it was
 the copper miners who mobilised the social protests and political opposition
 to the military regime in the 1980s to demand an end to Pinochet's
-dictatorship and the restoration of democracy and civil liberties."_
-[_"Introduction"_, Winn (ed.), **Op. Cit.**, p. 11] This is confirmed by John
+dictatorship and the restoration of democracy and civil liberties."_ [
+_"Introduction"_ , Winn (ed.), **Op. Cit.** , p. 11] This is confirmed by John
 Lear and Joseph Collins, who note that _"[d]uring the mid-1980s, unions were
 fundamental to organising the national protests that led eventually to the
-negotiations of the 1988 plebiscite."_ [**Op. Cit.**, p. 20]
+negotiations of the 1988 plebiscite."_ [ **Op. Cit.** , p. 20]
 
 This, it should be noted, has always been the case. Political freedoms have
 **never** been given by the powers that be but rather won by long struggles by
@@ -414,7 +415,7 @@ basic political liberties were _"extorted from parliament by force, by
 agitations that threatened to become rebellions. It was by establishing trade
 unions and practising strike action despite the edicts of Parliament and the
 hangings"_ that workers _"won the right to associate and strike"_ in Britain
-for example. [**Words of a Rebel**, pp. 123-4] To ignore that often heroic
+for example. [ **Words of a Rebel** , pp. 123-4] To ignore that often heroic
 struggle shows an ignorance about history which only matches an ignorance
 about liberty. The history of capitalism is important in this regard. It first
 developed under Absolutist states which used its power to bolster the position
@@ -429,7 +430,7 @@ civil liberties and the vote. As Chomsky notes, such progress _"didn't just
 happen; it happened through the struggles of the labour movement, and the
 Civil Rights Movement, and the women's movement, and everything else. It's the
 popular movements which expanded the domain of freedom of speech [and other
-liberties] until it began to be meaningful."_ [**Understanding Power**, pp.
+liberties] until it began to be meaningful."_ [ **Understanding Power** , pp.
 268-9]
 
 Once these rights were won, the ruling elite has always turned to fascism to
@@ -442,7 +443,7 @@ possible. Unsurprisingly, given the key role of working class people in the
 struggle for freedom, _"Worker leaders and activists . . . were central
 targets of the military regime's state terror, whose goal was to intimidate
 them into passivity, in large part so that neoliberal policies could be
-imposed."_ [Peter Winn, _"Introduction"_, **Op. Cit.**, p. 12] Equally
+imposed."_ [Peter Winn, _"Introduction"_ , **Op. Cit.** , p. 12] Equally
 unsurprising, those who had taken to the streets aimed for political freedom
 in order to **end** the "economic liberty" imposed by the regime.
 
@@ -459,7 +460,7 @@ ends of that spectrum. That he can comment on _"the paradox that economic
 freedom produces political freedom but political freedom may destroy economic
 freedom"_ in the context of Chile is staggering, as it was the destruction of
 "political freedom" that allowed "economic freedom" (for the rich) to be
-imposed. [**Op. Cit.**] In reality, Chile provides evidence to support the
+imposed. [ **Op. Cit.** ] In reality, Chile provides evidence to support the
 alternative argument that the introduction of free market capitalism requires
 the elimination or, at best, the reduction of "political liberty."
 
@@ -476,7 +477,7 @@ seriously diminished and the very existence of their privileges threatened,
 they appeal to government and if it is not sufficiently understanding and not
 strong enough to defend them . . . they use their own wealth to finance new
 repressive forces and to set up a new government which will serve them
-better."_ [**Op. Cit.**, p. 131]
+better."_ [ **Op. Cit.** , p. 131]
 
 Friedman's argument implies that "economic liberty" is more important than
 "political liberty," so making people less concerned about dictatorships as
@@ -521,8 +522,8 @@ to decree laws that would hamstring his opponents, even if a majority of the
 electorate supported them."_ In addition, any new government was _"confronted
 by a judiciary and government bureaucracy packed by Pinochet with his own
 adherents. Moreover, the Right enjoyed a near monopoly of the press and media
-that grew as the decade advanced."_ [Winn, _"The Pinochet Era"_, **Op. Cit.**,
-p. 64 and p. 49]
+that grew as the decade advanced."_ [Winn, _"The Pinochet Era"_ , **Op. Cit.**
+, p. 64 and p. 49]
 
 Thus Chile is lumbered with Pinochet's legacy, _"the authoritarian
 constitution of 1980, which sought to create a 'protected democracy' under
@@ -534,7 +535,7 @@ broad purview."_ It also _"banned measures against private property."_ With
 some _"relative minor modifications of some of its most egregious features
 during the transition to democracy"_ it remained _"in effect for the rest of
 the century"_ and in 2004 was _"still Chile's fundamental charter."_ [Winn,
-**Op. Cit.**, p. 30] This constitution built upon the work of
+**Op. Cit.** , p. 30] This constitution built upon the work of
 right-"libertarian" Friedrich von Hayek and, unsurprisingly aimed to insulate
 "economic liberty" from popular pressures, i.e. to limit and reduce democracy
 to secure the freedom of capitalism (and, of course, the capitalist class).
@@ -555,7 +556,7 @@ _"reflected the decision of business elites to call in the military, because
 they could not protect their core interests under Chile's radicalised
 democracy. The lesson that . . . [they] drew . . . was that to avoid its
 repetition in the 1990s it was necessary to reassure business that its
-interests would be protected."_ [Winn, **Op. Cit.**, p. 50 and p. 53]
+interests would be protected."_ [Winn, **Op. Cit.** , p. 50 and p. 53]
 
 The limited nature of Chile's democracy was seen in 1998, when Pinochet was
 arrested in Britain in regard of a warrant issued by a Spanish Judge for the
@@ -573,8 +574,8 @@ history shows that progressive politicians and their supporters have something
 to fear besides losing an election. Unsurprisingly, workers _"socio-economic
 aspirations were postponed in the interest of not jeopardising the transition
 and their expectations of labour law reform were sacrificed on the same
-alter."_ [Winn, _"Introduction"_, Winn (ed.), **Op. Cit.**, p. 10] While 2002
-saw the election of the first socialist president since Allende, it is
+alter."_ [Winn, _"Introduction"_ , Winn (ed.), **Op. Cit.** , p. 10] While
+2002 saw the election of the first socialist president since Allende, it is
 unlikely that Chile will experience anything beyond minor reforms -- the
 legacy of fear and political restrictions will ensure that the ruling class
 will have little to fear from "political liberty" being used by politicians to
@@ -593,7 +594,7 @@ politically, from a country of active participatory grassroots communities, to
 a land of disconnected, apolitical individuals. The cumulative impact of this
 change is such that we are unlikely to see any concerted challenge to the
 current ideology in the near future."_ [quoted by Noam Chomsky, **World
-Orders, Old and New**, p. 184]
+Orders, Old and New** , p. 184]
 
 In such circumstances, political liberty can be re-introduced, as no one is in
 a position to effectively use it. In addition, Chileans live with the memory
@@ -602,10 +603,10 @@ murdering thousands of people as well as repeated and persistent violations of
 human rights by the junta, not to mention the existence of "anti-Marxist"
 death squads -- for example in 1986 _"Amnesty International accused the
 Chilean government of employing death squads."_ [P. Gunson, A. Thompson, G.
-Chamberlain, **Op. Cit.**, p. 86] According to one Human Rights group, the
+Chamberlain, **Op. Cit.** , p. 86] According to one Human Rights group, the
 Pinochet regime was responsible for 11,536 human rights violations between
 1984 and 1988 alone. [Calculation of _"Comite Nacional de Defensa do los
-Derechos del Pueblo,"_ reported in **Fortin**, September 23, 1988]
+Derechos del Pueblo,"_ reported in **Fortin** , September 23, 1988]
 
 These facts that would have a strongly deterrent effect on people
 contemplating the use of political liberty to actually **change** the status
@@ -619,12 +620,11 @@ As Kropotkin pointed out years ago, _"freedom of press . . . and all the rest,
 are only respected if the people do not make use of them against the
 privileged classes. But the day the people begin to take advantage of them to
 undermine those privileges, then the so-called liberties will be cast
-overboard."_ [**Op. Cit.**, p. 42] Chile is a classic example of this, a
+overboard."_ [ **Op. Cit.** , p. 42] Chile is a classic example of this, a
 bloody example which helps deter genuine democracy in that country decades
 later.
 
 [‹ D.10 How does capitalism affect technology?](secD10.md "Go to previous
-page" ) [up](secDcon.md "Go to parent page" ) [Section E - What do
-anarchists think causes ecological problems? ›](secEcon.md "Go to next page"
-)
+page") [up](secDcon.md "Go to parent page") [Section E - What do anarchists
+think causes ecological problems? ›](secEcon.md "Go to next page")
 

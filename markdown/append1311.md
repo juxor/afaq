@@ -41,7 +41,7 @@ gravity automatically stops people flying from the Earth). But that is the
 whole point -- using the term "Natural Law" implies that the moral rights and
 laws that its supporters argue for are to be considered just like the law of
 gravity (although they acknowledge, of course, that unlike gravity, **their**
-_"natural laws"_ **can be violated in nature**). Far from saying that the
+_"natural laws"_ **can be violated in nature** ). Far from saying that the
 rights they support are just that (i.e. rights **they** think are good) they
 try to associate them with universal facts. For example, Lysander Spooner
 (who, we must stress, used the concept of "Natural law" to **oppose** the
@@ -49,16 +49,17 @@ transformation of America into a capitalist society, unlike Rand, Nozick and
 Rothbard who use it to defend capitalism) stated that:
 
 > _"the true definition of law is, that it is a fixed, immutable, natural
-principle; and not anything that man ever made, or can make, unmake, or alter.
-Thus we speak of the laws of matter, and the laws of mind; of the laws of
-gravitation, the laws of light, heat, and electricity. . .etc., etc. . . . The
-law of justice is just as supreme and universal in the moral world, as these
-others are in the mental or physical world; and is as unalterable as are these
-by any human power. And it is just as false and absurd to talk of anybody's
-having the power to abolish the law of justice, and set up their own in its
-stead, as it would be to talk of their having the power to abolish the law of
-gravitation, or any other natural laws of the universe, and set up their own
-will in the place of them."_ [**A Letter to Grover Cleveland**, p. 88]
+> principle; and not anything that man ever made, or can make, unmake, or
+> alter. Thus we speak of the laws of matter, and the laws of mind; of the
+> laws of gravitation, the laws of light, heat, and electricity. . .etc., etc.
+> . . . The law of justice is just as supreme and universal in the moral
+> world, as these others are in the mental or physical world; and is as
+> unalterable as are these by any human power. And it is just as false and
+> absurd to talk of anybody's having the power to abolish the law of justice,
+> and set up their own in its stead, as it would be to talk of their having
+> the power to abolish the law of gravitation, or any other natural laws of
+> the universe, and set up their own will in the place of them."_ [ **A Letter
+> to Grover Cleveland** , p. 88]
 
 Rothbard and other capitalist supporters of "Natural Law" make the same sort
 of claims (as we will see). Now, why, if they are aware of the fact that
@@ -79,15 +80,15 @@ than compare them to the facts of nature.
 
 Murray Rothbard claims that _"Natural Law theory rests on the insight. . .
 that each entity has distinct and specific properties, a distinct 'nature,'
-which can be investigated by man's reason"_ [**For a New Liberty**, p. 25] and
-that _"man has rights because they are **natural** rights. They are grounded
-in the nature of man."_ [**The Ethics of Liberty**, p. 155]
+which can be investigated by man's reason"_ [ **For a New Liberty** , p. 25]
+and that _"man has rights because they are **natural** rights. They are
+grounded in the nature of man."_ [ **The Ethics of Liberty** , p. 155]
 
 To put it bluntly, this form of "analysis" was originated by Aristotle and has
 not been used by science for centuries. Science investigates by proposing
 theories and hypotheses to explain empirical observations, testing and
 refining them by experiment. In stark contrast, Rothbard **invents**
-definitions (_"distinct" "natures"_) and then draws conclusions from them.
+definitions ( _"distinct" "natures"_ ) and then draws conclusions from them.
 Such a method was last used by the medieval Church and is devoid of any
 scientific method. It is, of course, a fiction. It attempts to deduce the
 nature of a "natural" society from _a priori_ considerations of the "innate"
@@ -98,17 +99,17 @@ specific properties" that, given his assumptions, will allow his dogma
 (private state capitalism) to be inferred as the "natural" society for humans.
 
 Rothbard claims that _"if A, B, C, etc., have differing attributes, it follows
-that they have different **natures.**"_ [**The Ethics of Liberty**, p. 9] Does
-this means that as every individual is unique (have different attributes),
-they have different natures? Skin and hair colour are different attributes,
-does this mean that red haired people have different natures than blondes?
-That black people have different natures than white (and such a "theory" of
-"natural law" was used to justify slavery -- yes, slaves **are** human but
-they have "different natures" than their masters and so slavery is okay). Of
-course Rothbard aggregates "attributes" to species level, but why not higher?
-Humans are primates, does that mean we have the same natures are monkeys or
-gorillas? We are also mammals as well, we share many of the same attributes as
-whales and dogs. Do we have similar natures?
+that they have different **natures.** "_ [ **The Ethics of Liberty** , p. 9]
+Does this means that as every individual is unique (have different
+attributes), they have different natures? Skin and hair colour are different
+attributes, does this mean that red haired people have different natures than
+blondes? That black people have different natures than white (and such a
+"theory" of "natural law" was used to justify slavery -- yes, slaves **are**
+human but they have "different natures" than their masters and so slavery is
+okay). Of course Rothbard aggregates "attributes" to species level, but why
+not higher? Humans are primates, does that mean we have the same natures are
+monkeys or gorillas? We are also mammals as well, we share many of the same
+attributes as whales and dogs. Do we have similar natures?
 
 But this is by the way. To continue we find that after defining certain
 "natures," Rothbard attempts to derive _"Natural Rights and Laws"_ from them.
@@ -119,7 +120,7 @@ desires to foist upon us are not like this. They need to be enforced by humans
 and the institutions they create. Hence, Libertarian "Natural Laws" are more
 akin to moral prescriptions or juridical laws. However, this does not stop
 Rothbard explicitly _"plac[ing]"_ his _"Natural Laws" "alongside physical or
-'scientific' natural laws."_ [**The Ethics of Liberty**, p. 42]
+'scientific' natural laws."_ [ **The Ethics of Liberty** , p. 42]
 
 So why do so many Libertarians use the term "Natural Law?" Simply, it gives
 them the means by which to elevate their opinions, dogmas, and prejudices to a
@@ -136,8 +137,8 @@ having landlords and employers along with _"the laws of nature."_ They are
 **not** similar: the first two are social relationships which have to be
 imposed by the state; the _"laws of nature"_ (like gravity, needing food,
 etc.) are **facts** which do not need to be imposed. Rothbard claims that
-_"the natural fact is that labour service **is** indeed a commodity."_ [**Op.
-Cit.**, p. 40] However, this is complete nonsense -- labour service as a
+_"the natural fact is that labour service **is** indeed a commodity."_ [ **Op.
+Cit.** , p. 40] However, this is complete nonsense -- labour service as a
 commodity is a **social** fact, dependent on the distribution of property
 within society, its social customs and so forth. It is only "natural" in the
 sense that it exists within a given society (the state is also "natural" as it
@@ -149,12 +150,12 @@ the term "wage slavery" to describe it!
 
 Thus, where and when a "fact" appears is essential. For example, Rothbard
 claims that _"[a]n apple, let fall, will drop to the ground; this we all
-observe and acknowledge to be **in the nature** of the apple."_ [**The Ethics
-of Liberty**, p. 9] Actually, we do not "acknowledge" anything of the kind. We
-acknowledge that the apple was subject to the force of gravity and that is why
-it fell. The same apple, "let fall" in a space ship would **not** drop to the
-floor. Has the "nature" of the apple changed? No, but the situation it is in
-has. Thus any attempt to generate abstract "natures" requires you to ignore
+observe and acknowledge to be **in the nature** of the apple."_ [ **The Ethics
+of Liberty** , p. 9] Actually, we do not "acknowledge" anything of the kind.
+We acknowledge that the apple was subject to the force of gravity and that is
+why it fell. The same apple, "let fall" in a space ship would **not** drop to
+the floor. Has the "nature" of the apple changed? No, but the situation it is
+in has. Thus any attempt to generate abstract "natures" requires you to ignore
 reality in favour of ideals.
 
 Because of the confusion its usage creates, we are tempted to think that the
@@ -170,18 +171,18 @@ what is rational for that same individual **as a human being**? It is hard to
 see that we can make such a distinction for _"[i]f I violently interfere with
 Murray Rothbard's freedom, this may violate the 'natural law' of Murray
 Rothbard's needs, but it doesn't violate the 'natural law' of **my** needs."_
-[L.A. Rollins, **The Myth of Natural Rights**, p. 28] Both parties, after all,
-are human and if such interference is, as Rothbard claims, _"antihuman"_ then
-why? _"If it helps me, a human, to advance my life, then how can it be
-unequivocally 'antihuman'?"_ [L. A. Rollins, **Op. Cit.**, p. 27] Thus
+[L.A. Rollins, **The Myth of Natural Rights** , p. 28] Both parties, after
+all, are human and if such interference is, as Rothbard claims, _"antihuman"_
+then why? _"If it helps me, a human, to advance my life, then how can it be
+unequivocally 'antihuman'?"_ [L. A. Rollins, **Op. Cit.** , p. 27] Thus
 "natural law" is contradictory as it is well within the bounds of human nature
 to violate it.
 
 This means that in order to support the dogma of "Natural Law," the cultists
 **must** ignore reality. Ayn Rand claims that _"the source of man's rights is.
 . .the law of identity. A is A -- and Man is Man."_ But Rand (like Rothbard)
-**defines** _"Man"_ as an _"entity of a specific kind -- a rational being"_
-[**The Virtue of Selfishness**, pp. 94-95]. Therefore she cannot account for
+**defines** _"Man"_ as an _"entity of a specific kind -- a rational being"_ [
+**The Virtue of Selfishness** , pp. 94-95]. Therefore she cannot account for
 **irrational** human behaviours (such as those that violate "Natural Laws"),
 which are also products of our "nature." To assert that such behaviours are
 not human is to assert that A can be not-A, thus contradicting the law of
@@ -206,13 +207,13 @@ only thing that stops the state from attacking people's rights is individual
 considers to be right and fair. As the anarchist Rudolf Rocker pointed out:
 
 > _"Political [or individual] rights do not exist because they have been
-legally set down on a piece of paper, but only when they have become the
-ingrown habit of a people, and when any attempt to impair them will be meet
-with the violent resistance of the populace. . . .One compels respect from
-others when he knows how to defend his dignity as a human being. . . .The
-people owe all the political rights and privileges which we enjoy today, in
-greater or lesser measure, not to the good will of their governments, but to
-their own strength."_ [**Anarcho-Syndicalism**, p. 64]
+> legally set down on a piece of paper, but only when they have become the
+> ingrown habit of a people, and when any attempt to impair them will be meet
+> with the violent resistance of the populace. . . .One compels respect from
+> others when he knows how to defend his dignity as a human being. . . .The
+> people owe all the political rights and privileges which we enjoy today, in
+> greater or lesser measure, not to the good will of their governments, but to
+> their own strength."_ [ **Anarcho-Syndicalism** , p. 64]
 
 Of course, if is there are no "Natural Rights," then the state has no "right"
 to murder you or otherwise take away what are commonly regarded as human
@@ -247,21 +248,21 @@ feature of liberty: the ability to think for oneself. Michael Bakunin writes
 _"the liberty of man consists solely in this: that he obeys natural laws
 because he has **himself** recognised them as such, and not because they have
 been externally imposed upon him by any extrinsic will whatever, divine or
-human, collective or individual."_ [**Bakunin on Anarchism**, p. 227]
+human, collective or individual."_ [ **Bakunin on Anarchism** , p. 227]
 
 Thus anarchism, in contrast to the "natural law" cult, recognises that
 "natural laws" (like society) are the product of individual evaluation of
 reality and social life and are, therefore, subject to change in the light of
 new information and ideas (Society _"progresses slowly through the moving
 power of individual initiative"_ [Bakunin, **The Political Philosophy of
-Bakunin**, p. 166] and so, obviously, do social rights and customs). Ethical
+Bakunin** , p. 166] and so, obviously, do social rights and customs). Ethical
 or moral "laws" (which is what the "Natural Law" cult is actually about) is
 not a product of "human nature" or abstract individuals. Rather, it is a
 **social** fact, a creation of society and human interaction. In Bakunin's
 words, _"moral law is not an individual but a social fact, a creation of
 society"_ and any _"natural laws"_ are _"inherent in the social body"_ (and
-so, we must add, not floating abstractions existing in "man's nature").
-[**Ibid.**, p. 125, p. 166]
+so, we must add, not floating abstractions existing in "man's nature"). [
+**Ibid.** , p. 125, p. 166]
 
 The case for liberty and a free society is based on the argument that, since
 every individual is unique, everyone can contribute something that no one else
@@ -275,7 +276,7 @@ In addition, if these "Natural Laws" are really what they are claimed to be,
 they are necessarily applicable to **all** of humanity (Rothbard explicitly
 acknowledges this when he wrote that _"one of the notable attributes of
 natural law"_ is _"its applicability to all men, regardless of time or place"_
-[**The Ethics of Liberty**, p. 42]). In other words, every other law code
+[ **The Ethics of Liberty** , p. 42]). In other words, every other law code
 **must** (by definition) be "against nature" and there exists **one** way of
 life (the "natural" one). The authoritarian implications of such arrogance is
 clear. That the Dogma of Natural Law was only invented a few hundred years
@@ -284,7 +285,7 @@ does the fact that for the vast majority of human existence, people have lived
 in societies which violated almost **all** of their so-called "Natural Laws"
 To take one example, before the late Neolithic, most societies were based on
 usufruct, or free access to communally held land and other resources [see
-Murray Bookchin, **The Ecology of Freedom**]. Thus for millennia, all human
+Murray Bookchin, **The Ecology of Freedom** ]. Thus for millennia, all human
 beings lived in violation of the supposed "Natural Law" of private property --
 perhaps the chief "law" in the "Libertarian" universe.
 
@@ -301,7 +302,7 @@ their rights (i.e. liberty)? We think not. Why?
 
 According to Rothbard, _"the natural law ethic states that for man, goodness
 or badness can be determined by what fulfils or thwarts what is best for man's
-nature."_ [**The Ethics of Liberty**, p. 10] But, of course, what may be
+nature."_ [ **The Ethics of Liberty** , p. 10] But, of course, what may be
 "good" for "man" may be decidedly **bad** for men (and women). If we take the
 example of the sole oasis in a desert (see section
 [4.2](append134.md#secf42)) then, according to Rothbard, the property owner
@@ -310,7 +311,7 @@ dispossessed revolt and refuse to recognise his "property", this is "bad"! In
 other words, Rothbard's "natural law" is good for **some** people (namely
 property owners) while it can be bad for others (namely the working class). In
 more general terms, this means that a system which results in extensive
-hierarchy (i.e. **archy**, power) is "good" (even though it restricts liberty
+hierarchy (i.e. **archy** , power) is "good" (even though it restricts liberty
 for the many) while attempts to **remove** power (such as revolution and the
 democratisation of property rights) is "bad". Somewhat strange logic, we feel.
 
@@ -320,17 +321,18 @@ will of another. It is clear that the victim of coercion is lacking the
 freedom that the philosopher Isaiah Berlin describes in the following terms:
 
 > _"I wish my life and decisions to depend on myself, not on external forces
-of whatever kind. I wish to be an instrument of my own, not of other men's,
-acts of will. I wish to be a subject, not an object; to be moved by reasons,
-by conscious purposes, which are my own, not by causes which affect me, as it
-were, from outside. I wish to be somebody, not nobody; a doer -- deciding, not
-being decided for, self-directed and not acted upon by external nature or by
-other mean as if I were a thing, or an animal, or a slave incapable of playing
-a human role, that is, of conceiving goals and policies of my own and
-realising them."_ [**Four Essays on Liberty**, p. 131]
+> of whatever kind. I wish to be an instrument of my own, not of other men's,
+> acts of will. I wish to be a subject, not an object; to be moved by reasons,
+> by conscious purposes, which are my own, not by causes which affect me, as
+> it were, from outside. I wish to be somebody, not nobody; a doer --
+> deciding, not being decided for, self-directed and not acted upon by
+> external nature or by other mean as if I were a thing, or an animal, or a
+> slave incapable of playing a human role, that is, of conceiving goals and
+> policies of my own and realising them."_ [ **Four Essays on Liberty** , p.
+> 131]
 
 Or, as Alan Haworth points out, _"we have to view coercion as a violation of
-what Berlin calls **positive** freedom."_ [**Anti-Libertarianism**, p. 48]
+what Berlin calls **positive** freedom."_ [ **Anti-Libertarianism** , p. 48]
 
 Thus, if a system results in the violation of (positive) liberty by its very
 nature -- namely, subject a class of people to the will of another class (the
@@ -420,7 +422,7 @@ already noted, however, "Natural Laws" cannot be updated because they are
 derived from fixed definitions (Rothbard is pretty clear on this, he states
 that it is _"[v]ery true"_ that natural law is _"universal, fixed and
 immutable"_ and so are _"'absolute' principles of justice"_ and that they are
-_"independent of time and place"_ [**The Ethics of Liberty**, p. 19]).
+_"independent of time and place"_ [ **The Ethics of Liberty** , p. 19]).
 However, what he fails to understand is that what the "Natural Law" cultists
 are "discovering" are simply the implications of their own definitions, which
 in turn simply reflect their own prejudices and preferences.
@@ -436,8 +438,8 @@ genetic tyrant but it closes the door to any action that is not biochemically
 defined by its own configuration. When freedom is nothing more than the
 recognition of necessity. . .we discover the gene's tyranny over the greater
 totality of life. . .when knowledge becomes dogma (and few movements are more
-dogmatic than socio-biology) freedom is ultimately denied."_ [_"Socio-biology
-or Social Ecology"_, in **Which way for the Ecology Movement?** pp. 49 - 75,
+dogmatic than socio-biology) freedom is ultimately denied."_ [ _"Socio-biology
+or Social Ecology"_ , in **Which way for the Ecology Movement?** pp. 49 - 75,
 p. 60]
 
 In conclusion the doctrine of Natural Law, far from supporting individual
@@ -456,8 +458,8 @@ political theory _"holds that good is neither an attribute of 'things in
 themselves' nor man's emotional state, but **an evaluation** of the facts of
 reality by man's consciousness according to a rational standard of value. . .
 The objective theory holds that **the good is an aspect of reality in relation
-to man** \- and that it must be discovered, not invented, by man."_
-[**Capitalism: The Unknown Ideal**, p. 22]
+to man** \- and that it must be discovered, not invented, by man."_ [
+**Capitalism: The Unknown Ideal** , p. 22]
 
 However, this is playing with words. If something is "discovered" then it has
 always been there and so is an intrinsic part of it. If "good" **is**
@@ -471,18 +473,18 @@ values and rights.
 When discussing the difference between _"subjective,"_ _"intrinsic"_ and
 _"objective"_ values Rand noted that _"intrinsic"_ and _"subjective"_ theories
 _"make it possible for a man to believe what is good is independent of man's
-mind and can be achieved by physical force."_ [**Op. Cit.**, p. 22] In other
+mind and can be achieved by physical force."_ [ **Op. Cit.** , p. 22] In other
 words, intrinsic and subjective values justify tyranny. However, her
 _"objective"_ values are placed squarely in _"Man's Nature"_ \-- she states
 that _"[i]ndividual rights are the means of subordinating society to moral
-law"_ and that _"the source of man's rights is man's nature."_ [**Op. Cit.**,
-p. 320, p. 322]
+law"_ and that _"the source of man's rights is man's nature."_ [ **Op. Cit.**
+, p. 320, p. 322]
 
-She argues that the _"**intrinsic** theory holds that the good is inherent in
+She argues that the _" **intrinsic** theory holds that the good is inherent in
 certain things or actions, as such, regardless of their context and
 consequences, regardless of any benefit or injury they may cause to the actors
-and subjects involved."_ [**Op. Cit.**, p. 21] According to the **Concise
-Oxford Dictionary**, _"intrinsic"_ is defined as _"inherent,"_ _"essential,"_
+and subjects involved."_ [ **Op. Cit.** , p. 21] According to the **Concise
+Oxford Dictionary** , _"intrinsic"_ is defined as _"inherent,"_ _"essential,"_
 _"belonging naturally"_ and defines _"nature"_ as _"a thing's, or person's,
 innate or essential qualities or character."_ In other words, if, as Rand
 maintains, man's rights **are** the product of _"man's nature"_ then such
@@ -499,19 +501,19 @@ injuries it may cause to the actors and subjects involved.
 
 The key to understanding her contradictory and illogical ideology lies in her
 contradictory use of the word "man." Sometimes she uses it to describe
-individuals but usually it is used to describe the human race collectively
-(_"man's nature," "man's consciousness"_). But "Man" does not have a
+individuals but usually it is used to describe the human race collectively (
+_"man's nature," "man's consciousness"_ ). But "Man" does not have a
 consciousness, only individuals do. Man is an abstraction, it is individuals
 who live and think, not "Man." Such "Man worship" -- like Natural Law -- has
 all the markings of a religion.
 
 As Max Stirner argues _"liberalism is a religion because it separates my
 essence from me and sets it above me, because it exalts 'Man' to the same
-extent as any other religion does to God. . . it sets me beneath Man."_ [**The
-Ego and Its Own**, p. 176] Indeed, he _"who is infatuated with **Man** leaves
-persons out of account so far as that infatuation extends, and floats in an
-ideal, sacred interest. **Man**, you see, is not a person, but an ideal, a
-spook."_ [**Op. Cit.**, p.79]
+extent as any other religion does to God. . . it sets me beneath Man."_ [
+**The Ego and Its Own** , p. 176] Indeed, he _"who is infatuated with **Man**
+leaves persons out of account so far as that infatuation extends, and floats
+in an ideal, sacred interest. **Man** , you see, is not a person, but an
+ideal, a spook."_ [ **Op. Cit.** , p.79]
 
 Rand argues that we must evaluate _"the facts of reality by man's
 consciousness according to a rational standard of value"_ but who determines
@@ -549,6 +551,6 @@ evaluation of the facts of reality by individual's consciousness. Human
 thought would be subsumed by dogma.
 
 [‹ 10 Would laissez-faire capitalism be stable?](append1310.md "Go to
-previous page" ) [up](append13.md "Go to parent page" ) [Appendix - The
-Symbols of Anarchy ›](append2.md "Go to next page" )
+previous page") [up](append13.md "Go to parent page") [Non-English versions
+of the FAQ ›](translations.md "Go to next page")
 

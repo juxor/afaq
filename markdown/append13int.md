@@ -101,16 +101,16 @@ similar) to those of neo-liberalism. This was noted by Bob Black in the early
 suspect selectivity, such libertarian themes as deregulation and voluntarism.
 Ideologues indignant that Reagan has travestied their principles. Tough shit!
 I notice that it's their principles, not mine, that he found suitable to
-travesty."_ [**The Libertarian As Conservative**] This was echoed by Noam
+travesty."_ [ **The Libertarian As Conservative** ] This was echoed by Noam
 Chomsky two decades later when while _"nobody takes [right-wing
 libertarianism] seriously"_ as _"everybody knows that a society that worked by
 . . . [its] principles would self-destruct in three seconds"_ the _"only
 reason"_ why some people _"pretend to take it seriously is because you can use
-it as a weapon."_ [**Understanding Power**, p. 200] As neo-liberalism is being
-used as the ideological basis of the current attack on the working class,
-critiquing "anarcho"-capitalism and right-libertarianism also allows use to
-build theoretical weapons to use to resist this attack and aid the class
-struggle.
+it as a weapon."_ [ **Understanding Power** , p. 200] As neo-liberalism is
+being used as the ideological basis of the current attack on the working
+class, critiquing "anarcho"-capitalism and right-libertarianism also allows
+use to build theoretical weapons to use to resist this attack and aid the
+class struggle.
 
 A few more points before beginning. When debating with "libertarian" or
 "anarchist" capitalists it's necessary to remember that while they claim "real
@@ -146,16 +146,16 @@ necessary precondition for genuine freedom means _"that is one very good
 reason for not confusing anarchists with liberals or economic 'libertarians'
 -- in other words, for not lumping together everyone who is in some way or
 another critical of the state. It is why calling the likes of Nozick
-'anarchists' is highly misleading."_ [_"Some notes on 'Anarchism'"_, pp.
-141-5, **Anarchist Studies**, vol. 1, no. 2, p. 143] So anarchists have
+'anarchists' is highly misleading."_ [ _"Some notes on 'Anarchism'"_ , pp.
+141-5, **Anarchist Studies** , vol. 1, no. 2, p. 143] So anarchists have
 evaluated "free market" capitalism and rejected it as non-anarchist for over
 150 years. Attempts by "anarcho"-capitalism to say that their system is
 "anarchist" flies in the face of this long history of anarchist analysis. That
 some academics fall for their attempts to appropriate the anarchist label for
 their ideology is down to a false premise: it _"is judged to be anarchism
 largely because some anarcho-capitalists **say** they are 'anarchists' and
-because they criticise the State."_ [Peter Sabatini, **Social Anarchism**, no.
-23, p. 100]
+because they criticise the State."_ [Peter Sabatini, **Social Anarchism** ,
+no. 23, p. 100]
 
 More generally, we must stress that most (if not all) anarchists do not want
 to live in a society **just like this one** but without state coercion and
@@ -180,6 +180,6 @@ or not) murdered in the jails and concentration camps or on the streets by the
 hired assassins of capitalism.
 
 [‹ Appendix - Is "anarcho"-capitalism a type of anarchism?](append13.md "Go
-to previous page" ) [up](append13.md "Go to parent page" ) [1 Are
-"anarcho"-capitalists really anarchists? ›](append131.md "Go to next page" )
+to previous page") [up](append13.md "Go to parent page") [1 Are
+"anarcho"-capitalists really anarchists? ›](append131.md "Go to next page")
 

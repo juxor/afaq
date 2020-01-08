@@ -3,7 +3,7 @@
 As James J. Martin notes, _"paralleling"_ European social anarchism
 _"chronologically was a kindred but nearly unconnected phenomenon in America,
 seeking the same ends through individualistic rather than collectivistic
-dynamics."_ [**Men Against the State**, p. ix]
+dynamics."_ [ **Men Against the State** , p. ix]
 
 When the two movements meet in America in the 1880s, the similarities and
 differences of both came into sharp relief. While both social and
@@ -35,44 +35,45 @@ Malatesta summarises the essential points of difference as well as the source
 of much of the misunderstandings:
 
 > _"The individualists assume, or speak as if they assumed, that the
-(anarchist) communists wish to impose communism, which of course would put
-them right outside the ranks of anarchism. _
+> (anarchist) communists wish to impose communism, which of course would put
+> them right outside the ranks of anarchism._
 
 > _"The communists assume, or speak as if they assumed, that the (anarchist)
-individualists reject every idea of association, want the struggle between
-men, the domination of the strongest -- and this would put them not only
-outside the anarchist movement but outside humanity. _
+> individualists reject every idea of association, want the struggle between
+> men, the domination of the strongest -- and this would put them not only
+> outside the anarchist movement but outside humanity._
 
 > _"In reality those who are communists are such because they see in communism
-freely accepted the realisation of brotherhood, and the best guarantee for
-individual freedom. And individualists, those who are really anarchists, are
-anti-communist because they fear that communism would subject individuals
-nominally to the tyranny of the collectivity and in fact to that of the party
-or caste which, with the excuse of administering things, would succeed in
-taking possession of the power to dispose of material things and thus of the
-people who need them. Therefore they want each individual, or each group, to
-be in a position to enjoy freely the product of their labour in conditions of
-equality with other individuals and groups, with whom they would maintain
-relations of justice and equity. _
+> freely accepted the realisation of brotherhood, and the best guarantee for
+> individual freedom. And individualists, those who are really anarchists, are
+> anti-communist because they fear that communism would subject individuals
+> nominally to the tyranny of the collectivity and in fact to that of the
+> party or caste which, with the excuse of administering things, would succeed
+> in taking possession of the power to dispose of material things and thus of
+> the people who need them. Therefore they want each individual, or each
+> group, to be in a position to enjoy freely the product of their labour in
+> conditions of equality with other individuals and groups, with whom they
+> would maintain relations of justice and equity._
 
 > _"In which case it is clear that there is no basic difference between us.
-But, according to the communists, justice and equity are, under natural
-conditions impossible of attainment in an individualistic society, and thus
-freedom too would not be attained. _
+> But, according to the communists, justice and equity are, under natural
+> conditions impossible of attainment in an individualistic society, and thus
+> freedom too would not be attained._
 
 > _"If climatic conditions throughout the world were the same, if the land
-were everywhere equally fertile, if raw materials were evenly distributed and
-within reach of all who needed them, if social development were the same
-everywhere in the world . . . then one could conceive of everyone . . .
-finding the land, tools and raw materials needed to work and produce
-independently, without exploiting or being exploited. But natural and
-historical conditions being what they are, how is it possible to establish
-equality and justice between he who by chance finds himself with a piece of
-arid land which demands much labour for small returns with him who has a piece
-of fertile and well sited land?" Of between the inhabitant of a village lost
-in the mountains or in the middle of a marshy area, with the inhabitants of a
-city which hundreds of generations of man have enriched with all the skill of
-human genius and labour?_ [**Errico Malatesta: His Life and Ideas**, pp. 31-2]
+> were everywhere equally fertile, if raw materials were evenly distributed
+> and within reach of all who needed them, if social development were the same
+> everywhere in the world . . . then one could conceive of everyone . . .
+> finding the land, tools and raw materials needed to work and produce
+> independently, without exploiting or being exploited. But natural and
+> historical conditions being what they are, how is it possible to establish
+> equality and justice between he who by chance finds himself with a piece of
+> arid land which demands much labour for small returns with him who has a
+> piece of fertile and well sited land?" Of between the inhabitant of a
+> village lost in the mountains or in the middle of a marshy area, with the
+> inhabitants of a city which hundreds of generations of man have enriched
+> with all the skill of human genius and labour?_ [ **Errico Malatesta: His
+> Life and Ideas** , pp. 31-2]
 
 The social anarchist opposition to individualist anarchism, therefore,
 resolves around the issues of inequality, the limitations and negative impact
@@ -120,13 +121,13 @@ subjects of property and competition. As Voltairine de Cleyre put it when she
 was an individualist anarchist:
 
 > _"She and I hold many differing views on both Economy and Morals . . . Miss
-Goldmann [sic] is a communist; I am an individualist. She wishes to destroy
-the right of property, I wish to assert it. I make my war upon privilege and
-authority, whereby the right of property, the true right in that which is
-proper to the individual, is annihilated. She believes that co-operation would
-entirely supplant competition; I hold that competition in one form or another
-will always exist, and that it is highly desirable it should."_ [**The
-Voltairine de Cleyre Reader**, p. 9]
+> Goldmann [sic] is a communist; I am an individualist. She wishes to destroy
+> the right of property, I wish to assert it. I make my war upon privilege and
+> authority, whereby the right of property, the true right in that which is
+> proper to the individual, is annihilated. She believes that co-operation
+> would entirely supplant competition; I hold that competition in one form or
+> another will always exist, and that it is highly desirable it should."_ [
+> **The Voltairine de Cleyre Reader** , p. 9]
 
 The question of "property" is subject to much confusion and distortion. It
 should be stressed that both social and individualist anarchists argue that
@@ -137,11 +138,11 @@ possible and desirable to calculate an individual's contribution to social
 production, particularly within a situation of joint labour. For Tucker, it
 was a case of creating _"the economic law by which every man may get the
 equivalent of his product."_ [quoted by George Woodcock and Ivan Avakumovic,
-**The Anarchist Prince**, p. 279] Social anarchists, particularly communist
+**The Anarchist Prince** , p. 279] Social anarchists, particularly communist
 ones, question whether it is possible in reality to discover such a thing in
-any society based on joint labour (_"which it would be difficult to imagine
+any society based on joint labour ( _"which it would be difficult to imagine
 could exist in any society where there is the least complexity of
-production."_ [George Woodcock and Ivan Avakumovic, **Op. Cit.**, p. 280]).
+production."_ [George Woodcock and Ivan Avakumovic, **Op. Cit.** , p. 280]).
 
 This was the crux of Kropotkin's critique of the various schemes of "labour
 money" and "labour vouchers" raised by other schools of socialism (like
@@ -150,18 +151,18 @@ wage labour (or, at worse, create state capitalism) but they did not abolish
 the wages system, i.e., payment according to work done. This meant that a
 system of individualist distribution was forced upon a fundamentally co-
 operative system of production and so was illogical and unjust (see
-Kropotkin's _"The Collectivist Wage System"_ in **The Conquest of Bread**).
+Kropotkin's _"The Collectivist Wage System"_ in **The Conquest of Bread** ).
 Thus Daniel Guérin:
 
 > _"This method of remuneration, derived from modified individualism, is in
-contradiction to collective ownership of the means of production, and cannot
-bring about a profound revolutionary change in man. It is incompatible with
-anarchism; a new form of ownership requires a new form of remuneration.
-Service to the community cannot be measured in units of money. Needs will have
-to be given precedence over services, and all the products of the labour of
-all must belong to all, each to take his share of them freely. **To each
-according to his need** should be the motto of libertarian communism."_
-[**Anarchism**, p. 50]
+> contradiction to collective ownership of the means of production, and cannot
+> bring about a profound revolutionary change in man. It is incompatible with
+> anarchism; a new form of ownership requires a new form of remuneration.
+> Service to the community cannot be measured in units of money. Needs will
+> have to be given precedence over services, and all the products of the
+> labour of all must belong to all, each to take his share of them freely.
+> **To each according to his need** should be the motto of libertarian
+> communism."_ [ **Anarchism** , p. 50]
 
 Simply put, wages rarely reflect the actual contribution of a specific person
 to social well-being and production nor do they reflect their actual needs. To
@@ -172,42 +173,43 @@ willingness to externalise costs, and so on? Voltairine de Cleyre summarised
 this problem and the obvious solution:
 
 > _"I concluded that as to the question of exchange and money, it was so
-exceedingly bewildering, so impossible of settlement among the professors
-themselves, as to the nature of value, and the representation of value, and
-the unit of value, and the numberless multiplications and divisions of the
-subject, that the best thing ordinary workingmen or women could do was to
-organise their industry so as to get rid of money altogether. I figured it
-this way: I’m not any more a fool than the rest of ordinary humanity; I’ve
-figured and figured away on this thing for years, and directly I thought
-myself middling straight, there came another money reformer and showed me the
-hole in that scheme, till, at last, it appears that between 'bills of credit,'
-and 'labour notes' and 'time checks,' and 'mutual bank issues,' and 'the
-invariable unit of value,' none of them have any sense. How many thousands of
-years is it going to get this sort of thing into people’s heads by mere
-preaching of theories. Let it be this way: Let there be an end of the special
-monopoly on securities for money issues. Let every community go ahead and try
-some member's money scheme if it wants; - let every individual try it if he
-pleases. But better for the working people let them all go. Let them produce
-together, co-operatively rather than as employer and employed; let them
-fraternise group by group, let each use what he needs of his own product, and
-deposit the rest in the storage-houses, and let those others who need goods
-have them as occasion arises."_ [**Exquisite Rebel**, p. 62]
+> exceedingly bewildering, so impossible of settlement among the professors
+> themselves, as to the nature of value, and the representation of value, and
+> the unit of value, and the numberless multiplications and divisions of the
+> subject, that the best thing ordinary workingmen or women could do was to
+> organise their industry so as to get rid of money altogether. I figured it
+> this way: I’m not any more a fool than the rest of ordinary humanity; I’ve
+> figured and figured away on this thing for years, and directly I thought
+> myself middling straight, there came another money reformer and showed me
+> the hole in that scheme, till, at last, it appears that between 'bills of
+> credit,' and 'labour notes' and 'time checks,' and 'mutual bank issues,' and
+> 'the invariable unit of value,' none of them have any sense. How many
+> thousands of years is it going to get this sort of thing into people’s heads
+> by mere preaching of theories. Let it be this way: Let there be an end of
+> the special monopoly on securities for money issues. Let every community go
+> ahead and try some member's money scheme if it wants; - let every individual
+> try it if he pleases. But better for the working people let them all go. Let
+> them produce together, co-operatively rather than as employer and employed;
+> let them fraternise group by group, let each use what he needs of his own
+> product, and deposit the rest in the storage-houses, and let those others
+> who need goods have them as occasion arises."_ [ **Exquisite Rebel** , p.
+> 62]
 
 And, obviously, it must be stressed that "property" in the sense of personal
 possessions would still exist in communist-anarchism. As the co-founder of
 **Freedom** put it:
 
-> _"Does Anarchism, then, it may be asked, acknowledge no **Meum** or
-**Tuum**, no personal property? In a society in which every man is free to
-take what he requires, it is hardly conceivable that personal necessaries and
-conveniences will not be appropriated, and difficult to imagine why they
-should not . . . When property is protected by no legal enactments, backed by
-armed force, and is unable to buy personal service, its resuscitation on such
-a scale as to be dangerous to society is little to be dreaded. The amount
-appropriated by each individual, and the manner of his appropriation, must be
-left to his own conscience, and the pressure exercised upon him by the moral
-sense and distinct interests of his neighbours."_ [Charlotte Wilson,
-**Anarchist Essays**, p. 24]
+> _"Does Anarchism, then, it may be asked, acknowledge no **Meum** or **Tuum**
+> , no personal property? In a society in which every man is free to take what
+> he requires, it is hardly conceivable that personal necessaries and
+> conveniences will not be appropriated, and difficult to imagine why they
+> should not . . . When property is protected by no legal enactments, backed
+> by armed force, and is unable to buy personal service, its resuscitation on
+> such a scale as to be dangerous to society is little to be dreaded. The
+> amount appropriated by each individual, and the manner of his appropriation,
+> must be left to his own conscience, and the pressure exercised upon him by
+> the moral sense and distinct interests of his neighbours."_ [Charlotte
+> Wilson, **Anarchist Essays** , p. 24]
 
 To use an appropriate example, public libraries are open to all local
 residents and they are free to borrow books from the stock available. When the
@@ -250,12 +252,12 @@ current system of statism (and note he calls it _"scientific socialism"_ thus
 squarely placing his ideas in the anti-capitalist camp):
 
 > _"we have something very tangible to offer , . . We offer non-compulsive
-organisation. We offer associative combination. We offer every possible method
-of voluntary social union by which men and women may act together for the
-furtherance of well-being. In short, we offer voluntary scientific socialism
-in place of the present compulsory, unscientific organisation which
-characterises the State and all of its ramifications."_ [quoted by Martin,
-**Op. Cit.**, p. 218]
+> organisation. We offer associative combination. We offer every possible
+> method of voluntary social union by which men and women may act together for
+> the furtherance of well-being. In short, we offer voluntary scientific
+> socialism in place of the present compulsory, unscientific organisation
+> which characterises the State and all of its ramifications."_ [quoted by
+> Martin, **Op. Cit.** , p. 218]
 
 Yet it is more than possible for voluntary social unions to be authoritarian
 and exploitative (we see this every day under capitalism). In other words, not
@@ -279,13 +281,13 @@ agree upon, the arrangement being always terminable at will, with reversion to
 original rights"_ then we have the unfortunate situation where inequalities
 will undermine anarchism and defence associations arising which will defend
 them against attempts by those subject to them to use direct action to rectify
-the situation. [**The Individualist Anarchists**, p. 25 and p. 162]
+the situation. [ **The Individualist Anarchists** , p. 25 and p. 162]
 
 Kropotkin saw the danger, arguing that such an idea _"runs against the
 feelings of equality of most of us"_ and _"brings the would-be
 'Individualists' dangerously near to those who imagine themselves to represent
 a 'superior breed' -- those to whom we owe the State . . . and all other forms
-of oppression."_ [**Evolution and Environment**, p. 84] As we discuss in the
+of oppression."_ [ **Evolution and Environment** , p. 84] As we discuss in the
 [next section](secG4.md#secg41), it is clear that wage labour (like any
 hierarchical organisation) is not consistent with general anarchist principles
 and, furthermore, in direct contradiction to individualist anarchist
@@ -311,13 +313,14 @@ workers and not include them as members of the association (i.e. they exercise
 their ownership rights to exclude others). As Proudhon argued:
 
 > _"I have shown the entrepreneur, at the birth of industry, negotiating on
-equal terms with his comrades, who have since become his workers. It is plain,
-in fact, that this original equality was bound to disappear through the
-advantageous position of the master and the dependence of the wage-workers. In
-vain does the law assure the right of each to enterprise . . . When an
-establishment has had leisure to develop itself, enlarge its foundations,
-ballast itself with capital, and assure itself a body of patrons, what can a
-workman do against a power so superior?"_ [**Property is Theft!**, p. 192]
+> equal terms with his comrades, who have since become his workers. It is
+> plain, in fact, that this original equality was bound to disappear through
+> the advantageous position of the master and the dependence of the wage-
+> workers. In vain does the law assure the right of each to enterprise . . .
+> When an establishment has had leisure to develop itself, enlarge its
+> foundations, ballast itself with capital, and assure itself a body of
+> patrons, what can a workman do against a power so superior?"_ [ **Property
+> is Theft!** , p. 192]
 
 Voltairine de Cleyre also came to this conclusion. Discussing the limitations
 of the Single Tax land reform, she noted that _"the stubborn fact always came
@@ -333,7 +336,7 @@ wages to equal output. Yet this ignores natural barriers to competition: _"it
 is well enough to talk of his buying hand tools, or small machinery which can
 be moved about; but what about the gigantic machinery necessary to the
 operation of a mine, or a mill? It requires many to work it. If one owns it,
-will he not make the others pay tribute for using it?"_ [**Op. Cit.**, p. 60
+will he not make the others pay tribute for using it?"_ [ **Op. Cit.** , p. 60
 and p. 61]
 
 As such, a free market based on wage labour would be extremely unlikely to
@@ -342,8 +345,8 @@ socialist and so not anarchist. Moreover, the successful business person would
 seek to secure his or her property and power and so employ police to do so.
 _"I confess that I am not in love with all these little states,"_ proclaimed
 de Cleyre, _"and it is . . . the thought of the anarchist policeman that has
-driven me out of the individualist's camp, wherein I for some time resided."
-_[quoted by Eugenia C. Delamotte, **Gates of Freedom**, p. 25] This outcome
+driven me out of the individualist's camp, wherein I for some time resided."_
+[quoted by Eugenia C. Delamotte, **Gates of Freedom** , p. 25] This outcome
 can only be avoided by consistently applying "occupancy and use" in such as
 way as to eliminate wage labour totally. Only this can achieve a society based
 on freedom **of** association as well as freedom **within** association.
@@ -367,13 +370,13 @@ other words, to deny group issues is implying a social situation that has
 never existed nor ever will. Thus Kropotkin:
 
 > _"to reason in this way is to pay . . . too large a tribute to metaphysical
-dialectics, and to ignore the facts of life. It is impossible to conceive a
-society in which the affairs of any one of its members would not concern many
-other members, if not all; still less a society in which a continual contact
-between its members would not have established an interest of every one
-towards all others, which would render it **impossible** to act without
-thinking of the effects which our actions may have on others."_ [**Evolution
-and Environment**, p. 85]
+> dialectics, and to ignore the facts of life. It is impossible to conceive a
+> society in which the affairs of any one of its members would not concern
+> many other members, if not all; still less a society in which a continual
+> contact between its members would not have established an interest of every
+> one towards all others, which would render it **impossible** to act without
+> thinking of the effects which our actions may have on others."_ [
+> **Evolution and Environment** , p. 85]
 
 Once the reality of "group issues" is acknowledged, as most individualist
 anarchists do, then the issue of collective decision making automatically
@@ -418,7 +421,7 @@ principle and the free contract: their subordination to the State is . . . a
 return to feudalism."_ Workers' self-management of such public works was,
 again, a matter of libertarian principles for _"it becomes necessary for the
 workers to form themselves into democratic societies, with equal conditions
-for all members, on pain of a relapse into feudalism."_ [**Op. Cit.**, pp.
+for all members, on pain of a relapse into feudalism."_ [ **Op. Cit.** , pp.
 595-6]
 
 In the case of a park, either it is open to all or it is fenced off and police
@@ -479,11 +482,11 @@ come to the same conclusions as communist-anarchists on whether capitalism
 could be reformed away. As we noted in [section G.1.1](secG1.md#secg11), he
 _"had come to believe that free banking and similar measures, even if
 inaugurated, were no longer adequate to break the monopoly of capitalism or
-weaken the authority of the state."_ [Paul Avrich, **Anarchist Voices**, p. 6]
-While admitting that political or revolutionary action was required to destroy
-the concentrations of capital which made anarchy impossible even with free
-competition, he rejected the suggestion that individualist anarchists should
-join in such activity. Voltairine de Cleyre came to similar conclusions
+weaken the authority of the state."_ [Paul Avrich, **Anarchist Voices** , p.
+6] While admitting that political or revolutionary action was required to
+destroy the concentrations of capital which made anarchy impossible even with
+free competition, he rejected the suggestion that individualist anarchists
+should join in such activity. Voltairine de Cleyre came to similar conclusions
 earlier and started working with Emma Goldman before becoming a communist-
 anarchist sometime in 1908. Perhaps unsurprisingly, one historian argues that
 as the _"native American variety of anarchism dissolved in the face of
@@ -492,7 +495,7 @@ concentration of capital, American anarchists were forced either to acquiesce
 or to seek a more militant strain of anarchism: this latter presented itself
 in the form of Communist Anarchism . . . Faith in peaceful evolution toward an
 anarchist society seemed archaic and gradually faded."_ [Kline, **The
-Individualist Anarchists**, p. 83]
+Individualist Anarchists** , p. 83]
 
 So while state action may increase the degree of monopoly in an industry, the
 natural tendency for any market is to place barriers (natural ones) to new
@@ -517,14 +520,14 @@ under capitalism.
 
 This was why Proudhon argued that _"every individual employed in the
 association"_ must have _"an undivided share in the property of the company"_
-in order to ensure workers' self-management. [**Op. Cit.**, p. 585] Only this
-could ensure _"occupancy and use"_ and so self-management in a free society
-(i.e. keep that society free). Thus in anarchism, as de Cleyre summarised, it
-is _"a settled thing that to be free one must have liberty of access to the
-sources and means of production"_ Without socialisation of the means of life,
-liberty of access could be denied. Little wonder she argued that she had
-become _"convinced that a number of the fundamental propositions of
-individualistic economy would result in the destruction of equal liberty."_
+in order to ensure workers' self-management. [ **Op. Cit.** , p. 585] Only
+this could ensure _"occupancy and use"_ and so self-management in a free
+society (i.e. keep that society free). Thus in anarchism, as de Cleyre
+summarised, it is _"a settled thing that to be free one must have liberty of
+access to the sources and means of production"_ Without socialisation of the
+means of life, liberty of access could be denied. Little wonder she argued
+that she had become _"convinced that a number of the fundamental propositions
+of individualistic economy would result in the destruction of equal liberty."_
 The only logical anarchist position is _"that some settlement of the whole
 labour question was needed which would not split up the people again into land
 possessors and employed wage-earners."_ Hence her movement from individualism
@@ -533,7 +536,7 @@ position to take in a rapidly industrialising America which had made certain
 concepts of individualism obsolete. It was her love of freedom which made her
 sensitive to the possibility of any degeneration back into capitalism: _"the
 instinct of liberty naturally revolted not only at economic servitude, but at
-the outcome of it, class-lines."_ [**Op. Cit.**, p. 58, p. 105, p. 61 and p.
+the outcome of it, class-lines."_ [ **Op. Cit.** , p. 58, p. 105, p. 61 and p.
 55] As we argue in [section G.4.2](secG4.md#secg42) such a possibility can
 be avoided only by a consistent application of "occupancy and use" which, in
 practice, would be nearly identical to the communalisation or socialisation of
@@ -549,24 +552,25 @@ price can only equal a workers' labour in those few cases where that labour
 was applied in average circumstances). This issue was recognised by Tucker,
 who argued that _"economic rent . . . is one of nature's inequalities. It will
 probably remain with us always. Complete liberty will very much lessen it; of
-that I have no doubt."_ [**Why I am an Anarchist**, pp. 135-6] However, argue
-social anarchists, the logic of market exchange produces a situation where the
-stronger party to a contract seeks to maximise their advantage. Given this,
-free exchange will tend to **increase** differences in wealth and income over
-time, not eliminate them. As Daniel Guérin summarised:
+that I have no doubt."_ [ **Why I am an Anarchist** , pp. 135-6] However,
+argue social anarchists, the logic of market exchange produces a situation
+where the stronger party to a contract seeks to maximise their advantage.
+Given this, free exchange will tend to **increase** differences in wealth and
+income over time, not eliminate them. As Daniel Guérin summarised:
 
 > _"Competition and the so-called market economy inevitably produce inequality
-and exploitation, and would do so even if one started from complete equality.
-They could not be combined with workers' self-management unless it were on a
-temporary basis, as a necessary evil, until (1) a psychology of 'honest
-exchange' had developed among the workers; (2) most important, society as a
-whole had passed from conditions of shortage to the stage of abundance, when
-competition would lose its purpose . . . The libertarian communist would
-condemn Proudhon's version of a collective economy as being based on a
-principle of conflict; competitors would be in a position of equality at the
-start, only to be hurled into a struggle which would inevitably produce
-victors and vanquished, and where goods would end up by being exchanged
-according to the principles of supply and demand."_ [**Op. Cit.**, pp. 53-4]
+> and exploitation, and would do so even if one started from complete
+> equality. They could not be combined with workers' self-management unless it
+> were on a temporary basis, as a necessary evil, until (1) a psychology of
+> 'honest exchange' had developed among the workers; (2) most important,
+> society as a whole had passed from conditions of shortage to the stage of
+> abundance, when competition would lose its purpose . . . The libertarian
+> communist would condemn Proudhon's version of a collective economy as being
+> based on a principle of conflict; competitors would be in a position of
+> equality at the start, only to be hurled into a struggle which would
+> inevitably produce victors and vanquished, and where goods would end up by
+> being exchanged according to the principles of supply and demand."_ [ **Op.
+> Cit.** , pp. 53-4]
 
 Thus, even a non-capitalist market could evolve towards inequality and away
 from fair exchange. It was for this reason that Proudhon argued that a portion
@@ -578,7 +582,7 @@ has a claim on account of this inequality . . . [it is] the other land workers
 who hold inferior land. That is why in our scheme for liquidation [of
 capitalism] we stipulated that every variety of cultivation should pay a
 proportional contribution, destined to accomplish a balancing of returns among
-farm workers and an assurance of products."_ [**Op. Cit.**, p. 582] His
+farm workers and an assurance of products."_ [ **Op. Cit.** , p. 582] His
 advocacy of federations of workers' associations was, likewise, seen as a
 means of abolishing inequalities.
 
@@ -593,53 +597,67 @@ anarchism would quickly become hierarchical and non-anarchist. As the
 communist-anarchist paper **Freedom** argued in the 1880s:
 
 > _"Are not the scandalous inequalities in the distribution of wealth today
-merely the culminate effect of the principle that every man is justified in
-securing to himself everything that his chances and capacities enable him to
-lay hands on? _
+> merely the culminate effect of the principle that every man is justified in
+> securing to himself everything that his chances and capacities enable him to
+> lay hands on?_
 
 > _"If the social revolution which we are living means anything, it means the
-destruction of this detestable economic principle, which delivers over the
-more social members of the community to the domination of the most unsocial
-and self-interested."_ [**Freedom**, vol. 2, no. 19]
+> destruction of this detestable economic principle, which delivers over the
+> more social members of the community to the domination of the most unsocial
+> and self-interested."_ [ **Freedom** , vol. 2, no. 19]
 
-**Freedom**, it should be noted, is slightly misrepresenting the position of individualist anarchists. They did **not** argue that every person could appropriate all the property he or she could. Most obviously, in terms of land they were consistently opposed to a person owning more of it than they actually used. They also tended to apply this to what was on the land as well, arguing that any buildings on it were abandoned when the owner no longer used them. Given this, individualist anarchists have stressed that such a system would be unlikely to produce the inequalities associated with capitalism (as Kropotkin noted, equality was essential and was implicitly acknowledged by individualists themselves who argued that their system _"would offer no danger, because the rights of each individual would have been limited by the equal rights of all others."_ [**Evolution and Environment**, p. 85]). Thus contemporary individualist anarchist Joe Peacott:
+**Freedom** , it should be noted, is slightly misrepresenting the position of
+individualist anarchists. They did **not** argue that every person could
+appropriate all the property he or she could. Most obviously, in terms of land
+they were consistently opposed to a person owning more of it than they
+actually used. They also tended to apply this to what was on the land as well,
+arguing that any buildings on it were abandoned when the owner no longer used
+them. Given this, individualist anarchists have stressed that such a system
+would be unlikely to produce the inequalities associated with capitalism (as
+Kropotkin noted, equality was essential and was implicitly acknowledged by
+individualists themselves who argued that their system _"would offer no
+danger, because the rights of each individual would have been limited by the
+equal rights of all others."_ [ **Evolution and Environment** , p. 85]). Thus
+contemporary individualist anarchist Joe Peacott:
 
 > _"Although individualists envision a society based on private property, we
-oppose the economic relationships of capitalism, whose supporters misuse words
-like private enterprise and free markets to justify a system of monopoly
-ownership in land and the means of production which allows some to skim off
-part or even most of the wealth produced by the labour of others. Such a
-system exists only because it is protected by the armed power of government,
-which secures title to unjustly acquired and held land, monopolises the supply
-of credit and money, and criminalises attempts by workers to take full
-ownership of the means of production they use to create wealth. This state
-intervention in economic transactions makes it impossible for most workers to
-become truly independent of the predation of capitalists, banks, and
-landlords. Individualists argue that without the state to enforce the rules of
-the capitalist economy, workers would not allow themselves to be exploited by
-these thieves and capitalism would not be able to exist . . . _
+> oppose the economic relationships of capitalism, whose supporters misuse
+> words like private enterprise and free markets to justify a system of
+> monopoly ownership in land and the means of production which allows some to
+> skim off part or even most of the wealth produced by the labour of others.
+> Such a system exists only because it is protected by the armed power of
+> government, which secures title to unjustly acquired and held land,
+> monopolises the supply of credit and money, and criminalises attempts by
+> workers to take full ownership of the means of production they use to create
+> wealth. This state intervention in economic transactions makes it impossible
+> for most workers to become truly independent of the predation of
+> capitalists, banks, and landlords. Individualists argue that without the
+> state to enforce the rules of the capitalist economy, workers would not
+> allow themselves to be exploited by these thieves and capitalism would not
+> be able to exist . . ._
 
 > _"One of the criticisms of individualist economic proposals raised by other
-anarchists is that a system based on private ownership would result in some
-level of difference among people in regard to the quality or quantity of
-possessions they have. In a society where people are able to realise the full
-value of their labour, one who works harder or better than another will
-possess or have the ability to acquire more things than someone who works less
-or is less skilled at a particular occupation . . . _
+> anarchists is that a system based on private ownership would result in some
+> level of difference among people in regard to the quality or quantity of
+> possessions they have. In a society where people are able to realise the
+> full value of their labour, one who works harder or better than another will
+> possess or have the ability to acquire more things than someone who works
+> less or is less skilled at a particular occupation . . ._
 
 > _"The differences in wealth that arise in an individualist community would
-likely be relatively small. Without the ability to profit from the labour of
-others, generate interest from providing credit, or extort rent from letting
-out land or property, individuals would not be capable of generating the huge
-quantities of assets that people can in a capitalist system. Furthermore, the
-anarchist with more things does not have them at the expense of another, since
-they are the result of the owner's own effort. If someone with less wealth
-wishes to have more, they can work more, harder, or better. There is no
-injustice in one person working 12 hours a day and six days a week in order to
-buy a boat, while another chooses to work three eight hour days a week and is
-content with a less extravagant lifestyle. If one can generate income only by
-hard work, there is an upper limit to the number and kind of things one can
-buy and own."_ [**Individualism and Inequality**]
+> likely be relatively small. Without the ability to profit from the labour of
+> others, generate interest from providing credit, or extort rent from letting
+> out land or property, individuals would not be capable of generating the
+> huge quantities of assets that people can in a capitalist system.
+> Furthermore, the anarchist with more things does not have them at the
+> expense of another, since they are the result of the owner's own effort. If
+> someone with less wealth wishes to have more, they can work more, harder, or
+> better. There is no injustice in one person working 12 hours a day and six
+> days a week in order to buy a boat, while another chooses to work three
+> eight hour days a week and is content with a less extravagant lifestyle. If
+> one can generate income only by hard work, there is an upper limit to the
+> number and kind of things one can buy and own."_ [ **Individualism and
+> Inequality** ]
 
 However, argue social anarchists, market forces may make such an ideal
 impossible to achieve or maintain. Most would agree with Peter Marshall's
@@ -649,7 +667,8 @@ recommended, it would mean in practice that those with good land or houses
 would merely become better off than those with bad. Tucker's advocacy of
 'competition everywhere and always' among occupying owners, subject to the
 only moral law of minding your own business might will encourage individual
-greed rather than fair play for all."_ [**Demanding the Impossible**, p. 653]
+greed rather than fair play for all."_ [ **Demanding the Impossible** , p.
+653]
 
 Few social anarchists are convinced that all the problems associated with
 markets and competition are purely the result of state intervention. They
@@ -682,7 +701,7 @@ become a success in terms of business but lose sight of their humanity and
 individuality in the process. In contrast, social anarchists stress community
 and co-operation in order to develop us as fully rounded individuals. As
 Kropotkin put it, _"the **individualisation** they so highly praise is not
-attainable by individual efforts."_ [**Anarchism**, p. 297]
+attainable by individual efforts."_ [ **Anarchism** , p. 297]
 
 As we noted in [section D.1](secD1.md), the capitalist state intervenes into
 the economy and society to counteract the negative impact of market forces on
@@ -760,7 +779,7 @@ agency whatsoever -- whether the nature of things or the force of events or
 the decree of arbitrary power -- against the influence of competition"_ we may
 suggest that due to **natural** barriers, an individualist anarchist society
 would not be free of monopolists and so of usury. [quoted by James J. Martin,
-**Men Against the State**, p. 210]
+**Men Against the State** , p. 210]
 
 For this reason, even in a mutualist market certain companies would receive a
 bigger slice of profits than (and at the expense of) others. This means that
@@ -771,7 +790,7 @@ problems, firstly because of _"the difficulty of estimating the **market**
 value"_ of a product based on _"average time"_ or cost necessary to produce it
 and, secondly, if that could be done then to get people _"to agree upon such
 an estimation of their work would already require a deep penetration of the
-Communist principles into their ideas."_ [**Environment and Evolution**, p.
+Communist principles into their ideas."_ [ **Environment and Evolution** , p.
 84] In addition, the free market in banking would also result in **its**
 market being dominated by a few big banks, with similar results. As such, it
 is all fine and well to argue that with rising interest rates more competitors
@@ -795,14 +814,14 @@ away. As such, social anarchists would tend to agree with the summary provided
 by this historian:
 
 > _"If [individualist anarchists] rejected private ownership of property, they
-destroyed their individualism and 'levelled' mankind. If they accepted it,
-they had the problem of offering a solution whereby the inequalities [of
-wealth] would not amount to a tyranny over the individual. They meet the same
-dilemma in 'method.' If they were consistent libertarian individualists they
-could not force from 'those who had' what they had acquired justly or
-unjustly, but if they did not force it from them, they perpetuated
-inequalities. They met a stone wall."_ [Eunice Minette Schuster, **Native
-American Anarchism**, p. 158]
+> destroyed their individualism and 'levelled' mankind. If they accepted it,
+> they had the problem of offering a solution whereby the inequalities [of
+> wealth] would not amount to a tyranny over the individual. They meet the
+> same dilemma in 'method.' If they were consistent libertarian individualists
+> they could not force from 'those who had' what they had acquired justly or
+> unjustly, but if they did not force it from them, they perpetuated
+> inequalities. They met a stone wall."_ [Eunice Minette Schuster, **Native
+> American Anarchism** , p. 158]
 
 So while Tucker believed in direct action, he opposed the "forceful"
 expropriation of social capital by the working class, instead favouring the
@@ -821,7 +840,7 @@ have assumed that the anarchist vision of _"occupancy-and-use"_ would become
 universal. Unfortunately, landlords and capitalists would resist it and so,
 ultimately, an Individualist Anarchist society would have to either force the
 minority to accept the majority wishes on land use (hence his comments on
-there being _"no legal power to collect rent"_) or the majority are dictated
+there being _"no legal power to collect rent"_ ) or the majority are dictated
 to by the minority who are in favour of collecting rent and hire "defence
 associations" to enforce those wishes. With the head start big business and
 the wealthy have in terms of resources, conflicts between pro- and anti-
@@ -877,7 +896,7 @@ of property . . . should not be allowed to obscure the commonality of the idea
 of the free community of self-regulating individuals."_ And so _"there are
 meeting points in the crucial ideas of individual autonomy and community that
 suggest, at least, a basis for the discussion of equality and property
-relations."_ [**Anarchist Thinkers and Thought**, p. xvi]
+relations."_ [ **Anarchist Thinkers and Thought** , p. xvi]
 
 ## G.4.1 Is wage labour consistent with anarchist principles?
 
@@ -890,7 +909,7 @@ individualist anarchists opposed wage labour and sought its end not all did.
 Benjamin Tucker was one of the latter. To requote him:
 
 > _"Wages is not slavery. Wages is a form of voluntary exchange, and voluntary
-exchange is a form of Liberty."_ [**Liberty**, no. 3, p. 1]
+> exchange is a form of Liberty."_ [ **Liberty** , no. 3, p. 1]
 
 The question of wage labour was one of the key differences between Tucker and
 communist-anarchist Johann Most. For Most, it signified that Tucker supported
@@ -900,23 +919,23 @@ all. In response to Most highlighting the fact that Tucker supported wage
 labour, Tucker argued as followed:
 
 > _"If the men who oppose wages -- that is, the purchase and sale of labour --
-were capable of analysing their thought and feelings, they would see that what
-really excites their anger is not the fact that labour is bought and sold, but
-the fact that one class of men are dependent for their living upon the sale of
-their labour, while another class of men are relieved of the necessity of
-labour by being legally privileged to sell something that is not labour, and
-that, but for the privilege, would be enjoyed by all gratuitously. And to such
-a state of things I am as much opposed as any one. But the minute you remove
-privilege, the class that now enjoy it will be forced to sell their labour,
-and then, when there will be nothing but labour with which to buy labour, the
-distinction between wage-payers and wage-receivers will be wiped out, and
-every man will be a labourer exchanging with fellow-labourers. Not to abolish
-wages, but to make every man dependent upon wages and secure to every man his
-whole wages is the aim of Anarchistic Socialism. What Anarchistic Socialism
-aims to abolish is usury. It does not want to deprive labour of its reward; it
-wants to deprive capital of its reward. It does not hold that labour should
-not be sold; it holds that capital should not be hired at usury."_
-[**Liberty**, no. 123, p. 4]
+> were capable of analysing their thought and feelings, they would see that
+> what really excites their anger is not the fact that labour is bought and
+> sold, but the fact that one class of men are dependent for their living upon
+> the sale of their labour, while another class of men are relieved of the
+> necessity of labour by being legally privileged to sell something that is
+> not labour, and that, but for the privilege, would be enjoyed by all
+> gratuitously. And to such a state of things I am as much opposed as any one.
+> But the minute you remove privilege, the class that now enjoy it will be
+> forced to sell their labour, and then, when there will be nothing but labour
+> with which to buy labour, the distinction between wage-payers and wage-
+> receivers will be wiped out, and every man will be a labourer exchanging
+> with fellow-labourers. Not to abolish wages, but to make every man dependent
+> upon wages and secure to every man his whole wages is the aim of Anarchistic
+> Socialism. What Anarchistic Socialism aims to abolish is usury. It does not
+> want to deprive labour of its reward; it wants to deprive capital of its
+> reward. It does not hold that labour should not be sold; it holds that
+> capital should not be hired at usury."_ [ **Liberty** , no. 123, p. 4]
 
 Social anarchists, in reply, would argue that Tucker is missing the point. The
 reason why almost all anarchists are against wage labour is because it
@@ -930,7 +949,7 @@ or shall use force upon inoffensive 'scabs,' or shall attack their employers'
 watchmen . . . I pledge myself that, as an Anarchist and in consequence of my
 Anarchistic faith, I will be among the first to volunteer as a member of a
 force to repress these disturbers of order, and, if necessary, sweep them from
-the earth."_ [**Op. Cit.**, p. 455] Tucker's comments were provoked by the
+the earth."_ [ **Op. Cit.** , p. 455] Tucker's comments were provoked by the
 Homestead strike of 1892, where the striking steelworkers fought with, and
 defeated, their employer's Pinkerton thugs sent to break the strike (Tucker,
 it should be stressed supported the strikers but not their methods and
@@ -946,7 +965,7 @@ their self-defence, both the citizen and group have a right to any violence
 [within individualist anarchy] . . . Violence is also justified for enforcing
 the duty of keeping an agreement. Tucker . . . opens . . . the way for
 reconstructing under the heading of the 'defence' all the functions of the
-State."_ [**Anarchism**, p. 297]
+State."_ [ **Anarchism** , p. 297]
 
 Such an outcome is easy to avoid, however, by simply consistently applying
 individualist anarchist principles and analysis to wage labour. To see why, it
@@ -966,8 +985,8 @@ attempt to control. He who attempts to control another is a governor, an
 aggressor, an invader . . . he who resists another's attempt to control is not
 an aggressor, an invader, a governor, but simply a defender, a protector."_ In
 short, _"the Anarchistic definition of government: the subjection of the non-
-invasive individual to an external will."_ [**The Individualist Anarchists**,
-p. 24]
+invasive individual to an external will."_ [ **The Individualist Anarchists**
+, p. 24]
 
 The similarities with capitalist property (i.e., one based on wage labour) is
 obvious. The employer assumes and exercises _"sole authority over a given area
@@ -978,25 +997,25 @@ produce and what they get paid (i.e., to ensure exploitation). As August
 Spies, one of the Haymarket Martyrs, noted:
 
 > _"I was amazed and was shocked when I became acquainted with the condition
-of the wage-workers in the New World. _
+> of the wage-workers in the New World._
 
 > _"The factory: the ignominious regulations, the surveillance, the spy
-system, the servility and lack of manhood among the workers and the arrogant
-arbitrary behaviour of the boss and his associates -- all this made an
-impression upon me that I have never been able to divest myself of. At first I
-could not understand why the workers, among them many old men with bent backs,
-silently and without a sign of protest bore every insult the caprice of the
-foreman or boss would heap upon them. I was not then aware of the fact that
-the opportunity to work was a privilege, a favour, and that it was in the
-power of those who were in the possession of the factories and instruments of
-labour to deny or grant this privilege. I did not then understand how
-difficult it was to find a purchaser for ones labour, I did not know then that
-there were thousands and thousands of idle human bodies in the market, ready
-to hire out upon most any conditions, actually begging for employment. I
-became conscious of this, very soon, however, and I knew then why these people
-were so servile, whey suffered the humiliating dictates and capricious whims
-of their employers."_ [**The Autobiographies of the Haymarket Martyrs**, pp.
-66-7]
+> system, the servility and lack of manhood among the workers and the arrogant
+> arbitrary behaviour of the boss and his associates -- all this made an
+> impression upon me that I have never been able to divest myself of. At first
+> I could not understand why the workers, among them many old men with bent
+> backs, silently and without a sign of protest bore every insult the caprice
+> of the foreman or boss would heap upon them. I was not then aware of the
+> fact that the opportunity to work was a privilege, a favour, and that it was
+> in the power of those who were in the possession of the factories and
+> instruments of labour to deny or grant this privilege. I did not then
+> understand how difficult it was to find a purchaser for ones labour, I did
+> not know then that there were thousands and thousands of idle human bodies
+> in the market, ready to hire out upon most any conditions, actually begging
+> for employment. I became conscious of this, very soon, however, and I knew
+> then why these people were so servile, whey suffered the humiliating
+> dictates and capricious whims of their employers."_ [ **The Autobiographies
+> of the Haymarket Martyrs** , pp. 66-7]
 
 That this is a kind of state-like authority becomes clear when we consider
 company towns. As Ward Churchill notes, the _"extent of company power over
@@ -1009,14 +1028,14 @@ the Commission on Industrial Relations was led to observe that they displayed
 part of the employer.' The job of the Pinkertons -- first for the railroads,
 then more generally -- was to prevent workers from organising in a manner that
 might enable them to improve their own circumstances, thus reducing corporate
-profits."_ [_"From the Pinkertons to the PATRIOT Act: The Trajectory of
-Political Policing in the United States, 1870 to the Present"_, pp. 1-72,
-**CR: The New Centennial Review**, vol. 4, No. 1, pp. 11-2] In the words of
+profits."_ [ _"From the Pinkertons to the PATRIOT Act: The Trajectory of
+Political Policing in the United States, 1870 to the Present"_ , pp. 1-72,
+**CR: The New Centennial Review** , vol. 4, No. 1, pp. 11-2] In the words of
 one historian of the Pinkerton Agency _"[b]y the mid-1850s a few businessmen
 saw the need for greater control over their employees; their solution was to
 sponsor a private detective system. In February 1855, Allan Pinkerton, after
 consulting with six midwestern railroads, created such an agency in Chicago."_
-[Frank Morn, quoted by Churchill, **Op. Cit.**, p. 4] As we have noted in
+[Frank Morn, quoted by Churchill, **Op. Cit.** , p. 4] As we have noted in
 [section F.7.1](secF7.md#secf671), such regimes remained into the 1930s,
 with corporations having their own well armed private police to enforce the
 propertarian hierarchy (see also [section F.6.2](secF6.md#secf62)).
@@ -1033,7 +1052,7 @@ all within it."_ Tucker considered this element as _"common to all States"_
 and so opposition to the state logically implies support for workers' self-
 management for only in this case can people govern themselves during the
 working day (see [section B.4](secB4.md) for more discussion). Even with
-Tucker's other aspect, _"aggression"_, there are issues. Competition is
+Tucker's other aspect, _"aggression"_ , there are issues. Competition is
 inherently aggressive, with companies seeking to expand their market share, go
 into new markets, drive their competitors out of business, and so forth.
 Within the firm itself, bosses always seek to make workers do more work for
@@ -1055,9 +1074,9 @@ perspective on land use and his support for wage labour. One letter to
 **Liberty** (by "Egoist") pointed out this contradiction: _"if production is
 carried on in groups, as it now is, who is the legal occupier of the land? The
 employer, the manager, or the ensemble of those engaged in the co-operative
-work? The latter appearing the only rational answer."_ [**Op. Cit.**, no. 143,
-p. 4] Sadly, Tucker's reply did not address this particular question and so we
-are left with an unresolved contradiction.
+work? The latter appearing the only rational answer."_ [ **Op. Cit.** , no.
+143, p. 4] Sadly, Tucker's reply did not address this particular question and
+so we are left with an unresolved contradiction.
 
 Looking at the Homestead strike which provoked Tucker's rant against strikers,
 the similarities between wage labour and statism become even clearer. The
@@ -1086,7 +1105,7 @@ that _"[t]his outbreak will settle one matter forever, and that is that the
 Homestead mill hereafter will be run non-union . . . other mills heretofore
 union [will] become non-union and thus free their owners from the arbitrary
 dictation of labour unions."_ [quoted by Peter Krause, **The Battle for
-Homestead 1880-1892**, p. 12 and pp. 39-40]
+Homestead 1880-1892** , p. 12 and pp. 39-40]
 
 In other words, the workers will henceforth be submit to the arbitrary
 dictation of the owners, who would be free to exercise their authority without
@@ -1099,14 +1118,14 @@ put 'the employers in the saddle' -- precisely where they would remain,
 without union interference, for four decades."_ The Pinkerton agents _"were
 preparing to enforce the authority putatively designated to them by Henry Clay
 Frick"_ (although Frick _"had been counting on the ultimate authority of the
-state from the outset."_). [Peter Krause, **Op. Cit.**, p. 13, p. 14 and p.
+state from the outset."_ ). [Peter Krause, **Op. Cit.** , p. 13, p. 14 and p.
 25]
 
 Nor was the 1892 lockout an isolated event. There had been a long history of
 labour disputes at Homestead. In 1882, for example, a strike occurred over the
 _"question of complete and absolute submission on the part of manufacturers to
 the demands of their men,"_ in the words of one ironmaster. [quoted by Krause,
-**Op. Cit.**, p. 178] It was a question of power, whether bosses would have
+**Op. Cit.** , p. 178] It was a question of power, whether bosses would have
 sole and total authority over a given area and all within it. The workers won
 that strike, considering it _"a fight for freedom."_ As such, the 1892 lockout
 was the end result of years of management attempts to break the union and so
@@ -1116,7 +1135,7 @@ the apparently 'barbaric' and 'thankless' workers of Homestead was not, as an
 account limited to that day might indicate, the sudden intrusion of Pinkerton
 agents into their dispute but the slow and steady erosion of their rights and
 their power, over which Carnegie and his associates in steel and politics had
-presided for years, invisibly but no less violently."_ [Krause, **Op. Cit.**,
+presided for years, invisibly but no less violently."_ [Krause, **Op. Cit.** ,
 p. 181 and p. 43]
 
 The conflict at Homestead was thus directly related to the issue of ensuring
@@ -1133,7 +1152,7 @@ open to all workers,"_ not just union members. This union democracy was the
 key to the strike, as Carnegie and his associates _"were deeply troubled by
 its effects in the workplace. So troubled, in fact, that beyond the issue of
 wages or any issues related to it, it was unionism itself that was the primary
-target of Carnegie's concern."_ [Krause, **Op. Cit.**, p. 293]
+target of Carnegie's concern."_ [Krause, **Op. Cit.** , p. 293]
 
 Instead of a relatively libertarian regime, in which those who did the work
 managed it, the lockout resulted in the imposition of a totalitarian regime
@@ -1146,11 +1165,11 @@ conscience with the endowment of a library."_ And so _"the labour difficulties
 that precipitated the Homestead Lockout had less to do with quantifiable
 matter such as wages and wage scales than with the politics of the workers'
 claim to a franchise within the mill -- that is, the legitimacy, authority,
-and power of the union."_ [**Op. Cit.**, p. 361 and p. 294]
+and power of the union."_ [ **Op. Cit.** , p. 361 and p. 294]
 
 The contradictions in wage labour become clear when Secretary Lovejoy stated
 that with the lockout the owners had declared that _"we have decided to run
-our Homestead Mill ourselves."_ [quoted by Krause, **Op. Cit.**, p. 294]
+our Homestead Mill ourselves."_ [quoted by Krause, **Op. Cit.** , p. 294]
 Except, of course, they did no such thing. The workers who occupied and used
 the steel mills still did the work, but without even the smallest say in their
 labour. A clearer example of why wage labour violates the individualist
@@ -1160,8 +1179,8 @@ firm declaration that workers' control was illegal -- that the group
 discipline in the workplace and community by which workers enforced their code
 of mutualism in opposition to the authority and power of the mill owners was
 tantamount to insurrection against the republic -- clearly illuminated the
-ideological and political dimensions of workplace struggles."_ [**The Fall of
-the House of Labour**, p. 39] This defeat of America's most powerful trade
+ideological and political dimensions of workplace struggles."_ [ **The Fall of
+the House of Labour** , p. 39] This defeat of America's most powerful trade
 union was achieved by means of a private police, supported by the State
 militia.
 
@@ -1175,12 +1194,12 @@ libertarian. Yet, there is no logical reason for workplaces to be excluded
 from "occupancy and use." As Tucker put it:
 
 > _"Occupancy and use is the only title to land in which we will protect you;
-if you attempt to use land which another is occupying and using, we will
-protect him against you; if another attempts to use land to which you lay
-claim, but which you are not occupying and using, we will not interfere with
-him; but of such land as you occupy and use you are the sole master, and we
-will not ourselves take from you, or allow anyone else to take from you,
-whatever you may get out of such land."_ [**Liberty**, no. 252, p. 3]
+> if you attempt to use land which another is occupying and using, we will
+> protect him against you; if another attempts to use land to which you lay
+> claim, but which you are not occupying and using, we will not interfere with
+> him; but of such land as you occupy and use you are the sole master, and we
+> will not ourselves take from you, or allow anyone else to take from you,
+> whatever you may get out of such land."_ [ **Liberty** , no. 252, p. 3]
 
 Needless to say, neither Carnegie nor Frick were occupying and using the
 Homestead steel-mills nor were any of the other shareholders. It was precisely
@@ -1188,7 +1207,7 @@ the autocratic authority of the owners which their private army and the state
 militia sought to impose on those who used, but did not own, the steel-mills
 (as the commander of the state troops noted, others _"can hardly believe the
 actual communism of these people. They believe the works are theirs quite as
-much as Carnegie's."_ [quoted by Jeremy Brecher, **Strike!**, p. 60]). As we
+much as Carnegie's."_ [quoted by Jeremy Brecher, **Strike!** , p. 60]). As we
 discuss in the [next section](secG4.md#secg42), this is precisely why most
 anarchists have opposed wage labour as being incompatible with general
 anarchist principles. In other words, a consistent anarchism precludes all
@@ -1227,25 +1246,25 @@ the equals and associates of their leaders."_ Thus, _"all workers must
 associate, inasmuch as collective force and division of labour exist
 everywhere, to however slight a degree"_ because of _"the immoral­ity, tyranny
 and theft suffered."_ Industrial democracy, in which _"all positions are
-elective, and the by-laws subject to the approval of the members_,_"_ would
+elective, and the by-laws subject to the approval of the members_ , _"_ would
 ensure that _"the collective force, which is a product of the community,
 ceases to be a source of profit to a small number of managers"_ and becomes
-_"the property of all the workers."_ [**Property is Theft!,** p. 554, p. 77,
+_"the property of all the workers."_ [ **Property is Theft!,** p. 554, p. 77,
 p. 584 and p. 586]
 
 Proudhon had first expounded this analysis in **What is Property?** in 1840
 and, as K. Steven Vincent notes, this was _"[o]one of the reasons Proudhon
 gave for rejecting 'property' [and] was to become an important motif of
 subsequent socialist thought."_ Thus _"collective endeavours produced an
-additional value"_ which was _"unjustly appropriated by the
-**proprietaire.**"_ [**Pierre-Joseph Proudhon the Rise of French Republican
-Socialism** p. 64 and p. 65] Marx, it should be noted, concurred. Without
-mentioning Proudhon, he stressed how a capitalist buys the labour-power of 100
-men and _"can set the 100 men to work. He pays them the value of 100
-independent labour-powers, but does not pay them for the combined labour power
-of the 100."_ [**Capital**, Vol. 1, p. 451] Only co-operative workplaces can
-ensure that the benefits of co-operative labour are not monopolised by the few
-who happen to own, and so control, the means of production.
+additional value"_ which was _"unjustly appropriated by the **proprietaire.**
+"_ [ **Pierre-Joseph Proudhon the Rise of French Republican Socialism** p. 64
+and p. 65] Marx, it should be noted, concurred. Without mentioning Proudhon,
+he stressed how a capitalist buys the labour-power of 100 men and _"can set
+the 100 men to work. He pays them the value of 100 independent labour-powers,
+but does not pay them for the combined labour power of the 100."_ [
+**Capital** , Vol. 1, p. 451] Only co-operative workplaces can ensure that the
+benefits of co-operative labour are not monopolised by the few who happen to
+own, and so control, the means of production.
 
 If this is not done, then it becomes a case of simply renaming "profits" to
 "wages" and saying that they are the result of the employers work rather than
@@ -1255,13 +1274,13 @@ usury, charging to allow use) while, for the workers, it is unlikely to equal
 their product in the short run. Given that the major rationale for the
 Homestead strike of 1892 **was** to secure the despotism of the property
 owner, the results of breaking the union should be obvious. According to David
-Brody in his work **The Steel Workers**, after the union was broken _"the
+Brody in his work **The Steel Workers** , after the union was broken _"the
 steel workers output doubled in exchange for an income rise of one-fifth . . .
 The accomplishment was possible only with a labour force powerless to oppose
-the decisions of the steel men."_ [quoted by Jeremy Brecher, **Op. Cit.**, p.
+the decisions of the steel men."_ [quoted by Jeremy Brecher, **Op. Cit.** , p.
 62] At Homestead, between 1892 and 1907 the daily earnings of highly-skilled
 plate-mill workers fell by a fifth while their hours increased from eight to
-twelve. [Brecher, **Op. Cit.**, p. 63] Who would dare claim that the profits
+twelve. [Brecher, **Op. Cit.** , p. 63] Who would dare claim that the profits
 this increased exploitation created somehow reflected the labour of the
 managers rather than their total monopoly of authority within the workplace?
 
@@ -1284,7 +1303,7 @@ term that labour **is** exploited. Yet nowhere did Tucker argue that labour
 would get its full product **eventually** in a free society, rather he
 stressed that liberty would result in the end of exploitation. Nor should we
 be blind to the fact that a market economy is a dynamic one, making the long
-run unlikely to ever appear (_"in the long run we are all dead"_ as Keynes
+run unlikely to ever appear ( _"in the long run we are all dead"_ as Keynes
 memorably put it). Combine this with the natural barriers to competition we
 indicated in [section G.4](secG4.md) and we are left with problems of
 usury/exploitation in an individualist anarchist system.
@@ -1295,30 +1314,30 @@ individual. This was the also the position of the Haymarket anarchists, with
 August Spies (for example) arguing that _"large factories and mines, and the
 machinery of exchange and transportation . . . have become too vast for
 private control. Individuals can no longer monopolise them."_ [contained in
-Albert Parsons, **Anarchism: Its Philosophy and Scientific Basis**, pp. 60-1]
-Proudhon denounced property as _"despotism"_, for Albert Parsons the _"wage
-system of labour is a despotism."_ [**Op. Cit.**, p. 21]
+Albert Parsons, **Anarchism: Its Philosophy and Scientific Basis** , pp. 60-1]
+Proudhon denounced property as _"despotism"_ , for Albert Parsons the _"wage
+system of labour is a despotism."_ [ **Op. Cit.** , p. 21]
 
 As Frank H. Brooks notes, _"producer and consumer co-operatives were a staple
 of American labour reform (and of Proudhonian anarchism)."_ This was because
 they _"promised the full reward of labour to the producer, and commodities at
-cost to the consumer."_ [**The Individualist Anarchists**, p. 110] This was
+cost to the consumer."_ [ **The Individualist Anarchists** , p. 110] This was
 the position of Voltairine de Cleyre (during her individualist phase) as well
 as her mentor Dyer Lum:
 
 > _"Lum drew from the French anarchist Proudhon . . . a radical critique of
-classical political economy and . . . a set of positive reforms in land tenure
-and banking . . . Proudhon paralleled the native labour reform tradition in
-several ways. Besides suggesting reforms in land and money, Proudhon urged
-producer co-operation."_ [Frank H. Brooks, _"Ideology, Strategy, and
-Organization: Dyer Lum and the American Anarchist Movement"_, pp. 57-83,
-**Labor History**, Vol. 34, No. 1, p. 72]
+> classical political economy and . . . a set of positive reforms in land
+> tenure and banking . . . Proudhon paralleled the native labour reform
+> tradition in several ways. Besides suggesting reforms in land and money,
+> Proudhon urged producer co-operation."_ [Frank H. Brooks, _"Ideology,
+> Strategy, and Organization: Dyer Lum and the American Anarchist Movement"_ ,
+> pp. 57-83, **Labor History** , Vol. 34, No. 1, p. 72]
 
 So, somewhat ironically given his love of Proudhon, it was, in fact, Most who
 was closer to the French anarchist's position on this issue than Tucker.
 Kropotkin echoed Proudhon's analysis when he noted that _"the only guarantee
 not to be robbed of the fruits of your labour is to possess the instruments of
-labour."_ [**The Conquest of Bread**, p. 145] In other words, for a self-
+labour."_ [ **The Conquest of Bread** , p. 145] In other words, for a self-
 proclaimed follower of Proudhon, Tucker ignored the French anarchist's
 libertarian arguments against wage labour. The key difference between the
 communist-anarchists and Proudhon was on the desirability of making the
@@ -1357,27 +1376,27 @@ management holds in almost all anarchist thought, unsurprisingly we find
 Chomsky summarising the anarchist position as follows:
 
 > _"A consistent anarchist must oppose private ownership of the means of
-production and the wage slavery which is a component of this system, as
-incompatible with the principle that labour must be freely undertaken and
-under the control of the producer . . . A consistent anarchist must oppose not
-only alienated labour but also the stupefying specialisation of labour that
-takes place when the means for developing production."_ [**Chomsky on
-Anarchism**, p. 123]
+> production and the wage slavery which is a component of this system, as
+> incompatible with the principle that labour must be freely undertaken and
+> under the control of the producer . . . A consistent anarchist must oppose
+> not only alienated labour but also the stupefying specialisation of labour
+> that takes place when the means for developing production."_ [ **Chomsky on
+> Anarchism** , p. 123]
 
 Thus the _"consistent anarchist, then, will be a socialist, but a socialist of
-a particular sort."_ [**Op. Cit.**, p. 125] Which suggests that Tucker's
+a particular sort."_ [ **Op. Cit.** , p. 125] Which suggests that Tucker's
 position is one of inconsistent anarchism. While a socialist, he did not take
 his libertarian positions to their logical conclusions -- the abolition of
 wage labour. There is, of course, a certain irony in this. In response to
-Johann Most calling his ideas _"Manchesterism"_, Tucker wrote _"what better
+Johann Most calling his ideas _"Manchesterism"_ , Tucker wrote _"what better
 can a man who professes Anarchism want than that? For the principle of
 Manchesterism is liberty, and consistent Manchesterism is consistent adherence
 to liberty. The only inconsistency of the Manchester men lies in their
 infidelity to liberty in some of its phases. And this infidelity to liberty in
 some of its phases is precisely the fatal inconsistency of the 'Freiheit'
 school . . . Yes, genuine Anarchism is consistent Manchesterism, and
-Communistic or pseudo-Anarchism is inconsistent Manchesterism."_ [**Liberty**,
-no. 123, p. 4]
+Communistic or pseudo-Anarchism is inconsistent Manchesterism."_ [ **Liberty**
+, no. 123, p. 4]
 
 In other words, if individualist anarchism is, as Tucker claimed, _"consistent
 Manchesterism"_ then, argue social anarchists, individualist anarchism is
@@ -1400,8 +1419,8 @@ to have a little monarchy for their personal use, each in his own home . . .
 Order in the family without hierarchy seems impossible to them -- well then,
 what about in the state?"_ [André Léo, quoted by Carolyn J. Eichner, _"'Vive
 La Commune!' Feminism, Socialism, and Revolutionary Revival in the Aftermath
-of the 1871 Paris Commune,"_, pp. 68-98, **Journal of Women's History**, Vol.
-15, No.2, p. 75] Rejecting monarchy and hierarchy on the state level and
+of the 1871 Paris Commune,"_ , pp. 68-98, **Journal of Women's History** ,
+Vol. 15, No.2, p. 75] Rejecting monarchy and hierarchy on the state level and
 within the workplace while supporting it -- in the form of rule by the father
 -- on the family level was simply illogical and inconsistent. Subsequent
 anarchists (from Bakunin onwards) solved this obvious contradiction by
@@ -1421,7 +1440,7 @@ Tucker's position is also in direct opposition to Proudhon's arguments, which
 is somewhat ironic since Tucker stressed being inspired by and following the
 French anarchist and his ideas (Tucker referred to Proudhon as being both
 _"the father of the Anarchistic school of socialism"_ as well as _"being the
-Anarchist **par excellence**"_ [Tucker, **Instead of a Book**, p. 391]).
+Anarchist **par excellence** "_ [Tucker, **Instead of a Book** , p. 391]).
 Tucker is distinctly at odds with Proudhon who consistently opposed wage-
 labour and so, presumably, was also an advocate of _"pseudo-Anarchism"_
 alongside Kropotkin and Most.
@@ -1438,20 +1457,20 @@ proprietor."_ With _"machinery and the workshop, divine right -- that is, the
 principle of authority -- makes its entrance into political economy. Capital .
 . . Property . . . are, in economic language, the various names of . . .
 Power, Authority."_ Thus, under capitalism, the workplace has a _"hierarchical
-organisation."_ There are three alternatives, capitalism (_"that is, monopoly
-and what follows"_), state socialism (_"exploitation by the State"_) _"or else
-. . . a solution based on equality, -- in other words, the organisation of
-labour, which involves the negation of political economy and the end of
+organisation."_ There are three alternatives, capitalism ( _"that is, monopoly
+and what follows"_ ), state socialism ( _"exploitation by the State"_ ) _"or
+else . . . a solution based on equality, -- in other words, the organisation
+of labour, which involves the negation of political economy and the end of
 property."_ In short, _"all property becomes . . . collective and undivided."_
-[**Property is Theft!**, p. 21, p. 139, p. 114, pp. 117-8, p. 193,  p. 202 and
-p. 137] Indeed, in 1849 he angrily rejected the assertion that he wanted
-_"individual ownership and non-organisation of the instruments of labour"_:
+[ **Property is Theft!** , p. 21, p. 139, p. 114, pp. 117-8, p. 193, p. 202
+and p. 137] Indeed, in 1849 he angrily rejected the assertion that he wanted
+_"individual ownership and non-organisation of the instruments of labour"_ :
 
 > _"I have never penned nor uttered any such thing: and have argued the
-opposite a hundred times over . . . I deny all kinds of proprietary domain. I
-deny it, precisely because I believe in an order wherein the instruments of
-labour will cease to be appropriated and instead become shared."_ [**Op.
-Cit.**, p. 499]
+> opposite a hundred times over . . . I deny all kinds of proprietary domain.
+> I deny it, precisely because I believe in an order wherein the instruments
+> of labour will cease to be appropriated and instead become shared."_ [ **Op.
+> Cit.** , p. 499]
 
 So _"under universal association, ownership of the land and of the
 instru­ments of labour is **social** ownership."_ This was because wage-
@@ -1464,38 +1483,38 @@ organisation"_ and _"forms a part of the sovereign power, of which he was
 before but the subject."_ Without association, people _" would remain related
 as subordinates and superiors, and there would ensue two industrial castes of
 masters and wage-workers, which is repugnant to a free and democratic
-society."_ [**Op. Cit.**, p. 377, p. 583, p. 584 and p. 583]
+society."_ [ **Op. Cit.** , p. 377, p. 583, p. 584 and p. 583]
 
 This analysis lead Proudhon to call for co-operatives to end wage labour and
 it appears repeatedly in his work. Thus we find him arguing in 1851 that
 socialism is _"the elimination of misery, the abolition of capitalism and of
 wage-labour, the transformation of property, . . . the effective and direct
 sovereignty of the workers, . . . the substitution of the contractual regime
-for the legal regime."_ [quoted by John Ehrenberg, **Proudhon and his Age**,
+for the legal regime."_ [quoted by John Ehrenberg, **Proudhon and his Age** ,
 p. 111] Fourteen years later, he argued the same, with the aim of his
 mutualist ideas being _"the complete emancipation of the workers . . . the
 abolition of the wage worker."_ [quoted by K. Steven Vincent, **Pierre-Joseph
 Proudhon and the Rise of French Republican Socialism** p. 222] Thus a key idea
 of Proudhon's politics is the abolition of wage labour: _"Industrial Democracy
-must follow Industrial Feudalism."_  [**Property is Theft!**, p. 610]
+must follow Industrial Feudalism."_ [ **Property is Theft!** , p. 610]
 
 (As an aside, it is deeply significant how different Proudhon's analysis of
 hierarchy and wage-labour is to Murray Rothbard's. For Rothbard, both
 _"hierarchy"_ and _"wage-work"_ were part of _"a whole slew of institutions
 necessary to the triumph of liberty"_ (others included _"granting of funds by
-libertarian millionaires, and a libertarian political party"_). He strenuously
-objected to those _"indicting"_ such institutions _"as non-libertarian or non-
-market"_. [**Konkin on Libertarian Strategy**] For Proudhon -- as well as
-Bakunin, Kropotkin, and others -- both wage-labour and hierarchy were anti-
-libertarian by their very nature. How could hier-archy be _"necessary"_ for
-the triumph of an-archy? Logically, it makes no sense. An-**archy**, by
-definition, means no-archy rather than wholehearted support for a specific
-form of **archy**, namely hier-**archy**! At best, Rothbard was a "voluntary
-archist" not an anarchist.)
+libertarian millionaires, and a libertarian political party"_ ). He
+strenuously objected to those _"indicting"_ such institutions _"as non-
+libertarian or non-market"_. [ **Konkin on Libertarian Strategy** ] For
+Proudhon -- as well as Bakunin, Kropotkin, and others -- both wage-labour and
+hierarchy were anti-libertarian by their very nature. How could hier-archy be
+_"necessary"_ for the triumph of an-archy? Logically, it makes no sense. An-
+**archy** , by definition, means no-archy rather than wholehearted support for
+a specific form of **archy** , namely hier- **archy**! At best, Rothbard was a
+"voluntary archist" not an anarchist.)
 
 As Charles A. Dana put it (in a work published by Tucker and described by him
 as _"a really intelligent, forceful, and sympathetic exposition of mutual
-banking"_), _"[b]y introducing mutualism into exchanges and credit we
+banking"_ ), _"[b]y introducing mutualism into exchanges and credit we
 introduce it everywhere, and labour will assume a new aspect and become truly
 democratic."_ Labour _"must be reformed by means of association as well as
 banking"_ for _"if labour be not organised, the labourers will be made to toil
@@ -1503,27 +1522,27 @@ for others to receive the fruit thereof as heretofore."_ These co-operatives
 _"to a great extent abolish the exploitation of the employed worker by the
 employing capitalist, and make the worker his own employer; but, in order to
 completely gain that end, the associations must be associated, united in one
-body for mutual aid."_ This is _"the Syndicate of Production."_ [**Proudhon
-and His _"Bank of the People"_**, p. 45, p. 50 and p. 54] Tucker, however,
+body for mutual aid."_ This is _"the Syndicate of Production."_ [ **Proudhon
+and His _"Bank of the People"_** , p. 45, p. 50 and p. 54] Tucker, however,
 asserted that Proudhon included the syndicate of production _"to humour those
 of his associates who placed stress on these features. He did not consider
-them of any value."_ [**Op. Cit.**, pp. 51-2] However, he was simply
+them of any value."_ [ **Op. Cit.** , pp. 51-2] However, he was simply
 incorrect. Industrial democracy was a key aspect of Proudhon's ideas, as was
 the creation of an _"agro-industrial federation"_ based on these self-managed
 associations. This can be seen from Tucker's own comparison of Marx and
 Proudhon made on the formers death:
 
 > _"For Karl Marx, the 'egalitaire', we feel the profoundest respect; as for
-Karl Marx, the 'authoritaire', we must consider him an enemy. . . . Proudhon
-was years before Marx [in discussing the struggle of the classes and the
-privileges and monopolies of capital]. . . . The vital difference between
-Proudhon and Marx [was] to be found in their respective remedies which they
-proposed. Marx would nationalise the productive and distributive forces;
-Proudhon would individualise and associate them. Marx would make the labourers
-political masters; Proudhon would abolish political mastership entirely . . .
-Marx believed in compulsory majority rule; Proudhon believed in the voluntary
-principle. In short, Marx was an 'authoritaire'; Proudhon was a champion of
-Liberty."_ [**Liberty**, no. 35, p. 2]
+> Karl Marx, the 'authoritaire', we must consider him an enemy. . . . Proudhon
+> was years before Marx [in discussing the struggle of the classes and the
+> privileges and monopolies of capital]. . . . The vital difference between
+> Proudhon and Marx [was] to be found in their respective remedies which they
+> proposed. Marx would nationalise the productive and distributive forces;
+> Proudhon would individualise and associate them. Marx would make the
+> labourers political masters; Proudhon would abolish political mastership
+> entirely . . . Marx believed in compulsory majority rule; Proudhon believed
+> in the voluntary principle. In short, Marx was an 'authoritaire'; Proudhon
+> was a champion of Liberty."_ [ **Liberty** , no. 35, p. 2]
 
 Ironically, therefore, by Tucker placing so much stress in opposing capitalist
 **exploitation,** instead of capitalist **oppression,** he was actually closer
@@ -1537,7 +1556,7 @@ libertarian. Arguing that it is based on consent is as unconvincing as those
 who defend the state in similar terms.
 
 And we must add that John Stuart Mill (who agreed with the Warrenite slogan
-_"Individual Sovereignty"_) faced with the same problem that wage labour made
+_"Individual Sovereignty"_ ) faced with the same problem that wage labour made
 a mockery of individual liberty came to the same conclusion as Proudhon. He
 thought that if _"mankind is to continue to improve"_ (and it can only improve
 within liberty, we must add) then in the end one form of association will
@@ -1546,11 +1565,11 @@ workpeople without a voice in management, but the association of the labourers
 themselves on terms of equality, collectively owning the capital with which
 they carry on their operations, and working under managers elected and
 removable by themselves."_ [quoted by Carole Pateman, **Participation and
-Democratic Theory**, p. 34]
+Democratic Theory** , p. 34]
 
 Tucker himself pointed out that _"the essence of government is control. . . He
-who attempts to control another is a governor, an aggressor, an invader."_
-[**Instead of a Book**, p. 23] So when Tucker suggests that (non-exploitative,
+who attempts to control another is a governor, an aggressor, an invader."_ [
+**Instead of a Book** , p. 23] So when Tucker suggests that (non-exploitative,
 and so non-capitalist) wage labour could exist in individualist anarchy there
 is a distinct contradiction. Unlike wage labour under capitalism, workers
 would employ other workers and all would (in theory) receive the full product
@@ -1571,17 +1590,17 @@ strikers and wage labour show a basic inconsistency in his basic ideas. This
 conclusion is not surprising. As Malatesta argued:
 
 > _"The individualists give the greatest importance to an abstract concept of
-freedom and fail to take into account, or dwell on the fact, that real,
-concrete freedom is the outcome of solidarity and voluntary co-operation . . .
-They certainly believe that to work in isolation is fruitless and that an
-individual, to ensure a living as a human being and to materially and morally
-enjoy all the benefits of civilisation, must either exploit -- directly or
-indirectly -- the labour of others . . . or associate with his [or her]
-fellows and share their pains and the joys of life. And since, being
-anarchists, they cannot allow the exploitation of one by another, they must
-necessarily agree that to be free and live as human beings they have to accept
-some degree and form of voluntary communism."_ [**The Anarchist Revolution**,
-p. 16]
+> freedom and fail to take into account, or dwell on the fact, that real,
+> concrete freedom is the outcome of solidarity and voluntary co-operation . .
+> . They certainly believe that to work in isolation is fruitless and that an
+> individual, to ensure a living as a human being and to materially and
+> morally enjoy all the benefits of civilisation, must either exploit --
+> directly or indirectly -- the labour of others . . . or associate with his
+> [or her] fellows and share their pains and the joys of life. And since,
+> being anarchists, they cannot allow the exploitation of one by another, they
+> must necessarily agree that to be free and live as human beings they have to
+> accept some degree and form of voluntary communism."_ [ **The Anarchist
+> Revolution** , p. 16]
 
 Occupancy and use, therefore, implies the collective ownership of resources
 used by groups which, in turn, implies associative labour and self-management.
@@ -1590,25 +1609,25 @@ as John P. Clark summarised, opposition to authority which is limited to just
 the state hardly makes much sense from a libertarian perspective:
 
 > _"Neither . . . is there any reason to consider such a position a very
-consistent or convincing form of anarchism . . . A view of anarchism which
-seeks to eliminate coercion and the state, but which overlooks other ways in
-which people dominate other people, is very incomplete and quite contradictory
-type of anarchism. The most thorough-going and perceptive anarchist theories
-have shown that all types of domination are interrelated, all are destructive,
-and all must be eliminated . . . Anarchism may begin as a revolt against
-political authority, but if followed to its logical conclusion it becomes an
-all-encompassing critique of the will to dominate and all its
-manifestations."_ [**Max Stirner's Egoism**, pp. 92-3]
+> consistent or convincing form of anarchism . . . A view of anarchism which
+> seeks to eliminate coercion and the state, but which overlooks other ways in
+> which people dominate other people, is very incomplete and quite
+> contradictory type of anarchism. The most thorough-going and perceptive
+> anarchist theories have shown that all types of domination are interrelated,
+> all are destructive, and all must be eliminated . . . Anarchism may begin as
+> a revolt against political authority, but if followed to its logical
+> conclusion it becomes an all-encompassing critique of the will to dominate
+> and all its manifestations."_ [ **Max Stirner's Egoism** , pp. 92-3]
 
 Certain individualist anarchists were keenly aware of the fact that even free
 association need not be based on freedom for both parties. Take, for example,
 marriage. Marriage, correctly argued John Beverley Robinson, is based on _"the
 promise to obey"_ and this results in _"a very real subordination."_ As part
 of _"the general progress toward freedom in all things,"_ marriage will
-_"become the union of those who are both equal and both free."_ [**Liberty**,
-no. 287, p. 2] Why should property associated subordination be any better than
-patriarchal subordination? Does the fact that one only lasts 8 or 12 hours
-rather than 24 hours a day really make one consistent with libertarian
+_"become the union of those who are both equal and both free."_ [ **Liberty**
+, no. 287, p. 2] Why should property associated subordination be any better
+than patriarchal subordination? Does the fact that one only lasts 8 or 12
+hours rather than 24 hours a day really make one consistent with libertarian
 principles and the other not?
 
 Thus Tucker's comments on wage labour indicates a distinct contradiction in
@@ -1623,7 +1642,7 @@ came to the state, anarchists are well aware of the limited nature of this
 argument (as one individualist anarchist put it: _"As well say that the
 government of New York or even of the United States is voluntary, and, if you
 don't like New York Sunday laws, etc., you can secede and go to -- South
-Carolina."_ [A. H. Simpson, **The Individualist Anarchists**, p. 287]). In
+Carolina."_ [A. H. Simpson, **The Individualist Anarchists** , p. 287]). In
 other words, consent of and by itself does not justify hierarchy for if it
 did, the current state system would be anarchistic. This indicates the
 weakness of contract theory as a means of guaranteeing liberty and its
@@ -1646,9 +1665,9 @@ application of communistic principles. They will expropriate all wealth; they
 will take possession of all foundries, workshops, factories, mines, etc., for
 in no other way could they be able to continue to produce what they require on
 a basis of equality, and be, at the same time, independent of any authority."_
-[**Anarchism: Its Philosophy and Scientific Basis**, p. 99, p. 104 and p. 166]
-Hence Kropotkin's comment that _"anarchism . . . refuses all hierarchical
-organisation and preaches free agreement."_ [**Anarchism**, p. 137] To do
+[ **Anarchism: Its Philosophy and Scientific Basis** , p. 99, p. 104 and p.
+166] Hence Kropotkin's comment that _"anarchism . . . refuses all hierarchical
+organisation and preaches free agreement."_ [ **Anarchism** , p. 137] To do
 otherwise is to contradict the basic ideas of anarchism.
 
 Peter Kropotkin recognised the statist implications of some aspects of
@@ -1664,7 +1683,7 @@ idea and to that same coercion which they so fiercely attack themselves. Their
 position is thus the same as that of Spencer and of the so-called 'Manchester
 school' of economists, who also begin by a severe criticism of the State and
 end up in its full recognition in order to maintain the property monopolies,
-of which the State is the necessary stronghold."_ [**Op. Cit.**, p. 162]
+of which the State is the necessary stronghold."_ [ **Op. Cit.** , p. 162]
 
 Such would be the possible (perhaps probable) result of the individualists'
 contract theory of freedom without a social background of communal self-
@@ -1732,10 +1751,10 @@ liberty is purely _"liberty . . . for the strong and the property owners to
 oppress and exploit the weak, those who have nothing . . . [so] lead[ing] to
 exploitation and domination, in other words, to authority . . . for freedom is
 not possible without equality, and real anarchy cannot exist without
-solidarity, without socialism."_ [**Anarchy**, p. 48 and p. 47]
+solidarity, without socialism."_ [ **Anarchy** , p. 48 and p. 47]
 
 [‹ G.3 Is "anarcho"-capitalism a new form of individualist
-anarchism?](secG3.md "Go to previous page" ) [up](secGcon.md "Go to parent
-page" ) [G.5 Benjamin Tucker: Capitalist or Anarchist? ›](secG5.md "Go to
-next page" )
+anarchism?](secG3.md "Go to previous page") [up](secGcon.md "Go to parent
+page") [G.5 Benjamin Tucker: Capitalist or Anarchist? ›](secG5.md "Go to
+next page")
 

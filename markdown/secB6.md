@@ -18,12 +18,12 @@ all, the companies making returnable bottles lose business and switch to non-
 returnables. Result? Increased waste and environmental destruction.
 
 This is because market price fails to take into account social costs and
-benefits, indeed it **mis**-estimates them for both buyer/seller and to others
-not involved in the transaction. This is because, as Schumacher points out,
-the _"strength of the idea of private enterprise lies in its terrifying
+benefits, indeed it **mis** -estimates them for both buyer/seller and to
+others not involved in the transaction. This is because, as Schumacher points
+out, the _"strength of the idea of private enterprise lies in its terrifying
 simplicity. It suggests that the totality of life can be reduced to one aspect
-- profits..."_ [**Small is Beautiful**, p. 215] But life cannot be reduced to
-one aspect without impoverishing it and so capitalism _"knows the price of
+- profits..."_ [ **Small is Beautiful** , p. 215] But life cannot be reduced
+to one aspect without impoverishing it and so capitalism _"knows the price of
 everything but the value of nothing."_
 
 Therefore the market promotes "the tyranny of small decisions" and this can
@@ -105,6 +105,6 @@ reduced, for reasons discussed in section I.5.6 ( [Won't there be a danger of
 a "tyranny of the majority" under libertarian socialism?](secI5.md#seci56)).
 
 [‹ B.5 Is capitalism empowering and based on human action?](secB5.md "Go to
-previous page" ) [up](secBcon.md "Go to parent page" ) [B.7 What classes
-exist within modern society? ›](secB7.md "Go to next page" )
+previous page") [up](secBcon.md "Go to parent page") [B.7 What classes exist
+within modern society? ›](secB7.md "Go to next page")
 

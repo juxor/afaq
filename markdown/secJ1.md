@@ -12,8 +12,8 @@ seeds of anarchy within capitalism.
 Anarchists consider socialistic tendencies to develop within society as people
 see the benefits of co-operation and particularly when mutual aid develops
 within the struggle against authority, oppression and exploitation. Anarchism,
-as Kropotkin argued, _"originated in everyday struggles."_ [**Environment and
-Revolution**, p.58] Therefore, anarchists do not place anarchy abstractly
+as Kropotkin argued, _"originated in everyday struggles."_ [ **Environment and
+Revolution** , p.58] Therefore, anarchists do not place anarchy abstractly
 against capitalism but see it as a tendency within and against the system -- a
 tendency created by struggle and which can be developed to such a degree that
 it can **replace** the dominant structures and social relationships with new,
@@ -33,37 +33,38 @@ private property and to the government, every exaltation of the conscience of
 man, disruption of the present conditions, every lie unmasked, every part of
 human activity taken away from the control of the authorities, every
 augmentation of the spirit of solidarity and initiative is a step towards
-Anarchism."_ [Errico Malatesta, **Towards Anarchism**, p. 75] We are aware
+Anarchism."_ [Errico Malatesta, **Towards Anarchism** , p. 75] We are aware
 that we often fail to do so, but the very process of struggle can help create
 a more libertarian aspect to society:
 
 > _"Whatever may be the practical results of the struggle for immediate gains,
-the greatest value lies in the struggle itself. For thereby workers [and other
-oppressed sections of society] learn that the bosses interests are opposed to
-theirs and that they cannot improve their conditions, and much less emancipate
-themselves, except by uniting and becoming stronger than the bosses. If they
-succeed in getting what they demand, they will be better off: they will earn
-more, work fewer hours and will have more time and energy to reflect on the
-things that matter to them, and will immediately make greater demands and have
-greater needs. If they do not succeed they will be led to study the reasons of
-their failure and recognise the need for closer unity and greater activity and
-they will in the end understand that to make victory secure and definite, it
-is necessary to destroy capitalism. The revolutionary cause, the cause of
-moral elevation and emancipation of the workers [and other oppressed sections
-of society] must benefit by the fact that workers [and other oppressed people]
-unite and struggle for their interests."_ [Malatesta, **Errico Malatesta: His
-Life and Ideas**, p. 191]
+> the greatest value lies in the struggle itself. For thereby workers [and
+> other oppressed sections of society] learn that the bosses interests are
+> opposed to theirs and that they cannot improve their conditions, and much
+> less emancipate themselves, except by uniting and becoming stronger than the
+> bosses. If they succeed in getting what they demand, they will be better
+> off: they will earn more, work fewer hours and will have more time and
+> energy to reflect on the things that matter to them, and will immediately
+> make greater demands and have greater needs. If they do not succeed they
+> will be led to study the reasons of their failure and recognise the need for
+> closer unity and greater activity and they will in the end understand that
+> to make victory secure and definite, it is necessary to destroy capitalism.
+> The revolutionary cause, the cause of moral elevation and emancipation of
+> the workers [and other oppressed sections of society] must benefit by the
+> fact that workers [and other oppressed people] unite and struggle for their
+> interests."_ [Malatesta, **Errico Malatesta: His Life and Ideas** , p. 191]
 
 Therefore, _"we as anarchists and workers, must incite and encourage"_ workers
 and other oppressed people _"to struggle, and join them in their struggle."_
-[Malatesta, **Op. Cit.**, p. 190] This is for three reasons. Firstly, struggle
-helps generate libertarian ideas and movements which could help make existing
-society more anarchistic and less oppressive. Secondly, struggle creates
-people, movements and organisations which are libertarian in nature and which,
-potentially, can replace capitalism with a more humane society. Thirdly,
-because anarchists are part of the oppressed and so have an interest in taking
-part in and showing solidarity with struggles and movements that can improve
-our life in the here and now (_"an injury to one is an injury to all"_).
+[Malatesta, **Op. Cit.** , p. 190] This is for three reasons. Firstly,
+struggle helps generate libertarian ideas and movements which could help make
+existing society more anarchistic and less oppressive. Secondly, struggle
+creates people, movements and organisations which are libertarian in nature
+and which, potentially, can replace capitalism with a more humane society.
+Thirdly, because anarchists are part of the oppressed and so have an interest
+in taking part in and showing solidarity with struggles and movements that can
+improve our life in the here and now ( _"an injury to one is an injury to
+all"_ ).
 
 As we will see in [section J.2](secJ2.md) anarchists encourage direct action
 within social struggles as well as arguing for anarchist ideas and theories.
@@ -72,14 +73,14 @@ people are thinking and acting for themselves and working together to change
 things. Howard Zinn is completely correct:
 
 > _"civil disobedience . . . is **not** our problem. Our problem is civil
-**obedience.** Our problem is that numbers of people all over the world have
-obeyed the dictates of the leaders of their government and have gone to war,
-and millions have been killed because of this obedience . . . Our problem is
-that people are obedient all over the world in the face of poverty and
-starvation and stupidity, and war, and cruelty. Our problem is that people are
-obedient while the jails are full of petty thieves, and all the while the
-grand thieves are running the country. That's our problem."_ [**Failure to
-Quit**, p. 45]
+> **obedience.** Our problem is that numbers of people all over the world have
+> obeyed the dictates of the leaders of their government and have gone to war,
+> and millions have been killed because of this obedience . . . Our problem is
+> that people are obedient all over the world in the face of poverty and
+> starvation and stupidity, and war, and cruelty. Our problem is that people
+> are obedient while the jails are full of petty thieves, and all the while
+> the grand thieves are running the country. That's our problem."_ [ **Failure
+> to Quit** , p. 45]
 
 Therefore, social struggle is an important thing for anarchists and we take
 part in it as much as we can. Moreover, anarchists do more than just take
@@ -92,7 +93,7 @@ namely solidarity, self-management and direct action.
 
 Anarchists do not engage in abstract propaganda (become an anarchist, wait for
 the revolution -- if we did that, in Malatesta's words, _"that day would never
-come."_ [**Op. Cit.**, p. 195]). We know that our ideas will only win a
+come."_ [ **Op. Cit.** , p. 195]). We know that our ideas will only win a
 hearing and respect when we can show both their relevance to people's lives in
 the here and now and show that an anarchist world is both possible and
 desirable. In other words, social struggle is the "school" of anarchism, the
@@ -124,7 +125,7 @@ all human traits -- be they speculative thought, love, community, friendship,
 art, or self-governance -- with the authority of economic calculation and the
 rule of quantity. Its 'bottom line' is the balance sheet's sum and its basic
 vocabulary consists of simple numbers."_ [Murray Bookchin, **The Modern
-Crisis**, pp. 125-126]
+Crisis** , pp. 125-126]
 
 In other words, issues such as freedom, justice, individual dignity, quality
 of life and so on cannot be reduced to the categories of capitalist economics.
@@ -138,24 +139,24 @@ essential to take into account the needs of the emotions, mind and spirit just
 as much as those of the belly:
 
 > _"The class struggle does not centre around material exploitation alone but
-also around spiritual exploitation. In addition, entirely new issues emerge:
-coercive attitudes, the quality of work, ecology (or stated in more general
-terms, psychological and environmental oppression) . . . Terms like 'classes'
-and 'class struggle,' conceived of almost entirely as economic categories and
-relations, are too one-sided to express the **universalisation** of the
-struggle. Use these limited expressions if you like (the target is still a
-ruling class and a class society), but this terminology, with its traditional
-connotations, does not reflect the sweep and the multi-dimensional nature of
-the struggle . . . [and] fail to encompass the cultural and spiritual revolt
-that is taking place along with the economic struggle."_ [**Post-Scarcity
-Anarchism**, pp. 151-2]
+> also around spiritual exploitation. In addition, entirely new issues emerge:
+> coercive attitudes, the quality of work, ecology (or stated in more general
+> terms, psychological and environmental oppression) . . . Terms like
+> 'classes' and 'class struggle,' conceived of almost entirely as economic
+> categories and relations, are too one-sided to express the
+> **universalisation** of the struggle. Use these limited expressions if you
+> like (the target is still a ruling class and a class society), but this
+> terminology, with its traditional connotations, does not reflect the sweep
+> and the multi-dimensional nature of the struggle . . . [and] fail to
+> encompass the cultural and spiritual revolt that is taking place along with
+> the economic struggle."_ [ **Post-Scarcity Anarchism** , pp. 151-2]
 
 For anarchists, exploitation and class rule are just part of a wider system of
 domination and hierarchy. Material gains, therefore, can never completely
 make-up for oppressive social relationships. As the anarchist character
 created by anarchist science-fiction writer Ursula Le Guin put it, capitalists
 _"think if people have enough things they will be content to live in prison."_
-[**The Dispossessed**, p. 120] Anarchists disagree -- and the experience of
+[ **The Dispossessed** , p. 120] Anarchists disagree -- and the experience of
 social revolt in the "affluent" 1960s proves their case.
 
 This is unsurprising for, ultimately, the _"antagonism [between classes] is
@@ -163,7 +164,7 @@ spiritual rather than material. There will never be a sincere understanding
 between bosses and workers. . . because the bosses above all want to remain
 bosses and secure always more power at the expense of the workers, as well as
 by competition with other bosses, whereas the workers have had their fill of
-bosses and don't want any more."_ [Malatesta, **Op. Cit.**, p. 79]
+bosses and don't want any more."_ [Malatesta, **Op. Cit.** , p. 79]
 
 ## J.1.1 Why are social struggles important?
 
@@ -178,29 +179,30 @@ individuals asserting their autonomy and disgust at an unfair system. As
 Howard Zinn stresses:
 
 > _"Both the source and the solution of our civil liberties problems are in
-the situations of every day: where we live, where we work, where we go to
-school, where we spend most of our hours. Our actual freedom is not determined
-by the Constitution or by [the Supreme] Court, but by the power the policeman
-has over us in the street or that of the local judge behind him; by the
-authority of our employers [if we are working]; by the power of teachers,
-principals, university president, and boards of trustees if we are students;
-by the welfare bureaucracy if we are poor [or unemployed]; by prison guards if
-we are in jail; by landlords if we are tenants; by the medical profession or
-hospital administration if we are physically or mentally ill._
+> the situations of every day: where we live, where we work, where we go to
+> school, where we spend most of our hours. Our actual freedom is not
+> determined by the Constitution or by [the Supreme] Court, but by the power
+> the policeman has over us in the street or that of the local judge behind
+> him; by the authority of our employers [if we are working]; by the power of
+> teachers, principals, university president, and boards of trustees if we are
+> students; by the welfare bureaucracy if we are poor [or unemployed]; by
+> prison guards if we are in jail; by landlords if we are tenants; by the
+> medical profession or hospital administration if we are physically or
+> mentally ill._
 
 > _"Freedom and justice are local things, at hand, immediate. They are
-determined by power and money, whose authority over our daily lives is much
-less ambiguous than decisions of the Supreme Court. Whatever claim we . . .
-can make to liberty on the national level . . . on the local level we live at
-different times in different feudal fiefdoms where our subordination is
-clear."_ [**Failure to Quit**, pp. 53-4]
+> determined by power and money, whose authority over our daily lives is much
+> less ambiguous than decisions of the Supreme Court. Whatever claim we . . .
+> can make to liberty on the national level . . . on the local level we live
+> at different times in different feudal fiefdoms where our subordination is
+> clear."_ [ **Failure to Quit** , pp. 53-4]
 
 These realities of wealth and power will remain unshaken unless counter-forces
 appear on the very ground our liberty is restricted -- on the street, in
 workplaces, at home, at school, in hospitals and so on. For the _"only limit
 to the oppression of government is the power with which people show themselves
-capable of opposing it."_ [Malatesta, **Errico Malatesta: His Life and
-Ideas**, p. 196]
+capable of opposing it."_ [Malatesta, **Errico Malatesta: His Life and Ideas**
+, p. 196]
 
 Social struggles for improvements are also important indications of the spirit
 of revolt and of people supporting each other in the continual assertion of
@@ -229,21 +231,21 @@ Struggle allows those involved to develop their abilities for self-rule
 through practice and so begins the process by which individuals assert their
 ability to control their own lives and to participate in social life directly.
 These are all key elements of anarchism and are required for an anarchist
-society to work (_"Self-management of the struggle comes first, then comes
-self-management of work and society"_ [Alfredo Bonnano, _"Self-Management"_,
-pp. 35-37, **Anarchy: A Journal of Desire Armed**, no. 48, p. 35]). So self-
+society to work ( _"Self-management of the struggle comes first, then comes
+self-management of work and society"_ [Alfredo Bonnano, _"Self-Management"_ ,
+pp. 35-37, **Anarchy: A Journal of Desire Armed** , no. 48, p. 35]). So self-
 activity is a key factor in self-liberation, self-education and the creating
 of anarchists. In a nutshell, people learn in struggle:
 
 > _"In our opinion all action which is directed toward the destruction of
-economic and political oppression, which serves to raise the moral and
-intellectual level of the people; which gives them an awareness of their
-individual rights and their power, and persuades them themselves to act on
-their own behalf . . . brings us closer to our ends and is therefore a good
-thing. On the other hand all activity which tends to preserve the present
-state of affairs, that tends to sacrifice man against his will for the triumph
-of a principle, is bad because it is a denial of our ends._ [Malatesta, **Op.
-Cit.**, p. 69]
+> economic and political oppression, which serves to raise the moral and
+> intellectual level of the people; which gives them an awareness of their
+> individual rights and their power, and persuades them themselves to act on
+> their own behalf . . . brings us closer to our ends and is therefore a good
+> thing. On the other hand all activity which tends to preserve the present
+> state of affairs, that tends to sacrifice man against his will for the
+> triumph of a principle, is bad because it is a denial of our ends._
+> [Malatesta, **Op. Cit.** , p. 69]
 
 A confident working class is an essential factor in making successful and
 libertarian improvements within the current system and, ultimately, in making
@@ -301,64 +303,66 @@ revolution. This is not true. Libertarians are well aware that we can act to
 make our lives better while, at the same time, seeking to remove the root
 causes of the problems we face. (see, for example, Emma Goldman's account of
 her recognition of how false it was deny the need for short-term reforms in
-favour of revolution. [**Living My Life**, vol. 1, p. 52]). In the words of
+favour of revolution. [ **Living My Life** , vol. 1, p. 52]). In the words of
 the revolutionary syndicalist Emile Pouget:
 
 > _"Trade union endeavour has a double aim: with tireless persistence, it must
-pursue betterment of the working class's current conditions. But, without
-letting themselves become obsessed with this passing concern, the workers
-should take care to make possible and imminent the essential act of
-comprehensive emancipation: the expropriation of capital._
+> pursue betterment of the working class's current conditions. But, without
+> letting themselves become obsessed with this passing concern, the workers
+> should take care to make possible and imminent the essential act of
+> comprehensive emancipation: the expropriation of capital._
 
 > _"At present, trade union action is designed to win partial and gradual
-improvements which, far from constituting a goal, can only be considered as a
-means of stepping up demands and wresting further improvements from capitalism
-. . ._
+> improvements which, far from constituting a goal, can only be considered as
+> a means of stepping up demands and wresting further improvements from
+> capitalism . . ._
 
 > _"This question of partial improvements served as the pretext for attempts
-to sow discord in the trades associations. Politicians . . . have tried to . .
-. stir up ill-feeling and to split the unions into two camps, by categorising
-workers as reformists and as revolutionaries. The better to discredit the
-latter, they have dubbed them 'the advocates of all or nothing' and they have
-falsely represented them as supposed adversaries of improvements achievable
-right now._
+> to sow discord in the trades associations. Politicians . . . have tried to .
+> . . stir up ill-feeling and to split the unions into two camps, by
+> categorising workers as reformists and as revolutionaries. The better to
+> discredit the latter, they have dubbed them 'the advocates of all or
+> nothing' and they have falsely represented them as supposed adversaries of
+> improvements achievable right now._
 
 > _"The most that can be said about this nonsense is that it is witless. There
-is not a worker . . . who, on grounds of principle or for reasons of tactics,
-would insist upon working ten hours for an employer instead of eight hours,
-while earning six francs instead of seven . . ._
+> is not a worker . . . who, on grounds of principle or for reasons of
+> tactics, would insist upon working ten hours for an employer instead of
+> eight hours, while earning six francs instead of seven . . ._
 
 > _"What appears to afford some credence to such chicanery is the fact that
-the unions, cured by the cruel lessons of experience from all hope in
-government intervention, are justifiably mistrustful of it. They know that the
-State, whose function is to act as capital's gendarme, is, by its very nature,
-inclined to tip the scales in favour of the employer side. So, whenever a
-reform is brought about by legal avenues, they do not fall upon it with the
-relish of a frog devouring the red rag that conceals the hook, they greet it
-with all due caution, especially as this reform is made effective only if the
-workers are organised to insist forcefully upon its implementation._
+> the unions, cured by the cruel lessons of experience from all hope in
+> government intervention, are justifiably mistrustful of it. They know that
+> the State, whose function is to act as capital's gendarme, is, by its very
+> nature, inclined to tip the scales in favour of the employer side. So,
+> whenever a reform is brought about by legal avenues, they do not fall upon
+> it with the relish of a frog devouring the red rag that conceals the hook,
+> they greet it with all due caution, especially as this reform is made
+> effective only if the workers are organised to insist forcefully upon its
+> implementation._
 
 > _"The trade unions are even more wary of gifts from the government because
-they have often found these to be poison gifts . . . Wanting real improvements
-. . . instead of waiting until the government is generous enough to bestow
-them, they wrest them in open battle, through direct action._
+> they have often found these to be poison gifts . . . Wanting real
+> improvements . . . instead of waiting until the government is generous
+> enough to bestow them, they wrest them in open battle, through direct
+> action._
 
 > _"If, as sometimes is the case, the improvement they seek is subject to the
-law, the trade unions strive to obtain it through outside pressure brought to
-bear upon the authorities and not by trying to return specially mandated
-deputies to Parliament, a puerile pursuit that might drag on for centuries
-before there was a majority in favour of the yearned-for reform._
+> law, the trade unions strive to obtain it through outside pressure brought
+> to bear upon the authorities and not by trying to return specially mandated
+> deputies to Parliament, a puerile pursuit that might drag on for centuries
+> before there was a majority in favour of the yearned-for reform._
 
 > _"When the desired improvement is to be wrestled directly from the
-capitalist, the trades associations resort to vigorous pressure to convey
-their wishes. Their methods may well vary, although the direct action
-principle underlies them all . . . _
+> capitalist, the trades associations resort to vigorous pressure to convey
+> their wishes. Their methods may well vary, although the direct action
+> principle underlies them all . . ._
 
 > _"But, whatever the improvement won, it must always represent a reduction in
-capitalist privileges and be a partial expropriation. So . . . the fine
-distinction between 'reformist' and 'revolutionary' evaporates and one is led
-to the conclusion that the only really reformist workers are the revolutionary
-syndicalists."_ [**No Gods, No Masters**, vol. 2, pp. 71-3]
+> capitalist privileges and be a partial expropriation. So . . . the fine
+> distinction between 'reformist' and 'revolutionary' evaporates and one is
+> led to the conclusion that the only really reformist workers are the
+> revolutionary syndicalists."_ [ **No Gods, No Masters** , vol. 2, pp. 71-3]
 
 Pouget was referring to revolutionary unions but his argument can be
 generalised to all social movements.
@@ -400,8 +404,8 @@ occur without a long period of anarchist activity encouraging and working
 within social struggle against injustice. Thus Malatesta's words:
 
 > _"the subject is not whether we accomplish Anarchism today, tomorrow or
-within ten centuries, but that we walk towards Anarchism today, tomorrow and
-always."_ [**Towards Anarchism**, p. 75]
+> within ten centuries, but that we walk towards Anarchism today, tomorrow and
+> always."_ [ **Towards Anarchism** , p. 75]
 
 So, when fighting for improvements anarchists do so in an anarchist way, one
 that encourages self-management, direct action and the creation of libertarian
@@ -427,15 +431,15 @@ come about via government action, but only by people creating their own
 alternatives and solutions by their own actions:
 
 > _"But experience testifies and philosophy demonstrates, contrary to that
-prejudice, that any revolution, to be effective, must be spontaneous and
-emanate, not from the heads of the authorities but from the bowels of the
-people: that government is reactionary rather than revolutionary: that it
-could not have any expertise in revolutions, given that society, to which that
-secret is alone revealed, does not show itself through legislative decree but
-rather through the spontaneity of its manifestations: that, ultimately, the
-only connection between government and labour is that labour, in organising
-itself, has the abrogation of government as its mission."_ [Proudhon, **No
-Gods, No Master**, vol. 1, p. 52]
+> prejudice, that any revolution, to be effective, must be spontaneous and
+> emanate, not from the heads of the authorities but from the bowels of the
+> people: that government is reactionary rather than revolutionary: that it
+> could not have any expertise in revolutions, given that society, to which
+> that secret is alone revealed, does not show itself through legislative
+> decree but rather through the spontaneity of its manifestations: that,
+> ultimately, the only connection between government and labour is that
+> labour, in organising itself, has the abrogation of government as its
+> mission."_ [Proudhon, **No Gods, No Master** , vol. 1, p. 52]
 
 So, anarchists oppose reformism because it takes the steam out of
 revolutionary movements by providing easy, decidedly short-term "solutions" to
@@ -446,21 +450,22 @@ did not tackle them in the first place. To use Alexander Berkman's excellent
 analogy:
 
 > _"If you should carry out [the reformers'] ideas in your personal life, you
-would not have a rotten tooth that aches pulled out all at once. You would
-have it pulled out a little to-day, some more next week, for several months or
-years, and by then you would be ready to pull it out altogether, so it should
-not hurt so much. That is the logic of the reformer. Don't be 'too hasty,'
-don't pull a bad tooth out all at once."_ [**What is Anarchism?**, p. 64]
+> would not have a rotten tooth that aches pulled out all at once. You would
+> have it pulled out a little to-day, some more next week, for several months
+> or years, and by then you would be ready to pull it out altogether, so it
+> should not hurt so much. That is the logic of the reformer. Don't be 'too
+> hasty,' don't pull a bad tooth out all at once."_ [ **What is Anarchism?** ,
+> p. 64]
 
 Rather than seek to change the root cause of the problems (namely in a
 hierarchical, oppressive and exploitative system), reformists try to make the
 symptoms better. In the words of Berkman again:
 
 > _"Suppose a pipe burst in your house. You can put a bucket under the break
-to catch the escaping water. You can keep on putting buckets there, but as
-long as you do not mend the broken pipe, the leakage will continue, no matter
-how much you may swear about it . . . until you repair the broken social
-pipe."_ [**Op. Cit.**, pp. 67-8]
+> to catch the escaping water. You can keep on putting buckets there, but as
+> long as you do not mend the broken pipe, the leakage will continue, no
+> matter how much you may swear about it . . . until you repair the broken
+> social pipe."_ [ **Op. Cit.** , pp. 67-8]
 
 What reformism fails to do is fix the underlying root causes of the real
 problems society faces. Therefore, reformists try to pass laws which reduce
@@ -472,7 +477,7 @@ list is endless. Ultimately, reformism fails because reformists _"believe in
 good faith that it is possible to eliminate the existing social evils by
 recognising and respecting, in practice if not in theory, the basic political
 and economic institutions which are the cause of, as well as the prop that
-supports these evils."_ [Malatesta, **Errico Malatesta: His Life and Ideas**,
+supports these evils."_ [Malatesta, **Errico Malatesta: His Life and Ideas** ,
 p. 82]
 
 Revolutionaries, in contrast to reformists, fight both symptoms **and** the
@@ -496,7 +501,7 @@ Ward argues, the _"whole tragedy of publicly provided non-profit housing for
 rent and the evolution of this form of tenure in Britain is that the local
 authorities have simply taken over, though less flexibly, the role of the
 landlord, together with all the dependency and resentment that it engenders."_
-[**Housing: An Anarchist Approach**, p. 184] This feature of reformism was
+[ **Housing: An Anarchist Approach** , p. 184] This feature of reformism was
 skilfully used by the right-wing to undermine publicly supported housing and
 other aspects of the welfare state. The reformist social-democrats reaped what
 they had sown.
@@ -554,11 +559,11 @@ reforms passed by the state will not solve the problem? As Malatesta
 suggested:
 
 > _"Governments and the privileged classes are naturally always guided by
-instincts of self-preservation, of consolidation and the development of their
-powers and privileges; and when they consent to reforms it is either because
-they consider that they will serve their ends or because they do not feel
-strong enough to resist, and give in, fearing what might otherwise be a worse
-alternative."_ [**Op. Cit.**, p. 81]
+> instincts of self-preservation, of consolidation and the development of
+> their powers and privileges; and when they consent to reforms it is either
+> because they consider that they will serve their ends or because they do not
+> feel strong enough to resist, and give in, fearing what might otherwise be a
+> worse alternative."_ [ **Op. Cit.** , p. 81]
 
 Therefore, reforms gained by direct action are of a different quality and
 nature than those passed by reformist politicians -- these latter will only
@@ -586,43 +591,43 @@ for people you can be sure it will be in **its** interests, not theirs. As
 Kropotkin put it:
 
 > _"We maintain that the State organisation, having been the force to which
-the minorities resorted for establishing and organising their power over the
-masses, cannot be the force which will serve to destroy these privileges . . .
-the economic and political liberation of man will have to create new forms for
-its expression in life, instead of those established by the State._
+> the minorities resorted for establishing and organising their power over the
+> masses, cannot be the force which will serve to destroy these privileges . .
+> . the economic and political liberation of man will have to create new forms
+> for its expression in life, instead of those established by the State._
 
 > _"Consequently, the chief aim of Anarchism is to awaken those constructive
-powers of the labouring masses of the people which at all great moments of
-history came forward to accomplish the necessary changes . . ._
+> powers of the labouring masses of the people which at all great moments of
+> history came forward to accomplish the necessary changes . . ._
 
 > _"This is also why the Anarchists refuse to accept the functions of
-legislators or servants of the State. We know that the social revolution will
-not be accomplished by means of **laws.** Laws only **follow** the
-accomplished facts . . . a law remains a dead letter so long as there are not
-on the spot the living forces required for making of the **tendencies**
-expressed in the law an accomplished **fact**._
+> legislators or servants of the State. We know that the social revolution
+> will not be accomplished by means of **laws.** Laws only **follow** the
+> accomplished facts . . . a law remains a dead letter so long as there are
+> not on the spot the living forces required for making of the **tendencies**
+> expressed in the law an accomplished **fact**._
 
 > _"On the other hand . . . the Anarchists have always advised taking an
-active part in those workers' organisations which carry on the **direct**
-struggle of Labour against Capital and its protector, -- the State._
+> active part in those workers' organisations which carry on the **direct**
+> struggle of Labour against Capital and its protector, -- the State._
 
 > _"Such a struggle . . . better than any other indirect means, permits the
-worker to obtain some temporary improvements in the present conditions of work
-[and life in general], while it opens his [or her] eyes to the evil that is
-done by Capitalism and the State that supports it, and wakes up his [or her]
-thoughts concerning the possibility of organising consumption, production, and
-exchange without the intervention of the capitalist and the State."_
-[**Environment and Evolution**, pp. 82-3]
+> worker to obtain some temporary improvements in the present conditions of
+> work [and life in general], while it opens his [or her] eyes to the evil
+> that is done by Capitalism and the State that supports it, and wakes up his
+> [or her] thoughts concerning the possibility of organising consumption,
+> production, and exchange without the intervention of the capitalist and the
+> State."_ [ **Environment and Evolution** , pp. 82-3]
 
 Therefore, while seeking reforms, anarchists are against reformism and
 reformists. Reforms are not seen as an end in themselves but rather a means of
 changing society from the bottom-up and a step in that direction:
 
 > _"Each step towards economic freedom, each victory won over Capitalism will
-be at the same time a step towards political liberty -- towards liberation
-from the yoke of the State . . . And each step towards taking from the State
-any one of its powers and attributes will be helping the masses to win a
-victory over Capitalism."_ [Kropotkin, **Op. Cit.**, p. 95]
+> be at the same time a step towards political liberty -- towards liberation
+> from the yoke of the State . . . And each step towards taking from the State
+> any one of its powers and attributes will be helping the masses to win a
+> victory over Capitalism."_ [Kropotkin, **Op. Cit.** , p. 95]
 
 However, no matter what, anarchists _"will never recognise the institutions;
 we will take or win all possible reforms with the same spirit that one tears
@@ -634,7 +639,7 @@ less effective for securing reforms from government and employers, who only
 give in through fear, and because very often the reforms they prefer are those
 which not only bring doubtful immediate benefits, but also serve to
 consolidate the existing regime and to give the workers a vested interest in
-its continued existence."_ [Malatesta, **Op. Cit.**, p. 81 and p. 83]
+its continued existence."_ [Malatesta, **Op. Cit.** , p. 81 and p. 83]
 
 Only working class people, by our own actions and organisations, getting the
 state and capital out of the way can produce an improvement in our lives,
@@ -657,13 +662,13 @@ inequality -- and the continued existence of capitalism and the state.
 Ultimately, there are two options:
 
 > _"The oppressed either ask for and welcome improvements as a benefit
-graciously conceded, recognise the legitimacy of the power which is over them,
-and so do more harm than good by helping to slow down, or divert . . . the
-processes of emancipation. Or instead they demand and impose improvements by
-their action, and welcome them as partial victories over the class enemy,
-using them as a spur to greater achievements, and thus a valid help and a
-preparation to the total overthrow of privilege, that is, for the
-revolution."_ [Malatesta, **Op. Cit.**, p. 81]
+> graciously conceded, recognise the legitimacy of the power which is over
+> them, and so do more harm than good by helping to slow down, or divert . . .
+> the processes of emancipation. Or instead they demand and impose
+> improvements by their action, and welcome them as partial victories over the
+> class enemy, using them as a spur to greater achievements, and thus a valid
+> help and a preparation to the total overthrow of privilege, that is, for the
+> revolution."_ [Malatesta, **Op. Cit.** , p. 81]
 
 Reformism encourages the first attitude within people and so ensures the
 impoverishment of the human spirit. Anarchism encourages the second attitude
@@ -707,19 +712,19 @@ For anarchists these problems all stem from the fact that social problems
 cannot be solved as single issues. As Larry Law argued:
 
 > _"single issue politics . . . deals with the issue or problem in isolation.
-When one problem is separated from all other problems, a solution really is
-impossible. The more campaigning on an issue there is, the narrower its
-perspectives become . . . As the perspective of each issue narrows, the
-contradictions turn into absurdities . . . What single issue politics does is
-attend to 'symptoms' but does not attack the 'disease' itself. It presents
-such issues as nuclear war, racial and sexual discrimination, poverty,
-starvation, pornography, etc., as if they were aberrations or faults in the
-system. In reality such problems are the inevitable consequence of a social
-order based on exploitation and hierarchical power . . . single issue
-campaigns lay their appeal for relief at the feet of the very system which
-oppresses them. By petitioning they acknowledge the right of those in power to
-exercise that power as they choose."_ [**Bigger Cages, Longer Chains**, pp.
-17-20].
+> When one problem is separated from all other problems, a solution really is
+> impossible. The more campaigning on an issue there is, the narrower its
+> perspectives become . . . As the perspective of each issue narrows, the
+> contradictions turn into absurdities . . . What single issue politics does
+> is attend to 'symptoms' but does not attack the 'disease' itself. It
+> presents such issues as nuclear war, racial and sexual discrimination,
+> poverty, starvation, pornography, etc., as if they were aberrations or
+> faults in the system. In reality such problems are the inevitable
+> consequence of a social order based on exploitation and hierarchical power .
+> . . single issue campaigns lay their appeal for relief at the feet of the
+> very system which oppresses them. By petitioning they acknowledge the right
+> of those in power to exercise that power as they choose."_ [ **Bigger Cages,
+> Longer Chains** , pp. 17-20].
 
 Single issue politics often prolong the struggle for a free society by
 fostering illusions that it is just parts of the capitalist system which are
@@ -748,18 +753,19 @@ winning them. Take, for example, when one trade or one workplace goes on
 strike while the others continue to work:
 
 > _"Consider yourself how foolish and inefficient is the present form of
-labour organisation in which one trade or craft may be on strike while the
-other branches of the same industry continue to work. Is it not ridiculous
-that when the street car workers of New York, for instance, quit work, the
-employees of the subway, the cab and omnibus drivers remain on the job? . . .
-It is clear, then, that you compel compliance [from your bosses] only when you
-are determined, when your union is strong, when you are well organised, when
-you are united in such a manner that the boss cannot run his factory against
-your will. But the employer is usually some big . . . company that has mills
-or mines in various places. . . If it cannot operate . . . in Pennsylvania
-because of a strike, it will try to make good its losses by continuing . . .
-and increasing production [elsewhere] . . . In that way the company . . .
-breaks the strike."_ [Alexander Berkman, **What is Anarchism?**, pp. 199-200]
+> labour organisation in which one trade or craft may be on strike while the
+> other branches of the same industry continue to work. Is it not ridiculous
+> that when the street car workers of New York, for instance, quit work, the
+> employees of the subway, the cab and omnibus drivers remain on the job? . .
+> . It is clear, then, that you compel compliance [from your bosses] only when
+> you are determined, when your union is strong, when you are well organised,
+> when you are united in such a manner that the boss cannot run his factory
+> against your will. But the employer is usually some big . . . company that
+> has mills or mines in various places. . . If it cannot operate . . . in
+> Pennsylvania because of a strike, it will try to make good its losses by
+> continuing . . . and increasing production [elsewhere] . . . In that way the
+> company . . . breaks the strike."_ [Alexander Berkman, **What is
+> Anarchism?** , pp. 199-200]
 
 By organising all workers in one union (after all they all have the same boss)
 it increases the power of each trade considerably. It may be easy for a boss
@@ -775,8 +781,8 @@ groups will be picked off one by one. and if we go into struggle, there will
 be no one there to support us and we are more likely to be defeated.
 
 Therefore, from an anarchist point of view, the best thing about generalising
-struggles is that as well as increasing the likelihood of success
-(_"Solidarity is Strength"_) it leads to an increased spirit of solidarity,
+struggles is that as well as increasing the likelihood of success (
+_"Solidarity is Strength"_ ) it leads to an increased spirit of solidarity,
 responsibility and class consciousness. This is because by working together
 and showing solidarity those involved get to understand their common interests
 and that the struggle is not against **this** injustice or **that** boss but
@@ -811,40 +817,40 @@ Murray Bookchin presents a concrete example of this process of linking issues
 and widening the struggle:
 
 > _"Assume there is a struggle by welfare mothers to increase their allotments
-. . . Without losing sight of the concrete issues that initially motivated the
-struggle, revolutionaries would try to catalyse an order of relationships
-between the mothers entirely different from [existing ones] . . . They would
-try to foster a deep sense of community, a rounded human relationship that
-would transform the very subjectivity of the people involved . . . Personal
-relationships would be intimate, not merely issue-orientated. People would get
-to **know** each other, to **confront** each other; they would **explore**
-each other with a view of achieving the most complete, unalienated
-relationships. Women would discuss sexism, as well as their welfare
-allotments, child-rearing as well as harassment by landlords, their dreams and
-hopes as human beings as well as the cost of living. _
+> . . . Without losing sight of the concrete issues that initially motivated
+> the struggle, revolutionaries would try to catalyse an order of
+> relationships between the mothers entirely different from [existing ones] .
+> . . They would try to foster a deep sense of community, a rounded human
+> relationship that would transform the very subjectivity of the people
+> involved . . . Personal relationships would be intimate, not merely issue-
+> orientated. People would get to **know** each other, to **confront** each
+> other; they would **explore** each other with a view of achieving the most
+> complete, unalienated relationships. Women would discuss sexism, as well as
+> their welfare allotments, child-rearing as well as harassment by landlords,
+> their dreams and hopes as human beings as well as the cost of living. _
 
 > _"From this intimacy there would grow, hopefully, a supportive system of
-kinship, mutual aid, sympathy and solidarity in daily life. The women might
-collaborate to establish a rotating system of baby sitters and child-care
-attendants, the co-operative buying of good food at greatly reduced prices,
-the common cooking and partaking of meals, the mutual learning of survival
-skills and the new social ideas, the fostering of creative talents, and many
-other shared experiences. Every aspect of life that could be explored and
-changed would be one part of the kind of relationships . . . _
+> kinship, mutual aid, sympathy and solidarity in daily life. The women might
+> collaborate to establish a rotating system of baby sitters and child-care
+> attendants, the co-operative buying of good food at greatly reduced prices,
+> the common cooking and partaking of meals, the mutual learning of survival
+> skills and the new social ideas, the fostering of creative talents, and many
+> other shared experiences. Every aspect of life that could be explored and
+> changed would be one part of the kind of relationships . . ._
 
 > _"The struggle for increased allotments would expand beyond the welfare
-system to the schools, the hospitals, the police, the physical, cultural,
-aesthetic and recreational resources of the neighbourhood, the stores, the
-houses, the doctors and lawyers in the area, and so on -- into the very
-ecology of the district. _
+> system to the schools, the hospitals, the police, the physical, cultural,
+> aesthetic and recreational resources of the neighbourhood, the stores, the
+> houses, the doctors and lawyers in the area, and so on -- into the very
+> ecology of the district._
 
 > _"What I have said on this issue could be applied to every issue --
-unemployment, bad housing, racism, work conditions -- in which an insidious
-assimilation of bourgeois modes of functioning is masked as 'realism' and
-'actuality.' The new order of relationships that could be developed from a
-welfare struggle . . . [can ensure that the] future penetrates the present; it
-recasts the way people 'organise' and the goals for which they strive."_
-[**Post-Scarcity Anarchism**, pp. 153-4]
+> unemployment, bad housing, racism, work conditions -- in which an insidious
+> assimilation of bourgeois modes of functioning is masked as 'realism' and
+> 'actuality.' The new order of relationships that could be developed from a
+> welfare struggle . . . [can ensure that the] future penetrates the present;
+> it recasts the way people 'organise' and the goals for which they strive."_
+> [ **Post-Scarcity Anarchism** , pp. 153-4]
 
 As the anarchist slogan puts it: **_"Resistance is Fertile."_** Planting the
 seed of autonomy, direct action and self-liberation can result, potentially,
@@ -865,7 +871,7 @@ thirdly, to encourage the transformation of those involved into unique
 individuals in touch with their humanity, a humanity eroded by hierarchical
 society and domination.
 
-[‹ J.0 Section J Introduction](secJint.md "Go to previous page" )
-[up](secJcon.md "Go to parent page" ) [J.2 What is direct action?
-›](secJ2.md "Go to next page" )
+[‹ J.0 Section J Introduction](secJint.md "Go to previous page")
+[up](secJcon.md "Go to parent page") [J.2 What is direct action?
+›](secJ2.md "Go to next page")
 

@@ -8,12 +8,12 @@
 
 # [A.1 What is anarchism?](secA1.md)
 
-> ### [  A.1.1 What does "anarchy" mean?](secA1.md#seca11)  
+> ### [ A.1.1 What does "anarchy" mean?](secA1.md#seca11)  
 >  [A.1.2 What does "anarchism" mean?](secA1.md#seca12)  
 >  [A.1.3 Why is anarchism also called libertarian
-socialism?](secA1.md#seca13)  
+> socialism?](secA1.md#seca13)  
 >  [A.1.4 Are anarchists socialists?](secA1.md#seca14)  
->  [A.1.5 Where does anarchism come from?  ](secA1.md#seca15)
+>  [A.1.5 Where does anarchism come from? ](secA1.md#seca15)
 
 ## [A.2 What does anarchism stand for?](secA2.md)
 
@@ -25,22 +25,22 @@ socialism?](secA1.md#seca13)
 >  [A.2.6 Why is solidarity important to anarchists?](secA2.md#seca26)  
 >  [A.2.7 Why do anarchists argue for self-liberation?](secA2.md#seca27)  
 >  [A.2.8 Is it possible to be an anarchist without opposing
-hierarchy?](secA2.md#seca28)  
+> hierarchy?](secA2.md#seca28)  
 >  [A.2.9 What sort of society do anarchists want?](secA2.md#seca29)  
 >  [A.2.10 What will abolishing hierarchy mean and
-achieve?](secA2.md#seca210)  
+> achieve?](secA2.md#seca210)  
 >  [A.2.11 Why do most anarchists support direct
-democracy?](secA2.md#seca211)  
+> democracy?](secA2.md#seca211)  
 >  [A.2.12 Is consensus an alternative to direct
-democracy?](secA2.md#seca212)  
+> democracy?](secA2.md#seca212)  
 >  [A.2.13 Are anarchists individualists or
-collectivists?](secA2.md#seca213)  
+> collectivists?](secA2.md#seca213)  
 >  [A.2.14 Why is voluntarism not enough?](secA2.md#seca214)  
 >  [A.2.15 What about Human Nature?](secA2.md#seca215)  
 >  [A.2.16 Does anarchism require "perfect" people to
-work?](secA2.md#seca216)  
+> work?](secA2.md#seca216)  
 >  [A.2.17 Aren't most people too stupid for a free society to
-work?](secA2.md#seca217)  
+> work?](secA2.md#seca217)  
 >  [A.2.18 Do anarchists support terrorism?](secA2.md#seca218)  
 >  [A.2.19 What ethical views do anarchists hold?](secA2.md#seca219)  
 >  [A.2.20 Why are most anarchists atheists?](secA2.md#seca220)
@@ -48,7 +48,7 @@ work?](secA2.md#seca217)
 ## [A.3 What types of anarchism are there?](secA3.md)
 
 > ### [A.3.1 What are the differences between individualist and social
-anarchists?](secA3.md#seca31)  
+> anarchists?](secA3.md#seca31)  
 >  [A.3.2 Are there different types of social anarchism?](secA3.md#seca32)  
 >  [A.3.3 What kinds of green anarchism are there?](secA3.md#seca33)  
 >  [A.3.4 Is anarchism pacifistic?](secA3.md#seca34)  
@@ -62,11 +62,11 @@ anarchists?](secA3.md#seca31)
 
 > ### [A.4.1 Are there any thinkers close to anarchism?](secA4.md#seca41)  
 >  [A.4.2 Are there any liberal thinkers close to
-anarchism?](secA4.md#seca42)  
+> anarchism?](secA4.md#seca42)  
 >  [A.4.3 Are there any socialist thinkers close to
-anarchism?](secA4.md#seca43)  
+> anarchism?](secA4.md#seca43)  
 >  [A.4.4 Are there any Marxist thinkers close to anarchism?
-](secA4.md#seca44)
+> ](secA4.md#seca44)
 
 ## [A.5 What are some examples of "Anarchy in Action"?](secA5.md)
 
@@ -85,7 +85,7 @@ anarchism?](secA4.md#seca43)
   * [A.4 Who are the major anarchist thinkers?](secA4.md)
   * [A.5 What are some examples of "Anarchy in Action"?](secA5.md)
 
-[‹ An Anarchist FAQ Webpage Contacts](contact.md "Go to previous page" )
-[up](index.md "Go to parent page" ) [A.0 Section A Introduction
-›](secAint.md "Go to next page" )
+[‹ An Anarchist FAQ Webpage Contacts](contact.md "Go to previous page")
+[up](index.md "Go to parent page") [A.0 Section A Introduction
+›](secAint.md "Go to next page")
 

@@ -2,12 +2,12 @@
 Below"_
 
 In chapter three of his pamphlet _[Socialism from
-David McNally decides to expose (what he calls) _"The Myth Of Anarchist
+, David McNally decides to expose (what he calls) _"The Myth Of Anarchist
 Libertarianism."_ In reality, his account is so distorted and, indeed,
 dishonest that all it proves is that Marxists will go to extreme lengths to
 attack anarchist ideas. As Brain Morris points out, defending the Leninist
 tradition and ideology _"implies . . . a compulsive need to rubbish
-anarchism."_ [**Ecology &amp; Anarchism**, p. 128] McNally's pamphlet is a
+anarchism."_ [ **Ecology & Anarchism**, p. 128] McNally's pamphlet is a
 classic example of this. As we will prove, his "case" is a mishmash of
 illogical assertions, lies and, when facts do appear, their use is almost
 always a means of painting a false picture of reality.
@@ -15,26 +15,26 @@ always a means of painting a false picture of reality.
 It must be stressed that there is nothing new or original in McNally's
 pamphlet. It is simply an unthinking repetition of previous Marxists attacks
 on anarchism, starting with Marx's dishonest diatribe against Proudhon **The
-Poverty of Philosophy**, and is mostly based on Hal Draper's **The Two Souls
+Poverty of Philosophy** , and is mostly based on Hal Draper's **The Two Souls
 of Socialism** (McNally states he _"should also record here a debt of
-inspriation of [this] now-out-of-print pamphlet by Draper"_). While McNally's
+inspriation of [this] now-out-of-print pamphlet by Draper"_ ). While McNally's
 errors are commonplace within what passes for Marxist scholarship, this does
 not excuse his repeating of them without first checking their accuracy (or,
 more correctly, their inaccuracy). If more Marxists took the time to validate
 their prejudices and assumptions against what Proudhon, Bakunin and other
 anarchists wrote then it would be possible to have a real discussion on what
 **genuine** socialism (one, as Proudhon and Bakunin stressed long before
-Marxists appropriated the term, _"from below"_) entails.
+Marxists appropriated the term, _"from below"_ ) entails.
 
 It must be noted that since this appendix was first written in 2000, David
 McNally has distanced himself from his pamphlet's critique of anarchism. In an
 end-note in a book written in 2006 he described this welcome rethink:
 
 > _"I dissent from Draper's one-sided critique of anarchism . . . Draper is
-not fair to some of the currents within social anarchism. I also reject my own
-restatement of Draper's interpretation in the first edition of my booklet
-**Socialism from Below**"_ [**Another World Is Possible: Globalization &amp;
-Anti-Capitalism**, p. 393]
+> not fair to some of the currents within social anarchism. I also reject my
+> own restatement of Draper's interpretation in the first edition of my
+> booklet **Socialism from Below** "_ [ **Another World Is Possible:
+> Globalization & Anti-Capitalism**, p. 393]
 
 While it seems unlikely this was in response to reading our critique, it does
 show that it was correct. Unfortunately it took McNally over 20 years to
@@ -59,7 +59,7 @@ between Marxists and Anarchists on their areas of agreement and disagreement.
 McNally now argues that _"it may be more helpful to try and defend a common
 political vision -- such as socialism from below or libertarian socialism --
 as a point of reference"_ rather than fixate over labels like "Marxism" or
-"anarchism." [**Op. Cit.**, p. 347] As we noted in our critique of his
+"anarchism." [ **Op. Cit.** , p. 347] As we noted in our critique of his
 pamphlet, the term _"socialism from below"_ has a distinctly anarchist feel to
 it, a feel distinctly at odds with Leninist ideology and practice. Moreover,
 as shown below, Lenin explicitly denounced _"from below"_ as an anarchist idea
@@ -96,15 +96,16 @@ British Anarchist Albert Meltzer summarised the flaws in this perspective
 well:
 
 > _"Marxist-Leninists, faced with Anarchism, find that by its nature it
-undermines all the suppositions basic to Marxism. Marxism was held out to be
-the basic working class philosophy (a belief which has utterly ruined the
-working class movement everywhere). It holds that the industrial proletariat
-cannot owe its emancipation to anyone but themselves alone. It is hard to go
-back on that and say that the working class is not yet ready to dispense with
-authority placed over it . . . Marxism normally tries to refrain from
-criticising anarchism as such -- unless driven to doing so, when it exposes
-its own authoritarianism . . . and concentrates its attacks not on Anarchism,
-but on Anarchists."_ [**Anarchism: Arguments for and Against**, p. 62]
+> undermines all the suppositions basic to Marxism. Marxism was held out to be
+> the basic working class philosophy (a belief which has utterly ruined the
+> working class movement everywhere). It holds that the industrial proletariat
+> cannot owe its emancipation to anyone but themselves alone. It is hard to go
+> back on that and say that the working class is not yet ready to dispense
+> with authority placed over it . . . Marxism normally tries to refrain from
+> criticising anarchism as such -- unless driven to doing so, when it exposes
+> its own authoritarianism . . . and concentrates its attacks not on
+> Anarchism, but on Anarchists."_ [ **Anarchism: Arguments for and Against** ,
+> p. 62]
 
 So when reading this or any critique of anarchism always remember that few
 people are completely consistent libertarians and determine whether the words
@@ -117,9 +118,9 @@ Proudhon's sexism which is in contradiction with his support for liberty,
 equality and federalism. Unsurprisingly, his contemporary Joseph Déjacque
 wrote a critique of Proudhon's sexist views in 1857, urging him to renounce
 _"this gender aristocracy that would bind us to the old regime"_ and _"speak
-out against man's exploitation of woman."_: _"Do not describe yourself as an
-anarchist, or be an anarchist through and through"_ [_"On Being Human"_, pp.
-68-71, **Anarchism: A Documentary History of Libertarian Ideas**, Vol. 1,
+out against man's exploitation of woman."_ : _"Do not describe yourself as an
+anarchist, or be an anarchist through and through"_ [ _"On Being Human"_ , pp.
+68-71, **Anarchism: A Documentary History of Libertarian Ideas** , Vol. 1,
 Robert Graham (ed.), p. 71] Later anarchists like Bakunin and Kropotkin
 likewise applied anarchist principles consistently on this issue, a fact
 McNally cannot bring himself to admit.
@@ -133,7 +134,7 @@ is to be expected as anarchists are not Proudhonists or Bakuninists -- we do
 not name ourselves after one person, rather we take what is useful from
 libertarian writers and ignore the rubbish. Malatesta's words are applicable
 here: _"We follow ideas and not men, and rebel against this habit of embodying
-a principle in a man."_ [**Errico Malatesta: His Life and Ideas**, p. 199]
+a principle in a man."_ [ **Errico Malatesta: His Life and Ideas** , p. 199]
 However, this is beside the point as McNally's account of the ideas of
 Proudhon and Bakunin is simply false -- indeed, so false as to make you wonder
 if he is simply incompetent as a scholar or seeks to present a patchwork of
@@ -156,7 +157,7 @@ would be expected, they were men of their age and expressed themselves in ways
 which today are, rightly, considered unacceptable (for those interested in
 such matters, Peter Fryer's essay _"Engels: A Man of his Time"_ should be
 consulted [John Lea and Geoff Pilling (eds.), **The condition of Britain:
-Essays on Frederick Engels**]). However, their few **public** racist comments
+Essays on Frederick Engels** ]). However, their few **public** racist comments
 could be considered worthy of note -- although, if so, then they should, like
 those of Proudhon and Bakunin, be placed in the context of their other ideas
 and the culture they lived in rather than being used as an excuse to ignore
@@ -205,15 +206,13 @@ situation. Nor is it original. McNally is simply repeating Marx's assertions
 against Proudhon who, Marx claimed, _"wants to soar as the man of science
 above the bourgeois and the proletarians"_ but _"is merely the petty
 bourgeois, continually tossed back and forth between capital and labour,
-political economy and communism."_ [**Collected Works**, vol. 6, p. 178] It
+political economy and communism."_ [ **Collected Works** , vol. 6, p. 178] It
 should be noted that Marx had not always thought this of the Frenchman:
 
-
-
 > _"Not only does Proudhon write in the interest of the proletarians he is
-himself a proletarian, an **ouvrier** [worker]. His work [**What is
-Property?**] is a scientific manifesto of the French proletariat."_ [**Op.
-Cit.**, vol. 4, p. 41]
+> himself a proletarian, an **ouvrier** [worker]. His work [ **What is
+> Property?** ] is a scientific manifesto of the French proletariat."_ [ **Op.
+> Cit.** , vol. 4, p. 41]
 
 The change in perspective is unsurprising given that Marx thought his own
 ideology was that of the proletariat (whether the proletariat knew it or not)
@@ -227,15 +226,15 @@ is the majority of the working class in most of the world's countries.
 It is important to remember that at the end of the 1840s over 80% of the
 population of France and Germany were peasants or artisans -- what Marxists
 term the "petit-bourgeois". As Marx and Engels admitted in **The Communist
-Manifesto**, in _"countries like France"_ the peasants _"constitute far more
+Manifesto** , in _"countries like France"_ the peasants _"constitute far more
 than half of the population."_ This remained the case well after Proudhon's
 death in 1865, with Marx commenting in the early 1870s that _"the peasant . .
 . forms a more of less considerable majority . . . in the countries of the
-West European continent."_ [**The Marx-Engels Reader**, p. 493 and p. 543] As
-Proudhon himself noted in 1851, in _"a population of 36 millions, there are 24
-millions occupied with agriculture"_ and of the remaining 12 million there
-where only 6 million _"composing in part the wage-working class"_ [**Property
-is Theft!**, p. 558]
+West European continent."_ [ **The Marx-Engels Reader** , p. 493 and p. 543]
+As Proudhon himself noted in 1851, in _"a population of 36 millions, there are
+24 millions occupied with agriculture"_ and of the remaining 12 million there
+where only 6 million _"composing in part the wage-working class"_ [ **Property
+is Theft!** , p. 558]
 
 This social context is important and it is difficult to understand the
 positions thinkers took unless it taken into account. In the words of
@@ -243,7 +242,7 @@ anarchist Gustav Landauer, Proudhon's socialism _"of the years 1848 to 1851
 was the socialism of the French people in the years 1848 to 1851. It was the
 socialism that was possible and necessary at that moment. Proudhon was not a
 Utopian and a prophet; not a Fourier and not a Marx. He was a man of action
-and realisation."_ [**For Socialism**, p. 108] Historian K. Steven Vincent
+and realisation."_ [ **For Socialism** , p. 108] Historian K. Steven Vincent
 makes the same point, arguing that Proudhon's _"social theories may not be
 reduced to a socialism for only the peasant class, nor was it a socialism only
 for the petite bourgeois; it was a socialism of and for French workers. And in
@@ -251,29 +250,29 @@ the mid-nineteenth century . . . most French workers were still artisans. . .
 French labour ideology largely resulted from the real social experiences and
 aspirations of skilled workers . . . Proudhon's thought was rooted in the same
 fundamental reality, and therefore understandably shared many of the same
-hopes and ideals."_ [**Pierre-Joseph Proudhon and the Rise of French
-Republican Socialism**, pp. 5-6] It is no coincidence, therefore, that when he
-was elected to the French Parliament in 1848 most of the votes cast for him
+hopes and ideals."_ [ **Pierre-Joseph Proudhon and the Rise of French
+Republican Socialism** , pp. 5-6] It is no coincidence, therefore, that when
+he was elected to the French Parliament in 1848 most of the votes cast for him
 were from _"working class districts of Paris -- a fact which stands in
 contrast to the claims of some Marxists, who have said he was representative
 only of the petite bourgeoisie."_ [Robert L. Hoffman, **Revolutionary
-Justice**, p. 136]
+Justice** , p. 136]
 
 Proudhon's position was a distinctly sensible and radical position to take:
 
 > _"While Marx was correct in predicting the eventual predominance of the
-industrial proletariat vis-à-vis skilled workers, such predominance was
-neither obvious nor a foregone conclusion in France during the nineteenth
-century. The absolute number of small industries even increased during most of
-the century. . ._
+> industrial proletariat vis-à-vis skilled workers, such predominance was
+> neither obvious nor a foregone conclusion in France during the nineteenth
+> century. The absolute number of small industries even increased during most
+> of the century. . ._
 
 > _"Nor does Marx seem to have been correct concerning the revolutionary
-nature of the industrial proletariat. It has become a cliché of French labour
-history that during the nineteenth century artisans were much oftener radical
-than industrial workers. Some of the most militant action of workers in late
-nineteenth century France seems to have emerged from the co-operation of
-skilled, urbanised artisanal workers with less highly skilled and less
-urbanised industrial workers."_ [Vincent, **Op. Cit.**, pp. 282-3]
+> nature of the industrial proletariat. It has become a cliché of French
+> labour history that during the nineteenth century artisans were much oftener
+> radical than industrial workers. Some of the most militant action of workers
+> in late nineteenth century France seems to have emerged from the co-
+> operation of skilled, urbanised artisanal workers with less highly skilled
+> and less urbanised industrial workers."_ [Vincent, **Op. Cit.** , pp. 282-3]
 
 The fruits of this union included the Paris Commune, an event in which the
 followers of Proudhon played an important role and which both McNally and Marx
@@ -289,39 +288,39 @@ economy lasted well after his (and Marx's) death. Not to take into account the
 artisan/peasant would have meant the dictatorship of a minority of working
 people over the rest of them (as we discuss in [section
 H.1.1](secH1.md#sech11) this was also a key reason for Bakunin's rejection
-of Marx's _"dictatorship of the proletariat"_). Given that in chapter 4 of his
-pamphlet McNally states that Marxism aims for a _"democratic and collective
-society . . . based upon the fullest possible political democracy"_ his attack
-on Proudhon's concern for the artisan and peasant is doubly strange. Either
-you support the _"fullest possible political democracy"_ and so your theory
-must take into account artisans and peasants or you restrict political
-democracy and replace it with rule by the few.
+of Marx's _"dictatorship of the proletariat"_ ). Given that in chapter 4 of
+his pamphlet McNally states that Marxism aims for a _"democratic and
+collective society . . . based upon the fullest possible political democracy"_
+his attack on Proudhon's concern for the artisan and peasant is doubly
+strange. Either you support the _"fullest possible political democracy"_ and
+so your theory must take into account artisans and peasants or you restrict
+political democracy and replace it with rule by the few.
 
 Unsurprisingly, then, Proudhon argued in 1841 that he _"preach[ed]
-emancipation to the proletarians; association to the workers."_ [**Op. Cit.**,
-p. 157] However, as McNally notes, he _"oppose[d] trade unions."_ and did not
-see them as the means of achieving this for it was _"not by such methods that
-the workingmen will attain to wealth and -- what is a thousand times more
+emancipation to the proletarians; association to the workers."_ [ **Op. Cit.**
+, p. 157] However, as McNally notes, he _"oppose[d] trade unions."_ and did
+not see them as the means of achieving this for it was _"not by such methods
+that the workingmen will attain to wealth and -- what is a thousand times more
 precious than wealth -- liberty."_ [Proudhon, **System of Economical
-Contradictions**, p. 150] However, this did not mean that he was rejected the
+Contradictions** , p. 150] However, this did not mean that he was rejected the
 idea that the working class (in its three sections of wage-workers, artisan
 and peasants) would liberate itself. While fundamentally a reformist, Proudhon
 recognised that self-liberation was only genuine form of liberation and so had
 _"always thought that the proletariat must emancipate itself without the help
-of the government."_ [**Property is Theft!**, 306] Given this, it is
+of the government."_ [ **Property is Theft!** , 306] Given this, it is
 unsurprising that Proudhon saw social change as coming from _"below"_ by the
 collective action of the working class:
 
 > _"If you possess social science, you know that the problem of association
-consists in organising . . . the producers, and by this organisation
-subjecting capital and subordinating power. Such is the war that you have to
-sustain: a war of labour against capital; a war of liberty against authority;
-a war of the producer against the non-producer; a war of equality against
-privilege . . . to conduct the war to a successful conclusion . . . it is of
-no use to change the holders of power or introduce some variation into its
-workings: an agricultural and industrial combination must be found by means of
-which power, today the ruler of society, shall become its slave."_ [**Op.
-Cit.**, p. 225]
+> consists in organising . . . the producers, and by this organisation
+> subjecting capital and subordinating power. Such is the war that you have to
+> sustain: a war of labour against capital; a war of liberty against
+> authority; a war of the producer against the non-producer; a war of equality
+> against privilege . . . to conduct the war to a successful conclusion . . .
+> it is of no use to change the holders of power or introduce some variation
+> into its workings: an agricultural and industrial combination must be found
+> by means of which power, today the ruler of society, shall become its
+> slave."_ [ **Op. Cit.** , p. 225]
 
 During the 1848 revolution he urged _"a provisional committee be set up to
 orchestrate exchange, credit and commerce between workers"_ which would
@@ -333,11 +332,11 @@ the old society"_. He later stressed the _"organisation of popular societies
 was the pivot of democracy, the cornerstone of republican order"_ and these
 _"clubs . . . assemblies, popular societies"_ would ensure _"the organisation
 of universal suffrage in all its forms, of the very structure of Democracy
-itself."_ [**Op. Cit.**, p. 321, p. 407 and p. 461] As Daniel Guérin
+itself."_ [ **Op. Cit.** , p. 321, p. 407 and p. 461] As Daniel Guérin
 summarised, _"in the midst of the 1848 Revolution,"_ Proudhon _"sketched out a
 minimum libertarian program: progressive reduction in the power of the State,
 parallel development of the power of the people from below, through what he
-called clubs"_ which today we _"would call councils."_ [**Anarchism**, pp.
+called clubs"_ which today we _"would call councils."_ [ **Anarchism** , pp.
 152-3]
 
 Clearly, even if he (wrongly) rejected trade unionism Proudhon **did**
@@ -348,7 +347,7 @@ program of the Lyon Mutualists"_ and that there was _"a remarkable convergence
 [between these ideas], and it is likely that Proudhon was able to articulate
 his positive program more coherently because of the example of the silk
 workers of Lyon. The socialist ideal that he championed was already being
-realised, to a certain extent, by such workers."_ [Vincent, **Op. Cit.**, p.
+realised, to a certain extent, by such workers."_ [Vincent, **Op. Cit.** , p.
 164] Proudhon simply rejected revolution, trade unions or state-backed reforms
 as the means of achieving socialism and instead argued for a reformist
 strategy based primarily on the creation of co-operative workplaces and banks.
@@ -361,8 +360,8 @@ same."_ If all workers _"organise themselves along similar lines, it is
 obvious that, as masters of labour, constantly generating fresh capital
 through work, they would soon have wrested alienated capital back again,
 through their organisation and competition."_ This would apply to _"small-
-scale"_ as well as _"large-scale property and large industries"_. [**Op.
-Cit.**, pp. 374-5] Thus Proudhon places his ideas firmly in the actions of
+scale"_ as well as _"large-scale property and large industries"_. [ **Op.
+Cit.** , pp. 374-5] Thus Proudhon places his ideas firmly in the actions of
 working people resisting wage slavery (i.e. the proletariat) and **not**
 exclusively in the _"small property owner"_ (i.e., artisans and peasants).
 
@@ -373,22 +372,23 @@ on property. His proposals for a libertarian society included social
 ownership, workers' self-management of large scale workplaces as well as
 artisan and peasant production and **explicitly** and **repeatedly** argued
 for _"the complete emancipation of the worker . . . the abolition of the wage
-worker."_ [quoted by Vincent, **Op. Cit.**, p. 222] Rather than being backward
-looking and aiming exclusively at the artisan/peasant, Proudhon's ideas looked
-to the present and the future by looking at both the artisan/peasant **and**
-proletariat (i.e. to the **whole** of the working class in France at the
-time). As Daniel Guérin summarised:
+worker."_ [quoted by Vincent, **Op. Cit.** , p. 222] Rather than being
+backward looking and aiming exclusively at the artisan/peasant, Proudhon's
+ideas looked to the present and the future by looking at both the
+artisan/peasant **and** proletariat (i.e. to the **whole** of the working
+class in France at the time). As Daniel Guérin summarised:
 
 > _"Proudhon really moved with the times and realised that it is impossible to
-turn back the clock. He was realistic enough to understand that 'small
-industry is as stupid as petty culture" . . . With regard to large-scale
-modern industry requiring a large workforce, he was resolutely collectivist:
-'In future, large-scale industry and wide culture must be the fruit of
-association.' 'We have no choice in the matter,' he concluded, and waxed
-indignant that anyone had dared to suggest that he was opposed to technical
-progress . . . Property must be abolished . . . The means of production and
-exchange must be controlled neither by capitalist companies nor by the State .
-. . they must be managed by associations of workers"_ [**Anarchism**, p. 45]
+> turn back the clock. He was realistic enough to understand that 'small
+> industry is as stupid as petty culture" . . . With regard to large-scale
+> modern industry requiring a large workforce, he was resolutely collectivist:
+> 'In future, large-scale industry and wide culture must be the fruit of
+> association.' 'We have no choice in the matter,' he concluded, and waxed
+> indignant that anyone had dared to suggest that he was opposed to technical
+> progress . . . Property must be abolished . . . The means of production and
+> exchange must be controlled neither by capitalist companies nor by the State
+> . . . they must be managed by associations of workers"_ [ **Anarchism** , p.
+> 45]
 
 The notion that anarchism is the politics of the _"small property owner"_ is
 even harder to maintain when we move from Proudhon's reformist anarchism to
@@ -412,41 +412,40 @@ according to their real interest, but never according to any plan laid down in
 advance and imposed upon the **ignorant masses** by some superior
 intellects."_ Social change would be achieved only by _"the complete
 solidarity of individuals, sections and federations in the economic struggle
-of the workers of all countries against their exploiters."_ [**Michael
-Bakunin: Selected Writings**, p. 237, pp. 197-8 and p. 177] Unlike Proudhon,
+of the workers of all countries against their exploiters."_ [ **Michael
+Bakunin: Selected Writings** , p. 237, pp. 197-8 and p. 177] Unlike Proudhon,
 he saw the means for achieving the social revolution in the labour movement as
 trade unions (organised from the bottom up, of course) were _"the natural
 organisation of the masses"_ as _"workers' solidarity in their struggle
-against the bosses"_ was the means by which workers could emancipate itself
-_"**through practical action.**"_ Thus the key to working-class self-
-liberation was _"**trades-unions, organisation, and the federation of
-resistance funds**"_ [**The Basic Bakunin**, p. 139 and p. 103] In short, what
-became known as a syndicalist position (see [section 9](append31.md#app9)
-for a discussion of McNally's false counterpoising of anarchism and
-syndicalism) as the _"organisation of the trade sections and their
-representation by the Chambers of Labour . . . bear in themselves the living
-seeds of the new society which is to replace the old world. They are creating
-not only the ideas, but also the facts of the future itself."_ [**Bakunin on
-Anarchism**, p. 255] Moreover, as we show in the [next
-section](append31.md#app3), like Proudhon, Bakunin argued that an anarchist
-society would be based on _"the collective ownership of producers'
-associations, freely organised and federated in the communes, and by the
-equally spontaneous federation of these communes."_ [**Michael Bakunin:
-Selected Writings**, p. 197] As Kropotkin summarised:
+against the bosses"_ was the means by which workers could emancipate itself _"
+**through practical action.** "_ Thus the key to working-class self-liberation
+was _" **trades-unions, organisation, and the federation of resistance funds**
+"_ [ **The Basic Bakunin** , p. 139 and p. 103] In short, what became known as
+a syndicalist position (see [section 9](append31.md#app9) for a discussion
+of McNally's false counterpoising of anarchism and syndicalism) as the
+_"organisation of the trade sections and their representation by the Chambers
+of Labour . . . bear in themselves the living seeds of the new society which
+is to replace the old world. They are creating not only the ideas, but also
+the facts of the future itself."_ [ **Bakunin on Anarchism** , p. 255]
+Moreover, as we show in the [next section](append31.md#app3), like Proudhon,
+Bakunin argued that an anarchist society would be based on _"the collective
+ownership of producers' associations, freely organised and federated in the
+communes, and by the equally spontaneous federation of these communes."_ [
+**Michael Bakunin: Selected Writings** , p. 197] As Kropotkin summarised:
 
 > _"the chief aim of Anarchism is to awaken those constructive powers of the
-labouring masses . . . since the times of the International Working Men’s
-Association, the Anarchists have always advised taking an active part in those
-workers’ organisations which carry on the **direct** struggle of Labour
-against Capital and its protector, -- the State_
+> labouring masses . . . since the times of the International Working Men’s
+> Association, the Anarchists have always advised taking an active part in
+> those workers’ organisations which carry on the **direct** struggle of
+> Labour against Capital and its protector, -- the State_
 
 > _"Such a struggle . . . better than any other indirect means, permits the
-worker to obtain some temporary improvements in the present conditions of
-work, while it opens his eyes to the evil that is done by Capitalism and the
-State that supports it, and wakes up his thoughts concerning the possibility
-of organising consumption, production, and exchange without the intervention
-of the capitalist and the State."_ [**Direct Struggle Against Capital**, p.
-189]
+> worker to obtain some temporary improvements in the present conditions of
+> work, while it opens his eyes to the evil that is done by Capitalism and the
+> State that supports it, and wakes up his thoughts concerning the possibility
+> of organising consumption, production, and exchange without the intervention
+> of the capitalist and the State."_ [ **Direct Struggle Against Capital** ,
+> p. 189]
 
 And McNally asserts that _"the liberty defended by the anarchists was not the
 freedom of the working class to make collectively a new society"_! Only
@@ -472,7 +471,7 @@ Marx's viewpoint that socialism (and the struggle for socialism) had to be
 postponed until capitalism had developed sufficiently so that the
 _"centralisation of the means of production and the socialisation [sic!] of
 labour reach a point at which they become incompatible with their capitalist
-integument."_ [**Capital**, vol. 1, p. 929] As McNally states, socialism was
+integument."_ [ **Capital** , vol. 1, p. 929] As McNally states, socialism was
 once the _"banner under which millions of working people resisted the horrors
 of the factory system and demanded a new society of equality, justice, freedom
 and prosperity."_ Unfortunately, the Marxist tradition viewed such horrors as
@@ -492,12 +491,12 @@ the majority of the working classes. To quote German Anarchist Gustav
 Landauer:
 
 > _"Karl Marx and his successors thought they could make no worse accusation
-against the greatest of all socialists, Proudhon, than to call him a petit-
-bourgeois and petit-peasant socialist, which was neither incorrect nor
-insulting, since Proudhon showed splendidly to the people of his nation and
-his time, predominately small farmers and craftsmen, how they could achieve
-socialism immediately without waiting for the tidy process of big
-capitalism."_ [**For Socialism**, p. 61]
+> against the greatest of all socialists, Proudhon, than to call him a petit-
+> bourgeois and petit-peasant socialist, which was neither incorrect nor
+> insulting, since Proudhon showed splendidly to the people of his nation and
+> his time, predominately small farmers and craftsmen, how they could achieve
+> socialism immediately without waiting for the tidy process of big
+> capitalism."_ [ **For Socialism** , p. 61]
 
 As noted in the [previous section](append31.md#app2), Proudhon's theory
 reflected both artisan/peasant interests and those of wage workers -- as would
@@ -511,28 +510,28 @@ Indeed, he lambasted those radicals during the 1848 who sought to repeat the
 glories of the Great French Revolution rather than look to the future:
 
 > _"It is by '93 and all of its discord that we are being ruled . . . The
-democrats of '93, conjuring up a republic with their high school memories [of
-Ancient Rome], after devouring one another, set the revolution back by half a
-century . . . The democrats of 1848, building the republic on their
-parliamentary memories, have also set the revolution back by half a century .
-. . they are only imitators; they thought themselves statesmen because they
-were following the old models!_
+> democrats of '93, conjuring up a republic with their high school memories
+> [of Ancient Rome], after devouring one another, set the revolution back by
+> half a century . . . The democrats of 1848, building the republic on their
+> parliamentary memories, have also set the revolution back by half a century
+> . . . they are only imitators; they thought themselves statesmen because
+> they were following the old models!_
 
 > _"So what is this queer preoccupation which, in time of revolution,
-bedazzles the most steadfast minds, and, when their burning aspirations carry
-them forward into the future, has them constantly harking back the past? How
-does it come about that the People, just when it is making the break with
-established institutions, takes another plunge and gets further immersed in
-tradition? Society does not repeat itself: but one would have thought it was
-walking backwards . . . Could it not turn its gaze in the direction in which
-it is going?_
+> bedazzles the most steadfast minds, and, when their burning aspirations
+> carry them forward into the future, has them constantly harking back the
+> past? How does it come about that the People, just when it is making the
+> break with established institutions, takes another plunge and gets further
+> immersed in tradition? Society does not repeat itself: but one would have
+> thought it was walking backwards . . . Could it not turn its gaze in the
+> direction in which it is going?_
 
 > _"[. . .]_
 
 > _"In order to organise the future, a general rule confirmed by experience,
-the reformers always start out with their gaze fixed upon the past. Hence the
-contradiction forever discovered in their actions: hence also the immeasurable
-danger of revolutions."_ [**Property is Theft!**, p. 308]
+> the reformers always start out with their gaze fixed upon the past. Hence
+> the contradiction forever discovered in their actions: hence also the
+> immeasurable danger of revolutions."_ [ **Property is Theft!** , p. 308]
 
 Secondly, it is not true that Proudhon or Bakunin _"glorified"_ individual
 property. Proudhon, as is well know, argued that _"property is theft"_ and
@@ -544,26 +543,27 @@ was also against state socialism: _"Either competition, -- that is, monopoly
 and what follows; or exploitation by the State, -- that is, dearness of labour
 and continuous impoverishment; or else, in short, a solution based upon
 equality, -- in other words, the organisation of labour, which involves the
-negation of political economy and the end of property."_ [**Property is
-Theft!**, p. 87, p. 133, p. 91 and p. 202]
+negation of political economy and the end of property."_ [ **Property is
+Theft!** , p. 87, p. 133, p. 91 and p. 202]
 
 He was well aware that replacing private property by state property would not
 liberate the working class for what he termed _"Community"_ (usually, if not
 accurately, translated as "communism"), would enserf the worker to the state.
 Instead, Proudhon wanted to abolish property and replace it with possession.
-As he put it in 1840's **What is Property?**, while property had to be
+As he put it in 1840's **What is Property?** , while property had to be
 _"collective and undivided"_ its use could be divided by means of
-_"possession"_. [**Op. Cit.**, p. 137] Thus workers would control the means of
-production they used as well as the goods they created:
+_"possession"_. [ **Op. Cit.** , p. 137] Thus workers would control the means
+of production they used as well as the goods they created:
 
 > _"property in product . . . does not carry with it property in the means of
-production; that seems to me to need no further demonstration. There is no
-difference between the soldier who possesses his arms, the mason who possesses
-the materials committed to his care, the fisherman who possesses the water,
-the hunter who possesses the fields and forests, and the cultivator who
-possesses the lands: all, if you say so, are proprietors of their products --
-not one is proprietor of the means of production. The right to product is
-exclusive . . . the right to means is common"._ [**Op. Cit.**, p. 112]
+> production; that seems to me to need no further demonstration. There is no
+> difference between the soldier who possesses his arms, the mason who
+> possesses the materials committed to his care, the fisherman who possesses
+> the water, the hunter who possesses the fields and forests, and the
+> cultivator who possesses the lands: all, if you say so, are proprietors of
+> their products -- not one is proprietor of the means of production. The
+> right to product is exclusive . . . the right to means is common"._ [ **Op.
+> Cit.** , p. 112]
 
 As we discuss in the [section 4](append31.md#app4), Proudhon repeatedly
 noted his position and refuted those who claimed he supported individual
@@ -571,7 +571,7 @@ property. He also recognised that private property was not completely without
 merit as it gave its holder a measure of autonomy and protection against the
 state and other social forces. It was precisely this autonomy which he wished
 all to share rather than under capitalism where workers _"sold their arms and
-parted with their liberty"_ to the capitalist or landlord. [**Op. Cit.**, p.
+parted with their liberty"_ to the capitalist or landlord. [ **Op. Cit.** , p.
 212] However, recognising this -- and the dangers of state socialism -- hardly
 equates to glorification of private property.
 
@@ -579,35 +579,35 @@ It is true that Proudhon did oppose the forced socialisation of artisan
 workplaces and peasant land. He considered having control over the means of
 production, housing, etc. by those who use it as a key means of maintaining
 freedom and independence. Thus we find him arguing in 1851 that _"it is
-evident that if the peasants think well to associate, they will associate"_.
-[**Op. Cit.**, p. 584] However, the issue was different for modern industry:
+evident that if the peasants think well to associate, they will associate"_. [
+**Op. Cit.** , p. 584] However, the issue was different for modern industry:
 
 > _"In such cases, it is one of two things; either the worker, necessarily a
-piece-worker, will be simply the employee of the proprietor-capitalist-
-entrepreneur; or he will participate in the chances of loss or gain of the
-establishment, he will have a voice in the council, in a word, he will become
-an associate._
+> piece-worker, will be simply the employee of the proprietor-capitalist-
+> entrepreneur; or he will participate in the chances of loss or gain of the
+> establishment, he will have a voice in the council, in a word, he will
+> become an associate._
 
 > _"In the first case the worker is subordinated, exploited: his permanent
-condition is one of obedience and poverty. In the second case he resumes his
-dignity as a man and citizen, he may aspire to comfort, he forms a part of the
-producing organisation, of which he was before but the slave; as, in the town,
-he forms a part of the sovereign power, of which he was before but the
-subject."_ [**Op. Cit.**, p. 583]
+> condition is one of obedience and poverty. In the second case he resumes his
+> dignity as a man and citizen, he may aspire to comfort, he forms a part of
+> the producing organisation, of which he was before but the slave; as, in the
+> town, he forms a part of the sovereign power, of which he was before but the
+> subject."_ [ **Op. Cit.** , p. 583]
 
 Thus capitalism had to be replaced with associations _"due to the immorality,
-tyranny and theft suffered"_. [**Op. Cit.**, p. 584] This aspect of his ideas
-is continual throughout his political works and played a central role in his
-social theory. Thus to say that Proudhon _"glorified"_ individual property
+tyranny and theft suffered"_. [ **Op. Cit.** , p. 584] This aspect of his
+ideas is continual throughout his political works and played a central role in
+his social theory. Thus to say that Proudhon _"glorified"_ individual property
 distorts his position. As he argued in 1848:
 
 > _"under universal association, ownership of the land and of the instruments
-of labour is **social** ownership . . . We want the mines, canals, railways
-handed over to democratically organised workers' associations . . . We want
-these associations to be models for agriculture, industry and trade, the
-pioneering core of that vast federation of companies and societies woven into
-the common cloth of the democratic and social Republic."_ [**Op. Cit.**, pp.
-377-8]
+> of labour is **social** ownership . . . We want the mines, canals, railways
+> handed over to democratically organised workers' associations . . . We want
+> these associations to be models for agriculture, industry and trade, the
+> pioneering core of that vast federation of companies and societies woven
+> into the common cloth of the democratic and social Republic."_ [ **Op.
+> Cit.** , pp. 377-8]
 
 As the experience of workers under Lenin indicates (see [section
 H.3.13](secH3.md#sech13)), collective ownership by the state does **not**
@@ -629,31 +629,31 @@ society; all that it does is to deprive him of the power to subjugate the
 labour of others by means of such appropriation."_ Later Marx argued that the
 Paris Commune _"wanted to make individual property a truth by transforming the
 means of production, land and capital . . . into mere instruments of free and
-associated labour."_ [**Selected Writings**, p. 47, p. 49 and pp. 290-1] This
-echoes Proudhon's position that property _"changed its nature"_ when it _"the
-usufructuary converted his right to personally use the thing into the right to
-use it by his neighbour's labour"_. Thus support for _"individual property"_
-is not confined to Proudhon and, as noted, he desired to turn capital over to
-associated labour as well and this association he considered _"the
-annihilation of property"_. [**Op. Cit.**, p. 155 and p. 148] It should also
-be stressed, as we note in [section A.5.1](secA5.md#seca51), the followers
-of Proudhon played a key role in the Paris Commune and its attempts to create
-co-operatives reflected his ideas. Moreover, initially Marx had nothing but
-praise for Proudhon's critique of property contained in his classic work
-**What is Property?**:
+associated labour."_ [ **Selected Writings** , p. 47, p. 49 and pp. 290-1]
+This echoes Proudhon's position that property _"changed its nature"_ when it
+_"the usufructuary converted his right to personally use the thing into the
+right to use it by his neighbour's labour"_. Thus support for _"individual
+property"_ is not confined to Proudhon and, as noted, he desired to turn
+capital over to associated labour as well and this association he considered
+_"the annihilation of property"_. [ **Op. Cit.** , p. 155 and p. 148] It
+should also be stressed, as we note in [section A.5.1](secA5.md#seca51), the
+followers of Proudhon played a key role in the Paris Commune and its attempts
+to create co-operatives reflected his ideas. Moreover, initially Marx had
+nothing but praise for Proudhon's critique of property contained in his
+classic work **What is Property?** :
 
 > _"Proudhon makes a critical investigation -- the first resolute, ruthless,
-and at the same time scientific investigation -- of the basis of political
-economy, **private property**. This is the great scientific advance he made,
-an advance which revolutionises political economy and for the first time makes
-a real science of political economy possible. Proudhon's treatise **Qu'est-ce
-que la propriété?** is as important for modern political economy as Sieyês'
-work **Qu'est-ce que le tiers état?** for modern politics."_ [**Collected
-Works**, vol. 4, p. 32]
+> and at the same time scientific investigation -- of the basis of political
+> economy, **private property**. This is the great scientific advance he made,
+> an advance which revolutionises political economy and for the first time
+> makes a real science of political economy possible. Proudhon's treatise
+> **Qu'est-ce que la propriété?** is as important for modern political economy
+> as Sieyês' work **Qu'est-ce que le tiers état?** for modern politics."_ [
+> **Collected Works** , vol. 4, p. 32]
 
 As Rocker argued, Marx changed his tune to _"conceal from everyone just what
-he owed to Proudhon and any means to that end was admissible."_ [**Marx and
-Anarchism**] This can be seen from the comments we quote above which clearly
+he owed to Proudhon and any means to that end was admissible."_ [ **Marx and
+Anarchism** ] This can be seen from the comments we quote above which clearly
 show a Proudhonian influence in their recognition that possession replaces
 property in a socialist society and that associated labour is its economic
 basis. However, it is still significant that Proudhon's analysis initially
@@ -663,8 +663,8 @@ understand.
 Moving on from Proudhon, we discover Bakunin also opposing individual property
 and arguing that _"the land, the instruments of work and all other capital
 [will] become the collective property of society and by utilised only by the
-workers, in other words by the agricultural and industrial associations."_
-[**Michael Bakunin: Selected Writings**, p. 174] With regards to peasants and
+workers, in other words by the agricultural and industrial associations."_ [
+**Michael Bakunin: Selected Writings** , p. 174] With regards to peasants and
 artisans Bakunin also desired **voluntary** collectivisation. _"In a free
 community,"_ he argued, _"collectivism can only come about through the
 pressure of circumstances, not by imposition from above but by a free
@@ -673,21 +673,21 @@ property" as McNally implies, Bakunin was a clear and consistent supporter of
 **collective** property (as organised in workers' associations and communes)
 and supported peasant and artisan property only in the sense of being against
 forced collectivisation as this would result in _"propelling [the peasants]
-into the camp of reaction."_ [**Bakunin on Anarchism**, p. 200 and p. 197]
+into the camp of reaction."_ [ **Bakunin on Anarchism** , p. 200 and p. 197]
 Expropriation of capital was considered a key aspect of social revolution:
 
 > _"let us suppose . . . it is Paris that starts [the revolution] . . . Paris
-will naturally make haste to organise itself as best it can, in revolutionary
-style, after the workers have joined into associations and made a clean sweep
-of all the instruments of labour, every kind of capital and building; armed
-and organised by streets and **quartiers**, they will form the revolutionary
-federation of all the **quartiers**, the federative commune . . . All the
-French and foreign revolutionary communes will then send representatives to
-organise the necessary common services . . . and to organise common defence
-against the enemies of the Revolution, together with propaganda, the weapon of
-revolution, and practical revolutionary solidarity with friends in all
-countries against enemies in all countries."_ [**Michael Bakunin: Selected
-Writings**, pp. 178-9]
+> will naturally make haste to organise itself as best it can, in
+> revolutionary style, after the workers have joined into associations and
+> made a clean sweep of all the instruments of labour, every kind of capital
+> and building; armed and organised by streets and **quartiers** , they will
+> form the revolutionary federation of all the **quartiers** , the federative
+> commune . . . All the French and foreign revolutionary communes will then
+> send representatives to organise the necessary common services . . . and to
+> organise common defence against the enemies of the Revolution, together with
+> propaganda, the weapon of revolution, and practical revolutionary solidarity
+> with friends in all countries against enemies in all countries."_ [
+> **Michael Bakunin: Selected Writings** , pp. 178-9]
 
 Given how often Bakunin stressed the need for union struggles and collective
 labour property, it is easy to conclude that McNally did no research into
@@ -703,9 +703,9 @@ minority, of the collective labour of the masses of the people"_ and a _"just
 human society"_ must be created, one _"free of political domination and
 economic exploitation, founded only on collective labour which is guaranteed
 by collective property."_ He repeatedly proclaimed his support for _"the great
-principle of **collective property**"_ and argued that _"the collective
+principle of **collective property** "_ and argued that _"the collective
 property of capital"_ was one of _"the absolutely necessary conditions for the
-emancipation **of labour and of the workers**"_. [**The Basic Bakunin**, p.
+emancipation **of labour and of the workers** "_. [ **The Basic Bakunin** , p.
 153, p. 196 and p. 85] The social revolution would see _"the passing of all
 the land, capital and means of production into the hands of the international
 federation of free workers' associations."_ Land _"belongs to those who have
@@ -713,20 +713,20 @@ cultivated it with their own hands -- to the rural communes"_ while _"capital
 and all tools of labour belong to the city workers -- to the workers'
 associations."_ Anarchism would be _"nothing else but a free federation of
 workers -- agricultural workers as well as factory workers and associations of
-craftsmen."_ [**The Political Philosophy of Bakunin**, p. 344 and p. 410]
+craftsmen."_ [ **The Political Philosophy of Bakunin** , p. 344 and p. 410]
 
 Clearly neither Proudhon nor Bakunin _"glorified"_ individual property. Hence
 Daniel Guérin's summary:
 
 > _"Proudhon and Bakunin were 'collectivists,' which is to say they declared
-themselves without equivocation in favour of the common exploitation, not by
-the State but by associated workers of the large-scale means of production and
-of the public services. Proudhon has been quite wrongly presented as an
-exclusive enthusiast of private property . . . At the Bale congress [of the
-First International] in 1869, Bakunin . . . all[ied] himself with the statist
-Marxists . . . to ensure the triumph of the principle of collective
-property."_ [_"From Proudhon to Bakunin"_, **The Radical Papers**, Dimitrios
-I. Roussopoulos (ed.), p. 32]
+> themselves without equivocation in favour of the common exploitation, not by
+> the State but by associated workers of the large-scale means of production
+> and of the public services. Proudhon has been quite wrongly presented as an
+> exclusive enthusiast of private property . . . At the Bale congress [of the
+> First International] in 1869, Bakunin . . . all[ied] himself with the
+> statist Marxists . . . to ensure the triumph of the principle of collective
+> property."_ [ _"From Proudhon to Bakunin"_ , **The Radical Papers** ,
+> Dimitrios I. Roussopoulos (ed.), p. 32]
 
 Thirdly, while it is true that Proudhon **did** glorify the patriarchal
 family, the same cannot be said of Bakunin. Unlike Proudhon, he argued that
@@ -738,14 +738,14 @@ man"_ in marriage, urged _"the full sexual freedom of women"_ and argued that
 the cause of women's liberation was _"indissolubly tied to the common cause of
 all the exploited workers -- men and women."_ An anarchist society's
 organisations would be populated by people elected _"by the universal suffrage
-of both sexes"_ and so it would be based on _"**[e]qual political, social, and
-economic rights, as well as equal obligations, for women.**"_ [**Bakunin on
-Anarchism**, pp. 396-7, p. 78 and p. 93] In short:
+of both sexes"_ and so it would be based on _" **[e]qual political, social,
+and economic rights, as well as equal obligations, for women.** "_ [ **Bakunin
+on Anarchism** , pp. 396-7, p. 78 and p. 93] In short:
 
 > _"Abolition of the patriarchal family law, based exclusively upon the right
-to inherit property and also upon the equalisation of man and women in point
-of political, economic, and social rights."_ [**The Political Philosophy of
-Bakunin**, p. 343]
+> to inherit property and also upon the equalisation of man and women in point
+> of political, economic, and social rights."_ [ **The Political Philosophy of
+> Bakunin** , p. 343]
 
 It should be redundant to note that Bakunin's position was shared by the likes
 of Kropotkin, Malatesta, Berkman, Chomsky and Ward but, clearly, it is not --
@@ -756,12 +756,12 @@ the obvious contradiction in Proudhon's position in 1869 which these
 anarchists also saw:
 
 > _"These so-called lovers of liberty, if they are unable to take part in the
-direction of the state, at least they will be able to have a little monarchy
-for their personal use, each in his own home . . . Order in the family without
-hierarchy seems impossible to them -- well then, what about in the state?"_
-[quoted by Carolyn J. Eichner, _"'Vive La Commune!' Feminism, Socialism, and
-Revolutionary Revival in the Aftermath of the 1871 Paris Commune"_, **Journal
-of Women's History**, vol. 15, No. 2, p. 75]
+> direction of the state, at least they will be able to have a little monarchy
+> for their personal use, each in his own home . . . Order in the family
+> without hierarchy seems impossible to them -- well then, what about in the
+> state?"_ [quoted by Carolyn J. Eichner, _"'Vive La Commune!' Feminism,
+> Socialism, and Revolutionary Revival in the Aftermath of the 1871 Paris
+> Commune"_ , **Journal of Women's History** , vol. 15, No. 2, p. 75]
 
 These anarchists, and many others, extended anarchist ideas to the one area of
 life where Proudhon excluded liberty: the family. Unsurprisingly, both during
@@ -785,13 +785,13 @@ racist statements in their writings. Thus we find Proudhon arguing in 1851
 that in an anarchist society there will _"no longer be nationality, no longer
 fatherland, in the political sense of the words: they will mean only places of
 birth. Whatever a man's race or colour, he is really a native of the universe;
-he has citizen's rights everywhere."_ [**Property is Theft!**, p. 567] Bakunin
-echoed this in 1867, arguing that _"all collective and individual morality
-rests essentially upon **respect for humanity**"_ and this meant _"the
-recognition of human right and human dignity in every man, of whatever race,
-colour, degree of intellectual development, or even morality."_ [**Bakunin on
-Anarchism**, p. 146] That these comments, and others like them, are the ones
-consistent with Anarchist principles is obvious.
+he has citizen's rights everywhere."_ [ **Property is Theft!** , p. 567]
+Bakunin echoed this in 1867, arguing that _"all collective and individual
+morality rests essentially upon **respect for humanity** "_ and this meant
+_"the recognition of human right and human dignity in every man, of whatever
+race, colour, degree of intellectual development, or even morality."_ [
+**Bakunin on Anarchism** , p. 146] That these comments, and others like them,
+are the ones consistent with Anarchist principles is obvious.
 
 So a few anti-Semitic and anti-German remarks, made in passing, does not
 equate to people who _"glorified . . . racism"_ nor a theory which is
@@ -829,20 +829,20 @@ implies that Proudhon wished to return to a pre-industrial economy based on
 small-scale private property:
 
 > _"Those who, like Sismondi, wish to return to the correct proportions of
-production, while preserving the present basis of society, are reactionary,
-since, to be consistent, they must also wish to bring back all the other
-conditions of industry of former times."_ [**Collected Works**, vol. 6, p.
-137]
+> production, while preserving the present basis of society, are reactionary,
+> since, to be consistent, they must also wish to bring back all the other
+> conditions of industry of former times."_ [ **Collected Works** , vol. 6, p.
+> 137]
 
 Compare this to Proudhon's position expounded with similar words in **System
-of Economic Contradictions**:
+of Economic Contradictions** :
 
 > _"M. de Sismondi, like all men of patriarchal ideas, would like the division
-of labour, with machinery and manufactures, to be abandoned, and each family
-to return to the system of primitive indivision, -- **that is, to each one by
-himself, each one for himself**, in the most literal meaning of the words.
-That would be to retrograde; it is impossible."_ [**Property is Theft!**, p.
-194]
+> of labour, with machinery and manufactures, to be abandoned, and each family
+> to return to the system of primitive indivision, -- **that is, to each one
+> by himself, each one for himself** , in the most literal meaning of the
+> words. That would be to retrograde; it is impossible."_ [ **Property is
+> Theft!** , p. 194]
 
 As we will show, this was not an isolated statement: Proudhon consistently
 supported not only large-scale industry but also socialised ownership. Indeed,
@@ -851,19 +851,20 @@ the Frenchman was critical of those socialists (whom he rightly labelled
 of an ideal system:
 
 > _"It is important, then, that we should resume the study of economic facts
-and practices, discover their meaning, and formulate their philosophy. Until
-this is done, no knowledge of social progress can be acquired, no reform
-attempted. The error of socialism has consisted hitherto in perpetuating
-religious reverie by launching forward into a fantastic future instead of
-seizing the reality which is crushing it; as the wrong of the economists has
-been in regarding every accomplished fact as an injunction against any
-proposal of reform._
+> and practices, discover their meaning, and formulate their philosophy. Until
+> this is done, no knowledge of social progress can be acquired, no reform
+> attempted. The error of socialism has consisted hitherto in perpetuating
+> religious reverie by launching forward into a fantastic future instead of
+> seizing the reality which is crushing it; as the wrong of the economists has
+> been in regarding every accomplished fact as an injunction against any
+> proposal of reform._
 
 > _"For my own part, such is not my conception of economic science, the true
-social science. Instead of offering **a priori** arguments as solutions of the
-formidable problems of the organisation of labour and the distribution of
-wealth, I shall interrogate political economy as the depository of the secret
-thoughts of humanity"_ [**System of Economical Contradictions**, p. 128]
+> social science. Instead of offering **a priori** arguments as solutions of
+> the formidable problems of the organisation of labour and the distribution
+> of wealth, I shall interrogate political economy as the depository of the
+> secret thoughts of humanity"_ [ **System of Economical Contradictions** , p.
+> 128]
 
 It worthwhile noting that the **System of Economic Contradictions** Proudhon
 was discussing was not some new utopian scheme, as Marx implied, but rather
@@ -875,8 +876,8 @@ predecessors"_. This analysis was essential in order to base ideas of social
 transformation on current tendencies. So rather than abstractly contrast a
 _"utopia"_ to capitalism, Proudhon stressed the need to first analyse and
 understand the current system and so _"to unfold the system of economical
-contradictions is to lay the foundations of universal association."_ [**Op.
-Cit.**, p. 311 and p. 132]
+contradictions is to lay the foundations of universal association."_ [ **Op.
+Cit.** , p. 311 and p. 132]
 
 While Marx asserted that Proudhon wished _"to take us back to the journeymen
 or, at most, to the master craftsman of the Middle Ages"_ there is nothing in
@@ -884,16 +885,16 @@ his work to support such claims. Unsurprisingly, then, rather than provide a
 quote from Proudhon confirming this aspiration Marx makes many an assertion
 such as that individual exchange _"is consistent only with the small-scale
 industry of past centuries . . . or else with large-scale industry and all its
-train of misery and anarchy."_ [**Op. Cit.**, p. 190, p. 138] Yet this forgets
-that under capitalism, workers do not own or control their work but in a
-mutualist society they would do both. As Proudhon argued, _"the pace of
+train of misery and anarchy."_ [ **Op. Cit.** , p. 190, p. 138] Yet this
+forgets that under capitalism, workers do not own or control their work but in
+a mutualist society they would do both. As Proudhon argued, _"the pace of
 mechanical progress"_ under capitalism has _"no other effect"_ than to _"make
 the chains of serfdom heavier, render life more and more expensive, and deepen
 the abyss which separates the class that commands and enjoys from the class
 that obeys and suffers."_ This was because people _"work under a master"_ and
 so _"[u]nder the regime of property, the surplus of labour, essentially
-collective, passes entirely, like the revenue, to the proprietor"_.
-[**Property is Theft!**, p. 195, p. 248, p. 253] Would this _"misery"_ happen
+collective, passes entirely, like the revenue, to the proprietor"_. [
+**Property is Theft!** , p. 195, p. 248, p. 253] Would this _"misery"_ happen
 if workers managed their own work? Of course not.
 
 Marx ignored this, proclaiming that there is _"no individual exchange without
@@ -904,12 +905,12 @@ and individual, but between worker and capitalist, between farmer and
 landlord, etc."_ Marx ignores the nature of Proudhon's ideas, favouring the
 assertion he _"borrows from economists the necessity of eternal relations"_
 and forgets that economic relations _"are **historical and transitory
-products**."_ [**Op. Cit.**, p. 144, p. 159, p. 178 and p. 166] Strangely,
+products**."_ [ **Op. Cit.** , p. 144, p. 159, p. 178 and p. 166] Strangely,
 Marx forgot to quote Proudhon arguing that the _"present form"_ of how labour
 was organised _"is inadequate and transitory"_ and that _"the radical vice of
 political economy, consists, in general terms, in affirming as a definitive
 state a transitory condition, -- namely, the division of society into
-patricians and proletarians"_. [**Op. Cit.**, p. 170 and p. 174]
+patricians and proletarians"_. [ **Op. Cit.** , p. 170 and p. 174]
 
 So McNally, like Marx, distorts Proudhon's position. While many later
 anarchists -- the communist-anarchists -- rejected Proudhon's market socialism
@@ -917,21 +918,23 @@ in favour of libertarian communism, the notion that his _"opposition to
 capitalism was largely backward-looking in character"_ and that _"small,
 private property the basis of his utopia"_ is just nonsense. To quote Proudhon
 from 1841: _"We must apply on a large scale the principle of collective
-production"_ [**Op. Cit.**, p. 140] As K. Steven Vincent correctly summarises:
+production"_ [ **Op. Cit.** , p. 140] As K. Steven Vincent correctly
+summarises:
 
 > _"On this issue, it is necessary to emphasise that, contrary to the general
-image given on the secondary literature, Proudhon was not hostile to large
-industry. Clearly, he objected to many aspects of what these large enterprises
-had introduced into society. For example, Proudhon strenuously opposed the
-degrading character of . . . work which required an individual to repeat one
-minor function continuously. But he was not opposed in principle to large-
-scale production. What he desired was to humanise such production, to
-socialise it so that the worker would not be the mere appendage to a machine.
-Such a humanisation of large industries would result, according to Proudhon,
-from the introduction of strong workers' associations. These associations
-would enable the workers to determine jointly by election how the enterprise
-was to be directed and operated on a day-to-day basis."_ [**Pierre-Joseph
-Proudhon and the Rise of French Republican Socialism**, p. 156]
+> image given on the secondary literature, Proudhon was not hostile to large
+> industry. Clearly, he objected to many aspects of what these large
+> enterprises had introduced into society. For example, Proudhon strenuously
+> opposed the degrading character of . . . work which required an individual
+> to repeat one minor function continuously. But he was not opposed in
+> principle to large-scale production. What he desired was to humanise such
+> production, to socialise it so that the worker would not be the mere
+> appendage to a machine. Such a humanisation of large industries would
+> result, according to Proudhon, from the introduction of strong workers'
+> associations. These associations would enable the workers to determine
+> jointly by election how the enterprise was to be directed and operated on a
+> day-to-day basis."_ [ **Pierre-Joseph Proudhon and the Rise of French
+> Republican Socialism** , p. 156]
 
 So if you look at Proudhon's writings rather than what Marx and Engels
 **claimed** he wrote, it will soon be discovered that Proudhon in fact
@@ -940,12 +943,12 @@ means of production. Thus we find Proudhon arguing in 1840 that _"the land is
 indispensable to our existence, -- consequently a common thing"_ and _"all
 accumulated capital being social property"_ so _"no one can be its exclusive
 proprietor"_. Property becomes _"collective and undivided"_ and managers
-_"must be chosen from the workers by the workers themselves."_ [**Property is
-Theft!**, p. 105, p. 118, p. 137 and p. 119] Interestingly, Marx himself noted
-how the Frenchman in this work, **What is Property?**, _"abolishes property in
-order to abolish poverty. Proudhon did even more. He proved in detail **how**
-the movement of capital produces poverty"_. [**Collected Works**, vol. 4, p.
-35]
+_"must be chosen from the workers by the workers themselves."_ [ **Property is
+Theft!** , p. 105, p. 118, p. 137 and p. 119] Interestingly, Marx himself
+noted how the Frenchman in this work, **What is Property?** , _"abolishes
+property in order to abolish poverty. Proudhon did even more. He proved in
+detail **how** the movement of capital produces poverty"_. [ **Collected
+Works** , vol. 4, p. 35]
 
 Property would be owned collectively and so access would be free -- as we
 discuss in [section I.3.3](secI3.md#seci33) there would be no more bosses
@@ -965,7 +968,8 @@ which is a product of the community, ceases to be a source of profit to a
 small number of managers and speculators: it becomes the property of all the
 workers."_ Thus there would be a new form of economic organisation based on
 _"the co-operation of all who take part in the collective work"_ with _"equal
-conditions for all members_ [**Op. Cit.**, p. 153, p. 149, p. 583, pp. 585-6]
+conditions for all members_ [ **Op. Cit.** , p. 153, p. 149, p. 583, pp.
+585-6]
 
 Public utilities would be under the _"initiative of communes and departments"_
 with _"workers companies . . . carrying the works out."_ This
@@ -983,7 +987,7 @@ and for _"repairs, management, and upkeep of buildings, as well as for new
 constructions, the communes shall deal with bricklayers companies or building
 workers associations."_ In short: _"Capitalist and landlord exploitation
 stopped everywhere, wage labour abolished, equal and just exchange
-guaranteed."_ [**Op. Cit.**, pp. 594-5, p. 576, p. 578, p. 576 and p. 596]
+guaranteed."_ [ **Op. Cit.** , pp. 594-5, p. 576, p. 578, p. 576 and p. 596]
 
 Proudhon termed this vision of a self-managed economy _"an industrial
 democracy"_ or _"the industrial republic"_ and argued that _"Workers'
@@ -995,11 +999,11 @@ which they share the profit"_ then, when you _"extend the principle of
 mutuality that unites the workers of each group to all the Workers'
 Associations as a unit, and you will have created a form of civilisation that,
 from all points of view -- political, economic, aesthetic -- differs
-completely from previous civilisations"_ [**Op. Cit.**, p. 610 and p. 616]
+completely from previous civilisations"_ [ **Op. Cit.** , p. 610 and p. 616]
 Compare this, the anarchist position, on industrial democracy with Lenin's
 who, in 1921 went so far as to suggest, somewhat disingenuously given the
 reality of party dictatorship at the time, that _"Democracy is a category
-proper only to the political sphere"_. [**Collected Works**, vol. 32, p. 26]
+proper only to the political sphere"_. [ **Collected Works** , vol. 32, p. 26]
 
 As can be seen, rather than base his _"utopia"_ on _"small, private property"_
 Proudhon based it on the actual state of the French economy -- one marked by
@@ -1009,41 +1013,42 @@ collective property of workers' associations and placed under workers' self-
 management. The former, as it did not involve wage-labour, was non-capitalist
 and was compatible with a system of undivided (collective) ownership and
 divided use (possession). While Proudhon's vision may be considered as (in
-part or in whole) undesirable, contradictory and unstable, it is **not** _
-"backward-looking in character"_ nor based on _"small, private property"_.
+part or in whole) undesirable, contradictory and unstable, it is **not**
+_"backward-looking in character"_ nor based on _"small, private property"_.
 That Proudhon himself publicly rejected the assertion he stood for private
 ownership is of note:
 
 > _"You have me saying, and I really do not know where you could have found
-this, that **ownership of the instruments of labour must forever stay vested
-in the individual and remain unorganised**. These words are set in italics, as
-if you had lifted them from somewhere in my books. And then, on the back of
-this alleged quotation, you set about answering me that society, or the State
-that stands for it, has the right to **buy back** all property assets . . .
-But it does not follow at all from my speaking on the basis of socialism in
-order to reject the buy back of such assets as nonsensical, illegitimate and
-poisonous that I want to see individual ownership and non-organisation of the
-instruments of labour endure for all eternity. I have never penned nor uttered
-any such thing: and have argued the opposite a hundred times over. I make no
-distinction . . . between real ownership and phoney ownership . . . I deny all
-kinds of proprietary domain. I deny it, precisely because I believe in an
-order wherein the instruments of labour will cease to be appropriated and
-instead become shared; where the whole earth will be depersonalised . . ."_
+> this, that **ownership of the instruments of labour must forever stay vested
+> in the individual and remain unorganised**. These words are set in italics,
+> as if you had lifted them from somewhere in my books. And then, on the back
+> of this alleged quotation, you set about answering me that society, or the
+> State that stands for it, has the right to **buy back** all property assets
+> . . . But it does not follow at all from my speaking on the basis of
+> socialism in order to reject the buy back of such assets as nonsensical,
+> illegitimate and poisonous that I want to see individual ownership and non-
+> organisation of the instruments of labour endure for all eternity. I have
+> never penned nor uttered any such thing: and have argued the opposite a
+> hundred times over. I make no distinction . . . between real ownership and
+> phoney ownership . . . I deny all kinds of proprietary domain. I deny it,
+> precisely because I believe in an order wherein the instruments of labour
+> will cease to be appropriated and instead become shared; where the whole
+> earth will be depersonalised . . ."_
 
 > _"There is a more straightforward, more effective and infinitely less
-onerous and less risky way of transferring ownership, of achieving Liberty,
-Equality and Fraternity . . ._
+> onerous and less risky way of transferring ownership, of achieving Liberty,
+> Equality and Fraternity . . ._
 
 > _"Capital having been divested of its power of usury, economic solidarity is
-gradually created, and with it, an equality of wealth._
+> gradually created, and with it, an equality of wealth._
 
 > _"Next comes the spontaneous, popular formation of groups, workshops or
-workers’ associations;_
+> workers’ associations;_
 
 > _"Finally, the last to be conjured and formed is the over-arching group,
-comprising the nation in its entirety, what you term the State because you
-invest it in a representative body outside of society, but which, to me, is no
-longer the State."_ [**Property is Theft!**, pp. 498-500]
+> comprising the nation in its entirety, what you term the State because you
+> invest it in a representative body outside of society, but which, to me, is
+> no longer the State."_ [ **Property is Theft!** , pp. 498-500]
 
 Clearly McNally distorts Proudhon's ideas on the question of property. That he
 may have been aware of the actual facts in shown by his qualification that
@@ -1068,22 +1073,22 @@ supported police strike-breaking. As the editor of a collection of Marx's
 works had to admit that _"[t]o give Proudhon his due, he was not so much
 justifying the actions of the French authorities as exposing the
 ‘contradictions' he saw as an inevitable evil of the present social order"_
-[quoted by Iain McKay, _"Introduction"_, **Property is Theft!**, p. 65] As
+[quoted by Iain McKay, _"Introduction"_ , **Property is Theft!** , p. 65] As
 Proudhon himself put it:
 
 > _"workers' strikes are ILLEGAL. And it is not only the penal code which says
-this, but the economic system, the necessity of the established order. As long
-as labour is not sovereign, it must be a slave; society is possible only on
-this condition. That each worker individually should have the free disposition
-of his person and his arms may be tolerated; but that the workers should
-undertake, by combinations, to do violence to monopoly society cannot permit.
-Authority, in shooting down the miners, found itself in the position of Brutus
-placed between his paternal love and his consular duties: he had to sacrifice
-either his children or the republic. The alternative was horrible, I admit;
-but such is the spirit and letter of the social compact, such is the tenor of
-the charter . . . the police function, instituted for the defence of the
-proletariat, is directed entirely against the proletariat."_ [**Property is
-Theft!**, pp. 221-2]
+> this, but the economic system, the necessity of the established order. As
+> long as labour is not sovereign, it must be a slave; society is possible
+> only on this condition. That each worker individually should have the free
+> disposition of his person and his arms may be tolerated; but that the
+> workers should undertake, by combinations, to do violence to monopoly
+> society cannot permit. Authority, in shooting down the miners, found itself
+> in the position of Brutus placed between his paternal love and his consular
+> duties: he had to sacrifice either his children or the republic. The
+> alternative was horrible, I admit; but such is the spirit and letter of the
+> social compact, such is the tenor of the charter . . . the police function,
+> instituted for the defence of the proletariat, is directed entirely against
+> the proletariat."_ [ **Property is Theft!** , pp. 221-2]
 
 The key words here are _"[a]s long as labour is not sovereign"_ and,
 unsurprisingly, when Marx quoted this passage in **Poverty of Philosophy** he
@@ -1108,7 +1113,7 @@ than it being because he _"feared the organised power of the developing
 working class"_ it was for the **opposite** reason: _"As things are at
 present, which do you think will win [in a strike]? . . . [the bosses as] the
 match is clearly unequal"_. At best strikes would _"lead to a general price
-increase"_. [**Selected Writings of Pierre-Joseph Proudhon**, p. 182 and p.
+increase"_. [ **Selected Writings of Pierre-Joseph Proudhon** , p. 182 and p.
 181] Worse, as well as distorting Proudhon's position McNally fails to mention
 that Proudhon opposition to trade unions and strikes as counter-productive was
 **not** shared by subsequent anarchists like Bakunin, Kropotkin, Malatesta,
@@ -1167,7 +1172,7 @@ come 'from above'; rather it could only 'from below, from the spontaneity of
 the masses, and not from the initiative of the government' . . . this change
 had already occurred by 1846"_ when he was _"vehemently attacking other
 socialists such as Blanc for trumpeting reform initiated 'from above'"_.
-[Vincent, **Op. Cit.**, p. 146 and pp. 143-4]
+[Vincent, **Op. Cit.** , p. 146 and pp. 143-4]
 
 The same applies to when McNally suggested that Proudhon _"looked forward to a
 'general inquisition' and the condemnation of 'several million people' to
@@ -1175,9 +1180,9 @@ forced labour"_. With no means to see whether this is selective quoting or
 not, McNally disarms his readers. However, we must note a certain irony here
 as he does not, of course, mention that Marx and Engels advocated _"industrial
 armies, especially for agriculture"_ to ensure the _"[e]qual liability of all
-to labour"_ in the **Communist Manifesto**. [**Selected Writings**, p. 53] Nor
-does McNally mention the Bolshevik's introduction of the _"militarisation of
-labour"_ in 1919 and 1920 with Trotsky its leading advocate. The _"very
+to labour"_ in the **Communist Manifesto**. [ **Selected Writings** , p. 53]
+Nor does McNally mention the Bolshevik's introduction of the _"militarisation
+of labour"_ in 1919 and 1920 with Trotsky its leading advocate. The _"very
 principle of compulsory labour service is for the Communist quite
 unquestionable . . . The only solution of economic difficulties from the point
 of view of both principle and of practice is to treat the population of the
@@ -1191,10 +1196,10 @@ State considers itself empowered to send every worker to the place his work is
 necessary"_ and had _"the right to lay its hand upon the worker who refuses to
 execute his labour duty"_. This _"presents the inevitable method of
 organisation and disciplining of labour-power during the period of transition
-from capitalism to Socialism."_ [Trotsky, **Terrorism and Communism**, p. 135,
-p. 137, p. 141, p. 142 and p. 143] As can be seen Trotsky did not, as McNally
-would wish to suggest, think this was a result of the Civil War but rather a
-matter of principle.
+from capitalism to Socialism."_ [Trotsky, **Terrorism and Communism** , p.
+135, p. 137, p. 141, p. 142 and p. 143] As can be seen Trotsky did not, as
+McNally would wish to suggest, think this was a result of the Civil War but
+rather a matter of principle.
 
 McNally also fails to note that in December 1917 the Bolshevik regime created
 the Cheka, a political police force, to repress opposition to it from both the
@@ -1234,50 +1239,51 @@ President into an Emperor. This was exactly one year on from the President's
 military coup which saw him impose a new constitution and extend his tenure by
 ten years, an act again endorsed by a vast majority in a plebiscite. As
 Hampden notes: _"The people of France had spoken. It remained for Proudhon to
-point the moral"_. [**Marx, Proudhon and European Socialism**, p. 103]
+point the moral"_. [ **Marx, Proudhon and European Socialism** , p. 103]
 
 This is the context for this quote -- a cry of despair at a people which so
 willingly voted to destroy a republic and their own freedom. These two
 plebiscites in favour of Louis-Napoleon's coup and autocratic rule resulted in
 _"Proudhon's faith in the people"_ falling _"to its lowest level"_ and _"no
 epithet was too severe for the classes in whom he had seen the great hope of
-humanity."_ [George Woodcock, **Pierre-Joseph Proudhon**, p. 184] This becomes
-obvious when you read the full context of the words McNally quotes:
+humanity."_ [George Woodcock, **Pierre-Joseph Proudhon** , p. 184] This
+becomes obvious when you read the full context of the words McNally quotes:
 
 > _"You still worship the people . . . you should absolutely demolish this
-false religion. It is necessary to serve freedom and morals for themselves . .
-. without scorning the people, which is only uncivilised [**sauvage**] and
-that we have to civilise, do not make it your sovereign. I saw, on December
-7th, 1851, when paving stones of the boulevard were still red with blood,
-these honest people rush to small theatres, content, merry, without regret nor
-remorse. That once I had surprised it, for five years, in red-handed
-indifference, immorality, imperialist plot, ingratitude for its initiators!
-Ah! admittedly, it did not mislead me; but cowardice, even when predicted, is
-always hideous to see. I will strike these people, I warn you, until I made
-them embarrassed of the alleged dogma of its sovereignty; because it is not
-enough for us to re-examine the incompetents of '48, we must re-examine their
-idol . . ."_ [**Correspondance de P-J Proudhon**, vol. V, p. 111]
+> false religion. It is necessary to serve freedom and morals for themselves .
+> . . without scorning the people, which is only uncivilised [ **sauvage** ]
+> and that we have to civilise, do not make it your sovereign. I saw, on
+> December 7th, 1851, when paving stones of the boulevard were still red with
+> blood, these honest people rush to small theatres, content, merry, without
+> regret nor remorse. That once I had surprised it, for five years, in red-
+> handed indifference, immorality, imperialist plot, ingratitude for its
+> initiators! Ah! admittedly, it did not mislead me; but cowardice, even when
+> predicted, is always hideous to see. I will strike these people, I warn you,
+> until I made them embarrassed of the alleged dogma of its sovereignty;
+> because it is not enough for us to re-examine the incompetents of '48, we
+> must re-examine their idol . . ."_ [ **Correspondance de P-J Proudhon** ,
+> vol. V, p. 111]
 
 Is McNally really suggesting that Proudhon's position was incorrect and that
 he should have proclaimed popular support of the military coup and its
 repression of those defending the Republic as an example of civilised
 behaviour and the people's sovereignty? As Proudhon lamented, _"the truth"_
-was that _"**the people have the government which it prefers, and the
-bourgeoisie the government that it deserves**"_ and _"Napoleon III is the
+was that _" **the people have the government which it prefers, and the
+bourgeoisie the government that it deserves** "_ and _"Napoleon III is the
 legitimate, authentic expression of the middle-class and proletarian masses.
-If it is not precisely the product of the national **will**, it is undoubtedly
-that of the national **permission**."_ [**Op. Cit.**, p. 110] McNally for all
-his talk of democracy does not tackle -- does not even raise! -- the question
-of what happens if the majority make authoritarian and repressive decisions,
-as it did in December 1851 and 1852. If, as the Republicans of Proudhon's time
-argued, the voice of the people is the voice of God did that make Louis-
-Napoleon's Presidency, coup and then Empire all legitimate? Proudhon argued no
-and, moreover, placed the underlying principle of democracy -- freedom --
-above its expression within the (bourgeois) state. His writings explored how
-to secure mass participation in social life while minimising the possibility
-of tyranny. Thus the _"federative system puts a stop to the agitation of the
-masses, to all the ambitions and incitements of demagogy"_ [**Property is
-Theft!**, p. 708]
+If it is not precisely the product of the national **will** , it is
+undoubtedly that of the national **permission**."_ [ **Op. Cit.** , p. 110]
+McNally for all his talk of democracy does not tackle -- does not even raise!
+-- the question of what happens if the majority make authoritarian and
+repressive decisions, as it did in December 1851 and 1852. If, as the
+Republicans of Proudhon's time argued, the voice of the people is the voice of
+God did that make Louis-Napoleon's Presidency, coup and then Empire all
+legitimate? Proudhon argued no and, moreover, placed the underlying principle
+of democracy -- freedom -- above its expression within the (bourgeois) state.
+His writings explored how to secure mass participation in social life while
+minimising the possibility of tyranny. Thus the _"federative system puts a
+stop to the agitation of the masses, to all the ambitions and incitements of
+demagogy"_ [ **Property is Theft!** , p. 708]
 
 By stripping away the context, McNally turns his lament for the destruction of
 political freedom into a demand for it. The dishonesty is striking. It also
@@ -1290,16 +1296,16 @@ destroy what was left of their Republic. Presumably it would be _"elitism"_
 for him, like Proudhon, to denounce the decision and despair at those who made
 it? As we discuss in [section 7](append31.md#app7), the anarchist position
 on democracy is driven precisely by the obvious fact that majorities can be
-wrong and oppressive. This does not imply _"elitism"_, quite the reverse.
+wrong and oppressive. This does not imply _"elitism"_ , quite the reverse.
 
 We should also note that Marx dismissed the peasants as _"a class of
-barbarians standing half outside of society"_ [**Capital**, vol. 3, p. 949]
+barbarians standing half outside of society"_ [ **Capital** , vol. 3, p. 949]
 _"In countries like France"_ the peasants _"constitute far more than half of
 the population"_ but, he argued, they _"cannot represent themselves, they must
 be represented. Their representative must at the same time appear as their
 master, as an authority over them, as an unlimited governmental power"_. Thus
 _"the Bonaparte who dispersed [the National Assembly in 1851] is the chosen of
-peasantry."_ [**The Marx-Engels Reader**, p. 493, p. 608 and pp. 607-8] Marx
+peasantry."_ [ **The Marx-Engels Reader** , p. 493, p. 608 and pp. 607-8] Marx
 does not ponder the implications of these comments nor what they mean for
 democracy and the so-called _"dictatorship of the proletariat"_.
 
@@ -1309,18 +1315,18 @@ for when it is tracked down it becomes clear that McNally is again quoting the
 Frenchman completely out-of-context in order to attribute to him ideas he did
 not hold, indeed was arguing against. This sentence comes from a private
 letter written in 1861 bemoaning how others on the left were attacking him as
-_"a false **democrat**, a false friend of progress, a false republican"_ due
+_"a false **democrat** , a false friend of progress, a false republican"_ due
 to his critical position on Polish independence. Unlike most of the rest of
 the left (including Bakunin, it should be noted), Proudhon opposed the
-creation of a Polish state as it would be run by the _"nobility
-[**nobiliarie**], [and so] catholic, aristocratic, [and] divided into
+creation of a Polish state as it would be run by the _"nobility [
+**nobiliarie** ], [and so] catholic, aristocratic, [and] divided into
 castes"_. In other words, **not** a democracy. He then proclaims: _"All this
-democracy disgusts me"_. [**Correspondance de Pierre-Joseph Proudhon**, vol.
+democracy disgusts me"_. [ **Correspondance de Pierre-Joseph Proudhon** , vol.
 XI, p. 196-7] Once this context is provided, it becomes clear that using his
 justly famous talent for irony against those on the left who violate their own
 stated democratic principles by supporting the creation of a feudal regime --
-if **this** is democracy, Proudhon was saying, then it disgusts him (_"All
-this [so-called] democracy disgusts me"_). By quoting out-of-context McNally
+if **this** is democracy, Proudhon was saying, then it disgusts him ( _"All
+this [so-called] democracy disgusts me"_ ). By quoting out-of-context McNally
 turns a letter by Proudhon in which he wished the left would be
 **consistently** in favour of democracy into an anti-democratic rant. His
 dishonesty is clear.
@@ -1328,7 +1334,7 @@ dishonesty is clear.
 This, it must be noted, is also relevant to McNally's politics. While
 proclaiming that Leninism is the only consistently democratic socialist theory
 and that to _"talk of a workers' state is necessarily to talk of workers'
-power and workers' democracy"_, he makes an exception to the party
+power and workers' democracy"_ , he makes an exception to the party
 dictatorship ruled by Lenin and Trotsky from 1918 to 1923. Then it becomes the
 case that socialism no longer _"depends upon the existence of democratic
 organisation that can control society from below"_ nor _"presupposes that
@@ -1346,90 +1352,91 @@ democratic ones. Hence we find Proudhon arguing that _"[i]n democratising us,
 revolution has launched us on the path of industrial democracy"_ and that his
 People's Bank _"embodies the financial and economic aspects of modern
 democracy, that is, the sovereignty of the People, and of the republican
-motto, **Liberty, Equality, Fraternity.**"_ We have already mentioned
+motto, **Liberty, Equality, Fraternity.** "_ We have already mentioned
 Proudhon's support for workers' self-management of production and his People's
 Bank was also democratic in nature: _"A committee of thirty representatives
 shall be set up to see to the management of the Bank . . . They will be chosen
 by the General Meeting . . . [which] shall consist of not more than one
 thousand nominees of the general body of associates and subscribers . . .
 elected according to industrial categories and in proportion to the number of
-subscribers and representatives there are in each category."_ [**Selected
-Writings of Pierre-Joseph Proudhon**, p. 63, p. 75 and p. 79] Thus, instead of
-bourgeois democracy Proudhon proposes industrial and communal democracy:
+subscribers and representatives there are in each category."_ [ **Selected
+Writings of Pierre-Joseph Proudhon** , p. 63, p. 75 and p. 79] Thus, instead
+of bourgeois democracy Proudhon proposes industrial and communal democracy:
 
 > _"every industry needs . . . leaders, instructors, superintendents, etc. . .
-. they must be chosen from the workers by the workers themselves, and must
-fulfil the conditions of eligibility. It is the same with all public
-functions, whether of administration or instruction."_ [**Property is
-Theft!**, p. 118]
+> . they must be chosen from the workers by the workers themselves, and must
+> fulfil the conditions of eligibility. It is the same with all public
+> functions, whether of administration or instruction."_ [ **Property is
+> Theft!** , p. 118]
 
 > _"In order that association may be real, he who participates in it must do
-so . . . as an active factor; he must have a deliberative voice in the council
-. . . everything regarding him, in short, should be regulated in accordance
-with equality. But these conditions are precisely those of the organisation of
-labour."_ [**Op. Cit.**, p. 2156]
+> so . . . as an active factor; he must have a deliberative voice in the
+> council . . . everything regarding him, in short, should be regulated in
+> accordance with equality. But these conditions are precisely those of the
+> organisation of labour."_ [ **Op. Cit.** , p. 2156]
 
 > _"In the republic, everyone reigns and governs . . . Representatives are
-plenipotentiaries with the imperative mandate and are recallable at will . . .
-Here is the republic! Here is the People's sovereignty!_ [**Op. Cit.**, p.
-279]
+> plenipotentiaries with the imperative mandate and are recallable at will . .
+> . Here is the republic! Here is the People's sovereignty!_ [ **Op. Cit.** ,
+> p. 279]
 
 > _"At present we are a quasi-democratic Republic: all the citizens are
-permitted, every third or fourth year, to elect, first, the Legislative Power,
-second, the Executive Power. The duration of this participation in the
-Government for the popular collectivity is brief; forty-eight hours at the
-most for each election. For this reason the correlative of the Government
-remains nearly the same as before, almost the whole Country. The President and
-the Representatives, once elected, are the masters; all the rest obey. They
-are **subjects**, to be **governed** . . ."_ [**Op. Cit.**, p. 573]
+> permitted, every third or fourth year, to elect, first, the Legislative
+> Power, second, the Executive Power. The duration of this participation in
+> the Government for the popular collectivity is brief; forty-eight hours at
+> the most for each election. For this reason the correlative of the
+> Government remains nearly the same as before, almost the whole Country. The
+> President and the Representatives, once elected, are the masters; all the
+> rest obey. They are **subjects** , to be **governed** . . ."_ [ **Op. Cit.**
+> , p. 573]
 
 > _"In place of laws, we will put contracts [i.e. free agreement]. -- No more
-laws voted by a majority, nor even unanimously; each citizen, each commune or
-corporation [i.e., self-managed industry], makes its own laws."_ [**Op.
-Cit.**, p. 591]
+> laws voted by a majority, nor even unanimously; each citizen, each commune
+> or corporation [i.e., self-managed industry], makes its own laws."_ [ **Op.
+> Cit.** , p. 591]
 
 > _"Unless democracy is a fraud, and the sovereignty of the People a joke, it
-must be admitted that each citizen in the sphere of his industry, each
-municipal, district or provincial council within its own territory, is the
-only natural and legitimate representative of the Sovereign, and that
-therefore each locality should act directly and by itself in administering the
-interests which it includes, and should exercise full sovereignty in relation
-to them."_ [**Op. Cit.**, p. 595]
+> must be admitted that each citizen in the sphere of his industry, each
+> municipal, district or provincial council within its own territory, is the
+> only natural and legitimate representative of the Sovereign, and that
+> therefore each locality should act directly and by itself in administering
+> the interests which it includes, and should exercise full sovereignty in
+> relation to them."_ [ **Op. Cit.** , p. 595]
 
 > _"Workers' Associations are the locus of a new principle and model of
-production that must replace present-day corporations . . . The principle that
-prevailed there, in place of that of employers and employees . . . is
-participation, that is, the MUTUALITY of services supplementing the force of
-division and the force of collectivity._
+> production that must replace present-day corporations . . . The principle
+> that prevailed there, in place of that of employers and employees . . . is
+> participation, that is, the MUTUALITY of services supplementing the force of
+> division and the force of collectivity._
 
 > _"There is mutuality, in fact, when in an industry, all the workers, instead
-of working for an owner who pays them and keeps their product, work for one
-another . . . extend the principle of mutuality that unites the workers of
-each group to all the Workers' Associations as a unit, and you will have
-created a form of civilisation that, from all points of view -- political,
-economic, aesthetic -- differs completely from previous civilisations . . ."_
-[**Op. Cit.**, p. 616]
+> of working for an owner who pays them and keeps their product, work for one
+> another . . . extend the principle of mutuality that unites the workers of
+> each group to all the Workers' Associations as a unit, and you will have
+> created a form of civilisation that, from all points of view -- political,
+> economic, aesthetic -- differs completely from previous civilisations . .
+> ."_ [ **Op. Cit.** , p. 616]
 
 > _"groups that comprise the confederation. . . would be . . . self-governing,
-self-judging and self-administering in complete sovereignty. . . universal
-suffrage form its basis"_ [**Op. Cit.**, p. 716]
+> self-judging and self-administering in complete sovereignty. . . universal
+> suffrage form its basis"_ [ **Op. Cit.** , p. 716]
 
 > _"under the democratic constitution, insofar we can judge from its most
-salient ideas and most authentic aspirations, the political and the economic
-are one and the same, a sole and single system based upon a single principle,
-mutuality . . . no longer do we have the abstraction of people's sovereignty
-as in the '93 [French] Constitution and the others that followed it, and in
-Rousseau's **Social Contract**. Instead it becomes an effective sovereignty of
-the labouring masses . . . the labouring masses are actually, positively and
-effectively sovereign: how could they not be when the economic organism --
-labour, capital, property and assets -- belongs to them entirely"_ [**Op.
-Cit.**, pp. 760-1]
+> salient ideas and most authentic aspirations, the political and the economic
+> are one and the same, a sole and single system based upon a single
+> principle, mutuality . . . no longer do we have the abstraction of people's
+> sovereignty as in the '93 [French] Constitution and the others that followed
+> it, and in Rousseau's **Social Contract**. Instead it becomes an effective
+> sovereignty of the labouring masses . . . the labouring masses are actually,
+> positively and effectively sovereign: how could they not be when the
+> economic organism -- labour, capital, property and assets -- belongs to them
+> entirely"_ [ **Op. Cit.** , pp. 760-1]
 
 > _"If political right is inherent in man and citizen, consequently if
-suffrage ought to be direct, the same right is inherent as well, so much the
-more so, for each corporation [i.e. self-managed industry], for each commune
-or city, and the suffrage in each of these groups, ought to be equally
-direct."_ [quoted by Vincent, **Op. Cit.**, p. 219]
+> suffrage ought to be direct, the same right is inherent as well, so much the
+> more so, for each corporation [i.e. self-managed industry], for each commune
+> or city, and the suffrage in each of these groups, ought to be equally
+> direct."_ [quoted by Vincent, **Op. Cit.** , p. 219]
 
 So, clearly, McNally is hardly presenting a fair summary of either Proudhon's
 private notebooks, letters or his published works. This can be seen from his
@@ -1440,8 +1447,8 @@ consequence of universal suffrage, we want implementation of the imperative
 mandate"_ otherwise _"the people, in electing representatives, does not
 appoint mandatories but rather abjure their sovereignty!"_ This _"is assuredly
 not socialism: it is not even democracy"_. He also demanded: _"Freedom of
-association"_, _"Freedom of assembly"_ and _"Freedom of the press"_.
-[**Property is Theft!**, p. 377 and p. 379]
+association"_ , _"Freedom of assembly"_ and _"Freedom of the press"_. [
+**Property is Theft!** , p. 377 and p. 379]
 
 Do all these quotes suggest a man who _"violently opposed democracy"_? Of
 course not. Proudhon opposed certain types of democracy (centralised,
@@ -1463,13 +1470,13 @@ the public conscience, the suicide of popular sovereignty, the apostasy of the
 Revolution"_ and to _"make the vote for all intelligent, moral, democratic, it
 is necessary. . . to make the citizens vote by categories of functions, in
 accordance with the principle of the collective force"_. This federative
-democracy would be applied in the community (communes) and industry (_"the
-agricultural-industrial federation"_), indeed all areas including the military
-where it was necessary to _"abolish military conscription, organise a
+democracy would be applied in the community (communes) and industry ( _"the
+agricultural-industrial federation"_ ), indeed all areas including the
+military where it was necessary to _"abolish military conscription, organise a
 citizens' army"_ based on _"the right of the citizens to appoint the hierarchy
 of their military chiefs, the simple soldiers and national guards appointing
-the lower ranks of officers, the officers appointing their superiors."_ [**Op.
-Cit.**, pp. 724-5, pp. 676-7, p. 711, p. 407 and p. 443]
+the lower ranks of officers, the officers appointing their superiors."_ [
+**Op. Cit.** , pp. 724-5, pp. 676-7, p. 711, p. 407 and p. 443]
 
 As can be seen, Proudhon's position on democracy is not quite what McNally
 suggests. Under a centralised social system it simply meant the people _"is
@@ -1483,7 +1490,7 @@ constitution of the social power. . . the people does not govern itself . . .
 We affirm . . . that the people, that society, that the mass, can and ought to
 govern itself by itself . . . We deny government and the State, because we
 affirm that which the founders of States have never believed in, the
-personality and autonomy of the masses."_ [**Op. Cit.**, p. 437, p. 485 and
+personality and autonomy of the masses."_ [ **Op. Cit.** , p. 437, p. 485 and
 pp. 482-483]
 
 Thus McNally presents a distorted picture of Proudhon's ideas and thus leads
@@ -1503,7 +1510,7 @@ does not mention that, as can be seen, all these were advocated by Proudhon
 nor that his followers played a key role in the 1871 revolt. Clearly it is
 simply **not** the case that Marx's _"work signalled an entirely new direction
 in socialist thought and socialist politics"_ if he _"insisted"_ that _"the
-abolition of the standing army"_, _"universal suffrage"_ and _"the right to
+abolition of the standing army"_ , _"universal suffrage"_ and _"the right to
 recall representatives"_ were _"all essential elements of any workers'
 state."_ Proudhon advocated all these over a decade before his followers made
 Marx belatedly see their benefit in 1871. Where Proudhon differed from Marx
@@ -1526,7 +1533,7 @@ Lastly, McNally states that Proudhon _"was a rabid racist reserving his
 greatest hatred for Jews, whose 'extermination' he advocated. He opposed
 emancipation for the American blacks and backed the cause of the southern
 slave owners during the American Civil War."_ To support his claims, he quotes
-George Lichtheim (whom he considers as having _"written quite accurately"_)
+George Lichtheim (whom he considers as having _"written quite accurately"_ )
 stating that Proudhon expressed _"tolerance for slavery (he publicly sided
 with the South during the American civil war)"_ and _"he believed in inherent
 inequalities among the races"_. It will come as no surprise that this is
@@ -1535,8 +1542,8 @@ either completely false or not entirely true.
 Let us take the question of Proudhon's anti-Semitism. It is true that Proudhon
 made the occasional anti-Semitic remark in his writings but as Robert Graham
 correctly summarises _"anti-semitism formed no part of Proudhon's
-revolutionary programme."_ [_"Introduction"_, **General Idea of the
-Revolution**, p. xxxvi] In terms of the claim that he advocated the
+revolutionary programme."_ [ _"Introduction"_ , **General Idea of the
+Revolution** , p. xxxvi] In terms of the claim that he advocated the
 _"extermination"_ of the Jews what McNally does not mention is that this comes
 from a single entry in his private Notebooks and was unknown until a hundred
 years after his death. The intellectual dishonesty of this should be clear
@@ -1565,10 +1572,10 @@ of Proudhon's ideas on race. To imply that a never repeated comment made in a
 private notebook and completely unknown until over a century later was part of
 his public work or a central aspect of Proudhon's ideas presents a completely
 false impression of both them and their influence -- particularly given his
-discussion of race in **The Federative Principle**, to which we now turn.
+discussion of race in **The Federative Principle** , to which we now turn.
 
 McNally and Lichtheim proclaim that Proudhon _"publicly"_ expressed
-_"tolerance for slavery"_, _"opposed emancipation for the American blacks and
+_"tolerance for slavery"_ , _"opposed emancipation for the American blacks and
 backed the cause of the southern slave owners"_ because he was a racist. This
 is not the case, as can be seen from the extended discussion on slavery in the
 only major work written during the American Civil War, **The Federative
@@ -1578,8 +1585,8 @@ the US ruling class. As Howard Zinn noted, the war _"was not over slavery as a
 moral institution . . . It was not a clash of peoples . . . but of elites. The
 northern elite wanted economic expansion -- free land, free labour, a free
 [national] market, a high protective tariff for manufacturers, a bank of the
-United States. The slave interests opposed all that"_ [**A People's History of
-the United States**, pp. 188-9] Slavery was never the driver for the war,
+United States. The slave interests opposed all that"_ [ **A People's History
+of the United States** , pp. 188-9] Slavery was never the driver for the war,
 regardless of how this has retroactively become the main cause (because this
 fits into the self-image and rhetoric of America far better than the grim
 reality). Indeed, abolition of slavery was raised as a war aim only in 1862 as
@@ -1591,8 +1598,8 @@ condition to the level of the Whites."_ However, the North _"cares no more
 than the South about a true emancipation, which renders the difficulty
 insoluble even by war and threatens to destroy the confederation."_ Rather
 than express _"tolerance"_ for slavery he wrote _"the enslaving of one part of
-the nation is the very negation of the federative principle."_ [**Property is
-Theft!**, pp. 698-9f] Both sides were _"fighting only over the type of
+the nation is the very negation of the federative principle."_ [ **Property is
+Theft!** , pp. 698-9f] Both sides were _"fighting only over the type of
 servitude"_ and so both must _"be declared equally guilty blasphemers and
 betrayers of the federative principle and banned from all nations."_ The union
 could only be saved if the North _"grants the blacks their civil rights"_ and
@@ -1605,10 +1612,10 @@ workplaces) and other economic guarantees as _"the conversion of black slaves
 to the proletariat"_ would mean that _"black servitude will only change its
 form"_ rather than ended. Both _"slavery and the proletariat are incompatible
 with republican values."_ [quoted by Iain McKay, _"Neither Washington nor
-Richmond: Proudhon on Racism &amp; the Civil War"_, **Anarcho-Syndicalist
-Review**, no. 60, pp. 25-6]
+Richmond: Proudhon on Racism & the Civil War"_, **Anarcho-Syndicalist Review**
+, no. 60, pp. 25-6]
 
-Proudhon stressed _"with regard to **black workers**, that physiologists and
+Proudhon stressed _"with regard to **black workers** , that physiologists and
 ethnographers recognise them as part of the same species as whites; that
 religion declares them, along with the whites, the children of God and the
 church, redeemed by the blood of the same Christ and therefore spiritual
@@ -1627,41 +1634,41 @@ equals"_. _"The federative principle,"_ he summarised, _"here appears closely
 related to that of the social equality of races and the equilibrium of
 fortunes. The political problem, the economic problem and the problem of races
 are one and the same problem, and the same theory and jurisprudence can
-resolve that problem."_ [quoted by McKay, **Op. Cit.**, p. 25]
+resolve that problem."_ [quoted by McKay, **Op. Cit.** , p. 25]
 
 As can be seen, McNally and Lichtheim completely distort Proudhon's actual
 position. A more accurate account of this is given by academic Ralph Nelson:
 
 > _"But it would be naive to think that it is just the peculiar institution of
-slavery that Proudhon detests. He finds in the North also the principle of
-inequality and class distinction. If he is critical of both sides in the war,
-it is because the federative principle is incompatible with inequality,
-whether the agrarian variety of master and slave or the modern version of
-capital and labour . . ._
+> slavery that Proudhon detests. He finds in the North also the principle of
+> inequality and class distinction. If he is critical of both sides in the
+> war, it is because the federative principle is incompatible with inequality,
+> whether the agrarian variety of master and slave or the modern version of
+> capital and labour . . ._
 
 > _"Proudhon didn't really believe that the Union side would emancipate the
-Negro, but would fix on deportation as the solution to the problem. The union
-could be saved only by the liberation of the Negroes, granting them full
-citizenship, and by a determination to stop the growth of the proletariat. For
-what is gained for the former slaves, if emancipation means that they will
-become members of the proletariat? He notes that the situation in Russia after
-the emancipation of the serfs (1861) is analogous. Liberated serfs without
-land would be helpless. Economic guarantees must be developed alongside
-political ones. The corollaries of equality before the law are racial
-equality, equality of condition, and an approach toward equality of
-fortunes."_ [_"The Federal Idea in French Political Thought"_, **Publius**,
-vol. 5, No. 3, p. 41]
+> Negro, but would fix on deportation as the solution to the problem. The
+> union could be saved only by the liberation of the Negroes, granting them
+> full citizenship, and by a determination to stop the growth of the
+> proletariat. For what is gained for the former slaves, if emancipation means
+> that they will become members of the proletariat? He notes that the
+> situation in Russia after the emancipation of the serfs (1861) is analogous.
+> Liberated serfs without land would be helpless. Economic guarantees must be
+> developed alongside political ones. The corollaries of equality before the
+> law are racial equality, equality of condition, and an approach toward
+> equality of fortunes."_ [ _"The Federal Idea in French Political Thought"_ ,
+> **Publius** , vol. 5, No. 3, p. 41]
 
 There is an obvious flaw in his position, namely that _"Proudhon suggests that
 nothing will have been gained if the blacks were freed only to become wage
 earners, as if the condition of the wage-earner were not closer to the
 realisation of personal autonomy than the condition of a well-treated slave."_
-[Nelson, **Op. Cit.**, p. 43] Yet his fears should not be ignored as the
+[Nelson, **Op. Cit.** , p. 43] Yet his fears should not be ignored as the
 Southern states _"enacted 'black codes' which made the freed slaves like
-serfs"_ after the end of the Civil War. [Zinn, **Op. Cit.**, p. 199] As one
+serfs"_ after the end of the Civil War. [Zinn, **Op. Cit.** , p. 199] As one
 Black newspaper put it: _"The slaves were made serfs and chained to the soil .
 . . Such was the boasted freedom acquired by the coloured man at the hands of
-the Yankees."_ [quoted by Zinn, **Op. Cit.**, pp. 196-7] However, these
+the Yankees."_ [quoted by Zinn, **Op. Cit.** , pp. 196-7] However, these
 reservations about Proudhon's arguments -- which did contain relevant concerns
 -- do not make McNally's comments any more accurate. That he repeats someone
 else's mistakes do not matter as he should have taken the time to verify the
@@ -1720,17 +1727,17 @@ of them. As George Lichtheim suggests (in a passage McNally could not bring
 himself to quote), _"[i]n all these respects Proudhon simply reflected the
 milieu from which he had sprung. His mental crudities were commonplace and not
 peculiar to him. Half peasant, half townsman, he was the embodiment of the
-average French workingman of his day"_. [**The Origins of Socialism**, p. 87]
-Subsequent anarchists (including Bakunin) overcame the limitations of Proudhon
-**the man** by using Proudhon **the theorist**. McNally, by personalising the
-matter, seeks to deny the significant contributions Proudhon made to socialism
-(as can be seen by the Paris Commune). If he were more confident in his own
-political tradition he would not have to do this as Leninism should be able to
-convince by presenting an accurate account of the ideas of others and showing
-their weaknesses. That McNally did not do this for Proudhon shows that, for
-all his flaws, his argument that socialism needs to be decentralised, federal
-and self-managed still rings true. The failure of the Bolshevik regime
-confirms this.
+average French workingman of his day"_. [ **The Origins of Socialism** , p.
+87] Subsequent anarchists (including Bakunin) overcame the limitations of
+Proudhon **the man** by using Proudhon **the theorist**. McNally, by
+personalising the matter, seeks to deny the significant contributions Proudhon
+made to socialism (as can be seen by the Paris Commune). If he were more
+confident in his own political tradition he would not have to do this as
+Leninism should be able to convince by presenting an accurate account of the
+ideas of others and showing their weaknesses. That McNally did not do this for
+Proudhon shows that, for all his flaws, his argument that socialism needs to
+be decentralised, federal and self-managed still rings true. The failure of
+the Bolshevik regime confirms this.
 
 ## 5\. Why are McNally's comments on Bakunin a distortion of his ideas?
 
@@ -1742,12 +1749,12 @@ far more explicit in support for the collectivisation of property.
 This can be seen from Bakunin's last book in which he argued that the
 International Working Men's Association _"has shown the proletariat the
 objective it must achieve and at the same time has indicated to it the ways
-and means of organising a popular force"_, namely _"a voluntary alliance of
+and means of organising a popular force"_ , namely _"a voluntary alliance of
 agricultural and factory worker associations, communes, provinces and
 nations"_ organised _"from below upwards"_. Socialism would be created _"only
 through concerted action by the proletariat of all countries, whose
 organisation first on an economic basis is precisely the object of the
-International"_, by means of _"factory, artisan, and agrarian sections"_. A
+International"_ , by means of _"factory, artisan, and agrarian sections"_. A
 _"federal organisation, from below upwards, of workers' associations, groups,
 communes, districts, and, ultimately, regions and nations"_ was needed _"for
 real as opposed to fictitious freedom"_. This _"popular federation"_ would be
@@ -1755,7 +1762,7 @@ _"based on emancipated labour and collective property"_ as the _"mode of
 future production"_ would be _"producers' cooperatives"_ and _"all forms of
 land and capital must become collective property"_. He also _"demand[ed],
 along with liberty, the equality of rights and obligations for men and
-women."_ [**Statism and Anarchy**, p. 32, p. 33, p. 49, p. 51, p. 13, p. 22,
+women."_ [ **Statism and Anarchy** , p. 32, p. 33, p. 49, p. 51, p. 13, p. 22,
 p. 201 and p. 219]
 
 So Bakunin disagreed with Proudhon on many subjects. He did share Proudhon's
@@ -1771,15 +1778,15 @@ libertarian revolution, but he also hoped the same for France, Spain, Italy
 and all countries in Europe (indeed, the world). He opposed the Russian Empire
 and he wished _"the destruction of the Empire of All the Russias"_ and
 supported national liberation struggles of nationalities oppressed by Russia
-(and any other imperialist nation). [**The Basic Bakunin**, p. 162] Unlike
+(and any other imperialist nation). [ **The Basic Bakunin** , p. 162] Unlike
 Proudhon, he supported Polish National liberation although he recognised that
 _"its leading parties, which are still drawn primarily from the gentry. have
 been unable to renounce their state-centred program"_ and hoped that the
 national movement would embrace economic change and seek the _"liberation and
-renewal of their homeland in social revolution"_. [**Statism and Anarchy**, p.
-40]
+renewal of their homeland in social revolution"_. [ **Statism and Anarchy** ,
+p. 40]
 
-McNally moves on to _"Bakunin's organisational methods"_, stating that they
+McNally moves on to _"Bakunin's organisational methods"_ , stating that they
 _"were overwhelmingly elitist and authoritarian."_ This assertion completely
 misunderstands Bakunin's ideas on how revolutionaries should organise and
 influence working class organisations as well as the revolutionary process.
@@ -1793,27 +1800,27 @@ We must start by pointing out that Bakunin's viewpoints on the organisational
 methods of mass working class organisations and those of political groupings
 were somewhat different. As we show in [section 9](append31.md#app9),
 Bakunin had what would now be termed a syndicalist position on the labour
-movement and so he rejected organising political parties and electioneering
-(_"political action"_) in favour of _"the development and organisation… of the
+movement and so he rejected organising political parties and electioneering (
+_"political action"_ ) in favour of _"the development and organisation… of the
 social (and, by consequence, anti-political) power of the working masses as
-much in the towns as in the countryside."_ [**Michael Bakunin: Selected
-Writings**, pp. 197-8] This was reflected in his ideas on social revolution as
-expressed in 1868:
+much in the towns as in the countryside."_ [ **Michael Bakunin: Selected
+Writings** , pp. 197-8] This was reflected in his ideas on social revolution
+as expressed in 1868:
 
 > _"the federative Alliance of all working men's associations… will constitute
-the Commune . . . by the creation of a Revolutionary Communal Council composed
-of one or two delegates… vested with plenary but accountable and removable
-mandates . . . all provinces, communes and associations… [would send] their
-representatives to an agreed meeting place . . . vested with similar mandates
-to constitute the federation of insurgent associations, communes and
-provinces… to organise a revolutionary force capable of defeating reaction… it
-is the very fact of the expansion and organisation of the revolution for the
-purpose of self-defence among the insurgent areas that will bring about the
-triumph of the revolution . . . Since revolution everywhere must be created by
-the people, and supreme control must always belong to the people organised in
-a free federation of agricultural and industrial associations . . . organised
-from the bottom upwards by means of revolutionary delegation"_ [**Op. Cit.**,
-pp. 170-2]
+> the Commune . . . by the creation of a Revolutionary Communal Council
+> composed of one or two delegates… vested with plenary but accountable and
+> removable mandates . . . all provinces, communes and associations… [would
+> send] their representatives to an agreed meeting place . . . vested with
+> similar mandates to constitute the federation of insurgent associations,
+> communes and provinces… to organise a revolutionary force capable of
+> defeating reaction… it is the very fact of the expansion and organisation of
+> the revolution for the purpose of self-defence among the insurgent areas
+> that will bring about the triumph of the revolution . . . Since revolution
+> everywhere must be created by the people, and supreme control must always
+> belong to the people organised in a free federation of agricultural and
+> industrial associations . . . organised from the bottom upwards by means of
+> revolutionary delegation"_ [ **Op. Cit.** , pp. 170-2]
 
 How is this federation of workers councils based on elected, mandated and
 recallable delegates organised from the bottom-up _"elitist and
@@ -1821,13 +1828,13 @@ authoritarian"_? Compare this to McNally's own words on the soviets of the
 Russian Revolution:
 
 > _"The Russian revolution was based upon a wholly new kind of social
-organisation, the workers' council or soviet. These councils, based on elected
-delegates from the workplace and the neighbourhoods, became the new decision-
-making bodies of Russia. They were organs of direct democracy whose delegates,
-like those of the Paris Commune, could be recalled by the electors. The
-soviets represented a new form of mass democracy. It was for this reason that
-Lenin and Trotsky made the demand for 'All power to the soviets!' the central
-slogan of the Russian revolution."_
+> organisation, the workers' council or soviet. These councils, based on
+> elected delegates from the workplace and the neighbourhoods, became the new
+> decision-making bodies of Russia. They were organs of direct democracy whose
+> delegates, like those of the Paris Commune, could be recalled by the
+> electors. The soviets represented a new form of mass democracy. It was for
+> this reason that Lenin and Trotsky made the demand for 'All power to the
+> soviets!' the central slogan of the Russian revolution."_
 
 As noted in [section 4](append31.md#app4), Proudhon had already raised the
 idea of recallable delegates in the 1848 revolution and it was his followers
@@ -1852,8 +1859,8 @@ system of the Republic-Commune, the Republic-Federation, i.e. the system of
 **Anarchism**. This is the politics of the Social Revolution, which aims at
 the abolition of the **State** and establishment of the economic, entirely
 free organisation of the people -- organisation from bottom to top by means of
-federation."_ [**The Political Philosophy of Bakunin**, p. 314] The difference
-is fundamental and not simply a question of words (see [section
+federation."_ [ **The Political Philosophy of Bakunin** , p. 314] The
+difference is fundamental and not simply a question of words (see [section
 H.2.1](secH2.md#sech21)).
 
 The question now arises of how Bakunin thought revolutionaries should
@@ -1870,8 +1877,8 @@ birth of the revolution by sowing ideas corresponding to the instincts of the
 masses"_ and act _"as intermediaries between the revolutionary idea and the
 popular instinct."_ It _"help[s] the people towards self-determination on the
 lines of the most complete equality and the fullest freedom in every
-direction, without the least interference from any sort of domination."_
-[**Michael Bakunin: Selected Writings**, p. 172 and p. 191] The _"sole aim of
+direction, without the least interference from any sort of domination."_ [
+**Michael Bakunin: Selected Writings** , p. 172 and p. 191] The _"sole aim of
 a secret society must be, not the creation of an artificial power outside the
 people, but the rousing, uniting and organising of the spontaneous power of
 the people"_. It _"does not foist upon the people any new regulations, orders,
@@ -1886,13 +1893,13 @@ power"_ and so this _"does not threaten the liberty of the people because it
 is free from all official character. It is not placed above the people like
 state power because its whole aim, defined by its programme, consists of the
 fullest realisation of the liberty of the people."_ [quoted by Michael
-Confino, **Daughter of a Revolutionary**, p. 250, pp. 258-9 and p. 261]
+Confino, **Daughter of a Revolutionary** , p. 250, pp. 258-9 and p. 261]
 
 As we discuss in more detail in [section J.3.7](secJ3.md#secj37), the key to
 understanding the role of Bakunin's secret societies is to recognise that
 rather than seek to be elected into positions of power, they would work within
 popular organisations at the base and argue their ideas and win others over to
-them (i.e., their _"natural personal influence"_). This is why Bakunin
+them (i.e., their _"natural personal influence"_ ). This is why Bakunin
 considered such organisations as being no danger to popular liberty -- by not
 having power they could not force their ideas onto others, unlike a new state
 regime. All this is ignored by McNally.
@@ -1905,17 +1912,17 @@ the historian in question is George Lichtheim whom McNally feels provides
 _"the most reliable guides to early socialist thought"_ presumably because his
 account chimes with all the standard Marxist prejudices, assumptions and
 errors about anarchism (significantly McNally ignores Lichtheim's statement
-that Bakunin's supported _"anti-authoritarian collectivism"_). A socialist,
+that Bakunin's supported _"anti-authoritarian collectivism"_ ). A socialist,
 Lichtheim opposed Marxist-Leninism while presenting a sceptical but
 superficial account of anarchism. This can be seen from the words McNally
 quotes:
 
 > _"The International Brotherhood he founded in Naples in 1865-66 was as
-conspiratorial and dictatorial as he could make it, for Bakunin's
-libertarianism stopped short of the notion of permitting anyone to contradict
-him. The Brotherhood was conceived on the Masonic model, with elaborate
-rituals, a hierarchy, and a self-appointed directory consisting of Bakunin and
-a few associates."_ [**A Short History of Socialism**, p. 126]
+> conspiratorial and dictatorial as he could make it, for Bakunin's
+> libertarianism stopped short of the notion of permitting anyone to
+> contradict him. The Brotherhood was conceived on the Masonic model, with
+> elaborate rituals, a hierarchy, and a self-appointed directory consisting of
+> Bakunin and a few associates."_ [ **A Short History of Socialism** , p. 126]
 
 First, it should be noted that Bakunin considered secret societies as
 necessary because, at the time, most countries were monarchies and did not
@@ -1924,8 +1931,8 @@ activities during the 1848 revolution and so had personal experience of the
 fate of revolutionaries who were caught by these regimes. As Murray Bookchin
 argues, _"Bakunin's emphasis on conspiracy and secrecy can be understood only
 against the social background of Italy, Spain, and Russia the three countries
-in Europe where conspiracy and secrecy were matters of sheer survival."_
-[**The Spanish Anarchists**, p. 24] McNally ignores the historical context --
+in Europe where conspiracy and secrecy were matters of sheer survival."_ [
+**The Spanish Anarchists** , p. 24] McNally ignores the historical context --
 and the awkward fact that Marxists have also favoured secret groupings in the
 face of similar regimes.
 
@@ -1946,68 +1953,68 @@ mysterious rites.'"_ As for the Brotherhood, _"the constitution thus laid down
 was to be regarded as provisional; for when the Brotherhood attained a
 membership of seventy, a constituent assembly was to be convened which would
 determine the definite rules and programme of the organisation."_ [E.H. Carr,
-**Michael Bakunin**, p. 320, p. 316, p. 357 and p. 315]
+**Michael Bakunin** , p. 320, p. 316, p. 357 and p. 315]
 
 Third, this summary is simply inaccurate. To show this, we shall quote from
 Bakunin's letter to the Russian Nihilist Sergy Nechayev in which he explains
 the differences in their ideas. He discusses the _"principles and mutual
 conditions"_ for a _"new society"_ of revolutionaries in Russia (noting that
 this was an _"outline of a plan"_ which _"must be developed, supplemented, and
-sometimes altered according to circumstances"_):
+sometimes altered according to circumstances"_ ):
 
 > _"Equality among all members and the unconditional and absolute solidarity
--- one for all and all for one -- with the obligation for each and everyone to
-help each other, support and save each other. . . Complete frankness among
-members and proscription of any Jesuitical methods in their relationships . .
-. When a member has to say anything against another member, this must be done
-at a general meeting and in his presence. **General fraternal control** of
-each other . . . Everyone's personal intelligence vanished like a river in the
-sea in the collective intelligence and all members obey unconditionally the
-decisions of the latter._
+> -- one for all and all for one -- with the obligation for each and everyone
+> to help each other, support and save each other. . . Complete frankness
+> among members and proscription of any Jesuitical methods in their
+> relationships . . . When a member has to say anything against another
+> member, this must be done at a general meeting and in his presence.
+> **General fraternal control** of each other . . . Everyone's personal
+> intelligence vanished like a river in the sea in the collective intelligence
+> and all members obey unconditionally the decisions of the latter._
 
 > _"All members are equal; they know all their comrades and discuss and decide
-with them all the most important and essential questions bearing on the
-programme of the society and the progress of the cause. The decision of the
-general meeting is absolute law. . . The society chooses an Executive
-Committee from among their number consisting of three or five members who
-should organise the branches of the society and manage its activities in all
-the regions of the [Russian] Empire on the basis of the programme and general
-plan of action adopted by the decision of the society as a whole. . . This
-Committee is elected for an indefinite term. If the society . . . the People's
-Fraternity is satisfied with the actions of the Committee, it will be left as
-such; and while it remains a Committee each member . . . and each regional
-group have to obey it unconditionally, except in such cases where the orders
-of the Committee contradict either the general programme of the principle
-rules, or the general revolutionary plan of action, which are known to
-everybody as all . . . have participated equally in the discussion of them. .
-. In such a case members of the group must halt the execution of the
-Committee's orders and call the Committee to judgement before the general
-meeting . . . If the general meeting is discontented with the Committee, it
-can always substitute another one for it. . . Any member or any group is
-subject to judgement by the general meeting . . . No new Brother can be
-accepted without the consent of all or at the very least three-quarters of all
-the members. . ._
+> with them all the most important and essential questions bearing on the
+> programme of the society and the progress of the cause. The decision of the
+> general meeting is absolute law. . . The society chooses an Executive
+> Committee from among their number consisting of three or five members who
+> should organise the branches of the society and manage its activities in all
+> the regions of the [Russian] Empire on the basis of the programme and
+> general plan of action adopted by the decision of the society as a whole. .
+> . This Committee is elected for an indefinite term. If the society . . . the
+> People's Fraternity is satisfied with the actions of the Committee, it will
+> be left as such; and while it remains a Committee each member . . . and each
+> regional group have to obey it unconditionally, except in such cases where
+> the orders of the Committee contradict either the general programme of the
+> principle rules, or the general revolutionary plan of action, which are
+> known to everybody as all . . . have participated equally in the discussion
+> of them. . . In such a case members of the group must halt the execution of
+> the Committee's orders and call the Committee to judgement before the
+> general meeting . . . If the general meeting is discontented with the
+> Committee, it can always substitute another one for it. . . Any member or
+> any group is subject to judgement by the general meeting . . . No new
+> Brother can be accepted without the consent of all or at the very least
+> three-quarters of all the members. . ._
 
 > _"The Committee divides the members . . . among the Regions and constitutes
-Regional groups of leaderships from them . . . Regional leadership is charged
-with organising the second tier of the society -- the **Regional Fraternity**,
-on the basis of the same programme, the same rules, and the same revolutionary
-plan . . . Each Regional Committee will set up **District** Committees from
-members of the **Regional Fraternity** . . . District Committees can, if
-necessary and only with the consent of the Regional Committee, set up a third
-tier of the organisation -- **District Fraternity** with a programme and
-regulations as near as possible to the general programme and regulations of
-the People's Fraternity. The programme and regulations of the District
-Fraternity will not come into force until they are discussed and passed by the
-general meeting of the Regional Fraternity and have been confirmed by the
-Regional Committee. . ._
+> Regional groups of leaderships from them . . . Regional leadership is
+> charged with organising the second tier of the society -- the **Regional
+> Fraternity** , on the basis of the same programme, the same rules, and the
+> same revolutionary plan . . . Each Regional Committee will set up
+> **District** Committees from members of the **Regional Fraternity** . . .
+> District Committees can, if necessary and only with the consent of the
+> Regional Committee, set up a third tier of the organisation -- **District
+> Fraternity** with a programme and regulations as near as possible to the
+> general programme and regulations of the People's Fraternity. The programme
+> and regulations of the District Fraternity will not come into force until
+> they are discussed and passed by the general meeting of the Regional
+> Fraternity and have been confirmed by the Regional Committee. . ._
 
 > _"Jesuitical control . . . are totally excluded from all three tiers of the
-secret organisation . . . The strength of the whole society, as well as the
-morality, loyalty, energy and dedication of each member, is based exclusively
-and totally on the shared truth, sincerity and trust, and on the open
-fraternal control of all over each one."_ [quoted by Confino, **Op. Cit.**,
-pp. 264-6]
+> secret organisation . . . The strength of the whole society, as well as the
+> morality, loyalty, energy and dedication of each member, is based
+> exclusively and totally on the shared truth, sincerity and trust, and on the
+> open fraternal control of all over each one."_ [quoted by Confino, **Op.
+> Cit.** , pp. 264-6]
 
 As can be seen, while there is much in Bakunin's ideas that few anarchists
 would agree with today, it cannot be said that it was _"dictatorial"_ as
@@ -2024,8 +2031,8 @@ prepare leaflets, work out approximate plans and appoint bodies of leaders for
 each urban district, for each factory district and for each educational
 institution, etc."_ Under Tsarism, the _"only serious organisational principle
 the active workers of our movement can accept is strict secrecy, strict
-selection of members, and the training of professional revolutionaries."_
-[**The Essential Lenin**, p. 158, p. 149 and p. 162]
+selection of members, and the training of professional revolutionaries."_ [
+**The Essential Lenin** , p. 158, p. 149 and p. 162]
 
 The parallels with Bakunin's system are clear and are predominately the result
 of the identical political conditions both revolutionaries experienced. While
@@ -2037,10 +2044,10 @@ Worse, in 1920 these principles were agreed by the Communist International,
 including the necessity of both legal and illegal structures within the party
 for _"the Communist parties must learn to combine legal and illegal activity
 in a planned way. However, the legal work must be placed under the actual
-control of the illegal party at all times."_ [**Proceedings and Documents of
-the Second Congress 1920**, vol. 1, p. 198-9] Anarchists have, since Bakunin's
-death, rejected his ideas that anarchists should organise in a centralised
-fashion (see [section J.3](secJ3.md)).
+control of the illegal party at all times."_ [ **Proceedings and Documents of
+the Second Congress 1920** , vol. 1, p. 198-9] Anarchists have, since
+Bakunin's death, rejected his ideas that anarchists should organise in a
+centralised fashion (see [section J.3](secJ3.md)).
 
 Therefore, McNally has a problem. On the one hand, he denounces Bakunin's
 ideas of a centralised, secret top-down organisation of revolutionaries. On
@@ -2061,12 +2068,12 @@ Alliance to be totally independent of the IWA and objected to Bakunin's
 secrecy. Bakunin's view prevailed on the first question as he succeeded in
 convincing the majority of the harmful effects of a rivalry between the
 Alliance and the International. On the question of secrecy, he gave way to his
-opponents"_. [**Bakunin and the Italians**, p. 83]; while other Bakunin
+opponents"_. [ **Bakunin and the Italians** , p. 83]; while other Bakunin
 influenced sent delegates to the Hague Congress of the First International in
 1872, the Italian sections decided not to; The Spanish section of the Alliance
 _"survived Bakunin . . . yet with few exceptions it continued to function in
 much the same way as it had done during Bakunin's lifetime."_ [George R.
-Esenwein, **Anarchist Ideology and the Working Class Movement in Spain**, p.
+Esenwein, **Anarchist Ideology and the Working Class Movement in Spain** , p.
 43] Hardly what you would expect if Lichtheim's comments were accurate.
 
 The evidence suggests that the Alliance _"was not a compulsory or
@@ -2079,7 +2086,7 @@ associates."_ Moreover, there _"is no trace or shadow or hierarchical
 organisation in a letter from Bakunin to [Spanish anarchist] Mora . . . On the
 contrary, Bakunin advises 'direct' relations between Spanish and Italian
 Comrades."_ The Spanish comrades also wrote a pamphlet which _"ridiculed the
-fable of orders from abroad."_ [Juan Gomez Casa, **Anarchist Organisation**,
+fable of orders from abroad."_ [Juan Gomez Casa, **Anarchist Organisation** ,
 p. 25 and p. 40] This is confirmed by George R. Esenwein, who argues that
 _"[w]hile it is true that Bakunin's direct intervention during the early days
 of the International's development in Spain had assured the pre-dominance of
@@ -2087,12 +2094,12 @@ his influence in the various federations and sections"_ of the organisation,
 _"it cannot be said that he manipulated it or otherwise used the Spanish
 Alliance as a tool for his own subversive designs."_ Thus, _"though the
 Alliance did exist in Spain, the society did not bear any resemblance to the
-nefarious organisation that the Marxists depicted."_ [**Op. Cit.**, p. 42]
+nefarious organisation that the Marxists depicted."_ [ **Op. Cit.** , p. 42]
 Indeed, as Max Nettlau points out, those Spaniards who did break with the
 Alliance were persuaded of its _"hierarchical organisation . . . not by their
 own direct observation, but by what they had been told [by Marxists] about the
 conduct of the organisation"_ in other countries. [quoted by Casa, **Op.
-Cit.**, pp. 39-40]
+Cit.** , pp. 39-40]
 
 In summary, McNally's comments are a distortion of Bakunin's ideas and
 activities. He misrepresents one aspect of Bakunin's ideas while ignoring
@@ -2121,7 +2128,7 @@ Take, for example, Proudhon's position on the American Civil War. Let us
 assume that McNally's assertion is correct (as shown in [section
 4](append31.md#app4) it is not) and he supported the South. Bakunin
 _"supported the Union in the struggle between the states"_. [Paul Avrich,
-**Anarchist Portraits**, p. 20] What does this mean for _"anarchist
+**Anarchist Portraits** , p. 20] What does this mean for _"anarchist
 doctrine"_? Which of the two represented the "real" anarchist position? So the
 question remains why Proudhon's refusal to support either side during the
 American Civil War (his actual position) is an example of _"anarchist
@@ -2143,8 +2150,8 @@ a direct struggle against capital, without placing their faith in
 parliamentary legislation"_. How can Proudhon's position represent _"the very
 nature of anarchist doctrine"_ when he was the only one to hold it? Similarly,
 Kropotkin simply (and rightly) dismissed Proudhon's position on women's
-equality as one _"which most modern writers will, of course, not agree."_
-[**Direct Struggle Against Capital**, p. 165 and p. 218] If McNally is right
+equality as one _"which most modern writers will, of course, not agree."_ [
+**Direct Struggle Against Capital** , p. 165 and p. 218] If McNally is right
 then we can only conclude that only Proudhon amongst all anarchist thinkers
 understood what anarchism stood for. That is, needless to say, unlikely and so
 we can only conclude that Proudhon's sexism and opposition to strikes were
@@ -2156,14 +2163,14 @@ inherent to anarchist theory and it would be silly to suggest they were.
 It should also be noted that Marx and Engels took positions which modern
 readers would consider strange at best. In the case of slavery, Marx suggested
 in his polemic against Proudhon that if you _"[c]ause slavery to disappear and
-you will have wiped America off the map of nations"_. [**Collected Works**,
+you will have wiped America off the map of nations"_. [ **Collected Works** ,
 vol. 6, p. 167] Engels, unsurprisingly, after the American Civil War added a
 note suggesting that this obvious tolerance of slavery was only valid in 1847.
 A few years later, in the early 1850s, Marx argued that slavery in Jamaica had
 been marked by _"freshly imported BARBARIANS"_ in contrast to the United
 States where _"the present generation of Negroes"_ was _"a native product,
-more or less Yankeefied"_ and _"hence capable of being emancipated."_ {**Op.
-Cit.**, vol. 39, p. 346] The many comments by Marx and Engels on the
+more or less Yankeefied"_ and _"hence capable of being emancipated."_ { **Op.
+Cit.** , vol. 39, p. 346] The many comments by Marx and Engels on the
 progressive role of imperialism in replacing traditional societies by
 capitalist social relationships are also relevant in this context as are the
 many racists comments on Slavs and other peoples (including Jews). In other
@@ -2172,23 +2179,23 @@ express racist views and if they are to be dismissed as a result then why not
 Marx and Engels as well?
 
 We will draw upon Roman Rosdolsky's important work _"Engels and the
-‘Nonhistoric' Peoples: The National Question in the Revolution of 1848."_
-(**Critique: Journal of Socialist Theory**, No. 18/19) to sketch the bigotries
+‘Nonhistoric' Peoples: The National Question in the Revolution of 1848."_ (
+**Critique: Journal of Socialist Theory** , No. 18/19) to sketch the bigotries
 of Marx and Engels (unless otherwise indicated all quotes in this section come
 from Rosdolsky's work). As will be seen, on almost every issue McNally raises
 against Proudhon and Bakunin we find similar comments by Marx and Engels.
 
 Unsurprisingly, given the times, Marx and Engels made numerous anti-Semitic
 remarks both in private and public. During the 1848 revolution, the paper Marx
-edited (**Neue Rheinische Zeitung**) published the reports of Müller-Tellering
-who expressed _"an all too maniacal hatred"_ of Jews. Engels wrote _"very
-unpleasant passages on the (Polish) Jews"_ [193, 116], describing them as
-_"the very incarnation of haggling, avarice and sordidness"_ and _"the meanest
-of all races"_ with _"its lust for profit."_ The Austrian Jews had
-_"**exploited the revolution** and are now being punished for it"_ while
+edited ( **Neue Rheinische Zeitung** ) published the reports of Müller-
+Tellering who expressed _"an all too maniacal hatred"_ of Jews. Engels wrote
+_"very unpleasant passages on the (Polish) Jews"_ [193, 116], describing them
+as _"the very incarnation of haggling, avarice and sordidness"_ and _"the
+meanest of all races"_ with _"its lust for profit."_ The Austrian Jews had _"
+**exploited the revolution** and are now being punished for it"_ while
 _"anyone who knows how powerful"_ they were. He generalised by suggesting that
 _"Jews are known to be cheated cheats everywhere"_ and, according to Marx,
-they had put themselves _"at the **head of the counter-revolution**"_ and so
+they had put themselves _"at the **head of the counter-revolution** "_ and so
 the revolution had _"to throw them back into their ghetto"_. [quoted 192,
 203,196] Marx's paper _"did not dissociate itself from the anti-Semitic
 'popular opinion'"_ and its articles resulted in some of its backers who were
@@ -2203,16 +2210,16 @@ only by means of a foreign yoke, are not viable and will never be able to
 achieve any kind of independence"_ and that the conquered should be grateful
 to the Germans for _"having given themselves the trouble of civilising the
 stubborn Czechs and Slovenes, and introducing among them trade, industry, a
-tolerable degree of agriculture, and culture!"_ [**Marx-Engels Collected
-Works**, vol. 8, p 238] Worse, Engels proclaimed that _"one day we shall
+tolerable degree of agriculture, and culture!"_ [ **Marx-Engels Collected
+Works** , vol. 8, p 238] Worse, Engels proclaimed that _"one day we shall
 **take a bloody revenge on the Slavs** for this cowardly and base betrayal of
 the revolution"_ and _"hatred of the Russians was, and still is, the first
 revolutionary passion of the Germans"_. The revolution could only be secured
-_"against these Slavs peoples by the most decisive acts of terrorism"_ and
-_"**a war of annihilation and ruthless terrorism**, not in the interests of
+_"against these Slavs peoples by the most decisive acts of terrorism"_ and _"
+**a war of annihilation and ruthless terrorism** , not in the interests of
 Germany but in the interests of the revolution!"_ There would be _"a **bloody
-revenge in the Slav barbarians**"_ and a war which will _"**annihilate all
-these small pig-headed nations even to their very names**"_ and _"will not
+revenge in the Slav barbarians** "_ and a war which will _" **annihilate all
+these small pig-headed nations even to their very names** "_ and _"will not
 only cause reactionary classes and dynasties **to disappear from the face of
 the earth, but also entire reactionary peoples.** And that too is an
 advance."_ [quoted, 85, 86]
@@ -2231,23 +2238,24 @@ out over Texas"_ between Mexico and the USA and how it was good that _"that
 magnificent California was snatched from the lazy Mexicans, who did not know
 what to do with it"_ by _"the energetic Yankees."_ [quoted, 159] He failed to
 mention that the revolt of 1836 over Texas which was the root of the 1846 war
-was conducted by _"**planters, owners of Negro slaves**, and their main reason
-for revolting was that **slavery had been abolished in Mexico in 1829**."_
-[160] In fact in 1845 a majority of voters in the Republic of Texas approved a
-proposed constitution that specifically endorsed slavery and the slave trade
-and was later accepted by the U.S. Congress. Unlike Engels, Northern
-abolitionists attacked this war as an attempt by slave-owners to strengthen
-the grip of slavery and ensure their influence in the federal government and
-publicly declared their wish for the defeat of the American forces. Henry
-David Thoreau was jailed for his refusal to pay taxes to support the war,
-penning his famous essay **Civil Disobedience**. [Howard Zinn, **A People's
-History of the United States**, pp. 155-7] Rosdolsky rightly comments on how
-_"inappropriate, in fact perverse, was Engels' illustration."_ [160]
+was conducted by _" **planters, owners of Negro slaves** , and their main
+reason for revolting was that **slavery had been abolished in Mexico in
+1829**."_ [160] In fact in 1845 a majority of voters in the Republic of Texas
+approved a proposed constitution that specifically endorsed slavery and the
+slave trade and was later accepted by the U.S. Congress. Unlike Engels,
+Northern abolitionists attacked this war as an attempt by slave-owners to
+strengthen the grip of slavery and ensure their influence in the federal
+government and publicly declared their wish for the defeat of the American
+forces. Henry David Thoreau was jailed for his refusal to pay taxes to support
+the war, penning his famous essay **Civil Disobedience**. [Howard Zinn, **A
+People's History of the United States** , pp. 155-7] Rosdolsky rightly
+comments on how _"inappropriate, in fact perverse, was Engels' illustration."_
+[160]
 
 So we find distinct parallels between McNally's attacks on Proudhon and the
 many racist and anti-Semitic remarks by Marx and Engels (as listed by Peter
 Fryer in his _"Engels: A Man of his Time"_ [John Lea and Geoff Pilling (eds.),
-**The condition of Britain: Essays on Frederick Engels**]) as well as their
+**The condition of Britain: Essays on Frederick Engels** ]) as well as their
 siding with slave states against abolitionist ones. Nor did Marx, it must be
 noted, denounce Proudhon's racism or sexism (he also failed to comment on the
 Paris Commune being elected by **male** universal suffrage, thinking nothing
@@ -2261,20 +2269,20 @@ notebook simply cannot be taken as expressing his political ideas (see
 
 The fact is, once we correct McNally's errors, we discover that the vast
 majority of Proudhon's and Bakunin's positions are **not** _"backward-looking
-and narrow-minded"_, quite the reverse. Where a position **is** so (Proudhon's
-position to trade unions and feminism being the most obvious examples) then we
-quickly discover that subsequent anarchists publicly rejected it. Most of the
-position's McNally paints as _"anarchist doctrine"_ were not actually held by
-either Proudhon or Bakunin (such as, opposition to industry and collectively-
-owned and managed property). Rather than take examples which are common to
-most anarchist theorists -- and so actually reflective of _"anarchist
-doctrine"_ \-- McNally takes only a few positions held by one, at most two,
-major anarchist thinkers. Worse, these positions are tangential to the core of
-their ideas and, indeed, directly opposed to them (such as infrequently
-expressed bigotries against specific peoples being in obvious conflict to
-their other, more common, support for racial equality). From this minority of
-examples McNally generalises a theory -- and so violates the basic principles
-of the scientific method!
+and narrow-minded"_ , quite the reverse. Where a position **is** so
+(Proudhon's position to trade unions and feminism being the most obvious
+examples) then we quickly discover that subsequent anarchists publicly
+rejected it. Most of the position's McNally paints as _"anarchist doctrine"_
+were not actually held by either Proudhon or Bakunin (such as, opposition to
+industry and collectively-owned and managed property). Rather than take
+examples which are common to most anarchist theorists -- and so actually
+reflective of _"anarchist doctrine"_ \-- McNally takes only a few positions
+held by one, at most two, major anarchist thinkers. Worse, these positions are
+tangential to the core of their ideas and, indeed, directly opposed to them
+(such as infrequently expressed bigotries against specific peoples being in
+obvious conflict to their other, more common, support for racial equality).
+From this minority of examples McNally generalises a theory -- and so violates
+the basic principles of the scientific method!
 
 So McNally's position leaves something to be desired. Why is Proudhon's
 opposition to trade unions and strikes is an example _"anarchist doctrine"_
@@ -2292,9 +2300,9 @@ Moreover, as Daniel Guérin notes _"[m]any of these masters were not anarchists
 throughout their lives and their complete works include passages which have
 nothing to do with anarchism."_ Bakunin, for example, was only an anarchist
 from around 1864 to his death in 1876 while _"in the second part of his career
-Proudhon's thinking took a conservative turn"_. [**Anarchism**, p. 6] As such,
-the positions McNally, rightly, attacks (once his errors are corrected!) are
-clearly _"quirks of personality"_ rather than somehow _"rooted in the very
+Proudhon's thinking took a conservative turn"_. [ **Anarchism** , p. 6] As
+such, the positions McNally, rightly, attacks (once his errors are corrected!)
+are clearly _"quirks of personality"_ rather than somehow _"rooted in the very
 nature of anarchist doctrine."_ This can be seen from the awkward fact that no
 later anarchists advocated them. Not to mention the awkward fact that Marx and
 Engels shared similar views as those McNally attacks Proudhon and Bakunin for
@@ -2311,12 +2319,13 @@ facts, history and the intelligence of their desired audience.
 McNally asserts the following:
 
 > _"Originating in the revolt of small property owners against the
-centralising and collectivising trends in capitalist development (the tendency
-to concentrate production in fewer and fewer large workplaces), anarchism has
-always been rooted in a hostility to democratic and collectivist practices.
-The early anarchists feared the organised power of the modern working class.
-To this day, most anarchists defend the 'liberty' of the private individual
-against the democratically made decisions of collective groups."_
+> centralising and collectivising trends in capitalist development (the
+> tendency to concentrate production in fewer and fewer large workplaces),
+> anarchism has always been rooted in a hostility to democratic and
+> collectivist practices. The early anarchists feared the organised power of
+> the modern working class. To this day, most anarchists defend the 'liberty'
+> of the private individual against the democratically made decisions of
+> collective groups."_
 
 As indicated in [section 3](append31.md#app3), the notion that anarchists
 are against large-scale industry or collective property is simply an
@@ -2328,7 +2337,7 @@ both have remained an key aspect of anarchism ever since. Proudhon put it
 well: _"Large industry and high culture come to us by big monopoly and big
 property: it is necessary in the future to make them rise from the
 association."_ [quoted by [K. Steven Vincent, **Pierre-Joseph Proudhon and the
-Rise of French Republican Socialism**, p. 156] So workers' associations
+Rise of French Republican Socialism** , p. 156] So workers' associations
 running workplaces is at the heart of anarchism, an easy fact to discover if
 you bother to read Proudhon and Bakunin -- as is the fact that Bakunin
 supported revolutionary trade unionism as the means of producing a social
@@ -2344,50 +2353,50 @@ First, however, we need to ask an obvious question: what does "democracy"
 mean? Or, more correctly, what kind of democracy are we talking about? If
 quoting Lenin is not **too** out of place, in a section of his pamphlet **The
 Proletarian Revolution and the Renegade Kautsky** in section entitled _"How
-Kautsky Turned Marx Into A Common Liberal"_, Lenin stated it was _"natural for
-a liberal to speak of 'democracy' in general; but a Marxist will never forget
-to ask: 'for what class?'"_ [**The Lenin Anthology**, p. 465] So the question
-is not whether anarchists support "democracy" or not but what **kind** of
-democracy and for whom. For if McNally is right (and he is) and there are two
-kinds of socialism (one "from above" and one "from below") then there are
-multiple kinds of democracy: centralised and decentralised; unitarian and
-federal, top-down and bottom-up; bourgeois and workers. That is why Proudhon
-talked of the workers democracy (_"Démocratie ouvrière"_) in his last work,
-contrasting it to the democracy (the left-Jacobin bourgeois-republican
-democracy which included the state socialists), but the elements of which he
-had been expounding upon since the 1840s.
+Kautsky Turned Marx Into A Common Liberal"_ , Lenin stated it was _"natural
+for a liberal to speak of 'democracy' in general; but a Marxist will never
+forget to ask: 'for what class?'"_ [ **The Lenin Anthology** , p. 465] So the
+question is not whether anarchists support "democracy" or not but what
+**kind** of democracy and for whom. For if McNally is right (and he is) and
+there are two kinds of socialism (one "from above" and one "from below") then
+there are multiple kinds of democracy: centralised and decentralised;
+unitarian and federal, top-down and bottom-up; bourgeois and workers. That is
+why Proudhon talked of the workers democracy ( _"Démocratie ouvrière"_ ) in
+his last work, contrasting it to the democracy (the left-Jacobin bourgeois-
+republican democracy which included the state socialists), but the elements of
+which he had been expounding upon since the 1840s.
 
 A close reading of Proudhon shows that his main opposition to "democracy" was
 that it was, paradoxically, not democratic enough as it referred to the
 Jacobin notion that the whole nation as one body should elect a government. In
-such a regime _"**the People reigns and does not govern**, which is to deny
-the Revolution."_ [**Property is Theft!**, p. 267] He sought a social
+such a regime _" **the People reigns and does not govern** , which is to deny
+the Revolution."_ [ **Property is Theft!** , p. 267] He sought a social
 organisation in which people had meaningful control over their own lives -- as
 individuals **and** as groups, collectives. This was not possible under a
 centralised democracy and so _"universal suffrage provides us, . . . in an
 embryonic state, with the complete system of future society. If it is reduced
 to the people nominating a few hundred deputies who have no initiative . . .
 social sovereignty becomes a mere fiction and the Revolution is strangled at
-birth."_ [**Selected Writings of Pierre-Joseph Proudhon**, p. 123] Nor was it
-possible as long as workers did not control their work and workplaces. This
+birth."_ [ **Selected Writings of Pierre-Joseph Proudhon** , p. 123] Nor was
+it possible as long as workers did not control their work and workplaces. This
 meant, as discussed in [section 4](append31.md#app4), he argued for a
 decentralised, federal bottom-up system of communal and workplace associations
 based on elected, mandated and recallable delegates:
 
 > _"we are all voters; we can choose the most worthy . . . we can follow them
-step-by-step in their legislative acts and their votes; we will make them
-transmit our arguments and our documents; we will suggest our will to them,
-and when we are discontented, we will recall and dismiss them._
+> step-by-step in their legislative acts and their votes; we will make them
+> transmit our arguments and our documents; we will suggest our will to them,
+> and when we are discontented, we will recall and dismiss them._
 
 > _"The choice of talents, the imperative mandate . . . and permanent
-revocability are the most immediate and incontestable consequences of the
-electoral principle. It is the inevitable program of all democracy._
-[**Property is Theft!**, p. 273]
+> revocability are the most immediate and incontestable consequences of the
+> electoral principle. It is the inevitable program of all democracy._ [
+> **Property is Theft!** , p. 273]
 
 As we noted in [section 5](append31.md#app5), Bakunin had identical ideas on
 the need for a decentralised, federal, bottom-up social organisation based on
 elected, mandated and recallable delegates. Rather than express _"hostility to
-democratic and collectivist practices"_, anarchists have always sought to
+democratic and collectivist practices"_ , anarchists have always sought to
 discover which social forms allow **genuine** democratic and collectivist
 practices to flourish -- a "democracy" which reduces the masses to simply
 picking their masters every few years while workers were employed by bosses
@@ -2399,26 +2408,26 @@ of Proudhon and Bakunin but which McNally fails to mention.
 Anarchists are well aware that support for democratic collectives in the
 workplace and community is a necessary but not sufficient condition for
 individual freedom (to quote McNally, the _"challenge is to restore to
-socialism its democratic essence, its passionate concern with human
-freedom"_). This is because collectives can make bad decisions, the majority
-can -- and does -- act oppressively towards the minority. For example, the
-United States has seen numerous votes on the issue of homosexual rights which
-saw the majority of voters or their representatives reject equality. That the
-majority are against equality for gays does not make it right -- anymore than
-previous majorities against equality for women and blacks were right. If a
-majority vote for a right-wing party which promises to make strikes illegal
-would McNally accept that decision and urge trade unionists to obey the
-democratic decisions of the collectivity? Would a referendum result make it
-any more just and worthy of respect? What if the majority vote to ban the
-teaching of evolution in all schools? And, finally, what if the majority vote
-in favour of authoritarian regimes? This is no idle question, it happened in,
-for example, France in 1851 and 1852 (much to Proudhon's disgust).
+socialism its democratic essence, its passionate concern with human freedom"_
+). This is because collectives can make bad decisions, the majority can -- and
+does -- act oppressively towards the minority. For example, the United States
+has seen numerous votes on the issue of homosexual rights which saw the
+majority of voters or their representatives reject equality. That the majority
+are against equality for gays does not make it right -- anymore than previous
+majorities against equality for women and blacks were right. If a majority
+vote for a right-wing party which promises to make strikes illegal would
+McNally accept that decision and urge trade unionists to obey the democratic
+decisions of the collectivity? Would a referendum result make it any more just
+and worthy of respect? What if the majority vote to ban the teaching of
+evolution in all schools? And, finally, what if the majority vote in favour of
+authoritarian regimes? This is no idle question, it happened in, for example,
+France in 1851 and 1852 (much to Proudhon's disgust).
 
 Perhaps it is not surprising, then, that the right often invoke the _"silent
 majority"_ against the progressive minorities seeking change. The term was
 popularised (though not first used) by U.S. President Richard Nixon in 1969
 when he asked for the support of _"the great silent majority of my fellow
-Americans"_, those who felt threatened by attacks on "traditional values"
+Americans"_ , those who felt threatened by attacks on "traditional values"
 during the 1960s -- the civil rights, women's and peace movements as well as
 student rebellions, the counter-culture, wildcat strikes, and so on. Nixon, it
 should be noted, won a landslide victory in the 1972 Presidential election and
@@ -2448,8 +2457,8 @@ elections, particularly Presidential ones. So democracy can easily mean
 government by the largest minority although, in practice, it means government
 of the few elected by the largest minority of the minority who bother to vote.
 None of which is very democratic and confirms Proudhon's critique that
-_"nothing resembles a monarchy more than a **république unitaire**"_. [quoted
-by Vincent, **Op. Cit.**, p. 211]
+_"nothing resembles a monarchy more than a **république unitaire** "_. [quoted
+by Vincent, **Op. Cit.** , p. 211]
 
 So invoking "democracy" is problematic, given its wide number of uses. At its
 most basic, the majority can be wrong (as can be seen from the numerous
@@ -2466,20 +2475,20 @@ essay _"Revolutionary Minorities"_ in **Words of a Rebel** for further
 discussion). Malatesta put it well:
 
 > _"We do not recognise the right of the majority to impose the law on the
-minority, even if the will of the majority in somewhat complicated issues
-could really be ascertained. The fact of having the majority on one's side
-does not in any way prove that one must be right. Indeed, humanity has always
-advanced through the initiative and efforts of individuals and minorities . .
-. [W]e are even more opposed to domination of the majority by a minority. It
-would be absurd to maintain that one is right because one is in a minority . .
-. [I]t is not a question of being right or wrong; it is a question of freedom,
-freedom for all, freedom for each individual so long as he does not violate
-the equal freedom of others . . . it is necessary that majority and minority
-should succeed in living together peacefully and profitably by mutual
-agreement and compromise, by the intelligent recognition of the practical
-necessities of communal life and of the usefulness of concessions which
-circumstances make necessary."_ [**Errico Malatesta: His Life and Ideas**, p.
-72]
+> minority, even if the will of the majority in somewhat complicated issues
+> could really be ascertained. The fact of having the majority on one's side
+> does not in any way prove that one must be right. Indeed, humanity has
+> always advanced through the initiative and efforts of individuals and
+> minorities . . . [W]e are even more opposed to domination of the majority by
+> a minority. It would be absurd to maintain that one is right because one is
+> in a minority . . . [I]t is not a question of being right or wrong; it is a
+> question of freedom, freedom for all, freedom for each individual so long as
+> he does not violate the equal freedom of others . . . it is necessary that
+> majority and minority should succeed in living together peacefully and
+> profitably by mutual agreement and compromise, by the intelligent
+> recognition of the practical necessities of communal life and of the
+> usefulness of concessions which circumstances make necessary."_ [ **Errico
+> Malatesta: His Life and Ideas** , p. 72]
 
 So, yes, anarchists **do** defend the liberty of individuals to rebel against
 the decisions of collective groups (we should point out that Marxists usually
@@ -2493,26 +2502,26 @@ are in favour of direct democracy in free associations. However, we agree with
 Carole Pateman when she argues:
 
 > _"The essence of liberal social contract theory is that individuals ought to
-promise to, or enter an agreement to, obey representatives, to whom they have
-alienated their right to make political decisions . . . Promising . . . is an
-expression of individual freedom and equality, yet commits individuals for the
-future. Promising also implies that individuals are capable of independent
-judgement and rational deliberation, and of evaluating and changing their own
-actions and relationships; promises may sometimes justifiably be broken.
-However, to promise to obey is to deny or limit, to a greater or lesser
-degree, individuals' freedom and equality and their ability to exercise these
-capacities. To promise to obey is to state that, in certain areas, the person
-making the promise is no longer free to exercise her capacities and decide
-upon her own actions, and is no longer equal, but subordinate."_ [**The
-Problem of Political Obligation**, p. 19]
+> promise to, or enter an agreement to, obey representatives, to whom they
+> have alienated their right to make political decisions . . . Promising . . .
+> is an expression of individual freedom and equality, yet commits individuals
+> for the future. Promising also implies that individuals are capable of
+> independent judgement and rational deliberation, and of evaluating and
+> changing their own actions and relationships; promises may sometimes
+> justifiably be broken. However, to promise to obey is to deny or limit, to a
+> greater or lesser degree, individuals' freedom and equality and their
+> ability to exercise these capacities. To promise to obey is to state that,
+> in certain areas, the person making the promise is no longer free to
+> exercise her capacities and decide upon her own actions, and is no longer
+> equal, but subordinate."_ [ **The Problem of Political Obligation** , p. 19]
 
 She indicates an obvious truth which McNally ignores:
 
 > _"Even if it is impossible to be unjust to myself, I do not vote for myself
-alone, but along with everyone else. Questions about injustice are always
-appropriate in political life, for there is no guarantee that participatory
-voting will actually result in decisions in accord with the principles of
-political morality."_ [**Op. Cit.**, p. 160]
+> alone, but along with everyone else. Questions about injustice are always
+> appropriate in political life, for there is no guarantee that participatory
+> voting will actually result in decisions in accord with the principles of
+> political morality."_ [ **Op. Cit.** , p. 160]
 
 Thus, for anarchists, a democracy which does not involve individual rights to
 dissent, to disagree and to practice civil disobedience would violate freedom
@@ -2569,18 +2578,18 @@ vital initiative of its members."_ This _"turned over the affairs of everybody
 in a lump to a small minority"_ and resulted in _"barren official routine"_
 which _"crushed individual conviction, kills all personal initiative by
 lifeless discipline and bureaucratic ossification and permits no independent
-action."_ [**Anarcho-Syndicalism**, p. 61 and p. 60]
+action."_ [ **Anarcho-Syndicalism** , p. 61 and p. 60]
 
 The anarchist position is clear -- the appropriate group makes the decision.
 Thus federalism allows _"free combination from below upward, putting the right
 of self-determination of every member above everything else and recognising
 only the organic agreement of all on the basis of like interests and common
-convictions."_ [Rocker, **Op. Cit.**, p. 60] Unsurprisingly, then, we discover
-that the most militant British union was that of the miners which had, due to
-syndicalist influence, a decentralised, federal structure based on autonomous
-branches. And, as Rocker notes, while the German unions made no attempt to
-resist the Nazi seizure of power, the anarcho-syndicalist CNT rose in
-insurrection and stopped Franco across two-thirds of Spain in 1936.
+convictions."_ [Rocker, **Op. Cit.** , p. 60] Unsurprisingly, then, we
+discover that the most militant British union was that of the miners which
+had, due to syndicalist influence, a decentralised, federal structure based on
+autonomous branches. And, as Rocker notes, while the German unions made no
+attempt to resist the Nazi seizure of power, the anarcho-syndicalist CNT rose
+in insurrection and stopped Franco across two-thirds of Spain in 1936.
 
 Simply put, Marxism (as McNally presents it here) flies in the face of how
 societies change and develop. New ideas start with individuals and minorities
@@ -2616,11 +2625,11 @@ Social-Democratic representatives in the German Parliament did precisely that,
 refusing to vote against war credits in 1914 in the name of party discipline
 (presumably because, as good Marxists, they thought only _"anarchists defend
 the 'liberty' of the private individual against the democratically made
-decisions of collective groups"_, to use McNally's words). It took until 1915
+decisions of collective groups"_ , to use McNally's words). It took until 1915
 for Karl Liebknecht to do the right thing. If quoting Trotsky is not too out
 of place: _"Do not fear to remain in a minority -- even a minority of one,
-like Liebknecht's one against a hundred and ten"_. [**History of the Russian
-Revolution**, vol. 1, p. 293] Common sense as well as political principle
+like Liebknecht's one against a hundred and ten"_. [ **History of the Russian
+Revolution** , vol. 1, p. 293] Common sense as well as political principle
 indicates that Liebknecht's (belated) defence of socialist internationalism
 against the democratically made decision of the Social-Democratic
 representatives (and wider party) was right -- and his principled dissent
@@ -2635,7 +2644,7 @@ _"by announcing his resignation . . . Lenin obviously wanted to make it
 possible to free himself in case of need from internal discipline of the
 Central Committee"_. This meant the _"withdrawing completely beyond the limits
 of party legality"_ and the threat of resigning gave him _"greater freedom to
-develop his offensive along internal lines."_ [**Op. Cit.**, vol. 3, p. 131]
+develop his offensive along internal lines."_ [ **Op. Cit.** , vol. 3, p. 131]
 Perhaps McNally is of the opinion that a private individual should not ignore
 the democratically made decisions of collective bodies -- unless the
 individual in question is Lenin!
@@ -2681,9 +2690,10 @@ socialism its passionate concern for freedom the way it clear -- anarchism.
 Hence Murray Bookchin's comments:
 
 > _"Here is the nub of the problem [with] . . . Marxism . . . its perspectives
-are orientated not towards concrete, existential freedom, but towards an
-abstract freedom -- freedom for 'Society', for the 'Proletariat', for
-**categories** rather than for people."_ [**Post Scarcity Anarchism**, p. 148]
+> are orientated not towards concrete, existential freedom, but towards an
+> abstract freedom -- freedom for 'Society', for the 'Proletariat', for
+> **categories** rather than for people."_ [ **Post Scarcity Anarchism** , p.
+> 148]
 
 Anarchism, on the other hand, favours freedom for people and that implies two
 things -- individual freedom and self-management (direct democracy) in free
@@ -2725,16 +2735,17 @@ democratically determine the policies they will support."_
 
 It is perhaps understandable that McNally fails to provide a reference for
 Woodcock's quote given that the two parts come from different chapters of the
-pamphlet **Anarchy or Chaos**. The first part (_"Even were democracy possible,
-the anarchist would still not support it"_) appears in chapter 3 on page 20
-while the second (_"Anarchists do not advocate political freedom. What they
-advocate is freedom from politics"_) comes from chapter 15, page 108. In other
-words, McNally skips most of the pamphlet and ignores such trivial discussions
-as anarchist support for organisation and so collective decision making, the
-links between anarchism and syndicalism (including a chapter explaining
-syndicalist ideas), revolutionary anarchist support for collective property in
-the means of production and products (libertarian communism) as well as what
-was meant by _"political freedom"_ and _"democracy"_.
+pamphlet **Anarchy or Chaos**. The first part ( _"Even were democracy
+possible, the anarchist would still not support it"_ ) appears in chapter 3 on
+page 20 while the second ( _"Anarchists do not advocate political freedom.
+What they advocate is freedom from politics"_ ) comes from chapter 15, page
+108. In other words, McNally skips most of the pamphlet and ignores such
+trivial discussions as anarchist support for organisation and so collective
+decision making, the links between anarchism and syndicalism (including a
+chapter explaining syndicalist ideas), revolutionary anarchist support for
+collective property in the means of production and products (libertarian
+communism) as well as what was meant by _"political freedom"_ and
+_"democracy"_.
 
 It is useful, then, to present what Woodcock **actually** argued in order to
 understand what anarchism stands for. First, it should be stressed that
@@ -2750,8 +2761,8 @@ the semi-official persecution of the unmarried mother and the bastard child,
 protect the institution of the family"_. Thus _"laws protecting the state [or
 the wishes of the majority] find their way into every sphere of life, and
 involve the prohibition of activities that, at first consideration, would
-appear to have no bearing on the social structure."_ [**Op. Cit.**, p. 20 and
-p. 107]
+appear to have no bearing on the social structure."_ [ **Op. Cit.** , p. 20
+and p. 107]
 
 So it is essential to remember that democracy and freedom need not go hand-in-
 hand -- majorities can, and do, restrict the freedom of individuals in
@@ -2764,48 +2775,50 @@ good of the majority, but the good of all."_ He also notes that in so-called
 democracies it is usually the handful of people who make up the
 "democratically elected" government who make the decisions and so it is _"not
 even of the majority [who rule] but of the privileged few who forms its ruling
-class"_. [**Op. Cit.**, p. 20] This awareness informs his comments on
+class"_. [ **Op. Cit.** , p. 20] This awareness informs his comments on
 political freedom which McNally shamefully ignores:
 
 > _"Political freedom the right to vote, trial by jury, freedom of speech and
-press -- does not constitute real freedom. Indeed it masks the unfree nature
-of the society from which it springs. The right to vote means the right to
-choose whether one will have a brewer or a lawyer for a master. It does not
-mean the right to do without a master. Trial by jury means the right to be
-judged by a handful of petty tradesmen, in accordance with the laws of a
-society based on property and class . . . Political freedom in a class society
-is virtually meaningless . . . it is strictly limited in the interests of the
-controlling class, and its availability is in relation to the class and
-economic position of the man concerned . . . Democratic freedoms, then, are
-relative to wealth. But this is not the full measure of the relationship. In
-reality the rich enjoy a far greater freedom than that . . . In a class
-society the ruling class are always free owing to their control of the means
-of production, of the money that in an acquisitive society is the way to all
-enjoyment. The ruled are not free because lack of control of production, and
-the benefits of money, liberal education, etc., proceeding there from . . .
-Moreover, political freedom in a class society (and all political societies
-are by definition class societies), is relative to the security of that
-society. The ruling class give just so much political freedom as it is
-worthwhile and possible to give to keep the people out of mischief . . .
-Political freedom, at its best, can only be limited, as it maintains the power
-of property, which, by conferring the right of exploitation, limits the
-freedom of the exploited, who are the majority of the population . . ._
+> press -- does not constitute real freedom. Indeed it masks the unfree nature
+> of the society from which it springs. The right to vote means the right to
+> choose whether one will have a brewer or a lawyer for a master. It does not
+> mean the right to do without a master. Trial by jury means the right to be
+> judged by a handful of petty tradesmen, in accordance with the laws of a
+> society based on property and class . . . Political freedom in a class
+> society is virtually meaningless . . . it is strictly limited in the
+> interests of the controlling class, and its availability is in relation to
+> the class and economic position of the man concerned . . . Democratic
+> freedoms, then, are relative to wealth. But this is not the full measure of
+> the relationship. In reality the rich enjoy a far greater freedom than that
+> . . . In a class society the ruling class are always free owing to their
+> control of the means of production, of the money that in an acquisitive
+> society is the way to all enjoyment. The ruled are not free because lack of
+> control of production, and the benefits of money, liberal education, etc.,
+> proceeding there from . . . Moreover, political freedom in a class society
+> (and all political societies are by definition class societies), is relative
+> to the security of that society. The ruling class give just so much
+> political freedom as it is worthwhile and possible to give to keep the
+> people out of mischief . . . Political freedom, at its best, can only be
+> limited, as it maintains the power of property, which, by conferring the
+> right of exploitation, limits the freedom of the exploited, who are the
+> majority of the population . . ._
 
 > _"Political freedom is thus, in fact, an ingenious delusion, by which the
-governing classes give the people the comforting belief that they themselves
-have made the chains that bind them and that for this reason the chains are
-necessary and good. It gives men certain liberties that the ruling classes
-find it wise to concede as a cheap way of buying security, but its very
-retention of a political system, which means government, which means coercion,
-must in the end destroy political freedom itself._
+> governing classes give the people the comforting belief that they themselves
+> have made the chains that bind them and that for this reason the chains are
+> necessary and good. It gives men certain liberties that the ruling classes
+> find it wise to concede as a cheap way of buying security, but its very
+> retention of a political system, which means government, which means
+> coercion, must in the end destroy political freedom itself._
 
 > _"Anarchists do not advocate political freedom. What they advocate is
-freedom from politics, freedom from the institution of government, freedom
-from coercion, freedom from the law's interference in the lives of individual
-men and women, freedom from economic domination and inequality . . . Only a
-society based on control from above has need of coercion. A society based on
-co-operation can do without oppression and restriction because it is based on
-the voluntary agreement between its members."_ [**Op. Cit.** pp. 105-8]
+> freedom from politics, freedom from the institution of government, freedom
+> from coercion, freedom from the law's interference in the lives of
+> individual men and women, freedom from economic domination and inequality .
+> . . Only a society based on control from above has need of coercion. A
+> society based on co-operation can do without oppression and restriction
+> because it is based on the voluntary agreement between its members."_ [
+> **Op. Cit.** pp. 105-8]
 
 Ultimately, if you define political freedom as the freedom to elect a
 government then, obviously, anarchists do not aim for it because we aim to end
@@ -2819,21 +2832,21 @@ anarchists contend that absolute individual freedom is possible, or, indeed,
 desirable . . . man is a social being, depending for his well-being on working
 and living together in society . . . The freedom anarchists seek, then, is a
 reciprocal freedom, a freedom of men and women recognising each other's
-rights, a freedom based on justice."_ [**Op. Cit.**, p. 105] Therefore:
+rights, a freedom based on justice."_ [ **Op. Cit.** , p. 105] Therefore:
 
 > _"Anarchism . . . is based on the concepts of freedom and justice, justice
-being that reciprocity of freedom without which no real individual freedom is
-possible. The social principles that follow from these concepts are mutual
-aid, or co-operation, and communism, or common ownership of the means of
-production . . . In the anarchist view these principles are expressed
-concretely in the administration of economic and functional affairs by
-voluntary associations of the workers for the purpose of running the factories
-and the farms and providing the necessary social services such as posts,
-drainage, roads, etc. Each industry would be administered by its own workers
-who are the most competent people for that purpose . . . who, having expert
-knowledge of their professions, are obviously better fitted to do this than
-politicians chosen according to the methods of parliamentary democracy."_
-[**Op. Cit.**, p. 91]
+> being that reciprocity of freedom without which no real individual freedom
+> is possible. The social principles that follow from these concepts are
+> mutual aid, or co-operation, and communism, or common ownership of the means
+> of production . . . In the anarchist view these principles are expressed
+> concretely in the administration of economic and functional affairs by
+> voluntary associations of the workers for the purpose of running the
+> factories and the farms and providing the necessary social services such as
+> posts, drainage, roads, etc. Each industry would be administered by its own
+> workers who are the most competent people for that purpose . . . who, having
+> expert knowledge of their professions, are obviously better fitted to do
+> this than politicians chosen according to the methods of parliamentary
+> democracy."_ [ **Op. Cit.** , p. 91]
 
 The means used to create such a society would be _"prosecuting the economic
 struggle . . . an organisation on an economic basis which will embrace all the
@@ -2842,7 +2855,7 @@ workers, according to their industries and workplaces . . . The syndicate
 contain[s] the germ of the functional organisation upon which the new society
 can be built after the revolution."_. Anarchists wish _"that the people
 themselves take their destiny into their own hands and carry through the
-social revolution."_ [**Op. Cit.**, p. 89]
+social revolution."_ [ **Op. Cit.** , p. 89]
 
 All of which, to state the obvious, is at odds with McNally's claims about
 anarchism.
@@ -2870,13 +2883,13 @@ Marxists usually claim that they seek a society similar to that anarchists
 seek but have different means to achieve it. In the words of Marx:
 
 > _"What all socialists understand by anarchy is this: once the aim of the
-proletarian movement, the abolition of classes, has been attained, the power
-of the State . . . disappears, and the functions of government are transformed
-into simple administrative functions."_ [Marx, Engels and Lenin, **Anarchism
-and Anarcho-Syndicalism**, p. 76]
+> proletarian movement, the abolition of classes, has been attained, the power
+> of the State . . . disappears, and the functions of government are
+> transformed into simple administrative functions."_ [Marx, Engels and Lenin,
+> **Anarchism and Anarcho-Syndicalism** , p. 76]
 
 Or, as the **Communist Manifesto** put it, _"the free development of each is
-the condition for the free development of all"_ [**The Marx-Engels Reader**,
+the condition for the free development of all"_ [ **The Marx-Engels Reader** ,
 p. 491] So, Marxists and anarchists seek the same society, one of individual
 freedom which means that McNally's comments about anarchism also apply (once
 the state "withers away", which it never will) to Marxism. But, of course,
@@ -2905,22 +2918,23 @@ corresponds to Marxism"_ was expounded by Plekhanov (the father of Russian
 Marxism) at the Second Congress of the Russian Social Democratic Party in
 1903, namely _"in the revolution the proletariat would, if necessary,
 disenfranchise the capitalists and **disperse any parliament** that was found
-to be counter-revolutionary."_ [**Collected Works**, vol. 28, p. 280] Which
+to be counter-revolutionary."_ [ **Collected Works** , vol. 28, p. 280] Which
 raises the obvious question, found to be counter-revolutionary by whom? The
-proletariat? No, according to Plekhanov it was **the party**:
+proletariat? No, according to Plekhanov it was **the party** :
 
 > _"Every democratic principle must be considered not by itself, abstractly,
-but in relation to . . . the success of the revolution [as this] is the
-highest law. And if the success of the revolution demands a temporary
-limitation on the working of this or that democratic principle, then it would
-be criminal to refrain from such a limitation . . . the principle of universal
-suffrage must be considered from the point of view of what I have designated
-the fundamental principle of democracy. It is hypothetically possible that we
-might . . . speak out against universal suffrage . . . If in a burst of
-revolutionary enthusiasm the people chose a very fine parliament then we would
-be bound to make it a **long parliament**; and if the elections turned out
-unsuccessfully, then we would have to try to disperse it._ [quoted by Samuel
-H. Baron, **Plekhanov: The Father of Russian Marxism**, p. 242]
+> but in relation to . . . the success of the revolution [as this] is the
+> highest law. And if the success of the revolution demands a temporary
+> limitation on the working of this or that democratic principle, then it
+> would be criminal to refrain from such a limitation . . . the principle of
+> universal suffrage must be considered from the point of view of what I have
+> designated the fundamental principle of democracy. It is hypothetically
+> possible that we might . . . speak out against universal suffrage . . . If
+> in a burst of revolutionary enthusiasm the people chose a very fine
+> parliament then we would be bound to make it a **long parliament** ; and if
+> the elections turned out unsuccessfully, then we would have to try to
+> disperse it._ [quoted by Samuel H. Baron, **Plekhanov: The Father of Russian
+> Marxism** , p. 242]
 
 As we will discover, the dispersing of elected bodies by the party was not
 limited to bourgeois Parliaments: soviets were also subject to this policy.
@@ -2928,8 +2942,8 @@ Perhaps this is unsurprising, given that before seizing power Lenin had
 repeatedly equated the power of the Bolsheviks with that of the proletariat.
 Thus _"Bolshevik power"_ was _"one and the same thing"_ as _"proletarian
 revolutionary power"_ and so the Second All-Russian Congress _"gave a majority
-to the Bolshevik Party and put it in power."_ [**The Lenin Anthology**, p. 413
-and p. 419] While problematic (it substitutes the party for the class), it
+to the Bolshevik Party and put it in power."_ [ **The Lenin Anthology** , p.
+413 and p. 419] While problematic (it substitutes the party for the class), it
 could be argued that as the party was supported by the majority of workers
 (but not peasants) then the Bolshevik government was democratic. Which is
 true, in the limited bourgeois sense. The question is what would happen if the
@@ -2944,7 +2958,7 @@ demanding **equal** suffrage (both in the Soviets and at trade union
 congresses), branding the slightest departure from equality as a **fraud** . .
 . We cannot tolerate a **fraud** of democracy if we call ourselves
 'democrats'. We are not democrats but unprincipled people if we tolerate
-this!!"_ [**Collected Works**, vol. 25, p. 304] After winning around 25% of
+this!!"_ [ **Collected Works** , vol. 25, p. 304] After winning around 25% of
 the votes in the elections to the Constituent Assembly he was happy with a
 Soviet Constitution which saw the All-Russian Congress of Soviets being
 composed of representatives of urban soviets (one delegate for 25,000 voters)
@@ -2970,39 +2984,40 @@ and in those cases Bolshevik Military Revolutionary Councils ensured _"the
 soviets were disbanded by armed force or the opposition delegates were
 **expelled** as 'counter-revolutionaries' from the soviets"_ (although
 _"Bolshevik investigators themselves could not succeed in implicating even one
-Menshevik in the conspiracy trials"_). The disbanding of soviets was _"applied
-to the **uzed** congresses of peasant soviets."_ [_"Iulii Martov's Letter to
-A.N. Stein"_, pp. 78-82, **The Structure of Soviet History**, Ronald Grigor
-Suny (ed.), p. 78] Martov gave amongst many the example of Tula and a leading
-Bolshevik there informed his Party's Central Committee in early 1918 about the
-means being used there:
+Menshevik in the conspiracy trials"_ ). The disbanding of soviets was
+_"applied to the **uzed** congresses of peasant soviets."_ [ _"Iulii Martov's
+Letter to A.N. Stein"_ , pp. 78-82, **The Structure of Soviet History** ,
+Ronald Grigor Suny (ed.), p. 78] Martov gave amongst many the example of Tula
+and a leading Bolshevik there informed his Party's Central Committee in early
+1918 about the means being used there:
 
 > _"After the transfer of power to the soviet, a rapid about-face began in the
-mood of the workers. The Bolshevik deputies began to be recalled one after
-another, and soon the general situation took on a rather unhappy appearance.
-Despite the fact that there was a schism among the SRs, and the Left SRs were
-with us, our situation became shakier with each passing day. We were forced to
-block new elections to the soviet and even not to recognise them where they
-had taken place not in our favour."_ [quoted by Scott Smith, _"The Socialists-
-Revolutionaries and the Dilemma of Civil War"_, pp. 83-104, **The Bolsheviks
-In Russian Society**, Vladimir N. Brovkin (ed.), p. 87]
+> mood of the workers. The Bolshevik deputies began to be recalled one after
+> another, and soon the general situation took on a rather unhappy appearance.
+> Despite the fact that there was a schism among the SRs, and the Left SRs
+> were with us, our situation became shakier with each passing day. We were
+> forced to block new elections to the soviet and even not to recognise them
+> where they had taken place not in our favour."_ [quoted by Scott Smith,
+> _"The Socialists-Revolutionaries and the Dilemma of Civil War"_ , pp.
+> 83-104, **The Bolsheviks In Russian Society** , Vladimir N. Brovkin (ed.),
+> p. 87]
 
 _"The sum of this evidence from around the country,"_ summarises one
 historian, _"makes clear that the majority of Russian workers were hostile to
 the Bolsheviks by the spring of 1918 . . . the Bolsheviks simply dissolved
 opposition-controlled soviets, disregarded workers' opinions, and cracked down
 brutally on such manifestations of discontent as strikes."_ [Smith, **Op.
-Cit.**, p. 94] This meant disbanding soviets which were elected with the wrong
-majority and so in response to the _"great Bolshevik losses in the soviet
-elections"_ during the spring and summer of 1918 _"Bolshevik armed force
-usually overthrew the results of these provincial elections."_ For example, in
-the city of Izhevsk in _"the May election [to the soviet] the Mensheviks and
-SRs won a majority"_ and the following month _"these two parties also won a
-majority of the executive committee of the soviet. At this point, the local
-Bolshevik leadership refused to give up power"_ and by the use of the military
-_"abrogated the results of the May and June elections and arrested the SR and
-Menshevik members of the soviet and its executive committee."_ [Samuel Farber,
-**Before Stalinism**, pp. 23-4]
+Cit.** , p. 94] This meant disbanding soviets which were elected with the
+wrong majority and so in response to the _"great Bolshevik losses in the
+soviet elections"_ during the spring and summer of 1918 _"Bolshevik armed
+force usually overthrew the results of these provincial elections."_ For
+example, in the city of Izhevsk in _"the May election [to the soviet] the
+Mensheviks and SRs won a majority"_ and the following month _"these two
+parties also won a majority of the executive committee of the soviet. At this
+point, the local Bolshevik leadership refused to give up power"_ and by the
+use of the military _"abrogated the results of the May and June elections and
+arrested the SR and Menshevik members of the soviet and its executive
+committee."_ [Samuel Farber, **Before Stalinism** , pp. 23-4]
 
 As we summarise in [section H.6.1](secH6.md#sech61), the Bolsheviks applied
 many tactics to secure their power: soviet elections were delayed, the soviets
@@ -3019,18 +3034,18 @@ commission."_ Without these dubious delegates, the Left SRs and SR Maximalists
 would have outnumbered the Bolsheviks by around 30 delegates. This ensured
 _"the Bolshevik's successful fabrication of a large majority in the Fifth All-
 Russian Congress of Soviets."_ [Alexander Rabinowitch, **The Bolsheviks in
-Power**, p. 396, p. 288, p. 442 and p. 308]
+Power** , p. 396, p. 288, p. 442 and p. 308]
 
 This was reflected in Lenin's 1917 argument that the _"Bolsheviks have no
 right to await the Congress of Soviets. They ought to seize the power **right
-now**"_ [quoted by Trotsky, **The History of the Russian Revolution**, vol. 3,
-pp. 132-2] The important thing was party power and the soviets were seen as
+now** "_ [quoted by Trotsky, **The History of the Russian Revolution** , vol.
+3, pp. 132-2] The important thing was party power and the soviets were seen as
 only a means to that end and so perhaps their fate once the Bolsheviks had
 reached their goal is unsurprising. Hence we see Lenin, in his polemic against
 Kautsky, pointing with no apparent concerns to the fact that _"97 per cent of
 the total number of delegates [to the Sixth All-Russian Soviet Congress] were
-Bolsheviks"_ as an example of his party's popular support! [**Collected
-Works**, vol. 28, p. 303] It should be noted that the delegates to the
+Bolsheviks"_ as an example of his party's popular support! [ **Collected
+Works** , vol. 28, p. 303] It should be noted that the delegates to the
 congress were elected not by workers and peasants but rather by the
 appropriate soviet body below it. In other words, Bolshevik gerrymandered and
 packed soviets elected Bolsheviks to the national congress.
@@ -3040,34 +3055,34 @@ started to change. By the end of 1918 the necessity of party dictatorship
 started to appear in party material and, as Victor Serge noted in the 1930s,
 _"the degeneration of Bolshevism"_ was apparent by that time _"since at the
 start of 1919 I was horrified to read an article by Zinoviev . . . on the
-monopoly of the party in power"_. [**The Serge-Trotsky Papers**, p. 188] It
+monopoly of the party in power"_. [ **The Serge-Trotsky Papers** , p. 188] It
 must be stressed that Serge's horror was well hidden and, as noted in [section
 H.1.2](secH1.md#sech12) he joined the Bolsheviks and publicly defended this
 monopoly of power as a necessity of revolution. Lenin admitted the reality in
 1919:
 
 > _"When we are reproached with having established a dictatorship of one party
-and . . . . a united Socialist front is proposed, we say, 'Yes, it is a
-dictatorship of one party! This is what we stand for and we shall not shift
-from that position . . .'"_ [**Op. Cit.**, vol. 29, p. 535]
+> and . . . . a united Socialist front is proposed, we say, 'Yes, it is a
+> dictatorship of one party! This is what we stand for and we shall not shift
+> from that position . . .'"_ [ **Op. Cit.** , vol. 29, p. 535]
 
 Not only did the Bolsheviks not shift from that position, they recommended
 this position to the world revolutionary movement at the Second Congress of
 the Second International in 1920. In the words of Zinoviev:
 
 > _"Today, people like Kautsky come along and say that in Russia you do not
-have the dictatorship of the working class but the dictatorship of the party.
-They think this is a reproach against us. Not in the least! We have a
-dictatorship of the working class and that is precisely why we also have a
-dictatorship of the Communist Party. The dictatorship of the Communist Party
-is only a function, an attribute, an expression of the dictatorship of the
-working class . . . the dictatorship of the proletariat is at the same time
-the dictatorship of the Communist Party."_ [**Proceedings and Documents of the
-Second Congress 1920**, vol. 1, pp. 151-2]
+> have the dictatorship of the working class but the dictatorship of the
+> party. They think this is a reproach against us. Not in the least! We have a
+> dictatorship of the working class and that is precisely why we also have a
+> dictatorship of the Communist Party. The dictatorship of the Communist Party
+> is only a function, an attribute, an expression of the dictatorship of the
+> working class . . . the dictatorship of the proletariat is at the same time
+> the dictatorship of the Communist Party."_ [ **Proceedings and Documents of
+> the Second Congress 1920** , vol. 1, pp. 151-2]
 
 _"We must have a state organisation"_ he argued, _"and only the party can
 direct it, because a state political organisation is one that encompasses the
-best working-class elements of the entire country."_ [**Op. Cit.**, p. 154]
+best working-class elements of the entire country."_ [ **Op. Cit.** , p. 154]
 Elsewhere that year he argued that _"soviet rule in Russia could not have been
 maintained for three years -- not even three weeks -- without the iron
 dictatorship of the Communist Party. Any class conscious worker must
@@ -3079,46 +3094,47 @@ depends absolutely, are decided in Russia before all other matters and mostly
 in the framework of the party organisations . . . Control by the party over
 soviet organs, over the trade unions, is the single durable guarantee that any
 measures taken will serve not special interests, but the interests of the
-entire proletariat."_ [quoted by Oskar Anweiler, **The Soviets**, pp. 239-40]
+entire proletariat."_ [quoted by Oskar Anweiler, **The Soviets** , pp. 239-40]
 In short: _"The chief conclusion of the proletarian revolution is the need for
 an iron, organised and monolithic Party."_ [Zinoviev, quoted by Robert
-Service, **The Bolshevik Party in Revolution**, p. 144] Lenin dismissed the
+Service, **The Bolshevik Party in Revolution** , p. 144] Lenin dismissed the
 notion that workers could govern themselves:
 
 > _"In the transition to socialism the dictatorship of the proletariat is
-inevitable, but it is not exercised by an organisation which takes in all
-industrial workers . . . What happens is that the Party, shall we say, absorbs
-the vanguard of the proletariat, and this vanguard exercises the dictatorship
-of the proletariat . . . the dictatorship of the proletariat cannot be
-exercised through an organisation embracing the whole of the class, because in
-all capitalist countries (and not only over here, in one of the most backward)
-the proletariat is still so divided, so degraded, and so corrupted in parts .
-. . that an organisation taking in the whole proletariat cannot directly
-exercise proletarian dictatorship. It can be exercised only by a vanguard . .
-. Such is the basic mechanism of the dictatorship of the proletariat, and the
-essentials of transition from capitalism to communism . . . for the
-dictatorship of the proletariat cannot be exercised by a mass proletarian
-organisation."_ [**Collected Works**, vol. 32, pp. 20-1]
+> inevitable, but it is not exercised by an organisation which takes in all
+> industrial workers . . . What happens is that the Party, shall we say,
+> absorbs the vanguard of the proletariat, and this vanguard exercises the
+> dictatorship of the proletariat . . . the dictatorship of the proletariat
+> cannot be exercised through an organisation embracing the whole of the
+> class, because in all capitalist countries (and not only over here, in one
+> of the most backward) the proletariat is still so divided, so degraded, and
+> so corrupted in parts . . . that an organisation taking in the whole
+> proletariat cannot directly exercise proletarian dictatorship. It can be
+> exercised only by a vanguard . . . Such is the basic mechanism of the
+> dictatorship of the proletariat, and the essentials of transition from
+> capitalism to communism . . . for the dictatorship of the proletariat cannot
+> be exercised by a mass proletarian organisation."_ [ **Collected Works** ,
+> vol. 32, pp. 20-1]
 
 This, of course, did not stop the Bolsheviks also claiming their regime was
 far more democratic than any other. In 1920, Zinoviev as head of the Communist
-International wrote a letter to the **Industrial Workers of the World**, a
+International wrote a letter to the **Industrial Workers of the World** , a
 revolutionary labour union, which stated that the _"Russian Soviet Republic .
 . . is the most highly centralised government that exists. It is also the most
 democratic government in history. For all the organs of government are in
 constant touch with the working masses, and constantly sensitive to their
-will."_ [**Proceedings and Documents of the Second Congress 1920**, vol. 2, p.
-928] Lenin, in his diatribe against Left-Wing Communism made a similar claim
-and proclaimed the soviets _"**democratic** institutions, the like of which
-even the best democratic republics of the bourgeois have never known"_ while
-also suggesting that it was _"ridiculously absurd, and stupid"_ to make _"a
-contrast, **in general**, between the dictatorship of the masses and the
+will."_ [ **Proceedings and Documents of the Second Congress 1920** , vol. 2,
+p. 928] Lenin, in his diatribe against Left-Wing Communism made a similar
+claim and proclaimed the soviets _" **democratic** institutions, the like of
+which even the best democratic republics of the bourgeois have never known"_
+while also suggesting that it was _"ridiculously absurd, and stupid"_ to make
+_"a contrast, **in general** , between the dictatorship of the masses and the
 dictatorship of the leaders."_ He also pointed to _"non-Party workers' and
 peasants' conferences"_ as means by which the party secured its rule and so
 the Bolsheviks would have to _"support, develop and extend"_ non-Party
 conferences _"to be able to observe the temper of the masses, come closer to
-them, meet their requirements, promote the best among them to state posts"_.
-[**The Lenin Anthology**, p. 573] Yet **if** the soviets were so democratic,
+them, meet their requirements, promote the best among them to state posts"_. [
+**The Lenin Anthology** , p. 573] Yet **if** the soviets were so democratic,
 then why were the non-Party Congresses needed at all? Perhaps because _"the
 dictatorship of the leaders"_ is **not** the same as _"dictatorship of the
 masses"_ and so the Soviets were irrelevant due to the party dictatorship?
@@ -3127,40 +3143,41 @@ Perhaps unsurprisingly given the fate of the soviets in 1918, the Bolsheviks
 disbanded these "non-Party" conferences because _"[d]uring the disturbances"_
 of late 1920, _"they provided an effective platform for criticism of Bolshevik
 policies."_ Their frequency was decreased and they _"were discontinued soon
-afterward."_ [Richard Sakwa, **Soviet Communists in Power**, p. 203] Lenin
+afterward."_ [Richard Sakwa, **Soviet Communists in Power** , p. 203] Lenin
 summarised the reasons for this policy:
 
 > _"Non-Party conferences are not a fetish. They are valuable if they help us
-to come closer to the impassive masses -- the millions of working people still
-outside politics. They are harmful if they provide a platform for the
-Mensheviks and Socialist Revolutionaries masquerading as 'non-party' men. They
-are helping the mutinies, and the whiteguards. The place for Mensheviks and
-Socialist-Revolutionaries, avowed or in non-party guise, is not at a non-Party
-conference but in prison . . . We can and must find other methods of testing
-the mood of the masses and coming closer to them. We suggest that those who
-want to play the parliamentary, constituent assembly and non-Party conference
-game, should go abroad . . . "_ [**Op. Cit.**, vol. 32, p. 362]
+> to come closer to the impassive masses -- the millions of working people
+> still outside politics. They are harmful if they provide a platform for the
+> Mensheviks and Socialist Revolutionaries masquerading as 'non-party' men.
+> They are helping the mutinies, and the whiteguards. The place for Mensheviks
+> and Socialist-Revolutionaries, avowed or in non-party guise, is not at a
+> non-Party conference but in prison . . . We can and must find other methods
+> of testing the mood of the masses and coming closer to them. We suggest that
+> those who want to play the parliamentary, constituent assembly and non-Party
+> conference game, should go abroad . . . "_ [ **Op. Cit.** , vol. 32, p. 362]
 
 In other words, the conferences were used by the proletariat to express its
 opinions and these were found to be lacking in the eyes of its vanguard. Like
 soviet democracy, they threatened the rule of the party and as Lenin suggested
 in 1920 _"[w]hoever brings about even the slightest weakening of the iron
 discipline of the party of the proletariat (especially during its
-dictatorship) is actually aiding the bourgeoisie against the proletariat."_
-[**The Lenin Anthology**, p. 570] So any conflict between the vanguard and the
+dictatorship) is actually aiding the bourgeoisie against the proletariat."_ [
+**The Lenin Anthology** , p. 570] So any conflict between the vanguard and the
 proletariat would, by this logic, necessitates the victory of the former over
 the latter -- in the latter's interests, of course. As Trotsky put it in 1921:
 
 > _"The Workers' Opposition has come out with dangerous slogans, making a
-fetish of democratic principles! They place the workers' right to elect
-representatives above the Party, as if the party were not entitled to assert
-its dictatorship even if that dictatorship temporarily clashed with the
-passing moods of the workers' democracy. It is necessary to create amongst us
-the awareness of the revolutionary birthright of the party, which is obliged
-to maintain its dictatorship, regardless of temporary wavering even in the
-working classes. This awareness is for us the indispensable element. The
-dictatorship does not base itself at every given moment on the formal
-principle of a workers' democracy."_ [quoted by Farber, **Op. Cit.**, p. 209]
+> fetish of democratic principles! They place the workers' right to elect
+> representatives above the Party, as if the party were not entitled to assert
+> its dictatorship even if that dictatorship temporarily clashed with the
+> passing moods of the workers' democracy. It is necessary to create amongst
+> us the awareness of the revolutionary birthright of the party, which is
+> obliged to maintain its dictatorship, regardless of temporary wavering even
+> in the working classes. This awareness is for us the indispensable element.
+> The dictatorship does not base itself at every given moment on the formal
+> principle of a workers' democracy."_ [quoted by Farber, **Op. Cit.** , p.
+> 209]
 
 So, politically, the Bolsheviks systematically disbanded democratic
 institutions -- whether bourgeois (the Constituent Assembly) or proletarian
@@ -3175,25 +3192,25 @@ vacillations which, with the slightest weakness in the vanguard, could turn
 into an unprecedented defeat for the proletariat."_ Vacillations, of course,
 are expressed by workers' democracy. Little wonder the statement rejects it:
 _"The dictatorship of the working class finds its expression in the
-dictatorship of the party."_ [_"To the Workers of the USSR"_ in G. Zinoviev,
-**History of the Bolshevik Party**, p. 213 and p. 214]
+dictatorship of the party."_ [ _"To the Workers of the USSR"_ in G. Zinoviev,
+**History of the Bolshevik Party** , p. 213 and p. 214]
 
 Bolshevik authoritarianism, needless to say, was not limited to the political
-regime. In the workplace, they replaced workers' economic democracy with _
-"one-man management"_ selected from above, by the state. These _"individual
+regime. In the workplace, they replaced workers' economic democracy with
+_"one-man management"_ selected from above, by the state. These _"individual
 executives"_ would have _"dictatorial powers (or 'unlimited' powers)"_ as
-there was _"absolutely **no** contradiction in principle between Soviet
-(**that is**, socialist) democracy and the exercise of dictatorial powers by
+there was _"absolutely **no** contradiction in principle between Soviet (
+**that is** , socialist) democracy and the exercise of dictatorial powers by
 individuals."_ The applied also at the national level for _"our task is to
 study the state capitalism of the Germans, to spare **no effort** in copying
 it and not to shrink from adopting **dictatorial** methods to hasten the
-copying of it."_ [**Collected Works**, vol. 27, p. 267, p. 268 and p. 340] He
-suggested dictatorial power was universal fact of all revolutions:
+copying of it."_ [ **Collected Works** , vol. 27, p. 267, p. 268 and p. 340]
+He suggested dictatorial power was universal fact of all revolutions:
 
 > _"in the history of revolutionary movements the dictatorship of individuals
-was very often the expression, the vehicle, the channel of the dictatorship of
-the revolutionary classes has been shown by the irrefutable experience of
-history."_ [**Op. Cit.**, p. 267]
+> was very often the expression, the vehicle, the channel of the dictatorship
+> of the revolutionary classes has been shown by the irrefutable experience of
+> history."_ [ **Op. Cit.** , p. 267]
 
 It is churlish, but essential, to note that previous revolutionary movements
 had transformed one form of class society into another and so we must note, as
@@ -3213,37 +3230,37 @@ transformed private-capitalism into state-capitalism, that is one form of
 class society into another (see [section H.3.13](secH3.md#h313)). After the
 end of the Civil War Lenin summarised his position: _"Industry is
 indispensable, democracy is not. Industrial democracy breeds some utterly
-false ideas."_ [**Op. Cit.**, vol. 32, p. 27]
+false ideas."_ [ **Op. Cit.** , vol. 32, p. 27]
 
 This system of state-appointed "one-man" managers armed with _"dictatorial"_
 powers was not considered as opposed to socialism, as McNally implies. Lenin
 stressed in 1919 that the _"organisation of the communist activity of the
 proletariat and the entire policy of the Communists have new acquired a final,
-lasting form."_ [**Op. Cit.**, vol. 30, p. 144] Moreover, after the end of the
-civil war he combated the idea of workers' control as (rightly!) a syndicalist
-and anarchist deviation within the party at odds with Marxism:
+lasting form."_ [ **Op. Cit.** , vol. 30, p. 144] Moreover, after the end of
+the civil war he combated the idea of workers' control as (rightly!) a
+syndicalist and anarchist deviation within the party at odds with Marxism:
 
 > _"Syndicalism hands over to the mass of non-Party workers . . . the
-management of their industries . . . thereby making the Party superfluous. . .
-Why have a Party, if industrial management is to be appointed . . . by trade
-unions nine-tenths of whose members are non-Party workers?"_ [**Op. Cit.**,
-vol. 32, p. 50]
+> management of their industries . . . thereby making the Party superfluous. .
+> . Why have a Party, if industrial management is to be appointed . . . by
+> trade unions nine-tenths of whose members are non-Party workers?"_ [ **Op.
+> Cit.** , vol. 32, p. 50]
 
 He went so far as to admit that he thought _"the syndicalist deviation"_
 (i.e., giving the proletariat economic democracy, the power to elect their own
 workplace managers and economic conferences) _"leads to the collapse of the
-dictatorship of the proletariat"_. [**Op. Cit.**, p. 86] This was a theme to
+dictatorship of the proletariat"_. [ **Op. Cit.** , p. 86] This was a theme to
 which he repeatedly returned:
 
 > _"Does every worker know how to run the state? . . . this is not true . . .
-If we say that it is not the Party but the trade unions that put up the
-candidates and administrate, it may sound very democratic . . . It will be
-fatal for the dictatorship of the proletariat . . . To govern you need an army
-of steeled revolutionary Communists. We have it, and it is called the Party.
-All this syndicalist nonsense about mandatory nominations of producers must go
-into the wastepaper basket. To proceed on those lines would mean thrusting the
-Party aside and making the dictatorship of the proletariat in Russia
-impossible."_ [**Op. Cit.**, pp. 61-2]
+> If we say that it is not the Party but the trade unions that put up the
+> candidates and administrate, it may sound very democratic . . . It will be
+> fatal for the dictatorship of the proletariat . . . To govern you need an
+> army of steeled revolutionary Communists. We have it, and it is called the
+> Party. All this syndicalist nonsense about mandatory nominations of
+> producers must go into the wastepaper basket. To proceed on those lines
+> would mean thrusting the Party aside and making the dictatorship of the
+> proletariat in Russia impossible."_ [ **Op. Cit.** , pp. 61-2]
 
 In short, the economic relations favoured by the Bolsheviks were identical to
 that of capitalism except that the boss was replaced by a state-appointed
@@ -3254,7 +3271,8 @@ notes Diane Koenker, _"workers faced the same kinds of authoritarian
 management they thought existed only under capitalism."_ The _"overall
 management of industry in 1921 was no more democratic than it had been in
 1914; indeed, it was much more highly centralised, hierarchical, and
-bureaucratic."_ [**Labour Relations in Socialist Russia**, p. 177 and p. 190]
+bureaucratic."_ [ **Labour Relations in Socialist Russia** , p. 177 and p.
+190]
 
 Needless to say, the Bolsheviks also combated independent trade unions with
 the same methods. As one historian summarises, _"Soviets and trade unions with
@@ -3262,8 +3280,8 @@ non-Bolshevik majorities, and there was a definite revival in the electoral
 fortunes of the opposition in the spring of 1918, were dispersed"_ and by the
 _"beginning of 1920 non-Bolshevik controlled trade union organisations no
 longer existed at the national level"_. [Jonathan Aves, _"The Demise of Non-
-Bolshevik Trade Unionism in Moscow: 1920-21"_, pp. 101-33, **Revolutionary
-Russia**, vol. 2, no. 1, pp. 101-2 and p. 103] By the end of 1920, the
+Bolshevik Trade Unionism in Moscow: 1920-21"_ , pp. 101-33, **Revolutionary
+Russia** , vol. 2, no. 1, pp. 101-2 and p. 103] By the end of 1920, the
 Bolsheviks had broken the both Menshevik-influenced printers and anarchist-
 influenced bakers union, with the offices of the former _"occupied by
 soldiers. Eleven members of the [union] board where arrested along with
@@ -3274,7 +3292,7 @@ two years in prison. The disbandment was approved by the plenum of the Moscow
 trade union council"_ which _"also voted to disband the bakers' section. The
 leading anarchist members of the section . . . and . . . an SR Maximalist . .
 . and two other members . . . were barred from office and arrested to stand
-trial."_ [Jonathan Aves, **Workers Against Lenin**, pp. 68-9] In May 1921, to
+trial."_ [Jonathan Aves, **Workers Against Lenin** , pp. 68-9] In May 1921, to
 present another example, the All-Russian Congress of the Metalworkers' Union
 met and the _"Central Committee of the [Communist] Party handed down to the
 Party faction in the union a list of recommended candidates for **union**
@@ -3283,10 +3301,10 @@ Party faction in the union . . . The Central Committee of the Party
 disregarded every one of the votes and appointed a Metalworkers' Committee of
 its own. So much for 'elected and revocable delegates.' Elected by the union
 rank and file and revocable by the Party leadership!"_ [M. Brinton, _"The
-Bolsheviks and Workers' Control"_, **For Workers' Power, **, p. 375] The same
+Bolsheviks and Workers' Control"_ , **For Workers' Power,** , p. 375] The same
 year also saw the Bolshevik disperse provincial trade unions conferences in
 Vologda and Vitebsk _"because they had anti-communist majorities."_ [Aves,
-**Op. Cit.**, p. 176]
+**Op. Cit.** , p. 176]
 
 A similar onslaught by the party against democracy also occurred in the armed
 forces. Trotsky simply abolished the soldier's committees and elected officers
@@ -3297,7 +3315,7 @@ the concurrent push by the Bolsheviks to introduce "one-man" management in
 production, as workplace democracy _"is not the last word in the economic
 constructive work of the proletariat"_. The _"next step must consist in self-
 limitation of the collegiate principle"_ and its replacement by _"[p]olitical
-collegiate control by the Soviets"_, i.e. the state control Lenin had
+collegiate control by the Soviets"_ , i.e. the state control Lenin had
 repeatedly advocated in 1917. Moreover _"for executive functions we must
 appoint technical specialists."_ He ironically called this the working class
 _"throwing off the one-man management principles of its masters of yesterday"_
@@ -3305,8 +3323,8 @@ and failed to recognise it was imposing the one-man management principles of
 new masters. As with Lenin, the destruction of workers' power at the point of
 production was of little concern for what mattered was that _"with power in
 our hands, we, the representatives of the working class"_ would introduce
-socialism. [_"Work, Discipline, and Order to save the Socialist Soviet
-Republic"_, **How the Revolution Armed**, vol. 1, p. 47, p. 37 and p. 38]
+socialism. [ _"Work, Discipline, and Order to save the Socialist Soviet
+Republic"_ , **How the Revolution Armed** , vol. 1, p. 47, p. 37 and p. 38]
 
 Thus the Bolshevik tradition clearly placed the power of the party above the
 ability of working people to elect their own representatives, managers and
@@ -3338,13 +3356,14 @@ interests of the labouring and peasant masses?"_ And answered no! Yet it is
 obvious that Trotsky's claim that _"there can be no antagonism between the
 government and the mass of the workers, just as there is no antagonism between
 the administration of the union and the general assembly of its members"_ is
-just nonsense. [**Leon Trotsky Speaks**, p. 113] The history of trade unionism
-is full of examples of committees betraying their membership. Needless to say,
-the subsequent history Lenin's government showed that there can be
-_"antagonism"_ between rulers and ruled and that appointments are always a key
-way to further elite interests. Needless to say, the notion that the party
-leaders are _"better able to judge in the matter than"_ has its roots in
-Lenin's vanguardism, as discussed in [section 11](append31.md#app11).
+just nonsense. [ **Leon Trotsky Speaks** , p. 113] The history of trade
+unionism is full of examples of committees betraying their membership.
+Needless to say, the subsequent history Lenin's government showed that there
+can be _"antagonism"_ between rulers and ruled and that appointments are
+always a key way to further elite interests. Needless to say, the notion that
+the party leaders are _"better able to judge in the matter than"_ has its
+roots in Lenin's vanguardism, as discussed in [section
+11](append31.md#app11).
 
 McNally's claim that the working class had been destroyed by the civil war is
 equally flawed and cannot explain the fact that attempts by working class
@@ -3353,7 +3372,7 @@ party. Nor does the notion of a _"disappeared"_ working class make much sense
 when _"in the early part of 1921, a spontaneous strike movement . . . took
 place in the industrial centres of European Russia"_ and strikes involving
 around 43 000 per year took place between 1921 and 1925. [Samuel Farber, **Op.
-Cit.**, p. 188 and p. 88] As we show in [section H.6.3](secH6.md#sech63),
+Cit.** , p. 188 and p. 88] As we show in [section H.6.3](secH6.md#sech63),
 while the number of workers **did** decrease from 1918 to 1921, there remained
 substantial numbers who were able to and did take collective action before,
 during and after the civil war. So rather than there being objective reasons
@@ -3366,7 +3385,7 @@ workers became more and more difficult to ignore, Lenin . . . began to argue
 that the consciousness of the working class had deteriorated . . . workers had
 become 'declassed.'"_ However, there _"is little evidence to suggest that the
 demands that workers made at the end of 1920 . . . represented a fundamental
-change in aspirations since 1917."_ [Aves, **Op. Cit.**, p. 18, p. 90 and p.
+change in aspirations since 1917."_ [Aves, **Op. Cit.** , p. 18, p. 90 and p.
 91]
 
 Also, we must point out a certain duplicity in McNally's comments that
@@ -3380,7 +3399,7 @@ furious, desperate class war and civil war. Not a single great revolution in
 history has taken place without civil war. And only a 'man in a muffler' can
 think that civil war is conceivable without an 'exceptionally complicated
 situation.'"_ _"If the situation were not exceptionally complicated there
-would be no revolution."_ [**Op. Cit.**, vol. 26, pp. 118-9] Thus McNally's
+would be no revolution."_ [ **Op. Cit.** , vol. 26, pp. 118-9] Thus McNally's
 assertion that for _"the germ cell of socialism to grow [in Russia], it
 required several essential ingredients. One was peace. The new workers' state
 could not establish a thriving democracy so long as it was forced to raise an
@@ -3400,17 +3419,17 @@ discuss in [section H.2.1](secH2.md#sech21), this is simply untrue -- the
 anarchist rejection of "the dictatorship of the proletariat" has nothing to do
 with defending revolution. As Bakunin stressed, _"the sole means of opposing
 the reactionary forces of the state"_ was the _"organising of the
-revolutionary force of the people."_ [**Statism and Anarchy**, p. 156] So
+revolutionary force of the people."_ [ **Statism and Anarchy** , p. 156] So
 given that Leninists mock anarchists for their supposed naivety over the
 dangers of counter-revolution, it seems ironic that McNally uses what he is
 supposed to consider an inevitable aspect of revolution to explain (excuse
 would be the better word) the degeneration of the Bolshevik revolution. Long
 after 1917, Lenin repeated his earlier comments by stating _"history teaches
 us that no big question has ever been settled and no revolution accomplished
-without a series of wars."_ [**Op. Cit.**, vol. 31, p. 494] He was adamant
+without a series of wars."_ [ **Op. Cit.** , vol. 31, p. 494] He was adamant
 that _"were it not for this iron rule of the workers, of this workers'
 vanguard, we should not have been able to hold out for two months, let alone
-two years"_. [**Op. Cit.**, vol. 30, p. 498]
+two years"_. [ **Op. Cit.** , vol. 30, p. 498]
 
 Simply put, if counter-revolution is considered inevitable by your ideology
 then explaining Bolshevik authoritarianism by it is unconvincing --
@@ -3431,18 +3450,18 @@ Civil War from concentrating its thoughts and efforts on the formulation and
 implementation of its labour policies."_ While the _" experience of the Civil
 War was one factor predisposing communists towards applying military methods"_
 to the economy in early 1920, _"ideological considerations were also
-important."_ [Jonathan Aves, **Workers Against Lenin**, p. 2, p. 17, p. 15, p.
-30, p. 17 and p. 11] Unsurprisingly, then, the defeat of Wrangel in November
-1920 saw no changes in Bolshevik policy nor the Bolshevik use of coercion
-against workers and peasants calling and protesting for the re-introduction of
-freedom and democracy.
+important."_ [Jonathan Aves, **Workers Against Lenin** , p. 2, p. 17, p. 15,
+p. 30, p. 17 and p. 11] Unsurprisingly, then, the defeat of Wrangel in
+November 1920 saw no changes in Bolshevik policy nor the Bolshevik use of
+coercion against workers and peasants calling and protesting for the re-
+introduction of freedom and democracy.
 
 So there is a continuity between Bolshevik policies before, during and after
 the civil war which McNally does not mention. Take one-man management, for
 example. This was advocated by Lenin **before** the civil war started and when
-he looked back at this time from April 1920, he reiterated his position
-(_"Dictatorial powers and one-man management are not contradictory to
-socialist democracy"_) while also stressing that this was not forced upon the
+he looked back at this time from April 1920, he reiterated his position (
+_"Dictatorial powers and one-man management are not contradictory to socialist
+democracy"_ ) while also stressing that this was not forced upon the
 Bolsheviks by civil war. It was time to build socialism and the _"whole
 attention of the Communist Party and the Soviet government is centred on
 peaceful economic development, on problems of the dictatorship and of one-man
@@ -3451,8 +3470,8 @@ civil war and no experience to speak of"_ and so it was _"not only
 experience"_ of civil war, argued Lenin _"but something more profound . . .
 that has induced us now, as it did two years ago, to concentrate all our
 attention on labour discipline."_ Lenin stressed that we _"need more
-discipline, more individual authority and more dictatorship"_. [**Collected
-Works**, vol. 30, p. 503, p. 504 and p. 514]
+discipline, more individual authority and more dictatorship"_. [ **Collected
+Works** , vol. 30, p. 503, p. 504 and p. 514]
 
 The same can be said of the arguments for party dictatorship, which were
 raised at the Second Congress of the Communist International and aimed to
@@ -3471,8 +3490,8 @@ July 1920 when the civil war appeared to have been won, with Rosmer recalling
 that when he had arrived in _"June 1920"_ in Russia _"the civil war was
 virtually at an end"_ for _"[a]fter the triple blow struck at the
 interventionist forces, after the destruction of Kolchak, Yudenich and
-Denikin, the counter-revolution was defeated."_ [**Lenin's Moscow**, p. 58, p.
-65, p. 128 and p. 101]
+Denikin, the counter-revolution was defeated."_ [ **Lenin's Moscow** , p. 58,
+p. 65, p. 128 and p. 101]
 
 To stress the point, Lenin, Zinoviev and Trotsky were all clearly arguing for
 party power, **not** workers' power, and that party dictatorship is inevitable
@@ -3490,7 +3509,7 @@ fact, _"no serious attempt was made to review the aptness of war communist
 policies."_ Ideology _"constantly impinged on the choices made at various
 points of the civil war . . . Bolshevik authoritarianism cannot be ascribed
 simply to the Tsarist legacy or to adverse circumstances."_ [Richard Sakwa,
-**Soviet Communists in Power**, p. 24, p. 27 and p. 30]
+**Soviet Communists in Power** , p. 24, p. 27 and p. 30]
 
 As we discuss in [section H.6.2](secH6.md#sech62), Bolshevik ideology and
 the decisions it inspired helped make the difficult circumstances the
@@ -3511,38 +3530,38 @@ First, the obvious change in its social position -- it became part of the
 state and, as a result, viewed society -- and the working class -- from above,
 as rulers. So as Marxism is _"centralist"_ and aims for _"conscious,
 democratic, proletarian centralism"_ it will inevitably lead to a new class
-system being created. [**The Lenin Anthology**, p. 348] This is not
+system being created. [ **The Lenin Anthology** , p. 348] This is not
 necessarily because Leninists seek dictatorship for themselves (although they
 do aim for party power -- see [section H.3.11](secH3.md#sech311)) but rather
 it is because of the nature of the state machine. In the words of Murray
 Bookchin:
 
 > _"Anarchist critics of Marx pointed out with considerable effect that any
-system of representation would become a statist interest in its own right, one
-that at best would work against the interests of the working classes
-(including the peasantry), and that at worst would be a dictatorial power as
-vicious as the worst bourgeois state machines. Indeed, with political power
-reinforced by economic power in the form of a nationalised economy, a
-'workers' republic' might well prove to be a despotism (to use one of
-Bakunin's more favourite terms) of unparalleled oppression . . . _
+> system of representation would become a statist interest in its own right,
+> one that at best would work against the interests of the working classes
+> (including the peasantry), and that at worst would be a dictatorial power as
+> vicious as the worst bourgeois state machines. Indeed, with political power
+> reinforced by economic power in the form of a nationalised economy, a
+> 'workers' republic' might well prove to be a despotism (to use one of
+> Bakunin's more favourite terms) of unparalleled oppression . . ._
 
 > _"Republican institutions, however much they are intended to express the
-interests of the workers, necessarily place policy-making in the hands of
-deputies and categorically do not constitute a 'proletariat organised as a
-ruling class.' If public policy, as distinguished from administrative
-activities, is not made by the people mobilised into assemblies and
-confederally co-ordinated by agents on a local, regional, and national basis,
-then a democracy in the precise sense of the term does not exist. The powers
-that people enjoy under such circumstances can be usurped without difficulty .
-. . [I]f the people are to acquire real power over their lives and society,
-they must establish -- and in the past they have, for brief periods of time
-established -- well-ordered institutions in which they themselves directly
-formulate the policies of their communities and, in the case of their regions,
-elect confederal functionaries, revocable and strictly controllable, who will
-execute them. Only in this sense can a class, especially one committed to the
-abolition of classes, be mobilised as a class to manage society."_ [_"The
-Communist Manifesto: Insights and Problems"_, pp. 14-17, **Black Flag**, no.
-226, pp. 16-7]
+> interests of the workers, necessarily place policy-making in the hands of
+> deputies and categorically do not constitute a 'proletariat organised as a
+> ruling class.' If public policy, as distinguished from administrative
+> activities, is not made by the people mobilised into assemblies and
+> confederally co-ordinated by agents on a local, regional, and national
+> basis, then a democracy in the precise sense of the term does not exist. The
+> powers that people enjoy under such circumstances can be usurped without
+> difficulty . . . [I]f the people are to acquire real power over their lives
+> and society, they must establish -- and in the past they have, for brief
+> periods of time established -- well-ordered institutions in which they
+> themselves directly formulate the policies of their communities and, in the
+> case of their regions, elect confederal functionaries, revocable and
+> strictly controllable, who will execute them. Only in this sense can a
+> class, especially one committed to the abolition of classes, be mobilised as
+> a class to manage society."_ [ _"The Communist Manifesto: Insights and
+> Problems"_ , pp. 14-17, **Black Flag** , no. 226, pp. 16-7]
 
 As we discuss in [section H.3.9](secH3.md#sech39), anarchists argue that the
 state cannot be considered as simply an instrument of economic class but,
@@ -3569,10 +3588,10 @@ make the right decisions (i.e. know what its "real" interests were). At best
 they would be allowed to vote for the government, but even this right could be
 removed if they voted for the wrong people as shown above. For Leninists,
 revolutionary consciousness is not generated by working class self-activity in
-the class struggle, but is embodied in the party (_"Since there can there can
+the class struggle, but is embodied in the party ( _"Since there can there can
 be no talk of an independent ideology being developed by the masses of the
-workers in the process of their movement **the only choice is**: either
-bourgeois or socialist ideology"_ [Lenin, **The Essential Works of Lenin**,
+workers in the process of their movement **the only choice is** : either
+bourgeois or socialist ideology"_ [Lenin, **The Essential Works of Lenin** ,
 82]). The conclusions of this position are obvious: the important issues
 facing the working class are to be determined not by the workers ourselves,
 but by the leadership of the party, who are the (self-appointed) _"vanguard of
@@ -3584,16 +3603,16 @@ to be led by the vanguard -- using state coercion, if need be. As Lenin
 argued:
 
 > _"it must he made clear that democracy under the Soviet system does not
-contradict dictatorship . . . Unity of will must not be a catchword, a symbol.
-We demand it in practice. This is how unity of will was expressed during the
-[civil] war -- anybody who placed his own interests (or the interests of his
-village or group) above the common interests, was branded as a self-seeker and
-was shot; this was justified by the moral consciousness of the working class
-that it must achieve victory. We spoke about these shootings openly; we said
-that we made no secret of coercion, because we realised that we could not
-emerge from the old society without resorting to compulsion as far as the
-backward section of the proletariat was concerned . . ."_ [**Op. Cit.**, vol.
-30 pp. 509-10]
+> contradict dictatorship . . . Unity of will must not be a catchword, a
+> symbol. We demand it in practice. This is how unity of will was expressed
+> during the [civil] war -- anybody who placed his own interests (or the
+> interests of his village or group) above the common interests, was branded
+> as a self-seeker and was shot; this was justified by the moral consciousness
+> of the working class that it must achieve victory. We spoke about these
+> shootings openly; we said that we made no secret of coercion, because we
+> realised that we could not emerge from the old society without resorting to
+> compulsion as far as the backward section of the proletariat was concerned .
+> . ."_ [ **Op. Cit.** , vol. 30 pp. 509-10]
 
 This raises numerous questions, the most obvious is **who** (which individual
 or group) decides which is and is not in the common interests? Another is,
@@ -3619,11 +3638,11 @@ hope that the socialist principles of the ruling elite will overcome the
 pressures of their position in the social hierarchy and, unsurprisingly, it
 did not happen.
 
-_"If we perish"_, Lenin said privately to Trotsky in 1921, _"it is all the
+_"If we perish"_ , Lenin said privately to Trotsky in 1921, _"it is all the
 more important to preserve our ideological line and give a lesson to our
 continuators. This should never be forgotten, even in hopeless
-circumstances"_. [quoted by Brinton, _"The Bolsheviks and Workers' Control"_,
-**For Workers' Power**, p. 372] Hence the comments made by Zinoviev at the
+circumstances"_. [quoted by Brinton, _"The Bolsheviks and Workers' Control"_ ,
+**For Workers' Power** , p. 372] Hence the comments made by Zinoviev at the
 Second Congress of the Communist International, Trotsky in **Terrorism and
 Communism** and Lenin in innumerable speeches and articles. Sadly for
 McNally's case, the lesson that the Bolsheviks wanted to give to the world
@@ -3637,7 +3656,7 @@ regime under Lenin and Trotsky.
 
 To conclude, both anarchism and Leninism have a critical position on
 democracy. Lenin argued that _"formal democracy must be subordinate to the
-revolutionary interest"_ and in a sense he was right. [**Collected Works**,
+revolutionary interest"_ and in a sense he was right. [ **Collected Works** ,
 vol. 32, p. 86] As we indicated in [section 7](append31.md#app7), anarchists
 argue that minorities should ignore (or rebel against) the majority if it is
 oppressing the minority -- for progress to be achieved the _"revolutionary
@@ -3658,30 +3677,30 @@ socialism, namely syndicalism. It is worth quoting him in full as his comments
 are truly ridiculous:
 
 > _"There is . . . another trend which is sometimes associated with anarchism.
-This is syndicalism. The syndicalist outlook does believe in collective
-working class action to change society. Syndicalists look to trade union
-action -- such as general strikes -- to overthrow capitalism. Although some
-syndicalist viewpoints share a superficial similarity with anarchism --
-particularly with its hostility to politics and political action --
-syndicalism is not truly a form of anarchism. By accepting the need for mass,
-collective action and decision-making, syndicalism is much superior to
-classical anarchism."_
+> This is syndicalism. The syndicalist outlook does believe in collective
+> working class action to change society. Syndicalists look to trade union
+> action -- such as general strikes -- to overthrow capitalism. Although some
+> syndicalist viewpoints share a superficial similarity with anarchism --
+> particularly with its hostility to politics and political action --
+> syndicalism is not truly a form of anarchism. By accepting the need for
+> mass, collective action and decision-making, syndicalism is much superior to
+> classical anarchism."_
 
 The weakness of McNally's position can be seen from comparing his summary of
-syndicalism's key ideas with _"classical anarchism"_, namely Bakunin's
+syndicalism's key ideas with _"classical anarchism"_ , namely Bakunin's
 revolutionary anarchism. This passage by Bakunin expresses almost all the
 ideas McNally ascribes to syndicalism:
 
 > _"Toilers count no longer on anyone but yourselves. Do not demoralise and
-paralyse your growing strength by being duped into alliances with bourgeois
-Radicalism . . . Abstain from all participation in bourgeois Radicalism and
-organise outside of it the forces of the proletariat. The bases of this
-organisation . . . are the workshops and the federation of workshops . . .
-instruments of struggle against the bourgeoisie, and their federation, not
-only national, but international . . . when the hour of revolution sounds, you
-will proclaim the liquidation of the State and of bourgeois society, anarchy,
-that is to say the true, frank people's revolution."_ [quoted by K.J.
-Kenafick, **Michael Bakunin and Karl Marx**, pp. 120-1]
+> paralyse your growing strength by being duped into alliances with bourgeois
+> Radicalism . . . Abstain from all participation in bourgeois Radicalism and
+> organise outside of it the forces of the proletariat. The bases of this
+> organisation . . . are the workshops and the federation of workshops . . .
+> instruments of struggle against the bourgeoisie, and their federation, not
+> only national, but international . . . when the hour of revolution sounds,
+> you will proclaim the liquidation of the State and of bourgeois society,
+> anarchy, that is to say the true, frank people's revolution."_ [quoted by
+> K.J. Kenafick, **Michael Bakunin and Karl Marx** , pp. 120-1]
 
 Bakunin, therefore, stressed trade union action, arguing as _"strikes spread
 from one place to another, they come close to turning into a general strike.
@@ -3693,35 +3712,35 @@ of the struggle impel the workers to support one another"_ and the _"more
 active the struggle becomes . . . the stronger and more extensive this
 federation of proletarians must become."_ Thus strikes _"indicate a certain
 collective strength already"_ and _"each strike becomes the point of departure
-for the formation of new groups."_ [**The Basic Bakunin**, pp. 149-50]
+for the formation of new groups."_ [ **The Basic Bakunin** , pp. 149-50]
 
 For Bakunin, like the later syndicalists, _"the natural organisation of the
 masses . . . is organisation based on the various ways that their various
 types of work define their day-to-day life; it is organisation by trade
 association"_ and once _"every occupation . . . is represented within the
 International [Working-Men's Association], its organisation, the organisation
-of the masses of the people will be complete."_ [**Op. Cit.**, p. 139] Thus
+of the masses of the people will be complete."_ [ **Op. Cit.** , p. 139] Thus
 _"unions create that conscious power without which no victory is possible"_
 while strikes _"create, organise, and form a workers' army, an army which is
 bound to break down the power of the bourgeoisie and the State, and lay the
-ground for a new world."_ [**The Political Philosophy of Bakunin**, p. 379 and
-pp. 384-5] The _"organisation of the trade sections and their representation
-by the Chambers of Labour . . . bear in themselves the living seeds of the new
-society which is to replace the old world. They are creating not only the
-ideas, but also the facts of the future itself."_ [**Bakunin on Anarchism**,
-p. 255]
+ground for a new world."_ [ **The Political Philosophy of Bakunin** , p. 379
+and pp. 384-5] The _"organisation of the trade sections and their
+representation by the Chambers of Labour . . . bear in themselves the living
+seeds of the new society which is to replace the old world. They are creating
+not only the ideas, but also the facts of the future itself."_ [ **Bakunin on
+Anarchism** , p. 255]
 
 And yet McNally proclaims that Bakunin _"shared most of Proudhon's views"_ and
 so, by implication, _"so feared the organised power of the developing working
 class that he went so far as to oppose trade unions"_! Rather than be against
-the _"freedom of the working class to make collectively a new society"_,
+the _"freedom of the working class to make collectively a new society"_ ,
 Bakunin repeatedly argued that _"the new social order"_ would be attained
 _"through the social (and therefore anti-political) organisation and power of
 the working masses of the cities and villages."_ This would see _"capital and
 all tools of labour belong to the city workers -- to the workers associations.
 The whole organisation of the future should be nothing but a free federation
 of workers -- agricultural workers as well as factory workers and associations
-of craftsmen."_ [**The Political Philosophy of Bakunin**, p. 300 an p. 410]
+of craftsmen."_ [ **The Political Philosophy of Bakunin** , p. 300 an p. 410]
 This position was common to all revolutionary anarchists (see sections
 [H.2.2](secH2.md#sech22) and [H.2.7](secH2.md#sech27)).
 
@@ -3738,44 +3757,44 @@ not only guide the revolution but also provide the basis for the organisation
 of the society of the future."_ Indeed, he _"believed that trade unions had an
 essential part to play in the developing of revolutionary capacities of the
 workers as well as building up the organisation of the masses for
-revolution."_ [**Kropotkin and the Rise of Revolutionary Anarchism**, p. 219,
-p. 215 and p. 216] George R. Esenwein noted that syndicalism _"had deep roots
-in the Spanish libertarian tradition. It can be traced to Bakunin's
+revolution."_ [ **Kropotkin and the Rise of Revolutionary Anarchism** , p.
+219, p. 215 and p. 216] George R. Esenwein noted that syndicalism _"had deep
+roots in the Spanish libertarian tradition. It can be traced to Bakunin's
 revolutionary collectivism"_ and the class struggle was _"central to Bakunin's
-theory."_ [**Anarchist Ideology and the Working Class Movement in Spain**, p.
-209 and p. 20] The syndicalists _"viewed themselves as the descendants of the
-federalist wing of the First International, personified above else by Mikhail
-Bakunin."_ [Wayne Thorpe, **"The Workers Themselves"**, pp. xiii-xiv] _"Hardly
-any of these ideas [associated with syndicalism] are new"_, stated Bertrand
-Russell _"almost all are derived from the Bakunist [sic!] section of the old
-International"_ and this was _"often recognised by Syndicalists themselves."_
-[**Roads to Freedom**, p. 52] J. Romero Maura correctly summarised that for
-the _"Bakuninists"_ in the First International, the _"anarchist revolution,
-when it came, would be essentially brought about by the working class.
-Revolutionaries needed to gather great strength and must beware of
-underestimating the strength of reaction"_ and so they _"logically decided
-that revolutionaries had better organise along the lines of labour
-organisations."_ [_"The Spanish case"_, pp. 60-83, **Anarchism Today**, D.
+theory."_ [ **Anarchist Ideology and the Working Class Movement in Spain** ,
+p. 209 and p. 20] The syndicalists _"viewed themselves as the descendants of
+the federalist wing of the First International, personified above else by
+Mikhail Bakunin."_ [Wayne Thorpe, **"The Workers Themselves"** , pp. xiii-xiv]
+_"Hardly any of these ideas [associated with syndicalism] are new"_ , stated
+Bertrand Russell _"almost all are derived from the Bakunist [sic!] section of
+the old International"_ and this was _"often recognised by Syndicalists
+themselves."_ [ **Roads to Freedom** , p. 52] J. Romero Maura correctly
+summarised that for the _"Bakuninists"_ in the First International, the
+_"anarchist revolution, when it came, would be essentially brought about by
+the working class. Revolutionaries needed to gather great strength and must
+beware of underestimating the strength of reaction"_ and so they _"logically
+decided that revolutionaries had better organise along the lines of labour
+organisations."_ [ _"The Spanish case"_ , pp. 60-83, **Anarchism Today** , D.
 Apter and J. Joll (eds.), p. 66]
 
 We could go on but as leading syndicalist activist and thinker Rudolf Rocker
 summarised:
 
 > _"Modern Anarcho-syndicalism is a direct continuation of those social
-aspirations which took shape in the bosom of the First International and which
-were best understood and most strongly held by the libertarian wing of the
-great workers' alliance."_ [**Anarcho-Syndicalism**, p. 54]
+> aspirations which took shape in the bosom of the First International and
+> which were best understood and most strongly held by the libertarian wing of
+> the great workers' alliance."_ [ **Anarcho-Syndicalism** , p. 54]
 
 Perhaps, in the face of such evidence (and the writings of Bakunin himself!),
 Marxists like McNally could claim that the sources we quote are either
 anarchists or "sympathetic" to anarchism. To counter this we will quote Marx
 and Engels. According to Marx, Bakunin's theory consisted of urging the
 working class to _"only organise themselves by trades-unions"_ and _"not
-occupy itself with **politics.**"_ Engels asserted that in the _"Bakuninist
+occupy itself with **politics.** "_ Engels asserted that in the _"Bakuninist
 programme a general strike is the lever employed by which the social
 revolution is started"_ and that they admitted _"this required a well-formed
 organisation of the working class"_. [Marx, Engels and Lenin, **Anarchism and
-Anarcho-Syndicalism**, p. 48, p. 132 and p. 133] Ignoring the
+Anarcho-Syndicalism** , p. 48, p. 132 and p. 133] Ignoring the
 misrepresentations of Marx and Engels about the theories of their enemies, we
 can state that they got the basic point of Bakunin's ideas -- the centrality
 of trade union organisation and struggle as well as the use of strikes as the
@@ -3803,22 +3822,23 @@ prepares the workers along direct economic lines, as conscious factors in the
 great struggles of to-day, as well as conscious factors in the task of
 reconstructing society."_ The _"most powerful weapon"_ for liberation was
 _"the conscious, intelligent, organised, economic protest of the masses
-through direct action and the general strike."_ [**Red Emma Speaks**, p. 89,
+through direct action and the general strike."_ [ **Red Emma Speaks** , p. 89,
 p. 91 and p. 60] Kropotkin summarised the libertarian perspective well in
 1907:
 
 > _"Workmen's organisations are the real force capable of accomplishing the
-social revolution -– after the awakening of the proletariat has been
-accomplished, first by individual action, then by collective action, by
-strikes and revolts extending more and more; and where workmen's organisations
-have not allowed themselves to be dominated by the gentlemen who advocate 'the
-conquest of political power', but have continued to walk hand in hand with
-anarchists –- as they have done in Spain -– they have obtained, on the one
-hand, immediate results (an eight-hour day in certain trades in Catalonia),
-and on the other have made good propaganda for the social revolution -– the
-one to come, not from the efforts of those highly-placed gentlemen, but from
-below, from workmen's organisations."_ [_"Anarchists and Trade Unions"_,
-**Direct Struggle Against Capital**, pp. 391-2]
+> social revolution -– after the awakening of the proletariat has been
+> accomplished, first by individual action, then by collective action, by
+> strikes and revolts extending more and more; and where workmen's
+> organisations have not allowed themselves to be dominated by the gentlemen
+> who advocate 'the conquest of political power', but have continued to walk
+> hand in hand with anarchists –- as they have done in Spain -– they have
+> obtained, on the one hand, immediate results (an eight-hour day in certain
+> trades in Catalonia), and on the other have made good propaganda for the
+> social revolution -– the one to come, not from the efforts of those highly-
+> placed gentlemen, but from below, from workmen's organisations."_ [
+> _"Anarchists and Trade Unions"_ , **Direct Struggle Against Capital** , pp.
+> 391-2]
 
 We will leave the matter here and point interested readers to our extended
 discussion of the links between anarchism and syndicalism in [section
@@ -3840,52 +3860,53 @@ they reject -- bourgeois politics (i.e. the running of candidates in
 elections). It is worth quoting Rudolf Rocker at length on McNally's claim:
 
 > _"It has often been charged against Anarcho-Syndicalism that it has no
-interest in the political structure of the different countries, and
-consequently no interest in the political struggles of the time, and confines
-its activities to the fight for purely economic demands. This idea is
-altogether erroneous and springs either from outright ignorance or wilful
-distortion of the facts. It is not the political struggle as such which
-distinguishes the Anarcho-Syndicalists from the modern labour parties, both in
-principle and in tactics, but the form of this struggle and the aims which it
-has in view. . ._
+> interest in the political structure of the different countries, and
+> consequently no interest in the political struggles of the time, and
+> confines its activities to the fight for purely economic demands. This idea
+> is altogether erroneous and springs either from outright ignorance or wilful
+> distortion of the facts. It is not the political struggle as such which
+> distinguishes the Anarcho-Syndicalists from the modern labour parties, both
+> in principle and in tactics, but the form of this struggle and the aims
+> which it has in view. . ._
 
 > _"The attitude of Anarcho-Syndicalism toward the political power of the
-present-day state is exactly the same as it takes toward the system of
-capitalist exploitation. . . [and so] Anarcho-Syndicalists pursue the same
-tactics in their fight against that political power which finds its expression
-in the state. . ._
+> present-day state is exactly the same as it takes toward the system of
+> capitalist exploitation. . . [and so] Anarcho-Syndicalists pursue the same
+> tactics in their fight against that political power which finds its
+> expression in the state. . ._
 
 > _"For just as the worker cannot be indifferent to the economic conditions of
-his life in existing society, so he cannot remain indifferent to the political
-structure of his country. . . It is, therefore, utterly absurd to assert that
-the Anarcho-Syndicalists take no interest in the political struggles of the
-time. . . But the point of attack in the political struggle lies, not in the
-legislative bodies, but in the people. . . If they, nevertheless, reject any
-participation in the work of bourgeois parliaments, it is not because they
-have no sympathy with political struggles in general, but because they are
-firmly convinced that parliamentary activity is for the workers the very
-weakest and the most hopeless form of the political struggle. . ._
+> his life in existing society, so he cannot remain indifferent to the
+> political structure of his country. . . It is, therefore, utterly absurd to
+> assert that the Anarcho-Syndicalists take no interest in the political
+> struggles of the time. . . But the point of attack in the political struggle
+> lies, not in the legislative bodies, but in the people. . . If they,
+> nevertheless, reject any participation in the work of bourgeois parliaments,
+> it is not because they have no sympathy with political struggles in general,
+> but because they are firmly convinced that parliamentary activity is for the
+> workers the very weakest and the most hopeless form of the political
+> struggle. . ._
 
 > _"But, most important of all, practical experience has shown that the
-participation of the workers in parliamentary activity cripples their power of
-resistance and dooms to futility their warfare against the existing system. .
-._
+> participation of the workers in parliamentary activity cripples their power
+> of resistance and dooms to futility their warfare against the existing
+> system. . ._
 
 > _"Anarcho-Syndicalists, then, are not in any way opposed to the political
-struggle, but in their opinion this struggle, too, must take the form of
-direct action, in which the instruments of economic power which the working
-class has at its command are the most effective. . ._
+> struggle, but in their opinion this struggle, too, must take the form of
+> direct action, in which the instruments of economic power which the working
+> class has at its command are the most effective. . ._
 
 > _"The focal point of the political struggle lies, then, not in the political
-parties, but in the economic fighting organisations of the workers. It as the
-recognition of this which impelled the Anarcho-Syndicalists to centre all
-their activity on the Socialist education of the masses and on the utilisation
-of their economic and social power. Their method is that of direct action in
-both the economic and the political struggles of the time. That is the only
-method which has been able to achieve anything at all in every decisive moment
-in history."_ [**Op. Cit.**, pp. 73-78]
+> parties, but in the economic fighting organisations of the workers. It as
+> the recognition of this which impelled the Anarcho-Syndicalists to centre
+> all their activity on the Socialist education of the masses and on the
+> utilisation of their economic and social power. Their method is that of
+> direct action in both the economic and the political struggles of the time.
+> That is the only method which has been able to achieve anything at all in
+> every decisive moment in history."_ [ **Op. Cit.** , pp. 73-78]
 
-Rocker's work, **Anarcho-Syndicalism**, was written in 1938 and is considered
+Rocker's work, **Anarcho-Syndicalism** , was written in 1938 and is considered
 the standard introduction to that theory. McNally wrote his pamphlet in the
 1980s and did not bother to consult the classic introduction to the ideas he
 claims to be refuting. That in itself indicates the worth of his pamphlet and
@@ -3904,15 +3925,15 @@ direct action tactics . . . is not political action. It is simply a
 registration of direct action."_ They also note that syndicalists _"have
 proven time and again that they can solve the many so-called political
 questions by direct action."_ [Earl C. Ford and William Z. Foster,
-**Syndicalism**, p. 19f and p. 23] A historian of the British syndicalist
+**Syndicalism** , p. 19f and p. 23] A historian of the British syndicalist
 movement reiterates this point:
 
 > _"Nor did syndicalists neglect politics and the state. Revolutionary
-industrial movements were on the contrary highly 'political' in that they
-sought to understand, challenge and destroy the structure of capitalist power
-in society. They quite clearly perceived the oppressive role of the state
-whose periodic intervention in industrial unrest could hardly have been
-missed."_ [Bob Holton, **British Syndicalism: 1900-1914**, pp. 21-2]
+> industrial movements were on the contrary highly 'political' in that they
+> sought to understand, challenge and destroy the structure of capitalist
+> power in society. They quite clearly perceived the oppressive role of the
+> state whose periodic intervention in industrial unrest could hardly have
+> been missed."_ [Bob Holton, **British Syndicalism: 1900-1914** , pp. 21-2]
 
 This awareness that the state could not be ignored but had to be fought is
 reflected in the 1909 French syndicalist novel _How We Shall Bring About the
@@ -3948,7 +3969,7 @@ of defence, with a Trade Union and Federal basis."_ These _"Syndicalist
 battalions were not a force external to the people. They were the people
 themselves"_ who _"had the common-sense to arm themselves in order to protect
 their conquered liberty."_ [Emile Pataud and Emile Pouget, **How We Shall
-Bring About the Revolution**, pp. 79-83, p. 94, pp. 128-9, p. 69 and pp.
+Bring About the Revolution** , pp. 79-83, p. 94, pp. 128-9, p. 69 and pp.
 155-7]
 
 As we argued in [section J.2.10](secJ2.md#secj210), anarchist support for
@@ -3961,13 +3982,13 @@ part, watering down their radical ideas and making them part of the system
 they were meant to change. As Rocker summarised:
 
 > _"Participation in the politics of the bourgeois States has not brought the
-labour movement a hair's-breadth nearer to Socialism, but thanks to this
-method, Socialism has almost been completely crushed and condemned to
-insignificance . . . Participation in parliamentary politics has affected the
-Socialist Labour movement like an insidious poison. It destroyed the belief in
-the necessity of constructive Socialist activity, and, worse of all, the
-impulse to self-help, by inoculating people with the ruinous delusion that
-salvation always comes from above."_ [**Op. Cit.**, p. 54]
+> labour movement a hair's-breadth nearer to Socialism, but thanks to this
+> method, Socialism has almost been completely crushed and condemned to
+> insignificance . . . Participation in parliamentary politics has affected
+> the Socialist Labour movement like an insidious poison. It destroyed the
+> belief in the necessity of constructive Socialist activity, and, worse of
+> all, the impulse to self-help, by inoculating people with the ruinous
+> delusion that salvation always comes from above."_ [ **Op. Cit.** , p. 54]
 
 Rocker's last point is important, given that McNally seeks to appropriate the
 idea of _"from below"_ for Marxism. He is well aware of the results of
@@ -3983,25 +4004,25 @@ Marxist and had been following the strategy Marx and Engels had advocated.
 
 It would have been informative to his readership if McNally had found time to
 discuss this awkward fact. One of the key differences between Marx and Bakunin
-in the First International was over _"political action"_: the forming of
+in the First International was over _"political action"_ : the forming of
 political parties and standing in elections. Bakunin argued that _"it is
 usually enough for these men of the people to enter government for them to
 become members of the bourgeoisie in their turn, sometimes scorning the people
 from whom they came more than do the natural-born members of the
-bourgeoisie."_ The need was _"**the organisation of the might of the
-workers**, the unification of the proletariat of the entire world"_ by
+bourgeoisie."_ The need was _" **the organisation of the might of the
+workers** , the unification of the proletariat of the entire world"_ by
 _"eliminat[ing] from its program all bourgeois political schemes"_ in favour
 of _"workers' solidarity in their struggle against the bosses. It means
-**trades unions, organisation, and the federation of resistance funds**."_
-[**The Basic Bakunin**, p. 51, p. 93, p. 99 and p. 103] Marx and Engels, in
+**trades unions, organisation, and the federation of resistance funds**."_ [
+**The Basic Bakunin** , p. 51, p. 93, p. 99 and p. 103] Marx and Engels, in
 contrast, favoured _"political action"_ and completely failed, unlike Bakunin,
 to recognise the dangers of reformism in the tactic. Indeed, in 1891 Engels
 proudly announced that the Brussels Congress of the Second International
 _"proved a brilliant success for us . . . And, best of all, the anarchists
 have been shown the door, just as they were at the Hague Congress. The new,
 incomparably larger and avowedly Marxist International is beginning again at
-the precise spot where its predecessor ended."_ [**Collected Works**, vol. 49,
-p. 238]
+the precise spot where its predecessor ended."_ [ **Collected Works** , vol.
+49, p. 238]
 
 McNally, like most Leninists, is keen to distance Marx and Engels from Social
 Democracy and so does not note their repeated comments -- both before **and**
@@ -4012,21 +4033,19 @@ introduction of community of property is the political liberation of the
 proletariat through a democratic constitution"_ and so the revolution's had to
 _"inaugurate a **democratic constitution** and thereby . . . the political
 rule of the proletariat"_ as in _"America, where a democratic constitution has
-been introduced"_ [**Collected Works**, vol. 6, p. 102, p. 350 and p. 356] In
-contrast, Proudhon had concluded the year before that the state could **not**
-be captured and reformed and socialism could only be created by proletarian
-self-organisation:
+been introduced"_ [ **Collected Works** , vol. 6, p. 102, p. 350 and p. 356]
+In contrast, Proudhon had concluded the year before that the state could
+**not** be captured and reformed and socialism could only be created by
+proletarian self-organisation:
 
 > _"Thus power [i.e. the state] . . . finds itself inevitably enchained to
-capital and directed against the proletariat . . . The problem before the
-labouring classes, then, consists, not in capturing, but in subduing both
-power and monopoly -- that is, in generating from the bowels of the people,
-from the depths of labour, a greater authority, a more potent fact, which
-shall envelop capital and the State and subjugate them. Every proposition of
-reform which does not satisfy this condition is simply one scourge more . . .
-which threatens the proletariat."_ [**Property is Theft!**, p. 226]
-
-
+> capital and directed against the proletariat . . . The problem before the
+> labouring classes, then, consists, not in capturing, but in subduing both
+> power and monopoly -- that is, in generating from the bowels of the people,
+> from the depths of labour, a greater authority, a more potent fact, which
+> shall envelop capital and the State and subjugate them. Every proposition of
+> reform which does not satisfy this condition is simply one scourge more . .
+> . which threatens the proletariat."_ [ **Property is Theft!** , p. 226]
 
 The syndicalists, like Bakunin, argued the same -- although, unlike the
 Frenchman, saw the trade union movement as the means of social transformation.
@@ -4044,12 +4063,12 @@ reformism, its opportunism and its bureaucracy.
 
 This was recognised by Lenin, if in his own way. Anarchism, he suggested,
 _"was not infrequently a kind of penalty for the opportunist sins of the
-working-class movement."_ [**Collected Works**, vol. 31, p. 32] His claim that
-anarchist and syndicalist support in the working class is the result of the
-opportunist nature of the Social Democratic Parties has an element of truth.
-Obviously militants sick to death of the reformist, corrupt and bureaucratic
-"working class" parties will seek a revolutionary alternative and find
-libertarian socialism. However, Lenin seeks to explain the symptoms
+working-class movement."_ [ **Collected Works** , vol. 31, p. 32] His claim
+that anarchist and syndicalist support in the working class is the result of
+the opportunist nature of the Social Democratic Parties has an element of
+truth. Obviously militants sick to death of the reformist, corrupt and
+bureaucratic "working class" parties will seek a revolutionary alternative and
+find libertarian socialism. However, Lenin seeks to explain the symptoms
 (opportunism) and not the disease itself (Parliamentarianism) . Nowhere does
 he see the rise of "opportunist" tendencies in the Marxist parties as the
 result of the tactics and organisational struggles they used. Indeed, Lenin
@@ -4089,14 +4108,14 @@ brought into being by the self-mobilisation and self-organisation of the
 working class -- a fundamental aspect of the socialist project."_ This is not
 entirely true as _"Proudhon insisted that the revolution could only come from
 below, through the action of the workers themselves."_ [K. Steven Vincent,
-**Pierre-Joseph Proudhon and the Rise of French Republican Socialism**, p.
+**Pierre-Joseph Proudhon and the Rise of French Republican Socialism** , p.
 157] In his words:
 
 > _"Workers, labourers, men of the people, whoever you may be, the initiative
-of reform is yours. It is you who will accomplish that synthesis of social
-composition which will be the masterpiece of creation, and you alone can
-accomplish it."_ [quoted by George Woodcock, **Pierre-Joseph Proudhon: A
-Biography**, p. 64]
+> of reform is yours. It is you who will accomplish that synthesis of social
+> composition which will be the masterpiece of creation, and you alone can
+> accomplish it."_ [quoted by George Woodcock, **Pierre-Joseph Proudhon: A
+> Biography** , p. 64]
 
 As we indicated in [section 2](append31.md#app2), Proudhon stressed that the
 working class had to free itself by its own means and its own organisations
@@ -4108,16 +4127,16 @@ emancipation, even stating in 1848 that _"the proletariat must emancipate
 itself"_ for _"the revolutionary power . . . is not in the National Assembly:
 it is in you. The people alone, acting upon themselves without intermediary,
 can achieve the economic Revolution begun in February. The people alone can
-save civilisation and advance humanity!"_ [**Property is Theft!**, 306 and p.
-366]
+save civilisation and advance humanity!"_ [ **Property is Theft!** , 306 and
+p. 366]
 
 Marx's use of the famous expression -- _"the emancipation of the working class
 is the task of the working class itself"_ \-- dates from 1865, 17 years after
 Proudhon's comment that _"the proletariat must emancipate itself."_ Moreover,
 as Libertarian Marxist Paul Mattick pointed out, Marx was not even the first
 person to use the expression _"the emancipation of the working class is the
-task of the working class itself"_ as Flora Tristan used it in 1843. [**Marx
-and Keynes**, p. 333] Thus a case could be made that Marx was, in fact, the
+task of the working class itself"_ as Flora Tristan used it in 1843. [ **Marx
+and Keynes** , p. 333] Thus a case could be made that Marx was, in fact, the
 **third** _"major socialist thinker to make the principle of self-emancipation
 -- the principle that socialism could only be brought into being by the self-
 mobilisation and self-organisation of the working class -- a fundamental
@@ -4127,15 +4146,15 @@ Similarly, Bakunin continually quoted Marx's (and so Tristan's) words from the
 Preamble to the General Rules of the First International: _"That the
 emancipation of the workers must be accomplished by the workers themselves."_
 Far more than Marx, Bakunin argued that workers' can only free themselves by a
-_"single path, that of **emancipation through practical action**"_ namely
-_"workers' solidarity in their struggle against the bosses"_ by _"**trades-
-unions, organisation, and the federation of resistance funds**"_. The
+_"single path, that of **emancipation through practical action** "_ namely
+_"workers' solidarity in their struggle against the bosses"_ by _" **trades-
+unions, organisation, and the federation of resistance funds** "_. The
 _"collective experience"_ workers gain in the _"collective struggle of the
 workers against the bosses"_ will ensure they _"will necessarily come to
 realise that there is an irreconcilable antagonism between the henchmen of
 reaction and [their] own dearest human concerns. Having reached this point,
-[the worker] will recognise [themselves] to be a revolutionary socialist."_
-[**The Basic Bakunin**, p. 92 and p. 103]
+[the worker] will recognise [themselves] to be a revolutionary socialist."_ [
+**The Basic Bakunin** , p. 92 and p. 103]
 
 In contrast Marx placed his hopes for working class self-emancipation on a
 political party which would conquer "political power." As history soon proved,
@@ -4144,7 +4163,7 @@ by socialist parties resulted in the political system changing the party
 rather than vice versa, that it _"inexorably enmeshes its adherents, under the
 pretext of political tactics, in endless accommodations with governments and
 the various bourgeois political parties -- that is, it thrusts them directly
-into reaction."_ [**Statism and Anarchy**, p. 180] Second, "political power"
+into reaction."_ [ **Statism and Anarchy** , p. 180] Second, "political power"
 can only be seized by a minority (i.e. the party, **not** the class it claims
 to represent) and if the few have the power, the rest are no longer free (i.e.
 they no longer govern themselves). That the many elect the few who issue them
@@ -4168,7 +4187,8 @@ consciousness . . . could only be brought to them [the workers] from
 without."_ Speaking on behalf of workers, he asked that the _"intellectuals
 must talk to us, and tell us more about what we do not know and what we can
 never learn from our factory and 'economic' experience, that is, you must give
-us political knowledge."_ [**Essential Works of Lenin**, pp. 74-5 and p. 108]
+us political knowledge."_ [ **Essential Works of Lenin** , pp. 74-5 and p.
+108]
 
 Thus, rather than believe in working class self-emancipation, Lenin thought
 the opposite. Without the radical bourgeois to provide the working class with
@@ -4176,16 +4196,17 @@ the opposite. Without the radical bourgeois to provide the working class with
 Hardly what you would consider self-emancipation. As Lenin put it:
 
 > _"Since there can be no talk of an independent ideology being developed by
-the masses of the workers in the process of their movement, **the only choice
-is**: either bourgeois or socialist ideology. There is no middle course . . .
-Hence, to belittle socialist ideology **in any way,** to **deviate from it in
-the slightest degree** means strengthening bourgeois ideology. There is a lot
-of talk about spontaneity, but the **spontaneous** development of the labour
-movement leads to its becoming subordinated to bourgeois ideology . . . Hence
-our task, the task of Social-Democracy, is to **combat spontaneity,** to
-**divert** the labour movement from its spontaneous, trade unionist striving
-to go under the wing of the bourgeoisie, and to bring it under the wing of
-revolutionary Social-Democracy."_ [**Op. Cit.**, pp. 82-3]
+> the masses of the workers in the process of their movement, **the only
+> choice is** : either bourgeois or socialist ideology. There is no middle
+> course . . . Hence, to belittle socialist ideology **in any way,** to
+> **deviate from it in the slightest degree** means strengthening bourgeois
+> ideology. There is a lot of talk about spontaneity, but the **spontaneous**
+> development of the labour movement leads to its becoming subordinated to
+> bourgeois ideology . . . Hence our task, the task of Social-Democracy, is to
+> **combat spontaneity,** to **divert** the labour movement from its
+> spontaneous, trade unionist striving to go under the wing of the
+> bourgeoisie, and to bring it under the wing of revolutionary Social-
+> Democracy."_ [ **Op. Cit.** , pp. 82-3]
 
 As we discuss in [section H.5](secH5.md), this is a deeply anti-socialist
 position which, due to its privileging of the party, creates the theoretical
@@ -4193,13 +4214,13 @@ justification for the anti-democratic actions of the Bolsheviks we sketched in
 [section 8](append31.md#app8). This perspective states that the party has a
 better understanding of what the interests of the people are than the people
 themselves. If they reject the party then it means that they simply do not
-understand their own class interests and so they have become _"declassed"_, to
-use Lenin's term. The party, due to it being the repository of what socialism
-is, then has the right -- the duty -- to ignore the masses for to do otherwise
-_"means strengthening bourgeois ideology"_. That this is self-serving circular
-logic is an understatement but it is self-serving circular logic which, in
-revolutionary Russia, destroyed socialism in favour of state-capitalism and
-party dictatorship.
+understand their own class interests and so they have become _"declassed"_ ,
+to use Lenin's term. The party, due to it being the repository of what
+socialism is, then has the right -- the duty -- to ignore the masses for to do
+otherwise _"means strengthening bourgeois ideology"_. That this is self-
+serving circular logic is an understatement but it is self-serving circular
+logic which, in revolutionary Russia, destroyed socialism in favour of state-
+capitalism and party dictatorship.
 
 For this notion of working class passivity is not confined to the "early"
 Lenin of **What is to Be Done?** infamy (not that there is any evidence that
@@ -4213,15 +4234,15 @@ cannot dispense with subordination, control and 'managers'"_ Nowhere is the
 notion that working class people, during the process of mass struggle, direct
 action and revolution, **revolutionises themselves** (see sections
 [A.2.7](secA2.md#seca27) and [J.7.2](secJ7.md#secj72), for example).
-Instead, we find a vision of people as they are under capitalism (_"human
-nature as it is now"_) and no vision of self-emancipation of the working class
-and the resulting changes that implies for those who are transforming society
-by their own action. Perhaps it will be argued that Lenin sees
+Instead, we find a vision of people as they are under capitalism ( _"human
+nature as it is now"_ ) and no vision of self-emancipation of the working
+class and the resulting changes that implies for those who are transforming
+society by their own action. Perhaps it will be argued that Lenin sees
 _"subordination"_ as being _"to the armed vanguard of all the exploited . . .
 i.e., to the proletariat"_ and so there is no contradiction. However, this is
 not the case as he confuses the rule of the party with the rule of the class:
 _"We cannot imagine democracy, not even proletarian democracy, without
-representative institutions."_ [**Op. Cit.**, p. 307 and p. 306]
+representative institutions."_ [ **Op. Cit.** , p. 307 and p. 306]
 
 Thus _"subordination"_ is **not** to the working class itself (i.e. direct
 democracy or self-management). Rather it is the _"subordination"_ of the
@@ -4230,45 +4251,45 @@ we have a vision of a "socialist" society in which the majority have not
 revolutionised themselves and are subordinated to "their" party. Such a
 subordination, however, ensures that a socialist consciousness **cannot**
 develop as only the **process** of self-management generates the abilities
-required for self-management (_"Only freedom or the struggle for freedom can
+required for self-management ( _"Only freedom or the struggle for freedom can
 be the school for freedom."_ [Malatesta, **Errico Malatesta: His Life and
-Ideas**, p. 59]). Lenin saw the revolution as the means by which the mass of
+Ideas** , p. 59]). Lenin saw the revolution as the means by which the mass of
 the people will recognise that the vanguard party represents their interests
 and so vote it into power. However, as _"there can be no talk of an
 independent ideology being developed by the masses of the workers in the
 process of their movement"_ any clash between the party and masses simply mean
 that the latter are wrong and _"the armed vanguard"_ needs _"to **combat
-spontaneity**"_ \-- literally, as we showed in [section
+spontaneity** "_ \-- literally, as we showed in [section
 H.6.3](secH6.md#sech63). As Lenin admitted in 1920:
 
 > _"Without revolutionary coercion directed against the avowed enemies of the
-workers and peasants, it is impossible to break down the resistance of these
-exploiters. On the other hand, revolutionary coercion is bound to be employed
-towards the wavering and unstable elements among the masses themselves."_
-[**Collected Works**, vol. 42, p. 170]
+> workers and peasants, it is impossible to break down the resistance of these
+> exploiters. On the other hand, revolutionary coercion is bound to be
+> employed towards the wavering and unstable elements among the masses
+> themselves."_ [ **Collected Works** , vol. 42, p. 170]
 
 As we indicate in [section H.3.8](secH3.md#sech38), this perspective meant
 that Leninist theorists ended up arguing for a state separate from the working
-class (a _"state in the proper sense of the word"_) rather than the semi-state
-promised in such works as **The State and Revolution** (a work whose promises,
-as we note in [section H.1.7](secH1.md#sech17), were forsaken completely
-within six months of the Bolshevik seizure of power). This was required to
-ensure that the party could _"combat"_ spontaneous movements in the working
-class which questioned the privileged position of the party -- both
-ideologically (in terms of its advanced ideas) and politically (its holding of
-power). This privileged position for the party engenders a perspective which
-can (and did) justify party dictatorship **over** the proletariat. Given
-Lenin's position that the working class cannot formulate its own "ideology" by
-its own efforts, of its incapacity to move beyond _"trade union
-consciousness"_ independently of the party, the clear implication is that the
-party could in no way be bound by the predominant views of the working class
-as these are, **by definition** non-socialist, bourgeois even. As the party
-embodies _"socialist consciousness"_ (and this arises outside the working
-class and its struggles) then opposition of the working class to the party
-signifies a failure of the class to resist alien influences, a failure that
-the party must fight to ensure that this failure does not spread to the
-revolution itself -- the proletariat, in short, must be repressed in its own
-interests by the "proletarian" dictatorship.
+class (a _"state in the proper sense of the word"_ ) rather than the semi-
+state promised in such works as **The State and Revolution** (a work whose
+promises, as we note in [section H.1.7](secH1.md#sech17), were forsaken
+completely within six months of the Bolshevik seizure of power). This was
+required to ensure that the party could _"combat"_ spontaneous movements in
+the working class which questioned the privileged position of the party --
+both ideologically (in terms of its advanced ideas) and politically (its
+holding of power). This privileged position for the party engenders a
+perspective which can (and did) justify party dictatorship **over** the
+proletariat. Given Lenin's position that the working class cannot formulate
+its own "ideology" by its own efforts, of its incapacity to move beyond
+_"trade union consciousness"_ independently of the party, the clear
+implication is that the party could in no way be bound by the predominant
+views of the working class as these are, **by definition** non-socialist,
+bourgeois even. As the party embodies _"socialist consciousness"_ (and this
+arises outside the working class and its struggles) then opposition of the
+working class to the party signifies a failure of the class to resist alien
+influences, a failure that the party must fight to ensure that this failure
+does not spread to the revolution itself -- the proletariat, in short, must be
+repressed in its own interests by the "proletarian" dictatorship.
 
 Therefore McNally's comments that Leninism is a valid expression of Marx's
 idea of proletarian self-emancipation is false. In reality, Lenin rejected the
@@ -4296,8 +4317,8 @@ anarchists stress self-management of working class struggle and organisation
 from below (anarchists are, to use Bakunin's words, _"convinced that
 revolution is only sincere, honest and real in the hands of the masses, and
 that when it is concentrated in those of a few ruling individuals it
-inevitably and immediately becomes reaction"_ [**Michael Bakunin: Selected
-Writings**, p. 237]). Only when this happens can new ways of life be created
+inevitably and immediately becomes reaction"_ [ **Michael Bakunin: Selected
+Writings** , p. 237]). Only when this happens can new ways of life be created
 and truly develop freely. It also explains anarchist opposition to political
 groups seizing power -- that will only result in old dogmas crushing the
 initiative of people in struggle and the new forms of life they create. That
@@ -4316,25 +4337,25 @@ level of comprehending theoretically the historical movement as a whole."_ In
 addition, the Communists are _"the most advanced and resolute section of the
 working-class parties"_ and _"they have over the great mass of the proletariat
 the advantage of clearly understanding the line of march, the conditions, and
-the general results of the proletarian movement"_. [**The Marx-Engels
-Reader**, p. 481 and p. 484] This, needless to say, places _"bourgeois
+the general results of the proletarian movement"_. [ **The Marx-Engels
+Reader** , p. 481 and p. 484] This, needless to say, places _"bourgeois
 ideologists"_ and party leaders (like Marx, Engels, Lenin and Trotsky) in a
 privileged position within the party, labour movement and society as a whole.
 Had not Marx and Engels argued in **The Holy Family** that the _"question is
 not what this or that proletarian, or even the whole of the proletariat at the
-moment **considers** as its aim. The question is **what the proletariat is**,
-and what, consequent on that **being**, it will be compelled to do."_ [quoted
-by Murray Bookchin, **The Spanish Anarchists**, p. 280] As Murray Bookchin
+moment **considers** as its aim. The question is **what the proletariat is** ,
+and what, consequent on that **being** , it will be compelled to do."_ [quoted
+by Murray Bookchin, **The Spanish Anarchists** , p. 280] As Murray Bookchin
 argued:
 
 > _"These lines and others like them in Marx's writings were to provide the
-rationale for asserting the authority of Marxist parties and their armed
-detachments over and even against the proletariat. Claiming a deeper and more
-informed comprehension of the situation than 'even the whole of the
-proletariat at the given moment,' Marxist parties went on to dissolve such
-revolutionary forms of proletarian organisation as factory committees and
-ultimately to totally regiment the proletariat according to lines established
-by the party leadership."_ [**Op. Cit.**, p. 289]
+> rationale for asserting the authority of Marxist parties and their armed
+> detachments over and even against the proletariat. Claiming a deeper and
+> more informed comprehension of the situation than 'even the whole of the
+> proletariat at the given moment,' Marxist parties went on to dissolve such
+> revolutionary forms of proletarian organisation as factory committees and
+> ultimately to totally regiment the proletariat according to lines
+> established by the party leadership."_ [ **Op. Cit.** , p. 289]
 
 Unlike Lenin and Trotsky, Marx and Engels rarely drew the obvious conclusions
 from their arguments (although their contempt for working class socialist
@@ -4356,70 +4377,70 @@ similarity with the Russian soviets (see [section 5](append31.md#app5)).
 Indeed, the Paris Commune (in both its economic and political aspects) showed
 a clear inspiration from Proudhon's works. In the words of George Woodcock,
 there are _"demands in the Commune's Manifesto to the French People of the
-19th April, 1871, that might have been written by Proudhon himself."_
-[**Pierre-Joseph Proudhon: A Biography**, p. 276] K. Steven Vincent also
+19th April, 1871, that might have been written by Proudhon himself."_ [
+**Pierre-Joseph Proudhon: A Biography** , p. 276] K. Steven Vincent also
 points out that the declaration _"is strongly federalist in tone, and it has a
-marked proudhonian flavour."_ [**Pierre-Joseph Proudhon and the Rise of French
-Republican Socialism**, p. 232] Moreover, the desire to replace wage labour
-with associated labour by the creation of co-operatives expressed during the
-Commune clearly showed the influence of Proudhon. Marx mentions a _"rough
-sketch of national organisation which the Commune had no time to develop"_ but
-does not quote from it. [**The Marx-Engels Reader**, p. 633] This is perhaps
-unsurprising as the Commune's declaration clearly shows its anarchist roots
-and tendencies:
+marked proudhonian flavour."_ [ **Pierre-Joseph Proudhon and the Rise of
+French Republican Socialism** , p. 232] Moreover, the desire to replace wage
+labour with associated labour by the creation of co-operatives expressed
+during the Commune clearly showed the influence of Proudhon. Marx mentions a
+_"rough sketch of national organisation which the Commune had no time to
+develop"_ but does not quote from it. [ **The Marx-Engels Reader** , p. 633]
+This is perhaps unsurprising as the Commune's declaration clearly shows its
+anarchist roots and tendencies:
 
 > _"The absolute autonomy of the Commune extended to all localities in France
-and assuring to each one its full rights, and to every Frenchman the full
-exercise of his faculties and abilities as man, citizen and producer._
+> and assuring to each one its full rights, and to every Frenchman the full
+> exercise of his faculties and abilities as man, citizen and producer._
 
 > _"The only limit to the autonomy of the Commune should be the equal right to
-autonomy for all communes adhering to the contract, whose association shall
-insure French unity . . . The choice by election or competition of magistrates
-and communal functionaries of all orders, as well as the permanent right of
-control and revocation._
+> autonomy for all communes adhering to the contract, whose association shall
+> insure French unity . . . The choice by election or competition of
+> magistrates and communal functionaries of all orders, as well as the
+> permanent right of control and revocation._
 
 > _"The absolute guarantee of individual freedom and freedom of conscience._
 
 > _"The permanent intervention of citizens in communal affairs by the free
-manifestation of their ideas, the free defence of their interests . . . _
+> manifestation of their ideas, the free defence of their interests . . ._
 
 > _"The organisation of urban defence and the National Guard, which elects its
-chiefs and alone watches over the maintenance of order in the city . . ._
+> chiefs and alone watches over the maintenance of order in the city . . ._
 
 > _"Paris wants nothing else as a local guarantee, on condition, of course, of
-finding in the great central administration -- the delegation of federated
-Communes -- the realisation and the practice of the same principles. But as an
-element of its autonomy, and profiting by its freedom of action, within its
-borders it reserves to itself the right to operate the administrative and
-economic reforms called for by the populace as it wills; to create the
-institutions needed to develop and spread instruction, production, exchange
-and credit; to universalise power and property in keeping with the needs of
-the moment, the wishes of those concerned and the facts furnished by
-experience._
+> finding in the great central administration -- the delegation of federated
+> Communes -- the realisation and the practice of the same principles. But as
+> an element of its autonomy, and profiting by its freedom of action, within
+> its borders it reserves to itself the right to operate the administrative
+> and economic reforms called for by the populace as it wills; to create the
+> institutions needed to develop and spread instruction, production, exchange
+> and credit; to universalise power and property in keeping with the needs of
+> the moment, the wishes of those concerned and the facts furnished by
+> experience._
 
 > _"Unity, as it has been imposed on us until today by the Empire, the
-monarchy or parliamentarism is nothing but unintelligent, arbitrary or onerous
-centralisation._
+> monarchy or parliamentarism is nothing but unintelligent, arbitrary or
+> onerous centralisation._
 
 > _"Political unity, as Paris wants it, is the voluntary association of all
-local initiatives, the spontaneous and free concourse of all individual
-energies in view of a common goal: the well-being, the freedom and the
-security of all._
+> local initiatives, the spontaneous and free concourse of all individual
+> energies in view of a common goal: the well-being, the freedom and the
+> security of all._
 
 > _"The communal revolution, begun by popular initiative on March 18, begins a
-new era of experimental, positive, scientific politics._
+> new era of experimental, positive, scientific politics._
 
 > _"It is the end of the old governmental and clerical world, of militarism
-and bureaucracy, of exploitation, speculation, monopolies and privileges to
-which the proletariat owe their servitude and the Fatherland its misfortunes
-and disasters."_ [_"Declaration to the French People"_, pp. 789-791,
-**Property is Theft!**, pp. 789-790]
+> and bureaucracy, of exploitation, speculation, monopolies and privileges to
+> which the proletariat owe their servitude and the Fatherland its misfortunes
+> and disasters."_ [ _"Declaration to the French People"_ , pp. 789-791,
+> **Property is Theft!** , pp. 789-790]
 
 The links with Proudhon's ideas cannot be clearer. Little wonder, then, that
 during the Commune anarchist James Guillaume stated that _"the Paris
 Revolution is federalist . . . in the sense given it years ago by the great
 socialist, Proudhon."_ It is _"above all the negation of the nation and the
-State."_ [contained in **The Paris Commune of 1871: The View From the Left**,
+State."_ [contained in **The Paris Commune of 1871: The View From the Left** ,
 Eugene Schulkind (ed.), p. 191] Bakunin, for his part, rightly argued that its
 _"general effect was so striking that the Marxists themselves, who saw their
 ideas upset by the uprising, found themselves compelled to take their hats off
@@ -4427,7 +4448,7 @@ to it. They went further, and proclaimed that its programme and purpose where
 their own, in face of the simplest logic . . . This was a truly farcical
 change of costume, but they were bound to make it, for fear of being overtaken
 and left behind in the wave of feeling which the rising produced throughout
-the world."_ [**Michael Bakunin: Selected Writings**, p. 261]
+the world."_ [ **Michael Bakunin: Selected Writings** , p. 261]
 
 To see why, we need simply to compare Marx's reporting of the Commune with
 Proudhon's words. Marx stated, correctly, that the Commune _"was formed of the
@@ -4435,20 +4456,20 @@ municipal councillors, chosen by universal suffrage in the various wards of
 the town, responsible and revocable at short terms"_ and was _"a working, not
 a parliamentary, body, executive and legislative at the same time"_. The
 delegates would _"revocable and bound by the **mandat imperatif** (formal
-instructions) of his constituents"_ [**The Marx-Engels Readers**, p. 632 and
+instructions) of his constituents"_ [ **The Marx-Engels Readers** , p. 632 and
 p. 633] As well as arguing that _"federalism is the political form of
-humanity"_, Proudhon also argued that the _"legislative power is not
-distinguished from the executive power."_ [**Property is Theft!**, p. 678 and
-p. 674] As he put it in 1848:
+humanity"_ , Proudhon also argued that the _"legislative power is not
+distinguished from the executive power."_ [ **Property is Theft!** , p. 678
+and p. 674] As he put it in 1848:
 
 > _"It is up to the National Assembly, through organisation of its committees,
-to exercise executive power, just the way it exercises legislative power . . .
-Besides universal suffrage and as a consequence of universal suffrage, we want
-implementation of the imperative mandate [**mandat impératif**]. Politicians
-balk at it! Which means that in their eyes, the people, in electing
-representatives, do not appoint mandatories but rather abjure their
-sovereignty! That is assuredly not socialism: it is not even democracy."_
-[**Op. Cit.**, pp. 378-9]
+> to exercise executive power, just the way it exercises legislative power . .
+> . Besides universal suffrage and as a consequence of universal suffrage, we
+> want implementation of the imperative mandate [ **mandat impératif** ].
+> Politicians balk at it! Which means that in their eyes, the people, in
+> electing representatives, do not appoint mandatories but rather abjure their
+> sovereignty! That is assuredly not socialism: it is not even democracy."_ [
+> **Op. Cit.** , pp. 378-9]
 
 This applies to the economic goals of the Commune, with Marx suggesting that
 it _"wanted to make individual property a truth by transforming the means of
@@ -4458,29 +4479,29 @@ Communism"_. Engels, twenty years later, painted a picture of Proudhon being
 opposed to association (except for large-scale industry) and stated that _"to
 combine all these associations in one great union"_ was _"the direct opposite
 of the Proudhon doctrine"_ and so _"the Commune was the grave of the Proudhon
-school of socialism."_ [**Op. Cit.**, p. 635 and p. 626] Yet they must have
+school of socialism."_ [ **Op. Cit.** , p. 635 and p. 626] Yet they must have
 been aware of Proudhon's support for large-scale industry and workers
 associations ([section 4](append31.md)) as expressed, for example, in his
 1863 call for an _"agricultural-industrial federation"_ or his 1846 comment
 that _"to unfold the system of economic contradictions is to lay the
-foundations of universal association"_ [**Op. Cit.**, p. 712 and p. 179] As he
-put it in 1848:
+foundations of universal association"_ [ **Op. Cit.** , p. 712 and p. 179] As
+he put it in 1848:
 
 > _"under universal association, ownership of the land and of the instruments
-of labour is **social** ownership . . . We want the mines, canals, railways
-handed over to democratically organised workers’ associations . . . We want
-these associations to be models for agriculture, industry and trade, the
-pioneering core of that vast federation of companies and societies woven into
-the common cloth of the democratic and social Republic."_ [**Op. Cit.**, pp.
-777-8]
+> of labour is **social** ownership . . . We want the mines, canals, railways
+> handed over to democratically organised workers’ associations . . . We want
+> these associations to be models for agriculture, industry and trade, the
+> pioneering core of that vast federation of companies and societies woven
+> into the common cloth of the democratic and social Republic."_ [ **Op.
+> Cit.** , pp. 777-8]
 
 Given that Marx described the Commune as _"essentially a working-class
-government"_, _"the political form at last discovered under which to work out
+government"_ , _"the political form at last discovered under which to work out
 the economic emancipation of labour"_ and _"will be for ever celebrated as the
-glorious harbinger of a new society"_, it is strange that McNally terms
-Proudhon's and Bakunin's ideas as those of the past. [**Op. Cit.**, pp. 634-5
-and p. 652] It seems the height of hypocrisy for McNally to attack Proudhon
-while praising the Paris Commune.
+glorious harbinger of a new society"_ , it is strange that McNally terms
+Proudhon's and Bakunin's ideas as those of the past. [ **Op. Cit.** , pp.
+634-5 and p. 652] It seems the height of hypocrisy for McNally to attack
+Proudhon while praising the Paris Commune.
 
 So the awkward fact is that anarchists had been advocating these forms since
 Proudhon in the 1840s and they were developed by Bakunin in the 1860s. Nothing
@@ -4493,7 +4514,7 @@ considerable influence in the Commune. This 'political form' was therefore not
 to be correct by the very fact that in the crisis the Paris workers adopted it
 almost automatically, under the pressure of circumstance, rather than as the
 result of theory, as being the form most suitable to express working class
-aspirations."_ [**Michael Bakunin and Karl Marx**, pp. 212-3]
+aspirations."_ [ **Michael Bakunin and Karl Marx** , pp. 212-3]
 
 Little wonder few Marxists (like Marx himself) directly quote from the
 Commune's declaration. It would be difficult to attack anarchism (as "petty-
@@ -4504,29 +4525,29 @@ and the claim that federalism _"as a principle follows logically from the
 petty-bourgeois views of anarchism. Marx was a centralist"_ and to _"confuse
 Marx's views . . . with Proudhon's federalism is positively monstrous!"_ While
 there may be _"not a trace of federalism"_ in Marx's _"observations on the
-experience of the Commune"_, the Commune **itself** was distinctly federalist
+experience of the Commune"_ , the Commune **itself** was distinctly federalist
 in its aspirations. If Marx _"upheld democratic centralism, the republic --
 one and indivisible"_ the same cannot be said of the Communards themselves.
-[Lenin, _"The State and Revolution"_, **The Lenin Anthology**, p. 348, p. 347
-and p. 361] As Paul Avrich noted, the _"influence of Proudhon --
+[Lenin, _"The State and Revolution"_ , **The Lenin Anthology** , p. 348, p.
+347 and p. 361] As Paul Avrich noted, the _"influence of Proudhon --
 unquestionably greater than that of Marx -- was reflected in the title of
-'Federals' by which the Communards were known."_ [**Anarchist Portraits**, p.
-232]
+'Federals' by which the Communards were known."_ [ **Anarchist Portraits** ,
+p. 232]
 
 This is not to suggest that the Commune was a perfect example of anarchism in
 action -- far from it. As we indicate in [section A.5.1](secA5.md#seca51),
 while it wished federalism outside of Paris it was not federalist within its
 boundaries. If, as Marx put it, _"the Paris Commune took the management of the
 revolution in its own hands"_ then its structure simply was not up to its
-tasks. [**Op. Cit.**, p. 636] As Bakunin put it, while the Commune was _"a
-bold and outspoken negation of the State"_, the Communards had set up _"a
+tasks. [ **Op. Cit.** , p. 636] As Bakunin put it, while the Commune was _"a
+bold and outspoken negation of the State"_ , the Communards had set up _"a
 revolutionary government"_ within Paris and so organised _"themselves in
 reactionary Jacobin fashion, forgetting or sacrificing what they themselves
-knew were the first conditions of revolutionary socialism"_, rather than _"by
+knew were the first conditions of revolutionary socialism"_ , rather than _"by
 the free association or federation of workers, firstly in their unions, then
 in the communes, regions, nations and finally in a great federation,
-international and universal"_ organised _"solely from the bottom upwards."_
-[**Michael Bakunin: Selected Writings**, p. 199, p. 202 and p. 206] Building
+international and universal"_ organised _"solely from the bottom upwards."_ [
+**Michael Bakunin: Selected Writings** , p. 199, p. 202 and p. 206] Building
 on Bakunin's comments, Kropotkin argued that while _"proclaiming the free
 Commune, the people of Paris proclaimed an essential anarchist principle"_ but
 _"they stopped mid-course"_ and gave _"themselves a Communal Council copied
@@ -4539,7 +4560,7 @@ isolated from the masses and shut-up in the town hall which lead to disaster
 as the Commune council became _"immobilised . . . by red tape"_ and lost _"the
 sensitivity that comes from continued contact with the masses . . . Paralysed
 by their distancing from the revolutionary centre –- the people -– they
-themselves paralysed the popular initiative."_ [**Words of a Rebel**, p. 97,
+themselves paralysed the popular initiative."_ [ **Words of a Rebel** , p. 97,
 p. 93 and p. 97]
 
 So the Commune applied aspects of anarchism but not all. However, the main
@@ -4566,15 +4587,15 @@ In fact, the Paris Commune was primarily the work of artisans (the bulk of the
 Parisian workers at the time). This is reflected in Marx's comments in 1866
 that the French workers were _"corrupted"_ by Proudhon's _"sham criticism and
 sham opposition to the Utopians (he himself is only a petty-bourgeois utopian
-. . .)"_, _"particularly those of Paris, who as workers in luxury trades are
+. . .)"_ , _"particularly those of Paris, who as workers in luxury trades are
 strongly attached, without knowing it [!], to the old rubbish."_ The
 _"Parisian gentlemen had their heads full of the emptiest Proudhonist
 phrases"_ and so _"Proudhon did enormous mischief."_ [Marx, Engels and Lenin,
-**Anarchism and Anarcho-syndicalism**, pp. 45-6] Five years later, these
+**Anarchism and Anarcho-syndicalism** , pp. 45-6] Five years later, these
 workers (still obviously influenced by _"the old rubbish"_ and their heads
-still full of _"Proudhonist phrases"_) created _"the political form"_ of _"the
-economic emancipation of labour."_ This is not explained by Marxists, who also
-do not trouble themselves to explain how can the Paris Commune be the
+still full of _"Proudhonist phrases"_ ) created _"the political form"_ of
+_"the economic emancipation of labour."_ This is not explained by Marxists,
+who also do not trouble themselves to explain how can the Paris Commune be the
 _"Dictatorship of the Proletariat"_ when 35 members of the Commune's council
 were artisans and only 4 or 5 were industrial workers (i.e. proletarians).
 
@@ -4619,11 +4640,11 @@ local grouping which allows the workers in the same area to liaise on a day to
 day basis"_ and _"a linking up of the various localities, fields, regions,
 etc."_ (i.e. international trade or industrial union federations) would ensure
 that _"labour organises for present and future by doing away with wage
-slavery."_ [**No Gods, No Masters**, vol. 1, p. 184] Such a vision of workers'
-councils and associated labour has obvious similarities with the spontaneously
-created soviets of the 1905 Russian Revolution. These, too, were based on
-assembled councils of workers' delegates. Of course they were differences but
-the basic idea and vision are identical.
+slavery."_ [ **No Gods, No Masters** , vol. 1, p. 184] Such a vision of
+workers' councils and associated labour has obvious similarities with the
+spontaneously created soviets of the 1905 Russian Revolution. These, too, were
+based on assembled councils of workers' delegates. Of course they were
+differences but the basic idea and vision are identical.
 
 Therefore to claim that anarchism represents the past presents Marxists with a
 few problems given the nature of the Paris Commune and its obvious libertarian
@@ -4633,7 +4654,7 @@ to place themselves at that of the proletariat"_ (the class they are being
 _"tranfer[ed]"_ into by the rise of capitalism) then, clearly, anarchist ideas
 are _"future,"_ proletarian, ideas as it is that class interest artisans serve
 _"[i]f by chance they are revolutionary."_ [Marx and Engels, _"The Communist
-Manifesto"_, **The Marx-Engels Reader**, p. 482]
+Manifesto"_ , **The Marx-Engels Reader** , p. 482]
 
 Whichever way you look at it, McNally's claims on the class nature of
 anarchism do not stand up to close analysis. Proudhon addressed both
@@ -4648,7 +4669,7 @@ in France, Belgium, Spain and Italy. As Paul Avrich suggests, as _"early as
 the 1860's and 1870's, the followers of Proudhon and Bakunin in the First
 International were proposing the formation of workers' councils designed both
 as a weapon of class struggle against capitalists and as the structural basis
-of the future libertarian society"_ [**The Russian Anarchists**, p. 73]
+of the future libertarian society"_ [ **The Russian Anarchists** , p. 73]
 Therefore it is not surprising that Proudhon and Bakunin predicted aspects of
 the Paris Commune -- they were expressing the politics of the future. As is
 clear from their writings, which still remain fresh today.
@@ -4670,17 +4691,17 @@ by Kropotkin the year before Trotsky introduced it into Marxism.
 Thus Proudhon argued that the 1848 revolution _"had been made 'without an
 idea' and that it had unfortunately satisfied itself with the proclamation of
 purely political palliatives"_ and _"he did not believe that such political
-reforms would solve the social problem."_ [K. Steven Vincent, **Op. Cit.**, p.
-169] Bakunin took up, as with so many other things, Proudhon's argument and,
-as we discuss in [section H.1.1](secH1.md#sech11), a key part of Bakunin's
-critique of Marxism was precisely that it looked to political change before
-social and economic transformation, the latter coming as a result of
+reforms would solve the social problem."_ [K. Steven Vincent, **Op. Cit.** ,
+p. 169] Bakunin took up, as with so many other things, Proudhon's argument
+and, as we discuss in [section H.1.1](secH1.md#sech11), a key part of
+Bakunin's critique of Marxism was precisely that it looked to political change
+before social and economic transformation, the latter coming as a result of
 "political action" allowed by the previous political revolution. Thus _"[t]o
 win political freedom first can signify no other thing but to win this freedom
 only, leaving for the first days at least economic and social relations in the
 same old state, -- that is, leaving the proprietors and capitalists with their
-insolent wealth, and the workers with their poverty."_ [**The Political
-Philosophy of Bakunin**, p. 294] This meant that anarchists aimed to ensure
+insolent wealth, and the workers with their poverty."_ [ **The Political
+Philosophy of Bakunin** , p. 294] This meant that anarchists aimed to ensure
 any revolution was _"simultaneously universal, social, philosophical, economic
 and political revolution"_. The _"revolution as we understand it will . . .
 set about the . . . complete destruction of the State . . . The natural and
@@ -4693,34 +4714,35 @@ The _"federated Alliance of all labour associations . . . will constitute the
 Commune."_ The people _"must make the revolution everywhere, and . . .
 ultimate direction of it must at all times be vested in the people organised
 into a free federation of agricultural and industrial associations . . .
-organised from the bottom up."_ [**No Gods, No Masters**, vol. 1 pp. 152-6]
+organised from the bottom up."_ [ **No Gods, No Masters** , vol. 1 pp. 152-6]
 This was echoed by Kropotkin in 1905:
 
 > _"The Russian people -- the working men -- having compelled the autocrat to
-abdicate his despotic power, must compel him now to give body to his
-abdication by sending away the troops upon which rest his power and the power
-of bureaucracy, the power of unbridled capitalism._
+> abdicate his despotic power, must compel him now to give body to his
+> abdication by sending away the troops upon which rest his power and the
+> power of bureaucracy, the power of unbridled capitalism._
 
 > _"The people must arm itself; otherwise the Tsar, the bureaucrats and the
-capitalists will crush it down . . . the Russian working men must not forget
-**their own demands**. To guarantee the individual against police
-arbitrariness is necessary for all. But he who works and produces riches with
-his own hands requires something else. . . . If you are compelled tomorrow,
-after the Constitution has been proclaimed, to return to the factories the
-same slaves as you have been before, then you will have been betrayed . . ._
+> capitalists will crush it down . . . the Russian working men must not forget
+> **their own demands**. To guarantee the individual against police
+> arbitrariness is necessary for all. But he who works and produces riches
+> with his own hands requires something else. . . . If you are compelled
+> tomorrow, after the Constitution has been proclaimed, to return to the
+> factories the same slaves as you have been before, then you will have been
+> betrayed . . ._
 
 > _"Don't expect anything from would-be saviours. But in every factory, every
-building yard, every workshop, and every mine, **establish yourselves the
-order of things which, by common accord, you will find proper to establish**.
-But remember this: Don't allow others to interfere! It is **your** affair, and
-**you** have to settle it._
+> building yard, every workshop, and every mine, **establish yourselves the
+> order of things which, by common accord, you will find proper to
+> establish**. But remember this: Don't allow others to interfere! It is
+> **your** affair, and **you** have to settle it._
 
-> _"**Accomplish yourselves a revolution in the organisation of labour as you
-have accomplished it in the general administration of the Russian State.**_
+> _" **Accomplish yourselves a revolution in the organisation of labour as you
+> have accomplished it in the general administration of the Russian State.**_
 
 > _"Don't trust those who will tell you: 'Not yet! It is too soon!' No, it is
-not too soon; it is just the time for it."_ [_"The Revolution in Russia"_,
-**Direct Struggle Against Capital**, pp. 456-7]
+> not too soon; it is just the time for it."_ [ _"The Revolution in Russia"_ ,
+> **Direct Struggle Against Capital** , pp. 456-7]
 
 As with the Paris Commune and the soviets, yet another key aspect of McNally's
 Marxism was first advocated by anarchists. As Emma Goldman noted in 1918, the
@@ -4737,8 +4759,8 @@ word, the Russian people saw in the overthrow of the autocracy the
 **beginning** and not the **finale** of the Revolution."_ For the toiler, the
 Russian Revolution _"can mean nothing . . . unless it sets the land fee and
 joins to the dethroned Tsar his partner, the dethroned land-owner, the
-capitalist."_ [_"The Truth About the Bolsheviki"_, **Writings of Emma
-Goldman**, p. 163 and p. 165]
+capitalist."_ [ _"The Truth About the Bolsheviki"_ , **Writings of Emma
+Goldman** , p. 163 and p. 165]
 
 So when Victor Serge, like McNally, stated that by concluding the _"self-
 evident truth"_ that _"the Russian Revolution cannot confine itself to
@@ -4748,7 +4770,7 @@ line"_ advocated by Lenin we must remember that this was not _"the line"_
 pioneered by Trotsky but rather the one raised by Kropotkin and other
 anarchists during the 1905 revolution (and rejected at the time by all
 Marxists) **and** that this had been argued for since the late 1860s by
-Bakunin and other libertarians. [**Memoirs of a Revolutionary**, p. 60]
+Bakunin and other libertarians. [ **Memoirs of a Revolutionary** , p. 60]
 
 This confusion associated with Marxist "class analysis" of anarchism was also
 present in Lenin. Given that anarchism is apparently associated with the
@@ -4764,8 +4786,8 @@ nations, syndicalism was _"a profoundly proletarian and mass movement"_ and
 that it is _"the duty of all Communists to do everything to help all
 proletarian mass elements to abandon anarchism . . . the measure in which
 genuinely Communist parties succeed in winning mass proletarian elements . . .
-away from anarchism, is a criterion of the success of those Parties."_
-[**Collected Works**, vol. 31, p. 31, p. 32, p. 200 and p. 201]
+away from anarchism, is a criterion of the success of those Parties."_ [
+**Collected Works** , vol. 31, p. 31, p. 32, p. 200 and p. 201]
 
 Thus, in the most capitalist nations, ones with a more widespread and
 developed proletariat, the anarchist and syndicalist movements were more
@@ -4799,24 +4821,25 @@ start of the civil war. As Emma Goldman noted, a claim such as Lenin's _"does
 not tally with the incessant persecution of Anarchists which began in [April]
 1918, when Leon Trotsky liquidated the Anarchist headquarters in Moscow with
 machine guns. At that time the process of elimination of the Anarchists
-began."_ [_Trotsky Protests Too Much"_, **Writings of Emma Goldman**, p. 265]
-This fact of anarchist influence during the revolution does not contradict our
-earlier analysis. This is because the Russian anarchists, rather than
-appealing to the petit-bourgeois, were influencing exactly the same workers,
-sailors and soldiers the Bolsheviks were. Indeed, the Bolsheviks often had to
-radicalise their activities and rhetoric to counter anarchist influence. As
-Alexander Rabinowitch in his study of the July uprising of 1917 notes:
+began."_ [ _Trotsky Protests Too Much"_ , **Writings of Emma Goldman** , p.
+265] This fact of anarchist influence during the revolution does not
+contradict our earlier analysis. This is because the Russian anarchists,
+rather than appealing to the petit-bourgeois, were influencing exactly the
+same workers, sailors and soldiers the Bolsheviks were. Indeed, the Bolsheviks
+often had to radicalise their activities and rhetoric to counter anarchist
+influence. As Alexander Rabinowitch in his study of the July uprising of 1917
+notes:
 
 > _"At the rank-and-file level, particularly within the [Petrograd] garrison
-and at the Kronstadt naval base, there was in fact very little to distinguish
-Bolshevik from Anarchist . . . The Anarchist-Communists and the Bolsheviks
-competed for the support of the same uneducated, depressed and dissatisfied
-elements of the population, and the fact is that in the summer of 1917, the
-Anarchist-Communists, with the support they enjoyed in a few important
-factories and regiments, possessed an undeniable capacity to influence the
-course of events. Indeed, the Anarchist appeal was great enough in some
-factories and military units to influence the actions of the Bolsheviks
-themselves."_ [**Prelude to Revolution**, p. 64]
+> and at the Kronstadt naval base, there was in fact very little to
+> distinguish Bolshevik from Anarchist . . . The Anarchist-Communists and the
+> Bolsheviks competed for the support of the same uneducated, depressed and
+> dissatisfied elements of the population, and the fact is that in the summer
+> of 1917, the Anarchist-Communists, with the support they enjoyed in a few
+> important factories and regiments, possessed an undeniable capacity to
+> influence the course of events. Indeed, the Anarchist appeal was great
+> enough in some factories and military units to influence the actions of the
+> Bolsheviks themselves."_ [ **Prelude to Revolution** , p. 64]
 
 This is hardly what would be expected if anarchism was "petit-bourgeois" as
 Marxists assert.
@@ -4829,10 +4852,10 @@ centralised policies were simply not solving the problems facing the
 revolution. At the time many considered the Bolsheviks as anarchists and one
 fellow Marxist (an ex-Bolshevik turned Menshevik) thought Lenin had _"made
 himself a candidate for one European throne that has been vacant for thirty
-years -- the throne of Bakunin!"_ [quoted by Rabinowitch, **Op. Cit.**, p. 40]
-As Alexander Berkman argued, the _"Anarchist mottoes proclaimed by the
-Bolsheviks did not fail to bring results. The masses relied to their flag."_
-[**What is Anarchism?**, p. 120] Indeed, as we note in [section
+years -- the throne of Bakunin!"_ [quoted by Rabinowitch, **Op. Cit.** , p.
+40] As Alexander Berkman argued, the _"Anarchist mottoes proclaimed by the
+Bolsheviks did not fail to bring results. The masses relied to their flag."_ [
+**What is Anarchism?** , p. 120] Indeed, as we note in [section
 H.5.12](secH5.md#sech512), the Bolshevik party in the summer of 1917 was far
 from the disciplined vanguard party of Leninist myth and far more like a
 federation of local groups which could -- and did -- ignore the party's
@@ -4847,11 +4870,11 @@ Moreover, this stealing of anarchist slogans and tactics in 1917 was
 the masses of peasants and workers were _"a hundred times further to the
 left"_ than the Bolsheviks. Trotsky himself notes that the Bolsheviks _"lagged
 behind the revolutionary dynamic . . . The masses at the turning point were a
-hundred times to the left of the extreme left party."_ [**History of the
-Russian Revolution**, Vol. 1, p. 403f] Indeed, one leading Bolshevik stated in
-June 1917 (in response to a rise in anarchist influence), _"[b]y fencing
+hundred times to the left of the extreme left party."_ [ **History of the
+Russian Revolution** , Vol. 1, p. 403f] Indeed, one leading Bolshevik stated
+in June 1917 (in response to a rise in anarchist influence), _"[b]y fencing
 ourselves off from the Anarchists, we may fence ourselves off from the
-masses."_ [quoted by Rabinowitch, **Op. Cit.**, p. 102] That, in itself,
+masses."_ [quoted by Rabinowitch, **Op. Cit.** , p. 102] That, in itself,
 indicates the weakness of Lenin's class analysis of anarchism.
 
 Rather than the Russian experience refute the claim that anarchism is a
@@ -4928,15 +4951,15 @@ working class self-government, he saw them purely as a means of gaining
 influence for his party:
 
 > _"the Party . . . has never renounced its intention of utilising certain
-non-party organisations, such as the Soviets of Workers' Deputies . . . to
-extend Social-Democratic influence among the working class and to strengthen
-the Social-Democratic labour movement . . . the incipient revival creates the
-opportunity to organise or utilise non-party working-class institutions, such
-as Soviets . . . for the purpose of developing the Social-Democratic movement;
-at the same time the Social-Democratic Party organisations must bear in mind
-if Social-Democratic activities among the proletarian masses are properly,
-effectively and widely organised, such institutions may actually become
-superfluous."_ [**Collected Works**, vol. 12, pp. 143-4]
+> non-party organisations, such as the Soviets of Workers' Deputies . . . to
+> extend Social-Democratic influence among the working class and to strengthen
+> the Social-Democratic labour movement . . . the incipient revival creates
+> the opportunity to organise or utilise non-party working-class institutions,
+> such as Soviets . . . for the purpose of developing the Social-Democratic
+> movement; at the same time the Social-Democratic Party organisations must
+> bear in mind if Social-Democratic activities among the proletarian masses
+> are properly, effectively and widely organised, such institutions may
+> actually become superfluous."_ [ **Collected Works** , vol. 12, pp. 143-4]
 
 Such a perspective indicates well the difference between anarchism and
 Leninism. Anarchists do not seek power for their own organisations. Rather
@@ -4953,8 +4976,8 @@ self-management and freedom, are instead subjected to an elitist leadership of
 intellectual ideologues. The party soon substitutes itself for the mass
 movement, and the party leadership substitutes itself the party. This is the
 inevitable result of a vision of socialism rooted in being _"fully and
-unreservedly in favour of a strong state power and of centralism."_ [**Op.
-Cit.**, vol. 26, p. 116]
+unreservedly in favour of a strong state power and of centralism."_ [ **Op.
+Cit.** , vol. 26, p. 116]
 
 Lenin's view of the soviets was instrumental: he regarded them merely as a
 means of getting the workers to support the Bolshevik Party and ensuring his
@@ -4970,7 +4993,7 @@ self-government and, ultimately, self-emancipation ([section
 working class self-emanicipation). _"Lenin"_ as one historian concluded,
 _"believed that the transition to socialism was guaranteed ultimately, not by
 the self-activity of workers, but by the 'proletarian' character of state
-power."_ [A. S. Smith, **Red Petrograd**, pp. 261-2] Worse, the 'proletarian'
+power."_ [A. S. Smith, **Red Petrograd** , pp. 261-2] Worse, the 'proletarian'
 character of the state was determined by the party in government and, as we
 indicated in [section 8](append31.md#app8), the party determined what was
 and was not "proletarian" so allowing -- indeed, justifying -- party
@@ -5000,19 +5023,20 @@ can only produce a new ruling class (the bureaucracy) in a new class system
 (state capitalism). As Kropotkin predicted:
 
 > _"The state organisation, having always been . . . the instrument for
-establishing monopolies in favour of the ruling minorities, cannot be made to
-work for the destruction of these monopolies. The anarchists consider,
-therefore, that to hand over to the state all the main sources of economical
-life -- the land, the mines, the railways, banking, insurance, and so on -- as
-also the management of all the main branches of industry, in addition to all
-the functions already accumulated in its hands (education, state-supported
-religions, defence of the territory, etc.), would mean to create a new
-instrument of tyranny. State capitalism would only increase the powers of
-bureaucracy and capitalism. True progress lies in the direction of
-decentralisation, both **territorial** and **functional**, in the development
-of the spirit of local and personal initiative, and of free federation from
-the simple to the compound, in lieu of the present hierarchy from the centre
-to the periphery."_ [**Direct Struggle Against Capital**, pp. 164-5]
+> establishing monopolies in favour of the ruling minorities, cannot be made
+> to work for the destruction of these monopolies. The anarchists consider,
+> therefore, that to hand over to the state all the main sources of economical
+> life -- the land, the mines, the railways, banking, insurance, and so on --
+> as also the management of all the main branches of industry, in addition to
+> all the functions already accumulated in its hands (education, state-
+> supported religions, defence of the territory, etc.), would mean to create a
+> new instrument of tyranny. State capitalism would only increase the powers
+> of bureaucracy and capitalism. True progress lies in the direction of
+> decentralisation, both **territorial** and **functional** , in the
+> development of the spirit of local and personal initiative, and of free
+> federation from the simple to the compound, in lieu of the present hierarchy
+> from the centre to the periphery."_ [ **Direct Struggle Against Capital** ,
+> pp. 164-5]
 
 While Leninists point to Lenin's **The State and Revolution** as proof of
 Leninism's "socialism from below" credentials, anarchists note that, firstly,
@@ -5026,15 +5050,15 @@ management of production. Thus Lenin's pointing to the postal service, in
 which workers are usually employed by the State under capitalism, as _"an
 example of the socialist economic system"_ and argued that we needed to
 _"organise the whole economy on the lines of the postal service"_ simply
-transferred economic power to the state bureaucracy. [**Collected Works**,
+transferred economic power to the state bureaucracy. [ **Collected Works** ,
 vol. 25 pp. 426-7] Anarchists, in contrast, argue that working class bodies
 like trade unions must take into their _"hands the management of production"_
 and co-operatives _"for production and for distribution, both in industry and
 agriculture"_ were expressing aspects of _"communist society"_ for _"Socialist
 forms of life could find a much easier realisation"_ by means of these bodies
-_"than by a State organisation"_. [**The Conquest of Bread**, pp. 22-23] As
+_"than by a State organisation"_. [ **The Conquest of Bread** , pp. 22-23] As
 Maurice Brinton documents in great detail in his classic **The Bolsheviks and
-Workers' Control**, the Leninist vision of socialism was never based on
+Workers' Control** , the Leninist vision of socialism was never based on
 workers management of the economy (see [section H.3.14](secH3.md#sech314)).
 Politically, the Bolsheviks placed an executive power (their own) over the
 soviets and so centralised power into the hands of a few party leaders.
@@ -5049,7 +5073,7 @@ workers themselves, **not** the Bolshevik Party, which raised the issue of
 workers' self-management and control. As S.A. Smith puts it, the _"factory
 committees launched the slogan of workers' control of production quite
 independently of the Bolshevik party. It was not until May that the party
-began to take it up."_ [**Op. Cit.**, p. 154] Given that the defining aspect
+began to take it up."_ [ **Op. Cit.** , p. 154] Given that the defining aspect
 of capitalism is wage labour, the Russian workers' raised a clearly socialist
 demand that entailed its abolition. It was the Bolshevik party, we must note,
 who failed to raise above a _"trade union conscious"_ in this and so many
@@ -5058,17 +5082,18 @@ control, and then manage, the factories they worked in. As Maurice Brinton
 correctly argued, _"it is ridiculous to claim -- as so many do today -- that
 in 1917 the Bolsheviks really stood for the full, total and direct control by
 working people of the factories, mines, building sites or other enterprises in
-which they worked, i.e. that they stood for workers' self-management."_ [_"The
-Bolsheviks and Workers' Control"_, **For Workers' Power**, p. 328] Rather,
-Lenin identified _"workers' control"_ as something totally different:
+which they worked, i.e. that they stood for workers' self-management."_ [
+_"The Bolsheviks and Workers' Control"_ , **For Workers' Power** , p. 328]
+Rather, Lenin identified _"workers' control"_ as something totally different:
 
 > _"When we say: 'workers' control', always **juxtaposing** this slogan to
-dictatorship of the proletariat, always putting it **immediately after** the
-latter, we thereby explain what kind of state we mean . . . if we are speaking
-of a proletarian state, that is, of the proletarian dictatorship, then
-workers' control can become the country-wide, all-embracing, omnipresent, most
-precise and most conscientious **accounting** of the production and
-distribution of goods."_ [**Collected Works**, vol. 26, p. 105]
+> dictatorship of the proletariat, always putting it **immediately after** the
+> latter, we thereby explain what kind of state we mean . . . if we are
+> speaking of a proletarian state, that is, of the proletarian dictatorship,
+> then workers' control can become the country-wide, all-embracing,
+> omnipresent, most precise and most conscientious **accounting** of the
+> production and distribution of goods."_ [ **Collected Works** , vol. 26, p.
+> 105]
 
 By this Lenin meant the "power" to oversee the books, to check the
 implementation of decisions made by others, rather than fundamental decision
@@ -5085,34 +5110,34 @@ _"The important thing,"_ he stressed _"will not be even the confiscation of
 the capitalists' property, but country-wide, all-embracing workers' control
 over the capitalists and their possible supporters . . . by the workers'
 control of the **workers' state**."_ The economy would be state-run based on
-the structures inherited from capitalism: _"**Compulsory syndication**, i.e.,
-compulsory amalgamation in associations under state control -- this is what
-capitalism has prepared the way for"_ [**Op. Cit.**, vol. 26, p. 118, pp.
-107-8 and p. 108] Thus others -- a few planners at the top of a centralised
-state -- would determine the plans, not the workers themselves, and primarily
-the "control" would be exercised over the capitalists whom Lenin thought
-should remain in position for an indefinite period after the revolution.
-Rather than workers' managing their own workplaces and economy Leninism meant
-_"the organisation of really democratic control, i.e., control from 'below',
-control by the workers and the poor peasants **over** the capitalists"_ [**Op.
-Cit.**, vol. 25, p.353] Unsurprisingly, then, in 1922, he even suggested
-granting legislative power to the State Planning Commission to ensure its
-decisions _"could not be rejected by ordinary procedure in Soviet bodies, but
-would need a special procedure to be reconsidered"_ as it was _"a body of
-experienced people, experts, representatives of science and technology"_ and
-so was _"actually in a better position to form a correct judgment of
-affairs"_. [**Op. Cit.**, vol. 36, p. 598]
+the structures inherited from capitalism: _" **Compulsory syndication** ,
+i.e., compulsory amalgamation in associations under state control -- this is
+what capitalism has prepared the way for"_ [ **Op. Cit.** , vol. 26, p. 118,
+pp. 107-8 and p. 108] Thus others -- a few planners at the top of a
+centralised state -- would determine the plans, not the workers themselves,
+and primarily the "control" would be exercised over the capitalists whom Lenin
+thought should remain in position for an indefinite period after the
+revolution. Rather than workers' managing their own workplaces and economy
+Leninism meant _"the organisation of really democratic control, i.e., control
+from 'below', control by the workers and the poor peasants **over** the
+capitalists"_ [ **Op. Cit.** , vol. 25, p.353] Unsurprisingly, then, in 1922,
+he even suggested granting legislative power to the State Planning Commission
+to ensure its decisions _"could not be rejected by ordinary procedure in
+Soviet bodies, but would need a special procedure to be reconsidered"_ as it
+was _"a body of experienced people, experts, representatives of science and
+technology"_ and so was _"actually in a better position to form a correct
+judgment of affairs"_. [ **Op. Cit.** , vol. 36, p. 598]
 
 So Lenin's commitment to workers' control was limited and as Maurice Brinton
 correctly summarised:
 
 > _"Nowhere in Lenin's writings is workers' control ever equated with
-fundamental decision-taking (i.e. with the **initiation** of decisions)
-relating to production . . . He envisioned a period during which, in a workers
-state, the bourgeois would still retain the formal ownership and effective
-management of most of the productive apparatus . . . capitalists would be
-coerced into co-operation. 'Workers' control' was seen as the instrument of
-this coercion."_ [**Op. Cit.**, pp. 314-5]
+> fundamental decision-taking (i.e. with the **initiation** of decisions)
+> relating to production . . . He envisioned a period during which, in a
+> workers state, the bourgeois would still retain the formal ownership and
+> effective management of most of the productive apparatus . . . capitalists
+> would be coerced into co-operation. 'Workers' control' was seen as the
+> instrument of this coercion."_ [ **Op. Cit.** , pp. 314-5]
 
 Thus the capitalists would remain and wage slavery would continue but workers
 could "control" those who had the real power and gave the orders (the
@@ -5126,7 +5151,7 @@ with the real power by those under them in the hierarchy. This is to be
 expected because, as S.A. Smith correctly argues, Lenin's proposals were
 _"thoroughly statist and centralist in character"_ and that he used _"the term
 ['workers' control'] in a very different sense from that of the factory
-committees."_ [**Op. Cit.**, p. 154] As can be seen from McNally's pamphlet,
+committees."_ [ **Op. Cit.** , p. 154] As can be seen from McNally's pamphlet,
 Leninists still follow this tradition and hide the grim reality that their
 tradition advocates an economic regime drastically different from the workers'
 self-management their words imply to most readers. Using the same slogans as
@@ -5139,15 +5164,15 @@ hardly surprising that Lenin considered the first task of the Bolshevik
 revolution was to build state capitalism. _"State capitalism,"_ he wrote, _"is
 a complete material preparation for socialism, the threshold of socialism, a
 rung on the ladder of history between which and the rung called socialism
-there are no gaps"_. [**Collected Works**, vol. 24, p. 259] The aim was to
-ensure that _"**[a]ll** citizens are transformed into hired employees of the
+there are no gaps"_. [ **Collected Works** , vol. 24, p. 259] The aim was to
+ensure that _" **[a]ll** citizens are transformed into hired employees of the
 state"_ and the _"whole of society will have become a single office and a
-single factory, with equality of labour and pay."_ [**Op. Cit.**, vol. 25, pp.
-473-4] For Lenin, the _"domination of the proletariat consists in the fact
+single factory, with equality of labour and pay."_ [ **Op. Cit.** , vol. 25,
+pp. 473-4] For Lenin, the _"domination of the proletariat consists in the fact
 that the landowners and capitalists have been deprived of their property . . .
 The victorious proletariat has abolished property . . . and therein lies its
-domination as a class. The prime thing is the question of property."_ [**Op.
-Cit.**, vol. 30, p. 456] Hence his support for centralisation and _"one-man
+domination as a class. The prime thing is the question of property."_ [ **Op.
+Cit.** , vol. 30, p. 456] Hence his support for centralisation and _"one-man
 management"_ \-- if the issue is property then working class power **in
 production** cannot be considered as a necessary condition for socialism.
 Little wonder Soviet Russia never progressed beyond state capitalism -- it
@@ -5157,16 +5182,16 @@ firmly in the same tradition as those _"certain utopians"_ whose call that
 _"the Government seize trade, industry and agriculture, to add them to its
 attributes and to make the French nation a nation of wage-workers"_ Proudhon
 rejected during the 1848 revolution as _"expropriation by the State"_ was
-_"still wage-labour."_ [**Property is Theft!**, p. 22 and p. 377]
+_"still wage-labour."_ [ **Property is Theft!** , p. 22 and p. 377]
 
 Writing in May 1917, Lenin took the viewpoint that state capitalism _"is a
 complete **material** preparation for socialism, the threshold of socialism"_
 and so socialism _"is nothing but the next step forward from state capitalist
 monopoly."_ It is _"merely state-capitalist monopoly **which is made to serve
 the interests of the whole people** and has to that extent **ceased** to be
-capitalist monopoly."_ [**Op. Cit.**, vol. 25, p. 359 and p. 358] Rather than
-seeing _"workers' control"_ as workers managing production directly by means
-of their own class organisations, he always saw it in terms of workers'
+capitalist monopoly."_ [ **Op. Cit.** , vol. 25, p. 359 and p. 358] Rather
+than seeing _"workers' control"_ as workers managing production directly by
+means of their own class organisations, he always saw it in terms of workers'
 _"controlling"_ those who did within institutions inherited from capitalism.
 It simply meant _"the country-wide, all-embracing, omnipresent, most precise
 and most conscientious **accounting** of the production and distribution of
@@ -5175,13 +5200,13 @@ workers' control over the capitalists"_ who would still manage production.
 Significantly, he considered that _"as much as nine-tenths of the
 **socialist** apparatus"_ required for this _"country-wide **book-keeping,**
 country-wide **accounting** of the production and distribution of goods"_
-would be achieved by nationalising the _"big banks,"_ which _"**are** the
+would be achieved by nationalising the _"big banks,"_ which _" **are** the
 'state apparatus' which we **need** to bring about socialism"_ (indeed, this
 was considered _"something in the nature of the **skeleton** of socialist
 society"_). This structure would be taken intact from capitalism for _"the
 modern state possesses an apparatus which has extremely close connection with
 the banks and [business] syndicates . . . this apparatus must not, and should
-not, be smashed."_ [**Op. Cit.**, vol. 26, p. 105, p. 107, p. 106 and pp.
+not, be smashed."_ [ **Op. Cit.** , vol. 26, p. 105, p. 107, p. 106 and pp.
 105-6] He had no real notion of workers' self-management of production nor of
 the impossibilities of combining the centralised state capitalist system with
 its big banks, monopolies, big business with genuine rank and file control,
@@ -5193,13 +5218,13 @@ framework for "socialism". They believed that this economic structure would be
 made to serve the many rather than the few by a change in the political regime
 for _"given a really revolutionary-democratic state, state-monopoly capitalism
 inevitably and unavoidably implies a step, and more than one step, towards
-socialism!"_ [**Op. Cit.**, vol. 25, pp. 357-8] Yet a centralised state (never
-mind party dictatorship!) is hardly _"a really revolutionary-democratic"_
-anything other than in Bolshevik rhetoric. Surely, then, such an centralised
-economic structure would simply become a step, and more than a step, towards
-rule by the bureaucracy? And, sadly, that was the case so confirming anarchist
-warnings that state socialism would produce a new class system with the
-bureaucracy replacing the capitalist elite.
+socialism!"_ [ **Op. Cit.** , vol. 25, pp. 357-8] Yet a centralised state
+(never mind party dictatorship!) is hardly _"a really revolutionary-
+democratic"_ anything other than in Bolshevik rhetoric. Surely, then, such an
+centralised economic structure would simply become a step, and more than a
+step, towards rule by the bureaucracy? And, sadly, that was the case so
+confirming anarchist warnings that state socialism would produce a new class
+system with the bureaucracy replacing the capitalist elite.
 
 Yet even this is too generous, given the two obvious flaws in Lenin's
 position. First, in-so-far-as a social organisation **is** _"revolutionary-
@@ -5223,16 +5248,16 @@ not draw this obvious conclusion. Anarchists were not so naive. As Alexander
 Berkman correctly argued:
 
 > _"The role of industrial decentralisation in the revolution is unfortunately
-too little appreciated . . . Most people are still in the thraldom of the
-Marxian dogma that centralisation is 'more efficient and economical.' They
-close their eyes to the fact that the alleged 'economy' is achieved at the
-cost of the workers' limb and life, that the 'efficiency' degrades him to a
-mere industrial cog, deadens his soul, kills his body. Furthermore, in a
-system of centralisation the administration of industry becomes constantly
-merged in fewer hands, producing a powerful bureaucracy of industrial
-overlords. It would indeed be the sheerest irony if the revolution were to aim
-at such a result. It would mean the creation of a new master class."_ [**What
-is Anarchism?**, p. 229]
+> too little appreciated . . . Most people are still in the thraldom of the
+> Marxian dogma that centralisation is 'more efficient and economical.' They
+> close their eyes to the fact that the alleged 'economy' is achieved at the
+> cost of the workers' limb and life, that the 'efficiency' degrades him to a
+> mere industrial cog, deadens his soul, kills his body. Furthermore, in a
+> system of centralisation the administration of industry becomes constantly
+> merged in fewer hands, producing a powerful bureaucracy of industrial
+> overlords. It would indeed be the sheerest irony if the revolution were to
+> aim at such a result. It would mean the creation of a new master class."_ [
+> **What is Anarchism?** , p. 229]
 
 The Leninist "vision" of the future socialist economy is one of a highly
 centralised organisation, modelled on capitalism, in which, at best, workers
@@ -5295,21 +5320,21 @@ existed. The alienation between 'people' and 'officials,' which the soviet
 system was supposed to remove, was back again. Beginning in 1918, complaints
 about 'bureaucratic excesses,' lack of contact with voters, and new
 proletarian bureaucrats grew louder and louder."_ [Oskar Anweiler, **The
-Soviets**, p. 242] So the rise of a state bureaucracy started immediately with
-the seizure of power by the Bolsheviks, particularly as the state's functions
-grew to include economic as well as political ones. Instead of the state
-starting to "wither away" it grew:
+Soviets** , p. 242] So the rise of a state bureaucracy started immediately
+with the seizure of power by the Bolsheviks, particularly as the state's
+functions grew to include economic as well as political ones. Instead of the
+state starting to "wither away" it grew:
 
 > _"The old state's political apparatus was 'smashed,' but in its place a new
-bureaucratic and centralised system emerged with extraordinary rapidity. After
-the transfer of government to Moscow in March 1918 it continued to expand . .
-. As the functions of the state expanded so did the bureaucracy, and by August
-1918 nearly a third of Moscow's working population were employed in offices.
-The great increase in the number of employees . . . took place in early to
-mid-1918 and, thereafter, despite many campaigns to reduce their number, they
-remained a steady proportion of the falling population"_ [Richard Sakwa, _"The
-Commune State in Moscow in 1918,"_ pp. 429-449, **Slavic Review**, vol. 46,
-no. 3/4, pp. 437-8]
+> bureaucratic and centralised system emerged with extraordinary rapidity.
+> After the transfer of government to Moscow in March 1918 it continued to
+> expand . . . As the functions of the state expanded so did the bureaucracy,
+> and by August 1918 nearly a third of Moscow's working population were
+> employed in offices. The great increase in the number of employees . . .
+> took place in early to mid-1918 and, thereafter, despite many campaigns to
+> reduce their number, they remained a steady proportion of the falling
+> population"_ [Richard Sakwa, _"The Commune State in Moscow in 1918,"_ pp.
+> 429-449, **Slavic Review** , vol. 46, no. 3/4, pp. 437-8]
 
 While Lenin started to be concerned about the growth of the bureaucracy after
 1920 and Trotsky argued that the Stalinist regime rested on this caste,
@@ -5324,7 +5349,7 @@ of Stalinism (nor his and Lenin's role in producing such a regime in the first
 place).
 
 Russia, Lenin once said, _"was accustomed to being ruled by 150 000 land
-owners. Why can 240 000 Bolsheviks not take over the task?"_ [**Op. Cit.**,
+owners. Why can 240 000 Bolsheviks not take over the task?"_ [ **Op. Cit.** ,
 vol. 21, p. 336] The idea of socialism as working class self-management and
 self-government was lost on him -- and the possibility **real** socialism was
 soon lost to the Russian working class when the Tsar was replaced by the
@@ -5337,8 +5362,8 @@ between anarchists and Marxists is that the latter _"are authoritarians,
 anarchists are libertarians._ Marxists _"want power . . . and once in power
 wish to impose their programme on the people . . . Anarchists instead
 maintain, that government cannot be other than harmful, and by its very nature
-it defends either an existing privileged class or creates a new one."_
-[**Errico Malatesta: His Life and Ideas**, p. 142] Therefore anarchists seek
+it defends either an existing privileged class or creates a new one."_ [
+**Errico Malatesta: His Life and Ideas** , p. 142] Therefore anarchists seek
 to influence people by the power of our ideas within popular organisations. We
 see such organisations as the means by which working people can take control
 of their own lives and start to create a free, libertarian socialist society
@@ -5356,11 +5381,11 @@ Similarly, anarchists reject the Leninist idea of highly centralised
 leaves much to be desired:
 
 > _"In reality, a Leninist Party simply reproduces and institutionalises
-existing capitalist power relations inside a supposedly 'revolutionary'
-organisation: between leaders and led; order givers and order takers; between
-specialists and the acquiescent and largely powerless party workers. And that
-elitist power relation is extended to include the relationship between the
-party and class."_ [**Carry on Recruiting!**, p. 41]
+> existing capitalist power relations inside a supposedly 'revolutionary'
+> organisation: between leaders and led; order givers and order takers;
+> between specialists and the acquiescent and largely powerless party workers.
+> And that elitist power relation is extended to include the relationship
+> between the party and class."_ [ **Carry on Recruiting!** , p. 41]
 
 As we discuss in [section H.5.9](secH5.md#sech59), such an organisation can
 **never** create a socialist society. In contrast, anarchists argue that
@@ -5371,30 +5396,31 @@ reproduce the very problems of statism/capitalism into them and so undermine
 their liberatory potential. As Murray Bookchin put it:
 
 > _"The 'glorious party,' when there is one, almost invariably lags behind the
-events . . . In the beginning . . . it tends to have an inhibitory function,
-not a 'vanguard' role. Where it exercises influence, it tends to slow down the
-flow of events, not 'co-ordinate' the revolutionary forced. This is not
-accidental. The party is structured along hierarchical lines **that reflect
-the very society it professes to oppose** . . . Its membership is schooled in
-obedience . . . The party's leadership, in turn, is schooled in habits born of
-command, authority, manipulation . . . Its leaders . . . lose contact with the
-living situation below. The local groups, which know their own immediate
-situation better than any remote leaders, are obliged to subordinate their
-insights to directives from above. The leadership, lacking any direct
-knowledge of local problems, responds sluggishly and prudently . . ._
+> events . . . In the beginning . . . it tends to have an inhibitory function,
+> not a 'vanguard' role. Where it exercises influence, it tends to slow down
+> the flow of events, not 'co-ordinate' the revolutionary forced. This is not
+> accidental. The party is structured along hierarchical lines **that reflect
+> the very society it professes to oppose** . . . Its membership is schooled
+> in obedience . . . The party's leadership, in turn, is schooled in habits
+> born of command, authority, manipulation . . . Its leaders . . . lose
+> contact with the living situation below. The local groups, which know their
+> own immediate situation better than any remote leaders, are obliged to
+> subordinate their insights to directives from above. The leadership, lacking
+> any direct knowledge of local problems, responds sluggishly and prudently .
+> . ._
 
 > _"The party becomes less efficient from a revolutionary point of view the
-more it seeks efficiency by means of hierarchy, cadres and centralisation.
-Although everyone marches in step, the orders are usually wrong, especially
-when events begin to move rapidly and take unexpected turns -- as they do in
-all revolutions. The party is efficient in only one respect -- in moulding
-society in its own hierarchical imagine if the revolution is successful. It
-recreates bureaucracy, centralisation and the state. It fosters the
-bureaucracy, centralisation and the state. It fosters the very social
-conditions which justify this kind of society. Hence, instead of 'withering
-away,' the state controlled by the 'glorious party' preserves the very
-conditions which 'necessitate' the existence of a state -- and a party to
-'guard' it."_ [**Post-Scarcity Anarchism**, pp. 123-6]
+> more it seeks efficiency by means of hierarchy, cadres and centralisation.
+> Although everyone marches in step, the orders are usually wrong, especially
+> when events begin to move rapidly and take unexpected turns -- as they do in
+> all revolutions. The party is efficient in only one respect -- in moulding
+> society in its own hierarchical imagine if the revolution is successful. It
+> recreates bureaucracy, centralisation and the state. It fosters the
+> bureaucracy, centralisation and the state. It fosters the very social
+> conditions which justify this kind of society. Hence, instead of 'withering
+> away,' the state controlled by the 'glorious party' preserves the very
+> conditions which 'necessitate' the existence of a state -- and a party to
+> 'guard' it."_ [ **Post-Scarcity Anarchism** , pp. 123-6]
 
 As we argue in [section J.3](secJ3.md), anarchists do not reject the need
 for political organisations (anarchist groups, federations and so on) to work
@@ -5460,37 +5486,38 @@ ideas. Thus we find Proudhon attacking the state socialism of Louis Blanc in
 loudly declares itself anarchistic; M. Blanc places power above society, and
 socialism tends to subordinate it to society; M. Blanc makes social life
 descend from above, and socialism maintains that it springs up and grows from
-below"_ [**Property is Theft!**, p. 205] He re-iterated this during the 1848
+below"_ [ **Property is Theft!** , p. 205] He re-iterated this during the 1848
 revolution:
 
-> _"**From above** . . . signifies power; **from below** signifies the people.
-On the one hand we have the actions of government; on the other, the
-initiative of the masses . . . revolution from above is . . . inevitably
-revolution according to the whims of the Prince, the arbitrary judgement of a
-minister, the fumblings of an Assembly or the violence of a club: it is a
-revolution of dictatorship and despotism . . . Revolution on the initiative of
-the masses is a revolution by the concerted action of the citizens, by the
-experience of the workers, by the progress and diffusion of enlightenment,
-revolution by the means of liberty . . . a revolution from below, from true
-democracy . . . Saint-Simon, Fourier, Owen, Cabet, Louis Blanc, all believers
-in the organisation of labour by the State, by Capital, by whatever authority,
-appealed . . . to revolution **from above**. Instead of teaching the people
-how to organise themselves, by calling on their experience and their
-reasoning, they demanded Power . . ._
+> _" **From above** . . . signifies power; **from below** signifies the
+> people. On the one hand we have the actions of government; on the other, the
+> initiative of the masses . . . revolution from above is . . . inevitably
+> revolution according to the whims of the Prince, the arbitrary judgement of
+> a minister, the fumblings of an Assembly or the violence of a club: it is a
+> revolution of dictatorship and despotism . . . Revolution on the initiative
+> of the masses is a revolution by the concerted action of the citizens, by
+> the experience of the workers, by the progress and diffusion of
+> enlightenment, revolution by the means of liberty . . . a revolution from
+> below, from true democracy . . . Saint-Simon, Fourier, Owen, Cabet, Louis
+> Blanc, all believers in the organisation of labour by the State, by Capital,
+> by whatever authority, appealed . . . to revolution **from above**. Instead
+> of teaching the people how to organise themselves, by calling on their
+> experience and their reasoning, they demanded Power . . ._
 
 > _"The conclusion is that government can never be revolutionary quite simply
-because it is government. Society alone, the masses armed with their
-intelligence, can create revolution; society alone is able to deploy all its
-spontaneity, to analyse and explain the mystery of its destiny and its origin,
-to change its faith and its philosophy, because it alone is capable of
-fighting against its originator and bearing its fruit. Governments are God’s
-scourge, established to **discipline** the world: do you really expect them to
-destroy themselves, to create freedom, to make revolution?_
+> because it is government. Society alone, the masses armed with their
+> intelligence, can create revolution; society alone is able to deploy all its
+> spontaneity, to analyse and explain the mystery of its destiny and its
+> origin, to change its faith and its philosophy, because it alone is capable
+> of fighting against its originator and bearing its fruit. Governments are
+> God’s scourge, established to **discipline** the world: do you really expect
+> them to destroy themselves, to create freedom, to make revolution?_
 
 > _"They cannot act otherwise. All revolutions . . . were achieved by the
-spontaneity of the people: governments have always hindered, always
-suppressed, always beaten back; they have never created revolution. Their role
-is not to create change but to control it."_ [**Op. Cit.**, pp. 398-9]
+> spontaneity of the people: governments have always hindered, always
+> suppressed, always beaten back; they have never created revolution. Their
+> role is not to create change but to control it."_ [ **Op. Cit.** , pp.
+> 398-9]
 
 Thus _"experience testifies and philosophy demonstrates . . . that any
 revolution, to be effective, must be spontaneous and emanate, not from the
@@ -5500,41 +5527,42 @@ revolutions, given that society, to which that secret is alone revealed, does
 not show itself through legislative decree but rather through the spontaneity
 of its manifestations: that, ultimately, the only connection between
 government and labour is that labour, in organising itself, has the abrogation
-of government as its mission"_. [**No Gods, No Masters**, vol. 1., p. 52]
-_"The Revolution **from above**,"_ Proudhon stressed, _"is the intervention of
-power in everything; it is the absolutist initiative of the State, the pure
+of government as its mission"_. [ **No Gods, No Masters** , vol. 1., p. 52]
+_"The Revolution **from above** ,"_ Proudhon stressed, _"is the intervention
+of power in everything; it is the absolutist initiative of the State, the pure
 governmentalism of . . . [state-socialist] Louis Blanc. The Revolution **from
 above** is the negation of collective activity, of popular spontaneity . . .
-What serious and lasting Revolution was not made **from below**, by the
+What serious and lasting Revolution was not made **from below** , by the
 people? How did the Revolution of 1789 come about? How was that of February
 made? The Revolution **from above** has never been other than the oppression
 of the wills of those below."_ [quoted by George Woodcock, **Pierre-Joseph
-Proudhon**, p. 143]
+Proudhon** , p. 143]
 
 Proudhon, then, placed his hopes for introducing socialism in alternative
 institutions created by working class people themselves and _"insisted that
 the revolution could only come from below, through the action of the workers
 themselves."_ [K. Steven Vincent, **Pierre-Joseph Proudhon and the Rise of
-French Republican Socialism**, p. 157] Bakunin did likewise, seeing the labour
-movement as the means of ensuring that an anarchist revolution would come
-_"from below."_ As he put it, _"liberty can be created only by liberty, by an
-insurrection of all the people and the voluntary organisation of the workers
-from below upward."_ [**Statism and Anarchy**, p. 179] Elsewhere he wrote that
-_"future social organisation must be made solely from the bottom upwards, by
-the free association or federation of workers, firstly in their unions, then
-in the communes, regions, nations and finally in a great federation,
-international and universal."_ [**Michael Bakunin: Selected Writings**, p.
-206] As he wrote in 1868:
+French Republican Socialism** , p. 157] Bakunin did likewise, seeing the
+labour movement as the means of ensuring that an anarchist revolution would
+come _"from below."_ As he put it, _"liberty can be created only by liberty,
+by an insurrection of all the people and the voluntary organisation of the
+workers from below upward."_ [ **Statism and Anarchy** , p. 179] Elsewhere he
+wrote that _"future social organisation must be made solely from the bottom
+upwards, by the free association or federation of workers, firstly in their
+unions, then in the communes, regions, nations and finally in a great
+federation, international and universal."_ [ **Michael Bakunin: Selected
+Writings** , p. 206] As he wrote in 1868:
 
 > _"I hate Communism because it is the negation of liberty and because for me
-humanity is unthinkable without liberty. I am not a Communist, because
-Communism concentrates and swallows up in itself for the benefit of the State
-all the forces of society, because it inevitably leads to the concentration of
-property in the hands of the State . . . I want to see society and collective
-or social property organised from below upwards, by way of free associations,
-not from above downwards, by means of any kind of authority whatsoever . . .
-That is the sense in which I am a Collectivist and not a Communist."_ [quoted
-by K.J. Kenafick, **Michael Bakunin and Karl Marx**, pp. 67-8]
+> humanity is unthinkable without liberty. I am not a Communist, because
+> Communism concentrates and swallows up in itself for the benefit of the
+> State all the forces of society, because it inevitably leads to the
+> concentration of property in the hands of the State . . . I want to see
+> society and collective or social property organised from below upwards, by
+> way of free associations, not from above downwards, by means of any kind of
+> authority whatsoever . . . That is the sense in which I am a Collectivist
+> and not a Communist."_ [quoted by K.J. Kenafick, **Michael Bakunin and Karl
+> Marx** , pp. 67-8]
 
 Anarchists, argued Bakunin, opposed the state because _"all State rule, all
 governments being by their very nature placed outside the people, must
@@ -5542,25 +5570,25 @@ necessarily seek to subject it to customs and purposes entirely foreign to it.
 We therefore declare ourselves to be foes . . . of all State organisations as
 such, and believe that the people can be happy and free, when, organised from
 below upwards by means of its own autonomous and completely free associations,
-without the supervision of any guardians, it will create its own life."_
-[**Marxism, Freedom and the State**, p. 63] This applied to the so-called
+without the supervision of any guardians, it will create its own life."_ [
+**Marxism, Freedom and the State** , p. 63] This applied to the so-called
 "workers' state" because _"every state, even the pseudo-People's State
 concocted by Mr. Marx, is in essence only a machine ruling the masses from
 above, through a privileged minority of conceited intellectuals who imagine
 that they know what the people need and want better than do the people
-themselves."_ [**Bakunin on Anarchism**, p. 338] The revolution would see _"an
-end to all masters and to domination of every kind, and the free construction
-of popular life in accordance with popular needs, not from above downward, as
-in the state, but from below upward, by the people themselves, dispensing with
-all governments and parliaments -- a voluntary alliance of agricultural and
-factory worker associations, communes, provinces, and nations; and, finally, .
-. . universal human brotherhood triumphing on the ruins of all the states."_
-[**Statism and Anarchy**, p. 33]
+themselves."_ [ **Bakunin on Anarchism** , p. 338] The revolution would see
+_"an end to all masters and to domination of every kind, and the free
+construction of popular life in accordance with popular needs, not from above
+downward, as in the state, but from below upward, by the people themselves,
+dispensing with all governments and parliaments -- a voluntary alliance of
+agricultural and factory worker associations, communes, provinces, and
+nations; and, finally, . . . universal human brotherhood triumphing on the
+ruins of all the states."_ [ **Statism and Anarchy** , p. 33]
 
 No such idea is present in Marx. Rather, he saw a revolution as consisting of
 the election of a socialist party into government. At its best, for example
-when he was reporting on the Paris Commune, this vision had libertarian
-(_"from below"_) aspects -- perhaps unsurprisingly, given its obviously
+when he was reporting on the Paris Commune, this vision had libertarian (
+_"from below"_ ) aspects -- perhaps unsurprisingly, given its obviously
 Proudhon-inspired federalism (which Marx could not bring himself to mention).
 However, at its worse this was not only reformist in the sense of utilising
 bourgeois elections (see [section H.3.10](secH3.md#sech310)) but also "from
@@ -5575,8 +5603,8 @@ etc."_ This centralisation of power was essential to overcome local autonomy,
 which would allow _"every village, every town and every province"_ to put _"a
 new obstacle in the path"_ of the revolution due to _"local and provincial
 obstinacy."_ Decades later, Marx dismissed Bakunin's vision of _"the free
-organisation of the worker masses from bottom to top"_ as _"nonsense."_
-[**Marx-Engels Reader**, p. 509 and p. 547]
+organisation of the worker masses from bottom to top"_ as _"nonsense."_ [
+**Marx-Engels Reader** , p. 509 and p. 547]
 
 As we discuss in [section H.3.2](secH3.md#sech32), the idea of _"socialism
 from below"_ is a distinctly anarchist notion, one found in the works of
@@ -5592,7 +5620,7 @@ Democracy as opposed to the organisational principle of opportunist Social-
 Democracy. The latter strives to proceed from the bottom upward, and,
 therefore, wherever possible . . . upholds autonomism and 'democracy,' carried
 (by the overzealous) to the point of anarchism. The former strives to proceed
-from the top downward."_ [**Collected Works**, vol. 7, pp. 396-7] Lenin
+from the top downward."_ [ **Collected Works** , vol. 7, pp. 396-7] Lenin
 repeated this argument during the near revolution of 1905, mocking the
 Mensheviks for only wanting _"pressure from below"_ which was _"pressure by
 the citizens on the revolutionary government."_ Instead, he argued for
@@ -5603,14 +5631,14 @@ he saw the need for _"the utilisation of the revolutionary governmental
 power."_ Lenin summarised his position (which he considered as being in line
 with that of orthodox Marxism) by stating: _"Limitation, in principle, of
 revolutionary action to pressure from below and renunciation of pressure also
-from above is **anarchism.**"_ [**Op. Cit.**, vol. 8, p. 474, p. 478, p. 480
-and p. 481] He returned to this theme, explicitly stating that it was an
+from above is **anarchism.** "_ [ **Op. Cit.** , vol. 8, p. 474, p. 478, p.
+480 and p. 481] He returned to this theme, explicitly stating that it was an
 _"anarchist stand"_ to be for _"'action only from below', not 'from below and
-from above'"_. [**Op. Cit.**, vol. 9, p. 77]
+from above'"_. [ **Op. Cit.** , vol. 9, p. 77]
 
 How you can have _"socialism from below"_ when your _"organisational
 principle"_ is _"from the top downward"_ and _"renunciation of pressure also
-from above is **anarchism**"_ is not explained by McNally. Moreover, given
+from above is **anarchism** "_ is not explained by McNally. Moreover, given
 that McNally states repeatedly the evils of _"from above"_ in his pamphlet he
 gives his account of Marxism a distinctly anarchist feel (while denouncing it
 in a most deceitful way). Why is this? Perhaps because his readers would
@@ -5646,11 +5674,11 @@ opportunity offers."_ He equated rule by the party with rule by the class,
 noting that _"proletarian revolutionary power"_ and _"Bolshevik power"_ are
 _"now one the same thing"_ and indicated that once in power the Bolsheviks
 _"shall be fully and unreservedly in favour of a strong state power and of
-centralism."_ [**Op. Cit.**, vol. 26, p. 19, p. 90, p. 179 and p. 116] In this
-confusion, we must note, Lenin followed Engels who argued that _"each
+centralism."_ [ **Op. Cit.** , vol. 26, p. 19, p. 90, p. 179 and p. 116] In
+this confusion, we must note, Lenin followed Engels who argued that _"each
 political party sets out to establish its rule in the state, so the German
 Social-Democratic Workers' Party is striving to establish **its** rule, the
-rule of the working class."_ [**Collected Works**, vol. 23, p. 372] Such
+rule of the working class."_ [ **Collected Works** , vol. 23, p. 372] Such
 confusion is deadly to a true _"revolution from below"_ and justifies the use
 of repression against the working class based on the advanced ideas of the
 vanguard party.
@@ -5673,37 +5701,37 @@ he stressed that the _"mere presentation of the question -- 'dictatorship of
 the party **or** dictatorship of the class: dictatorship (party) of the
 leaders **or** dictatorship (party) of the masses?' -- testifies to most
 incredible and hopelessly muddled thinking"_ and _"[t]o go so far . . . as to
-contrast, **in general**, the dictatorship of the masses with a dictatorship
-of the leaders is ridiculously absurd, and stupid."_ [**The Lenin Anthology**,
-p. 575, p. 567 and p. 568] He then explained the nature of Bolshevik rule:
+contrast, **in general** , the dictatorship of the masses with a dictatorship
+of the leaders is ridiculously absurd, and stupid."_ [ **The Lenin Anthology**
+, p. 575, p. 567 and p. 568] He then explained the nature of Bolshevik rule:
 
 > _"In Russia today, the connection between leaders, party, class and masses .
-. . are concretely as follows: the dictatorship is exercised by the
-proletariat organised in the Soviets and is guided by the Communist Party . .
-. The Party, which holds annual congresses . . ., is directed by a Central
-Committee of nineteen elected at the congress, while the current work in
-Moscow has to be carried on by [two] still smaller bodies . . . which are
-elected at the plenary sessions of the Central Committee, five members of the
-Central Committee to each bureau. This, it would appear, is a full-fledged
-'oligarchy.' No important political or organisational question is decided by
-any state institution in our republic [sic!] without the guidance of the
-Party's Central Committee._
+> . . are concretely as follows: the dictatorship is exercised by the
+> proletariat organised in the Soviets and is guided by the Communist Party .
+> . . The Party, which holds annual congresses . . ., is directed by a Central
+> Committee of nineteen elected at the congress, while the current work in
+> Moscow has to be carried on by [two] still smaller bodies . . . which are
+> elected at the plenary sessions of the Central Committee, five members of
+> the Central Committee to each bureau. This, it would appear, is a full-
+> fledged 'oligarchy.' No important political or organisational question is
+> decided by any state institution in our republic [sic!] without the guidance
+> of the Party's Central Committee._
 
-> _"In its work, the Party relies directly on the **trade unions**, which . .
-. have a membership of over four million and are formally **non-Party**.
-Actually, all the directing bodies of the vast majority of the unions . . .
-are made up of Communists, and carry out of all the directives of the Party.
-Thus . . . we have a formally non-communist . . . very powerful proletarian
-apparatus, by means of which the Party is closely linked up with the **class**
-and **the masses,** and by means of which, under the leadership of the Party,
-the **class dictatorship** of the class is exercised."_ [**Op. Cit.**, pp.
-571-2]
+> _"In its work, the Party relies directly on the **trade unions** , which . .
+> . have a membership of over four million and are formally **non-Party**.
+> Actually, all the directing bodies of the vast majority of the unions . . .
+> are made up of Communists, and carry out of all the directives of the Party.
+> Thus . . . we have a formally non-communist . . . very powerful proletarian
+> apparatus, by means of which the Party is closely linked up with the
+> **class** and **the masses,** and by means of which, under the leadership of
+> the Party, the **class dictatorship** of the class is exercised."_ [ **Op.
+> Cit.** , pp. 571-2]
 
 This was _"the general mechanism of the proletarian state power viewed 'from
 above,' from the standpoint of the practical realisation of the dictatorship"_
 and so _"all this talk about 'from above' **or** 'from below,' about 'the
 dictatorship of leaders' **or** 'the dictatorship of the masses,'"_ is
-_"ridiculous and childish nonsense."_ [**Op. Cit.**, p. 573] The links with
+_"ridiculous and childish nonsense."_ [ **Op. Cit.** , p. 573] The links with
 his comments from 1904 and 1905 are clear, as clear as his explanation of the
 lessons he thought that the world communist movement had to learn from the
 Bolshevik revolution. The notion that Leninism stands for _"socialism from
@@ -5712,8 +5740,8 @@ below"_ in untenable.
 Lenin, of course, did not bother to view "proletarian" state power "from
 below," from the viewpoint of the proletariat. If he had, perhaps he would
 have recounted the numerous strikes and protests broken by the Cheka under
-martial law, the gerrymandering and disbanding of soviets, the imposition of _
-"one-man management"_ onto the workers in production, the turning of the
+martial law, the gerrymandering and disbanding of soviets, the imposition of
+_"one-man management"_ onto the workers in production, the turning of the
 unions into agents of the state/party and the elimination of working class
 freedom by party power (see [section 8](append31.md#app8)). All of which
 suggests that there **are** fundamental differences, at least for the masses,
@@ -5731,38 +5759,38 @@ could not belong to the soviets."_ Marxist confusion of the difference between
 working class power and party power, combined with the nature of centralised
 power and an ideology which privileges the party over the working class (see
 [section 11](append31.md#app11)) cannot help but lead to the rise of a
-ruling bureaucracy, pursuing "from above" their own power and privileges.
-_"**All political power inevitably creates a privileged situation** for the
-men who exercise it,"_ argued Voline. _"Thus is violates, from the beginning,
-the equalitarian principle and strikes at the heart of the Social Revolution"_
-and _"becomes the source of other privileges . . . **power is compelled to
-create a bureaucratic and coercive apparatus** indispensable to all authority
-. . . **Thus it forms a new privileged caste,** at first politically and later
-economically."_ [**The Unknown Revolution**, p. 213 and p. 249]
+ruling bureaucracy, pursuing "from above" their own power and privileges. _"
+**All political power inevitably creates a privileged situation** for the men
+who exercise it,"_ argued Voline. _"Thus is violates, from the beginning, the
+equalitarian principle and strikes at the heart of the Social Revolution"_ and
+_"becomes the source of other privileges . . . **power is compelled to create
+a bureaucratic and coercive apparatus** indispensable to all authority . . .
+**Thus it forms a new privileged caste,** at first politically and later
+economically."_ [ **The Unknown Revolution** , p. 213 and p. 249]
 
 The concept of revolution _"from above"_ is one that inevitably leads to a new
 form of class rule -- rule by bureaucracy. This is not because the Bolsheviks
 were "bad people" -- rather it is to do with the nature of centralised power
 (which by its very nature can only be exercised by the few) combined with bad
 politics (the confusion of party power with people power, unthinking
-prejudices in favour of centralism, ignoring the need for only _"from below"_,
-etc.). As the Russian anarchist Sergven argued in 1918 while the Bolshevik
+prejudices in favour of centralism, ignoring the need for only _"from below"_
+, etc.). As the Russian anarchist Sergven argued in 1918 while the Bolshevik
 regime was building state capitalism:
 
 > _"The proletariat is being gradually enserfed by the state. The people are
-being transformed into servants over whom there has arisen a new class of
-administrators -- a new class born mainly form the womb of the so-called
-intelligentsia . . . We do not mean to say . . . that the Bolshevik party set
-out to create a new class system. But we do say that even the best intentions
-and aspirations must inevitably be smashed against the evils inherent in any
-system of centralised power. The separation of management from labour, the
-division between administrators and workers flows logically from
-centralisation. It cannot be otherwise."_ [**The Anarchists in the Russian
-Revolution**, pp. 123-4]
+> being transformed into servants over whom there has arisen a new class of
+> administrators -- a new class born mainly form the womb of the so-called
+> intelligentsia . . . We do not mean to say . . . that the Bolshevik party
+> set out to create a new class system. But we do say that even the best
+> intentions and aspirations must inevitably be smashed against the evils
+> inherent in any system of centralised power. The separation of management
+> from labour, the division between administrators and workers flows logically
+> from centralisation. It cannot be otherwise."_ [ **The Anarchists in the
+> Russian Revolution** , pp. 123-4]
 
 Thus McNally's use of the term _"from below"_ is dishonest on two levels.
 Firstly, it is of anarchist origin and, secondly, it was repudiated by Lenin
-himself (who urged revolution _"from below"_ and _"from above"_, thus laying
+himself (who urged revolution _"from below"_ and _"from above"_ , thus laying
 the groundwork for a new class system based around the Party). It goes without
 saying that either McNally is ignorant of his subject (and if so, why write a
 pamphlet on it?) or he knew these facts and decided to suppress them. Either
@@ -5783,94 +5811,95 @@ Trotsky lead had as one of its _"two central planks"_ that _"democracy had to
 be re-established in the Bolshevik party and in the mass organisations such as
 the trade unions and the soviets."_ In short:
 
-> _""Throughout the 1920s and until his death at the hands of Stalinist agent
-in 1940, Trotsky fought desperately to build a revolutionary socialist
-movement based on the principles of Marx and Lenin.""_
+> _"Throughout the 1920s and until his death at the hands of Stalinist agent
+> in 1940, Trotsky fought desperately to build a revolutionary socialist
+> movement based on the principles of Marx and Lenin."_
 
 There is one slight flaw with this argument, namely that it is not actually
 true. All through the 1920s and 1930s Trotsky, rather than argue for
-_"socialism's democratic essence"_, continually argued for party dictatorship.
-That McNally asserts the exact opposite suggests that the ideas of anarchism
-are not the only ones he is ignorant of. To prove our case, we simply need to
-provide a chronological account of Trotsky's actual ideas.
+_"socialism's democratic essence"_ , continually argued for party
+dictatorship. That McNally asserts the exact opposite suggests that the ideas
+of anarchism are not the only ones he is ignorant of. To prove our case, we
+simply need to provide a chronological account of Trotsky's actual ideas.
 
 We shall begin in early 1920 when he argued that the _"working class cannot be
 left wandering round all over Russia. They must be thrown here and there,
 appointed, commanded, just like soldiers"_ and that _"[d]eserters from labour
 ought to be formed into punitive battalions or put into concentration camps"_.
-[quoted by Maurice Brinton, _"The Bolsheviks and Workers' Control"_, **For
-Workers' Power**, p. 61] Is _"human freedom"_ (to use McNally's words)
+[quoted by Maurice Brinton, _"The Bolsheviks and Workers' Control"_ , **For
+Workers' Power** , p. 61] Is _"human freedom"_ (to use McNally's words)
 compatible with Trotsky's suggestions? This was no isolated comment and in
 July of that year we discover him arguing that:
 
 > _"In the hands of the party is concentrated the general control . . . it has
-the final word in all fundamental questions . . . the last word belongs to the
-Central Committee of the party . . . Such a regime is possible only in the
-presence of the unquestioned authority of the party, and the faultlessness of
-its discipline . . ._
+> the final word in all fundamental questions . . . the last word belongs to
+> the Central Committee of the party . . . Such a regime is possible only in
+> the presence of the unquestioned authority of the party, and the
+> faultlessness of its discipline . . ._
 
 > _"The exclusive role of the Communist Party under the conditions of a
-victorious proletarian revolution is quite comprehensible. The question is of
-the dictatorship of a class. In the composition of that class there enter
-various elements, heterogeneous moods, different levels of development. Yet
-the dictatorship pre-supposes unity of will, unity of direction, unity of
-action. By what other path then can it be attained? The revolutionary
-supremacy of the proletariat pre-supposes within the proletariat itself the
-political supremacy of a party, with a clear programme of action and a
-faultless internal discipline._
+> victorious proletarian revolution is quite comprehensible. The question is
+> of the dictatorship of a class. In the composition of that class there enter
+> various elements, heterogeneous moods, different levels of development. Yet
+> the dictatorship pre-supposes unity of will, unity of direction, unity of
+> action. By what other path then can it be attained? The revolutionary
+> supremacy of the proletariat pre-supposes within the proletariat itself the
+> political supremacy of a party, with a clear programme of action and a
+> faultless internal discipline._
 
 > _"The policy of coalitions contradicts internally the regime of the
-revolutionary dictatorship. We have in view . . . a coalition of Communists
-with other 'Socialist' organisations, representing different stages of
-backwardness and prejudice-of the labouring masses._
+> revolutionary dictatorship. We have in view . . . a coalition of Communists
+> with other 'Socialist' organisations, representing different stages of
+> backwardness and prejudice-of the labouring masses._
 
 > _"[ . . .]_
 
 > _"We have more than once been accused of having substituted for the
-dictatorship of the Soviets the dictatorship of our party. Yet it can be said
-with complete justice that the dictatorship of the Soviets became possible
-only by means of the dictatorship of the party. It is thanks to the clarity of
-its theoretical vision and its strong revolutionary organisation that the
-party has afforded to the Soviets the possibility of becoming transformed from
-shapeless parliaments of labour into the apparatus of the supremacy of labour.
-In this 'substitution' of the power of the party for the power of the working
-class there is nothing accidental, and in reality there is no substitution at
-all. The Communists express the fundamental interests of the working class. It
-is quite natural that, in the period in which history brings up those
-interests . . . the Communists have become the recognised representatives of
-the working class as a whole."_ [**Terrorism and Communism**, pp. 107-9]
+> dictatorship of the Soviets the dictatorship of our party. Yet it can be
+> said with complete justice that the dictatorship of the Soviets became
+> possible only by means of the dictatorship of the party. It is thanks to the
+> clarity of its theoretical vision and its strong revolutionary organisation
+> that the party has afforded to the Soviets the possibility of becoming
+> transformed from shapeless parliaments of labour into the apparatus of the
+> supremacy of labour. In this 'substitution' of the power of the party for
+> the power of the working class there is nothing accidental, and in reality
+> there is no substitution at all. The Communists express the fundamental
+> interests of the working class. It is quite natural that, in the period in
+> which history brings up those interests . . . the Communists have become the
+> recognised representatives of the working class as a whole."_ [ **Terrorism
+> and Communism** , pp. 107-9]
 
 He argued against those who suggested that the dictatorship should be carried
 out by the whole class: _"It is not easy to understand what actually they
 imagine when they say this. The dictatorship of the proletariat, in its very
 essence, signifies the immediate supremacy of the revolutionary vanguard,
 which relies upon the heavy masses, and, where necessary, obliges the backward
-tail to dress by the head."_ [**Op. Cit.**, p. 110] This rejection of
+tail to dress by the head."_ [ **Op. Cit.** , p. 110] This rejection of
 democracy also applied to workplace democracy:
 
 > _"our Party Congress . . . expressed itself in favour of the principle of
-one-man management in the administration of industry . . . It would be the
-greatest possible mistake . . . to consider this decision as a blow to the
-independence of the working class . . . It would consequently be a most crying
-error to confuse the question as to the supremacy of the proletariat with the
-question of boards of workers at the head of factories. The dictatorship of
-the proletariat is expressed in the abolition of private property in the means
-of production, in the supremacy over the whole Soviet mechanism of the
-collective will of the workers, and not at all in the form in which individual
-economic enterprises are administered . . . we took our stand, and continue to
-do so on purely Marxist views of the revolutionary problems and creative
-duties of the proletariat when it has taken power into its own hands . . . I
-consider if the civil war had not plundered our economic organs of all that
-was strongest, most independent, most endowed with initiative, we should
-undoubtedly have entered the path of one-man management in the sphere of
-economic administration much sooner and much less painfully."_ [**Op. Cit.**,
-pp. 161-3]
+> one-man management in the administration of industry . . . It would be the
+> greatest possible mistake . . . to consider this decision as a blow to the
+> independence of the working class . . . It would consequently be a most
+> crying error to confuse the question as to the supremacy of the proletariat
+> with the question of boards of workers at the head of factories. The
+> dictatorship of the proletariat is expressed in the abolition of private
+> property in the means of production, in the supremacy over the whole Soviet
+> mechanism of the collective will of the workers, and not at all in the form
+> in which individual economic enterprises are administered . . . we took our
+> stand, and continue to do so on purely Marxist views of the revolutionary
+> problems and creative duties of the proletariat when it has taken power into
+> its own hands . . . I consider if the civil war had not plundered our
+> economic organs of all that was strongest, most independent, most endowed
+> with initiative, we should undoubtedly have entered the path of one-man
+> management in the sphere of economic administration much sooner and much
+> less painfully."_ [ **Op. Cit.** , pp. 161-3]
 
 In this, as with party dictatorship, he was simply repeating Bolshevik
 orthodoxy -- Lenin had been arguing for state-appointed one-man management
 (armed with _"dictatorial"_ authority) since the spring of 1918. Ignoring all
-the euphemisms for party dictatorship ("_the collective will of the workers"_)
-and obvious questions (like, if this were the case, how Trotsky could argue
+the euphemisms for party dictatorship (" _the collective will of the workers"_
+) and obvious questions (like, if this were the case, how Trotsky could argue
 that it was the proletariat which had _"taken power into its own hands"_?),
 the fact is that he was simply wrong. It **does** matter if workplaces are run
 by their workers or not for if they do not then someone else does. Replacing
@@ -5879,17 +5908,17 @@ anarchists have been arguing since Proudhon. Trotsky did not deny how
 authoritarian this regime was:
 
 > _"Both economic and political compulsion are only forms of the expression of
-the dictatorship of the working class in two closely connected regions . . .
-the road to Socialism lies through a period of the highest possible
-intensification of the principle of the State . . . Just as a lamp, before
-going out, shoots up in a brilliant flame, so the State, before disappearing,
-assumes the form of the dictatorship of the proletariat, i.e., the most
-ruthless form of State, which embraces the life of the citizens
-authoritatively in every direction . . . No organisation except the army has
-ever controlled man with such severe compulsion as does the State organisation
-of the working class in the most difficult period of transition. It is just
-for this reason that we speak of the militarisation of labour."_ [**Op.
-Cit.**, pp. 169-170]
+> the dictatorship of the working class in two closely connected regions . . .
+> the road to Socialism lies through a period of the highest possible
+> intensification of the principle of the State . . . Just as a lamp, before
+> going out, shoots up in a brilliant flame, so the State, before
+> disappearing, assumes the form of the dictatorship of the proletariat, i.e.,
+> the most ruthless form of State, which embraces the life of the citizens
+> authoritatively in every direction . . . No organisation except the army has
+> ever controlled man with such severe compulsion as does the State
+> organisation of the working class in the most difficult period of
+> transition. It is just for this reason that we speak of the militarisation
+> of labour."_ [ **Op. Cit.** , pp. 169-170]
 
 Against those who argued that by _"[d]estroying or driving underground the
 other parties, you have thereby prevented their political competition with
@@ -5901,7 +5930,7 @@ standard by which to test its line of action, without the possible circulation
 of Menshevik papers. Noske crushes the Communists, but they grow. We have
 suppressed the Mensheviks and the SRs -- and they have disappeared. This
 criterion is sufficient for us."_ From this he concluded that Bolshevism
-_"expresses the interests of historical development."_ [**Op. Cit.**, pp.
+_"expresses the interests of historical development."_ [ **Op. Cit.** , pp.
 109-110] Needless to say, he did not repeat this "might-makes-right" criteria
 when the Stalinists made the Trotskyists disappear in the late 1920s and
 1930s.
@@ -5917,13 +5946,12 @@ of the revolution and who would make them in his reply to the delegate from
 the Spanish anarcho-syndicalist union the CNT:
 
 > _"Who decides this question [and others like it]? We have the Council of
-People's Commissars but it has to be subject to some supervision. Whose
-supervision? That of the working class as an amorphous, chaotic mass? No. The
-Central Committee of the party is convened to discuss . . . and to decide . .
-. Who will solve these questions in Spain? The Communist Party of Spain."_
-[**Proceedings and Documents of the Second Congress 1920**, vol. 1, p. 174]
-
-
+> People's Commissars but it has to be subject to some supervision. Whose
+> supervision? That of the working class as an amorphous, chaotic mass? No.
+> The Central Committee of the party is convened to discuss . . . and to
+> decide . . . Who will solve these questions in Spain? The Communist Party of
+> Spain."_ [ **Proceedings and Documents of the Second Congress 1920** , vol.
+> 1, p. 174]
 
 This dismissal of working-class democracy was party orthodoxy, as can be seen
 from the awkward fact that Trotsky continued to argue for party dictatorship
@@ -5933,34 +5961,34 @@ Party Congress. His comments made there against the **Workers' Opposition**
 within the Communist Party make his position clear:
 
 > _"The Workers' Opposition has come out with dangerous slogans, making a
-fetish of democratic principles! They place the workers' right to elect
-representatives above the Party, as if the party were not entitled to assert
-its dictatorship even if that dictatorship temporarily clashed with the
-passing moods of the workers' democracy. It is necessary to create amongst us
-the awareness of the revolutionary birthright of the party, which is obliged
-to maintain its dictatorship, regardless of temporary wavering even in the
-working classes. This awareness is for us the indispensable element. The
-dictatorship does not base itself at every given moment on the formal
-principle of a workers' democracy."_ [quoted by Samuel Farber, **Before
-Stalinism**, p. 209]
+> fetish of democratic principles! They place the workers' right to elect
+> representatives above the Party, as if the party were not entitled to assert
+> its dictatorship even if that dictatorship temporarily clashed with the
+> passing moods of the workers' democracy. It is necessary to create amongst
+> us the awareness of the revolutionary birthright of the party, which is
+> obliged to maintain its dictatorship, regardless of temporary wavering even
+> in the working classes. This awareness is for us the indispensable element.
+> The dictatorship does not base itself at every given moment on the formal
+> principle of a workers' democracy."_ [quoted by Samuel Farber, **Before
+> Stalinism** , p. 209]
 
 It should be noted that Trotsky was being too generous to the Workers'
 Opposition, for _"while demanding more freedom of initiative for the workers"_
 in economic matters, _"it was quite content to leave untouched the state of
 affairs in which a few hundred thousand imposed their will on many millions"_
 and it _"had no wish to disturb the communist party's monopoly of political
-power."_ [Leonard Schapiro, **The Origin of the Communist Autocracy**, p. 294]
-So even limited industrial democracy was considered too much by Trotsky in
-1921. In late March 1921, he re-iterated this position in relation to the
+power."_ [Leonard Schapiro, **The Origin of the Communist Autocracy** , p.
+294] So even limited industrial democracy was considered too much by Trotsky
+in 1921. In late March 1921, he re-iterated this position in relation to the
 crushing of the Kronstadt revolt for soviet democracy by asserting that the
 _"economic, political, and national independence of Russia is possible only
 under the dictatorship of the soviets. The backbone of this dictatorship is
 the Communist Party. There is no other party that can play this part, nor can
-there be."_ [Lenin and Trotsky, **Kronstadt**, p. 73]
+there be."_ [Lenin and Trotsky, **Kronstadt** , p. 73]
 
 Trotsky repeated this call again in 1922 when he stated plainly that _"we
-maintain the dictatorship of our party!"_ [**The First Five Years of the
-Communist International**, vol. 2, p. 255] Writing in the following year, he
+maintain the dictatorship of our party!"_ [ **The First Five Years of the
+Communist International** , vol. 2, p. 255] Writing in the following year, he
 argued that _"[i]f there is one question which basically not only does not
 require revision but does not so much as admit the thought of revision, it is
 the question of the dictatorship of the Party, and its leadership in all
@@ -5970,7 +5998,7 @@ spheres of our work."_ He stressed that _"[o]ur party is the ruling party . .
 question all the achievements of the revolution and its future."_ He indicated
 the fate of those who **did** question this: _"Whoever makes an attempt on the
 party's leading role will, I hope, be unanimously dumped by all of us on the
-other side of the barricade."_ [**Leon Trotsky Speaks**, p. 158 and p. 160]
+other side of the barricade."_ [ **Leon Trotsky Speaks** , p. 158 and p. 160]
 Which, of course, was exactly what the Bolsheviks had done to other socialists
 (anarchists and others) and working class militants and strikers after they
 had taken power (see [section H.6](secH6.md) for details).
@@ -5984,15 +6012,15 @@ it is false.
 
 Let us start with the so-called _"New Course"_ of December 1923, in which
 Trotsky stated that _"[w]e are the only party in the country and, in the
-period of the dictatorship, it could not be otherwise"_, the Party was
+period of the dictatorship, it could not be otherwise"_ , the Party was
 _"obliged to monopolise the direction of political life"_ and it was
 _"incontestable that fractions [within the Party] are a scourge in the present
 situation"_. Of course, there was talk of _"workers' democracy"_ but the _"New
 Course Resolution"_ was clear that that term in fact meant only internal party
 democracy: _"Workers' democracy means the liberty of frank discussion of the
 most important questions of party life by all members, and the election of all
-leading party functionaries and commissions"_. [**The Challenge of the Left
-Opposition (1923-25)**, p. 87, p. 89 and p. 460]
+leading party functionaries and commissions"_. [ **The Challenge of the Left
+Opposition (1923-25)** , p. 87, p. 89 and p. 460]
 
 This applied to the banning of factions **within** the Communist party, with
 Trotsky keen to stress at the 13th Party Congress in 1924 that _"party
@@ -6002,16 +6030,17 @@ divide the government and the state apparatus as a whole. I believe this is
 undisputed and indisputable"_. He linked his position to the 10th Party
 Congress _"where Valdimir Ilyich [Lenin] personally"_ made the same points and
 re-iterated his position: _"I have never recognised freedom for groupings
-inside the party, nor do I now recognise it"_. [**Op. Cit.**, p. 170 and p.
+inside the party, nor do I now recognise it"_. [ **Op. Cit.** , p. 170 and p.
 171] He declared his faith in the Party:
 
 > _"Comrades, none of us wants to be or can be right against the party. In the
-last analysis the party is always right, because the party is the only
-historical instrument that the working class possesses for the solution of its
-fundamental tasks . . . I know that no one can be right against the party. It
-is only possible to be right only with the party and through it because
-history has not created any other way to determine the correct position . . .
-the party, in the last analysis, is always right"_. [**Op. Cit.**, p. 179]
+> last analysis the party is always right, because the party is the only
+> historical instrument that the working class possesses for the solution of
+> its fundamental tasks . . . I know that no one can be right against the
+> party. It is only possible to be right only with the party and through it
+> because history has not created any other way to determine the correct
+> position . . . the party, in the last analysis, is always right"_. [ **Op.
+> Cit.** , p. 179]
 
 He did acknowledge that _"even the party itself can make occasional mistakes"_
 but argued that the duty of a party member was to follow its decisions if they
@@ -6020,34 +6049,35 @@ arguments from 1920 and 1921 are clear enough, alongside the privileged
 position this places the party in terms of its right to ignore any democratic
 decisions of the masses it claimed to be ruling on behalf of. Needless to say,
 the "New Course Resolution" likewise stated party democracy _"does not . . .
-imply the freedom to form factional groupings"_. [**Op. Cit.**, p. 180 and p.
-460]
+imply the freedom to form factional groupings"_. [ **Op. Cit.** , p. 180 and
+p. 460]
 
 Moving on to Left Opposition proper, we see Trotsky opining in 1926 that the
 _"dictatorship of the party does not contradict the dictatorship of the class
 either theoretically or practically; but is the expression of it, if the
-regime of workers' democracy is constantly developed more and more."_ [**The
-Challenge of the Left Opposition (1926-27)**, p. 76] The obvious
+regime of workers' democracy is constantly developed more and more."_ [ **The
+Challenge of the Left Opposition (1926-27)** , p. 76] The obvious
 contradictions and absurdities of this assertion are all too plain. Needless
 to say, when defending the concept of _"the dictatorship of the party"_ he
 linked it to Lenin (and so to Leninist orthodoxy):
 
 > _"Of course, the foundation of our regime is the dictatorship of a class.
-But this in turn assumes . . . it is class that has come to self-consciousness
-through its vanguard, which is to say, through the party. Without this, the
-dictatorship could not exist . . . Dictatorship is the most highly
-concentrated function of function of a class, and therefore the basic
-instrument of a dictatorship is a party. In the most fundamental aspects a
-class realises its dictatorship through a party. That is why Lenin spoke not
-only of the dictatorship of the class but also the dictatorship of the party
-and, **in a certain sense**, made them identical."_ [**Op. Cit.**, pp. 75-6]
+> But this in turn assumes . . . it is class that has come to self-
+> consciousness through its vanguard, which is to say, through the party.
+> Without this, the dictatorship could not exist . . . Dictatorship is the
+> most highly concentrated function of a class, and therefore the basic
+> instrument of a dictatorship is a party. In the most fundamental aspects a
+> class realises its dictatorship through a party. That is why Lenin spoke not
+> only of the dictatorship of the class but also the dictatorship of the party
+> and, **in a certain sense** , made them identical."_ [ **Op. Cit.** , pp.
+> 75-6]
 
 The following year saw Trotsky state that _"[w]ith us the dictatorship of the
 party (quite falsely disputed theoretically by Stalin) is the expression of
 the socialist dictatorship of the proletariat . . . The dictatorship of a
-party is a part of the socialist revolution"_. [**Leon Trotsky on China**, p.
-251] 1927 also saw the publication of the **Platform of the Opposition**, in
-which Trotsky **still** did not question the issue of Party dictatorship.
+party is a part of the socialist revolution"_. [ **Leon Trotsky on China** ,
+p. 251] 1927 also saw the publication of the **Platform of the Opposition** ,
+in which Trotsky **still** did not question the issue of Party dictatorship.
 Indeed, it was actually stressed in that document and so while it urged a
 _"consistent development of a workers' democracy in the party, the trade
 unions, and the soviets"_ and to _"convert the urban soviets into real
@@ -6065,7 +6095,7 @@ replace Lenin's course with some other can advocate a split or a movement
 along the two-party road"_. Given this: _"We will fight with all our power
 against the idea of two parties, because the dictatorship of the proletariat
 demands as its very core a single proletarian party. It demands a single
-party."_ [**The Challenge of the Left Opposition (1926-7)**, p. 384, p. 395,
+party."_ [ **The Challenge of the Left Opposition (1926-7)** , p. 384, p. 395,
 p. 439 and p. 441]
 
 The Platform was as anti-democratic economically as it was politically,
@@ -6082,7 +6112,7 @@ part of our surplus value"_ and _"the growing bourgeoisie, by means of trade
 and gambling on the abnormal disparity of prices, [also] appropriates a part
 of the surplus value created by our state industry"_. Thus _"all the data
 testify that the growth of wages is lagging behind the growth of the
-productivity of labour."_ [**Op. Cit.**, p. 347, p. 348 and p. 350] Trotsky
+productivity of labour."_ [ **Op. Cit.** , p. 347, p. 348 and p. 350] Trotsky
 appeared to believe that an economic regime marked by one-man management by
 state-appointed bosses under a party dictatorship would somehow be without
 exploitation even though someone other than the workers controlled both their
@@ -6096,24 +6126,20 @@ by man"_ but rather changed the social class which exploited the working class
 from private capitalists to state bureaucrats -- as anarchists had predicted
 from Proudhon onwards.
 
-
-
 Of course **The Platform** did not bother to explain how workers' democracy
 **could** develop within a party dictatorship nor how soviets could become
 institutions of power when real power would, obviously, lie with the party.
 But, then, it did not have to as by _"workers' democracy"_ the Platform meant
 inter-party democracy, as can be seen when it _"affirm[s]"_ the _"New Course
-Resolution"_ definition quoted above. [**Op. Cit.**, p. 402]
-
-
+Resolution"_ definition quoted above. [ **Op. Cit.** , p. 402]
 
 As is well know, the Opposition was crushed and Trotsky forced into exile.
 This did not lead to a fundamental re-evaluation of the degeneration of the
 revolution and the need for genuine soviet democracy. A key task was _"[t]o
 stop the dissolution of the party into the class in the USSR"_ and so, perhaps
-unsurprisingly, Soviet democracy went unmentioned. [**Writings 1930**, p. 148]
-Repeating previous arguments, Trotsky was fundamentally concerned about the
-dangers _"if the vanguard is dissolved into the amorphous mass"_ for _"the
+unsurprisingly, Soviet democracy went unmentioned. [ **Writings 1930** , p.
+148] Repeating previous arguments, Trotsky was fundamentally concerned about
+the dangers _"if the vanguard is dissolved into the amorphous mass"_ for _"the
 party is not the class, but its vanguard; it cannot pay for its numerical
 growth by the lowering of its political level"_. There was _"the demand of
 party democracy"_ for the dictatorship of the proletariat _"is inconceivable
@@ -6126,10 +6152,10 @@ reduction in numbers of those who had some kind of meaningful vote. Rest
 assured, though, because the new party regime _"means that the party directs
 the proletarian dictatorship but does not strangle the mass organisations of
 the toilers"_ and the secret ballot is _"one of the most important means to
-discipline the entire apparatus and subordinate it to the party"_. [**Writings
-1930-31**, p. 241, p. 244, p. 247, pp. 255-6, p. 70 and p. 130] Clearly
-_"socialism's democratic essence"_ was, at best, applicable to within the
-ruling party -- or at least what remained of it after the purges.
+discipline the entire apparatus and subordinate it to the party"_. [
+**Writings 1930-31** , p. 241, p. 244, p. 247, pp. 255-6, p. 70 and p. 130]
+Clearly _"socialism's democratic essence"_ was, at best, applicable to within
+the ruling party -- or at least what remained of it after the purges.
 
 In 1932, he was arguing that the _"same class can rule with the help of
 different political systems and methods according to circumstances. So the
@@ -6138,8 +6164,8 @@ monarchy, bonapartism, parliamentary republic and fascist dictatorship . . .
 the Soviet regime means the rule of the proletariat, irrespective of how broad
 the stratum on whose hands the power is **immediately concentrated**."_ This
 was justification for his denial that there was _"a small group in the Kremlin
-who exercise oligarchical powers"_ (_"No, that is not so"_). [**Writings
-1932**, p. 217] Trotsky seemed to have forgotten that the bourgeoisie was a
+who exercise oligarchical powers"_ ( _"No, that is not so"_ ). [ **Writings
+1932** , p. 217] Trotsky seemed to have forgotten that the bourgeoisie was a
 minority class which controlled the economic life of a country. Given this, it
 is not surprising that it could still rule under dictatorships. The same
 cannot be said of the working class -- particularly if, as under Lenin and
@@ -6151,24 +6177,24 @@ would have meant raising questions over the nature of the Bolshevik regime
 between 1918 and 1923 when he was at its commanding heights. Hence clearly
 incorrect assertions like: _"The dictatorship of a class does not mean by a
 long shot that its entire mass always participates in the management of the
-state"_ [**Writings 1933-34**, p. 124]
+state"_ [ **Writings 1933-34** , p. 124]
 
 In 1936 Trotsky finally appeared to revise his ideas in **The Revolution
-Betrayed**, although his revisionism in terms of democracy was combined with
+Betrayed** , although his revisionism in terms of democracy was combined with
 revisionism in the events of the Russian Revolution. It would be fair to
 suggest that McNally's account of Trotsky's ideas may be based on this work
 for in stark contrast to his early arguments he now stated that
 _"[b]ureaucratic autocracy must give place to Soviet democracy. A restoration
 of the right of criticism, and a genuine freedom of elections, are necessary
 conditions for the further development of the country. This assumes a revival
-of freedom of Soviet parties, beginning with the party of Bolsheviks"_. [**The
-Revolution Betrayed**, p. 273] Given his previous comments on the matter, the
-reader would be justified in wondering whether, rather than a sincere change
-of heart, Trotsky's position was a limited and temporary aberration
-(Anarchist-turned-Bolshevik Victor Serge, who later broke with Trotsky over
-this issue, stated that he _"had prevailed on him to include in"_ this book
-_"a declaration of freedom for all parties accepting the Soviet system."_
-[**Memoirs of a Revolutionary**, p. 348]).
+of freedom of Soviet parties, beginning with the party of Bolsheviks"_. [
+**The Revolution Betrayed** , p. 273] Given his previous comments on the
+matter, the reader would be justified in wondering whether, rather than a
+sincere change of heart, Trotsky's position was a limited and temporary
+aberration (Anarchist-turned-Bolshevik Victor Serge, who later broke with
+Trotsky over this issue, stated that he _"had prevailed on him to include in"_
+this book _"a declaration of freedom for all parties accepting the Soviet
+system."_ [ **Memoirs of a Revolutionary** , p. 348]).
 
 The evidence suggests the latter, that it was a temporary aberration --
 particularly given the misleading account of the rise of the Bolshevik
@@ -6188,7 +6214,7 @@ of Leninism was overlooked in favour of the suggestion that the civil war
 resulted in the opposition parties being _"forbidden one after the other"_ and
 while this was _"obviously in conflict with the spirit of Soviet democracy,
 the leaders of Bolshevism regarded [it] not as a principle, but as an episodic
-act of self-defence."_ [**Op. Cit.**, p. 34, p. 252 and p. 96] It would be
+act of self-defence."_ [ **Op. Cit.** , p. 34, p. 252 and p. 96] It would be
 churlish to note that the final abolition of opposition parties -- like
 factions within the ruling party -- occurred **after** the end of the civil
 war.
@@ -6197,16 +6223,17 @@ These awkward facts did not stop Trotsky from suggesting a fundamental
 difference between the Leninist and Stalinist dictatorships:
 
 > _"To be sure, during the first period of the Soviet era the Bolshevik party
-also exercised a monopoly. But to identify these two phenomena would be to
-take appearance for reality. The prohibition of opposition parties was a
-temporary measure dictated by conditions of civil war, blockade, intervention
-and famine. The ruling party, representing in that period a genuine
-organisation of the proletarian vanguard, was living a full-blooded inner
-life. A struggle of groups and factions to a certain degree replaced the
-struggle of parties. At present, when socialism has conquered 'finally and
-irrevocably,' the formation of factions is punished with concentration camp or
-firing squad. The prohibition of other parties, from being a temporary evil,
-has been erected into a principle."_ [**Op. Cit.**, p. 251]
+> also exercised a monopoly. But to identify these two phenomena would be to
+> take appearance for reality. The prohibition of opposition parties was a
+> temporary measure dictated by conditions of civil war, blockade,
+> intervention and famine. The ruling party, representing in that period a
+> genuine organisation of the proletarian vanguard, was living a full-blooded
+> inner life. A struggle of groups and factions to a certain degree replaced
+> the struggle of parties. At present, when socialism has conquered 'finally
+> and irrevocably,' the formation of factions is punished with concentration
+> camp or firing squad. The prohibition of other parties, from being a
+> temporary evil, has been erected into a principle."_ [ **Op. Cit.** , p.
+> 251]
 
 In reality, the necessity of a party dictatorship was embraced by leading
 Bolsheviks like Trotsky and proclaimed to the world Socialist movement. The
@@ -6219,19 +6246,19 @@ of opposition when he was in charge. For example a series of (unofficial)
 strikes broke out in July and August 1923 in Moscow and Petrograd and this
 _"gave a new lease of life to the Mensheviks"_ and so _"the GPU carried out a
 massive round up of Mensheviks, and as many as one thousand were arrested in
-Moscow alone."_ [Tony Cliff, **Trotsky**, vol. 3, p. 25] When it was the turn
+Moscow alone."_ [Tony Cliff, **Trotsky** , vol. 3, p. 25] When it was the turn
 of the ex-Bolsheviks in the Workers' Group, Trotsky _"was not at all eager to
 defend"_ them and _"did not protest when their adherents were thrown into
 prison. Nor was he at all eager to support their demand for soviet democracy
-in that extreme form"_. [Isaac Deutscher, **The Prophet Unarmed**, pp. 108-9]
+in that extreme form"_. [Isaac Deutscher, **The Prophet Unarmed** , pp. 108-9]
 It should be noted that rather than _"extreme"_ a better word would have been
 _"genuine"_ as the Workers' Group, unlike Trotsky, **did** call for a multi-
 party workers' democracy -- and paid the price. Indeed, the _"New Course
 Resolution"_ even went so far as to say that _"it is obvious that there can be
 no toleration of the formation of groupings whose ideological content is
 directed against the party as a whole and against the dictatorship of the
-proletariat, as for instance the Workers' Truth and Workers' Group."_ [**The
-Challenge of the Left Opposition (1923-25)**, p. 408]
+proletariat, as for instance the Workers' Truth and Workers' Group."_ [ **The
+Challenge of the Left Opposition (1923-25)** , p. 408]
 
 It would be remiss to not note how limited Trotsky's position was: being
 limited to the Soviet Union it does not automatically negate his arguments
@@ -6247,12 +6274,12 @@ Soviet parties after all and repressed them. What guarantee exists that once
 the Bolsheviks had been revived (i.e., his faction took over) they did not
 conclude, as before, the necessity of party dictatorship? None. After all, did
 he not suggest that the _"dictatorship of the Bolshevik party proved one of
-the most powerful instruments of progress in history"_? [**Op. Cit.**, pp.
-238-9 and p. 104]
+the most powerful instruments of progress in history"_? [ **The Revolution
+Betrayed** , pp. 238-9 and p. 104]
 
 This limited support for Soviet Democracy was short-lived. Writing in 1937,
 ten years after the Platform was published and a year after **The Revolution
-Betrayed**, Trotsky was reiterating the privileged position of the party. In
+Betrayed** , Trotsky was reiterating the privileged position of the party. In
 his essay _"Bolshevism and Stalinism"_ he argued quite explicitly that _"the
 proletariat can take power only through its vanguard"_ and that _"the
 necessity for state power arises from an insufficient cultural level of the
@@ -6268,25 +6295,26 @@ who held power in his system: state power is required to **govern the
 masses,** who cannot exercise power themselves as _"[t]hose who propose the
 abstraction of Soviets to the party dictatorship should understand that only
 thanks to the Bolshevik leadership were the Soviets able to lift themselves
-out of the mud of reformism and attain the state form of the proletariat."_
-[**Writings 1936-37**, p. 490, p. 488 and p. 495] Later that same year he
+out of the mud of reformism and attain the state form of the proletariat."_ [
+**Writings 1936-37** , p. 490, p. 488 and p. 495] Later that same year he
 repeated this position clearly and unambiguously:
 
 > _"The revolutionary dictatorship of a proletarian party is for me not a
-thing that one can freely accept or reject: It is an objective necessity
-imposed upon us by the social realities -- the class struggle, the
-heterogeneity of the revolutionary class, the necessity for a selected
-vanguard in order to assure the victory. The dictatorship of a party belongs
-to the barbarian prehistory as does the state itself, but we can not jump over
-this chapter, which can open (not at one stroke) genuine human history . . .
-The revolutionary party (vanguard) which renounces its own dictatorship
-surrenders the masses to the counter-revolution . . . Abstractly speaking, it
-would be very well if the party dictatorship could be replaced by the
-'dictatorship' of the whole toiling people without any party, but this
-presupposes such a high level of political development among the masses that
-it can never be achieved under capitalist conditions. The reason for the
-revolution comes from the circumstance that capitalism does not permit the
-material and the moral development of the masses."_ [**Op. Cit.**, pp. 513-4]
+> thing that one can freely accept or reject: It is an objective necessity
+> imposed upon us by the social realities -- the class struggle, the
+> heterogeneity of the revolutionary class, the necessity for a selected
+> vanguard in order to assure the victory. The dictatorship of a party belongs
+> to the barbarian prehistory as does the state itself, but we can not jump
+> over this chapter, which can open (not at one stroke) genuine human history
+> . . . The revolutionary party (vanguard) which renounces its own
+> dictatorship surrenders the masses to the counter-revolution . . .
+> Abstractly speaking, it would be very well if the party dictatorship could
+> be replaced by the 'dictatorship' of the whole toiling people without any
+> party, but this presupposes such a high level of political development among
+> the masses that it can never be achieved under capitalist conditions. The
+> reason for the revolution comes from the circumstance that capitalism does
+> not permit the material and the moral development of the masses."_ [ **Op.
+> Cit.** , pp. 513-4]
 
 Which was, let us not forget, his argument in 1920. Such remarkable
 consistency on this point over a 17 year period and one which cannot be
@@ -6297,7 +6325,7 @@ Betrayed** and so that work must be considered as a temporary aberration,
 quickly rejected. His advice on what to do during the Spanish Revolution
 followed this pattern: _"Because the leaders of the CNT renounced dictatorship
 **for themselves** they left the place open for the Stalinist dictatorship."_
-[our emphasis, **Op. Cit.**, p. 514] So much for workers' power!
+[our emphasis, **Op. Cit.** , p. 514] So much for workers' power!
 
 The following year saw Trotsky produce an article defending the suppression of
 the Kronstadt revolt which proclaimed that a _"revolution is 'made' directly
@@ -6306,32 +6334,32 @@ where this minority finds more or less support, or at least friendly
 neutrality, on the part of the majority. The shift in different stages of the
 revolution, like the transition from revolution to counterrevolution, is
 directly determined by changing political relations between the minority and
-the majority, between the vanguard and the class."_ [_"Hue and Cry Over
-Kronstadt"_, Lenin and Trotsky, **Kronstadt**, p. 85] Given that Kronstadt had
-rebelled against the Bolshevik dictatorship for soviet democracy, Trotsky's
-argument suggests that for him the rule of the party (the _"minority . . . the
-vanguard"_) is more important than soviet democracy (see the appendix on
-["What was the Kronstadt Rebellion?"](append42.md) for more details of this
-key event in the history of the Russian Revolution). In other words, if the
-majority come to reject the minority then the former shows lack of sufficient
-class awareness and so the latter needs, as in Kronstadt, to use state power
-to secure its ruling position. This is implicit in the following strange
-comment:
+the majority, between the vanguard and the class."_ [ _"Hue and Cry Over
+Kronstadt"_ , Lenin and Trotsky, **Kronstadt** , p. 85] Given that Kronstadt
+had rebelled against the Bolshevik dictatorship for soviet democracy,
+Trotsky's argument suggests that for him the rule of the party (the _"minority
+. . . the vanguard"_ ) is more important than soviet democracy (see the
+appendix on ["What was the Kronstadt Rebellion?"](append42.md) for more
+details of this key event in the history of the Russian Revolution). In other
+words, if the majority come to reject the minority then the former shows lack
+of sufficient class awareness and so the latter needs, as in Kronstadt, to use
+state power to secure its ruling position. This is implicit in the following
+strange comment:
 
 > _"It is true that some of them [the critics of Bolshevism] recognise the
-revolution and the dictatorship –- in words. But this does not help matters.
-They wish for a revolution which will not lead to dictatorship or for a
-dictatorship which will get along without the use of force. Of course, this
-would be a very 'pleasant' dictatorship. It requires, however, a few trifles:
-an equal and, moreover, an extremely high, development of the toiling masses.
-But in such conditions the dictatorship would in general be unnecessary. Some
-Anarchists, who are really liberal pedagogues, hope that in a hundred or a
-thousand years the toilers will have attained so high a level of development
-that coercion will prove unnecessary. Naturally, if capitalism could lead to
-such a development, there would be no reason for overthrowing capitalism.
-There would be no need either for violent revolution or for the dictatorship
-which is an inevitable consequence of revolutionary victory"_ [**Op. Cit.**,
-pp. 92-3]
+> revolution and the dictatorship –- in words. But this does not help matters.
+> They wish for a revolution which will not lead to dictatorship or for a
+> dictatorship which will get along without the use of force. Of course, this
+> would be a very 'pleasant' dictatorship. It requires, however, a few
+> trifles: an equal and, moreover, an extremely high, development of the
+> toiling masses. But in such conditions the dictatorship would in general be
+> unnecessary. Some Anarchists, who are really liberal pedagogues, hope that
+> in a hundred or a thousand years the toilers will have attained so high a
+> level of development that coercion will prove unnecessary. Naturally, if
+> capitalism could lead to such a development, there would be no reason for
+> overthrowing capitalism. There would be no need either for violent
+> revolution or for the dictatorship which is an inevitable consequence of
+> revolutionary victory"_ [ **Op. Cit.** , pp. 92-3]
 
 Given that the so-called "dictatorship of the proletariat" is meant to be the
 means by which the proletariat coerce the former ruling elite, it is strange
@@ -6345,14 +6373,14 @@ the following year (1939) when Trotsky repeats the same dictatorial ideas of
 revolution and saw the need for party power over workers' freedom:
 
 > _"The very same masses are at different times inspired by different moods
-and objectives. It is just for this reason that a centralised organisation of
-the vanguard is indispensable. Only a party, wielding the authority it has
-won, is capable of overcoming the vacillation of the masses themselves . . .
-if the dictatorship of the proletariat means anything at all, then it means
-that the vanguard of the proletariat is armed with the resources of the state
-in order to repel dangers, including those emanating from the backward layers
-of the proletariat itself."_ [_"The Moralists and Sycophants against
-Marxism"_, pp. 53-66, **Their Morals and Ours**, p. 59]
+> and objectives. It is just for this reason that a centralised organisation
+> of the vanguard is indispensable. Only a party, wielding the authority it
+> has won, is capable of overcoming the vacillation of the masses themselves .
+> . . if the dictatorship of the proletariat means anything at all, then it
+> means that the vanguard of the proletariat is armed with the resources of
+> the state in order to repel dangers, including those emanating from the
+> backward layers of the proletariat itself."_ [ _"The Moralists and
+> Sycophants against Marxism"_ , pp. 53-66, **Their Morals and Ours** , p. 59]
 
 Needless to say, **by definition** everyone is _"backward"_ when compared to
 the _"vanguard of the proletariat."_ Moreover, as it is this _"vanguard"_
@@ -6372,15 +6400,15 @@ orthodoxy. Amazingly enough, even in the Russian prison camps in the late
 'freedom of party' would be 'the end of the revolution.' 'Freedom to choose
 one's party -- that is Menshevism,' was the Trotskyists' final verdict."_ This
 was because it had been _"condemned formerly by Lenin, by Trotsky"_ as well as
-by other Opposition Groups. [Ante Ciliga, **The Russian Enigma**, p. 280] As
+by other Opposition Groups. [Ante Ciliga, **The Russian Enigma** , p. 280] As
 Left Oppositionist Victor Serge pointed out _"the greatest reach of boldness
 of the Left Opposition in the Bolshevik Party was to demand the restoration of
 inner-Party democracy, and it never dared dispute the theory of single-party
-government -- by this time, it was too late."_ [**The Serge-Trotsky Papers**,
-p. 181] Sadly, like Trotsky's **The Revolution Betrayed**, Serge's later
+government -- by this time, it was too late."_ [ **The Serge-Trotsky Papers**
+, p. 181] Sadly, like Trotsky's **The Revolution Betrayed** , Serge's later
 **Memoirs** paint a different picture by asserting one of its _"great
-fundamental ideas"_ was _"working-class democracy"_! [**Memoirs of a
-Revolutionary**, p. 252]
+fundamental ideas"_ was _"working-class democracy"_! [ **Memoirs of a
+Revolutionary** , p. 252]
 
 As can be seen, McNally does not present a remotely accurate account of
 Trotsky's ideas during the 1920s and 1930s. All of which makes McNally's
@@ -6390,20 +6418,20 @@ democratic essence. Stalin's 'Marxism' was a variant of socialism from above"_
 Clearly, Trotsky's Marxism was also a variant of _"socialism from above"_ and
 without _"socialism's democratic essence"_ (unless you think that party
 dictatorship can somehow be reconciled with democracy or expresses one of the
-_"basic elements of socialism from below"_). For Trotsky, as for Stalin, the
+_"basic elements of socialism from below"_ ). For Trotsky, as for Stalin, the
 dictatorship of the party was a fundamental principle of Bolshevism and one
 which was above democracy (which, by its very nature, expresses the
-_"vacillation of the masses"_). Compare McNally's words on Stalinism to
+_"vacillation of the masses"_ ). Compare McNally's words on Stalinism to
 Trotsky's position:
 
 > _""For [Stalin's] group, 'socialism' lost all foundation in organs of
-workers' democracy, soviets . . . They came increasingly to identify socialism
-with a bureaucratic monopoly of power which allowed no place for organs of
-mass democracy . . . Gone was the commitment to workers' democracy and
-international socialism . . . Stalin undertook to reshape the entire nature
-and direction of Russian society . . . the elimination of all dissent; the
-liquidation of all forms of democracy and of genuine working class
-organisation . . . "_
+> workers' democracy, soviets . . . They came increasingly to identify
+> socialism with a bureaucratic monopoly of power which allowed no place for
+> organs of mass democracy . . . Gone was the commitment to workers' democracy
+> and international socialism . . . Stalin undertook to reshape the entire
+> nature and direction of Russian society . . . the elimination of all
+> dissent; the liquidation of all forms of democracy and of genuine working
+> class organisation . . . "_
 
 Given that the identification of socialism with the party's _"monopoly of
 power"_ as well as removal of _"the commitment to workers' democracy"_
@@ -6411,18 +6439,18 @@ occurred under Lenin and that Trotsky's defended this, the question arises was
 there any fundamental difference between Leninism and Stalinism? As Victor
 Serge admitted, _"a good many Oppositionists rallied to the [Stalinist]
 'general line' and renounced their errors since, as they put it, 'After all,
-it is our programme that is being applied'"_ [**Op. Cit.**, p. 252] Hence Emma
-Goldman:
+it is our programme that is being applied'"_ [ **Op. Cit.** , p. 252] Hence
+Emma Goldman:
 
 > _"In point of truth I see no marked difference between the two protagonists
-of the benevolent system of the dictatorship except that Leon Trotsky is no
-longer in power to enforce its blessings, and Josef Stalin is . . . Stalin did
-not come down as a gift from heaven to the hapless Russian people. He is
-merely continuing the Bolshevik traditions, even if in a more relentless
-manner . . . I admit, the dictatorship under Stalin's rule has become
-monstrous. That does not, however, lessen the guilt of Leon Trotsky as one of
-the actors in the revolutionary drama"_ [_"Trotsky Protests Too Much"_,
-**Writings of Emma Goldman**, pp. 251-2]
+> of the benevolent system of the dictatorship except that Leon Trotsky is no
+> longer in power to enforce its blessings, and Josef Stalin is . . . Stalin
+> did not come down as a gift from heaven to the hapless Russian people. He is
+> merely continuing the Bolshevik traditions, even if in a more relentless
+> manner . . . I admit, the dictatorship under Stalin's rule has become
+> monstrous. That does not, however, lessen the guilt of Leon Trotsky as one
+> of the actors in the revolutionary drama"_ [ _"Trotsky Protests Too Much"_ ,
+> **Writings of Emma Goldman** , pp. 251-2]
 
 Ante Ciliga saw the similarities first-hand while in prison in the Soviet
 Union, noting that the Trotskyists _"who were in prison for anti-Stalinism
@@ -6431,9 +6459,9 @@ their political groups] while in prison. This absurdity was only apparent; it
 merely served to prove that between Trotskyism and Stalinism there were many
 points in common"_. The outlook of the Trotskyist majority _"was not very
 different from that of the Stalinist bureaucracy; they were slightly more
-polite and human, that was all."_ [**Op. Cit.**, p. 218 and p. 263] This is
+polite and human, that was all."_ [ **Op. Cit.** , p. 218 and p. 263] This is
 unsurprising given, as indicated, the same Bolshevik political legacy and same
-class position (Trotskyists were labelled _"the bureaucracy in exile"_). It
+class position (Trotskyists were labelled _"the bureaucracy in exile"_ ). It
 may have been that if the Trotskyists had won the inter-bureaucracy struggle
 in the mid-1920s then the Soviet Union would have avoided the horrors of
 Stalinism but it would have remained a state capitalist party dictatorship
@@ -6444,7 +6472,7 @@ _"socialism in one country"_ does not mean much.
 
 Needless to say, Goldman had no difficulty in recognising that Bolshevik
 Russia was _"State Capitalism"_ in the early 1920s (i.e., when Trotsky was
-still part of the ruling class). [**My Disillusionment in Russia**, p. 247]
+still part of the ruling class). [ **My Disillusionment in Russia** , p. 247]
 McNally argues that _"[b]y making the nature of property ownership the
 criterion of workers' state"_ rather than _"workers' power and workers'
 democracy"_ Trotsky had _"committed an error that was seriously to disorient
@@ -6497,8 +6525,8 @@ look upon the whole workers’ world from the heights of the state. They will no
 longer represent the people but themselves and their own pretensions to govern
 the people."_ Rather than securing the freedom of the people _"no dictatorship
 can have any other objective than to perpetuate itself, and that it can
-engender only slavery in the people who endure it"_. [**Statism and Anarchy**,
-p. 136, p. 198, p. 13, p. 24, p. 136, p. 137, pp. 178-9, p. 178 and p. 179]
+engender only slavery in the people who endure it"_. [ **Statism and Anarchy**
+, p. 136, p. 198, p. 13, p. 24, p. 136, p. 137, pp. 178-9, p. 178 and p. 179]
 
 Economically, the workers would remain oppressed and exploited as the Marxists
 would _"concentrate the reins of government in a strong hand, because the
@@ -6508,14 +6536,14 @@ agricultural, and even scientific, production, and will divide the people into
 two armies, one industrial and one agrarian, under the direct command of state
 engineers, who will form a new privileged scientific and political class."_
 The state bureaucracy would become the new ruling class, _"a new bureaucratic
-aristocracy"_ who are _"corrupted by state service"_, and as soon as _"they
+aristocracy"_ who are _"corrupted by state service"_ , and as soon as _"they
 enter state service . . . the iron logic of their position, the force of
 circumstances inherent in certain hierarchical and profitable relationships,
 makes itself felt and . . . [they] become bureaucrats from head to toe . . .
 The demands of a certain position always prove stronger than sentiments,
 intentions, or good impulses . . . They have to become members of the
 bureaucratic class . . . they become enemies of the people, whether they want
-to or not"_. [**Op. Cit.**, p. 181 and p. 51]
+to or not"_. [ **Op. Cit.** , p. 181 and p. 51]
 
 Clearly the Bolshevik experience confirmed Bakunin's critique of Marxism while
 the Makhnovist insurrectionary army in the Ukraine confirmed the validity of
@@ -6538,11 +6566,11 @@ the advanced political ideas of the Bolshevik party leaders. Yet despite Lenin
 and Trotsky's dismissal of democracy, McNally argues that democracy is the
 core need of socialism:
 
-> _ "A workers' state, according to Marx and Lenin, is a state based upon
-workers' control of society. It depends upon the existence of democratic
-organisation that can control society from below. A workers' state presupposes
-that workers are running the state. To talk of a workers' state is necessarily
-to talk of workers' power and workers' democracy."_
+> _"A workers' state, according to Marx and Lenin, is a state based upon
+> workers' control of society. It depends upon the existence of democratic
+> organisation that can control society from below. A workers' state
+> presupposes that workers are running the state. To talk of a workers' state
+> is necessarily to talk of workers' power and workers' democracy."_
 
 Which, as far as it goes, is correct (for anarchists, of course, the idea that
 a state can be run from below is utopian -- it is not designed for that and no
@@ -6569,12 +6597,12 @@ Opposition supported genuine workers' democracy seems to be a common fallacy
 in SWP circles. Thus Chris Harman asserted that the _"alternative to
 Stalinism"_ in the late 1920s was _"returning to genuine workers' democracy
 and consciously linking the fate of Russia to the fate of the world
-revolution"_ (while allowing _"a limited development of heavy industry"_) and
+revolution"_ (while allowing _"a limited development of heavy industry"_ ) and
 it was the _"historical merit of the Left Opposition"_ that _"it framed a
 policy along these lines."_ [Chris Harman, **Bureaucracy and Revolution in
-Eastern Europe**, p. 19] Clearly McNally is not the only Leninist unable -- or
-unwilling -- to discover the grim truth about the Left Opposition or, for that
-matter, the reality of Bolshevik rule.
+Eastern Europe** , p. 19] Clearly McNally is not the only Leninist unable --
+or unwilling -- to discover the grim truth about the Left Opposition or, for
+that matter, the reality of Bolshevik rule.
 
 For anarchists, we stress, the Bolshevik substitution of party power for
 workers power did not come as a surprise. The state is the delegation of
@@ -6617,15 +6645,15 @@ short, the Bolsheviks had introduced much of which McNally denounces as
 its rise. As Maurice Brinton rightly states:
 
 > _"there is a clear-cut and incontrovertible link between what happened under
-Lenin and Trotsky and the later practices of Stalinism . . . The more one
-unearths about this period the more difficult it becomes to define -- or even
-to see -- the 'gulf' allegedly separating what happened in Lenin's time from
-what happened later. Real knowledge of the facts also makes it impossible to
-accept . . . that the whole course of events was 'historically inevitable' and
-'objectively determined'. Bolshevik ideology and practice were themselves
-important and sometimes decisive factors in the equation, at every critical
-stage of this critical period [between 1917 and 1921]"_ [_"The Bolsheviks and
-Workers' Control"_, **For Workers' Power**, p. 376]
+> Lenin and Trotsky and the later practices of Stalinism . . . The more one
+> unearths about this period the more difficult it becomes to define -- or
+> even to see -- the 'gulf' allegedly separating what happened in Lenin's time
+> from what happened later. Real knowledge of the facts also makes it
+> impossible to accept . . . that the whole course of events was 'historically
+> inevitable' and 'objectively determined'. Bolshevik ideology and practice
+> were themselves important and sometimes decisive factors in the equation, at
+> every critical stage of this critical period [between 1917 and 1921]"_ [
+> _"The Bolsheviks and Workers' Control"_ , **For Workers' Power** , p. 376]
 
 To draw a sharp distinction between Stalinism and Bolshevism is difficult, if
 not impossible, to make based on McNally's own criteria. That Stalinism was
@@ -6674,7 +6702,7 @@ state" and so with the ideas of Marx and Engels. As Bakunin argued against
 Marx (and anarchists have repeated since) the state is, by its nature, a
 centralised and top-down machine. By creating a "revolutionary" government,
 power is automatically transferred from the working class into the hands of a
-few people at the top. As they have the real, **de facto**, power in the
+few people at the top. As they have the real, **de facto** , power in the
 state, it is inevitable that they will implement "socialism from above" as
 that is how the state is structured. As Bakunin argued, all states _"are in
 essence only machines governing the masses from above"_ by a _"privileged
@@ -6684,14 +6712,14 @@ much sense as "dry rain." Little wonder Bakunin argued for a _"federal
 organisation, from the bottom upward, of workers' associations, groups, city
 and village communes, and finally of regions and peoples"_ as _"the sole
 condition of a real and not fictitious liberty."_ In other words: _"Where all
-rule, there are no more ruled, and there is no State."_ [**The Political
-Philosophy of Bakunin**, p. 211, p. 210 and p. 223] Only this, the destruction
-of every state and its replacement by a free federation of workers' councils,
-can ensure a real _"socialism from below"_.
+rule, there are no more ruled, and there is no State."_ [ **The Political
+Philosophy of Bakunin** , p. 211, p. 210 and p. 223] Only this, the
+destruction of every state and its replacement by a free federation of
+workers' councils, can ensure a real _"socialism from below"_.
 
 Therefore, rather than signifying the working class running society directly,
 the "workers' state" actually signifies the opposite -- namely, that the
-working class has delegated that power and responsibility to **others**,
+working class has delegated that power and responsibility to **others** ,
 namely the government. As Leninism supports the idea of a "workers' state"
 then it is inevitably and logically tied to the idea of "socialism from
 below." Given that Lenin himself argued that "only from below" was an
@@ -6701,13 +6729,13 @@ _"socialism from below."_
 
 Sadly for McNally, Trotsky did not, as he asserts, embrace the _"democratic
 essence"_ of Leninism in the 1920s or 30s. Rather, as is clear from Trotsky's
-writings, he embraced party dictatorship (i.e. _"socialism from above"_) and
+writings, he embraced party dictatorship (i.e. _"socialism from above"_ ) and
 considered this as quite compatible (indeed, an essential aspect) of his
 Leninist ideology. That McNally fails to indicate this and, indeed, asserts
 the exact opposite of the facts shows that it is not only anarchism he is
 ignorant about.
 
-[‹ Appendix : Anarchism and Marxism](append3.md "Go to previous page" )
-[up](append3.md "Go to parent page" ) [Marxists and Spanish Anarchism
-›](append32.md "Go to next page" )
+[‹ Appendix : Anarchism and Marxism](append3.md "Go to previous page")
+[up](append3.md "Go to parent page") [Marxists and Spanish Anarchism
+›](append32.md "Go to next page")
 

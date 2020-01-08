@@ -15,9 +15,9 @@ is, and cannot be, a capitalist economy which does not exhibit some form of
 state action within it. The state is forced to intervene in society for three
 reasons:
 
-         1. To bolster the power of capital as a whole within society.  
-         2. To benefit certain sections of the capitalist class against others.  
-         3. To counteract the anti-social effects of capitalism. 
+1\. To bolster the power of capital as a whole within society.  
+2\. To benefit certain sections of the capitalist class against others.  
+3\. To counteract the anti-social effects of capitalism.
 
 From our discussion of the state and its role in [section B.2](secB2.md),
 the first two reasons are unexpected and straight forward. The state is an
@@ -36,8 +36,8 @@ of resisting the oppression by capitalists. . . The state has **always**
 interfered in the economic life in favour of the capitalist exploiter. It has
 always granted him protection in robbery, given aid and support for further
 enrichment. **And it could not be otherwise.** To do so was one of the
-functions -- the chief mission -- of the State."_ [**Evolution and
-Environment**, pp. 97-8]
+functions -- the chief mission -- of the State."_ [ **Evolution and
+Environment** , pp. 97-8]
 
 In addition to this role, the state has also regulated certain industries and,
 at times, directly involved itself in employing wage labour to product goods
@@ -51,7 +51,7 @@ gives the example of the railways, which were _"built at a time when it was
 believed that market forces would reward the good and useful and eliminate the
 bad or socially useless."_ However, _"it was found necessary as early as 1840
 for the government's Board of Trade to regulate and supervise them, simply for
-the protection of the public."_ [**Freedom to Go**, p. 7 and pp. 7-8]
+the protection of the public."_ [ **Freedom to Go** , p. 7 and pp. 7-8]
 
 This sort of intervention was to ensure that no one capitalist or group of
 capitalists had a virtual monopoly over the others which would allow them to
@@ -70,12 +70,12 @@ hierarchical social relations these produce against those subject to them.
 This means, as Kropotkin stressed, it _"has never practised"_ the idea of
 laissez faire. In fact, _"while all Governments have given the capitalists and
 monopolists full liberty to enrich themselves with the underpaid labour of
-working men [and women] . . . they have **never**, **nowhere** given the
+working men [and women] . . . they have **never** , **nowhere** given the
 working [people] the liberty of opposing that exploitation. Never has any
 Government applied the 'leave things alone' principle to the exploited masses.
-It reserved it for the exploiters only."_ [**Op. Cit.**, p. 96] As such, under
-pure "free market" capitalism state intervention would still exist but it
-would be limited to repressing the working class (see [section
+It reserved it for the exploiters only."_ [ **Op. Cit.** , p. 96] As such,
+under pure "free market" capitalism state intervention would still exist but
+it would be limited to repressing the working class (see [section
 D.1.4](secD1.md#secd14) for more discussion).
 
 Then there is the last reason, namely counteracting the destructive effects of
@@ -84,13 +84,13 @@ state intervention would be an absolute necessity to preserve human existence
 and to prevent the destruction of the physical environment -- I speak
 optimistically . . . social protection . . . [is] therefore a minimal
 necessity to constrain the irrational and destructive workings of the
-classical free market."_ [**Chomsky on Anarchism**, p. 111] This kind of
+classical free market."_ [ **Chomsky on Anarchism** , p. 111] This kind of
 intervention is required simply because _"government cannot want society to
 break up, for it would mean that it and the dominant class would be deprived
 of sources of exploitation; nor can it leave society to maintain itself
 without official intervention, for then people would soon realise that
 government serves only to defend property owners . . . and they would hasten
-to rid themselves of both."_ [Malatesta, **Anarchy**, p. 25]
+to rid themselves of both."_ [Malatesta, **Anarchy** , p. 25]
 
 So while many ideologues of capitalism thunder against state intervention (for
 the benefit of the masses), the fact is that capitalism itself produces the
@@ -124,8 +124,8 @@ against economic liberalism and laissez-faire possessed all the unmistakable
 characteristics of a spontaneous reaction . . . [A] closely similar change
 from laissez-faire to 'collectivism' took place in various countries at a
 definite stage of their industrial development, pointing to the depth and
-independence of the underlying causes of the process."_ [**The Great
-Transformation**, p. 71, pp. 41-42 and pp. 149-150]
+independence of the underlying causes of the process."_ [ **The Great
+Transformation** , p. 71, pp. 41-42 and pp. 149-150]
 
 To expect that a community would remain indifferent to the scourge of
 unemployment, dangerous working conditions, 16-hour working days, the shifting
@@ -178,20 +178,20 @@ the traditions they claim to support and recognises only monetary values.
 
 In addition to social protection, state intervention is required to protect a
 country's economy (and so the economic interests of the ruling class). As Noam
-Chomsky points out, even the USA, home of "free enterprise," was marked by _
-"large-scale intervention in the economy after independence, and conquest of
+Chomsky points out, even the USA, home of "free enterprise," was marked by
+_"large-scale intervention in the economy after independence, and conquest of
 resources and markets. . . [while] a centralised developmental state [was
 constructed] committed to [the] creation and entrenchment of domestic
 manufacture and commerce, subsidising local production and barring cheaper
 British imports, constructing a legal basis for private corporate power, and
 in numerous other ways providing an escape from the stranglehold of
-comparative advantage."_ [**World Orders, Old and New**, p. 114] State
+comparative advantage."_ [ **World Orders, Old and New** , p. 114] State
 intervention is as natural to capitalism as wage labour.
 
 In the case of Britain and a host of other countries (and more recently in the
 cases of Japan and the Newly Industrialising Countries of the Far East, like
 Korea) state intervention was the key to development and success in the "free
-market." (see, for example, Robert Wade's **Governing the Market**). In other
+market." (see, for example, Robert Wade's **Governing the Market** ). In other
 "developing" countries which have had the misfortune to be subjected to "free-
 market reforms" (e.g. neo-liberal Structural Adjustment Programs) rather than
 following the interventionist Japanese and Korean models, the results have
@@ -201,7 +201,7 @@ different of course). In the nineteenth century, states only turned to
 laissez-faire once they could benefit from it and had a strong enough economy
 to survive it: _"Only in the mid-nineteenth century, when it had become
 powerful enough to overcome any competition, did England [sic!] embrace free
-trade."_ [Chomsky, **Op. Cit.**, p. 115] Before this, protectionism and other
+trade."_ [Chomsky, **Op. Cit.** , p. 115] Before this, protectionism and other
 methods were used to nurture economic development. And once laissez-faire
 started to undermine a country's economy, it was quickly revoked. For example,
 protectionism is often used to protect a fragile economy and militarism has
@@ -213,7 +213,7 @@ Therefore, contrary to conventional wisdom, state intervention will always be
 associated with capitalism due to: (1) its authoritarian nature; (2) its
 inability to prevent the anti-social results of the competitive market; (3)
 its fallacious assumption that society should be _"an accessory to the
-economic system"_; (4) the class interests of the ruling elite; and (5) the
+economic system"_ ; (4) the class interests of the ruling elite; and (5) the
 need to impose its authoritarian social relationships upon an unwilling
 population in the first place. Thus the contradictions of capitalism
 necessitate government intervention. The more the economy grows, the greater
@@ -223,21 +223,21 @@ provides amble empirical support for this theoretical assessment.
 
 Part of the problem is that the assumption that "pure" capitalism does not
 need the state is shared by both Marxists and supporters of capitalism. _"So
-long as capital is still weak,"_ Marx wrote, _"_it supports itself by leaning
+long as capital is still weak,"_ Marx wrote, _"_ it supports itself by leaning
 on the crutches of past, or disappearing, modes of production. As soon as it
 begins to feel itself strong, it throws away these crutches and moves about in
 accordance with its own laws of motion. But as soon as it begins to feel
 itself as a hindrance to further development and is recognised as such, it
 adapts forms of behaviour through the harnessing of competition which
 seemingly indicate its absolute rule but actually point to its decay and
-dissolution." [quoted by Paul Mattick, **Marx and Keynes**, p. 96] Council
+dissolution." [quoted by Paul Mattick, **Marx and Keynes** , p. 96] Council
 Communist Paul Mattick comments that a _"healthy"_ capitalism _"is a strictly
 competitive capitalism, and the imperfections of competition in the early and
 late stages of its development must be regarded as the ailments of an
 infantile and of a senile capitalism. For a capitalism which restricts
 competition cannot find its indirect 'regulation' in the price and market
-movements which derive from the value relations in the production process."_
-[**Op. Cit.**, p. 97]
+movements which derive from the value relations in the production process."_ [
+**Op. Cit.** , p. 97]
 
 However, this gives capitalism far too much credit -- as well as ignoring how
 far the reality of that system is from the theory. State intervention has
@@ -253,23 +253,22 @@ intervene massively in the domestic economy and international society. That is
 dramatically true of the United States, contrary to much illusion. The rich
 and privileged are no more willing to face market discipline than they have
 been in the past, though they consider it just fine for the general
-population."_ [**Marxism, Anarchism, and Alternative Futures**, p. 784] As
+population."_ [ **Marxism, Anarchism, and Alternative Futures** , p. 784] As
 Kropotkin put it:
 
-> _ "What, then is the use of taking, with Marx, about the 'primitive
-accumulation' -- as if this 'push' given to capitalists were a thing of the
-past? . . . In short, nowhere has the system of 'non-intervention of the
-State' ever existed . . . Nowhere, since States have grown up, have the masses
-had the freedom of resisting the oppression by capitalists. The few rights
-they have now they have gained only by determination and endless sacrifice.  
+> _"What, then is the use of taking, with Marx, about the 'primitive
+> accumulation' -- as if this 'push' given to capitalists were a thing of the
+> past? . . . In short, nowhere has the system of 'non-intervention of the
+> State' ever existed . . . Nowhere, since States have grown up, have the
+> masses had the freedom of resisting the oppression by capitalists. The few
+> rights they have now they have gained only by determination and endless
+> sacrifice.  
 >  _
-
 >
-
 > _"To speak therefore of 'non-intervention of the State' may be all right for
-middle-class economists, who try to persuade the workers that their misery is
-'a law of Nature.' But -- how can Socialists use such language?"_ [**Op.
-Cit.**, pp. 97-8]
+> middle-class economists, who try to persuade the workers that their misery
+> is 'a law of Nature.' But -- how can Socialists use such language?"_ [ **Op.
+> Cit.** , pp. 97-8]
 
 In other words, while Marx was right to note that the _"silent compulsion of
 economic relations sets the seal on the domination of the capitalist over the
@@ -280,7 +279,7 @@ on capital"_ it always supplements that with state intervention. As such, Marx
 was wrong to state it was _"otherwise during the historical genesis of
 capitalist production."_ It is not only the _"rising bourgeoisie"_ which
 _"needs the power of the state"_ nor is it just _"an essential aspect of so-
-called primitive accumulation."_ [**Capital**, vol. 1, pp. 899-900]
+called primitive accumulation."_ [ **Capital** , vol. 1, pp. 899-900]
 
 The enthusiasm for the "free market" since the 1970s is in fact the product of
 the extended boom, which in turn was a product of a state co-ordinated war
@@ -297,16 +296,16 @@ the elite (i.e. the natural order). As Chomsky stresses, the "minimal state"
 rhetoric of the capitalists is a lie, for they will _"never get rid of the
 state because they need it for their own purposes, but they love to use this
 as an ideological weapon against everyone else."_ They are _"not going to
-survive without a massive state subsidy, so they want a powerful state."_
-[**Chomsky on Anarchism**, p. 215]
+survive without a massive state subsidy, so they want a powerful state."_ [
+**Chomsky on Anarchism** , p. 215]
 
 And neither should it be forgotten that state intervention was required to
 create the "free" market in the first place. To quote Polanyi again, _"[f]or
 as long as [the market] system is not established, economic liberals must and
 will unhesitatingly call for the intervention of the state in order to
-establish it, and once established, in order to maintain it."_ [**Op. Cit.**,
-p. 149] Protectionism and subsidy (mercantilism) -- along with the liberal use
-of state violence against the working class -- was required to create and
+establish it, and once established, in order to maintain it."_ [ **Op. Cit.**
+, p. 149] Protectionism and subsidy (mercantilism) -- along with the liberal
+use of state violence against the working class -- was required to create and
 protect capitalism and industry in the first place (see [section
 F.8](secF8.md) for details).
 
@@ -358,19 +357,19 @@ limitation: now, how conceive of limiting privilege before it existed?"_ It
 _"would be an effect without a cause"_ and so _"regulation was a corrective to
 privilege"_ and not vice versa. _"In logic as well as in history, everything
 is appropriated and monopolised when laws and regulations arrive."_ [Proudhon,
-**System of Economic Contradictions**, p. 371] As economist Edward Herman
+**System of Economic Contradictions** , p. 371] As economist Edward Herman
 notes:
 
-> _ "The growth of government has closely followed perceived failings of the
-private market system, especially in terms of market instability, income
-insecurity, and the proliferation of negative externalities. Some of these
-deficiencies of the market can be attributed to its very success, which have
-generated more threatening externalities and created demands for things the
-market is not well suited to provide. It may also be true that the growth of
-the government further weakens the market. This does not alter the fact that
-powerful underlying forces -- not power hungry bureaucrats or frustrated
-intellectuals -- are determining the main drift."_ [Edward Herman, **Corporate
-Control, Corporate Power**, pp. 300-1]
+> _"The growth of government has closely followed perceived failings of the
+> private market system, especially in terms of market instability, income
+> insecurity, and the proliferation of negative externalities. Some of these
+> deficiencies of the market can be attributed to its very success, which have
+> generated more threatening externalities and created demands for things the
+> market is not well suited to provide. It may also be true that the growth of
+> the government further weakens the market. This does not alter the fact that
+> powerful underlying forces -- not power hungry bureaucrats or frustrated
+> intellectuals -- are determining the main drift."_ [Edward Herman,
+> **Corporate Control, Corporate Power** , pp. 300-1]
 
 In other words, state intervention is the result of the problems caused by
 capitalism rather than their cause. To say otherwise is like arguing that
@@ -381,8 +380,8 @@ intervention always _"dealt with some problem arising out of modern industrial
 conditions or, at any rate, in the market method of dealing with them."_ In
 fact, most of these "collectivist" measures were carried out by _"convinced
 supporters of laissez-faire . . . [and who] were as a rule uncompromising
-opponents of [state] socialism or any other form of collectivism."_ [**Op.
-Cit.**, p. 146] Sometimes such measures were introduced to undermine support
+opponents of [state] socialism or any other form of collectivism."_ [ **Op.
+Cit.** , p. 146] Sometimes such measures were introduced to undermine support
 for socialist ideas caused by the excesses of "free market" capitalism but
 usually there were introduced due to a pressing social need or problem which
 capitalism created but could not meet or solve. This means that key to
@@ -402,8 +401,8 @@ market and the Gold Standard, did not last more than 40 years, and by the
 1870s and 1880s, protectionist legislation was back . . . It was also
 significant. . . [that all major capitalist powers] passed through a period of
 free trade and laissez-faire, followed by a period of anti-liberal
-legislation."_ [_"The Nation-state and the Market"_, pp. 37-80, **Society and
-Nature**, Vol. 2, No. 2, p. 48]
+legislation."_ [ _"The Nation-state and the Market"_ , pp. 37-80, **Society
+and Nature** , Vol. 2, No. 2, p. 48]
 
 For example, the reason for the return of protectionist legislation was the
 Depression of 1873-86, which marked the end of the first experiment with pure
@@ -413,25 +412,25 @@ surprising. Neither the owners of the country nor the politicians desired to
 see society destroyed, the result to which unhindered laissez-faire leads.
 Apologists of capitalism overlook the fact that _"[a]t the beginning of the
 Depression, Europe had been in the heyday of free trade."_ [Polanyi, **Op.
-Cit.**, p. 216] State intervention came about in response to the social
+Cit.** , p. 216] State intervention came about in response to the social
 disruptions resulting from laissez-faire. It did not cause them.
 
 Similarly, it is a fallacy to state, as Ludwig von Mises did, that _"as long
 as unemployment benefit is paid, unemployment must exist."_ [quoted by
-Polanyi, **Op. Cit.**, p. 283] This statement is not only ahistoric but
+Polanyi, **Op. Cit.** , p. 283] This statement is not only ahistoric but
 ignores the existence of the **involuntary** unemployment (the purer
 capitalism of the nineteenth century regularly experienced periods of economic
 crisis and mass unemployment). Even such a die-hard exponent of the minimal
 state as Milton Friedman recognised involuntary unemployment existed:
 
-> _ "The growth of government transfer payments in the form of unemployment
-insurance, food stamps, welfare, social security, and so on, has reduced
-drastically the suffering associated with involuntary unemployment. . . most
-laid-off workers . . . may enjoy nearly as high an income when unemployed as
-when employed . . . At the very least, he need not be so desperate to find
-another job as his counterpart in the 1930's. He can afford to be choosy and
-to wait until he is either recalled or a more attractive job turns up."_
-[quoted by Elton Rayack, **Not so Free to Choose**, p. 130]
+> _"The growth of government transfer payments in the form of unemployment
+> insurance, food stamps, welfare, social security, and so on, has reduced
+> drastically the suffering associated with involuntary unemployment. . . most
+> laid-off workers . . . may enjoy nearly as high an income when unemployed as
+> when employed . . . At the very least, he need not be so desperate to find
+> another job as his counterpart in the 1930's. He can afford to be choosy and
+> to wait until he is either recalled or a more attractive job turns up."_
+> [quoted by Elton Rayack, **Not so Free to Choose** , p. 130]
 
 Which, ironically, contradicts Friedman's own claims as regards the welfare
 state. In an attempt to show that being unemployed is not as bad as people
@@ -442,8 +441,8 @@ _"admitting the existence of involuntary unemployment, Friedman is, in
 essence, denying that . . . the market protects the worker's freedom to
 choose. . . In addition, since those social programs have made it possible for
 the worker to be 'choosy; in seeking employment, to that extent the welfare
-state has increased his freedom."_ [**Op. Cit.**, p. 130] But, of course, the
-likes of von Mises will dismiss Friedman as a "socialist" and no further
+state has increased his freedom."_ [ **Op. Cit.** , p. 130] But, of course,
+the likes of von Mises will dismiss Friedman as a "socialist" and no further
 thought is required.
 
 That governments started to pay out unemployment benefit is not surprising,
@@ -463,8 +462,8 @@ society today for the supposed economic benefit of future generations (in
 reality, current profits). If one accepts the ethics of mathematics, a future
 increase in the size of the economy is more important than current social
 disruption. Thus Polanyi again: _"a social calamity is primarily a cultural
-not an economic phenomenon that can be measured by income figures."_ [**Op.
-Cit.**, p. 157] And it is the nature of capitalism to ignore or despise what
+not an economic phenomenon that can be measured by income figures."_ [ **Op.
+Cit.** , p. 157] And it is the nature of capitalism to ignore or despise what
 cannot be measured.
 
 This does not mean that state intervention cannot have bad effects on the
@@ -473,14 +472,14 @@ would be impossible for it **not** to have some bad effects. State
 intervention can and does make bad situations worse in some cases. It also has
 a tendency for self-perpetuation. As Elisee Reclus put it:
 
-> _ "As soon as an institution is established, even if it should be only to
-combat flagrant abuses, it creates them anew through its very existence. It
-has to adapt to its bad environment, and in order to function, it must do so
-in a pathological way. Whereas the creators of the institution follow only
-noble ideals, the employees that they appoint must consider above all their
-remuneration and the continuation of their employment."_ [_"The Modern
-State"_, pp. 201-15, John P Clark and Camille Martin (eds.), **Anarchy,
-Geography, Modernity**, p. 207]
+> _"As soon as an institution is established, even if it should be only to
+> combat flagrant abuses, it creates them anew through its very existence. It
+> has to adapt to its bad environment, and in order to function, it must do so
+> in a pathological way. Whereas the creators of the institution follow only
+> noble ideals, the employees that they appoint must consider above all their
+> remuneration and the continuation of their employment."_ [ _"The Modern
+> State"_ , pp. 201-15, John P Clark and Camille Martin (eds.), **Anarchy,
+> Geography, Modernity** , p. 207]
 
 As such, welfare within a bureaucratic system will have problems but getting
 rid of it will hardly **reduce** inequality (as proven by the onslaught on it
@@ -491,10 +490,10 @@ bureaucrats secure in employment by showing some results.
 Moreover, as Malatesta notes, _"the practical evidence [is] that whatever
 governments do is always motivated by the desire to dominate, and is always
 geared to defending, extending and perpetuating its privileges and those of
-the class of which it is both the representative and defender."_ [**Anarchy**,
-p. 24] In such circumstances, it would be amazing that state intervention did
-not have negative effects. However, to criticise those negative effects while
-ignoring or downplaying the far worse social problems which produced the
+the class of which it is both the representative and defender."_ [ **Anarchy**
+, p. 24] In such circumstances, it would be amazing that state intervention
+did not have negative effects. However, to criticise those negative effects
+while ignoring or downplaying the far worse social problems which produced the
 intervention in the first place is both staggeringly illogical and deeply
 hypocritical. As we discuss later, in [section D.1.5](secD1.md#secd15), the
 anarchist approach to reforms and state intervention is based on this
@@ -526,7 +525,7 @@ ideologues are reluctant to acknowledge that even the Pinochet government
 intervened in many cases in the market-place in last-minute attempts to offset
 the havoc wrecked by its free-market policies (low-income housing, air
 quality, public health, etc.)"_ [Joseph Collins and John Lear, **Chile's Free-
-Market Miracle: A Second Look**, p. 254]
+Market Miracle: A Second Look** , p. 254]
 
 The notion that it is "democracy" which causes politicians to promise the
 electorate state action in return for office is based on a naive viewpoint of
@@ -567,20 +566,20 @@ could go a long way in explaining the much more tolerant attitude of those
 controlling production towards measures encroaching on their economic power
 and profits. In fact, it was only when -- and as long as -- state
 interventionism had the approval of those actually controlling production that
-it was successful."_ [_"The Nation-state and the Market"_, **Op. Cit.**, p.
+it was successful."_ [ _"The Nation-state and the Market"_ , **Op. Cit.** , p.
 55] As anarchist Sam Dolgoff notes, the New Deal in America (and similar
 policies elsewhere) was introduced, in part, because the _"whole system of
 human exploitation was threatened. The political state saved itself, and all
 that was essential to capitalism, doing what 'private enterprise' could not
 do. Concessions were made to the workers, the farmers, the middle-class, while
-the private capitalists were deprived of some of their power."_ [**The
-American Labor Movement**, pp. 25-6] Much the same can be said of the post-war
-Keynesianism consensus, which combined state aid to the capitalist class with
-social reforms. These reforms were rarely the result of generous politicians
-but rather the product of social pressures from below and the needs of the
-system as a whole. For example, the extensive reforms made by the 1945 Labour
-Government in the UK was the direct result of ruling class fear, not
-socialism. As Quentin Hogg, a Conservative M.P., put it in the House of
+the private capitalists were deprived of some of their power."_ [ **The
+American Labor Movement** , pp. 25-6] Much the same can be said of the post-
+war Keynesianism consensus, which combined state aid to the capitalist class
+with social reforms. These reforms were rarely the result of generous
+politicians but rather the product of social pressures from below and the
+needs of the system as a whole. For example, the extensive reforms made by the
+1945 Labour Government in the UK was the direct result of ruling class fear,
+not socialism. As Quentin Hogg, a Conservative M.P., put it in the House of
 Parliament in 1943: _"If you do not give the people social reforms, they are
 going to give you revolution."_ Memories of the near revolutions across Europe
 after the First World War were obviously in many minds, on both sides.
@@ -614,7 +613,7 @@ themselves capable of opposing it . . . When the people meekly submit to the
 law, or their protests are feeble and confined to words, the government
 studies its own interests and ignores the needs of the people; when the
 protests are lively, insistent, threatening, the government . . . gives way or
-resorts to repression."_ [**Errico Malatesta: His Life and Ideas**, p. 196]
+resorts to repression."_ [ **Errico Malatesta: His Life and Ideas** , p. 196]
 
 Needless to say, the implication of classical liberal ideology that popular
 democracy is a threat to capitalism is the root of the fallacy that democracy
@@ -646,14 +645,14 @@ likes of Adam Smith but this, needless to say, fails to appreciate the
 changing political and economic situation since those days. As market
 socialist Allan Engler argues:
 
-> _ "In Smith's day government was openly and unashamedly an instrument of
-wealth owners. Less than 10 per cent of British men -- and no women at all --
-had the right to vote. When Smith opposed government interference in the
-economy, he was opposing the imposition of wealth owners' interests on
-everybody else. Today, when neoconservatives oppose state interference, their
-aim to the opposite: to stop the representatives of the people from
-interfering with the interests of wealth owners."_ [**Apostles of Greed**, p.
-104]
+> _"In Smith's day government was openly and unashamedly an instrument of
+> wealth owners. Less than 10 per cent of British men -- and no women at all
+> -- had the right to vote. When Smith opposed government interference in the
+> economy, he was opposing the imposition of wealth owners' interests on
+> everybody else. Today, when neoconservatives oppose state interference,
+> their aim to the opposite: to stop the representatives of the people from
+> interfering with the interests of wealth owners."_ [ **Apostles of Greed** ,
+> p. 104]
 
 As well as the changing political situation, Smith's society was without the
 concentrations of economic power that marks capitalism as a developed system.
@@ -661,20 +660,20 @@ Whether Smith would have been happy to see his name appropriated to defend
 corporate power is, obviously, a moot point. However, he had no illusions that
 the state of his time interfered to bolster the elite, not the many (for
 example: _"Whenever the law has attempted to regulate the wages of workmen, it
-has always been rather to lower them than to raise them."_ [**The Wealth of
-Nations**, p. 119]). As such, it is doubtful he would have agreed with those
+has always been rather to lower them than to raise them."_ [ **The Wealth of
+Nations** , p. 119]). As such, it is doubtful he would have agreed with those
 who involve his name to defend corporate power and trusts while advocating the
 restriction of trade unions as is the case with modern day neo-liberalism:
 
-> _ "Whenever the legislature attempts to regulate the differences between
-masters and their workmen, its counsellors are always masters. When the
-regulation, therefore, is in favour of the workmen, it is always just and
-equitable . . . When masters combine together in order to reduce the wages of
-their workmen, they commonly enter into a private bond or agreement . . . Were
-the workmen to enter into a contrary combination of the same kind. not to
-accept of a certain wage under a certain penalty, the law would punish them
-very severely; and if dealt impartially, it would treat the masters in the
-same way."_ [**Op. Cit.**, p. 129]
+> _"Whenever the legislature attempts to regulate the differences between
+> masters and their workmen, its counsellors are always masters. When the
+> regulation, therefore, is in favour of the workmen, it is always just and
+> equitable . . . When masters combine together in order to reduce the wages
+> of their workmen, they commonly enter into a private bond or agreement . . .
+> Were the workmen to enter into a contrary combination of the same kind. not
+> to accept of a certain wage under a certain penalty, the law would punish
+> them very severely; and if dealt impartially, it would treat the masters in
+> the same way."_ [ **Op. Cit.** , p. 129]
 
 The interest of merchants and master manufacturers, Smith stressed, _"is
 always in some respects different from, and even opposite to, that of the
@@ -685,7 +684,7 @@ not only with the most scrupulous, but with the most suspicious attention. It
 comes from an order of men whose interest is never exactly the same with that
 of the public, who have generally an interest to deceive and even to oppress
 the public, and who accordingly have, upon many occasions, both deceived and
-oppressed it."_ [**Op. Cit.**, pp. 231-2] These days Smith would have likely
+oppressed it."_ [ **Op. Cit.** , pp. 231-2] These days Smith would have likely
 argued that this position applies equally to attempts by big business to
 **revoke** laws and regulations!
 
@@ -703,7 +702,7 @@ prosper and so the wealthy acquire an unspoken veto power over government
 policy. In other words, parties need to beg the rich for election funds. Some
 parties do, of course, have trade union funding, but this is easily
 counteracted by pressure from big business (i.e., that useful euphemism, _"the
-markets"_) and the state bureaucracy. This explains why the unions in, say,
+markets"_ ) and the state bureaucracy. This explains why the unions in, say,
 Britain spend a large part of their time under Labour governments trying to
 influence it by means of strikes and lobbying.
 
@@ -766,8 +765,8 @@ fraction of what the wealthy elite can via the stock market and management
 investment decisions. As such, von Hayek's assertion that _"it is inexcusable
 to pretend that . . . the pressure which can be brought by the large firms or
 corporation is comparable to that of the organisation of labour"_ is right,
-but in the exact opposite way he intended. [**Law, Legislation and Liberty**,
-vol. III, p. 89] Outside the imagination of conservatives and right-wing
+but in the exact opposite way he intended. [ **Law, Legislation and Liberty**
+, vol. III, p. 89] Outside the imagination of conservatives and right-wing
 liberals, big business has much greater influence than trade unions on
 government policy (see [section D.2](secD2.md) for some details). While
 trade union and other forms of popular action are more visible than elite
@@ -791,19 +790,19 @@ government stand apart from the rest of the world on many crucial issues, but
 even from its own population."_ The state _"pursues the strategic and economic
 interests of dominant sectors of the domestic population,"_ unless forced
 otherwise by the people (for _"rights are not likely to be granted by
-benevolent authorities"_ but rather by _"education and organising"_). In
+benevolent authorities"_ but rather by _"education and organising"_ ). In
 summary, governments implement policies which benefit _"the short-term
 interests of narrow sectors of power and wealth . . . It takes wilful
 blindness not to see how these commitments guide . . . policy."_ [Chomsky,
-**Failed States**, p. 234, p. 235, p. 228, p. 229, p. 262, p. 263 and p. 211]
+**Failed States** , p. 234, p. 235, p. 228, p. 229, p. 262, p. 263 and p. 211]
 A clearer example of how capitalist "democracy" works can hardly be found.
 
 Von Hayek showed his grasp of reality by stating that the real problem is
 _"not the selfish action of individual firms but the selfishness of organised
 groups"_ and so _"the real exploiters in our present society are not egotistic
 capitalists . . . but organisations which derive their power from the moral
-support of collective action and the feeling of group loyalty."_ [**Op.
-Cit.**, p. 96] So (autocratic) firms and (state privileged) corporations are
+support of collective action and the feeling of group loyalty."_ [ **Op.
+Cit.** , p. 96] So (autocratic) firms and (state privileged) corporations are
 part of the natural order, but (self-organised and, at worse, relatively
 democratic) unions are not. Ignoring the factual issues of the power and
 influence of wealth and business, the logical problem with this opinion is
@@ -847,11 +846,11 @@ No. Libertarian socialism is about self-liberation and self-management of
 one's activities. Getting the state to act for us is the opposite of these
 ideals. In addition, the question implies that socialism is connected with its
 nemesis, statism, and that socialism means even more bureaucratic control and
-centralisation (_"socialism is the contrary of governmentalism."_ [Proudhon,
-**No Gods, No Masters**, vol. 1, p. 63]). As Kropotkin stressed: _"State
+centralisation ( _"socialism is the contrary of governmentalism."_ [Proudhon,
+**No Gods, No Masters** , vol. 1, p. 63]). As Kropotkin stressed: _"State
 bureaucracy and centralisation are as irreconcilable with socialism as was
-autocracy with capitalist rule."_ [**Evolution and Environment**, p. 185] The
-history of both social democracy and state socialism proved this, with the
+autocracy with capitalist rule."_ [ **Evolution and Environment** , p. 185]
+The history of both social democracy and state socialism proved this, with the
 former merely reforming some aspects of capitalism while keeping the system
 intact while the latter created an even worse form of class system.
 
@@ -877,7 +876,7 @@ existence and the physical environment, a fact that has been well understood
 by the masters of the private economy who have regularly called upon the state
 to restrain and organise these forces. But the common idea that the government
 acts as a social equaliser can hardly be put forth as a general principle."_
-[Noam Chomsky, **The Chomsky Reader**, p. 185]
+[Noam Chomsky, **The Chomsky Reader** , p. 185]
 
 The list of state aid to business is lengthy and can hardly be considered as
 socialistic or egalitarian is aim (regardless of its supporters saying it is
@@ -891,16 +890,17 @@ corporations), its manipulation of unemployment rates, and so forth, are all
 examples of state intervention which can, by no stretch of the imagination be
 considered as "socialistic." As left-liberal economist Dean Baker notes:
 
-> _ "The key flaw in the stance that most progressives have taken on economic
-issues is that they have accepted a framing whereby conservatives are assumed
-to support market outcomes, while progressives want to rely on the government
-. . . The reality is that conservatives have been quite actively using the
-power of the government to shape market outcomes in ways that redistribute
-income upward. However, conservatives have been clever enough to not own up to
-their role in this process, pretending all along that everything is just the
-natural working of the market. And, progressives have been foolish enough to
-go along with this view."_ [**The Conservative Nanny State: How the Wealthy
-Use the Government to Stay Rich and Get Richer**, p. v]
+> _"The key flaw in the stance that most progressives have taken on economic
+> issues is that they have accepted a framing whereby conservatives are
+> assumed to support market outcomes, while progressives want to rely on the
+> government . . . The reality is that conservatives have been quite actively
+> using the power of the government to shape market outcomes in ways that
+> redistribute income upward. However, conservatives have been clever enough
+> to not own up to their role in this process, pretending all along that
+> everything is just the natural working of the market. And, progressives have
+> been foolish enough to go along with this view."_ [ **The Conservative Nanny
+> State: How the Wealthy Use the Government to Stay Rich and Get Richer** , p.
+> v]
 
 He stresses, that _"both conservatives and liberals want government
 intervention. The difference between them is the goal of government
@@ -920,7 +920,8 @@ numbers of people."_ It seems redundant to note that _"conservatives don't own
 up to the fact that the policies they favour are forms of government
 intervention. Conservatives do their best to portray the forms of government
 intervention that they favour, for example, patent and copyright protection,
-as simply part of the natural order of things."_ [**Op. Cit.**, p. 1 and p. 2]
+as simply part of the natural order of things."_ [ **Op. Cit.** , p. 1 and p.
+2]
 
 This, it should be stressed, is unexpected. As we explained in [section
 B.2](secB2.md), the state is an instrument of minority rule. As such, it
@@ -945,7 +946,7 @@ fairly because it is the main agency of the unfair distribution."_ This is
 because it is _"the political expression of the economic structure, that it is
 the representative of the people who own or control the wealth of the
 community and the oppressor of the people who do the work which creates
-wealth."_ [Walters, **About Anarchism**, p. 36 and p. 37]
+wealth."_ [Walters, **About Anarchism** , p. 36 and p. 37]
 
 The claim that state intervention is "socialist" also ignores the realities of
 power concentration under capitalism. Real socialism equalises power by
@@ -955,12 +956,12 @@ will be equalisers. Rather, it is to be expected that they will be designed
 and manipulated by private power for their own benefits; and to a significant
 degree the expectation is fulfilled. It is not very likely that matters could
 be otherwise in the absence of mass popular organisations that are prepared to
-struggle for their rights and interests."_ [**Op. Cit.**, p. 184] The notion
+struggle for their rights and interests."_ [ **Op. Cit.** , p. 184] The notion
 that "welfare equals socialism" is nonsense, although it can reduce poverty
 and economic inequality somewhat. As Colin Ward notes, _"when socialists have
 achieved power"_ they have produced nothing more than _"[m]onopoly capitalism
-with a veneer of social welfare as a substitute for social justice."_
-[**Anarchy in Action**, p. 18]
+with a veneer of social welfare as a substitute for social justice."_ [
+**Anarchy in Action** , p. 18]
 
 This analysis applies to state ownership and control of industry. Britain, for
 example, saw the nationalisation of roughly 20% of the economy by the 1945
@@ -973,7 +974,7 @@ _"the real opinions of capitalists can be seen from Stock Exchange conditions
 and statements of industrialists [rather] than the Tory Front bench . . . [and
 from these we] see that the owning class is not at all displeased with the
 record and tendency of the Labour Party."_ [Vernon Richards (ed.), **Neither
-Nationalisation nor Privatisation -- Selections from Freedom 1945-1950**, p.
+Nationalisation nor Privatisation -- Selections from Freedom 1945-1950** , p.
 9]
 
 Moreover, the example of nationalised industries is a good indicator of the
@@ -984,15 +985,15 @@ Party's post-war nationalisations, anarchists were pointing out its anti-
 socialist nature. Nationalisation was _"really consolidating the old
 individual capitalist class into a new and efficient class of managers to run
 . . . state capitalism"_ by _"installing the really creative industrialists in
-dictatorial managerial positions."_ [Vernon Richards (ed.), **Op. Cit.**, p.
+dictatorial managerial positions."_ [Vernon Richards (ed.), **Op. Cit.** , p.
 10] Thus, in practice, the real examples of nationalisation confirmed
 Kropotkin's prediction that it would be _"an exchange of present capitalism
 for state-capitalism"_ and simply be _"nothing but a new, perhaps improved,
-but still undesirable form of the wage system."_ [**Evolution and
-Environment**, p. 193 and p. 171] The nationalised industries were expected,
+but still undesirable form of the wage system."_ [ **Evolution and
+Environment** , p. 193 and p. 171] The nationalised industries were expected,
 of course, to make a profit, partly for _"repaying the generous compensation
 plus interest to the former owners of the mainly bankrupt industries that the
-Labour government had taken over."_ [Richards, **Op. Cit.**, p. 7]
+Labour government had taken over."_ [Richards, **Op. Cit.** , p. 7]
 
 Ultimately, state ownership at local or national level is hardly socialistic
 in principle or in practice. As Kropotkin stressed, _"no reasonable man [or
@@ -1002,43 +1003,42 @@ evident that [the capitalists] will not let themselves be expropriated without
 opposing resistance. They may favour municipal [or state] enterprise for a
 time; but the moment they see that it really begins to reduce the number of
 paupers . . . or gives them regular employment, and consequently threatens to
-reduce the profits of the exploiters, they will soon put an end to it."_
-[**Act for Yourselves**, p. 94 and p. 95] The rise of Monetarism in the 1970s
+reduce the profits of the exploiters, they will soon put an end to it."_ [
+**Act for Yourselves** , p. 94 and p. 95] The rise of Monetarism in the 1970s
 and the subsequent enthronement of the "Natural Rate" of unemployment thesis
 proves this argument.
 
 While state intervention is hardly socialistic, what can be said is that _"the
 positive feature of welfare legislation is that, contrary to the capitalist
 ethic, it is a testament to human solidarity. The negative feature is
-precisely that it is an arm of the state."_ [Colin Ward, **Talking Anarchy**,
+precisely that it is an arm of the state."_ [Colin Ward, **Talking Anarchy** ,
 p. 79] For anarchists, while _"we are certainly in full sympathy with all that
 is being done to widen the attributes of city life and to introduce
 communistic conceptions into it. But it is only through a Social Revolution,
 made by the workers themselves, that the present exploitation of Labour by
-Capital can be altered."_ [Kropotkin, **Op. Cit.**, pp. 95-6] As British
+Capital can be altered."_ [Kropotkin, **Op. Cit.** , pp. 95-6] As British
 anarchists stressed during the first post-war Labour Government:
 
-> _ "The fact that the alternative, under capitalism, is destitution and the
-sharper anomalies of poverty, does not make the Liberal-Socialistic
-alternative a sound proposition."  
+> _"The fact that the alternative, under capitalism, is destitution and the
+> sharper anomalies of poverty, does not make the Liberal-Socialistic
+> alternative a sound proposition."  
 >  _
-
 >
-
 > _"The only rational insurance against the evils of poverty and industrialism
-and old age under the wages system is the abolition of poverty and the wages
-system, and the transformation of industrialism to serve human ends instead of
-grinding up human beings."_ [Vernon Richards (ed.), **World War - Cold War**,
-p. 347]
+> and old age under the wages system is the abolition of poverty and the wages
+> system, and the transformation of industrialism to serve human ends instead
+> of grinding up human beings."_ [Vernon Richards (ed.), **World War - Cold
+> War** , p. 347]
 
 In reality, rather than genuine socialism we had reformists _"operating
-capitalism while trying to give it a socialist gloss."_ [**Op. Cit.**, p. 353]
-The fact is that the ruling class oppose those forms of state intervention
-which aim, at least in rhetoric, to help working class people. This does not
-make such reforms socialistic. The much more substantial state intervention
-for the elite and business are simply part of the natural order and go
-unmentioned. That this amounts to a welfare state for the wealthy or socialism
-for the rich is, of course, one of the great unspeakable truths of capitalism.
+capitalism while trying to give it a socialist gloss."_ [ **Op. Cit.** , p.
+353] The fact is that the ruling class oppose those forms of state
+intervention which aim, at least in rhetoric, to help working class people.
+This does not make such reforms socialistic. The much more substantial state
+intervention for the elite and business are simply part of the natural order
+and go unmentioned. That this amounts to a welfare state for the wealthy or
+socialism for the rich is, of course, one of the great unspeakable truths of
+capitalism.
 
 ## D.1.4 Is laissez-faire capitalism actually without state intervention?
 
@@ -1071,7 +1071,7 @@ swallows up another branch of human activity . . . They exist to keep up the
 machinery of government which serves to secure to capital the exploitation and
 monopoly of wealth produced."_ This means that all modern states _"all serve
 one God -- capital; all have but one object -- to facilitate the exploitation
-of the worker by the capitalist."_ [**Anarchism**, p. 210]
+of the worker by the capitalist."_ [ **Anarchism** , p. 210]
 
 Given that the capitalist market is marked by inequalities of power, any legal
 framework will defend that power. The state simply allows the interaction
@@ -1089,15 +1089,15 @@ authority over the weaker party -- all under the fiction of equality and
 freedom. And, as Malatesta stressed, state power and centralisation will have
 to increase:
 
-> _ "liberalism, is in theory a kind of anarchy without socialism, and
-therefore is simply a lie, for freedom is not possible without equality, and
-real anarchy cannot exist without solidarity, without socialism. The criticism
-liberals direct at government consists of wanting to deprive it of some of its
-functions and to call upon the capitalists to fight it out among themselves,
-but it cannot attack the repressive functions which are of its essence: for
-with the **gendarme** the property owner could not exist, indeed the
-government's powers of repression must perforce increase as free competition
-results in more discord and inequality."_ [**Anarchy**, p. 46]
+> _"liberalism, is in theory a kind of anarchy without socialism, and
+> therefore is simply a lie, for freedom is not possible without equality, and
+> real anarchy cannot exist without solidarity, without socialism. The
+> criticism liberals direct at government consists of wanting to deprive it of
+> some of its functions and to call upon the capitalists to fight it out among
+> themselves, but it cannot attack the repressive functions which are of its
+> essence: for with the **gendarme** the property owner could not exist,
+> indeed the government's powers of repression must perforce increase as free
+> competition results in more discord and inequality."_ [ **Anarchy** , p. 46]
 
 His comments were more than confirmed by the rise of neo-liberalism nearly a
 century later which combined the "free(r) market" with a strong state marked
@@ -1107,7 +1107,7 @@ This is unsurprising, as laissez-faire capitalism being _"unable to solve its
 celebrated problem of the harmony of interests, [is forced] to impose laws, if
 only provisional ones, and abdicates in its turn before this new authority
 that is incompatible with the practice of liberty."_ [Proudhon, quoted by Alan
-Ritter, **The Political Thought of Pierre-Joseph Proudhon**, p. 122] Thus
+Ritter, **The Political Thought of Pierre-Joseph Proudhon** , p. 122] Thus
 capitalism always has to rely on the state, on political coercion, if only the
 minimal state, to assure its survival. The capitalist market has to, in other
 words, resort to the coercion it claims to avoid once people start to question
@@ -1123,7 +1123,7 @@ capitalism does not end state intervention, it simply creates a situation
 where the state leaves the market process to the domination of those who
 occupy superior market positions. As Kropotkin put it, capitalism _"is called
 the freedom of transactions but it is more truly called the freedom of
-exploitation."_ [**Words of a Rebel**, p. 119]
+exploitation."_ [ **Words of a Rebel** , p. 119]
 
 Given this, it may be objected that in this case there is no reason for the
 ruling class to interfere with the economy. If economic coercion is
@@ -1142,7 +1142,7 @@ pay and do what their bosses demand. As Doug Henwood notes, _"policy makers
 are exceedingly obsessed with wage increases and the state of labour
 militancy. They're not only concerned with the state of the macroeconomy,
 conventionally defined, they're also concerned with the state of the class
-struggle, to use the old-fashioned language."_ [**Wall Street**, p. 219]
+struggle, to use the old-fashioned language."_ [ **Wall Street** , p. 219]
 Little wonder the ruling class and its high priests within the "science" of
 economics have embraced the concept of a "natural rate" of unemployment (see
 [section C.9](secC9.md) on this and as we indicated in [section
@@ -1161,7 +1161,7 @@ Chomsky notes, under capitalism _"minimising the state means strengthening the
 private sectors. It narrows the domain within which public influence can be
 expressed. That's not an anarchist goal . . . It's minimising the state and
 increasing an even worse power,"_ namely capitalist firms and corporations
-which are _"private totalitarian organisations."_ [**Chomsky on Anarchism**,
+which are _"private totalitarian organisations."_ [ **Chomsky on Anarchism** ,
 p. 214 and p. 213] In other words, if a government "privatises" some
 government function, it is not substituting a market for a bureaucracy. It is
 substituting a private bureaucracy for a public one, usually at rock-bottom
@@ -1175,8 +1175,8 @@ present a short answer simply because it is a complex issue. On the one hand,
 as Proudhon stressed, the state exists to _"maintain **order** in society, by
 consecrating and sanctifying obedience of the citizens to the State,
 subordination of the poor to the rich, of the common people to the upper
-class, of the worker to the idler."_ [**The General Idea of the Revolution**,
-p. 243] In such circumstances, appealing to the state makes little sense. On
+class, of the worker to the idler."_ [ **The General Idea of the Revolution**
+, p. 243] In such circumstances, appealing to the state makes little sense. On
 the other hand, the modern state does do some good things (to varying
 degrees). As a result of past popular struggles, there is a basic welfare
 system in some countries which does help the poorest sections of society. That
@@ -1185,7 +1185,7 @@ slogan of "minimising the state."
 
 In the long term, of course, the real solution is to abolish capitalism _"and
 both citizens and communities will have no need of the intervention of the
-State."_ [Proudhon, **Op. Cit.**, p. 268] In a free society, social self-
+State."_ [Proudhon, **Op. Cit.** , p. 268] In a free society, social self-
 defence would not be statist but would be similar in nature to trade unionism,
 co-operatives and pressure groups -- individuals working together in voluntary
 associations to ensure a free and just society -- within the context of an
@@ -1201,24 +1201,24 @@ likes of Reagan were _"elected to office promising to downsize government and
 to 'get the government off the people's back,' even though what he meant was
 to deregulate big business, and make them free to exploit the workers and make
 larger profits."_ [Lorenzo Kom'boa Ervin, **Anarchism and the Black
-Revolution**, p. 100] As such, it would be a big mistake to confuse anarchist
+Revolution** , p. 100] As such, it would be a big mistake to confuse anarchist
 hostility to the state with the rhetoric of right-wing politicians seeking to
 reduce social spending (Brian Oliver Sheppard discusses this issue well in his
-article _"Anarchism vs. Right-Wing 'Anti-Statism'"_ [**Anarcho-Syndicalist
-Review**, no. 31, Spring 2001]). Chomsky puts it well:
+article _"Anarchism vs. Right-Wing 'Anti-Statism'"_ [ **Anarcho-Syndicalist
+Review** , no. 31, Spring 2001]). Chomsky puts it well:
 
-> _ "State authority is now under severe attack in the more democratic
-societies, but not because it conflicts with the libertarian vision. Rather
-the opposite: because it offers (weak) protection to some aspects of that
-vision. Governments have a fatal flaw: unlike the private tyrannies, the
-institutions of state power and authority offer to the despised public an
-opportunity to play some role, however limited, in managing their own affairs.
-That defect is intolerable to the masters . . . the goals of a committed
-anarchist should be to defend some state institutions from the attack against
-them, while trying at the same time to pry them open to more meaningful public
-participation -- and, ultimately, to dismantle them in a much more free
-society, of the appropriate circumstances can be achieved."_ [**Chomsky on
-Anarchism**, pp. 193-4]
+> _"State authority is now under severe attack in the more democratic
+> societies, but not because it conflicts with the libertarian vision. Rather
+> the opposite: because it offers (weak) protection to some aspects of that
+> vision. Governments have a fatal flaw: unlike the private tyrannies, the
+> institutions of state power and authority offer to the despised public an
+> opportunity to play some role, however limited, in managing their own
+> affairs. That defect is intolerable to the masters . . . the goals of a
+> committed anarchist should be to defend some state institutions from the
+> attack against them, while trying at the same time to pry them open to more
+> meaningful public participation -- and, ultimately, to dismantle them in a
+> much more free society, of the appropriate circumstances can be achieved."_
+> [ **Chomsky on Anarchism** , pp. 193-4]
 
 There is, of course, a tension in this position. The state may be influenced
 by popular struggle but it remains an instrument of **capitalist** rule. It
@@ -1233,7 +1233,7 @@ politician] can now commit crimes with immunity, [and so] the elected official
 finds himself immediately exposed to all sorts of seductions on behalf of the
 ruling classes"_ and so implemented policies _"solicited by big industry, high
 officials, and above all, by international finance."_ [Elisee Reclus, **The
-Modern State**, p. 208 and pp. 208-9]
+Modern State** , p. 208 and pp. 208-9]
 
 As such, while anarchists are against the state, our position on state
 intervention depends on the specific issue at hand. Most of us think state
@@ -1254,60 +1254,60 @@ D.1.3](secD1.md#secd13), the anarchist prediction that if you substitute
 government ownership for private ownership, _"nothing is changed but the
 stockholders and the management; beyond that, there is not the least
 difference in the position of the workers."_ [Proudhon, quoted by Ritter,
-**Op. Cit.**, pp. 167-8] However, privatisation is a rip-off of the general
+**Op. Cit.** , pp. 167-8] However, privatisation is a rip-off of the general
 public for the benefit of the wealthy:
 
-> _ "Privatisation of public services -- whether it is through the direct sale
-of utilities or through indirect methods such as PFI and PPP -- involves a
-massive transfer of wealth from taxpayers to the pockets of private business
-interests. It negates the concept of there being such a thing as 'public
-service' and subjects everything to the bottom line of profit. In other words
-it seeks to maximise the profits of a few at the expense of wages and social
-obligations. Furthermore, privatisation inevitably leads to an attack on wages
-and working conditions - conditions which have been fought for through years
-of trade union agitation are done away with at the scratch of a pen."_ [Gregor
-Kerr, _"Privatisation: the rip-off of public resources"_, pp. 14-18, **Black
-and Red Revolution**, no. 11, p. 16]
+> _"Privatisation of public services -- whether it is through the direct sale
+> of utilities or through indirect methods such as PFI and PPP -- involves a
+> massive transfer of wealth from taxpayers to the pockets of private business
+> interests. It negates the concept of there being such a thing as 'public
+> service' and subjects everything to the bottom line of profit. In other
+> words it seeks to maximise the profits of a few at the expense of wages and
+> social obligations. Furthermore, privatisation inevitably leads to an attack
+> on wages and working conditions - conditions which have been fought for
+> through years of trade union agitation are done away with at the scratch of
+> a pen."_ [Gregor Kerr, _"Privatisation: the rip-off of public resources"_ ,
+> pp. 14-18, **Black and Red Revolution** , no. 11, p. 16]
 
 In response to such "reforms", anarchists propose an alternatives to both
 options. Anarchists aim not at state ownership but to _"transfer all that is
 needed for production . . . from the hands of the individual capitalists into
 those of the communities of producers and consumers."_ [Kropotkin,
-**Environment and Evolution**, pp. 169-70] In other words, while _"[i]n
+**Environment and Evolution** , pp. 169-70] In other words, while _"[i]n
 today's world 'public sector' has come to mean 'government.' It is only if
 'public sector' can be made to mean 'people's ownership' in a real sense that
 the call for public ownership can be a truly radical one."_ [Kerr, **Op.
-Cit.**, p. 18] This is based on a common-sense conclusion from the analysis of
-the state as an instrument of the ruling class:
+Cit.** , p. 18] This is based on a common-sense conclusion from the analysis
+of the state as an instrument of the ruling class:
 
-> _ "While anarchists oppose the privatisation of state assets and services
-for the reasons discussed above, we do not call -- as some on the left do --
-for the 'nationalisation' of services as a solution to problems . . . We'd be
-expecting the same politicians who are busily implementing the neo-liberal
-agenda to now take on the role of workers' protectors . . . it is important to
-point out that the 'nationalise it' or 'take it into public ownership' slogan
-is far too often spun out by people on the left without their taking into
-account that there is a massive difference between state control/ownership and
-workers' control/ownership . . . we all know that even if the revenues . . .
-were still in state ownership, spending it on housing the homeless or reducing
-hospital waiting lists would not top the agenda of the government.  
+> _"While anarchists oppose the privatisation of state assets and services for
+> the reasons discussed above, we do not call -- as some on the left do -- for
+> the 'nationalisation' of services as a solution to problems . . . We'd be
+> expecting the same politicians who are busily implementing the neo-liberal
+> agenda to now take on the role of workers' protectors . . . it is important
+> to point out that the 'nationalise it' or 'take it into public ownership'
+> slogan is far too often spun out by people on the left without their taking
+> into account that there is a massive difference between state
+> control/ownership and workers' control/ownership . . . we all know that even
+> if the revenues . . . were still in state ownership, spending it on housing
+> the homeless or reducing hospital waiting lists would not top the agenda of
+> the government.  
 >  _
-
 >
-
 > _"Put simply, state ownership does not equal workers' ownership . . . we are
-sold the lie that the resource . . . is 'public property.' The reality however
-is that far from being in the ownership of 'the public,' ordinary people have
-no direct say in the allocation of these resources. Just as working class
-people are consistently alienated from the product of their labour, this
-selling of the idea of 'public ownership' over which the public have no real
-say leads to an increase in apathy and a sense of helplessness among ordinary
-people. It is much more likely that the political establishment who control
-the purse strings supposedly 'in the public interest' will actually spend
-revenues generated from these 'public assets' on measures that will have the
-long-term effect of re-enforcing rather than alleviating social division.
-Public policy consistently results in an increase in the gap between the well-
-off and the poor."_ [Kerr, **Opt. Cit.**, pp. 16-7 and p. 17]
+> sold the lie that the resource . . . is 'public property.' The reality
+> however is that far from being in the ownership of 'the public,' ordinary
+> people have no direct say in the allocation of these resources. Just as
+> working class people are consistently alienated from the product of their
+> labour, this selling of the idea of 'public ownership' over which the public
+> have no real say leads to an increase in apathy and a sense of helplessness
+> among ordinary people. It is much more likely that the political
+> establishment who control the purse strings supposedly 'in the public
+> interest' will actually spend revenues generated from these 'public assets'
+> on measures that will have the long-term effect of re-enforcing rather than
+> alleviating social division. Public policy consistently results in an
+> increase in the gap between the well-off and the poor."_ [Kerr, **Opt.
+> Cit.** , pp. 16-7 and p. 17]
 
 Thus an anarchist approach to this issue would be to reject both privatisation
 **and** nationalisation in favour of socialisation, i.e. placing nationalised
@@ -1319,37 +1319,36 @@ natural monopoly (which, as experience shows, simply facilitates the fleecing
 of the public for massive private profit). Christie and Meltzer state the
 obvious:
 
-> _ "It is true that government takes over the control of certain necessary
-social functions. It does not follow that **only** the state could assume such
-control. The postmen are 'civil servants' only because the State makes them
-such. The railways were not always run by the state, They belonged to the
-capitalists [and do once more, at least in the UK], and could as easily have
-been run by the railway workers.  
+> _"It is true that government takes over the control of certain necessary
+> social functions. It does not follow that **only** the state could assume
+> such control. The postmen are 'civil servants' only because the State makes
+> them such. The railways were not always run by the state, They belonged to
+> the capitalists [and do once more, at least in the UK], and could as easily
+> have been run by the railway workers.  
 >  _
-
 >
-
 > _"The opponents of anarchism assure us that if we put government under a
-ban, there would be no education, for the state controls the schools. There
-would be no hospitals - where would the money come from? Nobody would work --
-who would pay their wages? . . . But in reality, not . . . the state, but the
-people provide what the people have. If the people do not provide for
-themselves, the state cannot help them. It only appears to do so because it is
-in control. Those who have power may apportion work or regulate the standard
-of living, but this is part of the attack upon the people, not something
-undertaken on their behalf."_ [**The Floodgates of Anarchy**, p. 148-149]
+> ban, there would be no education, for the state controls the schools. There
+> would be no hospitals - where would the money come from? Nobody would work
+> -- who would pay their wages? . . . But in reality, not . . . the state, but
+> the people provide what the people have. If the people do not provide for
+> themselves, the state cannot help them. It only appears to do so because it
+> is in control. Those who have power may apportion work or regulate the
+> standard of living, but this is part of the attack upon the people, not
+> something undertaken on their behalf."_ [ **The Floodgates of Anarchy** , p.
+> 148-149]
 
 Much the same can be said of other aspects of state intervention. For example,
 if we look at state education or welfare an anarchist solution could be to
 press for _"workers' control by all the people involved"_ in an institution,
 in other words _"the extension of the principle of freedom from the economic
 to the political side of the health [and education] system[s]."_ [Nicholas
-Walters, **About Anarchism**, p. 76] The aim is to create _"new forms of
+Walters, **About Anarchism** , p. 76] The aim is to create _"new forms of
 organisation for the social functions that the state fulfils through the
-bureaucracy."_ [Colin Ward, **Anarchy in Action**, p. 19] This means that
+bureaucracy."_ [Colin Ward, **Anarchy in Action** , p. 19] This means that
 anarchists, as part of the wider socialist, labour and social movements seek
 _"to counterbalance as much as we [can] the centralistic, bureaucratic
-ambitions of Social Democracy."_ [Kropotkin, **Act for Yourselves**, p. 120]
+ambitions of Social Democracy."_ [Kropotkin, **Act for Yourselves** , p. 120]
 This applies both to the organisation and tactics of popular movements as well
 as the proposed reforms and how they are implemented.
 
@@ -1386,16 +1385,16 @@ National Health Service or fighting for the state to "get off the backs" of
 the unions trying to deregulate business. The key is that people reject a
 _"naive appeal to the legislators and high officials, waiting for salvation
 through their deliberations and decrees."_ In reality _"freedom does not come
-begging, but rather must be conquered."_ [Reclus, **Op. Cit.**, p. 210] This
+begging, but rather must be conquered."_ [Reclus, **Op. Cit.** , p. 210] This
 is not done, then the results will simply confirm Voltairine de Cleyre's
 insight:
 
-> _ "Nearly all laws which were originally framed with the intention of
-benefiting workers, have either turned into weapons in their enemies' hands,
-or become dead letters unless the workers through their organisations have
-directly enforced their observance. So that in the end, it is direct action
-that has to be relied on anyway."_ [**The Voltairine de Cleyre Reader**, p.
-59]
+> _"Nearly all laws which were originally framed with the intention of
+> benefiting workers, have either turned into weapons in their enemies' hands,
+> or become dead letters unless the workers through their organisations have
+> directly enforced their observance. So that in the end, it is direct action
+> that has to be relied on anyway."_ [ **The Voltairine de Cleyre Reader** ,
+> p. 59]
 
 A classic example of the former are the anti-trust laws in America, originally
 aimed at breaking the power of capitalist monopoly but were soon turned
@@ -1436,7 +1435,7 @@ One problem with state intervention, as Kropotkin saw, is that the state's
 absorption of social functions _"necessarily favoured the development of an
 unbridled, narrow-minded individualism. In proportion as the obligations
 towards the State grew in numbers, the citizens were evidently relieved from
-their obligations towards each other."_ [**Mutual Aid**, p. 183] In the case
+their obligations towards each other."_ [ **Mutual Aid** , p. 183] In the case
 of state "social functions," such as the British National Health Service,
 although they were created as a **result** of the social atomisation caused by
 capitalism, they have tended to **reinforce** the individualism and lack of
@@ -1444,7 +1443,7 @@ personal and social responsibility that produced the need for such action in
 the first place. The pressing need, therefore, is for working class people
 need _"independent control . . . of their own welfare programs. Mutual aid and
 welfare arrangements are necessary."_ [Sam Dolgoff, **The American Labour
-Movement**, p. 26] Specific forms of community and social self-help and their
+Movement** , p. 26] Specific forms of community and social self-help and their
 historical precedents are discussed in [section J.5.16](secJ5.md#secj516).
 
 This means that the anarchist task is building popular resistance to the state
@@ -1457,22 +1456,22 @@ revolution. However, such a position fails to appreciate that social change is
 only possible when the hope for a better future has not been completely
 destroyed:
 
-> _ "Like many others I have believed in my youth that as social conditions
-became worse, those who suffered so much would come to realise the deeper
-causes of their poverty and suffering. I have since been convinced that such a
-belief is a dangerous illusion . . . There is a pitch of material and
-spiritual degradation from which a man can no longer rise. Those who have been
-born into misery and never knew a better state are rarely able to resist and
-revolt . . . Certainly the old slogan, 'The worse the better', was based on an
-erroneous assumption. Like that other slogan, 'All or nothing', which made
-many radical oppose any improvement in the lot of the workers, even when the
-workers demanded it, on the ground that it would distract the mind of the
-proletariat, and turn it away from the road which leads to social
-emancipation. It is contrary to all the experience of history and of
-psychology; people who are not prepared to fight for the betterment of their
-living conditions are not likely to fight for social emancipation. Slogans of
-this kind are like a cancer in the revolutionary movement."_ [Rudolf Rocker,
-**London Years**, pp. 25-6]
+> _"Like many others I have believed in my youth that as social conditions
+> became worse, those who suffered so much would come to realise the deeper
+> causes of their poverty and suffering. I have since been convinced that such
+> a belief is a dangerous illusion . . . There is a pitch of material and
+> spiritual degradation from which a man can no longer rise. Those who have
+> been born into misery and never knew a better state are rarely able to
+> resist and revolt . . . Certainly the old slogan, 'The worse the better',
+> was based on an erroneous assumption. Like that other slogan, 'All or
+> nothing', which made many radical oppose any improvement in the lot of the
+> workers, even when the workers demanded it, on the ground that it would
+> distract the mind of the proletariat, and turn it away from the road which
+> leads to social emancipation. It is contrary to all the experience of
+> history and of psychology; people who are not prepared to fight for the
+> betterment of their living conditions are not likely to fight for social
+> emancipation. Slogans of this kind are like a cancer in the revolutionary
+> movement."_ [Rudolf Rocker, **London Years** , pp. 25-6]
 
 The anarchist position is, therefore, a practical one based on the specific
 situation rather than a simplistic application of what is ideologically
@@ -1482,7 +1481,7 @@ unequal. As such, any _"effort to develop and implement government programs
 that really were equalisers would lead to a form of class war, and in the
 present state of popular organisations and distribution of effective power,
 there can hardly be much doubt as to who would win."_ [Chomsky, **The Chomsky
-Reader**, p. 184] Anarchists seek to build the grassroots resistance for
+Reader** , p. 184] Anarchists seek to build the grassroots resistance for
 politicians like Reagan, Bush Snr and Jnr, Thatcher and so on do not get
 elected without some serious institutional forces at work. It would be insane
 to think that once a particularly right-wing politician leaves office those
@@ -1501,9 +1500,9 @@ state is always unfailingly paid in the currency of a weakening of the forces
 offering it their assistance. For every reinforcement of state power there is
 always . . . a corresponding debilitation of grassroots elements. Men may come
 and go, but the state remains."_ [Jose Peirats, **The CNT in the Spanish
-Revolution**, vol. 2, p. 150]
+Revolution** , vol. 2, p. 150]
 
-[‹ D.0 Section D Introduction](secDint.md "Go to previous page" )
-[up](secDcon.md "Go to parent page" ) [D.2 What influence does wealth have
-over politics? ›](secD2.md "Go to next page" )
+[‹ D.0 Section D Introduction](secDint.md "Go to previous page")
+[up](secDcon.md "Go to parent page") [D.2 What influence does wealth have
+over politics? ›](secD2.md "Go to next page")
 

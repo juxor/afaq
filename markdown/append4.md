@@ -40,8 +40,6 @@ libertarian ideas for anyone who wants to change the world.
 
 * * *
 
-
-
 ##
 
   * [What happened during the Russian Revolution?](append41.md)
@@ -80,11 +78,7 @@ justified?](append41.md#app23)
 [24 What did the anarchists do during the revolution?](append41.md#app24)  
 [25 Did the Russian revolution refute anarchism? ](append41.md#app25)
 
-
-
 * * *
-
-
 
 ##
 
@@ -114,8 +108,6 @@ Kronstadt?](append42.md#app14)
 
 * * *
 
-
-
 ##
 
   * [What caused the degeneration of the Russian Revolution?](append43.md)
@@ -129,11 +121,12 @@ Bolshevism?](append43.md#app2)
 revolution?](append43.md#app4)  
 [5 Was the Russian working class atomised or "declassed"?](append43.md#app5)  
 [6 Did the Bolsheviks blame "objective factors" for their
-actions?](append43.md#app6)
+actions?](append43.md#app6)  
+[7 What role does "objective factors" play in Leninist
+ideology?](append43.md#app7)  
+[8 Do Leninists usually deny the importance of ideology?](append43.md#app8)
 
 * * *
-
-
 
 ##
 
@@ -157,8 +150,6 @@ revolution?](append44.md#app8)
 
 * * *
 
-
-
 ##
 
   * [Were any of the Bolshevik oppositions a real alternative?](append45.md)
@@ -171,8 +162,6 @@ revolution?](append44.md#app8)
 Leninism?](append45.md#app4)
 
 * * *
-
-
 
 ##
 
@@ -199,8 +188,6 @@ movement?](append46.md#app13)
 Makhnovists?](append46.md#app15)  
 [16 What lessons can be learned from the Makhnovists?](append46.md#app16)
 
-
-
   * [What happened during the Russian Revolution?](append41.md)
   * [What was the Kronstadt Rebellion?](append42.md)
   * [What caused the degeneration of the Russian Revolution?](append43.md)
@@ -209,7 +196,7 @@ Makhnovists?](append46.md#app15)
   * [Why does the Makhnovist movement show there is an alternative to Bolshevism?](append46.md)
 
 [‹ Reply to errors and distortions in John Fisher's "Why we must further
-Marxism and not Anarchism"](append35.md "Go to previous page" )
-[up](index.md "Go to parent page" ) [What happened during the Russian
-Revolution? ›](append41.md "Go to next page" )
+Marxism and not Anarchism"](append35.md "Go to previous page")
+[up](supplementary.md "Go to parent page") [What happened during the Russian
+Revolution? ›](append41.md "Go to next page")
 

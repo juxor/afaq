@@ -32,18 +32,18 @@ _"domination of human by human **preceded** the notion of dominating nature.
 Indeed, human domination of human gave rise to the very **idea** of dominating
 nature."_ This means, obviously, that _"it is not until we eliminate
 domination in all its forms . . . that we will really create a rational,
-ecological society."_ [**Remaking Society**, p. 44]
+ecological society."_ [ **Remaking Society** , p. 44]
 
 By degrading ourselves, we create the potential for degrading our environment.
 This means that anarchists _"emphasise that ecological degradation is, in
 great part, a product of the degradation of human beings by hunger, material
 insecurity, class rule, hierarchical domination, patriarchy, ethnic
 discrimination, and competition."_ [Bookchin, _"The Future of the Ecology
-Movement,"_ pp. 1-20, **Which Way for the Ecology Movement?**, p. 17] This is
+Movement,"_ pp. 1-20, **Which Way for the Ecology Movement?** , p. 17] This is
 unsurprising, for _"nature, as every materialist knows, is not something
 merely external to humanity. We are a part of nature. Consequently, in
 dominating nature we not only dominate an 'external world' -- we also dominate
-ourselves."_ [John Clark, **The Anarchist Moment**, p. 114]
+ourselves."_ [John Clark, **The Anarchist Moment** , p. 114]
 
 We cannot stress how important this analysis is. We cannot ignore _"the deep-
 seated division in society that came into existence with hierarchies and
@@ -53,13 +53,13 @@ par that stands completely at odds with social reality. Everyone, in turn,
 despite the different burdens he or she is obliged to bear, is given the same
 responsibility for the ills of our planet. Be they starving Ethiopian children
 or corporate barons, all people are held to be equally culpable in producing
-present ecological problems."_ These become _"**de-socialised**"_ and so this
-perspective _"side-step[s] the profoundly social roots of present-day
-ecological dislocations"_ and _"**deflects** innumerable people from engaging
+present ecological problems."_ These become _" **de-socialised** "_ and so
+this perspective _"side-step[s] the profoundly social roots of present-day
+ecological dislocations"_ and _" **deflects** innumerable people from engaging
 in a practice that could yield effective social change."_ It _"easily plays
 into the hands of a privileged stratum who are only too eager to blame all the
 human victims of an exploitative society for the social and ecological ills of
-our time."_ [**The Ecology of Freedom**, p. 33]
+our time."_ [ **The Ecology of Freedom** , p. 33]
 
 Thus, for eco-anarchists, hierarchy is the fundamental root cause of our
 ecological problems. Hierarchy, notes Bookchin includes economic class _"and
@@ -67,9 +67,9 @@ even gives rise to class society historically"_ but it _"goes beyond this
 limited meaning imputed to a largely economic form of stratification."_ It
 refers to a system of _"command and obedience in which elites enjoy varying
 degrees of control over their subordinates without necessarily exploiting
-them."_ [**Ecology of Freedom**, p. 68] Anarchism, he stressed, _"anchored
+them."_ [ **Ecology of Freedom** , p. 68] Anarchism, he stressed, _"anchored
 ecological problems for the first time in hierarchy, not simply in economic
-classes."_ [**Remaking Society**, p. 155]
+classes."_ [ **Remaking Society** , p. 155]
 
 Needless to say, the forms of hierarchy have changed and evolved over the
 years. The anarchist analysis of hierarchies goes _"well beyond economic forms
@@ -77,15 +77,15 @@ of exploitation into cultural forms of domination that exist in the family,
 between generations and sexes, among ethnic groups, in institutions of
 political, economic, and social management, and very significantly, in the way
 we experience reality as a whole, including nature and non-human life-forms."_
-[**Op. Cit.**, p. 46] This means that anarchists recognise that ecological
+[ **Op. Cit.** , p. 46] This means that anarchists recognise that ecological
 destruction has existed in most human societies and is not limited just to
 capitalism. It existed, to some degree, in all hierarchical pre-capitalist
 societies and, of course, in any hierarchical post-capitalist ones as well.
 However, as most of us live under capitalism today, anarchists concentrate our
 analysis to that system and seek to change it. Anarchists stress the need to
-end capitalism simply because of its inherently anti-ecological nature (_"The
+end capitalism simply because of its inherently anti-ecological nature ( _"The
 history of 'civilisation' has been a steady process of estrangement from
-nature that has increasingly developed into outright antagonism."_). Our
+nature that has increasingly developed into outright antagonism."_ ). Our
 society faces _"a breakdown not only of its values and institutions, but also
 of its natural environment. This problem is not unique to our times"_ but
 previous environmental destruction _"pales before the massive destruction of
@@ -95,7 +95,7 @@ the environment by contemporary society encompasses the entire world . . . The
 exploitation and pollution of the earth has damaged not only the integrity of
 the atmosphere, climate, water resources, soil, flora and fauna of specific
 regions, but also the basic natural cycles on which all living things
-depend."_ [Bookchin, **Ecology of Freedom**, p. 411 and p. 83]
+depend."_ [Bookchin, **Ecology of Freedom** , p. 411 and p. 83]
 
 This has its roots in the "grow-or-die" nature of capitalism we discussed in
 [section D.4](secD4.md). An ever-expanding capitalism must inevitably come
@@ -107,16 +107,16 @@ this system results in the exploitation of the real sources of wealth, namely
 nature and people. It is as much about robbing nature as it is about robbing
 the worker. To quote Murray Bookchin:
 
-> _ "Any attempt to solve the ecological crisis within a bourgeois framework
-must be dismissed as chimerical. Capitalism is inherently anti-ecological.
-Competition and accumulation constitute its very law of life, a law . . .
-summarised in the phrase, 'production for the sake of production.' Anything,
-however hallowed or rare, 'has its price' and is fair game for the
-marketplace. In a society of this kind, nature is necessarily treated as a
-mere resource to be plundered and exploited. The destruction of the natural
-world, far being the result of mere hubristic blunders, follows inexorably
-from the very logic of capitalist production."_ [**Post-Scarcity Anarchism**,
-pp. viii-ix]
+> _"Any attempt to solve the ecological crisis within a bourgeois framework
+> must be dismissed as chimerical. Capitalism is inherently anti-ecological.
+> Competition and accumulation constitute its very law of life, a law . . .
+> summarised in the phrase, 'production for the sake of production.' Anything,
+> however hallowed or rare, 'has its price' and is fair game for the
+> marketplace. In a society of this kind, nature is necessarily treated as a
+> mere resource to be plundered and exploited. The destruction of the natural
+> world, far being the result of mere hubristic blunders, follows inexorably
+> from the very logic of capitalist production."_ [ **Post-Scarcity
+> Anarchism** , pp. viii-ix]
 
 So, in a large part, environmental problems derive from the fact that
 capitalism is a competitive economy, guided by the maxim "grow or die." This
@@ -126,14 +126,14 @@ on a process of growth and production for their own sake. _"No amount of
 moralising or pietising,"_ stresses Bookchin, _"can alter the fact that
 rivalry at the most molecular base of society is a bourgeois law of life . . .
 Accumulation to undermine, buy out, or otherwise absorb or outwit a competitor
-**is a condition for existence in a capitalist economic order.**"_ This means
+**is a condition for existence in a capitalist economic order.** "_ This means
 _"a capitalistic society based on competition and growth for its own sake must
 ultimately devour the natural world, just like an untreated cancer must
 ultimately devour its host. Personal intentions, be they good or bad, have
 little to do with this unrelenting process. An economy that is structured
 around the maxim, 'Grow or Die,' must **necessarily** pit itself against the
 natural world and leave ecological ruin in its wake as its works it way
-through the biosphere."_ [**Remaking Society**, p. 93 and p. 15]
+through the biosphere."_ [ **Remaking Society** , p. 93 and p. 15]
 
 This means that good intentions and ideals have no bearing on the survival of
 a capitalist enterprise. There is a very simple way to be "moral" in the
@@ -152,7 +152,7 @@ suppresses the kind of information required to make ecologically informed
 decisions.
 
 As Bookchin summarises, capitalism _"has made social evolution hopelessly
-incompatible with ecological evolution."_ [**Ecology of Freedom**, p. 14] It
+incompatible with ecological evolution."_ [ **Ecology of Freedom** , p. 14] It
 lacks a sustainable relation to nature not due to chance, ignorance or bad
 intentions but due to its very nature and workings.
 
@@ -182,14 +182,14 @@ As Bookchin put it, the _"notion that human freedom can be achieved, much less
 perpetuated, through a state of **any** kind is monstrously oxymoronic -- a
 contradiction in terms."_ This is because _"statist forms"_ are based on
 _"centralisation, bureaucratisation, and the professionalisation of power in
-the hands of elite bodies."_ This flows from its nature for one of its
-_"**essential functions is to confine, restrict, and essentially suppress
-local democratic institutions and initiatives.**"_ It has been organised to
-reduce public participation and control, even scrutiny. [_"The Ecological
-Crisis, Socialism, and the need to remake society,"_ pp. 1-10, **Society and
-Nature**, vol. 2, no. 3, p. 8 and p. 9] If the creation of an ecological
-society requires individual freedom and social participation (and it does)
-then the state by its very nature and function excludes both.
+the hands of elite bodies."_ This flows from its nature for one of its _"
+**essential functions is to confine, restrict, and essentially suppress local
+democratic institutions and initiatives.** "_ It has been organised to reduce
+public participation and control, even scrutiny. [ _"The Ecological Crisis,
+Socialism, and the need to remake society,"_ pp. 1-10, **Society and Nature**
+, vol. 2, no. 3, p. 8 and p. 9] If the creation of an ecological society
+requires individual freedom and social participation (and it does) then the
+state by its very nature and function excludes both.
 
 The state's centralised nature is such that it cannot handle the complexities
 and diversity of life. _"No administrative system is capable of representing"_
@@ -216,8 +216,8 @@ lack of context and particularity is not an oversight; it is the necessary
 first premise of any large-scale planning exercise. To the degree that the
 subjects can be treated as standardised units, the power of resolution in the
 planning exercise is enhanced . . . The same logic applies to the
-transformation of the natural world."_ [**Seeing like a State**, pp. 22-3 and
-p. 346]
+transformation of the natural world."_ [ **Seeing like a State** , pp. 22-3
+and p. 346]
 
 A central power reduces the participation and diversity required to create an
 ecological society and tailor humanity's interaction with the environment in a
@@ -233,7 +233,7 @@ market necessarily reduces quality to quantity via the price mechanism and
 promotes standardisation; in markets, money talks, not people . . . the
 conclusions that can be drawn from the failures of modern projects of social
 engineering are as applicable to market-driven standardisation as they are to
-bureaucratic homogeneity."_ [**Op. Cit.**, p. 8]
+bureaucratic homogeneity."_ [ **Op. Cit.** , p. 8]
 
 In the short term, the state may be able to restrict some of the worse
 excesses of capitalism (this can be seen from the desire of capitalists to
@@ -262,8 +262,8 @@ the expense of popular power,"_ they also are _"obligated to function
 shape their priorities according to predetermined rules over which they have
 no control."_ This results in _"an ongoing **process** of degeneration, a
 steady devolution of ideals, practices, and party structures"_ in order to
-achieve _"very little"_ in _"arrest[ing] environmental decay."_ [**Remaking
-Society**, p. 161, p. 162 and p. 163] The fate of numerous green parties
+achieve _"very little"_ in _"arrest[ing] environmental decay."_ [ **Remaking
+Society** , p. 161, p. 162 and p. 163] The fate of numerous green parties
 across the world supports that analysis.
 
 That is why anarchists stress the importance of creating social movements
@@ -304,8 +304,8 @@ targets against which even the bourgeoisie can inveigh in Earth Day
 celebrations, as long as minimal attention is paid to the social relations in
 which the mechanisation of society is rooted." Instead, ecology needs _"a
 confrontational stance toward capitalism and hierarchical society"_ in order
-to be effective and fix the root causes of our problems. [**The Ecology of
-Freedom**, p. 54]
+to be effective and fix the root causes of our problems. [ **The Ecology of
+Freedom** , p. 54]
 
 Claiming that "industrialism" rather than "capitalism" is the cause of our
 ecological problems allowed greens to point to both the west and the so-called
@@ -313,7 +313,7 @@ ecological problems allowed greens to point to both the west and the so-called
 environmental records and a growth mentality). In addition, it allowed green
 parties and thinkers to portray themselves as being "above" the "old"
 conflicts between socialism and capitalism (hence the slogan _"Neither Right
-nor Left, but in front"_). Yet this position rarely convinced anyone as any
+nor Left, but in front"_ ). Yet this position rarely convinced anyone as any
 serious green thinker soon notes that the social roots of our environmental
 problems need to be addressed and that brings green ideas into conflict with
 the status quo (it is no coincidence that many on the right dismiss green
@@ -352,8 +352,8 @@ infused by hierarchy even as it celebrated the dubious virtues of 'people's
 democracies,' 'socialism' and the 'public ownership' of 'natural resources,'
 And as long as hierarchy persists, as long as domination organises humanity
 around a system of elites, the project of dominating nature will continue to
-exist and inevitably lead our planet to ecological extinction."_ [**Toward an
-Ecological Society**, p. 76]
+exist and inevitably lead our planet to ecological extinction."_ [ **Toward an
+Ecological Society** , p. 76]
 
 Given this, the real reasons for why the environmental record of Stalinist
 regimes were worse that private capitalism can easily be found. Firstly, any
@@ -363,7 +363,7 @@ other words, a sound environment requires freedom, the freedom of people to
 participate and protest. Secondly, such dictatorships can implement
 centralised, top-down planning which renders their ecological impact more
 systematic and widespread (James C. Scott explores this at great length in his
-excellent book **Seeing like a State**).
+excellent book **Seeing like a State** ).
 
 Fundamentally, though, there is no real difference between private and state
 capitalism. That this is the case can be seen from the willingness of
@@ -385,23 +385,24 @@ points to the difference between the Iroquois and the Inca. Both societies
 used the same forms of technology, but the former was a fairly democratic and
 egalitarian federation while the latter was a highly despotic empire. As such,
 technology _"does not fully or even adequately account for the institutional
-differences"_ between societies. [**The Ecology of Freedom**, p. 331] This
+differences"_ between societies. [ **The Ecology of Freedom** , p. 331] This
 means that technology does not explain the causes for ecological harm and it
 is possible to have an anti-ecological system based on small-scale
 technologies:
 
-> _ "Some of the most dehumanising and centralised social systems were
-fashioned out of very 'small' technologies; but bureaucracies, monarchies, and
-military forces turned these systems into brutalising cudgels to subdue
-humankind and, later, to try to subdue nature. To be sure, a large-scale
-technics will foster the development of an oppressively large-scale society;
-but every warped society follows the dialectic of its own pathology of
-domination, irrespective of the scale of its technics. It can organise the
-'small' into the repellent as surely as it can imprint an arrogant sneer on
-the faces of the elites who administer it . . . Unfortunately, a preoccupation
-with technical size, scale, and even artistry deflects our attention away from
-the most significant problems of technics -- notably, its ties with the ideals
-and social structures of freedom."_ [Bookchin, **Op. Cit.**, pp. 325-6]
+> _"Some of the most dehumanising and centralised social systems were
+> fashioned out of very 'small' technologies; but bureaucracies, monarchies,
+> and military forces turned these systems into brutalising cudgels to subdue
+> humankind and, later, to try to subdue nature. To be sure, a large-scale
+> technics will foster the development of an oppressively large-scale society;
+> but every warped society follows the dialectic of its own pathology of
+> domination, irrespective of the scale of its technics. It can organise the
+> 'small' into the repellent as surely as it can imprint an arrogant sneer on
+> the faces of the elites who administer it . . . Unfortunately, a
+> preoccupation with technical size, scale, and even artistry deflects our
+> attention away from the most significant problems of technics -- notably,
+> its ties with the ideals and social structures of freedom."_ [Bookchin,
+> **Op. Cit.** , pp. 325-6]
 
 In other words, "small-scale" technology will not transform an authoritarian
 society into an ecological one. Nor will applying ecologically friendly
@@ -413,7 +414,7 @@ technology presupposes liberatory institutions; a liberatory sensibility
 requires a liberatory society. By the same token, artistic crafts are
 difficult to conceive without an artistically crafted society, and the
 'inversion of tools' is impossible with a radical inversion of all social and
-productive relationships."_ [**Op. Cit.**, pp. 328-9]
+productive relationships."_ [ **Op. Cit.** , pp. 328-9]
 
 Finally, it should be stressed that attempts to blame technology or industry
 for our ecological problems have another negative effect than just obscuring
@@ -422,13 +423,14 @@ who implement specific forms of technology to further their aims. It also
 means denying that technology can be transformed and new forms created which
 can help produce an ecologically balanced society:
 
-> _ "The knowledge and physical instruments for promoting a harmonisation of
-humanity with nature and of human with human are largely at hand or could
-easily be devised. Many of the physical principles used to construct such
-patently harmful facilities as conventional power plants, energy-consuming
-vehicles, surface-mining equipment and the like could be directed to the
-construction of small-scale solar and wind energy devices, efficient means of
-transportation, and energy-saving shelters."_ [Bookchin, **Op. Cit.**, p. 83]
+> _"The knowledge and physical instruments for promoting a harmonisation of
+> humanity with nature and of human with human are largely at hand or could
+> easily be devised. Many of the physical principles used to construct such
+> patently harmful facilities as conventional power plants, energy-consuming
+> vehicles, surface-mining equipment and the like could be directed to the
+> construction of small-scale solar and wind energy devices, efficient means
+> of transportation, and energy-saving shelters."_ [Bookchin, **Op. Cit.** ,
+> p. 83]
 
 We must understand that _"the very **idea** of dominating first nature has its
 origins in the domination of human by human"_ otherwise _"we will lose what
@@ -441,8 +443,8 @@ _"be used for the good of the biosphere, not simply for harming it. What is of
 **pivotal** importance in determining whether human beings will creatively
 foster the evolution of first nature or whether they will be highly
 destructive to non-human and human beings alike is precisely the kind of
-**society** we establish, not only the kind of sensibility we develop."_
-[**Op. Cit.**, p. 34]
+**society** we establish, not only the kind of sensibility we develop."_ [
+**Op. Cit.** , p. 34]
 
 ## E.1.2 What is the difference between environmentalism and ecology?
 
@@ -451,21 +453,22 @@ ecology with environmentalism. The difference is important as it suggests both
 a different analysis of where our ecological problems come from and the best
 way to solve them. As Bookchin put it:
 
-> _ "By 'environmentalism' I propose to designate a mechanistic, instrumental
-outlook that sees nature as a passive habitat composed of 'objects' such as
-animals, plants, minerals, and the like that must merely be rendered more
-serviceable for human use . . . Within this context, very little of a social
-nature is spared from the environmentalist's vocabulary: cities become 'urban
-resources' and their inhabitants 'human resources' . . . Environmentalism . .
-. tends to view the ecological project for attaining a harmonious relationship
-between humanity and nature as a truce rather than a lasting equilibrium. The
-'harmony' of the environmentalist centres around the development of new
-techniques for plundering the natural world with minimal disruption of the
-human 'habitat.' Environmentalism does not question the most basic premise of
-the present society, notably, that humanity must dominant nature; rather, it
-seeks to **facilitate** than notion by developing techniques for diminishing
-the hazards caused by the reckless despoliation of the environment."_ [**The
-Ecology of Freedom**, p. 86]
+> _"By 'environmentalism' I propose to designate a mechanistic, instrumental
+> outlook that sees nature as a passive habitat composed of 'objects' such as
+> animals, plants, minerals, and the like that must merely be rendered more
+> serviceable for human use . . . Within this context, very little of a social
+> nature is spared from the environmentalist's vocabulary: cities become
+> 'urban resources' and their inhabitants 'human resources' . . .
+> Environmentalism . . . tends to view the ecological project for attaining a
+> harmonious relationship between humanity and nature as a truce rather than a
+> lasting equilibrium. The 'harmony' of the environmentalist centres around
+> the development of new techniques for plundering the natural world with
+> minimal disruption of the human 'habitat.' Environmentalism does not
+> question the most basic premise of the present society, notably, that
+> humanity must dominant nature; rather, it seeks to **facilitate** than
+> notion by developing techniques for diminishing the hazards caused by the
+> reckless despoliation of the environment."_ [ **The Ecology of Freedom** ,
+> p. 86]
 
 So eco-anarchists call the position of those who seek to reform capitalism and
 make it more green "environmentalism" rather than ecology. The reasons are
@@ -481,8 +484,8 @@ the natural world tended to fall outside the orbit of their practical
 concerns."_ Eco-anarchists, while supporting such partial structures, stress
 that _"these problems originate in a hierarchical, class, and today,
 competitive capitalist system that nourishes a view of the natural world as a
-mere agglomeration of 'resources' for human production and consumption."_
-[**Op. Cit.**, pp. 15-6]
+mere agglomeration of 'resources' for human production and consumption."_ [
+**Op. Cit.** , pp. 15-6]
 
 This is the key. As environmentalism does not bring into question the
 underlying notion of the present society that man must dominate nature it
@@ -501,12 +504,12 @@ always prevail over public rights and power always prevails over
 powerlessness. Be it a forest, wetlands, or good agricultural soil, a
 'developer' who owns any of these 'resources' usually sets the terms on which
 every negotiation occurs and ultimately succeeds in achieving the triumph of
-wealth over ecological considerations."_ [Bookchin, **Remaking Society**, p.
+wealth over ecological considerations."_ [Bookchin, **Remaking Society** , p.
 15]
 
 This means that a truly ecological perspective seeks to end the situation
 where a few govern the many, not to make the few nicer. As Chomsky once noted
-on the issue of _"corporate social responsibility"_, he could not discuss the
+on the issue of _"corporate social responsibility"_ , he could not discuss the
 issue as such because he did _"not accept some of its presuppositions,
 specifically with regard to the legitimacy of corporate power"_ as he did not
 see any _"justification for concentration of private power"_ than _"in the
@@ -520,7 +523,7 @@ explains why real capitalist systems have always _"been required to safeguard
 social existence in the face of the destructive forces of private capitalism"_
 by means of _"substantial state control."_ However, the _"central questions .
 . . are not addressed, but rather begged"_ when discussing corporate social
-responsibility. [**Language and Politics**, p. 275]
+responsibility. [ **Language and Politics** , p. 275]
 
 Ultimately, the key problem with liberal environmentalism (as with liberalism
 in general) is that it tends, by definition, to ignore class and hierarchy.
@@ -548,25 +551,25 @@ than profits.
 This means that such key environmentalist activities such as education and
 lobbying are unlikely to have much effect. While these may produce **some**
 improvements in terms of our environmental impact, it cannot stop the long-
-term destruction of our planet as the ecological crisis is _"**systemic** \--
+term destruction of our planet as the ecological crisis is _" **systemic** \--
 and not a matter of misinformation, spiritual insensitivity, or lack of moral
 integrity. The present social illness lies not only in the outlook that
 pervades the present society; it lies above all in the very **structure** and
 **law of life** in the system itself, in its imperative, which no entrepreneur
 or corporation can ignore without facing destruction: growth, more growth, and
 still more growth."_ [Murray Bookchin, _"The Ecological Crisis, Socialism, and
-the need to remake society,"_ pp. 1-10, **Society and Nature**, vol. 2, no. 3,
-pp. 2-3] This can only be ended by ending capitalism, not by appeals to
+the need to remake society,"_ pp. 1-10, **Society and Nature** , vol. 2, no.
+3, pp. 2-3] This can only be ended by ending capitalism, not by appeals to
 consumers to buy eco-friendly products or to capitalists to provide them:
 
-> _ "Accumulation is determined not by the good or bad intentions of the
-individual bourgeois, but by the commodity relationship itself . . . It is not
-the perversity of the bourgeois that creates production for the sake of
-production, but the very market nexus over which he presides and to which he
-succumbs. . . . It requires a grotesque self-deception, or worse, an act of
-ideological social deception, to foster the belief that this society can undo
-its very law of life in response to ethical arguments or intellectual
-persuasion."_ [**Toward an Ecological Society**, p. 66]
+> _"Accumulation is determined not by the good or bad intentions of the
+> individual bourgeois, but by the commodity relationship itself . . . It is
+> not the perversity of the bourgeois that creates production for the sake of
+> production, but the very market nexus over which he presides and to which he
+> succumbs. . . . It requires a grotesque self-deception, or worse, an act of
+> ideological social deception, to foster the belief that this society can
+> undo its very law of life in response to ethical arguments or intellectual
+> persuasion."_ [ **Toward an Ecological Society** , p. 66]
 
 Sadly, much of what passes for the green movement is based on this kind of
 perspective. At worse, many environmentalists place their hopes on green
@@ -578,9 +581,9 @@ society can be reclaimed by an undivided humanity that will use its collective
 wisdom, cultural achievements, technological innovations, scientific
 knowledge, and innate creativity for its own benefit and for that of the
 natural world, all ecological problems will have their roots in social
-problems."_ [Bookchin, **Remaking Society**, p. 39]
+problems."_ [Bookchin, **Remaking Society** , p. 39]
 
-[‹ E.0 Section E Introduction](secEint.md "Go to previous page" )
-[up](secEcon.md "Go to parent page" ) [E.2 What do eco-anarchists propose
-instead of capitalism? ›](secE2.md "Go to next page" )
+[‹ E.0 Section E Introduction](secEint.md "Go to previous page")
+[up](secEcon.md "Go to parent page") [E.2 What do eco-anarchists propose
+instead of capitalism? ›](secE2.md "Go to next page")
 

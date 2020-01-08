@@ -18,32 +18,29 @@ tank ("economic freedom" reflecting what you expect a right-winger would
 consider important). Milton Friedman played a leading role in this
 idealisation of the former UK colony. In his words:
 
-> _ "Take the fifty-year experiment in economic policy provided by Hong Kong
-between the end of World War II and . . . when Hong Kong reverted to China.  
+> _"Take the fifty-year experiment in economic policy provided by Hong Kong
+> between the end of World War II and . . . when Hong Kong reverted to China.  
 >  _
-
 >
-
 > _"In this experiment, Hong Kong represents the experimental treatment . . .
-I take Britain as one control because Britain, a benevolent dictator, imposed
-different policies on Hong Kong from the ones it pursued at home . . . _
-
+> I take Britain as one control because Britain, a benevolent dictator,
+> imposed different policies on Hong Kong from the ones it pursued at home . .
+> ._
 >
-
 > _"Nonetheless, there are some statistics, and in 1960, the earliest date for
-which I have been able to get them, the average per capita income in Hong Kong
-was 28 percent of that in Great Britain; by 1996, it had risen to 137 percent
-of that in Britain. In short, from 1960 to 1996, Hong Kong's per capita income
-rose from about one-quarter of Britain's to more than a third larger than
-Britain's . . . I believe that the only plausible explanation for the
-different rates of growth is socialism in Britain, free enterprise and free
-markets in Hong Kong. Has anybody got a better explanation? I'd be grateful
-for any suggestions."_ [**The Hong Kong Experiment**]
+> which I have been able to get them, the average per capita income in Hong
+> Kong was 28 percent of that in Great Britain; by 1996, it had risen to 137
+> percent of that in Britain. In short, from 1960 to 1996, Hong Kong's per
+> capita income rose from about one-quarter of Britain's to more than a third
+> larger than Britain's . . . I believe that the only plausible explanation
+> for the different rates of growth is socialism in Britain, free enterprise
+> and free markets in Hong Kong. Has anybody got a better explanation? I'd be
+> grateful for any suggestions."_ [ **The Hong Kong Experiment** ]
 
 It should be stressed that by "socialism" Friedman meant state spending,
-particularly that associated with welfare (_"Direct government spending is
+particularly that associated with welfare ( _"Direct government spending is
 less than 15 percent of national income in Hong Kong, more than 40 percent in
-the United States."_ [**Op. Cit.**]). What to make of his claims?
+the United States."_ [ **Op. Cit.** ]). What to make of his claims?
 
 It is undeniable that the figures for Hong Kong's economy are impressive. Per-
 capita GDP by end 1996 should reach US$ 25,300, one of the highest in Asia and
@@ -66,27 +63,26 @@ land. To state the obvious, land nationalisation is hardly capitalistic. It is
 one of the reasons why its direct taxation levels are so low. As one resident
 points out:
 
-> _ "The main explanation for low tax rates . . . is not low social spending.
-One important factor is that Hong Kong does not have to support a defence
-industry . . . The most crucial explanation . . . lies in the fact that less
-than half of the government's revenues comes from direct taxation.  
+> _"The main explanation for low tax rates . . . is not low social spending.
+> One important factor is that Hong Kong does not have to support a defence
+> industry . . . The most crucial explanation . . . lies in the fact that less
+> than half of the government's revenues comes from direct taxation.  
 >  _
-
 >
-
 > _"The Hong Kong government actually derives much of its revenue from land
-transactions. The territory's land is technically owned by the government, and
-the government fills its coffers by selling fifty-year leases to developers
-(the fact that there are no absolute private property rights to land will come
-as another surprise t boosters of 'Hong Kong-style' libertarianism) . . . The
-government has an interest in maintaining high property values . . . if it is
-to maintain its policy of low taxation. It does this by carefully controlling
-the amount of land that is released for sale . . . It is, of course, those
-buying new homes and renting from the private sector who pay the price for
-this policy. Many Hong Kongers live in third world conditions, and the need to
-pay astronomical residential property prices is widely viewed as an indirect
-form of taxation."_ [Daniel A. Bell, _"Hong Kong's Transition to Capitalism"_,
-pp. 15-23, **Dissent**, Winter 1998, pp. 15-6]
+> transactions. The territory's land is technically owned by the government,
+> and the government fills its coffers by selling fifty-year leases to
+> developers (the fact that there are no absolute private property rights to
+> land will come as another surprise t boosters of 'Hong Kong-style'
+> libertarianism) . . . The government has an interest in maintaining high
+> property values . . . if it is to maintain its policy of low taxation. It
+> does this by carefully controlling the amount of land that is released for
+> sale . . . It is, of course, those buying new homes and renting from the
+> private sector who pay the price for this policy. Many Hong Kongers live in
+> third world conditions, and the need to pay astronomical residential
+> property prices is widely viewed as an indirect form of taxation."_ [Daniel
+> A. Bell, _"Hong Kong's Transition to Capitalism"_ , pp. 15-23, **Dissent** ,
+> Winter 1998, pp. 15-6]
 
 The ownership of land and the state's role as landlord partly explains the low
 apparent ratio of state spending to GDP. If the cost of the subsidised housing
@@ -119,24 +115,24 @@ western countries which meant it had less need for spending on pensions and
 help for the aged (this advantage is declining as the population ages). In
 addition, the _"large majority of primary schools and secondary schools are
 either free of heavily subsidised, and the territory's tertiary institutions
-all receive most of their funds from the public coffers."_ [Bell, **Op.
-Cit.**, pp. 16-7 and p. 17] We can be sure that when conservatives and
+all receive most of their funds from the public coffers."_ [Bell, **Op. Cit.**
+, pp. 16-7 and p. 17] We can be sure that when conservatives and
 right-"libertarians" use Hong Kong as a model, they are **not** referring to
 these aspects of the regime.
 
 Given this, Hong Kong has _"deviated from the myth of a laissez-faire economy
 with the government limiting itself to the role of the 'night watchman'"_ as
 it _"is a welfare state."_ In 1995-6, it spent 47 percent of its public
-expenditure on social services (_"only slightly less than the United
-Kingdom"_). Between 1992 and 1998, welfare spending increased at a real rate
-of at least 10 percent annually. [Bell, **Op. Cit.**, p. 16] _"Without
+expenditure on social services ( _"only slightly less than the United
+Kingdom"_ ). Between 1992 and 1998, welfare spending increased at a real rate
+of at least 10 percent annually. [Bell, **Op. Cit.** , p. 16] _"Without
 doubt,"_ two experts note, _"the development of public housing in Hong Kong
 has contributed greatly to the social well-being of the Territory."_ Overall,
 social welfare _"is the third largest [state] expenditure . . . after
 education and health."_ [Simon X. B. Zhao and l. Zhand, _"Economic Growth and
 Income Inequality in Hong Kong: Trends and Explanations,"_ pp. 74-103,
-**China: An International Journal**, Vol. 3, No. 1, p. 95 and p. 97] Hong Kong
-spent 11.6% of its GDP on welfare spending in 2004, for example.
+**China: An International Journal** , Vol. 3, No. 1, p. 95 and p. 97] Hong
+Kong spent 11.6% of its GDP on welfare spending in 2004, for example.
 
 Moreover, this state intervention is not limited to just social welfare
 provision. Hong Kong has an affordable public transport system in which the
@@ -150,7 +146,7 @@ prevent a general bank run. Overall, since the 1960s _"the Hong Kong
 government's involvement in everyday life has increases steadily and now
 reaches into many vital areas of socio-economic development."_ [Ming K Chan,
 _"The Legacy of the British Administration of Hong Kong: A View from Hong
-Kong,"_ pp. 567-582, **The China Quarterly**, no. 151, p. 575 and p. 574] It
+Kong,"_ pp. 567-582, **The China Quarterly** , no. 151, p. 575 and p. 574] It
 also intervened massively in the stock market during the 1997 Asian crisis.
 Strangely, Friedman failed to note any of these developments nor point to the
 lack of competition in many areas of the domestic economy and the high returns
@@ -170,7 +166,7 @@ total membership)."_ This is accurately described as a _"bureaucratic-cum-
 corporatist state"_ with _"the interests of government and the private sector
 dominating those of the community."_ Overall, _"the government and private
 sector share common interests and have close links."_ [Mae Kam Ng, _"Political
-Economy and Urban Planning,"_ **Progress in Planning**, P. Diamond and B. H.
+Economy and Urban Planning,"_ **Progress in Planning** , P. Diamond and B. H.
 Massan (eds.), vol. 51, Part 1, p. 11 and p. 84] Sizeable fortunes will be
 made when there are interlocking arrangements between the local oligarchies
 and the state.
@@ -193,10 +189,10 @@ opportunity: the regime intervened to favour British and big business
 interests at the expense of both fair play and of a level playing field for
 all economic players regardless of class or race."_ [Ming K Chan, _"The Legacy
 of the British Administration of Hong Kong: A View from Hong Kong,"_ pp.
-567-582, **The China Quarterly**, no. 151, p. 577, p. 576, p. 575 and pp.
+567-582, **The China Quarterly** , no. 151, p. 577, p. 576, p. 575 and pp.
 575-6] Bell notes that a British corporation _"held the local telephone
 monopoly until 1995"_ while another _"holds all the landing rights at Hong
-Kong airport."_ [**Op. Cit.**, p. 21]
+Kong airport."_ [ **Op. Cit.** , p. 21]
 
 Unsurprisingly, as it owns all the land, the government has _"a strong
 position in commanding resources to direct spatial development in the
@@ -210,28 +206,28 @@ could be likened to a black-box operation."_ _"Traditionally,"_ Ng notes,
 _"the closed door and Hong Kong centred urban planning system had served to
 maintain economic dynamism in the colony. With democratisation introduced in
 the 1980s, the planning system is forced to be more open and to serve not just
-economic interests."_ [Mae Kam Ng, **Op. Cit.**, p. 11, p. 39, p. 37 and p.
+economic interests."_ [Mae Kam Ng, **Op. Cit.** , p. 11, p. 39, p. 37 and p.
 13] As Chan stresses, _"the colonial government has continuously played a
 direct and crucial role as a very significant economic participant. Besides
 its control of valuable resources, the regime's command of the relevant legal,
 political and social institutions and processes also indirectly shapes
-economic behaviour and societal development."_ [**Op. Cit.**, p. 574]
+economic behaviour and societal development."_ [ **Op. Cit.** , p. 574]
 
 Overall, as Bell notes, _"one cannot help but notice the large gap between
 this reality and the myth of an open and competitive market where only talent
-and luck determine the economic winners."_ [**Op. Cit.**, p. 16] As an expert
-in the Asian Tiger economies summarises:
+and luck determine the economic winners."_ [ **Op. Cit.** , p. 16] As an
+expert in the Asian Tiger economies summarises:
 
-> _ "to conclude . . . that Hong Kong is close to a free market economy is
-misleading . . . Not only is the economy managed from outside the formal
-institutions of government by the informal coalition of peak private economic
-organisations, but government itself also has available some unusual
-instruments for influencing industrial activity. It owns all the land. . . It
-controls rents in part of the public housing market and supplies subsidised
-public housing to roughly half the population, thereby helping to keep down
-the cost of labour. And its ability to increase or decrease the flow of
-immigrants from China also gives it a way of affecting labour costs."_ [Robert
-Wade, **Governing the Market**, p. 332]
+> _"to conclude . . . that Hong Kong is close to a free market economy is
+> misleading . . . Not only is the economy managed from outside the formal
+> institutions of government by the informal coalition of peak private
+> economic organisations, but government itself also has available some
+> unusual instruments for influencing industrial activity. It owns all the
+> land. . . It controls rents in part of the public housing market and
+> supplies subsidised public housing to roughly half the population, thereby
+> helping to keep down the cost of labour. And its ability to increase or
+> decrease the flow of immigrants from China also gives it a way of affecting
+> labour costs."_ [Robert Wade, **Governing the Market** , p. 332]
 
 This means that the Hong Kong system of "laissez-faire" is marked by the state
 having close ties with the major banks and trading companies, which, in turn,
@@ -240,8 +236,8 @@ government. This provides a _"point of concentration"_ to conduct negotiations
 in line with an implicit development strategy. Therefore it is pretty clear
 that Hong Kong does not really show the benefits of "free market" capitalism.
 Wade indicates that we can consider Hong Kong as a _"special case or as a less
-successful variant of the authoritarian-capitalist state."_ [**Op. Cit.**, p.
-333]
+successful variant of the authoritarian-capitalist state."_ [ **Op. Cit.** ,
+p. 333]
 
 There are other explanations for Hong Kong's high growth rates than simply
 "capitalism." Firstly, Hong Kong is a city state and cities have a higher
@@ -251,9 +247,9 @@ rates and so in its absence a high growth rate is easier to achieve. Secondly,
 there is Hong Kong's location and its corresponding role as an entrepôt
 economy. Wade notes that _"its economic growth is a function of its service
 role in a wider regional economy, as entrepôt trader, regional headquarters
-for multinational companies, and refuge for nervous money."_ [**Op. Cit.**, p.
-331] Being between China and the rest of the world means its traders could act
-as a middleman, earning income from the mark-up they could impose on good
+for multinational companies, and refuge for nervous money."_ [ **Op. Cit.** ,
+p. 331] Being between China and the rest of the world means its traders could
+act as a middleman, earning income from the mark-up they could impose on good
 going through the territory. This is why Hong Kong is often referred to as an
 entrepôt economy, a place that imports, stores, and re-exports goods. In other
 words, Hong Kong made a lot of its money because many Chinese exports and
@@ -264,7 +260,7 @@ This option is hardly available to most cities, never mind countries.
 
 Then there is the issue of state ownership of land. As Mae Kam Ng reports,
 monopoly ownership of all land by the state sets the context for super-profits
-by government and finance capital generally. [**Op. Cit.**, p. 13]
+by government and finance capital generally. [ **Op. Cit.** , p. 13]
 Unsurprisingly, most government land _"is sold to just three real-estate
 developers"_ who _"sit on huge tracts of land, drop-feeding apartments onto
 the market so as to maintain high property prices."_ Between 1992 and 1996,
@@ -273,7 +269,7 @@ of the property firms were on the list of the world's ten richest men in 1998.
 _"Meanwhile, potential new entrants to the market are restricted by the huge
 cost of paying land-conversion premiums that are the bedrock of government
 revenues."_ This is a _"cosy arrangement between the government and major
-developers."_ [Daniel A. Bell, **Op. Cit.**, p. 16]
+developers."_ [Daniel A. Bell, **Op. Cit.** , p. 16]
 
 The role as headquarters for companies and as a financial centre also plays a
 part. It means an essential part of its success is that it gets surplus value
@@ -308,7 +304,7 @@ field than just southern China. By the mid 1990's they were operating across
 Asia, in Eastern Europe and Central America. This shift, incidentally, has
 resulted in deindustrialisation and a _"decrease in real income among manual
 workers"_ as they moved to the lower end service sector. [Simon X. B. Zhao and
-l. Zhand, **Op. Cit.**, p. 88]
+l. Zhand, **Op. Cit.** , p. 88]
 
 Then there is the criteria Friedman uses, namely per-capita GDP. As we have
 repeated stressed, averages hide a lot of important and relevant information
@@ -321,8 +317,8 @@ Hong Kong is a very unequal society and this inequality is growing (so his
 claim that Hong Kong is capitalist refutes his 1962 assertion that the more
 capitalist economies are more equal). _"Behind the impressive GDP figures,"_
 indicates Chan, _"is a widening income gap between the super-rich and the
-grassroots, with 650,000 people reportedly living below the poverty line."_
-[**Op. Cit.**, p. 576] As Bell points out, 13% lived below the poverty line in
+grassroots, with 650,000 people reportedly living below the poverty line."_ [
+**Op. Cit.** , p. 576] As Bell points out, 13% lived below the poverty line in
 1999, compared to 8% in 1971. This is partly explained by _"the rising
 proportion of elderly people and single-parent families."_ However, economic
 integration with China has played a role as Hong Kong's manufacturing sector
@@ -330,7 +326,8 @@ _"has been almost entirely transferred to the southern province of Guangdong
 (where labour is cheaper and workers' rights are practically non-existent),
 with the consequence that Hong Kong's industrial workers now find it much
 harder to find decent jobs in Hong Kong. Most end up working in low-paying
-service jobs without much hope of upward mobility."_ [**Op. Cit.**, pp. 21-2]
+service jobs without much hope of upward mobility."_ [ **Op. Cit.** , pp.
+21-2]
 
 As other experts note, while Hong Kong may have a GDP-per-capita of a
 developed nation, its distribution of household income was similar to that of
@@ -345,7 +342,7 @@ progressively faster than low-income households."_ This polarisation, they
 argue, will continue as the economy de-industrialises: _"in the absence of
 proper social policies, it will generate a small, extremely wealthy class of
 the 'new rich' and simultaneously a large population of the 'working poor.'"_
-[Simon X. B. Zhao and L. Zhand, **Op. Cit.**, p. 85, p. 80, p. 82, p. 84 and
+[Simon X. B. Zhao and L. Zhand, **Op. Cit.** , p. 85, p. 80, p. 82, p. 84 and
 p. 102]
 
 Given that everywhere cannot be such a service provider, it does not provide
@@ -390,27 +387,27 @@ democratic reforms introduced in the 1990s and integration with China.
 Significantly, _"the nominally socialist Chinese government consistently
 opposed the introduction of further social welfare programs in Hong Kong."_
 This is because _"it has chosen to enter into a strategic alliance with Hong
-Kong's business class"_ (_"To earn support of corporate bosses, the Chinese
-government organised timely interventions on behalf of Hong Kong companies"_).
-Unsurprisingly, the first Beijing-appointed executive was made up of
+Kong's business class"_ ( _"To earn support of corporate bosses, the Chinese
+government organised timely interventions on behalf of Hong Kong companies"_
+). Unsurprisingly, the first Beijing-appointed executive was made up of
 successful business men and one of its first acts was to suspend pro-labour
-laws passed by the out-going legislature. [Bell, **Op. Cit.**, p. 17, p. 18
+laws passed by the out-going legislature. [Bell, **Op. Cit.** , p. 17, p. 18
 and pp. 19-20] The Chinese government opposed attempts to extend democracy,
 imposing a complex electoral system which, in the words of the **Asian Wall
-Street Journal**, was a _"means of reducing public participation in the
+Street Journal** , was a _"means of reducing public participation in the
 political process while stacking the next legislature with people who depend
 on favours from the regime in Hong Kong or Beijing and answer to narrow
 special interests, particularly the business elite."_ [quoted by Bell, **Op.
-Cit.**, pp. 18-9]
+Cit.** , pp. 18-9]
 
 This reflects the fact that business tycoons are worried that democracy would
-led to increased welfare spending with one, for example, predicting that the _
-"under-educated, and those who did not pay tax would elect candidates who
+led to increased welfare spending with one, for example, predicting that the
+_"under-educated, and those who did not pay tax would elect candidates who
 stood for more social spending, which would turn Hong Kong into a 'welfare
 state' . . . If we had a 100-per-cent directly elected LegCo, only social
 welfare-oriented candidates will be elected. Hong Kong is a business city and
-we [sic!] do not want to end up being a social welfare state."_ [_"Tycoon
-warns on protests,"_ **The Standard**, 29 April 2004] Such a government can
+we [sic!] do not want to end up being a social welfare state."_ [ _"Tycoon
+warns on protests,"_ **The Standard** , 29 April 2004] Such a government can
 ignore public opinion and the electorate more than in an independent democracy
 and, of course, can be more influenced by business (as the history of Hong
 Kong testifies).
@@ -433,7 +430,7 @@ and the "free market" they introduced into Hong Kong was in the interests of
 all rather than for those who exercised the dictatorship.
 
 [‹ C.11 Doesn't neo-liberalism in Chile prove that the free market benefits
-everyone? ](secC11.md "Go to previous page" ) [up](secCcon.md "Go to
-parent page" ) [Section D - How do statism and capitalism affect society?
-›](secDcon.md "Go to next page" )
+everyone? ](secC11.md "Go to previous page") [up](secCcon.md "Go to parent
+page") [Section D - How do statism and capitalism affect society?
+›](secDcon.md "Go to next page")
 

@@ -14,7 +14,7 @@ workers being exploited or oppressed (in fact, they deny that is possible
 under capitalism) but because they do not want the state to impede capitalist
 "freedom" to exploit and oppress workers even more than is the case now! Thus
 they _"are against the State simply because they are capitalists first and
-foremost."_ [Peter Marshall, **Demanding the Impossible**, p. 564]
+foremost."_ [Peter Marshall, **Demanding the Impossible** , p. 564]
 
 It should be obvious **why** someone is against the state matters when
 evaluating claims of a thinker to be included within the anarchist tradition.
@@ -38,14 +38,14 @@ leads to quite explicit (if unaware) self-contradiction by leading
 "anarcho"-capitalist ideologues. As Tolstoy stressed, the _"retention of the
 laws concerning land and property keeps the workers in slavery to the
 landowners and the capitalists, even though the workers are freed from
-taxes."_ [**The Slavery of Our Times**, pp. 39-40] Hence Malatesta:
+taxes."_ [ **The Slavery of Our Times** , pp. 39-40] Hence Malatesta:
 
-> _ "One of the basic tenets of anarchism is the abolition of [class]
-monopoly, whether of the land, raw materials or the means of production, and
-consequently the abolition of exploitation of the labour of others by those
-who possess the means of production. The appropriation of the labour of others
-is from the anarchist and socialist point of view, theft."_ [**Errico
-Malatesta: His Life and Ideas**, pp. 167-8]
+> _"One of the basic tenets of anarchism is the abolition of [class] monopoly,
+> whether of the land, raw materials or the means of production, and
+> consequently the abolition of exploitation of the labour of others by those
+> who possess the means of production. The appropriation of the labour of
+> others is from the anarchist and socialist point of view, theft."_ [
+> **Errico Malatesta: His Life and Ideas** , pp. 167-8]
 
 As much anarchists may disagree about other matters, they are united in
 condemning capitalist property. Thus Proudhon argued that property was
@@ -53,41 +53,33 @@ _"theft"_ and _"despotism"_ while Stirner indicated the religious and statist
 nature of private property and its impact on individual liberty when he wrote:
 
 > _"Property in the civic sense means **sacred** property, such that I must
-**respect** your property. 'Respect for property!' . . . The position of
-affairs is different in the egoistic sense. I do not step shyly back from your
-property, but look upon it always as **my** property, in which I respect
-nothing. Pray do the like with what you call my property!  
+> **respect** your property. 'Respect for property!' . . . The position of
+> affairs is different in the egoistic sense. I do not step shyly back from
+> your property, but look upon it always as **my** property, in which I
+> respect nothing. Pray do the like with what you call my property!  
 >  _
-
 >
-
 > _"With this view we shall most easily come to an understanding with each
-other. _
-
+> other._
 >
-
 > _"The political liberals are anxious that . . . every one be free lord on
-his ground, even if this ground has only so much area as can have its
-requirements adequately filled by the manure of one person . . . Be it ever so
-little, if one only has somewhat of his own -- to wit, a **respected**
-property: The more such owners . . . the more 'free people and good patriots'
-has the State. _
-
+> his ground, even if this ground has only so much area as can have its
+> requirements adequately filled by the manure of one person . . . Be it ever
+> so little, if one only has somewhat of his own -- to wit, a **respected**
+> property: The more such owners . . . the more 'free people and good
+> patriots' has the State. _
 >
-
 > _"Political liberalism, like everything religious, counts on **respect,**
-humaneness, the virtues of love. Therefore does it live in incessant vexation.
-For in practice people respect nothing, and everyday the small possessions are
-bought up again by greater proprietors, and the 'free people' change into day
-labourers. _
-
+> humaneness, the virtues of love. Therefore does it live in incessant
+> vexation. For in practice people respect nothing, and everyday the small
+> possessions are bought up again by greater proprietors, and the 'free
+> people' change into day labourers. _
 >
-
 > _"If, on the contrary, the 'small proprietors' had reflected that the great
-property was also theirs, they would not have respectively shut themselves out
-from it, and would not have been shut out . . . Instead of owning the world,
-as he might, he does not even own even the paltry point on which he turns
-around."_ [**The Ego and Its Own**, pp. 248-9]
+> property was also theirs, they would not have respectively shut themselves
+> out from it, and would not have been shut out . . . Instead of owning the
+> world, as he might, he does not even own even the paltry point on which he
+> turns around."_ [ **The Ego and Its Own** , pp. 248-9]
 
 While different anarchists have different perspectives on what comes next, we
 are all critical of the current capitalist property rights system. Thus
@@ -98,7 +90,7 @@ Bookchin, anarchists have been opposed to what William Godwin termed
 _"accumulated property."_ This was because it was in _"direct contradiction"_
 to property in the form of _"the produce of his [the worker's] own industry"_
 and so it allows _"one man. . . [to] dispos[e] of the produce of another man's
-industry."_ [**The Anarchist Reader**, pp. 129-131]
+industry."_ [ **The Anarchist Reader** , pp. 129-131]
 
 For anarchists, capitalist property is a source exploitation and domination,
 **not** freedom (it undermines the freedom associated with possession by
@@ -106,8 +98,8 @@ creating relations of domination between owner and employee). Hardly
 surprising, then, that, according to Murray Bookchin, Murray Rothbard
 _"attacked me as an anarchist with vigour because, as he put it, I am opposed
 to private property."_ Bookchin, correctly, dismisses "anarcho-capitalists as
-_"proprietarians"_ [_"A Meditation on Anarchist Ethics"_, pp. 328-346, **The
-Raven**, no. 28, p. 343]
+_"proprietarians"_ [ _"A Meditation on Anarchist Ethics"_ , pp. 328-346, **The
+Raven** , no. 28, p. 343]
 
 We will discuss Rothbard's "homesteading" justification of private property in
 the [next section](secF4.md#secf41). However, we will note here one aspect
@@ -116,24 +108,24 @@ it easily generates evil side effects such as hierarchy and starvation. As
 economist and famine expert Amartya Sen notes:
 
 > _"Take a theory of entitlements based on a set of rights of 'ownership,
-transfer and rectification.' In this system a set of holdings of different
-people are judged to be just (or unjust) by looking at past history, and not
-by checking the consequences of that set of holdings. But what if the
-consequences are recognisably terrible? . . .[R]efer[ing] to some empirical
-findings in a work on famines . . . evidence [is presented] to indicate that
-in many large famines in the recent past, in which millions of people have
-died, there was no over-all decline in food availability at all, and the
-famines occurred precisely because of shifts in entitlement resulting from
-exercises of rights that are perfectly legitimate. . . . [Can] famines . . .
-occur with a system of rights of the kind morally defended in various ethical
-theories, including Nozick's[?] I believe the answer is straightforwardly yes,
-since for many people the only resource that they legitimately possess, viz.
-their labour-power, may well turn out to be unsaleable in the market, giving
-the person no command over food . . . [i]f results such as starvations and
-famines were to occur, would the distribution of holdings still be morally
-acceptable despite their disastrous consequences? There is something deeply
-implausible in the affirmative answer."_ [**Resources, Values and
-Development**, pp. 311-2]
+> transfer and rectification.' In this system a set of holdings of different
+> people are judged to be just (or unjust) by looking at past history, and not
+> by checking the consequences of that set of holdings. But what if the
+> consequences are recognisably terrible? . . .[R]efer[ing] to some empirical
+> findings in a work on famines . . . evidence [is presented] to indicate that
+> in many large famines in the recent past, in which millions of people have
+> died, there was no over-all decline in food availability at all, and the
+> famines occurred precisely because of shifts in entitlement resulting from
+> exercises of rights that are perfectly legitimate. . . . [Can] famines . . .
+> occur with a system of rights of the kind morally defended in various
+> ethical theories, including Nozick's[?] I believe the answer is
+> straightforwardly yes, since for many people the only resource that they
+> legitimately possess, viz. their labour-power, may well turn out to be
+> unsaleable in the market, giving the person no command over food . . . [i]f
+> results such as starvations and famines were to occur, would the
+> distribution of holdings still be morally acceptable despite their
+> disastrous consequences? There is something deeply implausible in the
+> affirmative answer."_ [ **Resources, Values and Development** , pp. 311-2]
 
 Thus "unrestricted" property rights can have seriously bad consequences and so
 the existence of "justly held" property need not imply a just or free society
@@ -153,9 +145,9 @@ inflict on people living today!
 
 This flows from the way "anarcho"-capitalists define "freedom," namely so that
 only **deliberate** acts which violate your (right-"libertarian" defined)
-rights by other humans beings that cause unfreedom (_"we define freedom . . .
+rights by other humans beings that cause unfreedom ( _"we define freedom . . .
 as the **absence of invasion** by another man of an man's person or
-property."_ [Rothbard, **The Ethics of Liberty**, p. 41]). This means that if
+property."_ [Rothbard, **The Ethics of Liberty** , p. 41]). This means that if
 no-one deliberately coerces you then you are free. In this way the workings of
 the capitalist private property can be placed alongside the "facts of nature"
 and ignored as a source of unfreedom. However, a moments thought shows that
@@ -178,63 +170,55 @@ deliberate acts of others -- for example, coercion -- reduces freedom misses
 the point totally. In other words, freedom is path independent and the
 _"forces of the market cannot provide genuine conditions for freedom any more
 than the powers of the State. The victims of both are equally enslaved,
-alienated and oppressed."_ [Peter Marshall, **Demanding the Impossible**, p.
+alienated and oppressed."_ [Peter Marshall, **Demanding the Impossible** , p.
 565]
 
 It is worth quoting Noam Chomsky at length on this subject:
 
 > _"Consider, for example, the [right-'libertarian'] 'entitlement theory of
-justice' . . . [a]ccording to this theory, a person has a right to whatever he
-has acquired by means that are just. If, by luck or labour or ingenuity, a
-person acquires such and such, then he is entitled to keep it and dispose of
-it as he wills, and a just society will not infringe on this right.  
+> justice' . . . [a]ccording to this theory, a person has a right to whatever
+> he has acquired by means that are just. If, by luck or labour or ingenuity,
+> a person acquires such and such, then he is entitled to keep it and dispose
+> of it as he wills, and a just society will not infringe on this right.  
 >  _
-
 >
-
 > _"One can easily determine where such a principle might lead. It is entirely
-possible that by legitimate means -- say, luck supplemented by contractual
-arrangements 'freely undertaken' under pressure of need -- one person might
-gain control of the necessities of life. Others are then free to sell
-themselves to this person as slaves, if he is willing to accept them.
-Otherwise, they are free to perish. Without extra question-begging conditions,
-the society is just. _
-
+> possible that by legitimate means -- say, luck supplemented by contractual
+> arrangements 'freely undertaken' under pressure of need -- one person might
+> gain control of the necessities of life. Others are then free to sell
+> themselves to this person as slaves, if he is willing to accept them.
+> Otherwise, they are free to perish. Without extra question-begging
+> conditions, the society is just._
 >
-
 > _"The argument has all the merits of a proof that 2 + 2 = 5 . . . Suppose
-that some concept of a 'just society' is advanced that fails to characterise
-the situation just described as unjust. . . Then one of two conclusions is in
-order. We may conclude that the concept is simply unimportant and of no
-interest as a guide to thought or action, since it fails to apply properly
-even in such an elementary case as this. Or we may conclude that the concept
-advanced is to be dismissed in that it fails to correspond to the
-pretheorectical notion that it intends to capture in clear cases. If our
-intuitive concept of justice is clear enough to rule social arrangements of
-the sort described as grossly unjust, then the sole interest of a
-demonstration that this outcome might be 'just' under a given 'theory of
-justice' lies in the inference by **reductio ad absurdum** to the conclusion
-that the theory is hopelessly inadequate. While it may capture some partial
-intuition regarding justice, it evidently neglects others. _
-
+> that some concept of a 'just society' is advanced that fails to characterise
+> the situation just described as unjust. . . Then one of two conclusions is
+> in order. We may conclude that the concept is simply unimportant and of no
+> interest as a guide to thought or action, since it fails to apply properly
+> even in such an elementary case as this. Or we may conclude that the concept
+> advanced is to be dismissed in that it fails to correspond to the
+> pretheorectical notion that it intends to capture in clear cases. If our
+> intuitive concept of justice is clear enough to rule social arrangements of
+> the sort described as grossly unjust, then the sole interest of a
+> demonstration that this outcome might be 'just' under a given 'theory of
+> justice' lies in the inference by **reductio ad absurdum** to the conclusion
+> that the theory is hopelessly inadequate. While it may capture some partial
+> intuition regarding justice, it evidently neglects others. _
 >
-
 > _"The real question to be raised about theories that fail so completely to
-capture the concept of justice in its significant and intuitive sense is why
-they arouse such interest. Why are they not simply dismissed out of hand on
-the grounds of this failure, which is striking in clear cases? Perhaps the
-answer is, in part, the one given by Edward Greenberg in a discussion of some
-recent work on the entitlement theory of justice. After reviewing empirical
-and conceptual shortcomings, he observes that such work 'plays an important
-function in the process of . . . 'blaming the victim,' and of protecting
-property against egalitarian onslaughts by various non-propertied groups.' An
-ideological defence of privileges, exploitation, and private power will be
-welcomed, regardless of its merits. _
-
+> capture the concept of justice in its significant and intuitive sense is why
+> they arouse such interest. Why are they not simply dismissed out of hand on
+> the grounds of this failure, which is striking in clear cases? Perhaps the
+> answer is, in part, the one given by Edward Greenberg in a discussion of
+> some recent work on the entitlement theory of justice. After reviewing
+> empirical and conceptual shortcomings, he observes that such work 'plays an
+> important function in the process of . . . 'blaming the victim,' and of
+> protecting property against egalitarian onslaughts by various non-propertied
+> groups.' An ideological defence of privileges, exploitation, and private
+> power will be welcomed, regardless of its merits._
 >
-
 > _"These matters are of no small importance to poor and oppressed people here
-and elsewhere."_ [**The Chomsky Reader**, pp. 187-188]
+> and elsewhere."_ [ **The Chomsky Reader** , pp. 187-188]
 
 The glorification of property rights has always been most strongly advocated
 by those who hold the bulk of property in a society. This is understandable as
@@ -251,19 +235,19 @@ Inequality makes a mockery of free agreement and "consent" as we have
 continually stressed. As Peter Kropotkin pointed out long ago:
 
 > _"When a workman sells his labour to an employer . . . it is a mockery to
-call that a free contract. Modern economists may call it free, but the father
-of political economy -- Adam Smith -- was never guilty of such a
-misrepresentation. As long as three-quarters of humanity are compelled to
-enter into agreements of that description, force is, of course, necessary,
-both to enforce the supposed agreements and to maintain such a state of
-things. Force -- and a good deal of force -- is necessary to prevent the
-labourers from taking possession of what they consider unjustly appropriated
-by the few. . . . The Spencerian party [proto-right-'libertarians'] perfectly
-well understand that; and while they advocate no force for changing the
-existing conditions, they advocate still more force than is now used for
-maintaining them. As to Anarchy, it is obviously as incompatible with
-plutocracy as with any other kind of -cracy."_ [**Anarchism and Anarchist
-Communism**, pp. 52-53]
+> call that a free contract. Modern economists may call it free, but the
+> father of political economy -- Adam Smith -- was never guilty of such a
+> misrepresentation. As long as three-quarters of humanity are compelled to
+> enter into agreements of that description, force is, of course, necessary,
+> both to enforce the supposed agreements and to maintain such a state of
+> things. Force -- and a good deal of force -- is necessary to prevent the
+> labourers from taking possession of what they consider unjustly appropriated
+> by the few. . . . The Spencerian party [proto-right-'libertarians']
+> perfectly well understand that; and while they advocate no force for
+> changing the existing conditions, they advocate still more force than is now
+> used for maintaining them. As to Anarchy, it is obviously as incompatible
+> with plutocracy as with any other kind of -cracy."_ [ **Anarchism and
+> Anarchist Communism** , pp. 52-53]
 
 Because of this need to defend privilege and power, "anarcho"-capitalism is
 best called "private-state" capitalism. As anarchists Stuart Christie and
@@ -273,8 +257,8 @@ exploiting man and nature -- is also able to 'abolish the State' to a certain
 extent. But he has to build up a repressive machine of his own (an army of
 sheriffs to guard his interests) and takes over as far as he can, those
 functions normally exercised by the government, excluding any tendency of the
-latter that might be an obstacle to his pursuit of wealth."_ [**Floodgates of
-Anarchy**, p. 12] Unsurprising "anarcho"-capitalists propose private security
+latter that might be an obstacle to his pursuit of wealth."_ [ **Floodgates of
+Anarchy** , p. 12] Unsurprising "anarcho"-capitalists propose private security
 forces rather than state security forces (police and military) -- a proposal
 that is equivalent to bringing back the state under another name. This will be
 discussed in more detail in [section F.6](secF6.md).
@@ -289,9 +273,9 @@ make joining the company union a mandatory requirement for taking a position.
 Then they say that they support the right of individuals to travel where they
 like. They make this claim because they assume that only the state limits free
 travel but this is a false assumption. Owners must agree to let you on their
-land or property (_"people only have the right to move to those properties and
-lands where the owners desire to rent or sell to them."_ [Murray Rothbard,
-**The Ethics of Liberty**, p. 119]. There is no "freedom of travel" onto
+land or property ( _"people only have the right to move to those properties
+and lands where the owners desire to rent or sell to them."_ [Murray Rothbard,
+**The Ethics of Liberty** , p. 119]. There is no "freedom of travel" onto
 private property (including private roads). Therefore immigration may be just
 as hard under "anarcho"-capitalism as it is under statism (after all, the
 state, like the property owner, only lets people in whom it wants to let in).
@@ -324,7 +308,7 @@ it is argued that property comes from occupancy and mixing labour with natural
 resources (which are assumed to be unowned). Thus the world is transformed
 into private property, for _"title to an unowned resource (such as land) comes
 properly only from the expenditure of labour to transform that resource into
-use."_ [**The Ethics of Liberty**, p. 63]
+use."_ [ **The Ethics of Liberty** , p. 63]
 
 His theory, it should be stressed, has its roots in the same Lockean tradition
 as Robert Nozick's (which we critiqued in [section B.3.4](secB4.md#secb34)).
@@ -352,7 +336,7 @@ henceforth, no one has a right to step, save the proprietor and his friends .
 . . Let [this]. . . multiply, and soon the people . . . will have nowhere to
 rest, no place to shelter, no ground to till. They will die at the
 proprietor's door, on the edge of that property which was their birthright."_
-[**What is Property?**, pp. 84-85 and p. 118]
+[ **What is Property?** , pp. 84-85 and p. 118]
 
 Proudhon's genius lay in turning apologies for private property against it by
 treating them as absolute and universal as its apologists treated property
@@ -369,8 +353,8 @@ property had to choose between self-interest and principle, between hypocrisy
 and logic.
 
 Rothbard picks the former over the latter and his theory is simply a rationale
-for a specific class based property rights system (_"[w]e who belong to the
-proletaire class, property excommunicates us!"_ [P-J Proudhon, **Op. Cit.**,
+for a specific class based property rights system ( _"[w]e who belong to the
+proletaire class, property excommunicates us!"_ [P-J Proudhon, **Op. Cit.** ,
 p. 105]). As Rothbard **himself** admitted in respect to the aftermath of
 slavery and serfdom, not having access to the means of life places one the
 position of unjust dependency on those who do and so private property creates
@@ -383,12 +367,12 @@ possession gives).
 
 It also seems strange that while (correctly) attacking social contract
 theories of the state as invalid (because _"no past generation can bind later
-generations"_ [**Op. Cit.**, p. 145]) he fails to see he is doing **exactly
+generations"_ [ **Op. Cit.** , p. 145]) he fails to see he is doing **exactly
 that** with his support of private property (similarly, Ayn Rand argued that
 _"[a]ny alleged 'right' of one man, which necessitates the violation of the
 right of another, is not and cannot be a right"_ but, obviously, appropriating
-land does violate the rights of others to walk, use or appropriate that land
-[**Capitalism: The Unknown Ideal**, p. 325]). Due to his support for
+land does violate the rights of others to walk, use or appropriate that land [
+**Capitalism: The Unknown Ideal** , p. 325]). Due to his support for
 appropriation and inheritance, Rothbard is clearly ensuring that future
 generations are **not** born as free as the first settlers were (after all,
 they cannot appropriate any land, it is all taken!). If future generations
@@ -410,10 +394,10 @@ apologetics to allow them to continue destroying the planet).
 
 Then there is the question of what equates to "mixing" labour. Does fencing in
 land mean you have "mixed labour" with it? Rothbard argues that this is not
-the case (he expresses opposition to _"arbitrary claims"_). He notes that it
+the case (he expresses opposition to _"arbitrary claims"_ ). He notes that it
 is **not** the case that _"the first discoverer . . . could properly lay claim
 to"_ a piece of land by _"laying out a boundary for the area."_ He thinks that
-_"their claim would still be no more than the boundary **itself**, and not to
+_"their claim would still be no more than the boundary **itself** , and not to
 any of the land within, for only the boundary will have been transformed and
 used by men"_ However, if the boundary **is** private property and the owner
 refuses others permission to cross it, then the enclosed land is inaccessible
@@ -431,8 +415,8 @@ oasis became private property by some means then refusing water to travellers
 would be fine as _"the owner is scarcely being 'coercive'; in fact he is
 supplying a vital service, and should have the right to refuse a sale or
 charge whatever the customers will pay. The situation may be unfortunate for
-the customers, as are many situations in life."_ [**Op. Cit.**, p. 50f and p.
-221] That the owner is providing _"a vital service"_ only because he has
+the customers, as are many situations in life."_ [ **Op. Cit.** , p. 50f and
+p. 221] That the owner is providing _"a vital service"_ only because he has
 expropriated the common heritage of humanity is as lost on Rothbard as is the
 obvious economic power that this situation creates.
 
@@ -447,7 +431,7 @@ their employer.
 
 Which is another problem with Rothbard's account. It is completely ahistoric
 (and so, as we noted above, is more like an _"immaculate conception of
-property"_). He has transported "capitalist man" into the dawn of time and
+property"_ ). He has transported "capitalist man" into the dawn of time and
 constructed a history of property based upon what he is trying to justify. He
 ignores the awkward historic fact that land was held in common for millennium
 and that the notion of "mixing" labour to enclose it was basically invented to
@@ -474,8 +458,8 @@ help new-comers in barn-raising, corn-husking, log-rolling, and the like, was
 the indispensable cement that bound scattered farmsteads into a united
 community."_ Bookchin quotes David P. Szatmary (author of a book on Shay'
 Rebellion) stating that it was a society based upon _"co-operative, community
-orientated interchanges"_ and not a _"basically competitive society."_ [**The
-Third Revolution**, vol. 1, p. 233]
+orientated interchanges"_ and not a _"basically competitive society."_ [ **The
+Third Revolution** , vol. 1, p. 233]
 
 Into this non-capitalist society came capitalist elements. Market forces and
 economic power soon resulted in the transformation of this society. Merchants
@@ -495,10 +479,10 @@ also turned a deaf ear"_ as they were heavily influenced by these same elites.
 This rebellion was an important factor in the centralisation of state power in
 America to ensure that popular input and control over government were
 marginalised and that the wealthy elite and their property rights were
-protected against the many (_"Elite and well-to-do sectors of the population
+protected against the many ( _"Elite and well-to-do sectors of the population
 mobilised in great force to support an instrument that clearly benefited them
-at the expense of the backcountry agrarians and urban poor."_) [Bookchin,
-**Op. Cit.**, p. 234, p. 235 and p. 243]). Thus the homestead system was,
+at the expense of the backcountry agrarians and urban poor."_ ) [Bookchin,
+**Op. Cit.** , p. 234, p. 235 and p. 243]). Thus the homestead system was,
 ironically, undermined and destroyed by the rise of capitalism (aided, as
 usual, by a state run by and for the rich).
 
@@ -509,7 +493,7 @@ does is to end up justifying capitalist and landlord domination (which is what
 it was intended to do).
 
 [‹ F.3 Why do anarcho"-capitalists place little or no value on
-equality?](secF3.md "Go to previous page" ) [up](secFcon.md "Go to parent
-page" ) [F.5 Will privatising "the commons" increase liberty? ›](secF5.md
-"Go to next page" )
+equality?](secF3.md "Go to previous page") [up](secFcon.md "Go to parent
+page") [F.5 Will privatising "the commons" increase liberty? ›](secF5.md "Go
+to next page")
 

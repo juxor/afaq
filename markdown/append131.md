@@ -10,7 +10,7 @@ false.
 "Anarcho"-capitalists claim to be anarchists because they say that they oppose
 government. As such, as noted in the [last section](append13int.md), they
 use a dictionary definition of anarchism. However, this fails to appreciate
-that anarchism is a **political theory**, not a dictionary definition. As
+that anarchism is a **political theory** , not a dictionary definition. As
 dictionaries are rarely politically sophisticated things, this means that they
 fail to recognise that anarchism is more than just opposition to government,
 it is also marked a opposition to capitalism (i.e. exploitation and private
@@ -28,12 +28,12 @@ and of itself, this definition is unremarkable. That a few people (an elite of
 rulers) claim the right to rule others must be part of any sensible definition
 of the state or government. However, the problems begin for Rothbard when he
 notes that _"[o]bviously, in a free society, Smith has the ultimate decision-
-making power over his own just property, Jones over his, etc."_ [**The Ethics
-of Liberty**, p. 170 and p. 173] The logical contradiction in this position
+making power over his own just property, Jones over his, etc."_ [ **The Ethics
+of Liberty** , p. 170 and p. 173] The logical contradiction in this position
 should be obvious, but not to Rothbard. It shows the power of ideology, the
-ability of means words (the expression _"private property"_) to turn the bad
-(_"ultimate decision-making power over a given area"_) into the good
-(_"ultimate decision-making power over a given area"_).
+ability of means words (the expression _"private property"_ ) to turn the bad
+( _"ultimate decision-making power over a given area"_ ) into the good (
+_"ultimate decision-making power over a given area"_ ).
 
 Now, this contradiction can be solved in only **one** way -- the owners of the
 _"given area"_ are also its users. In other words, a system of possession (or
@@ -56,13 +56,13 @@ that produced it was acquired in a "just" manner. In so doing he yet again
 draws attention to the identical authority structures and social relationships
 of the state and property. As he puts it:
 
-> _"**If** the State may be said too properly **own** its territory, then it
-is proper for it to make rules for everyone who presumes to live in that area.
-It can legitimately seize or control private property because there **is** no
-private property in its area, because it really owns the entire land surface.
-**So long** as the State permits its subjects to leave its territory, then, it
-can be said to act as does any other owner who sets down rules for people
-living on his property."_ [**Op. Cit.**, p. 170]
+> _" **If** the State may be said too properly **own** its territory, then it
+> is proper for it to make rules for everyone who presumes to live in that
+> area. It can legitimately seize or control private property because there
+> **is** no private property in its area, because it really owns the entire
+> land surface. **So long** as the State permits its subjects to leave its
+> territory, then, it can be said to act as does any other owner who sets down
+> rules for people living on his property."_ [ **Op. Cit.** , p. 170]
 
 Obviously Rothbard argues that the state does not "justly" own its territory
 -- but given that the current distribution of property is just as much the
@@ -90,28 +90,28 @@ and he can _"regulate to regulate the lives of all the people who presume to
 live on"_ his property as he sees fit. Rothbard then asks:
 
 > _"Now what should be the reply of the libertarian rebels to this pert
-challenge? If they are consistent utilitarians, they must bow to this
-subterfuge, and resign themselves to living under a regime no less despotic
-than the one they had been battling for so long. Perhaps, indeed, **more**
-despotic, for now the king and his relatives can claim for themselves the
-libertarians' very principle of the absolute right of private property, an
-absoluteness which they might not have dared to claim before."_ [**Op. Cit.**,
-pp. 54-5]
+> challenge? If they are consistent utilitarians, they must bow to this
+> subterfuge, and resign themselves to living under a regime no less despotic
+> than the one they had been battling for so long. Perhaps, indeed, **more**
+> despotic, for now the king and his relatives can claim for themselves the
+> libertarians' very principle of the absolute right of private property, an
+> absoluteness which they might not have dared to claim before."_ [ **Op.
+> Cit.** , pp. 54-5]
 
 So not only does the property owner have the same monopoly of power over a
 given area as the state, it is **more** despotic as it is based on the
 _"absolute right of private property"_! And remember, Rothbard is arguing **in
 favour** of "anarcho"-capitalismAnd remember, Rothbard is arguing **in
-favour** of "anarcho"-capitalism (_"if you have unbridled capitalism, you will
-have all kinds of authority: you will have **extreme** authority."_ [Chomksy,
-**Understanding Power**, p. 200]). So in practice, private property is a major
-source of oppression and authoritarianism within society -- there is little or
-no freedom within capitalist production (as Bakunin noted, _"the worker sells
-his person and his liberty for a given time"_). So, in stark contrast to
-anarchists, "anarcho"-capitalists have no problem with factory fascism (i.e.
-wage labour), a position which seems highly illogical for a theory calling
-itself libertarian. If it were truly libertarian, it would oppose all forms of
-domination, not just statism. This position flows from the
+favour** of "anarcho"-capitalism ( _"if you have unbridled capitalism, you
+will have all kinds of authority: you will have **extreme** authority."_
+[Chomksy, **Understanding Power** , p. 200]). So in practice, private property
+is a major source of oppression and authoritarianism within society -- there
+is little or no freedom within capitalist production (as Bakunin noted, _"the
+worker sells his person and his liberty for a given time"_ ). So, in stark
+contrast to anarchists, "anarcho"-capitalists have no problem with factory
+fascism (i.e. wage labour), a position which seems highly illogical for a
+theory calling itself libertarian. If it were truly libertarian, it would
+oppose all forms of domination, not just statism. This position flows from the
 "anarcho"-capitalist definition of freedom as the absence of coercion and will
 be discussed in [section 2](append132.md) in more detail.
 
@@ -128,12 +128,12 @@ is either dire poverty or starvation.
 thing as economic power. Rather, it is simply freedom of contract. Anarchists
 consider such claims as a joke. To show why, we need only quote (yet again)
 Rothbard on the abolition of slavery and serfdom in the 19th century. He
-argued, correctly, that the _"**bodies** of the oppressed were freed, but the
+argued, correctly, that the _" **bodies** of the oppressed were freed, but the
 property which they had worked and eminently deserved to own, remained in the
 hands of their former oppressors. With economic power thus remaining in their
 hands, the former lords soon found themselves virtual masters once more of
 what were now free tenants or farm labourers. The serfs and slaves had tasted
-freedom, but had been cruelly derived of its fruits."_ [**Op. Cit.**, p. 74]
+freedom, but had been cruelly derived of its fruits."_ [ **Op. Cit.** , p. 74]
 
 To say the least, anarchists fail to see the logic in this position. Contrast
 this with the standard "anarcho"-capitalist claim that if market forces
@@ -159,13 +159,13 @@ power, an economic force destructive of rights, a fertile source of injustice,
 a means of enslaving the dispossessed."_ He concludes: _"Under this system
 equal liberty cannot obtain."_ Bailie notes that the modern _"industrial world
 under capitalistic conditions"_ have _"arisen under the **regime** of status"_
-(and so _"law-made privileges"_) however, it seems unlikely that he would have
-concluded that such a class system would be fine if it had developed naturally
-or the current state was abolished while leaving the class structure intact
-(as we note in [section G.4](secG4.md), Tucker recognised that even the
-_"freest competition"_ was powerless against the _"enormous concentration of
-wealth"_ associated with modern capitalism). [**The Individualist
-Anarchists**, p. 121]
+(and so _"law-made privileges"_ ) however, it seems unlikely that he would
+have concluded that such a class system would be fine if it had developed
+naturally or the current state was abolished while leaving the class structure
+intact (as we note in [section G.4](secG4.md), Tucker recognised that even
+the _"freest competition"_ was powerless against the _"enormous concentration
+of wealth"_ associated with modern capitalism). [ **The Individualist
+Anarchists** , p. 121]
 
 Therefore anarchists recognise that "free exchange" or "consent" in unequal
 circumstances will reduce freedom as well as increasing inequality between
@@ -174,14 +174,14 @@ individuals and classes. In other words, as we discuss in [section
 based on hierarchy and domination, **not** freedom. As Noam Chomsky put it:
 
 > _"Anarcho-capitalism, in my opinion, is a doctrinal system which, if ever
-implemented, would lead to forms of tyranny and oppression that have few
-counterparts in human history. There isn't the slightest possibility that its
-(in my view, horrendous) ideas would be implemented, because they would
-quickly destroy any society that made this colossal error. The idea of 'free
-contract' between the potentate and his starving subject is a sick joke,
-perhaps worth some moments in an academic seminar exploring the consequences
-of (in my view, absurd) ideas, but nowhere else."_ [**Noam Chomsky on
-Anarchism**, interview with Tom Lane, December 23, 1996]
+> implemented, would lead to forms of tyranny and oppression that have few
+> counterparts in human history. There isn't the slightest possibility that
+> its (in my view, horrendous) ideas would be implemented, because they would
+> quickly destroy any society that made this colossal error. The idea of 'free
+> contract' between the potentate and his starving subject is a sick joke,
+> perhaps worth some moments in an academic seminar exploring the consequences
+> of (in my view, absurd) ideas, but nowhere else."_ [ **Noam Chomsky on
+> Anarchism** , interview with Tom Lane, December 23, 1996]
 
 Clearly, then, by its own arguments "anarcho"-capitalism is not anarchist.
 This should come as no surprise to anarchists. Anarchism, as a political
@@ -195,8 +195,8 @@ has sold and surrendered his liberty."_ For Proudhon, anarchy was _"the
 absence of a master, of a sovereign"_ while _"proprietor"_ was _"synonymous"_
 with _"sovereign"_ for he _"imposes his will as law, and suffers neither
 contradiction nor control."_ This meant that _"property engenders despotism,"_
-as _"each proprietor is sovereign lord within the sphere of his property."_
-[**What is Property**, p. 251, p. 130, p. 264 and pp. 266-7] It must also be
+as _"each proprietor is sovereign lord within the sphere of his property."_ [
+**What is Property** , p. 251, p. 130, p. 264 and pp. 266-7] It must also be
 stressed that Proudhon's classic work is a lengthy critique of the kind of
 apologetics for private property Rothbard espouses to salvage his ideology
 from its obvious contradictions.
@@ -215,18 +215,18 @@ itself does the same.
 Little wonder Bob Black argues that _"[t]o demonise state authoritarianism
 while ignoring identical albeit contract-consecrated subservient arrangements
 in the large-scale corporations which control the world economy is fetishism
-at its worst."_ [**Libertarian as Conservative**] The similarities between
+at its worst."_ [ **Libertarian as Conservative** ] The similarities between
 capitalism and statism are clear -- and so why "anarcho"-capitalism cannot be
-anarchist. To reject the authority (the _"ultimate decision-making power"_) of
-the state and embrace that of the property owner indicates not only a highly
-illogical stance but one at odds with the basic principles of anarchism. This
-whole-hearted support for wage labour and capitalist property rights indicates
-that "anarcho"-capitalists are not anarchists because they do not reject all
-forms of **archy.** They obviously support the hierarchy between boss and
-worker (wage labour) and landlord and tenant. Anarchism, by definition, is
-against all forms of archy, including the hierarchy generated by capitalist
-property. To ignore the obvious archy associated with capitalist property is
-highly illogical.
+anarchist. To reject the authority (the _"ultimate decision-making power"_ )
+of the state and embrace that of the property owner indicates not only a
+highly illogical stance but one at odds with the basic principles of
+anarchism. This whole-hearted support for wage labour and capitalist property
+rights indicates that "anarcho"-capitalists are not anarchists because they do
+not reject all forms of **archy.** They obviously support the hierarchy
+between boss and worker (wage labour) and landlord and tenant. Anarchism, by
+definition, is against all forms of archy, including the hierarchy generated
+by capitalist property. To ignore the obvious archy associated with capitalist
+property is highly illogical.
 
 In addition, we must note that such inequalities in power and wealth will need
 "defending" from those subject to them ("anarcho"-capitalists recognise the
@@ -240,34 +240,35 @@ refusing to call it a state, like an ostrich hiding its head in the sand (see
 better described as "private state" capitalism). As Albert Meltzer put it:
 
 > _"Common-sense shows that any capitalist society might dispense with a
-'State' . . . but it could not dispense with organised government, or a
-privatised form of it, if there were people amassing money and others working
-to amass it for them. The philosophy of 'anarcho-capitalism' dreamed up by the
-'libertarian' New Right, has nothing to do with Anarchism as known by the
-Anarchist movement proper. It is a lie . . . Patently unbridled capitalism . .
-. needs some force at its disposal to maintain class privileges, either form
-the State itself or from private armies. What they believe in is in fact a
-limited State -- that us, one in which the State has one function, to protect
-the ruling class, does not interfere with exploitation, and comes as cheap as
-possible for the ruling class. The idea also serves another purpose . . . a
-moral justification for bourgeois consciences in avoiding taxes without
-feeling guilty about it."_ [**Anarchism: Arguments For and Against**, p. 50]
+> 'State' . . . but it could not dispense with organised government, or a
+> privatised form of it, if there were people amassing money and others
+> working to amass it for them. The philosophy of 'anarcho-capitalism' dreamed
+> up by the 'libertarian' New Right, has nothing to do with Anarchism as known
+> by the Anarchist movement proper. It is a lie . . . Patently unbridled
+> capitalism . . . needs some force at its disposal to maintain class
+> privileges, either form the State itself or from private armies. What they
+> believe in is in fact a limited State -- that us, one in which the State has
+> one function, to protect the ruling class, does not interfere with
+> exploitation, and comes as cheap as possible for the ruling class. The idea
+> also serves another purpose . . . a moral justification for bourgeois
+> consciences in avoiding taxes without feeling guilty about it."_ [
+> **Anarchism: Arguments For and Against** , p. 50]
 
 For anarchists, this need of capitalism for some kind of state is
 unsurprising. For _"Anarchy without socialism seems equally as impossible to
 us [as socialism without anarchy], for in such a case it could not be other
 than the domination of the strongest, and would therefore set in motion right
 away the organisation and consolidation of this domination; that is to the
-constitution of government."_ [Errico Malatesta, **Life and Ideas**, p. 148]
+constitution of government."_ [Errico Malatesta, **Life and Ideas** , p. 148]
 Because of this, the "anarcho"-capitalist rejection of anarchist ideas on
 capitalist property economics and the need for equality, they cannot be
 considered anarchists or part of the anarchist tradition.
 
 Thus anarchism is far more than the common dictionary definition of "no
-government" -- it also entails being against all forms of **archy**, including
-those generated by capitalist property. This is clear from the roots of the
-word "anarchy." As we noted in [section A.1](secA1.md), the word anarchy
-means "no rulers" or "contrary to authority." As Rothbard himself
+government" -- it also entails being against all forms of **archy** ,
+including those generated by capitalist property. This is clear from the roots
+of the word "anarchy." As we noted in [section A.1](secA1.md), the word
+anarchy means "no rulers" or "contrary to authority." As Rothbard himself
 acknowledges, the property owner is the ruler of their property and,
 therefore, those who use it. For this reason "anarcho"-capitalism cannot be
 considered as a form of anarchism -- a real anarchist must logically oppose
@@ -315,7 +316,7 @@ Goldman recognised this when she argued that _"'Rugged individualism' has
 meant all the 'individualism' for the masters . . . in whose name political
 tyranny and social oppression are defended and held up as virtues while every
 aspiration and attempt of man to gain freedom . . . is denounced as . . . evil
-in the name of that same individualism."_ [**Red Emma Speaks**, p. 112] And,
+in the name of that same individualism."_ [ **Red Emma Speaks** , p. 112] And,
 as such, is no anarchism at all.
 
 So, unlike anarchists, "anarcho"-capitalists do not seek the _"abolition of
@@ -328,8 +329,8 @@ anarchists are bogus simply because they reject so much of the anarchist
 tradition as to make what they do accept non-anarchist in theory and practice.
 Little wonder Peter Marshall said that _"few anarchists would accept the
 'anarcho-capitalists' into the anarchist camp since they do not share a
-concern for economic equality and social justice."_ [**Demanding the
-Impossible**, p. 565]
+concern for economic equality and social justice."_ [ **Demanding the
+Impossible** , p. 565]
 
 ## 1.1 Why is the failure to renounce hierarchy the Achilles Heel of right-
 wing libertarianism
@@ -437,8 +438,8 @@ dangers, see the [next section](append131.md#secf13)). Robert Nozick, for
 example, in **Anarchy, State, and Utopia** makes no attempt to provide a
 justification of the property rights his whole theory is based upon. His main
 assumption is that _"[i]ndividuals have rights, and there are certain things
-no person or group may do to them (without violating their rights)."_
-[**Anarchy, State and Utopia**, p. ix] While this does have its intuitive
+no person or group may do to them (without violating their rights)."_ [
+**Anarchy, State and Utopia** , p. ix] While this does have its intuitive
 appeal, it is not much to base a political ideology upon. After all, what
 rights people consider as valid can be pretty subjective and have constantly
 evolved during history. To say that "individuals have rights" is to open up
@@ -457,16 +458,16 @@ assumptions are what matter. Nozick's intuitive rights system can lead to some
 very non-intuitive outcomes.
 
 And does Nozick prove the theory of property rights he assumes? He states that
-_"we shall not formulate [it] here."_ [**Op. Cit.**, p. 150] Moreover, it is
+_"we shall not formulate [it] here."_ [ **Op. Cit.** , p. 150] Moreover, it is
 not formulated anywhere else in his book. And if it is not formulated, what is
 there to defend? Surely this means that his Libertarianism is without
 foundations? As Jonathan Wolff notes, Nozick's _"Libertarian property rights
-remain substantially undefended."_ [**Robert Nozick: Property, Justice and the
-Minimal State**, p. 117] Given that the right to acquire property is critical
-to his whole theory you would think it important enough to go into in some
-detail (or at least document). After all, unless he provides us with a firm
-basis for property rights then his entitlement theory is nonsense as no one
-has the right to (private) property.
+remain substantially undefended."_ [ **Robert Nozick: Property, Justice and
+the Minimal State** , p. 117] Given that the right to acquire property is
+critical to his whole theory you would think it important enough to go into in
+some detail (or at least document). After all, unless he provides us with a
+firm basis for property rights then his entitlement theory is nonsense as no
+one has the right to (private) property.
 
 It could be argued that Nozick **does** present enough information to allow us
 to piece together a possible argument in favour of property rights based on
@@ -495,14 +496,15 @@ importantly, can have negative effects on maximising liberty. This is because
 this "methodology" has distinct problems. Murray Bookchin argues:
 
 > _"Conventional reason rests on identity, not change; its fundamental
-principle is that **A equals A,** the famous 'principle of identity,' which
-means that any given phenomenon can be only itself and cannot be other than
-what we immediately perceive it to be at a given moment in time. It does not
-address the problem of change. A human being is an infant at one time, a child
-at another, an adolescent at still another, and finally a youth and an adult.
-When we analyse an infant by means of conventional reason, we are not
-exploring what it is **becoming** in the process of developing into a child."_
-[_"A Philosophical Naturalism"_, **Society and Nature** No.2, p. 64]
+> principle is that **A equals A,** the famous 'principle of identity,' which
+> means that any given phenomenon can be only itself and cannot be other than
+> what we immediately perceive it to be at a given moment in time. It does not
+> address the problem of change. A human being is an infant at one time, a
+> child at another, an adolescent at still another, and finally a youth and an
+> adult. When we analyse an infant by means of conventional reason, we are not
+> exploring what it is **becoming** in the process of developing into a
+> child."_ [ _"A Philosophical Naturalism"_ , **Society and Nature** No.2, p.
+> 64]
 
 In other words, right-Libertarian theory is based upon ignoring the
 fundamental aspect of life - namely **change** and **evolution.** Perhaps it
@@ -517,7 +519,7 @@ That change is far from the "A is A" mentality can be seen from Murray
 Rothbard who goes so far as to state that _"one of the notable attributes of
 natural law"_ is _"its applicability to all men [sic!], regardless of time or
 place. Thus ethical law takes its place alongside physical or 'scientific'
-natural laws."_ [**The Ethics of Liberty**, p. 42] Apparently the "nature of
+natural laws."_ [ **The Ethics of Liberty** , p. 42] Apparently the "nature of
 man" is the only living thing in nature that does not evolve or change! Of
 course, it could be argued that by "natural law" Rothbard is only referring to
 his method of deducing his (and, we stress, they are just his -- not natural)
@@ -534,7 +536,7 @@ axiom "A is A" or that "man" has certain rights simply because "he" is a
 "man". And as Bookchin points out, such conventional reason _"doubtless plays
 an indispensable role in mathematical thinking and mathematical sciences . . .
 and in the nuts-and-bolts of dealing with everyday life"_ and so is essential
-to _"understand or design mechanical entities."_ [**Ibid.**, p.67] But the
+to _"understand or design mechanical entities."_ [ **Ibid.** , p.67] But the
 question arises, is such reason useful when considering people and other forms
 of life?
 
@@ -559,17 +561,17 @@ of people as means to an end as opposed to an end in themselves (see sections
 
 And as Bookchin points out, _"in an age of sharply conflicting values and
 emotionally charges ideals, such a way of reasoning is often repellent.
-Dogmatism, authoritarianism, and fear seem all-pervasive."_ [**Ibid.**, p. 68]
-Right-Libertarianism provides more than enough evidence for Bookchin's summary
-with its support for authoritarian social relationships, hierarchy and even
-slavery (see [section 2](append132.md)).
+Dogmatism, authoritarianism, and fear seem all-pervasive."_ [ **Ibid.** , p.
+68] Right-Libertarianism provides more than enough evidence for Bookchin's
+summary with its support for authoritarian social relationships, hierarchy and
+even slavery (see [section 2](append132.md)).
 
 This mechanical viewpoint is also reflected in their lack of appreciation that
 social institutions and relationships evolve over time and, sometimes,
 fundamentally change. This can best be seen from property. Right-libertarians
 fail to see that over time (in the words of Proudhon) property _"changed its
 nature."_ Originally, _"the word **property** was synonymous with . . .
-**individual possession**"_ but it became more _"complex"_ and turned into
+**individual possession** "_ but it became more _"complex"_ and turned into
 **private property** \-- _"the right to use it by his neighbour's labour."_
 The changing of use-rights to (capitalist) property rights created relations
 of domination and exploitation between people absent before. For the right-
@@ -583,18 +585,18 @@ had with oppression (indeed, von Mises argued that _"[t]here may possibly be a
 difference of opinion about whether a particular institution is socially
 beneficial or harmful. But once it has been judged [by whom, we ask]
 beneficial, one can no longer contend that, for some inexplicable reason, it
-must be condemned as immoral"_ [**Liberalism**, p. 34] So much for evolution
+must be condemned as immoral"_ [ **Liberalism** , p. 34] So much for evolution
 and change!).
 
 Anarchism, in contrast, is based upon the importance of critical thought
 informed by an awareness that life is in a constant process of change. This
 means that our ideas on human society must be informed by the facts, not by
 what we wish was true. For Bookchin, an evaluation of conventional wisdom (as
-expressed in _"the law of identity"_) is essential and its conclusions have
+expressed in _"the law of identity"_ ) is essential and its conclusions have
 _"enormous importance for how we behave as ethical beings, the nature of
 nature, and our place in the natural world. Moreover. . . these issues
 directly affect the kind of society, sensibility, and lifeways we wish to
-foster."_ [Bookchin, **Op. Cit.**, p. 69-70]
+foster."_ [Bookchin, **Op. Cit.** , p. 69-70]
 
 Bookchin is correct. While anarchists oppose hierarchy in the name of liberty,
 right-libertarians support authority and hierarchy, all of which deny freedom
@@ -618,24 +620,24 @@ than investments in capital and the person who owns capital commands the
 person who "only" owns his life and productive abilities. And as Oscar Wilde
 once noted, crimes against property _"are the crimes that the English law,
 valuing what a man has more than what a man is, punishes with the harshest and
-most horrible severity."_ [**The Soul of Man Under Socialism**]
+most horrible severity."_ [ **The Soul of Man Under Socialism** ]
 
 This mentality is reflected in right-libertarianism when it claims that
 stealing food is a crime while starving to death (due to the action of market
 forces/power and property rights) is no infringement of your rights (see
 [section 4.2](append134.md#secf42) for a similar argument with regards to
 water). It can also be seen when right-libertarian's claim that the taxation
-_"of earnings from labour"_ (e.g. of one dollar from a millionaire) is _"**on
-a par with** forced labour"_ [Nozick, **Op. Cit.**, p. 169] while working in a
-sweatshop for 14 hours a day (enriching said millionaire) does not affect your
-liberty as you "consent" to it due to market forces (although, of course, many
-rich people have earned their money **without** labouring themselves -- their
-earnings derive from the wage labour of others so would taxing those, non-
-labour, earnings be "forced labour"?) Interestingly, the Individualist
+_"of earnings from labour"_ (e.g. of one dollar from a millionaire) is _" **on
+a par with** forced labour"_ [Nozick, **Op. Cit.** , p. 169] while working in
+a sweatshop for 14 hours a day (enriching said millionaire) does not affect
+your liberty as you "consent" to it due to market forces (although, of course,
+many rich people have earned their money **without** labouring themselves --
+their earnings derive from the wage labour of others so would taxing those,
+non-labour, earnings be "forced labour"?) Interestingly, the Individualist
 Anarchist Ben Tucker argued that an income tax was _"a recognition of the fact
 that industrial freedom and equality of opportunity no longer exist here [in
 the USA in the 1890s] even in the imperfect state in which they once did
-exist"_ [quoted by James Martin, **Men Against the State**, p. 263] which
+exist"_ [quoted by James Martin, **Men Against the State** , p. 263] which
 suggests a somewhat different viewpoint on this matter than Nozick or
 Rothbard.
 
@@ -652,8 +654,8 @@ and it comes before life (i.e. "labour").
 
 As Bakunin once put it, _"you will always find the idealists in the very act
 of practical materialism, while you will see the materialists pursuing and
-realising the most grandly ideal aspirations and thoughts."_ [**God and the
-State**, p. 49] Hence we see right "libertarians" supporting sweat shops and
+realising the most grandly ideal aspirations and thoughts."_ [ **God and the
+State** , p. 49] Hence we see right "libertarians" supporting sweat shops and
 opposing taxation -- for, in the end, money (and the power that goes with it)
 counts far more in that ideology than ideals such as liberty, individual
 dignity, empowering, creative and productive work and so forth for all. The
@@ -683,10 +685,10 @@ if they are accurate. Anarchists tend to fall into the inductive camp, as
 Kropotkin put it:
 
 > _"Precisely this natural-scientific method applied to economic facts,
-enables us to prove that the so-called 'laws' of middle-class sociology,
-including also their political economy, are not laws at all, but simply
-guesses, or mere assertions which have never been verified at all."_
-[**Kropotkin's Revolutionary Pamphlets**, p. 153]
+> enables us to prove that the so-called 'laws' of middle-class sociology,
+> including also their political economy, are not laws at all, but simply
+> guesses, or mere assertions which have never been verified at all."_ [
+> **Kropotkin's Revolutionary Pamphlets** , p. 153]
 
 The idea that natural-scientific methods can be applied to economic and social
 life is one that many right-libertarians reject. Instead they favour the
@@ -702,7 +704,7 @@ approach (Murray Rothbard for one did) but its use by so many leading lights
 of both schools of thought is significant and worthy of comment. And as we are
 concentrating on **methodology** it is not essential to discuss the starting
 assumptions. The assumptions (such as, to use Rothbard's words, the Austrian's
-_"fundamental axiom that individual human beings act"_) may be correct,
+_"fundamental axiom that individual human beings act"_ ) may be correct,
 incorrect or incomplete -- but the method of using them advocated by von Mises
 ensures that such considerations are irrelevant.
 
@@ -720,41 +722,41 @@ are logically prior to it and cannot be either proved by corroborative
 experience or disproved by experience to the contrary . . ."_
 
 And if this does not do justice to a full exposition of the phantasmagoria of
-von Mises' _a priorism_, the reader may take some joy (or horror) from the
+von Mises' _a priorism_ , the reader may take some joy (or horror) from the
 following statement:
 
 > _"If a contradiction appears between a theory and experience, **we must
-always assume** that a condition pre-supposed by the theory was not present,
-or else there is some error in our observation. The disagreement between the
-theory and the facts of experience frequently forces us to think through the
-problems of the theory again. **But so long as a rethinking of the theory
-uncovers no errors in our thinking, we are not entitled to doubt its truth**"_
-[emphasis added -- the quotes presented here are cited in **Ideology and
-Method in Economics** by Homa Katouzian, pp. 39-40]
+> always assume** that a condition pre-supposed by the theory was not present,
+> or else there is some error in our observation. The disagreement between the
+> theory and the facts of experience frequently forces us to think through the
+> problems of the theory again. **But so long as a rethinking of the theory
+> uncovers no errors in our thinking, we are not entitled to doubt its truth**
+> "_ [emphasis added -- the quotes presented here are cited in **Ideology and
+> Method in Economics** by Homa Katouzian, pp. 39-40]
 
 In other words, if reality is in conflict with your ideas, do not adjust your
 views because reality must be at fault! The scientific method would be to
 revise the theory in light of the facts. It is not scientific to reject the
 facts in light of the theory! This anti-scientific perspective is at the heart
 of his economics as experience _"can never . . . prove or disprove any
-particular theorem"_:
+particular theorem"_ :
 
-> _ "What assigns economics to its peculiar and unique position in the orbit
-of pure knowledge and of the practical utilisation of knowledge is the fact
-that its particular theorems are not open to any verification or falsification
-on the grounds of experience . . .. . . The ultimate yardstick of an economic
-theorem's correctness or incorrectness is solely reason unaided by
-experience."_ [**Human Action**, p. 858]
+> _"What assigns economics to its peculiar and unique position in the orbit of
+> pure knowledge and of the practical utilisation of knowledge is the fact
+> that its particular theorems are not open to any verification or
+> falsification on the grounds of experience . . .. . . The ultimate yardstick
+> of an economic theorem's correctness or incorrectness is solely reason
+> unaided by experience."_ [ **Human Action** , p. 858]
 
 Von Mises rejects the scientific approach as do all Austrian Economists.
 Murray Rothbard states approvingly that _"Mises indeed held not only that
 economic theory does not need to be 'tested' by historical fact but also that
-it **cannot** be so tested."_ [_"Praxeology: The Methodology of Austrian
-Economics"_ in **The Foundation of Modern Austrian Economics**, p. 32]
+it **cannot** be so tested."_ [ _"Praxeology: The Methodology of Austrian
+Economics"_ in **The Foundation of Modern Austrian Economics** , p. 32]
 Similarly, von Hayek wrote that economic theories can _"never be verified or
 falsified by reference to facts. All that we can and must verify is the
-presence of our assumptions in the particular case."_ [**Individualism and
-Economic Order**, p. 73]
+presence of our assumptions in the particular case."_ [ **Individualism and
+Economic Order** , p. 73]
 
 This may seen somewhat strange to non-Austrians. How can we ignore reality
 when deciding whether a theory is a good one or not? If we cannot evaluate our
@@ -762,7 +764,7 @@ ideas, how can we consider them anything bar dogma? The Austrian's maintain
 that we cannot use historical evidence because every historical situation is
 unique. Thus we cannot use _"complex heterogeneous historical facts as if they
 were repeatable homogeneous facts"_ like those in a scientist's experiment
-[Rothbard, **Op. Cit.**, p. 33]. While such a position **does** have an
+[Rothbard, **Op. Cit.** , p. 33]. While such a position **does** have an
 element of truth about it, the extreme _a priorism_ that is drawn from this
 element is radically false (just as extreme empiricism is also false, but for
 different reasons).
@@ -770,8 +772,8 @@ different reasons).
 Those who hold such a position ensure that their ideas cannot be evaluated
 beyond logical analysis. As Rothbard makes clear, _"since praxeology begins
 with a true axiom, A, all that can be deduced from this axiom must also be
-true. For if A implies be, and A is true, then B must also be true."_ [**Op.
-Cit.**, pp. 19-20] But such an approach makes the search for truth a game
+true. For if A implies be, and A is true, then B must also be true."_ [ **Op.
+Cit.** , pp. 19-20] But such an approach makes the search for truth a game
 without rules. The Austrian economists (and other right-libertarians) who use
 this method are free to theorise anything they want, without such irritating
 constrictions as facts, statistics, data, history or experimental
@@ -789,7 +791,7 @@ methodology is such that incomplete or incorrect assumptions or steps cannot
 be identified in light of experience. This is because one way of discovering
 if a given chain of logic requires checking is to test its conclusions against
 available evidence (although von Mises did argue that the _"ultimate
-yardstick"_ was _"solely reason unaided by experience"_). If we **do** take
+yardstick"_ was _"solely reason unaided by experience"_ ). If we **do** take
 experience into account and rethink a given theory in the light of
 contradictory evidence, the problem remains that a given logical chain may be
 correct, but incomplete or concentrate on or stress inappropriate factors. In
@@ -965,7 +967,7 @@ religious nature of the "Natural Law" argument so loved by the theorists of
 the "Radical Right." She notes that for Locke (the main source of the
 Libertarian Right's Natural Law cult) _"natural law"_ was equivalent of
 _"God's Law"_ and that _"God's law exists externally to and independently of
-individuals."_ [**The Problem of Political Obligation**, p. 154] No role for
+individuals."_ [ **The Problem of Political Obligation** , p. 154] No role for
 critical thought there, only obedience. Most modern day "Natural Law"
 supporters forget to mention this religious undercurrent and instead talk of
 about "Nature" (or "the market") as the deity that creates Law, not God, in
@@ -975,9 +977,9 @@ Such a basis in dogma and religion can hardly be a firm foundation for liberty
 and indeed "Natural Law" is marked by a deep authoritarianism:
 
 > _"Locke's traditional view of natural law provided individual's with an
-external standard which they could recognise, but which they did not
-voluntarily choose to order their political life."_ [Pateman, **Op. Cit.**, p.
-79]
+> external standard which they could recognise, but which they did not
+> voluntarily choose to order their political life."_ [Pateman, **Op. Cit.** ,
+> p. 79]
 
 In [section 11](append1311.md) we discuss the authoritarian nature of
 "Natural Law" and will not do so here. However, here we must point out the
@@ -989,8 +991,8 @@ to present-day arguments for a right of civil disobedience. . . His theory
 allows for two alternatives only: either people go peacefully about their
 daily affairs under the protection of a liberal, constitutional government, or
 they are in revolt against a government which has ceased to be 'liberal' and
-has become arbitrary and tyrannical, so forfeiting its right to obedience."_
-[**Op. Cit.**, p. 77]
+has become arbitrary and tyrannical, so forfeiting its right to obedience."_ [
+**Op. Cit.** , p. 77]
 
 Locke's "rebellion" exists purely to reform a **new** 'liberal' government,
 not to change the existing socio-economic structure which the 'liberal'
@@ -1004,10 +1006,10 @@ jurists and lawyers, not ordinary people (see [section
 should have a say in forming them is rejected in favour of elite rule. As von
 Mises put it:
 
-> _ "The flowering of human society depends on two factors: the intellectual
-power of outstanding men to conceive sound social and economic theories, and
-the ability of these or other men to make these ideologies palatable to the
-majority."_ [**Human Action**, p. 864]
+> _"The flowering of human society depends on two factors: the intellectual
+> power of outstanding men to conceive sound social and economic theories, and
+> the ability of these or other men to make these ideologies palatable to the
+> majority."_ [ **Human Action** , p. 864]
 
 Yet such a task would require massive propaganda work and would only,
 ultimately, succeed by removing the majority from any say in the running of
@@ -1067,26 +1069,27 @@ constants in human action, nor is it necessary because theorems themselves
 describe relationships logically developed from hypothesised conditions.
 Failure of a logically derived axiom to fit the facts does not render it
 invalid, rather it 'might merely indicate inapplicability' to the
-circumstances of the case.'"_ [**Markets, Entrepreneurs and Liberty**, p. 31]
+circumstances of the case.'"_ [ **Markets, Entrepreneurs and Liberty** , p.
+31]
 
 So, if facts confirm your theory, your theory is right. If facts do not
 confirm your theory, it is still right but just not applicable in this case!
 Which has the handy side effect of ensuring that facts can **only** be used to
 support the ideology, **never** to refute it (which is, according to this
 perspective, impossible anyway). As Karl Popper argued, a _"theory which is
-not refutable by any conceivable event is non-scientific."_ [**Conjectures and
-Refutations**, p. 36] In other words (as we noted above), if reality
+not refutable by any conceivable event is non-scientific."_ [ **Conjectures
+and Refutations** , p. 36] In other words (as we noted above), if reality
 contradicts your theory, ignore reality!
 
 Kropotkin hoped _"that those who believe in [current economic doctrines] will
 themselves become convinced of their error as soon as they come to see the
 necessity of verifying their quantitative deductions by quantitative
-investigation."_ [**Op. Cit.**, p. 178] However, the Austrian approach builds
-so many barriers to this that it is doubtful that this will occur. Indeed,
-right-libertarianism, with its focus on exchange rather than its consequences,
-seems to be based upon justifying domination in terms of their deductions than
-analysing what freedom actually means in terms of human existence (see
-[section 2](append132.md) for a fuller discussion).
+investigation."_ [ **Op. Cit.** , p. 178] However, the Austrian approach
+builds so many barriers to this that it is doubtful that this will occur.
+Indeed, right-libertarianism, with its focus on exchange rather than its
+consequences, seems to be based upon justifying domination in terms of their
+deductions than analysing what freedom actually means in terms of human
+existence (see [section 2](append132.md) for a fuller discussion).
 
 The real question is why are such theories taken seriously and arouse such
 interest. Why are they not simply dismissed out of hand, given their
@@ -1095,7 +1098,7 @@ part, that feeble arguments can easily pass for convincing when they are on
 the same side as the prevailing sentiment and social system. And, of course,
 there is the utility of such theories for ruling elites - _"[a]n ideological
 defence of privileges, exploitation, and private power will be welcomed,
-regardless of its merits."_ [Noam Chomsky, **The Chomsky Reader**, p. 188]
+regardless of its merits."_ [Noam Chomsky, **The Chomsky Reader** , p. 188]
 
 ##  1.4 Is "anarcho"-capitalism a new form of individualist anarchism?
 
@@ -1109,8 +1112,8 @@ have certain differences."_ Somewhat incredibly Rothbard argued that on the
 whole politically _"these differences are minor,"_ economically _"the
 differences are substantial, and this means that my view of the consequences
 of putting our more of less common system into practice is very far from
-theirs."_ [_"The Spooner-Tucker Doctrine: An Economist's View"_, **Journal of
-Libertarian Studies**, vol. 20, no. 1, p. 7]
+theirs."_ [ _"The Spooner-Tucker Doctrine: An Economist's View"_ , **Journal
+of Libertarian Studies** , vol. 20, no. 1, p. 7]
 
 What an understatement! Individualist anarchists advocated an economic system
 in which there would have been very little inequality of wealth and so of
@@ -1124,8 +1127,8 @@ isolated from economics. As David Wieck put it, Rothbard _"writes of society
 as though some part of it (government) can be extracted and replaced by
 another arrangement while other things go on before, and he constructs a
 system of police and judicial power without any consideration of the influence
-of historical and economic context."_ [_"Anarchist Justice,"_ in **Nomos
-XIX**, Pennock and Chapman, eds., p. 227]
+of historical and economic context."_ [ _"Anarchist Justice,"_ in **Nomos
+XIX** , Pennock and Chapman, eds., p. 227]
 
 Unsurprisingly, the political differences he highlights **are** significant,
 namely _"the role of law and the jury system"_ and _"the land question."_ The
@@ -1137,12 +1140,12 @@ well as the facts, modifying the former as society changes and evolves. For
 Rothbard, the idea that ordinary people should have a say in the law is
 dismissed. Rather, _"it would not be a very difficult task for Libertarian
 lawyers and jurists to arrive at a rational and objective code of libertarian
-legal principles and procedures."_ [**Op. Cit.**, p. 7-8] Of course, the fact
-that _"lawyers"_ and _"jurists"_ may have a radically different idea of what
-is just than those subject to their laws is not raised by Rothbard, never mind
-answered. While Rothbard notes that juries may defend the people against the
-state, the notion that they may defend the people against the authority and
-power of the rich is not even raised. That is why the rich have tended to
+legal principles and procedures."_ [ **Op. Cit.** , p. 7-8] Of course, the
+fact that _"lawyers"_ and _"jurists"_ may have a radically different idea of
+what is just than those subject to their laws is not raised by Rothbard, never
+mind answered. While Rothbard notes that juries may defend the people against
+the state, the notion that they may defend the people against the authority
+and power of the rich is not even raised. That is why the rich have tended to
 oppose juries as well as popular assemblies.
 
 Unsurprisingly, the few individualist anarchists that remained pointed this
@@ -1150,23 +1153,23 @@ out. Laurance Labadie, the son of Tucker associate Joseph Labadie, argued in
 response to Rothbard as follows:
 
 > _"Mere common sense would suggest that any court would be influenced by
-experience; and any free-market court or judge would in the very nature of
-things have some precedents guiding them in their instructions to a jury. But
-since no case is exactly the same, a jury would have considerable say about
-the heinousness of the offence in each case, realising that circumstances
-alter cases, and prescribing penalty accordingly. This appeared to Spooner and
-Tucker to be a more flexible and equitable administration of justice possible
-or feasible, human beings being what they are.. . . _
-
+> experience; and any free-market court or judge would in the very nature of
+> things have some precedents guiding them in their instructions to a jury.
+> But since no case is exactly the same, a jury would have considerable say
+> about the heinousness of the offence in each case, realising that
+> circumstances alter cases, and prescribing penalty accordingly. This
+> appeared to Spooner and Tucker to be a more flexible and equitable
+> administration of justice possible or feasible, human beings being what they
+> are.. . ._
 >
-
 > _"But when Mr. Rothbard quibbles about the jurisprudential ideas of Spooner
-and Tucker, and at the same time upholds **presumably in his courts** the very
-economic evils which are at bottom the very reason for human contention and
-conflict, he would seem to be a man who chokes at a gnat while swallowing a
-camel."_ [quoted by Mildred J. Loomis and Mark A. Sullivan, _"Laurance
-Labadie: Keeper Of The Flame"_, pp. 116-30, **Benjamin R. Tucker and the
-Champions of Liberty**, Coughlin, Hamilton and Sullivan (eds.), p. 124]
+> and Tucker, and at the same time upholds **presumably in his courts** the
+> very economic evils which are at bottom the very reason for human contention
+> and conflict, he would seem to be a man who chokes at a gnat while
+> swallowing a camel."_ [quoted by Mildred J. Loomis and Mark A. Sullivan,
+> _"Laurance Labadie: Keeper Of The Flame"_ , pp. 116-30, **Benjamin R. Tucker
+> and the Champions of Liberty** , Coughlin, Hamilton and Sullivan (eds.), p.
+> 124]
 
 In other words, to exclude the general population from any say in the law and
 how it changes is hardly a _"minor"_ difference! Particularly if you are
@@ -1182,11 +1185,11 @@ judge not only the facts but the law, the justice of the law, its
 applicability to the given circumstances, and the penalty or damage to be
 inflicted because of its infraction . . . under Anarchism the law . . . will
 be regarded as **just** in proportion to its flexibility, instead of now in
-proportion to its rigidity."_ [**The Individualist Anarchists**, pp. 160-1] In
-others, the law will evolve to take into account changing social circumstances
-and, as a consequence, public opinion on specific events and rights. Tucker's
-position is fundamentally **democratic** and evolutionary while Rothbard's is
-autocratic and fossilised.
+proportion to its rigidity."_ [ **The Individualist Anarchists** , pp. 160-1]
+In others, the law will evolve to take into account changing social
+circumstances and, as a consequence, public opinion on specific events and
+rights. Tucker's position is fundamentally **democratic** and evolutionary
+while Rothbard's is autocratic and fossilised.
 
 On the land question, Rothbard opposed the individualist position of
 "occupancy and use" as it _"would automatically abolish all rent payments for
@@ -1202,10 +1205,10 @@ proclaimed anarchist book was written to refute that kind of theory. His
 argument simply shows how far from anarchism his ideology is. For Rothbard, it
 goes without saying that the landlord's _"freedom of contract"_ tops the
 worker's freedom to control their own work and live and, of course, their
-right to life. [**Op. Cit.**, p. 8 and p. 9] However, for anarchists, _"the
+right to life. [ **Op. Cit.** , p. 8 and p. 9] However, for anarchists, _"the
 land is indispensable to our existence, consequently a common thing,
 consequently insusceptible of appropriation."_ [Proudhon, **What is
-Property?**, p. 107]
+Property?** , p. 107]
 
 The reason question is why Rothbard considers this a **political** difference
 rather than an economic one. Unfortunately, he does not explain. Perhaps
@@ -1220,15 +1223,15 @@ over the land **and** those who used it? As we noted in [section
 there **is** a political aspect to this difference.
 
 Moreover. _"the expropriation of the mass of the people from the soil forms
-the basis of the capitalist mode of production."_ [Marx, **Capital**, vol. 1,
+the basis of the capitalist mode of production."_ [Marx, **Capital** , vol. 1,
 p. 934] For there are _"two ways of oppressing men: either directly by brute
 force, by physical violence; or indirectly by denying them the means of life
 and this reducing them to a state of surrender."_ In the second case,
 government is _"an organised instrument to ensure that dominion and privilege
 will be in the hands of those who . . . have cornered all the means of life,
 first and foremost the land, which they make use of to keep the people in
-bondage and to make them work for their benefit."_ [Malatesta, **Anarchy**, p.
-21] Privatising the coercive functions of said government hardly makes much
+bondage and to make them work for their benefit."_ [Malatesta, **Anarchy** ,
+p. 21] Privatising the coercive functions of said government hardly makes much
 difference.
 
 Of course, Rothbard is simply skimming the surface. There are two main ways
@@ -1244,12 +1247,12 @@ totally the ideas of anarchists with regards to property and economic
 analysis. For example, like all supporters of capitalists they consider rent,
 profit and interest as valid incomes. In contrast, all Anarchists consider
 these as exploitation and agree with the Individualist Anarchist Benjamin
-Tucker when he argued that _"**[w]hoever** contributes to production is alone
+Tucker when he argued that _" **[w]hoever** contributes to production is alone
 entitled. **What** has no rights that **who** is bound to respect. **What** is
 a thing. **Who** is a person. Things have no claims; they exist only to be
 claimed. The possession of a right cannot be predicted of dead material, but
 only a living person."_[quoted by Wm. Gary Kline, **The Individualist
-Anarchists**, p. 73]
+Anarchists** , p. 73]
 
 This, we must note, is the fundamental critique of the capitalist theory that
 capital is productive. In and of themselves, fixed costs do not create value.
@@ -1265,18 +1268,18 @@ this perspective.
 
 As these ideas are an **essential** part of anarchist politics, they cannot be
 removed without seriously damaging the rest of the theory. This can be seen
-from Tucker's comments that _"**Liberty** insists. . . [on] the abolition of
+from Tucker's comments that _" **Liberty** insists. . . [on] the abolition of
 the State and the abolition of usury; on no more government of man by man, and
 no more exploitation of man by man."_ [cited by Eunice Schuster in **Native
-American Anarchism**, p. 140]. He indicates that anarchism has specific
+American Anarchism** , p. 140]. He indicates that anarchism has specific
 economic **and** political ideas, that it opposes capitalism along with the
 state. Therefore anarchism was never purely a "political" concept, but always
 combined an opposition to oppression with an opposition to exploitation. The
 social anarchists made exactly the same point. Which means that when Tucker
-argued that _"**Liberty** insists on Socialism. . . - true Socialism,
+argued that _" **Liberty** insists on Socialism. . . - true Socialism,
 Anarchistic Socialism: the prevalence on earth of Liberty, Equality, and
-Solidarity"_ he knew exactly what he was saying and meant it wholeheartedly.
-[**Instead of a Book**, p. 363]
+Solidarity"_ he knew exactly what he was saying and meant it wholeheartedly. [
+**Instead of a Book** , p. 363]
 
 So because "anarcho"-capitalists embrace capitalism and reject socialism, they
 cannot be considered anarchists or part of the anarchist tradition.
@@ -1323,7 +1326,7 @@ great wealth or poverty. In the absence of monopolistic factors which would
 distort competition, they expected a society largely of self-employed workmen
 with no significant disparity of wealth between any of them since all would be
 required to live at their own expense and not at the expense of exploited
-fellow human beings."_ [**Op. Cit.**, pp. 103-4]
+fellow human beings."_ [ **Op. Cit.** , pp. 103-4]
 
 Because of the evil effects of inequality on freedom, both social and
 individualist anarchists desired to create an environment in which
@@ -1337,7 +1340,7 @@ least, aware that existing conditions were far from ideal, that the system
 itself working against the majority of individuals in their efforts to attain
 its promises. Lack of capital, the means to creation and accumulation of
 wealth, usually doomed a labourer to a life of exploitation. This the
-anarchists knew and they abhorred such a system."_ [**Op. Cit.**, p. 102]
+anarchists knew and they abhorred such a system."_ [ **Op. Cit.** , p. 102]
 
 And this desire for bargaining equality is reflected in their economic ideas
 and by removing these underlying economic ideas of the individualist
@@ -1367,24 +1370,20 @@ socialist (and many socialist are). This is because "markets" and "property"
 do not equate to capitalism:
 
 > _"Political economy confuses, on principle, two very different kinds of
-private property, one of which rests on the labour of the producers himself,
-and the other on the exploitation of the labour of others. It forgets that the
-latter is not only the direct antithesis of the former, but grows on the
-former's tomb and nowhere else. _
-
+> private property, one of which rests on the labour of the producers himself,
+> and the other on the exploitation of the labour of others. It forgets that
+> the latter is not only the direct antithesis of the former, but grows on the
+> former's tomb and nowhere else._
 >
-
 > _"In Western Europe, the homeland of political economy, the process of
-primitive accumulation is more of less accomplished. . . . _
-
+> primitive accumulation is more of less accomplished. . . ._
 >
-
 > _"It is otherwise in the colonies. There the capitalist regime constantly
-comes up against the obstacle presented by the producer, who, as owner of his
-own conditions of labour, employs that labour to enrich himself instead of the
-capitalist. The contradiction of these two diametrically opposed economic
-systems has its practical manifestation here in the struggle between them."_
-[Karl Marx, **Capital**, vol. 1, p. 931]
+> comes up against the obstacle presented by the producer, who, as owner of
+> his own conditions of labour, employs that labour to enrich himself instead
+> of the capitalist. The contradiction of these two diametrically opposed
+> economic systems has its practical manifestation here in the struggle
+> between them."_ [Karl Marx, **Capital** , vol. 1, p. 931]
 
 Individualist anarchism is obviously an aspect of this struggle between the
 system of peasant and artisan production of early America and the state
@@ -1404,21 +1403,22 @@ Marx's presented in chapter 33 of **Capital**. Marx, correctly, argues that
 _"the capitalist mode of production and accumulation, and therefore capitalist
 private property, have for their fundamental condition the annihilation of
 that private property which rests on the labour of the individual himself; in
-other words, the expropriation of the worker."_ [**Op. Cit.**, p. 940] He
+other words, the expropriation of the worker."_ [ **Op. Cit.** , p. 940] He
 notes that to achieve this, the state is used:
 
 > _"How then can the anti-capitalistic cancer of the colonies be healed? . . .
-Let the Government set an artificial price on the virgin soil, a price
-independent of the law of supply and demand, a price that compels the
-immigrant to work a long time for wages before he can earn enough money to buy
-land, and turn himself into an independent farmer."_ [**Op. Cit.**, p. 938]
+> Let the Government set an artificial price on the virgin soil, a price
+> independent of the law of supply and demand, a price that compels the
+> immigrant to work a long time for wages before he can earn enough money to
+> buy land, and turn himself into an independent farmer."_ [ **Op. Cit.** , p.
+> 938]
 
 Moreover, tariffs are introduced with _"the objective of manufacturing
 capitalists artificially"_ for the _"system of protection was an artificial
 means of manufacturing manufacturers, or expropriating independent workers, of
 capitalising the national means of production and subsistence, and of forcibly
 cutting short the transition . . . to the modern mode of production,"_ to
-capitalism [**Op. Cit.**, p. 932 and pp. 921-2]
+capitalism [ **Op. Cit.** , p. 932 and pp. 921-2]
 
 It is this process which Individualist Anarchism protested against, the use of
 the state to favour the rising capitalist class. However, unlike social
@@ -1435,13 +1435,13 @@ example, explicitly envisioned a society made up mostly entirely of self-
 employed workers). As Kline argues:
 
 > _"Committed as they were to equality in the pursuit of property, the
-objective for the anarchist became the construction of a society providing
-equal access to those things necessary for creating wealth. The goal of the
-anarchists who extolled mutualism and the abolition of all monopolies was,
-then, a society where everyone willing to work would have the tools and raw
-materials necessary for production in a non-exploitative system . . . the
-dominant vision of the future society . . . [was] underpinned by individual,
-self-employed workers."_ [**Op. Cit.**, p. 95]
+> objective for the anarchist became the construction of a society providing
+> equal access to those things necessary for creating wealth. The goal of the
+> anarchists who extolled mutualism and the abolition of all monopolies was,
+> then, a society where everyone willing to work would have the tools and raw
+> materials necessary for production in a non-exploitative system . . . the
+> dominant vision of the future society . . . [was] underpinned by individual,
+> self-employed workers."_ [ **Op. Cit.** , p. 95]
 
 As such, a limited amount of wage labour within a predominantly self-employed
 economy does not make a given society capitalist any more than a small amount
@@ -1456,8 +1456,8 @@ There is a _"constant transformation of wage-labourers into independent
 producers, who work for themselves instead of for capital"_ and so _"the
 degree of exploitation of the wage-labourer remain[s] indecently low."_ In
 addition, the _"wage-labourer also loses, along with the relation of
-dependence, the feeling of dependence on the abstemious capitalist."_ [**Op.
-Cit.**, pp. 935-6]
+dependence, the feeling of dependence on the abstemious capitalist."_ [ **Op.
+Cit.** , pp. 935-6]
 
 Saying that, as we discuss in [section G.4](secG4.md), individualist
 anarchist support for wage labour is at odds with the ideas of Proudhon and,
@@ -1496,17 +1496,17 @@ having on the economy were the source of much outrage in certain bourgeois
 circles:
 
 > _"Quite independently of these tendencies [of individualist anarchism] . . .
-the anti-state bourgeoisie (which is also anti-statist, being hostile to any
-social intervention on the part of the State to protect the victims of
-exploitation -- in the matter of working hours, hygienic working conditions
-and so on), and the greed of unlimited exploitation, had stirred up in England
-a certain agitation in favour of pseudo-individualism, an unrestrained
-exploitation. To this end, they enlisted the services of a mercenary pseudo-
-literature . . . which played with doctrinaire and fanatical ideas in order to
-project a species of 'individualism' that was absolutely sterile, and a
-species of 'non-interventionism' that would let a man die of hunger rather
-than offend his dignity."_ [Max Nettlau, **A Short History of Anarchism**, p.
-39]
+> the anti-state bourgeoisie (which is also anti-statist, being hostile to any
+> social intervention on the part of the State to protect the victims of
+> exploitation -- in the matter of working hours, hygienic working conditions
+> and so on), and the greed of unlimited exploitation, had stirred up in
+> England a certain agitation in favour of pseudo-individualism, an
+> unrestrained exploitation. To this end, they enlisted the services of a
+> mercenary pseudo-literature . . . which played with doctrinaire and
+> fanatical ideas in order to project a species of 'individualism' that was
+> absolutely sterile, and a species of 'non-interventionism' that would let a
+> man die of hunger rather than offend his dignity."_ [Max Nettlau, **A Short
+> History of Anarchism** , p. 39]
 
 This perspective can be seen when Tucker denounced Herbert Spencer as a
 champion of the capitalistic class for his vocal attacks on social legislation
@@ -1530,7 +1530,7 @@ would have succeeded without the bourgeois state; the fact is that all
 capitalist nations have relied on the machinery of government to create and
 preserve the political and legal environments required by their economic
 system."_ That, of course, has not stopped him _"critis[ing] others for being
-unhistorical."_ [Stephen L Newman, **Liberalism at Wit's End**, pp. 77-8 and
+unhistorical."_ [Stephen L Newman, **Liberalism at Wit's End** , pp. 77-8 and
 p. 79]
 
 In other words, there is substantial differences between the victims of a
@@ -1541,27 +1541,25 @@ individualist anarchism and the proto-"libertarian" capitalists of
 "voluntaryism":
 
 > _"[Auberon Herbert] believes in allowing people to retain all their
-possessions, no matter how unjustly and basely acquired, while getting them,
-so to speak, to swear off stealing and usurping and to promise to behave well
-in the future. We, on the other hand, while insisting on the principle of
-private property, in wealth honestly obtained under the reign of liberty, do
-not think it either unjust or unwise to dispossess the landlords who have
-monopolised natural wealth by force and fraud. We hold that the poor and
-disinherited toilers would be justified in expropriating, not alone the
-landlords, who notoriously have no equitable titles to their lands, but
-**all** the financial lords and rulers, all the millionaires and very wealthy
-individuals. . . . Almost all possessors of great wealth enjoy neither what
-they nor their ancestors rightfully acquired (and if Mr. Herbert wishes to
-challenge the correctness of this statement, we are ready to go with him into
-a full discussion of the subject). . . . _
-
+> possessions, no matter how unjustly and basely acquired, while getting them,
+> so to speak, to swear off stealing and usurping and to promise to behave
+> well in the future. We, on the other hand, while insisting on the principle
+> of private property, in wealth honestly obtained under the reign of liberty,
+> do not think it either unjust or unwise to dispossess the landlords who have
+> monopolised natural wealth by force and fraud. We hold that the poor and
+> disinherited toilers would be justified in expropriating, not alone the
+> landlords, who notoriously have no equitable titles to their lands, but
+> **all** the financial lords and rulers, all the millionaires and very
+> wealthy individuals. . . . Almost all possessors of great wealth enjoy
+> neither what they nor their ancestors rightfully acquired (and if Mr.
+> Herbert wishes to challenge the correctness of this statement, we are ready
+> to go with him into a full discussion of the subject). . . . _
 >
-
 > _"If he holds that the landlords are justly entitled to their lands, let him
-make a defence of the landlords or an attack on our unjust proposal."_ [quoted
-by Carl Watner, _"The English Individualists As They Appear In Liberty,"_ pp.
-191-211, **Benjamin R. Tucker and the Champions of Liberty**, Coughlin,
-Hamilton and Sullivan (eds.), pp. 199-200]
+> make a defence of the landlords or an attack on our unjust proposal."_
+> [quoted by Carl Watner, _"The English Individualists As They Appear In
+> Liberty,"_ pp. 191-211, **Benjamin R. Tucker and the Champions of Liberty**
+> , Coughlin, Hamilton and Sullivan (eds.), pp. 199-200]
 
 Significantly, Tucker and other individualist anarchists saw state
 intervention has a result of capital manipulating legislation to gain an
@@ -1585,13 +1583,13 @@ of property and then eliminating "force" simply means defending the power and
 privilege of ruling minorities:
 
 > _"The modern Individualism initiated by Herbert Spencer is, like the
-critical theory of Proudhon, a powerful indictment against the dangers and
-wrongs of government, but its practical solution of the social problem is
-miserable -- so miserable as to lead us to inquire if the talk of 'No force'
-be merely an excuse for supporting landlord and capitalist domination."_
-[**Act For Yourselves**, p. 98]
+> critical theory of Proudhon, a powerful indictment against the dangers and
+> wrongs of government, but its practical solution of the social problem is
+> miserable -- so miserable as to lead us to inquire if the talk of 'No force'
+> be merely an excuse for supporting landlord and capitalist domination."_ [
+> **Act For Yourselves** , p. 98]
 
-[‹ 0 Introduction](append13int.md "Go to previous page" ) [up](append13.md
-"Go to parent page" ) [2 What do "anarcho"-capitalists mean by "freedom"?
-›](append132.md "Go to next page" )
+[‹ 0 Introduction](append13int.md "Go to previous page") [up](append13.md
+"Go to parent page") [2 What do "anarcho"-capitalists mean by "freedom"?
+›](append132.md "Go to next page")
 

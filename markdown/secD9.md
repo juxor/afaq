@@ -77,7 +77,7 @@ thanks also to Bush, yet another new instrument of arbitrary presidential
 power has been created: the "tsar," a presidential appointee with vague,
 sweeping charges that overlap with or supersede the powers of department
 heads. [Michael Lind, _"The Case for Congressional Power: the Out-of-Control
-Presidency,"_ **The New Republic**, Aug. 14, 1995]
+Presidency,"_ **The New Republic** , Aug. 14, 1995]
 
 Thus we find administrations bypassing or weakening official government
 agencies or institutions to implement policies that are not officially
@@ -117,7 +117,7 @@ impartial jury, restricting access to lawyers and knowledge of evidence and
 charges against the accused. He has regularly stated when signing legislation
 that he will assert the right to ignore those parts of laws with which he
 disagrees. His administration has adopted policies which have ignored the
-Geneva Convention (labelled as _"quaint"_) and publicly tolerated torture of
+Geneva Convention (labelled as _"quaint"_ ) and publicly tolerated torture of
 suspects and prisoners of war. That this underlying authoritarianism of
 politicians is often belied by their words should go without saying (an
 obvious fact, somehow missed by the mainstream media, which made satire
@@ -134,7 +134,7 @@ cares of government and to whom in turn it will submit. As long as we confide
 to a small group all the economic, political, military, financial and
 industrial prerogatives with which we arm them today, this small group will
 necessarily be inclined . . . to submit to a single chief."_ [Kropotkin, **Op.
-Cit.**, p. 128] As such, there are institutional forces at work within the
+Cit.** , p. 128] As such, there are institutional forces at work within the
 government organisational structure which encourage these tendencies and as
 long as they find favour with business interests they will not be challenged.
 
@@ -153,9 +153,9 @@ _"extensive gerrymandering to prevent competition for seats in the House, the
 most democratic of government institutions and therefore the most worrisome,"_
 while congress has been _"geared to implementing the pro-business policies"_
 and the White House has been reconstructed into top-down systems, in a similar
-way to that of a corporation (_"In structure, the political counterpart to a
-corporation is a totalitarian state."_) [**Op. Cit.**, p. 218, p. 237 and p.
-238]
+way to that of a corporation ( _"In structure, the political counterpart to a
+corporation is a totalitarian state."_ ) [ **Op. Cit.** , p. 218, p. 237 and
+p. 238]
 
 The aim is to exclude the general politic from civil society, creating Locke's
 system of rule by property owners only. As one expert (and critic) on Locke
@@ -168,14 +168,14 @@ actual work in a capitalist firm, but they _"cannot take part in the operation
 of the company at the same level as the owners."_ Thus the ideal (classical)
 "liberal" state is a _"joint-stock company of owners whose majority decision
 binds not only themselves but also their employees."_ [C. B. MacPherson, **The
-Political Theory of Possessive Individualism**, p. 248, p. 249 and p. 251] The
-aim of significant sections of the right and the ruling class is to achieve
-this goal within the context of a nominally democratic state which, on paper,
-allows significant civil liberties but which, in practice, operates like a
-corporation. Liberty for the many will be reduced to market forms, the ability
-to buy and sell, within the rules designed by and for the property owners.
-Centralised state power within an overall authoritarian social culture is the
-best way to achieve this aim.
+Political Theory of Possessive Individualism** , p. 248, p. 249 and p. 251]
+The aim of significant sections of the right and the ruling class is to
+achieve this goal within the context of a nominally democratic state which, on
+paper, allows significant civil liberties but which, in practice, operates
+like a corporation. Liberty for the many will be reduced to market forms, the
+ability to buy and sell, within the rules designed by and for the property
+owners. Centralised state power within an overall authoritarian social culture
+is the best way to achieve this aim.
 
 It should be stressed that the rise of inequality and centralised state power
 has came about by design, not by accident. Both trends delight the rich and
@@ -204,8 +204,8 @@ local governments (like the Greater London Council) which were opposed to the
 policies of the central government. They controlled the rest by removing their
 power to raise their own funds, which destroyed their local autonomy. The net
 effect of neo-liberal reforms was that Britain became _"ever more
-centralised"_ and local government was _"fragmenting and weakening."_
-[**Dancing with Dogma**, p. 261, p. 262 and p. 269]
+centralised"_ and local government was _"fragmenting and weakening."_ [
+**Dancing with Dogma** , p. 261, p. 262 and p. 269]
 
 This reversal of what, traditionally, conservatives and even liberals had
 argued had its roots in the "free market" capitalist ideology. For _"[n]othing
@@ -219,7 +219,7 @@ state is an unbending if not dictatorial venture which demands the prevention
 of collective action and the submission of dissenting institutions and
 individuals."_ Thus rhetoric about "liberty" and rolling back the state can
 easily be _"combined in practice with centralisation and the expansion of the
-state's frontiers."_ [**Op. Cit.**, pp. 273-4 and p. 273] A similar process
+state's frontiers."_ [ **Op. Cit.** , pp. 273-4 and p. 273] A similar process
 occurred under Reagan in America.
 
 As Chomsky stresses, the _"antidemocratic thrust has precedents, of course,
@@ -229,8 +229,8 @@ approach caricature, their policies serve the serve the substantial people --
 in fact, an unusually narrow sector of them -- and disregard or harm the
 underlying population and future generations. They are also seeking to use
 their current opportunities to institutionalise these arrangements, so that it
-will be no small task to reconstruct a more humane and democratic society."_
-[**Op. Cit.**, p. 238 and p. 236] As we noted in [section D.1](secD1.md),
+will be no small task to reconstruct a more humane and democratic society."_ [
+**Op. Cit.** , p. 238 and p. 236] As we noted in [section D.1](secD1.md),
 the likes of Reagan, Thatcher and Bush do not appear by accident. They and the
 policies they implement reflect the interests of significant sectors of the
 ruling elite and their desires. These will not disappear if different, more
@@ -247,7 +247,7 @@ Republican, most of them have graduated from the same Ivy League schools,
 belong to the same exclusive social clubs, serve on the same interlocking
 boards of directors of the same major corporations, and send their children to
 the same private boarding schools (see G. William Domhoff, **Who Rules America
-Now?** and C. Wright Mills, **The Power Elite**). Perhaps most importantly,
+Now?** and C. Wright Mills, **The Power Elite** ). Perhaps most importantly,
 they share the same psychology, which means that they have the same priorities
 and interests: namely, those of corporate America. That the Democrats are
 somewhat more dependent and responsive to progressive working class people
@@ -277,8 +277,8 @@ people into alienated wage slavery, breaking their bonds to other people, to
 the land, and to tradition, which in turn encourages strong central
 governments to assume the role of surrogate parent and to provide direction
 for their citizens in political, intellectual, moral, and even spiritual
-matters. (see Hannah Arendt, **The Origins of Totalitarianism**). And as
-Marilyn French emphasises in **Beyond Power**, the growing concentration of
+matters. (see Hannah Arendt, **The Origins of Totalitarianism** ). And as
+Marilyn French emphasises in **Beyond Power** , the growing concentration of
 political power in the capitalist state can also be attributed to the form of
 the corporation, which is a microcosm of the authoritarian state, since it is
 based on centralised authority, bureaucratic hierarchy, antidemocratic
@@ -296,7 +296,7 @@ effective constraints upon state power."_ The _"distribution of power"_ will
 become _"more unequal"_ and so _"[h]owever strident the rhetoric of democracy
 and popular sovereignty may be, and despite the 'populist' overtones which
 politics must now incorporate, the trend is toward the ever-greater
-appropriation of power at the top."_ [**Divided Societies**, p. 166 and p.
+appropriation of power at the top."_ [ **Divided Societies** , p. 166 and p.
 204] As such, this reduction in genuine liberty, democracy and growth in
 executive power does not flow simply from the intentions of a few bad apples.
 Rather, they reflect economic developments, the needs of the system as a whole
@@ -345,24 +345,20 @@ masses. Hence "Third-Worldisation" implies not only economic polarisation but
 also increasingly authoritarian governments. As Philip Slater puts it, a
 large, educated, and alert "middle class" (i.e. average income earners) has
 always been the backbone of democracy, and anything that concentrates wealth
-tends to weaken democratic institutions. [**A Dream Deferred**, p. 68] This
+tends to weaken democratic institutions. [ **A Dream Deferred** , p. 68] This
 analysis is echoed by left-liberal economist James K. Galbraith:
 
-
-
 > _"As polarisation of wages, incomes and wealth develops, the common
-interests and common social programs of society fall into decline. We have
-seen this too, in this country over thirty years, beginning with the erosion
-of public services and public investments, particularly in the cities, with
-the assault on the poor and on immigrants and the disabled that led to the
-welfare bill of 1996, and continuing now manufactured crises of Medicare and
-the social security system. The haves are on the march. With growing
-inequality, so grows their power. And so also diminish the voices of
-solidarity and mutual reinforcement, the voices of civil society, the voices
-of a democratic and egalitarian middle class."_ [**Created Unequal: The Crisis
-in American Pay**, p. 265]
-
-
+> interests and common social programs of society fall into decline. We have
+> seen this too, in this country over thirty years, beginning with the erosion
+> of public services and public investments, particularly in the cities, with
+> the assault on the poor and on immigrants and the disabled that led to the
+> welfare bill of 1996, and continuing now manufactured crises of Medicare and
+> the social security system. The haves are on the march. With growing
+> inequality, so grows their power. And so also diminish the voices of
+> solidarity and mutual reinforcement, the voices of civil society, the voices
+> of a democratic and egalitarian middle class."_ [ **Created Unequal: The
+> Crisis in American Pay** , p. 265]
 
 If this is true, then along with increasing wealth polarisation in the US we
 should expect to see signs of growing authoritarianism. This hypothesis is
@@ -402,7 +398,7 @@ infiltration of dissident political groups (all of which happened in post-911
 America). There would be a corresponding rise of government secrecy (as
 _"popular understanding of the workings of government is not conducive to
 instilling proper reverence for powerful leaders and their nobility."_
-[Chomsky, **Failed States**, p.238]). These developments would not occur all
+[Chomsky, **Failed States** , p.238]). These developments would not occur all
 at once, but so gradually, imperceptibly, and logically -- given the need to
 maintain "law and order" -- that most people would not even be aware that an
 authoritarian take-over was underway. Indeed, there is substantial evidence
@@ -424,14 +420,14 @@ indifferent to the form of state we have to endure and how it changes. As
 Malatesta put it:
 
 > _"there is no doubt that the worst of democracies is always preferable, if
-only from an educational point of view, than the best of dictatorships. Of
-course democracy, so-called government of the people, is a lie; but the lie
-always slightly binds the liar and limits the extent of his arbitrary power .
-. . Democracy is a lie, it is oppression and is in reality, oligarchy; that
-is, government by the few to the advantage of a privileged class. But we can
-still fight it in the name of freedom and equality, unlike those who have
-replaced it or want to replace it with something worse."_ [**The Anarchist
-Revolution**, p. 77]
+> only from an educational point of view, than the best of dictatorships. Of
+> course democracy, so-called government of the people, is a lie; but the lie
+> always slightly binds the liar and limits the extent of his arbitrary power
+> . . . Democracy is a lie, it is oppression and is in reality, oligarchy;
+> that is, government by the few to the advantage of a privileged class. But
+> we can still fight it in the name of freedom and equality, unlike those who
+> have replaced it or want to replace it with something worse."_ [ **The
+> Anarchist Revolution** , p. 77]
 
 We must stress that as long as governments exist, then this struggle against
 authoritarianism will continue. As Kropotkin argued, these tendencies _"do not
@@ -440,7 +436,8 @@ remember that _"[o]f its own accord, representative government does not offer
 real liberties, and it can accommodate itself remarkably well to despotism.
 Freedoms have to be seized from it, as much as they do from absolute kings;
 and once they have been gained they must be defended against parliament as
-much as they were against a king."_ [**Words of a Rebel**, p. 137 and p. 123]
+much as they were against a king."_ [ **Words of a Rebel** , p. 137 and p.
+123]
 
 So we cannot assume that legal rights against and restrictions on state or
 economic power are enough in themselves. Liberty needs to be continually
@@ -450,8 +447,8 @@ Kropotkin put it, _"we have only to confide our affairs to a representative
 government."_ Only _"extra-parliamentary agitation"_ will stop the state
 _"imping[ing] continually on the country's political rights"_ or
 _"suppress[ing] them with a strike of the pen."_ The state must always _"find
-itself faced by a mass of people ready to rebel."_ [**Op. Cit.** p. 129 and p.
-124]
+itself faced by a mass of people ready to rebel."_ [ **Op. Cit.** p. 129 and
+p. 124]
 
 ## D.9.2 Why is government surveillance of citizens on the increase?
 
@@ -464,7 +461,7 @@ IWW for its unionising and anti-war activity. The post-World War I Red Scare
 and Palmer raids continued this process of wartime jailings and intimidation,
 combined with the deportation of aliens (the arrest, trial and subsequent
 deportation of Alexander Berkman and Emma Goldman is but one example of this
-war on radicals). [Howard Zinn, **A People's History of America**, pp. 363-7]
+war on radicals). [Howard Zinn, **A People's History of America** , pp. 363-7]
 
 However, since World War II these systems have taken more extreme forms,
 especially during the 1980s and 2000s. Indeed, one of the most disturbing
@@ -475,13 +472,13 @@ North, while serving on the National Security Council's staff, had worked with
 the Federal Emergency Management Agency on a plan to suspend the Bill of
 Rights by imposing martial law in the event of _"national opposition to a US
 military invasion abroad."_ [Richard O. Curry (ed.), **Freedom at Risk:
-Secrecy, Censorship, and Repression in the 1980s**] However, this rise in
+Secrecy, Censorship, and Repression in the 1980s** ] However, this rise in
 authoritarian-style government policies is not limited to just possibilities
 and so in this section we will examine the operations of the secret police in
 the USA since the 1950s. First, however, we must stress that these tendencies
 are hardly US specific. For example, the secret services in the UK have
 regularly spied on left-wing groups as well as being heavily involved in
-undermining the 1984-5 Miners strike. [S. Milne, **The Enemy Within**]
+undermining the 1984-5 Miners strike. [S. Milne, **The Enemy Within** ]
 
 The creation of an elaborate US "national security" apparatus has come about
 gradually since 1945 through congressional enactments, numerous executive
@@ -495,7 +492,7 @@ the Reagan administration's success stems _"from major structural and
 technological changes that have occurred in American society during the
 twentieth century -- especially the emergence of the modern bureaucratic State
 and the invention of sophisticated electronic devices that make surveillance
-possible in new and insidious ways."_ [**Op. Cit.**, p. 4]
+possible in new and insidious ways."_ [ **Op. Cit.** , p. 4]
 
 The FBI has used _"countersubversive"_ surveillance techniques and kept lists
 of people and groups judged to be potential national security threats since
@@ -505,7 +502,7 @@ about Fascist and Communist activities in the US and to conduct investigations
 into possible espionage and sabotage (although for most of the 1920s and
 1930s, fascists and fascist sympathisers were, at best, ignored and, at worse,
 publicly praised while anti-fascists like anarchist Carol Tresca were spied on
-and harassed by the authorities. [Nunzio Pernicone, **Carlo Tresca**]). FBI
+and harassed by the authorities. [Nunzio Pernicone, **Carlo Tresca** ]). FBI
 chief J. Edgar Hoover interpreted these directives as authorising open-ended
 inquiries into a very broad category of potential "subversives"; and by
 repeatedly misinforming a succession of careless or indifferent presidents and
@@ -514,7 +511,7 @@ managed for more than 30 years to elicit tacit executive approval for
 continuous FBI investigations into an ever-expanding class of political
 dissidents. [Geoffrey R. Stone, _"The Reagan Administration, the First
 Amendment, and FBI Domestic Security Investigations,"_ Curry (ed.), **Op.
-Cit.**]
+Cit.** ]
 
 The advent of the Cold War, ongoing conflicts with the Soviet Union, and fears
 of the "international Communist conspiracy" provided justification not only
@@ -525,14 +522,14 @@ Congress or any president, Hoover launched a highly secret operation called
 COINTELPRO:
 
 > _"From 1957 to 1974, the bureau opened investigative files on more than half
-a million 'subversive' Americans. In the course of these investigations, the
-bureau, in the name of 'national security,' engaged in widespread wire-
-tapping, bugging, mail-openings, and break-ins. Even more insidious was the
-bureau's extensive use of informers and undercover operative to infiltrate and
-report on the activities and membership of 'subversive' political associations
-ranging from the Socialist Workers Party to the NAACP to the Medical Committee
-for Human Rights to a Milwaukee Boy Scout troop."_ [Stone, **Op. Cit.**, p.
-274]
+> a million 'subversive' Americans. In the course of these investigations, the
+> bureau, in the name of 'national security,' engaged in widespread wire-
+> tapping, bugging, mail-openings, and break-ins. Even more insidious was the
+> bureau's extensive use of informers and undercover operative to infiltrate
+> and report on the activities and membership of 'subversive' political
+> associations ranging from the Socialist Workers Party to the NAACP to the
+> Medical Committee for Human Rights to a Milwaukee Boy Scout troop."_ [Stone,
+> **Op. Cit.** , p. 274]
 
 But COINTELPRO involved much more than just investigation and surveillance. As
 Chomsky notes, it was _"one of its major programs of repression"_ and was used
@@ -542,7 +539,7 @@ sources of political dissent and opposition. It's aim was to _"disrupt"_ a
 wide range of popular movements _"by instigating violence in the ghetto,
 direct participation in police assassination of a Black Panther organiser,
 burglaries and harassment of the Socialist Workers Party over many years, and
-other methods of defamation and disruption."_ [**Necessary Illusions**, p.
+other methods of defamation and disruption."_ [ **Necessary Illusions** , p.
 189]
 
 The FBI fomented violence through the use of agents provocateurs and destroyed
@@ -554,7 +551,7 @@ movements, turning members against each other as well as other groups. For
 example, during the civil rights movement, while the government was making
 concessions and verbally supporting the movement, the FBI was harassing and
 breaking up black groups. Between 1956 and 1971, the FBI took 295 actions
-against black groups as part of COLINTELPRO. [Zinn, **Op. Cit.**, p. 455]
+against black groups as part of COLINTELPRO. [Zinn, **Op. Cit.** , p. 455]
 
 Government documents show the FBI and police involved in creating acrimonious
 disputes which ultimately led to the break-up of such groups as Students for a
@@ -667,7 +664,7 @@ community. Further evidence can be seen in the growth of ultraconservative
 extremist groups preaching avowedly racist philosophies, such as the Ku Klux
 Klan, the Aryan Nations, the White Aryan Resistance, and others (see James
 Ridgeway's **Blood in the Face: The Ku Klux Klan, Aryan Nations, Nazi
-Skinheads, and the Rise of a New White Culture**). Much the same can be said
+Skinheads, and the Rise of a New White Culture** ). Much the same can be said
 of Europe, with the growth of parties like the BNP in Britain, the FN in
 France and similar organisations elsewhere.
 
@@ -683,26 +680,25 @@ compete for increasingly scarce jobs with desperate minorities who are willing
 to work at very low wages. As Lorenzo Lom'boa Ervin notes:
 
 > _"Basing themselves on alienated white social forces, the Nazis and Klan are
-trying to build a mass movement which can hire itself out to the Capitalists
-at the proper moment and assume state power . . . Fascism is the ultimate
-authoritarian society when in power, even though it has changed its face to a
-mixture of crude racism and smoother racism in the modern democratic state.  
+> trying to build a mass movement which can hire itself out to the Capitalists
+> at the proper moment and assume state power . . . Fascism is the ultimate
+> authoritarian society when in power, even though it has changed its face to
+> a mixture of crude racism and smoother racism in the modern democratic
+> state.  
 >  _
-
 >
-
 > _"So in addition to the Nazis and the Klan, there are other Right-Wing
-forces that have been on the rise . . . They include ultra-conservative
-rightist politicians and Christian fundamentalist preachers, along with the
-extreme right section of the Capitalist ruling class itself, small business
-owners, talk show hosts . . . along with the professors, economists,
-philosophers and others in academia who are providing the ideological weapons
-for the Capitalist offensive against the workers and oppresses people. So not
-all racists wear sheets. These are the 'respectable' racists, the New Right
-conservatives . . . The Capitalist class has already shown their willingness
-to use this conservative movement as a smoke screen for an attack on the Labor
-movement, Black struggle, and the entire working class."_ [**Anarchism and the
-Black Revolution**, p. 18]
+> forces that have been on the rise . . . They include ultra-conservative
+> rightist politicians and Christian fundamentalist preachers, along with the
+> extreme right section of the Capitalist ruling class itself, small business
+> owners, talk show hosts . . . along with the professors, economists,
+> philosophers and others in academia who are providing the ideological
+> weapons for the Capitalist offensive against the workers and oppresses
+> people. So not all racists wear sheets. These are the 'respectable' racists,
+> the New Right conservatives . . . The Capitalist class has already shown
+> their willingness to use this conservative movement as a smoke screen for an
+> attack on the Labor movement, Black struggle, and the entire working
+> class."_ [ **Anarchism and the Black Revolution** , p. 18]
 
 The expanding popularity of such racist groups in the US is matched by a
 similar phenomenon in Europe, where xenophobia and a weak economy have
@@ -744,7 +740,7 @@ had to do is appeal to the population on some other grounds. Well, there
 aren't a lot of other grounds, and everybody picks the same ones . . . --
 jingoism, racism, fear, religious fundamentalism: These are ways of appealing
 to people if you're trying to organise a mass base of support for policies
-that are really intended to crush them."_ [Chomsky, **Understanding Power**,
+that are really intended to crush them."_ [Chomsky, **Understanding Power** ,
 pp. 294-5]
 
 Part of the right-wing resurgence in the US and elsewhere has been the
@@ -783,36 +779,34 @@ institutions and social attitudes have on inequality. In the words of left-
 liberal economist James K. Galbraith:
 
 > _"What the economists did, in effect, was to reason backward, from the
-troublesome effect to a cause that would rationalise and justify it . . . [I]t
-is the work of the efficient market [they argued], and the fundamental
-legitimacy of the outcome is not supposed to be questioned.  
+> troublesome effect to a cause that would rationalise and justify it . . .
+> [I]t is the work of the efficient market [they argued], and the fundamental
+> legitimacy of the outcome is not supposed to be questioned.  
 >  _
-
 >
-
 > _"The **apologia** is a dreadful thing. It has distorted our understanding,
-twisted our perspective, and crabbed our politics. On the right, as one might
-expect, the winners on the expanded scale of wealth and incomes are given a
-reason for self-satisfaction and an excuse for gloating. Their gains are due
-to personal merit, the application of high intelligence, and the smiles of
-fortune. Those on the loosing side are guilty of sloth, self-indulgence, and
-whining. Perhaps they have bad culture. Or perhaps they have bad genes. While
-no serious economist would make that last leap into racist fantasy, the
-underlying structure of the economists' argument has undoubtedly helped to
-legitimise, before a larger public, those who promote such ideas."_ [**Op.
-Cit.**, p. 264]
+> twisted our perspective, and crabbed our politics. On the right, as one
+> might expect, the winners on the expanded scale of wealth and incomes are
+> given a reason for self-satisfaction and an excuse for gloating. Their gains
+> are due to personal merit, the application of high intelligence, and the
+> smiles of fortune. Those on the loosing side are guilty of sloth, self-
+> indulgence, and whining. Perhaps they have bad culture. Or perhaps they have
+> bad genes. While no serious economist would make that last leap into racist
+> fantasy, the underlying structure of the economists' argument has
+> undoubtedly helped to legitimise, before a larger public, those who promote
+> such ideas."_ [ **Op. Cit.** , p. 264]
 
 The logical corollary of this social Darwinism is that whites who are "less
 fit" (i.e., poor) also deserve their poverty. But philosophies of racial
 hatred are not necessarily consistent. Thus the ranks of white supremacist
 organisations have been swollen in recent years by undereducated and
 underemployed white youths frustrated by a declining industrial labour market
-and a noticeably eroding social status. [Ridgeway, **Op. Cit.**, p.186] Rather
-than drawing the logical Social-Darwinian conclusion -- that they, too, are
-"inferior" -- they have instead blamed blacks, Hispanics, Asians, and Jews for
-"unfairly" taking their jobs. Thus the neo-Nazi skinheads, for example, have
-been mostly recruited from disgruntled working-class whites below the age of
-30. This has provided leaders of right-wing extremist groups with a growing
+and a noticeably eroding social status. [Ridgeway, **Op. Cit.** , p.186]
+Rather than drawing the logical Social-Darwinian conclusion -- that they, too,
+are "inferior" -- they have instead blamed blacks, Hispanics, Asians, and Jews
+for "unfairly" taking their jobs. Thus the neo-Nazi skinheads, for example,
+have been mostly recruited from disgruntled working-class whites below the age
+of 30. This has provided leaders of right-wing extremist groups with a growing
 base of potential storm troopers.
 
 Therefore, laissez-faire ideology helps create a social environment in which
@@ -835,6 +829,6 @@ as well as apologetics for the wealthy, apologetics which can be, and are,
 utilised by racists to justify their evil politics.
 
 [‹ D.8 What causes militarism and what are its effects?](secD8.md "Go to
-previous page" ) [up](secDcon.md "Go to parent page" ) [D.10 How does
-capitalism affect technology? ›](secD10.md "Go to next page" )
+previous page") [up](secDcon.md "Go to parent page") [D.10 How does
+capitalism affect technology? ›](secD10.md "Go to next page")
 

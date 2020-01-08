@@ -1,7 +1,7 @@
 # A.4 Who are the major anarchist thinkers?
 
-Although Gerard Winstanley (**The New Law of Righteousness**, 1649) and
-William Godwin (**Enquiry Concerning Political Justice**, 1793) had begun to
+Although Gerard Winstanley ( **The New Law of Righteousness** , 1649) and
+William Godwin ( **Enquiry Concerning Political Justice** , 1793) had begun to
 unfold the philosophy of anarchism in the 17th and 18th centuries, it was not
 until the second half of the 19th century that anarchism emerged as a coherent
 theory with a systematic, developed programme. This work was mainly started by
@@ -12,8 +12,8 @@ ideas in common circulation within sections of the working population and
 expressed them in written form.
 
 Born in the atmosphere of German romantic philosophy, Stirner's anarchism (set
-forth in **The Ego and Its Own**) was an extreme form of individualism, or
-**egoism**, which placed the unique individual above all else -- state,
+forth in **The Ego and Its Own** ) was an extreme form of individualism, or
+**egoism** , which placed the unique individual above all else -- state,
 property, law or duty. His ideas remain a cornerstone of anarchism. Stirner
 attacked both capitalism and state socialism, laying the foundations of both
 social and individualist anarchism by his egoist critique of capitalism and
@@ -25,11 +25,11 @@ called it). Such a union would be non-hierarchical, for, as Stirner wonders,
 _"is an association, wherein most members allow themselves to be lulled as
 regards their most natural and most obvious interests, actually an Egoist's
 association? Can they really be 'Egoists' who have banded together when one is
-a slave or a serf of the other?"_ [**No Gods, No Masters**, vol. 1, p. 24]
+a slave or a serf of the other?"_ [ **No Gods, No Masters** , vol. 1, p. 24]
 
 Individualism by definition includes no concrete programme for changing social
 conditions. This was attempted by Pierre-Joseph Proudhon, the first to
-describe himself openly as an anarchist. His theories of **mutualism**,
+describe himself openly as an anarchist. His theories of **mutualism** ,
 **federalism** and workers' **self-management** and **association** had a
 profound effect on the growth of anarchism as a mass movement and spelled out
 clearly how an anarchist world could function and be co-ordinated. It would be
@@ -40,16 +40,16 @@ and they are the immediate source for both social and individualist anarchism,
 with each thread emphasising different aspects of mutualism (for example,
 social anarchists stress the associational aspect of them while individualist
 anarchists the non-capitalist market side). Proudhon's major works include
-**What is Property**, **System of Economical Contradictions**, **The Principle
-of Federation** and, and **The Political Capacity of the Working Classes**.
-His most detailed discussion of what mutualism would look like can be found in
-his **The General Idea of the Revolution**. His ideas heavily influenced both
-the French Labour movement and the Paris Commune of 1871.
+**What is Property** , **System of Economical Contradictions** , **The
+Principle of Federation** and, and **The Political Capacity of the Working
+Classes**. His most detailed discussion of what mutualism would look like can
+be found in his **The General Idea of the Revolution**. His ideas heavily
+influenced both the French Labour movement and the Paris Commune of 1871.
 
 Proudhon's ideas were built upon by Michael Bakunin, who humbly suggested that
 his own ideas were simply Proudhon's _"widely developed and pushed right to .
-. . [their] final consequences."_ [**Michael Bakunin: Selected Writings**, p.
-198] However, he is doing a disservice to his own role in developing
+. . [their] final consequences."_ [ **Michael Bakunin: Selected Writings** ,
+p. 198] However, he is doing a disservice to his own role in developing
 anarchism. For Bakunin is the central figure in the development of modern
 anarchist activism and ideas. He emphasised the importance of
 **collectivism,** mass insurrection, **revolution** and involvement in the
@@ -62,9 +62,9 @@ century among large sections of the radical labour movement. Indeed, many of
 his ideas are almost identical to what would later be called syndicalism or
 anarcho-syndicalism. Bakunin influenced many union movements -- especially in
 Spain, where a major anarchist social revolution took place in 1936. His works
-include **Anarchy and Statism** (his only book), **God and the State**, **The
-Paris Commune and the Idea of the State**, and many others. **Bakunin on
-Anarchism**, edited by Sam Dolgoff is an excellent collection of his major
+include **Anarchy and Statism** (his only book), **God and the State** , **The
+Paris Commune and the Idea of the State** , and many others. **Bakunin on
+Anarchism** , edited by Sam Dolgoff is an excellent collection of his major
 writings. Brian Morris' **Bakunin: The Philosophy of Freedom** is an excellent
 introduction to Bakunin's life and ideas.
 
@@ -84,12 +84,12 @@ the tendencies that are apparent now in society and may indicate its further
 evolution"_ towards anarchy while, at the same time, urging anarchists to
 _"promote their ideas directly amongst the labour organisations and to induce
 those union to a direct struggle against capital, without placing their faith
-in parliamentary legislation."_ [**Anarchism**, p. 298 and p. 287] Like
+in parliamentary legislation."_ [ **Anarchism** , p. 298 and p. 287] Like
 Bakunin, he was a revolutionary and, like Bakunin, his ideas inspired those
-struggle for freedom across the globe. His major works included **Mutual
-Aid**, **The Conquest of Bread**, **Field, Factories, and Workshops**,
-**Modern Science and Anarchism**, **Act for Yourselves**, **The State: Its
-Historic Role**, **Words of a Rebel**, and many others. A collection of his
+struggle for freedom across the globe. His major works included **Mutual Aid**
+, **The Conquest of Bread** , **Field, Factories, and Workshops** , **Modern
+Science and Anarchism** , **Act for Yourselves** , **The State: Its Historic
+Role** , **Words of a Rebel** , and many others. A collection of his
 revolutionary pamphlets is available under the title **Anarchism** and is
 essential reading for anyone interested in his ideas. In Addition, Graham
 Purchase's **Evolution and Revolution** and **Kropotkin: The Politics of
@@ -108,12 +108,12 @@ working together for their own, and the common, good, and in the wider
 political and social world decisions would be reached communally.
 
 It should also be stressed that anarchist schools of thought are **not** named
-after individual anarchists. Thus anarchists are **not** _"Bakuninists"_,
+after individual anarchists. Thus anarchists are **not** _"Bakuninists"_ ,
 _"Proudhonists"_ or _"Kropotkinists"_ (to name three possibilities).
 Anarchists, to quote Malatesta, _"follow ideas and not men, and rebel against
 this habit of embodying a principle in a man."_ This did not stop him calling
-Bakunin _"our great master and inspiration."_ [**Errico Malatesta: Life and
-Ideas**, p. 199 and p. 209] Equally, not everything written by a famous
+Bakunin _"our great master and inspiration."_ [ **Errico Malatesta: Life and
+Ideas** , p. 199 and p. 209] Equally, not everything written by a famous
 anarchist thinker is automatically libertarian. Bakunin, for example, only
 became an anarchist in the last ten years of his life (this does not stop
 Marxists using his pre-anarchist days to attack anarchism!). Proudhon turned
@@ -152,15 +152,15 @@ produced a number of original anarchist thinkers. Gustav Landauer was expelled
 from the Marxist Social-Democratic Party for his radical views and soon after
 identified himself as an anarchist. For him, anarchy was _"the expression of
 the liberation of man from the idols of state, the church and capital"_ and he
-fought _"**State** socialism, levelling from above, bureaucracy"_ in favour of
-_"free association and union, the absence of authority."_ His ideas were a
+fought _" **State** socialism, levelling from above, bureaucracy"_ in favour
+of _"free association and union, the absence of authority."_ His ideas were a
 combination of Proudhon's and Kropotkin's and he saw the development of self-
 managed communities and co-operatives as the means of changing society. He is
 most famous for his insight that the _"state is a condition, a certain
 relationship among human beings, a mode of behaviour between them; we destroy
 it by contracting other relationships, by behaving differently towards one
-another."_ [quoted by Peter Marshall, **Demanding the Impossible**, p. 410 and
-p. 411] He took a leading part in the Munich revolution of 1919 and was
+another."_ [quoted by Peter Marshall, **Demanding the Impossible** , p. 410
+and p. 411] He took a leading part in the Munich revolution of 1919 and was
 murdered during its crushing by the German state. His book **For Socialism**
 is an excellent summary of his main ideas.
 
@@ -172,14 +172,15 @@ time with Emma Goldman. More a propagandist than a great thinker, his
 revolutionary message inspired numerous people to become anarchists. Then
 there is Rudolf Rocker, a bookbinder by trade who played an important role in
 the Jewish labour movement in the East End of London (see his autobiography,
-**The London Years**, for details). He also produced the definite introduction
-to **Anarcho-syndicalism** as well as analysing the Russian Revolution in
-articles like **Anarchism and Sovietism** and defending the Spanish revolution
-in pamphlets like **The Tragedy of Spain**. His **Nationalism and Culture** is
-a searching analysis of human culture through the ages, with an analysis of
-both political thinkers and power politics. He dissects nationalism and
-explains how the nation is not the cause but the result of the state as well
-as repudiating race science for the nonsense it is.
+**The London Years** , for details). He also produced the definite
+introduction to **Anarcho-syndicalism** as well as analysing the Russian
+Revolution in articles like **Anarchism and Sovietism** and defending the
+Spanish revolution in pamphlets like **The Tragedy of Spain**. His
+**Nationalism and Culture** is a searching analysis of human culture through
+the ages, with an analysis of both political thinkers and power politics. He
+dissects nationalism and explains how the nation is not the cause but the
+result of the state as well as repudiating race science for the nonsense it
+is.
 
 In the United States Emma Goldman and Alexander Berkman were two of the
 leading anarchist thinkers and activists. Goldman united Stirner's egoism with
@@ -187,9 +188,9 @@ Kropotkin's communism into a passionate and powerful theory which combined the
 best of both. She also placed anarchism at the centre of feminist theory and
 activism as well as being an advocate of syndicalism (see her book **Anarchism
 and Other Essays** and the collection of essays, articles and talks entitled
-**Red Emma Speaks**). Alexander Berkman, Emma's lifelong companion, produced a
-classic introduction to anarchist ideas called **What is Anarchism?** (also
-known as **What is Communist Anarchism?** and the **ABC of Anarchism**). Like
+**Red Emma Speaks** ). Alexander Berkman, Emma's lifelong companion, produced
+a classic introduction to anarchist ideas called **What is Anarchism?** (also
+known as **What is Communist Anarchism?** and the **ABC of Anarchism** ). Like
 Goldman, he supported anarchist involvement in the labour movement was a
 prolific writer and speaker (the book **Life of An Anarchist** gives an
 excellent selection of his best articles, books and pamphlets). Both were
@@ -209,7 +210,7 @@ them that the Bolshevik dictatorship meant the death of the revolution there.
 The Bolshevik rulers were more than happy to see the back of two genuine
 revolutionaries who stayed true to their principles. Once outside Russia,
 Berkman wrote numerous articles on the fate of the revolution (including **The
-Russian Tragedy** and **The Kronstadt Rebellion**) as well as publishing his
+Russian Tragedy** and **The Kronstadt Rebellion** ) as well as publishing his
 diary in book from as **The Bolshevik Myth**. Goldman produced her classic
 work **My Disillusionment in Russia** as well as publishing her famous
 autobiography **Living My Life**. She also found time to refute Trotsky's lies
@@ -219,30 +220,30 @@ As well as Berkman and Goldman, the United States also produced other notable
 activists and thinkers. Voltairine de Cleyre played an important role in the
 US anarchist movement, enriching both US and international anarchist theory
 with her articles, poems and speeches. Her work includes such classics as
-**Anarchism and American Traditions**, **Direct Action**, **Sex Slavery** and
-**The Dominant Idea**. These are included, along with other articles and some
-of her famous poems, in **The Voltairine de Cleyre Reader**. These and other
-important essays are included in **Exquisite Rebel**, another anthology of her
-writings, while Eugenia C. Delamotte's **Gates of Freedom** provides an
+**Anarchism and American Traditions** , **Direct Action** , **Sex Slavery**
+and **The Dominant Idea**. These are included, along with other articles and
+some of her famous poems, in **The Voltairine de Cleyre Reader**. These and
+other important essays are included in **Exquisite Rebel** , another anthology
+of her writings, while Eugenia C. Delamotte's **Gates of Freedom** provides an
 excellent overview of her life and ideas as well as selections from her works.
 In addition, the book **Anarchy! An Anthology of Emma Goldman's Mother Earth**
 contains a good selection of her writings as well as other anarchists active
 at the time. Also of interest is the collection of the speeches she made to
 mark the state murder of the Chicago Martyrs in 1886 (see **the First Mayday:
-The Haymarket Speeches 1895-1910**). Every November the 11th, except when
+The Haymarket Speeches 1895-1910** ). Every November the 11th, except when
 illness made it impossible, she spoke in their memory. For those interested in
 the ideas of that previous generation of anarchists which the Chicago Martyrs
 represented, Albert Parsons' **Anarchism: Its Philosophy and Scientific
 Basis** is essential reading. His wife, Lucy Parsons, was also an outstanding
 anarchist activist from the 1870s until her death in 1942 and selections of
-her writings and speeches can be found in the book **Freedom, Equality &amp;
+her writings and speeches can be found in the book **Freedom, Equality &
 Solidarity** (edited by Gale Ahrens).
 
 Elsewhere in the Americas, Ricardo Flores Magon helped lay the ground for the
 Mexican revolution of 1910 by founding the (strangely named) **Mexican Liberal
 Party** in 1905 which organised two unsuccessful uprising against the Diaz
-dictatorship in 1906 and 1908. Through his paper **Tierra y Libertad** (_"Land
-and Liberty"_) he influenced the developing labour movement as well as
+dictatorship in 1906 and 1908. Through his paper **Tierra y Libertad** (
+_"Land and Liberty"_ ) he influenced the developing labour movement as well as
 Zapata's peasant army. He continually stressed the need to turn the revolution
 into a **social** revolution which will _"give the lands to the people"_ as
 well as _"possession of the factories, mines, etc."_ Only this would ensure
@@ -254,9 +255,9 @@ the rich, the authorities and the priestcraft"_ and have _"burnt to ashes
 private property deeds as well as all official records"_ as well as having
 _"thrown down the fences that marked private properties."_ Thus the anarchists
 _"propagate our principles"_ while the Zapatista's _"put them into practice."_
-[quoted by David Poole, **Land and Liberty**, p. 17 and p. 25] Ricardo died as
-a political prisoner in an American jail and is, ironically, considered a hero
-of the revolution by the Mexican state. A substantial collection of his
+[quoted by David Poole, **Land and Liberty** , p. 17 and p. 25] Ricardo died
+as a political prisoner in an American jail and is, ironically, considered a
+hero of the revolution by the Mexican state. A substantial collection of his
 writings are available in the book **Dreams of Freedom** (which includes an
 impressive biographical essay which discusses his influence as well as placing
 his work in historical context).
@@ -267,31 +268,31 @@ anarchism across the world and his writings are amongst the best in anarchist
 theory. For those interested in his practical and inspiring ideas then his
 short pamphlet **Anarchy** cannot be beaten. Collections of his articles can
 be found in **The Anarchist Revolution** and **Errico Malatesta: His Life and
-Ideas**, both edited by Vernon Richards. A favourite writing technique was the
-use of dialogues, such as **At the Cafe: Conversations on Anarchism**. These,
-using the conversations he had with non-anarchists as their basis, explained
-anarchist ideas in a clear and down to Earth manner. Another dialogue, **Fra
-Contadini: A Dialogue on Anarchy**, was translated into many languages, with
-100,000 copies printed in Italy in 1920 when the revolution Malatesta had
-fought for all his life looked likely. At this time Malatesta edited **Umanita
-Nova** (the first Italian daily anarchist paper, it soon gained a circulation
-of 50 000) as well as writing the programme for the **Unione Anarchica
-Italiana**, a national anarchist organisation of some 20 000. For his
-activities during the factory occupations he was arrested at the age of 67
-along with 80 other anarchists activists. Other Italian anarchists of note
-include Malatesta's friend Luigi Fabbri (sadly little of his work has been
-translated into English bar **Bourgeois Influences on Anarchism** and
-**Anarchy and 'Scientific' Communism**) Luigi Galleani produced a very
+Ideas** , both edited by Vernon Richards. A favourite writing technique was
+the use of dialogues, such as **At the Cafe: Conversations on Anarchism**.
+These, using the conversations he had with non-anarchists as their basis,
+explained anarchist ideas in a clear and down to Earth manner. Another
+dialogue, **Fra Contadini: A Dialogue on Anarchy** , was translated into many
+languages, with 100,000 copies printed in Italy in 1920 when the revolution
+Malatesta had fought for all his life looked likely. At this time Malatesta
+edited **Umanita Nova** (the first Italian daily anarchist paper, it soon
+gained a circulation of 50 000) as well as writing the programme for the
+**Unione Anarchica Italiana** , a national anarchist organisation of some 20
+000. For his activities during the factory occupations he was arrested at the
+age of 67 along with 80 other anarchists activists. Other Italian anarchists
+of note include Malatesta's friend Luigi Fabbri (sadly little of his work has
+been translated into English bar **Bourgeois Influences on Anarchism** and
+**Anarchy and 'Scientific' Communism** ) Luigi Galleani produced a very
 powerful anti-organisational anarchist-communism which proclaimed (in **The
-End of Anarchism?**) that _"Communism is simply the economic foundation by
+End of Anarchism?** ) that _"Communism is simply the economic foundation by
 which the individual has the opportunity to regulate himself and carry out his
 functions."_ Camillo Berneri, before being murdered by the Communists during
 the Spanish Revolution, continued the fine tradition of critical, practical
 anarchism associated with Italian anarchism. His study of Kropotkin's
-federalist ideas is a classic (**Peter Kropotkin: His Federalist Ideas**). His
-daughter Marie-Louise Berneri, before her tragic early death, contributed to
-the British anarchist press (see her **Neither East Nor West: Selected
-Writings 1939-48** and **Journey Through Utopia**).
+federalist ideas is a classic ( **Peter Kropotkin: His Federalist Ideas** ).
+His daughter Marie-Louise Berneri, before her tragic early death, contributed
+to the British anarchist press (see her **Neither East Nor West: Selected
+Writings 1939-48** and **Journey Through Utopia** ).
 
 In Japan, Hatta Shuzo developed Kropotkin's communist-anarchism in new
 directions between the world wars. Called "true anarchism," he created an
@@ -308,11 +309,11 @@ agriculture and industry."_ Hatta rejected the idea that they sought to go
 back to an ideal past, stating that the anarchists were _"completely opposite
 to the medievalists. We seek to use machines as means of production and,
 indeed, hope for the invention of yet more ingenious machines."_ [quoted by
-John Crump, **Hatta Shuzo and Pure Anarchism in Interwar Japan**, p. 122-3,
+John Crump, **Hatta Shuzo and Pure Anarchism in Interwar Japan** , p. 122-3,
 and p. 144]
 
 As far as individualist anarchism goes, the undoubted "pope" was Benjamin
-Tucker. Tucker, in his **Instead of Book**, used his intellect and wit to
+Tucker. Tucker, in his **Instead of Book** , used his intellect and wit to
 attack all who he considered enemies of freedom (mostly capitalists, but also
 a few social anarchists as well! For example, Tucker excommunicated Kropotkin
 and the other communist-anarchists from anarchism. Kropotkin did not return
@@ -347,31 +348,31 @@ inspired many Christians towards a libertarian vision of Jesus' message which
 has been hidden by the mainstream churches. Thus Christian Anarchism
 maintains, along with Tolstoy, that _"Christianity in its true sense puts an
 end to government"_ (see, for example, Tolstoy's **The Kingdom of God is
-within you** and Peter Marshall's **William Blake: Visionary Anarchist**).
+within you** and Peter Marshall's **William Blake: Visionary Anarchist** ).
 
-More recently, Noam Chomsky (in such works as **Deterring Democracy**,
-**Necessary Illusions**, **World Orders, Old and New**, **Rogue States**,
-**Hegemony or Survival** and many others) and Murray Bookchin (**Post-Scarcity
-Anarchism**, **The Ecology of Freedom**, **Towards an Ecological Society**,
-and **Remaking Society**, among others) have kept the social anarchist
-movement at the front of political theory and analysis. Bookchin's work has
-placed anarchism at the centre of green thought and has been a constant threat
-to those wishing to mystify or corrupt the movement to create an ecological
-society. **The Murray Bookchin Reader** contains a representative selection of
-his writings. Sadly, a few years before his death Bookchin distanced himself
-from the anarchism he spent nearly four decades advocating (although he
-remained a libertarian socialist to the end). Chomsky's well documented
-critiques of U.S. imperialism and how the media operates are his most famous
-works, but he has also written extensively about the anarchist tradition and
-its ideas, most famously in his essays _"Notes on Anarchism"_ (in **For
-Reasons of State**) and his defence of the anarchist social revolution against
-bourgeois historians in _"Objectivity and Liberal Scholarship"_ (in **American
-Power and the New Mandarins**). These and others of his more explicitly
-anarchist essays and interviews can be found in the collection **Chomsky on
-Anarchism**. Other good sources for his anarchist ideas are **Radical
-Priorities**, **Language and Politics** and the pamphlet **Government in the
-Future**. Both **Understanding Power** and **The Chomsky Reader** are
-excellent introductions to his thought.
+More recently, Noam Chomsky (in such works as **Deterring Democracy** ,
+**Necessary Illusions** , **World Orders, Old and New** , **Rogue States** ,
+**Hegemony or Survival** and many others) and Murray Bookchin ( **Post-
+Scarcity Anarchism** , **The Ecology of Freedom** , **Towards an Ecological
+Society** , and **Remaking Society** , among others) have kept the social
+anarchist movement at the front of political theory and analysis. Bookchin's
+work has placed anarchism at the centre of green thought and has been a
+constant threat to those wishing to mystify or corrupt the movement to create
+an ecological society. **The Murray Bookchin Reader** contains a
+representative selection of his writings. Sadly, a few years before his death
+Bookchin distanced himself from the anarchism he spent nearly four decades
+advocating (although he remained a libertarian socialist to the end).
+Chomsky's well documented critiques of U.S. imperialism and how the media
+operates are his most famous works, but he has also written extensively about
+the anarchist tradition and its ideas, most famously in his essays _"Notes on
+Anarchism"_ (in **For Reasons of State** ) and his defence of the anarchist
+social revolution against bourgeois historians in _"Objectivity and Liberal
+Scholarship"_ (in **American Power and the New Mandarins** ). These and others
+of his more explicitly anarchist essays and interviews can be found in the
+collection **Chomsky on Anarchism**. Other good sources for his anarchist
+ideas are **Radical Priorities** , **Language and Politics** and the pamphlet
+**Government in the Future**. Both **Understanding Power** and **The Chomsky
+Reader** are excellent introductions to his thought.
 
 Britain has also seen an important series of anarchist thinkers. Hebert Read
 (probably the only anarchist to ever accept a knighthood!) wrote several works
@@ -380,9 +381,9 @@ of essays). His anarchism flowered directly from his aesthetic concerns and he
 was a committed pacifist. As well as giving fresh insight and expression to
 the tradition themes of anarchism, he contributed regularly to the anarchist
 press (see the collection of articles **A One-Man Manifesto and other writings
-from Freedom Press**). Another pacifist anarchist was Alex Comfort. As well as
-writing the **Joy of Sex**, Comfort was an active pacifist and anarchist. He
-wrote particularly on pacifism, psychiatry and sexual politics from a
+from Freedom Press** ). Another pacifist anarchist was Alex Comfort. As well
+as writing the **Joy of Sex** , Comfort was an active pacifist and anarchist.
+He wrote particularly on pacifism, psychiatry and sexual politics from a
 libertarian perspective. His most famous anarchist book was **Authority and
 Delinquency** and a collection of his anarchist pamphlets and articles was
 published under the title **Writings against Power and Death**.
@@ -391,33 +392,33 @@ However, the most famous and influential British anarchist must be Colin Ward.
 He became an anarchist when stationed in Glasgow during the Second World War
 and came across the local anarchist group there. Once an anarchist, he has
 contributed to the anarchist press extensively. As well as being an editor of
-**Freedom**, he also edited the influential monthly magazine **Anarchy**
+**Freedom** , he also edited the influential monthly magazine **Anarchy**
 during the 1960s (a selection of articles picked by Ward can be found in the
-book **A Decade of Anarchy**). However, his most famous single book is
+book **A Decade of Anarchy** ). However, his most famous single book is
 **Anarchy in Action** where he has updated Kropotkin's **Mutual Aid** by
 uncovering and documenting the anarchistic nature of everyday life even within
 capitalism. His extensive writing on housing has emphasised the importance of
 collective self-help and social management of housing against the twin evils
 of privatisation and nationalisation (see, for example, his books **Talking
-Houses** and **Housing: An Anarchist Approach**). He has cast an anarchist eye
-on numerous other issues, including water use (Reflected in Water: A Crisis of
-Social Responsibility), transport (**Freedom to go: after the motor age**) and
-the welfare state (**Social Policy: an anarchist response**). His **Anarchism:
-A Very Short Introduction** is a good starting point for discovering anarchism
-and his particular perspective on it while **Talking Anarchy** provides an
-excellent overview of both his ideas and life. Lastly we must mention both
-Albert Meltzer and Nicolas Walter, both of whom contributed extensively to the
-anarchist press as well as writing two well known short introductions to
-anarchism (**Anarchism: Arguments for and against** and **About Anarchism**,
-respectively).
+Houses** and **Housing: An Anarchist Approach** ). He has cast an anarchist
+eye on numerous other issues, including water use (Reflected in Water: A
+Crisis of Social Responsibility), transport ( **Freedom to go: after the motor
+age** ) and the welfare state ( **Social Policy: an anarchist response** ).
+His **Anarchism: A Very Short Introduction** is a good starting point for
+discovering anarchism and his particular perspective on it while **Talking
+Anarchy** provides an excellent overview of both his ideas and life. Lastly we
+must mention both Albert Meltzer and Nicolas Walter, both of whom contributed
+extensively to the anarchist press as well as writing two well known short
+introductions to anarchism ( **Anarchism: Arguments for and against** and
+**About Anarchism** , respectively).
 
 We could go on; there are many more writers we could mention. But besides
 these, there are the thousands of "ordinary" anarchist militants who have
 never written books but whose common sense and activism have encouraged the
 spirit of revolt within society and helped build the new world in the shell of
-the old. As Kropotkin put it, _"anarchism was born **among the people**; and
+the old. As Kropotkin put it, _"anarchism was born **among the people** ; and
 it will continue to be full of life and creative power only as long as it
-remains a thing of the people."_ [**Anarchism**, p. 146]
+remains a thing of the people."_ [ **Anarchism** , p. 146]
 
 So we hope that this concentration on anarchist thinkers should not be taken
 to mean that there is some sort of division between activists and
@@ -443,12 +444,12 @@ Indeed, as Nicholas Walter put it, _"Anarchism can be seen as a development
 from either liberalism or socialism, or from both liberalism and socialism.
 Like liberals, anarchists want freedom; like socialists, anarchists want
 equality."_ However, _"anarchism is not just a mixture of liberalism and
-socialism . . . we differ fundamentally from them."_ [**About Anarchism**, p.
-29 and p. 31] In this he echoes Rocker's comments in **Anarcho-Syndicalism**.
-And this can be a useful tool for seeing the links between anarchism and other
-theories however it must be stressed that anarchism offers an **_anarchist_**
-critique of both liberalism and socialism and we should not submerge the
-uniqueness of anarchism into other philosophies.
+socialism . . . we differ fundamentally from them."_ [ **About Anarchism** ,
+p. 29 and p. 31] In this he echoes Rocker's comments in **Anarcho-
+Syndicalism**. And this can be a useful tool for seeing the links between
+anarchism and other theories however it must be stressed that anarchism offers
+an **_anarchist_** critique of both liberalism and socialism and we should not
+submerge the uniqueness of anarchism into other philosophies.
 
 [Section A.4.2](secA4.md#seca42) discusses liberal thinkers who are close to
 anarchism, while [section A.4.3](secA4.md#seca43) highlights those
@@ -468,14 +469,14 @@ democratic self-management in the workplace"_ for his _"critique is not new;
 it was developed in the Enlightenment doctrine of inalienable rights. It was
 applied by abolitionists against the voluntary self-enslavement contract and
 by political democrats against the voluntary contraction defence of non-
-democratic government."_ [**The Democratic Worker-Owned Firm**, p. 210]
+democratic government."_ [ **The Democratic Worker-Owned Firm** , p. 210]
 Anyone, like anarchists, interested in producer co-operatives as alternatives
 to wage slavery will find his work of immense interest.
 
 Ellerman is not the only person to stress the benefits of co-operation. Alfie
 Kohn's important work on the benefits of co-operation builds upon Kropotkin's
 studies of mutual aid and is, consequently, of interest to social anarchists.
-In **No Contest: the case against competition** and **Punished by Rewards**,
+In **No Contest: the case against competition** and **Punished by Rewards** ,
 Kohn discusses (with extensive empirical evidence) the failings and negative
 impact of competition on those subject to it. He addresses both economic and
 social issues in his works and shows that competition is not what it is
@@ -495,7 +496,7 @@ democracy, she exposed the limitations of liberal democratic theory, analysed
 the works of Rousseau, Mill and Cole and presented empirical evidence on the
 benefits of participation on the individuals involved.
 
-In the **Problem of Political Obligation**, Pateman discusses the "liberal"
+In the **Problem of Political Obligation** , Pateman discusses the "liberal"
 arguments on freedom and finds them wanting. For the liberal, a person must
 consent to be ruled by another but this opens up the "problem" that they might
 not consent and, indeed, may never have consented. Thus the liberal state
@@ -506,7 +507,7 @@ self-assumed obligation to your fellow citizens rather to a state). In
 discussing Kropotkin, she showed her awareness of the social anarchist
 tradition to which her own theory is obviously related.
 
-Pateman builds on this analysis in her **The Sexual Contract**, where she
+Pateman builds on this analysis in her **The Sexual Contract** , where she
 dissects the sexism of classical liberal and democratic theory. She analyses
 the weakness of what calls 'contractarian' theory (classical liberalism and
 right-wing "libertarianism") and shows how it leads not to free associations
@@ -529,11 +530,11 @@ Within the so-called "anti-globalisation" movement Naomi Klein shows an
 awareness of libertarian ideas and her own work has a libertarian thrust to it
 (we call it "so-called" as its members are internationalists, seeking a
 globalisation from below not one imposed from above by and for a few). She
-first came to attention as the author of **No Logo**, which charts the growth
+first came to attention as the author of **No Logo** , which charts the growth
 of consumer capitalism, exposing the dark reality behind the glossy brands of
 capitalism and, more importantly, highlighting the resistance to it. No
 distant academic, she is an active participant in the movement she reports on
-in **Fences and Windows**, a collection of essays on globalisation, its
+in **Fences and Windows** , a collection of essays on globalisation, its
 consequences and the wave of protests against it.
 
 Klein's articles are well written and engaging, covering the reality of modern
@@ -547,16 +548,16 @@ about liberty is used as a tool to defend and increase private power (as she
 reminds us, _"always missing from [the globalisation] discussion is the issue
 of power. So many of the debates that we have about globalisation theory are
 actually about power: who holds it, who is exercising it and who is disguising
-it, pretending it no longer matters"_). [**Fences and Windows**, pp 83-4 and
-p. 83]
+it, pretending it no longer matters"_ ). [ **Fences and Windows** , pp 83-4
+and p. 83]
 
 And how people across the world are resisting. As she puts it, _"many [in the
 movement] are tired of being spoken for and about. They are demanding a more
 direct form of political participation."_ She reports on a movement which she
 is part of, one which aims for a globalisation from below, one _"founded on
 principles of transparency, accountability and self-determination, one that
-frees people instead of liberating capital."_ This means being against a _
-"corporate-driven globalisation . . . that is centralising power and wealth
+frees people instead of liberating capital."_ This means being against a
+_"corporate-driven globalisation . . . that is centralising power and wealth
 into fewer and fewer hands"_ while presenting an alternative which is about
 _"decentralising power and building community-based decision-making potential
 -- whether through unions, neighbourhoods, farms, villages, anarchist
@@ -564,7 +565,7 @@ collectives or aboriginal self-government."_ All strong anarchist principles
 and, like anarchists, she wants people to manage their own affairs and
 chronicles attempts around the world to do just that (many of which, as Klein
 notes, are anarchists or influenced by anarchist ideas, sometimes knowing,
-sometimes not). [**Op. Cit.**, p. 77, p. 79 and p. 16]
+sometimes not). [ **Op. Cit.** , p. 77, p. 79 and p. 16]
 
 While not an anarchist, she is aware that real change comes from below, by the
 self-activity of working class people fighting for a better world.
@@ -574,13 +575,13 @@ themselves but to challenge power centralisation on principle"_ and so
 creating _"a new culture of vibrant direct democracy . . . one that is fuelled
 and strengthened by direct participation."_ She does not urge the movement to
 invest itself with new leaders and neither does she (like the Left) think that
-electing a few leaders to make decisions for us equals "democracy" (_"the goal
-is not better faraway rules and rulers but close-up democracy on the
-ground"_). Klein, therefore, gets to the heart of the matter. Real social
+electing a few leaders to make decisions for us equals "democracy" ( _"the
+goal is not better faraway rules and rulers but close-up democracy on the
+ground"_ ). Klein, therefore, gets to the heart of the matter. Real social
 change is based on empowering the grassroots, _"the desire for self-
 determination, economic sustainability and participatory democracy."_ Given
-this, Klein has presented libertarian ideas to a wide audience. [**Op. Cit.**,
-p. xxvi, p. xxvi-xxvii, p. 245 and p. 233]
+this, Klein has presented libertarian ideas to a wide audience. [ **Op. Cit.**
+, p. xxvi, p. xxvi-xxvii, p. 245 and p. 233]
 
 Other notable libertarian thinkers include Henry D. Thoreau, Albert Camus,
 Aldous Huxley, Lewis Mumford, Lewis Mumford and Oscar Wilde. Thus there are
@@ -589,8 +590,8 @@ of interest to libertarians. As Kropotkin noted a hundred years ago, these
 kinds of writers _"are full of ideas which show how closely anarchism is
 interwoven with the work that is going on in modern thought in the same
 direction of enfranchisement of man from the bonds of the state as well as
-from those of capitalism."_ [**Anarchism**, p. 300] The only change since then
-is that more names can be added to the list.
+from those of capitalism."_ [ **Anarchism** , p. 300] The only change since
+then is that more names can be added to the list.
 
 Peter Marshall discusses the ideas of most, but not all, of the non-anarchist
 libertarians we mention in this and subsequent sections in his book history of
@@ -617,7 +618,7 @@ exists _"precisely to preserve the property relationships of the developing
 capitalist market economy, not to disturb them."_ For the majority, the non-
 propertied, they expressed _"tacit consent"_ to be ruled by the few by
 _"choosing to remain within the one's country of birth when reaching
-adulthood."_ [**The Problem of Political Obligation**, p. 141, p. 71, p. 78
+adulthood."_ [ **The Problem of Political Obligation** , p. 141, p. 71, p. 78
 and p. 73]
 
 Thus anarchism is at odds with what can be called the pro-capitalist liberal
@@ -627,7 +628,7 @@ for non-democratic government based on consent -- on a voluntary social
 contract alienating governing rights to a sovereign."_ In economics, this is
 reflected in their support for wage labour and the capitalist autocracy it
 creates for the _"employment contract is the modern limited workplace
-version"_ of such contracts. [**The Democratic Worker-Owned Firm**, p. 210]
+version"_ of such contracts. [ **The Democratic Worker-Owned Firm** , p. 210]
 This pro-capitalist liberalism essentially boils down to the liberty to pick a
 master or, if you are among the lucky few, to become a master yourself. The
 idea that freedom means self-determination for all at all times is alien to
@@ -657,55 +658,55 @@ lords who combated the powers of the King in order to protect their power over
 their own land and serfs. As Chomsky notes, _"the 'libertarian' doctrines that
 are fashionable in the US and UK particularly . . . seem to me to reduce to
 advocacy of one or another form of illegitimate authority, quite often real
-tyranny."_ [**Marxism, Anarchism, and Alternative Futures**, p. 777] Moreover,
-as Benjamin Tucker noted with regards their predecessors, while they are happy
-to attack any state regulation which benefits the many or limits their power,
-they are silent on the laws (and regulations and "rights") which benefit the
-few.
+tyranny."_ [ **Marxism, Anarchism, and Alternative Futures** , p. 777]
+Moreover, as Benjamin Tucker noted with regards their predecessors, while they
+are happy to attack any state regulation which benefits the many or limits
+their power, they are silent on the laws (and regulations and "rights") which
+benefit the few.
 
 However there is another liberal tradition, one which is essentially pre-
 capitalist which has more in common with the aspirations of anarchism. As
 Chomsky put it:
 
-> _ "These ideas [of anarchism] grow out the Enlightenment; their roots are in
-Rousseau's **Discourse on Inequality**, Humbolt's **The Limits of State
-Action**, Kant's insistence, in his defence of the French Revolution, that
-freedom is the precondition for acquiring the maturity for freedom, not a gift
-to be granted when such maturity is achieved . . . With the development of
-industrial capitalism, a new and unanticipated system of injustice, it is
-libertarian socialism that has preserved and extended the radical humanist
-message of the Enlightenment and the classical liberal ideals that were
-perverted into an ideology to sustain the emerging social order. In fact, on
-the very same assumptions that led classical liberalism to oppose the
-intervention of the state in social life, capitalist social relations are also
-intolerable. This is clear, for example, from the classic work of [Wilhelm
-von] Humboldt, **The Limits of State Action**, which anticipated and perhaps
-inspired [John Stuart] Mill . . . This classic of liberal thought, completed
-in 1792, is in its essence profoundly, though prematurely, anticapitalist. Its
-ideas must be attenuated beyond recognition to be transmuted into an ideology
-of industrial capitalism."_ [_"Notes on Anarchism"_, **For Reasons of State**,
-p. 156]
+> _"These ideas [of anarchism] grow out the Enlightenment; their roots are in
+> Rousseau's **Discourse on Inequality** , Humbolt's **The Limits of State
+> Action** , Kant's insistence, in his defence of the French Revolution, that
+> freedom is the precondition for acquiring the maturity for freedom, not a
+> gift to be granted when such maturity is achieved . . . With the development
+> of industrial capitalism, a new and unanticipated system of injustice, it is
+> libertarian socialism that has preserved and extended the radical humanist
+> message of the Enlightenment and the classical liberal ideals that were
+> perverted into an ideology to sustain the emerging social order. In fact, on
+> the very same assumptions that led classical liberalism to oppose the
+> intervention of the state in social life, capitalist social relations are
+> also intolerable. This is clear, for example, from the classic work of
+> [Wilhelm von] Humboldt, **The Limits of State Action** , which anticipated
+> and perhaps inspired [John Stuart] Mill . . . This classic of liberal
+> thought, completed in 1792, is in its essence profoundly, though
+> prematurely, anticapitalist. Its ideas must be attenuated beyond recognition
+> to be transmuted into an ideology of industrial capitalism."_ [ _"Notes on
+> Anarchism"_ , **For Reasons of State** , p. 156]
 
 Chomsky discusses this in more detail in his essay _"Language and Freedom"_
-(contained in both **Reason of State** and **The Chomsky Reader**). As well as
-Humbolt and Mill, such "pre-capitalist" liberals would include such radicals
-as Thomas Paine, who envisioned a society based on artisan and small farmers
-(i.e. a pre-capitalist economy) with a rough level of social equality and, of
-course, a minimal government. His ideas inspired working class radicals across
-the world and, as E.P. Thompson reminds us, Paine's **Rights of Man** was _"a
-foundation-text of the English [and Scottish] working-class movement."_ While
-his ideas on government are _"close to a theory of anarchism,"_ his reform
-proposals _"set a source towards the social legislation of the twentieth
-century."_ [**The Making of the English Working Class**, p. 99, p. 101 and p.
-102] His combination of concern for liberty and social justice places him
-close to anarchism.
+(contained in both **Reason of State** and **The Chomsky Reader** ). As well
+as Humbolt and Mill, such "pre-capitalist" liberals would include such
+radicals as Thomas Paine, who envisioned a society based on artisan and small
+farmers (i.e. a pre-capitalist economy) with a rough level of social equality
+and, of course, a minimal government. His ideas inspired working class
+radicals across the world and, as E.P. Thompson reminds us, Paine's **Rights
+of Man** was _"a foundation-text of the English [and Scottish] working-class
+movement."_ While his ideas on government are _"close to a theory of
+anarchism,"_ his reform proposals _"set a source towards the social
+legislation of the twentieth century."_ [ **The Making of the English Working
+Class** , p. 99, p. 101 and p. 102] His combination of concern for liberty and
+social justice places him close to anarchism.
 
 Then there is Adam Smith. While the right (particularly elements of the
 "libertarian" right) claim him as a classic liberal, his ideas are more
 complex than that. For example, as Noam Chomsky points out, Smith advocated
 the free market because _"it would lead to perfect equality, equality of
-condition, not just equality of opportunity."_ [**Class Warfare**, p. 124] As
-Smith himself put it, _"in a society where things were left to follow their
+condition, not just equality of opportunity."_ [ **Class Warfare** , p. 124]
+As Smith himself put it, _"in a society where things were left to follow their
 natural course, where there is perfect liberty"_ it would mean that
 _"advantages would soon return to the level of other employments"_ and so
 _"the different employments of labour and stock must . . . be either perfectly
@@ -717,10 +718,10 @@ attempts to regulate differences between masters and their workmen, its
 counsellors are always the masters. When regulation, therefore, is in favour
 of the workmen, it is always just and equitable; but it is otherwise when in
 favour of the masters."_ He notes how _"the law"_ would _"punish"_ workers'
-combinations _"very severely"_ while ignoring the masters' combinations (_"if
-it dealt impartially, it would treat the masters in the same manner"_). [**The
-Wealth of Nations**, p. 88 and p. 129] Thus state intervention was to be
-opposed in general because the state was run by the few for the few, which
+combinations _"very severely"_ while ignoring the masters' combinations ( _"if
+it dealt impartially, it would treat the masters in the same manner"_ ). [
+**The Wealth of Nations** , p. 88 and p. 129] Thus state intervention was to
+be opposed in general because the state was run by the few for the few, which
 would make state intervention benefit the few, not the many. It is doubtful
 Smith would have left his ideas on laissez-faire unchanged if he had lived to
 see the development of corporate capitalism. It is this critical edge of
@@ -735,31 +736,31 @@ of power which only developed later. When they did see them, they didn't like
 them. Jefferson was a good example. He was strongly opposed to the
 concentrations of power that he saw developing, and warned that the banking
 institutions and the industrial corporations which were barely coming into
-existence in his day would destroy the achievements of the Revolution."_
-[**Op. Cit.**, p. 125]
+existence in his day would destroy the achievements of the Revolution."_ [
+**Op. Cit.** , p. 125]
 
 As Murray Bookchin notes, Jefferson _"is most clearly identified in the early
 history of the United States with the political demands and interests of the
-independent farmer-proprietor."_ [**The Third Revolution**, vol. 1, pp. 188-9]
-In other words, with pre-capitalist economic forms. We also find Jefferson
-contrasting the _"aristocrats"_ and the _"democrats."_ The former are _"those
-who fear and distrust the people, and wish to draw all powers from them into
-the hands of the higher classes."_ The democrats _"identify with the people,
-have confidence in them, cherish and consider them as the honest &amp; safe .
-. . depository of the public interest,"_ if not always _"the most wise."_
-[quoted by Chomsky, **Powers and Prospects**, p. 88] As Chomsky notes, the
-_"aristocrats"_ were _"the advocates of the rising capitalist state, which
-Jefferson regarded with dismay, recognising the obvious contradiction between
-democracy and the capitalism."_ [**Op. Cit.**, p. 88] Claudio J. Katz's essay
-on _"Thomas Jefferson's Liberal Anticapitalism"_ usefully explores these
-issues. [**American Journal of Political Science**, vol. 47, No. 1 (Jan,
-2003), pp. 1-17]
+independent farmer-proprietor."_ [ **The Third Revolution** , vol. 1, pp.
+188-9] In other words, with pre-capitalist economic forms. We also find
+Jefferson contrasting the _"aristocrats"_ and the _"democrats."_ The former
+are _"those who fear and distrust the people, and wish to draw all powers from
+them into the hands of the higher classes."_ The democrats _"identify with the
+people, have confidence in them, cherish and consider them as the honest &
+safe . . . depository of the public interest,"_ if not always _"the most
+wise."_ [quoted by Chomsky, **Powers and Prospects** , p. 88] As Chomsky
+notes, the _"aristocrats"_ were _"the advocates of the rising capitalist
+state, which Jefferson regarded with dismay, recognising the obvious
+contradiction between democracy and the capitalism."_ [ **Op. Cit.** , p. 88]
+Claudio J. Katz's essay on _"Thomas Jefferson's Liberal Anticapitalism"_
+usefully explores these issues. [ **American Journal of Political Science** ,
+vol. 47, No. 1 (Jan, 2003), pp. 1-17]
 
 Jefferson even went so far as to argue that _"a little rebellion now and then
 is a good thing . . . It is a medicine necessary for the sound health of
 government . . . The tree of liberty must be refreshed from time to time with
 the blood of patriots and tyrants."_ [quoted by Howard Zinn, **A People's
-History of the United States**, p. 94] However, his libertarian credentials
+History of the United States** , p. 94] However, his libertarian credentials
 are damaged by him being both a President of the United States and a slave
 owner but compared to the other "founding fathers" of the American state, his
 liberalism is of a democratic form. As Chomsky reminds us, _"all the Founding
@@ -767,9 +768,9 @@ Fathers hated democracy -- Thomas Jefferson was a partial exception, but only
 partial."_ The American state, as a classical liberal state, was designed (to
 quote James Madison) _"to protect the minority of the opulent from the
 majority."_ Or, to repeat John Jay's principle, the _"people who own the
-country ought to govern it."_ [**Understanding Power**, p. 315] If American is
-a (formally) democracy rather than an oligarchy, it is in spite of rather than
-because of classical liberalism.
+country ought to govern it."_ [ **Understanding Power** , p. 315] If American
+is a (formally) democracy rather than an oligarchy, it is in spite of rather
+than because of classical liberalism.
 
 Then there is John Stuart Mill who recognised the fundamental contradiction in
 classical liberalism. How can an ideology which proclaims itself for
@@ -781,8 +782,8 @@ side or obedience on the other."_ Rejecting the idea that there had to be _"an
 absolute master"_ in any association, he pointed out that in _"partnership in
 business . . . it is not found or thought necessary to enact that in every
 partnership, one partner shall have entire control over the concern, and the
-others shall be bound to obey his rule."_ [_"The Subjection of Women,"_ quoted
-by Susan L. Brown, **The Politics of Individualism**, pp. 45-6]
+others shall be bound to obey his rule."_ [ _"The Subjection of Women,"_
+quoted by Susan L. Brown, **The Politics of Individualism** , pp. 45-6]
 
 Yet his own example showed the flaw in liberal support for capitalism, for the
 employee **_is_** subject to a relationship in which power accrues to one
@@ -792,7 +793,7 @@ expected in the end to predominate, is not that which can exist between a
 capitalist as chief, and workpeople without a voice in management, but the
 association of the labourers themselves on terms of equality, collectively
 owning the capital . . . and working under managers elected and removable by
-themselves."_ [**The Principles of Political Economy**, p. 147] Autocratic
+themselves."_ [ **The Principles of Political Economy** , p. 147] Autocratic
 management during working hours is hardly compatible with Mill's maxim that
 _"[o]ver himself, over his own body and mind, the individual is sovereign."_
 Mill's opposition to centralised government and wage slavery brought his ideas
@@ -800,10 +801,10 @@ closer to anarchism than most liberals, as did his comment that the _"social
 principle of the future"_ was _"how to unite the greatest individual liberty
 of action with a common ownership in the raw materials of the globe, and equal
 participation of all in the benefits of combined labour."_ [quoted by Peter
-Marshall, **Demanding the Impossible**, p. 164] His defence of individuality,
-**On Liberty**, is a classic, if flawed, work and his analysis of socialist
-tendencies (_"Chapters on Socialism"_) is worth reading for its evaluation of
-their pros and cons from a (democratic) liberal perspective.
+Marshall, **Demanding the Impossible** , p. 164] His defence of individuality,
+**On Liberty** , is a classic, if flawed, work and his analysis of socialist
+tendencies ( _"Chapters on Socialism"_ ) is worth reading for its evaluation
+of their pros and cons from a (democratic) liberal perspective.
 
 Like Proudhon, Mill was a forerunner of modern-day market socialism and a firm
 supporter of decentralisation and social participation. This, argues Chomsky,
@@ -813,29 +814,29 @@ about the human need for liberty, diversity, and free association. On the same
 assumptions, capitalist relations of production, wage labour, competitiveness,
 the ideology of 'possessive individualism' -- all must be regarded as
 fundamentally antihuman. Libertarian socialism is properly to be regarded as
-the inheritor of the liberal ideals of the Enlightenment."_ [_"Notes on
-Anarchism"_, **Op. Cit.**, p. 157]
+the inheritor of the liberal ideals of the Enlightenment."_ [ _"Notes on
+Anarchism"_ , **Op. Cit.** , p. 157]
 
 Thus anarchism shares commonality with pre-capitalist and democratic liberal
 forms. The hopes of these liberals were shattered with the development of
 capitalism. To quote Rudolf Rocker's analysis:
 
 > _"Liberalism and Democracy were pre-eminently political concepts, and since
-the great majority of the original adherents of both maintained the right of
-ownership in the old sense, these had to renounce them both when economic
-development took a course which could not be practically reconciled with the
-original principles of Democracy, and still less with those of Liberalism.
-Democracy, with its motto of 'all citizens equal before the law,' and
-Liberalism with its 'right of man over his own person,' both shipwrecked on
-the realities of the capitalist economic form. So long as millions of human
-beings in every country had to sell their labour-power to a small minority of
-owners, and to sink into the most wretched misery if they could find no
-buyers, the so-called 'equality before the law' remains merely a pious fraud,
-since the laws are made by those who find themselves in possession of the
-social wealth. But in the same way there can also be no talk of a 'right over
-one's own person,' for that right ends when one is compelled to submit to the
-economic dictation of another if he does not want to starve."_ [**Anarcho-
-Syndicalism**, p. 10]
+> the great majority of the original adherents of both maintained the right of
+> ownership in the old sense, these had to renounce them both when economic
+> development took a course which could not be practically reconciled with the
+> original principles of Democracy, and still less with those of Liberalism.
+> Democracy, with its motto of 'all citizens equal before the law,' and
+> Liberalism with its 'right of man over his own person,' both shipwrecked on
+> the realities of the capitalist economic form. So long as millions of human
+> beings in every country had to sell their labour-power to a small minority
+> of owners, and to sink into the most wretched misery if they could find no
+> buyers, the so-called 'equality before the law' remains merely a pious
+> fraud, since the laws are made by those who find themselves in possession of
+> the social wealth. But in the same way there can also be no talk of a 'right
+> over one's own person,' for that right ends when one is compelled to submit
+> to the economic dictation of another if he does not want to starve."_ [
+> **Anarcho-Syndicalism** , p. 10]
 
 ## A.4.3 Are there any socialist thinkers close to anarchism?
 
@@ -854,10 +855,10 @@ would have). John Francis Bray is also of interest, as is the radical
 agrarianist Thomas Spence who developed a communal form of land-based
 socialism which expounded many ideas usually associated with anarchism (see
 _"The Agrarian Socialism of Thomas Spence"_ by Brian Morris in his book
-**Ecology and Anarchism**). Moreover, the early British trade union movement
+**Ecology and Anarchism** ). Moreover, the early British trade union movement
 _"developed, stage by stage, a theory of syndicalism"_ 40 years before Bakunin
 and the libertarian wing of the First International did. [E.P. Thompson, **The
-Making of the English Working Class**, p. 912] Noel Thompson's **The Real
+Making of the English Working Class** , p. 912] Noel Thompson's **The Real
 Rights of Man** is a good summary of all these thinkers and movements, as is
 E.P. Thompson's classic social history of working class life (and politics) of
 this period, **The Making of the English Working Class**.
@@ -885,7 +886,7 @@ possessed by others. It must be a world in which affection has free play, in
 which love is purged of the instinct for domination, in which cruelty and envy
 have been dispelled by happiness and the unfettered development of all the
 instincts that build up life and fill it with mental delights."_ [quoted by
-Noam Chomsky, **Problems of Knowledge and Freedom**, pp. 59-60, p. 61 and p.
+Noam Chomsky, **Problems of Knowledge and Freedom** , pp. 59-60, p. 61 and p.
 x] An informed and interesting writer on many subjects, his thought and social
 activism has influenced many other thinkers, including Noam Chomsky (whose
 **Problems of Knowledge and Freedom** is a wide ranging discussion on some of
@@ -918,8 +919,8 @@ abstracted from (i.e. ignored!) the class struggle at the heart of production
 (Autonomist Marxism rejects this interpretation of Marx, but they are the only
 Marxists who do). Castoriadis, like social anarchists, saw the future society
 as one based on radical autonomy, generalised self-management and workers'
-councils organised from the bottom up. His three volume collected works
-(**Political and Social Writings**) are essential reading for anyone
+councils organised from the bottom up. His three volume collected works (
+**Political and Social Writings** ) are essential reading for anyone
 interested in libertarian socialist politics and a radical critique of
 Marxism.
 
@@ -931,31 +932,31 @@ opposed to the bureaucratic reformism of Labour as well as the police-state
 "socialism" of Stalinism and the authoritarianism of the Leninism which
 produced it. He produced numerous key pamphlets which shaped the thinking of a
 generation of anarchists and other libertarian socialists. These included
-**Paris: May 1968**, his brilliant eyewitness account of the near-revolution
+**Paris: May 1968** , his brilliant eyewitness account of the near-revolution
 in France, the essential **The Bolsheviks and Workers' Control** in which he
 exposed Lenin's hostility to workers' self-management, and **The Irrational in
-Politics**, a restatement and development of the early work of Wilhelm Reich.
+Politics** , a restatement and development of the early work of Wilhelm Reich.
 These and many more articles have been collected in the book **For Workers'
-Power: The Selected Writings of Maurice Brinton**, edited by David Goodway.
+Power: The Selected Writings of Maurice Brinton** , edited by David Goodway.
 
 The American radical historian Howard Zinn has sometimes called himself an
 anarchist and is well informed about the anarchist tradition (he wrote an
 excellent introductory essay on _"Anarchism"_ for a US edition of a Herbert
 Read book) . As well as his classic **A People's History of the United
-States**, his writings of civil disobedience and non-violent direct action are
-essential. An excellent collection of essays by this libertarian socialist
+States** , his writings of civil disobedience and non-violent direct action
+are essential. An excellent collection of essays by this libertarian socialist
 scholar has been produced under the title **The Zinn Reader**. Another notable
 libertarian socialists close to anarchism are Edward Carpenter (see, for
-example, Sheila Rowbotham's **Edward Carpenter: Prophet of the New Life**) and
-Simone Weil (**Oppression and Liberty**)
+example, Sheila Rowbotham's **Edward Carpenter: Prophet of the New Life** )
+and Simone Weil ( **Oppression and Liberty** )
 
 It would also be worthwhile to mention those market socialists who, like
 anarchists, base their socialism on workers' self-management. Rejecting
 central planning, they have turned back to the ideas of industrial democracy
 and market socialism advocated by the likes of Proudhon (although, coming from
 a Marxist background, they generally fail to mention the link which their
-central-planning foes stress). Allan Engler (in **Apostles of Greed**) and
-David Schweickart (in **Against Capitalism** and **After Capitalism**) have
+central-planning foes stress). Allan Engler (in **Apostles of Greed** ) and
+David Schweickart (in **Against Capitalism** and **After Capitalism** ) have
 provided useful critiques of capitalism and presented a vision of socialism
 rooted in co-operatively organised workplaces. While retaining an element of
 government and state in their political ideas, these socialists have placed
@@ -982,7 +983,7 @@ Marx's libertarian opponent in the First International, they argued that a
 federation of workers' councils would form the basis of a socialist society
 and, consequently, saw the need to build militant workplace organisations to
 promote their formation. Lenin attacked these movements and their advocates in
-his diatribe **Left-wing Communism: An Infantile Disorder**, which council
+his diatribe **Left-wing Communism: An Infantile Disorder** , which council
 communist Herman Gorter demolished in his **An Open Letter to Comrade Lenin**.
 By 1921, the council communists broke with the Bolshevism that had already
 effectively expelled them from both the national Communist Parties and the
@@ -998,8 +999,8 @@ and beginning the restoration of oppression and exploitation.
 
 To discover more about council communism, the works of Paul Mattick are
 essential reading. While best known as a writer on Marxist economic theory in
-such works as **Marx and Keynes**, **Economic Crisis and Crisis Theory** and
-**Economics, Politics and the Age of Inflation**, Mattick had been a council
+such works as **Marx and Keynes** , **Economic Crisis and Crisis Theory** and
+**Economics, Politics and the Age of Inflation** , Mattick had been a council
 communist since the German revolution of 1919/1920. His books **Anti-Bolshevik
 Communism** and **Marxism: The Last Refuge of the Bourgeoisie?** are excellent
 introductions to his political ideas. Also essential reading is Anton
@@ -1028,7 +1029,7 @@ alienated from their own lives and played the role of an audience, of
 spectators. Thus capitalism had turned being into having and now, with the
 spectacle, it turned having into appearing. They argued that we could not wait
 for a distant revolution, but rather should liberate ourselves in the here and
-now, creating events (_"situations"_) which would disrupt the ordinary and
+now, creating events ( _"situations"_ ) which would disrupt the ordinary and
 normal to jolt people out of their allotted roles within society. A social
 revolution based on sovereign rank and file assemblies and self-managed
 councils would be the ultimate "situation" and the aim of all Situationists.
@@ -1051,14 +1052,14 @@ at the heart of its analysis of capitalism. It initially developed in Italy
 during the 1960s and has many currents, some closer to anarchism than others.
 While the most famous thinker in the Autonomist tradition is probably Antonio
 Negri (who coined the wonderful phrase _"money has only one face, that of the
-boss"_ in **Marx Beyond Marx**) his ideas are more within traditional Marxist.
-For an Autonomist whose ideas are closer to anarchism, we need to turn to the
-US thinker and activist who has written the one of the best summaries of
-Kropotkin's ideas in which he usefully indicates the similarities between
-anarcho-communism and Autonomist Marxism (_"Kropotkin, Self-valorisation and
-the Crisis of Marxism,"_ **Anarchist Studies**, vol. 2, no. 3). His book
-**Reading Capital Politically** is an essential text for understanding
-Autonomism and its history.
+boss"_ in **Marx Beyond Marx** ) his ideas are more within traditional
+Marxist. For an Autonomist whose ideas are closer to anarchism, we need to
+turn to the US thinker and activist who has written the one of the best
+summaries of Kropotkin's ideas in which he usefully indicates the similarities
+between anarcho-communism and Autonomist Marxism ( _"Kropotkin, Self-
+valorisation and the Crisis of Marxism,"_ **Anarchist Studies** , vol. 2, no.
+3). His book **Reading Capital Politically** is an essential text for
+understanding Autonomism and its history.
 
 For Cleaver, _"autonomist Marxism"_ as generic name for a variety of
 movements, politics and thinkers who have emphasised the autonomous power of
@@ -1099,13 +1100,13 @@ Engels.
 Other libertarian Marxists close to anarchism include Erich Fromm and Wilhelm
 Reich. Both tried to combine Marx with Freud to produce a radical analysis of
 capitalism and the personality disorders it causes. Erich Fromm, in such books
-as **The Fear of Freedom**, **Man for Himself**, **The Sane Society** and **To
-Have or To Be?** developed a powerful and insightful analysis of capitalism
-which discussed how it shaped the individual and built psychological barriers
-to freedom and authentic living. His works discuss many important topics,
-including ethics, the authoritarian personality (what causes it and how to
-change it), alienation, freedom, individualism and what a good society would
-be like.
+as **The Fear of Freedom** , **Man for Himself** , **The Sane Society** and
+**To Have or To Be?** developed a powerful and insightful analysis of
+capitalism which discussed how it shaped the individual and built
+psychological barriers to freedom and authentic living. His works discuss many
+important topics, including ethics, the authoritarian personality (what causes
+it and how to change it), alienation, freedom, individualism and what a good
+society would be like.
 
 Fromm's analysis of capitalism and the _"having"_ mode of life are incredibly
 insightful, especially in context with today's consumerism. For Fromm, the way
@@ -1120,10 +1121,10 @@ capitalism). We are happy to the extent that we realise ourselves and for this
 to occur our society must value the human over the inanimate (property).
 
 Fromm rooted his ideas in a humanistic interpretation of Marx, rejecting
-Leninism and Stalinism as an authoritarian corruption of his ideas (_"the
-destruction of socialism . . . began with Lenin."_). Moreover, he stressed the
-need for a decentralised and libertarian form of socialism, arguing that the
-anarchists had been right to question Marx's preferences for states and
+Leninism and Stalinism as an authoritarian corruption of his ideas ( _"the
+destruction of socialism . . . began with Lenin."_ ). Moreover, he stressed
+the need for a decentralised and libertarian form of socialism, arguing that
+the anarchists had been right to question Marx's preferences for states and
 centralisation. As he put it, the _"errors of Marx and Engels . . . [and]
 their centralistic orientation, were due to the fact they were much more
 rooted in the middle-class tradition of the eighteenth and nineteenth
@@ -1134,8 +1135,8 @@ Engels were much more 'bourgeois' thinkers than were men like Proudhon,
 Bakunin, Kropotkin and Landauer. Paradoxical as it sounds, the Leninist
 development of Socialism represented a regression to the bourgeois concepts of
 the state and of political power, rather than the new socialist concept as it
-was expressed so much clearer by Owen, Proudhon and others."_ [**The Sane
-Society**, p. 265, p. 267 and p. 259] Fromm's Marxism, therefore, was
+was expressed so much clearer by Owen, Proudhon and others."_ [ **The Sane
+Society** , p. 265, p. 267 and p. 259] Fromm's Marxism, therefore, was
 fundamentally of a libertarian and humanist type and his insights of profound
 importance for anyone interested in changing society for the better.
 
@@ -1143,7 +1144,7 @@ Wilheim Reich, like Fromm, set out to elaborate a social psychology based on
 both Marxism and psychoanalysis. For Reich, sexual repression led to people
 amenable to authoritarianism and happy to subject themselves to authoritarian
 regimes. While he famously analysed Nazism in this way (in **The Mass
-Psychology of Fascism**, his insights also apply to other societies and
+Psychology of Fascism** , his insights also apply to other societies and
 movements (it is no co-incidence, for example, that the religious right in
 America oppose pre-martial sex and use scare tactics to get teenagers to
 associate it with disease, dirt and guilt).
@@ -1182,7 +1183,7 @@ Maurice Brinton's **The Irrational in Politics** is an excellent short
 introduction to Reich's ideas which links their insights to libertarian
 socialism.
 
-[‹ A.3 What types of anarchism are there?](secA3.md "Go to previous page" )
-[up](secAcon.md "Go to parent page" ) [A.5 What are some examples of
-"Anarchy in Action"? ›](secA5.md "Go to next page" )
+[‹ A.3 What types of anarchism are there?](secA3.md "Go to previous page")
+[up](secAcon.md "Go to parent page") [A.5 What are some examples of "Anarchy
+in Action"? ›](secA5.md "Go to next page")
 

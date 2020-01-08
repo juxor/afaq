@@ -28,17 +28,15 @@ indicated the religious and statist nature of private property and its impact
 on individual liberty when he wrote :
 
 > _"Property in the civic sense means **sacred** property, such that I must
-**respect** your property... Be it ever so little, if one only has somewhat of
-his own - to wit, a **respected** property: The more such owners... the more
-'free people and good patriots' has the State. _
-
+> **respect** your property... Be it ever so little, if one only has somewhat
+> of his own - to wit, a **respected** property: The more such owners... the
+> more 'free people and good patriots' has the State. _
 >
-
 > _"Political liberalism, like everything religious, counts on **respect,**
-humaneness, the virtues of love. . . . For in practice people respect nothing,
-and everyday the small possessions are bought up again by greater proprietors,
-and the 'free people' change into day labourers."_ [**The Ego and Its Own**,
-p. 248]
+> humaneness, the virtues of love. . . . For in practice people respect
+> nothing, and everyday the small possessions are bought up again by greater
+> proprietors, and the 'free people' change into day labourers."_ [ **The Ego
+> and Its Own** , p. 248]
 
 Thus "anarcho"-capitalists reject totally one of the common (and so defining)
 features of all anarchist traditions -- the opposition to capitalist property.
@@ -47,14 +45,14 @@ Bookchin, anarchists have been opposed to what Godwin termed _"accumulated
 property."_ This was because it was in _"direct contradiction"_ to property in
 the form of _"the produce of his [the worker's] own industry"_ and so it
 allows _"one man. . . [to] dispos[e] of the produce of another man's
-industry."_ [**The Anarchist Reader**, pp. 129-131] Thus, for anarchists,
+industry."_ [ **The Anarchist Reader** , pp. 129-131] Thus, for anarchists,
 capitalist property is a source exploitation and domination, **not** freedom
 (it undermines the freedom associated with possession by created relations of
 domination between owner and employee).
 
 Hardly surprising then the fact that, according to Murray Bookchin, Murray
 Rothbard _"attacked me [Bookchin] as an anarchist with vigour because, as he
-put it, I am opposed to private property."_ [**The Raven**, no. 29, p. 343]
+put it, I am opposed to private property."_ [ **The Raven** , no. 29, p. 343]
 
 We will discuss Rothbard's "homesteading" justification of property in the
 [next section](append134.md#secf41). However, we will note here one aspect
@@ -63,24 +61,24 @@ easily generates evil side effects such as hierarchy and starvation. As famine
 expert Amartya Sen notes:
 
 > _"Take a theory of entitlements based on a set of rights of 'ownership,
-transfer and rectification.' In this system a set of holdings of different
-people are judged to be just (or unjust) by looking at past history, and not
-by checking the consequences of that set of holdings. But what if the
-consequences are recognisably terrible? . . .[R]efer[ing] to some empirical
-findings in a work on famines . . . evidence [is presented] to indicate that
-in many large famines in the recent past, in which millions of people have
-died, there was no over-all decline in food availability at all, and the
-famines occurred precisely because of shifts in entitlement resulting from
-exercises of rights that are perfectly legitimate. . . . [Can] famines . . .
-occur with a system of rights of the kind morally defended in various ethical
-theories, including Nozick's. I believe the answer is straightforwardly yes,
-since for many people the only resource that they legitimately possess, viz.
-their labour-power, may well turn out to be unsaleable in the market, giving
-the person no command over food . . . [i]f results such as starvations and
-famines were to occur, would the distribution of holdings still be morally
-acceptable despite their disastrous consequences? There is something deeply
-implausible in the affirmative answer."_ [**Resources, Values and
-Development**, pp. 311-2]
+> transfer and rectification.' In this system a set of holdings of different
+> people are judged to be just (or unjust) by looking at past history, and not
+> by checking the consequences of that set of holdings. But what if the
+> consequences are recognisably terrible? . . .[R]efer[ing] to some empirical
+> findings in a work on famines . . . evidence [is presented] to indicate that
+> in many large famines in the recent past, in which millions of people have
+> died, there was no over-all decline in food availability at all, and the
+> famines occurred precisely because of shifts in entitlement resulting from
+> exercises of rights that are perfectly legitimate. . . . [Can] famines . . .
+> occur with a system of rights of the kind morally defended in various
+> ethical theories, including Nozick's. I believe the answer is
+> straightforwardly yes, since for many people the only resource that they
+> legitimately possess, viz. their labour-power, may well turn out to be
+> unsaleable in the market, giving the person no command over food . . . [i]f
+> results such as starvations and famines were to occur, would the
+> distribution of holdings still be morally acceptable despite their
+> disastrous consequences? There is something deeply implausible in the
+> affirmative answer."_ [ **Resources, Values and Development** , pp. 311-2]
 
 Thus "unrestricted" property rights can have seriously bad consequences and so
 the existence of "justly held" property need not imply a just or free society
@@ -115,19 +113,19 @@ agreement and "consent" (see section [3.1](append133.md#secf31)). As Peter
 Kropotkin pointed out long ago:
 
 > _"When a workman sells his labour to an employer . . . it is a mockery to
-call that a free contract. Modern economists may call it free, but the father
-of political economy -- Adam Smith -- was never guilty of such a
-misrepresentation. As long as three-quarters of humanity are compelled to
-enter into agreements of that description, force is, of course, necessary,
-both to enforce the supposed agreements and to maintain such a state of
-things. Force -- and a good deal of force -- is necessary to prevent the
-labourers from taking possession of what they consider unjustly appropriated
-by the few. . . . The Spencerian party [proto-right-libertarians] perfectly
-well understand that; and while they advocate no force for changing the
-existing conditions, they advocate still more force than is now used for
-maintaining them. As to Anarchy, it is obviously as incompatible with
-plutocracy as with any other kind of -cracy."_ [**Anarchism and Anarchist
-Communism**, pp. 52-53]
+> call that a free contract. Modern economists may call it free, but the
+> father of political economy -- Adam Smith -- was never guilty of such a
+> misrepresentation. As long as three-quarters of humanity are compelled to
+> enter into agreements of that description, force is, of course, necessary,
+> both to enforce the supposed agreements and to maintain such a state of
+> things. Force -- and a good deal of force -- is necessary to prevent the
+> labourers from taking possession of what they consider unjustly appropriated
+> by the few. . . . The Spencerian party [proto-right-libertarians] perfectly
+> well understand that; and while they advocate no force for changing the
+> existing conditions, they advocate still more force than is now used for
+> maintaining them. As to Anarchy, it is obviously as incompatible with
+> plutocracy as with any other kind of -cracy."_ [ **Anarchism and Anarchist
+> Communism** , pp. 52-53]
 
 Because of this need to defend privilege and power, "anarcho"-capitalism is
 best called "private-state" capitalism. This will be discussed in more detail
@@ -137,9 +135,9 @@ By advocating private property, right libertarians contradict many of their
 other claims. For example, they say that they support the right of individuals
 to travel where they like. They make this claim because they assume that only
 the state limits free travel. But this is a false assumption. Owners must
-agree to let you on their land or property (_"people only have the right to
+agree to let you on their land or property ( _"people only have the right to
 move to those properties and lands where the owners desire to rent or sell to
-them."_ [Murray Rothbard, **The Ethics of Liberty**, p. 119]. There is no
+them."_ [Murray Rothbard, **The Ethics of Liberty** , p. 119]. There is no
 "freedom of travel" onto private property (including private roads). Therefore
 immigration may be just as hard under "anarcho"-capitalism as it is under
 statism (after all, the state, like the property owner, only lets people in
@@ -154,9 +152,9 @@ views of dead political thinkers and activists while claiming them as
 "libertarians" seems to be commonplace in right-Libertarian circles. For
 example, Aristotle (beloved by Ayn Rand) _"thought that only living things
 could bear fruit. Money, not a living thing, was by its nature barren, and any
-attempt to make it bear fruit (**tokos**, in Greek, the same word used for
+attempt to make it bear fruit ( **tokos** , in Greek, the same word used for
 interest) was a crime against nature."_ [Marcello de Cecco, quoted by Doug
-Henwood, **Wall Street**, p. 41] Such opposition to interest hardly fits well
+Henwood, **Wall Street** , p. 41] Such opposition to interest hardly fits well
 into capitalism, and so either goes unmentioned or gets classed as an "error"
 (although we could ask why Aristotle is in error while Rand is not).
 Similarly, individualist anarchist opposition to capitalist property and rent,
@@ -174,7 +172,7 @@ it is argued that property comes from occupancy and mixing labour with natural
 resources (which are assumed to be unowned). Thus the world is transformed
 into private property, for _"title to an unowned resource (such as land) comes
 properly only from the expenditure of labour to transform that resource into
-use."_ [**The Ethics of Liberty**, p. 63]
+use."_ [ **The Ethics of Liberty** , p. 63]
 
 Rothbard paints a conceptual history of individuals and families forging a
 home in the wilderness by the sweat of their labour (its tempting to rename
@@ -194,14 +192,14 @@ himself in . . . Here, then, is a piece of land upon which, henceforth, no one
 has a right to step, save the proprietor and his friends . . . Let [this]. . .
 multiply, and soon the people . . . will have nowhere to rest, no place to
 shelter, no ground to till. They will die at the proprietor's door, on the
-edge of that property which was their birthright."_ [**What is Property?**,
+edge of that property which was their birthright."_ [ **What is Property?** ,
 pp. 84-85, p. 118]
 
 As Rothbard himself noted in respect to the aftermath of slavery (see section
 [2.1](append132.md#secf21)), not having access to the means of life places
 one the position of unjust dependency on those who do. Rothbard's theory fails
 because for _"[w]e who belong to the proletaire class, property excommunicates
-us!"_ [P-J Proudhon, **Op. Cit.**, p. 105] and so the vast majority of the
+us!"_ [P-J Proudhon, **Op. Cit.** , p. 105] and so the vast majority of the
 population experience property as theft and despotism rather than as a source
 of liberty and empowerment (which possession gives). Thus, Rothbard's account
 fails to take into account the Lockean Proviso (see section
@@ -211,11 +209,11 @@ section](append134.md#secf42) on why the Lockean Proviso is important).
 
 It also seems strange that while (correctly) attacking social contract
 theories of the state as invalid (because _"no past generation can bind later
-generations"_ [**Op. Cit.**, p. 145]) he fails to see he is doing **exactly
+generations"_ [ **Op. Cit.** , p. 145]) he fails to see he is doing **exactly
 that** with his support of private property (similarly, Ayn Rand argued that
 _"[a]ny alleged 'right' of one man, which necessitates the violation of the
-right of another, is not and cannot be a right"_ [**Capitalism: The Unknown
-Ideal**, p. 325] but obviously appropriating land does violate the rights of
+right of another, is not and cannot be a right"_ [ **Capitalism: The Unknown
+Ideal** , p. 325] but obviously appropriating land does violate the rights of
 others to walk, use or appropriate that land). Due to his support for
 appropriation and inheritance, he is clearly ensuring that future generations
 are **not** born as free as the first settlers were (after all, they cannot
@@ -234,12 +232,12 @@ that rivers, oceans, and so forth are unowned, but how can an individual
 "mixed labour" with it? If so then transnational corporations can pay workers
 to fence in vast tracks of virgin land (such as rainforest) and so come to
 "own" it. Rothbard argues that this is not the case (he expresses opposition
-to _"arbitrary claims"_). He notes that it is **not** the case that _"the
+to _"arbitrary claims"_ ). He notes that it is **not** the case that _"the
 first discoverer . . . could properly lay claim to [a piece of land] . . .
 [by] laying out a boundary for the area."_ He thinks that _"their claim would
-still be no more than the boundary **itself**, and not to any of the land
-within, for only the boundary will have been transformed and used by men"_
-[**Op. Cit.**, p. 50f]
+still be no more than the boundary **itself** , and not to any of the land
+within, for only the boundary will have been transformed and used by men"_ [
+**Op. Cit.** , p. 50f]
 
 However, if the boundary **is** private property and the owner refuses others
 permission to cross it, then the enclosed land is inaccessible to others! If
@@ -269,8 +267,8 @@ land untouched). If another person appears who **does** transform the land, it
 becomes _"justly owned by another"_ and the original owner cannot stop her
 (and should the original owner _"use violence to prevent another settler from
 entering this never-used land and transforming it into use"_ they also become
-a _"criminal aggressor"_). Rothbard also stresses that he is **not** saying
-that land must continually be in use to be valid property [**Op. Cit.**, pp.
+a _"criminal aggressor"_ ). Rothbard also stresses that he is **not** saying
+that land must continually be in use to be valid property [ **Op. Cit.** , pp.
 63-64] (after all, that would justify landless workers seizing the land from
 landowners during a depression and working it themselves).
 
@@ -330,7 +328,7 @@ aggressors" and removed from the picture.
 
 Which is another problem with Rothbard's account. It is completely ahistoric
 (and so, as we noted above, is more like an _"immaculate conception of
-property"_). He has transported "capitalist man" into the dawn of time and
+property"_ ). He has transported "capitalist man" into the dawn of time and
 constructed a history of property based upon what he is trying to justify (not
 surprising, as he does this with his "Natural Law" theory too - see [section
 7](append137.md)). What **is** interesting to note, though, is that the
@@ -345,10 +343,10 @@ emerged. To barter home-grown goods and objects, to share tools and
 implements, to engage in common labour during harvesting time in a system of
 mutual aid, indeed, to help new-comers in barn-raising, corn-husking, log-
 rolling, and the like, was the indispensable cement that bound scattered
-farmsteads into a united community."_ [**The Third Revolution**, vol. 1, p.
+farmsteads into a united community."_ [ **The Third Revolution** , vol. 1, p.
 233] Bookchin quotes David P. Szatmary (author of a book on Shay' Rebellion)
 stating that it was a society based upon _"co-operative, community orientated
-interchanges"_ and not a _"basically competitive society."_ [**Ibid.**]
+interchanges"_ and not a _"basically competitive society."_ [ **Ibid.** ]
 
 Into this non-capitalist society came capitalist elements. Market forces and
 economic power soon resulted in the transformation of this society. Merchants
@@ -358,7 +356,7 @@ goods. In response Shay's rebellion started, a rebellion which was an
 important factor in the centralisation of state power in America to ensure
 that popular input and control over government were marginalised and that the
 wealthy elite and their property rights were protected against the many (see
-Bookchin, **Op. Cit.**, for details). Thus the homestead system was
+Bookchin, **Op. Cit.** , for details). Thus the homestead system was
 undermined, essentially, by the need to pay for services in specie (as
 demanded by merchants).
 
@@ -386,10 +384,10 @@ uses a previously unused resource, it is because it has value to him/her, as
 an individual, to engage in such action. The individual has stolen nothing
 because it was previously unowned and we cannot know if other people are
 better or worse off, all we know is that, for whatever reason, they did not
-appropriate the resource (_"If latecomers are worse off, well then that is
+appropriate the resource ( _"If latecomers are worse off, well then that is
 their proper assumption of risk in this free and uncertain world. There is no
 longer a vast frontier in the United States, and there is no point crying over
-the fact."_ [Murray Rothbard, **The Ethics of Liberty**, p. 240]).
+the fact."_ [Murray Rothbard, **The Ethics of Liberty** , p. 240]).
 
 Hence the appropriation of resources is an essentially individualistic,
 asocial act -- the requirements of others are either irrelevant or unknown.
@@ -401,29 +399,30 @@ However, let us start with a defence of rejecting the Proviso from a leading
 Austrian economist:
 
 > _"Consider . . . the case . . . of the unheld sole water hole in the desert
-(which **everyone** in a group of travellers knows about), which one of the
-travellers, by racing ahead of the others, succeeds in appropriating . . .
-[This] clearly and unjustly violates the Lockean proviso. . . For use,
-however, this view is by no means the only one possible. We notice that the
-energetic traveller who appropriated all the water was not doing anything
-which (always ignoring, of course, prohibitions resting on the Lockean proviso
-itself) the other travellers were not equally free to do. The other
-travellers, too, could have raced ahead . . . [they] did **not** bother to
-race for the water . . . It does not seem obvious that these other travellers
-can claim that they were **hurt** by an action which they could themselves
-have easily taken"_ [Israel M. Kirzner, _"Entrepreneurship, Entitlement, and
-Economic Justice"_, pp. 385-413, in **Reading Nozick**, p. 406]
+> (which **everyone** in a group of travellers knows about), which one of the
+> travellers, by racing ahead of the others, succeeds in appropriating . . .
+> [This] clearly and unjustly violates the Lockean proviso. . . For use,
+> however, this view is by no means the only one possible. We notice that the
+> energetic traveller who appropriated all the water was not doing anything
+> which (always ignoring, of course, prohibitions resting on the Lockean
+> proviso itself) the other travellers were not equally free to do. The other
+> travellers, too, could have raced ahead . . . [they] did **not** bother to
+> race for the water . . . It does not seem obvious that these other
+> travellers can claim that they were **hurt** by an action which they could
+> themselves have easily taken"_ [Israel M. Kirzner, _"Entrepreneurship,
+> Entitlement, and Economic Justice"_ , pp. 385-413, in **Reading Nozick** ,
+> p. 406]
 
 Murray Rothbard, we should note, takes a similar position in a similar
 example, arguing that _"the owner [of the sole oasis] is scarcely being
 'coercive'; in fact he is supplying a vital service, and should have the right
 to refuse a sale or charge whatever the customers will pay. The situation may
-be unfortunate for the customers, as are many situations in life."_ [**The
-Ethics of Liberty**, p. 221] (Rothbard, we should note, is relying to the
+be unfortunate for the customers, as are many situations in life."_ [ **The
+Ethics of Liberty** , p. 221] (Rothbard, we should note, is relying to the
 right-libertarian von Hayek who -- to his credit -- does maintain that this is
 a coercive situation; but as others, including other right-libertarians, point
 out, he has to change his definition of coercion/freedom to do so -- see
-Stephan L. Newman's **Liberalism at Wit's End**, pp. 130-134 for an excellent
+Stephan L. Newman's **Liberalism at Wit's End** , pp. 130-134 for an excellent
 summary of this debate).
 
 Now, we could be tempted just to rant about the evils of the right libertarian
@@ -441,7 +440,7 @@ because they were ethical people -- they would not desire to inflict such
 tyranny on others because they would not like it inflicted upon them.
 
 Thus we can answer Kirzner's question -- _"What . . . is so obviously
-acceptable about the Lockean proviso. . . ?"_ [**Ibid.**]
+acceptable about the Lockean proviso. . . ?"_ [ **Ibid.** ]
 
 It is the means by which human actions are held accountable to social
 standards and ethics. It is the means by which the greediest, most evil and
@@ -455,8 +454,8 @@ example is a good illustration of the dangers of deductive logic from
 assumptions (see section [1.3](append131.md#secf13) for more on this right-
 libertarian methodology) -- after all W. Duncan Reekie, in his introduction to
 Austrian Economics, states that _"[t]o be intellectually consistent one must
-concede his absolute right to the oasis."_ [**Markets, Entrepreneurs and
-Liberty**, p. 181] To place ideology before people is to ensure humanity is
+concede his absolute right to the oasis."_ [ **Markets, Entrepreneurs and
+Liberty** , p. 181] To place ideology before people is to ensure humanity is
 placed on a Procrustean bed.
 
 Which brings us to another point. Often right-libertarians say that anarchists
@@ -475,10 +474,10 @@ Anarchism is not the "politics of envy"; it is the politics of liberty and the
 desire to treat others as "ends in themselves".
 
 Rothbard is aware of what is involved in accepting the Lockean Proviso --
-namely the existence of private property (_"Locke's proviso may lead to the
+namely the existence of private property ( _"Locke's proviso may lead to the
 outlawry of **all** private property of land, since one can always say that
 the reduction of available land leaves everyone else . . . worse off"_, **The
-Ethics of Liberty**, p. 240 -- see section [B.3.4](secB3.md#secb34) for a
+Ethics of Liberty** , p. 240 -- see section [B.3.4](secB3.md#secb34) for a
 discussion on why the Proviso **does** imply the end of capitalist property
 rights). Which is why he, and other right-libertarians, reject it. Its simple.
 Either you reject the Proviso and embrace capitalist property rights (and so
@@ -494,7 +493,7 @@ which must be respected by the other travellers. Simply put, if the other
 travellers gang up and dispose of this would be tyrant then they are right to
 do so -- to argue that this is a violation of the monopolists "rights" is
 insane and an indication of a slave mentality (or, following Rousseau, that
-the others are _"simple"_). Of course, if the would-be monopolist has the
+the others are _"simple"_ ). Of course, if the would-be monopolist has the
 necessary **force** to withstand the other travellers then his property then
 the matter is closed -- might makes right. But to worship rights, even when
 they obviously result in despotism, is definitely a case of _"spooks in the
@@ -565,13 +564,13 @@ engaged in for the mutual benefit of both parties, for workers have no control
 over the production process or over the product of their labour. Rand [like
 other right-libertarians] misleadingly equates trade, artistic production and
 wage-slavery. . . [but] wage-slavery . . . is quite different from the trade
-principle"_ as it is a form of _"exploitation."_ [**Ecology &amp; Anarchism**,
-p. 190]
+principle"_ as it is a form of _"exploitation."_ [ **Ecology & Anarchism**, p.
+190]
 
 He further notes that _"[s]o called trade relations involving human labour are
 contrary to the egoist values Rand [and other capitalist individualists]
 espouses - they involve little in the way of independence, freedom, integrity
-or justice."_ [**Ibid.**, p. 191]
+or justice."_ [ **Ibid.** , p. 191]
 
 Moreover, capitalist individualism actually **supports** authority and
 hierarchy. As Joshua Chen and Joel Rogers point out, the _"achievement of
@@ -586,7 +585,7 @@ Thus the hierarchical structures help develop an "individualistic" perspective
 which actually reinforces those authority structures. This, as Cohn and Rogers
 notes, means that _"the structure in which [workers] find themselves yields
 less than optimal social results from their isolated but economically rational
-decisions."_ [quoted by Alfie Kohn, **No Contest**, p. 67, p. 260f]
+decisions."_ [quoted by Alfie Kohn, **No Contest** , p. 67, p. 260f]
 
 Steve Biko, a black activist murdered by the South African police in the
 1970s, argued that _"the most potent weapon of the oppressor is the mind of
@@ -599,7 +598,7 @@ produce servile people.
 
 This is why anarchists would agree with Alfie Kohn when he argues that _"the
 individualist worldview is a profoundly conservative doctrine: it inherently
-stifles change."_ [**Ibid.**, p. 67] So, what is the best way for a boss to
+stifles change."_ [ **Ibid.** , p. 67] So, what is the best way for a boss to
 maintain his or her power? Create a hierarchical workplace and encourage
 capitalist individualism (as capitalist individualism actually works
 **against** attempts to increase freedom from hierarchy). Needless to say,
@@ -616,7 +615,7 @@ community responsibility. To be a rugged individualist a la Heinlein and
 others is to be forever a child who must obey, charm and cajole to be
 tolerated by some benign, omniscient father: Rooster Coburn shuffling his feet
 in front of a judge he respects for his office (but not necessarily himself)
-in True Grit."_ [**Starship Stormtroopers**]
+in True Grit."_ [ **Starship Stormtroopers** ]
 
 One last thing, don't be fooled into thinking that individualism or concern
 about individuality -- not **quite** the same thing -- is restricted to the
@@ -626,7 +625,7 @@ theory as developed by critics of capitalism such as Hodgskin and the
 anarchist Tucker saw ownership of capital by a few as an obstacle to genuine
 individualism, and the individualist ideal was realisable only through the
 free association of labourers (Hodgskin) or independent proprietorship
-(Tucker)."_ [David Miller, **Social Justice**, pp. 290-1]
+(Tucker)."_ [David Miller, **Social Justice** , pp. 290-1]
 
 And the reason why social anarchists oppose capitalism is that it creates a
 **false** individualism, an abstract one which crushes the individuality of
@@ -637,7 +636,7 @@ led to what it was established as a goal: that is the complete, broad, and
 most perfectly attainable development of individuality."_ The new
 individualism desired by Kropotkin _"will not consist . . . in the oppression
 of one's neighbour . . . [as this] reduced the [individualist] . . .to the
-level of an animal in a herd."_ [**Selected Writings**, p, 295, p. 296]
+level of an animal in a herd."_ [ **Selected Writings** , p, 295, p. 296]
 
 ## 4.4 How does private property affect relationships?
 
@@ -663,29 +662,29 @@ capitalism, money rules and individuality is expressed via consumption choices
 Stronach (chair of Magna International, a Canadian auto-parts maker that
 shifted its production to Mexico) put it, _"[t]o be in business your first
 mandate is to make money, and money has no heart, no soul, conscience,
-homeland."_ [cited by Doug Henwood, **Wall Street**, p. 113] And for those who
-study economics, it seems that this dehumanising effect also strikes them as
-well:
+homeland."_ [cited by Doug Henwood, **Wall Street** , p. 113] And for those
+who study economics, it seems that this dehumanising effect also strikes them
+as well:
 
 > _"Studying economics also seems to make you a nastier person. Psychological
-studies have shown that economics graduate students are more likely to 'free
-ride' -- shirk contributions to an experimental 'public goods' account in the
-pursuit of higher private returns -- than the general public. Economists also
-are less generous that other academics in charitable giving. Undergraduate
-economics majors are more likely to defect in the classic prisoner's dilemma
-game that are other majors. And on other tests, students grow less honest --
-expressing less of a tendency, for example, to return found money -- after
-studying economics, but not studying a control subject like astronomy. _
-
+> studies have shown that economics graduate students are more likely to 'free
+> ride' -- shirk contributions to an experimental 'public goods' account in
+> the pursuit of higher private returns -- than the general public. Economists
+> also are less generous that other academics in charitable giving.
+> Undergraduate economics majors are more likely to defect in the classic
+> prisoner's dilemma game that are other majors. And on other tests, students
+> grow less honest -- expressing less of a tendency, for example, to return
+> found money -- after studying economics, but not studying a control subject
+> like astronomy._
 >
-
 > _"This is no surprise, really. Mainstream economics is built entirely on a
-notion of self-interested individuals, rational self-maximisers who can order
-their wants and spend accordingly. There's little room for sentiment,
-uncertainty, selflessness, and social institutions. Whether this is an
-accurate picture of the average human is open to question, but there's no
-question that capitalism as a system and economics as a discipline both reward
-people who conform to the model."_ [Doug Henwood, **Op. Cit.**, p, 143]
+> notion of self-interested individuals, rational self-maximisers who can
+> order their wants and spend accordingly. There's little room for sentiment,
+> uncertainty, selflessness, and social institutions. Whether this is an
+> accurate picture of the average human is open to question, but there's no
+> question that capitalism as a system and economics as a discipline both
+> reward people who conform to the model."_ [Doug Henwood, **Op. Cit.** , p,
+> 143]
 
 Which, of course, highlights the problems within the "trader" model advocated
 by Ayn Rand. According to her, the trader is **the** example of moral
@@ -725,8 +724,8 @@ noted right-wing, "free market" economist Milton Friedman who contrasts
 _"central planning involving the use of coercion - the technique of the army
 or the modern totalitarian state"_ with _"voluntary co-operation between
 individuals - the technique of the marketplace"_ as two distinct ways of co-
-ordinating the economic activity of large groups (_"millions"_) of people.
-[**Capitalism and Freedom**, p. 13].
+ordinating the economic activity of large groups ( _"millions"_ ) of people. [
+**Capitalism and Freedom** , p. 13].
 
 However, this is just playing with words. As they themselves point out the
 internal structure of a corporation or capitalist company is **not** a
@@ -743,7 +742,7 @@ noted in his history of General Motors, _"[t]here is a remarkably close
 parallel between General Motors' scheme of organisation and those of the two
 institutions most renowned for administrative efficiency: that of the Catholic
 Church and that of the modern army . . ."_ [quoted by David Enger, **Apostles
-of Greed**, p. 66]. And so capitalism is marked by a series of totalitarian
+of Greed** , p. 66]. And so capitalism is marked by a series of totalitarian
 organisations -- and since when was totalitarianism liberty enhancing? Indeed,
 many "anarcho"-capitalists actually celebrate the command economy of the
 capitalist firm as being more "efficient" than self-managed firms (usually
@@ -795,7 +794,7 @@ structures. For this reason anarchists support co-operative forms of
 production rather than capitalistic forms.
 
 [‹ 3 Why do anarcho"-capitalists place little or no value on
-"equality"?](append133.md "Go to previous page" ) [up](append13.md "Go to
-parent page" ) [5 Will privatising "the commons" increase liberty?
-›](append135.md "Go to next page" )
+"equality"?](append133.md "Go to previous page") [up](append13.md "Go to
+parent page") [5 Will privatising "the commons" increase liberty?
+›](append135.md "Go to next page")
 

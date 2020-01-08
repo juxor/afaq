@@ -7,11 +7,11 @@ state-supported monopoly of social capital (tools, machinery, etc.) which
 allows owners to exploit their employees, i.e., to avoid paying workers the
 full value of their labour. He thought that the _"labouring classes are
 deprived of their earnings by usury in its three forms, interest, rent and
-profit."_ [quoted by James J. Martin, **Men Against the State**, p. 210f]
+profit."_ [quoted by James J. Martin, **Men Against the State** , p. 210f]
 Therefore _"Liberty will abolish interest; it will abolish profit; it will
 abolish monopolistic rent; it will abolish taxation; it will abolish the
 exploitation of labour; it will abolish all means whereby any labourer can be
-deprived of any of his product."_ [**The Individualist Anarchists**, p. 157]
+deprived of any of his product."_ [ **The Individualist Anarchists** , p. 157]
 
 This stance puts him squarely in the libertarian socialist tradition and,
 unsurprisingly, Tucker referred to himself many times as a socialist and
@@ -20,25 +20,25 @@ capitalist society was exploitative and stopped the full development of all
 and so had to be replaced:
 
 > _"[This] society is fundamentally anti-social. The whole so-called social
-fabric rests on privilege and power, and is disordered and strained in every
-direction by the inequalities that necessarily result therefrom. The welfare
-of each, instead of contributing to that of all, as it naturally should and
-would, almost invariably detracts from that of all. Wealth is made by legal
-privilege a hook with which to filch from labour's pockets. Every man who gets
-rich thereby makes his neighbours poor. The better off one is, the worse the
-rest are . . . Labour's Deficit is precisely equal to the Capitalist's
-Efficit. _
+> fabric rests on privilege and power, and is disordered and strained in every
+> direction by the inequalities that necessarily result therefrom. The welfare
+> of each, instead of contributing to that of all, as it naturally should and
+> would, almost invariably detracts from that of all. Wealth is made by legal
+> privilege a hook with which to filch from labour's pockets. Every man who
+> gets rich thereby makes his neighbours poor. The better off one is, the
+> worse the rest are . . . Labour's Deficit is precisely equal to the
+> Capitalist's Efficit._
 
 > _"Now, Socialism wants to change all this. Socialism says . . . that no man
-shall be able to add to his riches except by labour; that is adding to his
-riches by his labour alone no man makes another man poorer; that on the
-contrary every man thus adding to his riches makes every other man richer; . .
-. that every increase in capital in the hands of the labourer tends, in the
-absence of legal monopoly, to put more products, better products, cheaper
-products, and a greater variety of products within the reach of every man who
-works; and that this fact means the physical, mental, and moral perfecting of
-mankind, and the realisation of human fraternity."_ [**Instead of a Book**,
-pp. 361-2]
+> shall be able to add to his riches except by labour; that is adding to his
+> riches by his labour alone no man makes another man poorer; that on the
+> contrary every man thus adding to his riches makes every other man richer; .
+> . . that every increase in capital in the hands of the labourer tends, in
+> the absence of legal monopoly, to put more products, better products,
+> cheaper products, and a greater variety of products within the reach of
+> every man who works; and that this fact means the physical, mental, and
+> moral perfecting of mankind, and the realisation of human fraternity."_ [
+> **Instead of a Book** , pp. 361-2]
 
 It is true that he also sometimes railed against "socialism," but in those
 cases it is clear that he was referring to **state** socialism. Like many
@@ -46,20 +46,20 @@ anarchists (including Proudhon, Bakunin and Kropotkin), he argued that there
 are two kinds of socialism based upon two different principles:
 
 > _"The two principles referred to are Authority and Liberty, and the names of
-the two schools of Socialistic thought which fully and unreservedly represent
-one or the other of them are, respectively, State Socialism and Anarchism.
-Whoso knows what these two schools want and how they propose to get it
-understands the Socialistic movement. For, just as it has been said that there
-is no half-way house between Rome and Reason, so it may be said that there is
-no half-way house between State Socialism and Anarchism."_ [**The Anarchist
-Reader**, p. 150]
+> the two schools of Socialistic thought which fully and unreservedly
+> represent one or the other of them are, respectively, State Socialism and
+> Anarchism. Whoso knows what these two schools want and how they propose to
+> get it understands the Socialistic movement. For, just as it has been said
+> that there is no half-way house between Rome and Reason, so it may be said
+> that there is no half-way house between State Socialism and Anarchism."_ [
+> **The Anarchist Reader** , p. 150]
 
 Like other socialists, Tucker argued that profits _"to a few mean robbery of
 others, -- monopoly. Andrews and Warren, realising this, make individual
 sovereignty **and** the cost principle the essential conditions of a true
-civilisation."_ [**Liberty**, no. 94, p. 1] Like Proudhon, he argued that
-_"property, in the sense of individual possession, is liberty."_ [**Op.
-Cit.**, no. 122, p. 4] However, unlike state socialists and communist-
+civilisation."_ [ **Liberty** , no. 94, p. 1] Like Proudhon, he argued that
+_"property, in the sense of individual possession, is liberty."_ [ **Op.
+Cit.** , no. 122, p. 4] However, unlike state socialists and communist-
 anarchists, Tucker saw a key role for a market system under socialism. In this
 he followed Proudhon who also argued that competition was required to ensure
 that prices reflected the labour costs involved in producing it and so
@@ -71,17 +71,17 @@ reach its full promise and become a means of enriching all rather than the
 few:
 
 > _"Liberty's aim -- universal happiness -- is that of all Socialists, in
-contrast with that of the Manchester men -- luxury fed by misery. But its
-principle -- individual sovereignty -- is that of the Manchester men, in
-contrast with that of the Socialists -- individual subordination. But
-individual sovereignty, **when logically carried out**, leads, not to luxury
-fed by misery, but to comfort for all industrious persons and death for all
-idle ones."_ [**Liberty**, no. 89, p. 1]
+> contrast with that of the Manchester men -- luxury fed by misery. But its
+> principle -- individual sovereignty -- is that of the Manchester men, in
+> contrast with that of the Socialists -- individual subordination. But
+> individual sovereignty, **when logically carried out** , leads, not to
+> luxury fed by misery, but to comfort for all industrious persons and death
+> for all idle ones."_ [ **Liberty** , no. 89, p. 1]
 
 As other anarchists have also argued, likewise for Tucker -- the state is the
 _"protector"_ of the exploiter. _"Usury is the serpent gnawing at labour's
 vitals, and only liberty can detach and kill it. Give labourers their liberty
-and they will keep their wealth."_ [**The Individualist Anarchists**, p. 89]
+and they will keep their wealth."_ [ **The Individualist Anarchists** , p. 89]
 From this it is clear that he considered laissez-faire capitalism to be
 opposed to genuine individual sovereignty. This was because it was based on
 the state interfering in the market by enforcing certain restrictions on
@@ -104,16 +104,16 @@ Supporting the current property rights regime meant _"departing from
 Anarchistic ground."_ It was _"Archism"_ and _"all Anarchists agree in viewing
 [it] as a denial of equal liberty"_ and _"utterly inconsistent with the
 Anarchistic doctrine of occupancy and use as the limit of property in land."_
-[**Liberty**, no. 180, p. 4 and p. 6] He looked forward to the day when _"the
-Anarchistic view that occupancy and use should condition and limit landholding
-becomes the prevailing view."_ [**Op. Cit.**, no. 162, p. 5]
+[ **Liberty** , no. 180, p. 4 and p. 6] He looked forward to the day when
+_"the Anarchistic view that occupancy and use should condition and limit
+landholding becomes the prevailing view."_ [ **Op. Cit.** , no. 162, p. 5]
 
 This was because Tucker did not believe in a _"natural right"_ to property nor
 did he approve of unlimited holdings of scarce goods and _"in the case of
 land, or of any other material the supply of which is so limited that all
 cannot hold it in unlimited quantities, Anarchism undertakes to protect no
-titles except such as are based on actual occupancy and use."_ [**Instead of a
-Book**, p. 61] He clearly recognised that allowing "absolute" rights to
+titles except such as are based on actual occupancy and use."_ [ **Instead of
+a Book** , p. 61] He clearly recognised that allowing "absolute" rights to
 private property in land would result in the liberty of non-owners being
 diminished and so _"I put the right of occupancy and use above the right of
 contract . . . principally by my interest in the right of contract. Without
@@ -123,23 +123,23 @@ simultaneously, virtual titles to innumerable parcels of land, by the merest
 show of labour performed thereon._ This would lead to _"the virtual ownership
 of the entire world by a small fraction of its inhabitants"_ which would
 result in _"the right of contract, if not destroyed absolutely, would surely
-be impaired in an intolerable degree."_ [**Liberty**, no. 350, p. 4] Thus
+be impaired in an intolerable degree."_ [ **Liberty** , no. 350, p. 4] Thus
 _"[i]t is true . . . that Anarchism does not recognise the principle of human
-rights. But it recognises human equality as a necessity of stable society."_
-[**Instead of a Book**, p. 64]
+rights. But it recognises human equality as a necessity of stable society."_ [
+**Instead of a Book** , p. 64]
 
 So Tucker considered private property in land use (which he called the _"land
-monopoly"_) as one of the four great evils of capitalism. According to Tucker,
-_"the land monopoly . . . consists in the enforcement by government of land
-titles which do not rest upon personal occupancy and cultivation . . . the
-individual should no longer be protected by their fellows in anything but
-personal occupation and cultivation of land."_ _"Rent"_, he argued, _"is due
+monopoly"_ ) as one of the four great evils of capitalism. According to
+Tucker, _"the land monopoly . . . consists in the enforcement by government of
+land titles which do not rest upon personal occupancy and cultivation . . .
+the individual should no longer be protected by their fellows in anything but
+personal occupation and cultivation of land."_ _"Rent"_ , he argued, _"is due
 to the denial of liberty which takes the shape of the land monopoly, vesting
 titles to land in individuals and associations which do not use it, and
 thereby compelling the non-owning users to pay tribute to the non-using owners
 as a condition of admission to the competitive market."_ the land _"should be
-free to all, and no one would control more than he [or she] used."_ [**The
-Individualist Anarchists**, p. 85, p. 130 and p. 114] Ending this monopoly
+free to all, and no one would control more than he [or she] used."_ [ **The
+Individualist Anarchists** , p. 85, p. 130 and p. 114] Ending this monopoly
 would, he thought, reduce the evils of capitalism and increase liberty
 (particularly in predominantly agricultural societies such as the America of
 his era). For those who own no property have no room for the soles of their
@@ -147,30 +147,30 @@ feet unless they have the permission of those who do own property, hardly a
 situation that would increase, never mind protect, freedom for all.
 Significantly, Tucker extended this principle to what was on the land, and so
 Tucker would _"accord the actual occupant and user of land the right to that
-which is upon the land, who left it there when abandoning the land."_
-[**Liberty**, no. 350, p. 4] The freedom to squat empty land and buildings
+which is upon the land, who left it there when abandoning the land."_ [
+**Liberty** , no. 350, p. 4] The freedom to squat empty land and buildings
 would, in the absence of a state to protect titles, further contribute to the
 elimination of rent:
 
 > _"Ground rent exists only because the State stands by to collect it and to
-protect land titles rooted in force or fraud. Otherwise land would be free to
-all, and no one could control more than he used."_ [quoted by James J. Martin,
-**Op. Cit.**, p. 210]
+> protect land titles rooted in force or fraud. Otherwise land would be free
+> to all, and no one could control more than he used."_ [quoted by James J.
+> Martin, **Op. Cit.** , p. 210]
 
 This would lead to _"the abolition of landlordism and the annihilation of
-rent."_ [**Instead of a Book**, p. 300] Significantly, Tucker considered the
+rent."_ [ **Instead of a Book** , p. 300] Significantly, Tucker considered the
 **Irish Land League** (an organisation which used non-payment of rent to
 secure reforms against the British state) as _"the nearest approach, on a
 large scale, to perfect Anarchistic organisation that the world has yet seen.
 An immense number of local groups . . . each group autonomous, each free . . .
-each obeying its own judgement . . . all co-ordinated and federated."_ [**The
-Individualist Anarchists**, p. 263]
+each obeying its own judgement . . . all co-ordinated and federated."_ [ **The
+Individualist Anarchists** , p. 263]
 
 The other capitalist monopolies were based on credit, tariffs and patents and
 all were reflected in (and supported by) the law. As far as tariffs went, this
 was seen as a statist means of _"fostering production at high prices"_ which
 the workers paid for. Its abolition _"would result in a great reduction in the
-prices of all articles taxed._ [**Op. Cit.**, p. 85 and p. 86] With
+prices of all articles taxed._ [ **Op. Cit.** , p. 85 and p. 86] With
 capitalists in the protected industries being unable to reap high profits,
 they would be unable to accumulate capital to the same degree and so the
 market would also become more equal. As for patents, Tucker considered that
@@ -181,14 +181,14 @@ petroleum product . . . The central injustice of copyright and patent law is
 that it compels the race to pay an individual through a long term of years a
 monopoly price for knowledge that he has discovered today, although some other
 man or men might, and in many cases very probably would, have discovered it
-tomorrow."_ [**Liberty**, no. 173, p. 4] The state, therefore, protects the
+tomorrow."_ [ **Liberty** , no. 173, p. 4] The state, therefore, protects the
 inventors (or, these days, the company the inventors work for) _"against
 competition for a period long enough to enable them to extort from the people
 a reward enormously in excess of the labour measure of their services -- in
 other words, in giving certain people a right of property for a term of years
 in laws and facts of Nature, and the power to extract tribute from others for
-the use of this natural wealth, which should be open to all."_ [**The
-Individualist Anarchists**, p. 86]
+the use of this natural wealth, which should be open to all."_ [ **The
+Individualist Anarchists** , p. 86]
 
 However, the key monopoly was the credit monopoly. Tucker believed that
 bankers monopoly of the power to create credit and currency was the linchpin
@@ -202,12 +202,12 @@ expensive items that generally cannot be purchased without access to credit.
 This would mean that the people currently _"deterred from going into business
 by the ruinously high rates they must pay for capital with which to start and
 carry on business will find their difficulties removed"_ (they would simply
-_"pay for the labour of running the banks"_). This _"facility of acquiring
+_"pay for the labour of running the banks"_ ). This _"facility of acquiring
 capital will give an unheard of impetus to business, and consequently create
 an unprecedented demand for labour -- a demand which will always be in excess
 of the supply, directly to the contrary of the present condition of the labour
-market . . . Labour will then be in a position to dictate its wages."_ [**Op.
-Cit.**, p. 84 and p. 85]
+market . . . Labour will then be in a position to dictate its wages."_ [ **Op.
+Cit.** , p. 84 and p. 85]
 
 Following Proudhon, Tucker argued that if any group of people could legally
 form a "mutual bank" and issue credit based on any form of collateral they saw
@@ -229,7 +229,7 @@ credit and use it to buy their own instruments of production instead of
 organising credit on a mutual plan,"_ stressed Tucker, _"and then these vacant
 lands will come into use . . . operatives will be able to buy axes and rakes
 and hoes, and then they will be independent of their employers, and then the
-labour problem will solved."_ [**Instead of a Book**, p. 321] Easy access to
+labour problem will solved."_ [ **Instead of a Book** , p. 321] Easy access to
 mutual credit would result in a huge increase in the purchase of capital
 goods, creating a high demand for labour, which in turn would greatly increase
 workers' bargaining power and thus raise their wages toward equivalence with
@@ -244,7 +244,7 @@ exactions of neither government nor capital can be avoided by migration. The
 State is the enemy, and the best means of fighting it can be found in
 communities already existing."_ He stressed that _"I care nothing for any
 reform that cannot be effected right here in Boston among the every day people
-whom I meet in the streets."_ [quoted by Martin, **Op. Cit.**, p. 249 and p.
+whom I meet in the streets."_ [quoted by Martin, **Op. Cit.** , p. 249 and p.
 248]
 
 It should be noted that while his social and political vision remained mostly
@@ -253,13 +253,13 @@ significantly. Originally, like the rest of the American individualist
 anarchist tradition he subscribed to a system of natural rights. Thus he
 advocated "occupancy and use" based on a person's right to have access to the
 means of life as well as its positive effects on individual liberty. However,
-under the influence of Max Stirner's book **The Ego and Its Own**, Tucker
+under the influence of Max Stirner's book **The Ego and Its Own** , Tucker
 along with many of his comrades, became egoists (see [next
 section](secG6.md) for a discussion of Stirner). This resulted in Tucker
 arguing that while previously _"it was my habit to talk glibly of the right of
 man to land"_ this was _"a bad habit, and I long ago sloughed it off."_ Now a
-person's _"only right over the land is his might over it."_ [**Instead of a
-Book**, p. 350] Contracts were seen as the means of securing the peaceful
+person's _"only right over the land is his might over it."_ [ **Instead of a
+Book** , p. 350] Contracts were seen as the means of securing the peaceful
 preservation of the ego's personality as it would be against a person's self-
 interest to aggress against others (backed-up, of course, by means of freely
 joined defence associations). It should be noted that the issue of egoism
@@ -278,13 +278,13 @@ the subject, Tucker maintained that strikes should be supported and encouraged
 because _"as an awakening agent, as an agitating force, the beneficent
 influence of a strike is immeasurable . . . with our present economic system
 almost every strike is just. For what is justice in production and
-distribution? That labour, which creates all, shall have **all.**"_
-[**Liberty**, no. 19, p. 7] While critical of certain aspects of trade
+distribution? That labour, which creates all, shall have **all.** "_ [
+**Liberty** , no. 19, p. 7] While critical of certain aspects of trade
 unionism, Tucker was keen to stress that _"it is not to be denied for a moment
 that workingmen are obliged to unite and act together in order, not to
 successfully contend with, but to defend themselves at least to some extent
-from, the all-powerful possessors of natural wealth and capital."_ [**Op.
-Cit.**, no. 158, p. 1]
+from, the all-powerful possessors of natural wealth and capital."_ [ **Op.
+Cit.** , no. 158, p. 1]
 
 Like the anarcho-syndicalists and many other social anarchists, Tucker
 considered Labour unions as a positive development, being a _"crude step in
@@ -299,10 +299,10 @@ the rise of the unions _"trades-union socialism,"_ saw in it a means of
 _"supplanting"_ the state by _"an intelligent and self-governing socialism"_
 and indicated that _"imperfect as they are, they are the beginnings of a
 revolt against the authority of the political State. They promise the coming
-substitution of industrial socialism for usurping legislative mobism."_ [**The
-Individualist Anarchists**, pp. 283-284] Hence we see the co-operative nature
-of the voluntary organisations supported by Tucker and a vision of socialism
-being based on self-governing associations of working people.
+substitution of industrial socialism for usurping legislative mobism."_ [
+**The Individualist Anarchists** , pp. 283-284] Hence we see the co-operative
+nature of the voluntary organisations supported by Tucker and a vision of
+socialism being based on self-governing associations of working people.
 
 In this way working people would reform capitalism away by non-violent social
 protest combined with an increase in workers' bargaining power by alternative
@@ -315,18 +315,18 @@ anarchists, he rejected _"absolute equality"_ he did envision an egalitarian
 society whose small differences in wealth were rooted in labour, not property,
 and so liberty, while abolishing exploitation, would _"not abolish the limited
 inequality between one labourer's product and another's . . . Liberty will
-ultimately make all men rich; it will not make all men equally rich."_ [**The
-Individualist Anarchists**, p. 276, p. 156 and p. 157] He firmly believed that
-the _"most perfect Socialism is possible only on the condition of the most
-perfect individualism."_ [quoted by Peter Marshall, **Demanding the
-Impossible**, p. 390]
+ultimately make all men rich; it will not make all men equally rich."_ [ **The
+Individualist Anarchists** , p. 276, p. 156 and p. 157] He firmly believed
+that the _"most perfect Socialism is possible only on the condition of the
+most perfect individualism."_ [quoted by Peter Marshall, **Demanding the
+Impossible** , p. 390]
 
 As we noted in [section G.1.3](secG1.md#secg13), there is one apparent area
 of disagreement between Tucker and most other socialists, namely the issue of
 wage labour. For almost all anarchists the employer/employee social
 relationship does not fit in well with Tucker's statement that _"if the
 individual has the right to govern himself, all external government is
-tyranny."_ [**The Individualist Anarchists**, p. 86] However, even here the
+tyranny."_ [ **The Individualist Anarchists** , p. 86] However, even here the
 differences are not impossible to overcome. It is important to note that
 because of Tucker's proposal to increase the bargaining power of workers
 through access to mutual credit, his individualist anarchism is not only
@@ -342,8 +342,8 @@ as well as reducing capitalist profits to zero by ensuring that workers
 received the full value of their labour. Tucker himself pointed this out when
 he argued that Proudhon (like himself) _"would individualise and associate"_
 workplaces by mutualism, which would _"place the means of production within
-the reach of all."_ [quoted by Martin, **Op. Cit.**, p. 228] Proudhon used the
-word _"associate"_ to denote co-operative (i.e. directly democratic)
+the reach of all."_ [quoted by Martin, **Op. Cit.** , p. 228] Proudhon used
+the word _"associate"_ to denote co-operative (i.e. directly democratic)
 workplaces (and given Proudhon's comments -- quoted in [section
 G.4.2](secG4.md#secg42) \-- on capitalist firms we can dismiss any attempt
 to suggest that the term _"individualise"_ indicates support for capitalist
@@ -351,7 +351,7 @@ rather than artisan/peasant production, which is the classic example of
 individualised production). For as Proudhon recognised, only a system without
 wage slavery (and so exploitation) would ensure the goal of all anarchists:
 _"the greatest amount of liberty compatible with equality of liberty."_
-[Tucker, **Instead of a Book**, p. 131]
+[Tucker, **Instead of a Book** , p. 131]
 
 Thus the logical consequence of Tucker's proposals would be a system
 equivalent in most important respects to the kind of system advocated by other
@@ -371,19 +371,19 @@ private property, kinds which allowed its owners to extract tribute from
 labour.
 
 In summary, then, Tucker _"remained a left rather than a right-wing
-libertarian."_ [Marshall, **Op. Cit.**, p. 391] When he called himself a
+libertarian."_ [Marshall, **Op. Cit.** , p. 391] When he called himself a
 socialist he knew well what it meant and systematically fought those (usually,
 as today, Marxists and capitalists) who sought to equate it with state
 ownership. John Quail, in his history of British Anarchism, puts his finger on
 the contextual implications and limitations of Tucker's ideas when he wrote:
 
 > _"Tucker was a Proudhonist and thus fundamentally committed to a society
-based on small proprietorship. In the American context, however, where the
-small landowner was often locked in battle with large capitalist interests,
-this did not represent the reactionary position it often did later where it
-could easily degenerate into an 'Anarchism for small business-men.' Tucker had
-a keen sense of the right of the oppressed to struggle against oppression."_
-[**The Slow Burning Fuse**, p. 19]
+> based on small proprietorship. In the American context, however, where the
+> small landowner was often locked in battle with large capitalist interests,
+> this did not represent the reactionary position it often did later where it
+> could easily degenerate into an 'Anarchism for small business-men.' Tucker
+> had a keen sense of the right of the oppressed to struggle against
+> oppression."_ [ **The Slow Burning Fuse** , p. 19]
 
 As we stressed in [section G.1.4](secG1.md#secg14), many of Tucker's
 arguments can only be fully understood in the context of the society in which
@@ -407,11 +407,11 @@ disprove (see [section G.4.1](secG4.md) for more discussion on this issue).
 In 1888 Tucker had speculated that _"the question whether large concentrations
 of capital for production on the large scale confronts us with the
 disagreeable alternative of either abolishing private property or continuing
-to hold labour under the capitalistic yoke."_ [**Liberty**, no. 122, p. 4] By
-1911, he had come to the conclusion that the latter had come to pass and
+to hold labour under the capitalistic yoke."_ [ **Liberty** , no. 122, p. 4]
+By 1911, he had come to the conclusion that the latter had come to pass and
 considered revolutionary or political action as the only means of breaking up
 such concentrations of wealth (although he was against individualist
-anarchists participating in either strategy). [Martin, **Op. Cit.**, pp.
+anarchists participating in either strategy). [Martin, **Op. Cit.** , pp.
 273-4] In other words, Tucker recognised that economic power existed and, as a
 consequence, free markets were not enough to secure free people in conditions
 of economic inequality.
@@ -429,8 +429,8 @@ is why he called himself a socialist and why most other anarchists concurred.
 This is why we find Kropotkin discussing Tucker in his general accounts of
 anarchism, accounts which note that the anarchists _"constitute the left
 wing"_ of the socialists and which make no comment that Tucker's ideas were
-any different in this respect. [**Anarchism**, p. 285] A position, needless to
-say, Tucker also held as he considered his ideas as part of the wider
+any different in this respect. [ **Anarchism** , p. 285] A position, needless
+to say, Tucker also held as he considered his ideas as part of the wider
 socialist movement.
 
 This fact is overlooked by "anarcho"-capitalists who, in seeking to make
@@ -439,8 +439,8 @@ advantages of owning "property." But it is apparent that by "property" he was
 referring to simple "possession" of land, tools, etc. by independent artisans,
 farmers, and co-operating workers (he used the word property _"as denoting the
 labourer's individual possession of his product or his share of the joint
-product of himself and others."_ [Tucker, **Instead of a Book**, p. 394]. For,
-since Tucker saw his system as eliminating the ability of capitalists to
+product of himself and others."_ [Tucker, **Instead of a Book** , p. 394].
+For, since Tucker saw his system as eliminating the ability of capitalists to
 maintain exploitative monopolies over the means of production, it is therefore
 true **by definition** that he advocated the elimination of "private property"
 in the capitalist sense.
@@ -451,8 +451,8 @@ sections [G.1.1](secG1.md#secg11) and [G.1.2](secG1.md#secg12)). Unlike
 supporters of capitalism, the individualist anarchists identified "property"
 with simple "possession," or _"occupancy and use"_ and considered profit, rent
 and interest as exploitation. Indeed, Tucker explicitly stated that _"all
-property rests on a labour title, and no other property do I favour."_
-[**Instead of a Book**, p. 400] Because of their critique of capitalist
+property rests on a labour title, and no other property do I favour."_ [
+**Instead of a Book** , p. 400] Because of their critique of capitalist
 property rights and their explicit opposition to usury (profits, rent and
 interest) individualist anarchists like Tucker could and did consider
 themselves as part of the wider socialist movement, the libertarian wing as
@@ -478,6 +478,6 @@ claim to have somehow modernised Tucker's thought is **false** \-- "ignored"
 or "changed beyond recognition" would be more appropriate.
 
 [‹ G.4 Why do social anarchists reject individualist anarchism?](secG4.md
-"Go to previous page" ) [up](secGcon.md "Go to parent page" ) [G.6 What are
-the ideas of Max Stirner? ›](secG6.md "Go to next page" )
+"Go to previous page") [up](secGcon.md "Go to parent page") [G.6 What are
+the ideas of Max Stirner? ›](secG6.md "Go to next page")
 

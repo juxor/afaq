@@ -11,7 +11,7 @@ in the Middle Ages, namely to provide justification for the dominant social
 system and hierarchies. _"The priest keeps you docile and subjected,"_ argued
 Malatesta, _"telling you everything is God's will; the economist say it's the
 law of nature."_ They _"end up saying that no one is responsible for poverty,
-so there's no point rebelling against it."_ [**Fra Contadini**, p. 21] Even
+so there's no point rebelling against it."_ [ **Fra Contadini** , p. 21] Even
 worse, they usually argue that collective action by working class people is
 counterproductive and, like the priest, urge us to tolerate current oppression
 and exploitation with promises of a better future (in heaven for the priest,
@@ -54,21 +54,22 @@ of money cannot reflect a theoretical substance (neo-classical "capital")
 which could not exist in reality. However, that is unimportant for _"[u]ntil
 the econometricians have the answer for us, placing reliance upon neo-
 classical economic theory is a matter of faith,"_ which, of course, he had [C.
-E. Ferguson, **The Neo-classical Theory of Production and Distribution**, p.
+E. Ferguson, **The Neo-classical Theory of Production and Distribution** , p.
 266 and p. xvii]
 
 Little wonder that Joan Robinson, one of the left-wing economists who helped
 expose the bankruptcy of the neo-classical theory of capital, stated that
-economics was _"back where it was, a branch of theology."_ [**Collected
-Economic Papers**, Vol. 4, p. 127] It remains there more than thirty years
+economics was _"back where it was, a branch of theology."_ [ **Collected
+Economic Papers** , Vol. 4, p. 127] It remains there more than thirty years
 later:
 
-> _ "Economics is not a science. Many economists -- particularly those who
-believe that decisions on whether to get married can be reduced to an equation
--- see the world as a complex organism that can be understood using the right
-differential calculus. Yet everything we know about economics suggests that it
-is a branch and not a particularly advanced one, of witchcraft."_ [Larry
-Elliot and Dan Atkinson, **The Age of Insecurity**, p. 226]
+> _"Economics is not a science. Many economists -- particularly those who
+> believe that decisions on whether to get married can be reduced to an
+> equation -- see the world as a complex organism that can be understood using
+> the right differential calculus. Yet everything we know about economics
+> suggests that it is a branch and not a particularly advanced one, of
+> witchcraft."_ [Larry Elliot and Dan Atkinson, **The Age of Insecurity** , p.
+> 226]
 
 The weakness of economics is even acknowledged by some within the profession
 itself. According to Paul Ormerod, _"orthodox economics is in many ways an
@@ -83,7 +84,7 @@ Procrustean bed of their models. And, like the priests of old, make it hard
 for non-academics to question their dogmas as _"economics is often
 intimidating. Its practitioners . . . have erected around the discipline a
 barrier of jargon and mathematics which makes the subject difficult to
-penetrate for the non-initiated."_ [**The Death of Economics**, p. ix, p. 67
+penetrate for the non-initiated."_ [ **The Death of Economics** , p. ix, p. 67
 and p. ix]
 
 So in this section of our FAQ, we will try to get to the heart of modern
@@ -120,7 +121,7 @@ _"fields of economics and economic policy where the responses of important
 economic professionals and the publicity given economic findings are
 correlated with the increased market demand for specific conclusions and a
 particular ideology."_ [Edward S. Herman, _"The Selling of Market Economics,"_
-pp. 173-199, **New Ways of Knowing**, Marcus G. Raskin and Herbert J.
+pp. 173-199, **New Ways of Knowing** , Marcus G. Raskin and Herbert J.
 Bernstein (eds.), p.192]
 
 Even if we assume the impossible, namely that economists and their ideology
@@ -155,15 +156,15 @@ Like weather forecasters, _"economists frequently get their forecasts of the
 economic future wrong. But in fact, though weather forecasts are sometimes
 incorrect, overall meteorologists have an enviable record of accurate
 prediction -- whereas the economic record is tragically bad."_ This means it
-is impossible to ignore economics (_"to treat it and its practitioners as we
-these days treat astrologers"_) as it is a social discipline and so what we
+is impossible to ignore economics ( _"to treat it and its practitioners as we
+these days treat astrologers"_ ) as it is a social discipline and so what we
 _"believe about economics therefore has an impact upon human society and the
 way we relate to one another."_ Despite _"the abysmal predictive record of
 their discipline,"_ economists _"are forever recommending ways in which the
 institutional environment should be altered to make the economy work better."_
 By that they mean make the real economy more like their models, as _"the
 hypothetical pure market performs better than the mixed economy in which we
-live."_ [**Debunking Economics**, pp. 6-8] Whether this actually makes the
+live."_ [ **Debunking Economics** , pp. 6-8] Whether this actually makes the
 world a better place is irrelevant (indeed, economics has been so developed as
 to make such questions irrelevant as what happens on the market is, by
 definition, for the best).
@@ -188,16 +189,16 @@ created an all-embracing measure of well-being called the Index of Sustainable
 Economic Welfare (ISEW). Their conclusions, as summarised by Elliot and
 Atkinson, are significant:
 
-> _ "In the 1950s and 1960s the ISEW rose in tandem with per capita GDP. It
-was a time not just of rising incomes, but of greater social equity, low
-crime, full employment and expanding welfare states. But from the mid-1970s
-onwards the two measures started to move apart. GDP per head continued its
-inexorable rise, but the ISEW started to decline as a result of lengthening
-dole queues, social exclusion, the explosion in crime, habitat loss,
-environmental degradation and the growth of environment- and stress-related
-illness. By the start of the 1990s, the ISEW was almost back to the levels at
-which it started in the early 1950s."_ [Larry Elliot and Dan Atkinson, **Op.
-Cit.**, p. 248]
+> _"In the 1950s and 1960s the ISEW rose in tandem with per capita GDP. It was
+> a time not just of rising incomes, but of greater social equity, low crime,
+> full employment and expanding welfare states. But from the mid-1970s onwards
+> the two measures started to move apart. GDP per head continued its
+> inexorable rise, but the ISEW started to decline as a result of lengthening
+> dole queues, social exclusion, the explosion in crime, habitat loss,
+> environmental degradation and the growth of environment- and stress-related
+> illness. By the start of the 1990s, the ISEW was almost back to the levels
+> at which it started in the early 1950s."_ [Larry Elliot and Dan Atkinson,
+> **Op. Cit.** , p. 248]
 
 So while capitalism continues to produce more and more goods and, presumably,
 maximises more and more individual utility, actual real people are being
@@ -219,7 +220,7 @@ world **should be** a manifestly better place: it should be growing faster,
 with more stability, and income should go to those who deserve it."_ However,
 _"[u]nfortunately, the world refuses to dance the expected tune. In
 particularly, the final ten years of the 20th century were marked, not by
-tranquil growth, but by crises."_ [Steve Keen, **Op. Cit.**, p. 2]
+tranquil growth, but by crises."_ [Steve Keen, **Op. Cit.** , p. 2]
 
 These problems and the general unhappiness with the way society is going is
 related to various factors, most of which are impossible to reflect in
@@ -234,9 +235,9 @@ Anarchists argue that this is unsurprising as economics, rather than being a
 science is, in fact, little more than an ideology whose main aim is to justify
 and rationalise the existing system. We agree with libertarian Marxist Paul
 Mattick's summation that economics is _"actually no more than a sophisticated
-apology for the social and economic **status quo**"_ and hence the _"growing
-discrepancy between [its] theories and reality."_ [**Economics, Politics and
-the Age of Inflation**, p. vii] Anarchists, unsurprisingly, see capitalism as
+apology for the social and economic **status quo** "_ and hence the _"growing
+discrepancy between [its] theories and reality."_ [ **Economics, Politics and
+the Age of Inflation** , p. vii] Anarchists, unsurprisingly, see capitalism as
 a fundamentally exploitative system rooted in inequalities of power and wealth
 dominated by hierarchical structures (capitalist firms). In the sections that
 follow, the exploitative nature of capitalism is explained in greater detail.
@@ -246,13 +247,13 @@ them to be two sides of the same coin. You cannot have domination without
 exploitation nor exploitation without domination. As Emma Goldman pointed out,
 under capitalism:
 
-> _ "wealth means power; the power to subdue, to crush, to exploit, the power
-to enslave, to outrage, to degrade . . . Nor is this the only crime . . .
-Still more fatal is the crime of turning the producer into a mere particle of
-a machine, with less will and decision than his master of steel and iron. Man
-is being robbed not merely of the products of his labour, but of the power of
-free initiative, of originality, and the interest in, or desire for, the
-things he is making."_ [**Red Emma Speaks**, pp. 66-7]
+> _"wealth means power; the power to subdue, to crush, to exploit, the power
+> to enslave, to outrage, to degrade . . . Nor is this the only crime . . .
+> Still more fatal is the crime of turning the producer into a mere particle
+> of a machine, with less will and decision than his master of steel and iron.
+> Man is being robbed not merely of the products of his labour, but of the
+> power of free initiative, of originality, and the interest in, or desire
+> for, the things he is making."_ [ **Red Emma Speaks** , pp. 66-7]
 
 Needless to say, it would be impossible to discuss or refute **every** issue
 covered in a standard economics book or every school of economics. As
@@ -260,10 +261,11 @@ economist Nicholas Kaldor notes, _"[e]ach year new fashions sweep the
 'politico-economic complex' only to disappear again with equal suddenness . .
 . These sudden bursts of fashion are a sure sign of the 'pre-scientific' stage
 [economics is in], where any crazy idea can get a hearing simply because
-nothing is known with sufficient confidence to rule it out."_ [**The Essential
-Kaldor**, p. 377] We will have to concentrate on key issues like the flaws in
-mainstream economics, why capitalism is exploitative, the existence and role
-of economic power, the business cycle, unemployment and inequality.
+nothing is known with sufficient confidence to rule it out."_ [ **The
+Essential Kaldor** , p. 377] We will have to concentrate on key issues like
+the flaws in mainstream economics, why capitalism is exploitative, the
+existence and role of economic power, the business cycle, unemployment and
+inequality.
 
 Nor do we wish to suggest that all forms of economics are useless or equally
 bad. Our critique of capitalist economics does not suggest that no economist
@@ -272,16 +274,16 @@ understanding of the economy. Far from it. As Bakunin put it, property _"is a
 god"_ and has _"its metaphysics. It is the science of the bourgeois
 economists. Like any metaphysics it is a sort of twilight, a compromise
 between truth and falsehood, with the latter benefiting from it. It seeks to
-give falsehood the appearance of truth and leads truth to falsehood."_ [**The
-Political Philosophy of Bakunin**, p. 179] How far this is true varies form
+give falsehood the appearance of truth and leads truth to falsehood."_ [ **The
+Political Philosophy of Bakunin** , p. 179] How far this is true varies form
 school to school, economist to economist. Some have a better understanding of
 certain aspects of capitalism than others. Some are more prone to apologetics
 than others. Some are aware of the problems of modern economics and _"some of
 the most committed economists have concluded that, if economics is to become
 less of a religion and more of a science, then the foundations of economics
-should be torn down and replaced"_ (although, _"left to [their] own devices"_,
-economists _"would continue to build an apparently grand edifice upon rotten
-foundations."_). [Keen, **Op. Cit.**, p. 19]
+should be torn down and replaced"_ (although, _"left to [their] own devices"_
+, economists _"would continue to build an apparently grand edifice upon rotten
+foundations."_ ). [Keen, **Op. Cit.** , p. 19]
 
 As a rule of thumb, the more free market a particular economist or school of
 economics is, the more likely they will be prone to apologetics and
@@ -322,18 +324,16 @@ So this section of the FAQ is our modest contribution to making economists
 happier by making working class people less ignorant of their subject. As Joan
 Robinson put it:
 
-> _ "In short, no economic theory gives us ready-made answers. Any theory that
-we follow blindly will lead us astray. To make good use of an economic theory,
-we must first sort out the relations of the propagandist and the scientific
-elements in it, then by checking with experience, see how far the scientific
-element appears convincing, and finally recombine it with our own political
-views. The purpose of studying economics is not to acquire a set of ready-made
-answers to economic questions, but to learn how to avoid being deceived by
-economists."_ [**Contributions to Modern Economics**, p. 75]
-
-
+> _"In short, no economic theory gives us ready-made answers. Any theory that
+> we follow blindly will lead us astray. To make good use of an economic
+> theory, we must first sort out the relations of the propagandist and the
+> scientific elements in it, then by checking with experience, see how far the
+> scientific element appears convincing, and finally recombine it with our own
+> political views. The purpose of studying economics is not to acquire a set
+> of ready-made answers to economic questions, but to learn how to avoid being
+> deceived by economists."_ [ **Contributions to Modern Economics** , p. 75]
 
 [‹ Section C - What are the myths of capitalist economics?](secCcon.md "Go
-to previous page" ) [up](secCcon.md "Go to parent page" ) [C.1 What is wrong
-with economics? ›](secC1.md "Go to next page" )
+to previous page") [up](secCcon.md "Go to parent page") [C.1 What is wrong
+with economics? ›](secC1.md "Go to next page")
 

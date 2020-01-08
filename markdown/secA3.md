@@ -13,16 +13,16 @@ consider to be most suitable to human freedom. However, all types of
 anarchists share a basic approach. To quote Rudolf Rocker:
 
 > _"In common with the founders of Socialism, Anarchists demand the abolition
-of all economic monopolies and the common ownership of the soil and all other
-means of production, the use of which must be available to all without
-distinction; for personal and social freedom is conceivable only on the basis
-of equal economic advantages for everybody. Within the Socialist movement
-itself the Anarchists represent the viewpoint that the war against capitalism
-must be at the same time a war against all institutions of political power,
-for in history economic exploitation has always gone hand in hand with
-political and social oppression. The exploitation of man by man and the
-domination of man over man are inseparable, and each is the condition of the
-other."_ [**Anarcho-Syndicalism**, pp. 62-3]
+> of all economic monopolies and the common ownership of the soil and all
+> other means of production, the use of which must be available to all without
+> distinction; for personal and social freedom is conceivable only on the
+> basis of equal economic advantages for everybody. Within the Socialist
+> movement itself the Anarchists represent the viewpoint that the war against
+> capitalism must be at the same time a war against all institutions of
+> political power, for in history economic exploitation has always gone hand
+> in hand with political and social oppression. The exploitation of man by man
+> and the domination of man over man are inseparable, and each is the
+> condition of the other."_ [ **Anarcho-Syndicalism** , pp. 62-3]
 
 It is within this general context that anarchists disagree. The main
 differences are between **_"individualist"_** and **_"social"_** anarchists,
@@ -53,7 +53,7 @@ _"[n]one are named after some Great Thinker; instead, they are invariably
 named either after some kind of practice, or, most often, organisational
 principle . . . Anarchists like to distinguish themselves by what they do, and
 how they organise themselves to go about doing it."_ [David Graeber,
-**Fragments of An Anarchist Anthropology**, p. 5] This does not mean that
+**Fragments of An Anarchist Anthropology** , p. 5] This does not mean that
 anarchism does not have individuals who have contributed significantly to
 anarchist theory. Far from it, as can be seen in [section A.4](secA4.md)
 there are many such people. Anarchists simply recognise that to call your
@@ -76,14 +76,15 @@ issues than social anarchism. As America changed, going from a predominantly
 pre-capitalist rural society to an industrialised capitalist one, American
 anarchism changed:
 
-> _ "Originally the American movement, the native creation which arose with
-Josiah Warren in 1829, was purely individualistic; the student of economy will
-easily understand the material and historical causes for such development. But
-within the last twenty years the communist idea has made great progress,
-owning primarily to that concentration in capitalist production which has
-driven the American workingman [and woman] to grasp at the idea of solidarity,
-and, secondly, to the expulsion of active communist propagandists from
-Europe."_ [Voltairine de Cleyre, **The Voltairine de Cleyre Reader**, p. 110]
+> _"Originally the American movement, the native creation which arose with
+> Josiah Warren in 1829, was purely individualistic; the student of economy
+> will easily understand the material and historical causes for such
+> development. But within the last twenty years the communist idea has made
+> great progress, owning primarily to that concentration in capitalist
+> production which has driven the American workingman [and woman] to grasp at
+> the idea of solidarity, and, secondly, to the expulsion of active communist
+> propagandists from Europe."_ [Voltairine de Cleyre, **The Voltairine de
+> Cleyre Reader** , p. 110]
 
 Thus rather than the numerous types of anarchism being an expression of some
 sort of "incoherence" within anarchism, it simply shows a movement which has
@@ -170,7 +171,7 @@ sanctifies it now. The absolute ownership of it -- 'the right to use or abuse'
 -- will be abolished, and possession, use, will be the only title. It will be
 seen how impossible it would be for one person to 'own' a million acres of
 land, without a title deed, backed by a government ready to protect the title
-at all hazards."_ [Lucy Parsons, **Freedom, Equality &amp; Solidarity**, p. 33
+at all hazards."_ [Lucy Parsons, **Freedom, Equality & Solidarity**, p. 33
 
 However, within this use-rights framework, the two schools of anarchism
 propose different systems. The social anarchist generally argues for communal
@@ -183,7 +184,7 @@ to possession. The organisation of the coal miners, for example, will be in
 charge of the coal mines, not as owners but as the operating agency . . .
 Collective possession, co-operatively managed in the interests of the
 community, will take the place of personal ownership privately conducted for
-profit."_ [**What is Anarchism?**, p. 217]
+profit."_ [ **What is Anarchism?** , p. 217]
 
 This system would be based on workers' self-management of their work and (for
 most social anarchists) the free sharing of the product of that labour (i.e.
@@ -194,7 +195,7 @@ the products of industry is untenable."_ Given this, it is impossible to
 _"estimate the share of each in the riches which **all** contribute to amass"_
 and, moreover, the _"common possession of the instruments of labour must
 necessarily bring with it the enjoyment in common of the fruits of common
-labour."_ [Kropotkin, **The Conquest of Bread**, p. 45 and p. 46] By this
+labour."_ [Kropotkin, **The Conquest of Bread** , p. 45 and p. 46] By this
 social anarchists simply mean that the social product which is produced by all
 would be available to all and each individual who has contributed productively
 to society can take what they need (how quickly we can reach such an ideal is
@@ -206,7 +207,7 @@ selling. All agree, however, that anarchy will see _"Capitalistic and
 proprietary exploitation stopped everywhere"_ and _"the wage system
 abolished"_ whether by _"equal and just exchange"_ (like Proudhon) or by the
 free sharing (like Kropotkin). [Proudhon, **The General Idea of the
-Revolution**, p. 281]
+Revolution** , p. 281]
 
 In contrast, the individualist anarchist (like the mutualist) denies that this
 system of use-rights should include the product of the workers labour. Instead
@@ -249,11 +250,11 @@ only presses me back still more into dependence on another, to wit, on the
 generality or collectivity . . . [which is] a condition hindering my free
 movement, a sovereign power over me. Communism rightly revolts against the
 pressure that I experience from individual proprietors; but still more
-horrible is the might that it puts in the hands of the collectivity."_ [**The
-Ego and Its Own**, p. 257] Proudhon also argued against communism, stating
+horrible is the might that it puts in the hands of the collectivity."_ [ **The
+Ego and Its Own** , p. 257] Proudhon also argued against communism, stating
 that the community becomes the proprietor under communism and so capitalism
 and communism are based on property and so authority (see the section
-_"Characteristics of communism and of property"_ in **What is Property?**).
+_"Characteristics of communism and of property"_ in **What is Property?** ).
 Thus the Individualist anarchist argues that social ownership places the
 individual's freedom in danger as any form of communism subjects the
 individual to society or the commune. They fear that as well as dictating
@@ -270,8 +271,8 @@ communism] was put forward in such a shape as to fully account for Proudhon's
 distrust as to its effect upon liberty. The old idea of Communism was the idea
 of monastic communities under the severe rule of elders or of men of science
 for directing priests. The last vestiges of liberty and of individual energy
-would be destroyed, if humanity ever had to go through such a communism."_
-[**Act for Yourselves**, p. 98] Kropotkin always argued that communist-
+would be destroyed, if humanity ever had to go through such a communism."_ [
+**Act for Yourselves** , p. 98] Kropotkin always argued that communist-
 anarchism was a **new** development and given that it dates from the 1870s,
 Proudhon's and Stirner's remarks cannot be considered as being directed
 against it as they could not be familiar with it.
@@ -287,14 +288,14 @@ model of a family . . . [to live] all in the same house and . . . thus forced
 to continuously meet the same 'brethren and sisters' . . . [it is] a
 fundamental error to impose on all the 'great family' instead of trying, on
 the contrary, to guarantee as much freedom and home life to each individual."_
-[**Small Communal Experiments and Why They Fail**, pp. 8-9] The aim of
+[ **Small Communal Experiments and Why They Fail** , pp. 8-9] The aim of
 anarchist-communism is, to again quote Kropotkin, to place _"the product
 reaped or manufactured at the disposal of all, leaving to each the liberty to
-consume them as he pleases in his own home."_ [**The Place of Anarchism in the
-Evolution of Socialist Thought**, p. 7] This ensures individual expression of
-tastes and desires and so individuality -- both in consumption **and** in
-production, as social anarchists are firm supporters of workers' self-
-management.
+consume them as he pleases in his own home."_ [ **The Place of Anarchism in
+the Evolution of Socialist Thought** , p. 7] This ensures individual
+expression of tastes and desires and so individuality -- both in consumption
+**and** in production, as social anarchists are firm supporters of workers'
+self-management.
 
 Thus, for social anarchists, the Individualist Anarchist opposition to
 communism is only valid for state or authoritarian communism and ignores the
@@ -305,21 +306,21 @@ Anarchist fears, social anarchism is based on importance of individuality and
 individual expression:
 
 > _"Anarchist Communism maintains that most valuable of all conquests --
-individual liberty -- and moreover extends it and gives it a solid basis --
-economic liberty -- without which political liberty is delusive; it does not
-ask the individual who has rejected god, the universal tyrant, god the king,
-and god the parliament, to give unto himself a god more terrible than any of
-the proceeding -- god the Community, or to abdicate upon its altar his [or
-her] independence, his [or her] will, his [or her] tastes, and to renew the
-vow of asceticism which he formally made before the crucified god. It says to
-him, on the contrary, 'No society is free so long as the individual is not so!
-. . .'"_ [**Op. Cit.**, pp. 14-15]
+> individual liberty -- and moreover extends it and gives it a solid basis --
+> economic liberty -- without which political liberty is delusive; it does not
+> ask the individual who has rejected god, the universal tyrant, god the king,
+> and god the parliament, to give unto himself a god more terrible than any of
+> the proceeding -- god the Community, or to abdicate upon its altar his [or
+> her] independence, his [or her] will, his [or her] tastes, and to renew the
+> vow of asceticism which he formally made before the crucified god. It says
+> to him, on the contrary, 'No society is free so long as the individual is
+> not so! . . .'"_ [ **Op. Cit.** , pp. 14-15]
 
 In addition, social anarchists have always recognised the need for voluntary
 collectivisation. If people desire to work by themselves, this is not seen as
-a problem (see Kropotkin's **The Conquest of Bread**, p. 61 and **Act for
-Yourselves**, pp. 104-5 as well as Malatesta's **Errico Malatesta: His Life
-and Ideas**, p. 99 and p. 103). This, social anarchists, stress does not in
+a problem (see Kropotkin's **The Conquest of Bread** , p. 61 and **Act for
+Yourselves** , pp. 104-5 as well as Malatesta's **Errico Malatesta: His Life
+and Ideas** , p. 99 and p. 103). This, social anarchists, stress does not in
 any way contradict their principles or the communist nature of their desired
 society as such exceptions are rooted in the "use rights" system both are
 based in (see [section I.6.2](secI.md#seci62) for a full discussion). In
@@ -330,10 +331,10 @@ importance of free agreement as the basis of an anarchist society. Thus all
 anarchists agree with Bakunin:
 
 > _"Collectivism could only imposed only on slaves, and this kind of
-collectivism would then be the negation of humanity. In a free community,
-collectivism can only come about through the pressure of circumstances, not by
-imposition from above but by a free spontaneous movement from below."_
-[**Bakunin on Anarchism**, p. 200]
+> collectivism would then be the negation of humanity. In a free community,
+> collectivism can only come about through the pressure of circumstances, not
+> by imposition from above but by a free spontaneous movement from below."_ [
+> **Bakunin on Anarchism** , p. 200]
 
 If individualists desire to work for themselves and exchange goods with
 others, social anarchists have no objection. Hence our comments that the two
@@ -347,10 +348,10 @@ statism in the name of "liberty." Anarchists do not respect the "freedom" to
 be a ruler! In the words of Luigi Galleani:
 
 > _"No less sophistical is the tendency of those who, under the comfortable
-cloak of anarchist individualism, would welcome the idea of domination . . .
-But the heralds of domination presume to practice individualism in the name of
-their ego, over the obedient, resigned, or inert ego of others."_ [**The End
-of Anarchism?**, p. 40]
+> cloak of anarchist individualism, would welcome the idea of domination . . .
+> But the heralds of domination presume to practice individualism in the name
+> of their ego, over the obedient, resigned, or inert ego of others."_ [ **The
+> End of Anarchism?** , p. 40]
 
 Moreover, for social anarchists, the idea that the means of production can be
 sold implies that private property could be reintroduced in an anarchist
@@ -371,7 +372,7 @@ to survive. This would create authoritarian social relationships and the
 domination of the few over the many via "free contracts." The enforcement of
 such contracts (and others like them), in all likelihood, _"opens . . . the
 way for reconstituting under the heading of 'defence' all the functions of the
-State."_ [Peter Kropotkin, **Anarchism**, p. 297]
+State."_ [Peter Kropotkin, **Anarchism** , p. 297]
 
 Benjamin Tucker, the anarchist most influenced by liberalism and free market
 ideas, also faced the problems associated with all schools of abstract
@@ -380,8 +381,8 @@ relations as an expression of "liberty." This is due to the similarity of
 property to the state. Tucker argued that the state was marked by two things,
 aggression and _"the assumption of authority over a given area and all within
 it, exercised generally for the double purpose of more complete oppression of
-its subjects and extension of its boundaries."_ [**Instead of a Book**, p. 22]
-However, the boss and landlord also has authority over a given area (the
+its subjects and extension of its boundaries."_ [ **Instead of a Book** , p.
+22] However, the boss and landlord also has authority over a given area (the
 property in question) and all within it (workers and tenants). The former
 control the actions of the latter just as the state rules the citizen or
 subject. In other words, individual ownership produces the same social
@@ -395,7 +396,7 @@ relationships which are essentially authoritarian/statist in nature. _"The
 individualists,"_ argued Malatesta, _"give the greatest importance to an
 abstract concept of freedom and fail to take into account, or dwell on the
 fact that real, concrete freedom is the outcome of solidarity and voluntary
-co-operation."_ [**The Anarchist Revolution**, p. 16] Thus wage labour, for
+co-operation."_ [ **The Anarchist Revolution** , p. 16] Thus wage labour, for
 example, places the worker in the same relationship to the boss as citizenship
 places the citizen to the state, namely of one of domination and subjection.
 Similarly with the tenant and the landlord.
@@ -406,8 +407,8 @@ implications, because _"the school of Benjamin Tucker -- by virtue of their
 individualism -- accepted the need for police to break strikes so as to
 guarantee the employer's 'freedom.' All this school of so-called
 Individualists accept . . . the necessity of the police force, hence for
-government, and the prime definition of anarchism is **no government.**"_
-[**Anarchism: Arguments For and Against**, p. 8] It is partly for this reason
+government, and the prime definition of anarchism is **no government.** "_ [
+**Anarchism: Arguments For and Against** , p. 8] It is partly for this reason
 social anarchists support social ownership as the best means of protecting
 individual liberty.
 
@@ -423,8 +424,8 @@ requires many to work it. If one owns it, will he not make the others pay
 tribute for using it?"_ This is because _"no man would employ another to work
 for him unless he could get more for his product than he had to pay for it,
 and that being the case, the inevitable course of exchange and re-exchange
-would be that the man **having received less than the full amount.**"_
-[Voltairine de Cleyre, _"Why I am an Anarchist"_, **Exquisite Rebel**, p. 61
+would be that the man **having received less than the full amount.** "_
+[Voltairine de Cleyre, _"Why I am an Anarchist"_ , **Exquisite Rebel** , p. 61
 and p. 60] Only when the people who use a resource own it can individual
 ownership not result in hierarchical authority or exploitation (i.e.
 statism/capitalism). Only when an industry is co-operatively owned, can the
@@ -447,16 +448,16 @@ operating it."_ Thus the individualist anarchist could _"defend himself
 against . . . the exploitation of anyone by one of his neighbours who will set
 him to work in his employ and for his benefit"_ and _"greed, which is to say
 the opportunity for an individual, couple or family group to own more than
-strictly required for their normal upkeep."_ [_"Mini-Manual of the Anarchist
-Individualist"_, pp. 145-9, **Anarchism**, Robert Graham (ed.), p. 147 and pp.
-147-8]
+strictly required for their normal upkeep."_ [ _"Mini-Manual of the Anarchist
+Individualist"_ , pp. 145-9, **Anarchism** , Robert Graham (ed.), p. 147 and
+pp. 147-8]
 
 The ideas of the American individualist anarchists logically flow to the same
 conclusions. "Occupancy and Use" automatically excludes wage labour and so
 exploitation and oppression. As Wm. Gary Kline correctly points out, the US
 Individualist anarchists _"expected a society of largely self-employed workmen
-with no significant disparity of wealth between any of them."_ [**The
-Individualist Anarchists**, p. 104] It is this vision of a self-employed
+with no significant disparity of wealth between any of them."_ [ **The
+Individualist Anarchists** , p. 104] It is this vision of a self-employed
 society that logically flows from their principles which ensures that their
 ideas are truly anarchist. As it is, their belief that their system would
 ensure the elimination of profit, rent and interest place them squarely in the
@@ -495,7 +496,7 @@ exacted on loans, except enough to cover risks and expenses."_ Such a system
 would end capitalist exploitation and oppression for by _"introducing
 mutualism into exchange and credit we introduce it everywhere, and labour will
 assume a new aspect and become truly democratic."_ [Charles A. Dana,
-**Proudhon and his _"Bank of the People"_**, pp. 44-45 and p. 45]
+**Proudhon and his _"Bank of the People"_** , pp. 44-45 and p. 45]
 
 The social anarchist version of mutualism differs from the individualist form
 by having the mutual banks owned by the local community (or commune) instead
@@ -518,8 +519,8 @@ of the same body; one cannot suffer without the others sharing in its
 suffering. They should therefore federate, not to be absorbed and confused
 together, but in order to guarantee mutually the conditions of common
 prosperity . . . Making such an agreement will not detract from their liberty;
-it will simply give their liberty more security and force."_ [**The Principle
-of Federation**, p. 70, p. 67 and p. 72]
+it will simply give their liberty more security and force."_ [ **The Principle
+of Federation** , p. 70, p. 67 and p. 72]
 
 The other forms of social anarchism do not share the mutualists support for
 markets, even non-capitalist ones. Instead they think that freedom is best
@@ -533,17 +534,17 @@ workers, firstly in their unions, then in the communes, regions, nations and
 finally in a great federation, international and universal"_ and _"the land,
 the instruments of work and all other capital may become the collective
 property of the whole of society and be utilised only by the workers, in other
-words by the agricultural and industrial associations."_ [**Michael Bakunin:
-Selected Writings**, p. 206 and p. 174] Only by extending the principle of co-
-operation beyond individual workplaces can individual liberty be maximised and
-protected (see [section I.1.3](secI1.md#seci13) for why most anarchists are
-opposed to markets). In this they share some ground with Proudhon, as can be
-seen. The industrial confederations would _"guarantee the mutual use of the
+words by the agricultural and industrial associations."_ [ **Michael Bakunin:
+Selected Writings** , p. 206 and p. 174] Only by extending the principle of
+co-operation beyond individual workplaces can individual liberty be maximised
+and protected (see [section I.1.3](secI1.md#seci13) for why most anarchists
+are opposed to markets). In this they share some ground with Proudhon, as can
+be seen. The industrial confederations would _"guarantee the mutual use of the
 tools of production which are the property of each of these groups and which
 will by a reciprocal contract become the collective property of the whole . .
 . federation. In this way, the federation of groups will be able to . . .
 regulate the rate of production to meet the fluctuating needs of society."_
-[James Guillaume, **Bakunin on Anarchism**, p. 376]
+[James Guillaume, **Bakunin on Anarchism** , p. 376]
 
 These anarchists share the mutualists support for workers' self-management of
 production within co-operatives but see confederations of these associations
@@ -551,7 +552,7 @@ as being the focal point for expressing mutual aid, not a market. Workplace
 autonomy and self-management would be the basis of any federation, for _"the
 workers in the various factories have not the slightest intention of handing
 over their hard-won control of the tools of production to a superior power
-calling itself the 'corporation.'"_ [Guillaume, **Op. Cit.**, p. 364] In
+calling itself the 'corporation.'"_ [Guillaume, **Op. Cit.** , p. 364] In
 addition to this industry-wide federation, there would also be cross-industry
 and community confederations to look after tasks which are not within the
 exclusive jurisdiction or capacity of any particular industrial federation or
@@ -574,8 +575,8 @@ ownership of the means of production to be the key. As Kropotkin noted,
 collectivist anarchism _"express[es] a state of things in which all
 necessaries for production are owned in common by the labour groups and the
 free communes, while the ways of retribution [i.e. distribution] of labour,
-communist or otherwise, would be settled by each group for itself."_
-[**Anarchism**, p. 295] Thus, while communism and collectivism both organise
+communist or otherwise, would be settled by each group for itself."_ [
+**Anarchism** , p. 295] Thus, while communism and collectivism both organise
 production in common via producers' associations, they differ in how the goods
 produced will be distributed. Communism is based on free consumption of all
 while collectivism is more likely to be based on the distribution of goods
@@ -587,12 +588,12 @@ to their abilities, to each according to their needs."_** They just disagree
 on how quickly this will come about (see [section I.2.2](secI2.md#seci22)).
 
 For anarcho-communists, they think that _"communism -- at least partial -- has
-more chances of being established than collectivism"_ after a revolution.
-[**Op. Cit.**, p. 298] They think that moves towards communism are essential
+more chances of being established than collectivism"_ after a revolution. [
+**Op. Cit.** , p. 298] They think that moves towards communism are essential
 as collectivism _"begins by abolishing private ownership of the means of
 production and immediately reverses itself by returning to the system of
 remuneration according to work performed which means the re-introduction of
-inequality."_ [Alexander Berkman, **What is Anarchism?**, p. 230] The quicker
+inequality."_ [Alexander Berkman, **What is Anarchism?** , p. 230] The quicker
 the move to communism, the less chances of new inequalities developing.
 Needless to say, these positions are **not** that different and, in practice,
 the necessities of a social revolution and the level of political awareness of
@@ -624,7 +625,7 @@ form that the separate groups, plants, and branches of industry are
 independent members of the general economic organism and systematically carry
 on production and the distribution of the products in the interest of the
 community on the basis of free mutual agreements."_ [Rudolf Rocker, **Anarcho-
-syndicalism**, p. 55]
+syndicalism** , p. 55]
 
 Again, like all social anarchists, anarcho-syndicalists see the collective
 struggle and organisation implied in unions as the school for anarchism. As
@@ -639,7 +640,7 @@ unions also _"form the natural elements of the social edifice of the future;
 it is they who can be easily transformed into producers associations; it is
 they who can make the social ingredients and the organisation of production
 work."_ [quoted by Julian P. W. Archer, **The First International in France,
-1864-1872**, p. 196]
+1864-1872** , p. 196]
 
 The difference between syndicalists and other revolutionary social anarchists
 is slight and purely revolves around the question of anarcho-syndicalist
@@ -647,7 +648,7 @@ unions. Collectivist anarchists agree that building libertarian unions is
 important and that work within the labour movement is essential in order to
 ensure _"the development and organisation . . . of the social (and, by
 consequence, anti-political) power of the working masses."_ [Bakunin,
-**Michael Bakunin: Selected Writings**, p. 197] Communist anarchists usually
+**Michael Bakunin: Selected Writings** , p. 197] Communist anarchists usually
 also acknowledge the importance of working in the labour movement but they
 generally think that syndicalistic organisations will be created by workers in
 struggle, and so consider encouraging the **_"spirit of revolt"_** as more
@@ -713,14 +714,14 @@ Similarly, no contemporary ecologist would disagree with his comments that the
 _"truly civilised man [and women] understands that his [or her] nature is
 bound up with the interest of all and with that of nature. He [or she] repairs
 the damage caused by his predecessors and works to improve his domain."_
-[quoted by George Woodcock, _"Introduction"_, Marie Fleming, **The Geography
-of Freedom**, p. 15]
+[quoted by George Woodcock, _"Introduction"_ , Marie Fleming, **The Geography
+of Freedom** , p. 15]
 
 With regards Kropotkin, he argued that an anarchist society would be based on
 a confederation of communities that would integrate manual and brain work as
 well as decentralising and integrating industry and agriculture (see his
-classic work **Fields, Factories, and Workshops**). This idea of an economy in
-which _"small is beautiful"_ (to use the title of E.F. Schumacher's Green
+classic work **Fields, Factories, and Workshops** ). This idea of an economy
+in which _"small is beautiful"_ (to use the title of E.F. Schumacher's Green
 classic) was proposed nearly 70 years before it was taken up by what was to
 become the green movement. In addition, in **Mutual Aid** Kropotkin documented
 how co-operation within species and between them and their environment is
@@ -744,10 +745,10 @@ common. To quote Murray Bookchin, _"both the ecologist and the anarchist place
 a strong emphasis on spontaneity"_ and _"to both the ecologist and the
 anarchist, an ever-increasing unity is achieved by growing differentiation.
 **An expanding whole is created by the diversification and enrichment of its
-parts.**"_ Moreover, _"[j]ust as the ecologist seeks to expand the range of an
-eco-system and promote free interplay between species, so the anarchist seeks
-to expand the range of social experiments and remove all fetters to its
-development."_ [**Post-Scarcity Anarchism**, p. 36]
+parts.** "_ Moreover, _"[j]ust as the ecologist seeks to expand the range of
+an eco-system and promote free interplay between species, so the anarchist
+seeks to expand the range of social experiments and remove all fetters to its
+development."_ [ **Post-Scarcity Anarchism** , p. 36]
 
 Thus the anarchist concern with free development, decentralisation, diversity
 and spontaneity is reflected in ecological ideas and concerns. Hierarchy,
@@ -758,43 +759,44 @@ human societies are part of. As Bookchin argues, _"the reconstructive message
 of ecology. . . [is that] we must conserve and promote variety"_ but within
 modern capitalist society _"[a]ll that is spontaneous, creative and
 individuated is circumscribed by the standardised, the regulated and the
-massified."_ [**Op. Cit.**, p. 35 and p. 26] So, in many ways, anarchism can
+massified."_ [ **Op. Cit.** , p. 35 and p. 26] So, in many ways, anarchism can
 be considered the application of ecological ideas to society, as anarchism
 aims to empower individuals and communities, decentralise political, social
 and economic power so ensuring that individuals and social life develops
 freely and so becomes increasingly diverse in nature. It is for this reason
 Brian Morris argues that _"the only political tradition that complements and,
 as it were, integrally connects with ecology -- in a genuine and authentic way
--- is that of anarchism."_ [**Ecology and Anarchism**, p. 132]
+-- is that of anarchism."_ [ **Ecology and Anarchism** , p. 132]
 
 So what kinds of green anarchism are there? While almost all forms of modern
 anarchism consider themselves to have an ecological dimension, the
 specifically eco-anarchist thread within anarchism has two main focal points,
 **_Social Ecology_** and **_"primitivist"_**. In addition, some anarchists are
-influenced by **_Deep Ecology_**, although not many. Undoubtedly Social
+influenced by **_Deep Ecology_** , although not many. Undoubtedly Social
 Ecology is the most influential and numerous current. Social Ecology is
 associated with the ideas and works of Murray Bookchin, who has been writing
 on ecological matters since the 1950's and, from the 1960s, has combined these
 issues with revolutionary social anarchism. His works include **Post-Scarcity
-Anarchism**, **Toward an Ecological Society**, **The Ecology of Freedom** and
-a host of others.
+Anarchism** , **Toward an Ecological Society** , **The Ecology of Freedom**
+and a host of others.
 
 Social Ecology locates the roots of the ecological crisis firmly in relations
 of domination between people. The domination of nature is seen as a product of
 domination within society, but this domination only reaches crisis proportions
 under capitalism. In the words of Murray Bookchin:
 
-> _ "The notion that man must dominate nature emerges directly from the
-domination of man by man. . . But it was not until organic community
-relations. . . dissolved into market relationships that the planet itself was
-reduced to a resource for exploitation. This centuries-long tendency finds its
-most exacerbating development in modern capitalism. Owing to its inherently
-competitive nature, bourgeois society not only pits humans against each other,
-it also pits the mass of humanity against the natural world. Just as men are
-converted into commodities, so every aspect of nature is converted into a
-commodity, a resource to be manufactured and merchandised wantonly . . . The
-plundering of the human spirit by the market place is paralleled by the
-plundering of the earth by capital."_ [**Op. Cit.**, pp. 24-5]
+> _"The notion that man must dominate nature emerges directly from the
+> domination of man by man. . . But it was not until organic community
+> relations. . . dissolved into market relationships that the planet itself
+> was reduced to a resource for exploitation. This centuries-long tendency
+> finds its most exacerbating development in modern capitalism. Owing to its
+> inherently competitive nature, bourgeois society not only pits humans
+> against each other, it also pits the mass of humanity against the natural
+> world. Just as men are converted into commodities, so every aspect of nature
+> is converted into a commodity, a resource to be manufactured and
+> merchandised wantonly . . . The plundering of the human spirit by the market
+> place is paralleled by the plundering of the earth by capital."_ [ **Op.
+> Cit.** , pp. 24-5]
 
 _"Only insofar,"_ Bookchin stresses, _"as the ecology **consciously**
 cultivates an anti-hierarchical and a non-domineering sensibility, structure,
@@ -811,7 +813,7 @@ Environmentalism . . . does not bring into question the underlying notions of
 the present society, notably that man must dominate nature. On the contrary,
 it seeks to facilitate that domination by developing techniques for
 diminishing the hazards caused by domination."_ [Murray Bookchin, **Towards an
-Ecological Society**, p. 77]
+Ecological Society** , p. 77]
 
 Social ecology offers the vision of a society in harmony with nature, one
 which _"involves a fundamental reversal of all the trends that mark the
@@ -833,7 +835,7 @@ commodities . . . Such an eco-technology would use the inexhaustible energy
 capacities of nature -- the sun and wind, the tides and waterways, the
 temperature differentials of the earth and the abundance of hydrogen around us
 as fuels -- to provide the eco-community with non-polluting materials or
-wastes that could be recycled."_ [Bookchin, **Op. Cit.**, pp. 68-9]
+wastes that could be recycled."_ [Bookchin, **Op. Cit.** , pp. 68-9]
 
 However, this is not all. As Bookchin stresses an ecological society _"is more
 than a society that tries to check the mounting disequilibrium that exists
@@ -845,7 +847,7 @@ all, a **sensibility** that includes not only a critique of hierarchy and
 domination but a reconstructive outlook . . . guided by an ethics that
 emphasises variety without structuring differences into a hierarchical order .
 . . the precepts for such an ethics . . . [are] participation and
-differentiation."_ [**The Modern Crisis**, pp. 24-5]
+differentiation."_ [ **The Modern Crisis** , pp. 24-5]
 
 Therefore social ecologists consider it essential to attack hierarchy and
 capitalism, not civilisation as such as the root cause of ecological problems.
@@ -874,17 +876,18 @@ many anarchists reject as anti-human. There are few anarchists who think that
 ecologists seem to suggest. Murray Bookchin, for example, has been
 particularly outspoken in his criticism of deep ecology and the anti-human
 ideas that are often associated with it (see **Which Way for the Ecology
-Movement?**, for example). David Watson has also argued against Deep Ecology
+Movement?** , for example). David Watson has also argued against Deep Ecology
 (see his **How Deep is Deep Ecology?** written under the name George
 Bradford). Most anarchists would argue that it is not people but the current
 system which is the problem, and that only people can change it. In the words
 of Murray Bookchin:
 
-> _ "[Deep Ecology's problems] stem from an authoritarian streak in a crude
-biologism that uses 'natural law' to conceal an ever-diminishing sense of
-humanity and papers over a profound ignorance of social reality by ignoring
-the fact it is **capitalism** we are talking about, not an abstraction called
-'Humanity' and 'Society.'"_ [**The Philosophy of Social Ecology**, p. 160]
+> _"[Deep Ecology's problems] stem from an authoritarian streak in a crude
+> biologism that uses 'natural law' to conceal an ever-diminishing sense of
+> humanity and papers over a profound ignorance of social reality by ignoring
+> the fact it is **capitalism** we are talking about, not an abstraction
+> called 'Humanity' and 'Society.'"_ [ **The Philosophy of Social Ecology** ,
+> p. 160]
 
 Thus, as Morris stresses, _"by focusing entirely on the category of 'humanity'
 the Deep Ecologists ignore or completely obscure the social origins of
@@ -902,7 +905,7 @@ oppressed) the system we live under is effectively ignored, and so are the
 institutional causes of ecological problems. This can be _"both reactionary
 and authoritarian in its implications, and substitutes a naive understanding
 of 'nature' for a critical study of real social issues and concerns."_
-[Morris, **Op. Cit.**, p. 135]
+[Morris, **Op. Cit.** , p. 135]
 
 Faced with a constant anarchist critique of certain of their spokes-persons
 ideas, many Deep Ecologists have turned away from the anti-human ideas
@@ -913,7 +916,7 @@ a close working relationship with the **_Industrial Workers of the World_**
 anarchism, it shares many ideas and is becoming more accepted by anarchists as
 EF! rejects its few misanthropic ideas and starts to see that hierarchy, not
 the human race, is the problem (for a discussion between Murray Bookchin and
-leading Earth Firster! Dave Foreman see the book **Defending the Earth**).
+leading Earth Firster! Dave Foreman see the book **Defending the Earth** ).
 
 ## A.3.4 Is anarchism pacifistic?
 
@@ -926,11 +929,11 @@ the fundamental ideals and arguments of anarchism. After all, violence, or the
 threat of violence or harm, is a key means by which individual freedom is
 destroyed. As Peter Marshall points out, _"[g]iven the anarchist's respect for
 the sovereignty of the individual, in the long run it is non-violence and not
-violence which is implied by anarchist values."_ [**Demanding the
-Impossible**, p.637] Malatesta is even more explicit when he wrote that the
+violence which is implied by anarchist values."_ [ **Demanding the
+Impossible** , p.637] Malatesta is even more explicit when he wrote that the
 _"main plank of anarchism is the removal of violence from human relations"_
-and that anarchists _"are opposed to violence."_ [**Errico Malatesta: His Life
-and Ideas**, p. 53]
+and that anarchists _"are opposed to violence."_ [ **Errico Malatesta: His
+Life and Ideas** , p. 53]
 
 However, although many anarchists reject violence and proclaim pacifism, the
 movement, in general, is not essentially pacifistic (in the sense of opposed
@@ -954,12 +957,12 @@ idea of violence in self-defence against aggression. Most social anarchists,
 on the other hand, do support the use of revolutionary violence, holding that
 physical force will be required to overthrow entrenched power and to resist
 state and capitalist aggression (although it was an anarcho-syndicalist, Bart
-de Ligt, who wrote the pacifist classic, **The Conquest of Violence**). As
+de Ligt, who wrote the pacifist classic, **The Conquest of Violence** ). As
 Malatesta put it, violence, while being _"in itself an evil,"_ is
 _"justifiable only when it is necessary to defend oneself and others from
 violence"_ and that a _"slave is always in a state of legitimate defence and
 consequently, his violence against the boss, against the oppressor, is always
-morally justifiable."_ [**Op. Cit.**, p. 55 and pp. 53-54] Moreover, they
+morally justifiable."_ [ **Op. Cit.** , p. 55 and pp. 53-54] Moreover, they
 stress that, to use the words of Bakunin, since social oppression _"stems far
 less from individuals than from the organisation of things and from social
 positions"_ anarchists aim to _"ruthlessly destroy positions and things"_
@@ -975,8 +978,8 @@ pacifist anarcho-syndicalist Bart de Ligt when he argued that _"the violence
 and warfare which are characteristic conditions of the capitalist world do not
 go with the liberation of the individual, which is the historic mission of the
 exploited classes. The greater the violence, the weaker the revolution, even
-where violence has deliberately been put at the service of the revolution."_
-[**The Conquest of Violence**, p. 75]
+where violence has deliberately been put at the service of the revolution."_ [
+**The Conquest of Violence** , p. 75]
 
 Similarly, all anarchists would agree with de Ligt on, to use the name of one
 of his book's chapters, _"the absurdity of bourgeois pacifism."_ For de Ligt,
@@ -989,7 +992,7 @@ hand, _"violence is indispensable in modern society. . . [because] without it
 the ruling class would be completely unable to maintain its privileged
 position with regard to the exploited masses in each country. The army is used
 first and foremost to hold down the workers. . . when they become
-discontented."_ [Bart de Ligt, **Op. Cit.**, p. 62] As long as the state and
+discontented."_ [Bart de Ligt, **Op. Cit.** , p. 62] As long as the state and
 capitalism exist, violence is inevitable and so, for anarcho-pacifists, the
 consistent pacifist must be an anarchist just as the consistent anarchist must
 be a pacifist.
@@ -1000,13 +1003,13 @@ means by which the privileged classes will renounce their power and wealth.
 Those in authority rarely give up their power and so must be forced. Hence the
 need for _"transitional"_ violence _"to put an end to the far greater, and
 permanent, violence which keeps the majority of mankind in servitude."_
-[Malatesta, **Op. Cit.**, p. 55] To concentrate on the issue of violence
+[Malatesta, **Op. Cit.** , p. 55] To concentrate on the issue of violence
 versus non-violence is to ignore the real issue, namely how do we change
 society for the better. As Alexander Berkman pointed out, those anarchists who
 are pacifists confuse the issue, like those who think _"it's the same as if
 rolling up your sleeves for work should be considered the work itself."_ To
 the contrary, _"[t]he fighting part of revolution is merely rolling up your
-sleeves. The real, actual task is ahead."_ [**What is Anarchism?**, p. 183]
+sleeves. The real, actual task is ahead."_ [ **What is Anarchism?** , p. 183]
 And, indeed, most social struggle and revolutions start relatively peaceful
 (via strikes, occupations and so on) and only degenerate into violence when
 those in power try to maintain their position (a classic example of this is in
@@ -1040,78 +1043,68 @@ kill each other for the power and profits of their rulers. Rather than take
 part in this organised slaughter, anarchists urge working people to fight for
 their own interests, not those of their masters:
 
-> _ "More than ever we must avoid compromise; deepen the chasm between
-capitalists and wage slaves, between rulers and ruled; preach expropriation of
-private property and the destruction of states such as the only means of
-guaranteeing fraternity between peoples and Justice and Liberty for all; and
-we must prepare to accomplish these things."_ [Malatesta, **Op. Cit.**, p.
-251]
+> _"More than ever we must avoid compromise; deepen the chasm between
+> capitalists and wage slaves, between rulers and ruled; preach expropriation
+> of private property and the destruction of states such as the only means of
+> guaranteeing fraternity between peoples and Justice and Liberty for all; and
+> we must prepare to accomplish these things."_ [Malatesta, **Op. Cit.** , p.
+> 251]
 
 We must note here that Malatesta's words were written in part against Peter
 Kropotkin who, for reasons best known to himself, rejected everything he had
 argued for decades and supported the allies in the First World War as a lesser
 evil against German authoritarianism and Imperialism. Of course, as Malatesta
 pointed out, _"all Governments and all capitalist classes"_ do _"misdeeds . .
-. against the workers and rebels of their own countries."_ [**Op. Cit.**, p.
+. against the workers and rebels of their own countries."_ [ **Op. Cit.** , p.
 246] He, along with Berkman, Goldman and a host of other anarchists, put their
 name to International Anarchist Manifesto against the First World War. It
 expressed the opinion of the bulk of the anarchist movement (at the time and
 consequently) on war and how to stop it. It is worth quoting from:
 
-> _ "The truth is that the cause of wars . . . rests solely in the existence
-of the State, which is the form of privilege . . . Whatever the form it may
-assume, the State is nothing but organised oppression for the advantage of a
-privileged minority . . .  
+> _"The truth is that the cause of wars . . . rests solely in the existence of
+> the State, which is the form of privilege . . . Whatever the form it may
+> assume, the State is nothing but organised oppression for the advantage of a
+> privileged minority . . .  
 >  _
-
 >
-
 > _"The misfortune of the peoples, who were deeply attached to peace, is that,
-in order to avoid war, they placed their confidence in the State with its
-intriguing diplomatists, in democracy, and in political parties . . . This
-confidence has been deliberately betrayed, and continues to be so, when
-governments, with the aid of the whole of the press, persuade their respective
-people that this war is a war of liberation. _
-
+> in order to avoid war, they placed their confidence in the State with its
+> intriguing diplomatists, in democracy, and in political parties . . . This
+> confidence has been deliberately betrayed, and continues to be so, when
+> governments, with the aid of the whole of the press, persuade their
+> respective people that this war is a war of liberation._
 >
-
 > _"We are resolutely against all wars between peoples, and . . . have been,
-are, and ever will be most energetically opposed to war. _
-
+> are, and ever will be most energetically opposed to war._
 >
-
 > _"The role of the Anarchists . . . is to continue to proclaim that there is
-only one war of liberation: that which in all countries is waged by the
-oppressed against the oppressors, by the exploited against the exploiters. Our
-part is to summon the slaves to revolt against their masters. _
-
+> only one war of liberation: that which in all countries is waged by the
+> oppressed against the oppressors, by the exploited against the exploiters.
+> Our part is to summon the slaves to revolt against their masters._
 >
-
 > _"Anarchist action and propaganda should assiduously and perseveringly aim
-at weakening and dissolving the various States, at cultivating the spirit of
-revolt, and arousing discontent in peoples and armies. . . _
-
+> at weakening and dissolving the various States, at cultivating the spirit of
+> revolt, and arousing discontent in peoples and armies. . ._
 >
-
 > _"We must take advantage of all the movements of revolt, of all the
-discontent, in order to foment insurrection, and to organise the revolution
-which we look to put end to all social wrongs. . . Social justice realised
-through the free organisation of producers: war and militarism done away with
-forever; and complete freedom won, by the abolition of the State and its
-organs of destruction."_ [_"International Anarchist Manifesto on the War,"_
-**Anarchy! An Anthology of Emma Goldman's Mother Earth**, pp. 386-8]
+> discontent, in order to foment insurrection, and to organise the revolution
+> which we look to put end to all social wrongs. . . Social justice realised
+> through the free organisation of producers: war and militarism done away
+> with forever; and complete freedom won, by the abolition of the State and
+> its organs of destruction."_ [ _"International Anarchist Manifesto on the
+> War,"_ **Anarchy! An Anthology of Emma Goldman's Mother Earth** , pp. 386-8]
 
 Thus, the attraction of pacifism to anarchists is clear. Violence **is**
 authoritarian and coercive, and so its use does contradict anarchist
 principles. That is why anarchists would agree with Malatesta when he argues
 that _"[w]e are on principle opposed to violence and for this reason wish that
 the social struggle should be conducted as humanely as possible."_ [Malatesta,
-**Op. Cit.**, p. 57] Most, if not all, anarchists who are not strict pacifists
-agree with pacifist-anarchists when they argue that violence can often be
-counterproductive, alienating people and giving the state an excuse to repress
-both the anarchist movement and popular movements for social change. All
-anarchists support non-violent direct action and civil disobedience, which
-often provide better roads to radical change.
+**Op. Cit.** , p. 57] Most, if not all, anarchists who are not strict
+pacifists agree with pacifist-anarchists when they argue that violence can
+often be counterproductive, alienating people and giving the state an excuse
+to repress both the anarchist movement and popular movements for social
+change. All anarchists support non-violent direct action and civil
+disobedience, which often provide better roads to radical change.
 
 So, to sum up, anarchists who are pure pacifists are rare. Most accept the use
 of violence as a necessary evil and advocate minimising its use. All agree
@@ -1134,27 +1127,27 @@ The modern anarcha-feminists built upon the feminist ideas of previous
 anarchists, both male and female. Indeed, anarchism and feminism have always
 been closely linked. Many outstanding feminists have also been anarchists,
 including the pioneering Mary Wollstonecraft (author of **A Vindication of the
-Rights of Woman**), the Communard Louise Michel, and the American anarchists
+Rights of Woman** ), the Communard Louise Michel, and the American anarchists
 (and tireless champions of women's freedom) Voltairine de Cleyre and Emma
-Goldman (for the former, see her essays _"Sex Slavery"_, _"Gates of Freedom"_,
-_"The Case of Woman vs. Orthodoxy"_, _"Those Who Marry Do Ill"_; for the
-latter see _"The Traffic in Women"_, _"Woman Suffrage"_, _"The Tragedy of
-Woman's Emancipation"_, _"Marriage and Love"_ and _"Victims of Morality"_, for
-example). **Freedom**, the world's oldest anarchist newspaper, was founded by
-Charlotte Wilson in 1886. Anarchist women like Virgilia D'Andrea and Rose
-Pesota played important roles in both the libertarian and labour movements.
-The **_"Mujeres Libres"_** (_"Free Women"_) movement in Spain during the
-Spanish revolution is a classic example of women anarchists organising
-themselves to defend their basic freedoms and create a society based on
-women's freedom and equality (see **Free Women of Spain** by Martha Ackelsberg
-for more details on this important organisation). In addition, all the male
-major anarchist thinkers (bar Proudhon) were firm supporters of women's
-equality. For example, Bakunin opposed patriarchy and how the law _"subjects
-[women] to the absolute domination of the man."_ He argued that _"[e]qual
-rights must belong to men and women"_ so that women can _"become independent
-and be free to forge their own way of life."_ He looked forward to the end of
-_"the authoritarian juridical family"_ and _"the full sexual freedom of
-women."_ [**Bakunin on Anarchism**, p. 396 and p. 397]
+Goldman (for the former, see her essays _"Sex Slavery"_ , _"Gates of Freedom"_
+, _"The Case of Woman vs. Orthodoxy"_ , _"Those Who Marry Do Ill"_ ; for the
+latter see _"The Traffic in Women"_ , _"Woman Suffrage"_ , _"The Tragedy of
+Woman's Emancipation"_ , _"Marriage and Love"_ and _"Victims of Morality"_ ,
+for example). **Freedom** , the world's oldest anarchist newspaper, was
+founded by Charlotte Wilson in 1886. Anarchist women like Virgilia D'Andrea
+and Rose Pesota played important roles in both the libertarian and labour
+movements. The **_"Mujeres Libres"_** ( _"Free Women"_ ) movement in Spain
+during the Spanish revolution is a classic example of women anarchists
+organising themselves to defend their basic freedoms and create a society
+based on women's freedom and equality (see **Free Women of Spain** by Martha
+Ackelsberg for more details on this important organisation). In addition, all
+the male major anarchist thinkers (bar Proudhon) were firm supporters of
+women's equality. For example, Bakunin opposed patriarchy and how the law
+_"subjects [women] to the absolute domination of the man."_ He argued that
+_"[e]qual rights must belong to men and women"_ so that women can _"become
+independent and be free to forge their own way of life."_ He looked forward to
+the end of _"the authoritarian juridical family"_ and _"the full sexual
+freedom of women."_ [ **Bakunin on Anarchism** , p. 396 and p. 397]
 
 Thus anarchism has since the 1860s combined a radical critique of capitalism
 and the state with an equally powerful critique of patriarchy (rule by men).
@@ -1166,24 +1159,24 @@ reduces you to an **object** is a man; that the libertine who harasses you is
 a man; that the capitalist who enriches himself with your ill-paid work and
 the speculator who calmly pockets the price of your body, are men."_ Little
 has changed since then. Patriarchy still exists and, to quote the anarchist
-paper **La Questione Sociale**, it is still usually the case that women _"are
+paper **La Questione Sociale** , it is still usually the case that women _"are
 slaves both in social and private life. If you are a proletarian, you have two
 tyrants: the man and the boss. If bourgeois, the only sovereignty left to you
 is that of frivolity and coquetry."_ [quoted by Jose Moya, **Italians in
-Buenos Aires's Anarchist Movement**, pp. 197-8 and p. 200]
+Buenos Aires's Anarchist Movement** , pp. 197-8 and p. 200]
 
 Anarchism, therefore, is based on an awareness that fighting patriarchy is as
 important as fighting against the state or capitalism. For _"[y]ou can have no
 free, or just, or equal society, nor anything approaching it, so long as
-womanhood is bought, sold, housed, clothed, fed, and **protected**, as a
-chattel."_ [Voltairine de Cleyre, _"The Gates of Freedom"_, pp. 235-250,
-Eugenia C. Delamotte, **Gates of Freedom**, p. 242] To quote Louise Michel:
+womanhood is bought, sold, housed, clothed, fed, and **protected** , as a
+chattel."_ [Voltairine de Cleyre, _"The Gates of Freedom"_ , pp. 235-250,
+Eugenia C. Delamotte, **Gates of Freedom** , p. 242] To quote Louise Michel:
 
-> _ "The first thing that must change is the relationship between the sexes.
-Humanity has two parts, men and women, and we ought to be walking hand in
-hand; instead there is antagonism, and it will last as long as the 'stronger'
-half controls, or think its controls, the 'weaker' half."_ [**The Red Virgin:
-Memoirs of Louise Michel**, p. 139]
+> _"The first thing that must change is the relationship between the sexes.
+> Humanity has two parts, men and women, and we ought to be walking hand in
+> hand; instead there is antagonism, and it will last as long as the
+> 'stronger' half controls, or think its controls, the 'weaker' half."_ [
+> **The Red Virgin: Memoirs of Louise Michel** , p. 139]
 
 Thus anarchism, like feminism, fights patriarchy and for women's equality.
 Both share much common history and a concern about individual freedom,
@@ -1196,29 +1189,29 @@ Emma Goldman. Cathy Levine points out that, during this time, _"independent
 groups of women began functioning without the structure, leaders, and other
 factotums of the male left, creating, independently and simultaneously,
 organisations similar to those of anarchists of many decades and regions. No
-accident, either."_ [_"The Tyranny of Tyranny,"_ **Quiet Rumours: An Anarcha-
-Feminist Reader**, p. 66] It is no accident because, as feminist scholars have
-noted, women were among the first victims of hierarchical society, which is
-thought to have begun with the rise of patriarchy and ideologies of domination
-during the late Neolithic era. Marilyn French argues (in **Beyond Power**)
-that the first major social stratification of the human race occurred when men
-began dominating women, with women becoming in effect a "lower" and "inferior"
-social class.
+accident, either."_ [ _"The Tyranny of Tyranny,"_ **Quiet Rumours: An Anarcha-
+Feminist Reader** , p. 66] It is no accident because, as feminist scholars
+have noted, women were among the first victims of hierarchical society, which
+is thought to have begun with the rise of patriarchy and ideologies of
+domination during the late Neolithic era. Marilyn French argues (in **Beyond
+Power** ) that the first major social stratification of the human race
+occurred when men began dominating women, with women becoming in effect a
+"lower" and "inferior" social class.
 
 The links between anarchism and modern feminism exist in both ideas and
 action. Leading feminist thinker Carole Pateman notes that her _"discussion
 [on contract theory and its authoritarian and patriarchal basis] owes
 something to"_ libertarian ideas, that is the _"anarchist wing of the
-socialist movement."_ [**The Sexual Contract**, p. 14] Moreover, she noted in
-the 1980s how the _"major locus of criticism of authoritarian, hierarchical,
-undemocratic forms of organisation for the last twenty years has been the
-women's movement . . . After Marx defeated Bakunin in the First International,
-the prevailing form of organisation in the labour movement, the nationalised
-industries and in the left sects has mimicked the hierarchy of the state . . .
-The women's movement has rescued and put into practice the long-submerged idea
-[of anarchists like Bakunin] that movements for, and experiments in, social
-change must 'prefigure' the future form of social organisation."_ [**The
-Disorder of Women**, p. 201]
+socialist movement."_ [ **The Sexual Contract** , p. 14] Moreover, she noted
+in the 1980s how the _"major locus of criticism of authoritarian,
+hierarchical, undemocratic forms of organisation for the last twenty years has
+been the women's movement . . . After Marx defeated Bakunin in the First
+International, the prevailing form of organisation in the labour movement, the
+nationalised industries and in the left sects has mimicked the hierarchy of
+the state . . . The women's movement has rescued and put into practice the
+long-submerged idea [of anarchists like Bakunin] that movements for, and
+experiments in, social change must 'prefigure' the future form of social
+organisation."_ [ **The Disorder of Women** , p. 201]
 
 Peggy Kornegger has drawn attention to these strong connections between
 feminism and anarchism, both in theory and practice. _"The radical feminist
@@ -1227,11 +1220,11 @@ postulates the nuclear family as the basis of all authoritarian systems. The
 lesson the child learns, from father to teacher to boss to god, is to **obey**
 the great anonymous voice of Authority. To graduate from childhood to
 adulthood is to become a full-fledged automaton, incapable of questioning or
-even of thinking clearly."_ [_"Anarchism: The Feminist Connection,"_ **Quiet
-Rumours: An Anarcha-Feminist Reader**, p. 26] Similarly, the Zero Collective
+even of thinking clearly."_ [ _"Anarchism: The Feminist Connection,"_ **Quiet
+Rumours: An Anarcha-Feminist Reader** , p. 26] Similarly, the Zero Collective
 argues that Anarcha-feminism _"consists in recognising the anarchism of
-feminism and consciously developing it."_ [_"Anarchism/Feminism,"_ pp. 3-7,
-**The Raven**, no. 21, p. 6]
+feminism and consciously developing it."_ [ _"Anarchism/Feminism,"_ pp. 3-7,
+**The Raven** , no. 21, p. 6]
 
 Anarcha-feminists point out that authoritarian traits and values, for example,
 domination, exploitation, aggressiveness, competitiveness, desensitisation
@@ -1245,7 +1238,7 @@ societies in which "feminine" traits and values were prevalent and respected.
 Following these conquests, however, such values came to be regarded as
 "inferior," especially for a man, since men were in charge of domination and
 exploitation under patriarchy. (See e.g. Riane Eisler, **The Chalice and the
-Blade**; Elise Boulding, **The Underside of History**). Hence anarcha-
+Blade** ; Elise Boulding, **The Underside of History** ). Hence anarcha-
 feminists have referred to the creation of a non-authoritarian, anarchist
 society based on co-operation, sharing, mutual aid, etc. as the "feminisation
 of society."
@@ -1261,19 +1254,19 @@ forms of decision making. Some feminists have even argued that directly
 democratic organisations are specifically female political forms. [see e.g.
 Nancy Hartsock _"Feminist Theory and the Development of Revolutionary
 Strategy,"_ in Zeila Eisenstein, ed., **Capitalist Patriarchy and the Case for
-Socialist Feminism**, pp. 56-77] Like all anarchists, anarcha-feminists
+Socialist Feminism** , pp. 56-77] Like all anarchists, anarcha-feminists
 recognise that self-liberation is the key to women's equality and thus,
 freedom. Thus Emma Goldman:
 
-> _ "Her development, her freedom, her independence, must come from and
-through herself. First, by asserting herself as a personality, and not as a
-sex commodity. Second, by refusing the right of anyone over her body; by
-refusing to bear children, unless she wants them, by refusing to be a servant
-to God, the State, society, the husband, the family, etc., by making her life
-simpler, but deeper and richer. That is, by trying to learn the meaning and
-substance of life in all its complexities; by freeing herself from the fear of
-public opinion and public condemnation."_ [**Anarchism and Other Essays**, p.
-211]
+> _"Her development, her freedom, her independence, must come from and through
+> herself. First, by asserting herself as a personality, and not as a sex
+> commodity. Second, by refusing the right of anyone over her body; by
+> refusing to bear children, unless she wants them, by refusing to be a
+> servant to God, the State, society, the husband, the family, etc., by making
+> her life simpler, but deeper and richer. That is, by trying to learn the
+> meaning and substance of life in all its complexities; by freeing herself
+> from the fear of public opinion and public condemnation."_ [ **Anarchism and
+> Other Essays** , p. 211]
 
 Anarcha-feminism tries to keep feminism from becoming influenced and dominated
 by authoritarian ideologies of either the right or left. It proposes direct
@@ -1289,7 +1282,7 @@ managerial domination altogether. Anarcha-feminists realise that learning how
 to become an effective exploiter or oppressor is not the path to equality (as
 one member of the Mujeres Libres put it, _"[w]e did not want to substitute a
 feminist hierarchy for a masculine one"_ [quoted by Martha A. Ackelsberg,
-**Free Women of Spain**, pp. 22-3] -- also see [section
+**Free Women of Spain** , pp. 22-3] -- also see [section
 B.1.4](secB1.md#secb14) for a further discussion on patriarchy and
 hierarchy).
 
@@ -1301,7 +1294,7 @@ that (mainstream) feminism's only ambition is to give to women of a particular
 class the opportunity to participate more fully in the existing system of
 privilege and if these institutions _"are unjust when men take advantage of
 them, they will still be unjust if women take advantage of them."_ [quoted by
-Martha A. Ackelsberg, **Op. Cit.**, p. 119] Thus, for anarchists, women's
+Martha A. Ackelsberg, **Op. Cit.** , p. 119] Thus, for anarchists, women's
 freedom did not mean an equal chance to become a boss or a wage slave, a voter
 or a politician, but rather to be a free and equal individual co-operating as
 equals in free associations. _"Feminism,"_ stressed Peggy Kornegger, _"doesn't
@@ -1309,7 +1302,7 @@ mean female corporate power or a woman President; it means no corporate power
 and no Presidents. The Equal Rights Amendment will not transform society; it
 only gives women the 'right' to plug into a hierarchical economy. Challenging
 sexism means challenging all hierarchy -- economic, political, and personal.
-And that means an anarcha-feminist revolution."_ [**Op. Cit.**, p. 27]
+And that means an anarcha-feminist revolution."_ [ **Op. Cit.** , p. 27]
 
 Anarchism, as can be seen, included a class and economic analysis which is
 missing from mainstream feminism while, at the same time, showing an awareness
@@ -1318,21 +1311,21 @@ socialist movement. This flows from our hatred of hierarchy. As Mozzoni put
 it, _"Anarchy defends the cause of all the oppressed, and because of this, and
 in a special way, it defends your [women's] cause, oh! women, doubly oppressed
 by present society in both the social and private spheres."_ [quoted by Moya,
-**Op. Cit.**, p. 203] This means that, to quote a Chinese anarchist, what
+**Op. Cit.** , p. 203] This means that, to quote a Chinese anarchist, what
 anarchists _"mean by equality between the sexes is not just that the men will
 no longer oppress women. We also want men to no longer to be oppressed by
 other men, and women no longer to be oppressed by other women."_ Thus women
 should _"completely overthrow rulership, force men to abandon all their
 special privileges and become equal to women, and make a world with neither
 the oppression of women nor the oppression of men."_ [He Zhen, quoted by Peter
-Zarrow, **Anarchism and Chinese Political Culture**, p. 147]
+Zarrow, **Anarchism and Chinese Political Culture** , p. 147]
 
 So, in the historic anarchist movement, as Martha Ackelsberg notes,
 liberal/mainstream feminism was considered as being _"too narrowly focused as
 a strategy for women's emancipation; sexual struggle could not be separated
-from class struggle or from the anarchist project as a whole."_ [**Op. Cit.**,
-p. 119] Anarcha-feminism continues this tradition by arguing that all forms of
-hierarchy are wrong, not just patriarchy, and that feminism is in conflict
+from class struggle or from the anarchist project as a whole."_ [ **Op. Cit.**
+, p. 119] Anarcha-feminism continues this tradition by arguing that all forms
+of hierarchy are wrong, not just patriarchy, and that feminism is in conflict
 with its own ideals if it desires simply to allow women to have the same
 chance of being a boss as a man does. They simply state the obvious, namely
 that they _"do not believe that power in the hands of women could possibly
@@ -1340,10 +1333,10 @@ lead to a non-coercive society"_ nor do they _"believe that anything good can
 come out of a mass movement with a leadership elite."_ The _"central issues
 are always power and social hierarchy"_ and so people _"are free only when
 they have power over their own lives."_ [Carole Ehrlich, _"Socialism,
-Anarchism and Feminism"_, **Quiet Rumours: An Anarcha-Feminist Reader**, p.
+Anarchism and Feminism"_ , **Quiet Rumours: An Anarcha-Feminist Reader** , p.
 44] For if, as Louise Michel put it, _"a proletarian is a slave; the wife of a
 proletarian is even more a slave"_ ensuring that the wife experiences an equal
-level of oppression as the husband misses the point. [**Op. Cit.**, p. 141]
+level of oppression as the husband misses the point. [ **Op. Cit.** , p. 141]
 
 Anarcha-feminists, therefore, like all anarchists oppose capitalism as a
 denial of liberty. Their critique of hierarchy in the society does not start
@@ -1352,29 +1345,29 @@ wanting to _"[b]reak up . . . every home that rests in slavery! Every marriage
 that represents the sale and transfer of the individuality of one of its
 parties to the other! Every institution, social or civil, that stands between
 man and his right; every tie that renders one a master, another a serf."_
-[Voltairine de Cleyre, _"The Economic Tendency of Freethought"_, **The
-Voltairine de Cleyre Reader**, p. 72] The ideal that an "equal opportunity"
+[Voltairine de Cleyre, _"The Economic Tendency of Freethought"_ , **The
+Voltairine de Cleyre Reader** , p. 72] The ideal that an "equal opportunity"
 capitalism would free women ignores the fact that any such system would still
 see working class women oppressed by bosses (be they male or female). For
 anarcha-feminists, the struggle for women's liberation cannot be separated
 from the struggle against hierarchy **as such.** As L. Susan Brown puts it:
 
-> _ "Anarchist-feminism, as an expression of the anarchist sensibility applied
-to feminist concerns, takes the individual as its starting point and, in
-opposition to relations of domination and subordination, argues for non-
-instrumental economic forms that preserve individual existential freedom, for
-both men and women."_ [**The Politics of Individualism**, p. 144]
+> _"Anarchist-feminism, as an expression of the anarchist sensibility applied
+> to feminist concerns, takes the individual as its starting point and, in
+> opposition to relations of domination and subordination, argues for non-
+> instrumental economic forms that preserve individual existential freedom,
+> for both men and women."_ [ **The Politics of Individualism** , p. 144]
 
 Anarcha-feminists have much to contribute to our understanding of the origins
 of the ecological crisis in the authoritarian values of hierarchical
 civilisation. For example, a number of feminist scholars have argued that the
 domination of nature has paralleled the domination of women, who have been
 identified with nature throughout history (See, for example, Caroline
-Merchant, **The Death of Nature**, 1980). Both women and nature are victims of
-the obsession with control that characterises the authoritarian personality.
-For this reason, a growing number of both radical ecologists and feminists are
-recognising that hierarchies must be dismantled in order to achieve their
-respective goals.
+Merchant, **The Death of Nature** , 1980). Both women and nature are victims
+of the obsession with control that characterises the authoritarian
+personality. For this reason, a growing number of both radical ecologists and
+feminists are recognising that hierarchies must be dismantled in order to
+achieve their respective goals.
 
 In addition, anarcha-feminism reminds us of the importance of treating women
 equally with men while, at the same time, respecting women's differences from
@@ -1394,11 +1387,11 @@ wherever we can. By ourselves **living our beliefs** . . . . We are
 revolutionists. And we shall use propaganda by speech, deed, and most of all
 life -- **being** what we teach."_ Thus anarcha-feminists, like all
 anarchists, see the struggle against patriarchy as being a struggle of the
-oppressed for their own self-liberation, for _"**as a class** I have nothing
+oppressed for their own self-liberation, for _" **as a class** I have nothing
 to hope from men . . . No tyrant ever renounced his tyranny until he had to.
 If history ever teaches us anything it teaches this. Therefore my hope lies in
-creating rebellion in the breasts of women."_ [_"The Gates of Freedom"_, pp.
-235-250, Eugenia C. Delamotte, **Gates of Freedom**, p. 249 and p. 239] This
+creating rebellion in the breasts of women."_ [ _"The Gates of Freedom"_ , pp.
+235-250, Eugenia C. Delamotte, **Gates of Freedom** , p. 249 and p. 239] This
 was sadly as applicable within the anarchist movement as it was outside it in
 patriarchal society.
 
@@ -1417,7 +1410,7 @@ that the difference in sex does not imply inequality in rights"_ and that as
 well as being _"rebels against the social system of today,"_ they _"should
 fight especially against the oppression of men who would like to retain women
 as their moral and material inferior."_ [Ersilia Grandi, quoted by Caroline
-Waldron Merithew, **Anarchist Motherhood**, p. 227] They formed the **_"Luisa
+Waldron Merithew, **Anarchist Motherhood** , p. 227] They formed the **_"Luisa
 Michel"_** group to fight against capitalism and patriarchy in the upper
 Illinois valley coal towns over three decades before their Spanish comrades
 organised themselves.
@@ -1428,12 +1421,12 @@ feminism, a diversion from the "real" struggle against capitalism which would
 somehow be automatically solved after the revolution. It is an essential part
 of the struggle:
 
-> _ "We do not need any of your titles . . . We want none of them. What we do
-want is knowledge and education and liberty. We know what our rights are and
-we demand them. Are we not standing next to you fighting the supreme fight?
-Are you not strong enough, men, to make part of that supreme fight a struggle
-for the rights of women? And then men and women together will gain the rights
-of all humanity."_ [Louise Michel, **Op. Cit.**, p. 142]
+> _"We do not need any of your titles . . . We want none of them. What we do
+> want is knowledge and education and liberty. We know what our rights are and
+> we demand them. Are we not standing next to you fighting the supreme fight?
+> Are you not strong enough, men, to make part of that supreme fight a
+> struggle for the rights of women? And then men and women together will gain
+> the rights of all humanity."_ [Louise Michel, **Op. Cit.** , p. 142]
 
 A key part of this revolutionising modern society is the transformation of the
 current relationship between the sexes. Marriage is a particular evil for
@@ -1441,12 +1434,12 @@ _"the old form of marriage, based on the Bible, 'till death doth part,' . . .
 [is] an institution that stands for the sovereignty of the man over the women,
 of her complete submission to his whims and commands."_ Women are reduced _"to
 the function of man's servant and bearer of his children."_ [Goldman, **Op.
-Cit.**, pp. 220-1] Instead of this, anarchists proposed **_"free love,"_**
+Cit.** , pp. 220-1] Instead of this, anarchists proposed **_"free love,"_**
 that is couples and families based on free agreement between equals than one
 partner being in authority and the other simply obeying. Such unions would be
 without sanction of church or state for _"two beings who love each other do
 not need permission from a third to go to bed."_ [Mozzoni, quoted by Moya,
-**Op. Cit.**, p. 200]
+**Op. Cit.** , p. 200]
 
 Equality and freedom apply to more than just relationships. For _"if social
 progress consists in a constant tendency towards the equalisation of the
@@ -1455,7 +1448,7 @@ long as half society, Women, is in subjection. . . . Woman . . . is beginning
 to feel her servitude; that there is a requisite acknowledgement to be won
 from her master before he is put down and she exalted to -- Equality. This
 acknowledgement is, **the freedom to control her own person**. "_ [Voltairine
-de Cleyre, _"The Gates of Freedom"_, **Op. Cit.**, p. 242] Neither men nor
+de Cleyre, _"The Gates of Freedom"_ , **Op. Cit.** , p. 242] Neither men nor
 state nor church should say what a woman does with her body. A logical
 extension of this is that women must have control over their own reproductive
 organs. Thus anarcha-feminists, like anarchists in general, are pro-choice and
@@ -1465,7 +1458,7 @@ persecuted and incarcerated because of her public advocacy of birth control
 methods and the extremist notion that women should decide when they become
 pregnant (as feminist writer Margaret Anderson put it, _"In 1916, Emma Goldman
 was sent to prison for advocating that 'women need not always keep their mouth
-shut and their wombs open.'"_).
+shut and their wombs open.'"_ ).
 
 Anarcha-feminism does not stop there. Like anarchism in general, it aims at
 changing **all** aspects of society not just what happens in the home. For, as
@@ -1479,28 +1472,29 @@ women's self-activity and self-liberation for while the _"right to vote, or
 equal civil rights, may be good demands . . . true emancipation begins neither
 at the polls nor in the courts. It begins in woman's soul . . . her freedom
 will reach as far as her power to achieve freedom reaches."_ [Goldman, **Op.
-Cit.**, p. 216 and p. 224]
+Cit.** , p. 216 and p. 224]
 
 The history of the women's movement proves this. Every gain has come from
 below, by the action of women themselves. As Louise Michel put it, _"[w]e
 women are not bad revolutionaries. Without begging anyone, we are taking our
 place in the struggles; otherwise, we could go ahead and pass motions until
-the world ends and gain nothing."_ [**Op. Cit.**, p. 139] If women waited for
-others to act for them their social position would never have changed. This
-includes getting the vote in the first place. Faced with the militant suffrage
-movement for women's votes, British anarchist Rose Witcop recognised that it
-was _"true that this movement shows us that women who so far have been so
-submissive to their masters, the men, are beginning to wake up at last to the
-fact they are not inferior to those masters."_ Yet she argued that women would
-not be freed by votes but _"by their own strength."_ [quoted by Sheila
-Rowbotham, **Hidden from History**, pp. 100-1 and p. 101] The women's movement
-of the 1960s and 1970s showed the truth of that analysis. In spite of equal
-voting rights, women's social place had remained unchanged since the 1920s.
+the world ends and gain nothing."_ [ **Op. Cit.** , p. 139] If women waited
+for others to act for them their social position would never have changed.
+This includes getting the vote in the first place. Faced with the militant
+suffrage movement for women's votes, British anarchist Rose Witcop recognised
+that it was _"true that this movement shows us that women who so far have been
+so submissive to their masters, the men, are beginning to wake up at last to
+the fact they are not inferior to those masters."_ Yet she argued that women
+would not be freed by votes but _"by their own strength."_ [quoted by Sheila
+Rowbotham, **Hidden from History** , pp. 100-1 and p. 101] The women's
+movement of the 1960s and 1970s showed the truth of that analysis. In spite of
+equal voting rights, women's social place had remained unchanged since the
+1920s.
 
 Ultimately, as Anarchist Lily Gair Wilkinson stressed, the _"call for 'votes'
 can never be a call to freedom. For what is it to vote? To vote is to register
 assent to being ruled by one legislator or another?"_ [quoted by Sheila
-Rowbotham, **Op. Cit.**, p. 102] It does not get to the heart of the problem,
+Rowbotham, **Op. Cit.** , p. 102] It does not get to the heart of the problem,
 namely hierarchy and the authoritarian social relationships it creates of
 which patriarchy is only a subset of. Only by getting rid of all bosses,
 political, economic, social and sexual can **genuine** freedom for women be
@@ -1508,7 +1502,7 @@ achieved and _"make it possible for women to be human in the truest sense.
 Everything within her that craves assertion and activity should reach its
 fullest expression; all artificial barriers should be broken, and the road
 towards greater freedom cleared of every trace of centuries of submission and
-slavery."_ [Emma Goldman, **Op. Cit.**, p. 214]
+slavery."_ [Emma Goldman, **Op. Cit.** , p. 214]
 
 ## A.3.6 What is Cultural Anarchism?
 
@@ -1529,20 +1523,20 @@ authoritarian conditioning (e.g. upbringing in the traditional patriarchal
 family). Or, as John Clark expresses it, cultural anarchism implies _"the
 development of arts, media, and other symbolic forms that expose various
 aspects of the system of domination and contrast them with a system of values
-based on freedom and community."_ This _"**cultural** struggle"_ would be part
-of a general struggle _"to combat the material and ideological power of all
-dominating classes, whether economic, political, racial, religious, or sexual,
-with a multi-dimensional practice of liberation."_ In other words, an
+based on freedom and community."_ This _" **cultural** struggle"_ would be
+part of a general struggle _"to combat the material and ideological power of
+all dominating classes, whether economic, political, racial, religious, or
+sexual, with a multi-dimensional practice of liberation."_ In other words, an
 _"expanded conception of class analysis"_ and _"an amplified practice of class
-struggle"_ which includes, but is not limited to, _"**economic** actions like
+struggle"_ which includes, but is not limited to, _" **economic** actions like
 strikes, boycotts, job actions, occupation, organisations of direct action
 groups and federations of libertarian workers' groups and development of
-workers' assemblies, collectives and co-operatives"_ and _"**political**
+workers' assemblies, collectives and co-operatives"_ and _" **political**
 activity"_ like the _"active interference with implementation of repressive
 governmental policies,"_ the _"non-compliance and resistance against
 regimentation and bureaucratisation of society"_ and _"participation in
 movements for increasing direct participation in decision-making and local
-control."_ [**The Anarchist Moment**, p. 31]
+control."_ [ **The Anarchist Moment** , p. 31]
 
 Cultural anarchism is important -- indeed essential -- because authoritarian
 values are embedded in a total system of domination with many aspects besides
@@ -1603,13 +1597,13 @@ property and inequality. In other words, anarchism is not necessarily
 atheistic. Indeed, according to Jacques Ellul, _"biblical thought leads
 directly to anarchism, and that this is the only 'political anti-political'
 position in accord with Christian thinkers."_ [quoted by Peter Marshall,
-**Demanding the Impossible**, p. 75]
+**Demanding the Impossible** , p. 75]
 
 There are many different types of anarchism inspired by religious ideas. As
 Peter Marshall notes, the _"first clear expression of an anarchist sensibility
 may be traced back to the Taoists in ancient China from about the sixth
 century BC"_ and _"Buddhism, particularly in its Zen form, . . . has . . . a
-strong libertarian spirit."_ [**Op. Cit.**, p. 53 and p. 65] Some, like the
+strong libertarian spirit."_ [ **Op. Cit.** , p. 53 and p. 65] Some, like the
 anti-globalisation activist Starhawk, combine their anarchist ideas with Pagan
 and Spiritualist influences. However, religious anarchism usually takes the
 form of Christian Anarchism, which we will concentrate on here.
@@ -1648,10 +1642,10 @@ _"Christianity's mixed message can be grouped into two broad and highly
 conflicting systems of belief. On one side there was a radical, activistic,
 communistic, and libertarian vision of the Christian life"_ and _"on the other
 side there was a conservative, quietistic, materially unwordly, and
-hierarchical vision."_ [**The Ecology of Freedom**, p. 266 and pp. 274-5]
+hierarchical vision."_ [ **The Ecology of Freedom** , p. 266 and pp. 274-5]
 
 Thus clergyman's John Ball's egalitarian comments (as quoted by Peter Marshall
-[**Op. Cit.**, p. 89]) during the Peasant Revolt in 1381 in England:
+[ **Op. Cit.** , p. 89]) during the Peasant Revolt in 1381 in England:
 
 _"When Adam delved and Eve span,  
 Who was then a gentleman?"_
@@ -1670,36 +1664,36 @@ true Christian must oppose the state. From his reading of the Bible, Tolstoy
 drew anarchist conclusions:
 
 > _"ruling means using force, and using force means doing to him whom force is
-used, what he does not like and what he who uses force would certainly not
-like done to himself. Consequently ruling means doing to others what we would
-not they should do unto us, that is, doing wrong."_ [**The Kingdom of God is
-Within You**, p. 242]
+> used, what he does not like and what he who uses force would certainly not
+> like done to himself. Consequently ruling means doing to others what we
+> would not they should do unto us, that is, doing wrong."_ [ **The Kingdom of
+> God is Within You** , p. 242]
 
 Thus a true Christian must refrain from governing others. From this anti-
 statist position he naturally argued in favour of a society self-organised
 from below:
 
 > _"Why think that non-official people could not arrange their life for
-themselves, as well as Government people can arrange it nor for themselves but
-for others?"_ [**The Slavery of Our Times**, p. 46]
+> themselves, as well as Government people can arrange it nor for themselves
+> but for others?"_ [ **The Slavery of Our Times** , p. 46]
 
 This meant that _"people can only be freed from slavery by the abolition of
-Governments."_ [**Op. Cit.**, p. 49] Tolstoy urged non-violent action against
-oppression, seeing a spiritual transformation of individuals as the key to
-creating an anarchist society. As Max Nettlau argues, the _"great truth
+Governments."_ [ **Op. Cit.** , p. 49] Tolstoy urged non-violent action
+against oppression, seeing a spiritual transformation of individuals as the
+key to creating an anarchist society. As Max Nettlau argues, the _"great truth
 stressed by Tolstoy is that the recognition of the power of the good, of
 goodness, of solidarity - and of all that is called love - lies within
-**ourselves**, and that it can and must be awakened, developed and exercised
-**in our own behaviour.**"_ [**A Short History of Anarchism**, pp. 251-2]
+**ourselves** , and that it can and must be awakened, developed and exercised
+**in our own behaviour.** "_ [ **A Short History of Anarchism** , pp. 251-2]
 Unsurprisngly, Tolstoy thought the _"anarchists are right in everything . . .
 They are mistaken only in thinking that anarchy can be instituted by a
-revolution."_ [quoted by Peter Marshall, **Op. Cit.**, p. 375]
+revolution."_ [quoted by Peter Marshall, **Op. Cit.** , p. 375]
 
 Like all anarchists, Tolstoy was critical of private property and capitalism.
 He greatly admired and was heavily influenced by Proudhon, considering the
 latter's _"property is theft"_ as _"an absolute truth"_ which would _"survive
 as long as humanity."_ [quoted by Jack Hayward, **After the French
-Revolution**, p. 213] Like Henry George (whose ideas, like those of Proudhon,
+Revolution** , p. 213] Like Henry George (whose ideas, like those of Proudhon,
 had a strong impact on him) he opposed private property in land, arguing that
 _"were it not for the defence of landed property, and its consequent rise in
 price, people would not be crowded into such narrow spaces, but would scatter
@@ -1709,15 +1703,16 @@ but always those who take part in government violence, who have the
 advantage."_ Thus Tolstoy recognised that property rights in anything beyond
 use require state violence to protect them as possession is _"always protected
 by custom, public opinion, by feelings of justice and reciprocity, and they do
-not need to be protected by violence."_ [**The Slavery of Our Times**, p. 47]
-Indeed, he argues that:
+not need to be protected by violence."_ [ **The Slavery of Our Times** , p.
+47] Indeed, he argues that:
 
 > _"Tens of thousands of acres of forest lands belonging to one proprietor --
-while thousands of people close by have no fuel -- need protection by
-violence. So, too, do factories and works where several generations of workmen
-have been defrauded and are still being defrauded. Yet more do the hundreds of
-thousands of bushels of grain, belonging to one owner, who has held them back
-to sell at triple price in time of famine."_ [**Op. Cit.**, pp. 47-8]
+> while thousands of people close by have no fuel -- need protection by
+> violence. So, too, do factories and works where several generations of
+> workmen have been defrauded and are still being defrauded. Yet more do the
+> hundreds of thousands of bushels of grain, belonging to one owner, who has
+> held them back to sell at triple price in time of famine."_ [ **Op. Cit.** ,
+> pp. 47-8]
 
 As with other anarchists, Tolstoy recognised that under capitalism, economic
 conditions _"compel [the worker] to go into temporary or perpetual slavery to
@@ -1730,19 +1725,19 @@ another's corn on another's field."_ Such a system could only be maintained by
 violence, for _"first, the fruit of their toil is unjustly and violently taken
 form the workers, and then the law steps in, and these very articles which
 have been taken from the workmen -- unjustly and by violence -- are declared
-to be the absolute property of those who have stolen them."_ [**Op. Cit.**, p.
-34, p. 31 and p. 38]
+to be the absolute property of those who have stolen them."_ [ **Op. Cit.** ,
+p. 34, p. 31 and p. 38]
 
 Tolstoy argued that capitalism morally and physically ruined individuals and
 that capitalists were _"slave-drivers."_ He considered it impossible for a
 true Christian to be a capitalist, for a _"manufacturer is a man whose income
 consists of value squeezed out of the workers, and whose whole occupation is
 based on forced, unnatural labour"_ and therefore, _"he must first give up
-ruining human lives for his own profit."_ [**The Kingdom Of God is Within
-You**, p. 338 and p. 339] Unsurprisingly, Tolstoy argued that co-operatives
+ruining human lives for his own profit."_ [ **The Kingdom Of God is Within
+You** , p. 338 and p. 339] Unsurprisingly, Tolstoy argued that co-operatives
 were the _"only social activity which a moral, self-respecting person who
 doesn't want to be a party of violence can take part in."_ [quoted by Peter
-Marshall, **Op. Cit.**, p. 378]
+Marshall, **Op. Cit.** , p. 378]
 
 So, for Tolstoy, _"taxes, or land-owning or property in articles of use or in
 the means of production"_ produces _"the slavery of our times."_ However, he
@@ -1754,11 +1749,11 @@ used by people who have power, in order to compel others to obey the laws they
 (the powerful) have made -- in other words, to do their will."_ Handing over
 economic life to the state would simply mean _"there will be people to whom
 power will be given to regulate all these matters. Some people will decide
-these questions, and others will obey them."_ [Tolstoy, **Op. Cit.**, p. 40,
+these questions, and others will obey them."_ [Tolstoy, **Op. Cit.** , p. 40,
 p. 41, p. 43 and p. 25] He correctly prophetised that _"the only thing that
 will happen"_ with the victory of Marxism would be _"that despotism will be
 passed on. Now the capitalists are ruling, but then the directors of the
-working class will rule."_ [quoted by Marshall, **Op. Cit.**, p. 379]
+working class will rule."_ [quoted by Marshall, **Op. Cit.** , p. 379]
 
 From his opposition to violence, Tolstoy rejects both state and private
 property and urged pacifist tactics to end violence within society and create
@@ -1766,14 +1761,14 @@ a just society. For Tolstoy, government could only be destroyed by a mass
 refusal to obey, by non-participation in govermmental violence and by exposing
 fraud of statism to the world. He rejected the idea that force should be used
 to resist or end the force of the state. In Nettlau's words, he _"asserted . .
-. **resistance to evil**; and to one of the ways of resistance - by active
+. **resistance to evil** ; and to one of the ways of resistance - by active
 force - he added another way: **resistance through disobedience, the passive
-force.**"_ [**Op. Cit.**, p. 251] In his ideas of a free society, Tolstoy was
-clearly influenced by rural Russian life and aimed for a society based on
+force.** "_ [ **Op. Cit.** , p. 251] In his ideas of a free society, Tolstoy
+was clearly influenced by rural Russian life and aimed for a society based on
 peasant farming of communal land, artisans and small-scale co-operatives. He
 rejected industrialisation as the product of state violence, arguing that
 _"such division of labour as now exists will . . . be impossible in a free
-society."_ [Tolstoy, **Op. Cit.**, p. 26]
+society."_ [Tolstoy, **Op. Cit.** , p. 26]
 
 Tolstoy's ideas had a strong influence on Gandhi, who inspired his fellow
 country people to use non-violent resistance to kick Britain out of India.
@@ -1798,7 +1793,7 @@ worship or revere any being, natural or supernatural, will always be a form of
 self-subjugation and servitude that will give rise to social domination. As
 [Bookchin] writes: 'The moment that human beings fall on their knees before
 anything that is 'higher' than themselves, hierarchy will have made its first
-triumph over freedom.'"_ [Brian Morris, **Ecology and Anarchism**, p. 137]
+triumph over freedom.'"_ [Brian Morris, **Ecology and Anarchism** , p. 137]
 This means that most anarchists agree with Bakunin that if God existed it
 would be necessary, for human freedom and dignity, to abolish it. Given what
 the Bible says, few anarchists think it can be used to justify libertarian
@@ -1816,7 +1811,7 @@ while claiming to believe in God, his authority and his laws?
 For example, no capitalist nation would implement the no working on the
 Sabbath law which the Bible expounds. Most Christian bosses have been happy to
 force their fellow believers to work on the seventh day in spite of the
-Biblical penalty of being stoned to death (_"Six days shall work be done, but
+Biblical penalty of being stoned to death ( _"Six days shall work be done, but
 on the seventh day there shall be to you an holy day, a sabbath of rest to the
 Lord: whosoever doeth work therein shall be put to death."_ Exodus 35:2).
 Would a Christian anarchist advocate such a punishment for breaking God's law?
@@ -1874,8 +1869,8 @@ adjectives"_ in its broadest sense _"referred to an unhyphenated form of
 anarchism, that is, a doctrine without any qualifying labels such as
 communist, collectivist, mutualist, or individualist. For others, . . . [it]
 was simply understood as an attitude that tolerated the coexistence of
-different anarchist schools."_ [**Anarchist Ideology and the Working Class
-Movement in Spain, 1868-1898**, p. 135]
+different anarchist schools."_ [ **Anarchist Ideology and the Working Class
+Movement in Spain, 1868-1898** , p. 135]
 
 The originator of the expression was Cuban born Fernando Tarrida del Marmol
 who used it in November, 1889, in Barcelona. He directed his comments towards
@@ -1893,7 +1888,7 @@ debate within the movement itself. The roots of the argument can be found in
 the development of Communist Anarchism after Bakunin's death in 1876. While
 not entirely dissimilar to Collectivist Anarchism (as can be seen from James
 Guillaume's famous work _"On Building the New Social Order"_ within **Bakunin
-on Anarchism**, the collectivists did see their economic system evolving into
+on Anarchism** , the collectivists did see their economic system evolving into
 free communism), Communist Anarchists developed, deepened and enriched
 Bakunin's work just as Bakunin had developed, deepened and enriched
 Proudhon's. Communist Anarchism was associated with such anarchists as Elisee
@@ -1915,10 +1910,10 @@ This conflict soon spread outside of Spain and the discussion found its way
 into the pages of **La Revolte** in Paris. This provoked many anarchists to
 agree with Malatesta's argument that _"[i]t is not right for us, to say the
 least, to fall into strife over mere hypotheses."_ [quoted by Max Nettlau, **A
-Short History of Anarchism**, pp. 198-9] Over time, most anarchists agreed (to
-use Nettlau's words) that _"we cannot foresee the economic development of the
-future"_ [**Op. Cit.**, p. 201] and so started to stress what they had in
-common (opposition to capitalism and the state) rather than the different
+Short History of Anarchism** , pp. 198-9] Over time, most anarchists agreed
+(to use Nettlau's words) that _"we cannot foresee the economic development of
+the future"_ [ **Op. Cit.** , p. 201] and so started to stress what they had
+in common (opposition to capitalism and the state) rather than the different
 visions of how a free society would operate. As time progressed, most
 Communist-Anarchists saw that ignoring the labour movement ensured that their
 ideas did not reach the working class while most Collectivist-Anarchists
@@ -1931,7 +1926,7 @@ to envision all its adjustments and possible combinations."_ Moreover, in a
 free society _"the methods and the individual forms of association and
 agreements, or the organisation of labour and of social life, will not be
 uniform and we cannot, at this moment, make and forecasts or determinations
-concerning them."_ [Malatesta, quoted by Nettlau, **Op. Cit.**, p. 173]
+concerning them."_ [Malatesta, quoted by Nettlau, **Op. Cit.** , p. 173]
 
 Thus, Malatesta continued, _"[e]ven the question as between anarchist-
 collectivism and anarchist-communism is a matter of qualification, of method
@@ -1943,7 +1938,7 @@ turn out to be, the basis of social organisation will be communist."_ As long
 as we _"hold to fundamental principles and . . . do our utmost to instil them
 in the masses"_ we need not _"quarrel over mere words or trifles but give
 post-revolutionary society a direction towards justice, equality and
-liberty."_ [quoted by Nettlau, **Op. Cit.**, p. 173 and p. 174]
+liberty."_ [quoted by Nettlau, **Op. Cit.** , p. 173 and p. 174]
 
 Similarly, in the United States there was also an intense debate at the same
 time between Individualist and Communist anarchists. There Benjamin Tucker was
@@ -1954,23 +1949,23 @@ anarchists like Voltairine de Cleyre _"came to label herself simply
 'Anarchist,' and called like Malatesta for an 'Anarchism without Adjectives,'
 since in the absence of government many different experiments would probably
 be tried in various localities in order to determine the most appropriate
-form."_ [Peter Marshall, **Demanding the Impossible**, p. 393] In her own
+form."_ [Peter Marshall, **Demanding the Impossible** , p. 393] In her own
 words, a whole range of economic systems would be _"advantageously tried in
 different localities. I would see the instincts and habits of the people
 express themselves in a free choice in every community; and I am sure that
-distinct environments would call out distinct adaptations."_ [_"Anarchism"_,
-**Exquisite Rebel**, p. 79] Consequently, individualist and communist
+distinct environments would call out distinct adaptations."_ [ _"Anarchism"_ ,
+**Exquisite Rebel** , p. 79] Consequently, individualist and communist
 anarchist _"forms of society, as well as many intermediations, would, in the
 absence of government, be tried in various localities, according to the
 instincts and material condition of the people . . . Liberty and experiment
 alone can determine the best forms of society. Therefore I no longer label
-myself otherwise than 'Anarchist' simply."_ [_"The Making of An Anarchist"_,
-**The Voltairine de Cleyre Reader**, pp. 107-8]
+myself otherwise than 'Anarchist' simply."_ [ _"The Making of An Anarchist"_ ,
+**The Voltairine de Cleyre Reader** , pp. 107-8]
 
 These debates had a lasting impact on the anarchist movement, with such noted
 anarchists as de Cleyre, Malatesta, Nettlau and Reclus adopting the tolerant
 perspective embodied in the expression "anarchism without adjectives" (see
-Nettlau's **A Short History of Anarchism**, pages 195 to 201 for an excellent
+Nettlau's **A Short History of Anarchism** , pages 195 to 201 for an excellent
 summary of this). It is also, we add, the dominant position within the
 anarchist movement today with most anarchists recognising the right of other
 tendencies to the name "anarchist" while, obviously, having their own
@@ -1992,7 +1987,7 @@ other future forms of social organisation"_ than communist anarchism, but they
 _"desire, just as we do, to destroy political power and private property."_
 _"Let us do away,"_ he argued, _"with all exclusivism of schools of thinking"_
 and let us _"come to an understanding on ways and means, and go forwards."_
-[quoted by Nettlau, **Op. Cit.**, p. 175] In other words, it was agreed that
+[quoted by Nettlau, **Op. Cit.** , p. 175] In other words, it was agreed that
 capitalism had to be abolished along with the state and once this was the case
 free experimentation would develop. Thus the struggle against the state was
 just one part of a wider struggle to end oppression and exploitation and could
@@ -2025,7 +2020,7 @@ disappearance of their commercial rationales. But many technologies . . .,
 however they may presently be misused, have few if any **inherent** drawbacks.
 It's simply a matter of using them more sensibly, bringing them under popular
 control, introducing a few ecological improvements, and redesigning them for
-human rather than capitalistic ends."_ [**Public Secrets**, p. 79 and p. 80]
+human rather than capitalistic ends."_ [ **Public Secrets** , p. 79 and p. 80]
 Thus most eco-anarchists see the use of appropriate technology as the means of
 creating a society which lives in balance with nature.
 
@@ -2035,8 +2030,8 @@ expounded a vision of anarchism which, they claim, aims to critique every form
 of power and oppression. This is often called _"anarcho-primitivism,"_ which
 according to Moore, is simply _"a shorthand term for a radical current that
 critiques the totality of civilisation from an anarchist perspective, and
-seeks to initiate a comprehensive transformation of human life."_
-[**Primitivist Primer**]
+seeks to initiate a comprehensive transformation of human life."_ [
+**Primitivist Primer** ]
 
 How this current expresses itself is diverse, with the most extreme elements
 seeking the end of all forms of technology, division of labour, domestication,
@@ -2073,7 +2068,7 @@ coexist with other beings, human or not, without imposing their authority upon
 them."_ Such communities would share essential features with tribal societies,
 _"[f]or over 99% of human history, humans lived within small and egalitarian
 extended family arrangements, while drawing their subsistence directly from
-the land."_ [**Against Mass Society**]
+the land."_ [ **Against Mass Society** ]
 
 While such tribal communities, which lived in harmony with nature and had
 little or no hierarchies, are seen as inspirational, primitivists look (to use
@@ -2082,7 +2077,7 @@ As John Moore puts it, _"the future envisioned by anarcho-primitivism . . . is
 without precedent. Although primitive cultures provide intimations of the
 future, and that future may well incorporate elements derived from those
 cultures, an anarcho-primitivist world would likely be quite different from
-previous forms of anarchy."_ [**Op. Cit.**]
+previous forms of anarchy."_ [ **Op. Cit.** ]
 
 For the primitivist, other forms of anarchism are simply self-managed
 alienation within essentially the same basic system we now endure. Hence
@@ -2093,7 +2088,7 @@ in their future scenarios, precisely because the aspects of civilisation they
 question are minimal . . . overall life patterns wouldn't change too much."_
 Thus _"[f]rom the perspective of anarcho-primitivism, all other forms of
 radicalism appear as reformist, whether or not they regard themselves as
-revolutionary."_ [**Op. Cit.**]
+revolutionary."_ [ **Op. Cit.** ]
 
 In reply, "classical anarchists" point out three things. Firstly, to claim
 that the _"worst abuses and oppressions"_ account for 1% of capitalist society
@@ -2123,7 +2118,7 @@ virtually no relevance to present possibilities. Even supposing that life was
 better in one or another previous era, **we have to begin from where we are
 now.** Modern technology is so interwoven with all aspects of our life that it
 could not be abruptly discontinued without causing a global chaos that would
-wipe out billions of people."_ [**Op. Cit.**, p. 79]
+wipe out billions of people."_ [ **Op. Cit.** , p. 79]
 
 The reason for this is simply that we live in a highly industrialised and
 interconnected system in which most people do not have the skills required to
@@ -2133,14 +2128,14 @@ gatherers even if they had the necessary skills. As Brian Morris notes,
 _"[t]he future we are told is 'primitive.' How this is to be achieved in a
 world that presently sustains almost six billion people (for evidence suggests
 that the hunter-gatherer lifestyle is only able to support 1 or 2 people per
-sq. mile)"_ primitivists like Zerzan do not tell us. [_"Anthropology and
-Anarchism,"_ pp. 35-41, **Anarchy: A Journal of Desire Armed**, no. 45, p. 38]
-Most anarchists, therefore, agree with Chomsky's summation that _"I do not
+sq. mile)"_ primitivists like Zerzan do not tell us. [ _"Anthropology and
+Anarchism,"_ pp. 35-41, **Anarchy: A Journal of Desire Armed** , no. 45, p.
+38] Most anarchists, therefore, agree with Chomsky's summation that _"I do not
 think that they are realising that what they are calling for is the mass
 genocide of millions of people because of the way society is now structured
 and organised . . . If you eliminate these structures everybody dies . . .
-And, unless one thinks through these things, it's not really serious."_
-[**Chomsky on Anarchism**, p. 226]
+And, unless one thinks through these things, it's not really serious."_ [
+**Chomsky on Anarchism** , p. 226]
 
 Somewhat ironically, many proponents of primitivsm agree with its critics that
 the earth would be unable to support six billion living as a hunter-gatherers.
@@ -2154,12 +2149,12 @@ required for their new existence.
 
 The problems with the first option should be obvious but, sadly, it is implied
 by many primitivist writers. Moore, for example, talks about _"when
-civilisation collapses"_ (_"through its own volition, through our efforts, or
-a combination of the two"_). This implies an extremely speedy process which is
-confirmed when he talks about the need for _"positive alternatives"_ to be
+civilisation collapses"_ ( _"through its own volition, through our efforts, or
+a combination of the two"_ ). This implies an extremely speedy process which
+is confirmed when he talks about the need for _"positive alternatives"_ to be
 built now as _"the social disruption caused by collapse could easily create
 the psychological insecurity and social vacuum in which fascism and other
-totalitarian dictatorships could flourish."_ [**Op. Cit.**] Social change
+totalitarian dictatorships could flourish."_ [ **Op. Cit.** ] Social change
 based on _"collapse,"_ _"insecurity"_ and _"social disruption"_ does not sound
 like a recipe for a successful revolution.
 
@@ -2167,8 +2162,8 @@ Then there are the anti-organisation dogmas expounded by primitivism. Moore is
 typical, asserting that _"[o]rganisations, for anarcho-primitivists, are just
 rackets, gangs for putting a particular ideology in power"_ and reiterates the
 point by saying primitivists stand for _"the abolition of all power relations,
-including the State . . . and any kind of party or organisation."_ [**Op.
-Cit.**] Yet without organisation, no modern society could function. There
+including the State . . . and any kind of party or organisation."_ [ **Op.
+Cit.** ] Yet without organisation, no modern society could function. There
 would be a total and instant collapse which would see not only mass starvation
 but also ecological destruction as nuclear power stations meltdown, industrial
 waste seeps into the surrounding environment, cities and towns decay and
@@ -2184,21 +2179,22 @@ commentators hostile to anarcho-primitivism who suggest that the population
 levels envisaged by anarcho-primitivists would have to be achieved by mass
 die-offs or nazi-style death camps."_ The _"commitment of anarcho-primitivists
 to the abolition of all power relations . . . means that such orchestrated
-slaughter remains an impossibility as well as just plain horrendous."_ [**Op.
-Cit.**] Yet no critic is suggesting that primitivists desire such a die-off or
-seek to organise it. They simply point out that the collapse of civilisation
-would result in a mass die-off due to the fact that most people do not have
-the skills necessary to survive it nor could the Earth provide enough food for
-six billion people trying to live in a primitivist manner. Other primitivists
-have asserted that it can, stating _"[i]t is not possible for all six billion
-of the planet's current inhabitants to survive as hunter-gatherers, but it is
-possible for those who can't to grow their own food in significantly smaller
-spaces . . . as has been demonstrated by permaculture, organic gardening, and
-indigenous horticulture techniques."_ [**Against Mass Society**] Unfortunately
-no evidence was provided to show the truth of this assertion nor that people
-could develop the necessary skills in time even if it were. It seems a slim
-hope to place the fate of billions on, so that humanity can be "wild" and free
-from such tyrannies as hospitals, books and electricity.
+slaughter remains an impossibility as well as just plain horrendous."_ [ **Op.
+Cit.** ] Yet no critic is suggesting that primitivists desire such a die-off
+or seek to organise it. They simply point out that the collapse of
+civilisation would result in a mass die-off due to the fact that most people
+do not have the skills necessary to survive it nor could the Earth provide
+enough food for six billion people trying to live in a primitivist manner.
+Other primitivists have asserted that it can, stating _"[i]t is not possible
+for all six billion of the planet's current inhabitants to survive as hunter-
+gatherers, but it is possible for those who can't to grow their own food in
+significantly smaller spaces . . . as has been demonstrated by permaculture,
+organic gardening, and indigenous horticulture techniques."_ [ **Against Mass
+Society** ] Unfortunately no evidence was provided to show the truth of this
+assertion nor that people could develop the necessary skills in time even if
+it were. It seems a slim hope to place the fate of billions on, so that
+humanity can be "wild" and free from such tyrannies as hospitals, books and
+electricity.
 
 Faced with the horrors that such a _"collapse"_ would entail, those
 primitivists who have thought the issue through end up accepting the need for
@@ -2207,7 +2203,7 @@ that industrialisation and the factories could not be gotten rid of instantly,
 but equally clear that their liquidation must be pursued with all the vigour
 behind the rush of break-out."_ Even the existence of cities is accepted, for
 _"[c]ultivation within the cities is another aspect of practical transition."_
-[**On the Transition: Postscript to Future Primitive**]
+[ **On the Transition: Postscript to Future Primitive** ]
 
 However, to accept the necessity of a transition period does little more than
 expose the contradictions within primitivism. Zerzan notes that _"the means of
@@ -2220,7 +2216,7 @@ compatible with maintaining _"industrialisation and the factories"_ for a
 (non-specified) period is unclear. Similarly, he argues that _"[i]nstead of
 the coercion of work -- and how much of the present could continue without
 precisely that coercion? -- an existence without constraints is an immediate,
-central objective."_ [**Op. Cit.**] How that is compatible with the arguing
+central objective."_ [ **Op. Cit.** ] How that is compatible with the arguing
 that industry would be maintained for a time is left unasked, never mind
 unanswered. And if "work" continues, how is this compatible with the typical
 primitivist dismissal of "traditional" anarchism, namely that self-management
@@ -2259,7 +2255,7 @@ need for a transition from 'here' to 'there' then primitivism automatically
 excludes itself from the anarchist tradition. The reason is simple. Moore
 asserts that _"mass society"_ involves _"people working, living in artificial,
 technologised environments, and [being] subject to forms of coercion and
-control."_ [**Op. Cit.**] So if what primitivists argue about technology,
+control."_ [ **Op. Cit.** ] So if what primitivists argue about technology,
 industry and mass society are all true, then any primitivist transition would,
 by definition, not be libertarian. This is because _"mass society"_ will have
 to remain for some time (at the very least decades, more likely centuries)
@@ -2296,27 +2292,27 @@ of a primeval paradise, accompanied by a failure to engage the present system
 in any but an abstract, apocalyptical way."_ To avoid this, it is necessary to
 take into account where we are now and, consequently, we will have to
 _"seriously consider how we will deal with all the practical problems that
-will be posed in the interim."_ [**Op. Cit.**, p. 80 and p. 79] Sadly,
+will be posed in the interim."_ [ **Op. Cit.** , p. 80 and p. 79] Sadly,
 primitivist ideology excludes this possibility by dismissing the starting
 point any real revolution would begin from as being inherently authoritarian.
 Moreover, they are blocking genuine social change by ensuring that no mass
 movement would ever be revolutionary enough to satisfy their criteria:
 
-> _ "Those who proudly proclaim their 'total opposition' to all compromise,
-all authority, all organisation, all theory, all technology, etc., usually
-turn out to have no **revolutionary** perspective whatsoever -- no practical
-conception of how the present system might be overthrown or how a post-
-revolutionary society might work. Some even attempt to justify this lack by
-declaring that a mere revolution could never be radical enough to satisfy
-their eternal ontological rebelliousness. Such all-or-nothing bombast may
-temporarily impress a few spectators, but its ultimate effect is simply to
-make people blasé."_ [Knabb, **Op. Cit.**, pp. 31-32]
+> _"Those who proudly proclaim their 'total opposition' to all compromise, all
+> authority, all organisation, all theory, all technology, etc., usually turn
+> out to have no **revolutionary** perspective whatsoever -- no practical
+> conception of how the present system might be overthrown or how a post-
+> revolutionary society might work. Some even attempt to justify this lack by
+> declaring that a mere revolution could never be radical enough to satisfy
+> their eternal ontological rebelliousness. Such all-or-nothing bombast may
+> temporarily impress a few spectators, but its ultimate effect is simply to
+> make people blasé."_ [Knabb, **Op. Cit.** , pp. 31-32]
 
 Then there is the question of the means suggested for achieving primitivism.
 Moore argues that the _"kind of world envisaged by anarcho-primitivism is one
 unprecedented in human experience in terms of the degree and types of freedom
 anticipated ... so there can't be any limits on the forms of resistance and
-insurgency that might develop."_ [**Op. Cit.**] Non-primitivists reply by
+insurgency that might develop."_ [ **Op. Cit.** ] Non-primitivists reply by
 saying that this implies primitivists don't know what they want nor how to get
 there. Equally, they stress that there **must be** limits on what are
 considered acceptable forms of resistance. This is because means shape the
@@ -2332,12 +2328,12 @@ anarchist as very few people would actually voluntarily embrace such a
 situation. This led to **"Green Anarchist"** developing a form of eco-
 vanguardism in order, to use Rousseau's expression, to "force people to be
 free." This was expressed when the magazine supported the actions and ideas of
-the (non-anarchist) Unabomber and published an article (_"The
-Irrationalists"_) by one its editors stating that _"the Oklahoma bombers had
+the (non-anarchist) Unabomber and published an article ( _"The
+Irrationalists"_ ) by one its editors stating that _"the Oklahoma bombers had
 the right idea. The pity was that they did not blast any more government
 offices . . . The Tokyo sarin cult had the right idea. The pity was that in
-testing the gas a year prior to the attack they gave themselves away."_
-[**Green Anarchist**, no. 51, p. 11] A defence of these remarks was published
+testing the gas a year prior to the attack they gave themselves away."_ [
+**Green Anarchist** , no. 51, p. 11] A defence of these remarks was published
 in the next issue and a subsequent exchange of letters in the US-based
 **Anarchy: A Journal of Desire Armed** magazine (numbers 48 to 52) saw the
 other editor justify this sick, authoritarian nonsense as simply examples of
@@ -2353,7 +2349,7 @@ _"affirmation of aboriginal lifeways"_ and of taking a far more critical
 approach to issues such as technology, rationality and progress than that
 associated with Social Ecology. These eco-anarchists reject _"a dogmatic
 primitivism which claims we can return in some linear way to our primordial
-roots"_ just as much as the idea of "progress," _"**superseding** both
+roots"_ just as much as the idea of "progress," _" **superseding** both
 Enlightenment and Counter-Enlightenment"_ ideas and traditions. For them,
 Primitivism _"reflects not only a glimpse at life before the rise of the
 state, but also a legitimate response to real conditions of life under
@@ -2368,7 +2364,7 @@ understanding that we are our history would affirm an inspirited reason that
 honours not only atheistic Spanish revolutionaries who died for **el ideal,**
 but also religious pacifist prisoners of conscience, Lakota ghost dancers,
 taoist hermits and executed sufi mystics."_ [David Watson, **Beyond Bookchin:
-Preface for a future social ecology**, p. 240, p. 103, p. 240 and pp. 66-67]
+Preface for a future social ecology** , p. 240, p. 103, p. 240 and pp. 66-67]
 
 Such "primitivist" anarchism is associated with a range of magazines, mostly
 US-based, like **Fifth Estate**. For example, on the question of technology,
@@ -2378,16 +2374,16 @@ forced adaptation of organic human societies to an economic-instrumental
 civilisation and its mass technics, which are not only hierarchical and
 external but increasingly 'cellular' and internal. It makes no sense to layer
 the various elements of this process in a mechanistic hierarchy of first cause
-and secondary effects."_ [Watson, **Op. Cit.**, pp. 127-8] For this reason
+and secondary effects."_ [Watson, **Op. Cit.** , pp. 127-8] For this reason
 primitivists are more critical of all aspects of technology, including calls
 by social ecologists for the use of **appropriate** technology essential in
 order to liberate humanity and the planet:
 
-> _ "To speak of technological society is in fact to refer to **the technics
-generated within capitalism,** which in turn generate new forms of capital.
-The notion of a distinct realm of social relations that determine this
-technology is not only ahistorical and undialectical, it reflects a kind of
-simplistic base/superstructure schema."_ [Watson, **Op. Cit.**, p. 124]
+> _"To speak of technological society is in fact to refer to **the technics
+> generated within capitalism,** which in turn generate new forms of capital.
+> The notion of a distinct realm of social relations that determine this
+> technology is not only ahistorical and undialectical, it reflects a kind of
+> simplistic base/superstructure schema."_ [Watson, **Op. Cit.** , p. 124]
 
 Thus it is not a case of who **uses** technology which determines its effects,
 rather the effects of technology are determined to a large degree by the
@@ -2414,19 +2410,20 @@ symbolic culture -- are viewed negatively by Zerzan -- in a monolithic
 sense."_ While there is no reason to worship progress, there is just as little
 need to dismiss all change and development out of hand as oppressive. Nor are
 they convinced by Zerzan's _"selective culling of the anthropological
-literature."_ [**Op. Cit.**, p. 38] Most anarchists would concurr with Murray
-Bookchin:
+literature."_ [ **Op. Cit.** , p. 38] Most anarchists would concurr with
+Murray Bookchin:
 
-> _ "The ecology movement will never gain any real influence or have any
-significant impact on society if it advances a message of despair rather than
-hope, of a regressive and impossible return to primordial human cultures,
-rather than a commitment to human progress and to a unique **human** empathy
-for life as a whole . . . We must recover the utopian impulses, the
-hopefulness, the appreciation of what is good, what is worth rescuing in yumn
-civilisation, as well as what must be rejected, if the ecology movement is to
-play a transformative and creative role in human affairs. For without changing
-society, we will not change the diastrous ecological direction in which
-capitalism is moving."_ [**The Ecology of Freedom**, p. 63]
+> _"The ecology movement will never gain any real influence or have any
+> significant impact on society if it advances a message of despair rather
+> than hope, of a regressive and impossible return to primordial human
+> cultures, rather than a commitment to human progress and to a unique
+> **human** empathy for life as a whole . . . We must recover the utopian
+> impulses, the hopefulness, the appreciation of what is good, what is worth
+> rescuing in yumn civilisation, as well as what must be rejected, if the
+> ecology movement is to play a transformative and creative role in human
+> affairs. For without changing society, we will not change the diastrous
+> ecological direction in which capitalism is moving."_ [ **The Ecology of
+> Freedom** , p. 63]
 
 In addition, a position of "turning back the clock" is deeply flawed, for
 while some aboriginal societies are very anarchistic, not all are. As
@@ -2437,10 +2434,10 @@ ethnographic records is endless variety. There were hunter-gatherer societies
 with nobles and slaves, there are agrarian societies that are fiercely
 egalitarian. Even in . . . Amazonia, one finds some groups who can justly be
 described as anarchists, like the Piaroa, living alongside others (say, the
-warlike Sherentre, who are clearly anything but."_ [**Fragments of an
-Anarchist Anthropology**, pp. 53-4] Even if we speculate, like Zerzan, that if
-we go back far enough we would find all of humanity in anarchistic tribes, the
-fact remains that certain of these societies did develop into statist,
+warlike Sherentre, who are clearly anything but."_ [ **Fragments of an
+Anarchist Anthropology** , pp. 53-4] Even if we speculate, like Zerzan, that
+if we go back far enough we would find all of humanity in anarchistic tribes,
+the fact remains that certain of these societies did develop into statist,
 propertarian ones implying that a future anarchist society that is
 predominantly inspired by and seek to reproduce key elements of prehistoric
 forms of anarchy is not the answer as "civilisation" may develop again due to
@@ -2500,7 +2497,7 @@ well as David Watson's **Beyond Bookchin** and **Against the Mega-Machine**.
 Ken Knabb's essay **The Poverty of Primitivism** is an excellent critique of
 primitivism as is Brian Oliver Sheppard's **Anarchism vs. Primitivism**.
 
-[‹ A.2 What does anarchism stand for?](secA2.md "Go to previous page" )
-[up](secAcon.md "Go to parent page" ) [A.4 Who are the major anarchist
-thinkers? ›](secA4.md "Go to next page" )
+[‹ A.2 What does anarchism stand for?](secA2.md "Go to previous page")
+[up](secAcon.md "Go to parent page") [A.4 Who are the major anarchist
+thinkers? ›](secA4.md "Go to next page")
 

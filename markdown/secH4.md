@@ -16,8 +16,8 @@ For Engels, all forms of group activity meant the subjection of the
 individuals that make it up. As he put it, _"whoever mentions combined action
 speaks of organisation"_ and so it is not possible _"to have organisation
 without authority,"_ as authority means _"the imposition of the will of
-another upon ours . . . authority presupposes subordination."_ [**Marx-Engels
-Reader**, p. 731 and p. 730] Given that, Engels considered the ideas of
+another upon ours . . . authority presupposes subordination."_ [ **Marx-Engels
+Reader** , p. 731 and p. 730] Given that, Engels considered the ideas of
 Bakunin to fly in the face of common sense and so show that he, Bakunin, did
 not know what he was talking about. However, in reality, it was Engels who did
 this.
@@ -40,8 +40,8 @@ authority and all influence of right, officially imposed upon us, immediately
 becomes a falsehood and an oppression."_ He stressed that the _"only great and
 omnipotent authority, at once natural and rational, the only one we respect,
 will be that of the collective and public spirit of a society founded on
-equality and solidarity and the mutual respect of all its members."_ [**The
-Political Philosophy of Bakunin**, p. 253, p. 241 and p. 255]
+equality and solidarity and the mutual respect of all its members."_ [ **The
+Political Philosophy of Bakunin** , p. 253, p. 241 and p. 255]
 
 Bakunin contrasted this position with the Marxist one, whom he argued were
 _"champions of the social order built from the top down, always in the name of
@@ -51,22 +51,22 @@ system based on delegated **power** and so **hierarchical** authority. This
 excludes the masses from governing themselves (as in the state) and this, in
 turn, _"means domination, and any domination presupposes the subjugation of
 the masses and, consequently, their exploitation for the benefit of some
-ruling minority."_ [**Bakunin on Anarchism**, p. 277]
+ruling minority."_ [ **Bakunin on Anarchism** , p. 277]
 
 So while Bakunin and other anarchists, on occasion, **did** argue that
 anarchists reject _"all authority"_ they, as Carole Pateman correctly notes,
 _"tended to treat 'authority' as a synonym for 'authoritarian,' and so have
 identified 'authority' with hierarchical power structures, especially those of
 the state. Nevertheless, their practical proposals and some of their
-theoretical discussions present a different picture."_ [**The Problem of
-Political Obligation**, p. 141] This can be seen when Bakunin noted that _"the
-principle of **authority**"_ was the _"eminently theological, metaphysical and
-political idea that the masses, **always** incapable of governing themselves,
-must submit at all times to the benevolent yoke of a wisdom and a justice,
-which in one way or another, is imposed from above."_ [**Marxism, Freedom and
-the State**, p. 33] Clearly, by the term _"principle of authority"_ Bakunin
-meant **hierarchy** rather than organisation and the need to make agreements
-(what is now called self-management).
+theoretical discussions present a different picture."_ [ **The Problem of
+Political Obligation** , p. 141] This can be seen when Bakunin noted that
+_"the principle of **authority** "_ was the _"eminently theological,
+metaphysical and political idea that the masses, **always** incapable of
+governing themselves, must submit at all times to the benevolent yoke of a
+wisdom and a justice, which in one way or another, is imposed from above."_ [
+**Marxism, Freedom and the State** , p. 33] Clearly, by the term _"principle
+of authority"_ Bakunin meant **hierarchy** rather than organisation and the
+need to make agreements (what is now called self-management).
 
 Bakunin, clearly, did not oppose **all** authority but rather a specific kind
 of authority, namely **hierarchical** authority. This kind of authority placed
@@ -74,18 +74,18 @@ power into the hands of a few. For example, wage labour produced this kind of
 authority, with a _"meeting . . . between master and slave . . . the worker
 sells his person and his liberty for a given time."_ The state is also based
 hierarchical authority, with _"those who govern"_ (i.e. _"those who frame the
-laws of the country as well as those who exercise the executive power"_) being
-in an _"exceptional position diametrically opposed to . . . popular
+laws of the country as well as those who exercise the executive power"_ )
+being in an _"exceptional position diametrically opposed to . . . popular
 aspirations"_ towards liberty. They end up _"viewing society from the high
 position in which they find themselves"_ and so _"[w]hoever says political
 power says domination"_ over _"a more or less considerable section of the
-population."_ [**The Political Philosophy of Bakunin**, p. 187 and p. 218]
+population."_ [ **The Political Philosophy of Bakunin** , p. 187 and p. 218]
 
 Thus hierarchical authority is top-down, centralised and imposed. It is
 **this** kind of authority Bakunin had in mind when he argued that anarchists
 _"are in fact enemies of all authority"_ and it will _"corrupt those who
-exercise [it] as much as those who are compelled to submit to [it]."_ [**Op.
-Cit.**, p. 249] In other words, "authority" was used as shorthand for
+exercise [it] as much as those who are compelled to submit to [it]."_ [ **Op.
+Cit.** , p. 249] In other words, "authority" was used as shorthand for
 "hierarchy" (or "hierarchical authority"), the imposition of decisions rather
 than agreement to abide by the collective decisions you make with others when
 you freely associate with them. In place of this kind of authority, Bakunin
@@ -95,11 +95,11 @@ groups and managing their own affairs, rather he opposed the idea that co-
 operation necessitated hierarchy:
 
 > _"Hence there results, for science as well as for industry, the necessity of
-division and association of labour. I take and I give - such is human life.
-Each is an authoritative leader and in turn is led by others. Accordingly
-there is no fixed and constant authority, but continual exchange of mutual,
-temporary, and, above all, voluntary authority and subordination."_ [**Op.
-Cit.**, pp. 353-4]
+> division and association of labour. I take and I give - such is human life.
+> Each is an authoritative leader and in turn is led by others. Accordingly
+> there is no fixed and constant authority, but continual exchange of mutual,
+> temporary, and, above all, voluntary authority and subordination."_ [ **Op.
+> Cit.** , pp. 353-4]
 
 This kind of free association would be the expression of liberty rather than
 (as in hierarchical structures) its denial. Anarchists reject the idea of
@@ -117,33 +117,34 @@ decision reached by free discussion and debate within a self-governing
 associations. As Bakunin argued:
 
 > _"Discipline, mutual trust as well as unity are all excellent qualities when
-properly understood and practised, but disastrous when abused . . . [one use
-of the word] discipline almost always signifies despotism on the one hand and
-blind automatic submission to authority on the other . . . _
+> properly understood and practised, but disastrous when abused . . . [one use
+> of the word] discipline almost always signifies despotism on the one hand
+> and blind automatic submission to authority on the other . . ._
 
 > _"Hostile as I am to [this,] the authoritarian conception of discipline, I
-nevertheless recognise that a certain kind of discipline, not automatic but
-voluntary and intelligently understood is, and will ever be, necessary
-whenever a greater number of individuals undertake any kind of collective work
-or action. Under these circumstances, discipline is simply the voluntary and
-considered co-ordination of all individual efforts for a common purpose. At
-the moment of revolution, in the midst of the struggle, there is a natural
-division of functions according to the aptitude of each, assessed and judged
-by the collective whole: Some direct and others carry out orders. But no
-function remains fixed and it will not remain permanently and irrevocably
-attached to any one person. Hierarchical order and promotion do not exist, so
-that the executive of yesterday can become the subordinate of tomorrow. No one
-rises above the others, and if he does rise, it is only to fall back again a
-moment later, like the waves of the sea forever returning to the salutary
-level of equality. _
+> nevertheless recognise that a certain kind of discipline, not automatic but
+> voluntary and intelligently understood is, and will ever be, necessary
+> whenever a greater number of individuals undertake any kind of collective
+> work or action. Under these circumstances, discipline is simply the
+> voluntary and considered co-ordination of all individual efforts for a
+> common purpose. At the moment of revolution, in the midst of the struggle,
+> there is a natural division of functions according to the aptitude of each,
+> assessed and judged by the collective whole: Some direct and others carry
+> out orders. But no function remains fixed and it will not remain permanently
+> and irrevocably attached to any one person. Hierarchical order and promotion
+> do not exist, so that the executive of yesterday can become the subordinate
+> of tomorrow. No one rises above the others, and if he does rise, it is only
+> to fall back again a moment later, like the waves of the sea forever
+> returning to the salutary level of equality._
 
 > _"In such a system, power, properly speaking, no longer exists. Power is
-diffused to the collectivity and becomes the true expression of the liberty of
-everyone, the faithful and sincere realisation of the will of all . . . this
-is the only true discipline, the discipline necessary for the organisation of
-freedom. This is not the kind of discipline preached by the State . . . which
-wants the old, routine-like, automatic blind discipline. Passive discipline is
-the foundation of every despotism."_ [**Bakunin on Anarchism**, pp. 414-5]
+> diffused to the collectivity and becomes the true expression of the liberty
+> of everyone, the faithful and sincere realisation of the will of all . . .
+> this is the only true discipline, the discipline necessary for the
+> organisation of freedom. This is not the kind of discipline preached by the
+> State . . . which wants the old, routine-like, automatic blind discipline.
+> Passive discipline is the foundation of every despotism."_ [ **Bakunin on
+> Anarchism** , pp. 414-5]
 
 Clearly Engels misunderstood the anarchist conception of liberty. Rather than
 seeing it as essentially negative, anarchists argue that liberty is expressed
@@ -181,25 +182,26 @@ seeing it restricted by association with others rather than seeing association
 as an expression of liberty. As Malatesta argued:
 
 > _"The basic error . . . is in believing that organisation is not possible
-without authority. _
+> without authority._
 
 > _"Now, it seems to us that organisation, that is to say, association for a
-specific purpose and with the structure and means required to attain it, is a
-necessary aspect of social life. A man in isolation cannot even live the life
-of a beast . . . Having therefore to join with other humans . . . he must
-submit to the will of others (be enslaved) or subject others to his will (be
-in authority) or live with others in fraternal agreement in the interests of
-the greatest good of all (be an associate). Nobody can escape from this
-necessity."_ [**Errico Malatesta: His Life and Ideas**, pp. 84-5]
+> specific purpose and with the structure and means required to attain it, is
+> a necessary aspect of social life. A man in isolation cannot even live the
+> life of a beast . . . Having therefore to join with other humans . . . he
+> must submit to the will of others (be enslaved) or subject others to his
+> will (be in authority) or live with others in fraternal agreement in the
+> interests of the greatest good of all (be an associate). Nobody can escape
+> from this necessity."_ [ **Errico Malatesta: His Life and Ideas** , pp.
+> 84-5]
 
 Therefore, organisation is _"only the practice of co-operation and
 solidarity"_ and is a _"natural and necessary condition of social life."_
-[Malatesta, **Op. Cit.**, p. 83] Clearly, the question is not whether we
+[Malatesta, **Op. Cit.** , p. 83] Clearly, the question is not whether we
 organise, but how do we do so. This means that, for anarchists, Engels
 confused vastly different concepts: _"Co-ordination is dutifully confused with
 command, organisation with hierarchy, agreement with domination - indeed,
-'imperious' domination."_ [Murray Bookchin, **Towards an Ecological Society**,
-pp. 126-7]
+'imperious' domination."_ [Murray Bookchin, **Towards an Ecological Society**
+, pp. 126-7]
 
 Socialism will only exist when the discipline currently enforced by the stick
 in the hand of the boss is replaced by the conscious self-discipline of free
@@ -211,15 +213,16 @@ the basis of socialism (the voluntary self-discipline Bakunin talked about).
 As Kropotkin memorably put it:
 
 > _"Having been brought up in a serf-owner's family, I entered active life,
-like all young men of my time, with a great deal of confidence in the
-necessity of commanding, ordering, scolding, punishing, and the like. But
-when, at an early stage, I had to manage serious enterprises and to deal with
-men, and when each mistake would lead at once to heavy consequences, I began
-to appreciate the difference between acting on the principle of command and
-discipline and acting on the principle of common understanding. The former
-works admirably in a military parade, but it is worth nothing where real life
-is concerned, and the aim can be achieved only through the severe effort of
-many converging wills."_ [**Memoirs of a Revolutionist**, p. 202]
+> like all young men of my time, with a great deal of confidence in the
+> necessity of commanding, ordering, scolding, punishing, and the like. But
+> when, at an early stage, I had to manage serious enterprises and to deal
+> with men, and when each mistake would lead at once to heavy consequences, I
+> began to appreciate the difference between acting on the principle of
+> command and discipline and acting on the principle of common understanding.
+> The former works admirably in a military parade, but it is worth nothing
+> where real life is concerned, and the aim can be achieved only through the
+> severe effort of many converging wills."_ [ **Memoirs of a Revolutionist** ,
+> p. 202]
 
 Clearly, then, Engels did not refute anarchism by his essay. Rather, he
 refuted a straw man of his own creation. The question was **never** one of
@@ -247,7 +250,7 @@ activity means co-operating with others and that this means the individual
 subordinates themselves to others, specifically the group. As such, authority
 cannot be abolished as organisation means that _"the will of a single
 individual will always have to subordinate itself, which means that questions
-are settled in an authoritarian way."_ [**Op. Cit.**, p. 731]
+are settled in an authoritarian way."_ [ **Op. Cit.** , p. 731]
 
 Engels argument proves too much. As every form of joint activity involves
 agreement and _"subordination,"_ then life itself becomes _"authoritarian."_
@@ -255,25 +258,25 @@ The only free person, according to Engels' logic, would be the hermit.
 Anarchists reject such nonsense. As George Barrett argued:
 
 > _"To get the full meaning out of life we must co-operate, and to co-operate
-we must make agreements with our fellow-men. But to suppose that such
-agreements mean a limitation of freedom is surely an absurdity; on the
-contrary, they are the exercise of our freedom. _
+> we must make agreements with our fellow-men. But to suppose that such
+> agreements mean a limitation of freedom is surely an absurdity; on the
+> contrary, they are the exercise of our freedom._
 
 > _"If we are going to invent a dogma that to make agreements is to damage
-freedom, then at once freedom becomes tyrannical, for it forbids men [and
-women] to take the most ordinary everyday pleasures. For example, I cannot go
-for a walk with my friend because it is against the principle of Liberty that
-I should agree to be at a certain place at a certain time to meet him. I
-cannot in the least extend my own power beyond myself, because to do so I must
-co-operate with someone else, and co-operation implies an agreement, and that
-is against Liberty. It will be seen at once that this argument is absurd. I do
-not limit my liberty, but simply exercise it, when I agree with my friend to
-go for a walk. _
+> freedom, then at once freedom becomes tyrannical, for it forbids men [and
+> women] to take the most ordinary everyday pleasures. For example, I cannot
+> go for a walk with my friend because it is against the principle of Liberty
+> that I should agree to be at a certain place at a certain time to meet him.
+> I cannot in the least extend my own power beyond myself, because to do so I
+> must co-operate with someone else, and co-operation implies an agreement,
+> and that is against Liberty. It will be seen at once that this argument is
+> absurd. I do not limit my liberty, but simply exercise it, when I agree with
+> my friend to go for a walk._
 
 > _"If, on the other hand, I decide from my superior knowledge that it is good
-for my friend to take exercise, and therefore I attempt to compel him to go
-for a walk, then I begin to limit freedom. This is the difference between free
-agreement and government."_ [**Objections to Anarchism**, pp. 348-9]
+> for my friend to take exercise, and therefore I attempt to compel him to go
+> for a walk, then I begin to limit freedom. This is the difference between
+> free agreement and government."_ [ **Objections to Anarchism** , pp. 348-9]
 
 If we took Engels' argument seriously then we would have to conclude that
 living makes freedom impossible! After all by doing any joint activity you
@@ -289,7 +292,7 @@ that freedom is maintained by the kind of relationships we form with others,
 awareness of his liberty. Being free for man means being acknowledged,
 considered and treated as such by another man. Liberty is therefore a feature
 not of isolation but of interaction, not of exclusion but rather of
-connection"_. [**Michael Bakunin: Selected Writings**, p. 147] Liberty is
+connection"_. [ **Michael Bakunin: Selected Writings** , p. 147] Liberty is
 denied when we form hierarchical relationships with others not necessarily
 when we associate with others. To combine with other individuals is an
 expression of individual liberty, **not** its denial! We are aware that
@@ -299,7 +302,8 @@ freedom to such a degree that it would be so self-defeating as to make a
 mockery of the concept of autonomy and no sane person would seek it. To
 requote Malatesta, the freedom we want _"is not an absolute metaphysical,
 abstract freedom"_ but _"a real freedom, possible freedom, which is the
-conscious community of interests, voluntary solidarity."_ [**Anarchy**, p. 43]
+conscious community of interests, voluntary solidarity."_ [ **Anarchy** , p.
+43]
 
 To state the obvious, anarchists are well aware that _"anyone who associates
 and co-operates with others for a common purpose must feel the need to co-
@@ -308,24 +312,24 @@ nothing that harms the work of others and, thus, the common cause; and respect
 the agreements that have been made - except when wishing sincerely to leave
 the association when emerging differences of opinion or changed circumstances
 or conflict over preferred methods make co-operation impossible or
-inappropriate."_ [Malatesta, **The Anarchist Revolution**, pp. 107-8] For
+inappropriate."_ [Malatesta, **The Anarchist Revolution** , pp. 107-8] For
 anarchists, collective organisation and co-operation does not mean the end of
 individuality. Bakunin expressed it well:
 
 > _"You will think, you will exist, you will act collectively, which
-nevertheless will not prevent in the least the full development of the
-intellectual and moral faculties of each individual. Each of you will bring to
-you his own talents, and in all joining together you will multiply your value
-a hundred fold. Such is the law of collective action . . . in giving your
-hands to each other for this action in common, you will promise to each other
-a mutual fraternity which will be . . . a sort of free contract . . . Then
-proceed collectively to action you will necessarily commence by practising
-this fraternity between yourselves . . . by means of regional and local
-organisations . . . you will find in yourselves strength that you had never
-imagined, if each of you acted individually, according to his own inclination
-and not as a consequence of a unanimous resolution, discussed and accepted
-beforehand."_ [quoted by K.J. Kenafick, **Michael Bakunin and Karl Marx**, pp.
-244-5]
+> nevertheless will not prevent in the least the full development of the
+> intellectual and moral faculties of each individual. Each of you will bring
+> to you his own talents, and in all joining together you will multiply your
+> value a hundred fold. Such is the law of collective action . . . in giving
+> your hands to each other for this action in common, you will promise to each
+> other a mutual fraternity which will be . . . a sort of free contract . . .
+> Then proceed collectively to action you will necessarily commence by
+> practising this fraternity between yourselves . . . by means of regional and
+> local organisations . . . you will find in yourselves strength that you had
+> never imagined, if each of you acted individually, according to his own
+> inclination and not as a consequence of a unanimous resolution, discussed
+> and accepted beforehand."_ [quoted by K.J. Kenafick, **Michael Bakunin and
+> Karl Marx** , pp. 244-5]
 
 So, unlike the essentially (classical) liberal position of Engels, anarchists
 recognise that freedom is a product of how we associate. This need not imply
@@ -336,14 +340,14 @@ Freedom of association implies the freedom **not** to associate and so those
 who ignore the decisions reached collectively and disrupt the organisation's
 workings would simply be _"compelled to leave"_ the association. In this way,
 a free association _"could protect itself without the authoritarian
-organisation we have nowadays."_ [Kropotkin, **The Conquest of Bread**, p.
+organisation we have nowadays."_ [Kropotkin, **The Conquest of Bread** , p.
 152]
 
 Clearly, Engels "critique" hides more than it explains. Yes, co-operation and
 coercion both involve people working jointly together, but they are **not** to
 be equated. While Bakunin recognised this fundamental difference and tried,
 perhaps incompletely, to differentiate them (by arguing against _"the
-principle of authority"_) and to base his politics on the difference, Engels
+principle of authority"_ ) and to base his politics on the difference, Engels
 obscures the differences and muddies the water by confusing the two radically
 different concepts within the word "authority." Any organisation or group is
 based on co-operation and co-ordination (Engels' "principle of authority").
@@ -372,7 +376,7 @@ imposition of the will of another upon ours"_ and so _"the will of the single
 individual will have to subordinate itself, which means that questions are
 settled in an authoritarian manner."_ This, for Engels, means that
 _"authority"_ has not _"disappeared"_ under anarchism but rather it has only
-_"changed its form."_ [**Op. Cit.**, pp. 730-1]
+_"changed its form."_ [ **Op. Cit.** , pp. 730-1]
 
 However, to say that authority just changes its form misses the qualitative
 differences between authoritarian and libertarian organisation. Precisely the
@@ -394,7 +398,7 @@ husband. Her role is simply that of obedience (in theory, at least). As Carole
 Pateman argues, _"[u]ntil late into the nineteenth century the legal and civil
 position of a wife resembled that of a slave"_ and, in theory, she _"became
 the property of her husband and stood to him as a slave/servant to a master."_
-[**The Sexual Contract**, p. 119 and pp. 130-1] As such, an obvious social
+[ **The Sexual Contract** , p. 119 and pp. 130-1] As such, an obvious social
 relationship exists - an authoritarian one in which the man has power over the
 woman. We have a relationship based on domination and subordination.
 
@@ -423,16 +427,16 @@ For example, Rosa Luxemburg repeated (probably unknowingly) Bakunin's
 distinction between forms of discipline and organisation when she argued that:
 
 > _"We misuse words and we practice self-deception when we apply the same term
-- discipline - to such dissimilar notions as: (1) the absence of thought and
-will in a body with a thousand automatically moving hands and legs, and (2)
-the spontaneous co-ordination of the conscious, political acts of a body of
-men. What is there in common between the regulated docility of an oppressed
-class and the self-discipline and organisation of a class struggling for its
-emancipation? . . . The working class will acquire the sense of the new
-discipline, the freely assumed self-discipline of the social democracy, not as
-a result of the discipline imposed on it by the capitalist state, but by
-extirpating, to the last root, its old habits of obedience and servility."_
-[**Rosa Luxemburg Speaks**, pp. 119-20]
+> - discipline - to such dissimilar notions as: (1) the absence of thought and
+> will in a body with a thousand automatically moving hands and legs, and (2)
+> the spontaneous co-ordination of the conscious, political acts of a body of
+> men. What is there in common between the regulated docility of an oppressed
+> class and the self-discipline and organisation of a class struggling for its
+> emancipation? . . . The working class will acquire the sense of the new
+> discipline, the freely assumed self-discipline of the social democracy, not
+> as a result of the discipline imposed on it by the capitalist state, but by
+> extirpating, to the last root, its old habits of obedience and servility."_
+> [ **Rosa Luxemburg Speaks** , pp. 119-20]
 
 Engels is confusing two radically different means of decision making by
 arguing both involve subordination and authority. The difference is clear: the
@@ -441,20 +445,21 @@ involves the "subordination" of individuals to the decisions and agreements
 they make. The first is authority, the second is liberty. As Kropotkin put it:
 
 > _"This applies to all forms of association. Cohabitation of two individuals
-under the same roof may lead to the enslavement of one by the will of the
-other, as it may also lead to liberty for both. The same applies to the family
-or . . . to large or small associations, to each social institution . . . _
+> under the same roof may lead to the enslavement of one by the will of the
+> other, as it may also lead to liberty for both. The same applies to the
+> family or . . . to large or small associations, to each social institution .
+> . ._
 
 > _"Communism is capable of assuming all forms of freedom or of oppression -
-which other institutions are unable to do. It may produce a monastery where
-all implicitly obey the orders of their superior, and it may produce an
-absolutely free organisation, leaving his full freedom to the individual,
-existing only as long as the associates wish to remain together, imposing
-nothing on anybody, being anxious rather to defend, enlarge, extend in all
-directions the liberty of the individual. Communism may be authoritarian (in
-which case the community will soon decay) or it may be Anarchist. The State,
-on the contrary, cannot be this. It is authoritarian or it ceases to be the
-State."_ [**Small Communal Experiments and Why They Fail**, pp. 12-3]
+> which other institutions are unable to do. It may produce a monastery where
+> all implicitly obey the orders of their superior, and it may produce an
+> absolutely free organisation, leaving his full freedom to the individual,
+> existing only as long as the associates wish to remain together, imposing
+> nothing on anybody, being anxious rather to defend, enlarge, extend in all
+> directions the liberty of the individual. Communism may be authoritarian (in
+> which case the community will soon decay) or it may be Anarchist. The State,
+> on the contrary, cannot be this. It is authoritarian or it ceases to be the
+> State."_ [ **Small Communal Experiments and Why They Fail** , pp. 12-3]
 
 Therefore, the example of free love indicates that, for anarchists, Engels
 arguments are simply pedantic sophistry. It goes without saying that
@@ -473,7 +478,7 @@ In his campaign against anti-authoritarian ideas within the First
 International, Engels asks in a letter written in January 1872 _"how do these
 people [the anarchists] propose to run a factory, operate a railway or steer a
 ship without having in the last resort one deciding will, without a single
-management"_? [**The Marx-Engels Reader**, p. 729]
+management"_? [ **The Marx-Engels Reader** , p. 729]
 
 This could only be asked if Engels was totally ignorant of Bakunin's ideas and
 his many comments supporting co-operatives as the means by which workers would
@@ -482,24 +487,25 @@ state or their former employers."_ Bakunin was _"convinced that the co-
 operative movement will flourish and reach its full potential only in a
 society where the land, the instruments of production, and hereditary property
 will be owned and operated by the workers themselves: by their freely
-organised federations of industrial and agricultural workers."_ [**Bakunin on
-Anarchism**, p. 399 and p. 400] Which meant that Bakunin, like all anarchists,
-was well aware of how a factory or other workplace would be organised:
+organised federations of industrial and agricultural workers."_ [ **Bakunin on
+Anarchism** , p. 399 and p. 400] Which meant that Bakunin, like all
+anarchists, was well aware of how a factory or other workplace would be
+organised:
 
 > _"Only associated labour, that is, labour organised upon the principles of
-reciprocity and co-operation, is adequate to the task of maintaining . . .
-civilised society."_ [**The Political Philosophy of Bakunin**, p. 341]
+> reciprocity and co-operation, is adequate to the task of maintaining . . .
+> civilised society."_ [ **The Political Philosophy of Bakunin** , p. 341]
 
 By October of that year, Engels had finally _"submitted arguments like these
 to the most rabid anti-authoritarians"_ who replied to run a factory, railway
 or ship did require organisation _"but here it was not a case of authority
-which we confer on our delegates, **but of a commission entrusted!**"_ Engels
+which we confer on our delegates, **but of a commission entrusted!** "_ Engels
 commented that the anarchists _"think that when they have changed the names of
 things they have changed the things themselves."_ He, therefore, thought that
 authority will _"only have changed its form"_ rather than being abolished
 under anarchism as _"whoever mentions combined action speaks of organisation"_
-and it is not possible _"to have organisation without authority."_ [**Op.
-Cit.**, p. 732 and p. 731]
+and it is not possible _"to have organisation without authority."_ [ **Op.
+Cit.** , p. 732 and p. 731]
 
 However, Engels is simply confusing two different things, authority and
 agreement. To make an agreement with another person is an exercise of your
@@ -511,7 +517,7 @@ his fellows"_ was distorted and a few gained _"the advantages of co-operation
 by subjecting other men to [their] will instead of joining with them."_ This
 oppression _"was still association and co-operation, outside of which there is
 no possible human life; but it was a way of co-operation, imposed and
-controlled by a few for their personal interest."_ [**Anarchy**, pp. 30-1]
+controlled by a few for their personal interest."_ [ **Anarchy** , pp. 30-1]
 Anarchists seek to organise association to eliminate domination. This would be
 done by workers organising themselves collectively to make their own decisions
 about their work (workers' self-management, to use modern terminology). This
@@ -519,19 +525,20 @@ did not necessitate the same authoritarian social relationships as exist under
 capitalism:
 
 > _"Of course in every large collective undertaking, a division of labour,
-technical management, administration, etc., is necessary. But authoritarians
-clumsily play on words to produce a **raison d'être** for government out of
-the very real need for the organisation of work. Government . . . is the
-concourse of individuals who have had, or have seized, the right and the means
-to make laws and to oblige people to obey; the administrator, the engineer,
-etc., instead are people who are appointed or assume the responsibility to
-carry out a particular job and do so. Government means the delegation of
-power, that is the abdication of initiative and sovereignty of all into the
-hands of a few; administration means the delegation of work, that is tasks
-given and received, free exchange of services based on free agreement. . . Let
-one not confuse the function of government with that of administration, for
-they are essentially different, and if today the two are often confused, it is
-only because of economic and political privilege."_ [**Op. Cit.**, pp. 41-2]
+> technical management, administration, etc., is necessary. But authoritarians
+> clumsily play on words to produce a **raison d'être** for government out of
+> the very real need for the organisation of work. Government . . . is the
+> concourse of individuals who have had, or have seized, the right and the
+> means to make laws and to oblige people to obey; the administrator, the
+> engineer, etc., instead are people who are appointed or assume the
+> responsibility to carry out a particular job and do so. Government means the
+> delegation of power, that is the abdication of initiative and sovereignty of
+> all into the hands of a few; administration means the delegation of work,
+> that is tasks given and received, free exchange of services based on free
+> agreement. . . Let one not confuse the function of government with that of
+> administration, for they are essentially different, and if today the two are
+> often confused, it is only because of economic and political privilege."_ [
+> **Op. Cit.** , pp. 41-2]
 
 For a given task, co-operation and joint activity may be required by its very
 nature. Take, for example, a train network. The joint activity of numerous
@@ -565,13 +572,14 @@ boss would be replaced by agreements between equals.
 
 Engels argued that large-scale industry (or, indeed, any form of organisation)
 meant that "authority" was required. He stated that factories should have
-_"Lasciate ogni autonomia, voi che entrate"_ (_"Leave, ye that enter in, all
-autonomy behind"_) written above their doors. That is the basis of capitalism,
-with the wage worker being paid to obey. This obedience, Engels argued, was
-necessary even under socialism, as applying the _"forces of nature"_ meant _"a
-veritable despotism independent of all social organisation."_ This meant that
-_"[w]anting to abolish authority in large-scale industry is tantamount to
-wanting to abolish industry itself."_ [**Op. Cit.**, p. 731]
+_"Lasciate ogni autonomia, voi che entrate"_ ( _"Leave, ye that enter in, all
+autonomy behind"_ ) written above their doors. That is the basis of
+capitalism, with the wage worker being paid to obey. This obedience, Engels
+argued, was necessary even under socialism, as applying the _"forces of
+nature"_ meant _"a veritable despotism independent of all social
+organisation."_ This meant that _"[w]anting to abolish authority in large-
+scale industry is tantamount to wanting to abolish industry itself."_ [ **Op.
+Cit.** , p. 731]
 
 The best answer to Engels claims can be found in the class struggle. Given
 that Engels was a capitalist (an actual owner of a factory), he may have not
@@ -596,27 +604,27 @@ all, 'just following the rules.'"_ The British anarcho-syndicalists of the
 situation:
 
 > _"If managers' orders were completely obeyed, confusion would result and
-production and morale would be lowered. In order to achieve the goals of the
-organisation workers must often violate orders, resort to their own techniques
-of doing things, and disregard lines of authority. Without this kind of
-systematic sabotage much work could not be done. This unsolicited sabotage in
-the form of disobedience and subterfuge is especially necessary to enable
-large bureaucracies to function effectively."_ [J.A.C. Brown, quoted in
-**Direct Action in Industry**]
+> production and morale would be lowered. In order to achieve the goals of the
+> organisation workers must often violate orders, resort to their own
+> techniques of doing things, and disregard lines of authority. Without this
+> kind of systematic sabotage much work could not be done. This unsolicited
+> sabotage in the form of disobedience and subterfuge is especially necessary
+> to enable large bureaucracies to function effectively."_ [J.A.C. Brown,
+> quoted in **Direct Action in Industry** ]
 
 Another weapon of workers' resistance is what has been called _"Working
 without enthusiasm"_ and is related to the "work to rule." This tactic aims at
 _"slowing production"_ in order to win gains from management:
 
 > _"Even the simplest repetitive job demands a certain minimum of initiative
-and in this case it is failing to show any non-obligatory initiative . . .
-[This] leads to a fall in production - above all in quality. The worker
-carries out every operation minimally; the moment there is a hitch of any kind
-he abandons all responsibility and hands over to the next man above him in the
-hierarchy; he works mechanically, not checking the finished object, not
-troubling to regulate his machine. In short he gets away with as much as he
-can, but never actually does anything positively illegal."_ [Pierre Dubois,
-**Sabotage in Industry**, p. 51]
+> and in this case it is failing to show any non-obligatory initiative . . .
+> [This] leads to a fall in production - above all in quality. The worker
+> carries out every operation minimally; the moment there is a hitch of any
+> kind he abandons all responsibility and hands over to the next man above him
+> in the hierarchy; he works mechanically, not checking the finished object,
+> not troubling to regulate his machine. In short he gets away with as much as
+> he can, but never actually does anything positively illegal."_ [Pierre
+> Dubois, **Sabotage in Industry** , p. 51]
 
 The practice of _"working to rule"_ and _"working without enthusiasm"_ shows
 how out of touch Engels (like any capitalist) was with the realities of shop
@@ -633,28 +641,28 @@ illustrated in a work-to-rule strike, which turns on the fact that any
 production process depends on a host of informal practices and improvisations
 that could never be codified. By merely following the rules meticulously, the
 workforce can virtually halt production."_ [James C. Scott, **Seeing like a
-State**, p. 6] As Cornelius Castoriadis argued:
+State** , p. 6] As Cornelius Castoriadis argued:
 
 > _"Resistance to exploitation expresses itself in a drop in **productivity as
-well as exertion on the workers' part** . . . At the same time it is expressed
-in the disappearance of the **minimum** collective and spontaneous
-**management and organisation** of work that the workers normally and of
-necessity puts out. No modern factory could function for twenty-four hours
-without this spontaneous organisation of work that groups of workers,
-independent of the official business management, carry out by filling in the
-gaps of official production directives, by preparing for the unforeseen and
-for regular breakdowns of equipment, by compensating for management's
-mistakes, etc. _
+> well as exertion on the workers' part** . . . At the same time it is
+> expressed in the disappearance of the **minimum** collective and spontaneous
+> **management and organisation** of work that the workers normally and of
+> necessity puts out. No modern factory could function for twenty-four hours
+> without this spontaneous organisation of work that groups of workers,
+> independent of the official business management, carry out by filling in the
+> gaps of official production directives, by preparing for the unforeseen and
+> for regular breakdowns of equipment, by compensating for management's
+> mistakes, etc. _
 
 > _"Under 'normal' conditions of exploitation, workers are torn between the
-need to organise themselves in this way in order to carry out their work -
-otherwise there are repercussions for them - and their natural desire to do
-their work, on the one hand, and, on the other, the awareness that by doing so
-they only are serving the boss's interests. Added to those conflicting
-concerns are the continual efforts of factory's management apparatus to
-'direct' all aspects of the workers' activity, which often results only in
-preventing them from organising themselves."_ [**Political and Social
-Writings**, vol. 2, p. 68]
+> need to organise themselves in this way in order to carry out their work -
+> otherwise there are repercussions for them - and their natural desire to do
+> their work, on the one hand, and, on the other, the awareness that by doing
+> so they only are serving the boss's interests. Added to those conflicting
+> concerns are the continual efforts of factory's management apparatus to
+> 'direct' all aspects of the workers' activity, which often results only in
+> preventing them from organising themselves."_ [ **Political and Social
+> Writings** , vol. 2, p. 68]
 
 Needless to say, co-operation and co-ordination are required in any collective
 activity. Anarchists do not deny this fact of nature, but the example Engels
@@ -664,7 +672,7 @@ grind to halt. So trying to eliminate workers' autonomy is difficult as
 _"[i]ndustrial history shows"_ that _"such management attempts to control the
 freedom of the work force invariably run up against the contradiction that the
 freedom is necessary for quality production."_ [David Noble, **Forces of
-Production**, p. 277]
+Production** , p. 277]
 
 Ironically, the example of Russia under Lenin and Trotsky reinforces this
 fact. _"Administrative centralisation"_ was enforced on the railway workers
@@ -674,17 +682,17 @@ all the more effective as a defensive and self-protective rationalisation as
 party officials vested with unilateral power insisted all their orders be
 strictly obeyed. Cheka ruthlessness instilled fear, but repression . . . only
 impaired the exercise of initiative that daily operations required."_ [William
-G. Rosenberg, _"The Social Background to Tsektran"_, pp. 349-373, **Party,
-State, and Society in the Russian Civil War**, Diane P. Koenker, William G.
+G. Rosenberg, _"The Social Background to Tsektran"_ , pp. 349-373, **Party,
+State, and Society in the Russian Civil War** , Diane P. Koenker, William G.
 Rosenberg and Ronald Grigor Suny (eds.), p. 369] Without the autonomy required
 to manage local problems, the operation of the railways was seriously harmed
 and, unsurprisingly, a few months after Trotsky subjected railway workers to
 the _"militarisation of labour"_ in September 1920, there was a _"disastrous
 collapse of the railway network in the winter of 1920-1."_ [Jonathan Aves,
-**Workers against Lenin**, p. 102] There can be no better way to cripple an
+**Workers against Lenin** , p. 102] There can be no better way to cripple an
 economy than to impose Lenin's demand that the task of workers was that of
 _"unquestioningly obeying the will of the Soviet leader, of the dictator,
-**during** the work."_ [**Collected Works**, vol. 27, p. 270]
+**during** the work."_ [ **Collected Works** , vol. 27, p. 270]
 
 As the experience of workers' in struggle shows, it is the **abolition** of
 autonomy which ensures the abolition of large-scale industry, not its
@@ -706,34 +714,34 @@ organisation"_?
 As noted in the [last section](secH4.md#sech44), Engels argued that applying
 the _"forces of nature"_ meant _"a veritable despotism independent of all
 social organisation."_ This meant that _"[w]anting to abolish authority in
-large-scale industry is tantamount to wanting to abolish industry itself."_
-[**Op. Cit.**, p. 731]
+large-scale industry is tantamount to wanting to abolish industry itself."_ [
+**Op. Cit.** , p. 731]
 
 For anarchists, Engels' comments ignore the reality of class society in an
-important way. Modern (_"large-scale"_) industry has not developed neutrally
+important way. Modern ( _"large-scale"_ ) industry has not developed neutrally
 or naturally, independently of all social organisation as Engels claimed.
 Rather it has been shaped by the class struggle along with technology (which
 is often a weapon in that conflict - see [section D.10](secD10.md)). As
 Castoriadis argued:
 
 > _"Management organises production with a view of achieving 'maximum
-efficiency.' But the first result of this sort of organisation is to stir up
-the workers' revolt against production itself . . . To combat the resistance
-of the workers, the management institutes an ever more minute division of
-labour and tasks . . . Machines are invented, or selected, according to one
-fundamental criterion: Do they assist in the struggle of management against
-workers, do they reduce yet further the worker's margin of autonomy, do they
-assist in eventually replacing him [or her] altogether? In this sense, the
-organisation of production today . . . is **class organisation.** Technology
-is predominantly **class technology.** No . . . manager would ever introduce
-into his plant a machine which would increase the freedom of a particular
-worker or of a group of workers to run the job themselves, even if such a
-machine increased production. _
+> efficiency.' But the first result of this sort of organisation is to stir up
+> the workers' revolt against production itself . . . To combat the resistance
+> of the workers, the management institutes an ever more minute division of
+> labour and tasks . . . Machines are invented, or selected, according to one
+> fundamental criterion: Do they assist in the struggle of management against
+> workers, do they reduce yet further the worker's margin of autonomy, do they
+> assist in eventually replacing him [or her] altogether? In this sense, the
+> organisation of production today . . . is **class organisation.** Technology
+> is predominantly **class technology.** No . . . manager would ever introduce
+> into his plant a machine which would increase the freedom of a particular
+> worker or of a group of workers to run the job themselves, even if such a
+> machine increased production. _
 
 > _"The workers are by no means helpless in this struggle. They constantly
-invent methods of self-defence. They break the rules, while 'officially'
-keeping them. They organise informally, maintain a collective solidarity and
-discipline."_ [**The Meaning of Socialism**, pp. 9-10]
+> invent methods of self-defence. They break the rules, while 'officially'
+> keeping them. They organise informally, maintain a collective solidarity and
+> discipline."_ [ **The Meaning of Socialism** , pp. 9-10]
 
 So one of the key aspects of the class struggle is the conflict of workers
 against attempts by management to eliminate their autonomy within the
@@ -752,8 +760,8 @@ David Noble quotes one shop steward who stated the obvious, namely that
 workers are _"not automatons. We have eyes to see with, ears to hear with, and
 mouths to talk."_ As Noble comments, _"[f]or management . . . that was
 precisely the problem. Workers controlled the machines, and through their
-unions had real authority over the division of labour and job content."_
-[**Forces of Production**, p. 37] This autonomy was what managers constantly
+unions had real authority over the division of labour and job content."_ [
+**Forces of Production** , p. 37] This autonomy was what managers constantly
 struggled against and introduced technology to combat. So Engels' notion that
 machinery was "despotic" hides the nature of class society and the fact that
 authority is a social relationship, a relationship between people and not
@@ -771,7 +779,7 @@ entrepreneurs and capitalists are irresponsible autocrats who are free to
 conduct their affairs arbitrarily. . . . The fundamental error of this
 argument is obvious [sic!]. The entrepreneurs and capitalists are not
 irresponsible autocrats. They are unconditionally subject to the sovereignty
-of the consumers. The market is a consumers' democracy."_ [**Human Action**,
+of the consumers. The market is a consumers' democracy."_ [ **Human Action** ,
 p. 814] In other words, it is not the bosses fault that they dictate to the
 worker. No, of course not, it is the despotism of the machine, of nature, of
 the market, of the customer, anyone and anything **but** the person **with**
@@ -800,44 +808,46 @@ Farras, a professional soldier, was concerned about the application of
 libertarian principles to military organisation. Durruti replied:
 
 > _"I've said it once and I'll say it again: I've been an anarchist my entire
-life and the fact that I'm responsible for this human collectivity won't
-change my convictions. It was as an anarchist that I agreed to carry out the
-task that the Central Committee of the Anti-Fascist Militias entrusted me. _
+> life and the fact that I'm responsible for this human collectivity won't
+> change my convictions. It was as an anarchist that I agreed to carry out the
+> task that the Central Committee of the Anti-Fascist Militias entrusted me._
 
 > _"I don't believe - and everything happening around us confirms this - that
-you can run a workers' militia according to classic military rules. I believe
-that discipline, co-ordination, and planning are indispensable, but we
-shouldn't define them in terms taken from the world that we're destroying. We
-have to build on new foundations. My comrades and I are convinced that
-solidarity is the best incentive for arousing an individual's sense of
-responsibility and a willingness to accept discipline as an act of self-
-discipline. _
+> you can run a workers' militia according to classic military rules. I
+> believe that discipline, co-ordination, and planning are indispensable, but
+> we shouldn't define them in terms taken from the world that we're
+> destroying. We have to build on new foundations. My comrades and I are
+> convinced that solidarity is the best incentive for arousing an individual's
+> sense of responsibility and a willingness to accept discipline as an act of
+> self-discipline._
 
 > _"War has been imposed upon us . . . but our goal is revolutionary victory.
-This means defeating the enemy, but also a radical change in men. For that
-change to occur, man must learn to live and conduct himself as a free man, an
-apprenticeship that develops his personality and sense of responsibility, his
-capacity to be master of his own acts. The worker on the job not only
-transforms the material on which he works, but also transforms himself through
-that work. The combatant is nothing more than a worker whose tool is a rifle -
-and he should strive toward the same objective as a worker. One can't behave
-like an obedient soldier but rather as a conscious man who understands the
-importance of what he's doing. I know that it's not easy to achieve this, but
-I also know that what can't be accomplished with reason will not be obtained
-by force. If we have to sustain our military apparatus by fear, then we won't
-have changed anything except the colour of the fear. It's only by freeing
-itself from fear that society can build itself in freedom."_ [quoted by Abel
-Paz, **Durruti: In The Spanish Revolution**, p. 474]
+> This means defeating the enemy, but also a radical change in men. For that
+> change to occur, man must learn to live and conduct himself as a free man,
+> an apprenticeship that develops his personality and sense of responsibility,
+> his capacity to be master of his own acts. The worker on the job not only
+> transforms the material on which he works, but also transforms himself
+> through that work. The combatant is nothing more than a worker whose tool is
+> a rifle - and he should strive toward the same objective as a worker. One
+> can't behave like an obedient soldier but rather as a conscious man who
+> understands the importance of what he's doing. I know that it's not easy to
+> achieve this, but I also know that what can't be accomplished with reason
+> will not be obtained by force. If we have to sustain our military apparatus
+> by fear, then we won't have changed anything except the colour of the fear.
+> It's only by freeing itself from fear that society can build itself in
+> freedom."_ [quoted by Abel Paz, **Durruti: In The Spanish Revolution** , p.
+> 474]
 
 Is it really convincing to argue that the individuals who made up the militia
 are subject to the same social relationships as those in a capitalist or
 Leninist army? The same, surely, goes for workers associations and wage
 labour. Ultimately, the flaw in Engels' argument can be best seen simply
 because he thinks that the _"automatic machinery of a big factory is much more
-despotic than the small capitalist who employ workers ever have been."_ [**Op.
-Cit.**, p. 731] Authority and liberty become detached from human beings, as if
-authoritarian social relationships can exist independently of individuals! It
-is a **social** relationship anarchists oppose, not an abstraction.
+despotic than the small capitalist who employ workers ever have been."_ [
+**Op. Cit.** , p. 731] Authority and liberty become detached from human
+beings, as if authoritarian social relationships can exist independently of
+individuals! It is a **social** relationship anarchists oppose, not an
+abstraction.
 
 Engels' argument is applicable to **any** society and to **any** task which
 requires joint effort. If, for example, a table needs four people to move it
@@ -859,16 +869,16 @@ nature are considered by Engels' as "despots"! As if despotism were not a
 specific set of relationships between **humans.** As Bookchin argued:
 
 > _"To Engels, the factory is a natural fact of technics, not a specifically
-bourgeois mode of rationalising labour; hence it will exist under communism as
-well as capitalism. It will persist 'independently of all social
-organisation.' To co-ordinate a factory's operations requires 'imperious
-obedience,' in which factory hands lack all 'autonomy.' Class society or
-classless, the realm of necessity is also a realm of command and obedience, of
-ruler and ruled. In a fashion totally congruent with all class ideologists
-from the inception of class society, Engels weds Socialism to command and rule
-as a natural fact. Domination is reworked from a social attribute into a
-precondition for self-preservation in a technically advanced society."_
-[**Toward an Ecological Society**, p. 206]
+> bourgeois mode of rationalising labour; hence it will exist under communism
+> as well as capitalism. It will persist 'independently of all social
+> organisation.' To co-ordinate a factory's operations requires 'imperious
+> obedience,' in which factory hands lack all 'autonomy.' Class society or
+> classless, the realm of necessity is also a realm of command and obedience,
+> of ruler and ruled. In a fashion totally congruent with all class
+> ideologists from the inception of class society, Engels weds Socialism to
+> command and rule as a natural fact. Domination is reworked from a social
+> attribute into a precondition for self-preservation in a technically
+> advanced society."_ [ **Toward an Ecological Society** , p. 206]
 
 Given this, it can be argued that Engels' _"On Authority"_ had a significant
 impact in the degeneration of the Russian Revolution into state capitalism. By
@@ -882,27 +892,28 @@ stressed, authority in industry was independent of the social system and all
 forms of organisation meant subordination). Murray Bookchin draws the obvious
 conclusion from Engels' (and Marx's) position: _"Obviously, the factory
 conceived of as a 'realm of necessity' [as opposed to a 'realm of freedom']
-requires no need for self-management."_ [**Op. Cit.**, p. 126] Thus it is no
+requires no need for self-management."_ [ **Op. Cit.** , p. 126] Thus it is no
 great leap from the arguments of Engels in _"On Authority"_ to Lenin's
 arguments justifying the imposition of capitalist organisational forms during
 the Russian Revolution:
 
 > _"Firstly, the question of principle, namely, is the appointment of
-individuals, dictators with unlimited powers, in general compatible with the
-fundamental principles of Soviet government? . . . concerning the significance
-of individual dictatorial powers from the point of view of the specific tasks
-of the present moment, it must be said that large-scale machine industry -
-which is precisely the material source, the productive source, the foundation
-of socialism - calls for absolute and strict unity of will, which directs the
-joint labours of hundreds, thousands and tens of thousands of people . . . But
-how can strict unity of will be ensured? By thousands subordinating their will
-to the will of one . . . **unquestioning subordination** to a single will is
-absolutely necessary for the success of processes organised on the pattern of
-large-scale machine industry. On the railways it is twice and three times as
-necessary . . . Today . . . revolution demands - precisely in the interests of
-its development and consolidation, precisely in the interests of socialism -
-that the people **unquestioningly obey the single will** of the leaders of
-labour."_ [**Collected Works**, vol. 27, pp. 267-9]
+> individuals, dictators with unlimited powers, in general compatible with the
+> fundamental principles of Soviet government? . . . concerning the
+> significance of individual dictatorial powers from the point of view of the
+> specific tasks of the present moment, it must be said that large-scale
+> machine industry - which is precisely the material source, the productive
+> source, the foundation of socialism - calls for absolute and strict unity of
+> will, which directs the joint labours of hundreds, thousands and tens of
+> thousands of people . . . But how can strict unity of will be ensured? By
+> thousands subordinating their will to the will of one . . . **unquestioning
+> subordination** to a single will is absolutely necessary for the success of
+> processes organised on the pattern of large-scale machine industry. On the
+> railways it is twice and three times as necessary . . . Today . . .
+> revolution demands - precisely in the interests of its development and
+> consolidation, precisely in the interests of socialism - that the people
+> **unquestioningly obey the single will** of the leaders of labour."_ [
+> **Collected Works** , vol. 27, pp. 267-9]
 
 Hence the Bolsheviks need not have to consider whether replacing factory
 committees with appointed managers armed with _"dictatorial powers"_ would
@@ -936,18 +947,18 @@ Ironically, Engels' essay _"On Authority"_ also strikes at the heart of
 Marxism and its critique of anarchism. Forgetting what he had written in 1873,
 Engels argued in 1894 that for him and Marx the _"ultimate political aim is to
 overcome the whole state and therefore democracy as well."_ [quoted by Lenin,
-_"State and Revolution"_, **Essential Works of Lenin**, p. 331] Lenin argued
-that _"the abolition of the state means also the abolition of democracy."_
-[**Op. Cit.**, p. 332]
+_"State and Revolution"_ , **Essential Works of Lenin** , p. 331] Lenin argued
+that _"the abolition of the state means also the abolition of democracy."_ [
+**Op. Cit.** , p. 332]
 
 The problems arise from the awkward fact that Engels' _"On Authority"_ had
 stated that any form of collective activity meant "authority" and so the
-subjection of the minority to the majority (_"if possible"_) and _"the
-imposition of the will of another upon ours."_ [**Marx-Engels Reader**, p. 731
-and p. 730] Aware of the contradiction, Lenin stresses that _"someone may even
-begin to fear we are expecting the advent of an order of society in which the
-subordination of the minority to the majority will not be respected."_ That
-was not the case, however. He simply rejected the idea that democracy was
+subjection of the minority to the majority ( _"if possible"_ ) and _"the
+imposition of the will of another upon ours."_ [ **Marx-Engels Reader** , p.
+731 and p. 730] Aware of the contradiction, Lenin stresses that _"someone may
+even begin to fear we are expecting the advent of an order of society in which
+the subordination of the minority to the majority will not be respected."_
+That was not the case, however. He simply rejected the idea that democracy was
 _"the recognition of this principle"_ arguing that _"democracy is a **state**
 which recognises the subordination of the minority to the majority, i.e. an
 organisation for the systematic use of **violence** by one class against the
@@ -955,22 +966,22 @@ other, by one section of the population against another."_ He argued that
 _"the need for violence against people in general, the need for the
 **subjection** of one man to another, will vanish, since people will **become
 accustomed** to observing the elementary conditions of social life **without
-force** and **without subordination.**"_ [**Op. Cit.**, pp. 332-3]
+force** and **without subordination.** "_ [ **Op. Cit.** , pp. 332-3]
 
 Talk about playing with words! Earlier in his work Lenin summarised Engels
 **"On Authority"** by stating that _"is it not clear that . . . complex
 technical units, based on the employment of machinery and the ordered co-
 operation of many people, could function without a certain amount of
-subordination, without some authority or power."_ [**Op. Cit.**, p. 316] Now,
-however, he argued that communism would involve no _"subordination"_ while, at
-the same time, be based on the _"the principle of the subordination of the
-minority to the majority"_! A contradiction? Perhaps not, as he argued that
-the minority would _"become accustomed"_ to the conditions of _"social life"_
-\- in other words the recognition that sticking to your agreements you make
-with others does not involve "subordination." This, ironically, would confirm
-anarchist ideas as we argue that making agreements with others, as equals,
-does not involve domination or subordination but rather is an expression of
-autonomy, of liberty.
+subordination, without some authority or power."_ [ **Op. Cit.** , p. 316]
+Now, however, he argued that communism would involve no _"subordination"_
+while, at the same time, be based on the _"the principle of the subordination
+of the minority to the majority"_! A contradiction? Perhaps not, as he argued
+that the minority would _"become accustomed"_ to the conditions of _"social
+life"_ \- in other words the recognition that sticking to your agreements you
+make with others does not involve "subordination." This, ironically, would
+confirm anarchist ideas as we argue that making agreements with others, as
+equals, does not involve domination or subordination but rather is an
+expression of autonomy, of liberty.
 
 Similarly, we find Engels arguing in **Anti-Duhring** that socialism _"puts an
 end to the former subjection of men to their own means of production"_ and
@@ -980,18 +991,18 @@ years after _"On Authority"_ where he stressed that _"the automatic machinery
 of a big factory is much more despotic than the small capitalists who employ
 workers ever have been"_ and _"subdu[ing] the forces of nature . . . avenge
 themselves"_ upon _"man"_ by _"subjecting him . . . to a veritable despotism
-independent of all social organisation."_ [**Op. Cit.**, p. 720, p. 721 and p.
-731] Engels is clearly contradicting himself. When attacking the anarchists,
-he argues that the _"subjection"_ of people to the means of production was
-inevitable and utterly _"independent of all social organisation."_ Six years
-later he proclaims that socialism will abolish this inescapable subjection to
-the _"veritable despotism"_ of modern industry!
+independent of all social organisation."_ [ **Op. Cit.** , p. 720, p. 721 and
+p. 731] Engels is clearly contradicting himself. When attacking the
+anarchists, he argues that the _"subjection"_ of people to the means of
+production was inevitable and utterly _"independent of all social
+organisation."_ Six years later he proclaims that socialism will abolish this
+inescapable subjection to the _"veritable despotism"_ of modern industry!
 
 As can be seen from both Engels and Lenin, we have a contradiction within
-Marxism. On the one hand, they argue that authority (_"subjection"_) will
+Marxism. On the one hand, they argue that authority ( _"subjection"_ ) will
 always be with us, no matter what, as _"subordination"_ and _"authority"_ is
 independent of the specific society we live in. On the other, they argue that
-Marxist socialism will be without a state, _"without subordination"_,
+Marxist socialism will be without a state, _"without subordination"_ ,
 _"without force"_ and will end the _"subjection of men to their own means of
 production."_ The two positions cannot be reconciled.
 
@@ -1011,12 +1022,12 @@ develop with large-scale industry and large-scale agriculture, and
 increasingly tend to enlarge the scope of this authority."_ Given that this is
 _"a veritable despotism"_ and Marxism aims at _"one single vast plan"_ in
 modern industry, then the scope for autonomy, for freedom, is continually
-reduced during the working day. [**Op. Cit.**, p. 732, p. 731 and p. 723] If
+reduced during the working day. [ **Op. Cit.** , p. 732, p. 731 and p. 723] If
 machinery and industry means despotism, as Engels claimed against Bakunin,
 then what does that mean for Lenin's aim to ensure _"the transformation of the
 whole state economic mechanism into a single huge machine . . . as to enable
-hundreds of millions of people to be guided by a single plan?"_ [**Collected
-Works**, vol. 27, pp. 90-1] Surely such an economy would be, to use Engels'
+hundreds of millions of people to be guided by a single plan?"_ [ **Collected
+Works** , vol. 27, pp. 90-1] Surely such an economy would be, to use Engels'
 words, _"a veritable despotism"_?
 
 The only possible solution is reducing the working day to a minimum and so the
@@ -1036,7 +1047,7 @@ whereby one part of the population imposes its will upon the other part by
 means of rifles, bayonets and cannon - authoritarian means, if such there be
 at all; and if the victorious party does not want to have fought in vain, it
 must maintain this rule by means of the terror its arms inspire in the
-reactionaries."_ [**Marx-Engels Reader**, p. 733]
+reactionaries."_ [ **Marx-Engels Reader** , p. 733]
 
 Yet such an analysis is without class analysis and so will, by necessity,
 mislead the writer and the reader. Engels argues that revolution is the
@@ -1064,35 +1075,35 @@ population imposes its will upon the other"_ everyday. Malatesta stated the
 obvious:
 
 > _"To fight our enemies effectively, we do not need to deny the principle of
-freedom, not even for one moment: it is sufficient for us to want real freedom
-and to want it for all, for ourselves as well as for others. _
+> freedom, not even for one moment: it is sufficient for us to want real
+> freedom and to want it for all, for ourselves as well as for others._
 
 > _"We want to expropriate the property-owning class, and with violence, since
-it is with violence that they hold on to social wealth and use it to exploit
-the working class. Not because freedom is a good thing for the future, but
-because it is a good thing, today as well as tomorrow, and the property
-owners, by denying us the means of exercising our freedom, in effect, take it
-away from us. _
+> it is with violence that they hold on to social wealth and use it to exploit
+> the working class. Not because freedom is a good thing for the future, but
+> because it is a good thing, today as well as tomorrow, and the property
+> owners, by denying us the means of exercising our freedom, in effect, take
+> it away from us._
 
 > _"We want to overthrow the government, all governments - and overthrow them
-with violence since it is by the use of violence that they force us into
-obeying - and once again, not because we sneer at freedom when it does not
-serve our interests but because governments are the negation of freedom and it
-is not possible to be free without getting rid of them . . . _
+> with violence since it is by the use of violence that they force us into
+> obeying - and once again, not because we sneer at freedom when it does not
+> serve our interests but because governments are the negation of freedom and
+> it is not possible to be free without getting rid of them . . ._
 
 > _"The freedom to oppress, to exploit . . . is the denial of freedom: and the
-fact that our enemies make irrelevant and hypocritical use of the word freedom
-is not enough to make us deny the principle of freedom which is the
-outstanding characteristic of our movement and a permanent, constant and
-necessary factor in the life and progress of humanity."_ [**Errico Malatesta:
-His Life and Ideas**, p. 51]
+> fact that our enemies make irrelevant and hypocritical use of the word
+> freedom is not enough to make us deny the principle of freedom which is the
+> outstanding characteristic of our movement and a permanent, constant and
+> necessary factor in the life and progress of humanity."_ [ **Errico
+> Malatesta: His Life and Ideas** , p. 51]
 
 It seems strange that Engels, in effect, is arguing that the abolition of
 tyranny is tyranny against the tyrants! As Malatesta so clearly argued,
 anarchists _"recognise violence only as a means of legitimate self-defence;
 and if today they are in favour of violence it is because they maintain that
-slaves are always in a state of legitimate defence."_ [**Op. Cit.**, p. 59] As
-such, Engels fails to understand the revolution from a **working class**
+slaves are always in a state of legitimate defence."_ [ **Op. Cit.** , p. 59]
+As such, Engels fails to understand the revolution from a **working class**
 perspective (perhaps unsurprisingly, as he was a capitalist). The "authority"
 of the "armed workers" over the bourgeois is, simply, the defence of the
 workers' freedom against those who seek to end it by exercising/recreating the
@@ -1135,15 +1146,15 @@ organisation - centralisation - that excludes that participation.
 Georges Fontenis summarises anarchist ideas on this subject when he wrote:
 
 > _"And so against the idea of State, where power is exercised by a
-specialised group isolated from the masses, we put the idea of direct workers
-power, where accountable and controlled elected delegates (who can be recalled
-at any time and are remunerated at the same rate as other workers) replace
-hierarchical, specialised and privileged bureaucracy; where militias,
-controlled by administrative bodies such as soviets, unions and communes, with
-no special privileges for military technicians, realising the idea of the
-armed people, replace an army cut off from the body of Society and
-subordinated to the arbitrary power of a State or government."_ [**Manifesto
-of Libertarian Communism**, p. 24]
+> specialised group isolated from the masses, we put the idea of direct
+> workers power, where accountable and controlled elected delegates (who can
+> be recalled at any time and are remunerated at the same rate as other
+> workers) replace hierarchical, specialised and privileged bureaucracy; where
+> militias, controlled by administrative bodies such as soviets, unions and
+> communes, with no special privileges for military technicians, realising the
+> idea of the armed people, replace an army cut off from the body of Society
+> and subordinated to the arbitrary power of a State or government."_ [
+> **Manifesto of Libertarian Communism** , p. 24]
 
 Anarchists, therefore, are no more impressed with this aspect of Engels
 critique than his "organisation equals authority" argument. In summary, his
@@ -1156,6 +1167,6 @@ between them which the revolution is seeking to overthrow. As such, Engels
 critique totally misses the point.
 
 [‹ H.3 What are the myths of state socialism?](secH3.md "Go to previous
-page" ) [up](secHcon.md "Go to parent page" ) [H.5 What is vanguardism and
-why do anarchists reject it? ›](secH5.md "Go to next page" )
+page") [up](secHcon.md "Go to parent page") [H.5 What is vanguardism and why
+do anarchists reject it? ›](secH5.md "Go to next page")
 

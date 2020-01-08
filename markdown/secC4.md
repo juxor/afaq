@@ -5,18 +5,18 @@ economic model assumes an economy made up of a large number of small firms,
 none of which can have any impact on the market. Such a model has no bearing
 to reality:
 
-> _ "The facts show . . . that capitalist economies tend over time and with
-some interruptions to become more and more heavily concentrated."_ [M.A.
-Utton, **The Political Economy of Big Business**, p. 186]
+> _"The facts show . . . that capitalist economies tend over time and with
+> some interruptions to become more and more heavily concentrated."_ [M.A.
+> Utton, **The Political Economy of Big Business** , p. 186]
 
 As Bakunin argued, capitalist production _"must ceaselessly expand at the
 expense of the smaller speculative and productive enterprises devouring
 them."_ Thus _"[c]ompetition in the economic field destroys and swallows up
 the small and even medium-sized enterprises, factories, land estates, and
-commercial houses for the benefit of huge capital holdings."_ [**The Political
-Philosophy of Bakunin**, p. 182] The history of capitalism has proven him
-right. while the small and medium firm has not disappeared, economic life
-under capitalism is dominated by a few big firms.
+commercial houses for the benefit of huge capital holdings."_ [ **The
+Political Philosophy of Bakunin** , p. 182] The history of capitalism has
+proven him right. while the small and medium firm has not disappeared,
+economic life under capitalism is dominated by a few big firms.
 
 This growth of business is rooted in the capitalist system itself. The dynamic
 of the "free" market is that it tends to becomes dominated by a few firms (on
@@ -26,7 +26,7 @@ oligopolistic competition and higher profits for the companies in question
 because only established firms can afford the large capital investments needed
 to compete, thus reducing the number of competitors who can enter or survive
 in a given the market. Thus, in Proudhon's words, _"competition kills
-competition."_ [**System of Economical Contradictions**, p. 242] In other
+competition."_ [ **System of Economical Contradictions** , p. 242] In other
 words, capitalist markets evolve toward oligopolistic concentration.
 
 This _"does not mean that new, powerful brands have not emerged [after the
@@ -34,18 +34,18 @@ rise of Big Business in the USA after the 1880s]; they have, but in such
 markets. . . which were either small or non-existent in the early years of
 this century."_ The dynamic of capitalism is such that the _"competitive
 advantage [associated with the size and market power of Big Business], once
-created, prove[s] to be enduring."_ [Paul Ormerod, **The Death of Economics**,
-p. 55]
+created, prove[s] to be enduring."_ [Paul Ormerod, **The Death of Economics**
+, p. 55]
 
 For people with little or no capital, entering competition is limited to new
-markets with low start-up costs (_"In general, the industries which are
+markets with low start-up costs ( _"In general, the industries which are
 generally associated with small scale production. . . have low levels of
-concentration"_ [Malcolm C. Sawyer, **The Economics of Industries and Firms**,
-p. 35]). Sadly, however, due to the dynamics of competition, these markets
+concentration"_ [Malcolm C. Sawyer, **The Economics of Industries and Firms**
+, p. 35]). Sadly, however, due to the dynamics of competition, these markets
 usually in turn become dominated by a few big firms, as weaker firms fail,
-successful ones grow and capital costs increase (_"Each time capital completes
-its cycle, the individual grows smaller in proportion to it."_ [Josephine
-Guerts, **Anarchy: A Journal of Desire Armed** no. 41, p. 48]).
+successful ones grow and capital costs increase ( _"Each time capital
+completes its cycle, the individual grows smaller in proportion to it."_
+[Josephine Guerts, **Anarchy: A Journal of Desire Armed** no. 41, p. 48]).
 
 For example, between 1869 and 1955 _"there was a marked growth in capital per
 person and per number of the labour force. Net capital per head rose. . . to
@@ -54,7 +54,7 @@ The annual rate of gross capital formation rose _"from $3.5 billion in
 1869-1888 to $19 billion in 1929-1955, and to $30 billion in 1946-1955. This
 long term rise over some three quarters of a century was thus about nine times
 the original level"_ (in constant, 1929, dollars). [Simon Kuznets, **Capital
-in the American Economy**, p. 33 and p. 394] To take the steel industry as an
+in the American Economy** , p. 33 and p. 394] To take the steel industry as an
 illustration: in 1869 the average cost of steel works in the USA was $156,000,
 but by 1899 it was $967,000 -- a 520% increase. From 1901 to 1950, gross fixed
 assets increased from $740,201 to $2,829,186 in the steel industry as a whole,
@@ -86,8 +86,8 @@ the cost of starting a rival firm in a given, well-developed, market prohibits
 all but other large firms from doing so (and here we ignore advertising and
 other distribution expenses, which increase start-up costs even more --
 _"advertising raises the capital requirements for entry into the industry"_
-[Sawyer, **Op. Cit.**, p. 108]). J. S. Bain (in **Barriers in New
-Competition**) identified three main sources of entry barrier: economies of
+[Sawyer, **Op. Cit.** , p. 108]). J. S. Bain (in **Barriers in New
+Competition** ) identified three main sources of entry barrier: economies of
 scale (i.e. increased capital costs and their more productive nature); product
 differentiation (i.e. advertising); and a more general category he called
 _"absolute cost advantage."_
@@ -123,16 +123,16 @@ capital required to invest in order to start a business also increases. This
 restricts entry of new capital into the market (and limits it to firms with
 substantial financial and/or political backing behind them):
 
-> _ "Once dominant organisations have come to characterise the structure of an
-industry, immense barriers to entry face potential competitors. Huge
-investments in plant, equipment, and personnel are needed . . . [T]he
-development and utilisation of productive resources **within** the
-organisation takes considerable time, particularly in the face of formidable
-incumbents . . . It is therefore one thing for a few business organisations to
-emerge in an industry that has been characterised by . . . highly competitive
-conditions. It is quite another to break into an industry. . . [marked by]
-oligopolistic market power."_ [William Lazonick, **Business Organisation and
-the Myth of the Market Economy**, pp. 86-87]
+> _"Once dominant organisations have come to characterise the structure of an
+> industry, immense barriers to entry face potential competitors. Huge
+> investments in plant, equipment, and personnel are needed . . . [T]he
+> development and utilisation of productive resources **within** the
+> organisation takes considerable time, particularly in the face of formidable
+> incumbents . . . It is therefore one thing for a few business organisations
+> to emerge in an industry that has been characterised by . . . highly
+> competitive conditions. It is quite another to break into an industry. . .
+> [marked by] oligopolistic market power."_ [William Lazonick, **Business
+> Organisation and the Myth of the Market Economy** , pp. 86-87]
 
 Moreover, **within** the oligopolistic industry, the large size and market
 power of the dominant firms mean that smaller firms face expansion
@@ -151,7 +151,7 @@ suppliers to limit the activities of smaller firms which are trying to expand
 firms products).
 
 Little wonder Proudhon argued that _"[i]n competition. . . victory is assured
-to the heaviest battalions."_ [**Op. Cit.**, p. 260]
+to the heaviest battalions."_ [ **Op. Cit.** , p. 260]
 
 As a result of these entry/movement barriers, we see the market being divided
 into two main sectors -- an oligopolistic sector and a more competitive one.
@@ -181,7 +181,7 @@ Business is also at work on the global market. Just as Big Business arose from
 a desire to maximise profits and survive on the market, so _"[t]ransnationals
 arise because they are a means of consolidating or increasing profits in an
 oligopoly world."_ [Keith Cowling and Roger Sugden, **Transnational Monopoly
-Capitalism**, p. 20] So while a strictly national picture will show a market
+Capitalism** , p. 20] So while a strictly national picture will show a market
 dominated by, say, four firms, a global view shows us twelve firms instead and
 market power looks much less worrisome. But just as the national market saw a
 increased concentration of firms over time, so will global markets. Over time
@@ -192,9 +192,9 @@ assets of US$ 100.8 billion, which is more than double the GDP of New Zealand
 and three times that of Nigeria, and total sales of US$ 95.2 billion).
 
 Thus the very dynamic of capitalism, the requirements for survival on the
-market, results in the market becoming dominated by Big Business (_"the more
+market, results in the market becoming dominated by Big Business ( _"the more
 competition develops, the more it tends to reduce the number of competitors."_
-[P-J Proudhon, **Op. Cit.**, p. 243]). The irony that competition results in
+[P-J Proudhon, **Op. Cit.** , p. 243]). The irony that competition results in
 its destruction and the replacement of market co-ordination with planned
 allocation of resources is one usually lost on supporters of capitalism.
 
@@ -210,19 +210,19 @@ fourth of 1 percent) held 80.2 percent of total assets. In the service sector
 29,000 large farms (only 1.3% of all farms) accounted for one-third of total
 farm sales and 46% of farm profits. In 1987, the top 50 firms accounted for
 54.4% of the total sales of the **Fortune** 500 largest industrial companies.
-[Richard B. Du Boff, **Accumulation and Power**, p. 171] Between 1982 and
+[Richard B. Du Boff, **Accumulation and Power** , p. 171] Between 1982 and
 1992, the top two hundred corporations increased their share of global Gross
 Domestic Product from 24.2% to 26.8%, _"with the leading ten taking almost
 half the profits of the top two hundred."_ This underestimates economic
 concentration as it _"does not take account of privately owned giants."_
-[Chomsky, **World Orders, Old and New**, p. 181]
+[Chomsky, **World Orders, Old and New** , p. 181]
 
 The process of market domination is reflected by the increasing market share
 of the big companies. In Britain, the top 100 manufacturing companies saw
 their market share rise from 16% in 1909, to 27% in 1949, to 32% in 1958 and
 to 42% by 1975. In terms of net assets, the top 100 industrial and commercial
 companies saw their share of net assets rise from 47% in 1948 to 64% in 1968
-to 80% in 1976 [R.C.O. Matthews (ed.), **Economy and Democracy**, p. 239].
+to 80% in 1976 [R.C.O. Matthews (ed.), **Economy and Democracy** , p. 239].
 Looking wider afield, we find that in 1995 about 50 firms produce about 15
 percent of the manufactured goods in the industrialised world. There are about
 150 firms in the world-wide motor vehicle industry. But the two largest firms,
@@ -246,11 +246,11 @@ Kellogg in 2000. Nabisco is a division of Kraft/Philip Morris and Pepperidge
 Farm is owned by relatively minor player Campbell. Looking at the US airline
 industry, considered the great hope for deregulation in 1978, it has seen the
 six largest companies control of the market rise from 73% in 1978 to 85% in
-1987 (and increasing fares across the board). [_"Unexpected Result of Airline
-Decontrol is Return to Monopolies,"_ **Wall Street Journal**, 20/07/1987] By
+1987 (and increasing fares across the board). [ _"Unexpected Result of Airline
+Decontrol is Return to Monopolies,"_ **Wall Street Journal** , 20/07/1987] By
 1998, the top six’s share had increased by 1% but control was effectively
 higher with three code-sharing alliances now linking all six in pairs.[Amy
-Taub, _"Oligopoly!"_ **Multinational Monitor**, November 1998, p. 9]
+Taub, _"Oligopoly!"_ **Multinational Monitor** , November 1998, p. 9]
 
 This process of concentration is happening in industries historically
 considered arenas of small companies. In the UK, a few big supermarkets are
@@ -258,7 +258,7 @@ driving out small corner shops (the four-firm concentration ratio of the
 supermarket industry is over 70%) while the British brewing industry has a
 staggering 85% ratio. In American, the book industry is being dominated by a
 few big companies, both in production and distribution. A few large
-conglomerates publish most leading titles while a few big chains (Barnes &amp;
+conglomerates publish most leading titles while a few big chains (Barnes &
 Nobles and Borders) have the majority of retail sales. On the internet, Amazon
 dominates the field in competition with the online versions of the larger
 bookshops. This process occurs in market after market. As such, it should be
@@ -267,34 +267,32 @@ the economy. There are exceptions, of course, and small businesses never
 disappear totally but even in many relatively de-centralised and apparently
 small-scale businesses, the trend to consolidation has unmistakable:
 
-> _ "The latest data available show that in the manufacturing sector the four
-largest companies in a given industry controlled an average of 40 percent of
-the industry’s output in 1992, and the top eight had 52 percent. These shares
-were practically unchanged from 1972, but they are two percentage points
-higher than in 1982. Retail trade (department stores, food stores, apparel,
-furniture, building materials and home supplies, eating and drinking places,
-and other retail industries) also showed a jump in market concentration since
-the early 1980s. The top four firms accounted for an average of 16 percent of
-the retail industry’s sales in 1982 and 20 percent in 1992; for the eight
-largest, the average industry share rose from 22 to 28 percent. Some figures
-now available for 1997 suggest that concentration continued to increase during
-the 1990s; of total sales receipts in the overall economy, companies with
-2,500 employees or more took in 47 percent in 1997, compared with 42 percent
-in 1992.  
+> _"The latest data available show that in the manufacturing sector the four
+> largest companies in a given industry controlled an average of 40 percent of
+> the industry’s output in 1992, and the top eight had 52 percent. These
+> shares were practically unchanged from 1972, but they are two percentage
+> points higher than in 1982. Retail trade (department stores, food stores,
+> apparel, furniture, building materials and home supplies, eating and
+> drinking places, and other retail industries) also showed a jump in market
+> concentration since the early 1980s. The top four firms accounted for an
+> average of 16 percent of the retail industry’s sales in 1982 and 20 percent
+> in 1992; for the eight largest, the average industry share rose from 22 to
+> 28 percent. Some figures now available for 1997 suggest that concentration
+> continued to increase during the 1990s; of total sales receipts in the
+> overall economy, companies with 2,500 employees or more took in 47 percent
+> in 1997, compared with 42 percent in 1992.  
 >  _
-
 >
-
 > _"In the financial sector, the number of commercial banks fell 30 percent
-between 1990 and 1999, while the ten largest were increasing their share of
-loans and other industry assets from 26 to 45 percent. It is well established
-that other sectors, including agriculture and telecommunications, have also
-become more concentrated in the 1980s and 1990s. The overall rise in
-concentration has not been great-although the new wave may yet make a major
-mark-but the upward drift has taken place from a starting point of highly
-concentrated economic power across the economy."_ [Richard B. Du Boff and
-Edward S. Herman, _"Mergers, Concentration, and the Erosion of Democracy"_,
-**Monthly Review**, May 2001]
+> between 1990 and 1999, while the ten largest were increasing their share of
+> loans and other industry assets from 26 to 45 percent. It is well
+> established that other sectors, including agriculture and
+> telecommunications, have also become more concentrated in the 1980s and
+> 1990s. The overall rise in concentration has not been great-although the new
+> wave may yet make a major mark-but the upward drift has taken place from a
+> starting point of highly concentrated economic power across the economy."_
+> [Richard B. Du Boff and Edward S. Herman, _"Mergers, Concentration, and the
+> Erosion of Democracy"_ , **Monthly Review** , May 2001]
 
 So, looking at the **Fortune** 500, even the 500th firm is massive (with sales
 of around $3 billion). The top 100 firms usually have sales significantly
@@ -376,7 +374,7 @@ For a start, these "excessive" profits will tend to end up in few hands, so
 skewing the income distribution (and so power and influence) within society.
 The available evidence suggests that _"more concentrated industries generate a
 lower wage share for workers"_ in a firm's value-added. [Keith Cowling,
-**Monopoly Capitalism**, p. 106] The largest firms retain only 52% of their
+**Monopoly Capitalism** , p. 106] The largest firms retain only 52% of their
 profits, the rest is paid out as dividends, compared to 79% for the smallest
 ones and _"what might be called rentiers share of the corporate surplus -
 dividends plus interest as a percentage of pretax profits and interest - has
@@ -384,13 +382,13 @@ risen sharply, from 20-30% in the 1950s to 60-70% in the early 1990s."_ The
 top 10% of the US population own well over 80% of stock and bonds owned by
 individuals while the top 5% of stockowners own 94.5% of all stock held by
 individuals. Little wonder wealth has become so concentrated since the 1970s
-[Doug Henwood, **Wall Street**, p. 75, p. 73 and pp. 66-67]. At its most
+[Doug Henwood, **Wall Street** , p. 75, p. 73 and pp. 66-67]. At its most
 basic, this skewing of income provides the capitalist class with more
 resources to fight the class war but its impact goes much wider than this.
 
 Moreover, the _"level of aggregate concentration helps to indicate the degree
 of centralisation of decision-making in the economy and the economic power of
-large firms."_ [Malcolm C. Sawyer, **Op. Cit.**, p. 261] Thus oligopoly
+large firms."_ [Malcolm C. Sawyer, **Op. Cit.** , p. 261] Thus oligopoly
 increases and centralises economic power over investment decisions and
 location decisions which can be used to play one region/country and/or
 workforce against another to lower wages and conditions for all (or, equally
@@ -428,7 +426,7 @@ investment will serve to hold down wages and raise the level of effort
 [required from workers] . . . [and] may also be able to gain the co-operation
 of the state in securing the appropriate environment . . . [for] a
 redistribution towards profits"_ in value/added and national income. [Keith
-Cowling and Roger Sugden, **Transnational Monopoly Capitalism**, p. 99]
+Cowling and Roger Sugden, **Transnational Monopoly Capitalism** , p. 99]
 
 Since the market price of commodities produced by oligopolies is determined by
 a mark-up over costs, this means that they contribute to inflation as they
@@ -451,7 +449,7 @@ working class needs (by outbidding others for resources and having firms
 produce goods for elite markets while others go without). The empirical
 evidence presented by Keith Cowling _"points to the conclusion that a
 redistribution from wages to profits will have a depressive impact on
-consumption"_ which may cause depression. [**Op. Cit.**, p. 51] High profits
+consumption"_ which may cause depression. [ **Op. Cit.** , p. 51] High profits
 also means that more can be retained by the firm to fund investment (or pay
 high level managers more salaries or increase dividends, of course). When
 capital expands faster than labour income over-investment is an increasing
@@ -487,7 +485,7 @@ returns were made on the watered stock . . . Another such case was Ford. The
 company survived the 1930s only because of cash reserves stocked away in its
 glory days. 'Ford provides an excellent illustration of the fact that a really
 large business organisation can withstand a surprising amount of
-mismanagement.'"_ [**Accumulation and Power**, p. 174]
+mismanagement.'"_ [ **Accumulation and Power** , p. 174]
 
 This means that the market power which bigness generates can counteract the
 costs of size, in terms of the bureaucratic administration it generates and
@@ -528,13 +526,13 @@ Here we indicate the impact of Big Business on economic theory itself and wage
 labour. In the words of Michal Kalecki, perfect competition is "a most
 unrealistic assumption" and _"when its actual status of a handy model is
 forgotten becomes a dangerous myth."_ [quoted by Malcolm C. Sawyer, **The
-Economics of Michal Kalecki**, p. 8] Unfortunately mainstream capitalist
+Economics of Michal Kalecki** , p. 8] Unfortunately mainstream capitalist
 economics is **built** on this myth. Ironically, it was against a _"background
 [of rising Big Business in the 1890s] that the grip of marginal economics, an
 imaginary world of many small firms. . . was consolidated in the economics
 profession."_ Thus, _"[a]lmost from its conception, the theoretical postulates
 of marginal economics concerning the nature of companies [and of markets, we
-must add] have been a travesty of reality."_ [Paul Ormerod, **Op. Cit.**, pp.
+must add] have been a travesty of reality."_ [Paul Ormerod, **Op. Cit.** , pp.
 55-56]
 
 This can be seen from the fact that mainstream economics has, for most of its
@@ -544,11 +542,11 @@ cannot exist and is rarely, if ever, approximated) and developed an analysis
 of monopoly (which is also rare). Significantly, an economist could still note
 in 1984 that _"traditional economy theory . . . offers very little indeed by
 way of explanation of oligopolistic behaviour"_ in spite (or, perhaps,
-**because**) it was _"the most important market situation today"_ (as
-_"instances of monopoly"_ are _"as difficult to find as perfect
-competition."_). In other words, capitalist economics does _"not know how to
-explain the most important part of a modern industrial economy."_ [Peter
-Donaldson, **Economics of the Real World** p. 141, p. 140 and p. 142]
+**because** ) it was _"the most important market situation today"_ (as
+_"instances of monopoly"_ are _"as difficult to find as perfect competition."_
+). In other words, capitalist economics does _"not know how to explain the
+most important part of a modern industrial economy."_ [Peter Donaldson,
+**Economics of the Real World** p. 141, p. 140 and p. 142]
 
 Over two decades later, the situation had not changed. For example, one
 leading introduction to economics notes _"the prevalence of oligopoly"_ and
@@ -562,7 +560,7 @@ not work as well as we might hope."_ Rest assured, though, there is not need
 to reconsider the _"usual way"_ of economic analysis to allow it to analyse
 something as marginal as the most common market form for, by luck, _"the
 industry behaves 'almost' as if it were perfectly competitive."_ [Paul Krugman
-and Robin Wells, **Economics**, p. 383, p. 365 and p. 383] Which is handy, to
+and Robin Wells, **Economics** , p. 383, p. 365 and p. 383] Which is handy, to
 say the least.
 
 Given that oligopoly has marked capitalist economics since, at least, the
@@ -607,8 +605,8 @@ individual firm and the market level aspects of perfect competition are
 inconsistent"_ and the apparent benefits of competition in the model are
 derived from _"a mathematical error of confusing a very small quantity with
 zero."_ While _"there are plenty of good reasons to be wary of monopolies . .
-. economic theory does not provide any of them."_ [**Debunking Economics**, p.
-108, p. 101, p. 99, p. 98 and p. 107]
+. economic theory does not provide any of them."_ [ **Debunking Economics** ,
+p. 108, p. 101, p. 99, p. 98 and p. 107]
 
 This is not to say that economists have ignored oligopoly. Some have busied
 themselves providing rationales by which to defend it, rooted in the
@@ -618,14 +616,14 @@ mergers might reduce prices even more than monopoly power would cause them to
 rise. Economists also stressed 'entry,' claiming that if mergers did not
 improve efficiency any price increases would be wiped out eventually by new
 companies entering the industry. Entry is also the heart of the theory of
-'contestable markets,' developed by economic consultants to AT&amp;T, who
-argued that the ease of entry in cases where resources (trucks, aircraft) can
-be shifted quickly at low cost, makes for effective competition."_ By pure co-
-incidence, AT&amp;T had hired economic consultants as part of their hundreds
-of millions of dollars antitrust defences, in fact some 30 economists from
-five leading economics departments during the 1970s and early 1980s. [Edward
-S. Herman, _"The Threat From Mergers: Can Antitrust Make a Difference?"_,
-**Dollars and Sense**, no. 217, May/June 1998]
+'contestable markets,' developed by economic consultants to AT &T, who argued
+that the ease of entry in cases where resources (trucks, aircraft) can be
+shifted quickly at low cost, makes for effective competition."_ By pure co-
+incidence, AT&T had hired economic consultants as part of their hundreds of
+millions of dollars antitrust defences, in fact some 30 economists from five
+leading economics departments during the 1970s and early 1980s. [Edward S.
+Herman, _"The Threat From Mergers: Can Antitrust Make a Difference?"_ ,
+**Dollars and Sense** , no. 217, May/June 1998]
 
 Needless to say, these new "theories" are rooted in the same assumptions of
 neo-classical economists and, as such, are based on notions we have already
@@ -646,7 +644,7 @@ profits generated by big business is, of course, purely a co-incidence as
 these "scientists" act "as if" they were neutrally funded). In Herman's words:
 _"Despite their inadequacies, the new apologetic theories have profoundly
 affected policy, because they provide an intellectual rationale for the agenda
-of the powerful."_ [**Op. Cit.**]
+of the powerful."_ [ **Op. Cit.** ]
 
 It may be argued (and it has) that the lack of interest in analysing a real
 economy by economists is because oligopolistic competition is hard to model
@@ -699,17 +697,17 @@ start their own co-operatives. Thus, looking at the **reality** of capitalism
 helps to maintain wage labour by restricting the options available on the
 "free market" for working people. Chomsky states the obvious:
 
-> _ "If you had equality of power, you could talk about freedom, but when all
-the power is concentrated in one place, then freedom's a joke. People talk
-about a 'free market.' Sure. You and I are perfectly free to set up an
-automobile company and compete with General Motors. Nobody's stopping us. That
-freedom is meaningless . . . It's just that power happens to be organised so
-that only certain options are available. Within that limited range of options,
-those who have the power say, 'Let's have freedom.' That's a very skewed form
-of freedom. The principle is right. How freedom works depends on what the
-social structures are. If the freedoms are such that the only choices you have
-objectively are to conform to one or another system of power, there's no
-freedom."_ [**Language and Politics**, pp. 641-2]
+> _"If you had equality of power, you could talk about freedom, but when all
+> the power is concentrated in one place, then freedom's a joke. People talk
+> about a 'free market.' Sure. You and I are perfectly free to set up an
+> automobile company and compete with General Motors. Nobody's stopping us.
+> That freedom is meaningless . . . It's just that power happens to be
+> organised so that only certain options are available. Within that limited
+> range of options, those who have the power say, 'Let's have freedom.' That's
+> a very skewed form of freedom. The principle is right. How freedom works
+> depends on what the social structures are. If the freedoms are such that the
+> only choices you have objectively are to conform to one or another system of
+> power, there's no freedom."_ [ **Language and Politics** , pp. 641-2]
 
 As we noted in [section C.4](secC4.md), those with little capital are
 reduced to markets with low set-up costs and low concentration. Thus, claim
@@ -723,7 +721,7 @@ However, similar predictions were made over 100 years ago when the electric
 motor began to replace the steam engine in factories. _"The new technologies
 [of the 1870s] may have been compatible with small production units and
 decentralised operations. . . That. . . expectation was not fulfilled."_
-[Richard B. Du Boff, **Op. Cit.**, p. 65] From the history of capitalism, we
+[Richard B. Du Boff, **Op. Cit.** , p. 65] From the history of capitalism, we
 imagine that markets associated with new technologies will go the same way
 (and the evidence seems to support this).
 
@@ -758,7 +756,7 @@ available options -- the options available have been skewed so far in one
 direction that the other alternatives have been marginalised.
 
 [‹ C.3 What determines the distribution between labour and
-capital?](secC3.md "Go to previous page" ) [up](secCcon.md "Go to parent
-page" ) [C.5 Why does Big Business get a bigger slice of profits?
-›](secC5.md "Go to next page" )
+capital?](secC3.md "Go to previous page") [up](secCcon.md "Go to parent
+page") [C.5 Why does Big Business get a bigger slice of profits? ›](secC5.md
+"Go to next page")
 

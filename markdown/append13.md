@@ -1,10 +1,6 @@
 # Appendix -- Is "anarcho"-capitalism a type of anarchism?
 
-
-
 ## [Introduction](append13int.md)
-
-
 
 ## [1 Are "anarcho"-capitalists really anarchists?](append131.md)
 
@@ -56,16 +52,10 @@ property?](append134.md#secf41)
 [4.5 Does private property co-ordinate without
 hierarchy?](append134.md#secf45)
 
-
-
 ## [5 Will privatising "the commons" increase liberty?  
 ](append135.md)
 
-
-
 ## [6 Is "anarcho" capitalism against the state?](append136.md)
-
-
 
 ### [6.1 What's wrong with this "free market" justice?](append136.md#secf61)  
 [6.2 What are the social consequences of such a
@@ -76,23 +66,15 @@ rich?](append136.md#secf63)
 [6.5 What other effects would "free market" justice
 have?](append136.md#secf65)
 
-
-
 ## [7 How does the history of "anarcho"-capitalism show that it is not
 anarchist?](append137.md)
-
-
 
 ### [7.1 Are competing governments anarchism?](append137.md#secf71)  
 [7.2 Is government compatible with anarchism?](append137.md#secf72)  
 [7.3 Can there be a "right-wing" anarchism?](append137.md#secf73)
 
-
-
 ## [8 What role did the state take in the creation of
 capitalism?](append138.md)
-
-
 
 ### [8.1 What social forces lay behind the rise of
 capitalism?](append138.md#secf81)  
@@ -110,22 +92,14 @@ capitalism?](append138.md#secf86)
 ## [9 Is Medieval Iceland an example of "anarcho"-capitalism working in
 practice?](append139.md)
 
-
-
 ## [10 Would laissez-faire capitalism be stable?](append1310.md)
-
-
 
 ### [10.1 Would privatising banking make capitalism
 stable?](append1310.md#secf101)  
 [10.2 How does the labour market effect capitalism?](append1310.md#secf102)  
 [10.3 Was laissez-faire capitalism stable?](append1310.md#secf103)
 
-
-
 ## [11 What is the myth of "Natural Law"?](append1311.md)
-
-
 
 ### [11.1 Why "Natural Law" in the first place?](append1311.md#secf111)  
 [11.2 But "Natural Law" provides protection for individual rights from
@@ -137,8 +111,6 @@ liberty?](append1311.md#secf114)
 [11.5 But Natural Law was discovered, not invented!](append1311.md#secf115)  
 [11.6 Why is the notion of "discovery"
 contradictory?](append1311.md#secf116)
-
-
 
   * [0 Introduction](append13int.md)
   * [1 Are "anarcho"-capitalists really anarchists?](append131.md)
@@ -154,6 +126,6 @@ contradictory?](append1311.md#secf116)
   * [11 What is the myth of "Natural Law"?](append1311.md)
 
 [‹ Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory
-FAQ" version 4.1.1](append12.md "Go to previous page" ) [up](append1.md
-"Go to parent page" ) [0 Introduction ›](append13int.md "Go to next page" )
+FAQ" version 4.1.1](append12.md "Go to previous page") [up](append1.md "Go
+to parent page") [0 Introduction ›](append13int.md "Go to next page")
 

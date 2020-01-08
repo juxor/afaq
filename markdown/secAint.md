@@ -19,7 +19,7 @@ or all of the above.
 
 Anarchism offers a unified and coherent way of making sense of these crises,
 by tracing them to a common source. This source is the principle of
-**hierarchical authority**, which underlies the major institutions of all
+**hierarchical authority** , which underlies the major institutions of all
 "civilised" societies, whether capitalist or "communist." Anarchist analysis
 therefore starts from the fact that all of our major institutions are in the
 form of hierarchies, i.e. organisations that concentrate power at the top of a
@@ -27,7 +27,7 @@ pyramidal structure, such as corporations, government bureaucracies, armies,
 political parties, religious organisations, universities, etc. It then goes on
 to show how the authoritarian relations inherent in such hierarchies
 negatively affect individuals, their society, and culture. In the first part
-of this FAQ (**sections A to E**) we will present the anarchist analysis of
+of this FAQ ( **sections A to E** ) we will present the anarchist analysis of
 hierarchical authority and its negative effects in greater detail.
 
 It should not be thought, however, that anarchism is just a critique of modern
@@ -36,30 +36,30 @@ that. For one thing, it is also a proposal for a free society. Emma Goldman
 expressed what might be called the "anarchist question" as follows: _"The
 problem that confronts us today. . . is how to be one's self and yet in
 oneness with others, to feel deeply with all human beings and still retain
-one's own characteristic qualities."_ [**Red Emma Speaks**, pp. 158-159] In
+one's own characteristic qualities."_ [ **Red Emma Speaks** , pp. 158-159] In
 other words, how can we create a society in which the potential for each
 individual is realised but not at the expense of others? In order to achieve
 this, anarchists envision a society in which, instead of being controlled
 **_"from the top down"_** through hierarchical structures of centralised
 power, the affairs of humanity will, to quote Benjamin Tucker, _"be managed by
-individuals or voluntary associations."_ [**Anarchist Reader**, p. 149] While
-later sections of the FAQ (**sections I and J**) will describe anarchism's
-positive proposals for organising society in this way, "from the bottom up,"
-some of the constructive core of anarchism will be seen even in the earlier
-sections. The positive core of anarchism can even be seen in the anarchist
-critique of such flawed solutions to the social question as Marxism and right-
-wing "libertarianism" (**sections F and H**, respectively).
+individuals or voluntary associations."_ [ **Anarchist Reader** , p. 149]
+While later sections of the FAQ ( **sections I and J** ) will describe
+anarchism's positive proposals for organising society in this way, "from the
+bottom up," some of the constructive core of anarchism will be seen even in
+the earlier sections. The positive core of anarchism can even be seen in the
+anarchist critique of such flawed solutions to the social question as Marxism
+and right-wing "libertarianism" ( **sections F and H** , respectively).
 
 As Clifford Harper elegantly puts it, _"[l]ike all great ideas, anarchism is
 pretty simple when you get down to it -- human beings are at their best when
 they are living free of authority, deciding things among themselves rather
-than being ordered about."_ [**Anarchy: A Graphic Guide**, p. vii] Due to
+than being ordered about."_ [ **Anarchy: A Graphic Guide** , p. vii] Due to
 their desire to maximise individual and therefore social freedom, anarchists
 wish to dismantle all institutions that repress people:
 
 > _"Common to all Anarchists is the desire to free society of all political
-and social coercive institutions which stand in the way of the development of
-a free humanity."_ [Rudolf Rocker, **Anarcho-Syndicalism**, p. 9]
+> and social coercive institutions which stand in the way of the development
+> of a free humanity."_ [Rudolf Rocker, **Anarcho-Syndicalism** , p. 9]
 
 As we'll see, all such institutions are hierarchies, and their repressive
 nature stems directly from their hierarchical form.
@@ -80,10 +80,10 @@ doctrine, a doctrine that usually serves the interest of some ruling elite.
 Or, as Michael Bakunin puts it:
 
 > _"Until now all human history has been only a perpetual and bloody
-immolation of millions of poor human beings in honour of some pitiless
-abstraction -- God, country, power of state, national honour, historical
-rights, judicial rights, political liberty, public welfare."_ [**God and the
-State**, p. 59]
+> immolation of millions of poor human beings in honour of some pitiless
+> abstraction -- God, country, power of state, national honour, historical
+> rights, judicial rights, political liberty, public welfare."_ [ **God and
+> the State** , p. 59]
 
 Dogmas are static and deathlike in their rigidity, often the work of some dead
 "prophet," religious or secular, whose followers erect his or her ideas into
@@ -106,10 +106,10 @@ people. "Reasonable" people uncritically accept what the "experts" and
 Anarchists know that, as Bakunin wrote:
 
 > _"[a] person is strong only when he stands upon his own truth, when he
-speaks and acts from his deepest convictions. Then, whatever the situation he
-may be in, he always knows what he must say and do. He may fall, but he cannot
-bring shame upon himself or his causes."_ [quoted in Albert Meltzer, **I
-couldn't Paint Golden Angels**, p. 2]
+> speaks and acts from his deepest convictions. Then, whatever the situation
+> he may be in, he always knows what he must say and do. He may fall, but he
+> cannot bring shame upon himself or his causes."_ [quoted in Albert Meltzer,
+> **I couldn't Paint Golden Angels** , p. 2]
 
 What Bakunin describes is the power of independent thought, which is the power
 of freedom. We encourage you not to be "reasonable," not to accept what others
@@ -123,7 +123,7 @@ topics based on how we understand and apply these ideas. We are sure, however,
 that all anarchists will agree with the core ideas we present, even if they
 may disagree with our application of them here and there.
 
-[‹ Section A - What is Anarchism?](secAcon.md "Go to previous page" )
-[up](secAcon.md "Go to parent page" ) [A.1 What is anarchism? ›](secA1.md
-"Go to next page" )
+[‹ Section A - What is Anarchism?](secAcon.md "Go to previous page")
+[up](secAcon.md "Go to parent page") [A.1 What is anarchism? ›](secA1.md
+"Go to next page")
 

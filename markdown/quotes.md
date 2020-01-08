@@ -12,7 +12,7 @@ information about anarchist theory and history . . . . It is
 accessible, not laden with jargon but also built on ten years  
 and more of solid research . . . The structure of the book is  
 such that it is easy to dip into . . . this [is a] comprehensive  
-resource. The prefix to the book is '_An'_ Anarchist FAQ. The  
+resource. The prefix to the book is ' _An'_ Anarchist FAQ. The  
 collective is too modest. This is _the_ place to go to find  
 out about anarchist ides, theory and practice. It is accessible  
 and based on sound research. Thoroughly recommended."_  
@@ -21,21 +21,21 @@ and based on sound research. Thoroughly recommended."_
 _"the primary source of information about anarchism on the  
 world wide web . . . a foundation stone for laying down the idea  
 of anarchism as the viable alternative that we should work towards  
-achieving."_ (_"Workers Solidarity"_, **Workers Solidarity  
+achieving."_ ( _"Workers Solidarity"_ , **Workers Solidarity  
 Movement**)
 
 _"this invaluable resource is highly recommended for anyone  
 wishing to delve further or gain a better understanding of anarchism  
 as a practice, living, socially relevant ideology."_  
-(_"Direct Action"_, **Solidarity Federation**)
+( _"Direct Action"_ , **Solidarity Federation** )
 
 _"The anarchist FAQ has been one of the standout achievements of  
 the last decade in terms of its rigorous treatment of every aspect of  
 the theory. Its translation from screen to print is long overdue."_  
-(**Freedom**)
+( **Freedom** )
 
 _"the most comprehensive resource available . . . for a discussion  
-on anarchism is An Anarchist FAQ"_ (Flint Jones, **NEFAC**)
+on anarchism is An Anarchist FAQ"_ (Flint Jones, **NEFAC** )
 
 _"The Anarchist FAQ collective are to be congratulated on producing  
 this excellent book. Always intended to be used by anarchists as an  
@@ -55,7 +55,7 @@ Anarchist Movement, 1917-1945**)
 
 _"Thanks for a fabulous job on this. What an amazing project! . . . All  
 best wishes to all of you, and again, congratulations on a excellent work."_  
-(Mark Leier, author of **Bakunin: The Creative Passion**)
+(Mark Leier, author of **Bakunin: The Creative Passion** )
 
 _"monumental and essential FAQ dedicated to anarchism"_  
 (Norman Baillargeon, **L'order moins le pouvoir: Histoire et  
@@ -79,6 +79,6 @@ who wish to defend anarchism."_ (John Couzin, anarchist from Glasgow)
   
 
 [‹ An Anarchist FAQ: Introduction to Volume 2](vol2intro.md "Go to previous
-page" ) [up](intro.md "Go to parent page" ) [An Anarchist FAQ Webpage
-Contacts ›](contact.md "Go to next page" )
+page") [up](intro.md "Go to parent page") [An Anarchist FAQ Webpage Contacts
+›](contact.md "Go to next page")
 

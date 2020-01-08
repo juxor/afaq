@@ -12,12 +12,13 @@ libertarian is still essentially used as an equivalent of anarchist and as a
 shortened version of libertarian socialist. As Noam Chomsky notes:
 
 > _"Let me just say regarding the terminology, since we happen to be in the
-United States, we have to be rather careful. Libertarian in the United States
-has a meaning which is almost the opposite of what it has in the rest of the
-world traditionally. Here, libertarian means ultra right-wing capitalist. In
-the European tradition, libertarian meant socialist. So, anarchism was
-sometimes called libertarian socialism, a large wing of anarchism, so we have
-to be a little careful about terminology."_ [**Reluctant Icon**]
+> United States, we have to be rather careful. Libertarian in the United
+> States has a meaning which is almost the opposite of what it has in the rest
+> of the world traditionally. Here, libertarian means ultra right-wing
+> capitalist. In the European tradition, libertarian meant socialist. So,
+> anarchism was sometimes called libertarian socialism, a large wing of
+> anarchism, so we have to be a little careful about terminology."_ [
+> **Reluctant Icon** ]
 
 This in itself does not prove that the term libertarian socialist is free of
 contradiction. However, as we will show below, the claim that the term is
@@ -35,12 +36,12 @@ that socialism equals Leninism or Marxism and ignore the rich and diverse
 history of socialist ideas, ideas that spread from communist and
 individualist-anarchism to Leninism. As Benjamin Tucker once noted, _"the fact
 that State Socialism . . . has overshadowed other forms of Socialism gives it
-no right to a monopoly of the Socialistic idea."_ [**Instead of a Book**, pp.
-363-4] Unfortunately, many on the left combine with the right to do exactly
-that. Indeed, the right (and, of course, many on the left) consider that, by
-definition, "socialism" **is** state ownership and control of the means of
-production, along with centrally planned determination of the national economy
-(and so social life).
+no right to a monopoly of the Socialistic idea."_ [ **Instead of a Book** ,
+pp. 363-4] Unfortunately, many on the left combine with the right to do
+exactly that. Indeed, the right (and, of course, many on the left) consider
+that, by definition, "socialism" **is** state ownership and control of the
+means of production, along with centrally planned determination of the
+national economy (and so social life).
 
 Yet even a quick glance at the history of the socialist movement indicates
 that the identification of socialism with state ownership and control is not
@@ -74,10 +75,10 @@ Such a situation cannot but be encouraged by socialism, by free access to the
 means of life. This is because in such a situation people associate as equals
 and so, as John Most and Emma Goldman once argued, the _"system of communism
 logically excludes any and every relation between master and servant, and
-means really Anarchism."_ [_"Talking about Anarchy"_, p. 28, **Black Flag**,
-no. 228, p. 28] In other words, by basing itself on free association and self-
-management in every aspect of life the anarchist form of socialism cannot but
-be libertarian.
+means really Anarchism."_ [ _"Talking about Anarchy"_ , p. 28, **Black Flag**
+, no. 228, p. 28] In other words, by basing itself on free association and
+self-management in every aspect of life the anarchist form of socialism cannot
+but be libertarian.
 
 In other words, there is a reason why anarchists have used the term
 libertarian for over 150 years! More to the point, why assume that the right's
@@ -89,25 +90,25 @@ distinct socio-political theory, is wrong. As we discussed earlier (see
 and action within the workplace (unless one is the boss, of course). As one
 staunch defender of capitalism (and a classical liberal often listed as a
 forefather of right-wing "libertarianism") glibly noted, the capitalist _"of
-course exercises power over the workers"_, although _"he cannot exercise it
+course exercises power over the workers"_ , although _"he cannot exercise it
 arbitrarily"_ thanks to the market but within this limit _"the entrepreneur is
 free to give full rein to his whims"_ and _"to dismiss workers offhand."_
-[Ludwig von Mises, **Socialism**, p. 443 and p. 444] Right-wing "libertarians"
-are utterly blind to the liberty-destroying hierarchies associated with
-private property, perhaps unsurprisingly as they are fundamentally pro-
-capitalist and anti-socialist (equally unsurprisingly, genuine libertarians
-tend to call them "propertarians"). As left-wing economist Geoffrey M. Hodgson
-correctly notes:
+[Ludwig von Mises, **Socialism** , p. 443 and p. 444] Right-wing
+"libertarians" are utterly blind to the liberty-destroying hierarchies
+associated with private property, perhaps unsurprisingly as they are
+fundamentally pro-capitalist and anti-socialist (equally unsurprisingly,
+genuine libertarians tend to call them "propertarians"). As left-wing
+economist Geoffrey M. Hodgson correctly notes:
 
 > _"By their own logic, [such] market individualists are forced to disregard
-the organisational structure of the firm, or to falsely imagine that markets
-exist inside it. To do otherwise would be to admit that a system as dynamic as
-capitalism depends upon a mode of organisation from which markets are excluded
-. . . This . . . allows market individualists to ignore the reality of non-
-market organisations in the private sector . . . They can thus ignore the
-reality of control and authority within the private capitalist corporation but
-remain critical of public sector bureaucracy and state planning."_
-[**Economics and Utopia**, pp. 85-6]
+> the organisational structure of the firm, or to falsely imagine that markets
+> exist inside it. To do otherwise would be to admit that a system as dynamic
+> as capitalism depends upon a mode of organisation from which markets are
+> excluded . . . This . . . allows market individualists to ignore the reality
+> of non-market organisations in the private sector . . . They can thus ignore
+> the reality of control and authority within the private capitalist
+> corporation but remain critical of public sector bureaucracy and state
+> planning."_ [ **Economics and Utopia** , pp. 85-6]
 
 The propertarian perspective inevitably generates massive contradictions, such
 as admitting that both the state and private property share a common monopoly
@@ -118,42 +119,43 @@ do with individual liberty. Removing the state but keeping private property
 would, therefore, not be a step forward: _"A fine business we would make if we
 destroyed the State and replaced it with a mass of little States! killing a
 monster with one head and keeping a monster with a thousand heads!"_ [Carlo
-Cafiero, _"Anarchy and Communism"_, pp. 179-86, **The Raven**, No. 6, p. 181]
+Cafiero, _"Anarchy and Communism"_ , pp. 179-86, **The Raven** , No. 6, p.
+181]
 
 This is why we argue that anarchism is more than just a stateless society, for
 while a society without a state is a necessary condition for anarchy it is not
 sufficient -- private hierarchies also limit freedom. Hence Chomsky:
 
 > _"It's all generally based on the idea that hierarchic and authoritarian
-structures are not self-justifying. They have to have a justification . . .
-For example, your workplace is one point of contact and association. So,
-workplaces ought to be democratically controlled by participants . . . there
-are all kinds of ways in which people interact with one another. The forms of
-organisation and association that grow out of those should be, to the extent
-possible, non-authoritarian, non-hierarchic, managed and directed by the
-participants."_ [**Reluctant Icon**]
+> structures are not self-justifying. They have to have a justification . . .
+> For example, your workplace is one point of contact and association. So,
+> workplaces ought to be democratically controlled by participants . . . there
+> are all kinds of ways in which people interact with one another. The forms
+> of organisation and association that grow out of those should be, to the
+> extent possible, non-authoritarian, non-hierarchic, managed and directed by
+> the participants."_ [ **Reluctant Icon** ]
 
 Therefore, anarchists argue, **real** libertarian ideas **must** be based on
 workers self-management, i.e. workers must control and manage the work they
 do, determining where and how they do it and what happens to the fruit of
 their labour, which in turn means the elimination of wage labour. Or, to use
-Proudhon's words, the _"abolition of the proletariat."_ [**Selected Writings
-of Pierre-Joseph Proudhon**, p. 179] Unless this is done then the majority of
+Proudhon's words, the _"abolition of the proletariat."_ [ **Selected Writings
+of Pierre-Joseph Proudhon** , p. 179] Unless this is done then the majority of
 people will become subject to the authoritarian social relationships the likes
 of Mises and other right-wing "libertarians" support. As one communist-
 anarchist put it:
 
 > _"It is because the individual does not own himself, and is not permitted to
-be his true self. He has become a mere market commodity, an instrument for the
-accumulation of property -- for others . . . Individuality is stretched on the
-Procrustes bed of business . . . If our individuality were to be made the
-price of breathing, what ado there would be about the violence done to the
-personality! And yet our very right to food, drink and shelter is only too
-often conditioned upon our loss of individuality. These things are granted to
-the propertyless millions (and how scantily!) only in exchange for their
-individuality -- they become the mere instruments of industry."_ [Max
-Baginski, _"Stirner: The Ego and His Own"_, pp. 142-151, **Mother Earth**,
-Vol. II, No. 3, p. 150]
+> be his true self. He has become a mere market commodity, an instrument for
+> the accumulation of property -- for others . . . Individuality is stretched
+> on the Procrustes bed of business . . . If our individuality were to be made
+> the price of breathing, what ado there would be about the violence done to
+> the personality! And yet our very right to food, drink and shelter is only
+> too often conditioned upon our loss of individuality. These things are
+> granted to the propertyless millions (and how scantily!) only in exchange
+> for their individuality -- they become the mere instruments of industry."_
+> [Max Baginski, _"Stirner: The Ego and His Own"_ , pp. 142-151, **Mother
+> Earth** , Vol. II, No. 3, p. 150]
 
 Socialism, anarchists argue, can only mean a classless and anti-authoritarian
 (i.e. libertarian) society in which people manage their own affairs, either as
@@ -169,7 +171,7 @@ opposition to the phoney "individualism" associated with classical liberalism
 (so-called right-wing "libertarian" ideology, although better termed
 "propertarian" to avoid confusion). Thus we find Emma Goldman dismissing
 _"this kind of individualism"_ in _"whose name . . . social oppression are
-defended and held up as virtues."_ [**Red Emma Speaks**, p. 112]
+defended and held up as virtues."_ [ **Red Emma Speaks** , p. 112]
 
 As we will discuss in [section I.3.3](secI3.md#seci33), socialisation is
 advocated to ensure the elimination of wage labour and is a common theme of
@@ -187,10 +189,10 @@ parties which advocate nationalisation socialist).
 
 Indeed, attempts to associate socialism with the state misunderstands the
 nature of socialism. It is an essential principle of socialism that (social)
-inequalities between individuals must be abolished to ensure liberty for all
-(**natural** inequalities cannot be abolished, nor do anarchists desire to do
-so). Socialism, as Proudhon put it, _"is egalitarian above all else."_ [**No
-Gods, No Masters**, vol. 1, p. 57] This applies to inequalities of power as
+inequalities between individuals must be abolished to ensure liberty for all (
+**natural** inequalities cannot be abolished, nor do anarchists desire to do
+so). Socialism, as Proudhon put it, _"is egalitarian above all else."_ [ **No
+Gods, No Masters** , vol. 1, p. 57] This applies to inequalities of power as
 well, especially to **political** power. And any hierarchical system
 (particularly the state) is marked by inequalities of power -- those at the
 top (elected or not) have more power than those at the bottom. Hence the
@@ -198,19 +200,19 @@ following comments provoked by the expulsion of anarchists from the social
 democratic Second International:
 
 > _"It could be argued with much more reason that we are the most logical and
-most complete socialists, since we demand for every person not just his [or
-her] entire measure of the wealth of society but also his [or her] portion of
-social power, which is to say, the real ability to make his [or her] influence
-felt, along with that of everybody else, in the administration of public
-affairs."_ [Malatesta and Hamon, **Op. Cit.**, vol. 2, p. 20]
+> most complete socialists, since we demand for every person not just his [or
+> her] entire measure of the wealth of society but also his [or her] portion
+> of social power, which is to say, the real ability to make his [or her]
+> influence felt, along with that of everybody else, in the administration of
+> public affairs."_ [Malatesta and Hamon, **Op. Cit.** , vol. 2, p. 20]
 
 The election of someone to administer public affairs **for you** is not having
 a portion of social power. It is, to use the words of leading French anarcho-
 syndicalist Emile Pouget, _"an act of abdication,"_ the delegating of power
-into the hands of a few. [**Op. Cit.**, p. 67] This means that _"**[a]ll
+into the hands of a few. [ **Op. Cit.** , p. 67] This means that _" **[a]ll
 political power inevitably creates a privileged situation** for the men who
 exercise it. Thus it violates, from the beginning, the equalitarian
-principle."_ [Voline, **The Unknown Revolution**, p. 249]
+principle."_ [Voline, **The Unknown Revolution** , p. 249]
 
 From this short discussion we see the links between libertarian and socialism.
 To be a true libertarian requires you to support workers' control otherwise
@@ -277,8 +279,8 @@ socialism, libertarian ideals imply socialist ones, and vice versa. As Bakunin
 put it in 1867:
 
 > _"We are convinced that freedom without Socialism is privilege and
-injustice, and that Socialism without freedom is slavery and brutality."_
-[**Bakunin on Anarchism**, p. 127]
+> injustice, and that Socialism without freedom is slavery and brutality."_ [
+> **Bakunin on Anarchism** , p. 127]
 
 History has proven him correct. Rather than libertarian socialism being the
 oxymoron, it is state socialism and libertarian capitalism that are. Both
@@ -296,24 +298,25 @@ for production goods, it is impossible to determine their values. Without
 knowing their values, economic rationality is impossible and so a socialist
 economy would simply be chaos: _"the absurd output of a senseless apparatus."_
 For Mises, socialism meant central planning with the economy _"subject to the
-control of a supreme authority."_ [_"Economic Calculation in the Socialist
-Commonwealth"_, pp. 87-130, **Collectivist Economic Planning**, F.A von Hayek
-(ed.), p. 104 and p. 106] While applying his _"economic calculation argument"_
-to Marxist ideas of a future socialist society, his argument, it is claimed,
-is applicable to **all** schools of socialist thought, including libertarian
-ones. It is on the basis of his arguments that many right-wingers claim that
-libertarian (or any other kind of) socialism is impossible in principle.
+control of a supreme authority."_ [ _"Economic Calculation in the Socialist
+Commonwealth"_ , pp. 87-130, **Collectivist Economic Planning** , F.A von
+Hayek (ed.), p. 104 and p. 106] While applying his _"economic calculation
+argument"_ to Marxist ideas of a future socialist society, his argument, it is
+claimed, is applicable to **all** schools of socialist thought, including
+libertarian ones. It is on the basis of his arguments that many right-wingers
+claim that libertarian (or any other kind of) socialism is impossible in
+principle.
 
 Yet as David Schweickart observes it _"has long been recognised that Mises's
 argument is logically defective. Even without a market in production goods,
-their monetary values can be determined."_ [**Against Capitalism**, p. 88] In
-other words, economic calculation based on prices is perfectly possible in a
-libertarian socialist system. After all, to build a workplace requires so many
-tonnes of steel, so many bricks, so many hours of work and so on. If we assume
-a mutualist society, then the prices of these goods can be easily found as the
-co-operatives in question would be offering their services on the market.
-These commodities would be the inputs for the construction of production goods
-and so the latter's monetary values can be found.
+their monetary values can be determined."_ [ **Against Capitalism** , p. 88]
+In other words, economic calculation based on prices is perfectly possible in
+a libertarian socialist system. After all, to build a workplace requires so
+many tonnes of steel, so many bricks, so many hours of work and so on. If we
+assume a mutualist society, then the prices of these goods can be easily found
+as the co-operatives in question would be offering their services on the
+market. These commodities would be the inputs for the construction of
+production goods and so the latter's monetary values can be found.
 
 Ironically enough, Mises **did** mention the idea of such a mutualist system
 in his initial essay. _"Exchange relations between production-goods can only
@@ -321,7 +324,7 @@ be established on the basis of private ownership of the means of production"_
 he asserted. _"When the 'coal syndicate' provides the 'iron syndicate' with
 coal, no price can be formed, except when both syndicates are the owners of
 the means of production employed in their business. This would not be
-socialisation but workers' capitalism and syndicalism."_ [**Op. Cit.**, p.
+socialisation but workers' capitalism and syndicalism."_ [ **Op. Cit.** , p.
 112] However, his argument is flawed for numerous reasons.
 
 First, and most obvious, socialisation (as we discuss in [section
@@ -338,14 +341,14 @@ is not capitalism.
 Second, nor is such a system usually called, as Mises suggests,
 _"syndicalism"_ but rather mutualism and he obviously considered its most
 famous advocate, Proudhon and his _"fantastic dreams"_ of a mutual bank, as a
-socialist. [**Op. Cit.**, p. 88] Significantly, Mises subsequently admitted
+socialist. [ **Op. Cit.** , p. 88] Significantly, Mises subsequently admitted
 that it was _"misleading"_ to call syndicalism workers' capitalism, although
 _"the workers are the owners of the means of production"_ it was _"not genuine
-socialism, that is, centralised socialism"_, as it _"must withdraw productive
+socialism, that is, centralised socialism"_ , as it _"must withdraw productive
 goods from the market. Individual citizens must not dispose of the shares in
 the means of production which are allotted to them."_ Syndicalism, i.e.,
 having those who do the work control it, was _"the ideal of plundering
-hordes"_! [**Socialism**, p. 274fn, p. 270, p. 273 and p. 275]
+hordes"_! [ **Socialism** , p. 274fn, p. 270, p. 273 and p. 275]
 
 His followers, likewise, concluded that "syndicalism" was not capitalism with
 Hayek stating that there were _"many types of socialism"_ including
@@ -354,26 +357,26 @@ Mises argument was aimed at systems based on the _"central direction of all
 economic activity"_ and so _"earlier systems of more decentralised socialism,
 like guild-socialism or syndicalism, need not concern us here since it seems
 now to be fairly generally admitted that they provide no mechanism whatever
-for a rational direction of economic activity."_ [_"The Nature and History of
-the Problem"_, pp. 1-40, **Collectivist Economic Planning**, F.A von Hayek
+for a rational direction of economic activity."_ [ _"The Nature and History of
+the Problem"_ , pp. 1-40, **Collectivist Economic Planning** , F.A von Hayek
 (ed.),p. 17, p. 36 and p. 19] Sadly he failed to indicate who _"generally
 admitted"_ such a conclusion. More recently, Murray Rothbard urged the state
 to impose private shares onto the workers in the former Stalinist regimes of
 Eastern Europe as ownership was _"not to be granted to collectives or co-
 operatives or workers or peasants holistically, which would only bring back
-the ills of socialism in a decentralised and chaotic syndicalist form."_
-[**The Logic of Action II**, p. 210]
+the ills of socialism in a decentralised and chaotic syndicalist form."_ [
+**The Logic of Action II** , p. 210]
 
 Third, syndicalism usually refers to a strategy (revolutionary unionism) used
 to achieve (libertarian) socialism rather than the goal itself (as Mises
 himself noted in a tirade against unions, _"Syndicalism is nothing else but
-the French word for trade unionism"_ [**Socialism**, p. 480]). It could be
+the French word for trade unionism"_ [ **Socialism** , p. 480]). It could be
 argued that such a mutualist system could be an aim for some syndicalists,
 although most were and still are in favour of libertarian communism (a simple
 fact apparently unknown to Mises). Indeed, Mises ignorance of syndicalist
 thought is striking, asserting that the _"market is a consumers' democracy.
-The syndicalists want to transform it into a producers' democracy."_ [**Human
-Action**, p. 809] Most syndicalists, however, aim to **abolish** the market
+The syndicalists want to transform it into a producers' democracy."_ [ **Human
+Action** , p. 809] Most syndicalists, however, aim to **abolish** the market
 and **all** aim for workers' control of production to **complement** (not
 replace) consumer choice. Syndicalists, like other anarchists, do not aim for
 workers' control of consumption as Mises asserts. Given that Mises asserts
@@ -385,8 +388,8 @@ More importantly, the whole premise of his critique of mutualism is flawed.
 _"Exchange relations in productive goods"_ he asserted, _"can only be
 established on the basis of private property in the means of production. If
 the Coal Syndicate delivers coal to the Iron Syndicate a price can be fixed
-only if both syndicates own the means of production in industry."_
-[**Socialism**, p. 132] This may come as a surprise to the many companies
+only if both syndicates own the means of production in industry."_ [
+**Socialism** , p. 132] This may come as a surprise to the many companies
 whose different workplaces sell each other their products! In other words,
 capitalism itself shows that workplaces owned by the same body (in this case,
 a large company) can exchange goods via the market. That Mises makes such a
@@ -395,23 +398,23 @@ socialist society can have extensive autonomy for its co-operatives, just as a
 large capitalist firm can:
 
 > _"the entrepreneur is in a position to separate the calculation of each part
-of his total enterprise in such a way that he can determine the role it plays
-within his whole enterprise. Thus he can look at each section as if it were a
-separate entity and can appraise it according to the share it contributes to
-the success of the total enterprise. Within this system of business
-calculation each section of a firm represents an integral entity, a
-hypothetical independent business, as it were. It is assumed that this section
-'owns' a definite part of the whole capital employed in the enterprise, that
-it buys from other sections and sells to them, that it has its own expenses
-and its own revenues, that its dealings result either in a profit or in a loss
-which is imputed to its own conduct of affairs as distinguished from the
-result of the other sections. Thus the entrepreneur can assign to each
-section's management a great deal of independence . . . Every manager and
-submanager is responsible for the working of his section or subsection. It is
-to his credit if the accounts show a profit, and it is to his disadvantage if
-they show a loss. His own interests impel him toward the utmost care and
-exertion in the conduct of his section's affairs."_ [**Human Action**, pp.
-301-2]
+> of his total enterprise in such a way that he can determine the role it
+> plays within his whole enterprise. Thus he can look at each section as if it
+> were a separate entity and can appraise it according to the share it
+> contributes to the success of the total enterprise. Within this system of
+> business calculation each section of a firm represents an integral entity, a
+> hypothetical independent business, as it were. It is assumed that this
+> section 'owns' a definite part of the whole capital employed in the
+> enterprise, that it buys from other sections and sells to them, that it has
+> its own expenses and its own revenues, that its dealings result either in a
+> profit or in a loss which is imputed to its own conduct of affairs as
+> distinguished from the result of the other sections. Thus the entrepreneur
+> can assign to each section's management a great deal of independence . . .
+> Every manager and submanager is responsible for the working of his section
+> or subsection. It is to his credit if the accounts show a profit, and it is
+> to his disadvantage if they show a loss. His own interests impel him toward
+> the utmost care and exertion in the conduct of his section's affairs."_ [
+> **Human Action** , pp. 301-2]
 
 So much, then, for the notion that common ownership makes it impossible for
 market socialism to work. After all, the libertarian community can just as
@@ -428,8 +431,8 @@ operative's affairs.
 So to refute Mises, we need only repeat what he himself argued about large
 corporations! Thus there can be extensive autonomy for workplaces under
 socialism and this does not in any way contradict the fact that _"all the
-means of production are the property of the community."_ [_"Economic
-Calculation in the Socialist Commonwealth"_, **Op. Cit.**, p. 89]
+means of production are the property of the community."_ [ _"Economic
+Calculation in the Socialist Commonwealth"_ , **Op. Cit.** , p. 89]
 Socialisation, in other words, does **not** imply central planning but rather
 free access and free association. In summary, then, Mises confused property
 rights with use rights, possession with property, and failed to see now a
@@ -442,8 +445,8 @@ markets, and hence market prices, for consumer goods in a socialist economy
 his claims of the impossibility of socialism seems unfounded. For Mises, the
 problem for socialism was that _"because no production-good will ever become
 the object of exchange, it will be impossible to determine its monetary
-value."_ [**Op. Cit.**, p. 92] The flaw in his argument is clear. Taking, for
-example, coal, we find that it is both a means of production and of
+value."_ [ **Op. Cit.** , p. 92] The flaw in his argument is clear. Taking,
+for example, coal, we find that it is both a means of production and of
 consumption. If a market in consumer goods is possible for a socialist system,
 then competitive prices for production goods is also possible as syndicates
 producing production-goods would also sell the product of their labour to
@@ -460,7 +463,7 @@ goods produced by self-managed syndicates have market-prices does not imply
 capitalism for, as they abolish wage labour and are based on free-access
 (socialisation), it is a form of socialism (as socialists define it, Mises'
 protestations that _"this is incompatible with socialism"_ not-with-
-standing!). [**Socialism**, p. 518]
+standing!). [ **Socialism** , p. 518]
 
 Murray Rothbard suggested that a self-managed system would fail, and a system
 _"composed exclusively of self-managed enterprises is impossible, and would
@@ -477,7 +480,7 @@ could allocate his land or his labour to provide the maximum monetary gains.
 No entrepreneur would know how to arrange factors in their most value-
 productive combination to earn greatest profit. There could be no efficiency
 in production because the requisite knowledge would be lacking."_ [quoted by
-David L. Prychitko, **Markets, Planning and Democracy**, p. 135 and p. 136]
+David L. Prychitko, **Markets, Planning and Democracy** , p. 135 and p. 136]
 
 It is hard to take this argument seriously. Consider, for example, a pre-
 capitalist society of farmers and artisans. Both groups of people own their
@@ -505,15 +508,15 @@ capitalist one, it is clear that a system of self-managed co-operatives can
 make the same decisions without requiring economic masters. This is
 unsurprising, given that Mises' asserted that the boss _"of course exercises
 power over the workers"_ but that the _"lord of production is the consumer."_
-[**Socialism**, p. 443] In which case, the boss need not be an intermediary
+[ **Socialism** , p. 443] In which case, the boss need not be an intermediary
 between the real "lord" and those who do the production!
 
-All in all, Rothbard confirms Kropotkin's comments that economics (_"that
-pseudo-science of the bourgeoisie"_) _"does not cease to give praise in every
+All in all, Rothbard confirms Kropotkin's comments that economics ( _"that
+pseudo-science of the bourgeoisie"_ ) _"does not cease to give praise in every
 way to the benefits of individual property"_ yet _"the economists do not
 conclude, 'The land to him who cultivates it.' On the contrary, they hasten to
 deduce from the situation, 'The land to the lord who will get it cultivated by
-wage earners!'"_ [**Words of a Rebel**, pp. 209-10] In addition, Rothbard
+wage earners!'"_ [ **Words of a Rebel** , pp. 209-10] In addition, Rothbard
 implicitly places "efficiency" above liberty, preferring dubious "efficiency"
 gains to the actual gains in freedom which the abolition of workplace
 autocracy would create. Given a choice between liberty and "efficiency", the
@@ -527,7 +530,7 @@ person of every worker"_. This was the _"first principle of the new economy, a
 principle full of hope and of consolation for the worker without capital, but
 a principle full of terror for the parasite and for the tools of parasitism,
 who see reduced to naught their celebrated formula: **Capital, labour,
-talent**!"_ [**Property is Theft!**, p. 535 and p. 289]
+talent**!"_ [ **Property is Theft!** , p. 535 and p. 289]
 
 And it does seem a strange co-incidence that someone born into a capitalist
 economy, ideologically supporting it with a passion and seeking to justify its
@@ -556,12 +559,12 @@ calculation"_ under state socialism. Sadly, socialism is still equated with
 central planning, for such a system _"is certainly not socialism. Nor,
 however, is it capitalism in the conventional sense of the term."_ In fact, it
 is not capitalism at all and if we assume that free access to resources such
-as workplaces and credit, then it most definitely **is** socialism (_"Legal
+as workplaces and credit, then it most definitely **is** socialism ( _"Legal
 ownership is not the chief issue in defining workers' self-management --
 management is. Worker-managers, though not necessarily the legal owners of all
 the factors of production collected within the firm, are free to experiment
-and establish enterprise policy as they see fit."_). [David L. Prychitko,
-**Op. Cit.**, p. 136, p. 135, pp. 4-5, p. 4 and p. 135] This suggests that
+and establish enterprise policy as they see fit."_ ). [David L. Prychitko,
+**Op. Cit.** , p. 136, p. 135, pp. 4-5, p. 4 and p. 135] This suggests that
 non-labour factors can be purchased from other co-operatives, credit provided
 by mutual banks (credit co-operatives) at cost and so forth. As such, a
 mutualist system is perfectly feasible.
@@ -575,7 +578,7 @@ did. Thus investment is _"not a matter for the mangers of joint stock
 companies, it is essentially a matter of the capitalists"_ in the _"stock
 exchanges"_. Investment, he asserted, was _"not a matter of wages"_ of
 managers but of _"the capitalist who buys and sell stocks and shares, who make
-loans and recover them, who make deposits in the banks."_ [**Socialism**, p.
+loans and recover them, who make deposits in the banks."_ [ **Socialism** , p.
 139]
 
 It would be churlish to note that the members of co-operatives under
@@ -589,15 +592,15 @@ claim that stock exchanges mobilise funds for business. Do they? When people
 buy and sell shares, 'no investment goes into company treasuries . . . Shares
 simply change hands for cash in endless repetition.' Company treasuries get
 funds only from new equity issues. These accounted for an average of a mere
-0.5 per cent of shares trading in the US during the 1980s."_ [**Apostles of
-Greed**, pp. 157-158] This is echoed by David Ellerman:
+0.5 per cent of shares trading in the US during the 1980s."_ [ **Apostles of
+Greed** , pp. 157-158] This is echoed by David Ellerman:
 
 > _"In spite of the stock market's large symbolic value, it is notorious that
-it has relatively little to do with the production of goods and services in
-the economy (the gambling industry aside). The overwhelming bulk of stock
-transactions are in second-hand shares so that the capital paid for shares
-usually goes to other stock traders, not to productive enterprises issuing new
-shares."_ [**The Democratic Worker-Owned Firm**, p. 199]
+> it has relatively little to do with the production of goods and services in
+> the economy (the gambling industry aside). The overwhelming bulk of stock
+> transactions are in second-hand shares so that the capital paid for shares
+> usually goes to other stock traders, not to productive enterprises issuing
+> new shares."_ [ **The Democratic Worker-Owned Firm** , p. 199]
 
 This suggests that the _"efficient allocation of capital in production does
 not require a stock market (witness the small business sector [under
@@ -608,7 +611,7 @@ whole sector of unquoted closely-held small and medium-sized firms in the West
 was 'inherently inefficient' -- a conclusion that must be viewed with some
 scepticism. Indeed, in the comparison to large corporations with publicly-
 traded shares, the closely-held firms are probably **more** efficient users of
-capital."_ [**Op. Cit.**, p. 200 and p. 199]
+capital."_ [ **Op. Cit.** , p. 200 and p. 199]
 
 In terms of the impact of the stock market on the economy there is good reason
 to think that this **hinders** economic efficiency by generating a perverse
@@ -630,8 +633,8 @@ but to do its bidding. Otherwise, their stock will be marked down, and the
 firm ripe for take-over."_ While _"[f]irms and economies can't get richer by
 starving themselves"_ stock market investors _"can get richer when the
 companies they own go hungry -- at least in the short term. As for the long
-term, well, that's someone else's problem the week after next."_ [**Wall
-Street**, p. 171]
+term, well, that's someone else's problem the week after next."_ [ **Wall
+Street** , p. 171]
 
 Ironically, this situation has a parallel with Stalinist central planning.
 Under that system the managers of State workplaces had an incentive to lie
@@ -656,7 +659,7 @@ during which the stock market serves as a conduit for shovelling huge amounts
 of cash into speculative venues, most of which have evaporated . . . Much,
 maybe most, of what was financed in the 1990s didn't deserve the money."_ Such
 booms do not last forever and are _"no advertisement for the efficiency of our
-capital markets."_ [Henwood, **After the New Economy**, p. 187 and p. 188]
+capital markets."_ [Henwood, **After the New Economy** , p. 187 and p. 188]
 
 Thus there is substantial reason to question the suggestion that a stock
 market is necessary for the efficient allocation of capital. There is no need
@@ -664,7 +667,7 @@ for capital markets in a system based on mutual banks and networks of co-
 operatives. As Henwood concludes, _"the signals emitted by the stock market
 are either irrelevant or harmful to real economic activity, and that the stock
 market itself counts little or nothing as a source of finance. Shareholders .
-. . have no useful role."_ [**Wall Street**, p. 292]
+. . have no useful role."_ [ **Wall Street** , p. 292]
 
 Then there is also the ironic nature of Rothbard's assertion that self-
 management would ensure there _"could be no efficiency in production because
@@ -682,44 +685,46 @@ accurate information and act to improve the production process. As Cornelius
 Castoriadis correctly noted:
 
 > _"Bureaucratic planning is nothing but the extension to the economy as a
-whole of the methods created and applied by capitalism in the 'rational'
-direction of large production units. If we consider the most profound feature
-of the economy, the concrete situation in which people are placed, we see that
-bureaucratic planning is the most highly perfected realisation of the spirit
-of capitalism; it pushes to the limit its most significant tendencies. Just as
-in the management of a large capitalist production unit, this type of planning
-is carried out by a separate stratum of managers . . . Its essence, like that
-of capitalist production, lies in an effort to reduce the direct producers to
-the role of pure and simple executants of received orders, orders formulated
-by a particular stratum that pursues its own interests. This stratum cannot
-run things well, just as the management apparatus . . . [in capitalist]
-factories cannot run things well. The myth of capitalism's productive
-efficiency at the level of the individual factory, a myth shared by bourgeois
-and Stalinist ideologues alike, cannot stand up to the most elemental
-examination of the facts, and any industrial worker could draw up a
-devastating indictment against capitalist 'rationalisation' **judged on its
-own terms.**_
+> whole of the methods created and applied by capitalism in the 'rational'
+> direction of large production units. If we consider the most profound
+> feature of the economy, the concrete situation in which people are placed,
+> we see that bureaucratic planning is the most highly perfected realisation
+> of the spirit of capitalism; it pushes to the limit its most significant
+> tendencies. Just as in the management of a large capitalist production unit,
+> this type of planning is carried out by a separate stratum of managers . . .
+> Its essence, like that of capitalist production, lies in an effort to reduce
+> the direct producers to the role of pure and simple executants of received
+> orders, orders formulated by a particular stratum that pursues its own
+> interests. This stratum cannot run things well, just as the management
+> apparatus . . . [in capitalist] factories cannot run things well. The myth
+> of capitalism's productive efficiency at the level of the individual
+> factory, a myth shared by bourgeois and Stalinist ideologues alike, cannot
+> stand up to the most elemental examination of the facts, and any industrial
+> worker could draw up a devastating indictment against capitalist
+> 'rationalisation' **judged on its own terms.**_
 
 > _"First of all, the managerial bureaucracy does not **know** what it is
-supposed to be managing. The reality of production escapes it, for this
-reality is nothing but the activity of the producers, and the producers do not
-inform the managers . . . about what is really taking place. Quite often they
-organise themselves in such a way that the managers won't be informed (in
-order to avoid increased exploitation, because they feel antagonistic, or
-quite simply because they have no interest: It isn't **their** business). _
+> supposed to be managing. The reality of production escapes it, for this
+> reality is nothing but the activity of the producers, and the producers do
+> not inform the managers . . . about what is really taking place. Quite often
+> they organise themselves in such a way that the managers won't be informed
+> (in order to avoid increased exploitation, because they feel antagonistic,
+> or quite simply because they have no interest: It isn't **their** business).
+> _
 
 > _"In the second place, the way in which production is organised is set up
-entirely against the workers. They always are being asked, one way or another,
-to do more work without getting paid for it. Management's orders, therefore,
-inevitably meet with fierce resistance on the part of those who have to carry
-them out."_ [**Political and Social Writings**, vol. 2, pp. 62-3]
+> entirely against the workers. They always are being asked, one way or
+> another, to do more work without getting paid for it. Management's orders,
+> therefore, inevitably meet with fierce resistance on the part of those who
+> have to carry them out."_ [ **Political and Social Writings** , vol. 2, pp.
+> 62-3]
 
 This is _"the same objection as that Hayek raises against the possibility of a
 planned economy. Indeed, the epistemological problems that Hayek raised
 against centralised planned economies have been echoed within the socialist
 tradition as a problem within the capitalist firm."_ There is _"a real
 conflict within the firm that parallels that which Hayek makes about any
-centralised economy."_ [John O'Neill, **The Market**, p. 142] This is because
+centralised economy."_ [John O'Neill, **The Market** , p. 142] This is because
 workers have knowledge about their work and workplace that their bosses lack
 and a self-managed co-operative workplace would motivate workers to use such
 information to improve the firm's performance. In a capitalist workplace, as
@@ -731,7 +736,7 @@ consequently they restrict their participation in production . . . They
 restrict their output; they keep their ideas to themselves . . . They organise
 among themselves to carry out their work, all the while keeping up a facade of
 respect for the official way they are supposed to organise their work."_
-[Castoriadis, **Op. Cit.**, pp. 181-2] An obvious example would be concerns
+[Castoriadis, **Op. Cit.** , pp. 181-2] An obvious example would be concerns
 that management would seek to monopolise the workers' knowledge in order to
 accumulate more profits, better control the workforce or replace them (using
 the higher productivity as an excuse). Thus self-management rather than
@@ -742,9 +747,9 @@ This conclusion, it should be stressed, is not idle speculation and Mises was
 utterly wrong in his assertions related to self-management. People, he stated,
 _"err"_ in thinking that profit-sharing _"would spur the worker on to a more
 zealous fulfilment of his duties"_ (indeed, it _"must lead straight to
-Syndicalism"_) and it was _"nonsensical to give 'labour' . . . a share in
+Syndicalism"_ ) and it was _"nonsensical to give 'labour' . . . a share in
 management. The realisation of such a postulate would result in syndicalism."_
-[**Socialism**, p. 268, p. 269 and p. 305] Yet, as we note in [section
+[ **Socialism** , p. 268, p. 269 and p. 305] Yet, as we note in [section
 I.3.2](secI3.md#seci32), the empirical evidence is overwhelmingly against
 Mises (which suggests why "Austrians" are so dismissive of empirical evidence,
 as it exposes flaws in the great chains of deductive reasoning they so love).
@@ -758,7 +763,7 @@ them in order to remain in power -- in spite (or, more accurately, because) of
 the efficiency and productivity gains they result in.
 
 _"Both capitalism and state socialism,"_ summarises Ellerman, _"suffer from
-the motivational inefficiency of the employment relation."_ **Op. Cit.**, pp.
+the motivational inefficiency of the employment relation."_ **Op. Cit.** , pp.
 210-1] Mutualism would be **more** efficient as well as freer for, once the
 stock market and workplace hierarchies are removed, serious blocks and
 distortions to information flow will be eliminated.
@@ -769,7 +774,7 @@ initial challenge, a number of economists pointed out that Pareto's disciple,
 Enrico Barone, had already, 13 years earlier, demonstrated the theoretical
 possibility of a _"market-simulated socialism."_ However, the principal attack
 on Mises's argument came from Fred Taylor and Oscar Lange (for a collection of
-their main papers, see **On the Economic Theory of Socialism**). In light of
+their main papers, see **On the Economic Theory of Socialism** ). In light of
 their work, Hayek shifted the question from theoretical impossibility to
 whether the theoretical solution could be approximated in practice. Which
 raises an interesting question, for if (state) socialism is _"impossible"_ (as
@@ -831,59 +836,60 @@ liberty (see [section I.8](secI8.md)).
 Thus the _"calculation argument"_ does not prove that socialism is impossible.
 Mises was wrong in asserting that _"a socialist system with a market and
 market prices is as self-contradictory as is the notion of a triangular
-square."_ [**Human Action**, p. 706] This is because capitalism is not defined
-by markets as such but rather by wage labour, a situation where working class
-people do not have free access to the means of production and so have to sell
-their labour (and so liberty) to those who do. If quoting Engels is not
-**too** out of place, the _"object of production -- to produce commodities --
-**does not import** to the instrument the character of capital"_ as the
-_"production of commodities is one of the preconditions for the existence of
-capital . . . as long as the producer sells only **what he himself** produces,
-he is not a capitalist; he becomes so only from the moment he makes use of his
-instrument **to exploit the wage labour of others**."_ [**Collected Works**,
-Vol. 47, pp. 179-80] In this, as noted in [section C.2.1](secC2.md#secc21),
-Engels was merely echoing Marx (who, in turn, was simply repeating Proudhon's
-distinction between property and possession). As mutualism eliminates wage
-labour by self-management and free access to the means of production, its use
-of markets and prices (both of which pre-date capitalism) does not mean it is
-not socialist (and as we note in [section G.1.1](secG1.md#secg11) Marx,
-Engels, Bakunin and Kropotkin, like Mises, acknowledged Proudhon as being a
-socialist). This focus on the market, as David Schweickart suggests, is no
-accident:
+square."_ [ **Human Action** , p. 706] This is because capitalism is not
+defined by markets as such but rather by wage labour, a situation where
+working class people do not have free access to the means of production and so
+have to sell their labour (and so liberty) to those who do. If quoting Engels
+is not **too** out of place, the _"object of production -- to produce
+commodities -- **does not import** to the instrument the character of
+capital"_ as the _"production of commodities is one of the preconditions for
+the existence of capital . . . as long as the producer sells only **what he
+himself** produces, he is not a capitalist; he becomes so only from the moment
+he makes use of his instrument **to exploit the wage labour of others**."_ [
+**Collected Works** , Vol. 47, pp. 179-80] In this, as noted in [section
+C.2.1](secC2.md#secc21), Engels was merely echoing Marx (who, in turn, was
+simply repeating Proudhon's distinction between property and possession). As
+mutualism eliminates wage labour by self-management and free access to the
+means of production, its use of markets and prices (both of which pre-date
+capitalism) does not mean it is not socialist (and as we note in [section
+G.1.1](secG1.md#secg11) Marx, Engels, Bakunin and Kropotkin, like Mises,
+acknowledged Proudhon as being a socialist). This focus on the market, as
+David Schweickart suggests, is no accident:
 
 > _"The identification of capitalism with the market is a pernicious error of
-both conservative defenders of **laissez-faire** [capitalism] and most left
-opponents . . . If one looks at the works of the major apologists for
-capitalism . . . one finds the focus of the apology always on the virtues of
-the market and on the vices of central planning. Rhetorically this is an
-effective strategy, for it is much easier to defend the market than to defend
-the other two defining institutions of capitalism. Proponents of capitalism
-know well that it is better to keep attention toward the market and away from
-wage labour or private ownership of the means of production."_ [_"Market
-Socialism: A Defense"_, pp. 7-22, **Market Socialism: the debate among
-socialists**, Bertell Ollman (ed.), p. 11]
+> both conservative defenders of **laissez-faire** [capitalism] and most left
+> opponents . . . If one looks at the works of the major apologists for
+> capitalism . . . one finds the focus of the apology always on the virtues of
+> the market and on the vices of central planning. Rhetorically this is an
+> effective strategy, for it is much easier to defend the market than to
+> defend the other two defining institutions of capitalism. Proponents of
+> capitalism know well that it is better to keep attention toward the market
+> and away from wage labour or private ownership of the means of production."_
+> [ _"Market Socialism: A Defense"_ , pp. 7-22, **Market Socialism: the debate
+> among socialists** , Bertell Ollman (ed.), p. 11]
 
 The theoretical work of such socialists as David Schweickart (see his books
-**Against Capitalism** and **After Capitalism**) present an extensive
+**Against Capitalism** and **After Capitalism** ) present an extensive
 discussion of a dynamic, decentralised market socialist system which has
 obvious similarities with mutualism -- a link which some Leninists recognise
 and stress in order to discredit market socialism via guilt-by-association
 (Proudhon _"the anarchist and inveterate foe of Karl Marx . . . put forward a
 conception of society, which is probably the first detailed exposition of a
-'socialist market.'"_ [Hillel Ticktin, _"The Problem is Market Socialism"_,
-pp. 55-80, **Op. Cit.**, p. 56]). So far, most models of market socialism have
-not been fully libertarian, but instead involve the idea of workers' control
-within a framework of state ownership of capital (Engler in **Apostles of
-Greed** is an exception to this, supporting community ownership). Ironically,
-while these Leninists reject the idea of market socialism as contradictory
-and, basically, not socialist they usually acknowledge that the transition to
-Marxist-communism under their workers' state would utilise the market.
+'socialist market.'"_ [Hillel Ticktin, _"The Problem is Market Socialism"_ ,
+pp. 55-80, **Op. Cit.** , p. 56]). So far, most models of market socialism
+have not been fully libertarian, but instead involve the idea of workers'
+control within a framework of state ownership of capital (Engler in **Apostles
+of Greed** is an exception to this, supporting community ownership).
+Ironically, while these Leninists reject the idea of market socialism as
+contradictory and, basically, not socialist they usually acknowledge that the
+transition to Marxist-communism under their workers' state would utilise the
+market.
 
 So, as anarchist Robert Graham points out, _"Market socialism is but one of
 the ideas defended by Proudhon which is both timely and controversial . . .
 Proudhon's market socialism is indissolubly linked with his notions of
-industrial democracy and workers' self-management."_ [_"Introduction"_, P-J
-Proudhon, **General Idea of the Revolution**, p. xxxii] As we discuss in
+industrial democracy and workers' self-management."_ [ _"Introduction"_ , P-J
+Proudhon, **General Idea of the Revolution** , p. xxxii] As we discuss in
 [section I.3.5](secI3.md#seci35) Proudhon's system of agro-industrial
 federations can be seen as a non-statist way of protecting self-management,
 liberty and equality in the face of market forces (Proudhon, unlike
@@ -891,7 +897,7 @@ individualist anarchists, was well aware of the negative aspects of markets
 and the way market forces can disrupt society). Dissident economist Geoffrey
 M. Hodgson is right to suggest that Proudhon's system, in which _"each co-
 operative association would be able to enter into contractual relations with
-others"_, could be _"described as an early form of 'market socialism'"_. In
+others"_ , could be _"described as an early form of 'market socialism'"_. In
 fact, _"instead of Lange-type models, the term 'market socialism' is more
 appropriately used to refer to such systems. Market socialism, in this more
 appropriate and meaningful sense, involves producer co-operatives that are
@@ -899,8 +905,8 @@ owned by the workers within them. Such co-operatives sell their products on
 markets, with genuine exchanges of property rights"_ (somewhat annoyingly,
 Hodgson incorrectly asserts that _"Proudhon described himself as an anarchist,
 not a socialist"_ when, in reality, the French anarchist repeatedly referred
-to himself and his mutualist system as socialist). [**Economics and Utopia**,
-p. 20, p. 37 and p. 20]
+to himself and his mutualist system as socialist). [ **Economics and Utopia**
+, p. 20, p. 37 and p. 20]
 
 Thus it is possible for a socialist economy to allocate resources using
 markets. By suppressing capital markets and workplace hierarchies, a mutualist
@@ -912,7 +918,7 @@ world in bipolar terms: capitalism or (state) socialism."_ Yet there _"are two
 broad traditions of socialism: **state socialism** and **self-management
 socialism**. State socialism is based on government ownership of major
 industry, while self-management socialism envisions firms being worker self-
-managed and not owned or managed by the government."_ [**Op. Cit.**, p. 147]
+managed and not owned or managed by the government."_ [ **Op. Cit.** , p. 147]
 Mutualism is a version of the second vision and anarchists reject the cosy
 agreement between mainstream Marxists and their ideological opponents on the
 propertarian right that only state socialism is "real" socialism.
@@ -962,9 +968,9 @@ among the bewildering mass of intermediate products and potentialities without
 such aid. It would simply stand perplexed before the problems of management
 and location."_ Thus we would quickly see _"the spectacle of a socialist
 economic order floundering in the ocean of possible and conceivable economic
-combinations without the compass of economic calculation."_ [_"Economic
-Calculation in the Socialist Commonwealth"_, pp. 87-130, **Collectivist
-Economic Planning**, F.A. von Hayek (ed.), p. 104, p. 103 and p. 110] Hence
+combinations without the compass of economic calculation."_ [ _"Economic
+Calculation in the Socialist Commonwealth"_ , pp. 87-130, **Collectivist
+Economic Planning** , F.A. von Hayek (ed.), p. 104, p. 103 and p. 110] Hence
 the claim that monetary calculation based on market prices is the only
 solution.
 
@@ -978,7 +984,7 @@ and so left the most over for other uses)? With market prices, Mises' argued,
 it is simple. If A cost $10 and B $5, then clearly method one would be the
 most efficient ($20 versus $25). Without the market, Mises argued, such a
 decision would be impossible and so every decision would be _"groping in the
-dark."_ [**Op. Cit.**, p. 110]
+dark."_ [ **Op. Cit.** , p. 110]
 
 Mises' argument rests on three flawed assumptions, two against communism and
 one for capitalism. The first two negative assumptions are that communism
@@ -990,15 +996,15 @@ I.1.5](secI1.md#seci15) .
 
 Firstly, Mises assumes a centralised planned economy. As Hayek summarised, the
 crux of the matter was _"the impossibility of a rational calculation in a
-centrally directed economy from which prices are necessarily absent"_, one
+centrally directed economy from which prices are necessarily absent"_ , one
 which _"involves planning on a most extensive scale -- minute direction of
 practically all productive activity by one central authority"_. Thus the _"one
 central authority has to solve the economic problem of distributing a limited
 amount of resources between a practically infinite number of competing
 purposes"_ with _"a reasonable degree of accuracy, with a degree of success
 equally or approaching the results of competitive capitalism"_ is what
-_"constitutes the problem of socialism as a method."_ [_"The Nature and
-History of the Problem"_, pp. 1-40, **Op. Cit.**, p. 35, p. 19 and pp. 16-7]
+_"constitutes the problem of socialism as a method."_ [ _"The Nature and
+History of the Problem"_ , pp. 1-40, **Op. Cit.** , p. 35, p. 19 and pp. 16-7]
 
 While this was a common idea in Marxian social democracy (and the Leninism
 that came from it), centralised organisations are rejected by anarchism. As
@@ -1010,26 +1016,26 @@ of the State will more or less overtly force unhappy society to stretch out?"_
 Moreover, a socialist government, _"unless it were endowed with omniscience,
 omnipresence, and the omnipotence which the theologians attribute to God,
 could not possibly know and foresee the needs of its people, or satisfy with
-an even justice those interests which are most legitimate and pressing."_
-[**Bakunin on Anarchism**, pp. 268-9 and p. 318] For Malatesta, such a system
+an even justice those interests which are most legitimate and pressing."_ [
+**Bakunin on Anarchism** , pp. 268-9 and p. 318] For Malatesta, such a system
 would require _"immense centralisation"_ and would either be _"an impossible
 thing to achieve, or, if possible, would end up as a colossal and very complex
-tyranny."_ [**At the Café**, p. 65]
+tyranny."_ [ **At the Café** , p. 65]
 
 Kropotkin, likewise, dismissed the notion of central planning as the
 _"economic changes that will result from the social revolution will be so
 immense and so profound . . . that it will be impossible for one or even a
 number of individuals to elaborate the social forms to which a further society
 must give birth. The elaboration of new social forms can only be the
-collective work of the masses."_ [**Words of a Rebel**, p. 175] The notion
-that a _"strongly centralised Government"_ could _"**command** that a
+collective work of the masses."_ [ **Words of a Rebel** , p. 175] The notion
+that a _"strongly centralised Government"_ could _" **command** that a
 prescribed quantity"_ of a good _"be sent to such a place on such a day"_ and
 be _"received on a given day by a specified official and stored in particular
 warehouses"_ was not only _"undesirable"_ but also _"wildly Utopian."_ During
 his discussion of the benefits of free agreement against state tutelage,
 Kropotkin noted that only the former allowed the utilisation of _"the co-
-operation, the enthusiasm, the local knowledge"_ of the people. [**The
-Conquest of Bread**, pp. 82-3 and p. 137]
+operation, the enthusiasm, the local knowledge"_ of the people. [ **The
+Conquest of Bread** , pp. 82-3 and p. 137]
 
 Kropotkin's own experience had shown how the _"high functionaries"_ of the
 Tsarist bureaucracy _"were simply charming in their innocent ignorance"_ of
@@ -1044,45 +1050,45 @@ side with those of socialised ownership and production."_ Thus it was
 essential that socialism was decentralised, federal and participatory, that
 the _"structure of the society which we longed for"_ was _"worked out, in
 theory and practice, from beneath"_ in by _"all labour unions"_ with _"a full
-knowledge of local needs of each trade and each locality."_ [**Memoirs of a
-Revolutionist**, p. 184, p. 360, p. 374-5 and p. 376] He reiterated this as
+knowledge of local needs of each trade and each locality."_ [ **Memoirs of a
+Revolutionist** , p. 184, p. 360, p. 374-5 and p. 376] He reiterated this as
 the Bolsheviks confirmed his warnings:
 
 > _"The immense constructive work demanded by a social revolution cannot be
-accomplished by a central government . . . It has need of knowledge, of brains
-and of the voluntary collaboration of a host of local and specialised forces
-which alone can attack the diversity of economic problems in their local
-aspects . . . Socialism will certainly make considerable progress, and new
-forms of more independent life will be created based on local autonomy and
-free initiative . . . But the success of this reconstruction will depend in
-great part on the possibility of direct cooperation between the different
-peoples. To achieve that, it is necessary that . . . there should be a union
-of all the workers' organisations of the world, federated to deliver world
-production from its present subjection to capitalism."_ [**Anarchism**, pp.
-255-6]
+> accomplished by a central government . . . It has need of knowledge, of
+> brains and of the voluntary collaboration of a host of local and specialised
+> forces which alone can attack the diversity of economic problems in their
+> local aspects . . . Socialism will certainly make considerable progress, and
+> new forms of more independent life will be created based on local autonomy
+> and free initiative . . . But the success of this reconstruction will depend
+> in great part on the possibility of direct cooperation between the different
+> peoples. To achieve that, it is necessary that . . . there should be a union
+> of all the workers' organisations of the world, federated to deliver world
+> production from its present subjection to capitalism."_ [ **Anarchism** ,
+> pp. 255-6]
 
 So anarchists can agree with Mises that central planning cannot work in
 practice as its advocates hope. Or, more correctly, Mises agreed with the
 anarchists, as we had opposed central planning first. We have long recognised
 that no small body of people can be expected to know what happens in society
-and plan accordingly (_"No single brain nor any bureau of brains can see to
-this organisation."_ [Issac Puente, **Libertarian Communism**, p. 29]).
+and plan accordingly ( _"No single brain nor any bureau of brains can see to
+this organisation."_ [Issac Puente, **Libertarian Communism** , p. 29]).
 Moreover, there is the pressing question of freedom as well, for _"the
 despotism of [the 'socialist'] State would be equal to the despotism of the
 present state, increased by the economic despotism of all the capital which
 would pass into the hands of the State, and the whole would be multiplied by
 all the centralisation necessary for this new State. And it is for this reason
 that we, the Anarchists, friends of liberty, we intend to fight them to the
-end."_ [Carlo Cafiero, _"Anarchy and Communism"_, pp. 179-86, **The Raven**,
+end."_ [Carlo Cafiero, _"Anarchy and Communism"_ , pp. 179-86, **The Raven** ,
 No. 6, p. 179]
 
 As John O'Neill summarises, the _"argument against centralised planning is one
 that has been articulated within the history of socialist planning as an
-argument for democratic and decentralised decision making."_ [**The Market**,
-p. 132] So, for good economic and political reasons, anarchists reject central
-planning. This central libertarian socialist position feeds directly into
-refuting Mises' argument, for while a **centralised** system would need to
-compare a large (_"infinite"_) number of possible alternatives to a large
+argument for democratic and decentralised decision making."_ [ **The Market**
+, p. 132] So, for good economic and political reasons, anarchists reject
+central planning. This central libertarian socialist position feeds directly
+into refuting Mises' argument, for while a **centralised** system would need
+to compare a large ( _"infinite"_ ) number of possible alternatives to a large
 number of possible needs, this is not the case in a **decentralised** system.
 Rather than a vast multitude of alternatives which would swamp a centralised
 planning agency, one workplace comparing different alternatives to meet a
@@ -1124,8 +1130,8 @@ necessary in socialism would be calculations in kind. On the one side would be
 recorded the resources (materials, energy, equipment, labour) used up in
 production and on the other the amount of good produced, together with any by-
 products. . . . Socialist production is simply the production of use values
-from use values, and nothing more."_ [**State Capitalism: The Wages System
-Under New Management**, p. 137] Thus any good used as an input into a
+from use values, and nothing more."_ [ **State Capitalism: The Wages System
+Under New Management** , p. 137] Thus any good used as an input into a
 production process would require the communication of this kind of
 information.
 
@@ -1145,7 +1151,7 @@ centralised upon some particular planning agency"_ he stresses, but Mises'
 _"argument ignores, however, the existence of the decentralised but
 predominantly non-market institutions for the distribution of knowledge . . .
 The assumption that only the market can co-ordinate dispersed non-vocalisable
-knowledge is false."_ [**Op. Cit.**, p. 118 and p. 132]
+knowledge is false."_ [ **Op. Cit.** , p. 118 and p. 132]
 
 So, in order to determine if a specific good is useful to a person, that
 person needs to know its "cost." Under capitalism, the notion of cost has been
@@ -1168,8 +1174,8 @@ plus 2 units of raw material A (which is produced by an hour's socially
 necessary labour). Q takes 9 hours of labour and one unit of A. He asserts
 that in terms of labour P and Q _"are equivalent, but in value terms P is more
 valuable than Q. The former is false, and only the later corresponds to the
-nature and purpose of calculation."_ [_"Economic Calculation in the Socialist
-Commonwealth"_, **Op. Cit.**, p. 113]
+nature and purpose of calculation."_ [ _"Economic Calculation in the Socialist
+Commonwealth"_ , **Op. Cit.** , p. 113]
 
 The flaw in his argument is clear. Assuming that an hour of socially necessary
 labour is £10 then, in price terms, P would have £80 of direct labour costs,
@@ -1188,7 +1194,7 @@ As John O'Neill points out, _"Mises' earlier arguments against socialist
 planning turned on an assumption about commensurability. His central argument
 was that rational economic decision-making required a single measure on the
 basis of which the worth of alternative states of affairs could be calculated
-and compared."_ [**Ecology, Policy and Politics**, p. 115] This central
+and compared."_ [ **Ecology, Policy and Politics** , p. 115] This central
 assumption was unchallenged by Taylor and Lange in their defence of
 "socialism", meaning that from the start the debate against Mises was
 defensive and based on the argument that socialist planning could mimic the
@@ -1199,7 +1205,7 @@ Anarchists question whether using prices means basing all decision making on
 one criterion and ignoring all others is a rational thing to do. As O'Neill
 suggests, _"the relative scarcity of items . . . hardly exhaust the full gamut
 of information that is distributed throughout society which might be relevant
-to the co-ordination of economic activities and plans."_ [**The Market**, p.
+to the co-ordination of economic activities and plans."_ [ **The Market** , p.
 196] Saying that a good costs £10 does not tell you much about the amount of
 pollution its production or use generates, under what conditions of labour it
 was produced, whether its price is affected by the market power of the firm
@@ -1220,8 +1226,8 @@ to indicate which uses least resources as it is influenced by market power.
 Indeed, as Takis Fotopoulos notes, _"[i]f . . . both central planning and the
 market economy inevitably lead to concentrations of power, then neither the
 former nor the latter can produce the sort of information flows and incentives
-which are necessary for the best functioning of any economic system."_
-[**Towards an Inclusive Democracy**, p. 252] Moreover, a good produced under a
+which are necessary for the best functioning of any economic system."_ [
+**Towards an Inclusive Democracy** , p. 252] Moreover, a good produced under a
 authoritarian state which represses its workforce could have a lower price
 than one produced in a country which allowed unions to organise and has basic
 human rights. The repression would force down the cost of labour, so making
@@ -1249,7 +1255,7 @@ back without dialogue. The market informs by 'exit' -- some products find a
 market, others do not. 'Voice' is not exercised. This failure of dialogue . .
 . represents an informational failure of the market, not a virtue . . . The
 market . . . does distribute information . . . it also blocks a great deal."_
-[**Op. Cit.**, p. 99]
+[ **Op. Cit.** , p. 99]
 
 So a purely market-based system leaves out information on which to base
 rational resource allocations (or, at the very least, hides it). The reason
@@ -1267,7 +1273,7 @@ decision-making in production is not provided by the market. In other words,
 capitalist "calculation" fails because private firms are oblivious to the
 social cost of their labour and raw materials inputs.
 
-Indeed, prices often **mis**-value goods as companies can gain a competitive
+Indeed, prices often **mis** -value goods as companies can gain a competitive
 advantage by passing costs onto society (in the form of pollution, for
 example, or de-skilling workers, increasing job insecurity, and so on). This
 externalisation of costs is actually rewarded in the market as consumers seek
@@ -1281,15 +1287,15 @@ their input costs through off-the-book social and environmental externalities.
 As Chomsky suggests:
 
 > _"it is by now widely realised that the economist's 'externalities can no
-longer be consigned to footnotes. No one who gives a moment's thought to the
-problems of contemporary society can fail to be aware of the social costs of
-consumption and production, the progressive destruction of the environment,
-the utter irrationality of the utilisation of contemporary technology, the
-inability of a system based on profit or growth-maximisation to deal with
-needs that can only be expressed collectively, and the enormous bias this
-system imposes towards maximisation of commodities for personal use in place
-of the general improvement of the quality of life."_ [**Radical Priorities**,
-pp. 190-1]
+> longer be consigned to footnotes. No one who gives a moment's thought to the
+> problems of contemporary society can fail to be aware of the social costs of
+> consumption and production, the progressive destruction of the environment,
+> the utter irrationality of the utilisation of contemporary technology, the
+> inability of a system based on profit or growth-maximisation to deal with
+> needs that can only be expressed collectively, and the enormous bias this
+> system imposes towards maximisation of commodities for personal use in place
+> of the general improvement of the quality of life."_ [ **Radical
+> Priorities** , pp. 190-1]
 
 Prices hide the actual costs that production involved for the individual,
 society, and the environment, and instead boils everything down into **one**
@@ -1314,7 +1320,7 @@ that obscured the workings of capitalism, and would generate and reproduce
 economic and social inequalities. Ignoring the social character of the economy
 with their methodological individualism, economic liberals also ignored the
 social costs of particular choices and the question of externalities."_
-[Michael Schmidt and Lucien van der Walt, **Black Flame**, p. 92] This
+[Michael Schmidt and Lucien van der Walt, **Black Flame** , p. 92] This
 suggests that prices cannot be taken to reflect real costs any more that they
 can reflect the social expression of the valuation of goods. They are the
 result of a conflict waged over these goods and those that acted as their
@@ -1326,8 +1332,8 @@ may have to its costs in terms of resource use. Prices are misshapen.
 
 Little wonder Kropotkin asked whether _"are we not yet bound to analyse that
 compound result we call price rather than to accept it as a supreme and blind
-ruler of our actions?"_ [**Fields, Factories and Workshops Tomorrow**, p. 71]
-It is precisely these **real** costs, hidden by price, which need to be
+ruler of our actions?"_ [ **Fields, Factories and Workshops Tomorrow** , p.
+71] It is precisely these **real** costs, hidden by price, which need to be
 communicated to producers and consumers for them to make informed and rational
 decisions concerning their economic activity.
 
@@ -1341,7 +1347,7 @@ one man alone -- be it ever so cunning, is too weak to grasp the importance of
 any single one among the countlessly many goods of higher order. No single man
 can ever master all the possibilities of production, innumerable as they are,
 as to be in a position to make straightway evident judgements of value without
-the aid of some system of computation."_ [**Op. Cit.**, p. 102]
+the aid of some system of computation."_ [ **Op. Cit.** , p. 102]
 
 A libertarian communist society would, it must be stressed, use various _"aids
 to the mind"_ to help individuals and groups to make economic decisions. This
@@ -1375,7 +1381,7 @@ these can be determined without the use of money and markets.
 
 [Section I.4](secI4.md) discusses possible frameworks for an anarchist
 economy, including suggestions for libertarian communist economic decision-
-making processes. In terms of _"aids to the mind"_, these include methods to
+making processes. In terms of _"aids to the mind"_ , these include methods to
 compare goods for resource allocation by indicating the absolute costs
 involved in producing a good and the relative scarcity of a specific good,
 among other things. Such a framework is necessary because _"an appeal to a
@@ -1388,9 +1394,9 @@ and institutional arrangements that can be followed unreflectively and which
 affairs. There are limits in time, efficient use of resources and the
 dispersal of knowledge which require rules and institutions. Such rules and
 institutions can free us for space and time for reflective judgements where
-they matter most."_ [John O'Neill, **Ecology, Policy and Politics**, pp.
+they matter most."_ [John O'Neill, **Ecology, Policy and Politics** , pp.
 117-8] It is these _"rules and institutions need themselves to be open to
-critical and reflective appraisal."_ [O'Neill, **The Market**, p. 118]
+critical and reflective appraisal."_ [O'Neill, **The Market** , p. 118]
 
 Economic decisions, in other words, cannot be reduced down to one factor yet
 Mises argued that anyone _"who wished to make calculations in regard to a
@@ -1398,7 +1404,7 @@ complicated process of production will immediately notice whether he has
 worked more economically than others or not; if he finds, from reference to
 the exchange values obtaining in the market, that he will not be able to
 produce profitably, this shows that others understand how to make better use
-of the higher-order goods in question."_ [**Op. Cit.**, pp. 97-8] However,
+of the higher-order goods in question."_ [ **Op. Cit.** , pp. 97-8] However,
 this only shows whether someone has worked more **profitably** than others,
 not whether it is more economical. Market power automatically muddles this
 issue, as does the possibility of reducing the monetary cost of production by
@@ -1412,20 +1418,21 @@ determining "profitably."
 
 Basing your economic decision making on a single criteria, namely
 profitability, can, and does, lead to perverse results. Most obviously, the
-tendency for capitalists to save money by not introducing safety equipment
-(_"To save a dollar the capitalist build their railroads poorly, and along
+tendency for capitalists to save money by not introducing safety equipment (
+_"To save a dollar the capitalist build their railroads poorly, and along
 comes a train, and loads of people are killed. What are their lives to him, if
 by their sacrifice he has saved money?"_ [Emma Goldman, **A Documentary
-History of the American Years**, vol. 1, p. 157]). Similarly, it is considered
-a more "efficient" use of resources to condemn workers to deskilling and
-degrading work than "waste" resources in developing machines to eliminate or
-reduce it (_"How many machines remain unused solely because they do not return
-an immediate profit to the capitalist! . . . How many discoveries, how many
-applications of science remain a dead letter solely because they don't bring
-the capitalist enough!"_ [Carlo Cafiero, _"Anarchy and Communism"_, pp.
-179-86, **The Raven**, No. 6, p. 182]). Similarly, those investments which
-have a higher initial cost but which, in the long run, would have, say, a
-smaller environmental impact would not be selected in a profit-driven system.
+History of the American Years** , vol. 1, p. 157]). Similarly, it is
+considered a more "efficient" use of resources to condemn workers to
+deskilling and degrading work than "waste" resources in developing machines to
+eliminate or reduce it ( _"How many machines remain unused solely because they
+do not return an immediate profit to the capitalist! . . . How many
+discoveries, how many applications of science remain a dead letter solely
+because they don't bring the capitalist enough!"_ [Carlo Cafiero, _"Anarchy
+and Communism"_ , pp. 179-86, **The Raven** , No. 6, p. 182]). Similarly,
+those investments which have a higher initial cost but which, in the long run,
+would have, say, a smaller environmental impact would not be selected in a
+profit-driven system.
 
 This has seriously irrational effects, because the managers of capitalist
 enterprises are obliged to choose technical means of production which produce
@@ -1440,13 +1447,13 @@ the planet and those who live on it. As green economist E. F. Schumacher
 argued:
 
 > _"But what does it **mean** when we say that something is uneconomic? . . .
-[S]omething is uneconomic when it fails to earn an adequate profit in terms of
-money. The method of economics does not, and cannot, produce any other meaning
-. . . The judgement of economics . . . is an extremely **fragmentary**
-judgement; out of the large number of aspects which in real life have to be
-seen and judged together before a decision can be taken, economics supplies
-only one -- whether a money profit accrues **to those who undertake it** or
-not."_ [**Small is Beautiful**, pp. 27-8]
+> [S]omething is uneconomic when it fails to earn an adequate profit in terms
+> of money. The method of economics does not, and cannot, produce any other
+> meaning . . . The judgement of economics . . . is an extremely
+> **fragmentary** judgement; out of the large number of aspects which in real
+> life have to be seen and judged together before a decision can be taken,
+> economics supplies only one -- whether a money profit accrues **to those who
+> undertake it** or not."_ [ **Small is Beautiful** , pp. 27-8]
 
 Schumacher stressed that _"about the **fragmentary** nature of the judgements
 of economics there can be no doubt whatever. Even with the narrow compass of
@@ -1460,7 +1467,8 @@ at some cost it protects and conserves the environment, will be uneconomic."_
 Moreover, _"[d]o not overlook the words 'to those who undertake it.' It is a
 great error to assume, for instance, that the methodology of economics is
 normally applied to determine whether an activity carried out by a group
-within society yields a profit to society as a whole."_ [**Op. Cit.**, p. 29]
+within society yields a profit to society as a whole."_ [ **Op. Cit.** , p.
+29]
 
 To claim that prices include all these "externalities" is nonsense. If they
 did, we would not see capital moving to third-world countries with few or no
@@ -1492,7 +1500,7 @@ support a system which ignores the needs of individuals, their happiness,
 health, surroundings, environment and so on by _"its very nature"_ says a lot.
 His suggestion that we assign monetary values to such dimensions begs the
 question and has plausibility only if it assumes what it is supposed to prove.
-[**Op. Cit.**, p. 99-100] Indeed, the person who would put a price on
+[ **Op. Cit.** , p. 99-100] Indeed, the person who would put a price on
 friendship would have no friends as they simply do not understand what
 friendship is and are thereby excluded from much which is best in human life.
 Likewise for other _"extra-economic"_ goods that individuals value, such as
@@ -1515,8 +1523,8 @@ to its decentralised nature, it need not embrace the price mechanism. It can
 evaluate the efficiency of its decisions by looking at the **real** costs
 involved to society rather than embrace the distorted system of costing
 explicit in the price mechanism (as Kropotkin once put it, _"if we analyse
-**price**"_ we must _"make a distinction between its different elements"_.
-[**Op. Cit.**, p. 72]).
+**price** "_ we must _"make a distinction between its different elements"_. [
+**Op. Cit.** , p. 72]).
 
 In summary, then, Mises considered only central planning as genuine socialism,
 meaning that a decentralised communism was not addressed. Weighting up the
@@ -1525,7 +1533,7 @@ potential situations they could be used would be impossible in a centralised
 system, yet in decentralised communism this is not an issue. Each individual
 commune and syndicate would be choosing from the few alternatives required to
 meet their needs. With the needs known, the alternatives can be compared --
-particularly if agreed criteria (_"aids to the mind"_) are utilised and the
+particularly if agreed criteria ( _"aids to the mind"_ ) are utilised and the
 appropriate agreed information communicated.
 
 Efficient economic decision making in a moneyless "economy" is possible,
@@ -1576,7 +1584,7 @@ to gain access to it. As Kropotkin argued, _"the capitalist system makes us
 pay for everything three or four times its labour value"_ thanks to rent,
 profit, interest and the actions of middle men. Such system specific "costs"
 hide the actual costs (in terms of labour and resource use) by increasing the
-price compared to if we _"reckon our expenses in labour"_. [**Op. Cit.**, p.
+price compared to if we _"reckon our expenses in labour"_. [ **Op. Cit.** , p.
 68]
 
 Moreover, somewhat ironically, this "economising" of resources which the
@@ -1607,7 +1615,7 @@ Hayek and Mises used to judge the relative merits of communism and capitalism.
 As the former put it, the issue was _"a distribution of income independent of
 private property in the means of production and a volume of output which was
 at least approximately the same or even greater than that procured under free
-competition."_ [_"The Nature and History of the Problem"_, **Op. Cit.**, p.
+competition."_ [ _"The Nature and History of the Problem"_ , **Op. Cit.** , p.
 37] Thus the issue is reduced to that of output (quantity), not issues of
 freedom (quality). If slavery or Stalinism **had** produced more output than
 free market capitalism, that would not make either system desirable This was,
@@ -1639,15 +1647,15 @@ income in the hands of a small minority had proceeded so rapidly that we're
 not sure whether the typical American has gained anything from rising
 productivity."_ This means that wealth has flooded upwards, and _"the lion's
 share of economic growth in America over the past thirty years has gone to a
-small, wealthy minority."_ [**The Conscience of a Liberal**, p. 124 and p.
+small, wealthy minority."_ [ **The Conscience of a Liberal** , p. 124 and p.
 244]
 
 To conclude. Capitalist "efficiency" is hardly rational and for a fully human
 and ecological efficiency libertarian communism is required. As Buick and
 Crump point out, _"socialist society still has to be concerned with using
 resources efficiently and rationally, but the criteria of 'efficiency' and
-'rationality' are not the same as they are under capitalism."_ [**Op. Cit.**,
-p. 137] Under communist-anarchism, the decision-making system used to
+'rationality' are not the same as they are under capitalism."_ [ **Op. Cit.**
+, p. 137] Under communist-anarchism, the decision-making system used to
 determine the best use of resources is not more or less "efficient" than
 market allocation, because it goes beyond the market-based concept of
 "efficiency." It does not seek to mimic the market but to do what the market
@@ -1662,7 +1670,7 @@ communism will be "efficient" in a totally different way and people will act
 in ways considered "irrational" only under the narrow logic of capitalism.
 
 For another critique of Mises, see Robin Cox's _"The 'Economic Calculation'
-controversy: unravelling of a myth"_ [**Common Voice**, Issue 3]
+controversy: unravelling of a myth"_ [ **Common Voice** , Issue 3]
 
 ## I.1.3 What is wrong with markets anyway?
 
@@ -1744,7 +1752,7 @@ the market in which they must function."_ This _"tends increasingly to
 encroach on their higher ethical goals -- generally, in the name of
 'efficiency', and the need to 'grow' if they are to survive, and the
 overwhelming temptation to acquire larger earnings."_ [Murray Bookchin,
-**Remaking Society**, pp. 193-4]
+**Remaking Society** , pp. 193-4]
 
 Similarly, a market of self-managed firms would still suffer from booms and
 slumps as the co-operatives response to changes in prices would still result
@@ -1783,8 +1791,8 @@ of, say, pollution, inequality and so on). This awkward fact is ignored in the
 market. As the left-wing economist Joan Robinson put it: _"In what industry,
 in what line of business, are the true social costs of the activity registered
 in its accounts? Where is the pricing system that offers the consumer a fair
-choice between air to breath and motor cars to drive about in?"_
-[**Contribution to Modern Economics**, p. 10]
+choice between air to breath and motor cars to drive about in?"_ [
+**Contribution to Modern Economics** , p. 10]
 
 While, to be fair, there will be a reduced likelihood for a workplace of self-
 employed workers to pollute their own neighbourhoods in a free society, the
@@ -1807,13 +1815,13 @@ it easy, for as Max Stirner argued, _"[r]estless acquisition does not let us
 take breath, take a calm **enjoyment**. We do not get the comfort of our
 possessions . . . Hence it is at any rate helpful that we come to an agreement
 about **human** labours that they may not, as under competition, claim all our
-time and toil."_ [**The Ego and Its Own**, p. 268] Value needs to be created,
-and that can only be done by labour and so even a non-capitalist market system
-will see work dominate people's lives. Thus the need to survive on the market
-can impact on broader (non-monetary) measures of welfare, with quality of life
-falling as a higher GDP is created as the result of longer working hours with
-fewer holidays. Such a regime may, perhaps, be good for material wealth but it
-is not great for people.
+time and toil."_ [ **The Ego and Its Own** , p. 268] Value needs to be
+created, and that can only be done by labour and so even a non-capitalist
+market system will see work dominate people's lives. Thus the need to survive
+on the market can impact on broader (non-monetary) measures of welfare, with
+quality of life falling as a higher GDP is created as the result of longer
+working hours with fewer holidays. Such a regime may, perhaps, be good for
+material wealth but it is not great for people.
 
 The market can also block the efficient use of resources. For example, for a
 long time energy efficient light-bulbs were much more expensive than normal
@@ -1854,7 +1862,7 @@ that, in the words of Noam Chomsky, _"wealth and power tend to accrue to those
 who are ruthless, cunning, avaricious, self-seeking, lacking in sympathy and
 compassion, subservient to authority and willing to abandon principle for
 material gain, and so on . . . Such qualities might be just the valuable ones
-for a war of all against all."_ [**For Reasons of State**, pp. 139-140]
+for a war of all against all."_ [ **For Reasons of State** , pp. 139-140]
 
 Needless to be said, if the market does reward such people with success it can
 hardly be considered as a **good** thing. A system which elevates making money
@@ -1868,11 +1876,11 @@ places winning at any cost above fairness and justice. Kohn quotes Nathan
 Ackerman, the father of family therapy, who noted that the _"strife of
 competition reduces empathic sympathy, distorts communication, impairs the
 mutuality of support and sharing, and decreases the satisfaction of personal
-need."_ [**No Contest**, p. 163 and pp. 142-3] Thus, the market can impoverish
-us as individuals, sabotaging self-esteem, promoting conformity, ruining
-relationships and making us less than what we could be. This is a problem of
-markets as such, not only capitalist ones and so non-capitalist markets could
-make us less human and more a robot.
+need."_ [ **No Contest** , p. 163 and pp. 142-3] Thus, the market can
+impoverish us as individuals, sabotaging self-esteem, promoting conformity,
+ruining relationships and making us less than what we could be. This is a
+problem of markets as such, not only capitalist ones and so non-capitalist
+markets could make us less human and more a robot.
 
 All market decisions are crucially conditioned by the purchasing power of
 those income groups that can back their demands with money. Not everyone can
@@ -1880,16 +1888,16 @@ work (the sick, the very old, children and so forth) and for those who can,
 personal circumstances may impact on their income. Moreover, production has
 become so interwoven that it _"is utterly impossible to draw a distinction
 between the work of each"_ and so we should _"put the **needs** above the
-**works**, and first of all to recognise **the right to live**, and later on
+**works** , and first of all to recognise **the right to live** , and later on
 **the right to well-being** for all those who took their share in
 production."_ This is particularly the case as _"the needs of the individual,
-do not always correspond to his **works**"_ \-- for example, _"a man of forty,
-father of three children, has other needs than a young man of twenty"_ and
-_"the woman who suckles her infant and spends sleepless nights at its bedside,
-cannot do as much **work** as the man who has slept peacefully."_ [Kropotkin,
-**Conquest of Bread**, p. 170 and p. 171] This was why communist-anarchists
-like Kropotkin stressed the need not only to abolish wage-labour but also
-money, the wages system.
+do not always correspond to his **works** "_ \-- for example, _"a man of
+forty, father of three children, has other needs than a young man of twenty"_
+and _"the woman who suckles her infant and spends sleepless nights at its
+bedside, cannot do as much **work** as the man who has slept peacefully."_
+[Kropotkin, **Conquest of Bread** , p. 170 and p. 171] This was why communist-
+anarchists like Kropotkin stressed the need not only to abolish wage-labour
+but also money, the wages system.
 
 So it goes without saying that purchasing power (demand) and need are not
 related, with people often suffering simply because they do not have the money
@@ -1901,7 +1909,7 @@ most purchasing power the winners. This means that the market system is the
 worst one for allocating resources when purchasing power is unequally
 distributed (this is why orthodox economists make the convenient assumption of
 a _"given distribution of income"_ when they try to show that a capitalist
-allocation of resources is the best one via _"Pareto optimality"_). While a
+allocation of resources is the best one via _"Pareto optimality"_ ). While a
 mutualist system should reduce inequality drastically, it cannot be assumed
 that inequalities will not increase over time. This is because inequalities in
 resources leads to inequalities of power on the market and, assuming self-
@@ -1947,10 +1955,10 @@ argued, competition _"has a continued existence"_ because _"all do not attend
 to **their** **affair** and come to an **understanding** with each other about
 it . . . . Abolishing competition is not equivalent to favouring the guild.
 The difference is this: In the **guild** baking, etc., is the affair of the
-guild-brothers; in **competition**, the affair of chance competitors; in the
-**union**, of those who require baked goods, and therefore my affair, yours,
+guild-brothers; in **competition** , the affair of chance competitors; in the
+**union** , of those who require baked goods, and therefore my affair, yours,
 the affair of neither guildic nor the concessionary baker, but the affair of
-the **united.**"_ [**Op. Cit.**, p. 275]
+the **united.** "_ [ **Op. Cit.** , p. 275]
 
 Therefore, social anarchists do not appeal purely to altruism in their
 struggle against the de-humanising effects of the market, but also to egoism:
@@ -1961,9 +1969,9 @@ individual is not crushed by market forces and has time to fully develop his
 or her individuality and uniqueness:
 
 > _"Solidarity is therefore the state of being in which Man attains the
-greatest degree of security and wellbeing; and therefore egoism itself, that
-is the exclusive consideration of one's own interests, impels Man and human
-society towards solidarity."_ [Errico Malatesta, **Anarchy**, p. 30]
+> greatest degree of security and wellbeing; and therefore egoism itself, that
+> is the exclusive consideration of one's own interests, impels Man and human
+> society towards solidarity."_ [Errico Malatesta, **Anarchy** , p. 30]
 
 In conclusion then, communist-anarchists argue that even non-capitalist
 markets would result in everyone being so busy competing to further their
@@ -2017,14 +2025,14 @@ Both are wrong. First, and most obviously, socialism does not equal communism
 (and vice versa). While there is a tendency on both right and left to equate
 socialism with communism (particularly Marxism), in reality, as Proudhon once
 noted, socialism _"was not founded as a sect or church; it has seen a number
-of different schools."_ [**Property is Theft!**, p. 23] Only a few of these
+of different schools."_ [ **Property is Theft!** , p. 23] Only a few of these
 schools are communist, just as only a few of them are libertarian. Second, not
 all socialist schools aim to abolish the market and payment by deed. Proudhon,
 for example, opposed communism and state socialism just as much as he opposed
 capitalism. Third, capitalism does not equal the market. The market predates
 capitalism and, for some libertarian socialists, will survive it. Even from a
 Marxist position, a noted in [section I.1.1](secI.md#seci11) , the defining
-feature of capitalism is **wage labour**, not the market.
+feature of capitalism is **wage labour** , not the market.
 
 Why some socialists desire to reduce the choices facing humanity to either
 communism or some form of capitalism is frankly strange, but also
@@ -2049,7 +2057,7 @@ used it as the basis of his system of labour notes while Kropotkin argued that
 such a system was just the wages-system under another form and a free society
 _"having taken possession of all social wealth, having boldly proclaimed the
 right of all to this wealth . . . will be compelled to abandon any system of
-wages, whether in currency or labour-notes."_ [**The Conquest of Bread**, p.
+wages, whether in currency or labour-notes."_ [ **The Conquest of Bread** , p.
 167]
 
 In other words, though a system of co-operative selling on the market (what is
@@ -2069,7 +2077,7 @@ Proudhon put it, while the _"members of a community, it is true, have no
 private property"_ the community itself _"is proprietor"_ and so communism
 _"is inequality, but not as property is. Property is the exploitation of the
 weak by the strong. Communism is the exploitation of the strong by the weak."_
-[**What is Property?**, p. 250]
+[ **What is Property?** , p. 250]
 
 Needless to say, subsequent anarchists rejected Proudhon's blanket opposition
 to all forms of communism, rejecting this position as only applicable to
@@ -2084,7 +2092,7 @@ than socialism (distribution according to deed) is exploitative misses the
 point as far as communist anarchism goes. This is because of two reasons.
 
 Firstly, _"Anarchist Communism . . . means voluntary Communism, Communism from
-free choice."_ [Alexander Berkman, **What is Anarchism**, p. 148] This means
+free choice."_ [Alexander Berkman, **What is Anarchism** , p. 148] This means
 it is not imposed on anyone but is created and practised only by those who
 believe in it.
 
@@ -2125,20 +2133,20 @@ communist society have been, or will be, workers. As the noted Spanish
 anarchist De Santillan pointed out, _"[n]aturally, children, the aged and the
 sick are not considered parasites. The children will be productive when they
 grow up. The aged have already made their contribution to social wealth and
-the sick are only temporarily unproductive."_ [**After the Revolution**, p.
+the sick are only temporarily unproductive."_ [ **After the Revolution** , p.
 20] In other words, over their life time, everyone contributes to society and
 so using the "account book" mentality of capitalism misses the point. As
 Kropotkin put it:
 
 > _"Services rendered to society, be they work in factory or field, or mental
-services, **cannot be** valued in money. There can be no exact measure of
-value (of what has been wrongly-termed exchange value), nor of use value, with
-regard to production. If two individuals work for the community five hours a
-day, year in year out, at different work which is equally agreeable to them,
-we may say that on the whole their labour is equivalent. But we cannot divide
-their work, and say that the result of any particular day, hour, or minute of
-work of the one is worth the result of a minute or hour of the other."_
-[**Conquest of Bread**, p. 168]
+> services, **cannot be** valued in money. There can be no exact measure of
+> value (of what has been wrongly-termed exchange value), nor of use value,
+> with regard to production. If two individuals work for the community five
+> hours a day, year in year out, at different work which is equally agreeable
+> to them, we may say that on the whole their labour is equivalent. But we
+> cannot divide their work, and say that the result of any particular day,
+> hour, or minute of work of the one is worth the result of a minute or hour
+> of the other."_ [ **Conquest of Bread** , p. 168]
 
 So it is difficult to evaluate how much an individual worker or group of
 workers actually contribute to society. This can be seen whenever workers
@@ -2181,22 +2189,22 @@ payment a reality. Life, for libertarian communists, is just too complex and
 fleeting to waste time and energy calculating exactly the contribution of each
 to society. As Malatesta put it:
 
-> _"I say that **the worker has the right to the entire product of his work**:
-but I recognise that this right is only a formula of abstract justice; and
-means, in practice, that there should be no exploitation, that everyone must
-work and enjoy the fruits of their labour, according to the custom agreed
-among them._
+> _"I say that **the worker has the right to the entire product of his work**
+> : but I recognise that this right is only a formula of abstract justice; and
+> means, in practice, that there should be no exploitation, that everyone must
+> work and enjoy the fruits of their labour, according to the custom agreed
+> among them._
 
 > _"Workers are not isolated beings that live for themselves and for
-themselves, but social beings . . . Moreover, it is impossible, the more so
-with modern production methods, to determine the exact labour that each worker
-contributed, just as it is impossible to determine the differences in
-productivity of each worker or each group of workers, how much is due to the
-fertility of the soil, the quality of the implements used, the advantages or
-difficulties flowing from the geographical situation or the social
-environment. Hence, the solution cannot be found in respect to the strict
-rights of each person, but must be sought in fraternal agreement, in
-solidarity."_ [**At the Café**, pp. 56-7]
+> themselves, but social beings . . . Moreover, it is impossible, the more so
+> with modern production methods, to determine the exact labour that each
+> worker contributed, just as it is impossible to determine the differences in
+> productivity of each worker or each group of workers, how much is due to the
+> fertility of the soil, the quality of the implements used, the advantages or
+> difficulties flowing from the geographical situation or the social
+> environment. Hence, the solution cannot be found in respect to the strict
+> rights of each person, but must be sought in fraternal agreement, in
+> solidarity."_ [ **At the Café** , pp. 56-7]
 
 All in all, most anarchists reject the notion that people sharing the world
 (which is all communism really means) equates to them being exploited by
@@ -2218,9 +2226,9 @@ I.1.2](secI1.md#seci12) , the informational problems of prices and the
 limitations in using profit as the sole criteria for decision making for the
 efficient allocation of resources. As such, anarchists have reason to doubt
 the arguments of the "Austrian" school of economics that (libertarian)
-socialism is impossible, as first suggested by Ludwig Von Mises in 1920.
-[_"Economic Calculation in the Socialist Commonwealth"_, **Collectivist
-Economic Planning**, F.A von Hayek (ed.), pp. 87-130] Here, we discuss why
+socialism is impossible, as first suggested by Ludwig Von Mises in 1920. [
+_"Economic Calculation in the Socialist Commonwealth"_ , **Collectivist
+Economic Planning** , F.A von Hayek (ed.), pp. 87-130] Here, we discuss why
 anarchists also have strong reason to question the underlying assumption that
 capitalism efficiently allocates resources and how this impacts on claims that
 "socialism" is impossible. This is based on an awareness of the flaws in any
@@ -2262,17 +2270,18 @@ brought towards it. Thus _"this approach postulates a tendency for profit
 opportunities to be **discovered** and **grasped** by routine-resisting
 entrepreneurial market participants"_, with this _"tending to nudge the market
 in the equilibrative direction."_ Lip-service is paid to the obvious fact that
-entrepreneurs can make errors but _"**there is no tendency for entrepreneurial
-errors to be made.** The tendency which the market generates toward greater
-mutual awareness, is not offset by any equal but opposite tendency in the
-direction of diminishing awareness"_ and so the _"entrepreneurial market
-process may indeed reflect a systematically equilibrative **tendency**, but
-this by no means constitutes a **guaranteed** unidirectional, flawlessly
-converging trajectory."_ All this results on the _"speculative actions of
-entrepreneurs who see opportunities for pure profit in the conditions of
-disequilibrium."_ [Israel M. Kirzner, _"Entrepreneurial Discovery and the
-Competitive Market Process: An Austrian Approach"_, pp. 60-85, **Journal of
-Economic Literature**, Vol. 35, No. 1, p. 71, p. 73, p. 82, p. 72 and p. 68]
+entrepreneurs can make errors but _" **there is no tendency for
+entrepreneurial errors to be made.** The tendency which the market generates
+toward greater mutual awareness, is not offset by any equal but opposite
+tendency in the direction of diminishing awareness"_ and so the
+_"entrepreneurial market process may indeed reflect a systematically
+equilibrative **tendency** , but this by no means constitutes a **guaranteed**
+unidirectional, flawlessly converging trajectory."_ All this results on the
+_"speculative actions of entrepreneurs who see opportunities for pure profit
+in the conditions of disequilibrium."_ [Israel M. Kirzner, _"Entrepreneurial
+Discovery and the Competitive Market Process: An Austrian Approach"_ , pp.
+60-85, **Journal of Economic Literature** , Vol. 35, No. 1, p. 71, p. 73, p.
+82, p. 72 and p. 68]
 
 When evaluating this argument, it is useful to remember that _"postulate"_
 means **"to assume without proof to be true"** or **"to take as self-
@@ -2283,7 +2292,7 @@ Lachmann, recognise that market forces have both equilibrating **and**
 disequilibrium effects, acknowledged in passing by Kirzner: _"In a world of
 incessant change, they argue, it is precisely those acts of entrepreneurial
 boldness which must frustrate any discovery efforts made by fellow
-entrepreneurs."_ [**Op. Cit.**, p. 79]). In other words, market activity can
+entrepreneurs."_ [ **Op. Cit.** , p. 79]). In other words, market activity can
 lead to economic crisis and inefficient allocation decisions. A successful
 entrepreneur will, by their actions, frustrate the plans of others, most
 obviously those of his competitors but also those who require the goods they
@@ -2304,7 +2313,7 @@ _"not only proved to be vulnerable to the Cambridge capital critique . . . ,
 but also appeared to reply upon concepts of equilibrium (the 'natural rate of
 interest', for example) that were inconsistent with the broader principles of
 Austrian economic theory."_ [J.E. King, **A history of post Keynesian
-economics since 1936**, p. 230] As we discussed in [section C.8](secC8.md),
+economics since 1936** , p. 230] As we discussed in [section C.8](secC8.md),
 this kind of activity is to be expected of entrepreneurs seeking to make money
 from meeting market demand. The net result of this activity is a tendency
 **away** from equilibrium. This can be generalised for all markets, with the
@@ -2330,24 +2339,24 @@ once _"such trading has taken place, there can be no guarantee that, even if
 an equilibrium exists, the economy will ever converge to it. In fact, it is
 likely to move in cycles around the equilibrium."_ This _"is more than a mere
 supposition. It is an accurate description of what does happen in the real
-world."_ [Paul Ormerod, **The Death of Economics**, pp. 87-8] Once we dismiss
+world."_ [Paul Ormerod, **The Death of Economics** , pp. 87-8] Once we dismiss
 the ideologically driven _"postulate"_ of "Austrian" economics, we can see how
 these opportunities for "pure profit" (and, of course, a corresponding pure
 loss for the buyer) impacts on the economy and how the market system adds to
 uncertainty. As dissident economist Steve Keen puts it:
 
 > _"However, a change in prices in one market will affect consumer demand in
-all other markets. This implies that a move towards equilibrium by one market
-could cause some or all others to move away from equilibrium. Clearly it is
-possible that this . . . might never settle down to equilibrium._
+> all other markets. This implies that a move towards equilibrium by one
+> market could cause some or all others to move away from equilibrium. Clearly
+> it is possible that this . . . might never settle down to equilibrium._
 
 > _"This will be especially so if trades actually occur at disequilibrium --
-as in practice they must . . . A disequilibrium trade will mean that the
-people on the winning side of the bargain -- sellers if the price is higher
-than equilibrium -- will gain real income at the expense of the losers,
-compared to the alleged standard of equilibrium. This shift in income
-distribution will then affect all other markets, making the dance of many
-markets even more chaotic."_ [**Debunking Economics**, p. 169]
+> as in practice they must . . . A disequilibrium trade will mean that the
+> people on the winning side of the bargain -- sellers if the price is higher
+> than equilibrium -- will gain real income at the expense of the losers,
+> compared to the alleged standard of equilibrium. This shift in income
+> distribution will then affect all other markets, making the dance of many
+> markets even more chaotic."_ [ **Debunking Economics** , p. 169]
 
 That prices can, and do, convey extremely misleading information is something
 which "Austrians" have a tendency to downplay. Yet in economies closer to
@@ -2369,7 +2378,7 @@ equilibrium. Without equilibrium, we cannot say that prices provide companies
 sufficient information to make rational investment decisions. They may act on
 price information which is misleading, in that it reflects temporary highs or
 lows in the market or which is a result of speculative bubbles. An investment
-decision made on the **mis**-information implied in disequilibrium prices is
+decision made on the **mis** -information implied in disequilibrium prices is
 as likely to produce mal-investment and subsequent macro-economic distortions
 as decisions made in light of the interest rate not being at its "natural"
 (equilibrium) value. So unless it is assumed that the market is in equilibrium
@@ -2395,9 +2404,9 @@ so driving the market price down. Thus the market is marked by uncertainty,
 the future is not known. So it seems ironic to read Mises asserting that _"in
 the socialist commonwealth every economic change becomes an undertaking whose
 success can be neither appraised in advance nor later retrospectively
-determined. There is only groping in the dark."_ [**Op. Cit.**, p. 110]
+determined. There is only groping in the dark."_ [ **Op. Cit.** , p. 110]
 
-In terms of _"appraised in advance"_, Mises is essentially assuming that
+In terms of _"appraised in advance"_ , Mises is essentially assuming that
 capitalists can see the future. In the real world, rather than in the unreal
 world of capitalist economics, the future is unknown and, as a result, success
 can only be guessed at. This means that any investment decision under **real**
@@ -2410,16 +2419,16 @@ appraised beforehand with any real degree of certainty. Somewhat ironically,
 Mises noted that _"the static nature of economic activity is only a
 theoretical assumption corresponding to no real state of affairs, however
 necessary it may be for our thinking and for the perfection of our knowledge
-of economics."_ [**Op. Cit.**, p. 109] Or, for that matter, our critique of
+of economics."_ [ **Op. Cit.** , p. 109] Or, for that matter, our critique of
 socialism! This can be seen from one of his examples against socialism:
 
 > _"Picture the building of a new railroad. Should it be built at all, and if
-so, which out of a number of conceivable roads should be built? In a
-competitive and monetary economy, this question would be answered by monetary
-calculation. The new road will render less expensive the transport of some
-goods, and it may be possible to calculate whether this reduction of expense
-transcends that involved in the building and upkeep of the next line. That can
-only be calculated in money."_ [**Op. Cit.**, p. 108]
+> so, which out of a number of conceivable roads should be built? In a
+> competitive and monetary economy, this question would be answered by
+> monetary calculation. The new road will render less expensive the transport
+> of some goods, and it may be possible to calculate whether this reduction of
+> expense transcends that involved in the building and upkeep of the next
+> line. That can only be calculated in money."_ [ **Op. Cit.** , p. 108]
 
 It _"may be possible"_? Not before hand. At best, an investor could
 **estimate** the willingness of firms to swap to the new railroad and whether
@@ -2436,11 +2445,11 @@ In other words, Mises assumes that the future can be accurately predicted in
 order to attack socialism. Thus he asserts that a socialist society _"would
 issue an edict and decide for or against the projected building. Yet this
 decision would depend at best upon vague estimates; it would never be based
-upon the foundation of an exact calculation of value."_ [**Op. Cit.**, p. 109]
-Yet any investment decision in a **real** capitalist economy depends _"at best
-upon vague estimates"_ of future market conditions and expected returns on the
-investment. This is because accounting is backward looking, while investment
-depends on the unknowable future.
+upon the foundation of an exact calculation of value."_ [ **Op. Cit.** , p.
+109] Yet any investment decision in a **real** capitalist economy depends _"at
+best upon vague estimates"_ of future market conditions and expected returns
+on the investment. This is because accounting is backward looking, while
+investment depends on the unknowable future.
 
 In other words, _"people recognise that their economic future is uncertain
 (nonergodic) and cannot be reliably predicted from existing market
@@ -2452,7 +2461,7 @@ information, nor endogenously determined via today's planned saving propensity
 of income earners . . . Thus, unless one assumes that entrepreneurs can
 accurately predict the future from here to eternity, current expectations of
 prospective yield must depend on the animal optimism or pessimism of
-entrepreneurs."_ [Paul Davidson, **John Maynard Keynes**, pp. 62-3] So, yes,
+entrepreneurs."_ [Paul Davidson, **John Maynard Keynes** , pp. 62-3] So, yes,
 under capitalism you can determine the money cost (price) of a building but
 the decision to build is based on estimates and guesses of the future, to use
 Mises' words _"vague estimates."_ A change in the market can mean that even a
@@ -2472,8 +2481,8 @@ decisions affecting the future, whether personal or political or economic,
 cannot depend on strict mathematical expectation, since the basis for making
 such calculations does not exist."_ He also suggested that the _"chief
 result"_ of wage flexibility _"would be to cause a great instability of
-prices, so violent perhaps as to make business calculations futile."_ [**The
-General Theory**, p. 152, pp. 162-3 and p. 269]
+prices, so violent perhaps as to make business calculations futile."_ [ **The
+General Theory** , p. 152, pp. 162-3 and p. 269]
 
 Much the same can be said of other prices as well. As Proudhon argued decades
 before Mises proclaimed socialism impossible, profit is ultimately an unknown
@@ -2481,27 +2490,27 @@ value. Under capitalism wages are the _"least that can be given"_ to a worker:
 _"that is, we do not know."_ The _"price of the merchandise put upon the
 market"_ by the capitalist will be the _"highest that he can obtain; that is,
 again, we do not know."_ Economics _"admits"_ that _"the prices of merchandise
-and labour . . . can be **estimated**"_ and _"that estimation is essentially
+and labour . . . can be **estimated** "_ and _"that estimation is essentially
 an arbitrary operation, which never can lead to sure and certain
 conclusions."_ Thus capitalism is based on _"the relation between two
-unknowns"_ which _"cannot be determined."_ [**Property is Theft!**, p. 172]
+unknowns"_ which _"cannot be determined."_ [ **Property is Theft!** , p. 172]
 
 So under capitalism **all** decisions are _"groping in the dark"_. Which can,
 and does, lead to inefficient allocations of resources:
 
 > _"It leads, that is to say, to **misdirected** investment. But over and
-above this it is an essential characteristic of the boom that investments
-which will in fact yield, say, 2 per cent. in conditions of full employment
-are made in the expectation of a yield of, say, 6 per cent., and are valued
-accordingly. When the disillusion comes, this expectation is replaced by a
-contrary 'error of pessimism', with the result that the investments, which
-would in fact yield 2 per cent. in conditions of full employment, are expected
-to yield less than nothing; and the resulting collapse of new investment then
-leads to a state of unemployment in which the investments, which would have
-yielded 2 per cent. in conditions of full employment, in fact yield less than
-nothing. We reach a condition where there is a shortage of houses, but where
-nevertheless no one can afford to live in the houses that there are."_
-[Keynes, **Op. Cit.**, pp. 321-2]
+> above this it is an essential characteristic of the boom that investments
+> which will in fact yield, say, 2 per cent. in conditions of full employment
+> are made in the expectation of a yield of, say, 6 per cent., and are valued
+> accordingly. When the disillusion comes, this expectation is replaced by a
+> contrary 'error of pessimism', with the result that the investments, which
+> would in fact yield 2 per cent. in conditions of full employment, are
+> expected to yield less than nothing; and the resulting collapse of new
+> investment then leads to a state of unemployment in which the investments,
+> which would have yielded 2 per cent. in conditions of full employment, in
+> fact yield less than nothing. We reach a condition where there is a shortage
+> of houses, but where nevertheless no one can afford to live in the houses
+> that there are."_ [Keynes, **Op. Cit.** , pp. 321-2]
 
 Thus uncertainty and expectations of profit can lead to massive allocation
 inefficiencies and waste. Of course Mises pays lip-service to this uncertainty
@@ -2511,8 +2520,8 @@ fluctuations"_ but those _"fluctuations disturb value calculations only in the
 slightest degree"_! He admitted that _"some mistakes are inevitable in such a
 calculation"_ but rest assured _"[w]hat remains of uncertainty comes into the
 calculation of the uncertainty of future conditions, which is an inevitable
-concomitant of the dynamic nature of economic life."_ [**Op. Cit.**, p. 98, p.
-110 and p. 111] So, somewhat ironically, Mises assumed that, when attacking
+concomitant of the dynamic nature of economic life."_ [ **Op. Cit.** , p. 98,
+p. 110 and p. 111] So, somewhat ironically, Mises assumed that, when attacking
 socialism, that prices are so fluid that no central planning agency could ever
 compute their correct price and so allocated resources inefficiently yet, when
 it comes to capitalism, prices are not so fluid that they make investment
@@ -2568,8 +2577,8 @@ so that _"uncertainty as to that behaviour is reduced."_ Finally, advertising
 is used to influence the amount sold. Firms also _"eliminate market
 uncertainty"_ by _"entering into contracts specifying prices and amounts to be
 provided or bought for substantial periods of time."_ Thus _"one of the
-strategies of eliminating market uncertainty is to eliminate the market."_
-[**The New Industrial State** p. 47, pp. 30-6 and p. 47]
+strategies of eliminating market uncertainty is to eliminate the market."_ [
+**The New Industrial State** p. 47, pp. 30-6 and p. 47]
 
 Of course, such attempts to reduce uncertainty within capitalism are
 incomplete and subject to breakdown. Such planning systems can come into
@@ -2585,12 +2594,13 @@ They add an extra layer of uncertainty which ensure that investors and firms
 are as much in the dark about their decisions as Mises argued central planners
 would be. As such, to state as Mises does that production in socialism can
 _"never be based upon the foundation of an exact calculation of value"_ is
-somewhat begging the question. [**Op. Cit.**, p. 109] This is because knowing
-the _"exact"_ price of an investment is meaningless as the key question is
-whether it makes a profit or not -- and that is unknown when it is made and if
-it makes a loss, it is still a waste of resources! So it does not follow that
-a knowledge of current prices allows efficient allocation of resources
-(assuming, of course, that profitability equates to social usefulness).
+somewhat begging the question. [ **Op. Cit.** , p. 109] This is because
+knowing the _"exact"_ price of an investment is meaningless as the key
+question is whether it makes a profit or not -- and that is unknown when it is
+made and if it makes a loss, it is still a waste of resources! So it does not
+follow that a knowledge of current prices allows efficient allocation of
+resources (assuming, of course, that profitability equates to social
+usefulness).
 
 In summary, Mises totally ignored the issues of uncertainty (we do not, and
 cannot, know the future) and the collective impact of individual decisions.
@@ -2609,15 +2619,15 @@ the lack of communication between decision-makers as well as making profit the
 be-all-and-end-all of economic rationalism.
 
 So in terms of Mises' claim that only capitalism ensures that success can be
-_"appraised in advance"_, it is clear that in reality that system is as marked
-by _"groping in the dark"_ as any other. What of the claim that only markets
-can ensure that a project's success is _"later retrospectively determined"_?
-By this, Mises makes a flawed assumption -- namely the dubious notion that
-what is profitable is right. Thus economically is identified with profitably.
-So even if we assume prices provide enough information for rational decision
-making, that the economy jumps from one state of equilibrium to another and
-that capitalists can predict the future, the awkward fact is that maximising
-profit does not equal maximising human well-being.
+_"appraised in advance"_ , it is clear that in reality that system is as
+marked by _"groping in the dark"_ as any other. What of the claim that only
+markets can ensure that a project's success is _"later retrospectively
+determined"_? By this, Mises makes a flawed assumption -- namely the dubious
+notion that what is profitable is right. Thus economically is identified with
+profitably. So even if we assume prices provide enough information for
+rational decision making, that the economy jumps from one state of equilibrium
+to another and that capitalists can predict the future, the awkward fact is
+that maximising profit does not equal maximising human well-being.
 
 Neither well-being nor efficiency equals profitability as the latter does not
 take into account **need**. Meeting needs is not _"retrospectively
@@ -2629,15 +2639,15 @@ resources or not. As Thomas Balogh noted, real income _"is measured in terms
 of a certain set of prices ruling in a given period and that these prices will
 reflect the prevailing distribution of income. (With no Texan oil millionaires
 there would be little chance of selling a baby blue Roll-Royce . . . at a
-price ten times the yearly income of a small farmer or sharecropper)."_ [**The
-Irrelevance of Conventional Economics**, pp. 98-9] The market demand for
-commodities, which allocates resources between uses, is based not on the
+price ten times the yearly income of a small farmer or sharecropper)."_ [
+**The Irrelevance of Conventional Economics** , pp. 98-9] The market demand
+for commodities, which allocates resources between uses, is based not on the
 tastes of consumers but on the distribution of purchasing power between them.
 This, ironically, was mentioned by Mises as part of his attack on socialism,
 arguing that the central planners could not use current prices for _"the
 transition to socialism must, as a consequence of the levelling out of the
 differences in income and the resultant re-adjustments in consumption, and
-therefore production, change all economic data."_ [**Op. Cit.**, p. 109] He
+therefore production, change all economic data."_ [ **Op. Cit.** , p. 109] He
 did not mention the impact this has in terms of "efficiency" or profitability!
 After all, what is and is not profitable ("efficient") depends on effective
 demand, which in turn depends of a specific income distribution. Identical
@@ -2655,7 +2665,7 @@ necessary connection with human need. For example, assume a country of one
 million people in which 900,000 are without means of livelihood. One million
 bushels of wheat are produced. The entire crop is sold to 100,000 people at
 $10 a bushel. Supply and demand are in equilibrium, yet 900 000 people will
-face starvation."_ [**Apostles of Greed**, pp. 50-51] In case anyone thinks
+face starvation."_ [ **Apostles of Greed** , pp. 50-51] In case anyone thinks
 that this just happens in theory, the example of numerous famines (from the
 Irish famine of the 1840s to those in African countries in 1980s) gives a
 classic example of this occurring in practice, with rich landowners exporting
@@ -2675,7 +2685,7 @@ based on _"one dollar, one vote,"_ it is an oligarchy in which, for example,
 the _"79,000 Americans who earned the minimum wage in 1987 have the same
 influence [or "vote"] as Michael Milken, who 'earned' as much as all of them
 combined."_ [Michael Albert and Robin Hahnel, **The Political Economy of
-Participatory Economics**, p. 21] One dissident economist states the
+Participatory Economics** , p. 21] One dissident economist states the
 blindingly obvious, namely that the _"market and democracy clash at a
 fundamental level. Democracy runs on the principle of 'one man (one person),
 one vote.' The market runs on the principle of 'one dollar, one vote.'
@@ -2687,7 +2697,7 @@ realise even the most frivolous element of their desires, while the poor may
 not be able even to survive -- thus the world spends twenty times more
 research money on slimming drugs than on malaria, which claims more than a
 million lives and debilitates millions more in developing countries every
-year."_ [Ha-Joon Chang, **Bad Samaritans**, p. 172 and p. 174]
+year."_ [Ha-Joon Chang, **Bad Samaritans** , p. 172 and p. 174]
 
 In other words, markets are always biased in favour of effective demand, i.e.
 in favour of the demands of people with money, and so can never (except in the
@@ -2727,10 +2737,10 @@ fact, _"even gigantic famines can result without anyone's [right] libertarian
 rights (including property rights) being violated. The destitutes such as the
 unemployed or the impoverished may starve precisely because their
 'entitlements' . . . do not give them enough food."_ Similarly,
-_"deprivation"_ such as _"regular undernourishment"_, the _"lack of medical
+_"deprivation"_ such as _"regular undernourishment"_ , the _"lack of medical
 care for curable illnesses"_ can _"coexist with all [right] libertarian rights
-(including rights of property ownership) being fully satisfied."_
-[**Development as Freedom**, p. 66]
+(including rights of property ownership) being fully satisfied."_ [
+**Development as Freedom** , p. 66]
 
 All of which, it must be stressed, is ignored in the "Austrian" case against
 socialism. Ultimately, if providing food to a rich person's pets makes a
@@ -2762,9 +2772,9 @@ intervention always reduced social utility _"his case [was] logically
 flawed."_ He simply assumed that social utility was reduced although he gave
 no reason for such an assumption as he admitted that interpersonal comparisons
 of utility were impossible. For someone _"who asks that his claims be tested
-only by their logic"_, his ultimate conclusions about state intervention _"do
+only by their logic"_ , his ultimate conclusions about state intervention _"do
 not follow"_ and exhibit _"a careless self-contradiction"_ [David L.
-Prychitko, **Markets, Planning and Democracy**, p. 189, p. 111 and p. 110]
+Prychitko, **Markets, Planning and Democracy** , p. 189, p. 111 and p. 110]
 
 In summary, then, in terms of feedback saying that if something made a profit
 then it was efficiently produced confuses efficiency and need with
@@ -2774,24 +2784,24 @@ profit in spite of there being a need for it simply because people cannot
 afford to pay for it.
 
 As such, Mises was wrong to assert that _"[b]etween production for profit and
-production for need, there is no contrast."_ [**Socialism**, p. 143] In fact,
-it seems incredible that anyone claiming to be an economist could make such a
-comment. As Proudhon and Marx (like Smith and Ricardo before them) made clear,
-a commodity in order to be exchanged must first have a use-value (utility) to
-others. Thus production for profit, by definition, means production for "use"
--- otherwise exchange would not happen. What socialists were highlighting by
-contrasting production for profit to need was, firstly, that need comes after
-profit and so without profit a good will not be produced no matter how many
-people need it. Secondly, it highlights the fact that during crises capitalism
-is marked by an over-production of goods reducing profits, so stopping
-production, while people who need those goods go without them. Thus capitalism
-is marked by homeless people living next to empty housing and hungry people
-seeing food exported or destroyed in order to maximise profit. Ultimately, if
-the capitalist does not make a profit then it is a bad investment --
-regardless of whether it could be used to meet people's needs and so make
-their lives better. In other words, Mises ignores the very basis of capitalism
-(production for profit) and depicts it as production aiming at the direct
-satisfaction of consumers.
+production for need, there is no contrast."_ [ **Socialism** , p. 143] In
+fact, it seems incredible that anyone claiming to be an economist could make
+such a comment. As Proudhon and Marx (like Smith and Ricardo before them) made
+clear, a commodity in order to be exchanged must first have a use-value
+(utility) to others. Thus production for profit, by definition, means
+production for "use" -- otherwise exchange would not happen. What socialists
+were highlighting by contrasting production for profit to need was, firstly,
+that need comes after profit and so without profit a good will not be produced
+no matter how many people need it. Secondly, it highlights the fact that
+during crises capitalism is marked by an over-production of goods reducing
+profits, so stopping production, while people who need those goods go without
+them. Thus capitalism is marked by homeless people living next to empty
+housing and hungry people seeing food exported or destroyed in order to
+maximise profit. Ultimately, if the capitalist does not make a profit then it
+is a bad investment -- regardless of whether it could be used to meet people's
+needs and so make their lives better. In other words, Mises ignores the very
+basis of capitalism (production for profit) and depicts it as production
+aiming at the direct satisfaction of consumers.
 
 Equally, that something makes a profit does not mean that it is an efficient
 use of resources. If, for example, that profit is achieved by imposing
@@ -2827,9 +2837,9 @@ called a 'healthy economy,' meaning one with very high profits. Profits are
 doing fine. Corporate profits are zooming. But for most of the population,
 very grim circumstances. And grim circumstances, without much prospect of a
 future, may lead to constructive social action, but where that's lacking they
-express themselves in violence."_ [**Keeping the Rabble in Line**, pp. 283-4]
-So it simply cannot be assumed that what is good for the economy (profits)
-equates to what is good for people (at least the working class).
+express themselves in violence."_ [ **Keeping the Rabble in Line** , pp.
+283-4] So it simply cannot be assumed that what is good for the economy
+(profits) equates to what is good for people (at least the working class).
 
 Thus the "Austrians" prize profitability above all and this assumption is at
 the root of the "Calculation Argument" against socialism, but this makes sense
@@ -2904,21 +2914,21 @@ they would never have made a capitalist a profit?
 Of course, our discussion is affected by the fact that "actually existing"
 capitalism has various forms of state-intervention. Some of these "socialise"
 costs and risks, such as publicly funded creation of an infrastructure and
-Research and Development (R&amp;D). Given that much R&amp;D is conducted via
-state funding (via universities, military procurements, and so on) and (of
-course!) the profits of such research are then privatised, question arises
-would the initial research have gone ahead if the costs had not been
-"socialised"? Would Mises' _"exact"_ calculation have resulted in, say, the
-internet being developed? If, as seems likely, not, does it not mean our
-current use of the World Wide Web is an inefficient use of resources? Then
-there are the numerous state interventions which exist to ensure that certain
-activities become "efficient" (i.e., profitable) such as specifying and
-defending intellectual property rights, the limited liability of corporations
-and enforcing capitalist property rights (in land, for example). While we take
-this activity for granted when evaluating capitalism, they are serious
-imperfections in the market and so what counts as an "efficient" use of
-resources. Other state interventions aim to reduce uncertainty and stabilise
-the market, such as welfare maintaining aggregate demand.
+Research and Development (R&D). Given that much R&D is conducted via state
+funding (via universities, military procurements, and so on) and (of course!)
+the profits of such research are then privatised, question arises would the
+initial research have gone ahead if the costs had not been "socialised"? Would
+Mises' _"exact"_ calculation have resulted in, say, the internet being
+developed? If, as seems likely, not, does it not mean our current use of the
+World Wide Web is an inefficient use of resources? Then there are the numerous
+state interventions which exist to ensure that certain activities become
+"efficient" (i.e., profitable) such as specifying and defending intellectual
+property rights, the limited liability of corporations and enforcing
+capitalist property rights (in land, for example). While we take this activity
+for granted when evaluating capitalism, they are serious imperfections in the
+market and so what counts as an "efficient" use of resources. Other state
+interventions aim to reduce uncertainty and stabilise the market, such as
+welfare maintaining aggregate demand.
 
 Removing these "imperfections" in the market would substantially affect the
 persuasiveness of Mises' case. _"What data we do have,"_ notes Doug Henwood,
@@ -2927,8 +2937,8 @@ _"don't lend any support to the notion that the nineteenth century was more
 with periods of inflation alternating with periods of deflation, and GDP
 growth in the last three decades . . . was similarly volatile. The busts were
 savage, resulting in massive bank failures and very lean times for workers and
-farmers."_ [**After the New Economy**, p. 242] Looking at business cycle data
-for America, what becomes clear is that some of those regular nineteenth
+farmers."_ [ **After the New Economy** , p. 242] Looking at business cycle
+data for America, what becomes clear is that some of those regular nineteenth
 century slumps were extremely long: the Panic of 1873, for example, was
 followed by a recession that lasted 5 1/2 years. The New York Stock Exchange
 closed for ten days and 89 of the country's 364 railroads went bankrupt. A
@@ -2958,13 +2968,13 @@ ensures that resources are wasted. Using the profit criteria as the measure of
 places society in frequent situations (crises) where "economic calculation"
 ensures that industries close, so ensuring that goods and services people need
 are no longer produced. As Proudhon put it, under capitalism there is _"a
-miserable oscillation between usury and bankruptcy."_ [**Op. Cit.**, p. 285]
+miserable oscillation between usury and bankruptcy."_ [ **Op. Cit.** , p. 285]
 For anarchists, these drawbacks to capitalist allocation are obvious. Equally
 obvious is the reason why Mises failed to discuss them: ultimately, like neo-
 classical economics, the "Austrian" school seeks to eulogise capitalism rather
 than to understand it.
 
-[‹ I.0 Section I Introduction](secIint.md "Go to previous page" )
-[up](secIcon.md "Go to parent page" ) [I.2 Is this a blueprint for an
-anarchist society? ›](secI2.md "Go to next page" )
+[‹ I.0 Section I Introduction](secIint.md "Go to previous page")
+[up](secIcon.md "Go to parent page") [I.2 Is this a blueprint for an
+anarchist society? ›](secI2.md "Go to next page")
 

@@ -20,7 +20,7 @@ system. As such, the "theory" was created with political goals in mind and as
 a weapon in the class struggle (as an aside, it should be noted that Darwin
 argued his theory of natural selection was _"the doctrine of Malthus applied
 to the whole animal and vegetable kingdom."_ [quoted by Peter Marshall,
-**Nature's Web**, p. 320] In other words, anarchism, indirectly, inspired the
+**Nature's Web** , p. 320] In other words, anarchism, indirectly, inspired the
 theory of evolution. Perhaps unsurprisingly, in the form of Social Darwinism
 this was also used against working class people and social reform).
 
@@ -29,13 +29,13 @@ _"summed up ideas already current in the minds of the wealth-possessing
 minority"_ and arose to combat the _"ideas of equality and liberty"_ awakened
 by the French and American revolutions. Malthus asserted against Godwin _"that
 no equality is possible; that the poverty of the many is not due to
-institutions, but is a natural **law.**"_ This meant he _"thus gave the rich a
-kind of scientific argument against the ideas of equality."_ However, it was
+institutions, but is a natural **law.** "_ This meant he _"thus gave the rich
+a kind of scientific argument against the ideas of equality."_ However, it was
 simply _"a pseudo-scientific"_ assertion which reflected _"the secret desires
 of the wealth-possessing classes"_ and not a scientific hypothesis. This is
 obvious as technology has ensured that Malthus's fears are _"groundless"_
-while they are continually repeated. [**Fields, Factories and Workshops
-Tomorrow**, p. 77, p. 78 and p. 79]
+while they are continually repeated. [ **Fields, Factories and Workshops
+Tomorrow** , p. 77, p. 78 and p. 79]
 
 That the theory was fundamentally ideological in nature can be seen from
 Malthus himself. It is interesting to note that in contrast, and in direct
@@ -59,9 +59,9 @@ the ideological nature of his over-population theory. As McNally shows, it was
 the utility of Malthus's practical conclusions in his "Essay on the Principles
 of Population" for fighting the poor law and the right to subsistence (i.e.
 welfare provisions) which explained his popularity: _"he made classical
-economics an open enemy of the working class."_ [_"The Malthusian Moment:
-Political Economy versus Popular Radicalism"_, pp. 62-103, **Against the
-Market**, p. 85 and p. 91]
+economics an open enemy of the working class."_ [ _"The Malthusian Moment:
+Political Economy versus Popular Radicalism"_ , pp. 62-103, **Against the
+Market** , p. 85 and p. 91]
 
 So it is easy to explain the support Malthus and his assertions got in spite
 of the lack of empirical evidence and the self-contradictory utterances of its
@@ -85,21 +85,22 @@ Approximately 80% of all Third World agricultural land is owned by 3% of
 landowners. As anarchist George Bradford stresses, Malthusians _"do not
 consider the questions of land ownership, the history of colonialism, and
 where social power lies. So when the poor demand their rights, the Malthusians
-see 'political instability' growing from population pressure."_ [**Woman's
-Freedom: Key to the Population Question**, p. 77] Bookchin makes a similar
+see 'political instability' growing from population pressure."_ [ **Woman's
+Freedom: Key to the Population Question** , p. 77] Bookchin makes a similar
 critique:
 
-> _ "the most sinister feature about neo-Malthusianism is the extent to which
-it actively deflects us from dealing with the social origins of our ecological
-problems -- indeed, the extent to which it places the blame for them on the
-victims of hunger rather than those who victimise them. Presumably, if there
-is a 'population problem' and famine in Africa, it is the ordinary people who
-are to blame for having too many children or insisting on living too long --
-an argument advanced by Malthus nearly two centuries ago with respect to
-England's poor. The viewpoint not only justifies privilege; it fosters
-brutalisation and degrades the neo-Malthusians even more than it degrades the
-victims of privilege."_ [_"The Population Myth"_, pp. 30-48, **Which Way for
-the Ecology Movement?**, p. 34]
+> _"the most sinister feature about neo-Malthusianism is the extent to which
+> it actively deflects us from dealing with the social origins of our
+> ecological problems -- indeed, the extent to which it places the blame for
+> them on the victims of hunger rather than those who victimise them.
+> Presumably, if there is a 'population problem' and famine in Africa, it is
+> the ordinary people who are to blame for having too many children or
+> insisting on living too long -- an argument advanced by Malthus nearly two
+> centuries ago with respect to England's poor. The viewpoint not only
+> justifies privilege; it fosters brutalisation and degrades the neo-
+> Malthusians even more than it degrades the victims of privilege."_ [ _"The
+> Population Myth"_ , pp. 30-48, **Which Way for the Ecology Movement?** , p.
+> 34]
 
 Increased population is not the cause of landlessness, it is the result of it.
 If a traditional culture, its values, and its sense of identity are destroyed,
@@ -112,12 +113,12 @@ to the developed nations. Malthusianism is handy for the wealthy, giving them
 a "scientific" excuse for the misery they cause so they can enjoy their blood-
 money without remorse. It is unwise for greens to repeat such arguments:
 
-> _ "It's a betrayal of the entire message of social ecology to ask the
-world's poor to deny themselves access to the necessities of life on grounds
-that involve long-range problems of ecological dislocation, the shortcomings
-of 'high' technology, and very specious claims of natural shortages in
-materials, while saying nothing at all about the artificial scarcity
-engineered by corporate capitalism."_ [**The Ecology of Freedom**, p. 350]
+> _"It's a betrayal of the entire message of social ecology to ask the world's
+> poor to deny themselves access to the necessities of life on grounds that
+> involve long-range problems of ecological dislocation, the shortcomings of
+> 'high' technology, and very specious claims of natural shortages in
+> materials, while saying nothing at all about the artificial scarcity
+> engineered by corporate capitalism."_ [ **The Ecology of Freedom** , p. 350]
 
 In a country that is being introduced to the joys of capitalism by state
 intervention (the usual means by which traditional cultures and habits are
@@ -157,13 +158,13 @@ and so on. Overpopulation only benefits the elite by keeping the cost of
 labour low. This was the position of the likes of Emma Goldman and other
 radicals of her time:
 
-> _ "Many working-class radicals accepted the logic that excessive numbers
-were what kept the poor in their misery. During the nineteenth century there
-were courageous attempts to disseminate birth-control information both to
-promote lower population and to make it possible for women to control their
-own reproductivity and escape male domination. Birth control was the province
-of feminism, radical socialism and anarchism."_ [Bradford, **Op. Cit.**, p.
-69]
+> _"Many working-class radicals accepted the logic that excessive numbers were
+> what kept the poor in their misery. During the nineteenth century there were
+> courageous attempts to disseminate birth-control information both to promote
+> lower population and to make it possible for women to control their own
+> reproductivity and escape male domination. Birth control was the province of
+> feminism, radical socialism and anarchism."_ [Bradford, **Op. Cit.** , p.
+> 69]
 
 Unlike many neo-Malthusians Goldman was well aware that **social** reasons
 explained why so many people went hungry. As she put it, _"if the masses of
@@ -177,15 +178,15 @@ upon them by the reactionary forces in society because a large family
 paralyses the brain and benumbs the muscles of the masses . . . [The worker]
 continues in the rut, compromises and cringes before his master, just to earn
 barely enough to feed the many little mouths. He dare not join a revolutionary
-organisation; he dare not go on strike; he dare not express an opinion."_
-[_"The Social Aspects of Birth Control"_, **Anarchy! An Anthology of Emma
-Goldman's Mother Earth**, p. 135 and pp. 136-7] This support for birth
+organisation; he dare not go on strike; he dare not express an opinion."_ [
+_"The Social Aspects of Birth Control"_ , **Anarchy! An Anthology of Emma
+Goldman's Mother Earth** , p. 135 and pp. 136-7] This support for birth
 control, it should be stressed, resulted in Goldman being arrested. Malthus,
 like many of his followers _"opposed contraception as immoral, preferring to
 let the poor starve as a 'natural' method of keeping numbers down. For him,
 only misery, poverty, famine, disease, and war would keep population from
-expanding beyond the carrying capacity of the land."_ [Bradford, **Op. Cit.**,
-p. 69]
+expanding beyond the carrying capacity of the land."_ [Bradford, **Op. Cit.**
+, p. 69]
 
 Unsurprisingly, Goldman linked the issue of birth control to that of women's
 liberation arguing that _"I never will acquiesce or submit to authority, nor
@@ -198,7 +199,8 @@ _"[a]fter all it is woman whom is risking her health and sacrificing her youth
 in the reproduction of the race. Surely she ought to be in a position to
 decide how many children she should bring into world, whether they should be
 brought into the world by the man she loves and because she wants the child,
-or should be born in hatred and loathing."_ [**Op. Cit.**, p. 140 and p. 136]
+or should be born in hatred and loathing."_ [ **Op. Cit.** , p. 140 and p.
+136]
 
 Other anarchists have echoed this analysis. George Bradford, for example,
 correctly notes that _"the way out of the [ecological] crisis lies in the
@@ -207,12 +209,13 @@ that is the key to the destruction of hierarchy."_ In other words, women's
 _"freedom and well-being are at the centre of the resolution to the population
 problem, and that can only be faced within the larger social context."_ That
 means _"real participation in social decision-making, real health concerns,
-access to land, and the overthrow of patriarchal domination."_ [**Op. Cit.**,
-p. 68 and p. 82] Bookchin makes the same point, noting that population growth
-rates have fallen in developed countries because _"of the **freedom** that
-women have acquired over recent decades to transcend the role that patriarchy
-assigned to them as mere reproductive factories."_ [_"The Future of the
-Ecology Movement,"_ pp. 1-20, **Which Way for the Ecology Movement?**, p. 19]
+access to land, and the overthrow of patriarchal domination."_ [ **Op. Cit.**
+, p. 68 and p. 82] Bookchin makes the same point, noting that population
+growth rates have fallen in developed countries because _"of the **freedom**
+that women have acquired over recent decades to transcend the role that
+patriarchy assigned to them as mere reproductive factories."_ [ _"The Future
+of the Ecology Movement,"_ pp. 1-20, **Which Way for the Ecology Movement?** ,
+p. 19]
 
 This means that an **increase** of freedom will solve the population question.
 Sadly, many advocates of neo-Malthusianism extend control over people from
@@ -243,21 +246,21 @@ much pressure on the environment. However, their use of statistics hides a
 sleight of hand which invalidates their argument. As Bookchin correctly
 argues:
 
-> _ "Consider the issue of population and food supply in terms of mere numbers
-and we step on a wild merry-go-round that does not support neo-Malthusian
-predictions of a decade ago, much less a generation ago. Such typically neo-
-Malthusian stunts as determining the 'per capita consumption' of steel, oil,
-paper, chemicals, and the like of a nation by dividing the total tonnage of
-the latter by the national population, such that every man, women, and child
-is said to 'consume' a resultant quantity, gives us a picture that is
-blatantly false and functions as a sheer apologia for the upper classes. The
-steel that goes into a battleship, the oil that is used to fuel a tank, and
-the paper that is covered by ads hardly depicts the human consumption of
-materials. Rather, it is stuff consumed by all the Pentagons of the world that
-help keep a 'grow-or-die economy in operation -- goods, I may add, whose
-function is to destroy and whose destiny is to be destroyed."_ [_"The
-Population Myth"_, pp. 30-48, **Which Way for the Ecology Movement?**, pp.
-34-5]
+> _"Consider the issue of population and food supply in terms of mere numbers
+> and we step on a wild merry-go-round that does not support neo-Malthusian
+> predictions of a decade ago, much less a generation ago. Such typically neo-
+> Malthusian stunts as determining the 'per capita consumption' of steel, oil,
+> paper, chemicals, and the like of a nation by dividing the total tonnage of
+> the latter by the national population, such that every man, women, and child
+> is said to 'consume' a resultant quantity, gives us a picture that is
+> blatantly false and functions as a sheer apologia for the upper classes. The
+> steel that goes into a battleship, the oil that is used to fuel a tank, and
+> the paper that is covered by ads hardly depicts the human consumption of
+> materials. Rather, it is stuff consumed by all the Pentagons of the world
+> that help keep a 'grow-or-die economy in operation -- goods, I may add,
+> whose function is to destroy and whose destiny is to be destroyed."_ [ _"The
+> Population Myth"_ , pp. 30-48, **Which Way for the Ecology Movement?** , pp.
+> 34-5]
 
 Focusing on averages, in other words, misses out the obvious fact we live in a
 highly unequal societies which results in a few people using many resources.
@@ -288,7 +291,7 @@ emissions is only 4% above the negotiated target of the Kyoto Protocol). If
 Europe following IMF orthodoxy and increased working hours, this would have a
 corresponding negative impact on energy use and emissions (not to mention
 quality of life). [David Rosnick and Mark Weisbrot, **Are Shorter Work Hours
-Good for the Environment?**] Of course, any such choice is influenced by
+Good for the Environment?** ] Of course, any such choice is influenced by
 social institutions and pressures and, as such, part of a wider social
 struggle for change.
 
@@ -298,22 +301,22 @@ that produced historic growth and consumption rates will remain unchanged.
 This is obviously false, since humanity is not static. To quote Bookchin
 again:
 
-> _ "by reducing us to studies of line graphs, bar graphs, and statistical
-tables, the neo-Malthusians literally freeze reality as it is. Their numerical
-extrapolations do not construct any reality that is new; they mere extend,
-statistic by statistic, what is basically old and given . . . We are taught to
-accept society, behaviour, and values as they **are**, not as they should be
-or even **could** be. This procedure places us under the tyranny of the status
-quo and divests us of any ability to think about radically changing the world.
-I have encountered very few books or articles written by neo-Malthusians that
-question whether we should live under any kind of money economy at all, any
-statist system of society, or be guided by profit oriented behaviour. There
-are books and articles aplenty that explain 'how to' become a 'morally
-responsible' banker, entrepreneur, landowner, 'developer,' or, for all I know,
-arms merchant. But whether the whole system called capitalism (forgive me!),
-be it corporate in the west or bureaucratic in the east, must be abandoned if
-we are to achieve an ecological society is rarely discussed."_ [**Op. Cit.**,
-p. 33]
+> _"by reducing us to studies of line graphs, bar graphs, and statistical
+> tables, the neo-Malthusians literally freeze reality as it is. Their
+> numerical extrapolations do not construct any reality that is new; they mere
+> extend, statistic by statistic, what is basically old and given . . . We are
+> taught to accept society, behaviour, and values as they **are** , not as
+> they should be or even **could** be. This procedure places us under the
+> tyranny of the status quo and divests us of any ability to think about
+> radically changing the world. I have encountered very few books or articles
+> written by neo-Malthusians that question whether we should live under any
+> kind of money economy at all, any statist system of society, or be guided by
+> profit oriented behaviour. There are books and articles aplenty that explain
+> 'how to' become a 'morally responsible' banker, entrepreneur, landowner,
+> 'developer,' or, for all I know, arms merchant. But whether the whole system
+> called capitalism (forgive me!), be it corporate in the west or bureaucratic
+> in the east, must be abandoned if we are to achieve an ecological society is
+> rarely discussed."_ [ **Op. Cit.** , p. 33]
 
 It is probably true that an "American" living standard is not possible for the
 population of the world at its present level (after all, the US consumes 40%
@@ -352,7 +355,7 @@ reforms. "Controlling population growth" is always a key item on such
 liberals' agendas, taking the place of "eliminating capitalism," which should
 be the centrepiece. _"Population control is substituted for social justice,
 and the problem is actually aggravated by the Malthusian 'cure',"_ points out
-feminist Betsy Hartmann. [quoted by Bradford, **Op. Cit.**, p. 77]
+feminist Betsy Hartmann. [quoted by Bradford, **Op. Cit.** , p. 77]
 
 After all, there **is** enough food to feed the world's population but its
 distribution reflects inequalities in wealth, power and effective demand (this
@@ -362,31 +365,32 @@ population increases in places like the Sudan, for example, result in famine"_
 can only survive if we ignore _"the notorious fact that the Sudanese could
 easily feed themselves if they were not forced by the American-controlled
 World Bank and International Monetary Fund to grow cotton instead of grains."_
-[Bookchin, **Remaking Society**, p. 11] Hence the importance of class analysis
-and an awareness of hierarchy. We can hardly talk of "our" resources when
-those resources are owned by a handful of giant corporations. Equally, we
+[Bookchin, **Remaking Society** , p. 11] Hence the importance of class
+analysis and an awareness of hierarchy. We can hardly talk of "our" resources
+when those resources are owned by a handful of giant corporations. Equally, we
 cannot talk about "our" industrial impact on the planet when the decisions of
 industry are made by a bosses and most of us are deliberately excluded from
 the decision making process. While it makes sense for the ruling elite to
 ignore such key issues, it counter-productive for radicals to do so and blame
 "people" or their numbers for social and environmental problems:
 
-> _ "The most striking feature of such way of thinking is not only that it
-closely parallels the way of thinking that is found in the corporate world.
-What is more serious is that it serves to deflect our attention from the role
-society plays in producing ecological breakdown. If 'people' as a **species**
-are responsible for environmental dislocations, these dislocations cease to be
-the result of **social** dislocations. A mythic 'Humanity' is created --
-irrespective of whether we are talking about oppressed minorities, women,
-Third World people, or people in the First World -- in which everyone is
-brought into complicity with powerful corporate elites in producing
-environmental dislocations. In this way, the social roots of ecological
-problems are shrewdly obscured . . . [W]e can dismiss or explain away hunger,
-misery, or illness as 'natural checks' that are imposed on human beings to
-retain the 'balance of nature.' We can comfortably forget that much of the
-poverty and hunger that afflicts the world has its origins in the corporate
-exploitation of human beings and nature -- in agribusiness and social
-oppression."_ [**Op. Cit.**, pp. 9-10]
+> _"The most striking feature of such way of thinking is not only that it
+> closely parallels the way of thinking that is found in the corporate world.
+> What is more serious is that it serves to deflect our attention from the
+> role society plays in producing ecological breakdown. If 'people' as a
+> **species** are responsible for environmental dislocations, these
+> dislocations cease to be the result of **social** dislocations. A mythic
+> 'Humanity' is created -- irrespective of whether we are talking about
+> oppressed minorities, women, Third World people, or people in the First
+> World -- in which everyone is brought into complicity with powerful
+> corporate elites in producing environmental dislocations. In this way, the
+> social roots of ecological problems are shrewdly obscured . . . [W]e can
+> dismiss or explain away hunger, misery, or illness as 'natural checks' that
+> are imposed on human beings to retain the 'balance of nature.' We can
+> comfortably forget that much of the poverty and hunger that afflicts the
+> world has its origins in the corporate exploitation of human beings and
+> nature -- in agribusiness and social oppression."_ [ **Op. Cit.** , pp.
+> 9-10]
 
 Looking at population numbers simply misses the point. As Murray Bookchin
 argues, this _"arithmetic mentality which disregards the social context of
@@ -402,8 +406,8 @@ pollute its air and waterways not because their intentions are necessarily
 bad, although they usually are . . . but because they must simply survive.
 Only a radical restructuring of society as a whole, including its anti-
 ecological sensibilities, can remove this all commanding social compulsion."_
-[_"The Population Myth"_, pp. 30-48, **Op. Cit.**, p. 34] A sane society would
-not be driven by growth for the sake of growth and would aim to reduce
+[ _"The Population Myth"_ , pp. 30-48, **Op. Cit.** , p. 34] A sane society
+would not be driven by growth for the sake of growth and would aim to reduce
 production by reducing the average working week to ensure both an acceptable
 standard of living **plus** time to enjoy it. So it is not a case that the
 current industrial system is something we need to keep. Few anarchists
@@ -415,7 +419,7 @@ transform the way we interact with nature (which, of course, includes people).
 To conclude, as Bradford summarises the _"salvation of the marvellous green
 planet, our Mother Earth, depends on the liberation of women -- and children,
 and men -- from social domination, exploitation and hierarchy. They must go
-together."_ [**Op. Cit.**, p. 68] By focusing attention away from the root
+together."_ [ **Op. Cit.** , p. 68] By focusing attention away from the root
 causes of ecological and social disruption -- i.e. capitalism and hierarchy --
 and onto their victims, the advocates of the "population myth" do a great
 favour to the system that creates mindless growth. Hence the population myth
@@ -424,6 +428,6 @@ basis for the myth in scientific fact -- will ensure its continual re-
 appearance in the media and education.
 
 [‹ E.5 Can ethical consumerism stop the ecological crisis?](secE5.md "Go to
-previous page" ) [up](secEcon.md "Go to parent page" ) [Section F - Is
-"anarcho"-capitalism a type of anarchism? ›](secFcon.md "Go to next page" )
+previous page") [up](secEcon.md "Go to parent page") [Section F - Is
+"anarcho"-capitalism a type of anarchism? ›](secFcon.md "Go to next page")
 

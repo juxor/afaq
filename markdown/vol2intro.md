@@ -1,15 +1,15 @@
 # An Anarchist FAQ: Introduction to Volume 2
 
 > _“Conquer or die – such is the dilemma that faces the . . . peasants and
-workers at this historic moment . . . But we will not conquer in order to
-repeat the errors of the past years, the error of putting our fate into the
-hands of new masters; we will conquer in order to take our destinies into our
-own hands, to conduct our lives according to our own will and our own
-conception of the truth.”_
+> workers at this historic moment . . . But we will not conquer in order to
+> repeat the errors of the past years, the error of putting our fate into the
+> hands of new masters; we will conquer in order to take our destinies into
+> our own hands, to conduct our lives according to our own will and our own
+> conception of the truth.”_
 
 > Nestor Makhno[1]
 
-Welcome to volume 2 of **An Anarchist FAQ** (**AFAQ**)!
+Welcome to volume 2 of **An Anarchist FAQ** ( **AFAQ** )!
 
 If the core of volume 1 was based on outlining anarchist ideas and history as
 well as presenting the anarchist critique of authority, capitalism and
@@ -37,7 +37,7 @@ tend to exaggerate the importance of that ideology and its influence but it
 needs to be done simply in order to counteract those ideologues and academics
 who seek to confuse the two either out of ignorance (for the latter) or self-
 interest (for the former). In addition, section G is shaped by the history of
-**AFAQ**, when it started as an anti-“anarcho”-capitalist FAQ rather than a
+**AFAQ** , when it started as an anti-“anarcho”-capitalist FAQ rather than a
 pro-anarchist one. If it had been started as the pro-anarchist FAQ it has now
 become, that section would have been substantially different (most obviously,
 the material on “anarcho”-capitalism being placed in an appendix where it
@@ -73,19 +73,19 @@ has.
 Ironically, a sadly unpublished article from the 1950s by the founder of that
 ideology, Murray Rothbard, has come to light which came to the same conclusion
 (inaccurately entitled, given the history of anarchist use of libertarian,
-**Are Libertarians ‘Anarchists’?**). Ignoring the errors, distortions and
+**Are Libertarians ‘Anarchists’?** ). Ignoring the errors, distortions and
 inventions about anarchism Rothbard inflicts on the reader, this essay came to
 the following (correct!) conclusion: _“We must therefore conclude that we are
-_**not**_ anarchists, and that those who call us anarchists are not on firm
+_ **not**_ anarchists, and that those who call us anarchists are not on firm
 etymological ground, and are being completely unhistorical.”_ This was
-applicable to both the _“dominant anarchist doctrine . . .  of ‘anarchist
+applicable to both the _“dominant anarchist doctrine . . . of ‘anarchist
 communism’” (“which has also been called ‘collectivist anarchism,’ ‘anarcho-
-syndicalism,’ and ‘libertarian communism’_) as well as individualist
+syndicalism,’ and ‘libertarian communism’_ ) as well as individualist
 anarchists, considered by Rothbard _“the best of them”,_ as **both** had
-_“socialistic elements in their doctrines_._” _He suggested that there were
-thinkers _“in that Golden Age of liberalism”_ who had ideas _“similar” _to his
+_“socialistic elements in their doctrines_. _”_ He suggested that there were
+thinkers _“in that Golden Age of liberalism”_ who had ideas _“similar”_ to his
 ideology but these _“never referred to themselves as anarchists”_ while _“all
-the anarchist groups . . . possessed socialistic _**economic**_ doctrines in
+the anarchist groups . . . possessed socialistic _ **economic**_ doctrines in
 common.”_ If only he had kept to that analysis and called his ideology
 something more accurate then this FAQ would have been much shorter!
 
@@ -96,11 +96,11 @@ of the so-called “libertarian” right in America Rothbard publicly acknowledg
 their stealing of the word libertarian from genuine anarchists:
 
 > _“One gratifying aspect of our rise to some prominence is that, for the
-first time in my memory, we, ‘our side,’ had captured a crucial word from the
-enemy . . . ‘Libertarians’ . . . had long been simply a polite word for left-
-wing [sic!] anarchists, that is for anti-private property anarchists, either
-of the communist or syndicalist variety. But now we had taken it over . .
-.”_[2]
+> first time in my memory, we, ‘our side,’ had captured a crucial word from
+> the enemy . . . ‘Libertarians’ . . . had long been simply a polite word for
+> left-wing [sic!] anarchists, that is for anti-private property anarchists,
+> either of the communist or syndicalist variety. But now we had taken it over
+> . . .”_[2]
 
 Today, of course, propertarians shrilly denounce anarchists using the term
 libertarian in its original and correct meaning as attempting to appropriate
@@ -190,13 +190,13 @@ a critique of the state. As long as anarchism has been a named socio-economic
 theory we have directed our fire at both state **_and_** property. [_Property
 writings, shows how interlinked the anarchist opposition to the state and
 capitalism has been from the start. Thus we find Proudhon arguing that _“the
-capitalist principle” _and the _“governmental principle are one and the same
-principle” _and so_ “the abolition of the exploitation of man by man and the
-abolition of government of man by man are one and the same formula.”
-_Moreover, it is _“to protect this exploitation of man by man that the State
-exists” _Unsurprisingly, then, anarchists are _“simultaneously striving for
+capitalist principle”_ and the _“governmental principle are one and the same
+principle”_ and so _“the abolition of the exploitation of man by man and the
+abolition of government of man by man are one and the same formula.”_
+Moreover, it is _“to protect this exploitation of man by man that the State
+exists”_ Unsurprisingly, then, anarchists are _“simultaneously striving for
 the abolition of capital and of the State”_ and _“if you do away with the
-former, you still have to do away with the latter, and **vice versa**.”_[6]_ _
+former, you still have to do away with the latter, and **vice versa**.”_[6] __
 
 So the notion of an anarchism which is simply anti-state is completely alien
 to our tradition. However, falsely limiting anarchism to purely opposition to
@@ -217,7 +217,7 @@ discussing the future society (Marx’s comment on “writing the cookbooks of t
 future” springs to mind[7]), anarchists have been more willing to sketch out a
 rough vision of what a free society could be like. This may come as a surprise
 for some (infatuated with Bakunin’s pre-anarchist comment that _“the urge to
-destroy is a creative urge”_) but in reality anarchism has always been a
+destroy is a creative urge”_ ) but in reality anarchism has always been a
 constructive socio-economic theory and anarchist thinkers have always been
 more than willing to sketch what a free society _could_ be.
 
@@ -237,11 +237,11 @@ popular needs. The land to the peasant; the factory, the workshop, the railway
 and the rest to the worker.”_[8]
 
 This anti-utopian perspective has been a significant aspect of anarchism since
-Proudhon who (especially his **System of Economic Contradictions**) attacked
+Proudhon who (especially his **System of Economic Contradictions** ) attacked
 utopian socialists like Fourier and Saint-Simon for presenting fantastical
 visions (and appealing for rich benefactors!) rather than studying tendencies
 within capitalism which could transcend it (particularly working class self-
-activity). Thus social transformation _“__must not emanate from the powers
+activity). Thus social transformation _“_ _must not emanate from the powers
 that be; it ought to be SPONTANEOUS.”_ It must come _“from below”_ as only
 this ensured change _“by the concerted action of the citizens, by the
 experience of the workers, by the progress and diffusion of enlightenment,
@@ -263,7 +263,7 @@ councils, factory committees and their federations) which will be the
 framework of a free society. So the IWW slogan of _“building a new world in
 the shell of the old”_ has been a key aspect of anarchism for some time, with
 Proudhon proclaiming during the 1848 Revolution that _“a new society be
-founded in the heart of the old society” _based on _“__a body representative
+founded in the heart of the old society”_ based on _“_ _a body representative
 of the proletariat be[ing] formed . . . in opposition to the bourgeoisie’s
 representation.”_[11]
 
@@ -281,16 +281,16 @@ anarchists stress the importance of working class struggle in changing the
 world. Kropotkin summarised the libertarian perspective well in 1907:
 
 > _“Workmen’s organisations are the real force capable of accomplishing the
-social revolution – after the awakening of the proletariat has been
-accomplished, first by individual action, then by collective action, by
-strikes and revolts extending more and more; and where workmen’s organisations
-have not allowed themselves to be dominated by the gentlemen who advocate ‘the
-conquest of political power’, but have continued to walk hand in hand with
-anarchists – as they have done in Spain – they have obtained, on the one hand,
-immediate results (an eight-hour day in certain trades in Catalonia), and on
-the other have made good propaganda for the social revolution – the one to
-come, not from the efforts of those highly-placed gentlemen, but from below,
-from workmen’s organisations.”_[12]
+> social revolution – after the awakening of the proletariat has been
+> accomplished, first by individual action, then by collective action, by
+> strikes and revolts extending more and more; and where workmen’s
+> organisations have not allowed themselves to be dominated by the gentlemen
+> who advocate ‘the conquest of political power’, but have continued to walk
+> hand in hand with anarchists – as they have done in Spain – they have
+> obtained, on the one hand, immediate results (an eight-hour day in certain
+> trades in Catalonia), and on the other have made good propaganda for the
+> social revolution – the one to come, not from the efforts of those highly-
+> placed gentlemen, but from below, from workmen’s organisations.”_[12]
 
 We also outline why anarchists support direct action and reject voting
 (“political action”) as the means of social change as well as the role of
@@ -310,12 +310,12 @@ _as anarchists_ and participate in the class struggle to push it in
 libertarian directions. Kropotkin words are extremely relevant here:
 
 > _“The syndicate[union] is absolutely necessary. It is the only form of
-working-men’s group that permits of maintaining the direct struggle against
-capital, without falling into parliamentarianism. But evidently it does not
-take that trend mechanically, since we have in Germany, France and England
-syndicates rallying to parliamentarianism . . . The **other** element is
-necessary, the element of which Malatesta speaks and which Bakunin has always
-practised.”_[13]
+> working-men’s group that permits of maintaining the direct struggle against
+> capital, without falling into parliamentarianism. But evidently it does not
+> take that trend mechanically, since we have in Germany, France and England
+> syndicates rallying to parliamentarianism . . . The **other** element is
+> necessary, the element of which Malatesta speaks and which Bakunin has
+> always practised.”_[13]
 
 So section J also addresses the issue of how anarchists organise, the kinds of
 associations we create and how we seek to influence social movements and the
@@ -357,6 +357,15 @@ pregnancy and obesity, and higher rates of literacy and social trust. All of
 which confirm the anarchist analysis of the harmful effects of inequality in
 wealth and power.
 
+**AFAQ** has moved its main site location (although the various aliases we
+have remain the same).[14] As a result, it also has a blog in which we post
+supplemental material on anarchism and news about the FAQ itself (such as
+updates).[15] Notable postings include the 2008 article marking the 150th
+anniversary of the use of the term “libertarian” by anarchists ([ _150 years
+of libertarian_](150-years-of-libertarian)), a supplement to our appendix on
+anarchist symbols contained in volume 1 ([ _The Red Flag of Anarchy_](the-red-
+flag-of-anarchy)) and [an unfinished
+C](secCcon.md) explaining classical economics from a socialist perspective.
 
 Finally, on a personal note, I dedicate this volume, like the first, to my
 family. I hope that this work will help, however slightly, to make the world a
@@ -382,10 +391,10 @@ Iain McKay
 
 * * *
 
-[1] quoted by Peter Arshinov, **The History of the Makhnovist Movement**, p.
+[1] quoted by Peter Arshinov, **The History of the Makhnovist Movement** , p.
 58
 
-[2] **The Betrayal of the American Right**, Ludwig von Mises Institute, p. 83
+[2] **The Betrayal of the American Right** , Ludwig von Mises Institute, p. 83
 
 [3] I would also like to take the opportunity to thank individualist anarchist
 Shawn Wilbur for his valued input into [section G](secGcon.md) and the
@@ -410,19 +419,20 @@ state (see [section H.3.10](secH3.md#sech310), for example).
 [7] If Marx had been a bit more forthcoming then the likes of Stalin would
 have found it harder to label their nightmare regimes “socialist.”
 
-[8] quoted by G. Woodcock and I. Avakumovic, **The Anarchist Prince**, p. 369.
+[8] quoted by G. Woodcock and I. Avakumovic, **The Anarchist Prince** , p.
+369.
 
-[9] Proudhon,** Op. Cit.**, p. 325 and p. 398
+[9] Proudhon, **Op. Cit.** , p. 325 and p. 398
 
-[10] **Anarchism**, p. 47
+[10] **Anarchism** , p. 47
 
-[11] **Op. Cit.**, p. 321. Proudhon had made a similar call in 1846, arguing
-that _“__an agricultural and industrial combination must be found by means of
+[11] **Op. Cit.** , p. 321. Proudhon had made a similar call in 1846, arguing
+that _“_ _an agricultural and industrial combination must be found by means of
 which power, today the ruler of society, shall become its slave”_ as the state
 is _“inevitably enchained to capital and directed against the proletariat.”_
 (pp. 225-6)
 
-[12] quoted by Woodcock and Avakumovic, **Op. Cit.**, pp. 294-5. As noted in
+[12] quoted by Woodcock and Avakumovic, **Op. Cit.** , pp. 294-5. As noted in
 the introduction to volume 1, the words used by previous generations of
 anarchists are dated and would appear sexist if uttered today. Suffice to say,
 Kropotkin was in favour of working women unionising. As discussed in [section
@@ -431,11 +441,11 @@ are for equality between the sexes – even if they unthinkingly used the sexist
 terminology of their time (Emma Goldman, for example, used “man” to describe
 all humanity).
 
-[13] quoted by Woodcock and Avakumovic, **Op. Cit.**, p. 295
+[13] quoted by Woodcock and Avakumovic, **Op. Cit.** , p. 295
 
 
 
 [‹ An Anarchist FAQ: Introduction to Volume 1](vol1intro.md "Go to previous
-page" ) [up](intro.md "Go to parent page" ) [What Anarchists Say about An
-Anarchist FAQ ›](quotes.md "Go to next page" )
+page") [up](intro.md "Go to parent page") [What Anarchists Say about An
+Anarchist FAQ ›](quotes.md "Go to next page")
 

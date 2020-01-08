@@ -1,6 +1,6 @@
 # J.5 What alternative social organisations do anarchists create?
 
-Anarchism is all about **_"do it yourself"_**: people helping each other out
+Anarchism is all about **_"do it yourself"_** : people helping each other out
 in order to secure a good society to live within and to protect, extend and
 enrich their personal freedom. As such anarchists are keenly aware of the
 importance of building alternatives to both capitalism and the state in the
@@ -9,32 +9,33 @@ anarchism is a viable possibility and train ourselves in the techniques and
 responsibilities of freedom:
 
 > _"If we put into practice the principles of libertarian communism within our
-organisations, the more advanced and prepared we will be on that day when we
-come to adopt it completely."_ [C.N.T. member, quoted by Graham Kelsey,
-**Anarchosyndicalism, Libertarian Communism and the State**, p. 79]
+> organisations, the more advanced and prepared we will be on that day when we
+> come to adopt it completely."_ [C.N.T. member, quoted by Graham Kelsey,
+> **Anarchosyndicalism, Libertarian Communism and the State** , p. 79]
 
 This idea (to quote the IWW) of _"building a new world in the shell of the
 old"_ is a long standing one in anarchism. Proudhon during the 1848 revolution
 _"propose[d] that a provisional committee be set up"_ in Paris and _"liaise
 with similar committees"_ elsewhere in France. This would be _"a body
-representative of the proletariat . . .,** imperium in imperio **[a state
+representative of the proletariat . . ., **imperium in imperio** [a state
 within the state], in opposition to the bourgeois representatives."_ He
 proclaimed to working class people that _"a new society be founded in the
 heart of the old society"_ for _"the government can do nothing for you. But
-you can do everything for yourselves."_ [**Property is Theft!**, pp. 321-2]
+you can do everything for yourselves."_ [ **Property is Theft!** , pp. 321-2]
 This was echoed by Bakunin (see [section H.2.8](secH2.md#sech28)) while for
 revolutionary syndicalists the aim was _"to constitute within the bourgeois
 State a veritable socialist (economic and anarchic) State."_ [Fernand
-Pelloutier, quoted by Jeremy Jennings, **Syndicalism in France**, p. 22] By so
-doing we help create the environment within which individuals can manage their
-own affairs and develop their abilities to do so. In other words, we create
-**_"schools of anarchism"_** which lay the foundations for a better society as
-well as promoting and supporting social struggle against the current system.
-Make no mistake, the alternatives we discuss in this section are not an
-alternative to direct action and the need for social struggle - they are an
-expression of social struggle and a form of direct action. They are the
-framework by which social struggle can build and strengthen the anarchist
-tendencies within capitalist society which will ultimately replace it.
+Pelloutier, quoted by Jeremy Jennings, **Syndicalism in France** , p. 22] By
+so doing we help create the environment within which individuals can manage
+their own affairs and develop their abilities to do so. In other words, we
+create **_"schools of anarchism"_** which lay the foundations for a better
+society as well as promoting and supporting social struggle against the
+current system. Make no mistake, the alternatives we discuss in this section
+are not an alternative to direct action and the need for social struggle -
+they are an expression of social struggle and a form of direct action. They
+are the framework by which social struggle can build and strengthen the
+anarchist tendencies within capitalist society which will ultimately replace
+it.
 
 Therefore it is wrong to think that libertarians are indifferent to making
 life more bearable, even more enjoyable, under capitalism. A free society will
@@ -43,9 +44,9 @@ communities with a long history of social struggle and organisation. For as
 Wilheim Reich so correctly pointed out:
 
 > _"Quite obviously, a society that is to consist of 'free individuals,' to
-constitute a 'free community' and to administer itself, i.e. to 'govern
-itself,' cannot be suddenly created by decrees. It has to **evolve**
-organically."_ [**The Mass Psychology of Fascism**, p. 241]
+> constitute a 'free community' and to administer itself, i.e. to 'govern
+> itself,' cannot be suddenly created by decrees. It has to **evolve**
+> organically."_ [ **The Mass Psychology of Fascism** , p. 241]
 
 It is this organic evolution that anarchists promote when they create
 libertarian alternatives within capitalist society. These alternatives (be
@@ -64,8 +65,8 @@ the defence of their interests,"_ in Malatesta's words, _"the workers develop
 an awareness of the oppression they suffer and the antagonism that divides
 them from the bosses and as a result begin to aspire to a better life, become
 accustomed to collective struggle and solidarity and win those improvements
-that are possible within the capitalist and state regime."_ [**The Anarchist
-Revolution**, p. 95] By creating viable examples of **_"anarchy in action"_**
+that are possible within the capitalist and state regime."_ [ **The Anarchist
+Revolution** , p. 95] By creating viable examples of **_"anarchy in action"_**
 we can show that our ideas are practical and convince people that they are not
 utopian. Therefore this section of the FAQ will indicate the alternatives
 anarchists support and **why** we support them.
@@ -79,17 +80,17 @@ organisation, self-management, solidarity and mutual aid. These are a means
 _"of raising the morale of the workers, accustom them to free initiative and
 solidarity in a struggle for the good of everyone and render them capable of
 imagining, desiring and putting into practice an anarchist life."_ [Malatesta,
-**Op. Cit.**, p. 28] Kropotkin summed up the anarchist perspective well when
+**Op. Cit.** , p. 28] Kropotkin summed up the anarchist perspective well when
 he argued that working class people had _"to form their own organisations for
 a direct struggle against capitalism"_ and to _"take possession of the
-necessaries for production, and to control production."_ [**Memoirs of a
-Revolutionist**, p. 359] As historian J. Romero Maura correctly summarised,
+necessaries for production, and to control production."_ [ **Memoirs of a
+Revolutionist** , p. 359] As historian J. Romero Maura correctly summarised,
 the _"anarchist revolution, when it came, would be essentially brought about
 by the working class. Revolutionaries needed to gather great strength and must
 beware of underestimating the strength of reaction"_ and so anarchists
 _"logically decided that revolutionaries had better organise along the lines
-of labour organisations."_ [_"The Spanish case"_, pp. 60-83, **Anarchism
-Today**, D. Apter and J. Joll (eds.), p. 66]
+of labour organisations."_ [ _"The Spanish case"_ , pp. 60-83, **Anarchism
+Today** , D. Apter and J. Joll (eds.), p. 66]
 
 As will quickly become obvious in this discussion (as if it had not been so
 before!) anarchists are firm supporters of **_"self-help,"_** an expression
@@ -98,9 +99,9 @@ Like freedom, self-help should be saved from the clutches of the right who
 have no real claim to that expression. Indeed, anarchism was created from and
 based itself upon working class self-help -- for what other interpretation can
 be gathered from Proudhon's 1848 statement that _"the proletariat must
-emancipate itself"_? [**Property is Theft!**, p. 306] So Anarchists have great
-faith in the abilities of working class people to work out for themselves what
-their problems are and act to solve them.
+emancipate itself"_? [ **Property is Theft!** , p. 306] So Anarchists have
+great faith in the abilities of working class people to work out for
+themselves what their problems are and act to solve them.
 
 Anarchist support and promotion of alternatives is a **key** aspect of this
 process of self-liberation, and so a key aspect of anarchism. While strikes,
@@ -117,7 +118,7 @@ possibility of creating an anarchist society.
 We must also stress that anarchists look to organic tendencies within social
 struggle as the basis of any alternatives we try to create. As Kropotkin put
 it, anarchism is based _"on an analysis of **tendencies of an evolution that
-is already going on in society**, and on **induction** therefrom as to the
+is already going on in society** , and on **induction** therefrom as to the
 future."_ It is _"representative . . . of the creative, instructive power of
 the people themselves who aimed at developing institutions of common law in
 order to protect them from the power-seeking minority."_ Anarchism bases
@@ -129,13 +130,13 @@ libertarian schools, and so on. For anarchism was _"born among the people --
 in the struggles of real life and not in the philosopher's studio"_ and owes
 its _"origin to the constructive, creative activity of the people . . . and to
 a protest -- a revolt against the external force which had thrust itself
-upon"_ social institutions. [**Anarchism**, p. 158, p. 147, p. 150 and p. 149]
-This _"creative activity"_ is expressed in the organisations created in the
-class struggle by working people, some of which we discuss in this section of
-the FAQ. Therefore, the alternatives anarchists support should not be viewed
-in isolation of social struggle and working class resistance to hierarchy --
-the reverse in fact, as these alternatives are almost always expressions of
-that struggle.
+upon"_ social institutions. [ **Anarchism** , p. 158, p. 147, p. 150 and p.
+149] This _"creative activity"_ is expressed in the organisations created in
+the class struggle by working people, some of which we discuss in this section
+of the FAQ. Therefore, the alternatives anarchists support should not be
+viewed in isolation of social struggle and working class resistance to
+hierarchy -- the reverse in fact, as these alternatives are almost always
+expressions of that struggle.
 
 Lastly, we should note we do not list all the forms of organisation anarchists
 create. For example, we have ignored solidarity groups (for workers on strike
@@ -153,11 +154,11 @@ capitalism and the state must be fought, not ignored. In addition, due to
 their small size, they are rarely viable experiments in communal living and
 nearly always fail after a short time (for a good summary of Kropotkin's
 attitude to such communities, which can be taken as typical, see Graham
-Purchase's **Evolution &amp; Revolution** [pp. 122-125]). Dropping out will
-not stop capitalism and the state and while such communities may try to ignore
-the system, they will find that the system will not ignore them -- they will
-come under competitive and ecological pressures from capitalism whether they
-like it or not assuming they avoid direct political interference.
+Purchase's **Evolution & Revolution** [pp. 122-125]). Dropping out will not
+stop capitalism and the state and while such communities may try to ignore the
+system, they will find that the system will not ignore them -- they will come
+under competitive and ecological pressures from capitalism whether they like
+it or not assuming they avoid direct political interference.
 
 So the alternatives we discuss here are attempts to create anarchist
 alternatives within capitalism and which aim to **change** it (either by
@@ -250,8 +251,8 @@ a development helps to reduce the problems facing isolated co-operatives in a
 capitalist economy -- see [section J.5.11](secJ5.md#secj511) \-- and was
 actively done in order to _"seek to bring together all the currents, all the
 problems and contradictions, to seek solutions"_ to such problems facing co-
-operatives. [_"Community Organising in Southern Italy"_, pp. 16-19, **Black
-Flag**, no. 210, p. 17 and p. 18]
+operatives. [ _"Community Organising in Southern Italy"_ , pp. 16-19, **Black
+Flag** , no. 210, p. 17 and p. 18]
 
 Elsewhere in Europe, the long, hard work of the C.N.T. in Spain has also
 resulted in mass village assemblies being created in the Puerto Real area,
@@ -270,9 +271,9 @@ including health, taxation, economic, ecological and cultural issues.
 Moreover, the struggle _"created a structure which was very different from the
 kind of structure of political parties, where the decisions are made at the
 top and they filter down. What we managed to do in Puerto Real was make
-decisions at the base and take them upwards."_ [**Anarcho-Syndicalism in
+decisions at the base and take them upwards."_ [ **Anarcho-Syndicalism in
 Puerto Real: from shipyard resistance to direct democracy and community
-control**, p. 6]
+control** , p. 6]
 
 More recently, the December 2001 revolt against neo-liberalism in Argentina
 saw hundreds of neighbourhood assemblies created across the country. These
@@ -292,7 +293,7 @@ neighbourhood assemblies ended a system in which _"we elected people to make
 our decisions for us . . . now we will make our own decisions."_ While the
 _"anarchist movement has been talking about these ideas for years"_ the
 movement took them up _"from necessity."_ [Marina Sitrin (ed.),
-**Horizontalism: Voices of Popular Power in Argentina**, p. 41 and pp. 38-9]
+**Horizontalism: Voices of Popular Power in Argentina** , p. 41 and pp. 38-9]
 
 The idea of community organising has long existed within anarchism. Kropotkin
 pointed to the directly democratic assemblies of Paris during the French
@@ -311,15 +312,15 @@ Paris was not to be a governed State, but a people governing itself directly
 -- when possible -- without intermediaries, without masters"_ and so _"the
 principles of anarchism . . . had their origin, not in theoretic speculations,
 but in the **deeds** of the Great French Revolution."_ This _"laid the
-foundations of a new, free, social organisation" _and Kropotkin predicted that
-_"the libertarians would no doubt do the same to-day."_ [**Great French
-Revolution**, vol. 1, p. 201, p. 203, pp. 210-1, p. 210, p. 204 and p. 206]
+foundations of a new, free, social organisation"_ and Kropotkin predicted that
+_"the libertarians would no doubt do the same to-day."_ [ **Great French
+Revolution** , vol. 1, p. 201, p. 203, pp. 210-1, p. 210, p. 204 and p. 206]
 
 In Chile during 1925 _"a grass roots movement of great significance emerged,"_
-the tenant leagues (_ligas do arrendatarios_). The movement pledged to pay
+the tenant leagues ( _ligas do arrendatarios_ ). The movement pledged to pay
 half their rent beginning the 1st of February, 1925, at huge public rallies
 (it should also be noted that _"Anarchist labour unionists had formed previous
-ligas do arrendatarios in 1907 and 1914."_). The tenants leagues were
+ligas do arrendatarios in 1907 and 1914."_ ). The tenants leagues were
 organised by ward and federated into a city-wide council. It was a vast
 organisation, with 12,000 tenants in just one ward of Santiago alone. The
 movement also _"press[ed] for a law which would legally recognise the lower
@@ -331,16 +332,17 @@ rent reduction of 50 percent."_ Official figures showed that rents _"fell
 sharply during 1915, due in part to the rent strikes"_ and for the anarchists
 _"the tenant league movement had been the first step toward a new social order
 in Chile."_ [Peter DeShazo, **Urban Workers and Labor Unions in Chile
-1902-1927**, p. 223, p. 327, p. 223, p. 225 and p. 226] As one Anarchist
+1902-1927** , p. 223, p. 327, p. 223, p. 225 and p. 226] As one Anarchist
 newspaper put it:
 
 > _"This movement since its first moments had been essentially revolutionary.
-The tactics of direct action were preached by libertarians with highly
-successful results, because they managed to instil in the working classes the
-idea that if landlords would not accept the 50 percent lowering of rents, they
-should pay nothing at all. In libertarian terms, this is the same as taking
-possession of common property. It completes the first stage of what will
-become a social revolution."_ [quoted by DeShazo, **Op. Cit.**, p. 226]
+> The tactics of direct action were preached by libertarians with highly
+> successful results, because they managed to instil in the working classes
+> the idea that if landlords would not accept the 50 percent lowering of
+> rents, they should pay nothing at all. In libertarian terms, this is the
+> same as taking possession of common property. It completes the first stage
+> of what will become a social revolution."_ [quoted by DeShazo, **Op. Cit.**
+> , p. 226]
 
 A similar concern for community organising and struggle was expressed in
 Spain. While the collectives during the revolution are well known, the CNT had
@@ -366,18 +368,18 @@ landlords had been forced to come to terms with their tenants, agreeing to
 reduced rents rather than facing the prospect of having no income for an
 extended period or the landlord simply agreed to forget the unpaid rents from
 the period of the rent strike. [Nick Rider, _"The Practice of Direct Action:
-the Barcelona rent strike of 1931"_, **For Anarchism**, David Goodway (ed.),
+the Barcelona rent strike of 1931"_ , **For Anarchism** , David Goodway (ed.),
 pp. 79-105] As Abel Paz summarised:
 
 > _"Unemployed workers did not receive or ask for state aid . . . The workers'
-first response to the economic crisis was the rent, gas, and electricity
-strike in mid-1933, which the CNT and FAI's Economic Defence Committee had
-been laying the foundations for since 1931. Likewise, house, street, and
-neighbourhood groups began to turn out en masse to stop evictions and other
-coercive acts ordered by the landlords (always with police support). The
-people were constantly mobilised. Women and youngsters were particularly
-active; it was they who challenged the police and stopped the endless
-evictions."_ [**Durruti in the Spanish Revolution**, p. 308]
+> first response to the economic crisis was the rent, gas, and electricity
+> strike in mid-1933, which the CNT and FAI's Economic Defence Committee had
+> been laying the foundations for since 1931. Likewise, house, street, and
+> neighbourhood groups began to turn out en masse to stop evictions and other
+> coercive acts ordered by the landlords (always with police support). The
+> people were constantly mobilised. Women and youngsters were particularly
+> active; it was they who challenged the police and stopped the endless
+> evictions."_ [ **Durruti in the Spanish Revolution** , p. 308]
 
 In Gijon, the CNT _"reinforced its populist image by . . . its direct consumer
 campaigns. Some of these were organised through the federation's Anti-
@@ -398,21 +400,21 @@ utilised various forms of direct action, from rent strikes, to mass
 demonstrations, to the reversal of evictions."_ This last action involved the
 local SDIP group going to a home, breaking the judge's official eviction seal
 and carrying the furniture back in from the street. They left their own sign:
-_"**opened by order** of the CNT."_ The CNT's direct action strategies
+_" **opened by order** of the CNT."_ The CNT's direct action strategies
 _"helped keep political discourse in the street, and encouraged people to
 pursue the same extra-legal channels of activism that they had developed under
-the monarchy."_ [Pamela Beth Radcliff, **From mobilization to civil war**, pp.
-287-288 and p. 289]
+the monarchy."_ [Pamela Beth Radcliff, **From mobilization to civil war** ,
+pp. 287-288 and p. 289]
 
 > In these ways, grassroots movements from below were created, with direct
-democracy and participation becoming an inherent part of a local political
-culture of resistance, with people deciding things for themselves directly and
-without hierarchy. Such developments are the embryonic structures of a world
-based around participation and self-management, with a strong and dynamic
-community life. For, as Martin Buber argued, _"[t]he more a human group lets
-itself be represented in the management of its common affairs . . . the less
-communal life there is in it and the more impoverished it becomes as a
-community."_ [**Paths in Utopia**, p. 133]
+> democracy and participation becoming an inherent part of a local political
+> culture of resistance, with people deciding things for themselves directly
+> and without hierarchy. Such developments are the embryonic structures of a
+> world based around participation and self-management, with a strong and
+> dynamic community life. For, as Martin Buber argued, _"[t]he more a human
+> group lets itself be represented in the management of its common affairs . .
+> . the less communal life there is in it and the more impoverished it becomes
+> as a community."_ [ **Paths in Utopia** , p. 133]
 
 Anarchist support and encouragement of community unionism, by creating the
 means for communal self-management, helps to enrich the community as well as
@@ -426,35 +428,36 @@ of the rent strikers who been arrested for non-payment. Such developments
 indicate that Isaac Puente was correct:
 
 > _"Libertarian Communism is a society organised without the state and without
-private ownership. And there is no need to invent anything or conjure up some
-new organisation for the purpose. The centres about which life in the future
-will be organised are already with us in the society of today: the free union
-and the free municipality [or Commune]._
+> private ownership. And there is no need to invent anything or conjure up
+> some new organisation for the purpose. The centres about which life in the
+> future will be organised are already with us in the society of today: the
+> free union and the free municipality [or Commune]._
 
-> _"**The union**: in it combine spontaneously the workers from factories and
-all places of collective exploitation._
+> _" **The union** : in it combine spontaneously the workers from factories
+> and all places of collective exploitation._
 
-> _"And **the free municipality**: an assembly . . . where, again in
-spontaneity, inhabitants . . . combine together, and which points the way to
-the solution of problems in social life . . . _
+> _"And **the free municipality** : an assembly . . . where, again in
+> spontaneity, inhabitants . . . combine together, and which points the way to
+> the solution of problems in social life . . . _
 
 > _"Both kinds of organisation, run on federal and democratic principles, will
-be sovereign in their decision making, without being beholden to any higher
-body, their only obligation being to federate one with another as dictated by
-the economic requirement for liaison and communications bodies organised in
-industrial federations._
+> be sovereign in their decision making, without being beholden to any higher
+> body, their only obligation being to federate one with another as dictated
+> by the economic requirement for liaison and communications bodies organised
+> in industrial federations._
 
 > _"The **union and the free municipality** will assume the collective or
-common ownership of everything which is under private ownership at present
-[but collectively used] and will regulate production and consumption (in a
-word, the economy) in each locality. _
+> common ownership of everything which is under private ownership at present
+> [but collectively used] and will regulate production and consumption (in a
+> word, the economy) in each locality. _
 
 > _"The very bringing together of the two terms (communism and libertarian) is
-indicative in itself of the fusion of two ideas: one of them is collectivist,
-tending to bring about harmony in the whole through the contributions and co-
-operation of individuals, without undermining their independence in any way;
-while the other is individualist, seeking to reassure the individual that his
-independence will be respected."_ [**Libertarian Communism**, pp. 6-7]
+> indicative in itself of the fusion of two ideas: one of them is
+> collectivist, tending to bring about harmony in the whole through the
+> contributions and co-operation of individuals, without undermining their
+> independence in any way; while the other is individualist, seeking to
+> reassure the individual that his independence will be respected."_ [
+> **Libertarian Communism** , pp. 6-7]
 
 The combination of community unionism, along with industrial unionism (see
 [next section](secJ5.md#secj52)), will be the key to creating an anarchist
@@ -475,8 +478,8 @@ most enormous power in their hands, and, if they once become thoroughly
 conscious of it and used it, nothing could withstand them; they would only
 have to stop labour, regard the product of labour as theirs, and enjoy it.
 This is the sense of the labour disturbances which show themselves here and
-there."_ [Max Stirner, **The Ego and Its Own**, p. 116] Industrial unionism is
-simply libertarian workplace organisation and is the best way of organising
+there."_ [Max Stirner, **The Ego and Its Own** , p. 116] Industrial unionism
+is simply libertarian workplace organisation and is the best way of organising
 and exercising this power.
 
 Before discussing why anarchists support industrial unionism, we must point
@@ -486,7 +489,7 @@ CIO in the USA (see [next section](secJ5.md#secj53)). In such unions, as
 Alexander Berkman pointed out, the _"rank and file have little say. They have
 delegated their power to leaders, and these have become the boss . . . Once
 you do that, the power you have delegated will be used against you and your
-interests every time."_ [**What is Anarchism?**, p. 205] Reformist unions,
+interests every time."_ [ **What is Anarchism?** , p. 205] Reformist unions,
 even if they do organise by industry rather than by trade or craft, are top-
 heavy and bureaucratic. Thus they are organised in the same manner as
 capitalist firms or the state -- and like both of these, the officials at the
@@ -524,9 +527,9 @@ shop and factory, in the mill and mine. It is **there** that he [or she] must
 organise; there, on the job."_ It is there that workers _"decide the matters
 at issue and carry their decisions out through the shop committees"_ (whose
 members are _"under the direction and supervision of the workers"_ and can be
-_"recalled at will"_). These committees are _"associated locally, regionally
+_"recalled at will"_ ). These committees are _"associated locally, regionally
 and nationally"_ to produce _"a power tremendous in its scope and
-potentialities."_ [Berkman, **Op. Cit.**, pp. 205-6] This confederation is
+potentialities."_ [Berkman, **Op. Cit.** , pp. 205-6] This confederation is
 usually organised on two directions, between different workplaces in the same
 industry as well as between different workplaces in the same locality.
 
@@ -549,23 +552,23 @@ membership, as expressed in local workplace assemblies. To co-ordinate strikes
 and other forms of action, these autonomous branches are part of a federal
 structure. The mass meeting in the workplace mandates delegates to express the
 wishes of the membership at "labour councils" and "industrial federations."
-The labour council (_"Brouse du Travail"_, in French) is the federation of all
-workplace branches of all industries in a geographical area (say, for example,
-in a city or region) and it has the tasks of, among other things, education,
-propaganda and the promotion of solidarity between the different workplaces in
-its area. Due to the fact it combines all workers into one organisation,
-regardless of industry or union, the labour council plays a key role in
-increasing **class** consciousness and solidarity. The industrial federation
-organises all workplaces in the same industry so ensuring that workers in one
-part of the country or world are not producing goods so that the bosses _"can
-supply the market and lose nothing by the strike"_. So these federations are
-_"organised not by craft or trade but by industries, so that the whole
-industry -- and if necessary the whole working class -- could strike as one
-man."_ If that were done _"would any strike be lost?"_ [Berkman, **Op. Cit.**,
-p. 82] In practice, of course, the activities of these dual federations would
-overlap: labour councils would support an industry wide strike or action while
-industrial unions would support action conducted by its member unions called
-by labour councils.
+The labour council ( _"Brouse du Travail"_ , in French) is the federation of
+all workplace branches of all industries in a geographical area (say, for
+example, in a city or region) and it has the tasks of, among other things,
+education, propaganda and the promotion of solidarity between the different
+workplaces in its area. Due to the fact it combines all workers into one
+organisation, regardless of industry or union, the labour council plays a key
+role in increasing **class** consciousness and solidarity. The industrial
+federation organises all workplaces in the same industry so ensuring that
+workers in one part of the country or world are not producing goods so that
+the bosses _"can supply the market and lose nothing by the strike"_. So these
+federations are _"organised not by craft or trade but by industries, so that
+the whole industry -- and if necessary the whole working class -- could strike
+as one man."_ If that were done _"would any strike be lost?"_ [Berkman, **Op.
+Cit.** , p. 82] In practice, of course, the activities of these dual
+federations would overlap: labour councils would support an industry wide
+strike or action while industrial unions would support action conducted by its
+member unions called by labour councils.
 
 However, industrial unionism should **not** be confused with a closed shop
 situation where workers are forced to join a union when they become a wage
@@ -580,11 +583,11 @@ Albert Meltzer argued, the closed shop means that _"the [trade union]
 leadership becomes all-powerful since once it exerts its right to expel a
 member, that person is not only out of the union, but out of a job."_ Anarcho-
 syndicalism, therefore, _"rejects the closed shop and relies on voluntary
-membership, and so avoids any leadership or bureaucracy."_ [**Anarchism:
-Arguments for and against**, p. 56] Without voluntary membership even the most
-libertarian union may become bureaucratic and unresponsive to the needs of its
-members and the class struggle (also see Tom Wetzel's excellent article _"The
-Origins of the Union Shop"_, [**Ideas &amp; Action** no. 11]). Needless to
+membership, and so avoids any leadership or bureaucracy."_ [ **Anarchism:
+Arguments for and against** , p. 56] Without voluntary membership even the
+most libertarian union may become bureaucratic and unresponsive to the needs
+of its members and the class struggle (also see Tom Wetzel's excellent article
+_"The Origins of the Union Shop"_ , [ **Ideas & Action** no. 11]). Needless to
 say, if the union membership refuses to work with non-union members then that
 is a different situation. Then this is an issue of free association (as free
 association clearly implies the right **not** to associate). This issue rarely
@@ -601,30 +604,30 @@ their forces with their fellow workers. As syndicalist activist Tom Brown made
 clear:
 
 > _"The basis of the Syndicate is the mass meeting of workers assembled at
-their place of work . . . The meeting elects its factory committee and
-delegates. The factory Syndicate is federated to all other such committees in
-the locality . . . In the other direction, the factory, let us say engineering
-factory, is affiliated to the District Federation of Engineers. In turn the
-District Federation is affiliated to the National Federation of Engineers . .
-. Then, each industrial federation is affiliated to the National Federation of
-Labour . . . how the members of such committees are elected is most important.
-They are, first of all, not representatives like Members of Parliament who air
-their own views; they are delegates who carry the message of the workers who
-elect them. They do not tell the workers what the 'official' policy is; the
-workers tell them._
+> their place of work . . . The meeting elects its factory committee and
+> delegates. The factory Syndicate is federated to all other such committees
+> in the locality . . . In the other direction, the factory, let us say
+> engineering factory, is affiliated to the District Federation of Engineers.
+> In turn the District Federation is affiliated to the National Federation of
+> Engineers . . . Then, each industrial federation is affiliated to the
+> National Federation of Labour . . . how the members of such committees are
+> elected is most important. They are, first of all, not representatives like
+> Members of Parliament who air their own views; they are delegates who carry
+> the message of the workers who elect them. They do not tell the workers what
+> the 'official' policy is; the workers tell them._
 
 > _"Delegates are subject to instant recall by the persons who elected them.
-None may sit for longer than two successive years, and four years must elapse
-before his [or her] next nomination. Very few will receive wages as delegates,
-and then only the district rate of wages for the industry . . . _
+> None may sit for longer than two successive years, and four years must
+> elapse before his [or her] next nomination. Very few will receive wages as
+> delegates, and then only the district rate of wages for the industry . . ._
 
 > _"It will be seen that in the Syndicate the members control the organisation
--- not the bureaucrats controlling the members. In a trade union the higher up
-the pyramid a man is the more power he wields; in a Syndicate the higher he is
-the less power he has._
+> -- not the bureaucrats controlling the members. In a trade union the higher
+> up the pyramid a man is the more power he wields; in a Syndicate the higher
+> he is the less power he has._
 
-> _"The factory Syndicate has full autonomy over its own affairs."_
-[**Syndicalism**, pp. 35-36]
+> _"The factory Syndicate has full autonomy over its own affairs."_ [
+> **Syndicalism** , pp. 35-36]
 
 Such federalism exists to co-ordinate struggle, to ensure that solidarity
 becomes more than a word written on banners. We are sure that many radicals
@@ -636,48 +639,48 @@ uniformity instead of unity, and elites instead of equality. The centralised
 form of organisation has been tried and tried again -- it has always failed.
 This is why the industrial union rejects centralisation, for it _"takes
 control too far away from the place of struggle to be effective on the
-workers' side."_ [Brown, **Op. Cit.**, p. 34] Centralisation leads to
+workers' side."_ [Brown, **Op. Cit.** , p. 34] Centralisation leads to
 disempowerment, which in turn leads to indifference, **not** solidarity.
 Rudolf Rocker reminds us of the evil effects of centralism when he wrote:
 
 > _"For the state centralisation is the appropriate form of organisation,
-since it aims at the greatest possible uniformity in social life for the
-maintenance of political and social equilibrium. But for a movement whose very
-existence depends on prompt action at any favourable moment and on the
-independent thought and action of its supporters, centralism could but be a
-curse by weakening its power of decision and systematically repressing all
-immediate action. If, for example, as was the case in Germany, every local
-strike had first to be approved by the Central, which was often hundreds of
-miles away and was not usually in a position to pass a correct judgement on
-the local conditions, one cannot wonder that the inertia of the apparatus of
-organisation renders a quick attack quite impossible, and there thus arises a
-state of affairs where the energetic and intellectually alert groups no longer
-serve as patterns for the less active, but are condemned by these to
-inactivity, inevitably bringing the whole movement to stagnation. Organisation
-is, after all, only a means to an end. When it becomes an end in itself, it
-kills the spirit and the vital initiative of its members and sets up that
-domination by mediocrity which is the characteristic of all bureaucracies."_
-[**Anarcho-Syndicalism**, p. 61]
+> since it aims at the greatest possible uniformity in social life for the
+> maintenance of political and social equilibrium. But for a movement whose
+> very existence depends on prompt action at any favourable moment and on the
+> independent thought and action of its supporters, centralism could but be a
+> curse by weakening its power of decision and systematically repressing all
+> immediate action. If, for example, as was the case in Germany, every local
+> strike had first to be approved by the Central, which was often hundreds of
+> miles away and was not usually in a position to pass a correct judgement on
+> the local conditions, one cannot wonder that the inertia of the apparatus of
+> organisation renders a quick attack quite impossible, and there thus arises
+> a state of affairs where the energetic and intellectually alert groups no
+> longer serve as patterns for the less active, but are condemned by these to
+> inactivity, inevitably bringing the whole movement to stagnation.
+> Organisation is, after all, only a means to an end. When it becomes an end
+> in itself, it kills the spirit and the vital initiative of its members and
+> sets up that domination by mediocrity which is the characteristic of all
+> bureaucracies."_ [ **Anarcho-Syndicalism** , p. 61]
 
 Centralised unions ensure that it is the highest level of union officialdom
 which decides when workers are allowed to strike. Instead of those affected
 acting, _"the dispute must be reported to the district office of the union
 (and in some cases to an area office) then to head office, then back again . .
 . The worker is not allowed any direct approach to, or control of the
-problem."_ [Brown, **Op. Cit.**, p. 34] The end result is that _"through the
+problem."_ [Brown, **Op. Cit.** , p. 34] The end result is that _"through the
 innate conservatism of officialdom"_ officials in centralised unions
 _"ordinarily use their great powers to prevent strikes or to drive their
 unions' members back to work after they have struck in concert with other
 workers."_ The notion that a centralised organisation will be more radical
 _"has not developed in practice"_ and the key problem _"is due not to the
 autonomy of the unions, but to the lack of it."_ [Earl C. Ford and William Z.
-Foster, **Syndicalism**, p. 38] So the industrial union _"is based on the
+Foster, **Syndicalism** , p. 38] So the industrial union _"is based on the
 principles of Federalism, on free combination from below upwards, putting the
 right of self-determination . . . above everything else"_ and so rejects
 centralism as an _"artificial organisation from above downwards which turns
 over the affairs of everybody in a lump to a small minority"_ and is _"always
 attended by barren official routine"_ as well as _"lifeless discipline and
-bureaucratic ossification."_ [Rocker, **Op. Cit.**, p. 60]
+bureaucratic ossification."_ [Rocker, **Op. Cit.** , p. 60]
 
 This implies that as well as being decentralised and organised from the bottom
 up, the industrial union differs from the normal trade union by having no
@@ -697,28 +700,28 @@ them with someone who **will** reflect these decisions. In short, _"the
 Syndicalist stands firmly by these things -- mass meetings, delegates not
 bosses, the right of recall . . . Syndicalism is organised from the bottom
 upwards . . . all power comes from below and is controlled from below. This is
-a revolutionary principle."_ [Brown, **Op. Cit.**, p. 85]
+a revolutionary principle."_ [Brown, **Op. Cit.** , p. 85]
 
 As can be seen, industrial unionism reflects anarchist ideas of organisation
 -- it is organised from the bottom up, it is decentralised and based upon
 federation and it is directly managed by its members in mass assemblies. It is
 anarchism applied to industry and the needs of the class struggle. By
 supporting such forms of organisation, anarchists are not only seeing
-_"anarchy in action"_, they are forming effective tools which can win the
+_"anarchy in action"_ , they are forming effective tools which can win the
 class war. By organising in this manner, workers are building the framework of
 a co-operative society within capitalism:
 
 > _"the syndicate . . . has for its purpose the defence of the interests of
-the producers within existing society and the preparing for and the practical
-carrying out of the reconstruction of social life . . . It has, therefore, a
-double purpose: 1. As the fighting organisation of the workers against their
-employers to enforce the demands of the workers for the safeguarding of their
-standard of living; 2. As the school for the intellectual training of the
-workers to make them acquainted with the technical management of production
-and economic life in general, so that when a revolutionary situation arises
-they will be capable of taking the socio-economic organism into their own
-hands and remaking it according to Socialist principles."_ [Rocker, **Op.
-Cit.**, pp. 56-7]
+> the producers within existing society and the preparing for and the
+> practical carrying out of the reconstruction of social life . . . It has,
+> therefore, a double purpose: 1. As the fighting organisation of the workers
+> against their employers to enforce the demands of the workers for the
+> safeguarding of their standard of living; 2. As the school for the
+> intellectual training of the workers to make them acquainted with the
+> technical management of production and economic life in general, so that
+> when a revolutionary situation arises they will be capable of taking the
+> socio-economic organism into their own hands and remaking it according to
+> Socialist principles."_ [Rocker, **Op. Cit.** , pp. 56-7]
 
 So _"[a]t the same time that syndicalism exerts this unrelenting pressure on
 capitalism, it tries to build the new social order within the old. The unions
@@ -726,7 +729,7 @@ and the 'labour councils' are not merely means of struggle and instruments of
 social revolution; they are also the very structure around which to build a
 free society. The workers are to be educated in the job of destroying the old
 propertied order and in the task of reconstructing a stateless, libertarian
-society. The two go together."_ [Murray Bookchin, **The Spanish Anarchists**,
+society. The two go together."_ [Murray Bookchin, **The Spanish Anarchists** ,
 p. 121] The industrial union is seen as prefiguring the future society, a
 society which (like the union) is decentralised and self-managed in all
 aspects.
@@ -809,9 +812,9 @@ attitude is "supportive" in that even the worse trade union represents an
 attempt at working class solidarity and self-help, even if the organisation is
 now far removed from the initial protests and ideas that set the union up. For
 a worker to join a trade union means recognising, to some degree, that he or
-she has different interests from their boss (_"If the interests of labour and
+she has different interests from their boss ( _"If the interests of labour and
 capital are the same, why the union?"_ [Alexander Berkman, **What is
-Anarchism?**, p. 76]).
+Anarchism?** , p. 76]).
 
 There is no way to explain the survival of unions other than the fact that
 there are different class interests and workers have understood that to
@@ -834,8 +837,8 @@ looked upon the trade union as the deadly enemy of wage-slavery -- and they
 were right. Every labour organisation of sincere character must needs wage war
 upon the existing economic conditions, since the continuation of the same is
 synonymous with the exploitation and enslavement of labour."_ [Max Baginski,
-_"Aim and Tactics of the Trade-Union Movement"_, pp. 297-306, **Anarchy! An
-Anthology of Emma Goldman's Mother Earth**, Peter Glassgold (ed.), pp. 302-3]
+_"Aim and Tactics of the Trade-Union Movement"_ , pp. 297-306, **Anarchy! An
+Anthology of Emma Goldman's Mother Earth** , Peter Glassgold (ed.), pp. 302-3]
 Thus anarchist viewpoints on this issue reflect the contradictory nature of
 trade unions -- on the one hand they are products of workers' struggle, but on
 the other they are bureaucratic, unresponsive, centralised and their full-time
@@ -942,19 +945,19 @@ networks of activists who spread anarchist ideas to their fellow workers (see
 [next section](secJ5.md#secj54)). Hence Malatesta:
 
 > _"The anarchists within the unions should strive to ensure that they remain
-open to all workers of whatever opinion or party on the sole condition that
-there is solidarity in the struggle against the bosses. They should oppose the
-corporatist spirit and any attempt to monopolise labour or organisation. They
-should prevent the Unions from becoming the tools of the politicians for
-electoral or other authoritarian ends; they should preach and practice direct
-action, decentralisation, autonomy and free initiative. They should strive to
-help members learn how to participate directly in the life of the organisation
-and to do without leaders and permanent officials._
+> open to all workers of whatever opinion or party on the sole condition that
+> there is solidarity in the struggle against the bosses. They should oppose
+> the corporatist spirit and any attempt to monopolise labour or organisation.
+> They should prevent the Unions from becoming the tools of the politicians
+> for electoral or other authoritarian ends; they should preach and practice
+> direct action, decentralisation, autonomy and free initiative. They should
+> strive to help members learn how to participate directly in the life of the
+> organisation and to do without leaders and permanent officials._
 
 > _"They must, in short, remain anarchists, remain always in close touch with
-anarchists and remember that the workers' organisation is not the end but just
-one of the means, however important, of preparing the way for the achievement
-of anarchism."_ [**The Anarchist Revolution**, pp. 26-7]
+> anarchists and remember that the workers' organisation is not the end but
+> just one of the means, however important, of preparing the way for the
+> achievement of anarchism."_ [ **The Anarchist Revolution** , pp. 26-7]
 
 As part of this activity anarchists promote the ideas of Industrial Unionism
 we highlighted in the [last section](secJ5.md#secj52) \-- namely direct
@@ -962,7 +965,7 @@ workers control of struggle via workplace assemblies and recallable committees
 -- during times of struggle. However, anarchists are aware that economic
 struggle (and trade unionism as such) _"cannot be an end in itself, since the
 struggle must also be waged at a political level to distinguish the role of
-the State."_ [Malatesta, **Errico Malatesta: His Life and Ideas**, p, 115]
+the State."_ [Malatesta, **Errico Malatesta: His Life and Ideas** , p, 115]
 Thus, as well as encouraging worker self-organisation and self-activity,
 anarchist groups also seek to politicise struggles and those involved in them.
 Only this process of self-activity and political discussion between equals
@@ -996,7 +999,8 @@ up (the difference between purely anarchist networks and anarcho-syndicalist
 ones will be highlighted later). It would _"initially be a political grouping
 in the economic sphere, aiming to build a less reactive but positive
 organisation within the industry. The long term aim . . . is, obviously, the
-creation of an anarcho-syndicalist union."_ [**Winning the Class War**, p. 18]
+creation of an anarcho-syndicalist union."_ [ **Winning the Class War** , p.
+18]
 
 The Industrial Network would be an organisation of groups of libertarians
 within a workplace united on an industrial basis. They would pull their
@@ -1066,8 +1070,8 @@ energy **away** from practical and constructive activity and instead waste
 them _"[b]y constantly arguing for changes to the union structure . . . the
 need for the leadership to be more accountable, etc., [and so] they not only
 [offer] false hope but [channel] energy and discontent away from the real
-problem -- the social democratic nature of reformist trade unions."_ [**Op.
-Cit.**, p. 11]
+problem -- the social democratic nature of reformist trade unions."_ [ **Op.
+Cit.** , p. 11]
 
 Supporters of the "rank and file" approach fear that the Industrial Networks
 will isolate anarchists from the mass of trade union members by creating tiny
@@ -1078,17 +1082,18 @@ counts, in the workplace and in struggle rather than in trade union meetings
 which many workers do not even attend:
 
 > _"We have no intention of isolating ourselves from the many workers who make
-up the rest of the rank and file membership of the unions. We recognise that a
-large proportion of trade union members are only nominally so as the main
-activity of social democratic unions is outside the workplace . . . **We aim
-to unite and not divide workers.**_
+> up the rest of the rank and file membership of the unions. We recognise that
+> a large proportion of trade union members are only nominally so as the main
+> activity of social democratic unions is outside the workplace . . . **We aim
+> to unite and not divide workers.**_
 
 > _"It has been argued that social democratic unions will not tolerate this
-kind of activity, and that we would be all expelled and thus isolated. So be
-it. We, however, don't think that this will happen until . . . workplace
-militants had found a voice independent of the trade unions and so they become
-less useful to us anyway. Our aim is not to support social democracy, but to
-show it up as irrelevant to the working class."_ [**Op. Cit.**, p. 19]
+> kind of activity, and that we would be all expelled and thus isolated. So be
+> it. We, however, don't think that this will happen until . . . workplace
+> militants had found a voice independent of the trade unions and so they
+> become less useful to us anyway. Our aim is not to support social democracy,
+> but to show it up as irrelevant to the working class."_ [ **Op. Cit.** , p.
+> 19]
 
 Whatever the merits and disadvantages of both approaches are, it seems likely
 that the activity of both will overlap in practice with Industrial Networks
@@ -1153,18 +1158,18 @@ Mutual credit, in short, is a form of credit co-operation, in which
 individuals pull their resources together in order to benefit themselves as
 individuals and as part of a community. It has the following key aspects:
 
-> \-- **Co-operation**: No-one owns the network. It is controlled by its
-members democratically.
+> \-- **Co-operation** : No-one owns the network. It is controlled by its
+> members democratically.
 
-> \-- **Non-exploitative**: No interest is charged on account balances or
-credit. At most administrative costs are charged, a result of it being
-commonly owned and managed.
+> \-- **Non-exploitative** : No interest is charged on account balances or
+> credit. At most administrative costs are charged, a result of it being
+> commonly owned and managed.
 
-> \-- **Consent**: Nothing happens without it, there is no compulsion to
-trade.
+> \-- **Consent** : Nothing happens without it, there is no compulsion to
+> trade.
 
-> \-- **Labour-Notes**: They use their own type of money as a means of aiding
-"honest exchange."
+> \-- **Labour-Notes** : They use their own type of money as a means of aiding
+> "honest exchange."
 
 It is hoped, by organising credit, working class people will be able to work
 for themselves and slowly but surely replace capitalism with a co-operative
@@ -1181,13 +1186,13 @@ working class conditions within capitalism and of reforming capitalism into a
 society of confederated, self-governing communities. Such _"Equitable Labour
 Exchanges"_ were _"founded at London and Birmingham in 1832"_ with _"Labour
 notes and the exchange of small products."_ [E. P. Thompson, **The Making of
-the English Working Class**, p. 870] Apparently independently of these
+the English Working Class** , p. 870] Apparently independently of these
 attempts in Britain at what would later be called mutualism, Proudhon arrived
 at the same ideas decades later in France: _"The People's Bank quite simply
 embodies the financial and economic aspects of the principle of modern
 democracy, that is, the sovereignty of the People, and of the republican
-motto, 'Liberty, Equality, Fraternity.'"_ [**Selected Writings of P-J
-Proudhon**, p. 75] Similarly, in the USA (partly as a result of Joshua
+motto, 'Liberty, Equality, Fraternity.'"_ [ **Selected Writings of P-J
+Proudhon** , p. 75] Similarly, in the USA (partly as a result of Joshua
 Warren's activities, who got the idea from Robert Owen) there was extensive
 discussion on labour notes, exchanges and free credit as a means of protecting
 workers from the evils of capitalism and ensuring their independence and
@@ -1200,7 +1205,7 @@ improve working class living conditions, even, perhaps, to achieve industrial
 democracy, self-management and the end of capitalism has a long history in
 Socialist thought. Unfortunately this aspect of socialism became less
 important with the rise of Marxism (which called these early socialists
-_"utopian"_). Attempts at such credit unions and alternative exchange schemes
+_"utopian"_ ). Attempts at such credit unions and alternative exchange schemes
 were generally replaced with attempts to build working class political parties
 and so constructive socialistic experiments and collective working class self-
 help was replaced by working within the capitalist state. Fortunately, history
@@ -1232,8 +1237,8 @@ This point is important, as the banking system is often considered "neutral"
 argued, it would be _"a mistake to believe . . . that the banks are, or are in
 the main, a means to facilitate exchange; they are a means to speculate on
 exchange and currencies, to invest capital and to make it produce interest,
-and to fulfil other typically capitalist operations."_ [**Errico Malatesta:
-His Life and Ideas**, p. 100] Within capitalism, money is still to a large
+and to fulfil other typically capitalist operations."_ [ **Errico Malatesta:
+His Life and Ideas** , p. 100] Within capitalism, money is still to a large
 degree a commodity which is more than a convenient measure of work done in the
 production of goods and services. It can and does go anywhere in the world
 where it can get the best return for its owners, and so it tends to drain out
@@ -1243,7 +1248,7 @@ that put it?). It is the means by which capitalists can buy the liberty of
 working people and get them to produce a surplus for them (wealth is, after
 all, _"a power invested in certain individuals by the institutions of society,
 to compel others to labour for their benefit."_ [William Godwin, **The
-Anarchist Writings of William Godwin**, p. 130]). From this consideration
+Anarchist Writings of William Godwin** , p. 130]). From this consideration
 alone, working class control of credit and money is an important part of the
 class struggle as having access to alternative sources of credit can increase
 working class options and power.
@@ -1255,8 +1260,8 @@ political trouble. Credit also expands the consumption of the masses in the
 face of stagnant or falling wages so blunting the impact of increasing
 exploitation. Moreover, as an added bonus, there is a profit to be made as the
 _"rich need a place to earn interest on their surplus funds, and the rest of
-the population makes a juicy lending target."_ [Doug Henwood, **Wall Street**,
-p. 65]
+the population makes a juicy lending target."_ [Doug Henwood, **Wall Street**
+, p. 65]
 
 Little wonder that the state (and the capitalists who run it) is so concerned
 to keep control of money in its own hands or the hands of its agents. With an
@@ -1355,8 +1360,8 @@ co-operative credit would produce co-operative production while associated
 labour would increase the funds available to associated credit. For Proudhon
 the _"organisation of credit and organisation of labour amount to one and the
 same"_ and by recognising this the workers _"would soon have wrested alienated
-capital back again, through their organisation and competition."_ [**Property
-is Theft!**, pp. 17-8]
+capital back again, through their organisation and competition."_ [ **Property
+is Theft!** , pp. 17-8]
 
 Bakunin, while he was _"convinced that the co-operative will be the
 preponderant form of social organisation in the future"_ and could _"hardly
@@ -1368,13 +1373,13 @@ account the vast advantage that the bourgeoisie enjoys against the proletariat
 through its monopoly on wealth, science, and secular custom, as well as
 through the approval -- overt or covert but always active -- of States and
 through the whole organisation of modern society. The fight is too unequal for
-success reasonably to be expected."_ [**The Basic Bakunin**, p. 153 and p.
+success reasonably to be expected."_ [ **The Basic Bakunin** , p. 153 and p.
 152] Thus capitalism _"does not fear the competition of workers' associations
 -- neither consumers', producers', nor mutual credit associations -- for the
 simple reason that workers' organisations, left to their own resources, will
 never be able to accumulate sufficiently strong aggregations of capital
-capable of waging an effective struggle against bourgeois capital."_ [**The
-Political Philosophy of Bakunin**, p. 293]
+capable of waging an effective struggle against bourgeois capital."_ [ **The
+Political Philosophy of Bakunin** , p. 293]
 
 So, for most anarchists, it is only in combination with other forms of working
 class self-activity and self-management that mutualist institutions could play
@@ -1393,12 +1398,12 @@ while making life better under the current system, also play a role in
 overcoming that system by aiding those in struggle. Thus Bakunin:
 
 > _"let us co-operate in our common enterprise to make our lives a little bit
-more supportable and less difficult. Let us, wherever possible, establish
-producer-consumer co-operatives and mutual credit societies which, though
-under the present economic conditions they cannot in any real or adequate way
-free us, are nevertheless important inasmuch they train the workers in the
-practices of managing the economy and plant the precious seeds for the
-organisation of the future."_ [**Bakunin on Anarchism**, p. 173]
+> more supportable and less difficult. Let us, wherever possible, establish
+> producer-consumer co-operatives and mutual credit societies which, though
+> under the present economic conditions they cannot in any real or adequate
+> way free us, are nevertheless important inasmuch they train the workers in
+> the practices of managing the economy and plant the precious seeds for the
+> organisation of the future."_ [ **Bakunin on Anarchism** , p. 173]
 
 So while few anarchists think that mutualism would be enough in itself, it can
 play a role in the class struggle. As a compliment to direct action and
@@ -1607,7 +1612,7 @@ support for democratic workplaces is as old as use of the term anarchist to
 describe our ideas. So why do anarchists support co-operatives? It is because
 they are the only way to guarantee freedom in production and so _"the co-
 operative system . . . carries within it the germ of the future economic
-order."_ [Bakunin, **The Philosophy of Bakunin**, p. 385]
+order."_ [Bakunin, **The Philosophy of Bakunin** , p. 385]
 
 Anarchists support all kinds of co-operatives: housing, food, consumer, credit
 and workplace ones. All forms of co-operation are useful as they accustom
@@ -1651,7 +1656,7 @@ the fruits of your labour is to possess the instruments of labour . . . man
 really produces most when he works in freedom, when he has a certain choice in
 his occupations, when he has no overseer to impede him, and lastly, when he
 sees his work bringing profit to him and to others who work like him, but
-bringing in little to idlers."_ [**The Conquest of Bread**, p. 145]
+bringing in little to idlers."_ [ **The Conquest of Bread** , p. 145]
 
 There are also the positive advantages associated with participation (i.e.
 self-management, liberty in other words). Within a self-managed, co-operative
@@ -1660,24 +1665,25 @@ decisions are enriched by the skills, experiences and ideas of all members of
 the workplace. In the words of Colin Ward:
 
 > _"You can be **in** authority, or you can be **an** authority, or you can
-**have** authority. The first derives from your rank in some chain of command,
-the second derives from special knowledge, and the third from special wisdom.
-But knowledge and wisdom are not distributed in order of rank, and they are no
-one person's monopoly in any undertaking. The fantastic inefficiency of any
-hierarchical organisation -- any factory, office, university, warehouse or
-hospital -- is the outcome of two almost invariable characteristics. One is
-that the knowledge and wisdom of the people at the bottom of the pyramid finds
-no place in the decision-making leadership hierarchy of the institution.
-Frequently it is devoted to making the institution work in spite of the formal
-leadership structure, or alternatively to sabotaging the ostensible function
-of the institution, because it is none of their choosing. The other is that
-they would rather not be there anyway: they are there through economic
-necessity rather than through identification with a common task which throws
-up its own shifting and functional leadership. _
+> **have** authority. The first derives from your rank in some chain of
+> command, the second derives from special knowledge, and the third from
+> special wisdom. But knowledge and wisdom are not distributed in order of
+> rank, and they are no one person's monopoly in any undertaking. The
+> fantastic inefficiency of any hierarchical organisation -- any factory,
+> office, university, warehouse or hospital -- is the outcome of two almost
+> invariable characteristics. One is that the knowledge and wisdom of the
+> people at the bottom of the pyramid finds no place in the decision-making
+> leadership hierarchy of the institution. Frequently it is devoted to making
+> the institution work in spite of the formal leadership structure, or
+> alternatively to sabotaging the ostensible function of the institution,
+> because it is none of their choosing. The other is that they would rather
+> not be there anyway: they are there through economic necessity rather than
+> through identification with a common task which throws up its own shifting
+> and functional leadership. _
 
 > _"Perhaps the greatest crime of the industrial system is the way it
-systematically thwarts the investing genius of the majority of its workers."_
-[**Anarchy in Action**, p. 41]
+> systematically thwarts the investing genius of the majority of its
+> workers."_ [ **Anarchy in Action** , p. 41]
 
 Also, as workers also own their place of work, they have an interest in
 developing the skills and abilities of their members and, obviously, this also
@@ -1697,16 +1703,16 @@ energy. As Alfie Kohn notes (in relation to investigations of in-firm co-
 operation):
 
 > _"Dean Tjosvold . . . conducted [studies] at utility companies,
-manufacturing plants, engineering firms, and many other kinds of
-organisations. Over and over again, Tjosvold has found that 'co-operation
-makes a work force motivated' whereas 'serious competition undermines co-
-ordination' . . . Meanwhile, the management guru . . . T. Edwards Demming, has
-declared that the practice of having employees compete against each other is
-'unfair [and] destructive. We cannot afford this nonsense any longer . . . [We
-need to] work together on company problems [but] annual rating of performance,
-incentive pay, [or] bonuses cannot live with team work . . . What takes the
-joy out of learning . . . [or out of] anything? Trying to be number one.'"_
-[**No Contest**, p. 240]
+> manufacturing plants, engineering firms, and many other kinds of
+> organisations. Over and over again, Tjosvold has found that 'co-operation
+> makes a work force motivated' whereas 'serious competition undermines co-
+> ordination' . . . Meanwhile, the management guru . . . T. Edwards Demming,
+> has declared that the practice of having employees compete against each
+> other is 'unfair [and] destructive. We cannot afford this nonsense any
+> longer . . . [We need to] work together on company problems [but] annual
+> rating of performance, incentive pay, [or] bonuses cannot live with team
+> work . . . What takes the joy out of learning . . . [or out of] anything?
+> Trying to be number one.'"_ [ **No Contest** , p. 240]
 
 Thirdly, there are the benefits associated with increased equality. Studies
 prove that business performance deteriorates when pay differentials become
@@ -1714,20 +1720,20 @@ excessive. In a study of over 100 businesses (producing everything from
 kitchen appliances to truck axles), researchers found that the greater the
 wage gap between managers and workers, the lower their product's quality.
 [Douglas Cowherd and David Levine, _"Product Quality and Pay Equity,"_
-**Administrative Science Quarterly**, No. 37, pp. 302-30] Businesses with the
+**Administrative Science Quarterly** , No. 37, pp. 302-30] Businesses with the
 greatest inequality were plagued with a high employee turnover rate. Study
 author David Levine said: _"These organisations weren't able to sustain a
 workplace of people with shared goals."_ [quoted by John Byrne, _"How high can
-CEO pay go?"_ **Business Week**, April 22, 1996] The negative effects of
+CEO pay go?"_ **Business Week** , April 22, 1996] The negative effects of
 income inequality can also be seen on a national level as well. Economists
 Torsten Persson and Guido Tabellini conducted a thorough statistical analysis
 of historical inequality and growth, and found that nations with more equal
-incomes generally experience faster productive growth. [_"Is Inequality
-Harmful for Growth?"_, **American Economic Review** no. 84, pp. 600-21]
+incomes generally experience faster productive growth. [ _"Is Inequality
+Harmful for Growth?"_ , **American Economic Review** no. 84, pp. 600-21]
 Numerous other studies have also confirmed their findings (the negative
 impacts of inequality on all aspects of life are summarised by Richard
 Wilkinson and Kate Pickett in **The Spirit Level: Why More Equal Societies
-Almost Always Do Better**). Real life yet again disproves the assumptions of
+Almost Always Do Better** ). Real life yet again disproves the assumptions of
 capitalism: inequality harms us all, even the capitalist economy which
 produces it.
 
@@ -1752,7 +1758,7 @@ but are also predisposed to see top managers as being very much like
 themselves and so are entitled to comparable incomes (and let us not forget
 that _"corporate boards, largely selected by the CEO, hire compensation
 experts, almost always chosen by the CEO, to determine how much the CEO is
-worth."_ [Paul Krugman, **The Conscience of a Liberal**, p. 144]). In
+worth."_ [Paul Krugman, **The Conscience of a Liberal** , p. 144]). In
 contrast, the incomes of management in worker controlled firms have to be
 justified to a workforce whose members experience the relationship between
 management incomes and their own directly and who, no doubt, are predisposed
@@ -1781,7 +1787,7 @@ anarchists. We are _"convinced that the co-operative could, potentially,
 replace capitalism and carries within it the seeds of economic emancipation .
 . . The workers learn from this precious experience how to organise and
 themselves conduct the economy without guardian angels, the state or their
-former employers."_ [Bakunin, **Bakunin on Anarchism**, p. 399] Co-operatives
+former employers."_ [Bakunin, **Bakunin on Anarchism** , p. 399] Co-operatives
 give us a useful insight into the possibilities of a free, socialist, economy.
 Even within the hierarchical capitalist economy, co-operatives show us that a
 better future is possible and that production can be organised in a co-
@@ -1793,8 +1799,8 @@ favour with anarchists. As Bakunin pointed out, _"there are two kinds of co-
 operative: bourgeois co-operation, which tends to create a privileged class, a
 sort of new collective bourgeoisie organised into a stockholding society: and
 truly Socialist co-operation, the co-operation of the future which for this
-very reason is virtually impossible of realisation at present."_ [**Op.
-Cit.**, p. 385] In other words, while co-operatives are the germ of the
+very reason is virtually impossible of realisation at present."_ [ **Op.
+Cit.** , p. 385] In other words, while co-operatives are the germ of the
 future, in the present they are often limited by the capitalist environment
 they find themselves in, narrow their vision to just surviving within the
 current system and so adapt to it.
@@ -1811,7 +1817,7 @@ from a libertarian municipalist [or other anarchist] context and movement
 focused on achieving revolutionary municipalist goals as a **dual power**
 against corporations and the state, food [and other forms of] co-ops are
 little more than benign enterprises that capitalism and the state can easily
-tolerate with no fear of challenge."_ [**Democracy and Nature**, no. 9, p.
+tolerate with no fear of challenge."_ [ **Democracy and Nature** , no. 9, p.
 175]
 
 So while co-operatives are an important aspect of anarchist ideas and
@@ -1832,7 +1838,7 @@ superior, by market standards, to their more orthodox competitors"_ then
 _"there should be little difficulty in establishing successful factories of
 this sort."_ Thus there is _"a means of realising the worker-control scheme
 that can be brought about by the voluntary actions of people in a free [sic!]
-society."_ [**Anarchy, State, and Utopia**, pp. 250-2] So if such co-
+society."_ [ **Anarchy, State, and Utopia** , pp. 250-2] So if such co-
 operatives were really economically viable and desired by workers, they would
 spread until eventually they undermined capitalism. Propertarians conclude
 that since this is not happening, it must be because workers' self-management
@@ -1843,18 +1849,18 @@ David Schweickart has decisively answered this argument by showing that the
 reason there are not more producer co-operatives is structural:
 
 > _"A worker-managed firm lacks an expansionary dynamic. When a capitalist
-enterprise is successful, the owner can increase her profits by reproducing
-her organisation on a larger scale. She lacks neither the means nor the
-motivation to expand. Not so with a worker-managed firm. Even if the workers
-have the means, they lack the incentive, because enterprise growth would bring
-in new workers with whom the increased proceeds would have to be shared. Co-
-operatives, even when prosperous, do not spontaneously grow. But if this is
-so, then each new co-operative venture (in a capitalist society) requires a
-new wealthy radical or a new group of affluent radical workers willing to
-experiment. Because such people doubtless are in short supply, it follows that
-the absence of a large and growing co-operative movement proves nothing about
-the viability of worker self-management, nor about the preferences of
-workers."_ [**Against Capitalism**, p. 239]
+> enterprise is successful, the owner can increase her profits by reproducing
+> her organisation on a larger scale. She lacks neither the means nor the
+> motivation to expand. Not so with a worker-managed firm. Even if the workers
+> have the means, they lack the incentive, because enterprise growth would
+> bring in new workers with whom the increased proceeds would have to be
+> shared. Co-operatives, even when prosperous, do not spontaneously grow. But
+> if this is so, then each new co-operative venture (in a capitalist society)
+> requires a new wealthy radical or a new group of affluent radical workers
+> willing to experiment. Because such people doubtless are in short supply, it
+> follows that the absence of a large and growing co-operative movement proves
+> nothing about the viability of worker self-management, nor about the
+> preferences of workers."_ [ **Against Capitalism** , p. 239]
 
 This means that in, say, a mutualist economy there would be more firms of a
 smaller size supplying a given market compared to capitalism. So a free
@@ -1871,14 +1877,14 @@ summarises, support for _"the proposition that participatory and co-operative
 firms enjoy greater productivity and longevity comes from a large amount of .
 . . case study and econometric evidence"_ and _"the weight of testimony"_ is
 _"in favour or [indicates] a positive correlation between participation and
-productivity."_ [_"Organizational Form and Economic Evolution: A critique of
-the Williamsonian hypothesis"_, pp. 98-115, **Democracy and Efficiency in
-Economic Enterprises**, U. Pagano and R. E. Rowthorn (eds.), p. 100] This is
+productivity."_ [ _"Organizational Form and Economic Evolution: A critique of
+the Williamsonian hypothesis"_ , pp. 98-115, **Democracy and Efficiency in
+Economic Enterprises** , U. Pagano and R. E. Rowthorn (eds.), p. 100] This is
 ignored by the likes of Nozick in favour of thought-experiments rooted in the
 dubious assumptions of bourgeois economics. He implicitly assumed that because
 most firms are hierarchical today then they must be more efficient. In short,
 Nozick abused economic selection arguments by simply assuming, without
-evidence, that the dominant form of organisation is, _ipso facto_, more
+evidence, that the dominant form of organisation is, _ipso facto_ , more
 efficient. In reality, this is not the case.
 
 The question now becomes one of explaining why, if co-operation is more
@@ -1894,48 +1900,48 @@ simply because there are more of them rather than because they are more
 efficient. As such, large numbers do not imply greater efficiency as the
 _"rapid flow of new entrants of hierarchical form"_ may _"swamp the less
 hierarchical firms even if other selection processes are working in favour of
-the latter."_ [Hodgson, **Op. Cit.**, p. 100 and p. 103] Thus:
+the latter."_ [Hodgson, **Op. Cit.** , p. 100 and p. 103] Thus:
 
 > _"The degree of fitness of any organism can only be meaningfully considered
-in relation to its environment . . . the market may help to select firms that
-are fit for the market, but these surviving firms needn't be the most
-'efficient' in some absolute sense. In fact, the specification of 'the market'
-as a selection process is incomplete because the market is only one
-institution of many needed to specify an environment."_ [Michael J. Everett
-and Alanson P. Minkler, _"Evolution and organisational choice in nineteenth-
-century Britain"_, pp. 51-62, **Cambridge Journal of Economics** vol. 17, No.
-1, p. 53]
+> in relation to its environment . . . the market may help to select firms
+> that are fit for the market, but these surviving firms needn't be the most
+> 'efficient' in some absolute sense. In fact, the specification of 'the
+> market' as a selection process is incomplete because the market is only one
+> institution of many needed to specify an environment."_ [Michael J. Everett
+> and Alanson P. Minkler, _"Evolution and organisational choice in nineteenth-
+> century Britain"_ , pp. 51-62, **Cambridge Journal of Economics** vol. 17,
+> No. 1, p. 53]
 
 As an obvious example there are the difficulties co-operatives can face in
 finding access to credit facilities required by them from capitalist banks and
 investors. As Tom Cahill notes, co-operatives in the nineteenth century _"had
-the specific problem of . . . **giving credit**"_ while _"**competition with
+the specific problem of . . . **giving credit** "_ while _" **competition with
 price cutting capitalist** firms . . . highlighting the inadequate reservoirs
-of the under-financed co-ops."_ [_"Co-operatives and Anarchism: A contemporary
-Perspective"_, pp 235-58, **For Anarchism**, Paul Goodway (ed.), p. 239] This
-points to a general issue, namely that there are often difficulties for co-
-operatives in raising money:
+of the under-financed co-ops."_ [ _"Co-operatives and Anarchism: A
+contemporary Perspective"_ , pp 235-58, **For Anarchism** , Paul Goodway
+(ed.), p. 239] This points to a general issue, namely that there are often
+difficulties for co-operatives in raising money:
 
 > _"Co-operatives in a capitalist environment are likely to have more
-difficulty in raising capital. Quite apart from ideological hostility (which
-may be significant), external investors will be reluctant to put their money
-into concerns over which they will have little or no control -- which tends to
-be the case with a co-operative. Because co-operatives in a capitalist
-environment face special difficulties, and because they lack the inherent
-expansionary dynamic of a capitalist firm, it is hardy surprising that they
-are far from dominant."_ [Schweickart, **Op. Cit.**, p 240]
+> difficulty in raising capital. Quite apart from ideological hostility (which
+> may be significant), external investors will be reluctant to put their money
+> into concerns over which they will have little or no control -- which tends
+> to be the case with a co-operative. Because co-operatives in a capitalist
+> environment face special difficulties, and because they lack the inherent
+> expansionary dynamic of a capitalist firm, it is hardy surprising that they
+> are far from dominant."_ [Schweickart, **Op. Cit.** , p 240]
 
 In addition, the _"return on capital is limited"_ in co-operatives. [Tom
-Cahill, **Op. Cit.**, p. 247] This means that investors are less-likely to
+Cahill, **Op. Cit.** , p. 247] This means that investors are less-likely to
 invest in co-operatives, and so co-operatives will tend to suffer from a lack
 of investment. So despite _"the potential efficiency of such [self-managed]
-workplaces"_, capitalism _"may be systematically biased against participatory
+workplaces"_ , capitalism _"may be systematically biased against participatory
 workplaces"_ and as _"a result the economy can be trapped in a socially
 suboptimal position."_ Capital market issues, amongst others, help explain
 this as such firms _"face higher transaction costs for raising equity and
 loans."_ [David I. Levine and Laura D'Andrea Tyson, _"Participation,
-Productivity, and the Firm's Environment"_, pp. 183-237, **Paying for
-Productivity**, Alan S. Blinder (ed.), pp. 235-6 and p. 221]
+Productivity, and the Firm's Environment"_ , pp. 183-237, **Paying for
+Productivity** , Alan S. Blinder (ed.), pp. 235-6 and p. 221]
 
 Tom Cahill outlines the investment problem when he writes that the _"financial
 problem"_ is a major reason why co-operatives failed in the past, for
@@ -1945,8 +1951,8 @@ environment has been hostile to the emergence of the co-operative spirit."_ He
 also notes that they were _"unable to devise structuring to **maintain a
 boundary** between those who work and those who own or control . . . It is
 understood that when outside investors were allowed to have power within the
-co-op structure, co-ops lost their distinctive qualities."_ [**Op. Cit.**, pp.
-238-239] So even **if** co-operatives do attract investors, the cost of so
+co-op structure, co-ops lost their distinctive qualities."_ [ **Op. Cit.** ,
+pp. 238-239] So even **if** co-operatives do attract investors, the cost of so
 doing may be to transform the co-operatives into capitalist firms. So while
 all investors experience risk, this _"is even more acute"_ in co-operatives
 _"because investors must simultaneously cede control **and** risk their entire
@@ -1954,8 +1960,8 @@ wealth. Under an unlimited liability rule, investors will rationally demand
 some control over the firm's operations to protect their wealth. Since [co-
 operatives] cannot cede control without violating one of the organisation's
 defining tenets, investors will demand an investment premium, a premium not
-required from equity investments."_ [Everett and Minkler, **Op. Cit.**, p. 52]
-Needless to say, such a premium is a strain on a co-operative and makes it
+required from equity investments."_ [Everett and Minkler, **Op. Cit.** , p.
+52] Needless to say, such a premium is a strain on a co-operative and makes it
 harder to survive simply because it has higher costs for debt repayment. If
 such external investment is not forthcoming, then the co-operative is
 dependent on retained earnings and its members' savings which, unsurprisingly,
@@ -1965,7 +1971,7 @@ All of which suggests that Nozick's assertion that _"don't say that its
 against the class interest of investors to support the growth of some
 enterprise that if successful would end or diminish the investment system.
 Investors are not so altruistic. They act in personal and not their class
-interests"_ is false. [**Op. Cit.**, pp. 252-3] Nozick is correct, to a
+interests"_ is false. [ **Op. Cit.** , pp. 252-3] Nozick is correct, to a
 degree, but he forgets that class interest is a fusion of individual
 interests. Given a choice between returns from investments in capitalist firms
 because a management elite has similar interests in maximising unpaid labour
@@ -1993,12 +1999,12 @@ that in a capitalist environment, co-operatives are in constant danger of
 having their most skilled members hired away by capitalist firms who can, due
 to their resources, out-bid the co-operative. While this may result in
 exploitation of the worker, the capitalist firm has the resources to pay
-higher wages and so it makes sense for them to leave (_"As to the employer who
-pays an engineer twenty times more than a labourer, it is simply due to
+higher wages and so it makes sense for them to leave ( _"As to the employer
+who pays an engineer twenty times more than a labourer, it is simply due to
 personal interest; if the engineer can economise $4000 a year on the cost of
 production; the employer pays him $800 . . . He parts with an extra $40 when
 he expects to gain $400 by it; and this is the essence of the Capitalist
-system."_ [Kropotkin, **The Conquest of Bread**, p. 165]). However, in a co-
+system."_ [Kropotkin, **The Conquest of Bread** , p. 165]). However, in a co-
 operative system there would not be the inequalities of economic wealth
 (created by capitalist firms and finance structures) which allows such
 poaching to happen.
@@ -2007,8 +2013,8 @@ There are cultural issues as well. As Jon Elster points out, it is a _"truism,
 but an important one, that workers' preferences are to a large extent shaped
 by their economic environment. Specifically, there is a tendency to adaptive
 preference formation, by which the actual mode of economic organisation comes
-to be perceived as superior to all others."_ [_"From Here to There"_, pp.
-93-111, **Socialism**, Paul, Miller Jr., Paul, and Greenberg (eds.), p. 110]
+to be perceived as superior to all others."_ [ _"From Here to There"_ , pp.
+93-111, **Socialism** , Paul, Miller Jr., Paul, and Greenberg (eds.), p. 110]
 In other words, people view "what is" as given and feel no urge to change to
 "what could be." In the context of creating alternatives within capitalism,
 this can have serious effects on the spread of alternatives and indicates the
@@ -2046,20 +2052,20 @@ instruments were ill-suited to the establishment and continuation of worker
 co-operatives. The subsequent coevolution of firms and supporting institutions
 involved a path-dependent process where labour-managed firms were at a
 continual disadvantage, even after many of the earlier impediments were
-removed."_ [Hodgson, **Op. Cit.**, p. 103] _"Historically,"_ argue Everett and
-Minkler _"both company and co-operative law were incompatible with democratic
-decision-making by workers."_ The law ensured that the _"burden was more
-costly"_ to labour-managed firms and these _"obstacles led to an environment
-dominated by investor-controlled firms (capitalist firms) in which informal
-constraints (behaviours and routines) emerged to reinforce the existing
-institutions. A path-dependent process incorporating these informal
+removed."_ [Hodgson, **Op. Cit.** , p. 103] _"Historically,"_ argue Everett
+and Minkler _"both company and co-operative law were incompatible with
+democratic decision-making by workers."_ The law ensured that the _"burden was
+more costly"_ to labour-managed firms and these _"obstacles led to an
+environment dominated by investor-controlled firms (capitalist firms) in which
+informal constraints (behaviours and routines) emerged to reinforce the
+existing institutions. A path-dependent process incorporating these informal
 constraints continued to exclude [their] widespread formation."_ When the
 formal constraints which prevented the formation of co-operatives were finally
 removed, the _"informal constraints"_ produced as a result of these
 _"continued to prevent the widespread formation"_ of co-operatives. So the
 lack of co-operatives _"can thus be explained quite independently of any of
-the usual efficiency criteria."_ [**Op. Cit.**, p. 58 and p. 60] Nor should we
-forget that the early industrial system was influenced by the state,
+the usual efficiency criteria."_ [ **Op. Cit.** , p. 58 and p. 60] Nor should
+we forget that the early industrial system was influenced by the state,
 particularly by rewarding war related contracts to hierarchical firms modelled
 on the military and that the state rewarded contracts to run various state
 services and industries to capitalist firms rather than, as Proudhon urged, to
@@ -2067,22 +2073,22 @@ workers associations.
 
 However, _"there are several good reasons why more efficient firms need not
 always be selected in a competitive and 'evolutionary' process."_ [Hodgson,
-**Op. Cit.**, p. 99] So it is not efficiency as such which explains the
+**Op. Cit.** , p. 99] So it is not efficiency as such which explains the
 domination of capitalist firms for _"empirical studies suggest that co-
 operatives are at least as productive as their capitalist counterparts,"_ with
 many having _"an excellent record, superior to conventionally organised firms
-over a long period."_ [Jon Elster, **Op. Cit.**, p. 96] So all things being
+over a long period."_ [Jon Elster, **Op. Cit.** , p. 96] So all things being
 equal, co-operatives are more efficient than their capitalist counterparts --
 but when co-operatives compete in a capitalist economy, all things are **not**
 equal. As David Schweickart argues:
 
 > _"Even if worker-managed firms are preferred by the vast majority, and even
-if they are more productive, a market initially dominated by capitalist firms
-may not select for them. The common-sense neo-classical dictum that only those
-things that best accord with people's desires will survive the struggle of
-free competition has never been the whole truth with respect to anything; with
-respect to workplace organisation it is barely a half-truth."_ [**Op. Cit.**,
-p. 240]
+> if they are more productive, a market initially dominated by capitalist
+> firms may not select for them. The common-sense neo-classical dictum that
+> only those things that best accord with people's desires will survive the
+> struggle of free competition has never been the whole truth with respect to
+> anything; with respect to workplace organisation it is barely a half-
+> truth."_ [ **Op. Cit.** , p. 240]
 
 It is illuminating, though, to consider why Nozick ignored the substantial
 empirical evidence that participation **is** more efficient than hierarchy
@@ -2097,7 +2103,7 @@ they are inefficient miss the point. A key reason for this lack of co-
 operative firms, argues Hodgson, _"is that competitive selection depends on
 the economic context, and while the institutional context of a capitalist
 system may be more conducive for the capitalist firm, a different context may
-favour the co-operative firm."_ [**Economics and Utopia**, p. 288]
+favour the co-operative firm."_ [ **Economics and Utopia** , p. 288]
 
 As discussed in [section I.3.5](secI3.md#seci35), Proudhon was well aware
 that for mutualism to prosper and survive an appropriate institutional
@@ -2120,7 +2126,8 @@ may end up losing their identities as co-operatives by diluting ownership (and
 so re-introducing exploitation by having to pay non-workers interest) or by
 making the co-operative someone's boss (which creates _"a new class of workers
 who exploit and profit from the labour of their employees. And all this
-fosters a bourgeois mentality."_ [Bakunin, **Bakunin on Anarchism**, p. 399]).
+fosters a bourgeois mentality."_ [Bakunin, **Bakunin on Anarchism** , p.
+399]).
 
 Hence the pressures of working in a capitalist market may result in co-
 operatives pursuing activities which may result in short term gain or
@@ -2148,17 +2155,17 @@ can co-operatives be communalised into a network of solidarity and support
 that will reduce the problems of isolation and adaptation. Hence Bakunin:
 
 > _"We want co-operation too . . . But at the same time, we know that it
-prospers, developing itself fully and freely, embracing all human industry,
-only when it is based on equality, when all capital and every instrument of
-labour, including the soil, belong to the people by right of collective
-property . . . Once this is acknowledged we hardly oppose the creation of co-
-operative associations; we find them necessary in many respects . . . they
-accustom the workers to organise, pursue, and manage their interests
-themselves, without interference either by bourgeois capital or by bourgeois
-control . . . [they must be] founded on the principle of solidarity and
-collectivity rather than on bourgeois exclusivity, then society will pass from
-its present situation to one of equality and justice without too many great
-upheavals."_ [**The Basic Bakunin**, p. 153]
+> prospers, developing itself fully and freely, embracing all human industry,
+> only when it is based on equality, when all capital and every instrument of
+> labour, including the soil, belong to the people by right of collective
+> property . . . Once this is acknowledged we hardly oppose the creation of
+> co-operative associations; we find them necessary in many respects . . .
+> they accustom the workers to organise, pursue, and manage their interests
+> themselves, without interference either by bourgeois capital or by bourgeois
+> control . . . [they must be] founded on the principle of solidarity and
+> collectivity rather than on bourgeois exclusivity, then society will pass
+> from its present situation to one of equality and justice without too many
+> great upheavals."_ [ **The Basic Bakunin** , p. 153]
 
 Until then, co-operatives will exist within capitalism but not replace it by
 market forces -- only a **social** movement and collective action can fully
@@ -2170,10 +2177,11 @@ production and distribution of wealth."_ Because of this, most anarchists
 stress the need for more combative organisations such as industrial and
 community unions and other bodies _"formed,"_ to use Bakunin's words, _"for
 the organisation of toilers against the privileged world"_ in order to help
-bring about a free society. [**The Political Philosophy of Bakunin**, p. 385]
+bring about a free society. [ **The Political Philosophy of Bakunin** , p.
+385]
 
 Finally, we must note an irony with Nozick's argument, namely the notion that
-capitalism (his _"free society"_) allows a _"voluntary"_ path to economic
+capitalism (his _"free society"_ ) allows a _"voluntary"_ path to economic
 liberty. The irony is two-fold. First, the creation of capitalism was the
 result of state action (see [section F.8](secF8.md)). While working class
 people are expected to play by the rules decreed by capitalism, capitalists
@@ -2201,17 +2209,17 @@ individual owners pursuing profits will reorganise the productive process. If
 the productivity of workers **remains the same** . . . then in the process of
 competing for labourers firms will alter their internal work organisation."_
 This meant that _"individual owners pursuing profits . . . will reorganise the
-productive process."_ [**Anarchy, State, and Utopia**, p. 248] As this has not
-happened then self-management cannot be more efficient.
+productive process."_ [ **Anarchy, State, and Utopia** , p. 248] As this has
+not happened then self-management cannot be more efficient.
 
 While such a notion seems plausible in theory, in practice it is flawed as
 _"there is a vast quantity of empirical evidence demonstrating that
 participatory workplaces tend to be places of higher morale and greater
 productivity than authoritarian workplaces."_ [David Schweickart , **Against
-Capitalism**, p. 228] So Nozick's thought experiment is contradicted by
+Capitalism** , p. 228] So Nozick's thought experiment is contradicted by
 reality. Capitalism places innumerable barriers to the spread of worker
 empowering structures within production, in spite (perhaps, as we will see,
-**because**) of their (well-documented) higher efficiency and productivity.
+**because** ) of their (well-documented) higher efficiency and productivity.
 This can be seen from the fact that while the increased efficiency associated
 with workers' participation and self-management has attracted the attention of
 many capitalist firms, the few experiments conducted have failed to spread
@@ -2244,7 +2252,7 @@ workplace denies them, some have introduced various schemes to "enrich" and
 encourage workers to "participate" in their own exploitation by introducing
 _"a modicum of influence, a strictly limited area of decision-making power, a
 voice -- at best secondary -- in the control of conditions of the workplace."_
-[Sam Dolgoff, **The Anarchist Collectives**, p. 81] The management and owners
+[Sam Dolgoff, **The Anarchist Collectives** , p. 81] The management and owners
 still have the power and still reap unpaid labour from the productive activity
 of the workforce.
 
@@ -2252,37 +2260,38 @@ David Noble provides a good summary of the problems associated with
 experiments in workers' self-management within capitalist firms:
 
 > _"Participation in such programs can indeed be a liberating and exhilarating
-experience, awakening people to their own untapped potential and also to the
-real possibilities of collective worker control of production. As one manager
-described the former pilots [workers in a General Electric program]: 'These
-people will never be the same again. They have seen that things can be
-different.' But the excitement and enthusiasm engendered by such programs, as
-well as the heightened sense of commitment to a common purpose, can easily be
-used against the interests of the work force. First, that purpose is not
-really 'common' but is still determined by management alone, which continues
-to decide what will be produced, when, and where. Participation in production
-does not include participation in decisions on investment, which remains the
-prerogative of ownership. Thus participation is, in reality, just a variation
-of business as usual -- taking orders -- but one which encourages obedience in
-the name of co-operation._
+> experience, awakening people to their own untapped potential and also to the
+> real possibilities of collective worker control of production. As one
+> manager described the former pilots [workers in a General Electric program]:
+> 'These people will never be the same again. They have seen that things can
+> be different.' But the excitement and enthusiasm engendered by such
+> programs, as well as the heightened sense of commitment to a common purpose,
+> can easily be used against the interests of the work force. First, that
+> purpose is not really 'common' but is still determined by management alone,
+> which continues to decide what will be produced, when, and where.
+> Participation in production does not include participation in decisions on
+> investment, which remains the prerogative of ownership. Thus participation
+> is, in reality, just a variation of business as usual -- taking orders --
+> but one which encourages obedience in the name of co-operation._
 
 > _"Second, participation programs can contribute to the creation of an elite,
-and reduced, work force, with special privileges and more 'co-operative'
-attitudes toward management -- thus at once undermining the adversary stance
-of unions and reducing membership . . ._
+> and reduced, work force, with special privileges and more 'co-operative'
+> attitudes toward management -- thus at once undermining the adversary stance
+> of unions and reducing membership . . ._
 
 > _"Third, such programs enable management to learn from workers -- who are
-now encouraged by their co-operative spirit to share what they know -- and,
-then, in Taylorist tradition, to use this knowledge against the workers. As
-one former pilot reflected, 'They learned from the guys on the floor, got
-their knowledge about how to optimise the technology and then, once they had
-it, they eliminated the Pilot Program, put that knowledge into the machines,
-and got people without any knowledge to run them -- on the Company's terms and
-without adequate compensation. They kept all the gains for themselves.' . . ._
+> now encouraged by their co-operative spirit to share what they know -- and,
+> then, in Taylorist tradition, to use this knowledge against the workers. As
+> one former pilot reflected, 'They learned from the guys on the floor, got
+> their knowledge about how to optimise the technology and then, once they had
+> it, they eliminated the Pilot Program, put that knowledge into the machines,
+> and got people without any knowledge to run them -- on the Company's terms
+> and without adequate compensation. They kept all the gains for themselves.'
+> . . ._
 
 > _"Fourth, such programs could provide management with a way to circumvent
-union rules and grievance procedures or eliminate unions altogether."_
-[**Forces of Production**, pp. 318-9]
+> union rules and grievance procedures or eliminate unions altogether."_ [
+> **Forces of Production** , pp. 318-9]
 
 Capitalist introduced and supported "workers' control" is very like the
 situation when a worker receives stock in the company they work for. If it
@@ -2309,39 +2318,40 @@ entire literature which fails to demonstrate that satisfaction in work is
 enhanced or . . .productivity increases occur from a genuine increase in
 worker's decision-making power. Findings of such consistency . . . are rare in
 social research."_ [Paul B. Lumberg, quoted by Herbert Gintis, _"The nature of
-Labour Exchange and the Theory of Capitalist Production"_, **Radical Political
-Economy**, vol. 1, Samuel Bowles and Richard Edwards (eds.), p. 252] In spite
-of these findings, a _"shift toward participatory relationships is scarcely
-apparent in capitalist production"_ and this is _"not compatible with the neo-
-classical assertion as to the efficiency of the internal organisation of
-capitalist production."_ [Gintz, **Op. Cit.**, p. 252] Economist William
-Lazonick indicates the reason when he writes that _"[m]any attempts at job
-enrichment and job enlargement in the first half of the 1970s resulted in the
-supply of more and better effort by workers. Yet many 'successful' experiments
-were cut short when the workers whose work had been enriched and enlarged
-began questioning traditional management prerogatives inherent in the existing
-hierarchical structure of the enterprise."_ [**Competitive Advantage on the
-Shop Floor**, p. 282]
+Labour Exchange and the Theory of Capitalist Production"_ , **Radical
+Political Economy** , vol. 1, Samuel Bowles and Richard Edwards (eds.), p.
+252] In spite of these findings, a _"shift toward participatory relationships
+is scarcely apparent in capitalist production"_ and this is _"not compatible
+with the neo-classical assertion as to the efficiency of the internal
+organisation of capitalist production."_ [Gintz, **Op. Cit.** , p. 252]
+Economist William Lazonick indicates the reason when he writes that _"[m]any
+attempts at job enrichment and job enlargement in the first half of the 1970s
+resulted in the supply of more and better effort by workers. Yet many
+'successful' experiments were cut short when the workers whose work had been
+enriched and enlarged began questioning traditional management prerogatives
+inherent in the existing hierarchical structure of the enterprise."_ [
+**Competitive Advantage on the Shop Floor** , p. 282]
 
 This is an important result, as it indicates that the ruling sections within
 capitalist firms have a vested interest in **not** introducing such schemes,
 even though they are more efficient methods of production. As can easily be
 imagined, managers have a clear incentive to resist participatory schemes (as
 David Schweickart notes, such resistance, _"often bordering on sabotage, is
-well known and widely documented"_ [**Op. Cit.**, p. 229]). As an example of
+well known and widely documented"_ [ **Op. Cit.** , p. 229]). As an example of
 this David Noble discusses a scheme ran by General Electric in the late 1960s:
 
 > _"After considerable conflict, GE introduced a quality of work life program
-. . . which gave workers much more control over the machines and the
-production process and eliminated foremen. Before long, by all indicators, the
-program was succeeding -- machine use, output and product quality went up;
-scrap rate, machine downtime, worker absenteeism and turnover went down, and
-conflict on the floor dropped off considerably. Yet, little more than a year
-into the program -- following a union demand that it be extended throughout
-the shop and into other GE locations -- top management abolished the program
-out of fear of losing control over the workforce. Clearly, the company was
-willing to sacrifice gains in technical and economic efficiency in order to
-regain and insure management control."_ [**Progress Without People**, p. 65f]
+> . . . which gave workers much more control over the machines and the
+> production process and eliminated foremen. Before long, by all indicators,
+> the program was succeeding -- machine use, output and product quality went
+> up; scrap rate, machine downtime, worker absenteeism and turnover went down,
+> and conflict on the floor dropped off considerably. Yet, little more than a
+> year into the program -- following a union demand that it be extended
+> throughout the shop and into other GE locations -- top management abolished
+> the program out of fear of losing control over the workforce. Clearly, the
+> company was willing to sacrifice gains in technical and economic efficiency
+> in order to regain and insure management control."_ [ **Progress Without
+> People** , p. 65f]
 
 Simply put, managers and capitalists can see that workers' control experiments
 expose the awkward fact that they are not needed, that their role is not
@@ -2351,12 +2361,12 @@ most enjoy the power that comes with their position and have no desire to see
 it ended. This also places a large barrier in the way of workers' control.
 Interestingly, this same mentality explains why capitalists often support
 fascist regimes: _"The anarchist Luigi Fabbri termed fascism a **preventative
-counter-revolution**; but in his essay he makes the important point that the
+counter-revolution** ; but in his essay he makes the important point that the
 employers, particularly in agriculture, were not so much moved by fear of a
 general revolution as by the erosion of their own authority and property
 rights which had already taken place locally: ‘The bosses felt they were no
-longer bosses.'"_ [Adrian Lyttelton, _“Italian Fascism”_, pp. 81-114,
-**Fascism: a Reader's Guide**, p. 91]
+longer bosses.'"_ [Adrian Lyttelton, _“Italian Fascism”_ , pp. 81-114,
+**Fascism: a Reader's Guide** , p. 91]
 
 However, it could be claimed that owners of stock, being concerned by the
 bottom-line of profits, could **force** management to introduce participation.
@@ -2383,16 +2393,16 @@ productivity (and so may be toyed with), in the long run, it leads to
 difficulties for capitalists to maximise their profits:
 
 > _"given that profits depend on the integrity of the labour exchange, a
-strongly centralised structure of control not only serves the interests of the
-employer, but dictates a minute division of labour irrespective of
-considerations of productivity. For this reason, the evidence for the superior
-productivity of 'workers control' represents the most dramatic of anomalies to
-the neo-classical theory of the firm: worker control increases the effective
-amount of work elicited from each worker and improves the co-ordination of
-work activities, while increasing the solidarity and delegitimising the
-hierarchical structure of ultimate authority at its root; hence it threatens
-to increase the power of workers in the struggle over the share of total
-value."_ [Gintz, **Op. Cit.**, p. 264]
+> strongly centralised structure of control not only serves the interests of
+> the employer, but dictates a minute division of labour irrespective of
+> considerations of productivity. For this reason, the evidence for the
+> superior productivity of 'workers control' represents the most dramatic of
+> anomalies to the neo-classical theory of the firm: worker control increases
+> the effective amount of work elicited from each worker and improves the co-
+> ordination of work activities, while increasing the solidarity and
+> delegitimising the hierarchical structure of ultimate authority at its root;
+> hence it threatens to increase the power of workers in the struggle over the
+> share of total value."_ [Gintz, **Op. Cit.** , p. 264]
 
 A workplace which had extensive workers participation would hardly see the
 workers agreeing to reduce their skill levels, take a pay cut or increase
@@ -2433,42 +2443,42 @@ surplus as they see fit. Indeed, it can be argued that hierarchical control of
 production exists solely to provide for the accumulation of capital in a few
 hands, **not** for efficiency or productivity (see Stephan A. Margin, _"What
 do Bosses do? The Origins and Functions of Hierarchy in Capitalist
-Production"_, **Op. Cit.**, pp. 178-248).
+Production"_ , **Op. Cit.** , pp. 178-248).
 
 As David Noble argues, power is the key to understanding capitalism, **not**
 the drive for profits as such:
 
 > _"In opting for control [over the increased efficiency of workers' control]
-. . . management . . . knowingly and, it must be assumed, willingly,
-sacrificed profitable production. . . . [This] illustrates not only the
-ultimate management priority of power over both production and profit within
-the firm, but also the larger contradiction between the preservation of
-private power and prerogatives, on the one hand, and the social goals of
-efficient, quality, and useful production, on the other . . . _
+> . . . management . . . knowingly and, it must be assumed, willingly,
+> sacrificed profitable production. . . . [This] illustrates not only the
+> ultimate management priority of power over both production and profit within
+> the firm, but also the larger contradiction between the preservation of
+> private power and prerogatives, on the one hand, and the social goals of
+> efficient, quality, and useful production, on the other . . ._
 
 > _"It is a common confusion, especially on the part of those trained in or
-unduly influenced by formal economics (liberal and Marxist alike), that
-capitalism is a system of profit-motivated, efficient production. This is not
-true, nor has it ever been. If the drive to maximise profits, through private
-ownership and control over the process of production, has served historically
-as the primary means of capitalist development, it has never been the end of
-that development. The goal has always been domination (and the power and
-privileges that go with it) and the preservation of domination. There is
-little historical evidence to support the view that, in the final analysis,
-capitalists play by the rules of the economic game imagined by theorists.
-There is ample evidence to suggest, on the other hand, that when the goals of
-profit-making and efficient production fail to coincide with the requirements
-of continued dominance, capital will resort to more ancient means: legal,
-political, and, if need be, military. Always, behind all the careful
-accounting, lies the threat of force. This system of domination has been
-legitimated in the past by the ideological invention that private ownership of
-the means of production and the pursuit of profit via production are always
-ultimately beneficial to society. Capitalism delivers the goods, it is argued,
-better, more cheaply, and in larger quantity, and in so doing, fosters
-economic growth . . . The story of the Pilot Program -- and it is but one
-among thousands like it in U.S. industry -- raises troublesome questions about
-the adequacy of this mythology as a description of reality."_ [**Forces of
-Production**, pp. 321-2]
+> unduly influenced by formal economics (liberal and Marxist alike), that
+> capitalism is a system of profit-motivated, efficient production. This is
+> not true, nor has it ever been. If the drive to maximise profits, through
+> private ownership and control over the process of production, has served
+> historically as the primary means of capitalist development, it has never
+> been the end of that development. The goal has always been domination (and
+> the power and privileges that go with it) and the preservation of
+> domination. There is little historical evidence to support the view that, in
+> the final analysis, capitalists play by the rules of the economic game
+> imagined by theorists. There is ample evidence to suggest, on the other
+> hand, that when the goals of profit-making and efficient production fail to
+> coincide with the requirements of continued dominance, capital will resort
+> to more ancient means: legal, political, and, if need be, military. Always,
+> behind all the careful accounting, lies the threat of force. This system of
+> domination has been legitimated in the past by the ideological invention
+> that private ownership of the means of production and the pursuit of profit
+> via production are always ultimately beneficial to society. Capitalism
+> delivers the goods, it is argued, better, more cheaply, and in larger
+> quantity, and in so doing, fosters economic growth . . . The story of the
+> Pilot Program -- and it is but one among thousands like it in U.S. industry
+> -- raises troublesome questions about the adequacy of this mythology as a
+> description of reality."_ [ **Forces of Production** , pp. 321-2]
 
 Hierarchical organisation (domination) is essential to ensure that profits are
 controlled by a few and can, therefore, be allocated by them in such a way to
@@ -2493,7 +2503,7 @@ egalitarian workplace would produce an egalitarian distribution of surplus, in
 other words (as proven by the experience of workers' co-operatives). In the
 words of one participant of the GE workers' control project: _"If we're all
 one, for manufacturing reasons, we must share in the fruits equitably, just
-like a co-op business."_ [quoted by Noble, **Op. Cit.**, p. 295] Such a
+like a co-op business."_ [quoted by Noble, **Op. Cit.** , p. 295] Such a
 possibility is one few owners would agree to.
 
 Thirdly, to survive within the "free" market means to concentrate on the short
@@ -2529,7 +2539,7 @@ entails a level of working class consciousness and power that is incompatible
 with capitalist control: _"If the hierarchical division of labour is necessary
 for the extraction of surplus value, then worker preferences for jobs
 threatening capitalist control will not be implemented."_ [Gintis, **Op.
-Cit.**, p. 253] The reason why it is more efficient, ironically, ensures that
+Cit.** , p. 253] The reason why it is more efficient, ironically, ensures that
 a capitalist economy will not select it. The "free market" will discourage
 empowerment and democratic workplaces, at best reducing "co-operation" and
 "participation" to marginal issues (and management will still have the power
@@ -2544,7 +2554,7 @@ long as this reduction is never achieved . . . [for] the system would soon
 grind to a halt . . . [However] capitalism constantly has to **limit** this
 **participation** (if it didn't the workers would soon start deciding
 themselves and would show in practice how superfluous the ruling class really
-is)."_ [**Modern Capitalism and Revolution**, pp. 45-46] Thus "workers'
+is)."_ [ **Modern Capitalism and Revolution** , pp. 45-46] Thus "workers'
 control" within a capitalist firm is a contradictory thing -- too little power
 and it is meaningless, too much and workplace authority structures and
 capitalist share of, and control over, value added can be harmed. Attempts to
@@ -2564,7 +2574,7 @@ _"access to inexpensive long-term finance, the sine qua non of innovating
 investment strategies"_ along with a host of other supports, such as
 protecting Japanese industry within their home markets so they could _"develop
 and utilise their productive resources to the point where they could attain
-competitive advantage in international competition."_ [**Op. Cit.**, p. 305]
+competitive advantage in international competition."_ [ **Op. Cit.** , p. 305]
 The German state provides its industry with much of the same support.
 
 Therefore, "participation" within capitalist firms will have little or no
@@ -2588,11 +2598,11 @@ somewhat liberatory and more efficient, market forces will not select them
 precisely **because** the latter is dependent on the former. Thirdly, they
 would still be organised for exploitation as workers would not be controlling
 all the goods they produced. As with an existing capitalist firm, part of
-their product would be used to pay interest, rent and profit. For anarchists _
-"self-management is not a new form of mediation between workers and their
+their product would be used to pay interest, rent and profit. For anarchists
+_"self-management is not a new form of mediation between workers and their
 bosses . . . [it] refers to the very process by which the workers themselves
 **overthrow** their managers and take on their own management and the
-management of production in their own workplace."_ [Dolgoff, **Op. Cit.**, p.
+management of production in their own workplace."_ [Dolgoff, **Op. Cit.** , p.
 81] Hence our support for co-operatives, unions and other self-managed
 structures created and organised from below by and for working class people by
 their own collective action.
@@ -2611,7 +2621,7 @@ modern activists like Colin Ward, have stressed the importance of libertarian
 encouraging critical thought and mental freedom. The aim of such education is
 ensure that the _"industrial worker, the man [sic!] of action and the
 intellectual would all be rolled into one."_ [Proudhon, quoted by Steward
-Edward, **The Paris Commune**, p. 274]
+Edward, **The Paris Commune** , p. 274]
 
 Anyone involved in radical politics, constantly and consistently challenges
 the role of the state's institutions and their representatives within our
@@ -2633,7 +2643,7 @@ account of its obvious alliance with national government . . . Government will
 not fail to employ it to strengthen its hand and perpetuate its institutions .
 . . Their views as instigator of a system will not fail to be analogous to
 their views in their political capacity."_ [quoted by Colin Ward, **Anarchy in
-Action**, p. 81]
+Action** , p. 81]
 
 With the growth of industrialism in the 19th century state schools triumphed,
 not through a desire to reform but as an economic necessity. Industry did not
@@ -2647,8 +2657,8 @@ school could be used to break the labouring classes into those habits of work
 discipline now necessary for factory production . . . Putting little children
 to work at school for very long hours at very dull subjects was seen as a
 positive virtue, for it made them habituated, not to say naturalised, to
-labour and fatigue."_ [quoted by Juliet B. Schor, **The Overworked American**,
-p. 61]
+labour and fatigue."_ [quoted by Juliet B. Schor, **The Overworked American**
+, p. 61]
 
 Thus supporters of Modern Schools recognise that the role of education is an
 important one in maintaining hierarchical society -- for government and other
@@ -2657,10 +2667,10 @@ the governed. Francisco Ferrer (the most famous libertarian educator) argued
 that:
 
 > _"Rulers have always taken care to control the education of the people. They
-know their power is based almost entirely on the school and they insist on
-retaining their monopoly. The school is an instrument of domination in the
-hands of the ruling class."_ [quoted by Clifford Harper, **Anarchy: A Graphic
-Guide**, p. 100]
+> know their power is based almost entirely on the school and they insist on
+> retaining their monopoly. The school is an instrument of domination in the
+> hands of the ruling class."_ [quoted by Clifford Harper, **Anarchy: A
+> Graphic Guide** , p. 100]
 
 Little wonder, then, that Emma Goldman argued that _"modern methods of
 education"_ have _"little regard for personal liberty and originality of
@@ -2674,15 +2684,15 @@ for that society -- the education system. Instead of hierarchical education,
 Modern schools exist to _"develop the individual through knowledge and the
 free play of characteristic traits, so that [the child] may become a social
 being, because he had learned to know himself, to know his relation to his
-fellow[s]."_ [**Red Emma Speaks**, pp. 141-2, p. 140 and p. 145] It would be
+fellow[s]."_ [ **Red Emma Speaks** , pp. 141-2, p. 140 and p. 145] It would be
 an education for freedom, not for subservience:
 
 > _"Should the notion of freedom but awaken in man, free men dream only of
-freeing themselves now and for all time: but instead, all we do is churn out
-learned men who adapt in the most refined manner to every circumstance and
-fall to the level of slavish, submissive souls. For the most part, what are
-our fine gentlemen brimful of intellect and culture? Sneering slavers and
-slaves themselves."_ [Max Stirner, **No Gods, No Masters**, vol. 1, p. 12]
+> freeing themselves now and for all time: but instead, all we do is churn out
+> learned men who adapt in the most refined manner to every circumstance and
+> fall to the level of slavish, submissive souls. For the most part, what are
+> our fine gentlemen brimful of intellect and culture? Sneering slavers and
+> slaves themselves."_ [Max Stirner, **No Gods, No Masters** , vol. 1, p. 12]
 
 The Modern School Movement (also known as the Free School Movement) over the
 past century has been an attempt to represent part of this concern about the
@@ -2695,13 +2705,13 @@ rationalised world. An oasis from authoritarian control and as a means of
 passing on the knowledge to be free:
 
 > _"The underlying principle of the Modern School is this: education is a
-process of drawing out, not driving in; it aims at the possibility that the
-child should be left free to develop spontaneously, directing his own efforts
-and choosing the branches of knowledge which he desires to study . . . the
-teacher . . . should be a sensitive instrument responding to the needs of the
-child . . . a channel through which the child may attain so much of the
-ordered knowledge of the world as he shows himself ready to receive and
-assimilate."_ [Goldman, **Op. Cit.**, p. 146]
+> process of drawing out, not driving in; it aims at the possibility that the
+> child should be left free to develop spontaneously, directing his own
+> efforts and choosing the branches of knowledge which he desires to study . .
+> . the teacher . . . should be a sensitive instrument responding to the needs
+> of the child . . . a channel through which the child may attain so much of
+> the ordered knowledge of the world as he shows himself ready to receive and
+> assimilate."_ [Goldman, **Op. Cit.** , p. 146]
 
 The Modern School bases itself on libertarian education techniques.
 Libertarian education, very broadly, seeks to produce children who will demand
@@ -2709,23 +2719,23 @@ greater personal control and choice, who think for themselves and question all
 forms of authority:
 
 > _"We don't hesitate to say we want people who will continue to develop.
-People constantly capable of destroying and renewing their surroundings and
-themselves: whose intellectual independence is their supreme power, which they
-will yield to none; always disposed for better things, eager for the triumph
-of new ideas, anxious to crowd many lives into the life they have. It must be
-the aim of the school to show the children that there will be tyranny as long
-as one person depends on another."_ [Ferrer, quoted by Harper, **Op. Cit.**,
-p. 100]
+> People constantly capable of destroying and renewing their surroundings and
+> themselves: whose intellectual independence is their supreme power, which
+> they will yield to none; always disposed for better things, eager for the
+> triumph of new ideas, anxious to crowd many lives into the life they have.
+> It must be the aim of the school to show the children that there will be
+> tyranny as long as one person depends on another."_ [Ferrer, quoted by
+> Harper, **Op. Cit.** , p. 100]
 
 Thus the Modern School insists that the child is the centre of gravity in the
 education process -- and that education is just that, **not** indoctrination:
 
 > _"I want to form a school of emancipation, concerned with banning from the
-mind whatever divides people, the false concepts of property, country and
-family so as to attain the liberty and well-being which all desire. I will
-teach only simple truth. I will not ram dogma into their heads. I will not
-conceal one iota of fact. I will teach not what to think but how to think."_
-[Ferrer, quoted by Harper, **Op. Cit.**, pp. 99-100]
+> mind whatever divides people, the false concepts of property, country and
+> family so as to attain the liberty and well-being which all desire. I will
+> teach only simple truth. I will not ram dogma into their heads. I will not
+> conceal one iota of fact. I will teach not what to think but how to think."_
+> [Ferrer, quoted by Harper, **Op. Cit.** , pp. 99-100]
 
 The Modern School has no rewards or punishments, exams or mark -- the everyday
 tortures of conventional schooling. And because practical knowledge is more
@@ -2734,9 +2744,9 @@ countryside. The school was also used by parents, and Ferrer planned a Popular
 University.
 
 > _"Higher education, for the privileged few, should be for the general
-public, as every human has a right to know; and science, which is produced by
-observers and workers of all countries and ages, ought not be restricted to
-class."_ [Ferrer, quoted by Harper, **Op. Cit.**, p. 100]
+> public, as every human has a right to know; and science, which is produced
+> by observers and workers of all countries and ages, ought not be restricted
+> to class."_ [Ferrer, quoted by Harper, **Op. Cit.** , p. 100]
 
 Thus Modern Schools are based on encouraging self-education in a co-operative,
 egalitarian and libertarian atmosphere in which the pupil (regardless of age)
@@ -2761,17 +2771,17 @@ However, for most anarchists, Modern Schools are not enough in themselves to
 produce a libertarian society. They agree with Bakunin:
 
 > _"For individuals to be moralised and become fully human . . . three things
-are necessary: a hygienic birth, all-round education, accompanied by an
-upbringing based on respect for labour, reason, equality, and freedom and a
-social environment wherein each human individual will enjoy full freedom and
-really by, **de jure** and **de facto**, the equal of every other._
+> are necessary: a hygienic birth, all-round education, accompanied by an
+> upbringing based on respect for labour, reason, equality, and freedom and a
+> social environment wherein each human individual will enjoy full freedom and
+> really by, **de jure** and **de facto** , the equal of every other._
 
 > _"Does this environment exist? No. Then it must be established. . .
-[otherwise] in the existing social environment . . . on leaving [libertarian]
-schools they [the student] would enter a society governed by totally opposite
-principles, and, because society is always stronger than individuals, it would
-prevail over them . . . [and] demoralise them."_ [**The Basic Bakunin**, p,
-174]
+> [otherwise] in the existing social environment . . . on leaving
+> [libertarian] schools they [the student] would enter a society governed by
+> totally opposite principles, and, because society is always stronger than
+> individuals, it would prevail over them . . . [and] demoralise them."_ [
+> **The Basic Bakunin** , p, 174]
 
 Because of this, Modern Schools must be part of a mass working class
 revolutionary movement which aims to build as many aspects of the new world as
@@ -2782,7 +2792,7 @@ not in place of it and so _"the workers [must] do everything possible to
 obtain all the education they can in the material circumstances in which they
 currently find themselves . . . [while] concentrat[ing] their efforts on the
 great question of their economic emancipation, the mother of all other
-emancipations."_ [Bakunin, **Op. Cit.**, p. 175]
+emancipations."_ [Bakunin, **Op. Cit.** , p. 175]
 
 Before finishing, we must stress that hierarchical education (like the media),
 cannot remove the effects of actual life and activity in shaping/changing
@@ -2793,19 +2803,19 @@ learning from their experiences, trusting their sense of right and wrong,
 recognising the injustices of the current system and the ideas that it is
 based upon. This means that even the best state (or private) education system
 will still produce rebels -- for the **experience** of wage slavery and state
-oppression (and, most importantly, **struggle**) is shattering to the
+oppression (and, most importantly, **struggle** ) is shattering to the
 **ideology** spoon-fed children during their "education" and reinforced by the
 media.
 
 For more information on Modern Schools see Paul Avrich's **The Modern School
-Movement: Anarchism and education in the United States**, Emma Goldman's
+Movement: Anarchism and education in the United States** , Emma Goldman's
 essays _"Francisco Ferrer and the Modern School"_ (in **Anarchism and Other
-Essays**) and _"The Social Importance of the Modern School"_ (in **Red Emma
-Speaks**) as well as A.S Neil's **Summerhill**. For a good introduction to
+Essays** ) and _"The Social Importance of the Modern School"_ (in **Red Emma
+Speaks** ) as well as A.S Neil's **Summerhill**. For a good introduction to
 anarchist viewpoints on education see _"Kropotkin and technical education: an
-anarchist voice"_ by Michael Smith (in **For Anarchism**, David Goodway
+anarchist voice"_ by Michael Smith (in **For Anarchism** , David Goodway
 (ed.),) and Michael Bakunin's _"All-Round Education"_ (in **The Basic
-Bakunin**). For an excellent summary of the advantages and benefits of co-
+Bakunin** ). For an excellent summary of the advantages and benefits of co-
 operative learning, see Alfie Kohn's **No Contest**.
 
 ## J.5.14 What is Libertarian Municipalism?
@@ -2814,8 +2824,8 @@ As we noted in [section J.2](secJ2.md), most anarchists reject participating
 in electoral politics. A notable exception was Murray Bookchin who not only
 proposed voting but also a non-parliamentary electoral strategy for
 anarchists. He repeated this proposal in many of his later works, such as
-**From Urbanisation to Cities**, and has made it -- at least in the USA -- one
-of the many alternatives anarchists are involved in.
+**From Urbanisation to Cities** , and has made it -- at least in the USA --
+one of the many alternatives anarchists are involved in.
 
 According to Bookchin, _"the proletariat, as do all oppressed sectors of
 society, comes to life when it sheds its industrial habits in the free and
@@ -2829,7 +2839,7 @@ stateless, collectively managed, and directly democratic communities -- of
 confederated municipalities or 'communes' -- speaks almost intuitively, and in
 the best works of Proudhon and Kropotkin, consciously, to the transforming
 role of libertarian municipalism as the framework of a liberatory society."_
-_"Theses on Libertarian Municipalism"_, pp. 9-22, **The Anarchist Papers**,
+_"Theses on Libertarian Municipalism"_ , pp. 9-22, **The Anarchist Papers** ,
 Dimitrios I. Roussopoulos (ed.),p. 10] He also pointed out that, historically,
 the city has been the principle countervailing force to imperial and national
 states, haunting them as a potential challenge to centralised power and
@@ -2851,7 +2861,7 @@ still possible, provided anarchists get our act together: _"The Commune still
 lies buried in the city council; the sections still lie buried in the
 neighbourhood; the town meeting still lies buried in the township; confederal
 forms of municipal association still lie buried in regional networks of towns
-and cities."_ [**Op. Cit.**, p. 16 and p. 21]
+and cities."_ [ **Op. Cit.** , p. 16 and p. 21]
 
 What would anarchists do electorally at the local level? Bookchin proposed
 that libertarians stand in local elections in order to change city and town
@@ -2861,7 +2871,7 @@ anarchists to alter city and town charters such that they validate the
 existence of directly democratic institutions. And if this kind of activity
 brings anarchists into city councils, there is no reason why such a politics
 should be construed as parliamentary, particularly if it is confined to the
-civic level and is consciously posed against the state."_ [**Op. Cit.**, p.
+civic level and is consciously posed against the state."_ [ **Op. Cit.** , p.
 21]
 
 In short, Libertarian Municipalism _"depends upon libertarian leftists running
@@ -2870,7 +2880,7 @@ wards, where popular assemblies can be created that bring people into full and
 direct participation in political life . . . municipalities would [then]
 confederate into a dual power to oppose the nation-state and ultimately
 dispense with it and with the economic forces that underpin statism as such."_
-[**Democracy and Nature** no. 9, p. 158] This would be part of a social wide
+[ **Democracy and Nature** no. 9, p. 158] This would be part of a social wide
 transformation, whose _"[m]inimal steps . . . include initiating Left Green
 municipalist movements that propose neighbourhood and town assemblies -- even
 if they have only moral functions at first -- and electing town and city
@@ -2883,7 +2893,7 @@ process by which the state can be undermined by using elections as the means
 of creating popular assemblies. Part of this would be the _"municipalisation
 of property"_ which would _"bring the economy **as a whole** into the orbit of
 the public sphere, where economic policy could be formulated by the **entire**
-community."_ [**From Urbanisation to Cities**, p. 266 and p. 235]
+community."_ [ **From Urbanisation to Cities** , p. 266 and p. 235]
 
 In evaluating Bookchin's proposal, several points come to mind.
 
@@ -2910,7 +2920,7 @@ anarchists reject the idea of a _"confederal municipalist movement run[ning]
 candidates for municipal councils with demands for the institution of public
 assemblies"_ as viable means of _"struggle toward creating new civic
 institutions out of old ones (or replacing the old ones altogether)."_
-[Bookchin, **Op. Cit.**, p. 229 and p. 267]
+[Bookchin, **Op. Cit.** , p. 229 and p. 267]
 
 The most serious objection to this has to do with whether politics in most
 cities has already become too centralised, bureaucratic, inhumanly scaled, and
@@ -2950,8 +2960,8 @@ these institutions is wrong. As Italian activists who organised a
 neighbourhood assembly by non-electoral means argue _"[t]o accept power and to
 say that the others were acting in bad faith and that we would be better,
 would **force** non-anarchists towards direct democracy. We reject this logic
-and believe that organisations must come from the grassroots."_ [_"Community
-Organising in Southern Italy"_, pp. 16-19, **Black Flag** no. 210, p. 18]
+and believe that organisations must come from the grassroots."_ [ _"Community
+Organising in Southern Italy"_ , pp. 16-19, **Black Flag** no. 210, p. 18]
 
 Thus Libertarian Municipalism reverses the process by which community
 assemblies will be created. Instead of anarchists using elections to build
@@ -2965,13 +2975,13 @@ collective self-activity. As Kropotkin argued, _"Laws can only **follow** the
 accomplished facts; and even if they do honestly follow them -- which is
 usually **not** the case -- a law remains a dead letter so long as there are
 not on the spot the living forces required for making the **tendencies**
-expressed in the law an accomplished **fact**."_ [**Anarchism**, p. 171] Most
-anarchists, therefore, think it is far more important to create the _"living
-forces"_ within our communities directly than waste energy in electioneering
-and the passing of laws creating or "legalising" community assemblies. In
-other words, community assemblies can only be created from the bottom up, by
-non-electoral means, a process which Libertarian Municipalism confuses with
-electioneering.
+expressed in the law an accomplished **fact**."_ [ **Anarchism** , p. 171]
+Most anarchists, therefore, think it is far more important to create the
+_"living forces"_ within our communities directly than waste energy in
+electioneering and the passing of laws creating or "legalising" community
+assemblies. In other words, community assemblies can only be created from the
+bottom up, by non-electoral means, a process which Libertarian Municipalism
+confuses with electioneering.
 
 So, while Libertarian Municipalism **does** raise many important issues and
 correctly stresses the importance of community activity and self-management,
@@ -3018,8 +3028,8 @@ rates, which had risen steadily from the 1940s through the mid-1970s, markedly
 increased. 'Over the last three decades, the rate of poverty among children
 almost perfectly correlates with the birth-rates among teenage mothers a
 decade later,' Mike Males points out: 'That is, child poverty seems to lead to
-teenage childbearing, not the other way around.'"_ [_"Rollback III"_, **Z
-Magazine**, April, 1995] The same charge of inaccurate scare-mongering can be
+teenage childbearing, not the other way around.'"_ [ _"Rollback III"_ , **Z
+Magazine** , April, 1995] The same charge of inaccurate scare-mongering can be
 laid at the claims about the evil effects of welfare which the rich and large
 corporations wish to save others (but not themselves) from. Such altruism is
 truly heart warming. For those in the United States or familiar with it, the
@@ -3052,11 +3062,11 @@ educated and healthy population required to use advanced technology and fight
 wars. Thus we find that:
 
 > _"Liberal social welfare legislation . . . were seen by many [British
-syndicalists] not as genuine welfare reforms, but as mechanisms of social
-control. Syndicalists took a leading part in resisting such legislation on the
-grounds that it would increase capitalist discipline over labour, thereby
-undermining working class independence and self-reliance."_ [Bob Holton,
-**British Syndicalism: 1900-1914**, p. 137]
+> syndicalists] not as genuine welfare reforms, but as mechanisms of social
+> control. Syndicalists took a leading part in resisting such legislation on
+> the grounds that it would increase capitalist discipline over labour,
+> thereby undermining working class independence and self-reliance."_ [Bob
+> Holton, **British Syndicalism: 1900-1914** , p. 137]
 
 Anarchists view the welfare state much as some feminists do. While they note,
 to quote Carole Pateman, the _"patriarchal structure of the welfare state"_
@@ -3066,8 +3076,8 @@ to note that _"for women to look at the welfare state is merely to exchange
 dependence on individual men for dependence on the state. The power and
 capriciousness of husbands is replaced by the arbitrariness, bureaucracy and
 power of the state, the very state that has upheld patriarchal power."_ This
-_"will not in itself do anything to challenge patriarchal power relations."_
-[**The Disorder of Women**, p. 195 and p. 200]
+_"will not in itself do anything to challenge patriarchal power relations."_ [
+**The Disorder of Women** , p. 195 and p. 200]
 
 Thus while the welfare state does give working people more options than having
 to take **any** job or put up with **any** conditions, this relative
@@ -3086,13 +3096,13 @@ and desire their replacement by self-managed alternatives. For example, taking
 municipal housing, Colin Ward writes:
 
 > _"The municipal tenant is trapped in a syndrome of dependence and
-resentment, which is an accurate reflection of his housing situation. People
-care about what is theirs, what they can modify, alter, adapt to changing
-needs and improve themselves. They must have a direct responsibility for it .
-. . The tenant take-over of the municipal estate is one of those obviously
-sensible ideas which is dormant because our approach to municipal affairs is
-still stuck in the groves of nineteenth-century paternalism."_ [**Anarchy in
-Action**, p. 73]
+> resentment, which is an accurate reflection of his housing situation. People
+> care about what is theirs, what they can modify, alter, adapt to changing
+> needs and improve themselves. They must have a direct responsibility for it
+> . . . The tenant take-over of the municipal estate is one of those obviously
+> sensible ideas which is dormant because our approach to municipal affairs is
+> still stuck in the groves of nineteenth-century paternalism."_ [ **Anarchy
+> in Action** , p. 73]
 
 Looking at state supported education, Ward argues that the _"universal
 education system turns out to be yet another way in which the poor subsidise
@@ -3100,21 +3110,21 @@ the rich."_ Which is the least of its problems, for _"it is in the **nature**
 of public authorities to run coercive and hierarchical institutions whose
 ultimate function is to perpetuate social inequality and to brainwash the
 young into the acceptance of their particular slot in the organised system."_
-[**Op. Cit.**, p. 83 and p. 81] The role of state education as a means of
+[ **Op. Cit.** , p. 83 and p. 81] The role of state education as a means of
 systematically indoctrinating the working class is reflected in William
 Lazonick's words:
 
 > _"The Education Act of 1870 . . . [gave the] state . . . the facilities . .
-. to make education compulsory for all children from the age of five to the
-age of ten. It had also erected a powerful system of ideological control over
-the next generation of workers . . . [It] was to function as a prime
-ideological mechanism in the attempt by the capitalist class through the
-medium of the state, to continually **reproduce** a labour force which would
-passively accept [the] subjection [of labour to the domination of capital]. At
-the same time it had set up a public institution which could potentially be
-used by the working class for just the contrary purpose."_ [_"The Subjection
-of Labour to Capital: The rise of the Capitalist System"_, **Radical Political
-Economy** Vol. 2, p. 363]
+> . to make education compulsory for all children from the age of five to the
+> age of ten. It had also erected a powerful system of ideological control
+> over the next generation of workers . . . [It] was to function as a prime
+> ideological mechanism in the attempt by the capitalist class through the
+> medium of the state, to continually **reproduce** a labour force which would
+> passively accept [the] subjection [of labour to the domination of capital].
+> At the same time it had set up a public institution which could potentially
+> be used by the working class for just the contrary purpose."_ [ _"The
+> Subjection of Labour to Capital: The rise of the Capitalist System"_ ,
+> **Radical Political Economy** Vol. 2, p. 363]
 
 Lazonick, as did Pateman, indicates the contradictory nature of welfare
 provisions within capitalism. On the one hand, they are introduced to help
@@ -3125,17 +3135,17 @@ starve" (the fact that the attacks on welfare in the UK during the 1990s --
 called, ironically enough, **welfare to work** \-- involves losing benefits if
 you refuse a job is not a surprising development). Thus we find that welfare
 acts as a kind of floor under wages. In the US, the two have followed a common
-trajectory (rising together and falling together). And it is **this**, the
+trajectory (rising together and falling together). And it is **this** , the
 potential benefits welfare can have for working people, that is the **real**
 cause for the current capitalist attacks upon it. As Noam Chomsky summarises:
 
 > _"State authority is now under severe attack in the more democratic
-societies, but not because it conflicts with the libertarian vision. Rather
-the opposite: because it offers (weak) protection to some aspects of that
-vision. Governments have a fatal flaw: unlike the private tyrannies, the
-institutions of state power and authority offer to the public an opportunity
-to play some role, however limited, in managing their own affairs."_
-[**Chomsky on Anarchism**, p. 193]
+> societies, but not because it conflicts with the libertarian vision. Rather
+> the opposite: because it offers (weak) protection to some aspects of that
+> vision. Governments have a fatal flaw: unlike the private tyrannies, the
+> institutions of state power and authority offer to the public an opportunity
+> to play some role, however limited, in managing their own affairs."_ [
+> **Chomsky on Anarchism** , p. 193]
 
 Because of this contradictory nature of welfare, we find anarchists like Noam
 Chomsky arguing that (using an expression popularised by South American rural
@@ -3148,8 +3158,8 @@ predators from outside, like private power. And you have to expand the floor
 of the cage, recognising that it's a cage. These are all preliminaries to
 dismantling it. Unless people are willing to tolerate that level of
 complexity, they're going to be of no use to people who are suffering and who
-need help, or, for that matter, to themselves."_ [**Expanding the Floor of the
-Cage**]
+need help, or, for that matter, to themselves."_ [ **Expanding the Floor of
+the Cage** ]
 
 Thus, even though we know the welfare state is a cage and part of an
 instrument of class power, we have to defend it from a worse possibility --
@@ -3170,7 +3180,7 @@ against _"continuous rent increases"_ leading to _"the demand . . . for a
 change in the status of the tenant."_ Such a _"tenant take-over of the
 municipal estate is one of those sensible ideas which is dormant because our
 approach to municipal affairs is still stuck in the grooves of nineteenth
-century paternalism."_ [Ward, **Op. Cit.**, p. 73]
+century paternalism."_ [Ward, **Op. Cit.** , p. 73]
 
 And it is here that we find the ultimate irony of the right-wing, "free
 market" attempts to abolish the welfare state -- neo-liberalism wants to end
@@ -3189,11 +3199,11 @@ system, for instance, from local needs into a national organisation, by
 agreement and consent at all levels is surely more economical as well as
 efficient than one which is conceived at top level [by the state] . . . where
 Treasury, political and other pressures, not necessarily connected with what
-we would describe as **needs**, influence the shaping of policies."_ So _"as
+we would describe as **needs** , influence the shaping of policies."_ So _"as
 long as we have capitalism and government the job of anarchists is to fight
 both, and at the same time encourage people to take what steps they can to run
-their own lives."_ [_"Anarchists and Voting"_, pp. 176-87, **The Raven**, No.
-14, p. 179]
+their own lives."_ [ _"Anarchists and Voting"_ , pp. 176-87, **The Raven** ,
+No. 14, p. 179]
 
 Ultimately, unlike the state socialist/liberal left, anarchists reject the
 idea that the cause of socialism, of a free society, can be helped by using
@@ -3218,7 +3228,7 @@ market (so ignoring the awkward fact that capitalism is based upon domination
 survive). Anarchists are of the opinion that changing the boss for the state
 (or vice versa) is only a step sideways, **not** forward! After all, it is
 **not** working people who control how the welfare state is run, it is
-politicians, "experts", bureaucrats and managers who do so (_"Welfare is
+politicians, "experts", bureaucrats and managers who do so ( _"Welfare is
 administered by a top-heavy governmental machine which ensures that when
 economies in public expenditure are imposed by its political masters, they are
 made in reducing the service to the public, not by reducing the cost of
@@ -3233,8 +3243,8 @@ Anarchists consider it far better to encourage those who suffer injustice to
 organise themselves and in that way they can change what **they** think is
 actually wrong, as opposed to what politicians and "experts" claim is wrong.
 If sometimes part of this struggle involves protecting aspects of the welfare
-state (_"expanding the floor of the cage"_) so be it -- but we will never stop
-there and will use such struggles as a stepping stone in abolishing the
+state ( _"expanding the floor of the cage"_ ) so be it -- but we will never
+stop there and will use such struggles as a stepping stone in abolishing the
 welfare state **from below** by creating self-managed, working class,
 alternatives. As part of this process anarchists also seek to **transform**
 those aspects of the welfare state they may be trying to "protect". They do
@@ -3258,8 +3268,8 @@ operatives to run. The same with welfare services and such like: _"the
 abolition of the State is the last term of a series, which consists of an
 incessant diminution, by political and administrative simplification the
 number of public functionaries and to put into the care of responsible workers
-societies the works and services confided to the state."_ [**Property is
-Theft!**, p. 25]
+societies the works and services confided to the state."_ [ **Property is
+Theft!** , p. 25]
 
 Not only does this mean that we can get accustomed to managing our own affairs
 collectively, it also means that we can ensure that whatever "safety-nets" we
@@ -3274,14 +3284,14 @@ capitalists!
 
 There are two traditions of welfare within society, one of _"fraternal and
 autonomous associations springing from below, the other that of authoritarian
-institutions directed from above."_ [Ward, **Op. Cit.**, p. 123] While
+institutions directed from above."_ [Ward, **Op. Cit.** , p. 123] While
 sometimes anarchists are forced to defend the latter against the greater evil
 of "free market" capitalism, we never forget the importance of creating and
 strengthening the former. As Chomsky suggests, libertarians have to _"defend
 some state institutions from the attack against them [by private power], while
 trying at the same time to pry them open to meaningful public participation --
 and ultimately, to dismantle them in a much more free society, if the
-appropriate circumstances can be achieved."_ [**Chomsky on Anarchism**, p.
+appropriate circumstances can be achieved."_ [ **Chomsky on Anarchism** , p.
 194] A point we will discuss more in [the next section](secJ5.md#secj516)
 when we highlight the historical examples of self-managed communal welfare and
 self-help organisations.
@@ -3299,19 +3309,19 @@ There are, as Colin Ward stresses, _"in fact several quite separate traditions
 of social welfare: the product of totally different attitudes to social needs
 . . . One of these traditions is that of a service given grudgingly and
 punitively by authority, another is the expression of social responsibility,
-or of mutual aid and self-help. One is embodied in **institutions**, the other
-in **associations**."_ [**Anarchy in Action**, p. 112] Anarchists, needless to
-say, favour the latter. Unfortunately, this _"great tradition of working class
-self-help and mutual aid was written off, not just as irrelevant, but as an
-actual impediment, by the political and professional architects of the welfare
-state . . . The contribution that the recipients had to make to all this
-theoretical bounty was ignored as a mere embarrassment -- apart, of course,
-for paying for it . . . The socialist ideal was rewritten as a world in which
-everyone was entitled to everything, but where nobody except the providers had
-any actual say about anything. We have been learning for years, in the anti-
-welfare backlash, what a vulnerable utopia that was."_ This self-managed
-working class self-help was the _"welfare road we failed to take."_ [Ward,
-**Social Policy: an anarchist response**, p. 11-2 and p. 9]
+or of mutual aid and self-help. One is embodied in **institutions** , the
+other in **associations**."_ [ **Anarchy in Action** , p. 112] Anarchists,
+needless to say, favour the latter. Unfortunately, this _"great tradition of
+working class self-help and mutual aid was written off, not just as
+irrelevant, but as an actual impediment, by the political and professional
+architects of the welfare state . . . The contribution that the recipients had
+to make to all this theoretical bounty was ignored as a mere embarrassment --
+apart, of course, for paying for it . . . The socialist ideal was rewritten as
+a world in which everyone was entitled to everything, but where nobody except
+the providers had any actual say about anything. We have been learning for
+years, in the anti-welfare backlash, what a vulnerable utopia that was."_ This
+self-managed working class self-help was the _"welfare road we failed to
+take."_ [Ward, **Social Policy: an anarchist response** , p. 11-2 and p. 9]
 
 Anarchists would argue that self-help is the natural side effect of freedom.
 There is no possibility of radical social change unless people are free to
@@ -3328,25 +3338,25 @@ squatting or any other form of **collective** self-help movement they will be
 the first to denounce it):
 
 > _"The political Left has, over the years, committed an enormous
-psychological error in allowing this kind of language ["self-help", "mutual
-aid", "standing on your own two feet" and so on] to be appropriated by the
-political Right. If you look at the exhibitions of trade union banners from
-the last century, you will see slogans like Self Help embroidered all over
-them. It was those clever Fabians and academic Marxists who ridiculed out of
-existence the values by which ordinary citizens govern their own lives in
-favour of bureaucratic paternalising, leaving those values around to be picked
-up by their political opponents."_ [Ward, **Talking Houses**, p. 58]
+> psychological error in allowing this kind of language ["self-help", "mutual
+> aid", "standing on your own two feet" and so on] to be appropriated by the
+> political Right. If you look at the exhibitions of trade union banners from
+> the last century, you will see slogans like Self Help embroidered all over
+> them. It was those clever Fabians and academic Marxists who ridiculed out of
+> existence the values by which ordinary citizens govern their own lives in
+> favour of bureaucratic paternalising, leaving those values around to be
+> picked up by their political opponents."_ [Ward, **Talking Houses** , p. 58]
 
 We cannot be expected to provide an extensive list of working class collective
 self-help and social welfare activity here, all we can do is present an
 overview of collective welfare in action (for a discussion of working class
 self-help and co-operation through the centuries we can suggest no better
-source than Kropotkin's **Mutual Aid**). In the case of Britain, we find that
+source than Kropotkin's **Mutual Aid** ). In the case of Britain, we find that
 the _"newly created working class built up from nothing a vast network of
 social and economic initiatives based on self-help and mutual aid. The list is
 endless: friendly societies, building societies, sick clubs, coffin clubs,
 clothing clubs, up to enormous federated enterprises like the trade union
-movement and the Co-operative movement."_ [Ward, **Social Policy**, pp. 10-1]
+movement and the Co-operative movement."_ [Ward, **Social Policy** , pp. 10-1]
 The historian E.P. Thompson confirmed this picture of a wide network of
 working class self-help organisations. _"Small tradesmen, artisans,
 labourers"_ he summarised, _"all sought to insure themselves against sickness,
@@ -3363,32 +3373,32 @@ kind of witness in the first half of the nineteenth century -- clergymen,
 factory inspectors, Radical publicists -- remarked upon the extent of mutual
 aid in the poorest districts. In times of emergency, unemployment, strikes,
 sickness, childbirth, then it was the poor who 'helped every one his
-neighbour.'"_ [**The Making of the English Working Class**, p. 458, pp. 460-1
-and p. 462] Sam Dolgoff gave an excellent summary of similar self-help
+neighbour.'"_ [ **The Making of the English Working Class** , p. 458, pp.
+460-1 and p. 462] Sam Dolgoff gave an excellent summary of similar self-help
 activities by the American working class:
 
 > _"Long before the labour movement got corrupted and the state stepped in,
-the workers organised a network of co-operative institutions of all kinds:
-schools, summer camps for children and adults, homes for the aged, health and
-cultural centres, credit associations, fire, life, and health insurance,
-technical education, housing, etc."_ [**The American Labour Movement: A New
-Beginning**, p. 74]
+> the workers organised a network of co-operative institutions of all kinds:
+> schools, summer camps for children and adults, homes for the aged, health
+> and cultural centres, credit associations, fire, life, and health insurance,
+> technical education, housing, etc."_ [ **The American Labour Movement: A New
+> Beginning** , p. 74]
 
 Dolgoff, like all anarchists, urged workers to _"finance the establishment of
 independent co-operative societies of all types, which will respond adequately
 to their needs"_ and that such a movement _"could constitute a realistic
 alternative to the horrendous abuses of the 'establishment' at a fraction of
-the cost."_ [**Op. Cit.**, p. 74 and pp. 74-75] In this way a network of self-
-managed, communal, welfare associations and co-operatives could be built --
-paid for, run by and run for working class people. Such a system _"would not .
-. . become a plaything of central government financial policy."_ [Ward, **Op.
-Cit.**, p. 16] Such a network could be initially build upon, and be an aspect
-of, the struggles of both workers in and claimants, patients, tenants, and
-other users of the current welfare state. So a _"multiplicity of mutual aid
-organisations among claimants, patients, victims, represents the most potent
-lever for change in transforming the welfare state into a genuine welfare
-society, in turning community care into a caring community."_ [Ward, **Anarchy
-in Action**, p. 125]
+the cost."_ [ **Op. Cit.** , p. 74 and pp. 74-75] In this way a network of
+self-managed, communal, welfare associations and co-operatives could be built
+-- paid for, run by and run for working class people. Such a system _"would
+not . . . become a plaything of central government financial policy."_ [Ward,
+**Op. Cit.** , p. 16] Such a network could be initially build upon, and be an
+aspect of, the struggles of both workers in and claimants, patients, tenants,
+and other users of the current welfare state. So a _"multiplicity of mutual
+aid organisations among claimants, patients, victims, represents the most
+potent lever for change in transforming the welfare state into a genuine
+welfare society, in turning community care into a caring community."_ [Ward,
+**Anarchy in Action** , p. 125]
 
 The creation of such a co-operative, community-based, welfare system will not
 occur over night, nor will it be easy. But it **is** possible, as history
@@ -3396,7 +3406,7 @@ shows. It will, of course, have its problems, but as Colin Ward notes, _"the
 standard argument against a localist and decentralised point of view, is that
 of universalism: an equal service to all citizens, which it is thought that
 central control achieves. The short answer to this is that it doesn't!"_
-[Colin Ward, **Social Policy**, p. 16] He notes that richer areas generally
+[Colin Ward, **Social Policy** , p. 16] He notes that richer areas generally
 get a better service from the welfare state than poorer ones, thus violating
 the claims of equal service. A centralised system (be it state or private)
 will most likely allocate resources which reflect the interests and (lack of)
@@ -3419,7 +3429,7 @@ essential to create and maintain wider organisations and mutual aid.
 To take another example of the benefits of a self-managed welfare system, we
 find that it _"was a continual complaint of the authorities"_ in the late
 eighteenth and early nineteenth century _"that friendly societies allowed
-members to withdraw funds when on strike."_ [Thompson, **Op. Cit.**, p. 461f]
+members to withdraw funds when on strike."_ [Thompson, **Op. Cit.** , p. 461f]
 The same complaints were voiced in Britain about the welfare state allowing
 strikers to claim benefit while on strike. The Conservative Government of the
 1980s changed that by passing a law barring those in industrial dispute to
@@ -3449,8 +3459,8 @@ skilled caregiver. As in any other economic sector, the race for profits
 translates into pressure to reduce costs, and the easiest way to do it here is
 to cut back on services to unprofitable patients, that is, those who are more
 sick than rich . . . The result: hospital costs are actually **higher** in
-areas where there is more competition for patients."_ [**No Contest**, p. 240]
-In the UK, attempts to introduce "market forces" into the National Health
+areas where there is more competition for patients."_ [ **No Contest** , p.
+240] In the UK, attempts to introduce "market forces" into the National Health
 Service has also lead to increased costs as well as inflating the size and
 cost of its bureaucracy.
 
@@ -3465,9 +3475,9 @@ Between 1991 and 1995, the pre-commission return was 12.9 percent, but with
 commissions it fell to 2.1 percent. According to Doug Henwood, the _"competing
 mutual funds have vast sales forces, and the portfolio managers all have their
 vast fees. All in all, administrative costs . . . are almost 30% of revenues,
-compared to well under 1% for the U.S. Social Security system."_ [**Wall
-Street**, p. 305] In addition, the private pension fund market is dominated by
-a handful of companies.
+compared to well under 1% for the U.S. Social Security system."_ [ **Wall
+Street** , p. 305] In addition, the private pension fund market is dominated
+by a handful of companies.
 
 Even if commission costs were lowered (by regulation), the impressive returns
 on capital seen between 1982 and 1995 (when the real annual return on
@@ -3488,8 +3498,8 @@ in all, privatisation seems to be beneficial only to middle-men and
 capitalists, if Chile is anything to go by. As Henwood argues, while the
 _"infusion of money"_ resulting from privatising social security _"has done
 wonders for the Chilean stock market"_ _"projections are that as many as half
-of future retirees will draw a poverty-level pension."_ [Henwood, **Op.
-Cit.**, pp. 304-5]
+of future retirees will draw a poverty-level pension."_ [Henwood, **Op. Cit.**
+, pp. 304-5]
 
 Suffice to say, all you really need to know about privatisation of pensions
 and healthcare in Chile is that the military dictatorship which imposed it
@@ -3499,7 +3509,7 @@ touching.
 So, anarchists reject private welfare as a con (and an even bigger one than
 state welfare). As Colin Ward suggests, it _"is the question of how we get
 back on the mutual aid road **instead of** commercial health insurance and
-private pension schemes."_ [**Social Policy**, p. 17] As anarchists are both
+private pension schemes."_ [ **Social Policy** , p. 17] As anarchists are both
 anti-state and anti-capitalist, swapping private power for the state power is,
 at best, a step sideways. Usually, it is worse for capitalist companies are
 accountable only to their owners and the profit criteria. This means, as
@@ -3507,12 +3517,12 @@ Chomsky suggests, _"protecting the state sector today is a step towards
 abolishing the state because it maintains a public arena in which people can
 participate and organise, and affect policy, and so on, though in limited
 ways. If that's removed, we'd go back to a . . . private dictatorship, but
-that's hardly a step towards liberation."_ [ **Chomsky on Anarchism**, p. 213]
-Instead anarchists try to create **real** alternatives to hierarchy, be it
-state or capitalist, in the here and now which reflect our ideas of a free and
-just society. For, when it boils down to it, freedom cannot be given, only
-taken and this process of **self**-liberation is reflected in the alternatives
-we build to help win the class war.
+that's hardly a step towards liberation."_ [ **Chomsky on Anarchism** , p.
+213] Instead anarchists try to create **real** alternatives to hierarchy, be
+it state or capitalist, in the here and now which reflect our ideas of a free
+and just society. For, when it boils down to it, freedom cannot be given, only
+taken and this process of **self** -liberation is reflected in the
+alternatives we build to help win the class war.
 
 The struggle **against** capitalism and statism requires that we build **for**
 the future and, moreover, we should remember that _"he who has no confidence
@@ -3520,9 +3530,9 @@ in the creative capacity of the masses and in their capability to revolt
 doesn't belong in the revolutionary movement. He should go to a monastery and
 get on his knees and start praying. Because he is no revolutionist. He is a
 son of a bitch."_ [Sam Dolgoff, quoted by Ulrike Heider, **Anarchism: left,
-right, and green**, p. 12]
+right, and green** , p. 12]
 
 [‹ J.4 What trends in society aid anarchist activity?](secJ4.md "Go to
-previous page" ) [up](secJcon.md "Go to parent page" ) [J.6 What methods of
-child rearing do anarchists advocate? ›](secJ6.md "Go to next page" )
+previous page") [up](secJcon.md "Go to parent page") [J.6 What methods of
+child rearing do anarchists advocate? ›](secJ6.md "Go to next page")
 

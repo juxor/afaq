@@ -3,7 +3,7 @@
 For "anarcho"-capitalists, the concept of freedom is limited to the idea of
 _"freedom from."_ For them, freedom means simply freedom from the _"initiation
 of force,"_ or the _"non-aggression against anyone's person and property."_
-[Murray Rothbard, **For a New Liberty**, p. 23] The notion that real freedom
+[Murray Rothbard, **For a New Liberty** , p. 23] The notion that real freedom
 must combine both freedom _"to"_ **and** freedom _"from"_ is missing in their
 ideology, as is the social context of the so-called freedom they defend.
 
@@ -13,7 +13,7 @@ freedom receives from libertarian writers. Once again **Anarchy, State, and
 Utopia** is a case in point. The word 'freedom' doesn't even appear in the
 index. The word 'liberty' appears, but only to refer the reader to the 'Wilt
 Chamberlain' passage. In a supposedly 'libertarian' work, this is more than
-surprising. It is truly remarkable."_ [**Anti-Libertarianism**, p. 95] Why
+surprising. It is truly remarkable."_ [ **Anti-Libertarianism** , p. 95] Why
 this is the case can be seen from how the right-"libertarian" defines freedom.
 
 In right-"libertarian" and "anarcho"-capitalist ideology, freedom is
@@ -21,7 +21,7 @@ considered to be a product of property. As Murray Rothbard puts it, _"the
 libertarian defines the concept of 'freedom' or 'liberty'. . .[as a] condition
 in which a person's ownership rights in his body and his legitimate material
 property rights are not invaded, are not aggressed against. . . . Freedom and
-unrestricted property rights go hand in hand."_ [**Op. Cit.**, p.41]
+unrestricted property rights go hand in hand."_ [ **Op. Cit.** , p.41]
 
 This definition has some problems, however. In such a society, one cannot
 (legitimately) do anything with or on another's property if the owner
@@ -65,19 +65,19 @@ effect, "self-ownership" becomes the means of justifying treating people as
 objects -- ironically, the very thing the concept was created to stop! As
 anarchist L. Susan Brown notes, _"[a]t the moment an individual 'sells' labour
 power to another, he/she loses self-determination and instead is treated as a
-subjectless instrument for the fulfilment of another's will."_ [**The Politics
-of Individualism**, p. 4]
+subjectless instrument for the fulfilment of another's will."_ [ **The
+Politics of Individualism** , p. 4]
 
 Given that workers are paid to obey, you really have to wonder which planet
 Murray Rothbard was on when he argued that a person's _"labour service is
 alienable, but his **will** is not"_ and that he _"cannot alienate his
-**will**, more particularly his control over his own mind and body."_ He
+**will** , more particularly his control over his own mind and body."_ He
 contrasts private property and self-ownership by arguing that _"[a]ll physical
 property owned by a person is alienable . . . I can give away or sell to
 another person my shoes, my house, my car, my money, etc. But there are
 certain vital things which, in natural fact and in the nature of man, are
-**in**alienable . . . [his] will and control over his own person are
-inalienable."_ [**The Ethics of Liberty**, p. 40, p. 135 and pp. 134-5] Yet
+**in** alienable . . . [his] will and control over his own person are
+inalienable."_ [ **The Ethics of Liberty** , p. 40, p. 135 and pp. 134-5] Yet
 _"labour services"_ are unlike the private possessions Rothbard lists as being
 alienable. As we argued in [section B.1](secB1.md) a person's _"labour
 services"_ and _"will"_ cannot be divided -- if you sell your labour services,
@@ -94,8 +94,8 @@ workers who attend union or anarchist meetings or those who have an
 body. In the words of Rudolf Rocker, _"under the realities of the capitalist
 economic form . . . there can . . . be no talk of a 'right over one's own
 person,' for that ends when one is compelled to submit to the economic
-dictation of another if he does not want to starve."_ [**Anarcho-
-Syndicalism**, p. 10]
+dictation of another if he does not want to starve."_ [ **Anarcho-
+Syndicalism** , p. 10]
 
 Ironically, the rights of property (which are said to flow from an
 individual's self-ownership of themselves) becomes the means, under
@@ -106,35 +106,30 @@ Susan Brown, _"objectifies the human individual, denies the unity of subject
 and object and is a negation of individual will . . . [and] destroys the very
 freedom one sought in the first place. The liberal belief in property, both
 real and in the person, leads not to freedom but to relationships of
-domination and subordination."_ [**Op. Cit.**, p. 3] Under capitalism, a lack
-of property can be just as oppressive as a lack of legal rights because of the
-relationships of domination and subjection this situation creates. That people
-"consent" to this hierarchy misses the point. As Alexander Berkman put it:
+domination and subordination."_ [ **Op. Cit.** , p. 3] Under capitalism, a
+lack of property can be just as oppressive as a lack of legal rights because
+of the relationships of domination and subjection this situation creates. That
+people "consent" to this hierarchy misses the point. As Alexander Berkman put
+it:
 
-> _ "The law says your employer does not steal anything from you, because it
-is done with your consent. You have agreed to work for your boss for certain
-pay, he to have all that you produce . . .  
+> _"The law says your employer does not steal anything from you, because it is
+> done with your consent. You have agreed to work for your boss for certain
+> pay, he to have all that you produce . . .  
 >  _
-
 >
-
-> _"But did you really consent? _
-
+> _"But did you really consent?_
 >
-
 > _"When the highway man holds his gun to your head, you turn your valuables
-over to him. You 'consent' all right, but you do so because you cannot help
-yourself, because you are **compelled** by his gun. _
-
+> over to him. You 'consent' all right, but you do so because you cannot help
+> yourself, because you are **compelled** by his gun. _
 >
-
 > _"Are you not **compelled** to work for an employer? Your need compels you
-just as the highwayman's gun. You must live . . . You can't work for yourself
-. . . The factories, machinery, and tools belong to the employing class, so
-you **must** hire yourself out to that class in order to work and live.
-Whatever you work at, whoever your employer may be, it always comes to the
-same: you must work **for him**. You can't help yourself. You are
-**compelled**."_ [**What is Anarchism?**, p. 11]
+> just as the highwayman's gun. You must live . . . You can't work for
+> yourself . . . The factories, machinery, and tools belong to the employing
+> class, so you **must** hire yourself out to that class in order to work and
+> live. Whatever you work at, whoever your employer may be, it always comes to
+> the same: you must work **for him**. You can't help yourself. You are
+> **compelled**."_ [ **What is Anarchism?** , p. 11]
 
 Due to this class monopoly over the means of life, workers (usually) are at a
 disadvantage in terms of bargaining power -- there are more workers than jobs
@@ -153,7 +148,7 @@ of exploited labour is simply legal theft, then the only factor giving the
 children of a deceased capitalist a right to inherit the 'booty' is the law,
 the State. As Bakunin wrote, 'Ghosts should not rule and oppress this world,
 which belongs only to the living.'"_ [Jeff Draughn, **Between Anarchism and
-Libertarianism**]
+Libertarianism** ]
 
 Or, in other words, right-Libertarianism fails to _"meet the charge that
 normal operations of the market systematically places an entire class of
@@ -165,18 +160,18 @@ market works against them; they cannot live if they do not find employment.
 When circumstances regularly bestow a relative disadvantage on one class of
 persons in their dealings with another class, members of the advantaged class
 have little need of coercive measures to get what they want."_ [Stephen L.
-Newman, **Liberalism at Wit's End**, p. 130] Eliminating taxation does not end
-oppression, in other words. As Tolstoy put it:
+Newman, **Liberalism at Wit's End** , p. 130] Eliminating taxation does not
+end oppression, in other words. As Tolstoy put it:
 
-> _ "in Russia serfdom was only abolished when all the land had been
-appropriated. When land was granted to the peasants, it was burdened with
-payments which took the place of the land slavery. In Europe, taxes that kept
-the people in bondage began to be abolished only when the people had lost
-their land, were unaccustomed to agricultural work, and . . . quite dependent
-on the capitalists . . . [They] abolish the taxes that fall on the workers . .
-. only because the majority of the people are already in the hands of the
-capitalists. One form of slavery is not abolished until another has already
-replaced it."_ [**The Slavery of Our Times**, p. 32]
+> _"in Russia serfdom was only abolished when all the land had been
+> appropriated. When land was granted to the peasants, it was burdened with
+> payments which took the place of the land slavery. In Europe, taxes that
+> kept the people in bondage began to be abolished only when the people had
+> lost their land, were unaccustomed to agricultural work, and . . . quite
+> dependent on the capitalists . . . [They] abolish the taxes that fall on the
+> workers . . . only because the majority of the people are already in the
+> hands of the capitalists. One form of slavery is not abolished until another
+> has already replaced it."_ [ **The Slavery of Our Times** , p. 32]
 
 So Rothbard's argument (as well as being contradictory) misses the point (and
 the reality of capitalism). Yes, **if** we define freedom as _"the absence of
@@ -188,7 +183,7 @@ power is a contract in which, since he cannot be separated from his
 capacities, he sells command over the use of his body and himself . . . To
 sell command over the use of oneself for a specified period . . . is to be an
 unfree labourer. The characteristics of this condition are captured in the
-term **wage slave**."_ [**The Sexual Contract**, p. 151]
+term **wage slave**."_ [ **The Sexual Contract** , p. 151]
 
 In other words, contracts about property in the person inevitably create
 subordination. "Anarcho"-capitalism defines this source of unfreedom away, but
@@ -212,9 +207,9 @@ structured by subordination with institutions constituted by free
 relationships (based, in other words, on self-management) in **all** areas of
 life, including economic organisations. Hence Proudhon's argument that the
 _"workmen's associations . . . are full of hope both as a protest against the
-wage system, and as an affirmation of **reciprocity**"_ and that their
+wage system, and as an affirmation of **reciprocity** "_ and that their
 importance lies _"in their denial of the rule of capitalists, money lenders
-and governments."_ [**The General Idea of the Revolution**, pp. 98-99]
+and governments."_ [ **The General Idea of the Revolution** , pp. 98-99]
 
 Unlike anarchists, the "anarcho"-capitalist account of freedom allows an
 individual's freedom to be rented out to another while maintaining that the
@@ -225,10 +220,10 @@ a _"theoretical strategy that justifies subjection by presenting it as
 freedom"_ and has _"turned a subversive proposition [that we are born free and
 equal] into a defence of civil subjection."_ Little wonder, then, that
 contract _"creates a relation of subordination"_ and not of freedom [Carole
-Pateman, **Op. Cit.**, p. 39 and p. 59] Little wonder, then, that Colin Ward
+Pateman, **Op. Cit.** , p. 39 and p. 59] Little wonder, then, that Colin Ward
 argued that, as an anarchist, he is _"by definition, a socialist"_ and that
 _"[w]orkers' control of industrial production"_ is _"the only approach
-compatible with anarchism."_ [**Talking Anarchy**, p. 25 and p. 26]
+compatible with anarchism."_ [ **Talking Anarchy** , p. 25 and p. 26]
 
 Ultimately, any attempt to build an ethical framework starting from the
 abstract individual (as Rothbard does with his _"legitimate rights"_ method)
@@ -237,7 +232,7 @@ Indeed, Rothbard provides an example of the dangers of idealist philosophy
 that Bakunin warned about when he argued that while _"[m]aterialism denies
 free will and ends in the establishment of liberty; idealism, in the name of
 human dignity, proclaims free will, and on the ruins of every liberty founds
-authority."_ [**God and the State**, p. 48] That this is the case with
+authority."_ [ **God and the State** , p. 48] That this is the case with
 "anarcho"-capitalism can be seen from Rothbard's wholehearted support for wage
 labour, landlordism and the rules imposed by property owners on those who use,
 but do not own, their property. Rothbard, basing himself on abstract
@@ -258,13 +253,13 @@ encouragement of **authority,** which is an **opposite** of freedom. For
 example, as Ayn Rand pointed out, _"man has to sustain his life by his own
 effort, the man who has no right to the product of his effort has no means to
 sustain his life. The man who produces while others dispose of his product, is
-a slave."_ [**The Ayn Rand Lexicon: Objectivism from A to Z**, pp. 388-9] But,
-as was shown in [section C.2](secC2.md), capitalism is based on, as Proudhon
-put it, workers working _"for an entrepreneur who pays them and keeps their
-products,"_ and so is a form of **theft.** Thus, by "libertarian" capitalism's
-**own** logic, capitalism is based not on freedom, but on (wage) slavery; for
-interest, profit and rent are derived from a worker's **unpaid** labour, i.e.
-_"others dispose of his [sic] product."_
+a slave."_ [ **The Ayn Rand Lexicon: Objectivism from A to Z** , pp. 388-9]
+But, as was shown in [section C.2](secC2.md), capitalism is based on, as
+Proudhon put it, workers working _"for an entrepreneur who pays them and keeps
+their products,"_ and so is a form of **theft.** Thus, by "libertarian"
+capitalism's **own** logic, capitalism is based not on freedom, but on (wage)
+slavery; for interest, profit and rent are derived from a worker's **unpaid**
+labour, i.e. _"others dispose of his [sic] product."_
 
 Thus it is debatable that a right-"libertarian" or "anarcho" capitalist
 society would have less unfreedom or authoritarianism in it than "actually
@@ -273,8 +268,8 @@ narrow definitions, restricts freedom to only a few areas of social life and
 ignores domination and authority beyond those aspects. As Peter Marshall
 points out, their _"definition of freedom is entirely negative. It calls for
 the absence of coercion but cannot guarantee the positive freedom of
-individual autonomy and independence."_ [**Demanding the Impossible**, p. 564]
-By confining freedom to such a narrow range of human action,
+individual autonomy and independence."_ [ **Demanding the Impossible** , p.
+564] By confining freedom to such a narrow range of human action,
 "anarcho"-capitalism is clearly **not** a form of anarchism. Real anarchists
 support freedom in every aspect of an individual's life.
 
@@ -283,7 +278,7 @@ two kinds of society,"_ one of which is _"constituted freely by men of good
 will, based on a consideration of their common interests"_ and another which
 _"accepts the existence of either temporary or permanent masters to whom [its
 members] owe obedience."_ [quoted by Clark and Martin, **Anarchy, Geography,
-Modernity**, p. 62] In other words, when choosing between anarchism and
+Modernity** , p. 62] In other words, when choosing between anarchism and
 capitalism, "anarcho"-capitalists pick the latter and call it the former.
 
 ## F.2.1 How does private property affect freedom?
@@ -304,12 +299,12 @@ not to all. Or, alternatively, capitalism does not recognise certain human
 rights as **universal** which anarchism does.
 
 This can be seen from Austrian Economist W. Duncan Reekie's defence of wage
-labour. While referring to _"intra-firm labour markets"_ as _"hierarchies"_,
+labour. While referring to _"intra-firm labour markets"_ as _"hierarchies"_ ,
 Reekie (in his best _**ex cathedra**_ tone) states that _"[t]here is nothing
 authoritarian, dictatorial or exploitative in the relationship. Employees
 order employers to pay them amounts specified in the hiring contract just as
-much as employers order employees to abide by the terms of the contract."_
-[**Markets, Entrepreneurs and Liberty**, p. 136 and p. 137]. Given that _"the
+much as employers order employees to abide by the terms of the contract."_ [
+**Markets, Entrepreneurs and Liberty** , p. 136 and p. 137]. Given that _"the
 terms of contract"_ involve the worker agreeing to obey the employers orders
 and that they will be fired if they do not, its pretty clear that the ordering
 that goes on in the _"intra-firm labour market"_ is decidedly **one way**.
@@ -320,8 +315,8 @@ liberty during work hours?
 Reekie actually recognises this lack of freedom in a "round about" way when he
 notes that _"employees in a firm at any level in the hierarchy can exercise an
 entrepreneurial role. The area within which that role can be carried out
-increases the more authority the employee has."_ [**Op. Cit.**, p. 142] Which
-means workers **are** subject to control from above which restricts the
+increases the more authority the employee has."_ [ **Op. Cit.** , p. 142]
+Which means workers **are** subject to control from above which restricts the
 activities they are allowed to do and so they are **not** free to act, make
 decisions, participate in the plans of the organisation, to create the future
 and so forth within working hours. And it is strange that while recognising
@@ -331,24 +326,24 @@ structures or an unelected person in authority who is not a dictator. His
 confusion is shared by Austrian guru Ludwig von Mises, who asserted that the
 _"entrepreneur and capitalist are not irresponsible autocrats"_ because they
 are _"unconditionally subject to the sovereignty of the consumer"_ while, **on
-the next page**, admitting there was a _"managerial hierarchy"_ which contains
-_"the average subordinate employee."_ [**Human Action**, p. 809 and p. 810] It
-does not enter his mind that the capitalist may be subject to some consumer
-control while being an autocrat to their subordinated employees. Again, we
-find the right-"libertarian" acknowledging that the capitalist managerial
-structure is a hierarchy and workers are subordinated while denying it is
-autocratic to the workers! Thus we have "free" workers within a relationship
-distinctly **lacking** freedom -- a strange paradox. Indeed, if your personal
-life were as closely monitored and regulated as the work life of millions of
-people across the world, you would rightly consider it the worse form of
-oppression and tyranny.
+the next page** , admitting there was a _"managerial hierarchy"_ which
+contains _"the average subordinate employee."_ [ **Human Action** , p. 809 and
+p. 810] It does not enter his mind that the capitalist may be subject to some
+consumer control while being an autocrat to their subordinated employees.
+Again, we find the right-"libertarian" acknowledging that the capitalist
+managerial structure is a hierarchy and workers are subordinated while denying
+it is autocratic to the workers! Thus we have "free" workers within a
+relationship distinctly **lacking** freedom -- a strange paradox. Indeed, if
+your personal life were as closely monitored and regulated as the work life of
+millions of people across the world, you would rightly consider it the worse
+form of oppression and tyranny.
 
 Somewhat ironically, right-wing liberal and "free market" economist Milton
 Friedman contrasted _"central planning involving the use of coercion -- the
 technique of the army or the modern totalitarian state"_ with _"voluntary co-
 operation between individuals -- the technique of the marketplace"_ as two
-distinct ways of co-ordinating the economic activity of large groups
-(_"millions"_) of people. [**Capitalism and Freedom**, p. 13] However, this
+distinct ways of co-ordinating the economic activity of large groups (
+_"millions"_ ) of people. [ **Capitalism and Freedom** , p. 13] However, this
 misses the key issue of the internal nature of the company. As
 right-"libertarians" themselves note, the internal structure of a capitalist
 company is hierarchical. Indeed, the capitalist company **is** a form of
@@ -357,19 +352,19 @@ Drucker noted in his history of General Motors, _"[t]here is a remarkably
 close parallel between General Motors' scheme of organisation and those of the
 two institutions most renowned for administrative efficiency: that of the
 Catholic Church and that of the modern army."_ [quoted by David Engler,
-**Apostles of Greed**, p. 66] Thus capitalism is marked by a series of
+**Apostles of Greed** , p. 66] Thus capitalism is marked by a series of
 totalitarian organisations. Dictatorship does not change much -- nor does it
 become less fascistic -- when discussing economic structures rather than
 political ones. To state the obvious, _"the employment contract (like the
 marriage contract) is not an exchange; both contracts create social relations
 that endure over time - social relations of subordination."_ [Carole Pateman,
-**The Sexual Contract**, p. 148]
+**The Sexual Contract** , p. 148]
 
 Perhaps Reekie (like most right-"libertarians") will maintain that workers
 voluntarily agree ("consent") to be subject to the bosses dictatorship (he
 writes that _"each will only enter into the contractual agreement known as a
 firm if each believes he will be better off thereby. The firm is simply
-another example of mutually beneficial exchange."_ [**Op. Cit.**, p. 137]).
+another example of mutually beneficial exchange."_ [ **Op. Cit.** , p. 137]).
 However, this does not stop the relationship being authoritarian or
 dictatorial (and so exploitative as it is **highly** unlikely that those at
 the top will not abuse their power). Representing employment relations as
@@ -400,12 +395,12 @@ violate their bosses property rights and they would be repressed for trying).
 
 So the right-wing "libertarian" right is interested only in a narrow concept
 of freedom (rather than in freedom or liberty as such). This can be seen in
-the argument of Ayn Rand that _"**Freedom**, in a political context, means
+the argument of Ayn Rand that _" **Freedom** , in a political context, means
 freedom from government coercion. It does **not** mean freedom from the
 landlord, or freedom from the employer, or freedom from the laws of nature
 which do not provide men with automatic prosperity. It means freedom from the
-coercive power of the state -- and nothing else!"_ [**Capitalism: The Unknown
-Ideal**, p. 192] By arguing in this way, right-"libertarians" ignore the vast
+coercive power of the state -- and nothing else!"_ [ **Capitalism: The Unknown
+Ideal** , p. 192] By arguing in this way, right-"libertarians" ignore the vast
 number of authoritarian social relationships that exist in capitalist society
 and, as Rand does here, imply that these social relationships are like _"the
 laws of nature."_ However, if one looks at the world without prejudice but
@@ -419,12 +414,12 @@ The right "libertarian," then, far from being a defender of freedom, is in
 fact a keen defender of certain forms of authority. As Kropotkin argued
 against a forerunner of right-"libertarianism":
 
-> _ "The modern Individualism initiated by Herbert Spencer is, like the
-critical theory of Proudhon, a powerful indictment against the dangers and
-wrongs of government, but its practical solution of the social problem is
-miserable -- so miserable as to lead us to inquire if the talk of 'No force'
-be merely an excuse for supporting landlord and capitalist domination."_
-[**Act For Yourselves**, p. 98]
+> _"The modern Individualism initiated by Herbert Spencer is, like the
+> critical theory of Proudhon, a powerful indictment against the dangers and
+> wrongs of government, but its practical solution of the social problem is
+> miserable -- so miserable as to lead us to inquire if the talk of 'No force'
+> be merely an excuse for supporting landlord and capitalist domination."_ [
+> **Act For Yourselves** , p. 98]
 
 To defend the "freedom" of property owners is to defend authority and
 privilege -- in other words, statism. So, in considering the concept of
@@ -451,9 +446,10 @@ world based on freedom in all aspects of life, rather than just in a few.
 Yes. It may come as a surprise to many people, but right-"Libertarianism" is
 one of the few political theories that justifies slavery. For example, Robert
 Nozick asks whether _"a free system would allow [the individual] to sell
-himself into slavery"_ and he answers _"I believe that it would."_ [**Anarchy,
-State and Utopia**, p. 371] While some right-"libertarians" do not agree with
-Nozick, there is no logical basis in their ideology for such disagreement.
+himself into slavery"_ and he answers _"I believe that it would."_ [
+**Anarchy, State and Utopia** , p. 371] While some right-"libertarians" do not
+agree with Nozick, there is no logical basis in their ideology for such
+disagreement.
 
 This can be seen from "anarcho"-capitalist Walter Block, who, like Nozick,
 supports voluntary slavery. As he puts it, _"if I own something, I can sell it
@@ -466,9 +462,9 @@ his words, seeks to make _"a tiny adjustment"_ which _"strengthens
 libertarianism by making it more internally consistent."_ He argues that his
 position shows _"that contract, predicated on private property [can] reach to
 the furthest realms of human interaction, even to voluntary slave contracts."_
-[_"Towards a Libertarian Theory of Inalienability: A Critique of Rothbard,
+[ _"Towards a Libertarian Theory of Inalienability: A Critique of Rothbard,
 Barnett, Smith, Kinsella, Gordon, and Epstein,"_ pp. 39-85, **Journal of
-Libertarian Studies**, vol. 17, no. 2, p. 44, p. 48, p. 82 and p. 46]
+Libertarian Studies** , vol. 17, no. 2, p. 44, p. 48, p. 82 and p. 46]
 
 So the logic is simple, you cannot really own something unless you can sell
 it. Self-ownership is one of the cornerstones of laissez-faire capitalist
@@ -491,22 +487,22 @@ but, it is plain, this was only to drudgery, not to slavery: for, it is
 evident, the person sold was not under an absolute, arbitrary, despotical
 power: for the master could not have power to kill him, at any time, whom, at
 a certain time, he was obliged to let go free out of his service."_ [Locke,
-**Second Treatise of Government**, Section 24] In other words, voluntary
+**Second Treatise of Government** , Section 24] In other words, voluntary
 slavery was fine but just call it something else.
 
 Not that Locke was bothered by **involuntary** slavery. He was heavily
 involved in the slave trade. He owned shares in the **"Royal Africa Company"**
 which carried on the slave trade for England, making a profit when he sold
 them. He also held a significant share in another slave company, the **"Bahama
-Adventurers."** In the _"Second Treatise"_, Locke justified slavery in terms
+Adventurers."** In the _"Second Treatise"_ , Locke justified slavery in terms
 of _"Captives taken in a just war,"_ a war waged against aggressors. [Section
 85] That, of course, had nothing to do with the **actual** slavery Locke
 profited from (slave raids were common, for example). Nor did his "liberal"
 principles stop him suggesting a constitution that would ensure that _"every
 freeman of Carolina shall have absolute power and authority over his Negro
 slaves."_ The constitution itself was typically autocratic and hierarchical,
-designed explicitly to _"avoid erecting a numerous democracy."_ [**The Works
-of John Locke**, vol. X, p. 196]
+designed explicitly to _"avoid erecting a numerous democracy."_ [ **The Works
+of John Locke** , vol. X, p. 196]
 
 So the notion of contractual slavery has a long history within right-wing
 liberalism, although most refuse to call it by that name. It is of course
@@ -564,7 +560,7 @@ creating slave contracts would be _"conditional exchange"_ which Rothbard also
 supports. As for debt bondage, that too, seems acceptable. He surreally notes
 that paying damages and debts in such contracts is fine as _"money, of course,
 **is** alienable"_ and so forgets that it needs to be earned by labour which,
-he asserts, is **not** alienable! [**The Ethics of Liberty,** pp. 134-135, p.
+he asserts, is **not** alienable! [ **The Ethics of Liberty,** pp. 134-135, p.
 40, pp. 136-9, p. 141 and p. 138]
 
 It should be noted that the slavery contract cannot be null and void because
@@ -575,7 +571,7 @@ of the lifetime labour contract, then it can be broken as long as the slave
 pays any appropriate damages. As Rothbard puts it elsewhere, _"if A has agreed
 to work for life for B in exchange for 10,000 grams of gold, he will have to
 return the proportionate amount of property if he terminates the arrangement
-and ceases to work."_ [**Man, Economy, and State**, vol. I , p. 441] This is
+and ceases to work."_ [ **Man, Economy, and State** , vol. I , p. 441] This is
 understandable, as the law generally allows material damages for breached
 contracts, as does Rothbard in his support for the _"performance bond"_ and
 _"conditional exchange."_ Needless to say, having to pay such damages (either
@@ -585,8 +581,8 @@ common type of modern slave, the debt-slave.
 And it is interesting to note that even Murray Rothbard is not against the
 selling of humans. He argued that children are the property of their parents
 who can (bar actually murdering them by violence) do whatever they please with
-them, even sell them on a _"flourishing free child market."_ [**The Ethics of
-Liberty**, p. 102] Combined with a whole hearted support for child labour
+them, even sell them on a _"flourishing free child market."_ [ **The Ethics of
+Liberty** , p. 102] Combined with a whole hearted support for child labour
 (after all, the child can leave its parents if it objects to working for them)
 such a "free child market" could easily become a "child slave market" -- with
 entrepreneurs making a healthy profit selling infants and children or their
@@ -631,7 +627,7 @@ As Carole Pateman argues, _"contract theory is primarily about a way of
 creating social relations constituted by subordination, not about exchange."_
 Rather than undermining subordination, contract theorists justify modern
 subjection -- _"contract doctrine has proclaimed that subjection to a master
--- a boss, a husband -- is freedom."_ [**The Sexual Contract**, p. 40 and p.
+-- a boss, a husband -- is freedom."_ [ **The Sexual Contract** , p. 40 and p.
 146] The question central to contract theory (and so right-Libertarianism) is
 not "are people free" (as one would expect) but "are people free to
 subordinate themselves in any manner they please." A radically different
@@ -655,7 +651,7 @@ the justification of allowing him to dispose of himself. . .The principle of
 freedom cannot require that he should be free not to be free. It is not
 freedom, to be allowed to alienate his freedom."_ He adds that _"these
 reasons, the force of which is so conspicuous in this particular case, are
-evidently of far wider application."_ [quoted by Pateman, **Op. Cit.**, pp.
+evidently of far wider application."_ [quoted by Pateman, **Op. Cit.** , pp.
 171-2]
 
 And it is such an application that defenders of capitalism fear (Mill did in
@@ -668,15 +664,15 @@ and the employee cannot in fact take their will out of their intentional
 actions so that they could be 'employed' by the master or employer"_ we are
 left with _"the rather implausible assertion that a person can vacate his or
 her will for eight or so hours a day for weeks, months, or years on end but
-cannot do so for a working lifetime."_ [**Property and Contract in
-Economics**, p. 58] This is Rothbard's position.
+cannot do so for a working lifetime."_ [ **Property and Contract in
+Economics** , p. 58] This is Rothbard's position.
 
 The implications of supporting voluntary slavery is quite devastating for all
 forms of right-wing "libertarianism." This was proven by Ellerman when he
 wrote an extremely robust defence of it under the pseudonym "J. Philmore"
 called **The Libertarian Case for Slavery** (first published in **The
-Philosophical Forum**, xiv, 1982). This classic rebuttal takes the form of
-"proof by contradiction" (or **reductio ad absurdum**) whereby he takes the
+Philosophical Forum** , xiv, 1982). This classic rebuttal takes the form of
+"proof by contradiction" (or **reductio ad absurdum** ) whereby he takes the
 arguments of right-libertarianism to their logical end and shows how they
 reach the memorably conclusion that the _"time has come for liberal economic
 and political thinkers to stop dodging this issue and to critically re-examine
@@ -693,7 +689,7 @@ involuntary slavery is inherently unjust is thus taken to include voluntary
 slavery (in which case, the argument, by definition, does not apply). This has
 resulted in an abridgement of the freedom of contract in modern liberal
 society."_ Thus it is possible to argue for a _"civilised form of contractual
-slavery."_ ["J. Philmore,", **Op. Cit.**]
+slavery."_ ["J. Philmore,", **Op. Cit.** ]
 
 So accurate and logical was Ellerman's article that many of its readers were
 convinced it **was** written by a right-"libertarian" (including, we have to
@@ -701,7 +697,7 @@ say, us!). One such writer was Carole Pateman, who correctly noted that
 _"[t]here is a nice historical irony here. In the American South, slaves were
 emancipated and turned into wage labourers, and now American contractarians
 argue that all workers should have the opportunity to turn themselves into
-civil slaves."_ [**Op. Cit.**, p. 63]).
+civil slaves."_ [ **Op. Cit.** , p. 63]).
 
 The aim of Ellerman's article was to show the problems that employment (wage
 labour) presents for the concept of self-government and how contract need not
@@ -712,7 +708,7 @@ the voluntary contractual basis for the free-market free-enterprise system.
 Such a critique would thus be a **reductio ad absurdum**."_ As _"contractual
 slavery"_ is an _"extension of the employer-employee contract,"_ he shows that
 the difference between wage labour and slavery is the time scale rather than
-the principle or social relationships involved. [**Op. Cit.**] This explains
+the principle or social relationships involved. [ **Op. Cit.** ] This explains
 why the early workers' movement called capitalism _**"wage slavery"**_ and why
 anarchists still do. It exposes the unfree nature of capitalism and the
 poverty of its vision of freedom. While it is possible to present wage labour
@@ -740,15 +736,15 @@ relationships with other individuals. If individuals deny their capacities for
 self-government through a contract the individuals bring about a qualitative
 change in their relationship to others -- freedom is turned into mastery and
 subordination. For the anarchist, slavery is thus the paradigm of what freedom
-is **not**, instead of an exemplification of what it is (as
+is **not** , instead of an exemplification of what it is (as
 right-"libertarians" state). As Proudhon argued:
 
 > _"If I were asked to answer the following question: What is slavery? and I
-should answer in one word, It is murder, my meaning would be understood at
-once. No extended argument would be required to show that the power to take
-from a man his thought, his will, his personality, is a power of life and
-death; and that to enslave a man is to kill him."_ [**What is Property?**, p.
-37]
+> should answer in one word, It is murder, my meaning would be understood at
+> once. No extended argument would be required to show that the power to take
+> from a man his thought, his will, his personality, is a power of life and
+> death; and that to enslave a man is to kill him."_ [ **What is Property?** ,
+> p. 37]
 
 In contrast, the right-"libertarian" effectively argues that "I support
 slavery because I believe in liberty." It is a sad reflection of the ethical
@@ -762,17 +758,17 @@ From the basic insight that slavery is the opposite of freedom, the anarchist
 rejection of authoritarian social relations quickly follows:
 
 > _"Liberty is inviolable. I can neither sell nor alienate my liberty; every
-contract, every condition of a contract, which has in view the alienation or
-suspension of liberty, is null: the slave, when he plants his foot upon the
-soil of liberty, at that moment becomes a free man . . . Liberty is the
-original condition of man; to renounce liberty is to renounce the nature of
-man: after that, how could we perform the acts of man?"_ [P.J. Proudhon, **Op.
-Cit.**, p. 67]
+> contract, every condition of a contract, which has in view the alienation or
+> suspension of liberty, is null: the slave, when he plants his foot upon the
+> soil of liberty, at that moment becomes a free man . . . Liberty is the
+> original condition of man; to renounce liberty is to renounce the nature of
+> man: after that, how could we perform the acts of man?"_ [P.J. Proudhon,
+> **Op. Cit.** , p. 67]
 
 The employment contract (i.e. wage slavery) abrogates liberty. It is based
 upon inequality of power and _"exploitation is a consequence of the fact that
 the sale of labour power entails the worker's subordination."_ [Carole
-Pateman, **Op. Cit.**, p. 149] Hence Proudhon's support for self-management
+Pateman, **Op. Cit.** , p. 149] Hence Proudhon's support for self-management
 and opposition to capitalism -- any relationship that resembles slavery is
 illegitimate and no contract that creates a relationship of subordination is
 valid. Thus in a truly anarchistic society, slave contracts would be
@@ -791,7 +787,7 @@ autocracy indicates a deeper authoritarianism which negates their claims to be
 libertarians.
 
 [‹ F.1 Are "anarcho"-capitalists really anarchists?](secF1.md "Go to
-previous page" ) [up](secFcon.md "Go to parent page" ) [F.3 Why do
+previous page") [up](secFcon.md "Go to parent page") [F.3 Why do
 anarcho"-capitalists place little or no value on equality? ›](secF3.md "Go
-to next page" )
+to next page")
 

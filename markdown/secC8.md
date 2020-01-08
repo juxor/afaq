@@ -58,11 +58,11 @@ almost always fail to mention that Hayek was roundly defeated in the
 theoretical battles of the time by Keynesians. In fact, his former students
 (including John Hicks and Nicholas Kaldor) showed how Hayek's theory was
 flawed and he gave up business cycle research in the early 1940s for other
-work. Kaldor's first critique (_"Capital Intensity and the Trade Cycle"_), for
-example, resulted in Hayek completed rewriting his theory while Kaldor's
-second article (_"Professor Hayek and the Concertina-effect"_) showed that
+work. Kaldor's first critique ( _"Capital Intensity and the Trade Cycle"_ ),
+for example, resulted in Hayek completed rewriting his theory while Kaldor's
+second article ( _"Professor Hayek and the Concertina-effect"_ ) showed that
 Hayek's Ricardo Effect was only possible under some very special circumstances
-and so highly unlikely. [Kaldor, **Essays on Economic Stability and Growth**,
+and so highly unlikely. [Kaldor, **Essays on Economic Stability and Growth** ,
 pp. 120-147 and pp. 148-176]
 
 Kaldor's critique was combined with an earlier critique by Piero Sraffa who
@@ -82,21 +82,21 @@ by no means a necessary condition for the divergence; if loans were made in
 wheat and farmers (or for that matter the weather) 'arbitrarily changed' the
 quantity of wheat produced, the actual rate of interes on loans in terms of
 wheat would diverge from the rate on other commodities and there would be no
-single equilibrium rate."_ [_"Dr. Hayek on Money and Capital,"_ pp. 42-53,
-**The Economic Journal**, vol. 42, no. 165, p. 42, pp. 43-4 and p. 49] Hayek
+single equilibrium rate."_ [ _"Dr. Hayek on Money and Capital,"_ pp. 42-53,
+**The Economic Journal** , vol. 42, no. 165, p. 42, pp. 43-4 and p. 49] Hayek
 admitted that this was a possibility, to which Sraffa replied:
 
 > _"only under conditions of equilibrium would there be a single rate, and
-that when saving was in progress there would be at any one moment be many
-'natural' rates, possibly as many as there are commodities; so that it would
-be not merely difficult in practice, but altogether inconceivable, that the
-money rate would be equal to 'the' natural rate . . . Dr. Hayek now
-acknowledges the multiplicity of the 'natural' rates, but he has nothing more
-to say on this specific point than that they 'all would be equilibrium rates.'
-The only meaning (if it be a meaning) I can attach to this is that his maxim
-of policy now requires that the money rate should be equal to all these
-divergent natural rates."_ [_"A Rejoinder,"_ pp. 249-251, **Op. Cit.** Vol.
-42, No. 166, p. 251]
+> that when saving was in progress there would be at any one moment be many
+> 'natural' rates, possibly as many as there are commodities; so that it would
+> be not merely difficult in practice, but altogether inconceivable, that the
+> money rate would be equal to 'the' natural rate . . . Dr. Hayek now
+> acknowledges the multiplicity of the 'natural' rates, but he has nothing
+> more to say on this specific point than that they 'all would be equilibrium
+> rates.' The only meaning (if it be a meaning) I can attach to this is that
+> his maxim of policy now requires that the money rate should be equal to all
+> these divergent natural rates."_ [ _"A Rejoinder,"_ pp. 249-251, **Op.
+> Cit.** Vol. 42, No. 166, p. 251]
 
 Then there was the practical suggestions that flowed from the analysis, namely
 do nothing. It also implied that the best thing to do in a recession or
@@ -143,8 +143,8 @@ to finance extra investment activity."_ This would be of _"no consequence"_ if
 it had been the outcome of genuine saving _"but the change was government
 induced . . . Capital goods industries will find their expansion has been in
 error and malinvestments have been incurred"_ and so there has been _"wasteful
-mis-investment due to government interference with the market."_ [**Markets,
-Entrepreneurs and Liberty**, pp. 68-9]
+mis-investment due to government interference with the market."_ [ **Markets,
+Entrepreneurs and Liberty** , pp. 68-9]
 
 Yet the government does **not** force banks to make excessive loans and this
 is the first, and most obvious, fallacy of argument. After all, what Reekie is
@@ -157,7 +157,7 @@ fractional reserve banking is introduced, however, the supply of money
 substitutes will include fiduciary media. The ingenuity of bankers, other
 financial intermediaries and the endorsement and **guaranteeing of their
 activities by governments and central banks** has ensured that the quantity of
-fiat money is immense."_ [**Op. Cit.**, p. 73] As we will discuss in detail
+fiat money is immense."_ [ **Op. Cit.** , p. 73] As we will discuss in detail
 below what is termed _"credit money"_ (created by banks) is an essential part
 of capitalism and would exist without a system of central banks. This is
 because money is created from within the system, in response to the needs of
@@ -174,7 +174,7 @@ O'Neill argues, the argument assumes _"that information about the panned
 responses of producers in competition is indirectly distributed by changes in
 interest rates: the planned increase in production by separate producers is
 reflected in an increased demand for credit, and hence a rise in interest
-rates."_ [**The Market**, p. 135]
+rates."_ [ **The Market** , p. 135]
 
 For example, if the price of tin rises, this will lead to an expansion in
 investment in the tin industry to reap the higher profits this implies. This
@@ -212,7 +212,7 @@ possible for over-investment (and so over-production) to occur _"even if the
 credit system is working 'satisfactorily'"_ (i.e., as it should in theory. The
 credit system, therefore, _"does not communicate the relevant information"_
 and for this reason _"it is not the case that we must look to a departure from
-an ideal credit system to explain the business cycle."_ [**Op. Cit.**, pp.
+an ideal credit system to explain the business cycle."_ [ **Op. Cit.** , pp.
 135-6]
 
 Another underlying assumption in this argument is that the economy is close to
@@ -234,8 +234,8 @@ towards, and never away from, equilibrium. As Post-Keynesian Paul Davidson
 dryly noted, _"Austrian subjectivists cannot have it both ways -- they cannot
 argue for the importance of time, uncertainty, and money, and simultaneously
 presume that plan or pattern co-ordination must exist and is waiting to be
-discovered."_ [_"The economics of ignorance or the ignorance of economics?"_,
-pp. 467-87, **Critical Review**, vol. 3, no. 3-4, p. 468]
+discovered."_ [ _"The economics of ignorance or the ignorance of economics?"_
+, pp. 467-87, **Critical Review** , vol. 3, no. 3-4, p. 468]
 
 In other words, the notion that if the actual interest rate somehow equalled
 the _"natural"_ one is not only rooted in equilibrium but also the neo-
@@ -245,13 +245,13 @@ Rothbard states that entrepreneurs _"are trained to forecast the market
 correctly; they only make mass errors when governmental or bank intervention
 distorts the 'signals' of the market."_ He even attacks Joseph Schumpeter's
 crisis theory because, in effect, Schumpeter does not show how entrepreneurs
-cannot predict the future (_"There is no explanation offered on the lack of
+cannot predict the future ( _"There is no explanation offered on the lack of
 accurate forecasting . . . why were not the difficulties expected and
-discounted?"_). [**America's Great Depression**, p. 48 and p. 70] Rothbard
+discounted?"_ ). [ **America's Great Depression** , p. 48 and p. 70] Rothbard
 does not ponder why bankers, who are surely entrepreneurs as well, make
 **their** errors nor why the foresight of business people in an uncertain and
 complex economy seems to fail them in the face of repeated actions of banks
-(which they could, surely, have _"expected and discounted"_). This means that
+(which they could, surely, have _"expected and discounted"_ ). This means that
 the argument concerning distortions of the interest rate does not, as such,
 explain the occurrence of over-investment (and so the business cycle).
 Therefore, it cannot be claimed that removing state interference in the market
@@ -310,7 +310,7 @@ the "Austrian" school of economics and right-wing "libertarians" in general.
 It is advocated by those who seek to eliminate fractional reserve banking but
 balk by the regulations required by a 100% gold standard (Rothbard gets round
 this by arguing this standard _"would be part and parcel of the general
-libertarian legal prohibition against fraud."_ [**Op. Cit.**, p. 32]). It is
+libertarian legal prohibition against fraud."_ [ **Op. Cit.** , p. 32]). It is
 based on totally privatising the banking system and creating a system in which
 banks and other private companies compete on the market to get their coins and
 notes accepted by the general population. This position, it must be stressed,
@@ -348,8 +348,8 @@ endogenously determined by the market economy, rather than imposed upon it
 exogenously by the State."_ He notes that the _"empirical record certainly
 supports Post-Keynesians rather than Austrians on this point. Statistical
 evidence about the leads and lags between the State-determined component of
-money supply and broad credit show that the latter 'leads' the former."_
-[**Debunking Economics**, p. 303] Moreover, as our discussion of the failure
+money supply and broad credit show that the latter 'leads' the former."_ [
+**Debunking Economics** , p. 303] Moreover, as our discussion of the failure
 of Monetarism will show, central banks could **not** control the money supply
 when they tried.
 
@@ -380,7 +380,7 @@ the same expectational climate as businessmen"_ and so _"profit-seeking
 bankers will find ways of accommodating their customers . . . Banks and
 bankers are not passive managers of money to lend or to invest; they are in
 business to maximise profits."_ [quoted by L. Randall Wray, **Money and Credit
-in Capitalist Economies**, p. 85] Providing credit is the key way of doing
+in Capitalist Economies** , p. 85] Providing credit is the key way of doing
 this and so credit expansion occurs. If they did not, the boom would soon turn
 into slump as investors would have no funds available for them and interest
 rates would increase, thus forcing firms to pay more in debt repayment, an
@@ -394,25 +394,25 @@ To avoid this and to take advantage of the rising economy, bankers accommodate
 their customers and generate credit rather than rise interest rates. In this
 way they accept liability structures both for themselves and for their
 customers _"that, in a more sober expectational climate, they would have
-rejected."_ [Minsky, **Inflation, Recession and Economic Policy**, p. 123] The
-banks innovate their financial products, in other words, in line with demand.
-Firms increase their indebtedness and banks are more than willing to allow
-this due to the few signs of financial strain in the economy. The individual
-firms and banks increase their financial liability, and so the whole economy
-moves up the liability structure. Like other businesses, banks operate in an
-uncertain environment and have no way of knowing whether their actions will
-increase the fragility within the economy or push it into crisis.
+rejected."_ [Minsky, **Inflation, Recession and Economic Policy** , p. 123]
+The banks innovate their financial products, in other words, in line with
+demand. Firms increase their indebtedness and banks are more than willing to
+allow this due to the few signs of financial strain in the economy. The
+individual firms and banks increase their financial liability, and so the
+whole economy moves up the liability structure. Like other businesses, banks
+operate in an uncertain environment and have no way of knowing whether their
+actions will increase the fragility within the economy or push it into crisis.
 
 The central banks, meanwhile, accommodate the banks activity. They do not and
 cannot force them to create credit. Alan Holmes, a senior vice president at
 the New York Federal Reserve, put the process this way:
 
 > _"In the real world, banks extend credit, creating deposits in the process,
-and look for the reserves later. The question then becomes one of whether and
-how the Federal Reserve will accommodate the demand for reserves. In the very
-short run, the Federal Reserve has little or no choice about accommodating
-that demand, over time, its influence can obviously be felt."_ [quoted by Doug
-Henwood, **Wall Street**, p. 220]
+> and look for the reserves later. The question then becomes one of whether
+> and how the Federal Reserve will accommodate the demand for reserves. In the
+> very short run, the Federal Reserve has little or no choice about
+> accommodating that demand, over time, its influence can obviously be felt."_
+> [quoted by Doug Henwood, **Wall Street** , p. 220]
 
 As long as profits exceed debt servicing requirements, the system will
 continue to work. Eventually, though, interest rates rise as the existing
@@ -449,37 +449,38 @@ another bank or company would in order to get more profits. Keynesian
 economist Charles P. Kindleburger comments:
 
 > _"As a historical generalisation, it can be said that every time the
-authorities stabilise or control some quantity of money. . . in moments of
-euphoria more will be produced. Or if the definition of money is fixed in
-terms of particular assets, and the euphoria happens to 'monetise' credit in
-new ways that are excluded from the definition, the amount of money defined in
-the old way will not grow, but its velocity will increase . . . fix any
-[definition of money] and the market will create new forms of money in periods
-of boom to get round the limit."_ [**Manias, Panics and Crashes**, p. 48]
+> authorities stabilise or control some quantity of money. . . in moments of
+> euphoria more will be produced. Or if the definition of money is fixed in
+> terms of particular assets, and the euphoria happens to 'monetise' credit in
+> new ways that are excluded from the definition, the amount of money defined
+> in the old way will not grow, but its velocity will increase . . . fix any
+> [definition of money] and the market will create new forms of money in
+> periods of boom to get round the limit."_ [ **Manias, Panics and Crashes** ,
+> p. 48]
 
 This can be seen from the fact that _"[b]ank notes . . . and bills of exchange
 . . . were initially developed because of an inelastic supply of coin."_ Thus
 monetary expansion _"is systematic and endogenous rather than random and
-exogenous."_ [Kindleburger, **Op. Cit.**, p. 51 and p. 150] This means that
+exogenous."_ [Kindleburger, **Op. Cit.** , p. 51 and p. 150] This means that
 _"any shortage of commonly-used types [of money] is bound to lead to the
 emergence of new types; indeed, this is how, historically, first bank notes
 and the chequing account emerged."_ If the state tries to regulate one form of
 money, _"lending and borrowing is diverted to other sources."_ [Nicholas
-Kaldor, _"The New Monetarism"_, **The Essential Kaldor**, p. 481 and p. 482]
+Kaldor, _"The New Monetarism"_ , **The Essential Kaldor** , p. 481 and p. 482]
 This means that the notion that abolishing central banking will result in the
 use of gold and 100% reverses and so eliminate the business cycle is
 misplaced:
 
 > _"This view overlooks the fact that the **emergence** of money-substitutes
--- whether in the form of bank notes, bank accounts, or credit cards -- was a
-spontaneous process, not planned or regulated 'from above' by some central
-authority, and for that reason alone it is impossible to treat some arbitrary
-definition of money (which included specific forms of such money-substitutes
-in the definition of money) as an exogenous variable. The emergence of
-surrogate money was a spontaneous process resulting from the development of
-the banking system; this development brought a steady increase in the ratio of
-money substitutes of 'real' money."_ [Nicholas Kaldor, **The Scourge of
-Monetarism**, p. 44f]
+> -- whether in the form of bank notes, bank accounts, or credit cards -- was
+> a spontaneous process, not planned or regulated 'from above' by some central
+> authority, and for that reason alone it is impossible to treat some
+> arbitrary definition of money (which included specific forms of such money-
+> substitutes in the definition of money) as an exogenous variable. The
+> emergence of surrogate money was a spontaneous process resulting from the
+> development of the banking system; this development brought a steady
+> increase in the ratio of money substitutes of 'real' money."_ [Nicholas
+> Kaldor, **The Scourge of Monetarism** , p. 44f]
 
 This process can be seen at work in Adam Smith's time. Then Scotland was based
 on a competitive banking system in which baking firms issued their own money
@@ -487,11 +488,11 @@ and maintained their own reverse of gold. Yet, as Smith notes, they issued
 more money than was available in the banks coffers:
 
 > _"Though some of those notes [the banks issued] are continually coming back
-for payment, part of them continue to circulate for months and years together.
-Though he [the banker] has generally in circulation, therefore, notes to the
-extent of a hundred thousand pounds, twenty thousand pounds in gold and silver
-may frequently be a sufficient provision for answering occasional demands."_
-[**The Wealth of Nations**, pp. 257-8]
+> for payment, part of them continue to circulate for months and years
+> together. Though he [the banker] has generally in circulation, therefore,
+> notes to the extent of a hundred thousand pounds, twenty thousand pounds in
+> gold and silver may frequently be a sufficient provision for answering
+> occasional demands."_ [ **The Wealth of Nations** , pp. 257-8]
 
 In other words, the competitive banking system did not, in fact, eliminate
 fractional reserve banking. Ironically enough, Smith noted that _"the Bank of
@@ -514,8 +515,8 @@ profits of trade afforded a great temptation to over-trading"_ and that while
 a _"multiplication of banking companies . . . increases the security of the
 public"_ by forcing them _"to be more circumspect in their conduct"_ it also
 _"obliges all bankers to be more liberal in their dealings with their
-customers, lest their rivals should carry them away."_ [**Op. Cit.**, p. 269,
-p. 267, p. 274 and p. 294]
+customers, lest their rivals should carry them away."_ [ **Op. Cit.** , p.
+269, p. 267, p. 274 and p. 294]
 
 Thus the banks were pulled in two directions at once, to accommodate their
 loan customers and make more profits while being circumspect in their
@@ -531,7 +532,7 @@ money passed."_ This lead to _"thousands of decentralised banks . . . hoarding
 reserves"_ and so _"starving the system of liquidity precisely at the moment
 it was most badly needed"_ while _"the up cycles were also extraordinary,
 powered by loose credit and kinky currencies (like privately issued
-banknotes)."_ [Doug Henwood, **Op. Cit.**, p. 93 and p. 94]
+banknotes)."_ [Doug Henwood, **Op. Cit.** , p. 93 and p. 94]
 
 As Nicholas Kaldor argued, _"the essential function of banks in the creation
 of 'finance' (or credit) was well understood by Adam Smith, who . . . regarded
@@ -546,13 +547,13 @@ This process, however, was unstable which naturally lead to the rise of
 central banks. _"Since the notes issued by some banks were found more
 acceptable than those of others, giving rise to periodic payments crises and
 uncertainty, it was sooner or later everywhere found necessary to concentrate
-the right of issuing bank notes in the hands of a single institution."_ [_"How
-Monetarism Failed,"_ **Further Essays on Economic Theory and Policy**, p. 181]
-In addition, from an anarchist perspective, no ruling class wants economic
-instability to undermine its wealth and income generating ability (Doug
-Henwood provides a useful summary of this process, and the arguments used to
-justify it within the American ruling class, for the creation of the US
-Federal Reserve at the start of the 20th century. [**Wall Street**, pp.
+the right of issuing bank notes in the hands of a single institution."_ [
+_"How Monetarism Failed,"_ **Further Essays on Economic Theory and Policy** ,
+p. 181] In addition, from an anarchist perspective, no ruling class wants
+economic instability to undermine its wealth and income generating ability
+(Doug Henwood provides a useful summary of this process, and the arguments
+used to justify it within the American ruling class, for the creation of the
+US Federal Reserve at the start of the 20th century. [ **Wall Street** , pp.
 92-5]). Nor would any ruling class want too easy credit undermining its power
 over the working class by holding down unemployment too long (or allowing
 working class people to create their own financial institutions).
@@ -594,16 +595,16 @@ the business cycle. Secondly, the radical position stresses that the role of
 credit reflect deeper causes. Paul Mattick gives the correct analysis:
 
 > _"[M]oney and credit policies can themselves change nothing with regard to
-profitability or insufficient profits. Profits come only from production, from
-the surplus value produced by workers . . . The expansion of credit has always
-been taken as a sign of a coming crisis, in the sense that it reflected the
-attempt of individual capital entities to expand despite sharpening
-competition, and hence survive the crisis. . . Although the expansion of
-credit has staved off crisis for a short time, it has never prevented it,
-since ultimately it is the real relationship between total profits and the
-needs of social capital to expand in value which is the decisive factor, and
-that cannot be altered by credit."_ [**Economics, Politics and the Age of
-Inflation**, pp. 17-18]
+> profitability or insufficient profits. Profits come only from production,
+> from the surplus value produced by workers . . . The expansion of credit has
+> always been taken as a sign of a coming crisis, in the sense that it
+> reflected the attempt of individual capital entities to expand despite
+> sharpening competition, and hence survive the crisis. . . Although the
+> expansion of credit has staved off crisis for a short time, it has never
+> prevented it, since ultimately it is the real relationship between total
+> profits and the needs of social capital to expand in value which is the
+> decisive factor, and that cannot be altered by credit."_ [ **Economics,
+> Politics and the Age of Inflation** , pp. 17-18]
 
 In short, the apologists of capitalism confuse the symptoms for the disease.
 
@@ -614,7 +615,7 @@ Where there _"is no profit to be had, credit will not be sought."_ While
 extension of the credit system _"can be a factor deferring crisis, the actual
 outbreak of crisis makes it into an aggravating factor because of the larger
 amount of capital that must be devalued."_ [Paul Mattick, **Economic Crisis
-and Crisis Theory**, p. 138] But this is also a problem facing competing
+and Crisis Theory** , p. 138] But this is also a problem facing competing
 private companies using the gold standard. The money supply reflects the
 economic activity within a country and if that supply cannot adjust, interest
 rates rise and provoke a crisis. Thus the need for a flexible money supply (as
@@ -639,7 +640,7 @@ market.
 To sum up, _"[i]t is not credit but only the increase in production made
 possible by it that increases surplus value. It is then the rate of
 exploitation which determines credit expansion."_ [Paul Mattick, **Economics,
-Politics and the Age of Inflation**, p. 18] Hence credit money would increase
+Politics and the Age of Inflation** , p. 18] Hence credit money would increase
 and decrease in line with capitalist profitability, as predicted in capitalist
 economic theory. But this could not affect the business cycle, which has its
 roots in production for capital (i.e. profit) and capitalist authority
@@ -666,8 +667,8 @@ process was aided by the fact that Keynes retained significant parts of the
 neo-classical position in his analysis and argued that the role of the state
 was limited to creating the overall conditions necessary to allow the neo-
 classical system to come _"into its own again"_ and allow capitalism _"to
-realise the full potentialities of production."_ [**The General Theory**, pp.
-378-9] Unlike many of his more radical followers, Keynes was blind to real
+realise the full potentialities of production."_ [ **The General Theory** ,
+pp. 378-9] Unlike many of his more radical followers, Keynes was blind to real
 nature of capitalism as a class based system and so failed to understand the
 functional role that unemployment plays within it (see [section
 C.1.5](secC5.md#secc15)).
@@ -704,10 +705,10 @@ their dogmas yet it ensured that any developments towards an economics based
 on science rather than ideology would be resigned to the sidelines.
 
 It is important to stress that Keynes was, first and foremost, a supporter of
-capitalism. He aimed to save it, not to end it. As he put it the _"**class
+capitalism. He aimed to save it, not to end it. As he put it the _" **class
 war** will find me on the side of the educated bourgeoisie."_ [quoted by
-Henwood, **Wall Street**, p. 212] That he presented a more accurate picture of
-capitalism and exposed some of the contradictions within neo-classical
+Henwood, **Wall Street** , p. 212] That he presented a more accurate picture
+of capitalism and exposed some of the contradictions within neo-classical
 economics is part of the reason he was and is so hated by many on the right,
 although his argument that the state should limit some of the power of
 individual firms and capitalists and redistribute some income and wealth was a
@@ -728,7 +729,7 @@ as it _"was characterised by violent booms and busts, in nearly equal measure,
 since almost half the period was one of panic and depression."_ American spent
 nearly half of the late 19th century in periods of recession and depression.
 By way of comparison, since the end of world war II, only about a fifth of the
-time has been. [Doug Henwood, **Wall Street**, p. 94 and p. 54] Between 1867
+time has been. [Doug Henwood, **Wall Street** , p. 94 and p. 54] Between 1867
 and 1900 there were 8 complete business cycles. Over these 396 months, the
 economy expanded during 199 months and contracted during 197. Hardly a sign of
 great stability. Overall, the economy went into a slump, panic or crisis in
@@ -742,7 +743,7 @@ reducing its tendency to develop into a full depression. By intervening in the
 economy, the state would reduce uncertainty for capitalists by maintaining
 overall demand which will, in turn, ensure conditions where they will invest
 their money rather than holding onto it (what Keynes termed _"liquidity-
-preference"_). In other words, to create conditions where capitalists will
+preference"_ ). In other words, to create conditions where capitalists will
 desire to invest and ensure the willingness on the part of capitalists to act
 as capitalists.
 
@@ -775,7 +776,7 @@ and agriculture, from the textile industry in the early nineteenth century,
 through the steel industry at the end of the century, to computers,
 electronics, and biotechnology today. Furthermore, the same has been true of
 every other successful industrial society."_ [Noam Chomsky, **World Orders,
-Old and New**, p. 101] The difference was that such state action was directed
+Old and New** , p. 101] The difference was that such state action was directed
 to social goals as well as bolstering capitalist profits (much to the hatred
 of the right).
 
@@ -809,7 +810,7 @@ by deficit financing does appear as additional demand, but as demand
 unaccompanied by a corresponding increase in total profits. . . [this]
 functions immediately as an increase in demand that stimulates the economy as
 a whole and can become the point for a new prosperity"_ if objective
-conditions allow it. [**Economic Crisis and Crisis Theory**, p. 143]
+conditions allow it. [ **Economic Crisis and Crisis Theory** , p. 143]
 
 State intervention can, in the short term, postpone crises by stimulating
 production. This can be seen from the in 1930s New Deal period under Roosevelt
@@ -820,14 +821,14 @@ grew by 6.4 percent). The 1938 slump after 3 years of growth under Roosevelt
 was due to a decrease in state intervention:
 
 > _"The forces of recovery operating within the depression, as well as the
-decrease in unemployment via public expenditures, increased production up to
-the output level of 1929. This was sufficient for the Roosevelt administration
-to drastically reduce public works . . . in a new effort to balance the budget
-in response to the demands of the business world. . . The recovery proved to
-be short-lived. At the end of 1937 the Business Index fell from 110 to 85,
-bringing the economy back to the state in which it had found itself in 1935 .
-. . Millions of workers lost their jobs once again."_ [Paul Mattick,
-**Economics, Politics and the Age of Inflation**, p. 138]
+> decrease in unemployment via public expenditures, increased production up to
+> the output level of 1929. This was sufficient for the Roosevelt
+> administration to drastically reduce public works . . . in a new effort to
+> balance the budget in response to the demands of the business world. . . The
+> recovery proved to be short-lived. At the end of 1937 the Business Index
+> fell from 110 to 85, bringing the economy back to the state in which it had
+> found itself in 1935 . . . Millions of workers lost their jobs once again."_
+> [Paul Mattick, **Economics, Politics and the Age of Inflation** , p. 138]
 
 The rush to war made Keynesian policies permanent. With the success of state
 intervention during the second world war, Keynesianism was seen as a way of
@@ -857,7 +858,7 @@ markets for goods as well as transferring wealth from the working class to
 capital via indirect taxation and inflation. In the long run, however,
 Keynesian _"management of the economy by means of monetary and credit policies
 and by means of state-induced production must eventually find its end in the
-contradictions of the accumulation process."_ [Paul Mattick, **Op. Cit.**, p.
+contradictions of the accumulation process."_ [Paul Mattick, **Op. Cit.** , p.
 18] This is because it cannot stop the tendency to (relative) over-investment,
 disproportionalities and profits squeeze we outlined in [section
 C.7](secC7.md). In fact, due to its maintenance of full employment it
@@ -913,28 +914,29 @@ funding while social spending was more important as Social Democratic parties
 attempted to introduce reforms. Chomsky describes the process in the USA:
 
 > _"Business leaders recognised that social spending could stimulate the
-economy, but much preferred the military Keynesian alternative -- for reasons
-having to do with privilege and power, not 'economic rationality.' This
-approach was adopted at once, the Cold War serving as the justification. . . .
-The Pentagon system was considered ideal for these purposes. It extends well
-beyond the military establishment, incorporating also the Department of
-Energy. . . and the space agency NASA, converted by the Kennedy administration
-to a significant component of the state-directed public subsidy to advanced
-industry. These arrangements impose on the public a large burden of the costs
-of industry (research and development, R&amp;D) and provide a guaranteed
-market for excess production, a useful cushion for management decisions.
-Furthermore, this form of industrial policy does not have the undesirable
-side-effects of social spending directed to human needs. Apart from unwelcome
-redistributive effects, the latter policies tend to interfere with managerial
-prerogatives; useful production may undercut private gain, while state-
-subsidised waste production. . . is a gift to the owner and manager, to whom
-any marketable spin-offs will be promptly delivered. Social spending may also
-arouse public interest and participation, thus enhancing the threat of
-democracy. . . The defects of social spending do not taint the military
-Keynesian alternative. For such reasons, **Business Week** explained, 'there's
-a tremendous social and economic difference between welfare pump-priming and
-military pump-priming,' the latter being far preferable."_ [**World Orders,
-Old and New**, pp. 100-1]
+> economy, but much preferred the military Keynesian alternative -- for
+> reasons having to do with privilege and power, not 'economic rationality.'
+> This approach was adopted at once, the Cold War serving as the
+> justification. . . . The Pentagon system was considered ideal for these
+> purposes. It extends well beyond the military establishment, incorporating
+> also the Department of Energy. . . and the space agency NASA, converted by
+> the Kennedy administration to a significant component of the state-directed
+> public subsidy to advanced industry. These arrangements impose on the public
+> a large burden of the costs of industry (research and development, R &D) and
+> provide a guaranteed market for excess production, a useful cushion for
+> management decisions. Furthermore, this form of industrial policy does not
+> have the undesirable side-effects of social spending directed to human
+> needs. Apart from unwelcome redistributive effects, the latter policies tend
+> to interfere with managerial prerogatives; useful production may undercut
+> private gain, while state-subsidised waste production. . . is a gift to the
+> owner and manager, to whom any marketable spin-offs will be promptly
+> delivered. Social spending may also arouse public interest and
+> participation, thus enhancing the threat of democracy. . . The defects of
+> social spending do not taint the military Keynesian alternative. For such
+> reasons, **Business Week** explained, 'there's a tremendous social and
+> economic difference between welfare pump-priming and military pump-priming,'
+> the latter being far preferable."_ [ **World Orders, Old and New** , pp.
+> 100-1]
 
 Over time, social Keynesianism took increasing hold even in the USA, partly in
 response to working class struggle, partly due to the need for popular support
@@ -943,12 +945,12 @@ at elections and partly due to _"[p]opular opposition to the Vietnam war
 which might have made it possible to complete the conquest without harm to the
 domestic economy. Washington was forced to fight a 'guns-and-butter' war to
 placate the population, at considerable economic cost."_ [Chomsky, **Op.
-Cit.**, pp. 157-8]
+Cit.** , pp. 157-8]
 
 Social Keynesianism directs part of the total surplus value to workers and
 unemployed while military Keynesianism transfers surplus value from the
-general population to capital and from capital to capital. This allows R&amp;D
-and capital to be publicly subsidised, as well as essential but unprofitable
+general population to capital and from capital to capital. This allows R&D and
+capital to be publicly subsidised, as well as essential but unprofitable
 capital to survive. As long as real wages did not exceed a rise in
 productivity, Keynesianism would continue. However, both functions have
 objective limits as the transfer of profits from successful capital to
@@ -991,31 +993,29 @@ power at the point of production and, consequently, prices. To quote Joan
 Robinson from 1943:
 
 > _"The first function of unemployment (which has always existed in open or
-disguised forms) is that it maintains the authority of master over man. The
-master has normally been in a position to say: 'If you don't want the job,
-there are plenty of others who do.' When the man can say: 'If you don't want
-to employ me, there are plenty of others who will', the situation is radically
-altered. One effect of such a change might be to remove a number of abuses to
-which the workers have been compelled to submit in the past . . . [Another is
-that] the absence of fear of unemployment might go further and have a
-disruptive effect upon factory discipline . . . [He may] us[e] his newly-found
-freedom from fear to snatch every advantage that he can . . .  
+> disguised forms) is that it maintains the authority of master over man. The
+> master has normally been in a position to say: 'If you don't want the job,
+> there are plenty of others who do.' When the man can say: 'If you don't want
+> to employ me, there are plenty of others who will', the situation is
+> radically altered. One effect of such a change might be to remove a number
+> of abuses to which the workers have been compelled to submit in the past . .
+> . [Another is that] the absence of fear of unemployment might go further and
+> have a disruptive effect upon factory discipline . . . [He may] us[e] his
+> newly-found freedom from fear to snatch every advantage that he can . . .  
 >  _
-
 >
-
 > _"The change in the workers' bargaining position which would follow from the
-abolition of unemployment would show itself in another and more subtle way.
-Unemployment . . . has not only the function of preserving discipline in
-industry, but also indirectly the function of preserving the value of money .
-. . there would be a constant upward pressure upon money wage-rates . . . the
-vicious spiral of wages and prices might become chronic . . . if it moved too
-fast, it might precipitate a violent inflation."_ [**Collected Economic
-Papers**, vol. 1, pp. 84-5]
+> abolition of unemployment would show itself in another and more subtle way.
+> Unemployment . . . has not only the function of preserving discipline in
+> industry, but also indirectly the function of preserving the value of money
+> . . . there would be a constant upward pressure upon money wage-rates . . .
+> the vicious spiral of wages and prices might become chronic . . . if it
+> moved too fast, it might precipitate a violent inflation."_ [ **Collected
+> Economic Papers** , vol. 1, pp. 84-5]
 
 Thus left-wing Keynesians (who later founded the Post-Keynesian school of
 economics) recognised that capitalists _"could recoup themselves for rising
-costs by raising prices."_ [**Op. Cit.**, p. 85] This perspective was
+costs by raising prices."_ [ **Op. Cit.** , p. 85] This perspective was
 reflected in a watered-down fashion in mainstream economics by means of the
 Philips Curve. When first suggested in the 1958, this was taken to indicate a
 stable relationship between unemployment and inflation. As unemployment fell,
@@ -1034,11 +1034,11 @@ itself ironically proved there is no relationship). Inflation has other roots,
 namely it is _"an expression of inadequate profits that must be offset by
 price and money policies . . . Under any circumstances, inflation spells the
 need for higher profits."_ [Paul Mattick, **Economics, Politics and the Age of
-Inflation**, p. 19] Inflation leads to higher profits by making labour
+Inflation** , p. 19] Inflation leads to higher profits by making labour
 cheaper. That is, it reduces _"the real wages of workers. . . [which] directly
 benefits employers. . . [as] prices rise faster than wages, income that would
 have gone to workers goes to business instead."_ [J. Brecher and T. Costello,
-**Common Sense for Hard Times**, p. 120]
+**Common Sense for Hard Times** , p. 120]
 
 Inflation, in other words, is a symptom of an on-going struggle over income
 distribution between classes. It is caused when capitalist profit margins are
@@ -1057,7 +1057,7 @@ restraint on profits? . . . unemployment is the problem. If it could be
 relived by tax cuts, generating purchasing power, would not a general cut in
 profit margins be still more effective? These are the questions that all the
 rigmarole about marginal productivity is designed to prevent us from
-discussing."_ [**Collected Economic Papers**, vol. 4, p. 134]
+discussing."_ [ **Collected Economic Papers** , vol. 4, p. 134]
 
 Inflation and the response by the capitalist class to it, in their own ways,
 shows the hypocrisy of capitalism. After all, wages are increasing due to
@@ -1129,12 +1129,12 @@ erosion of their loan income, states were subject to economic pressures to
 place fighting inflation above maintaining full employment. While Keynes had
 hoped that _"the rentier aspect of capitalism [was] a transitional phase"_ and
 his ideas would lead to _"the euthanasia of the rentier,"_ finance capital was
-not so willing to see this happen. [**The General Theory**, p. 376] The 1970s
-saw the influence of an increasingly assertive finance capital rise at a time
-when significant numbers within ranks of industrial capitalists were sick of
-full employment and wanted compliant workers again. The resulting recessions
-may have harmed individual capitalists (particularly smaller ones) but the
-capitalist class as a whole did very well of them (and, as we noted in
+not so willing to see this happen. [ **The General Theory** , p. 376] The
+1970s saw the influence of an increasingly assertive finance capital rise at a
+time when significant numbers within ranks of industrial capitalists were sick
+of full employment and wanted compliant workers again. The resulting
+recessions may have harmed individual capitalists (particularly smaller ones)
+but the capitalist class as a whole did very well of them (and, as we noted in
 [section B.2](secB2.md), one of the roles of the state is to manage the
 system in the interests of the capitalist class **as a whole** and this can
 lead it into conflict with **some** members of that class). Thus the
@@ -1145,7 +1145,7 @@ economy and a slightly lower rate of unemployment than finance capital, the
 differences are not significant enough to inspire major conflict. After all,
 bosses in any industry _"like slack in the labour market"_ as it _"makes for a
 pliant workforce"_ and, of course, _"many non-financial corporations have
-heavy financial interests."_ [Doug Henwood, **Wall Street**, pp. 123-4 and p.
+heavy financial interests."_ [Doug Henwood, **Wall Street** , pp. 123-4 and p.
 135]
 
 It was these processes and pressures which came to a head in the 1970s. In
@@ -1175,12 +1175,12 @@ implemented were ostensibly to combat high inflation. However, as left-wing
 economist Nicholas Kaldor summarised, inflation may have dropped but this lay
 _"in their success in transforming the labour market from a twentieth-century
 sellers' market to a nineteenth-century buyers' market, with wholesome effects
-on factory discipline, wage claims, and proneness to strike."_ [**The Scourge
-of Monetarism**, p. xxiii] Another British economist described this policy
+on factory discipline, wage claims, and proneness to strike."_ [ **The Scourge
+of Monetarism** , p. xxiii] Another British economist described this policy
 memorably as _"deliberately setting out to base the viability of the
 capitalist system on the maintenance of a large 'industrial reserve army' [of
 the unemployed] . . . [it is] the incomes policy of Karl Marx."_ [Thomas
-Balogh, **The Irrelevance of Conventional Economics**, pp. 177-8] The aim, in
+Balogh, **The Irrelevance of Conventional Economics** , pp. 177-8] The aim, in
 summary, was to swing the balance of social, economic and political power back
 to capital and ensure the road to (private) serfdom was followed. The
 rationale was fighting inflation.
@@ -1197,14 +1197,14 @@ the 1960s and 1970s was overcome and replaced with, to use Kropotkin's words,
 the _"liberty to exploit human labour without any safeguard for the victims of
 such exploitation and the political power organised as to assure freedom of
 exploitation to the middle-class."_ [Kropotkin, **The Great French
-Revolution**, vol.1, p. 28 and p. 30]
+Revolution** , vol.1, p. 28 and p. 30]
 
 Fighting inflation, in other words, was simply code used by the ruling class
 for fighting the class war and putting the working class back in its place in
 the social hierarchy. _"Behind the economic concept of inflation was a fear
 among elites that they were losing control"_ as the _"sting of unemployment
 was lessened and workers became progressively less docile."_ [Doug Henwood,
-**After the New Economy**, p. 204] Milton Friedman's Monetarism was the means
+**After the New Economy** , p. 204] Milton Friedman's Monetarism was the means
 by which this was achieved. While (deservedly) mostly forgotten now,
 Monetarism was very popular in the 1970s and was the economic ideology of
 choice of both Reagan and Thatcher. This was the economic justification for
@@ -1229,7 +1229,7 @@ economic activity (for example, if the economy grew by 2% but the money supply
 increased by 5%, inflation would rise by 3%). This analysis of inflation is
 deeply flawed, as we will see. This was how Friedman explained the Great
 Depression of the 1930s in the USA, for example (see, for example, his _"The
-Role of Monetary Policy"_ [**American Economic Review**, Vol. 68, No. 1, pp.
+Role of Monetary Policy"_ [ **American Economic Review** , Vol. 68, No. 1, pp.
 1-17]).
 
 Thus Monetarists argued for controlling the money supply, of placing the state
@@ -1244,8 +1244,8 @@ eliminated. Money would go back to being what it is in neo-classical theory,
 essentially neutral, a link between production and consumption and capable of
 no mischief on its own. Hence the need for a _"legislated rule"_ which would
 control _"the behaviour of the stock of money"_ by _"instructing the monetary
-authority to achieve a specified rate of growth in the stock of money."_
-[**Capitalism and Freedom**, p. 54]
+authority to achieve a specified rate of growth in the stock of money."_ [
+**Capitalism and Freedom** , p. 54]
 
 Unfortunately for Monetarism, its analysis was simply wrong. It cannot be
 stressed enough how deeply flawed and ideological Friedman's arguments were.
@@ -1255,11 +1255,11 @@ _"none of the assumptions which Friedman made to reach his extraordinary
 conclusions bears any relation to reality. They were chosen precisely because
 they led to the desired conclusion, that inflation is a purely monetary
 phenomenon, originating solely in excess monetary demand."_ [Thomas Balogh,
-**Op. Cit.**, p. 165 and p. 167] For Kaldor, Friedman's claims that empirical
+**Op. Cit.** , p. 165 and p. 167] For Kaldor, Friedman's claims that empirical
 evidence supported his ideology were false. _"Friedman's assertions lack[ed]
 any factual foundation whatsoever."_ He stressed, _"They ha[d] no basis in
-fact, and he seems to me have invented them on the spur of the moment."_
-[**Op. Cit.**, p. 26] There was no relationship between the money supply and
+fact, and he seems to me have invented them on the spur of the moment."_ [
+**Op. Cit.** , p. 26] There was no relationship between the money supply and
 inflation.
 
 Even more unfortunately for both the theory and (far more importantly) vast
@@ -1269,17 +1269,17 @@ early 1980s, with disastrous results. As the Thatcher government in 1979
 applied Monetarist dogma the most whole-heartedly we will concentrate on that
 regime (the same basic things occurred under Reagan as well but he embraced
 military Keynesianism sooner and so mitigated its worse effects. [Michael
-Stewart, **Keynes and After**, p. 181] This did not stop the right proclaiming
-the Reagan boom as validation of "free market" economics!).
+Stewart, **Keynes and After** , p. 181] This did not stop the right
+proclaiming the Reagan boom as validation of "free market" economics!).
 
 Firstly, the attempt to control the money supply failed, as predicted by
-Nicholas Kaldor (see his 1970 essay _"The New Monetarism"_). This is because
+Nicholas Kaldor (see his 1970 essay _"The New Monetarism"_ ). This is because
 the money supply, rather than being set by the central bank or the state (as
 Friedman claimed), is a function of the demand for credit, which is itself a
 function of economic activity. To use economic terminology, Friedman had
 assumed that the money supply was "exogenous" and so determined outside the
 economy by the state when, in fact, it is "endogenous" in nature (i.e. comes
-from **within** the economy). [**The Essential Kaldor**, p. 483] This means
+from **within** the economy). [ **The Essential Kaldor** , p. 483] This means
 that any attempt by the central bank to control the money supply, as desired
 by Friedman, will fail.
 
@@ -1297,9 +1297,9 @@ Gilmore pointed out, _"[h]ad Friedmanite monetarism. . . been right, inflation
 would have been about 16 per cent in 1982-3, 11 per cent in 1983-4, and 8 per
 cent in 1984-5. In fact . . . in the relevant years it never approached the
 levels infallibly predicted by monetarist doctrine."_ [Ian Gilmore, **Dancing
-With Dogma**, p. 57 and pp. 62-3] So, as Henwood summarises, _"even the
-periods of recession and recovery disprove monetarist dogma."_ [**Wall
-Street**, p. 202]
+With Dogma** , p. 57 and pp. 62-3] So, as Henwood summarises, _"even the
+periods of recession and recovery disprove monetarist dogma."_ [ **Wall
+Street** , p. 202]
 
 However, the failed attempt to control the money supply had other, more
 important effects, namely exploding interest and unemployment rates. Being
@@ -1311,7 +1311,7 @@ interest rates in its attempts to control the money supply, it was profitable
 for people to put more money on deposit. Thus the rise in interest rates
 promoted people to put money in the bank, so increasing the particular measure
 of the money supply the government sought to control which, in turn, lead them
-to increase interest rates. [Michael Stewart, **Keynes in the 1990s**, p. 50]
+to increase interest rates. [Michael Stewart, **Keynes in the 1990s** , p. 50]
 
 The exploding interest rates used in a vain attempt to control the money
 supply was the last thing Britain needed in the early 1980s. The economy was
@@ -1319,17 +1319,17 @@ already sliding into recession and government attempts to control the money
 supply deepened it. While Milton Friedman predicted _"only a modest reduction
 in output and employment"_ as a _"side effect of reducing inflation to single
 figures by 1982,"_ in fact Britain experienced its deepest recession since the
-1930s. [quoted by Michael Stewart, **Keynes and After**, p. 179] As Michael
+1930s. [quoted by Michael Stewart, **Keynes and After** , p. 179] As Michael
 Stewart dryly notes, it _"would be difficult to find an economic prediction
 that that proved more comprehensively inaccurate."_ Unemployment rose from
 around 5% in 1979 to 13% in the middle of 1985 (and would have been even
 higher but for a change in the method used for measuring it, a change
 implemented to knock numbers off of this disgraceful figure). In 1984
-manufacturing output was still 10% lower than it had been in 1979. [**Op.
-Cit.**, p. 180] Little wonder Kaldor stated that Monetarism was _"a terrible
+manufacturing output was still 10% lower than it had been in 1979. [ **Op.
+Cit.** , p. 180] Little wonder Kaldor stated that Monetarism was _"a terrible
 curse, a visitation of evil spirits, with particularly unfortunate, one could
-almost say devastating, effects on"_ Britain. [_"The Origins of the New
-Monetarism,"_ pp. 160-177, **Further Essays on Economic Theory and Policy**,
+almost say devastating, effects on"_ Britain. [ _"The Origins of the New
+Monetarism,"_ pp. 160-177, **Further Essays on Economic Theory and Policy** ,
 p. 160]
 
 Eventually, inflation did fall. From an anarchist perspective, however, this
@@ -1355,13 +1355,13 @@ It is also of interest to note that even in Friedman's own test case of his
 basic contention, the Great Depression of 1929-33, he got it wrong. For
 Friedman, the _"fact is that the Great Depression, like most other periods of
 severe unemployment, was produced by government mismanagement rather than by
-any inherent instability of the private economy."_ [**Op. Cit.**, p. 54]
+any inherent instability of the private economy."_ [ **Op. Cit.** , p. 54]
 Kaldor pointed out that _"[a]ccording to Friedman's own figures, the amount of
 'high-powered money'. . . in the US increased, not decreased, throughout the
 Great Contraction: in July 1932, it was more than 10 per cent higher than in
 July, 1929 . . . The Great Contraction of the money supply . . . occurred
-**despite** this increase in the monetary base."_ [_"The New Monetarism"_,
-**The Essential Kaldor**, pp. 487-8] Other economists also investigated
+**despite** this increase in the monetary base."_ [ _"The New Monetarism"_ ,
+**The Essential Kaldor** , pp. 487-8] Other economists also investigated
 Friedman's claims, with similar result. Peter Temin, for example, critiqued
 them from a Keynesian point of view, asking whether the decline in spending
 resulted from a decline in the money supply or the other way round. He noted
@@ -1373,8 +1373,8 @@ found that they increased between 1929 and 1931 from between 1 and 18%
 (depending on choice of money aggregate used and how it was deflated).
 Overall, the money supply not only did not decline but actually increased 5%
 between August 1929 and August 1931. Temin concluded that there is no evidence
-that money caused the depression after the stock market crash. [**Did Monetary
-Forces Cause the Great Depression?**, pp. 15-6 and p. 141]
+that money caused the depression after the stock market crash. [ **Did
+Monetary Forces Cause the Great Depression?** , pp. 15-6 and p. 141]
 
 There is, of course, a slight irony about Friedman's account of the Great
 Depression. Friedman suggested that the Federal Reserve actually caused the
@@ -1406,13 +1406,13 @@ so the rich get richer is your definition of sound economic policy. As Doug
 Henwood summarises, there _"can be no doubt that monetarism . . . throughout
 the world from the Chilean coup onward, has been an important part of a
 conscious policy to crush labour and redistribute income and power toward
-capital."_ [**Wall Street**, pp. 201-2]
+capital."_ [ **Wall Street** , pp. 201-2]
 
 For more on Monetarism, the work of its greatest critic, Nicholas Kaldor, is
 essential reading (see for example, _"Origins of the new Monetarism"_ and
-_"How Monetarism Failed"_ in **Further Essays on Economic Theory and Policy**,
-_"The New Monetarism"_ in **The Essential Kaldor** and **The Scourge of
-Monetarism**).
+_"How Monetarism Failed"_ in **Further Essays on Economic Theory and Policy**
+, _"The New Monetarism"_ in **The Essential Kaldor** and **The Scourge of
+Monetarism** ).
 
 So under the rhetoric of "free market" capitalism, Keynesianism was used to
 manage the crisis as it had previously managed the prosperity. "Supply Side"
@@ -1444,7 +1444,7 @@ Unsurprisingly 70% of the recent gain in per capita income in the Reagan-Bush
 years went to the top 1% of income earners (while the bottom lost absolutely).
 Income inequality increased, with the income of the bottom fifth of the US
 population falling by 18% while that of the richest fifth rose by 8%. [Noam
-Chomsky, **World Orders, Old and New**, p. 141] Combined with bubbles in
+Chomsky, **World Orders, Old and New** , p. 141] Combined with bubbles in
 stocks and housing, the illusion of a good economy is maintained while only
 those at the top are doing well (see [section B.7](secB7.md) on rising
 inequality). This disciplining of the working class has been successful,
@@ -1463,7 +1463,7 @@ markets. Indirect taxation also increased, reducing working class consumption
 by getting us to foot the bill for capitalist restructuring as well as
 military-style Keynesianism. Internationally, the exploitation of under-
 developed nations increased with $418 billion being transferred to the
-developed world between 1982 and 1990 [Chomsky, **Op. Cit.**, p. 130] Capital
+developed world between 1982 and 1990 [Chomsky, **Op. Cit.** , p. 130] Capital
 also became increasingly international in scope, as it used advances in
 technology to move capital to third world countries where state repression
 ensured a less militant working class. This transfer had the advantage of
@@ -1486,8 +1486,8 @@ doctrine thus becomes an essential ideological weapon at home as well, its
 highly selective application safely obscured by the doctrinal system. Wealth
 and power are increasingly concentrated. Service for the general public -
 education, health, transportation, libraries, etc. -- become as superfluous as
-those they serve, and can therefore be limited or dispensed with entirely."_
-[**Year 501**, p. 109]
+those they serve, and can therefore be limited or dispensed with entirely."_ [
+**Year 501** , p. 109]
 
 The state managed recession has had its successes. Company profits are up as
 the _"competitive cost"_ of workers is reduced due to fear of job losses. The
@@ -1499,8 +1499,8 @@ record profits in 1994. **Business Week** estimated 1994 profits to be up _"an
 enormous 41% over [1993],"_ despite a bare 9% increase in sales, a _"colossal
 success,"_ resulting in large part from a _"sharp"_ drop in the _"share going
 to labour,"_ though _"economists say labour will benefit -- eventually."_
-[quoted by Noam Chomsky, _"Rollback III"_, **Z Magazine**, April 1995] Labour
-was still waiting over a decade later.
+[quoted by Noam Chomsky, _"Rollback III"_ , **Z Magazine** , April 1995]
+Labour was still waiting over a decade later.
 
 Moreover, for capital, Keynesianism is still goes on as before, combined (as
 usual) with praises to market miracles. For example, Michael Borrus, co-
@@ -1511,15 +1511,15 @@ industries from 1972 to 1988 were sponsored or sustained, directly or
 indirectly, by federal investment."_ He goes on to state that the _"winners
 [in earlier years were] computers, biotechnology, jet engines, and airframes"_
 all _"the by-product of public spending."_ [quoted by Chomsky, **World Orders,
-Old and New**, p. 109] As James Midgley points out, _"the aggregate size of
+Old and New** , p. 109] As James Midgley points out, _"the aggregate size of
 the public sector did not decrease during the 1980s and instead, budgetary
 policy resulted in a significant shift in existing allocations from social to
-military and law enforcement."_ [_"The radical right, politics and society"_,
-**The Radical Right and the Welfare State**, Howard Glennerster and James
-Midgley (eds.), p. 11] Indeed, the US state funds one third of all civil
-R&amp;D projects, and the UK state provides a similar subsidy. [Chomsky, **Op.
-Cit.**, p. 107] And, of course, the state remains waiting to save the elite
-from their own market follies (for example, after the widespread collapse of
+military and law enforcement."_ [ _"The radical right, politics and society"_
+, **The Radical Right and the Welfare State** , Howard Glennerster and James
+Midgley (eds.), p. 11] Indeed, the US state funds one third of all civil R&D
+projects, and the UK state provides a similar subsidy. [Chomsky, **Op. Cit.**
+, p. 107] And, of course, the state remains waiting to save the elite from
+their own market follies (for example, after the widespread collapse of
 Savings and Loans Associations in deregulated corruption and speculation, the
 1980s pro-"free market" Republican administration happily bailed them out,
 showing that market forces were only for one class).
@@ -1535,10 +1535,10 @@ age of Keynes, but social Keynesianism has been replaced by military
 Keynesianism cloaked beneath the rhetoric of "free market" dogma. This is a
 mix of free(r) markets (for the many) and varying degrees of state
 intervention (for the select few), while the state has become stronger and
-more centralised (_"prisons also offer a Keynesian stimulus to the economy,
+more centralised ( _"prisons also offer a Keynesian stimulus to the economy,
 both to the construction business and white collar employment; the fastest
 growing profession is reported to be security personnel."_ [Chomsky, **Year
-501**, p. 110]). In other words, pretty much the same situation that has
+501** , p. 110]). In other words, pretty much the same situation that has
 existed since the dawn of capitalism (see [section D.1](secD1.md)) --
 free(r) markets supported by ready use of state power as and when required.
 
@@ -1567,17 +1567,17 @@ Robinson put it in the 1970s when this process started the _"economists have
 relapsed into the slogans of laisser faire -- what is profitable promotes
 growth; what is most profitable is best. But people have began to notice that
 the growth of statistical GNP is not the same thing as an increase in
-welfare."_ [**Collected Economic Papers**, vol. 4, p. 128] Yet even here, the
-post-1970s experience is not great. A quarter century of top heavy growth in
-which the vast majority of economic gains have gone to the richest 10% of the
-population has not produced the rate of GDP growth promised for it. In fact,
-the key stimulus for growth in the 1990s and 2000s was bubbles, first in the
-stock market and then in the housing market. Moreover, rising personal debt
-has bolstered the economy in a manner which are as unsustainable as the stock
-and housing bubbles which, in part, supported it. How long the system will
-stagger on depends, ultimately, on how long working class people will put up
-with it and having to pay the costs inflicted onto society and the environment
-in the pursuit of increasing the wealth of the few.
+welfare."_ [ **Collected Economic Papers** , vol. 4, p. 128] Yet even here,
+the post-1970s experience is not great. A quarter century of top heavy growth
+in which the vast majority of economic gains have gone to the richest 10% of
+the population has not produced the rate of GDP growth promised for it. In
+fact, the key stimulus for growth in the 1990s and 2000s was bubbles, first in
+the stock market and then in the housing market. Moreover, rising personal
+debt has bolstered the economy in a manner which are as unsustainable as the
+stock and housing bubbles which, in part, supported it. How long the system
+will stagger on depends, ultimately, on how long working class people will put
+up with it and having to pay the costs inflicted onto society and the
+environment in the pursuit of increasing the wealth of the few.
 
 While working class resistance continues, it is largely defensive, but, as in
 the past, this can and will change. Even the darkest night ends with the dawn
@@ -1594,6 +1594,6 @@ recession, working class people are still fighting back. The job for
 anarchists to is encourage these sparks of liberty and help them win.
 
 [‹ C.7 What causes the capitalist business cycle?](secC7.md "Go to previous
-page" ) [up](secCcon.md "Go to parent page" ) [C.9 Would laissez-faire
-capitalism reduce unemployment? ›](secC9.md "Go to next page" )
+page") [up](secCcon.md "Go to parent page") [C.9 Would laissez-faire
+capitalism reduce unemployment? ›](secC9.md "Go to next page")
 

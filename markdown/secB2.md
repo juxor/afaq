@@ -7,15 +7,13 @@ capitalism, the other, the state. These two forms of authority have a
 symbiotic relationship and cannot be easily separated:
 
 > _"[T]he State . . . and Capitalism are facts and conceptions which we cannot
-separate from each other. In the course of history these institutions have
-developed, supporting and reinforcing each other.  
+> separate from each other. In the course of history these institutions have
+> developed, supporting and reinforcing each other.  
 >  _
-
 >
-
 > _"They are connected with each other -- not as mere accidental co-
-incidences. They are linked together by the links of cause and effect."_
-[Kropotkin, **Evolution and Environment**, p. 94]
+> incidences. They are linked together by the links of cause and effect."_
+> [Kropotkin, **Evolution and Environment** , p. 94]
 
 In this section, in consequence, as well as explaining why anarchists oppose
 the state, we will necessarily have to analyse the relationship between it and
@@ -28,41 +26,41 @@ their own affairs, the control over their personal behaviour, the
 responsibility for their personal safety, are taken away from the people and
 entrusted to others who, by usurpation or delegation, are vested with the
 power to make laws for everything and everybody, and to oblige the people to
-observe them, if need be, by the use of collective force."_ [**Anarchy**, p.
+observe them, if need be, by the use of collective force."_ [ **Anarchy** , p.
 17]
 
 He continues:
 
-> _ "For us, government [or the state] is made up of all the governors; and
-the governors . . . are those who have the power to make **laws** regulating
-inter-human relations and to see that they are carried out . . . [and] who
-have the power, to a greater or lesser degree, to make use of the social
-power, that is of the physical, intellectual and economic power of the whole
-community, in order to oblige everybody to carry out their wishes. And this
-power, in our opinion, constitutes the principle of government, of
-authority."_ [**Op. Cit.**, p. 19]
+> _"For us, government [or the state] is made up of all the governors; and the
+> governors . . . are those who have the power to make **laws** regulating
+> inter-human relations and to see that they are carried out . . . [and] who
+> have the power, to a greater or lesser degree, to make use of the social
+> power, that is of the physical, intellectual and economic power of the whole
+> community, in order to oblige everybody to carry out their wishes. And this
+> power, in our opinion, constitutes the principle of government, of
+> authority."_ [ **Op. Cit.** , p. 19]
 
 Kropotkin presented a similar analysis, arguing that the state _"not only
 includes the existence of a power situated above society, but also of a
 **territorial concentration** as well as the concentration **in the hands of a
 few of many functions in the life of societies** . . . A whole mechanism of
 legislation and of policing has to be developed in order to subject some
-classes to the domination of others."_ [**The State: Its Historic Role**, p.
+classes to the domination of others."_ [ **The State: Its Historic Role** , p.
 10] For Bakunin, all states _"are in essence only machines governing the
 masses from above, through . . . a privileged minority, allegedly knowing the
-genuine interests of the people better than the people themselves."_ [**The
-Political Philosophy of Bakunin**, p. 211] On this subject Murray Bookchin
+genuine interests of the people better than the people themselves."_ [ **The
+Political Philosophy of Bakunin** , p. 211] On this subject Murray Bookchin
 writes:
 
-> _ "Minimally, the State is a professional system of social coercion -- not
-merely a system of social administration as it is still naively regarded by
-the public and by many political theorists. The word 'professional' should be
-emphasised as much as the word 'coercion.' . . . It is only when coercion is
-institutionalised into a professional, systematic and organised form of social
-control -- that is, when people are plucked out of their everyday lives in a
-community and expected not only to 'administer' it but to do so with the
-backing of a monopoly of violence -- that we can properly speak of a State."_
-[**Remaking Society**, p. 66]
+> _"Minimally, the State is a professional system of social coercion -- not
+> merely a system of social administration as it is still naively regarded by
+> the public and by many political theorists. The word 'professional' should
+> be emphasised as much as the word 'coercion.' . . . It is only when coercion
+> is institutionalised into a professional, systematic and organised form of
+> social control -- that is, when people are plucked out of their everyday
+> lives in a community and expected not only to 'administer' it but to do so
+> with the backing of a monopoly of violence -- that we can properly speak of
+> a State."_ [ **Remaking Society** , p. 66]
 
 As Bookchin indicates, anarchists reject the idea that the state is the same
 as society or that **any** grouping of human beings living and organised
@@ -71,21 +69,22 @@ _"anarchists are generally upbraided for wanting to 'destroy society' and of
 advocating a return to 'the permanent war of each against all.'"_ Such a
 position _"overlook[s] the fact that Man lived in Societies for thousands of
 years before the State had been heard of"_ and that, consequently, the State
-_"is only one of the forms assumed by society in the course of history."_
-[**Op. Cit.**, p. 10]
+_"is only one of the forms assumed by society in the course of history."_ [
+**Op. Cit.** , p. 10]
 
 The state, therefore, is not just federations of individuals or peoples and
 so, as Malatesta stressed, cannot be used to describe a _"human collectively
 gathered together in a particular territory and making up what is called a
 social unit irrespective of the way the way said collectivity are grouped or
 the state of relations between them."_ It cannot be _"used simply as a synonym
-for society."_ [**Op. Cit.**, p. 17] The state is a particular form of social
-organisation based on certain key attributes and so, we argue, _"the word
-'State' . . . should be reserved for those societies with the hierarchical
-system and centralisation."_ [Peter Kropotkin, **Ethics**, p. 317f] As such,
-the state _"is a historic, transitory institution, a temporary form of
-society"_ and one whose _"utter extinction"_ is possible as the _"State is not
-society."_ [Bakunin, **Michael Bakunin: Selected Writings**, p. 151]
+for society."_ [ **Op. Cit.** , p. 17] The state is a particular form of
+social organisation based on certain key attributes and so, we argue, _"the
+word 'State' . . . should be reserved for those societies with the
+hierarchical system and centralisation."_ [Peter Kropotkin, **Ethics** , p.
+317f] As such, the state _"is a historic, transitory institution, a temporary
+form of society"_ and one whose _"utter extinction"_ is possible as the
+_"State is not society."_ [Bakunin, **Michael Bakunin: Selected Writings** ,
+p. 151]
 
 In summary, the state is a specific way in which human affairs are organised
 in a given area, a way marked by certain institutions which, in turn, have
@@ -106,7 +105,7 @@ there is not always an exact match and sometimes _"the political regime of a
 country finds itself lagging behind the economic changes that are taking
 place, and in that case it will abruptly be set aside and remodelled in a way
 appropriate to the economic regime that has been established."_ [Kropotkin,
-**Words of a Rebel**, p. 118]
+**Words of a Rebel** , p. 118]
 
 At other times, the state can change its form to protect the economic system
 it is an expression of. Thus we see democracies turn to dictatorships in the
@@ -115,16 +114,16 @@ Chile, Franco's Spain, Mussolini's Italy and Hitler's Germany are all striking
 confirmations of Bakunin's comment that while _"[n]o government could serve
 the economic interests of the bourgeoisie better than a republic,"_ that class
 would _"prefer . . . military dictatorship"_ if needed to crush _"the revolts
-of the proletariat."_ [**Bakunin on Anarchism**, p. 417]
+of the proletariat."_ [ **Bakunin on Anarchism** , p. 417]
 
 However, as much as the state may change its form it still has certain
 characteristics which identify a social institution as a state. As such, we
 can say that, for anarchists, the state is marked by three things:
 
-       1) A _**"monopoly of violence"**_ in a given territorial area;
-2) This violence having a _"professional,"_ institutional nature; and
-3) A hierarchical nature, centralisation of power and initiative into the
-hands of a few.
+1) A _**"monopoly of violence"**_ in a given territorial area;  2) This
+violence having a _"professional,"_ institutional nature; and  3) A
+hierarchical nature, centralisation of power and initiative into the hands of
+a few.
 
 Of these three aspects, the last one (its centralised, hierarchical nature) is
 the most important simply because the concentration of power into the hands of
@@ -132,8 +131,8 @@ the few ensures a division of society into government and governed (which
 necessitates the creation of a professional body to enforce that division).
 Hence we find Bakunin arguing that _"[w]ith the State there must go also . . .
 all organisation of social life from the top downward, via legislation and
-government."_ [**The Political Philosophy of Bakunin**, p. 242] In other
-words, _"the people was not governing itself."_ [Kropotkin, **Op. Cit.**, p.
+government."_ [ **The Political Philosophy of Bakunin** , p. 242] In other
+words, _"the people was not governing itself."_ [Kropotkin, **Op. Cit.** , p.
 120]
 
 This aspect implies the rest. In a state, all the people residing in an area
@@ -156,15 +155,15 @@ a hierarchical and status difference between rulers and ruled. Even if it is a
 democracy, where we suppose those who rule today are not rulers tomorrow,
 there are still differences in status. In a democratic system, only a tiny
 minority will ever have the opportunity to rule and these are invariably drawn
-from the elite."_ [Harold Barclay, **The State**, pp. 23-4]
+from the elite."_ [Harold Barclay, **The State** , pp. 23-4]
 
 Thus, the _"essence of government"_ is that _"it is a thing apart, developing
 its own interests"_ and so is _"an institution existing for its own sake,
 preying upon the people, and teaching them whatever will tend to keep it
 secure in its seat."_ [Voltairine de Cleyre, **The Voltairine de Cleyre
-Reader**, p. 27 and p. 26] And so _"despotism resides not so much in the
+Reader** , p. 27 and p. 26] And so _"despotism resides not so much in the
 **form** of the State or power as in the very **principle** of the State and
-political power."_ [Bakunin, **Op. Cit.**, p. 211]
+political power."_ [Bakunin, **Op. Cit.** , p. 211]
 
 As the state is the delegation of power into the hands of the few, it is
 obviously based on hierarchy. This delegation of power results in the elected
@@ -178,7 +177,7 @@ permanency, soon has more power than the elected officials. Therefore _"a
 highly complex state machine . . . leads to the formation of a class
 especially concerned with state management, which, using its acquired
 experience, begins to deceive the rest for its personal advantage."_
-[Kropotkin, **Selected Writings on Anarchism and Revolution**, p. 61] This
+[Kropotkin, **Selected Writings on Anarchism and Revolution** , p. 61] This
 means that those who serve the people's (so-called) servant have more power
 than those they serve, just as the politician has more power than those who
 elected him. All forms of state-like (i.e. hierarchical) organisations
@@ -193,61 +192,57 @@ subject to bureaucratic, authoritarian rule which reduces the person to an
 object or a number, **not** a unique individual with hopes, dreams, thoughts
 and feelings. As Proudhon forcefully argued:
 
-> _ "To be GOVERNED is to be kept in sight, inspected, spied upon, directed,
-law-driven, numbered, enrolled, indoctrinated, preached at, controlled,
-estimated, valued, censured, commanded, by creatures who have neither the
-right, nor the wisdom, nor the virtue to do so . . . To be GOVERNED is to be
-at every operation, at every transaction, noted, registered, enrolled, taxed,
-stamped, measured, numbered, assessed, licensed, authorised, admonished,
-forbidden, reformed, corrected, punished. It is, under the pretext of public
-utility, and in the name of the general interest, to be placed under
-contribution, trained, ransomed, exploited, monopolised, extorted, squeezed,
-mystified, robbed; then, at the slightest resistance, the first word of
-complaint, to be repressed, fined, despised, harassed, tracked, abused,
-clubbed, disarmed, choked, imprisoned, judged, condemned, shot, deported,
-sacrificed, sold, betrayed; and, to crown it all, mocked, ridiculed, outraged,
-dishonoured. That is government; that is its justice; that is its morality."_
-[**General Idea of the Revolution**, p. 294]
+> _"To be GOVERNED is to be kept in sight, inspected, spied upon, directed,
+> law-driven, numbered, enrolled, indoctrinated, preached at, controlled,
+> estimated, valued, censured, commanded, by creatures who have neither the
+> right, nor the wisdom, nor the virtue to do so . . . To be GOVERNED is to be
+> at every operation, at every transaction, noted, registered, enrolled,
+> taxed, stamped, measured, numbered, assessed, licensed, authorised,
+> admonished, forbidden, reformed, corrected, punished. It is, under the
+> pretext of public utility, and in the name of the general interest, to be
+> placed under contribution, trained, ransomed, exploited, monopolised,
+> extorted, squeezed, mystified, robbed; then, at the slightest resistance,
+> the first word of complaint, to be repressed, fined, despised, harassed,
+> tracked, abused, clubbed, disarmed, choked, imprisoned, judged, condemned,
+> shot, deported, sacrificed, sold, betrayed; and, to crown it all, mocked,
+> ridiculed, outraged, dishonoured. That is government; that is its justice;
+> that is its morality."_ [ **General Idea of the Revolution** , p. 294]
 
 Such is the nature of the state that **any** act, no matter how evil, becomes
 good if it helps forward the interests of the state and the minorities it
 protects. As Bakunin put it:
 
-> _ "**The State . . . is the most flagrant, the most cynical, and the most
-complete negation of humanity.** It shatters the universal solidarity of all
-men [and women] on the earth, and brings some of them into association only
-for the purpose of destroying, conquering, and enslaving all the rest . . .  
+> _" **The State . . . is the most flagrant, the most cynical, and the most
+> complete negation of humanity.** It shatters the universal solidarity of all
+> men [and women] on the earth, and brings some of them into association only
+> for the purpose of destroying, conquering, and enslaving all the rest . . .  
 >  _
-
 >
-
 > _"This flagrant negation of humanity which constitutes the very essence of
-the State is, from the standpoint of the State, its supreme duty and its
-greatest virtue . . . Thus, to offend, to oppress, to despoil, to plunder, to
-assassinate or enslave one's fellowman [or woman] is ordinarily regarded as a
-crime. In public life, on the other hand, from the standpoint of patriotism,
-when these things are done for the greater glory of the State, for the
-preservation or the extension of its power, it is all transformed into duty
-and virtue. And this virtue, this duty, are obligatory for each patriotic
-citizen; everyone if supposed to exercise them not against foreigners only but
-against one's own fellow citizens . . . whenever the welfare of the State
-demands it. _
-
+> the State is, from the standpoint of the State, its supreme duty and its
+> greatest virtue . . . Thus, to offend, to oppress, to despoil, to plunder,
+> to assassinate or enslave one's fellowman [or woman] is ordinarily regarded
+> as a crime. In public life, on the other hand, from the standpoint of
+> patriotism, when these things are done for the greater glory of the State,
+> for the preservation or the extension of its power, it is all transformed
+> into duty and virtue. And this virtue, this duty, are obligatory for each
+> patriotic citizen; everyone if supposed to exercise them not against
+> foreigners only but against one's own fellow citizens . . . whenever the
+> welfare of the State demands it._
 >
-
 > _"This explains why, since the birth of the State, the world of politics has
-always been and continues to be the stage for unlimited rascality and
-brigandage . . . This explains why the entire history of ancient and modern
-states is merely a series of revolting crimes; why kings and ministers, past
-and present, of all times and all countries -- statesmen, diplomats,
-bureaucrats, and warriors -- if judged from the standpoint of simply morality
-and human justice, have a hundred, a thousand times over earned their sentence
-to hard labour or to the gallows. There is no horror, no cruelty, sacrilege,
-or perjury, no imposture, no infamous transaction, no cynical robbery, no bold
-plunder or shabby betrayal that has not been or is not daily being perpetrated
-by the representatives of the states, under no other pretext than those
-elastic words, so convenient and yet so terrible: '**for reasons of
-state.**'"_ [**Bakunin on Anarchism**, pp. 133-4]
+> always been and continues to be the stage for unlimited rascality and
+> brigandage . . . This explains why the entire history of ancient and modern
+> states is merely a series of revolting crimes; why kings and ministers, past
+> and present, of all times and all countries -- statesmen, diplomats,
+> bureaucrats, and warriors -- if judged from the standpoint of simply
+> morality and human justice, have a hundred, a thousand times over earned
+> their sentence to hard labour or to the gallows. There is no horror, no
+> cruelty, sacrilege, or perjury, no imposture, no infamous transaction, no
+> cynical robbery, no bold plunder or shabby betrayal that has not been or is
+> not daily being perpetrated by the representatives of the states, under no
+> other pretext than those elastic words, so convenient and yet so terrible: '
+> **for reasons of state.** '"_ [ **Bakunin on Anarchism** , pp. 133-4]
 
 Governments habitually lie to the people they claim to represent in order to
 justify wars, reductions (if not the destruction) of civil liberties and human
@@ -270,29 +265,30 @@ its vast scope and control of deadly force, as the "ultimate" hierarchical
 structure, suffering from all the negative characteristics associated with
 authority described in the [last section](secB1.md). _"Any loical and
 straightforward theory of the State,"_ argued Bakunin, _"is essentially
-founded upon the principle of **authority**, that is the eminently
+founded upon the principle of **authority** , that is the eminently
 theological, metaphysical, and political idea that the masses, **always**
 incapable of governing themselves, must at all times submit to the beneficent
 yoke of a wisdom and a justice imposed upon them, in some way or other, from
-above."_ [**Bakunin on Anarchism**, p. 142] Such a system of authority cannot
-help being centralised, hierarchical and bureaucratic in nature. And because
-of its centralised, hierarchical, and bureaucratic nature, the state becomes a
-great weight over society, restricting its growth and development and making
-popular control impossible. As Bakunin put it:
+above."_ [ **Bakunin on Anarchism** , p. 142] Such a system of authority
+cannot help being centralised, hierarchical and bureaucratic in nature. And
+because of its centralised, hierarchical, and bureaucratic nature, the state
+becomes a great weight over society, restricting its growth and development
+and making popular control impossible. As Bakunin put it:
 
-> _ "the so-called general interests of society supposedly represented by the
-State . . . [are] in reality . . . the general and permanent negation of the
-positive interests of the regions, communes, and associations, and a vast
-number of individuals subordinated to the State . . . [in which] all the best
-aspirations, all the living forces of a country, are sanctimoniously immolated
-and interred."_ [**The Political Philosophy of Bakunin**, p. 207]
+> _"the so-called general interests of society supposedly represented by the
+> State . . . [are] in reality . . . the general and permanent negation of the
+> positive interests of the regions, communes, and associations, and a vast
+> number of individuals subordinated to the State . . . [in which] all the
+> best aspirations, all the living forces of a country, are sanctimoniously
+> immolated and interred."_ [ **The Political Philosophy of Bakunin** , p.
+> 207]
 
 That is by no means the end of it. As well as its obvious hierarchical form,
 anarchists object to the state for another, equally important, reason. This is
 its role as a defender of the economically dominant class in society against
 the rest of it (i.e. from the working class). This means, under the current
 system, the capitalists _"need the state to legalise their methods of robbery,
-to protect the capitalist system."_ [Berkman, **What is Anarchism?**, p. 16]
+to protect the capitalist system."_ [Berkman, **What is Anarchism?** , p. 16]
 The state, as we discuss in [section B.2.1](secB2.md#secb21), is the
 defender of private property (see [section B.3](secB3.md) for a discussion
 of what anarchists mean by that term and how it differs from individual
@@ -300,10 +296,10 @@ possessions).
 
 This means that in capitalist states the mechanisms of state domination are
 controlled by and for a corporate elite (and hence the large corporations are
-often considered to belong to a wider _"state-complex"_). Indeed, as we
+often considered to belong to a wider _"state-complex"_ ). Indeed, as we
 discuss in more depth in [section F.8](secF8.md), the _"State has been, and
 still is, the main pillar and the creator, direct and indirect, of Capitalism
-and its powers over the masses."_ [Kropotkin, **Evolution and Environment**,
+and its powers over the masses."_ [Kropotkin, **Evolution and Environment** ,
 p. 97] [Section B.2.3](secB2.md#secb23) indicates how this is domination is
 achieved in a representative democracy.
 
@@ -312,13 +308,13 @@ instrument of economic class rule. As Malatesta argued, while _"a special
 class (government) which, provided with the necessary means of repression,
 exists to legalise and protect the owning class from the demands of the
 workers . . . it uses the powers at its disposal to create privileges for
-itself and to subject, if it can, the owning class itself as well."_ [**Errico
-Malatesta: His Life and Ideas**, p. 183] Thus the state has interests of its
-own, distinct from and sometimes in opposition to the economic ruling elite.
-This means that both state **and** capitalism needs to be abolished, for the
-former is as much a distinct (and oppressive and exploitative) class as the
-former. This aspects of the state is discussed in [section
-B.2.6](secB2.md#secb26).
+itself and to subject, if it can, the owning class itself as well."_ [
+**Errico Malatesta: His Life and Ideas** , p. 183] Thus the state has
+interests of its own, distinct from and sometimes in opposition to the
+economic ruling elite. This means that both state **and** capitalism needs to
+be abolished, for the former is as much a distinct (and oppressive and
+exploitative) class as the former. This aspects of the state is discussed in
+[section B.2.6](secB2.md#secb26).
 
 As part of its role as defender of capitalism, the state is involved in not
 only in political domination but also in economic domination. This domination
@@ -340,7 +336,7 @@ so. This means that states, by their very nature, are top-down institutions
 which centralise power into a few hands and, as a consequence, a state _"with
 its traditions, its hierarchy, and its narrow nationalism"_ can _"not be
 utilised as an instrument of emancipation."_ [Kropotkon, **Evolution and
-Environment**, p. 78] It is for this reason that anarchists aim to create a
+Environment** , p. 78] It is for this reason that anarchists aim to create a
 new form of social organisation and life, a decentralised one based on
 decision making from the bottom-up and the elimination of hierarchy.
 
@@ -351,7 +347,7 @@ monarchies. As such it would be false to conclude that anarchists, _"in
 criticising the democratic government we thereby show our preference for the
 monarchy. We are firmly convinced that the most imperfect republic is a
 thousand times better than the most enlightened monarchy."_ [Bakunin,
-**Bakunin on Anarchism**, p. 144] However, this does not change the nature or
+**Bakunin on Anarchism** , p. 144] However, this does not change the nature or
 role of the state. Indeed, what liberties we have are **not** dependent on the
 goodwill of the state but rather the result of people standing against it and
 exercising their autonomy. Left to itself, the state would soon turn the
@@ -372,7 +368,7 @@ nature of the modern state.
 The main function of the state is to guarantee the existing social
 relationships and their sources within a given society through centralised
 power and a monopoly of violence. To use Malatesta's words, the state is
-basically _"the property owners' **gendarme.**"_ This is because there are
+basically _"the property owners' **gendarme.** "_ This is because there are
 _"two ways of oppressing men [and women]: either directly by brute force, by
 physical violence; or indirectly by denying them the means of life and thus
 reducing them to a state of surrender."_ The owning class, _"gradually
@@ -380,14 +376,15 @@ concentrating in their hands the means of production, the real sources of
 life, agriculture, industry, barter, etc., end up establishing their own power
 which, by reason of the superiority of its means . . . always ends by more or
 less openly subjecting the political power, which is the government, and
-making it into its own **gendarme.**"_ [**Op. Cit.**, p. 23, p. 21 and p. 22]
+making it into its own **gendarme.** "_ [ **Op. Cit.** , p. 23, p. 21 and p.
+22]
 
 The state, therefore, is _"the political expression of the economic
 structure"_ of society and, therefore, _"the representative of the people who
 own or control the wealth of the community and the oppressor of the people who
-do the work which creates the wealth."_ [Nicholas Walter, **About Anarchism**,
-p. 37] It is therefore no exaggeration to say that the state is the extractive
-apparatus of society's parasites.
+do the work which creates the wealth."_ [Nicholas Walter, **About Anarchism**
+, p. 37] It is therefore no exaggeration to say that the state is the
+extractive apparatus of society's parasites.
 
 The state ensures the exploitative privileges of its ruling elite by
 protecting certain economic monopolies from which its members derive their
@@ -407,7 +404,7 @@ mean that the state does not address these issues. Of course it does, but, to
 quote Kropotkin, any _"laws developed from the nucleus of customs useful to
 human communities . . . have been turned to account by rulers to sanctify
 their own domination." of the people, and maintained only by the fear of
-punishment."_ [**Anarchism**, p. 215]
+punishment."_ [ **Anarchism** , p. 215]
 
 Simply put, if the state _"presented nothing but a collection of prescriptions
 serviceable to rulers, it would find some difficulty in insuring acceptance
@@ -419,7 +416,7 @@ ruling class to give permanence to customs imposed by themselves for their own
 advantage"_ it also passes into law _"customs useful to society, customs which
 have no need of law to insure respect"_ \-- unlike those _"other customs
 useful only to rulers, injurious to the mass of the people, and maintained
-only by the fear of punishment."_ [Kropotkin, **Op. Cit.**, pp. 205-6] To use
+only by the fear of punishment."_ [Kropotkin, **Op. Cit.** , pp. 205-6] To use
 an obvious example, we find the state using the defence of an individual's
 possessions as the rationale for imposing capitalist private property rights
 upon the general public and, consequently, defending the elite and the source
@@ -448,43 +445,44 @@ domination is the authority of property owners over those who use that
 property and it is the primary function of the state to uphold that domination
 (and the social relationships that generate it). In Kropotkin's words, _"the
 rich perfectly well know that if the machinery of the State ceased to protect
-them, their power over the labouring classes would be gone immediately."_
-[**Evolution and Environment**, p. 98] Protecting private property and
+them, their power over the labouring classes would be gone immediately."_ [
+**Evolution and Environment** , p. 98] Protecting private property and
 upholding class domination are the same thing.
 
 The historian Charles Beard makes a similar point:
 
-> _ "Inasmuch as the primary object of a government, beyond mere repression of
-physical violence, is the making of the rules which determine the property
-relations of members of society, the dominant classes whose rights are thus to
-be protected must perforce obtain from the government such rules as are
-consonant with the larger interests necessary to the continuance of their
-economic processes, or they must themselves control the organs of
-government."_ ["An Economic Interpretation of the Constitution," quoted by
-Howard Zinn, **Op. Cit.**, p. 89]
+> _"Inasmuch as the primary object of a government, beyond mere repression of
+> physical violence, is the making of the rules which determine the property
+> relations of members of society, the dominant classes whose rights are thus
+> to be protected must perforce obtain from the government such rules as are
+> consonant with the larger interests necessary to the continuance of their
+> economic processes, or they must themselves control the organs of
+> government."_ ["An Economic Interpretation of the Constitution," quoted by
+> Howard Zinn, **Op. Cit.** , p. 89]
 
 This role of the state -- to protect capitalism and the property, power and
 authority of the property owner -- was also noticed by Adam Smith:
 
 > _"[T]he inequality of fortune . . . introduces among men a degree of
-authority and subordination which could not possibly exist before. It thereby
-introduces some degree of that civil government which is indispensably
-necessary for its own preservation . . . [and] to maintain and secure that
-authority and subordination. The rich, in particular, are necessarily
-interested to support that order of things which can alone secure them in the
-possession of their own advantages. Men of inferior wealth combine to defend
-those of superior wealth in the possession of their property, in order that
-men of superior wealth may combine to defend them in the possession of theirs
-. . . [T]he maintenance of their lesser authority depends upon that of his
-greater authority, and that upon their subordination to him depends his power
-of keeping their inferiors in subordination to them. They constitute a sort of
-little nobility, who feel themselves interested to defend the property and to
-support the authority of their own little sovereign in order that he may be
-able to defend their property and to support their authority. Civil
-government, so far as it is instituted for the security of property, is in
-reality instituted for the defence of the rich against the poor, or of those
-who have some property against those who have none at all."_ [**The Wealth of
-Nations**, book 5, pp. 412-3]
+> authority and subordination which could not possibly exist before. It
+> thereby introduces some degree of that civil government which is
+> indispensably necessary for its own preservation . . . [and] to maintain and
+> secure that authority and subordination. The rich, in particular, are
+> necessarily interested to support that order of things which can alone
+> secure them in the possession of their own advantages. Men of inferior
+> wealth combine to defend those of superior wealth in the possession of their
+> property, in order that men of superior wealth may combine to defend them in
+> the possession of theirs . . . [T]he maintenance of their lesser authority
+> depends upon that of his greater authority, and that upon their
+> subordination to him depends his power of keeping their inferiors in
+> subordination to them. They constitute a sort of little nobility, who feel
+> themselves interested to defend the property and to support the authority of
+> their own little sovereign in order that he may be able to defend their
+> property and to support their authority. Civil government, so far as it is
+> instituted for the security of property, is in reality instituted for the
+> defence of the rich against the poor, or of those who have some property
+> against those who have none at all."_ [ **The Wealth of Nations** , book 5,
+> pp. 412-3]
 
 This is reflected in both the theory and history of the modern state.
 Theorists of the liberal state like John Locke had no qualms about developing
@@ -492,16 +490,16 @@ a theory of the state which placed the defence of private property at its
 heart. This perspective was reflected in the American Revolution. For example,
 there is the words of John Jay (the first chief justice of the Supreme Court),
 namely that _"the people who own the country ought to govern it."_ [quoted by
-Noam Chomksy, **Understanding Power**, p. 315] This was the maxim of the
+Noam Chomksy, **Understanding Power** , p. 315] This was the maxim of the
 Founding Fathers of American _"democracy"_ and it has continued ever since.
 
 So, in a nutshell, the state is the means by which the ruling class rules.
 Hence Bakunin:
 
-> _ "The State is authority, domination, and force, organised by the property-
-owning and so-called enlightened classes against the masses . . . the State's
-domination . . . [ensures] that of the privileged classes who it solely
-represents."_ [**The Basic Bakunin**, p. 140]
+> _"The State is authority, domination, and force, organised by the property-
+> owning and so-called enlightened classes against the masses . . . the
+> State's domination . . . [ensures] that of the privileged classes who it
+> solely represents."_ [ **The Basic Bakunin** , p. 140]
 
 Under the current system, this means that the state _"constitutes the chief
 bulwark of capital"_ because of its _"centralisation, law (always written by a
@@ -513,7 +511,7 @@ struggle between the individual and the State, anarchism . . . takes the side
 of the individual as against the State, of society against the authority which
 oppresses it,"_ anarchists are well aware that the state does not exist above
 society, independent of the classes which make it up. [Kropotkin,
-**Anarchism**, pp. 149-50, p. 214 and pp. 192-3]
+**Anarchism** , pp. 149-50, p. 214 and pp. 192-3]
 
 Consequently anarchists reject the idea that the role of the state is simply
 to represent the interests of the people or "the nation." For _"democracy is
@@ -523,7 +521,7 @@ control of 'concentrations of private power.' The 'national interest' as
 articulated by those who dominate the . . . societies will be their special
 interests. Under these circumstances, talk of 'national interest' can only
 contribute to mystification and oppression."_ [Noam Chomsky, **Radical
-Priorities**, p. 52] As we discuss in [section D.6](secD6.md), nationalism
+Priorities** , p. 52] As we discuss in [section D.6](secD6.md), nationalism
 always reflects the interests of the elite, not those who make up a nation
 and, consequently, anarchists reject the notion as nothing more than a con
 (i.e. the use of affection of where you live to further ruling class aims and
@@ -543,7 +541,7 @@ reflect the perspectives and interests of those who make the decisions"_ and
 so the _"policies of the international economic institutions are all too often
 closely aligned with the commercial and financial interests of those in the
 advanced industrial countries."_ [Joseph Stiglitz, **Globalisation and its
-Discontents**, pp. 19-20]
+Discontents** , pp. 19-20]
 
 This, it must be stressed, does not change in the so-called democratic state.
 Here, however, the primary function of the state is disguised by the
@@ -552,7 +550,7 @@ is made to appear that the people rule themselves. Thus Bakunin writes that
 the modern state _"unites in itself the two conditions necessary for the
 prosperity of the capitalistic economy: State centralisation and the actual
 subjection of . . . the people . . . to the minority allegedly representing it
-but actually governing it."_ [**Op. Cit.**, p. 210] How this is achieved is
+but actually governing it."_ [ **Op. Cit.** , p. 210] How this is achieved is
 discussed in [section B.2.3](secB2.md#secb23).
 
   
@@ -613,25 +611,25 @@ These actions, and others like it, ensures that a key role of the state within
 capitalism _"is essentially to socialise risk and cost, and to privatise power
 and profit."_ Unsurprisingly, _"with all the talk about minimising the state,
 in the OECD countries the state continues to grow relative to GNP."_ [Noam
-Chomsky, **Rogue States**, p. 189] Hence David Deleon:
+Chomsky, **Rogue States** , p. 189] Hence David Deleon:
 
-> _ "Above all, the state remains an institution for the continuance of
-dominant socioeconomic relations, whether through such agencies as the
-military, the courts, politics or the police . . . Contemporary states have
-acquired . . . less primitive means to reinforce their property systems [than
-state violence -- which is always the means of last, often first, resort].
-States can regulate, moderate or resolve tensions in the economy by preventing
-the bankruptcies of key corporations, manipulating the economy through
-interest rates, supporting hierarchical ideology through tax benefits for
-churches and schools, and other tactics. In essence, it is not a neutral
-institution; it is powerfully for the status quo. The capitalist state, for
-example, is virtually a gyroscope centred in capital, balancing the system. If
-one sector of the economy earns a level of profit, let us say, that harms the
-rest of the system -- such as oil producers' causing public resentment and
-increased manufacturing costs -- the state may redistribute some of that
-profit through taxation, or offer encouragement to competitors."_ [_"Anarchism
-on the origins and functions of the state: some basic notes"_, **Reinventing
-Anarchy**, pp. 71-72]
+> _"Above all, the state remains an institution for the continuance of
+> dominant socioeconomic relations, whether through such agencies as the
+> military, the courts, politics or the police . . . Contemporary states have
+> acquired . . . less primitive means to reinforce their property systems
+> [than state violence -- which is always the means of last, often first,
+> resort]. States can regulate, moderate or resolve tensions in the economy by
+> preventing the bankruptcies of key corporations, manipulating the economy
+> through interest rates, supporting hierarchical ideology through tax
+> benefits for churches and schools, and other tactics. In essence, it is not
+> a neutral institution; it is powerfully for the status quo. The capitalist
+> state, for example, is virtually a gyroscope centred in capital, balancing
+> the system. If one sector of the economy earns a level of profit, let us
+> say, that harms the rest of the system -- such as oil producers' causing
+> public resentment and increased manufacturing costs -- the state may
+> redistribute some of that profit through taxation, or offer encouragement to
+> competitors."_ [ _"Anarchism on the origins and functions of the state: some
+> basic notes"_ , **Reinventing Anarchy** , pp. 71-72]
 
 In other words, the state acts to protect the long-term interests of the
 capitalist class as a whole (and ensure its own survival) by protecting the
@@ -646,19 +644,19 @@ This subsidiary role, it must be stressed, is no accident, It is part and
 parcel capitalism. Indeed, _"successful industrial societies have consistently
 relied on departures from market orthodoxies, while condemning their victims
 [at home and abroad] to market discipline."_ [Noam Chomsky, **World Orders,
-Old and New**, p. 113] While such state intervention grew greatly after the
+Old and New** , p. 113] While such state intervention grew greatly after the
 Second World War, the role of the state as active promoter of the capitalist
 class rather than just its passive defender as implied in capitalist ideology
 (i.e. as defender of property) has always been a feature of the system. As
 Kropotkin put it:
 
-> _ "every State reduces the peasants and the industrial workers to a life of
-misery, by means of taxes, and through the monopolies it creates in favour of
-the landlords, the cotton lords, the railway magnates, the publicans, and the
-like . . . we need only to look round, to see how everywhere in Europe and
-America the States are constituting monopolies in favour of capitalists at
-home, and still more in conquered lands [which are part of their empires]."_
-[**Evolution and Environment**, p. 97]
+> _"every State reduces the peasants and the industrial workers to a life of
+> misery, by means of taxes, and through the monopolies it creates in favour
+> of the landlords, the cotton lords, the railway magnates, the publicans, and
+> the like . . . we need only to look round, to see how everywhere in Europe
+> and America the States are constituting monopolies in favour of capitalists
+> at home, and still more in conquered lands [which are part of their
+> empires]."_ [ **Evolution and Environment** , p. 97]
 
 By _"monopolies,"_ it should be noted, Kropotkin meant general privileges and
 benefits rather than giving a certain firm total control over a market. This
@@ -712,7 +710,7 @@ worse inequalities and abuses of power and wealth and we have the potential
 for the state to act to combat the worse excesses of the system in order to
 keep the system as a whole going. After all, the government _"cannot want
 society to break up, for it would mean that it and the dominant class would be
-deprived of the sources of exploitation."_ [Malatesta, **Op. Cit.**, p. 25]
+deprived of the sources of exploitation."_ [Malatesta, **Op. Cit.** , p. 25]
 
 Needless to say, the thrust for any system of social protection usually comes
 from below, from the people most directly affected by the negative effects of
@@ -770,20 +768,20 @@ This can be seen from how labour legislation is applied, for example. Thus
 even the "good" functions of the state are penetrated with and dominated by
 the state's hierarchical nature. As Malatesta forcefully put it:
 
-> _ "The basic function of government . . . is always that of oppressing and
-exploiting the masses, of defending the oppressors and the exploiters . . . It
-is true that to these basic functions . . . other functions have been added in
-the course of history . . . hardly ever has a government existed . . . which
-did not combine with its oppressive and plundering activities others which
-were useful . . . to social life. But this does not detract from the fact that
-government is by nature oppressive . . . and that it is in origin and by its
-attitude, inevitably inclined to defend and strengthen the dominant class;
-indeed it confirms and aggravates the position . . . [I]t is enough to
-understand how and why it carries out these functions to find the practical
-evidence that whatever governments do is always motivated by the desire to
-dominate, and is always geared to defending, extending and perpetuating its
-privileges and those of the class of which it is both the representative and
-defender."_ [**Op. Cit.**, pp. 23-4]
+> _"The basic function of government . . . is always that of oppressing and
+> exploiting the masses, of defending the oppressors and the exploiters . . .
+> It is true that to these basic functions . . . other functions have been
+> added in the course of history . . . hardly ever has a government existed .
+> . . which did not combine with its oppressive and plundering activities
+> others which were useful . . . to social life. But this does not detract
+> from the fact that government is by nature oppressive . . . and that it is
+> in origin and by its attitude, inevitably inclined to defend and strengthen
+> the dominant class; indeed it confirms and aggravates the position . . .
+> [I]t is enough to understand how and why it carries out these functions to
+> find the practical evidence that whatever governments do is always motivated
+> by the desire to dominate, and is always geared to defending, extending and
+> perpetuating its privileges and those of the class of which it is both the
+> representative and defender."_ [ **Op. Cit.** , pp. 23-4]
 
 This does not mean that these reforms should be abolished (the alternative is
 often worse, as neo-liberalism shows), it simply recognises that the state is
@@ -792,12 +790,12 @@ ironically, indicates another aspect of social protection reforms within
 capitalism: they make for good PR. By appearing to care for the interests of
 those harmed by capitalism, the state can obscure it real nature:
 
-> _ "A government cannot maintain itself for long without hiding its true
-nature behind a pretence of general usefulness; it cannot impose respect for
-the lives of the privileged if it does not appear to demand respect for all
-human life; it cannot impose acceptance of the privileges of the few if it
-does not pretend to be the guardian of the rights of all."_ [Malatesta, **Op.
-Cit.**, p. 24]
+> _"A government cannot maintain itself for long without hiding its true
+> nature behind a pretence of general usefulness; it cannot impose respect for
+> the lives of the privileged if it does not appear to demand respect for all
+> human life; it cannot impose acceptance of the privileges of the few if it
+> does not pretend to be the guardian of the rights of all."_ [Malatesta,
+> **Op. Cit.** , p. 24]
 
 Obviously, being an instrument of the ruling elite, the state can hardly be
 relied upon to control the system which that elite run. As we discuss in the
@@ -809,7 +807,7 @@ sections [J.2](secJ2.md) and [J.5](secJ5.md) for details). Ultimately,
 even basic civil liberties and rights are the product of direct action, of
 _"mass movements among the people"_ to _"wrest these rights from the ruling
 classes, who would never have consented to them voluntarily."_ [Rocker,
-**Anarcho-Syndicalism**, p. 75]
+**Anarcho-Syndicalism** , p. 75]
 
 Equally obviously, the ruling elite and its defenders hate any legislation it
 does not favour -- while, of course, remaining silent on its own use of the
@@ -819,7 +817,7 @@ legislation, he in every instance cites some law passed ostensibly at least to
 protect labour, alleviating suffering, or promote the people's welfare. . .
 But never once does he call attention to the far more deadly and deep-seated
 evils growing out of the innumerable laws creating privilege and sustaining
-monopoly."_ [**The Individualist Anarchists**, p. 45] Such hypocrisy is
+monopoly."_ [ **The Individualist Anarchists** , p. 45] Such hypocrisy is
 staggering, but all too common in the ranks of supporters of "free market"
 capitalism.
 
@@ -894,7 +892,7 @@ classes, to the detriment of popular liberty."_ Consequently, anarchists
 denied that it _"could be used by the people for the conquest of economic and
 social equality. It must always and necessarily be an instrument hostile to
 the people, one which supports the **de facto** dictatorship of the
-bourgeoisie."_ [Bakunin, **Bakunin on Anarchism**, p. 224]
+bourgeoisie."_ [Bakunin, **Bakunin on Anarchism** , p. 224]
 
 Due to popular mass movements form below, the vote was won by the male working
 classes and, at a later stage, women. While the elite fought long and hard to
@@ -909,7 +907,7 @@ This is achieved by three main processes which combine to effectively deter
 democracy. These are the wealth barrier, the bureaucracy barrier and, lastly,
 the capital barrier. Each will be discussed in turn and all ensure that
 _"representative democracy"_ remains an _"organ of capitalist domination."_
-[Kropotkin, **Words of a Rebel**, p. 127]
+[Kropotkin, **Words of a Rebel** , p. 127]
 
 The wealth barrier is the most obvious. It takes money to run for office. In
 1976, the total spent on the US Presidential election was $66.9 million. In
@@ -965,22 +963,22 @@ This means that as a _"consequence of the distribution of resources and
 decision-making power in the society at large . . . the political class and
 the cultural managers typically associate themselves with the sectors that
 dominate the private economy; they are either drawn directly from those
-sectors or expect to join them."_ [Chomsky, **Necessary Illusions**, p. 23]
+sectors or expect to join them."_ [Chomsky, **Necessary Illusions** , p. 23]
 This can be seen from George W. Bush's quip at an elite fund-raising gala
 during the 2000 Presidential election: _"This is an impressive crowd -- the
 haves and the have-mores. Some people call you the elites; I call you my
 base."_ Unsurprisingly:
 
-> _ "In the real world, state policy is largely determined by those groups
-that command resources, ultimately by virtue of their ownership and management
-of the private economy or their status as wealthy professionals. The major
-decision-making positions in the Executive branch of the government are
-typically filled by representatives of major corporations, banks and
-investment firms, a few law firms that cater primarily to corporate interests
-and thus represent the broad interests of owners and managers rather than some
-parochial interest . . . The Legislative branch is more varied, but
-overwhelmingly, it is drawn from the business and professional classes."_
-[Chomsky, **On Power and Ideology**, pp. 116-7]
+> _"In the real world, state policy is largely determined by those groups that
+> command resources, ultimately by virtue of their ownership and management of
+> the private economy or their status as wealthy professionals. The major
+> decision-making positions in the Executive branch of the government are
+> typically filled by representatives of major corporations, banks and
+> investment firms, a few law firms that cater primarily to corporate
+> interests and thus represent the broad interests of owners and managers
+> rather than some parochial interest . . . The Legislative branch is more
+> varied, but overwhelmingly, it is drawn from the business and professional
+> classes."_ [Chomsky, **On Power and Ideology** , pp. 116-7]
 
 That is not the only tie between politics and business. Many politicians also
 have directorships in companies, interests in companies, shares, land and
@@ -1032,7 +1030,7 @@ opportunity to garner resources to share a perspective and influence the
 political progress is monopolised by the few: _"where are the desperately
 needed countervailing lobbies to represent the interests of average citizens?
 Where are the millions of dollars acting in **their** interests? Alas, they
-are notably absent."_ [Joel Bakan, **The Corporation**, p. 107]
+are notably absent."_ [Joel Bakan, **The Corporation** , p. 107]
 
 However, it cannot be denied that it is up to the general population to vote
 for politicians. This is when the indirect impact of wealth kicks in, namely
@@ -1052,21 +1050,21 @@ capitalist class (also see [section D.2](secD2.md)).
 
 In a nutshell:
 
-> _ "The business class dominates government through its ability to fund
-political campaigns, purchase high priced lobbyists and reward former
-officials with lucrative jobs . . . [Politicians] have become wholly dependent
-upon the same corporate dollars to pay for a new professional class of PR
-consultants, marketeers and social scientists who manage and promote causes
-and candidates in essentially the same manner that advertising campaigns sell
-cars, fashions, drugs and other wares."_ [John Stauber and Sheldon Rampton,
-**Toxic Sludge is Good for You**, p. 78]
+> _"The business class dominates government through its ability to fund
+> political campaigns, purchase high priced lobbyists and reward former
+> officials with lucrative jobs . . . [Politicians] have become wholly
+> dependent upon the same corporate dollars to pay for a new professional
+> class of PR consultants, marketeers and social scientists who manage and
+> promote causes and candidates in essentially the same manner that
+> advertising campaigns sell cars, fashions, drugs and other wares."_ [John
+> Stauber and Sheldon Rampton, **Toxic Sludge is Good for You** , p. 78]
 
 That is the first barrier, the direct and indirect impact of wealth. This, in
 itself, is a powerful barrier to deter democracy and, as a consequence, it is
 usually sufficient in itself. Yet sometimes people see through the media
 distortions and vote for reformist, even radical, candidates. As we discuss in
 [section J.2.6](secJ2.md#secj26), anarchists argue that the net effect of
-running for office is a general **de**-radicalising of the party involved.
+running for office is a general **de** -radicalising of the party involved.
 Revolutionary parties become reformist, reformist parties end up maintaining
 capitalism and introducing polities the opposite of which they had promised.
 So while it is unlikely that a radical party could get elected and remain
@@ -1094,7 +1092,7 @@ Germany, Portugal and Spain can be considered as variations of a military coup
 (particularly the last one where fascism was imposed by the military). Wealthy
 business men funded para-military forces to break the back of the labour
 movement, forces formed by ex-military people. Even the New Deal in America
-was threatened by such a coup. [Joel Bakan, **Op. Cit.**, pp. 86-95] While
+was threatened by such a coup. [Joel Bakan, **Op. Cit.** , pp. 86-95] While
 such regimes do protect the interests of capital and are, consequently, backed
 by it, they do hold problems for capitalism. This is because, as with the
 Absolutism which fostered capitalism in the first place, this kind of
@@ -1121,8 +1119,8 @@ the richest 1/2% (who own 29%), with stock ownership being even more
 concentrated (the top 5% holding 95% of all shares), its obvious why Doug
 Henwood argues that stock markets are _"a way for the very rich as a class to
 own an economy's productive capital stock as a whole,"_ are a source of
-_"political power"_ and a way to have influence over government policy.
-[**Wall Street: Class Racket**]
+_"political power"_ and a way to have influence over government policy. [
+**Wall Street: Class Racket** ]
 
 The mechanism is simple enough. The ability of capital to disinvest (capital
 flight) and otherwise adversely impact the economy is a powerful weapon to
@@ -1133,24 +1131,25 @@ stop investing at home and move their funds abroad. At home, the general
 population feel the results as demand drops, layoffs increase and recession
 kicks in. As Noam Chomsky notes:
 
-> _ "In capitalist democracy, the interests that must be satisfied are those
-of capitalists; otherwise, there is no investment, no production, no work, no
-resources to be devoted, however marginally, to the needs of the general
-population."_ [**Turning the Tide**, p. 233]
+> _"In capitalist democracy, the interests that must be satisfied are those of
+> capitalists; otherwise, there is no investment, no production, no work, no
+> resources to be devoted, however marginally, to the needs of the general
+> population."_ [ **Turning the Tide** , p. 233]
 
 This ensures the elite control of government as government policies which
 private power finds unwelcome will quickly be reversed. The power which
 "business confidence" has over the political system ensures that democracy is
 subservient to big business. As summarised by Malatesta:
 
-> _ "Even with universal suffrage -- we could well say even more so with
-universal suffrage -- the government remained the bourgeoisie's servant and
-**gendarme.** For were it to be otherwise with the government hinting that it
-might take up a hostile attitude, or that democracy could ever be anything but
-a pretence to deceive the people, the bourgeoisie, feeling its interests
-threatened, would by quick to react, and would use all the influence and force
-at its disposal, by reason of its wealth, to recall the government to its
-proper place as the bourgeoisie's **gendarme.**"_ [**Anarchy**, p. 23]
+> _"Even with universal suffrage -- we could well say even more so with
+> universal suffrage -- the government remained the bourgeoisie's servant and
+> **gendarme.** For were it to be otherwise with the government hinting that
+> it might take up a hostile attitude, or that democracy could ever be
+> anything but a pretence to deceive the people, the bourgeoisie, feeling its
+> interests threatened, would by quick to react, and would use all the
+> influence and force at its disposal, by reason of its wealth, to recall the
+> government to its proper place as the bourgeoisie's **gendarme.** "_ [
+> **Anarchy** , p. 23]
 
 It is due to these barriers that the state remains an instrument of the
 capitalist class while being, in theory, a democracy. Thus the state machine
@@ -1174,13 +1173,13 @@ to win elections and lobby or bribe legislators, the propertied elite are able
 to control the political process -- and hence the state -- through the _"power
 of the purse."_ In summary:
 
-> _ "No democracy has freed itself from the rule by the well-to-do anymore
-than it has freed itself from the division between the ruler and the ruled . .
-. at the very least, no democracy has jeopardised the role of business
-enterprise. Only the wealthy and well off can afford to launch viable
-campaigns for public office and to assume such positions. Change in government
-in a democracy is a circulation from one elite group to another."_ [Harold
-Barclay, **Op. Cit.**, p. 47]
+> _"No democracy has freed itself from the rule by the well-to-do anymore than
+> it has freed itself from the division between the ruler and the ruled . . .
+> at the very least, no democracy has jeopardised the role of business
+> enterprise. Only the wealthy and well off can afford to launch viable
+> campaigns for public office and to assume such positions. Change in
+> government in a democracy is a circulation from one elite group to
+> another."_ [Harold Barclay, **Op. Cit.** , p. 47]
 
 In other words, elite control of politics through huge wealth disparities
 insures the continuation of such disparities and thus the continuation of
@@ -1223,7 +1222,7 @@ state, in reality they alienate their power and hand over control of their
 affairs to a small minority. Liberty, in other words, is reduced to merely the
 possibility _"to pick rulers"_ every four or five years and whose mandate
 (sic!) is _"to legislate on any subject, and his decision will become law."_
-[Kropotkin, **Words of a Rebel**, p. 122 and p. 123]
+[Kropotkin, **Words of a Rebel** , p. 122 and p. 123]
 
 In other words, representative democracy is not "liberty" nor "self-
 government." It is about alienating power to a few people who then (mis)rule
@@ -1256,21 +1255,21 @@ All forms of hierarchy, even those in which the top officers are elected are
 marked by authoritarianism and centralism. Power is concentrated in the centre
 (or at the top), which means that society becomes _"a heap of dust animated
 from without by a subordinating, centralist idea."_ [P. J. Proudhon, quoted by
-Martin Buber, **Paths in Utopia**, p. 29] For, once elected, top officers can
+Martin Buber, **Paths in Utopia** , p. 29] For, once elected, top officers can
 do as they please, and, as in all bureaucracies, many important decisions are
 made by non-elected staff. This means that the democratic state is a
 contradiction in terms:
 
-> _ "In the democratic state the election of rulers by alleged majority vote
-is a subterfuge which helps individuals to believe that they control the
-situation. They are selecting persons to do a task for them and they have no
-guarantee that it will be carried out as they desired. They are abdicating to
-these persons, granting them the right to impose their own wills by the threat
-of force. Electing individuals to public office is like being given a limited
-choice of your oppressors . . . Parliamentary democracies are essentially
-oligarchies in which the populace is led to believe that it delegates all its
-authority to members of parliament to do as they think best."_ [Harold
-Barclay, **Op. Cit.**, pp. 46-7]
+> _"In the democratic state the election of rulers by alleged majority vote is
+> a subterfuge which helps individuals to believe that they control the
+> situation. They are selecting persons to do a task for them and they have no
+> guarantee that it will be carried out as they desired. They are abdicating
+> to these persons, granting them the right to impose their own wills by the
+> threat of force. Electing individuals to public office is like being given a
+> limited choice of your oppressors . . . Parliamentary democracies are
+> essentially oligarchies in which the populace is led to believe that it
+> delegates all its authority to members of parliament to do as they think
+> best."_ [Harold Barclay, **Op. Cit.** , pp. 46-7]
 
 The nature of centralisation places power into the hands of the few.
 Representative democracy is based on this delegation of power, with voters
@@ -1279,7 +1278,7 @@ which freedom is endangered -- universal suffrage _"does not prevent the
 formation of a body of politicians, privileged in fact though not in law, who,
 devoting themselves exclusively to the administration of the nation's public
 affairs, end by becoming a sort of political aristocracy or oligarchy."_
-[Bakunin, **The Political Philosophy of Bakunin**, p. 240]
+[Bakunin, **The Political Philosophy of Bakunin** , p. 240]
 
 This should not come as a surprise, for to _"create a state is to
 institutionalise power in a form of machine that exists **apart** from the
@@ -1288,7 +1287,7 @@ interest (be it of bureaucrats, deputies, commissars, legislators, the
 military, the police, ad nauseam) that, however weak or however well-
 intentioned it may be at first, eventually takes on a corruptive power of its
 own."_ [Murray Bookchin, _"The Ecological Crisis, Socialism, and the need to
-remake society,"_ pp. 1-10, **Society and Nature**, vol. 2, no. 3, p. 7]
+remake society,"_ pp. 1-10, **Society and Nature** , vol. 2, no. 3, p. 7]
 
 Centralism makes democracy meaningless, as political decision-making is given
 over to professional politicians in remote capitals. Lacking local autonomy,
@@ -1300,7 +1299,7 @@ another "voter" in the mass, a political "constituent" and nothing more. The
 amorphous basis of modern, statist elections _"aims at nothing less than to
 abolish political life in towns, communes and departments, and through this
 destruction of all municipal and regional autonomy to arrest the development
-of universal suffrage."_ [Proudhon, quoted by Martin Buber, **Op. Cit.**, p.
+of universal suffrage."_ [Proudhon, quoted by Martin Buber, **Op. Cit.** , p.
 29]
 
 Thus people are disempowered by the very structures that claim to allow them
@@ -1309,12 +1308,12 @@ citizen divests himself of sovereignty, the town and the Department and
 province above it, absorbed by central authority, are no longer anything but
 agencies under direct ministerial control."_ He continues:
 
-> _ "The Consequences soon make themselves felt: the citizen and the town are
-deprived of all dignity, the state's depredations multiply, and the burden on
-the taxpayer increases in proportion. It is no longer the government that is
-made for the people; it is the people who are made for the government. Power
-invades everything, dominates everything, absorbs everything."_ [**The
-Principle of Federation**, p. 59]
+> _"The Consequences soon make themselves felt: the citizen and the town are
+> deprived of all dignity, the state's depredations multiply, and the burden
+> on the taxpayer increases in proportion. It is no longer the government that
+> is made for the people; it is the people who are made for the government.
+> Power invades everything, dominates everything, absorbs everything."_ [
+> **The Principle of Federation** , p. 59]
 
 As intended, as isolated people are no threat to the powers that be. This
 process of marginalisation can be seen from American history, for example,
@@ -1336,7 +1335,7 @@ comprising the 12 Prime Ministers, simply rubber-stamp the conclusions agreed
 by the Interior and Justice Ministers. It is only then, in this
 intergovernmental process, that parliaments and people are informed (and them
 only with the barest details)."_ [Tony Bunyon, **Statewatching the New
-Europe**, p. 39]
+Europe** , p. 39]
 
 As well as economic pressures from elites, governments also face pressures
 within the state itself due to the bureaucracy that comes with centralism.
@@ -1349,14 +1348,14 @@ himself) indicates, _"the function of a political system in any country . . .
 is to regulate, but not to alter radically, the existing economic structure
 and its linked power relationships. The great illusion of politics is that
 politicians have the ability to make whatever changes they like."_ [quoted in
-**Alternatives**, no.5, p. 19]
+**Alternatives** , no.5, p. 19]
 
 Therefore, as well as marginalising the people, the state also ends up
 marginalising "our" representatives. As power rests not in the elected bodies,
 but in a bureaucracy, popular control becomes increasingly meaningless. As
 Bakunin pointed out, _"liberty can be valid only when . . . [popular] control
 [of the state] is valid. On the contrary, where such control is fictitious,
-this freedom of the people likewise becomes a mere fiction."_ [**Op. Cit.**,
+this freedom of the people likewise becomes a mere fiction."_ [ **Op. Cit.** ,
 p. 212] State centralisation ensures that popular control is meaningless.
 
 This means that state centralism can become a serious source of danger to the
@@ -1367,7 +1366,7 @@ organised power standing above and over the people necessarily excludes the
 freedom of peoples. The political state has no other purpose than to protect
 and perpetuate the exploitation of the labour of the proletariat by the
 economically dominant classes, and in so doing the state places itself against
-the freedom of the people."_ [**Bakunin on Anarchism**, p. 416]
+the freedom of the people."_ [ **Bakunin on Anarchism** , p. 416]
 
 Unsurprisingly, therefore, _"whatever progress that has been made . . . on
 various issues, whatever things have been done for people, whatever human
@@ -1380,7 +1379,7 @@ state when it suits them. An obvious example is the 14th Amendment of the US
 Constitution, which _"didn't have any meaning until black people rose up in
 the 1950s and 1960s in the South in mass movements . . . They made whatever
 words there were in the Constitution and the 14th Amendment have some meaning
-for the first time."_ [Howard Zinn, **Failure to Quit**, p. 69 and p. 73]
+for the first time."_ [Howard Zinn, **Failure to Quit** , p. 69 and p. 73]
 
 This is because the _"fact that you have got a constitutional right doesn't
 mean you're going to get that right. Who has the power on the spot? The
@@ -1398,8 +1397,8 @@ importance of popular participation, of social movements, for what those do
 are _"to create a countervailing power to the policeman with a club and a gun.
 That's essentially what movements do: They create countervailing powers to
 counter the power which is much more important than what is written down in
-the Constitution or the laws."_ [Zinn, **Op. Cit.**, pp. 84-5, pp. 54-5 and p.
-79]
+the Constitution or the laws."_ [Zinn, **Op. Cit.** , pp. 84-5, pp. 54-5 and
+p. 79]
 
 It is precisely this kind of mass participation that centralisation kills.
 Under centralism, social concern and power are taken away from ordinary
@@ -1446,7 +1445,7 @@ republic,"_ writes Bakunin, _"the so-called people, the legal people,
 allegedly represented by the State, stifle and will keep on stifling the
 actual and living people"_ by _"the bureaucratic world"_ for _"the greater
 benefit of the privileged propertied classes as well as for its own benefit."_
-[**Op. Cit.**, p. 211]
+[ **Op. Cit.** , p. 211]
 
 Examples of increased political centralisation being promoted by wealthy
 business interests by can be seen throughout the history of capitalism. _"In
@@ -1458,89 +1457,78 @@ meeting government . . . Attempts by conservative elements were made to
 establish a 'corporate form (of municipal government) whereby the towns would
 be governed by mayors and councils' elected from urban wards . . . [T]he
 merchants 'backed incorporation consistently in their efforts to escape town
-meetings.'"_ [Murray Bookchin, **Towards an Ecological Society**, p. 182]
+meetings.'"_ [Murray Bookchin, **Towards an Ecological Society** , p. 182]
 
 Here we see local policy making being taken out of the hands of the many and
 centralised in the hands of the few (who are always the wealthy). France
 provides another example:
 
-> _ "The Government found. . .the folkmotes [of all households] 'too noisy',
-too disobedient, and in 1787, elected councils, composed of a mayor and three
-to six syndics, chosen among the wealthier peasants, were introduced
-instead."_ [Peter Kropotkin, **Mutual Aid**, pp. 185-186]
+> _"The Government found. . .the folkmotes [of all households] 'too noisy',
+> too disobedient, and in 1787, elected councils, composed of a mayor and
+> three to six syndics, chosen among the wealthier peasants, were introduced
+> instead."_ [Peter Kropotkin, **Mutual Aid** , pp. 185-186]
 
 This was part of a general movement to disempower the working class by
 centralising decision making power into the hands of the few (as in the
 American revolution). Kropotkin indicates the process at work:
 
-> _ "[T]he middle classes, who had until then had sought the support of the
-people, in order to obtain constitutional laws and to dominate the higher
-nobility, were going, now that they had seen and felt the strength of the
-people, to do all they could to dominate the people, to disarm them and to
-drive them back into subjection.  
+> _"[T]he middle classes, who had until then had sought the support of the
+> people, in order to obtain constitutional laws and to dominate the higher
+> nobility, were going, now that they had seen and felt the strength of the
+> people, to do all they could to dominate the people, to disarm them and to
+> drive them back into subjection.  
 >  _
-
 >
-
-> _[. . .] _
-
+> _[. . .]_
 >
-
 > _"[T]hey made haste to legislate in such a way that the political power
-which was slipping out of the hand of the Court should not fall into the hands
-of the people. Thus . . . [it was] proposed . . . to divide the French into
-two classes, of which one only, the **active** citizens, should take part in
-the government, whilst the other, comprising the great mass of the people
-under the name of **passive** citizens, should be deprived of all political
-rights . . . [T]he [National] Assembly divided France into departments . . .
-always maintaining the principle of excluding the poorer classes from the
-Government . . . [T]hey excluded from the primary assemblies the mass of the
-people . . . who could no longer take part in the primary assemblies, and
-accordingly had no right to nominate the electors [who chose representatives
-to the National Assembly], or the municipality, or any of the local
-authorities . . . _
-
+> which was slipping out of the hand of the Court should not fall into the
+> hands of the people. Thus . . . [it was] proposed . . . to divide the French
+> into two classes, of which one only, the **active** citizens, should take
+> part in the government, whilst the other, comprising the great mass of the
+> people under the name of **passive** citizens, should be deprived of all
+> political rights . . . [T]he [National] Assembly divided France into
+> departments . . . always maintaining the principle of excluding the poorer
+> classes from the Government . . . [T]hey excluded from the primary
+> assemblies the mass of the people . . . who could no longer take part in the
+> primary assemblies, and accordingly had no right to nominate the electors
+> [who chose representatives to the National Assembly], or the municipality,
+> or any of the local authorities . . . _
 >
-
 > _"And finally, the **permanence** of the electoral assemblies was
-interdicted. Once the middle-class governors were appointed, these assemblies
-were not to meet again. Once the middle-class governors were appointed, they
-must not be controlled too strictly. Soon the right even of petitioning and of
-passing resolutions was taken away -- 'Vote and hold your tongue!' _
-
+> interdicted. Once the middle-class governors were appointed, these
+> assemblies were not to meet again. Once the middle-class governors were
+> appointed, they must not be controlled too strictly. Soon the right even of
+> petitioning and of passing resolutions was taken away -- 'Vote and hold your
+> tongue!' _
 >
-
 > _"As to the villages . . . the general assembly of the inhabitants . . . [to
-which] belonged the administration of the affairs of the commune . . . were
-forbidden by the . . . law. Henceforth only the well-to-do peasants, the
-**active** citizens, had the right to meet, **once a year**, to nominate the
-mayor and the municipality, composed of three or four middle-class men of the
-village. _
-
+> which] belonged the administration of the affairs of the commune . . . were
+> forbidden by the . . . law. Henceforth only the well-to-do peasants, the
+> **active** citizens, had the right to meet, **once a year** , to nominate
+> the mayor and the municipality, composed of three or four middle-class men
+> of the village. _
 >
-
-> _"A similar municipal organisation was given to the towns. . . _
-
+> _"A similar municipal organisation was given to the towns. . ._
 >
-
 > _"[Thus] the middle classes surrounded themselves with every precaution in
-order to keep the municipal power in the hands of the well-to-do members of
-the community."_ [**The Great French Revolution**, vol. 1, pp. 179-186]
+> order to keep the municipal power in the hands of the well-to-do members of
+> the community."_ [ **The Great French Revolution** , vol. 1, pp. 179-186]
 
 Thus centralisation aimed to take power away from the mass of the people and
 give it to the wealthy. The power of the people rested in popular assemblies,
 such as the _"Sections"_ and _"Districts"_ of Paris (expressing, in
 Kropotkin's words, _"the principles of anarchism"_ and _"practising . . .
-Direct Self-Government"_ [**Op. Cit.**, p. 204 and p. 203]) and village
+Direct Self-Government"_ [ **Op. Cit.** , p. 204 and p. 203]) and village
 assemblies. However, the National Assembly _"tried all it could to lessen the
 power of the districts . . . [and] put an end to those hotbeds of Revolution .
 . . [by allowing] **active** citizens only . . . to take part in the electoral
-and administrative assemblies."_ [**Op. Cit.**, p. 211] Thus the _"central
+and administrative assemblies."_ [ **Op. Cit.** , p. 211] Thus the _"central
 government was steadily endeavouring to subject the sections to its
 authority"_ with the state _"seeking to centralise everything in its own hands
 . . . [I]ts depriving the popular organisations . . . all . . . administrative
 functions . . . and its subjecting them to its bureaucracy in police matters,
-meant the death of the sections."_ [**Op. Cit.**, vol. 2, p. 549 and p. 552]
+meant the death of the sections."_ [ **Op. Cit.** , vol. 2, p. 549 and p. 552]
 
 As can be seen, both the French and American revolutions saw a similar process
 by which the wealthy centralised power into their own hands (volume one of
@@ -1575,7 +1563,7 @@ _"a large over a small republic"_ as a _"rage for paper money, for an
 abolition of debts, for an equal division of property, or for any other
 improper or wicked project, will be less apt to pervade the whole body of the
 Union than a particular member of it."_ [contained in **Voices of a People's
-History of the United States**, Howard Zinn and Anthony Arnove (eds.), pp.
+History of the United States** , Howard Zinn and Anthony Arnove (eds.), pp.
 109-113] This desire to have a formal democracy, where the masses are mere
 spectators of events rather than participants, is a recurring theme in
 capitalism (see the chapter _"Force and Opinion"_ in Noam Chomsky's
@@ -1591,7 +1579,7 @@ its constitution did not reflect their interests. Given that these were the
 vast majority, _"there was not only a positive need for strong central
 government to protect the large economic interests, but also immediate fear of
 rebellion by discontented farmers."_ [Howard Zinn, **A People's History of the
-United States**, p. 90] The chief event was Shay's Rebellion in western
+United States** , p. 90] The chief event was Shay's Rebellion in western
 Massachusetts. There the new Constitution had raised property qualifications
 for voting and, therefore, no one could hold state office without being
 wealthy. The new state was formed to combat such rebellions, to protect the
@@ -1600,19 +1588,19 @@ wealthy few against the many.
 Moreover, state centralisation, the exclusion of popular participation, was
 essential to mould US society into one dominated by capitalism:
 
-> _ "In the thirty years leading up to the Civil War, the law was increasingly
-interpreted in the courts to suit capitalist development. Studying this,
-Morton Horwitz (**The Transformation of American Law**) points out that the
-English common-law was no longer holy when it stood in the way of business
-growth . . . Judgements for damages against businessmen were taken out of the
-hands of juries, which were unpredictable, and given to judges . . . The
-ancient idea of a fair price for goods gave way in the courts to the idea of
-caveat emptor (let the buyer beware) . . . contract law was intended to
-discriminate against working people and for business . . . The pretence of the
-law was that a worker and a railroad made a contract with equal bargaining
-power . . . 'The circle was completed; the law had come simply to ratify those
-forms of inequality that the market system had produced.'"_ [Zinn, **Op.
-Cit.**, p. 234]
+> _"In the thirty years leading up to the Civil War, the law was increasingly
+> interpreted in the courts to suit capitalist development. Studying this,
+> Morton Horwitz ( **The Transformation of American Law** ) points out that
+> the English common-law was no longer holy when it stood in the way of
+> business growth . . . Judgements for damages against businessmen were taken
+> out of the hands of juries, which were unpredictable, and given to judges .
+> . . The ancient idea of a fair price for goods gave way in the courts to the
+> idea of caveat emptor (let the buyer beware) . . . contract law was intended
+> to discriminate against working people and for business . . . The pretence
+> of the law was that a worker and a railroad made a contract with equal
+> bargaining power . . . 'The circle was completed; the law had come simply to
+> ratify those forms of inequality that the market system had produced.'"_
+> [Zinn, **Op. Cit.** , p. 234]
 
 The US state was created on elitist liberal doctrine and actively aimed to
 reduce democratic tendencies (in the name of "individual liberty"). What
@@ -1621,20 +1609,20 @@ the state to undermine popular culture and common right in favour of
 protecting and extending their own interests and power. In the process, US
 society was reformed in their own image:
 
-> _ "By the middle of the nineteenth century the legal system had been
-reshaped to the advantage of men of commerce and industry at the expense of
-farmers, workers, consumers, and other less powerful groups in society. . . it
-actively promoted a legal distribution of wealth against the weakest groups in
-society."_ [Morton Horwitz, quoted by Zinn, **Op. Cit.**, p. 235]
+> _"By the middle of the nineteenth century the legal system had been reshaped
+> to the advantage of men of commerce and industry at the expense of farmers,
+> workers, consumers, and other less powerful groups in society. . . it
+> actively promoted a legal distribution of wealth against the weakest groups
+> in society."_ [Morton Horwitz, quoted by Zinn, **Op. Cit.** , p. 235]
 
 In more modern times, state centralisation and expansion has gone hand in
 glove with rapid industrialisation and the growth of business. As Edward
 Herman points out, _"[t]o a great extent, it was the growth in business size
 and power that elicited the countervailing emergence of unions and the growth
 of government. Bigness **beyond** business was to a large extent a response to
-bigness **in** business."_ [**Corporate Control, Corporate Power**, p. 188 --
-see also, Stephen Skowronek, **Building A New American State: The Expansion of
-National Administrative Capacities, 1877-1920**] State centralisation was
+bigness **in** business."_ [ **Corporate Control, Corporate Power** , p. 188
+-- see also, Stephen Skowronek, **Building A New American State: The Expansion
+of National Administrative Capacities, 1877-1920** ] State centralisation was
 required to produce bigger, well-defined markets and was supported by business
 when it acted in their interests (i.e. as markets expanded, so did the state
 in order to standardise and enforce property laws and so on). On the other
@@ -1645,7 +1633,7 @@ well as further removing state power from influence by the masses and placing
 it more firmly in the hands of the wealthy. It is little wonder we see such
 developments, for _"[s]tructures of governance tend to coalesce around
 domestic power, in the last few centuries, economic power."_ [Noam Chomsky,
-**World Orders, Old and New**, p. 178]
+**World Orders, Old and New** , p. 178]
 
 State centralisation makes it easier for business to control government,
 ensuring that it remains their puppet and to influence the political process.
@@ -1662,7 +1650,7 @@ and part time work. In December 1993, seven years after the ERT made its
 suggestions [and after most states had agreed to the Maastricht Treaty and its
 "social chapter"], the European Commission published a white paper . . .
 [proposing] making labour markets in Europe more flexible."_ [Doherty and
-Hoedeman, _"Knights of the Road,"_ **New Statesman**, 4/11/94, p. 27]
+Hoedeman, _"Knights of the Road,"_ **New Statesman** , 4/11/94, p. 27]
 
 The current talk of globalisation, NAFTA, and the Single European Market
 indicates an underlying transformation in which state growth follows the path
@@ -1677,15 +1665,15 @@ As Noam Chomsky notes, G7, the IMF, the World Bank and so forth are a _"de
 facto world government,"_ and _"the institutions of the transnational state
 largely serve other masters [than the people], as state power typically does;
 in this case the rising transnational corporations in the domains of finance
-and other services, manufacturing, media and communications."_ [**Op. Cit.**,
-p. 179]
+and other services, manufacturing, media and communications."_ [ **Op. Cit.**
+, p. 179]
 
 As multi-nationals grow and develop, breaking through national boundaries, a
 corresponding growth in statism is required. Moreover, a _"particularly
 valuable feature of the rising de facto governing institutions is their
 immunity from popular influence, even awareness. They operate in secret,
 creating a world subordinated to the needs of investors, with the public 'put
-in its place', the threat of democracy reduced"_ [Chomsky, **Op. Cit.**, p.
+in its place', the threat of democracy reduced"_ [Chomsky, **Op. Cit.** , p.
 178].
 
 This does not mean that capitalists desire state centralisation for
@@ -1734,8 +1722,8 @@ So while _"on election days even the proudest bourgeois who have any political
 ambitions are forced to court . . . The Sovereign People."_ But on the _"day
 after the elections every one goes back to their daily business"_ and the
 politicians are given carte blanche to rule in the name of the people they
-claim to represent." [Bakunin, **The Political Philosophy of Bakunin**, p. 218
-and p. 219]
+claim to represent." [Bakunin, **The Political Philosophy of Bakunin** , p.
+218 and p. 219]
 
 ## B.2.6 Can the state be an independent power within society?
 
@@ -1754,8 +1742,8 @@ competing against each other for profits, political influence, privileges,
 etc. The bourgeoisie, argued Malatesta, _"are always at war among themselves .
 . . Thus the games of the swings, the manoeuvres, the concessions and
 withdrawals, the attempts to find allies among the people against the
-conservatives, and among the conservatives against the people."_ [**Anarchy**,
-p. 25] This means that different sections of the ruling class will cluster
+conservatives, and among the conservatives against the people."_ [ **Anarchy**
+, p. 25] This means that different sections of the ruling class will cluster
 around different parties, depending on their interests, and these parties will
 seek to gain power to further those interests. This may bring them into
 conflict with other sections of the capitalist class. The state is the means
@@ -1777,19 +1765,19 @@ in-glove nature of modern capitalism to the state.
 
 As Chomsky notes:
 
-> _ "There has always been a kind of love-hate relationship between business
-interests and the capitalist state. On the one hand, business wants a powerful
-state to regulate disorderly markets, provide services and subsidies to
-business, enhance and protect access to foreign markets and resources, and so
-on. On the other hand, business does not want a powerful competitor, in
-particular, one that might respond to different interests, popular interests,
-and conduct policies with a redistributive effect, with regard to income or
-power."_ [**Turning the Tide**, p. 211]
+> _"There has always been a kind of love-hate relationship between business
+> interests and the capitalist state. On the one hand, business wants a
+> powerful state to regulate disorderly markets, provide services and
+> subsidies to business, enhance and protect access to foreign markets and
+> resources, and so on. On the other hand, business does not want a powerful
+> competitor, in particular, one that might respond to different interests,
+> popular interests, and conduct policies with a redistributive effect, with
+> regard to income or power."_ [ **Turning the Tide** , p. 211]
 
 As such, the state is often in conflict with sections of the capitalist class,
 just as sections of that class use the state to advance their own interests
 within the general framework of protecting the capitalist system (i.e. the
-interests of the ruling class **as a class**). The state's role is to resolve
+interests of the ruling class **as a class** ). The state's role is to resolve
 such disputes within that class peacefully. Under modern capitalism, this is
 usually done via the _"democratic"_ process (within which we get the chance of
 picking the representatives of the elite who will oppress us least).
@@ -1807,7 +1795,7 @@ control of the economic ruling class and pursue their own interests, to a
 greater or lesser degree). As Malatesta put it _"the government, though
 springing from the bourgeoisie and its servant and protector, tends, as with
 every servant and every protector, to achieve its own emancipation and to
-dominate whoever it protects."_ [**Op. Cit.**, p. 25]
+dominate whoever it protects."_ [ **Op. Cit.** , p. 25]
 
 Thus, even in a class system like capitalism, the state can act independently
 of the ruling elite and, potentially, act against their interests. As part of
@@ -1829,7 +1817,7 @@ which the State itself claims to represent . . . The State, being the
 depository of society's greatest physical and material force, has too much
 power in its hands to resign itself to being no more than the capitalists'
 guard dog."_ [Luigi Fabbri, quoted by David Berry, **A History of the French
-Anarchist Movement, 1917-1945**, p. 39]
+Anarchist Movement, 1917-1945** , p. 39]
 
 Therefore the state machine (and structure), while its modern form is
 intrinsically linked to capitalism, cannot be seen as being a tool usable by
@@ -1837,8 +1825,8 @@ the majority. This is because the _"State, any State -- even when it dresses-
 up in the most liberal and democratic form -- is essentially based on
 domination, and upon violence, that is upon despotism -- a concealed but no
 less dangerous despotism."_ The State _"denotes power, authority, domination;
-it presupposes inequality in fact."_ [**The Political Philosophy of Michael
-Bakunin**, p. 211 and p. 240] The state, therefore, has its own specific
+it presupposes inequality in fact."_ [ **The Political Philosophy of Michael
+Bakunin** , p. 211 and p. 240] The state, therefore, has its own specific
 logic, its own priorities and its own momentum. It constitutes its own locus
 of power which is not merely a derivative of economic class power.
 Consequently, the state can be beyond the control of the economically dominant
@@ -1851,26 +1839,26 @@ subordinates them to an organisation and to aims which are foreign to and
 opposed to the real needs and aspirations of the people."_ If _"the whole
 proletariat . . . [are] members of the government . . . there will be no
 government, no state, but, if there is to be a state there will be those who
-are ruled and those who are slaves."_ [**Bakunin on Anarchism**, p. 328 and p.
-330]
+are ruled and those who are slaves."_ [ **Bakunin on Anarchism** , p. 328 and
+p. 330]
 
 In other words, the state bureaucracy is itself directly an oppressor and can
 exist independently of an economically dominant class. In Bakunin's prophetic
 words:
 
-> _ "What have we seen throughout history? The State has always been the
-patrimony of some privileged class: the sacerdotal class, the nobility, the
-bourgeoisie -- and finally, when all other classes have exhausted themselves,
-the class of the bureaucracy enters the stage and then the State falls, or
-rises, if you please, to the position of a machine."_ [**The Political
-Philosophy of Michael Bakunin**, p. 208]
+> _"What have we seen throughout history? The State has always been the
+> patrimony of some privileged class: the sacerdotal class, the nobility, the
+> bourgeoisie -- and finally, when all other classes have exhausted
+> themselves, the class of the bureaucracy enters the stage and then the State
+> falls, or rises, if you please, to the position of a machine."_ [ **The
+> Political Philosophy of Michael Bakunin** , p. 208]
 
 This is unsurprising. For anarchists, _"the State organisation . . . [is] the
 force to which minorities resorted for establishing and organising their power
 over the masses."_ It does not imply that these minorities need to be the
 economically dominant class in a society. The state is _"a superstructure
-built to the advantage of Landlordism, Capitalism, and Officialism."_
-[**Evolution and Environment**, p. 82 and p. 105] Consequently, we cannot
+built to the advantage of Landlordism, Capitalism, and Officialism."_ [
+**Evolution and Environment** , p. 82 and p. 105] Consequently, we cannot
 assume that abolishing one or even two of this unholy trinity will result in
 freedom nor that all three share exactly the same interests or power in
 relation to the others. Thus, in some situations, the landlord class can
@@ -1910,7 +1898,7 @@ insurance between the landlord, the military commander, the judge, the priest,
 and later on the capitalist, in order to support such other's authority over
 the people, and for exploiting the poverty of the masses and getting rich
 themselves."_ Such was the _"origin of the State; such was its history; and
-such is its present essence."_ [Kropotkin, **Evolution and Environment**, p.
+such is its present essence."_ [Kropotkin, **Evolution and Environment** , p.
 94]
 
 So while the state is an instrument of class rule it does **not**
@@ -1920,6 +1908,6 @@ One thing is sure, however. The state is not a suitable tool for securing the
 emancipation of the oppressed.
 
 [‹ B.1 Why are anarchists against authority and hierarchy?](secB1.md "Go to
-previous page" ) [up](secBcon.md "Go to parent page" ) [B.3 Why are
-anarchists against private property? ›](secB3.md "Go to next page" )
+previous page") [up](secBcon.md "Go to parent page") [B.3 Why are anarchists
+against private property? ›](secB3.md "Go to next page")
 

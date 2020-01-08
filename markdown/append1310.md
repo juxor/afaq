@@ -2,8 +2,8 @@
 
 Unsurprisingly, right-libertarians combine their support for "absolute
 property rights" with a whole-hearted support for laissez-faire capitalism. In
-such a system (which they maintain, to quote Ayn Rand, is an _"unknown
-ideal"_) everything would be private property and there would be few (if any)
+such a system (which they maintain, to quote Ayn Rand, is an _"unknown ideal"_
+) everything would be private property and there would be few (if any)
 restrictions on "voluntary exchanges." "Anarcho"-capitalists are the most
 extreme of defenders of pure capitalism, urging that the state itself be
 privatised and no voluntary exchange made illegal (for example, children would
@@ -74,8 +74,6 @@ We hope to indicate in the next two sections why the business cycle is
 inherent in the system (see also sections [C.7](secC7.md), [C.8](secC8.md)
 and [C.9](secC9.md)).
 
-
-
 ## 10.1 Would privatising banking make capitalism stable?
 
 It is claimed that the existence of the state (or, for minimal statists,
@@ -102,10 +100,10 @@ The new money reaches factor owners in the form of wages, rent and interest .
 . . the factor owners will then spend the higher money incomes in their
 existing consumption:investment proportions . . . Capital goods industries
 will find their expansion has been in error and malinvestments have been
-inoccured."_ [**Markets, Entrepreneurs and Liberty**, pp. 68-9]
+inoccured."_ [ **Markets, Entrepreneurs and Liberty** , pp. 68-9]
 
 In other words, there has been _"wasteful mis-investment due to government
-interference with the market."_ [**Op. Cit.**, p. 69] In response to this
+interference with the market."_ [ **Op. Cit.** , p. 69] In response to this
 (negative) influence in the workings of the market, it is suggested by right-
 libertarians that a system of private banks should be used and that interest
 rates are set by them, via market forces. In this way an interest rate that
@@ -117,16 +115,16 @@ Unsurprisingly, this particular argument has its weak points and in this
 section of the FAQ we will try to show exactly why this theory is wrong.
 
 Let us start with Reckie's starting point. He states that the _"main problem"_
-of the slump is _"why is there suddenly a '**cluster**' of business errors?
+of the slump is _"why is there suddenly a ' **cluster** ' of business errors?
 Businessmen and entrepreneurs are market experts (otherwise they would not
-survive) and why should they all make mistakes simultaneously?"_ [**Op.
-Cit.**, p. 68] It is this _"cluster"_ of mistakes that the Austrians' take as
+survive) and why should they all make mistakes simultaneously?"_ [ **Op.
+Cit.** , p. 68] It is this _"cluster"_ of mistakes that the Austrians' take as
 evidence that the business cycle comes from outside the workings of the market
 (i.e. is exogenous in nature). Reekie argues that an _"error cluster only
 occurs when all entrepreneurs have received the wrong signals on potential
 profitability, and all have received the signals simultaneously through
-government interference with the money supply."_ [**Op. Cit.**, p. 74] But is
-this **really** the case?
+government interference with the money supply."_ [ **Op. Cit.** , p. 74] But
+is this **really** the case?
 
 The simple fact is that groups of (rational) individuals can act in the same
 way based on the same information and this can lead to a collective problem.
@@ -194,7 +192,7 @@ reserve banking is introduced, however, the supply of money substitutes will
 include fiduciary media. The ingenuity of bankers, other financial
 intermediaries and the endorsement and **guaranteeing of their activities by
 governments and central banks** has ensured that the quantity of fiat money is
-immense."_ [**Op. Cit.**, p. 73]
+immense."_ [ **Op. Cit.** , p. 73]
 
 Therefore, what "anarcho"-capitalists and other right-libertarians seem to be
 actually complaining about when they argue that "state action" creates the
@@ -207,11 +205,11 @@ activity, they do not force them to do it. Alan Holmes, a senior vice
 president at the New York Federal Reserve, stated that:
 
 > _"In the real world, banks extend credit, creating deposits in the process,
-and look for the reserves later. The question then becomes one of whether and
-how the Federal Reserve will accommodate the demand for reserves. In the very
-short run, the Federal Reserve has little or no choice about accommodating
-that demand, over time, its influence can obviously be felt."_ [quoted by Doug
-Henwood, **Wall Street**, p. 220]
+> and look for the reserves later. The question then becomes one of whether
+> and how the Federal Reserve will accommodate the demand for reserves. In the
+> very short run, the Federal Reserve has little or no choice about
+> accommodating that demand, over time, its influence can obviously be felt."_
+> [quoted by Doug Henwood, **Wall Street** , p. 220]
 
 (Although we must stress that central banks are **not** passive and do have
 many tools for affecting the supply of money. For example, central banks can
@@ -241,18 +239,18 @@ live in the same expectational climate as businessmen, profit-seeking bankers
 will find ways of accommodating their customers. . . Banks and bankers are not
 passive managers of money to lend or to invest; they are in business to
 maximise profits. . ."_ [quoted by L. Randall Wray, **Money and Credit in
-Capitalist Economies**, p. 85]
+Capitalist Economies** , p. 85]
 
 This is recognised by Reekie, in passing at least (he notes that _"fiduciary
-media could still exist if bankers offered them and clients accepted them"_
-[**Op. Cit.**, p. 73]). Bankers will tend to try and accommodate their
+media could still exist if bankers offered them and clients accepted them"_ [
+**Op. Cit.** , p. 73]). Bankers will tend to try and accommodate their
 customers and earn as much money as possible. Thus Charles P. Kindleberger
 comments that monetary expansion _"is systematic and endogenous rather than
 random and exogenous"_ seem to fit far better the reality of capitalism that
-the Austrian and right-libertarian viewpoint [**Manias, Panics, and Crashes**,
-p. 59] and post-Keynesian L. Randall Wray argues that _"the money supply . . .
-is more obviously endogenous in the monetary systems which predate the
-development of a central bank."_ [**Op. Cit.**, p. 150]
+the Austrian and right-libertarian viewpoint [ **Manias, Panics, and Crashes**
+, p. 59] and post-Keynesian L. Randall Wray argues that _"the money supply . .
+. is more obviously endogenous in the monetary systems which predate the
+development of a central bank."_ [ **Op. Cit.** , p. 150]
 
 In other words, the money supply cannot be directly controlled by the central
 bank since it is determined by private decisions to enter into debt
@@ -260,18 +258,18 @@ commitments to finance spending. Given that money is generated from **within**
 the system, can market forces ensure the non-expansion of credit (i.e. that
 the demand for loans equals the supply of savings)? To begin to answer this
 question we must note that investment is _"essentially determined by expected
-profitability."_ [Philip Arestis, **The Post-Keynesian Approach to
-Economics**, p. 103] This means that the actions of the banks cannot be taken
-in isolation from the rest of the economy. Money, credit and banks are an
+profitability."_ [Philip Arestis, **The Post-Keynesian Approach to Economics**
+, p. 103] This means that the actions of the banks cannot be taken in
+isolation from the rest of the economy. Money, credit and banks are an
 essential part of the capitalist system and they cannot be artificially
 isolated from the expectations, pressures and influences of that system.
 
 Let us assume that the banks desire to maintain a loans to savings ratio of
 one and try to adjust their interest rates accordingly. Firstly, changes in
 the rate of interest _"produce only a very small, if any, movement in business
-investment"_ according to empirical evidence [**Op. Cit.**, pp. 82-83] and
+investment"_ according to empirical evidence [ **Op. Cit.** , pp. 82-83] and
 that _"the demand for credit is extremely inelastic with respect to interest
-rates."_ [L. Randall Wray, **Op. Cit.**, p. 245] Thus, to keep the supply of
+rates."_ [L. Randall Wray, **Op. Cit.** , p. 245] Thus, to keep the supply of
 savings in line with the demand for loans, interest rates would have to
 increase greatly (indeed, trying to control the money supply by controlling
 the monetary bases in this way will only lead to very big fluctuations in
@@ -279,29 +277,29 @@ interest rates). And increasing interest rates has a couple of paradoxical
 effects.
 
 According to economists Joseph Stiglitz and Andrew Weiss (in _"Credit
-Rationing in Markets with Imperfect Knowledge"_, **American Economic Review**,
-no. 71, pp. 393-410) interest rates are subject to what is called the _"lemons
-problem"_ (asymmetrical information between buyer and seller). Stiglitz and
-Weiss applied the "lemons problem" to the credit market and argued (and
-unknowingly repeated Adam Smith) that at a given interest rate, lenders will
-earn lower return by lending to bad borrowers (because of defaults) than to
-good ones. If lenders try to increase interest rates to compensate for this
-risk, they may chase away good borrowers, who are unwilling to pay a higher
-rate, while perversely not chasing away incompetent, criminal, or malignantly
-optimistic borrowers. This means that an increase in interest rates may
-actually increase the possibilities of crisis, as more loans may end up in the
-hands of defaulters.
+Rationing in Markets with Imperfect Knowledge"_ , **American Economic Review**
+, no. 71, pp. 393-410) interest rates are subject to what is called the
+_"lemons problem"_ (asymmetrical information between buyer and seller).
+Stiglitz and Weiss applied the "lemons problem" to the credit market and
+argued (and unknowingly repeated Adam Smith) that at a given interest rate,
+lenders will earn lower return by lending to bad borrowers (because of
+defaults) than to good ones. If lenders try to increase interest rates to
+compensate for this risk, they may chase away good borrowers, who are
+unwilling to pay a higher rate, while perversely not chasing away incompetent,
+criminal, or malignantly optimistic borrowers. This means that an increase in
+interest rates may actually increase the possibilities of crisis, as more
+loans may end up in the hands of defaulters.
 
 This gives banks a strong incentive to keep interest rates lower than they
 otherwise could be. Moreover, _"increases in interest rates make it more
 difficult for economic agents to meet their debt repayments"_ [Philip Arestis,
-**Op. Cit.**, pp. 237-8] which means when interest rates **are** raised,
+**Op. Cit.** , pp. 237-8] which means when interest rates **are** raised,
 defaults will increase and place pressures on the banking system. At high
 enough short-term interest rates, firms find it hard to pay their interest
 bills, which cause/increase cash flow problems and so _"[s]harp increases in
 short term interest rates . . .leads to a fall in the present value of gross
 profits after taxes (quasi-rents) that capital assets are expected to earn."_
-[Hyman Minsky, **Post-Keynesian Economic Theory**, p. 45]
+[Hyman Minsky, **Post-Keynesian Economic Theory** , p. 45]
 
 In addition, _"production of most investment goods is undertaken on order and
 requires time for completion. A rise in interest rates is not likely to cause
@@ -310,7 +308,7 @@ mean . . . that investment is completely unresponsive to interest rates. A
 large increase in interest rates causes a 'present value reversal', forcing
 the marginal efficiency of capital to fall below the interest rate. If the
 long term interest rate is also pushed above the marginal efficiency of
-capital, the project may be abandoned."_ [Wray, **Op. Cit.**, pp. 172-3] In
+capital, the project may be abandoned."_ [Wray, **Op. Cit.** , pp. 172-3] In
 other words, investment takes **time** and there is a lag between investment
 decisions and actual fixed capital investment. So if interest rates vary
 during this lag period, initially profitable investments may become white
@@ -332,9 +330,9 @@ interest rates rise and the defaulters (honest and dishonest) increase and a
 crisis will eventually occur.
 
 This is because increasing interest rates may increase savings **but** it also
-reduce consumption (_"high interest rates also deter both consumers and
+reduce consumption ( _"high interest rates also deter both consumers and
 companies from spending, so that the domestic economy is weakened and
-unemployment rises"_ [Paul Ormerod, **The Death of Economics**, p. 70]). This
+unemployment rises"_ [Paul Ormerod, **The Death of Economics** , p. 70]). This
 means that firms can face a drop off in demand, causing them problems and
 (perhaps) leading to a lack of profits, debt repayment problems and failure.
 An increase in interest rates also reduces demand for investment goods, which
@@ -355,7 +353,7 @@ exist). This was the case of the failed Monetarist experiments on the early
 money policy. The "tight" money policy did not, in fact, control the money
 supply. All it did do was increase interest rates and lead to a serious
 financial crisis and a deep recession (as Wray notes, _"the central bank uses
-tight money polices to raise interest rates"_ [**Op. Cit.**, p. 262]). This
+tight money polices to raise interest rates"_ [ **Op. Cit.** , p. 262]). This
 recession, we must note, also broke the backbone of working class resistance
 and the unions in both countries due to the high levels of unemployment it
 generated. As intended, we are sure.
@@ -366,13 +364,13 @@ monopoly" associated with specie money. They argued that the "money monopoly"
 created a "tight" money regime which reduced the demand for labour by
 restricting money and credit and so allowed the exploitation of labour (i.e.
 encouraged wage labour) and stopped the development of non-capitalist forms of
-production. Thus Lysander Spooner's comments that workers need _"**money
+production. Thus Lysander Spooner's comments that workers need _" **money
 capital** to enable them to buy the raw materials upon which to bestow their
 labour, the implements and machinery with which to labour . . . Unless they
 get this capital, they must all either work at a disadvantage, or not work at
 all. A very large portion of them, to save themselves from starvation, have no
-alternative but to sell their labour to others . . ."_ [**A Letter to Grover
-Cleveland**, p. 39] It is interesting to note that workers **did** do well
+alternative but to sell their labour to others . . ."_ [ **A Letter to Grover
+Cleveland** , p. 39] It is interesting to note that workers **did** do well
 during the 1950s and 1960s under a "liberal" money regime than they did under
 the "tighter" regimes of the 1980s and 1990s.
 
@@ -400,7 +398,7 @@ obstructs further the possibility of smooth transitions in industrial
 activity. Because of their past record of profitability, large enterprises
 have higher credit ratings and easier access to credit facilities, and they
 are able to put up larger collateral for a loan."_ [Michael A. Bernstein,
-**The Great Depression**, p. 106] As we noted in section
+**The Great Depression** , p. 106] As we noted in section
 [C.5.1](secC5.md#secc51), the larger the firm, the lower the interest rate
 they have to pay. Thus banks routinely lower their interest rates to their
 best clients even though the future is uncertain and past performance cannot
@@ -427,14 +425,14 @@ make ends meet. As Reekie notes, inflation _"can temporarily reduce employment
 by postponing the time when misdirected labour will be laid off"_ but as
 Austrian's (like Monetarists) think _"inflation is a monetary phenomenon"_ he
 does not understand the real causes of inflation and what they imply for a
-"pure" capitalist system [**Op. Cit.**, p. 67, p. 74]. As Paul Ormerod points
-out _"the claim that inflation is always and everywhere purely caused by
-increases in the money supply, and that there the rate of inflation bears a
+"pure" capitalist system [ **Op. Cit.** , p. 67, p. 74]. As Paul Ormerod
+points out _"the claim that inflation is always and everywhere purely caused
+by increases in the money supply, and that there the rate of inflation bears a
 stable, predictable relationship to increases in the money supply is
 ridiculous."_ And he notes that _"[i]ncreases in the rate of inflation tend to
 be linked to falls in unemployment, and vice versa"_ which indicates its
 **real** causes -- namely in the balance of class power and in the class
-struggle. [**The Death of Economics**, p. 96, p. 131]
+struggle. [ **The Death of Economics** , p. 96, p. 131]
 
 Moreover, if we do take the Austrian theory of the business cycle at face
 value we are drawn to conclusion that in order to finance investment savings
@@ -465,16 +463,16 @@ customers). As Wray argues, _"as banks are profit seeking firms, they find
 ways to increase their liabilities which don't entail increases in reserve
 requirements"_ and _"[i]f banks share the profit expectations of prospective
 borrowers, they can create credit to allow [projects/investments] to
-proceed."_ [**Op. Cit.**, p. 295, p. 283] This can be seen from the historical
-record. As Kindleberger notes, _"the market will create new forms of money in
-periods of boom to get around the limit"_ imposed on the money supply [**Op.
-Cit.**, p. 63]. Trade credit is one way, for example. Under the Monetarist
-experiments of 1980s, there was _"deregulation and central bank constraints
-raised interest rates and created a moral hazard -- banks made increasingly
-risky loans to cover rising costs of issuing liabilities. Rising competition
-from nonbanks and tight money policy forced banks to lower standards and
-increase rates of growth in an attempt to 'grow their way to profitability'"_
-[**Op. Cit.**, p. 293]
+proceed."_ [ **Op. Cit.** , p. 295, p. 283] This can be seen from the
+historical record. As Kindleberger notes, _"the market will create new forms
+of money in periods of boom to get around the limit"_ imposed on the money
+supply [ **Op. Cit.** , p. 63]. Trade credit is one way, for example. Under
+the Monetarist experiments of 1980s, there was _"deregulation and central bank
+constraints raised interest rates and created a moral hazard -- banks made
+increasingly risky loans to cover rising costs of issuing liabilities. Rising
+competition from nonbanks and tight money policy forced banks to lower
+standards and increase rates of growth in an attempt to 'grow their way to
+profitability'"_ [ **Op. Cit.** , p. 293]
 
 Thus credit money ("fiduciary media") is an attempt to overcome the scarcity
 of money within capitalism, particularly the scarcity of specie money. The
@@ -494,8 +492,8 @@ becomes increasingly likely. All in all, the business cycle is part of
 capitalism and **not** caused by "external" factors like the existence of
 government.
 
-As Reekie notes, to Austrians _"ignorance of the future is endemic"_ [**Op.
-Cit.**, p. 117] but you would be forgiven for thinking that this is not the
+As Reekie notes, to Austrians _"ignorance of the future is endemic"_ [ **Op.
+Cit.** , p. 117] but you would be forgiven for thinking that this is not the
 case when it comes to investment. An individual firm cannot know whether its
 investment project will generate the stream of returns necessary to meet the
 stream of payment commitments undertaken to finance the project. And neither
@@ -508,14 +506,14 @@ its market share and profits decrease. After all, commercial banks _"typically
 establish relations with customers to reduce the uncertainty involved in
 making loans. Once a bank has entered into a relationship with a customer, it
 has strong incentives to meet the demands of that customer."_ [Wray, **Op.
-Cit.**, p. 85]
+Cit.** , p. 85]
 
 There are example of fully privatised banks. For example, in the United States
-(_"which was without a central bank after 1837"_) _"the major banks in New
+( _"which was without a central bank after 1837"_ ) _"the major banks in New
 York were in a bind between their roles as profit seekers, which made them
 contributors to the instability of credit, and as possessors of country
 deposits against whose instability they had to guard."_ [Kindleberger, **Op.
-Cit.**, p. 85]
+Cit.** , p. 85]
 
 In Scotland, the banks were unregulated between 1772 and 1845 but _"the
 leading commercial banks accumulated the notes of lessor ones, as the Second
@@ -524,8 +522,8 @@ them to specie if they thought they were getting out of line. They served,
 that is, as an informal controller of the money supply. For the rest, as so
 often, historical evidence runs against strong theory, as demonstrated by the
 country banks in England from 1745 to 1835, wildcat banking in Michigan in the
-1830s, and the latest experience with bank deregulation in Latin America."_
-[**Op. Cit.**, p. 82] And we should note there were a few banking "wars"
+1830s, and the latest experience with bank deregulation in Latin America."_ [
+**Op. Cit.** , p. 82] And we should note there were a few banking "wars"
 during the period of deregulation in Scotland which forced a few of the
 smaller banks to fail as the bigger ones refused their money and that there
 was a major bank failure in the Ayr Bank.
@@ -546,7 +544,7 @@ deep depression, usually via high interest rates). The business cycle,
 therefore, is an endogenous phenomenon caused by the normal functioning of the
 capitalist economic system. Austrian and right-libertarian claims that _"slump
 flows boom, but for a totally unnecessary reason: government inspired mal-
-investment"_ [Reekie, **Op. Cit.**, p. 74] are simply wrong. Over-investment
+investment"_ [Reekie, **Op. Cit.** , p. 74] are simply wrong. Over-investment
 **does** occur, but it is **not** _"inspired"_ by the government. It is
 _"inspired"_ by the banks need to make profits from loans and from businesses
 need for investment funds which the banks accommodate. In other words, by the
@@ -591,7 +589,7 @@ am to receive them. I offer you so much.' The merchant says to the customer,
 want so much.' Who will yield? The weaker."_ He, like all anarchists, saw that
 domination, oppression and exploitation flow from inequalities of
 market/economic power and that the _"power of invasion lies in superior
-strength."_ [**What is Property?**, p. 216, p. 215]
+strength."_ [ **What is Property?** , p. 216, p. 215]
 
 This applies with greatest force to the labour market. While mainstream
 economics and right-libertarian variations of it refuse to acknowledge that
@@ -615,7 +613,7 @@ the economy moves into a downturn. Unemployment rises and wage demands are
 moderated. Eventually, this enables the share of profits first of all to
 stabilise, and then rise. Such an _"interplay between profits and unemployment
 as the key determinant of business cycles"_ is _"observed in the empirical
-data."_ [Paul Ormerod, **The Death of Economics**, p. 188]
+data."_ [Paul Ormerod, **The Death of Economics** , p. 188]
 
 Thus, as an economy approaches full employment the balance of power on the
 labour market changes. The sack is no longer that great a threat as people see
@@ -628,11 +626,11 @@ mobile via the market. And labour that is highly mobile via the market is
 labour whose supply of effort is difficult for managers to control in the
 production process. Hence, the advent of tight labour markets generally
 results in more rapidly rising average costs . . .as well as upward shifts in
-the average cost curve. . ."_ [**Business Organisation and the Myth of the
-Market Economy**, p. 106]
+the average cost curve. . ."_ [ **Business Organisation and the Myth of the
+Market Economy** , p. 106]
 
 In other words, under conditions of full-employment _"employers are in danger
-of losing the upper hand."_ [Juliet B. Schor, **The Overworked American**, p.
+of losing the upper hand."_ [Juliet B. Schor, **The Overworked American** , p.
 75] Schor argues that _"employers have a structural advantage in the labour
 market, because there are typically more candidates ready and willing to
 endure this work marathon [of long hours] than jobs for them to fill."_ [p.
@@ -649,7 +647,7 @@ unemployment rate was under 4 percent for four years. But that experience does
 more to prove the point than any other example. The trauma caused to business
 by those years of a tight labour market was considerable. Since then, there
 has been a powerful consensus that the nation cannot withstand such a low rate
-of unemployment."_ [**Op. Cit.**, pp. 75-76]
+of unemployment."_ [ **Op. Cit.** , pp. 75-76]
 
 So, in other words, full employment is not good for the capitalist system due
 to the power full employment provides workers. Thus unemployment is a
@@ -664,7 +662,7 @@ This was recognised by Individualist Anarchists like Benjamin Tucker, who
 argued that mutual banking would _"give an unheard of impetus to business, and
 consequently create an unprecedented demand for labour, -- a demand which
 would always be in excess of the supply, directly contrary of the present
-condition of the labour market."_ [**The Anarchist Reader**, pp. 149-150] In
+condition of the labour market."_ [ **The Anarchist Reader** , pp. 149-150] In
 other words, full employment would end capitalist exploitation, drive non-
 labour income to zero and ensure the worker the full value of her labour -- in
 other words, end capitalism. Thus, for most (if not all) anarchists the
@@ -685,16 +683,16 @@ by full employment faster than "impure" capitalism.
 As an economy approaches full employment, _"hiring new workers suddenly
 becomes much more difficult. They are harder to find, cost more, and are less
 experiences. Such shortages are extremely costly for a firm."_ [Schor, **Op.
-Cit.**, p. 75] This encourages a firm to pass on these rises to society in the
-form of price rises, so creating inflation. Workers, in turn, try to maintain
-their standard of living. _"Every general increase in labour costs in recent
-years,"_ note J. Brecher and J. Costello in the late 1970s, _"has followed,
-rather than preceded, an increase in consumer prices. Wage increases have been
-the result of workers' efforts to catch up after their incomes have already
-been eroded by inflation. Nor could it easily be otherwise. All a businessman
-has to do to raise a price . . . [is to] make an announcement. . . Wage rates
-. . . are primarily determined by contracts"_ and so cannot be easily adjusted
-in the short term. [**Common Sense for Bad Times**, p, 120]
+Cit.** , p. 75] This encourages a firm to pass on these rises to society in
+the form of price rises, so creating inflation. Workers, in turn, try to
+maintain their standard of living. _"Every general increase in labour costs in
+recent years,"_ note J. Brecher and J. Costello in the late 1970s, _"has
+followed, rather than preceded, an increase in consumer prices. Wage increases
+have been the result of workers' efforts to catch up after their incomes have
+already been eroded by inflation. Nor could it easily be otherwise. All a
+businessman has to do to raise a price . . . [is to] make an announcement. . .
+Wage rates . . . are primarily determined by contracts"_ and so cannot be
+easily adjusted in the short term. [ **Common Sense for Bad Times** , p, 120]
 
 These full employment pressures will still exist with "pure" capitalism (and
 due to the nature of the banking system will not have the safety value of
@@ -714,8 +712,8 @@ unemployment. This flows from the deductive logic of much capitalist
 economics. The basic assumption of capitalism is that markets clear. So if
 unemployment exists then it can only be because the price of labour (wages) is
 too high (Austrian Economist W. Duncan Reekie argues that unemployment will
-_"disappear provided real wages are not artificially high"_ [**Markets,
-Entrepreneurs and Liberty**, p. 72]).
+_"disappear provided real wages are not artificially high"_ [ **Markets,
+Entrepreneurs and Liberty** , p. 72]).
 
 Thus the assumption provokes the conclusion -- unemployment is caused by an
 unclearing market as markets always clear. And the cause for this is either
@@ -728,7 +726,7 @@ is caused by capitalism, not by forces external to it.
 However, let us assume that the right-libertarian theory is correct. Let us
 assume that unemployment is all the fault of the selfish unions and that a
 job-seeker _"who does not want to wait will always get a job in the unhampered
-market economy."_ [von Mises, **Human Action**, p. 595]
+market economy."_ [von Mises, **Human Action** , p. 595]
 
 Would crushing the unions reduce unemployment? Let us assume that the unions
 have been crushed and government has been abolished (or, at the very least,
@@ -796,7 +794,7 @@ a greater amount of labour (i.e. longer hours) to make up for any short fall
 (or to keep their job). This is usually termed the _"efficiency wage"_ effect.
 Similarly, another family member may seek employment in order to maintain a
 given standard of living. Falling wages may cause the number of workers
-seeking employment to **increase**, causing a full further fall in wages and
+seeking employment to **increase** , causing a full further fall in wages and
 so on (and this is ignoring the effects of lowering wages on demand discussed
 in section [C.9](secC9.md)).
 
@@ -805,7 +803,7 @@ argues, _"piece-rate workers were caught in a viscous downward spiral of
 poverty and overwork. . . When rates were low, they found themselves compelled
 to make up in extra output what they were losing on each piece. But the extra
 output produced glutted the market and drove rates down further."_ [Juliet C.
-Schor, **The Overworked American**, p, 58]
+Schor, **The Overworked American** , p, 58]
 
 Thus, in the face of reducing wages, the labour market may see an accumulative
 move away from (rather than towards) full employment, The right-libertarian
@@ -868,7 +866,7 @@ and get round the problem by denying it, but that will not get us very far.
 
 So it is all fine and well saying that "libertarian" capitalism would be based
 upon the maxim _"From each as they choose, to each as they are chosen."_
-[Robert Nozick, **Anarchy, State, and Utopia**, p. 160] But if the labour
+[Robert Nozick, **Anarchy, State, and Utopia** , p. 160] But if the labour
 market is such that workers have little option about what they "choose" to
 give and fear that they will **not** be chosen, then they are at a
 disadvantage when compared to their bosses and so "consent" to being treated
@@ -895,20 +893,20 @@ class of people?
 
 ## 10.3 Was laissez-faire capitalism stable?
 
-&gt; Firstly, we must state that a pure laissez-faire capitalist system has
-not existed. This means that any evidence we present in this section can be
-dismissed by right-libertarians for precisely this fact -- it was not "pure"
-enough. Of course, if they were consistent, you would expect them to shun all
-historical and current examples of capitalism or activity within capitalism,
-but this they do not. The logic is simple -- if X is good, then it is
-permissible to use it. If X is bad, the system is not pure enough.
+> Firstly, we must state that a pure laissez-faire capitalist system has not
+> existed. This means that any evidence we present in this section can be
+> dismissed by right-libertarians for precisely this fact -- it was not "pure"
+> enough. Of course, if they were consistent, you would expect them to shun
+> all historical and current examples of capitalism or activity within
+> capitalism, but this they do not. The logic is simple -- if X is good, then
+> it is permissible to use it. If X is bad, the system is not pure enough.
 
 However, as right-libertarians **do** use historical examples so shall we.
 According to Murray Rothbard, there was _"quasi-laissez-faire
-industrialisation [in] the nineteenth century"_ [**The Ethics of Liberty**, p.
-264] and so we will use the example of nineteenth century America -- as this
-is usually taken as being the closest to pure laissez-faire -- in order to see
-if laissez-faire is stable or not.
+industrialisation [in] the nineteenth century"_ [ **The Ethics of Liberty** ,
+p. 264] and so we will use the example of nineteenth century America -- as
+this is usually taken as being the closest to pure laissez-faire -- in order
+to see if laissez-faire is stable or not.
 
 Yes, we are well aware that 19th century USA was far from laissez-faire --
 there was a state, protectionism, government economic activity and so on --
@@ -934,7 +932,7 @@ and 1907 were also crisis years).
 Part of this instability came from the eras banking system. _"Lack of a
 central banking system,"_ writes Richard Du Boff, _"until the Federal Reserve
 act of 1913 made financial panics worse and business cycle swings more
-severe"_ [**Accumulation and Power**, p. 177] It was in response to this
+severe"_ [ **Accumulation and Power** , p. 177] It was in response to this
 instability that the Federal Reserve system was created; and as Doug Henwood
 notes _"the campaign for a more rational system of money and credit was not a
 movement of Wall Street vs. industry or regional finance, but a broad movement
@@ -942,9 +940,9 @@ of elite bankers and the managers of the new corporations as well as academics
 and business journalists. The emergence of the Fed was the culmination of
 attempts to define a standard of value that began in the 1890s with the
 emergence of the modern professionally managed corporation owned not by its
-managers but dispersed public shareholders."_ [**Wall Street**, p. 93] Indeed,
-the Bank of England was often forced to act as lender of last resort to the
-US, which had no central bank.
+managers but dispersed public shareholders."_ [ **Wall Street** , p. 93]
+Indeed, the Bank of England was often forced to act as lender of last resort
+to the US, which had no central bank.
 
 In the decentralised banking system of the 19th century, during panics
 thousands of banks would hoard resources, so starving the system for liquidity
@@ -953,7 +951,7 @@ one way in which capitalists tried to manage the system's instabilities (at
 the expense of consumers) and the corporation was a response to the outlawing
 of trusts. _"By internalising lots of the competitive system's gaps -- by
 bring more transactions within the same institutional walls -- corporations
-greatly stabilised the economy."_ [Henwood, **Op. Cit.**, p. 94]
+greatly stabilised the economy."_ [Henwood, **Op. Cit.** , p. 94]
 
 All during the hey-day of laissez faire we also find popular protests against
 the money system used, namely specie (in particular gold), which was
@@ -963,11 +961,11 @@ the money monopoly (which included the use of specie as money) as the means by
 which capitalists ensured that _"the labourers . . . [are] kept in the
 condition of wage labourers,"_ and reduced _"to the conditions of servants;
 and subject to all such extortions as their employers . . . may choose to
-practice upon them"_, indeed they became the _"mere tools and machines in the
+practice upon them"_ , indeed they became the _"mere tools and machines in the
 hands of their employers"_. With the end of this monopoly, _"[t]he amount of
 money, capable of being furnished . . . [would assure that all would] be under
 no necessity to act as a servant, or sell his or her labour to others."_
-[Lysander Spooner, **A Letter to Grover Cleveland**, p. 47, p. 39, p. 50, p.
+[Lysander Spooner, **A Letter to Grover Cleveland** , p. 47, p. 39, p. 50, p.
 41] In other words, a specie based system (as desired by many
 "anarcho"-capitalists) was considered a key way of maintaining wage labour and
 exploitation.
@@ -992,7 +990,7 @@ members of the capitalist class who lead the movement towards state-managed
 capitalism in the name of "sound money").
 
 [‹ 9 Is Medieval Iceland an example of "anarcho"-capitalism working in
-practice?](append139.md "Go to previous page" ) [up](append13.md "Go to
-parent page" ) [11 What is the myth of "Natural Law"? ›](append1311.md "Go
-to next page" )
+practice?](append139.md "Go to previous page") [up](append13.md "Go to
+parent page") [11 What is the myth of "Natural Law"? ›](append1311.md "Go to
+next page")
 

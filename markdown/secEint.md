@@ -20,11 +20,12 @@ ideas.
 
 Murray Bookchin in particular has placed anarchist ideas at the centre of
 green debate as well as bringing out the links anarchism has with ecological
-thinking. His eco-anarchism (which he called **social ecology**) was based on
+thinking. His eco-anarchism (which he called **social ecology** ) was based on
 emphasising the **social** nature of the ecological problems we face. In such
-classic works as **Post-Scarcity Anarchism**, **Toward an Ecological Society**
-and **The Ecology of Freedom** he has consistently argued that humanity's
-domination of nature is the result of domination **within** humanity itself.
+classic works as **Post-Scarcity Anarchism** , **Toward an Ecological
+Society** and **The Ecology of Freedom** he has consistently argued that
+humanity's domination of nature is the result of domination **within**
+humanity itself.
 
 However, anarchism has always had an ecological dimension. As Peter Marshall
 notes in his extensive overview of ecological thought, ecologists _"find in
@@ -32,18 +33,18 @@ Proudhon two of their most cherished social principles: federalism and
 decentralisation."_ He _"stands as an important forerunner of the modern
 ecological movement for his stress on the close communion between humanity and
 nature, for his belief in natural justice, for his doctrine of federalism and
-for his insight that liberty is the mother and not the daughter of order."_
-[**Nature's Web**, p. 307 and p. 308] For Proudhon, a key problem was that
+for his insight that liberty is the mother and not the daughter of order."_ [
+**Nature's Web** , p. 307 and p. 308] For Proudhon, a key problem was that
 people viewed the land as _"something which enables them to levy a certain
 revenue each year. Gone is the deep feeling for nature."_ People _"no longer
 love the soil. Landowners sell it, lease it, divide it into shares, prostitute
 it, bargain with it and treat it as an object of speculation. Farmers torture
 it, violate it, exhaust it and sacrifice it to their impatient desire for
 gain. They never become one with it."_ We _"have lost our feeling for
-nature."_ [**Selected Writings of Pierre-Joseph Proudhon**, p. 261]
+nature."_ [ **Selected Writings of Pierre-Joseph Proudhon** , p. 261]
 
 Other precursors of eco-anarchism can be found in Peter Kropotkin's writings.
-For example, in his classic work **Fields, Factories and Workshops**,
+For example, in his classic work **Fields, Factories and Workshops** ,
 Kropotkin argued the case for _"small is beautiful"_ 70 years before E. F.
 Schumacher coined the phase, advocating _"a harmonious balance between
 agriculture and industry. Instead of the concentration of large factories in
@@ -62,8 +63,8 @@ the classic source book on the survival value of co-operation within species
 which Kropotkin regarded as an important factor of evolution, arguing that
 those who claim competition within and between species is the chief or only
 factor have distorted Darwin's work. All this ensures that Kropotkin is _"a
-great inspiration to the modern ecological movement."_ [Marshall, **Op.
-Cit.**, p. 311 and p. 312]
+great inspiration to the modern ecological movement."_ [Marshall, **Op. Cit.**
+, p. 311 and p. 312]
 
 As well as Kropotkin's work, special note must be made of French anarchist
 Elisee Reclus. As Clark and Martin note, Reclus introduced _"a strongly
@@ -74,27 +75,25 @@ project of planetary domination and attempting to restore humanity to its
 rightful place within, rather than above, nature."_ Reclus, _"much more than
 Kropotkin, introduced into anarchist theory themes that were later developed
 in social ecology and eco-anarchism."_ [John P. Clark and Camille Martin
-(ed.), **Anarchy, Geography, Modernity**, p. 19] For example, in 1866 Reclus
+(ed.), **Anarchy, Geography, Modernity** , p. 19] For example, in 1866 Reclus
 argued as follows:
 
-> _ "Wild nature is so beautiful. Is it really necessary for man, in seizing
-it, to proceed with mathematical precision in exploiting each new conquered
-domain and then mark his possession with vulgar constructions and perfectly
-straight boundaries? If this continues to occur, the harmonious contrasts that
-are one of the beauties of the earth will soon give way to depressing
-uniformity . . .  
+> _"Wild nature is so beautiful. Is it really necessary for man, in seizing
+> it, to proceed with mathematical precision in exploiting each new conquered
+> domain and then mark his possession with vulgar constructions and perfectly
+> straight boundaries? If this continues to occur, the harmonious contrasts
+> that are one of the beauties of the earth will soon give way to depressing
+> uniformity . . .  
 >  _
-
 >
-
 > _"The question of knowing which of the works of man serves to beautify and
-which contributes to the degradation of external nature can seem pointless to
-so-called practical minds; nevertheless, it is a matter of the greatest
-importance. Humanity's development is most intimately connected with the
-nature that surrounds it. A secret harmony exists between the earth and the
-peoples whom it nourishes, and when reckless societies allow themselves to
-meddle with that which creates the beauty of their domain, they always end up
-regretting it."_ [quoted by Clark and Martin, **Op. Cit.**, pp. 125-6]
+> which contributes to the degradation of external nature can seem pointless
+> to so-called practical minds; nevertheless, it is a matter of the greatest
+> importance. Humanity's development is most intimately connected with the
+> nature that surrounds it. A secret harmony exists between the earth and the
+> peoples whom it nourishes, and when reckless societies allow themselves to
+> meddle with that which creates the beauty of their domain, they always end
+> up regretting it."_ [quoted by Clark and Martin, **Op. Cit.** , pp. 125-6]
 
 _"Man,"_ Reclus says, can find beauty in _"the intimate and deeply seated
 harmony of his work with that of nature."_ Like the eco-anarchists a century
@@ -109,7 +108,7 @@ beauty,"_ Reclus argued, _"it is not surprising that farmers and
 industrialists, in their own exploitative endeavours, fail to consider whether
 they contribute to defacing the land."_ The capitalist is _"concerned not with
 making his work harmonious with the landscape."_ [quoted by Clark and Martin,
-**Op. Cit.**, p. 28, p. 30, p. 124 and p. 125] Few modern day eco-anarchists
+**Op. Cit.** , p. 28, p. 30, p. 124 and p. 125] Few modern day eco-anarchists
 would disagree.
 
 So, while a specifically ecological anarchism did not develop until the
@@ -148,7 +147,7 @@ the orbit of their practical concerns."_ Eco-anarchists, while supporting such
 partial struggles, stress that _"these problems originate in a hierarchical,
 class, and today, competitive capitalist system that nourishes a view of the
 natural world as a mere agglomeration of 'resources' for human production and
-consumption."_ [**The Ecology of Freedom**, pp. 15-6] This means that while
+consumption."_ [ **The Ecology of Freedom** , pp. 15-6] This means that while
 some kind of environmentalism may be possible under capitalism or some other
 authoritarian system, an ecological approach is impossible. Simply put, the
 concerns of ecology cannot be squeezed into a hierarchical perspective or
@@ -163,10 +162,10 @@ impossible. Libertarian socialist Takis Fotopoulous has argued that the main
 reason why the project of "greening" capitalism is just a utopian dream _"lies
 in a fundamental contradiction that exists between the logic and dynamic of
 the growth economy, on the one hand, and the attempt to condition this dynamic
-with qualitative interests"_ on the other. [_"Development or Democracy?"_, pp.
-57-92, **Society and Nature**, No. 7, p. 82] Green issues, like social ones,
-are inherently qualitative in nature and, as such, it is unsurprising that a
-system based on profit would ignore them.
+with qualitative interests"_ on the other. [ _"Development or Democracy?"_ ,
+pp. 57-92, **Society and Nature** , No. 7, p. 82] Green issues, like social
+ones, are inherently qualitative in nature and, as such, it is unsurprising
+that a system based on profit would ignore them.
 
 Under capitalism, ethics, nature and humanity all have a price tag. And that
 price tag is god. This is understandable as every hierarchical social system
@@ -259,10 +258,10 @@ Peter Marshall's **Nature's Web** presents a good overview of all aspects of
 green thought over human history from a libertarian perspective, including
 excellent summaries of such anarchists as Proudhon, Kropotkin and Bookchin (as
 well as libertarian socialist William Morris and his ecologically balanced
-utopia **News from Nowhere**).
+utopia **News from Nowhere** ).
 
 [‹ Section E - What do anarchists think causes ecological
-problems?](secEcon.md "Go to previous page" ) [up](secEcon.md "Go to
-parent page" ) [E.1 What are the root causes of our ecological problems?
-›](secE1.md "Go to next page" )
+problems?](secEcon.md "Go to previous page") [up](secEcon.md "Go to parent
+page") [E.1 What are the root causes of our ecological problems? ›](secE1.md
+"Go to next page")
 

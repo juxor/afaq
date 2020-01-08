@@ -9,34 +9,34 @@ class, state protection for the ruling class, in other words. As Edward Herman
 points out:
 
 > _"Conservative economists have even developed a concept of a 'natural rate
-of unemployment,' a metaphysical notion and throwback to an eighteenth century
-vision of a 'natural order,' but with a modern apologetic twist. The natural
-rate is defined as the minimum unemployment level consistent with price level
-stability, but, as it is based on a highly abstract model that is not directly
-testable, the natural rate can only be inferred from the price level itself.
-That is, if prices are going up, unemployment is below the 'natural rate' and
-too low, whether the actual rate is 4, 8, or 10 percent. In this world of
-conservative economics, anybody is 'voluntarily' unemployed. Unemployment is a
-matter of rational choice: some people prefer 'leisure' over the real wage
-available at going (or still lower) wage rates . . .  
+> of unemployment,' a metaphysical notion and throwback to an eighteenth
+> century vision of a 'natural order,' but with a modern apologetic twist. The
+> natural rate is defined as the minimum unemployment level consistent with
+> price level stability, but, as it is based on a highly abstract model that
+> is not directly testable, the natural rate can only be inferred from the
+> price level itself. That is, if prices are going up, unemployment is below
+> the 'natural rate' and too low, whether the actual rate is 4, 8, or 10
+> percent. In this world of conservative economics, anybody is 'voluntarily'
+> unemployed. Unemployment is a matter of rational choice: some people prefer
+> 'leisure' over the real wage available at going (or still lower) wage rates
+> . . .  
 >  _
-
 >
-
 > _"Apart from the grossness of this kind of metaphysical legerdemain, the
-very concept of a natural rate of unemployment has a huge built-in bias. It
-takes as granted all the other institutional factors that influence the price
-level-unemployment trade-off (market structures and independent pricing power,
-business investment policies at home and abroad, the distribution of income,
-the fiscal and monetary mix, etc.) and focuses solely on the tightness of the
-labour market as the controllable variable. Inflation is the main threat, the
-labour market (i.e. wage rates and unemployment levels) is the locus of the
-solution to the problem."_ [**Beyond Hypocrisy**, p. 94]
+> very concept of a natural rate of unemployment has a huge built-in bias. It
+> takes as granted all the other institutional factors that influence the
+> price level-unemployment trade-off (market structures and independent
+> pricing power, business investment policies at home and abroad, the
+> distribution of income, the fiscal and monetary mix, etc.) and focuses
+> solely on the tightness of the labour market as the controllable variable.
+> Inflation is the main threat, the labour market (i.e. wage rates and
+> unemployment levels) is the locus of the solution to the problem."_ [
+> **Beyond Hypocrisy** , p. 94]
 
 Unsurprisingly, Herman defines this "natural" rate as _"the rate of
-unemployment preferred by the propertied classes."_ [**Op. Cit.**, p. 156] The
-theory behind this is usually called the _**"Non-Accelerating Inflation Rate
-of Unemployment"**_ (or NAIRU). Like many of the worse aspects of modern
+unemployment preferred by the propertied classes."_ [ **Op. Cit.** , p. 156]
+The theory behind this is usually called the _**"Non-Accelerating Inflation
+Rate of Unemployment"**_ (or NAIRU). Like many of the worse aspects of modern
 economics, the concept was raised Milton Friedman in the late 1960s. At around
 the same time, Edmund Phelps independently developed the theory (and gained
 the so-called "Nobel Prize" in economics for so doing in 2006). Both are
@@ -96,11 +96,12 @@ he introduced the concept there was really nothing _"natural"_ about the
 natural rate theory as it was determined by state policy:
 
 > _"I do not mean to suggest that it is immutable and unchangeable. On the
-contrary, many of the market characteristics that determine its level are man-
-made and policy-made. In the United States, for example, legal minimum wage
-rates . . . and the strength of labour unions all make the natural rate of
-unemployment higher than it would otherwise be."_ [_"The Role of Monetary
-Policy,"_ pp. 1-17, **American Economic Review**, Vol. 68, No. 1, p. 9]
+> contrary, many of the market characteristics that determine its level are
+> man-made and policy-made. In the United States, for example, legal minimum
+> wage rates . . . and the strength of labour unions all make the natural rate
+> of unemployment higher than it would otherwise be."_ [ _"The Role of
+> Monetary Policy,"_ pp. 1-17, **American Economic Review** , Vol. 68, No. 1,
+> p. 9]
 
 Thus the "natural" rate is really a social and political phenomenon which, in
 effect, measures the bargaining strength of working people. This suggests that
@@ -110,14 +111,14 @@ words, about class conflict.
 
 This can be seen when the other (independent) inventor of the "natural" rate
 theory won the so-called Nobel prize in 2006. Unsurprisingly, the
-**Economist** magazine was cock-a-hoop. [_"A natural choice: Edmund Phelps
-earns the economics profession's highest accolade"_, Oct 12th 2006] The
+**Economist** magazine was cock-a-hoop. [ _"A natural choice: Edmund Phelps
+earns the economics profession's highest accolade"_ , Oct 12th 2006] The
 reasons why became clear. According to the magazine, _"Phelps won his laurels
 in part for kicking the feet from under his intellectual forerunners"_ by
 presenting a (neo-classical) explanation for the breakdown of the so-called
 _"Phillips curve."_ This presented a statistical trade-off between inflation
-and unemployment (_"unemployment was low in Britain when wage inflation was
-high, and high when inflation was low"_). The problem was that economists
+and unemployment ( _"unemployment was low in Britain when wage inflation was
+high, and high when inflation was low"_ ). The problem was that economists
 _"were quick -- too quick -- to conclude that policymakers therefore faced a
 grand, macroeconomic trade-off"_ in which, due to _"such a tight labour
 market, companies appease workers by offering higher wages. They then pass on
@@ -138,7 +139,7 @@ does not, sadly, imply full employment"_ and so capitalism required _"leaving
 some workers mouldering on the shelf. Given economists' almost theological
 commitment to the notion that markets clear, the presence of unemployment in
 the world requires a theodicy to explain it."_ The religious metaphor does
-seem appropriate as most economists (and **The Economist**) do treat the
+seem appropriate as most economists (and **The Economist** ) do treat the
 market like a god (a theodicy is a specific branch of theology and philosophy
 that attempts to reconcile the existence of evil in the world with the
 assumption of a benevolent God). And, as with all gods, sacrifices are
@@ -150,12 +151,12 @@ which would ensure a profit).
 
 It is this theory which has governed state policy since the 1980s. In other
 words, government's around the world have been trying to _"cow workers"_ in
-order to ensure their obedience (_"loyalty to the company"_). Unsurprisingly,
-attempts to lower the _"natural rate"_ have all involved using the state to
-break the economic power of working class people (attacking unions, increasing
-interest rates to increase unemployment in order to temporarily _"cow"_
-workers and so on). All so that profits can be keep high in the face of the
-rising wages caused by the natural actions of the market!
+order to ensure their obedience ( _"loyalty to the company"_ ).
+Unsurprisingly, attempts to lower the _"natural rate"_ have all involved using
+the state to break the economic power of working class people (attacking
+unions, increasing interest rates to increase unemployment in order to
+temporarily _"cow"_ workers and so on). All so that profits can be keep high
+in the face of the rising wages caused by the natural actions of the market!
 
 Yet it must be stressed that Friedman's and Phelps' conclusions are hardly
 new. Anarchists and other socialists had been arguing since the 1840s that
@@ -168,32 +169,32 @@ prize for restating, in neo-classical jargon, the model of the labour market
 expounded by, say, Marx:
 
 > _"If [capital’s] accumulation on the one hand increases the demand for
-labour, it increases on the other the supply of workers by 'setting them
-free', while at the same time the pressure of the unemployed compels those
-that are employed to furnish more labour, and therefore makes the supply of
-labour to a certain extent independent of the supply of labourers. The
-movement of the law of supply and demand of labour on this basis completes the
-despotism of capital. Thus as soon as the workers learn the secret of why it
-happens that the more they work, the more alien wealth they produce . . . as
-soon as, by setting up trade unions, etc., they try to organise a planned co-
-operation between employed and unemployed in order to obviate or to weaken the
-ruinous effects of this natural law of capitalistic production on their class,
-so soon capital and its sycophant, political economy, cry out at the
-infringement of the 'eternal' and so to speak 'sacred' law of supply and
-demand. Every combination of employed and unemployed disturbs the 'pure'
-action of this law. But on the other hand, as soon as . . . adverse
-circumstances prevent the creation of an industrial reserve army and, with it,
-the absolute dependence of the working-class upon the capitalist class,
-capital, along with its platitudinous Sancho Panza, rebels against the
-'sacred' law of supply and demand, and tries to check its inadequacies by
-forcible means."_ [**Capital**, Vol. 1, pp. 793-4]
+> labour, it increases on the other the supply of workers by 'setting them
+> free', while at the same time the pressure of the unemployed compels those
+> that are employed to furnish more labour, and therefore makes the supply of
+> labour to a certain extent independent of the supply of labourers. The
+> movement of the law of supply and demand of labour on this basis completes
+> the despotism of capital. Thus as soon as the workers learn the secret of
+> why it happens that the more they work, the more alien wealth they produce .
+> . . as soon as, by setting up trade unions, etc., they try to organise a
+> planned co-operation between employed and unemployed in order to obviate or
+> to weaken the ruinous effects of this natural law of capitalistic production
+> on their class, so soon capital and its sycophant, political economy, cry
+> out at the infringement of the 'eternal' and so to speak 'sacred' law of
+> supply and demand. Every combination of employed and unemployed disturbs the
+> 'pure' action of this law. But on the other hand, as soon as . . . adverse
+> circumstances prevent the creation of an industrial reserve army and, with
+> it, the absolute dependence of the working-class upon the capitalist class,
+> capital, along with its platitudinous Sancho Panza, rebels against the
+> 'sacred' law of supply and demand, and tries to check its inadequacies by
+> forcible means."_ [ **Capital** , Vol. 1, pp. 793-4]
 
 That the **Economist** and Phelps are simply echoing, and confirming, Marx is
 obvious. Modern economics, while disparaging Marx, has integrated this idea
 into its macro-economic policy recommendations by urging the state to
 manipulate the economy to ensure that "inflation" (i.e. wage rises) are under
 control. Economics has played its role of platitudinous sycophant well while
-Phelps' theory has informed state interference (_"forcible means"_) in the
+Phelps' theory has informed state interference ( _"forcible means"_ ) in the
 economy since the 1980s, with the expected result that wages have failed to
 keep up with rising productivity and so capital as enriched itself at the
 expense of labour (see [section C.3](secC3.md) for details). The use of
@@ -202,77 +203,74 @@ blatantly stated by **The Economist** and the head of the American Federal
 Reserve during this period:
 
 > _"there's supporting testimony from Alan Greenspan. Several times during the
-late 1990s, Greenspan worried publicly that, as unemployment drifted steadily
-lower the 'pool of available workers' was running dry. The dryer it ran, the
-greater risk of 'wage inflation,' meaning anything more than minimal
-increases. Productivity gains took some of the edge of this potentially dire
-threat, said Greenspan, and so did 'residual fear of job skill obsolescence,
-which has induced a preference for job security over wage gains' . . . Workers
-were nervous and acting as if the unemployment rate were higher than the 4% it
-reached in the boom. Still, Greenspan was a bit worried, because . . . if the
-pool stayed dry, 'Significant increases in wages, in excess of productivity
-growth, [would] inevitably emerge, absent the unlikely repeal of the law of
-supply and demand.' Which is why Greenspan &amp; Co. raised short-term
-interest rates by about two points during 1999 and the first half of 2000.
-There was no threat of inflation . . . nor were there any signs of rising
-worker militancy. But wages were creeping higher, and the threat of the sack
-was losing some of its bite."_ [Doug Henwood, **After the New Economy**, pp.
-206-7]
+> late 1990s, Greenspan worried publicly that, as unemployment drifted
+> steadily lower the 'pool of available workers' was running dry. The dryer it
+> ran, the greater risk of 'wage inflation,' meaning anything more than
+> minimal increases. Productivity gains took some of the edge of this
+> potentially dire threat, said Greenspan, and so did 'residual fear of job
+> skill obsolescence, which has induced a preference for job security over
+> wage gains' . . . Workers were nervous and acting as if the unemployment
+> rate were higher than the 4% it reached in the boom. Still, Greenspan was a
+> bit worried, because . . . if the pool stayed dry, 'Significant increases in
+> wages, in excess of productivity growth, [would] inevitably emerge, absent
+> the unlikely repeal of the law of supply and demand.' Which is why Greenspan
+> & Co. raised short-term interest rates by about two points during 1999 and
+> the first half of 2000. There was no threat of inflation . . . nor were
+> there any signs of rising worker militancy. But wages were creeping higher,
+> and the threat of the sack was losing some of its bite."_ [Doug Henwood,
+> **After the New Economy** , pp. 206-7]
 
 Which is quite ironic, given that Greenspan's role in the economy was,
 precisely, to _"repeal"_ the _"law of supply and demand."_ As one left-wing
 economist puts it (in a chapter correctly entitled _"The Workers Are Getting
-Uppity: Call In the Fed!"_), the Federal Reverse (like all Central Banks since
-the 1980s) _"worries that if too many people have jobs, or if it is too easy
-for workers to find jobs, there will be upward pressure on wages. More rapid
-wage growth can get translated into more rapidly rising prices -- in other
-words, inflation. So the Fed often decides to raise interest rates to slow the
-economy and keep people out of work in order to keep inflation from increasing
-and eventually getting out of control."_ However, _"[m]ost people probably do
-not realise that the Federal Reserve Board, an agency of the government,
-intervenes in the economy to prevent it from creating too many jobs. But there
-is even more to the story. When the Fed hits the brakes to slow job growth, it
-is not doctors, lawyers, and CEOs who end up without jobs. The people who lose
-are those in the middle and the bottom -- sales clerks, factory workers,
-custodians, and dishwashers. These are the workers who don’t get hired or get
-laid off when the economy slows or goes into a recession."_ [**The
-Conservative Nanny State**, p. 31] Thus the state pushes up unemployment rates
-to slow wage growth, and thereby relieve inflationary pressure. The reason
-should be obvious:
+Uppity: Call In the Fed!"_ ), the Federal Reverse (like all Central Banks
+since the 1980s) _"worries that if too many people have jobs, or if it is too
+easy for workers to find jobs, there will be upward pressure on wages. More
+rapid wage growth can get translated into more rapidly rising prices -- in
+other words, inflation. So the Fed often decides to raise interest rates to
+slow the economy and keep people out of work in order to keep inflation from
+increasing and eventually getting out of control."_ However, _"[m]ost people
+probably do not realise that the Federal Reserve Board, an agency of the
+government, intervenes in the economy to prevent it from creating too many
+jobs. But there is even more to the story. When the Fed hits the brakes to
+slow job growth, it is not doctors, lawyers, and CEOs who end up without jobs.
+The people who lose are those in the middle and the bottom -- sales clerks,
+factory workers, custodians, and dishwashers. These are the workers who don’t
+get hired or get laid off when the economy slows or goes into a recession."_ [
+**The Conservative Nanny State** , p. 31] Thus the state pushes up
+unemployment rates to slow wage growth, and thereby relieve inflationary
+pressure. The reason should be obvious:
 
 > _"In periods of low unemployment, workers don't only gain from higher wages.
-Employers must make efforts to accommodate workers' various needs, such as
-child care or flexible work schedules, because they know that workers have
-other employment options. The Fed is well aware of the difficulties that
-employers face in periods of low unemployment. It compiles a regular survey,
-called the 'Beige Book,' of attitudes from around the country about the state
-of the economy. Most of the people interviewed for the Beige Book are
-employers.  
+> Employers must make efforts to accommodate workers' various needs, such as
+> child care or flexible work schedules, because they know that workers have
+> other employment options. The Fed is well aware of the difficulties that
+> employers face in periods of low unemployment. It compiles a regular survey,
+> called the 'Beige Book,' of attitudes from around the country about the
+> state of the economy. Most of the people interviewed for the Beige Book are
+> employers.  
 >  _
-
 >
-
 > _"From 1997 to 2000, when the unemployment rate was at its lowest levels in
-30 years, the Beige Book was filled with complaints that some companies were
-pulling workers from other companies with offers of higher wages and better
-benefits. Some Beige Books reported that firms had to offer such non-wage
-benefits as flexible work hours, child care, or training in order to retain
-workers. The Beige Books give accounts of firms having to send buses into
-inner cities to bring workers out to the suburbs to work in hotels and
-restaurants. It even reported that some employers were forced to hire workers
-with handicaps in order to meet their needs for labour. _
-
+> 30 years, the Beige Book was filled with complaints that some companies were
+> pulling workers from other companies with offers of higher wages and better
+> benefits. Some Beige Books reported that firms had to offer such non-wage
+> benefits as flexible work hours, child care, or training in order to retain
+> workers. The Beige Books give accounts of firms having to send buses into
+> inner cities to bring workers out to the suburbs to work in hotels and
+> restaurants. It even reported that some employers were forced to hire
+> workers with handicaps in order to meet their needs for labour._
 >
-
 > _"From the standpoint of employers, life is much easier when the workers are
-lined up at the door clamouring for jobs than when workers have the option to
-shop around for better opportunities. Employers can count on a sympathetic ear
-from the Fed. When the Fed perceives too much upward wage pressure, it slams
-on the brakes and brings the party to an end. The Fed justifies limiting job
-growth and raising the unemployment rate because of its concern that inflation
-may get out of control, but this does not change the fact that it is
-preventing workers, and specifically less-skilled workers, from getting jobs,
-and clamping down on their wage growth."_ [**Op. Cit.**, pp. 32-3]
+> lined up at the door clamouring for jobs than when workers have the option
+> to shop around for better opportunities. Employers can count on a
+> sympathetic ear from the Fed. When the Fed perceives too much upward wage
+> pressure, it slams on the brakes and brings the party to an end. The Fed
+> justifies limiting job growth and raising the unemployment rate because of
+> its concern that inflation may get out of control, but this does not change
+> the fact that it is preventing workers, and specifically less-skilled
+> workers, from getting jobs, and clamping down on their wage growth."_ [
+> **Op. Cit.** , pp. 32-3]
 
 This has not happened by accident. Lobbying by business, as another left-wing
 economist stresses, _"is directed toward increasing their economic power"_ and
@@ -286,17 +284,17 @@ unemployment."_ In effect, the Federal Reserve _"has been using monetary
 policy as a form of surrogate incomes policy, and this surrogate policy has
 been tilted against wages in favour of profits"_ and so is regulating the
 economy _"in a manner favourable to business."_ [Thomas I. Palley, **Plenty of
-Nothing**, p. 77, p. 111 and pp. 112-3] That this is done under the name of
+Nothing** , p. 77, p. 111 and pp. 112-3] That this is done under the name of
 fighting inflation should not fool us:
 
-> _ "Mild inflation is often an indication that workers have some bargaining
-strength and may even have the upper hand. Yet, it is at exactly this stage
-that the Fed now intervenes owning to its anti-inflation commitment, and this
-intervention raises interest rates and unemployment. Thus, far from being
-neutral, the Fed's anti-inflation policy implies siding with business in the
-ever-present conflict between labour and capital over distribution of the
-fruits of economic activity . . . natural-rate theory serves as the perfect
-cloak for a pro-business policy stance."_ [**Op. Cit.**, p. 110]
+> _"Mild inflation is often an indication that workers have some bargaining
+> strength and may even have the upper hand. Yet, it is at exactly this stage
+> that the Fed now intervenes owning to its anti-inflation commitment, and
+> this intervention raises interest rates and unemployment. Thus, far from
+> being neutral, the Fed's anti-inflation policy implies siding with business
+> in the ever-present conflict between labour and capital over distribution of
+> the fruits of economic activity . . . natural-rate theory serves as the
+> perfect cloak for a pro-business policy stance."_ [ **Op. Cit.** , p. 110]
 
 In a sense, it is understandable that the ruling class within capitalism
 desires to manipulate unemployment in this way and deflect questions about
@@ -312,8 +310,8 @@ insecurity. As left-wing economist Thomas Balogh put it, full employment
 _"generally removes the need for servility, and thus alters the way of life,
 the relationship between classes . . . weakening the dominance of men over
 men, dissolving the master-servant relation. It is the greatest engine for the
-attainment by all of human dignity and greater equality."_ [**The Irrelevance
-of Conventional Economics**, p. 47]
+attainment by all of human dignity and greater equality."_ [ **The Irrelevance
+of Conventional Economics** , p. 47]
 
 Which explains, in part, why the 1960s and 1970s were marked by mass social
 protest against authority rather than von Hayek's _"Road to Serfdom."_ It also
@@ -323,8 +321,8 @@ standing up to their bosses and so work harder, for longer and in worse
 conditions. This ensures that surplus value is increased relative to wages
 (indeed, in the USA, real wages have stagnated since 1973 while profits have
 grown massively). In addition, such a policy ensures that political discussion
-about investment, profits, power and so on (_"the other institutional
-factors"_) are reduced and diverted because working class people are too busy
+about investment, profits, power and so on ( _"the other institutional
+factors"_ ) are reduced and diverted because working class people are too busy
 trying to make ends meet. Thus the state intervenes in the economy to **stop**
 full employment developing to combat inflation and instability on behalf of
 the capitalist class.
@@ -391,7 +389,7 @@ governing the fall of the estimated NAIRU. The literature simply observes that
 inflation hasn't occurred and so the previous estimate must have been too
 high."_ He stresses, economists have held _"to a concept in the face of twenty
 years of unexplained variation, predictive failure, and failure of the
-profession to coalesce on procedural issues."_ [**Created Unequal**, p. 180]
+profession to coalesce on procedural issues."_ [ **Created Unequal** , p. 180]
 Given that most mainstream economists subscribe to this fallacy, it just shows
 how the "science" accommodates itself to the needs of the powerful and how the
 powerful will turn to any old nonsense if it suits their purpose. A better
@@ -424,7 +422,7 @@ throughout the cycle is considerably below the peak reached in the boom. The
 reserve of capital equipment and the reserve army of unemployed are typical
 features of capitalist economy at least throughout a considerable part of the
 [business] cycle."_ [quoted by Malcolm C. Sawyer, **The Economics of Michal
-Kalecki**, pp. 115-6]
+Kalecki** , pp. 115-6]
 
 It is doubtful that "pure" capitalism will be any different. This is due to
 the nature of the system. What is missing from the orthodox analysis is an
@@ -463,8 +461,8 @@ more to prove the point than any other example. The trauma caused to business
 by those years of a tight labour market was considerable. Since then, there
 has been a powerful consensus that the nation cannot withstand such a low rate
 of unemployment."_ Hence the support for the NAIRU to ensure that _"forced
-idleness of some helps perpetuate the forced overwork of others."_ [**The
-Overworked American**, p. 71, p. 75, p. 129, pp. 75-76 and p. 76]
+idleness of some helps perpetuate the forced overwork of others."_ [ **The
+Overworked American** , p. 71, p. 75, p. 129, pp. 75-76 and p. 76]
 
 So, full employment under capitalism is unlikely to last long (nor would full
 employment booms fill a major part of the business cycle). In addition, it
@@ -473,13 +471,14 @@ equilibrium or that unemployment is temporary adjustments is false, even given
 the logic of capitalist economics. As Proudhon argued:
 
 > _"The economists admit it [that machinery causes unemployment]: but here
-they repeat their eternal refrain that, after a lapse of time, the demand for
-the product having increased in proportion to the reduction in price [caused
-by the investment], labour in turn will come finally to be in greater demand
-than ever. Undoubtedly, **with time,** the equilibrium will be restored; but I
-must add again, the equilibrium will be no sooner restored at this point than
-it will be disturbed at another, because the spirit of invention never
-stops."_ [**System of Economical Contradictions**, pp. 200-1]
+> they repeat their eternal refrain that, after a lapse of time, the demand
+> for the product having increased in proportion to the reduction in price
+> [caused by the investment], labour in turn will come finally to be in
+> greater demand than ever. Undoubtedly, **with time,** the equilibrium will
+> be restored; but I must add again, the equilibrium will be no sooner
+> restored at this point than it will be disturbed at another, because the
+> spirit of invention never stops."_ [ **System of Economical Contradictions**
+> , pp. 200-1]
 
 That capitalism creates permanent unemployment and, indeed, needs it to
 function is a conclusion that few, if any, pro-"free market" capitalists
@@ -488,7 +487,7 @@ in capitalism, they argue that reality is not close enough to their theories
 and must be changed (usually by weakening the power of labour by welfare
 "reform" and reducing "union power"). Thus reality is at fault, not the theory
 (to re-quote Proudhon, _"Political economy -- that is, proprietary despotism
--- can never be in the wrong: it must be the proletariat."_ [**Op. Cit.** p.
+-- can never be in the wrong: it must be the proletariat."_ [ **Op. Cit.** p.
 187]) So if unemployment exists, then its because real wages are too high, not
 because capitalists need unemployment to discipline labour (see [section
 C.9.2](secC9.md#secc92) for evidence that this argument is false). Or if
@@ -503,7 +502,7 @@ theory, where the basic assumptions are chosen on the basis of direct
 observation of the phenomena the behaviour of which forms the subject-matter
 of the theory, the basic assumptions of economic theory are either of a kind
 that are unverifiable. . . or of a kind which are directly contradicted by
-observation."_ [**Further Essays on Applied Economics**, pp. 177-8])
+observation."_ [ **Further Essays on Applied Economics** , pp. 177-8])
 
 Of course, reality often has the last laugh on any ideology. For example,
 since the late 1970s and early 1980s right-wing capitalist parties have taken
@@ -526,19 +525,19 @@ the words of two critics of neo-liberalism, that the _"performance of the
 world economy since capital was liberalised has been worse than when it was
 tightly controlled"_ and that _"[t]hus far, [the] actual performance [of
 liberalised capitalism] has not lived up to the propaganda."_ [Larry Elliot
-and Dan Atkinson, **The Age of Insecurity**, p. 274 and p. 223] In fact, as
+and Dan Atkinson, **The Age of Insecurity** , p. 274 and p. 223] In fact, as
 Palley notes, _"wage and income growth that would have been deemed totally
 unsatisfactory a decade ago are now embraced as outstanding economic
-performance."_ [**Op. Cit.**, p. 202]
+performance."_ [ **Op. Cit.** , p. 202]
 
 Lastly, it is apparent merely from a glance at the history of capitalism
 during its laissez-faire heyday in the 19th century that "free" competition
 among workers for jobs does not lead to full employment. Between 1870 and
 1913, unemployment was at an average of 5.7% in the 16 more advanced
 capitalist countries. This compares to an average of 7.3% in 1913-50 and 3.1%
-in 1950-70. [Takis Fotopoulos, _"The Nation-State and the Market"_, pp. 37-80,
-**Society and Nature**, Vol. 2, No. 2, p. 61] If laissez-faire did lead to
-full employment, these figures would, surely, be reversed.
+in 1950-70. [Takis Fotopoulos, _"The Nation-State and the Market"_ , pp.
+37-80, **Society and Nature** , Vol. 2, No. 2, p. 61] If laissez-faire did
+lead to full employment, these figures would, surely, be reversed.
 
 As discussed above, full employment **cannot** be a fixed feature of
 capitalism due to its authoritarian nature and the requirements of production
@@ -575,9 +574,9 @@ This position was brazenly put by "Austrian" economist Murray Rothbard. He
 opposed any suggestion that wages should **not** be cut as the notion that
 _"the first shock of the depression must fall on profits and not on wages."_
 This was _"precisely the reverse of sound policy since profits provide the
-motive power for business activity."_ [**America's Great Depression**, p. 188]
-Rothbard's analysis of the Great Depression is so extreme it almost reads like
-a satirical attack on the laissez-faire position as his hysterical anti-
+motive power for business activity."_ [ **America's Great Depression** , p.
+188] Rothbard's analysis of the Great Depression is so extreme it almost reads
+like a satirical attack on the laissez-faire position as his hysterical anti-
 unionism makes him blame unions for the depression for, apparently, merely
 existing (even in an extremely weakened state) for their influence was such as
 to lead economists and the President to recommend to numerous leading
@@ -652,12 +651,12 @@ and prolonged that it could not be contemplated. Hence he concluded that real
 wages must be lowered by the process of lowering the value of money,"_ i.e. by
 inflation. Thus _"the supply of money must be so increased as to raise prices
 to a level where the real value of the prevailing money wage is no longer
-greater than the productivity of the workers seeking employment."_ [**The
-Constitution of Liberty**, p. 280] This is echoed by libertarian Marxist Paul
+greater than the productivity of the workers seeking employment."_ [ **The
+Constitution of Liberty** , p. 280] This is echoed by libertarian Marxist Paul
 Mattick who presented an identical argument, stressing that for Keynes _"wages
 were less flexible than had been generally assumed"_ and lowering real wages
 by inflation _"allowed for more subtle ways of wage-cutting than those
-traditionally employed."_ [**Marx and Keynes**, p. 7]
+traditionally employed."_ [ **Marx and Keynes** , p. 7]
 
 Both are wrong. These arguments are a serious distortion of Keynes's argument.
 While he did start by assuming the neo-classical position that unemployment
@@ -675,8 +674,8 @@ flexibility in both commodity and labour markets. As he stressed, his
 _"criticism of the accepted [neo-]classical theory of economics has consisted
 not so much in finding logical flaws in its analysis as in pointing out that
 its tacit assumptions are seldom or never satisfied, with the result that it
-cannot solve the economic problems of the actual world."_ [**The General
-Theory**, p. 378]
+cannot solve the economic problems of the actual world."_ [ **The General
+Theory** , p. 378]
 
 What Keynes did was to consider the **overall** effect of cutting wages on the
 economy as a whole. Given that wages make up a significant part of the costs
@@ -698,19 +697,20 @@ that they have **no** control over their real wages and so **cannot** reduce
 unemployment by pricing themselves into work by accepting lower wages. Given
 these obvious facts, Keynes concluded that there was _"no ground for the
 belief that a flexible wage policy is capable of continuous full employment .
-. . The economic system cannot be made self-adjusting along these lines."_
-[**Op. Cit.**, p. 12, pp. 8-9, p. 15 and p. 267] As he summarised:
+. . The economic system cannot be made self-adjusting along these lines."_ [
+**Op. Cit.** , p. 12, pp. 8-9, p. 15 and p. 267] As he summarised:
 
 > _"the contention that the unemployment which characterises a depression is
-due to a refusal by labour to accept a reduction of money-wages is not clearly
-supported by the facts. It is not very plausible to assert that unemployment
-in the United States in 1932 was due either to labour obstinately refusing to
-accept a reduction of money-wages or to its demanding a real wage beyond what
-the productivity of the economic machine was capable of furnishing . . .
-Labour is not more truculent in the depression than in the boom -- far from
-it. Nor is its physical productivity less. These facts from experience are a
-**prima facie** ground for questioning the adequacy of the [neo-]classical
-analysis."_ [**Op. Cit.**, p. 9]
+> due to a refusal by labour to accept a reduction of money-wages is not
+> clearly supported by the facts. It is not very plausible to assert that
+> unemployment in the United States in 1932 was due either to labour
+> obstinately refusing to accept a reduction of money-wages or to its
+> demanding a real wage beyond what the productivity of the economic machine
+> was capable of furnishing . . . Labour is not more truculent in the
+> depression than in the boom -- far from it. Nor is its physical productivity
+> less. These facts from experience are a **prima facie** ground for
+> questioning the adequacy of the [neo-]classical analysis."_ [ **Op. Cit.** ,
+> p. 9]
 
 This means that the standard neo-classical argument was flawed. While cutting
 wages may make sense for one firm, it would not have this effect throughout
@@ -737,7 +737,7 @@ However, in order make this claim, the theory depends on three critical
 assumptions, namely that firms can expand production, that they will expand
 production, and that, if they do, they can sell their expanded production.
 This theory and its assumptions can be questioned. To do so we will draw upon
-David Schweickart's excellent summary. [**Against Capitalism**, pp. 105-7]
+David Schweickart's excellent summary. [ **Against Capitalism** , pp. 105-7]
 
 The first assumption states that it is always possible for a company to take
 on new workers. Yet increasing production requires more than just labour.
@@ -785,10 +785,10 @@ fall in wages may result in the same or even more unemployment as aggregate
 demand drops and companies cannot find a market for their goods. And so,
 _"[i]f prices do not fall, it is still worse, for then real wages are reduced
 and unemployment is increased directly by the fall in the purchase of
-consumption goods."_ [Joan Robinson, **Further Contributions to Economics**,
+consumption goods."_ [Joan Robinson, **Further Contributions to Economics** ,
 p. 34]
 
-The "Pigou" (or _"real balance"_) effect is another neo-classical argument
+The "Pigou" (or _"real balance"_ ) effect is another neo-classical argument
 that aims to prove that (in the end) capitalism will pass from slump to boom
 quickly. This theory argues that when unemployment is sufficiently high, it
 will lead to the price level falling which would lead to a rise in the real
@@ -813,7 +813,7 @@ generated by low levels of demand, the aggregate real income will be low.
 Bankruptcies follow, debts cannot be repaid, and a confidence crisis was
 likely to follow."_ In other words, debtors may cut back on spending more than
 creditors would increase it and so the depression would continue as demand did
-not rise. [Malcolm C. Sawyer, **The Economics of Michal Kalecki**, p. 90]
+not rise. [Malcolm C. Sawyer, **The Economics of Michal Kalecki** , p. 90]
 
 So, the traditional neo-classical reply that investment spending will increase
 because lower costs will mean greater profits, leading to greater savings, and
@@ -833,22 +833,21 @@ before, let alone more. In that case they will cut production, add to
 unemployment and further reduce demand. This can set off a vicious downward
 spiral of falling demand and plummeting production leading to depression, a
 process described by Kropotkin (nearly 40 years before Keynes made the same
-point in **The General Theory**):
+point in **The General Theory** ):
 
 > _"Profits being the basis of capitalist industry, low profits explain all
-ulterior consequences.  
+> ulterior consequences.  
 >  _
-
 >
-
 > _"Low profits induce the employers to reduce the wages, or the number of
-workers, or the number of days of employment during the week. . . As Adam
-Smith said, low profits ultimately mean a reduction of wages, and low wages
-mean a reduced consumption by the worker. Low profits mean also a somewhat
-reduced consumption by the employer; and both together mean lower profits and
-reduced consumption with that immense class of middlemen which has grown up in
-manufacturing countries, and that, again, means a further reduction of profits
-for the employers."_ [**Fields, Factories and Workshops Tomorrow**, p. 33]
+> workers, or the number of days of employment during the week. . . As Adam
+> Smith said, low profits ultimately mean a reduction of wages, and low wages
+> mean a reduced consumption by the worker. Low profits mean also a somewhat
+> reduced consumption by the employer; and both together mean lower profits
+> and reduced consumption with that immense class of middlemen which has grown
+> up in manufacturing countries, and that, again, means a further reduction of
+> profits for the employers."_ [ **Fields, Factories and Workshops Tomorrow**
+> , p. 33]
 
 So, as is often the case, Keynes was simply including into mainstream
 economics perspectives which had long been held by critics of capitalism and
@@ -860,10 +859,10 @@ something, they are [his] customers: what will you do with your products, when
 driven away by [him], they shall consume no longer?"_ This means that cutting
 wages and employment would not work for they are _"not slow in dealing
 employers a counter-blow; for if production excludes consumption, it is soon
-obliged to stop itself."_ [**System of Economical Contradictions**, p. 204 and
-p. 190] Significantly, Keynes praised Proudhon's follower Silvio Gesell for
-getting part of the answer and for producing _"an anti-Marxian socialism"_
-which the _"future will learn more from"_ than Marx. [**Op. Cit.**, p. 355]
+obliged to stop itself."_ [ **System of Economical Contradictions** , p. 204
+and p. 190] Significantly, Keynes praised Proudhon's follower Silvio Gesell
+for getting part of the answer and for producing _"an anti-Marxian socialism"_
+which the _"future will learn more from"_ than Marx. [ **Op. Cit.** , p. 355]
 
 So far our critique of the "free market" position has, like Keynes's, been
 within the assumptions of that theory itself. More has to be said, though, as
@@ -895,9 +894,9 @@ Robinson and Piero Sraffa had successfully debunked this theory in the 1950s.
 _"Yet for psychological and political reasons,"_ notes James K. Galbraith,
 _"rather than for logical and mathematical ones, the capital critique has not
 penetrated mainstream economics. It likely never will. Today only a handful of
-economists seem aware of it."_ [_"The distribution of income"_, pp. 32-41,
+economists seem aware of it."_ [ _"The distribution of income"_ , pp. 32-41,
 Richard P. F. Holt and Steven Pressman (eds.), **A New Guide to Post Keynesian
-Economics**, p. 34] Given that this underlies the argument that high wages
+Economics** , p. 34] Given that this underlies the argument that high wages
 cause high unemployment, it means that the mainstream argument for cutting
 wages has no firm theoretical basis.
 
@@ -909,14 +908,14 @@ for more discussion). Hence Joan Robinson's dismissal of this assumption, for
 _"the difference between the future and the past is eliminated by making
 capital 'malleable' so that mistakes can always be undone and equilibrium is
 always guaranteed. . . with 'malleable' capital the demand for labour depends
-on the level of wages."_ [**Contributions to Modern Economics**, p. 6]
+on the level of wages."_ [ **Contributions to Modern Economics** , p. 6]
 Moreover, _"labour and capital are not often as smoothly substitutable for
 each other as the [neo-classical] model requires . . . You can't use one
 without the other. You can't measure the marginal productivity of one without
 the other."_ Demand for capital and labour is, sometimes, a **joint** demand
 and so it is often to adjust wages to a worker's marginal productivity
 independent of the cost of capital. [Hugh Stretton, **Economics: A New
-Introduction**, p. 401]
+Introduction** , p. 401]
 
 Then there is the role of diminishing returns. The assumption that the demand
 curve for labour is always downward sloping with respect to aggregate
@@ -928,7 +927,7 @@ identical to the aggregate demand curve for labour is not true as it is
 inconsistent with empirical evidence. _"In a system at increasing returns,"_
 noted one economist, _"the direct relation between real wages and employment
 tends to render the ordinary mechanism of wage adjustment ineffective and
-unstable."_ [Ferdinando Targetti, **Nicholas Kaldor**, p. 344] In fact, as
+unstable."_ [Ferdinando Targetti, **Nicholas Kaldor** , p. 344] In fact, as
 discussed in [section C.1.2](secC1.md#secc12), without this assumption
 mainstream economics cannot show that unemployment is, in fact, caused by real
 wages being too high (along with many other things).
@@ -949,26 +948,26 @@ employment and the real wage, it is employment that determines wages.
 Employment and unemployment are product market variables, not labour market
 variables. Thus attempts to restore full employment by cutting wages are
 fundamentally misguided."_ [John E. King, _"Labor and Unemployment,"_ pp.
-65-78, Holt and Pressman (eds.), **Op. Cit.**, p. 68, pp. 67-8, p. 72, p. 68
+65-78, Holt and Pressman (eds.), **Op. Cit.** , p. 68, pp. 67-8, p. 72, p. 68
 and p. 72] In addition:
 
 > _"Neo-classical theorists themselves have conceded that a negative
-relationship between the real wage and the level of employment can be
-established only in a one-commodity model; in a multi-commodity framework no
-such generalisation is possible. This confines neo-classical theory to an
-economy without money and makes it inapplicable to a capitalist or
-entrepreneurial economy."_ [**Op. Cit.**, p. 71]
+> relationship between the real wage and the level of employment can be
+> established only in a one-commodity model; in a multi-commodity framework no
+> such generalisation is possible. This confines neo-classical theory to an
+> economy without money and makes it inapplicable to a capitalist or
+> entrepreneurial economy."_ [ **Op. Cit.** , p. 71]
 
 And, of course, the whole analysis is rooted in the notion of perfect
 competition. As Nicholas Kaldor mildly put it:
 
 > _"If economics had been a 'science' in the strict sense of the word, the
-empirical observation that most firms operate in imperfect markets would have
-forced economists to scrap their existing theories and to start thinking on
-entirely new lines . . . unfortunately economists do not feel under the same
-compulsion to maintain a close correspondence between theoretical hypotheses
-and the facts of experience."_ [**Further Essays on Economic Theory ad
-Policy**, p. 19]
+> empirical observation that most firms operate in imperfect markets would
+> have forced economists to scrap their existing theories and to start
+> thinking on entirely new lines . . . unfortunately economists do not feel
+> under the same compulsion to maintain a close correspondence between
+> theoretical hypotheses and the facts of experience."_ [ **Further Essays on
+> Economic Theory ad Policy** , p. 19]
 
 Any real economy is significantly different from the impossible notion of
 perfect competition and _"if there exists even one monopoly anywhere in the
@@ -977,7 +976,7 @@ value of their output. So to concede the existence of monopoly requires that
 one either drop the competitive model entirely or construct an elaborate new
 theory . . . that divides the world into monopolistic, competitive, and
 subcompetitive ('exploited') sectors."_ [James K. Galbraith, **Created
-Unequal**, p. 52] As noted in [section C.4.3](secC4.md#secc43), mainstream
+Unequal** , p. 52] As noted in [section C.4.3](secC4.md#secc43), mainstream
 economists have admitted that monopolistic competition (i.e., oligopoly) is
 the dominant market form but they cannot model it due to the limitations of
 the individualistic assumptions of bourgeois economics. Meanwhile, while
@@ -990,7 +989,7 @@ All this means that _"neither the demand for labour nor the supply of labour
 depends on the real wage. It follows from this that the labour market is not a
 true market, for the price associated with it, the wage rate, is incapable of
 performing any market-clearing function, and thus variations in the wage rate
-cannot eliminate unemployment."_ [King, **Op. Cit.**, p. 65] As such, the
+cannot eliminate unemployment."_ [King, **Op. Cit.** , p. 65] As such, the
 _"conventional economic analysis of markets . . . is unlikely to apply"_ to
 the labour market and as a result _"wages are highly unlikely to reflect
 workers' contributions to production."_ This is because economists treat
@@ -1006,7 +1005,7 @@ to produce a very high supply of labour as workers need to work more to meet
 their basic needs. In addition, as noted at the end of [section
 C.1.4](secC1.md#secc14), economic theory itself shows that workers will not
 get a fair wage when they face very powerful employers unless they organise
-unions. [Steve Keen, **Debunking Economics**, pp. 111-2 and pp. 119-23]
+unions. [Steve Keen, **Debunking Economics** , pp. 111-2 and pp. 119-23]
 
 Strong evidence that this model of the labour market can be found from the
 history of capitalism. Continually we see capitalists turn to the state to
@@ -1017,7 +1016,7 @@ to labour. They had little need for money, so they worked a day or two then
 disappeared for the rest of the week. To avoid simply introducing slavery,
 some colonial administrators introduced and enforced a poll-tax. To earn
 enough to pay it, workers had to work a full week. [Hugh Stretton, **Op.
-Cit.**, p. 403] Much the same was imposed on British workers at the dawn of
+Cit.** , p. 403] Much the same was imposed on British workers at the dawn of
 capitalism. As Stephen Marglin points out, the _"indiscipline of the labouring
 classes, or more bluntly, their laziness, was widely noted by eighteenth
 century observers."_ By laziness or indiscipline, these members of the ruling
@@ -1029,8 +1028,8 @@ was disastrous"_ for the capitalists. Unsurprisingly, the bosses did not
 meekly accept the workings of the invisible hand. Their _"first recourse was
 to the law"_ and they _"utilised the legislative, police and judicial powers
 of the state"_ to ensure that working class people had to supply as many hours
-as the bosses demanded. [_"What do Bosses do?"_, pp. 60-112, **Review of
-Radical Political Economy**, Vol. 6, No. 2, pp. 91-4]
+as the bosses demanded. [ _"What do Bosses do?"_ , pp. 60-112, **Review of
+Radical Political Economy** , Vol. 6, No. 2, pp. 91-4]
 
 This means that the market supply curve _"could have any shape at all"_ and so
 economic theory _"fails to prove that employment is determined by supply and
@@ -1048,7 +1047,7 @@ empirical foundations, rather than the flimsy substrate of mere fancy.
 Economists are quite prone to dismiss alternative perspectives on labour
 market policy on this very basis -- that they lack any theoretical or
 empirical foundations. Yet their own policy positions are based as much on
-wishful thinking as on wisdom."_ [**Op. Cit.**, pp. 121-2 and p. 123]
+wishful thinking as on wisdom."_ [ **Op. Cit.** , pp. 121-2 and p. 123]
 
 Within a capitalist economy the opposite assumption to that taken by economics
 is far more likely, namely that there **is** a backward sloping labour supply
@@ -1073,7 +1072,7 @@ accept the hours set by their bosses). This is the opposite of what happens in
 "normal" markets, where lower prices are meant to produce a **decrease** in
 the amount of the commodity supplied. In other words, the labour market is not
 a market, i.e. it reacts in different ways than other markets (Stretton
-provides a good summary of this argument [**Op. Cit.**, pp. 403-4 and p.
+provides a good summary of this argument [ **Op. Cit.** , pp. 403-4 and p.
 491]).
 
 So, as radical economists have correctly observe, such considerations undercut
@@ -1089,7 +1088,7 @@ have been. Moreover, wages are generally spent immediately and completely
 whilst profits are not. A shift from profits to wages may stimulate the
 economy since more money is spent but there will be a delayed cut in
 consumption out of profits. [Malcolm Sawyer, **The Economics of Michal
-Kalecki**, p. 118] All this should be obvious, as wages (and benefits) may be
+Kalecki** , p. 118] All this should be obvious, as wages (and benefits) may be
 costs for some firms but they are revenue for even more and labour is not like
 other commodities and reacts in changes in price in different ways.
 
@@ -1181,12 +1180,12 @@ economics since at least 1939 when in March of that year **The Economic
 Journal** printed an article by Keynes about the movement of real wages during
 a boom in which he evaluated the empirical analysis of two labour economists
 (entitled _"Relative Movements of Real Wages and Output"_ this is contained as
-an Appendix of most modern editions of **The General Theory**).
+an Appendix of most modern editions of **The General Theory** ).
 
 These studies showed that _"when money wages are rising, real wages have
 usually risen too; whilst, when money wages are falling, real wages are no
 more likely to rise than to fall."_ Keynes admitted that in **The General
-Theory** he was _"accepting, without taking care to check the facts"_, a
+Theory** he was _"accepting, without taking care to check the facts"_ , a
 _"widely held"_ belief. He discussed where this belief came from, namely
 leading 19th century British economist Alfred Marshall who had produced a
 _"generalisation"_ from a six year period between 1880-86 which was not true
@@ -1196,7 +1195,7 @@ cycles have, on the whole, been associated with higher rates of real wages
 than the lower halves"_ and indicates that he provided evidence on this from
 1850 to 1910 (although this did not stop Pigou reverting to the _"Marshallian
 tradition"_ during the Great Depression and blaming high unemployment on high
-wages). [**The General Theory**, p. 394, p. 398 and p. 399] Keynes conceded
+wages). [ **The General Theory** , p. 394, p. 398 and p. 399] Keynes conceded
 the point, arguing that he had tried to minimise differences between his
 analysis and the standard perspective. He stressed that while he assumed
 countercyclical real wages his argument did not depend on it and given the
@@ -1210,84 +1209,80 @@ to blame it on workers refusing to take pay cuts when by 1933 _"wages and
 salaries in U.S. manufacturing were less than half their 1929 levels and, in
 automobiles and steel, were under 40 percent of the 1929 levels."_ In Detroit,
 there had been 475,000 auto-workers. By 1931 _"almost half has been laid
-off."_ [William Lazonick, **Competitive Advantage on the Shop Floor**, p. 271]
-The notion of all powerful unions or workers' resistance to wage cuts causing
-high unemployment hardly fits these facts. Peter Temin provides information on
-real wages in manufacturing during the depression years. Using 1929 as the
-base year, weekly average real wages (i.e., earnings divided by the consumer
-price index) fell each year to reach a low of 85.5% by 1932. Hourly real wages
-remained approximately constant (rising to 100.1% in 1930 and then 102.6% in
-1931 before falling to 99% in 1932). The larger fall in weekly wages was due
-to workers having a shorter working week. The _"effect of shorter hours and
-lower wages was to decrease the income of employed workers."_ Thus the notion
-that lowering wages will increase employment seems as hard to support as the
-notion that wages being too high caused the depression in the first place.
-Temin argues, _"no part of the [neo-]classical story is accurate."_ [**Did
-Monetary Forces Cause the Great Depression?**, pp. 139-40] It should be noted
-that the consensus of economists is that during this period the evidence seems
-to suggest that real wages **did** rise overall. This was because the prices
-of commodities fell faster than did the wages paid to workers. Which confirms
-Keynes, as he had argued that workers cannot price themselves into work as
-they have no control over prices. However, there is no reason to think that
-high real wages caused the high unemployment as the slump itself forced
-producers to cut prices (not to mention wages). Rather, the slump caused the
-increase in real wages.
+off."_ [William Lazonick, **Competitive Advantage on the Shop Floor** , p.
+271] The notion of all powerful unions or workers' resistance to wage cuts
+causing high unemployment hardly fits these facts. Peter Temin provides
+information on real wages in manufacturing during the depression years. Using
+1929 as the base year, weekly average real wages (i.e., earnings divided by
+the consumer price index) fell each year to reach a low of 85.5% by 1932.
+Hourly real wages remained approximately constant (rising to 100.1% in 1930
+and then 102.6% in 1931 before falling to 99% in 1932). The larger fall in
+weekly wages was due to workers having a shorter working week. The _"effect of
+shorter hours and lower wages was to decrease the income of employed
+workers."_ Thus the notion that lowering wages will increase employment seems
+as hard to support as the notion that wages being too high caused the
+depression in the first place. Temin argues, _"no part of the [neo-]classical
+story is accurate."_ [ **Did Monetary Forces Cause the Great Depression?** ,
+pp. 139-40] It should be noted that the consensus of economists is that during
+this period the evidence seems to suggest that real wages **did** rise
+overall. This was because the prices of commodities fell faster than did the
+wages paid to workers. Which confirms Keynes, as he had argued that workers
+cannot price themselves into work as they have no control over prices.
+However, there is no reason to think that high real wages caused the high
+unemployment as the slump itself forced producers to cut prices (not to
+mention wages). Rather, the slump caused the increase in real wages.
 
 Since then, economists have generally confirmed that real wage are
 procyclical. In fact, _"a great deal of empirical research has been conducted
 in this area -- research which mostly contradicts the neo-classical assumption
 of an inverse relation between real wages and employment."_ [Ferdinando
-Targetti, **Nicholas Kaldor**, p. 50] Nicholas Kaldor, one of the first
+Targetti, **Nicholas Kaldor** , p. 50] Nicholas Kaldor, one of the first
 Keynesians, also stressed that the notion that there is an inverse
 relationship between real wages and employment is _"contradicted by numerous
 empirical studies which show that, in the short period, changes in real wages
-are positively correlated with changes in employment and not negatively."_
-[**Further Essays on Economic Theory and Policy**, p. 114fn] As Hugh Stretton
+are positively correlated with changes in employment and not negatively."_ [
+**Further Essays on Economic Theory and Policy** , p. 114fn] As Hugh Stretton
 summarises in his excellent introductory text on economics:
 
 > _"In defiance of market theory, the demand for labour tends strongly to vary
-**with** its price, not inversely to it. Wages are high when there is full
-employment. Wages -- especially for the least-skilled and lowest paid -- are
-lowest when there is least employment. The causes chiefly run from the
-employment to the wages, rather than the other way. Unemployment weakens the
-bargaining power, worsens the job security and working conditions, and lowers
-the pay of those still in jobs.  
+> **with** its price, not inversely to it. Wages are high when there is full
+> employment. Wages -- especially for the least-skilled and lowest paid -- are
+> lowest when there is least employment. The causes chiefly run from the
+> employment to the wages, rather than the other way. Unemployment weakens the
+> bargaining power, worsens the job security and working conditions, and
+> lowers the pay of those still in jobs.  
 >  _
-
 >
-
 > _"The lower wages do not induce employers to create more jobs . . . most
-business firms have no reason to take on more hands if wages decline. Only
-empty warehouses, or the prospect of more sales can get them to do that, and
-these conditions rarely coincide with falling employment and wages. The causes
-tend to work the other way: unemployment lowers wages, and the lower wages do
-not restore the lost employment."_ [**Economics: A New Introduction**, pp.
-401-2]
+> business firms have no reason to take on more hands if wages decline. Only
+> empty warehouses, or the prospect of more sales can get them to do that, and
+> these conditions rarely coincide with falling employment and wages. The
+> causes tend to work the other way: unemployment lowers wages, and the lower
+> wages do not restore the lost employment."_ [ **Economics: A New
+> Introduction** , pp. 401-2]
 
 Will Hutton, the British neo-Keynesian economist, summarises research by two
 other economists that suggests high wages do not cause unemployment:
 
 > _"the British economists David Blanchflower and Andrew Oswald [examined] . .
-. the data in twelve countries about the actual relation between wages and
-unemployment -- and what they have discovered is another major challenge to
-the free market account of the labour market. Free market theory would predict
-that low wages would be correlated with low local unemployment; and high wages
-with high local unemployment.  
+> . the data in twelve countries about the actual relation between wages and
+> unemployment -- and what they have discovered is another major challenge to
+> the free market account of the labour market. Free market theory would
+> predict that low wages would be correlated with low local unemployment; and
+> high wages with high local unemployment.  
 >  _
-
 >
-
 > _"Blanchflower and Oswald have found precisely the opposite relationship.
-The higher the wages, the lower the local unemployment -- and the lower the
-wages, the higher the local unemployment. As they say, this is not a
-conclusion that can be squared with free market text-book theories of how a
-competitive labour market should work."_ [**The State We're In**, p. 102]
+> The higher the wages, the lower the local unemployment -- and the lower the
+> wages, the higher the local unemployment. As they say, this is not a
+> conclusion that can be squared with free market text-book theories of how a
+> competitive labour market should work."_ [ **The State We're In** , p. 102]
 
 Unemployment was highest where real wages were lowest and nowhere had falling
 wages being followed by rising employment or falling unemployment.
 Blanchflower and Oswald stated that their conclusion is that employees _"who
 work in areas of high unemployment earn less, other things constant, than
-those who are surrounded by low unemployment."_ [**The Wage Curve**, p. 360]
+those who are surrounded by low unemployment."_ [ **The Wage Curve** , p. 360]
 This relationship, the exact opposite of that predicted by "free market"
 capitalist economics, was found in many different countries and time periods,
 with the curve being similar for different countries. Thus, the evidence
@@ -1299,7 +1294,7 @@ unemployment, why did the South-eastern states of the USA (with a **lower**
 minimum wage and weaker unions) have a **higher** unemployment rate than
 North-western states during the 1960s and 1970s? Or why, when the (relative)
 minimum wage declined under Reagan and Bush in the 1980s, did chronic
-unemployment accompany it? [Allan Engler, **The Apostles of Greed**, p. 107]
+unemployment accompany it? [Allan Engler, **The Apostles of Greed** , p. 107]
 Or the **Low Pay Network** report _"Priced Into Poverty"_ which discovered
 that in the 18 months before they were abolished, the British Wages Councils
 (which set minimum wages for various industries) saw a rise of 18,200 in full-
@@ -1322,8 +1317,8 @@ It should also be noted that an extensive analysis of the impact of minimum
 wage increases at the state level in America by economists David Card and Alan
 Kreuger found the facts contradicted the standard theory, with rises in the
 minimum wage having a small positive impact on both employment and wages for
-all workers. [**Myth and Measurement: The New Economics of the Minimum Wage**]
-While their work was attacked by business leaders and economists from think-
+all workers. [ **Myth and Measurement: The New Economics of the Minimum Wage**
+] While their work was attacked by business leaders and economists from think-
 tanks funded by them, Card and Kreuger's findings that raising the lowest
 wages had no effect on unemployment or decreased it proved to be robust. In
 particular, when replying to criticism of their work by other economists who
@@ -1331,14 +1326,14 @@ based their work, in part, on data supplied by a business funded think-tank
 Card and Krueger discovered that not only was that work consistent with their
 original findings but that the _"only data set that indicates a significant
 decline in employment"_ was by some amazing coincidence _"the small set of
-restaurants collected by"_ the think tank. [_"Minimum Wages and Employment: A
-Case Study of the Fast-Food Industry in New Jersey and Pennsylvania: Reply"_,
-pp. 1397-1420, **The American Economic Review**, Vol. 90, No. 5, p. 1419] For
+restaurants collected by"_ the think tank. [ _"Minimum Wages and Employment: A
+Case Study of the Fast-Food Industry in New Jersey and Pennsylvania: Reply"_ ,
+pp. 1397-1420, **The American Economic Review** , Vol. 90, No. 5, p. 1419] For
 a good overview of _"how the fast food industry and its conservative allies
 sought to discredit two distinguished economists, and how the attack
 backfired"_ when _"the two experts used by the fast food industry to impeach
 Card and Krueger, effectively ratified them"_ see John Schmitt's _"Behind the
-Numbers: Cooked to Order."_ [**The American Prospect**, May-June 1996, pp.
+Numbers: Cooked to Order."_ [ **The American Prospect** , May-June 1996, pp.
 82-85]
 
 (This does not mean that anarchists support the imposition of a legal minimum
@@ -1398,7 +1393,7 @@ and above all power, with an admixture of ingenuity and luck. But of course
 power, and particularly market or monopoly power, changes with the general of
 demand, the rate of growth, and the rate of unemployment. In periods of high
 employment, the weak gain on the strong; in periods of high unemployment, the
-strong gain on the weak."_ [Galbraith, **Created Unequal**, p. 266]
+strong gain on the weak."_ [Galbraith, **Created Unequal** , p. 266]
 
 This should be obvious enough. It is difficult for workers to resist wage cuts
 and speeds-up when faced with the fear of mass unemployment. As such, higher
@@ -1406,7 +1401,7 @@ rates of unemployment _"reduce labour's bargaining power vis-a-vis business,
 and this helps explain why wages have declined and workers have not received
 their share of productivity growth"_ (between 1970 and 1993, only the top 20%
 of the US population increased its share of national income). [Thomas I.
-Palley, **Plenty of Nothing**, p. 55 and p. 58] Strangely, though, this
+Palley, **Plenty of Nothing** , p. 55 and p. 58] Strangely, though, this
 obvious fact seems lost on most economists. In fact, if you took their
 arguments seriously then you would have to conclude that depressions and
 recessions are the periods during which working class people do the best! This
@@ -1422,7 +1417,7 @@ friction"_ stopped this, which _"establish[ed] a higher standard of living
 among the working classes"_ and a _"diminish[ing of] the inequalities of
 wealth."_ When asked whether during a period of depression the employed
 working classes got more than they did before, he replied _"[m]ore than they
-did before, on the average."_ [quoted by Keynes, **Op. Cit.**, p. 396]
+did before, on the average."_ [quoted by Keynes, **Op. Cit.** , p. 396]
 
 Thus, apparently, working class people do worse in booms than in slumps and,
 moreover, they can resist wage cuts more in the face of mass unemployment than
@@ -1437,8 +1432,8 @@ individuals make their choices. As Bob Black acidly put it with regards to the
 productivity], not in higher wages, not in safer working conditions, and not
 in shorter hours -- hours of work have **increased** . . . It must be, then,
 that in the 80s and after workers have 'chosen' lower wages, longer hours
-**and** greater danger on the job. Yeah, sure."_ [_"Smokestack Lightning,"_
-pp. 43-62, **Friendly Fire**, p. 61]
+**and** greater danger on the job. Yeah, sure."_ [ _"Smokestack Lightning,"_
+pp. 43-62, **Friendly Fire** , p. 61]
 
 In the real world, workers have little choice but to accept a job as they have
 no independent means to exist in a pure capitalist system and so no wages
@@ -1453,8 +1448,8 @@ increased job insecurity and so workers will be more willing to placate their
 bosses by obeying and not complaining. Needless to say, empirical evidence
 shows that _"when unemployment is high, inequality rises. And when
 unemployment is low, inequality tends to fall."_ [James K. Galbraith, **Op.
-Cit.**, p. 148] This is unsurprising as the _"wage curve"_ suggests that it is
-unemployment which drives wage levels, not the other way round. This is
+Cit.** , p. 148] This is unsurprising as the _"wage curve"_ suggests that it
+is unemployment which drives wage levels, not the other way round. This is
 important as higher unemployment would therefore create higher inequality as
 workers are in no position to claim back productivity increases and so wealth
 would flood upwards.
@@ -1483,7 +1478,7 @@ associated with the decline in time for family . . . they have also been
 forced to work longer . . . Americans are working longer just to maintain
 their current position, and the quality of family life is likely declining. A
 time squeeze has therefore accompanied the wage squeeze."_ [Palley, **Op.
-Cit.**, pp. 63-4] That is, the supply of labour **increased** as its price
+Cit.** , pp. 63-4] That is, the supply of labour **increased** as its price
 fell (Reagan's turn to military Keynesianism and incomplete nature of the
 "reforms" ensured that a deep spiral was avoided).
 
@@ -1520,11 +1515,11 @@ support aggregate demand nor could the unemployed use their benefits to
 stimulate the production of consumer goods. This suggests that a fully
 competitive labour market, as in the 19th century, would increase the
 instability of the system -- an analysis which was confirmed in during the
-1980s (_"the relationship between measured inequality and economic stability .
-. . was weak but if anything it suggests that the more egalitarian countries
+1980s ( _"the relationship between measured inequality and economic stability
+. . . was weak but if anything it suggests that the more egalitarian countries
 showed a more stable pattern of growth after 1979."_ [Dan Corry and Andrew
-Glyn, _"The Macroeconomics of equality, stability and growth"_, **Paying for
-Inequality**, Andrew Glyn and David Miliband (eds.) pp. 212-213]).
+Glyn, _"The Macroeconomics of equality, stability and growth"_ , **Paying for
+Inequality** , Andrew Glyn and David Miliband (eds.) pp. 212-213]).
 
 So, in summary, the available evidence suggests that **high** wages are
 associated with **low** levels of unemployment. While this should be the
@@ -1579,10 +1574,10 @@ and have been conducted with much the same rationale -- it made people lazy
 and gave them flexibility when seeking work. For example, the British **Poor
 Law Report** of the 1830s _"built its case against relief on the damage done
 by poor relief to personal morality and labour discipline (much the same thing
-in the eyes of the commissioners)."_ [David McNally, **Against the Market**,
+in the eyes of the commissioners)."_ [David McNally, **Against the Market** ,
 p. 101] The report itself stated that _"the greatest evil"_ of the system was
 _"the spirit of laziness and insubordination that it creates."_ [quoted by
-McNally, **Op. Cit.**, p. 101]
+McNally, **Op. Cit.** , p. 101]
 
 While the rhetoric used to justify attacks on welfare has changed somewhat
 since then, the logic and rationale have not. They have as their root the need
@@ -1641,31 +1636,32 @@ between unemployment and benefits is, if anything, in the 'wrong' direction
 of other influences on unemployment but _"if benefits were very important we
 might expect **some** degree of correlation in the 'right' (positive)
 direction . . . such a lack of simple relation with unemployment applies to
-other likely suspects such as employment protection and union membership."_
-[**Capitalism Unleashed**, p. 48, p. 121, p. 48 and p. 47]
+other likely suspects such as employment protection and union membership."_ [
+**Capitalism Unleashed** , p. 48, p. 121, p. 48 and p. 47]
 
 Nor is it mentioned that the history of labour market flexibility is somewhat
 at odds with the theory. It is useful to remember that American unemployment
 was far worse than Europe's during the 1950s, 60s and 70s. In fact, it did not
 get better than the European average until the second half of the 1980s.
-[David R. Howell, _"Introduction"_, pp. 3-34, **Fighting Unemployment**, David
-R. Howell (ed.), pp. 10-11] To summarise:
+[David R. Howell, _"Introduction"_ , pp. 3-34, **Fighting Unemployment** ,
+David R. Howell (ed.), pp. 10-11] To summarise:
 
 > _"it appears to be only relatively recently that the maintained greater
-flexibility of US labour markets has apparently led to a superior performance
-in terms of lower unemployment, despite the fact this flexibility is no new
-phenomenon. Comparing, for example, the United States with the United Kingdom,
-in the 1960s the United States averaged 4.8 per cent, with the United Kingdom
-at 1.9 per cent; in the 1970s the United States rate rose to 6.1 per cent,
-with the United Kingdom rising to 4.3 per cent, and it was only in the 1980s
-that the ranking was reversed with the United States at 7.2 per cent and the
-United Kingdom at 10 per cent. . . Notice that this reversal of rankings in
-the 1980s took place despite all the best efforts of Mrs Thatcher to create
-labour market flexibility. . . [I]f labour market flexibility is important in
-explaining the level of unemployment. . . why does the level of unemployment
-remain so persistently high in a country, Britain, where active measures have
-been taken to create flexibility?"_ [Keith Cowling and Roger Sugden, **Beyond
-Capitalism**, p. 9]
+> flexibility of US labour markets has apparently led to a superior
+> performance in terms of lower unemployment, despite the fact this
+> flexibility is no new phenomenon. Comparing, for example, the United States
+> with the United Kingdom, in the 1960s the United States averaged 4.8 per
+> cent, with the United Kingdom at 1.9 per cent; in the 1970s the United
+> States rate rose to 6.1 per cent, with the United Kingdom rising to 4.3 per
+> cent, and it was only in the 1980s that the ranking was reversed with the
+> United States at 7.2 per cent and the United Kingdom at 10 per cent. . .
+> Notice that this reversal of rankings in the 1980s took place despite all
+> the best efforts of Mrs Thatcher to create labour market flexibility. . .
+> [I]f labour market flexibility is important in explaining the level of
+> unemployment. . . why does the level of unemployment remain so persistently
+> high in a country, Britain, where active measures have been taken to create
+> flexibility?"_ [Keith Cowling and Roger Sugden, **Beyond Capitalism** , p.
+> 9]
 
 If we look at the fraction of the labour force without a job in America, we
 find that in 1969 it was 3.4% (7.3% including the underemployed) and **rose**
@@ -1685,12 +1681,12 @@ reduces unemployment. As one British economist notes, this may not be the
 case:
 
 > _"Open unemployment is, of course, lower in the US. But once we allow for
-all forms of non-employment [such as underemployment, jobless workers who are
-not officially registered as such and so on], there is little difference
-between Europe and the US: between 1988 and 1994, 11 per cent of men aged
-25-55 were not in work in France, compared with 13 per cent in the UK, 14 per
-cent in the US and 15 per cent in Germany."_ [Richard Layard, quoted by John
-Gray, **False Dawn**, p. 113]
+> all forms of non-employment [such as underemployment, jobless workers who
+> are not officially registered as such and so on], there is little difference
+> between Europe and the US: between 1988 and 1994, 11 per cent of men aged
+> 25-55 were not in work in France, compared with 13 per cent in the UK, 14
+> per cent in the US and 15 per cent in Germany."_ [Richard Layard, quoted by
+> John Gray, **False Dawn** , p. 113]
 
 Also when evaluating the unemployment records of a country, other factors than
 the "official" rate given by the government must taken into account. Firstly,
@@ -1716,12 +1712,12 @@ not in jail. If America and the UK did not have the huge surge in prison
 population since the 1980s neo-liberal reforms, the unemployment rate in both
 countries would be significantly higher. In the late 1990s, for example, more
 than a million extra people would be seeking work if the US penal policies
-resembled those of any other Western nation. [John Gray, **Op. Cit.**, p. 113]
-England and Wales, unsurprisingly, tops the prison league table for Western
-Europe. In 2005, 145 per 100,000 of their population was incarcerated. In
-comparison, France had a rate of 88 while Germany had one of 97. This would,
-obviously, reduce the numbers of those seeking work on the labour market and,
-consequently, reduce the unemployment statistics.
+resembled those of any other Western nation. [John Gray, **Op. Cit.** , p.
+113] England and Wales, unsurprisingly, tops the prison league table for
+Western Europe. In 2005, 145 per 100,000 of their population was incarcerated.
+In comparison, France had a rate of 88 while Germany had one of 97. This
+would, obviously, reduce the numbers of those seeking work on the labour
+market and, consequently, reduce the unemployment statistics.
 
 While the UK is praised for its "flexible" labour market in the 2000s, many
 forget the price which was paid to achieve it and even more fail to realise
@@ -1742,11 +1738,11 @@ unemployment was recorded in order to artificially lower the official
 unemployment records. It also should be stressed that the UK unemployment
 figures do not take into account the Thatcherite policy of shunting as many
 people as possible off the unemployment roles and onto sickness and incapacity
-benefits during the 1980s and 1990s (_"In some countries, like the UK and the
+benefits during the 1980s and 1990s ( _"In some countries, like the UK and the
 Netherlands, many [of the unemployed] found their way onto sickness benefit .
 . . Across the UK, for example, there was a strong positive correlation
 between numbers on sickness benefits and the local unemployment rate."_ [Glyn,
-**Op. Cit.**, p. 107]). Once these "hidden" people are included the
+**Op. Cit.** , p. 107]). Once these "hidden" people are included the
 unemployment figures of Britain are similar to those countries, such as France
 and Germany, who are more honest in recording who is and is not unemployed.
 
@@ -1791,17 +1787,17 @@ unemployment than the USA (in 2002, 10 of 18 European countries had lower
 unemployment rates). Thus:
 
 > _"Often overlooked in the 1990s in the rush to embrace market fundamentalism
-and to applaud the American model was the fact that several European countries
-with strong welfare states consistently reported unemployment rates well below
-that of the United States . . . At the same time, other European welfare
-sates, characterised by some of the lowest levels of wage inequality and the
-highest levels of social protection in the developed world, experienced
-substantial declines in unemployment over the 1990s, reaching levels that are
-now below that of the United States."_ [David R. Howell, _"Conclusion"_, pp.
-310-43, **Op. Cit.**, p. 310]
+> and to applaud the American model was the fact that several European
+> countries with strong welfare states consistently reported unemployment
+> rates well below that of the United States . . . At the same time, other
+> European welfare sates, characterised by some of the lowest levels of wage
+> inequality and the highest levels of social protection in the developed
+> world, experienced substantial declines in unemployment over the 1990s,
+> reaching levels that are now below that of the United States."_ [David R.
+> Howell, _"Conclusion"_ , pp. 310-43, **Op. Cit.** , p. 310]
 
 As such, it is important to remember that _"the empirical basis"_ of the neo-
-liberal OECD-IMF orthodoxy is _"limited."_ [Howell, **Op. Cit.**, p. 337] In
+liberal OECD-IMF orthodoxy is _"limited."_ [Howell, **Op. Cit.** , p. 337] In
 fact, the whole "Europe is in a state of decline" narrative which is used to
 justify the imposition of neo-liberal reforms there is better understood as
 the corporate media's clever ploy to push Europe into the hands of the self-
@@ -1822,8 +1818,8 @@ example, assume that 90% of French youths are in education and of the
 remaining 10%, 5% are in work and 5% are unemployed. This last 10% are the
 "labour force" and so we would get a massive 50% unemployment rate but this is
 due to the low (5%) employment rate. Looking at the youth population as a
-whole, only 5% are actually unemployed. [David R. Howell, _"Introduction"_,
-pp. 3-34, **Op. Cit.**, pp. 13-14] By the standard measure, French males age
+whole, only 5% are actually unemployed. [David R. Howell, _"Introduction"_ ,
+pp. 3-34, **Op. Cit.** , pp. 13-14] By the standard measure, French males age
 15-24 had an unemployment rate of 20.8% in 2007, as compared to 11.8% in
 America. Yet this difference is mainly because, in France (as in the rest of
 Europe), there are many more young males not in the labour force (more are in
@@ -1891,7 +1887,7 @@ growth should have come already from the very substantial deregulation already
 undertaken. Deregulation should have contributed to an acceleration in
 productivity growth in Europe whereas actually productivity growth declines.
 It is hard to see how regulation, which was declining, could be the source of
-Europe's slowdown."_ [Glyn, **Op. Cit.**, p. 144]
+Europe's slowdown."_ [Glyn, **Op. Cit.** , p. 144]
 
 So, perhaps, "flexibility" is not the solution to unemployment some claim it
 is (after all, the lack of a welfare state in the 19th century did not stop
@@ -1908,10 +1904,10 @@ first by the [German] Bundesbank and then by the European Central Bank . . .
 it has been essential to keep wages moderate and budget deficits limited. With
 domestic demand severely constrained, many European countries experiences
 particularly poor employment growth in the mid-1990s."_ [David R. Howell,
-_"Conclusion"_, **Op. Cit.**, p. 337] This has been essentially imposed by the
-EU bureaucrats onto the European population and as these policies, like the EU
-itself, has the support of most of Europe's ruling class such an explanation
-is off the political agenda.
+_"Conclusion"_ , **Op. Cit.** , p. 337] This has been essentially imposed by
+the EU bureaucrats onto the European population and as these policies, like
+the EU itself, has the support of most of Europe's ruling class such an
+explanation is off the political agenda.
 
 So if "flexibility" does not result in lower unemployment, just what is it
 good for? The net results of American labour market "flexibility" were
@@ -1922,20 +1918,21 @@ explained why unemployment managed to fall below the standard NAIRU rate
 without inflation increasing. In his words:
 
 > _"Increases in hourly compensation . . . have continued to fall far short of
-what they would have been had historical relationships between compensation
-gains and the degree of labour market tightness held . . . As I see it,
-heightened job insecurity explains a significant part of the restraint on
-compensation and the consequent muted price inflation . . . The continued
-reluctance of workers to leave their jobs to seek other employment as the
-labour market has tightened provides further evidence of such concern, as does
-the tendency toward longer labour union contracts . . . The low level of work
-stoppages of recent years also attests to concern about job security . . . The
-continued decline in the share of the private workforce in labour unions has
-likely made wages more responsive to market forces . . . Owing in part to the
-subdued behaviour of wages, profits and rates of return on capital have risen
-to high levels."_ [quoted by Jim Stanford, _"Testing the Flexibility Paradigm:
-Canadian Labor Market Performance in International Context,"_ pp. 119-155,
-**Fighting Unemployment**, David R. Howell (ed.), pp. 139-40]
+> what they would have been had historical relationships between compensation
+> gains and the degree of labour market tightness held . . . As I see it,
+> heightened job insecurity explains a significant part of the restraint on
+> compensation and the consequent muted price inflation . . . The continued
+> reluctance of workers to leave their jobs to seek other employment as the
+> labour market has tightened provides further evidence of such concern, as
+> does the tendency toward longer labour union contracts . . . The low level
+> of work stoppages of recent years also attests to concern about job security
+> . . . The continued decline in the share of the private workforce in labour
+> unions has likely made wages more responsive to market forces . . . Owing in
+> part to the subdued behaviour of wages, profits and rates of return on
+> capital have risen to high levels."_ [quoted by Jim Stanford, _"Testing the
+> Flexibility Paradigm: Canadian Labor Market Performance in International
+> Context,"_ pp. 119-155, **Fighting Unemployment** , David R. Howell (ed.),
+> pp. 139-40]
 
 Under such circumstances, it is obvious why unemployment could drop and
 inflation remain steady. Yet there is a massive contradiction in Greenspan's
@@ -1944,21 +1941,22 @@ state of the class struggle, ready to intervene when the workers may be
 winning, it also suggests that flexibility works just one way:
 
 > _"Some of the features highlighted by Greenspan reflect precisely a **lack**
-of flexibility in the labour market: a lack of response of compensation to
-tight labour markets, a reluctance of workers to leave their jobs, and the
-prevalence of long-term contracts that lock employment arrangements for six or
-more years at a time. And so Greenspan's portrayal of the unique features of
-the US model suggests that something more than flexibility is the key
-ingredient at work -- or at least that 'flexibility' is being interpreted once
-again from an unbalanced and one-sided perspective. It is, rather, a high
-degree of labour market **discipline** that seems to be the operative force.
-US workers remain insecure despite a relatively low unemployment rate, and
-hence compensation gains . . . were muted. This implies a consequent
-redistribution of income from labour to capital . . . Greenspan's story is
-more about **fear** than it is about flexibility -- and hence this famous
-testimony has come to be known as Greenspan's 'fear factor' hypothesis, in
-which he concisely described the importance of labour market discipline for
-his conduct of monetary policy."_ [Jim Stanford, **Op. Cit.**, p. 140]
+> of flexibility in the labour market: a lack of response of compensation to
+> tight labour markets, a reluctance of workers to leave their jobs, and the
+> prevalence of long-term contracts that lock employment arrangements for six
+> or more years at a time. And so Greenspan's portrayal of the unique features
+> of the US model suggests that something more than flexibility is the key
+> ingredient at work -- or at least that 'flexibility' is being interpreted
+> once again from an unbalanced and one-sided perspective. It is, rather, a
+> high degree of labour market **discipline** that seems to be the operative
+> force. US workers remain insecure despite a relatively low unemployment
+> rate, and hence compensation gains . . . were muted. This implies a
+> consequent redistribution of income from labour to capital . . . Greenspan's
+> story is more about **fear** than it is about flexibility -- and hence this
+> famous testimony has come to be known as Greenspan's 'fear factor'
+> hypothesis, in which he concisely described the importance of labour market
+> discipline for his conduct of monetary policy."_ [Jim Stanford, **Op. Cit.**
+> , p. 140]
 
 So while this attack on the wages, working conditions and social welfare is
 conducted under the pre-Keynesian notion of wages being _"sticky"_ downwards,
@@ -1978,9 +1976,9 @@ business funded think-tanks, the US central bank can rely on job insecurity
 and ideology to keep workers in their place in spite of relatively lower
 official unemployment. Meanwhile, as the rich get richer many working class
 people spend their time making ends meet and blaming everyone and everything
-but their ruling class for their situation (_"US families must work even more
+but their ruling class for their situation ( _"US families must work even more
 hours to achieve the standard of living their predecessors achieved 30 years
-ago."_ [David R. Howell, _"Conclusion"_, **Op. Cit.**, p. 338]).
+ago."_ [David R. Howell, _"Conclusion"_ , **Op. Cit.** , p. 338]).
 
 All this is unsurprising for anarchists as we recognise that "flexibility"
 just means weakening the bargaining power of labour in order to increase the
@@ -2014,32 +2012,30 @@ organise then they are in a weak position and will be even more exploited by
 their economic masters. Left-wing economist Thomas I. Palley presents the
 correct analysis of working class organisation when he wrote:
 
-> _ "The reality is that unions are a correction of market failure, namely the
-massive imbalance of power that exists between individual workers and
-corporate capital. The importance of labour market bargaining power for the
-distribution of income, means that unions are a fundamental prop for
-widespread prosperity. Weakening unions does not create a 'natural' market: it
-just creates a market in which business has the power to dominate labour.  
+> _"The reality is that unions are a correction of market failure, namely the
+> massive imbalance of power that exists between individual workers and
+> corporate capital. The importance of labour market bargaining power for the
+> distribution of income, means that unions are a fundamental prop for
+> widespread prosperity. Weakening unions does not create a 'natural' market:
+> it just creates a market in which business has the power to dominate labour.  
 >  _
-
 >
-
 > _"The notion of perfect natural markets is built on the assumption that
-market participants have no power. In reality, the process of labour exchange
-is characterised not only by the presence of power, but also by gross
-inequality of power. An individual worker is at a great disadvantage in
-dealing with large corporations that have access to massive pools of capital
-and can organise in a fashion that renders every individual dispensible . . .
-Unions help rectify the imbalance of power in labour markets, and they
-therefore correct market failure rather than causing it."_ [**Op. Cit.**, pp.
-36-7]
+> market participants have no power. In reality, the process of labour
+> exchange is characterised not only by the presence of power, but also by
+> gross inequality of power. An individual worker is at a great disadvantage
+> in dealing with large corporations that have access to massive pools of
+> capital and can organise in a fashion that renders every individual
+> dispensible . . . Unions help rectify the imbalance of power in labour
+> markets, and they therefore correct market failure rather than causing it."_
+> [ **Op. Cit.** , pp. 36-7]
 
 The welfare state also increases the bargaining power of workers against their
 firms and limits the ability of firms to replace striking workers with scabs.
 Given this, it is understandable why bosses hate unions and any state aid
 which undermines their economic power. Thus the _"hallmark"_ of the neo-
 liberal age _"is an economic environment that pits citizen against citizen for
-the benefit of those who own and manage"_ a country. [**Op. Cit**, p. 203]
+the benefit of those who own and manage"_ a country. [ **Op. Cit** , p. 203]
 
 And we must add that whenever governments have attempted to make the labour
 market _"fully competitive"_ it has either been the product of dictatorship
@@ -2049,7 +2045,7 @@ employers (e.g. Britain under Thatcher, Reagan in the USA). This is the agenda
 which is proscribed for Western Europe. In 2006, when successful street
 protests stopped a proposed labour market reform in France (the CPE), one
 American journalist, Elaine Sciolino, complained that _"the government seems
-to fear its people; the people seem to fear change."_ [**New York Times**,
+to fear its people; the people seem to fear change."_ [ **New York Times** ,
 March 17 2006] Such are the contradictions of neo-liberalism. While
 proclaiming the need to reduce state intervention, it requires increased state
 power to impose its agenda. It needs to make people fear their government and
@@ -2072,7 +2068,7 @@ leaders. . . In Colombia, the government used anti-terrorist legislation in
 1993 to try 15 trade union leaders opposing the privatisation of the state
 telecommunications company. In the most extreme example, Peru's Alberto
 Fujimori dealt with a troublesome Congress by simply dissolving it . . . and
-seizing emergency powers."_ [Duncan Green, **The Silent Revolution**, p. 157]
+seizing emergency powers."_ [Duncan Green, **The Silent Revolution** , p. 157]
 
 This is unsurprising. People, when left alone, will create communities,
 organise together to collectively pursue their own happiness, protect their
@@ -2155,9 +2151,9 @@ workers" argument, of which the diatribes against unions and workers' rights
 highlighted above is only a part. This is the assumption that unemployment is
 not involuntary but is freely chosen by workers. As Nicholas Kaldor put it,
 for "free market" economists involuntary employment _"cannot exist because it
-is excluded by the assumptions."_ [**Further Essays on Applied Economics**, p.
-x] Many neo-classical economists claim that unemployed workers calculate that
-their time is better spent searching for more highly paid employment (or
+is excluded by the assumptions."_ [ **Further Essays on Applied Economics** ,
+p. x] Many neo-classical economists claim that unemployed workers calculate
+that their time is better spent searching for more highly paid employment (or
 living on welfare than working) and so desire to be jobless. That this
 argument is taken seriously says a lot about the state of modern capitalist
 economic theory, but as it is popular in many right-wing circles, we should
@@ -2167,8 +2163,8 @@ David Schweickart notes, these kinds of arguments ignore _"two well-
 established facts: First, when unemployment rises, it is layoffs, not
 [voluntary] quits, that are rising. Second, unemployed workers normally accept
 their first job offer. Neither of these facts fits well with the hypothesis
-that most unemployment is a free choice of leisure."_ [**Against Capitalism**,
-p. 108] When a company fires a number of its workers, it can hardly be said
+that most unemployment is a free choice of leisure."_ [ **Against Capitalism**
+, p. 108] When a company fires a number of its workers, it can hardly be said
 that the sacked workers have calculated that their time is better spent
 looking for a new job. They have no option. Of course, there are numerous jobs
 advertised in the media. Does this not prove that capitalism always provides
@@ -2180,7 +2176,7 @@ employment. This hardly gives much support to the right-wing claim that
 unemployment is "voluntary" and gives an obvious answer to right-wing
 economist Robert Lucas's quest _"to explain why people allocate time to . . .
 unemployment, we need to know why they prefer it to all other activities."_
-[quoted by Schweickart, **Op. Cit.**, p. 108] A puzzle indeed! Perhaps this
+[quoted by Schweickart, **Op. Cit.** , p. 108] A puzzle indeed! Perhaps this
 unworldly perspective explains why there has been no real effort to verify the
 assertion that unemployment is "voluntary leisure."
 
@@ -2198,8 +2194,8 @@ higher unemployment benefits and a healthy welfare state promote unemployment
 is not supported by the evidence. As a moderate member of the British
 Conservative Party notes, the _"OECD studied seventeen industrial countries
 and found no connect between a country's unemployment rate and the level of
-its social-security payments."_ [**Dancing with Dogma**, p. 118] Moreover, the
-economists David Blanchflower and Andrew Oswald _"Wage Curve"_ for many
+its social-security payments."_ [ **Dancing with Dogma** , p. 118] Moreover,
+the economists David Blanchflower and Andrew Oswald _"Wage Curve"_ for many
 different countries is approximately the same for each of the fifteen
 countries they looked at. This also suggests that labour market unemployment
 is independent of social-security conditions as their "wage curve" can be
@@ -2230,8 +2226,8 @@ members is active in the productive economy -- increased from 6.5 per cent in
 1975 to 16.4 per cent in 1985 and 19.1 per cent in 1994. . . Between 1992 and
 1997 there was a 15 per cent increase in unemployed lone parents. . . This
 dramatic growth of an underclass occurred as a direct consequence of neo-
-liberal welfare reforms, particularly as they affected housing."_ [**False
-Dawn**, p. 30] This is the opposite of the predictions of right-wing theories
+liberal welfare reforms, particularly as they affected housing."_ [ **False
+Dawn** , p. 30] This is the opposite of the predictions of right-wing theories
 and rhetoric.
 
 As Gray correctly argues, the _"message of the American [and other] New Right
@@ -2247,7 +2243,7 @@ Right achieved a rare and curious feat -- self-refutation by their practical
 application. Contrary to the New Right's claims, the abolition of nearly all
 universal social services and the stratification of income groups for the
 purpose of targeting welfare benefits selectively created a neo-liberal
-poverty trap."_ [**Op. Cit.**, p. 42]
+poverty trap."_ [ **Op. Cit.** , p. 42]
 
 So while the level of unemployment benefits and the welfare state may have
 little impact on the level of unemployment (which is to be expected if the
@@ -2297,7 +2293,7 @@ individual's self-respect and the wider implications for their community and
 society are massive. As David Schweickart concludes the _"costs of
 unemployment, whether measured in terms of the cold cash of lost production
 and lost taxes or in the hotter units of alienation, violence, and despair,
-are likely to be large under Laissez Faire."_ [**Op. Cit.**, p. 109]
+are likely to be large under Laissez Faire."_ [ **Op. Cit.** , p. 109]
 
 Of course, it could be argued that the unemployed should look for work and
 leave their families, home towns, and communities in order to find it.
@@ -2316,17 +2312,17 @@ capitalism is based on reducing individuals to the level of another commodity
 (called "labour"). To requote Karl Polanyi:
 
 > _"In human terms such a postulate [of a labour market] implied for the
-worker extreme instability of earnings, utter absence of professional
-standards, abject readiness to be shoved and pushed about indiscriminately,
-complete dependence on the whims of the market. [Ludwig Von] Mises justly
-argued that if workers 'did not act as trade unionists, but reduced their
-demands and changed their locations and occupations according to the labour
-market, they would eventually find work.' This sums up the position under a
-system based on the postulate of the commodity character of labour. It is not
-for the commodity to decide where it should be offered for sale, to what
-purpose it should be used, at what price it should be allowed to change hands,
-and in what manner it should be consumed or destroyed."_ [**The Great
-Transformation**, p. 176]
+> worker extreme instability of earnings, utter absence of professional
+> standards, abject readiness to be shoved and pushed about indiscriminately,
+> complete dependence on the whims of the market. [Ludwig Von] Mises justly
+> argued that if workers 'did not act as trade unionists, but reduced their
+> demands and changed their locations and occupations according to the labour
+> market, they would eventually find work.' This sums up the position under a
+> system based on the postulate of the commodity character of labour. It is
+> not for the commodity to decide where it should be offered for sale, to what
+> purpose it should be used, at what price it should be allowed to change
+> hands, and in what manner it should be consumed or destroyed."_ [ **The
+> Great Transformation** , p. 176]
 
 However, people are **not** commodities but living, thinking, feeling
 individuals. The "labour market" is more a social institution than an economic
@@ -2338,7 +2334,7 @@ against commodification is a key part of understanding the business cycle and
 so unemployment).
 
 [‹ C.8 Is state control of credit the cause of the business cycle?](secC8.md
-"Go to previous page" ) [up](secCcon.md "Go to parent page" ) [C.10 Is "free
+"Go to previous page") [up](secCcon.md "Go to parent page") [C.10 Is "free
 market" capitalism the best way to reduce poverty? ›](secC10.md "Go to next
-page" )
+page")
 

@@ -42,13 +42,14 @@ maximum potential to participate. Such participation is the key for a free
 organisation. As Malatesta argued:
 
 > _"The real being is man, the individual. Society or the collectivity . . .
-if it is not a hollow abstraction, must be made up of individuals. And it is
-in the organism of every individual that all thoughts and human actions
-inevitably have their origin, and from being individual they become collective
-thoughts and acts when they are or become accepted by many individuals. Social
-action, therefore, is neither the negation nor the complement of individual
-initiative, but is the resultant of initiatives, thoughts and actions of all
-individuals who make up society."_ [**Anarchy**, p. 36]
+> if it is not a hollow abstraction, must be made up of individuals. And it is
+> in the organism of every individual that all thoughts and human actions
+> inevitably have their origin, and from being individual they become
+> collective thoughts and acts when they are or become accepted by many
+> individuals. Social action, therefore, is neither the negation nor the
+> complement of individual initiative, but is the resultant of initiatives,
+> thoughts and actions of all individuals who make up society."_ [ **Anarchy**
+> , p. 36]
 
 Anarchist organisations exist to allow this development and expression of
 individual initiatives. This empowering of the individual is an important
@@ -60,7 +61,7 @@ free action of individuals with the necessity and the joy of co-operation
 which serve to develop the awareness and initiative of their members and a
 means of education for the environment in which they operate and of a moral
 and material preparation for the future we desire."_ [Malatesta, **The
-Anarchist Revolution**, p. 95]
+Anarchist Revolution** , p. 95]
 
 As such, anarchist organisations reflect the sort of society anarchists
 desire. We reject as ridiculous the claim of Leninists that the form of
@@ -77,20 +78,20 @@ Marxist party as another statist form that, if it succeeded in 'seizing
 power,' would preserve the power of one human being over another, the
 authority of the leader over the led. The Marxist party . . . was a mirror
 image of the very society it professed to oppose, an invasion of the camp of
-revolutionaries by bourgeois values, methods, and structures."_ [**The Spanish
-Anarchists**, pp. 179-80] As can be seen from the history of the Russian
-Revolution, this was the case with the Bolsheviks soon taking the lead in
-undermining workers' self-management, soviet democracy and, finally, democracy
-within the ruling party itself (see [section H.6](secH6.md)).
+revolutionaries by bourgeois values, methods, and structures."_ [ **The
+Spanish Anarchists** , pp. 179-80] As can be seen from the history of the
+Russian Revolution, this was the case with the Bolsheviks soon taking the lead
+in undermining workers' self-management, soviet democracy and, finally,
+democracy within the ruling party itself (see [section H.6](secH6.md)).
 
 From an anarchist (i.e. materialist) point of view, this was highly
 predictable -- after all, _"facts are before ideas; yes, the ideal, as
 Proudhon said, is but a flower whose root lies in the material conditions of
-existence."_ [Bakunin, **God and the State**, p. 9] So it is unsurprising that
-hierarchical parties helped to maintain a hierarchical society. In the words
-of the famous Sonvillier Circular: _"How could one want an egalitarian and
-free society to issue from an authoritarian organisation? It is impossible."_
-[quoted in **Bakunin on Anarchism**, p. 45]
+existence."_ [Bakunin, **God and the State** , p. 9] So it is unsurprising
+that hierarchical parties helped to maintain a hierarchical society. In the
+words of the famous Sonvillier Circular: _"How could one want an egalitarian
+and free society to issue from an authoritarian organisation? It is
+impossible."_ [quoted in **Bakunin on Anarchism** , p. 45]
 
 We must stress here that anarchists are **not** opposed to organisation and
 are **not** opposed to organisations of anarchists (i.e. **political**
@@ -103,8 +104,8 @@ movements, combing a creative revolutionary lifestyle with a creative
 revolutionary theory . . . As much as is humanly possibly, they try to reflect
 the liberated society they seek to achieve"_ and _"co-ordination between
 groups . . . discipline, planning, and unity in action . . . achieved
-**voluntarily**, by means of a self-discipline nourished by conviction and
-understanding."_ [**Post-Scarcity Anarchism**, pp. 138-9]
+**voluntarily** , by means of a self-discipline nourished by conviction and
+understanding."_ [ **Post-Scarcity Anarchism** , pp. 138-9]
 
 Ultimately, centralised organisations are undemocratic and, equally as
 important, **ineffective.** Hierarchical organisations kill people's
@@ -150,7 +151,7 @@ organisation and is reflected in its theoretical role. The power of ideas
 cannot be under estimated, for _"if you have an idea you can communicate it to
 a million people and lose nothing in the process, and the more the idea is
 propagated the more it acquires in power and effectiveness."_ [Malatesta,
-**Op. Cit.**, p. 46] The right idea at the right time, one that reflects the
+**Op. Cit.** , p. 46] The right idea at the right time, one that reflects the
 needs of individuals and of required social change, can have a transforming
 effect on society. That is why organisations that anarchists create to spread
 their message are so important and why we devote a whole section to them.
@@ -159,8 +160,8 @@ their message are so important and why we devote a whole section to them.
 
 Affinity groups are the basic organisation which anarchists create to spread
 the anarchist idea. The term _"affinity group"_ comes from the Spanish F.A.I.
-(**Iberian Anarchist Federation**) and refers to the organisational form
-devised in their struggles for freedom (from _"grupo de afinidad"_). At its
+( **Iberian Anarchist Federation** ) and refers to the organisational form
+devised in their struggles for freedom (from _"grupo de afinidad"_ ). At its
 most basic, it is a (usually small) group of anarchists who work together to
 spread their ideas to the wider public, using propaganda, initiating or
 working with campaigns and spreading their ideas **within** popular
@@ -169,10 +170,10 @@ organisations (such as unions) and communities. It aims not to be a
 movements. Unsurprisingly it reflects basic anarchist ideas:
 
 > _"Autonomous, communal and directly democratic, the group combines
-revolutionary theory with revolutionary lifestyle in its everyday behaviour.
-It creates a free space in which revolutionaries can remake themselves
-individually, and also as social beings."_ [Murray Bookchin, **Post-Scarcity
-Anarchism**, p. 144]
+> revolutionary theory with revolutionary lifestyle in its everyday behaviour.
+> It creates a free space in which revolutionaries can remake themselves
+> individually, and also as social beings."_ [Murray Bookchin, **Post-Scarcity
+> Anarchism** , p. 144]
 
 The reason for this is simple, for a _"movement that sought to promote a
 liberatory revolution had to develop liberatory and revolutionary forms. This
@@ -181,7 +182,7 @@ not the repressive one it was trying to overthrow. If a movement sought to
 achieve a world united by solidarity and mutual aid, it had to be guided by
 these precepts; if it sought to achieve a decentralised, stateless, non-
 authoritarian society, it had to be structured in accordance with these
-goals."_ [Bookchin, **The Spanish Anarchists**, p. 180]
+goals."_ [Bookchin, **The Spanish Anarchists** , p. 180]
 
 The aim of an anarchist organisation is to promote a sense of community, of
 confidence in ones own abilities, to enable all to be involved in the
@@ -213,16 +214,16 @@ members). Moreover, as well as these more "political" activities, the
 "affinity group" also stresses the _"importance of education and the need to
 live by Anarchist precepts -- the need . . . to create a counter-society that
 could provide the space for people to begin to remake themselves."_ [Bookchin,
-**Op. Cit.**, p. 180] In other words, "affinity groups" aim to be the _"living
-germs"_ of the new society in **all** aspects, not purely in a structurally
-way.
+**Op. Cit.** , p. 180] In other words, "affinity groups" aim to be the
+_"living germs"_ of the new society in **all** aspects, not purely in a
+structurally way.
 
 So affinity groups are self-managed, autonomous groupings of anarchists who
 unite and work on specific activities and interests. This means that _"[i]n an
 anarchist organisation the individual members can express any opinion and use
 any tactic which is not in contradiction with accepted principles and which
 does not harm the activities of others."_ [Errico Malatesta, **The Anarchist
-Revolution**, p. 102] Such groups are a key way for anarchists to co-ordinate
+Revolution** , p. 102] Such groups are a key way for anarchists to co-ordinate
 their activity and spread their message of individual freedom and voluntary
 co-operation. However, the description of what an "affinity group" is does not
 explain **why** anarchists organise in that way. Essentially, these affinity
@@ -239,17 +240,17 @@ for the individuals and groups who are part of the federation. As with the
 basic affinity group, the anarchist federation is a self-managed organisation:
 
 > _"Full autonomy, full independence and therefore full responsibility of
-individuals and groups; free accord between those who believe it is useful to
-unite in co-operating for a common aim; moral duty to see through commitments
-undertaken and to do nothing that would contradict the accepted programme. It
-is on these bases that the practical structures, and the right tools to give
-life to the organisation should be built and designed. Then the groups, the
-federations of groups, the federations of federations, the meetings, the
-congresses, the correspondence committees and so forth. But all this must be
-done freely, in such a way that the thought and initiative of individuals is
-not obstructed, and with the sole view of giving greater effect to efforts
-which, in isolation, would be either impossible or ineffective."_ [Malatesta,
-**Op. Cit.**, p. 101]
+> individuals and groups; free accord between those who believe it is useful
+> to unite in co-operating for a common aim; moral duty to see through
+> commitments undertaken and to do nothing that would contradict the accepted
+> programme. It is on these bases that the practical structures, and the right
+> tools to give life to the organisation should be built and designed. Then
+> the groups, the federations of groups, the federations of federations, the
+> meetings, the congresses, the correspondence committees and so forth. But
+> all this must be done freely, in such a way that the thought and initiative
+> of individuals is not obstructed, and with the sole view of giving greater
+> effect to efforts which, in isolation, would be either impossible or
+> ineffective."_ [Malatesta, **Op. Cit.** , p. 101]
 
 To aid in this process of propaganda, agitation, political discussion and
 development, anarchists organise federations of affinity groups. These take
@@ -303,17 +304,17 @@ federation created in the Ukraine during 1918 whose aim was _"organising all
 of the life forces of anarchism; bringing together through a common endeavour
 all anarchists seriously desiring of playing an active part in the social
 revolution which is defined as a process (of greater or lesser duration)
-giving rise to a new form of social existence for the organised masses."_
-[**No Gods, No Masters**, vol. 2, p. 117]
+giving rise to a new form of social existence for the organised masses."_ [
+**No Gods, No Masters** , vol. 2, p. 117]
 
 The "synthesis" organisation is based on uniting all kinds of anarchists in
-one federation as there is, to use the words of the **Nabat**, _"validity in
+one federation as there is, to use the words of the **Nabat** , _"validity in
 all anarchist schools of thought. We must consider all diverse tendencies and
 accept them."_ The synthesis organisation attempts to get different kinds of
 anarchists _"joined together on a number of basic positions and with the
 awareness of the need for planned, organised collective effort on the basis of
-federation."_ [quoted in _"The Reply by Several Russian Anarchists"_, pp.
-32-6, **Constructive Anarchism**, G. P. Maximoff (ed.), p. 32] These basic
+federation."_ [quoted in _"The Reply by Several Russian Anarchists"_ , pp.
+32-6, **Constructive Anarchism** , G. P. Maximoff (ed.), p. 32] These basic
 positions would be based on a synthesis of the viewpoints of the members of
 the organisation, but each tendency would be free to agree their own ideas due
 to the federal nature of the organisation.
@@ -327,7 +328,7 @@ positions would be to _"state that anarchism contains class elements as well
 as humanism and individualist principles . . . Its class element is above all
 its means of fighting for liberation; its humanitarian character is its
 ethical aspect, the foundation of society; its individualism is the goal of
-humanity."_ [**Op. Cit.**, p. 32]
+humanity."_ [ **Op. Cit.** , p. 32]
 
 So, as can be seen, the "synthesis" tendency aims to unite all anarchists (be
 they individualist, mutualist, syndicalist or communist) into one common
@@ -349,11 +350,11 @@ capitalism and authority). The "synthesis" federations are defined by agreeing
 what is the common denominator of the various tendencies within anarchism and
 agreeing a minimum programme based on this for the federation. This would
 allow a _"certain ideological and tactical unity among organisations"_ within
-the "synthesis" federation. [**Op. Cit.**, p. 35] Moreover, as well as saving
-time and energy for more important tasks, there are technical and efficiency
-reasons for unifying into one organisation, namely allowing the movement to
-have access to more resources and being able to co-ordinate them so as to
-maximise their use and impact.
+the "synthesis" federation. [ **Op. Cit.** , p. 35] Moreover, as well as
+saving time and energy for more important tasks, there are technical and
+efficiency reasons for unifying into one organisation, namely allowing the
+movement to have access to more resources and being able to co-ordinate them
+so as to maximise their use and impact.
 
 The "synthesis" federation, like all anarchist groups, aims to spread
 anarchist ideas within society as a whole. They believe that their role is to
@@ -363,9 +364,9 @@ as trade unions]. They act and build as part of the whole. An immense field of
 action is opened to them for ideological, social and creative activity without
 assuming a position of superiority over the masses. Above all they must fulfil
 their ideological and ethical influence in a free and natural manner . . .
-[they] offer ideological assistance, but not in the role of leaders."_ [**Op.
-Cit.**, p. 33] This, as we shall see in [section J.3.6](secJ3.md#secj36), is
-the common anarchist position as regards the role of an anarchist group.
+[they] offer ideological assistance, but not in the role of leaders."_ [ **Op.
+Cit.** , p. 33] This, as we shall see in [section J.3.6](secJ3.md#secj36),
+is the common anarchist position as regards the role of an anarchist group.
 
 The great strength of "synthesis" federations, obviously, is that they allow a
 wide and diverse range of viewpoints to be expressed within the organisation
@@ -385,7 +386,7 @@ discussion, seems to us to be a 'must' because it is the practical way to try
 to achieve 'ideological unity', 'tactical unity', and possibly organisation .
 . . A full and tolerant discussion of our problems . . . will create a basis
 for understanding, not only among anarchists, but among different conceptions
-of anarchism."_ [**Op. Cit.**, p. 35]
+of anarchism."_ [ **Op. Cit.** , p. 35]
 
 The "synthesis" idea for anarchist organisation was taken up by those who
 opposed the Platform (see [next section](secJ3.md#secj33)). For both Faure
@@ -472,15 +473,15 @@ that _"[s]uch an organisation having incorporated heterogeneous theoretical
 and practical elements, would only be a mechanical assembly of individuals
 each having a different conception of all the questions of the anarchist
 movement, an assembly which would inevitably disintegrate on encountering
-reality."_ [**The Organisational Platform of the Libertarian Communists**, p.
-12] The Platform suggested _"Theoretical and Tactical Unity"_ as a means of
+reality."_ [ **The Organisational Platform of the Libertarian Communists** ,
+p. 12] The Platform suggested _"Theoretical and Tactical Unity"_ as a means of
 overcoming this problem, but that term provoked massive disagreement in
 anarchist circles (see [section J.3.4](secJ3.md#secj34)). In reply to the
 Platform, supporters of the "synthesis" counter by pointing to the fact that
 "Platformist" groups are usually very small, far smaller that "synthesis"
 federations (for example, compare the size of the **French Anarchist
 Federation** with, say, the Irish **Workers Solidarity Movement** or the
-French-language **Alternative Libertaire**). This means, they argue, that the
+French-language **Alternative Libertaire** ). This means, they argue, that the
 Platform does not, in fact, lead to a more effective organisation, regardless
 of the claims of its supporters. Moreover, they argue that the requirements
 for _"Theoretical and Tactical Unity"_ help ensure a small organisation as
@@ -546,12 +547,13 @@ everything. Also important, in the eyes of the Platform authors, was the lack
 of anarchist organisation **before** the revolution:
 
 > _"It is very significant that, in spite of the strength and incontestably
-positive character of libertarian ideas, and in spite of the facing up to the
-social revolution, and finally the heroism and innumerable sacrifices borne by
-the anarchists in the struggle for anarchist communism, the anarchist movement
-remains weak despite everything, and has appeared, very often, in the history
-of working class struggles as a small event, an episode, and not an important
-factor."_ [**Organisational Platform of the Libertarian Communists**, p. 11]
+> positive character of libertarian ideas, and in spite of the facing up to
+> the social revolution, and finally the heroism and innumerable sacrifices
+> borne by the anarchists in the struggle for anarchist communism, the
+> anarchist movement remains weak despite everything, and has appeared, very
+> often, in the history of working class struggles as a small event, an
+> episode, and not an important factor."_ [ **Organisational Platform of the
+> Libertarian Communists** , p. 11]
 
 This weakness in the movement derived, they argued, from a number of causes,
 the main one being _"the absence of organisational principles and practices"_
@@ -561,9 +563,9 @@ and practices, having no perspectives for the future, nor of a continuity in
 militant work, and habitually disappearing, hardly leaving the slightest trace
 behind them."_ This explained the _"contradiction between the positive and
 incontestable substance of libertarian ideas, and the miserable state in which
-the anarchist movement vegetates."_ [**Op. Cit.**, p. 11] For anyone familiar
-with the anarchist movement in many countries, these words will still strike
-home. Thus the Platform still appears to many anarchists a relevant and
+the anarchist movement vegetates."_ [ **Op. Cit.** , p. 11] For anyone
+familiar with the anarchist movement in many countries, these words will still
+strike home. Thus the Platform still appears to many anarchists a relevant and
 important document, even if they are not Platformists.
 
 The author's of the Platform proposed a solution to this problem, namely the
@@ -578,11 +580,11 @@ struggle, produces continuous modifications in the fabric and structure of
 society."_ Again, like most anarchists, the Platform aimed to _"transform the
 present bourgeois capitalist society into a society which assures the workers
 the products of the labours, their liberty, independence, and social and
-political equality"_, one based on a _"workers organisations of production and
-consumption, united federatively and self-administering."_ The _"birth, the
-blossoming, and the realisation of anarchist ideas have their roots in the
+political equality"_ , one based on a _"workers organisations of production
+and consumption, united federatively and self-administering."_ The _"birth,
+the blossoming, and the realisation of anarchist ideas have their roots in the
 life and the struggle of the working masses and are inseparable bound to their
-fate."_ [**Op. Cit.**, p. 14, p. 15, p. 19 and p. 15] Again, most anarchists
+fate."_ [ **Op. Cit.** , p. 14, p. 15, p. 19 and p. 15] Again, most anarchists
 (particularly social anarchists) would agree -- anarchist ideas will wither
 when isolated from working class life since only working class people, the
 vast majority, can create a free society and anarchist ideas are expressions
@@ -601,8 +603,8 @@ this along with the argument that _"anarchism should become the leading
 concept of revolution . . . The leading position of anarchist ideas in the
 revolution suggests an orientation of events after anarchist theory. However,
 this theoretical driving force should not be confused with the political
-leadership of the statist parties which leads finally to State Power."_ [**Op.
-Cit.**, p. 20 and p. 21]
+leadership of the statist parties which leads finally to State Power."_ [
+**Op. Cit.** , p. 20 and p. 21]
 
 This _"leadership of ideas"_ (as it has come to be known) would aim at
 developing and co-ordinating libertarian feelings already existing within
@@ -610,7 +612,7 @@ social struggle. _"Although the masses,"_ explained the Platform, _"express
 themselves profoundly in social movements in terms of anarchist tendencies and
 tenets, these . . . do however remain dispersed, being uncoordinated, and
 consequently do not lead to the . . . preserving [of] the anarchist
-orientation of the social revolution."_ [**Op. Cit.**, p. 21] The Platform
+orientation of the social revolution."_ [ **Op. Cit.** , p. 21] The Platform
 argued that a specific anarchist organisation was required to ensure that the
 libertarian tendencies initially expressed in any social revolution or
 movement (for example, free federation, self-management in mass assemblies,
@@ -675,8 +677,8 @@ member should support the decisions made by the organisation and that each
 member should take part in the process of collective decision making process.
 Without this, argue Platformists, any decisions made will be paper ones as
 individuals and groups would ignore the agreements made by the federation (the
-Platform calls this _"the tactic of irresponsible individualism"_). [**Op.
-Cit.**, p. 32] With _"Collective Responsibility,"_ the strength of all the
+Platform calls this _"the tactic of irresponsible individualism"_ ). [ **Op.
+Cit.** , p. 32] With _"Collective Responsibility,"_ the strength of all the
 individuals that make up the group is magnified and collectively applied.
 
 The last principle in the _"Organisational Section"_ of the Platform is
@@ -690,22 +692,22 @@ as regards the organisation"_ one is a member of. In order to overcome this
 problem, they stress that _"the federalist type of anarchist organisation,
 while recognising each member's rights to independence, free opinion,
 individual liberty and initiative, requires each member to undertake fixed
-organisation duties, and demands execution of communal decisions."_ [**Op.
-Cit.**, p. 33 and pp. 33-4]
+organisation duties, and demands execution of communal decisions."_ [ **Op.
+Cit.** , p. 33 and pp. 33-4]
 
 As part of their solution to the problem of anarchist organisation, the
 Platform suggested that each group would have _"its secretariat, executing and
 guiding theoretically the political and technical work of the organisation."_
-Moreover, the Platform urged the creation of an _"**executive committee of the
-Union**"_ which would _"be in charge"_ of _"the execution of decisions taken
-by the Union with which it is entrusted; the theoretical and organisational
-orientation of the activity of isolated organisations consistent with the
-theoretical positions and the general tactical lines of the Union; the
-monitoring of the general state of the movement; the maintenance of working
-and organisational links between all the organisations in the Union; and with
-other organisation."_ The rights, responsibilities and practical tasks of the
-executive committee are fixed by the congress of the Union. [**Op. Cit.**, p.
-34]
+Moreover, the Platform urged the creation of an _" **executive committee of
+the Union** "_ which would _"be in charge"_ of _"the execution of decisions
+taken by the Union with which it is entrusted; the theoretical and
+organisational orientation of the activity of isolated organisations
+consistent with the theoretical positions and the general tactical lines of
+the Union; the monitoring of the general state of the movement; the
+maintenance of working and organisational links between all the organisations
+in the Union; and with other organisation."_ The rights, responsibilities and
+practical tasks of the executive committee are fixed by the congress of the
+Union. [ **Op. Cit.** , p. 34]
 
 This suggestion, unsurprisingly, meet with strong disapproval by most
 anarchists, as we will see in the [next section](secJ3.md#secj34), who
@@ -716,7 +718,7 @@ not written in stone and needs to be discussed fully and modified as required.
 In fact, few, if any, Platformist groups, do have this _"secretariat"_
 structure (it could, in fact, be argued that there are no actual "Platformist"
 groups, rather groups influenced by the Platform, namely on the issues of
-_"Theoretical and Tactical Unity"_ and _"Collective Responsibility"_).
+_"Theoretical and Tactical Unity"_ and _"Collective Responsibility"_ ).
 
 Similarly, most modern day Platformists reject the idea of gathering all
 anarchists into one organisation. The original Platform seemed to imply that
@@ -752,9 +754,9 @@ Platform. Indeed, only Nestor Makhno (who co-authored the work) supported its
 proposals, with (among others) Alexander Berkman, Emma Goldman, Voline, G.P.
 Maximoff, Luigi Fabbri, Camilo Berneri and Errico Malatesta rejecting its
 suggestions on how anarchists should organise. Some argued that the Platform
-was trying to _"Bolshevise"_ anarchism (_""They are only one step away from
-bolshevism."_ [_"The Reply by Several Russian Anarchists"_, pp. 32-6,
-**Constructive Anarchism**, G.P. Maximoff (ed.), pp. 36]). Others, such as
+was trying to _"Bolshevise"_ anarchism ( _""They are only one step away from
+bolshevism."_ [ _"The Reply by Several Russian Anarchists"_ , pp. 32-6,
+**Constructive Anarchism** , G.P. Maximoff (ed.), pp. 36]). Others, such as
 Malatesta, suggested that the authors were too impressed by the apparent
 "success" of the Bolsheviks in Russia. Since then, it has continued to provoke
 a lot of debate in anarchist circles. So why do so many anarchists oppose the
@@ -777,7 +779,7 @@ that, to use Maximoff's words, anarchists should _"go into the masses. . . ,
 work[ing] with them, struggle for their soul, and attempt to win it
 **ideologically** and give it guidance."_ So the question was _"not the
 rejection of **leadership,** but making certain it is **free** and
-**natural.**"_ [**Constructive Anarchism**, p. 19] Moreover, as Maximoff
+**natural.** "_ [ **Constructive Anarchism** , p. 19] Moreover, as Maximoff
 noted, the "synthesis" anarchists came to the same conclusion. Thus all sides
 of the debate accepted that anarchists should take the lead. The question, as
 Malatesta and the others saw it, was not whether to lead, but rather **how**
@@ -794,7 +796,7 @@ would also like to see, within the general movement, a central body that
 would, in an authoritarian manner, dictate the theoretical and practical
 programme for the revolution."_ This was because of the _"Executive
 Committee"_ in the Platform which would _"give ideological and organisational
-direction to the association."_ [**The Anarchist Revolution**, p. 108 and p.
+direction to the association."_ [ **The Anarchist Revolution** , p. 108 and p.
 110]
 
 Maximoff made the same point, arguing that the Platform implied that
@@ -805,15 +807,15 @@ and are to carry out their plans, if necessary, against the will of the Unions
 themselves."_ This was just one example of a general problem, namely that the
 Platform _"places its Party on the same height as the Bolsheviks do, i.e., it
 places the interests of the Party above the interests of the masses since the
-Party has the monopoly of understanding these interests."_ [**Constructive
-Anarchism**, p. 19 and p. 18] This flowed from the Platform arguing that
+Party has the monopoly of understanding these interests."_ [ **Constructive
+Anarchism** , p. 19 and p. 18] This flowed from the Platform arguing that
 anarchists must _"enter into revolutionary trade unions as an organised force,
 responsible to accomplish work in the union before the general anarchist
 organisation and orientated by the latter."_ However, Maximoff's argument may
 be considered harsh as the Platform also argued that anarchism _"aspires
 neither to political power nor dictatorship"_ and so they would hardly be
-urging the opposite principles within the trade union movement. [**The
-Organisational Platform of the Libertarian Communists**, p. 25 and p. 21] If
+urging the opposite principles within the trade union movement. [ **The
+Organisational Platform of the Libertarian Communists** , p. 25 and p. 21] If
 we take the Platform's comments within a context informed by the _"leadership
 of ideas"_ concept (see [section J.3.6](secJ3.md#secj36)) then what they
 meant was simply that the anarchist group would convince the union members of
@@ -827,10 +829,10 @@ either side's satisfaction, in part because there was an additional issue in
 dispute. This was the related issue of organisational principles (which in
 themselves make up the defining part of the original Platform). Malatesta
 argued that this did not conform with anarchist methods and principles, and so
-could not _"help bring about the triumph of anarchism."_ [**The Anarchist
-Revolution**, p. 97] This was because of two main reasons, the first being the
-issue of the Platform's "secretariats" and "executive committee" and the issue
-of "Collective Responsibility." We will take each in turn.
+could not _"help bring about the triumph of anarchism."_ [ **The Anarchist
+Revolution** , p. 97] This was because of two main reasons, the first being
+the issue of the Platform's "secretariats" and "executive committee" and the
+issue of "Collective Responsibility." We will take each in turn.
 
 With a structure based round "secretariats" and "executive committees" the
 _"will of the [General] Union [of Anarchists] can only mean the will of the
@@ -841,13 +843,13 @@ groups . . . So, in the best of cases, the decisions would be taken by a
 majority of a majority, and this could easily, especially when the opposing
 opinions are more than two, represent only a minority."_ This, Malatesta
 argued, _"comes down to a pure majority system, to pure parliamentarianism"_
-and so non-anarchist in nature. [**Op. Cit.**, p. 100]
+and so non-anarchist in nature. [ **Op. Cit.** , p. 100]
 
 As long as a Platformist federation is based on _"secretariats"_ and
 _"executive committees"_ directing the activity and development of the
 organisation, this critique is valid. In such a system, as these bodies
 control the organisation and members are expected to follow their decisions
-(due to _"theoretical and tactical unity"_ and _"collective responsibility"_)
+(due to _"theoretical and tactical unity"_ and _"collective responsibility"_ )
 they are, in effect, the government of the association. While this government
 may be elected and accountable, it is still a government simply because these
 bodies have executive power. As Maximoff argued, individual initiative in the
@@ -856,10 +858,10 @@ of members with the right to individual initiative) has its secretariat which
 . . . **directs** the ideological, political and technical activities of the
 organisation . . . In what, then, consists the self-reliant activities of the
 rank-and-file members? Apparently in one thing: initiative to obey the
-secretariat and carry out its directives."_ [**Op. Cit.**, p. 18] This seems
+secretariat and carry out its directives."_ [ **Op. Cit.** , p. 18] This seems
 to be the logical conclusion of the structure suggested by the Platform. _"The
 spirit,"_ argued Malatesta, _"the tendency remains authoritarian and the
-educational effect would remain anti-anarchist."_ [**Op. Cit.**, p. 98]
+educational effect would remain anti-anarchist."_ [ **Op. Cit.** , p. 98]
 
 Malatesta, in contrast, argued that an anarchist organisation must be based on
 the _"[f]ull autonomy, full independence and therefore the full responsibility
@@ -873,7 +875,7 @@ directive powers"_ leaving it up to the groups and their federal meetings to
 decide their own fates. The congresses of such organisations would be _"free
 from any kind of authoritarianism, because they do not lay down the law; they
 do not impose their own resolutions on others . . . and do not become binding
-and enforceable except on those who accept them."_ [**Op. Cit.**, p. 101, p.
+and enforceable except on those who accept them."_ [ **Op. Cit.** , p. 101, p.
 102 and p. 101] Such an organisation does not exclude collective decisions and
 self-assumed obligations, rather it is based upon them.
 
@@ -895,17 +897,17 @@ member will be responsible for the political and revolutionary activity of the
 Union."_ To which Malatesta replied:
 
 > _"But if the Union is responsible for what each member does, how can it
-leave to its members and to the various groups the freedom to apply the common
-programme in the way they think best? How can one be responsible for an action
-if it does not have the means to prevent it? Therefore, the Union and in its
-name the Executive Committee, would need to monitor the action of the
-individual member and order them what to do and what not to do; and since
-disapproval after the event cannot put right a previously accepted
-responsibility, no-one would be able to do anything at all before having
-obtained the go-ahead, the permission of the committee. And, on the other
-hand, can an individual accept responsibility for the actions of a
-collectivity before knowing what it will do and if he cannot prevent it doing
-what he disapproves of?"_ [**Op. Cit.**, p. 99]
+> leave to its members and to the various groups the freedom to apply the
+> common programme in the way they think best? How can one be responsible for
+> an action if it does not have the means to prevent it? Therefore, the Union
+> and in its name the Executive Committee, would need to monitor the action of
+> the individual member and order them what to do and what not to do; and
+> since disapproval after the event cannot put right a previously accepted
+> responsibility, no-one would be able to do anything at all before having
+> obtained the go-ahead, the permission of the committee. And, on the other
+> hand, can an individual accept responsibility for the actions of a
+> collectivity before knowing what it will do and if he cannot prevent it
+> doing what he disapproves of?"_ [ **Op. Cit.** , p. 99]
 
 In other words, the term _"collective responsibility"_ (if taken literally)
 implies a highly inefficient and somewhat authoritarian mode of organisation.
@@ -915,7 +917,7 @@ organisation would respond slowly to developing situations, if at all, and
 this response would not be informed by first hand knowledge and experience.
 Moreover, this form of organisation implies a surrendering of individual
 judgement, as members would have to _"submit to the decisions of the majority
-before they have even heard what those might be."_ [Malatesta, **Op. Cit.**,
+before they have even heard what those might be."_ [Malatesta, **Op. Cit.** ,
 101] In the end, all a member could do would be to leave the organisation if
 they disagree with a tactic or position and could not bring themselves to
 further it by their actions.
@@ -926,7 +928,7 @@ authors affirm federalist principles they, in fact, _"outline a perfectly
 centralised organisation with an Executive Committee that has responsibility
 to give ideological and organisational direction to the different anarchist
 organisations, which in turn will direct the professional organisations of the
-workers."_ [_"The Reply by Several Russian Anarchists"_, **Op. Cit.**, pp.
+workers."_ [ _"The Reply by Several Russian Anarchists"_ , **Op. Cit.** , pp.
 35-6]
 
 Thus it is likely that "Collective Responsibility" taken to its logical
@@ -942,11 +944,11 @@ bottom up), they may be forced to apply inappropriate policies due to the
 the _"activities of local organisations can be adapted, as far as possible, to
 suit local conditions"_ but only if they are _"consonant with the pattern of
 the overall organisational practice of the Union of anarchists covering the
-whole country."_ [**The Struggle Against the State and Other Essays**, p. 62]
-Which still begs the question on the nature of the Platform's unity (however,
-it does suggest that the Platform's position may be less extreme than might be
-implied by the text, as we will discuss). That is why anarchists have
-traditionally supported federalism and free agreement within their
+whole country."_ [ **The Struggle Against the State and Other Essays** , p.
+62] Which still begs the question on the nature of the Platform's unity
+(however, it does suggest that the Platform's position may be less extreme
+than might be implied by the text, as we will discuss). That is why anarchists
+have traditionally supported federalism and free agreement within their
 organisations, to take into account the real needs of localities.
 
 If we do not take the Platform's definition of "Collective Responsibility"
@@ -955,17 +957,17 @@ differences between Platformists and non-Platformists may not be that far. As
 Malatesta pointed out in his reply to Makhno's letter:
 
 > _"I accept and support the view that anyone who associates and co-operates
-with others for a common purpose must feel the need to co-ordinate his [or
-her] actions with those of his [or her] fellow members and do nothing that
-harms the work of others . . . and respect the agreements that have been made
-. . . [Moreover] I maintain that those who do not feel and do not practice
-that duty should be thrown out of the association. _
+> with others for a common purpose must feel the need to co-ordinate his [or
+> her] actions with those of his [or her] fellow members and do nothing that
+> harms the work of others . . . and respect the agreements that have been
+> made . . . [Moreover] I maintain that those who do not feel and do not
+> practice that duty should be thrown out of the association._
 
 > _"Perhaps, speaking of collective responsibility, you mean precisely that
-accord and solidarity that must exist among members of an association. And if
-that is so, your expression amounts . . . to an incorrect use of language, but
-basically it would only be an unimportant question of wording and agreement
-would soon be reached."_ [**Op. Cit.**, pp. 107-8]
+> accord and solidarity that must exist among members of an association. And
+> if that is so, your expression amounts . . . to an incorrect use of
+> language, but basically it would only be an unimportant question of wording
+> and agreement would soon be reached."_ [ **Op. Cit.** , pp. 107-8]
 
 This, indeed, seems to be the way that most Platformist organisations do
 operate. They have agreed broad theoretical and tactical positions on various
@@ -977,17 +979,17 @@ groups do not take the Platform literally and so many differences are, to a
 large degree, a question of wording. As two supporters of the Platform note:
 
 > _"The Platform doesn't go into detail about how collective responsibility
-works in practice. There are issues it leaves untouched such as the question
-of people who oppose the majority view. We would argue that obviously people
-who oppose the view of the majority have a right to express their own views,
-however in doing so they must make clear that they don't represent the view of
-the organisation. If a group of people within the organisation oppose the
-majority decision they have the right to organise and distribute information
-so that their arguments can be heard within the organisation as a whole. Part
-of our anarchism is the belief that debate and disagreement, freedom and
-openness strengthens both the individual and the group to which she or he
-belongs."_ [Aileen O'Carroll and Alan MacSimoin, _"The Platform"_, pp. 29-31,
-**Red and Black Revolution**, no. 4, p. 30]
+> works in practice. There are issues it leaves untouched such as the question
+> of people who oppose the majority view. We would argue that obviously people
+> who oppose the view of the majority have a right to express their own views,
+> however in doing so they must make clear that they don't represent the view
+> of the organisation. If a group of people within the organisation oppose the
+> majority decision they have the right to organise and distribute information
+> so that their arguments can be heard within the organisation as a whole.
+> Part of our anarchism is the belief that debate and disagreement, freedom
+> and openness strengthens both the individual and the group to which she or
+> he belongs."_ [Aileen O'Carroll and Alan MacSimoin, _"The Platform"_ , pp.
+> 29-31, **Red and Black Revolution** , no. 4, p. 30]
 
 While many anarchists are critical of Platformist groups for being too
 centralised for their liking, it is the case that the Platform has influenced
@@ -1003,7 +1005,12 @@ Platformists have worked within "synthesis" organisations (as was the case in
 France, for example, which resulted in much bad-feeling between Platformists
 and others).
 
-**Constructive Anarchism** by the leading Russian anarcho-syndicalist G.P. Maximoff gathers all the relevant documents in one place. As well as Maximoff's critique of the Platform, it includes the "synthesis" reply, Malatesta's review and subsequent exchange of letters between him and Makhno. **The Anarchist Revolution** also contains Malatesta's article and the exchange of letters between him and Makhno.
+**Constructive Anarchism** by the leading Russian anarcho-syndicalist G.P.
+Maximoff gathers all the relevant documents in one place. As well as
+Maximoff's critique of the Platform, it includes the "synthesis" reply,
+Malatesta's review and subsequent exchange of letters between him and Makhno.
+**The Anarchist Revolution** also contains Malatesta's article and the
+exchange of letters between him and Makhno.
 
 ## J.3.5 Are there other kinds of anarchist federation?
 
@@ -1091,8 +1098,8 @@ is effectively to articulate and spread this new sensibility; it must have a
 coherent theory and extensive literature; it must be capable of duelling with
 the authoritarian movements that try to denature the intuitive libertarian
 impulses of our time and channel social unrest into hierarchical forms of
-organisation."_ [_"Looking Back at Spain,"_ pp. 53-96, Dimitrios I.
-Roussopoulos (ed.), **The Radical Papers**, p. 90]
+organisation."_ [ _"Looking Back at Spain,"_ pp. 53-96, Dimitrios I.
+Roussopoulos (ed.), **The Radical Papers** , p. 90]
 
 These groups and federations play a key role in anarchist theory. This is
 because anarchists are well aware that there are different levels of knowledge
@@ -1102,8 +1109,8 @@ individual is unique and is subject to different influences. As one pamphlet
 by the British **Anarchist Federation** puts it, the _"experiences of working
 class life constantly lead to the development of ideas and actions which
 question the established order . . . At the same time, different sections of
-the working class reach different degrees of consciousness."_ [**The Role of
-the Revolutionary Organisation**, p. 13] This can easily be seen from any
+the working class reach different degrees of consciousness."_ [ **The Role of
+the Revolutionary Organisation** , p. 13] This can easily be seen from any
 group of individuals of the same class or even community. Some are anarchists,
 others Marxists, some social democrats/labourites, others conservatives,
 others liberals, most "apolitical," some support trade unions, others are
@@ -1118,17 +1125,18 @@ because we believe that these alone will ensure a successful revolutionary
 transformation of society. Hence Malatesta:
 
 > _"anarchists, convinced of the validity of our programme, must strive to
-acquire overwhelming influence in order to draw the movement towards the
-realisation of our ideals. But such influence must be won by doing more and
-better than others, and will be useful if won in that way . . . we must
-deepen, develop and propagate our ideas and co-ordinate our forces in a common
-action. We must act within the labour movement to prevent it being limited to
-and corrupted by the exclusive pursuit of small improvements compatible with
-the capitalist system . . . We must work with . . . [all the] masses to awaken
-the spirit of revolt and the desire for a free and happy life. We must
-initiate and support all movements that tend to weaken the forces of the State
-and of capitalism and to raise the mental level and material conditions of the
-workers."_ [**The Anarchist Revolution**, p. 109]
+> acquire overwhelming influence in order to draw the movement towards the
+> realisation of our ideals. But such influence must be won by doing more and
+> better than others, and will be useful if won in that way . . . we must
+> deepen, develop and propagate our ideas and co-ordinate our forces in a
+> common action. We must act within the labour movement to prevent it being
+> limited to and corrupted by the exclusive pursuit of small improvements
+> compatible with the capitalist system . . . We must work with . . . [all
+> the] masses to awaken the spirit of revolt and the desire for a free and
+> happy life. We must initiate and support all movements that tend to weaken
+> the forces of the State and of capitalism and to raise the mental level and
+> material conditions of the workers."_ [ **The Anarchist Revolution** , p.
+> 109]
 
 Anarchist organisation exists to help the process by which people come to
 anarchist conclusions. It aims to make explicit the feelings and thoughts that
@@ -1158,8 +1166,8 @@ themselves everywhere, to solving the problems of waging the Revolution . . .
 As for the 'elite' [i.e. the politically aware], their role, according to the
 libertarians, is to **help** the masses, enlighten them, teach them, give them
 necessary advice, impel them to take initiative, provide them with an example,
-and support them in their action -- **but not to direct them
-governmentally.**"_ [**The Unknown Revolution**, pp. 177-8]
+and support them in their action -- **but not to direct them governmentally.**
+"_ [ **The Unknown Revolution** , pp. 177-8]
 
 This role is usually called providing a **_"leadership of ideas"_**.
 Anarchists stress the difference of this concept with authoritarian notions of
@@ -1182,8 +1190,8 @@ and undermining the internal and external barriers against these ideas.
 The first of these are what Emma Goldman termed the _"internal tyrants,"_ the
 _"ethical and social conventions"_ of existing, hierarchical society which
 accustom people to authoritarian social relationships, injustice, lack of
-freedom and so on. [**Red Emma Speaks**, pp. 164-5] External barriers are what
-Chomsky terms _"the Manufacture of Consent,"_ the process by which the
+freedom and so on. [ **Red Emma Speaks** , pp. 164-5] External barriers are
+what Chomsky terms _"the Manufacture of Consent,"_ the process by which the
 population at large are influenced to accept the status quo and the dominant
 elites viewpoint via the education system and media. It is this "manufacture
 of consent" which helps explain why, relatively speaking, there are so few
@@ -1208,7 +1216,7 @@ consent"_ can be, and are, weakened by rational discussion as well as social
 struggle and self-activity. Indeed, until such time as we have _"learned to
 defy them all [the internal tyrants], to stand firmly on [our] own ground and
 to insist upon [our] own unrestricted freedom"_ we can never be free or
-successfully combat the "manufacture of consent." [Goldman, **Op. Cit.**, p.
+successfully combat the "manufacture of consent." [Goldman, **Op. Cit.** , p.
 140] And this is where the anarchist group can play a part, for there is an
 important role to be played by those who have been through this process
 already, namely to aid those going through it.
@@ -1249,17 +1257,17 @@ most potent, and the most irresistible form of propaganda"_ and _"awake[s] in
 the masses all the social-revolutionary instincts which reside deeply in the
 heart of every worker"_ so allowing instinct to become transformed into
 _"reflected socialist thought."_ [quoted by Richard B. Saltman, **The Social
-and Political Thought of Michael Bakunin**, p. 107, p. 108 and p. 141]
+and Political Thought of Michael Bakunin** , p. 107, p. 108 and p. 141]
 
-To quote the UK **Anarchist Federation**, again _"the [libertarian]
+To quote the UK **Anarchist Federation** , again _"the [libertarian]
 organisation is not just a propaganda group: above all it must actively work
 in all the grassroots organisations of the working class such as rank and file
 [trade union] groups, tenants associations, squatters and unemployed groups as
 well as women's, black and gay groups."_ It _"respects the independence of
 working class movements and (unlike] others) does not try to subordinate them
 to the revolutionary organisation. This does not mean that it does not seek to
-spread its ideas in these movements."_ [**Op. Cit.**, p. 15 and p. 16] Such an
-organisation is not vanguardist in the Leninist sense as it recognises that
+spread its ideas in these movements."_ [ **Op. Cit.** , p. 15 and p. 16] Such
+an organisation is not vanguardist in the Leninist sense as it recognises that
 socialist politics derive from working class experience, rather than bourgeois
 intellectuals (as Lenin and Karl Kautsky argued), and that it does not aim to
 dominate popular movements but rather work within them as equals.
@@ -1292,12 +1300,12 @@ participating as equals in social struggle and popular organisation.
 Anarchists do not think that changing leaders is a solution to the problem of
 (bad) leadership. Rather, it is a question of making leaders redundant by
 empowering all. As Malatesta argued, we _"do not want to **emancipate** the
-people; we want the people to **emancipate themselves.**"_ Thus anarchists
+people; we want the people to **emancipate themselves.** "_ Thus anarchists
 _"advocate and practise direct action, decentralisation, autonomy and
 individual initiative; they should make special efforts to help members [of
 popular organisations] learn to participate directly in the life of the
-organisation and to dispense with leaders and full-time functionaries."_
-[**Errico Malatesta: His Life and Ideas**, p. 90 and p. 125]
+organisation and to dispense with leaders and full-time functionaries."_ [
+**Errico Malatesta: His Life and Ideas** , p. 90 and p. 125]
 
 This means that anarchists reject the idea that anarchist groups and
 federations must become the "leaders" of organisations. Rather, we desire
@@ -1311,11 +1319,11 @@ _"natural influence"_ can be gathered from this comment of Francisco Ascaso
 his own right):
 
 > _"There is not a single militant who as a 'FAIista' intervenes in union
-meetings. I work, therefore I am an exploited person. I pay my dues to the
-workers' union and when I intervene at union meetings I do it as someone who
-is exploited, and with the right which is granted me by the card in my
-possession, as do the other militants, whether they belong to the FAI or
-not."_ [quoted by Abel Paz, **Durruti: The People Armed**, p. 137]
+> meetings. I work, therefore I am an exploited person. I pay my dues to the
+> workers' union and when I intervene at union meetings I do it as someone who
+> is exploited, and with the right which is granted me by the card in my
+> possession, as do the other militants, whether they belong to the FAI or
+> not."_ [quoted by Abel Paz, **Durruti: The People Armed** , p. 137]
 
 This shows the nature of the "leadership of ideas." Rather than be elected to
 a position of power or responsibility, the anarchist presents their ideas at
@@ -1331,7 +1339,7 @@ man [or woman] who alienates his will, can never be free to express himself
 and follow his own ideas at a union meeting if he feel dominated by the
 feeblest orator . . . As long as a man doesn't think for himself and doesn't
 assume his own responsibilities, there will be no complete liberation of human
-beings."_ [quoted by Paz, **Op. Cit.**, p. 184]
+beings."_ [quoted by Paz, **Op. Cit.** , p. 184]
 
 Because of our support for the "leadership of ideas", anarchists think that
 all popular organisations must be open, fully self-managed and free from
@@ -1341,14 +1349,14 @@ good that comes from above and imposed by force"_ and _"want the new way of
 life to emerge from the body of the people and advance as they advance. It
 matters to us therefore that all interests and opinions find their expression
 in a conscious organisation and should influence communal life in proportion
-to their importance."_ [Malatesta, **Op. Cit.**, p. 90] Bakunin's words with
+to their importance."_ [Malatesta, **Op. Cit.** , p. 90] Bakunin's words with
 regards the first International Workers Association indicate this clearly:
 
 > _"It must be a people's movement, organised from the bottom up by the free,
-spontaneous action of the masses. There must be no secret governmentalism, the
-masses must be informed of everything . . . All the affairs of the
-International must be thoroughly and openly discussed without evasions and
-circumlocutions."_ [**Bakunin on Anarchism**, p. 408]
+> spontaneous action of the masses. There must be no secret governmentalism,
+> the masses must be informed of everything . . . All the affairs of the
+> International must be thoroughly and openly discussed without evasions and
+> circumlocutions."_ [ **Bakunin on Anarchism** , p. 408]
 
 Given this, anarchists reject the idea of turning the organs created in the
 class struggle and revolutionary process into hierarchical structures. By
@@ -1361,14 +1369,14 @@ belief that genuine revolutionaries must function **within the framework of
 the forms created by the revolution,** not within forms created by the
 party."_ This means that _"an organisation is needed to propagate ideas
 systematically -- and not ideas alone, but **ideas which promote the concept
-of self-management.**"_ In other words, there _"is a need for a revolutionary
+of self-management.** "_ In other words, there _"is a need for a revolutionary
 organisation -- but its function must always be kept clearly in mind. Its
 first task is propaganda . . . In a revolutionary situation, the revolutionary
 organisation presents the most advanced demands: it is prepared at every turn
 of events to formulate -- in the most concrete fashion -- the immediate task
 that should be performed to advance the revolutionary process. It provides the
 boldest elements in action and in the decision-making organs of the
-revolution."_ [Murray Bookchin, **Post-Scarcity Anarchism**, p. 140] What it
+revolution."_ [Murray Bookchin, **Post-Scarcity Anarchism** , p. 140] What it
 does **not** do is to supplant those organs or decision-making process by
 creating institutionalised, hierarchical leadership structures.
 
@@ -1380,32 +1388,32 @@ would like to quote the following by the British libertarian socialist group
 importance of a libertarian perspective on social struggle and change and how
 politically aware minorities work within them:
 
-> _"**Meaningful action,** for revolutionaries, is whatever increases the
-confidence, the autonomy, the initiative, the participation, the solidarity,
-the egalitarian tendencies and the self-activity of the masses and whatever
-assists in their demystification. **Sterile and harmful action** is whatever
-reinforces the passivity of the masses, their apathy, their cynicism, their
-differentiation through hierarchy, their alienation, their reliance on others
-to do things for them and the degree to which they can therefore be
-manipulated by others -- even by those allegedly acting on their behalf."_
-[Maurice Brinton, **For Workers' Power**, p. 154]
+> _" **Meaningful action,** for revolutionaries, is whatever increases the
+> confidence, the autonomy, the initiative, the participation, the solidarity,
+> the egalitarian tendencies and the self-activity of the masses and whatever
+> assists in their demystification. **Sterile and harmful action** is whatever
+> reinforces the passivity of the masses, their apathy, their cynicism, their
+> differentiation through hierarchy, their alienation, their reliance on
+> others to do things for them and the degree to which they can therefore be
+> manipulated by others -- even by those allegedly acting on their behalf."_
+> [Maurice Brinton, **For Workers' Power** , p. 154]
 
 Part of this "meaningful action" involves encouraging people to **_"act for
 yourselves"_** (to use Kropotkin's words). As we noted in [section
-A.2.7](secA2.md#seca27), anarchism is based on **self**-liberation and self-
-activity is key aspect of this. Hence Malatesta's argument:
+A.2.7](secA2.md#seca27), anarchism is based on **self** -liberation and
+self-activity is key aspect of this. Hence Malatesta's argument:
 
 > _"Our task is that of 'pushing' the people to demand and to seize all the
-freedom they can and to make themselves responsible for providing their own
-needs without waiting for orders from any kind of authority. Our task is that
-of demonstrating the uselessness and harmfulness of government, provoking and
-encouraging by propaganda and action, all kinds of individual and collective
-activities._
+> freedom they can and to make themselves responsible for providing their own
+> needs without waiting for orders from any kind of authority. Our task is
+> that of demonstrating the uselessness and harmfulness of government,
+> provoking and encouraging by propaganda and action, all kinds of individual
+> and collective activities._
 
 > _"It is in fact a question of education for freedom, of making people who
-are accustomed to obedience and passivity consciously aware of their real
-power and capabilities. One must encourage people to do things for
-themselves."_ [**Op. Cit.**, pp. 178-9]
+> are accustomed to obedience and passivity consciously aware of their real
+> power and capabilities. One must encourage people to do things for
+> themselves."_ [ **Op. Cit.** , pp. 178-9]
 
 This "pushing" people to "do it themselves" is another key role for any
 anarchist organisation. The encouragement of direct action is just as
@@ -1418,15 +1426,15 @@ J.7](secJ7.md), we must note here that the role of the anarchist
 organisation does not change. As Bookchin argued, anarchists _"seek to
 persuade the factory committees, assemblies"_ and other organisations created
 by people in struggle _"to make themselves into **genuine organs of popular
-self-management**, not to dominate them, manipulate them, or hitch them to an
-all-knowing political party."_ [**Op. Cit.**, p. 140] In this way, by
+self-management** , not to dominate them, manipulate them, or hitch them to an
+all-knowing political party."_ [ **Op. Cit.** , p. 140] In this way, by
 encouraging self-management in struggle, anarchists lay the foundations of a
 self-managed society.
 
 ## J.3.7 Doesn't Bakunin's _"Invisible Dictatorship"_ prove that anarchists
 are secret authoritarians?
 
-No. While Bakunin did use the term _"invisible dictatorship"_, it does not
+No. While Bakunin did use the term _"invisible dictatorship"_ , it does not
 prove that Bakunin or anarchists are secret authoritarians. The claim
 otherwise, often made by Leninists and other Marxists, expresses a distinct,
 even wilful, misunderstanding of Bakunin's ideas on the role revolutionaries
@@ -1439,8 +1447,8 @@ question of Bakunin and his "invisible dictatorship" finds its way into
 sympathetic accounts of anarchist ideas. For example, Peter Marshall writes
 that it is _"not difficult to conclude that Bakunin's invisible dictatorship
 would be even more tyrannical than a . . . Marxist one"_ and that it expressed
-a _"profound authoritarian and dissimulating streak in his life and work."_
-[**Demanding the Impossible**, p. 287] So, the question of setting the record
+a _"profound authoritarian and dissimulating streak in his life and work."_ [
+**Demanding the Impossible** , p. 287] So, the question of setting the record
 straight about this aspect of Bakunin's theory is of more importance than just
 correcting a few Leninists. In addition, to do so will help clarify the
 concept of _"leadership of ideas"_ we discussed in the [last
@@ -1475,12 +1483,12 @@ dictatorship he also explicitly states his opposition to government power and
 **in particular** the idea that anarchists should seize it. For example, a
 Leninist quotes the following passage from _"a Bakuninist document"_ to show
 _"the dictatorial ambitions of Bakunin"_ and that the _"principle of anti-
-democracy was to leave Bakunin unchallenged at the apex of power"_: _"It is
+democracy was to leave Bakunin unchallenged at the apex of power"_ : _"It is
 necessary that in the midst of popular anarchy, which will constitute the very
 life and energy of the revolution, unity of thought and revolutionary action
 should find an organ. This organ must be the secret and world-wide association
-of the international brethren."_ [Derek Howl, _"The legacy of Hal Draper"_,
-pp. 137-49, **International Socialist**, no. 52, p. 147]
+of the international brethren."_ [Derek Howl, _"The legacy of Hal Draper"_ ,
+pp. 137-49, **International Socialist** , no. 52, p. 147]
 
 However, in the sentence **immediately before** those quoted, Bakunin stated
 that _"[t]his organisation rules out any idea of dictatorship and custodial
@@ -1494,16 +1502,16 @@ created by the people, and supreme control must always belong to the people
 organised into a free federation of agricultural and industrial associations .
 . . organised from the bottom upwards by means of revolutionary delegations .
 . . [who] will set out to administer public services, not to rule over
-peoples."_ [**Michael Bakunin: Selected Writings**, p. 172, p. 169 and p. 172]
-Selective quoting is only convincing to those ignorant of the subject.
+peoples."_ [ **Michael Bakunin: Selected Writings** , p. 172, p. 169 and p.
+172] Selective quoting is only convincing to those ignorant of the subject.
 
 Similarly, when we look at the situations where Bakunin uses the terms
 _"invisible"_ or _"collective"_ dictatorship (usually in letters to comrades)
 we find the same thing -- the explicit denial **in these same letters** that
 Bakunin thought the revolutionary association should take governmental power.
 For example, in a letter to Albert Richard (a fellow member of the _"Alliance
-of Social Democracy"_) Bakunin stated that _"[t]here is only one power and one
-dictatorship whose organisation is salutary and feasible: it is that
+of Social Democracy"_ ) Bakunin stated that _"[t]here is only one power and
+one dictatorship whose organisation is salutary and feasible: it is that
 collective, invisible dictatorship of those who are allied in the name of our
 principle."_ He then immediately adds that _"this dictatorship will be all the
 more salutary and effective for not being dressed up in any official power or
@@ -1515,21 +1523,21 @@ and all the stronger for having none of the paraphernalia of power."_
 Explicitly opposing _"Committees of Public Safety and official, overt
 dictatorship"_ he explains his idea of a revolution based on _"workers
 hav[ing] joined into associations . . . armed and organised by streets and
-**quartiers**, the federative commune."_ [**Op. Cit.**, p. 181, p. 180 and p.
-179] Hardly what would be expected from a would-be dictator. As Sam Dolgoff
+**quartiers** , the federative commune."_ [ **Op. Cit.** , p. 181, p. 180 and
+p. 179] Hardly what would be expected from a would-be dictator. As Sam Dolgoff
 suggested:
 
 > _"an organisation exercising no overt authority, without a state, without
-official status, without the machinery of institutionalised power to enforce
-its policies, cannot be defined as a dictatorship . . . Moreover, if it is
-borne in mind that this passage is part of a letter repudiating in the
-strongest terms the State and the authoritarian statism of the 'Robespierres,
-the Dantons, and the Saint-Justs of the revolution,' it is reasonable to
-conclude that Bakunin used the word 'dictatorship' to denote preponderant
-influence or guidance exercised largely by example . . . In line with this
-conclusion, Bakunin used the words 'invisible' and 'collective' to denote the
-underground movement exerting this influence in an organised manner."_
-[**Bakunin on Anarchism**, p. 182]
+> official status, without the machinery of institutionalised power to enforce
+> its policies, cannot be defined as a dictatorship . . . Moreover, if it is
+> borne in mind that this passage is part of a letter repudiating in the
+> strongest terms the State and the authoritarian statism of the
+> 'Robespierres, the Dantons, and the Saint-Justs of the revolution,' it is
+> reasonable to conclude that Bakunin used the word 'dictatorship' to denote
+> preponderant influence or guidance exercised largely by example . . . In
+> line with this conclusion, Bakunin used the words 'invisible' and
+> 'collective' to denote the underground movement exerting this influence in
+> an organised manner."_ [ **Bakunin on Anarchism** , p. 182]
 
 This analysis is confirmed by other passages from Bakunin's letters. In a
 letter to the Nihilist Sergi Nechaev (within which Bakunin indicates exactly
@@ -1538,42 +1546,43 @@ onwards, many of Bakunin's opponents quote Nechaev's pamphlets as if they were
 "Bakuninist," when in fact they were not) we find him arguing that:
 
 > _"These [revolutionary] groups would not seek anything for themselves,
-neither privilege nor honour nor power . . . [but] would be in a position to
-direct popular movements . . . and lead the people towards the most complete
-realisation of the social-economic ideal and the organisation of the fullest
-popular freedom. This is what I call **the collective dictatorship** of a
-secret organisation._
+> neither privilege nor honour nor power . . . [but] would be in a position to
+> direct popular movements . . . and lead the people towards the most complete
+> realisation of the social-economic ideal and the organisation of the fullest
+> popular freedom. This is what I call **the collective dictatorship** of a
+> secret organisation._
 
 > _"The dictatorship . . . does not reward any of the members that comprise
-the groups, or the groups themselves, with any profit or honour or official
-power. It does not threaten the freedom of the people, because, lacking any
-official character, it does not take the place of State control over the
-people, and because its whole aim . . . consists of the fullest realisation of
-the liberty of the people._
+> the groups, or the groups themselves, with any profit or honour or official
+> power. It does not threaten the freedom of the people, because, lacking any
+> official character, it does not take the place of State control over the
+> people, and because its whole aim . . . consists of the fullest realisation
+> of the liberty of the people._
 
 > _"This sort of dictatorship is not in the least contrary to the free
-development and the self-development of the people, nor its organisation from
-the bottom upward . . . for it influences the people exclusively through the
-natural, personal influence of its members, who have not the slightest power,
-. . . and . . . try . . . to direct the spontaneous revolutionary movement of
-the people towards . . . the organisation of popular liberty . . . This secret
-dictatorship would in the first place, and at the present time, carry out a
-broadly based popular propaganda . . . and by the power of this propaganda and
-also by **organisation among the people themselves** join together separate
-popular forces into a mighty strength capable of demolishing the State."_
-[**Michael Bakunin: Selected Writings**, pp. 193-4]
+> development and the self-development of the people, nor its organisation
+> from the bottom upward . . . for it influences the people exclusively
+> through the natural, personal influence of its members, who have not the
+> slightest power, . . . and . . . try . . . to direct the spontaneous
+> revolutionary movement of the people towards . . . the organisation of
+> popular liberty . . . This secret dictatorship would in the first place, and
+> at the present time, carry out a broadly based popular propaganda . . . and
+> by the power of this propaganda and also by **organisation among the people
+> themselves** join together separate popular forces into a mighty strength
+> capable of demolishing the State."_ [ **Michael Bakunin: Selected Writings**
+> , pp. 193-4]
 
 The key aspect of this is the notion of _"natural"_ influence. In a letter to
 a Spanish member of the Alliance we find Bakunin arguing that it _"will
 promote the Revolution only through the **natural but never official
-influence** of all members of the Alliance."_ [**Bakunin on Anarchism**, p.
+influence** of all members of the Alliance."_ [ **Bakunin on Anarchism** , p.
 387] This term was also used in his public writings, with Bakunin arguing that
 the _"very freedom of every individual results from th[e] great number of
 material, intellectual, and moral influences which every individual around him
 and which society . . . continually exercise on him"_ and that _"everything
 alive . . . intervene[s] . . . in the life of others . . . [so] we hardly wish
 to abolish the effect of any individual's or any group of individuals' natural
-influence upon the masses."_ [**The Basic Bakunin**, p. 140 and p. 141]
+influence upon the masses."_ [ **The Basic Bakunin** , p. 140 and p. 141]
 
 Thus _"natural influence"_ simply means the effect of communicating which
 others, discussing your ideas with them and winning them over to your
@@ -1582,7 +1591,7 @@ this _"natural"_ influence with _"official"_ influence, which replaced the
 process of mutual interaction between equals with a fixed hierarchy of command
 and thereby induced the _"transformation of natural influence, and, as such,
 the perfectly legitimate influence over man, into a right."_ [quoted by
-Richard B. Saltman, **The Social and Political Thought of Michael Bakunin**,
+Richard B. Saltman, **The Social and Political Thought of Michael Bakunin** ,
 p. 46]
 
 As an example of this difference, consider the case of a union militant (as
@@ -1599,27 +1608,27 @@ Indeed, this notion of _"natural"_ influence was also termed _"invisible"_ by
 Bakunin: _"It is only necessary that one worker in ten join the [International
 Working-Men's] Association **earnestly** and **with full understanding of the
 cause** for the nine-tenths remaining outside its organisation nevertheless to
-be influenced invisibly by it."_ [**The Basic Bakunin**, p. 139] So, as can be
-seen, the terms _"invisible"_ and _"collective"_ dictatorship used by Bakunin
-in his letters is strongly related to the term _"natural influence"_ used in
-his public works and seems to be used simply to indicate the effects of an
-organised political group on the masses. To see this, it is worthwhile to
-quote Bakunin at length about the nature of this _"invisible"_ influence:
+be influenced invisibly by it."_ [ **The Basic Bakunin** , p. 139] So, as can
+be seen, the terms _"invisible"_ and _"collective"_ dictatorship used by
+Bakunin in his letters is strongly related to the term _"natural influence"_
+used in his public works and seems to be used simply to indicate the effects
+of an organised political group on the masses. To see this, it is worthwhile
+to quote Bakunin at length about the nature of this _"invisible"_ influence:
 
 > _"It may be objected that this . . . influence on the popular masses
-suggests the establishment of a system of authority and a new government . . .
-Such a belief would be a serious blunder. The organised effect of the
-International on the masses . . . is nothing but the entirely natural
-organisation -- neither official nor clothed in any authority or political
-force whatsoever -- of the effect of a rather numerous group of individuals
-who are inspired by the same thought and headed toward the same goal, first of
-all on the opinion of the masses and only then, by the intermediary of this
-opinion (restated by the International's propaganda), on their will and their
-deeds. But the governments . . . impose themselves violently on the masses,
-who are forced to obey them and to execute their decrees . . . The
-International's influence will never be anything but one of opinion and the
-International will never be anything but the organisation of the natural
-effect of individuals on the masses."_ [**Op. Cit.**, pp. 139-40]
+> suggests the establishment of a system of authority and a new government . .
+> . Such a belief would be a serious blunder. The organised effect of the
+> International on the masses . . . is nothing but the entirely natural
+> organisation -- neither official nor clothed in any authority or political
+> force whatsoever -- of the effect of a rather numerous group of individuals
+> who are inspired by the same thought and headed toward the same goal, first
+> of all on the opinion of the masses and only then, by the intermediary of
+> this opinion (restated by the International's propaganda), on their will and
+> their deeds. But the governments . . . impose themselves violently on the
+> masses, who are forced to obey them and to execute their decrees . . . The
+> International's influence will never be anything but one of opinion and the
+> International will never be anything but the organisation of the natural
+> effect of individuals on the masses."_ [ **Op. Cit.** , pp. 139-40]
 
 Therefore, from both the fuller context provided by the works and letters
 selectively quoted by Marxists **and** his other writings, we find that rather
@@ -1627,13 +1636,13 @@ than being a secret authoritarian, Bakunin was, in fact, trying to express how
 anarchists could _"naturally influence"_ the masses and their revolution:
 
 > _"We are the most pronounced enemies of every sort of **official power** . .
-. We are the enemies of any sort of publicly declared dictatorship, we are
-social revolutionary anarchists . . . if we are anarchists, by what right do
-we want to influence the people, and what methods will we use? Denouncing all
-power, with what sort of power, or rather by what sort of force, shall we
-direct a people's revolution? **By a force that is invisible . . . that is not
-imposed on anyone . . . [and] deprived of all official rights and
-significance.**"_ [**Michael Bakunin: Selected Writings**, pp. 191-2]
+> . We are the enemies of any sort of publicly declared dictatorship, we are
+> social revolutionary anarchists . . . if we are anarchists, by what right do
+> we want to influence the people, and what methods will we use? Denouncing
+> all power, with what sort of power, or rather by what sort of force, shall
+> we direct a people's revolution? **By a force that is invisible . . . that
+> is not imposed on anyone . . . [and] deprived of all official rights and
+> significance.** "_ [ **Michael Bakunin: Selected Writings** , pp. 191-2]
 
 Continually opposing _"official"_ power, authority and influence, Bakunin used
 the term _"invisible, collective dictatorship"_ to describe the _"natural
@@ -1642,10 +1651,10 @@ desire to become a dictator, it in fact expresses the awareness that there is
 an "uneven" political development within the working class, an unevenness that
 can only be undermined by discussion within the mass assemblies of popular
 organisations. Any attempt to by-pass this "unevenness" by seizing or being
-elected to positions of power (i.e. by _"official influence"_) would be doomed
-to failure and result in dictatorship by a party -- _"triumph of the Jacobins
-or the Blanquists [or the Bolsheviks, we must add] would be the death of the
-Revolution."_ [**Op. Cit.**, p. 169]
+elected to positions of power (i.e. by _"official influence"_ ) would be
+doomed to failure and result in dictatorship by a party -- _"triumph of the
+Jacobins or the Blanquists [or the Bolsheviks, we must add] would be the death
+of the Revolution."_ [ **Op. Cit.** , p. 169]
 
 So rather than seek power, the anarchists would seek **influence** based on
 the soundness of their ideas, what anarchists today term the _"leadership of
@@ -1657,8 +1666,8 @@ any circumstances . . . ever be their master . . . What is to be the chief aim
 and pursue of this organisation? **To help the people towards self-
 determination on the lines of the most complete equality and fullest human
 freedom in every direction, without the least interference from any sort of
-domination . . . that is without any sort of government control.**"_ [**Op.
-Cit.**, p. 191]
+domination . . . that is without any sort of government control.** "_ [ **Op.
+Cit.** , p. 191]
 
 This analysis can be seen from Bakunin's discussion on union bureaucracy and
 how anarchists should combat it. Taking the Geneva section of the IWMA,
@@ -1673,11 +1682,11 @@ more than these popular assemblies . . . In these great meetings of the
 sections, the items on the agenda was amply discussed and the most progressive
 opinion prevailed."_ Given that Bakunin considered _"the federative Alliance
 of all the workers' associations"_ would _"constitute the Commune"_ by means
-of delegates with _"always responsible, and revocable mandates"_, we can
+of delegates with _"always responsible, and revocable mandates"_ , we can
 easily see that the role of the anarchist federation would be to intervene in
 general assemblies of these associations and ensure, through debate, that the
-most progressive opinion prevailed. [**Bakunin on Anarchism**, p. 246, p. 247
-and p. 153]
+most progressive opinion prevailed. [ **Bakunin on Anarchism** , p. 246, p.
+247 and p. 153]
 
 Having shown that the role of Bakunin's revolutionary organisations is
 drastically different than that suggested by the selective quotations of
@@ -1687,15 +1696,15 @@ issue of hierarchy first, we can do no better than quote Richard B. Saltman's
 summary of the internal organisation of these groups:
 
 > _"The association's 'single will,' Bakunin wrote, would be determined by
-'laws' that every member 'helped to create,' or at a minimum 'equally
-approved' by 'mutual agreement.' This 'definite set of rules' was to be
-'frequently renewed' in plenary sessions wherein each member had the 'duty to
-try and make his view prevail,' but then he must accept fully the decision of
-the majority. Thus the revolutionary association's 'rigorously conceived and
-prescribed plan,' implemented under the 'strictest discipline,' was in reality
-to be 'nothing more or less than the expression and direct outcome of the
-reciprocal commitment contracted by each of the members towards the others.'"_
-[**Op. Cit.**, p. 115]
+> 'laws' that every member 'helped to create,' or at a minimum 'equally
+> approved' by 'mutual agreement.' This 'definite set of rules' was to be
+> 'frequently renewed' in plenary sessions wherein each member had the 'duty
+> to try and make his view prevail,' but then he must accept fully the
+> decision of the majority. Thus the revolutionary association's 'rigorously
+> conceived and prescribed plan,' implemented under the 'strictest
+> discipline,' was in reality to be 'nothing more or less than the expression
+> and direct outcome of the reciprocal commitment contracted by each of the
+> members towards the others.'"_ [ **Op. Cit.** , p. 115]
 
 While many anarchists would not totally agree with this set-up (although we
 think that most supporters of the "Platform" would) all would agree that it is
@@ -1704,19 +1713,19 @@ Moreover, comments in Bakunin's letters to other Alliance members support the
 argument that his revolutionary associations were more democratic in nature
 than Marxists suggest. In a letter to a Spanish comrade we find him suggesting
 that _"all [Alliance] groups. . . should. . . from now on accept new members
-not by majority vote, but unanimously."_ [**Op. Cit.**, p. 386] In a letter to
-Italian members of the IWMA he argued that in Geneva the Alliance did not
+not by majority vote, but unanimously."_ [ **Op. Cit.** , p. 386] In a letter
+to Italian members of the IWMA he argued that in Geneva the Alliance did not
 resort to _"secret plots and intrigues."_ Rather:
 
 > _"Everything was done in broad daylight, openly, for everyone to see . . .
-The Alliance had regular weekly open meetings and everyone was urged to
-participate in the discussions . . . The old procedure where members sat and
-passively listened to speakers talking down to them from their pedestal was
-discarded._
+> The Alliance had regular weekly open meetings and everyone was urged to
+> participate in the discussions . . . The old procedure where members sat and
+> passively listened to speakers talking down to them from their pedestal was
+> discarded._
 
 > _"It was established that all meetings be conducted by informal round-table
-conversational discussions in which everybody felt free to participate: not to
-be talked **at**, but to exchange views."_ [**Op. Cit.**, pp. 405-6]
+> conversational discussions in which everybody felt free to participate: not
+> to be talked **at** , but to exchange views."_ [ **Op. Cit.** , pp. 405-6]
 
 Moreover, we find Bakunin being out-voted within the Alliance, hardly what we
 would expect if they **were** top-down dictatorships run by him as Marxists
@@ -1727,16 +1736,16 @@ The Italian and some French members wanted the Alliance to be totally
 independent of the IWA and objected to Bakunin's secrecy. Bakunin's view
 prevailed on the first question as he succeeded in convincing the majority of
 the harmful effects of a rivalry between the Alliance and the International.
-On the question of secrecy, he gave way to his opponents."_ [**Bakunin and the
-Italians**, p. 83]
+On the question of secrecy, he gave way to his opponents."_ [ **Bakunin and
+the Italians** , p. 83]
 
 Moreover, if Bakunin **did** seek to create a centralised, hierarchical
 organisation, as Marxists claim, he did not do a good job. We find him
-complaining that the Madrid Alliance was breaking up (_"The news of the
+complaining that the Madrid Alliance was breaking up ( _"The news of the
 dissolution of the Alliance in Spain saddened Bakunin. he intensified his
 letter-writing to Alliance members whom he trusted . . . He tried to get the
 Spaniards to reverse their decision"_ [Juan Gomez Casa, **Anarchist
-Organisation**, pp. 37-8]). While the "Bakuninist" Spanish and Swiss sections
+Organisation** , pp. 37-8]). While the "Bakuninist" Spanish and Swiss sections
 of the IWMA sent delegates to its infamous Hague congress, the "Bakuninist"
 Italian section did not. Of course, Marxists could argue that these facts show
 Bakunin's cunning nature, but the more obvious explanation is that Bakunin did
@@ -1752,36 +1761,36 @@ associates."_ Moreover, there _"is no trace or shadow or hierarchical
 organisation in a letter from Bakunin to Mora . . . On the contrary, Bakunin
 advises 'direct' relations between Spanish and Italian Comrades."_ The Spanish
 comrades also wrote a pamphlet which _"ridiculed the fable of orders from
-abroad."_ [Casa, **Op. Cit.**, p. 25 and p. 40] This is confirmed by George R.
-Esenwein who argues that _"[w]hile it is true that Bakunin's direct
+abroad."_ [Casa, **Op. Cit.** , p. 25 and p. 40] This is confirmed by George
+R. Esenwein who argues that _"[w]hile it is true that Bakunin's direct
 intervention during the early days of the International's development in Spain
 had assured the pre-dominance of his influence in the various federations and
 sections"_ of the organisation, _"it cannot be said that he manipulated it or
 otherwise used the Spanish Alliance as a tool for his own subversive
 designs."_ Thus, _"though the Alliance did exist in Spain, the society did not
 bear any resemblance to the nefarious organisation that the Marxists
-depicted."_ [**Anarchist Ideology and the Working Class Movement in Spain**,
+depicted."_ [ **Anarchist Ideology and the Working Class Movement in Spain** ,
 p. 42] Indeed, as Max Nettlau points out, those Spaniards who did break with
 the Alliance were persuaded of its _"hierarchical organisation . . . not by
 their own direct observation, but by what they had been told about the conduct
-of the organisation"_ in other countries. [quoted by Casa, **Op. Cit.**, pp.
+of the organisation"_ in other countries. [quoted by Casa, **Op. Cit.** , pp.
 39-40]. In addition, if Bakunin **did** run the Alliance under his own
 personal dictatorship we would expect it to change or dissolve upon his death.
 However, _"the Spanish Alliance survived Bakunin, who died in 1876, yet with
 few exceptions it continued to function in much the same way it had during
-Bakunin's lifetime."_ [Esenwein, **Op. Cit.**, p. 43]
+Bakunin's lifetime."_ [Esenwein, **Op. Cit.** , p. 43]
 
 Moving on to the second issue, the question of why Bakunin favoured secret
 organisation. At the time many states were despotic monarchies, with little or
 no civil rights. As he argued, _"nothing but a secret society would want to
 take this [arousing a revolution] on, for the interests of the government and
-of the government classes would be bitterly opposed to it."_ [**Michael
-Bakunin: Selected Writings**, p. 188] For survival, Bakunin considered secrecy
-an essential. As Juan Gomez Casas noted: _"In view of the difficulties of that
-period, Bakunin believed that secret groups of convinced and absolutely
-trustworthy men were safer and more effective. They would be able to place
-themselves at the head of developments at critical moments, but only to
-inspire and to clarify the issues."_ [**Op. Cit.**, p. 22] Even Marxists,
+of the government classes would be bitterly opposed to it."_ [ **Michael
+Bakunin: Selected Writings** , p. 188] For survival, Bakunin considered
+secrecy an essential. As Juan Gomez Casas noted: _"In view of the difficulties
+of that period, Bakunin believed that secret groups of convinced and
+absolutely trustworthy men were safer and more effective. They would be able
+to place themselves at the head of developments at critical moments, but only
+to inspire and to clarify the issues."_ [ **Op. Cit.** , p. 22] Even Marxists,
 faced with dictatorial states, have organised in secret and as George R.
 Esenwein points out, the _"claim that Bakunin's organisation scheme was not
 the product of a 'hard-headed realism' cannot be supported in the light of the
@@ -1789,9 +1798,9 @@ experiences of the Spanish Alliancists. It is beyond doubt that their
 adherence to Bakunin's program greatly contributed to the FRE's [Spanish
 section of the First International] ability to flourish during the early part
 of the 1870s and to survive the harsh circumstances of repression in the
-period 1874-1881."_ [**Op. Cit.**, p. 224f] So Bakunin's personal experiences
-in Tsarist Russia and other illiberal states shaped his ideas on how
-revolutionaries should organise (and let us not forget that he had been
+period 1874-1881."_ [ **Op. Cit.** , p. 224f] So Bakunin's personal
+experiences in Tsarist Russia and other illiberal states shaped his ideas on
+how revolutionaries should organise (and let us not forget that he had been
 imprisoned in the Peter and Paul prison for his activities).
 
 This is not to suggest that all of Bakunin's ideas on the role and nature of
@@ -1817,8 +1826,8 @@ trying to convey in his letters to Richard and Nechaev"_ and _"[o]nly the most
 jaundiced scholar, or one blinded by extreme antipathy towards Bakunin or
 anarchism, could interpret these words as indicating that Bakunin conception
 of a secret society implied a revolutionary dictatorship in the Jacobin sense,
-still less a 'despotism'"_ [**Bakunin: The Philosophy of Freedom**, p. 144 and
-p. 149]
+still less a 'despotism'"_ [ **Bakunin: The Philosophy of Freedom** , p. 144
+and p. 149]
 
 ## J.3.8 What is anarcho-syndicalism?
 
@@ -1826,23 +1835,24 @@ Anarcho-syndicalism (as mentioned in [section A.3.2](secA3.md#seca32)) is a
 form of anarchism which applies itself (primarily) to creating industrial
 unions organised in an anarchist manner, using anarchist tactics (such as
 direct action) to create a free society. To quote _"The Principles of
-Revolutionary Syndicalism"_ of the **International Workers Association**:
+Revolutionary Syndicalism"_ of the **International Workers Association** :
 
 > _"Revolutionary Syndicalism is that movement of the working classes founded
-on the basis of class war, which strives for the union of manual and
-intellectual workers in economic fighting organisations, in order to prepare
-for and realise in practice their liberation from the yoke of wage-slavery and
-state oppression. Its goal is the reorganisation of social life on the basis
-of free communism through the collective revolutionary action of the working
-classes themselves. It takes the view that only the economic organisations of
-the proletariat are appropriate for the realisation of this task and turns
-therefore to the workers in their capacity as producers and generators of
-social value, in opposition to the modern political labour parties, which for
-constructive economic purpose do not come into consideration."_ [quoted by
-Wayne Thorpe, **"The Workers Themselves"**, p. 322]
+> on the basis of class war, which strives for the union of manual and
+> intellectual workers in economic fighting organisations, in order to prepare
+> for and realise in practice their liberation from the yoke of wage-slavery
+> and state oppression. Its goal is the reorganisation of social life on the
+> basis of free communism through the collective revolutionary action of the
+> working classes themselves. It takes the view that only the economic
+> organisations of the proletariat are appropriate for the realisation of this
+> task and turns therefore to the workers in their capacity as producers and
+> generators of social value, in opposition to the modern political labour
+> parties, which for constructive economic purpose do not come into
+> consideration."_ [quoted by Wayne Thorpe, **"The Workers Themselves"** , p.
+> 322]
 
 The word _"syndicalism"_ is an English rendering of the French for
-_"revolutionary trade unionism"_ (_"syndicalisme revolutionarie"_). In the
+_"revolutionary trade unionism"_ ( _"syndicalisme revolutionarie"_ ). In the
 1890s many anarchists in France started to work within the trade union
 movement, radicalising it from within. As the ideas of autonomy, direct
 action, the general strike and political independence of unions which where
@@ -1876,14 +1886,14 @@ syndicalism is that of union autonomy -- the idea that the workers'
 organisation is capable of changing society by its own efforts, that it must
 control its own fate and not be controlled by any party or other outside group
 (including anarchist federations). This is sometimes termed **_"workerism"_**
-(from the French **_"ouverierisme"_**), i.e. workers' control of the class
+(from the French **_"ouverierisme"_** ), i.e. workers' control of the class
 struggle and their own organisations. Rather than being a cross-class
 organisation like the political party, the union is a **class** organisation
 and is so uniquely capable of representing working class aspirations,
-interests and hopes. _"The **syndicat**,"_ Emile Pouget wrote, _"groups
+interests and hopes. _"The **syndicat** ,"_ Emile Pouget wrote, _"groups
 together those who work against those who live by human exploitation: it
 brings together interests and not opinions."_ [quoted by Jeremy Jennings,
-**Syndicalism in France**, pp. 30-1] There is, then, _"no place in it for
+**Syndicalism in France** , pp. 30-1] There is, then, _"no place in it for
 anybody who was not a worker. Professional middle class intellectuals who
 provided both the leadership and the ideas of the socialist political
 movement, were therefore at a discount. As a consequence the syndicalist
@@ -1894,7 +1904,7 @@ the working class must be the task of labour unaided by middle class
 intellectuals or by politicians and aimed to establish a genuinely working
 class socialism and culture, free of all bourgeois taints. For the
 syndicalists, the workers were to be everything, the rest, nothing."_
-[Geoffrey Ostergaard, **The Tradition of Workers' Control**, p. 38]
+[Geoffrey Ostergaard, **The Tradition of Workers' Control** , p. 38]
 
 Therefore syndicalism is _"consciously anti-parliamentary and anti-political.
 It focuses not only on the realities of power but also on the key problem of
@@ -1911,7 +1921,7 @@ them a greater sense of individual initiative. By continual pressure, direct
 action tests the strength of the capitalist system at all times and presumably
 in its most important arena -- the factory, where ruled and ruler seem to
 confront each other most directly."_ [Murray Bookchin, **The Spanish
-Anarchists**, p. 121]
+Anarchists** , p. 121]
 
 This does not mean that syndicalism is "apolitical" in the sense of ignoring
 totally all political issues. This is a Marxist myth. Syndicalists follow
@@ -1942,30 +1952,30 @@ aims to win reforms by direct action and by this struggle bring the
 possibilities of a revolution, via the general strike, closer. Indeed any
 _"desired improvement is to be wrested directly from the capitalist"_ and
 _"must always represent a reduction in capitalist privileges and be a partial
-expropriation."_ [Emile Pouget, **No Gods, No Masters**, vol. 2, p. 71 and p.
+expropriation."_ [Emile Pouget, **No Gods, No Masters** , vol. 2, p. 71 and p.
 73] Thus Emma Goldman:
 
 > _"Of course Syndicalism, like the old trade unions, fights for immediate
-gains, but it is not stupid enough to pretend that labour can expect humane
-conditions from inhumane economic arrangements in society. Thus it merely
-wrests from the enemy what it can force him to yield; on the whole, however,
-Syndicalism aims at, and concentrates its energies upon, the complete
-overthrow of the wage system._
+> gains, but it is not stupid enough to pretend that labour can expect humane
+> conditions from inhumane economic arrangements in society. Thus it merely
+> wrests from the enemy what it can force him to yield; on the whole, however,
+> Syndicalism aims at, and concentrates its energies upon, the complete
+> overthrow of the wage system._
 
 > _"Syndicalism goes further: it aims to liberate labour from every
-institution that has not for its object the free development of production for
-the benefit of all humanity. In short, the ultimate purpose of Syndicalism is
-to reconstruct society from its present centralised, authoritative and brutal
-state to one based upon the free, federated grouping of the workers along
-lines of economic and social liberty._
+> institution that has not for its object the free development of production
+> for the benefit of all humanity. In short, the ultimate purpose of
+> Syndicalism is to reconstruct society from its present centralised,
+> authoritative and brutal state to one based upon the free, federated
+> grouping of the workers along lines of economic and social liberty._
 
 > _"With this object in view, Syndicalism works in two directions: first, by
-undermining the existing institutions; secondly, by developing and educating
-the workers and cultivating their spirit of solidarity, to prepare them for a
-full, free life, when capitalism shall have been abolished._
+> undermining the existing institutions; secondly, by developing and educating
+> the workers and cultivating their spirit of solidarity, to prepare them for
+> a full, free life, when capitalism shall have been abolished._
 
-> _"Syndicalism is, in essence, the economic expression of Anarchism."_ [**Red
-Emma Speaks**, p. 91]
+> _"Syndicalism is, in essence, the economic expression of Anarchism."_ [
+> **Red Emma Speaks** , p. 91]
 
 Which, in turn, explains why syndicalist unions are structured in such an
 obviously libertarian way. It reflects the importance of empowering every
@@ -1981,14 +1991,14 @@ and now. The syndicalist union is seen as _"the germ of the Socialist economy
 of the future, the elementary school of Socialism in general"_ and we need to
 _"plant these germs while there is yet time and bring them to the strongest
 possible development, so as to make the task of the coming social revolution
-easier and to insure its permanence."_ [Rocker, **Op. Cit.**, p. 59]
+easier and to insure its permanence."_ [Rocker, **Op. Cit.** , p. 59]
 
 Thus, as can be seen, syndicalism differs from trade unionism in its
 structure, its methods and its aims. Its structure, method and aims are
 distinctly anarchist. Little wonder leading syndicalist theorist Fernand
 Pelloutier argued that the trade union, _"governing itself along anarchic
-lines,"_ must become _"a practical schooling in anarchism."_ [**No Gods, No
-Masters**, vol. 2, p. 55 and p. 57] In addition, most anarcho-syndicalists
+lines,"_ must become _"a practical schooling in anarchism."_ [ **No Gods, No
+Masters** , vol. 2, p. 55 and p. 57] In addition, most anarcho-syndicalists
 support community organisations and struggle alongside the more traditional
 industry based approach usually associated within syndicalism. While we have
 concentrated on the industrial side here (simply because this is a key aspect
@@ -2008,8 +2018,8 @@ that is a test revolutionary and anarcho-syndicalists welcome and do not shirk
 from. As the union is self-managed from below up, its militancy and political
 content is determined by its membership. As Pouget put it, the union _"offers
 employers a degree of resistance in geometric proportion with the resistance
-put up by its members."_ [**Op. Cit.**, p. 71] That is why syndicalists ensure
-that power rests in the members of the union.
+put up by its members."_ [ **Op. Cit.** , p. 71] That is why syndicalists
+ensure that power rests in the members of the union.
 
 Syndicalists have two main approaches to building revolutionary unions --
 **_"dual unionism"_** and **_"boring from within."_** The former approach
@@ -2051,17 +2061,17 @@ revolutionary movement,' so called, in the hands of an educated class . . .
 [or] so-called 'revolutionary party' . . . [which] means that the workers are
 only expected to come in the fray when there's any fighting to be done, and in
 normal times leave theorising to the specialists or students."_ [Albert
-Meltzer, **Anarchism: Arguments for and Against**, pp. 82-3] A self-managed
+Meltzer, **Anarchism: Arguments for and Against** , pp. 82-3] A self-managed
 society can only be created by self-managed means, and as only the practice of
 self-management can ensure its success, the need for libertarian popular
 organisations is essential. Syndicalism is seen as the key way working people
 can prepare themselves for revolution and learn to direct their own lives. In
 this way syndicalism creates a true politics of the people, one that does not
-create a parasitic class of politicians and bureaucrats (_"We wish to
-emancipate ourselves, to free ourselves"_, Pelloutier wrote, _"but we do not
+create a parasitic class of politicians and bureaucrats ( _"We wish to
+emancipate ourselves, to free ourselves"_ , Pelloutier wrote, _"but we do not
 wish to carry out a revolution, to risk our skin, to put Pierre the socialist
 in the place of Paul the radical"_ [quoted by Jeremy Jennings, **Syndicalism
-in France**, p. 17]).
+in France** , p. 17]).
 
 This does not mean that syndicalists do not support organisations
 spontaneously created by workers' in struggle (such as workers' councils,
@@ -2091,11 +2101,11 @@ of his ideas prefigure what was latter to become known by these terms.
 Similarly, we find that the American **International Working People's
 Association** organised by anarchists in the 1880s _"anticipated by some
 twenty years the doctrine of anarcho-syndicalism"_ and _"[m]ore than merely
-resembling the 'Chicago Idea' [of the **IWPA**], the IWW's principles of
+resembling the 'Chicago Idea' [of the **IWPA** ], the IWW's principles of
 industrial unionism resulted from the conscious efforts of anarchists . . .
 who continued to affirm . . . the principles which the Chicago anarchists gave
-their lives defending."_ [Salvatore Salerno, **Red November, Black November**,
-p. 51 and p. 79] See [section H.2.8](secH2.md#sech28) for a discussion of
+their lives defending."_ [Salvatore Salerno, **Red November, Black November**
+, p. 51 and p. 79] See [section H.2.8](secH2.md#sech28) for a discussion of
 why Marxist claims that syndicalism and anarchism are unrelated are obviously
 false.
 
@@ -2107,8 +2117,8 @@ as helping to clarifying these ideas in many ways. As Emma Goldman argued, the
 _"feature which distinguishes Syndicalism from most philosophies is that it
 represents the revolutionary philosophy of labour conceived and born in the
 actual struggle and experience of workers themselves -- not in universities,
-colleges, libraries, or in the brain of some scientists."_ [**Op. Cit.**, pp.
-88-9] This applies equally to Bakunin and the first International).
+colleges, libraries, or in the brain of some scientists."_ [ **Op. Cit.** ,
+pp. 88-9] This applies equally to Bakunin and the first International).
 
 Given this, we must also point out here that while syndicalism has anarchist
 roots, not all syndicalists are anarchists. A few Marxists have been
@@ -2123,7 +2133,7 @@ required to complement the work of the union. Needless to say, anarcho-
 syndicalists disagree, arguing that centralisation kills the spirit of revolt
 and weakens a unions real strength and that political parties are both
 ineffective when compared to militant unionism and a constant source of
-corruption. [Rocker, **Op. Cit.**, pp. 55-60] So not all syndicalists are
+corruption. [Rocker, **Op. Cit.** , pp. 55-60] So not all syndicalists are
 anarchists, leading those anarchists who are syndicalists to often use the
 term "anarcho-syndicalism" to indicate that they are both anarchists and
 syndicalists as well as to stress the libertarian roots of syndicalism. In
@@ -2172,8 +2182,8 @@ interest in the people remaining an amorphous mass, unable to act for
 themselves and therefore easily dominated . . . But we anarchists do not want
 to **emancipate** the people; we want the people to **emancipate themselves**
 . . . we want the new way of life to emerge from the body of the people and
-correspond to the state of their development and advance as they advance."_
-[**Errico Malatesta: His Life and Ideas**, p. 90] This can only occur when
+correspond to the state of their development and advance as they advance."_ [
+**Errico Malatesta: His Life and Ideas** , p. 90] This can only occur when
 there are popular organisations, like trade unions, within which people can
 express themselves, come to common agreements and act. Moreover, these
 organisations must be autonomous, self-governing, be libertarian in nature
@@ -2197,7 +2207,7 @@ sacrifices for an ideal future are lacking, tend to adapt themselves to
 circumstances, foster a conservative spirit, and fear of change in those who
 manage to improve their conditions, and often end up by creating new
 privileged classes and serving to support and consolidate the system one would
-want to destroy."_ [**Op. Cit.**, pp. 113-4]
+want to destroy."_ [ **Op. Cit.** , pp. 113-4]
 
 If we look at the **role** of the union within capitalist society we see that
 in order for it to work, it must offer a reason for the boss to recognise and
@@ -2216,21 +2226,21 @@ the hands of officials at the top of the organisation. This ensures that _"the
 workers organisation becomes what it must perforce be in a capitalist society
 -- a means not of refusing to recognise and overthrowing the bosses, but
 simply for hedging round and limiting the bosses' power."_ [Errico Malatesta,
-**The Anarchist Revolution**, p. 29]
+**The Anarchist Revolution** , p. 29]
 
 Anarcho-syndicalists are aware of this problem. That is why their unions are
 decentralised, self-managed and organised from the bottom up in a federal
 manner. As Durruti argued:
 
 > _"No anarchists in the union committees unless at the ground level. In these
-committees, in case of conflict with the boss, the militant is forced to
-compromise to arrive at an agreement. The contracts and activities which come
-from being in this position, push the militant towards bureaucracy. Conscious
-of this risk, we do not wish to run it. Our role is to analyse from the bottom
-the different dangers which can beset a union organisation like ours. No
-militant should prolong his job in committees, beyond the time allotted to
-him. No permanent and indispensable people."_ [quoted by Abel Paz, **Durruti:
-The People Armed**, p. 183]
+> committees, in case of conflict with the boss, the militant is forced to
+> compromise to arrive at an agreement. The contracts and activities which
+> come from being in this position, push the militant towards bureaucracy.
+> Conscious of this risk, we do not wish to run it. Our role is to analyse
+> from the bottom the different dangers which can beset a union organisation
+> like ours. No militant should prolong his job in committees, beyond the time
+> allotted to him. No permanent and indispensable people."_ [quoted by Abel
+> Paz, **Durruti: The People Armed** , p. 183]
 
 However, structure is rarely enough in itself to undermine the bureaucratic
 tendencies created by the role of unions in the capitalist economy. While such
@@ -2248,8 +2258,8 @@ concerning the need for anarchists to remain distinct of the unions
 organisationally while working within them -- just as Peirat's comment that
 _"[b]linkered by participation in union committees, the FAI became incapable
 of a wider vision"_ indicates the validity of Malatesta's warnings against
-anarchists taking positions of responsibility in unions! [**Anarchists in the
-Spanish Revolution**, p. 241 and pp. 239-40]
+anarchists taking positions of responsibility in unions! [ **Anarchists in the
+Spanish Revolution** , p. 241 and pp. 239-40]
 
 Moreover, even the structure of syndicalist unions can cause problems: _"In
 modelling themselves structurally on the bourgeois economy, the syndicalist
@@ -2258,7 +2268,7 @@ centralised apparatus they professed to oppose. By pleading the need to deal
 effectively with the tightly knit bourgeoisie and state machinery, reformist
 leaders in syndicalist unions often had little difficulty in shifting
 organisational control from the bottom to the top."_ [Murray Bookchin, **The
-Spanish Anarchists**, p. 123]
+Spanish Anarchists** , p. 123]
 
 In addition, as the syndicalist unions grow in size and influence their
 initial radicalism is usually watered-down. This is because, _"since the
@@ -2268,7 +2278,7 @@ led to moderate their aspirations, first so that they should not frighten away
 those they wish to have with them, and because, in proportion as numbers
 increase, those with ideas who have initiated the movement remain buried in a
 majority that is only occupied with the petty interests of the moment."_
-[Errico Malatesta, **Anarchism and Syndicalism**, p. 150] Which, ironically
+[Errico Malatesta, **Anarchism and Syndicalism** , p. 150] Which, ironically
 given that increased self-management is seen as a way of reducing tendencies
 towards bureaucracy, means that syndicalist unions have a tendency towards
 reformism simply because the majority of their members will be non-
@@ -2296,7 +2306,7 @@ better their conditions, build class consciousness, and prepare for
 revolution. The need to survive and build a working-class movement had always
 forced syndicalists to adapt themselves to the exigencies of the moment."_
 [Barbara Mitchell, _"French Syndicalism: An Experiment in Practical
-Anarchism"_, pp. 25-41, **Revolutionary Syndicalism**, Marcel van der Linden
+Anarchism"_ , pp. 25-41, **Revolutionary Syndicalism** , Marcel van der Linden
 and Wayne Thorpe (eds.), p. 25]
 
 As can be seen from the history of many syndicalist unions (and, obviously,
@@ -2305,24 +2315,25 @@ are outweighed by the de-radicalising ones. This can also be seen from the
 issue of collective bargaining:
 
 > _"The problem of collective bargaining foreshadowed the difficulty of
-maintaining syndicalist principles in developed capitalist societies. Many
-organisations within the international syndicalist movement initially
-repudiated collective agreements with employers on the grounds that by a
-collaborative sharing of responsibility for work discipline, such agreements
-would expand bureaucratisation within the unions, undermine revolutionary
-spirit, and restrict the freedom of action that workers were always to
-maintain against the class enemy. From an early date, however, sometimes after
-a period of suspicion and resistance, many workers gave up this position. In
-the early decades of the century it became clear that to maintain or gain a
-mass membership, syndicalist unions had to accept collective bargaining."_
-[Marcel van der Linden and Wayne Thorpe, **Op. Cit.**, p. 19]
+> maintaining syndicalist principles in developed capitalist societies. Many
+> organisations within the international syndicalist movement initially
+> repudiated collective agreements with employers on the grounds that by a
+> collaborative sharing of responsibility for work discipline, such agreements
+> would expand bureaucratisation within the unions, undermine revolutionary
+> spirit, and restrict the freedom of action that workers were always to
+> maintain against the class enemy. From an early date, however, sometimes
+> after a period of suspicion and resistance, many workers gave up this
+> position. In the early decades of the century it became clear that to
+> maintain or gain a mass membership, syndicalist unions had to accept
+> collective bargaining."_ [Marcel van der Linden and Wayne Thorpe, **Op.
+> Cit.** , p. 19]
 
 Thus, for most anarchists, _"the Trade Unions are, by their very nature
 reformist and never revolutionary. The revolutionary spirit must be
 introduced, developed and maintained by the constant actions of
 revolutionaries who work from within their ranks as well as from outside, but
 it cannot be the normal, natural definition of the Trade Unions function."_
-[Malatesta, **Errico Malatesta: His Life and Ideas**, p. 117]
+[Malatesta, **Errico Malatesta: His Life and Ideas** , p. 117]
 
 This does not mean that anarchists should not work within labour
 organisations. Nor does it mean rejecting anarcho-syndicalist unions as an
@@ -2359,8 +2370,8 @@ question of whether syndicalist unions are sufficient in themselves to create
 anarchy. Pierre Monatte, a French syndicalist, argued that _"Syndicalism, as
 the [CGT's] Congress of Amiens proclaimed in 1906, is sufficient unto itself"_
 as _"the working class, having at last attained majority, means to be self-
-sufficient and to rely on no-one else for its emancipation."_ [**The Anarchist
-Reader**, p. 219]
+sufficient and to rely on no-one else for its emancipation."_ [ **The
+Anarchist Reader** , p. 219]
 
 This idea of self-sufficiency means that the anarchist and the syndicalist
 movement must be fused into one, with syndicalism taking the role of both
@@ -2379,14 +2390,14 @@ movement, working with the rank and file while keeping their own identity as
 anarchists and organising as anarchists. Thus Malatesta: _"In the past I
 deplored that the comrades isolated themselves from the working-class
 movement. Today I deplore that many of us, falling into the contrary extreme,
-let themselves be swallowed up in the same movement."_ [**Op. Cit.**, p. 225]
-In the eyes of other anarchists anarcho-syndicalism in its "pure"
+let themselves be swallowed up in the same movement."_ [ **Op. Cit.** , p.
+225] In the eyes of other anarchists anarcho-syndicalism in its "pure"
 (revolutionary syndicalist) form makes the error of confusing the anarchist
 and union movement and so ensures that the resulting movement can do neither
 work well: _"Every fusion or confusion between the anarchist movement and the
 trade union movement ends, either in rendering the later unable to carry out
 its specific task or by weakening, distorting, or extinguishing the anarchist
-spirit."_ [Malatesta, **Errico Malatesta: His Life and Ideas**, p. 123]
+spirit."_ [Malatesta, **Errico Malatesta: His Life and Ideas** , p. 123]
 
 Most anarchists agree with Malatesta when he argued that _"anarchists must not
 want the Trade Unions to be anarchist, but they must act within their ranks in
@@ -2395,16 +2406,17 @@ groups. . . [I]n the situation as it is, and recognising that the social
 development of one's workmates is what it is, the anarchist groups should not
 expect the workers' organisation to act as if they were anarchist, but should
 make every effort to induce them to approximate as much as possible to the
-anarchist method."_ [**Op. Cit.**, pp. 124-5] Given that it appears to be the
-case that labour unions **are** by nature reformist, they cannot be expected
-to be enough in themselves when creating a free society. Hence the need for
-anarchists to organise **as anarchists** as well as alongside their fellow
-workers as workers in order to spread anarchist ideas on tactics and aims.
-This activity within existing unions does not necessarily mean attempting to
-"reform" the union in a libertarian manner (although some anarchists would
-support this approach). Rather it means working with the rank and file of the
-unions and trying to create autonomous workplace organisations, independent of
-the trade union bureaucracy and organised in a libertarian way.
+anarchist method."_ [ **Op. Cit.** , pp. 124-5] Given that it appears to be
+the case that labour unions **are** by nature reformist, they cannot be
+expected to be enough in themselves when creating a free society. Hence the
+need for anarchists to organise **as anarchists** as well as alongside their
+fellow workers as workers in order to spread anarchist ideas on tactics and
+aims. This activity within existing unions does not necessarily mean
+attempting to "reform" the union in a libertarian manner (although some
+anarchists would support this approach). Rather it means working with the rank
+and file of the unions and trying to create autonomous workplace
+organisations, independent of the trade union bureaucracy and organised in a
+libertarian way.
 
 This involves creating anarchist organisations separate from but which (in
 part) work within the labour movement for anarchist ends. Let us not forget
@@ -2431,7 +2443,7 @@ masses a really revolutionary direction."_ This did not mean that the Alliance
 was imposing a foreign theory onto the members of the unions, because the
 _"programs of one and the other . . . differ only in the degree of their
 revolutionary development . . . The program of the Alliance represents the
-fullest unfolding of the International."_ [**Bakunin on Anarchism**, p. 157]
+fullest unfolding of the International."_ [ **Bakunin on Anarchism** , p. 157]
 Nor did it imply that anarchists think that unions and other forms of popular
 organisations should be controlled by anarchists. Far from it! Anarchists are
 the strongest supporters of the autonomy of all popular organisations. As we
@@ -2444,7 +2456,7 @@ well. For example, many anarchists dislike the emphasis syndicalists place on
 the workplace and see _"in syndicalism a shift in focus from the commune to
 the trade union, from all of the oppressed to the industrial proletariat
 alone, from the streets to the factories, and, in emphasis at least, from
-insurrection to the general strike."_ [Bookchin, **Op. Cit.**, p. 123]
+insurrection to the general strike."_ [Bookchin, **Op. Cit.** , p. 123]
 However, most anarcho-syndicalists are well aware that life exists outside the
 workplace and so this disagreement is largely one of emphasis. Similarly, many
 anarchists disagreed with the early syndicalist argument that a general strike
@@ -2455,13 +2467,13 @@ _"armed insurrection unnecessary"_ since the _"first to die of hunger during a
 general strike would not be the bourgeois, who dispose of all the stores, but
 the workers."_ In order for this **not** to occur, the workers would need to
 _"take over production"_ which are protected by the police and armed forces
-and this meant _"insurrection."_ [Malatesta, **The Anarchist Reader**, pp.
+and this meant _"insurrection."_ [Malatesta, **The Anarchist Reader** , pp.
 223-4] Again, however, most modern syndicalists accept this to be the case and
 see the _"expropriatory general strike,"_ in the words of French syndicalist
-Pierre Besnard, as _"clearly **insurrectional.**"_ [quoted by Vernon Richards,
-**Errico Malatesta: His Life and Ideas**, p. 288] We mention this purely to
-counter Leninist claims that syndicalists subscribe to the same ideas they did
-in the 1890s.
+Pierre Besnard, as _"clearly **insurrectional.** "_ [quoted by Vernon
+Richards, **Errico Malatesta: His Life and Ideas** , p. 288] We mention this
+purely to counter Leninist claims that syndicalists subscribe to the same
+ideas they did in the 1890s.
 
 Despite our criticisms we should recognise that the difference between
 anarchists and anarcho-syndicalists are slight and (often) just a case of
@@ -2486,7 +2498,7 @@ should work within the labour movement. **The Anarchist Reader** contains the
 famous debate between the syndicalist Pierre Monatte and Malatesta at the
 International Anarchist conference in Amsterdam in 1907.
 
-[‹ J.2 What is direct action?](secJ2.md "Go to previous page" )
-[up](secJcon.md "Go to parent page" ) [J.4 What trends in society aid
-anarchist activity? ›](secJ4.md "Go to next page" )
+[‹ J.2 What is direct action?](secJ2.md "Go to previous page")
+[up](secJcon.md "Go to parent page") [J.4 What trends in society aid
+anarchist activity? ›](secJ4.md "Go to next page")
 

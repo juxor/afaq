@@ -6,7 +6,7 @@ and political oppressors. Among these the outstanding are: the strike, in all
 its graduations from the simple wage struggle to the general strike; the
 boycott; sabotage in all its countless forms; anti-militarist propaganda, and
 in particularly critical cases . . . armed resistance of the people for the
-protection of life and liberty."_ [**Anarcho-Syndicalism**, p. 78]
+protection of life and liberty."_ [ **Anarcho-Syndicalism** , p. 78]
 
 Not that anarchists think that direct action is only applicable within the
 workplace. Far from it. Direct action must occur everywhere! So, in non-
@@ -20,7 +20,7 @@ to ensure the _"protection of the community against the most pernicious
 outgrowths of the present system. The social strike seeks to force upon the
 employers a responsibility to the public. Primarily it has in view the
 protection of the customers, of whom the workers themselves [and their
-families] constitute the great majority"_ [**Op. Cit.**, p. 86]
+families] constitute the great majority"_ [ **Op. Cit.** , p. 86]
 
 Basically, direct action means that instead of getting someone else to act for
 you (e.g. a politician), you act for yourself. Its essential feature is an
@@ -28,34 +28,35 @@ organised protest by ordinary people to make a change by their own efforts.
 Thus Voltairine De Cleyre's excellent statement on this topic:
 
 > _"Every person who ever thought he had a right to assert, and went boldly
-and asserted it, himself, or jointly with others that shared his convictions,
-was a direct actionist. Some thirty years ago I recall that the Salvation Army
-was vigorously practicing direct action in the maintenance of the freedom of
-its members to speak, assemble, and pray. Over and over they were arrested,
-fined, and imprisoned; but they kept right on singing, praying, and marching,
-till they finally compelled their persecutors to let them alone. The
-Industrial Workers [of the World] are now conducting the same fight, and have,
-in a number of cases, compelled the officials to let them alone by the same
-direct tactics._
+> and asserted it, himself, or jointly with others that shared his
+> convictions, was a direct actionist. Some thirty years ago I recall that the
+> Salvation Army was vigorously practicing direct action in the maintenance of
+> the freedom of its members to speak, assemble, and pray. Over and over they
+> were arrested, fined, and imprisoned; but they kept right on singing,
+> praying, and marching, till they finally compelled their persecutors to let
+> them alone. The Industrial Workers [of the World] are now conducting the
+> same fight, and have, in a number of cases, compelled the officials to let
+> them alone by the same direct tactics._
 
 > _"Every person who ever had a plan to do anything, and went and did it, or
-who laid his plan before others, and won their co-operation to do it with him,
-without going to external authorities to please do the thing for them, was a
-direct actionist. All co-operative experiments are essentially direct action._
+> who laid his plan before others, and won their co-operation to do it with
+> him, without going to external authorities to please do the thing for them,
+> was a direct actionist. All co-operative experiments are essentially direct
+> action._
 
 > _"Every person who ever in his life had a difference with anyone to settle,
-and went straight to the other persons involved to settle it, either by a
-peaceable plan or otherwise, was a direct actionist. Examples of such action
-are strikes and boycotts; many persons will recall the action of the
-housewives of New York who boycotted the butchers, and lowered the price of
-meat; at the present moment a butter boycott seems looming up, as a direct
-reply to the price-makers for butter._
+> and went straight to the other persons involved to settle it, either by a
+> peaceable plan or otherwise, was a direct actionist. Examples of such action
+> are strikes and boycotts; many persons will recall the action of the
+> housewives of New York who boycotted the butchers, and lowered the price of
+> meat; at the present moment a butter boycott seems looming up, as a direct
+> reply to the price-makers for butter._
 
 > _"These actions are generally not due to any one's reasoning overmuch on the
-respective merits of directness or indirectness, but are the spontaneous
-retorts of those who feel oppressed by a situation. In other words, all people
-are, most of the time, believers in the principle of direct action, and
-practisers of it."_ [**The Voltairine De Cleyre Reader**, pp. 47-8]
+> respective merits of directness or indirectness, but are the spontaneous
+> retorts of those who feel oppressed by a situation. In other words, all
+> people are, most of the time, believers in the principle of direct action,
+> and practisers of it."_ [ **The Voltairine De Cleyre Reader** , pp. 47-8]
 
 So direct action means acting for yourself against injustice and oppression.
 It can, sometimes, involve putting pressure on politicians or companies, for
@@ -67,7 +68,7 @@ such actions are to have the desired empowerment effect, they must be largely
 self-generated, rather than being devised and directed from above"_ and be
 _"ways in which people could take control of their lives"_ so that it
 _"empowered those who participated in it."_ [Martha Ackelsberg, **Free Women
-of Spain**, p. 55]
+of Spain** , p. 55]
 
 So, in a nutshell, direct action is any form of activity which people
 themselves decide upon and organise themselves which is based on their own
@@ -76,10 +77,10 @@ them. As such direct action is a natural expression of liberty, of self-
 government, for direct action _"against the authority in the shop, direct
 action against the authority of the law, direct action against the invasive,
 meddlesome authority of our moral code, is the logical, consistent method of
-Anarchism."_ [Emma Goldman, **Red Emma Speaks**, pp. 76-7] It is clear that by
-acting for yourself you are expressing the ability to govern yourself. Thus it
-is a means by which people can take control of their own lives. It is a means
-of self-empowerment and self-liberation.
+Anarchism."_ [Emma Goldman, **Red Emma Speaks** , pp. 76-7] It is clear that
+by acting for yourself you are expressing the ability to govern yourself. Thus
+it is a means by which people can take control of their own lives. It is a
+means of self-empowerment and self-liberation.
 
 Anarchists reject the view that society is static and that people's
 consciousness, values, ideas and ideals cannot be changed. Far from it and
@@ -110,12 +111,12 @@ practice it. As it is based on people acting for themselves, it shatters the
 dependency and marginalisation created by hierarchy. This is key:
 
 > _"What is even more important about direct action is that it forms a
-decisive step toward recovering the personal power over social life that the
-centralised, over-bearing bureaucracies have usurped from the people . . . we
-not only gain a sense that we can control the course of social events again;
-we recover a new sense of selfhood and personality without which a truly free
-society, based in self-activity and self-management, is utterly impossible."_
-[Murray Bookchin, **Toward an Ecological Society**, p. 47]
+> decisive step toward recovering the personal power over social life that the
+> centralised, over-bearing bureaucracies have usurped from the people . . .
+> we not only gain a sense that we can control the course of social events
+> again; we recover a new sense of selfhood and personality without which a
+> truly free society, based in self-activity and self-management, is utterly
+> impossible."_ [Murray Bookchin, **Toward an Ecological Society** , p. 47]
 
 By acting for themselves, people gain a sense of their own power and
 abilities. This is essential if people are to run their own lives. As such,
@@ -130,12 +131,13 @@ means of asserting your individual opinion, interests and happiness, of
 fighting against self-negation:
 
 > _"man has as much liberty as he is willing to take. Anarchism therefore
-stands for direct action, the open defiance of, and resistance to, all laws
-and restrictions, economic, social and moral. But defiance and resistance are
-illegal. Therein lies the salvation of man. Everything illegal necessitates
-integrity, self-reliance, and courage. In short, it calls for free independent
-spirits, for men who are men, and who have a bone in their back which you
-cannot pass your hand through."_ [Emma Goldman, **Red Emma Speaks**, pp. 75-6]
+> stands for direct action, the open defiance of, and resistance to, all laws
+> and restrictions, economic, social and moral. But defiance and resistance
+> are illegal. Therein lies the salvation of man. Everything illegal
+> necessitates integrity, self-reliance, and courage. In short, it calls for
+> free independent spirits, for men who are men, and who have a bone in their
+> back which you cannot pass your hand through."_ [Emma Goldman, **Red Emma
+> Speaks** , pp. 75-6]
 
 In addition, because direct action is based around individuals solving their
 own problems, by their own action, it awakens those aspects of individuals
@@ -147,22 +149,22 @@ educate themselves in the ways of and skills required for self-management and
 liberty:
 
 > _"Direct action meant that the goal of . . . these activities was to provide
-ways for people to get in touch with their own powers and capacities, to take
-back the power of naming themselves and their lives . . . we learn to think
-and act for ourselves by joining together in organisations in which our
-experience, our perception, and our activity can guide and make the change.
-Knowledge does not precede experience, it flows from it . . . People learn to
-be free only by exercising freedom. [As one Spanish Anarchist put it] 'We are
-not going to find ourselves . . . with people ready-made for the future . . .
-Without continued exercise of their faculties, there will be no free people .
-. . The external revolution and the internal revolution presuppose one
-another, and they must be simultaneous in order to be successful.'"_ [Martha
-Ackelsberg, **Free Women of Spain**, pp. 54-5]
+> ways for people to get in touch with their own powers and capacities, to
+> take back the power of naming themselves and their lives . . . we learn to
+> think and act for ourselves by joining together in organisations in which
+> our experience, our perception, and our activity can guide and make the
+> change. Knowledge does not precede experience, it flows from it . . . People
+> learn to be free only by exercising freedom. [As one Spanish Anarchist put
+> it] 'We are not going to find ourselves . . . with people ready-made for the
+> future . . . Without continued exercise of their faculties, there will be no
+> free people . . . The external revolution and the internal revolution
+> presuppose one another, and they must be simultaneous in order to be
+> successful.'"_ [Martha Ackelsberg, **Free Women of Spain** , pp. 54-5]
 
 So direct action, to use Bookchin's words, is _"the means whereby each
 individual awakens to the hidden powers within herself and himself, to a new
 sense of self-confidence and self-competence; it is the means whereby
-individuals take control of society directly."_ [**Op. Cit.**, p. 48]
+individuals take control of society directly."_ [ **Op. Cit.** , p. 48]
 
 In addition, direct action creates the need for new forms of social
 organisation. These new forms of organisation will be informed and shaped by
@@ -172,19 +174,19 @@ the free, self-managed organisations which can replace the current
 hierarchical ones (see [section I.2.3](secI2.md#seci23)). For example, for
 Kropotkin, unions were _"natural organs for the direct struggle with
 capitalism and for the composition of the future order."_ [quoted by Paul
-Avrich, **The Russian Anarchists**, p. 81] In other words, direct action helps
-create the new world in the shell of the old:
+Avrich, **The Russian Anarchists** , p. 81] In other words, direct action
+helps create the new world in the shell of the old:
 
 > _"direct action not only empowered those who participated in it, it also had
-effects on others . . . [it includes] exemplary action that attracted
-adherents by the power of the positive example it set. Contemporary examples .
-. . include food or day-care co-ops, collectively run businesses, sweat equity
-housing programmes, women's self-help health collectives, urban squats or
-women's peace camps [as well as traditional examples as industrial unions,
-social centres, etc.]. While such activities empower those who engage in them,
-they also demonstrate to others that non-hierarchical forms of organisation
-can and do exist -- and that they can function effectively."_ [Ackelsberg,
-**Op. Cit.**, p. 55]
+> effects on others . . . [it includes] exemplary action that attracted
+> adherents by the power of the positive example it set. Contemporary examples
+> . . . include food or day-care co-ops, collectively run businesses, sweat
+> equity housing programmes, women's self-help health collectives, urban
+> squats or women's peace camps [as well as traditional examples as industrial
+> unions, social centres, etc.]. While such activities empower those who
+> engage in them, they also demonstrate to others that non-hierarchical forms
+> of organisation can and do exist -- and that they can function
+> effectively."_ [Ackelsberg, **Op. Cit.** , p. 55]
 
 Also, direct action such as strikes encourage and promote class consciousness
 and class solidarity. According to Kropotkin, _"the strike develops the
@@ -198,7 +200,7 @@ between the workers of all trades, localities and countries the consciousness
 and very fact of solidarity: a twofold action, both negative and positive,
 which tends to constitute directly the new world of the proletariat, opposing
 it almost in an absolute way to the bourgeois world."_ [quoted by Caroline
-Cahm, **Kropotkin and the Rise of Revolutionary Anarchism 1872-1886**, p. 256
+Cahm, **Kropotkin and the Rise of Revolutionary Anarchism 1872-1886** , p. 256
 and pp. 216-217]
 
 Direct action, therefore, helps to create anarchists and anarchist
@@ -206,7 +208,7 @@ alternatives within capitalism and statism. As such, it plays an essential
 role in anarchist theory and activity. For anarchists, direct action _"is not
 a 'tactic' . . . it is a moral principle, an ideal, a sensibility. It should
 imbue every aspect of our lives and behaviour and outlook."_ [Bookchin, **Op.
-Cit.**, p. 48]
+Cit.** , p. 48]
 
 ## J.2.2 Why do anarchists reject voting as a means for change?
 
@@ -225,7 +227,7 @@ vested interests within democratic government.
 For anarchists, the general nature of the state and its role within society is
 to ensure _"the preservation of the economic 'status quo,' the protection of
 the economic privileges of the ruling class, whose agent and **gendarme** it
-is"_. [Luigi Galleani, **The End of Anarchism?**, p. 28] As such, the state
+is"_. [Luigi Galleani, **The End of Anarchism?** , p. 28] As such, the state
 and capital restrict and control the outcome of political action of the so-
 called sovereign people as expressed by voting.
 
@@ -253,17 +255,18 @@ and go. In other words, the state bureaucracy has vested interests and elected
 politicians cannot effectively control them:
 
 > _"Such a bureaucracy consists of armed forces, police forces, and a civil
-service. These are largely autonomous bodies. Theoretically they are
-subordinate to a democratically elected Parliament, but the Army, Navy, and
-Air Forces are controlled by specially trained officers who from their
-schooldays onwards are brought up in a narrow caste tradition, and who always,
-in dealing with Parliament, can dominate that body by their superior technical
-knowledge, professional secrecy, and strategic bluff. As for the bureaucracy
-proper, the Civil Service, anyone who has had any experience of its inner
-workings knows the extent to which it controls the Cabinet, and through the
-Cabinet, Parliament itself. We are really ruled by a secret shadow cabinet . .
-. All these worthy servants of the State are completely out of touch with the
-normal life of the nation."_ [Herbert Read, **Anarchy and Order**, p. 100]
+> service. These are largely autonomous bodies. Theoretically they are
+> subordinate to a democratically elected Parliament, but the Army, Navy, and
+> Air Forces are controlled by specially trained officers who from their
+> schooldays onwards are brought up in a narrow caste tradition, and who
+> always, in dealing with Parliament, can dominate that body by their superior
+> technical knowledge, professional secrecy, and strategic bluff. As for the
+> bureaucracy proper, the Civil Service, anyone who has had any experience of
+> its inner workings knows the extent to which it controls the Cabinet, and
+> through the Cabinet, Parliament itself. We are really ruled by a secret
+> shadow cabinet . . . All these worthy servants of the State are completely
+> out of touch with the normal life of the nation."_ [Herbert Read, **Anarchy
+> and Order** , p. 100]
 
 As an aside, it should be noted that while _"in a society of rich and poor
 nothing is more necessary"_ than a bureaucracy as it is _"necessary to protect
@@ -271,12 +274,12 @@ an unfair distribution of property"_ it would be wrong to think that it does
 not have its own class interests: _"Even if you abolish all other classes and
 distinctions and retain a bureaucracy you are still far from the classless
 society, for the bureaucracy is itself the nucleus of a class whose interests
-are totally opposed to the people it supposedly serves."_ [**Op. Cit.**, p. 99
-and p. 100]
+are totally opposed to the people it supposedly serves."_ [ **Op. Cit.** , p.
+99 and p. 100]
 
 In addition to the official bureaucracies and their power, there is also the
 network of behind the scenes agencies which are its arm. This can be termed
-_"the permanent government"_ and _"the secret state"_, respectively. The
+_"the permanent government"_ and _"the secret state"_ , respectively. The
 latter, in Britain, is _"the security services, MI5, Special Branch and the
 secret intelligence service, MI6."_ Other states have their equivalents (the
 FBI, CIA, and so on in the USA). By the former, it is meant _"the secret state
@@ -284,11 +287,11 @@ plus the Cabinet Office and upper echelons of Home and Foreign and
 Commonwealth Offices, the Armed Forces and Ministry of Defence . . . and the
 so-called 'Permanent Secretaries Club,' the network of very senior civil
 servants -- the 'Mandarins.'"_ In short, the upper-echelons of the bureaucracy
-and state apparatus. Add to this _"its satellites"_, including M.P.s
+and state apparatus. Add to this _"its satellites"_ , including M.P.s
 (particularly right-wing ones), _"agents of influence"_ in the media, former
 security services personnel, think tanks and opinion forming bodies, front
 companies of the security services, and so on. [Stephen Dorril and Robin
-Ramsay, **Smear! Wilson and the Secret State**, pp. X-XI]
+Ramsay, **Smear! Wilson and the Secret State** , pp. X-XI]
 
 These bodies, while theoretically under the control of the elected government,
 can effectively (via disinformation, black operations, bureaucratic slowdowns,
@@ -305,37 +308,37 @@ Ramsay). Left-wing Labour M.P. Tony Benn was subjected to intense pressure by
 "his" Whitehall advisers during the same period:
 
 > _"In early 1975, the campaign against Benn by the media was joined by the
-secret state. The timing is interesting. In January, his Permanent Secretary
-had 'declared war' and the following month began the most extraordinary
-campaign of harassment any major British politician has experienced. While
-this is not provable by any means, it does look as though there is a clear
-causal connection between withdrawal of Prime Ministerial support, the open
-hostility from the Whitehall mandarins and the onset of covert operations."_
-[Dorril and Ramsay, **Op. Cit.**, p. 279]
+> secret state. The timing is interesting. In January, his Permanent Secretary
+> had 'declared war' and the following month began the most extraordinary
+> campaign of harassment any major British politician has experienced. While
+> this is not provable by any means, it does look as though there is a clear
+> causal connection between withdrawal of Prime Ministerial support, the open
+> hostility from the Whitehall mandarins and the onset of covert operations."_
+> [Dorril and Ramsay, **Op. Cit.** , p. 279]
 
 This is not to forget the role of the secret state in undermining reformist
 and radical organisations and movements. This involvement goes from pure
 information gathering on "subversives", to disruption and repression. Taking
 the example of the US secret state, Howard Zinn notes that in 1975:
 
-> _"congressional committees . . . began investigations of the FBI and CIA. _
+> _"congressional committees . . . began investigations of the FBI and CIA._
 
 > _"The CIA inquiry disclosed that the CIA had gone beyond its original
-mission of gathering intelligence and was conducting secret operations of all
-kinds . . . [for example] the CIA - with the collusion of a secret Committee
-of Forty headed by Henry Kissinger - had worked to 'destabilize' the
-[democratically elected, left-wing] Chilean government . . ._
+> mission of gathering intelligence and was conducting secret operations of
+> all kinds . . . [for example] the CIA - with the collusion of a secret
+> Committee of Forty headed by Henry Kissinger - had worked to 'destabilize'
+> the [democratically elected, left-wing] Chilean government . . ._
 
 > _"The investigation of the FBI disclosed many years of illegal actions to
-disrupt and destroy radical groups and left-wing groups of all kinds. The FBI
-had sent forged letters, engaged in burglaries . . . opened mail illegally,
-and in the case of Black Panther leader Fred Hampton, seems to have conspired
-in murder . . ._
+> disrupt and destroy radical groups and left-wing groups of all kinds. The
+> FBI had sent forged letters, engaged in burglaries . . . opened mail
+> illegally, and in the case of Black Panther leader Fred Hampton, seems to
+> have conspired in murder . . ._
 
 > _"The investigations themselves revealed the limits of government
-willingness to probe into such activities . . . [and they] submitted its
-findings on the CIA to the CIA to see if there was material the Agency wanted
-omitted."_ [**A People's History of the United States**, pp. 542-3]
+> willingness to probe into such activities . . . [and they] submitted its
+> findings on the CIA to the CIA to see if there was material the Agency
+> wanted omitted."_ [ **A People's History of the United States** , pp. 542-3]
 
 Also, the CIA secretly employs several hundred American academics to write
 books and other materials to be used for propaganda purposes, an important
@@ -407,32 +410,33 @@ argued that it was the best means of improving the performance of the British
 economy. As anarchists at the time noted _"the real opinions of capitalists
 can be seen from Stock Exchange conditions and statements of industrialists
 than the Tory Front bench"_ and from these it be seen _"that the owning class
-is not at all displeased with the record and tendency of the Labour Party."_
-[**Neither Nationalisation nor Privatisation**, Vernon Richards (ed.), p. 9]
+is not at all displeased with the record and tendency of the Labour Party."_ [
+**Neither Nationalisation nor Privatisation** , Vernon Richards (ed.), p. 9]
 
 History confirms Proudhon's argument that the state _"can only turn into
 something and do the work of the revolution insofar as it will be so invited,
 provoked or compelled by some power outside of itself that seizes the
 initiative and sets things rolling,"_ namely by _"a body representative of the
 proletariat be formed in Paris . . . in opposition to the bourgeoisie’s
-representation."_ [**Property is Theft!**, p. 325] So, if extensive reforms
+representation."_ [ **Property is Theft!** , p. 325] So, if extensive reforms
 have implemented by the state, just remember that they were in response to
 militant pressure from below and that we could have got so much more. In
 general, things have little changed since this anarchist argument against
 electioneering was put forward in the 1880s:
 
 > _"in the electoral process, the working class will always be cheated and
-deceived . . . if they did manage to send, one, or ten, or fifty of
-them[selves to Parliament], they would become spoiled and powerless.
-Furthermore, even if the majority of Parliament were composed of workers, they
-could do nothing. Not only is there the senate . . . the chiefs of the armed
-forces, the heads of the judiciary and of the police, who would be against the
-parliamentary bills advanced by such a chamber and would refuse to enforce
-laws favouring the workers (it has happened); but furthermore laws are not
-miraculous; no law can prevent the capitalists from exploiting the workers; no
-law can force them to keep their factories open and employ workers at such and
-such conditions, nor force shopkeepers to sell as a certain price, and so
-on."_ [S. Merlino, quoted by Galleani, **Op. Cit.**, p. 13]
+> deceived . . . if they did manage to send, one, or ten, or fifty of
+> them[selves to Parliament], they would become spoiled and powerless.
+> Furthermore, even if the majority of Parliament were composed of workers,
+> they could do nothing. Not only is there the senate . . . the chiefs of the
+> armed forces, the heads of the judiciary and of the police, who would be
+> against the parliamentary bills advanced by such a chamber and would refuse
+> to enforce laws favouring the workers (it has happened); but furthermore
+> laws are not miraculous; no law can prevent the capitalists from exploiting
+> the workers; no law can force them to keep their factories open and employ
+> workers at such and such conditions, nor force shopkeepers to sell as a
+> certain price, and so on."_ [S. Merlino, quoted by Galleani, **Op. Cit.** ,
+> p. 13]
 
 As any worker will tell you, just because there are laws on such things as
 health and safety, union organising, working hours or whatever, it does not
@@ -449,20 +453,20 @@ for politicians to act.
 Anarchists reject voting for other reasons. The fact is that electoral
 procedures are the opposite of direct action. They are **based** on getting
 someone else to act on your behalf. Therefore, far from empowering people and
-giving them a sense of confidence and ability, electioneering **dis**-empowers
-them by creating a "leader" figure from which changes are expected to flow. As
-Brian Martin observes:
+giving them a sense of confidence and ability, electioneering **dis**
+-empowers them by creating a "leader" figure from which changes are expected
+to flow. As Brian Martin observes:
 
 > _"all the historical evidence suggests that parties are more a drag than an
-impetus to radical change. One obvious problem is that parties can be voted
-out. All the policy changes they brought in can simply be reversed later._
+> impetus to radical change. One obvious problem is that parties can be voted
+> out. All the policy changes they brought in can simply be reversed later._
 
 > _"More important, though, is the pacifying influence of the radical party
-itself. On a number of occasions, radical parties have been elected to power
-as a result of popular upsurges. Time after time, the 'radical' parties have
-become chains to hold back the process of radical change."_ [_"Democracy
-without Elections"_, pp. 123-36, **Reinventing Anarchy, Again**, Howard J.
-Ehrlich (ed.), p. 124]
+> itself. On a number of occasions, radical parties have been elected to power
+> as a result of popular upsurges. Time after time, the 'radical' parties have
+> become chains to hold back the process of radical change."_ [ _"Democracy
+> without Elections"_ , pp. 123-36, **Reinventing Anarchy, Again** , Howard J.
+> Ehrlich (ed.), p. 124]
 
 This can easily be seen from the history of various left-wing parties. Labour
 or socialist parties, elected in periods of social turbulence, have often
@@ -533,20 +537,21 @@ At its most basic, voting implies agreement with the status quo. It is worth
 quoting the Scottish libertarian socialist James Kelman at length on this:
 
 > _"State propaganda insists that the reason why at least 40 percent of the
-voting public don't vote at all is because they have no feelings one way or
-the other. They say the same thing in the USA, where some 85 percent of the
-population are apparently 'apolitical' since they don't bother registering a
-vote. Rejection of the political system is inadmissible as far as the state is
-concerned . . . Of course the one thing that does happen when you vote is that
-someone else has endorsed an unfair political system . . . A vote for any
-party or any individual is always a vote for the political system. You can
-interpret your vote in whichever way you like but it remains an endorsement of
-the apparatus . . . If there was any possibility that the apparatus could
-effect a change in the system then they would dismantle it immediately. In
-other words the political system is an integral state institution, designed
-and refined to perpetuate its own existence. Ruling authority fixes the agenda
-by which the public are allowed 'to enter the political arena' and that's the
-fix they've settled on."_ [**Some Recent Attacks**, p. 87]
+> voting public don't vote at all is because they have no feelings one way or
+> the other. They say the same thing in the USA, where some 85 percent of the
+> population are apparently 'apolitical' since they don't bother registering a
+> vote. Rejection of the political system is inadmissible as far as the state
+> is concerned . . . Of course the one thing that does happen when you vote is
+> that someone else has endorsed an unfair political system . . . A vote for
+> any party or any individual is always a vote for the political system. You
+> can interpret your vote in whichever way you like but it remains an
+> endorsement of the apparatus . . . If there was any possibility that the
+> apparatus could effect a change in the system then they would dismantle it
+> immediately. In other words the political system is an integral state
+> institution, designed and refined to perpetuate its own existence. Ruling
+> authority fixes the agenda by which the public are allowed 'to enter the
+> political arena' and that's the fix they've settled on."_ [ **Some Recent
+> Attacks** , p. 87]
 
 We are taught from an early age that voting in elections is right and a duty.
 In US schools, for example, children elect class presidents and other
@@ -559,8 +564,8 @@ in reality, _"elections in practice have served well to maintain dominant
 power structures such as private property, the military, male domination, and
 economic inequality. None of these has been seriously threatened through
 voting. It is from the point of view of radical critics that elections are
-most limiting."_ [_"Democracy without Elections"_, pp. 123-36, **Reinventing
-Anarchy, Again**, Howard J. Ehrlich (ed.), p. 124]
+most limiting."_ [ _"Democracy without Elections"_ , pp. 123-36, **Reinventing
+Anarchy, Again** , Howard J. Ehrlich (ed.), p. 124]
 
 Elections serve the interests of state power in other ways. First, voting
 helps to legitimate government; hence suffrage has often been expanded at
@@ -589,12 +594,12 @@ important matters to the "experts" and "authorities." Kropotkin described well
 the net effect:
 
 > _"Vote! Greater men than you will tell you the moment when the self-
-annihilation of capital has been accomplished. They will then expropriate the
-few usurpers left . . . and you will be freed without having taken any more
-trouble than that of writing on a bit of paper the name of the man whom the
-heads of your faction of the party told you to vote for!"_ [quoted by Ruth
-Kinna, _"Kropotkin's theory of Mutual Aid in Historical Context"_, pp.
-259-283, **International Review of Social History**, No. 40, pp. 265-6]
+> annihilation of capital has been accomplished. They will then expropriate
+> the few usurpers left . . . and you will be freed without having taken any
+> more trouble than that of writing on a bit of paper the name of the man whom
+> the heads of your faction of the party told you to vote for!"_ [quoted by
+> Ruth Kinna, _"Kropotkin's theory of Mutual Aid in Historical Context"_ , pp.
+> 259-283, **International Review of Social History** , No. 40, pp. 265-6]
 
 Anarchists also criticise elections for giving citizens the false impression
 that the government serves, or can serve, the people. As Martin reminds us
@@ -606,7 +611,7 @@ seeing the system as one of ruler and ruled, people see at least the
 possibility of using state power to serve themselves. As electoral
 participation has increased, the degree of resistance to taxation, military
 service, and the immense variety of laws regulating behaviour, has been
-greatly attenuated"_ [**Op. Cit.**, p. 126]
+greatly attenuated"_ [ **Op. Cit.** , p. 126]
 
 Ironically, voting has legitimated the growth of state power to such an extent
 that the state is now beyond any real popular control by the form of
@@ -628,8 +633,8 @@ All this does not mean, obviously, that anarchists prefer dictatorship or an
 "enlightened" monarchy. Far from it, democratising state power can be an
 important step towards abolishing it. All anarchists agree with Bakunin when
 he argued that _"the most imperfect republic is a thousand times better that
-even the most enlightened monarchy."_ [quoted by Daniel Guerin, **Anarchism**,
-p. 20] It simply means that anarchists refuse to join in with the farce of
+even the most enlightened monarchy."_ [quoted by Daniel Guerin, **Anarchism**
+, p. 20] It simply means that anarchists refuse to join in with the farce of
 electioneering, particularly when there are more effective means available for
 changing things for the better. Anarchists reject the idea that our problems
 can be solved by the very institutions that cause them in the first place!
@@ -682,23 +687,23 @@ laws. However, this reasoning ignores the fact that the organisational
 structure of the state is not neutral. To quote Brian Martin:
 
 > _"The basic anarchist insight is that the structure of the state, as a
-centralised administrative apparatus, is inherently flawed from the point of
-view of human freedom and equality. Even though the state can be used
-occasionally for valuable ends, as a means the state is flawed and impossible
-to reform. The non-reformable aspects of the state include, centrally, its
-monopoly over 'legitimate' violence and its consequent power to coerce for the
-purpose of war, internal control, taxation and the protection of property and
-bureaucratic privilege._
+> centralised administrative apparatus, is inherently flawed from the point of
+> view of human freedom and equality. Even though the state can be used
+> occasionally for valuable ends, as a means the state is flawed and
+> impossible to reform. The non-reformable aspects of the state include,
+> centrally, its monopoly over 'legitimate' violence and its consequent power
+> to coerce for the purpose of war, internal control, taxation and the
+> protection of property and bureaucratic privilege._
 
 > _"The problem with voting is that the basic premises of the state are never
-considered open for debate, much less challenge. The state's monopoly over the
-use of violence for war is never at issue. Neither is the state's use of
-violence against revolt from within. The state's right to extract economic
-resources from the population is never questioned. Neither is the state's
-guarantee of either private property (under capitalism) or bureaucratic
-prerogative (under state socialism) -- or both."_ [_"Democracy without
-Elections",_ pp. 123-36, **Reinventing Anarchy, Again**, Howard J. Ehrlich
-(ed.), p. 127]
+> considered open for debate, much less challenge. The state's monopoly over
+> the use of violence for war is never at issue. Neither is the state's use of
+> violence against revolt from within. The state's right to extract economic
+> resources from the population is never questioned. Neither is the state's
+> guarantee of either private property (under capitalism) or bureaucratic
+> prerogative (under state socialism) -- or both."_ [ _"Democracy without
+> Elections",_ pp. 123-36, **Reinventing Anarchy, Again** , Howard J. Ehrlich
+> (ed.), p. 127]
 
 It may be argued that if a new political group is radical enough it will be
 able to use state power for good purposes. While we discuss this in more
@@ -743,22 +748,22 @@ implications?
 At its most basic, anarchists support abstentionism because _"participation in
 elections means the transfer of one's will and decisions to another, which is
 contrary to the fundamental principles of anarchism."_ [Emma Goldman, **Vision
-on Fire**, p. 89] For, as Proudhon stressed, in a statist democracy, the
+on Fire** , p. 89] For, as Proudhon stressed, in a statist democracy, the
 people _"is limited to choosing, every three or four years, its chiefs and its
-imposters."_ [quoted by George Woodcock, **Pierre-Joseph Proudhon**, p. 152]
+imposters."_ [quoted by George Woodcock, **Pierre-Joseph Proudhon** , p. 152]
 
 If you reject hierarchy then participating in a system by which you elect
 those who will govern you is almost like adding insult to injury! For, as
 Luigi Galleani pointed out, _"whoever has the political competence to choose
-his own rulers is, by implication, also competent to do without them."_ [**The
-End of Anarchism?**, p. 37] In other words, because anarchists reject the idea
-of authority, we reject the idea that picking the authority (be it bosses or
-politicians) makes us free. Therefore, anarchists reject governmental
-elections in the name of self-government and free association. We refuse to
-vote as voting is endorsing authoritarian social structures. We are (in
-effect) being asked to make obligations to the state, not our fellow citizens,
-and so anarchists reject the symbolic process by which our liberty is
-alienated from us.
+his own rulers is, by implication, also competent to do without them."_ [
+**The End of Anarchism?** , p. 37] In other words, because anarchists reject
+the idea of authority, we reject the idea that picking the authority (be it
+bosses or politicians) makes us free. Therefore, anarchists reject
+governmental elections in the name of self-government and free association. We
+refuse to vote as voting is endorsing authoritarian social structures. We are
+(in effect) being asked to make obligations to the state, not our fellow
+citizens, and so anarchists reject the symbolic process by which our liberty
+is alienated from us.
 
 Anarchists are aware that elections serve to legitimate government. We have
 always warned that since the state is an integral part of the system that
@@ -801,22 +806,23 @@ So, anarchist opposition to electioneering has deep political implications
 which Luigi Galleani addressed when he wrote:
 
 > _"The anarchists' electoral abstentionism implies not only a conception that
-is opposed to the principle of representation (which is totally rejected by
-anarchism), it implies above all an absolute lack of confidence in the State .
-. . Furthermore, anarchist abstentionism has consequences which are much less
-superficial than the inert apathy ascribed to it by the sneering careerists of
-'scientific socialism' [i.e. Marxism]. It strips the State of the
-constitutional fraud with which it presents itself to the gullible as the true
-representative of the whole nation, and, in so doing, exposes its essential
-character as representative, procurer and policeman of the ruling classes._
+> is opposed to the principle of representation (which is totally rejected by
+> anarchism), it implies above all an absolute lack of confidence in the State
+> . . . Furthermore, anarchist abstentionism has consequences which are much
+> less superficial than the inert apathy ascribed to it by the sneering
+> careerists of 'scientific socialism' [i.e. Marxism]. It strips the State of
+> the constitutional fraud with which it presents itself to the gullible as
+> the true representative of the whole nation, and, in so doing, exposes its
+> essential character as representative, procurer and policeman of the ruling
+> classes._
 
 > _"Distrust of reforms, of public power and of delegated authority, can lead
-to direct action [in the class struggle] . . . It can determine the
-revolutionary character of this . . . action; and, accordingly, anarchists
-regard it as the best available means for preparing the masses to manage their
-own personal and collective interests; and, besides, anarchists feel that even
-now the working people are fully capable of handling their own political and
-administrative interests."_ [**Op. Cit.**, pp. 13-14]
+> to direct action [in the class struggle] . . . It can determine the
+> revolutionary character of this . . . action; and, accordingly, anarchists
+> regard it as the best available means for preparing the masses to manage
+> their own personal and collective interests; and, besides, anarchists feel
+> that even now the working people are fully capable of handling their own
+> political and administrative interests."_ [ **Op. Cit.** , pp. 13-14]
 
 Therefore abstentionism stresses the importance of self-activity and self-
 liberation as well as having an important educational effect in highlighting
@@ -859,7 +865,7 @@ confident that, with him in the government, the state would be on their side.
 Much of this confidence was dispelled within a few years. The government did
 little more for workers than its predecessors had done; soldiers and police
 were still sent in to repress serious strikes."_ [Peter N. Stearns,
-**Revolutionary Syndicalism and French Labour**, p. 16] Aristide Briand,
+**Revolutionary Syndicalism and French Labour** , p. 16] Aristide Briand,
 another socialist politician was the Minister of the Interior in 1910 and
 _"broke a general strike of railwaymen by use of the most draconian methods.
 Having declared a military emergency he threatened all strikers with court
@@ -886,13 +892,13 @@ was absorbed by my legislative work, I entirely lost sight of the current
 events . . . One must have lived in that isolator which is called a National
 Assembly to realise how the men who are most completely ignorant of the state
 of the country are almost always those who represent it."_ There was
-_"ignorance of daily facts"_ and _"fear of the people"_ (_"the sickness of all
-those who belong to authority"_) for _"the people, for those in power, are the
-enemy."_ [**Property is Theft!**, p. 19] Ultimately, as syndicalist Emile
-Pouget argued, this fate was inevitable as any socialist politician _"could
-not break the mould; he is only a cog in the machine of oppression and whether
-he wishes it or not he must, as minister, participate in the job of crushing
-the proletariat."_ [quoted by Jennings, **Op. Cit.**, p. 36]
+_"ignorance of daily facts"_ and _"fear of the people"_ ( _"the sickness of
+all those who belong to authority"_ ) for _"the people, for those in power,
+are the enemy."_ [ **Property is Theft!** , p. 19] Ultimately, as syndicalist
+Emile Pouget argued, this fate was inevitable as any socialist politician
+_"could not break the mould; he is only a cog in the machine of oppression and
+whether he wishes it or not he must, as minister, participate in the job of
+crushing the proletariat."_ [quoted by Jennings, **Op. Cit.** , p. 36]
 
 These days, few enter Parliament as radicals like Proudhon. The notion of
 using elections for radical change is rare. Such a development in itself shows
@@ -903,74 +909,75 @@ the party must appear "moderate" and "practical" and that means working within
 the system:
 
 > _"Participation in the politics of the bourgeois States has not brought the
-labour movement a hair's-breadth nearer to Socialism, but thanks to this
-method, Socialism has almost been completely crushed and condemned to
-insignificance . . . Participation in parliamentary politics has affected the
-Socialist Labour movement like an insidious poison. It destroyed the belief in
-the necessity of constructive Socialist activity, and, worse of all, the
-impulse to self-help, by inoculating people with the ruinous delusion that
-salvation always comes from above."_ [Rudolf Rocker, **Anarcho-Syndicalism**,
-p. 54]
+> labour movement a hair's-breadth nearer to Socialism, but thanks to this
+> method, Socialism has almost been completely crushed and condemned to
+> insignificance . . . Participation in parliamentary politics has affected
+> the Socialist Labour movement like an insidious poison. It destroyed the
+> belief in the necessity of constructive Socialist activity, and, worse of
+> all, the impulse to self-help, by inoculating people with the ruinous
+> delusion that salvation always comes from above."_ [Rudolf Rocker,
+> **Anarcho-Syndicalism** , p. 54]
 
 This corruption does not happen overnight. Alexander Berkman indicated how it
 slowly developed:
 
 > _"In former days the Socialists . . . claimed that they meant to use
-politics only for the purpose of propaganda . . . and took part in elections
-on order to have an opportunity to advocate Socialism_
+> politics only for the purpose of propaganda . . . and took part in elections
+> on order to have an opportunity to advocate Socialism_
 
 > _"It may seem a harmless thing but it proved the undoing of Socialism.
-Because nothing is truer than the means you use to attain your object soon
-themselves become your object . . . Little by little they changed their
-attitude. Instead of electioneering being merely an educational method, it
-gradually became their only method to secure political office, to get elected
-to legislative bodies and other government positions. The change naturally led
-the Socialists to tone down their revolutionary ardour; it compelled them to
-soften their criticism of capitalism and government in order to avoid
-persecution and secure more votes . . . they have ceased to be revolutionists;
-they have become reformers who want to change things by law . . . And
-everywhere, without exception, they have followed the same course, everywhere
-they have forsworn their ideals, have duped the masses . . . There is a deeper
-reason for this constant and regular betrayal [than individual scoundrels
-being elected] . . . no man turns scoundrel or traitor overnight._
+> Because nothing is truer than the means you use to attain your object soon
+> themselves become your object . . . Little by little they changed their
+> attitude. Instead of electioneering being merely an educational method, it
+> gradually became their only method to secure political office, to get
+> elected to legislative bodies and other government positions. The change
+> naturally led the Socialists to tone down their revolutionary ardour; it
+> compelled them to soften their criticism of capitalism and government in
+> order to avoid persecution and secure more votes . . . they have ceased to
+> be revolutionists; they have become reformers who want to change things by
+> law . . . And everywhere, without exception, they have followed the same
+> course, everywhere they have forsworn their ideals, have duped the masses .
+> . . There is a deeper reason for this constant and regular betrayal [than
+> individual scoundrels being elected] . . . no man turns scoundrel or traitor
+> overnight._
 
 > _"It is **power** which corrupts . . . The filth and contamination of
-politics everywhere proves that. Moreover, even with the best intentions
-Socialists in legislative bodies or in governments find themselves entirely
-powerless to accomplishing anything of a socialistic nature . . . The
-demoralisation and vitiation take place little by little, so gradually that
-one hardly notices it himself . . . [The elected Socialist] finds himself in a
-strange and unfriendly atmosphere . . . and he must participate in the
-business that is being transacted. Most of that business . . . has no bearing
-whatever on the things the Socialist believes in, no connection with the
-interests of the working class voters who elected him . . . when a bill of
-some bearing upon labour . . . comes up . . . he is ignored or laughed at for
-his impractical ideas on the matter . . . _
+> politics everywhere proves that. Moreover, even with the best intentions
+> Socialists in legislative bodies or in governments find themselves entirely
+> powerless to accomplishing anything of a socialistic nature . . . The
+> demoralisation and vitiation take place little by little, so gradually that
+> one hardly notices it himself . . . [The elected Socialist] finds himself in
+> a strange and unfriendly atmosphere . . . and he must participate in the
+> business that is being transacted. Most of that business . . . has no
+> bearing whatever on the things the Socialist believes in, no connection with
+> the interests of the working class voters who elected him . . . when a bill
+> of some bearing upon labour . . . comes up . . . he is ignored or laughed at
+> for his impractical ideas on the matter . . . _
 
 > _"Our Socialist perceives that he is regarded as a laughing stock [by the
-other politicians] . . . and finds more and more difficulty in securing the
-floor. . . he knows that neither by his talk nor by his vote can he influence
-the proceedings . . . His speeches don't even reach the public . . . He
-appeals to the voters to elect more comrades. . . Years pass . . . [and a]
-number . . . are elected. Each of them goes through the same experience . . .
-[and] quickly come to the conclusion . . . [that they] must show that they are
-practical men . . . that they are doing something for their constituency . . .
-In this manner the situation compels them to take a 'practical' part in the
-proceedings, to 'talk business,' to fall in line with the matters actually
-dealt with in the legislative body . . . Spending years in that atmosphere,
-enjoying good jobs and pay, the elected Socialists have themselves become part
-and parcel of the political machinery . . . With growing success in elections
-and securing political power they turn more and more conservative and content
-with existing conditions. Removal from the life and suffering of the working
-class, living in the atmosphere of the bourgeoisie . . . they have become what
-they call 'practical' . . . Power and position have gradually stifled their
-conscience and they have not the strength and honesty to swim against the
-current . . . They have become the strongest bulwark of capitalism."_ [**What
-is Anarchism?**, pp. 92-8]
+> other politicians] . . . and finds more and more difficulty in securing the
+> floor. . . he knows that neither by his talk nor by his vote can he
+> influence the proceedings . . . His speeches don't even reach the public . .
+> . He appeals to the voters to elect more comrades. . . Years pass . . . [and
+> a] number . . . are elected. Each of them goes through the same experience .
+> . . [and] quickly come to the conclusion . . . [that they] must show that
+> they are practical men . . . that they are doing something for their
+> constituency . . . In this manner the situation compels them to take a
+> 'practical' part in the proceedings, to 'talk business,' to fall in line
+> with the matters actually dealt with in the legislative body . . . Spending
+> years in that atmosphere, enjoying good jobs and pay, the elected Socialists
+> have themselves become part and parcel of the political machinery . . . With
+> growing success in elections and securing political power they turn more and
+> more conservative and content with existing conditions. Removal from the
+> life and suffering of the working class, living in the atmosphere of the
+> bourgeoisie . . . they have become what they call 'practical' . . . Power
+> and position have gradually stifled their conscience and they have not the
+> strength and honesty to swim against the current . . . They have become the
+> strongest bulwark of capitalism."_ [ **What is Anarchism?** , pp. 92-8]
 
 So the _"political power which they had wanted to conquer had gradually
 conquered their Socialism until there was scarcely anything left of it."_
-[Rocker, **Op. Cit.**, p. 55]
+[Rocker, **Op. Cit.** , p. 55]
 
 Not that these arguments are the result of hindsight, we must add. Bakunin was
 arguing in the early 1870s that the _"inevitable result [of using elections]
@@ -980,8 +987,8 @@ middle class in their outlook, perhaps even more so than the bourgeois
 themselves."_ As long as universal suffrage _"is exercised in a society where
 the people, the mass of workers, are **economically** dominated by a minority
 holding exclusive possession the property and capital of the country"_
-elections _"can only be illusory, anti-democratic in their results."_ [**The
-Political Philosophy of Bakunin**, p. 216 and p. 213] This meant that _"the
+elections _"can only be illusory, anti-democratic in their results."_ [ **The
+Political Philosophy of Bakunin** , p. 216 and p. 213] This meant that _"the
 election to the German parliament of one or two workers . . . from the Social
 Democratic Party"_ was _"not dangerous"_ and, in fact, was _"highly useful to
 the German state as a lightning-rod, or a safety-valve."_ Unlike the
@@ -991,7 +998,7 @@ bourgeois politics, leaving no alternative but social revolution,"_ Marxism,
 he argued, _"inexorably enmeshes and entangles its adherents, under the
 pretext of political tactics, in endless accommodation with governments and
 the various bourgeois political parties - that is, it thrusts them directly
-into reaction."_ [Bakunin, **Statism and Anarchy**, p. 193 and pp. 179-80] In
+into reaction."_ [Bakunin, **Statism and Anarchy** , p. 193 and pp. 179-80] In
 the case of the German Social Democrats, this became obvious in 1914, when
 they supported their state in the First World war, and after 1918, when they
 crushed the German Revolution.
@@ -1014,17 +1021,17 @@ the German Green Party of trying to combine radical electioneering with direct
 action:
 
 > _"the German Greens, once a flagship for the Green movement worldwide,
-should now be considered stink normal, as their **de facto** boss himself
-declares. Now a repository of careerists, the Greens stand out only for the
-rapidity with which the old cadre of careerism, party politics, and business-
-as-usual once again played itself out in their saga of compromise and betrayal
-of principle. Under the superficial veil of their old values -- a very thin
-veil indeed, now -- they can seek positions and make compromises to their
-heart's content . . . They have become 'practical,' 'realistic' and 'power-
-orientated.' This former New Left ages badly, not only in Germany but
-everywhere else. But then, it happened with the S.P.D. [The German Social
-Democratic Party] in August 1914, then why not with Die Grunen in 1991? So it
-did."_ [_"Party or Movement?"_, **Greenline**, no. 89, p. 14]
+> should now be considered stink normal, as their **de facto** boss himself
+> declares. Now a repository of careerists, the Greens stand out only for the
+> rapidity with which the old cadre of careerism, party politics, and
+> business-as-usual once again played itself out in their saga of compromise
+> and betrayal of principle. Under the superficial veil of their old values --
+> a very thin veil indeed, now -- they can seek positions and make compromises
+> to their heart's content . . . They have become 'practical,' 'realistic' and
+> 'power-orientated.' This former New Left ages badly, not only in Germany but
+> everywhere else. But then, it happened with the S.P.D. [The German Social
+> Democratic Party] in August 1914, then why not with Die Grunen in 1991? So
+> it did."_ [ _"Party or Movement?"_ , **Greenline** , no. 89, p. 14]
 
 This, sadly, is the end result of all such attempts. Ultimately, supporters of
 using political action can only appeal to the good intentions and character of
@@ -1040,13 +1047,13 @@ However, many radicals refuse to learn this lesson of history and keep trying
 to create a new party which will not repeat the saga of compromise and
 betrayal which all other radical parties have suffered. And they say that
 anarchists are utopian! _"You cannot dive into a swamp and remain clean."_
-[Berkman, **Op. Cit.**, p. 99] Such is the result of rejecting (or
+[Berkman, **Op. Cit.** , p. 99] Such is the result of rejecting (or
 "supplementing" with electioneering) direct action as the means to change
 things, for any social movement _"to ever surrender their commitment to direct
 action for 'working within the system' is to destroy their personality as
 socially innovative movements. It is to dissolve back into the hopeless morass
 of 'mass organisations' that seek respectability rather than change."_ [Murray
-Bookchin, **Toward an Ecological Society**, p. 47]
+Bookchin, **Toward an Ecological Society** , p. 47]
 
 Moreover, the use of electioneering has a centralising effect on the movements
 that use it. Political actions become considered as parliamentary activities
@@ -1071,17 +1078,17 @@ leadership and rarely discussed in order to concentrate on the popular issues
 that will get them elected. Ultimately, radicals _"instead of weakening the
 false and enslaving belief in law and government . . . actually work to
 **strengthen** the people's faith in forcible authority and government."_
-[Berkman, **Op. Cit.**, p. 100] Which has always proved deadly to encouraging
+[Berkman, **Op. Cit.** , p. 100] Which has always proved deadly to encouraging
 a spirit of revolt, self-management and self-help -- the very keys to creating
 change in a society. Thus this 1870 resolution of the Spanish section of the
 First International seems to have been proven to be correct:
 
 > _"Any participation of the working class in the middle class political
-government would merely consolidate the present state of affairs and
-necessarily paralyse the socialist revolutionary action of the proletariat.
-The Federation [of unions] is the true representative of labour, and should
-work outside the political system."_ [quoted by Jose Pierats, **Anarchists in
-the Spanish Revolution**, p. 169]
+> government would merely consolidate the present state of affairs and
+> necessarily paralyse the socialist revolutionary action of the proletariat.
+> The Federation [of unions] is the true representative of labour, and should
+> work outside the political system."_ [quoted by Jose Pierats, **Anarchists
+> in the Spanish Revolution** , p. 169]
 
 Instead of trying to gain control of the state, for whatever reasons,
 anarchists try to promote a culture of resistance within society that makes
@@ -1102,8 +1109,8 @@ that their bankruptcy is inevitable."_ If we _"want the **masses** to follow
 us"_, we need to _"support"_ such parties _"in the same way as the rope
 supports a hanged man."_ In this way, by experiencing the reformists in
 office, _"the majority will soon become disappointed in their leaders and will
-begin to support communism."_ [**The Lenin Anthology**, p. 603, p. 605 and p.
-602]
+begin to support communism."_ [ **The Lenin Anthology** , p. 603, p. 605 and
+p. 602]
 
 This tactic is suggested for two reasons. The first is that revolutionaries
 will be able to reach more people by being seen to support popular, trade
@@ -1136,7 +1143,7 @@ will look for **new,** "better" leaders and parties. However, this fails to go
 to the root of the problem, namely the dependence on leaders which
 hierarchical society creates within people. Anarchists do not want people to
 follow the "best" leadership, they want them to govern themselves, to be
-**self**-active, manage their own affairs and not follow **any** would-be
+**self** -active, manage their own affairs and not follow **any** would-be
 leaders. If you seriously think that the liberation of the oppressed is the
 task of the oppressed themselves (as Leninists claim to do) then you **must**
 reject this tactic in favour of ones that promote working class self-activity.
@@ -1149,7 +1156,7 @@ the voting population by this method, nor even in reformist party militants in
 spite of the many Labour Party governments in Britain which all attacked the
 working class. Moreover, the disillusionment associated with the experience of
 reformist parties often expresses itself as a demoralisation with socialism
-**as such**, rather than with the reformist's watered down version of it. If
+**as such** , rather than with the reformist's watered down version of it. If
 Lenin's position could be persuasive to some in 1920 when it was untried, the
 experience of subsequent decades should show its weakness.
 
@@ -1214,7 +1221,7 @@ That is why anarchist abstentionism always stresses the need for direct action
 and organising economically and socially to change things, to resist
 oppression and exploitation. In such circumstances, the effect of an electoral
 strike would be fundamentally different than an apathy induced lack of voting.
-_"If the anarchists", _Vernon Richards argued, _"could persuade half the
+_"If the anarchists",_ Vernon Richards argued, _"could persuade half the
 electorate to abstain from voting this would, from an electoral point of view,
 contribute to the victory of the Right. But it would be a hollow victory, for
 what government could rule when half the electorate by not voting had
@@ -1225,15 +1232,15 @@ politicians _"would be subjected to real pressures from people who believed in
 their own power"_ and acted accordingly. So anarchists call on people **not**
 to vote, but instead organise themselves and be conscious of their own power.
 Only this _"can command the respect of governments, can curb the power of
-government as millions of crosses on bits of paper never will."_ [**The
-Impossibilities of Social Democracy**, p. 142]
+government as millions of crosses on bits of paper never will."_ [ **The
+Impossibilities of Social Democracy** , p. 142]
 
 For, as Emma Goldman pointed out, _"if the Anarchists were strong enough to
 swing the elections to the Left, they must also have been strong enough to
 rally the workers to a general strike, or even a series of strikes . . . In
 the last analysis, the capitalist class knows too well that officials, whether
 they belong to the Right or the Left, can be bought. Or they are of no
-consequence to their pledge."_ [**Vision on Fire**, p. 90] The mass of the
+consequence to their pledge."_ [ **Vision on Fire** , p. 90] The mass of the
 population, however, cannot be bought off and if they are willing and able to
 resist then they can become a power second to none. Only by organising,
 fighting back and practicing solidarity where we live and work can we
@@ -1247,19 +1254,20 @@ will always think twice before proposing cuts or introducing authoritarian
 laws. Howard Zinn expressed it well:
 
 > _"I think a way to behave is to think not in terms of representative
-government, not in terms of voting, not in terms of electoral politics, but
-thinking in terms of organising social movements, organising in the workplace,
-organising in the neighbourhood, organising collectives that can become strong
-enough to eventually take over -- first to become strong enough to resist what
-has been done to them by authority, and second, later, to become strong enough
-to actually take over the institutions . . . the crucial question is not who
-is in office, but what kind of social movement do you have. Because we have
-seen historically that if you have a powerful social movement, it doesn’t
-matter who is in office. Whoever is in office, they could be Republican or
-Democrat, if you have a powerful social movement, the person in office will
-have to yield, will have to in some ways respect the power of social movements
-. . . voting is not crucial, and organising is the important thing."_ [**An
-Interview with Howard Zinn on Anarchism: Rebels Against Tyranny**]
+> government, not in terms of voting, not in terms of electoral politics, but
+> thinking in terms of organising social movements, organising in the
+> workplace, organising in the neighbourhood, organising collectives that can
+> become strong enough to eventually take over -- first to become strong
+> enough to resist what has been done to them by authority, and second, later,
+> to become strong enough to actually take over the institutions . . . the
+> crucial question is not who is in office, but what kind of social movement
+> do you have. Because we have seen historically that if you have a powerful
+> social movement, it doesn’t matter who is in office. Whoever is in office,
+> they could be Republican or Democrat, if you have a powerful social
+> movement, the person in office will have to yield, will have to in some ways
+> respect the power of social movements . . . voting is not crucial, and
+> organising is the important thing."_ [ **An Interview with Howard Zinn on
+> Anarchism: Rebels Against Tyranny** ]
 
 Of course, all the parties claim that they are better than the others and this
 is the logic of this question -- namely, we must vote for the lesser evil as
@@ -1300,17 +1308,17 @@ no matter who gets in, the population will resist the government because it
 knows and can use its real power: **direct action**. For the _"only limit to
 the oppression of government is the power with which the people show
 themselves capable of opposing it."_ [Malatesta, **Errico Malatesta: His Life
-and Ideas**, p. 196] Hence Vernon Richards:
+and Ideas** , p. 196] Hence Vernon Richards:
 
 > _"If the anarchist movement has a role to play in practical politics it is
-surely that of suggesting to, and persuading, as many people as possible that
-their freedom from the Hitlers, Francos and the rest, depends not on the right
-to vote or securing a majority of votes 'for the candidate of ones choice,'
-but on evolving new forms of political and social organisation which aim at
-the direct participation of the people, with the consequent weakening of the
-power, as well of the social role, of government in the life of the
-community."_ [_"Anarchists and Voting"_, pp. 176-87, **The Raven**, no. 14,
-pp. 177-8]
+> surely that of suggesting to, and persuading, as many people as possible
+> that their freedom from the Hitlers, Francos and the rest, depends not on
+> the right to vote or securing a majority of votes 'for the candidate of ones
+> choice,' but on evolving new forms of political and social organisation
+> which aim at the direct participation of the people, with the consequent
+> weakening of the power, as well of the social role, of government in the
+> life of the community."_ [ _"Anarchists and Voting"_ , pp. 176-87, **The
+> Raven** , no. 14, pp. 177-8]
 
 We discuss what this could involve in the [next section](secJ2.md#secj29).
 
@@ -1364,13 +1372,13 @@ envelop capital and the state and subjugate them."_ For, _"to combat and
 reduce power, to put it in its proper place in society, it is of no use to
 change the holders of power or introduce some variation into its workings: an
 agricultural and industrial combination must be found by means of which power,
-today the ruler of society, shall become its slave."_ [**System of Economical
-Contradictions**, p. 398 and p. 397]
+today the ruler of society, shall become its slave."_ [ **System of Economical
+Contradictions** , p. 398 and p. 397]
 
 We do this by organising what Bakunin called _"antipolitical social power of
-the working classes."_ [**Bakunin on Anarchism**, p. 263] This activity which
-bases itself on the two broad strategies of encouraging direct action and
-building alternatives where we live and work.
+the working classes."_ [ **Bakunin on Anarchism** , p. 263] This activity
+which bases itself on the two broad strategies of encouraging direct action
+and building alternatives where we live and work.
 
 Taking the first strategy, anarchists say that by using direct action we can
 force politicians to respect the wishes of the people. For example, if a
@@ -1404,7 +1412,7 @@ community and the State -- the community as an organic and inclusive body and
 the State as the representatives of a tyrannical minority . . . The General
 Strike of the future must be organised as a strike of the community against
 the State. The result of that strike will not be in doubt."_ [Herbert Read,
-**Anarchy and Order**, p. 52]
+**Anarchy and Order** , p. 52]
 
 Such a counter-power would focus the attention of those in power far more than
 a ballot in a few years time (particularly as the state bureaucracy is not
@@ -1420,7 +1428,7 @@ privilege and the orderly world in which it thrives. The ordinary citizen need
 not grant them this gift. Enhancing the Crisis of Democracy by organisation
 and political engagement is itself a threat to power, a reason to undertake it
 quite apart from its crucial importance in itself as an essential step towards
-social change."_ [**Turning the Tide**, pp. 251-2]
+social change."_ [ **Turning the Tide** , pp. 251-2]
 
 In this way, by encouraging social protest, any government would think twice
 before pursuing authoritarian, destructive and unpopular policies. In the
@@ -1430,7 +1438,7 @@ of a Spanish anarchosyndicalist, anarchists _"do not ask for any concessions
 from the government. Our mission and our duty is to impose from the streets
 that which ministers and deputies are incapable of realising in parliament."_
 [quoted by Graham Kelsey, **Anarchosyndicalism, Libertarian Communism and the
-State**, p. 79] This was seen after the Popular Front was elected February
+State** , p. 79] This was seen after the Popular Front was elected February
 1936 and the Spanish landless workers, sick and tired of waiting for the
 politicians to act, started to occupy the land. The government _"resorted to
 the time-tested procedure of expelling the peasants with the Civil Guard."_
@@ -1439,13 +1447,13 @@ politicians to _"legalise the occupied farms. This proved once again that the
 only effective reforms are those imposed by force from below. Indeed, direct
 action was infinitely more successful than all the parliamentary debates that
 took place between 1931 and 1933 about whether to institute the approved
-Agrarian Reform law."_ [Abel Paz, **Durruti in the Spanish Revolution**, p.
+Agrarian Reform law."_ [Abel Paz, **Durruti in the Spanish Revolution** , p.
 391]
 
 The second strategy of building alternatives flows naturally from the first.
 Any form of campaign requires organisation and by organising in an anarchist
 manner we build organisations that _"bear in them the living seeds of the new
-society which is to replace the old world."_ [Bakunin, **Op. Cit.**, p. 255]
+society which is to replace the old world."_ [Bakunin, **Op. Cit.** , p. 255]
 In organising strikes in the workplace and community we can create a network
 of activists and union members who can encourage a spirit of revolt against
 authority. By creating assemblies where we live and work we can create an
@@ -1460,8 +1468,8 @@ provide for their own needs without having to rely on capitalists or
 governments. In the words of a C.N.T. militant:
 
 > _"We must create that part of libertarian communism which can be created
-within bourgeois society and do so precisely to combat that society with our
-own special weapons."_ [quoted by Kelsey, **Op. Cit.**, p. 79]
+> within bourgeois society and do so precisely to combat that society with our
+> own special weapons."_ [quoted by Kelsey, **Op. Cit.** , p. 79]
 
 So, far from doing nothing, by not voting the anarchist actively encourages
 alternatives. As the British anarchist John Turner argued, we _"have a line to
@@ -1471,7 +1479,7 @@ for themselves . . . as soon as people learn to rely upon themselves they will
 act for themselves . . . We teach the people to place their faith in
 themselves, we go on the lines of self-help. We teach them to form their own
 committees of management, to repudiate their masters, to despise the laws of
-the country."_ [quoted by John Quail, **The Slow Burning Fuse**, p. 87] In
+the country."_ [quoted by John Quail, **The Slow Burning Fuse** , p. 87] In
 this way we encourage self-activity, self-organisation and self-help -- the
 opposite of apathy and doing nothing.
 
@@ -1480,14 +1488,14 @@ build by our own self-activity can last as long as we want it to and act to
 protect it:
 
 > _"The future belongs to those who continue daringly, consistently, to fight
-power and governmental authority. The future belongs to us and to our social
-philosophy. For it is the only social ideal that teaches independent thinking
-and direct participation of the workers in their economic struggle. For it is
-only through the organised economic strength of the masses that they can and
-will do away with the capitalist system and all the wrongs and injustices it
-contains. Any diversion from this stand will only retard our movement and make
-it a stepping stone for political climbers."_ [Emma Goldman, **Vision on
-Fire**, p. 92]
+> power and governmental authority. The future belongs to us and to our social
+> philosophy. For it is the only social ideal that teaches independent
+> thinking and direct participation of the workers in their economic struggle.
+> For it is only through the organised economic strength of the masses that
+> they can and will do away with the capitalist system and all the wrongs and
+> injustices it contains. Any diversion from this stand will only retard our
+> movement and make it a stepping stone for political climbers."_ [Emma
+> Goldman, **Vision on Fire** , p. 92]
 
 In short, what happens in our communities, workplaces and environment is too
 important to be left to politicians -- or the ruling elite who control
@@ -1496,8 +1504,8 @@ their freedom . . . depends not on the right to vote or securing a majority of
 votes . . . but on evolving new forms of political and social organisation
 which aim at the direct participation of the people, with the consequent
 weakening of the power, as well as of the social role, of government in the
-life of the community."_ [_"Anarchists and Voting"_, pp. 176-87, **The
-Raven**, No. 14, pp. 177-8] We discuss what new forms of economic and social
+life of the community."_ [ _"Anarchists and Voting"_ , pp. 176-87, **The
+Raven** , No. 14, pp. 177-8] We discuss what new forms of economic and social
 organisations that this could involve in [section J.5](secJ5.md).
 
 ## J.2.10 Does rejecting electioneering mean that anarchists are apolitical?
@@ -1518,27 +1526,27 @@ the Marxists that political indifference only led to capitalist control of the
 labour movement:
 
 > _"[some of] the workers in Germany . . . [were organised in] a kind of
-federation of small associations . . . 'Self-help' . . . was its slogan, in
-the sense that labouring people were persistently advised not to anticipate
-either deliverance or help from the state and the government, but only from
-their own efforts. This advice would have been excellent had it not been
-accompanied by the false assurance that liberation for the labouring people is
-possible under **current conditions of social organisation** . . . Under this
-delusion . . . the workers subject to [this] influence were supposed to
-disengage themselves systematically from all political and social concerns and
-questions about the state, property, and so forth . . . [This] completely
-subordinated the proletariat to the bourgeoisie which exploits it and for
-which it was to remain an obedient and mindless tool."_ [**Statism and
-Anarchy**, p. 174]
+> federation of small associations . . . 'Self-help' . . . was its slogan, in
+> the sense that labouring people were persistently advised not to anticipate
+> either deliverance or help from the state and the government, but only from
+> their own efforts. This advice would have been excellent had it not been
+> accompanied by the false assurance that liberation for the labouring people
+> is possible under **current conditions of social organisation** . . . Under
+> this delusion . . . the workers subject to [this] influence were supposed to
+> disengage themselves systematically from all political and social concerns
+> and questions about the state, property, and so forth . . . [This]
+> completely subordinated the proletariat to the bourgeoisie which exploits it
+> and for which it was to remain an obedient and mindless tool."_ [ **Statism
+> and Anarchy** , p. 174]
 
 In addition, Bakunin argued that the labour movement (and so the anarchist
 movement) would have to take into account political ideas and struggles but to
 do so in a working class way:
 
 > _"The International does not reject politics of a general kind; it will be
-compelled to intervene in politics so long as it is forced to struggle against
-the bourgeoisie. It rejects only bourgeois politics."_ [**The Political
-Philosophy of Bakunin**, p. 313]
+> compelled to intervene in politics so long as it is forced to struggle
+> against the bourgeoisie. It rejects only bourgeois politics."_ [ **The
+> Political Philosophy of Bakunin** , p. 313]
 
 To state the obvious, anarchists only reject working class _"political
 action"_ if you equate (as did the early Marxists) "political action" with
@@ -1552,7 +1560,7 @@ Parliamentary action caused by the influence of direct action tactics . . . is
 not political action. It is simply a registration of direct action."_ They
 also noted that syndicalists _"have proven time and again that they can solve
 the many so-called political questions by direct action."_ [Earl C. Ford and
-William Z. Foster, **Syndicalism**, p. 19f and p. 23]
+William Z. Foster, **Syndicalism** , p. 19f and p. 23]
 
 So, anarchists reject capitalist politics (i.e. electioneering), but we do not
 ignore politics, wider political discussion or political struggles. Anarchists
@@ -1568,7 +1576,7 @@ for the proletariat. Doubtless the defence and organisation of its economic
 interests . . . must be the principle task of the proletariat. But is
 impossible for the workers to stop there without renouncing their humanity and
 depriving themselves of the intellectual and moral power which is so necessary
-for the conquest of their economic rights."_ [**Bakunin on Anarchism**, p.
+for the conquest of their economic rights."_ [ **Bakunin on Anarchism** , p.
 301]
 
 Nor do anarchists ignore elections. As Vernon Richards suggested, anarchists
@@ -1579,8 +1587,8 @@ commitment and interest. If there is, say, a 60 per cent. poll we will not
 assume that the 40 per cent. abstentions are anarchists, but we would surely
 be justified in drawing the conclusion that among the 40 per cent. there are a
 sizeable minority who have lost faith in political parties and were looking
-for other instruments, other values."_ [**The Impossibilities of Social
-Democracy**, p. 141] Nor, needless to say, are anarchists indifferent to
+for other instruments, other values."_ [ **The Impossibilities of Social
+Democracy** , p. 141] Nor, needless to say, are anarchists indifferent to
 struggles for political reforms and the need to stop the state pursuing
 authoritarian policies, imperialist adventures and such like.
 
@@ -1591,8 +1599,8 @@ longer operate, because only then will we organise locally, regionally,
 nationally and internationally to satisfy real needs and common aspirations."_
 For _"so long as we have capitalism and government, the job of anarchists is
 to fight both, and at the same time encourage people to take what steps they
-can to run their own lives."_ [_"Anarchists and Voting"_, pp. 176-87, **The
-Raven**, No. 14, p. 179]
+can to run their own lives."_ [ _"Anarchists and Voting"_ , pp. 176-87, **The
+Raven** , No. 14, p. 179]
 
 Part of this process will be the discussion of political, social and economic
 issues in whatever self-managed organisations people create in their
@@ -1603,12 +1611,12 @@ Rudolf Rocker pointed out, anarchists desire a unification of political and
 economic struggles as the two as inseparable:
 
 > _"Within the socialist movement itself the Anarchists represent the
-viewpoint that the war against capitalism must be at the same time a war
-against all institutions of political power, for in history economic
-exploitation has always gone hand in hand with political and social
-oppression. The exploitation of man by man and the domination of man over man
-are inseparable, and each is the condition of the other."_ [**Anarcho-
-Syndicalism**, p. 11]
+> viewpoint that the war against capitalism must be at the same time a war
+> against all institutions of political power, for in history economic
+> exploitation has always gone hand in hand with political and social
+> oppression. The exploitation of man by man and the domination of man over
+> man are inseparable, and each is the condition of the other."_ [ **Anarcho-
+> Syndicalism** , p. 11]
 
 Such a unification must take place on the social and economic field, not the
 political, as that is where the working class is strongest. So anarchists are
@@ -1632,15 +1640,15 @@ he needs political rights and liberties, and he must fight for these himself
 with all his strength whenever the attempt is made to wrest them from him."_
 So the _"focal point of the political struggle lies, then, not in the
 political parties, but in the economic [and social] fighting organisations of
-the workers."_ [Rocker, **Op. Cit.**, p. 77, p. 74 and p. 77] Hence the
-comments in the CNT's newspaper **Solidaridad Obrera**:
+the workers."_ [Rocker, **Op. Cit.** , p. 77, p. 74 and p. 77] Hence the
+comments in the CNT's newspaper **Solidaridad Obrera** :
 
 > _"Does anyone not know that we want to participate in public life? Does
-anyone not know that we have always done so? Yes, we want to participate. With
-our organisations. With our papers. Without intermediaries, delegates or
-representatives. No. We will not go to the Town Hall, to the Provincial
-Capitol, to Parliament."_ [quoted by Jose Pierats, **Anarchists in the Spanish
-Revolution**, p. 173]
+> anyone not know that we have always done so? Yes, we want to participate.
+> With our organisations. With our papers. Without intermediaries, delegates
+> or representatives. No. We will not go to the Town Hall, to the Provincial
+> Capitol, to Parliament."_ [quoted by Jose Pierats, **Anarchists in the
+> Spanish Revolution** , p. 173]
 
 Indeed, Rudolf Rocker makes the point very clear. _"It has often been charged
 against Anarcho-Syndicalism,"_ he wrote, _"that it has no interest in the
@@ -1655,7 +1663,7 @@ efforts are also directed, even today, at restricting the activities of the
 state . . . The attitude of Anarcho-Syndicalism towards the political power of
 the present-day state is exactly the same as it takes towards the system of
 capitalist exploitation"_ and _"pursue the same tactics in their fight against
-. . . the state."_ [**Op. Cit.**, pp. 73-4]
+. . . the state."_ [ **Op. Cit.** , pp. 73-4]
 
 As historian Bob Holton suggests, the notion that syndicalism is apolitical
 _"is certainly a deeply embedded article of faith among those marxists who
@@ -1671,8 +1679,8 @@ certainly disproves the notion that syndicalists ignored the role of the state
 in society. On the contrary, their analysis of bureaucratic state capitalism
 helped to make considerable inroads into prevailing Labourist and state
 socialist assumptions that the existing state could be captured by electoral
-means and used as an agent of through-going social reform."_ [**British
-Syndicalism, 1900-1914**, pp. 21-2 and p. 204]
+means and used as an agent of through-going social reform."_ [ **British
+Syndicalism, 1900-1914** , pp. 21-2 and p. 204]
 
 Thus anarchism is not indifferent to or ignores political struggles and
 issues. Rather, it fights for political change and reforms as it fights for
@@ -1681,7 +1689,7 @@ participation in the works of bourgeois parliaments, it is not because they
 have no sympathy with political struggles in general, but because they are
 firmly convinced that parliamentary activity is for the workers the very
 weakest and most hopeless form of the political struggle."_ [Rocker, **Op.
-Cit.**, p. 76] Anarchists reject the idea that political and economic
+Cit.** , p. 76] Anarchists reject the idea that political and economic
 struggles can be divided. Such an argument just reproduces the artificially
 created division of labour between mental and physical activity of capitalism
 within working class organisations and within anti-capitalist movements. We
@@ -1715,7 +1723,7 @@ placing itself outside all bourgeois politics, the proletariat necessarily
 turns against it."_ So, by _"placing the proletariat outside the politics in
 the State and of the bourgeois world, [the working class movement] thereby
 constructed a new world, the world of the united proletarians of all lands."_
-[**Op. Cit.**, p. 302 p. 276, p. 303 and p. 305]
+[ **Op. Cit.** , p. 302 p. 276, p. 303 and p. 305]
 
 History supports Bakunin's arguments, as it indicates that any attempt at
 taking social and economic issues into political parties has resulting in
@@ -1729,8 +1737,8 @@ dominated by capitalist ideas and activity (what is usually termed "realistic"
 and "practical") and by working within capitalist institutions they have, to
 use Bakunin's words, _"filled in at a single stroke the abyss . . . between
 the proletariat and the bourgeoisie"_ that economic and social struggle
-creates and, worse, _"have tied the proletariat to the bourgeois towline."_
-[**Op. Cit.**, p. 290]
+creates and, worse, _"have tied the proletariat to the bourgeois towline."_ [
+**Op. Cit.** , p. 290]
 
 In addition, so-called "economic" struggles do not occur in a vacuum. They
 take place in a social and political context and so, necessarily, there can
@@ -1744,7 +1752,7 @@ into discussions of what is possible in the current system, and so the radical
 impact of direct action and social struggle is weakened. Given this, is it
 surprising that anarchists argue that the people _"must organise their powers
 apart from and against the State."_ [Bakunin, **The Political Philosophy of
-Bakunin**, p. 376]
+Bakunin** , p. 376]
 
 To conclude, anarchists are only "apolitical" about bourgeois elections and
 the dubious liberty and benefits associated with picking who will rule us and
@@ -1762,6 +1770,6 @@ process of individual and social liberation is the most political activity we
 can think of!
 
 [‹ J.1 Are anarchists involved in social struggles?](secJ1.md "Go to
-previous page" ) [up](secJcon.md "Go to parent page" ) [J.3 What kinds of
-organisation do anarchists build? ›](secJ3.md "Go to next page" )
+previous page") [up](secJcon.md "Go to parent page") [J.3 What kinds of
+organisation do anarchists build? ›](secJ3.md "Go to next page")
 

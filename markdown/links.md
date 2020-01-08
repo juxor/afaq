@@ -40,14 +40,12 @@ Here are links which may be of interest to anarchists
   
 ---  
   
-
-
 * * *
 
   * [Other Anarchist Web-pages](alinks.md)
   * [Sites of interest to Anarchists](arlinks.md)
 
-[‹ Non-English versions of the FAQ](translations.md "Go to previous page" )
-[up](index.md "Go to parent page" ) [Other Anarchist Web-pages
-›](alinks.md "Go to next page" )
+[‹ An Anarchist FAQ in pdf format](pdf.md "Go to previous page")
+[up](index.md "Go to parent page") [Other Anarchist Web-pages ›](alinks.md
+"Go to next page")
 

@@ -75,8 +75,8 @@ wrong?](append11.md#app2)
   * [Replies to Some Errors and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 4.1.1](append12.md)
   * [Appendix - Is "anarcho"-capitalism a type of anarchism?](append13.md)
 
-[‹ J.7 What do anarchists mean by "social revolution"?](secJ7.md "Go to
-previous page" ) [up](index.md "Go to parent page" ) [Replies to Some Errors
-and Distortions in Bryan Caplan's "Anarchist Theory FAQ" version 5.2
-›](append11.md "Go to next page" )
+[‹ Why does the Makhnovist movement show there is an alternative to
+Bolshevism?](append46.md "Go to previous page") [up](supplementary.md "Go
+to parent page") [Replies to Some Errors and Distortions in Bryan Caplan's
+"Anarchist Theory FAQ" version 5.2 ›](append11.md "Go to next page")
 

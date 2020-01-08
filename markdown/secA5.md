@@ -23,19 +23,19 @@ of popular spontaneity."_ It is only a transformation of society from the
 bottom up by the action of the oppressed themselves that can create a free
 society. As Proudhon asked, _"[w]hat serious and lasting Revolution was not
 made **from below,** by the people?"_ For this reason an anarchist is a
-_"revolutionary **from below.**"_ Thus the social revolutions and mass
+_"revolutionary **from below.** "_ Thus the social revolutions and mass
 movements we discuss in this section are examples of popular self-activity and
 self-liberation (as Proudhon put it in 1848, _"the proletariat must emancipate
-itself"_). [quoted by George Woodcock, **Pierre-Joseph Proudhon: A
-Biography**, p. 143 and p. 125] All anarchists echo Proudhon's idea of
+itself"_ ). [quoted by George Woodcock, **Pierre-Joseph Proudhon: A
+Biography** , p. 143 and p. 125] All anarchists echo Proudhon's idea of
 revolutionary change from below, the creation of a new society by the actions
 of the oppressed themselves. Bakunin, for example, argued that anarchists are
 _"foes . . . of all State organisations as such, and believe that the people
 can only be happy and free, when, organised from below by means of its own
 autonomous and completely free associations, without the supervision of any
-guardians, it will create its own life."_ [**Marxism, Freedom and the State**,
-p. 63] In [section J.7](secJ7.md) we discuss what anarchists think a social
-revolution is and what it involves.
+guardians, it will create its own life."_ [ **Marxism, Freedom and the State**
+, p. 63] In [section J.7](secJ7.md) we discuss what anarchists think a
+social revolution is and what it involves.
 
 Many of these revolutions and revolutionary movements are relatively unknown
 to non-anarchists. Most people will have heard of the Russian revolution but
@@ -48,11 +48,11 @@ the headlines in the newspapers and get embodied in official records -- we
 might call this overground history"_ but _"taking place at the same time,
 preparing for these public events, anticipating them, is another kind of
 history, that is not embodied in official records, an invisible underground
-history."_ [quoted by William R. McKercher, **Freedom and Authority**, p. 155]
-Almost by definition, popular movements and revolts are part of _"underground
-history"_, the social history which gets ignored in favour of elite history,
-the accounts of the kings, queens, politicians and wealthy whose fame is the
-product of the crushing of the many.
+history."_ [quoted by William R. McKercher, **Freedom and Authority** , p.
+155] Almost by definition, popular movements and revolts are part of
+_"underground history"_ , the social history which gets ignored in favour of
+elite history, the accounts of the kings, queens, politicians and wealthy
+whose fame is the product of the crushing of the many.
 
 This means our examples of "anarchy in action" are part of what the Russian
 anarchist Voline called _"The Unknown Revolution."_ Voline used that
@@ -63,8 +63,8 @@ is not known how to study a revolution"_ and most historians _"mistrust and
 ignore those developments which occur silently in the depths of the revolution
 . . . at best, they accord them a few words in passing . . . [Yet] it is
 precisely these hidden facts which are important, and which throw a true light
-on the events under consideration and on the period."_ [**The Unknown
-Revolution**, p. 19] Anarchism, based as it is on revolution from below, has
+on the events under consideration and on the period."_ [ **The Unknown
+Revolution** , p. 19] Anarchism, based as it is on revolution from below, has
 contributed considerably to both the **_"underground history"_** and the
 **_"unknown revolution"_** of the past few centuries and this section of the
 FAQ will shed some light on its achievements.
@@ -72,15 +72,15 @@ FAQ will shed some light on its achievements.
 It is important to point out that these examples are of wide-scale social
 experiments and do not imply that we ignore the undercurrent of anarchist
 practice which exists in everyday life, even under capitalism. Both Peter
-Kropotkin (in **Mutual Aid**) and Colin Ward (in **Anarchy in Action**) have
+Kropotkin (in **Mutual Aid** ) and Colin Ward (in **Anarchy in Action** ) have
 documented the many ways in which ordinary people, usually unaware of
 anarchism, have worked together as equals to meet their common interests. As
 Colin Ward argues, _"an anarchist society, a society which organises itself
 without authority, is always in existence, like a seed beneath the snow,
 buried under the weight of the state and its bureaucracy, capitalism and its
 waste, privilege and its injustices, nationalism and its suicidal loyalties,
-religious differences and their superstitious separatism."_ [**Anarchy in
-Action**, p. 14]
+religious differences and their superstitious separatism."_ [ **Anarchy in
+Action** , p. 14]
 
 Anarchism is not only about a future society, it is also about the social
 struggle happening today. It is not a condition but a process, which we create
@@ -158,11 +158,12 @@ The Paris Commune of 1871 played an important role in the development of both
 anarchist ideas and the movement. As Bakunin commented at the time,
 
 > _"revolutionary socialism [i.e. anarchism] has just attempted its first
-striking and practical demonstration in the Paris Commune . . . [It] show[ed]
-to all enslaved peoples (and are there any masses that are not slaves?) the
-only road to emancipation and health; Paris inflict[ed] a mortal blow upon the
-political traditions of bourgeois radicalism and [gave] a real basis to
-revolutionary socialism."_ [**Bakunin on Anarchism**, pp. 263-4]
+> striking and practical demonstration in the Paris Commune . . . [It]
+> show[ed] to all enslaved peoples (and are there any masses that are not
+> slaves?) the only road to emancipation and health; Paris inflict[ed] a
+> mortal blow upon the political traditions of bourgeois radicalism and [gave]
+> a real basis to revolutionary socialism."_ [ **Bakunin on Anarchism** , pp.
+> 263-4]
 
 The Paris Commune was created after France was defeated by Prussia in the
 Franco-Prussian war. The French government tried to send in troops to regain
@@ -175,7 +176,7 @@ the price."_ The soldiers refused to fire on the jeering crowd and turned
 their weapons on their officers. This was March 18th; the Commune had begun
 and _"the people wakened . . . The eighteenth of March could have belonged to
 the allies of kings, or to foreigners, or to the people. It was the
-people's."_ [**Red Virgin: Memoirs of Louise Michel**, p. 64]
+people's."_ [ **Red Virgin: Memoirs of Louise Michel** , p. 64]
 
 In the free elections called by the Parisian National Guard, the citizens of
 Paris elected a council made up of a majority of Jacobins and Republicans and
@@ -192,11 +193,11 @@ strong similarities with anarchist ideas. In fact, the example of the Paris
 Commune was in many ways similar to how Bakunin had predicted that a
 revolution would have to occur -- a major city declaring itself autonomous,
 organising itself, leading by example, and urging the rest of the planet to
-follow it. (See _"Letter to Albert Richards"_ in **Bakunin on Anarchism**).
+follow it. (See _"Letter to Albert Richards"_ in **Bakunin on Anarchism** ).
 The Paris Commune began the process of creating a new society, one organised
 from the bottom up. It was _"a blow for the decentralisation of political
 power."_ [Voltairine de Cleyre, _"The Paris Commune,"_ **Anarchy! An Anthology
-of Emma Goldman's Mother Earth**, p. 67]
+of Emma Goldman's Mother Earth** , p. 67]
 
 Many anarchists played a role within the Commune -- for example Louise Michel,
 the Reclus brothers, and Eugene Varlin (the latter murdered in the repression
@@ -211,23 +212,23 @@ can transform our position from that of wage earners to that of associates."_
 They instructed their delegates to the Commune's Commission on Labour
 Organisation to support the following objectives:
 
-> _ "The abolition of the exploitation of man by man, the last vestige of
-slavery;_
+> _"The abolition of the exploitation of man by man, the last vestige of
+> slavery;_
 
 > _"The organisation of labour in mutual associations and inalienable
-capital."_
+> capital."_
 
 In this way, they hoped to ensure that _"equality must not be an empty word"_
-in the Commune. [**The Paris Commune of 1871: The View from the Left**, Eugene
-Schulkind (ed.), p. 164] The Engineers Union voted at a meeting on 23rd of
-April that since the aim of the Commune should be _"economic emancipation"_ it
-should _"organise labour through associations in which there would be joint
+in the Commune. [ **The Paris Commune of 1871: The View from the Left** ,
+Eugene Schulkind (ed.), p. 164] The Engineers Union voted at a meeting on 23rd
+of April that since the aim of the Commune should be _"economic emancipation"_
+it should _"organise labour through associations in which there would be joint
 responsibility"_ in order _"to suppress the exploitation of man by man."_
-[quoted by Stewart Edwards, **The Paris Commune 1871**, pp. 263-4]
+[quoted by Stewart Edwards, **The Paris Commune 1871** , pp. 263-4]
 
 As well as self-managed workers' associations, the Communards practised direct
 democracy in a network popular clubs, popular organisations similar to the
-directly democratic neighbourhood assemblies (_"sections"_) of the French
+directly democratic neighbourhood assemblies ( _"sections"_ ) of the French
 Revolution. _"People, govern yourselves through your public meetings, through
 your press"_ proclaimed the newspaper of one Club. The commune was seen as an
 expression of the assembled people, for (to quote another Club) _"Communal
@@ -236,31 +237,31 @@ assembled who have a horror of the yoke and of servitude."_ Little wonder that
 Gustave Courbet, artist friend and follower of Proudhon, proclaimed Paris as
 _"a true paradise . . . all social groups have established themselves as
 federations and are masters of their own fate."_ [quoted by Martin Phillip
-Johnson, **The Paradise of Association**, p. 5 and p. 6]
+Johnson, **The Paradise of Association** , p. 5 and p. 6]
 
 In addition the Commune's _"Declaration to the French People"_ which echoed
 many key anarchist ideas. It saw the _"political unity"_ of society as being
 based on _"the voluntary association of all local initiatives, the free and
 spontaneous concourse of all individual energies for the common aim, the well-
-being, the liberty and the security of all."_ [quoted by Edwards, **Op.
-Cit.**, p. 218] The new society envisioned by the communards was one based on
-the _"absolute autonomy of the Commune . . . assuring to each its integral
-rights and to each Frenchman the full exercise of his aptitudes, as a man, a
-citizen and a labourer. The autonomy of the Commune will have for its limits
-only the equal autonomy of all other communes adhering to the contract; their
-association must ensure the liberty of France."_ [_"Declaration to the French
-People"_, quoted by George Woodcock, **Pierre-Joseph Proudhon: A Biography**,
-pp. 276-7] With its vision of a confederation of communes, Bakunin was correct
-to assert that the Paris Commune was _"a bold, clearly formulated negation of
-the State."_ [**Bakunin on Anarchism**, p. 264]
+being, the liberty and the security of all."_ [quoted by Edwards, **Op. Cit.**
+, p. 218] The new society envisioned by the communards was one based on the
+_"absolute autonomy of the Commune . . . assuring to each its integral rights
+and to each Frenchman the full exercise of his aptitudes, as a man, a citizen
+and a labourer. The autonomy of the Commune will have for its limits only the
+equal autonomy of all other communes adhering to the contract; their
+association must ensure the liberty of France."_ [ _"Declaration to the French
+People"_ , quoted by George Woodcock, **Pierre-Joseph Proudhon: A Biography**
+, pp. 276-7] With its vision of a confederation of communes, Bakunin was
+correct to assert that the Paris Commune was _"a bold, clearly formulated
+negation of the State."_ [ **Bakunin on Anarchism** , p. 264]
 
 Moreover, the Commune's ideas on federation obviously reflected the influence
 of Proudhon on French radical ideas. Indeed, the Commune's vision of a
 communal France based on a federation of delegates bound by imperative
 mandates issued by their electors and subject to recall at any moment echoes
 Proudhon's ideas (Proudhon had argued in favour of the _"implementation of the
-binding mandate"_ in 1848 [**No Gods, No Masters**, p. 63] and for federation
-of communes in his work **The Principle of Federation**).
+binding mandate"_ in 1848 [ **No Gods, No Masters** , p. 63] and for
+federation of communes in his work **The Principle of Federation** ).
 
 Thus both economically and politically the Paris Commune was heavily
 influenced by anarchist ideas. Economically, the theory of associated
@@ -270,7 +271,7 @@ anarchists see their _"future social organisation. . . [being] carried out
 from the bottom up, by the free association or federation of workers, starting
 with associations, then going into the communes, the regions, the nations,
 and, finally, culminating in a great international and universal federation."_
-[Bakunin, **Op. Cit.**, p. 270]
+[Bakunin, **Op. Cit.** , p. 270]
 
 However, for anarchists the Commune did not go far enough. It did not abolish
 the state within the Commune, as it had abolished it beyond it. The Communards
@@ -286,7 +287,7 @@ Communes."_ This lead to disaster as the Commune council became _"immobilised
 . . . by red tape"_ and lost _"the sensitivity that comes from continued
 contact with the masses . . . Paralysed by their distancing from the
 revolutionary centre -- the people -- they themselves paralysed the popular
-initiative."_ [**Words of a Rebel**, p. 97, p. 93 and p. 97]
+initiative."_ [ **Words of a Rebel** , p. 97, p. 93 and p. 97]
 
 In addition, its attempts at economic reform did not go far enough, making no
 attempt to turn all workplaces into co-operatives (i.e. to expropriate
@@ -295,24 +296,24 @@ support each other's economic activities. Paris, stressed Voltairine de
 Cleyre, _"failed to strike at economic tyranny, and so came of what it could
 have achieved"_ which was a _"free community whose economic affairs shall be
 arranged by the groups of actual producers and distributors, eliminating the
-useless and harmful element now in possession of the world's capital."_ [**Op.
-Cit.**, p. 67] As the city was under constant siege by the French army, it is
-understandable that the Communards had other things on their minds. However,
-for Kropotkin such a position was a disaster:
+useless and harmful element now in possession of the world's capital."_ [
+**Op. Cit.** , p. 67] As the city was under constant siege by the French army,
+it is understandable that the Communards had other things on their minds.
+However, for Kropotkin such a position was a disaster:
 
-> _ "They treated the economic question as a secondary one, which would be
-attended to later on, **after** the triumph of the Commune . . . But the
-crushing defeat which soon followed, and the blood-thirsty revenge taken by
-the middle class, proved once more that the triumph of a popular Commune was
-materially impossible without a parallel triumph of the people in the economic
-field."_ [**Op. Cit.**, p. 74]
+> _"They treated the economic question as a secondary one, which would be
+> attended to later on, **after** the triumph of the Commune . . . But the
+> crushing defeat which soon followed, and the blood-thirsty revenge taken by
+> the middle class, proved once more that the triumph of a popular Commune was
+> materially impossible without a parallel triumph of the people in the
+> economic field."_ [ **Op. Cit.** , p. 74]
 
 Anarchists drew the obvious conclusions, arguing that _"if no central
 government was needed to rule the independent Communes, if the national
 Government is thrown overboard and national unity is obtained by free
 federation, then a central **municipal** Government becomes equally useless
 and noxious. The same federative principle would do within the Commune."_
-[Kropotkin, **Evolution and Environment**, p. 75] Instead of abolishing the
+[Kropotkin, **Evolution and Environment** , p. 75] Instead of abolishing the
 state within the commune by organising federations of directly democratic mass
 assemblies, like the Parisian "sections" of the revolution of 1789-93 (see
 Kropotkin's **Great French Revolution** for more on these), the Paris Commune
@@ -321,13 +322,13 @@ themselves . . . the people, confiding in their governors, entrusted them the
 charge of taking the initiative. This was the first consequence of the
 inevitable result of elections."_ The council soon became _"the greatest
 obstacle to the revolution"_ thus proving the _"political axiom that a
-government cannot be revolutionary."_ [**Anarchism**, p. 240, p. 241 and p.
+government cannot be revolutionary."_ [ **Anarchism** , p. 240, p. 241 and p.
 249]
 
 The council become more and more isolated from the people who elected it, and
 thus more and more irrelevant. And as its irrelevance grew, so did its
 authoritarian tendencies, with the Jacobin majority creating a _"Committee of
-Public Safety" _to_ "defend"_ (by terror) the "revolution." The Committee was
+Public Safety"_ to _"defend"_ (by terror) the "revolution." The Committee was
 opposed by the libertarian socialist minority and was, fortunately, ignored in
 practice by the people of Paris as they defended their freedom against the
 French army, which was attacking them in the name of capitalist civilisation
@@ -342,8 +343,8 @@ which had so terrified them.
 
 For anarchists, the lessons of the Paris Commune were threefold. Firstly, a
 decentralised confederation of communities is the necessary political form of
-a free society (_"**This was the form that the social revolution must take**
-\-- the independent commune."_ [Kropotkin, **Op. Cit.**, p. 163]). Secondly,
+a free society ( _" **This was the form that the social revolution must take**
+\-- the independent commune."_ [Kropotkin, **Op. Cit.** , p. 163]). Secondly,
 _"there is no more reason for a government inside a Commune than for
 government above the Commune."_ This means that an anarchist community will be
 based on a confederation of neighbourhood and workplace assemblies freely co-
@@ -351,10 +352,10 @@ operating together. Thirdly, it is critically important to unify political and
 economic revolutions into a **social** revolution. _"They tried to consolidate
 the Commune first and put off the social revolution until later, whereas the
 only way to proceed was **to consolidate the Commune by means of the social
-revolution!**"_ [Peter Kropotkin, **Words of a Rebel **, p. 97]
+revolution!** "_ [Peter Kropotkin, **Words of a Rebel** , p. 97]
 
 For more anarchist perspectives on the Paris Commune see Kropotkin's essay
-_"The Paris Commune"_ in **Words of a Rebel** (and **The Anarchist Reader**)
+_"The Paris Commune"_ in **Words of a Rebel** (and **The Anarchist Reader** )
 and Bakunin's _"The Paris Commune and the Idea of the State"_ in **Bakunin on
 Anarchism**.
 
@@ -375,7 +376,7 @@ unions to change the world.
 
 It began in the 1880s in the USA. In 1884, the **Federation of Organised
 Trades and Labor Unions of the United States and Canada** (created in 1881, it
-changed its name in 1886 to the **American Federation of Labor**) passed a
+changed its name in 1886 to the **American Federation of Labor** ) passed a
 resolution which asserted that _"eight hours shall constitute a legal day's
 work from and after May 1, 1886, and that we recommend to labour organisations
 throughout this district that they so direct their laws as to conform to this
@@ -404,7 +405,7 @@ this moment a bomb was thrown into the police ranks, who opened fire on the
 crowd. How many civilians were wounded or killed by the police was never
 exactly ascertained, but 7 policemen eventually died (ironically, only one was
 the victim of the bomb, the rest were a result of the bullets fired by the
-police [Paul Avrich, **The Haymarket Tragedy**, p. 208]).
+police [Paul Avrich, **The Haymarket Tragedy** , p. 208]).
 
 A _"reign of terror"_ swept over Chicago, and the _"organised banditti and
 conscienceless brigands of capital suspended the only papers which would give
@@ -413,14 +414,14 @@ homes of everyone who has ever known to have raised a voice or sympathised
 with those who have aught to say against the present system of robbery and
 oppression . . . they have invaded their homes and subjected them and their
 families to indignities that must be seen to be believed."_ [Lucy Parsons,
-**Liberty, Equality &amp; Solidarity**, p. 53] Meeting halls, union offices,
+**Liberty, Equality & Solidarity**, p. 53] Meeting halls, union offices,
 printing shops and private homes were raided (usually without warrants). Such
 raids into working-class areas allowed the police to round up all known
 anarchists and other socialists. Many suspects were beaten up and some bribed.
 _"Make the raids first and look up the law afterwards"_ was the public
 statement of J. Grinnell, the States Attorney, when a question was raised
-about search warrants. [_"Editor's Introduction"_, **The Autobiographies of
-the Haymarket Martyrs**, p. 7]
+about search warrants. [ _"Editor's Introduction"_ , **The Autobiographies of
+the Haymarket Martyrs** , p. 7]
 
 Eight anarchists were put on trial for accessory to murder. No pretence was
 made that any of the accused had carried out or even planned the bomb. The
@@ -442,7 +443,7 @@ nominated by the State's Attorney and was explicitly chosen to compose of
 businessmen and a relative of one of the cops killed. The defence was not
 allowed to present evidence that the special bailiff had publicly claimed _"I
 am managing this case and I know what I am about. These fellows are going to
-be hanged as certain as death."_ [**Op. Cit.**, p. 8] Not surprisingly, the
+be hanged as certain as death."_ [ **Op. Cit.** , p. 8] Not surprisingly, the
 accused were convicted. Seven were sentenced to death, one to 15 years'
 imprisonment.
 
@@ -466,7 +467,7 @@ day, no one knows who threw the bomb -- the only definite fact is that it was
 not any of those who were tried for the act: _"Our comrades were not murdered
 by the state because they had any connection with the bomb-throwing, but
 because they had been active in organising the wage-slaves of America."_ [Lucy
-Parsons, **Op. Cit.**, p. 142]
+Parsons, **Op. Cit.** , p. 142]
 
 The authorities had believed at the time of the trial that such persecution
 would break the back of the labour movement. As Lucy Parsons, a participant of
@@ -481,15 +482,15 @@ The capitalistic class imagined they could carry out their hellish plot by
 putting to an ignominious death the most progressive leaders among the working
 class of that day. In executing their bloody deed of judicial murder they
 succeeded, but in arresting the mighty onward movement of the class struggle
-they utterly failed."_ [Lucy Parsons, **Op. Cit.**, p. 128] In the words of
+they utterly failed."_ [Lucy Parsons, **Op. Cit.** , p. 128] In the words of
 August Spies when he addressed the court after he had been sentenced to die:
 
-> _ "If you think that by hanging us you can stamp out the labour movement . .
-. the movement from which the downtrodden millions, the millions who toil in
-misery and want, expect salvation -- if this is your opinion, then hang us!
-Here you will tread on a spark, but there and there, behind you -- and in
-front of you, and everywhere, flames blaze up. It is a subterranean fire. You
-cannot put it out."_ [quoted by Paul Avrich, **Op. Cit.**, p. 287]
+> _"If you think that by hanging us you can stamp out the labour movement . .
+> . the movement from which the downtrodden millions, the millions who toil in
+> misery and want, expect salvation -- if this is your opinion, then hang us!
+> Here you will tread on a spark, but there and there, behind you -- and in
+> front of you, and everywhere, flames blaze up. It is a subterranean fire.
+> You cannot put it out."_ [quoted by Paul Avrich, **Op. Cit.** , p. 287]
 
 At the time and in the years to come, this defiance of the state and
 capitalism was to win thousands to anarchism, particularly in the US itself.
@@ -501,16 +502,16 @@ power and remind the ruling class of their vulnerability. As Nestor Makhno put
 it:
 
 > _"That day those American workers attempted, by organising themselves, to
-give expression to their protest against the iniquitous order of the State and
-Capital of the propertied . . . _
+> give expression to their protest against the iniquitous order of the State
+> and Capital of the propertied . . ._
 
 > "The workers of Chicago . . . had gathered to resolve, in common, the
-problems of their lives and their struggles. . .
+> problems of their lives and their struggles. . .
 
 > "Today too . . . the toilers . . . regard the first of May as the occasion
-of a get-together when they will concern themselves with their own affairs and
-consider the matter of their emancipation." [**The Struggle Against the State
-and Other Essays**, pp. 59-60]
+> of a get-together when they will concern themselves with their own affairs
+> and consider the matter of their emancipation." [ **The Struggle Against the
+> State and Other Essays** , pp. 59-60]
 
 Anarchists stay true to the origins of May Day and celebrate its birth in the
 direct action of the oppressed. It is a classic example of anarchist
@@ -518,14 +519,14 @@ principles of direct action and solidarity, _"an historic event of great
 importance, inasmuch as it was, in the first place, the first time that
 workers themselves had attempted to get a shorter work day by united,
 simultaneous action . . . this strike was the first in the nature of Direct
-Action on a large scale, the first in America."_ [Lucy Parsons, **Op. Cit.**,
+Action on a large scale, the first in America."_ [Lucy Parsons, **Op. Cit.** ,
 pp. 139-40] Oppression and exploitation breed resistance and, for anarchists,
 May Day is an international symbol of that resistance and power -- a power
 expressed in the last words of August Spies, chiselled in stone on the
 monument to the Haymarket martyrs in Waldheim Cemetery in Chicago:
 
 > _"The day will come when our silence will be more powerful than the voices
-you are throttling today."_
+> you are throttling today."_
 
 To understand why the state and business class were so determined to hang the
 Chicago Anarchists, it is necessary to realise they were considered the
@@ -533,45 +534,46 @@ leaders of a massive radical union movement. In 1884, the Chicago Anarchists
 produced the world's first daily anarchist newspaper, the **Chicagoer
 Arbeiter-Zeiting**. This was written, read, owned and published by the German
 immigrant working class movement. The combined circulation of this daily plus
-a weekly (**Vorbote**) and a Sunday edition (**Fackel**) more than doubled,
-from 13,000 per issues in 1880 to 26,980 in 1886. Anarchist weekly papers
-existed for other ethnic groups as well (one English, one Bohemian and one
-Scandinavian).
+a weekly ( **Vorbote** ) and a Sunday edition ( **Fackel** ) more than
+doubled, from 13,000 per issues in 1880 to 26,980 in 1886. Anarchist weekly
+papers existed for other ethnic groups as well (one English, one Bohemian and
+one Scandinavian).
 
 Anarchists were very active in the Central Labour Union (which included the
 eleven largest unions in the city) and aimed to make it, in the words of
 Albert Parsons (one of the Martyrs), _"the embryonic group of the future 'free
 society.'"_ The anarchists were also part of the **International Working
-People's Association** (also called the **_"Black International"_**) which had
-representatives from 26 cities at its founding convention. The I.W.P.A. soon
-_"made headway among trade unions, especially in the mid-west"_ and its ideas
-of _"direct action of the rank and file"_ and of trade unions _"serv[ing] as
-the instrument of the working class for the complete destruction of capitalism
-and the nucleus for the formation of a new society"_ became known as the
-**_"Chicago Idea"_** (an idea which later inspired the **Industrial Workers of
-the World** which was founded in Chicago in 1905). [_"Editor's Introduction,"_
-**The Autobiographies of the Haymarket Martyrs**, p. 4]
+People's Association** (also called the **_"Black International"_** ) which
+had representatives from 26 cities at its founding convention. The I.W.P.A.
+soon _"made headway among trade unions, especially in the mid-west"_ and its
+ideas of _"direct action of the rank and file"_ and of trade unions
+_"serv[ing] as the instrument of the working class for the complete
+destruction of capitalism and the nucleus for the formation of a new society"_
+became known as the **_"Chicago Idea"_** (an idea which later inspired the
+**Industrial Workers of the World** which was founded in Chicago in 1905). [
+_"Editor's Introduction,"_ **The Autobiographies of the Haymarket Martyrs** ,
+p. 4]
 
 This idea was expressed in the manifesto issued at the I.W.P.A.'s Pittsburgh
 Congress of 1883:
 
-> _ "First -- Destruction of the existing class rule, by all means, i.e. by
-energetic, relentless, revolutionary and international action._
+> _"First -- Destruction of the existing class rule, by all means, i.e. by
+> energetic, relentless, revolutionary and international action._
 
-> _ "Second -- Establishment of a free society based upon co-operative
-organisation of production._
+> _"Second -- Establishment of a free society based upon co-operative
+> organisation of production._
 
-> _ "Third -- Free exchange of equivalent products by and between the
-productive organisations without commerce and profit-mongery._
+> _"Third -- Free exchange of equivalent products by and between the
+> productive organisations without commerce and profit-mongery._
 
-> _ "Fourth -- Organisation of education on a secular, scientific and equal
-basis for both sexes._
+> _"Fourth -- Organisation of education on a secular, scientific and equal
+> basis for both sexes._
 
-> _ "Fifth -- Equal rights for all without distinction to sex or race._
+> _"Fifth -- Equal rights for all without distinction to sex or race._
 
-> _ "Sixth -- Regulation of all public affairs by free contracts between
-autonomous (independent) communes and associations, resting on a federalistic
-basis."_ [**Op. Cit.**, p. 42]
+> _"Sixth -- Regulation of all public affairs by free contracts between
+> autonomous (independent) communes and associations, resting on a
+> federalistic basis."_ [ **Op. Cit.** , p. 42]
 
 In addition to their union organising, the Chicago anarchist movement also
 organised social societies, picnics, lectures, dances, libraries and a host of
@@ -602,12 +604,12 @@ schooling in anarchism"_ for it was _"a laboratory of economic struggles"_ and
 organised _"along anarchic lines."_ By organising workers into _"libertarian
 organisations,"_ the syndicalist unions were creating the _"free associations
 of free producers"_ within capitalism to combat it and, ultimately, replace
-it. [Fernand Pelloutier, **No Gods, No Masters**, vol. 2, p. 57, p. 55 and p.
+it. [Fernand Pelloutier, **No Gods, No Masters** , vol. 2, p. 57, p. 55 and p.
 56]
 
 While the details of syndicalist organisation varied from country to country,
 the main lines were the same. Workers should form themselves into unions (or
-**_syndicates_**, the French for union). While organisation by industry was
+**_syndicates_** , the French for union). While organisation by industry was
 generally the preferred form, craft and trade organisations were also used.
 These unions were directly controlled by their members and would federate
 together on an industrial and geographical basis. Thus a given union would be
@@ -626,9 +628,9 @@ Socialism in general."_ The _"economic fighting organisation of the workers"_
 gives their members _"every opportunity for direct action in their struggles
 for daily bread, it also provides them with the necessary preliminaries for
 carrying through the reorganisation of social life on a [libertarian]
-Socialist plan by them own strength."_ [Rudolf Rocker, **Anarcho-
-Syndicalism**, p. 59 and p. 62] Anarcho-syndicalism, to use the expression of
-the I.W.W., aims to build the new world in the shell of the old.
+Socialist plan by them own strength."_ [Rudolf Rocker, **Anarcho-Syndicalism**
+, p. 59 and p. 62] Anarcho-syndicalism, to use the expression of the I.W.W.,
+aims to build the new world in the shell of the old.
 
 In the period from the 1890's to the outbreak of World War I, anarchists built
 revolutionary unions in most European countries (particularly in Spain, Italy
@@ -678,12 +680,12 @@ insurrection. A state of siege was declared by the state, which used extensive
 force to crush the rebellion. The CGT, whose militants had played a prominent
 and courageous role in the insurrection, was completely smashed and Portugal
 remained a fascist state for the next 40 years. [Phil Mailer, **Portugal: The
-Impossible Revolution**, pp. 72-3] In Spain, the CNT (the most famous anarcho-
-syndicalist union) fought a similar battle. By 1936, it claimed one and a half
-million members. As in Italy and Portugal, the capitalist class embraced
-fascism to save their power from the dispossessed, who were becoming confident
-of their power and their right to manage their own lives (see [section
-A.5.6](secA5.md#seca56)).
+Impossible Revolution** , pp. 72-3] In Spain, the CNT (the most famous
+anarcho-syndicalist union) fought a similar battle. By 1936, it claimed one
+and a half million members. As in Italy and Portugal, the capitalist class
+embraced fascism to save their power from the dispossessed, who were becoming
+confident of their power and their right to manage their own lives (see
+[section A.5.6](secA5.md#seca56)).
 
 As well as fascism, syndicalism also faced the negative influence of Leninism.
 The apparent success of the Russian revolution led many activists to turn to
@@ -736,11 +738,11 @@ American activist commented, this is _"the same militant spirit that breathes
 now in the best expressions of the Syndicalist and I.W.W. movements"_ both of
 which express _"a strong world wide revival of the ideas for which Bakunin
 laboured throughout his life."_ [Max Baginski, **Anarchy! An Anthology of Emma
-Goldman's Mother Earth**, p. 71] As with the syndicalists, Bakunin stressed
+Goldman's Mother Earth** , p. 71] As with the syndicalists, Bakunin stressed
 the _"organisation of trade sections, their federation . . . bear in
 themselves the living germs of **the new social order,** which is to replace
 the bourgeois world. They are creating not only the ideas but also the facts
-of the future itself."_ [quoted by Rudolf Rocker, **Op. Cit.**, p. 50]
+of the future itself."_ [quoted by Rudolf Rocker, **Op. Cit.** , p. 50]
 
 Such ideas were repeated by other libertarians. Eugene Varlin, whose role in
 the Paris Commune ensured his death, advocated a socialism of associations,
@@ -748,20 +750,20 @@ arguing in 1870 that syndicates were the _"natural elements"_ for the
 rebuilding of society: _"it is they that can easily be transformed into
 producer associations; it is they that can put into practice the retooling of
 society and the organisation of production."_ [quoted by Martin Phillip
-Johnson, **The Paradise of Association**, p. 139] As we discussed in [section
+Johnson, **The Paradise of Association** , p. 139] As we discussed in [section
 A.5.2](secA5.md#seca52), the Chicago Anarchists held similar views, seeing
 the labour movement as both the means of achieving anarchy and the framework
 of the free society. As Lucy Parsons (the wife of Albert) put it _"we hold
 that the granges, trade-unions, Knights of Labour assemblies, etc., are the
 embryonic groups of the ideal anarchistic society . . ."_ [contained in Albert
-R. Parsons, **Anarchism: Its Philosophy and Scientific Basis**, p. 110] These
+R. Parsons, **Anarchism: Its Philosophy and Scientific Basis** , p. 110] These
 ideas fed into the revolutionary unionism of the I.W.W. As one historian
 notes, the _"proceedings of the I.W.W.'s inaugural convention indicate that
 the participants were not only aware of the 'Chicago Idea' but were conscious
 of a continuity between their efforts and the struggles of the Chicago
 anarchists to initiate industrial unionism."_ The Chicago idea represented
 _"the earliest American expression of syndicalism."_ [Salvatore Salerno, **Red
-November, Black November**, p. 71]
+November, Black November** , p. 71]
 
 Thus, syndicalism and anarchism are not differing theories but, rather,
 different interpretations of the same ideas (see for a fuller discussion
@@ -777,10 +779,10 @@ entire social wealth by the workers in order to transform it into common
 property. This revolution can succeed only through the workers, only if the
 urban and rural workers everywhere carry out this objective themselves. To
 that end, they must initiate their own action in the period **before the
-revolution**; this can happen only if there is a strong **workers'
-organisation.**"_ [**Selected Writings on Anarchism and Revolution**, p. 20]
-Such popular self-managed organisations cannot be anything but **_"anarchy in
-action."_**
+revolution** ; this can happen only if there is a strong **workers'
+organisation.** "_ [ **Selected Writings on Anarchism and Revolution** , p.
+20] Such popular self-managed organisations cannot be anything but **_"anarchy
+in action."_**
 
 ## A.5.4 Anarchists in the Russian Revolution
 
@@ -817,8 +819,8 @@ solidarity. As such, the initial months of the Revolution seemed to confirm
 Bakunin's prediction that the _"future social organisation must be made solely
 from the bottom upwards, by the free associations or federations of workers,
 firstly in their unions, then in the communes, regions, nations and finally in
-a great federation, international and universal."_ [**Michael Bakunin:
-Selected Writings**, p. 206] The soviets and factory committees expressed
+a great federation, international and universal."_ [ **Michael Bakunin:
+Selected Writings** , p. 206] The soviets and factory committees expressed
 concretely Bakunin's ideas and Anarchists played an important role in the
 struggle.
 
@@ -839,7 +841,7 @@ Bolsheviks oppos[ing] the calling of strikes precisely on the eve of the
 revolution destined to overthrow the Tsar. Fortunately, the workers ignored
 the Bolshevik 'directives' and went on strike anyway . . . Had the workers
 followed its guidance, it is doubtful that the revolution would have occurred
-when it did."_ [Murray Bookchin, **Post-Scarcity Anarchism**, p. 123]
+when it did."_ [Murray Bookchin, **Post-Scarcity Anarchism** , p. 123]
 
 The revolution carried on in this vein of direct action from below until the
 new, "socialist" state was powerful enough to stop it.
@@ -873,15 +875,15 @@ push the revolution forward. This meant a sharp break with previous Marxist
 positions, leading one ex-Bolshevik turned Menshevik to comment that Lenin had
 _"made himself a candidate for one European throne that has been vacant for
 thirty years -- the throne of Bakunin!"_ [quoted by Alexander Rabinowitch,
-**Prelude to Revolution**, p. 40] The Bolsheviks now turned to winning mass
+**Prelude to Revolution** , p. 40] The Bolsheviks now turned to winning mass
 support, championing direct action and supporting the radical actions of the
-masses, policies in the past associated with anarchism (_"the Bolsheviks
+masses, policies in the past associated with anarchism ( _"the Bolsheviks
 launched . . . slogans which until then had been particularly and insistently
-been voiced by the Anarchists."_ [Voline, **The Unknown Revolution**, p.
+been voiced by the Anarchists."_ [Voline, **The Unknown Revolution** , p.
 210]). Soon they were winning more and more votes in the soviet and factory
 committee elections. As Alexander Berkman argues, the _"Anarchist mottoes
 proclaimed by the Bolsheviks did not fail to bring results. The masses relied
-to their flag."_ [**What is Anarchism?**, p. 120]
+to their flag."_ [ **What is Anarchism?** , p. 120]
 
 The anarchists were also influential at this time. Anarchists were
 particularly active in the movement for workers self-management of production
@@ -893,21 +895,21 @@ soviets, the factory committees, co-operatives and so on. They could also
 influence the direction of struggle. As Alexander Rabinowitch (in his study of
 the July uprising of 1917) notes:
 
-> _ "At the rank-and-file level, particularly within the [Petrograd] garrison
-and at the Kronstadt naval base, there was in fact very little to distinguish
-Bolshevik from Anarchist. . . The Anarchist-Communists and the Bolsheviks
-competed for the support of the same uneducated, depressed, and dissatisfied
-elements of the population, and the fact is that in the summer of 1917, the
-Anarchist-Communists, with the support they enjoyed in a few important
-factories and regiments, possessed an undeniable capacity to influence the
-course of events. Indeed, the Anarchist appeal was great enough in some
-factories and military units to influence the actions of the Bolsheviks
-themselves."_ [**Op. Cit.**, p. 64]
+> _"At the rank-and-file level, particularly within the [Petrograd] garrison
+> and at the Kronstadt naval base, there was in fact very little to
+> distinguish Bolshevik from Anarchist. . . The Anarchist-Communists and the
+> Bolsheviks competed for the support of the same uneducated, depressed, and
+> dissatisfied elements of the population, and the fact is that in the summer
+> of 1917, the Anarchist-Communists, with the support they enjoyed in a few
+> important factories and regiments, possessed an undeniable capacity to
+> influence the course of events. Indeed, the Anarchist appeal was great
+> enough in some factories and military units to influence the actions of the
+> Bolsheviks themselves."_ [ **Op. Cit.** , p. 64]
 
 Indeed, one leading Bolshevik stated in June, 1917 (in response to a rise in
 anarchist influence), _"[b]y fencing ourselves off from the Anarchists, we may
 fence ourselves off from the masses."_ [quoted by Alexander Rabinowitch, **Op.
-Cit.**, p. 102]
+Cit.** , p. 102]
 
 The anarchists operated with the Bolsheviks during the October Revolution
 which overthrew the provisional government. But things changed once the
@@ -918,8 +920,8 @@ the Anarchists, those slogans were sincere and concrete, for they corresponded
 to their principles and called for action entirely in conformity with such
 principles. But with the Bolsheviks, the same slogans meant practical
 solutions totally different from those of the libertarians and did not tally
-with the ideas which the slogans appeared to express."_ [**The Unknown
-Revolution**, p. 210]
+with the ideas which the slogans appeared to express."_ [ **The Unknown
+Revolution** , p. 210]
 
 Take, for example, the slogan _"All power to the Soviets."_ For anarchists it
 meant exactly that -- organs for the working class to run society directly,
@@ -928,7 +930,7 @@ simply the means for a Bolshevik government to be formed over and above the
 soviets. The difference is important, _"for the Anarchists declared, if
 'power' really should belong to the soviets, it could not belong to the
 Bolshevik party, and if it should belong to that Party, as the Bolsheviks
-envisaged, it could not belong to the soviets."_ [Voline, **Op. Cit.**, p.
+envisaged, it could not belong to the soviets."_ [Voline, **Op. Cit.** , p.
 213] Reducing the soviets to simply executing the decrees of the central
 (Bolshevik) government and having their All-Russian Congress be able to recall
 the government (i.e. those with **real** power) does not equal "all power,"
@@ -936,22 +938,22 @@ quite the reverse.
 
 Similarly with the term _"workers' control of production."_ Before the October
 Revolution Lenin saw _"workers' control"_ purely in terms of the _"universal,
-all-embracing workers' control over the capitalists."_ [**Will the Bolsheviks
-Maintain Power?**, p. 52] He did not see it in terms of workers' management of
-production itself (i.e. the abolition of wage labour) via federations of
+all-embracing workers' control over the capitalists."_ [ **Will the Bolsheviks
+Maintain Power?** , p. 52] He did not see it in terms of workers' management
+of production itself (i.e. the abolition of wage labour) via federations of
 factory committees. Anarchists and the workers' factory committees did. As
 S.A. Smith correctly notes, Lenin used _"the term ['workers' control'] in a
 very different sense from that of the factory committees."_ In fact Lenin's
 _"proposals . . . [were] thoroughly statist and centralist in character,
 whereas the practice of the factory committees was essentially local and
-autonomous."_ [**Red Petrograd**, p. 154] For anarchists, _"if the workers'
+autonomous."_ [ **Red Petrograd** , p. 154] For anarchists, _"if the workers'
 organisations were capable of exercising effective control [over their
 bosses], then they also were capable of guaranteeing all production. In such
 an event, private industry could be eliminated quickly but progressively, and
 replaced by collective industry. Consequently, the Anarchists rejected the
 vague nebulous slogan of 'control of production.' They advocated
 **expropriation -- progressive, but immediate -- of private industry by the
-organisations of collective production.**"_ [Voline, **Op. Cit.**, p. 221]
+organisations of collective production.** "_ [Voline, **Op. Cit.** , p. 221]
 
 Once in power, the Bolsheviks systematically undermined the popular meaning of
 workers' control and replaced it with their own, statist conception. _"On
@@ -960,34 +962,34 @@ the [factory] committee leaders sought to bring their model into being. At
 each point the party leadership overruled them. The result was to vest both
 managerial **and** control powers in organs of the state which were
 subordinate to the central authorities, and formed by them."_ [Thomas F.
-Remington, **Building Socialism in Bolshevik Russia**, p. 38] This process
+Remington, **Building Socialism in Bolshevik Russia** , p. 38] This process
 ultimately resulted in Lenin arguing for, and introducing, _"one-man
 management"_ armed with _"dictatorial"_ power (with the manager appointed from
 above by the state) in April 1918. This process is documented in Maurice
-Brinton's **The Bolsheviks and Workers' Control**, which also indicates the
+Brinton's **The Bolsheviks and Workers' Control** , which also indicates the
 clear links between Bolshevik practice and Bolshevik ideology as well as how
 both differed from popular activity and ideas.
 
 Hence the comments by Russian Anarchist Peter Arshinov:
 
-> _ "Another no less important peculiarity is that [the] October [revolution
-of 1917] has two meanings -- that which the working' masses who participated
-in the social revolution gave it, and with them the Anarchist-Communists, and
-that which was given it by the political party [the Marxist-Communists] that
-captured power from this aspiration to social revolution, and which betrayed
-and stifled all further development. An enormous gulf exists between these two
-interpretations of October. The October of the workers and peasants is the
-suppression of the power of the parasite classes in the name of equality and
-self-management. The Bolshevik October is the conquest of power by the party
-of the revolutionary intelligentsia, the installation of its 'State Socialism'
-and of its 'socialist' methods of governing the masses."_ [**The Two
-Octobers**]
+> _"Another no less important peculiarity is that [the] October [revolution of
+> 1917] has two meanings -- that which the working' masses who participated in
+> the social revolution gave it, and with them the Anarchist-Communists, and
+> that which was given it by the political party [the Marxist-Communists] that
+> captured power from this aspiration to social revolution, and which betrayed
+> and stifled all further development. An enormous gulf exists between these
+> two interpretations of October. The October of the workers and peasants is
+> the suppression of the power of the parasite classes in the name of equality
+> and self-management. The Bolshevik October is the conquest of power by the
+> party of the revolutionary intelligentsia, the installation of its 'State
+> Socialism' and of its 'socialist' methods of governing the masses."_ [ **The
+> Two Octobers** ]
 
 Initially, anarchists had supported the Bolsheviks, since the Bolshevik
 leaders had hidden their state-building ideology behind support for the
 soviets (as socialist historian Samuel Farber notes, the anarchists _"had
 actually been an unnamed coalition partner of the Bolsheviks in the October
-Revolution."_ [**Before Stalinism**, p. 126]). However, this support quickly
+Revolution."_ [ **Before Stalinism** , p. 126]). However, this support quickly
 "withered away" as the Bolsheviks showed that they were, in fact, not seeking
 true socialism but were instead securing power for themselves and pushing not
 for collective ownership of land and productive resources but for government
@@ -1003,7 +1005,7 @@ _"Bolshevik armed force usually overthrew the results of these provincial
 elections."_ Also, the _"government continually postponed the new general
 elections to the Petrograd Soviet, the term of which had ended in March 1918.
 Apparently, the government feared that the opposition parties would show
-gains."_ [Samuel Farber, **Op. Cit.**, p. 24 and p. 22] In the Petrograd
+gains."_ [Samuel Farber, **Op. Cit.** , p. 24 and p. 22] In the Petrograd
 elections, the Bolsheviks _"lost the absolute majority in the soviet they had
 previously enjoyed"_ but remained the largest party. However, the results of
 the Petrograd soviet elections were irrelevant as a _"Bolshevik victory was
@@ -1011,9 +1013,9 @@ assured by the numerically quite significant representation now given to trade
 unions, district soviets, factory-shop committees, district workers
 conferences, and Red Army and naval units, in which the Bolsheviks had
 overwhelming strength."_ [Alexander Rabinowitch, _"The Evolution of Local
-Soviets in Petrograd"_, pp. 20-37, **Slavic Review**, Vol. 36, No. 1, p. 36f]
-In other words, the Bolsheviks had undermined the democratic nature of the
-soviet by swamping it by their own delegates. Faced with rejection in the
+Soviets in Petrograd"_ , pp. 20-37, **Slavic Review** , Vol. 36, No. 1, p.
+36f] In other words, the Bolsheviks had undermined the democratic nature of
+the soviet by swamping it by their own delegates. Faced with rejection in the
 soviets, the Bolsheviks showed that for them "soviet power" equalled party
 power. To stay in power, the Bolsheviks had to destroy the soviets, which they
 did. The soviet system remained "soviet" in name only. Indeed, from 1919
@@ -1025,31 +1027,31 @@ the rise of Stalinism).
 The Red Army, moreover, no longer was a democratic organisation. In March of
 1918 Trotsky had abolished the election of officers and soldier committees:
 
-> _ "the principle of election is politically purposeless and technically
-inexpedient, and it has been, in practice, abolished by decree."_ [**Work,
-Discipline, Order**]
+> _"the principle of election is politically purposeless and technically
+> inexpedient, and it has been, in practice, abolished by decree."_ [ **Work,
+> Discipline, Order** ]
 
 As Maurice Brinton correctly summarises:
 
-> _ "Trotsky, appointed Commissar of Military Affairs after Brest-Litovsk, had
-rapidly been reorganising the Red Army. The death penalty for disobedience
-under fire had been restored. So, more gradually, had saluting, special forms
-of address, separate living quarters and other privileges for officers.
-Democratic forms of organisation, including the election of officers, had been
-quickly dispensed with."_ [_"The Bolsheviks and Workers' Control"_, **For
-Workers' Power**, pp. 336-7]
+> _"Trotsky, appointed Commissar of Military Affairs after Brest-Litovsk, had
+> rapidly been reorganising the Red Army. The death penalty for disobedience
+> under fire had been restored. So, more gradually, had saluting, special
+> forms of address, separate living quarters and other privileges for
+> officers. Democratic forms of organisation, including the election of
+> officers, had been quickly dispensed with."_ [ _"The Bolsheviks and Workers'
+> Control"_ , **For Workers' Power** , pp. 336-7]
 
 Unsurprisingly, Samuel Farber notes that _"there is no evidence indicating
 that Lenin or any of the mainstream Bolshevik leaders lamented the loss of
 workers' control or of democracy in the soviets, or at least referred to these
 losses as a retreat, as Lenin declared with the replacement of War Communism
-by NEP in 1921."_ [**Before Stalinism**, p. 44]
+by NEP in 1921."_ [ **Before Stalinism** , p. 44]
 
 Thus after the October Revolution, anarchists started to denounce the
 Bolshevik regime and call for a **_"Third Revolution"_** which would finally
 free the masses from all bosses (capitalist or socialist). They exposed the
 fundamental difference between the rhetoric of Bolshevism (as expressed, for
-example, in Lenin's **State and Revolution**) with its reality. Bolshevism in
+example, in Lenin's **State and Revolution** ) with its reality. Bolshevism in
 power had proved Bakunin's prediction that the _"dictatorship of the
 proletariat"_ would become the _"dictatorship **over** the proletariat"_ by
 the leaders of the Communist Party.
@@ -1057,9 +1059,9 @@ the leaders of the Communist Party.
 The influence of the anarchists started to grow. As Jacques Sadoul (a French
 officer) noted in early 1918:
 
-> _ "The anarchist party is the most active, the most militant of the
-opposition groups and probably the most popular . . . The Bolsheviks are
-anxious."_ [quoted by Daniel Guerin, **Anarchism**, pp. 95-6]
+> _"The anarchist party is the most active, the most militant of the
+> opposition groups and probably the most popular . . . The Bolsheviks are
+> anxious."_ [quoted by Daniel Guerin, **Anarchism** , pp. 95-6]
 
 By April 1918, the Bolsheviks began the physical suppression of their
 anarchist rivals. On April 12th, 1918, the Cheka (the secret police formed by
@@ -1116,23 +1118,23 @@ the people. As any constituted body would do, it will instinctively seek to
 extend its powers, to be beyond public control, to impose its own policies and
 to give priority to its special interests. Having been put in a privileged
 position, the government is already at odds with the people whose strength it
-disposes of."_ [**Anarchy**, p. 34] A highly centralised state such as the
+disposes of."_ [ **Anarchy** , p. 34] A highly centralised state such as the
 Bolsheviks built would reduce accountability to a minimum while at the same
 time accelerating the isolation of the rulers from the ruled. The masses were
 no longer a source of inspiration and power, but rather an alien group whose
 lack of "discipline" (i.e. ability to follow orders) placed the revolution in
 danger. As one Russian Anarchist argued:
 
-> _ "The proletariat is being gradually enserfed by the state. The people are
-being transformed into servants over whom there has arisen a new class of
-administrators -- a new class born mainly form the womb of the so-called
-intelligentsia . . . We do not mean to say . . . that the Bolshevik party set
-out to create a new class system. But we do say that even the best intentions
-and aspirations must inevitably be smashed against the evils inherent in any
-system of centralised power. The separation of management from labour, the
-division between administrators and workers flows logically from
-centralisation. It cannot be otherwise."_ [**The Anarchists in the Russian
-Revolution**, pp. 123-4]
+> _"The proletariat is being gradually enserfed by the state. The people are
+> being transformed into servants over whom there has arisen a new class of
+> administrators -- a new class born mainly form the womb of the so-called
+> intelligentsia . . . We do not mean to say . . . that the Bolshevik party
+> set out to create a new class system. But we do say that even the best
+> intentions and aspirations must inevitably be smashed against the evils
+> inherent in any system of centralised power. The separation of management
+> from labour, the division between administrators and workers flows logically
+> from centralisation. It cannot be otherwise."_ [ **The Anarchists in the
+> Russian Revolution** , pp. 123-4]
 
 For this reason anarchists, while agreeing that there is an uneven development
 of political ideas within the working class, reject the idea that
@@ -1144,21 +1146,22 @@ workers themselves,** grouped . . . in their own class organisations . . . on
 the basis of concrete action and self-government, **helped but not governed,**
 by revolutionaries working in the very midst of, and not above the mass and
 the professional, technical, defence and other branches."_ [Voline, **Op.
-Cit.**, p. 197] By substituting party power for workers power, the Russian
+Cit.** , p. 197] By substituting party power for workers power, the Russian
 Revolution had made its first fatal step. Little wonder that the following
 prediction (from November 1917) made by anarchists in Russia came true:
 
-> _ "Once their power is consolidated and 'legalised', the Bolsheviks who are
-. . . men of centralist and authoritarian action will begin to rearrange the
-life of the country and of the people by governmental and dictatorial methods,
-imposed by the centre. The[y] . . . will dictate the will of the party to all
-Russia, and command the whole nation. **Your Soviets and your other local
-organisations will become little by little, simply executive organs of the
-will of the central government.** In the place of healthy, constructive work
-by the labouring masses, in place of free unification from the bottom, we will
-see the installation of an authoritarian and statist apparatus which would act
-from above and set about wiping out everything that stood in its way with an
-iron hand."_ [quoted by Voline, **Op. Cit.**, p. 235]
+> _"Once their power is consolidated and 'legalised', the Bolsheviks who are .
+> . . men of centralist and authoritarian action will begin to rearrange the
+> life of the country and of the people by governmental and dictatorial
+> methods, imposed by the centre. The[y] . . . will dictate the will of the
+> party to all Russia, and command the whole nation. **Your Soviets and your
+> other local organisations will become little by little, simply executive
+> organs of the will of the central government.** In the place of healthy,
+> constructive work by the labouring masses, in place of free unification from
+> the bottom, we will see the installation of an authoritarian and statist
+> apparatus which would act from above and set about wiping out everything
+> that stood in its way with an iron hand."_ [quoted by Voline, **Op. Cit.** ,
+> p. 235]
 
 The so-called "workers' state" could not be participatory or empowering for
 working class people (as the Marxists claimed) simply because state structures
@@ -1167,14 +1170,15 @@ cannot be transformed into (nor "new" ones created which are) a means of
 liberation for the working classes. As Kropotkin put it, Anarchists _"maintain
 that the State organisation, having been the force to which minorities
 resorted for establishing and organising their power over the masses, cannot
-be the force which will serve to destroy these privileges."_ [**Anarchism**,
+be the force which will serve to destroy these privileges."_ [ **Anarchism** ,
 p. 170] In the words of an anarchist pamphlet written in 1918:
 
-> _ "Bolshevism, day by day and step by step, proves that state power
-possesses inalienable characteristics; it can change its label, its 'theory',
-and its servitors, but in essence it merely remains power and despotism in new
-forms."_ [quoted by Paul Avrich, _"The Anarchists in the Russian Revolution,"_
-pp. 341-350, **Russian Review**, vol. 26, issue no. 4, p. 347]
+> _"Bolshevism, day by day and step by step, proves that state power possesses
+> inalienable characteristics; it can change its label, its 'theory', and its
+> servitors, but in essence it merely remains power and despotism in new
+> forms."_ [quoted by Paul Avrich, _"The Anarchists in the Russian
+> Revolution,"_ pp. 341-350, **Russian Review** , vol. 26, issue no. 4, p.
+> 347]
 
 For insiders, the Revolution had died a few months after the Bolsheviks took
 over. To the outside world, the Bolsheviks and the USSR came to represent
@@ -1209,11 +1213,12 @@ anarchists, this was significant as the repression could not be justified in
 terms of the Civil War (which had ended months before) and because it was a
 major uprising of ordinary people for **_real_** socialism. As Voline puts it:
 
-> _ "Kronstadt was the first entirely independent attempt of the people to
-liberate themselves of all yokes and carry out the Social Revolution: this
-attempt was made directly . . . by the working masses themselves, without
-political shepherds, without leaders or tutors. It was the first step towards
-the third and social revolution."_ [Voline, **Op. Cit.**, pp. 537-8]
+> _"Kronstadt was the first entirely independent attempt of the people to
+> liberate themselves of all yokes and carry out the Social Revolution: this
+> attempt was made directly . . . by the working masses themselves, without
+> political shepherds, without leaders or tutors. It was the first step
+> towards the third and social revolution."_ [Voline, **Op. Cit.** , pp.
+> 537-8]
 
 In the Ukraine, anarchist ideas were most successfully applied. In areas under
 the protection of the Makhnovist movement, working class people organised
@@ -1226,13 +1231,13 @@ instead for working class self-determination in the Ukraine and across the
 world. Makhno inspired his fellow peasants and workers to fight for real
 freedom:
 
-> _ "Conquer or die -- such is the dilemma that faces the Ukrainian peasants
-and workers at this historic moment . . . But we will not conquer in order to
-repeat the errors of the past years, the error of putting our fate into the
-hands of new masters; we will conquer in order to take our destinies into our
-own hands, to conduct our lives according to our own will and our own
-conception of the truth."_ [quoted by Peter Arshinov, **History of the
-Makhnovist Movement**, p. 58]
+> _"Conquer or die -- such is the dilemma that faces the Ukrainian peasants
+> and workers at this historic moment . . . But we will not conquer in order
+> to repeat the errors of the past years, the error of putting our fate into
+> the hands of new masters; we will conquer in order to take our destinies
+> into our own hands, to conduct our lives according to our own will and our
+> own conception of the truth."_ [quoted by Peter Arshinov, **History of the
+> Makhnovist Movement** , p. 58]
 
 To ensure this end, the Makhnovists refused to set up governments in the towns
 and cities they liberated, instead urging the creation of free soviets so that
@@ -1248,29 +1253,29 @@ welcomed this ideas with the greatest enthusiasm . . . Railroad workers took
 the first step . . . They formed a committee charged with organising the
 railway network of the region . . . From this point, the proletariat of
 Aleksandrovsk began to turn systematically to the problem of creating organs
-of self-management."_ [**Op. Cit.**, p. 149]
+of self-management."_ [ **Op. Cit.** , p. 149]
 
 The Makhnovists argued that the _"freedom of the workers and peasants is their
 own, and not subject to any restriction. It is up to the workers and peasants
 themselves to act, to organise themselves, to agree among themselves in all
 aspects of their lives, as they see fit and desire . . . The Makhnovists can
 do no more than give aid and counsel . . . In no circumstances can they, nor
-do they wish to, govern."_ [Peter Arshinov, quoted by Guerin, **Op. Cit.**, p.
-99] In Alexandrovsk, the Bolsheviks proposed to the Makhnovists spheres of
+do they wish to, govern."_ [Peter Arshinov, quoted by Guerin, **Op. Cit.** ,
+p. 99] In Alexandrovsk, the Bolsheviks proposed to the Makhnovists spheres of
 action - their Revkom (Revolutionary Committee) would handle political affairs
 and the Makhnovists military ones. Makhno advised them _"to go and take up
 some honest trade instead of seeking to impose their will on the workers."_
-[Peter Arshinov in **The Anarchist Reader**, p. 141]
+[Peter Arshinov in **The Anarchist Reader** , p. 141]
 
 They also organised free agricultural communes which _"[a]dmittedly . . . were
 not numerous, and included only a minority of the population . . . But what
 was most precious was that these communes were formed by the poor peasants
 themselves. The Makhnovists never exerted any pressure on the peasants,
 confining themselves to propagating the idea of free communes."_ [Arshinov,
-**History of the Makhnovist Movement**, p. 87] Makhno played an important role
-in abolishing the holdings of the landed gentry. The local soviet and their
-district and regional congresses equalised the use of the land between all
-sections of the peasant community. [**Op. Cit.**, pp. 53-4]
+**History of the Makhnovist Movement** , p. 87] Makhno played an important
+role in abolishing the holdings of the landed gentry. The local soviet and
+their district and regional congresses equalised the use of the land between
+all sections of the peasant community. [ **Op. Cit.** , pp. 53-4]
 
 Moreover, the Makhnovists took the time and energy to involve the whole
 population in discussing the development of the revolution, the activities of
@@ -1290,8 +1295,8 @@ they are themselves?"_ and _"[w]hose interests should the revolution defend:
 those of the Party or those of the people who set the revolution in motion
 with their blood?"_ Makhno himself stated that he _"consider[ed] it an
 inviolable right of the workers and peasants, a right won by the revolution,
-to call conferences on their own account, to discuss their affairs."_ [**Op.
-Cit.**, p. 103 and p. 129]
+to call conferences on their own account, to discuss their affairs."_ [ **Op.
+Cit.** , p. 103 and p. 129]
 
 In addition, the Makhnovists _"fully applied the revolutionary principles of
 freedom of speech, of thought, of the press, and of political association. In
@@ -1301,7 +1306,8 @@ on political organisations by one or another power."_ Indeed, the _"only
 restriction that the Makhnovists considered necessary to impose on the
 Bolsheviks, the left Socialist-Revolutionaries and other statists was a
 prohibition on the formation of those 'revolutionary committees' which sought
-to impose a dictatorship over the people."_ [**Op. Cit.**, p. 153 and p. 154]
+to impose a dictatorship over the people."_ [ **Op. Cit.** , p. 153 and p.
+154]
 
 The Makhnovists rejected the Bolshevik corruption of the soviets and instead
 proposed _"the free and completely independent soviet system of working people
@@ -1311,7 +1317,7 @@ which carry out the will and desires of the working people themselves, that is
 to say. ADMINISTRATIVE, not ruling soviets."_ Economically, capitalism would
 be abolished along with the state - the land and workshops _"must belong to
 the working people themselves, to those who work in them, that is to say, they
-must be socialised."_ [**Op. Cit.**, p. 271 and p. 273]
+must be socialised."_ [ **Op. Cit.** , p. 271 and p. 273]
 
 The army itself, in stark contrast to the Red Army, was fundamentally
 democratic (although, of course, the horrific nature of the civil war did
@@ -1358,7 +1364,7 @@ repression. The experience of Bolshevism confirmed Bakunin's prediction that
 Marxism meant _"the highly despotic government of the masses by a new and very
 small aristocracy of real or pretended scholars. The people are not learned,
 so they will be liberated from the cares of government and included in
-entirety in the governed herd."_ [**Statism and Anarchy**, pp. 178-9]
+entirety in the governed herd."_ [ **Statism and Anarchy** , pp. 178-9]
 
 From about 1921 on, anarchists outside of Russia started describing the USSR
 as _"state-capitalist"_ to indicate that although individual bosses might have
@@ -1370,15 +1376,15 @@ Russia under a strongly centralised party dictatorship . . . this effort to
 build a communist republic on the basis of a strongly centralised state
 communism under the iron law of a party dictatorship is bound to end in
 failure. We are learning to know in Russia how **not** to introduce
-communism."_ [**Anarchism**, p. 254]
+communism."_ [ **Anarchism** , p. 254]
 
 This meant exposing that Berkman called **"The Bolshevik Myth,"** the idea
 that the Russian Revolution was a success and should be copied by
 revolutionaries in other countries: _"It is imperative to unmask the great
 delusion, which otherwise might lead the Western workers to the same abyss as
 their brothers [and sisters] in Russia. It is incumbent upon those who have
-seen through the myth to expose its true nature."_ [_"The Anti-Climax'"_,
-**The Bolshevik Myth**, p. 342] Moreover, anarchists felt that it was their
+seen through the myth to expose its true nature."_ [ _"The Anti-Climax'"_ ,
+**The Bolshevik Myth** , p. 342] Moreover, anarchists felt that it was their
 revolutionary duty not only present and learn from the facts of the revolution
 but also show solidarity with those subject to Bolshevik dictatorship. As Emma
 Goldman argued, she had not _"come to Russia expecting to find Anarchism
@@ -1388,11 +1394,11 @@ of the social changes for which the Revolution had been fought."_ She was
 aware that revolutions were difficult, involving _"destruction"_ and
 _"violence."_ That Russia was not perfect was not the source of her vocal
 opposition to Bolshevism. Rather, it was the fact that _"the Russian people
-have been **locked out**"_ of their own revolution by the Bolshevik state
+have been **locked out** "_ of their own revolution by the Bolshevik state
 which used _"the sword and the gun to keep the people out."_ As a
 revolutionary she refused _"to side with the master class, which in Russia is
-called the Communist Party."_ [**My Disillusionment in Russia**, p. xlvii and
-p. xliv]
+called the Communist Party."_ [ **My Disillusionment in Russia** , p. xlvii
+and p. xliv]
 
 For more information on the Russian Revolution and the role played by
 anarchists, see the appendix on [ "The Russian Revolution"](append4.md) of
@@ -1402,7 +1408,7 @@ that failure and whether there were any alternatives to Bolshevism.
 
 The following books are also recommended: **The Unknown Revolution** by
 Voline; **The Guillotine at Work** by G.P. Maximov; **The Bolshevik Myth** and
-**The Russian Tragedy**, both by Alexander Berkman; **The Bolsheviks and
+**The Russian Tragedy** , both by Alexander Berkman; **The Bolsheviks and
 Workers Control** by M. Brinton; **The Kronstadt Uprising** by Ida Mett; **The
 History of the Makhnovist Movement** by Peter Arshinov; **My Disillusionment
 in Russia** and **Living My Life** by Emma Goldman; **Nestor Makhno Anarchy's
@@ -1457,7 +1463,7 @@ councils with a managerial function. By May Day 1919, the internal commissions
 _"were becoming the dominant force within the metalworking industry and the
 unions were in danger of becoming marginal administrative units. Behind these
 alarming developments, in the eyes of reformists, lay the libertarians."_
-[Carl Levy, **Gramsci and the Anarchists**, p. 135] By November 1919 the
+[Carl Levy, **Gramsci and the Anarchists** , p. 135] By November 1919 the
 internal commissions of Turin were transformed into factory councils.
 
 The movement in Turin is usually associated with the weekly **L'Ordine Nuovo**
@@ -1470,7 +1476,7 @@ number of people, especially the anarcho-syndicalist militants of the metal
 trades, Pietro Ferrero and Maurizio Garino. The manifesto of **Ordine Nuovo**
 was signed by socialists and libertarians together, agreeing to regard the
 factory councils as 'organs suited to future communist management of both the
-individual factory and the whole society.'"_ [**Anarchism**, p. 109]
+individual factory and the whole society.'"_ [ **Anarchism** , p. 109]
 
 The developments in Turin should not be taken in isolation. All across Italy,
 workers and peasants were taking action. In late February 1920, a rash of
@@ -1481,16 +1487,16 @@ under syndicalist leadership, they ran the plants through factory councils.
 
 During this period the Italian Syndicalist Union (USI) grew in size to around
 800 000 members and the influence of the Italian Anarchist Union (UAI) with
-its 20 000 members and daily paper (**Umanita Nova**) grew correspondingly. As
-the Welsh Marxist historian Gwyn A. Williams points out _"Anarchists and
+its 20 000 members and daily paper ( **Umanita Nova** ) grew correspondingly.
+As the Welsh Marxist historian Gwyn A. Williams points out _"Anarchists and
 revolutionary syndicalists were the most consistently and totally
 revolutionary group on the left . . . the most obvious feature of the history
 of syndicalism and anarchism in 1919-20: rapid and virtually continuous growth
 . . . The syndicalists above all captured militant working-class opinion which
-the socialist movement was utterly failing to capture."_ [**Proletarian
-Order**, pp. 194-195] In Turin, libertarians _"worked within FIOM"_ and had
+the socialist movement was utterly failing to capture."_ [ **Proletarian
+Order** , pp. 194-195] In Turin, libertarians _"worked within FIOM"_ and had
 been _"heavily involved in the **Ordine Nuovo** campaign from the beginning."_
-[**Op. Cit.**, p. 195] Unsurprisingly, **Ordone Nuovo** was denounced as
+[ **Op. Cit.** , p. 195] Unsurprisingly, **Ordone Nuovo** was denounced as
 "syndicalist" by other socialists.
 
 It was the anarchists and syndicalists who first raised the idea of occupying
@@ -1499,8 +1505,8 @@ workplaces. Malatesta was discussing this idea in **Umanita Nova** in March,
 One must seek something else. We put forward an idea: take-over of factories.
 . . the method certainly has a future, because it corresponds to the ultimate
 ends of the workers' movement and constitutes an exercise preparing one for
-the ultimate act of expropriation."_ [**Errico Malatesta: His Life and
-Ideas**, p. 134] In the same month, during _"a strong syndicalist campaign to
+the ultimate act of expropriation."_ [ **Errico Malatesta: His Life and
+Ideas** , p. 134] In the same month, during _"a strong syndicalist campaign to
 establish councils in Mila, Armando Borghi [anarchist secretary of the USI]
 called for mass factory occupations. In Turin, the re-election of workshop
 commissars was just ending in a two-week orgy of passionate discussion and
@@ -1513,8 +1519,8 @@ first cells of syndicalist industrial unions . . . The syndicalist congress
 voted to support the councils. . . . Malatesta . . . supported them as a form
 of direct action guaranteed to generate rebelliousness . . . **Umanita Nova**
 and **Guerra di Classe** [paper of the USI] became almost as committed to the
-councils as **L'Ordine Nuovo** and the Turin edition of **Avanti.**"_
-[Williams, **Op. Cit.**, p. 200, p. 193 and p. 196]
+councils as **L'Ordine Nuovo** and the Turin edition of **Avanti.** "_
+[Williams, **Op. Cit.** , p. 200, p. 193 and p. 196]
 
 The upsurge in militancy soon provoked an employer counter-offensive. The
 bosses organisation denounced the factory councils and called for a
@@ -1549,16 +1555,16 @@ their call.
 
 The only support for the Turin general strike came from unions that were
 mainly under anarcho-syndicalist influence, such as the independent railway
-and the maritime workers unions (_"The syndicalists were the only ones to
-move."_). The railway workers in Pisa and Florence refused to transport troops
-who were being sent to Turin. There were strikes all around Genoa, among dock
-workers and in workplaces where the USI was a major influence. So in spite of
-being _"betrayed and abandoned by the whole socialist movement,"_ the April
-movement _"still found popular support"_ with _"actions . . . either directly
-led or indirectly inspired by anarcho-syndicalists."_ In Turin itself, the
-anarchists and syndicalists were _"threatening to cut the council movement out
-from under"_ Gramsci and the **Ordine Nuovo** group. [Williams, **Op. Cit.**,
-p. 207, p. 193 and p. 194]
+and the maritime workers unions ( _"The syndicalists were the only ones to
+move."_ ). The railway workers in Pisa and Florence refused to transport
+troops who were being sent to Turin. There were strikes all around Genoa,
+among dock workers and in workplaces where the USI was a major influence. So
+in spite of being _"betrayed and abandoned by the whole socialist movement,"_
+the April movement _"still found popular support"_ with _"actions . . . either
+directly led or indirectly inspired by anarcho-syndicalists."_ In Turin
+itself, the anarchists and syndicalists were _"threatening to cut the council
+movement out from under"_ Gramsci and the **Ordine Nuovo** group. [Williams,
+**Op. Cit.** , p. 207, p. 193 and p. 194]
 
 Eventually the CGL leadership settled the strike on terms that accepted the
 employers' main demand for limiting the shop stewards' councils to non-working
@@ -1574,7 +1580,7 @@ the leaders' to the other discipline of the workers of Sestri Ponente who
 struck in solidarity with Turin, the discipline of the railway workers who
 refused to transport security forces to Turin and the anarchists and members
 of the Unione Sindacale who forgot considerations of party and sect to put
-themselves at the disposition of the Torinesi."_ [Carl Levy, **Op. Cit.**, p.
+themselves at the disposition of the Torinesi."_ [Carl Levy, **Op. Cit.** , p.
 161] Sadly, this top-down "discipline" of the socialists and their unions
 would be repeated during the factory occupations, with terrible results.
 
@@ -1584,40 +1590,40 @@ crisis was the rise of the syndicalists."_ In mid-August, the USI metal-
 workers _"called for both unions to occupy the factories"_ and called for _"a
 preventive occupation"_ against lock-outs. The USI saw this as the
 _"expropriation of the factories by the metal-workers"_ (which must _"be
-defended by all necessary measures"_) and saw the need _"to call the workers
-of other industries into battle."_ [Williams, **Op. Cit.**, p. 236, pp. 238-9]
-Indeed, _"[i]f the FIOM had not embraced the syndicalist idea of an occupation
-of factories to counter an employer's lockout, the USI may well have won
-significant support from the politically active working class of Turin."_
-[Carl Levy, **Op. Cit.**, p. 129] These strikes began in the engineering
-factories and soon spread to railways, road transport, and other industries,
-with peasants seizing land. The strikers, however, did more than just occupy
-their workplaces, they placed them under workers' self-management. Soon over
-500 000 "strikers" were at work, producing for themselves. Errico Malatesta,
-who took part in these events, writes:
+defended by all necessary measures"_ ) and saw the need _"to call the workers
+of other industries into battle."_ [Williams, **Op. Cit.** , p. 236, pp.
+238-9] Indeed, _"[i]f the FIOM had not embraced the syndicalist idea of an
+occupation of factories to counter an employer's lockout, the USI may well
+have won significant support from the politically active working class of
+Turin."_ [Carl Levy, **Op. Cit.** , p. 129] These strikes began in the
+engineering factories and soon spread to railways, road transport, and other
+industries, with peasants seizing land. The strikers, however, did more than
+just occupy their workplaces, they placed them under workers' self-management.
+Soon over 500 000 "strikers" were at work, producing for themselves. Errico
+Malatesta, who took part in these events, writes:
 
-> _ "The metal workers started the movement over wage rates. It was a strike
-of a new kind. Instead of abandoning the factories, the idea was to remain
-inside without working . . . Throughout Italy there was a revolutionary
-fervour among the workers and soon the demands changed their characters.
-Workers thought that the moment was ripe to take possession once [and] for all
-the means of production. They armed for defence . . . and began to organise
-production on their own . . . It was the right of property abolished in fact .
-. .; it was a new regime, a new form of social life that was being ushered in.
-And the government stood by because it felt impotent to offer opposition."_
-[**Errico Malatesta: His Life and Ideas**, p. 134]
+> _"The metal workers started the movement over wage rates. It was a strike of
+> a new kind. Instead of abandoning the factories, the idea was to remain
+> inside without working . . . Throughout Italy there was a revolutionary
+> fervour among the workers and soon the demands changed their characters.
+> Workers thought that the moment was ripe to take possession once [and] for
+> all the means of production. They armed for defence . . . and began to
+> organise production on their own . . . It was the right of property
+> abolished in fact . . .; it was a new regime, a new form of social life that
+> was being ushered in. And the government stood by because it felt impotent
+> to offer opposition."_ [ **Errico Malatesta: His Life and Ideas** , p. 134]
 
 Daniel Guerin provides a good summary of the extent of the movement:
 
-> _ "The management of the factories . . . [was] conducted by technical and
-administrative workers' committees. Self-management went quite a long way: in
-the early period assistance was obtained from the banks, but when it was
-withdrawn the self-management system issued its own money to pay the workers'
-wages. Very strict self-discipline was required, the use of alcoholic
-beverages forbidden, and armed patrols were organised for self-defence. Very
-close solidarity was established between the factories under self-management.
-Ores and coal were put into a common pool, and shared out equitably."_
-[**Anarchism**, p. 109]
+> _"The management of the factories . . . [was] conducted by technical and
+> administrative workers' committees. Self-management went quite a long way:
+> in the early period assistance was obtained from the banks, but when it was
+> withdrawn the self-management system issued its own money to pay the
+> workers' wages. Very strict self-discipline was required, the use of
+> alcoholic beverages forbidden, and armed patrols were organised for self-
+> defence. Very close solidarity was established between the factories under
+> self-management. Ores and coal were put into a common pool, and shared out
+> equitably."_ [ **Anarchism** , p. 109]
 
 Italy was _"paralysed, with half a million workers occupying their factories
 and raising red and black flags over them."_ The movement spread throughout
@@ -1627,15 +1633,15 @@ certainly in the forefront of the movement,"_ while **Umanita Nova** argued
 that _"the movement is very serious and we must do everything we can to
 channel it towards a massive extension."_ The persistent call of the USI was
 for _"an extension of the movement to the whole of industry to institute their
-'expropriating general strike.'"_ [Williams, **Op. Cit.**, p. 236 and pp.
+'expropriating general strike.'"_ [Williams, **Op. Cit.** , p. 236 and pp.
 243-4] Railway workers, influenced by the libertarians, refused to transport
 troops, workers went on strike against the orders of the reformist unions and
 peasants occupied the land. The anarchists whole-heartedly supported the
 movement, unsurprisingly as the _"occupation of the factories and the land
-suited perfectly our programme of action."_ [Malatesta, **Op. Cit.**, p. 135]
+suited perfectly our programme of action."_ [Malatesta, **Op. Cit.** , p. 135]
 Luigi Fabbri described the occupations as having _"revealed a power in the
 proletariat of which it had been unaware hitherto."_ [quoted by Paolo Sprinao,
-**The Occupation of the Factories**, p. 134]
+**The Occupation of the Factories** , p. 134]
 
 However, after four weeks of occupation, the workers decided to leave the
 factories. This was because of the actions of the socialist party and the
@@ -1651,19 +1657,19 @@ independent inter-factory organisation made workers dependent on trade union
 bureaucrats for information on what was going on in other cities, and they
 used that power to isolate factories, cities, and factories from each other.
 This lead to a return to work, _"in spite of the opposition of individual
-anarchists dispersed among the factories."_ [Malatesta, **Op. Cit.**, p. 136]
+anarchists dispersed among the factories."_ [Malatesta, **Op. Cit.** , p. 136]
 The local syndicalist union confederations could not provide the necessary
 framework for a fully co-ordinated occupation movement as the reformist unions
 refused to work with them; and although the anarchists were a large minority,
 they were still a minority:
 
-> _ "At the 'interproletarian' convention held on 12 September (in which the
-Unione Anarchia, the railwaymen's and maritime workers union participated) the
-syndicalist union decided that 'we cannot do it ourselves' without the
-socialist party and the CGL, protested against the 'counter-revolutionary
-vote' of Milan, declared it minoritarian, arbitrary and null, and ended by
-launching new, vague, but ardent calls to action."_ [Paolo Spriano, **Op.
-Cit.**, p. 94]
+> _"At the 'interproletarian' convention held on 12 September (in which the
+> Unione Anarchia, the railwaymen's and maritime workers union participated)
+> the syndicalist union decided that 'we cannot do it ourselves' without the
+> socialist party and the CGL, protested against the 'counter-revolutionary
+> vote' of Milan, declared it minoritarian, arbitrary and null, and ended by
+> launching new, vague, but ardent calls to action."_ [Paolo Spriano, **Op.
+> Cit.** , p. 94]
 
 Malatesta addressed the workers of one of the factories at Milan. He argued
 that _"[t]hose who celebrate the agreement signed at Rome [between the
@@ -1673,30 +1679,30 @@ bourgeoisie who are saved from the precipice over which they were hanging."_
 During the occupation the _"bourgeoisie trembled, the government was powerless
 to face the situation."_ Therefore:
 
-> _ "To speak of victory when the Roman agreement throws you back under
-bourgeois exploitation which you could have got rid of is a lie. If you give
-up the factories, do this with the conviction [of] hav[ing] lost a great
-battle and with the firm intention to resume the struggle on the first
-occasion and to carry it on in a thorough way. . . Nothing is lost if you have
-no illusion [about] the deceiving character of the victory. The famous decree
-on the control of factories is a mockery . . . because it tends to harmonise
-your interests and those of the bourgeois which is like harmonising the
-interests of the wolf and the sheep. Don't believe those of your leaders who
-make fools of you by adjourning the revolution from day to day. You yourselves
-must make the revolution when an occasion will offer itself, without waiting
-for orders which never come, or which come only to enjoin you to abandon
-action. Have confidence in yourselves, have faith in your future and you will
-win."_ [quoted by Max Nettlau, **Errico Malatesta: The Biography of an
-Anarchist**]
+> _"To speak of victory when the Roman agreement throws you back under
+> bourgeois exploitation which you could have got rid of is a lie. If you give
+> up the factories, do this with the conviction [of] hav[ing] lost a great
+> battle and with the firm intention to resume the struggle on the first
+> occasion and to carry it on in a thorough way. . . Nothing is lost if you
+> have no illusion [about] the deceiving character of the victory. The famous
+> decree on the control of factories is a mockery . . . because it tends to
+> harmonise your interests and those of the bourgeois which is like
+> harmonising the interests of the wolf and the sheep. Don't believe those of
+> your leaders who make fools of you by adjourning the revolution from day to
+> day. You yourselves must make the revolution when an occasion will offer
+> itself, without waiting for orders which never come, or which come only to
+> enjoin you to abandon action. Have confidence in yourselves, have faith in
+> your future and you will win."_ [quoted by Max Nettlau, **Errico Malatesta:
+> The Biography of an Anarchist** ]
 
 Malatesta was proven correct. With the end of the occupations, the only
 victors were the bourgeoisie and the government. Soon the workers would face
 Fascism, but first, in October 1920, _"after the factories were evacuated,"_
 the government (obviously knowing who the real threat was) _"arrested the
-entire leadership of the USI and UAI. The socialists did not respond"_ and _
-"more-or-less ignored the persecution of the libertarians until the spring of
+entire leadership of the USI and UAI. The socialists did not respond"_ and
+_"more-or-less ignored the persecution of the libertarians until the spring of
 1921 when the aged Malatesta and other imprisoned anarchists mounted a hunger
-strike from their cells in Milan."_ [Carl Levy, **Op. Cit.**, pp. 221-2] They
+strike from their cells in Milan."_ [Carl Levy, **Op. Cit.** , pp. 221-2] They
 were acquitted after a four day trial.
 
 The events of 1920 show four things. Firstly, that workers can manage their
@@ -1714,35 +1720,35 @@ crippled and could not develop to its full potential.
 
 This period of Italian history explains the growth of Fascism in Italy. As
 Tobias Abse points out, _"the rise of fascism in Italy cannot be detached from
-the events of the **biennio rosso**, the two red years of 1919 and 1920, that
+the events of the **biennio rosso** , the two red years of 1919 and 1920, that
 preceded it. Fascism was a preventive counter-revolution . . . launched as a
-result of the failed revolution"_ [_"The Rise of Fascism in an Industrial
-City"_, pp. 52-81, **Rethinking Italian Fascism**, David Forgacs (ed.), p. 54]
-The term _"preventive counter-revolution"_ was originally coined by the
+result of the failed revolution"_ [ _"The Rise of Fascism in an Industrial
+City"_ , pp. 52-81, **Rethinking Italian Fascism** , David Forgacs (ed.), p.
+54] The term _"preventive counter-revolution"_ was originally coined by the
 leading anarchist Luigi Fabbri, who correctly described fascism as _"the
 organisation and agent of the violent armed defence of the ruling class
 against the proletariat, which, to their mind, has become unduly demanding,
-united and intrusive."_ [_"Fascism: The Preventive Counter-Revolution"_, pp.
-408-416, **Anarchism**, Robert Graham (ed.), p. 410 and p. 409]
+united and intrusive."_ [ _"Fascism: The Preventive Counter-Revolution"_ , pp.
+408-416, **Anarchism** , Robert Graham (ed.), p. 410 and p. 409]
 
 The rise of fascism confirmed Malatesta's warning at the time of the factory
 occupations: _"If we do not carry on to the end, we will pay with tears of
 blood for the fear we now instil in the bourgeoisie."_ [quoted by Tobias Abse,
-**Op. Cit.**, p. 66] The capitalists and rich landowners backed the fascists
+**Op. Cit.** , p. 66] The capitalists and rich landowners backed the fascists
 in order to teach the working class their place, aided by the state. They
 ensured _"that it was given every assistance in terms of funding and arms,
 turning a blind eye to its breaches of the law and, where necessary, covering
 its back through intervention by armed forces which, on the pretext of
 restoring order, would rush to the aid of the fascists wherever the latter
 were beginning to take a beating instead of doling one out."_ [Fabbri, **Op.
-Cit.**, p. 411] To quote Tobias Abse:
+Cit.** , p. 411] To quote Tobias Abse:
 
 > _"The aims of the Fascists and their backers amongst the industrialists and
-agrarians in 1921-22 were simple: to break the power of the organised workers
-and peasants as completely as possible, to wipe out, with the bullet and the
-club, not only the gains of the **biennio rosso**, but everything that the
-lower classes had gained . . . between the turn of the century and the
-outbreak of the First World War."_ [**Op. Cit.**, p. 54]
+> agrarians in 1921-22 were simple: to break the power of the organised
+> workers and peasants as completely as possible, to wipe out, with the bullet
+> and the club, not only the gains of the **biennio rosso** , but everything
+> that the lower classes had gained . . . between the turn of the century and
+> the outbreak of the First World War."_ [ **Op. Cit.** , p. 54]
 
 The fascist squads attacked and destroyed anarchist and socialist meeting
 places, social centres, radical presses and Camera del Lavoro (local trade
@@ -1750,40 +1756,40 @@ union councils). However, even in the dark days of fascist terror, the
 anarchists resisted the forces of totalitarianism. _"It is no coincidence that
 the strongest working-class resistance to Fascism was in . . . towns or cities
 in which there was quite a strong anarchist, syndicalist or anarcho-
-syndicalist tradition."_ [Tobias Abse, **Op. Cit.**, p. 56]
+syndicalist tradition."_ [Tobias Abse, **Op. Cit.** , p. 56]
 
 The anarchists participated in, and often organised sections of, the **Arditi
-del Popolo**, a working-class organisation devoted to the self-defence of
+del Popolo** , a working-class organisation devoted to the self-defence of
 workers' interests. The Arditi del Popolo organised and encouraged working-
 class resistance to fascist squads, often defeating larger fascist forces (for
 example, _"the total humiliation of thousands of Italo Balbo's squadristi by a
 couple of hundred Arditi del Popolo backed by the inhabitants of the working
 class districts"_ in the anarchist stronghold of Parma in August 1922 [Tobias
-Abse, **Op. Cit.**, p. 56]).
+Abse, **Op. Cit.** , p. 56]).
 
 The Arditi del Popolo was the closest Italy got to the idea of a united,
 revolutionary working-class front against fascism, as had been suggested by
 Malatesta and the UAI. This movement _"developed along anti-bourgeois and
 anti-fascist lines, and was marked by the independence of its local
-sections."_ [**Red Years, Black Years: Anarchist Resistance to Fascism in
-Italy**, p. 2] Rather than being just an "anti-fascist" organisation, the
+sections."_ [ **Red Years, Black Years: Anarchist Resistance to Fascism in
+Italy** , p. 2] Rather than being just an "anti-fascist" organisation, the
 Arditi _"were not a movement in defence of 'democracy' in the abstract, but an
 essentially working-class organisation devoted to the defence of the interests
 of industrial workers, the dockers and large numbers of artisans and
-craftsmen."_ [Tobias Abse, **Op. Cit.**, p. 75] Unsurprisingly, the **Arditi
+craftsmen."_ [Tobias Abse, **Op. Cit.** , p. 75] Unsurprisingly, the **Arditi
 del Popolo** _"appear to have been strongest and most successful in areas
 where traditional working-class political culture was less exclusively
 socialist and had strong anarchist or syndicalist traditions, for example,
 Bari, Livorno, Parma and Rome."_ [Antonio Sonnessa, _"Working Class Defence
 Organisation, Anti-Fascist Resistance and the **Arditi del Popolo** in Turin,
-1919-22,"_ pp. 183-218, **European History Quarterly**, vol. 33, no. 2, p.
+1919-22,"_ pp. 183-218, **European History Quarterly** , vol. 33, no. 2, p.
 184]
 
 However, both the socialist and communist parties withdrew from the
 organisation. The socialists signed a "Pact of Pacification" with the Fascists
 in August 1921. The communists _"preferred to withdraw their members from the
-Arditi del Popolo rather than let them work with the anarchists."_ [**Red
-Years, Black Years**, p. 17] Indeed, _"[o]n the same day as the Pact was
+Arditi del Popolo rather than let them work with the anarchists."_ [ **Red
+Years, Black Years** , p. 17] Indeed, _"[o]n the same day as the Pact was
 signed, **Ordine Nuovo** published a PCd'I [Communist Party of Italy]
 communication warning communists against involvement"_ in the Arditi del
 Popolo. Four days later, the Communist leadership _"officially abandoned the
@@ -1795,7 +1801,7 @@ not always sympathetic to the programme of the [Arditi del Popolo], did not
 abandon the movement."_ Indeed, **Umanita Nova** _"strongly supported"_ it
 _"on the grounds it represented a popular expression of anti-fascist
 resistance and in defence of freedom to organise."_ [Antonio Sonnessa, **Op.
-Cit.**, p. 195 and p. 194]
+Cit.** , p. 195 and p. 194]
 
 However, in spite of the decisions by their leaders, many rank and file
 socialists and communists took part in the movement. The latter took part in
@@ -1809,7 +1815,7 @@ which were unresponsive to the needs of the popular movement. Indeed, these
 events show the _"libertarian custom of autonomy from, and resistance to,
 authority was also operated against the leaders of the workers' movement,
 particularly when they were held to have misunderstood the situation at grass
-roots level."_ [Sonnessa, **Op. Cit.**, p. 200, p. 198 and p. 193]
+roots level."_ [Sonnessa, **Op. Cit.** , p. 200, p. 198 and p. 193]
 
 Thus the Communist Party failed to support the popular resistance to fascism.
 The Communist leader Antonio Gramsci explained why, arguing that _"the party
@@ -1817,39 +1823,39 @@ leadership's attitude on the question of the Arditi del Popolo . . .
 corresponded to a need to prevent the party members from being controlled by a
 leadership that was not the party's leadership."_ Gramsci added that this
 policy _"served to disqualify a mass movement which had started from below and
-which could instead have been exploited by us politically."_ [**Selections
-from Political Writings (1921-1926)**, p. 333] While being less sectarian
+which could instead have been exploited by us politically."_ [ **Selections
+from Political Writings (1921-1926)** , p. 333] While being less sectarian
 towards the Arditi del Popolo than other Communist leaders, _"[i]n common with
 all communist leaders, Gramsci awaited the formation of the PCd'I-led military
-squads."_ [Sonnessa, **Op. Cit.**, p. 196] In other words, the struggle
+squads."_ [Sonnessa, **Op. Cit.** , p. 196] In other words, the struggle
 against fascism was seen by the Communist leadership as a means of gaining
 more members and, when the opposite was a possibility, they preferred defeat
 and fascism rather than risk their followers becoming influenced by anarchism.
 
 As Abse notes, _"it was the withdrawal of support by the Socialist and
-Communist parties at the national level that crippled"_ the Arditi. [**Op.
-Cit.**, p. 74] Thus _"social reformist defeatism and communist sectarianism
+Communist parties at the national level that crippled"_ the Arditi. [ **Op.
+Cit.** , p. 74] Thus _"social reformist defeatism and communist sectarianism
 made impossible an armed opposition that was widespread and therefore
 effective; and the isolated instances of popular resistance were unable to
 unite in a successful strategy."_ And fascism could have been defeated:
 _"Insurrections at Sarzanna, in July 1921, and at Parma, in August 1922, are
 examples of the correctness of the policies which the anarchists urged in
-action and propaganda."_ [**Red Years, Black Years**, p. 3 and p. 2] Historian
-Tobias Abse confirms this analysis, arguing that _"[w]hat happened in Parma in
-August 1922 . . . could have happened elsewhere, if only the leadership of the
-Socialist and Communist parties thrown their weight behind the call of the
-anarchist Malatesta for a united revolutionary front against Fascism."_ [**Op.
-Cit.**, p. 56]
+action and propaganda."_ [ **Red Years, Black Years** , p. 3 and p. 2]
+Historian Tobias Abse confirms this analysis, arguing that _"[w]hat happened
+in Parma in August 1922 . . . could have happened elsewhere, if only the
+leadership of the Socialist and Communist parties thrown their weight behind
+the call of the anarchist Malatesta for a united revolutionary front against
+Fascism."_ [ **Op. Cit.** , p. 56]
 
 In the end, fascist violence was successful and capitalist power maintained:
 
-> _ "The anarchists' will and courage were not enough to counter the fascist
-gangs, powerfully aided with material and arms, backed by the repressive
-organs of the state. Anarchists and anarcho-syndicalists were decisive in some
-areas and in some industries, but only a similar choice of direct action on
-the parts of the Socialist Party and the General Confederation of Labour [the
-reformist trade union] could have halted fascism."_ [**Red Years, Black
-Years**, pp. 1-2]
+> _"The anarchists' will and courage were not enough to counter the fascist
+> gangs, powerfully aided with material and arms, backed by the repressive
+> organs of the state. Anarchists and anarcho-syndicalists were decisive in
+> some areas and in some industries, but only a similar choice of direct
+> action on the parts of the Socialist Party and the General Confederation of
+> Labour [the reformist trade union] could have halted fascism."_ [ **Red
+> Years, Black Years** , pp. 1-2]
 
 After helping to defeat the revolution, the Marxists helped ensure the victory
 of fascism.
@@ -1860,7 +1866,7 @@ in fighting fascist influence in their communities, none more so that Carlo
 Tresca, most famous for his role in the 1912 IWW Lawrence strike, who _"in the
 1920s had no peer among anti-Fascist leaders, a distinction recognised by
 Mussolini's political police in Rome."_ [Nunzio Pernicone, **Carlo Tresca:
-Portrait of a Rebel**, p. 4] Many Italians, both anarchist and non-anarchist,
+Portrait of a Rebel** , p. 4] Many Italians, both anarchist and non-anarchist,
 travelled to Spain to resist Franco in 1936 (see Umberto Marzochhi's
 **Remembering Spain: Italian Anarchist Volunteers in the Spanish Civil War**
 for details). During the Second World War, anarchists played a major part in
@@ -1874,29 +1880,29 @@ Given this history of resisting fascism in Italy, it is surprising that some
 claim Italian fascism was a product or form of syndicalism. This is even
 claimed by some anarchists. According to Bob Black the _"Italian syndicalists
 mostly went over to Fascism"_ and references David D. Roberts 1979 study **The
-Syndicalist Tradition and Italian Fascism** to support his claim. [**Anarchy
-after Leftism**, p. 64] Peter Sabatini in a review in **Social Anarchism**
+Syndicalist Tradition and Italian Fascism** to support his claim. [ **Anarchy
+after Leftism** , p. 64] Peter Sabatini in a review in **Social Anarchism**
 makes a similar statement, saying that syndicalism's _"ultimate failure"_ was
-_"its transformation into a vehicle of fascism."_ [**Social Anarchism**, no.
+_"its transformation into a vehicle of fascism."_ [ **Social Anarchism** , no.
 23, p. 99] What is the truth behind these claims?
 
 Looking at Black's reference we discover that, in fact, most of the Italian
 syndicalists did not go over to fascism, if by syndicalists we mean members of
 the USI (the Italian Syndicalist Union). Roberts states that:
 
-> _ "The vast majority of the organised workers failed to respond to the
-syndicalists' appeals and continued to oppose [Italian] intervention [in the
-First World War], shunning what seemed to be a futile capitalist war. The
-syndicalists failed to convince even a majority within the USI . . . the
-majority opted for the neutralism of Armando Borghi, leader of the anarchists
-within the USI. Schism followed as De Ambris led the interventionist minority
-out of the confederation."_ [**The Syndicalist Tradition and Italian
-Fascism**, p. 113]
+> _"The vast majority of the organised workers failed to respond to the
+> syndicalists' appeals and continued to oppose [Italian] intervention [in the
+> First World War], shunning what seemed to be a futile capitalist war. The
+> syndicalists failed to convince even a majority within the USI . . . the
+> majority opted for the neutralism of Armando Borghi, leader of the
+> anarchists within the USI. Schism followed as De Ambris led the
+> interventionist minority out of the confederation."_ [ **The Syndicalist
+> Tradition and Italian Fascism** , p. 113]
 
 However, if we take "syndicalist" to mean some of the intellectuals and
 "leaders" of the pre-war movement, it was a case that the _"leading
 syndicalists came out for intervention quickly and almost unanimously"_
-[Roberts, **Op. Cit.**, p. 106] after the First World War started. Many of
+[Roberts, **Op. Cit.** , p. 106] after the First World War started. Many of
 these pro-war "leading syndicalists" did become fascists. However, to
 concentrate on a handful of "leaders" (which the majority did not even
 follow!) and state that this shows that the _"Italian syndicalists mostly went
@@ -1911,14 +1917,14 @@ syndicalist doctrine was more clearly the product of a group of intellectuals,
 operating within the Socialist party and seeking an alternative to
 reformism."_ They _"explicitly denounced anarchism"_ and _"insisted on a
 variety of Marxist orthodoxy."_ The _"syndicalists genuinely desired -- and
-tried -- to work within the Marxist tradition."_ [**Op. Cit.**, p. 66, p. 72,
-p. 57 and p. 79] According to Carl Levy, in his account of Italian anarchism,
-_"[u]nlike other syndicalist movements, the Italian variation coalesced inside
-a Second International party. Supporter were partially drawn from socialist
-intransigents . . . the southern syndicalist intellectuals pronounced
-republicanism . . . Another component . . . was the remnant of the Partito
-Operaio."_ [_"Italian Anarchism: 1870-1926"_ in **For Anarchism: History,
-Theory, and Practice**, David Goodway (Ed.), p. 51]
+tried -- to work within the Marxist tradition."_ [ **Op. Cit.** , p. 66, p.
+72, p. 57 and p. 79] According to Carl Levy, in his account of Italian
+anarchism, _"[u]nlike other syndicalist movements, the Italian variation
+coalesced inside a Second International party. Supporter were partially drawn
+from socialist intransigents . . . the southern syndicalist intellectuals
+pronounced republicanism . . . Another component . . . was the remnant of the
+Partito Operaio."_ [ _"Italian Anarchism: 1870-1926"_ in **For Anarchism:
+History, Theory, and Practice** , David Goodway (Ed.), p. 51]
 
 In other words, the Italian syndicalists who turned to fascism were, firstly,
 a small minority of intellectuals who could not convince the majority within
@@ -1933,7 +1939,7 @@ which bore similarities to the populist and republican rhetoric of the
 southern syndicalist intellectuals."_ He argues that there _"has been far too
 much emphasis on syndicalist intellectuals and national organisers"_ and that
 syndicalism _"relied little on its national leadership for its long-term
-vitality."_ [**Op. Cit.**, p. 77, p. 53 and p. 51] If we do look at the
+vitality."_ [ **Op. Cit.** , p. 77, p. 53 and p. 51] If we do look at the
 membership of the USI, rather than finding a group which _"mostly went over to
 fascism,"_ we discover a group of people who fought fascism tooth and nail and
 were subject to extensive fascist violence.
@@ -1965,15 +1971,16 @@ continued effectively; workers in farms and factories proved quite capable of
 managing their affairs without coercion from above, contrary to what lots of
 socialists, communists, liberals and other wanted to believe."_ The revolution
 of 1936 was _"based on three generations of experiment and thought and work
-which extended anarchist ideas to very large parts of the population."_
-[**Radical Priorities**, p. 212]
+which extended anarchist ideas to very large parts of the population."_ [
+**Radical Priorities** , p. 212]
 
 Due to this anarchist organising and agitation, Spain in the 1930's had the
 largest anarchist movement in the world. At the start of the Spanish "Civil"
 war, over one and one half million workers and peasants were members of the
-CNT (the **_National Confederation of Labour_**), an anarcho-syndicalist union
-federation, and 30,000 were members of the FAI (the **_Anarchist Federation of
-Iberia_**). The total population of Spain at this time was 24 million.
+CNT (the **_National Confederation of Labour_** ), an anarcho-syndicalist
+union federation, and 30,000 were members of the FAI (the **_Anarchist
+Federation of Iberia_** ). The total population of Spain at this time was 24
+million.
 
 The social revolution which met the Fascist coup on July 18th, 1936, is the
 greatest experiment in libertarian socialism to date. Here the last mass
@@ -2000,26 +2007,27 @@ December, 1936, gives a vivid picture of the social transformation that had
 begun:
 
 > _"The Anarchists were still in virtual control of Catalonia and the
-revolution was still in full swing. To anyone who had been there since the
-beginning it probably seemed even in December or January that the
-revolutionary period was ending; but when one came straight from England the
-aspect of Barcelona was something startling and overwhelming. It was the first
-time that I had ever been in a town where the working class was in the saddle.
-Practically every building of any size had been seized by the workers and was
-draped with red flags or with the red and black flag of the Anarchists; every
-wall was scrawled with the hammer and sickle and with the initials of the
-revolutionary parties; almost every church had been gutted and its images
-burnt. Churches here and there were being systematically demolished by gangs
-of workman. Every shop and cafe had an inscription saying that it had been
-collectivised; even the bootblacks had been collectivised and their boxes
-painted red and black. Waiters and shop-walkers looked you in the face and
-treated you as an equal. Servile and even ceremonial forms of speech had
-temporarily disappeared. Nobody said 'Señor' or 'Don' or even 'Usted';
-everyone called everyone else 'Comrade' or 'Thou', and said 'Salud!' instead
-of 'Buenos dias'. . . Above all, there was a belief in the revolution and the
-future, a feeling of having suddenly emerged into an era of equality and
-freedom. Human beings were trying to behave as human beings and not as cogs in
-the capitalist machine."_ [**Homage to Catalonia**, pp. 2-3]
+> revolution was still in full swing. To anyone who had been there since the
+> beginning it probably seemed even in December or January that the
+> revolutionary period was ending; but when one came straight from England the
+> aspect of Barcelona was something startling and overwhelming. It was the
+> first time that I had ever been in a town where the working class was in the
+> saddle. Practically every building of any size had been seized by the
+> workers and was draped with red flags or with the red and black flag of the
+> Anarchists; every wall was scrawled with the hammer and sickle and with the
+> initials of the revolutionary parties; almost every church had been gutted
+> and its images burnt. Churches here and there were being systematically
+> demolished by gangs of workman. Every shop and cafe had an inscription
+> saying that it had been collectivised; even the bootblacks had been
+> collectivised and their boxes painted red and black. Waiters and shop-
+> walkers looked you in the face and treated you as an equal. Servile and even
+> ceremonial forms of speech had temporarily disappeared. Nobody said 'Señor'
+> or 'Don' or even 'Usted'; everyone called everyone else 'Comrade' or 'Thou',
+> and said 'Salud!' instead of 'Buenos dias'. . . Above all, there was a
+> belief in the revolution and the future, a feeling of having suddenly
+> emerged into an era of equality and freedom. Human beings were trying to
+> behave as human beings and not as cogs in the capitalist machine."_ [
+> **Homage to Catalonia** , pp. 2-3]
 
 The full extent of this historic revolution cannot be covered here. It will be
 discussed in more detail in [Section I.8](secI8.md) of the FAQ. All that can
@@ -2037,12 +2045,12 @@ be given as a typical example. The base of the federation was the local
 assemblies:
 
 > _"All the workers of each locality would meet twice a week to examine all
-that pertained to the work to be done... The local general assembly named a
-committee to manage the general activity in each station and its annexes. At
-[these] meetings, the decisions (direccion) of this committee, whose members
-continued to work [at their previous jobs], would be subjected to the approval
-or disapproval of the workers, after giving reports and answering questions."
-_
+> that pertained to the work to be done... The local general assembly named a
+> committee to manage the general activity in each station and its annexes. At
+> [these] meetings, the decisions (direccion) of this committee, whose members
+> continued to work [at their previous jobs], would be subjected to the
+> approval or disapproval of the workers, after giving reports and answering
+> questions."_
 
 The delegates on the committee could be removed by an assembly at any time and
 the highest co-ordinating body of the Railway Federation was the
@@ -2052,7 +2060,7 @@ according to Gaston Leval, _"did not operate from above downwards, as in a
 statist and centralised system. The Revolutionary Committee had no such
 powers. . . The members of the. . . committee being content to supervise the
 general activity and to co-ordinate that of the different routes that made up
-the network."_ [Gaston Leval, **Collectives in the Spanish Revolution**, p.
+the network."_ [Gaston Leval, **Collectives in the Spanish Revolution** , p.
 255]
 
 On the land, tens of thousands of peasants and rural day workers created
@@ -2064,7 +2072,7 @@ collectives increased freedom. As one member puts it, _"it was marvellous . .
 thought, where if the village committee seemed unsatisfactory one could say.
 The committee took no big decisions without calling the whole village together
 in a general assembly. All this was wonderful."_ [Ronald Fraser, **Blood of
-Spain**, p. 360]
+Spain** , p. 360]
 
 We discuss the revolution in more detail in [section I.8](secI8.md). For
 example, sections [I.8.3](secI8.md#seci83) and [I.8.4](secI8.md#seci84)
@@ -2072,8 +2080,8 @@ discuss in more depth how the industrial collectives. The rural collectives
 are discussed in sections [I.8.5](secI8.md#seci85) and
 [I.8.6](secI8.md#seci86). We must stress that these sections are summaries
 of a vast social movement, and more information can be gathered from such
-works as Gaston Leval's **Collectives in the Spanish Revolution**, Sam
-Dolfgoff's **The Anarchist Collectives**, Jose Peirats' **The CNT in the
+works as Gaston Leval's **Collectives in the Spanish Revolution** , Sam
+Dolfgoff's **The Anarchist Collectives** , Jose Peirats' **The CNT in the
 Spanish Revolution** and a host of other anarchist accounts of the revolution.
 
 On the social front, anarchist organisations created rational schools, a
@@ -2093,20 +2101,20 @@ influenced by Leninism but not, as the Communists asserted, Trotskyist) makes
 this clear:
 
 > _"The essential point of the [militia] system was the social equality
-between officers and men. Everyone from general to private drew the same pay,
-ate the same food, wore the same clothes, and mingled on terms of complete
-equality. If you wanted to slap the general commanding the division on the
-back and ask him for a cigarette, you could do so, and no one thought it
-curious. In theory at any rate each militia was a democracy and not a
-hierarchy. It was understood that orders had to be obeyed, but it was also
-understood that when you gave an order you gave it as comrade to comrade and
-not as superior to inferior. There were officers and N.C.O.s, but there was no
-military rank in the ordinary sense; no titles, no badges, no heel-clicking
-and saluting. They had attempted to produce within the militias a sort of
-temporary working model of the classless society. Of course there was not
-perfect equality, but there was a nearer approach to it than I had ever seen
-or that I would have though conceivable in time of war. . . "_ [**Op. Cit.**,
-p. 26]
+> between officers and men. Everyone from general to private drew the same
+> pay, ate the same food, wore the same clothes, and mingled on terms of
+> complete equality. If you wanted to slap the general commanding the division
+> on the back and ask him for a cigarette, you could do so, and no one thought
+> it curious. In theory at any rate each militia was a democracy and not a
+> hierarchy. It was understood that orders had to be obeyed, but it was also
+> understood that when you gave an order you gave it as comrade to comrade and
+> not as superior to inferior. There were officers and N.C.O.s, but there was
+> no military rank in the ordinary sense; no titles, no badges, no heel-
+> clicking and saluting. They had attempted to produce within the militias a
+> sort of temporary working model of the classless society. Of course there
+> was not perfect equality, but there was a nearer approach to it than I had
+> ever seen or that I would have though conceivable in time of war. . . "_ [
+> **Op. Cit.** , p. 26]
 
 In Spain, however, as elsewhere, the anarchist movement was smashed between
 Stalinism (the Communist Party) on the one hand and Capitalism (Franco) on the
@@ -2122,42 +2130,42 @@ Orwell's account of his experiences in the militia's indicates why the Spanish
 Revolution is so important to anarchists:
 
 > _"I had dropped more or less by chance into the only community of any size
-in Western Europe where political consciousness and disbelief in capitalism
-were more normal than their opposites. Up here in Aragon one was among tens of
-thousands of people, mainly though not entirely of working-class origin, all
-living at the same level and mingling on terms of equality. In theory it was
-perfect equality, and even in practice it was not far from it. There is a
-sense in which it would be true to say that one was experiencing a foretaste
-of Socialism, by which I mean that the prevailing mental atmosphere was that
-of Socialism. Many of the normal motives of civilised life -- snobbishness,
-money-grubbing, fear of the boss, etc. -- had simply ceased to exist. The
-ordinary class- division of society had disappeared to an extent that is
-almost unthinkable in the money-tainted air of England; there was no one there
-except the peasants and ourselves, and no one owned anyone else as his master.
-. . One had been in a community where hope was more normal than apathy or
-cynicism, where the word 'comrade' stood for comradeship and not, as in most
-countries, for humbug. One had breathed the air of equality. I am well aware
-that it is now the fashion to deny that Socialism has anything to do with
-equality. In every country in the world a huge tribe of party-hacks and sleek
-little professors are busy 'proving' that Socialism means no more than a
-planned state-capitalism with the grab-motive left intact. But fortunately
-there also exists a vision of Socialism quite different from this. The thing
-that attracts ordinary men to Socialism and makes them willing to risk their
-skins for it, the 'mystique' of Socialism, is the idea of equality; to the
-vast majority of people Socialism means a classless society, or it means
-nothing at all . . . In that community where no one was on the make, where
-there was a shortage of everything but no boot-licking, one got, perhaps, a
-crude forecast of what the opening stages of Socialism might be like. And,
-after all, instead of disillusioning me it deeply attracted me. . ."_ [**Op.
-Cit.**, pp. 83-84]
+> in Western Europe where political consciousness and disbelief in capitalism
+> were more normal than their opposites. Up here in Aragon one was among tens
+> of thousands of people, mainly though not entirely of working-class origin,
+> all living at the same level and mingling on terms of equality. In theory it
+> was perfect equality, and even in practice it was not far from it. There is
+> a sense in which it would be true to say that one was experiencing a
+> foretaste of Socialism, by which I mean that the prevailing mental
+> atmosphere was that of Socialism. Many of the normal motives of civilised
+> life -- snobbishness, money-grubbing, fear of the boss, etc. -- had simply
+> ceased to exist. The ordinary class- division of society had disappeared to
+> an extent that is almost unthinkable in the money-tainted air of England;
+> there was no one there except the peasants and ourselves, and no one owned
+> anyone else as his master. . . One had been in a community where hope was
+> more normal than apathy or cynicism, where the word 'comrade' stood for
+> comradeship and not, as in most countries, for humbug. One had breathed the
+> air of equality. I am well aware that it is now the fashion to deny that
+> Socialism has anything to do with equality. In every country in the world a
+> huge tribe of party-hacks and sleek little professors are busy 'proving'
+> that Socialism means no more than a planned state-capitalism with the grab-
+> motive left intact. But fortunately there also exists a vision of Socialism
+> quite different from this. The thing that attracts ordinary men to Socialism
+> and makes them willing to risk their skins for it, the 'mystique' of
+> Socialism, is the idea of equality; to the vast majority of people Socialism
+> means a classless society, or it means nothing at all . . . In that
+> community where no one was on the make, where there was a shortage of
+> everything but no boot-licking, one got, perhaps, a crude forecast of what
+> the opening stages of Socialism might be like. And, after all, instead of
+> disillusioning me it deeply attracted me. . ."_ [ **Op. Cit.** , pp. 83-84]
 
 For more information on the Spanish Revolution, the following books are
 recommended: **Lessons of the Spanish Revolution** by Vernon Richards;
 **Anarchists in the Spanish Revolution** and **The CNT in the Spanish
 Revolution** by Jose Peirats; **Free Women of Spain** by Martha A. Ackelsberg;
 **The Anarchist Collectives** edited by Sam Dolgoff; _"Objectivity and Liberal
-Scholarship"_ by Noam Chomsky (in **The Chomsky Reader**); **The Anarchists of
-Casas Viejas** by Jerome R. Mintz; and **Homage to Catalonia** by George
+Scholarship"_ by Noam Chomsky (in **The Chomsky Reader** ); **The Anarchists
+of Casas Viejas** by Jerome R. Mintz; and **Homage to Catalonia** by George
 Orwell.
 
 ## A.5.7 The May-June Revolt in France, 1968
@@ -2199,13 +2207,13 @@ Faced with this massive protest, the police left the Latin Quarter. Students
 seized the Sorbonne and created a mass assembly to spread the struggle.
 Occupations soon spread to every French University. From the Sorbonne came a
 flood of propaganda, leaflets, proclamations, telegrams, and posters. Slogans
-such as "**_Everything is Possible,"_** **_"Be Realistic, Demand the
+such as " ** _Everything is Possible,"_** **_"Be Realistic, Demand the
 Impossible,"_** **_"Life without Dead Times,"_** and **_"It is Forbidden to
 Forbid"_** plastered the walls. **_"All Power to the Imagination"_** was on
 everyone's lips. As Murray Bookchin pointed out, _"the motive forces of
 revolution today. . . are not simply scarcity and material need, but also
 **quality of everyday life . . . the attempt to gain control of one's own
-destiny**." _[**Post-Scarcity Anarchism**, p. 166]
+destiny**." _[ **Post-Scarcity Anarchism** , p. 166]
 
 Many of the most famous slogans of those days originated from the
 Situationists. The **Situationist International** had been formed in 1957 by a
@@ -2220,19 +2228,19 @@ were also alienated consumers. They defined this kind of society as the
 recreating life. The area of revolutionary change was no longer just the
 workplace, but in everyday existence:
 
-> _ "People who talk about revolution and class struggle without referring
-explicitly to everyday life, without understanding what is subversive about
-love and what is positive in the refusal of constraints, such people have a
-corpse in their mouth."_ [quoted by Clifford Harper, **Anarchy: A Graphic
-Guide**, p. 153]
+> _"People who talk about revolution and class struggle without referring
+> explicitly to everyday life, without understanding what is subversive about
+> love and what is positive in the refusal of constraints, such people have a
+> corpse in their mouth."_ [quoted by Clifford Harper, **Anarchy: A Graphic
+> Guide** , p. 153]
 
 Like many other groups whose politics influenced the Paris events, the
 situationists argued that _"the workers' councils are the only answer. Every
 other form of revolutionary struggle has ended up with the very opposite of
-what it was originally looking for."_ [quoted by Clifford Harper, **Op.
-Cit.**, p. 149] These councils would be self-managed and not be the means by
-which a "revolutionary" party would take power. Like the anarchists of **Noire
-et Rouge** and the libertarian socialists of **Socialisme ou Barbarie**, their
+what it was originally looking for."_ [quoted by Clifford Harper, **Op. Cit.**
+, p. 149] These councils would be self-managed and not be the means by which a
+"revolutionary" party would take power. Like the anarchists of **Noire et
+Rouge** and the libertarian socialists of **Socialisme ou Barbarie** , their
 support for a self-managed revolution from below had a massive influence in
 the May events and the ideas that inspired it.
 
@@ -2269,8 +2277,8 @@ were often run by assemblies as well. As Murray Bookchin argues, the _"hope
 the general assemblies and their administrative forms, the action committees,
 the factory strike committees -- to all areas of the economy, indeed to all
 areas of life itself."_ Within the assemblies, _"a fever of life gripped
-millions, a rewaking of senses that people never thought they possessed."_
-[**Op. Cit.**, p. 168 and p. 167] It was not a workers' strike or a student
+millions, a rewaking of senses that people never thought they possessed."_ [
+**Op. Cit.** , p. 168 and p. 167] It was not a workers' strike or a student
 strike. It was a **peoples'** strike that cut across almost all class lines.
 
 On May 24th, anarchists organised a demonstration. Thirty thousand marched
@@ -2319,8 +2327,8 @@ control it.
 No, it was the lack of independent, self-managed confederal organisations to
 co-ordinate struggle which resulted in occupations being isolated from each
 other. So divided, they fell. In addition, Murray Bookchin argues that _"an
-awareness among the workers that the factories had to be **worked**, not
-merely occupied or struck,"_ was missing. [**Op. Cit.**, p. 182]
+awareness among the workers that the factories had to be **worked** , not
+merely occupied or struck,"_ was missing. [ **Op. Cit.** , p. 182]
 
 This awareness would have been encouraged by the existence of a strong
 anarchist movement before the revolt. The anti-authoritarian left, though very
@@ -2335,8 +2343,8 @@ were advocated, argued, applied. Language, rendered stale by decades of
 bureaucratic mumbo-jumbo, eviscerated by those who manipulate it for
 advertising purposes, reappeared as something new and fresh. People re-
 appropriated it in all its fullness. Magnificently apposite and poetic slogans
-emerged from the anonymous crowd."_ [_"Paris: May 1968"_, **For Workers'
-Power**, p. 253] The working class, fused by the energy and bravado of the
+emerged from the anonymous crowd."_ [ _"Paris: May 1968"_ , **For Workers'
+Power** , p. 253] The working class, fused by the energy and bravado of the
 students, raised demands that could not be catered for within the confines of
 the existing system. The General Strike displays with beautiful clarity the
 potential power that lies in the hands of the working class. The mass
@@ -2347,11 +2355,11 @@ practice.
 For more details of these events, see participants Daniel and Gabriel Cohn-
 Bendit's **Obsolete Communism: The Left-Wing Alternative** or Maurice
 Brinton's eye-witness account _"Paris: may 1968"_ (in his **For Workers'
-Power**). **Beneath the Paving Stones** by edited Dark Star is a good
+Power** ). **Beneath the Paving Stones** by edited Dark Star is a good
 anthology of situationist works relating to Paris 68 (it also contains
 Brinton's essay).
 
-[‹ A.4 Who are the major anarchist thinkers?](secA4.md "Go to previous page"
-) [up](secAcon.md "Go to parent page" ) [Section B - Why do anarchists
-oppose the current system? ›](secBcon.md "Go to next page" )
+[‹ A.4 Who are the major anarchist thinkers?](secA4.md "Go to previous
+page") [up](secAcon.md "Go to parent page") [Section B - Why do anarchists
+oppose the current system? ›](secBcon.md "Go to next page")
 

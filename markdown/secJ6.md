@@ -8,7 +8,7 @@ FAQ we will discuss anarchist approaches to child rearing bearing in mind
 _"that it is through the channel of the child that the development of the
 mature man [or woman] must go, and that the present ideas of . . . educating
 or training . . . are such as to stifle the natural growth of the child."_
-[Emma Goldman, **Red Emma Speaks**, p. 132 and p. 131]
+[Emma Goldman, **Red Emma Speaks** , p. 132 and p. 131]
 
 If one accepts the thesis that the authoritarian family is the breeding ground
 for both individual psychological problems and political reaction, it follows
@@ -19,8 +19,8 @@ children raised in such a way as **_"free children."_**
 
 Work in this field is still in its infancy (no pun intended). Wilhelm Reich
 was the main pioneer in this field (an excellent, short introduction to his
-ideas can be found in Maurice Brinton's **The Irrational in Politics**). In
-**Children of the Future**, Reich made numerous suggestions, based on his
+ideas can be found in Maurice Brinton's **The Irrational in Politics** ). In
+**Children of the Future** , Reich made numerous suggestions, based on his
 research and clinical experience, for parents, psychologists, and educators
 striving to develop libertarian methods of child rearing (although he did not
 use the term "libertarian").
@@ -35,12 +35,12 @@ the anarchist approach to the problems of adolescence.
 Such an approach to child rearing is based upon the insight that children _"do
 not constitute anyone's property: they are neither the property of the parents
 nor even of society. They belong only to their own future freedom."_ [Michael
-Bakunin, **The Political Philosophy of Bakunin**, p. 327] As such, what
+Bakunin, **The Political Philosophy of Bakunin** , p. 327] As such, what
 happens to a child when they are growing up **shapes** the person they become
 and the society they live in. The key question for people interested in
 freedom is whether _"the child [is] to be considered as an individuality, or
 as an object to be moulded according to the whims and fancies of those about
-it?"_ [Emma Goldman, **Op. Cit.**, p. 131] Libertarian child rearing is the
+it?"_ [Emma Goldman, **Op. Cit.** , p. 131] Libertarian child rearing is the
 means by which the individuality of the child is respected and developed.
 
 This is in stark contrast to standard capitalist claim that children are the
@@ -62,7 +62,7 @@ thereof in every individual, pre-eminently based upon a feeling of one's
 dignity and upon the genuine respect for someone else's freedom and dignity,
 i.e. upon justice -- such freedom can develop in children only through the
 rational development of their minds, character and will."_ [Bakunin, **Op.
-Cit.**, p. 327]
+Cit.** , p. 327]
 
 We wish to re-iterate again that a great deal of work remains to be done in
 this field. Therefore our comments should be regarded merely as tentative
@@ -79,12 +79,12 @@ Bringing up children must be like education, and based on similar principles,
 namely _"upon the free growth and development of the innate forces and
 tendencies of the child. In this way alone can we hope for the free individual
 and eventually also for a free community, which shall make interference and
-coercion of human growth impossible."_ [Goldman, **Op. Cit.**, p. 139] Indeed,
-child rearing and education **cannot** be separated as life itself is an
-education and so must share the same principles and be viewed as a process of
-_"development and exploration, rather than as one of repressing a child's
+coercion of human growth impossible."_ [Goldman, **Op. Cit.** , p. 139]
+Indeed, child rearing and education **cannot** be separated as life itself is
+an education and so must share the same principles and be viewed as a process
+of _"development and exploration, rather than as one of repressing a child's
 instincts and inculcating obedience and discipline."_ [Martha A. Ackelsberg,
-**Free Women of Spain**, p. 166]
+**Free Women of Spain** , p. 166]
 
 Moreover, the role of parental example is very important to raising free
 children. Children often learn by mimicking their parents -- children do what
@@ -109,9 +109,9 @@ various communes all over the world where society is organised according to
 libertarian principles. As Reich put it:
 
 > _"We have learned that instead of a jump into the realm of the Children of
-the Future, we can hope for no more than a steady advance, in which the
-healthy new overlaps the sick old structure, with the new slowly outgrowing
-the old."_ [**Children of the Future**, pp. 38-39]
+> the Future, we can hope for no more than a steady advance, in which the
+> healthy new overlaps the sick old structure, with the new slowly outgrowing
+> the old."_ [ **Children of the Future** , pp. 38-39]
 
 By means of freedom-based child rearing and education, along with other
 methods of consciousness raising, as well as encouraging resistance to the
@@ -123,7 +123,7 @@ trend to freedom, sexual and otherwise. In my boyhood, a woman went bathing
 wearing stockings and a long dress. Today, women show legs and bodies.
 Children are getting more freedom with every generation. Today, only a few
 lunatics put cayenne pepper on a baby's thumb to stop sucking. Today, only a
-few countries beat their children in school."_ [**Summerhill**, p. 115]
+few countries beat their children in school."_ [ **Summerhill** , p. 115]
 
 Most anarchists believe that we must practice what we preach and so the
 anarchist revolution begins at home. As anarchists raise their own children in
@@ -144,25 +144,25 @@ for example, the child's natural vocal expressions (shouting, screaming,
 bellowing, crying, etc.) and natural body motility. As Reich noted:
 
 > _"Small children go through a phase of development characterised by vigorous
-activity of the voice musculature. The joy the infant derives from loud noises
-(crying, shrieking, and forming a variety of sounds) is regarded by many
-parents as pathological aggressiveness. The children are accordingly
-admonished not to scream, to be 'still,' etc. The impulses of the voice
-apparatus are inhibited, its musculature becomes chronically contracted, and
-the child becomes quiet, 'well-brought-up,' and withdrawn. The effect of such
-mistreatment is soon manifested in eating disturbances, general apathy, pallor
-of the face, etc. Speech disturbances and retardation of speech development
-are presumably caused in this manner. In the adult we see the effects of such
-mistreatment in the form of spasms of the throat. The automatic constrictions
-of the glottis and the deep throat musculature, with subsequent inhibition of
-the aggressive impulses of the head and neck, seems to be particularly
-characteristic."_ [**Children of the Future**, p. 128]
+> activity of the voice musculature. The joy the infant derives from loud
+> noises (crying, shrieking, and forming a variety of sounds) is regarded by
+> many parents as pathological aggressiveness. The children are accordingly
+> admonished not to scream, to be 'still,' etc. The impulses of the voice
+> apparatus are inhibited, its musculature becomes chronically contracted, and
+> the child becomes quiet, 'well-brought-up,' and withdrawn. The effect of
+> such mistreatment is soon manifested in eating disturbances, general apathy,
+> pallor of the face, etc. Speech disturbances and retardation of speech
+> development are presumably caused in this manner. In the adult we see the
+> effects of such mistreatment in the form of spasms of the throat. The
+> automatic constrictions of the glottis and the deep throat musculature, with
+> subsequent inhibition of the aggressive impulses of the head and neck, seems
+> to be particularly characteristic."_ [ **Children of the Future** , p. 128]
 
 _"Clinical experience has taught us,"_ Reich concluded, _"that small children
 must be allowed to 'shout themselves out' when the shouting is inspired by
 pleasure. This might be disagreeable to some parents, but questions of
 education must be decided **exclusively in the interests of the child,** not
-in those of the adults."_ [**Op. Cit.**, p. 128]
+in those of the adults."_ [ **Op. Cit.** , p. 128]
 
 Besides deadening life energy in the body, such stifling also inhibits the
 anxiety generated by the presence of anti-social, cruel, and perverse impulses
@@ -180,13 +180,13 @@ to control the secondary drives **which compulsion itself creates.** By such
 processes, authoritarian child-rearing becomes self-justifying:
 
 > _"Psychoanalysts have failed to distinguish between primary natural and
-secondary perverse, cruel drives, and they are continuously killing nature in
-the new-born while they try to extinguish the 'brutish little animal.' They
-are completely ignorant of the fact that it is **exactly this killing of the
-natural principle which creates the secondary perverse and cruel nature,**
-human nature so called, and that these artificial cultural creations in turn
-make compulsive moralism and brutal laws necessary."_ [Reich, **Op. Cit.**, p.
-17-18]
+> secondary perverse, cruel drives, and they are continuously killing nature
+> in the new-born while they try to extinguish the 'brutish little animal.'
+> They are completely ignorant of the fact that it is **exactly this killing
+> of the natural principle which creates the secondary perverse and cruel
+> nature,** human nature so called, and that these artificial cultural
+> creations in turn make compulsive moralism and brutal laws necessary."_
+> [Reich, **Op. Cit.** , p. 17-18]
 
 Moralism, however, can never get at the root of the problem of secondary
 drives, but in fact only increases the pressure of crime and guilt. The real
@@ -198,7 +198,7 @@ impulses. The systematic development of the emphatic tendencies of the young
 infant is the best way to "socialise" and restrict activities that are harmful
 to the others. As A.S. Neill pointed out _"self-regulation implies a belief in
 the goodness of human nature; a belief that there is not, and never was,
-original sin."_ [**Summerhill**, p. 103]
+original sin."_ [ **Summerhill** , p. 103]
 
 According to Neill, children who are given freedom from birth and not forced
 to conform to parental expectations spontaneously learn how to keep themselves
@@ -216,10 +216,10 @@ of people develop this **automatically** from the way they are raised and is
 what makes the whole subject of bringing up children of crucial importance to
 anarchists. Reich concluded that if parents do not suppress nature in the
 first place, then no anti-social drives will be created and no
-authoritarianism will be required to suppress them: _"**What you so
+authoritarianism will be required to suppress them: _" **What you so
 desperately and vainly try to achieve by way of compulsion and admonition is
 there in the new-born infant ready to live and function. Let it grow as nature
-requires, and change our institutions accordingly**."_ [**Op. Cit.**, p. 47]
+requires, and change our institutions accordingly**."_ [ **Op. Cit.** , p. 47]
 So in order to raise psychologically healthy children, parents need to acquire
 self-knowledge, particularly of how internal conflicts develop in family
 relationships, and to free themselves as much as possible from neurotic forms
@@ -236,7 +236,7 @@ crucial to avoid any mixing of concepts: _"One cannot mix a bit of self-
 regulation with a bit of moral demand. Either we trust nature as basically
 decent and self-regulatory or we do not, and then there is only one way, that
 of training by compulsion. It is essential to grasp the fact that the two ways
-of upbringing do not go together."_ [**Op. Cit.**, p. 46]
+of upbringing do not go together."_ [ **Op. Cit.** , p. 46]
 
 ## J.6.2. What are some examples of libertarian child-rearing methods?
 
@@ -254,12 +254,12 @@ breast feeding. By such _"orgonotic"_ contact (to use Reich's term), the
 mother is able to establish the initial emotional bonding with the new born,
 and a non-verbal understanding of the child's needs. This is only possible,
 however, if she is in touch with her own emotional and cognitive internal
-processes: _"**Orgonotic contact is the most essential experiential and
+processes: _" **Orgonotic contact is the most essential experiential and
 emotional element in the interrelationship between mother and child,**
 particularly prenatally and during the first days and weeks of life. The
 future fate of the child depends on it. It seems to be the core of the new-
-born infant's emotional development."_ [**Children of the Future**, p. 99] It
-is important for the father to establish orgonotic contact as well.
+born infant's emotional development."_ [ **Children of the Future** , p. 99]
+It is important for the father to establish orgonotic contact as well.
 
 Reich maintained that the practice of bottle feeding is harmful, particularly
 if it completely replaces breast feeding from the day of birth, because it
@@ -267,7 +267,7 @@ eliminates one of the most important forms of establishing physical and
 emotional contact between mother and child. This lack of contact can then
 contribute in later life to _"oral"_ forms of neurotic character structure or
 traits (see Chapter 9 of Alexander Lowen's **Physical Dynamics of Character
-Structure**). Another harmful practice in infant care is the compulsive-
+Structure** ). Another harmful practice in infant care is the compulsive-
 neurotic method of feeding children on schedule, invented by Pirquet in
 Vienna, which was devastatingly wrong and harmful to countless children.
 Frustration of oral needs through this practice (which is fortunately less in
@@ -277,7 +277,7 @@ educators approach infants with false, unbending behaviour, inflexible
 opinions, condescension, and officiousness, instead of with orgonotic contact,
 infants will continue to be quiet, withdrawn, apathetic, 'autistic,'
 'peculiar,' and, later, 'little wild animals,' whom the cultivated feel they
-have to 'tame.'"_ [**Op. Cit.** p. 124]
+have to 'tame.'"_ [ **Op. Cit.** p. 124]
 
 Another harmful practice is allowing the baby to "cry itself out." Thus:
 _"Parking a baby in a baby carriage in the garden, perhaps for hours at a
@@ -285,15 +285,15 @@ time, is a dangerous practice. No one can know what agonising feelings of fear
 and loneliness a baby can experience on waking up suddenly to find himself
 alone in a strange place. Those who have heard a baby's screams on such
 occasions have some idea of the cruelty of this stupid custom."_ [Neill,
-**Summerhill**, p. 336] Indeed, in **The Physical Dynamics of Character
-Structure**, Alexander Lowen has traced specific neuroses, particularly
+**Summerhill** , p. 336] Indeed, in **The Physical Dynamics of Character
+Structure** , Alexander Lowen has traced specific neuroses, particularly
 depression, to this practice. Hospitals also have been guilty of
 psychologically damaging sick infants by isolating them from their mothers, a
 practice that has undoubtedly produced untold numbers of neurotics and
 psychopaths.
 
 Neill summed up the libertarian attitude toward the care of infants as
-follows: _"**Self-regulation means the right of a baby to live freely without
+follows: _" **Self-regulation means the right of a baby to live freely without
 outside authority in things psychic and somatic**. It means that the baby
 feeds when it is hungry; that it becomes clean in habits only when it wants
 to; that it is never stormed at nor spanked; that it is always loved and
@@ -307,7 +307,7 @@ often, young enthusiasts for self-regulation come to my school as visitors,
 and exclaim at our lack of freedom in locking poison in a lab closet, or our
 prohibition about playing on the fire escape. The whole freedom movement is
 marred and despised because so many advocates of freedom have not got their
-feet on the ground."_ [**Op. Cit.**, p. 105 and p. 106]
+feet on the ground."_ [ **Op. Cit.** , p. 105 and p. 106]
 
 Nevertheless, the libertarian position does not imply that a child should be
 **punished** for getting into a dangerous situation. Nor is the best thing to
@@ -316,39 +316,41 @@ child before it is too late), but simply to remove the danger without any
 fuss: _"Unless a child is mentally defective, he will soon discover what
 interests him. Left free from excited cries and angry voices, he will be
 unbelievably sensible in his dealing with material of all kinds."_ [Neil,
-**Op. Cit.**, p. 108] Provided, of course, that he or she has been allowed
+**Op. Cit.** , p. 108] Provided, of course, that he or she has been allowed
 self-regulation from the beginning, and thus has not developed any irrational,
 secondary drives.
 
-The way to raise a free child becomes clear when one considers how an
-**un**free child is raised. Thus imagine the typical infant whose upbringing
-A.S. Neill described:
+The way to raise a free child becomes clear when one considers how an **un**
+free child is raised. Thus imagine the typical infant whose upbringing A.S.
+Neill described:
 
 > _"His natural functions were left alone during the diaper period. But when
-he began to crawl and perform on the floor, words like **naughty** and
-**dirty** began to float about the house, and a grim beginning was made in
-teaching him to be clean._
+> he began to crawl and perform on the floor, words like **naughty** and
+> **dirty** began to float about the house, and a grim beginning was made in
+> teaching him to be clean._
 
 > _"Before this, his hand had been taken away every time it touched his
-genitals; and he soon came to associate the genital prohibition with the
-acquired disgust about faeces. Thus, years later, when he became a travelling
-salesman, his story repertoire consisted of a balanced number of sex and
-toilet jokes._
+> genitals; and he soon came to associate the genital prohibition with the
+> acquired disgust about faeces. Thus, years later, when he became a
+> travelling salesman, his story repertoire consisted of a balanced number of
+> sex and toilet jokes._
 
 > _"Much of his training was conditioned by relatives and neighbours. Mother
-and father were most anxious to be correct -- to do the proper thing -- so
-that when relatives or next-door neighbours came, John had to show himself as
-a well-trained child. He had to say **Thank you** when Auntie gave him a piece
-of chocolate; and he had to be most careful about his table manners; and
-especially, he had to refrain from speaking when adults were speaking . . . _
+> and father were most anxious to be correct -- to do the proper thing -- so
+> that when relatives or next-door neighbours came, John had to show himself
+> as a well-trained child. He had to say **Thank you** when Auntie gave him a
+> piece of chocolate; and he had to be most careful about his table manners;
+> and especially, he had to refrain from speaking when adults were speaking .
+> . . _
 
 > _"All his curiosity about the origins of life were met with clumsy lies,
-lies so effective that his curiosity about life and birth disappeared. The
-lies about life became combined with fears when at the age of five his mother
-found him having genital play with his sister of four and the girl next door.
-The severe spanking that followed (Father added to it when he came home from
-work) forever conveyed to John the lesson that sex is filthy and sinful,
-something one must not even think of."_ [**Op. Cit.**, p. 96-7]
+> lies so effective that his curiosity about life and birth disappeared. The
+> lies about life became combined with fears when at the age of five his
+> mother found him having genital play with his sister of four and the girl
+> next door. The severe spanking that followed (Father added to it when he
+> came home from work) forever conveyed to John the lesson that sex is filthy
+> and sinful, something one must not even think of."_ [ **Op. Cit.** , p.
+> 96-7]
 
 Of course, parents' ways of imparting negative messages about sex are not
 necessarily this severe, especially in our allegedly enlightened age. However,
@@ -372,8 +374,8 @@ adults, fear of punishment, fear of disapproval, fear of God. Only hate can
 flourish in an atmosphere of fear."_ Punishment also turns children into
 sadists: _"The cruelty of many children springs from the cruelty that has been
 practised on them by adults. You cannot be beaten without wishing to beat
-someone else."_ (_"Every beating makes a child sadistic in desire or
-practice."_ [Neil **Op. Cit.**, p. 229, p. 124, p. 269 and p. 271] This is
+someone else."_ ( _"Every beating makes a child sadistic in desire or
+practice."_ [Neil **Op. Cit.** , p. 229, p. 124, p. 269 and p. 271] This is
 obviously an important consideration to anarchists, as sadistic drives provide
 the psychological ground for militarism, war, police brutality, and so on.
 Such drives are undoubtedly also part of the desire to exercise hierarchical
@@ -409,7 +411,7 @@ cycle. He is never punished and he does not need to behave badly. He has no
 use for lying and for breaking things. His body has never been called filthy
 or wicked. He has not needed to rebel against authority or to fear his
 parents. Tantrums he will usually have, but they will be short-lived and not
-tend toward neurosis."_ [**Op. Cit.**, p. 166]
+tend toward neurosis."_ [ **Op. Cit.** , p. 166]
 
 We could cite many further examples of how libertarian principles of child-
 rearing can be applied in practice, but we must limit ourselves to these few.
@@ -449,13 +451,13 @@ punishment will give the child a fixed and repressed interest in their bodily
 functions. As Reich and Lowen have shown various forms of compulsive and
 obsessive neuroses can be traced back to the punishments used in toilet
 training. As Neill observed: _"When the mother says **naughty** or **dirty**
-or even **tut tut**, the element of right and wrong arises. The question
+or even **tut tut** , the element of right and wrong arises. The question
 becomes a **moral** one -- when it should remain a **physical** one."_ He
 suggested that the **wrong** way to deal with a child who likes to play with
 faeces is to tell him he is being dirty. The right way _"is to allow him to
 live out his interest in excrement by providing him with mud or clay. In this
 way, he will sublimate his interest without repression. He will live through
-his interest; and in doing so, kill it."_ [**Summerhill**, p. 174]
+his interest; and in doing so, kill it."_ [ **Summerhill** , p. 174]
 
 Similarly, sceptics will probably question how children can be induced to eat
 a healthy diet without threats of punishment. The answer can be discovered by
@@ -507,8 +509,8 @@ original sin. In fact, it would be more accurate to say that there is
 "original virtue." Wilhelm Reich found that externally imposed, compulsive
 morality actually **causes** immoral behaviour by creating cruel and perverse
 _"secondary drives."_ Neill put it this way: _"I find that when I smash the
-moral instruction a bad boy has received, he becomes a good boy."_ [**Op.
-Cit.**, p. 250]
+moral instruction a bad boy has received, he becomes a good boy."_ [ **Op.
+Cit.** , p. 250]
 
 Unconscious acceptance of some form of the idea of original sin is the main
 recruiting tool of organised religions, as people who believe they are born
@@ -519,19 +521,20 @@ of life-denying religions, which are inimical to the growth of a healthy
 character structure. Citing ethnological studies, Reich argued the following:
 
 > _"Among those primitive peoples who lead satisfactory, unimpaired sexual
-lives, there is no sexual crime, no sexual perversion, no sexual brutality
-between man and woman; rape is unthinkable because it is unnecessary in their
-society. Their sexual activity flows in normal, well-ordered channels which
-would fill any cleric with indignation and fear . . . They love the human body
-and take pleasure in their sexuality. They do not understand why young men and
-women should not enjoy their sexuality. But when their lives are invaded by
-the ascetic, hypocritical morass and by the Church, which bring them 'culture'
-along with exploitation, alcohol, and syphilis, they begin to suffer the same
-wretchedness as ourselves. They begin to lead 'moral' lives, i.e. to suppress
-their sexuality, and from then on they decline more and more into a state of
-sexual distress, which is the result of sexual suppression. At the same time,
-they become sexually dangerous; murders of spouses, sexual diseases, and
-crimes of all sorts start to appear."_ [**Children of the Future**, p. 193]
+> lives, there is no sexual crime, no sexual perversion, no sexual brutality
+> between man and woman; rape is unthinkable because it is unnecessary in
+> their society. Their sexual activity flows in normal, well-ordered channels
+> which would fill any cleric with indignation and fear . . . They love the
+> human body and take pleasure in their sexuality. They do not understand why
+> young men and women should not enjoy their sexuality. But when their lives
+> are invaded by the ascetic, hypocritical morass and by the Church, which
+> bring them 'culture' along with exploitation, alcohol, and syphilis, they
+> begin to suffer the same wretchedness as ourselves. They begin to lead
+> 'moral' lives, i.e. to suppress their sexuality, and from then on they
+> decline more and more into a state of sexual distress, which is the result
+> of sexual suppression. At the same time, they become sexually dangerous;
+> murders of spouses, sexual diseases, and crimes of all sorts start to
+> appear."_ [ **Children of the Future** , p. 193]
 
 Such crimes in our society would be greatly reduced if libertarian child
 rearing practices were widely followed. These are obviously important
@@ -548,7 +551,7 @@ There are other problems as well with the moralism taught by organised
 religions. One danger is making the child a hater: _"If a child is taught that
 certain things are sinful, his love of life must be changed to hate. When
 children are free, they never think of another child as being a sinner."_
-[Neill, **Op. Cit.**, p. 245] From the idea that certain people are sinners,
+[Neill, **Op. Cit.** , p. 245] From the idea that certain people are sinners,
 it is a short step to the idea that certain classes or races of people are
 more "sinful" than others, leading to prejudice, discrimination, and
 persecution of minorities as an outlet for repressed anger and sadistic drives
@@ -561,7 +564,7 @@ with holes in his eyelids: He can see you wherever you are. To a child, this
 often means that God can see what is being done under the bedclothes. And to
 introduce fear into a child's life is the worst of all crimes. Forever the
 child says nay to life; forever he is an inferior; forever a coward."_ [Neill,
-**Op. Cit.**, p. 246] People who have been threatened with fear of an
+**Op. Cit.** , p. 246] People who have been threatened with fear of an
 afterlife in hell can never be entirely free of neurotic anxiety about
 security in **this** life. In turn, such people become easy targets of ruling-
 class propaganda that plays upon their material and emotional insecurity, e.g.
@@ -579,13 +582,13 @@ according to their own wishes. The libertarian attitude is that empathy for
 others develops at the proper time:
 
 > _"To ask a child to be unselfish is wrong. Every child is an egoist and the
-world belongs to him. When he has an apple, his one wish is to eat that apple.
-The chief result of mother's encouraging him to share it with his little
-brother is to make him hate the little brother. Altruism comes later -- comes
-naturally -- **if the child is not taught to be unselfish.** It probably never
-comes at all if the child has been forced to be unselfish. By suppressing the
-child's selfishness, the mother is fixing that selfishness forever."_ [Neill,
-**Summerhill**, pp. 250-251]
+> world belongs to him. When he has an apple, his one wish is to eat that
+> apple. The chief result of mother's encouraging him to share it with his
+> little brother is to make him hate the little brother. Altruism comes later
+> -- comes naturally -- **if the child is not taught to be unselfish.** It
+> probably never comes at all if the child has been forced to be unselfish. By
+> suppressing the child's selfishness, the mother is fixing that selfishness
+> forever."_ [Neill, **Summerhill** , pp. 250-251]
 
 Unfulfilled wishes live on in the unconscious so children who are pressured
 too hard -- "taught" -- to be unselfish will, while conforming outwardly with
@@ -602,24 +605,24 @@ individuality of the child and they developing their own abilities (in
 particular their ability of critical thought). As Erich Fromm put it:
 
 > _"Not to be selfish implies not to do what one wishes, to give up one's own
-wishes for the sake of those in authority . . . Aside from its obvious
-implication, it means 'don't love yourself,' 'don't be yourself', but submit
-yourself to something more important than yourself, to an outside power or its
-internalisation, 'duty.' 'Don't be selfish' becomes one of the most powerful
-ideological tools in suppressing spontaneity and the free development of
-personality. Under the pressure of this slogan one is asked for every
-sacrifice and for complete submission: only those acts are 'unselfish' which
-do not serve the individual but somebody or something outside himself."_
-[**Man for Himself**, p. 127]
+> wishes for the sake of those in authority . . . Aside from its obvious
+> implication, it means 'don't love yourself,' 'don't be yourself', but submit
+> yourself to something more important than yourself, to an outside power or
+> its internalisation, 'duty.' 'Don't be selfish' becomes one of the most
+> powerful ideological tools in suppressing spontaneity and the free
+> development of personality. Under the pressure of this slogan one is asked
+> for every sacrifice and for complete submission: only those acts are
+> 'unselfish' which do not serve the individual but somebody or something
+> outside himself."_ [ **Man for Himself** , p. 127]
 
 While such "unselfishness" is ideal for creating "model citizens" and willing
 wage slaves, it is not conducive for creating anarchists or even developing
 individuality. Little wonder Bakunin celebrated the urge to rebel and saw it
 as the key to human progress! Fromm goes on to note that selfishness and self-
 love, _"far from being identical, are actually opposites"_ and that _"selfish
-persons are incapable of loving others . . . [or] loving themselves."_ [**Op.
-Cit.**, p. 131] Individuals who do not love themselves, and so others, will be
-more willing to submit themselves to hierarchy than those who do love
+persons are incapable of loving others . . . [or] loving themselves."_ [ **Op.
+Cit.** , p. 131] Individuals who do not love themselves, and so others, will
+be more willing to submit themselves to hierarchy than those who do love
 themselves and are concerned for their own, and others, welfare. Thus the
 contradictory nature of capitalism, with its contradictory appeals to selfish
 and unselfish behaviour, can be understood as being based upon lack of self-
@@ -637,11 +640,11 @@ letting social behaviour develop naturally, which it will do after other
 people's opinions becomes important **to the child.** As Neill pointed out:
 
 > _"Everyone seeks the good opinion of his neighbours. Unless other forces
-push him into unsocial behaviour, a child will naturally want to do that which
-will cause him to be well-regarded, but this desire to please others develops
-at a certain stage in his growth. The attempt by parents and teachers to
-artificially accelerate this stage does the child irreparable damage."_ [**Op.
-Cit.**, p. 256]
+> push him into unsocial behaviour, a child will naturally want to do that
+> which will cause him to be well-regarded, but this desire to please others
+> develops at a certain stage in his growth. The attempt by parents and
+> teachers to artificially accelerate this stage does the child irreparable
+> damage."_ [ **Op. Cit.** , p. 256]
 
 Therefore, parents should allow children to be "selfish" and "ungiving", free
 to follow their own childish interests throughout their childhood. Every
@@ -663,7 +666,7 @@ the disciplined home, the children have **no** rights. In the spoiled home,
 they have **all** the rights. The proper home is one in which children and
 adults have equal rights."_ Or again: _"To let a child have his own way, or do
 what he wants to **at another's expense,** is bad for the child. It creates a
-spoiled child, and the spoiled child is a bad citizen."_ [**Summerhill**, p.
+spoiled child, and the spoiled child is a bad citizen."_ [ **Summerhill** , p.
 107 and 167]
 
 There will inevitably be conflicts of will between parents and children, and
@@ -712,9 +715,9 @@ rights. As Neill observed: _"Such authority sometimes demands obedience but at
 other times gives obedience. Thus I can say to my daughter, 'You can't bring
 that mud and water into our parlour.' That's no more than her saying to me,
 'Get out of my room, Daddy. I don't want you here now,' a wish that I, of
-course, obey without a word."_ [**Op. Cit.**, p. 156]. So there will still be
-"discipline" in the libertarian home, but it will be of the kind that protects
-the individual rights of each family member.
+course, obey without a word."_ [ **Op. Cit.** , p. 156]. So there will still
+be "discipline" in the libertarian home, but it will be of the kind that
+protects the individual rights of each family member.
 
 Raising children in freedom also does not imply giving them a lot of toys,
 money, and so on. Reich's followers have argued that children should not be
@@ -809,8 +812,8 @@ structures. They form the psychological soil of the masses in which
 dictatorial strivings and bureaucratic tendencies of democratically elected
 leaders can develop."_ Sexual suppression _"produces the authority-fearing,
 life-fearing vassal, and thus constantly creates new possibilities whereby a
-handful of men in power can rule the masses."_ [**The Sexual Revolution**, p.
-82]
+handful of men in power can rule the masses."_ [ **The Sexual Revolution** ,
+p. 82]
 
 No doubt most members of the ruling elite are not fully conscious that their
 own power and privileges depend on the mass perpetuation of sex-negative
@@ -830,20 +833,21 @@ sexuality. This becomes clear from ethnological studies of sexually
 unrepressive tribal peoples:
 
 > _"All reports, whether by missionaries or scholars, with or without the
-proper indignation about the 'moral depravity' of 'savages,' state that the
-puberty rites of adolescents lead them immediately into a sexual life; that
-some of these primitive societies lay great emphasis on sexual pleasure; that
-the puberty rite is an important social event; that some primitive peoples not
-only do not hinder the sexual life of adolescents but encourage it is every
-way, as, for instance, by arranging for community houses in which the
-adolescents settle at the start of puberty in order to be able to enjoy sexual
-intercourse. Even in those primitive societies in which the institution of
-strict monogamous marriage exists, adolescents are given complete freedom to
-enjoy sexual intercourse from the beginning of puberty to marriage. None of
-these reports contains any indication of sexual misery or suicide by
-adolescents suffering from unrequited love (although the latter does of course
-occur). The contradiction between sexual maturity and the absence of genital
-sexual gratification is non-existent."_ [Reich, **Op. Cit.**, p. 85]
+> proper indignation about the 'moral depravity' of 'savages,' state that the
+> puberty rites of adolescents lead them immediately into a sexual life; that
+> some of these primitive societies lay great emphasis on sexual pleasure;
+> that the puberty rite is an important social event; that some primitive
+> peoples not only do not hinder the sexual life of adolescents but encourage
+> it is every way, as, for instance, by arranging for community houses in
+> which the adolescents settle at the start of puberty in order to be able to
+> enjoy sexual intercourse. Even in those primitive societies in which the
+> institution of strict monogamous marriage exists, adolescents are given
+> complete freedom to enjoy sexual intercourse from the beginning of puberty
+> to marriage. None of these reports contains any indication of sexual misery
+> or suicide by adolescents suffering from unrequited love (although the
+> latter does of course occur). The contradiction between sexual maturity and
+> the absence of genital sexual gratification is non-existent."_ [Reich, **Op.
+> Cit.** , p. 85]
 
 Teenage sexual repression is also closely connected with crime. If there are
 teenagers in a neighbourhood who have no place to pursue intimate sexual
@@ -858,7 +862,7 @@ the subterranean sexual crisis in the lives of children and adolescents. And
 it may be predicted that no society will ever succeed in solving this problem,
 the problem of juvenile psychopathology, unless that society can muster the
 courage and acquire the knowledge to regulate the sexual life of its children
-and adolescents in a sex-affirmative manner."_ [**Op. Cit.**, p. 271]
+and adolescents in a sex-affirmative manner."_ [ **Op. Cit.** , p. 271]
 
 For these reasons, it is clear that a solution to the "gang problem" also
 depends on adolescent sexual liberation. We are not suggesting, of course,
@@ -883,27 +887,28 @@ own minds and desires, refusing to be pressured by anyone into anything. As
 can be seen from experience of this anarchist activist during the 1930s:
 
 > _"One time, a companero from the Juventudes [libertarian youth organisation]
-came over to me and said, 'You, who say you're so liberated. You're not so
-liberated.' (I'm telling you this so you’ll see the mentality of these men.)
-'Because if I ask you to give me a kiss, you wouldn't._
+> came over to me and said, 'You, who say you're so liberated. You're not so
+> liberated.' (I'm telling you this so you’ll see the mentality of these men.)
+> 'Because if I ask you to give me a kiss, you wouldn't._
 
 > _"I just stood there staring at him, and thinking to myself, 'How do I get
-out of this one?" And then I said to him, 'Listen, when I want to go to bed
-with a guy, I'm the one that has to choose him. I don't go to bed with just
-anyone. You don't interest me as a man. I don't feel anything for you... Why
-should you want me to 'liberate myself,' as you put it, by going to bed with
-you? That's no liberation for me. That's just making love simply for the sake
-of making love.' 'No,' I said to him, 'love is something that has to be like
-eating: if you're hungry, you eat, and if you want to go to bed with a guy,
-then... Besides, I'm going to tell you something else . . . Your mouth doesn't
-appeal to me... And I don't like to make love with a guy without kissing
-him.'_
+> out of this one?" And then I said to him, 'Listen, when I want to go to bed
+> with a guy, I'm the one that has to choose him. I don't go to bed with just
+> anyone. You don't interest me as a man. I don't feel anything for you... Why
+> should you want me to 'liberate myself,' as you put it, by going to bed with
+> you? That's no liberation for me. That's just making love simply for the
+> sake of making love.' 'No,' I said to him, 'love is something that has to be
+> like eating: if you're hungry, you eat, and if you want to go to bed with a
+> guy, then... Besides, I'm going to tell you something else . . . Your mouth
+> doesn't appeal to me... And I don't like to make love with a guy without
+> kissing him.'_
 
 > _"He was left speechless! But I did it with a dual purpose in mind...
-because I wanted to show him that that's not the way to educate companeros...
-That's what the struggle of women was like in Spain -- even with men from our
-own group -- and I'm not even talking about what it was like with other
-guys."_ [quoted by Martha A. Ackelsberg, **Free Women of Spain**, pp. 116-7]
+> because I wanted to show him that that's not the way to educate
+> companeros... That's what the struggle of women was like in Spain -- even
+> with men from our own group -- and I'm not even talking about what it was
+> like with other guys."_ [quoted by Martha A. Ackelsberg, **Free Women of
+> Spain** , pp. 116-7]
 
 So respecting yourself and others, it must be stressed, is essential. As
 Maurice Brinton pointed out, attempts at sexual liberation will encounter two
@@ -926,8 +931,8 @@ human content. Undiscriminating, compulsive sexual activity, is not sexual
 freedom -- although it may sometimes be a preparation for it (which repressive
 morality can never be). The illusion that alienated sex is sexual freedom
 constitutes yet another obstacle on the road to total emancipation. Sexual
-freedom implies a realisation and understanding of the autonomy of others."_
-[_"The Irrational in Politics"_, pp. 257-92, **For Workers' Power**, p. 277]
+freedom implies a realisation and understanding of the autonomy of others."_ [
+_"The Irrational in Politics"_ , pp. 257-92, **For Workers' Power** , p. 277]
 
 Therefore, anarchists see teenage sexual liberation as a means of developing
 free individuals **as well as** reducing the evil effects of sexual repression
@@ -979,8 +984,8 @@ important aspects of their lives. Both expose the alienated concepts which
 pass for rationality and which govern so much of our thinking and behaviour.
 The task of the conscious revolutionary is to make both challenges explicit,
 to point out their deeply subversive content, and to explain their inter-
-relation."_ [Maurice Brinton, _"The Irrational in Politics"_, pp. 257-92,
-**For Workers' Power**, p. 278]
+relation."_ [Maurice Brinton, _"The Irrational in Politics"_ , pp. 257-92,
+**For Workers' Power** , p. 278]
 
 We noted previously that in pre-patriarchal society, which rests on a
 communistic/communal social order, children have complete sexual freedom and
@@ -1011,8 +1016,8 @@ protection for free expression and sexuality (repeal of the insane statutory
 rape laws and equal rights for gays, for example), just as they support
 legislation that protects workers' right to strike, family leave, and so
 forth. However, as Reich observed, _"under no circumstances will the new order
-of sexual life be established by the decree of a central authority."_ [**The
-Sexual Revolution**, p. 279] That was a Leninist illusion. Rather, it will be
+of sexual life be established by the decree of a central authority."_ [ **The
+Sexual Revolution** , p. 279] That was a Leninist illusion. Rather, it will be
 established from the bottom up, by the gradual process of ever more widespread
 dissemination of knowledge about the adverse personal and social effects of
 sexual repression, and the benefits of libertarian child-rearing and
@@ -1035,13 +1040,13 @@ As Martha A. Ackelsberg notes in relation to the practical work done by the
 **_Mujeres Libres_** group during the Spanish Revolution:
 
 > _"Respecting children and educating them well was vitally important to the
-process of revolutionary change. Ignorance made people particularly vulnerable
-to oppression and suffering. More importantly, education prepared people for
-social life. Authoritarian schools (or families), based upon fear, prepared
-people to be submissive to an authoritarian government [or within a capitalist
-workplace]. Different schools and families would be necessary to prepare
-people to live in a society without domination."_ [**Free Women of Spain**, p.
-133]
+> process of revolutionary change. Ignorance made people particularly
+> vulnerable to oppression and suffering. More importantly, education prepared
+> people for social life. Authoritarian schools (or families), based upon
+> fear, prepared people to be submissive to an authoritarian government [or
+> within a capitalist workplace]. Different schools and families would be
+> necessary to prepare people to live in a society without domination."_ [
+> **Free Women of Spain** , p. 133]
 
 The personal **is** political and there is little point in producing a free
 economy if the people in it are not free to lead a full and pleasurable life!
@@ -1056,9 +1061,9 @@ it is now, and it is a tremendous factor for thousands, millions even, of
 young people."_ This, Goldman recalled, made Kropotkin stop short with _"an
 amused smile lighting up his kindly face. 'Fancy, I didn't think of that,' he
 replied. 'Perhaps you are right, after all.' He beamed affectionately upon me,
-with a humorous twinkle in his eye."_ [**Living My Life**, vol. 1, p. 253]
+with a humorous twinkle in his eye."_ [ **Living My Life** , vol. 1, p. 253]
 
 [‹ J.5 What alternative social organisations do anarchists create?](secJ5.md
-"Go to previous page" ) [up](secJcon.md "Go to parent page" ) [J.7 What do
-anarchists mean by "social revolution"? ›](secJ7.md "Go to next page" )
+"Go to previous page") [up](secJcon.md "Go to parent page") [J.7 What do
+anarchists mean by "social revolution"? ›](secJ7.md "Go to next page")
 

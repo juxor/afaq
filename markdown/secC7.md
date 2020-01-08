@@ -5,26 +5,27 @@ capitalism. Sometimes there is full employment, with workplaces producing more
 and more goods and services, the economy grows and along with it wages.
 However, as Proudhon argued, this happy situation does not last:
 
-> _ "But industry, under the influence of property, does not proceed with such
-regularity. . . As soon as a demand begins to be felt, the factories fill up,
-and everybody goes to work. Then business is lively. . . Under the rule of
-property, the flowers of industry are woven into none but funeral wreaths. The
-labourer digs his own grave. . . [the capitalist] tries. . . to continue
-production by lessening expenses. Then comes the lowering of wages; the
-introduction of machinery; the employment of women and children . . . the
-decreased cost creates a larger market. . . [but] the productive power tends
-to more than ever outstrip consumption. . . To-day the factory is closed.
-Tomorrow the people starve in the streets. . . In consequence of the cessation
-of business and the extreme cheapness of merchandise. . . frightened creditors
-hasten to withdraw their funds [and] Production is suspended, and labour comes
-to a standstill."_ [**What is Property**, pp. 191-192]
+> _"But industry, under the influence of property, does not proceed with such
+> regularity. . . As soon as a demand begins to be felt, the factories fill
+> up, and everybody goes to work. Then business is lively. . . Under the rule
+> of property, the flowers of industry are woven into none but funeral
+> wreaths. The labourer digs his own grave. . . [the capitalist] tries. . . to
+> continue production by lessening expenses. Then comes the lowering of wages;
+> the introduction of machinery; the employment of women and children . . .
+> the decreased cost creates a larger market. . . [but] the productive power
+> tends to more than ever outstrip consumption. . . To-day the factory is
+> closed. Tomorrow the people starve in the streets. . . In consequence of the
+> cessation of business and the extreme cheapness of merchandise. . .
+> frightened creditors hasten to withdraw their funds [and] Production is
+> suspended, and labour comes to a standstill."_ [ **What is Property** , pp.
+> 191-192]
 
 Why does this happen? For anarchists, as Proudhon noted, it's to do with the
-nature of capitalist production and the social relationships it creates (_"the
-rule of property"_). The key to understanding the business cycle is to
+nature of capitalist production and the social relationships it creates (
+_"the rule of property"_ ). The key to understanding the business cycle is to
 understand that, to use Proudhon's words, _"Property sells products to the
-labourer for more than it pays him for them; therefore it is impossible."_
-[**Op. Cit.**, p. 194] In other words, the need for the capitalist to make a
+labourer for more than it pays him for them; therefore it is impossible."_ [
+**Op. Cit.** , p. 194] In other words, the need for the capitalist to make a
 profit from the workers they employ is the underlying cause of the business
 cycle. If the capitalist class cannot make enough surplus value (profit,
 interest, rent) then it will stop production, sack people, ruin lives and
@@ -32,12 +33,12 @@ communities until such time as enough can once again be extracted from working
 class people. As Proudhon put it (using the term _"interest"_ to cover all
 forms of surplus value):
 
-> _ "The primary cause of commercial and industrial stagnations is, then,
-interest on capital, -- that interest which the ancients with one accord
-branded with the name of usury, whenever it was paid for the use of money, but
-which they did not dare to condemn in the forms of house-rent, farm-rent, or
-profit: as if the nature of the thing lent could ever warrant a charge for the
-lending; that is, robbery."_ [**Op. Cit.**, p. 193]
+> _"The primary cause of commercial and industrial stagnations is, then,
+> interest on capital, -- that interest which the ancients with one accord
+> branded with the name of usury, whenever it was paid for the use of money,
+> but which they did not dare to condemn in the forms of house-rent, farm-
+> rent, or profit: as if the nature of the thing lent could ever warrant a
+> charge for the lending; that is, robbery."_ [ **Op. Cit.** , p. 193]
 
 So what influences the level of surplus value? There are two main classes of
 pressure on surplus value production, what we will call the _**"subjective"**_
@@ -183,27 +184,27 @@ a small cog in a big machine. It reflects the attempts of the oppressed to try
 to live a fully human life, when the _"worker claims his share in the riches
 he produces; he claims his share in the management of production; and he
 claims not only some additional well-being, but also his full rights in the
-higher enjoyment of science and art."_ [Peter Kropotkin, **Anarchism**, pp.
+higher enjoyment of science and art."_ [Peter Kropotkin, **Anarchism** , pp.
 48-49] As Errico Malatesta argued:
 
-> _ "If [workers] succeed in getting what they demand, they will be better
-off: they will earn more, work fewer hours and will have more time and energy
-to reflect on things that matter to them, and will immediately make greater
-demands and have greater needs . . . [T]here exists no natural law (law of
-wages) which determines what part of a worker's labour should go to him [or
-her] . . . Wages, hours and other conditions of employment are the result of
-the struggle between bosses and workers. The former try and give the workers
-as little as possible; the latter try, or should try to work as little, and
-earn as much, as possible. Where workers accept any conditions, or even being
-discontented, do not know how to put up effective resistance to the bosses
-demands, they are soon reduced to bestial conditions of life. Where, instead,
-they have ideas of how human beings should live and know how to join forces,
-and through refusal to work or the latent and open threat of rebellion, to win
-bosses respect, in such cases, they are treated in a relatively decent way . .
-. Through struggle, by resistance against the bosses, therefore, workers can,
-up to a certain point, prevent a worsening of their conditions as well as
-obtaining real improvement."_ [**Errico Malatesta: His Life and Ideas**, pp.
-191-2]
+> _"If [workers] succeed in getting what they demand, they will be better off:
+> they will earn more, work fewer hours and will have more time and energy to
+> reflect on things that matter to them, and will immediately make greater
+> demands and have greater needs . . . [T]here exists no natural law (law of
+> wages) which determines what part of a worker's labour should go to him [or
+> her] . . . Wages, hours and other conditions of employment are the result of
+> the struggle between bosses and workers. The former try and give the workers
+> as little as possible; the latter try, or should try to work as little, and
+> earn as much, as possible. Where workers accept any conditions, or even
+> being discontented, do not know how to put up effective resistance to the
+> bosses demands, they are soon reduced to bestial conditions of life. Where,
+> instead, they have ideas of how human beings should live and know how to
+> join forces, and through refusal to work or the latent and open threat of
+> rebellion, to win bosses respect, in such cases, they are treated in a
+> relatively decent way . . . Through struggle, by resistance against the
+> bosses, therefore, workers can, up to a certain point, prevent a worsening
+> of their conditions as well as obtaining real improvement."_ [ **Errico
+> Malatesta: His Life and Ideas** , pp. 191-2]
 
 It is this struggle that determines wages and indirect income such as welfare,
 education grants and so forth. This struggle also influences the concentration
@@ -218,11 +219,11 @@ replaced with little or no hassle. For example, Proudhon quotes an _"English
 Manufacturer"_ who states that he invested in machinery precisely to replace
 humans by machines because machines are easier to control:
 
-> _ "The insubordination of our workforce has given us the idea of dispensing
-with them. We have made and stimulated every imaginable effort of the mind to
-replace the service of men by tools more docile, and we have achieved our
-object. Machinery has delivered capital from the oppression of labour."_
-[quoted by Proudhon, **System of Economical Contradictions**, p. 189]
+> _"The insubordination of our workforce has given us the idea of dispensing
+> with them. We have made and stimulated every imaginable effort of the mind
+> to replace the service of men by tools more docile, and we have achieved our
+> object. Machinery has delivered capital from the oppression of labour."_
+> [quoted by Proudhon, **System of Economical Contradictions** , p. 189]
 
 (To which Proudhon replied _"[w]hat a misfortunate that machinery cannot also
 deliver capital from the oppression of consumers!"_ The over-production and
@@ -236,7 +237,7 @@ profit levels and it is the rise and fall of profit levels that are the
 ultimate cause of the business cycle. This is because, under capitalism,
 production's _"only aim is to increase the profits of the capitalist. And we
 have, therefore, -- the continuous fluctuations of industry, the crisis coming
-periodically."_ [Kropotkin, **Op. Cit.**, p. 55]
+periodically."_ [Kropotkin, **Op. Cit.** , p. 55]
 
 A common capitalist myth, derived from neo-classical (and related) ideology,
 is that free-market capitalism will result in a continuous boom. Since the
@@ -250,7 +251,7 @@ capitalist dreams there will be full employment yet while this helps
 _"increase total demand, its fatal characteristic from the business view is
 that it keeps the reserve army of the unemployed low, thereby protecting wage
 levels and strengthening labour's bargaining power."_ [Edward S. Herman,
-**Beyond Hypocrisy**, p. 93] This leads to the undermining of full employment
+**Beyond Hypocrisy** , p. 93] This leads to the undermining of full employment
 as profit margins are placed under pressure (which explains why bosses have
 lead the fight against government full employment policies).
 
@@ -329,7 +330,7 @@ companies where limited in their responses to the profits squeeze as well as
 facing a global decrease in demand for their products. This resulted in profit
 shares and rates declining to around 80% of their previous peak levels across
 the advanced capitalist nations. [Philip Armstrong, Andrew Glyn and John
-Harrison, **Capitalism Since 1945**, pp. 178-80, pp. 182-4 and pp. 192-3]
+Harrison, **Capitalism Since 1945** , pp. 178-80, pp. 182-4 and pp. 192-3]
 
 It must be stressed that social struggle was not limited to the workplace. In
 the 1960s a _"series of strong liberation movements emerged among women,
@@ -338,7 +339,7 @@ progress, and large social groups were questioning the very foundations of the
 modern, hierarchical society: the patriarchal family, the authoritarian school
 and university, the hierarchical workplace or office, the bureaucratic trade
 union or party."_ [Takis Fotopoulos, _"The Nation-state and the Market,"_ pp.
-37-80, **Society and Nature**, Vol. 2, No. 2, p. 58] In stark contrast to the
+37-80, **Society and Nature** , Vol. 2, No. 2, p. 58] In stark contrast to the
 predictions of the right, state intervention within capitalism to maintain
 full employment and provide social services like health care had **not**
 resulted in a _"Road to Serfdom."_ The opposite occurred, with previously
@@ -357,30 +358,28 @@ workplace (see [section C.8.2](secC8.md#secc82)). We should also note that
 this process of social revolt in spite, or perhaps because of, the increase of
 material wealth was predicted by Malatesta. In 1922 he argued that:
 
-> _ "The fundamental error of the reformists is that of dreaming of
-solidarity, a sincere collaboration, between masters and servants, between
-proprietors and workers . . .  
+> _"The fundamental error of the reformists is that of dreaming of solidarity,
+> a sincere collaboration, between masters and servants, between proprietors
+> and workers . . .  
 >  _
-
 >
-
 > _"Those who envisage a society of well stuffed pigs which waddle contentedly
-under the ferule of a small number of swineherd; who do not take into account
-the need for freedom and the sentiment of human dignity . . . can also imagine
-and aspire to a technical organisation of production which assures abundance
-for all and at the same time materially advantageous both to bosses and the
-workers. But in reality 'social peace' based on abundance for all will remain
-a dream, so long as society is divided into antagonistic classes, that is
-employers and employees. And there will be neither peace nor abundance. _
-
+> under the ferule of a small number of swineherd; who do not take into
+> account the need for freedom and the sentiment of human dignity . . . can
+> also imagine and aspire to a technical organisation of production which
+> assures abundance for all and at the same time materially advantageous both
+> to bosses and the workers. But in reality 'social peace' based on abundance
+> for all will remain a dream, so long as society is divided into antagonistic
+> classes, that is employers and employees. And there will be neither peace
+> nor abundance._
 >
-
 > _"The antagonism is spiritual rather than material. There will never be a
-sincere understanding between bosses and workers for the better exploitation
-[sic!] of the forces of nature in the interests of mankind, because the bosses
-above all want to remain bosses and secure always more power at the expense of
-the workers, as well as by competition with other bosses, whereas the workers
-have had their fill of bosses and don't want more!"_ [**Op. Cit.**, pp. 78-79]
+> sincere understanding between bosses and workers for the better exploitation
+> [sic!] of the forces of nature in the interests of mankind, because the
+> bosses above all want to remain bosses and secure always more power at the
+> expense of the workers, as well as by competition with other bosses, whereas
+> the workers have had their fill of bosses and don't want more!"_ [ **Op.
+> Cit.** , pp. 78-79]
 
 The experience of the post-war compromise and social democratic reform shows
 that, ultimately, the social question is not poverty but rather freedom.
@@ -396,8 +395,8 @@ historical event simply because you can prove anything when your datum cannot
 be seen by mere mortals) it is very useful for justifying policies which aim
 at attacking working people, their organisations and their activities. The
 NAIRU is concerned with a _"wage-price"_ spiral caused by falling unemployment
-and rising workers' rights and power. Of course, you never hear of an _
-"interest-price"_ spiral or a _"rent-price"_ spiral or a _"profits-price"_
+and rising workers' rights and power. Of course, you never hear of an
+_"interest-price"_ spiral or a _"rent-price"_ spiral or a _"profits-price"_
 spiral even though these are also part of any price. It is always a _"wage-
 price"_ spiral, simply because interest, rent and profits are income to
 capital and so, by definition, above reproach. By accepting the logic of
@@ -417,7 +416,7 @@ necessity, the abundance of some will be based upon the poverty of others, and
 the straitened circumstances of the greater number will have to be maintained
 at all costs, that there may be hands to sell themselves for a part only of
 that which they are capable of producing, without which private accumulation
-of capital is impossible!"_ [Kropotkin, **Op. Cit.**, p. 128]
+of capital is impossible!"_ [Kropotkin, **Op. Cit.** , p. 128]
 
 Of course, when such "subjective" pressures are felt on the system, when
 private accumulation of capital is threatened by improved circumstances for
@@ -425,18 +424,18 @@ the many, the ruling class denounces working class "greed" and "selfishness."
 When this occurs we should remember what Adam Smith had to say on this
 subject:
 
-> _ "In reality high profits tend much more to raise the price of work than
-high wages . . . That part of the price of the commodity that resolved itself
-into wages would . . . rise only in arithmetical proportion to the rise in
-wages. But if profits of all the different employers of those working people
-should be raised five per cent., that price of the commodity which resolved
-itself into profit would . . . rise in geometrical proportion to this rise in
-profit . . . Our merchants and master manufacturers complain of the bad
-effects of high wages in raising the price and thereby lessening the sale of
-their goods at home and abroad. They say nothing concerning the bad effects of
-high profits. They are silent with regard to the pernicious effects of their
-own gains. They complain only of those of other people."_ [**The Wealth of
-Nations**, pp. 87-88]
+> _"In reality high profits tend much more to raise the price of work than
+> high wages . . . That part of the price of the commodity that resolved
+> itself into wages would . . . rise only in arithmetical proportion to the
+> rise in wages. But if profits of all the different employers of those
+> working people should be raised five per cent., that price of the commodity
+> which resolved itself into profit would . . . rise in geometrical proportion
+> to this rise in profit . . . Our merchants and master manufacturers complain
+> of the bad effects of high wages in raising the price and thereby lessening
+> the sale of their goods at home and abroad. They say nothing concerning the
+> bad effects of high profits. They are silent with regard to the pernicious
+> effects of their own gains. They complain only of those of other people."_ [
+> **The Wealth of Nations** , pp. 87-88]
 
 As an aside, we must note that these days we would have to add economists to
 Smith's _"merchants and master manufacturers."_ Not that this is surprising,
@@ -444,7 +443,7 @@ given that economic theory has progressed (or degenerated) from Smith's
 disinterested analysis into apologetics for any action of the boss (a classic
 example, we must add, of supply and demand, with the marketplace of ideas
 responding to a demand for such work from _"our merchants and master
-manufacturers"_). Any "theory" which blames capitalism's problems on "greedy"
+manufacturers"_ ). Any "theory" which blames capitalism's problems on "greedy"
 workers will always be favoured over one that correctly places them in the
 contradictions created by wage slavery. Ultimately, capitalist economics blame
 every problem of capitalism on the working class refusing to kow-tow to the
@@ -522,7 +521,7 @@ responses will be co-ordinated by the market, resulting in a healthy economy.
 
 This perspective is expressed well by right-liberal, Frederick von Hayek in
 his _"The Uses of Knowledge in Society"_ (reprinted in **Individualism and
-Economic Order**). Using the example of the tin market, he defends capitalism
+Economic Order** ). Using the example of the tin market, he defends capitalism
 against central planning on its ability to handle the division of knowledge
 within society and its dynamic use of this dispersed knowledge when demand or
 supply changes. _"Assume,"_ he argues, _"that somewhere in the world a new
@@ -543,8 +542,8 @@ informed knowing anything about the original causes for these changes. _"The
 whole acts as one market, not because any of its members survey the whole
 field, but because their limited individual fields of vision sufficiently
 overlap so that through many intermediaries the relevant information is
-communicated to all."_ (_"The use of knowledge in society,"_ pp. 519-30,
-**American Economic Review**, Vol. 35, No. 4, , p. 526)
+communicated to all."_ ( _"The use of knowledge in society,"_ pp. 519-30,
+**American Economic Review** , Vol. 35, No. 4, , p. 526)
 
 While it can be granted that this account of the market is not without
 foundation, it is also clear that the price mechanism does not communicate all
@@ -566,21 +565,22 @@ a rising demand for tin could easily result in all tin producers increasing
 supply so much as to produce a glut on the market. Proudhon described this
 process well in the 1840s:
 
-> _ "A peasant who has harvested twenty sacks of wheat, which he with his
-family proposes to consume, deems himself twice as rich as if he had harvested
-only ten; likewise a housewife who has spun fifty yards of linen believes that
-she is twice as rich as if she had spun but twenty-five. Relatively to the
-household, both are right; looked at in their external relations, they may be
-utterly mistaken. If the crop of wheat is double throughout the whole country,
-twenty sacks will sell for less than ten would have sold for if it had been
-but half as great; so, under similar circumstances, fifty yards of linen will
-be worth less than twenty-five: so that value decreases as the production of
-utility increases, and a producer may arrive at poverty by continually
-enriching himself."_ [**System of Economical Contradictions**, pp. 77-78]
+> _"A peasant who has harvested twenty sacks of wheat, which he with his
+> family proposes to consume, deems himself twice as rich as if he had
+> harvested only ten; likewise a housewife who has spun fifty yards of linen
+> believes that she is twice as rich as if she had spun but twenty-five.
+> Relatively to the household, both are right; looked at in their external
+> relations, they may be utterly mistaken. If the crop of wheat is double
+> throughout the whole country, twenty sacks will sell for less than ten would
+> have sold for if it had been but half as great; so, under similar
+> circumstances, fifty yards of linen will be worth less than twenty-five: so
+> that value decreases as the production of utility increases, and a producer
+> may arrive at poverty by continually enriching himself."_ [ **System of
+> Economical Contradictions** , pp. 77-78]
 
 He argued that this occurred due to the _"contradiction"_ of _"the double
-character of value"_ (i.e. between value in use and value in exchange). [**Op.
-Cit.**, p. 78]
+character of value"_ (i.e. between value in use and value in exchange). [
+**Op. Cit.** , p. 78]
 
 As John O'Neill argues (basing himself on Marx rather than Proudhon), when
 producers _"make plans concerning future production, they are planning not
@@ -602,7 +602,7 @@ relation to effective demand for them. Goods cannot be sold. There is a
 realisation crisis: producers cannot realise the value of their products.
 Given this overproduction, demand falls against supply. There is a slump. This
 eventually leads to a rise in demand against supply, production expends
-leading to another boom, and so on."_ [**The Market**, pp. 134-5]
+leading to another boom, and so on."_ [ **The Market** , pp. 134-5]
 
 This information cannot be supplied due to competition. Simply put, if A and B
 are in competition, if A informs B of her activities and B does not
@@ -613,7 +613,7 @@ same signal (the change in price) but each acts independently of the response
 of other producers and consumers. The result is often a slump in the market,
 causing unemployment and economic disruption. Thus the market _"blocks the
 communication of information and fails to co-ordinate plans for economic
-action."_ [**Op. Cit.**, p. 137]
+action."_ [ **Op. Cit.** , p. 137]
 
 This, it should be noted, is not a problem of people making a series of
 unrelated mistakes. _"Rather, it is that the market imparts the same
@@ -628,7 +628,7 @@ prices and this _"leads to over production."_ So it is **not** a question of
 inaccurate prediction (although given that the future is unknowable and
 unpredictable this is a factor). Instead, it is _"one of individually rational
 responses to the same signal resulting in collectively irrational responses."_
-[**Op. Cit.**, p. 135 and p. 197]
+[ **Op. Cit.** , p. 135 and p. 197]
 
 This means that prices in themselves do not provide adequate knowledge for
 rational decision making as they are not at their long-run equilibrium levels.
@@ -652,9 +652,9 @@ It is this irrationality and lack of information which feed into the business
 cycle. _"These local booms and slumps in production . . . are then amplified
 into general crises precisely through the interconnections in the market that
 Hayek highlights in his example of the production and consumption of tin."_
-[O'Neill, **Op. Cit.**, p. 136] The negative effects of over-production in one
-market will be passed on to those which supply it with goods in the shape of
-decreased demand. These firms will now experience relative over-production
+[O'Neill, **Op. Cit.** , p. 136] The negative effects of over-production in
+one market will be passed on to those which supply it with goods in the shape
+of decreased demand. These firms will now experience relative over-production
 which, in turn, will affect their suppliers. Whatever benefits may accrue to
 consumers of these goods in the shape of lower prices will be reduced as
 demand for their products drops as more and more workers are made unemployed
@@ -682,7 +682,7 @@ possibility of hoarding."_ Time _"because a good is usually sold some time
 after it is made, running the risk that its sale price could fall below the
 cost of production, wiping out the capitalist's expected profit."_ Hoarding
 _"because income need not be spent but may merely be kept idle."_ [Doug
-Henwood, **Wall Street**, p. 232]
+Henwood, **Wall Street** , p. 232]
 
 This means that over-production becomes possible and bankruptcies and
 unemployment can become widespread and so a slump can start. _"As any Marxian
@@ -695,7 +695,7 @@ store of value, the possibility of keeping wealth in financial form rather
 than spending it promptly on commodities, always introduces the possibility of
 crisis."_ That is, the possibility _"of an excess of capital lacking a
 profitable investment outlet, and an excess of goods that couldn't be sold
-profitably on the open market."_ [**Op. Cit.**, pp. 93-4 and p. 94]
+profitably on the open market."_ [ **Op. Cit.** , pp. 93-4 and p. 94]
 
 So when the market prices of goods fall far below their cost prices then
 production and investment stagnate. This is because profits can only be
@@ -793,8 +793,8 @@ boom. As we discuss in [section C.8](secC8.md), the notion that investment
 will be helped by lowing interest rates in a slump fails to understand that
 _"the rate of investment decisions is an increasing function of the difference
 between the prospective rate of profit and the rate of interest."_ [Michal
-Kalecki, quoted by Malcolm Sawyer, **The Economics of Michal Kalecki**, p. 98]
-If profit rates are depressed due to over-investment then even the lowest
+Kalecki, quoted by Malcolm Sawyer, **The Economics of Michal Kalecki** , p.
+98] If profit rates are depressed due to over-investment then even the lowest
 interest rates will have little effect. In other words, expectations of
 capitalists and investors are a key issue and these are shaped by the general
 state of the economy.
@@ -831,31 +831,28 @@ the short term, its overall effect means that it is **not** profitable for all
 in the long run. As Kalecki put it, the _"tragedy of investment is that it
 causes crisis because it is useful. Doubtless many people will consider this
 theory paradoxical. But it is not the theory which is paradoxical, but its
-subject -- the capitalist economy."_ [quoted by Sawyer **Op. Cit.**, p. 156]
+subject -- the capitalist economy."_ [quoted by Sawyer **Op. Cit.** , p. 156]
 This paradox applies to the issue of wages as well:
 
-> _ "What a system is that which leads a business man to think with delight
-that society will soon be able to dispense with men! **Machinery has delivered
-capital from the oppression of labour**! . . . Fool! though the workmen cost
-you something, they are your customers: what will you do with your products,
-when, driven away by you, they shall consume them no longer? Thus machinery,
-after crushing the workmen, is not slow in dealing employers a counter-blow;
-for, if production excludes consumption, it is soon obliged to stop itself.  
+> _"What a system is that which leads a business man to think with delight
+> that society will soon be able to dispense with men! **Machinery has
+> delivered capital from the oppression of labour**! . . . Fool! though the
+> workmen cost you something, they are your customers: what will you do with
+> your products, when, driven away by you, they shall consume them no longer?
+> Thus machinery, after crushing the workmen, is not slow in dealing employers
+> a counter-blow; for, if production excludes consumption, it is soon obliged
+> to stop itself.  
 >  _
-
 >
-
-> _[. . .] _
-
+> _[. . .]_
 >
-
 > _"These failures were caused by over-production, -- that is, by an
-inadequate market, or the distress of the people. What a pity that machinery
-cannot also deliver capital from the oppression of consumers! What a
-misfortune that machines do not buy the fabrics which they weave! The ideal
-society will be reached when commerce, agriculture, and manufactures can
-proceed without a man upon earth!"_ [Proudhon, **System of Economical
-Contradictions**, pp. 189-90]
+> inadequate market, or the distress of the people. What a pity that machinery
+> cannot also deliver capital from the oppression of consumers! What a
+> misfortune that machines do not buy the fabrics which they weave! The ideal
+> society will be reached when commerce, agriculture, and manufactures can
+> proceed without a man upon earth!"_ [Proudhon, **System of Economical
+> Contradictions** , pp. 189-90]
 
 So, if the profit rate falls to a level that does not allow capital formation
 to continue, a slump sets in. This general slump means that the rate of profit
@@ -878,7 +875,7 @@ natural result of capitalism. Over-production is the result of over-
 accumulation, and over-accumulation occurs because of the need to maximise
 short-term profits in order to stay in business. So while the crisis appears
 as a glut of commodities on the market, as there are more commodities in
-circulation that can be purchased by the aggregate demand (_"Property sells
+circulation that can be purchased by the aggregate demand ( _"Property sells
 products to the labourer for more than it pays him for them,"_ to use
 Proudhon's words), its roots are deeper. It lies in the nature of capitalist
 production itself.
@@ -886,12 +883,12 @@ production itself.
 "Over-production," we should point out, exists only from the viewpoint of
 capital, **not** of the working class:
 
-> _ "What economists call over-production is but a production that is above
-the purchasing power of the worker. . . this sort of over-production remains
-fatally characteristic of the present capitalist production, because workers
-cannot buy with their salaries what they have produced and at the same time
-copiously nourish the swarm of idlers who live upon their work."_ [Kropotkin,
-**Op. Cit.**, pp. 127-128]
+> _"What economists call over-production is but a production that is above the
+> purchasing power of the worker. . . this sort of over-production remains
+> fatally characteristic of the present capitalist production, because workers
+> cannot buy with their salaries what they have produced and at the same time
+> copiously nourish the swarm of idlers who live upon their work."_
+> [Kropotkin, **Op. Cit.** , pp. 127-128]
 
 In other words, over-production and under-consumption reciprocally imply each
 other. There is no over production except in regard to a given level of
@@ -915,17 +912,17 @@ There are means, of course, by which capitalism can postpone (but not stop) a
 general crisis developing. The extension of credit by banks to both investors
 and consumers is the traditional, and most common, way. Imperialism, by which
 markets are increased and profits are extracted from less developed countries
-and used to boost the imperialist countries profits, is another method (_"The
+and used to boost the imperialist countries profits, is another method ( _"The
 workman being unable to purchase with their wages the riches they are
 producing, industry must search for markets elsewhere."_ [Kropotkin, **Op.
-Cit.**, p. 55]). Another is state intervention in the economy (such as minimum
-wages, the incorporation of trades unions into the system, arms production,
-manipulating interest rates to maintain a _"natural"_ rate of unemployment to
-keep workers on their toes, etc.). Another is state spending to increase
-aggregate demand, which can increase consumption and so lessen the dangers of
-over-production. However, these have (objective and subjective) limits and can
-never succeed in stopping depressions from occurring as they ultimately flow
-from capitalist production and the need to make profits.
+Cit.** , p. 55]). Another is state intervention in the economy (such as
+minimum wages, the incorporation of trades unions into the system, arms
+production, manipulating interest rates to maintain a _"natural"_ rate of
+unemployment to keep workers on their toes, etc.). Another is state spending
+to increase aggregate demand, which can increase consumption and so lessen the
+dangers of over-production. However, these have (objective and subjective)
+limits and can never succeed in stopping depressions from occurring as they
+ultimately flow from capitalist production and the need to make profits.
 
 A classic example of these "objective" pressures on capitalism is the "Roaring
 Twenties" that preceded the Great Depression of the 1930s. After the 1921
@@ -936,7 +933,7 @@ equipment, manufacturing production grew by 8.0% per annum between 1919 and
 the slump of 1921-22). With costs falling and prices comparatively stable,
 profits increased which in turn lead to high levels of capital investment (the
 production of capital goods increased at an average annual rate of 6.4%).
-[William Lazonick, **Competitive Advantage on the Shop Floor**, p. 241] The
+[William Lazonick, **Competitive Advantage on the Shop Floor** , p. 241] The
 optimism felt by business as a result of higher profits was reflected in the
 wealthy sections of America. In the 1920s prosperity was concentrated at the
 top. One-tenth of the top 1% of families received as much income as the bottom
@@ -969,7 +966,7 @@ This class war from above made labour weak, which is reflected in the
 influence and size of unions falling across the country. As union membership
 declined, the number of strilkes reached their lowest level since the early
 1880s, falling to just over 700 per year between 1927 to 1930 (compared to
-3,500 per year between 1916 and 1921). [Lazonick, **Op. Cit.**, pp. 249-251]
+3,500 per year between 1916 and 1921). [Lazonick, **Op. Cit.** , pp. 249-251]
 The key thing to remember is that the impact of unemployment is not limited to
 the current year's figures. High unemployment rates have a sustained impact on
 the organisations, morale, and bargaining power of workers even if
@@ -990,7 +987,7 @@ addition, the numbers seeking work were boosted by new immigrants and the
 unwillingness of existing ones to return home due to difficulties returning to
 America. Lastly, the greatest source of industrial labour supply came from the
 American farm -- there was a flood of rural workers into the urban labour
-market over the 1920s. [Lazonick, **Op. Cit.**, pp. 252-5] It is interesting
+market over the 1920s. [Lazonick, **Op. Cit.** , pp. 252-5] It is interesting
 to note that even **with** a labour market favourable to employers for over 5
 years, unemployment was still high. This suggests that the neo-classical
 "argument" (assertion would be more correct) that unemployment within
@@ -1007,7 +1004,7 @@ income going to wages fell from 57.5% in 1923-24 to 52.6% in 1928/29 (between
 productivity was reflected in the fact that over the post-1922 boom, the share
 of manufacturing income paid in salaries rose from 17% to 18.3% and the share
 to capital rose from 25.5% to 29.1%. Managerial salaries rose by 21.9% and
-firm surplus by 62.6% between 1920 and 1929. [Lazonick, **Op. Cit.**, pp.
+firm surplus by 62.6% between 1920 and 1929. [Lazonick, **Op. Cit.** , pp.
 241-2] Any notion that the 1929 crash was the result of a rebellious working
 class is not applicable.
 
@@ -1093,6 +1090,6 @@ labour "market" is not like the iron market, and the subjective revolt against
 capitalist domination will exist as long as capitalism does.
 
 [‹ C.6 Can market dominance by Big Business change?](secC6.md "Go to
-previous page" ) [up](secCcon.md "Go to parent page" ) [C.8 Is state control
-of credit the cause of the business cycle? ›](secC8.md "Go to next page" )
+previous page") [up](secCcon.md "Go to parent page") [C.8 Is state control
+of credit the cause of the business cycle? ›](secC8.md "Go to next page")
 

@@ -18,8 +18,8 @@ movements and demonstrations which are currently occurring across the world.
 As they put it:
 
 > _"The great revolt against capitalism in Seattle last year, and similar
-demonstrations since, have attracted diverse groups of protesters. Anarchists,
-amongst others, have taken part in all of those protests."  
+> demonstrations since, have attracted diverse groups of protesters.
+> Anarchists, amongst others, have taken part in all of those protests."  
 >  _
 
 Yes, indeed, anarchists have been involved in these demonstrations from the
@@ -120,7 +120,7 @@ involved and refusing to pay, overnight the SWP became passionate believers in
 the collective class power of community based non-payment. They argued, in
 direct contradiction to their earlier analysis, that the state was _"shaken by
 the continuing huge scale of non-payment."_ [quoted by Trotwatch, **Carry on
-Recruiting**, pp. 29-31]
+Recruiting** , pp. 29-31]
 
 The SWP proved to be totally unresponsive to new forms of struggle and
 organisation produced by working class people when resisting the government.
@@ -134,8 +134,6 @@ actually miles behind the struggle comes as no surprise. Nor are their
 slanders against those, like anarchists, who are at the front of the struggle
 unsurprising. They produced similar articles during the poll tax rebellion as
 well, to counter anarchist influence by smearing our ideas.
-
-
 
 ## 2\. What does the SWP miss out in its definition of anarchism?
 
@@ -152,11 +150,11 @@ inception of society . . . [lies in] the criticism . . . of the hierarchical
 organisations and the authoritarian conceptions of society; and . . . the
 analysis of the tendencies that are seen in the progressive movements of
 mankind."_ He stresses that anarchism _"refuses all hierarchical
-organisation."_ [**Kropotkin's Revolutionary Pamphlets**, p. 158 and p. 137]
+organisation."_ [ **Kropotkin's Revolutionary Pamphlets** , p. 158 and p. 137]
 
 Thus anarchism rejects authority in the sense, to use Malatesta's words, of
 _"the delegation of power, that is the abdication of initiative and
-sovereignty of all into the hands a few."_ [**Anarchy**, p. 40] Once this is
+sovereignty of all into the hands a few."_ [ **Anarchy** , p. 40] Once this is
 clearly understood, it will quickly been seen that the SWP create a straw man
 to defeat in argument.
 
@@ -179,13 +177,13 @@ of authority then felt most intolerable. This spirit of revolt in the
 individual and the masses, is the natural and necessary fruit of the spirit of
 domination; the vindication of human dignity, and the saviour of social
 life."_ Thus _"freedom is the necessary preliminary to any true and equal
-human association."_ [Charlotte Wilson, **Anarchist Essays**, p. 54 and p. 40]
-In other words, anarchist comes from the struggle of the oppressed against
+human association."_ [Charlotte Wilson, **Anarchist Essays** , p. 54 and p.
+40] In other words, anarchist comes from the struggle of the oppressed against
 their rulers and is an expression of individual and social freedom. Anarchism
 was born from the class struggle.
 
 This means, positively, that anarchists stress the need for **_self-
-government_** (often called **_self-management_**) of both individuals and
+government_** (often called **_self-management_** ) of both individuals and
 groups. Self-management within free associations and decision making from the
 bottom-up is the only way domination can be eliminated. This is because, by
 making our own decisions ourselves, we automatically end the division of
@@ -241,8 +239,6 @@ of authority anarchists oppose, the SWP ensure that these aspects of our ideas
 are not mentioned in their article. For good reason as it puts Marxism in a
 bad light.
 
-
-
 ## 3\. Why does mentioning the history of anarchism weaken the SWP's argument?
 
 The SWP correctly argue that we _"live in a world of bullying line managers,
@@ -256,9 +252,10 @@ authority in general. But, of course, anarchism is more than this, as the SWP
 acknowledge:
 
 > _"Anarchism, however, is more than a personal reaction against the tyrannies
-of capitalism. It is a set of political beliefs which have been held up as an
-alternative to the revolutionary socialist ideas of Karl Marx. Anarchist ideas
-have, on occasion, had a mass influence on movements against capitalism."_
+> of capitalism. It is a set of political beliefs which have been held up as
+> an alternative to the revolutionary socialist ideas of Karl Marx. Anarchist
+> ideas have, on occasion, had a mass influence on movements against
+> capitalism."_
 
 Given that the _"revolutionary socialist ideas"_ of Marx have been proven
 wrong on numerous occasions while Bakunin's predictions were proven right,
@@ -268,8 +265,9 @@ common workers . . . to Legislative Assemblies . . . The worker-deputies,
 transplanted into a bourgeois environment, into an atmosphere of purely
 bourgeois ideas, will in fact cease to be workers and, becoming Statesmen,
 they will become bourgeois . . . For men do not make their situations; on the
-contrary, men are made by them."_ [**The Basic Bakunin**, p. 108] The history
-of the Marxist Social Democratic Parties across the world proved him right.
+contrary, men are made by them."_ [ **The Basic Bakunin** , p. 108] The
+history of the Marxist Social Democratic Parties across the world proved him
+right.
 
 Similarly, Bakunin predicted that Marx's _"dictatorship of the proletariat"_
 would become the _"dictatorship over the proletariat."_ The experience of the
@@ -286,10 +284,10 @@ made things worse.
 The SWP continue by arguing:
 
 > _"Socialists and anarchists share a hatred of capitalism. They have often
-fought alongside each other in major battles against the capitalist system.
-They struggled together in the Europe-wide mass strikes at the end of the
-First World War and the inspiring Spanish Revolution in 1936, as well as in
-countless smaller battles today."_
+> fought alongside each other in major battles against the capitalist system.
+> They struggled together in the Europe-wide mass strikes at the end of the
+> First World War and the inspiring Spanish Revolution in 1936, as well as in
+> countless smaller battles today."_
 
 Which is true. They also fail to mention that the mass-strikes at the end of
 the First World War were defeated by the actions of the Social-Democratic
@@ -315,8 +313,6 @@ C.N.T. In contrast, the Russian Revolution saw power become centralised into
 the hands of the Bolshevik party leadership and workers' self- management of
 production was eliminated in favour of one-man management imposed from above
 (see M. Brinton's **The Bolsheviks and Workers' Control** for details).
-
-
 
 ## 4\. How is the SWP wrong about centralisation?
 
@@ -358,13 +354,11 @@ After mentioning centralisation, the SWP make a massive jump of logic and
 assert:
 
 > _"But arguing with someone to join a struggle, and trying to put forward
-tactics and ideas that can take it forward are attempts to lead. _
-
+> tactics and ideas that can take it forward are attempts to lead._
 >
-
 > _"It is no good people coming together in a struggle, discussing what to do
-and then doing just what they feel like as if no discussion had taken place.
-We always need to take the best ideas and act on them in a united way."_
+> and then doing just what they feel like as if no discussion had taken place.
+> We always need to take the best ideas and act on them in a united way."_
 
 Placing ideas before a group of people is a "lead" but it is not
 centralisation. Moreover, anarchists are not against making agreements! Far
@@ -372,23 +366,23 @@ from it. The aim of federal organisation is to make agreements, to co-ordinate
 struggles and activities. This does not mean ignoring agreements. As Kropotkin
 argued, the commune _"cannot any longer acknowledge any superior: that, above
 it, there cannot be anything, save the interests of the Federation, freely
-embraced by itself in concert with other Communes."_ [**No Gods, No Masters**,
-vol. 1, p. 259] This vision was stressed in the C.N.T.'s resolution on
+embraced by itself in concert with other Communes."_ [ **No Gods, No Masters**
+, vol. 1, p. 259] This vision was stressed in the C.N.T.'s resolution on
 Libertarian Communism made in May, 1936, which stated that _"the foundation of
 this administration will be the Commune. These Communes are to be autonomous
 and will be federated at regional and national levels for the purpose of
 achieving goals of a general nature. The right of autonomy is not to preclude
 the duty of implementation of agreements regarding collective benefits."_
-[quoted by Jose Pierats, **The C.N.T. in the Spanish Revolution**, p. 68] In
+[quoted by Jose Pierats, **The C.N.T. in the Spanish Revolution** , p. 68] In
 the words of Malatesta:
 
 > _"But an organisation, it is argued, presupposes an obligation to co-
-ordinate one's own activities with those of others; thus it violates liberty
-and fetters initiative. As we see it, what really takes away liberty and makes
-initiative impossible is the isolation which renders one powerless. Freedom is
-not an abstract right but the possibility of acting . . . it is by co-
-operation with his fellows that man finds the means to express his activity
-and his power of initiative."_ [**Life and Ideas**, pp. 86-7]
+> ordinate one's own activities with those of others; thus it violates liberty
+> and fetters initiative. As we see it, what really takes away liberty and
+> makes initiative impossible is the isolation which renders one powerless.
+> Freedom is not an abstract right but the possibility of acting . . . it is
+> by co-operation with his fellows that man finds the means to express his
+> activity and his power of initiative."_ [ **Life and Ideas** , pp. 86-7]
 
 Hence anarchists do not see making collective decisions and working in a
 federation as an abandonment of autonomy or a violation of anarchist theory
@@ -415,7 +409,7 @@ that Bakunin _"[a]s early as September 1870 (in his **Lettres a un francais**
 Prussians out of France by a revolutionary struggle was to do away with all
 forms of centralised leadership and leave each town, each village, each parish
 to wage war on its own."_ [Marx, Engels and Lenin, **Anarchism and Anarcho-
-Syndicalism**, p. 141]
+Syndicalism** , p. 141]
 
 In fact, the truth is totally different. Bakunin does, of course, reject
 _"centralised leadership"_ as it would be _"necessarily very circumscribed,
@@ -430,14 +424,12 @@ of organisation . . . to further their mutual interests . . . the necessity to
 defend their homes, their families, and their own lives against unforeseen
 attack . . . will undoubtedly soon compel them to contract new and mutually
 suitable arrangements."_ The peasants would be _"freely organised from the
-bottom up."_ [_"Letters to a French"_, **Bakunin on Anarchism**, p. 196, p.
+bottom up."_ [ _"Letters to a French"_ , **Bakunin on Anarchism** , p. 196, p.
 206 and p. 207] In this he repeated his earlier arguments concerning social
 revolution -- claims Engels was well aware of, just as he was well aware of
 the statements by Bakunin in his _"Letters to a Frenchman."_ In other words,
 Engels deliberately lied about Bakunin's political ideas. It appears that the
 SWP is simply following the Marxist tradition in their article.
-
-
 
 ## 5\. Why does the SWP's _"picket line is 'authoritarian'"_ argument totally
 miss the point?
@@ -445,17 +437,17 @@ miss the point?
 They continue by arguing:
 
 > _"Not all authority is bad. A picket line is 'authoritarian.' It tries to
-impose the will of the striking workers on the boss, the police and on any
-workers who may be conned into scabbing on the strike."_
+> impose the will of the striking workers on the boss, the police and on any
+> workers who may be conned into scabbing on the strike."_
 
 What should strike the reader about this example is its total lack of class
-analysis. In this the SWP follow Engels. In his essay **On Authority**, Engels
-argues that a _"revolution is certainly the most authoritarian thing there is;
-it is the act whereby one part of the population imposes its will upon the
-other part by means of rifles, bayonets and cannon-authoritarian means, if
-such there be at all; and if the victorious party does not want to have fought
-in vain, it must maintain this rule by means of the terror its arms inspire in
-the reactionaries."_ [**The Marx-Engels Reader**, p. 733]
+analysis. In this the SWP follow Engels. In his essay **On Authority** ,
+Engels argues that a _"revolution is certainly the most authoritarian thing
+there is; it is the act whereby one part of the population imposes its will
+upon the other part by means of rifles, bayonets and cannon-authoritarian
+means, if such there be at all; and if the victorious party does not want to
+have fought in vain, it must maintain this rule by means of the terror its
+arms inspire in the reactionaries."_ [ **The Marx-Engels Reader** , p. 733]
 
 However, such an analysis is without a class basis and so will, by necessity,
 mislead the writer and the reader. Engels argues that revolution is the
@@ -503,17 +495,15 @@ fallacy of Marxism, namely that it claims to desire a society based on the
 participation of everyone yet favours a form of organisation -- centralisation
 -- that precludes that participation.
 
-
-
 ## 6\. Why are the SWP's examples of _"state functions"_ wrong?
 
 The SWP continue their diatribe against anarchism:
 
 > _"Big workers' struggles throw up an alternative form of authority to the
-capitalist state. Militant mass strikes throw up workers' councils. These are
-democratic bodies, like strike committees. But they take on organising 'state
-functions' -- transport, food distribution, defence of picket lines and
-workers' areas from the police and army, and so on."_
+> capitalist state. Militant mass strikes throw up workers' councils. These
+> are democratic bodies, like strike committees. But they take on organising
+> 'state functions' -- transport, food distribution, defence of picket lines
+> and workers' areas from the police and army, and so on."_
 
 To state the obvious, transportation and food distribution are not _"state
 functions."_ They are economic functions. Similarly, defence is not a _"state
@@ -536,26 +526,24 @@ government and using a specialised and hierarchical army and police force to
 do so. The difference is important. Luigi Fabbri sums up it well:
 
 > _"The mistake of authoritarian communists in this connection is the belief
-that fighting and organising are impossible without submission to a
-government; and thus they regard anarchists . . . as the foes of all
-organisation and all co-ordinated struggle. We, on the other hand, maintain
-that not only are revolutionary struggle and revolutionary organisation
-possible outside and in spite of government interference but that, indeed,
-that is the only effective way to struggle and organise, for it has the active
-participation of all members of the collective unit, instead of their
-passively entrusting themselves to the authority of the supreme leaders. _
-
+> that fighting and organising are impossible without submission to a
+> government; and thus they regard anarchists . . . as the foes of all
+> organisation and all co-ordinated struggle. We, on the other hand, maintain
+> that not only are revolutionary struggle and revolutionary organisation
+> possible outside and in spite of government interference but that, indeed,
+> that is the only effective way to struggle and organise, for it has the
+> active participation of all members of the collective unit, instead of their
+> passively entrusting themselves to the authority of the supreme leaders._
 >
-
 > _"Any governing body is an impediment to the real organisation of the broad
-masses, the majority. Where a government exists, then the only really
-organised people are the minority who make up the government; and . . . if the
-masses do organise, they do so against it, outside it, or at the very least,
-independently of it. In ossifying into a government, the revolution as such
-would fall apart, on account of its awarding that government the monopoly of
-organisation and of the means of struggle."_ [_"Anarchy and 'Scientific'
-Communism"_, in **The Poverty of Statism**, pp. 13-49, Albert Meltzer (ed.),
-p. 27]
+> masses, the majority. Where a government exists, then the only really
+> organised people are the minority who make up the government; and . . . if
+> the masses do organise, they do so against it, outside it, or at the very
+> least, independently of it. In ossifying into a government, the revolution
+> as such would fall apart, on account of its awarding that government the
+> monopoly of organisation and of the means of struggle."_ [ _"Anarchy and
+> 'Scientific' Communism"_ , in **The Poverty of Statism** , pp. 13-49, Albert
+> Meltzer (ed.), p. 27]
 
 Thus the difference between anarchists and Leninists is not whether the
 organisations workers' create in struggle will be the framework of a free
@@ -565,20 +553,20 @@ organisations remain self-managed or whether they become part of a centralised
 state. In the words of Camillo Berneri:
 
 > _"The Marxists . . . foresee the natural disappearance of the State as a
-consequence of the destruction of classes by the means of 'the dictatorship of
-the proletariat,' that is to say State Socialism, whereas the Anarchists
-desire the destruction of the classes by means of a social revolution which
-eliminates, with the classes, the State. The Marxists, moreover, do not
-propose the armed conquest of the Commune by the whole proletariat, but the
-propose the conquest of the State by the party which imagines that it
-represents the proletariat. The Anarchists allow the use of direct power by
-the proletariat, but they understand by the organ of this power to be formed
-by the entire corpus of systems of communist administration-corporate
-organisations [i.e. industrial unions], communal institutions, both regional
-and national-freely constituted outside and in opposition to all political
-monopoly by parties and endeavouring to a minimum administrational
-centralisation."_ [_"Dictatorship of the Proletariat and State Socialism"_,
-**Cienfuegos Press Anarchist Review**, no. 4, p. 52]
+> consequence of the destruction of classes by the means of 'the dictatorship
+> of the proletariat,' that is to say State Socialism, whereas the Anarchists
+> desire the destruction of the classes by means of a social revolution which
+> eliminates, with the classes, the State. The Marxists, moreover, do not
+> propose the armed conquest of the Commune by the whole proletariat, but the
+> propose the conquest of the State by the party which imagines that it
+> represents the proletariat. The Anarchists allow the use of direct power by
+> the proletariat, but they understand by the organ of this power to be formed
+> by the entire corpus of systems of communist administration-corporate
+> organisations [i.e. industrial unions], communal institutions, both regional
+> and national-freely constituted outside and in opposition to all political
+> monopoly by parties and endeavouring to a minimum administrational
+> centralisation."_ [ _"Dictatorship of the Proletariat and State Socialism"_
+> , **Cienfuegos Press Anarchist Review** , no. 4, p. 52]
 
 So, anarchists agree, in _"big workers' struggles"_ organisation is essential
 and can form an alternative to the capitalist state. However, such a framework
@@ -591,62 +579,61 @@ and so do without the need for hierarchical authority.
 
 The SWP, in other words, confuse two very different things.
 
-
-
 ## 7\. What is ironic about the SWP's comment that workers' councils must
 _"break up"_ the capitalist state?
 
 After misunderstanding basic concepts, the SWP treat us to a history lesson:
 
 > _"Such councils were a feature of the Russian revolutions of 1905 and 1917,
-the German Revolution after the First World War, the Spanish Revolution of
-1936, and many other great struggles. Socialists argue that these democratic
-workers' organisations need to take power from the capitalists and break up
-their state."_
+> the German Revolution after the First World War, the Spanish Revolution of
+> 1936, and many other great struggles. Socialists argue that these democratic
+> workers' organisations need to take power from the capitalists and break up
+> their state."_
 
 Anarchists agree. Indeed, they argued that workers' organisations should
 _"break up"_ and replace the state long before Lenin discovered this in 1917.
 For example, Bakunin argued in the late 1860s that the International Workers'
 Association, an _"international organisation of workers' associations from all
-countries"_, would _"be able to take the revolution into its own hands"_ and
+countries"_ , would _"be able to take the revolution into its own hands"_ and
 be _"capable of replacing this departing political world of States and
 bourgeoisie."_ The _"natural organisation of the masses"_ was _"organisation
 by trade association,"_ in other words, by unions, _"from the bottom up."_ The
-means of creating socialism would be _"**emancipation through practical
+means of creating socialism would be _" **emancipation through practical
 action** . . . workers' solidarity in their struggle against the bosses. It
-means **trades unions**, **organisation**"_ The very process of struggle would
-create the framework of a new society, a federation of workers' councils, as
-_"strikes indicate a certain collective strength already, a certain
-understanding among the workers . . . each strike becomes the point of
+means **trades unions** , **organisation** "_ The very process of struggle
+would create the framework of a new society, a federation of workers'
+councils, as _"strikes indicate a certain collective strength already, a
+certain understanding among the workers . . . each strike becomes the point of
 departure for the formation of new groups."_ He stresses the International was
 a product of the class war as it _"has not created the war between the
 exploiter and the exploited; rather, the requirements of that war have created
 the International."_ Thus the seeds of the future society are created by the
 class struggle, by the needs of workers to organise themselves to resist the
-boss and the state. [**The Basic Bakunin**, p. 110, p. 139, p. 103 and p. 150]
+boss and the state. [ **The Basic Bakunin** , p. 110, p. 139, p. 103 and p.
+150]
 
 He stressed that the revolution would be based on federations of workers'
 associations, in other words, workers' councils:
 
 > _"the federative alliance of all working men's associations . . . [will]
-constitute the Commune . . . [the] Communal Council [will be] composed of . .
-. delegates . . . vested with plenary but accountable and removable mandates.
-. . all provinces, communes and associations . . . by first reorganising on
-revolutionary lines . . . [will] constitute the federation of insurgent
-associations, communes and provinces . . . [and] organise a revolutionary
-force capable defeating reaction . . . [and for] self-defence . . . [The]
-revolution everywhere must be created by the people, and supreme control must
-always belong to the people organised into a free federation of agricultural
-and industrial associations . . . organised from the bottom upwards by means
-of revolutionary delegation. . ."_ [**Michael Bakunin: Selected Writings**,
-pp. 170-2]
+> constitute the Commune . . . [the] Communal Council [will be] composed of .
+> . . delegates . . . vested with plenary but accountable and removable
+> mandates. . . all provinces, communes and associations . . . by first
+> reorganising on revolutionary lines . . . [will] constitute the federation
+> of insurgent associations, communes and provinces . . . [and] organise a
+> revolutionary force capable defeating reaction . . . [and for] self-defence
+> . . . [The] revolution everywhere must be created by the people, and supreme
+> control must always belong to the people organised into a free federation of
+> agricultural and industrial associations . . . organised from the bottom
+> upwards by means of revolutionary delegation. . ."_ [ **Michael Bakunin:
+> Selected Writings** , pp. 170-2]
 
 And:
 
 > _"The future social organisation must be made solely from the bottom up, by
-the free association or federation of workers, firstly in their unions, then
-in the communes, regions, nations and finally in a great federation,
-international and universal."_ [**Op. Cit.**, p. 206]
+> the free association or federation of workers, firstly in their unions, then
+> in the communes, regions, nations and finally in a great federation,
+> international and universal."_ [ **Op. Cit.** , p. 206]
 
 Thus it is somewhat ironic to have Leninists present basic anarchist ideas as
 if they had thought of them first!
@@ -656,20 +643,20 @@ them as their own is well know. They even rewrite history to do so. For
 example, the SWP's John Rees in the essay _"In Defence of October"_ argues
 that _"since Marx's writings on the Paris Commune"_ a _"cornerstone of
 revolutionary theory"_ was _"that the soviet is a superior form of democracy
-because it unifies political and economic power."_ [**International
-Socialism**, no. 52, p. 25] Nothing could be further from the truth, as Marx's
-writings on the Paris Commune prove.
+because it unifies political and economic power."_ [ **International
+Socialism** , no. 52, p. 25] Nothing could be further from the truth, as
+Marx's writings on the Paris Commune prove.
 
 The Paris Commune, as Marx himself argued, was _"formed of the municipal
 councillors, chosen by universal suffrage in the various wards of the town."_
-[_"The Civil War in France"_, **Selected Works**, p. 287] As Marx made clear,
-it was definitely **not** based on delegates from workplaces and so could
-**not** unify political and economic power. Indeed, to state that the Paris
-Commune was a soviet is simply a joke, as is the claim that Marxists supported
-soviets as revolutionary organs to smash and replace the state from 1871. In
-fact Marxists did not subscribe to this _"cornerstone of revolutionary
-theory"_ until 1917 when Lenin argued that the Soviets would be the best means
-of ensuring a Bolshevik government.
+[ _"The Civil War in France"_ , **Selected Works** , p. 287] As Marx made
+clear, it was definitely **not** based on delegates from workplaces and so
+could **not** unify political and economic power. Indeed, to state that the
+Paris Commune was a soviet is simply a joke, as is the claim that Marxists
+supported soviets as revolutionary organs to smash and replace the state from
+1871. In fact Marxists did not subscribe to this _"cornerstone of
+revolutionary theory"_ until 1917 when Lenin argued that the Soviets would be
+the best means of ensuring a Bolshevik government.
 
 Indeed the **only** political movement which took the position Rees falsely
 ascribes to Marxism was anarchism. This can be clearly seen from Bakunin's
@@ -681,81 +668,61 @@ before Marxists did.
 Similarly, Rees argues that _"the socialist revolution must counterpose the
 soviet to parliament . . . because it needs an organ which combines economic
 power -- the power to strike and take control of the workplaces -- with an
-insurrectionary bid for political power, breaking the old state."_ [**Ibid.**]
-However, he is just repeating anarchist arguments made decades before Lenin's
-temporary conversion to the soviets. In the words of the anarchist Jura
-Federation (written in 1880):
+insurrectionary bid for political power, breaking the old state."_ [ **Ibid.**
+] However, he is just repeating anarchist arguments made decades before
+Lenin's temporary conversion to the soviets. In the words of the anarchist
+Jura Federation (written in 1880):
 
 > _"The bourgeoisie's power over the popular masses springs from economic
-privileges, political domination and the enshrining of such privileges in the
-laws. So we must strike at the wellsprings of bourgeois power, as well as its
-various manifestations. _
-
+> privileges, political domination and the enshrining of such privileges in
+> the laws. So we must strike at the wellsprings of bourgeois power, as well
+> as its various manifestations._
 >
-
 > _"The following measures strike us as essential to the welfare of the
-revolution, every bit as much as armed struggle against its enemies: _
-
+> revolution, every bit as much as armed struggle against its enemies:_
 >
-
 > _"The insurgents must confiscate social capital, landed estates, mines,
-housing, religious and public buildings, instruments of labour, raw materials,
-gems and precious stones and manufactured products: _
-
+> housing, religious and public buildings, instruments of labour, raw
+> materials, gems and precious stones and manufactured products:_
 >
-
 > _"All political, administrative and judicial authorities are to be
-abolished. _
-
+> abolished._
 >
-
-> _". . . What should the organisational measures of the revolution be? _
-
+> _". . . What should the organisational measures of the revolution be?_
 >
-
 > _"Immediate and spontaneous establishment of trade bodies: provisional
-assumption by those of . . . social capital . . .: local federation of a
-trades bodies and labour organisation: _
-
+> assumption by those of . . . social capital . . .: local federation of a
+> trades bodies and labour organisation:_
 >
-
-> _"Establishment of neighbourhood groups and federations of same . . . _
-
+> _"Establishment of neighbourhood groups and federations of same . . ._
 >
-
-> _[. . .] _
-
+> _[. . .]_
 >
-
 > _"[T]he federation of all the revolutionary forces of the insurgent Communes
-. . . Federation of Communes and organisation of the masses, with an eye to
-the revolution's enduring until such time as all reactionary activity has been
-completely eradicated. _
-
+> . . . Federation of Communes and organisation of the masses, with an eye to
+> the revolution's enduring until such time as all reactionary activity has
+> been completely eradicated._
 >
-
-> _[. . .] _
-
+> _[. . .]_
 >
-
 > _"Once trade bodies have been have been established, the next step is to
-organise local life. The organ of this life is to be the federation of trades
-bodies and it is this local federation which is to constitute the future
-Commune."_ [**No Gods, No Masters**, vol. 1, pp. 246-7]
+> organise local life. The organ of this life is to be the federation of
+> trades bodies and it is this local federation which is to constitute the
+> future Commune."_ [ **No Gods, No Masters** , vol. 1, pp. 246-7]
 
 As can be seen, long before Lenin's turn towards the soviets as a means of the
-Bolsheviks taking power, **anarchists**, not Marxists, had argued that we must
-counterpose the council of workers' delegates (by trade in the case of the
-Jura federation, by workplace in the case of the later anarcho-syndicalist
+Bolsheviks taking power, **anarchists** , not Marxists, had argued that we
+must counterpose the council of workers' delegates (by trade in the case of
+the Jura federation, by workplace in the case of the later anarcho-syndicalist
 unions, anarchist theory and the soviets). Anarchists clearly saw that, to
 quote Bakunin, _"[n]o revolution could succeed . . . today unless it was
-simultaneously a political and a social revolution."_ [**Op. Cit.**, p. 141]
+simultaneously a political and a social revolution."_ [ **Op. Cit.** , p. 141]
 Unlike Marx, who clearly saw a political revolution (the conquest of state
-power) coming **before** the economic transformation of society (_"The
+power) coming **before** the economic transformation of society ( _"The
 political rule of the producer cannot coexist with the perpetuation of his
 social slavery. The Commune was therefore to serve as a lever for uprooting
 the economical foundations upon which rests the existence of classes and
-therefore of class-rule."_ [Marx, **Op. Cit.**, p. 290]). This is why
+therefore of class-rule."_ [Marx, **Op. Cit.** , p. 290]). This is why
 anarchists saw the social revolution in terms of economic and social
 organisation and action as its first steps were to eliminate both capitalism
 and the state.
@@ -767,20 +734,20 @@ Moreover, anarchists predicted other ideas that Marx took from the experience
 of the Paris Commune. Marx praised the fact that each delegate to the Commune
 was _"at any time revocable and bound by the **mandat imperatif** (formal
 instructions) of his constituents . . . [and so] strictly responsible
-agents."_ [**Op. Cit.**, p. 288] Anarchists had held this position a number of
-years **before** the Commune introduced it. Proudhon was arguing in 1848 for
-_"universal suffrage and as a consequence of universal suffrage, we want
+agents."_ [ **Op. Cit.** , p. 288] Anarchists had held this position a number
+of years **before** the Commune introduced it. Proudhon was arguing in 1848
+for _"universal suffrage and as a consequence of universal suffrage, we want
 implementation of the binding mandate. Politicians balk at it! Which means
 that in their eyes, the people, in electing representatives, do not appoint
 mandatories but rather abjure their sovereignty! That is assuredly not
-socialism: it is not even democracy."_ [**No Gods, No Masters**, vol. 1, p.
+socialism: it is not even democracy."_ [ **No Gods, No Masters** , vol. 1, p.
 63] We find Bakunin arguing exactly the same. For example, in 1868 he wrote
 that the _"Revolutionary Communal Council will operate on the basis of one or
 two delegates from each barricade . . . these deputies being invested with
-binding mandates and accountable and revocable at all times."_ [**Op. Cit.**,
-p. 155]). In addition, the similarities with the Commune's political ideas and
-Proudhon's are clear, as are the similarities between the Russian Soviets and
-Bakunin's views on revolution.
+binding mandates and accountable and revocable at all times."_ [ **Op. Cit.**
+, p. 155]). In addition, the similarities with the Commune's political ideas
+and Proudhon's are clear, as are the similarities between the Russian Soviets
+and Bakunin's views on revolution.
 
 So, as well as predicting the degeneration of social democracy and the Russian
 revolution, anarchists have also predicted such key aspects of revolutionary
@@ -808,14 +775,12 @@ ideas as if their tradition had thought of them!
 
 Little wonder the SWP fail to present an honest account of anarchism.
 
-
-
 ## 8\. How do the SWP re-write the history of the Russian Revolution?
 
 Their history lesson continues:
 
 > _"This happened in Russia in October 1917 in a revolution led by the
-Bolshevik Party."_
+> Bolshevik Party."_
 
 In reality, this did not happen. In October 1917, the Bolshevik Party took
 power in the name of the workers' councils, the councils themselves did not
@@ -835,8 +800,8 @@ an armed insurrection under the naked slogan of the seizure of power by the
 party, and quite another thing to prepare and then carry out an insurrection
 under the slogan of defending the rights of the Congress of Soviets."_ The
 Soviet Congress just provided _"the legal cover"_ for the Bolshevik plans
-rather than a desire to see the Soviets actually start managing society.
-[**The Lessons of October**]
+rather than a desire to see the Soviets actually start managing society. [
+**The Lessons of October** ]
 
 In 1920, he argued that _"[w]e have more than once been accused of having
 substituted for the dictatorships of the Soviets the dictatorship of the
@@ -847,20 +812,20 @@ from shapeless parliaments of labour into the apparatus of the supremacy of
 labour. In this 'substitution' of the power of the party for the power of the
 working class these is nothing accidental, and in reality there is no
 substitution at all. The Communists express the fundamental interests of the
-working class."_ [**Terrorism and Communism**, p. 109]
+working class."_ [ **Terrorism and Communism** , p. 109]
 
 In 1937 he continued this theme by arguing that _"the proletariat can take
 power only through its vanguard."_ Thus, rather than the working class as a
-whole _"seizing power"_, it is the _"vanguard"_ which takes power -- _"a
+whole _"seizing power"_ , it is the _"vanguard"_ which takes power -- _"a
 revolutionary party, even after seizing power . . . is still by no means the
 sovereign ruler of society."_ He mocked the anarchist idea that a socialist
 revolution should be based on the self-management of workers within their own
 autonomous class organisations:
 
 > _"Those who propose the abstraction of Soviets to the party dictatorship
-should understand that only thanks to the party dictatorship were the Soviets
-able to lift themselves out of the mud of reformism and attain the state form
-of the proletariat."_ [**Stalinism and Bolshevism**]
+> should understand that only thanks to the party dictatorship were the
+> Soviets able to lift themselves out of the mud of reformism and attain the
+> state form of the proletariat."_ [ **Stalinism and Bolshevism** ]
 
 As can be seen, over a 17 year period Trotsky argued that it was the party
 which ruled, not the councils. The workers' councils became little more than
@@ -870,22 +835,21 @@ of the national soviet, and that soviet was not even in permanent session). As
 Russian Anarchist Voline made clear _"for, the anarchists declared, if 'power'
 really should belong to the soviets, it could not belong to the Bolshevik
 Party, and if it should belong to that Party, as the Bolsheviks envisaged, it
-could not belong to the soviets."_ [**The Unknown Revolution**, p. 213] In the
-words of Kropotkin:
+could not belong to the soviets."_ [ **The Unknown Revolution** , p. 213] In
+the words of Kropotkin:
 
 > _"The idea of soviets . . . councils of workers and peasants . . .
-controlling the economic and political life of the country is a great idea.
-All the more so, since it is necessarily follows that these councils should be
-composed of all who take part in the real production of national wealth by
-their own efforts. _
-
+> controlling the economic and political life of the country is a great idea.
+> All the more so, since it is necessarily follows that these councils should
+> be composed of all who take part in the real production of national wealth
+> by their own efforts._
 >
-
 > _"But as long as the country is governed by a party dictatorship, the
-workers' and peasants' councils evidently lose their entire significance. They
-are reduced to the passive rule formerly played by the 'States General,' when
-they were convoked by the king and had to combat an all-powerful royal
-council."_ [**Kropotkin's Revolutionary Pamphlets**, pp. 254-5]
+> workers' and peasants' councils evidently lose their entire significance.
+> They are reduced to the passive rule formerly played by the 'States
+> General,' when they were convoked by the king and had to combat an all-
+> powerful royal council."_ [ **Kropotkin's Revolutionary Pamphlets** , pp.
+> 254-5]
 
 In other words, the workers' councils took power in name only. Real power
 rested with the central government and the workers' councils become little
@@ -903,11 +867,11 @@ themselves, **not** the Bolshevik Party, which raised the issue of workers'
 self-management and control during the Russian Revolution. As historian S.A.
 Smith correctly summarises, the _"factory committees launched the slogan of
 workers' control of production quite independently of the Bolshevik party. It
-was not until May that the party began to take it up."_ [**Red Petrograd**, p.
-154] Given that the defining aspect of capitalism is wage labour, the Russian
-workers' raised a clearly socialist demand that entailed its abolition. It was
-the Bolshevik party, we must note, who failed to raise above a _"trade union
-conscious"_ in this and so many other cases.
+was not until May that the party began to take it up."_ [ **Red Petrograd** ,
+p. 154] Given that the defining aspect of capitalism is wage labour, the
+Russian workers' raised a clearly socialist demand that entailed its
+abolition. It was the Bolshevik party, we must note, who failed to raise above
+a _"trade union conscious"_ in this and so many other cases.
 
 Therefore, rather than being at the forefront of struggle and ideas, the
 Bolsheviks were, in fact, busy trying to catch up. History has repeated itself
@@ -928,29 +892,29 @@ production."_ As S.A. Smith correctly notes, Lenin used _"the term ['workers'
 control'] in a very different sense from that of the factory committees."_ In
 fact Lenin's _"proposals . . . [were] thoroughly statist and centralist in
 character, whereas the practice of the factory committees was essentially
-local and autonomous."_ [**Op. Cit.**, p. 154] Once in power, the Bolsheviks
+local and autonomous."_ [ **Op. Cit.** , p. 154] Once in power, the Bolsheviks
 systematically undermined the popular meaning of workers' control and replaced
 it with their own, statist conception. This ultimately resulted in the
 introduction of _"one-man management"_ (with the manager appointed from above
 by the state). This process is documented in Maurice Brinton's **The
-Bolsheviks and Workers' Control**, who also indicates the clear links between
+Bolsheviks and Workers' Control** , who also indicates the clear links between
 Bolshevik practice and Bolshevik ideology as well as how both differed from
 popular activity and ideas.
 
 Hence the comments by Russian Anarchist Peter Arshinov:
 
 > _"Another no less important peculiarity is that [the] October [revolution of
-1917] has two meanings -- that which the working' masses who participated in
-the social revolution gave it, and with them the Anarchist-Communists, and
-that which was given it by the political party [the Marxist-Communists] that
-captured power from this aspiration to social revolution, and which betrayed
-and stifled all further development. An enormous gulf exists between these two
-interpretations of October. The October of the workers and peasants is the
-suppression of the power of the parasite classes in the name of equality and
-self-management. The Bolshevik October is the conquest of power by the party
-of the revolutionary intelligentsia, the installation of its 'State Socialism'
-and of its 'socialist' methods of governing the masses."_ [**The Two
-Octobers**]
+> 1917] has two meanings -- that which the working' masses who participated in
+> the social revolution gave it, and with them the Anarchist-Communists, and
+> that which was given it by the political party [the Marxist-Communists] that
+> captured power from this aspiration to social revolution, and which betrayed
+> and stifled all further development. An enormous gulf exists between these
+> two interpretations of October. The October of the workers and peasants is
+> the suppression of the power of the parasite classes in the name of equality
+> and self-management. The Bolshevik October is the conquest of power by the
+> party of the revolutionary intelligentsia, the installation of its 'State
+> Socialism' and of its 'socialist' methods of governing the masses."_ [ **The
+> Two Octobers** ]
 
 The members of the "anti-capitalist" movements should bear that in mind when
 the SWP uses the same rhetoric as they do. Appearances are always deceptive
@@ -961,7 +925,7 @@ their interpretation of them can differ drastically.
 Take, for example, the expression "anti-capitalist." The SWP will claim that
 they, too, are "anti-capitalist" but, in fact, they are only opposed to "free
 market" capitalism and actually support state capitalism. Lenin, for example,
-argued that workers' must _"**unquestioningly obey the single will** of the
+argued that workers' must _" **unquestioningly obey the single will** of the
 leaders of labour"_ in April 1918 along with granting _"individual executives
 dictatorial power (or 'unlimited' powers)"_ and that _"the appointment of
 individuals, dictators with unlimited powers"_ was, in fact, _"in general
@@ -970,18 +934,18 @@ because _"the history of revolutionary movements"_ had _"shown"_ that _"the
 dictatorship of individuals was very often the expression, the vehicle, the
 channel of the dictatorship of revolutionary classes."_ He notes that
 _"[u]ndoubtably, the dictatorship of individuals was compatible with bourgeois
-democracy."_ [**The Immediate Tasks of the Soviet Government**, p. 34 and p.
+democracy."_ [ **The Immediate Tasks of the Soviet Government** , p. 34 and p.
 32]
 
 He confused state capitalism with socialism. _"State capitalism,"_ he wrote,
 _"is a complete material preparation for socialism, the threshold of
 socialism, a rung on the ladder of history between which and the rung called
-socialism there are no gaps."_ [**Collected Works**, vol. 24, p. 259] He
+socialism there are no gaps."_ [ **Collected Works** , vol. 24, p. 259] He
 argued that socialism _"is nothing but the next step forward from state
 capitalist monopoly. In other words, Socialism is merely state capitalist
-monopoly **made to benefit the whole people**; by this token it **ceases** to
-be capitalist monopoly."_ [**The Threatening Catastrophe and how to avoid
-it**, p. 37]
+monopoly **made to benefit the whole people** ; by this token it **ceases** to
+be capitalist monopoly."_ [ **The Threatening Catastrophe and how to avoid
+it** , p. 37]
 
 As Peter Arshinov argued, a _"fundamental fact"_ of the Bolshevik revolution
 was _"that the workers and the peasant labourers remained within the earlier
@@ -993,8 +957,8 @@ the State. The relations between the workers and this new boss are the same as
 earlier relations between labour and capital . . . Wage labour has remained
 what it was before, expect that it has taken on the character of an obligation
 to the State. . . . It is clear that in all this we are dealing with a simple
-substitution of State capitalism for private capitalism."_ [**The History of
-the Makhnovist Movement**, p. 35 and p. 71] Therefore, looking at Bolshevism
+substitution of State capitalism for private capitalism."_ [ **The History of
+the Makhnovist Movement** , p. 35 and p. 71] Therefore, looking at Bolshevism
 in power and in theory it is clear that it is not, in fact, "anti-capitalist"
 but rather in favour of state capitalism and any appropriation of popular
 slogans was always under the firm understanding that the Bolshevik
@@ -1004,38 +968,28 @@ Therefore the SWP's attempt to re-write Russian History. The actual events of
 the Russian Revolution indicate well the authoritarian and state-capitalist
 nature of Leninist politics.
 
-
-
 ## 9\. How do the SWP re-write the history of the Spanish Revolution?
 
 The SWP, after re-writing Russian history, move onto Spanish history:
 
 > _"It did not happen in Spain in 1936. The C.N.T., a trade union heavily
-influenced by anarchist ideas, led a workers' uprising in the city of
-Barcelona that year. Workers' councils effectively ran the city. _
-
+> influenced by anarchist ideas, led a workers' uprising in the city of
+> Barcelona that year. Workers' councils effectively ran the city._
 >
-
 > _"But the capitalist state machine did not simply disappear. The government
-and its army, which was fighting against Franco's fascist forces, remained,
-although it had no authority in Barcelona. _
-
+> and its army, which was fighting against Franco's fascist forces, remained,
+> although it had no authority in Barcelona._
 >
-
 > _"The government even offered to hand power over to the leaders of the
-C.N.T. But the C.N.T. believed that any form of state was wrong. It turned
-down the possibility of forming a workers' state, which could have broken the
-fascists' coup and the capitalist state. _
-
+> C.N.T. But the C.N.T. believed that any form of state was wrong. It turned
+> down the possibility of forming a workers' state, which could have broken
+> the fascists' coup and the capitalist state._
 >
-
 > _"Worse, it accepted positions in a government that was dominated by pro-
-capitalist forces. _
-
+> capitalist forces._
 >
-
 > _"That government crushed workers' power in Barcelona, and in doing so
-fatally undermined the fight against fascism."_
+> fatally undermined the fight against fascism."_
 
 It is hard to know where to start with this distortion of history.
 
@@ -1067,10 +1021,10 @@ history of the Spanish Revolution becomes clear.
 Secondly, anarchism does not think that the _"capitalist state machine"_ will
 _"simply disappear."_ Rather, anarchists think that (to quote Kropotkin) the
 revolution _"must smash the State and replace it with the Federation [of
-workers' associations and communes] and it will act accordingly."_ [**No Gods,
-No Masters**, vol. 1, p. 259] In other words, the state does not disappear, it
-is destroyed and replaced with a new, libertarian, form of social structure.
-Thus the SWP misrepresents anarchist theory.
+workers' associations and communes] and it will act accordingly."_ [ **No
+Gods, No Masters** , vol. 1, p. 259] In other words, the state does not
+disappear, it is destroyed and replaced with a new, libertarian, form of
+social structure. Thus the SWP misrepresents anarchist theory.
 
 Thirdly, yes, the Catalan government did offer to stand aside for the C.N.T.
 and the C.N.T. rejected the offer. Why? The SWP claim that _"the C.N.T.
@@ -1090,9 +1044,9 @@ _"leaders of the CNT"_ to refuse power. Trotsky made the same point, arguing
 that:
 
 > _"A revolutionary party, even having seized power (of which the anarchist
-leaders were incapable in spite of the heroism of the anarchist workers), is
-still by no means the sovereign ruler of society."_ [**Stalinism and
-Bolshevism**]
+> leaders were incapable in spite of the heroism of the anarchist workers), is
+> still by no means the sovereign ruler of society."_ [ **Stalinism and
+> Bolshevism** ]
 
 Yet the SWP say they, and their political tradition, are for _"workers'
 power"_ yet, in practice, they clearly mean that power will be seized, held
@@ -1156,35 +1110,27 @@ Spanish Anarchism."_](append32.md) [Section 20](append32.md#app20) of that
 appendix discusses the C.N.T.'s decision to collaborate with the Republican
 State against Franco as well as its implications for anarchism.
 
-
-
 ## 10\. Do anarchists ignore the fact that ideas change through struggle?
 
 The SWP try and generalise from these experiences:
 
 > _"In different ways, the lessons of Russia and Spain are the same. The
-organisational questions thrown up in particular struggles are critical when
-it comes to the working class challenging capitalism. _
-
+> organisational questions thrown up in particular struggles are critical when
+> it comes to the working class challenging capitalism._
 >
-
 > _"Workers face conflicting pressures. On the one hand, they are forced to
-compete in the labour market. They feel powerless, as an individual, against
-the boss. _
-
+> compete in the labour market. They feel powerless, as an individual, against
+> the boss._
 >
-
 > _"That is why workers can accept the bosses' view of the world. At the same
-time constant attacks on workers' conditions create a need for workers to
-unite and fight back together. _
-
+> time constant attacks on workers' conditions create a need for workers to
+> unite and fight back together._
 >
-
 > _"These two pressures mean workers' ideas are uneven. Some see through the
-bosses' lies. Others can be largely taken in. Most part accept and part reject
-capitalist ideas. The overall consciousness of the working class is always
-shifting. People become involved in struggles which lead them to break with
-pro-capitalist ideas."_
+> bosses' lies. Others can be largely taken in. Most part accept and part
+> reject capitalist ideas. The overall consciousness of the working class is
+> always shifting. People become involved in struggles which lead them to
+> break with pro-capitalist ideas."_
 
 That is very true and anarchists are well aware of it. That is why anarchists
 organise groups, produce propaganda, argue their ideas with others and
@@ -1193,49 +1139,46 @@ ideas within society are mixed and that struggle leads people to break with
 pro-capitalist ideas. To quote Bakunin:
 
 > _"the germs of [socialist thought] . . . [are to] be found in the instinct
-of every earnest worker. The goal . . . is to make the worker fully aware of
-what he wants, to unjam within him a stream of thought corresponding to his
-instinct . . . What impedes the swifter development of this salutary though
-among the working masses? Their ignorance to be sure, that is, for the most
-part the political and religious prejudices with which self-interested classes
-still try to obscure their conscious and their natural instinct. How can we
-dispel this ignorance and destroy these harmful prejudices? By education and
-propaganda? . . . they are insufficient . . . [and] who will conduct this
-propaganda? . . . [The] workers' world . . . is left with but a single path,
-that of **emancipation through practical action** . . . It means workers'
-solidarity in their struggle against the bosses. It means **trade-unions,
-organisation** . . . To deliver [the worker] from that ignorance [of
-reactionary ideas], the International relies on collective experience he gains
-in its bosom, especially on the progress of the collective struggle of the
-workers against the bosses . . . As soon as he begins to take an active part
-in this wholly material struggle, . . . Socialism replaces religion in his
-mind. . . through practice and collective experience . . . the progressive and
-development of the economic struggle will bring him more and more to recognise
-his true enemies . . . The workers thus enlisted in the struggle will
-necessarily . . . recognise himself to be a revolutionary socialist, and he
-will act as one."_ [**The Basic Bakunin**, p. 102-3]
+> of every earnest worker. The goal . . . is to make the worker fully aware of
+> what he wants, to unjam within him a stream of thought corresponding to his
+> instinct . . . What impedes the swifter development of this salutary though
+> among the working masses? Their ignorance to be sure, that is, for the most
+> part the political and religious prejudices with which self-interested
+> classes still try to obscure their conscious and their natural instinct. How
+> can we dispel this ignorance and destroy these harmful prejudices? By
+> education and propaganda? . . . they are insufficient . . . [and] who will
+> conduct this propaganda? . . . [The] workers' world . . . is left with but a
+> single path, that of **emancipation through practical action** . . . It
+> means workers' solidarity in their struggle against the bosses. It means
+> **trade-unions, organisation** . . . To deliver [the worker] from that
+> ignorance [of reactionary ideas], the International relies on collective
+> experience he gains in its bosom, especially on the progress of the
+> collective struggle of the workers against the bosses . . . As soon as he
+> begins to take an active part in this wholly material struggle, . . .
+> Socialism replaces religion in his mind. . . through practice and collective
+> experience . . . the progressive and development of the economic struggle
+> will bring him more and more to recognise his true enemies . . . The workers
+> thus enlisted in the struggle will necessarily . . . recognise himself to be
+> a revolutionary socialist, and he will act as one."_ [ **The Basic Bakunin**
+> , p. 102-3]
 
 Therefore anarchists are well aware of the importance of struggle and
 propaganda in winning people to anarchist ideas. No anarchist has ever argued
 otherwise.
-
-
 
 ## 11\. Why do anarchists oppose the Leninist "revolutionary party"?
 
 The SWP argue that:
 
 > _"So there is always a battle of ideas within the working class. That is why
-political organisation is crucial. Socialists seek to build a revolutionary
-party not only to try to spread the lessons from one struggle to another. _
-
+> political organisation is crucial. Socialists seek to build a revolutionary
+> party not only to try to spread the lessons from one struggle to another._
 >
-
 > _"They also want to organise those people who most clearly reject capitalism
-into a force that can fight for their ideas inside the working class as a
-whole. Such a party is democratic because its members constantly debate what
-is happening in today's struggles and the lessons that can be applied from
-past ones."_
+> into a force that can fight for their ideas inside the working class as a
+> whole. Such a party is democratic because its members constantly debate what
+> is happening in today's struggles and the lessons that can be applied from
+> past ones."_
 
 That, in itself, is something most anarchists would agree with. That is why
 they build specific anarchist organisations which discuss and debate politics,
@@ -1246,7 +1189,7 @@ groups and regional federations. The aim of these organisations is to try and
 influence the class struggle towards anarchist ideas (and, equally important,
 **learn** from that struggle as well -- the _"program of the Alliance
 [Bakunin's anarchist group], expanded to keep pace with developing
-situations."_ [Bakunin, **Bakunin on Anarchism**, p. 406]). The need for a
+situations."_ [Bakunin, **Bakunin on Anarchism** , p. 406]). The need for a
 specific political organisation is one most anarchists would agree with.
 
 Thus few anarchists are believers in spontaneous revolution and see the need
@@ -1258,16 +1201,17 @@ and encouraging working class self-organisation and self-management). Hence
 the need for specific anarchist organisations:
 
 > _"The Alliance [Bakunin's anarchist group] is the necessary complement to
-the International [the revolutionary workers' movement]. But the International
-and the Alliance, while having the same ultimate aims, perform different
-functions. The International endeavours to unify the working masses . . .
-regardless of nationality and national boundaries or religious and political
-beliefs, into one compact body; the Alliance . . . tries to give these masses
-a really revolutionary direction. The programs of one and the other, without
-being opposed, differ in the degree of their revolutionary development. The
-International contains in germ, but only in germ, the whole program of the
-Alliance. The program of the Alliance represents the fullest unfolding of the
-International."_ [**Bakunin on Anarchism**, p. 157]
+> the International [the revolutionary workers' movement]. But the
+> International and the Alliance, while having the same ultimate aims, perform
+> different functions. The International endeavours to unify the working
+> masses . . . regardless of nationality and national boundaries or religious
+> and political beliefs, into one compact body; the Alliance . . . tries to
+> give these masses a really revolutionary direction. The programs of one and
+> the other, without being opposed, differ in the degree of their
+> revolutionary development. The International contains in germ, but only in
+> germ, the whole program of the Alliance. The program of the Alliance
+> represents the fullest unfolding of the International."_ [ **Bakunin on
+> Anarchism** , p. 157]
 
 However, anarchists also argue that the revolutionary organisation must also
 reflect the type of society we want. Hence an anarchist federation must be
@@ -1281,7 +1225,7 @@ not democratic). The reason why democracy in the SWP may not be all that it
 should be can be found in their comment that:
 
 > _"It is also centralised, as it arrives at decisions which everyone acts
-on."_
+> on."_
 
 However, this is not centralisation. Centralisation is when the centre decides
 everything and the membership follow those orders. That the membership may be
@@ -1291,7 +1235,7 @@ principle of the army or police, not of a free society. That this is the
 principle of Leninism can be seen from Trotsky's comment that the _"statues
 [of the party] should express the leadership's organised distrust of the
 members, a distrust manifesting itself in vigilant control from above over the
-Party."_ [quoted by M. Brinton, **The Bolsheviks and Workers' Control**, p.
+Party."_ [quoted by M. Brinton, **The Bolsheviks and Workers' Control** , p.
 xi] Thus the centre controls the membership, not vice versa.
 
 In **What is to be Done?** Lenin discussed _"the confusion of ideas concerning
@@ -1302,8 +1246,8 @@ the members to do all the work of managing the unions; not only were all
 questions decided by the vote of all the members, but all the official duties
 were fulfilled by all the members in turn."_ He considered _"such a conception
 of democracy"_ as _"absurd"_ and saw it as historical necessity that it was
-replaced by _"representative institutions"_ and _"full-time officials"_.
-[**Essential Works of Lenin**, pp. 162-3] In other words, the Leninist
+replaced by _"representative institutions"_ and _"full-time officials"_. [
+**Essential Works of Lenin** , pp. 162-3] In other words, the Leninist
 tradition rejects self-management in favour of hierarchical structures in
 which power is centralised in the hands of _"full-time officials"_ and
 _"representative institutions."_
@@ -1318,7 +1262,7 @@ subject to _"the arbitrary power"_ of the committees and _"ruled by
 oligarchs."_ In other words, bureaucracy set in and democracy **as such** was
 eliminated and while _"very good for the committees . . . [it was] not at all
 favourable for the social, intellectual, and moral progress of the collective
-power"_ of the workers' movement. [**Bakunin on Anarchism**, pp. 246-7] Who
+power"_ of the workers' movement. [ **Bakunin on Anarchism** , pp. 246-7] Who
 was correct can quickly be seen from the radical and pro-active nature of the
 British trade union leadership. Ironically, the SWP always bemoan trade union
 bureaucracies betraying workers in struggle yet promote an organisational
@@ -1359,31 +1303,28 @@ of how we organise and co-ordinate -- from the bottom up or from the top down.
 As Bakunin argued:
 
 > _"Discipline, mutual trust as well as unity are all excellent qualities when
-properly understood and practised, but disastrous when abused . . . [one use
-of the word] discipline almost always signifies despotism on the one hand and
-blind automatic submission to authority on the other. . . _
-
+> properly understood and practised, but disastrous when abused . . . [one use
+> of the word] discipline almost always signifies despotism on the one hand
+> and blind automatic submission to authority on the other. . ._
 >
-
 > _"Hostile as I am to [this,] the authoritarian conception of discipline, I
-nevertheless recognise that a certain kind of discipline, not automatic but
-voluntary and intelligently understood is, and will ever be, necessary
-whenever a greater number of individuals undertake any kind of collective work
-or action. Under these circumstances, discipline is simply the voluntary and
-considered co-ordination of all individual efforts for a common purpose. At
-the moment of revolution, in the midst of the struggle, there is a natural
-division of functions according to the aptitude of each, assessed and judged
-by the collective whole. . . _
-
+> nevertheless recognise that a certain kind of discipline, not automatic but
+> voluntary and intelligently understood is, and will ever be, necessary
+> whenever a greater number of individuals undertake any kind of collective
+> work or action. Under these circumstances, discipline is simply the
+> voluntary and considered co-ordination of all individual efforts for a
+> common purpose. At the moment of revolution, in the midst of the struggle,
+> there is a natural division of functions according to the aptitude of each,
+> assessed and judged by the collective whole. . ._
 >
-
 > _"In such a system, power, properly speaking, no longer exists. Power is
-diffused to the collectivity and becomes the true expression of the liberty of
-everyone, the faithful and sincere realisation of the will of all . . . this
-is the only true discipline, the discipline necessary for the organisation of
-freedom. This is not the kind of discipline preached by the State . . . which
-wants the old, routine-like, automatic blind discipline. Passive discipline is
-the foundation of every despotism."_ [**Bakunin on Anarchism**, pp. 414-5]
+> diffused to the collectivity and becomes the true expression of the liberty
+> of everyone, the faithful and sincere realisation of the will of all . . .
+> this is the only true discipline, the discipline necessary for the
+> organisation of freedom. This is not the kind of discipline preached by the
+> State . . . which wants the old, routine-like, automatic blind discipline.
+> Passive discipline is the foundation of every despotism."_ [ **Bakunin on
+> Anarchism** , pp. 414-5]
 
 Therefore, anarchists see the need to make agreements, to stick by them and to
 show discipline but we argue that this must be to the agreements we helped to
@@ -1392,15 +1333,13 @@ the necessity of agreement with hierarchical power, of solidarity and
 agreement from below with unity imposed from above as well as the need for
 discipline with following orders.
 
-
-
 ## 12\. Why do the SWP make a polemical fetish of _"unity"_ and _"democracy"_
 to the expense of common sense and freedom?
 
 The SWP argue that _"unity"_ is essential:
 
 > _"Without unity around decisions there would be no democracy - minorities
-would simply ignore majority decisions."_
+> would simply ignore majority decisions."_
 
 Anarchists are in favour of free agreement and so argue that minorities
 should, in general, go along with the majority decisions of the groups and
@@ -1410,24 +1349,24 @@ association. As Malatesta argued, _"anarchists recognise that where life is
 lived in common it is often necessary for the minority to come to accept the
 opinion of the majority. When there is an obvious need or usefulness in doing
 something and, to do it requires the agreement of all, the few should feel the
-need adapt to the wishes of the many."_ [**The Anarchist Revolution**, p. 100]
-The Spanish C.N.T. argued in its vision of Libertarian Communism that:
+need adapt to the wishes of the many."_ [ **The Anarchist Revolution** , p.
+100] The Spanish C.N.T. argued in its vision of Libertarian Communism that:
 
 > _"Communes are to be autonomous and will be federated at regional and
-national levels for the purpose of achieving goals of a general nature. . . .
-communes . . . will undertake to adhere to whatever general norms [that] may
-be majority vote after free debate. . . The inhabitants of a Commune are to
-debate their internal problems . . . among themselves. Whenever problems
-affecting an entire comarca [district] or province are involved, it must be
-the Federations [of communes] who deliberate and at every reunion or assembly
-these may hold all of the Communes are to be represented and their delegates
-will relay the viewpoints previously approved in their respective Communes . .
-. On matters of a regional nature, it will be up to the Regional Federation to
-put agreements into practice and these agreements will represent the sovereign
-will of all the region's inhabitants. So the starting point is the individual,
-moving on through the Commune, to the Federation and right on up finally to
-the Confederation."_ [quoted by Jose Pierats, **The C.N.T. in the Spanish
-Revolution**, pp. 68-9]
+> national levels for the purpose of achieving goals of a general nature. . .
+> . communes . . . will undertake to adhere to whatever general norms [that]
+> may be majority vote after free debate. . . The inhabitants of a Commune are
+> to debate their internal problems . . . among themselves. Whenever problems
+> affecting an entire comarca [district] or province are involved, it must be
+> the Federations [of communes] who deliberate and at every reunion or
+> assembly these may hold all of the Communes are to be represented and their
+> delegates will relay the viewpoints previously approved in their respective
+> Communes . . . On matters of a regional nature, it will be up to the
+> Regional Federation to put agreements into practice and these agreements
+> will represent the sovereign will of all the region's inhabitants. So the
+> starting point is the individual, moving on through the Commune, to the
+> Federation and right on up finally to the Confederation."_ [quoted by Jose
+> Pierats, **The C.N.T. in the Spanish Revolution** , pp. 68-9]
 
 Therefore, as a general rule-of-thumb, anarchists have little problem with the
 minority accepting the decisions of the majority after a process of free
@@ -1471,22 +1410,20 @@ and would mean betrayal in face of the enemy . . . What is essential is that
 individuals should develop a sense of organisation and solidarity, and the
 conviction that fraternal co-operation is necessary to fight oppression and to
 achieve a society in which everyone will be able to enjoy his [or her] own
-life."_ [**Life and Ideas**, pp. 132-3]
+life."_ [ **Life and Ideas** , pp. 132-3]
 
 He stresses the point:
 
 > _"But such an adaptation [of the minority to the decisions of the majority]
-on the one hand by one group must be reciprocal, voluntary and must stem from
-an awareness of need and of goodwill to prevent the running of social affairs
-from being paralysed by obstinacy. It cannot be imposed as a principle and
-statutory norm. . . _
-
+> on the one hand by one group must be reciprocal, voluntary and must stem
+> from an awareness of need and of goodwill to prevent the running of social
+> affairs from being paralysed by obstinacy. It cannot be imposed as a
+> principle and statutory norm. . ._
 >
-
 > _"So . . . anarchists deny the right of the majority to govern in human
-society in general . . . how is it possible . . . to declare that anarchists
-should submit to the decisions of the majority before they have even heard
-what those might be?"_ [**The Anarchist Revolution**, pp. 100-1]
+> society in general . . . how is it possible . . . to declare that anarchists
+> should submit to the decisions of the majority before they have even heard
+> what those might be?"_ [ **The Anarchist Revolution** , pp. 100-1]
 
 Therefore, while accepting majority decision making as a key aspect of a
 revolutionary movement and a free society, anarchists do not make a fetish of
@@ -1517,8 +1454,6 @@ leadership of their own parties. As we argue in [section
 14](append34.md#app14), such activities flow naturally from the vanguardist
 politics of Leninism and should not come as a surprise.
 
-
-
 ## 13\. How does the Battle of Prague expose the SWP as hypocrites?
 
 To evaluate the sincerity of the SWP's proclaimed commitment to _"democracy"_
@@ -1528,7 +1463,8 @@ the demonstration against the WTO and IMF in Prague on September 26th, 2000.
 Let us recall that on September 16th, the SWP had argued as follows:
 
 > _"It is no good people coming together in a struggle, discussing what to do
-and then doing just what they feel like as if no discussion had taken place."_
+> and then doing just what they feel like as if no discussion had taken
+> place."_
 
 They stressed that importance of _"centralisation"_ which they defined as
 _"arriv[ing] at decisions which everyone acts on. Without unity around
@@ -1560,27 +1496,27 @@ Pink section because it was at the front of the march and so offered the best
 media coverage for their placards and banners. Similarly, they joined the
 Yellow Section because it was marching directly to the conference centre and
 not, like Pink, going round to the rear and so, again, offered the best media
-coverage. In other words, they _"did their own thing"_, ignored the agreements
-they made and weakened the protests simply to look the dominant group in the
-press. Ironically, the Czech media made sure that the Leninist parties got
-onto their front pages simply because many of them chose to march in Prague
-with red flags emblazoned with hammer and sickles. Flags associated with the
-Soviet occupation and the old regime are hardly "popular" and so useful to
-smear the protests.
+coverage. In other words, they _"did their own thing"_ , ignored the
+agreements they made and weakened the protests simply to look the dominant
+group in the press. Ironically, the Czech media made sure that the Leninist
+parties got onto their front pages simply because many of them chose to march
+in Prague with red flags emblazoned with hammer and sickles. Flags associated
+with the Soviet occupation and the old regime are hardly "popular" and so
+useful to smear the protests.
 
 The decision of the SWP to ignore the agreed plan was applauded by other
 Leninists. According to the post-Prague issue of the Communist Party of Great
-Britain's paper **Weekly Worker**:
+Britain's paper **Weekly Worker** :
 
 > _"Farcically, the organisers had decided to split the march into three, each
-with its own route and composition -- blue (anarchist), pink (trade unions and
-left organisations) and yellow (NGOs and Jubilee 2000). Ostensibly, this
-started as a tactic designed to facilitate forming a human chain around the
-conference centre, although by the day of the action this aim had, apparently,
-been abandoned. Whether these truly stupid arrangements had been accepted
-beforehand by all on the INPEG (Initiative Against Economic Globalisation)
-remains hazy, given the paucity of information about the debates and
-differences on this self-appointed body."_
+> with its own route and composition -- blue (anarchist), pink (trade unions
+> and left organisations) and yellow (NGOs and Jubilee 2000). Ostensibly, this
+> started as a tactic designed to facilitate forming a human chain around the
+> conference centre, although by the day of the action this aim had,
+> apparently, been abandoned. Whether these truly stupid arrangements had been
+> accepted beforehand by all on the INPEG (Initiative Against Economic
+> Globalisation) remains hazy, given the paucity of information about the
+> debates and differences on this self-appointed body."_
 
 The splitting of the march into three, as a matter of fact, was a great
 success. It allowed the demonstrators to encircle the conference centre. The
@@ -1596,27 +1532,27 @@ How was the demonstration's organised? According to eye-witness Katharine
 Viner (writing in **The Guardian** on Friday September 29, 2000):
 
 > _"In the run-up to Tuesday's demonstration I attended the convergence
-centre, where 'spokes council' meetings took place, and found the sense of
-community and organisation there astonishing and moving. Every 'affinity
-group' - NGO or group of friends - sent a spokesperson to meetings to make
-decisions and work out strategy. It sounds impossible to contain, and it was
-laborious, but it worked and consensus was found. It felt like proper
-democracy in a way that the ballot box does not."_
+> centre, where 'spokes council' meetings took place, and found the sense of
+> community and organisation there astonishing and moving. Every 'affinity
+> group' - NGO or group of friends - sent a spokesperson to meetings to make
+> decisions and work out strategy. It sounds impossible to contain, and it was
+> laborious, but it worked and consensus was found. It felt like proper
+> democracy in a way that the ballot box does not."_
 
-Julie Light, of **Corporate Watch**, indicates the same process at work in her
-account entitled **Spirits, Tensions Run High in Prague** (dated September 25,
-2000):
+Julie Light, of **Corporate Watch** , indicates the same process at work in
+her account entitled **Spirits, Tensions Run High in Prague** (dated September
+25, 2000):
 
 > _"the activist coalition called the Initiative Against Economic
-Globalisation (INPEG) is training hundreds of people in civil disobedience at
-the Convergence Centre. The Centre, a converted warehouse space located under
-Prague's Libensky Bridge, serves as an information and strategy clearinghouse
-for the protesters. A 'spokes council' made up of representatives of dozens of
-groups makes decisions by consensus for this international ad-hoc coalition
-that has never worked together before. They have an elaborate system of hand
-signals to indicate their views as they discuss the details of the protests.
-Given the logistical obstacles, things seem to be running remarkably
-smoothly."_
+> Globalisation (INPEG) is training hundreds of people in civil disobedience
+> at the Convergence Centre. The Centre, a converted warehouse space located
+> under Prague's Libensky Bridge, serves as an information and strategy
+> clearinghouse for the protesters. A 'spokes council' made up of
+> representatives of dozens of groups makes decisions by consensus for this
+> international ad-hoc coalition that has never worked together before. They
+> have an elaborate system of hand signals to indicate their views as they
+> discuss the details of the protests. Given the logistical obstacles, things
+> seem to be running remarkably smoothly."_
 
 Obviously _"proper democracy"_ and a council of group spokespeople discussing
 the protests were not good enough for the SWP and other Leninist groups. Nor,
@@ -1625,18 +1561,19 @@ of course, making an agreement and sticking to it.
 The **Weekly Worker** complements the SWP's decision:
 
 > _"Come the march itself, the damage was partially repaired by the decision
-of a majority of the 'pink' contingent (with the SWP and its international
-sections to the fore) to simply veer off the agreed route. This pink section
-then partially merged with the yellow to advance on the conference."_
+> of a majority of the 'pink' contingent (with the SWP and its international
+> sections to the fore) to simply veer off the agreed route. This pink section
+> then partially merged with the yellow to advance on the conference."_
 
 We must point out that the International Socialist appear to have lied about
 the numbers they were bringing to Prague. The day before the demonstration
 they claimed they said they would contribute 2,500 to the Pink section --
-since then their own press has reported 1,000 in their delegation (**Socialist
-Worker** no. 1716 stated that the _"day began when over 1,000 marched from the
-Florenc bus station . . .led by supporters of Socialist Worker and its sister
-papers elsewhere in Europe"_). This would have left the Pink block seriously
-under strength even if they had not unilaterally left their block.
+since then their own press has reported 1,000 in their delegation (
+**Socialist Worker** no. 1716 stated that the _"day began when over 1,000
+marched from the Florenc bus station . . .led by supporters of Socialist
+Worker and its sister papers elsewhere in Europe"_ ). This would have left the
+Pink block seriously under strength even if they had not unilaterally left
+their block.
 
 Their defection from the agreed plan had very serious repercussions on the day
 -- one gate in the Pink sector was never covered. In the Blue sector, where
@@ -1746,8 +1683,6 @@ section](append34.md#app14)). Little wonder Marxism-Leninism is dying -- the
 difference between what they claim and what they do is becoming increasingly
 well know.
 
-
-
 ## 14\. Is the Leninist tradition actually as democratic as the SWP like to
 claim?
 
@@ -1761,13 +1696,13 @@ section](append34.md#app13), now we turn to Bolshevism in power during the
 Russian Revolution.
 
 For example, the Bolsheviks usually overthrew the results of provincial soviet
-elections that went against them [Samuel Farber, **Before Stalinism**, pp
+elections that went against them [Samuel Farber, **Before Stalinism** , pp
 22-24]. It was in the spring of 1918 that the Bolsheviks showed how little
 they really supported the soviets. As discontent grew soviet after soviet fell
 to Menshevik-SR blocs. To stay in power they had to destroy the soviets and
 they did. Opposition victories were followed by disbanding of the soviets and
 often martial law. [Vladimir Brovkin, _"The Menshevik's Political Comeback:
-The elections to the provincial soviets in spring 1918"_, **Russian Review**
+The elections to the provincial soviets in spring 1918"_ , **Russian Review**
 no. 42 (1983), pp. 1-50]
 
 In addition, the Bolsheviks abolished by decree soldiers' councils and the
@@ -1788,7 +1723,7 @@ the workers' democracy!"_ He continued by stating the _"Party is obliged to
 maintain its dictatorship . . . regardless of temporary vacillations even in
 the working class . . . The dictatorship does not base itself at every moment
 on the formal principle of a workers' democracy."_ [quoted by M. Brinton,
-**The Bolsheviks and Workers' Control**, p. 78]
+**The Bolsheviks and Workers' Control** , p. 78]
 
 Of course, such a position follows naturally from Lenin's theory from **What
 is to be Done?** that _"the working class, exclusively by their own effort, is
@@ -1800,7 +1735,7 @@ Social-Democracy arose quite independently of the spontaneous growth of the
 labour movement; it arose as a natural and inevitable outcome of ideas among
 the revolutionary socialist intelligentsia."_ This meant that _"Social
 Democratic [i.e. socialist] consciousness . . . could only be brought to them
-from without."_ [**Essential Lenin**, pp. 74-5]
+from without."_ [ **Essential Lenin** , pp. 74-5]
 
 For Leninists, if the workers' act in ways opposed to by the party, then the
 party has the right to ignore, even repress, the workers -- they simply do not
@@ -1808,13 +1743,13 @@ party has the right to ignore, even repress, the workers -- they simply do not
 _"socialist consciousness"_ by their own efforts -- indeed, their opinions can
 be dismissed as _"there can be no talk of an independent ideology being
 developed by the masses of the workers in the process of their movement **the
-only choice is**: either bourgeois or socialist ideology . . . to belittle
-socialist ideology **in any way**, to **deviate from it in the slightest
+only choice is** : either bourgeois or socialist ideology . . . to belittle
+socialist ideology **in any way** , to **deviate from it in the slightest
 degree** means strengthening bourgeois ideology . . . the **spontaneous**
 development of the labour movement leads to it becoming subordinated to
-bourgeois ideology."_ [**Op. Cit.**, p. 82] Given that the socialist ideology
-cannot be communicated without the vanguard party, this means that the
-**party** can ignore the wishes of the masses simply because such wishes
+bourgeois ideology."_ [ **Op. Cit.** , p. 82] Given that the socialist
+ideology cannot be communicated without the vanguard party, this means that
+the **party** can ignore the wishes of the masses simply because such wishes
 **must be** influenced by "bourgeois" ideology. Thus Leninism contains within
 itself the justification for eliminating democracy within the revolution. From
 Lenin's arguments to Bolshevik actions during the revolution and Trotsky's
@@ -1824,19 +1759,19 @@ In other words, the SWP's _"Battle of Ideas"_ becomes, once the vanguard is in
 power, just a battle:
 
 > _"Without revolutionary coercion directed against the avowed enemies of the
-workers and peasants, it is impossible to break down the resistance of these
-exploiters. On the other hand, revolutionary coercion is bound to be employed
-towards the wavering and unstable elements among the masses themselves."_
-[Lenin, **Collected Works**, vol. 24, p. 170]
+> workers and peasants, it is impossible to break down the resistance of these
+> exploiters. On the other hand, revolutionary coercion is bound to be
+> employed towards the wavering and unstable elements among the masses
+> themselves."_ [Lenin, **Collected Works** , vol. 24, p. 170]
 
 Significantly, of the 17 000 camp detainees on whom statistical information
 was available on 1 November 1920, peasants and workers constituted the largest
 groups, at 39% and 34% respectively. Similarly, of the 40 913 prisoners held
 in December 1921 (of whom 44% had been committed by the Cheka) nearly 84% were
 illiterate or minimally educated, clearly, therefore, either peasants of
-workers. [George Leggett, **The Cheka: Lenin's Political Police**, p. 178]
+workers. [George Leggett, **The Cheka: Lenin's Political Police** , p. 178]
 Needless to say, Lenin failed to mention this aspect of his system in **The
-State and Revolution**, as do the SWP in their article.
+State and Revolution** , as do the SWP in their article.
 
 It is hard to combine these facts and the SWP's comments with the claim that
 the "workers' state" is an instrument of class rule -- after all, Lenin is
@@ -1861,14 +1796,14 @@ delegates and organise a national congress of soviets (which, we note, is not
 in permanent session). The local soviets are bound to carry out the commands
 of the central government (to quote the Soviet constitution of 1918 -- they
 are to _"carry out all orders of the respective higher organs of the soviet
-power"_). Any independence on their part would be considered _"wavering"_ or
+power"_ ). Any independence on their part would be considered _"wavering"_ or
 an expression of _"unstable"_ natures and so subject to _"revolutionary
 coercion"_. In a highly centralised system, the means of accountability is
 reduced to the usual bourgeois level -- vote in the general election every few
 years (which, in any case, can be annulled by the government if its dislikes
 the _"passing moods"_ expressed by them). As can be seen above, the Bolsheviks
 did disband soviets when they considered the wrong (i.e. _"wavering"_ or
-_"unstable"_) elements had been elected to them and so a highly centralised
+_"unstable"_ ) elements had been elected to them and so a highly centralised
 state system cannot be responsive to real control from below.
 
 Secondly, _"revolutionary coercion"_ against _"wavering"_ elements does not
@@ -1883,30 +1818,28 @@ Leninist conception of workers' councils is purely instrumental. In 1907,
 Lenin argued that:
 
 > _"the Party . . . has never renounced its intention of utilising certain
-non-party organisations, such as the Soviets of Workers' Deputies . . . to
-extend Social-Democratic influence among the working class and to strengthen
-the Social-Democratic labour movement . . . the incipient revival creates the
-opportunity to organise or utilise non-party working-class institutions, such
-as Soviets . . . for the purpose of developing the Social-Democratic movement;
-at the same time the Social-Democratic Party organisations must bear in mind
-if Social-Democratic activities among the proletarian masses are properly,
-effectively and widely organised, such institutions may actually become
-superfluous."_ [Marx, Engels and Lenin, **Anarchism and Anarcho-Syndicalism**,
-pp. 209-10]
+> non-party organisations, such as the Soviets of Workers' Deputies . . . to
+> extend Social-Democratic influence among the working class and to strengthen
+> the Social-Democratic labour movement . . . the incipient revival creates
+> the opportunity to organise or utilise non-party working-class institutions,
+> such as Soviets . . . for the purpose of developing the Social-Democratic
+> movement; at the same time the Social-Democratic Party organisations must
+> bear in mind if Social-Democratic activities among the proletarian masses
+> are properly, effectively and widely organised, such institutions may
+> actually become superfluous."_ [Marx, Engels and Lenin, **Anarchism and
+> Anarcho-Syndicalism** , pp. 209-10]
 
 As can be seen from the experiences of Russia under Lenin, this perspective
 did not fundamentally change -- given a conflict between the councils and the
 party, the party always came first and soviets simply superfluous.
-
-
 
 ## 15\. Why is the SWP's support for centralisation anti-socialist?
 
 The SWP continue:
 
 > _"Centralism is needed above all because the capitalist state is
-centralised. The police, media moguls, employers, the state bureaucracy and
-governments act in a concerted way to protect the system."_
+> centralised. The police, media moguls, employers, the state bureaucracy and
+> governments act in a concerted way to protect the system."_
 
 Very true. However, the SWP fail to analyse **_why_** the state is
 centralised. Simply put, the state is centralised to **facilitate minority
@@ -1923,28 +1856,28 @@ designed that way and can have no other result. For that reason anarchists
 reject centralisation. As the justly famous Sonvillier Circular argued: _"How
 could one expect an egalitarian society to emerge out of an authoritarian
 organisation? It is impossible."_ [quoted by Brian Morris, **Bakunin: The
-Philosophy of Freedom**, p. 61]
+Philosophy of Freedom** , p. 61]
 
 Thus Rudolf Rocker:
 
 > _"For the state centralisation is the appropriate form of organisation,
-since it aims at the greatest possible uniformity in social life for the
-maintenance of political and social equilibrium. But for a movement whose very
-existence depends on prompt action at any favourable moment and on the
-independent thought and action of its supporters, centralism could but be a
-curse by weakening its power of decision and systematically repressing all
-immediate action. If, for example, as was the case in Germany, every local
-strike had first to be approved by the Central, which was often hundreds of
-miles away and was not usually in a position to pass a correct judgement on
-the local conditions, one cannot wonder that the inertia of the apparatus of
-organisation renders a quick attack quite impossible, and there thus arises a
-state of affairs where the energetic and intellectually alert groups no longer
-serve as patterns for the less active, but are condemned by these to
-inactivity, inevitably bringing the whole movement to stagnation. Organisation
-is, after all, only a means to an end. When it becomes an end in itself, it
-kills the spirit and the vital initiative of its members and sets up that
-domination by mediocrity which is the characteristic of all bureaucracies."_
-[**Anarcho-Syndicalism**, p. 54]
+> since it aims at the greatest possible uniformity in social life for the
+> maintenance of political and social equilibrium. But for a movement whose
+> very existence depends on prompt action at any favourable moment and on the
+> independent thought and action of its supporters, centralism could but be a
+> curse by weakening its power of decision and systematically repressing all
+> immediate action. If, for example, as was the case in Germany, every local
+> strike had first to be approved by the Central, which was often hundreds of
+> miles away and was not usually in a position to pass a correct judgement on
+> the local conditions, one cannot wonder that the inertia of the apparatus of
+> organisation renders a quick attack quite impossible, and there thus arises
+> a state of affairs where the energetic and intellectually alert groups no
+> longer serve as patterns for the less active, but are condemned by these to
+> inactivity, inevitably bringing the whole movement to stagnation.
+> Organisation is, after all, only a means to an end. When it becomes an end
+> in itself, it kills the spirit and the vital initiative of its members and
+> sets up that domination by mediocrity which is the characteristic of all
+> bureaucracies."_ [ **Anarcho-Syndicalism** , p. 54]
 
 Just as the capitalist state cannot be utilised by the working class for its
 own ends, capitalist/statist organisational principles such as appointment,
@@ -1963,42 +1896,36 @@ was concerned about the application of libertarian principles to military
 organisation. Durruti replied:
 
 > _"I have already said and I repeat; during all my life, I have acted as an
-anarchist. The fact of having been given political responsibility for a human
-collective cannot change my convictions. It is under these conditions that I
-agreed to play the role given to me by the Central Committee of the Militias.
-_
-
+> anarchist. The fact of having been given political responsibility for a
+> human collective cannot change my convictions. It is under these conditions
+> that I agreed to play the role given to me by the Central Committee of the
+> Militias._
 >
-
 > _"I thought -- and what has happened confirms my belief -- that a
-workingmen's militia cannot be led according to the same rules as an army. I
-think that discipline, co-ordination and the fulfilment of a plan are
-indispensable. But this idea can no longer be understood in the terms of the
-world we have just destroyed. We have new ideas. We think that solidarity
-among men must awaken personal responsibility, which knows how to accept
-discipline as an autonomous act. _
-
+> workingmen's militia cannot be led according to the same rules as an army. I
+> think that discipline, co-ordination and the fulfilment of a plan are
+> indispensable. But this idea can no longer be understood in the terms of the
+> world we have just destroyed. We have new ideas. We think that solidarity
+> among men must awaken personal responsibility, which knows how to accept
+> discipline as an autonomous act._
 >
-
 > _"Necessity imposes a war on us, a struggle that differs from many of those
-that we have carried on before. But the goal of our struggle is always the
-triumph of the revolution. This means not only victory over the enemy, but
-also a radical change in man. For this change to occur, man must learn to live
-in freedom and develop in himself his potentialities as a responsible
-individual. The worker in the factory, using his tools and directing
-production, is bringing about a change in himself. The fighter, like the
-worker, uses his gun as a tool and his acts must lead to the same goals as
-those of the worker. _
-
+> that we have carried on before. But the goal of our struggle is always the
+> triumph of the revolution. This means not only victory over the enemy, but
+> also a radical change in man. For this change to occur, man must learn to
+> live in freedom and develop in himself his potentialities as a responsible
+> individual. The worker in the factory, using his tools and directing
+> production, is bringing about a change in himself. The fighter, like the
+> worker, uses his gun as a tool and his acts must lead to the same goals as
+> those of the worker._
 >
-
 > _"In the struggle he cannot act like a soldier under orders but like a man
-who is conscious of what he is doing. I know it is not easy to get such a
-result, but what one cannot get by reason, one can never get through force. If
-our revolutionary army must be maintained through fear, we will have changed
-nothing but the colour of fear. It is only by freeing itself from fear that a
-free society can be built."_ [quoted by Abel Paz, **Durruti: The People
-Armed**, p. 224]
+> who is conscious of what he is doing. I know it is not easy to get such a
+> result, but what one cannot get by reason, one can never get through force.
+> If our revolutionary army must be maintained through fear, we will have
+> changed nothing but the colour of fear. It is only by freeing itself from
+> fear that a free society can be built."_ [quoted by Abel Paz, **Durruti: The
+> People Armed** , p. 224]
 
 Durruti's words effectively refute the SWP's flawed argument. We need to
 organise, co-ordinate, co-operate our activities but we cannot do so in
@@ -2012,30 +1939,29 @@ was the factory committee movement and its attempts at workers' self-
 management of production. As historian A.S. Smith summarises:
 
 > _"Implicit in the movement for workers' control was a belief that capitalist
-methods cannot be used for socialist ends. In their battle to democratise the
-factory, in their emphasis on the importance of collective initiatives by the
-direct producers in transforming the work situation, the factory committees
-had become aware -- in a partial and groping way, to be sure -- that factories
-are not merely sites of production, but also of reproduction -- the
-reproduction of a certain structure of social relations based on the division
-between those who give orders and those who take them, between those who
-direct and those who execute . . . inscribed within their practice was a
-distinctive vision of socialism, central to which was workplace democracy. _
-
+> methods cannot be used for socialist ends. In their battle to democratise
+> the factory, in their emphasis on the importance of collective initiatives
+> by the direct producers in transforming the work situation, the factory
+> committees had become aware -- in a partial and groping way, to be sure --
+> that factories are not merely sites of production, but also of reproduction
+> -- the reproduction of a certain structure of social relations based on the
+> division between those who give orders and those who take them, between
+> those who direct and those who execute . . . inscribed within their practice
+> was a distinctive vision of socialism, central to which was workplace
+> democracy._
 >
-
 > _"Lenin believed that socialism could be built only on the basis of large-
-scale industry as developed by capitalism, with its specific types of
-productivity and social organisation of labour. Thus for him, capitalist
-methods of labour-discipline or one-man management were not necessarily
-incompatible with socialism. Indeed, he went so far as to consider them to be
-inherently progressive, failing to recognise that such methods undermined
-workers' initiative at the point of production. This was because Lenin
-believed that the transition to socialism was guaranteed, ultimately, not by
-the self-activity of workers, but by the 'proletarian' character of state
-power. . . There is no doubt that Lenin did conceive proletarian power in
-terms of the central state and lacked a conception of localising such power at
-the point of production."_ [**Red Petrograd**, pp. 261-2]
+> scale industry as developed by capitalism, with its specific types of
+> productivity and social organisation of labour. Thus for him, capitalist
+> methods of labour-discipline or one-man management were not necessarily
+> incompatible with socialism. Indeed, he went so far as to consider them to
+> be inherently progressive, failing to recognise that such methods undermined
+> workers' initiative at the point of production. This was because Lenin
+> believed that the transition to socialism was guaranteed, ultimately, not by
+> the self-activity of workers, but by the 'proletarian' character of state
+> power. . . There is no doubt that Lenin did conceive proletarian power in
+> terms of the central state and lacked a conception of localising such power
+> at the point of production."_ [ **Red Petrograd** , pp. 261-2]
 
 The outcome of this struggle was the victory of the Bolshevik vision (as it
 had state power to enforce it) and the imposition of apparently "efficient"
@@ -2066,19 +1992,19 @@ decentralised, built and organised from the bottom-up in a federal structure.
 This perspective can be seen from the justly famous Sonvillier Circular:
 
 > _"The future society should be nothing but a universalisation of the
-organisation which the International will establish for itself. We must
-therefore take care to bring this organisation as near as possible to our
-ideal . . . How could one expect an egalitarian and free society to grow out
-of an authoritarian organisation? That is impossible. The International,
-embryo of the future human society, must be, from now on, the faithful image
-of our principles of liberty and federation."_ [quoted by Marx, **Fictitious
-Splits in the International**]
+> organisation which the International will establish for itself. We must
+> therefore take care to bring this organisation as near as possible to our
+> ideal . . . How could one expect an egalitarian and free society to grow out
+> of an authoritarian organisation? That is impossible. The International,
+> embryo of the future human society, must be, from now on, the faithful image
+> of our principles of liberty and federation."_ [quoted by Marx, **Fictitious
+> Splits in the International** ]
 
 Of course, Marx replied to this argument and, in so doing, misrepresented the
 anarchist position. He argued that the Paris Communards _"would not have
 failed if they had understood that the Commune was 'the embryo of the future
 human society' and had cast away all discipline and all arms -- that is, the
-things which must disappear when there are no more wars!"_ [**Ibid.**]
+things which must disappear when there are no more wars!"_ [ **Ibid.** ]
 Needless to say this is simply a slander on the anarchist position.
 Anarchists, as the Circular makes clear, recognise that we cannot totally
 reflect the future and so the current movement can only be _"as near as
@@ -2095,25 +2021,19 @@ reproduce the traits of the world we are fighting. To put out the fire of
 class society, we need the water of a classless society and so we should
 organise in a libertarian way, building the new world in the shell of the old.
 
-
-
 ## 16\. Why is the SWP wrong about the A16 Washington D.C. demo?
 
 As an example of why Marxism is better than anarchism they give an example:
 
 > _"Protesters put up several roadblocks during the major anti-capitalist
-demonstration in Washington in April of this year. The police tried to clear
-them. The question arose of what the protesters should do. _
-
+> demonstration in Washington in April of this year. The police tried to clear
+> them. The question arose of what the protesters should do._
 >
-
 > _"Some wanted to try to maintain the roadblocks. Others thought the best
-tactic was to reorganise the protests into one demonstration. Instead of
-coming to a clear decision and acting on it, the key organiser of the whole
-event told people at each roadblock to do what they thought was right. _
-
+> tactic was to reorganise the protests into one demonstration. Instead of
+> coming to a clear decision and acting on it, the key organiser of the whole
+> event told people at each roadblock to do what they thought was right._
 >
-
 > _"The resulting confusion weakened all the protests."_
 
 Firstly, we must point out that this argument is somewhat ironic coming from a
@@ -2140,14 +2060,14 @@ groups, with groups picking which intersection to occupy and which tactics to
 use, there was a great deal of flexibility as well. There were several flying
 columns that moved from intersection to intersection reinforcing barricades
 and increasing numbers where it looked like police might charge. The largest
-of these was the Revolutionary Anti-Capitalist Bloc (_"the Black Bloc"_) made
-up mostly of class-struggle anarchists but included a number of other left
-libertarians (such as council communists and autonomists). The RACB officially
-maintained its autonomy within the demonstration and worked with others when
-and where it could. The affinity groups of the RACB would come to quick
-decisions on what to do. Often, they would quickly respond to the situation;
-usually their appearance was enough for the cops to fall back after a few
-tense moments.
+of these was the Revolutionary Anti-Capitalist Bloc ( _"the Black Bloc"_ )
+made up mostly of class-struggle anarchists but included a number of other
+left libertarians (such as council communists and autonomists). The RACB
+officially maintained its autonomy within the demonstration and worked with
+others when and where it could. The affinity groups of the RACB would come to
+quick decisions on what to do. Often, they would quickly respond to the
+situation; usually their appearance was enough for the cops to fall back after
+a few tense moments.
 
 By early afternoon, the various affinity groups manning the blockades were
 informed that the blockades had failed, and enough delegates had made it
@@ -2189,8 +2109,6 @@ all involved. Centralisation was not required, no centre imposed the decision.
 Rather than weaken the protests, decentralisation strengthened it by involving
 all in the decision making process. Little wonder the SWP re-wrote history.
 
-
-
 ## 17\. Why does the SWP's Washington example refute the SWP's own argument
 and not anarchism?
 
@@ -2211,8 +2129,8 @@ to co-ordinate struggle (which, we stress, was what actually did happen). To
 quote Bakunin, _"there will be a federation of the standing barricades and a
 Revolutionary Communal Council will operate on the basis of one or two
 delegates from each barricade . . . these deputies being invested with binding
-mandates and accountable and revocable at all times."_ [**No Gods, No
-Masters**, vol. 1, p. 155] In the SWP's version of history, the blockades did
+mandates and accountable and revocable at all times."_ [ **No Gods, No
+Masters** , vol. 1, p. 155] In the SWP's version of history, the blockades did
 not do this and so, unsurprisingly, without organisation, there was confusion.
 As an argument against anarchism it is useless. So the SWP's fictional example
 is an argument against centralisation -- of placing decision-making power at
@@ -2236,7 +2154,7 @@ federalism.
 They draw a lesson from their fictional account:
 
 > _"The police, needless to say, did not 'decentralise' their decision making.
-They co-ordinated across the city to break the protests."_
+> They co-ordinated across the city to break the protests."_
 
 Such an analogy indicates the bourgeois and authoritarian nature of the SWP's
 politics. They do not understand that the capitalist state and workplace is
@@ -2251,10 +2169,8 @@ the anti-capitalist movement should reproduce the regulated docility of the
 police force into its ranks, reproduce the domination of a few bosses at the
 top over a mass of unquestioning automations at the bottom. As Murray Bookchin
 argued, the Leninist _"has always had a grudging admiration and respect for
-that most inhuman of all hierarchical institutions, the military."_ [**Toward
-an Ecological Society**, p. 254f] The SWP prove him right.
-
-
+that most inhuman of all hierarchical institutions, the military."_ [ **Toward
+an Ecological Society** , p. 254f] The SWP prove him right.
 
 ## 18\. Why is a "revolutionary party" a contradiction in terms?
 
@@ -2270,11 +2186,11 @@ within so-called revolutionary organisations. As the anarchists of Trotwatch
 explain, such a party leaves much to be desired:
 
 > _"In reality, a Leninist Party simply reproduces and institutionalises
-existing capitalist power relations inside a supposedly 'revolutionary'
-organisation: between leaders and led; order givers and order takers; between
-specialists and the acquiescent and largely powerless party workers. And that
-elitist power relation is extended to include the relationship between the
-party and class."_ [**Carry on Recruiting!**, p. 41]
+> existing capitalist power relations inside a supposedly 'revolutionary'
+> organisation: between leaders and led; order givers and order takers;
+> between specialists and the acquiescent and largely powerless party workers.
+> And that elitist power relation is extended to include the relationship
+> between the party and class."_ [ **Carry on Recruiting!** , p. 41]
 
 Such an organisation can never create a socialist society. In contrast,
 anarchists argue that socialist organisations should reflect as much as
@@ -2284,49 +2200,45 @@ very problems of capitalism/statism into them and so undermine their
 liberatory potential. As Murray Bookchin puts it:
 
 > _"The 'glorious party,' when there is one, almost invariably lags behind the
-events . . . In the beginning . . . it tends to have an inhibitory function,
-not a 'vanguard' role. Where it exercises influence, it tends to slow down the
-flow of events, not 'co- ordinate' the revolutionary forced. This is not
-accidental. The party is structured along hierarchical lines **that reflect
-the very society it professes to oppose** . . . Its membership is schooled in
-obedience . . . The party's leadership, in turn, is schooled in habits born of
-command, authority, manipulation . . . Its leaders . . . lose contact with the
-living situation below. The local groups, which know their own immediate
-situation better than any remote leaders, are obliged to subordinate their
-insights to directives from above. The leadership, lacking any direct
-knowledge of local problems, responds sluggishly and prudently. . . _
-
+> events . . . In the beginning . . . it tends to have an inhibitory function,
+> not a 'vanguard' role. Where it exercises influence, it tends to slow down
+> the flow of events, not 'co- ordinate' the revolutionary forced. This is not
+> accidental. The party is structured along hierarchical lines **that reflect
+> the very society it professes to oppose** . . . Its membership is schooled
+> in obedience . . . The party's leadership, in turn, is schooled in habits
+> born of command, authority, manipulation . . . Its leaders . . . lose
+> contact with the living situation below. The local groups, which know their
+> own immediate situation better than any remote leaders, are obliged to
+> subordinate their insights to directives from above. The leadership, lacking
+> any direct knowledge of local problems, responds sluggishly and prudently. .
+> . _
 >
-
 > _"The party becomes less efficient from a revolutionary point of view the
-more it seeks efficiency by means of hierarchy, cadres and centralisation.
-Although everyone marches in step, the orders are usually wrong, especially
-when events begin to move rapidly and take unexpected turns-as they do in all
-revolutions. The party is efficient in only one respect-in moulding society in
-its own hierarchical imagine if the revolution is successful. It recreates
-bureaucracy, centralisation and the state. It fosters the bureaucracy,
-centralisation and the state. It fosters the very social conditions which
-justify this kind of society. Hence, instead of 'withering away,' the state
-controlled by the 'glorious party' preserves the very conditions which
-'necessitate' the existence of a state -- and a party to 'guard' it. _
-
+> more it seeks efficiency by means of hierarchy, cadres and centralisation.
+> Although everyone marches in step, the orders are usually wrong, especially
+> when events begin to move rapidly and take unexpected turns-as they do in
+> all revolutions. The party is efficient in only one respect-in moulding
+> society in its own hierarchical imagine if the revolution is successful. It
+> recreates bureaucracy, centralisation and the state. It fosters the
+> bureaucracy, centralisation and the state. It fosters the very social
+> conditions which justify this kind of society. Hence, instead of 'withering
+> away,' the state controlled by the 'glorious party' preserves the very
+> conditions which 'necessitate' the existence of a state -- and a party to
+> 'guard' it._
 >
-
 > _"On the other hand, this kind of party is extremely vulnerable in periods
-of repression. The bourgeoisie has only to grab its leadership to destroy
-virtually the entire movement. With its leaders in prison or in hiding, the
-party becomes paralysed; the obedient membership had no one to obey and tends
-to flounder . . . _
-
+> of repression. The bourgeoisie has only to grab its leadership to destroy
+> virtually the entire movement. With its leaders in prison or in hiding, the
+> party becomes paralysed; the obedient membership had no one to obey and
+> tends to flounder . . ._
 >
-
 > _"[T]he Bolshevik leadership was ordinarily extremely conservative, a trait
-that Lenin had to fight throughout 1917 -- first in his efforts to reorient
-the Central Committee against the provisional government (the famous conflict
-over the 'April Theses'), later in driving the Central Committee toward
-insurrection in October. In both cases he threatened to resign from the
-Central Committee and bring his views to 'the lower ranks of the party.'"_
-[**Post-Scarcity Anarchism**, pp. 194-9]
+> that Lenin had to fight throughout 1917 -- first in his efforts to reorient
+> the Central Committee against the provisional government (the famous
+> conflict over the 'April Theses'), later in driving the Central Committee
+> toward insurrection in October. In both cases he threatened to resign from
+> the Central Committee and bring his views to 'the lower ranks of the
+> party.'"_ [ **Post-Scarcity Anarchism** , pp. 194-9]
 
 Thus the example of the "successful" Russian Revolution indicates the weakness
 of Leninism -- Lenin had to fight the party machine he helped create in order
@@ -2345,14 +2257,12 @@ anarchist organisations are either unique and so cannot be generalised from
 the SWP **ignore** the usual ways anarchists organise as anarchists and yet
 try and draw conclusions about anarchism from their faulty examples.
 
-
-
 ## 19\. Do anarchists operate _"in secret"_?
 
 They continue:
 
 > _"All the major anarchist organisations in history have been centralised but
-have operated in secret."_
+> have operated in secret."_
 
 It is just as well they say _"all the major anarchist organisations,"_ it
 allows them to ignore counter-examples. We can point to hundreds of anarchist
@@ -2370,7 +2280,7 @@ Another, more up to date, example is the French Anarchist Federation which
 organises today. It as a weekly paper and groups all across France as well as
 in Belgium. That is not secret and is one of the largest anarchist
 organisations existing today (and so, by anyone's standards _"a major
-anarchist organisation"_). We wonder why the SWP excludes it? Simply because
+anarchist organisation"_ ). We wonder why the SWP excludes it? Simply because
 they know their generalisation is false?
 
 Therefore, as can be seen, the SWP's claim is simply a lie. Few anarchist
@@ -2391,16 +2301,14 @@ Similarly for the SWP's claims that _"all the major anarchist organisations in
 history have been centralised."_ Such a claim is also a lie, as we shall prove
 in the sections [20](append34.md#app20) and [22](append34.md#app22).
 
-
-
 ## 20\. Why is the SWP wrong about Bakunin's organisation?
 
 As an example of a _"major anarchist organisation"_ the SWP point to Bakunin
 and the organisations he created:
 
 > _"The 19th century theorist of anarchism Mikhail Bakunin's organisation had
-a hierarchy of committees, with half a dozen people at the top, which were not
-under the democratic control of its members."_
+> a hierarchy of committees, with half a dozen people at the top, which were
+> not under the democratic control of its members."_
 
 Firstly, we have to wonder why anyone would have wanted to join Bakunin's
 group if they had no say in the organisation. Also, given that communication
@@ -2419,8 +2327,8 @@ in the main, a secret organisation would have been considered essential. As
 Murray Bookchin argues, _"Bakunin's emphasis on conspiracy and secrecy can be
 understood only against the social background of Italy, Spain, and Russia the
 three countries in Europe where conspiracy and secrecy were matters of sheer
-survival."_ [**The Spanish Anarchists**, p. 24] The SWP ignore the historical
-context.
+survival."_ [ **The Spanish Anarchists** , p. 24] The SWP ignore the
+historical context.
 
 Thirdly, the reality of Bakunin's organisation is slightly different from the
 SWP's claims. We have discussed this issue in great detail in [section
@@ -2432,107 +2340,81 @@ his letter to the Russian Nihilist Sergy Nechayev in which he explains the
 differences in their ideas. He discusses the _"principles and mutual
 conditions"_ for a _"new society"_ of revolutionaries in Russia (noting that
 this was an _"outline of a plan"_ which _"must be developed, supplemented, and
-sometimes altered according to circumstances"_):
+sometimes altered according to circumstances"_ ):
 
 > _"Equality among all members and the unconditional and absolute solidarity
--- one for all and all for one -- with the obligation for each and everyone to
-help each other, support and save each other. . . _
-
+> -- one for all and all for one -- with the obligation for each and everyone
+> to help each other, support and save each other. . ._
 >
-
 > _"Complete frankness among members and proscription of any Jesuitical
-methods in their relationships . . . When a member has to say anything against
-another member, this must be done at a general meeting and in his presence.
-**General fraternal control** of each other . . . _
-
+> methods in their relationships . . . When a member has to say anything
+> against another member, this must be done at a general meeting and in his
+> presence. **General fraternal control** of each other . . . _
 >
-
 > _"Everyone's personal intelligence vanished like a river in the sea in the
-collective intelligence and all members obey unconditionally the decisions of
-the latter. _
-
+> collective intelligence and all members obey unconditionally the decisions
+> of the latter._
 >
-
 > _"All members are equal; they know all their comrades and discuss and decide
-with them all the most important and essential questions bearing on the
-programme of the society and the progress of the cause. The decision of the
-general meeting is absolute law. . . _
-
+> with them all the most important and essential questions bearing on the
+> programme of the society and the progress of the cause. The decision of the
+> general meeting is absolute law. . ._
 >
-
 > _"The society chooses an Executive Committee from among their number
-consisting of three or five members who should organise the branches of the
-society and manage its activities in all the regions of the [Russian] Empire
-on the basis of the programme and general plan of action adopted by the
-decision of the society as a whole. . . _
-
+> consisting of three or five members who should organise the branches of the
+> society and manage its activities in all the regions of the [Russian] Empire
+> on the basis of the programme and general plan of action adopted by the
+> decision of the society as a whole. . ._
 >
-
 > _"This Committee is elected for an indefinite term. If the society . . . the
-People's Fraternity is satisfied with the actions of the Committee, it will be
-left as such; and while it remains a Committee each member . . . and each
-regional group have to obey it unconditionally, except in such cases where the
-orders of the Committee contradict either the general programme of the
-principle rules, or the general revolutionary plan of action, which are known
-to everybody as all . . . have participated equally in the discussion of them.
-. . _
-
+> People's Fraternity is satisfied with the actions of the Committee, it will
+> be left as such; and while it remains a Committee each member . . . and each
+> regional group have to obey it unconditionally, except in such cases where
+> the orders of the Committee contradict either the general programme of the
+> principle rules, or the general revolutionary plan of action, which are
+> known to everybody as all . . . have participated equally in the discussion
+> of them. . ._
 >
-
 > _"In such a case members of the group must halt the execution of the
-Committee's orders and call the Committee to judgement before the general
-meeting . . . If the general meeting is discontented with the Committee, it
-can always substitute another one for it. . . _
-
+> Committee's orders and call the Committee to judgement before the general
+> meeting . . . If the general meeting is discontented with the Committee, it
+> can always substitute another one for it. . ._
 >
-
 > _"Any member or any group is subject to judgement by the general meeting . .
-. _
-
+> ._
 >
-
 > _"No new Brother can be accepted without the consent of all or at the very
-least three-quarters of all the members. . . _
-
+> least three-quarters of all the members. . ._
 >
-
 > _"The Committee divides the members . . . among the Regions and constitutes
-Regional groups of leaderships from them . . . Regional leadership is charged
-with organising the second tier of the society -- the **Regional Fraternity**,
-on the basis of the same programme, the same rules, and the same revolutionary
-plan. . . _
-
+> Regional groups of leaderships from them . . . Regional leadership is
+> charged with organising the second tier of the society -- the **Regional
+> Fraternity** , on the basis of the same programme, the same rules, and the
+> same revolutionary plan. . . _
 >
-
 > _"All members of the **Regional Fraternity** know each other, but do not
-know of the existence of the **People's Fraternity.** They only know that
-there exists a **Central Committee** which hands down to them their orders for
-execution through **Regional Committee** which has been set up by it, i.e. by
-the **Central Committee** . . . _
-
+> know of the existence of the **People's Fraternity.** They only know that
+> there exists a **Central Committee** which hands down to them their orders
+> for execution through **Regional Committee** which has been set up by it,
+> i.e. by the **Central Committee** . . . _
 >
-
 > _"Each Regional Committee will set up **District** Committees from members
-of the **Regional Fraternity** and will appoint and replace them. . . . _
-
+> of the **Regional Fraternity** and will appoint and replace them. . . . _
 >
-
 > _"District Committees can, if necessary and only with the consent of the
-Regional Committee, set up a third tier of the organisation -- **District
-Fraternity** with a programme and regulations as near as possible to the
-general programme and regulations of the People's Fraternity. The programme
-and regulations of the District Fraternity will not come into force until they
-are discussed and passed by the general meeting of the Regional Fraternity and
-have been confirmed by the Regional Committee. . . _
-
+> Regional Committee, set up a third tier of the organisation -- **District
+> Fraternity** with a programme and regulations as near as possible to the
+> general programme and regulations of the People's Fraternity. The programme
+> and regulations of the District Fraternity will not come into force until
+> they are discussed and passed by the general meeting of the Regional
+> Fraternity and have been confirmed by the Regional Committee. . . _
 >
-
 > _"Jesuitical control . . . are totally excluded from all three tiers of the
-secret organisation . . . The strength of the whole society, as well as the
-morality, loyalty, energy and dedication of each member, is based exclusively
-and totally on the shared truth, sincerity and trust, and on the open
-fraternal control of all over each one."_ [cited by Michael Confino,
-**Daughter of a Revolutionary**, pp. 264-6]
+> secret organisation . . . The strength of the whole society, as well as the
+> morality, loyalty, energy and dedication of each member, is based
+> exclusively and totally on the shared truth, sincerity and trust, and on the
+> open fraternal control of all over each one."_ [cited by Michael Confino,
+> **Daughter of a Revolutionary** , pp. 264-6]
 
 As can be seen, while there is much in Bakunin's ideas that few anarchists
 would agree to, it cannot be said that it was **not** under the _"democratic
@@ -2576,8 +2458,6 @@ equal force to their own party which is renown, like all Bolshevik-style
 parties, as being undemocratic, top-down and authoritarian. We turn to this
 issue in the [next section.](append34.md#app21)
 
-
-
 ## 21\. Why is the SWP's attack on Bakunin's organisation ironic?
 
 That the SWP attack Bakunin's organisational schema (see [last
@@ -2590,40 +2470,40 @@ For example, Lenin argued in favour of centralisation and secrecy in his work
 **What is to be Done?**. In this work he argued as follows:
 
 > _"The active and widespread participation of the masses will not suffer; on
-the contrary, it will benefit by the fact that a 'dozen' experienced
-revolutionaries, no less professionally trained than the police, will
-centralise all the secret side of the work -- prepare leaflets, work out
-approximate plans and **appoint bodies of leaders** for each urban district,
-for each factory district and for each educational institution, etc. [our
-emphasis] (I know that exception will be taken to my 'undemocratic' views, but
-I shall reply to this altogether unintelligent objection later on.) The
-centralisation of the most secret functions in an organisation of
-revolutionaries will not diminish, but rather increase the extent and the
-quality of the activity of a large number of other organisations that are
-intended for wide membership and which, therefore, can be as loose and as
-public as possible, such as trade unions; workers' circles for self-education
-and the reading illegal literature, and socialist and also democratic, circles
-for **all other sections of the population**, etc., etc. We must have **as
-large a number as possible** of such organisations having the widest possible
-variety of functions, but it would be absurd and dangerous **to confuse them
-with the organisation of revolutionaries**, to erase the line of demarcation
-between them, to make still more the masses' already incredibly hazy
-appreciation of the fact that in order to 'serve' the mass movement we must
-have people who will devote themselves exclusively to Social-Democratic
-activities, and that such people must **train** themselves patiently and
-steadfastly to be professional revolutionaries."_ [**The Essential Lenin**, p.
-149]
+> the contrary, it will benefit by the fact that a 'dozen' experienced
+> revolutionaries, no less professionally trained than the police, will
+> centralise all the secret side of the work -- prepare leaflets, work out
+> approximate plans and **appoint bodies of leaders** for each urban district,
+> for each factory district and for each educational institution, etc. [our
+> emphasis] (I know that exception will be taken to my 'undemocratic' views,
+> but I shall reply to this altogether unintelligent objection later on.) The
+> centralisation of the most secret functions in an organisation of
+> revolutionaries will not diminish, but rather increase the extent and the
+> quality of the activity of a large number of other organisations that are
+> intended for wide membership and which, therefore, can be as loose and as
+> public as possible, such as trade unions; workers' circles for self-
+> education and the reading illegal literature, and socialist and also
+> democratic, circles for **all other sections of the population** , etc.,
+> etc. We must have **as large a number as possible** of such organisations
+> having the widest possible variety of functions, but it would be absurd and
+> dangerous **to confuse them with the organisation of revolutionaries** , to
+> erase the line of demarcation between them, to make still more the masses'
+> already incredibly hazy appreciation of the fact that in order to 'serve'
+> the mass movement we must have people who will devote themselves exclusively
+> to Social-Democratic activities, and that such people must **train**
+> themselves patiently and steadfastly to be professional revolutionaries."_ [
+> **The Essential Lenin** , p. 149]
 
 And:
 
 > _"The only serious organisational principle the active workers of our
-movement can accept is **strict secrecy, strict selection of members**, and
-the training of professional revolutionaries. If we possessed these qualities,
-something even more than 'democratism' would be guaranteed to us, namely,
-complete, comradely, mutual confidence among revolutionaries. And this is
-absolutely essential for us, because in Russia it is useless thinking that
-democratic control can substitute for it."_ [our emphasis, **Op. Cit.**, p.
-162]
+> movement can accept is **strict secrecy, strict selection of members** , and
+> the training of professional revolutionaries. If we possessed these
+> qualities, something even more than 'democratism' would be guaranteed to us,
+> namely, complete, comradely, mutual confidence among revolutionaries. And
+> this is absolutely essential for us, because in Russia it is useless
+> thinking that democratic control can substitute for it."_ [our emphasis,
+> **Op. Cit.** , p. 162]
 
 Thus we have Lenin advocating _"strict secrecy, strict selection of members"_
 as well as a centralised party which will _"appoint bodies of leaders for each
@@ -2642,21 +2522,21 @@ all orders of the respective higher organs of the soviet power."_ In 1919, the
 Bolshevik's Eighth Party Congress strengthened party discipline. As Maurice
 Brinton notes, the _"Congress ruled that each decision must above all be
 fulfilled. Only after this is an appeal to the corresponding Party organ
-permissible."_ [**The Bolsheviks and Workers' Control**, p. 55] He quotes the
-resolution:
+permissible."_ [ **The Bolsheviks and Workers' Control** , p. 55] He quotes
+the resolution:
 
 > _"The whole matter of posting of Party workers is in the hands of the
-Central Committee. Its decisions are binding for everyone."_ [**Op. Cit.**,
-pp. 55-6]
+> Central Committee. Its decisions are binding for everyone."_ [ **Op. Cit.**
+> , pp. 55-6]
 
 This perspective was echoed in the forerunner of the SWP, the **International
 Socialists**. In September 1968, the Political Committee of International
 Socialism submitted the _"Perspectives for I.S."_ Point 4 said:
 
 > _"Branches must accept directives from the Centre, unless they fundamentally
-disagree with them, in which case they should try to accord with them, while
-demanding an open debate on the matter."_ [quoted by Brinton, **Op. Cit.**, p.
-55f]
+> disagree with them, in which case they should try to accord with them, while
+> demanding an open debate on the matter."_ [quoted by Brinton, **Op. Cit.** ,
+> p. 55f]
 
 The parallels with Bakunin's ideas are clear (see [last
 section](append34.md#app20)). However, it is to Bakunin's credit that he
@@ -2698,34 +2578,28 @@ bureaucratic nature. The comments by one group of ex-SWP dissidents indicate
 the hypocrisy of the SWP's attack on Bakunin:
 
 > _"The SWP is not democratic centralist but bureaucratic centralist. The
-leadership's control of the party is unchecked by the members. New
-perspectives are initiated exclusively by the central committee (CC), who then
-implement their perspective against all party opposition, implicit or
-explicit, legitimate or otherwise. _
-
+> leadership's control of the party is unchecked by the members. New
+> perspectives are initiated exclusively by the central committee (CC), who
+> then implement their perspective against all party opposition, implicit or
+> explicit, legitimate or otherwise._
 >
-
 > _"Once a new perspective is declared, a new cadre is selected from the top
-down. The CC select the organisers, who select the district and branch
-committees -- any elections that take place are carried out on the basis of
-'slates' so that it is virtually impossible for members to vote against the
-slate proposed by the leadership. Any members who have doubts or disagreements
-are written off as 'burnt out' and, depending on their reaction to this, may
-be marginalised within the party and even expelled. _
-
+> down. The CC select the organisers, who select the district and branch
+> committees -- any elections that take place are carried out on the basis of
+> 'slates' so that it is virtually impossible for members to vote against the
+> slate proposed by the leadership. Any members who have doubts or
+> disagreements are written off as 'burnt out' and, depending on their
+> reaction to this, may be marginalised within the party and even expelled._
 >
-
-> _[. . .] _
-
+> _[. . .]_
 >
-
 > _"The outcome is a party whose conferences have no democratic function, but
-serve only to orientate party activists to carry out perspectives drawn up
-before the delegates even set out from their branches. At every level of the
-party, strategy and tactics are presented from the top down, as pre-digested
-instructions for action. At every level, the comrades 'below' are seen only as
-a passive mass to be shifted into action, rather than as a source of new
-initiatives."_ [ISG, **Discussion Document of Ex-SWP Comrades**]
+> serve only to orientate party activists to carry out perspectives drawn up
+> before the delegates even set out from their branches. At every level of the
+> party, strategy and tactics are presented from the top down, as pre-digested
+> instructions for action. At every level, the comrades 'below' are seen only
+> as a passive mass to be shifted into action, rather than as a source of new
+> initiatives."_ [ISG, **Discussion Document of Ex-SWP Comrades** ]
 
 They argue that a _"democratic"_ party would involve the _"[r]egular election
 of all party full-timers, branch and district leadership, conference
@@ -2739,7 +2613,7 @@ leadership bodies that exercise discipline), and the right of any disciplined
 comrades to appeal directly to party conference."_ They argue that in a
 democratic party _"no section of the party would have a monopoly of
 information"_ which indicates that the SWP's leadership is essentially
-secretive, withholding information from the party membership. [**Op. Cit.**]
+secretive, withholding information from the party membership. [ **Op. Cit.** ]
 As can be seen, the SWP have little grounds on which to attack Bakunin given
 this damning account of its internal workings.
 
@@ -2748,18 +2622,18 @@ asked _"When was the last time a motion or slate to conference was opposed?"_
 and pointed out:
 
 > _"The CC usually stays the same or changes by one member. Most of the
-changes to its composition are made between Conferences. None of the CC's
-numerous decisions made over the preceding year are challenged or brought to
-account. Even the Pre-Conference bulletins contain little disagreements."_
+> changes to its composition are made between Conferences. None of the CC's
+> numerous decisions made over the preceding year are challenged or brought to
+> account. Even the Pre-Conference bulletins contain little disagreements."_
 
 They stress that:
 
 > _"There is real debate within the SWP, but the framework for discussion is
-set by the Central Committee. The agenda's national events . . . are set by
-the CC or its appointees and are never challenged . . . Members can only
-express their views through Conference and Council to the whole party
-indirectly."_ [quoted by Trotwatch, **Carry On Recruiting!**, p. 39 and pp.
-40-1]
+> set by the Central Committee. The agenda's national events . . . are set by
+> the CC or its appointees and are never challenged . . . Members can only
+> express their views through Conference and Council to the whole party
+> indirectly."_ [quoted by Trotwatch, **Carry On Recruiting!** , p. 39 and pp.
+> 40-1]
 
 Therefore, the SWP does not really have a leg to stand on. While Bakunin's
 ideas on organisation are far from perfect, the actual practice of the SWP
@@ -2778,8 +2652,8 @@ organisations will have come across workers who agree with Marxist politics
 but refuse to join the party because they believe it to be undemocratic and
 authoritarian. Many draw the conclusion that Leninism itself is at fault, as
 every organisation that proclaims itself Leninist appears to follow the same
-pattern."_ [**Lenin vs. the SWP: Bureaucratic Centralism Or Democratic
-Centralism?**] This is a common refrain with Leninists -- when reality says
+pattern."_ [ **Lenin vs. the SWP: Bureaucratic Centralism Or Democratic
+Centralism?** ] This is a common refrain with Leninists -- when reality says
 one thing and the theory another, it must be reality that is at fault. Yes,
 every Leninist organisation may be bureaucratic and authoritarian but it is
 not the theory's fault that those who apply it are not capable of actually
@@ -2823,7 +2697,7 @@ _"economic struggle of labour and capital"_ a worker who joined the
 International Workers' Association _"would inevitably discover, through the
 very force of circumstances and through the develop of this struggle, the
 political, socialist, and philosophical principles of the International."_ He
-thought that working class people were _"**socialists without knowing it**"_
+thought that working class people were _" **socialists without knowing it** "_
 as _"their most basic instinct and their social situation makes them . . .
 earnestly and truly socialist . . . They are socialist because of all the
 conditions of their material existence and all the needs of their being. . .
@@ -2833,7 +2707,7 @@ thought"_ are to _"be found in the instinct of every earnest worker. The goal
 . . . is to make the worker fully aware of what he wants."_ The method? The
 class struggle itself -- _"the International relies on the collective
 experience he gains in its bosom, especially on the progress of the collective
-struggle of the workers against the bosses."_ [**The Basic Bakunin**, p. 100
+struggle of the workers against the bosses."_ [ **The Basic Bakunin** , p. 100
 and pp. 101-3]
 
 Bakunin did not deny the importance of those who already are socialists to
@@ -2843,7 +2717,7 @@ However, this influence was **not** to inject socialist ideas into the working
 class but rather to aid their development by the _"propagation of its [the
 International] ideas and . . . the organisation of its members' natural effect
 on the masses."_ As can be seen, Bakunin's ideas on this subject differ
-considerably from Lenin's. [**Op. Cit.**, p. 139 and p. 140]
+considerably from Lenin's. [ **Op. Cit.** , p. 139 and p. 140]
 
 Unsurprisingly, the programme of the revolutionary organisation had to reflect
 the instincts and needs of the working population and must never be imposed on
@@ -2854,21 +2728,19 @@ the secret society must get to know or guess and to which it must adapt
 itself."_ He stresses that once the state _"is destroyed . . . the people will
 rise . . . for **their own** [ideal]"_ and anyone _"who tries to foist **his
 own** programme on the people will be left holding the baby."_ [quoted in
-**Daughter of a Revolutionary**, Michael Confino (ed.), p. 252, p. 254 and p.
+**Daughter of a Revolutionary** , Michael Confino (ed.), p. 252, p. 254 and p.
 256] As he stresses, libertarian socialist ideas come from the masses and not
 from outside them:
 
 > _"In opposition to . . . oppressive statist orientations . . . an entirely
-new orientation finally arose from the depths of the proletariat itself . . .
-It proceeds directly to the abolition of all exploitation and all political or
-juridical as well as governmental and bureaucratic oppression, in other words,
-to the abolition of all classes . . . and the abolition of their last
-buttress, the state. _
-
+> new orientation finally arose from the depths of the proletariat itself . .
+> . It proceeds directly to the abolition of all exploitation and all
+> political or juridical as well as governmental and bureaucratic oppression,
+> in other words, to the abolition of all classes . . . and the abolition of
+> their last buttress, the state._
 >
-
-> _"That is the program of social revolution."_ [**Statism and Anarchy**, pp.
-48-9]
+> _"That is the program of social revolution."_ [ **Statism and Anarchy** ,
+> pp. 48-9]
 
 Therefore, for Bakunin, the revolutionary organisation did not play the same
 role as for Lenin. It existed to aid the development of socialist
@@ -2895,15 +2767,15 @@ organisation from below according to its own customs and instincts because it
 acts on the people only by the natural personal influence of its members who
 are not invested with any power."_ Thus the revolutionary group would be the
 _"helper"_ of the masses, with an _"organisation within the people itself."_
-[quoted by Michael Confino, **Op. Cit.**, p. 259, p. 261, p. 256 and p. 261]
+[quoted by Michael Confino, **Op. Cit.** , p. 259, p. 261, p. 256 and p. 261]
 The revolution itself would see _"an end to all masters and to domination of
 every kind, and the free construction of popular life in accordance with
 popular needs, not from above downward, as in the state, but from below
 upward, by the people themselves, dispensing with all governments and
 parliaments -- a voluntary alliance of agricultural and factory worker
 associations, communes, provinces, and nations; and, finally, . . . universal
-human brotherhood triumphing on the ruins of all the states."_ [**Statism and
-Anarchy**, p. 33]
+human brotherhood triumphing on the ruins of all the states."_ [ **Statism and
+Anarchy** , p. 33]
 
 As can be seen, instead of seeking state power, as Lenin's party desired,
 Bakunin's would seek _"natural influence"_ rather than _"official influence."_
@@ -2930,16 +2802,14 @@ his death have applied **these** ideas to the specific anarchist organisation
 as well, rejecting the non-libertarian elements of Bakunin's ideas which the
 SWP correctly (if somewhat hypocritically and dishonestly) denounce.
 
-
-
 ## 22\. Was the F.A.I. a _"centralised and secret"_ organisation that shunned
 _"open debate and common struggle"_?
 
 They move onto Spanish Anarchism:
 
 > _"The anarchist organisation inside the Spanish C.N.T., the F.A.I., was
-centralised and secret. A revolutionary party thrives on open debate and
-common struggle with wider groups of workers."_
+> centralised and secret. A revolutionary party thrives on open debate and
+> common struggle with wider groups of workers."_
 
 We discuss this Marxist myth in more detail in [section 3](append32.md#app3)
 of the appendix on [_"Marxists and Spanish Anarchism"_](append32.md).
@@ -2948,78 +2818,76 @@ assert, was not centralised. It was a federation of autonomous affinity
 groups. As one member put it:
 
 > _"It was never its aim to act as a leadership or anything of the sort -- to
-begin with they had no slogans, nor was any line laid down, let alone any
-adherence to any hierarchical structure . . . This is what outside historians
-ought to grasp once and for all: that neither Durruti, nor Ascaso, nor Garcia
-Oliver -- to name only the great C.N.T. spokesmen -- issued any watchwords to
-the 'masses,' let alone delivered any operational plan or conspiratorial
-scheme to the bulk of the C.N.T. membership."  
+> begin with they had no slogans, nor was any line laid down, let alone any
+> adherence to any hierarchical structure . . . This is what outside
+> historians ought to grasp once and for all: that neither Durruti, nor
+> Ascaso, nor Garcia Oliver -- to name only the great C.N.T. spokesmen --
+> issued any watchwords to the 'masses,' let alone delivered any operational
+> plan or conspiratorial scheme to the bulk of the C.N.T. membership."  
 >  _
 
 He stresses that:
 
 > _"Each F.A.I. group thought and acted as it deemed fit, without bothering
-about what the others might be thinking or deciding . . . they had no . . .
-opportunity or jurisdiction . . . to foist a party line upon the grass-
-roots."_ [Francisco Carrasquer, quoted by Stuart Christie, **We, the
-Anarchists!**, p. 25 and p. 28]
+> about what the others might be thinking or deciding . . . they had no . . .
+> opportunity or jurisdiction . . . to foist a party line upon the grass-
+> roots."_ [Francisco Carrasquer, quoted by Stuart Christie, **We, the
+> Anarchists!** , p. 25 and p. 28]
 
 Murray Bookchin paints a similar picture:
 
 > _"The F.A.I. . . . was more loosely jointed as an organisation than many of
-its admirers and critics seem to recognise. It has no bureaucratic apparatus,
-no membership cards or dues, and no headquarters with paid officials,
-secretaries, and clerks. . . They jealously guarded the autonomy of their
-affinity groups from the authority of higher organisational bodies-a state of
-mind hardly conducive to the development of a tightly knit, vanguard
-organisation. _
-
+> its admirers and critics seem to recognise. It has no bureaucratic
+> apparatus, no membership cards or dues, and no headquarters with paid
+> officials, secretaries, and clerks. . . They jealously guarded the autonomy
+> of their affinity groups from the authority of higher organisational
+> bodies-a state of mind hardly conducive to the development of a tightly
+> knit, vanguard organisation._
 >
-
 > _"The F.A.I., moreover, was not a politically homogeneous organisation which
-followed a fixed 'line' like the Communists and many Socialists. It had no
-official program by which all faistas could mechanically guide their
-actions."_ [**The Spanish Anarchists**, p. 224]
+> followed a fixed 'line' like the Communists and many Socialists. It had no
+> official program by which all faistas could mechanically guide their
+> actions."_ [ **The Spanish Anarchists** , p. 224]
 
 Stuart Christie argues that the decentralised nature of the F.A.I. helped it
 survive the frequent repression directed against it and the C.N.T:
 
 > _"The basic units of the F.A.I. were . . . small autonomous affinity groups
-of anarchist militants. This cohesive quasi-cellular form of association had
-evolved, gradually, over the period of time it takes for relationships to be
-established and for mutual trust to grow. The affinity groups consisted,
-usually, of between three and 10 members bound by ties of friendship, and who
-shared well defined aims and agreed methods of struggle. Once such a group had
-come into existence it could, if it so wished, solicit affiliation to the
-F.A.I. . . The affinity groups were also highly resistant to police
-infiltration. Even if filtration did occur, or police agents did manage to set
-up their own 'affinity' groups it would not have been a particularly efficient
-means of intelligence gathering; the atomic structure of the F.A.I. meant
-there was no central body to provide an overview of the movement as a whole."_
-[**We, the Anarchists!**, p. 28]
+> of anarchist militants. This cohesive quasi-cellular form of association had
+> evolved, gradually, over the period of time it takes for relationships to be
+> established and for mutual trust to grow. The affinity groups consisted,
+> usually, of between three and 10 members bound by ties of friendship, and
+> who shared well defined aims and agreed methods of struggle. Once such a
+> group had come into existence it could, if it so wished, solicit affiliation
+> to the F.A.I. . . The affinity groups were also highly resistant to police
+> infiltration. Even if filtration did occur, or police agents did manage to
+> set up their own 'affinity' groups it would not have been a particularly
+> efficient means of intelligence gathering; the atomic structure of the
+> F.A.I. meant there was no central body to provide an overview of the
+> movement as a whole."_ [ **We, the Anarchists!** , p. 28]
 
 He stresses its decentralised nature:
 
 > _"Above all, it was not a representative body and involved **no** delegation
-of power either within the affinity groups or in the regional or national
-administrative bodies to empower those bodies to make decisions on behalf of
-the collectivity. Drawing on many years of revolutionary experience the F.A.I.
-was firmly rooted in federal principles and structured in such a way that its
-co-ordinating function did not deprive its constituent members of their
-autonomous power. . . . In situations where it was necessary for delegates to
-take decisions, e.g. at plenary meetings during times of crisis or
-clandestinity, those decisions were required to be ratified by the whole
-membership who, in effect, constituted the administration. . . The groups in a
-city or town constituted a Local Federation while the rural groups, combined,
-formed a District Federation. These were administered by a secretariat and a
-committee composed of one mandated delegate from each affinity group. The
-Local and District Federations were obliged to convene regular assemblies of
-all groups in its area. . . Local and District Federations constituted a
-Regional Federation. These, in turn, were co-ordinated by a Peninsular
-Committee. None of these committees, local, district, regional or national,
-could be described as having a bureaucratic apparatus. Nor did they wield
-executive power of any description. Their function was purely
-administrative."_ [**Op. Cit.**, pp. 29-30]
+> of power either within the affinity groups or in the regional or national
+> administrative bodies to empower those bodies to make decisions on behalf of
+> the collectivity. Drawing on many years of revolutionary experience the
+> F.A.I. was firmly rooted in federal principles and structured in such a way
+> that its co-ordinating function did not deprive its constituent members of
+> their autonomous power. . . . In situations where it was necessary for
+> delegates to take decisions, e.g. at plenary meetings during times of crisis
+> or clandestinity, those decisions were required to be ratified by the whole
+> membership who, in effect, constituted the administration. . . The groups in
+> a city or town constituted a Local Federation while the rural groups,
+> combined, formed a District Federation. These were administered by a
+> secretariat and a committee composed of one mandated delegate from each
+> affinity group. The Local and District Federations were obliged to convene
+> regular assemblies of all groups in its area. . . Local and District
+> Federations constituted a Regional Federation. These, in turn, were co-
+> ordinated by a Peninsular Committee. None of these committees, local,
+> district, regional or national, could be described as having a bureaucratic
+> apparatus. Nor did they wield executive power of any description. Their
+> function was purely administrative."_ [ **Op. Cit.** , pp. 29-30]
 
 Therefore, the claim that the F.A.I. was a centralised organisation is simply
 false. Rather it was a federation of autonomous groups, as can be seen (see
@@ -3033,11 +2901,11 @@ publicly committed to the overthrow of the dictatorship, the F.A.I.
 functioned, from 1927 to 1931, as an illegal rather than a secret
 organisation. From the birth of the Republic in 1931 onwards, the F.A.I. was
 simply an organisation which, until 1937, refused to register as an
-organisation as required by Republican Law."_ [**We, the Anarchists!**, p. 24]
-Thus it was illegal rather than secret. As one anarchist militant asked,
+organisation as required by Republican Law."_ [ **We, the Anarchists!** , p.
+24] Thus it was illegal rather than secret. As one anarchist militant asked,
 _"[i]f it was secret, how come I was able to attend F.A.I. meetings without
 ever having joined or paid dues to the 'specific' organisation?"_ [Francesco
-Carrasquer, quoted by Christie, **Op. Cit.**, p. 24]
+Carrasquer, quoted by Christie, **Op. Cit.** , p. 24]
 
 Moreover, given the periods of repression suffered by the Spanish libertarian
 movement throughout its history (including being banned and forced
@@ -3062,27 +2930,27 @@ notes that F.A.I. militants _"tended to reject control of confederal
 committees and only accepted them on specific occassions . . . if someone
 proposed a motion in assembly, the other F.A.I. members would support it,
 usually successfully. It was the individual standing of the faista in open
-assembly."_ [quoted by Stuart Christie, **Op. Cit.**, p. 62] As Francisco
+assembly."_ [quoted by Stuart Christie, **Op. Cit.** , p. 62] As Francisco
 Ascaso (friend of Durruti and an influential anarchist militant in the C.N.T.
 and F.A.I. in his own right) put it:
 
 > _"There is not a single militant who as a 'F.A.I.ista' intervenes in union
-meetings. I work, therefore I am an exploited person. I pay my dues to the
-workers' union and when I intervene at union meetings I do it as someone who
-us exploited, and with the right which is granted me by the card in my
-possession, as do the other militants, whether they belong to the F.A.I. or
-not."_ [cited by Abel Paz, **Durruti: The People Armed**, p. 137]
+> meetings. I work, therefore I am an exploited person. I pay my dues to the
+> workers' union and when I intervene at union meetings I do it as someone who
+> us exploited, and with the right which is granted me by the card in my
+> possession, as do the other militants, whether they belong to the F.A.I. or
+> not."_ [cited by Abel Paz, **Durruti: The People Armed** , p. 137]
 
 This meant that it was at union meetings and congresses where policies and the
 program for the movement were argued out:
 
 > _"[D]elegates, whether or not they were members of the F.A.I., were
-presenting resolutions adopted by their unions at open membership meetings.
-Actions taken at the congress had to be reported back to their unions at open
-meetings, and given the degree of union education among the members, it was
-impossible for delegates to support personal, non-representative positions."_
-[Juan Gomez Casas, **Anarchist Organisation: The History of the F.A.I.**, p.
-121]
+> presenting resolutions adopted by their unions at open membership meetings.
+> Actions taken at the congress had to be reported back to their unions at
+> open meetings, and given the degree of union education among the members, it
+> was impossible for delegates to support personal, non-representative
+> positions."_ [Juan Gomez Casas, **Anarchist Organisation: The History of the
+> F.A.I.** , p. 121]
 
 As can be seen, open debate with their fellow workers in the union assemblies.
 In this they followed Bakunin's arguments that anarchist organisation _"rules
@@ -3099,16 +2967,16 @@ were the real power in the organisation. Any committees would be made up of
 _"delegates who conscientiously fulfilled all their obligations to their
 respective sections as stipulated in the statues,"_ _"reporting regularly to
 the membership the proposals made and how they voted"_ and _"asking for
-further instructions (plus instant recall of unsatisfactory delegates)"_
-[**Bakunin on Anarchism**, p. 154, p. 387 and p. 247]
+further instructions (plus instant recall of unsatisfactory delegates)"_ [
+**Bakunin on Anarchism** , p. 154, p. 387 and p. 247]
 
 The anarchist revolution would be organised in an identical fashion, and, in
 Bakunin's words, _"must be created by the people, and supreme control must
 always belong to the people organised into a free federation of agricultural
 and industrial associations . . . organised from the bottom upwards by means
 of revolutionary delegations . . . [who] will set out to administer public
-services, not to rule over peoples."_ [**Michael Bakunin: Selected Writings**,
-p. 172]
+services, not to rule over peoples."_ [ **Michael Bakunin: Selected Writings**
+, p. 172]
 
 As can be seen, the F.A.I. (like all anarchists) influenced the class struggle
 and revolution via their natural influence in winning debates with their
@@ -3122,18 +2990,16 @@ far more than those, like the SWP, who seek centralised political power for
 themselves. In such a system, the only people who debate regularly are the
 members of the government -- everyone else is just a voter and an order taker.
 
-
-
 ## 23\. Do anarchists wait for _"spontaneous upsurges by workers"_?
 
 After lying about the F.A.I., they move on to lying about anarchist theory:
 
 > _"Anarchists instead look to spontaneous upsurges by workers. In the
-struggle anarchists will declare themselves and urge the workers on. They hope
-this will lead to the toppling of capitalism. History is full of mass
-struggles which have been able to win significant gains, but which have not
-had a clear leadership that can carry the struggle over to victory against
-capitalism."  
+> struggle anarchists will declare themselves and urge the workers on. They
+> hope this will lead to the toppling of capitalism. History is full of mass
+> struggles which have been able to win significant gains, but which have not
+> had a clear leadership that can carry the struggle over to victory against
+> capitalism."  
 >  _
 
 Nothing could be further from the truth. Their own article exposes their lies.
@@ -3143,39 +3009,35 @@ argued in favour of organising as anarchists as well as organising workers and
 fighting for reforms in the here and now. For Bakunin, _"the natural
 organisation of the masses . . . is organisation based on the various ways
 that their various types of work define their day-to-day life; it is
-organisation by trade association."_ [**The Basic Bakunin**, p. 139] He
+organisation by trade association."_ [ **The Basic Bakunin** , p. 139] He
 stressed the importance of anarchists being involved in unions as well as
 union struggle for reforms by direct action:
 
 > _"What policy should the International [Workers' Association] follow during
-th[e] somewhat extended time period that separates us from this terrible
-social revolution . . . the International will give labour unrest in all
-countries an essentially economic character, with the aim of reducing working
-hours and increasing salary, by means of the association of the working masses
-. . . It will [also] propagandise its principles . . ."_ [**Op. Cit.**, p.
-109]
+> th[e] somewhat extended time period that separates us from this terrible
+> social revolution . . . the International will give labour unrest in all
+> countries an essentially economic character, with the aim of reducing
+> working hours and increasing salary, by means of the association of the
+> working masses . . . It will [also] propagandise its principles . . ."_ [
+> **Op. Cit.** , p. 109]
 
 Indeed, he saw the labour movement as the means to create a socialist society:
 
 > _"The masses are a force, or at least the essential elements of a force.
-What do they lack? They lack two things which up till now constituted the
-power of all government: organisation and knowledge. _
-
+> What do they lack? They lack two things which up till now constituted the
+> power of all government: organisation and knowledge._
 >
-
 > _"The organisation of the International [Workers' Association], having for
-its objective not the creation of new despotisms but the uprooting of all
-domination, will take on an essentially different character from the
-organisation of the State. . . But what is the organisation of the masses? . .
-. It is the organisation by professions and trades . . . _
-
+> its objective not the creation of new despotisms but the uprooting of all
+> domination, will take on an essentially different character from the
+> organisation of the State. . . But what is the organisation of the masses? .
+> . . It is the organisation by professions and trades . . ._
 >
-
 > _"The organisation of the trade sections and their representation in the
-Chambers of Labour . . . bear in themselves the living seeds of the new
-society which is to replace the old world. They are creating not only the
-ideas, but also the facts of the future itself."_ [**Bakunin on Anarchism**,
-pp. 254-5]
+> Chambers of Labour . . . bear in themselves the living seeds of the new
+> society which is to replace the old world. They are creating not only the
+> ideas, but also the facts of the future itself."_ [ **Bakunin on Anarchism**
+> , pp. 254-5]
 
 All anarchists have stressed the importance of working in and outside the
 labour movement to gain influence for anarchist ideas of direct action,
@@ -3183,47 +3045,45 @@ solidarity, self-management and federalism in the here and now, rather than
 waiting for a _"spontaneous uprising"_ to occur. As Kropotkin argued,
 _"Revolutionary Anarchist Communist propaganda with Labour Unions had always
 been a favourite mode of action in the Federalist [or libertarian] . . .
-section of the International Working Men's Association."_ [**Act For
-Yourselves**, p. 119] Malatesta makes the same point:
+section of the International Working Men's Association."_ [ **Act For
+Yourselves** , p. 119] Malatesta makes the same point:
 
 > _"anarchists, convinced of the validity of our programme, must strive to
-acquire overwhelming influence in order to draw the movement towards the
-realisation of our ideas. But such influence must be won by doing more and
-better than others, and will only be useful if won in that way. _
-
+> acquire overwhelming influence in order to draw the movement towards the
+> realisation of our ideas. But such influence must be won by doing more and
+> better than others, and will only be useful if won in that way._
 >
-
 > _"Today we must deepen, develop and propagate our ideas and co-ordinate our
-forces in a common action. We must act within the labour movement to prevent
-it being limited to and corrupted by the exclusive pursuit of small
-improvements compatible with the capitalist system; and we must act in such a
-way that it contributes to preparing for a complete social transformation. We
-must work with the unorganised, and perhaps unorganisable, masses to awaken a
-spirit of revolt and the desire and hope for a free and happy life. We must
-initiate and support all movements that tend to weaken the forces of the State
-and of capitalism and to raise the mental level and material conditions of the
-workers. We must, in short, prepare, and prepare ourselves, morally and
-materially, for the revolutionary act which will open the way to the future."_
-[**The Anarchist Revolution**, p. 109]
+> forces in a common action. We must act within the labour movement to prevent
+> it being limited to and corrupted by the exclusive pursuit of small
+> improvements compatible with the capitalist system; and we must act in such
+> a way that it contributes to preparing for a complete social transformation.
+> We must work with the unorganised, and perhaps unorganisable, masses to
+> awaken a spirit of revolt and the desire and hope for a free and happy life.
+> We must initiate and support all movements that tend to weaken the forces of
+> the State and of capitalism and to raise the mental level and material
+> conditions of the workers. We must, in short, prepare, and prepare
+> ourselves, morally and materially, for the revolutionary act which will open
+> the way to the future."_ [ **The Anarchist Revolution** , p. 109]
 
 Therefore, as can be seen, the SWP's assertions are totally at odds with the
 actual ideas of anarchists, as would be known by anyone with even a basic
 understanding of anarchist theory. After all, if spontaneous uprisings were
 sufficient in themselves we would be living in an anarchist society. As
 Bakunin argued _"if instinct alone had been sufficient for the liberation of
-peoples, they would have long since freed themselves."_ [**Bakunin on
-Anarchism**, p. 254] This explains why anarchists organise **as anarchists**
+peoples, they would have long since freed themselves."_ [ **Bakunin on
+Anarchism** , p. 254] This explains why anarchists organise **as anarchists**
 in groups and federations to influence the class struggle. We are aware of the
 need for revolutionaries to organise to influence the class struggle, spread
 anarchist ideas and tactics and present the case for revolutionary change. An
 anarchist society will not come about by accident, it must be consciously
 desired and created by the mass of the population. As Kropotkin argued:
 
-> _ "Communist organisations . . . must be the work of all, a natural growth,
-a product of the constructive genius of the great mass. Communism cannot be
-imposed from above; it could not live even for a few months if the constant
-and daily co-operation of all did not uphold it. It must be free."_
-[**Kropotkin's Revolutionary Pamphlets**, p. 140]
+> _"Communist organisations . . . must be the work of all, a natural growth, a
+> product of the constructive genius of the great mass. Communism cannot be
+> imposed from above; it could not live even for a few months if the constant
+> and daily co-operation of all did not uphold it. It must be free."_ [
+> **Kropotkin's Revolutionary Pamphlets** , p. 140]
 
 So, clearly, anarchists see the importance of working class organisation and
 struggle in the here and now. Anarchists are active in industrial disputes and
@@ -3264,7 +3124,7 @@ As for the 'elite' [i.e. the politically aware], their role, according to the
 libertarians, is to **help** the masses, enlighten them, teach them, give them
 necessary advice, impel them to take initiative, provide them with an example,
 and support them in their action -- **but not to direct them
-governmentally**."_ [**The Unknown Revolution**, pp. 177-8]
+governmentally**."_ [ **The Unknown Revolution** , pp. 177-8]
 
 Sadly, Leninists like the SWP confuse giving a led with taking power
 themselves. They seek to take over positions of responsibility in a movement
@@ -3273,8 +3133,6 @@ what to do. Instead of being the servants of the organisation, they become its
 masters. For this reason anarchist organisations try to influence movements
 from below, in the mass assemblies which make it up, rather than seek power.
 
-
-
 ## 24\. Do anarchists blame workers _"for being insufficiently
 revolutionary"_?
 
@@ -3282,21 +3140,21 @@ After creating a straw man about anarchist theory, they draw some thoughts
 from it:
 
 > _"When struggles have not spontaneously broken capitalism, anarchists have
-tended to end up blaming workers for being insufficiently revolutionary. So
-19th century French anarchist Pierre-Joseph Proudhon started off talking of
-his 'love of the people' but ended up saying he 'despised' humanity because
-they had not overthrown capitalism."  
+> tended to end up blaming workers for being insufficiently revolutionary. So
+> 19th century French anarchist Pierre-Joseph Proudhon started off talking of
+> his 'love of the people' but ended up saying he 'despised' humanity because
+> they had not overthrown capitalism."  
 >  _
 
 Strange that they picked Proudhon as he was not a revolutionary anarchist.
 Rather he favoured the reform of capitalism via mutual credit and workers' co-
 operatives and rejected the idea of "uprisings" and/or revolution (spontaneous
 or not). Anyone with even a limited knowledge of Proudhon's work would know
-this. In addition, Proudhon's last book (**The Political Capacity of the
-Working Classes**), finished on his death bed, was an attempt to influence the
-workers' movement towards his ideas of mutualism and federalism. Hardly to be
-expected from someone who "despised" humanity for not overthrowing capitalism.
-As examples go, the SWP is clearly clutching at straws.
+this. In addition, Proudhon's last book ( **The Political Capacity of the
+Working Classes** ), finished on his death bed, was an attempt to influence
+the workers' movement towards his ideas of mutualism and federalism. Hardly to
+be expected from someone who "despised" humanity for not overthrowing
+capitalism. As examples go, the SWP is clearly clutching at straws.
 
 Moreover, as we argued in the [ last section](append34.md#app23),
 revolutionary anarchists like Bakunin, Malatesta, Kropotkin, Goldman, Berkman,
@@ -3330,8 +3188,6 @@ Suffice it to say, the leading theorists of "autonomism" such as Toni Negri
 and Harry Cleaver do not express the opinions the SWP claim "autonomists"
 have.
 
-
-
 ## 25\. Why does the history of centralised parties refute the SWP's
 arguments?
 
@@ -3352,8 +3208,8 @@ not designed for other uses. But, then again, the SWP do aim for minority rule
 -- the rule of the _"revolutionary"_ party over the masses. As they argue:
 
 > _"The working class needs what anarchism rejects - a clear and determined
-revolutionary party which can lead the working class as a whole, and is not
-afraid to overthrow capitalism and set up a workers' state."_
+> revolutionary party which can lead the working class as a whole, and is not
+> afraid to overthrow capitalism and set up a workers' state."_
 
 Yes, indeed. The examples of the current anti-capitalist movement, the poll
 tax revolt and the 1917 February Russian revolution indicate well that a
@@ -3370,8 +3226,8 @@ them into rubber stamps of their government, it suggests that the politics of
 the SWP leave much to be desired. Given that the one "success" of Leninist
 politics -- the Russian Revolution of October 1917 -- created state
 capitalism, with workers' soviets and factory committees undermined in favour
-of party power (**before**, we must stress, the start of the civil war -- what
-most Leninists blame the rise of Stalinism on) we may suggest that
+of party power ( **before** , we must stress, the start of the civil war --
+what most Leninists blame the rise of Stalinism on) we may suggest that
 **anarchist** ideas have been proven correct again and again. After all, the
 validity of a theory surely lies in its ability to **explain** and **predict**
 events. Anarchists, for example, predicted both the degeneration of both
@@ -3389,7 +3245,7 @@ man they call anarchism and beat him to death. Unfortunately for them,
 anarchists are still around and can expose their lies for what they are.
 
 [‹ Reply to errors and distortions in Phil Mitchinson's "Marxism and direct
-action"](append33.md "Go to previous page" ) [up](append3.md "Go to parent
-page" ) [Reply to errors and distortions in John Fisher's "Why we must further
-Marxism and not Anarchism" ›](append35.md "Go to next page" )
+action"](append33.md "Go to previous page") [up](append3.md "Go to parent
+page") [Reply to errors and distortions in John Fisher's "Why we must further
+Marxism and not Anarchism" ›](append35.md "Go to next page")
 

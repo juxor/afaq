@@ -28,8 +28,8 @@ she **worshipped** smokestacks. For her . . . they not only stood for, they
 **were** the epitome of human accomplishment. She must have meant it since she
 was something of a human smokestack herself; she was a chain smoker, as were
 the other rationals in her entourage. In the end she abolished her own
-breathing: she died of lung cancer."_ [_"Smokestack Lightning,"_ **Friendly
-Fire**, p. 62] The fate of this guru of capitalism is a forewarning for our
+breathing: she died of lung cancer."_ [ _"Smokestack Lightning,"_ **Friendly
+Fire** , p. 62] The fate of this guru of capitalism is a forewarning for our
 collective one if we ignore the environment and our impact on it.
 
 The key to understanding why so many on the right are dismissive of ecological
@@ -105,7 +105,7 @@ environment."_ These are termed _"externalities"_ in _"the coolly technical
 jargon of economics"_ and the capitalist company is an _"externalising
 machine"_ and it is _"no exaggeration to say that the corporation's built in
 compulsion to externalise its costs is at the root of many of the world's
-social and environmental ills."_ [Joel Bakan, **The Corporation**, p. 60 and
+social and environmental ills."_ [Joel Bakan, **The Corporation** , p. 60 and
 p. 61]
 
 The logic is simple, by externalising (imposing) costs on others (be it
@@ -132,17 +132,17 @@ means that the _"judgement of economics . . . is an extremely **fragmentary**
 judgement; out of the large number of aspects which in real life have to be
 seen and judged together before a decision can be taken, economics supplies
 only one -- whether a thing yields a profit **to those who undertake it** or
-not."_ [**Small is Beautiful**, p. 215 and p. 28] This leads to a simplistic
+not."_ [ **Small is Beautiful** , p. 215 and p. 28] This leads to a simplistic
 decision making perspective:
 
-> _ "Everything becomes crystal clear after you have reduced reality to one --
-one only -- of its thousand aspects. You know what to do -- whatever produces
-profits; you know what to avoid -- whatever reduces them or makes a loss. And
-there is at the same time a perfect measuring rod for the degree of success or
-failure. Let no-one befog the issue by asking whether a particular action is
-conducive to the wealth and well-being of society, whether it leads to moral,
-aesthetic, or cultural enrichment. Simply find out whether it pays."_ [**Op.
-Cit.**, p. 215]
+> _"Everything becomes crystal clear after you have reduced reality to one --
+> one only -- of its thousand aspects. You know what to do -- whatever
+> produces profits; you know what to avoid -- whatever reduces them or makes a
+> loss. And there is at the same time a perfect measuring rod for the degree
+> of success or failure. Let no-one befog the issue by asking whether a
+> particular action is conducive to the wealth and well-being of society,
+> whether it leads to moral, aesthetic, or cultural enrichment. Simply find
+> out whether it pays."_ [ **Op. Cit.** , p. 215]
 
 This means that key factors in decision making are, at best, undermined by the
 pressing need to make profits or, at worse, simply ignored as a handicap. So
@@ -156,8 +156,8 @@ parts of it that have been privately appropriated. This means that an activity
 can be economic although it plays hell with the environment, and that a
 competing activity, if at some cost it protects and conserves the environment,
 will be uneconomic."_ To summarise: _"it is inherent in the methodology of
-economics to **ignore man's dependence on the natural world.**"_ [**Op.
-Cit.**, p. 30 and p. 29]
+economics to **ignore man's dependence on the natural world.** "_ [ **Op.
+Cit.** , p. 30 and p. 29]
 
 Ultimately, should our decision-making be limited to a single criteria, namely
 whether it makes someone a profit? Should our environment be handed over to a
@@ -168,18 +168,19 @@ biodiversity, eco-system stability, clean water and air, and so forth only
 become legitimate social goals when the market places a price on them
 sufficient for a capitalist to make money from them. Such a system can only
 fail to achieve a green society simply because ecological concerns cannot be
-reduced to one criteria (_"The discipline of economics achieves its formidable
-resolving power by transforming what might otherwise be considered qualitative
-matters into quantitative issues with a single metric and, as it were, a
-bottom line: profit or loss."_ [James C. Scott, **Seeing like a State**, p.
-346]). This is particularly the case when even economists admit that the
-market under-supplies public goods, of which a clean and aesthetically
-pleasing environment is the classic example. Markets may reflect, to some
-degree, individual consumer preferences distorted by income distribution but
-they are simply incapable of reflecting collective values (a clean environment
-and spectacular views are inherently collective goods and cannot be enclosed).
-As a result, capitalists will be unlikely to invest in such projects as they
-cannot make everyone who uses them pay for the privilege.
+reduced to one criteria ( _"The discipline of economics achieves its
+formidable resolving power by transforming what might otherwise be considered
+qualitative matters into quantitative issues with a single metric and, as it
+were, a bottom line: profit or loss."_ [James C. Scott, **Seeing like a
+State** , p. 346]). This is particularly the case when even economists admit
+that the market under-supplies public goods, of which a clean and
+aesthetically pleasing environment is the classic example. Markets may
+reflect, to some degree, individual consumer preferences distorted by income
+distribution but they are simply incapable of reflecting collective values (a
+clean environment and spectacular views are inherently collective goods and
+cannot be enclosed). As a result, capitalists will be unlikely to invest in
+such projects as they cannot make everyone who uses them pay for the
+privilege.
 
 Then there is the tendency for the market to undermine and destroy practical
 and local knowledge on which truly ecological decisions need to be based.
@@ -199,34 +200,35 @@ is dispersed and relatively autonomous, is all but unappropriable. The
 reduction or, more utopian still, the elimination of metis and the local
 control its entails are preconditions, in the case of the state, of
 administrative order and fiscal appropriation and, in the case of the large
-capitalism firm, of worker discipline and profit."_ [**Op. Cit.**, pp. 335-6]
-Green socialist John O'Neill provides a similar analysis:
+capitalism firm, of worker discipline and profit."_ [ **Op. Cit.** , pp.
+335-6] Green socialist John O'Neill provides a similar analysis:
 
-> _ "far from fostering the existence of practical and local knowledge, the
-spread of markets often appears to do the opposite: the growth of global
-markets is associated with the disappearance of knowledge that is local and
-practical, and the growth of abstract codifiable information . . . the market
-as a mode of co-ordination appears to foster forms of abstract codifiable
-knowledge . . . The knowledge of weak and marginal actors in markets, such as
-peasant and marginalised indigenous communities, tends to be lost to those who
-hold market power. The epistemic value of knowledge claims bear no direct
-relation to their market value. Local and often unarticulated knowledge of
-soil conditions and crop varieties that have considerable value for long-term
-sustainability of agriculture has no value in markets and hence is always
-liable to loss when it comes into contact with oil-based agricultural
-technologies of those who do have market power. The undermining of local
-practical knowledge in market economies has also been exacerbated by the
-global nature of both markets and large corporate actors who require knowledge
-that is transferable across different cultures and contexts and hence abstract
-and codifiable . . . Finally, the demand for commensurability and
-calculability runs against the defence of local and practical knowledge. This
-is not just a theoretical problem but one with real institutional embodiments.
-The market encourages a spirit of calculability . . . That spirit is the
-starting point for the algorithmic account of practical reason which requires
-explicit common measures for rational choice and fails to acknowledge the
-existence of choice founded upon practical judgement. More generally it is not
-amicable to forms of knowledge that are practical, local and uncodifiable."_
-[**Markets, Deliberation and Environment**, pp. 192-3]
+> _"far from fostering the existence of practical and local knowledge, the
+> spread of markets often appears to do the opposite: the growth of global
+> markets is associated with the disappearance of knowledge that is local and
+> practical, and the growth of abstract codifiable information . . . the
+> market as a mode of co-ordination appears to foster forms of abstract
+> codifiable knowledge . . . The knowledge of weak and marginal actors in
+> markets, such as peasant and marginalised indigenous communities, tends to
+> be lost to those who hold market power. The epistemic value of knowledge
+> claims bear no direct relation to their market value. Local and often
+> unarticulated knowledge of soil conditions and crop varieties that have
+> considerable value for long-term sustainability of agriculture has no value
+> in markets and hence is always liable to loss when it comes into contact
+> with oil-based agricultural technologies of those who do have market power.
+> The undermining of local practical knowledge in market economies has also
+> been exacerbated by the global nature of both markets and large corporate
+> actors who require knowledge that is transferable across different cultures
+> and contexts and hence abstract and codifiable . . . Finally, the demand for
+> commensurability and calculability runs against the defence of local and
+> practical knowledge. This is not just a theoretical problem but one with
+> real institutional embodiments. The market encourages a spirit of
+> calculability . . . That spirit is the starting point for the algorithmic
+> account of practical reason which requires explicit common measures for
+> rational choice and fails to acknowledge the existence of choice founded
+> upon practical judgement. More generally it is not amicable to forms of
+> knowledge that are practical, local and uncodifiable."_ [ **Markets,
+> Deliberation and Environment** , pp. 192-3]
 
 Thus the market tends to replace traditional forms of agriculture and working
 practices (and the complex knowledge and expertises associated with both) with
@@ -287,8 +289,8 @@ which aims to change social, political and economic structures in order to get
 at the root cases of our environmental problems. Activist Sara Diamond
 suggested that _"[s]ome farsighted corporations are finding that the best
 'bulwark' against 'anti-corporation' environmentalism is the creation and
-promotion of an alternative model called 'free market environmentalism.'"_
-[_"Free Market Environmentalism,"_ **Z Magazine**, December 1991] Whatever the
+promotion of an alternative model called 'free market environmentalism.'"_ [
+_"Free Market Environmentalism,"_ **Z Magazine** , December 1991] Whatever the
 case, the net effect of this reliance on markets is to depoliticise
 environmental debates, to transform issues which involve values and affect
 many people into ones in which the property owner is given priority and where
@@ -373,8 +375,8 @@ more likely it will be that the development proposal will proceed. The
 'rights' of developers will eventually win out over species and ecosystems
 since . . . bio-diversity itself has no right to exist and even if it did, the
 clash of rights between an endangered species and multi-national capital would
-be a very uneven contest."_ [_"Ethics, Anarchy and Sustainable Development"_,
-pp. 95-118, **Anarchist Studies**, vol. 2, no. 2, pp. 104-5]
+be a very uneven contest."_ [ _"Ethics, Anarchy and Sustainable Development"_
+, pp. 95-118, **Anarchist Studies** , vol. 2, no. 2, pp. 104-5]
 
 So the conservation of endangered species or eco-systems is not automatically
 achieved using the market. This is especially the case when there is little,
@@ -506,27 +508,26 @@ dispossessed of any say over their environment beyond what their money can
 buy. Transforming ecological concerns into money ensures a monopoly by the
 wealthy few:
 
-> _ "In other words, the environment is assumed to be something that can be
-'valued,' in a similar way that everything else is assigned a value within the
-market economy.  
+> _"In other words, the environment is assumed to be something that can be
+> 'valued,' in a similar way that everything else is assigned a value within
+> the market economy.  
 >  _
-
 >
-
 > _"However, apart from the fact that there is no way to put an 'objective'
-value on most of the elements that constitute the environment (since they
-affect a subjective par excellence factor, i.e. the quality of life), the
-solution suggested . . . implies the extension of the marketisation process to
-the environment itself. In other words, it implies the assignment of a market
-value to the environment . . . so that the effects of growth onto it are
-'internalised' . . . The outcome of such a process is easily predictable: the
-environment will either be put under the control of the economic elites that
-control the market economy (in case an actual market value be assigned to it)
-or the state (in case an imputed value is only possible). In either case, not
-only the arrest of the ecological damage is -- at least -- doubtful, but the
-control over Nature by elites who aim to dominate it -- using 'green'
-prescriptions this time -- is perpetuated."_ [Takis Fotopoulous, _"Development
-or Democracy?"_, pp. 57-92, **Society and Nature**, No. 7, pp. 79-80]
+> value on most of the elements that constitute the environment (since they
+> affect a subjective par excellence factor, i.e. the quality of life), the
+> solution suggested . . . implies the extension of the marketisation process
+> to the environment itself. In other words, it implies the assignment of a
+> market value to the environment . . . so that the effects of growth onto it
+> are 'internalised' . . . The outcome of such a process is easily
+> predictable: the environment will either be put under the control of the
+> economic elites that control the market economy (in case an actual market
+> value be assigned to it) or the state (in case an imputed value is only
+> possible). In either case, not only the arrest of the ecological damage is
+> -- at least -- doubtful, but the control over Nature by elites who aim to
+> dominate it -- using 'green' prescriptions this time -- is perpetuated."_
+> [Takis Fotopoulous, _"Development or Democracy?"_ , pp. 57-92, **Society and
+> Nature** , No. 7, pp. 79-80]
 
 Another key problem with using private property in regard to environmental
 issues is that they are almost always reactive, almost never proactive. Thus
@@ -545,7 +546,7 @@ cost of court awarded damages per car was less than ensuring that the car did
 not explode during certain kinds of collusion and so allowed people to die in
 fuel-fed fires rather than alter the design. Unfortunately for GM, the jury
 was horrified (on appeal, the damages were substantially reduced). [Joel
-Bakan, **The Corporation**, pp. 61-5]
+Bakan, **The Corporation** , pp. 61-5]
 
 So this means that companies seeking to maximise profits have an incentive to
 cut safety costs on the assumption that the risk of so doing will be
@@ -558,8 +559,8 @@ power and wealth, not for any social good. Predictably, in order to cut costs,
 Exxon steadily dismantled what emergency safeguards it had throughout the
 1980s, pointing to environmental studies showing a major spill as so unlikely
 that preparation was unnecessary. So when the inevitable came crashing down,
-the response was complete impotence and negligence."_ [**Against the
-Megamachine**, p. 57] As such, it cannot be stressed too much that the only
+the response was complete impotence and negligence."_ [ **Against the
+Megamachine** , p. 57] As such, it cannot be stressed too much that the only
 reason companies act any different (if and when they do) is because outside
 agitators -- people who understand and cared about the planet and people more
 than they did about company profits -- eventually forced them to.
@@ -570,14 +571,15 @@ opposite effect. Even its own advocates suggest that their solution may
 produce **more** pollution than the current system of state regulation. Terry
 L. Anderson and Donald R. Leal put it this way:
 
-> _ "If markets produce 'too little' clean water because dischargers do not
-have to pay for its use, then political solutions are equally likely to
-produce 'too much' clean water because those who enjoy the benefits do not pay
-the cost . . . Just as pollution externalities can generate too much dirty
-air, political externalities can generate too much water storage, clear-
-cutting, wilderness, or water quality . . . Free market environmentalism
-emphasises the importance of market process in determining optimal amounts of
-resource use."_ [**Free Market Environmentalism**, p. 23]
+> _"If markets produce 'too little' clean water because dischargers do not
+> have to pay for its use, then political solutions are equally likely to
+> produce 'too much' clean water because those who enjoy the benefits do not
+> pay the cost . . . Just as pollution externalities can generate too much
+> dirty air, political externalities can generate too much water storage,
+> clear-cutting, wilderness, or water quality . . . Free market
+> environmentalism emphasises the importance of market process in determining
+> optimal amounts of resource use."_ [ **Free Market Environmentalism** , p.
+> 23]
 
 What kind of environmentalism considers the possibility of "too much" clean
 air and water? This means, ironically, that from the perspective of free-
@@ -599,7 +601,7 @@ environmental quality to those who currently make production decisions. A
 market system gives power to those most able to pay. Corporations and firms,
 rather than citizens or environmentalists, will have the choice about whether
 to pollute (and pay the charges or buy credits to do so)."_ [Sharon Beder,
-**Global Spin**, p. 104]
+**Global Spin** , p. 104]
 
 The surreal notion of "too much" clean environment does indicate another key
 problem with this approach, namely its confusion of need and demand with
@@ -761,7 +763,7 @@ the political process, funding "experts" and think-tanks, and, if need be,
 fighting strikes and protests. Companies can use _"a mix of cover-up,
 publicity campaigns and legal manoeuvres to continue operations unimpeded."_
 They can go to court to try an _"block more stringent pollution controls."_
-[David Watson, **Against the Megamachine**, p. 56] Also while, in principle,
+[David Watson, **Against the Megamachine** , p. 56] Also while, in principle,
 the legal system offers equal protection to all in reality, wealthy firms and
 individuals have more resources than members of the general public. This means
 that they can employ large numbers of lawyers and draw out litigation
@@ -796,26 +798,26 @@ produce more biofuel for the market.
 
 Green socialist John O'Neill simply states the obvious:
 
-> _ "[The] treatment of efficiency as if it were logically independent of
-distribution is at best misleading, for the determination of efficiency
-already presupposes a given distribution of rights . . . [A specific outcome]
-is always relative to an initial starting point . . . If property rights are
-changed so also is what is efficient. Hence, the opposition between
-distributional and efficiency criteria is misleading. Existing costs and
-benefits themselves are the product of a given distribution of property
-rights. Since costs are not independent of rights they cannot guide the
-allocation of rights. Different initial distributions entail differences in
-whose preferences are to count. Environmental conflicts are often about who
-has rights to environment goods, and hence who is to bear the costs and who is
-to bear the benefits . . . Hence, environmental policy and resource decision-
-making cannot avoid making normative choices which include questions of
-resource distribution and the relationships between conflicting rights claims
-. . . The monetary value of a 'negative externality' depends on social
-institutions and distributional conflicts -- willing to pay measures, actual
-or hypothetical, consider preferences of the higher income groups [as] more
-important than those of lower ones. If the people damaged are poor, the
-monetary measure of the cost of damage will be lower -- 'the poor sell
-cheap.'"_ [**Markets, Deliberation and Environment**, pp. 58-9]
+> _"[The] treatment of efficiency as if it were logically independent of
+> distribution is at best misleading, for the determination of efficiency
+> already presupposes a given distribution of rights . . . [A specific
+> outcome] is always relative to an initial starting point . . . If property
+> rights are changed so also is what is efficient. Hence, the opposition
+> between distributional and efficiency criteria is misleading. Existing costs
+> and benefits themselves are the product of a given distribution of property
+> rights. Since costs are not independent of rights they cannot guide the
+> allocation of rights. Different initial distributions entail differences in
+> whose preferences are to count. Environmental conflicts are often about who
+> has rights to environment goods, and hence who is to bear the costs and who
+> is to bear the benefits . . . Hence, environmental policy and resource
+> decision-making cannot avoid making normative choices which include
+> questions of resource distribution and the relationships between conflicting
+> rights claims . . . The monetary value of a 'negative externality' depends
+> on social institutions and distributional conflicts -- willing to pay
+> measures, actual or hypothetical, consider preferences of the higher income
+> groups [as] more important than those of lower ones. If the people damaged
+> are poor, the monetary measure of the cost of damage will be lower -- 'the
+> poor sell cheap.'"_ [ **Markets, Deliberation and Environment** , pp. 58-9]
 
 Economic power also impacts on the types of contracts people make. It does not
 take too much imagination to envision the possibility that companies may make
@@ -838,7 +840,7 @@ public officials, speaking at, or even just attending, public meetings,
 organising a boycott and engaging in peaceful demonstrations."_ This trend has
 spread to other countries and the intent is the same: to silence opposition
 and undermine campaigns. This tactic is called a SLAPP (for _**"Strategic
-Lawsuits Against Public Participation"**_) and is a civil court action which
+Lawsuits Against Public Participation"**_ ) and is a civil court action which
 does not seek to win compensation but rather aims _"to harass, intimidate and
 distract their opponents . . . They win the political battle, even when they
 lose the court case, if their victims and those associated with them stop
@@ -849,7 +851,7 @@ serves those who have large financial resources at their disposal"_ as such
 cases take _"an average of three years to be settled, and even if the person
 sued wins, can cost tens of thousands of dollars in legal fees. Emotional
 stress, disillusionment, diversion of time and energy, and even divisions
-within families, communities and groups can also result."_ [**Global Spin**,
+within families, communities and groups can also result."_ [ **Global Spin** ,
 pp. 63-7]
 
 A SLAPP usually deters those already involved from continuing to freely
@@ -927,8 +929,8 @@ fundamental changes in how cattle are raised, slaughter, and processed into
 ground beef. These changes have made meatpacking . . . into the most dangerous
 job in the United States . . . And the same meat industry practices that
 endanger these workers have facilitated the introduction of deadly pathogens .
-. . into America's hamburger meat."_ [Eric Schlosser, **Fast Food Nation**, p.
-5 and pp. 8-9]
+. . into America's hamburger meat."_ [Eric Schlosser, **Fast Food Nation** ,
+p. 5 and pp. 8-9]
 
 Award winning journalist Eric Schlosser has presented an excellent insight in
 this centralised and concentrated food-industrial complex in his book **Fast
@@ -1019,7 +1021,7 @@ technology is shipped there along with the production of chemicals, medicines
 and other products banned in the developed world. Labour is cheap, there are
 few if any safety standards, and costs are cut. But the formula of cost-
 benefit still stands: the costs are simply borne by others, by the victims of
-Union Carbide, Dow, and Standard Oil."_ [David Watson, **Op. Cit.**, p. 44]
+Union Carbide, Dow, and Standard Oil."_ [David Watson, **Op. Cit.** , p. 44]
 This, it should be noted, makes perfect economic sense. If an accident
 happened and the poor actually manage to successfully sue the company, any
 payments will reflect their lost of earnings (i.e., not very much).
@@ -1062,12 +1064,12 @@ logic behind dumping a load of toxic waste in the lowest wage country is
 impeccable and we should face up to that"_ and ends by stating that the
 _"problem with the arguments against all of these proposals for more
 pollution"_ in the third world _"could be turned around and used more or less
-effectively against every Bank proposal for liberalisation."_ [**The
-Economist**, 08/02/1992]
+effectively against every Bank proposal for liberalisation."_ [ **The
+Economist** , 08/02/1992]
 
 While Summers accepted the criticism for the memo, it was actually written by
 Lant Pritchett, a prominent economist at the Bank. Summers claimed he was
-being ironic and provocative. **The Economist**, unsurprisingly, stated _"his
+being ironic and provocative. **The Economist** , unsurprisingly, stated _"his
 economics was hard to answer"_ while criticising the language used. This was
 because clean growth may slower than allowing pollution to occur and this
 would stop _"helping millions of people in the third world to escape their
@@ -1102,7 +1104,7 @@ contributing to global warming. Thus we have the strange position that only
 Americans think that there is a debate on the causes of global warming rather
 than a scientific consensus. The actions of corporate funded "experts" and PR
 have ensured **that** particular outcome. As Sharon Beder recounts in her book
-**Global Spin: The Corporate Assault on Environmentalism**, a large amount of
+**Global Spin: The Corporate Assault on Environmentalism** , a large amount of
 money is being spent on number sophisticated techniques to change the way
 people think about the environment, what causes the problems we face and what
 we can and should do about it. Compared to the resources of environmental and
@@ -1112,7 +1114,7 @@ of humanity by propaganda and dis-information.
 
 Having substantial resources available means that the media can be used to
 further an anti-green agenda and dominate the debate (at least for a while).
-Take, as an example, **The Skeptical Environmentalist**, a book by Bjørn
+Take, as an example, **The Skeptical Environmentalist** , a book by Bjørn
 Lomborg (a political scientist and professor of statistics at the University
 of Aarhus in Denmark). When it was published in 2001, it caused a sensation
 with its claims that scientists and environmental organisations were making,
@@ -1149,14 +1151,14 @@ provide teaching materials or fund schools which educate their pupils on the
 by the Consumers Union found that 80% of teaching material provided by
 companies was biased and provided students with incomplete or slanted
 information that favoured its sponsor's products and views [Schlosser, **Op.
-Cit.**, p. 55] The more dependent a school is on corporate funds, the less
+Cit.** , p. 55] The more dependent a school is on corporate funds, the less
 likely it will be to teach its students the necessity to question the
 motivations and activities of business. That business will not fund education
 which it perceives as anti-business should go without saying. As Sharon Beder
 summarises, _"the infiltration of school curricula through banning some texts
 and offering corporate-based curriculum material and lesson plans in their
 place can conflict with educational objectives, and also with the attainment
-of an undistorted understanding of environmental problems."_ [**Op. Cit.**,
+of an undistorted understanding of environmental problems."_ [ **Op. Cit.** ,
 pp. 172-3]
 
 This indicates the real problem of purely "educational" approaches to solving
@@ -1229,27 +1231,27 @@ invest in developing risky new technologies. This is because basic research
 which may take years, if not decades, to develop and most companies are
 unwilling to take on that burden. Unsurprisingly, most advanced capitalist
 countries see such work funded by the state (as we noted in [section
-D.8](secD8.md), over 50% of total R&amp;D funding has been provided by the
+D.8](secD8.md), over 50% of total R&D funding has been provided by the
 federal state in the USA). Moreover, the state has provided markets for such
 products until such time as markets have appeared for them in the commercial
 sector. Thus capitalism, by itself, will tend to under-invest in long term
 projects:
 
-> _ "in a competitive system you do **short-term planning only** . . . Let's
-take corporate managers, where there's no real confusion about what they're
-doing. They are maximising profit and market share in the short term. In fact,
-if they were not to do that, they would no longer exist. Let's be concrete.
-Suppose that some automobile company, say General Motors, decides to devote
-their resources to planning for something that will be profitable ten years
-from now. Suppose that's where they divert their resources: they want to think
-in some long-term conception of market dominance. Their rivals are going to
-maximising profit and power in the short term, and they're going to take over
-the market, and General Motors won't be in business. That's true for the
-owners and also for the managers. The managers want to stay managers. They can
-fight off hostile take-over bids, they can keep from being replaced, as long
-as they contribute to short-term profitability. As a result, long-term
-considerations are rarely considered in competitive systems."_ [Noam Chomsky,
-**Language and Politics**, p. 598]
+> _"in a competitive system you do **short-term planning only** . . . Let's
+> take corporate managers, where there's no real confusion about what they're
+> doing. They are maximising profit and market share in the short term. In
+> fact, if they were not to do that, they would no longer exist. Let's be
+> concrete. Suppose that some automobile company, say General Motors, decides
+> to devote their resources to planning for something that will be profitable
+> ten years from now. Suppose that's where they divert their resources: they
+> want to think in some long-term conception of market dominance. Their rivals
+> are going to maximising profit and power in the short term, and they're
+> going to take over the market, and General Motors won't be in business.
+> That's true for the owners and also for the managers. The managers want to
+> stay managers. They can fight off hostile take-over bids, they can keep from
+> being replaced, as long as they contribute to short-term profitability. As a
+> result, long-term considerations are rarely considered in competitive
+> systems."_ [Noam Chomsky, **Language and Politics** , p. 598]
 
 This does not mean that firms will not look into future products nor do
 research and development. Many do (particularly if helped by the state). Nor
@@ -1309,7 +1311,7 @@ social responsibility is thus illegal -- at least when it is genuine."_ Ones
 which _"choose social and environmental goals over profits -- who try and act
 morally -- are, in fact, immoral"_ as their role in both the economy and
 economic ideology is to _"make much as much money as possible for
-shareholders."_ [**The Corporation**, pp. 36-7 and p. 34]
+shareholders."_ [ **The Corporation** , pp. 36-7 and p. 34]
 
 In general, then, if one company tries to devote resources to develop products
 or processes that are ecologically responsible, they will simply be undercut
@@ -1360,9 +1362,9 @@ The short-termism of capitalism has produced, in effect, a system which is _"a
 massive pyramid scheme that will collapse somewhere down the line when all the
 major players have already retired from the game. Of course when the last of
 these hustlers cash in their chips, there won't be any place left to retire
-to."_ [David Watson, **Op. Cit.**, p. 57]
+to."_ [David Watson, **Op. Cit.** , p. 57]
 
 [‹ E.2 What do eco-anarchists propose instead of capitalism?](secE2.md "Go
-to previous page" ) [up](secEcon.md "Go to parent page" ) [E.4 Can laissez-
-faire capitalism protect the environment? ›](secE4.md "Go to next page" )
+to previous page") [up](secEcon.md "Go to parent page") [E.4 Can laissez-
+faire capitalism protect the environment? ›](secE4.md "Go to next page")
 

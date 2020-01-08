@@ -166,8 +166,8 @@ Nicholas Evans
 
 and our comrades on the anarchy, oneunion and organise! mailing lists.
 
-**_"An Anarchist FAQ"_**, **Version 1****5.0**  
-Copyright (C) 1995-2014 The Anarchist FAQ Editorial Collective:  
+**_"An Anarchist FAQ"_** , **Version 1** **5.2**  
+Copyright (C) 1995-2019 The Anarchist FAQ Editorial Collective:  
 Iain McKay, Gary Elkin, Dave Neal, Ed Boraas
 
 Permission is granted to copy, distribute and/or modify this document under
@@ -183,7 +183,7 @@ Software Foundation.
   * [What Anarchists Say about An Anarchist FAQ](quotes.md)
   * [An Anarchist FAQ Webpage Contacts](contact.md)
 
-[‹ What's New in the FAQ?](new.md "Go to previous page" ) [up](index.md
-"Go to parent page" ) [An Anarchist FAQ after ten years ›](10years.md "Go to
-next page" )
+[‹ What's New in the FAQ?](new.md "Go to previous page") [up](index.md "Go
+to parent page") [An Anarchist FAQ after ten years ›](10years.md "Go to next
+page")
 

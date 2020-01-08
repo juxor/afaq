@@ -1,7 +1,7 @@
 # 3 Why do anarcho"-capitalists place little or no value on "equality"?
 
 Murray Rothbard argues that _"the 'rightist' libertarian is not opposed to
-inequality."_ [**For a New Liberty**, p. 47] In contrast, "leftist"
+inequality."_ [ **For a New Liberty** , p. 47] In contrast, "leftist"
 libertarians oppose inequality because it has harmful effects on individual
 liberty.
 
@@ -10,14 +10,14 @@ Part of the reason "anarcho"-capitalism places little or no value on
 equality as:
 
 > _"A and B are 'equal' if they are identical to each other with respect to a
-given attribute... There is one and only one way, then, in which any two
-people can really be 'equal' in the fullest sense: they must be identical in
-**all** their attributes."_
+> given attribute... There is one and only one way, then, in which any two
+> people can really be 'equal' in the fullest sense: they must be identical in
+> **all** their attributes."_
 
 He then points out the obvious fact that _"men are not uniform,. . . . the
 species, mankind, is uniquely characterised by a high degree of variety,
-diversity, differentiation: in short, inequality."_ [**Egalitarianism as a
-Revolt against Nature and Other Essays**, p. 4, p.5]
+diversity, differentiation: in short, inequality."_ [ **Egalitarianism as a
+Revolt against Nature and Other Essays** , p. 4, p.5]
 
 In others words, every individual is unique. Something no egalitarian has ever
 denied. On the basis of this amazing insight, he concludes that equality is
@@ -35,10 +35,10 @@ and "unnatural."
 
 Before continuing, we must note that Rothbard is destroying language to make
 his point and that he is not the first to abuse language in this particular
-way. In George Orwell's **1984**, the expression _"all men are created equal"_
-could be translated into Newspeak, but it would make as much sense as saying
-_"all men have red hair,"_ an obvious falsehood (see _"The Principles of
-Newspeak"_ Appendix). It's nice to know that "Mr. Libertarian" is stealing
+way. In George Orwell's **1984** , the expression _"all men are created
+equal"_ could be translated into Newspeak, but it would make as much sense as
+saying _"all men have red hair,"_ an obvious falsehood (see _"The Principles
+of Newspeak"_ Appendix). It's nice to know that "Mr. Libertarian" is stealing
 ideas from Big Brother, and for the same reason: to make critical thought
 impossible by restricting the meaning of words.
 
@@ -61,12 +61,12 @@ sameness. Free opportunity and acting out your individuality means development
 of natural dissimilarities and variations. . . . Life in freedom, in anarchy
 will do more than liberate man merely from his present political and economic
 bondage. That will be only the first step, the preliminary to a truly human
-existence."_ [**The ABC of Anarchism**, p. 25]
+existence."_ [ **The ABC of Anarchism** , p. 25]
 
 Thus anarchists reject the Rothbardian-Newspeak definition of equality as
 meaningless within political discussion. No two people are identical and so
 imposing "identical" equality between them would mean treating them as
-**unequals**, i.e. not having equal worth or giving them equal respect as
+**unequals** , i.e. not having equal worth or giving them equal respect as
 befits them as human beings and fellow unique individuals.
 
 So what should we make of Rothbard's claim? It is tempting just to quote
@@ -77,7 +77,7 @@ necessarily better than those who obey, and if strength of body or of mind,
 wisdom, or virtue are always found in particular individuals, in proportion to
 their power or wealth: a question fit perhaps to be discussed by slaves in the
 hearing of their masters, but highly unbecoming to reasonable and free men in
-search of the truth."_ [**The Social Contract and Discourses**, p. 49] But a
+search of the truth."_ [ **The Social Contract and Discourses** , p. 49] But a
 few more points should be raised.
 
 The uniqueness of individuals has always existed but for the vast majority of
@@ -95,17 +95,17 @@ certain rights frameworks will tend to magnify "natural" inequalities
 violence and force). As Noam Chomsky argues:
 
 > _"Presumably it is the case that in our 'real world' some combination of
-attributes is conducive to success in responding to 'the demands of the
-economic system' . . . One might suppose that some mixture of avarice,
-selfishness, lack of concern for others, aggressiveness, and similar
-characteristics play a part in getting ahead [in capitalism]. . . Whatever the
-correct collection of attributes may be, we may ask what follows from the
-fact, if it is a fact, that some partially inherited combination of attributes
-tends to material success? All that follows . . . is a comment on our
-particular social and economic arrangements . . . The egalitarian might
-responds, in all such cases, that the social order should be changes so that
-the collection of attributes that tends to bring success no longer do so . . .
-"_ [**The Chomsky Reader**, p. 190]
+> attributes is conducive to success in responding to 'the demands of the
+> economic system' . . . One might suppose that some mixture of avarice,
+> selfishness, lack of concern for others, aggressiveness, and similar
+> characteristics play a part in getting ahead [in capitalism]. . . Whatever
+> the correct collection of attributes may be, we may ask what follows from
+> the fact, if it is a fact, that some partially inherited combination of
+> attributes tends to material success? All that follows . . . is a comment on
+> our particular social and economic arrangements . . . The egalitarian might
+> responds, in all such cases, that the social order should be changes so that
+> the collection of attributes that tends to bring success no longer do so . .
+> . "_ [ **The Chomsky Reader** , p. 190]
 
 So, perhaps, if we change society then the social inequalities we see today
 would disappear. It is more than probable that natural difference has been
@@ -156,8 +156,8 @@ property does not promote, but actually conflicts with, the ends which render
 private property legitimate. Moreover, Nozick (in his "liberty upsets
 patterns" argument) _"has produced . . . an argument for unrestricted private
 property using unrestricted private property, and thus he begs the question he
-tries to answer."_ [Andrew Kerhohan, _"Capitalism and Self-Ownership"_, from
-**Capitalism**, p. 71] For example, a worker employed by a capitalist cannot
+tries to answer."_ [Andrew Kerhohan, _"Capitalism and Self-Ownership"_ , from
+**Capitalism** , p. 71] For example, a worker employed by a capitalist cannot
 freely exchange the machines or raw materials they have been provided with to
 use but Nozick does not class this distribution of "restricted" property
 rights as infringing liberty (nor does he argue that wage slavery itself
@@ -169,7 +169,7 @@ inequalities produced by capitalist property rights also involve extensive and
 continuous interference with people's lives. After all, as Bob Black notes
 _"[y]our foreman or supervisor gives you more or-else orders in a week than
 the police do in a decade"_ nevermind the other effects of inequality such as
-stress, ill health and so on [**Libertarian as Conservative**]. Thus claims
+stress, ill health and so on [ **Libertarian as Conservative** ]. Thus claims
 that equality involves infringing liberty ignores the fact that inequality
 also infringes liberty. A reorganisation of society could effectively minimise
 inequalities by eliminating the major source of such inequalities (wage
@@ -198,8 +198,8 @@ a comprehension of the whole. Thence results. . . the necessity of the
 division and association of labour. I receive and I give -- such is human
 life. Each directs and is directed in his turn. Therefore there is no fixed
 and constant authority, but a continual exchange of mutual, temporary, and,
-above all, voluntary authority and subordination."_ [**God and the State**, p.
-33]
+above all, voluntary authority and subordination."_ [ **God and the State** ,
+p. 33]
 
 Such an environment can only exist within self-managed associations, for
 capitalism (i.e. wage labour) creates very specific relations and institutions
@@ -228,7 +228,7 @@ inequality corrupts freedom. Their anarchism is directed as much against
 inequality as against tyranny"_ and _"[w]hile sympathetic to Spooner's
 individualist anarchism, they [Rothbard and David Friedman] fail to notice or
 conveniently overlook its egalitarian implications."_ [Stephen L. Newman,
-**Liberalism at Wit's End**, p. 74, p. 76]
+**Liberalism at Wit's End** , p. 74, p. 76]
 
 Why equality is important is discussed more fully in the [next
 section](append133.md#secf31). Here we just stress that without social
@@ -245,7 +245,7 @@ biological nature, are unequal in all the attributes necessary to achieving,
 and preserving 'freedom' and 'rights'. . . then there is no way that people
 can enjoy 'equal freedom' or 'equal rights'. If a free society is conceived as
 a society of 'equal freedom,' then there ain't no such thing as 'a free
-society'."_ [**The Myth of Natural Law**, p. 36]
+society'."_ [ **The Myth of Natural Law** , p. 36]
 
 Under capitalism, freedom is a commodity like everything else. The more money
 you have, the greater your freedom. "Equal" freedom, in the Newspeak-
@@ -279,7 +279,7 @@ majority being negated in many important ways. Most "anarcho"-capitalists and
 right-Libertarians deny (or at best ignore) market power. Rothbard, for
 example, claims that economic power does not exist; what people call
 _"economic power"_ is _"simply the right under freedom to refuse to make an
-exchange"_ [**The Ethics of Liberty**, p. 222] and so the concept is
+exchange"_ [ **The Ethics of Liberty** , p. 222] and so the concept is
 meaningless.
 
 However, the fact is that there are substantial power centres in society (and
@@ -289,44 +289,41 @@ the (unstated) assumption that the various actors within an economy have
 relatively equal power. This assumption has been noted by many readers of
 their works. For example, Peter Marshall notes that _"'anarcho-capitalists'
 like Murray Rothbard assume individuals would have equal bargaining power in a
-[capitalist] market-based society"_ [**Demanding the Impossible**, p. 46]
+[capitalist] market-based society"_ [ **Demanding the Impossible** , p. 46]
 George Walford also makes this clear in his comments on David Friedman's **The
-Machinery of Freedom**:
+Machinery of Freedom** :
 
 > _"The private ownership envisages by the anarcho-capitalists would be very
-different from that which we know. It is hardly going too far to say that
-while the one is nasty, the other would be nice. In anarcho-capitalism there
-would be no National Insurance, no Social Security, no National Health Service
-and not even anything corresponding to the Poor Laws; there would be no public
-safety-nets at all. It would be a rigorously competitive society: work, beg or
-die. But as one reads on, learning that each individual would have to buy,
-personally, all goods and services needed, not only food, clothing and shelter
-but also education, medicine, sanitation, justice, police, all forms of
-security and insurance, even permission to use the streets (for these also
-would be privately owned), as one reads about all this a curious feature
-emerges: everybody always has enough money to buy all these things. _
-
+> different from that which we know. It is hardly going too far to say that
+> while the one is nasty, the other would be nice. In anarcho-capitalism there
+> would be no National Insurance, no Social Security, no National Health
+> Service and not even anything corresponding to the Poor Laws; there would be
+> no public safety-nets at all. It would be a rigorously competitive society:
+> work, beg or die. But as one reads on, learning that each individual would
+> have to buy, personally, all goods and services needed, not only food,
+> clothing and shelter but also education, medicine, sanitation, justice,
+> police, all forms of security and insurance, even permission to use the
+> streets (for these also would be privately owned), as one reads about all
+> this a curious feature emerges: everybody always has enough money to buy all
+> these things._
 >
-
 > _"There are no public casual wards or hospitals or hospices, but neither is
-there anybody dying in the streets. There is no public educational system but
-no uneducated children, no public police service but nobody unable to buy the
-services of an efficient security firm, no public law but nobody unable to buy
-the use of a private legal system. Neither is there anybody able to buy much
-more than anybody else; no person or group possesses economic power over
-others. _
-
+> there anybody dying in the streets. There is no public educational system
+> but no uneducated children, no public police service but nobody unable to
+> buy the services of an efficient security firm, no public law but nobody
+> unable to buy the use of a private legal system. Neither is there anybody
+> able to buy much more than anybody else; no person or group possesses
+> economic power over others._
 >
-
 > _"No explanation is offered. The anarcho-capitalists simply take it for
-granted that in their favoured society, although it possesses no machinery for
-restraining competition (for this would need to exercise authority over the
-competitors and it is an **anarcho**\- capitalist society) competition would
-not be carried to the point where anybody actually suffered from it. While
-proclaiming their system to be a competitive one, in which private interest
-rules unchecked, they show it operating as a co-operative one, in which no
-person or group profits at the cost of another."_ [**On the Capitalist
-Anarchists**]
+> granted that in their favoured society, although it possesses no machinery
+> for restraining competition (for this would need to exercise authority over
+> the competitors and it is an **anarcho** \- capitalist society) competition
+> would not be carried to the point where anybody actually suffered from it.
+> While proclaiming their system to be a competitive one, in which private
+> interest rules unchecked, they show it operating as a co-operative one, in
+> which no person or group profits at the cost of another."_ [ **On the
+> Capitalist Anarchists** ]
 
 This assumption of (relative) equality comes to the fore in Murray Rothbard's
 "Homesteading" concept of property (discussed in section
@@ -384,14 +381,14 @@ agents who threaten to discharge agricultural workers and tenants who failed
 to vote the reactionary ticket"_ in the 1936 Spanish election were just
 exercising their legitimate property rights when they threatened working
 people and their families with economic uncertainty and distress. [Murray
-Bookchin, **The Spanish Anarchists**, p. 260]
+Bookchin, **The Spanish Anarchists** , p. 260]
 
 If we take the labour market, it is clear that the "buyers" and "sellers" of
 labour power are rarely on an equal footing (if they were, then capitalism
 would soon go into crisis -- see section [10.2](append1310.md#secf102)). In
 fact, competition _"in labour markets is typically skewed in favour of
 employers: it is a buyer's market. And in a buyer's, it is the sellers who
-compromise."_ [Juliet B. Schor, **The Overworked American**, p. 129] Thus the
+compromise."_ [Juliet B. Schor, **The Overworked American** , p. 129] Thus the
 ability to refuse an exchange weights most heavily on one class than another
 and so ensures that "free exchange" works to ensure the domination (and so
 exploitation) of one party by the other.
@@ -416,12 +413,12 @@ involved to "compromise" far sooner). And in such circumstances, formally free
 individuals will have to "consent" to be unfree in order to survive.
 
 As Max Stirner pointed out in the 1840s, free competition _"is not 'free,'
-because I lack the **things** for competition."_ [**The Ego and Its Own**, p.
-262] Due to this basic inequality of wealth (of "things") we find that
+because I lack the **things** for competition."_ [ **The Ego and Its Own** ,
+p. 262] Due to this basic inequality of wealth (of "things") we find that
 _"[u]nder the **regime** of the commonality the labourers always fall into the
 hands of the possessors . . . of the capitalists, therefore. The labourer
 cannot **realise** on his labour to the extent of the value that it has for
-the customer."_ [**Op. Cit.**, p. 115] Its interesting to note that even
+the customer."_ [ **Op. Cit.** , p. 115] Its interesting to note that even
 Stirner recognises that capitalism results in exploitation. And we may add
 that value the labourer does not _"realise"_ goes into the hands of the
 capitalists, who invest it in more "things" and which consolidates and
@@ -430,13 +427,13 @@ increases their advantage in "free" competition.
 To quote Stephan L. Newman:
 
 > _"Another disquieting aspect of the libertarians' refusal to acknowledge
-power in the market is their failure to confront the tension between freedom
-and autonomy. . . Wage labour under capitalism is, of course, formally free
-labour. No one is forced to work at gun point. Economic circumstance, however,
-often has the effect of force; it compels the relatively poor to accept work
-under conditions dictated by owners and managers. The individual worker
-retains freedom [i.e. negative liberty] but loses autonomy [positive
-liberty]."_ [**Liberalism at Wit's End**, pp. 122-123]
+> power in the market is their failure to confront the tension between freedom
+> and autonomy. . . Wage labour under capitalism is, of course, formally free
+> labour. No one is forced to work at gun point. Economic circumstance,
+> however, often has the effect of force; it compels the relatively poor to
+> accept work under conditions dictated by owners and managers. The individual
+> worker retains freedom [i.e. negative liberty] but loses autonomy [positive
+> liberty]."_ [ **Liberalism at Wit's End** , pp. 122-123]
 
 (As an aside, we should point out that the full Stirner quote cited above is
 _"[u]nder the **regime** of the commonality the labourers always fall into the
@@ -448,12 +445,12 @@ extent of the value that it has for the customer."_
 
 It could be argued that we misrepresenting Stirner by truncating the quote,
 but we feel that such a claim this is incorrect. Its clear from his book that
-Stirner is considering the "minimal" state (_"The State is a - commoners'
+Stirner is considering the "minimal" state ( _"The State is a - commoners'
 State . . . It protects man . . .according to whether the rights entrusted to
 him by the State are enjoyed and managed in accordance with the will, that is,
 laws, of the State."_ The State _"looks on indifferently as one grows poor and
 the other rich, unruffled by this alternation. As **individuals** they are
-really equal before its face."_ [**Op. Cit.**, p. 115, p. 252]). As
+really equal before its face."_ [ **Op. Cit.** , p. 115, p. 252]). As
 "anarcho"-capitalists consider their system to be one of rights and laws
 (particularly property rights), we feel that its fair to generalise Stirner's
 comments into capitalism **as such** as opposed to "minimum state" capitalism.
@@ -466,14 +463,14 @@ limitations in an (materially) unequal society. Brian Morris notes that for
 Ayn Rand, _"[u]nder capitalism . . . politics (state) and economics
 (capitalism) are separated . . . This, of course, is pure ideology, for Rand's
 justification of the state is that it 'protects' private property, that is, it
-supports and upholds the economic power of capitalists by coercive means."_
-[**Ecology &amp; Anarchism**, p. 189] The same can be said of
-"anarcho"-capitalism and its "protection agencies" and "general libertarian
-law code." If within a society a few own all the resources and the majority
-are dispossessed, then any law code which protects private property
-**automatically** empowers the owning class. Workers will **always** be
-initiating force if act against the code and so "equality before the law"
-reinforces inequality of power and wealth.
+supports and upholds the economic power of capitalists by coercive means."_ [
+**Ecology & Anarchism**, p. 189] The same can be said of "anarcho"-capitalism
+and its "protection agencies" and "general libertarian law code." If within a
+society a few own all the resources and the majority are dispossessed, then
+any law code which protects private property **automatically** empowers the
+owning class. Workers will **always** be initiating force if act against the
+code and so "equality before the law" reinforces inequality of power and
+wealth.
 
 This means that a system of property rights protects the liberties of some
 people in a way which gives them an unacceptable degree of power over others.
@@ -487,18 +484,18 @@ in society. In addition, it allows them to brush over the negative effects of
 their system by painting an unreal picture of a capitalist society without
 vast extremes of wealth and power (indeed, they often construe capitalist
 society in terms of an ideal -- namely artisan production -- that is really
-**pre**-capitalist and whose social basis has been eroded by capitalist
+**pre** -capitalist and whose social basis has been eroded by capitalist
 development). Inequality shapes the decisions we have available and what ones
 we make:
 
 > _"An 'incentive' is always available in conditions of substantial social
-inequality that ensure that the 'weak' enter into a contract. When social
-inequality prevails, questions arises about what counts as voluntary entry
-into a contract . . . Men and women . . . are now juridically free and equal
-citizens, but, in unequal social conditions, the possibility cannot be ruled
-out that some or many contracts create relationships that bear uncomfortable
-resemblances to a slave contract."_ [Carole Pateman, **The Sexual Contract**,
-p. 62]
+> inequality that ensure that the 'weak' enter into a contract. When social
+> inequality prevails, questions arises about what counts as voluntary entry
+> into a contract . . . Men and women . . . are now juridically free and equal
+> citizens, but, in unequal social conditions, the possibility cannot be ruled
+> out that some or many contracts create relationships that bear uncomfortable
+> resemblances to a slave contract."_ [Carole Pateman, **The Sexual Contract**
+> , p. 62]
 
 This ideological confusion of right-libertarianism can also be seen from their
 opposition to taxation. On the one hand, they argue that taxation is wrong
@@ -513,8 +510,8 @@ either we have relative equality or we do not. Either we have riches, and so
 market power, or we do not. And its clear from the likes of Rothbard,
 "anarcho"-capitalism will not be without its millionaires (there is, after
 all, apparently nothing un-libertarian about _"organisation, hierarchy, wage-
-work, granting of funds by libertarian millionaires, and a libertarian
-party"_). And so we are left with market power and so extensive unfreedom.
+work, granting of funds by libertarian millionaires, and a libertarian party"_
+). And so we are left with market power and so extensive unfreedom.
 
 Thus, for a ideology that denounces egalitarianism as a _"revolt against
 nature"_ it is pretty funny that they paint a picture of "anarcho"-capitalism
@@ -562,15 +559,13 @@ parasites, even if they inherited all their money). All things considered,
 little wonder that Proudhon argued that:
 
 > _"Even charitable institutions serve the ends of those in authority
-marvellously well. _
-
+> marvellously well._
 >
-
 > _"Charity is the strongest chain by which privilege and the Government,
-bound to protect them, holds down the lower classes. With charity, sweeter to
-the heart of men, more intelligible to the poor man than the abstruse laws of
-Political Economy, one may dispense with justice."_ [**General Idea of the
-Revolution**, pp. 69-70]
+> bound to protect them, holds down the lower classes. With charity, sweeter
+> to the heart of men, more intelligible to the poor man than the abstruse
+> laws of Political Economy, one may dispense with justice."_ [ **General Idea
+> of the Revolution** , pp. 69-70]
 
 As noted, the right-libertarian (passing) acknowledgement of poverty does not
 mean that they recognise the existence of market power. They never ask
@@ -579,7 +574,6 @@ are drowning in a see of usury and have to sell their labour (and so liberty)
 to survive.
 
 [‹ 2 What do "anarcho"-capitalists mean by "freedom"?](append132.md "Go to
-previous page" ) [up](append13.md "Go to parent page" ) [4 What is the
-right-libertarian position on private property? ›](append134.md "Go to next
-page" )
+previous page") [up](append13.md "Go to parent page") [4 What is the right-
+libertarian position on private property? ›](append134.md "Go to next page")
 

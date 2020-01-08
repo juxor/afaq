@@ -8,7 +8,7 @@ protecting privilege from the threat of public understanding and
 participation."_ This process ensures that state violence is not necessary to
 maintain the system as _"more subtle means are required: the manufacture of
 consent, [and] deceiving the masses with 'necessary illusions."_ [Noam
-Chomsky, **Necessary Illusions**, pp. 13-4 and p. 19] The media, in other
+Chomsky, **Necessary Illusions** , pp. 13-4 and p. 19] The media, in other
 words, are a key means of ensuring that the dominant ideas within society are
 those of the dominant class.
 
@@ -17,7 +17,7 @@ the wealthy and powerful use the media to propagandise in their own interests
 behind a mask of objective news reporting. Along with Edward Herman, he has
 developed the _**"Propaganda Model"**_ of the media works. Herman and Chomsky
 expound this analysis in their book **Manufacturing Consent: The Political
-Economy of the Mass Media**, whose main theses we will summarise in this
+Economy of the Mass Media** , whose main theses we will summarise in this
 section (unless otherwise indicated all quotes are from this work). We do not
 suggest that we can present anything other than a summary here and, as such,
 we urge readers to consult **Manufacturing Consent** itself for a full
@@ -29,7 +29,7 @@ Chomsky and Herman's "propaganda model" of the media postulates a set of five
 _"filters"_ that act to screen the news and other material disseminated by the
 media. These _"filters"_ result in a media that reflects elite viewpoints and
 interests and mobilises _"support for the special interests that dominate the
-state and private activity."_ [**Manufacturing Consent**, p. xi] These
+state and private activity."_ [ **Manufacturing Consent** , p. xi] These
 _"filters"_ are: (1) the size, concentrated ownership, owner wealth, and
 profit orientation of the dominant mass-media firms; (2) advertising as the
 primary income source of the mass media; (3) the reliance of the media on
@@ -51,7 +51,7 @@ nature of these five filters below before refuting two common objections to
 the model. As with Chomsky and Herman, examples are mostly from the US media.
 For more extensive analysis, we would recommend two organisations which study
 and critique the performance of the media from a perspective informed by the
-"propaganda model." These are the American **Fairness &amp; Accuracy In
+"propaganda model." These are the American **Fairness & Accuracy In
 Reporting** (FAIR) and the UK based **MediaLens** (neither, it should be
 pointed out, are anarchist organisations).
 
@@ -74,8 +74,8 @@ efforts succeed."_ While dissent was quite visible in America, _"the networks
 largely ignored anti-war opinion."_ FAIR found that just 3% of US sources
 represented or expressed opposition to the war in spite of the fact more than
 one in four Americans opposed it. In summary, _"none of the networks offered
-anything resembling proportionate coverage of anti-war voices"_. [_"Amplifying
-Officials, Squelching Dissent"_, **Extra!** May/June 2003]
+anything resembling proportionate coverage of anti-war voices"_. [
+_"Amplifying Officials, Squelching Dissent"_ , **Extra!** May/June 2003]
 
 This perspective is common during war time, with the media's rule of thumb
 being, essentially, that to support the war is to be objective, while to be
@@ -117,9 +117,9 @@ of households, should not be considered the arbiters of whether or not 'the
 economy' is good is never explained."_ Barring a few exceptions, the media did
 not _"reflect the concerns of average salaried workers at least as much as
 those of the investor class."_ Needless to say, which capitalist economists
-were allowed space to discuss their ideas, progressive economists did not.
-[_"Good News! The Rich Get Richer: Lack of applause for falling wages is media
-mystery,"_ **Extra!**, March/April 2006] Given the nature and role of the
+were allowed space to discuss their ideas, progressive economists did not. [
+_"Good News! The Rich Get Richer: Lack of applause for falling wages is media
+mystery,"_ **Extra!** , March/April 2006] Given the nature and role of the
 media, this reporting comes as no surprise.
 
 We stress again, before continuing, that this is a **summary** of Herman's and
@@ -138,7 +138,7 @@ become increasingly effective over time. As in any well developed market, this
 means that there are very effective **natural** barriers to entry into the
 media industry. Due to this process of concentration, the ownership of the
 major media has become increasingly concentrated in fewer and fewer hands. As
-Ben Bagdikian's stresses in his 1987 book **Media Monopoly**, the 29 largest
+Ben Bagdikian's stresses in his 1987 book **Media Monopoly** , the 29 largest
 media systems account for over half of the output of all newspapers, and most
 of the sales and audiences in magazines, broadcasting, books, and movies. The
 _"top tier"_ of these -- somewhere between 10 and 24 systems -- along with the
@@ -146,7 +146,7 @@ government and wire services, _"defines the news agenda and supplies much of
 the national and international news to the lower tiers of the media, and thus
 for the general public."_ [p. 5] Since then, media concentration has
 increased, both nationally and on a global level. Bagdikian's 2004 book, **The
-New Media Monopoly**, showed that since 1983 the number of corporations
+New Media Monopoly** , showed that since 1983 the number of corporations
 controlling most newspapers, magazines, book publishers, movie studios, and
 electronic media have shrunk from 50 to five global-dimension firms, operating
 with many of the characteristics of a cartel -- Time-Warner, Disney, News
@@ -184,11 +184,11 @@ described below (in [section D.3.4](secD3.md#secd34)). Thus Herman and
 Chomsky:
 
 > _"the dominant media forms are quite large businesses; they are controlled
-by very wealthy people or by managers who are subject to sharp constraints by
-owners and other market-profit-oriented forces; and they are closely
-interlocked, and have important common interests, with other major
-corporations, banks, and government. This is the first powerful filter that
-effects news choices."_ [p. 14]
+> by very wealthy people or by managers who are subject to sharp constraints
+> by owners and other market-profit-oriented forces; and they are closely
+> interlocked, and have important common interests, with other major
+> corporations, banks, and government. This is the first powerful filter that
+> effects news choices."_ [p. 14]
 
 Needless to say, reporters and editors will be selected based upon how well
 their work reflects the interests and needs of their employers. Thus a radical
@@ -236,13 +236,13 @@ serious disadvantage. Without access to advertising revenue, even the most
 popular paper will fold or price itself out of the market. Chomsky and Herman
 cite the British pro-labour and pro-union **Daily Herald** as an example of
 this process. At its peak, the **Daily Herald** had almost double the
-readership of **The Times**, the **Financial Times** and **The Guardian**
+readership of **The Times** , the **Financial Times** and **The Guardian**
 combined, yet even with 8.1% of the national circulation it got 3.5% of net
 advertising revenue and so could not survive on the "free market." As Herman
 and Chomsky note, a _"mass movement without any major media support, and
 subject to a great deal of active press hostility, suffers a serious
 disability, and struggles against grave odds."_ With the folding of the
-**Daily Herald**, the labour movement lost its voice in the mainstream media.
+**Daily Herald** , the labour movement lost its voice in the mainstream media.
 [pp. 17-8 and pp. 15-16]
 
 Thus advertising is an effective filter for news choice (and, indeed, survival
@@ -401,7 +401,7 @@ should not even reflect the range of debate over tactical questions among the
 dominant elites, but should serve only those segments that happen to manage
 the state at a particular moment, and should do so with proper enthusiasm and
 optimism about the causes -- noble by definition -- in which state power is
-engaged."_ [Chomsky, **Necessary Illusions**, p. 13 and p. 11]
+engaged."_ [Chomsky, **Necessary Illusions** , p. 13 and p. 11]
 
 ## D.3.5 Why is "anticommunism" used as control mechanism?
 
@@ -446,23 +446,21 @@ about worthy victims are often made the subject of sustained propaganda
 campaigns, to score political points against enemies. For example:
 
 > _"If the government of corporate community and the media feel that a story
-is useful as well as dramatic, they focus on it intensively and use it to
-enlighten the public. This was true, for example, of the shooting down by the
-Soviets of the Korean airliner KAL 007 in early September 1983, which
-permitted an extended campaign of denigration of an official enemy and greatly
-advanced Reagan administration arms plans."  
+> is useful as well as dramatic, they focus on it intensively and use it to
+> enlighten the public. This was true, for example, of the shooting down by
+> the Soviets of the Korean airliner KAL 007 in early September 1983, which
+> permitted an extended campaign of denigration of an official enemy and
+> greatly advanced Reagan administration arms plans."  
 >  _
-
 >
-
 > _"In sharp contrast, the shooting down by Israel of a Libyan civilian
-airliner in February 1973 led to no outcry in the West, no denunciations for
-'cold-blooded murder,' and no boycott. This difference in treatment was
-explained by the **New York Times** precisely on the grounds of utility: 'No
-useful purpose is served by an acrimonious debate over the assignment of blame
-for the downing of a Libyan airliner in the Sinai peninsula last week.' There
-**was** a very 'useful purpose' served by focusing on the Soviet act, and a
-massive propaganda campaign ensued."_ [p. 32]
+> airliner in February 1973 led to no outcry in the West, no denunciations for
+> 'cold-blooded murder,' and no boycott. This difference in treatment was
+> explained by the **New York Times** precisely on the grounds of utility: 'No
+> useful purpose is served by an acrimonious debate over the assignment of
+> blame for the downing of a Libyan airliner in the Sinai peninsula last
+> week.' There **was** a very 'useful purpose' served by focusing on the
+> Soviet act, and a massive propaganda campaign ensued."_ [p. 32]
 
 As noted, since the end of the Cold War, anti-communism has not been used as
 extensively as it once was to mobilise support for elite crusades. Other
@@ -492,11 +490,11 @@ No, far from it. Chomsky and Herman explicitly address this charge in
 **Manufacturing Consent** and explain why it is a false one:
 
 > _"Institutional critiques such as we present in this book are commonly
-dismissed by establishment commentators as 'conspiracy theories,' but this is
-merely an evasion. We do not use any kind of 'conspiracy' hypothesis to
-explain mass-media performance. In fact, our treatment is much closer to a
-'free market' analysis, with the results largely an outcome of the workings of
-market forces."_ [p. xii]
+> dismissed by establishment commentators as 'conspiracy theories,' but this
+> is merely an evasion. We do not use any kind of 'conspiracy' hypothesis to
+> explain mass-media performance. In fact, our treatment is much closer to a
+> 'free market' analysis, with the results largely an outcome of the workings
+> of market forces."_ [p. xii]
 
 They go on to suggest what some of these "market forces" are. One of the most
 important is the weeding-out process that determines who gets the journalistic
@@ -551,7 +549,8 @@ to a 'patriotic agenda,' in contrast, imposes no such costs."_ This means that
 _"conformity is the easy way, and the path to privilege and prestige . . . It
 is a natural expectation, on uncontroversial assumptions, that the major media
 and other ideological institutions will generally reflect the perspectives and
-interests of established power."_ [**Necessary Illusions**, pp. 8-9 and p. 10]
+interests of established power."_ [ **Necessary Illusions** , pp. 8-9 and p.
+10]
 
 ## D.3.7 Isn't the model contradicted by the media reporting government and
 business failures?
@@ -591,19 +590,19 @@ Therefore the "adversarial" nature of the media is a myth, but this is not to
 imply that the media does not present critical analysis. Herman and Chomsky in
 fact argue that the _"mass media are not a solid monolith on all issues."_ and
 do not deny that it does present facts (which they do sometimes themselves
-cite). This _"affords the opportunity for a classic **non sequitur**, in which
-the citations of facts from the mainstream press by a critic of the press is
-offered as a triumphant 'proof' that the criticism is self-refuting, and that
-media coverage of disputed issues is indeed adequate."_ But, as they argue,
-_"[t]hat the media provide some facts about an issue . . . proves absolutely
-nothing about the adequacy or accuracy of that coverage. The mass media do, in
-fact, literally suppress a great deal . . . But even more important in this
-context is the question given to a fact - its placement, tone, and
-repetitions, the framework within which it is presented, and the related facts
-that accompany it and give it meaning (or provide understanding) . . . there
-is no merit to the pretence that because certain facts may be found by a
-diligent and sceptical researcher, the absence of radical bias and de facto
-suppression is thereby demonstrated."_ [p. xii and pp xiv-xv]
+cite). This _"affords the opportunity for a classic **non sequitur** , in
+which the citations of facts from the mainstream press by a critic of the
+press is offered as a triumphant 'proof' that the criticism is self-refuting,
+and that media coverage of disputed issues is indeed adequate."_ But, as they
+argue, _"[t]hat the media provide some facts about an issue . . . proves
+absolutely nothing about the adequacy or accuracy of that coverage. The mass
+media do, in fact, literally suppress a great deal . . . But even more
+important in this context is the question given to a fact - its placement,
+tone, and repetitions, the framework within which it is presented, and the
+related facts that accompany it and give it meaning (or provide understanding)
+. . . there is no merit to the pretence that because certain facts may be
+found by a diligent and sceptical researcher, the absence of radical bias and
+de facto suppression is thereby demonstrated."_ [p. xii and pp xiv-xv]
 
 As they stress, the media in a democratic system is different from one in a
 dictatorship and so they _"do not function in the manner of the propaganda
@@ -634,10 +633,11 @@ essential is to set the bounds firmly. Controversy may rage as long as it
 adheres to the presuppositions that define the consensus of elites, and it
 should furthermore be encourages within these bounds, this helping to
 establish these doctrines as the very condition of thinkable thought while
-reinforcing the belief that freedom reigns."_ [**Necessary Illusions**, p. 48]
+reinforcing the belief that freedom reigns."_ [ **Necessary Illusions** , p.
+48]
 
 [‹ D.2 What influence does wealth have over politics?](secD2.md "Go to
-previous page" ) [up](secDcon.md "Go to parent page" ) [D.4 What is the
+previous page") [up](secDcon.md "Go to parent page") [D.4 What is the
 relationship between capitalism and the ecological crisis? ›](secD4.md "Go
-to next page" )
+to next page")
 

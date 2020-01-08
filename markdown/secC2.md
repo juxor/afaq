@@ -7,11 +7,11 @@ capitalism was marked by an _"economic relationship between the exploiter and
 exploited"_ as it meant the few have _"the power and right to live by
 exploiting the labour of someone else, the right to exploit the labour of
 those who possess neither property nor capital and who thus are forced to sell
-their productive power to the lucky owners of both."_ [**The Political
-Philosophy of Bakunin**, p. 183] This means that when a worker _"sells his
+their productive power to the lucky owners of both."_ [ **The Political
+Philosophy of Bakunin** , p. 183] This means that when a worker _"sells his
 labour to an employee . . . some part of the value of his produce will be
 unjustly taken by the employer."_ [Kropotkin, **Anarchism and Anarchist-
-Communism**, p. 52]
+Communism** , p. 52]
 
 At the root this criticism is based, ironically enough, on the **capitalist**
 defence of private property as the product of labour. As noted in [section
@@ -24,23 +24,23 @@ the employment contract denies workers the right to the (positive and
 negative) fruit of their labour. Yet people's right to the fruits of their
 labour has always been the natural basis for private property appropriation.
 Thus capitalist production, far from being founded on private property, in
-fact denies the natural basis for private property appropriation."_ [**The
-Democratic worker-owned firm**, p. 59] This was expressed by Proudhon in the
+fact denies the natural basis for private property appropriation."_ [ **The
+Democratic worker-owned firm** , p. 59] This was expressed by Proudhon in the
 following way:
 
-> _ "Whoever labours becomes a proprietor -- this is an inevitable deduction
-from the principles of political economy and jurisprudence. And when I say
-proprietor, I do not mean simply (as do our hypocritical economists)
-proprietor of his allowance, his salary, his wages, -- I mean proprietor of
-the value his creates, and by which the master alone profits . . . **The
-labourer retains, even after he has received his wages, a natural right in the
-thing he was produced.**"_ [**What is Property?**, pp. 123-4]
+> _"Whoever labours becomes a proprietor -- this is an inevitable deduction
+> from the principles of political economy and jurisprudence. And when I say
+> proprietor, I do not mean simply (as do our hypocritical economists)
+> proprietor of his allowance, his salary, his wages, -- I mean proprietor of
+> the value his creates, and by which the master alone profits . . . **The
+> labourer retains, even after he has received his wages, a natural right in
+> the thing he was produced.** "_ [ **What is Property?** , pp. 123-4]
 
 In other words, taking the moral justification for capitalism, anarchists
-argue that it fails to meet its own criteria (_"With me who, as a labourer,
+argue that it fails to meet its own criteria ( _"With me who, as a labourer,
 have a right to the possession of the products of Nature and my own industry
 -- and who, as a proletaire [wage labourer], enjoy none of them."_ [Proudhon,
-**Op. Cit.**, p. 65]). Whether this principle should be applied in a free
+**Op. Cit.** , p. 65]). Whether this principle should be applied in a free
 society is a moot point within anarchism. Individualist and mutualist
 anarchists argue it should be and, therefore, say that individual workers
 should receive the product of their toil (and so argue for distribution
@@ -48,8 +48,8 @@ according to deed). Communist-anarchists argue that _"social ownership and
 sharing according to need . . . would be the best and most just economic
 arrangement."_ This is for two reasons. Firstly, because _"in modern
 industry"_ there is _"no such thing"_ as an individual product as _"all labour
-and the products of labour are social."_ [Berkman, **What is Anarchism?**, pp.
-169-70] Secondly, in terms of simple justice need is not related to the
+and the products of labour are social."_ [Berkman, **What is Anarchism?** ,
+pp. 169-70] Secondly, in terms of simple justice need is not related to the
 ability to work and, of course, it would be wrong to penalise those who cannot
 work (i.e. the sick, the young and the old). Yet, while anarchists disagree
 over exactly how this should be most justly realised, they all agree that
@@ -76,23 +76,23 @@ property in individuals over which they have not produced,"_ for example _"the
 operatives in a manufactory create, by their labour and skill, the whole
 produce; yet, instead of it belonging to them, the law gives them only their
 stipulated hire [wages], and transfers the produce to someone who has merely
-supplied the funds, without perhaps contributing to the work itself."_
-[**Principles of Political Economy**, p. 25] With the rise of neoclassical
+supplied the funds, without perhaps contributing to the work itself."_ [
+**Principles of Political Economy** , p. 25] With the rise of neoclassical
 economics, the problem remained and so did need to justify capitalism
 continued to drive economics. J. B. Clark, for example, knew what was at stake
 and, like Mill, expressed it:
 
-> _ "When a workman leaves the mill, carrying his pay in his pocket, the civil
-law guarantees to him what he thus takes away; but before he leaves the mill
-he is the rightful owner of a part of the wealth that the day's industry has
-brought forth. Does the economic law which, in some way that he does not
-understand, determines what his pay shall be, make it to correspond with the
-amount of his portion of the day's product, or does it force him to leave some
-of his rightful share behind him? A plan of living that should force men to
-leave in their employer's hands anything that by right of creation is theirs,
-would be an institutional robbery -- a legally established violation of the
-principle on which property is supposed to rest."_ [**The Distribution of
-Wealth**, pp. 8-9]
+> _"When a workman leaves the mill, carrying his pay in his pocket, the civil
+> law guarantees to him what he thus takes away; but before he leaves the mill
+> he is the rightful owner of a part of the wealth that the day's industry has
+> brought forth. Does the economic law which, in some way that he does not
+> understand, determines what his pay shall be, make it to correspond with the
+> amount of his portion of the day's product, or does it force him to leave
+> some of his rightful share behind him? A plan of living that should force
+> men to leave in their employer's hands anything that by right of creation is
+> theirs, would be an institutional robbery -- a legally established violation
+> of the principle on which property is supposed to rest."_ [ **The
+> Distribution of Wealth** , pp. 8-9]
 
 Why should the owners of land, money and machinery get an income in the first
 place? Capitalist economics argues that everything involves a cost and, as
@@ -110,7 +110,7 @@ that it involves as much cost and sacrifice as labour. For Mill, labour
 _"cannot be carried on without materials and machinery . . . All these things
 are the fruits of previous production. If the labourers possessed of them,
 they would not need to divide the produce with any one; but while they have
-them not, an equivalent must be given to those who have."_ [**Op. Cit.**, p.
+them not, an equivalent must be given to those who have."_ [ **Op. Cit.** , p.
 25] This rationale for profits is called the "abstinence" or "waiting" theory.
 Clark, like Mill, expressed a defence of non-labour income in the face of
 socialist and anarchist criticism, namely the idea of marginal productivity to
@@ -119,7 +119,7 @@ the weaknesses of previous ones have been exposed and we will discuss some of
 them in subsequent sections.
 
 The ironic thing is that, well over 200 years after it came of age with Adam
-Smith's **Wealth of Nations**, economics has no agreed explanation for the
+Smith's **Wealth of Nations** , economics has no agreed explanation for the
 source of surplus value. As dissident economists Michele I. Naples and Nahid
 Aslanbeigui show, introductory economics texts provide _"no consistent, widely
 accepted theory"_ on the profit rate. Looking at the top three introductions
@@ -129,9 +129,9 @@ consistency is usually heralded as one of the hallmarks of neoclassical
 theory, _"the theory must be questioned."_ This _"failure . . . to provide a
 coherent theory of the rate of profit in the short run or long run"_ is
 damning, as the _"absence of a coherent explanation for the profit rate
-represents a fundamental failure for the neoclassical model."_ [_"What
+represents a fundamental failure for the neoclassical model."_ [ _"What
 **does** determine the profit rate? The neoclassical theories present in
-introductory textbooks,"_ pp. 53-71, **Cambridge Journal of Economics**, vol.
+introductory textbooks,"_ pp. 53-71, **Cambridge Journal of Economics** , vol.
 20, p. 53, p. 54, p. 69 and p. 70]
 
 As will become clear, anarchists consider defences of _"surplus value"_ to be
@@ -148,12 +148,12 @@ help conclude that it is due, primarily, to inequalities of wealth and,
 consequently, inequalities of power on the market. In other words, that
 Rousseau was right:
 
-> _ "The terms of social compact between these two estates of men may be
-summed up in a few words: 'You have need of me, because I am rich and you are
-poor. We will therefore come to an agreement. I will permit you to have the
-honour of serving me, on condition that you bestow on me that little you have
-left, in return for the pains I shall take to command you.'"_ [**The Social
-Contract and Discourses**, p. 162]
+> _"The terms of social compact between these two estates of men may be summed
+> up in a few words: 'You have need of me, because I am rich and you are poor.
+> We will therefore come to an agreement. I will permit you to have the honour
+> of serving me, on condition that you bestow on me that little you have left,
+> in return for the pains I shall take to command you.'"_ [ **The Social
+> Contract and Discourses** , p. 162]
 
 This is the analysis of exploitation we present in more detail in [section
 C.2.2](secC2.md#secc22). To summarise it, labour faces social inequality
@@ -178,7 +178,7 @@ defences of it, we need to be specific about what we mean by the term
 _**"surplus value."**_ To do this we must revisit the difference between
 possession and private property we discussed in [section B.3](secB3.md). For
 anarchists, private property (or capital) is _"the power to produce without
-labour."_ [Proudhon, **What is Property?**, p. 161] As such, surplus value is
+labour."_ [Proudhon, **What is Property?** , p. 161] As such, surplus value is
 created when the owners of property let others use them and receive an income
 from so doing. Therefore something only becomes capital, producing surplus
 value, under specific social relationships.
@@ -186,15 +186,15 @@ value, under specific social relationships.
 Surplus value is _"the difference between the value produced by the workers
 and the wages they receive"_ and is _"appropriated by the landlord and
 capitalist class . . . absorbed by the non-producing classes as profits,
-interest, rent, etc."_ [Charlotte Wilson, **Anarchist Essays**, pp. 46-7] It
+interest, rent, etc."_ [Charlotte Wilson, **Anarchist Essays** , pp. 46-7] It
 basically refers to any non-labour income (some anarchists, particularly
 individualist anarchists, have tended to call _"surplus value"_ usury). As
 Proudhon noted, it _"receives different names according to the thing by which
-it is yielded: if by land, **ground-rent**; if by houses and furniture,
-**rent**; if by life-investments, **revenue**; if by money, **interest**; if
-by exchange, **advantage**, **gain**, **profit** (three things which must not
-be confounded with the wages of legitimate price of labour)."_ [**Op. Cit.**,
-p. 159]
+it is yielded: if by land, **ground-rent** ; if by houses and furniture,
+**rent** ; if by life-investments, **revenue** ; if by money, **interest** ;
+if by exchange, **advantage** , **gain** , **profit** (three things which must
+not be confounded with the wages of legitimate price of labour)."_ [ **Op.
+Cit.** , p. 159]
 
 For simplicity, we will consider _"surplus value"_ to have three component
 parts: profits, interest and rent. All are based on payment for letting
@@ -213,18 +213,18 @@ organised. In a co-operative, for example, while there is a surplus over
 costs, _"there is no profit, only income to be divided among members. Without
 employees the labour-managed firm does not have a wage bill, and labour costs
 are not counted among the expenses to be extracted from profit, as they are in
-the capitalist firm."_ This means that the _"**economic category of profit
+the capitalist firm."_ This means that the _" **economic category of profit
 does not exist in the labour-managed firm,** as it does in the capitalist firm
 where wages are a cost to be subtracted from gross income before a residual
 profit is determined . . . Income shared among all producers is net income
 generated by the firm: the total of value added by human labour applied to the
 means of production, less payment of all costs of production and any reserves
 for depreciation of plant and equipment."_ [Christopher Eaton Gunn, **Workers'
-Self-Management in the United States**, p. 41 and p. 45] Gunn, it should be
-noted, follows both Proudhon and Marx in his analysis (_"Let us suppose the
+Self-Management in the United States** , p. 41 and p. 45] Gunn, it should be
+noted, follows both Proudhon and Marx in his analysis ( _"Let us suppose the
 workers are themselves in possession of their respective means of production
 and exchange their commodities with one another. These commodities would not
-be products of capital."_ [Marx, **Capital**, vol. 3, p. 276]).
+be products of capital."_ [Marx, **Capital** , vol. 3, p. 276]).
 
 In other words, by profits we mean income that flows to the owner of a
 workplace or land who hires others to do the work. As such returns to capital
@@ -232,11 +232,11 @@ are as unique to capitalism as unemployment is. This means that a farmer who
 works their own land receives a labour income when they sell the crop while
 one who hires labourers to work the land will receives a non-labour income,
 profit. Hence the difference between _**possession**_ and _**private
-property**_ (or _**capital**_) and anarchist opposition to _"capitalist
+property**_ (or _**capital**_ ) and anarchist opposition to _"capitalist
 property, that is, property which allows some to live by the work of others
 and which therefore presupposes a class of . . . people, obliged to sell their
 labour power to the property-owners for less than its value."_ [Malatesta,
-**Errico Malatesta: His Life and Ideas**, p. 102]
+**Errico Malatesta: His Life and Ideas** , p. 102]
 
 Another complication arises due to the fact that the owners of private
 property sometimes do work on them (i.e. be a boss) or hire others to do boss-
@@ -244,13 +244,13 @@ like work on their behalf (i.e. executives and other managerial staff). It
 could be argued that bosses and executives are also _"workers"_ and so
 contribute to the value of the commodities produced. However, this is not the
 case. Exploitation does not just happen, it needs to be organised and managed.
-In other words, exploitation requires labour (_"There is work and there is
+In other words, exploitation requires labour ( _"There is work and there is
 work,"_ as Bakunin noted, _"There is productive labour and there is the labour
-of exploitation."_ [**The Political Philosophy of Bakunin**, p. 180]). The key
-is that while a workplace would grind to a halt without workers, the workers
-could happily do without a boss by organising themselves into an association
-to manage their own work. As such, while bosses may work, they are not taking
-part in productive activity but rather exploitative activity.
+of exploitation."_ [ **The Political Philosophy of Bakunin** , p. 180]). The
+key is that while a workplace would grind to a halt without workers, the
+workers could happily do without a boss by organising themselves into an
+association to manage their own work. As such, while bosses may work, they are
+not taking part in productive activity but rather exploitative activity.
 
 Much the same can be said of executives and managers. Though they may not own
 the instruments of production, they are certainly buyers and controllers of
@@ -264,7 +264,7 @@ even if they can be fired, is no different from capitalists. Moreover,
 _"shareholders and managers/technocrats share common motives: to make profits
 and to reproduce hierarchy relations that exclude most of the employees from
 effective decision making"_ [Takis Fotopoulos, _"The Economic Foundations of
-an Ecological Society"_, pp. 1-40, **Society and Nature**, No.3, p. 16] In
+an Ecological Society"_ , pp. 1-40, **Society and Nature** , No.3, p. 16] In
 other words, the high pay of the higher levels of management is a share of
 profits **not** a labour income based on their contribution to production but
 rather due to their position in the economic hierarchy and the power that
@@ -276,7 +276,7 @@ _"administrative work . . . [is] monopolised . . . if I concentrate in my
 hands the administrative power, it is not because the interests of production
 demand it, but in order to serve my own ends, the ends of exploitation. As
 absolute boss of my establishment I get for my labours [many] . . . times more
-than my workers get for theirs."_ [**Op. Cit.**, p. 186] Given this, it is
+than my workers get for theirs."_ [ **Op. Cit.** , p. 186] Given this, it is
 irrelevant whether those in the hierarchy simply control (in the case of
 managers) or actually own the means of production. What counts is that those
 who do the actual work are excluded from the decision making process.
@@ -420,7 +420,7 @@ considerably"_ since 1945, _"the amount of work necessary to earn those
 incomes has risen with equal relentlessness . . . So, despite the fact that
 productivity overall is up more than threefold"_ over this time _"the average
 worker would have to toil six months longer to make the average family
-income."_ [**After the New Economy**, pp. 39-40] In other words, rising
+income."_ [ **After the New Economy** , pp. 39-40] In other words, rising
 exploitation **can** go hand in hand with rising wages.
 
 Finally, we must stress that we are critiquing economics mostly in its own
@@ -435,17 +435,18 @@ production (i.e. they are oppressed rather than exploited). As Bookchin put
 it:
 
 > _"To the modern mind, labour is viewed as a rarefied, abstract activity, a
-process extrinsic to human notions of genuine self-actualisation. One usually
-'goes to work' the way a condemned person 'goes' to a place of confinement:
-the workplace is little more than a penal institution in which mere existence
-must a penalty in the form of mindless labour . . . We 'measure' labour in
-hours, products, and efficiency, but rarely do we understand it as a concrete
-human activity. Aside from the earnings it generates, labour is normally alien
-to human fulfilment . . . [as] the rewards one acquires by submitting to a
-work discipline. By definition, these rewards are viewed as incentives for
-submission, rather than for the freedom that should accompany creativity and
-self-fulfilment. We commonly are 'paid' for supinely working on our knees, not
-for heroically standing in our feet."_ [**The Ecology of Freedom**, p. 308]
+> process extrinsic to human notions of genuine self-actualisation. One
+> usually 'goes to work' the way a condemned person 'goes' to a place of
+> confinement: the workplace is little more than a penal institution in which
+> mere existence must a penalty in the form of mindless labour . . . We
+> 'measure' labour in hours, products, and efficiency, but rarely do we
+> understand it as a concrete human activity. Aside from the earnings it
+> generates, labour is normally alien to human fulfilment . . . [as] the
+> rewards one acquires by submitting to a work discipline. By definition,
+> these rewards are viewed as incentives for submission, rather than for the
+> freedom that should accompany creativity and self-fulfilment. We commonly
+> are 'paid' for supinely working on our knees, not for heroically standing in
+> our feet."_ [ **The Ecology of Freedom** , p. 308]
 
 Almost all anarchists seek to change this, combat oppression and alienation as
 well as exploitation (some individualist anarchists are the exception on this
@@ -464,20 +465,21 @@ for you"_ (as if pieces of paper can actually do any form of work!) obviously
 this is not the case -- human beings have to do the actual work. As Kropotkin
 put it, _"if [the capitalist] locks [his money] up, it will not increase,
 because [it] does not grow like seed, and after a lapse of a twelve month he
-will not find £110 in his drawer if he only put £100 into it._ [**The Place of
-Anarchism in Socialistic Evolution**, p. 4] Capital only becomes productive in
-the labour process when workers use it:
+will not find £110 in his drawer if he only put £100 into it._ [ **The Place
+of Anarchism in Socialistic Evolution** , p. 4] Capital only becomes
+productive in the labour process when workers use it:
 
-> _ "Values created by net product are classed as savings and capitalised in
-the most highly exchangeable form, the form which is freest and least
-susceptible of depreciation, -- in a word, the form of specie, the only
-constituted value. Now, if capital leaves this state of freedom and **engages
-itself**, -- that is, takes the form of machines, buildings, etc., -- it will
-still be susceptible of exchange, but much more exposed than before to the
-oscillations of supply and demand. Once engaged, it cannot be **disengaged**
-without difficulty; and the sole resource of its owner will be exploitation.
-Exploitation alone is capable of maintaining engaged capital at its nominal
-value."_ [**System of Economical Contradictions**, p. 291]
+> _"Values created by net product are classed as savings and capitalised in
+> the most highly exchangeable form, the form which is freest and least
+> susceptible of depreciation, -- in a word, the form of specie, the only
+> constituted value. Now, if capital leaves this state of freedom and
+> **engages itself** , -- that is, takes the form of machines, buildings,
+> etc., -- it will still be susceptible of exchange, but much more exposed
+> than before to the oscillations of supply and demand. Once engaged, it
+> cannot be **disengaged** without difficulty; and the sole resource of its
+> owner will be exploitation. Exploitation alone is capable of maintaining
+> engaged capital at its nominal value."_ [ **System of Economical
+> Contradictions** , p. 291]
 
 Under capitalism, workers not only create sufficient value (i.e. produced
 commodities) to maintain existing capital and their own existence, they also
@@ -485,12 +487,13 @@ produce a surplus. This surplus expresses itself as a surplus of goods and
 services, i.e. an excess of commodities compared to the number a workers'
 wages could buy back. The wealth of the capitalists, in other words, is due to
 them _"accumulating the product of the labour of others."_ [Kropotkin, **Op.
-Cit.**, p. 3] Thus Proudhon:
+Cit.** , p. 3] Thus Proudhon:
 
-> _ "The working man cannot . . . repurchase that which he has produced for
-his master. It is thus with all trades whatsoever. . . since, producing for a
-master who in one form or another makes a profit, they are obliged to pay more
-for their own labour than they get for it."_ [**What is Property**, p. 189]
+> _"The working man cannot . . . repurchase that which he has produced for his
+> master. It is thus with all trades whatsoever. . . since, producing for a
+> master who in one form or another makes a profit, they are obliged to pay
+> more for their own labour than they get for it."_ [ **What is Property** ,
+> p. 189]
 
 In other words, the price of all produced goods is greater than the money
 value represented by the workers' wages (plus raw materials and overheads such
@@ -500,29 +503,29 @@ realised on the market (in practice, of course, the value represented by these
 surplus-products is distributed throughout all the commodities produced in the
 form of profit -- the difference between the cost price and the market price).
 In summary, surplus value is unpaid labour and hence capitalism is based on
-exploitation. As Proudhon noted, _"**Products,** say economists, **are only
+exploitation. As Proudhon noted, _" **Products,** say economists, **are only
 bought by products**. This maxim is property's condemnation. The proprietor
 producing neither by his own labour nor by his implement, and receiving
-products in exchange for nothing, is either a parasite or a thief."_ [**Op.
-Cit.**, p. 170]
+products in exchange for nothing, is either a parasite or a thief."_ [ **Op.
+Cit.** , p. 170]
 
 It is this appropriation of wealth from the worker by the owner which
 differentiates capitalism from the simple commodity production of artisan and
 peasant economies. All anarchists agree with Bakunin when he stated that:
 
-> _ "**what is property, what is capital in their present form?** For the
-capitalist and the property owner they mean the power and the right,
-guaranteed by the State, to live without working . . . [and so] the power and
-right to live by exploiting the work of someone else . . . those . . . [who
-are] forced to sell their productive power to the lucky owners of both."_
-[**The Political Philosophy of Bakunin**, p. 180]
+> _" **what is property, what is capital in their present form?** For the
+> capitalist and the property owner they mean the power and the right,
+> guaranteed by the State, to live without working . . . [and so] the power
+> and right to live by exploiting the work of someone else . . . those . . .
+> [who are] forced to sell their productive power to the lucky owners of
+> both."_ [ **The Political Philosophy of Bakunin** , p. 180]
 
 It is the nature of capitalism for the monopolisation of the worker's product
 by others to exist. This is because of private property in the means of
 production and so in _"consequence of [which] . . . [the] worker, when he is
 able to work, finds no acre to till, no machine to set in motion, unless he
 agrees to sell his labour for a sum inferior to its real value."_ [Peter
-Kropotkin, **Anarchism**, p. 55]
+Kropotkin, **Anarchism** , p. 55]
 
 Therefore workers have to sell their labour on the market. However, as this
 "commodity" _"cannot be separated from the person of the worker like pieces of
@@ -538,19 +541,19 @@ obedience between employer and worker."_ So, _"the contract in which the
 worker allegedly sells his labour power is a contract in which, since he
 cannot be separated from his capacities, he sells command over the use of his
 body and himself. . . The characteristics of this condition are captured in
-the term **wage slave.**"_ [Carole Pateman, **The Sexual Contract**, pp.
+the term **wage slave.** "_ [Carole Pateman, **The Sexual Contract** , pp.
 150-1]
 
 Or, to use Bakunin's words, _"the worker sells his person and his liberty for
 a given time"_ and so _"concluded for a term only and reserving to the worker
 the right to quit his employer, this contract constitutes a sort of
-**voluntary** and **transitory** serfdom."_ [**The Political Philosophy of
-Bakunin**, p. 187] This domination is the source of the surplus, for _"wage
+**voluntary** and **transitory** serfdom."_ [ **The Political Philosophy of
+Bakunin** , p. 187] This domination is the source of the surplus, for _"wage
 slavery is not a consequence of exploitation -- exploitation is a consequence
 of the fact that the sale of labour power entails the worker's subordination.
 The employment contract creates the capitalist as master; he has the political
 right to determine how the labour of the worker will be used, and --
-consequently -- can engage in exploitation."_ [Pateman, **Op. Cit.**, p. 149]
+consequently -- can engage in exploitation."_ [Pateman, **Op. Cit.** , p. 149]
 
 So profits exist because the worker sells themselves to the capitalist, who
 then owns their activity and, therefore, controls them (or, more accurately,
@@ -562,7 +565,7 @@ that the horse. . . is rightly entitled to the surplus value which he creates
 for his owner. So he will be when he has the sense to claim and the power to
 take it. . . Th[is] argument . . is based upon the assumption that certain men
 are born owned by other men, just as horses are. Thus its **reductio ad
-absurdum** turns upon itself."_ [**Instead of a Book**, pp. 495-6] In other
+absurdum** turns upon itself."_ [ **Instead of a Book** , pp. 495-6] In other
 words, to argue that capital should be rewarded is to implicitly assume that
 workers are just like machinery, another "factor of production" rather than
 human beings and the creator of things of value. So profits exists because
@@ -570,16 +573,16 @@ during the working day the capitalist controls the activity and output of the
 worker (i.e. owns them during working hours as activity cannot be separated
 from the body and _"[t]here is an integral relationship between the body and
 self. The body and self are not identical, but selves are inseparable from
-bodies."_ [Carole Pateman, **Op. Cit.**, p. 206]).
+bodies."_ [Carole Pateman, **Op. Cit.** , p. 206]).
 
 Considered purely in terms of output, this results in, as Proudhon noted,
 workers working _"for an entrepreneur who pays them and keeps their
-products."_ [quoted by Martin Buber, **Paths in Utopia**, p. 29] The ability
+products."_ [quoted by Martin Buber, **Paths in Utopia** , p. 29] The ability
 of capitalists to maintain this kind of monopolisation of another's time and
 output is enshrined in _"property rights"_ enforced by either public or
 private states. In short, therefore, property _"is the right to enjoy and
 dispose at will of another's goods - the fruit of an other's industry and
-labour."_ [P-J Proudhon, **What is Property**, p. 171] And because of this
+labour."_ [P-J Proudhon, **What is Property** , p. 171] And because of this
 "right," a worker's wage will always be less than the wealth that he or she
 produces.
 
@@ -614,26 +617,24 @@ Introducing new machinery, for example, increases surplus-value by reducing
 the amount of work required per unit of output. In the words of economist
 William Lazonick:
 
-> _ "As a general rule, all market prices, including wages, are given to the
-particular capitalist. Moreover, in a competitive world a particular
-capitalist cannot retain privileged access to process or product innovations
-for any appreciable period of time. But the capitalist does have privileged
-access to, and control over, the workers that he employs. Precisely because
-the work is not perfectly mobile but is dependent on the capitalist to gain a
-living, the capitalist is not subject to the dictates of market forces in
-dealing with the worker in the production process. The more dependent the
-worker is on his or her particular employer, the more power the capitalist has
-to demand longer and harder work in return for a day's pay. The resultant
-unremunerated increase in the productivity of the worker per unit of time is
-the source of surplus-value.  
+> _"As a general rule, all market prices, including wages, are given to the
+> particular capitalist. Moreover, in a competitive world a particular
+> capitalist cannot retain privileged access to process or product innovations
+> for any appreciable period of time. But the capitalist does have privileged
+> access to, and control over, the workers that he employs. Precisely because
+> the work is not perfectly mobile but is dependent on the capitalist to gain
+> a living, the capitalist is not subject to the dictates of market forces in
+> dealing with the worker in the production process. The more dependent the
+> worker is on his or her particular employer, the more power the capitalist
+> has to demand longer and harder work in return for a day's pay. The
+> resultant unremunerated increase in the productivity of the worker per unit
+> of time is the source of surplus-value.  
 >  _
-
 >
-
 > _"The measure of surplus-value is the difference between the value-added by
-and the value paid to the worker. As owner of the means of production, the
-industrial capitalist has a legal right to keep the surplus-value for
-himself."_ [**Competitive Advantage on the Shop Floor**, p. 54]
+> and the value paid to the worker. As owner of the means of production, the
+> industrial capitalist has a legal right to keep the surplus-value for
+> himself."_ [ **Competitive Advantage on the Shop Floor** , p. 54]
 
 Such surplus indicates that labour, like any other commodity, has a use value
 and an exchange value. Labour's exchange value is a worker's wages, its use
@@ -667,16 +668,17 @@ It should be noted that few economists deny that the "value added" by workers
 in production must exceed the wages paid. It has to, if a profit is to be
 made. As Adam Smith put it:
 
-> _ "As soon as stock has accumulated in the hands of particular persons, some
-of them will naturally employ it in setting to work industrious people, whom
-they will supply with materials and subsistence, in order to make a profit by
-the sale of their work, or by what their labour adds to the value of the
-materials . . . The value which the workmen add to the materials, therefore,
-resolves itself in this case into two parts, of which one pays their wages,
-the other the profits of their employer upon the whole stock of materials and
-wages which he advanced. He could have no interest to employ them, unless he
-expected from the sale of their work something more than what was sufficient
-to replace his stock to him."_ [**The Wealth of Nations**, p. 42]
+> _"As soon as stock has accumulated in the hands of particular persons, some
+> of them will naturally employ it in setting to work industrious people, whom
+> they will supply with materials and subsistence, in order to make a profit
+> by the sale of their work, or by what their labour adds to the value of the
+> materials . . . The value which the workmen add to the materials, therefore,
+> resolves itself in this case into two parts, of which one pays their wages,
+> the other the profits of their employer upon the whole stock of materials
+> and wages which he advanced. He could have no interest to employ them,
+> unless he expected from the sale of their work something more than what was
+> sufficient to replace his stock to him."_ [ **The Wealth of Nations** , p.
+> 42]
 
 That surplus value consists of unpaid labour is a simple fact. The difference
 is that non-socialist economists refuse to explain this in terms of
@@ -702,15 +704,15 @@ No, it does not. To understand why, we must first explain the logic behind
 this claim. It is rooted in what is termed "marginal productivity" theory. In
 the words of one of its developers:
 
-> _ "If each productive function is paid for according to the amount of its
-product, then each man get what he himself produces. If he works, he gets what
-he creates by working; if he provides capital, he gets what his capital
-produces; and if, further, he renders service by co-ordinating labour and
-capital, he gets the product that can be separately traced to that function.
-Only in one of these ways can a man produce anything. If he receives all that
-he brings into existence through any one of these three functions, he receives
-all that he creates at all."_ [John Bates Clark, **The Distribution of
-Wealth**, p.7]
+> _"If each productive function is paid for according to the amount of its
+> product, then each man get what he himself produces. If he works, he gets
+> what he creates by working; if he provides capital, he gets what his capital
+> produces; and if, further, he renders service by co-ordinating labour and
+> capital, he gets the product that can be separately traced to that function.
+> Only in one of these ways can a man produce anything. If he receives all
+> that he brings into existence through any one of these three functions, he
+> receives all that he creates at all."_ [John Bates Clark, **The Distribution
+> of Wealth** , p.7]
 
 Needless to say, this analysis was based on the need to justify the existing
 system, for it was _"the purpose of this work to show that the distribution of
@@ -718,16 +720,17 @@ income to society is controlled by a natural law, and that this law, if it
 worked without friction, would give to every agent of production the amount of
 wealth which that agent creates."_ In other words, _"what a social class gets
 is, under natural law, what it contributes to the general output of
-industry."_ [Clark, **Op. Cit.**, p. v and p. 313] And only mad people can
+industry."_ [Clark, **Op. Cit.** , p. v and p. 313] And only mad people can
 reject a _"natural law"_ like gravity -- or capitalism!
 
 Most schools of capitalist economics, when they bother to try and justify non-
 labour income, hold to this theory of productivity. Unsurprisingly, as it
 proves what right-wing economist Milton Friedman called the _"capitalist
-ethic"_: _"To each according to what he and the instruments he owns
-produces."_ [**Capitalism and Freedom**, pp. 161-162] As such, this is one of
-the key defences of capitalism, based as it is on the productive contribution
-of each factor (labour, land and capital). Anarchists as unconvinced.
+ethic"_ : _"To each according to what he and the instruments he owns
+produces."_ [ **Capitalism and Freedom** , pp. 161-162] As such, this is one
+of the key defences of capitalism, based as it is on the productive
+contribution of each factor (labour, land and capital). Anarchists as
+unconvinced.
 
 Unsurprisingly, this theory took some time to develop given the theoretical
 difficulties involved. After all, you need all three factors to produce a
@@ -805,7 +808,7 @@ notes, _"we have derived both the contribution of labour and the contribution
 of land from purely technical considerations. We have made no assumptions
 about ownership, competition, or any other social or political relationship.
 No covert assumptions about capitalism have been smuggled into the analysis."_
-[**After Capitalism**, p. 29]
+[ **After Capitalism** , p. 29]
 
 Surely this means that economics has produced a defence of non-labour income?
 Not so, as it ignores the key issue of what represents a valid contribution.
@@ -816,37 +819,37 @@ they would receive the entire product, all one hundred bushels, instead of
 sixty. Is this unfair? To whom should the other forty bushels go? To the land,
 for its 'contribution'? Should the collective perhaps burn forty bushels as an
 offering to the Land-God? (Is the Land-Lord the representative on Earth of
-this Land-God?)."_ [**Op. Cit.**, p. 30] It should be noted that Schweickart
+this Land-God?)."_ [ **Op. Cit.** , p. 30] It should be noted that Schweickart
 is echoing the words of Proudhon:
 
-> _ "How much does the proprietor increase the utility of his tenant's
-products? Has he ploughed, sowed, reaped, mowed, winnowed, weeded? . . . I
-admit that the land is an implement; but who made it? Did the proprietor? Did
-he -- by the efficacious virtue of the right of property, by this **moral
-quality** infused into the soil -- endow it with vigour and fertility? Exactly
-there lies the monopoly of the proprietor, though he did not make the
-implement, he asks pay for its use. When the Creator shall present himself and
-claim farm-rent, we will consider the matter with him; or even when the
-proprietor -- his pretended representative -- shall exhibit his power of
-attorney."_ [**What is Property?**, pp. 166-7]
+> _"How much does the proprietor increase the utility of his tenant's
+> products? Has he ploughed, sowed, reaped, mowed, winnowed, weeded? . . . I
+> admit that the land is an implement; but who made it? Did the proprietor?
+> Did he -- by the efficacious virtue of the right of property, by this
+> **moral quality** infused into the soil -- endow it with vigour and
+> fertility? Exactly there lies the monopoly of the proprietor, though he did
+> not make the implement, he asks pay for its use. When the Creator shall
+> present himself and claim farm-rent, we will consider the matter with him;
+> or even when the proprietor -- his pretended representative -- shall exhibit
+> his power of attorney."_ [ **What is Property?** , pp. 166-7]
 
 In other words, granting permission cannot be considered as a "contribution"
 or a "productive" act:
 
-> _ "We can see that a moral sleight-of-hand has been performed. A technical
-demonstration has passed itself off as a moral argument by its choice of
-terminology, namely, by calling a marginal product a 'contribution.' The
-'contribution = ethical entitlement' of the landowner has been identified with
-the 'contribution = marginal product' of the land . . . What is the nature of
-the landowner's 'contribution' here? We can say that the landlord
-**contributed the land** to the workers, but notice the qualitative difference
-between his 'contribution' and the contribution of his workforce. He
-'contributes' his land -- but the land remains intact and remains his at the
-end of the harvest, whereas the labour contributed by each labourer is gone.
-If the labourers do not expend **more** labour next harvest, they will get
-nothing more, whereas the landowner can continue to 'contribute' year after
-year (lifting not a finger), and be rewarded year after year for doing so."_
-[Schweickart, **Op. Cit.**, p. 30]
+> _"We can see that a moral sleight-of-hand has been performed. A technical
+> demonstration has passed itself off as a moral argument by its choice of
+> terminology, namely, by calling a marginal product a 'contribution.' The
+> 'contribution = ethical entitlement' of the landowner has been identified
+> with the 'contribution = marginal product' of the land . . . What is the
+> nature of the landowner's 'contribution' here? We can say that the landlord
+> **contributed the land** to the workers, but notice the qualitative
+> difference between his 'contribution' and the contribution of his workforce.
+> He 'contributes' his land -- but the land remains intact and remains his at
+> the end of the harvest, whereas the labour contributed by each labourer is
+> gone. If the labourers do not expend **more** labour next harvest, they will
+> get nothing more, whereas the landowner can continue to 'contribute' year
+> after year (lifting not a finger), and be rewarded year after year for doing
+> so."_ [Schweickart, **Op. Cit.** , p. 30]
 
 As the examples of the capitalist and co-operative farms shows, the
 "contribution" of land and capital can be rewarded without their owners doing
@@ -865,23 +868,23 @@ telling them what to do and keeping the product of their labour.
 
 As Proudhon put it, _"[w]ho is entitled to the rent of the land? The producer
 of the land, without doubt. Who made the land? God. Then, proprietor,
-retire!"_ [**Op. Cit.**, p. 104] Much the same can be said of "capital"
+retire!"_ [ **Op. Cit.** , p. 104] Much the same can be said of "capital"
 (workplaces, machinery, etc.) as well. The capitalist, argued Berkman, _"gives
 you a job; that is permission to work in the factory or mill which was not
 built by him but by other workers like yourself. And for that permission you
 help to support him for the rest of your life or as long as you work for
-him."_ [**What is Anarchism?**, p. 14]
+him."_ [ **What is Anarchism?** , p. 14]
 
 So non-labour income exists **not** because of the owners of capital and land
 "contribute" to production but because they, as a class, **own** the means of
 life and workers have to sell their labour and liberty to them to gain access:
 
-> _ "We cry shame on the feudal baron who forbade the peasant to turn a clod
-of earth unless he surrendered to his lord a fourth of his crop. We called
-those the barbarous times, But if the forms have changed, the relations have
-remained the same, and the worker is forced, under the name of free contract,
-to accept feudal obligations."_ [Kropotkin, **The Conquest of Bread**, pp.
-31-2]
+> _"We cry shame on the feudal baron who forbade the peasant to turn a clod of
+> earth unless he surrendered to his lord a fourth of his crop. We called
+> those the barbarous times, But if the forms have changed, the relations have
+> remained the same, and the worker is forced, under the name of free
+> contract, to accept feudal obligations."_ [Kropotkin, **The Conquest of
+> Bread** , pp. 31-2]
 
 It is capitalist property relations that allow this monopolisation of wealth
 by those who own (or boss) but do not produce. The workers do not get the full
@@ -931,7 +934,7 @@ nothing more than 'allowing it to be used.' But an act of granting permission,
 in and of itself, is not a productive activity. If labourers cease to labour,
 production ceases in any society. But if owners cease to grant permission,
 production is affected only if their **authority** over the means of
-production is respected."_ [**Against Capitalism**, p. 11]
+production is respected."_ [ **Against Capitalism** , p. 11]
 
 This authority, as discussed earlier, derives from the coercive mechanisms of
 the state, whose primary purpose is to ensure that capitalists have this
@@ -962,8 +965,8 @@ likewise unproductive. . . The proprietor who asks to be rewarded for the use
 of a tool or for the productive power of his land, takes for granted, then,
 that which is radically false; namely, that capital produces by its own effort
 -- and, in taking pay for this imaginary product, he literally receives
-something for nothing."_ [**What is Property?**, p. 169] In other words, only
-labour is productive and profit is not the reward for the productivity of
+something for nothing."_ [ **What is Property?** , p. 169] In other words,
+only labour is productive and profit is not the reward for the productivity of
 capital.
 
 Needless to say, capitalist economists disagree. _"Here again the philosophy
@@ -972,7 +975,7 @@ was productive, and they have changed a metaphor into a reality,"_ argued
 Proudhon. The socialists had _"no difficulty in overturning their sophistry;
 and through this controversy the theory of capital has fallen into such
 disfavour that today, in the minds of the people, **capitalist** and **idler**
-are synonymous terms."_ [**System of Economical Contradictions**, p. 290]
+are synonymous terms."_ [ **System of Economical Contradictions** , p. 290]
 
 Sadly, since Proudhon's time, the metaphor has become regained its hold,
 thanks in part to neo-classical economics and the "marginal productivity"
@@ -984,12 +987,12 @@ permission for others to use their property. However, the notion that profits
 represent that "productivity" of capital is deeply flawed for other reasons.
 The key one is that, by themselves, capital and land produce nothing. As
 Bakunin put it, _"neither property nor capital produces anything when not
-fertilised by labour."_ [**The Political Philosophy of Bakunin**, p. 183]
+fertilised by labour."_ [ **The Political Philosophy of Bakunin** , p. 183]
 
 In other words, capital is "productive" simply because people use it. This is
 hardly a surprising conclusion. Mainstream economics recognises it in its own
 way (the standard economic terminology for this is that _"factors usually do
-not work alone"_). Needless to say, the conclusions anarchists and defenders
+not work alone"_ ). Needless to say, the conclusions anarchists and defenders
 of capitalism draw from this obvious fact are radically different.
 
 The standard defence of class inequalities under capitalism is that people get
@@ -1027,39 +1030,37 @@ contribution of capital equals the amount the tenth spade added. Yet the only
 reason that spade added anything to production was because there was a worker
 to use it. In other words, as economist David Ellerman stresses, the _"point
 is that capital itself does not 'produce' at all; capital is used by Labour to
-produce the outputs . . . Labour produces the marginal product **of
-capital.**"_ [**Property and Contract in Economics**, p. 204] As such, to talk
-of the "marginal product" of capital is meaningless as holding labour constant
-is meaningless:
+produce the outputs . . . Labour produces the marginal product **of capital.**
+"_ [ **Property and Contract in Economics** , p. 204] As such, to talk of the
+"marginal product" of capital is meaningless as holding labour constant is
+meaningless:
 
-> _ "Consider, for example, the 'marginal product of a shovel' in a simple
-production process wherein three workers use two shovels and a wheelbarrow to
-dig out a cellar. Two of the workers use two shovels to fill the wheelbarrow
-which the third worker pushes a certain distance to dump the dirt. The
-marginal productivity of a shovel is defined as the extra product produced
-when an extra shovel is added and the other factors, such as labour, are held
-constant. The labour is the human activity of carrying out this production
-process. If labour was held 'constant' is the sense of carrying out the same
-human activity, then any third shovel would just lie unused and the extra
-product would be identically zero.  
+> _"Consider, for example, the 'marginal product of a shovel' in a simple
+> production process wherein three workers use two shovels and a wheelbarrow
+> to dig out a cellar. Two of the workers use two shovels to fill the
+> wheelbarrow which the third worker pushes a certain distance to dump the
+> dirt. The marginal productivity of a shovel is defined as the extra product
+> produced when an extra shovel is added and the other factors, such as
+> labour, are held constant. The labour is the human activity of carrying out
+> this production process. If labour was held 'constant' is the sense of
+> carrying out the same human activity, then any third shovel would just lie
+> unused and the extra product would be identically zero.  
 >  _
-
 >
-
 > _"'Holding labour constant' really means reorganising the human activity in
-a more capital intensive way so that the extra shovel will be optimally
-utilised. For instance, all three workers could use the three shovels to fill
-the wheelbarrow and then they could take turns emptying the wheelbarrow. In
-this manner, the workers would use the extra shovel and by so doing they would
-produce some extra product (additional earth moved during the same time
-period). This extra product would be called the 'marginal product of the
-shovel, but in fact it is produced by the workers who are also using the
-additional shovel . . . [Capital] does not 'produce' its marginal product.
-Capital does not 'produce' at all. Capital is used by Labour to produce the
-output. When capital is increased, Labour produces extra output by using up
-the extra capital . . . In short, **Labour produced the marginal product of
-capital** (and used up the extra capital services)."_ [**Op. Cit.**, pp.
-207-9]
+> a more capital intensive way so that the extra shovel will be optimally
+> utilised. For instance, all three workers could use the three shovels to
+> fill the wheelbarrow and then they could take turns emptying the
+> wheelbarrow. In this manner, the workers would use the extra shovel and by
+> so doing they would produce some extra product (additional earth moved
+> during the same time period). This extra product would be called the
+> 'marginal product of the shovel, but in fact it is produced by the workers
+> who are also using the additional shovel . . . [Capital] does not 'produce'
+> its marginal product. Capital does not 'produce' at all. Capital is used by
+> Labour to produce the output. When capital is increased, Labour produces
+> extra output by using up the extra capital . . . In short, **Labour produced
+> the marginal product of capital** (and used up the extra capital
+> services)."_ [ **Op. Cit.** , pp. 207-9]
 
 Therefore, the idea that profits equals the marginal productivity of capital
 is hard to believe. Capital, in this perspective, is not only a tree which
@@ -1079,17 +1080,17 @@ necessary to keep something else constant. This means either the physical
 inputs other than labour are kept constant, or the rate of profit on capital
 is kept constant. As economist Joan Robinson noted:
 
-> _ "I found this satisfactory, for it destroys the doctrine that wages are
-regulated by marginal productivity. In a short-period case, where equipment is
-given, at full-capacity operation the marginal physical product of labour is
-indeterminate. When nine men with nine spades are digging a hole, to add a
-tenth man could increase output only to the extent that nine dig better if
-they have a rest from time to time. On the other hand, to subtract the ninth
-man would reduce output by more or less the average amount. The wage must lie
-somewhere between the average value of output per head and zero, so that
-marginal product is greater or much less than the wage according as equipment
-is being worked below or above its designed capacity."_ [**Contributions to
-Modern Economics**, p. 104]
+> _"I found this satisfactory, for it destroys the doctrine that wages are
+> regulated by marginal productivity. In a short-period case, where equipment
+> is given, at full-capacity operation the marginal physical product of labour
+> is indeterminate. When nine men with nine spades are digging a hole, to add
+> a tenth man could increase output only to the extent that nine dig better if
+> they have a rest from time to time. On the other hand, to subtract the ninth
+> man would reduce output by more or less the average amount. The wage must
+> lie somewhere between the average value of output per head and zero, so that
+> marginal product is greater or much less than the wage according as
+> equipment is being worked below or above its designed capacity."_ [
+> **Contributions to Modern Economics** , p. 104]
 
 If wages are not regulated by marginal productivity theory, then neither is
 capital (or land). Subtracting labour while keeping capital constant simply
@@ -1100,26 +1101,24 @@ in [section C.3](secC3.md)). As William Lazonick notes, the neo-classical
 theory of marginal productivity has two key problems which flow from its
 flawed metaphor that capital is "productive":
 
-> _ "The first flaw is the assumption that, at any point in time, the
-productivity of a technology is given to the firm, irrespective of the social
-context in which the firm attempts to utilise the technology . . . this
-assumption, typically implicit in mainstream economic analysis and [is]
-derived from an ignorance of the nature of the production process as much as
-everything else . . ."  
+> _"The first flaw is the assumption that, at any point in time, the
+> productivity of a technology is given to the firm, irrespective of the
+> social context in which the firm attempts to utilise the technology . . .
+> this assumption, typically implicit in mainstream economic analysis and [is]
+> derived from an ignorance of the nature of the production process as much as
+> everything else . . ."  
 >  _
-
 >
-
 > _"The second flaw in the neo-classical theoretical structure is the
-assumption that factor prices are independent of factor productivities. On the
-basis of this assumption, factor productivities arising from different
-combinations of capital and labour can be taken as given to the firm; hence
-the choice of technique depends only on variations in relative factor prices.
-It is, however, increasingly recognised by economists who speak of 'efficiency
-wages' that factor prices and factor productivities may be linked,
-particularly for labour inputs . . . the productivity of a technology depends
-on the amount of effort that workers choose to supply."_ [**Competitive
-Advantage on the Shop Floor**, p. 130 and pp. 133-4]
+> assumption that factor prices are independent of factor productivities. On
+> the basis of this assumption, factor productivities arising from different
+> combinations of capital and labour can be taken as given to the firm; hence
+> the choice of technique depends only on variations in relative factor
+> prices. It is, however, increasingly recognised by economists who speak of
+> 'efficiency wages' that factor prices and factor productivities may be
+> linked, particularly for labour inputs . . . the productivity of a
+> technology depends on the amount of effort that workers choose to supply."_
+> [ **Competitive Advantage on the Shop Floor** , p. 130 and pp. 133-4]
 
 In other words, neo-classical economics forgets that technology has to be used
 by workers and so its "productivity" depends on how it is applied. If profit
@@ -1130,14 +1129,14 @@ excess of what they pay in wages. This means the idea (so beloved by pro-
 capitalist economics) that a worker's wage **is** the equivalent of what she
 produces is one violated everyday within reality:
 
-> _ "Managers of a capitalist enterprise are not content simply to respond to
-the dictates of the market by equating the wage to the value of the marginal
-product of labour. Once the worker has entered the production process, the
-forces of the market have, for a time at least, been superseded. The effort-
-pay relation will depend not only on market relations of exchange but also. .
-. on the hierarchical relations of production -- on the relative power of
-managers and workers within the enterprise."_ [William Lazonick, **Business
-Organisation and the Myth of the Market Economy**, pp. 184-5]
+> _"Managers of a capitalist enterprise are not content simply to respond to
+> the dictates of the market by equating the wage to the value of the marginal
+> product of labour. Once the worker has entered the production process, the
+> forces of the market have, for a time at least, been superseded. The effort-
+> pay relation will depend not only on market relations of exchange but also.
+> . . on the hierarchical relations of production -- on the relative power of
+> managers and workers within the enterprise."_ [William Lazonick, **Business
+> Organisation and the Myth of the Market Economy** , pp. 184-5]
 
 But, then again, capitalist economics is more concerned with justifying the
 status quo than being in touch with the real world. To claim that a workers
@@ -1173,7 +1172,7 @@ tools, and machinery are likewise unproductive . . . The proprietor who asks
 to be rewarded for the use of a tool or for the productive power of his land,
 takes for granted, then, that which is radically false; namely, that capital
 produces by its own effort - and, in taking pay for this imaginary product, he
-literally receives something for nothing."_ [**What is Property?**, p. 169]
+literally receives something for nothing."_ [ **What is Property?** , p. 169]
 
 It will be objected that while capital is not productive in itself, its use
 does make labour more productive. As such, surely its owner is entitled to
@@ -1187,19 +1186,17 @@ commodity production. This is because capitalists, unlike workers, get paid
 multiple times for one piece of work (which, in all likelihood, they paid
 others to do) and **keep** the result of that labour. As Proudhon argued:
 
-> _ "He [the worker] who manufactures or repairs the farmer's tools receives
-the price **once**, either at the time of delivery, or in several payments;
-and when this price is once paid to the manufacturer, the tools which he has
-delivered belong to him no more. Never can he claim double payment for the
-same tool, or the same job of repairs. If he annually shares in the products
-of the farmer, it is owing to the fact that he annually does something for the
-farmer.  
+> _"He [the worker] who manufactures or repairs the farmer's tools receives
+> the price **once** , either at the time of delivery, or in several payments;
+> and when this price is once paid to the manufacturer, the tools which he has
+> delivered belong to him no more. Never can he claim double payment for the
+> same tool, or the same job of repairs. If he annually shares in the products
+> of the farmer, it is owing to the fact that he annually does something for
+> the farmer.  
 >  _
-
 >
-
 > _"The proprietor, on the contrary, does not yield his implement; eternally
-he is paid for it, eternally he keeps it."_ [**Op. Cit.**, pp. 169-170]
+> he is paid for it, eternally he keeps it."_ [ **Op. Cit.** , pp. 169-170]
 
 While the capitalist, in general, gets their investment back plus something
 extra, the workers can never get their time back. That time has gone, forever,
@@ -1223,8 +1220,8 @@ process. Without labour, nothing can be produced nor the value contained in
 fixed capital transferred to goods. As Charles A. Dana pointed out in his
 popular introduction to Proudhon's ideas, _"[t]he labourer without capital
 would soon supply his wants by its production . . . but capital with no
-labourers to consume it can only lie useless and rot."_ [**Proudhon and his
-"Bank of the People"**, p. 31] If workers do not control the full value of
+labourers to consume it can only lie useless and rot."_ [ **Proudhon and his
+"Bank of the People"** , p. 31] If workers do not control the full value of
 their contributions to the output they produce then they are exploited and so,
 as indicated, capitalism is based upon exploitation.
 
@@ -1234,26 +1231,26 @@ simply accept a "reward" of damages. This is due to the hierarchical
 organisation of production of capitalism. In the words of the early English
 socialist Thomas Hodgskin _"capital does not derive its utility from previous,
 but present labour; and does not bring its owner a profit because it has been
-stored up, but because it is a means of obtaining a command over labour."_
-[**Labour Defended against the Claims of Capital**] It is more than a strange
+stored up, but because it is a means of obtaining a command over labour."_ [
+**Labour Defended against the Claims of Capital** ] It is more than a strange
 coincidence that the people with power in a company, when working out who
 contributes most to a product, decide it is themselves!
 
 This means that the notion that labour gets its "share" of the products
-created is radically false for, as _"a description of **property rights**, the
-distributive shares picture is quite misleading and false. The simple fact is
-that one legal party owns all the product. For example, General Motors doesn't
-just own 'Capital's share' of the GM cars produced; it owns all of them."_
-[Ellerman, **Op. Cit.**, p. 27] Or as Proudhon put it, _"Property is the right
-to enjoy and dispose of another's goods, -- the fruit of another's industry
-and labour."_ The only way to finally abolish exploitation is for workers to
-manage their own work and the machinery and tools they use. This is implied,
-of course, in the argument that labour is the source of property for _"if
-labour is the sole basis of property, I cease to be a proprietor of my field
-as soon as I receive rent for it from another . . . It is the same with all
-capital."_ Thus, _"all production being necessarily collective"_ and _"all
+created is radically false for, as _"a description of **property rights** ,
+the distributive shares picture is quite misleading and false. The simple fact
+is that one legal party owns all the product. For example, General Motors
+doesn't just own 'Capital's share' of the GM cars produced; it owns all of
+them."_ [Ellerman, **Op. Cit.** , p. 27] Or as Proudhon put it, _"Property is
+the right to enjoy and dispose of another's goods, -- the fruit of another's
+industry and labour."_ The only way to finally abolish exploitation is for
+workers to manage their own work and the machinery and tools they use. This is
+implied, of course, in the argument that labour is the source of property for
+_"if labour is the sole basis of property, I cease to be a proprietor of my
+field as soon as I receive rent for it from another . . . It is the same with
+all capital."_ Thus, _"all production being necessarily collective"_ and _"all
 accumulated capital being social property, no one can be its exclusive
-proprietor."_ [**What is Property?**, p. 171, p. 133 and p. 130]
+proprietor."_ [ **What is Property?** , p. 171, p. 133 and p. 130]
 
 The reason why capital gets a "reward" is simply due to the current system
 which gives capitalist class an advantage which allows them to refuse access
@@ -1345,12 +1342,12 @@ of this indivisible team of engineer and fireman obeys a law of all or
 nothing, and there is no 'marginal product' of the one that can be separated
 from the other. The same thing goes on the shop floor, and ultimately for the
 modern factory as a whole, where jobs are closely interdependent."_ [Cornelius
-Castoriadis, **Political and Social Writings**, vol. 3, p. 213] Kropotkin made
-the same point, arguing it _"is utterly impossible to draw a distinction
+Castoriadis, **Political and Social Writings** , vol. 3, p. 213] Kropotkin
+made the same point, arguing it _"is utterly impossible to draw a distinction
 between the work"_ of the individuals collectively producing a product as all
 _"contribute . . . in proportion to their strength, their energy, their
-knowledge, their intelligence, and their skill."_ [**The Conquest of Bread**,
-p. 170 and p. 169]
+knowledge, their intelligence, and their skill."_ [ **The Conquest of Bread**
+, p. 170 and p. 169]
 
 This suggests another explanation for the existence of profits than the
 "marginal productivity" of capital. Let us assume, as argued in marginal
@@ -1381,7 +1378,7 @@ days? Nevertheless, on the books of the capitalist, the amount of wages would
 have been the same."_ Therefore, the capitalist has _"paid all the individual
 forces"_ but _"the collective force still remains to be paid. Consequently,
 there remains a right of collective property"_ which the capitalist _"enjoy[s]
-unjustly."_ [**What is Property?**, p. 127 and p. 130]
+unjustly."_ [ **What is Property?** , p. 127 and p. 130]
 
 As usual, therefore, we must distinguish between the ideology and reality of
 capitalism. As we indicated in [section C.1](secC1.md), the model of perfect
@@ -1401,7 +1398,7 @@ being analysed. Sadly for marginal productivity theory, its assumptions are
 not of this kind. Rather, they are _"domain assumptions"_ which specify _"the
 conditions under which a particular theory will apply. If those conditions do
 not apply, then neither does the theory."_ [Steve Keen, **Debunking
-Economics**, p. 151] This is the case here.
+Economics** , p. 151] This is the case here.
 
 However, most economists will happily ignore this critique for, as noted
 repeatedly, basing economic theory on reality or realistic models is not
@@ -1410,13 +1407,13 @@ productivity" theory applied to capital is riddled with logical
 inconsistencies which show that it is simply wrong. In the words of the noted
 left-wing economist Joan Robinson:
 
-> _ "The neo-classicals evidently had not been told that the neo-classical
-theory did not contain a solution of the problems of profits or of the value
-of capital. They have erected a towering structure of mathematical theorems on
-a foundation that does not exist. Recently [in the 1960s, leading neo-
-classical economist] Paul Samuelson was sufficiently candid to admit that the
-basis of his system does not hold, but the theorems go on pouring out just the
-same."_ [**Contributions to Modern Economics**, p. 186]
+> _"The neo-classicals evidently had not been told that the neo-classical
+> theory did not contain a solution of the problems of profits or of the value
+> of capital. They have erected a towering structure of mathematical theorems
+> on a foundation that does not exist. Recently [in the 1960s, leading neo-
+> classical economist] Paul Samuelson was sufficiently candid to admit that
+> the basis of his system does not hold, but the theorems go on pouring out
+> just the same."_ [ **Contributions to Modern Economics** , p. 186]
 
 If profits **are** the result of private property and the inequality it
 produces, then it is unsurprising that neoclassical theory would be as
@@ -1437,22 +1434,20 @@ have in common is a price and that is precisely what economists **do** use to
 aggregate capital. Sadly, though, shows _"that there is no meaning to be given
 to a 'quantity of capital' apart from the rate of profit, so that the
 contention that the 'marginal product of capital' determines the rate of
-profit is meaningless."_ [Robinson, **Op. Cit.**, p. 103] This is because
+profit is meaningless."_ [Robinson, **Op. Cit.** , p. 103] This is because
 argument is based on circular reasoning:
 
-> _ "For long-period problems we have to consider the meaning of the rate of
-profit on capital . . . the value of capital equipment, reckoned as its future
-earnings discounted at a rate of interest equal to the rate of profit, is
-equal to its initial cost, which involves prices including profit at the same
-rate on the value of the capital involved in producing it, allowing for
-depreciation at the appropriate rate over its life up to date.  
+> _"For long-period problems we have to consider the meaning of the rate of
+> profit on capital . . . the value of capital equipment, reckoned as its
+> future earnings discounted at a rate of interest equal to the rate of
+> profit, is equal to its initial cost, which involves prices including profit
+> at the same rate on the value of the capital involved in producing it,
+> allowing for depreciation at the appropriate rate over its life up to date.  
 >  _
-
 >
-
 > _"The value of a stock of capital equipment, therefore, involves the rate of
-profit. There is no meaning in a 'quantity of capital' apart from the rate of
-profit."_ [**Collected Economic Papers**, vol. 4, p. 125]
+> profit. There is no meaning in a 'quantity of capital' apart from the rate
+> of profit."_ [ **Collected Economic Papers** , vol. 4, p. 125]
 
 Looking at it another way, neo-classical economics seeks to simultaneously
 solve the problems of production and income distribution. It attempts to show
@@ -1494,18 +1489,18 @@ _"it is impossible to define one way of producing a commodity as 'more
 roundabout' than another independently of the rate of profit . . . Therefore
 the Austrian notion of roundaboutness is as internally inconsistent as the
 neoclassical concept of the marginal productivity of capital."_ [Steve Keen,
-**Debunking Economics**, p. 302]).
+**Debunking Economics** , p. 302]).
 
 The next problem with the theory is that "capital" is treated as something
 utterly unreal. Take, for example, leading neoclassical Dennis Robertson's
 1931 attempt to explain the marginal productivity of labour when holding
 "capital" constant:
 
-> _ "If ten men are to be set out to dig a hole instead of nine, they will be
-furnished with ten cheaper spades instead of nine more expensive ones; or
-perhaps if there is no room for him to dig comfortably, the tenth man will be
-furnished with a bucket and sent to fetch beer for the other nine."_ [_"Wage-
-grumbles"_, **Economic Fragments**, p. 226]
+> _"If ten men are to be set out to dig a hole instead of nine, they will be
+> furnished with ten cheaper spades instead of nine more expensive ones; or
+> perhaps if there is no room for him to dig comfortably, the tenth man will
+> be furnished with a bucket and sent to fetch beer for the other nine."_ [
+> _"Wage-grumbles"_ , **Economic Fragments** , p. 226]
 
 So to work out the marginal productivity of the factors involved, _"ten
 cheaper spades"_ somehow equals nine more expensive spades? How is this
@@ -1518,8 +1513,8 @@ the _"concept of capital all the man-made factors are boiled into one, which
 we may call **leets** . . . [which], though all made up of one physical
 substance, is endowed with the capacity to embody various techniques of
 production . . . and a change of technique can be made simply by squeezing up
-or spreading out leets, instantaneously and without cost."_ [**Contributions
-to Modern Economics**, p. 106]
+or spreading out leets, instantaneously and without cost."_ [ **Contributions
+to Modern Economics** , p. 106]
 
 This allows economics to avoid the obvious aggregation problems with
 "capital", make sense of the concept of adding an extra unit of capital to
@@ -1529,17 +1524,17 @@ stock of means of production in existence can be represented as a quantity of
 ectoplasm, we can say, appealing to Euler's theorem, that the rent per unit of
 ectoplasm is equal to the marginal product of the given quantity of ectoplasm
 when it is fully utilised. This does seem to add anything of interest to the
-argument."_ [**Op. Cit.**, p. 99] This ensures reality has to be ignored and
+argument."_ [ **Op. Cit.** , p. 99] This ensures reality has to be ignored and
 so economic theory need not discuss any practical questions:
 
-> _ "When equipment is made of leets, there is no distinction between long and
-short-period problems . . . Nine spades are lumps of leets; when the tenth man
-turns up it is squeezed out to provide him with a share of equipment nine-
-tenths of what each man had before . . . There is no room for imperfect
-competition. There is no possibility of disappointed expectations . . . There
-is no problem of unemployment . . . Unemployed workers would bid down wages
-and the pre-existing quantity of leets would be spread out to accommodate
-them."_ [**Op. Cit.**, p. 107]
+> _"When equipment is made of leets, there is no distinction between long and
+> short-period problems . . . Nine spades are lumps of leets; when the tenth
+> man turns up it is squeezed out to provide him with a share of equipment
+> nine-tenths of what each man had before . . . There is no room for imperfect
+> competition. There is no possibility of disappointed expectations . . .
+> There is no problem of unemployment . . . Unemployed workers would bid down
+> wages and the pre-existing quantity of leets would be spread out to
+> accommodate them."_ [ **Op. Cit.** , p. 107]
 
 The concept that capital goods are made of ectoplasm and can be remoulded into
 the profit maximising form from day to day was invented in order to prove that
@@ -1579,7 +1574,7 @@ blades of supply and demand . . . To be able to work out prices, it is first
 necessary to know the distribution of income . . . There is therefore nothing
 sacrosanct about the prices that apply in the economy, and equally nothing
 sacrosanct about the distribution of income. It reflects the relative power of
-different groups in society."_ [**Op. Cit.**, p. 135]
+different groups in society."_ [ **Op. Cit.** , p. 135]
 
 It should be noted that this critique bases itself on the neoclassical
 assumption that it is possible to define a factor of production called
@@ -1608,7 +1603,7 @@ today _"economic theory continues to use exactly the same concepts which
 Sraffa's critique showed to be completely invalid"_ in spite the _"definitive
 capitulation by as significant an economist as Paul Samuelson."_ As he
 concludes: _"There is no better sign of the intellectual bankruptcy of
-economics than this."_ [**Op. Cit.**, p. 146, p. 129 and p. 147]
+economics than this."_ [ **Op. Cit.** , p. 146, p. 129 and p. 147]
 
 Why? Simply because the Cambridge Capital Controversy would expose the student
 of economics to some serious problems with neo-classical economics and they
@@ -1618,7 +1613,7 @@ profits **are** the result of exploitation. As this would put into jeopardy
 the role of economists as, to quote Marx, the _"hired prize-fighters"_ for
 capital who replace _"genuine scientific research"_ with _"the bad conscience
 and evil intent of apologetics."_ Unsurprisingly, he characterised this as
-_"vulgar economics."_ [**Capital**, vol. 1, p. 97]
+_"vulgar economics."_ [ **Capital** , vol. 1, p. 97]
 
 ## C.2.6 Does interest represent the "time value" of money?
 
@@ -1687,30 +1682,29 @@ overvaluation of present satisfactions, while uncertainty is as likely to
 produce immediate consumption as it is to produce provision for the future
 (saving). Thus Joan Robinson:
 
-> _ "The rate of interest (excess of repayment over original loan) would
-settle at the level which equated supply and demand for loans. Whether it was
-positive or negative would depend upon whether spendthrifts or prudent family
-men happened to predominate in the community. There is no **a priori**
-presumption in favour of a positive rate. Thus, the rate of interest cannot be
-account for as the 'cost of waiting.'  
+> _"The rate of interest (excess of repayment over original loan) would settle
+> at the level which equated supply and demand for loans. Whether it was
+> positive or negative would depend upon whether spendthrifts or prudent
+> family men happened to predominate in the community. There is no **a
+> priori** presumption in favour of a positive rate. Thus, the rate of
+> interest cannot be account for as the 'cost of waiting.'  
 >  _
-
 >
-
 > _"The reason why there is always a demand for loans at a positive rate of
-interest, in an economy where there is property in the means of production and
-means of production are scarce, is that finance expended now can be used to
-employ labour in productive processes which will yield a surplus in the future
-over costs of production. Interest is positive because profits are positive
-(though at the same time the cost and difficulty of obtaining finance play a
-part in keeping productive equipment scarce, and so contribute to maintaining
-the level of profits)."_ [**Contributions to Modern Economics**, p. 83]
+> interest, in an economy where there is property in the means of production
+> and means of production are scarce, is that finance expended now can be used
+> to employ labour in productive processes which will yield a surplus in the
+> future over costs of production. Interest is positive because profits are
+> positive (though at the same time the cost and difficulty of obtaining
+> finance play a part in keeping productive equipment scarce, and so
+> contribute to maintaining the level of profits)."_ [ **Contributions to
+> Modern Economics** , p. 83]
 
 It is only because money provides the authority to allocate resources and
-exploit wage labour that money now is more valuable (_"we know that mere
+exploit wage labour that money now is more valuable ( _"we know that mere
 saving itself brings in nothing, so long as the pence saved are not used to
-exploit."_ [Kropotkin, **The Conquest of Bread**, p. 59]). The capitalist does
-not supply "time" (as the "time value" theory argues), the loan provides
+exploit."_ [Kropotkin, **The Conquest of Bread** , p. 59]). The capitalist
+does not supply "time" (as the "time value" theory argues), the loan provides
 authority/power and so the interest rate does not reflect "time preference"
 but rather the utility of the loan to capitalists, i.e. whether it can be used
 to successfully exploit labour. If the expectations of profits by capitalists
@@ -1723,13 +1717,14 @@ Then there is the problem of circularity. In any real economy, interest rates
 obviously shape people's saving decisions. This means that an individual's
 "time preference" is shaped by the thing it is meant to explain:
 
-> _ "But there may be some savers who have the psychology required by the text
-books and weigh a preference for present spending against an increment of
-income (interest, dividends and capital gains) to be had from an increment of
-wealth. But what then? Each individual goes on saving or dis-saving till the
-point where his individual subjective rate of discount is equal to the market
-rate of interest. There has to be a market rate of interest for him to compare
-his rate of discount to."_ [Joan Robinson, **Op. Cit.**, pp. 11-12]
+> _"But there may be some savers who have the psychology required by the text
+> books and weigh a preference for present spending against an increment of
+> income (interest, dividends and capital gains) to be had from an increment
+> of wealth. But what then? Each individual goes on saving or dis-saving till
+> the point where his individual subjective rate of discount is equal to the
+> market rate of interest. There has to be a market rate of interest for him
+> to compare his rate of discount to."_ [Joan Robinson, **Op. Cit.** , pp.
+> 11-12]
 
 Looking at the individuals whose subjective evaluations allegedly determine
 the interest rate, there is the critical question of motivation. Looking at
@@ -1787,7 +1782,7 @@ Nor is "time preference" that useful when we look at the saver. People save
 money for a variety of motives, few (if any) of which have anything to do with
 "time preference." A common motive is, unsurprisingly, uncertainty about the
 future. Thus people put money into savings accounts to cover possible mishaps
-and unexpected developments (as in _"saving for a rainy day"_). Indeed, in an
+and unexpected developments (as in _"saving for a rainy day"_ ). Indeed, in an
 uncertain world future money may be its own reward for immediate consumption
 is often a risky thing to do as it reduces the ability to consumer in the
 future (for example, workers facing unemployment in the future could value the
@@ -1797,7 +1792,7 @@ consumption is viewed as a disutility as it is risky behaviour. Another common
 reason would be to save because they do not have enough money to buy what they
 want now. This is particularly the case with working class families who face
 stagnating or falling income or face financial difficulties.[Henwood, **Wall
-Street**, p. 65] Again, "time preference" does not come into it as economic
+Street** , p. 65] Again, "time preference" does not come into it as economic
 necessity forces the borrowers to consume more now in order to be around in
 the future.
 
@@ -1822,14 +1817,14 @@ explain interest rates by the latter rather than the former. Unless, of
 course, you are seeking to rationalise and justify the rich getting richer.
 Ultimately, interest is an expression of inequality, **not** exchange:
 
-> _ "If there is chicanery afoot in calling 'money now' a different good than
-'money later,' it is by no means harmless, for the intended effect is to
-subsume money lending under the normative rubric of exchange . . . [but] there
-are obvious differences . . . [for in normal commodity exchange] both parties
-have something [while in loaning] he has something you don't . . . [so]
-inequality dominates the relationship. He has more than you have now, and he
-will get back more than he gives."_ [Schweickart, **Against Capitalism**, p.
-23]
+> _"If there is chicanery afoot in calling 'money now' a different good than
+> 'money later,' it is by no means harmless, for the intended effect is to
+> subsume money lending under the normative rubric of exchange . . . [but]
+> there are obvious differences . . . [for in normal commodity exchange] both
+> parties have something [while in loaning] he has something you don't . . .
+> [so] inequality dominates the relationship. He has more than you have now,
+> and he will get back more than he gives."_ [Schweickart, **Against
+> Capitalism** , p. 23]
 
 While the theory is less than ideal, the practice is little better. Interest
 rates have numerous perverse influences in any real economy. In neo-classical
@@ -1850,12 +1845,12 @@ For example, rather than bring investment into line with savings, a higher
 interest can cause savings to fall as _"[h]ousehold saving, of course, is
 mainly saving up to spend later, and . . . it is likely to respond the wrong
 way. A higher rate of return means that 'less' saving is necessary to get a
-given pension or whatever."_ [Robinson, **Op. Cit.**, p. 11] Similarly, higher
-interest rates need not lead to higher investment as higher interest payments
-can dampen profits as both consumers and industrial capitalists have to divert
-more of their finances away from real spending and towards debt services. The
-former causes a drop in demand for products while the latter leaves less for
-investing.
+given pension or whatever."_ [Robinson, **Op. Cit.** , p. 11] Similarly,
+higher interest rates need not lead to higher investment as higher interest
+payments can dampen profits as both consumers and industrial capitalists have
+to divert more of their finances away from real spending and towards debt
+services. The former causes a drop in demand for products while the latter
+leaves less for investing.
 
 As argued by Keynes, the impact of saving is not as positive as some like to
 claim. Any economy is a network, where decisions affect everyone. In a
@@ -1902,7 +1897,7 @@ a decision which may cause companies to go bust, so **reducing** the available
 means of production as reduced demand results in job loses and idle factories?
 Moreover, this problem _"becomes ever more acute the richer or more
 inegalitarian the society becomes, since wealthy people tend to save more than
-poor people."_ [Schweickart, **After Capitalism**, p. 43]
+poor people."_ [Schweickart, **After Capitalism** , p. 43]
 
 Supporters of capitalists assume that people will not save unless promised the
 ability to consume **more** at a later stage, yet close examination of this
@@ -1920,7 +1915,7 @@ justify an activity without careful analysing it.
 To be sure, there is an economic truth underlying this argument for justifying
 interest, but the formulation by supporters of capitalism is inaccurate and
 unfortunate. There is a sense in which 'waiting' is a condition for capital
-**increase**, though not for capital per se. Any society which wishes to
+**increase** , though not for capital per se. Any society which wishes to
 increase its stock of capital goods may have to postpone some gratification.
 Workplaces and resources turned over to producing capital goods cannot be used
 to produce consumer items, after all. How that is organised differs from
@@ -1944,7 +1939,7 @@ _"no species of labourer depends on any previously prepared stock, for in fact
 no such stock exists; but every species of labourer does constantly, and at
 all times, depend for his supplies on the co-existing labour of some other
 labourers."_ [Thomas Hodgskin, **Labour Defended Against the Claims of
-Capital**] This means that the workers, as a class, creates the fund of goods
+Capital** ] This means that the workers, as a class, creates the fund of goods
 out of which the capitalists pay them.
 
 Ultimately, selling the use of money (paid for by interest) is not the same as
@@ -1955,22 +1950,20 @@ something and, therefore, not a productive act which should be rewarded. It is
 **not** the same as other forms of exchange. Proudhon pointed out the
 difference:
 
-> _ "Comparing a loan to a **sale**, you say: Your argument is as valid
-against the latter as against the former, for the hatter who sells hats does
-not **deprive** himself.  
+> _"Comparing a loan to a **sale** , you say: Your argument is as valid
+> against the latter as against the former, for the hatter who sells hats does
+> not **deprive** himself.  
 >  _
-
 >
-
 > _"No, for he receives for his hats -- at least he is reputed to receive for
-them -- their exact value immediately, neither **more** nor **less**. But the
-capitalist lender not only is not deprived, since he recovers his capital
-intact, but he receives more than his capital, more than he contributes to the
-exchange; he receives in addition to his capital an interest which represents
-no positive product on his part. Now, a service which costs no labour to him
-who renders it is a service which may become gratuitous."_ [**Interest and
-Principal: The Circulation of Capital, Not Capital Itself, Gives Birth to
-Progress**]
+> them -- their exact value immediately, neither **more** nor **less**. But
+> the capitalist lender not only is not deprived, since he recovers his
+> capital intact, but he receives more than his capital, more than he
+> contributes to the exchange; he receives in addition to his capital an
+> interest which represents no positive product on his part. Now, a service
+> which costs no labour to him who renders it is a service which may become
+> gratuitous."_ [ **Interest and Principal: The Circulation of Capital, Not
+> Capital Itself, Gives Birth to Progress** ]
 
 The reason why interest rates do not fall to zero is due to the class nature
 of capitalism, **not** "time preference." That it is ultimately rooted in
@@ -1978,29 +1971,27 @@ social institutions can be seen from Böhm-Bawerk's acknowledgement that
 monopoly can result in exploitation by increasing the rate of interest above
 the rate specified by "time preference" (i.e. the market):
 
-> _ "Now, of course, the circumstances unfavourable to buyers may be corrected
-by active competition among sellers . . . But, every now and then, something
-will suspend the capitalists' competition, and then those unfortunates, whom
-fate has thrown on a local market ruled by monopoly, are delivered over to the
-discretion of the adversary. Hence direct usury, of which the poor borrower is
-only too often the victim; and hence the low wages forcibly exploited from the
-workers. . .  
+> _"Now, of course, the circumstances unfavourable to buyers may be corrected
+> by active competition among sellers . . . But, every now and then, something
+> will suspend the capitalists' competition, and then those unfortunates, whom
+> fate has thrown on a local market ruled by monopoly, are delivered over to
+> the discretion of the adversary. Hence direct usury, of which the poor
+> borrower is only too often the victim; and hence the low wages forcibly
+> exploited from the workers. . .  
 >  _
-
 >
-
 > _"It is not my business to put excesses like these, where there actually is
-exploitation, under the aegis of that favourable opinion I pronounced above as
-to the essence of interest. But, on the other hand, I must say with all
-emphasis, that what we might stigmatise as 'usury' does not consist in the
-obtaining of a gain out of a loan, or out of the buying of labour, but in the
-immoderate extent of that gain . . . Some gain or profit on capital there
-would be if there were no compulsion on the poor, and no monopolising of
-property; and some gain there must be. It is only the height of this gain
-where, in particular cases, it reaches an excess, that is open to criticism,
-and, of course, the very unequal conditions of wealth in our modern
-communities bring us unpleasantly near the danger of exploitation and of
-usurious rates of interest."_ [**The Positive Theory of Capital**, p. 361]
+> exploitation, under the aegis of that favourable opinion I pronounced above
+> as to the essence of interest. But, on the other hand, I must say with all
+> emphasis, that what we might stigmatise as 'usury' does not consist in the
+> obtaining of a gain out of a loan, or out of the buying of labour, but in
+> the immoderate extent of that gain . . . Some gain or profit on capital
+> there would be if there were no compulsion on the poor, and no monopolising
+> of property; and some gain there must be. It is only the height of this gain
+> where, in particular cases, it reaches an excess, that is open to criticism,
+> and, of course, the very unequal conditions of wealth in our modern
+> communities bring us unpleasantly near the danger of exploitation and of
+> usurious rates of interest."_ [ **The Positive Theory of Capital** , p. 361]
 
 Little wonder, then, that Proudhon continually stressed the need for working
 people to organise themselves and credit (which, of course, they would have
@@ -2014,8 +2005,8 @@ need for savings could be replaced by, for example, co-operation and credit
 (as already exists, in part, in any developed economy). Organising these could
 ensure a positive cycle of investment, growth and savings (Keynes, it should
 be noted, praised Proudhon's follower Silvio Gesell in **The General Theory**.
-For a useful discussion see Dudley Dillard's essay _"Keynes and Proudhon"_
-[**The Journal of Economic History**, vol. 2, No. 1, pp. 63-76]).
+For a useful discussion see Dudley Dillard's essay _"Keynes and Proudhon"_ [
+**The Journal of Economic History** , vol. 2, No. 1, pp. 63-76]).
 
 Thus the key flaw in the theory is that of capitalist economics in general. By
 concentrating on the decisions of individuals, it ignores the social
@@ -2051,8 +2042,8 @@ preference" of abstract individuals.
 
 In summary, providing capital and charging interest are not productive acts.
 As Proudhon argued, _"all rent received (nominally as damages, but really as
-payment for a loan) is an act of property -- of robbery."_ [**What is
-Property**, p. 171]
+payment for a loan) is an act of property -- of robbery."_ [ **What is
+Property** , p. 171]
 
 ## C.2.7 Are interest and profit not the reward for waiting?
 
@@ -2073,8 +2064,8 @@ which is in our power, or to seek distant rather than immediate results, are
 among the most painful exertions of the human will."_ Thus wages and
 interest/profit _"are to be considered as the rewards of peculiar sacrifices,
 the former the remuneration for labour, and the latter for abstinence from
-immediate enjoyment."_ [**An Outline of the Science of Political Economy**, p.
-60 and p. 91]
+immediate enjoyment."_ [ **An Outline of the Science of Political Economy** ,
+p. 60 and p. 91]
 
 Today, the idea that interest is the reward for "abstinence" on the part of
 savers is still a common one in capitalist economics. However, by the end of
@@ -2083,8 +2074,8 @@ theory while still playing the same role in justifying non-labour income. One
 of the leading neo-classical economists of his day, Alfred Marshall, argued
 that _"[i]f we admit [a commodity] is the product of labour alone, and not of
 labour and waiting, we can no doubt be compelled by an inexorable logic to
-admit that there is no justification of interest, the reward for waiting."_
-[**Principles of Economics**, p. 587] While implicitly recognising that labour
+admit that there is no justification of interest, the reward for waiting."_ [
+**Principles of Economics** , p. 587] While implicitly recognising that labour
 is the source of all value in capitalism (and that abstinence is not the
 **source** of profits), it is claimed that interest is a justifiable claim on
 the surplus value produced by a worker.
@@ -2096,11 +2087,11 @@ capital available as an input -- i.e. to bear costs now for returns in the
 future -- someone has to be willing to postpone his or her consumption. That
 is a real cost, and one that people will pay only if rewarded for it:
 
-> _ "human nature being what it is, we are justified in speaking of the
-interest on capital as the reward of the sacrifice involved in waiting for the
-enjoyment of material resources, because few people would save much without
-reward; just as we speak of wages as the reward of labour, because few people
-would work hard without reward."_ [**Op. Cit.**, p. 232]
+> _"human nature being what it is, we are justified in speaking of the
+> interest on capital as the reward of the sacrifice involved in waiting for
+> the enjoyment of material resources, because few people would save much
+> without reward; just as we speak of wages as the reward of labour, because
+> few people would work hard without reward."_ [ **Op. Cit.** , p. 232]
 
 The interest rate is, in neo-classical economic theory, set when the demand
 for loans meets the supply of savings. The interest rate stems from the fact
@@ -2134,7 +2125,7 @@ within a society. After all, it is far easier for a rich person to "defer
 consumption" than for someone on an average income. This is borne out by
 statistics, for as Simon Kuznets has noted, _"only the upper income groups
 save; the total savings of groups below the top decile are fairly close to
-zero."_ [**Economic Growth and Structure**, p. 263] Obviously, therefore, in
+zero."_ [ **Economic Growth and Structure** , p. 263] Obviously, therefore, in
 modern society it is the capitalist class, the rich, who refrain from
 expending their income on immediate consumption and _"abstain."_
 Astonishingly, working class people show no such desire to abstain from
@@ -2142,8 +2133,8 @@ spending their wages on immediate consumption. It does not take a genius to
 work out why, although many economists have followed Senior in placing the
 blame on working class lack of abstinence on poor education rather than, say,
 the class system they live in (for Senior, _"the worse educated"_ classes
-_"are always the most improvident, and consequently the least abstinent."_
-[**Op. Cit.**, p. 60]).
+_"are always the most improvident, and consequently the least abstinent."_ [
+**Op. Cit.** , p. 60]).
 
 Therefore, the plausibility of interest as payment for the pain of deferring
 consumption rests on the premise that the typical saving unit is a small or
@@ -2178,21 +2169,22 @@ valuable to him personally, -- because, if he should keep it in his own hands,
 this capital, sterile by nature, would remain sterile, whereas, by its loan
 and the resulting interest, it yields a profit which enables the capitalist to
 live without working. Now, to live without working is, in political as well as
-moral economy, a contradictory proposition, an impossible thing."_ [**Interest
-and Principal: A Loan is a Service**]
+moral economy, a contradictory proposition, an impossible thing."_ [
+**Interest and Principal: A Loan is a Service** ]
 
 In other words, contra Marshall, saving is **not** a sacrifice for the wealthy
 and, as such, not deserving a reward. Proudhon goes on:
 
-> _ "The proprietor who possesses two estates, one at Tours, and the other at
-Orleans, and who is obliged to fix his residence on the one which he uses, and
-consequently to abandon his residence on the other, can this proprietor claim
-that he deprives himself of anything, because he is not, like God, ubiquitous
-in action and presence? As well say that we who live in Paris are deprived of
-a residence in New York! Confess, then, that the privation of the capitalist
-is akin to that of the master who has lost his slave, to that of the prince
-expelled by his subjects, to that of the robber who, wishing to break into a
-house, finds the dogs on the watch and the inmates at the windows."_
+> _"The proprietor who possesses two estates, one at Tours, and the other at
+> Orleans, and who is obliged to fix his residence on the one which he uses,
+> and consequently to abandon his residence on the other, can this proprietor
+> claim that he deprives himself of anything, because he is not, like God,
+> ubiquitous in action and presence? As well say that we who live in Paris are
+> deprived of a residence in New York! Confess, then, that the privation of
+> the capitalist is akin to that of the master who has lost his slave, to that
+> of the prince expelled by his subjects, to that of the robber who, wishing
+> to break into a house, finds the dogs on the watch and the inmates at the
+> windows."_
 
 Given how much income this "abstinence" or "waiting" results in, we can only
 conclude that it is the most painful of decisions possible for a multi-
@@ -2217,29 +2209,29 @@ no anarchist to come to this obvious conclusion. It was admitted as much by a
 leading capitalist economist and his argument simply echoes Proudhon's earlier
 critique:
 
-> _ "the existence and height of interest by no means invariably correspond
-with the existence and the height of a 'sacrifice of abstinence.' Interest, in
-exceptional cases, is received where there has been no individual sacrifice of
-abstinence. High interest is often got where the sacrifice of the abstinence
-is very trifling -- as in the case of [a] millionaire -- and 'low interest' is
-often got where the sacrifice entailed by the abstinence is very great. The
-hardly saved sovereign which the domestic servant puts in the savings bank
-bears, absolutely and relatively, less interest than the lightly spared
-thousands which the millionaire puts to fructify in debenture and mortgage
-funds. These phenomena fit badly into a theory which explains interest quite
-universally as a 'wage of abstinence.'"_ [Eugen von Böhm-Bawerk, **Capital and
-Interest**, p. 277]
+> _"the existence and height of interest by no means invariably correspond
+> with the existence and the height of a 'sacrifice of abstinence.' Interest,
+> in exceptional cases, is received where there has been no individual
+> sacrifice of abstinence. High interest is often got where the sacrifice of
+> the abstinence is very trifling -- as in the case of [a] millionaire -- and
+> 'low interest' is often got where the sacrifice entailed by the abstinence
+> is very great. The hardly saved sovereign which the domestic servant puts in
+> the savings bank bears, absolutely and relatively, less interest than the
+> lightly spared thousands which the millionaire puts to fructify in debenture
+> and mortgage funds. These phenomena fit badly into a theory which explains
+> interest quite universally as a 'wage of abstinence.'"_ [Eugen von Böhm-
+> Bawerk, **Capital and Interest** , p. 277]
 
 All in all, as Joan Robinson pointed out, _"that the rate of interest is the
 'reward for waiting' but 'waiting' only means owning wealth . . . In short, a
 man who refrains from blowing his capital in orgies and feasts can continue to
 get interest on it. This seems perfectly correct, but as a theory of
-distribution it is only a circular argument."_ [**Contributions to Modern
-Economics**, p. 11] Interest is not the reward for "waiting," rather it is one
-of the (many) rewards for being rich. This was admitted as much by Marshall
-himself, who noted that the _"power to save depends on an excess of income
-over necessary expenditure; and this is greatest among the wealthy."_ [**Op.
-Cit.**, p. 229]
+distribution it is only a circular argument."_ [ **Contributions to Modern
+Economics** , p. 11] Interest is not the reward for "waiting," rather it is
+one of the (many) rewards for being rich. This was admitted as much by
+Marshall himself, who noted that the _"power to save depends on an excess of
+income over necessary expenditure; and this is greatest among the wealthy."_ [
+**Op. Cit.** , p. 229]
 
 Little wonder, then, that neo-classical economists introduced the term
 **waiting** as an "explanation" for returns to capital (such as interest).
@@ -2258,7 +2250,7 @@ some [!] of whom live in luxury, and certainly do not practise abstinence in
 that sense of the term in which it is convertible with abstemiousness."_ So he
 opted for the term "waiting" because there was _"advantage"_ in its use to
 describe _"the accumulation of wealth"_ as the _"result of a postponement of
-enjoyment."_ [**Op. Cit.**, pp. 232-3] This is particularly the case as
+enjoyment."_ [ **Op. Cit.** , pp. 232-3] This is particularly the case as
 socialists had long been pointing out the obvious fact that capitalists do not
 _"abstain"_ from anything.
 
@@ -2269,7 +2261,7 @@ The problems of "waiting" and "abstinence" as the source of interest becomes
 even clearer when we look at inherited wealth. Talking about "abstinence" or
 "waiting" when discussing a capitalist inheriting a company worth millions is
 silly. Senior recognised this, arguing that income in this case is not profit,
-but rather _"has all the attributes of rent."_ [**Op. Cit.**, p. 129] That
+but rather _"has all the attributes of rent."_ [ **Op. Cit.** , p. 129] That
 such a huge portion of capitalist revenue would not be considered profit shows
 the bankruptcy of any theory which see profit as the reward for "waiting."
 However, Senior's argument does show that interest payments need not reflect
@@ -2277,7 +2269,8 @@ any positive contribution to production by those who receive it. Like the
 landlord receiving payment for owning a gift of nature, the capitalist
 receives income for simply monopolising the work of previous generations and,
 as Smith put it, the _"rent of land, considered as the price paid for the use
-of land, is naturally a monopoly price."_ [**The Wealth of Nations**, p. 131]
+of land, is naturally a monopoly price."_ [ **The Wealth of Nations** , p.
+131]
 
 Even capitalist economists, while seeking to justify interest, admit that it
 _"arises independently of any personal act of the capitalist. It accrues to
@@ -2285,7 +2278,7 @@ him even though he has not moved any finger in creating it . . . And it flows
 without ever exhausting that capital from which it arises, and therefore
 without any necessary limit to its continuance. It is, if one may use such an
 expression in mundane matters, capable of everlasting life."_ [Böhm-Bawerk,
-**Op. Cit.**, p. 1] Little wonder we argued in [section
+**Op. Cit.** , p. 1] Little wonder we argued in [section
 C.2.3](secC2.md#secc23) that simply owning property does not justify non-
 labour income.
 
@@ -2297,8 +2290,8 @@ commodity), the capitalist will get rewarded for just **one** act of
 abstention. This is hardly a just arrangement. As David Schweickart has
 pointed out, _"Capitalism does reward some individuals perpetually. This, if
 it is to be justified by the canon of contribution, one must defend the claim
-that some contributions are indeed eternal."_ [**Against Capitalism**, p. 17]
-As we noted in [section C.1.1](secC1.md#secc11), current and future
+that some contributions are indeed eternal."_ [ **Against Capitalism** , p.
+17] As we noted in [section C.1.1](secC1.md#secc11), current and future
 generations should not be dominated by the actions of the long dead.
 
 The "waiting" theory, of course, simply seeks to justify interest rather than
@@ -2307,15 +2300,14 @@ reward for their abstinence, where does it come from? It cannot be created
 passively, merely by the decision to save, so interest exists because the
 exploitation of labour exists. As Joan Robinson summarised:
 
-> _ "Obviously, the reward of saving is owning some more wealth. One of the
-advantages, though by no means the only one, of owning wealth is the
-possibility of getting interest on it.  
+> _"Obviously, the reward of saving is owning some more wealth. One of the
+> advantages, though by no means the only one, of owning wealth is the
+> possibility of getting interest on it.  
 >  _
-
 >
-
 > _"But why is it possible to get interest? Because businesses make profits
-and are willing to borrow."_ [**Collected Economic Papers**, vol. 5, p. 36]
+> and are willing to borrow."_ [ **Collected Economic Papers** , vol. 5, p.
+> 36]
 
 This is the key. If ones ability and willingness to "wait" is dependent on
 social facts (such as available resources, ones class, etc.), then interest
@@ -2324,33 +2316,31 @@ factor. In other words, saving does not express "waiting", it simply expresses
 the extent of inequality and interest expresses the fact that workers have to
 sell their labour to others in order to survive:
 
-> _ "The notion that human beings discount the future certainly seems to
-correspond to everyone's subjective experience, but the conclusion drawn from
-it is a **non sequitor**, for most people have enough sense to want to be able
-to exercise consuming power as long as fate permits, and many people are in
-the situation of having a higher income in the present than they expect in the
-future (salary earners will have to retire, business may be better now than it
-seems likely to be later, etc.) and many look beyond their own lifetime and
-wish to leave consuming power to their heirs. Thus a great many . . . are
-eagerly looking for a reliable vehicle to carry purchasing power into the
-future . . . It is impossible to say what price would rule if there were a
-market for present **versus** future purchasing power, unaffected by any other
-influence except the desires of individuals about the time-pattern of their
-consumption. It might will be such a market would normally yield a negative
-rate of discount . . .  
+> _"The notion that human beings discount the future certainly seems to
+> correspond to everyone's subjective experience, but the conclusion drawn
+> from it is a **non sequitor** , for most people have enough sense to want to
+> be able to exercise consuming power as long as fate permits, and many people
+> are in the situation of having a higher income in the present than they
+> expect in the future (salary earners will have to retire, business may be
+> better now than it seems likely to be later, etc.) and many look beyond
+> their own lifetime and wish to leave consuming power to their heirs. Thus a
+> great many . . . are eagerly looking for a reliable vehicle to carry
+> purchasing power into the future . . . It is impossible to say what price
+> would rule if there were a market for present **versus** future purchasing
+> power, unaffected by any other influence except the desires of individuals
+> about the time-pattern of their consumption. It might will be such a market
+> would normally yield a negative rate of discount . . .  
 >  _
-
 >
-
 > _"The rate of interest is normally positive for a quite different reason.
-Present purchasing power is valuable partly because, under the capitalist
-rules of the game, it permits its owner . . . to employ labour and undertake
-production which will yield a surplus of receipts over costs. In an economy in
-which the rate of profit is expected to be positive, the rate of interest is
-positive . . . [and so] the present value of purchasing power exceeds its
-future value to the corresponding extent. . . This is nothing whatever to do
-with the subjective **rate of discount of the future** of the individual
-concerned. . ."_ [**The Accumulation of Capital**, p. 395]
+> Present purchasing power is valuable partly because, under the capitalist
+> rules of the game, it permits its owner . . . to employ labour and undertake
+> production which will yield a surplus of receipts over costs. In an economy
+> in which the rate of profit is expected to be positive, the rate of interest
+> is positive . . . [and so] the present value of purchasing power exceeds its
+> future value to the corresponding extent. . . This is nothing whatever to do
+> with the subjective **rate of discount of the future** of the individual
+> concerned. . ."_ [ **The Accumulation of Capital** , p. 395]
 
 So, interest has little to do with "waiting" and a lot more to do with the
 inequalities associated with the capitalist system. In effect, the "waiting"
@@ -2360,7 +2350,7 @@ more valuable than future money because of this fact. Ironically, therefore,
 the pro-capitalist theories of who abstains are wrong, _"since saving is
 mainly out of profits, and real wages tend to be lower the higher the rate of
 profit, the abstinence associated with saving is mainly done by the workers,
-who do not receive any share in the 'reward.'"_ [Robinson, **Op. Cit.**, p.
+who do not receive any share in the 'reward.'"_ [Robinson, **Op. Cit.** , p.
 393]
 
 In other words, "waiting" does not produce a surplus, labour does. As such, to
@@ -2370,8 +2360,8 @@ makes the production process profitable, and hence to what extent interest
 claims or dividends can be paid. Reliance on a waiting theory of the return to
 capital represented nothing less than a reluctance of economists to confront
 the sources of value creation and analyse the process of economic
-development."_ [William Lazonick, **Competitive Advantage on the Shop Floor**,
-p. 267] This would involve having to analyse the social relations between
+development."_ [William Lazonick, **Competitive Advantage on the Shop Floor**
+, p. 267] This would involve having to analyse the social relations between
 workers and managers/bosses on the shop floor, which would be to bring into
 question the whole nature of capitalism and any claims it was based upon
 freedom.
@@ -2397,15 +2387,16 @@ interest (including, as noted above, "abstinence" theories, which he concluded
 the socialists were right to mock), Böhm-Bawerk argued that profits could only
 by explained by means of time preference:
 
-> _ "**The loan is a real exchange of present goods against future goods** . .
-. present goods invariably possess a greater value than future goods of the
-same number and kind, and therefore a definite sum of present goods can, as a
-rule, only be purchased by a larger sum of future goods. Present goods possess
-an agio in future goods. **This agio is interest.** It is not a separate
-equivalent for a separate and durable use of the loaned goods, for that is
-inconceivable; it is a part equivalent of the loaned sum, kept separate for
-practical reasons. The replacement of the capital + the interest constitutes
-the full equivalent."_ [**Capital and Interest**, p. 259]
+> _" **The loan is a real exchange of present goods against future goods** . .
+> . present goods invariably possess a greater value than future goods of the
+> same number and kind, and therefore a definite sum of present goods can, as
+> a rule, only be purchased by a larger sum of future goods. Present goods
+> possess an agio in future goods. **This agio is interest.** It is not a
+> separate equivalent for a separate and durable use of the loaned goods, for
+> that is inconceivable; it is a part equivalent of the loaned sum, kept
+> separate for practical reasons. The replacement of the capital + the
+> interest constitutes the full equivalent."_ [ **Capital and Interest** , p.
+> 259]
 
 For him, time preference alone is the reason for profit/interest due to the
 relative low value of future goods, compared to present goods. Capital goods,
@@ -2415,11 +2406,11 @@ the amount their labour creates in terms of **future** goods, not **current**
 goods. This difference between the high value of current goods and low value
 of future goods is the source of surplus value:
 
-> _ "This, and nothing else, is the foundation of the so-called 'cheap' buying
-of production instruments, and especially of labour, which the Socialists
-rightly explain as the source of profit on capital, but wrongly interpret . .
-. as the result of a robbery or exploitation of the working classes by the
-propertied classes."_ [**The Positive Theory of Capital**, p. 301]
+> _"This, and nothing else, is the foundation of the so-called 'cheap' buying
+> of production instruments, and especially of labour, which the Socialists
+> rightly explain as the source of profit on capital, but wrongly interpret .
+> . . as the result of a robbery or exploitation of the working classes by the
+> propertied classes."_ [ **The Positive Theory of Capital** , p. 301]
 
 The capitalists are justified in keeping this surplus value because they
 provided the time required for the production process to occur. Thus surplus
@@ -2450,15 +2441,15 @@ much-talked-of and much-deplored dependence of labourer on capitalist."_ It is
 _"only because the labourers cannot wait till the roundabout process . . .
 delivers up its products ready for consumption, that they become economically
 dependent on the capitalists who already hold in their possession what we have
-called 'intermediate products.'"_ [**Op. Cit.**, p. 330 and p. 83]
+called 'intermediate products.'"_ [ **Op. Cit.** , p. 330 and p. 83]
 
 Böhm-Bawerk, ironically, simply repeats (although in different words) **and
 agrees** with the socialist critique of capitalism which, as we discussed in
 [section C.2.2](secC2.md#secc22), is also rooted in the class dependence of
 workers to capitalists (Bakunin, for example, argued that the capitalists were
 _"profiting by the economic dependence of the worker"_ in order to exploit
-them by _"turn[ing] the worker into a subordinate."_ [**The Political
-Philosophy of Bakunin**, p. 188]). The difference is that Böhm-Bawerk thinks
+them by _"turn[ing] the worker into a subordinate."_ [ **The Political
+Philosophy of Bakunin** , p. 188]). The difference is that Böhm-Bawerk thinks
 that the capitalists deserve their income from wealth while anarchists, like
 other socialists, argue they do not as they simply are being rewarded for
 being wealthy. Böhm-Bawerk simply cannot bring himself to acknowledge that an
@@ -2490,24 +2481,25 @@ An additional irony of Böhm-Bawerk's argument is that is very similar to the
 were right to reject. This can be seen from one of his followers,
 right-"libertarian" Murray Rothbard:
 
-> _ "What has been the contribution of these product-owners, or 'capitalists',
-to the production process? It is this: the saving and restriction of
-consumption, instead of being done by the owners of land and labour, has been
-done by the **capitalists.** The capitalists originally saved, say, 95 ounces
-of gold which they could have then spent on consumers' goods. They refrained
-from doing so, however, and, instead, **advanced** the money to the original
-owners of the factors. They **paid** the latter for their services while they
-were working, thus advancing them money before the product was actually
-produced and sold to the consumers. The capitalists, therefore, made an
-essential contribution to production. They relieved the owners of the original
-factors from the necessity of sacrificing present goods and waiting for future
-goods."_ [**Man, Economy, and State**, pp. 294-95]
+> _"What has been the contribution of these product-owners, or 'capitalists',
+> to the production process? It is this: the saving and restriction of
+> consumption, instead of being done by the owners of land and labour, has
+> been done by the **capitalists.** The capitalists originally saved, say, 95
+> ounces of gold which they could have then spent on consumers' goods. They
+> refrained from doing so, however, and, instead, **advanced** the money to
+> the original owners of the factors. They **paid** the latter for their
+> services while they were working, thus advancing them money before the
+> product was actually produced and sold to the consumers. The capitalists,
+> therefore, made an essential contribution to production. They relieved the
+> owners of the original factors from the necessity of sacrificing present
+> goods and waiting for future goods."_ [ **Man, Economy, and State** , pp.
+> 294-95]
 
 This meant that without risk, _"[e]ven if financial returns and consumer
 demand are certain, **the capitalists are still providing present goods to the
 owners of labour and land** and thus relieving them of the burden of waiting
 until the future goods are produced and finally transformed into consumers'
-goods."_ [**Op. Cit.**, p. 298] Capitalists pay out, say, £100,000 this year
+goods."_ [ **Op. Cit.** , p. 298] Capitalists pay out, say, £100,000 this year
 in wages and reap £200,000 next year not because of exploitation but because
 both parties prefer this amount of money this year rather than next year.
 Capitalists, in other words, pay out wages in advance and then wait for a
@@ -2526,8 +2518,9 @@ even more money in the future. Clearly, the time preference position and the
 "waiting" or "abstinence" perspective are basically the same (Rothbard even
 echoes Senior's lament about the improvident working class, arguing that _"the
 major problem with the lower-class poor is irresponsible present-mindedness."_
-[**For a New Liberty**, p. 154]). As such, it is subject to the same critique
-(as can be found in, say, the works of a certain Eugen von Böhm-Bawerk).
+[ **For a New Liberty** , p. 154]). As such, it is subject to the same
+critique (as can be found in, say, the works of a certain Eugen von Böhm-
+Bawerk).
 
 In other words, profit has a **social** basis, rooted in the different
 economic situation of classes within capitalism. It is not the fact of
@@ -2668,7 +2661,7 @@ process. . . when there is an above-average rise in labour productivity; the
 reduced costs then enable firms to earn higher than average profits in their
 products. But this form of excess profits is only temporary and disappears
 again when improved production methods become more general."_ [Paul Mattick,
-**Economics, Politics and the Age of Inflation**, p. 38] Capitalists, of
+**Economics, Politics and the Age of Inflation** , p. 38] Capitalists, of
 course, use a number of techniques to stop the spread of new products or
 production methods in order to maintain their position, such as state enforced
 intellectual property rights.
@@ -2684,7 +2677,7 @@ perfect competition, arguing that the _"introduction of new methods of
 production and new commodities is hardly compatible with perfect and perfectly
 prompt competition from the start . . . As a matter of fact, perfect
 competition has always been temporarily stemmed whenever anything new is being
-introduced."_ [**Capitalism, Socialism and Democracy**, p. 104]
+introduced."_ [ **Capitalism, Socialism and Democracy** , p. 104]
 
 This analysis presents a picture of capitalism more like it actually is rather
 than what economics would like it to be. However, this does not mean that its
@@ -2723,8 +2716,8 @@ workers. As Cornelius Castoriadis argues, capitalism _"does not utilise a
 socially neutral technology for capitalist ends. Capitalism has created
 capitalist technology, which is by no means neutral. The real essence of
 capitalist technology is not to develop production for production's sake: It
-is to subordinate and dominate the producers."_ [**Political and Social
-Writings**, vol. 2, p. 104] Therefore, "innovation" (technological
+is to subordinate and dominate the producers."_ [ **Political and Social
+Writings** , vol. 2, p. 104] Therefore, "innovation" (technological
 improvement) can be used to increase the power of capital over the workforce,
 to ensure that workers will do as they are told. In this way innovation can
 maximise surplus value production by trying to increase domination during
@@ -2760,7 +2753,7 @@ rewards of the entrepreneurialism their workforce produce. This, in turn,
 reduces the scope for innovation as this division of society into people who
 do mental and physical labour _"destroy[s] the love of work and the capacity
 for invention"_ and under such a system, the worker _"lose[s] his intelligence
-and his spirit of invention."_ [Kropotkin, **The Conquest of Bread**, p. 183
+and his spirit of invention."_ [Kropotkin, **The Conquest of Bread** , p. 183
 and p. 181]
 
 These issues should be a key concern **if** entrepreneurialism **really** were
@@ -2781,22 +2774,22 @@ hierarchy, to business leaders. This implies that they, the bosses, create
 "Austrian" economist Israel Kirzner talks of _"the necessarily indivisible
 entrepreneur"_ who _"is responsible for the entire product, The contributions
 of the factor inputs, being without an entrepreneurial component, are
-irrelevant for the ethical position being taken."_ [_"Producer, Entrepreneur,
+irrelevant for the ethical position being taken."_ [ _"Producer, Entrepreneur,
 and the Right to Property,"_ pp. 185-199, **Perception, Opportunity, and
-Profit**, p. 195] The workforce is part of the _"factor inputs"_ who are
+Profit** , p. 195] The workforce is part of the _"factor inputs"_ who are
 considered _"irrelevant."_ He quotes economist Frank Knight to bolster this
 analysis that the entrepreneur solely creates wealth and, consequently,
 deserves his profits:
 
-> _ "Under the enterprise system, a special social class, the businessman,
-direct economic activity: **they are in the strict sense the producers, while
-the great mass of the population merely furnishes them with productive
-services, placing their persons and their property at the disposal of this
-class.**"_ [quoted by Kirzner, **Op. Cit.**, p. 189]
+> _"Under the enterprise system, a special social class, the businessman,
+> direct economic activity: **they are in the strict sense the producers,
+> while the great mass of the population merely furnishes them with productive
+> services, placing their persons and their property at the disposal of this
+> class.** "_ [quoted by Kirzner, **Op. Cit.** , p. 189]
 
 If, as Chomsky stresses, the capitalist firm is organised in a fascist way,
 the "entrepreneurial" defence of profits is its ideology, its
-**"Führerprinzip"** (the German for _"leader principle"_). This ideology sees
+**"Führerprinzip"** (the German for _"leader principle"_ ). This ideology sees
 each organisation as a hierarchy of leaders, where every leader (Führer, in
 German) has absolute responsibility in his own area, demands absolute
 obedience from those below him and answers only to his superiors. This
@@ -2828,15 +2821,15 @@ of the workers _"who have added to the original invention"_ little additions
 and contributions _"without which the most fertile idea would remain
 fruitless."_ Nor does the idea itself develop out of nothing as _"every
 invention is a synthesis, the resultant of innumerable inventions which have
-preceded it."_ [**Op. Cit.**, p. 30] Thus Cornelius Castoriadis:
+preceded it."_ [ **Op. Cit.** , p. 30] Thus Cornelius Castoriadis:
 
-> _ "The capitalist organisation of production is profoundly contradictory . .
-. It claims to reduce the worker to a limited and determined set of tasks, but
-it is obliged at the same time to rely upon the universal capacities he
-develops both as a function of and in opposition to the situation in which he
-is placed . . . Production can be carried out only insofar as the worker
-himself organises his work and goes beyond his theoretical role of pure and
-simply executant,"_ [**Political and Social Writings**, vol. 2, p. 181]
+> _"The capitalist organisation of production is profoundly contradictory . .
+> . It claims to reduce the worker to a limited and determined set of tasks,
+> but it is obliged at the same time to rely upon the universal capacities he
+> develops both as a function of and in opposition to the situation in which
+> he is placed . . . Production can be carried out only insofar as the worker
+> himself organises his work and goes beyond his theoretical role of pure and
+> simply executant,"_ [ **Political and Social Writings** , vol. 2, p. 181]
 
 Moreover, such a hierarchical organisation cannot help but generate wasted
 potential. Most innovation is the cumulative effect of lots of incremental
@@ -2851,21 +2844,21 @@ senior management awarding itself a huge bonus for "cutting costs." What
 worker in his right mind would do something to help their worst enemy? As
 such, capitalism hinders innovation:
 
-> _ "capitalism divides society into a narrow stratum of directors (whose
-function is to decide and organise everything) and the vast majority of the
-population, who are reduced to carrying out (executing) the decisions made by
-these directors. As a result of this very fact, most people experience their
-own lives as something alien to them . . . It is nonsensical to seek to
-organise people . . . as if they were mere objects . . . In real life,
-capitalism is obliged to base itself on people's capacity for self-
-organisation, on the individual and collective creativity of the producers.
-Without making use of these abilities the system would not survive a day. But
-the whole 'official' organisation of modern society both ignores and seeks to
-suppress these abilities to the utmost. The result is not only an enormous
-waste due to untapped capacity. The system does more: It **necessarily**
-engenders opposition, a struggle against it by those upon whom it seeks to
-impose itself . . . The net result is not only waste but perpetual conflict."_
-[Castoriadis, **Op. Cit.**, p. 93]
+> _"capitalism divides society into a narrow stratum of directors (whose
+> function is to decide and organise everything) and the vast majority of the
+> population, who are reduced to carrying out (executing) the decisions made
+> by these directors. As a result of this very fact, most people experience
+> their own lives as something alien to them . . . It is nonsensical to seek
+> to organise people . . . as if they were mere objects . . . In real life,
+> capitalism is obliged to base itself on people's capacity for self-
+> organisation, on the individual and collective creativity of the producers.
+> Without making use of these abilities the system would not survive a day.
+> But the whole 'official' organisation of modern society both ignores and
+> seeks to suppress these abilities to the utmost. The result is not only an
+> enormous waste due to untapped capacity. The system does more: It
+> **necessarily** engenders opposition, a struggle against it by those upon
+> whom it seeks to impose itself . . . The net result is not only waste but
+> perpetual conflict."_ [Castoriadis, **Op. Cit.** , p. 93]
 
 While workers make the product and make entrepreneurial decisions every day,
 in the face of opposition of the company hierarchy, the benefits of those
@@ -2886,7 +2879,7 @@ technical progress is conducted by _"teams of trained specialists, who turn
 out what is required and make it work in predictable ways"_ and so _"[b]ureau
 and committee work tends to replace individual action."_ This meant that _"the
 leading man . . . is becoming just another office worker -- and one who is not
-always difficult to replace."_ [**Op. Cit.**, p. 133] And we must also point
+always difficult to replace."_ [ **Op. Cit.** , p. 133] And we must also point
 out that many new innovations come from individuals who combine mental and
 physical labour outside of capitalist companies. Given this, it is difficult
 to argue that profits are the result of innovation of a few exceptional people
@@ -2902,7 +2895,7 @@ to meet social and individual needs (i.e. practice "entrepreneurialism"). This
 can be seen from various experiments in workers' control where increased
 equality within the workplace actually increases productivity and innovation.
 As these experiments show workers, when given the chance, can develop numerous
-"good ideas" **and**, equally as important, produce them. A capitalist with a
+"good ideas" **and** , equally as important, produce them. A capitalist with a
 "good idea," on the other hand, would be powerless to produce it without
 workers and it is this fact that shows that innovation, in and of itself, is
 not the source of surplus value.
@@ -2929,10 +2922,10 @@ support claims for the efficiency of labour managed and worker-controlled
 firms . . . In addition, studies that compare the economic preference of
 groups of traditionally and worker-controlled forms point to the stronger
 performance of the latter."_ [Christopher Eaton Gunn, **Workers' Self-
-Management in the United States**, pp. 42-3] This is confirmed by David Noble,
-who points out that _"the self-serving claim"_ that _"centralised management
-authority is the key to productivity"_ is _"belied by nearly every
-sociological study of work."_ [**Progress without People**, p. 65]
+Management in the United States** , pp. 42-3] This is confirmed by David
+Noble, who points out that _"the self-serving claim"_ that _"centralised
+management authority is the key to productivity"_ is _"belied by nearly every
+sociological study of work."_ [ **Progress without People** , p. 65]
 
 During the Spanish Revolution of 1936-39, workers self-managed many factories
 following the principles of participatory democracy. Productivity and
@@ -2942,8 +2935,8 @@ Peirats notes, industry was _"transformed from top to bottom . . . there were
 achieved feats pregnant with significance for people who had always striven to
 deny the reality of the wealth of popular initiatives unveiled by
 revolutions."_ Workers made suggestions and presented new inventions,
-_"offering the product of their discoveries, genius or imaginings."_ [**The
-CNT in the Spanish Revolution**, vol. 2, p. 86]
+_"offering the product of their discoveries, genius or imaginings."_ [ **The
+CNT in the Spanish Revolution** , vol. 2, p. 86]
 
 The metal-working industry is a good example. As Augustine Souchy observes, at
 the outbreak of the Civil War, the metal industry in Catalonia was _"very
@@ -2957,8 +2950,8 @@ expertise of the workers in building new machinery for the manufacture of arms
 and munitions. Very few machines were imported. In a short time, two hundred
 different hydraulic presses of up to 250 tons pressure, one hundred seventy-
 eight revolving lathes, and hundreds of milling machines and boring machines
-were built."_ [**The Anarchist Collectives: Workers' Self-management in the
-Spanish Revolution, 1936-1939**, Sam Dolgoff (ed.), p. 96]
+were built."_ [ **The Anarchist Collectives: Workers' Self-management in the
+Spanish Revolution, 1936-1939** , Sam Dolgoff (ed.), p. 96]
 
 Similarly, there was virtually no optical industry in Spain before the July
 revolution, only some scattered workshops. After the revolution, the small
@@ -2971,7 +2964,7 @@ instruments, industrial glassware in different colours, and certain scientific
 instruments. It also manufactured and repaired optical equipment for the
 fighting fronts . . . What private capitalists failed to do was accomplished
 by the creative capacity of the members of the Optical Workers' Union of the
-CNT."_ [**Op. Cit.**, pp. 98-99]
+CNT."_ [ **Op. Cit.** , pp. 98-99]
 
 More recently, the positive impact of workers' control has been strikingly
 confirmed in studies of the Mondragon co-operatives in Spain, where workers
@@ -2979,8 +2972,8 @@ are democratically involved in production decisions and encouraged to
 innovate. As George Bennello notes, _"Mondragon productivity is very high --
 higher than in its capitalist counterparts. Efficiency, measured as the ratio
 of utilised resources -- capital and labour -- to output, is far higher than
-in comparable capitalist factories."_ [_"The Challenge of Mondragon"_,
-**Reinventing Anarchy, Again**, p. 216]
+in comparable capitalist factories."_ [ _"The Challenge of Mondragon"_ ,
+**Reinventing Anarchy, Again** , p. 216]
 
 The example of Lucas Aerospace, during the 1970s indicates well the creative
 potential waiting to be utilised and wasted due to capitalism. Faced with
@@ -3040,7 +3033,7 @@ not allowed to exercise **on behalf** of a social order that rejects them (and
 which they reject) are now utilised **against** that social order"_ and so
 _"work under capitalism"_ is _"a perpetual waste of creative capacity, and a
 constant struggle between the worker and his own activity."_ [Castoriadis,
-**Op. Cit.**, p. 93 and p. 94]
+**Op. Cit.** , p. 93 and p. 94]
 
 Therefore, rather than being a defence of capitalist profit taking (and the
 inequality it generates) innovation backfires against capitalism. Innovation
@@ -3154,8 +3147,8 @@ as these, even if he has all the capital necessary?"_ And so _"association"_
 becomes _"absolutely necessary and right"_ as the _"work to be accomplished"_
 is _"the common and undivided property of all those who take part therein."_
 If not, shareholders would _"plunder the bodies and souls of the wage-
-workers"_ and it would be _"an outrage upon human dignity and personality."_
-[**General Idea of the Revolution**, p. 219] In other words, as production is
+workers"_ and it would be _"an outrage upon human dignity and personality."_ [
+**General Idea of the Revolution** , p. 219] In other words, as production is
 collective, so is the risk faced and, consequently, risk cannot be used to
 justify excluding people from controlling their own working lives or the fruit
 of their labour.
@@ -3186,17 +3179,17 @@ vast majority of cases, when you buy stock, you give your money not to the
 company but to another private individual. You buy your share of stock from
 someone who is cashing in his share. Not a nickel of your money goes to the
 company itself. The company's profits would have been exactly the same, with
-or without your stock purchase."_ [**After Capitalism**, p. 37] In fact
+or without your stock purchase."_ [ **After Capitalism** , p. 37] In fact
 between 1952 and 1997, about 92% of investment was paid for by firms' own
 internal funds and so _"the stock market contributes virtually nothing to the
 financing of outside investment."_ Even new stock offerings only accounted for
 4% of non-financial corporations capital expenditures. [Doug Henwood, **Wall
-Street**, p. 72] _"In spite of the stock market's large symbolic value, it is
+Street** , p. 72] _"In spite of the stock market's large symbolic value, it is
 notorious that it has relatively little to do with the production of goods and
 services,"_ notes David Ellerman, _"The overwhelming bulk of stock
 transactions are in second-hand shares so the capital paid for shares usually
 goes to other stock traders, not to productive enterprises issuing new
-shares."_ [**The Democratic worker-owned firm**, p. 199]
+shares."_ [ **The Democratic worker-owned firm** , p. 199]
 
 In other words, most investment is simply the "risk" associated with buying a
 potential income stream in an uncertain world. The buyer's action has not
@@ -3225,7 +3218,7 @@ a large and negative impact on the real economy and it seems ironic to reward
 such behaviour. Particularly as the high rate of return is meant to compensate
 for the risk of investing in the stock market, but in fact most of this risk
 results from the endogenous stability of the market itself. [Steve Keen,
-**Debunking Economics**, pp. 249-50]
+**Debunking Economics** , pp. 249-50]
 
 Appeals to "risk" to justify capitalism are somewhat ironic, given the
 dominant organisational form within capitalism -- the corporation. These firms
@@ -3244,7 +3237,7 @@ shares, they reasoned, he or she should be immune to liability for anything
 beyond that, regardless of what happened to the company." Limited liability's
 _"sole purpose . . . is to shield them from legal responsibility for
 corporations' actions"_ as well as reducing the risks of investing (unlike for
-small businesses). [**The Corporation**, p. 11 and p. 79]
+small businesses). [ **The Corporation** , p. 11 and p. 79]
 
 This means that stock holders (investors) in a corporation hold no liability
 for the corporation's debts and obligations. As a result of this state granted
@@ -3279,15 +3272,15 @@ transferred in various ways to Northern taxpayers through the IMP and other
 devices . . . The whole system is one in which the borrowers are released from
 the responsibility. That's transferred to the impoverished mass of the
 population in their own countries. And the lenders are protected from risk."_
-[Noam Chomsky, **Propaganda and the Public Mind**, p. 125]
+[Noam Chomsky, **Propaganda and the Public Mind** , p. 125]
 
 Capitalism, ironically enough, has developed precisely by externalising risk
 and placing the burden onto other parties -- suppliers, creditors, workers
 and, ultimately, society as a whole. _"Costs and risks are socialised,"_ in
-other words, _"and the profit is privatised."_ [Noam Chomsky, **Op. Cit.**, p.
-185] To then turn round and justify corporate profits in terms of risk seems
-to be hypocritical in the extreme, particularly by appealing to examples of
-small business people whom usually face the burdens caused by corporate
+other words, _"and the profit is privatised."_ [Noam Chomsky, **Op. Cit.** ,
+p. 185] To then turn round and justify corporate profits in terms of risk
+seems to be hypocritical in the extreme, particularly by appealing to examples
+of small business people whom usually face the burdens caused by corporate
 externalising of risk! Doug Henwood states the obvious when he writes
 shareholder _"liabilities are limited by definition to what they paid for the
 shares"_ and _"they can always sell their shares in a troubled firm, and if
@@ -3296,8 +3289,8 @@ hardly a stumble. Employees, and often customers and suppliers, are rarely so
 well-insulated."_ Given that the _"signals emitted by the stock market are
 either irrelevant or harmful to real economic activity, and that the stock
 market itself counts for little or nothing as a source of finance"_ and the
-argument for risk as a defence of profits is extremely weak. [**Op. Cit.**, p.
-293 and p. 292]
+argument for risk as a defence of profits is extremely weak. [ **Op. Cit.** ,
+p. 293 and p. 292]
 
 Lastly, the risk theory of profit fails to take into account the different
 risk-taking abilities of that derive from the unequal distribution of
@@ -3306,7 +3299,7 @@ their risks by putting small bits of their property into a large number of
 concerns, a worker cannot easily put small bits of his effort into a large
 number of different jobs. This presumably is the main reason we find risk-
 bearing capital hiring labour"_ and not vice versa. [quoted by David
-Schweickart, **Against Capitalism**, pp. 129-130]
+Schweickart, **Against Capitalism** , pp. 129-130]
 
 It should be noted that until the early nineteenth century, self-employment
 was the normal state of affairs and it has declined steadily to reach, at
@@ -3352,8 +3345,8 @@ be dependent on the class position of the individuals involved. As Schweickart
 notes, _"large numbers of people simply do not have any discretionary funds to
 invest. They can't play at all . . . among those who can play, some are better
 situated than others. Wealth gives access to information, expert advice, and
-opportunities for diversification that the small investor often lacks."_
-[**After Capitalism**, p. 34] As such, profits do not reflect the real cost of
+opportunities for diversification that the small investor often lacks."_ [
+**After Capitalism** , p. 34] As such, profits do not reflect the real cost of
 risk but rather the scarcity of people with anything to risk (i.e. inequality
 of wealth).
 
@@ -3381,7 +3374,7 @@ of place: _"Speculators may do no harm as bubbles on a steady stream of
 enterprise. But the position is serious when enterprise becomes the bubble on
 a whirlpool of speculation. When the capital development of a country becomes
 a by-product of the activities of a casino, the job is likely to be ill-
-done."_ [**The General Theory of Employment, Interest and Money**, p. 159]
+done."_ [ **The General Theory of Employment, Interest and Money** , p. 159]
 
 Appeals of risk to justify capitalism simply exposes that system as little
 more than a massive casino. In order for such a system to be fair, the
@@ -3397,12 +3390,12 @@ financial markets than is lost. How is this possible? It is possible only
 because those who engage in real productive activity receive less than that to
 which they would be entitled were they fully compensated for what they
 produce. The reward, allegedly for risk, derives from this discrepancy."_
-[David Schweickart, **Op. Cit.**, p. 38] In other words, people would not risk
-their money unless they could make a profit and the willingness to risk is
-dependent on current and expected profit levels and so cannot explain them. To
-focus on risk simply obscures the influence that property has upon the ability
-to enter a given industry (i.e. to take a risk in the first place) and so
-distracts attention away from the essential aspects of how profits are
+[David Schweickart, **Op. Cit.** , p. 38] In other words, people would not
+risk their money unless they could make a profit and the willingness to risk
+is dependent on current and expected profit levels and so cannot explain them.
+To focus on risk simply obscures the influence that property has upon the
+ability to enter a given industry (i.e. to take a risk in the first place) and
+so distracts attention away from the essential aspects of how profits are
 actually generated (i.e. away from production and its hierarchical
 organisation under capitalism).
 
@@ -3414,7 +3407,7 @@ source of surplus value or justified it, the riskiest investment and poorest
 investor would receive the highest returns and this is not the case. In
 summary, the "risk" defence of capitalism does not convince.
 
-[‹ C.1 What is wrong with economics?](secC1.md "Go to previous page" )
-[up](secCcon.md "Go to parent page" ) [C.3 What determines the distribution
-between labour and capital? ›](secC3.md "Go to next page" )
+[‹ C.1 What is wrong with economics?](secC1.md "Go to previous page")
+[up](secCcon.md "Go to parent page") [C.3 What determines the distribution
+between labour and capital? ›](secC3.md "Go to next page")
 

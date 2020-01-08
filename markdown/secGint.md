@@ -6,10 +6,10 @@ of non-labour income (such as profits, interest and rent) as well as
 capitalist property rights (particularly in land). While aiming for a free
 market system, they considered laissez-faire capitalism to be based on various
 kinds of state enforced class monopoly which ensured that labour was subjected
-to rule, domination and exploitation by capital. As such it is deeply
-**anti**-capitalist and many individualist anarchists, including its leading
-figure Benjamin Tucker, explicitly called themselves socialists (indeed,
-Tucker often referred to his theory as **_"Anarchistic-Socialism"_**).
+to rule, domination and exploitation by capital. As such it is deeply **anti**
+-capitalist and many individualist anarchists, including its leading figure
+Benjamin Tucker, explicitly called themselves socialists (indeed, Tucker often
+referred to his theory as **_"Anarchistic-Socialism"_** ).
 
 So, in this section of our anarchist FAQ we indicate why the individualist
 anarchists cannot be classified as "ancestors" of the bogus libertarians of
@@ -36,15 +36,15 @@ individualist-anarchism (which, of course, the right-"libertarian" does).
 Somewhat ironically, this attempt by right-libertarians" to exclude
 individualist anarchism from socialism parallels an earlier attempt by state
 socialists to do the same. Tucker furiously refuted such attempts in an
-article entitled _"Socialism and the Lexicographers"_, arguing that _"the
+article entitled _"Socialism and the Lexicographers"_ , arguing that _"the
 Anarchistic Socialists are not to be stripped of one half of their title by
-the mere dictum of the last lexicographer."_ [**Instead of a Book**, p. 365]
+the mere dictum of the last lexicographer."_ [ **Instead of a Book** , p. 365]
 
 Nevertheless, in the individualists we find anarchism coming closest to
 "classical" liberalism and being influenced by the ideas of Herbert Spencer, a
 forefather of "libertarian" capitalism (of the minimal state variety). As
 Kropotkin summarised, their ideas were _"a combination of those of Proudhon
-with those of Herbert Spencer."_ [**Anarchism**, p. 296] What the
+with those of Herbert Spencer."_ [ **Anarchism** , p. 296] What the
 "anarcho"-capitalist is trying is to ignore Proudhon's influence (i.e. the
 socialist aspect of their theories) which just leaves Spencer, who was a
 right-wing liberal. To reduce individualist anarchism so is to destroy what
@@ -61,8 +61,9 @@ welfare. But never once does he call attention to the far more deadly and
 deep-seated evils growing out of the innumerable laws creating privilege and
 sustaining monopoly."_ Unsurprisingly, he considered Spencer as a _"champion
 of the capitalistic class."_ [quoted by James J. Martin, **Men Against the
-State**, p. 240] As we will discuss in [section G.3](secG3.md), it is likely
-that he would have drawn the same conclusion about "anarcho"-capitalism.
+State** , p. 240] As we will discuss in [section G.3](secG3.md), it is
+likely that he would have drawn the same conclusion about
+"anarcho"-capitalism.
 
 This does not mean that the majority thread within the anarchist movement is
 uncritical of individualist anarchism. Far from it! Social anarchists have
@@ -70,7 +71,7 @@ argued that this influence of non-anarchist ideas means that while its
 _"criticism of the State is very searching, and [its] defence of the rights of
 the individual very powerful,"_ like Spencer it _"opens . . . the way for
 reconstituting under the heading of 'defence' all the functions of the
-State."_ [Kropotkin, **Op. Cit.**, p. 297] This flows, social anarchists
+State."_ [Kropotkin, **Op. Cit.** , p. 297] This flows, social anarchists
 argue, from the impact of liberal principles and led some individualist
 anarchists like Benjamin Tucker to support contract theory in the name of
 freedom, without being aware of the authoritarian social relationships that
@@ -110,18 +111,18 @@ context in which this aspect of individualist thought exists. As David Wieck
 pointed out:
 
 > _"Out of the history of anarchist thought and action Rothbard has pulled
-forth a single thread, the thread of individualism, and defines that
-individualism in a way alien even to the spirit of a Max Stirner or a Benjamin
-Tucker, whose heritage I presume he would claim -- to say nothing of how alien
-is his way to the spirit of Godwin, Proudhon, Bakunin, Kropotkin, Malatesta,
-and the historically anonymous persons who through their thoughts and action
-have tried to give anarchism a living meaning. Out of this thread Rothbard
-manufactures one more bourgeois ideology."_ [**Anarchist Justice**, pp.
-227-228]
+> forth a single thread, the thread of individualism, and defines that
+> individualism in a way alien even to the spirit of a Max Stirner or a
+> Benjamin Tucker, whose heritage I presume he would claim -- to say nothing
+> of how alien is his way to the spirit of Godwin, Proudhon, Bakunin,
+> Kropotkin, Malatesta, and the historically anonymous persons who through
+> their thoughts and action have tried to give anarchism a living meaning. Out
+> of this thread Rothbard manufactures one more bourgeois ideology."_ [
+> **Anarchist Justice** , pp. 227-228]
 
 It is with this in mind that we discuss the ideas of people like Tucker. As
 this section of the FAQ will indicate, even at its most liberal,
-individualist, extreme anarchism was fundamentally **anti**-capitalist. Any
+individualist, extreme anarchism was fundamentally **anti** -capitalist. Any
 concepts which "anarcho"-capitalism imports from the individualist tradition
 ignore both the theoretical underpinnings of their ideas as well as the social
 context of self-employment and artisan production within which those concepts
@@ -129,10 +130,10 @@ arose, thus turning them into something radically different from what was
 intended by their originators. As we discuss in [section
 G.1.4](secG1.md#secg14) the social context in which individualist anarchism
 developed is essential to understanding both its politics and its limitations
-(_"Anarchism in America is not a **foreign importation** but a product of the
+( _"Anarchism in America is not a **foreign importation** but a product of the
 social conditions of this country and its historical traditions,"_ although it
 is _"true that American anarchism was also influenced later by European
-ideas."_ [Rudolf Rocker, **Pioneers of American Freedom**, p. 163]).
+ideas."_ [Rudolf Rocker, **Pioneers of American Freedom** , p. 163]).
 
 Saying that, it would be a mistake to suggest (as some writers have) that
 individualist anarchism can be viewed purely in American terms. While
@@ -160,7 +161,7 @@ the First International while individualist anarchists Joseph Labadie and Dyer
 Lum where organisers of the **Knights of Labor** union along with Albert and
 Lucy Parsons. Lum later joined the anarcho-communist inspired **International
 Working People's Association** (IWPA) and edited its English language paper
-(the **Alarm**) when Parson was imprisoned awaiting execution. All forms of
+(the **Alarm** ) when Parson was imprisoned awaiting execution. All forms of
 anarchism were, in other words, a combination of European and American
 influences, both in terms of ideas and in terms of social experiences and
 struggles, even organisations.
@@ -170,7 +171,7 @@ While red-baiting and cries of "Un-American" may incline some to stress the
 appropriate that tendency for their own ends), both wings of the US movement
 had native-born and foreign members, aspects and influences (and, as Rocker
 noted, the _"so-called white civilisation of [the American] continent is the
-work of European immigrants."_ [**Op. Cit.**, p. 163]). While both sides
+work of European immigrants."_ [ **Op. Cit.** , p. 163]). While both sides
 tended to denounce and attack the other (particularly after the Haymarket
 events), they had more in common than the likes of Benjamin Tucker and Johann
 Most would have been prepared to admit and each tendency, in its own way,
@@ -185,30 +186,30 @@ anarchist movement in the U.S. at the time. Nothing could be farther from the
 truth. The collectivist branch of anarchism was much stronger among radicals
 and workers during the late nineteenth century and early twentieth century
 than the individualist brand. Before the Civil War, the opposite would be
-true."_ [Greg Hall, **Social Anarchism**, no. 30, pp. 90-91]
+true."_ [Greg Hall, **Social Anarchism** , no. 30, pp. 90-91]
 
 By the 1880s, social anarchism had probably exceeded the size of the "home-
 grown" individualists in the United States. The IWPA had some five thousand
 members at its peak with perhaps three times as many supporters. [Paul Avrich,
-**The Haymarket Tragedy**, p. 83] Its journals had an aggregate circulation of
-over 30,000. [George Woodcock, **Anarchism**, p. 395] In contrast, the leading
-individualist newspaper **Liberty** _"probably never had more than 600 to 1000
-subscribers, but it was undoubtedly read by more than that."_ [Charles H.
-Hamilton, _"Introduction"_, p. 1-19, **Benjamin R. Tucker and the Champions of
-Liberty**, Coughlin, Hamilton and Sullivan (eds.), p. 10] The repression after
-Haymarket took its toll and the progress of social anarchism was hindered for
-a decade. However, _"[b]y the turn of the century, the anarchist movement in
-America had become predominantly communist in orientation."_ [Paul Avrich,
-**Anarchist Voices**, p. 5] As an added irony for those who stress the
-individualist nature of anarchism in America while dismissing social anarchism
-as a foreign import, the first American newspaper to use the name **"An-
-archist"** was published in Boston in 1881 by anarchists within the social
-revolutionary branch of the movement. [Paul Avrich, **The Haymarket Tragedy**,
-p. 57] Equally ironic, given the appropriation of the term by the American
-right, the first anarchist journal to use the term "libertarian" (**La
-Libertaire, Journal du Mouvement Social**) was published in New York between
-1858 and 1861 by French communist-anarchist Joseph Déjacque. [Max Nettlau, **A
-Short History of Anarchism**, pp. 75-6]
+**The Haymarket Tragedy** , p. 83] Its journals had an aggregate circulation
+of over 30,000. [George Woodcock, **Anarchism** , p. 395] In contrast, the
+leading individualist newspaper **Liberty** _"probably never had more than 600
+to 1000 subscribers, but it was undoubtedly read by more than that."_ [Charles
+H. Hamilton, _"Introduction"_ , p. 1-19, **Benjamin R. Tucker and the
+Champions of Liberty** , Coughlin, Hamilton and Sullivan (eds.), p. 10] The
+repression after Haymarket took its toll and the progress of social anarchism
+was hindered for a decade. However, _"[b]y the turn of the century, the
+anarchist movement in America had become predominantly communist in
+orientation."_ [Paul Avrich, **Anarchist Voices** , p. 5] As an added irony
+for those who stress the individualist nature of anarchism in America while
+dismissing social anarchism as a foreign import, the first American newspaper
+to use the name **"An-archist"** was published in Boston in 1881 by anarchists
+within the social revolutionary branch of the movement. [Paul Avrich, **The
+Haymarket Tragedy** , p. 57] Equally ironic, given the appropriation of the
+term by the American right, the first anarchist journal to use the term
+"libertarian" ( **La Libertaire, Journal du Mouvement Social** ) was published
+in New York between 1858 and 1861 by French communist-anarchist Joseph
+Déjacque. [Max Nettlau, **A Short History of Anarchism** , pp. 75-6]
 
 All this is not to suggest that individualist anarchism does not have American
 roots nor that many of its ideas and visions were not significantly shaped by
@@ -224,8 +225,8 @@ the first place. Thus the rise of capitalism in America meant the rise of an
 anarchism more suitable to the social conditions and social relationships
 produced by that change. Unsurprisingly, therefore, individualist anarchism
 remains the minority trend in American anarchism to this day with such
-comrades as Joe Peacott (see his pamphlet **Individualism Reconsidered**),
-Kevin Carson (see his book **Studies in Mutualist Political Economy**) and
+comrades as Joe Peacott (see his pamphlet **Individualism Reconsidered** ),
+Kevin Carson (see his book **Studies in Mutualist Political Economy** ) and
 Shawn Wilbur (who has painstakingly placed many rare early individualist and
 mutualist anarchist works onto the internet) keeping its ideas alive.
 
@@ -245,7 +246,7 @@ legal."_ This, however, did not stop her asserting that _"contemporary
 anarcho-capitalists are descendants of nineteenth-century individualist
 anarchists such as Josiah Warren, Lysander Spooner, and Benjamin Tucker."_
 [Susan Love Brown, pp. 99-128, _"The Free Market as Salvation from
-Government"_, **Meanings of the Market**, James G. Carrier (ed.), p. 104, p.
+Government"_ , **Meanings of the Market** , James G. Carrier (ed.), p. 104, p.
 107, p. 104 and p. 103] Trust an academic to ignore the question of how
 related **are** two theories which differ on such a key issue as whether to be
 anti-capitalist or not!
@@ -281,12 +282,12 @@ are today being associated with the capitalism that they so clearly despised
 and wished to abolish. As one modern day Individualist Anarchist argues:
 
 > _"It is time that anarchists recognise the valuable contributions of . . .
-individualist anarchist theory and take advantage of its ideas. It would be
-both futile and criminal to leave it to the capitalist libertarians, whose
-claims on Tucker and the others can be made only by ignoring the violent
-opposition they had to capitalist exploitation and monopolistic 'free
-enterprise' supported by the state."_ [J.W. Baker, _"Native American
-Anarchism,"_ pp. 43-62, **The Raven**, vol. 10, no. 1, pp. 61-2]
+> individualist anarchist theory and take advantage of its ideas. It would be
+> both futile and criminal to leave it to the capitalist libertarians, whose
+> claims on Tucker and the others can be made only by ignoring the violent
+> opposition they had to capitalist exploitation and monopolistic 'free
+> enterprise' supported by the state."_ [J.W. Baker, _"Native American
+> Anarchism,"_ pp. 43-62, **The Raven** , vol. 10, no. 1, pp. 61-2]
 
 We hope that this section of the FAQ will go some way to explaining the ideas
 and contributions of individualist anarchism to a new generation of rebels.
@@ -308,6 +309,6 @@ deserve better than to be reduced to footnotes in books defending an even more
 extreme version of the capitalism they spent their lives fighting.
 
 [‹ Section G - Is individualist anarchism capitalistic?](secGcon.md "Go to
-previous page" ) [up](secGcon.md "Go to parent page" ) [G.1 Are
-individualist anarchists anti-capitalist? ›](secG1.md "Go to next page" )
+previous page") [up](secGcon.md "Go to parent page") [G.1 Are individualist
+anarchists anti-capitalist? ›](secG1.md "Go to next page")
 

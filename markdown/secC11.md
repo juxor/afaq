@@ -15,7 +15,7 @@ For the right, Chile was pointed to as a casebook in sound economics and is
 held up as an example of the benefits of capitalism. Milton Friedman, for
 example, stated in 1982 that Military Junta _"has supported a fully free-
 market economy as a matter of principle. Chile is an economic miracle."_
-[quoted by Elton Rayack, **Not so Free to Choose**, p. 37] Then US President
+[quoted by Elton Rayack, **Not so Free to Choose** , p. 37] Then US President
 George Bush praised the Chilean economic record in December 1990 when he
 visited that country, stating Chile deserved its _"reputation as an economic
 model"_ for others to follow.
@@ -24,7 +24,7 @@ However, the reality of the situation is radically different. As Chilean
 expert Peter Winn argues, _"[w]e question whether Chile's neoliberal boom . .
 . should be regarded as a miracle. When confronted by such a claim, scholars
 and students should always ask: a miracle for **whom** \-- and at what cost?"_
-[_"Introduction"_, Peter Winn (ed.), **Victims of the Chilean Miracle**, p.
+[ _"Introduction"_ , Peter Winn (ed.), **Victims of the Chilean Miracle** , p.
 12] As we will prove, Chile's "economic miracle" is **very** class dependent.
 For its working class, the neo-liberal reforms of the Pinochet regime have
 resulted in a worsening of their lives; if you are a capitalist then it has
@@ -36,22 +36,22 @@ liberalism is significant. They did not have a choice. General Pinochet was
 the figure-head of a military coup in 1973 against the democratically elected
 left-wing government led by President Allende. This coup was the culmination
 of years of US interference by the US in Chilean politics and was desired by
-the US **before** Allende took office in November 1970 (_"It is the firm and
+the US **before** Allende took office in November 1970 ( _"It is the firm and
 continuing policy that Allende be overthrown by a coup,"_ as one CIA memo put
 it in October of that year [quoted by Gregory Palast, _"A Marxist threat to
-cola sales? Pepsi demands a US coup. Goodbye Allende. Hello Pinochet"_, **The
-Observer**, 8/11/1998]). Then American president Richard Nixon imposed an
+cola sales? Pepsi demands a US coup. Goodbye Allende. Hello Pinochet"_ , **The
+Observer** , 8/11/1998]). Then American president Richard Nixon imposed an
 embargo on Chile and began a covert plan to overturn the Allende government.
 In the words of the US ambassador to Chile, the Americas _"will do all in our
 power to condemn Chileans to utmost poverty."_ [quoted by Noam Chomsky,
-**Deterring Democracy**, p. 395]
+**Deterring Democracy** , p. 395]
 
 According to notes taken by CIA director Richard Helms at a 1970 meeting in
 the Oval Office, his orders were to _"make the economy scream."_ This was
 called Project FUBELT and its aims were clear: _"The Director [of the CIA]
 told the group that President Nixon had decided that an Allende regime in
 Chile was not acceptable to the United States. The President asked the Agency
-to prevent Allende from coming to power or to unseat him."_ [_"Genesis of
+to prevent Allende from coming to power or to unseat him."_ [ _"Genesis of
 Project FUBELT"_ document dated September 16, 1970] Not all aid was cut.
 During 1972 and 1973 the US increased aid to the military and increased
 training Chilean military personnel in the United States and Panama. In other
@@ -61,20 +61,20 @@ directly and indirectly, by undermining the Chilean economy.
 Thousands of people were murdered by the forces of "law and order" and
 Pinochet's forces _"are conservatively estimated to have killed over 11,000
 people in his first year in power."_ [P. Gunson, A. Thompson, G. Chamberlain,
-**The Dictionary of Contemporary Politics of South America**, p. 228] Military
-units embarked on an operation called the Caravan of Death to hunt down those
-they considered subversives (i.e. anyone suspected or accused of holding left-
-wing views or sympathies). Torture and rape were used extensively and when
-people did not just disappear, their mutilated bodies were jumped in plain
-view as a warning to others. While the Chilean government's official truth and
-reconciliation committee places the number of disappeared at roughly 3,000,
-church and human rights groups estimate the number is far higher, at over
-10,000. Hundreds of thousands fled into exile. Thus ended Allende's
+**The Dictionary of Contemporary Politics of South America** , p. 228]
+Military units embarked on an operation called the Caravan of Death to hunt
+down those they considered subversives (i.e. anyone suspected or accused of
+holding left-wing views or sympathies). Torture and rape were used extensively
+and when people did not just disappear, their mutilated bodies were jumped in
+plain view as a warning to others. While the Chilean government's official
+truth and reconciliation committee places the number of disappeared at roughly
+3,000, church and human rights groups estimate the number is far higher, at
+over 10,000. Hundreds of thousands fled into exile. Thus ended Allende's
 "democratic road to Socialism." The terror did not end after the coup and
 dictatorship's record on human rights was rightly denounced as barbaric.
 
 Friedman, of course, stressed his _"disagreement with the authoritarian
-political system of Chile."_ [quoted by Rayack, **Op. Cit.**, p. 61] For the
+political system of Chile."_ [quoted by Rayack, **Op. Cit.** , p. 61] For the
 time being we will ignore the obvious contradiction in this "economic
 miracle", i.e. why it almost always takes authoritarian/fascistic states to
 introduce "economic liberty." Rather we will take the right at its word and
@@ -99,27 +99,27 @@ welfare as these, they argued, had restricted Chile's growth by reducing
 competition, lowering growth, artificially increasing wages, and leading to
 inflation. The ultimate goal, Pinochet once said, was to make Chile _"not a
 nation of proletarians, but a nation of entrepreneurs."_ [quoted by Thomas E.
-Skidmore and Peter H. Smith, **Modern Latin America**, p. 137]
+Skidmore and Peter H. Smith, **Modern Latin America** , p. 137]
 
 The role of the Chicago Boys cannot be understated. They had a close
 relationship with the military from 1972, and according to one expert had a
 key role in the coup:
 
-> _ "In August of 1972 a group of ten economists under the leadership of de
-Castro began to work on the formulation of an economic programme that would
-replace [Allende's one]. . . In fact, the existence of the plan was essential
-to any attempt on the part of the armed forces to overthrow Allende as the
-Chilean armed forces did not have any economic plan of their own."_ [Silvia
-Borzutzky, _"The Chicago Boys, social security and welfare in Chile"_, **The
-Radical Right and the Welfare State**, Howard Glennerster and James Midgley
-(eds.), p. 88]
+> _"In August of 1972 a group of ten economists under the leadership of de
+> Castro began to work on the formulation of an economic programme that would
+> replace [Allende's one]. . . In fact, the existence of the plan was
+> essential to any attempt on the part of the armed forces to overthrow
+> Allende as the Chilean armed forces did not have any economic plan of their
+> own."_ [Silvia Borzutzky, _"The Chicago Boys, social security and welfare in
+> Chile"_ , **The Radical Right and the Welfare State** , Howard Glennerster
+> and James Midgley (eds.), p. 88]
 
 This plan also had the backing of certain business interests. Unsurprisingly,
 immediately after the coup, many of its authors entered key Economic
-Ministries as advisers. [Rayack, **Op. Cit.**, p. 52] It is also interesting
+Ministries as advisers. [Rayack, **Op. Cit.** , p. 52] It is also interesting
 to note that _"[a]ccording to the report of the United States Senate on covert
 actions in Chile, the activities of these economists were financed by the
-Central Intelligence Agency (CIA)."_ [Borzutzky, **Op. Cit.**, p. 89]
+Central Intelligence Agency (CIA)."_ [Borzutzky, **Op. Cit.** , p. 89]
 Obviously some forms of state intervention were more acceptable than others.
 
 April 1975 saw the Chicago Boys assume _"what was in effect dictatorial
@@ -133,14 +133,14 @@ policies was a shock-induced depression which resulted in GDP dropping by
 America saw a 3.8% rise), real wages fell to 64.9% of their 1970 level and
 unemployment rising to 20 percent. Even Pinochet _"had to concede that the
 social cost of the shock treatment was greater than he expected."_ [Rayack,
-**Op. Cit.**, p. 56, p. 41 and p. 57] For Friedman, his _"only concern"_ with
+**Op. Cit.** , p. 56, p. 41 and p. 57] For Friedman, his _"only concern"_ with
 the plan was _"whether it would be pushed long enough and hard enough."_
 [quoted by Joseph Collins and John Lear, **Chile's Free-Market Miracle: A
-Second Look**, p. 29] Unsurprisingly, the _"rigorous imposition of the
+Second Look** , p. 29] Unsurprisingly, the _"rigorous imposition of the
 neoliberal economic model after 1975 soon threatened [workers] job security
 too"_ and they _"bore the brunt"_ of the changes in terms of _"lost jobs and
 raised work norms."_ [Winn, _"No Miracle for Us,"_ Peter Winn (ed.), **Op.
-Cit.**, p. 131]
+Cit.** , p. 131]
 
 After the depression of 1975, the economic started to grow again. This is the
 source of claim of an "economic miracle." Friedman, for example, used 1976 as
@@ -149,19 +149,19 @@ shock treatment deepened. This is dishonest as it fails to take into account
 not only the impact of neo-liberal policies but also that a deep recession
 often produces a vigorous upsurge:
 
-> _ "By taking 1975, a recession year in which the Chilean economy declined by
-13 percent, as the starting point of their analysis, the Chicago Boys obscured
-the fact that their 'boom' was more a recovery from the deep recession than a
-new economic expansion. From 1974 to 1981, the Chilean economy grew at a
-modest 1.4 percent a year on average. Even at the height of the 'boom' in
-1980, effective unemployment was so high -- 17 percent -- that 5 percent of
-the workforce were in government make-work programs, a confession of failure
-for neoliberals who believe in the market as self-correcting and who abhor
-government welfare programs. Nor did the Chicago Boys call attention to the
-extreme concentration of capital, precipitous fall in real wages and negative
-redistribution of income that their policies promoted, or their disincentives
-to productive investment."_ [Peter Winn, _"The Pinochet Era"_, **Op. Cit.**,
-pp. 28-9]
+> _"By taking 1975, a recession year in which the Chilean economy declined by
+> 13 percent, as the starting point of their analysis, the Chicago Boys
+> obscured the fact that their 'boom' was more a recovery from the deep
+> recession than a new economic expansion. From 1974 to 1981, the Chilean
+> economy grew at a modest 1.4 percent a year on average. Even at the height
+> of the 'boom' in 1980, effective unemployment was so high -- 17 percent --
+> that 5 percent of the workforce were in government make-work programs, a
+> confession of failure for neoliberals who believe in the market as self-
+> correcting and who abhor government welfare programs. Nor did the Chicago
+> Boys call attention to the extreme concentration of capital, precipitous
+> fall in real wages and negative redistribution of income that their policies
+> promoted, or their disincentives to productive investment."_ [Peter Winn,
+> _"The Pinochet Era"_ , **Op. Cit.** , pp. 28-9]
 
 Between 1975 and 1982, the regime implemented numerous economic reforms based
 on the suggestions of the Chicago Boys and their intellectual gurus Friedman
@@ -171,7 +171,7 @@ as to profit the wealthy. _"The denationalisation process,"_ notes Rayack,
 _"was carried out under conditions that were extremely advantageous for the
 new owners . . . the enterprises were sold at sharply undervalues prices."_
 Only large conglomerates could afford them, so capital became even more
-concentrated. [**Op. Cit.**, p. 67] When it privatised its interests in the
+concentrated. [ **Op. Cit.** , p. 67] When it privatised its interests in the
 forestry processing plants in the country the government followed the
 privatisation of other areas of the economy and they _"were sold at a
 discount, according to one estimate, at least 20 per cent below their value."_
@@ -180,13 +180,13 @@ amounted to a _"subsidy from the national treasury to the buyers of 27 to 69
 percent"_ and so _"[c]ontrol of the common wealth of the entire nation passed
 to a handful of national and foreign interests that captured most of the
 subsidy implicit in the rock bottom prices."_ [Joseph Collins and John Lear,
-**Chile's Free-Market Miracle: A Second Look**, p. 206, p. 54 and p. 59]
+**Chile's Free-Market Miracle: A Second Look** , p. 206, p. 54 and p. 59]
 
 By 1978, the Chicago Boys _"were pressing for new laws that would bring labour
 relations in line with the neoliberal economic model in which the market, not
-the state, would regulate factors of production."_ [Winn, _"The Pinochet
-Era"_, Winn (ed.), **Op. Cit.**, p. 31] According to Pinochet's Minister of
-Labour (1978-81), the Labour relations had been _"modernised"_ and that
+the state, would regulate factors of production."_ [Winn, _"The Pinochet Era"_
+, Winn (ed.), **Op. Cit.** , p. 31] According to Pinochet's Minister of Labour
+(1978-81), the Labour relations had been _"modernised"_ and that
 _"politicised"_ labour leaders and their _"privileged fiefdoms"_ had been
 eliminated, with workers no longer having _"monopolies"_ on job positions.
 Rather than government intervention, negotiation between capital and labour
@@ -194,17 +194,17 @@ was now left to _"individual responsibility and the discipline of the
 market."_ The stated aim was to _"introduce democracy into the world of
 Chilean unions and resolve problems that for decades had been obstacles for
 the progress of workers."_ [quoted by Joseph Collins and John Lear, _"Working
-in Chile's Free Market"_, pp. 10-29, **Latin American Perspectives**, vol. 22,
-No. 1, pp. 10-11 and p. 16] The hypocrisy of a technocratic bureaucrat
+in Chile's Free Market"_ , pp. 10-29, **Latin American Perspectives** , vol.
+22, No. 1, pp. 10-11 and p. 16] The hypocrisy of a technocratic bureaucrat
 appointed by a military dictatorship talking about introducing democracy into
 unions is obvious. The price of labour, it was claimed, now found its correct
 level as set by the "free" market.
 
 All of which explains Friedman's 1991 comment that the _"real miracle of
 Chile"_ was that Pinochet _"support[ed] a free market regime designed by
-principled believers in a free market."_ [**Economic Freedom, Human Freedom,
-Political Freedom**] As to be expected with Friedman, the actual experience of
-implementing his dogmas refuted both them and his assertions on capitalism.
+principled believers in a free market."_ [ **Economic Freedom, Human Freedom,
+Political Freedom** ] As to be expected with Friedman, the actual experience
+of implementing his dogmas refuted both them and his assertions on capitalism.
 Moreover, working class paid the price.
 
 The advent of the "free market" led to reduced barriers to imports _"on the
@@ -212,17 +212,17 @@ ground the quotas and tariffs protected inefficient industries and kept prices
 artificially high. The result was that many local firms lost out to
 multinational corporations. The Chilean business community, which strongly
 supported the coup in 1973, was badly affected."_ [Skidmore and Smith, **Op.
-Cit.**, p. 138] The decline of domestic industry cost thousands of better-
+Cit.** , p. 138] The decline of domestic industry cost thousands of better-
 paying jobs. Looking at the textile sector, firms survived because of
 _"lowered labour costs and increased productivity."_ The sector has _"low real
 wages, which dramatically altered"_ its international competitiveness. In
 other words, the Chilean textile industry _"had restructured itself on the
-back of its workers."_ [Peter Winn, _"No Miracle for Us"_, Winn (ed.), **Op.
-Cit.**, p. 130] The mines were _"enormously profitable after 1973 because of
+back of its workers."_ [Peter Winn, _"No Miracle for Us"_ , Winn (ed.), **Op.
+Cit.** , p. 130] The mines were _"enormously profitable after 1973 because of
 increased labour discipline, the reduction in costs due to the contraction of
 real wages, and an increase in production based on expansion programs
 initiated during the late 1960s."_ [Thomas Miller Klubock, _"Class, Community,
-and Neoliberalism in Chile"_, **Op. Cit.**, p. 241] This was the **real**
+and Neoliberalism in Chile"_ , **Op. Cit.** , p. 241] This was the **real**
 basis of the 1976 to 1981 "economic miracle" Friedman praised in 1982.
 
 As with most neo-liberal experiments, the post-1975 "miracle" was built on
@@ -232,29 +232,29 @@ economy down in its wake."_ It was _"largely short-term speculative capital .
 . . producing a bubble in stock market and real estate values"_ and _"by 1982
 the economy was in shambles and Chile in the throes of its worse economic
 crisis since the depression of the 1930s. A year later, massive social
-protests defied Pinochet's security forces."_ [Winn, **Op. Cit.**, p. 38] Thus
-_"the bottom fell out of the economy"_ and Chile's GDP fell 14% in one year.
-In the textile industry alone, an estimated 35 to 45% of companies failed.
-[Collins and Lear, **Op. Cit.**, p. 15]
+protests defied Pinochet's security forces."_ [Winn, **Op. Cit.** , p. 38]
+Thus _"the bottom fell out of the economy"_ and Chile's GDP fell 14% in one
+year. In the textile industry alone, an estimated 35 to 45% of companies
+failed. [Collins and Lear, **Op. Cit.** , p. 15]
 
 So after 7 years of free(r) market capitalism, Chile faced yet another
 economic crisis which, in terms of unemployment and falling GDP was even
 greater than that experienced during the terrible shock treatment of 1975.
 Real wages dropped sharply, falling in 1983 to 14% below what they had been in
 1970. Bankruptcies skyrocketed, as did foreign debt and unemployment. [Rayack,
-**Op. Cit.**, p. 69] Chile's GNP _"fell by more than 15 percent, while its
+**Op. Cit.** , p. 69] Chile's GNP _"fell by more than 15 percent, while its
 real disposable GNP declined by 19 percent. The industrial sector contracted
 by more than 21 percent and construction by more than 23 percent. Bankruptcies
 tripled . . . It was a crisis comparable to the Great Depression of the 1930s,
 which affected Chile more severely than any other country in the world."_ The
 same can be said of this crisis, for while GNP in Chile feel 14% during
 1982-3, the rest of Latin America experienced 3.5% drop as whole. [Winn, **Op.
-Cit.**, p. 41 and p. 66] By 1983, the Chilean economy was devastated and it
+Cit.** , p. 41 and p. 66] By 1983, the Chilean economy was devastated and it
 was only by the end of 1986 that Gross Domestic Product per capita (barely)
 equalled that of 1970. Unemployment (including those on government make-work
 programmes) had risen to a third of the labour force by mid-1983. By 1986, per
 capita consumption was actually 11% lower than the 1970 level. [Skidmore and
-Smith, **Op. Cit.**, p. 138]
+Smith, **Op. Cit.** , p. 138]
 
 Faced with this massive economic collapse (a collapse that somehow slipped
 Friedman's mind when he was evaluating the Chilean experiment in 1991), the
@@ -276,13 +276,14 @@ economic policies had helped create, but under strict conditions (such as
 making the Chilean public responsible for paying the billions in foreign loans
 contracted by **private** banks and firms). The total bailout cost 3% of
 Chile's GNP for three years, a cost which was passed on to the population
-(this _"socialisation of private debts were both striking and unequal"_). This
-follows the usual pattern of "free market" capitalism -- market discipline for
-the working class, state aid for the elite. During the "miracle," the economic
-gains had been privatised; during the crash the burden for repayment was
-socialised. In fact, the regime's intervention into the economy was so
-extensive that, _"[w]ith understandable irony, critics lampooned the 'Chicago
-road to socialism.'"_ [Winn, **Op. Cit.**, p. 66 and p. 40]
+(this _"socialisation of private debts were both striking and unequal"_ ).
+This follows the usual pattern of "free market" capitalism -- market
+discipline for the working class, state aid for the elite. During the
+"miracle," the economic gains had been privatised; during the crash the burden
+for repayment was socialised. In fact, the regime's intervention into the
+economy was so extensive that, _"[w]ith understandable irony, critics
+lampooned the 'Chicago road to socialism.'"_ [Winn, **Op. Cit.** , p. 66 and
+p. 40]
 
 Significantly, of the 19 banks that the government had privatised, all but
 five failed. These along with the other bankrupt firms fell back into
@@ -295,7 +296,7 @@ profit, generating for the government in profits and taxes 25 percent of its
 total revenues . . . Thus the public companies that had escaped the Chicago
 Boy's privatisations . . . enabled a financially strapped government to
 resuscitate the failed private banks and companies."_ [Collins and Lear,
-**Chile's Free-Market Miracle: A Second Look**, pp. 51-2]
+**Chile's Free-Market Miracle: A Second Look** , pp. 51-2]
 
 Needless to say, the recovery (like the illusionary boom) was paid for by the
 working class. The 1982 crash meant that _"something had to give, and the
@@ -303,46 +304,46 @@ Chicago Boys decided that it would be wages. Wages, they explained, should be
 allowed to find their natural level."_ An 1982 decree _"transferred much of
 the burden of recovery and profitability to workers and became central to
 Chile's economic recovery throughout the rest of the decade."_ [Collins and
-Lear, **Op. Cit.**, p. 20 and p. 19] For the miners, between late 1973 and May
-1983, real average wages dropped by 32.6% and workers' benefits were reduced
-(for example, the free medical attention and health care that had been won in
-the 1920s were dropped). [Thomas Miller Klubock, _"Class, Community, and
-Neoliberalism in Chile,"_ Winn (ed.), **Op. Cit.**, p. 217] As Peter Winn
+Lear, **Op. Cit.** , p. 20 and p. 19] For the miners, between late 1973 and
+May 1983, real average wages dropped by 32.6% and workers' benefits were
+reduced (for example, the free medical attention and health care that had been
+won in the 1920s were dropped). [Thomas Miller Klubock, _"Class, Community,
+and Neoliberalism in Chile,"_ Winn (ed.), **Op. Cit.** , p. 217] As Peter Winn
 summarises:
 
-> _ "Chile's workers, who had paid the social costs of the illusory neoliberal
-'miracle,' now paid as well the highest price for the errors of their nation's
-military rulers and Chicago Boy technocrats and the imprudence of their
-country's capitalists. Plant closing and layoffs drove the effective
-unemployment rate above 30 percent, while real wages for those lucky enough to
-retain their jobs fell by nearly 11 percent in 1979-82 and by some 20 percent
-during the 1980s. In addition, inflation jumped to over 20 percent in both
-1982 and 1983, and the budget surplus gave way to a deficit equal to 3 percent
-of the GNP by 1983. By then, Chile's foreign debt was 13 percent higher than
-its GNP . . . Chile's economy contracted 400 percent more in 1982-83 than the
-rest of Latin America."_ [_"The Pinochet Era"_, Winn (ed.), **Op. Cit.**, pp.
-41-2]
+> _"Chile's workers, who had paid the social costs of the illusory neoliberal
+> 'miracle,' now paid as well the highest price for the errors of their
+> nation's military rulers and Chicago Boy technocrats and the imprudence of
+> their country's capitalists. Plant closing and layoffs drove the effective
+> unemployment rate above 30 percent, while real wages for those lucky enough
+> to retain their jobs fell by nearly 11 percent in 1979-82 and by some 20
+> percent during the 1980s. In addition, inflation jumped to over 20 percent
+> in both 1982 and 1983, and the budget surplus gave way to a deficit equal to
+> 3 percent of the GNP by 1983. By then, Chile's foreign debt was 13 percent
+> higher than its GNP . . . Chile's economy contracted 400 percent more in
+> 1982-83 than the rest of Latin America."_ [ _"The Pinochet Era"_ , Winn
+> (ed.), **Op. Cit.** , pp. 41-2]
 
 Unsurprisingly, for the capitalist class things were somewhat different.
 Private banks _"were bailed out by the government, which spent $6 billion in
 subsidies during 1983-85 (equal to 30 percent of the GNP!) but were made
 subject to strict government regulation designed to assure their solvency.
-Controls were also placed on flows of foreign capital."_ [Winn, **Op. Cit.**,
+Controls were also placed on flows of foreign capital."_ [Winn, **Op. Cit.** ,
 p. 42] The government also raised tariffs from 10% to between 20 and 35% and
-the peso was drastically devalued. [Collins and Lear, **Op. Cit.**, p. 15]
+the peso was drastically devalued. [Collins and Lear, **Op. Cit.** , p. 15]
 Pinochet's state took a more active role in promoting economic activity. For
 example, it developed new export industries which _"benefited from a series of
 subsidies, privatisations, and deregulations that allowed for unrestricted
 exploitation of natural resources of limited renewability. Equally important
 were low wages, great flexibility of employers vis-à-vis workers, and high
-levels of unemployment."_ [Collins and Lear, **Op. Cit.**, p. 20] The forestry
-sector was marked by government hand-outs to the already rich. Joseph Collins
-and John Lear argue that the neoliberals' _"stated goals were to curtail
-sharply the direct role of government in forestry and to let market mechanisms
-determine the prices and direct the use of resources. Yet government
-intervention and subsidies were in fact central to reorienting the benefits of
-forestry production away from the rural population towards a handful of
-national and foreign companies."_ [**Op. Cit.**, p. 205]
+levels of unemployment."_ [Collins and Lear, **Op. Cit.** , p. 20] The
+forestry sector was marked by government hand-outs to the already rich. Joseph
+Collins and John Lear argue that the neoliberals' _"stated goals were to
+curtail sharply the direct role of government in forestry and to let market
+mechanisms determine the prices and direct the use of resources. Yet
+government intervention and subsidies were in fact central to reorienting the
+benefits of forestry production away from the rural population towards a
+handful of national and foreign companies."_ [ **Op. Cit.** , p. 205]
 
 By 1986, the economy had stabilised and the crisis was over. However, the
 recovery was paid for by the working class as _"wages stayed low"_ even as the
@@ -362,10 +363,10 @@ over the long term and in a democratic society,"_ namely _"an intensified
 exploitation of the labour force"_ and _"the unregulated exploitation of
 nonrenewable natural resources such as native forests and fishing areas, which
 amounted to a one-time subsidy to domestic conglomerates and multinationals."_
-[Collins and Lear, **Op. Cit.**, **Op. Cit.**, p. 83, p. 84 and p. 35]
+[Collins and Lear, **Op. Cit.** , **Op. Cit.** , p. 83, p. 84 and p. 35]
 
 In summary, _"the experiment has been an economic disaster."_ [Rayack, **Op.
-Cit.**, p. 72]
+Cit.** , p. 72]
 
 ## C.11.1 Who benefited from Chile's "economic miracle"?
 
@@ -385,10 +386,10 @@ working class. By 1976, the third year of Junta rule, real wages had fallen to
 of the 1970 level, only to fall again to 86.7% by 1983. Unemployment,
 excluding those on state make-work programmes, was 14.8% in 1976, falling to
 11.8% by 1980 (this is still double the average 1960s level) only to rise to
-20.3% by 1982. [Rayack, **Op. Cit.**, p. 65] Between 1980 and 1988, the real
+20.3% by 1982. [Rayack, **Op. Cit.** , p. 65] Between 1980 and 1988, the real
 value of wages grew only 1.2 percent while the real value of the minimum wage
 declined by 28.5 percent. During this period, urban unemployment averaged 15.3
-percent per year. [Silvia Borzutzky, **Op. Cit.**, p. 96] Even by 1989 the
+percent per year. [Silvia Borzutzky, **Op. Cit.** , p. 96] Even by 1989 the
 unemployment rate was still at 10% (the rate in 1970 was 5.7%) and the real
 wage was still 8% lower than in 1970. Between 1975 and 1989, unemployment
 averaged 16.7%. In other words, after nearly 15 years of free market
@@ -402,17 +403,17 @@ its "competitiveness."
 
 After 1982, _"stagnant wages and the unequal distribution of income severely
 curtailed buying power for most Chileans, who would not recover 1970
-consumption levels until 1989."_ [Collins and Lear, **Op. Cit.**, p. 25] By
+consumption levels until 1989."_ [Collins and Lear, **Op. Cit.** , p. 25] By
 1988, _"the average real wage had returned to 1980 levels, but it was still
 well below 1970 levels. Moreover, in 1986, some 37 percent of the labour force
 worked in the informal sector, where wages were lower and benefits often
 nonexistent. Many worked for minimum wage which in 1988 provided only half of
 what an average family required to live decently -- and a fifth of the workers
 didn't even earn that. A survey . . . concluded that nearly half of Chileans
-lived in poverty."_ [Winn, _"The Pinochet Era"_, **Op. Cit.**, p. 48] This was
-far more in absolute and relative terms than at any time in the in the
-preceding three decades. [Collins and Lear, _"Working in Chile's Free
-Market"_, **Op. Cit.**, p. 26]
+lived in poverty."_ [Winn, _"The Pinochet Era"_ , **Op. Cit.** , p. 48] This
+was far more in absolute and relative terms than at any time in the in the
+preceding three decades. [Collins and Lear, _"Working in Chile's Free Market"_
+, **Op. Cit.** , p. 26]
 
 Per capita consumption fell by 23% from 1972-87. The proportion of the
 population below the poverty line (the minimum income required for basic food
@@ -421,7 +422,7 @@ health care spending was more than halved from 1973 to 1985, setting off
 explosive growth in poverty-related diseases such as typhoid, diabetes and
 viral hepatitis. On the other hand, while consumption for the poorest 20% of
 the population of Santiago dropped by 30%, it rose by 15% for the richest 20%.
-[Noam Chomsky, **Year 501**, pp. 190-191] The percentage of Chileans without
+[Noam Chomsky, **Year 501** , pp. 190-191] The percentage of Chileans without
 adequate housing increased from 27 to 40 percent between 1972 and 1988,
 despite the claims of the government that it would solve homelessness via
 market friendly policies.
@@ -439,12 +440,12 @@ work week of 48 hours without being paid for the extra hours. Even free-market
 celebrants . . . admit that extra unpaid hours remain a serious problem"_ in
 1989. In fact, it is _"commonly assumed that employees work overtime without
 pay or else"_ and, unsurprisingly, the _"pattern resembles the European
-production systems of the mid-19th century."_ [Collins and Lear, **Op. Cit.**,
-p. 22 pp. 22-3, p. 23, p. 24 and p. 25] Unsurprisingly, as in neo-liberal
+production systems of the mid-19th century."_ [Collins and Lear, **Op. Cit.**
+, p. 22 pp. 22-3, p. 23, p. 24 and p. 25] Unsurprisingly, as in neo-liberal
 America, wages have become divorced from productivity growth. Even in the
 1990s, _"there is evidence that productivity growth outpaced real wage growth
 by as much as a ratio 3:1 in 1993 and 5:1 in 1997."_ [Volker Frank, _"Politics
-without Policy"_, **Op. Cit.**, p. 73]
+without Policy"_ , **Op. Cit.** , p. 73]
 
 Similar comments are possible in regards to the privatised pension system,
 regarded by many right-wingers as a success and a model for other countries.
@@ -452,7 +453,7 @@ However, on closer inspection this system shows its weaknesses -- indeed, it
 can be argued that the system is only a success for those companies making
 extensive profits from it (administration costs of the Chilean system are
 almost 30% of revenues, compared to 1% for the U.S. Social Security system
-[Doug Henwood, **Wall Street**, p. 305]). For working people, it is a
+[Doug Henwood, **Wall Street** , p. 305]). For working people, it is a
 disaster. According to SAFP, the government agency which regulates the system,
 96% of the known workforce were enrolled in February 1995, but 43.4% of these
 were not adding to their funds. Perhaps as many as 60% do not contribute
@@ -471,7 +472,7 @@ illness. From 1982 to 1985 the number of reported workplace accident almost
 doubled. Public health experts estimate, however, that over three-quarters of
 workplace accidents went unreported, in part because over half of the
 workforce is without any kind of accident insurance."_ [Collins and Lear,
-**Op. Cit.**, p. 20 and p. 25]
+**Op. Cit.** , p. 20 and p. 25]
 
 It is interesting to note that when this programme was introduced, the armed
 forces and police were allowed to keep their own generous public plans. If the
@@ -489,7 +490,7 @@ investment. Given the oligopic concentration of wealth and corporate control
 under Pinochet, this meant handing the forced savings of workers over to
 Chile's most powerful capitalists."_ That is, _"to shore up capital markets
 through its transfer of worker savings to Chile's business elites."_ [Winn,
-_"The Pinochet Era"_, **Op. Cit.**, p. 64 and p. 31]
+_"The Pinochet Era"_ , **Op. Cit.** , p. 64 and p. 31]
 
 The same applies to the health system, with the armed forces and national
 police and their dependants having their own public health care system. This
@@ -502,7 +503,7 @@ income). This means that there are three medical systems in Chile. The well-
 funded public one for armed forces and police, a good to excellent private
 system for the elite few and a _"grossly under-funded, rundown, over-
 burdened"_ one _"for some 70% of Chileans."_ Most _"pay more and receive
-less."_ [Collins and Lear, **Op. Cit.**, p. 99 and p. 246]
+less."_ [Collins and Lear, **Op. Cit.** , p. 99 and p. 246]
 
 The impact on individuals extended beyond purely financial considerations,
 with the Chilean labour force _"once accustomed to secure, unionised jobs
@@ -522,14 +523,14 @@ are increasing, while opinion polls show the current crime wave to be the most
 widely condemned aspect of life in the new Chile. 'Relationships are
 changing,' says Betty Bizamar, a 26-year-old trade union leader. 'People use
 each other, spend less time with their family. All they talk about is money,
-things. True friendship is difficult now.'"_ [Duncan Green, **Op. Cit.**, p.
+things. True friendship is difficult now.'"_ [Duncan Green, **Op. Cit.** , p.
 96 and p. 166]
 
 The experiment with free market capitalism also had serious impacts for
 Chile's environment. The capital city of Santiago became one of the most
 polluted cities in the world due the free reign of market forces. With no
 environmental regulation there is general environmental ruin and water
-supplies have severe pollution problems. [Noam Chomsky, **Year 501**, p. 190]
+supplies have severe pollution problems. [Noam Chomsky, **Year 501** , p. 190]
 With the bulk of the country's experts being based on the extraction and low
 processing of natural resources, eco-systems and the environment have been
 plundered in the name of profit and property. The depletion of natural
@@ -541,8 +542,8 @@ political repression and suffered greatly from his state terror. They also
 paid a disproportionate share of the costs of his regime's regressive social
 policies. Workers and their organisations were also the primary targets of
 Pinochet's labour laws and among the biggest losers from his policies of
-privatisation and deindustrialisation."_ [Winn, _"Introduction"_, **Op.
-Cit.**, p. 10]
+privatisation and deindustrialisation."_ [Winn, _"Introduction"_ , **Op.
+Cit.** , p. 10]
 
 Given that the majority of Chile's people where harmed by the economic
 policies of the regime, how can it be termed a "miracle"? The answer can be
@@ -552,16 +553,16 @@ afford to purchase fewer goods. The reduction in the market further threatened
 the business community, which started producing more goods for export and less
 for local consumption. This posed yet another obstacle to economic growth and
 led to increased concentration of income and wealth in the hands of a small
-elite."_ [Skidmore and Smith, **Op. Cit.**, p. 138]
+elite."_ [Skidmore and Smith, **Op. Cit.** , p. 138]
 
 It is the increased wealth of the elite that we see the true "miracle" of
 Chile. When the leader of the Christian Democratic Party returned from exile
 in 1989 he said that economic growth that benefited the top 10% of the
 population had been achieved (Pinochet's official institutions agreed). [Noam
-Chomsky, **Deterring Democracy**, p. 231] This is more than confirmed by other
-sources. According to one expert in the Latin American neo-liberal
+Chomsky, **Deterring Democracy** , p. 231] This is more than confirmed by
+other sources. According to one expert in the Latin American neo-liberal
 revolutions, the elite _"had become massively wealthy under Pinochet."_
-[Duncan Green, **The Silent Revolution**, p. 216] In 1980, the richest 10% of
+[Duncan Green, **The Silent Revolution** , p. 216] In 1980, the richest 10% of
 the population took 36.5% of the national income. By 1989, this had risen to
 46.8%. By contrast, the bottom 50% of income earners saw their share fall from
 20.4% to 16.8% over the same period. Household consumption followed the same
@@ -573,23 +574,23 @@ fall from 7.6% in 1970 to 4.4% in 1989. The next 20% saw their share fall from
 their share of consumption fall from 20.5% to 20.1%. In other words, _"at
 least 60 percent of the population was relatively, if not absolutely, worse
 off."_ [James Petras and Fernando Ignacio Leiva, **Democracy and Poverty in
-Chile**, p. 39 and p. 34]
+Chile** , p. 39 and p. 34]
 
 In summary, _"the distribution of income in Chile in 1988, after a decade of
 free-market policies, was markedly regressive. Between 1978 and 1988 the
 richest 10 percent of Chileans increased their share of national income from
 37 to 47 percent, while the next 30 percent saw their share shrink from 23 to
 18%. The income share of the poorest fifth of the population dropped from 5 to
-4 percent."_ [Collins and Lear, **Op. Cit.**, p. 26] In the last years of
+4 percent."_ [Collins and Lear, **Op. Cit.** , p. 26] In the last years of
 Pinochet's dictatorship, the richest 10% of the rural population saw their
 income rise by 90% between 1987 and 1990. The share of the poorest 25% fell
 from 11% to 7%. The legacy of Pinochet's social inequality could still be
 found in 1993, with a two-tier health care system within which infant
 mortality is 7 per 1000 births for the richest fifth of the population and 40
-per 1000 for the poorest fifth. [Duncan Green, **Op. Cit.**, p. 108 and p.
+per 1000 for the poorest fifth. [Duncan Green, **Op. Cit.** , p. 108 and p.
 101] Between 1970 and 1989, labour's share of the national income fell from
 52.3% to 30.7% (it was 62.8% in 1972). Real wages in 1987 were still 81.2% of
-their 1980-1 level. [Petras and Leiva, **Op. Cit.**, p. 34, p. 25 and p. 170]
+their 1980-1 level. [Petras and Leiva, **Op. Cit.** , p. 34, p. 25 and p. 170]
 
 Thus Chile has been a "miracle" for the capitalist class, with its successes
 being _"enjoyed primarily (and in many areas, exclusively) by the economic and
@@ -598,11 +599,12 @@ wealth and income, the market . . . works to concentrate wealth and income."_
 There has been _"a clear trend toward more concentrated control over economic
 resources . . . Economic concentration is now greater than at any other time
 in Chile's history"_ with multinational corporations reaping _"rich rewards
-from Chile's free-market policies"_ (_"not surprisingly, they enthusiastically
-applaud the model and push to implant it everywhere"_). Ultimately, it is
-_"unconscionable to consider any economic and social project successful when
-the percentage of those impoverished . . . more than doubled."_ [Collins and
-Lear, **Chile's Free-Market Miracle: A Second Look**, p. 252 and p. 253]
+from Chile's free-market policies"_ ( _"not surprisingly, they
+enthusiastically applaud the model and push to implant it everywhere"_ ).
+Ultimately, it is _"unconscionable to consider any economic and social project
+successful when the percentage of those impoverished . . . more than
+doubled."_ [Collins and Lear, **Chile's Free-Market Miracle: A Second Look** ,
+p. 252 and p. 253]
 
 Thus the wealth created by the Chilean economy in during the Pinochet years
 did **not** "trickle down" to the working class (as claimed would happen by
@@ -616,11 +618,11 @@ organisation and collective action to make us stronger than the capitalists
 and why Pinochet repressed them).
 
 Overall, _"in 1972, Chile was the second most equal country in Latin America;
-by 2002 it was the second most **un**equal country in the region."_ [Winn,
-_"The Pinochet Era"_, **Op. Cit.**, p. 56] Significantly, this refutes
+by 2002 it was the second most **un** equal country in the region."_ [Winn,
+_"The Pinochet Era"_ , **Op. Cit.** , p. 56] Significantly, this refutes
 Friedman's 1962 assertion that _"capitalism leads to less inequality . . .
 inequality appears to be less . . . the more highly capitalist the country
-is."_ [**Capitalism and Freedom**, p. 169] As with other countries which
+is."_ [ **Capitalism and Freedom** , p. 169] As with other countries which
 applied Friedman's ideas (such as the UK and US), inequality soared in Chile.
 Ironically, in this as in so many cases, implementing his ideas refuted his
 own assertions.
@@ -640,30 +642,30 @@ economic growth. Neither can be said to be "miraculous."
 
 As far as inflation goes, the Pinochet regime **did** reduce it, eventually.
 At the time of the time of the CIA-backed coup it was around 500% (given that
-the US undermined the Chilean economy -- _"make the economy scream"_, Richard
+the US undermined the Chilean economy -- _"make the economy scream"_ , Richard
 Helms, the director of the CIA -- high inflation would be expected). By 1982
 it was 10% and between 1983 to 1987, it fluctuated between 20 and 31%. It took
 eight years for the Chicago Boys to control inflation and, significantly, this
 involved _"the failure of several stabilisation programmes at an elevated
 social cost . . . In other words, the stabilisation programs they prescribed
 not only were not miraculous -- they were not successful."_ [Winn, _"The
-Pinochet Era"_, **Op. Cit.**, p. 63] In reality, inflation was not controlled
-by means of Friedman's Monetarism but rather by state repression as left-wing
-Keynesian Nicholas Kaldor points out:
+Pinochet Era"_ , **Op. Cit.** , p. 63] In reality, inflation was not
+controlled by means of Friedman's Monetarism but rather by state repression as
+left-wing Keynesian Nicholas Kaldor points out:
 
-> _ "The rate of growth of the money supply was reduced from 570 per cent in
-1973 . . . to 130 per cent in 1977. But this did not succeed in moderating the
-growth of the money GNP or of the rise in prices, because -- lo and behold! --
-no sooner did they succeed in moderating the growth of the money supply down,
-than the velocity of circulation shot up, and inflation was greater with a
-lower rate of growth of the money supply . . . they have managed to bring down
-the rate of growth of prices . . . And how? By the method well tried by
-Fascist dictatorships. It is a kind of incomes policy. It is a prohibition of
-wage increases with concentration camps for those who disobey and, of course,
-the prohibition of trade union activity and so on. And so it was not
-monetarism that brought the Chilean inflation down . . . [It was based on]
-methods which by-passed the price mechanism."_ [**The Economic Consequences of
-Mrs Thatcher**, p. 45]
+> _"The rate of growth of the money supply was reduced from 570 per cent in
+> 1973 . . . to 130 per cent in 1977. But this did not succeed in moderating
+> the growth of the money GNP or of the rise in prices, because -- lo and
+> behold! -- no sooner did they succeed in moderating the growth of the money
+> supply down, than the velocity of circulation shot up, and inflation was
+> greater with a lower rate of growth of the money supply . . . they have
+> managed to bring down the rate of growth of prices . . . And how? By the
+> method well tried by Fascist dictatorships. It is a kind of incomes policy.
+> It is a prohibition of wage increases with concentration camps for those who
+> disobey and, of course, the prohibition of trade union activity and so on.
+> And so it was not monetarism that brought the Chilean inflation down . . .
+> [It was based on] methods which by-passed the price mechanism."_ [ **The
+> Economic Consequences of Mrs Thatcher** , p. 45]
 
 Inflation was controlled by means of state repression and high unemployment, a
 combination of the incomes policy of Hitler and Mussolini and Karl Marx (i.e.,
@@ -695,8 +697,8 @@ regime's growth record we find that it is hardly a "miracle" at all -- the
 celebrated economic growth of the 1980s must be viewed in the light of the two
 catastrophic recessions which Chile suffered in 1975 and 1982. As Edward
 Herman points out, this growth was _"regularly exaggerated by measurements
-from inappropriate bases (like the 1982 trough)."_ [**The Economics of the
-Rich**]
+from inappropriate bases (like the 1982 trough)."_ [ **The Economics of the
+Rich** ]
 
 This point is essential to understand the actual nature of Chile's "miracle"
 growth. For example, supporters of the "miracle" pointed to the period 1978 to
@@ -712,7 +714,7 @@ rather than for the upturn. If we do this we find that Chile had the second
 worse rate of growth in Latin America between 1975 and 1980. The average
 growth in GDP was 1.5% per year between 1974 and 1982, which was lower than
 the average Latin American growth rate of 4.3% and lower than the 4.5% of
-Chile in the 1960's. [Rayack, **Op. Cit.**, p. 64]
+Chile in the 1960's. [Rayack, **Op. Cit.** , p. 64]
 
 This meant that, in per capita terms, Chile's GDP only increased by 1.5% per
 year between 1974-80. This was considerably less than the 2.3% achieved in the
@@ -723,7 +725,7 @@ grew by only 8%, while for Latin America as a whole, it increased by 40%.
 Between the years 1980 and 1982 during which all of Latin America was
 adversely affected by depression conditions, per capita GDP fell by 12.9
 percent, compared to a fall of 4.3 percent for Latin America as a whole.
-[Rayack, **Op. Cit.**, p. 57 and p. 64]
+[Rayack, **Op. Cit.** , p. 57 and p. 64]
 
 Thus, between 1970 and 1989, Chile's GDP _"grew at a slow pace (relative to
 the 1960s and to other Latin American countries over the same period) with an
@@ -732,7 +734,7 @@ rate (0.1-0.2 per cent) well below the Latin American average . . . [B]y 1989
 the GDP was still 6.1 per cent below the 1981 level, not having recovered the
 level reached in 1970. For the entire period of military rule (1974-1989) only
 five Latin American countries had a worse record. Some miracle!"_ [Petras and
-Leiva, **Op. Cit.**, p. 32]
+Leiva, **Op. Cit.** , p. 32]
 
 Thus the growth "miracles" refer to recoveries from depression-like collapses,
 collapses that can be attributed in large part to the free-market policies
@@ -766,11 +768,11 @@ overall (at best) mediocre growth rates (see [last
 section](secC11.md#secc112)).
 
 Then there is the fact that the Chilean experiment refutes key neo-classical
-dogmas about the labour market. In **Capitalist and Freedom**, Friedman was at
-pains to attack trade unions and the idea that they defended the worker from
-coercion by the boss. Nonsense, he asserted, the _"employee is protected from
-coercion by the employer because of other employers for whom he can work."_
-[pp. 14-5] Thus collective action in the form of, say, unions is both
+dogmas about the labour market. In **Capitalist and Freedom** , Friedman was
+at pains to attack trade unions and the idea that they defended the worker
+from coercion by the boss. Nonsense, he asserted, the _"employee is protected
+from coercion by the employer because of other employers for whom he can
+work."_ [pp. 14-5] Thus collective action in the form of, say, unions is both
 unnecessary and, in fact, harmful. The ability of workers to change jobs is
 sufficient and the desire of capitalist economists is always to make the real
 labour market become more like the ideal market of perfect competition -- lots
@@ -804,30 +806,30 @@ overhaul of the labour law system [which] took place between 1979 and 1981 . .
 . aimed at creating a perfect labour market, eliminating collective
 bargaining, allowing massive dismissal of workers, increasing the daily
 working hours up to twelve hours and eliminating the labour courts."_ [Silvia
-Borzutzky, **Op. Cit.**, p. 91] In reality, the Labour code simply reflected
+Borzutzky, **Op. Cit.** , p. 91] In reality, the Labour code simply reflected
 the power property owners have over their wage slaves and _"was solidly
 probusiness. It was intended to maximise the flexibility of management's use
 of labour and to keep any eventual elected government from intervening on
 behalf of labour in negotiations between employers and workers."_ This was
-hidden, of course, by _"populist rhetoric."_ [Collins and Lear, **Op. Cit.**,
+hidden, of course, by _"populist rhetoric."_ [Collins and Lear, **Op. Cit.** ,
 p. 16] In fact, the Plan Laboral _"was intended to definitely shift the
 balance of power in labour relations in favour of business and to weaken the
 workers and unions that formed the central political base of the Left."_
-[Winn, _"The Pinochet Era"_, **Op. Cit.**, p. 31]
+[Winn, _"The Pinochet Era"_ , **Op. Cit.** , p. 31]
 
 Unsurprisingly, _"workers . . . have not received a fair share of the benefits
 from the economic growth and productivity increases that their labour has
 produced and that they have had to bear a disproportionate share of the costs
 of this restructuring in their wages, working conditions, job quality, and
-labour relations."_ [Winn, _"Introduction"_, **Op. Cit.**, p. 10]
+labour relations."_ [Winn, _"Introduction"_ , **Op. Cit.** , p. 10]
 
 Chile, yet again, refuted another of Friedman's assertions about capitalism.
 In 1975, he wrongly predicted that the unemployed caused by the Monetarist
 recession would quickly find work, telling a Santiago audience that they would
 _"be surprised how fast people would be absorbed by a growing private-sector
-economy."_ [quoted by Rayack, **Op. Cit.**, p. 57] Unemployment reached record
-levels for decades, as the free market regime _"has been slow to create jobs.
-During the 1960s unemployment hovered around 6 percent; by contrast, the
+economy."_ [quoted by Rayack, **Op. Cit.** , p. 57] Unemployment reached
+record levels for decades, as the free market regime _"has been slow to create
+jobs. During the 1960s unemployment hovered around 6 percent; by contrast, the
 unemployment level for the years 1974 to 1987 averaged 20 percent of the
 workforce. Even in the best years of the boom (1980-1981) it stayed as high as
 18 percent. In the years immediately following the 1982 crash, unemployment --
@@ -848,7 +850,7 @@ informal sector and 8 were on a government emergency employment program. It
 should be stressed that official statistics _"underestimate the real level of
 unemployment"_ as they exclude people who worked just one day in the previous
 week. A respected church-sponsored institute on employment found that in 1988,
-unemployment in Santiago was as high as 21%. [Lear and Collins, **Op. Cit.**,
+unemployment in Santiago was as high as 21%. [Lear and Collins, **Op. Cit.** ,
 p. 22, p. 15, p. 16, p. 15 and p. 22]
 
 The standard free-market argument is that unemployment is solved by subjecting
@@ -871,7 +873,7 @@ miracle," where declining wages forced families to seek multiple incomes in
 order to survive: _"The single salary that could support a family was beyond
 the reach of most workers; the norm, in fact, was for spouses and children to
 take on temporary and informal jobs . . . Even with multiple incomes, many
-families were hard-pressed to survive."_ [Lear and Collins, **Op. Cit.**, p.
+families were hard-pressed to survive."_ [Lear and Collins, **Op. Cit.** , p.
 23] Which, of course, refutes "free market" capitalist claim that the labour
 market is like any other market. In reality, it is not and so it is hardly
 surprising that a drop in the price of labour **increased** supply nor that
@@ -893,10 +895,10 @@ authorities a degree of efficiency that it was not possible to obtain in a
 democratic regime; and it made possible the application of a model developed
 by experts and that did not depend upon the social reactions produced by its
 implementation."_ [quoted by Silvia Borzutzky, _"The Chicago Boys, social
-security and welfare in Chile"_, **The Radical Right and the Welfare State**,
-Howard Glennerster and James Midgley (eds.), p. 90] They affirmed that _"in a
-democracy we could not have done one-fifth of what we did."_ [quoted by Winn,
-_"The Pinochet Era"_, Winn (ed.), **Op. Cit.**, p. 28]
+security and welfare in Chile"_ , **The Radical Right and the Welfare State**
+, Howard Glennerster and James Midgley (eds.), p. 90] They affirmed that _"in
+a democracy we could not have done one-fifth of what we did."_ [quoted by
+Winn, _"The Pinochet Era"_ , Winn (ed.), **Op. Cit.** , p. 28]
 
 Given the individualistic assumptions of neo-classical and Austrian economics,
 it is not hard to conclude that creating a police state in order to control
@@ -906,20 +908,21 @@ requires for its operation. As socialist Brian Barry argues in relation to the
 Thatcher regime in Britain which was also heavily influenced by the ideas of
 "free market" capitalists like Milton Friedman and Frederick von Hayek:
 
-> _ "Some observers claim to have found something paradoxical in the fact that
-the Thatcher regime combines liberal individualist rhetoric with authoritarian
-action. But there is no paradox at all. Even under the most repressive
-conditions . . . people seek to act collectively in order to improve things
-for themselves, and it requires an enormous exercise of brutal power to
-fragment these efforts at organisation and to force people to pursue their
-interests individually. . . left to themselves, people will inevitably tend to
-pursue their interests through collective action -- in trade unions, tenants'
-associations, community organisations and local government. Only the pretty
-ruthless exercise of central power can defeat these tendencies: hence the
-common association between individualism and authoritarianism, well
-exemplified in the fact that the countries held up as models by the free-
-marketers are, without exception, authoritarian regimes."_ [_"The Continuing
-Relevance of Socialism"_, Robert Skidelsky (ed.), **Thatcherism**, p. 146]
+> _"Some observers claim to have found something paradoxical in the fact that
+> the Thatcher regime combines liberal individualist rhetoric with
+> authoritarian action. But there is no paradox at all. Even under the most
+> repressive conditions . . . people seek to act collectively in order to
+> improve things for themselves, and it requires an enormous exercise of
+> brutal power to fragment these efforts at organisation and to force people
+> to pursue their interests individually. . . left to themselves, people will
+> inevitably tend to pursue their interests through collective action -- in
+> trade unions, tenants' associations, community organisations and local
+> government. Only the pretty ruthless exercise of central power can defeat
+> these tendencies: hence the common association between individualism and
+> authoritarianism, well exemplified in the fact that the countries held up as
+> models by the free-marketers are, without exception, authoritarian
+> regimes."_ [ _"The Continuing Relevance of Socialism"_ , Robert Skidelsky
+> (ed.), **Thatcherism** , p. 146]
 
 Little wonder, then, that Pinochet's regime was marked by authoritarianism,
 terror and rule by savants. Indeed, _"[t]he Chicago-trained economists
@@ -929,17 +932,17 @@ made were not the result of the will of the authority, but they were
 determined by their scientific knowledge. The use of the scientific knowledge,
 in turn, would reduce the power of government since decisions will be made by
 technocrats and by the individuals in the private sector."_ [Silvia Borzutzky,
-**Op. Cit.**, p. 90] However, as Winn points out:
+**Op. Cit.** , p. 90] However, as Winn points out:
 
-> _ "Although the Chicago Boys justified their policies with a discourse of
-liberty, they were not troubled by the contradiction of basing the economic
-freedom they promoted on the most dictatorial regime in Chilean history -- or
-in denying workers the freedom to strike or bargain collectively. At bottom,
-the only freedom that they cared about was the economic liberty of those
-Chileans and foreigners with capital to invest and consume, and that
-'freedom,' de Castro believed, was best assured by an authoritarian government
-and a passive labour force. In short, their notions of freedom were both
-selective and self-serving."_ [**Op. Cit.**, p. 28]
+> _"Although the Chicago Boys justified their policies with a discourse of
+> liberty, they were not troubled by the contradiction of basing the economic
+> freedom they promoted on the most dictatorial regime in Chilean history --
+> or in denying workers the freedom to strike or bargain collectively. At
+> bottom, the only freedom that they cared about was the economic liberty of
+> those Chileans and foreigners with capital to invest and consume, and that
+> 'freedom,' de Castro believed, was best assured by an authoritarian
+> government and a passive labour force. In short, their notions of freedom
+> were both selective and self-serving."_ [ **Op. Cit.** , p. 28]
 
 Of course, turning authority over to technocrats and private power does not
 change its nature -- only who has it. Pinochet's regime saw a marked shift of
@@ -952,13 +955,13 @@ when looking over the nightmare of Pinochet's regime we should ponder these
 words of Bakunin in which he indicates the negative effects of running society
 by means of science books and "experts":
 
-> _ "human science is always and necessarily imperfect. . . were we to force
-the practical life of men -- collective as well as individual -- into rigorous
-and exclusive conformity with the latest data of science, we would thus
-condemn society as well as individuals to suffer martyrdom on a Procrustean
-bed, which would soon dislocate and stifle them, since life is always an
-infinitely greater thing than science."_ [**The Political Philosophy of
-Bakunin**, p. 79]
+> _"human science is always and necessarily imperfect. . . were we to force
+> the practical life of men -- collective as well as individual -- into
+> rigorous and exclusive conformity with the latest data of science, we would
+> thus condemn society as well as individuals to suffer martyrdom on a
+> Procrustean bed, which would soon dislocate and stifle them, since life is
+> always an infinitely greater thing than science."_ [ **The Political
+> Philosophy of Bakunin** , p. 79]
 
 The Chilean experience of rule by free market ideologues prove Bakunin's
 points beyond doubt. Chilean society was forced onto the Procrustean bed by
@@ -974,22 +977,22 @@ reforms. For example, _"tax increases targeted for social spending for the
 poor"_ allowed them to _"halve the 1988 45 percent poverty rate bequeathed by
 Pinochet."_ In fact, the _"bulk of this spending"_ was aimed at _"the poorest
 of the poor, the 25 percent of the population classified as destitute in
-1988."_ [Winn, _"The Pinochet Era,"_ **Op. Cit.**, p. 50, p. 52 and p. 55]
+1988."_ [Winn, _"The Pinochet Era,"_ **Op. Cit.** , p. 50, p. 52 and p. 55]
 
 However, while this _"curtailed absolute poverty, they did not reduce
 inequality . . . From 1990 to 1996 the share of the national income of the
 poorest 20 percent of the population stagnated beneath 4 percent, while that
 of the richest 20 percent inched up from 56 percent to 57 percent . . . the
 distribution of income was one of the most unequal in the world. In Latin
-America, only Brazil was worse."_ [Paul W Drake, _"Foreword"_, Winn (ed.),
-**Op. Cit.**, p. xi] The new government raised the minimum wage in 1990 by 17%
-in real terms, with another rise of approximately 15% two years later. This
-had a significant on income as _"a substantial number of the Chilean labour
-force receives wages and salaries that are only slightly above the minimum
-wage."_ [Volker Frank, _"Politics without Policy"_, Winn (ed.), **Op. Cit.**,
-p. 73 and p. 76] In stark contrast to the claims of neo-classical economics,
-the rise in the minimum wage did not increase unemployment. In fact, it
-**dropped** to 4.4%, in 1992, the lowest since the early 1970s.
+America, only Brazil was worse."_ [Paul W Drake, _"Foreword"_ , Winn (ed.),
+**Op. Cit.** , p. xi] The new government raised the minimum wage in 1990 by
+17% in real terms, with another rise of approximately 15% two years later.
+This had a significant on income as _"a substantial number of the Chilean
+labour force receives wages and salaries that are only slightly above the
+minimum wage."_ [Volker Frank, _"Politics without Policy"_ , Winn (ed.), **Op.
+Cit.** , p. 73 and p. 76] In stark contrast to the claims of neo-classical
+economics, the rise in the minimum wage did not increase unemployment. In
+fact, it **dropped** to 4.4%, in 1992, the lowest since the early 1970s.
 
 Overall, increased social spending on health, education and poverty relief has
 occurred since the end of the dictatorship and has lifted over a million
@@ -1001,7 +1004,7 @@ family separations, alcoholism, and so on. Yet while _"both unemployment and
 poverty decreased, in part because of programs targeted at the poorest sectors
 of the population by centre-left governments with greater social concern than
 the Pinochet dictatorship,"_ many problems remain such as _"a work week that
-was among the longest in the world."_ [Winn, _"Introduction"_, **Op. Cit.**,
+was among the longest in the world."_ [Winn, _"Introduction"_ , **Op. Cit.** ,
 p. 4]
 
 Chile has moved away from Pinochet's "free-market" model in other ways to. In
@@ -1015,7 +1018,7 @@ pure free-market theory taught by American economists and emulating major
 elements of the Asian strategy, including forced savings and the purposeful
 control of capital. The Chilean government tells foreign investors where they
 may invest, keeps them out of certain financial assets and prohibits them from
-withdrawing their capital rapidly."_ [**One World, Ready or Not**, p. 280]
+withdrawing their capital rapidly."_ [ **One World, Ready or Not** , p. 280]
 
 Needless to say, while state aid to the working class has increased somewhat,
 state welfare for business is still the norm. After the 1982 crash, the
@@ -1032,12 +1035,12 @@ have portrayed the boom natural-resource extraction as the result of the "free
 market," in reality private capital lacked the initiative and foresight to
 develop these industries and CORFO provided aid as well as credits and
 subsidies to encourage it. [James M. Cypher, _"Is Chile a Neoliberal
-Success?"_, **Dollars &amp; Sense**, September/October 2004] Then there is the
+Success?"_ , **Dollars & Sense**, September/October 2004] Then there is the
 role of Fundación Chile, a public-private agency designed to develop firms in
 new areas where private capital will not invest. This pays for research and
 development before selling its stake to the private sector once a project
 becomes commercially viable. [Jon Jeter, _"A Smoother Road To Free Markets,"_
-**Washington Post**, 21/01/2004] In other words, a similar system of state
+**Washington Post** , 21/01/2004] In other words, a similar system of state
 intervention promoted by the East-Asian Tigers (and in a similar fashion,
 ignored by the ideologues of "free market" capitalism -- but, then, state
 action for capitalists never seems to count as interfering in the market).
@@ -1069,7 +1072,7 @@ and social alienation. The irony is that many right-wing free-marketers point
 to it as a model of the benefits of capitalism.
 
 [‹ C.10 Is "free market" capitalism the best way to reduce
-poverty?](secC10.md "Go to previous page" ) [up](secCcon.md "Go to parent
-page" ) [C.12 Doesn't Hong Kong show the potentials of "free market"
-capitalism? ›](secC12.md "Go to next page" )
+poverty?](secC10.md "Go to previous page") [up](secCcon.md "Go to parent
+page") [C.12 Doesn't Hong Kong show the potentials of "free market"
+capitalism? ›](secC12.md "Go to next page")
 

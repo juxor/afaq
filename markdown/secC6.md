@@ -7,13 +7,13 @@ great cause for joy (no matter what supporters of free market capitalism
 claim). This is because when market dominance changes between companies all it
 means is that **old** Big Business is replaced by **new** Big Business:
 
-> _ "Once oligopoly emerges in an industry, one should not assume that
-sustained competitive advantage will be maintained forever. . . once achieved
-in any given product market, oligopoly creates barriers to entry that can be
-overcome only by the development of even more powerful forms of business
-organisation that can plan and co-ordinate even more complex specialised
-divisions of labour."_ [William Lazonick, **Business Organisation and the Myth
-of the Market Economy**, p. 173]
+> _"Once oligopoly emerges in an industry, one should not assume that
+> sustained competitive advantage will be maintained forever. . . once
+> achieved in any given product market, oligopoly creates barriers to entry
+> that can be overcome only by the development of even more powerful forms of
+> business organisation that can plan and co-ordinate even more complex
+> specialised divisions of labour."_ [William Lazonick, **Business
+> Organisation and the Myth of the Market Economy** , p. 173]
 
 The assumption that the "degree of monopoly" will rise over time is an obvious
 one to make and, in general, the history of capitalism has tended to support
@@ -69,13 +69,13 @@ increasing the degree of monopoly again.
 time as they can compete with established firms and, critically, expand into
 foreign markets: _"Historically,"_ notes Lazonick, _"political strategies to
 develop national economies have provided critical protection and support to
-overcome . . . barriers to entry."_ [**Op. Cit.**, p. 87] An obvious example
+overcome . . . barriers to entry."_ [ **Op. Cit.** , p. 87] An obvious example
 of this process is, say, the 19th century US economy or, more recently the
 South East Asian "Tiger" economies (these having _"an intense and almost
 unequivical commitment on the part of government to build up the international
 competitiveness of domestic industry"_ by creating _"policies and
 organisations for governing the market."_ [Robert Wade, **Governing the
-Market**, p. 7]).
+Market** , p. 7]).
 
 3) Demand exceeds supply, resulting in a profit level which tempts other big
 companies into the market or gives smaller firms already there excess profits,
@@ -163,6 +163,6 @@ Big Business due to the nature of capitalism. That's the way capitalism works
 -- profits for the few at the expense of the many.
 
 [‹ C.5 Why does Big Business get a bigger slice of profits?](secC5.md "Go to
-previous page" ) [up](secCcon.md "Go to parent page" ) [C.7 What causes the
-capitalist business cycle? ›](secC7.md "Go to next page" )
+previous page") [up](secCcon.md "Go to parent page") [C.7 What causes the
+capitalist business cycle? ›](secC7.md "Go to next page")
 

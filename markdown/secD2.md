@@ -21,7 +21,7 @@ the evidence shows that it is _"irrefutable"_ that _"businessmen contribute
 vastly greater sums of money to political campaigns than do other groups [in
 society]. Moreover, they have special ease of access to government officials,
 and they are disproportionately represented at all upper levels of
-government."_ [David Schweickart, **Against Capitalism**, pp. 210-1]
+government."_ [David Schweickart, **Against Capitalism** , pp. 210-1]
 
 Therefore, logically, politics will be dominated by the rich and powerful --
 in fact if not in theory -- since, in general, only the rich can afford to run
@@ -69,7 +69,7 @@ is bad.' The outcome of such isolated acts is an economic downturn, and hence
 political instability. So a government . . . has no real choice but to regard
 the interests of business as privileged. In a very real sense, what is good
 for business really is good for the country. If business suffers, so will
-everyone else."_ [**Op. Cit.**, pp. 214-5]
+everyone else."_ [ **Op. Cit.** , pp. 214-5]
 
 Hence Chomsky's comment that when _"popular reform candidates . . . get
 elected . . . you get [a] capital strike -- investment capital flows out of
@@ -82,8 +82,8 @@ resources, and so on and so forth. And as long as that remains the case,
 changes inside the political system can make **some** difference -- I don't
 want to say it's zero -- but the differences are going to be very slight."_
 This means that government policy is forced to make _"the rich folk happy"_
-otherwise _"everything's going to grind to a halt."_ [**Understanding Power**,
-pp. 62-3] As we discuss in the [next section](secD2.md#secd21), this is
+otherwise _"everything's going to grind to a halt."_ [ **Understanding Power**
+, pp. 62-3] As we discuss in the [next section](secD2.md#secd21), this is
 precisely what **has** happened.
 
 David Noble provides a good summary of the effects of such indirect pressures
@@ -101,7 +101,7 @@ nations that prosper most (attract corporate investment) by most readily
 lowering their standard of living (wages, benefits, quality of life, political
 freedom). The net result of this system of extortion is a universal lowering
 of conditions and expectations in the name of competitiveness and
-prosperity."_ [**Progress Without People**, pp. 91-92]
+prosperity."_ [ **Progress Without People** , pp. 91-92]
 
 And, we must note, even when a country **does** lower its standard of living
 to attract investment or encourage its own business class to invest (as the
@@ -122,7 +122,7 @@ they will refuse to roll over old debts or to extend new financing on any but
 the most punishing terms (if at all). The explosion of [US] federal debt in
 the 1980s vastly increased the power of creditors to demand austere fiscal and
 monetary policies to dampen the US economy as it recovered . . . from the
-1989-92 slowdown."_ [**Wall Street**, pp. 23-24] And, we must note, Wall
+1989-92 slowdown."_ [ **Wall Street** , pp. 23-24] And, we must note, Wall
 street made a fortune on the debt, directly and indirectly.
 
 This analysis applies within countries as well. Commenting on Clinton's plans
@@ -137,12 +137,12 @@ competing player that might remotely be influenced by the 'great beast' is a
 state government, and even middle-sized enterprise can join in. The shadow
 cast by business [over society and politics] can thus be darker, and private
 power can move on to greater victories in the name of freedom."_ [Noam
-Chomsky, _"Rollback III"_, **Z Magazine**, March, 1995]
+Chomsky, _"Rollback III"_ , **Z Magazine** , March, 1995]
 
 Economic blackmail is a very useful weapon in deterring freedom. Little wonder
 Proudhon argued that the _"Revolutionary principle . . . is Liberty. In other
 words, no more government of man by man through the accumulation of capital."_
-[quoted by Jack Hayward, **After the French Revolution**, p. 177]
+[quoted by Jack Hayward, **After the French Revolution** , p. 177]
 
 ## D.2.1 Is capital flight really that powerful?
 
@@ -159,35 +159,35 @@ made Thatcher and Reagan look like wimps. . . .[A]lmost everything was
 privatised and the consequences explained away in marketspeak. Division of
 wealth that had been unknown in New Zealand suddenly appeared, along with
 unemployment, poverty and crime."_ [John Pilger, _"Breaking the one party
-state,"_ **New Statesman**, 16/12/94]
+state,"_ **New Statesman** , 16/12/94]
 
 An extreme example of capital flight being used to "discipline" a naughty
 administration can be seen from Labour governments in Britain during the 1960s
 and 1970s. Harold Wilson, the Labour Prime Minister between 1964 and 1970,
 recorded the pressures his government was under from "the markets":
 
-> _ "We were soon to learn that decisions on pensions and taxation were no
-longer to be regarded, as in the past, as decisions for parliament alone. The
-combination of tax increases with increased social security benefits provoked
-the first of a series of attacks on sterling, by speculators and others, which
-beset almost every section of the government for the next five years."_ [**The
-Labour Government 1964-1970**, p. 31]
+> _"We were soon to learn that decisions on pensions and taxation were no
+> longer to be regarded, as in the past, as decisions for parliament alone.
+> The combination of tax increases with increased social security benefits
+> provoked the first of a series of attacks on sterling, by speculators and
+> others, which beset almost every section of the government for the next five
+> years."_ [ **The Labour Government 1964-1970** , p. 31]
 
 He also had to _"listen night after night to demands that there should be cuts
 in government expenditure, and particularly in those parts of government
 expenditure which related to social services. It was not long before we were
 being asked, almost at pistol-point to cut back on expenditure"_ by the
-Governor of the Bank of England, the stock exchange's major mouthpiece. [**Op.
-Cit.**, p. 34] One attempt to pressurise Wilson resulted in him later
+Governor of the Bank of England, the stock exchange's major mouthpiece. [
+**Op. Cit.** , p. 34] One attempt to pressurise Wilson resulted in him later
 reflecting:
 
-> _ "Not for the first time, I said that we had now reached the situation
-where a newly elected government with a mandate from the people was being
-told, not so much by the Governor of the Bank of England but by international
-speculators, that the policies on which we had fought the election could not
-be implemented; that the government was to be forced into the adoption of Tory
-policies to which it was fundamentally opposed. The Governor confirmed that
-that was, in fact, the case."_ [**Op. Cit.**, p. 37]
+> _"Not for the first time, I said that we had now reached the situation where
+> a newly elected government with a mandate from the people was being told,
+> not so much by the Governor of the Bank of England but by international
+> speculators, that the policies on which we had fought the election could not
+> be implemented; that the government was to be forced into the adoption of
+> Tory policies to which it was fundamentally opposed. The Governor confirmed
+> that that was, in fact, the case."_ [ **Op. Cit.** , p. 37]
 
 Only the bluff of threatening to call another general election allowed Wilson
 to win that particular battle but his government was constrained. It
@@ -202,11 +202,26 @@ Minister) to hold (and lose) a general election. The new Labour government
 (which included some left-wingers in its cabinet) talked about nationalising
 the banks and much heavy industry. In August, 1974, Tony Benn announced plans
 to nationalise the ship building industry. By December, the FT index had
-fallen to 150 points. [John Casey, _"The Seventies"_, **The Heavy Stuff**, no.
-3, p. 21] By 1976 the Treasury was _"spending $100 million a day buying back
-its own money on the markets to support the pound."_ [**The Times**, 10/6/76]
+fallen to 150 points. [John Casey, _"The Seventies"_ , **The Heavy Stuff** ,
+no. 3, p. 21] By 1976 the Treasury was _"spending $100 million a day buying
+back its own money on the markets to support the pound."_ [ **The Times** ,
+10/6/76]
 
-**The Times** [27/5/76] noted that _"the further decline in the value of the pound has occurred despite the high level of interest rates. . . . [D]ealers said that selling pressure against the pound was not heavy or persistent, but there was an almost total lack of interest amongst buyers. The drop in the pound is extremely surprising in view of the unanimous opinion of bankers, politicians and officials that the currency is undervalued."_ While there was much talk of private armies and military intervention, this was not needed. As anarchist John Casey argues, the ruling class _"chose to play the economic card . . . They decided to subdue the rogue Labour administration by pulling the financial plugs out of the economy . . . This resulted in the stock market and the pound plummeting . . . This was a much neater solution than bullets and forced the Wilson government to clean up the mess by screwing the working class with public spending cuts and a freeze on wage claims . . . The whole process of economic sabotage was neatly engineering through third parties like dealers in the currency markets."_ [**Op. Cit.**, p. 23]
+**The Times** [27/5/76] noted that _"the further decline in the value of the
+pound has occurred despite the high level of interest rates. . . . [D]ealers
+said that selling pressure against the pound was not heavy or persistent, but
+there was an almost total lack of interest amongst buyers. The drop in the
+pound is extremely surprising in view of the unanimous opinion of bankers,
+politicians and officials that the currency is undervalued."_ While there was
+much talk of private armies and military intervention, this was not needed. As
+anarchist John Casey argues, the ruling class _"chose to play the economic
+card . . . They decided to subdue the rogue Labour administration by pulling
+the financial plugs out of the economy . . . This resulted in the stock market
+and the pound plummeting . . . This was a much neater solution than bullets
+and forced the Wilson government to clean up the mess by screwing the working
+class with public spending cuts and a freeze on wage claims . . . The whole
+process of economic sabotage was neatly engineering through third parties like
+dealers in the currency markets."_ [ **Op. Cit.** , p. 23]
 
 The Labour government, faced with the power of international capital, ended up
 having to receive a temporary "bailing out" by the IMF, which imposed a
@@ -215,7 +230,7 @@ _"We'll do anything you say,"_ as one economist described it. The social costs
 of these policies were disastrous, with unemployment rising to the then
 unheard-of-height of one million. And let's not forget that they _"cut
 expenditure by twice the amount the IMF were promised"_ in an attempt to
-appear business-friendly. [Peter Donaldson, **A Question of Economics**, p.
+appear business-friendly. [Peter Donaldson, **A Question of Economics** , p.
 89] By capital flight, a slightly radical Labour government was brought to
 heel.
 
@@ -224,26 +239,27 @@ the Bank of England failed to get the Labour government to abolish its
 exchange controls. Between 1979 and 1982 the Tories abolished them and ended
 restrictions on lending for banks and building societies:
 
-> _ "The result of the abolition of exchange controls was visible almost
-immediately: capital hitherto invested in the U.K. began going abroad. In the
-**Guardian** of 21 September, 1981, Victor Keegan noted that 'Figures
-published last week by the Bank of England show that pension funds are now
-investing 25% of their money abroad (compared with almost nothing a few years
-ago) and there has been no investment at all (net) by unit trusts in the UK
-since exchange controls were abolished.'"_ [Robin Ramsay, _"Mrs Thatcher,
-North Sea and the Hegemony of the City"_, pp. 2-9, **Lobster**, no. 27, p. 3]
+> _"The result of the abolition of exchange controls was visible almost
+> immediately: capital hitherto invested in the U.K. began going abroad. In
+> the **Guardian** of 21 September, 1981, Victor Keegan noted that 'Figures
+> published last week by the Bank of England show that pension funds are now
+> investing 25% of their money abroad (compared with almost nothing a few
+> years ago) and there has been no investment at all (net) by unit trusts in
+> the UK since exchange controls were abolished.'"_ [Robin Ramsay, _"Mrs
+> Thatcher, North Sea and the Hegemony of the City"_ , pp. 2-9, **Lobster** ,
+> no. 27, p. 3]
 
 This contributed to the general mismanagement of the economy by Thatcher's
 Monetarist government. While Milton Friedman had predicted _"only a modest
 reduction in output and employment will be a side effect of reducing inflation
 to single figures by 1982,"_ the actual results of applying his ideas were
-drastically different. [quoted by Michael Stewart, **Keynes and After**, p.
+drastically different. [quoted by Michael Stewart, **Keynes and After** , p.
 179] Britain experienced its deepest recession since the 1930s, with
 unemployment nearly tripling between 1979 and 1985 (officially, from around 5%
 to 13% but the real figure was even higher as the government changed the
 method of measuring it to reduce the figures!). Total output fell by 2.5% in
 1980 and another 1.5% in 1981. By 1984 manufacturing investment was still 30%
-lower in 1979. [Steward, **Op. Cit.**, p. 180] Poverty and inequality soared
+lower in 1979. [Steward, **Op. Cit.** , p. 180] Poverty and inequality soared
 as unemployment and state repression broke the back of the labour movement and
 working class resistance.
 
@@ -265,8 +281,8 @@ This means that it is _"obvious that no central government today may follow
 economic policies that are disapproved of by the capital markets, which have
 the power to create an intolerable economic pressure on the respective
 country's borrowing ability, currency value and investment flows."_ [Takis
-Fotopoulos, **Toward an Inclusive Democracy**, p. 42] We discuss globalisation
-in more detail in [section D.5](secD5.md).
+Fotopoulos, **Toward an Inclusive Democracy** , p. 42] We discuss
+globalisation in more detail in [section D.5](secD5.md).
 
 Unsurprisingly, when left-wing governments have been elected into office after
 the 1980s, they have spent a lot of time during the election showing how
@@ -316,23 +332,24 @@ what probably a couple trillion dollars are spent on each year in the US, very
 self-consciously, from the framing of television advertisements for two-year
 olds to what you are taught in graduate school economics programs. It's
 designed to create a consciousness of subordination and it's also intended
-specifically and pretty consciously to suppress normal human emotions."_
-[**Chomsky on Anarchism**, p. 223]
+specifically and pretty consciously to suppress normal human emotions."_ [
+**Chomsky on Anarchism** , p. 223]
 
 This process became apparent in the 1960s. In the words of Edward Herman:
 
-> _ "The business community of the United States was deeply concerned over the
-excesses of democracy in the United States in the 1960s, and it has tried hard
-to rectify this problem by means of investments in both politicians and
-informing public opinion. The latter effort has included massive institutional
-advertising and other direct and indirect propaganda campaigns, but it has
-extended to attempts to influence the content of academic ideas . . . [With] a
-significant portion of academic research coming from foundations based on
-business fortunes . . . [and money] intended to allow people with preferred
-viewpoints to be aided financially in obtaining academic status and influence
-and in producing and disseminating books."_ [_"The Selling of Market
-Economics,"_ pp. 173-199, **New Ways of Knowing**, Marcus G. Raskin and
-Herbert J. Bernstein (eds.), p. 182]
+> _"The business community of the United States was deeply concerned over the
+> excesses of democracy in the United States in the 1960s, and it has tried
+> hard to rectify this problem by means of investments in both politicians and
+> informing public opinion. The latter effort has included massive
+> institutional advertising and other direct and indirect propaganda
+> campaigns, but it has extended to attempts to influence the content of
+> academic ideas . . . [With] a significant portion of academic research
+> coming from foundations based on business fortunes . . . [and money]
+> intended to allow people with preferred viewpoints to be aided financially
+> in obtaining academic status and influence and in producing and
+> disseminating books."_ [ _"The Selling of Market Economics,"_ pp. 173-199,
+> **New Ways of Knowing** , Marcus G. Raskin and Herbert J. Bernstein (eds.),
+> p. 182]
 
 Wealth, in other words, is employed to shape the public mind and ensure that
 challenges to that wealth (and its source) are reduced. These include funding
@@ -345,20 +362,20 @@ words of Australian Social Scientist Alex Carey the _"twentieth century has
 been characterised by three developments of great political importance: the
 growth of democracy, the growth of corporate power, and the growth of
 corporate propaganda as a means of protecting corporate power against
-democracy."_ [quoted by Noam Chomsky, **World Orders, Old and New**, p. 89]
+democracy."_ [quoted by Noam Chomsky, **World Orders, Old and New** , p. 89]
 
 By 1978, American business was spending $1 billion a year on grassroots
-propaganda. [Chomsky, **Op. Cit.**, p. 93] This is known as _"Astroturf"_ by
+propaganda. [Chomsky, **Op. Cit.** , p. 93] This is known as _"Astroturf"_ by
 PR insiders, to reflect the appearance of popular support, without the
 substance, and _"grasstops"_ whereby influential citizens are hired to serve
 as spokespersons for business interests. In 1983, there existed 26 general
 purpose foundations for this purpose with endowments of $100 million or more,
 as well as dozens of corporate foundations. One extremely wealth conservative,
 Richard Mellon Scaife, was giving $10 million a year through four foundations
-and trusts. [G. William Domhoff, **Who Rules America Now?**, p. 92 and p. 94]
+and trusts. [G. William Domhoff, **Who Rules America Now?** , p. 92 and p. 94]
 These, along with media power, ensure that force -- always an inefficient
 means of control -- is replaced by (to use a term associated with Noam
-Chomsky) the _"manufacture of consent"_: the process whereby the limits of
+Chomsky) the _"manufacture of consent"_ : the process whereby the limits of
 acceptable expression are defined by the wealthy.
 
 Various institutions are used to get Big Business's message across, for
@@ -367,12 +384,12 @@ organisation, funds economic education for teachers and provides books,
 pamphlets and films as teaching aids. In 1974, 20,000 teachers participated in
 its workshops. The aim is to induce teachers to present corporations in an
 uncritical light to their students. Funding for this propaganda machine comes
-from the American Bankers Association, AT&amp;T, the Sears Roebuck Foundation
-and the Ford Foundation. As Domhoff points out, _"[a]lthough it [and other
-bodies like it] has not been able to bring about active acceptance of all
-power elite policies and perspectives, on economic or other domestic issues,
-it has been able to ensure that opposing opinions have remained isolated,
-suspect and only partially developed."_ [**Op. Cit.**, pp. 103-4]
+from the American Bankers Association, AT&T, the Sears Roebuck Foundation and
+the Ford Foundation. As Domhoff points out, _"[a]lthough it [and other bodies
+like it] has not been able to bring about active acceptance of all power elite
+policies and perspectives, on economic or other domestic issues, it has been
+able to ensure that opposing opinions have remained isolated, suspect and only
+partially developed."_ [ **Op. Cit.** , pp. 103-4]
 
 In other words, "unacceptable" ideas are marginalised, the limits of
 expression defined, and all within a society apparently based on "the free
@@ -394,7 +411,7 @@ loyalties' with the unions' -- a rather unequal battle, given the resources
 available."_ These huge PR campaigns _"employed the media, cinema, and other
 devices to identify 'free enterprise' -- meaning state-subsidised private
 power with no infringement on managerial prerogatives -- as 'the American
-way,' threatened by dangerous subversives."_ [Noam Chomsky, **Op. Cit.**, pp.
+way,' threatened by dangerous subversives."_ [Noam Chomsky, **Op. Cit.** , pp.
 89-90 and p. 89]
 
 By 1995, $10 billion was considered a _"conservative estimate"_ on how much
@@ -405,11 +422,11 @@ strategy for manipulating public opinion and government policy."_ The net
 effect is that the wealth of _"large corporations, business associations and
 governments"_ is used to _"out-manoeuvre, overpower and outlast true citizen
 reformers."_ In other words: _"Making the World Safe from Democracy."_ [John
-Stauber and Sheldon Rampton, **Toxic Sludge is Good for You!**, p. 13, p. 14
+Stauber and Sheldon Rampton, **Toxic Sludge is Good for You!** , p. 13, p. 14
 and p. 13] The public relations industry, as Chomsky notes, is a means by
 which _"the oppressors . . . instil their assumptions as the perspective from
 which you [should] look at the world"_ and is _"done extremely consciously."_
-[**Propaganda and the Public Mind**, p. 166]
+[ **Propaganda and the Public Mind** , p. 166]
 
 The effects of this business propaganda are felt in all other aspects of life,
 ensuring that while the US business class is extremely class conscious, the
@@ -439,7 +456,7 @@ about the direction their country is taking. The task of anarchists is to help
 the struggle, in America and across the globe, by which they can take their
 country and lives back from the elite.
 
-[‹ D.1 Why does state intervention occur?](secD1.md "Go to previous page" )
-[up](secDcon.md "Go to parent page" ) [D.3 How does wealth influence the
-mass media? ›](secD3.md "Go to next page" )
+[‹ D.1 Why does state intervention occur?](secD1.md "Go to previous page")
+[up](secDcon.md "Go to parent page") [D.3 How does wealth influence the mass
+media? ›](secD3.md "Go to next page")
 

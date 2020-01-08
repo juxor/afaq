@@ -35,7 +35,7 @@ and military power to impose their rapacious systems of exploitation on weaker
 countries. As against all forms of imperialism, we declare for revolutionary
 internationalism; for the creation of great confederations of free peoples for
 their mutual interests; for solidarity and mutual aid."_ [quoted by Sam
-Dolgoff, **The Cuban Revolution: A Critical Perspective**, p. 138]
+Dolgoff, **The Cuban Revolution: A Critical Perspective** , p. 138]
 
 It is impossible to be free while dependent on the power of another. If the
 capital one uses is owned by another country, one is in no position to resist
@@ -61,11 +61,11 @@ marketisation of culture and the recent liberalisation and deregulation of
 markets have contributed significantly to the present cultural homogenisation,
 with traditional communities and their cultures disappearing all over the
 world and people converted to consumers of a mass culture produced in the
-advanced capitalist countries and particularly the USA."_ [**Towards an
-Inclusive Democracy**, p. 40] Equally, we are aware, to quote Chomsky, that
+advanced capitalist countries and particularly the USA."_ [ **Towards an
+Inclusive Democracy** , p. 40] Equally, we are aware, to quote Chomsky, that
 racism _"is inherent in imperial rule"_ and that it is _"inherent in the
-relation of domination"_ that imperialism is based on. [**Imperial
-Ambitions**, p. 48]
+relation of domination"_ that imperialism is based on. [ **Imperial
+Ambitions** , p. 48]
 
 It is this context which explains the anarchist position on national
 liberation struggles. While we are internationalists, we are against all forms
@@ -74,13 +74,14 @@ are not indifferent to national liberation struggles. Quite the opposite. In
 the words of Bakunin:
 
 > _"Fatherland and nationality are, like individuality, each a natural and
-social fact, physiological and historical at the same time; neither of them is
-a principle. Only that can be called a human principle which is universal and
-common to all men; and nationality separates men . . . What is a principle is
-the respect which everyone should have for natural facts, real or social.
-Nationality, like individuality, is one of those facts . . . To violate it is
-to commit a crime . . . And that is why I feel myself always the patriot of
-all oppressed fatherlands."_ [**The Political Philosophy of Bakunin**, p. 324]
+> social fact, physiological and historical at the same time; neither of them
+> is a principle. Only that can be called a human principle which is universal
+> and common to all men; and nationality separates men . . . What is a
+> principle is the respect which everyone should have for natural facts, real
+> or social. Nationality, like individuality, is one of those facts . . . To
+> violate it is to commit a crime . . . And that is why I feel myself always
+> the patriot of all oppressed fatherlands."_ [ **The Political Philosophy of
+> Bakunin** , p. 324]
 
 This is because nationality _"is a historic, local fact which, like all real
 and harmless facts, has the right to claim general acceptance."_ This means
@@ -89,8 +90,8 @@ and therefore has a right to be itself. Therein lies the so-called national
 rights."_ Nationality, Bakunin stressed, _"is not a principle; it is a
 legitimate fact, just as individuality is. Every nationality, great or small,
 has the incontestable right to be itself, to live according to its own nature.
-This right is simply the corollary of the general principal of freedom."_
-[**Op. Cit.** p. 325]
+This right is simply the corollary of the general principal of freedom."_ [
+**Op. Cit.** p. 325]
 
 More recently Murray Bookchin has expressed similar sentiments. _"No left
 libertarian,"_ he argued, _"can oppose the **right** of a subjugated people to
@@ -99,16 +100,16 @@ confederation . . . or as a nation-state based in hierarchical and class
 inequities."_ Even so, anarchists do not elevate the idea of national
 liberation _"into a mindless article of faith,"_ as much of the Leninist-
 influenced left has done. We do not call for support for the oppressed nation
-without first inquiring into _"**what kind of society** a given 'national
+without first inquiring into _" **what kind of society** a given 'national
 liberation' movement would likely produce."_ To do so, as Bookchin points out,
 would be to _"support national liberation struggles for instrumental purposes,
 merely as a means of 'weakening' imperialism,"_ which leads to _"a condition
 of moral bankruptcy"_ as socialist ideas become associated with the
 authoritarian and statist goals of the "anti-imperialist" dictatorships in
 "liberated" nations. _"But to oppose an oppressor is not equivalent to calling
-for **support** for everything formerly colonised nation-states do."_
-[_"Nationalism and the 'National Question'"_, pp. 8-36, **Society and
-Nature**, No. 5, p. 31, p. 25, p. 29 and p. 31]
+for **support** for everything formerly colonised nation-states do."_ [
+_"Nationalism and the 'National Question'"_ , pp. 8-36, **Society and Nature**
+, No. 5, p. 31, p. 25, p. 29 and p. 31]
 
 This means that anarchists oppose foreign oppression and are usually
 sympathetic to attempts by those who suffer it to end it. This does not mean
@@ -131,7 +132,7 @@ and Republican right and its use of the position of women in Afghanistan to
 bolster support for the invasion of 2001 (the sight of the American Taliban
 discovering the importance of feminism -- in other countries, of course -- was
 surreal but not unexpected given the needs of the moment and their basis in
-_"reasons of state"_).
+_"reasons of state"_ ).
 
 The reason for this critical attitude to national liberation struggles is that
 they usually counterpoise the common interests of "the nation" to those of a
@@ -160,8 +161,8 @@ centralisation of the unitary state; and because [they] confused and
 identified these two very opposing things [they have] not only been the
 promoter of the independence of [their] country [they have] become at the same
 time . . . the promoter of its present slavery."_ [quoted by Jean Caroline
-Cahm, _"Bakunin"_, pp. 22-49, Eric Cahm and Vladimir Claude Fisera (eds),
-**Socialism and Nationalism**, vol. 1, p. 36]
+Cahm, _"Bakunin"_ , pp. 22-49, Eric Cahm and Vladimir Claude Fisera (eds),
+**Socialism and Nationalism** , vol. 1, p. 36]
 
 In response to national liberation struggles, anarchists stress the self-
 liberation of the working class, which can be only achieved by its members'
@@ -172,11 +173,11 @@ This has been the approach of most, if not all, anarchist movements in the
 face of foreign domination -- the combination of the struggle against foreign
 domination with the class struggle against native oppressors. In many
 different countries (including Bulgaria, Mexico, Cuba and Korea) anarchists
-have tried, by their _"propaganda, and above all **action**, [to] encourage
+have tried, by their _"propaganda, and above all **action** , [to] encourage
 the masses to turn the struggle for political independence into the struggle
-for the Social Revolution."_ [Sam Dolgoff, **Op. Cit.**, p. 41] In other
+for the Social Revolution."_ [Sam Dolgoff, **Op. Cit.** , p. 41] In other
 words, a people will free only _"by the general uprising of the labouring
-masses."_ [Bakunin, quoted by Cahm, **Op. Cit.**, p. 36]
+masses."_ [Bakunin, quoted by Cahm, **Op. Cit.** , p. 36]
 
 History has shown the validity of this argument, as well as the fears of
 Mexican anarchist Ricardo Flores Magon that it is _"the duty of all the poor
@@ -186,14 +187,14 @@ voluntarily put ourselves in the grasp of their claws."_ For _"a simple change
 of rulers is not a fount of liberty"_ and _"any revolutionary program that
 doesn't contain a clause concerning the taking of the lands [and workplaces]
 by the people is a program of the ruling classes, who will never struggle
-against their own interests."_ [**Dreams of Freedom**, p. 142 and p. 293] As
+against their own interests."_ [ **Dreams of Freedom** , p. 142 and p. 293] As
 Kropotkin stressed, the _"failure of all nationalist movements . . . lies in
 this curse . . . that the economic question . . . remains on the side . . . In
 a word, it seems to me that in each national movement we have a major task: to
 set forth the question [of nationalism] on an economic basis and carry out
 agitation against serfdom [and other forms of exploitation] at one with the
 struggle against [oppression by] foreign nationality."_ [quoted by Martin A.
-Miller, **Kropotkin**, p. 230]
+Miller, **Kropotkin** , p. 230]
 
 Moreover, we should point out that Anarchists in imperialist countries have
 also opposed national oppression by both words and deeds. For example, the
@@ -207,7 +208,7 @@ two colonial wars (in Indochina and Algeria) in the late 50's and early 60's,
 anarchists world-wide opposed US aggression in Latin America and Vietnam
 (without, we must note, supporting the Cuban and Vietnamese Stalinist
 regimes), opposed the Gulf War (during which most anarchists raised the call
-of _"No war but the class war"_) as well as opposing Soviet imperialism.
+of _"No war but the class war"_ ) as well as opposing Soviet imperialism.
 
 In practice national liberation movements are full of contradictions between
 the way the rank and file sees progress being made (and their hopes and
@@ -239,7 +240,7 @@ class fronts which may or may not be involved in national liberation
 struggles. The struggle must spread to establish economic, political and
 social structures in the liberated territories, based on federalist and
 libertarian organisations."_ [Alfredo M. Bonanno, **Anarchism and the National
-Liberation Struggle**, p. 12]
+Liberation Struggle** , p. 12]
 
 The Makhnovist movement in the Ukraine expressed this perspective well when it
 was fighting for freedom during the Russian Revolution and Civil War. The
@@ -247,38 +248,35 @@ Ukraine at the time was a very diverse country, with many distinct national
 and ethnic groups living within it which made this issue particularly complex:
 
 > _"Clearly, each national group has a natural and indisputable entitlement to
-speak its language, live in accordance with its customs, retain its beliefs
-and rituals . . . in short, to maintain and develop its national culture in
-every sphere. It is obvious that this clear and specific stance has absolutely
-nothing to do with narrow nationalism of the 'separatist' variety which pits
-nation against nation and substitutes an artificial and harmful separation for
-the struggle to achieve a natural social union of toilers in one shared social
-communion.  
+> speak its language, live in accordance with its customs, retain its beliefs
+> and rituals . . . in short, to maintain and develop its national culture in
+> every sphere. It is obvious that this clear and specific stance has
+> absolutely nothing to do with narrow nationalism of the 'separatist' variety
+> which pits nation against nation and substitutes an artificial and harmful
+> separation for the struggle to achieve a natural social union of toilers in
+> one shared social communion.  
 >  _
-
 >
-
 > _"In our view, national aspirations of a natural, wholesome character
-(language, customs, culture, etc.) can achieve full and fruitful satisfaction
-only in the union of nationalities rather than in their antagonism . . . _
-
+> (language, customs, culture, etc.) can achieve full and fruitful
+> satisfaction only in the union of nationalities rather than in their
+> antagonism . . ._
 >
-
 > _"The speedy construction of a new life on [libertarian] socialist
-foundations will ineluctably lead to development of the culture peculiar to
-each nationality. Whenever we Makhnovist insurgents speak of independence of
-the Ukraine, we ground it in the social and economic plane of the toilers. We
-proclaim the right of the Ukrainian people (and every other nation) to self-
-determination, not in the narrow, nationalist sense . . . but in the sense of
-the toilers' right to self-determination. We declare that the toiling folk of
-the Ukraine's towns and countryside have shown everyone through their heroic
-fight that they do not wish any longer to suffer political power and have no
-use for it, and that they consciously aspire to a libertarian society. We thus
-declare that all political power . . . is to be regarded . . . as an enemy and
-counter-revolutionary. To the very last drop of their blood they will wage a
-ferocious struggle against it, in defence of their entitlement to self-
-organisation."_ [quoted by Alexandre Skirda, **Nestor Makhno Anarchy's
-Cossack**, pp. 377-8]
+> foundations will ineluctably lead to development of the culture peculiar to
+> each nationality. Whenever we Makhnovist insurgents speak of independence of
+> the Ukraine, we ground it in the social and economic plane of the toilers.
+> We proclaim the right of the Ukrainian people (and every other nation) to
+> self-determination, not in the narrow, nationalist sense . . . but in the
+> sense of the toilers' right to self-determination. We declare that the
+> toiling folk of the Ukraine's towns and countryside have shown everyone
+> through their heroic fight that they do not wish any longer to suffer
+> political power and have no use for it, and that they consciously aspire to
+> a libertarian society. We thus declare that all political power . . . is to
+> be regarded . . . as an enemy and counter-revolutionary. To the very last
+> drop of their blood they will wage a ferocious struggle against it, in
+> defence of their entitlement to self-organisation."_ [quoted by Alexandre
+> Skirda, **Nestor Makhno Anarchy's Cossack** , pp. 377-8]
 
 So while anarchists unmask nationalism for what it is, we do not disdain the
 basic struggle for identity and self-management which nationalism diverts. We
@@ -296,7 +294,7 @@ so popular movements must _"link their aspirations and forces with the
 aspirations and forces of all other countries"_ and so the _"only way of
 arriving at emancipation lies in the fraternity of oppressed peoples in an
 international alliance of all countries."_ [Bakunin, quoted by Cahm, **Op.
-Cit.**, p. 40 and p. 36]
+Cit.** , p. 40 and p. 36]
 
 And as far as "national" identity within an anarchist society is concerned,
 our position is clear and simple. As Bakunin noted with respect to the Polish
@@ -305,9 +303,9 @@ _"adversaries of every State, . . . reject the rights and frontiers called
 historic. For us Poland only begins, only truly exists there where the
 labouring masses are and want to be Polish, it ends where, renouncing all
 particular links with Poland, the masses wish to establish other national
-links."_ [quoted by Jean Caroline Cahm, **Op. Cit.**, p. 43]
+links."_ [quoted by Jean Caroline Cahm, **Op. Cit.** , p. 43]
 
-[‹ D.6 Are anarchists against Nationalism?](secD6.md "Go to previous page" )
-[up](secDcon.md "Go to parent page" ) [D.8 What causes militarism and what
-are its effects? ›](secD8.md "Go to next page" )
+[‹ D.6 Are anarchists against Nationalism?](secD6.md "Go to previous page")
+[up](secDcon.md "Go to parent page") [D.8 What causes militarism and what
+are its effects? ›](secD8.md "Go to next page")
 

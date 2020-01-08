@@ -13,8 +13,8 @@ economic dependence and political slavery, the two dominant issues involved in
 the struggle of the classes."_ In other words, the nation _"which is to be
 protected by a huge military force is not"_ that _"of the people, but that of
 the privileged class; the class which robs and exploits the masses, and
-controls their lives from the cradle to the grave."_ [**Red Emma Speaks**, p.
-352 and p. 348]
+controls their lives from the cradle to the grave."_ [ **Red Emma Speaks** ,
+p. 352 and p. 348]
 
 The second, as noted in the section on imperialism, is that a strong military
 is necessary in order for a ruling class to pursue an aggressive and
@@ -27,27 +27,27 @@ competition between, capital needs military force to protect its interests
 (particularly those invested in other countries) and give it added clout in
 the economic jungle of the world market. This need has resulted in, for
 example, _"hundreds of US bases [being] placed all over the world to ensure
-global domination."_ [Chomsky, **Failed States**, p. 11]
+global domination."_ [Chomsky, **Failed States** , p. 11]
 
 The third major reason for militarism is to bolster a state's economy.
 Capitalist militarism promotes the development of a specially favoured group
 of companies which includes _"all those engaged in the manufacture and sale of
 munitions and in military equipment for personal gain and profit."_ [Goldman,
-**Op. Cit.**, p. 354] These armaments companies ("defence" contractors) have a
-direct interest in the maximum expansion of military production. Since this
+**Op. Cit.** , p. 354] These armaments companies ("defence" contractors) have
+a direct interest in the maximum expansion of military production. Since this
 group is particularly wealthy, it exerts great pressure on government to
 pursue the type of state intervention and, often, the aggressive foreign
 policies it wants. As Chomsky noted with respect to the US invasion and
 occupation of Iraq:
 
 > _"Empires are costly. Running Iraq is not cheap. Somebody's paying.
-Somebody's paying the corporations that destroyed Iraq and the corporations
-that are rebuilding it. in both cases, they're getting paid by the U.S.
-taxpayer. Those are gifts from U.S. taxpayers to U.S. Corporations . . . The
-same tax-payers fund the military-corporate system of weapons manufacturers
-and technology companies that bombed Iraq . . . It's a transfer of wealth from
-the general population to narrow sectors of the population."_ [**Imperial
-Ambitions**, pp. 56-7]
+> Somebody's paying the corporations that destroyed Iraq and the corporations
+> that are rebuilding it. in both cases, they're getting paid by the U.S.
+> taxpayer. Those are gifts from U.S. taxpayers to U.S. Corporations . . . The
+> same tax-payers fund the military-corporate system of weapons manufacturers
+> and technology companies that bombed Iraq . . . It's a transfer of wealth
+> from the general population to narrow sectors of the population."_ [
+> **Imperial Ambitions** , pp. 56-7]
 
 This "special relationship" between state and Big Business also has the
 advantage that it allows the ordinary citizen to pay for industrial Research
@@ -61,7 +61,7 @@ development at taxpayer expense, which often yields "spin-offs" with great
 commercial potential as consumer products (e.g. computers). Needless to say,
 all the profits go to the defence contractors and to the commercial companies
 who buy licences to patented technologies from them, rather than being shared
-with the public which funded the R&amp;D that made the profits possible. Thus
+with the public which funded the R&D that made the profits possible. Thus
 militarism is a key means of securing technological advances within
 capitalism.
 
@@ -69,38 +69,37 @@ It is necessary to provide some details to indicate the size and impact of
 military spending on the US economy:
 
 > _"Since 1945. . . there have been new industries sparking investment and
-employment . . In most of them, basic research and technological progress were
-closely linked to the expanding military sector. The major innovation in the
-1950s was electronics . . . [which] increased its output 15 percent per year.
-It was of critical importance in workplace automation, with the federal
-government providing the bulk of the research and development (R&amp;D)
-dollars for military-orientated purposes. Infrared instrumentation, pressure
-and temperature measuring equipment, medical electronics, and thermoelectric
-energy conversion all benefited from military R&amp;D. By the 1960s indirect
-and direct military demand accounted for as much as 70 percent of the total
-output of the electronics industry. Feedbacks also developed between
-electronics and aircraft, the second growth industry of the 1950s. By 1960 . .
-. [i]ts annual investment outlays were 5.3 times larger than their 1947-49
-level, and over 90 percent of its output went to the military. Synthetics
-(plastics and fibres) was another growth industry owning much of its
-development to military-related projects. Throughout the 1950s and 1960s,
-military-related R&amp;D, including space, accounted for 40 to 50 percent of
-total public and private R&amp;D spending and at least 85% of federal
-government share."_ [Richard B. Du Boff, **Accumulation and Power**, pp.
-103-4]
+> employment . . In most of them, basic research and technological progress
+> were closely linked to the expanding military sector. The major innovation
+> in the 1950s was electronics . . . [which] increased its output 15 percent
+> per year. It was of critical importance in workplace automation, with the
+> federal government providing the bulk of the research and development (R &D)
+> dollars for military-orientated purposes. Infrared instrumentation, pressure
+> and temperature measuring equipment, medical electronics, and thermoelectric
+> energy conversion all benefited from military R&D. By the 1960s indirect and
+> direct military demand accounted for as much as 70 percent of the total
+> output of the electronics industry. Feedbacks also developed between
+> electronics and aircraft, the second growth industry of the 1950s. By 1960 .
+> . . [i]ts annual investment outlays were 5.3 times larger than their 1947-49
+> level, and over 90 percent of its output went to the military. Synthetics
+> (plastics and fibres) was another growth industry owning much of its
+> development to military-related projects. Throughout the 1950s and 1960s,
+> military-related R&D, including space, accounted for 40 to 50 percent of
+> total public and private R&D spending and at least 85% of federal government
+> share."_ [Richard B. Du Boff, **Accumulation and Power** , pp. 103-4]
 
 As another economist notes, it is _"important to recognise that the role of
 the US federal government in industrial development has been substantial even
 in the post-war period, thanks to the large amount of defence-related
-procurements and R&amp;D spending, which have had enormous spillover effects.
-The share of the US federal government in total R&amp;D speanding, which was
-only 16 per cent in 1930, remained between one-half and two-thirds during the
-postwar years. Industries such as computers, aerospace and the internet, where
-the USA still maintains an international edge despite the decline in its
-overall technological leadership, would not have existed without defence-
-related R&amp;D funding by the country's federal government."_ Moreover, the
-state also plays a _"crucial role"_ in supporting R&amp;D in the
-pharmaceutical industry. [Ha-Joon Chang, **Kicking Away the Ladder**, p. 31]
+procurements and R &D spending, which have had enormous spillover effects. The
+share of the US federal government in total R&D speanding, which was only 16
+per cent in 1930, remained between one-half and two-thirds during the postwar
+years. Industries such as computers, aerospace and the internet, where the USA
+still maintains an international edge despite the decline in its overall
+technological leadership, would not have existed without defence-related R&D
+funding by the country's federal government."_ Moreover, the state also plays
+a _"crucial role"_ in supporting R&D in the pharmaceutical industry. [Ha-Joon
+Chang, **Kicking Away the Ladder** , p. 31]
 
 Not only this, government spending on road building (initially justified using
 defence concerns) also gave a massive boost to private capital (and, in the
@@ -118,7 +117,7 @@ enterprise was directly dependent on the manufacture, distribution, servicing,
 and the use of motor vehicles."_ The impact of this process is still evident
 today -- both in terms of ecological destruction and in the fact that
 automobile and oil companies are still dominate the top twenty of the Fortune
-500. [**Op. Cit.**, p. 102]
+500. [ **Op. Cit.** , p. 102]
 
 This system, which can be called military Keynesianism, has three advantages
 over socially-based state intervention. Firstly, unlike social programmes,
@@ -142,7 +141,7 @@ individual liberties and democratic processes by the _"military-industrial
 complex,"_ which might, he cautioned, seek to keep the economy in a state of
 continual war-readiness simply because it is good business. This echoed the
 warning which had been made earlier by sociologist C. Wright Mills (in **The
-Power Elite**), who pointed out that since the end of World War II the
+Power Elite** ), who pointed out that since the end of World War II the
 military had become enlarged and decisive to the shape of the entire American
 economy, and that US capitalism had in fact become a military capitalism. This
 situation has not substantially changed since Mills wrote, for it is still the
@@ -157,19 +156,20 @@ militarism is a key aspect of capitalism can be seen from the way it survived
 the end of the Cold War, the expressed rationale for this system:
 
 > _"With the Cold war no longer available, it was necessary to reframe
-pretexts not only for [foreign] intervention but also for militarised state
-capitalism at home. The Pentagon budget presented to Congress a few months
-after the fall of the Berlin Wall remained largely unchanged, but was packaged
-in a new rhetorical framework, presented in the National Security Strategy of
-March 1990. Once priority was to support advanced industry in traditional
-ways, in sharp violation of the free market doctrines proclaimed and imposed
-on others. The National Security Strategy called for strengthening 'the
-defence industrial base' (essentially, high-tech industry) with incentives 'to
-invest in new facilities and equipment as well as in research and
-development.' As in the past, the costs and risks of the coming phases of the
-industrial economy were to be socialised, with eventual profits privatised, a
-form of state socialism for the rich on which much of the advanced US economy
-relies, particularly since World War II."_ [**Failed States**, p. 126]
+> pretexts not only for [foreign] intervention but also for militarised state
+> capitalism at home. The Pentagon budget presented to Congress a few months
+> after the fall of the Berlin Wall remained largely unchanged, but was
+> packaged in a new rhetorical framework, presented in the National Security
+> Strategy of March 1990. Once priority was to support advanced industry in
+> traditional ways, in sharp violation of the free market doctrines proclaimed
+> and imposed on others. The National Security Strategy called for
+> strengthening 'the defence industrial base' (essentially, high-tech
+> industry) with incentives 'to invest in new facilities and equipment as well
+> as in research and development.' As in the past, the costs and risks of the
+> coming phases of the industrial economy were to be socialised, with eventual
+> profits privatised, a form of state socialism for the rich on which much of
+> the advanced US economy relies, particularly since World War II."_ [
+> **Failed States** , p. 126]
 
 This means that US defence businesses, which are among the biggest lobbyists,
 cannot afford to lose this "corporate welfare." Unsurprisingly, they did not.
@@ -212,7 +212,7 @@ quagmire of Iraq.
 While the Bush Administration's doctrine of _"pre-emptive war"_ (i.e.
 aggression) may have, as Chomsky noted, _"broken little new ground"_ and have
 been standard (but unspoken) US policy from its birth, its does show how
-militarism will be justified for some time to come. [**Op. Cit.**, p. 85] It
+militarism will be justified for some time to come. [ **Op. Cit.** , p. 85] It
 (and the threat of terrorism which is used to justify it) provides the
 Pentagon with more arguments for continued high levels of defence spending and
 military intervention. In a nutshell, then, the trend toward increasing
@@ -225,23 +225,23 @@ of the people. For example, Holly Sklar points out that Washington, Detroit,
 and Philadelphia have higher infant death rates than Jamaica or Costa Rica and
 that Black America as a whole has a higher infant mortality rate than Nigeria;
 yet the US still spends less public funds on education than on the military,
-and more on military bands than on the National Endowment for the Arts.
-[_"Brave New World Order,"_ Cynthia Peters (ed.), **Collateral Damage**, pp.
+and more on military bands than on the National Endowment for the Arts. [
+_"Brave New World Order,"_ Cynthia Peters (ed.), **Collateral Damage** , pp.
 3-46] But of course, politicians continue to maintain that education and
 social services must be cut back even further because there is "no money" to
 fund them. As Chomsky so rightly says:
 
 > _"It is sometimes argued that concealing development of high-tech industry
-under the cover of 'defence' has been a valuable contribution to society.
-Those who do not share that contempt for democracy might ask what decisions
-the population would have made if they had been informed of the real options
-and allowed to choose among them. Perhaps they might have preferred more
-social spending for health, education, decent housing, a sustainable
-environment for future generations, and support for the United Nations,
-international law, and diplomacy, as polls regularly show. We can only guess,
-since fear of democracy barred the option of allowing the public into the
-political arena, or even informing them about what was being done in their
-name."_ [**Op. Cit.**, p. 127]
+> under the cover of 'defence' has been a valuable contribution to society.
+> Those who do not share that contempt for democracy might ask what decisions
+> the population would have made if they had been informed of the real options
+> and allowed to choose among them. Perhaps they might have preferred more
+> social spending for health, education, decent housing, a sustainable
+> environment for future generations, and support for the United Nations,
+> international law, and diplomacy, as polls regularly show. We can only
+> guess, since fear of democracy barred the option of allowing the public into
+> the political arena, or even informing them about what was being done in
+> their name."_ [ **Op. Cit.** , p. 127]
 
 Finally, as well as skewing resource allocation and wealth away from the
 general public, militarism also harms freedom and increases the threat of war.
@@ -252,7 +252,7 @@ general population have to hope that the outcome of such rivalries do not lead
 to war. As Goldman noted about the First World War, can be, in part, _"traced
 to the cut-throat competition for military equipment . . . Armies equipped to
 the teeth with weapons, with highly developed instruments of murder backed by
-their military interests, have their own dynamic functions."_ [**Op. Cit.**,
+their military interests, have their own dynamic functions."_ [ **Op. Cit.** ,
 p. 353]
 
 As to freedom, as an institution the military is based on the _"unquestioning
@@ -261,7 +261,7 @@ General). The ideal soldier, as Goldman puts it, is _"a cold-blooded,
 mechanical, obedient tool of his military superiors"_ and this position cannot
 be harmonised with individual liberty. Indeed, _"[c]an there be anything more
 destructive of the true genius of liberty than . . . the spirit of
-unquestioning obedience?"_ [**Op. Cit.**, pp. 52-4] As militarism becomes
+unquestioning obedience?"_ [ **Op. Cit.** , pp. 52-4] As militarism becomes
 bigger, this spirit of obedience widens and becomes more dominant in the
 community. It comes to the fore during periods of war or in the run up to war,
 when protest and dissent are equated to treason by those in power and their
@@ -269,11 +269,11 @@ supporters. The war hysteria and corresponding repression and authoritarianism
 which repeatedly sweeps so-called "free" nations shows that militarism has a
 wider impact than just economic development and wasted resources. As Bakunin
 noted, _"where military force prevails, there freedom has to take its leave --
-especially the freedom and well-being of the working people."_ [**The
-Political Philosophy of Bakunin**, pp. 221-2]
+especially the freedom and well-being of the working people."_ [ **The
+Political Philosophy of Bakunin** , pp. 221-2]
 
 [‹ D.7 Are anarchists opposed to National Liberation struggles?](secD7.md
-"Go to previous page" ) [up](secDcon.md "Go to parent page" ) [D.9 Why does
+"Go to previous page") [up](secDcon.md "Go to parent page") [D.9 Why does
 political power become concentrated under capitalism? ›](secD9.md "Go to
-next page" )
+next page")
 

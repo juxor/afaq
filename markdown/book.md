@@ -1,5 +1,7 @@
 # An Anarchist FAQ now published!
 
+now published volumes 1 and 2 of **An Anarchist FAQ** : [Buying An Anarchist
+FAQ](buying-an-anarchist-faq) (ISBN: 978-1902593906)
 
 Volume 1 was published by AK Press in 2008 while Volume 2 was published in
 2012. Both volumes are available from AK Press in America and in the UK:
@@ -55,6 +57,6 @@ edited to ensure that it approximates volume 1 in size. This has involved
 trimming around a tenth of the material. In addition, the published
 bibliography only lists works that are in the print version.
 
-[‹ An Anarchist FAQ](index.md "Go to previous page" ) [up](index.md "Go to
-parent page" ) [What's New in the FAQ? ›](new.md "Go to next page" )
+[‹ An Anarchist FAQ](index.md "Go to previous page") [up](index.md "Go to
+parent page") [What's New in the FAQ? ›](new.md "Go to next page")
 

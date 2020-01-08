@@ -5,12 +5,12 @@ thinking about the world unless you also want to change it for the better. And
 by trying to change it, you change yourself and others, making radical change
 more of a possibility. Therefore anarchists give their whole-hearted support
 to attempts by ordinary people to improve their lives by their own actions. We
-urge _"**emancipation through practical action**"_ recognising that the
+urge _" **emancipation through practical action** "_ recognising that the
 _"collective experience"_ gained in _"the collective struggle of the workers
 against the bosses"_ will transform how they see the world and the world
-itself. [Bakunin, **The Basic Bakunin**, p. 103] Ultimately, _"[t]he true man
+itself. [Bakunin, **The Basic Bakunin** , p. 103] Ultimately, _"[t]he true man
 does not lie in the future, an object of longing, but lies, existent and real,
-in the present._ [Stirner, **The Ego and Its Own**, p. 327]
+in the present._ [Stirner, **The Ego and Its Own** , p. 327]
 
 Anarchism is more than just a critique of statism and capitalism or a vision
 of a freer, better way of life. It is first and foremost a movement, the
@@ -22,15 +22,15 @@ the mental, ethical and spiritual qualities which can make an anarchist
 society a viable option. As Noam Chomsky argues:
 
 > _"Only through their own struggle for liberation will ordinary people come
-to comprehend their true nature, suppressed and distorted within institutional
-structures designed to assure obedience and subordination. Only in this way
-will people develop more humane ethical standards, 'a new sense of right',
-'the consciousness of their strength and their importance as a social factor
-in the life of their time' and their capacity to realise the strivings of
-their 'inmost nature.' Such direct engagement in the work of social
-reconstruction is a prerequisite for coming to perceive this 'inmost nature'
-and is the indispensable foundations upon which it can flourish"_
-[_"preface"_, Rudolf Rocker, **Anarcho-Syndicalism**, p. iii]
+> to comprehend their true nature, suppressed and distorted within
+> institutional structures designed to assure obedience and subordination.
+> Only in this way will people develop more humane ethical standards, 'a new
+> sense of right', 'the consciousness of their strength and their importance
+> as a social factor in the life of their time' and their capacity to realise
+> the strivings of their 'inmost nature.' Such direct engagement in the work
+> of social reconstruction is a prerequisite for coming to perceive this
+> 'inmost nature' and is the indispensable foundations upon which it can
+> flourish"_ [ _"preface"_ , Rudolf Rocker, **Anarcho-Syndicalism** , p. iii]
 
 In other words, anarchism is not primarily a vision of a better future, but
 the actual social movement which is fighting within the current unjust and
@@ -43,7 +43,7 @@ wherever honest people, rebelling against all enforced discipline, join freely
 together in order to educate themselves, and to reclaim, without any master,
 their share of life, and the complete satisfaction of their needs."_ [Elisée
 Reclus, quoted by John P. Clark and Camille Martin (ed.), **Anarchy,
-Geography, Modernity**, p. 62]
+Geography, Modernity** , p. 62]
 
 For anarchists, the future is **already appearing in the present** and is
 expressed by the creativity of working class self-activity. Anarchy is not
@@ -51,9 +51,9 @@ some-day-to-be-achieved utopia, it is a living reality whose growth only needs
 to be freed from constraint. As such anarchist activity is about discovering
 and aiding emerging trends of mutual aid which work against capitalist
 domination, so the Anarchist _"studies society and tries to discover its
-**tendencies**, past and present, its growing needs, intellectual and
+**tendencies** , past and present, its growing needs, intellectual and
 economic, and in his [or her] ideal he merely points out in which direction
-evolution goes."_ [Peter Kropotkin, **Anarchism**, p. 47] Indeed, as we
+evolution goes."_ [Peter Kropotkin, **Anarchism** , p. 47] Indeed, as we
 discussed in [section I.2.3](secI2.md#seci23), the future structures of a
 free society are created in the struggles against oppression today.
 
@@ -61,9 +61,9 @@ The kinds of activity outlined in this section are a general overview of
 anarchist work. It is by no means exclusive -- we are sure to have left
 something out. However, the key aspect of **real** anarchist activity is
 **_direct action_** \- self-activity, self-help, self-liberation and
-solidarity (_"We wish,"_ as French syndicalist Fernand Pelloutier wrote,
+solidarity ( _"We wish,"_ as French syndicalist Fernand Pelloutier wrote,
 _"that the emancipation of the people might be the work of the people
-themselves."_ [quoted by Jeremy Jennings, **Syndicalism in France**, p. 18]).
+themselves."_ [quoted by Jeremy Jennings, **Syndicalism in France** , p. 18]).
 Such activity may be done by individuals (for example, propaganda work), but
 usually anarchists emphasise collective activity. This is because most of our
 problems are of a social nature, meaning that their solutions can only be
@@ -96,11 +96,11 @@ stressed by Emma Goldman after she saw the defeat of the Russian Revolution by
 a combination of Leninist politics and capitalist armed intervention:
 
 > _"revolution is in vain unless inspired by its ultimate ideal. Revolutionary
-methods must be in tune with revolutionary aims . . . In short, the ethical
-values which the revolution is to establish must be initiated with the
-revolutionary activities . . . The latter can only serve as a real and
-dependable bridge to the better life if built of the same material as the life
-to be achieved."_ [**Red Emma Speaks**, p. 404]
+> methods must be in tune with revolutionary aims . . . In short, the ethical
+> values which the revolution is to establish must be initiated with the
+> revolutionary activities . . . The latter can only serve as a real and
+> dependable bridge to the better life if built of the same material as the
+> life to be achieved."_ [ **Red Emma Speaks** , p. 404]
 
 In other words, anarchist activity is more than creating libertarian
 alternatives and resisting hierarchy, it is about building the new world in
@@ -112,7 +112,7 @@ each other) for while _"we associate ourselves with others in working for . .
 all government, and the direct seizure by the workers of the means of
 production"_ we do not forget that _"the first aim of Anarchism is to assert
 and make good the dignity of the individual human being."_ [Charlotte Wilson,
-**Anarchist Essays**, p. 43 and p. 51]
+**Anarchist Essays** , p. 43 and p. 51]
 
 By direct action, self-management and self-activity we can make the words
 first heard in Paris, 1968 a living reality: **_"All power to the
@@ -130,10 +130,10 @@ Part of the task of anarchists is to challenge social hierarchies everywhere,
 including in the home. As Durruti put it:
 
 > _"When will you stop thinking like the bourgeoisie, that women are men's
-servants? It's enough that society is divided into classes. We're not going to
-make even more classes by creating differences between men and women in our
-own homes!"_ [quoted by Abel Paz, **Durruti in the Spanish Revolution**, p.
-341]
+> servants? It's enough that society is divided into classes. We're not going
+> to make even more classes by creating differences between men and women in
+> our own homes!"_ [quoted by Abel Paz, **Durruti in the Spanish Revolution**
+> , p. 341]
 
 So we have a interactive process of struggle and transformation of both
 society and the individuals within it. In the sections that follow we will
@@ -141,7 +141,7 @@ discuss the forms of self-activity and self-organisation which anarchists
 think will stimulate and develop the imagination of those oppressed by
 hierarchy, build anarchy in action and help create a free society.
 
-[‹ Section J - What do anarchists do?](secJcon.md "Go to previous page" )
-[up](secJcon.md "Go to parent page" ) [J.1 Are anarchists involved in social
-struggles? ›](secJ1.md "Go to next page" )
+[‹ Section J - What do anarchists do?](secJcon.md "Go to previous page")
+[up](secJcon.md "Go to parent page") [J.1 Are anarchists involved in social
+struggles? ›](secJ1.md "Go to next page")
 

@@ -40,7 +40,7 @@ of **all** their polemics. They worked with inadequate documentation, which,
 according to their custom, they supplemented with arbitrary declarations and
 conclusions - accepted as truth by their followers although they were exposed
 as deplorable misrepresentations, errors and unscrupulous perversions of the
-truth."_ [**A Short History of Anarchism**, p. 132] As the reader will
+truth."_ [ **A Short History of Anarchism** , p. 132] As the reader will
 discover, this summary has not lost its relevance today. If you read Marxist
 "critiques" of anarchism you will soon discover the same repetition of
 "accepted" truths, the same inadequate documentation, the same arbitrary
@@ -57,8 +57,8 @@ disappear being, probably, the most famous one).
 Moreover, Marxists make many major and minor distortions of anarchist theory
 in passing. For example, Eric Hobsbawm wrote of the _"extremism of the
 anarchist rejection of state and organisation"_ while being well aware, as a
-leading Marxist historian, of numerous anarchist organisations.
-[**Revolutionaries**, p. 113] This kind of nonsense has a long history, with
+leading Marxist historian, of numerous anarchist organisations. [
+**Revolutionaries** , p. 113] This kind of nonsense has a long history, with
 Engels asserting in his infamous diatribe _"The Bakuninists at work"_ that
 Bakunin _"[a]s early as September 1870 (in his **Lettres a un francais**
 [Letters to a Frenchman]) . . . had declared that the only way to drive the
@@ -71,7 +71,7 @@ them, this precluding any possibility of a combined attack."_ This meant _"the
 fragmentation and isolation of the revolutionary forces which enabled the
 government troops to smash one revolt after the other."_ According to Engels,
 the anarchists _"proclaimed [this] a principle of supreme revolutionary
-wisdom."_ [**Collected Works**, vol. 23, p. 592]
+wisdom."_ [ **Collected Works** , vol. 23, p. 592]
 
 In fact, the truth is totally different. Bakunin did, of course, reject
 _"centralised leadership"_ as it would be _"necessarily very circumscribed,
@@ -89,9 +89,9 @@ arrangements."_ The peasants would be _"freely organised from the bottom up."_
 Rather than deny the need for co-ordination, Bakunin stressed it: _"the
 peasants, like the industrial city workers, should unite by federating the
 fighting battalions, district by district, assuring a common co-ordinated
-defence against internal and external enemies."_ [_"Letters to a Frenchman on
-the present crisis"_, **Bakunin on Anarchism**, p. 196, p. 206, p. 207 and p.
-190]
+defence against internal and external enemies."_ [ _"Letters to a Frenchman on
+the present crisis"_ , **Bakunin on Anarchism** , p. 196, p. 206, p. 207 and
+p. 190]
 
 In this Bakunin was repeating his earlier arguments concerning social
 revolution - arguments that Engels was well aware of and so he deliberately
@@ -104,17 +104,17 @@ proletarian revolution"_ and _"instead of staging isolated, easily crushed
 rebellions,"_ he hoped that the _"Spanish workers will make use of the
 republic"_ with a _"view to an approaching revolution."_ He ended by asking
 them not to give the bourgeois government _"an excuse to suppress the
-revolutionary movement."_ [**Op. Cit.**, pp. 420-1] In his post-revolt
+revolutionary movement."_ [ **Op. Cit.** , pp. 420-1] In his post-revolt
 diatribe, Engels repeated this analysis and suggested that the "Bakuninists"
 should have simply stood for election:
 
 > _"At quiet times, when the proletariat knows beforehand that at best it can
-get only a few representatives to parliament and have no chance whatever of
-winning a parliamentary majority, the workers may sometimes be made to believe
-that it is a great revolutionary action to sit out the elections at home, and
-in general, not to attack the State in which they live and which oppresses
-them, but to attack the State as such which exists nowhere and which
-accordingly cannot defend itself."_ [**Op. Cit.**, p. 583]
+> get only a few representatives to parliament and have no chance whatever of
+> winning a parliamentary majority, the workers may sometimes be made to
+> believe that it is a great revolutionary action to sit out the elections at
+> home, and in general, not to attack the State in which they live and which
+> oppresses them, but to attack the State as such which exists nowhere and
+> which accordingly cannot defend itself."_ [ **Op. Cit.** , p. 583]
 
 For some reason, few Leninists quote these recommendations to the Spanish
 workers nor do they dwell on the reformist and bureaucratic nature of the
@@ -128,14 +128,14 @@ strange reason, few Leninists mention that either.
 The distortions can be somewhat ironic, as can be seen when Trotsky asserted
 in 1937 that anarchists are _"willing to replace Bakunin's patriarchal
 'federation of free communes' by the more modern federation of free soviets."_
-[**Writings 1936-37**, p. 487] It is hard to know where to start in this
+[ **Writings 1936-37** , p. 487] It is hard to know where to start in this
 incredulous rewriting of history. Firstly, Bakunin's federation of free
 communes was, in fact, based on workers' councils ("soviets") - see [section
 I.2.3](secI2.md#seci23). As for the charge of supporting _"patriarchal"_
 communes, nothing could be further from the truth. In his discussion of the
 Russian peasant commune (the mir) Bakunin argued that _"patriarchalism"_ was
 one of its _"three dark features,"_ indeed _"the main historical evil . . .
-against which we are obliged to struggle with all our might."_ This _"evil"_,
+against which we are obliged to struggle with all our might."_ This _"evil"_ ,
 he stressed, _"has distorted the whole of Russian life"_ and the _"despotism
 of the father"_ turned the family _"into a school of triumphant force and
 tyranny, of daily domestic baseness and depravity."_ The _"same patriarchal
@@ -143,8 +143,8 @@ principle, the same vile despotism, and the same base obedience prevail
 within"_ the peasant commune. Any revolt against _"the hated state power and
 bureaucratic arbitrariness . . . simultaneously becomes a revolt against the
 despotism of the commune."_ The _"war against patriarchalism is now being
-waged in virtually every village and every family."_[**Statism and Anarchy**,
-p. 206, pp. 209-10, p. 210 and p. 214]
+waged in virtually every village and every family."_ [ **Statism and Anarchy**
+, p. 206, pp. 209-10, p. 210 and p. 214]
 
 As can be seen Trotsky's summary of Bakunin's ideas is totally wrong. Not only
 did his ideas on the organisation of the free commune as a federation of
@@ -169,8 +169,8 @@ pre-anarchist works (as well as Russian nihilists) than Bakunin's anarchist
 works to prove his claim. Similarly, Thomas claims that Bakunin _"defended the
 **federes** of the Paris Commune of 1871 on the grounds that they were strong
 enough to dispense with theory altogether,"_ yet his supporting quote clearly
-does not, in fact, say this. [**Karl Marx and the Anarchists**, pp. 288-90 and
-p. 285] What Bakunin was, in fact, arguing was simply that theory must
+does not, in fact, say this. [ **Karl Marx and the Anarchists** , pp. 288-90
+and p. 285] What Bakunin was, in fact, arguing was simply that theory must
 progress from experience and that any attempt to impose a theory on society
 would be doomed to create a _"Procrustean bed"_ as no government could
 _"embrace the infinite multiplicity and diversity of the real aspirations,
@@ -181,19 +181,20 @@ knowledge among the people, so that the various groups of human society, when
 convinced by propaganda, may organise and spontaneously combine into
 federations, in accordance with their natural tendencies and their real
 interests, but never according to a plan traced in advance and **imposed upon
-the ignorant masses** by a few 'superior' minds."_ [**The Political Theory of
-Bakunin**, p. 300] A clear misreading of Bakunin's argument but one which fits
-nicely into Marxist preconceptions of Bakunin and anarchism in general.
+the ignorant masses** by a few 'superior' minds."_ [ **The Political Theory of
+Bakunin** , p. 300] A clear misreading of Bakunin's argument but one which
+fits nicely into Marxist preconceptions of Bakunin and anarchism in general.
 
 This tendency to quote out of context or from periods when anarchists were not
 anarchists probably explains why so many of these Marxist accounts of
 anarchism are completely lacking in references. Take, for example, the British
 SWP's Pat Stack who, in the face of stiff competition, wrote one of the most
 inaccurate diatribes against anarchism the world has had the misfortunate to
-see (namely _"Anarchy in the UK?"_ [**Socialist Review**, no. 246]). There is
-not a single reference in the whole article, which is just as well, given the
-inaccuracies contained in it. Without references, the reader would not be able
-to discover for themselves the distortions and simple errors contained in it.
+see (namely _"Anarchy in the UK?"_ [ **Socialist Review** , no. 246]). There
+is not a single reference in the whole article, which is just as well, given
+the inaccuracies contained in it. Without references, the reader would not be
+able to discover for themselves the distortions and simple errors contained in
+it.
 
 For example, Stack asserts that Bakunin _"claimed a purely 'instinctive
 socialism.'"_ However, the truth is different and this quote from Bakunin is
@@ -202,16 +203,16 @@ Bakunin argued that _"instinct as a weapon is not sufficient to safeguard the
 proletariat against the reactionary machinations of the privileged classes,"_
 as instinct _"left to itself, and inasmuch as it has not been transformed into
 consciously reflected, clearly determined thought, lends itself easily to
-falsification, distortion and deceit."_ [**The Political Philosophy of
-Bakunin**, p. 215] Bakunin saw the process of class struggle as the means of
+falsification, distortion and deceit."_ [ **The Political Philosophy of
+Bakunin** , p. 215] Bakunin saw the process of class struggle as the means of
 transforming instinct into conscious thought. As he put it, the _"goal, then,
 is to make the worker fully aware of what he [or she] wants, to unjam within
 him [or her] a steam of thought corresponding to his [or her] instinct."_ This
-is done by _"a single path, that of **emancipation through practical
-action**,"_ by _"workers' solidarity in their struggle against the bosses,"_
-of _"collective struggle of the workers against the bosses."_ This would be
-complemented by socialist organisations _"propagandis[ing] its principles."_
-[**The Basic Bakunin**, p. 102, p. 103 and p. 109] Clearly, Stack is totally
+is done by _"a single path, that of **emancipation through practical action**
+,"_ by _"workers' solidarity in their struggle against the bosses,"_ of
+_"collective struggle of the workers against the bosses."_ This would be
+complemented by socialist organisations _"propagandis[ing] its principles."_ [
+**The Basic Bakunin** , p. 102, p. 103 and p. 109] Clearly, Stack is totally
 distorting Bakunin's ideas on the subject.
 
 This technique of quoting Bakunin when he spoke about (or when he wrote in)
@@ -237,8 +238,8 @@ these "great men." However, while Marxists may do this, anarchists have always
 rejected this approach. We deliberately call ourselves **anarchists** rather
 than Proudhonists, Bakuninists, Kropotkinists, or after any other person. As
 Malatesta argued in 1876 (the year of Bakunin's death) _"[w]e follow ideas and
-not men, and rebel against this habit of embodying a principle in a man."_
-[**Errico Malatesta: His Life and Ideas**, p. 198]
+not men, and rebel against this habit of embodying a principle in a man."_ [
+**Errico Malatesta: His Life and Ideas** , p. 198]
 
 Therefore, anarchists, unlike many (most?) Marxists do not believe that some
 prophet wrote down the scriptures in past centuries and if only we could reach
@@ -246,14 +247,14 @@ a correct understanding of these writings today we would see the way forward.
 Chomsky put it extremely well:
 
 > _"The whole concept of Marxist or Freudian or anything like that is very
-odd. These concepts belong to the history of organised religion. Any living
-person, no matter how gifted, will make some contributions intermingled with
-error and partial understanding. We try to understand and improve on their
-contributions and eliminate the errors. But how can you identify yourself as a
-Marxist, or a Freudian, or an X-ist, whoever X may be? That would be to treat
-the person as a God to be revered, not a human being whose contributions are
-to be assimilated and transcended. It's a crazy idea, a kind of idolatry."_
-[**The Chomsky Reader**, pp. 29-30]
+> odd. These concepts belong to the history of organised religion. Any living
+> person, no matter how gifted, will make some contributions intermingled with
+> error and partial understanding. We try to understand and improve on their
+> contributions and eliminate the errors. But how can you identify yourself as
+> a Marxist, or a Freudian, or an X-ist, whoever X may be? That would be to
+> treat the person as a God to be revered, not a human being whose
+> contributions are to be assimilated and transcended. It's a crazy idea, a
+> kind of idolatry."_ [ **The Chomsky Reader** , pp. 29-30]
 
 This means that anarchists recognise that any person, no matter how great or
 influential, is only human. They make mistakes, they fail to live up to all
@@ -268,7 +269,7 @@ teachings that would be of great service to our modern libertarians, who
 nevertheless have to find their own way from theory to practice and to the
 critique of our present-day conditions, as Proudhon did in his time. This does
 not call for a slavish imitation; it implies using his work to inspire us and
-enable us to profit by his experience."_ [**A Short History of Anarchism**,
+enable us to profit by his experience."_ [ **A Short History of Anarchism** ,
 pp. 46-7] Similarly for other anarchists - we see them as a source of
 inspiration upon which to build rather than a template which to copy. This
 means to attack anarchism by, say, attacking Bakunin's or Proudhon's personal
@@ -289,8 +290,8 @@ hard to go back on that and say that the working class is not yet ready to
 dispense with authority placed over it . . . Marxism normally tries to refrain
 from criticising anarchism as such - unless driven to doing so, when it
 exposes its own authoritarianism . . . and concentrates its attacks not on
-Anarchism, but on Anarchists."_ [**Anarchism: Arguments for and Against**, p.
-62] Needless to say, this technique is the one usually applied by Marxists
+Anarchism, but on Anarchists."_ [ **Anarchism: Arguments for and Against** ,
+p. 62] Needless to say, this technique is the one usually applied by Marxists
 (although, we must stress that usually their account of the ideas of Proudhon,
 Bakunin, and Kropotkin are so distorted that they fail even to do this!).
 
@@ -332,19 +333,19 @@ Power** present a typical Marxist account of what **they** consider as
 anarchist ideas on this subject:
 
 > _"the anarchist conclusion is not to build any sort of state in the first
-place - not even a democratic workers' state. But how could we stop the
-capitalists trying to get their property back, something they will definitely
-try and do? _
+> place - not even a democratic workers' state. But how could we stop the
+> capitalists trying to get their property back, something they will
+> definitely try and do?_
 
 > _"Should the people organise to stop the capitalists raising private armies
-and resisting the will of the majority? If the answer is yes, then that
-organisation - whatever you prefer to call it - is a state: an apparatus
-designed to enable one class to rule over another. _
+> and resisting the will of the majority? If the answer is yes, then that
+> organisation - whatever you prefer to call it - is a state: an apparatus
+> designed to enable one class to rule over another._
 
 > _"The anarchists are rejecting something which is necessary if we are to
-beat the capitalists and have a chance of developing a classless society."_
-[_"What's wrong with anarchism?"_, pp. 12-13, **World Revolution: Prague S26
-2000**, p. 13]
+> beat the capitalists and have a chance of developing a classless society."_
+> [ _"What's wrong with anarchism?"_ , pp. 12-13, **World Revolution: Prague
+> S26 2000** , p. 13]
 
 It would be simple to quote Malatesta from 1891 on this issue and leave it at
 that. As he put it some seem to suppose _"that anarchists, in the name of
@@ -353,7 +354,7 @@ violates and destroys the freedom and life of others. They seem almost to
 believe that after having brought down government and private property we
 would allow both to be quietly built up again, because of respect for the
 **freedom** of those who might feel the need to be rulers and property owners.
-A truly curious way of interpreting our ideas."_ [**Anarchy**, pp. 42-3]
+A truly curious way of interpreting our ideas."_ [ **Anarchy** , pp. 42-3]
 Pretty much common sense, so you would think! Sadly, this appears to not be
 the case. As such, we have to explain anarchist ideas on the defence of a
 revolution and why this necessity need not imply a state and, if it did, then
@@ -363,9 +364,9 @@ The argument by **Workers' Power** is very common within the Leninist left and
 contains three fallacies, which we expose in turn. Firstly, we have to show
 that anarchists have always seen the necessity of defending a revolution. This
 shows that the anarchist opposition to the _"democratic workers' state"_ (or
-_"dictatorship of the proletariat"_) has nothing to do with beating the ruling
-class and stopping them regaining their positions of power. Secondly, we have
-to discuss the anarchist and Marxist definitions of what constitutes a
+_"dictatorship of the proletariat"_ ) has nothing to do with beating the
+ruling class and stopping them regaining their positions of power. Secondly,
+we have to discuss the anarchist and Marxist definitions of what constitutes a
 _"state"_ and show what they have in common and how they differ. Thirdly, we
 must summarise why anarchists oppose the idea of a _"workers' state"_ in order
 for the **real** reasons why anarchists oppose it to be understood. Each issue
@@ -377,27 +378,28 @@ while strenuously objecting to the idea of a _"dictatorship of the
 proletariat"_ also thought a revolution would need to defend itself:
 
 > _"Immediately after established governments have been overthrown, communes
-will have to reorganise themselves along revolutionary lines . . . In order to
-defend the revolution, their volunteers will at the same time form a communal
-militia. But no commune can defend itself in isolation. So it will be
-necessary to radiate revolution outward, to raise all of its neighbouring
-communes in revolt . . . and to federate with them for common defence."_ [**No
-Gods, No Masters**, vol. 1, p. 142]
+> will have to reorganise themselves along revolutionary lines . . . In order
+> to defend the revolution, their volunteers will at the same time form a
+> communal militia. But no commune can defend itself in isolation. So it will
+> be necessary to radiate revolution outward, to raise all of its neighbouring
+> communes in revolt . . . and to federate with them for common defence."_ [
+> **No Gods, No Masters** , vol. 1, p. 142]
 
 And:
 
 > _"the Alliance of all labour associations . . . will constitute the Commune
-. . . there will be a standing federation of the barricades and a
-Revolutionary Communal Council . . . [made up of] delegates . . . invested
-with binding mandates and accountable and revocable at all times . . . all
-provinces, communes and associations . . . [will] delegate deputies to an
-agreed place of assembly (all . . . invested with binding mandated and
-accountable and subject to recall), in order to found the federation of
-insurgent associations, communes and provinces . . . and to organise a
-revolutionary force with the capacity of defeating the reaction . . . it is
-through the very act of extrapolation and organisation of the Revolution with
-an eye to the mutual defences of insurgent areas that the universality of the
-Revolution . . . will emerge triumphant."_ [**Op. Cit.**, pp. 155-6]
+> . . . there will be a standing federation of the barricades and a
+> Revolutionary Communal Council . . . [made up of] delegates . . . invested
+> with binding mandates and accountable and revocable at all times . . . all
+> provinces, communes and associations . . . [will] delegate deputies to an
+> agreed place of assembly (all . . . invested with binding mandated and
+> accountable and subject to recall), in order to found the federation of
+> insurgent associations, communes and provinces . . . and to organise a
+> revolutionary force with the capacity of defeating the reaction . . . it is
+> through the very act of extrapolation and organisation of the Revolution
+> with an eye to the mutual defences of insurgent areas that the universality
+> of the Revolution . . . will emerge triumphant."_ [ **Op. Cit.** , pp.
+> 155-6]
 
 Malatesta agreed, explicitly pointing to _"corps of volunteers (anarchist
 formations)"_ as a means of defending a revolution from _"attempts to reduce a
@@ -405,13 +407,13 @@ free people to a state of slavery again."_ To defend a revolution required
 _"the necessary geographical and mechanical knowledge, and above all large
 masses of the population willing to go and fight. A government can neither
 increase the abilities of the former nor the will and courage of the latter."_
-[**Anarchy**, p. 42] Decades later, his position had not changed and he was
+[ **Anarchy** , p. 42] Decades later, his position had not changed and he was
 still arguing for the _"creation of voluntary militia, without powers to
 interfere as militia in the life of the community, but only to deal with any
 armed attacks by the forces of reaction to re-establish themselves, or to
 resist outside intervention"_ for only _"the people in arms, in possession of
 the land, the factories and all the natural wealth"_ could _"defend . . . the
-revolution."_ [**Errico Malatesta: His Life and Ideas**, p. 166 and p. 170]
+revolution."_ [ **Errico Malatesta: His Life and Ideas** , p. 166 and p. 170]
 
 Alexander Berkman concurred. In his classic introduction to anarchism, he
 devoted a whole chapter to the issue which he helpfully entitled _"Defense of
@@ -420,11 +422,11 @@ protect your liberty, to resist coercion and compulsion . . . the social
 revolution . . . will defend itself against invasion from any quarter . . .
 The armed workers and peasants are the only effective defence of the
 revolution. By means of their unions and syndicates they must always be on
-guard against counter-revolutionary attack."_ [**What is Anarchism?**, pp.
+guard against counter-revolutionary attack."_ [ **What is Anarchism?** , pp.
 231-2] Emma Goldman clearly and unambiguously stated that she had _"always
 insisted that an armed attack on the Revolution must be met with armed force"_
 and that _"an armed counter-revolutionary and fascist attack can be met in no
-way except by an armed defence."_ [**Vision on Fire**, p. 222 and p. 217]
+way except by an armed defence."_ [ **Vision on Fire** , p. 222 and p. 217]
 Kropotkin, likewise, took it as a given that _"a society in which the workers
 would have a dominant voice"_ would require a revolution to create and _"each
 time that such a period of accelerated evolution and reconstruction on a grand
@@ -436,18 +438,18 @@ oppressed part of society should obtain the clearest possible conception of
 what they intend to achieve, and how, and that they should be imbued with the
 enthusiasm which is necessary for that achievement."_ Thus, _"there are
 periods in human development when a conflict is unavoidable, and civil war
-breaks out quite independently of the will of particular individuals."_
-[**Memiors of a Revolutionist**, pp. 270-1]
+breaks out quite independently of the will of particular individuals."_ [
+**Memiors of a Revolutionist** , pp. 270-1]
 
 So Durruti, while fighting at the front during the Spanish revolution, was not
 saying anything new or against anarchist theory when he stated that _"the
 bourgeois won't let us create a libertarian communist society simply because
 we want to. They'll fight back and defend their privileges. The only way we
 can establish libertarian communism is by destroying the bourgeoisie"_ [quoted
-by Abel Paz, **Durruti in the Spanish Revolution**, p. 484] Clearly, anarchism
-has always recognised the necessity of defending a revolution and proposed
-ideas to ensure it (ideas applied with great success by, for example, the
-Makhnovists in the Ukrainian Revolution and the CNT militias during the
+by Abel Paz, **Durruti in the Spanish Revolution** , p. 484] Clearly,
+anarchism has always recognised the necessity of defending a revolution and
+proposed ideas to ensure it (ideas applied with great success by, for example,
+the Makhnovists in the Ukrainian Revolution and the CNT militias during the
 Spanish). As such, any assertion that anarchism rejects the necessity of
 defending a revolution is simply false. Sadly, it is one Marxists make
 repeatedly (undoubtedly inspired by Engels similar distortions - see [section
@@ -457,11 +459,11 @@ Which, of course, brings us to the second assertion, namely that any attempt
 to defend a revolution means that a state has been created (regardless of what
 it may be called). For anarchists, such an argument simply shows that Marxists
 do not really understand what a state is. While the Trotskyist definition of a
-_"state"_ may be (to quote **Workers' Power**) _"an apparatus designed to
+_"state"_ may be (to quote **Workers' Power** ) _"an apparatus designed to
 enable one class to rule another,"_ the anarchist definition is somewhat
 different. Anarchists, of course, do not deny that the modern state is (to use
 Malatesta's excellent expression) _"the bourgeoisie's servant and
-**gendarme**."_ [**Anarchy**, p. 23] However, as we discuss in [section
+**gendarme**."_ [ **Anarchy** , p. 23] However, as we discuss in [section
 H.3.7](secH3.md#sech37), the Marxist analysis is superficial and
 fundamentally metaphysical rather than scientific. Anarchists take an
 evolutionary perspective on the state and, as a result, argue that every state
@@ -478,20 +480,20 @@ situated above society"_ as well as _"a **territorial concentration** as well
 as the concentration of many functions of the life of societies in the hands
 of a few."_ It _"implies some new relationships between members of society . .
 . in order to subject some classes to the domination of others"_ and this
-becomes obvious _"when one studies the origins of the State."_ [**The State:
-Its Historic Role**, p. 10] This was the case with representative democracy:
+becomes obvious _"when one studies the origins of the State."_ [ **The State:
+Its Historic Role** , p. 10] This was the case with representative democracy:
 
 > _"To attack the central power, to strip it of its prerogatives, to
-decentralise, to dissolve authority, would have been to abandon to the people
-the control of its affairs, to run the risk of a truly popular revolution.
-That is why the bourgeoisie sought to reinforce the central government even
-more."_ [Kropotkin, **Words of a Rebel**, p. 143]
+> decentralise, to dissolve authority, would have been to abandon to the
+> people the control of its affairs, to run the risk of a truly popular
+> revolution. That is why the bourgeoisie sought to reinforce the central
+> government even more."_ [Kropotkin, **Words of a Rebel** , p. 143]
 
 This meant, Kropotkin continued, that the _"representative system was
 organised by the bourgeoisie to ensure their domination, and it will disappear
 with them. For the new economic phase that is about to begin we must seek a
 new form of political organisation, based on a principle quite different from
-that of representation. The logic of events imposes it."_ [**Op. Cit.**, p.
+that of representation. The logic of events imposes it."_ [ **Op. Cit.** , p.
 125] This suggests that the Marxist notion that we can use a state (i.e., any
 centralised and hierarchical social structure) to organise and defend a social
 revolution is based on flawed reasoning in which it _"seems to be taken for
@@ -500,7 +502,7 @@ view. If this were so, they might perhaps use the same means; but as the
 capitalist is out to perfect his system of exploitation and government, whilst
 the worker is out for emancipation and liberty, naturally the same means
 cannot be employed for both purposes."_ [George Barrett, **Objections to
-Anarchism**, p. 343]
+Anarchism** , p. 343]
 
 To reproduce in the new society social structures which share the same
 characteristics (such as centralisation and delegation of power) which mark
@@ -511,20 +513,21 @@ the state is to defend class society, we also stress the structure of the
 state has evolved to execute that role. In the words of Rudolf Rocker:
 
 > _"social institutions . . . do not arise arbitrarily, but are called into
-being by special needs to serve definite purposes . . . The newly arisen
-possessing classes had need of a political instrument of power to maintain
-their economic and social privileges over the masses of their own people . . .
-Thus arose the appropriate social conditions for the evolution of the modern
-state, as the organ of political power of privileged castes and classes for
-the forcible subjugation and oppression of the non-possessing classes . . .
-Its external forms have altered in the course of its historical development,
-but its functions have always been the same . . . And just as the functions of
-the bodily organs of . . . animals cannot be arbitrarily altered, so that, for
-example, one cannot at will hear with his eyes and see with his ears, so also
-one cannot at pleasure transform an organ of social oppression into an
-instrument for the liberation of the oppressed. The state can only be what it
-is: the defender of mass-exploitation and social privileges, and creator of
-privileged classes."_ [**Anarcho-Syndicalism**, pp. 14-5]
+> being by special needs to serve definite purposes . . . The newly arisen
+> possessing classes had need of a political instrument of power to maintain
+> their economic and social privileges over the masses of their own people . .
+> . Thus arose the appropriate social conditions for the evolution of the
+> modern state, as the organ of political power of privileged castes and
+> classes for the forcible subjugation and oppression of the non-possessing
+> classes . . . Its external forms have altered in the course of its
+> historical development, but its functions have always been the same . . .
+> And just as the functions of the bodily organs of . . . animals cannot be
+> arbitrarily altered, so that, for example, one cannot at will hear with his
+> eyes and see with his ears, so also one cannot at pleasure transform an
+> organ of social oppression into an instrument for the liberation of the
+> oppressed. The state can only be what it is: the defender of mass-
+> exploitation and social privileges, and creator of privileged classes."_ [
+> **Anarcho-Syndicalism** , pp. 14-5]
 
 As such, a new form of society, one based on the participation of all in the
 affairs of society (and a classless society can be nothing else) means the end
@@ -543,15 +546,15 @@ position of Marx and Engels, who asserted against Bakunin that _"to call this
 machine a 'revolutionary Commune organised from the bottom to top' makes
 little difference. The name changes nothing of the substance"_ for to be able
 to do anything at all the communal councils _"must be vested with some power
-and supported by a public force."_ [**Collected Works**, vol. 23, p. 469]
+and supported by a public force."_ [ **Collected Works** , vol. 23, p. 469]
 
 Anarchists reject this argument. To quote Daniel Guérin, initially anarchists
 used terms like the state or revolutionary state as a synonym for _"social
-collective"_ but_ "soon saw, however, that it was rather dangerous for them to
+collective"_ but _"soon saw, however, that it was rather dangerous for them to
 use the same word as the authoritarians while giving it a quite different
 meaning. They felt that a new concept called for a new word and that the use
 of the old term could be dangerously ambiguous; so they ceased to give the
-name 'State' to the social collective of the future."_ [**Anarchism**, pp.
+name 'State' to the social collective of the future."_ [ **Anarchism** , pp.
 60-1] This is more than mere labels or semantics as it gets to the heart of
 the difference between libertarian and authoritarian conceptions of society
 and social change. Anarchists argue that the state is structured to ensure
@@ -570,7 +573,7 @@ explains why they often talk of a "semi-state", a "new kind of state", a state
 "unique in history," or use some other expression to describe their post-
 revolutionary system. This would be a state (to use Engels words) which is
 _"no longer a state in the proper sense of the word."_ [quoted by Lenin, **Op.
-Cit.**, p. 319] If that **is** the case, then why call it state?
+Cit.** , p. 319] If that **is** the case, then why call it state?
 
 Somewhat ironically, Engels provided more than enough support for the
 anarchist position. It is perfectly possible to have social organisation and
@@ -579,14 +582,14 @@ Confederacy, Engels noted that _"organ of the Confederacy was a Federal
 Council"_ which was _"elected . . . and could always be removed"_ by popular
 assemblies. There was _"no chief executive"_ but _"two supreme war chiefs"_
 and _"[w]hen war broke out it was carried on mainly by volunteers."_ Yet this
-was _"the organisation of a society which as yet knows no **state**."_
-[**Selected Works**, p. 517, p. 518 and p. 516] In the anarchist commune there
+was _"the organisation of a society which as yet knows no **state**."_ [
+**Selected Works** , p. 517, p. 518 and p. 516] In the anarchist commune there
 is a federal council elected and mandated by popular assemblies. These, in
 turn, are federated in a similar bottom-up manner. The means of production
 have been expropriated and held by society as a whole and so classes have been
 abolished. Volunteer militias have been organised for self-defence against
 counter-revolutionary attempts to subject the free people to authority. Why is
-this **not** a society which _"knows no **state**"_? Is it because the
+this **not** a society which _"knows no **state** "_? Is it because the
 anarchist commune is fighting against the capitalist class? If so, does this
 mean that the Iroquois Confederacy became a state when it waged war against
 those seeking to impose bourgeois rule on it? That is doubtful and so Marx's
@@ -617,51 +620,54 @@ classes. The state is a source of social inequality in and of itself and,
 consequently, can oppress and exploit the working class just as much as, and
 independently of, any economically dominant class:
 
-> _"**All political power inevitably creates a privileged situation** for the
-men who exercise it. Thus it violates, from the beginning, the equalitarian
-principle and strikes at the heart of the Social Revolution . . . [It]
-inevitably becomes a source of other privileges, even if it does not depend on
-the bourgeoisie. Having taken over the Revolution, having mastered it, and
-bridled it, **power is compelled to create a bureaucratic apparatus**,
-indispensable to all authority which wants to maintain itself, to command, to
-order - in a word, 'to govern'. Rapidly, it attracts around itself all sorts
-of elements eager to dominate and exploit. _
+> _" **All political power inevitably creates a privileged situation** for the
+> men who exercise it. Thus it violates, from the beginning, the equalitarian
+> principle and strikes at the heart of the Social Revolution . . . [It]
+> inevitably becomes a source of other privileges, even if it does not depend
+> on the bourgeoisie. Having taken over the Revolution, having mastered it,
+> and bridled it, **power is compelled to create a bureaucratic apparatus** ,
+> indispensable to all authority which wants to maintain itself, to command,
+> to order - in a word, 'to govern'. Rapidly, it attracts around itself all
+> sorts of elements eager to dominate and exploit. _
 
-> _"**Thus it forms a new privileged caste**, at first politically and later
-economically . . . It sows everywhere the seed of inequality and soon infects
-the whole social organism."_ [Voline, **The Unknown Revolution**, p. 249]
+> _" **Thus it forms a new privileged caste** , at first politically and later
+> economically . . . It sows everywhere the seed of inequality and soon
+> infects the whole social organism."_ [Voline, **The Unknown Revolution** ,
+> p. 249]
 
 So if it **were** simply a question of consolidating a revolution and its
 self-defence then there would be no argument:
 
 > _"But perhaps the truth is simply this: . . . [some] take the expression
-'dictatorship of the proletariat' to mean simply the revolutionary action of
-the workers in taking possession of the land and the instruments of labour,
-and trying to build a society and organise a way of life in which there will
-be no place for a class that exploits and oppresses the producers. _
+> 'dictatorship of the proletariat' to mean simply the revolutionary action of
+> the workers in taking possession of the land and the instruments of labour,
+> and trying to build a society and organise a way of life in which there will
+> be no place for a class that exploits and oppresses the producers._
 
 > _"Thus constructed, the 'dictatorship of the proletariat' would be the
-effective power of all workers trying to bring down capitalist society and
-would thus turn into Anarchy as soon as resistance from reactionaries would
-have ceased and no one can any longer seek to compel the masses by violence to
-obey and work for him. In which case, the discrepancy between us would be
-nothing more than a question of semantics. Dictatorship of the proletariat
-would signify the dictatorship of everyone, which is to say, it would be a
-dictatorship no longer, just as government by everybody is no longer a
-government in the authoritarian, historical and practical sense of the word. _
+> effective power of all workers trying to bring down capitalist society and
+> would thus turn into Anarchy as soon as resistance from reactionaries would
+> have ceased and no one can any longer seek to compel the masses by violence
+> to obey and work for him. In which case, the discrepancy between us would be
+> nothing more than a question of semantics. Dictatorship of the proletariat
+> would signify the dictatorship of everyone, which is to say, it would be a
+> dictatorship no longer, just as government by everybody is no longer a
+> government in the authoritarian, historical and practical sense of the
+> word._
 
 > _"But the real supporters of 'dictatorship of the proletariat' do not take
-that line, as they are making quite plain in Russia. Of course, the
-proletariat has a hand in this, just as the people has a part to play in
-democratic regimes, that is to say, to conceal the reality of things. In
-reality, what we have is the dictatorship of one party, or rather, of one
-party's leaders: a genuine dictatorship, with its decrees, its penal
-sanctions, its henchmen and above all its armed forces, which are at present
-[1919] also deployed in the defence of the revolution against its external
-enemies, but which will tomorrow be used to impose the dictator's will upon
-the workers, to apply a break on revolution, to consolidate the new interests
-in the process of emerging and protect a new privileged class against the
-masses."_ [Malatesta, **No Gods, No Masters**, vol. 2, pp. 38-9]
+> that line, as they are making quite plain in Russia. Of course, the
+> proletariat has a hand in this, just as the people has a part to play in
+> democratic regimes, that is to say, to conceal the reality of things. In
+> reality, what we have is the dictatorship of one party, or rather, of one
+> party's leaders: a genuine dictatorship, with its decrees, its penal
+> sanctions, its henchmen and above all its armed forces, which are at present
+> [1919] also deployed in the defence of the revolution against its external
+> enemies, but which will tomorrow be used to impose the dictator's will upon
+> the workers, to apply a break on revolution, to consolidate the new
+> interests in the process of emerging and protect a new privileged class
+> against the masses."_ [Malatesta, **No Gods, No Masters** , vol. 2, pp.
+> 38-9]
 
 The question is, therefore, one of **who** _"seizes power"_ \- will it be the
 mass of the population or will it be a party claiming to represent it. The
@@ -679,7 +685,7 @@ population from the decision making process. This, ironically for Trotskyism,
 was one of the reasons why leading Bolsheviks (including Lenin and Trotsky)
 argued for a workers state. The centralisation of power implied by the state
 was essential so that the vanguard party could ignore (to use **Worker's
-Power**'s phrase) _"the will of the majority."_ This particular perspective
+Power** 's phrase) _"the will of the majority."_ This particular perspective
 was clearly a lesson they learned from their experiences during the Russian
 Revolution - as we discussed in [section H.1.2](secH1.md#sech12) the notion
 that the _"dictatorship of the proletariat"_ was, in fact, the _"dictatorship
@@ -709,17 +715,17 @@ summed up the issue well when he argued that _"'workers' power' cannot be
 identified or equated with the power of the Party - as it repeatedly was by
 the Bolsheviks . . . What 'taking power' really implies is that the vast
 majority of the working class at last realises its ability to manage both
-production and society - and organises to this end."_ [**The Bolsheviks and
-Workers' Control**, p. xiv]
+production and society - and organises to this end."_ [ **The Bolsheviks and
+Workers' Control** , p. xiv]
 
 In summary, therefore, anarchists reject the idea that the defence of a
-revolution can be conducted by a state. As Bakunin once put it, there is the _
-"Republic-State"_ and there is _"the system of the Republic-Commune, the
+revolution can be conducted by a state. As Bakunin once put it, there is the
+_"Republic-State"_ and there is _"the system of the Republic-Commune, the
 Republic-Federation, i.e. the system of **Anarchism.** This is the politics of
 the Social Revolution, which aims at the abolition of the **State** and
 establishment of the economic, entirely free organisation of the people -
-organisation from bottom to top by means of federation."_ [**The Political
-Philosophy of Bakunin**, p. 314] Indeed, creating a new state will simply
+organisation from bottom to top by means of federation."_ [ **The Political
+Philosophy of Bakunin** , p. 314] Indeed, creating a new state will simply
 destroy the most important gain of any revolution - working class autonomy -
 and its replacement by another form of minority rule (by the party).
 Anarchists have always argued that the defence of a revolution must not be
@@ -727,11 +733,11 @@ confused with the state and so argue for the abolition of the state **and**
 the defence of a revolution. Only when working class people actually run
 society themselves will a revolution be successful. For anarchists, this means
 that _"effective emancipation can be achieved only by the **direct,
-widespread, and independent action** . . . **of the workers themselves**,
+widespread, and independent action** . . . **of the workers themselves** ,
 grouped . . . in their own class organisations . . . on the basis of concrete
-action and self-government, **helped but not governed**, by revolutionaries
+action and self-government, **helped but not governed** , by revolutionaries
 working in the very midst of, and not above the mass and the professional,
-technical, defence and other branches."_ [Voline, **Op. Cit.**, p. 197]
+technical, defence and other branches."_ [Voline, **Op. Cit.** , p. 197]
 
 This means that anarchists argue that the state cannot be transformed or
 adjusted, but has to be smashed by a social revolution and replaced with
@@ -748,48 +754,48 @@ Anarchist Nicholas Walter summarised the obvious and is worth quoting at
 length:
 
 > _"Virtually all forms of revolutionary socialism during the nineteenth
-century, whether authoritarian or libertarian, were based on the concept of
-class struggle . . . The term anarchist was first adopted by Pierre-Joseph
-Proudhon in 1840, and although he disliked the class struggle, he recognised
-it existed, and took sides in it when he had to . . . during the French
-Revolution of 1848, he insisted that he was on the side of the proletariat
-against the bourgeoisie . . . his last book was a positive study of the need
-for specifically proletarian politics . . . _
+> century, whether authoritarian or libertarian, were based on the concept of
+> class struggle . . . The term anarchist was first adopted by Pierre-Joseph
+> Proudhon in 1840, and although he disliked the class struggle, he recognised
+> it existed, and took sides in it when he had to . . . during the French
+> Revolution of 1848, he insisted that he was on the side of the proletariat
+> against the bourgeoisie . . . his last book was a positive study of the need
+> for specifically proletarian politics . . ._
 
 > _"The actual anarchist movement was founded later, by the anti-authoritarian
-sections of the First International . . . They accepted [its] founding Address
-. . ., drafted by Karl Marx, which assumed the primacy of the class struggle
-and insisted that 'the emancipation of the working classes must be conquered
-by the working classes themselves'; they accepted the Programme of the
-International Alliance of Social Democracy (1869), drafted by Michael Bakunin,
-which assumed the primacy of the class struggle . . . and they accepted the
-declaration of the St. Imier Congress which assumed the primacy of the class
-struggle and insisted that 'rejecting all compromise to arrive at the
-accomplishment of the social revolution, the proletarians of all countries
-must establish, outside all bourgeois politics, the solidarity of
-revolutionary action' . . . This was certainly the first anarchist movement,
-and this movement was certainly based on a libertarian version of the concept
-of the class struggle. _
+> sections of the First International . . . They accepted [its] founding
+> Address . . ., drafted by Karl Marx, which assumed the primacy of the class
+> struggle and insisted that 'the emancipation of the working classes must be
+> conquered by the working classes themselves'; they accepted the Programme of
+> the International Alliance of Social Democracy (1869), drafted by Michael
+> Bakunin, which assumed the primacy of the class struggle . . . and they
+> accepted the declaration of the St. Imier Congress which assumed the primacy
+> of the class struggle and insisted that 'rejecting all compromise to arrive
+> at the accomplishment of the social revolution, the proletarians of all
+> countries must establish, outside all bourgeois politics, the solidarity of
+> revolutionary action' . . . This was certainly the first anarchist movement,
+> and this movement was certainly based on a libertarian version of the
+> concept of the class struggle._
 
 > _"Most of the leaders of this movement - first Michael Bakunin, James
-Guillaume, Errico Malatesta, Carlo Caliero, later Peter Kropotkin, Louise
-Michel, Emile Pouget, Jean Grave, and so on - took for granted that there was
-a struggle between the proletariat and the bourgeoisie and that the social
-revolution would be conducted by the former against the latter. They derived
-such ideas . . . from the traditional theory of revolutionary socialism and
-the traditional practice of working-class action . . . _
+> Guillaume, Errico Malatesta, Carlo Caliero, later Peter Kropotkin, Louise
+> Michel, Emile Pouget, Jean Grave, and so on - took for granted that there
+> was a struggle between the proletariat and the bourgeoisie and that the
+> social revolution would be conducted by the former against the latter. They
+> derived such ideas . . . from the traditional theory of revolutionary
+> socialism and the traditional practice of working-class action . . ._
 
 > _"The great revolutions of the early twentieth century - in Mexico, Russia,
-Spain - all derived from the class struggle and all involved anarchist
-intervention on the side of the working class. The great martyrs of the
-anarchist movement - from Haymarket in 1887 through Francisco Ferrer in 1909
-to Sacco and Vanzetti in 1927 - were killed in the class struggle. The great
-partisans of anarchist warfare - from Emiliano Zapata through Nestor Makhno to
-Buenaventura Durruti - were all fighting in the class struggle. _
+> Spain - all derived from the class struggle and all involved anarchist
+> intervention on the side of the working class. The great martyrs of the
+> anarchist movement - from Haymarket in 1887 through Francisco Ferrer in 1909
+> to Sacco and Vanzetti in 1927 - were killed in the class struggle. The great
+> partisans of anarchist warfare - from Emiliano Zapata through Nestor Makhno
+> to Buenaventura Durruti - were all fighting in the class struggle._
 
 > _"So . . . class struggle in anarchism . . . [and] its importance in the
-anarchist movement is incontrovertible."_ [**The Anarchist Past and other
-essays**, pp. 60-2]
+> anarchist movement is incontrovertible."_ [ **The Anarchist Past and other
+> essays** , pp. 60-2]
 
 Anyone even remotely aware of anarchism and its history could not fail to
 notice that class struggle plays a key role in anarchist theory, particularly
@@ -809,8 +815,8 @@ co-operation being at the root of the social process."_ Therefore, _"[i]t
 follows that if class conflict is not the motor of change, the working class
 is not the agent and collective struggle not the means. Therefore everything
 from riot to bomb, and all that might become between the two, was legitimate
-when ranged against the state, each with equal merit."_ [_"Anarchy in the
-UK?"_, **Socialist Review**, no. 246] Needless to say, he makes the usual
+when ranged against the state, each with equal merit."_ [ _"Anarchy in the
+UK?"_ , **Socialist Review** , no. 246] Needless to say, he makes the usual
 exception for anarcho-syndicalists, thereby showing his total ignorance of
 anarchism **and** syndicalism (see [section H.2.8](secH2.md#sech28)).
 
@@ -832,21 +838,21 @@ and the bourgeoisie is unavoidable"_ and would only end with the _"abolition
 of the bourgeoisie as a distinct class."_ In order for the worker to _"become
 strong"_ he _"must unite"_ with other workers in _"the union of all local and
 national workers' associations into a world-wide association, **the great
-International Working-Men's Association.**"_ It was only _"through practice
+International Working-Men's Association.** "_ It was only _"through practice
 and collective experience"_ and _"the progressive expansion and development of
 the economic struggle [that] will bring [the worker] more to recognise his [or
 her] true enemies: the privileged classes, including the clergy, the
 bourgeoisie, and the nobility; and the State, which exists only to safeguard
 all the privileges of those classes."_ There was _"but a single path, that of
-**emancipation through practical action**"_ which _"has only one meaning. It
+**emancipation through practical action** "_ which _"has only one meaning. It
 means workers' solidarity in their struggle against the bosses. It means
-**trades-unions, organisation, and the federation of resistance funds.**"_
+**trades-unions, organisation, and the federation of resistance funds.** "_
 Then, _"when the revolution - brought about by the force of circumstances -
 breaks out, the International will be a real force and know what it has to
-do"_, namely to _"take the revolution into its own hands"_ and become _"an
+do"_ , namely to _"take the revolution into its own hands"_ and become _"an
 earnest international organisation of workers' associations from all
 countries"_ which will be _"capable of replacing this departing political
-world of States and bourgeoisie."_ [**The Basic Bakunin**, pp. 97-8, p. 103
+world of States and bourgeoisie."_ [ **The Basic Bakunin** , pp. 97-8, p. 103
 and p. 110]
 
 Hardly the words of a man who rejected class conflict, the working class and
@@ -857,14 +863,14 @@ Europe, to the city and factory workers - in Russia, Poland, and most of the
 Slavic countries, to the peasants."_ However, _"in order that the peasants
 rise up, it is absolutely necessary that the initiative in this revolutionary
 movement be taken up by the city workers . . . who combine in themselves the
-instincts, ideas, and conscious will of the Social Revolution."_ [**The
-Political Philosophy of Bakunin**, p. 375] Similarly, he argued that
+instincts, ideas, and conscious will of the Social Revolution."_ [ **The
+Political Philosophy of Bakunin** , p. 375] Similarly, he argued that
 _"equality"_ was the _"aim"_ of the International Workers' Association and
 _"the organisation of the working class its strength, the unification of the
 proletariat the world over . . . its weapon, its only policy."_ He stressed
 that _"to create a people's force capable of crushing the military and civil
 force of the State, it is necessary to organise the proletariat."_ [quoted by
-K.J. Kenafick, **Michael Bakunin and Karl Marx**, p. 95 and p. 254]
+K.J. Kenafick, **Michael Bakunin and Karl Marx** , p. 95 and p. 254]
 
 Strikes played a very important role in Bakunin's ideas (as they do in all
 revolutionary anarchist thought). He saw the strike as _"the beginnings of the
@@ -877,21 +883,21 @@ localities and countries the consciousness and very fact of solidarity: a
 twofold action, both negative and positive, which tends to constitute directly
 the new world of the proletariat, opposing it almost in an absolute way to the
 bourgeois world."_ [quoted by Caroline Cahm, **Kropotkin and the Rise of
-Revolutionary Anarchism 1872-1886**, pp. 216-217] For Bakunin, strikes train
+Revolutionary Anarchism 1872-1886** , pp. 216-217] For Bakunin, strikes train
 workers for social revolution as they _"create, organise, and form a workers'
 army, an army which is bound to break down the power of the bourgeoisie and
-the State, and lay the ground for a new world."_ [**The Political Philosophy
-of Bakunin**, pp. 384-5]
+the State, and lay the ground for a new world."_ [ **The Political Philosophy
+of Bakunin** , pp. 384-5]
 
 The revolution would be _"an insurrection of all the people and the voluntary
-organisation of the workers from below upward."_ [**Statism and Anarchy**, p.
-179] As we argue in [section I.2.3](secI2.md#seci23), the very process of
+organisation of the workers from below upward."_ [ **Statism and Anarchy** ,
+p. 179] As we argue in [section I.2.3](secI2.md#seci23), the very process of
 collective class struggle would, for Bakunin and other anarchists, create the
 basis of a free society. Thus, in Bakunin's eyes, the _"future social
 organisation must be made solely from the bottom upwards, by the free
 association or federation of workers, firstly in their unions, then in the
 communes, regions, nations and finally in a great federation, international
-and universal."_ [**Michael Bakunin: Selected Writings**, p. 206]
+and universal."_ [ **Michael Bakunin: Selected Writings** , p. 206]
 
 In other words, the basic structure created by the revolution would be based
 on the working classes own combat organisations, as created in their struggles
@@ -902,8 +908,8 @@ socialist society. For Bakunin, the _"very essence of socialism"_ lies in
 _"the irrepressible conflict between the workers and the exploiters of
 labour."_ A _"living, powerful, socialist movement"_ can _"be made a reality
 only by the awakened revolutionary consciousness, the collective will, and the
-organisation of the working masses themselves."_ [**Bakunin on Anarchism**, p.
-191 and p. 212] Therefore, it was essential to _"[o]rganise always more and
+organisation of the working masses themselves."_ [ **Bakunin on Anarchism** ,
+p. 191 and p. 212] Therefore, it was essential to _"[o]rganise always more and
 more the practical militant international solidarity of the toilers of all
 trades and of all countries, and remember . . . you will find an immense, an
 irresistible force in this universal collectivity."_ Hence Bakunin's support
@@ -912,7 +918,7 @@ from the his awareness of the **collective** nature of social change: _"Today,
 in revolutionary action as in labour itself, collectivism must replace
 individualism. Understand clearly that in organising yourselves you will be
 stronger than all the political leaders in the world."_ [quoted by Kenafick,
-**Op. Cit.**, p. 291 and p. 244]
+**Op. Cit.** , p. 291 and p. 244]
 
 All of which is quite impressive for someone who was a founding father of a
 theory which, according to Stack, downplayed the _"centrality of the working
@@ -932,12 +938,12 @@ indirect means, permits the worker to obtain some temporary improvements in
 the present conditions of work, while it opens his eyes to the evil done by
 Capitalism and the State that supports it, and wakes up his thoughts
 concerning the possibility of organising consumption, production, and exchange
-without the intervention of the capitalist and the State."_ [**Evolution and
-Environment**, pp. 82-3] In his article on _"Anarchism"_ for the
-**Encyclopaedia Britannica**, Kropotkin stressed that anarchists _"have
+without the intervention of the capitalist and the State."_ [ **Evolution and
+Environment** , pp. 82-3] In his article on _"Anarchism"_ for the
+**Encyclopaedia Britannica** , Kropotkin stressed that anarchists _"have
 endeavoured to promote their ideas directly amongst the labour organisations
 and to induce those unions to a direct struggle against capital, without
-placing their faith in parliamentary legislation."_ [**Anarchism**, p. 287]
+placing their faith in parliamentary legislation."_ [ **Anarchism** , p. 287]
 
 Far from denying the importance of collective class struggle, he actually
 stressed it again and again. As he once wrote, _"to make the revolution, the
@@ -948,13 +954,13 @@ town, of creating resistance funds against the exploiters, of giving more
 solidarity to the workers' organisations of each town and of putting them in
 contact with those of other towns, of federating them . . . Workers'
 solidarity must no longer be an empty word but practised each day between all
-trades and all nations."_ [quoted by Cahm, **Op. Cit.**, pp. 255-6]
+trades and all nations."_ [quoted by Cahm, **Op. Cit.** , pp. 255-6]
 
 As can be seen, Kropotkin was well aware of the importance of popular, mass,
 struggles. As he put it, anarchists _"know very well that any popular movement
 is a step towards the social revolution. It awakens the spirit of revolt, it
 makes men [and women] accustomed to seeing the established order (or rather
-the established disorder) as eminently unstable."_ [**Words of a Rebel**, p.
+the established disorder) as eminently unstable."_ [ **Words of a Rebel** , p.
 203] As regards the social revolution, he argues that _"a decisive blow will
 have to be administered to private property: from the beginning, the workers
 will have to proceed to take over all social wealth so as to put it into
@@ -969,7 +975,7 @@ to organise. We . . . have to submerge ourselves in the organisation of the
 people . . . When the mass of workers is organised and we are with it to
 strengthen its revolutionary idea, to make the spirit of revolt against
 capital germinate there . . . then it will be the social revolution."_ [quoted
-by Caroline Cahm, **Op. Cit.**, pp. 153-4]
+by Caroline Cahm, **Op. Cit.** , pp. 153-4]
 
 He saw the class struggle in terms of _"a multitude of acts of revolt in all
 countries, under all possible conditions: first, individual revolt against
@@ -979,7 +985,7 @@ masses, a revolution."_ Clearly, the mass, collective nature of social change
 was not lost on Kropotkin who pointed to a _"multitude of risings of working
 masses and peasants"_ as a positive sign. Strikes, he argued, _"were once 'a
 war of folded arms'"_ but now were _"easily turning to revolt, and sometimes
-taking the proportions of vast insurrections."_ [**Anarchism**, p. 144]
+taking the proportions of vast insurrections."_ [ **Anarchism** , p. 144]
 
 Kropotkin could not have been clearer. Somewhat ironically, given Stack's
 assertions, Kropotkin explicitly opposed the Marxism of his time (Social
@@ -988,8 +994,8 @@ movement, in the sense of a direct struggle against capitalists by means of
 strikes, unions, and so forth."_ The Marxists, he stated, opposed strikes and
 unions because they _"diverted forces from electoral agitation"_ while
 anarchists _"reject[ed] a narrowly political struggle [and] inevitably became
-a more revolutionary party, both in theory and in practice."_ [**The Conquest
-of Bread and Other Writings**, pp. 207-8, p. 208 and p. 209]
+a more revolutionary party, both in theory and in practice."_ [ **The Conquest
+of Bread and Other Writings** , pp. 207-8, p. 208 and p. 209]
 
 And Pat Stack argues that Kropotkin did not see _"class conflict as the
 dynamic for social change,"_ nor _"class conflict"_ as _"the motor of change"_
@@ -1008,20 +1014,20 @@ action has become so strong a force in the battle for industrial liberty as to
 make the world realise the tremendous importance of labour's power. The
 General Strike [is] the supreme expression of the economic consciousness of
 the workers . . . Today every great strike, in order to win, must realise the
-importance of the solidaric general protest."_ [**Anarchism and Other
-Essays**, pp. 65-6] She placed collective class struggle at the centre of her
+importance of the solidaric general protest."_ [ **Anarchism and Other
+Essays** , pp. 65-6] She placed collective class struggle at the centre of her
 ideas and, crucially, she saw it as the way to create an anarchist society:
 
 > _"It is this war of classes that we must concentrate upon, and in that
-connection the war against false values, against evil institutions, against
-all social atrocities. Those who appreciate the urgent need of co-operating in
-great struggles . . . must organise the preparedness of the masses for the
-overthrow of both capitalism and the state. Industrial and economic
-preparedness is what the workers need. That alone leads to revolution at the
-bottom . . . That alone will give the people the means to take their children
-out of the slums, out of the sweat shops and the cotton mills . . . That alone
-leads to economic and social freedom, and does away with all wars, all crimes,
-and all injustice."_ [**Red Emma Speaks**, pp. 355-6]
+> connection the war against false values, against evil institutions, against
+> all social atrocities. Those who appreciate the urgent need of co-operating
+> in great struggles . . . must organise the preparedness of the masses for
+> the overthrow of both capitalism and the state. Industrial and economic
+> preparedness is what the workers need. That alone leads to revolution at the
+> bottom . . . That alone will give the people the means to take their
+> children out of the slums, out of the sweat shops and the cotton mills . . .
+> That alone leads to economic and social freedom, and does away with all
+> wars, all crimes, and all injustice."_ [ **Red Emma Speaks** , pp. 355-6]
 
 For Malatesta, _"the most powerful force for social transformation is the
 working class movement . . . Through the organisations established for the
@@ -1035,17 +1041,17 @@ so that it . . . will culminate in a social revolution."_ Anarchists must
 _"deepen the chasm between capitalists and wage-slaves, between rulers and
 ruled; preach expropriation of private property and the destruction of
 State."_ The new society would be organised _"by means of free association and
-federations of producers and consumers."_ [**Errico Malatesta: His Life and
-Ideas**, p. 113, pp. 250-1 and p. 184] Alexander Berkman, unsurprisingly,
+federations of producers and consumers."_ [ **Errico Malatesta: His Life and
+Ideas** , p. 113, pp. 250-1 and p. 184] Alexander Berkman, unsurprisingly,
 argued the same thing. As he put it, only _"the workers"_ as _"the worst
 victims of present institutions,"_ could abolish capitalism an the state as
 _"it is to their own interest to abolish them . . . labour's emancipation
 means at the same time the redemption of the whole of society."_ He stressed
-that _"**only the right organisation of the workers** can accomplish what we
+that _" **only the right organisation of the workers** can accomplish what we
 are striving for . . . Organisation from the bottom up, beginning with the
 shop and factory, on the foundation of the joint interests of the workers
 everywhere . . . alone can solve the labour question and serve the true
-emancipation of man[kind]."_ [**What is Anarchism?**, p. 187 and p. 207]
+emancipation of man[kind]."_ [ **What is Anarchism?** , p. 187 and p. 207]
 
 As can be seen, the claim that Kropotkin or Bakunin, or anarchists in general,
 ignored the class struggle and collective working class struggle and
@@ -1055,9 +1061,9 @@ solidarity at the core of their politics (and as the means of creating a
 libertarian socialist society) from the start. Moreover, this perspective is
 reflected in the anarchist flag itself as we discuss in our [appendix on the
 symbols of anarchism](append2.md). According to Louise Michel the _"black
-flag is the flag of strikes."_ [**The Red Virgin: Memoirs of Louise Michel**,
-p. 168] If anarchism does, as some Marxists assert, reject class conflict and
-collective struggle then using a flag associated with an action which
+flag is the flag of strikes."_ [ **The Red Virgin: Memoirs of Louise Michel**
+, p. 168] If anarchism does, as some Marxists assert, reject class conflict
+and collective struggle then using a flag associated with an action which
 expresses both seems somewhat paradoxical. However, for those with even a
 basic understanding of anarchism and its history there is no paradox as
 anarchism is obviously based on class conflict and collective struggle.
@@ -1071,8 +1077,8 @@ Leninist Pat Stack states that one of the _"key points of divergence"_ between
 anarchism and Marxism is that the former, _"far from understanding the
 advances that capitalism represented, tended to take a wistful look back.
 Anarchism shares with Marxism an abhorrence of the horrors of capitalism, but
-yearns for what has gone before."_ [_"Anarchy in the UK?"_, **Socialist
-Review**, no. 246]
+yearns for what has gone before."_ [ _"Anarchy in the UK?"_ , **Socialist
+Review** , no. 246]
 
 Like his other _"key point"_ (namely the rejection of class struggle - see
 [last section](secH2.md#sech22)), Stack is simply wrong. Even the quickest
@@ -1127,7 +1133,7 @@ those against Genetically Modified (GM) food and nuclear power are precisely
 based on the understanding that capitalist "progress" can not be uncritically
 accepted. To resist the expulsion of people from the land in the name of
 progress or the introduction of terminator seeds is not to look back to _"what
-had gone"_, although this is also precisely what the proponents of capitalist
+had gone"_ , although this is also precisely what the proponents of capitalist
 globalisation often accuse us of. Rather, it is to put **_"people before
 profit."_**
 
@@ -1158,15 +1164,15 @@ the Frenchman _"the founder of modern anarchism"_ and states that Marx dubbed
 Proudhon _"the socialist of the small peasant or master craftsman."_
 Typically, Stack gets even this wrong as it was Engels who used those words,
 although Marx would probably have not disagreed if he had been alive when they
-were penned. [**The Marx-Engels Reader**, p. 626] From this, Stack implies
+were penned. [ **The Marx-Engels Reader** , p. 626] From this, Stack implies
 that Proudhon was _"yearning for the past"_ when he advanced his mutualist
 ideas.
 
 Nothing, however, could be further from the truth. This is because the society
 in which the French anarchist lived was predominately artisan and peasant in
-nature. This was admitted by Marx and Engels in the **Communist Manifesto**
-(_"[i]n countries like France"_ the peasants _"constitute far more than half
-of the population."_ [**Op. Cit.**, p. 493]). As such, for Proudhon to
+nature. This was admitted by Marx and Engels in the **Communist Manifesto** (
+_"[i]n countries like France"_ the peasants _"constitute far more than half of
+the population."_ [ **Op. Cit.** , p. 493]). As such, for Proudhon to
 incorporate the aspirations of the majority of the population is not to
 _"yearn for what has gone before"_ but rather an extremely sensible position
 to take. This suggests that for Engels to state that the French anarchist was
@@ -1186,13 +1192,13 @@ Indeed, _"[w]hile Marx was correct in predicting the eventual predominance of
 the industrial proletariat vis-à-vis skilled workers, such predominance was
 neither obvious nor a foregone conclusion in France during the nineteenth
 century. The absolute number of small industries even increased during most of
-the century."_ [**Pierre-Joseph Proudhon and the Rise of French Republican
-Socialism**, p. 5 and p. 282] Proudhon himself noted in 1851 that of a
+the century."_ [ **Pierre-Joseph Proudhon and the Rise of French Republican
+Socialism** , p. 5 and p. 282] Proudhon himself noted in 1851 that of a
 population of 36 million, 24 million were peasants and 6 million were
 artisans. Of the remaining 6 million, these included wage-workers for whom
 _"workmen's associations"_ would be essential as _"a protest against the wage
 system,"_ the _"denial of the rule of capitalists"_ and for _"the management
-of large instruments of labour."_ [**General Idea of the Revolution**, pp.
+of large instruments of labour."_ [ **General Idea of the Revolution** , pp.
 97-8]
 
 To summarise, if the society in which you live is predominately made-up of
@@ -1212,13 +1218,13 @@ producer is _"a collectivity."_ In such industries _"we have no choice"_ and
 so _"it is necessary to form an **association** among the workers"_ because
 _"without that they would remain related as subordinates and superiors, and
 there would ensue two industrial castes of masters and wage-workers, which is
-repugnant to a free and democratic society."_ [**Op. Cit.**, pp. 215-6] Even
+repugnant to a free and democratic society."_ [ **Op. Cit.** , pp. 215-6] Even
 Engels had to grudgingly admit that Proudhon supported _"the association of
-workers"_ for _"large-industry and large establishments, such as railways."_
-[**Op. Cit.**, p. 626]
+workers"_ for _"large-industry and large establishments, such as railways."_ [
+**Op. Cit.** , p. 626]
 
 All in all, Stack is simply showing his ignorance of both Proudhon's ideas
-**and** the society (the _"material conditions"_) in which they were shaped
+**and** the society (the _"material conditions"_ ) in which they were shaped
 and were aimed for. As can be seen, Proudhon incorporated the development of
 large-scale industry within his mutualist ideas and so the need to abolish
 wage labour by workers' associations and workers' control of production.
@@ -1231,10 +1237,10 @@ After distorting Proudhon's ideas on industry, Stack does the same with
 Bakunin. He asserts the following:
 
 > _"Similarly, the Russian anarchist leader Bakunin argued that it was the
-progress of capitalism that represented the fundamental problem. For him
-industrialisation was an evil. He believed it had created a decadent western
-Europe, and therefore had held up the more primitive, less industrialised Slav
-regions as the hope for change."_
+> progress of capitalism that represented the fundamental problem. For him
+> industrialisation was an evil. He believed it had created a decadent western
+> Europe, and therefore had held up the more primitive, less industrialised
+> Slav regions as the hope for change."_
 
 Now, it would be extremely interesting to find out where, exactly, Stack
 discovered that Bakunin made these claims. After all, they are at such odds
@@ -1244,7 +1250,7 @@ for such an outrageous claim. Looking at what appears to be his main source,
 we discover Paul Avrich writing that _"[i]n 1848"_ (i.e. nearly 20 years
 **before** Bakunin became an anarchist!) Bakunin _"spoke of the decadence of
 Western Europe and saw hope in the primitive, less industrialised Slavs for
-the regeneration of the Continent."_ [**Anarchist Portraits**, p. 8] The
+the regeneration of the Continent."_ [ **Anarchist Portraits** , p. 8] The
 plagiarism is obvious, as are the distortions. Given that Bakunin became an
 anarchist in the mid-1860s, how his pre-anarchist ideas are relevant to an
 evaluation of anarchism escapes logic. It makes as much sense as quoting Marx
@@ -1258,26 +1264,26 @@ seizing of industry and its placing under social ownership. As he put it,
 _"capital and all tools of labour belong to the city workers - to the workers
 associations. The whole organisation of the future should be nothing but a
 free federation of workers - agricultural workers as well as factory workers
-and associations of craftsmen."_ [**The Political Philosophy of Bakunin**, p.
-410] Bakunin argued that _"to destroy . . . all the instruments of labour . .
-. would be to condemn all humanity - which is infinity too numerous today to
+and associations of craftsmen."_ [ **The Political Philosophy of Bakunin** ,
+p. 410] Bakunin argued that _"to destroy . . . all the instruments of labour .
+. . would be to condemn all humanity - which is infinity too numerous today to
 exist . . . on the simple gifts of nature . . . - to . . . death by
 starvation. Thus capital cannot and must not be destroyed. It must be
 preserved."_ Only when workers _"obtain not individual but **collective**
 property in capital"_ and when capital is no longer _"concentrated in the
 hands of a separate, exploiting class"_ will they be able _"to smash the
-tyranny of capital."_ [**The Basic Bakunin**, pp. 90-1] He stressed that only
-_"associated labour, this is labour organised upon the principles of
+tyranny of capital."_ [ **The Basic Bakunin** , pp. 90-1] He stressed that
+only _"associated labour, this is labour organised upon the principles of
 reciprocity and co-operation, is adequate to the task of maintaining the
 existence of a large and somewhat civilised society."_ Moreover, the _"whole
 secret of the boundless productivity of human labour consists first of all in
 applying . . . scientifically developed reason . . . and then in the division
-of that labour."_ [**The Political Philosophy of Bakunin**, pp. 341-2] Hardly
-the thoughts of someone opposed to industrialisation! Unsurprisingly, then,
-Eugene Pyziu noted that _"[i]n an article printed in 1868 [Bakunin] rejected
-outright the doctrine of the rottenness of the West and of the messianic
-destiny of Russia."_ [**The Doctrine of Anarchism of Michael A. Bakunin**, p.
-61]
+of that labour."_ [ **The Political Philosophy of Bakunin** , pp. 341-2]
+Hardly the thoughts of someone opposed to industrialisation! Unsurprisingly,
+then, Eugene Pyziu noted that _"[i]n an article printed in 1868 [Bakunin]
+rejected outright the doctrine of the rottenness of the West and of the
+messianic destiny of Russia."_ [ **The Doctrine of Anarchism of Michael A.
+Bakunin** , p. 61]
 
 Rather than oppose industrialisation and urge the destruction of industry,
 Bakunin considered one of the first acts of the revolution would be workers'
@@ -1286,23 +1292,23 @@ collective property managed by the workers themselves. Hence Daniel Guérin's
 comment:
 
 > _"Proudhon and Bakunin were 'collectivists,' which is to say they declared
-themselves without equivocation in favour of the common exploitation, not by
-the State but by associated workers of the large-scale means of production and
-of the public services. Proudhon has been quite wrongly presented as an
-exclusive enthusiast of private property."_ [_"From Proudhon to Bakunin"_, pp.
-23-33, **The Radical Papers**, Dimitrios I. Roussopoulos (ed.), p. 32]
+> themselves without equivocation in favour of the common exploitation, not by
+> the State but by associated workers of the large-scale means of production
+> and of the public services. Proudhon has been quite wrongly presented as an
+> exclusive enthusiast of private property."_ [ _"From Proudhon to Bakunin"_ ,
+> pp. 23-33, **The Radical Papers** , Dimitrios I. Roussopoulos (ed.), p. 32]
 
 Clearly, Stack does not have the faintest idea of what he is talking about!
 Nor is Kropotkin any safer than Proudhon or Bakunin from Stack's distortions:
 
 > _"Peter Kropotkin, another famous anarchist leader to emerge in Russia, also
-looked backwards for change. He believed the ideal society would be based on
-small autonomous communities, devoted to small scale production. He had
-witnessed such communities among Siberian peasants and watchmakers in the
-Swiss mountains."_
+> looked backwards for change. He believed the ideal society would be based on
+> small autonomous communities, devoted to small scale production. He had
+> witnessed such communities among Siberian peasants and watchmakers in the
+> Swiss mountains."_
 
 First, we must note the plagiarism. Stack is summarising Paul Avrich's summary
-of Kropotkin's ideas. [**Op. Cit.**, p. 62] Rather than go to the source
+of Kropotkin's ideas. [ **Op. Cit.** , p. 62] Rather than go to the source
 material, Stack provides an interpretation of someone else's interpretation of
 someone else's ideas! Clearly, the number of links in the chain means that
 something is going to get lost in the process and, of course, it does. The
@@ -1316,7 +1322,7 @@ environment as pleasant as possible. As Avrich summarises: _"placed in small
 voluntary workshops, machinery would rescue human beings from the monotony and
 toil of large-scale capitalist enterprise, allow time for leisure and cultural
 pursuits, and remove forever the stamp of inferiority traditionally borne by
-manual labour."_ [**Op. Cit.**, p. 63] Hardly _"backward looking"_ to desire
+manual labour."_ [ **Op. Cit.** , p. 63] Hardly _"backward looking"_ to desire
 the application of science and technology to transform the industrial system
 into one based on the needs of people rather than profit!
 
@@ -1359,23 +1365,24 @@ but the countless variety of workshops and factories which are required to
 satisfy the infinite diversity of tastes among civilised men [and women]."_
 The new factories and workplaces would be _"airy and hygienic, and
 consequently economical, . . . in which human life is of more account than
-machinery and the making of extra profits."_ [**Fields, Factories and
-Workshops Tomorrow**, p. 197] Under capitalism, he argued, the whole discourse
-of economics (like industrial development itself) was based on the logic and
-rationale of the profit motive:
+machinery and the making of extra profits."_ [ **Fields, Factories and
+Workshops Tomorrow** , p. 197] Under capitalism, he argued, the whole
+discourse of economics (like industrial development itself) was based on the
+logic and rationale of the profit motive:
 
 > _"Under the name of profits, rent and interest upon capital, surplus value,
-and the like, economists have eagerly discussed the benefits which the owners
-of land or capital, or some privileged nations, can derive, either from the
-under-paid work of the wage-labourer, or from the inferior position of one
-class of the community towards another class, or from the inferior economical
-development of one nation towards another nation. . . _
+> and the like, economists have eagerly discussed the benefits which the
+> owners of land or capital, or some privileged nations, can derive, either
+> from the under-paid work of the wage-labourer, or from the inferior position
+> of one class of the community towards another class, or from the inferior
+> economical development of one nation towards another nation. . ._
 
 > _"In the meantime the great question - 'What have we to produce, and how?'
-necessarily remained in the background . . . The main subject of social
-economy - that is, the **economy of energy required for the satisfaction of
-human needs** \- is consequently the last subject which one expects to find
-treated in a concrete form in economical treatises."_ [**Op. Cit.**, p. 17]
+> necessarily remained in the background . . . The main subject of social
+> economy - that is, the **economy of energy required for the satisfaction of
+> human needs** \- is consequently the last subject which one expects to find
+> treated in a concrete form in economical treatises."_ [ **Op. Cit.** , p.
+> 17]
 
 Kropotkin's ideas were, therefore, an attempt to discuss how a post-capitalist
 society could develop, based on an extensive investigation of current trends
@@ -1395,10 +1402,10 @@ _"yearns for the past"_ simply has no idea what they are talking about.
 
 Pat Stack argues that _"the idea that dominates anarchist thought"_ is _"that
 the state is the main enemy, rather than identifying the state as one aspect
-of a class society that has to be destroyed."_ [_"Anarchy in the UK?"_,
-**Socialist Review**, no. 246] Marxist Paul Thomas states that _"Anarchists
-insist that the basis source of social injustice is the state."_ [**Karl Marx
-and the Anarchists**, p. 2]
+of a class society that has to be destroyed."_ [ _"Anarchy in the UK?"_ ,
+**Socialist Review** , no. 246] Marxist Paul Thomas states that _"Anarchists
+insist that the basis source of social injustice is the state."_ [ **Karl Marx
+and the Anarchists** , p. 2]
 
 On the face of it, such assertions make little sense. After all, was not the
 first work by the first self-declared anarchist called **What is Property?**
@@ -1410,21 +1417,21 @@ repeated the falsehood that anarchists consider the state as the main enemy.
 Indeed, Stack and Thomas are simply repeating an earlier assertion by Engels:
 
 > _"Bakunin has a peculiar theory of his own, a medley of Proudhonism and
-communism. The chief point concerning the former is that he does not regard
-capital, i.e. the class antagonism between capitalists and wage workers which
-has arisen through social development, but the **state** as the main enemy to
-be abolished . . . our view [is] that state power is nothing more than the
-organisation which the ruling classes - landowners and capitalists - have
-provided for themselves in order to protect their social privileges, Bakunin
-maintains that it is the **state** which has created capital, that the
-capitalist has his capital **only by the grace of the state.** As, therefore,
-the state is the chief evil, it is above all the state which must be done away
-with and then capitalism will go to blazes of itself. We, on the contrary,
-say: Do away with capital, the concentration of all means of production in the
-hands of a few, and the state will fall of itself. The difference is an
-essential one . . . the abolition of capital **is** precisely the social
-revolution."_ [Marx, Engels and Lenin, **Anarchism and Anarcho-Syndicalism**,
-p. 71]
+> communism. The chief point concerning the former is that he does not regard
+> capital, i.e. the class antagonism between capitalists and wage workers
+> which has arisen through social development, but the **state** as the main
+> enemy to be abolished . . . our view [is] that state power is nothing more
+> than the organisation which the ruling classes - landowners and capitalists
+> - have provided for themselves in order to protect their social privileges,
+> Bakunin maintains that it is the **state** which has created capital, that
+> the capitalist has his capital **only by the grace of the state.** As,
+> therefore, the state is the chief evil, it is above all the state which must
+> be done away with and then capitalism will go to blazes of itself. We, on
+> the contrary, say: Do away with capital, the concentration of all means of
+> production in the hands of a few, and the state will fall of itself. The
+> difference is an essential one . . . the abolition of capital **is**
+> precisely the social revolution."_ [Marx, Engels and Lenin, **Anarchism and
+> Anarcho-Syndicalism** , p. 71]
 
 As will come as no surprise, Engels did not bother to indicate where he
 discovered Bakunin's ideas on these matters. Similarly, his followers raise
@@ -1435,8 +1442,8 @@ that the social revolution would be marked by the abolition of capitalism and
 the state at the same time. That this is the case can be seen from John Stuart
 Mill who, unlike Engels, saw that Bakunin's ideas meant _"not only the
 annihilation of all government, but getting all property of all kinds out of
-the hands of the possessors to be used for the general benefit."_ [_"Chapters
-on Socialism,"_ **Principles of Political Economy**, p. 376] If the great
+the hands of the possessors to be used for the general benefit."_ [ _"Chapters
+on Socialism,"_ **Principles of Political Economy** , p. 376] If the great
 liberal thinker could discern this aspect of anarchism, why not Engels?
 
 After all, this vision of a **social** revolution (i.e. one that combined
@@ -1448,15 +1455,15 @@ state occurs at the same time as the abolition of capital. This joint
 abolition **is** precisely the social revolution. As one academic put it:
 
 > _"In Bakunin's view, the struggle against the main concentration of power in
-society, the state, was **no less necessary** than the struggle against
-capital. Engels, however, puts the matter somewhat differently, arguing that
-for Bakunin the state was the main enemy, as if Bakunin had not held that
-capital, too, was an enemy and that its expropriation was a necessary even if
-not sufficient condition for the social revolution . . . [Engels'] formulation
-. . . distorts Bakunin's argument, which also held capital to be an evil
-necessary to abolish"_ [Alvin W. Gouldner, _"Marx's Last Battle: Bakunin and
-the First International"_, pp. 853-884, **Theory and Society**, Vol. 11, No.
-6, pp. 863-4]
+> society, the state, was **no less necessary** than the struggle against
+> capital. Engels, however, puts the matter somewhat differently, arguing that
+> for Bakunin the state was the main enemy, as if Bakunin had not held that
+> capital, too, was an enemy and that its expropriation was a necessary even
+> if not sufficient condition for the social revolution . . . [Engels']
+> formulation . . . distorts Bakunin's argument, which also held capital to be
+> an evil necessary to abolish"_ [Alvin W. Gouldner, _"Marx's Last Battle:
+> Bakunin and the First International"_ , pp. 853-884, **Theory and Society**
+> , Vol. 11, No. 6, pp. 863-4]
 
 In 1865, for example, we discover Bakunin arguing that anarchists _"seek the
 destruction of all States"_ in his _"Program of the Brotherhood."_ Yet he also
@@ -1480,7 +1487,7 @@ could succeed . . . unless it was simultaneously a political and a social
 revolution. Any exclusively political revolution . . . will, insofar as it
 consequently does not have the immediate, effective, political and economic
 emancipation of the people as its primary objective, prove to be . . .
-illusory, phoney."_ [**No Gods, No Masters**, vol. 1, pp. 134-41]
+illusory, phoney."_ [ **No Gods, No Masters** , vol. 1, pp. 134-41]
 
 In 1868, Bakunin was arguing the same ideas. The _"Association of the
 International Brethren seeks simultaneously universal, social, philosophical,
@@ -1497,7 +1504,7 @@ Alliance of all labour associations . . . will constitute the Commune."_ The
 people _"must make the revolution everywhere, and . . . ultimate direction of
 it must at all times be vested in the people organised into a free federation
 of agricultural and industrial associations . . . organised from the bottom
-up."_ [**Op. Cit.**, pp. 152-6]
+up."_ [ **Op. Cit.** , pp. 152-6]
 
 Are these the words of a person who considered the state as the _"chief evil"_
 or _"that the state is the main enemy"_? Of course not, rather Bakunin clearly
@@ -1511,11 +1518,11 @@ industrial, agricultural, scientific and artisan alike, . . . founded upon
 collective ownership of the land, capital, raw materials and the instruments
 of labour, which is to say, all large-scale property . . . leaving to private
 and hereditary possession only those items that are actually for personal
-use."_ [**Op. Cit.**, p. 182] Clearly, as Wayne Thorpe notes, for Bakunin
+use."_ [ **Op. Cit.** , p. 182] Clearly, as Wayne Thorpe notes, for Bakunin
 _"[o]nly the simultaneous destruction of the state and of the capitalist
 system, accompanied by the organisation from below of a federalist system of
 administration based upon labour's economic associations . . . could achieve
-true liberty."_ [**"The Workers Themselves"**, p. 6]
+true liberty."_ [ **"The Workers Themselves"** , p. 6]
 
 Rather than seeing the state as the main evil to be abolished, Bakunin always
 stressed that a revolution must be economic **and** political in nature, that
@@ -1523,16 +1530,17 @@ it must ensure political, economic and social liberty and equality. As such,
 he argued for **both** the destruction of the state and the expropriation of
 capital (both acts conducted, incidentally, by a federation of workers'
 associations or workers' councils). While the apparatus of the state was being
-destroyed (_"Dissolution of the army, magistracy, bureaucracy, police and
-clergy"_), capitalism was also being uprooted and destroyed (_"All productive
-capital and instruments of labour . . . confiscated for the benefit of toilers
-associations"_). To assert, as Engels did, that Bakunin ignored the necessity
-of abolishing capitalism and the other evils of the current system while
-focusing exclusively on the state, is simply distorting his ideas. As Mark
-Leier summarises in his excellent biography of Bakunin, Engels _"was just
-flat-out wrong . . . What Bakunin did argue was that the social revolution had
-to be launched against the state and capitalism simultaneously, for the two
-reinforced each other."_ [**Bakunin: The Creative Passion**, p. 274]
+destroyed ( _"Dissolution of the army, magistracy, bureaucracy, police and
+clergy"_ ), capitalism was also being uprooted and destroyed ( _"All
+productive capital and instruments of labour . . . confiscated for the benefit
+of toilers associations"_ ). To assert, as Engels did, that Bakunin ignored
+the necessity of abolishing capitalism and the other evils of the current
+system while focusing exclusively on the state, is simply distorting his
+ideas. As Mark Leier summarises in his excellent biography of Bakunin, Engels
+_"was just flat-out wrong . . . What Bakunin did argue was that the social
+revolution had to be launched against the state and capitalism simultaneously,
+for the two reinforced each other."_ [ **Bakunin: The Creative Passion** , p.
+274]
 
 Kropotkin, unsurprisingly, argued along identical lines as Bakunin. He
 stressed that _"the revolution will burn on until it has accomplished its
@@ -1544,46 +1552,47 @@ revolution."_ This meant that _"the area of struggle against capital, and
 against the sustainer of capital - government"_ could be one in which
 _"various groups can act in agreement"_ and so _"any struggle that prepares
 for that expropriation should be sustained in unanimity by all the socialist
-groups, to whatever shading they belong."_ [**Words of a Rebel**, p. 75 and p.
-204] Little wonder Kropotkin wrote his famous article _"Expropriation"_ on
+groups, to whatever shading they belong."_ [ **Words of a Rebel** , p. 75 and
+p. 204] Little wonder Kropotkin wrote his famous article _"Expropriation"_ on
 this subject! As he put it:
 
 > _"Expropriation - that is the guiding word of the coming revolution, without
-which it will fail in its historic mission: the complete expropriation of all
-those who have the means of exploiting human beings; the return to the
-community of the nation of everything that in the hands of anyone can be used
-to exploit others."_ [**Op. Cit.**, pp. 207-8]
+> which it will fail in its historic mission: the complete expropriation of
+> all those who have the means of exploiting human beings; the return to the
+> community of the nation of everything that in the hands of anyone can be
+> used to exploit others."_ [ **Op. Cit.** , pp. 207-8]
 
 This was because he was well aware of the oppressive nature of capitalism:
 _"For the worker who **must sell** his labour, it is impossible to remain
-**free**, and it is precisely because it is impossible that we are anarchists
-and communists."_ [**Selected Writings on Anarchism and Revolution**, p. 305]
-For Kropotkin, _"the task we impose ourselves"_ is to acquire _"sufficient
-influence to induce the workmen to avail themselves of the first opportunity
-of taking possession of land and the mines, of railways and factories,"_ to
-bring working class people _"to the conviction that they must rely on
-themselves to get rid of the oppression of Capital."_ [**Act for Yourselves**,
-p. 32] Strange words if Marxist assertions were true. As can be seen,
-Kropotkin is simply following Bakunin's ideas on the matter. He, like Bakunin,
-was well aware of the evils of capitalism and that the state protects these
-evils.
+**free** , and it is precisely because it is impossible that we are anarchists
+and communists."_ [ **Selected Writings on Anarchism and Revolution** , p.
+305] For Kropotkin, _"the task we impose ourselves"_ is to acquire
+_"sufficient influence to induce the workmen to avail themselves of the first
+opportunity of taking possession of land and the mines, of railways and
+factories,"_ to bring working class people _"to the conviction that they must
+rely on themselves to get rid of the oppression of Capital."_ [ **Act for
+Yourselves** , p. 32] Strange words if Marxist assertions were true. As can be
+seen, Kropotkin is simply following Bakunin's ideas on the matter. He, like
+Bakunin, was well aware of the evils of capitalism and that the state protects
+these evils.
 
 Unsurprisingly, he called anarchism _"the no-government system of socialism."_
-[**Anarchism**, p. 46] For Kropotkin, the _"State is there to protect
+[ **Anarchism** , p. 46] For Kropotkin, the _"State is there to protect
 exploitation, speculation and private property; it is itself the by-product of
 the rapine of the people. The proletarian must rely on his own hands; he can
 expect nothing of the State. It is nothing more than an organisation devised
-to hinder emancipation at all costs."_ [**Words of a Rebel**, p. 27] Rather
+to hinder emancipation at all costs."_ [ **Words of a Rebel** , p. 27] Rather
 than see the state as the main evil, he clearly saw it as the protector of
 capitalism - in other words, as one aspect of a class system which needed to
 be replaced by a better society:
 
 > _"The very words Anarchist-Communism show in what direction society, in our
-opinion, is already going, and on what lines it can get rid of the oppressive
-powers of Capital and Government . . . The first conviction to acquire is that
-nothing short of expropriation on a vast scale, carried out by the workmen
-themselves, can be the first step towards a reorganisation of our production
-on Socialist principles."_ [Kropotkin, **Act for Yourselves**, pp. 32-3]
+> opinion, is already going, and on what lines it can get rid of the
+> oppressive powers of Capital and Government . . . The first conviction to
+> acquire is that nothing short of expropriation on a vast scale, carried out
+> by the workmen themselves, can be the first step towards a reorganisation of
+> our production on Socialist principles."_ [Kropotkin, **Act for Yourselves**
+> , pp. 32-3]
 
 Similarly with other anarchists. Emma Goldman summarised the libertarian
 position when she argued that anarchism _"really stands for"_ the _"liberation
@@ -1599,8 +1608,8 @@ and will do away with this humiliating and degrading situation . . . There can
 be no freedom in the large sense of the word . . . so long as mercenary and
 commercial considerations play an important part in the determination of
 personal conduct."_ The state, ironically for Stack's claim, was _"necessary
-**only** to maintain or protect property and monopoly."_ [**Red Emma Speaks**,
-p. 73, p. 66, p. 50 and p. 51]
+**only** to maintain or protect property and monopoly."_ [ **Red Emma Speaks**
+, p. 73, p. 66, p. 50 and p. 51]
 
 Errico Malatesta, likewise, stressed that, for _"all anarchists,"_ it was
 definitely a case that the _"abolition of political power is not possible
@@ -1612,32 +1621,33 @@ the mass of the people, disinherited in all respects, is exploited and
 oppressed by a small possessing class."_ It ends by arguing that anarchism
 wants _"the complete destruction of the domination and exploitation of man by
 man"_ and for _"expropriation of landowners and capitalists for the benefit of
-all; and the abolition of government."_ [**Errico Malatesta: His Life and
-Ideas**, p. 158, p. 184, p. 183, p. 197 and p. 198] Nearly three decades
+all; and the abolition of government."_ [ **Errico Malatesta: His Life and
+Ideas** , p. 158, p. 184, p. 183, p. 197 and p. 198] Nearly three decades
 previously, we find Malatesta arguing the same idea. As he put it in 1891,
 anarchists _"struggle for anarchy, and for socialism, because we believe that
 anarchy and socialism must be realised immediately, that is to say that in the
 revolutionary act we must drive government away, abolish property . . . human
 progress is measured by the extent government power and private property are
-reduced."_ [**Anarchy**, p. 54]
+reduced."_ [ **Anarchy** , p. 54]
 
 Little wonder Bertrand Russell stated that anarchism _"is associated with
 belief in the communal ownership of land and capital"_ because, like Marxism,
 it has the _"perception that private capital is a source of tyranny by certain
-individuals over others."_ [**Roads to Freedom**, p. 40] Russell was, of
+individuals over others."_ [ **Roads to Freedom** , p. 40] Russell was, of
 course, simply pointing out the obvious. As Brian Morris correctly summarises:
 
 > _"Another criticism of anarchism is that it has a narrow view of politics:
-that it sees the state as the fount of all evil, ignoring other aspects of
-social and economic life. This is a misrepresentation of anarchism. It partly
-derives from the way anarchism has been defined, and partly because Marxist
-historians have tried to exclude anarchism from the broader socialist
-movement. But when one examines the writings of classical anarchists. . . as
-well as the character of anarchist movements. . . it is clearly evident that
-it has never had this limited vision. It has always challenged all forms of
-authority and exploitation, and has been equally critical of capitalism and
-religion as it has been of the state."_ [_"Anthropology and Anarchism,"_ pp.
-35-41, **Anarchy: A Journal of Desire Armed**, no. 45, p, p. 40]
+> that it sees the state as the fount of all evil, ignoring other aspects of
+> social and economic life. This is a misrepresentation of anarchism. It
+> partly derives from the way anarchism has been defined, and partly because
+> Marxist historians have tried to exclude anarchism from the broader
+> socialist movement. But when one examines the writings of classical
+> anarchists. . . as well as the character of anarchist movements. . . it is
+> clearly evident that it has never had this limited vision. It has always
+> challenged all forms of authority and exploitation, and has been equally
+> critical of capitalism and religion as it has been of the state."_ [
+> _"Anthropology and Anarchism,"_ pp. 35-41, **Anarchy: A Journal of Desire
+> Armed** , no. 45, p, p. 40]
 
 All in all, Marxist claims that anarchists view the state as the _"chief
 evil"_ or see the destruction of the state as the _"main idea"_ of anarchism
@@ -1651,19 +1661,19 @@ into when trying to analyse the Stalinist regime in Russia. Anarchists are
 well aware that the state is just one aspect of the current class system but
 unlike Marxists we recognise that _"class rule must be placed in the much
 **larger** context of hierarchy and domination as a whole."_ [Murray Bookchin,
-**The Ecology of Freedom**, p. 28] This has been the anarchist position from
+**The Ecology of Freedom** , p. 28] This has been the anarchist position from
 the nineteenth century onwards and one which is hard not to recognise if you
 are at all familiar with the anarchist movement and its theory. As one
 historian notes, we have never been purely anti-state, but also anti-
 capitalist and opposed to all forms of oppression:
 
 > _"Anarchism rejected capitalism . . . not only because it viewed it as
-inimical to social equality, but also because it saw it as a form of
-domination detrimental to individual freedom. Its basic tenet regarded
-hierarchical authority - be it the state, the church, the economic elite, or
-patriarchy - as unnecessary and deleterious to the maximisation of human
-potential."_ [Jose Moya, **Italians in Buenos Aires's Anarchist Movement**, p.
-197]
+> inimical to social equality, but also because it saw it as a form of
+> domination detrimental to individual freedom. Its basic tenet regarded
+> hierarchical authority - be it the state, the church, the economic elite, or
+> patriarchy - as unnecessary and deleterious to the maximisation of human
+> potential."_ [Jose Moya, **Italians in Buenos Aires's Anarchist Movement** ,
+> p. 197]
 
 So we oppose the state because it is just one aspect of a class ridden and
 hierarchical system. We just recognise that all the evils of that system must
@@ -1679,25 +1689,25 @@ society, in other words) can be created _"overnight."_ As Marxist Bertell
 Ollman puts it, _"[u]nlike anarcho-communists, none of us [Marxists] believe
 that communism will emerge full blown from a socialist revolution. Some kind
 of transition and period of indeterminate length for it to occur are
-required."_ [**Market Socialism: The Debate among Socialists**, Bertell Ollman
-(ed.), p. 177] This assertion, while it is common, fails to understand the
-anarchist vision of revolution. We consider it a **process** and not an event:
-_"By revolution we do not mean just the insurrectionary act."_ [Malatesta,
-**Errico Malatesta: His Life and Ideas**, p. 156]
+required."_ [ **Market Socialism: The Debate among Socialists** , Bertell
+Ollman (ed.), p. 177] This assertion, while it is common, fails to understand
+the anarchist vision of revolution. We consider it a **process** and not an
+event: _"By revolution we do not mean just the insurrectionary act."_
+[Malatesta, **Errico Malatesta: His Life and Ideas** , p. 156]
 
 Once this is understood, the idea that anarchists think a _"full blown"_
 anarchist society will be created _"overnight"_ is a fallacy. As Murray
 Bookchin pointed out, _"Bakunin, Kropotkin, Malatesta were not so naive as to
 believe that anarchism could be established overnight. In imputing this notion
 to Bakunin, Marx and Engels wilfully distorted the Russian anarchist's
-views."_ [**Post-Scarcity Anarchism**, p. 137] Indeed, Kropotkin stressed that
-anarchists _"do not believe that in any country the Revolution will be
+views."_ [ **Post-Scarcity Anarchism** , p. 137] Indeed, Kropotkin stressed
+that anarchists _"do not believe that in any country the Revolution will be
 accomplished at a stroke, in the twinkling of a eye, as some socialists
 dream."_ Moreover, _"[n]o fallacy more harmful has ever been spread than the
-fallacy of a 'One-day Revolution.'"_ [**The Conquest of Bread**, p. 81]
+fallacy of a 'One-day Revolution.'"_ [ **The Conquest of Bread** , p. 81]
 Bakunin argued that a _"more or less prolonged transitional period"_ would
 _"naturally follow in the wake of the great social crisis"_ implied by social
-revolution. [**The Political Philosophy of Bakunin**, p. 412] The question,
+revolution. [ **The Political Philosophy of Bakunin** , p. 412] The question,
 therefore, is not whether there will be a _"transitional"_ society after a
 revolution but what **kind** of transition will it be.
 
@@ -1712,7 +1722,7 @@ itself. It is to pave the road for anarchy, to establish conditions which will
 make a life of liberty possible."_ However, the _"end shapes the means"_ and
 so _"to achieve its purpose the revolution must be imbued with and directed by
 the anarchist spirit and ideas . . . the social revolution must be anarchist
-in method as in aim."_ [**What is Anarchism?**, p. 231]
+in method as in aim."_ [ **What is Anarchism?** , p. 231]
 
 Berkman also acknowledged that _"full blown"_ communism was not likely after a
 successful revolution. _"Of course,"_ he argued, _"when the social revolution
@@ -1730,11 +1740,11 @@ that a country in social revolution may try various economic experiments . . .
 different countries and regions will probably try out various methods, and by
 practical experience learn the best way. The revolution is at the same time
 the opportunity and justification for it."_ Rather than _"dictate to the
-future, to prescribe its mode of conduct"_, Berkman argued that his _"purpose
+future, to prescribe its mode of conduct"_ , Berkman argued that his _"purpose
 is to suggest, in broad outline the principles which must animate the
 revolution, the general lines of action it should follow if it is to
 accomplish its aim - the reconstruction of society on a foundation of freedom
-and equality."_ [**Op. Cit.**, p. 215 and p. 230]
+and equality."_ [ **Op. Cit.** , p. 215 and p. 230]
 
 Malatesta argued along similar lines. While urging the _"complete destruction
 of the domination and exploitation of man by man"_ by the _"expropriation of
@@ -1753,11 +1763,11 @@ _"understand the advantages of communism or at least of the direct exchange of
 goods for goods,"_ this may not happen _"in a day."_ If some kind of money was
 used, then people should _"ensure that [it] truly represents the useful work
 performed by its possessors"_ rather than being that _"powerful means of
-exploitation and oppression"_ is currently is. [**Errico Malatesta: His Life
-and Ideas**, pp. 198-9 and pp. 100-1] Emma Goldman, also, saw _"a society
+exploitation and oppression"_ is currently is. [ **Errico Malatesta: His Life
+and Ideas** , pp. 198-9 and pp. 100-1] Emma Goldman, also, saw _"a society
 based on voluntary co-operation of productive groups, communities and
 societies loosely federated together, eventually developing into a free
-communism, actuated by a solidarity of interests."_ [**Red Emma Speaks**, p.
+communism, actuated by a solidarity of interests."_ [ **Red Emma Speaks** , p.
 50]
 
 So rather than seeing a _"full blown"_ communist society appearing instantly
@@ -1778,7 +1788,7 @@ to be possible, a high stage of moral development is required of the members
 of society, a sense of solidarity both elevated and profound, which the
 upsurge of the revolution may not suffice to induce. This doubt is the more
 justified in that material conditions favourable to this development will not
-exist at the beginning."_ [quoted by Daniel Guérin, **Anarchism**, p. 51]
+exist at the beginning."_ [quoted by Daniel Guérin, **Anarchism** , p. 51]
 
 Clearly, our argument contradicts the widely held view that anarchists
 believed a utopian world would be created instantly after a revolution. Of
@@ -1807,14 +1817,14 @@ example, continually stressed that a revolution would face extensive economic
 disruption. In his words:
 
 > _"A political revolution can be accomplished without shaking the foundations
-of industry, but a revolution where the people lay hands upon property will
-inevitably paralyse exchange and production . . . This point cannot be too
-much insisted upon; the reorganisation of industry on a new basis . . . cannot
-be accomplished in a few days; nor, on the other hand, will people submit to
-be half starved for years in order to oblige the theorists who uphold the wage
-system. To tide over the period of stress they will demand what they have
-always demanded in such cases - communisation of supplies - the giving of
-rations."_ [**The Conquest of Bread**, pp. 72-3]
+> of industry, but a revolution where the people lay hands upon property will
+> inevitably paralyse exchange and production . . . This point cannot be too
+> much insisted upon; the reorganisation of industry on a new basis . . .
+> cannot be accomplished in a few days; nor, on the other hand, will people
+> submit to be half starved for years in order to oblige the theorists who
+> uphold the wage system. To tide over the period of stress they will demand
+> what they have always demanded in such cases - communisation of supplies -
+> the giving of rations."_ [ **The Conquest of Bread** , pp. 72-3]
 
 The basic principles of this "transition" period would, therefore, be based on
 the _"socialising of production, consumption and exchange."_ The state would
@@ -1823,14 +1833,14 @@ capitalism would be achieved by the _"expropriation"_ of _"everything that
 enables any man - be he financier, mill-owner, or landlord - - to appropriate
 the product of others' toil."_ Distribution of goods would be based on _"no
 stint or limit to what the community possesses in abundance, but equal sharing
-and dividing of those commodities which are scarce or apt to run short."_
-[**Op. Cit.**, p. 136, p. 61 and p. 76] Clearly, while not _"full blown"_
+and dividing of those commodities which are scarce or apt to run short."_ [
+**Op. Cit.** , p. 136, p. 61 and p. 76] Clearly, while not _"full blown"_
 communism by any means, such a regime does lay the ground for its eventual
 arrival. As Max Nettlau summarised, _"[n]othing but a superficial
 interpretation of some of Kropotkin's observations could lead one to conclude
 that anarchist communism could spring into life through an act of sweeping
-improvisation, with the waving of a magic wand."_ [**A Short History of
-Anarchism**, p. 80]
+improvisation, with the waving of a magic wand."_ [ **A Short History of
+Anarchism** , p. 80]
 
 This was what happened in the Spanish Revolution, for example. Different
 collectives operated in different ways. Some tried to introduce free
@@ -1856,8 +1866,8 @@ _"immense constructive work demanded by a social revolution cannot be
 accomplished by a central government . . . It has need of knowledge, of brains
 and of the voluntary collaboration of a host of local and specialised forces
 which alone can attack the diversity of economic problems in their local
-aspects."_ [**Anarchism**, pp. 255-6] Without this local action, co-ordinated
-joint activity would remain a dead letter.
+aspects."_ [ **Anarchism** , pp. 255-6] Without this local action, co-
+ordinated joint activity would remain a dead letter.
 
 In summary, anarchists acknowledge that **politically** there is no
 transitional period (i.e. the state must be abolished and replaced by a free
@@ -1887,15 +1897,15 @@ as we shall indicate, it is probably the latter). Here is Stack's account of
 Kropotkin's ideas:
 
 > _"And the anarchist Peter Kropotkin, far from seeing class conflict as the
-dynamic for social change as Marx did, saw co-operation being at the root of
-the social process. He believed the co-operation of what he termed 'mutual
-aid' was the natural order, which was disrupted by centralised states. Indeed
-in everything from public walkways and libraries through to the Red Cross,
-Kropotkin felt he was witnessing confirmation that society was moving towards
-his mutual aid, prevented only from completing the journey by the state. It
-follows that if class conflict is not the motor of change, the working class
-is not the agent and collective struggle not the means."_ [_"Anarchy in the
-UK?"_, **Socialist Review**, no. 246]
+> dynamic for social change as Marx did, saw co-operation being at the root of
+> the social process. He believed the co-operation of what he termed 'mutual
+> aid' was the natural order, which was disrupted by centralised states.
+> Indeed in everything from public walkways and libraries through to the Red
+> Cross, Kropotkin felt he was witnessing confirmation that society was moving
+> towards his mutual aid, prevented only from completing the journey by the
+> state. It follows that if class conflict is not the motor of change, the
+> working class is not the agent and collective struggle not the means."_ [
+> _"Anarchy in the UK?"_ , **Socialist Review** , no. 246]
 
 There are three issues with Stack's summary. Firstly, Kropotkin did not, in
 fact, reject class conflict as the _"dynamic of social change"_ nor reject the
@@ -1916,35 +1926,35 @@ the examples Stack lists are not to be found in Kropotkin's classic work
 _"mutual aid"_ then he would have listed them in that work. This does not
 mean, however, that Kropotkin did not mention these examples. He does, but in
 other works (notably his essay **Anarchist-Communism: Its Basis and
-Principles**) and he does **not** use them as examples of mutual aid. Here are
-Kropotkin's own words on these examples:
+Principles** ) and he does **not** use them as examples of mutual aid. Here
+are Kropotkin's own words on these examples:
 
 > _"We maintain, moreover, not only that communism is a desirable state of
-society, but that the growing tendency of modern society is precisely towards
-communism - free communism - notwithstanding the seemingly contradictory
-growth of individualism. In the growth of individualism . . . we see merely
-the endeavours of the individual towards emancipating himself from the
-steadily growing powers of capital and the State. But side by side with this
-growth we see also . . . the latent struggle of the producers of wealth to
-maintain the partial communism of old, as well as to reintroduce communist
-principles in a new shape, as soon as favourable conditions permit it. . . the
-communist tendency is continually reasserting itself and trying to make its
-way into public life. The penny bridge disappears before the public bridge;
-and the turnpike road before the free road. The same spirit pervades thousands
-of other institutions. Museums, free libraries, and free public schools; parks
-and pleasure grounds; paved and lighted streets, free for everybody's use;
-water supplied to private dwellings, with a growing tendency towards
-disregarding the exact amount of it used by the individual; tramways and
-railways which have already begun to introduce the season ticket or the
-uniform tax, and will surely go much further in this line when they are no
-longer private property: all these are tokens showing in what direction
-further progress is to be expected. _
+> society, but that the growing tendency of modern society is precisely
+> towards communism - free communism - notwithstanding the seemingly
+> contradictory growth of individualism. In the growth of individualism . . .
+> we see merely the endeavours of the individual towards emancipating himself
+> from the steadily growing powers of capital and the State. But side by side
+> with this growth we see also . . . the latent struggle of the producers of
+> wealth to maintain the partial communism of old, as well as to reintroduce
+> communist principles in a new shape, as soon as favourable conditions permit
+> it. . . the communist tendency is continually reasserting itself and trying
+> to make its way into public life. The penny bridge disappears before the
+> public bridge; and the turnpike road before the free road. The same spirit
+> pervades thousands of other institutions. Museums, free libraries, and free
+> public schools; parks and pleasure grounds; paved and lighted streets, free
+> for everybody's use; water supplied to private dwellings, with a growing
+> tendency towards disregarding the exact amount of it used by the individual;
+> tramways and railways which have already begun to introduce the season
+> ticket or the uniform tax, and will surely go much further in this line when
+> they are no longer private property: all these are tokens showing in what
+> direction further progress is to be expected._
 
 > _"It is in the direction of putting the wants of the individual **above**
-the valuation of the service he has rendered, or might render, to society; in
-considering society as a whole, so intimately connected together that a
-service rendered to any individual is a service rendered to the whole
-society."_ [**Anarchism**, pp. 59-60]
+> the valuation of the service he has rendered, or might render, to society;
+> in considering society as a whole, so intimately connected together that a
+> service rendered to any individual is a service rendered to the whole
+> society."_ [ **Anarchism** , pp. 59-60]
 
 As is clear, the examples Stack selects have nothing to do with mutual aid in
 Kropotkin's eyes. Rather, they are examples of communistic tendencies within
@@ -1955,7 +1965,7 @@ existing society to show that communism is not impossible.
 
 Similarly with Stack's other examples, which are **not** used as expressions
 of _"mutual aid"_ but rather as evidence that social life can be organised
-without government. [**Op. Cit.**, pp. 65-7] Just as with communism, he gave
+without government. [ **Op. Cit.** , pp. 65-7] Just as with communism, he gave
 concrete examples of libertarian tendencies within society to prove the
 possibility of an anarchist society. And just like his examples of communistic
 activities within capitalism, his examples of co-operation without the state
@@ -1963,7 +1973,7 @@ are not listed as examples of _"mutual aid."_
 
 All this would suggest that Stack has either not read Kropotkin's works or
 that he has and consciously decided to misrepresent his ideas. In fact, its a
-combination of the two. Stack (as proven by his talk at **Marxism 2001**)
+combination of the two. Stack (as proven by his talk at **Marxism 2001** )
 gathered his examples of _"mutual aid"_ from Paul Avrich's essay _"Kropotkin's
 Ethical Anarchism"_ contained in his **Anarchist Portraits**. As such, he has
 not read the source material. Moreover, he simply distorted what Avrich wrote.
@@ -1985,8 +1995,8 @@ quite the reverse. As Avrich noted, Kropotkin _"did not shrink from the
 necessity of revolution"_ as he _"did not expect the propertied classes to
 give up their privileges and possessions without a fight."_ This _"was to be a
 **social** revolution, carried out by the masses themselves"_ achieved by
-means of _"expropriation"_ of social wealth. [**Anarchist Portraits**, p. 58,
-p. 62 and p. 66]
+means of _"expropriation"_ of social wealth. [ **Anarchist Portraits** , p.
+58, p. 62 and p. 66]
 
 So much for Stack's claims. As can be seen, they are not only a total
 misrepresentation of Kropotkin's work, they are also a distortion of his
@@ -1997,7 +2007,7 @@ A few more points need to be raised on this subject.
 Firstly, Kropotkin never claimed that mutual aid _"was the natural order."_
 Rather, he stressed that Mutual Aid was (to use the subtitle of his book on
 the subject) _"a factor of evolution."_ As he put it, mutual aid _"represents
-one of the factors of evolution"_, another being _"the self-assertion of the
+one of the factors of evolution"_ , another being _"the self-assertion of the
 individual, not only to attain personal or caste superiority, economical,
 political, and spiritual, but also in its much more important although less
 evident function of breaking through the bonds, always prone to become
@@ -2013,8 +2023,8 @@ described, and glorified from time immemorial"_ and, as such, he felt no need
 to illustrate it. He did note that it _"was necessary to show, first of all,
 the immense part which this factor plays in the evolution of both the animal
 world and human societies. Only after this has been fully recognised will it
-be possible to proceed to a comparison between the two factors."_ [**Mutual
-Aid**, p. 231 and pp. 231-2] So at no stage did Kropotkin deny either factor
+be possible to proceed to a comparison between the two factors."_ [ **Mutual
+Aid** , p. 231 and pp. 231-2] So at no stage did Kropotkin deny either factor
 (unlike the bourgeois apologists he was refuting).
 
 Secondly, Stack's argument that Kropotkin argued that co-operation was the
@@ -2040,8 +2050,8 @@ year there are thousands of strikes . . . the most severe and protracted
 contests being, as a rule, the so-called 'sympathy strikes,' which are entered
 upon to support locked-out comrades or to maintain the rights of the unions."_
 Anyone (like Kropotkin) who had _"lived among strikers speak with admiration
-of the mutual aid and support which are constantly practised by them."_ [**Op.
-Cit.**, pp. 210-3]
+of the mutual aid and support which are constantly practised by them."_ [
+**Op. Cit.** , pp. 210-3]
 
 Kropotkin, as noted, recognised the importance of struggle or competition as a
 means of survival but also argued that co-operation within a species was the
@@ -2074,7 +2084,7 @@ powers."_ In this conflict _"lies the real tragedy of history."_ He also noted
 that the mutual aid tendency _"continued to live in the villages and among the
 poorer classes in the towns."_ Indeed, _"in so far as"_ as new _"economical
 and social institutions"_ were _"a creation of the masses"_ they _"have all
-originated from the same source"_ of mutual aid. [**Op. Cit.**, pp. 18-9 and
+originated from the same source"_ of mutual aid. [ **Op. Cit.** , pp. 18-9 and
 p. 180] Clearly, Kropotkin saw history marked by both co-operation and
 conflict as you would expect in a society divided by class and hierarchy.
 
@@ -2084,15 +2094,15 @@ history, _"such as it has hitherto been written, is almost entirely a
 description of the ways and means by which theocracy, military power,
 autocracy, and, later on, the richer classes' rule have been promoted,
 established, and maintained."_ The _"mutual aid factor has been hitherto
-totally lost sight of; it was simply denied, or even scoffed at."_ [**Op.
-Cit.**, p. 231] He was well aware that mutual aid (or solidarity) could not be
-applied between classes in a class society. Indeed, as noted, his chapters on
-mutual aid under capitalism contain the strike and union. As he put it in an
-earlier work:
+totally lost sight of; it was simply denied, or even scoffed at."_ [ **Op.
+Cit.** , p. 231] He was well aware that mutual aid (or solidarity) could not
+be applied between classes in a class society. Indeed, as noted, his chapters
+on mutual aid under capitalism contain the strike and union. As he put it in
+an earlier work:
 
 > _"What solidarity can exist between the capitalist and the worker he
-exploits? Between the head of an army and the soldier? Between the governing
-and the governed?"_ [**Words of a Rebel**, p. 30]
+> exploits? Between the head of an army and the soldier? Between the governing
+> and the governed?"_ [ **Words of a Rebel** , p. 30]
 
 In summary, Stack's assertions about Kropotkin's theory of _"Mutual Aid"_ are
 simply false. He distorts the source material and shows a total ignorance of
@@ -2116,10 +2126,10 @@ destruction of capitalism, were 'tainted by pretensions and aspirations'.
 Instead Bakunin looked to those cast aside by capitalism, those most damaged,
 brutalised and marginalised. The lumpen proletariat, the outlaws, the
 'uncivilised, disinherited, illiterate', as he put it, would be his agents for
-change."_ [_"Anarchy in the UK?"_, **Socialist Review**, no. 246] He fails to
-provide any references for his accusations. This is unsurprising, as to do so
-would mean that the reader could check for themselves the validity of Stack's
-claims.
+change."_ [ _"Anarchy in the UK?"_ , **Socialist Review** , no. 246] He fails
+to provide any references for his accusations. This is unsurprising, as to do
+so would mean that the reader could check for themselves the validity of
+Stack's claims.
 
 Take, for example, the quote _"uncivilised, disinherited, illiterate"_ Stack
 uses as evidence. This expression is from an essay written by Bakunin in 1872
@@ -2133,7 +2143,7 @@ present a radically false image of anarchism. Moreover, as we will indicate,
 Stack's also quotes them outside the historical context as well.
 
 Let us begin with Bakunin's views on _"skilled artisans and organised factory
-workers."_ In **Statism and Anarchy**, for example, we discover Bakunin
+workers."_ In **Statism and Anarchy** , for example, we discover Bakunin
 arguing that the _"proletariat . . . must enter the International [Workers'
 Association] en masse, form factory, artisan, and agrarian sections, and unite
 them into local federations"_ for _"the sake of its own liberation."_ [p. 51]
@@ -2150,8 +2160,8 @@ masses . . . from the bottom up"_ and that this was _"the proper aim of the
 organisation of trade union sections."_ He stressed that revolutionaries must
 _"[o]rganise the city proletariat in the name of revolutionary Socialism . . .
 [and] unite it into one preparatory organisation together with the
-peasantry."_ [**The Political Philosophy of Bakunin**, p. 300, p. 310, p. 319
-and p. 378]
+peasantry."_ [ **The Political Philosophy of Bakunin** , p. 300, p. 310, p.
+319 and p. 378]
 
 This support for organised workers and artisans can also be seen from the rest
 of the essay Stack distorts, in which Bakunin discusses the _"flower of the
@@ -2175,7 +2185,8 @@ international strikes"_ and _"establishing national and international trade
 unions,"_ would discuss _"political and philosophical questions."_ The workers
 _"join the International for one very practical purpose: solidarity in the
 struggle for full economic rights against the oppressive exploitation by the
-bourgeoisie."_ [**Bakunin on Anarchism**, pp. 297-8, pp. 298-9 and pp. 301-2]
+bourgeoisie."_ [ **Bakunin on Anarchism** , pp. 297-8, pp. 298-9 and pp.
+301-2]
 
 All this, needless to say, makes a total mockery of Stack's claim that Bakunin
 did not see _"skilled artisans and organised factory workers"_ as _"the source
@@ -2196,23 +2207,23 @@ Marx. From the context, it can quickly be seen that by these terms Bakunin
 meant the bulk of the working class. In his words:
 
 > _"To me the flower of the proletariat is not, as it is to the Marxists, the
-upper layer, the aristocracy of labour, those who are the most cultured, who
-earn more and live more comfortably that all the other workers. Precisely this
-semi-bourgeois layer of workers would, if the Marxists had their way,
-constitute their **fourth governing class.** This could indeed happen if the
-great mass of the proletariat does not guard against it. By virtue of its
-relative well-being and semi-bourgeois position, this upper layer of workers
-is unfortunately only too deeply saturated with all the political and social
-prejudices and all the narrow aspirations and pretensions of the bourgeoisie.
-Of all the proletariat, this upper layer is the least socialist, the most
-individualist. _
+> upper layer, the aristocracy of labour, those who are the most cultured, who
+> earn more and live more comfortably that all the other workers. Precisely
+> this semi-bourgeois layer of workers would, if the Marxists had their way,
+> constitute their **fourth governing class.** This could indeed happen if the
+> great mass of the proletariat does not guard against it. By virtue of its
+> relative well-being and semi-bourgeois position, this upper layer of workers
+> is unfortunately only too deeply saturated with all the political and social
+> prejudices and all the narrow aspirations and pretensions of the
+> bourgeoisie. Of all the proletariat, this upper layer is the least
+> socialist, the most individualist. _
 
-> _"By the **flower of the proletariat**, I mean above all that great mass,
-those millions of the uncultivated, the disinherited, the miserable, the
-illiterates . . . I mean precisely that eternal 'meat' (on which governments
-thrive), that great **rabble of the people** (underdogs, 'dregs of society')
-ordinarily designated by Marx and Engels by the phrase . . .
-Lumpenproletariat"_ [**Bakunin on Anarchism**, p. 294]
+> _"By the **flower of the proletariat** , I mean above all that great mass,
+> those millions of the uncultivated, the disinherited, the miserable, the
+> illiterates . . . I mean precisely that eternal 'meat' (on which governments
+> thrive), that great **rabble of the people** (underdogs, 'dregs of society')
+> ordinarily designated by Marx and Engels by the phrase . . .
+> Lumpenproletariat"_ [ **Bakunin on Anarchism** , p. 294]
 
 Thus Bakunin contrasted a _"semi-bourgeois"_ layer to the _"great mass of the
 proletariat."_ In a later work, Bakunin makes the same point, namely that
@@ -2223,12 +2234,12 @@ number and influence . . . In Italy it is the extremely poor proletariat that
 predominates. Marx speaks disdainfully, but quite unjustly, of this
 **Lumpenproletariat.** For in them, and only in them, and not in the bourgeois
 strata of workers, are there crystallised the entire intelligence and power of
-the coming Social Revolution."_ [**Op. Cit.**, p. 334] Again it is clear that
-Bakunin is referring to a small minority within the working class and **not**
-dismissing the working class as a whole. He explicitly pointed to the _
-"**bourgeois-influenced** minority of the urban proletariat"_ and contrasted
-this minority to _"the mass of the proletariat, both rural and urban."_
-[**Michael Bakunin: Selected Writings**, p. 254]
+the coming Social Revolution."_ [ **Op. Cit.** , p. 334] Again it is clear
+that Bakunin is referring to a small minority within the working class and
+**not** dismissing the working class as a whole. He explicitly pointed to the
+_" **bourgeois-influenced** minority of the urban proletariat"_ and contrasted
+this minority to _"the mass of the proletariat, both rural and urban."_ [
+**Michael Bakunin: Selected Writings** , p. 254]
 
 Clearly, Stack is distorting Bakunin's ideas on this subject when he claims
 that Bakunin thought **all** workers were _"tainted by pretensions and
@@ -2239,8 +2250,8 @@ revolutionary unions, quite the reverse. As can be seen, Bakunin argued there
 was a group of workers who accepted bourgeois society and did relatively well
 under it. It was **these** workers who were _"frequently no less egoistic than
 bourgeois exploiters, no less pernicious to the International than bourgeois
-socialists, and no less vain and ridiculous than bourgeois nobles."_ [**The
-Basic Bakunin**, p. 108] It is comments like this that Marxists quote out of
+socialists, and no less vain and ridiculous than bourgeois nobles."_ [ **The
+Basic Bakunin** , p. 108] It is comments like this that Marxists quote out of
 context and use for their claims that Bakunin did not see the working class as
 the agent of social change. However, rather than refer to the whole working
 class, Stack quotes Bakunin's thoughts in relation to a minority strata within
@@ -2253,15 +2264,15 @@ fact, illiterate and disinherited. To get some sort of idea of the numbers of
 working people who would have been classed as _"the uncultivated, the
 disinherited, the miserable, the illiterates"_ we have to provide some
 numbers. In Spain, for example, _"in 1870, something like 60 per cent of the
-population was illiterate."_ [Gerald Brenan, **The Spanish Labyrinth**, p. 50]
-In Russia, in 1897 (i.e. 21 years after Bakunin's death), _"only 21% of the
-total population of European Russia was literate. This was mainly because of
-the appallingly low rate of literacy in the countryside - 17% compared to 45%
-in the towns."_ [S.A. Smith, **Red Petrograd**, p. 34] Stack, in effect, is
-excluding the majority of the working masses from the working class movement
-**and** the revolution in the 1860-70s by his comments. Little wonder Bakunin
-said what he said. By ignoring the historical context (as he ignores the
-context of Bakunin's comments), Stack misleads the reader and presents a
+population was illiterate."_ [Gerald Brenan, **The Spanish Labyrinth** , p.
+50] In Russia, in 1897 (i.e. 21 years after Bakunin's death), _"only 21% of
+the total population of European Russia was literate. This was mainly because
+of the appallingly low rate of literacy in the countryside - 17% compared to
+45% in the towns."_ [S.A. Smith, **Red Petrograd** , p. 34] Stack, in effect,
+is excluding the majority of the working masses from the working class
+movement **and** the revolution in the 1860-70s by his comments. Little wonder
+Bakunin said what he said. By ignoring the historical context (as he ignores
+the context of Bakunin's comments), Stack misleads the reader and presents a
 distinctly distorted picture of Bakunin's thought.
 
 In other words, Bakunin's comments on the _"flower of the proletariat"_ apply
@@ -2281,41 +2292,41 @@ Clearly, Sam Dolgoff's summary of Bakunin's ideas on this subject is the
 correct one:
 
 > _"Bakunin's **Lumpenproletariat** . . . was broader than Marx's, since it
-included all the submerged classes: unskilled, unemployed, and poor workers,
-poor peasant proprietors, landless agricultural labourers, oppressed racial
-minorities, alienated and idealistic youth, declasse intellectuals, and
-'bandits' (by whom Bakunin meant insurrectionary 'Robin Hoods' like Pugachev,
-Stenka Razin, and the Italian Carbonari)."_ [_"Introduction"_, **Bakunin on
-Anarchism**, pp. 13-4]
+> included all the submerged classes: unskilled, unemployed, and poor workers,
+> poor peasant proprietors, landless agricultural labourers, oppressed racial
+> minorities, alienated and idealistic youth, declasse intellectuals, and
+> 'bandits' (by whom Bakunin meant insurrectionary 'Robin Hoods' like
+> Pugachev, Stenka Razin, and the Italian Carbonari)."_ [ _"Introduction"_ ,
+> **Bakunin on Anarchism** , pp. 13-4]
 
 Moreover, the issue is clouded by translation issues as well. As Mark Leier
 notes Bakunin _"rarely used the word 'lumpenproletariat.' While he does use
-the French word **canaille**, this is better translated as 'mob' or 'rabble' .
-. . When Bakunin does talk about the **canaille** or rabble, he usually refers
-not to the lumpenproletariat as such but to the poorer sections of the working
-class . . . While we might translate 'destitute proletariat' as
+the French word **canaille** , this is better translated as 'mob' or 'rabble'
+. . . When Bakunin does talk about the **canaille** or rabble, he usually
+refers not to the lumpenproletariat as such but to the poorer sections of the
+working class . . . While we might translate 'destitute proletariat' as
 'lumpenproletariat,' Bakunin himself . . . is referring to a portion of the
-proletariat and the peasantry, not the lumpenproletariat."_ [** Bakunin: The
-Creative Passion**, p. 221]
+proletariat and the peasantry, not the lumpenproletariat."_ [ **Bakunin: The
+Creative Passion** , p. 221]
 
 Nor is Stack the only Marxist to make such arguments as regards Bakunin. Paul
 Thomas quotes Bakunin arguing that the working class _"remains socialist
 without knowing it"_ because of _"the very force of its position"_ and _"all
 the conditions of its material existence"_ and then, incredulously, adds that
 _"[i]t is for this reason that Bakunin turned away from the proletariat and
-its scientific socialism"_ towards the peasantry. [**Karl Marx and the
-Anarchists**, p. 291] A more distorted account of Bakunin's ideas would be
+its scientific socialism"_ towards the peasantry. [ **Karl Marx and the
+Anarchists** , p. 291] A more distorted account of Bakunin's ideas would be
 hard to find (and there is a lot of competition for that particular honour).
 The quotes Thomas provides are from Bakunin's _"The Policy of the
 International"_ in which he discussed his ideas on how the International
 Working-Men's Association should operate (namely _"the collective struggle of
-the workers against the bosses"_). At the time (and for some time after)
+the workers against the bosses"_ ). At the time (and for some time after)
 Bakunin called himself a revolutionary socialist and argued that by class
 struggle, the worker would soon _"recognise himself [or herself] to be a
-revolutionary socialist, and he [or she] will act like one."_ [**The Basic
-Bakunin**, p. 103] As such, the argument that the social position workers are
+revolutionary socialist, and he [or she] will act like one."_ [ **The Basic
+Bakunin** , p. 103] As such, the argument that the social position workers are
 placed in makes them _"socialist without knowing"_ does not, in fact, imply
-that Bakunin thought they would become Marxists (_"scientific socialism"_)
+that Bakunin thought they would become Marxists ( _"scientific socialism"_ )
 and, therefore, he turned against them. Rather, it meant that, for Bakunin,
 anarchist ideas were a product of working class life and it was a case of
 turning instinctive feelings into conscious thought by collective struggle. As
@@ -2331,23 +2342,24 @@ Bakunin did. Indeed, Marxists have a specific term to describe this semi-
 bourgeois strata of workers, namely the _"labour aristocracy."_ Marx, for
 example, talked about the trade unions in Britain being _"an aristocratic
 minority"_ and the _"great mass of workers . . . has long been outside"_ them
-(indeed, _"the most wretched mass has never belonged."_) [**Collected Works**,
-vol. 22, p. 614] Engels also talked about _"a small, privileged, 'protected'
-minority"_ within the working class, which he also called _"the working-class
-aristocracy."_ [**Op. Cit.**, vol. 27, p. 320 and p. 321] Lenin approvingly
-quotes Engels arguing that the _"English proletariat is actually becoming more
-and more bourgeois, so that this most bourgeois of all nations is apparently
-aiming at the possession of . . . a bourgeois proletariat **alongside** the
-bourgeoisie."_ [quoted by Lenin, **Collected Works**, vol. 22, p. 283] Like
-Lenin, Engels explained this by the dominant position of Britain within the
-world market. Indeed, Lenin argued that _"a section of the British proletariat
-becomes bourgeois."_ For Lenin, imperialist _"superprofits"_ make it
-_"**possible to bribe** the labour leaders and the upper stratum of the labour
-aristocracy."_ This _"stratum of workers-turned-bourgeois, or the labour
-aristocracy, who are quite philistine in their mode of life, in the size of
-their earnings and in their entire outlook . . . are the real **agents of the
-bourgeoisie in the working-class** movement, the labour lieutenants of the
-capitalist class."_ [**Op. Cit.**, p. 284 and p. 194]
+(indeed, _"the most wretched mass has never belonged."_ ) [ **Collected
+Works** , vol. 22, p. 614] Engels also talked about _"a small, privileged,
+'protected' minority"_ within the working class, which he also called _"the
+working-class aristocracy."_ [ **Op. Cit.** , vol. 27, p. 320 and p. 321]
+Lenin approvingly quotes Engels arguing that the _"English proletariat is
+actually becoming more and more bourgeois, so that this most bourgeois of all
+nations is apparently aiming at the possession of . . . a bourgeois
+proletariat **alongside** the bourgeoisie."_ [quoted by Lenin, **Collected
+Works** , vol. 22, p. 283] Like Lenin, Engels explained this by the dominant
+position of Britain within the world market. Indeed, Lenin argued that _"a
+section of the British proletariat becomes bourgeois."_ For Lenin, imperialist
+_"superprofits"_ make it _" **possible to bribe** the labour leaders and the
+upper stratum of the labour aristocracy."_ This _"stratum of workers-turned-
+bourgeois, or the labour aristocracy, who are quite philistine in their mode
+of life, in the size of their earnings and in their entire outlook . . . are
+the real **agents of the bourgeoisie in the working-class** movement, the
+labour lieutenants of the capitalist class."_ [ **Op. Cit.** , p. 284 and p.
+194]
 
 As can be seen, this is similar to Bakunin's ideas and, ironically enough,
 nearly identical to Stack's distortion of those ideas (particularly in the
@@ -2360,44 +2372,44 @@ Bakunin while remaining quiet on the near identical comments of his heroes.
 It should be noted that this analysis is confirmed by non-anarchists who have
 actually studied Bakunin. Wayne Thorpe, an academic who specialises in
 syndicalism, presents an identical summary of Bakunin's ideas on this matter.
-[**"The Workers Themselves"**, p. 280] Marxist selective quoting not
+[ **"The Workers Themselves"** , p. 280] Marxist selective quoting not
 withstanding, for Bakunin (as another academic noted) _"it seemed self-evident
 that the revolution, even in Eastern Europe, required the unity of peasantry
 and city workers because of the latter's more advanced consciousness."_ The
 notion that Bakunin stressed the role of the lumpenproletariat is a _"popular
 stereotype"_ but is one _"more distorted by its decisive omissions than in
-what it says."_ _"Marx"_, he correctly summarised, _"accented the
+what it says."_ _"Marx"_ , he correctly summarised, _"accented the
 revolutionary role of the urban proletariat and tended to deprecate the
 peasantry, while Bakunin, although **accepting** the vanguard role of the
 proletariat in the revolution, felt that the peasantry, too, approached
 correctly, also had great potential for revolution."_ [Alvin W. Gouldner,
-_"Marx's Last Battle: Bakunin and the First International"_, pp. 853-884,
-**Theory and Society**, Vol. 11, No. 6, p. 871, p. 869 and p. 869] This flowed
-from Bakunin's materialist politics:
+_"Marx's Last Battle: Bakunin and the First International"_ , pp. 853-884,
+**Theory and Society** , Vol. 11, No. 6, p. 871, p. 869 and p. 869] This
+flowed from Bakunin's materialist politics:
 
 > _"Not restricting the revolution to those societies in which an advanced
-industrialism had produced a massive urban proletariat, Bakunin observed
-sensibly that the class composition of the revolution was bound to differ in
-industrially advanced Western Europe and in Eastern Europe where the economy
-was still largely agricultural . . . This is a far cry, then, from the Marxist
-stereotype of Bakunin-the-anarchist who relied exclusively on the backward
-peasantry and ignored the proletariat."_ [**Op. Cit.**, p. 870]
+> industrialism had produced a massive urban proletariat, Bakunin observed
+> sensibly that the class composition of the revolution was bound to differ in
+> industrially advanced Western Europe and in Eastern Europe where the economy
+> was still largely agricultural . . . This is a far cry, then, from the
+> Marxist stereotype of Bakunin-the-anarchist who relied exclusively on the
+> backward peasantry and ignored the proletariat."_ [ **Op. Cit.** , p. 870]
 
 All in all, once a historic and textual context is placed on Bakunin's words,
 it is clear which social class was considered as the social revolution's
-_"agents of change"_: the working class (i.e. wage workers, artisans, peasants
-and so on). In this, other revolutionary anarchists follow him. Looking at
-Kropotkin we find a similar perspective to Bakunin's. In his first political
-work, Kropotkin explicitly raised the question of _"where our activity be
-directed"_ and answered it _"categorically"_ \- _"unquestionably among the
-peasantry and urban workers."_ In fact, he _"consider[ed] this answer the
-fundamental position in our practical program."_ This was because _"the
-insurrection must proceed among the peasantry and urban workers themselves"_
-if it were to succeed. As such, revolutionaries _"must not stand outside the
-people but among them, must serve not as a champion of some alien opinions
-worked out in isolation, but only as a more distinct, more complete expression
-of the demands of the people themselves."_ [**Selected Writings on Anarchism
-and Revolution**, pp. 85-6]
+_"agents of change"_ : the working class (i.e. wage workers, artisans,
+peasants and so on). In this, other revolutionary anarchists follow him.
+Looking at Kropotkin we find a similar perspective to Bakunin's. In his first
+political work, Kropotkin explicitly raised the question of _"where our
+activity be directed"_ and answered it _"categorically"_ \- _"unquestionably
+among the peasantry and urban workers."_ In fact, he _"consider[ed] this
+answer the fundamental position in our practical program."_ This was because
+_"the insurrection must proceed among the peasantry and urban workers
+themselves"_ if it were to succeed. As such, revolutionaries _"must not stand
+outside the people but among them, must serve not as a champion of some alien
+opinions worked out in isolation, but only as a more distinct, more complete
+expression of the demands of the people themselves."_ [ **Selected Writings on
+Anarchism and Revolution** , pp. 85-6]
 
 That was in 1873. Nearly 30 years later, Kropotkin expressed identical
 opinions stating that he _"did not need to overrate the qualities of the
@@ -2412,8 +2424,8 @@ demand equality. He has never ceased demanding it, he has fought for it and
 will fight for it again, whereas the bourgeois . . . thinks it is to his
 advantage to maintain inequality."_ Unsurprisingly, Kropotkin stressed that
 _"I have always preached active participation in the workers' movement, in the
-**revolutionary workers' movement**"_ [**Op. Cit.**, p. 299, pp. 299-300, p.
-300 and p. 304]
+**revolutionary workers' movement** "_ [ **Op. Cit.** , p. 299, pp. 299-300,
+p. 300 and p. 304]
 
 Much the same can be said for the likes of Goldman, Berkman, Malatesta and so
 on - as even a basic familiarity with their writings and activism would
@@ -2434,7 +2446,7 @@ oppressed, as _"the alienated and oppressed sectors of society are now the
 **majority** of the people."_ In other words, for Bookchin (if not other
 anarchists) expressions like _"class struggle"_ simply _"fail to encompass the
 cultural and spiritual revolt that is taking place along with the economic
-struggle."_ [**Post-Scarcity Anarchism**, p. 117, p. 150, p. 151 and p. 152]
+struggle."_ [ **Post-Scarcity Anarchism** , p. 117, p. 150, p. 151 and p. 152]
 
 So Bookchin's apparent rejection of class struggle and the "proletariat" is
 not, on closer reading, any such thing. He urged a wider form of struggle, one
@@ -2448,8 +2460,8 @@ the working class. Bookchin himself expressed this blinkered perspective when
 he _"dispose[d] of the notion that anyone is a 'proletarian' who has nothing
 to sell but his labour power"_ as Marx and Engels considered that class as
 _"reaching its most advanced form in the **industrial** proletariat, which
-corresponded to the most advanced form of capital."_ [**Op. Cit.**, p. 115fn]
-Sadly, Bookchin reinforced this debased notion of working class and our
+corresponded to the most advanced form of capital."_ [ **Op. Cit.** , p.
+115fn] Sadly, Bookchin reinforced this debased notion of working class and our
 struggle in the very process of trying to overcome it. Yet he always argued
 for a wider concept of social struggle which included, but was not limited to,
 economic class and exploitation and, as a result, included all sections of the
@@ -2457,17 +2469,17 @@ working class and not just workers in large-scale industry. In this he
 followed a long anarchist tradition.
 
 To conclude, for anarchists, the social revolution will be made by the working
-class (_"Anarchists, like Socialists, usually believe in the doctrine of class
-war."_ [Bertrand Russell, **Roads to Freedom**, p. 38]). However, as British
-anarchist Benjamin Franks summarises, _"[b]ecause anarchists hold to a broader
-view of the working class, which includes the lumpenproletariat, they have
-been accused of promoting this section above others. This standard marxist
-interpretation of anarchism is inaccurate; anarchists simply include the
-lumpenproletariat as part of the working class, rather than exclude or exalt
-it."_ [**Rebel Alliances**, p. 168] Ultimately, for anyone to claim that
-Bakunin, or any social anarchist, rejects the working class as an agent of
-social change simply shows their ignorance of the politics they are trying to
-attack.
+class ( _"Anarchists, like Socialists, usually believe in the doctrine of
+class war."_ [Bertrand Russell, **Roads to Freedom** , p. 38]). However, as
+British anarchist Benjamin Franks summarises, _"[b]ecause anarchists hold to a
+broader view of the working class, which includes the lumpenproletariat, they
+have been accused of promoting this section above others. This standard
+marxist interpretation of anarchism is inaccurate; anarchists simply include
+the lumpenproletariat as part of the working class, rather than exclude or
+exalt it."_ [ **Rebel Alliances** , p. 168] Ultimately, for anyone to claim
+that Bakunin, or any social anarchist, rejects the working class as an agent
+of social change simply shows their ignorance of the politics they are trying
+to attack.
 
 ## H.2.8 What is the relationship of anarchism to syndicalism?
 
@@ -2489,7 +2501,7 @@ and the organisational tools of trade unionism. Practically every serious
 anarchist organisation came from or leant on this tradition . . . The huge
 advantage they had over other anarchists was their understanding of the power
 of the working class, the centrality of the point of production (the
-workplace) and the need for collective action."_ [**Socialist Review**, no.
+workplace) and the need for collective action."_ [ **Socialist Review** , no.
 246]
 
 Given that Stack's claims that anarchists reject the _"need for collective
@@ -2509,9 +2521,9 @@ of revolutionary syndicalism. For example, Bakunin argued that the
 _"organisation of the trade sections, their federation in the International,
 and their representation by Chambers of Labour, . . . [allow] the workers . .
 . [to] combin[e] theory and practice . . . [and] bear in themselves the living
-germs of **the social order**, which is to replace the bourgeois world. They
+germs of **the social order** , which is to replace the bourgeois world. They
 are creating not only the ideas but also the facts of the future itself."_
-[quoted by Rudolf Rocker, **Anarcho-Syndicalism**, p. 50] Like the
+[quoted by Rudolf Rocker, **Anarcho-Syndicalism** , p. 50] Like the
 syndicalists, he argued _"the natural organisation of the masses . . . is
 organisation based on the various ways that their various types of work define
 their day-to-day life; it is organisation by trade association"_ and once
@@ -2519,27 +2531,27 @@ _"every occupation . . . is represented within the International [Working-
 Men's Association], its organisation, the organisation of the masses of the
 people will be complete."_ Moreover, Bakunin stressed that the working class
 had _"but a single path, that of **emancipation through practical action**_
-which meant _"workers' solidarity in their struggle against the bosses"_ by _
-"**trades-unions, organisation, and the federation of resistance funds**"_
-[**The Basic Bakunin**, p. 139 and p. 103]
+which meant _"workers' solidarity in their struggle against the bosses"_ by _"
+**trades-unions, organisation, and the federation of resistance funds** "_ [
+**The Basic Bakunin** , p. 139 and p. 103]
 
 Like the syndicalists, Bakunin stressed working class self-activity and
 control over the class struggle:
 
 > _"Toilers count no longer on anyone but yourselves. Do not demoralise and
-paralyse your growing strength by being duped into alliances with bourgeois
-Radicalism . . . Abstain from all participation in bourgeois Radicalism and
-organise outside of it the forces of the proletariat. The bases of this
-organisation are already completely given: they are the workshops and the
-federation of workshops, the creation of fighting funds, instruments of
-struggle against the bourgeoisie, and their federation, not only national, but
-international. _
+> paralyse your growing strength by being duped into alliances with bourgeois
+> Radicalism . . . Abstain from all participation in bourgeois Radicalism and
+> organise outside of it the forces of the proletariat. The bases of this
+> organisation are already completely given: they are the workshops and the
+> federation of workshops, the creation of fighting funds, instruments of
+> struggle against the bourgeoisie, and their federation, not only national,
+> but international._
 
 > _"And when the hour of revolution sounds, you will proclaim the liquidation
-of the State and of bourgeois society, anarchy, that is to say the true, frank
-people's revolution . . . and the new organisation from below upwards and from
-the circumference to the centre."_ [quoted by K.J. Kenafick, **Michael Bakunin
-and Karl Marx**, pp. 120-1]
+> of the State and of bourgeois society, anarchy, that is to say the true,
+> frank people's revolution . . . and the new organisation from below upwards
+> and from the circumference to the centre."_ [quoted by K.J. Kenafick,
+> **Michael Bakunin and Karl Marx** , pp. 120-1]
 
 Like the later syndicalists, Bakunin was in favour of a general strike as a
 means of bringing about a social revolution. As _"strikes spread from one
@@ -2559,8 +2571,8 @@ produced by _"the force of circumstances."_ As with the syndicalists, Bakunin
 argued that not all workers needed to be in unions before a general strike or
 revolution could take place. A minority (perhaps _"one worker in ten")_ needed
 to be organised and they would influence the rest so ensuring _"at critical
-moments"_ the majority would _"follow the International's lead."_ [**The Basic
-Bakunin**, pp. 149-50, p. 109 and p. 139]
+moments"_ the majority would _"follow the International's lead."_ [ **The
+Basic Bakunin** , pp. 149-50, p. 109 and p. 139]
 
 As with the syndicalists, the new society would be organised _"by free
 federation, from below upwards, of workers' associations, industrial as well
@@ -2569,11 +2581,11 @@ these into regions, of the regions into nations, and the nations into a
 fraternal Internationalism."_ Moreover, _"capital, factories, all the means of
 production and raw material"_ would be owned by _"the workers' organisations"_
 while the land would be given _"to those who work it with their own hands."_
-[quoted by Kenafick, **Op. Cit.**, p. 241 and p. 240] Compare this to the
+[quoted by Kenafick, **Op. Cit.** , p. 241 and p. 240] Compare this to the
 syndicalist CGT's 1906 **Charter of Amiens** which declared _"the trade union
 today is an organisation of resistance"_ but _"in the future [it will] be the
 organisation of production and distribution, the basis of social
-reorganisation."_ [quoted by Wayne Thorpe, **"The Workers Themselves"**, p.
+reorganisation."_ [quoted by Wayne Thorpe, **"The Workers Themselves"** , p.
 201]
 
 The similarities with revolutionary syndicalism could not be clearer. Little
@@ -2582,8 +2594,8 @@ anarcho-syndicalism and Bakunin's anarchism. For example, George R. Esenwein's
 (in his study of early Spanish anarchism) comments that syndicalism _"had deep
 roots in the Spanish libertarian tradition. It can be traced to Bakunin's
 revolutionary collectivism."_ He also notes that the class struggle was
-_"central to Bakunin's theory."_ [**Anarchist Ideology and the Working Class
-Movement in Spain, 1868-1898**, p. 209 and p. 20] Caroline Cahm, likewise,
+_"central to Bakunin's theory."_ [ **Anarchist Ideology and the Working Class
+Movement in Spain, 1868-1898** , p. 209 and p. 20] Caroline Cahm, likewise,
 points to _"the basic syndicalist ideas of Bakunin"_ and that he _"argued that
 trade union organisation and activity in the International [Working Men's
 Association] were important in the building of working-class power in the
@@ -2592,57 +2604,57 @@ organisation of the International would not only guide the revolution but also
 provide the basis for the organisation of the society of the future."_ Indeed,
 he _"believed that trade unions had an essential part to play in the
 developing of revolutionary capacities of the workers as well as building up
-the organisation of the masses for revolution."_ [**Kropotkin and the Rise of
-Revolutionary Anarchism**, p. 219, p. 215 and p. 216] Paul Avrich, in his
+the organisation of the masses for revolution."_ [ **Kropotkin and the Rise of
+Revolutionary Anarchism** , p. 219, p. 215 and p. 216] Paul Avrich, in his
 essay _"The Legacy of Bakunin,"_ agreed. _"Bakunin,"_ he stated, _"perhaps
 even more than Proudhon, was a prophet of revolutionary syndicalism, who
 believed that a free federation of trade unions would be the 'living germs of
-a new social order which is to replace the bourgeois world.'"_ [**Anarchist
-Portraits**, pp. 14-15] Bertrand Russell noted that _"[h]ardly any of these
+a new social order which is to replace the bourgeois world.'"_ [ **Anarchist
+Portraits** , pp. 14-15] Bertrand Russell noted that _"[h]ardly any of these
 ideas [associated with syndicalism] are new: almost all are derived from the
 Bakunist [sic!] section of the old International"_ and that this was _"often
-recognised by Syndicalists themselves."_ [**Roads to Freedom**, p. 52] The
+recognised by Syndicalists themselves."_ [ **Roads to Freedom** , p. 52] The
 syndicalists, notes Wayne Thorpe, _"identified the First International with
 its federalist wing . . . [r]epresented . . . initially by the Proudhonists
-and later and more influentially by the Bakuninists."_ [**Op. Cit.**, p. 2]
+and later and more influentially by the Bakuninists."_ [ **Op. Cit.** , p. 2]
 
 Needless to say, anarchists agree with this perspective. Arthur Lehning, for
 example, summarises the anarchist perspective when he commented that
 _"Bakunin's collectivist anarchism . . . ultimately formed the ideological and
-theoretical basis of anarcho-syndicalism."_ [_"Introduction"_, **Michael
-Bakunin: Selected Writings**, p. 29] Anarchist academic David Berry also notes
-that _"anarchist syndicalists were keen to establish a lineage with Bakunin .
-. . the anarchist syndicalism of the turn of the century was a revival of a
-tactic"_ associated with _"the Bakuninist International."_ [**A History of the
-French Anarchist Movement, 1917-1945**, p. 17] Another, Mark Leier, points out
-that _"the Wobblies drew heavily on anarchist ideas pioneered by Bakunin."_
-[**Bakunin: The Creative Passion**, p. 298] Kropotkin argued that syndicalism
-_"is nothing other than the rebirth of the International - federalist, worker,
-Latin."_ [quoted by Martin A. Miller, **Kropotkin**, p. 176] Malatesta stated
-in 1907 that he had _"never ceased to urge the comrades into that direction
-which the syndicalists, forgetting the past, call **new**, even though it was
-already glimpsed and followed, in the International, by the first of the
-anarchists."_ [**The Anarchist Reader**, p. 221] Little wonder that Rudolf
-Rocker stated in his classic introduction to the subject that anarcho-
-syndicalism was _"a direct continuation of those social aspirations which took
-shape in the bosom of the First International and which were best understood
-and most strongly held by the libertarian wing of the great workers'
-alliance."_ [**Anarcho-Syndicalism**, p. 54] Murray Bookchin just stated the
-obvious:
+theoretical basis of anarcho-syndicalism."_ [ _"Introduction"_ , **Michael
+Bakunin: Selected Writings** , p. 29] Anarchist academic David Berry also
+notes that _"anarchist syndicalists were keen to establish a lineage with
+Bakunin . . . the anarchist syndicalism of the turn of the century was a
+revival of a tactic"_ associated with _"the Bakuninist International."_ [ **A
+History of the French Anarchist Movement, 1917-1945** , p. 17] Another, Mark
+Leier, points out that _"the Wobblies drew heavily on anarchist ideas
+pioneered by Bakunin."_ [ **Bakunin: The Creative Passion** , p. 298]
+Kropotkin argued that syndicalism _"is nothing other than the rebirth of the
+International - federalist, worker, Latin."_ [quoted by Martin A. Miller,
+**Kropotkin** , p. 176] Malatesta stated in 1907 that he had _"never ceased to
+urge the comrades into that direction which the syndicalists, forgetting the
+past, call **new** , even though it was already glimpsed and followed, in the
+International, by the first of the anarchists."_ [ **The Anarchist Reader** ,
+p. 221] Little wonder that Rudolf Rocker stated in his classic introduction to
+the subject that anarcho-syndicalism was _"a direct continuation of those
+social aspirations which took shape in the bosom of the First International
+and which were best understood and most strongly held by the libertarian wing
+of the great workers' alliance."_ [ **Anarcho-Syndicalism** , p. 54] Murray
+Bookchin just stated the obvious:
 
 > _"Long before syndicalism became a popular term in the French labour
-movement of the late [eighteen]nineties, it already existed in the Spanish
-labour movement of the early seventies. The anarchist-influenced Spanish
-Federation of the old IWMA was . . . distinctly syndicalist."_ [_"Looking Back
-at Spain,"_ pp. 53-96, Dimitrios I. Roussopoulos (ed.), **The Radical
-Papers**, p. 67]
+> movement of the late [eighteen]nineties, it already existed in the Spanish
+> labour movement of the early seventies. The anarchist-influenced Spanish
+> Federation of the old IWMA was . . . distinctly syndicalist."_ [ _"Looking
+> Back at Spain,"_ pp. 53-96, Dimitrios I. Roussopoulos (ed.), **The Radical
+> Papers** , p. 67]
 
 Perhaps, in the face of such evidence (and the writings of Bakunin himself),
 Marxists could claim that the sources we quote are either anarchists or
 "sympathetic" to anarchism. To counter this is very easy, we need only quote
 Marx and Engels. Marx attacked Bakunin for thinking that the _"working class .
 . . must only organise themselves by trades-unions"_ and _"not occupy itself
-with **politics.**"_ Engels argued along the same lines, having a go at the
+with **politics.** "_ Engels argued along the same lines, having a go at the
 anarchists because in the _"Bakuninist programme a general strike is the lever
 employed by which the social revolution is started"_ and that they admitted
 _"this required a well-formed organisation of the working class"_ (i.e. a
@@ -2650,7 +2662,7 @@ trade union federation). Indeed, he summarised Bakunin's strategy as being to
 _"organise, and when **all** the workers, hence the majority, are won over,
 dispose all the authorities, abolish the state and replace it with the
 organisation of the International."_ [Marx, Engels and Lenin, **Anarchism and
-Anarcho-Syndicalism**, p. 48, p. 132, p. 133 and p. 72] Ignoring the
+Anarcho-Syndicalism** , p. 48, p. 132, p. 133 and p. 72] Ignoring the
 misrepresentations of Marx and Engels about the ideas of their enemies, we can
 state that they got the basic point of Bakunin's ideas - the centrality of
 trade union organisation and struggle as well as the use of strikes and the
@@ -2670,19 +2682,19 @@ task of reconstructing society."_ After seeing syndicalist ideas in action in
 France in 1900, she _"immediately began to propagate Syndicalist ideas."_ The
 _"most powerful weapon"_ for liberation was _"the conscious, intelligent,
 organised, economic protest of the masses through direct action and the
-general strike."_ [**Red Emma Speaks**, p. 89, p. 91, p. 90 and p. 60]
+general strike."_ [ **Red Emma Speaks** , p. 89, p. 91, p. 90 and p. 60]
 
 Kropotkin argued anarchist communism _"wins more and more ground among those
 working-men who try to get a clear conception as to the forthcoming
 revolutionary action. The syndicalist and trade union movements, which permit
 the workingmen to realise their solidarity and to feel the community of their
-interests better than any election, prepare the way for these conceptions."_
-[**Anarchism**, p. 174] His support for anarchist participation in the labour
+interests better than any election, prepare the way for these conceptions."_ [
+**Anarchism** , p. 174] His support for anarchist participation in the labour
 movement was strong, considering it a key method of preparing for a revolution
 and spreading anarchist ideas amongst the working classes: _"The **syndicat**
 is absolutely necessary. It is the sole force of the workers which continues
 the direct struggle against capital without turning to parliamentarism."_
-[quoted by Miller, **Op. Cit.**, p. 177]
+[quoted by Miller, **Op. Cit.** , p. 177]
 
 _"Revolutionary Anarchist Communist propaganda within the Labour Unions,"_
 Kropotkin stressed, _"had always been a favourite mode of action in the
@@ -2690,20 +2702,20 @@ Federalist or 'Bakuninist' section of the International Working Men's
 Association. In Spain and in Italy it had been especially successful. Now it
 was resorted to, with evident success, in France and **Freedom** [the British
 Anarchist paper he helped create in 1886] eagerly advocated this sort of
-propaganda."_ [**Act For Yourselves**, pp. 119-20] Caroline Cahm notes in her
-excellent account of Kropotkin's ideas between 1872 and 1886, he _"was anxious
-to revive the International as an organisation for aggressive strike action to
-counteract the influence of parliamentary socialists on the labour movement."_
-This resulted in Kropotkin advocating a _"remarkable fusion of anarchist
-communist ideas with both the bakuninist [sic!] internationalist views adopted
-by the Spanish Federation and the syndicalist ideas developed in the Jura
-Federation in the 1870s."_ This included seeing the importance of
+propaganda."_ [ **Act For Yourselves** , pp. 119-20] Caroline Cahm notes in
+her excellent account of Kropotkin's ideas between 1872 and 1886, he _"was
+anxious to revive the International as an organisation for aggressive strike
+action to counteract the influence of parliamentary socialists on the labour
+movement."_ This resulted in Kropotkin advocating a _"remarkable fusion of
+anarchist communist ideas with both the bakuninist [sic!] internationalist
+views adopted by the Spanish Federation and the syndicalist ideas developed in
+the Jura Federation in the 1870s."_ This included seeing the importance of
 revolutionary labour unions, the value of strikes as a mode of direct action
 and syndicalist action developing solidarity. _"For Kropotkin,"_ she
 summarises, _"revolutionary syndicalism represented a revival of the great
 movement of the Anti-authoritarian International . . . It seems likely that he
-saw in it the [strikers International] which he had advocated earlier."_
-[**Op. Cit.**, p. 257 and p. 268]
+saw in it the [strikers International] which he had advocated earlier."_ [
+**Op. Cit.** , p. 257 and p. 268]
 
 Clearly, any one claiming that there is a fundamental difference between
 anarchism and syndicalism is talking nonsense. Syndicalist ideas were being
@@ -2737,7 +2749,7 @@ armed his super-revolutionary vanguard called for the 'political, economic and
 social equalisation of classes and individuals of both sexes, beginning with
 the abolition of the right of inheritance.' This is **liberal** politics,
 implying nothing about the abolition of capitalism."_ [Derek Howl, _"The
-Legacy of Hal Draper,"_ pp. 137-49, **International Socialism**, no. 52, p.
+Legacy of Hal Draper,"_ pp. 137-49, **International Socialism** , no. 52, p.
 148]
 
 That Howl is totally distorting Bakunin's ideas can quickly be seen by looking
@@ -2750,8 +2762,8 @@ of the whole of society and be utilised only by the workers, in other words by
 the agricultural and industrial associations."_ If this was not enough to
 indicate the abolition of capitalism, item 4 states that the Alliance
 _"repudiates all political action whose target is anything except the triumph
-of the workers' cause over Capital."_ [**Michael Bakunin: Selected Writings**,
-p. 174]
+of the workers' cause over Capital."_ [ **Michael Bakunin: Selected Writings**
+, p. 174]
 
 Howl's dishonesty is clear. Bakunin **explicitly** argued for the abolition of
 capitalism in the same item Howl (selectively) quotes from. If the
@@ -2762,9 +2774,9 @@ Equally as dishonest as this quoting out of context is Howl's non-mention of
 the history of the expression _"political, economic and social equalisation of
 classes and individuals of both sexes."_ After Bakunin sent the Alliance
 programme to the General Council of the **International Workingmen's
-Association**, he received a letter dated March 9, 1869 from Marx which stated
-that the term _"the equalisation of classes"_ _"literally interpreted"_ would
-mean _"harmony of capital and labour"_ as _"persistently preached by the
+Association** , he received a letter dated March 9, 1869 from Marx which
+stated that the term _"the equalisation of classes"_ _"literally interpreted"_
+would mean _"harmony of capital and labour"_ as _"persistently preached by the
 bourgeois socialists."_ Marx argued that it was _"not the logically impossible
 'equalisation of classes', but the historically necessary, superseding
 'abolition of classes'"_ which was the _"true secret of the proletarian
@@ -2773,15 +2785,15 @@ Association."_ Significantly, the letter adds the following: _"Considering,
 however, the context in which that phrase 'equalisation of classes' occurs, it
 seems to be a mere slip of the pen, and the General Council feels confident
 that you will be anxious to remove from your program an expression which
-offers such a dangerous misunderstanding."_ [**Collected Works**, vol. 21, p.
-46]
+offers such a dangerous misunderstanding."_ [ **Collected Works** , vol. 21,
+p. 46]
 
 Given the context, Marx was right. The phrase _"equalisation of classes"_
 placed in the context of the political, economic and social equalisation of
 individuals obviously implies the abolition of classes. The logic is simple.
 If both worker and capitalist shared the same economic and social position
 then wage labour would not exist (in fact, it would be impossible as it is
-based on social and economic **inequality**) and so class society would not
+based on social and economic **inequality** ) and so class society would not
 exist. Similarly, if the tenant and the landlord were socially equal then the
 landlord would have no power over the tenant, which would be impossible.
 Bakunin agreed with Marx on the ambiguity of the term and the Alliance changed
@@ -2806,13 +2818,13 @@ according to which we are told that more freedom equals less equality, and
 more equality equals less freedom - anarchists point out that in practice you
 cannot have one without the other. Freedom is not genuine if some people are
 too poor or too weak to enjoy it, and equality is not genuine is some people
-are ruled by others."_ [**About Anarchism**, p. 29] Clearly, anarchists do
+are ruled by others."_ [ **About Anarchism** , p. 29] Clearly, anarchists do
 **not** have liberal politics. Quite the reverse, as we subject these to
 extensive critique from a working class perspective.
 
 To the claim that anarchism _"combines a socialist critique of capitalism with
 a liberal critique of socialism,"_ anarchists reply that it is mistaken. [Paul
-Thomas, **Karl Marx and the Anarchists**, p. 7] Rather, anarchism is simply a
+Thomas, **Karl Marx and the Anarchists** , p. 7] Rather, anarchism is simply a
 socialist critique of both capitalism and the state. Freedom under capitalism
 is fatally undermined by inequality - it simply becomes the freedom to pick a
 master. This violates liberty and equality, as does the state. _"Any State at
@@ -2820,7 +2832,7 @@ all,"_ argued Bakunin, _"no matter what kind, is a domination and
 exploitation. It is a negation of Socialism, which wants an equitable human
 society delivered from all tutelage, from all authority and political
 domination as well as economic exploitation."_ [quoted by Kenafick, **Op.
-Cit.**, pp. 95-6] As such, state structures violate not only liberty but also
+Cit.** , pp. 95-6] As such, state structures violate not only liberty but also
 equality. There is no real equality in power between, say, the head of the
 government and one of the millions who may, or may not, have voted for them.
 As the Russian Revolution proved, there can be no meaningful equality between
@@ -2832,12 +2844,12 @@ This means that if anarchists are concerned about freedom (both individual
 the reverse, as liberalism happily tolerates hierarchy and the restrictions of
 liberty implied by private property, wage labour and the state. As Bakunin
 argued, capitalism turns _"the worker into a subordinate, a passive and
-obedient servant."_ [**The Political Philosophy of Bakunin**, p. 188] So
+obedient servant."_ [ **The Political Philosophy of Bakunin** , p. 188] So
 anarchism rejects liberalism (although, as Bakunin put it, _"[i]f socialism
 disputes radicalism, this is hardly to reverse it but rather to advance it."_
-[**The Basic Bakunin**, p. 87]). Therefore, anarchism rejects liberalism, not
-because it supports the idea of freedom, but precisely because it does not go
-far enough and fails to understand that without equality, freedom is little
+[ **The Basic Bakunin** , p. 87]). Therefore, anarchism rejects liberalism,
+not because it supports the idea of freedom, but precisely because it does not
+go far enough and fails to understand that without equality, freedom is little
 more than freedom for the master. In fact, as we argue in [section
 H.4](secH4.md), it is Marxism itself which has a distinctly liberal
 perspective of freedom, seeing it restricted by association rather than
@@ -2855,7 +2867,7 @@ understanding of **real** socialism (see also our discussion of Marxist claims
 about anarchist "elitism" in [section H.2.11](secH2.md#sech211)).
 
 To argue that a concern for freedom means _"liberalism"_ (or, equally,
-_"individualism"_) indicates that the person is not a socialist. After all, a
+_"individualism"_ ) indicates that the person is not a socialist. After all, a
 concern that every individual controls their daily lives (i.e. to be free)
 means a wholehearted support for collective self-management of group affairs.
 It means a vision of a revolution (and post-revolutionary society) based on
@@ -2869,7 +2881,7 @@ bourgeois"/"reactionary" narrowness of the people (to requote Bakunin, _"every
 state, even the pseudo-People's State concocted by Mr. Marx, is in essence
 only a machine ruling the masses from above, through a privileged minority of
 conceited intellectuals who imagine that they know what the people need and
-want better than do the people themselves."_ [**Bakunin on Anarchism**, p.
+want better than do the people themselves."_ [ **Bakunin on Anarchism** , p.
 338]). Rather than seeing free debate of ideas and mass participation as a
 source of strength, it sees it as a source of "bad influences" which the
 masses must be protected from.
@@ -2893,15 +2905,15 @@ As ex-anarchist turned Bolshevik Victor Serge concluded in the late 1930s
 masses, marks almost the entire course of the Russian Revolution. If it is
 possible to discover a major lesson, capable of revitalising Marxism . . . one
 might formulate it in these terms: Socialism is essentially democratic -- the
-word, 'democratic', being used here in its libertarian sense."_ [**The Serge-
-Trotsky Papers**, p. 181]
+word, 'democratic', being used here in its libertarian sense."_ [ **The Serge-
+Trotsky Papers** , p. 181]
 
 Ultimately, as Rudolf Rocker suggested, the _"urge for social justice can only
 develop properly and be effective, when it grows out of man's sense of
 personal freedom and it based on that. In other words **Socialism will be
 free, or it will not be at all.** In its recognition of this lies the genuine
-and profound justification for the existence of Anarchism."_ [**Anarcho-
-Syndicalism**, p. 14]
+and profound justification for the existence of Anarchism."_ [ **Anarcho-
+Syndicalism** , p. 14]
 
 ## H.2.10 Are anarchists against leadership?
 
@@ -2912,18 +2924,18 @@ revolutionaries to organise together to influence the class struggle in the
 here and now. Hence the British SWP's Duncan Hallas:
 
 > _"That an organisation of socialist militants is necessary is common ground
-on the left, a few anarchist purists apart. But what kind of organisation? One
-view, widespread amongst newly radicalised students and young workers, is that
-of the libertarians . . . [They have] hostility to centralised, co-ordinated
-activity and profound suspicion of anything smacking of 'leadership.' On this
-view nothing more than a loose federation of working groups is necessary or
-desirable. The underlying assumptions are that centralised organisations
-inevitably undergo bureaucratic degeneration and that the spontaneous
-activities of working people are the sole and sufficient basis for the
-achievement of socialism . . . some libertarians draw the conclusion that a
-revolutionary socialist party is a contradiction in terms. This, of course, is
-the traditional anarcho-syndicalist position."_ [**Towards a revolutionary
-socialist party**, p. 39]
+> on the left, a few anarchist purists apart. But what kind of organisation?
+> One view, widespread amongst newly radicalised students and young workers,
+> is that of the libertarians . . . [They have] hostility to centralised, co-
+> ordinated activity and profound suspicion of anything smacking of
+> 'leadership.' On this view nothing more than a loose federation of working
+> groups is necessary or desirable. The underlying assumptions are that
+> centralised organisations inevitably undergo bureaucratic degeneration and
+> that the spontaneous activities of working people are the sole and
+> sufficient basis for the achievement of socialism . . . some libertarians
+> draw the conclusion that a revolutionary socialist party is a contradiction
+> in terms. This, of course, is the traditional anarcho-syndicalist
+> position."_ [ **Towards a revolutionary socialist party** , p. 39]
 
 Ignoring the usual patronising references to the age and experience of non-
 Leninists, this argument can be faulted on many levels. Firstly, while
@@ -2967,7 +2979,7 @@ orders from above."_ This means we _"vigorously oppose the establishment of an
 organisational structure that becomes an end in itself, of committees that
 linger on after their practical tasks have been completed, of a 'leadership'
 that reduces the 'revolutionary' to a mindless robot."_ [Murray Bookchin,
-**Post-Scarcity Anarchism**, p. 139] In other words, co-ordination comes
+**Post-Scarcity Anarchism** , p. 139] In other words, co-ordination comes
 **_from below_** rather than being imposed from above by a few leaders. To use
 an analogy, federalist co-ordination is the co-ordination created in a strike
 by workers resisting their bosses. It is created by debate amongst equals and
@@ -2985,7 +2997,7 @@ but of unthinking acceptance."_ Any revolutionary in a factory where the
 majority have no revolutionary experience, will at times, "give a lead."
 However, _"no real Anarchist . . . would agree to be part of an
 **institutionalised leadership.** Neither would an Anarchist wait for a lead,
-but give one."_ [**Anarchism: Arguments for and against**, p. 58 and p. 59]
+but give one."_ [ **Anarchism: Arguments for and against** , p. 58 and p. 59]
 
 This means, as we argue in [section J.3.6](secJ3.md#secj36), that anarchists
 seek to influence the class struggle as **equals.** Rather than aim for
@@ -2999,8 +3011,8 @@ seeking a better society (and are anarchists, ecologists, Marxists, etc.) and
 so on. Only constant discussion, the clash of ideas, combined with collective
 struggle can develop political awareness and narrow the unevenness of ideas
 within the oppressed: _"Only freedom or the struggle for freedom can be the
-school for freedom."_ [Malatesta, **Errico Malatesta: His Life and Ideas**, p.
-59]
+school for freedom."_ [Malatesta, **Errico Malatesta: His Life and Ideas** ,
+p. 59]
 
 From this perspective, it follows that any attempt to create an
 institutionalised leadership structure means the end of the revolutionary
@@ -3025,8 +3037,8 @@ Clearly, then, anarchists do not reject or dismiss the importance of
 politically aware minorities organising and spreading their ideas within
 social struggles. As Caroline Cahm summarised in her excellent study of
 Kropotkin's thought, _"Kropotkin stressed the role of heroic minorities in the
-preparation for revolution."_ [**Kropotkin and the Rise of Revolutionary
-Anarchism, 1872-86**, p. 276] Yet, as John Crump correctly argued, the _"key
+preparation for revolution."_ [ **Kropotkin and the Rise of Revolutionary
+Anarchism, 1872-86** , p. 276] Yet, as John Crump correctly argued, the _"key
 words here are **in the preparation for revolution.** By their courage and
 daring in opposing capitalism and the state, anarchist minorities could teach
 by example and thereby draw increasing numbers into the struggle. But
@@ -3034,17 +3046,17 @@ Kropotkin was not advocating substitutionism; the idea that a minority might
 carry out the revolution in place of the people was as alien to him as the
 notion that a minority would exercise rule after the revolution. In fact,
 Kropotkin recognised that the former would be a prescription for the latter."_
-[**Hatta Shuzo and Pure Anarchism in Interwar Japan**, p. 9] In Kropotkin's
+[ **Hatta Shuzo and Pure Anarchism in Interwar Japan** , p. 9] In Kropotkin's
 own words:
 
 > _"The idea of anarchist communism, today represented by feeble minorities,
-but increasingly finding popular expression, will make its way among the mass
-of the people. Spreading everywhere, the anarchist groups . . . will take
-strength from the support they find among the people, and will raise the red
-flag of the revolution . . . On that day, what is now the minority will become
-the People, the great mass, and that mass rising against property and the
-State, will march forward towards anarchist communism."_ [**Words of a
-Rebel**, p. 75]
+> but increasingly finding popular expression, will make its way among the
+> mass of the people. Spreading everywhere, the anarchist groups . . . will
+> take strength from the support they find among the people, and will raise
+> the red flag of the revolution . . . On that day, what is now the minority
+> will become the People, the great mass, and that mass rising against
+> property and the State, will march forward towards anarchist communism."_ [
+> **Words of a Rebel** , p. 75]
 
 This influence would be gained simply by the correctness of our ideas and the
 validity of our suggestions. This means that anarchists seek influence
@@ -3056,7 +3068,7 @@ towards the realisation of our ideas. But such influence must be won by doing
 more and better than others, and will be useful if won in that way."_ This
 means rejecting _"taking over command, that is by becoming a government and
 imposing one's own ideas and interests through police methods."_ [Malatesta,
-**The Anarchist Revolution**, pp. 108-9]
+**The Anarchist Revolution** , pp. 108-9]
 
 Moreover, unlike leading Marxists like Lenin and Karl Kautsky, anarchists
 think that socialist ideas are developed **within** the class struggle rather
@@ -3070,7 +3082,7 @@ of the International is still today our greatest strength, and it was
 elaborated in working class organisation, under the first influence of the
 masses. The few writers who offered their help in the work of elaborating
 socialist ideas have merely been giving form to the aspirations that first saw
-their light among the workers."_ [**Op. Cit.**, p. 59] In other words,
+their light among the workers."_ [ **Op. Cit.** , p. 59] In other words,
 anarchists are a part of the working class (either by birth or by rejecting
 their previous class background and becoming part of it), the part which has
 generalised its own experiences, ideas and needs into a theory called
@@ -3119,27 +3131,27 @@ anarchists in a revolution, see [section J.7.5](secJ7.md#secj75).
 ## H.2.11 Are anarchists _"anti-democratic"_?
 
 One of the common arguments against anarchism is that it is _"anti-
-democratic"_ (or _"elitist"_). For example, a member of the British
+democratic"_ (or _"elitist"_ ). For example, a member of the British
 **Socialist Workers Party** denounces anarchism for being _"necessarily deeply
 anti-democratic"_ due to its _"thesis of the absolute sovereignty of the
 individual ego as against the imposition of **any** 'authority' over it,"_
 which, it is claimed, is the _"distinctly anarchist concept."_ This position
-is an _"idealist conception"_ in which _"**any** authority is seen as
+is an _"idealist conception"_ in which _" **any** authority is seen as
 despotic; 'freedom' and 'authority' (and therefore 'freedom' and 'democracy')
 are opposites. This presumption of opposition to 'authority' was fostered by
 liberalism."_ This is contrasted with the Marxist _"materialist understanding
 of society"_ in which it _"was clear that 'authority' is necessary in **any**
 society where labour is collaborative."_ [Derek Howl, _"The Legacy of Hal
-Draper,"_ pp. 137-49, **International Socialism**, no. 52, p. 145] Hal Draper
+Draper,"_ pp. 137-49, **International Socialism** , no. 52, p. 145] Hal Draper
 is quoted arguing that:
 
 > _By the 'principle of authority' the consistent anarchist means principled
-opposition to any exercise of authority, including opposition to authority
-derived from the most complete democracy and exercised in completely
-democratic fashion . . . Of all ideologies, anarchism is the one most
-fundamentally anti-democratic in principle, since it is not only unalterably
-hostile to democracy in general but particularly to any socialist democracy of
-the most ideal kind that could be imagined."_
+> opposition to any exercise of authority, including opposition to authority
+> derived from the most complete democracy and exercised in completely
+> democratic fashion . . . Of all ideologies, anarchism is the one most
+> fundamentally anti-democratic in principle, since it is not only unalterably
+> hostile to democracy in general but particularly to any socialist democracy
+> of the most ideal kind that could be imagined."_
 
 Such an argument is just ridiculous. Indeed, it is flawed on so many levels
 its hard to know where to start. The obvious place is the claim that anarchism
@@ -3167,7 +3179,7 @@ authority, and not all forms of _"authority"_. This explains why Kropotkin
 argued that _"the origin of the anarchist conception of society"_ lies in
 _"the criticism"_ of the _"hierarchical organisations and the authoritarian
 conceptions of society"_ and stressed that anarchism _"refuses all
-hierarchical organisation."_ [**Anarchism**, p. 158 and p. 137]
+hierarchical organisation."_ [ **Anarchism** , p. 158 and p. 137]
 
 This means, just to state the obvious, that making and sticking by collective
 decisions are **not** acts of authority. Rather they are simply expressions of
@@ -3190,16 +3202,16 @@ which simply existed to justify the continued domination and exploitation of
 working class people by the ruling class. Kropotkin quite clearly recognised
 its anti-individual and unfree nature by labelling it _"the authoritarian
 individualism which stifles us"_ and stressing its _"narrow-minded, and
-therefore foolish"_ nature. [**Conquest of Bread**, p. 130] Similarly, it
+therefore foolish"_ nature. [ **Conquest of Bread** , p. 130] Similarly, it
 would do the Marxist argument little good if they quoted Bakunin arguing that
 the _"freedom of individuals is by no means an individual matter. It is a
 collective matter, a collective product. No individual can be free outside of
 human society or without its co-operation"_ or that he considered
-_"individualism"_ as a _"bourgeois principle."_ [**The Basic Bakunin**, p. 46
-and p. 57] He had nothing but contempt for, as he put it, _"that
+_"individualism"_ as a _"bourgeois principle."_ [ **The Basic Bakunin** , p.
+46 and p. 57] He had nothing but contempt for, as he put it, _"that
 individualistic, egotistical, malicious and illusory freedom"_ which was
-_"extolled"_ by all the _"schools of bourgeois liberalism."_ [**Michael
-Bakunin: Selected Writings**, p. 196]
+_"extolled"_ by all the _"schools of bourgeois liberalism."_ [ **Michael
+Bakunin: Selected Writings** , p. 196]
 
 Perhaps, of course, these two famous anarchists were not, in fact,
 _"consistent"_ anarchists, but that claim is doubtful.
@@ -3207,13 +3219,13 @@ _"consistent"_ anarchists, but that claim is doubtful.
 The notion that anarchism is inherently an extreme form of "individualism"
 seems to be the great assumption of Marxism. Hence the continual repetition of
 this "fact" and the continual attempt to link revolutionary anarchism with
-Stirner's ideas (the only anarchist to stress the importance of the _"ego"_).
+Stirner's ideas (the only anarchist to stress the importance of the _"ego"_ ).
 Thus we find Engels talking about _"Stirner, the great prophet of contemporary
 anarchism - Bakunin has taken a great deal from him . . . Bakunin blended
 [Stirner] with Proudhon and labelled the blend 'anarchism'"_ For Marx,
 _"Bakunin has merely translated Proudhon's and Stirner's anarchy into the
 crude language of the Tartars."_ [Marx, Engels and Lenin, **Anarchism and
-Anarcho-Syndicalism**, p. 175 and p. 153] In reality, of course, Stirner was
+Anarcho-Syndicalism** , p. 175 and p. 153] In reality, of course, Stirner was
 essentially unknown to the anarchist movement until his book was rediscovered
 in the late nineteenth century and even then his impact was limited. In terms
 of Bakunin, while his debt to Proudhon is well known and obvious, the link
@@ -3221,15 +3233,15 @@ with Stirner seems to have existed only in the heads of Marx and Engels. As
 Mark Leier notes, _"there is no evidence of this . . . Bakunin mentions
 Stirner precisely once in his collected works, and then only in passing . . .
 as far as can be determined, Bakunin had no interest, even a negative one, in
-Stirner's ideas."_ [**Bakunin: The Creative Passion**, p. 97] Nor was Proudhon
-influenced by Stirner (it is doubtful he even knew of him) while Stirner
-criticised the French anarchist. Does that mean Stirner is the only
+Stirner's ideas."_ [ **Bakunin: The Creative Passion** , p. 97] Nor was
+Proudhon influenced by Stirner (it is doubtful he even knew of him) while
+Stirner criticised the French anarchist. Does that mean Stirner is the only
 "consistent" anarchist? Moreover, even in terms of Stirner, Marxist diatribes
 about the _"absolute sovereignty of the individual ego"_ fail to note that the
-egoist himself advocated organisation (_"the union of egos"_) and was well
+egoist himself advocated organisation ( _"the union of egos"_ ) and was well
 aware that it required agreements between individuals which, in the abstract,
 reduced "liberty" (the union _"offer[s] a greater measure of liberty"_ while
-containing a lesser amount of _"unfreedom"_ [**The Ego and Its Own**, p.
+containing a lesser amount of _"unfreedom"_ [ **The Ego and Its Own** , p.
 308]).
 
 Anarchism does, of course, derive from the Greek for _"without authority"_ or
@@ -3242,30 +3254,31 @@ spirit of revolt in the individual and the masses, is the natural and
 necessary fruit of the spirit of domination; the vindication of human dignity,
 and the saviour of social life."_ Thus _"freedom is the necessary preliminary
 to any true and equal human association."_ [Charlotte Wilson, **Anarchist
-Essays**, p. 54 and p. 40] In other words, anarchism comes from the struggle
+Essays** , p. 54 and p. 40] In other words, anarchism comes from the struggle
 of the oppressed against their rulers and is an expression of individual and
 social freedom. Anarchism was born from the class struggle.
 
 Taking individual liberty as a good thing, the next question is how do free
 individuals co-operate together in such a way as to ensure their continued
-liberty (_"The belief in freedom assumes that human beings can co-operate."_
-[Emma Goldman, **Red Emma Speaks**, p. 442]). This suggests that any
+liberty ( _"The belief in freedom assumes that human beings can co-operate."_
+[Emma Goldman, **Red Emma Speaks** , p. 442]). This suggests that any
 association must be one of equality between the associating individuals. This
 can only be done when everyone involved takes a meaningful role in the
 decision making process and because of this anarchists stress the need for
-**self-government** (usually called **_self-management_**) of both individuals
-and groups. Self-management within free associations and decision making from
-the bottom-up is the only way domination can be eliminated. This is because,
-by making our own decisions ourselves, we automatically end the division of
-society into governors and governed (i.e. end hierarchy). As Anarchism clearly
-means support for freedom and equality, it automatically implies opposition to
-all forms of hierarchical organisation and authoritarian social relationships.
-This means that anarchist support for individual liberty does not end, as many
-Marxists assert, in the denial of organisation or collective decision making
-but rather in support for **self-managed** groups. Only this form of
-organisation can end the division of society into rulers and ruled, oppressor
-and oppressed, exploiter and exploited and create an environment in which
-individuals can associate without denying their freedom and equality.
+**self-government** (usually called **_self-management_** ) of both
+individuals and groups. Self-management within free associations and decision
+making from the bottom-up is the only way domination can be eliminated. This
+is because, by making our own decisions ourselves, we automatically end the
+division of society into governors and governed (i.e. end hierarchy). As
+Anarchism clearly means support for freedom and equality, it automatically
+implies opposition to all forms of hierarchical organisation and authoritarian
+social relationships. This means that anarchist support for individual liberty
+does not end, as many Marxists assert, in the denial of organisation or
+collective decision making but rather in support for **self-managed** groups.
+Only this form of organisation can end the division of society into rulers and
+ruled, oppressor and oppressed, exploiter and exploited and create an
+environment in which individuals can associate without denying their freedom
+and equality.
 
 Therefore, the **positive** side of anarchism (which naturally flows from its
 opposition to authority) results in a political theory which argues that
@@ -3315,11 +3328,11 @@ to crush opposition in the working class to its rule. For the Bolshevik
 tradition, the power of the party to ignore the wishes of the class it claims
 to represent is a fundamental ideological position.
 
-So remember, when Lenin or Trotsky argue for _"party dictatorship"_, the over-
-riding of the democratic decisions of the masses by the party, the elimination
-of workers factory committees in favour of appointed managers armed with
-_"dictatorial"_ power or when the Bolsheviks disbanded soviets with non-
-Bolshevik majorities, it is **anarchism** which is fundamentally _"anti-
+So remember, when Lenin or Trotsky argue for _"party dictatorship"_ , the
+over-riding of the democratic decisions of the masses by the party, the
+elimination of workers factory committees in favour of appointed managers
+armed with _"dictatorial"_ power or when the Bolsheviks disbanded soviets with
+non-Bolshevik majorities, it is **anarchism** which is fundamentally _"anti-
 democratic"_! All in all, that anyone can claim that anarchism is more _"anti-
 democratic"_ than Leninism is a joke.
 
@@ -3359,8 +3372,8 @@ who kept the soldier masses subject to the bourgeois classes."_ When the
 Makhnovists tried to call the fourth regional conference of peasants, workers
 and partisans to discuss the progress of the Civil War in early 1919, Trotsky,
 unsurprisingly enough, _"categorically banned"_ it. With typical elitism, he
-noted that the Makhnovist movement had _"its roots in the ignorant masses"_!
-[**How the Revolution Armed**, vol. II, p. 277, p. 280, p. 295 and p. 302]
+noted that the Makhnovist movement had _"its roots in the ignorant masses"_! [
+**How the Revolution Armed** , vol. II, p. 277, p. 280, p. 295 and p. 302]
 
 In other words, because the Bolshevik government had been given power by a
 national Soviet Congress in the past (and only remained there by
@@ -3383,9 +3396,9 @@ by the revolution, to call congresses on their own account, to discuss their
 affairs. That is why the prohibition by the central authorities on the calling
 of such congresses . . . represent a direct and insolent violation of the
 rights of the workers."_ [quoted by Peter Arshinov, **The History of the
-Makhnovist Movement**, p. 129] We will leave it to the readers to decide which
-of the two, Trotsky or Makhno, showed the fundamentally _"anti-democratic"_
-perspective.
+Makhnovist Movement** , p. 129] We will leave it to the readers to decide
+which of the two, Trotsky or Makhno, showed the fundamentally _"anti-
+democratic"_ perspective.
 
 Moreover, there are a few theoretical issues that need to be raised on this
 matter. Notice, for example, that no attempt is made to answer the simple
@@ -3423,18 +3436,18 @@ of a non-oppressive and non-exploitative minority, then that minority has the
 right to reject the "authority" of the majority. Hence Carole Pateman:
 
 > _"The essence of liberal social contract theory is that individuals ought to
-promise to, or enter an agreement to, obey representatives, to whom they have
-alienated their right to make political decisions . . . Promising . . . is an
-expression of individual freedom and equality, yet commits individuals for the
-future. Promising also implies that individuals are capable of independent
-judgement and rational deliberation, and of evaluating and changing their own
-actions and relationships; promises may sometimes justifiably be broken.
-However, to promise to obey is to deny or limit, to a greater or lesser
-degree, individuals' freedom and equality and their ability to exercise these
-capacities. To promise to obey is to state that, in certain areas, the person
-making the promise is no longer free to exercise her capacities and decide
-upon her own actions, and is no longer equal, but subordinate."_ [**The
-Problem of Political Obligation**, p. 19]
+> promise to, or enter an agreement to, obey representatives, to whom they
+> have alienated their right to make political decisions . . . Promising . . .
+> is an expression of individual freedom and equality, yet commits individuals
+> for the future. Promising also implies that individuals are capable of
+> independent judgement and rational deliberation, and of evaluating and
+> changing their own actions and relationships; promises may sometimes
+> justifiably be broken. However, to promise to obey is to deny or limit, to a
+> greater or lesser degree, individuals' freedom and equality and their
+> ability to exercise these capacities. To promise to obey is to state that,
+> in certain areas, the person making the promise is no longer free to
+> exercise her capacities and decide upon her own actions, and is no longer
+> equal, but subordinate."_ [ **The Problem of Political Obligation** , p. 19]
 
 Thus, for anarchists, a democracy which does not involve individual rights to
 dissent, to disagree and to practice civil disobedience would violate freedom
@@ -3477,13 +3490,13 @@ in a "democracy."
 
 This Marxist notion that anarchists are "anti-democratic" gets them into
 massive contradictions. Lance Selfa's highly inaccurate and misleading article
-_"Emma Goldman: A life of controversy"_ is an example of this [**International
-Socialist Review**, no. 34, March-April 2004] Ignoring the far more
-substantial evidence for Leninist elitism, Selfa asserted that _"Goldman never
-turned away from the idea that heroic individuals, not masses, make history"_
-and quotes from her 1910 essay _"Minorities Versus Majorities"_ to prove this.
-Significantly, he does not actually refute the arguments Goldman expounded. He
-does, needless to say, misrepresent them.
+_"Emma Goldman: A life of controversy"_ is an example of this [
+**International Socialist Review** , no. 34, March-April 2004] Ignoring the
+far more substantial evidence for Leninist elitism, Selfa asserted that
+_"Goldman never turned away from the idea that heroic individuals, not masses,
+make history"_ and quotes from her 1910 essay _"Minorities Versus Majorities"_
+to prove this. Significantly, he does not actually refute the arguments
+Goldman expounded. He does, needless to say, misrepresent them.
 
 The aim of Goldman's essay was to state the obvious - that the mass is not the
 source for new ideas. Rather, new, progressive, ideas are the product of
@@ -3510,8 +3523,8 @@ subdued and hypnotised by the State and State worship."_ If this were not the
 case, as Goldman noted, no state could save itself or private property from
 the masses. Hence the need for people to break from their conditioning, to act
 for themselves. As she argued, such direct action is _"the salvation of man"_
-as it _"necessitates integrity, self-reliance, and courage."_ [**Red Emma
-Speaks**, p. 111 and p. 76]
+as it _"necessitates integrity, self-reliance, and courage."_ [ **Red Emma
+Speaks** , p. 111 and p. 76]
 
 Thus Goldman, like other anarchists, was not dismissing the masses, just
 stressing the obvious: namely that socialism is a process of self-liberation
@@ -3523,18 +3536,18 @@ his readers of.
 So was Goldman's rejection of "majorities" the elitism Selfa claims it was?
 No, far from it. This is clear from looking at that work in context. For
 example, in a debate between her and a socialist she used the Lawrence strike
-_"as an example of direct action."_ [**Living My Life**, vol. 1., p. 491] The
-workers in one of the mills started the strike by walking out. The next day
-five thousand at another mill struck and marched to another mill and soon
+_"as an example of direct action."_ [ **Living My Life** , vol. 1., p. 491]
+The workers in one of the mills started the strike by walking out. The next
+day five thousand at another mill struck and marched to another mill and soon
 doubled their number. The strikers soon had to supply food and fuel for
-50,000. [Howard Zinn, **A People's History of the United States**, pp. 327-8]
+50,000. [Howard Zinn, **A People's History of the United States** , pp. 327-8]
 Rather than the strike being the act of the majority, it was the direct action
 of a minority which started it and it then spread to the majority (a strike,
 incidentally, Goldman supported and fund raised for). It should also be noted
 that the Lawrence strike reflected her ideas of how a general strike could be
 started by _"one industry or by a small, conscious minority among the
 workers"_ which _"is soon taken up by many other industries, spreading like
-wildfire."_ [**Red Emma Speaks**, p. 95]
+wildfire."_ [ **Red Emma Speaks** , p. 95]
 
 Do Marxists really argue that this was "elitist"? If so, then every
 spontaneous revolt is "elitist". Every attempt by oppressed minorities to
@@ -3556,15 +3569,15 @@ however, only where this minority finds more or less support, or at least
 friendly neutrality, on the part of the majority. The shift in different
 stages of the revolution . . . is directly determined by changing political
 relations between the minority and the majority, between the vanguard and the
-class."_ [Lenin and Trotsky, **Kronstadt**, p. 85] Not that this makes Trotsky
-an elitist for Selfa, of course. The key difference is that Goldman did not
-argue that this minority should seize power and rule the masses, regardless of
-the wishes of that majority, as Trotsky did (see [section
+class."_ [Lenin and Trotsky, **Kronstadt** , p. 85] Not that this makes
+Trotsky an elitist for Selfa, of course. The key difference is that Goldman
+did not argue that this minority should seize power and rule the masses,
+regardless of the wishes of that majority, as Trotsky did (see [section
 H.1.2](secH1.md#sech12)). As Goldman noted, the _"Socialist demagogues know
 that [her argument is true] as well as I, but they maintain the myth of the
 virtues of the majority, because their very scheme means the perpetuation of
 power"_ and _"authority, coercion and dependence rest on the mass, but never
-freedom."_ [**Op. Cit.**, p. 85]
+freedom."_ [ **Op. Cit.** , p. 85]
 
 So, yes, anarchists do support individual freedom to resist even
 democratically made decisions simply because democracy **has to be** based on
@@ -3579,32 +3592,33 @@ which encourages diversity, individuality, dissent and, equally, self-managed
 associations to ensure the freedom of all. As Malatesta argued:
 
 > _"There are matters over which it is worth accepting the will of the
-majority because the damage caused by a split would be greater than that
-caused by error; there are circumstances in which discipline becomes a duty
-because to fail in it would be to fail in the solidarity between the oppressed
-and would mean betrayal in face of the enemy. But when one is convinced that
-the organisation is pursuing a course which threatens the future and makes it
-difficult to remedy the harm done, then it is a duty to rebel and to resist
-even at the risk of provoking a split . . . What is essential is that
-individuals should develop a sense of organisation and solidarity, and the
-conviction that fraternal co-operation is necessary to fight oppression and to
-achieve a society in which everyone will be able to enjoy his [or her] own
-life."_ [**Errico Malatesta: His Life and Ideas**, pp. 132-3]
+> majority because the damage caused by a split would be greater than that
+> caused by error; there are circumstances in which discipline becomes a duty
+> because to fail in it would be to fail in the solidarity between the
+> oppressed and would mean betrayal in face of the enemy. But when one is
+> convinced that the organisation is pursuing a course which threatens the
+> future and makes it difficult to remedy the harm done, then it is a duty to
+> rebel and to resist even at the risk of provoking a split . . . What is
+> essential is that individuals should develop a sense of organisation and
+> solidarity, and the conviction that fraternal co-operation is necessary to
+> fight oppression and to achieve a society in which everyone will be able to
+> enjoy his [or her] own life."_ [ **Errico Malatesta: His Life and Ideas** ,
+> pp. 132-3]
 
 This means that anarchists are not against majority decision making as such.
 We simply recognise it has limitations. In practice, the need for majority and
 minority to come to an agreement is one most anarchists would recognise:
 
 > _"But such an adaptation [of the minority to the decisions of the majority]
-on the one hand by one group must be reciprocal, voluntary and must stem from
-an awareness of need and of goodwill to prevent the running of social affairs
-from being paralysed by obstinacy. It cannot be imposed as a principle and
-statutory norm. . . _
+> on the one hand by one group must be reciprocal, voluntary and must stem
+> from an awareness of need and of goodwill to prevent the running of social
+> affairs from being paralysed by obstinacy. It cannot be imposed as a
+> principle and statutory norm. . ._
 
 > _"So . . . anarchists deny the right of the majority to govern in human
-society in general . . . how is it possible . . . to declare that anarchists
-should submit to the decisions of the majority before they have even heard
-what those might be?"_ [Malatesta, **The Anarchist Revolution**, pp. 100-1]
+> society in general . . . how is it possible . . . to declare that anarchists
+> should submit to the decisions of the majority before they have even heard
+> what those might be?"_ [Malatesta, **The Anarchist Revolution** , pp. 100-1]
 
 Therefore, while accepting majority decision making as a key aspect of a
 revolutionary movement and a free society, anarchists do not make a fetish of
@@ -3614,19 +3628,20 @@ balance the need for solidarity in the common struggle and needs of common
 life with critical analysis and judgement. As Malatesta argued:
 
 > _"In any case it is not a question of being right or wrong; it is a question
-of freedom, freedom for all, freedom for each individual so long as he [or
-she] does not violate the equal freedom of others. No one can judge with
-certainty who is right and who is wrong, who is closer to the truth and which
-is the best road for the greatest good for each and everyone. Experience
-through freedom is the only means to arrive at the truth and the best
-solutions; and there is no freedom if there is not the freedom to be wrong. _
+> of freedom, freedom for all, freedom for each individual so long as he [or
+> she] does not violate the equal freedom of others. No one can judge with
+> certainty who is right and who is wrong, who is closer to the truth and
+> which is the best road for the greatest good for each and everyone.
+> Experience through freedom is the only means to arrive at the truth and the
+> best solutions; and there is no freedom if there is not the freedom to be
+> wrong._
 
 > _"In our opinion, therefore, it is necessary that majority and minority
-should succeed in living together peacefully and profitably by mutual
-agreement and compromise, by the intelligent recognition of the practical
-necessities of communal life and of the usefulness of concessions which
-circumstances make necessary."_ [**Errico Malatesta: His Life and Ideas**, p.
-72]
+> should succeed in living together peacefully and profitably by mutual
+> agreement and compromise, by the intelligent recognition of the practical
+> necessities of communal life and of the usefulness of concessions which
+> circumstances make necessary."_ [ **Errico Malatesta: His Life and Ideas** ,
+> p. 72]
 
 Needless to say, our arguments apply with even more force to the decisions of
 the **representatives** of the majority, who are in practice a very small
@@ -3641,9 +3656,9 @@ everyone should have the same rights the Leninists usurp for their leaders.
 
 This counterpoising of socialism to "individualism" is significant. The aim of
 socialism is, after all, to increase individual liberty (to quote the
-**Communist Manifesto**, to create _"an association, in which the free
-development of each is the condition for the free development of all."_ [**The
-Marx-Engels Reader**, p. 491]). As such, authentic socialism **is**
+**Communist Manifesto** , to create _"an association, in which the free
+development of each is the condition for the free development of all."_ [
+**The Marx-Engels Reader** , p. 491]). As such, authentic socialism **is**
 "individualist" in its aspirations and denounces capitalism for being a
 partial and flawed individualism which benefits the few at the expense of the
 many (in terms of their development and individuality). This can be seen when
@@ -3656,7 +3671,7 @@ she differentiated her position from bourgeois ideology: _"Of course, this has
 nothing in common with a much boasted 'rugged individualism.' Such predatory
 individualism is really flabby, not rugged . . . Their 'rugged individualism'
 is simply one of the many pretences the ruling class makes to unbridled
-business and political extortion."_ [**Op. Cit.**, p. 442 and p. 443] This
+business and political extortion."_ [ **Op. Cit.** , p. 442 and p. 443] This
 support for individuality did not preclude solidarity, organising unions,
 practising direct action, supporting syndicalism, desiring communism and so
 on, but rather **required** it (as Goldman's own life showed). It flows
@@ -3665,12 +3680,12 @@ attacks against anarchism for being "individualism" simply exposes the state
 capitalist nature of Bolshevism:
 
 > _"capitalism promotes egotism, not individuality or 'individualism.' . . .
-the ego it created . . . [is] shrivelled . . . The term 'bourgeois
-individualism,' an epithet widely used by the left today against libertarian
-elements, reflects the extent to which bourgeois ideology permeates the
-socialist project; indeed, the extent to which the 'socialist' project (as
-distinguished from the libertarian communist project) is a mode of state
-capitalism."_ [Murray Bookchin, **Post-Scarcity Anarchism**, p. 194fn]
+> the ego it created . . . [is] shrivelled . . . The term 'bourgeois
+> individualism,' an epithet widely used by the left today against libertarian
+> elements, reflects the extent to which bourgeois ideology permeates the
+> socialist project; indeed, the extent to which the 'socialist' project (as
+> distinguished from the libertarian communist project) is a mode of state
+> capitalism."_ [Murray Bookchin, **Post-Scarcity Anarchism** , p. 194fn]
 
 Therefore the Marxist attack on anarchism as _"anti-democratic"_ is not only
 false, it is ironic and hypocritical. Firstly, anarchists do **not** argue for
@@ -3705,22 +3720,22 @@ Federation . . . was composed of a world of cottage industry stranded between
 the old world and the new, as were pockets of newly proletarianised peasants
 that characterised anarchism in Spain."_ He approvingly quotes Hal Draper
 assertion that anarchism _"was an ideology alien to the life of modern working
-people."_ [_"The Legacy of Hal Draper,"_ pp. 137-49, **International
-Socialism**, no. 52, p. 148]
+people."_ [ _"The Legacy of Hal Draper,"_ pp. 137-49, **International
+Socialism** , no. 52, p. 148]
 
 Ignoring the obvious contradiction of _"newly proletarianised peasants"_ being
 _"non-proletarians,"_ we have the standard Marxist "class analysis" of
 anarchism. This is to assert that anarchism is _"non-proletarian"_ while
 Marxism is _"proletarian."_ On the face of it, such an assertion seems to fly
 in the face of historical facts. After all, when Marx and Engels were writing
-the **Communist Manifesto**, the proletariat was a tiny minority of the
+the **Communist Manifesto** , the proletariat was a tiny minority of the
 population of a mostly rural, barely industrialised Germany. Perhaps it was
 Engels' experiences as a capitalist in England that allowed him an insight
 into _"the life of modern working people?"_ It should also be noted that
 neither Howel or Draper is being original, they are simply repeating Marx's
 assertion that anarchism _"continues to exist only where there is as yet no
-proper workers' movement. This is a fact."_ [**Collected Works**, vol. 24, p.
-247]
+proper workers' movement. This is a fact."_ [ **Collected Works** , vol. 24,
+p. 247]
 
 Beyond this there are a few problems with this type of argument. Firstly,
 there are the factual problems. Simply put, anarchism appealed to _"modern"_
@@ -3758,7 +3773,7 @@ leadership of Italy's socialist movement and the backwardness of the country.
 But if middle-class leaders were the catalysts of proletarian revolutionary
 efforts in Italy, this was also true of every other country in Europe, not
 excluding the General Council in London."_ [T.R. Ravindranathan, **Bakunin and
-the Italians**, p. 168] And by interpreting the difficulties for Marxism in
+the Italians** , p. 168] And by interpreting the difficulties for Marxism in
 this way, Marx and Engels (like their followers) need not question their own
 ideas and assumptions. As Nunzio Pernicone notes, _"[f]rom the outset, Engels
 had consistently underestimated Bakunin as a political adversary and refused
@@ -3773,13 +3788,13 @@ more working-class than the PSI"_ and the _"the number of bourgeois
 intellectuals and professionals that supported the PSI [Italian Socialist
 Party] was vastly greater"_ than those supporting anarchism. Indeed, _"the
 percentage of party membership derived from the bourgeoisie was significantly
-higher in the PSI than among the anarchists."_ [**Italian Anarchism,
-1864-1892**, p. 82 and p. 282] Ironically, given Engels diatribes against the
+higher in the PSI than among the anarchists."_ [ **Italian Anarchism,
+1864-1892** , p. 82 and p. 282] Ironically, given Engels diatribes against the
 Italian anarchists stopping workers following _"proletarian"_ (i.e. Marxist)
 politics and standing for elections, _"as the PSI grew more working-class,
 just before the outbreak of war [in 1914], its Directorate [elected by the
 party congress] grew more anti-parliamentary."_ [Gwyn A. Williams,
-**Proletarian Order**, p. 29]
+**Proletarian Order** , p. 29]
 
 As we noted in [section A.5.5](secA5.md#seca55), the role of the anarchists
 and syndicalists compared to the Marxists during the 1920 near revolution
@@ -3796,25 +3811,25 @@ refugees . . . but he also gathered support among **Gastarbeitier** for whom
 Geneva was already a centre, where builders, carpenters and workers in heavy
 industry tended to be French or Italian . . . Bakunin . . . also marshalled
 considerable support among French speaking domestic workers and watchmakers in
-the Jura."_ [**Karl Marx and the Anarchists**, p. 390] It would be interesting
-to hear a Marxist claim that _"heavy industry"_ represented the past or _"non-
-proletarian"_ elements! Similarly, E. H. Carr in his (hostile) biography of
-Bakunin, noted that the _"sections of the International at Geneva fell into
-two groups."_ Skilled craftsmen formed the _"Right wing"_ while _"the
-builders, carpenters, and workers in the heavier trades, the majority of whom
-were immigrants from France and Italy, represented the Left."_ Unsurprisingly,
-these different groups of workers had different politics. The craftsmen
-_"concentrated on . . . reform"_ while the others _"nourished hopes of a
-complete social upheaval."_ Bakunin, as would be expected, _"fanned the spirit
-of revolt"_ among these, the proletarian workers and soon had a _"commanding
-position in the Geneva International."_ [**Michael Bakunin**, p. 361] It
-should be noted that Marx and the General Council of the International
-consistently supported the reformist wing of the International in Geneva which
-organised political alliances with the middle-class liberals during elections.
-Given these facts, it is little wonder that Howl concentrates on the support
-Bakunin received from domestic workers producing watches. To mention the
-support for Bakunin by organised, obviously proletarian, workers would
-undermine his case and so it is ignored.
+the Jura."_ [ **Karl Marx and the Anarchists** , p. 390] It would be
+interesting to hear a Marxist claim that _"heavy industry"_ represented the
+past or _"non-proletarian"_ elements! Similarly, E. H. Carr in his (hostile)
+biography of Bakunin, noted that the _"sections of the International at Geneva
+fell into two groups."_ Skilled craftsmen formed the _"Right wing"_ while
+_"the builders, carpenters, and workers in the heavier trades, the majority of
+whom were immigrants from France and Italy, represented the Left."_
+Unsurprisingly, these different groups of workers had different politics. The
+craftsmen _"concentrated on . . . reform"_ while the others _"nourished hopes
+of a complete social upheaval."_ Bakunin, as would be expected, _"fanned the
+spirit of revolt"_ among these, the proletarian workers and soon had a
+_"commanding position in the Geneva International."_ [ **Michael Bakunin** ,
+p. 361] It should be noted that Marx and the General Council of the
+International consistently supported the reformist wing of the International
+in Geneva which organised political alliances with the middle-class liberals
+during elections. Given these facts, it is little wonder that Howl
+concentrates on the support Bakunin received from domestic workers producing
+watches. To mention the support for Bakunin by organised, obviously
+proletarian, workers would undermine his case and so it is ignored.
 
 Lastly, there is Spain. It seems funny that a Marxist would use Spain as an
 example **against** the class roots of anarchism. After all, that is one of
@@ -3824,14 +3839,14 @@ introduced - that a substantive working class movement began to emerge"_ and
 _"throughout the history of Spanish anarchism, its survival depended in large
 measure on the anarchists' ability to maintain direct links with the
 workers."_ [George R. Esenwein, **Anarchist Ideology and the Working-Class
-Movement in Spain, 1868-1898**, p. 6 and p. 207] As well as organising _"newly
-proletarianised peasants,"_ the "Bakuninists" also organised industrial
-workers - indeed, far more successfully than the Socialists. Ironically, the
-UGT only started to approach the size of the CNT once it had started to
-organise _"newly proletarianised peasants"_ in the 1930s (i.e., anarchist
-unions organised more of the industrial working class than the Socialist
-ones). From such a fact, we wonder if Marxists would argue that socialism
-rested on _"non-proletarian"_ elements?
+Movement in Spain, 1868-1898** , p. 6 and p. 207] As well as organising
+_"newly proletarianised peasants,"_ the "Bakuninists" also organised
+industrial workers - indeed, far more successfully than the Socialists.
+Ironically, the UGT only started to approach the size of the CNT once it had
+started to organise _"newly proletarianised peasants"_ in the 1930s (i.e.,
+anarchist unions organised more of the industrial working class than the
+Socialist ones). From such a fact, we wonder if Marxists would argue that
+socialism rested on _"non-proletarian"_ elements?
 
 Moreover, the logic of dismissing anarchism as _"non-proletarian"_ because it
 organised _"newly proletarianised peasants"_ is simply laughable. After all,
@@ -3844,7 +3859,7 @@ Bolshevik support in 1917 was to be found in _"newly proletarianised
 peasants"_ whether in the army or working in the factories. Ironically enough,
 the Mensheviks argued that the Bolsheviks gained their influence from worker-
 peasant industrial _"raw recruits"_ and not from the genuine working class.
-[Orlando Figes, **A People's Tragedy**, p. 830] As such, to dismiss anarchism
+[Orlando Figes, **A People's Tragedy** , p. 830] As such, to dismiss anarchism
 because it gained converts from similar social strata as the Bolsheviks seems,
 on the face of it, a joke.
 
@@ -3912,8 +3927,8 @@ Marxist labour movement.
 
 Which, of course, brings us to the next point, namely the ideological problems
 for Leninists themselves created by such an assertion. After all, Lenin
-himself argued that _"the life of modern working people"_ could only produce _
-"trade-union consciousness"_ as socialist ideas were developed independently
+himself argued that _"the life of modern working people"_ could only produce
+_"trade-union consciousness"_ as socialist ideas were developed independently
 of working people by the socialist (middle-class) _"intelligentsia."_ As we
 discuss in [section H.5.1](secH5.md#sech51), for Lenin, socialism was an
 ideology which was alien to the life of modern working class people.
@@ -3953,13 +3968,14 @@ what Marx considered as necessary might be another sectarian position imposed
 on the workers' movement did not enter his head nor those of his followers:
 
 > _"Marx had indeed insisted, in the earlier years of the First International,
-on the need for building on actual movements rather than constructing a dogma
-which movements were then required to fit. But when the actual movements took
-forms which he disliked, as they largely did in Spain and Italy, in Germany
-under Lassalle's influence, and in Great Britain as soon as the Trade Unions'
-most immediate demands had been met, he was apt to forget his own precepts and
-to become the grand inquisitor into heretical misdeeds."_ [G.D.H. Cole, **A
-History of Socialist Thought**, vol. 2, p. 256]
+> on the need for building on actual movements rather than constructing a
+> dogma which movements were then required to fit. But when the actual
+> movements took forms which he disliked, as they largely did in Spain and
+> Italy, in Germany under Lassalle's influence, and in Great Britain as soon
+> as the Trade Unions' most immediate demands had been met, he was apt to
+> forget his own precepts and to become the grand inquisitor into heretical
+> misdeeds."_ [G.D.H. Cole, **A History of Socialist Thought** , vol. 2, p.
+> 256]
 
 That support for _"political action"_ was just as "sectarian" as support for
 non-participation in elections can be seen from Engels 1895 comment that
@@ -3968,15 +3984,15 @@ disrepute through the misuse to which the Bonapartist government had put it .
 . . It also existed in Spain since the republic, but in Spain boycott of
 elections was ever the rule of all serious opposition parties . . . The
 revolutionary workers of the Latin countries had been wont to regard the
-suffrage as a snare, as an instrument of government trickery."_ [**Marx-Engels
-Reader**, p. 565] Needless to say, he had failed to mention those little facts
-when he was attacking anarchists for expressing the opinions of the
-_"revolutionary workers of the Latin countries"_ and _"all serious opposition
-parties"_ in the 1870s! Similarly, the Haymarket Martyrs had moved from a
-Marxist position on elections to an anarchist one after their own experiences
-using the ballot box, as did the many British socialists who became
-syndicalists in the early years of the 20th century. It seems strange to
-conclude that these positions are not expressions of working class struggle
+suffrage as a snare, as an instrument of government trickery."_ [ **Marx-
+Engels Reader** , p. 565] Needless to say, he had failed to mention those
+little facts when he was attacking anarchists for expressing the opinions of
+the _"revolutionary workers of the Latin countries"_ and _"all serious
+opposition parties"_ in the 1870s! Similarly, the Haymarket Martyrs had moved
+from a Marxist position on elections to an anarchist one after their own
+experiences using the ballot box, as did the many British socialists who
+became syndicalists in the early years of the 20th century. It seems strange
+to conclude that these positions are not expressions of working class struggle
 while that of Marx and Engels are, particularly given the terrible results of
 that strategy!
 
@@ -4013,14 +4029,15 @@ tendencies that exist in the modern workers' movement"_ when he argued at the
 Second Congress of the Communist International:
 
 > _"It must be granted that among revolutionary workers the tendency toward
-parliamentarism is disappearing more and more. On the contrary, a strong anti-
-parliamentary tendency is becoming apparent in the ranks of the most advanced
-part of the proletariat. Look at the Shop Stewards' movement [in Britain] or
-Spanish syndicalism . . . The IWW is absolutely antiparliamentary . . . I want
-to point out that the idea of antiparliamentarism is asserting itself more
-strongly in Germany . . . as a result of the revolution itself . . . We must
-view the question in this light."_ [**Proceedings and Documents of the Second
-Congress 1920**, vol. 1, pp. 176-7]
+> parliamentarism is disappearing more and more. On the contrary, a strong
+> anti-parliamentary tendency is becoming apparent in the ranks of the most
+> advanced part of the proletariat. Look at the Shop Stewards' movement [in
+> Britain] or Spanish syndicalism . . . The IWW is absolutely
+> antiparliamentary . . . I want to point out that the idea of
+> antiparliamentarism is asserting itself more strongly in Germany . . . as a
+> result of the revolution itself . . . We must view the question in this
+> light."_ [ **Proceedings and Documents of the Second Congress 1920** , vol.
+> 1, pp. 176-7]
 
 Of course, this perspective of basing yourself on the ideas and tactics
 generated by the class struggle was rejected in favour of a return to the
@@ -4029,7 +4046,7 @@ _"proletarian"_ movement. If these tactics were the correct ones, then why did
 they not lead to a less dismal set of results? After all, the degeneration of
 social democracy into reformism would suggest their failure and sticking
 _"revolutionary"_ before their tactics (as in _"revolutionary
-parliamentarianism"_) changes little. Marxists, like anarchists, are meant to
+parliamentarianism"_ ) changes little. Marxists, like anarchists, are meant to
 be materialists, not idealists. What was the actual outcome of the Leninist
 strategies? Did they result in successful proletarian revolutions. No, they
 did not. The revolutionary wave peaked and fell and the Leninist parties
@@ -4050,7 +4067,7 @@ attempt to squeeze history into an ideological prison. As noted above, in
 order to present such an analysis, the actual class compositions of
 significant events and social movements have to be manipulated. This is the
 case of the Paris Commune, for example, which was predominantly a product of
-artisans (i.e. the _"petit bourgeoisie"_), **not** the industrial working
+artisans (i.e. the _"petit bourgeoisie"_ ), **not** the industrial working
 class and yet claimed by Marxists as an example of the _"dictatorship of the
 proletariat."_ Ironically, many of the elements of the Commune praised by Marx
 can be found in the works of Proudhon and Bakunin which pre-date the uprising.
@@ -4080,15 +4097,15 @@ anarchists do not, in fact, reject _"political"_ struggles and action as such.
 Rather, to quote Bakunin, anarchism _"does not reject politics generally. It
 will certainly be forced to involve itself insofar as it will be forced to
 struggle against the bourgeois class. It only rejects bourgeois politics"_ as
-it _"establishes the predatory domination of the bourgeoisie."_ [**The
-Political Philosophy of Bakunin**, p. 313] For Kropotkin, it was a truism that
-it was _"absolutely impossible . . . to confine the ideas of the working mass
-within the narrow circle of reductions in working hours and wage increases . .
-. The social question compels attention."_ This fact implied two responses:
-_"the workers' organisation propels itself either into the sterile path of
-parliamentary politics as in Germany, or into the path of revolution."_
-[quoted by Caroline Cahm, **Kropotkin and the rise of Revolutionary Anarchism,
-1872-1886**, p. 241]
+it _"establishes the predatory domination of the bourgeoisie."_ [ **The
+Political Philosophy of Bakunin** , p. 313] For Kropotkin, it was a truism
+that it was _"absolutely impossible . . . to confine the ideas of the working
+mass within the narrow circle of reductions in working hours and wage
+increases . . . The social question compels attention."_ This fact implied two
+responses: _"the workers' organisation propels itself either into the sterile
+path of parliamentary politics as in Germany, or into the path of
+revolution."_ [quoted by Caroline Cahm, **Kropotkin and the rise of
+Revolutionary Anarchism, 1872-1886** , p. 241]
 
 So while Marxists often argue that anarchists are exclusively interested in
 economic struggle and reject _"politics"_ or _"political action,"_ the truth
@@ -4099,21 +4116,21 @@ political aspects and that such struggles bring the role of the state as
 defender of capitalism and the need to struggle against it into focus:
 
 > _"There is no serious strike that occurs today without the appearance of
-troops, the exchange of blows and some acts of revolt. Here they fight with
-the troops; there they march on the factories; . . . in Pittsburgh in the
-United States, the strikers found themselves masters of a territory as large
-as France, and the strike became the signal for a general revolt against the
-State; in Ireland the peasants on strike found themselves in open revolt
-against the State. Thanks to government intervention the rebel against the
-factory becomes the rebel against the State."_ [Kropotkin, quoted by Caroline
-Cahm, **Op. Cit.**, p. 256]
+> troops, the exchange of blows and some acts of revolt. Here they fight with
+> the troops; there they march on the factories; . . . in Pittsburgh in the
+> United States, the strikers found themselves masters of a territory as large
+> as France, and the strike became the signal for a general revolt against the
+> State; in Ireland the peasants on strike found themselves in open revolt
+> against the State. Thanks to government intervention the rebel against the
+> factory becomes the rebel against the State."_ [Kropotkin, quoted by
+> Caroline Cahm, **Op. Cit.** , p. 256]
 
 As Malatesta argued, from _"the economic struggle one must pass to the
 political struggle, that is to struggle against government; and instead of
 opposing the capitalist millions with the workers' few pennies scraped
 together with difficulty, one must oppose the rifles and guns which defend
 property with the more effective means that the people will be able to defeat
-force by force."_ [**Errico Malatesta: His Life and Ideas**, pp. 193-4]
+force by force."_ [ **Errico Malatesta: His Life and Ideas** , pp. 193-4]
 
 This means that the question of whether to conduct political struggles is
 **not** the one which divides anarchists from Marxists. Rather, it is a
@@ -4129,7 +4146,7 @@ action"_ could join the International. By _"political action"_ it meant _"that
 the working-class organisations seek, in as far as possible, to use or conquer
 political rights and the machinery of legislation for the furthering of the
 interests of the proletariat and the conquest of political power."_ [quoted by
-Susan Milner, **The Dilemmas of Internationalism**, p. 49] Significantly,
+Susan Milner, **The Dilemmas of Internationalism** , p. 49] Significantly,
 while this International and its member parties (particular the German Social
 Democrats) were happy to expel anarchists, they never expelled the leading
 reformists from their ranks.
@@ -4150,35 +4167,35 @@ the factories."_ He saw that _"those who yesterday were considered socialists
 are today letting go of socialism, by renouncing its mother idea ["the need to
 replace the wage system and to abolish individual ownership of . . . social
 capital"] and passing over into the camp of the bourgeoisie, while retaining,
-so as to hide their turnabout, the label of socialism."_ [**Words of a
-Rebel**, p. 181 and p. 180] The differences in results between direct action
+so as to hide their turnabout, the label of socialism."_ [ **Words of a
+Rebel** , p. 181 and p. 180] The differences in results between direct action
 and electioneering were obvious:
 
 > _"However moderate the war cry - provided it is in the domain of relations
-between capital and labour - as soon as it proceeds to put it into practice by
-revolutionary methods, it ends by increasing it and will be led to demand the
-overthrow of the regime of property. On the other hand a party which confines
-itself to parliamentary politics ends up abandoning its programme, however
-advanced it may have been at the beginning."_ [Kropotkin, quoted by Cahm,
-**Op. Cit.**, p. 252]
+> between capital and labour - as soon as it proceeds to put it into practice
+> by revolutionary methods, it ends by increasing it and will be led to demand
+> the overthrow of the regime of property. On the other hand a party which
+> confines itself to parliamentary politics ends up abandoning its programme,
+> however advanced it may have been at the beginning."_ [Kropotkin, quoted by
+> Cahm, **Op. Cit.** , p. 252]
 
 Ultimately, the bourgeois tactics used ended up with bourgeois results. As
 Emma Goldman argued, socialism _"was led astray by the evil spirit of
 politics"_ and _"landed in the [political] trap and has now but one desire -
 to adjust itself to the narrow confines of its cage, to become part of the
 authority, part of the very power that has slain the beautiful child Socialism
-and left behind a hideous monster."_ [**Red Emma Speaks**, p. 103] The net
+and left behind a hideous monster."_ [ **Red Emma Speaks** , p. 103] The net
 effect of _"political action"_ was the corruption of the socialist movement
 into a reformist party which betrayed the promise of socialism in favour of
 making existing society better (so it can last longer). This process confirmed
 Bakunin's predictions. As Kropotkin put it:
 
 > _"The middle class will not give up its power without a struggle. It will
-resist. And in proportion as Socialists will become part of the Government and
-share power with the middle class, their Socialism will grow paler and paler.
-This is, indeed, what Socialism is rapidly doing. Were this not so, the middle
-classes . . . would not share their power with the Socialists."_ [**Evolution
-and Environment**, p. 102]
+> resist. And in proportion as Socialists will become part of the Government
+> and share power with the middle class, their Socialism will grow paler and
+> paler. This is, indeed, what Socialism is rapidly doing. Were this not so,
+> the middle classes . . . would not share their power with the Socialists."_
+> [ **Evolution and Environment** , p. 102]
 
 In addition, as we argue in [section J.2.5](secJ2.md#secj25), direct action
 is either based on (or creates) forms of self-managed working class
@@ -4196,12 +4213,12 @@ for good (and historically vindicated) reasons. This makes a mockery of
 Marxists assertions (beginning with Marx) that anarchists like Bakunin
 _"opposed all political action by the working class since this would imply
 'recognition' of the existing state."_ [Derek Howl, _"The Legacy of Hal
-Draper,"_ pp. 13-49, **International Socialism**, no. 52, p. 147] This, in
+Draper,"_ pp. 13-49, **International Socialism** , no. 52, p. 147] This, in
 fact, is a common Marxist claim, namely that anarchists reject _"political
 struggle"_ on principle (i.e. for idealistic purposes). In the words of
 Engels, Bakunin was _"opposed to all political action by the working class,
 since this would in fact involve recognition of the existing state."_ [Marx,
-Engels and Lenin, **Anarchism and Anarcho-Syndicalism**, p. 49] Sadly, like
+Engels and Lenin, **Anarchism and Anarcho-Syndicalism** , p. 49] Sadly, like
 all Marxists, he failed to indicate where, in fact, Bakunin actually said
 that. As can be seen, this was **not** the case. Bakunin, like all
 revolutionary anarchists, rejected _"political action"_ (in the sense of
@@ -4210,8 +4227,8 @@ counterproductive and undermine the revolutionary nature of the labour
 movement. As the experience of Marxist Social Democracy showed, he was
 correct.
 
-In summary, while anarchists reject standing of socialists in elections
-(_"political action,"_ narrowly defined), we do not reject the need to fight
+In summary, while anarchists reject standing of socialists in elections (
+_"political action,"_ narrowly defined), we do not reject the need to fight
 for political reforms or specific political issues. However, we see such
 action as being based on collective working class **direct action** organised
 around combative organs of working class self-management and power rather than
@@ -4226,25 +4243,25 @@ Pat Stack (of the British SWP) ponders the history of anarchist organisation
 (at least the SWP version of that history):
 
 > _"how otherwise [than Leninist vanguard political parties] do
-revolutionaries organise? Apart from the serious efforts of anarcho-
-syndicalists to grapple with this problem, anarchists have failed to pose any
-serious alternative. In as much as they do, they have produced either the
-ineffective, the elitist or the downright bizarre. Bakunin's organisation, the
-'Alliance of Social Democracy', managed all three: 'The organisation had two
-overlapping forms, one secret, involving only the "intimates", and one public,
-the Alliance of Social Democracy. Even in its open, public mode, the alliance
-was to be a highly centralised organisation, with all decisions on the
-national level approved by the Central Committee. Since it was the real
-controlling body, the secret organisation was even more tightly centralised .
-. . with first a Central Committee, then a "central Geneva section" acting as
-the "permanent delegation of the permanent Central Committee", and, finally,
-within the central Geneva section a "Central Bureau", which was to be both the
-"executive power . . . composed of three, or five, or even seven members" of
-the secret organisation and the executive directory of the public
-organisation.' _
+> revolutionaries organise? Apart from the serious efforts of anarcho-
+> syndicalists to grapple with this problem, anarchists have failed to pose
+> any serious alternative. In as much as they do, they have produced either
+> the ineffective, the elitist or the downright bizarre. Bakunin's
+> organisation, the 'Alliance of Social Democracy', managed all three: 'The
+> organisation had two overlapping forms, one secret, involving only the
+> "intimates", and one public, the Alliance of Social Democracy. Even in its
+> open, public mode, the alliance was to be a highly centralised organisation,
+> with all decisions on the national level approved by the Central Committee.
+> Since it was the real controlling body, the secret organisation was even
+> more tightly centralised . . . with first a Central Committee, then a
+> "central Geneva section" acting as the "permanent delegation of the
+> permanent Central Committee", and, finally, within the central Geneva
+> section a "Central Bureau", which was to be both the "executive power . . .
+> composed of three, or five, or even seven members" of the secret
+> organisation and the executive directory of the public organisation.'_
 
 > _"That this was far more elitist and less democratic than Lenin's model is
-clear."_ [_"Anarchy in the UK?"_, **Socialist Review**, no. 246]
+> clear."_ [ _"Anarchy in the UK?"_ , **Socialist Review** , no. 246]
 
 There are, as is obvious, numerous problems with Stack's assertions. Firstly,
 he makes absolutely **no** attempt to discuss anarchist ideas on the question
@@ -4289,10 +4306,10 @@ hardly _"ineffective"_ when it came to building the International. As Marxist
 Paul Thomas notes, _"the International was to prove capable of expanding its
 membership only at the behest of the Bakuninists [sic!]"_ and _"[w]herever the
 International was spreading, it was doing so under the mantle of Bakuninism."_
-[**Karl Marx and the Anarchists**, p. 315 and p. 319] Even Engels had to admit
-that the Spanish section was _"one of finest organisations within the
+[ **Karl Marx and the Anarchists** , p. 315 and p. 319] Even Engels had to
+admit that the Spanish section was _"one of finest organisations within the
 International_ (which the Spanish Marxists had to _"rescue from the influence
-of the Alliance humbugs"_). [**Collected Works**, vol. 23, p. 292]
+of the Alliance humbugs"_ ). [ **Collected Works** , vol. 23, p. 292]
 
 Yet Stack considers this as an example of an _"ineffective"_ organisation!
 But, to be fair, this seems to have been a common failing with Marxists. In
@@ -4300,9 +4317,10 @@ But, to be fair, this seems to have been a common failing with Marxists. In
 predict that the new departure [in Spain] will not come from these 'anarchist'
 spouters, but from the small body of intelligent and energetic workmen who, in
 1872, remained true to the International."_ [Marx, Engels, Lenin, **Anarchism
-and Anarcho-Syndicalism**, p. 163] In reality, the Spanish Socialist Party was
-bureaucratic and reformist to the core while it was the anarchists who made
-the Spanish labour movement the most dynamic and revolutionary in the world.
+and Anarcho-Syndicalism** , p. 163] In reality, the Spanish Socialist Party
+was bureaucratic and reformist to the core while it was the anarchists who
+made the Spanish labour movement the most dynamic and revolutionary in the
+world.
 
 As regards Stack's summary of Bakunin's organisation, we must note that Stack
 is quoting an unnamed source on Bakunin's views on this subject. We,
@@ -4318,28 +4336,29 @@ organisational model which no modern anarchist supports.
 Moreover, there is a key way in which Bakunin's ideas on this issue were far
 **less** _"elitist"_ and **more** _"democratic"_ than Lenin's model. Simply,
 Bakunin always stressed that his organisation _"rules out any idea of
-dictatorship and custodial control."_ [**Michael Bakunin: Selected Writings**,
-p. 172] The _"main purpose and task of the organisation,"_ he argued, would be
-to _"help the people to achieve self-determination."_ It would _"not threaten
-the liberty of the people because it is free from all official character"_ and
-_"not placed above the people like state power."_ Its programme _"consists of
-the fullest realisation of the liberty of the people"_ and its influence is
-_"not contrary to the free development and self-determination of the people,
-or its organisation from below according to its own customs and instincts
-because it acts on the people only by the natural personal influence of its
-members who are not invested with any power."_ Thus the revolutionary group
-would be the _"helper"_ of the masses, with an "organisation within the people
-itself." [quoted by Michael Confino, **Daughter of a Revolutionary**, p. 259,
-p. 261, p. 256 and p. 261] The revolution itself would see _"an end to all
-masters and to domination of every kind, and the free construction of popular
-life in accordance with popular needs, not from above downward, as in the
-state, but from below upward, by the people themselves, dispensing with all
-governments and parliaments - a voluntary alliance of agricultural and factory
-worker associations, communes, provinces, and nations; and, finally, . . .
-universal human brotherhood triumphing on the ruins of all the states."_
-[Bakunin, **Statism and Anarchy**, p. 33] In other words, Bakunin saw the
-social revolution in terms of popular participation and control, **not** the
-seizing of power by a "revolutionary" party or group.
+dictatorship and custodial control."_ [ **Michael Bakunin: Selected Writings**
+, p. 172] The _"main purpose and task of the organisation,"_ he argued, would
+be to _"help the people to achieve self-determination."_ It would _"not
+threaten the liberty of the people because it is free from all official
+character"_ and _"not placed above the people like state power."_ Its
+programme _"consists of the fullest realisation of the liberty of the people"_
+and its influence is _"not contrary to the free development and self-
+determination of the people, or its organisation from below according to its
+own customs and instincts because it acts on the people only by the natural
+personal influence of its members who are not invested with any power."_ Thus
+the revolutionary group would be the _"helper"_ of the masses, with an
+"organisation within the people itself." [quoted by Michael Confino,
+**Daughter of a Revolutionary** , p. 259, p. 261, p. 256 and p. 261] The
+revolution itself would see _"an end to all masters and to domination of every
+kind, and the free construction of popular life in accordance with popular
+needs, not from above downward, as in the state, but from below upward, by the
+people themselves, dispensing with all governments and parliaments - a
+voluntary alliance of agricultural and factory worker associations, communes,
+provinces, and nations; and, finally, . . . universal human brotherhood
+triumphing on the ruins of all the states."_ [Bakunin, **Statism and Anarchy**
+, p. 33] In other words, Bakunin saw the social revolution in terms of popular
+participation and control, **not** the seizing of power by a "revolutionary"
+party or group.
 
 Unlike Lenin, Bakunin did not confuse party power with people power. His
 organisation, for all it faults (and they were many), did not aim to take
@@ -4372,7 +4391,7 @@ Lenin's _"model"_ is clear from these documents. The parties adhering to the
 Communist International had to have two overlapping forms, one legal (i.e.
 public) and another _"illegal"_ (i.e. secret). It was the _"duty"_ of these
 parties _"to create everywhere a parallel illegal organisational apparatus."_
-[**Proceedings and Documents of the Second Congress 1920**, vol. 2, p. 767]
+[ **Proceedings and Documents of the Second Congress 1920** , vol. 2, p. 767]
 Needless to say, this illegal organisation would be the real controlling body,
 as it would have to be made up of trusted communists and could only be even
 more tightly centralised than the open party as its members could only be
@@ -4381,11 +4400,11 @@ stress that the _"illegal"_ (i.e. secret) organisation controlled the party,
 the Communist International agreed that that _"[i]n countries where the
 bourgeoisie . . . is still in power, the Communist parties must learn to
 combine legal and illegal activity in a planned way. However, the legal work
-must be placed under the actual control of the illegal party at all times."_
-[**Op. Cit.**, vol. 1, p. 198-9] In this, it should be noted, the Leninists
+must be placed under the actual control of the illegal party at all times."_ [
+**Op. Cit.** , vol. 1, p. 198-9] In this, it should be noted, the Leninists
 followed Marx's in 1850 comments (which he later rejected) on the need to
 _"establish an independent secret and public organisation of the workers'
-party."_ [**Collected Works**, vol. 10, p. 282]
+party."_ [ **Collected Works** , vol. 10, p. 282]
 
 Even in its open, public mode, the Communist Party was to be a highly
 centralised organisation, with all decisions on the national level made by the
@@ -4394,8 +4413,8 @@ party centre which has strength and authority and is equipped with the most
 comprehensive powers. Also, the party press and other publications, and all
 party publishing houses, must be subordinated to the party presidium. This
 applied on an international level as well, with the decisions of the Communist
-International's Executive Committee binding on all parties belonging to it.
-[**Op. Cit.**, vol. 2, p. 769] Moreover, _"Communist cells of all kinds must
+International's Executive Committee binding on all parties belonging to it. [
+**Op. Cit.** , vol. 2, p. 769] Moreover, _"Communist cells of all kinds must
 be subordinate to each other in a strictly hierarchical order of rank as
 precisely as possible."_ Democratic centralism itself was fundamentally
 hierarchical, with its _"basic principles"_ being that _"the higher bodies
@@ -4405,7 +4424,7 @@ a strong party centre whose authority is universally and unquestionably
 recognised for all leading party comrades in the period between congresses."_
 Any _"advocacy of broad 'autonomy' for the local party organisations only
 weakens the ranks of the Communist Party"_ and _"favours petty-bourgeois,
-anarchist and disruptive tendencies."_ [**Op. Cit.**, vol. 1, p. 198]
+anarchist and disruptive tendencies."_ [ **Op. Cit.** , vol. 1, p. 198]
 
 It seems strange for Stack to argue that Bakunin's ideas (assuming he presents
 an honest account of them, of course) were _"far more elitist and less
@@ -4421,12 +4440,12 @@ most reactionary philistine, no matter what cloak of fine 'democratic' and
 pacifist phrases he may don, will deny this fact or the conclusion that of
 necessity follows from it, viz., that all legal Communist parties must
 immediately form illegal organisations for the systematic conduct of illegal
-work."_ [**Collected Works**, vol. 31, p. 195] This was due to the threat of
+work."_ [ **Collected Works** , vol. 31, p. 195] This was due to the threat of
 state repression, which also faced Bakunin's Alliance. As Murray Bookchin
 argued, _"Bakunin's emphasis on conspiracy and secrecy can be understood only
 against the social background of Italy, Spain, and Russia the three countries
-in Europe where conspiracy and secrecy were matters of sheer survival."_
-[**The Spanish Anarchists**, p. 24]
+in Europe where conspiracy and secrecy were matters of sheer survival."_ [
+**The Spanish Anarchists** , p. 24]
 
 For anarchists, the similarity in structure between Bakunin and Lenin is no
 source of embarrassment. Rather, we argue that it is due to a similarity in
@@ -4479,8 +4498,8 @@ the major anarchist organisations in history have been centralised but have
 operated in secret."_ As evidence they echo Stack's distortions of Bakunin's
 Alliance before stating that the _"anarchist organisation inside the Spanish
 C.N.T., the F.A.I., was centralised and secret. A revolutionary party thrives
-on open debate and common struggle with wider groups of workers."_
-[**Socialist Worker**, no. 1714, 16/09/2000]
+on open debate and common struggle with wider groups of workers."_ [
+**Socialist Worker** , no. 1714, 16/09/2000]
 
 It is just as well it stated _"all the major anarchist organisations"_ as it
 is vague enough to allow the denial of obvious counter-examples as not being
@@ -4506,8 +4525,8 @@ rather than centralised ones.
 As for the Spanish Anarchists, the common Leninist notion that it was
 centralised seems to flow from Felix Morrow's assertion that _"Spanish
 Anarchism had in the FAI a highly centralised party apparatus through which it
-maintained control of the CNT."_ [**Revolution and Counter-Revolution in
-Spain**, p. 100] Like the SWP, no attempt was made to provide evidence to
+maintained control of the CNT."_ [ **Revolution and Counter-Revolution in
+Spain** , p. 100] Like the SWP, no attempt was made to provide evidence to
 support this claim. It undoubtedly flows from the dogmatic Leninist belief
 that centralism is automatically more efficient than federalism combined with
 the fact that the Leninists could not take over the CNT. However, in reality,
@@ -4526,14 +4545,14 @@ and no headquarters with paid officials, secretaries, and clerks. . . They
 jealously guarded the autonomy of their affinity groups from the authority of
 higher organisational bodies - a state of mind hardly conducive to the
 development of a tightly knit, vanguard organisation . . . It had no official
-program by which all **faistas** could mechanically guide their actions."_
-[**The Spanish Anarchists**, pp. 197-8] So regardless of Morrow's claims, the
+program by which all **faistas** could mechanically guide their actions."_ [
+**The Spanish Anarchists** , pp. 197-8] So regardless of Morrow's claims, the
 FAI was a federation of autonomous affinity groups in which, as one member put
 it, _"[e]ach FAI group thought and acted as it deemed fit, without bothering
 about what the others might be thinking or deciding . . . they had no . . .
 opportunity or jurisdiction . . . to foist a party line upon the grass-
 roots."_ [Francisco Carrasquer, quoted by Stuart Christie, **We, the
-Anarchists!**, p. 28]
+Anarchists!** , p. 28]
 
 Was the F.A.I. a "secret" organisation? When it was founded in 1927, Spain was
 under the dictatorship of Primo de Rivera and so it was illegal and secret by
@@ -4542,10 +4561,10 @@ committed to the overthrow of the dictatorship, the F.A.I. functioned, from
 1927 to 1931, as an illegal rather than a secret organisation. From the birth
 of the Republic in 1931 onwards, the F.A.I. was simply an organisation which,
 until 1937, refused to register as an organisation as required by Republican
-Law."_ [**Op. Cit.**, p. 24] Thus it was illegal rather than secret. As one
+Law."_ [ **Op. Cit.** , p. 24] Thus it was illegal rather than secret. As one
 anarchist militant asked, _"[i]f it was secret, how come I was able to attend
 F.A.I. meetings without ever having joined or paid dues to the 'specific'
-organisation?"_ [Francesco Carrasquer, quoted by Christie, **Op. Cit.**, p.
+organisation?"_ [Francesco Carrasquer, quoted by Christie, **Op. Cit.** , p.
 24] The organisation held public meetings, attended by thousands, as well as
 publishing journals and newspapers. Its most notable members, such as Durruti,
 hardly kept their affiliation secret. Moreover, given the periods of
@@ -4568,20 +4587,20 @@ states that F.A.I. militants _"tended to reject control of confederal
 committees and only accepted them on specific occasions . . . if someone
 proposed a motion in assembly, the other F.A.I. members would support it,
 usually successfully. It was the individual standing of the faista in open
-assembly."_ [quoted by Stuart Christie, **Op. Cit.**, p. 62] It should be
+assembly."_ [quoted by Stuart Christie, **Op. Cit.** , p. 62] It should be
 remembered that at union conferences and congresses the _"delegates, whether
 or not they were members of the FAI, were presenting resolutions adopted by
 their unions at open membership meetings. Actions taken at the congress had to
 be reported back to their unions at open meetings, and given the degree of
 union education among the members, it was impossible for delegates to support
 personal, non-representative positions."_ [Juan Gomez Casas, **Anarchist
-Organisation: The History of the FAI**, p. 121]
+Organisation: The History of the FAI** , p. 121]
 
 Significantly, it should be noted that Morrow was re-cycling an argument which
 was produced by the reformist wing of the CNT in the 1930s after it had lost
-influence in the union rank-and-file (_"The myth of the FAI as conqueror and
+influence in the union rank-and-file ( _"The myth of the FAI as conqueror and
 ruler of the CNT was created basically by the **Treinistas**."_ [Juan Gomez
-Casas, **Op. Cit.**, p. 134] ). That a Trotskyist should repeat the arguments
+Casas, **Op. Cit.** , p. 134] ). That a Trotskyist should repeat the arguments
 of failed bureaucrats in the CNT is not too surprising in that Trotskyism
 itself is simply the ideology of Russian failed bureaucrats.
 
@@ -4601,6 +4620,6 @@ is effective for is replacing one set of bosses with a new set (the leaders of
 the party).
 
 [‹ H.1 Have anarchists always opposed state socialism?](secH1.md "Go to
-previous page" ) [up](secHcon.md "Go to parent page" ) [H.3 What are the
-myths of state socialism? ›](secH3.md "Go to next page" )
+previous page") [up](secHcon.md "Go to parent page") [H.3 What are the myths
+of state socialism? ›](secH3.md "Go to next page")
 

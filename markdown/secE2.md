@@ -19,7 +19,7 @@ anarchists place such partial struggles within a larger context of changing
 society as a whole. The former is part of _"waging a delaying action against
 the rampant destruction of the environment"_ the other is _"a create movement
 to totally revolutionise the social relations of humans to each other and of
-humanity to nature."_ [Murray Bookchin, **Toward an Ecological Society**, p.
+humanity to nature."_ [Murray Bookchin, **Toward an Ecological Society** , p.
 43] This is one of the key differences between an ecological perspective and
 an environmental one (a difference discussed in [section
 E.1.2](secE1.md#sece12)). Finding ways to resist capitalism's reduction of
@@ -47,32 +47,30 @@ poet's cry of desperation become a reality: 'Where can I flee? Nature itself
 has become hideous.'"_ In order to transform how we interact with nature, we
 need to transform how we interact with each other. _"Fortunately,"_ Reclus
 notes, _"a complete alliance of the beautiful and the useful is possible."_
-[quoted by Clark and Martin (eds.) , **Anarchy, Geography, Modernity**, p. 125
-and p. 28]
+[quoted by Clark and Martin (eds.) , **Anarchy, Geography, Modernity** , p.
+125 and p. 28]
 
 Over a century later, Murray Bookchin echoed this insight:
 
-> _ "The views advanced by anarchists were deliberately called **social**
-ecology to emphasise that major ecological problems have their roots in social
-problems -- problems that go back to the very beginnings of patricentric
-culture itself. The rise of capitalism, with a law of life based on
-competition, capital accumulation, and limitless growth, brought these
-problems -- ecological and social -- to an acute point; indeed, one that was
-unprecedented in any prior epoch of human development. Capitalist society, by
-recycling the organise world into an increasingly inanimate, inorganic
-assemblage of commodities, was destined to simplify the biosphere, thereby
-cutting across the grain of natural evolution with its ages-long thrust
-towards differentiation and diversity.  
+> _"The views advanced by anarchists were deliberately called **social**
+> ecology to emphasise that major ecological problems have their roots in
+> social problems -- problems that go back to the very beginnings of
+> patricentric culture itself. The rise of capitalism, with a law of life
+> based on competition, capital accumulation, and limitless growth, brought
+> these problems -- ecological and social -- to an acute point; indeed, one
+> that was unprecedented in any prior epoch of human development. Capitalist
+> society, by recycling the organise world into an increasingly inanimate,
+> inorganic assemblage of commodities, was destined to simplify the biosphere,
+> thereby cutting across the grain of natural evolution with its ages-long
+> thrust towards differentiation and diversity.  
 >  _
-
 >
-
 > _"To reverse this trend, capitalism had to be replaced by an ecological
-society based on non-hierarchical relationships, decentralised communities,
-eco-technologies like solar power, organic agriculture, and humanly scaled
-industries -- in short, by face-to-face democratic forms of settlement
-economically and structurally tailored to the ecosystems in which they were
-located."_ [**Remaking Society**, pp. 154-5]
+> society based on non-hierarchical relationships, decentralised communities,
+> eco-technologies like solar power, organic agriculture, and humanly scaled
+> industries -- in short, by face-to-face democratic forms of settlement
+> economically and structurally tailored to the ecosystems in which they were
+> located."_ [ **Remaking Society** , pp. 154-5]
 
 The vision of an ecological society rests on the obvious fact that people can
 have both positive and negative impacts on the environment. In current
@@ -141,7 +139,7 @@ surplus value produced by workers to those at the top of the pyramid (see
 [section C.2](secC2.md)) Such a design gives ownership and management a very
 strong incentive to expand, since, other things being equal, their income
 rises with every new employee hired. [David Schweickart, **Against
-Capitalism**, pp. 153-4] Hence the hierarchical form of the capitalist
+Capitalism** , pp. 153-4] Hence the hierarchical form of the capitalist
 corporation is one of the main causes of runaway growth as well as social
 inequality and the rise of big business and oligopoly in the so-called "free"
 market.
@@ -164,23 +162,21 @@ self-management beyond the relative lack of expansion of specific workplaces
 and the decentralisation this implies. These are explained well by market
 socialist David Schweickart:
 
-> _ "To the extent that emissions affect the workers directly on the job (as
-they often do), we can expect a self-managed firm to pollute less. Workers
-will control the technology; it will not be imposed on them from without.  
+> _"To the extent that emissions affect the workers directly on the job (as
+> they often do), we can expect a self-managed firm to pollute less. Workers
+> will control the technology; it will not be imposed on them from without.  
 >  _
-
 >
-
 > _"To the extent that emissions affect the local community, they are likely
-to be less severe, for two reasons. Firstly, workers (unlike capitalist
-owners) will necessarily live nearby, and so the decision-makers will bear
-more of the environmental costs directly. Second . . . a self-managed firm
-will not be able to avoid local regulation by running away (or threatening to
-do so). The great stick that a capitalist firm holds over the head of a local
-community will be absent. Hence absent will be the macrophenomenon of various
-regions of the country trying to compete for firms by offering a 'better
-business climate' (i.e. fewer environmental restrictions)."_ [**Op. Cit.**, p.
-145]
+> to be less severe, for two reasons. Firstly, workers (unlike capitalist
+> owners) will necessarily live nearby, and so the decision-makers will bear
+> more of the environmental costs directly. Second . . . a self-managed firm
+> will not be able to avoid local regulation by running away (or threatening
+> to do so). The great stick that a capitalist firm holds over the head of a
+> local community will be absent. Hence absent will be the macrophenomenon of
+> various regions of the country trying to compete for firms by offering a
+> 'better business climate' (i.e. fewer environmental restrictions)."_ [ **Op.
+> Cit.** , p. 145]
 
 For an ecological society to work, it requires the active participation of
 those doing productive activity. They are often the first to be affected by
@@ -194,8 +190,8 @@ essential for the type of economy necessary to solve the ecological crisis.
 These all feed directly into the green vision as _"ecology points to the
 necessity of decentralisation, diversity in natural and social systems, human-
 scale technology, and an end to the exploitation of nature."_ [John Clark,
-**The Anarchist Moment**, p. 115] This can only be achieved on a society which
-bases itself on workers' self-management as this would facilitate the
+**The Anarchist Moment** , p. 115] This can only be achieved on a society
+which bases itself on workers' self-management as this would facilitate the
 decentralisation of industries in ways which are harmonious with nature.
 
 So far, all forms of social anarchism are in agreement. However, eco-
@@ -273,7 +269,7 @@ stockraising, and hunting would be regarded as crafts -- an orientation that
 we hope would be extended as much as possible to the fabrication of use-values
 of nearly all kinds. The need to mass-produce goods in highly mechanised
 installations would be vastly diminished by the communities' overwhelming
-emphasis on quality and permanence."_ [**The Ecology of Freedom**, p. 444]
+emphasis on quality and permanence."_ [ **The Ecology of Freedom** , p. 444]
 
 This means that local communities will generate social and economic policies
 tailored to their own unique ecological circumstances, in co-operation with
@@ -291,16 +287,16 @@ interaction with others and nature.
 
 That is not all. The communal framework would also impact on how industry
 would develop. It would allow eco-technologies to be prioritised in terms of
-R&amp;D and subsidised in terms of consumption. No more would green
-alternatives and eco-technologies be left unused simply because most people
-cannot afford to buy them nor would their development be under-funded simply
-because a capitalist sees little profit form it or a politician cannot see any
-benefit from it. It also means that the broad outlines of production are
-established at the community assembly level while they are implemented in
-practice by smaller collective bodies which also operate on an egalitarian,
-participatory, and democratic basis. Co-operative workplaces form an integral
-part of this process, having control over the production process and the best
-way to implement any general outlines.
+R&D and subsidised in terms of consumption. No more would green alternatives
+and eco-technologies be left unused simply because most people cannot afford
+to buy them nor would their development be under-funded simply because a
+capitalist sees little profit form it or a politician cannot see any benefit
+from it. It also means that the broad outlines of production are established
+at the community assembly level while they are implemented in practice by
+smaller collective bodies which also operate on an egalitarian, participatory,
+and democratic basis. Co-operative workplaces form an integral part of this
+process, having control over the production process and the best way to
+implement any general outlines.
 
 It is for these reasons that anarchists argue that common ownership combined
 with a use-rights based system of possession is better for the environment as
@@ -371,7 +367,7 @@ be an exciting, often dramatic, variety of communal forms -- here marked by
 architectural and industrial adaptations to semi-arid ecosystems, there to
 grasslands, elsewhere by adaptation to forested areas. We will witness a
 creative interplay between individual and group, community and environment,
-humanity and nature."_ [Bookchin, **Post-Scarcity Anarchism**, p. 39]
+humanity and nature."_ [Bookchin, **Post-Scarcity Anarchism** , p. 39]
 
 So, to conclude, in place of capitalism eco-anarchists favour ecologically
 responsible forms of libertarian socialism, with an economy based on the
@@ -392,28 +388,26 @@ humanity by ending domination within humanity itself.
 This is the vision of a green society put forth by Murray Bookchin. To quote
 him:
 
-> _ "We must create an ecological society -- not merely because such a society
-is desirable but because it is direly necessary. We must begin to live in
-order to survive. Such a society involves a fundamental reversal of all the
-trends that mark the historic development of capitalist technology and
-bourgeois society -- the minute specialisation or machines and labour, the
-concentration of resources and people in gigantic industrial enterprises and
-urban entities, the stratification and bureaucratisation of life, the divorce
-of town from country, the objectification of nature and human beings. In my
-view, this sweeping reversal means that we must begin to decentralise our
-cities and establish entirely new eco-communities that are artistically
-moulded to the ecosystems in which they are located . . .  
+> _"We must create an ecological society -- not merely because such a society
+> is desirable but because it is direly necessary. We must begin to live in
+> order to survive. Such a society involves a fundamental reversal of all the
+> trends that mark the historic development of capitalist technology and
+> bourgeois society -- the minute specialisation or machines and labour, the
+> concentration of resources and people in gigantic industrial enterprises and
+> urban entities, the stratification and bureaucratisation of life, the
+> divorce of town from country, the objectification of nature and human
+> beings. In my view, this sweeping reversal means that we must begin to
+> decentralise our cities and establish entirely new eco-communities that are
+> artistically moulded to the ecosystems in which they are located . . .  
 >  _
-
 >
-
 > _"Such an eco-community . . . would heal the split between town and country,
-indeed, between mind and body by fusing intellectual with physical work,
-industry with agriculture in a rotation or diversification of vocational
-tasks. An eco-community would be supported by a new kind of technology -- or
-eco-technology -- one composed of flexible, versatile machinery whose
-productive applications would emphasise durability and quality . . ."_
-[**Toward an Ecological Society**, pp. 68-9]
+> indeed, between mind and body by fusing intellectual with physical work,
+> industry with agriculture in a rotation or diversification of vocational
+> tasks. An eco-community would be supported by a new kind of technology -- or
+> eco-technology -- one composed of flexible, versatile machinery whose
+> productive applications would emphasise durability and quality . . ."_ [
+> **Toward an Ecological Society** , pp. 68-9]
 
 Lastly, we need to quickly sketch out how anarchists see the change to an
 ecological society happening as there is little point having an aim if you
@@ -457,6 +451,6 @@ I](secIcon.md). We will discuss the limitations of various proposed
 solutions to the environmental crisis in the following sections.
 
 [‹ E.1 What are the root causes of our ecological problems?](secE1.md "Go to
-previous page" ) [up](secEcon.md "Go to parent page" ) [E.3 Can private
-property rights protect the environment? ›](secE3.md "Go to next page" )
+previous page") [up](secEcon.md "Go to parent page") [E.3 Can private
+property rights protect the environment? ›](secE3.md "Go to next page")
 
